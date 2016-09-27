@@ -30,7 +30,5 @@ game. I _think_ it will be relatively easy to do, and a smaller task than Psi
 Wars, but time will see if I'm wrong. In addition to that, I'll post other stuff
 as it comes to me, like one-off characters or rules.
 
-
-
 [gurps-day]: https://gamingballistic.blogspot.com.br/p/gurps-day.html
 [psi-wars]: https://mailanka.blogspot.com.br/2016/07/a-psi-wars-primer.html
