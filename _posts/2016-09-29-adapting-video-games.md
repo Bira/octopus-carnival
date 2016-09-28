@@ -5,8 +5,7 @@ category: gurps
 ---
 
 Before I start with the whole Dragon's Dogma thing, I would like to discuss the
-process of adapting a video game itself. It will help explain my decisions, and
-why I think Dragon's Dogma will be relatively easy to adapt.
+process of adapting a video game itself. It will help explain my decisions.
 
 The excellent [GURPS Adaptations][adaptations] contains a wealth of detail on
 how to adapt traditional fiction into an GURPS campaign, and while a lot of that
@@ -45,16 +44,6 @@ the original mechanics without getting hung up on its details. Whenever the two
 conflict in the original, the fiction takes precedence. For games that are part
 of a franchise, I pick from the bits of setting information and mechanics that
 give me the most coherent picture (or at least the picture I like the most).
-
-What does this mean for our specific project of adapting Dragon's Dogma to
-GURPS? It means that we will not translate things like its vocations directly,
-though we will make sure that some characters have primarily physical skills,
-some are primarily magical, and some combine the two approaches. We will not use
-a level-based progression, because that's not how GURPS works. We will not adapt
-every one of its many items of equipment individually, but we might put
-something in place to reflect the ability to upgrade gear. And we will
-definitely not write up a long list of sidequests about killing 10 seagulls and
-29 oxen.
 
 In the end, I hope to have a campaign framework that is enjoyable to play and
 fits GURPS idioms. And I hope you agree with me about the result :).
