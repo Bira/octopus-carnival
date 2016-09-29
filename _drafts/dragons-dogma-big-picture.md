@@ -9,8 +9,7 @@ chapters in [GURPS Adaptations][adaptations] is as good as any. Therefore, we'll
 start our Dragon's Dogma adaptation by looking at the setting's high concept and
 considering our general approach to converting it to GURPS.
 
-What is Dragon's Dogma?
------------------------
+## What is Dragon's Dogma?
 
 Dragon's Dogma is a video game originally released for the Playstation 3, where
 it was shortly followed by a big expansion named "Dragon's Dogma: Dark
@@ -21,8 +20,8 @@ This is an action game with RPG elements, set in a fantasy world. Its combat is
 quite dynamic and its soundtrack excellent. Its setting contains quite a few
 distinctive elements, which we will explore in detail below.
 
-Spoiler Alert?
---------------
+## Spoiler Alert?
+
 
 One thing I must get out of the way immediately is how full of spoilers this
 series of articles is going to be. The game's plot contains several important
@@ -34,11 +33,11 @@ starts, and discuss information that is common knowledge to the characters who
 live there. There will be separate posts dealing with its deeper secrets, and
 those will both contain spoilers be marked as such.
 
-Themes
-------
+## Themes
 
-The Eternal Cycle
-=================
+
+### The Eternal Cycle
+
 
 > Land and skies, and seas yearn
 >
@@ -69,16 +68,16 @@ himself. They will also constantly remind you that there's a fight against the
 dragon looming in your future. And the verses quoted above show up in one form
 or another in most of the game's soundtrack.
 
-The Land is Old
-===============
+### Antiquity
 
-That doesn't just mean it's full of dungeons, either. Several landmarks you pass
-by regularly are structures build in ancient times, and your chatty NPC
-companions will always remark upon this. Some are so old no one even remembers
-who built them, or what they are for.
+The land is old, and that doesn't just mean it's full of dungeons,
+either. Several landmarks you pass by regularly are structures build in ancient
+times, and your chatty NPC companions will always remark upon this. Some are so
+old no one even remembers who built them, or what they are for. Few people seem
+to be curious about this, either, which is another sign that from their point of
+view this stuff has just always been there.
 
-The Land is Dangerous
-=====================
+### Danger
 
 A small army of monsters enters the world along with the Dragon, and many others
 are either native or managed to survive and form stable populations after a
@@ -96,8 +95,7 @@ remark on how unusual and spectacular that feat it. "Normal" people can only
 hope to stand against these in great numbers, and expecting losses.
 
 
-Setting
--------
+## Setting
 
 The setting of Dragon's Dogma will be discussed in greater detail in future
 posts, I'll give a brief description here.
@@ -121,8 +119,8 @@ single nonhuman people (as opposed to monsters) are the Pawns. Pawns look human
 but have a different, somewhat alien mentality. They mostly wander the land
 working as mercenaries, but all have a special tie to the Arisen.
 
-Gameplay
---------
+## Gameplay
+
 
 What do you do as an Arisen in Dragon's Dogma? You walk the land either
 searching for answers to the mystery of the Dragon, or performing tasks for the
@@ -170,8 +168,8 @@ truncated map. It only has two settlements with all its other locations
 consisting of dungeon or quest sites, but the story implies the duchy is bigger
 than that.
 
-Adaptation Stragegy
-===================
+## Adaptation Stragegy
+
 
 Given Gransys's overall look and feel, and what is expected of the player in the
 original game, this definitely sounds like a job for Dungeon Fantasy! That line

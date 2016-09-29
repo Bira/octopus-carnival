@@ -11,13 +11,15 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
+        <h1 class="post-title" itemprop="name headline">
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+        </h1>
 
-        <div class="content">
-          {{ post.content }}
-        </div>
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            {{ post.content }}
+          </div>
+        </article>
       </li>
     {% endfor %}
   </ul>
