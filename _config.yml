@@ -25,6 +25,7 @@ github_username:  Bira
 paginate: 5
 disqus:
   shortname: 'octopus-carnival'
+google_analytics: UA-85001601-1
 # Build settings
 markdown: kramdown
 theme: minima
