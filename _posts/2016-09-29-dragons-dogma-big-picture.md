@@ -91,7 +91,7 @@ inside one, the loading screen displays scary messages emphasizing how dangerous
 the place is.
 
 Often, when the player defeats a particularly nasty monster, nearby NPCs will
-remark on how unusual and spectacular that feat it. "Normal" people can only
+remark on how unusual and spectacular that feat is. "Normal" people can only
 hope to stand against these in great numbers, and expecting losses.
 
 
