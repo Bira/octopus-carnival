@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GURPS Dragon's Dogma: Adventuring in Gransys"
+title: "Dragon's Dogma: Adventuring in Gransys"
 category: gurps
 ---
 
