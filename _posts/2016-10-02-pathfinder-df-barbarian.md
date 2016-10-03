@@ -67,7 +67,7 @@ found [here][amiri-bio]. Judging from those, we can glean a few facts about her:
 
 Here's how I think she should look like in GURPS:
 
-## Amiri, 249-Point Human Barbarian
+## Amiri, 248-Point Human Barbarian
 
 **ST** 17 {70}; **DX** 13 {60}; **IQ** 10 {0}; **HT** 13 {30}.
 
@@ -107,7 +107,7 @@ Damage 1d+2/3d-1; BL 29kg; HP 22 {10}; Will 10; Per 12 {10}; FP 13; Basic Speed
 - Observation (A) Per-1 {1} - 12
 - Running (A) HT-1 {1} - 12
 - Skiing (H) HT-2 {1} - 11
-- Stealth (A) DX {2} - 13
+- Stealth (A) DX-1 {1} - 12
 - Survival (Mountains) (A) Per+3 {1}[^1] - 15
 - Swimming (E) HT {1} - 13
 - Tracking (A) Per+3 {1}[^1] - 15
@@ -138,7 +138,7 @@ $1865.0, 28.0kg. No encumbrance!
 
 ### Design Notes
 
-Amiri spent 1 point in extra starting cash so she could purchase the big
+Amiri spent 2 points in extra starting cash so she could purchase the big
 sword.
 
 Unlike the standard DF 1 Barbarian, Amiri lacks Gigantism, and thus is
