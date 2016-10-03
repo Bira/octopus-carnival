@@ -44,7 +44,7 @@ converted iconic is Amiri:
 
 {::nomarkdown}
 <figure>
-  <img src={{ "/assets/Amiri-small.jpg" | prepend: full_base_url }}/>
+  <img src="{{ "/assets/Amiri-small.jpg" | prepend: full_base_url }}"/>
   <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
 </figure>
 {:/nomarkdown}
