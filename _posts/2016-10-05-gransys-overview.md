@@ -120,8 +120,8 @@ business. The Duke doesn't usually concern himself with the affairs of barons as
 long as they're punctual with the tribute. They are Status 3.
 
 Below them are _landless knights_, who usually serve as part of someone else's
-armed forces. Both male and female knights exist, and both are called by the
-honorific "Ser". They are Status 2.
+armed forces. Both male and female knights are called by the honorific
+"Ser". They are Status 2.
 
 Skilled artisans and well-off citizens are Status 1, average urban denizens are
 Status 0, and peasant farmers are Status -1. The completely destitute are Status
@@ -155,18 +155,19 @@ humble life of quiet contemplation. The spiritual and administrative center of
 the Faith lies outside Gransys, in the mainland.
 
 Ordained members of the Faith go through intense training that ensures they are
-quite academically adept. Aside from theology, they are well-versed in history,
-ancient languages, and even alchemy and herbalism.
+quite the adept scholars. Aside from theology, they are well-versed in history,
+ancient languages, and other disciplines. Monks and nuns of the Faith seem to
+fill a role similar to that of academic researchers in our world.
 
 In addition to the Faith, there are numerous signs throughout Gransys of an
 ancient religion practiced in times past. It venerated entities now known simply
 as "The Old Gods", associated with the four elements. Its ruined temples are
 buried under the ground waiting for those bold enough to find them. The Faith
-regards the religion of the Old Gods with academic curiosity, but frowns on
-anyone who views it as true.
+regards the religion of the Old Gods with scholarly curiosity, but frowns on
+anyone who would consider it more than myth.
 
 Religious Rank in the Faith goes from 0 all the way to 8, but no one in Gransys
-has a Rank bigger than 4 (the head of the Gran Soren Cathedral). Being an
+has a Rank higher than 4 (the head of the Gran Soren Cathedral). Being an
 ordained priest or priestess confers Clerical Investment in addition to Rank,
 but brings no supernatural powers. Of course, nothing stops a priest from also
 studying magic.
