@@ -71,7 +71,7 @@ not popular in Gransys.
 
 Unlike standard Dungeon Fantasy, medicine is at TL 4, and is further boosted by
 the abundance of potent medical herbs in the duchy. Some of those have innate
-magical properties, whose fighters prefer broader and heavier blades.
+magical properties.
 
 Transportation is still at TL 3, with _naval_ transporation barely reaching even
 that. Land-based trade routes are preferred over sea-based ones, due to the
@@ -137,11 +137,11 @@ Feudal Rank equal to their Status. This Rank would symbolize their official
 authority, while Status would be a measure of their social position and
 political influence. This would make it possible to have a wealthy merchant like
 Fournival from the original game, who doesn't hold formal Rank in the feudal
-hierarchy but has Status 3 or 4.
+hierarchy but has Status 3 or 4. In this model, Fedel and Aldous would have
+Courtesy Rank instead of the full version, but would still have the same Status.
 
 If you're just interested in using Gransys as a backdrop for a Dungeon Fantasy
-campaign, then Status and social position doesn't really come into play as an
-advantage.
+campaign, then Status and Rank don't really come into play as advantages.
 
 ## Religion
 
