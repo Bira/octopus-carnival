@@ -19,6 +19,14 @@ class Draft
   end
 end
 
+# Conveniente class for git commands
+class GitUtils
+  def self.mv(source, destination)
+    puts "git mv #{source} #{destination}"
+    system('git', 'mv', source, destination)
+  end
+end
+
 desc 'Publish the first draft in our queue'
 task :publish do
   drafts = Rake::FileList['_drafts/*.md']
@@ -27,15 +35,13 @@ task :publish do
   unless drafts.empty?
     today = Date.today.strftime('%Y-%m-%d')
     first = drafts.shift
-    FileUtils.mv(first.string,
-                 "_posts/#{File.basename(first.relabeled(today))}",
-                 verbose: true)
+    GitUtils.mv(first.string,
+                "_posts/#{File.basename(first.relabeled(today))}")
 
     drafts.each do |draft|
       new_number = format('%04d', draft.number - 1)
-      FileUtils.mv(draft.string,
-                   draft.relabeled(new_number),
-                   verbose: true)
+      GitUtils.mv(draft.string,
+                  draft.relabeled(new_number))
     end
   end
 end
