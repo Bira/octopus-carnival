@@ -54,7 +54,7 @@ spells and alternate song abilities.
 **ST** 8 {10}[^1]; **DX** 13 {40}[^1]; **IQ** 14 {80}; **HT** 12 {10}[^1].
 
 Damage 1d-3/1d-2; BL 6.4kg; HP 10[1]; Will 14; FP 11; Basic Speed 6 {-5}; Basic
-Move 5[1]; SM -2[1].
+Move 5[^1]; SM -2[^1].
 
 **Advantages**
 
