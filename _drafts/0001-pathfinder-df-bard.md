@@ -171,6 +171,6 @@ total load to 9.49kg and Light Encumbrance.
 [^5]: Includes +2 from Halfling Marksmanship.
 
 
-[amiri]: fnord
+[amiri]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
 [lem-bio]: http://pathfinder.wikia.com/wiki/Lem
 [lem-stats]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/lem.html
