@@ -12,7 +12,7 @@ category: gurps
   {% endif %}
 
 Another weekend, another iconic character converted to GURPS Dungeon Fantasy!
-The next template in **DF1** is the Bar, which means that
+The next template in **DF1** is the Bard, which means that
 after [Amiri the Barbarian][amiri] our next subject is Lem the Bard. Here he is:
 
 {::nomarkdown}
@@ -38,25 +38,23 @@ be found [here][lem-stats]. From looking at them we can see the following:
 
 Given the information above, I feel we need to dip into two other DF books to
 properly portray him. As Lem is a halfling, I'll need the racial template from
-**GURPS Dungeon Fantasy 3: The Next Level**, and as the d20 Bard Song power is
-core to his tactics, we'll need its equivalent from **GURPS Dungeon Fantasy 11:
-Power-Ups**.
+**GURPS Dungeon Fantasy 3: The Next Level**. And since the d20 Bard Song power
+is core to his tactics, we'll need its equivalent from **GURPS Dungeon Fantasy
+11: Power-Ups**.
 
 As before, the end result hits pretty much all of the same points as the
-Pathfinder version. Lem's weapons don't do a lot of damagem so he's a lot better
+Pathfinder version. Lem's weapons don't do a lot of damage, so he's a lot better
 off relying on Bard-Song and spells. And while his spells aren't exactly the
 same as those of a Pathfinder bard, they still follow the "mostly hinder enemies
 with a side of helping allies" motif. Good places to spend XP on would be more
 spells and alternate song abilities.
 
-So here's what I think Lem would look like in GURPS:
-
 ## Lem, 250-point Halfling Bard
 
 **ST** 8 {10}[^1]; **DX** 13 {40}[^1]; **IQ** 14 {80}; **HT** 12 {10}[^1].
 
-Damage 1d+2/3d-1; BL 29kg; HP 22 {10}; Will 10; Per 12 {10}; FP 13; Basic Speed
-6.00 {-10}; Basic Move 6.
+Damage 1d-3/1d-2; BL 6.4kg; HP 10[1]; Will 14; FP 11; Basic Speed 6 {-5}; Basic
+Move 5[1]; SM -2[1].
 
 **Advantages**
 
@@ -141,8 +139,8 @@ All get +4 from Bardic Talent.
 **Equipment**
 
 Everything is sized for a SM -2 user unless otherwise noted. Total value and
-weight is $752 and 5.49kg. Filling the wineskin up with water would bring the
-total load to 9.49kg and Light Encumbrance.
+weight is $752 and 5.5kg. Filling the wineskin up with water would bring the
+total load to 9.5kg and Light Encumbrance.
 
 - Enchanted Ordinary Clothes [Torso, Limbs]: DR 1*. $50, 0.2kg.
 - Faerie Shortsword [Torso]: Provides 4 FP as a power item. Reach 1; sw-2 cut or
