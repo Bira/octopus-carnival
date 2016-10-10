@@ -1,14 +1,19 @@
 ---
 layout: post
-title: "Dragon's Dogma: Towns and Castles"
+title: "Dragon's Dogma: Towns"
 categories: gurps
 ---
 
-In this article, we'll discuss towns and castles in Gransys. Unlike
-the [villages and baronies][last-post] we discussed in the last post, we
-actually do have in-game examples of both of these.
+## Introduction
 
-## Towns
+In this article, we'll discuss towns in Gransys. Unlike
+the [villages and baronies][last-post] we discussed in this series' last post,
+we actually do have an in-game example in the town of Cassardis. After talking
+about what towns look like and what narrative themes they enable, we examine a
+few possible sites for new towns in the map, and finish with two example towns
+written using **GURPS City Stats**. One is new, and the other is Cassardis.
+
+## Towns in Gransys
 
 Towns are not just larger than villages, they're also made up of more permanent
 structures and generally less isolated. They see enough traffic and trade from
@@ -27,7 +32,7 @@ world transitioning between TL 3 and 4, and we can extend that to say that it's
 transitioning between a feudal, medieval economy and a monetary, Renaissance
 one. The original game offers some support for this notion during the quests
 related to Fournival, a merchant who holds no title but has quite a lot of pull
-with the Court due to his fortune.
+with the Court due to his fortune and business deals.
 
 Towns, then, are where you begin to see the tension between these two economic
 models. They don't control a lot of farmland directly, but are the center of a
@@ -48,10 +53,11 @@ merchants collude to hoodwink the Duke.
 ### Placing Towns
 
 Cassardis is right there on the map, but it's not the only town in
-Gransys. Where should an enterprising GM place his own made-up towns? They would
-make interesting replacements for the "rest encampments" present in the original
-game. Those consist of a handful of tents inhabited by a guard who performs the
-same functions as an innkeeper and by a peddler who can also enhance weapons.
+Gransys. Where should an enterprising GM place their own made-up towns? They
+would make interesting replacements for the "rest encampments" present in the
+original game. Those consist of a handful of tents inhabited by a guard who
+performs the same functions as an innkeeper and by a peddler who can also
+enhance weapons.
 
 In an expanded world it would make logical sense for those spots to contain
 actual towns, since these are the kinds of services one would be able to find in
@@ -93,7 +99,7 @@ from it by day weren't enough.
 
 #### Political Environment
 **Government**: Dictatorship, Feudal, Municipality;
-**CR**: 4 (Corruption -2)
+**CR**: 4 (Corruption -2);
 **Military Resources**: $75K;
 **Defense Bonus**: +5
 
@@ -154,6 +160,6 @@ Hardship.
 **Military Resources**: $100K;
 **Defense Bonus**: +7
 
-[last-post]: fnord
+[last-post]: https://bira.github.io/octopus-carnival/gurps/2016/10/06/villages-and-baronies.html
 
 [^1]: The origin of Lake Hardship's name is lost to history.
