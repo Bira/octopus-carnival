@@ -45,12 +45,12 @@ The monster is solitary in that it's never seen together with others of its
 kind, but its choice of hunting ground means it's often encountered alongside a
 group of undead or demonic creatures. It seems to have a natural tendency to
 leave these types of monster alone, and they in turn don't bother it. Sometimes,
-a more powerful villain will manage to tame one of these beasts, and set it to
-guard a treasure or stronghold.
+a more powerful villain such as a lich, dark fey lord, or demon will manage to
+tame one of these beasts.
 
 **ST** 20; **DX** 13; **IQ** 5; **HT** 12
 
-**Dodge** 10; **DR** 3; **SM** +1
+**Dodge** 10; **DR** 1 (Tough Skin); **SM** +1
 
 **Will** 10; **Per** 12; **HP** 20; **FP** 12
 
@@ -86,9 +86,10 @@ once per turn.
 The beast should be fought at a distance, with ranged weapons or magic. Of
 course, it will try its hardest to force a melee confrontation by sneaking in
 close before its initial pounce, and it might disrupt the efforts of any ranged
-attackers with its roar.
+attackers with its roar. If keeping away is not an option, distracting it with
+numbers and flanking it is the next best bet.
 
-The sound of its roar is audible over a mile away, so unless the PCs take
+The sound of the lion's roar is audible over a mile away, so unless the PCs take
 precautions like plugging their ears in advance, they _will_ be inside its area
 of effect at the ranges in which the monster likes to use it.
 
@@ -102,6 +103,9 @@ medieval art as deceptive or even satanic embodiments or raw nature.
 The base creature above is well-suited to this, but if you don't think it's
 scary enough you can try these variants:
 
+_Armored_: This variant is covered in reptilian scales instead of leonine
+hide. Raise DR to 4 and remove the Tough Skin limitation.
+
 _Intelligent_: This variant is smart enough to understand speech and come up
 with really clever ambush setups. It's also no longer affected by Animal spells,
 requiring Mind Control magic instead. Raise IQ to 8, Will to 12, and remove Wild
@@ -110,6 +114,8 @@ Animal.
 _Demonic_: A materialized spirit from hell set loose in our plane! Change its
 class to Demon and add Injury Tolerance (Homogenous), which makes it a lot more
 resistant to most ranged weapons.
+
+These variants can stack with each other!
 
 
 
