@@ -12,7 +12,13 @@ category: gurps
   {% endif %}
 
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
-**GURPS Dungeon Fantasy**! Today's template is the Cleric, which means today's
+**GURPS Dungeon Fantasy**! This is the third post in the series. Previous
+entries can be found here:
+
+- [Amiri the Barbarian][4]
+- [Lem the Bard][5]
+
+Today's template is the Cleric, which means today's
 star is Kyra. Here she is:
 
 {::nomarkdown}
@@ -42,7 +48,7 @@ Priest lens from **GURPS Dungeon Fantasy 7: Clerics** fits her better, so
 let's use that!
 
 Once again we managed to hit all the major points of the original character. Her
-mandatory disadvantage is the Vow, which about as annoying as Pacifism
+mandatory disadvantage is the Vow, which about as inconvenient as Pacifism
 (Cannot Harm Innocents) and is priced accordingly. Kyra spends one point in
 extra starting cash in order to afford the scimitar (which has the same stats as
 a thrusting broadsword). Instead of a sling she uses a bow, because that's how
@@ -149,3 +155,5 @@ $1394.0, 26.13kg. Light Encumbrance.
 [1]: http://pathfinder.wikia.com/wiki/Kyra
 [2]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/kyra.html
 [3]: http://pathfinder.wikia.com/wiki/Sarenrae
+[4]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
+[5]: https://bira.github.io/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html
