@@ -50,11 +50,10 @@ Magnet {-15}
 
 **Primary Skills**: Hidden Lore (Demons, Magic Items, Magical Writings, _or_
 Spirits) and Occultism, both (A) IQ {2}-13; Thaumathology (VH) IQ {1}[^2]-13;
-&bull; _One_ of these three missile-weapon packages:
+&bull; _One_ of these two missile-weapon packages:
 
 - Bow (A) DX+3 {12}-16 _and_ Fast-Draw (Arrow) (E) DX+2 {4}-15.
-- Crossbow (E) DX+4 {12}-17 _and_ Fast-Draw (Arrow) (E) DX+2 {4}-15.
-- Sling (H) DX+3 {16}-16.
+- Bow (A) DX+4 {16}-17.
 
 **Secondary Skills**: _Seven_ of Climbing or Stealth, both (A) DX {2}-13;
 Armoury (Missile Weapons), Research, Hazardous Materials (Magical), Hidden Lore
@@ -73,6 +72,25 @@ IQ-1 {1} - 12; Hiking or Running, both (A) HT-1 {1}-10; Intimidation (A) Will-1
 {2}[^2]-15; 26 points in wizardly spells, which will be either (H) IQ+1 {1}-14
 or (VH) IQ {1} - 13 with the +3 from Magery. Some of them may be spent in
 Archmagic abilities instead.
+
+### Customization Notes
+
+The Magic Archer is about as specialized as the Scout, being built around the
+Spell-Archery spell and its prerequisites. A wide spell selection allows for
+plenty of diferentiation between characters, and several different avenues
+present themselves.
+
+_Arcane Artillerists_ blanket the battlefield witht their magic from afar. They
+take extra Magery and/or a large Energy Reserve, go for Area spells, and make
+frequent use of the fact that attacking an area rather than a person gives +4 to
+skill.
+
+_Sorcerous Snipers_ focus on eliminating high-value targets. They take Weapon
+Master (Bow) to improve their base damage and chose single-target damaging touch
+spells to increase it even further.
+
+_Archer-Commanders_ go for Born War Leader and choose beneficial spells to use
+on allies through Arrow of Mercy (see below).
 
 ### Magic Archer Power-Ups
 
