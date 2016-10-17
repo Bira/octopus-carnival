@@ -18,14 +18,6 @@ woods. You trade the Scout's skill at wilderness survival for the ability to
 deliver magical explosions at greater distances than the Wizard (**DF 1**,
 p. 15).
 
-### Magic Archers in Gransys
-
-Magic Archers are relatively rare in Gransys, as it takes a lot of work to get
-this good with both a bow and magic. Noble scions are the ones most likely to
-have the necessary time on their hands, though anyone who makes a living
-fighting could also acquire the necessary training during their careers. This
-includes both knights and bandits!
-
 **Attributes**: ST 12 {20}; DX 13 {60}; IQ 13 {60}; HT 11 {10}.
 
 **Secondary Characteristics**: Damage 1d-1/1d+2; BL 29 lbs (14.4kg); HP 12 {0};
@@ -37,7 +29,7 @@ chosen from among [Archmagic][1] abilities or ST +1 or +2 {10 or 20 points}, DX
 Leader 1-4 {5/level}, Combat Reflexes {15}, Eidetic Memory {5} _or_ Photograpic
 Memory {10}, Fit {5}, Luck {15}, Magery 4 or 5 {10 or 20}, Night Vision 1-5
 {1/level}, Rapid Healing {5}, Signature Gear {Varies}, Weapon Bond {1}, or
-Weapon Master {Bow}.
+Weapon Master (Bow) {20}.
 
 **Disadvantages**: -15 points chosen from among Curious {-5[^1]}, Pyromania
 {-5[^1]}, Callous {-5}, Code of Honor (Pirate's or Soldiers) {-5 or -10}, Greed
@@ -73,6 +65,17 @@ IQ-1 {1} - 12; Hiking or Running, both (A) HT-1 {1}-10; Intimidation (A) Will-1
 or (VH) IQ {1} - 13 with the +3 from Magery. Some of them may be spent in
 Archmagic abilities instead.
 
+### Magic Archers in Gransys
+
+Magic Archers are relatively rare in Gransys, as it takes a lot of work to get
+this good with both a bow and magic. Noble scions are the ones most likely to
+have the necessary time on their hands, though anyone who makes a living
+fighting could also acquire the necessary training during their careers. This
+includes both knights and bandits!
+
+In campaigns where Status and social position matter, Magic Archers have access
+to Status 1 or 2, like knights.
+
 ### Customization Notes
 
 The Magic Archer is about as specialized as the Scout, being built around the
@@ -89,8 +92,8 @@ _Sorcerous Snipers_ focus on eliminating high-value targets. They take Weapon
 Master (Bow) to improve their base damage and chose single-target damaging touch
 spells to increase it even further.
 
-_Archer-Commanders_ go for Born War Leader and choose beneficial spells to use
-on allies through Arrow of Mercy (see below).
+_Archer-Commanders_ go for Born War Leader and choose healing and support spells
+to use on allies through Arrow of Mercy (see below).
 
 ### Magic Archer Power-Ups
 
