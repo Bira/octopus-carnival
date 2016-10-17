@@ -51,6 +51,23 @@ back to the attacker, add elemental damage to the whole party's weapons at once,
 and place damaging mystical sygils on the ground. They fight by _controlling the
 battlefield_ and making sure the enemy suffers for any decision they make.
 
+## Missing Templates
+
+You might have been wondering how the two **DF 1** templates we haven't
+discussed yet fit into this. The short answer is they don't.
+
+_Martial Artists_ would seem like a good example of a Yellow/Blue template, as
+they rely on agility and have access to supernatural powers. However, the
+template as it stands is tied into the whole "kung-fu" aesthetic, which Dragon's
+Dogma doesn't really go for. The "exotic but supremely skilled foreign
+combatant" niche is better filled by a Swashbuckler wielding fencing weapons.
+
+_Holy Warriors_ also seem like a good example of a Red/Blue template, but once
+again the Holy Might power implies a strong connection to the divine that
+doesn't match the way magic works in this setting. Changing this template to
+match Dragon's Dogma magic would be more work than it was for the Cleric, and so
+it's better to drop it.
+
 ## Hybrid Templates
 
 How can we translate the feel of these vocations into Dungeon Fantasy templates?
@@ -74,61 +91,31 @@ always have the right weapon on hand.
 
 For a "Magic Archer"-like character, adding the _Scout_ lens to a spellcaster
 certainly helps, but the most important bit is the _Spell-Archery_ spell found
-in both **DF 3** and **DF 11**. A character with both can be a fearsome
-opponent! Doing it the other way around (Adding a Wizard lens to a Scout) is
-somewhat less efficient but still possible. An Energy Reserve is recommended to
-cover the added cost of Spell Archery. Good spells to pair with spell-archery
-are damaging Area or Melee spells (the latter of which tend to ignore DR).
+in both **DF 3** and **DF 11**. Doing it the other way around (Adding a Wizard
+lens to a Scout) is somewhat less efficient but still possible.
 
-The Mystic Knight presents me with an interesting conundrum. You see, this is my
-vocation of choice in the videogame, so I know a fair bit about how it
-plays. And precisely because of this I'm tempted to come up with new rules to
-represent its particular abilities! It's the exact same trap I described on one
-of [my very first posts][3] on this blog! I'll resist this temptation, though,
-and try to follow the guidelines I've established in past posts.
+Similarly, a "Mystic Knight"-like character could be approximated by either a
+Knight with the _Wizard_ lens or a Wizard with the _Knight_ lens. A Cleric with
+the _Knight_ or _Swashbuckler_ lens would also work and give us a more balanced
+approach.
 
-Therefore, a "Mystic Knight"-like character could be approximated by either a
-Knight with the Wizard lens or a Wizard with the Knight lens. Both choices feel
-somewhat unsatisfactory, as the end result doesn't strike a good balance between
-the "red" and "blue" sides of the concept. A _Cleric_ with the Knight lens gets
-us a bit closer, since clerics in this setting use wizardly spells and are a bit
-fightier than default wizards. The focus should be on spells that add magic
-damage to physical attacks, such as Flaming Weapon and Flaming Armor, and on
-harmful Area spells that can be cast on enemies that have been properly hemmed
-in.
+In both cases, the choices available feel somewhat unsatisfactory, as the end
+result doesn't strike a good enough balance between the physical and magical
+sides of the concept.
 
-## Missing Templates
+As an aside, I'm aware that there's a _Mystic Knight_ template in **Pyramid
+#3/13**. Despite the rather fortuitous naming coincidence, I chose not to
+include it because it uses Imbuements. While I like the concept of Imbuements, I
+don't like the amount of rolls their implementation adds to the average fight.
 
-You might have been wondering how the two **DF 1** templates we haven't
-discussed yet fit into this. You might have expected to see them listed in the
-previous section. Why aren't they there?
-
-_Martial Artists_ would seem like a good example of a Yellow/Blue template, as
-they rely on agility and have access to supernatural powers. However, the
-template as it stands is tied into the whole "kung-fu" aesthetic, which Dragon's
-Dogma doesn't really go for. The "exotic but supremely skilled foreign
-combatant" niche is better filled by a Swashbuckler wielding fencing weapons.
-
-_Holy Warriors_ also seem like a good example of a Red/Blue template, but once
-again the Holy Might power implies a strong connection to the divine that
-doesn't match the way magic works in this setting. Changing this template to
-match Dragon's Dogma magic would be more work than it was for the Cleric.
-
-Also, as an aside, I'm aware that there's a _Mystic Knight_ template in
-**Pyramid #3/13**. Despite the rather fortuitous naming coincidence, I chose not
-to include it because it uses Imbuements. While I like the concept of
-Imbuements, I don't like the amount of rolls their implementation adds to the
-average fight.
-
-## New Templates
+## New Templates!
 
 So it seems we have two vacancies in our template lineup with the removal of the
 Holy Warrior and Martial Artist. Given that the "Mixed Professions" route for
 creating a Magic Archer or a Mystic Knight leaves something to be desired, I
 feel compelled to bring the number of available templates back to 11 by creating
-two entirely new templates for those vocations! This requires some effort, and
-will be my first time creating full templates, so it will be done in future
-posts. Stay tuned!
+two entirely new templates for those vocations. This will be the subject of my
+next couple of posts.
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/13/characters.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/17/characters-part-2.html
