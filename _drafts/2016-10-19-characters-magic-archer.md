@@ -31,7 +31,7 @@ includes both knights and bandits!
 **Secondary Characteristics**: Damage 1d-1/1d+2; BL 29 lbs (14.4kg); HP 12 {0};
 Will 13 {0}; Per 13 {0}; FP 11 {0}; Basic Speed 6.00 {0}; Basic Move 6 {0}.
 
-**Advantages**: Heroic Archer {20} and Magery 3 {35}. <--> A further 20 points
+**Advantages**: Heroic Archer {20} and Magery 3 {35}. &bull; A further 20 points
 chosen from among [Archmagic][1] abilities or ST +1 or +2 {10 or 20 points}, DX
 +1 {20}, IQ +1 {20}; HT +1 or +2 {10 or 20}, Will +1 to +4 {5/level}, Born War
 Leader 1-4 {5/level}, Combat Reflexes {15}, Eidetic Memory {5} _or_ Photograpic
@@ -42,7 +42,7 @@ Weapon Master {Bow}.
 **Disadvantages**: -15 points chosen from among Curious {-5[^1]}, Pyromania
 {-5[^1]}, Callous {-5}, Code of Honor (Pirate's or Soldiers) {-5 or -10}, Greed
 {-15[^1]}, Honesty {-10[^1]}, or Sense of Duty (Adventuring Companions _or_
-Nation) {-5 or -10}. <--> Another -35 points chosen from among the previous
+Nation) {-5 or -10}. &bull; Another -35 points chosen from among the previous
 traits or Bad Temper {-10[^1]}, Frightens Animals {-10}, No Sense of Humor
 {-10}, Oblivious {-5}, Odious Personal Habits {-5 to -15}, Overconfidence
 {-5[^1]}, Stubborness {-5}, Unnatural Features 1-5 {-1/level}, or Weirdness
@@ -50,7 +50,7 @@ Magnet {-15}
 
 **Primary Skills**: Hidden Lore (Demons, Magic Items, Magical Writings, _or_
 Spirits) and Occultism, both (A) IQ {2}-13; Thaumathology (VH) IQ {1}[^2]-13;
-<--> _One_ of these three missile-weapon packages:
+&bull; _One_ of these three missile-weapon packages:
 
 - Bow (A) DX+3 {12}-16 _and_ Fast-Draw (Arrow) (E) DX+2 {4}-15.
 - Crossbow (E) DX+4 {12}-17 _and_ Fast-Draw (Arrow) (E) DX+2 {4}-15.
@@ -59,7 +59,7 @@ Spirits) and Occultism, both (A) IQ {2}-13; Thaumathology (VH) IQ {1}[^2]-13;
 **Secondary Skills**: _Seven_ of Climbing or Stealth, both (A) DX {2}-13;
 Armoury (Missile Weapons), Research, Hazardous Materials (Magical), Hidden Lore
 (any) or Leadership; all (A) IQ {2}-13; Strategy or Tactics, both (H) IQ-1
-{2}-12; or 2 points to raise one of the previous skills by 1.  <--> Either
+{2}-12; or 2 points to raise one of the previous skills by 1.  &bull; Either
 Smallsword (A) DX+2 {4}-15 _or_ Staff (A) DX+2 {4}-15.
 
 **Background Skills**: _Six_ of Brawling, Fast-Draw (any), Jumping or Knife, all
@@ -98,6 +98,6 @@ you know that could be cast by touch. It has Spell-Archery as a prerequisite,
 and works just like it in all other ways.
 
 
-
+[1]: https://bira.github.io/octopus-carnival/gurps/2016/10/17/characters-part-2.html
 [^1]: Multiplied by self-control number; see p. B120.
 [^2]: Includes +3 from Magery.
