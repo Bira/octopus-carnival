@@ -4,6 +4,20 @@ title: "Dragon's Dogma: The Magic Archer"
 category: gurps
 ---
 
+  {% if jekyll.environment == 'production' %}
+  {% assign custom_url = site.url | append: site.baseurl %}
+  {% assign full_base_url = custom_url | default: site.github.url %}
+  {% else %}
+  {% assign full_base_url = site.baseurl %}
+  {% endif %}
+
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/ddquest15.jpg" | prepend: full_base_url }}"/>
+  <figcaption>Copyright 2013 Capcom</figcaption>
+</figure>
+{:/nomarkdown}
+
 As promised, here is the first of the two entirely new templates related to
 Dragon's Dogma. The Magic Archer is meant to combine the archery prowess of a
 Scout with the magic of the Wizard in a more balanced way than what is possible
@@ -37,8 +51,8 @@ Weapon Master (Bow) {20}.
 Nation) {-5 or -10}. &bull; Another -35 points chosen from among the previous
 traits or Bad Temper {-10[^1]}, Frightens Animals {-10}, No Sense of Humor
 {-10}, Oblivious {-5}, Odious Personal Habits {-5 to -15}, Overconfidence
-{-5[^1]}, Stubborness {-5}, Unnatural Features 1-5 {-1/level}, or Weirdness
-Magnet {-15}
+{-5[^1]}, Social Stigma (Excommunicated) {-5[^3]}, Stubborness {-5}, Unnatural
+Features 1-5 {-1/level}, or Weirdness Magnet {-15}
 
 **Primary Skills**: Hidden Lore (Demons, Magic Items, Magical Writings, _or_
 Spirits) and Occultism, both (A) IQ {2}-13; Thaumathology (VH) IQ {1}[^2]-13;
@@ -47,23 +61,22 @@ Spirits) and Occultism, both (A) IQ {2}-13; Thaumathology (VH) IQ {1}[^2]-13;
 - Bow (A) DX+3 {12}-16 _and_ Fast-Draw (Arrow) (E) DX+2 {4}-15.
 - Bow (A) DX+4 {16}-17.
 
-**Secondary Skills**: _Seven_ of Climbing or Stealth, both (A) DX {2}-13;
+**Secondary Skills**: _Eight_ of Climbing or Stealth, both (A) DX {2}-13;
 Armoury (Missile Weapons), Research, Hazardous Materials (Magical), Hidden Lore
 (any) or Leadership; all (A) IQ {2}-13; Strategy or Tactics, both (H) IQ-1
 {2}-12; or 2 points to raise one of the previous skills by 1.  &bull; Either
 Smallsword (A) DX+2 {4}-15 _or_ Staff (A) DX+2 {4}-15.
 
-**Background Skills**: _Six_ of Brawling, Fast-Draw (any), Jumping or Knife, all
-(E) DX {1}-13; Boxing, Riding (Horse), or Wrestling, all (A) DX-1 {1} - 12;
+**Background Skills**: _Seven_ of Brawling, Fast-Draw (any), Jumping or Knife,
+all (E) DX {1}-13; Boxing, Riding (Horse), or Wrestling, all (A) DX-1 {1} - 12;
 First Aid or Gesture, both (E) IQ {1}-13; Cartography or Fast-Talk, both (A)
 IQ-1 {1} - 12; Hiking or Running, both (A) HT-1 {1}-10; Intimidation (A) Will-1
 {1} - 12; Scrounging (E) Per {1} - 13; Observation or Search, both (A) Per-1
 {1} - 12.
 
-**Spells**: Arrow of Mercy (H) IQ+2 {2}[^2]-15; Spell-Archery (H) IQ+2
-{2}[^2]-15; 26 points in wizardly spells, which will be either (H) IQ+1 {1}-14
-or (VH) IQ {1} - 13 with the +3 from Magery. Some of them may be spent in
-Archmagic abilities instead.
+**Spells**: Spell-Archery (H) IQ+2 {2}[^2]-15; 25 points in wizardly spells,
+which will be either (H) IQ+1 {1}-14 or (VH) IQ {1} - 13 with the +3 from
+Magery. Some of them may be spent in Archmagic abilities instead.
 
 ### Magic Archers in Gransys
 
@@ -74,7 +87,8 @@ fighting could also acquire the necessary training during their careers. This
 includes both knights and bandits!
 
 In campaigns where Status and social position matter, Magic Archers have access
-to Status 1 or 2, like knights.
+to Status 1 or 2, like knights. And since all magic in Gransys is wizardly in
+nature the Social Stigma (Excommunicated) advantage is worth only -5 points.
 
 ### Customization Notes
 
@@ -93,7 +107,11 @@ Master (Bow) to improve their base damage and chose single-target damaging touch
 spells to increase it even further.
 
 _Archer-Commanders_ go for Born War Leader and choose healing and support spells
-to use on allies through Arrow of Mercy (see below).
+to use on allies through boffer arrows (see the Cleric-Scout lens on **DF 3**,
+p. 23 ). If using the template on a generic Dungeon Fantasy game, you could
+replace Magery 3 {35} with Clerical Investment {5} and Power Investiture 3 {30}
+on the template and add an apropriate required disadvantage to make it a Holy
+Archer.
 
 ### Magic Archer Power-Ups
 
@@ -109,16 +127,7 @@ template, plus these options:
 - The Double-Shot (**DF 11**, p. 32), Quick-Shot (**DF 11**, p. 33) and
   Strongbow (**DF 11**, p. 33) power-ups.
 
-## New Spell
-
-### Arrow of Mercy (Special)
-
-This works exactly like Spell-Archery, except it creates a ghostly projectile
-that does no damage and imbues it with the energy of another _beneficial_ spell
-you know that could be cast by touch. It has Spell-Archery as a prerequisite,
-and works just like it in all other ways.
-
-
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/17/characters-part-2.html
 [^1]: Multiplied by self-control number; see p. B120.
 [^2]: Includes +3 from Magery.
+[^3]: Or -10 in generic Dungeon Fantasy.
