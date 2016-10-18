@@ -44,12 +44,12 @@ ammunition. Their abilities add specific elemental and "trick" effects to their
 arrows (bouncing on walls, explosions, and so on). They fight mostly by
 remaining at range and hitting enemies on their _elemental vulnerabilities_.
 
-The Red/Blue vocation is the _Mystic Knight_. Its main strength is _battlefield
-control_. Mystic Knighs wear heavy armor and wield one-handed swords or maces
-paired with large sheilds. Their abilities allow them to reflect blocked damage
-back to the attacker, add elemental damage to the whole party's weapons at once,
-and place damaging mystical sygils on the ground. They fight by _controlling the
-battlefield_ and making sure the enemy suffers for any decision they make.
+The Red/Blue vocation is the _Mystic Knight_. Mystic Knights wear heavy armor
+and wield one-handed swords or maces paired with large shields. Their abilities
+allow them to reflect blocked damage back to the attacker, add elemental damage
+to the whole party's weapons at once, and place damaging mystical sigils on the
+ground. They fight by _controlling the battlefield_ and making sure the enemy
+suffers for any decision they make.
 
 ## Missing Templates
 
@@ -83,7 +83,7 @@ those options here.
 
 A good way to get a versatile, "Assassin"-like character is to add a _Scout_
 lens to a character who started with either the Knight or Swashbuckler
-template. Alternatively, you can add the _Swashbuckler_ lens to a Scout, chosing
+template. Alternatively, you can add the _Swashbuckler_ lens to a Scout, choosing
 a melee weapon such as a broadsword. This will leave you with an agile character
 who is equally adept at ranged and melee combat. A small investment in the
 appropriate Fast-Draw specialties and the Quick-Sheathe perk can ensure you
