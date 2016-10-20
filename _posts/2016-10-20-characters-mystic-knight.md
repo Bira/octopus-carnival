@@ -170,30 +170,30 @@ disallow them!
 Adds the effect of either Flaming Weapon or Flaming Missiles on the melee and
 missile weapons held by every person in the affected area.
 
-_Duration_: 1 minute.
-_Base Cost_: 5. Cannot be maintained.
-_Time to Cast_: 2 seconds.
-_Prerequisites_: Magery 3 and Flaming Missiles.
+- _Duration_: 1 minute.
+- _Base Cost_: 5. Cannot be maintained.
+- _Time to Cast_: 2 seconds.
+- _Prerequisites_: Magery 3 and Flaming Missiles.
 
 ### Frost Trance (Area)
 
 Like Flame Trance, but adds the effects of Icy Weapon and Icy Missiles as
 appropriate.
 
-_Duration_: 1 minute.
-_Base Cost_: 4. Cannot be maintained.
-_Time to Cast_: 2 seconds.
-_Prerequisites_: Magery 2 and Icy Missiles.
+- _Duration_: 1 minute.
+- _Base Cost_: 4. Cannot be maintained.
+- _Time to Cast_: 2 seconds.
+- _Prerequisites_: Magery 2 and Icy Missiles.
 
 ### Lightning Trance (Area)
 
 Like Flame Trance, but adds the effects of Lightning Weapon or Lightning
 Missiles as appropriate.
 
-_Duration_: 1 minute.
-_Base Cost_: 5. Cannot be maintained.
-_Time to Cast_: 3 seconds.
-_Prerequisites_: Magery 3 and Lightning Missiles.
+- _Duration_: 1 minute.
+- _Base Cost_: 5. Cannot be maintained.
+- _Time to Cast_: 3 seconds.
+- _Prerequisites_: Magery 3 and Lightning Missiles.
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/19/characters-magic-archer.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/17/characters-part-2.html
