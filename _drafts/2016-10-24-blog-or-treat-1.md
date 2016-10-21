@@ -41,11 +41,11 @@ stragglers and using its roar to drive others away before dragging its victim
 off. In either case, it prefers to attack by biting and hanging on, letting the
 snakes finish the job and helping them along with its claws.
 
-The monster is solitary in that it's never seen together with others of its
+The monster is solitary in that it's rarely seen together with others of its
 kind, but its choice of hunting ground means it's often encountered alongside a
 group of undead or demonic creatures. It seems to have a natural tendency to
-leave these types of monster alone, and they in turn don't bother it. Sometimes,
-a more powerful villain such as a lich, dark fey lord, or demon will manage to
+leave these monster types alone, and they in turn don't bother it. Sometimes, a
+more powerful villain such as a lich, dark fey lord, or demon will manage to
 tame one of these beasts.
 
 **ST** 20; **DX** 13; **IQ** 5; **HT** 12
@@ -58,7 +58,8 @@ tame one of these beasts.
 
 - **Terrifying Roar**: Anyone who hears it must make a Fright Check at
   -2. Usable once per fight.
-- **Bite** (15): 2d cutting. Reach C. Treat as a weapon, not as a body part.
+- **Bite** (15): 2d cutting. Reach C. May grapple the target on a hit. Treat as
+  a weapon, not as a body part.
 - **Talons** (15): 2d cutting. Reach C, 1. Treat as a weapon, not as a body part.
 - **Serpent Mane** (18) (x4): 2 impaling + follow-up 1d toxic (HT-1, plus -1 per
   additional bite, to resist; 5 cycles; 1 minute per cycle). Often aimed at the
@@ -70,7 +71,7 @@ tame one of these beasts.
 Fearlessness 5; Night Vision 7; Penetrating Voice; Quadruped; Restricted Diet
 (Fresh Meat); Sadism (9); Wild Animal; Terror 2 (Roar).
 
-**Skills**: Brawling-15; Stealth-15;
+**Skills**: Brawling-15; Stealth-15; Wrestling-15;
 
 **Class**: Hybrid.
 
