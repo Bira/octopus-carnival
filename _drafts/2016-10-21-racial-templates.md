@@ -24,10 +24,10 @@ racial templates. What options do players have for creating non-human
 characters?
 
 The default answer is "not many". The original game started out with a more
-traditional fantasy setting containing all the default races, but was eventually
-developed into the setting we see when playing it. _Humans_ make up the bulk of
-civilization in Gransys and the rest of the world. A minority of alien _Pawns_
-are the only non-humans who are also part of it.
+traditional fantasy setting containing all the races you'd expect, but was
+eventually developed into the setting we see when playing it. _Humans_ make up
+the bulk of civilization in Gransys and the rest of the world. A minority of
+alien _Pawns_ are the only non-humans who are also part of it.
 
 There are other non-human sapients around: _Goblins_ and their _Hobgoblin_
 cousins clearly have a civilization of sorts, and the various species of
@@ -62,10 +62,17 @@ want to use those instead, or to integrate the Rift with them.
 
 ## The Arisen (10 points)
 
-The Arisen are those people who dare stand against the Dragon when it first
-enters the world. For this, they are marked in a mystical ritual where the
-Dragon consumes their heart. The stolen heart still beats within the beast, and
-so the victim rises again compelled to confront it once more.
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/arisen-party.jpg" | prepend: full_base_url }}"/>
+  <figcaption>Copyright 2013 Capcom</figcaption>
+</figure>
+{:/nomarkdown}
+
+The Arisen are those who dare stand against the Dragon when it first enters the
+world. For this, they are marked in a mystical ritual where the Dragon consumes
+their heart. The stolen heart still beats within the beast, and so the victim
+rises again compelled to confront it once more.
 
 Having no heart, the Arisen also have no pulse or heartbeat. The ritual also
 leaves a very large and distinctive scar in their chests, which is the same
@@ -85,12 +92,17 @@ though it is unclear if this comes from their condition or if they were chosen
 for being heroic in the first pĺace. Either way, Arisen PCs shouldn't be built
 on less than 250 points.
 
+It's worth noting that the ability to drawn Pawns forth from the Rift is a
+0-point feature. At most it's a way of acquiring an Ally (see Arisen Power-Ups
+below), but usually it's just fancier dressing for the usual Search rolls to
+find and hire henchmen.
+
 **Advantages**: Injury Tolerance: No Vitals (Heart only, -50%) {3}; Hero 2 {10};
 
 **Disadvantages**: Unnatural Features (No heartbeat, occasionally glowing scar)
 {-3}[^1];
 
-**Features**: Unaging[^2].
+**Features**: Unaging[^2]; Can interact with the Rift through Riftstones.
 
 ### Arisen NPCs
 
@@ -103,7 +115,7 @@ greatly.
 ### Arisen PCs
 
 An Arisen PC will necessarily bring with it the narrative of the Dragon. It must
-be addressed, even if it's just a sentence in the character's backstory
+be addressed, even if it's just a sentence in the character's back story
 explaining how they avoided the confrontation. If it's publicly known that the
 character avoided their "fate", the positive reputation implied by the Hero
 advantage can be replaced by a negative reputation for cowardice or laziness
@@ -131,6 +143,13 @@ hostile towards their younger "siblings".
 
 ## Pawns (-15 points)
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/pawn_by_tiger_type-da2q9fi.jpg" | prepend: full_base_url }}"/>
+  <figcaption><a href="http://www.deviantart.com/art/Pawn-609246270">By TIGER-TYPE on Deviant Art.</a></figcaption>
+</figure>
+{:/nomarkdown}
+
 Any world subject to the cycle of draconic invasion is riddled with rifts that
 open to a foggy place beyond it. From these rifts comes the Pawn Legion,
 familiar yet alien.
@@ -146,22 +165,21 @@ presence of an Arisen.
 
 The main difference between a human and a Myrmidon is psychological. From a
 human's point of view, Pawns have a cold and detached demeanor that makes them
-hard to relate to. Even when they do display emotion, they seem somewhat
-off. They also seem to have a problem displaying significant personal
-initiative, which is why most of them make a living as errant mercenaries,
-singly or in small groups. Unlike most standard fantasy races, the average
-Myrmidon is an adventurer. It's the "civilians" who are the vanishingly rare
-exception. Regardless of their profession, all Pawns consider themselves to be
-members of the "Pawn Legion", and never fight each other.
-
-Pawns are unaging, and have very long memories. Those who feel particularly
-well-disposed towards their master or employer might offer a constant stream of
-advice drawn from these memories in an attempt to be more helpful. Fortunately,
-they can be taught to tone it down.
+hard to relate to. They do have emotions and the ability to display them, but
+the way they do so feels "off" in way that's hard to describe. They also seem to
+have a problem displaying significant personal initiative, which is why most of
+them make a living as errant mercenaries, singly or in small groups. Unlike most
+standard fantasy races, the average Myrmidon is an adventurer. It's the
+"civilians" who are the rare exceptions. Regardless of their profession, all
+Pawns consider themselves to be members of the "Pawn Legion", and never fight
+each other.
 
 Pawns directly created by an Arisen are unflinchingly loyal to their creator,
-and all Pawns are predisposed to respect any Arisen they meet. Should they be
-treated well by such a person they will gladly work for room and board if asked.
+and all Pawns are predisposed to respect any Arisen they meet. They are unaging
+and have very long memories. Those who feel particularly well-disposed towards
+their master or employer might offer a constant stream of advice drawn from
+these memories in an attempt to be more helpful. Fortunately, they can learn to
+tone it down.
 
 When a Pawn is killed, their body dematerializes. They can be drawn back to life
 from the Rift by an Arisen. This weakens the Pawn's metaphysical cohesion, so it
@@ -185,7 +203,7 @@ behavior. It's similarly easy to make them NPCs in a tabletop campaign: any
 sufficiently-sized city will have a small contingent of Pawns ready to act as
 hirelings for an adventuring party. They're a little cheaper than equivalent
 human help, which compensates for the increased supervision their lack of
-flexibility requires. They're still smart enought to refuse to work for a party
+flexibility requires. Like any hireling, they will refuse to work for a party
 who purposefully endangers or mistreats them! Word gets around, even among
 Pawns.
 
@@ -206,11 +224,12 @@ points.
 ### Pawn Power-Ups
 
 Pawns who serve an Arisen for a long time or who develop strong relationships
-with non-Pawns might find their own souls strengthened by these bonds. They may
-buy more instances of Extra Life for 15 points each, and Special Rapport with
-their Arisen creator. Additionally, they may buy off the Low Empathy and
-Hidebound disadvantages from the lens. Extraordinary circumstances might allow a
-Myrmidon to buy off the entire lens and become a full member of their base race.
+with other non-Pawns might find their own souls strengthened by these
+bonds. They may buy more instances of Extra Life for 15 points each, and Special
+Rapport with their Arisen creator for 5 points. Additionally, they may buy off
+the Low Empathy and Hidebound disadvantages from the lens. Extraordinary
+circumstances might allow a Myrmidon to buy off the entire lens and become a
+full member of their base race.
 
 [^1]: Gives +3 to any roll to identify you as Arisen. Identification is
     automatic when the scar glows!
