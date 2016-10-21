@@ -97,12 +97,12 @@ It's worth noting that the ability to drawn Pawns forth from the Rift is a
 below), but usually it's just fancier dressing for the usual Search rolls to
 find and hire henchmen.
 
-**Advantages**: Injury Tolerance: No Vitals (Heart only, -50%) {3}; Hero 2 {10};
+**Advantages**: Injury Tolerance: No Vitals (Heart only, -50%) {3}[^1]; Hero 2 {10};
 
 **Disadvantages**: Unnatural Features (No heartbeat, occasionally glowing scar)
-{-3}[^1];
+{-3}[^2];
 
-**Features**: Unaging[^2]; Can interact with the Rift through Riftstones.
+**Features**: Unaging[^3]; Can interact with the Rift through Riftstones.
 
 ### Arisen NPCs
 
@@ -192,7 +192,7 @@ Riftstone, -40%) {15}.
 **Disadvantages**: Hidebound {-5}; Low Empathy {-20}; Social Stigma (Minority
 Group) {-10}.
 
-**Features**: Unaging[^2]; Reacts at +2 to Arisen; Cannot be resurrected by any
+**Features**: Unaging[^3]; Reacts at +2 to Arisen; Cannot be resurrected by any
 other means.
 
 ### Pawn NPCs
@@ -231,6 +231,10 @@ the Low Empathy and Hidebound disadvantages from the lens. Extraordinary
 circumstances might allow a Myrmidon to buy off the entire lens and become a
 full member of their base race.
 
-[^1]: Gives +3 to any roll to identify you as Arisen. Identification is
+[^1]: When struck on the vitals from the front, roll 1d. On a 1-2, treat it as a
+    normal torso hit.
+
+[^2]: Gives +3 to any roll to identify you as Arisen. Identification is
     automatic when the scar glows!
-[^2]: Not worth points in a Dungeon Fantasy game.
+
+[^3]: Not worth points in a Dungeon Fantasy game.
