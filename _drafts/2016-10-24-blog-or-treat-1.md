@@ -56,16 +56,19 @@ tame one of these beasts.
 
 **Speed** 6.25; **Move** 6.
 
-- **Terrifying Roar**: Anyone who hears it must make a Fright Check at
+- **Terrifying Roar (-)** : Anyone who hears it must make a Fright Check at
   -2. Usable once per fight.
-- **Bite** (15): 2d cutting. Reach C. May grapple the target on a hit. Treat as
-  a weapon, not as a body part.
-- **Talons** (15): 2d cutting. Reach C, 1. Treat as a weapon, not as a body part.
-- **Serpent Mane** (18) (x4): 2 impaling + follow-up 1d toxic (HT-1, plus -1 per
-  additional bite, to resist; 5 cycles; 1 minute per cycle). Often aimed at the
-  face (-5) or neck (-5) if those are unarmored.
-- **A Thousand Bites**: Bite at 15/Serpent Mane x4 at 18.
-- **Horrid Onslaught**: Bite at 12/Talon at 12/Serpent Mane x4 at 18.
+- **Bite (15)**: 2d cutting. Reach C. May grapple the target on a hit. Parried
+  as a weapon.
+- **Talons (15)**: 2d cutting. Reach C, 1. Parried as a weapon.
+- **Serpent Mane (18) (x4)**: 2 points impaling + follow-up 1d toxic (HT-1, plus
+  -1 per additional bite, to resist; 5 cycles; 1 minute per cycle). Often aimed
+  at the face (-5) or neck (-5) if those are unarmored.
+- **A Thousand Bites (-)**: A Bite aimed at the torso followed by four Serpent
+  Mane attacks aimed at the grappled target's torso, face, or head.
+- **Horrid Onslaught (-)**: A Rapid Strike combining a Talons attack and a Bite
+  aimed at the torso, followed by four Serpent Mane attacks aimed at the
+  grappled target's torso, face or head.
 
 **Traits**: Combat Reflexes; Extra Attack 4 (Serpent Mane only);
 Fearlessness 5; Night Vision 7; Penetrating Voice; Quadruped; Restricted Diet
@@ -116,7 +119,8 @@ _Demonic_: A materialized spirit from hell set loose in our plane! Change its
 class to Demon and add Injury Tolerance (Homogenous), which makes it a lot more
 resistant to most ranged weapons.
 
-These variants can stack with each other!
+These variants can stack with each other and with any of the generic monster
+prefixes from **GURPS Dungeon Fantasy Monsters 1**.
 
 
 
