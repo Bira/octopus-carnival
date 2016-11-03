@@ -4,20 +4,13 @@ title: "Pathfinder Iconics in Dungeon Fantasy: Lem"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 Another weekend, another iconic character converted to GURPS Dungeon Fantasy!
 The next template in **DF1** is the Bard, which means that
 after [Amiri the Barbarian][amiri] our next subject is Lem the Bard. Here he is:
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/Lem.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/Lem.jpg" | absolute_url }}"/>
   <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
 </figure>
 {:/nomarkdown}

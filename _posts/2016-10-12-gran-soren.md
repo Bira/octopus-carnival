@@ -4,16 +4,9 @@ title: "Dragon's Dogma: The City of Gran Soren"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/Concept_Art_-_Gran_Soren.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/Concept_Art_-_Gran_Soren.jpg" | absolute_url }}"/>
   <figcaption>Copyright 2012 Capcom</figcaption>
 </figure>
 {:/nomarkdown}

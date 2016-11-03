@@ -4,13 +4,6 @@ title: "Pathfinder Iconics in Dungeon Fantasy: Kyra"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
 **GURPS Dungeon Fantasy**! This is the third post in the series. Previous
 entries can be found here:
@@ -23,7 +16,7 @@ star is Kyra. Here she is:
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/Kyra.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/Kyra.jpg" | absolute_url }}"/>
   <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
 </figure>
 {:/nomarkdown}

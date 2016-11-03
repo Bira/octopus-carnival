@@ -4,13 +4,6 @@ title: "Pathfinder Iconics in Dungeon Fantasy: Amiri"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 As I write this, I noticed that we've had a handful of GURPS posts already and
 none of then has included any GURPS stats yet! I'll try to remedy that
 here. Since it might be a while until I have concrete rules to show for the
@@ -44,7 +37,7 @@ converted iconic is Amiri:
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/Amiri-small.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/Amiri-small.jpg" | absolute_url }}"/>
   <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
 </figure>
 {:/nomarkdown}

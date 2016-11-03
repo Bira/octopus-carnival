@@ -56,7 +56,7 @@ want to use those instead, or to integrate the Rift with them.
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/arisen-party.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/arisen-party.jpg" | absolute_url }}"/>
   <figcaption>Copyright 2013 Capcom</figcaption>
 </figure>
 {:/nomarkdown}
@@ -137,7 +137,7 @@ hostile towards their younger "siblings".
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/pawn_by_tiger_type-da2q9fi.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/pawn_by_tiger_type-da2q9fi.jpg" | absolute_url }}"/>
   <figcaption><a href="http://www.deviantart.com/art/Pawn-609246270">By TIGER-TYPE on Deviant Art.</a></figcaption>
 </figure>
 {:/nomarkdown}
