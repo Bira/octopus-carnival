@@ -9,16 +9,9 @@ secretive cabal of GURPS bloggers. Here at Octopus Carnival, I will present to
 you two particularly scary monsters! One you see below, the other will grace
 your screen tomorrow.
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/snakes_in_my_mane.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/snakes_in_my_mane.jpg" | absolute_url }}"/>
   <figcaption><a href="http://n4u2k.deviantart.com/art/Snakes-In-My-Mane-colour-480290284">Source</a></figcaption>
 </figure>
 {:/nomarkdown}

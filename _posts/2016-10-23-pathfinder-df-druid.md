@@ -4,13 +4,6 @@ title: "Pathfinder Iconics in Dungeon Fantasy: Lini"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
 **GURPS Dungeon Fantasy!** This is the fourth post in the series. Previous
 entriers can be found here:
@@ -23,7 +16,7 @@ Today's template is the Druid, which means today's star is Lini. Here she is:
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/Lini.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/Lini.jpg" | absolute_url }}"/>
   <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
 </figure>
 {:/nomarkdown}

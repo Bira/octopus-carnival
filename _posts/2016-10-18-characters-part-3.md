@@ -4,16 +4,9 @@ title: "Dragon's Dogma: Characters, Part 3"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/top_main_chara.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/top_main_chara.jpg" | absolute_url }}"/>
   <figcaption>Copyright 2013 Capcom</figcaption>
 </figure>
 {:/nomarkdown}

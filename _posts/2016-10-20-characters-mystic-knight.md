@@ -5,16 +5,9 @@ categories: gurps
 ---
 
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/ruan-jia-diabloiii.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/ruan-jia-diabloiii.jpg" | absolute_url }}"/>
   <figcaption>By <a href="https://www.artstation.com/artwork/oAdKz">Ruan Jia</a></figcaption>
 </figure>
 {:/nomarkdown}

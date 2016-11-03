@@ -4,16 +4,9 @@ title: "Dragon's Dogma: The Magic Archer"
 category: gurps
 ---
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/ddquest15.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/ddquest15.jpg" | absolute_url }}"/>
   <figcaption>Copyright 2013 Capcom</figcaption>
 </figure>
 {:/nomarkdown}

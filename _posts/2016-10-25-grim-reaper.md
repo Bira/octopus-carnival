@@ -8,16 +8,9 @@ Welcome to our second Blog or Treat article! I wanted to do another scary
 monster during this week, and figured there was no reason think small. So in
 this post we'll stat up Death.
 
-  {% if jekyll.environment == 'production' %}
-  {% assign custom_url = site.url | append: site.baseurl %}
-  {% assign full_base_url = custom_url | default: site.github.url %}
-  {% else %}
-  {% assign full_base_url = site.baseurl %}
-  {% endif %}
-
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/DDDADeath.jpg" | prepend: full_base_url }}"/>
+  <img src="{{ "/assets/DDDADeath.jpg" | absolute_url }}"/>
   <figcaption>Copyright 2013 Capcom.</figcaption>
 </figure>
 {:/nomarkdown}
