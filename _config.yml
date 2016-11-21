@@ -22,6 +22,7 @@ baseurl: "/octopus-carnival" # the subpath of your site, e.g. /blog
 url: "https://Bira.github.io" # the base hostname & protocol for your site
 twitter_username: mestre_bira
 github_username:  Bira
+gems: [jekyll-paginate]
 paginate: 5
 disqus:
   shortname: 'octopus-carnival'
