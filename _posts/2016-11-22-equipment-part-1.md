@@ -4,6 +4,13 @@ title: "Dragon's Dogma: Items and Equipment"
 category: gurps
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/pawn-guild.png" | absolute_url }}"/>
+  <figcaption>Copyright 2013 Capcom.</figcaption>
+</figure>
+{:/nomarkdown}
+
 Now that we have a good handle on the locations and characters of Gransys, let's
 take a look at its _stuff_. This means both the gear available to its delvers
 and the treasure that can be obtained from its dungeons. We'll start with money,
