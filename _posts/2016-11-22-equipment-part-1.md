@@ -21,10 +21,10 @@ since that figures prominently in both categories.
 The original game used a simplified currency system typical of electronic
 RPGs. The unit of currency was a generic "gold piece". Early game items had
 2-digit prices for consumables and 4-digit prices for equipment, going up to 5-
-and 6-digit respectively in the late game. Money was found in bags containing up
-to 10 thousand gold pieces either hidden in dungeons, or dropped from
-enemies. It could also be earned by selling items in town, and by the end-game
-selling unused equipment is the player's main source of income.
+and 6-digit prices respectively in the late game. Money was found in bags
+containing up to 10 thousand gold pieces either hidden in dungeons, or dropped
+from enemies. It could also be earned by selling items in town, and by the
+end-game selling unused equipment is the player's main source of income.
 
 We can afford to be a little more detailed in this adaptation. I want Gransys to
 have a currency system that fits more with the "dungeon fantasy" genre and if
@@ -46,7 +46,7 @@ among the common citizens in the baronies and villages, who make most of what
 they need themselves and barter with their neighbors for the rest. They might
 still own some money from trading with traveling peddlers, but it's not unusual
 for it to be used solely for that purpose. Feudal lords at this level take their
-tribute in goods, not money.
+tribute in goods more often than in money.
 
 These coin weights mean that the 10-thousand-coin "giant bag of gold" found in
 the orignal game would likely be a good deal smaller than its in-game graphic
@@ -104,6 +104,10 @@ master of the sort who hides away from the world and places absurd demands on
 prospective customers. Either way, it requires adventuring to get!
 
 At the top end, most of the Artifacts from **Dungeon Fantasy 6** and similar
-sources would be appropriate for inclusion in the game.
+sources would be appropriate for inclusion in the game. They would obviously
+only be available as hard-to-find loot.
+
+In the next article in this series, we'll take a look at one of the original
+game's most distinctive subsystems - equipment upgrades!
 
 [1]: https://bira.github.io/octopus-carnival/2016/10/06/villages-and-baronies.html
