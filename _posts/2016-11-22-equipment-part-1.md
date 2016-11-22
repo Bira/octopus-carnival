@@ -110,4 +110,7 @@ only be available as hard-to-find loot.
 In the next article in this series, we'll take a look at one of the original
 game's most distinctive subsystems - equipment upgrades!
 
+In the next article in this series, we'll take a look at one of the original
+game's most distinctive subsystems - equipment upgrades!
+
 [1]: https://bira.github.io/octopus-carnival/2016/10/06/villages-and-baronies.html
