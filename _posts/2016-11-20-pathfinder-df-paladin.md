@@ -101,6 +101,8 @@ Damage 1d/2d-1; BL 16.9kg; HP 13; Will 14 {10}; Per 12; FP 13; Basic Speed 6.00
 
 **Equipment**
 
+$2000.0, 52.13kg. Just barely into Heavy Encumbrance.
+
 - Ordinary Clothing **[Torso, Limbs]**: Free, 1kg.
 - Scale Armor **[Torso]**: DR 4. $420, 17.5kg.
 - Mail Leggings **[Legs]**: DR 4/2*. $110, 7.5kg.
