@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Equipment Upgrades in Dungeon Fantasy"
+title: "Dragon's Dogma Equipment Upgrades in Dungeon Fantasy"
 category: gurps
 ---
 
@@ -178,7 +178,7 @@ coat of arms. That last one was especially hard to find.
 
 The GM judges that the first two components are Basic, the silver is Good and
 the Flower is Fine, for a total of $4600 in value. However, since Alexa has gone
-to the trouble to make sure every one of them is symbolically related to her
+to the trouble of making sure every one of them is symbolically related to her
 quest to bring glory and prosperity back to her family, they also decide that
 these components are enough to cover the $7500 material cost of the upgrade
 after all.
