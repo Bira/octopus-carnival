@@ -41,13 +41,13 @@ And... that's pretty much it. Anything else I could say here would just be
 reiterating his biography, which I try to avoid doing too much in these
 writeups. The most unique thing about Valeros is that he likes to fight with two
 swords. The standard Knight template is more than enough to cover that, and
-unlike the d20 Fighter it actually lives up to its reputation as the most
-effective overall combatant in the game!
+unlike the d20 Fighter it actually lives up to its reputation as an effective
+combatant.
 
 As you can see below, our version of Valeros wields two full-sized broadswords
 instead of a longsword/shortsword pair, because there's no restriction
-preventing him from doing so in GURPS. He spent 2 of his character points in
-starting cash.
+preventing him from doing so in GURPS. The **Two-Weapon Fighting** power-up is
+from **DF 11**. He spent 2 of his character points in starting cash.
 
 ## Valeros, 248-point Human Fighter
 
