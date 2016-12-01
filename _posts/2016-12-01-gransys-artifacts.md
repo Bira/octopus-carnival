@@ -15,8 +15,7 @@ Our two [previous][1] [posts][2] cover "generic" equipment and magic items
 pretty well, but the original game also has plenty of distinct items with
 individual names. While some of those are just part of the traditional JRPG
 upgrade treadmill, others would make fine artifacts for a **Dungeon Fantasy**
-game. We'll show some of them here, with references do **GURPS Dungeon Fantasy
-6** and **GURPS Dungeon Fantasy Treasures 2** where appropriate.
+game. We'll discuss them here.
 
 As described in these supplements, artifacts are magic items that don't follow
 the default rules for such in GURPS. In Gransys, their most likely origins are
@@ -51,3 +50,6 @@ them are those used by an ancient _Arisen_ to slay _The_ Dragon.
 
 Obviously, it costs nothing to enhance an item in this way, other than having to
 fight a dragon.
+
+[1]: https://bira.github.io/octopus-carnival/gurps/2016/11/22/equipment-part-1.html
+[2]: https://bira.github.io/octopus-carnival/gurps/2016/11/25/equipment-part-2.html
