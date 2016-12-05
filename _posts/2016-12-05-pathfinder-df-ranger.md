@@ -25,9 +25,9 @@ Harsk. Here he is:
 </figure>
 {:/nomarkdown}
 
-Just Look at all that compressed compressed rage! His [bio][7] does give him
-plenty to be angry about. Harsk's official stats are [here][8]. From these we
-can learn the following:
+Just Look at all that compressed rage! His [bio][7] does give him plenty to be
+angry about. Harsk's official stats are [here][8]. From these we can learn the
+following:
 
 - Harsk is a Dwarf from Varisia, a "wild frontier" region that doesn't have any
   blatant ties to real-world cultures. He was a bit of an outsider to his own
@@ -60,10 +60,11 @@ from Heroic Archer.
 
 ### Quick Reload (1 point)
 
-The crossbow version of this perk requires Heroic Crossbowman and allows you to
-reload a crossbow in one turn with a successful Fast-Draw (Arrow) roll. You
-_can_ use the quick-shooting rules from the description of Heroic Archer in **DF
-1**, p. 14 to attempt to fire your crossbow every turn!
+This perk is from **GURPS Gun Fu**, which details its workings for various types
+of guns. The crossbow version of this perk requires Heroic Crossbowman and
+allows you to reload a crossbow in one turn with a successful Fast-Draw (Arrow)
+roll. You _can_ use the quick-shooting rules from the description of Heroic
+Archer in **DF 1**, p. 14 to attempt to fire your crossbow every turn!
 
 With these traits in hand, statting Harsk up is fairly easy. Being a Scout, he
 lacks the spells of his original version, but he scarcely needs them when he can
