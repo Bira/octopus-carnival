@@ -35,7 +35,8 @@ original), and so on. For our purposes, though, we'll go with the following:
 
 These are just for organizational purposes - a monster from the Dragon's Dogma
 setting will still follow normal DF conventions and belong to one of the monster
-types defined there.
+types defined there. Humanoids and beasts run the gamut from fodder to boss, but
+giant monsters are always bosses.
 
 Over the next four articles, I'll discuss each of these thematic categories in
 turn, and provide worked examples for each of them. The fourth article will deal
