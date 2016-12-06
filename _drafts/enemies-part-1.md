@@ -4,6 +4,13 @@ title: "Dragon's Dogma: Enemies Overview"
 category: gurps
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/DDENEMIES.jpg" | absolute_url }}"/>
+  <figcaption>Copyright 2012 Capcom.</figcaption>
+</figure>
+{:/nomarkdown}
+
 By now we have a pretty complete picture of what the PCs in a GURPS Dragon's
 Dogma look like. They can use almost any default **Dungeon Fantasy** template,
 or choose to be [Magic Archers][1] and [Mystic Knights][2]. They can be normal
@@ -44,6 +51,11 @@ blocks or as variants for a basic stat block. They will also include some
 information on where the monster can be found in Gransys and what impact its
 existence has in our adaptation's setting. As articles are written for each
 entry, I'll come back to this post and add the proper links.
+
+It's important to note that these aren't the _only_ monsters that exist in the
+setting, just the ones that show up on the original game. Anything could be
+lurking in those dungeons! The GM is free to include additional monsters from
+the DF line or other sources, or to use these in a generic DF setting.
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/19/characters-magic-archer.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html
