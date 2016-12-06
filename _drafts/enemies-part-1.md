@@ -14,30 +14,40 @@ a variety of enemies and relieving them of their treasure. But exactly who are
 these enemies? This is what we'll examine in the next few articles!
 
 The original game has a huge variety of interesting monsters to fight, and this
-is something I feel a GURPS adaptation should strive to match. There's several
-ways you could divide them along thematic categories: by size (small,
-human-sized, giant), by origin (mundane, D&D-style fantasy, Greek myth,
-original), and so on. For our purposes, though, we'll go with the following:
+is something I feel a GURPS adaptation should strive to match. In true JRPG
+fashion, they are divided into several "families" defined by what model they
+use, and you meet more powerful members of those families as you progress in the
+game. Those are a good starting point for organizing the monsters and defining
+how to split them among future articles. After looking at the spoilerific
+[Bestiary][6] entry in the Dragon's Dogma wiki and rearranging things a bit, we
+come to the following list:
 
-- _Humanoid_ opponents include actual humans and members of similarly
-  shaped. They fight much like the PCs themselves do.
+- Humans
+- Goblins
+- Wolves
+- Saurians
+- Undead
+- Beholders
+- Gargoyles
+- Harpies
+- Cyclopes
+- Chimerae
+- Ogres
+- Griffins and Cockatrices
+- Golems
+- Hydras
+- Dragons
 
-- _Beasts_ are usually non-humanoid in shape and possess a large array of
-  natural weaponry. Most are not intelligent, but may still be quite
-  cunning. They can also be quite large, but not as large as members of our next
-  category, which is...
+This entries are written in the order I'll tackle each of them. The idea is to
+include GURPS stats for all members of that monster family, either as full stat
+blocks or as variants for a basic stat block. They will also include some
+information on where the monster can be found in Gransys and what impact its
+existence has in our adaptation's setting. As articles are written for each
+entry, I'll come back to this post and add the proper links.
 
-- _Giant Monsters_! They're _much_ bigger than a typical PC, and have power to
-  match their size. While you can usually _grapple_ with an enemy from the
-  previous categories, you have to _climb_ a giant monster. One type of giant
-  monster that deserves special mention is the _dragon_, which has a few special
-  setting considerations assigned to it (the titular Dogma chief among them).
-
-These are just for organizational purposes - a monster from the Dragon's Dogma
-setting will still follow normal DF conventions and belong to one of the monster
-types defined there. Humanoids and beasts run the gamut from fodder to boss, but
-giant monsters are always bosses.
-
-Over the next four articles, I'll discuss each of these thematic categories in
-turn, and provide worked examples for each of them. The fourth article will deal
-with dragons, and delve into some of the setting secrets related to them.
+[1]: https://bira.github.io/octopus-carnival/gurps/2016/10/19/characters-magic-archer.html
+[2]: https://bira.github.io/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html
+[3]: https://bira.github.io/octopus-carnival/gurps/2016/10/21/racial-templates.html
+[4]: https://bira.github.io/octopus-carnival/gurps/2016/11/22/equipment-part-1.html
+[5]: https://bira.github.io/octopus-carnival/gurps/2016/11/25/equipment-part-2.html
+[6]: http://dragonsdogma.wikia.com/wiki/Bestiary
