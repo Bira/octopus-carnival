@@ -64,4 +64,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [5]: https://bira.github.io/octopus-carnival/gurps/2016/11/25/equipment-part-2.html
 [6]: http://dragonsdogma.wikia.com/wiki/Bestiary
 
-[7]: [5]: https://bira.github.io/octopus-carnival/gurps/2016/12/07/human-enemies.html
+[7]: https://bira.github.io/octopus-carnival/gurps/2016/12/07/human-enemies.html
