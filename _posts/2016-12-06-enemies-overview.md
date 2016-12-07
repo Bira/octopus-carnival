@@ -29,7 +29,7 @@ how to split them among future articles. After looking at the spoilerific
 [Bestiary][6] entry in the Dragon's Dogma wiki and rearranging things a bit, we
 come to the following list:
 
-- Humans
+- [Humans][7]
 - Goblins
 - Wolves
 - Saurians
@@ -63,3 +63,5 @@ the DF line or other sources, or to use these in a generic DF setting.
 [4]: https://bira.github.io/octopus-carnival/gurps/2016/11/22/equipment-part-1.html
 [5]: https://bira.github.io/octopus-carnival/gurps/2016/11/25/equipment-part-2.html
 [6]: http://dragonsdogma.wikia.com/wiki/Bestiary
+
+[7]: [5]: https://bira.github.io/octopus-carnival/gurps/2016/12/07/human-enemies.html
