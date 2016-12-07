@@ -47,12 +47,12 @@ main source of targets.
 
 Unless a victim looks important enough to be worth ransoming, Gransys bandits
 don't usually take prisoners. The dead tell no tales! If a potential victim
-looks too tough to take on, they either leave it alone or try to negotiate if
-simply leaving is not an option.
+looks too tough to take on, they either leave or try to negotiate if that is not
+an option.
 
 The three largest bandit gangs in Gransys are the Iron Hammers, who occupy the
 ruins of Aernst Castle to the south; the all-female Labrys Bandits who occupy
-the ruins of Heavenspeak Castle to the northeast; and a large but nameless band
+the ruins of Heavenspeak Castle to the northwest; and a large but nameless band
 of smugglers holed up in the canyons between Windbluff and Bluemoon towers.
 
 ### Bandit Strider
@@ -61,11 +61,13 @@ Most bandits are archers or light skirmishers. They prefer to shoot at targets
 from high ground and will only draw their swords as a last resort. They are
 usually fodder, though more powerful examples exist.
 
-ST 12; DX 11; IQ 10; HT 12
+**ST** 12; **DX** 11; **IQ** 10; **HT** 12
 
-HP 12; Will 10; Per 12; FP 12; Basic Speed 6; Move 6.
+**Dodge** 9; **Parry** 8 (shortsword); **DR** 2.
 
-Dodge 9; Parry 8 (shortsword); DR 2.
+**HP** 12; **Will** 10; **Per** 12; **FP** 12;
+
+**Basic Speed** 6; **Move** 6.
 
 - **Bow (13)**: 1d imp. Acc 2.
 - **Cheap Shortsword (11)**: 1d imp or 1d+2 cut.
@@ -82,11 +84,13 @@ armor, cheap shortsword.
 These hardier sorts prefer the personal touch. Their job is to keep the targets
 too busy to get to the archers and spellcasters. They are usually worthies.
 
-ST 14; DX 13; IQ 10; HT 12
+**ST** 14; **DX** 13; **IQ** 10; **HT** 12
 
-HP 14; Will 10; Per 10; FP 12; Basic Speed 6; Move 6.
+**Dodge** 10 (11); **Parry** 10 (11) (broadsword); **DR** 3 (2 vs crushing).
 
-Dodge 10 (11); Parry 10 (11) (Broadsword); Block 10 (11); DR 3 (2 vs crushing).
+**HP** 14; **Will** 10; **Per** 10; **FP** 12;
+
+**Basic Speed** 6; **Move** 6.
 
 - **Cheap Thrusting Broadsword (15)**: 1d+2 imp or 2d+1 cut.
 - **Shield Slam (15)**: 1d cr.
@@ -104,11 +108,13 @@ leather pot-helm.
 The brains of the outfit, they hang back with the archers and cast debilitating
 spells. They are usually worthies.
 
-ST 10; DX 11; IQ 14; HT 11
+**ST** 10; **DX** 11; **IQ** 14; **HT** 11
 
-HP 10; Will 13; Per 12; FP 12; Basic Speed 5; Move 5.
+**Dodge** 8; **Parry** 11 (Staff).
 
-Dodge 8; Parry 11 (Staff).
+**HP** 10; **Will** 13; **Per** 12; **FP** 12;
+
+**Basic Speed** 5; **Move** 5.
 
 - **Staff (12)**: 1d+2 cr. Enchanted with the Staff spell.
 - **Fireball (14)**: 1d or 2d burning, costs 1 or 2 FP.
@@ -137,11 +143,13 @@ Marksmen use crossbows, and are trained to form firing lines and fire en
 masse. In smaller battles they keep their distance and focus on high-value
 targets like magicians.
 
-ST 13; DX 13; IQ 10; HT 11
+**ST** 13; **DX** 13; **IQ** 10; **HT** 11
 
-HP 13; Will 10; Per 10; FP 11; Basic Speed 6; Move 6
+**Dodge** 9; **Parry** 9 (Shortsword); **DR** 4/2*
 
-Dodge 9; Parry 9 (Shortsword); DR 4/2*
+**HP** 13; **Will** 10; **Per** 10; **FP** 11;
+
+**Basic Speed** 6; **Move** 6
 
 - **Crossbow (15)**: 1d+4 imp. Acc 4.
 - **Shortsword (13)**: 1d+1 imp or 2d-1 cut.
@@ -158,11 +166,13 @@ bolts.
 Trained in polearm fighting, these soldiers emply short halberds that are
 equally useful on and off the battlefield.
 
-ST 14; DX 12; IQ 10; HT 12
+**ST** 14; **DX** 12; **IQ** 10; **HT** 12
 
-HP 14; Will 10; Per 10; FP 12; Basic Speed 6; Move 6.
+**Dodge** 10; **Parry** 11 (Dueling Halberd); **DR** 5 (torso); 4/2* (elsewhere).
 
-Dodge 10; Parry 11 (Dueling Halberd); DR 5 (torso); 4/2* (elsewhere).
+**HP** 14; **Will** 10; **Per** 10; **FP** 12;
+
+**Basic Speed** 6; **Move** 6.
 
 - **Dueling Halberd (16)**: 2d+4 cut or 1d+3 imp or 2d+3 imp.
 
@@ -177,11 +187,13 @@ steel pot-helm.
 
 This spell caster focuses on bolstering and healing their allies.
 
-ST 9; DX 10; IQ 14; HT 12;
+**ST** 9; **DX** 10; **IQ** 14; **HT** 12;
 
-HP 9; Will 14; Per 12; FP 15; Basic Speed 5.5; Move 5.
+**Dodge** 8; **Parry** 11 (staff).
 
-Dodge 8; Parry 11 (staff).
+**HP** 9; **Will** 14; **Per** 12; **FP** 15;
+
+**Basic Speed** 5.5; **Move** 5.
 
 - **Staff (12)**: 1d+1 cr. Enchanted with the Staff spell.
 
