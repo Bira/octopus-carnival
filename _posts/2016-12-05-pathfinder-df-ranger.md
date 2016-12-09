@@ -69,8 +69,8 @@ Archer in **DF 1**, p. 14 to attempt to fire your crossbow every turn!
 With these traits in hand, statting Harsk up is fairly easy. Being a Scout, he
 lacks the spells of his original version, but he scarcely needs them when he can
 rely on his incredible marksdwarfship. Harsk's increased Lifting ST from being a
-Dwarf also allow him to carry a beefier crossbow, and to be one the only iconics
-so far who is at No Encumbrance while carrying his full kit.
+Dwarf also allow him to carry a beefier crossbow, and to be one of the only
+iconics so far who is at No Encumbrance while carrying his full kit.
 
 ## Harsk, 250-point Dwarf Scout
 
