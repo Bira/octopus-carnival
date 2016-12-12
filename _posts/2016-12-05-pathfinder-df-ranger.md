@@ -5,7 +5,7 @@ category: gurps
 ---
 
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
-**GURPS Dungeon Fantasy**! This is the sixth post in the series. Previous
+**GURPS Dungeon Fantasy**! This is the seventh post in the series. Previous
 entries can be found here:
 
 - [Amiri the Barbarian][1]
