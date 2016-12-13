@@ -107,10 +107,12 @@ All include +2 from Chi Talent
 
 **Loadout**
 
-$650, 8kg. No encumbrance!
+$710, 10kg. No encumbrance!
 
 - Ordinary Clothing **[Torso, Limbs]**: Free, 1kg.
 - Cloth Armor **[Torso]**: DR 1*. $30, 3kg.
+- Cloth Sleeves **[Arms]**: DR 1*. $20, 1kg.
+- Leather Leggings **[Legs]**: DR 1*. $40, 1kg.
 - Gauntlets **[Hands]**: DR 4; $100, 1kg.
 - Shoes **[Feet]**: DR 1*. $40, 1kg.
 - Belt Pouch **[Torso]**: Holds 1.5kg of small items.
@@ -118,7 +120,7 @@ $650, 8kg. No encumbrance!
 - Spike Shuriken x5 **[Pouch]**: Damage thr-2 imp. $15, 0.25kg.
 - Temple Sword **[Torso]**: As a khopesh from Low-Tech. Damage sw+1 cut or thr-2
   imp; Parry 0U; can hook enemies. $450, 1.5kg.
-- $350 in coin.
+- $290 in coin.
 
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
@@ -128,3 +130,5 @@ $650, 8kg. No encumbrance!
 [5]: https://bira.github.io/octopus-carnival/gurps/2016/11/20/pathfinder-df-paladin.html
 [6]: https://bira.github.io/octopus-carnival/gurps/2016/11/27/pathfinder-df-knight.html
 [7]: https://bira.github.io/octopus-carnival/gurps/2016/12/05/pathfinder-df-ranger.html
+[8]: http://pathfinder.wikia.com/wiki/Sajan_Gadadvara
+[9]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/sajan.html
