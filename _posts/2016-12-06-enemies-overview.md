@@ -65,3 +65,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [6]: http://dragonsdogma.wikia.com/wiki/Bestiary
 
 [7]: https://bira.github.io/octopus-carnival/gurps/2016/12/07/human-enemies.html
+[8]: https://bira.github.io/octopus-carnival/gurps/2016/12/14/goblins.html
