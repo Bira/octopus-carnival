@@ -30,7 +30,7 @@ how to split them among future articles. After looking at the spoilerific
 come to the following list:
 
 - [Humans][7]
-- Goblins
+- [Goblins][8]
 - Wolves
 - Saurians
 - Undead
