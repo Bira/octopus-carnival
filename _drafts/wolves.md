@@ -11,15 +11,77 @@ category: gurps
 </figure>
 {:/nomarkdown}
 
-    Wolves hunt in packs!
-
-    - Every pawn, ever.
-
-
 This post is part of a series converting Dragon's Dogma enemies to **GURPS
 Dungeon Fantasy**. Please go [here][1] for links to all other posts in the
 series.
 
-The [goblins][2] we saw in the last post might be annoying, but they're not as
-annoying as the wolves of Gransys. Their agile, darting fighting style makes
-them a chore to fight at all power levels.
+Not even [goblins][2] are as annoying as the wolves of Gransys. The original
+game's suicidally aggressive monster AI combined with the move set of the "wolf"
+monster family ensures that even basic wolves remain a nuisance long after
+they've stopped being a threat. It doesn't help that your pawns will helpfully
+expound on anti-wolf tactics for even the easiest such encounter. Hopefully the
+tabletop version will be a little better in that regard. This article covers all
+sorts of canine enemies, but we start with the most basic of them all:
+
+## Wolves
+
+The southern forests and mountain passes of Gransys are home to packs of large,
+brownish wolves. Most of the time, they stay away from civilization and restrict
+their hunting to other wild animals further down the food chain. A wolf pack
+will only target livestock if no wild prey is available, and will only attack
+people if they are utterly desperate. Unfortunately, both situations have become
+more common ever since increased bandit and goblin presence in Southern Gransys
+made game scarcer.
+
+Use the Wolf stats from p. **B458** for average wolves, and the more powerful
+Hound and Timber Wolf stats from **DF 5** p. 9 for large specimens (of which
+there is at least one per pack encountered).
+
+## Dire Wolves
+
+The colder northern reaches of Gransys are home to a larger and more vicious
+white-furred species of wolf. The _smallest_ of them use the Hound template from
+**DF 5**, and they frequently get up to the size shown in **DF 2**, p. 22. While
+they mostly stick to wild prey deep in the woods, they are much more confident
+about targetting livestock and humans who wander into their territory.
+
+## Wargs
+
+These horrible creatures look like standard wolves from a distance, but closer
+inspection will reveal their true natures. Wargs are _undead_ wolves, with
+rotted-through hides and infected bites. Forget any semblance of realistic
+behavior here - they hang out in tombs and dungeons and prefer their meals to be
+sapient and alive at the time of eating.
+
+To make a warg, take a normal or dire wolf and change its class to
+Undead. Change DR to 4, add Injury Tolerance (Unliving), and add a 1d toxic
+follow-up to their bite, resisted with HT-2.
+
+## Hell Hounds
+
+_These_ horrors are stirred up by the coming of the Dragon, and enter the world
+through the same portal as it. They are even more untroubled my mundane
+physiology than wargs: their blood boils, and they breathe fire at will.
+
+To make a hell hound, take a normal or dire wolf and change its class to
+Demon. Change DR to 5 (15 vs. Fire), add Injury Tolerance (Homogenous), and a
+2d Burning Innate Attack with the Cone enhancement. The cone is three yards wide
+at its widest. They can use this attack _at will_, and are happy to do so since
+they don't need to worry about friendly fire!
+
+## Wolves Hunt in Packs!
+
+All enemies described in this article fight in a similar way. The pack attempts
+to surround the target, and some of the wolves will distract it with growls and
+feints so that others can bite from unexpected angles. They usually know their
+territory fairly well, and might try to herd a particularly mobile victim to a
+spot they can't run away from.
+
+All "wolf"-like enemies should have the Wrestling skill even if that's not
+listed in their original stats, at a level equal to the highest of their
+Brawling or DX. They like to use that to grab their targets with a bite and pull
+them to the ground, enabling the rest of the pack to move in and gang up on the
+victim.
+
+[1]: https://bira.github.io/octopus-carnival/gurps/2016/12/06/enemies-overview.html
+[2]: https://bira.github.io/octopus-carnival/gurps/2016/12/14/goblins.html
