@@ -52,9 +52,7 @@ in time even if severed!
 
 The most commonly found variety of Saurian is a dark brownish green in color,
 and conforms exactly to the general description above. They are cold-blooded,
-and thus tend to keep to Gransys' warmer southern reaches. The stats below are
-for an _average_ Saurian. Stronger and more skilled specimens are certainly
-possible!
+and thus tend to keep to Gransys' warmer southern reaches.
 
 In the original game, there was a sizable group of them living in a flooded
 seaside cave underneath Cassardis, complete with a large amount of eggs.
@@ -67,7 +65,7 @@ seaside cave underneath Cassardis, complete with a large amount of eggs.
 
 **Basic Speed** 6; **Move** 7.
 
-- **Oversized Crude Dueling Glaive (16)**: thr+4 imp or sw+3 cut, Reach 1,2*.
+- **Oversized Crude Dueling Glaive (16)**: 1d+4 imp or 2d+4 cut, Reach 1,2*.
 - **Claw or Bite (14)**: 1d cut. The bite benefits from _Born Biter_ (**DF 3**,
   p. 15).
 - **Tail Swipe (12)**: 1d+1 cr. No penalty to hit targets behind the saurian.
@@ -91,19 +89,117 @@ traits described above, and possess two other remarkable abilities: they can
 shift the color of their scales to match their surroundings, and they can spit
 paralytic venom!
 
-Use the stats for a common saurian, but reduce Cold-Blooded by 1 level, add
-Chameleon 4 and the following attack:
+Basks of Sulfur Saurians are common on the margins of the river crossing the
+Cursewood in central Gransys and on the warm waters of Lake Hardship, being one
+of the reasons for the lake's name.
 
+**ST** 17; **DX** 12; **IQ** 8; **HT** 12
+
+**SM** +1; **Dodge** 9; **Parry** 11U (dueling glaive); **DR** 4 (Tough Skin);
+
+**HP** 17; **Will** 10; **Per** 10; **FP** 12
+
+**Basic Speed** 6; **Move** 7.
+
+- **Oversized Crude Dueling Glaive (16)**: 1d+5 imp or 2d+5 cut, Reach
+  1,2*. Often laced with the poison described below.
+- **Claw or Bite (14)**: 1d+1 cut. The bite benefits from _Born Biter_ (**DF
+  3**, p. 15) and from the poison described below.
 - **Poison Spit (12)**: HT to resist; failure entails a non-cumulative -3 to DX
   and IQ for 1 hour. Acc 3, Range 10.
+- **Tail Swipe (12)**: 1d+2 cr. No penalty to hit targets behind the saurian.
 
-Needless to say, those bitten by a Sulfur Saurian are also subject to the
-venom. They also frequently coat their weapons in it.
+**Traits**: Born Biter; Claws (Sharp); Chameleon 4; DR 4 (Tough Skin);
+Peripheral Vision; Striker (Tail, Clumsy: -2 to hit); Teeth (Sharp); Terrain
+Adaptation (Swamp); Bestial; Cold-Blooded 1; Social Stigma (Monster).
+
+**Skills**: Polearm-16, Brawling-14, Wrestling-14, Stealth-12
+
+**Class**: Mundane.
+
+**Equipment**: Crude, oversized dueling glaive.
 
 ## Geo Saurian
 
-This species
+This species has even stronger than a normal saurian, and has more clearly
+supernatural traits. Their scales are black with small red streaks, and have a
+metallic cast to them. Like sulfur saurians, they can change their coloration to
+match the environment and have dangerous spit. Unlike sulfur saurians, their
+sticky spit is _flaming_, not poisonous.
 
+Geo Saurians can only be found on volcanic mountains or near active geothermal
+vents. The most well-known concentration of these features is the Tainted
+Mountain, which lies in the monster-infested range west of Gransys's
+borders. That's not to say they couldn't be found within some deep dungeon that
+also had these features, along with other fire-themed beasts!
+
+**ST** 20; **DX** 12; **IQ** 8; **HT** 12
+
+**SM** +1; **Dodge** 10; **Parry** 12U (dueling glaive); **DR** 7 (Tough Skin);
+
+**HP** 20; **Will** 12; **Per** 12; **FP** 12
+
+**Basic Speed** 6; **Move** 7.
+
+- **Oversized Crude Dueling Glaive (16)**: 2d+3 imp or 3d+5 cut, Reach
+  1,2*.
+- **Claw or Bite (14)**: 2d-2 cut with linked 1d burning. The bite benefits from
+  _Born Biter_ (**DF 3**, p. 15).
+- **Flaming Spit (12)**: 1d burning. Acc 3, Range 10.
+- **Tail Swipe (12)**: 2d cr. No penalty to hit targets behind the saurian.
+
+**Traits**: Born Biter; Claws (Sharp); Combat Reflexes; Chameleon 4; DR 7 (Tough
+Skin); Peripheral Vision; Striker (Tail, Clumsy: -2 to hit); Teeth (Sharp);
+Terrain Adaptation (Swamp); Bestial; Cold-Blooded 2; Social Stigma (Monster).
+
+**Skills**: Polearm-16, Brawling-14, Wrestling-14, Stealth-12
+
+**Class**: Mundane.
+
+**Equipment**: Crude, oversized dueling glaive.
+
+## Saurian Variants
+
+In all cases, the stat blocks above are for _average_ saurians of each
+type. The GM is free to increase their skills and attributes to produce
+exceptional individuals without any additional justification! A few possible
+variants found in the game merit special mention.
+
+### Giant Saurians
+
+Some saurians reach absurd sizes! Maybe they just never stop growing, or maybe
+these have been contaminated by ambient magical energies. Take a normal saurian
+and increase its SM to +2; multiply ST by 1.5. Their even bigger weapons add +1
+to damage on top of the ST increase. Truly colossal specimens at SM+3, ST x2 and
++2 weapon damage might exist if the GM is feeling particularly sadistic.
+
+### Pyre Saurians
+
+Despite their shape, they are not actual saurians, but lizard-shaped elemental
+beings of pure fire and magma. Start with the stats for a geo saurian and change
+its class to Elemental. Add Injury Tolerance (Homogenous), +2d to the burning
+damage from the bite and spit, and a 1d burning emanation in a 2 meter
+radius. Fortunately, they use no weapons and always rely on their natural
+claws, bite and tail.
+
+### Saurian Sages
+
+Despite their bestial nature, Saurians do have a mystical tradition centered
+around mastering their vulnerability to cold. Those rare individuals who
+complete a pilgrimage to the roots of the world are able to master cold itself!
+To make a Saurian Sage, start with a normal saurian and remove
+Cold-Blooded. Raise IQ to at least 12, and add three or more levels of Water
+College Magery or Elemental Empowerment related to water. Give them any
+appropriate ice-themed spells or elementalist powers you wish. If starting from
+a geo saurian, their burning spit becomes freezing instead: it still does
+burning damage, but it's no longer incendiary.
+
+### Variant Stacking
+
+"Pyre Saurian" and "Saurian Sage" are incompatible with each other. You won't
+even find individuals of both types working together! However, both variants
+_are_ compatible with the "Giant" upgrade, and combining them can give you
+something fairly dragon-like.
 
 [1]: {{ "/gurps/2016/12/07/human-enemies.html" | absolute_url }}
 [2]: {{ "/gurps/2016/12/14/goblins.html" | absolute_url }}
