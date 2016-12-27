@@ -32,7 +32,7 @@ come to the following list:
 - [Humans][7]
 - [Goblins][8]
 - [Wolves][9]
-- Saurians
+- [Saurians][10]
 - Undead
 - Beholders
 - Gargoyles
@@ -67,3 +67,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [7]: https://bira.github.io/octopus-carnival/gurps/2016/12/07/human-enemies.html
 [8]: https://bira.github.io/octopus-carnival/gurps/2016/12/14/goblins.html
 [9]: {{ "/gurps/2016/12/17/wolves.html" | absolute_url }}
+[10]: {{ "/gurps/2016/12/27/saurians.html" | absolute_url }}
