@@ -13,7 +13,7 @@ category: gurps
 {:/nomarkdown}
 
 
-This is the third post of a series converting Dragon's Dogma enemies to
+This is the fifth post of a series converting Dragon's Dogma enemies to
 **GURPS**. Previous posts can be found below:
 
 - [Humans][1]
@@ -94,14 +94,47 @@ These inhabit the northern highlands of Gransys, particularly the area known as
 Souflayer Canyon. Their skin is black, and their feathers are snow-white with
 black spots. Snow harpies possess the same soporific song as their southern
 cousins, and are also endowed with a deadly frost breath attack. Use the same
-stats for a brown harpy, but add the following attack:
+stats for a brown harpy, but add Temperature Tolerance 2 for cold and the
+following attack:
 
-- **Frost Breath (14)**: 1d(5) burning (Jet; 5/10). This is extreme cold, not
-  fire, and thus is not incendiary.
+- **Frost Breath (14)**: Jet (range 5/10). 1d cr damage with no knockback and no
+  blunt trauma. Targets hit by this must roll HT with a penalty of -1 per 2
+  points of damage suffered or be frozen (paralyzed) for 1 minute per margin of
+  failure. Each snow harpy can use this only once per fight.
 
 ## Succubi
 
+While they share some similarities with harpies, succubi are demons rather than
+mere magical creatures. Immortal spirits given physical form, they linger in
+sites of ancient draconic invasions, or close to the Dragon itself during
+them. Visually, the main difference between an harpy and a succubus is that a
+succubus' lower body and wings are those of a bat, not a bird. Their fur and
+wing membranes are dark brown in color.
 
+They have all the same abilities as common harpies, but their bite also carries
+a deadly venom, and their touch carries a curse. Take the stats for a brown
+harpy and add Immunity to Metabolic Hazards as well as an 1d toxic follow-up to
+their bite. Add the following attack:
+
+- **Demonic Curse (15 vs. Will)**: Targets an enemy the succubus can see,
+  suffers from range penalties. Targets who lose the contest suffer from a
+  1-point Curse as per the spell on **GURPS Magic**, p. 129. Doesn't work on an
+  already cursed target.
+
+## Silver Sirens
+
+These creatures resemble silver-colored succubi, and are actually guardian
+spirits summoned by forgotten sorcery. Therefore, they can usually be found in
+dungeons protecting something important. Unlike all other monsters presented in
+this article, they are not only sapient but also know magic! While Silver Sirens
+can fight in much the same way as harpies, they prefer to cooperate with
+stronger guardian beasts, which they target with healing and support spells
+while staying out of melee reach.
+
+To make a Silver Siren, take the stats for a Brown Harpy and add Immunity to
+Metabolic Hazards. Remove Bestial, change IQ to 12+, and add Magery 2+ along
+with Healing and Body Control spells meant to buff allies. This magic requires
+song, in the same manner as that of a bard.
 
 [1]: {{ "/gurps/2016/12/07/human-enemies.html" | absolute_url }}
 [2]: {{ "/gurps/2016/12/14/goblins.html" | absolute_url }}
