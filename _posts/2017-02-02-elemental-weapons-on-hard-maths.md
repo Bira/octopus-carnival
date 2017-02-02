@@ -17,7 +17,7 @@ as the spells don't add to the users ST for damage and a final skill level of
 15+ is vital for maintaining them for any appreciable length of time. They also
 need Force Sword, a skill which would have no other use in a fantasy
 setting... which means there's a secretive order of elementalists that teaches
-it along with the spell somewhere out there.
+it along with the spells somewhere out there.
 
 [1]: https://hardmaths.blogspot.com.br/2017/01/grimoire-elemental-melee-spells.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html
