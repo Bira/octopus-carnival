@@ -57,3 +57,65 @@ template from **DF 9** without any weapons or other equipment. For more
 dangerous specimens, create a human opponent and apply the Servitor Skeleton
 modifiers as a racial template. Using some of the ready-made
 opposition [here][1] works, but unique high-point skeletons also exist.
+
+## Ghosts
+
+Ghosts are incorporeal undead that resemble spheres of eerie light. They tend to
+appear at night over bodies of water, but some may also appear in drier settings
+if they died there. In either case, ghosts never stray too far from the site of
+their death. Ghosts attack by "entering" a victim and slowly draining their
+life. This is erroneously referred to as possession by the inhabitants of
+Gransys, but the victim is still in control of their actions while this goes on.
+
+Physical attacks pass harmlessly through these creatures, but spells affect them
+normally. Properly fighting them requires a magician with the right spells -
+Affect Spirits or "pure energy" attack spells like Fireball or Sunbolt. A group
+that lacks any of this is reduced to running and hoping they get far enough away
+from the creature's territory before they succumb to it
+
+**ST** --; **DX** 12; **IQ** 6; **HT** 10
+
+**SM** -1; **Dodge** 8; **DR** 0;
+
+**HP** 10; **Will** 12; **Per** 10; **FP** 10
+
+**Basic Speed** 5.5; **Move** 10 (flight with Hover).
+
+- **Drain Life (12 vs. Will)**: Causes injury equal to the margin of
+  victory. Cosmic, ignores DR. If the ghost is wounded, it heals the same amount
+  of HP. The ghost must touch the victim to use this attack.
+
+**Traits**: Flight;  Insubstantial (not vs. Magic);  Immunity to Metabolic
+Hazards; Injury Tolerance (No Blood, No Brain, No Neck, No Vitals, Homogenous);
+Fragile (Unnatural); No Manipulators; Divine Curse (must stay within 20m of
+place of death), Supernatural Features (Glows).
+
+**Class**: Undead.
+
+## Wights and Liches
+
+The prime example of sapient undead in Gransys, these are powerful spellcasters
+who used forbidden magic to turn themselves into immortal undead. They retain
+their memories and personality and can keep on improving in their craft after
+the transformation. The difference between a wight and a lich is one of degree,
+not of kind - a wight is simply a lich who's still relatively new to the
+business.
+
+For both, use the Lich from **Dungeon Fantasy Monsters 1** as a starting
+point. Wights generally have less of everything that makes a Lich dangerous:
+spells, Magery, IQ, resources and minions. Proper liches use the published
+stats.
+
+A note on the Unkillable trait: this is a big feature of the published Lich, but
+the video game doesn't seem to ascribe anything like this to its version of them
+aside from the tendency all monsters there have of respawning after a while. The
+easiest way to translate this would be to split the difference and say Wights
+don't possess the Trait, as they've yet to master the trick to it. As variant
+mana levels are very rare in Gransys, it could make sense to have liches use the
+more traditional philactery instead.
+
+A lich that has a philactery as its weakness still has Unkillable 3: to kill
+such a creature, both the philactery and its current body must be destroyed. If
+the PCs somehow manage to deal with the philactery first, they must still
+contend with the Lich, and do so before it has time to make another philactery
+to kill it for good.
