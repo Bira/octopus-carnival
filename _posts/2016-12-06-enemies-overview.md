@@ -33,7 +33,7 @@ come to the following list:
 - [Goblins][8]
 - [Wolves][9]
 - [Saurians][10]
-- Undead
+- [Undead][11]
 - Beholders
 - Gargoyles
 - Harpies
@@ -68,3 +68,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [8]: https://bira.github.io/octopus-carnival/gurps/2016/12/14/goblins.html
 [9]: {{ "/gurps/2016/12/17/wolves.html" | absolute_url }}
 [10]: {{ "/gurps/2016/12/27/saurians.html" | absolute_url }}
+[11]: {{ "/gurps/2017/02/06/undead.html" | absolute_url }}
