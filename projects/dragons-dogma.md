@@ -70,6 +70,7 @@ fit into Gransys and providing entirely new stat blocks.
 - [Saurians][23]
 - [Harpies][24]
 - [The Undead][25]
+- [Eyes][26]
 
 [0]: http://www.warehouse23.com/products/gurps-adaptations
 [1]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
@@ -99,6 +100,6 @@ fit into Gransys and providing entirely new stat blocks.
 [23]: {{ "/gurps/2016/12/27/saurians.html" | absolute_url }}
 [24]: {{ "/gurps/2017/01/06/harpies.html" | absolute_url }}
 [25]: {{ "/gurps/2017/02/06/undead.html" | absolute_url }}
-[26]: {{ "" | absolute_url }}
+[26]: {{ "/gurps/2017/02/14/eyes.html" | absolute_url }}
 [27]: {{ "" | absolute_url }}
 [28]: {{ "" | absolute_url }}

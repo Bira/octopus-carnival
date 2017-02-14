@@ -34,7 +34,7 @@ come to the following list:
 - [Wolves][9]
 - [Saurians][10]
 - [Undead][11]
-- Beholders
+- [Eyes][13]
 - Gargoyles
 - [Harpies][12]
 - Cyclopes
@@ -70,3 +70,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [10]: {{ "/gurps/2016/12/27/saurians.html" | absolute_url }}
 [11]: {{ "/gurps/2017/02/06/undead.html" | absolute_url }}
 [12]: {{ "/gurps/2017/01/06/harpies.html" | absolute_url }}
+[13]: {{ "/gurps/2017/02/14/eyes.html" | absolute_url }}
