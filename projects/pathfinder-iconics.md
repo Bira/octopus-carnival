@@ -23,8 +23,7 @@ example. I also refrain from using rules not present in the main "numbered" set
 of DF books.
 
 This goal was achieved in January of 2017! Below are links to the eleven
-resulting iconics. If I ever adapt any others, they will also be mentioned in
-this page.
+resulting iconics.
 
 - [Amiri the Barbarian][1]
 - [Lem the Bard][2]
@@ -36,6 +35,15 @@ this page.
 - [Sajan the Monk][8]
 - [Jirelle the Swashbuckler][9]
 - [Merisiel the Rogue][10]
+- [Ezren the Wizard][11]
+
+I didn't stop making characters after I was done with the Main Eleven, though!
+With the initial goal complete, I could relax my restrictions a bit. The
+character below uses a broader set of sources, and thus is a little more
+"exotic" than the Main Eleven. The same will be true of any further characters I
+add here.
+
+- [Seoni the Sorceress][12]
 
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
@@ -49,5 +57,6 @@ this page.
 [9]: {{ "/gurps/2016/12/19/pathfinder-df-swashbuckler.html" | absolute_url }}
 [10]: {{ "/gurps/2016/12/30/pathfinder-df-rogue.html" | absolute_url }}
 [11]: {{ "/gurps/2017/01/04/pathfinder-df-wizard.html" | absolute_url }}
+[12]: {{ "/gurps/2017/02/20/pathfinder-df-sorceress.html" | absolute_url }}
 
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps
