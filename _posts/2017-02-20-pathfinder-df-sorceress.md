@@ -105,6 +105,7 @@ Damage 1d-2/1d; Basic Lift 10kg; HP 10; Will 12; Per 12; FP 12; Basic Speed
     p. 21.
 
     - Keywords: Area (Leveled), Resisted (Will or spell).
+    - Full Cost: 60 points.
     - Casting Roll: Will.
     - Range: Unlimited.
     - Duration: Instantaneous.
