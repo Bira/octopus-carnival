@@ -17,6 +17,10 @@ the following posts:
   setup, the choices given to the players there, and what the consequences of
   each were.
 
+- [Operation BRUTAL ADVENT, Part 1][3]: The first half of Strike One's inaugural
+  operation.
+
 
 [1]: {{ "/gurps/2017/01/03/x-com-post-mortem.html" | absolute_url }}
 [2]: {{ "/gurps/2017/02/18/x-com-setup.html" | absolute_url }}
+[3]: {{ "/gurps/2017/02/25/brutal-advent-part-1.html | absolute_url }}
