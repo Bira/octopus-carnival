@@ -71,6 +71,7 @@ fit into Gransys and providing entirely new stat blocks.
 - [Harpies][24]
 - [The Undead][25]
 - [Eyes][26]
+- [Gargoyles][27]
 
 [0]: http://www.warehouse23.com/products/gurps-adaptations
 [1]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
@@ -101,5 +102,5 @@ fit into Gransys and providing entirely new stat blocks.
 [24]: {{ "/gurps/2017/01/06/harpies.html" | absolute_url }}
 [25]: {{ "/gurps/2017/02/06/undead.html" | absolute_url }}
 [26]: {{ "/gurps/2017/02/14/eyes.html" | absolute_url }}
-[27]: {{ "" | absolute_url }}
+[27]: {{ "/gurps/2017/02/27/gargoyles.html" | absolute_url }}
 [28]: {{ "" | absolute_url }}
