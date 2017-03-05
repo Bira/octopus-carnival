@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Operation Brutal Advent, Part 2"
+title: "Operation BRUTAL ADVENT, Part 2"
 category: gurps
 ---
 
