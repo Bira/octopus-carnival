@@ -173,3 +173,4 @@ Next: Assault on St. Marien Hospital!
 
 
 [1]: {{ "/projects/gurps-xcom-reports/" | absoulte_url }}
+[2]: {{ "/gurps/2017/02/25/brutal-advent-part-1.html" | absolute_url }}
