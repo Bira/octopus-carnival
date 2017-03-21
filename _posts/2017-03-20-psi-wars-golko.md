@@ -10,7 +10,7 @@ tags:
 
 {::nomarkdown}
 <figure>
-  <img src={{ "/assets/Princess-Leia-Shirt.jpg" | absolute_url }}/>
+  <img src="{{ "/assets/Princess-Leia-Shirt.jpg" | absolute_url }}"/>
   <figcaption>
     <a href="http://www.heruniverse.com/product/star-wars-princess-leia-self-rescuing-princess-t-shirt/10920417.html">
      Image source.
