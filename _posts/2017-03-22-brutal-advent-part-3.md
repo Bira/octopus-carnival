@@ -13,7 +13,7 @@ tags:
   <img src="{{ "/assets/xcom__extraction_by_antimingebag-d9abdgp.jpg" | absolute_url }}"/>
   <figcaption>
     <a href=http://antimingebag.deviantart.com/art/XCOM-Extraction-561522409>
-      Illustrayion by AntiMingebag on DeviantArt
+      Illustration by AntiMingebag on DeviantArt
     </a>
   </figcaption>
 </figure>
