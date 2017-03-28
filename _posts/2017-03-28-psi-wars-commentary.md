@@ -73,5 +73,16 @@ here in Octopus Carnival, possibly even with an "organic disguise" lens. Just
 because I'm not focusing on that in my current campaign doesn't mean I don't
 like the concept!
 
+## In Closing...
+
+I'm very happy to see this game has been noticed by the setting's author and I
+hope I don't disappoint in my execution :). If you're interested in following
+the game as it happens, the out-of-character thread is [here][3] and the
+in-character thread is [here][4].
 
 Next up: Golko himself!
+
+[1]: {{ "/gurps/2017-03-28-psi-wars-golko.md" | relative_url }}
+[2]: https://mailanka.blogspot.com.br/2017/03/a-psi-wars-round-up.html
+[3]: https://forum.rpg.net/showthread.php?800200-GURPS-Psi-Wars-Golko-Wants-You-Dead!
+[4]: https://forum.rpg.net/showthread.php?800803-Psi-Wars-Golko-Wants-You-Dead!
