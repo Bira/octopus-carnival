@@ -55,3 +55,18 @@ $on-laptop:        800px;
 .page-nav .next {
     text-align: right;
 }
+
+table{
+    border-collapse: collapse;
+    border:1px solid #ff0000;
+}
+
+th{
+    border:1px solid #000000;
+    padding: 3px;
+}
+
+td{
+    border:1px solid #000000;
+    padding: 3px;
+}
