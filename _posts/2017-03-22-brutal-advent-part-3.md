@@ -208,12 +208,12 @@ hallway. They reach to the ceiling. This is the first time they are noticed, but
 upon looking at them the squad knows they've been there the whole time.
 
 Spooked, the PCs decide to blow the trees up using the hallway mines and their
-last grenade, thrown from outside the room. The resulting blast devastating, and
-as soon as the trees are gone the whole distortion field clears. A pressure they
-didn't know they were under lifts from their minds. With the interference gone,
-Wiest is able to reach them by radio and inform that the assault force managed
-to take out all the remaining alien soldiers, but they lost a few men and
-Valenkov and Gutierrez were gravely wounded.
+last grenade, thrown from outside the room. The resulting blast is devastating,
+and as soon as the trees are gone the whole distortion field clears. A pressure
+they didn't know they were under lifts from their minds. With the interference
+gone, Wiest is able to reach them by radio and inform that the assault force
+managed to take out all the remaining alien soldiers, but they lost a few men
+and Valenkov and Gutierrez were gravely wounded.
 
 ## Denouement
 
