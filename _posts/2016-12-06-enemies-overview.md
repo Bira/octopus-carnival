@@ -38,7 +38,7 @@ come to the following list:
 - [Gargoyles][14]
 - [Harpies][12]
 - [Cyclopes][15]
-- Chimerae
+- [Chimerae][16]
 - Ogres
 - Griffins and Cockatrices
 - Golems
@@ -73,3 +73,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [13]: {{ "/gurps/2017/02/14/eyes.html" | absolute_url }}
 [14]: {{ "/gurps/2017/02/27/gargoyles.html" | absolute_url }}
 [15]: {{ "/gurps/2017/03/14/cyclopes.html" | absolute_url }}
+[16]: {{ "/gurps/2017/03/29/chimerae.html" | absolute_url }}

@@ -73,6 +73,7 @@ fit into Gransys and providing entirely new stat blocks.
 - [Eyes][26]
 - [Gargoyles][27]
 - [Cyclopes][28]
+- [Chimerae][29]
 
 [0]: http://www.warehouse23.com/products/gurps-adaptations
 [1]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
@@ -105,4 +106,4 @@ fit into Gransys and providing entirely new stat blocks.
 [26]: {{ "/gurps/2017/02/14/eyes.html" | absolute_url }}
 [27]: {{ "/gurps/2017/02/27/gargoyles.html" | absolute_url }}
 [28]: {{ "/gurps/2017/03/14/cyclopes.html" | absolute_url }}
-[29]: {{ "" | absolute_url }}
+[29]: {{ "/gurps/2017/03/29/chimerae.html" | absolute_url }}
