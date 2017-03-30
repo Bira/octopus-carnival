@@ -17,7 +17,7 @@ the following posts:
   setup, the choices given to the players there, and what the consequences of
   each were.
 
-- **Operation BRUTAL ADVENT, Part 1**: The first half of Strike One's inaugural
+- **Operation BRUTAL ADVENT**: Strike One's inaugural
   operation. See [Part 1][3], [Part 2][4], and [Part 3][5].
 
 - [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
