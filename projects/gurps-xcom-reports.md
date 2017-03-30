@@ -20,9 +20,13 @@ the following posts:
 - **Operation BRUTAL ADVENT, Part 1**: The first half of Strike One's inaugural
   operation. See [Part 1][3], [Part 2][4], and [Part 3][5].
 
+- [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
+  enemies found in BRUTAL ADVENT!
+
 
 [1]: {{ "/gurps/2017/01/03/x-com-post-mortem.html" | absolute_url }}
 [2]: {{ "/gurps/2017/02/18/x-com-setup.html" | absolute_url }}
 [3]: {{ "/gurps/2017/02/25/brutal-advent-part-1.html" | absolute_url }}
 [4]: {{ "/gurps/2017/03/05/brutal-advent-part-2.html" | absolute_url }}
 [5]: {{ "/gurps/2017/03/22/brutal-advent-part-3.html" | relative_url }}
+[6]: {{ "/gurps/2017/03/30/x-com-arsenal-of-ruin.html" | relative_url }}
