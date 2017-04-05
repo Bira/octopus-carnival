@@ -108,4 +108,4 @@ fit into Gransys and providing entirely new stat blocks.
 [27]: {{ "/gurps/2017/02/27/gargoyles.html" | absolute_url }}
 [28]: {{ "/gurps/2017/03/14/cyclopes.html" | absolute_url }}
 [29]: {{ "/gurps/2017/03/29/chimerae.html" | absolute_url }}
-[30]: {{ "/gurps/2017/03/29/ogres.html" | absolute_url }}
+[30]: {{ "/gurps/2017/04/05/ogres.html" | absolute_url }}
