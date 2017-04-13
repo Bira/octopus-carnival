@@ -23,6 +23,9 @@ the following posts:
 - [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
   enemies found in BRUTAL ADVENT!
 
+- [First Research Phase][7]: This both details the research system I used in the
+  campaign and tells you how the first research phase went.
+
 
 [1]: {{ "/gurps/2017/01/03/x-com-post-mortem.html" | absolute_url }}
 [2]: {{ "/gurps/2017/02/18/x-com-setup.html" | absolute_url }}
@@ -30,3 +33,4 @@ the following posts:
 [4]: {{ "/gurps/2017/03/05/brutal-advent-part-2.html" | absolute_url }}
 [5]: {{ "/gurps/2017/03/22/brutal-advent-part-3.html" | relative_url }}
 [6]: {{ "/gurps/2017/03/30/x-com-arsenal-of-ruin.html" | relative_url }}
+[7]: {{ "/gurps/2017/04/13/x-com-strategy.html" | relative_url }}
