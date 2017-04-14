@@ -2,6 +2,10 @@
 layout: post
 title: "GURPS X-COM: Operation BRUTAL ADVENT, Part 1"
 category: gurps
+tags:
+  - gurps
+  - x-com
+  - actual-play
 ---
 
 {::nomarkdown}

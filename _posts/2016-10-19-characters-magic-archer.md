@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: The Magic Archer"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

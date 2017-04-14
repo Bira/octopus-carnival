@@ -2,6 +2,10 @@
 layout: post
 title: "Dragon's Dogma Bestiary: Gargoyles"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
+  - bestiary
 ---
 
 {::nomarkdown}

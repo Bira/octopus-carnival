@@ -2,6 +2,10 @@
 layout: post
 title: "Dragon's Dogma: Human Enemies"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
+  - bestiary
 ---
 
 {::nomarkdown}
@@ -158,7 +162,7 @@ targets like magicians.
 
 **Class**: Mundane.
 
-**Equipment**: Mail Armor, Steel Pot Heml, Shorstsword, Crossbow, Quiver with 20
+**Equipment**: Mail Armor, Steel Pot Helm, Shorstsword, Crossbow, Quiver with 20
 bolts.
 
 ### Halberdier

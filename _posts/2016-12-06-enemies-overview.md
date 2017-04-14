@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Enemies Overview"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

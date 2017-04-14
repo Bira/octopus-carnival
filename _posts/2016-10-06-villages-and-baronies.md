@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Villages and Baronies"
 categories: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 ## Introduction

@@ -2,6 +2,10 @@
 layout: post
 title: "GURPS X-COM: Noises in the Dark (a campaign post-mortem)"
 category: gurps
+tags:
+  - gurps
+  - x-com
+  - actual-play
 ---
 
 {::nomarkdown}

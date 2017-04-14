@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma Characters, Part 2: Magic"
 categories: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

@@ -6,6 +6,7 @@ tags:
   - gurps
   - psi-wars
   - golko
+  - actual-play
 ---
 
 {::nomarkdown}

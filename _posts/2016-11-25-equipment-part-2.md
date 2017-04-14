@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma Equipment Upgrades in Dungeon Fantasy"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

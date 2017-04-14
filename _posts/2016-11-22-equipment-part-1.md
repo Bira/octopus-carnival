@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Items and Equipment"
 category: gurps
+tags:
+ - gurps
+ - dragons-dogma
 ---
 
 {::nomarkdown}

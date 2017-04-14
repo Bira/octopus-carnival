@@ -2,6 +2,9 @@
 layout: post
 title: "Octopus Carnival: 2016 in Review"
 category: gurps
+tags:
+  - gurps
+  - meta
 ---
 
 Doing "year in review" posts seems to be the thing to do, so I'll write one as

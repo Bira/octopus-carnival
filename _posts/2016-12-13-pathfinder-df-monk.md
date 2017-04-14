@@ -2,6 +2,10 @@
 layout: post
 title: "Pathfinder Iconics in Dungeon Fantasy: Sajan"
 category: gurps
+tags:
+  - gurps
+  - pathfinder
+  - character
 ---
 
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to

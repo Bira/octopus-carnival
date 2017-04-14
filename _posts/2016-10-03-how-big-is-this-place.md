@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: How big is this place, anyway?"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 In [previous][big-picture] [posts][adventuring] I mentioned that the map of

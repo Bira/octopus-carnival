@@ -2,6 +2,10 @@
 layout: post
 title: "GURPS X-COM: Campaign Setup"
 category: gurps
+tags:
+  - gurps
+  - x-com
+  - actual-play
 ---
 
 {::nomarkdown}

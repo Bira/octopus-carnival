@@ -2,6 +2,9 @@
 layout: post
 title: "Adapting Videogames"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 Before I start with the whole Dragon's Dogma thing, I would like to discuss the

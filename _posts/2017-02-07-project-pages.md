@@ -2,6 +2,8 @@
 layout: post
 title: "Octopus Carnival now has a Projects page!"
 category: meta
+tags:
+  - meta
 ---
 
 Octopus Carnival now has enough material in it that I thought it was time for a

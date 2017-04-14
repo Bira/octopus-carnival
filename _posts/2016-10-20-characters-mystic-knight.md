@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Mystic Knight"
 categories: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 
@@ -148,9 +151,10 @@ subsequent Beat attempt _will_. So will a shield bash.
 ## New Spells
 
 One of the signature Mystic Knight abilities in the original game is the power
-to enchant all the party's with a given element at once, which saves a lot of
-time when that element turns out to be required in the middle of a fight. This
-is something can try replicating here by introducing a few new spells.
+to enchant all the party's weapons with a given element at once, which saves a
+lot of time when that element turns out to be required in the middle of a
+fight. This is something can try replicating here by introducing a few new
+spells.
 
 These spells can be learned by anyone who meets the prerequisites. They're an
 efficient choice when the party is composed of three or more adventurers who

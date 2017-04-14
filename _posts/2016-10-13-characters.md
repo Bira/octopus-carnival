@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Characters, Part 1"
 categories: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

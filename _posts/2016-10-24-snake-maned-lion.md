@@ -2,6 +2,9 @@
 layout: post
 title: "Blog or Treat: The Snake-Maned Lion"
 category: gurps
+tags:
+  - gurps
+  - monster
 ---
 
 Welcome to Blog or Treat, a Halloween Special conspiracy concocted by a

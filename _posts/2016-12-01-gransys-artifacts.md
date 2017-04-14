@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Artifacts of Gransys"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Character Races"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}
@@ -89,7 +92,8 @@ It's worth noting that the ability to drawn Pawns forth from the Rift is a
 below), but usually it's just fancier dressing for the usual Search rolls to
 find and hire henchmen.
 
-**Advantages**: Injury Tolerance: No Vitals (Heart only, -50%) {3}[^1]; Hero 2 {10};
+**Advantages**: Injury Tolerance: No Vitals (Heart only, -50%) {3}[^1]; Hero 2
+{10};
 
 **Disadvantages**: Unnatural Features (No heartbeat, occasionally glowing scar)
 {-3}[^2];
@@ -111,8 +115,9 @@ be addressed, even if it's just a sentence in the character's back story
 explaining how they avoided the confrontation. If it's publicly known that the
 character avoided their "fate", the positive reputation implied by the Hero
 advantage can be replaced by a negative reputation for cowardice or laziness
-instead, giving everyone a -2 Reaction. It's worth -10 points, bringing the cost
-of the lens down to 0.
+instead, giving everyone a -2 Reaction and worth -10 points. Simply removing the
+Hero advantage brings the cost of the lens down to 0 points. Adding the negative
+Reputation makes it cost -10 points in total.
 
 There's nothing preventing multiple Arisen PCs from being on the same party!
 Some of them might be old Arisen created in a previous invasion, or the Dragon

@@ -2,6 +2,10 @@
 layout: post
 category: gurps
 title: "Pathfinder Iconics in Dungeon Fantasy: Merisiel"
+tags:
+  - gurps
+  - pathfinder
+  - character
 ---
 
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to

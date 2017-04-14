@@ -2,6 +2,10 @@
 layout: post
 title: "Pathfinder Iconics in Dungeon Fantasy: Seoni"
 category: gurps
+tags:
+  - gurps
+  - pathfinder
+  - character
 ---
 
 If you've been reading this blog for a while, you'll know that I've already

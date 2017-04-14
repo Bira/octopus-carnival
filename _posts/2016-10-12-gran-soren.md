@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: The City of Gran Soren"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 {::nomarkdown}

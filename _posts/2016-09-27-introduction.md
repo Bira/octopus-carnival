@@ -2,6 +2,8 @@
 layout: post
 title: "Introduction"
 category: meta
+tags:
+  - meta
 ---
 
 Welcome to the Octopus Carnival! This blog serves two purposes: hosting my

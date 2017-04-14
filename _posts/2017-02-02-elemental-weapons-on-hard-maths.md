@@ -2,6 +2,9 @@
 layout: post
 title: "Elemental Weapon Spells on Hard Maths"
 category: gurps
+tags:
+  - gurps
+  - link
 ---
 
 I'm still working on the next post in the Dragon's Dogma Bestiary, but I saw

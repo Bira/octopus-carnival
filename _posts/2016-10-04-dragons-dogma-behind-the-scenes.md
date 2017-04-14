@@ -2,6 +2,9 @@
 layout: post
 title: "Behind the Scenes of Dragon's Dogma"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 In this Dragon's Dogma adaptation, I've been mostly working from my impressions

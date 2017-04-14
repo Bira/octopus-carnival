@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: High Concept"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 There are many ways in which I could tackle this project. The order of the

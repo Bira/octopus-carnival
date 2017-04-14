@@ -2,6 +2,10 @@
 layout: post
 title: "Pathfinder Iconics in Dungeon Fantasy: Lem"
 category: gurps
+tags:
+  - gurps
+  - pathfinder
+  - character
 ---
 
 Another weekend, another iconic character converted to GURPS Dungeon Fantasy!

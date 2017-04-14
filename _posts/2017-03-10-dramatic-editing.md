@@ -2,6 +2,9 @@
 layout: post
 title: "Dramatic Editing in GURPS"
 category: GURPS
+tags:
+  - gurps
+  - rules
 ---
 
 {::nomarkdown}

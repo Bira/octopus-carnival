@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: Adventuring in Gransys"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 In this post I continue the discussion of the "high concept" part of this

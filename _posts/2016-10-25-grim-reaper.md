@@ -2,6 +2,9 @@
 layout: post
 title: "Blog or Treat: The Grim Reaper"
 category: gurps
+tags:
+  - gurps
+  - monster
 ---
 
 Welcome to our second Blog or Treat article! I wanted to do another scary
@@ -38,8 +41,8 @@ part of a cycle, or a gentle passing into some higher realm. A scythe is not a
 tool for gently picking individual wheat stalks. No, the Grim Reaper is the
 Death that does to humanity what a farmer does to a field come harvest
 time. It's the Death that takes away your loved ones in the prime of their lives
-and then comes for you. You have as much defense against it as wheat does against
-the farmer.
+and then comes for you. You have as much defense against it as wheat does
+against the farmer.
 
 The monster and its variants statted up below draw inspiration from this
 imagery, and from a couple of other similar creatures I've run across in other

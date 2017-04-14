@@ -2,6 +2,9 @@
 layout: post
 title: "Dragon's Dogma: The Sovereign Duchy of Gransys"
 category: gurps
+tags:
+  - gurps
+  - dragons-dogma
 ---
 
 ## Introduction

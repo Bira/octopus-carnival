@@ -2,6 +2,10 @@
 layout: post
 title: "Pathfinder Iconics in Dungeon Fantasy: Amiri"
 category: gurps
+tags:
+  - gurps
+  - pathfinder
+  - character
 ---
 
 As I write this, I noticed that we've had a handful of GURPS posts already and
