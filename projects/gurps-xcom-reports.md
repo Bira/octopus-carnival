@@ -17,14 +17,17 @@ the following posts:
   setup, the choices given to the players there, and what the consequences of
   each were.
 
-- **Operation BRUTAL ADVENT**: Strike One's inaugural
-  operation. See [Part 1][3], [Part 2][4], and [Part 3][5].
+- **Operation BRUTAL ADVENT**: Strike One's inaugural operation, which took
+  place in Germany. See [Part 1][3], [Part 2][4], and [Part 3][5].
 
 - [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
   enemies found in BRUTAL ADVENT!
 
 - [First Research Phase][7]: This both details the research system I used in the
   campaign and tells you how the first research phase went.
+
+- [Operation DARK JUDAS, Part 1][8]: Strike One's second operation, which took
+  place in Brazil.
 
 
 [1]: {{ "/gurps/2017/01/03/x-com-post-mortem.html" | absolute_url }}
@@ -34,3 +37,4 @@ the following posts:
 [5]: {{ "/gurps/2017/03/22/brutal-advent-part-3.html" | relative_url }}
 [6]: {{ "/gurps/2017/03/30/x-com-arsenal-of-ruin.html" | relative_url }}
 [7]: {{ "/gurps/2017/04/13/x-com-strategy.html" | relative_url }}
+[8]: {{ "/2017/04/19/dark-judas.html" | relative_url }}
