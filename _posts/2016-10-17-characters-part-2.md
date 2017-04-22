@@ -46,7 +46,7 @@ Teleportation and time manipulation spells also remain off-limits. There are
 some magic items that deal with that kind of stuff, however. We'll get to them
 when we cover equipment.
 
-Spells to resurrect or reincarnate the dead is off-limits in this particular
+Spells to resurrect or reincarnate the dead are off-limits in this particular
 setting! This is still possible with the use of certain rare artifacts, but not
 even the most powerful magician can learn how to do it at will.
 
