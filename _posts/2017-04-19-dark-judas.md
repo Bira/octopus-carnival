@@ -80,9 +80,11 @@ The crash site was bad news, plain and simple:
 
 {::nomarkdown}
 <figure>
-  <img src="{{ "/assets/dark-judas-ao.jpg" | absolute_url }}"/>
+  <a href="{{ "/assets/dark-judas-ao.jpg" | absolute_url }}">
+    <img src="{{ "/assets/dark-judas-ao.jpg" | absolute_url }}"/>
+  </a>
   <figcaption>
-    The area of operations.
+    The area of operations. Click for a full-size version.
   </figcaption>
 </figure>
 {:/nomarkdown}
