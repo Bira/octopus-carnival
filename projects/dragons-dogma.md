@@ -57,6 +57,7 @@ GURPS.
 - [Dragon's Dogma Equipment Upgrades in Dungeon Fantasy][17]
 - [Artifacts of Gransys][18]
 - [Ferrystones and Portcrystals][31]
+- [Crafting Imbuements in Gransys][32]
 
 ## Bestiary
 
@@ -111,3 +112,4 @@ fit into Gransys and providing entirely new stat blocks.
 [29]: {{ "/gurps/2017/03/29/chimerae.html" | absolute_url }}
 [30]: {{ "/gurps/2017/04/05/ogres.html" | absolute_url }}
 [31]: {{ "/2017/04/16/ferrystones-and-portcrystals.html" | absolute_url }}
+[32]: {{ "/2017/04/27/crafting-imbuements-in-gransys.html" | relative_url }}
