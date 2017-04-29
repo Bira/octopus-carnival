@@ -129,3 +129,5 @@ to the east of the squad. _Those_ people wear gray.
 Now that's an interesting situation! Who are these two sides? Can the squad
 trust any of them? What the heck is going on here? Find out on the next
 installment!
+
+[0]: {{ "/projects/gurps-xcom-reports/" | absolute_url }}
