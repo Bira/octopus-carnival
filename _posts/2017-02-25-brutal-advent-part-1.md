@@ -221,6 +221,7 @@ it.
 
 ## End of Part 1
 
-To find out how the assault goes, stay tuned for part 2!
+To find out how the assault goes, stay tuned for [part 2][2]!
 
 [1]: {{ "/gurps/2017/02/18/x-com-setup.html" | absolute_url }}
+[2]: {{ "/gurps/2017/03/05/brutal-advent-part-2.html" | absolute_url }}

@@ -169,8 +169,9 @@ impaired and they have a 2.5km walk to look forward to. At this point, Minette's
 player decides to switch to Julia for the rest of the mission, leaving their
 original character to guard the Skyranger. The squad packs the branch and a
 couple of the more intact puppet corpses into the craft, and proceed with the
-mission. What they found next will be told in Part 2!
+mission. What they found next will be told in [Part 2][3]!
 
 [0]: {{ "/projects/gurps-xcom-reports/" | relative_url }}
 [1]: {{ "/gurps/2017/04/13/x-com-strategy.html" | relative_url }}
 [2]: https://remotepixel.ca/blog/before-after-bento-rodriguez-20151113.html
+[3]: {{ "/2017/04/29/dark-judas.html" | relative_url }}

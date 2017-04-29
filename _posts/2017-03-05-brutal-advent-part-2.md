@@ -173,8 +173,9 @@ this in the first mission, of course, but they would learn the aliens don't rely
 on normal sight if they had autopsied any of them in the strategic
 interludes. Alas, this ended up not happening before the game ended.
 
-Next: Assault on St. Marien Hospital!
+[Next: Assault on St. Marien Hospital!][3]
 
 
 [1]: {{ "/projects/gurps-xcom-reports/" | absoulte_url }}
 [2]: {{ "/gurps/2017/02/25/brutal-advent-part-1.html" | absolute_url }}
+[3]: {{ "/gurps/2017/03/22/brutal-advent-part-3.html" | relative_url }}
