@@ -16,7 +16,7 @@ tags:
 {:/nomarkdown}
 
 [Pyramid #3/102][1] was recently published, and it contains a system for making
-magic items that would be an excellent alternative to [the one I wrote][1] for
+magic items that would be an excellent alternative to [the one I wrote][0] for
 the Dragon's Dogma setting! It has the advantage of better fitting the theme of
 "master crafters using alchemy to improve equipment" that I was going for, and
 it uses the Imbuement system in a way that doesn't bog down fights
@@ -28,7 +28,7 @@ process always has the Alchemical (-10%) modifier.
 - A piece of gear can be improved after its creation! Use the original item's
   value, unmodified by pre-existing Cost Factors, to calculate the cost of
   the new change.
-- The special components described [in my post][1] can be used to pay up to half
+- The special components described [in my post][0] can be used to pay up to half
   of the imbuement's cost, using the same rate. They also reduce the time
   necessary for Infuse Gear by a similar rate, and if the PC provices enough
   components to completely cover the cost the infusion could be done by the same
