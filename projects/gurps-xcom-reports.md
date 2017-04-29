@@ -31,7 +31,7 @@ the following posts:
 - [First Research Phase][7]: This both details the research system I used in the
   campaign and tells you how the first research phase went.
 
-- **Operation DARK JUDAS, Part 1**: Strike One's second operation, which took
+- **Operation DARK JUDAS**: Strike One's second operation, which took
   place in Brazil.
 
   - [Part 1][8]
