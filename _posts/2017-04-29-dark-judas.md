@@ -131,3 +131,4 @@ trust any of them? What the heck is going on here? Find out on the next
 installment!
 
 [0]: {{ "/projects/gurps-xcom-reports/" | absolute_url }}
+[1]: {{ "/2017/04/19/dark-judas.html" | relative_url }}
