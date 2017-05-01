@@ -19,4 +19,4 @@ This is an ongoing project. These are the posts that comprise it:
   this adventure path and pick a party of delvers.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
-[2]: {{ "/2017/05/01/hells-rebels-players-guide.html" | relative_url }}
+[2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
