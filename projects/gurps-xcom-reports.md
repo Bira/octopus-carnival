@@ -36,6 +36,7 @@ the following posts:
 
   - [Part 1][8]
   - [Part 2][9]
+  - [Part 3][10]
 
 ## Supplementary Material
 
@@ -52,3 +53,4 @@ the following posts:
 [7]: {{ "/gurps/2017/04/13/x-com-strategy.html" | relative_url }}
 [8]: {{ "/2017/04/19/dark-judas.html" | relative_url }}
 [9]: {{ "/2017/04/29/dark-judas.html" | relative_url }}
+[10]: {{ "/2017/05/04/dark-judas.html" | relative_url }}
