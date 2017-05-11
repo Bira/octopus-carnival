@@ -18,5 +18,11 @@ This is an ongoing project. These are the posts that comprise it:
 - [The Player's Guide][2]: Where I go through all of the free Player's Guide for
   this adventure path and pick a party of delvers.
 
+- **In Hell's Bright Shadow**: The absurdly named first adventure, covered in
+  several posts.
+
+  - [Part 1][3]: Fledglings of Silver.
+
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
+[3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
