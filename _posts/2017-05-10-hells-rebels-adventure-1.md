@@ -132,7 +132,7 @@ man. Unlike the thugs in the riot, these ones fight to the death, but they
 should still be manageable. There's an extra XP reward for succeeding in helping
 Rexus, too.
 
-Their victum is Rexus Victocora, the young scion of the nicest noble family in
+Their victim is Rexus Victocora, the young scion of the nicest noble family in
 Kintargo, who of course was disappeared and had their house burned down in the
 Night of Ashes. He survived because he was out of the house at the time. Rexus
 has either taken an interest in the PCs during the protest or was the one who
