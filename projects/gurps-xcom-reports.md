@@ -37,11 +37,15 @@ the following posts:
   - [Part 1][8]
   - [Part 2][9]
   - [Part 3][10]
+  - [Spoilers and Fight Analysis][12]
 
 ## Supplementary Material
 
 - [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
   enemies found in BRUTAL ADVENT!
+
+- [The Arsenal of Ruin, Part 2][11]: GURPS stats for the new equipment seen in
+  DARK JUDAS.
 
 
 [1]: {{ "/gurps/2017/01/03/x-com-post-mortem.html" | absolute_url }}
@@ -54,3 +58,5 @@ the following posts:
 [8]: {{ "/2017/04/19/dark-judas.html" | relative_url }}
 [9]: {{ "/2017/04/29/dark-judas.html" | relative_url }}
 [10]: {{ "/2017/05/04/dark-judas.html" | relative_url }}
+[11]: {{ "/2017/05/15/arsenal-of-ruin-part-2.html" | relative_url }}
+[12]: {{ "/2017/05/12/dark-judas-analysis.html" | relative_url }}
