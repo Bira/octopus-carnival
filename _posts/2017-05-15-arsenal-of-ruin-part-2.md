@@ -55,7 +55,8 @@ rounds with greater force and accuracy than its TL 8 counterparts.
 The Puppet Assault Rifle lacks any targetting electronics, as the puppet's
 supernatural senses fill the same role. It is otherwise extremely reliable and
 easy to operate, being able to work for years in adverse conditions without
-regular maintenance.
+regular maintenance. It is operated with Guns (Longarm), or with Guns (Rifle)
+and Guns (Grenade Launcher) under the standard rules.
 
 | TL | Weapon       | Damage  | Acc | Range    | Weight | RoF | Shots |ST  | Bulk | Rcl |
 |:--:|:------------:|:-------:|:---:|:--------:|:------:|:---:|:-----:|:--:|:----:|:---:|
