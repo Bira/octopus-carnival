@@ -22,7 +22,10 @@ This is an ongoing project. These are the posts that comprise it:
   several posts.
 
   - [Part 1][3]: Fledglings of Silver.
+  - [Meet the NPCs, Part 1][4]: Descriptions and conversion notes for the NPCs
+    met so far.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
+[4]: {{ "/2017/05/18/hells-rebels-npcs.html" | relative_url }}
