@@ -44,7 +44,7 @@ come to the following list:
 - [Chimerae][16]
 - [Ogres][17]
 - [Gryphons and Cockatrices][18]
-- Golems
+- [Golems][19]
 - Hydras
 - Dragons
 
@@ -79,3 +79,4 @@ the DF line or other sources, or to use these in a generic DF setting.
 [16]: {{ "/gurps/2017/03/29/chimerae.html" | absolute_url }}
 [17]: {{ "/gurps/2017/04/05/ogres.html" | absolute_url }}
 [18]: {{ "/2017/05/08/gryphon-and-cockatrice.html" | relative_url }}
+[19]: {{ "/2017/05/23/golems.html" | relative_url }}
