@@ -21,11 +21,15 @@ This is an ongoing project. These are the posts that comprise it:
 - **In Hell's Bright Shadow**: The absurdly named first adventure, covered in
   several posts.
 
-  - [Part 1][3]: Fledglings of Silver.
+  - [Part 1: Fledglings of Silver][3]: In which the PCs are drawn to form the
+    core of a new resistance movement.
   - [Meet the NPCs, Part 1][4]: Descriptions and conversion notes for the NPCs
     met so far.
+  - [Part 2: Rebuilding the Ravens][5]: In which the PCs do what it says on the
+    title.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
 [4]: {{ "/2017/05/18/hells-rebels-npcs.html" | relative_url }}
+[5]: {{ "/2017/05/27/hells-rebels-adventure-1-part-2.html" | relative_url }}
