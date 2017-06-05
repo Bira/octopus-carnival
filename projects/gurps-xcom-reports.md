@@ -39,6 +39,9 @@ the following posts:
   - [Part 3][10]
   - [Spoilers and Fight Analysis][12]
 
+- [Second Research Phase][13]: This details the second research phase and some
+  of the game mechanics behind the things the players chose.
+
 ## Supplementary Material
 
 - [The Arsenal of Ruin, Part 1][6]: GURPS Stats for the weapons employed by the
@@ -60,3 +63,4 @@ the following posts:
 [10]: {{ "/2017/05/04/dark-judas.html" | relative_url }}
 [11]: {{ "/2017/05/15/arsenal-of-ruin-part-2.html" | relative_url }}
 [12]: {{ "/2017/05/12/dark-judas-analysis.html" | relative_url }}
+[13]: {{ "/2017/06/05/x-com-strategy.html" | relative_url }}
