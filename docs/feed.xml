@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octopus Carnival</title>
+    <description>A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.
+</description>
+    <link>https://Bira.github.io/octopus-carnival/</link>
+    <atom:link href="https://Bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 05 Jun 2017 16:26:59 -0300</pubDate>
+    <lastBuildDate>Mon, 05 Jun 2017 16:26:59 -0300</lastBuildDate>
+    <generator>Jekyll v3.4.3</generator>
+    
+      <item>
+        <title>GURPS X-COM: Second Research Phase</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/xcom__extraction_by_antimingebag-d9abdgp.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    &lt;a href=http://antimingebag.deviantart.com/art/XCOM-Extraction-561522409&gt;
+      Illustration by AntiMingebag on DeviantArt
+    &lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The intrepid soldiers of my &lt;a href=&quot;/octopus-carnival/projects/gurps-xcom-reports/&quot;&gt;X-COM campaign&lt;/a&gt; have just completed their second
+field op and returned alive but not unharmed. They discovered and explored a
+huge Forest of Woe in southeastern Brazil, met a new and more dangerous type of
+enemy, and brought back what seems to be an alien defector.&lt;/p&gt;
+
+&lt;p&gt;At this point I once again invited the players to step out of character for a
+while, and we entered the game’s second strategic/research phase. The bonus
+event they got this time was a debriefing of the alien refugee, because Sokolov
+was their head scientist. Had it been one of the others, this would have been a
+normal research choice and would cost points.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-event-the-refugee&quot;&gt;Bonus Event: The Refugee&lt;/h2&gt;
+
+&lt;p&gt;The alien is around 1.5m tall, and quite skinny. Its body is covered in a dark
+purple, chitinous carapace, over which it wears clothes. It has four arms and
+two legs, and moves in a somewhat discomforting and “twitchy” fashion. Its seems
+to wear a mask, as there is a clear seam between its face and the rest of its
+head, but this “mask” is soft and warm and almost human-like, and moves like it
+was a natural face. It’s a strong royal blue in color. The alien’s eyes are
+yellow with black pupils, and it has a very pronounced nose. This being does not
+have a gender as humans conceive of the concept.&lt;/p&gt;
+
+&lt;p&gt;As a genderless alien who wants to come and meet us, it was inevitable that the
+refugee would receive the code-name of Ziggy (from David Bowie’s Ziggy
+Stardust). Despite Dr. Vahlen’s strenuous protests, Dr. Sokolov elected to
+debrief X-COM’s new guest by personally interviewing Ziggy, since it was capable
+of communicating in English.&lt;/p&gt;
+
+&lt;p&gt;Ziggy’s use of grammar was quite peculiar, and it refused to use the pronoun
+“I”. Sokolov soon found out the movements of its mouth didn’t match what it
+seemed to be saying, and recordings of the interview only showed it speaking the
+same alien language the PCs had heard over their comms multiple times. As a
+result, the interviews were all transcribed the old-fashioned way, using the
+services of a stenographer.&lt;/p&gt;
+
+&lt;p&gt;Ziggy gave X-COM some basic organizational information on their opposition: they
+were made up of multiple alien species, some from previously conquered worlds
+and some engineered for war. The leaders of this force called themselves the
+Ebon Masters, and arrived on Earth through “gates”. The trees were part of a
+weaponized, artificial ecosystem it called “The Moon Flower”. Ziggy had been
+only a civilian clerk in the employ of the Masters, so he wasn’t able to provide
+much in the way of specific strategic detail.&lt;/p&gt;
+
+&lt;p&gt;Ziggy also referred to something called “The One Power” several times, and said
+none of the species previously conquered by the Masters had such an advanced
+mastery of it. Figuring that misunderstanding out quickly revealed that the
+advanced alien technology on display so far was, in fact, magic, and that humans
+were totally ignorant of it. Ziggy became as fascinated by this revelation as
+Sokolov was about the existence of magic.&lt;/p&gt;
+
+&lt;p&gt;Like the rest of the alien Masters, Ziggy’s look and culture are a mashup of the
+original Ethereals from X-COM and the devils from the
+excellent &lt;a href=&quot;http://killsixbilliondemons.com/&quot;&gt;Kill Six Billion Demons&lt;/a&gt; comic. It’s the equivalent of a Blue
+Devil, so low-ranked but quite intelligent. Ziggy also has a &lt;em&gt;conscience&lt;/em&gt;, which
+makes it nearly unique among its species.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cio.png&quot;/&gt;
+  &lt;figcaption&gt;
+  A blue devil from the Kill Six Billion Demons comic.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The whole “friendly alien helps X-COM” idea sprung from a My Little Pony fanfic,
+of all places. That story is &lt;a href=&quot;https://www.fimfiction.net/story/100455/stardust&quot;&gt;here&lt;/a&gt; if you’re curious, and though it becomes
+a bit muddled later on its premise was interesting enough that I decided to
+recycle it with a more campaign-appropriate alien.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/ddv4-1432482453-100455-full.jpeg&quot;/&gt;
+  &lt;figcaption&gt;
+  Also I didn't have the heart to replicate this scene.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;research-options&quot;&gt;Research Options&lt;/h2&gt;
+
+&lt;p&gt;This time, the players had 2 research points to allocate. Their options were the
+following, with the ones in italics being new:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cutting-Edge Research&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Advanced Medkit (this was Vahlen’s “free” project”) 0/1&lt;/li&gt;
+  &lt;li&gt;Personal-scale combat drones (this was Shen’s “free” project) 0/1&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Project Stardust&lt;/em&gt; (Employ Ziggy as part of the research staff and harness the
+One Power) 0/2&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Alien Artifacts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pinnochio (Puppet of Ruin) corpse 0/1&lt;/li&gt;
+  &lt;li&gt;Rosie (Bakegumo) corpse 0/1&lt;/li&gt;
+  &lt;li&gt;Alien guns 0/1&lt;/li&gt;
+  &lt;li&gt;Alien swords 0/1
+ -Alien Explosives (from grenades/RPG rounds) 0/1&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Black Trees&lt;/em&gt; (Study those substantial Black Tree pieces) 0/1&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Red Dust&lt;/em&gt; (It’s sprinkled over every alien body and artifact, as you’ve
+discovered earlier) 0/1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The group discussed this for a while. Two new players had joined the group at
+this time, and they provided their input as well. In the end, Project Stardust
+won out. It was the equivalent of researching psionics in the computer games,
+and it was even more vital here than in the original material.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-one-power-setting-information&quot;&gt;The One Power: Setting Information&lt;/h2&gt;
+
+&lt;p&gt;What Ziggy called “The One Power” is the ability to cause direct changes to
+physical reality by visualizing them in extreme detail and willing them into
+existence. It’s called that by the Ebon Masters because they never before had
+encountered a civilization that managed to achieve more than a medieval level of
+technology without resorting to it.&lt;/p&gt;
+
+&lt;p&gt;Ziggy’s description of the theoretical underpinnings of the One Power match a
+lot of human occult lore, sharing several similarities with Kabbalah and
+Pythagorean numerology among other sources. Manifesting a given effect requires
+modeling it through an equation in the alien numerological system, and then
+repeatedly solving it in one’s mind. Using it in practice requires more than an
+active imagination and skill at mathematics, however!&lt;/p&gt;
+
+&lt;p&gt;Medical scans show Ziggy’s body is permeated by an extensive network of
+circuit-like metallic filaments, made from the same materials detected in the
+tree fragments. These are naturally occurring in every species capable of using
+the One Power, according to the alien. These “circuits” act as a conduit for it,
+and take on some of the work of processing those mental equations.&lt;/p&gt;
+
+&lt;p&gt;Once X-COM’s scientists and engineers figured out the basics of how all of that
+works, they realized it wasn’t much different from modeling a physical process
+in software. With this knowledge in hand, they were able to separate the steps
+of building the necessary model (“compilation”) and running its simulation
+enough times to manifest the effect (“execution”). Sokolov didn’t like calling
+these things “spells”, so he named them “metatronic loops” to make the whole
+thing sound more scientific.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-one-power-game-mechanics&quot;&gt;The One Power: Game Mechanics&lt;/h2&gt;
+
+&lt;p&gt;Behind the scenes, the One Power as used by the aliens is basically Ritual Path
+Magic from &lt;strong&gt;GURPS Monster Hunters 1: Champions&lt;/strong&gt; and &lt;strong&gt;GURPS Thaumathology:
+Ritual Path Magic&lt;/strong&gt;. The main break from those supplements is that the aliens
+are able to use it to create permanent items and constructs, which is where all
+the “TL 4+n” stuff comes from.&lt;/p&gt;
+
+&lt;p&gt;The bit about naturally occurring “magic circuits” is swiped from the &lt;em&gt;Fate&lt;/em&gt;
+franchise; their game effect here is to allow a character to buy Magery (Ritual
+Path) and Ritual Adept. Humans in this game lack these circuits and so can’t use
+“classic” RPM at all. However, this discovery allows them to build similar
+circuits into &lt;em&gt;computers&lt;/em&gt;, giving them access to the Technomagic variant from
+&lt;strong&gt;GURPS Monster Hunters 5: Applied Xenology&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The immediate game effect of this discovery was to add a new item to the group’s
+master equipment list: the Metatronic Device, a hardened, custom-made PDA that
+could store one metatronic loop in its memory and run it at the tap of an
+icon. The thing’s processor would burn out after the effect ended, but it would
+be possible to carry several of them into the field. The first loop available
+was one that completely protected everyone in a given radius from the Hostage
+Effect (AKA psychic numbness) for up to 6 hours.&lt;/p&gt;
+
+&lt;p&gt;Players can also elect to learn ritual magic paths from now on - once they do,
+they’ll be able to develop their own loops using the top-of-the-line setup at
+X-COM HQ and take them into the field using the PDAs. For now they’re limited to
+what the NPC scientists can make.&lt;/p&gt;
+
+&lt;p&gt;Another, less visible effect of the discovery was to give X-COM access to the
+magical side of every other discovery they made through research! This is why
+researching the One Power was so vital - every possible countermeasure for the
+Dreams of Ruin involves a healthy dose of magic, particularly the higher-end
+ones. They couldn’t arrive at any of those solutions without this knowledge.&lt;/p&gt;
+
+&lt;p&gt;Once the choice was made and the effects explained, I took a little time to come
+up with their next mission. In the next update to this series, we’ll begin
+covering Operation SNAKE OIL.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Jun 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/06/05/x-com-strategy.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/06/05/x-com-strategy.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>x-com</category>
+        
+        <category>actual-play</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Hell's Rebels: In Hell's Bright Shadow, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Welcome to another installment of “Let’s Read Hell’s Rebels!” You can find links
+to the whole series in its &lt;a href=&quot;/octopus-carnival/projects/hells-rebels/&quot;&gt;project page&lt;/a&gt;. This time we’ll go through Part 2
+of its first adventure. It’s titled “Rebuilding the Ravens”.&lt;/p&gt;
+
+&lt;p&gt;As always, we’ll be taking a look at how our hypotethical party consisting
+of &lt;a href=&quot;/octopus-carnival/gurps/2016/11/27/pathfinder-df-knight.html&quot;&gt;Valeros&lt;/a&gt;, &lt;a href=&quot;/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html&quot;&gt;Lem&lt;/a&gt;, &lt;a href=&quot;/octopus-carnival/gurps/2016/12/30/pathfinder-df-rogue.html&quot;&gt;Merisiel&lt;/a&gt; and &lt;a href=&quot;/octopus-carnival/gurps/2016/10/15/pathfinder-df-cleric.html&quot;&gt;Kyra&lt;/a&gt; would fare here as GURPS
+Dungeon Fantasy delvers.&lt;/p&gt;
+
+&lt;p&gt;“Adventure Path” style modules have a reputation for being extremely
+railroady. &lt;a href=&quot;/octopus-carnival/2017/05/10/hells-rebels-adventure-1.html&quot;&gt;Part 1&lt;/a&gt; certainly lives up to that, since it consists of a series
+of tightly scripted scenes and two back-to-back dungeons where the PCs have no
+real alternative other than delve right in.&lt;/p&gt;
+
+&lt;p&gt;In Part 2, however, we leave the rails behind for a bit! It starts by stating
+that the PCs plus Rexus and Laria are the group best-positioned to offer
+organized opposition to Barzilai Thrune in the whole of Kintargo. It goes to
+show how thorough the guy was in killing everyone else, I guess, since right now
+our heroes have a snowball’s chance in Hell of taking him down. Before they can
+have a shot at The Barzilai, they need to expand the newborn Silver Ravens into
+a proper rebel army and consolidate support for their position.&lt;/p&gt;
+
+&lt;p&gt;The PCs are expected to engage with the custom rebellion rules at this point,
+which means this part of the adventure will play out over multiple weeks of game
+time and will largely consist of PC-initiated actions and their consequences as
+they focus on recruiting agents and gaining supporters. The book lists several
+special events and missions that will happen or become available while the PCs
+do this. By the end of the first adventure, the Silver Ravens should become a
+substantial movement with broad support among the oppressed of Kintargo, and
+should be ready to move out of Laria’s basement and into a more permanent base.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-spy-among-us&quot;&gt;A Spy Among Us&lt;/h2&gt;
+
+&lt;p&gt;The events mostly concern Blosodriette, the imp the party has unwittingly
+brought from the Fair Fortune Livery along with the documents they recovered
+there. She will hang around the hideout either invisible or transformed into a
+rat or spider. Her goal is to be set free without being banished back to Hell,
+and she begins sabotaging the rebels in an attempt to either convince the PCs to
+let her go or to attract attention from outside allies who can free her.&lt;/p&gt;
+
+&lt;p&gt;The GM is free to come up with clues and setbacks caused by the imp. Events in
+the book go from structural sabotage to mind-controlling an otherwise innocent
+NPC into betraying the group to the dottari. The PCs can thwart her in several
+ways: finding the contract and ripping it up will send the imp back to Hell, as
+will spotting the invisible devil and defeating her in combat. If a PC happens
+to belong to the Sarini noble lineage, they can actually &lt;em&gt;command&lt;/em&gt; Blosodriette
+and turn her to their service, since the contract binds her to that lineage.&lt;/p&gt;
+
+&lt;p&gt;It’s probably best if these events are interspersed with the special missions
+the book describes later, and/or with the normal turns of the rebellion
+management mini-game. Solving each one gives the party a XP award, as does
+defeating the imp. Of course, the party might end up finding the imp quite soon,
+and all of this will be moot if they already dealt with her back at the
+Livery. Defeating the devil early awards the party XP for any events that hadn’t
+occurred yet; the party &lt;em&gt;was&lt;/em&gt; successful in preventing them, after all.&lt;/p&gt;
+
+&lt;p&gt;There’s another unrelated event here that provides a bit of foreshadowing about
+the Rose of Kintargo, an NPC who appears in the second adventure. Foreshadowing
+is all this is, but I suppose it’s possible for a frustrated party to link
+this to the imp’s sabotage instead. It’s something to watch out for.&lt;/p&gt;
+
+&lt;h3 id=&quot;conversion-notes&quot;&gt;Conversion Notes&lt;/h3&gt;
+
+&lt;p&gt;Blosodriette should be built as a Wizard with the Shapeshifting, Suggestion and
+False Memory spells, plus any pre-requisites and other spells the GM deems
+suitably annoying (like summoning swarms of rats). In her natural form, she’s SM
+-3. Her advantages include Flight (Winged) and switchable Invisibility as an
+advantage rather than as a spell, since she can keep it up for a very long
+time. Her disadvantages include Sadism and an Obsession with being freed from
+her contract, as well as any vulnerabilities common to demons and devils in your
+game.&lt;/p&gt;
+
+&lt;h2 id=&quot;missions&quot;&gt;Missions&lt;/h2&gt;
+
+&lt;p&gt;These are “special missions” which occur outside the rebellion management
+rules. They’re numbered, but can happen in any order as decided by the PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-1-decode-the-documents&quot;&gt;Mission 1: Decode the Documents&lt;/h3&gt;
+
+&lt;p&gt;Decoding the documents requires skills with Linguistics and fluency in
+Celestial, Elven and Strix. Rexus has all of this and will take 7 weeks to do
+the job by himself, but PCs who also meet the prerequisites can try to help
+shorten this time. Finishing the job in 4 weeks or less is worth bonus XP, and
+regardless of the time it takes the party will get a permanent bonus to all
+Silver Raven organization stats from the tactical information contained in
+there. They’ll also learn a lot about the history of the original group.&lt;/p&gt;
+
+&lt;p&gt;Since this is a long-running thing, the PCs can obviously engage in other
+activities or missions while it goes on.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-2-investigate-the-fires&quot;&gt;Mission 2: Investigate the Fires&lt;/h3&gt;
+
+&lt;p&gt;A lot of places connected to dissident characters and organizations burned down
+in the Night of Ashes, and the PCs can look into those fires if they are so
+inclined. The only site that will yield something of value are the ruins of the
+Silver Star, Shensen’s shop, which has a hidden stash of potions and scrolls
+which wasn’t damaged by the fire. More substantial clues as to what happened at
+these locations will be found elsewhere.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-3-prisoners-of-salt&quot;&gt;Mission 3: Prisoners of Salt&lt;/h3&gt;
+
+&lt;p&gt;Freeing the high-profile prisoners from Kintargo Castle might be more than what
+the group can handle at this point, but that’s not the only place where
+prisoners are being held. A group of rogues and mercenaries friendly to Laria is
+being held prisoner at the Salix Salt Works, and they would make a good addition
+to the Silver Ravens. They’re guarded by a group of thugs hired by Thrune.&lt;/p&gt;
+
+&lt;p&gt;The book provides a keyed map of the area, but this will be mostly just a big
+brawl. There’s a total of eight CCG Thugs led by a dwarf fighter named Kessrin,
+but only half of the group is on guard duty at any one time, with the other half
+asleep in an outbuilding. Our hypothetical party should have no trouble at all
+moping the floor with these doofuses, particularly if they strike at
+night. Rescuing the prisoners allows the PCs to recruit them to the Ravens.&lt;/p&gt;
+
+&lt;h4 id=&quot;conversion-notes-1&quot;&gt;Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;We already discussed the CCG Thugs in Part 1. Kessrin should be built as a
+well-armored dwarf Squire with a few extra points of ST, Overconfidence, and the
+Throwing skill. He wields a mace and shield, and has a couple of alchemical
+grenades. The original uses Tanglefoot Bags, but the GM might want to employ
+something more devious like poisons or sleep potions.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-4-murders-in-the-nursery&quot;&gt;Mission 4: Murders In the Nursery&lt;/h3&gt;
+
+&lt;p&gt;Remember how I talked about Golarion having more horror elements than your
+typical D&amp;amp;D setting? We’ll get to see some of them here.&lt;/p&gt;
+
+&lt;p&gt;You see, tieflings face a lot of racial prejudice in Cheliax, even in
+Kintargo. I find this a bit surprising in a nation that generally considers
+everything devil-related to be just swell. Perhaps the justification for this is
+in a setting book I don’t have. Most of Kintargo’s tieflings live in a decrepit
+slum nicknamed “The Devil’s Nursery”, and the harassment they face when they try
+to move out makes it very difficult for them to do so.&lt;/p&gt;
+
+&lt;p&gt;Thrune made their lives even worse by not only imprisoning the most effective
+advocate for their civil rights during the Night of Ashes, but having a witch in
+his employ conduct an horrific ritual in the Nursery that summoned a pack of
+eight tooth fairies (the &lt;em&gt;Hellboy&lt;/em&gt; kind, not the children’s story kind). The fey
+roam around the slums every few days, killing people and taking their
+teeth. It’s causing a panic that may erupt into a riot if nothing is done about
+it. If the PCs help here, they’ll earn many supporters from among Kintargo’s
+downtrodden.&lt;/p&gt;
+
+&lt;p&gt;This mission is a meaty investigative scenario - all the PCs know at the start
+is that people are getting killed in the slums. This might require interviewing
+reluctant witnesses, examining a body before the locals can cremate it, or even
+having one of the PCs act as bait for the killers by wandering the streets alone
+at night.&lt;/p&gt;
+
+&lt;p&gt;The fairies fight to the death once they’re cornered in their lair, which is
+also where the PCs can find the remains of the ritual that summoned the fairies
+here, which include the body of a child. Treating it with respect and solving
+the case earns them extra supporters in the coming weeks.&lt;/p&gt;
+
+&lt;h4 id=&quot;conversion-notes-2&quot;&gt;Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;A GM who wants to really focus on the investigation here might break out the
+rules from &lt;strong&gt;GURPS Monster Hunters&lt;/strong&gt;, which cover the “identify the monster and
+find it” part pretty well. Social skills would be useful for interviewing
+witnesses, &lt;strong&gt;Diagnosis&lt;/strong&gt; for examining the bodies, and &lt;strong&gt;Hidden Lore (Faeries)&lt;/strong&gt;
+to idenfity the culprits and their weaknesses.&lt;/p&gt;
+
+&lt;p&gt;Pathfinder Tooth Fairies are pixy-sized fey (SM -6) who wield magical pliers
+that attack like SM 0 magical knives and give them the ability to pull out
+someone’s teeth mid-fight. They also have a paralytic bite, and explode into
+nauseating glitter when they die. The eight fairies in this encounter can give a
+party who relies exclusively on physical attacks some unexpected trouble!&lt;/p&gt;
+
+&lt;p&gt;As for our party, this would mostly be Lem’s and Meririel’s show until they
+managed to confront the fairies, in my estimation. Fighting them might be tricky
+unless Lem can get off a Mass Daze or Mass Sleep spell, or Kyra can set them on
+fire.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-5-crackdown-at-clenchjaws&quot;&gt;Mission 5: Crackdown at Clenchjaw’s&lt;/h3&gt;
+
+&lt;p&gt;Clenchjaw’s was a fairly unremarkable bar until recently. Now it’s becoming a
+hotbed of anti-government sentment as well as the stage for huge, nightly
+brawls. Its owner used to keep a lid on this stuff, but he’s been passing out
+early each night for some weird reason. PCs can get involved here while looking
+for recruits.&lt;/p&gt;
+
+&lt;p&gt;PCs who look hang around the bar long enough will eventually find out the cause
+of the increased chaos is Vendalfek, a fairy dragon! He moved here after the
+other bar he lived in was burned in the Night of Ashes, and has been using his
+illusion powers to make Clenchjaw’s rowdier to stave off his boredom. This in
+turn attracted more dissidents to the place.&lt;/p&gt;
+
+&lt;p&gt;Vendalfek can be convinced to stop his shenanigans peacefully, and some skilled
+diplomacy might convince him to join the rebellion as a special ally. Outright
+invinting him to live on their base will have the same result. Failing to
+resolve the situation will eventually cause the bar to be raided, which will
+cost the Ravens some supporters.&lt;/p&gt;
+
+&lt;h4 id=&quot;conversion-notes-3&quot;&gt;Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;Vendalfek should be based on the Shoulder Dragon template on p. 27 of &lt;strong&gt;GURPS
+Dungeon Fantasy 5: Allies&lt;/strong&gt;, with the addition of some spellcasting ability
+focused on illusion. He makes a good spy, being basically a less powerful but
+also less ethically questionable version of Blosodriette the imp.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-6-an-unsanctioned-excruciation&quot;&gt;Mission 6: An Unsanctioned Excruciation&lt;/h3&gt;
+
+&lt;p&gt;This section goes on a bit about “excruciations”, which are public torture and
+humilation sessions the Chelish government likes to punish its dissidents and
+criminals with. Barzilai’s preferred method is “doghousing”, in which the victim
+is forced to share a space with two large angry dogs for days and choose between
+fighting them for food or starving. No official excruciations are scheduled
+during this adventure, but the ever punchable members of the Chelish Citizen’s
+Group have decided to perform a few of their own.&lt;/p&gt;
+
+&lt;p&gt;This is an event that should happen once the Silver Ravens have gained a fair
+bit of notoriety. The CCG captures a friendly NPC who isn’t a member of the
+Ravens, perhaps someone who helped the PCs during Mission 4 or 5, and stages a
+doghousing in Aria Park. The PCs should get wind of this fairly quickly once it
+happens, since it’s not exactly a discreet event. It’s up to them whether and
+when to stage a rescue, but waiting too long will obviously prove lethal for the
+victim.&lt;/p&gt;
+
+&lt;p&gt;Fighting the four CCG thugs and their two big angry dogs would be a literal walk
+in the part for our brave delvers. Doing so in a public fashion increases the
+Ravens’ notoriety, but I personally think it’s worth it. The dottari show up a
+few minutes after a fight breaks out, but by them the party will be long gone.&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-7-threat-of-the-red-jills&quot;&gt;Mission 7: Threat of the Red Jills&lt;/h3&gt;
+
+&lt;p&gt;The Red Jills are a small but violent gang of thieves who are taking advantage
+of the current chaos to prey on the citizens of Kintargo. They leave the dottari
+and the CCG alone, so Thrune lets them keep operating to keep the population
+afraid. As such, making them stop will benefit the Ravens.&lt;/p&gt;
+
+&lt;p&gt;Recruiting the Jills as allies isn’t possible: they’re led by Scarplume, a strix
+with a particularly fierce hatred of humans. Tracking the Jills down to their
+abandoned orphanage hideout will lead to a big fight.&lt;/p&gt;
+
+&lt;h4 id=&quot;conversion-notes-4&quot;&gt;Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;Once again the investigation rules from &lt;strong&gt;Action&lt;/strong&gt; or &lt;strong&gt;Monster Hunters&lt;/strong&gt; would
+do a good job here! &lt;strong&gt;Streetwise&lt;/strong&gt; and &lt;strong&gt;Area Knowledge (Kintargo)&lt;/strong&gt; would be
+particularly important for finding the hideout.&lt;/p&gt;
+
+&lt;p&gt;Strix are winged humanoids, and their stats should be basically like a human’s
+aside from the Flight (Winged) advantage. Scarplume is a sorcerer whose spell
+list can be summed up as “All The Fire”, which means she can be statted up as
+either a Fire Elementalist or a DF Sorcerer with lots of burning Innate
+Attacks. She has Intolerance (Humans) and a host of other sociopathic
+disadvantages. The rest of the Jills should be built using the Cutpurse or
+Skirmisher templates from &lt;strong&gt;DF 15&lt;/strong&gt;, and should all be non-human.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That’s it for part 2 of the book! Part 3 contains a substantial dungeon delve,
+but doesn’t necessarily happen after all of the events here: the timing for that
+is entirely up to the PCs, so they might end up having to deal with the stuff
+here even into the second adventure.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 27 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/27/hells-rebels-adventure-1-part-2.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/27/hells-rebels-adventure-1-part-2.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Alternatives to GURPS</title>
+        <description>&lt;p&gt;It seems my &lt;a href=&quot;/octopus-carnival/2017/05/21/to-gurps-or-not-to-gurps.html&quot;&gt;last post&lt;/a&gt; on this subject caught more attention than usual! I
+got a significant number of comments on Google Plus and Facebook. I honestly
+wouldn’t have thought people would be this interested in my opinions. So let’s
+elaborate on this a bit more, shall we?&lt;/p&gt;
+
+&lt;p&gt;In that post I mentioned that the first system I tend to think of when
+I visualize a game in my head is GURPS about 90% of the time. In the other 10%,
+something else comes to mind. And in some part of the first 90%, there may come
+a time where I decide GURPS is not the best fit either. Why do I end up thinking
+that, and what systems I prefer at these times?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-why&quot;&gt;The Why&lt;/h2&gt;
+
+&lt;p&gt;Much of my reasoning has been explained in the &lt;a href=&quot;/octopus-carnival/2017/05/21/to-gurps-or-not-to-gurps.html&quot;&gt;previous post&lt;/a&gt; on this
+subject: sometimes the setting assumptions just don’t mesh well with GURPS in
+terms of their preferred level of exactness, internal consistency, or sheer
+scale. The rest of the time I come to this conclusion is because I know of a
+system that can handle what I see as that particular setting’s “essence” better
+than GURPS. Usually it’s a mix of the two.&lt;/p&gt;
+
+&lt;p&gt;With enough work I could probably modify GURPS into something that can handle
+these cases. However, I feel that there’s a point where it’s simpler and easier
+to use another system whose design and default assumptions already match what
+I’m going for.&lt;/p&gt;
+
+&lt;p&gt;Note that this doesn’t have anything to do with the level of “crunch” in a
+system! It’s more about the specific feelings I want to evoke in actual play
+than about the complexity of the rules.&lt;/p&gt;
+
+&lt;p&gt;Here’s some examples from fiction and other media that I feel fit the criteria
+above:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;By the end of &lt;em&gt;Tengen Toppa Gurren Lagann&lt;/em&gt;, you have the protagonists piloting
+a universe-sized robot who uses galaxies as throwing weapons. How to even
+begin modeling that?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The joke at the core of Andrew Hussie’s &lt;em&gt;Problem Sleuth&lt;/em&gt; is that the exact
+game mechanics of the stuff you do don’t matter one bit and trying to properly
+understand them leads only to madness. This remains an ever-present theme in
+his subsequent story, &lt;em&gt;Homestuck&lt;/em&gt;, as well. Despite the jokes some people like
+to make, GURPS works in precisely the opposite way.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;An &lt;em&gt;Overwatch&lt;/em&gt; campaign that sought to capture the feel of the original’s
+&lt;em&gt;gameplay&lt;/em&gt; would need a fight between a non-superhuman shirtless dude with an
+improvised shotgun and someone wearing the best powered armor German
+engineering can build to be an even match. GURPS can’t easily handle that
+level of gameplay and setting segregation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Everything in the entirely non-violent and pastoral &lt;em&gt;Flying Witch&lt;/em&gt; happens at
+a scale where you could sit down and figure everyone’s DX scores and
+encumbrance levels, but that would feel like it’s missing the point of what
+the show is really about.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-what&quot;&gt;The What&lt;/h2&gt;
+
+&lt;p&gt;So what do I usually go for, when I decide GURPS wouldn’t be a good fit? Let’s
+look at my usual alternatives in rough alphabetical order:&lt;/p&gt;
+
+&lt;h3 id=&quot;dungeons--dragons-4th-edition&quot;&gt;Dungeons &amp;amp; Dragons 4th Edition&lt;/h3&gt;
+
+&lt;p&gt;This is my favorite edition of Dungeons &amp;amp; Dragons; Quite possibly the only
+edition I actually &lt;em&gt;like&lt;/em&gt;. People like to denigrate it as being too
+“video-gamey”, but I find its combat system and the power system that supports
+it to be immensely fun in a very specific way.&lt;/p&gt;
+
+&lt;p&gt;You see, D&amp;amp;D 4 combat &lt;em&gt;does&lt;/em&gt; feel like a video-game to me, but not like the MMOs
+its detractors usually compare it to. No, to me it feels like a grid- and turn-
+based tactical RPG in the vein of Final Fantasy Tactics, Fire Emblem or
+Disgaea. I love that sort of game to bits, and my fond memories of playing them
+stretch back into my pre-teen years. Having an ruleset that allows me to run
+something like that on the tabletop is basically a dream come true.&lt;/p&gt;
+
+&lt;p&gt;Its encounter and monster design system is easy to use and produces remarkably
+consistent results. Monster stats in D&amp;amp;D 4 are mostly independent from the
+in-setting description for those monsters. Everything is based on level - the
+equipment a monster of a certain level wears and even its basic attributes are
+mostly there for color, and can even be safely omitted from the stat block
+itself. This makes reskinning monsters to fit your specific scenario a simple
+matter of changing your description and maybe switching out a minor power in the
+stat block.&lt;/p&gt;
+
+&lt;p&gt;I use D&amp;amp;D 4th Edition when I want to experience the feel of its grid-based
+combat, and when I want a high level of separation between a character’s game
+stats and their in-setting description. That last reason is why I would use this
+system for a “gameplay first” adaptation of &lt;em&gt;Overwatch&lt;/em&gt;. In a “setting first”
+adaptation I would still go with GURPS (and Roadhog vs. Reinhardt wouldn’t be an
+even match).&lt;/p&gt;
+
+&lt;h3 id=&quot;exalted-3rd-edition&quot;&gt;Exalted 3rd Edition&lt;/h3&gt;
+
+&lt;p&gt;I love Exalted’s setting! I didn’t love the second edition all that much, but
+the third won me back.&lt;/p&gt;
+
+&lt;p&gt;While I could take this game’s excellent setting and run it as a high-powered
+“fantasy supers” GURPS game, I find the original rules have a certain, well,
+charm to them. So unless I have a very strong reason not to, when I run Exalted
+I use the Exalted 3rd edition rules. I would probably go for a system conversion
+before I used the second edition, though.&lt;/p&gt;
+
+&lt;h3 id=&quot;chuubos-marvelous-wish-granting-engine&quot;&gt;Chuubo’s Marvelous Wish Granting Engine&lt;/h3&gt;
+
+&lt;p&gt;Chuubo’s is a system as rigorously designed as GURPS, but with a diametrically
+opposite focus. While GURPS is all about the mechanical actions and physical
+results of character actions, Chuubo’s is all about the intention and the
+emotions behind these actions.&lt;/p&gt;
+
+&lt;p&gt;This makes it well-suited for pastoral, non-violent games inspired by material
+such as &lt;em&gt;Flying Witch&lt;/em&gt;. Games where &lt;em&gt;how an action makes you feel&lt;/em&gt; is more
+important than whether it is successful, and where the climax of the story
+consists of &lt;em&gt;witnessing something wonderful&lt;/em&gt; rather than overcoming a conflict.&lt;/p&gt;
+
+&lt;p&gt;The system also has support for other genres as well, and a large selection of
+miraculous powers that truly feel miraculous. It generally excels at running
+games where the &lt;em&gt;metaphysics&lt;/em&gt; of the setting matter far more than its physics
+(such as one based on &lt;em&gt;Homestuck&lt;/em&gt;). Its narrative-based XP mechanics are also
+quite interesting!&lt;/p&gt;
+
+&lt;p&gt;Another system that has very good support for non-violent pastoral games is
+&lt;em&gt;Golden Sky Stories&lt;/em&gt;. Unlike Chuubo’s, it works at a more prosaic level and
+doesn’t try to support other genres, but it’s pretty good at what it does.&lt;/p&gt;
+
+&lt;h3 id=&quot;wushu&quot;&gt;Wushu&lt;/h3&gt;
+
+&lt;p&gt;FATE seems to be all the rage these days when it comes to
+relatively-rules-light, narrative-driven games, but Wushu is the game that
+captured my heart in that area. Its first iterations were dedicated to emulating
+kung-fu movies, but it eventually became a generic, action-oriented system that
+reaches that status by &lt;em&gt;not caring&lt;/em&gt; about the physical details of character
+actions. Its very light rules mostly concern themselves with ensuring the group
+maintains a coherent narrative, and use that narrative as a means to gather the
+dice players roll for actual tests.&lt;/p&gt;
+
+&lt;p&gt;This makes it perfect for games where the exact “physics” of the world take a
+backseat to the spectacle of the story. &lt;em&gt;Gurren Lagann&lt;/em&gt; is the perfect example
+of such a setting, and it would also work wonderfully for &lt;em&gt;Problem Sleuth’s&lt;/em&gt;
+“nonsensical adventure game” paradigm since players would be able to make up
+stupid mechanics on the spot as part of their narration.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-you&quot;&gt;What About You?&lt;/h2&gt;
+
+&lt;p&gt;This is pretty much the list of all of my go-to systems. What are yours? What
+specific things draw you to these games?&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/24/alternatives-to-gurps.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/24/alternatives-to-gurps.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>exalted</category>
+        
+        <category>wushu</category>
+        
+        <category>dnd</category>
+        
+        <category>chuubo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dragon's Dogma Bestiary: Golems</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/DDENEMIES.jpg&quot;/&gt;
+  &lt;figcaption&gt;Copyright 2012 Capcom.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is an entry in the Dragon’s Dogma bestiary. The remaining entries along
+with the full adaptation can be found &lt;a href=&quot;/octopus-carnival/projects/dragons-dogma/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;As in other fantasy settings, golems are animated statues created by magicians
+to fulfill a certain mission, usually to guard some important place. In Gransys,
+the secret of their creation has been lost to the ages, but there are still a
+fair number of dormant golems still extant. Sages speculate their creators
+belonged to the same culture that worshipped the elemental deities whose shrines
+still survive underground. This speculation comes mostly from observing the
+designs of both the ruins and the golems and concluding their builders liked to
+think &lt;em&gt;big&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, none of the golems found so far were even near the elemental shrine
+ruins. They slumber out in the wild, looking like boulders until an unwary
+intruder crosses some unseen boundary. Perhaps the truth is that the golems are
+even older than the shrines, and the places they have been set to guard have
+long since crumbled to dust.&lt;/p&gt;
+
+&lt;h2 id=&quot;advanced-stone-golem&quot;&gt;Advanced Stone Golem&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;GURPS Dungeon Fantasy 2: Dungeons&lt;/strong&gt; contains stats for a stone golem on
+p. 26. As that book says, those stats represent a &lt;em&gt;basic&lt;/em&gt; model. At SM+1, this
+type of golem can comfortably fit in most dungeons and might indeed be guarding
+some deep chamber in an elemental shrine.&lt;/p&gt;
+
+&lt;p&gt;The “advanced” stone golems found on the wild are quite a bit larger and more
+dangerous, and have the ability to shoot coruscating energy beams from their
+foreheads at foes they can’t reach with their powerful fists.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 50; &lt;strong&gt;DX&lt;/strong&gt; 11; &lt;strong&gt;IQ&lt;/strong&gt; 8; &lt;strong&gt;HT&lt;/strong&gt; 14;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SM&lt;/strong&gt; +3; &lt;strong&gt;Dodge&lt;/strong&gt; 8; &lt;strong&gt;DR&lt;/strong&gt; 15;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 90; &lt;strong&gt;Will&lt;/strong&gt; 8; &lt;strong&gt;Per&lt;/strong&gt; 8; &lt;strong&gt;FP&lt;/strong&gt; 11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Basic Speed&lt;/strong&gt; 5.50; &lt;strong&gt;Move&lt;/strong&gt; 6;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Punch (16)&lt;/strong&gt;: 5d+1 cr. Reach C-2.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Grab (16)&lt;/strong&gt;: Grapples at ST 51.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Brilliant Lance (14)&lt;/strong&gt;: 3d burning; Acc 3; Range 10/100; RoF 1.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;: Automaton; Cannot Learn; Doesn’t Breathe; Doesn’t Eat or Drink;
+Doesn’t Sleep; Fragile (Unnatural); High Pain Threshold; Immunity to Metabolic
+Hazards; Indomitable; Injury Tolerance (Homogenous, No Blood); Pressure Support
+3; Reprogrammable; Unfazeable; Unhealing (Total); Vacuum Support.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Construct.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;: See below for additional weaknesses.&lt;/p&gt;
+
+&lt;h3 id=&quot;fighting-the-golem&quot;&gt;Fighting the Golem&lt;/h3&gt;
+
+&lt;p&gt;As a six meter tall, six-ton stone statue the advanced golem has the sort of HP
+and DR that puts it well outside the range of most personal weapons. Despite its
+relatively low IQ and Will, it’s not very succeptible to mind-affecting magic
+either. Fighting it directly would require siege engines or apocalyptic
+magic. Fortunately, there’s a better way!&lt;/p&gt;
+
+&lt;p&gt;Since it requires much more magical energy than the basic golem described in
+&lt;strong&gt;DF 2&lt;/strong&gt;, this advanced model is powered by 1d+1 Powerstones encrusted in its
+surface (roll a random hit location for each one). Each can be targeted at a
+penalty equal to that of the hit location it’s in plus an additional -1, and
+despite being as Homogenous as the golem has a “mere” HP 10 and DR 0. Reducing
+the stone to 0 HP cracks it and makes it worthless as a power source. Destroying
+all of them deactivates the golem.&lt;/p&gt;
+
+&lt;p&gt;Of course, parties who stumble upon a golem can also just run away and leave the
+zone it’s guarding. They will never pursue anyone or fire their beams past that
+boundary. Even if the golem is on the way to something you need, you can retreat
+and come back prepared to face it later on.&lt;/p&gt;
+
+&lt;p&gt;Golems are always alone - they kill anything else that enters their protected
+area.&lt;/p&gt;
+
+&lt;h3 id=&quot;golem-variants&quot;&gt;Golem Variants&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Iron Golem&lt;/strong&gt;: Some places were apparently deemed too important to be guarded
+by mere &lt;em&gt;stone&lt;/em&gt; golems. They have faded away to nothing just the same, leaving
+their immortal guardians watching over empty stretches of bog or meadow.&lt;/p&gt;
+
+&lt;p&gt;Not only do iron golems have double the HP and DR, their 2d+2 power sources are
+located outside their bodies, placed along the boundary of their guarded
+area. These special talismans are as resistant to time as the golem itself, but
+have a mere DR 0 and HP 5 each. The problem is &lt;em&gt;finding&lt;/em&gt; them while the golem
+attacks - destroying an iron golem is the ultimate exercise in Extreme
+Archaeology.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/23/golems.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/23/golems.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dragons-dogma</category>
+        
+        <category>monster</category>
+        
+        <category>bestiary</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>To GURPS or Not To GURPS</title>
+        <description>&lt;p&gt;I’m sure many people have posted their takes on this over the years. In a
+continuing attempt to procrastrinate on finishing the &lt;a href=&quot;/octopus-carnival/projects/dragons-dogma&quot;&gt;Dragon’s Dogma&lt;/a&gt;
+bestiary, I decided to post mine.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-history-with-gurps&quot;&gt;My History with GURPS&lt;/h2&gt;
+
+&lt;p&gt;GURPS has always been one of my favorite systems ever since I first heard of it
+somewhere during the early Nineties. Back then, GURPS 3rd Edition was one of the
+Big Three systems in Brazil, mostly because it was one of the three systems that
+had been translated by this one publisher who had a strategy of buying All The
+Licenses from US companies. The other two were AD&amp;amp;D 2nd Edition and Vampire: The
+Masquerade, at the time also in its second edition.&lt;/p&gt;
+
+&lt;p&gt;Of those three, I went with GURPS, mostly by a process of elimination. Buying
+only one core book was way cheaper than buying three, and I wasn’t a fan of
+vampires as player characters. I read and enjoyed the book, but didn’t actually
+use it in play very much. I mostly played Tagmar, which is a fantasy system that
+should be pretty much unknown to anyone outside of Brazil, and later on a bit of
+Shadowrun 2nd edition (and my relationship with &lt;em&gt;that&lt;/em&gt; one deserves an article
+of its own).&lt;/p&gt;
+
+&lt;p&gt;After ‘96 or so, when my English skills had improved considerably and I had
+moved to a bigger city with a proper FLGS, I began to discover the joy of GURPS
+supplements. Some of them had been translated to Portuguese, but the ones I
+found myself drawn to only had English versions. I still have and cherish my
+physical copies of Russia, Callahan’s Crosstime Saloon, the first Discworld, and
+consider my relative recent finding of a used GURPS Goblins to be a major stroke
+of luck. Even though I still didn’t play much GURPS, the books were a joy to
+read.&lt;/p&gt;
+
+&lt;p&gt;I bought the GURPS 4th Edition corebooks when they came out in
+2005, in English. By then the Brazilian edition of the game had been languishing
+for a while, publishing-wise: aside from those first few translated sourcebooks,
+all we had were some locally-produced historical games based on GURPS Lite,
+and even those were fading out of print by the time Fourth Edition rolled
+around.&lt;/p&gt;
+
+&lt;p&gt;I liked the new core rules quite a lot, and kept buying print books as they came
+out until I switched to PDF for good. These days, GURPS is pretty much my
+absolute favorite system, though ironically that doesn’t seem to be an opinion
+shared with any of my fellow face-to-face players. But they’ve all moved into
+board games anyway, so they don’t count here.&lt;/p&gt;
+
+&lt;p&gt;Now, every time I watch or read some particularly interesting piece of media I
+try to think what it would look like adapted to some RPG system. And pretty much
+the first system I always try to fit in there is GURPS. 90% of the times the
+result looks pretty good, at least for a 15-minute purely mental effort, but
+sometimes I find it’s not the best system for the job.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-to-gurps&quot;&gt;When To GURPS&lt;/h2&gt;
+
+&lt;p&gt;GURPS excells at representing settings and stories where the specific details of
+the actions you take are &lt;em&gt;important&lt;/em&gt; and have &lt;em&gt;mechanical weight&lt;/em&gt;. This usually
+means relatively grounded and internally consistent settings, though not
+necessarily &lt;em&gt;realistic&lt;/em&gt; ones. Most action movies fit here, as does a whole lot
+of science fiction and quite a few martial arts stories.&lt;/p&gt;
+
+&lt;p&gt;Fantasy does, too, as long it has the traits above. IMHO, GURPS does
+low-to-mid-level D&amp;amp;D a lot better than most actual editions of D&amp;amp;D. If you want
+“I wait until the armored ogre lifts his arm to attack and stab his armpit with
+my spear” to actually &lt;em&gt;mean&lt;/em&gt; something mechanically, GURPS is your system!&lt;/p&gt;
+
+&lt;p&gt;I would use GURPS for a game inspired in say, the &lt;em&gt;Killjoys&lt;/em&gt; science fiction
+series, the &lt;em&gt;Crouching Tiger, Hidden Dragon&lt;/em&gt; movie, the &lt;em&gt;My Hero Academia&lt;/em&gt;
+comic, or the &lt;em&gt;Valkyria Chronicles&lt;/em&gt; video-game. I &lt;em&gt;have&lt;/em&gt; used GURPS for games
+inspired on &lt;a href=&quot;/octopus-carnival/projects/gurps-xcom-reports/&quot;&gt;X-COM&lt;/a&gt; and plain old Dungeon Fantasy, and wrote a fairly
+complete &lt;a href=&quot;/octopus-carnival/projects/dragons-dogma&quot;&gt;Dragon’s Dogma&lt;/a&gt; adaptation.&lt;/p&gt;
+
+&lt;p&gt;In a more general note, GURPS also thrives when your group has a little time to
+prepare for the game - choose which subset of the rules to use, create
+characters, that sort of thing. The more of that the GM does themselves the less
+experience with the system their players will need to have.&lt;/p&gt;
+
+&lt;h2 id=&quot;when-not-to-gurps&quot;&gt;When Not to GURPS&lt;/h2&gt;
+
+&lt;p&gt;Now, the &lt;em&gt;other&lt;/em&gt; 10% of times, I find GURPS wouldn’t be the best fit for the
+show/book/video-game in question. These works usually have the opposite traits
+from the ones I listed above: action details are &lt;em&gt;much&lt;/em&gt; less important than
+their effects, and their settings tend to lack one of “grounded” or
+“consistent”. Often they lack both! This doesn’t imply they’re &lt;em&gt;bad&lt;/em&gt; works, just
+that they have a different focus.&lt;/p&gt;
+
+&lt;p&gt;GURPS bases all of its numbers in real-world measurements. Powers have ranges in
+yards or meters, an attack’s damage is based on the force behind it, and so
+on. Therefore, stories where characters have fuzzily-defined skills and powers
+are hard to pin down. If your character’s specific capabilities are defined more
+by the needs of the story rather than by anything measurable in-world, it would
+be best to use a system that supports this.&lt;/p&gt;
+
+&lt;p&gt;The sort of science fiction that has characters switch bodies a lot is also hard
+to model in GURPS, whose rules assume its characters will usually not undergo
+this sort of drastic change so often.&lt;/p&gt;
+
+&lt;p&gt;And if you &lt;em&gt;don’t&lt;/em&gt; have much time to prepare for a game, the best system for it
+will inevitably be whatever your players are more familiar with! At least where
+I live, that’s unlikely to be GURPS.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-you&quot;&gt;What about you?&lt;/h2&gt;
+
+&lt;p&gt;What have you used GURPS successfully for? If that game fit into my “When Not to
+GURPS” description, what did you do to make it work well? Please leave a comment!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 21 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/21/to-gurps-or-not-to-gurps.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/21/to-gurps-or-not-to-gurps.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Hell's Rebels: Meet the NPCs of Part 1</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Welcome to another installment of “Let’s Read Hell’s Rebels!” You can find links
+to the whole series in its &lt;a href=&quot;/octopus-carnival/projects/hells-rebels/&quot;&gt;project page&lt;/a&gt;. This time we’ll take a more
+detailed look into the friendly NPCs the group has met by the end of
+Part 1. Let’s look at them in order of appearance and discuss how we should
+convert them to GURPS.&lt;/p&gt;
+
+&lt;h2 id=&quot;rexus-victocora&quot;&gt;Rexus Victocora&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/PZO9097-Rexus.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Rexus. Copyright 2016 Paizo.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The heir and sole survivor of what was possibly Kintargo’s nicest noble
+family. His parents belonged to the Sacred Order of Archivists ever since before
+he was born, and after a youth spent looking for a cause Rexus had finally
+decided to join them upon returning home from his studies abroad. Instead he
+found his home in flames with everyone who was inside dead, and regretfully fled
+into the night. He’s having some trouble adjusting to life as a destitute
+outcast, not just because he misses the luxury of a noble lifestyle but because
+his he has what sounds like a chronic respiratory disease that demands regular
+treatment with expensive alchemical drugs.&lt;/p&gt;
+
+&lt;p&gt;With the death of his parents, Rexus is more determined than ever to see
+Kintargo free, both from Thrune’s government and from Chelish rule in
+general. However, he will not compromise his principles to do it, and will leave
+a rebellion that turns too bloody or exclusionary.&lt;/p&gt;
+
+&lt;p&gt;An interesting bit: Rexus is transgender! This will probably never come up in
+play or be noticeable to the PCs (this &lt;em&gt;is&lt;/em&gt; a world with well-developed
+polymorph magic), but it’s nice to see it on the page nevertheless.&lt;/p&gt;
+
+&lt;h3 id=&quot;conversion-notes&quot;&gt;Conversion Notes&lt;/h3&gt;
+
+&lt;p&gt;Rexus’ original stats have him as a Neutral Good Human Aristocrat
+2/Sorcerer 1. Despite being higher-level than the PCs to start, he’s more of a
+support character whose main function is to translate some important documents
+the party finds in Part 1 of the adventure. His low Constitution score and
+mostly noncombat spell selection make him unsuitable for adventuring.&lt;/p&gt;
+
+&lt;p&gt;The best way to stat Rexus up in &lt;strong&gt;GURPS Dungeon Fantasy&lt;/strong&gt; would be to make him
+a Scholar (from &lt;strong&gt;DF 4&lt;/strong&gt;) with the necessary linguistic and research skills to
+fulfill his dramatic role, and perhaps a few Knowledge spells to round him
+out. His poor health might be represented by lower than average HT and/or
+disadvantages such as Very Unfit and Chronic Pain, perhaps with a Mitigator to
+represent those alchemical treatments. He would still provide valuable skills,
+but wouldn’t be someone you would want to take with you to the front lines.&lt;/p&gt;
+
+&lt;p&gt;After Rexus has fulfilled his function in Adventure 1, the GM is entirely free
+to run him as they see fit. His permanence in the rebellion depends entirely on
+how well the PCs treat him and how well their own morals match his. Our
+hypotethical party shouldn’t have a problem in this area, which means he would
+continue to lend them his vital scholarly skills. I mean, who else would you
+task with translating those encrypted Celestial writings? Merisiel?&lt;/p&gt;
+
+&lt;p&gt;PCs who get along specially well with Rexus could purchase him as an Ally, in
+which case the GM might want to stat him up so he’s a bit more survivable in the
+field. Buying him as a Contact would be sort of redundant, however, since as a
+member of the resistance he’s already always around and has a defined skillset.&lt;/p&gt;
+
+&lt;h2 id=&quot;laria-longroad&quot;&gt;Laria Longroad&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/353px-Laria_Longroad.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Laria. Copyright 2016 Paizo.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Laria is a halfling, and was born a slave in Cheliax. Her owners were unusually
+cruel even by Chelish slave-holder standards, and when one of them killed her
+parents and brother she beat the guy to death with her bare hands and escaped to
+join the Bellflower Network. A few years later she ended up as a coordinator for
+them in Kintargo while running a very well-regarded coffee-house as a front. She
+worked not just with Bellflower agents but with smugglers, criminals, and rebels
+of all sorts - anyone working to undermine Chelish rule in Kintargo.&lt;/p&gt;
+
+&lt;p&gt;Needless to say, Barzilai’s rise to power has left her without an much of a
+network to coordinate. She’s been keeping her head down but by the time the PCs
+meet her has grown conviced something must be done to improve the
+situation. Where Rexus is idealistic, Laria is cynical: she wants a free
+Kintargo as much as he does, but is less picky about which methods are
+acceptable to reach that outcome.&lt;/p&gt;
+
+&lt;p&gt;Laria provides the PCs with a temporary hideout in Adventure 1, and if they
+treat her well can continue to give them logistical support and access to a
+network of smugglers.&lt;/p&gt;
+
+&lt;h3 id=&quot;conversion-notes-1&quot;&gt;Conversion Notes&lt;/h3&gt;
+
+&lt;p&gt;Laria’s original stats have her as a Chaotic Good Halfling Brawler
+2/Rogue 1. Brawlers are kinda like monks, only they replace the philosophy and
+chi powers with the fighter’s large amount of bonus feats and with the ability
+to switch them around mid-fight.&lt;/p&gt;
+
+&lt;p&gt;Despite this, Laria’s main contribution to the cause are her social skills and
+her useful position in both polite society and the underworld. Therefore, it
+makes sense to stat her up in &lt;strong&gt;GURPS Dungeon Fantasy&lt;/strong&gt; using the Agent template
+from &lt;strong&gt;DF 15&lt;/strong&gt;, with plenty of Savoir-Faire, Current Affairs (Kintargo),
+Streetwise and Contacts. The lower-point template would prevent her from
+overshadowing Lem from our hypothetical party, and those points would go into
+areas where an active DF PC might be reluctant to invest in. For &lt;em&gt;actual&lt;/em&gt;
+parties who lack a bard or other specialist “social” character the GM can bump
+her up to a full 250 points of halfling crime boss.&lt;/p&gt;
+
+&lt;p&gt;As with Rexus, Laria could make an interesting Ally for a PC who gets along with
+her especially well, particularly if that PC’s party lacks strong social
+skills. As she is &lt;em&gt;not&lt;/em&gt; a formal member of the Silver Ravens and has her own
+operation going on, it could also make sense to acquire her as a Contact. Laria
+can also be the “face” of a larger Contact Group representing her own network of
+smugglers.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/18/hells-rebels-npcs.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/18/hells-rebels-npcs.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>GURPS X-COM: The Arsenal of Ruin, Part 2</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/xcom__extraction_by_antimingebag-d9abdgp.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    &lt;a href=http://antimingebag.deviantart.com/art/XCOM-Extraction-561522409&gt;
+      Illustration by AntiMingebag on DeviantArt
+    &lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In their second field-op, our brave &lt;a href=&quot;/octopus-carnival/projects/gurps-xcom-reports/&quot;&gt;X-COM squad&lt;/a&gt; saw new enemies with new
+equipment, so it’s time to update the Arsenal of Ruin! This post will focus on
+the gear carried by the Elite Puppets, also known as White Masks.&lt;/p&gt;
+
+&lt;h2 id=&quot;white-mask-gear&quot;&gt;White Mask Gear&lt;/h2&gt;
+
+&lt;p&gt;White Masks are elite Puppets of Ruin in service to the Ebon Masters. Like their
+“lesser” brethren, they are borne as fruit from the Trees of Ruin, but they only
+appear in the heart of the woods where the Trees of Woe are older. At the stage
+where our campaign stopped, there were still no trees old enough to drop elite
+puppets, so the ones the party met are all “imported” from off-world.&lt;/p&gt;
+
+&lt;p&gt;In the original Dreams of Ruin material, elite puppets carried TL 8 military
+equipment equivalent to that of a first-world military soldier: automatic
+assault rifles and more modern rocket launchers. For this campaign, they had to
+step up their game, as that sort of gear is starting equipment for my PCs.&lt;/p&gt;
+
+&lt;p&gt;Like the &lt;a href=&quot;/octopus-carnival/gurps/2017/03/30/x-com-arsenal-of-ruin.html&quot;&gt;equipment carried by normal puppets&lt;/a&gt;, all of this gear is produced
+by the trees themselves along with the puppet that wears it. The only “custom”
+addition by the Ebon Masters here is painting the masks on their armors white to
+denote rank within their organization. This equipment is meant to be more
+advanced than anything carried by modern Earth infantry, but it’s still
+considered somewhat cheap and low-end by the aliens.&lt;/p&gt;
+
+&lt;h3 id=&quot;puppet-assault-rifle&quot;&gt;Puppet Assault Rifle&lt;/h3&gt;
+
+&lt;p&gt;Compared to the standard-issue puppet rifle seen in &lt;a href=&quot;/octopus-carnival/gurps/2017/03/30/x-com-arsenal-of-ruin.html&quot;&gt;Part 1&lt;/a&gt;, this bullpup
+design fires a lighter 7mm round at a much higher rate of fire. It has an
+electrothermal-chemical (ETC) action and uses the High-Cyclic Controlled Bursts
+rule from &lt;strong&gt;High-Tech&lt;/strong&gt;, p. 83.&lt;/p&gt;
+
+&lt;p&gt;This weapon also has an integral underbarrel grenade launcher that fires 25mm
+rounds with greater force and accuracy than its TL 8 counterparts.&lt;/p&gt;
+
+&lt;p&gt;The Puppet Assault Rifle lacks any targetting electronics, as the puppet’s
+supernatural senses fill the same role. It is otherwise extremely reliable and
+easy to operate, being able to work for years in adverse conditions without
+regular maintenance. It is operated with Guns (Longarm), or with Guns (Rifle)
+and Guns (Grenade Launcher) under the standard rules.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Puppet Assault Rifle&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7d pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1100/4500&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3.5/0.5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9#&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50+1(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;em&gt;Grenade Launcher&lt;/em&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4d pi++ or as grenade&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;360/2200&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;–&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;–&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;–&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt; The weapon is usually loaded with standard ammunition (in table), but it’s
+perfectly capable of firing APDS (9d(2) pi-) or APEP (7d(3) pi-) rounds. Both
+are would ruin the day of those players who think their vests-with-plates make
+them immune to puppet weaponry. Even without armor-piercing ammo, they’re still
+smart enough to aim for the arms and legs if they notice center-of-mass shots
+don’t result in an immediate kill.&lt;/p&gt;
+
+&lt;p&gt;The grenade launcher is usually loaded with TL9 HE or thermobaric warheads
+(&lt;strong&gt;Ultra-Tech&lt;/strong&gt; p. 153 and 155), though the Ebon Masters can certainly issue
+crueler and/or higher-TL loads to their servants if the mission calls for it.&lt;/p&gt;
+
+&lt;h3 id=&quot;white-mask-armor&quot;&gt;White Mask Armor&lt;/h3&gt;
+
+&lt;p&gt;The White Mask Armor suit covers the torso and head in rigid plates of the same
+composite material used to make puppet swords. The neck and limbs are covered in
+a mesh of ultra-tech ballistic fibers equivalent to Reflex armor (from
+&lt;strong&gt;Ultra-Tech&lt;/strong&gt;). All of this material is colored a dull gray, except for the
+helmet plates, which are white.&lt;/p&gt;
+
+&lt;p&gt;The suit is sealed, chemically-coated and contamination-proof, but does &lt;em&gt;not&lt;/em&gt;
+feature ports for air tanks or even a visor, as its intended wearers have no
+need for such things. In fact, it can’t even be removed from the puppet wearing
+it without being cut open.&lt;/p&gt;
+
+&lt;p&gt;The White Mask Armor provides DR 30 to the torso, groin and head. It provides DR
+20 against cutting and piercing damage and DR 10 against all other damage types
+to the limbs and neck. While DR 30 is a little less than the DR 35 provided by a
+TL 8 assault vest with trauma plates, this DR is &lt;em&gt;not&lt;/em&gt; semi-ablative like that
+of the plates, and is more than enough to stop rounds from an X-COM issue
+assault rifle. The full suit is also about a bit lighter than the starting
+“heavy armor” package for PCs and provides more DR to all non-torso locations.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Location&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;White Mask Armor&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;torso, groin, head&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15kg&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;arms, legs, neck&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20/10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;using-white-mask-gear&quot;&gt;Using White Mask Gear&lt;/h2&gt;
+
+&lt;p&gt;Each Elite Puppet wears a White Mask Armor suit, and carries a Puppet Assault
+Rifle with 4 reloads for the rifle and 2 for the grenade launcher. They also
+each carry a sword and a couple of hand grenades, and may carry a Puppet RPG or
+extra rounds for one carried by a squadmate. These items are described
+in &lt;a href=&quot;/octopus-carnival/gurps/2017/03/30/x-com-arsenal-of-ruin.html&quot;&gt;Part 1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;These weapons also fall within the “second tier” of my tech tree. Researching
+these weapons would have allowed X-COM to make similar versions for themselves,
+which would have the advantage of not being tainted by spores. They never did
+get a “researchable” White Mask corpse, but if they had they could have obtained
+a version of their armor that’s actually fit for human use. Having access to at
+least this much would enable the PCs to better stand up to the sort of alien
+that would show up later on, as their successes mounted.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/15/arsenal-of-ruin-part-2.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/15/arsenal-of-ruin-part-2.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>x-com</category>
+        
+        <category>gear</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>GURPS X-COM: DARK JUDAS Analysis</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/xcom__extraction_by_antimingebag-d9abdgp.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    &lt;a href=http://antimingebag.deviantart.com/art/XCOM-Extraction-561522409&gt;
+      Illustration by AntiMingebag on DeviantArt
+    &lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As promised in the &lt;a href=&quot;/octopus-carnival/2017/05/04/dark-judas.html&quot;&gt;last post&lt;/a&gt;, this one will contain the spoilers and fight
+analysis for Operation DARK JUDAS. For the rest of the Actual Play, take a look
+at its &lt;a href=&quot;/octopus-carnival/projects/gurps-xcom-reports/&quot;&gt;project page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The first encounter on &lt;a href=&quot;/octopus-carnival/2017/04/19/dark-judas.html&quot;&gt;Part 1&lt;/a&gt; didn’t show any new enemies, but did
+introduce players to the fact that the trees drop puppets when threatened. This
+time they were quite a bit better at staying out of melee range, and the puppets
+were undone by their own overconfidence despite being able to do some damage.&lt;/p&gt;
+
+&lt;p&gt;There’s no shocking revelations in the “Puppet Theater” fight in &lt;a href=&quot;/octopus-carnival/2017/04/29/dark-judas.html&quot;&gt;Part 2&lt;/a&gt;
+either, aside from the fact that puppet theater is a thing. As I said in that
+part, I messed up by not having additional battle-ready puppets show up when the
+PCs grenaded the tree.&lt;/p&gt;
+
+&lt;p&gt;Things get a lot more interesting when we get into the firefight
+on &lt;a href=&quot;/octopus-carnival/2017/05/04/dark-judas.html&quot;&gt;Part 3&lt;/a&gt;. There was a lot of new stuff packed into it! The players didn’t
+manage to figure out much before they left, but I’m laying it all out here.&lt;/p&gt;
+
+&lt;p&gt;The downed alien craft was a small &lt;a href=&quot;https://en.wikipedia.org/wiki/Vimana&quot;&gt;vimana&lt;/a&gt;, which is why it looked like a
+house. It was originally piloted by the alien the PCs rescued, who had defected
+from the Ebon Masters (the alien faction using the forest as a weapon). Despite
+their exotic looks, these magic-powered vimanas have more or less the same
+capabilities as the UFOs in the original games.&lt;/p&gt;
+
+&lt;p&gt;The two factions having a firefight over the vimana and its pilot had found the
+crash site just like X-COM did and were converging on it with the goal of taking
+everything they could. The people occupying the vimana itself were indeed
+humans, something the PCs would have noticed if they had managed to approach
+them a bit more. That doesn’t mean they were friendly! This was the first
+on-screen appearance of X-ALT. They likely wouldn’t have fired at the PCs right
+away, but would take their help and backstab them later.&lt;/p&gt;
+
+&lt;p&gt;The group firing at them from the ruined building were Elite Puppets in direct
+service to the Ebon Masters. This explains the white masks. Elite Puppets in the
+original rules have somewhere between 5 and 7 hit dice as opposed to the 3 of
+the rank-and-file, and these were similarly improved over their GURPS
+counterparts, making them better in a fight than all but the most badass human
+action heroes. On top of that, they had some pretty beefy TL 9 gear, including
+armor that made them basically immune to assault rifle fire from the PCs.&lt;/p&gt;
+
+&lt;p&gt;The PC’s biggest mistake here was sticking too close to that black tree by the
+container, since its emissions allowed the puppets to spot them. Puppets can
+&lt;em&gt;see through cover&lt;/em&gt;, particularly when they have the trees spotting for them, so
+once they noticed the players they only took distance penalties to
+attack. Retreating was a wise decision!&lt;/p&gt;
+
+&lt;p&gt;It would have been nice to play out the extended fight/chase scene as the PCs
+retreated through the woods back to where they had stashed the puppet RPG, but I
+didn’t think there would be a fun way to do it over a forum, so I abstracted it
+out with a contest of Tactics and simply narrated the outcome. The PCs won by a
+small margin, so they managed to get the puppets in place for Choi’s shot (which
+I did roll as an attack). That was the only real way to harm the enemies they
+had left, as they had already spent all their frag grenades on earlier
+encounters and those wouldn’t guarantee a kill either.&lt;/p&gt;
+
+&lt;p&gt;All in all, the PCs did about as well here as could be expected. I really wish
+we could have played out the White Mask encounter in more detail, but such is
+the way of play-by-forum games.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/12/dark-judas-analysis.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/12/dark-judas-analysis.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>x-com</category>
+        
+        <category>actual-play</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Hell's Rebels: In Hell's Bright Shadow, Part 1</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In my &lt;a href=&quot;/octopus-carnival/2017/05/01/hells-rebels-player-guide.html&quot;&gt;last post&lt;/a&gt;, I went over the Player’s Guide and provided some GURPS
+conversion notes. Today we’ll look at the actual scenes of the first adventure
+in the Path, &lt;strong&gt;In Hell’s Bright Shadow&lt;/strong&gt;. Seriously, what does that name even
+mean?&lt;/p&gt;
+
+&lt;h2 id=&quot;part-1-fledglings-of-silver&quot;&gt;Part 1: Fledglings of Silver&lt;/h2&gt;
+
+&lt;p&gt;The goal of this part is to get the PCs on track to restoring the Silver
+Ravens. It begins with a protest!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-aria-park-protest&quot;&gt;The Aria Park Protest&lt;/h3&gt;
+
+&lt;p&gt;As the story begins, the PCs find themselves in Aria Park, so named because it’s
+right next to the Kintargo Opera House. Paracount Thrune is catching a show
+inside the Opera House while a huge crowd protests outside, watched by his
+guards. Thrune has been in power for a couple of weeks, and in that time he’s
+issued seven odd proclamations that generally make city life inconvenient.&lt;/p&gt;
+
+&lt;p&gt;The player’s guide to Hell’s Rebels describes many possible reasons for why the
+PCs would be here. Two of the most interesting ones are looking for a famous
+performer who recently disappeared and looking for a contact who has information
+about the Silver Ravens secret society, which was rumored to defend Kintargo
+from outside threats in the past. They could also simply be here to participate
+in the protest, people-watch, or simply tag along a friend with a stronger
+reason to be there.&lt;/p&gt;
+
+&lt;p&gt;Of our four Iconic PCs, I imagine &lt;a href=&quot;/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html&quot;&gt;Lem&lt;/a&gt; would be the one most interested in
+getting in contact with a resistance movement and looking for info on the
+legendary Silver Ravens. &lt;a href=&quot;/octopus-carnival/gurps/2016/10/15/pathfinder-df-cleric.html&quot;&gt;Kyra&lt;/a&gt; might be concerned about the fate of Shensen,
+a half-elf singer who was very outspoken both about her faith in Sarenrae and
+against the evil of House Thrune. She is currently missing. &lt;a href=&quot;/octopus-carnival/gurps/2016/12/30/pathfinder-df-rogue.html&quot;&gt;Merisiel&lt;/a&gt; would
+definitely be here to riot and pickpocket people, and aimless &lt;a href=&quot;/octopus-carnival/gurps/2016/11/27/pathfinder-df-knight.html&quot;&gt;Valeros&lt;/a&gt; would
+just tag along, likely to keep Merisiel out of trouble. The rules in the
+Player’s Guide actually give out skill bonuses for each different motive and
+further bonuses depending on different background traits chosen by the PCs. In
+GURPS, I feel none of that is necessary, since the system already has a good
+skill system. The GM should instead guide the players to buy some social and
+subterfuge-related skills with their points, as they would be important
+throughout the campaign.&lt;/p&gt;
+
+&lt;p&gt;This is a big, chaotic gathering: you have quite a few people protesting
+&lt;em&gt;against&lt;/em&gt; Thrune for several different reasons, some loyalists protesting &lt;em&gt;for&lt;/em&gt;
+him, and a handful of yahoos who just want the riot to start already. There’s
+several actions the PCs can take here, which include looking for that mysterious
+contact, suppressing one or more factions, organizing the protest, or simply
+picking people’s pockets. Suppressing the loyalists or yahoos will bring
+benefits later on. The PCs also get XP for performing successful actions - this
+seems to be a common thing here, as the adventure path is very particular about
+getting them to the appropriate levels for each scene.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-eighth-proclamation&quot;&gt;The Eighth Proclamation&lt;/h3&gt;
+
+&lt;p&gt;After a few hours of this, The Barzilai makes an appearance, and makes his
+eighth proclamation. The previous seven were things like banning mint and
+embroidered clothing, or bounties for live dogs. This one forbids all ship
+captains from leaving their ships and setting foot on Kintargo under pain of
+torture. The stated reason for it is that Barzilai has the best brain and
+noticed his subjects have been angry about out-of-towners nosing in on their
+business. So he’s going to solve the problem, bigly, with a ban.&lt;/p&gt;
+
+&lt;p&gt;This absurd proclamation starts a riot, which is what Thrune actually
+wants. Why? He simply feels like watching his guards and loyalists beat up some
+protesters.&lt;/p&gt;
+
+&lt;p&gt;As soon as the riot starts, someone throws a handful of manure at Barzilai, and
+while that missile misses its mark it causes him to spill some wine on his fancy
+robes. This sends him into a rage, and he orders his main bodyguard Nox and the
+dottari under her command to move in and start killing people. At the same time,
+the off-brand Brown Shirts of the Chelish Citizen’s Group that were infiltrated
+in the crowd draw their clubs and begin attacking the protesters as well.&lt;/p&gt;
+
+&lt;p&gt;The players must fight a gang of four CCG thugs to start with, and they get to
+witness Nox’s powers of regeneration as she shrugs off a dagger to the throat in
+a “cutscene”. I guess the idea here is that the party should get away as soon as
+possible. The thugs are basically shclubs with clubs who shouldn’t pose too much
+of a problem, but sticking around for too long attracts a pair of the stronger
+and better-armed dottari. Finally Nox comes in with a pet hellhound and a squad
+of 12 dottari guards. That last bit would be a clear sign that the four
+1st-level characters must run away - the crowd certainly does! If they still
+stick around, the hellhound focuses on them.&lt;/p&gt;
+
+&lt;h4 id=&quot;gurps-conversion-notes&quot;&gt;GURPS Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;There’s two ways to go about this here. GMs who want to be true to the fiction
+could give the Chelish Citizen’s Group thugs average stats, clubs, and a couple
+of points in Shortsword, while using the 62-point Guard template from &lt;strong&gt;GURPS
+Dungeon Fantasy 15&lt;/strong&gt; with decent gear for the dottari.&lt;/p&gt;
+
+&lt;p&gt;Those who want to make things more challenging for their delvers should go with
+the Guard template for the thugs, perhaps upgrading them to light armor and
+small maces. The guards would be built using the 125-point Squire or Brute
+templates. This is also closer to what the Pathfinder version does with the
+stats for these people.&lt;/p&gt;
+
+&lt;p&gt;Nox should be built &lt;em&gt;at least&lt;/em&gt; on a 250-point Knight template with special
+powers added on, and the Hell Hound can be built using the guidelines
+on &lt;a href=&quot;/octopus-carnival/gurps/2016/12/17/wolves.html&quot;&gt;this post&lt;/a&gt; from the Dragon’s Dogma bestiary.&lt;/p&gt;
+
+&lt;p&gt;In either case, a party of four 250-point delvers would have far less trouble
+dealing with the riff-raff than the 1st-level Pathfinder PCs. If they’re smart
+and lucky they could even beat the final pack of 12 guards plus Nox and her
+hellhound right here! Kyra does know Resist Fire…&lt;/p&gt;
+
+&lt;p&gt;The GM might want to increase the number of dottari to a realistic level, since
+12-14 of them wouldn’t be able to contain a riot of thousands anyway. Or they
+could keep the numbers as they are and deal with the changes an complete victory
+here would bring to the story.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-new-friend-in-need&quot;&gt;A New Friend In Need&lt;/h3&gt;
+
+&lt;p&gt;In any case, after the party leaves the site of the riot, they hear sounds of
+fighting from a nearby alley. There, five CCG thugs are in the process of
+beating a man to death. Since this man happens to be the contact one of the PCs
+is looking for, it’s in their interest to crush the thugs and save the
+man. Unlike the thugs in the riot, these ones fight to the death, but they
+should still be manageable. There’s an extra XP reward for succeeding in helping
+Rexus, too.&lt;/p&gt;
+
+&lt;p&gt;Their victim is Rexus Victocora, the young scion of the nicest noble family in
+Kintargo, who of course was disappeared and had their house burned down in the
+Night of Ashes. He survived because he was out of the house at the time. Rexus
+has either taken an interest in the PCs during the protest or was the one who
+called them here in the first place with promises of information on the Silver
+Ravens. After going somewhere private, he tells them the story above, and how he
+plans to fight back against Thrune’s takeover but needs help.&lt;/p&gt;
+
+&lt;p&gt;Our hypotethical party would readily accept the request, and yours should too. I
+mean, they’ve been telling you to make that sort of character since the Player’s
+Guide.&lt;/p&gt;
+
+&lt;p&gt;Anyway, once the PCs are on board, Rexus reveals his parents left him a letter
+in which they confessed to be members of the Sacred Order of Archivists, a
+secret society dedicating to uncovering and preserving the &lt;em&gt;true&lt;/em&gt; history of
+Kintargo, as opposed to the heavily redacted official version. The letter also
+tells of how they feel the Silver Ravens must fly again if the city is to stand
+any chance against this new oppression, and says that the Fair Fortune Livery is
+rumored to be one of their ancient safehouses. Rexus needs help investigating
+the place because he’s not exactly adventurer material. By way of compensation,
+he offers most of the rest of the stuff his parents left him, which include some
+money and valuables, a silver dagger, and a set of &lt;em&gt;bracers of armor +1&lt;/em&gt;. He
+keeps the letter and a mythril key, which will be important later.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-fair-fortune-livery&quot;&gt;The Fair Fortune Livery&lt;/h3&gt;
+
+&lt;p&gt;Thus begins the first official “dungeon delve” of this adventure! This place
+used to be a slaughterhouse-turned-stable and conceal a minor Silver Raven
+safehouse, but has been abandoned for quite a while. Rexus wants to come along
+and help investigate despite not being a combatant, but will accept it if the
+PCs tell him to sit this one out instead. Bringing him along turns this into
+something of an escort quest, and is worth a little bit of extra XP at the end.&lt;/p&gt;
+
+&lt;p&gt;The delve begins in the livery’s the ground level. It’s mostly empty and in
+ruins. Some locked doors and a small pack of feral dogs are the main obstacles
+here. Once the dogs are dealth with the grimples (small, annoying, evil fey
+beings) from the basement come up and begin to play poltergeist. In any case, it
+shouldn’t be hard for the PCs to find the trapdoor going down.&lt;/p&gt;
+
+&lt;p&gt;Next comes the basement, which was mostly used when the livery was a
+slaughterhouse. What 1st-level adventure is complete without a basement full of
+rats? Also here is the grimple nest, where the PCs finally have a chance to get
+rid of the pests and pillage their treasure (which includes a &lt;em&gt;cloak of
+resistance +1&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The hideout proper is situated in some old city ruins accessible from the
+basement. The main problem with them is that the ancient Silver Ravens
+unwittingly brought a devil’s contract here when they plundered a cache of
+government documents, and the imp bound to it has been trying to find a way to
+leave the place for 80 years. One of those attempts summoned two lemure devils
+who now spend their time mindlessly wallowing in a polluted cistern. It’s a good
+thing the PCs have that silver dagger with them, because lemures are resistant
+to everything else. They are otherwise not terribly dangerous, but serve as a
+warning that things down here are Not Right.&lt;/p&gt;
+
+&lt;p&gt;There’s three boxes in here full of loot: the first has some interesting armor
+and weapons including a silver morningstar, which means this delve is an example
+of that annoying trope where the weapon to kill a monster is in a box behind the
+monster. The second box is locked and contains a bunch of spell scrolls and the
+hundreds of pages of documents that are the actual goal of the quest. And the
+third has six &lt;em&gt;figurines of wondrous power&lt;/em&gt; in the shape of silver
+ravens. They’re useful for secure communication and are in fact the origin of
+the group’s name. The party could also sell them off for a fat load of cash,
+something the adventure begs the GM to prevent.&lt;/p&gt;
+
+&lt;p&gt;The afore-mentioned imp, named Blosodriette, is also here - her contract is
+somewhere inside the second box. She limits herself to watching invisibly and
+hoping someone takes the box away so she can go along. It’s possible a canny
+party might spot and confront her here - if they don’t she’ll cause trouble
+later on.&lt;/p&gt;
+
+&lt;h4 id=&quot;gurps-conversion-notes-1&quot;&gt;GURPS Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;Rats and dogs already have stats for GURPS! Grimples are SM -3 or -4 fairies
+with minor telekinetic abilities and the ability to cast the Grease spell, which
+should make a fight against them look more like a bad comedy movie than actual
+combat. Lemures aren’t exactly fearsome combatants, but they should have plenty
+of DR against non-silver weapons. Even so, this will be a walk in the park for
+250-point delvers.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-long-roads-coffee-house&quot;&gt;The Long Roads Coffee House&lt;/h3&gt;
+
+&lt;p&gt;After the party retrieves the documents, Rexus takes then to the Long Roads
+Coffee House to meet Laria Longroad, the proprietor. This halfling is a member
+of the Bellflower Network, which is Kintargo’s equivalent of the Underground
+Railroad.&lt;/p&gt;
+
+&lt;p&gt;Laria is quite happy to support the PCs in their rebellious efforts, not the
+least because her extensive network of contacts and informants is mostly gone
+now (Thrune hates abolitionists). In fact while she would be glad to let them
+crash in the secret hideout underneath the coffee house, she doesn’t even have
+control of &lt;em&gt;that&lt;/em&gt;. A smuggler buddy of hers went in there to stash a cargo of
+contraband silks and never came out. It’s been days. If the PCs want a temporary
+home base, they’ll need to do some cleaning.&lt;/p&gt;
+
+&lt;p&gt;The hideout occupies the coffee house’s basement and those of the two abandoned
+houses to either side of it. It has bunk rooms, a large storeroom, and a dock
+leading into an underground river. There’s an albino alligator chilling in the
+river, but it’s not the main source of trouble here.&lt;/p&gt;
+
+&lt;p&gt;You see, Mr. Smuggler Buddy didn’t just bring a shipment of cloth here, he also
+brought a group of tengu sisters on the run from the law back in Varisia. The
+plan was to hand them off to another smuggler who would take them the rest of
+the way to their destination, but the Night of Ashes put an end to that. When
+the guy told the sisters they were on their own, they beat him unconscious, and
+then one of them got a little too enthusiastic and killed him. Now they’re holed
+up down here, in the dark, despairing about what to do.&lt;/p&gt;
+
+&lt;p&gt;Pathfinder tengu are basically raven-people. The sisters aren’t automatically
+hostile, but getting in their good graces will take some doing. There’s four of
+them, plus Chough, the “enthusiastic” sister, who is actually an adopted dire
+corby and basically responsible for all the trouble the rest have gone
+through. Dire corbies look kinda like tengu, but are a lot stronger and less
+psychologically stable. The lead sister, Korva, has recently decided Chough
+needs to be put down. It’s actually quite possible the party will run into a
+murderous Chough before they meet Korva, so that’s one thing taken care of, I
+guess.&lt;/p&gt;
+
+&lt;p&gt;Particularly diplomatic parties can convince the sisters to stick around and
+join the Silver Ravens, becoming a “special unit” under the rebellion management
+rules in the Player’s Guide. If they can’t manage that, they can still let them
+leave without a fight as long as they don’t try to pin Mr. Smuggler’s death on
+them. PCs get XP for dealing with them whether there’s combat or not, and a
+little bonus for telling Laria about her buddy’s fate.&lt;/p&gt;
+
+&lt;p&gt;Once the sisters are dealt with one way or the other, the party gains the use of
+this hideout as a temporary base while they set out to rebuild the Silver
+Ravens. We’ll take a look at how that goes in the next installment.&lt;/p&gt;
+
+&lt;h4 id=&quot;gurps-conversion-notes-2&quot;&gt;GURPS Conversion Notes&lt;/h4&gt;
+
+&lt;p&gt;Korva should be a 250-point stabby Thief not too different
+from &lt;a href=&quot;/octopus-carnival/gurps/2016/12/30/pathfinder-df-rogue.html&quot;&gt;Merisiel&lt;/a&gt;. Her sisters are 125-point Cutpurses, with Chough probably
+being a monstrous Barbarian who fights with Talons and a Sharp Beak and has
+serious Berserk and Bloodlust issues. Give her some natural DR, extra HP and
+perhaps one or two levels of Extra Attack if you want her to stand up to the
+whole party by herself.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/10/hells-rebels-adventure-1.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/10/hells-rebels-adventure-1.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dragon's Dogma Bestiary: Gryphons and Cockatrices</title>
+        <description>&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/DDENEMIES.jpg&quot;/&gt;
+  &lt;figcaption&gt;Copyright 2012 Capcom.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is an entry in the Dragon’s Dogma bestiary. The remaining entries along
+with the full adaptation can be found &lt;a href=&quot;/octopus-carnival/projects/dragons-dogma/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Gryphons are considered a symbol of strength and victory in Gransys, much like
+in the real world. These creatures used to be considered mythical, but the
+coming of the Dragon has proved otherwise. One such beast has taken roost in the
+ancient ruins of Bluemoon Tower, and ranges as far as Gran Soren in its search
+for prey, devastating herds of cattle and attacking unwary caravans. There might
+be others.&lt;/p&gt;
+
+&lt;p&gt;The Basic Set actually has stats for a gryphon in page B461, but those would
+only suit a smaller than average individual in this setting. The gryphon of
+Bluemoon Tower is much larger, and able to carry a grown person away with
+ease. It’s also clever enough to fly away if it thinks itself overmatched, so
+hunting it has proven particularly difficult. Ending its threat would mean
+undertaking an expedition to Bluemoon Tower and facing the many dangers therein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 25; &lt;strong&gt;DX&lt;/strong&gt; 14; &lt;strong&gt;IQ&lt;/strong&gt; 5; &lt;strong&gt;HT&lt;/strong&gt; 13&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 11; &lt;strong&gt;DR&lt;/strong&gt; 3 (Tough Skin); &lt;strong&gt;SM&lt;/strong&gt; +3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Will&lt;/strong&gt; 14; &lt;strong&gt;Per&lt;/strong&gt; 14; &lt;strong&gt;HP&lt;/strong&gt; 24; &lt;strong&gt;FP&lt;/strong&gt; 20&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 7.5; &lt;strong&gt;Move&lt;/strong&gt; 7 (ground); 14 (air).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Beak (15)&lt;/strong&gt;: 2d+2 pi+. Reach C, 1. Parried as a weapon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Talons x2 (15)&lt;/strong&gt;: 2d+1 cutting. Reach C-2. May grapple at skill-15. Parried
+as a weapon.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flyby Attack (-)&lt;/strong&gt;: The Gryphon can perform a Move and Attack maneuver to
+swoop down, strike with its talons, and fly back up, covering a distance equal
+to its Air Move in total. The attacks are made at no penalty. The talon attack
+can be a &lt;em&gt;grapple&lt;/em&gt; instead, which if successful means the gryphon carries the
+victim with it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;: Acute Vision 5; Combat Reflexes; Extra Attack 2 (claw/claw/beak);
+Flight (Winged); Penetrating Voice; Quadruped; Restricted Diet (Fresh Meat);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;: Brawling-15; Stealth-15; Wrestling-15;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Hybrid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Notes&lt;/strong&gt;: Can retreat &lt;em&gt;up&lt;/em&gt; in combat for a +4 to Dodge.&lt;/p&gt;
+
+&lt;h2 id=&quot;gryphon-variants&quot;&gt;Gryphon Variants&lt;/h2&gt;
+
+&lt;h3 id=&quot;cockatrice&quot;&gt;Cockatrice&lt;/h3&gt;
+
+&lt;p&gt;Unlike the small variant presented in &lt;strong&gt;GURPS Dungeon Fantasy Monsters 3&lt;/strong&gt;, the
+Gransys cockatrice is a huge creature that looks like a gryphon from far
+away. Upon closer inspection, one can see its avian half resembles more a turkey
+or buzzard than an eagle, with black feathers and fur.&lt;/p&gt;
+
+&lt;p&gt;In addition to possessing the same natural weapons as a gryphon, the cockatrice
+can spew a cloud of noxious gas that turns any who breathe it to stone! And
+unlike the gryphon, it will never run from a fight.&lt;/p&gt;
+
+&lt;p&gt;Use the same stats as for a gryphon, but add the following attack:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Petrifying Breath (16 vs. HT)&lt;/strong&gt;: Covers an area 5m in diameter in front of
+the cockatrice. Any who fail the listed resistance roll are turned to stone as
+per the Flesh to Stone spell. Can be used once every 10 seconds.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 08 May 2017 00:00:00 -0300</pubDate>
+        <link>https://Bira.github.io/octopus-carnival/2017/05/08/gryphon-and-cockatrice.html</link>
+        <guid isPermaLink="true">https://Bira.github.io/octopus-carnival/2017/05/08/gryphon-and-cockatrice.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dragons-dogma</category>
+        
+        <category>monster</category>
+        
+        <category>bestiary</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
