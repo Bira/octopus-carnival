@@ -207,4 +207,5 @@ opposition to Barzilai's government.
 [^1]: The Buddha-like god of knowledge and self-improvement in Golarion.
 [^2]: I tried inserting a joke about fake news here, but couldn't come up with a
     sufficiently funny one.
+
 [^3]: How did that get in there?
