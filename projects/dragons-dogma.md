@@ -77,8 +77,8 @@ fit into Gransys and providing entirely new stat blocks.
 - [Cyclopes][28]
 - [Chimerae][29]
 - [Ogres][30]
-- [Gryphons and Cockatrices][31]
-- [Golems][32]
+- [Gryphons and Cockatrices][33]
+- [Golems][34]
 
 [0]: http://www.warehouse23.com/products/gurps-adaptations
 [1]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
@@ -115,5 +115,5 @@ fit into Gransys and providing entirely new stat blocks.
 [30]: {{ "/gurps/2017/04/05/ogres.html" | absolute_url }}
 [31]: {{ "/2017/04/16/ferrystones-and-portcrystals.html" | absolute_url }}
 [32]: {{ "/2017/04/27/crafting-imbuements-in-gransys.html" | relative_url }}
-[31]: {{ "/2017/05/08/gryphon-and-cockatrice.html" | relative_url }}
-[32]: {{ "/2017/05/23/golems.html" | relative_url }}
+[33]: {{ "/2017/05/08/gryphon-and-cockatrice.html" | relative_url }}
+[34]: {{ "/2017/05/23/golems.html" | relative_url }}
