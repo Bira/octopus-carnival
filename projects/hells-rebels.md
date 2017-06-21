@@ -27,9 +27,12 @@ This is an ongoing project. These are the posts that comprise it:
     met so far.
   - [Part 2: Rebuilding the Ravens][5]: In which the PCs do what it says on the
     title.
+  - [Part 3: Redactions and Revelations][6]: In which the PCs discover the fate
+    of the Sacred Order of Archivists.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
 [4]: {{ "/2017/05/18/hells-rebels-npcs.html" | relative_url }}
 [5]: {{ "/2017/05/27/hells-rebels-adventure-1-part-2.html" | relative_url }}
+[6]: {{ "/2017/06/21/hells-rebels-adventure-1-part-3.html" | relative_url }}
