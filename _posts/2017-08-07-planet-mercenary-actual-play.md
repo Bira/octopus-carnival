@@ -114,9 +114,9 @@ with fireteams made up of 4 grunts. I'm leaving that as it is for now.
   neophant named Babar who acts as the voice of wisdom in the unit. Fairly
   sneaky and skilled with nearly every weapon in the book.
 
-All of them are very fighting in addition to being skilled at what their command
-package implies. None of them have much in the way of social or mental skills,
-with the exception of Leto who has Deception 8.
+All of them are very good at fighting in addition to being skilled at what their
+command package implies. None of them have much in the way of social or mental
+skills, with the exception of Leto who has Deception 8.
 
 ## Coming Up Next: The Damaxuri Deception
 
