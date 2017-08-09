@@ -103,8 +103,8 @@ with fireteams made up of 4 grunts. I'm leaving that as it is for now.
   liar. He also has a BH-209 plasgun, though his armor is a standard Blue Collar
   suit. His fireteam is made up of four identical pink-haired human women from
   the same clone family, all Medics, all named Joy. Yes, it's a Pokemon
-  reference, but my mind immediately went to the Honokas of Sidonia[^2] (which are
-  also clones, but fightier).
+  reference, but my mind immediately went to the Honokas of Sidonia[^2] (which
+  are also clones, but fightier).
 
 - **Rufuz Leet**, Purp/Ops Commander/Military Officer. Hails from a proud
   lineage of decorated soldiers, wields a G/G 511 carbine and wears an EX
