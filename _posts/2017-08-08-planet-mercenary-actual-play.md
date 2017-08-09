@@ -266,3 +266,5 @@ getting caught by various security cameras. Which he posed for.
 [^6]: I would have to toss a _lot_ of coins for the fireteam NPCs, too.
 
 [^7]: Friends, I think we have a natural.
+
+[1]: {{ "/2017/08/07/planet-mercenary-actual-play.html" | relative_url }}
