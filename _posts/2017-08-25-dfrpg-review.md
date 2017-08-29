@@ -87,7 +87,7 @@ rules from GURPS is extremely easy, if the GM thinks it's necessary.
 
 So yes, if I was planning on running a D&D-ish campaign and wasn't after the
 very specific feel of D&D 4 combat, I would use **Dungeon Fantasy** in
-preference to any other actual edition of D&D[^3]. In fact, I have been doing
+preference to any other actual edition of D&D. In fact, I have been doing
 just that for years using the previous iteration of these rules, and will gladly
 switch to the new one now that I have it in my hands.
 
