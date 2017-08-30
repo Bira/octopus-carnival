@@ -174,7 +174,8 @@ p. 20).
 In a setting where any magician can learn any spell, they can also learn any of
 these abilities. In settings that use the Complex option, a character can learn
 the abilities for their own "style" and for any other for which they bought
-Magical Style Familiarity. Everyone who would have access to Contingency Casting
+Magical Style Familiarity, with the level of that advantage serving as the
+talent for the power. Everyone who would have access to Contingency Casting
 still has access to Wild Magic instead without having to pay extra for it.
 
 Mana-based Holy Might abilities _don't_ go away if their wielder stops behaving
@@ -200,6 +201,7 @@ Which options do you prefer?
 
 [^1]: Or White Magery for clerics, Green Magery for druids and Black Magery for
     wizards if you feel like cribbing from Final Fantasy.
+
 [^2]: Under the hood: This is essentially buying the other style's Magery as an
     alternate advantage.
 
