@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Synet's Avengers: The Damaxuri Deception, Part 2"
+title: "Skynet's Avengers: The Damaxuri Deception, Part 2"
 tags:
   - actual-play
   - planet-mercenary
