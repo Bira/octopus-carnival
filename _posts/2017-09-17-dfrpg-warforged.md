@@ -61,7 +61,7 @@ good side, Healing magic works fine on Warforged.
 Even a newly-created Warforged will have the skills of a veteran fighter and an
 adult-level intellect, but that individual will also lack most of the social
 graces you would expect from someone with an adult-level intellect. Even after
-they overcome this inidial awkwardness, people still tend to look at then a bit
+they overcome this initial awkwardness, people still tend to look at then a bit
 oddly given their exotic appearance and origin.
 
 **Attribute Modifiers**: ST+1 {10}; HT+1 {10}.
