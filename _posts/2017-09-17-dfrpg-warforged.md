@@ -20,7 +20,7 @@ template to be a Warforged if they so wish.
 ## Warforged
 
 {::nomarkdown}
-<figure style="float: left;">
+<figure class="left">
   <img src="{{ "/assets/warforged_knight_by_will_e_h-d6ewj3b.png" | relative_url }}"/>
   <figcaption><a
   href="https://will-e-h.deviantart.com/art/Warforged-Knight-387829415">Illustration
@@ -115,7 +115,7 @@ count toward your disadvantage limit.
 ### Warforged Characters
 
 {::nomarkdown}
-<figure style="float: right; padding-left: 0.5em;">
+<figure class="right">
   <img src="{{ "/assets/female_warforged_by_edymnion.jpg" | relative_url }}"/>
   <figcaption><a
   href="https://edymnion.deviantart.com/art/Female-Warforged-12780713">A female warforged</a></figcaption>
