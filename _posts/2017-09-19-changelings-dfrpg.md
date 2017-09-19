@@ -6,7 +6,7 @@ tags:
   - dungeon-fantasy
 ---
 
-The Doppelganger are a particularly unnerving D&D monster, not because of its
+The Doppelganger is a particularly unnerving D&D monster, not because of its
 direct combat power but because of its ability to look like _anyone_. Adventures
 involving them tend to be the urban, intrigue-filled kind where you never know
 who's on your side and who's been secretly replaced by a monster.
