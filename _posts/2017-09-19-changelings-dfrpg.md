@@ -88,7 +88,7 @@ your true nature. The GM rolls 3d every time you go to town or start a session
 there. On a 6 or less, your cover is blown and you suffer the effects of Social
 Stigma (Savage) - including another immediate 3d roll to see if you're kicked
 out of town! This lasts until you can re-establish your cover. How you can do
-that is up to the GM. It could range from a few skill rolsl to a full adventure!
+that is up to the GM. It could range from a few skill rolls to a full adventure!
 
 ### Optional Traits
 
