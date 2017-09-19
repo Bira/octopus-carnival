@@ -94,7 +94,7 @@ that is up to the GM. It could range from a few skill rolls to a full adventure!
 
 Changelings can always buy the Disguise and Acting skills even if those aren't
 part of their professional template. Even honest changelings often need these
-skills to escape prejudice.
+skills to escape persecution.
 
 ### Changeling Characters
 
