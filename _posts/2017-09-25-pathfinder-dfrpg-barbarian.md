@@ -113,7 +113,7 @@ $1793, 38.85kg. No Encumbrance.
 
 ## Design Notes
 
-Amiri spent 2 points from starting cash to buy the big sword.
+Amiri spent 2 points on extra starting cash to buy the big sword.
 
 ### Changes from the First Iteration
 
