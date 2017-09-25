@@ -8,6 +8,9 @@ tags:
   - character
 ---
 
+**Update**: This is the GURPS Dungeon Fantasy version of the character. If you
+want to see a version for the Dungeon Fantasy RPG, click [here][1].
+
 As I write this, I noticed that we've had a handful of GURPS posts already and
 none of then has included any GURPS stats yet! I'll try to remedy that
 here. Since it might be a while until I have concrete rules to show for the
@@ -160,3 +163,4 @@ skilled in surviving the wilderness.
 
 [df-kickstarter]:https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps
 [amiri-bio]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/amiri.html
+[1]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}

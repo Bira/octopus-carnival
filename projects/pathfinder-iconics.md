@@ -13,38 +13,50 @@ will be contained there. I know that many others have done a marvelous job
 adapting Pathfinder monsters to DF, so I thought I would do the same with its
 large stable of iconic characters.
 
-The goal of this project, then, is to end up with a set of adapted Pathfinder
-Iconics covering all of the templates from **GURPS Dungeon Fantasy 1:
-Adventurers**. I use material from **GURPS Dungeon Fantasy 3: The Next Level**
+This goal was achieved in January of 2017! However, when the **Dungeon Fantasy
+RPG** actually went out to backers in August of that same year, I noticed it was
+different enough from the **GURPS Dungeon Fantasy** line that preceded it that
+the iconics I made wouldn't quite work in a campaign that used only the boxed
+set. Therefore, I set out to make a _second_ set of iconics using only the rules
+from the boxed set, as explained [here][13].
+
+I use material from **GURPS Dungeon Fantasy 3: The Next Level**
 and **GURPS Dungeon Fantasy 11: Power-Ups** when necessary, and I use metric
 units because I like them, but otherwise I stay as close to vanilla DF as
 possible. This does mean I'm not using **Low-Tech's** improved armor rules, for
 example. I also refrain from using rules not present in the main "numbered" set
 of DF books.
 
-This goal was achieved in January of 2017! Below are links to the eleven
-resulting iconics.
+Below are links to the eleven resulting iconics. Each one has a link to both its
+**GURPS Dungeon Fantasy** version and its **DFRPG** version. If a given
+character is missing a link, it's because the corresponding sheet isn't done
+yet. Keep an eye on the site to see then it's published!
 
-- [Amiri the Barbarian][1]
-- [Lem the Bard][2]
-- [Kyra the Cleric][3]
-- [Lini the Druid][4]
-- [Seelah the Paladin][5]
-- [Valeros the Fighter][6]
-- [Harsk the Ranger][7]
-- [Sajan the Monk][8]
-- [Jirelle the Swashbuckler][9]
-- [Merisiel the Rogue][10]
-- [Ezren the Wizard][11]
+The GURPS DF versions use material from DF 1: Adventurers, DF 3: The Next Level,
+and DF 11: Power-ups. The DFRPG versions use material from the boxed set. In
+both versions I add a little extra original material where it's needed, and use
+metric units because I like metric (just multiply weights by 2 if you _must_
+have Imperial pounds).
+
+- **Amiri the Barbarian**: [GURPS DF][1], [DFRPG][14]
+- **Lem the Bard**: [GURPS DF][2]
+- **Kyra the Cleric**: [GURPS DF][3]
+- **Lini the Druid**: [GURPS DF][4]
+- **Seelah the Paladin**: [GURPS DF][5]
+- **Valeros the Fighter**: [GURPS DF][6]
+- **Harsk the Ranger**: [GURPS DF][7]
+- **Sajan the Monk**: [GURPS DF][8]
+- **Jirelle the Swashbuckler**: [GURPS DF][9]
+- **Merisiel the Rogue**: [GURPS DF][10]
+- **Ezren the Wizard**: [GURPS DF][11]
 
 I didn't stop making characters after I was done with the Main Eleven, though!
 With the initial goal complete, I could relax my restrictions a bit. The
 character below uses a broader set of sources, and thus is a little more
-"exotic" than the Main Eleven. The same will be true of any further characters I
-add here.
+"exotic" than the Main Eleven, with rules not covered by the boxed set. The same
+will be true of any further characters I add here.
 
 - [Seoni the Sorceress][12]
-
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html
@@ -58,5 +70,7 @@ add here.
 [10]: {{ "/gurps/2016/12/30/pathfinder-df-rogue.html" | absolute_url }}
 [11]: {{ "/gurps/2017/01/04/pathfinder-df-wizard.html" | absolute_url }}
 [12]: {{ "/gurps/2017/02/20/pathfinder-df-sorceress.html" | absolute_url }}
+[13]: {{ "/2017/09/20/pathfinder-iconics-take-2.html" | relative_url }}
+[14]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}
 
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps
