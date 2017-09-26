@@ -86,7 +86,7 @@ Dodge 9; Parry 12 (Greatsword);
 -   Survival (Mountains) (A) Per+3 {1}[^1] - 15
 -   Swimming (E) HT {1} - 13
 -   Tracking (A) Per+3 {1}[^1] - 15
--   Two-Handed Sword (A) DX+7 {20} - 18
+-   Two-Handed Sword (A) DX+5 {20} - 18
 -   Weather Sense (A) IQ+4 {2}[^1] - 14
 -   Wrestling (A) DX {2} - 13
 
