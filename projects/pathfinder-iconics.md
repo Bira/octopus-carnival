@@ -39,7 +39,7 @@ metric units because I like metric (just multiply weights by 2 if you _must_
 have Imperial pounds).
 
 - **Amiri the Barbarian**: [GURPS DF][1], [DFRPG][14]
-- **Lem the Bard**: [GURPS DF][2]
+- **Lem the Bard**: [GURPS DF][2], [DFRPG][15]
 - **Kyra the Cleric**: [GURPS DF][3]
 - **Lini the Druid**: [GURPS DF][4]
 - **Seelah the Paladin**: [GURPS DF][5]
@@ -72,5 +72,6 @@ will be true of any further characters I add here.
 [12]: {{ "/gurps/2017/02/20/pathfinder-df-sorceress.html" | absolute_url }}
 [13]: {{ "/2017/09/20/pathfinder-iconics-take-2.html" | relative_url }}
 [14]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}
+[15]: {{ "/2017/09/27/pathfinder-dfrpg-bard.html" | relative_url }}
 
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps
