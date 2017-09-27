@@ -39,7 +39,7 @@ be found [here][lem-stats]. From looking at them we can see the following:
 
 Here's what he looks like in the DFRPG rules:
 
-## Lem, Halfling Bard
+## Lem, 250-point Halfling Bard
 
 **ST** 8 {-20}[^1]; **DX** 13 {60}; **IQ** 14 {80}; **HT** 12 {20}[^1]
 
