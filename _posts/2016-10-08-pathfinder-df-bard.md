@@ -76,10 +76,10 @@ Move 5[^1]; SM -2[^1].
 
 **Skills**
 
-- Acrobatics (H) DX-2 {1} - 10
+- Acrobatics (H) DX-2 {1} - 11
 - Acting (A) IQ {2} - 14
 - Carousing (E) HT {1} - 11
-- Climbing (A) DX-1 {1} - 11
+- Climbing (A) DX-1 {1} - 12
 - Detect Lies (H) Per-2 {1} - 12
 - Diplomacy (H) IQ {1}[^2] - 14
 - Fast-Talk (A) IQ+1 {1}[^2] - 15
@@ -98,12 +98,12 @@ Move 5[^1]; SM -2[^1].
 - Savoir-Faire (High Society) (E) IQ {1} - 14
 - Savoir-Faire (Servant) (E) IQ {1} - 14
 - Scrounging (E) Per {1} - 14
-- Shortsword (A) DX+2 {8} - 14
-- Singing (E) HT+4 {1}[^2][^3] - 15
-- Sling (H) DX+2 {4}[^5] - 14
-- Stealth (A) DX {2} - 12
+- Shortsword (A) DX+2 {8} - 15
+- Singing (E) HT+4 {1}[^2][^3] - 16
+- Sling (H) DX+2 {4}[^5] - 15
+- Stealth (A) DX {2} - 13
 - Streetwise (A) IQ-1 {1} - 13
-- Throwing (A) DX+2 {2}[^5] - 14
+- Throwing (A) DX+2 {2}[^5] - 15
 
 **Spells**
 
