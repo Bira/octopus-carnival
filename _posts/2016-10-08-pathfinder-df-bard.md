@@ -8,6 +8,9 @@ tags:
   - character
 ---
 
+**Update**: This is the GURPS Dungeon Fantasy version of the character. If you
+want to see a version for the Dungeon Fantasy RPG, click [here][1].
+
 Another weekend, another iconic character converted to GURPS Dungeon Fantasy!
 The next template in **DF1** is the Bard, which means that
 after [Amiri the Barbarian][amiri] our next subject is Lem the Bard. Here he is:
@@ -169,3 +172,5 @@ total load to 9.5kg and Light Encumbrance.
 [amiri]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
 [lem-bio]: http://pathfinder.wikia.com/wiki/Lem
 [lem-stats]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/lem.html
+
+[1]: {{ "/2017/09/27/pathfinder-dfrpg-bard.html" | relative_url }}
