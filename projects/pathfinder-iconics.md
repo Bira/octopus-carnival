@@ -20,13 +20,6 @@ the iconics I made wouldn't quite work in a campaign that used only the boxed
 set. Therefore, I set out to make a _second_ set of iconics using only the rules
 from the boxed set, as explained [here][13].
 
-I use material from **GURPS Dungeon Fantasy 3: The Next Level**
-and **GURPS Dungeon Fantasy 11: Power-Ups** when necessary, and I use metric
-units because I like them, but otherwise I stay as close to vanilla DF as
-possible. This does mean I'm not using **Low-Tech's** improved armor rules, for
-example. I also refrain from using rules not present in the main "numbered" set
-of DF books.
-
 Below are links to the eleven resulting iconics. Each one has a link to both its
 **GURPS Dungeon Fantasy** version and its **DFRPG** version. If a given
 character is missing a link, it's because the corresponding sheet isn't done
