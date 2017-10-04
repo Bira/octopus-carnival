@@ -55,7 +55,7 @@ sun clerics roll in Dungeon Fantasy.
 
 **ST** 13 {30}; **DX** 12 {40}; **IQ** 14 {80}; **HT** 12 {20}.
 
-Damage 1d-1/1d+2; BL 17kg; HP 13; Will 14; Per 14; FP 12; Basic Speed 6.00;
+Damage 1d/2d-1; BL 17kg; HP 13; Will 14; Per 14; FP 12; Basic Speed 6.00;
 Basic Move 6.
 
 **Advantages**
