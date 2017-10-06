@@ -103,7 +103,7 @@ Damage 1d-3/1d-2; BL 6.4kg; HP 9[^2]; Will 16[^2]; Per 16[^2]; FP 13; Basic Spee
 - Axe/Mace (A) DX+2 {8}- 14
 - Camouflage (E) IQ {1} - 15
 - Climbing (A) DX {2} - 12
-- Diagnosis (H) IQ-2 {1} - 12
+- Diagnosis (H) IQ-2 {1} - 13
 - Disguise (Animals) (A) IQ-1 {1} - 14
 - Esoteric Medicine (Druidic) (H) Per {4} - 16
 - First Aid (E) IQ {1} - 15
