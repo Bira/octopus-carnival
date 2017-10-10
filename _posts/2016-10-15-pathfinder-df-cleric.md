@@ -8,6 +8,9 @@ tags:
   - character
 ---
 
+**Update**: This is the GURPS Dungeon Fantasy version of the character. If you
+want to see a version for the Dungeon Fantasy RPG, click [here][6].
+
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
 **GURPS Dungeon Fantasy**! This is the third post in the series. Previous
 entries can be found here:
@@ -154,3 +157,4 @@ $1394.0, 26.13kg. Light Encumbrance.
 [3]: http://pathfinder.wikia.com/wiki/Sarenrae
 [4]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
 [5]: https://bira.github.io/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html
+[6]: {{ "/2017/10/03/pathfinder-dfrpg-cleric.html" | relative_url }}

@@ -34,7 +34,7 @@ have Imperial pounds).
 - **Amiri the Barbarian**: [GURPS DF][1], [DFRPG][14]
 - **Lem the Bard**: [GURPS DF][2], [DFRPG][15]
 - **Kyra the Cleric**: [GURPS DF][3], [DFRPG][16]
-- **Lini the Druid**: [GURPS DF][4]
+- **Lini the Druid**: [GURPS DF][4], [DFRPG][17]
 - **Seelah the Paladin**: [GURPS DF][5]
 - **Valeros the Fighter**: [GURPS DF][6]
 - **Harsk the Ranger**: [GURPS DF][7]
@@ -67,5 +67,6 @@ will be true of any further characters I add here.
 [14]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}
 [15]: {{ "/2017/09/27/pathfinder-dfrpg-bard.html" | relative_url }}
 [16]: {{ "/2017/10/03/pathfinder-dfrpg-cleric.html" | relative_url }}
+[17]: {{ "/2017/10/10/pathfinder-dfrpg-druid.html" | relative_url }}
 
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps

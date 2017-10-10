@@ -8,6 +8,9 @@ tags:
   - character
 ---
 
+**Update**: This is the GURPS Dungeon Fantasy version of the character. If you
+want to see a version for the Dungeon Fantasy RPG, click [here][6].
+
 Welcome back to our series of conversions of Pathfinder's Iconic Characters to
 **GURPS Dungeon Fantasy!** This is the fourth post in the series. Previous
 entriers can be found here:
@@ -169,6 +172,7 @@ $223.0, 4.5kg. No encumbrance!
 [3]: https://bira.github.io/octopus-carnival/gurps/2016/10/15/pathfinder-df-cleric.html
 [4]: http://pathfinder.wikia.com/wiki/Lini
 [5]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/lini.html
+[6]: {{ "/2017/10/10/pathfinder-dfrpg-druid.html" | relative_url }}
 
 [^1]: See **DF 3**, p. 9. Typically used for Light, Sound, and
     Apportation. Changing this selection requires GM approval.
