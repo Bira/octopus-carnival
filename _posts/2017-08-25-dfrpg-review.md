@@ -54,8 +54,8 @@ If I don't want to run a campaign that feels like that, my tastes get a bit
 fiddlier. I will _play_ D&D 5th edition if no other alternative presents itself,
 but it doesn't look very exciting to GM. Earlier editions add to that an
 elaborate list of varied complaints that I'm sure anyone familiar with them can
-guess, and I'm not one of enlightened souls who can forget about them for long
-enough to enjoy a session.
+guess, and I'm not one of those enlightened souls who can forget about them for
+long enough to enjoy a session.
 
 The **Dungeon Fantasy Roleplaying Game** has a premise that's exactly like that
 of Basic D&D (one of the most popular OSR darlings), married to a ruleset that
@@ -76,9 +76,9 @@ Perform some unlikely feat of parkour? Check to see if that dead monster has
 valuable body parts? The system has you covered.
 
 **Dungeon Fantasy** gives you 11 "professional templates" that are roughly
-equivalent to some of the most popular D&D classes, and which can be humans, a
-selection of 8 racial templates that includes all the usual suspects plus the
-Catfolk[^1].
+equivalent to some of the most popular D&D classes, and which can be humans or
+one of a selection of 8 racial templates that includes all the usual suspects
+plus the Catfolk[^1].
 
 While the game focuses very heavily on dungeon-delving, it's certainly possible
 to use it for fantasy campaigns that go beyond the dungeon. It has more support
