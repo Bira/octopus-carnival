@@ -136,7 +136,7 @@ better. While her armor has a bit less DR than in the first version, the overall
 loadout is much lighter, leaving her at Medium Encumbrance instead of Heavy.
 
 
-[1]: +1 from Born War Leader
+[^1]: +1 from Born War Leader
 
 
 
