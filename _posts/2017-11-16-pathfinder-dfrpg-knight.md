@@ -66,7 +66,7 @@ Dodge 9; Parry 14;
 **Advantages**
 
 - Born War Leader 2 {10}
-- Combat Refalexes {15}
+- Combat Reflexes {15}
 - High Pain Threshold {10}
 - Weapon Master (Broadsword) {20}
 - Ambidexterity {5}
