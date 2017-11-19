@@ -109,8 +109,7 @@ $2000.0, 31.48kg. Light encumbrance.
 - Regular Bow [Torso]: Damage 1d+2 imp; Range 240/320; $100, 1kg.
 - Large Knife [Torso]: Damage 2d cut, Reach C-1; or 1d+1 imp, Reach C; $40,
   0.5kg.
-- 2 x Broadsword [Torso]: Damage 2d+7 cut, Reach 1-2; or 1d+6 imp, Reach 2;
-  $1200, 3kg.
+- 2 x Broadsword [Torso]: Damage 2d+7 cut or 1d+6 imp; Reach 1.  $1200, 3kg.
 - Backpack, Small [Torso]: Holds 20kg of gear. $60, 1.5kg.
 - First Aid Kit [Backpack]: +1 to First Aid. $50, 1kg.
 - Blanket [Backpack]: $20, 2kg.
