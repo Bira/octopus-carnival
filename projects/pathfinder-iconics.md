@@ -37,7 +37,7 @@ have Imperial pounds).
 - **Lini the Druid**: [GURPS DF][4], [DFRPG][17]
 - **Seelah the Paladin**: [GURPS DF][5], [DFRPG][18]
 - **Valeros the Fighter**: [GURPS DF][6], [DFRPG][19]
-- **Harsk the Ranger**: [GURPS DF][7]
+- **Harsk the Ranger**: [GURPS DF][7], [DFRPG][20]
 - **Sajan the Monk**: [GURPS DF][8]
 - **Jirelle the Swashbuckler**: [GURPS DF][9]
 - **Merisiel the Rogue**: [GURPS DF][10]
@@ -70,4 +70,5 @@ will be true of any further characters I add here.
 [17]: {{ "/2017/10/10/pathfinder-dfrpg-druid.html" | relative_url }}
 [18]: {{ "/2017/10/13/pathfinder-dfrpg-holy-warrior.html" | relative_url }}
 [19]: {{ "/2017/11/16/pathfinder-dfrpg-knight.html" | relative_url }}
+[20]: {{ "/2017/11/21/pathfinder-dfrpg-scout.html" | relative_url }}
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps

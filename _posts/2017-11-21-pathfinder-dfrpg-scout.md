@@ -148,7 +148,7 @@ $1000.0, 21.45kg. No Encumbrance!
 
 ## Design Notes
 
-Strongbow and Lifting ST 2 allow Harsk to fire a St _17_ crossbow despite only
+Strongbow and Lifting ST 2 allow Harsk to fire a ST _17_ crossbow despite only
 having ST 13. While he's also a pretty good axe fighter in a pinch, his main
 focus is reaching out and touching people from very far away.
 
@@ -168,6 +168,7 @@ think there would be any harm in keeping it.
 [^1]: +1 from Pickaxe Penchant.
 [^2]: +2 from Outdoorsman.
 
+[1]: {{ "/projects/pathfinder-iconics" | relative_url }}
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/12/05/pathfinder-df-ranger.html
 [7]: http://pathfinder.wikia.com/wiki/Harsk
 [8]: http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/harsk.html
