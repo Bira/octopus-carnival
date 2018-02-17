@@ -34,10 +34,10 @@ which means our character is Sajan. Here he is:
 I think he looks kinda awesome. Anyway, his [bio][8] and his [official stats][9]
 give us the following information:
 
-- He was born in Vudra, his world's India an analogue, where he was a member of
-  the warrior caste along with his beloved twin sister Sajni. Even after they
-  were posted to separate barracks at the age of 12 they still met regularly to
-  spar and hang out.
+- He was born in Vudra, his world's India analogue, where he was a member of the
+  warrior caste along with his beloved twin sister Sajni. Even after they were
+  posted to separate barracks at the age of 12 they still met regularly to spar
+  and hang out.
 
 - Sajni was given away as part of a peace agreement, and Sajan ran after her. He
   tracked her down to Absalom, his world's "big cosmopolitan city", and has been
@@ -71,7 +71,7 @@ Damage 1d/2d-1; BL 12.1kg; HP 11; Will 11 {5}; Per 10; FP 12; Basic Speed
 - Striking ST 2 (Chi, -10%) {9}
 - Super Jump 1 (Chi, -10%) {9}
 - Trained by a Master {30}
-- Weapon Master (Kopesh) {20}
+- Weapon Master (Temple Sword) {20}
 
 **Disadvantages**
 
