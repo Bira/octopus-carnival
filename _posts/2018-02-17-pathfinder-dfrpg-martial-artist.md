@@ -23,7 +23,7 @@ the Monk. Here he is:
 </figure>
 {:/nomarkdown}
 
-I think he looks pretty cool! His [bio][7] and [official stats][8] give us the
+I think he looks pretty cool! His [bio][8] and [official stats][9] give us the
 following information:
 
 - He was born in Vudra, his world's India analogue, where he was a member of the
