@@ -107,7 +107,7 @@ on a given day, treat it as a night of missed sleep.
 
 Warforged characters may add the following disadvantages to the list of optional
 traits for their professional template, if those aren't already there: Chummy
-{-5}; Clueless {-5}; Gregarious {-10}; Gullibility {-10}; Code of Honor
+{-5}; Clueless {-10}; Gregarious {-10}; Gullibility {-10}; Code of Honor
 (Soldier's) {-10}. These represent the social awkwardness or initial programming
 of a newly-created warforged. Since they are personal disadvantages, they do
 count toward your disadvantage limit.

@@ -75,7 +75,7 @@ character point on extra starting cash so she can afford the Edged Rapier.
 
 **ST** 11 {10}; **DX** 16 {100}[^1]; **IQ** 10 {0}; **HT** 13 {30}
 
-Damage 1d-1/1d+1; BL 12.1kg; HP 11; Will 10; Per 10; FP 13; Basic Speed 7.00;
+Damage 1d-1/1d+1; BL 12.1kg; HP 11; Will 10; Per 10; FP 13; Basic Speed 7.25;
 Basic Move 7.
 
 **Advantages**
