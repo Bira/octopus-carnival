@@ -5,6 +5,18 @@ tags:
     - gurps
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/oranzhereiny-fountain-in-peterhof.jpg" | absolute_url }}"/>
+  <figcaption>
+    This should be easier!
+    <a href="http://www.saint-petersburg.com/peterhof/fountains-peterhof/">
+      (image source)
+    </a>
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 As I mentioned in my [previous post][1], I like the Technical Grappling rules on
 principle but find them way too detailed for most games in practice. Here's my
 attempt to simplify them into something I can use.
