@@ -17,6 +17,11 @@ tags:
 </figure>
 {:/nomarkdown}
 
+**2018-04-09 Update**: After receiving some feedback from Douglas Cole, who
+wrote the original Technical Grappling rules, I've updated this article to
+better handle people with wildly varying SMs and ST scores. I believe the
+resulting rules can still be considered "Quick and Dirty" :).
+
 As I mentioned in my [previous post][1], I like the Technical Grappling rules on
 principle but find them way too detailed for most games in practice. Here's my
 attempt to simplify them into something I can use.
@@ -49,7 +54,8 @@ system! CP damage is annotated as "control" in attack stat lines.
 All unarmed grappling attacks inflict CP damage equal to the "thrust" value for
 your ST. Lifting ST improves your ST for this purpose and so does the Wrestling
 bonus when using that skill. Add +1 damage for each limb used beyond the first
-two.
+two. If attacker's SM is larger than that of the target, apply the difference as
+a control damage bonus as well.
 
 Armed grappling works mostly like in the book, except you always use your full
 ST to calculate control damage. Entangling weapons use your _base_ skill level
@@ -64,13 +70,26 @@ now also do 2d+2 control!
 
 Grapplers can still only maintain a maximum amount of CP equal to their ST.
 
+## Control Threshold
+
+Every creature has a _Control Threshold_ (CT) equal to their ST/5, rounded down
+to the nearest whole number. This determines how easy it is to impair that
+character's movements via grappling. In relatively "realistic" games with
+human-scale characters, 99% of people will have a CT of 2, and the remaining
+slabs of pure muscle will have a CT of 3. Things can get quite a bit more varied
+in Dungeon Fantasy or other fantastical games.
+
+Write this down once during character creation, and only worry about changing it
+if your permanent ST changes.
+
 ## Effects of Control Points
 
-Every 2 CP applied to a target translate into a -1 penalty to DX. If the
-target's torso or head is being grappled this applies to all their actions. If a
-limb is being grappled, the full penalty applies to any actions involving that
-limb. Half the penalty applies to all other actions. Treat grapples to multiple
-locations as a single grapple to the torso with their combined CP.
+Every (CT) Control Points applied to a target translate into a -1 penalty to
+DX[^1]. If the target's torso or head is being grappled this applies to all
+their actions. If a limb is being grappled, the full penalty applies to any
+actions involving that limb. Half the penalty applies to all other
+actions. Treat grapples to multiple locations as a single grapple to the torso
+with their combined CP.
 
 In the example from page 6 of Technical grappling, that would give our pal
 And'Rezik a total of 13 CP on his target. It's only 2 CP less and you didn't
@@ -89,3 +108,5 @@ become a problem I'll address them at that time.
 
 
 [1]: {{ "/2018/04/02/my-gurps-house-rules.html" | relative_link }}
+
+[^1]: Creatures whose CT rounds down to 0 take -2 DX per CP applied to them.
