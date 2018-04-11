@@ -19,10 +19,13 @@ description: > # this means to ignore newlines until "baseurl:"
   A repository of my English language RPG-related writings.
   Mostly GURPS with a smattering of other systems.
 baseurl: "/octopus-carnival" # the subpath of your site, e.g. /blog
-url: "https://Bira.github.io" # the base hostname & protocol for your site
-twitter_username: mestre_bira
+url: "https://bira.github.io" # the base hostname & protocol for your site
+twitter:
+  username: mestre_bira
 github_username:  Bira
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
 paginate: 5
 disqus:
   shortname: 'octopus-carnival'

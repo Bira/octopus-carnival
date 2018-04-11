@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Quick and Dirty Technical Grappling"
+description: "A simpler Technical Grappling alternative"
+image: /assets/oranzhereiny-fountain-in-peterhof.jpg
 tags:
     - gurps
 ---
