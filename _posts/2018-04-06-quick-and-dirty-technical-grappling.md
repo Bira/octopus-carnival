@@ -109,6 +109,6 @@ sure I've missed some edge cases from the original book, but if those ever
 become a problem I'll address them at that time.
 
 
-[1]: {{ "/2018/04/02/my-gurps-house-rules.html" | relative_link }}
+[1]: {{ "/2018/04/02/my-gurps-house-rules.html" | relative_url }}
 
 [^1]: Creatures whose CT rounds down to 0 take -2 DX per CP applied to them.

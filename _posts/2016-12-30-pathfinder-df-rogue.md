@@ -156,8 +156,8 @@ $754.0, 17.3kg. Light Encumbrance.
 - Heavy Leather Sleeves **[Arms]**: DR 2. $50, 1kg.
 - Leather Armor **[Torso]**: DR 2. $100, 5kg.
 - Backpack, Small **[Torso]**: Holds 20kg of gear. $60, 3kg.
-- Bull's Eye Lantern **[Backpack]**: **DF 1**, p. 26. 10m beam, burns 6 hours per
-  0.5L of oil. $100, 1kg.
+- Bull's Eye Lantern **[Backpack]**: **DF 1**, p. 26. 10m beam, burns 6 hours
+  per 0.5L of oil. $100, 1kg.
 - Oil, 1L **[Backpack]**: Includes flask. $4, 1kg.
 - Personal Basics **[Backpack]**: $5, 0.5kg.
 - Rope, 3/8", 10m **[Backpack]**: Supports 150kg. $5, 0.75kg.
