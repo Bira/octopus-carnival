@@ -36,19 +36,19 @@ appears in later games.
 
 ## Clothing And Armor
 
-Altaïr and the rest of the "historical" Assassins don't seem to wear too much in
+Altaïr and the rest of the Assassins don't seem to wear too much in
 terms of armor, which makes sense since they're portrayed as valuing stealth and
 mobility. Armor is a mainstay for the opposition in this game, and it seems to
 be portrayed in a historically accurate manner: check out GURPS Loadouts:
 Low-Tech Armor p. 27-29 for a very detailed breakdown. In short, both the
 Templars and Sarracens tend to wear DR 3 or 4 mail, with metal helmets.
 
-The infamous hooded outfit (AKA the Menacing Hood) is the least historical piece
-of clothing in the game, and looking cool was a bigger priority in its design
-than fitting in with the more period-appropriate clothing worn by the
-NPCs. There's a million jokes out there about how absurd it is that Altaïr can
-hide amidst the crowd at all while basically dressed as Medieval Batman, but
-in-setting he's clearly able to do that.
+The infamous hooded outfit (AKA the Menacing Hood) is probably not very
+historical, since looking cool was a greater priority in its design than being
+period-appropriate. There's a million jokes out there about how absurd it is
+that Altaïr can hide amidst the crowd at all while basically dressed as Medieval
+Batman, but that's clearly something the Assassins are supposed to be able to do
+in-setting.
 
 It would make sense for Assassin characters in a tabletop game to wear
 _Undercover Clothing_ (Low-Tech, p. 100). Altaïr's iconic outfit isn't quite
@@ -64,16 +64,17 @@ swords seen in the game would use the stats for a broadsword (and the Broadsword
 skill). Altaïr also gets access to a Long Knife, and to Small Throwing
 Knives. The opposition uses the same sort of sword. Those enemies posted as
 rooftop guards tend to carry Light Crossbows as well. You can find stats for
-these and many other suitable weapons in the Basic Set, Low-Tech, or Martial
-Arts.
+these and many other suitable TL 2-3 weapons in the Basic Set, Low-Tech, or
+Martial Arts.
 
 But that's not what you're here for, is it?
 
 ### The Hidden Blade
 
-This marvel of Fantasy Tech-style engineering is a leather and metal bracer with
-a built-in, retractable knife blade. The spring-loaded mechanism is controlled
-by a ring around the hand's little finger, and the blade is concealed along the
+This marvel of Fantasy Tech-style engineering is a pure assassination weapon
+unsuited to open combat. It consists of a leather and metal bracer with a
+built-in, retractable knife blade. The spring-loaded mechanism is controlled by
+a ring around the hand's little finger, and the blade is concealed along the
 underside of the arm. The model used in the original game can only be used by
 someone who had amputated the ring finger on the corresponding hand.
 
@@ -85,17 +86,11 @@ the user can make a Fast-Draw (Knife) roll to do it instantly. Retracting the
 blade is a free action: just relax your hand!
 
 Stabbing with the Hidden Blade uses the Knife skill. It cannot parry, and counts
-as Cheap quality for breakage purposes. It's different enough from a plain old
-knife to inflict a -2 unfamiliarity penalty to both Knife and Fast-Draw on users
-who haven't trained with it before. Such a newbie would also probably lose their
-ring finger the first time they extended the blade!
+as Cheap quality for other breakage purposes. It's different enough from a plain
+old knife to inflict a -2 unfamiliarity penalty to both Knife and Fast-Draw on
+users who haven't trained with it before. Such a newbie would also probably lose
+their ring finger the first time they extended the blade!
 
-This is a pure assassination weapon unsuited for open combat. You want to get in
-close while remaining undetected and take your target down with a Telegraphic
-All-Out-Attack to the skull or vitals.
-
-+-----+-----+-----+-----+-----+-----+-----+-----+
 | TL | Name | Damage | Reach | Parry | Cost | Weight | ST  |
-+-----+-----+-----+-----+-----+-----+-----+-----+
+|-----|-----|-----|-----|-----|-----|-----|-----|
 | 3 | Hidden Blade | thr imp | C | No | $150 | 1kg (2 lbs.) | 6  |
-+-----+-----+-----+-----+-----+-----+-----+-----+
