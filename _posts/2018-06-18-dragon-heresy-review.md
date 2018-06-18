@@ -188,7 +188,7 @@ Instead of a single Armor Class value, characters have a relatively low Threat
 DC and a higher Hit DC. If an enemy beats your Threat DC, it means they will hit
 you _unless_ you actively defend yourself by spending Vigor. Beating your Hit DC
 means they bypassed all of your defenses. Avoiding injury from that takes a
-"feverish defense", which among other things costs your reaction for the round.
+"frantic defense", which among other things costs your reaction for the round.
 
 Armor no longer makes you harder to hit - instead, it provides damage resistance
 that reduces the amount of Wounds (_not_ Vigor) you take from an attack. Shields
