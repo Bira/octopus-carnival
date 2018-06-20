@@ -92,10 +92,10 @@ The included batteries can last you for days. A set of spare batteries for all
 powered equipment here costs $4 and weights 0.4kg (0.8 lbs.)
 
 - Sleeping Bag (p. HT56) **[Torso]**: +1 to Survival. $100, 1 kg (2 lbs.).
-- UV purifier (p. HT 59) **[Torso]**: Holds 1l of water, which it purifies in
+- UV purifier (p. HT 59) **[Torso]**: Holds 1L of water, which it purifies in
   1-2 minutes. Given weight is for a full container. $100, 1.25kg (2.5 lbs.)
 - Batteries for UV purifier (p. HT 13) **[UV purifier]**: 4 XS batteries, good
-  for 20l. $2, weight already included.
+  for 20L. $2, weight already included.
 - Backpack, Small (p. HT54) **[Torso]**: Holds 25kg (50 lbs.). $120, 1.5kg (3
 lbs.).
 - Personal Basics (p. B288 or HT53) **[Backpack]**: $5, 0.5kg (1 lb.).
