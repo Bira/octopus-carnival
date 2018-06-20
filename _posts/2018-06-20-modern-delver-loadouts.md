@@ -8,7 +8,7 @@ tags:
 ---
 
 {::nomarkdown}
-<figure>
+<figure class="center">
   <img src="{{ "/assets/giant-jansport-backpack-thumb.jpg" | absolute_url }}"/>
   <figcaption>
     Ready for the dungeon!
@@ -21,9 +21,9 @@ tags:
 
 So you found a passage to fantasy world full of magic and wonder at the back of
 your grandmother's old walk-in closet. You've read about things like this
-before, and you're thinking of going in and ~raiding the place for treasure~
-having a wholesome and memorable sightseeing trip. What should you take with
-you?
+before, and you're thinking of going in and ~~raiding the place for treasure~~
+having a wholesome and memorable sightseeing trip. What should you take in your
+expedition?
 
 The first thing that comes to a lot of player's minds in a game like this are
 guns, but we're not going to talk about that here. Plenty of other people
@@ -36,12 +36,13 @@ That sort of equipment is vital to every traditional dungeon fantasy adventurer
 and no less important for modern PCs venturing into such worlds. In fact, the
 less combat your game features, the more important this gear becomes. Even if
 the game is a pure dungeon crawl, that closed portal might not open directly
-into the dungeon after all. Even if it does you might have a hard time coming
-back home and might have to stay on the other side for a while. And who knows,
-maybe your game actually _is_ about a wholesome and memorable sightseeing trip.
+into the dungeon. And even if it does you might have a hard time coming back
+home and might have to stay on the other side for a while. And who knows, maybe
+your game actually _is_ about a wholesome and memorable sightseeing trip, making
+the journey the whole point.
 
 Modern camping gear is often much lighter and better at its job than the TL 3
-equivalents, so it can give you as much of a comparative edge to traveling and
+equivalents, and can give you as much of a comparative edge to traveling and
 survival as a brace of guns would give for combat. The loadouts described below
 are supposed to be modern versions of the Minimal, Deluxe, and Group kits
 described in GURPS Dungeon Fantasy 13: Loadouts. They assume an incursion into
@@ -50,19 +51,19 @@ things that require batteries or fuel is allowed. All modern gear and attending
 rules are taken from GURPS High-Tech.
 
 The goal is for these loadouts to be at least as effective and no heavier than
-the original loadouts - if possible they should be both lighter and
-better. They're inevitably going to end up being more _expensive_, but even a
-"settled" modern character has access to four times the entire life savings of a
-starting medieval adventurer, so keeping price down isn't as big of a priority.
+the originals - if possible they should be both lighter and better. They're
+inevitably going to end up being more _expensive_, but even a "settled" modern
+character has access to four times the entire life savings of a starting
+medieval adventurer, so keeping price down isn't as big of a priority.
 
 ## A Note on Clothing
 
 If you follow the rules from High-Tech, your weight savings start with the good
 old set of Ordinary Clothing every character gets! The totally generic set from
-Dungeon Fantasy weights 1 kg (2 lbs.), but TL 8 garments weight half that. As
-every delver knows, every pound you save is another pound of treasure you can
-bring home! The same savings would apply to winter and arctic clothing, which is
-good news if that portal opens into a winter wasteland.
+Dungeon Fantasy weights 1 kg (2 lbs.), but TL 8 garments weight half that. It
+might not seem much, but every pound you save is another pound of treasure you
+can bring home! The same savings would apply to winter and arctic clothing,
+which is good news if that portal opens into a winter wasteland.
 
 ## A Note on Food
 
@@ -76,10 +77,12 @@ like those rations.
 
 World-hopping delvers who insist on eating actual food and don't mind doing a
 bit of campfire cooking can instead pack meals of Freeze-Dried Food (p. HT 35)
-and bring along with a titanium Personal Mess Kit (p. HT57, $45, 0.15kg/0.3
-lbs).
+and bring along a titanium Personal Mess Kit (p. HT57, $45, 0.15kg/0.3 lbs). The
+price and weight per meal of the two types of ration is close enough that the
+only difference for the whole loadout is the price and weight of the mess kit.
 
-## Minimal Modern Delver's Kit ($424, 7.05kg/14.10 lbs).
+## Minimal Modern Delver's Kit
+### $424, 7.05kg/14.10 lbs
 
 This kit provides a 30% weight savings over its medieval version, a much better
 light source, a much stronger rope, and a +1 to Survival rolls because of the
@@ -104,15 +107,18 @@ lbs.).
 - Batteries for Flashlight (p. HT 13) **[Flashlight]**: 2 S batteries, good for
   50 hours of illumination. $2, weight already included.
 
-## Deluxe Modern Delver's Kit (+$393, +6,41kg/12,82 lbs)
+## Deluxe Modern Delver's Kit
+### +$393, +6,41kg/12,82 lbs
 
 Like the original version, this is an add-on to the corresponding minimal
 kit. It weights a little over a _quarter_ of the corresponding add-on kit and
 it's cheaper, though the basic and deluxe kits combined are still a bit more
 expensive than the originals. The tent included here combines with the sleeping
 bag from the basic kit to add a combined +2 tool bonus to Survival. The price of
-the whole package ($817) also falls well within the budget of a even a "settled"
+the whole package ($817) also falls well within the budget of even a "settled"
 TL8 adventurer.
+
+Further sets of spare batteries for the lantern add $4, 0.66kg (1.21 lbs) each.
 
 - Backpack, Large (p. HT55) **[Torso]**: Replaces the minimal kit's Small
   Backpack. Holds 50kg (100 lbs.). $200, 2.5kg (5 lbs.)
@@ -128,7 +134,8 @@ TL8 adventurer.
   tons. $90, 1kg (2 lbs).
 - Tent, Personal (p. HT57) **[Backpack]**: +1 to Survival. $100, 0.5kg (1 lb).
 
-## Modern Group Kit (+$563, +29kg/58 lbs)
+## Modern Group Kit
+### +$563, +29kg/58 lbs
 
 As I write the modern version of DF's Group Kit, I notice it gets harder to find
 high-tech replacements for some of the stuff here. First-Aid Kits cost and
