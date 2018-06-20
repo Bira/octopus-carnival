@@ -145,7 +145,7 @@ versions from Low-Tech for a little weight savings, but there's no listed
 high-tech substitute for the good old pickaxe. High-Tech also doesn't talk about
 Group Basics, opting to break that convenient abstraction down into its
 components. However, I believe it's safe to assume that like Personal Basics the
-modern version costs and weights the same but includes moder modern items (like
+modern version costs and weights the same but includes more modern items (like
 a camp stove and its propane tank).
 
 The resulting kit is still quite a bit lighter than the original because TL 8
