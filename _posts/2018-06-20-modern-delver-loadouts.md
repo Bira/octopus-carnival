@@ -128,7 +128,7 @@ Further sets of spare batteries for the lantern add $4, 0.66kg (1.21 lbs) each.
   hours of illumination. $4, weight already included.
 - Spare Batteries for Lantern (p. HT 13) **[Backpack]**: $4, 0.66kg (1.21 lbs.)
 - Load-Bearing Vest (p. HT54) **[Torso]**: $30, 1kg (2 lbs).
-- Bottle of Survival Tablets (p. HT35) **[Backpack]**: Provides the nutrients
+- Bottle of Survival Tablets (p. HT35) **[Backpack]**: Provides nutrients
   equivalent to 6 meals. $25, 0.75kg (1.5lbs).
 - Rope, 1.25cm (1/2"), 10m (p. HT56) **[Backpack]**: Synthetic. Supports 2
   tons. $90, 1kg (2 lbs).
