@@ -35,7 +35,7 @@ plays a role in keeping you alive: camping and expedition gear!
 That sort of equipment is vital to every traditional dungeon fantasy adventurer
 and no less important for modern PCs venturing into such worlds. In fact, the
 less combat your game features, the more important this gear becomes. Even if
-the game is a pure dungeon crawl, that closed portal might not open directly
+the game is a pure dungeon crawl, that closet portal might not open directly
 into the dungeon. And even if it does you might have a hard time coming back
 home and might have to stay on the other side for a while. And who knows, maybe
 your game actually _is_ about a wholesome and memorable sightseeing trip, making
