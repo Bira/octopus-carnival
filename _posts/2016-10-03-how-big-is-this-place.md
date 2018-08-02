@@ -60,7 +60,7 @@ belonging to a local lord (a landed knight or the equivalent). Most houses would
 be made of wood with thatch roofs, and most inhabitants would be peasants and
 farmers. They might have blacksmiths and other craftspeople, but are just as
 likely to have those needs served by wandering peddlers. Settlements of this
-size would dot the plains east and north of Gran Soren, and around the
+size would dot the plains west and north of Gran Soren, and around the
 Eradication Site in Southern Gransys. There would also be a few around the
 Encampment, though that stretch of land is quite narrow in the game.
 

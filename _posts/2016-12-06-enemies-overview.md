@@ -45,10 +45,10 @@ come to the following list:
 - [Ogres][17]
 - [Gryphons and Cockatrices][18]
 - [Golems][19]
-- Hydras
-- Dragons
+- [Hydras][20]
+- [Lesser Dragons][21]
 
-This entries are written in the order I'll tackle each of them. The idea is to
+These entries are written in the order I'll tackle each of them. The idea is to
 include GURPS stats for all members of that monster family, either as full stat
 blocks or as variants for a basic stat block. They will also include some
 information on where the monster can be found in Gransys and what impact its
@@ -80,3 +80,5 @@ the DF line or other sources, or to use these in a generic DF setting.
 [17]: {{ "/gurps/2017/04/05/ogres.html" | absolute_url }}
 [18]: {{ "/2017/05/08/gryphon-and-cockatrice.html" | relative_url }}
 [19]: {{ "/2017/05/23/golems.html" | relative_url }}
+[20]: {{ "/2018/02/09/hydra.html" | relative_url }}
+[21]: {{ "/2018/08/02/lesser-dragons.html" | relative_url }}

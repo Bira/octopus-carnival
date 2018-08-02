@@ -19,7 +19,7 @@ important additional considerations. These concern _gameplay_.
 as well as the workings of these actions. Different genres of games give you
 different levels of insight into these workings, from the intuitive feel you get
 for your jumping distance in a platformer to all the numbers an electronic RPG
-makes shows you.
+shows you.
 
 Fiction has no gameplay. Even the longest fantasy novel with the most lovingly
 described magic system will never make its readers do anything other than read

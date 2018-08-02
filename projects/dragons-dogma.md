@@ -79,6 +79,8 @@ fit into Gransys and providing entirely new stat blocks.
 - [Ogres][30]
 - [Gryphons and Cockatrices][33]
 - [Golems][34]
+- [Hydras][35]
+- [Lesser Dragons][36]
 
 [0]: http://www.warehouse23.com/products/gurps-adaptations
 [1]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
@@ -117,3 +119,5 @@ fit into Gransys and providing entirely new stat blocks.
 [32]: {{ "/2017/04/27/crafting-imbuements-in-gransys.html" | relative_url }}
 [33]: {{ "/2017/05/08/gryphon-and-cockatrice.html" | relative_url }}
 [34]: {{ "/2017/05/23/golems.html" | relative_url }}
+[35]: {{ "/2018/02/09/hydra.html" | relative_url }}
+[36]: {{ "/2018/08/02/lesser-dragons.html" | relative_url }}
