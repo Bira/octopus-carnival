@@ -295,7 +295,7 @@ skirmishing ability described above.
 
 **Speed** 9.25; **Move** 9 (Air Move 18); **SM** +3
 
-**Dodge** 13; **Parry** 13; DR** 5 (10 vs. electricity)
+**Dodge** 13; **Parry** 13; **DR** 5 (10 vs. electricity)
 
 - **Bite (18)** : 2d+2 cut. Reach C, 1. Can count as a grapple!
 - **Front Claw (18)**: 2d+2 cut. Reach C-2.
