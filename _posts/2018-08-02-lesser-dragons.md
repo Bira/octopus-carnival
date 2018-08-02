@@ -190,7 +190,7 @@ city and stay out of the conflict, but will still fight the Arisen should the
 two meet.
 
 In an hostile encounter, the Wyrm will try to lead the PCs to an arena of his
-choosing before engaging. He will prefer to fight in an enclosed, flooded ruim
+choosing before engaging. He will prefer to fight in an enclosed, flooded ruin
 chamber where his sound and ice spells are extra effective. In combat the Wyrm
 relies on his spells. He might try to incapacitate his opponents with Daze of
 Sleep (in single or mass versions), surprise non-Pawns by dominating them with
