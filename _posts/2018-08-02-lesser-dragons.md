@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dragon's Dogma Bestiary: Lesser Dragons"
+image: /assets/DDENEMIES.jpg
 tags:
     - gurps
     - dragons-dogma
