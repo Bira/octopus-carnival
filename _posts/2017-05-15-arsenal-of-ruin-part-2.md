@@ -65,10 +65,10 @@ and Guns (Grenade Launcher) under the standard rules.
 
 <br/> The weapon is usually loaded with standard ammunition (in table), but it's
 perfectly capable of firing APDS (9d(2) pi-) or APEP (7d(3) pi-) rounds. Both
-are would ruin the day of those players who think their vests-with-plates make
-them immune to puppet weaponry. Even without armor-piercing ammo, they're still
-smart enough to aim for the arms and legs if they notice center-of-mass shots
-don't result in an immediate kill.
+would ruin the day of those players who think their vests-with-plates make them
+immune to puppet weaponry. Even without armor-piercing ammo, they're still smart
+enough to aim for the arms and legs if they notice center-of-mass shots don't
+result in an immediate kill.
 
 The grenade launcher is usually loaded with TL9 HE or thermobaric warheads
 (**Ultra-Tech** p. 153 and 155), though the Ebon Masters can certainly issue
