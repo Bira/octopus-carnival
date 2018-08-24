@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Review: Hall of Judgment"
+image: /assets/hall-of-judgment-cover.jpg
 tags:
   - gurps
   - dungeon-fantasy
