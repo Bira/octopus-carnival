@@ -69,7 +69,7 @@ delightful bits of humor you can find in **GURPS Dungeon Fantasy** supplements,
 which for me is always a plus.
 
 Last, but not least, this thing has an table of contents and index comparable to
-those of a GURPS. This is high praise: no one, and I mean _no one_ publishes
+those of a GURPS book. This is high praise: no one, and I mean _no one_ publishes
 books that are as well-indexed as those of GURPS. The PDF also contains links in
 its text, which further helps referencing related concepts.
 
