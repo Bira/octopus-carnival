@@ -9,7 +9,7 @@ tags:
 ---
 
 {::nomarkdown}
-<figure>
+<figure class="center">
   <img src="{{ "/assets/hall-of-judgment-cover.jpg" | absolute_url }}"/>
   <figcaption>
     Copyright 2018 Gaming Ballistic LLC
@@ -63,6 +63,10 @@ clearly labeled section for each room, with labeled paragraphs describing the
 challenges, rewards, alternative ways of dealing with the challenges, and
 anything that might be initially concealed from the PCs. I'm sure the Ten Foot
 Pole guy would think they're still a little too verbose, though.
+
+Along with the PDF I also got two zip files containing full-sized versions of
+the encounter and dungeon maps present in the book. The encounter maps have no
+grid, which means they're suitable for use in a virtual table-top program.
 
 And once again, this book has a table of contents and index comparable to those
 of a GURPS book, which is awesome.
