@@ -151,7 +151,7 @@ illustration. All of them show up somewhere in the adventure, though your PCs
 aren't expected to fight every last one. You get a mix of wild and domestic
 animals, some humans, a few undead and demons, and a whole lot of faeries from
 Norse mythology. Even the weakest of _those_ are quite a bit scarier than you'd
-expect from their appearance[^1].
+expect from their appearance.
 
 After the bestiary there's a group of 16 ready-to-play PCs, most of which are
 local to the region. Since the adventure is written for a group of 4 to 6, this
