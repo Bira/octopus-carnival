@@ -36,7 +36,7 @@ If you already have the DFRPG boxed set and are looking for supplements to add
 to your game, this should be at the very top of your shopping list. It contains
 a Viking-flavored mini-setting with plenty of cultural notes; four separate
 dungeons; a set of rules for wilderness travel; the GURPS version of the Dungeon
-Grappling rules; approximately 30 new monsters; and 17 setting-appropriate
+Grappling rules; approximately 30 new monsters; and 16 setting-appropriate
 pre-made player characters.
 
 If you also have the Dragon Heresy intro set and wanted to play in that setting
