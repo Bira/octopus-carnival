@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "The Peoples of Tamriel: Humans"
-image: 5f282d3ec21fc323b5673ff706b203181bf1220f_hq.jpg
+image: /assets/5f282d3ec21fc323b5673ff706b203181bf1220f_hq.jpg
 tag:
     - gurps
+    - elder-scrolls
 ---
 
 {::nomarkdown}
