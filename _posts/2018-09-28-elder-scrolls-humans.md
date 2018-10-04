@@ -8,7 +8,7 @@ tag:
 ---
 
 {::nomarkdown}
-<figure class="left">
+<figure>
   <img src="{{ "/assets/5f282d3ec21fc323b5673ff706b203181bf1220f_hq.jpg" | relative_url }}"/>
 </figure>
 {:/nomarkdown}
