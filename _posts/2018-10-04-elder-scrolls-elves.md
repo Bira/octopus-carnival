@@ -180,6 +180,21 @@ Nords, though, orcish Barbarians in campaigns taking place in their homeland
 aren't considered a Minority Group. Some level of Berserk is quite common,
 though.
 
+### Other Elves
+
+The templates above are just for the elves that have been traditionally playable
+in Elder Scrolls games. There are many, many more:
+
+- In Tamriel, dwarves are elves! The Dwemer vanished way back in the First Age
+  and left a whole bunch of extensive, steam-powered underground complexes whose
+  advanced machinery is _still_ pumping after all these millenia.
+- The Falmer, or Snow Elves, dominated Skyrim at the dawn of the First Age and
+  were displaced by the conquering Nords. This led to an ill-fated deal with the
+  Dwemer that eventually turned most of them into blind cave-dwelling cannibals.
+
+As usual for Dungeon Fantasy, every time your PCs think they know all elven
+subtypes, feel free to introduce a couple more.
+
 
 [1]: {{ "/2018/09/28/elder-scrolls-humans.html" | absolute_url }}
 [3]: {{ "/gurps/2016/10/19/characters-magic-archer.html" | absolute_url }}
