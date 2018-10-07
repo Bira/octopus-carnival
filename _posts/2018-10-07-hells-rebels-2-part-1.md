@@ -170,7 +170,7 @@ the talk with Octavio as soon as possible.
 
 We'll read through Part 2 in the next post in this series.
 
-[1]: {{ "/projects/hells-rebels.html" | absolute_url }}
+[1]: {{ "/projects/hells-rebels/" | absolute_url }}
 
 [^1]: And their devotion to ethics in game journalism.
 
