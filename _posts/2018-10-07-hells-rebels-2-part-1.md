@@ -1,6 +1,6 @@
 ---
 layout: post
-image: /assets/350px-Hell's_Rebels_Logo.png
+image: "/assets/350px-Hell's_Rebels_Logo.png"
 title: "Let's Read Hell's Rebels: Turn of the Torrent, Part I"
 tags:
     - pathfinder
