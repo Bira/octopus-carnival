@@ -30,9 +30,15 @@ This is an ongoing project. These are the posts that comprise it:
   - [Part 3: Redactions and Revelations][6]: In which the PCs discover the fate
     of the Sacred Order of Archivists.
 
+- **Turn of the Torrent**: The second adventure.
+
+    - [Part 1: A Cousin's Plea][7]: In which the PCs set out to find a
+      potentially useful ally. Not much meat here, but you have to start somewhere.
+
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
 [4]: {{ "/2017/05/18/hells-rebels-npcs.html" | relative_url }}
 [5]: {{ "/2017/05/27/hells-rebels-adventure-1-part-2.html" | relative_url }}
 [6]: {{ "/2017/06/21/hells-rebels-adventure-1-part-3.html" | relative_url }}
+[7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
