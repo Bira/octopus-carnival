@@ -5,6 +5,9 @@ tags:
     - gurps-br
 ---
 
+Esta é a versão em português do post [Adapting Videogames][2]. Siga o link para
+ler a versão em inglês!
+
 Antes de eu começar todo aquele negócio de Dragon's Dogma, eu gostaria de
 discutir o próprio processo de adaptar um video game. Vai me ajudar a explicar
 minhas decisões.
@@ -54,3 +57,4 @@ se encaixa no idioma do GURPS. E espero que condordem comigo sobre o resultado
 :).
 
 [1]: http://www.warehouse23.com/products/gurps-adaptations
+[2]: {{ "/gurps/2016/09/28/adapting-video-games.html" | absolute_url }}
