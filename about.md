@@ -12,6 +12,7 @@ those idle thougths to writing, and since most of the RPG material I've been
 reading for the past few years has been in English, that language is the one in
 which my ideas flow best.
 
-Octopus Carnival is my English-language RPG blog. Most of its content is
-GURPS-related, and usually deals with adapting something or other to GURPS. I
-try to update daily or as close to it as possible.
+Octopus Carnival is my RPG blog. It was originally all in English, but I've
+recently started translating some of its posts to Portuguese as well. Most of
+its content is GURPS-related, and usually deals with adapting something or other
+to GURPS. I try to update daily or as close to it as possible.
