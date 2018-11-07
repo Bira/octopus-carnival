@@ -33,7 +33,10 @@ This is an ongoing project. These are the posts that comprise it:
 - **Turn of the Torrent**: The second adventure.
 
     - [Part 1: A Cousin's Plea][7]: In which the PCs set out to find a
-      potentially useful ally. Not much meat here, but you have to start somewhere.
+      potentially useful ally. Not much meat here, but you have to start
+      somewhere.
+    - [Part 2: Trouble in Old Kintargo][8] has some layout issues, but presents
+      three interesting missions that further the cause of the Silver Ravens.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
@@ -42,3 +45,4 @@ This is an ongoing project. These are the posts that comprise it:
 [5]: {{ "/2017/05/27/hells-rebels-adventure-1-part-2.html" | relative_url }}
 [6]: {{ "/2017/06/21/hells-rebels-adventure-1-part-3.html" | relative_url }}
 [7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
+[8]: {{ "/2018/11/07/hells-rebels-2-part-2.html" | relative_url }}

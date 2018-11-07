@@ -114,10 +114,10 @@ None of the two groups will fight to the death - in fact, they're not all that
 united. The dottari will perform a fighting retreat if one of them drops, and
 will rout if two of them fall. The knights will retreat as soon as one of them
 suffers a major wound. Either group will leave the other to its fate when that
-happens. This means even a Pathfinder can make it out of this CR 9 encounter
-alive if they are lucky and focus fire on one opponent at a time. DF delvers
-should have quite a bit less trouble surviving the encounter, though it's no
-longer the cakewalk their last excruciation was.
+happens. This means even a Pathfinder party can make it out of this CR 9
+encounter alive if they are lucky and focus fire on one opponent at a time. DF
+delvers should have quite a bit less trouble surviving the encounter, though
+it's no longer the cakewalk their last excruciation was.
 
 ## Shrine of Saint Senex
 
