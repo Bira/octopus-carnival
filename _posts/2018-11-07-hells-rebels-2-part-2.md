@@ -245,6 +245,6 @@ Our next article will look at Part 3, which ends this adventure with a big
 dungeon raid.
 
 
-
+[1]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
 
 [^1]: Golarion's Chaotic Good goddess of rebellion.
