@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Dungeon Fantasy House Style: Characters"
+image: assets/DungeonsDragonsposterart.jpeg
 tags:
     - gurps
     - dungeon-fantasy
