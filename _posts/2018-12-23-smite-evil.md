@@ -28,7 +28,7 @@ With one exception.
 
 ## Smite Evil (5 points/level)
 
-_Pre-Requisite_: Holy Might 1+.
+_Pre-Requisite_: Holy Might or Power Investiture (Holy) 1+.
 
 You can empower your blows with the very wrath of the heavens! Channeling raw
 Holy Might in this way can be tiring, but it can also be just the thing to bring
