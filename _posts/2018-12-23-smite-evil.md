@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I Shall Smite Thee! Smite Evil in Dungeon Fantasy"
+image: assets/Lucky-Paladin.jpg
 tags:
     - gurps
     - dnd
