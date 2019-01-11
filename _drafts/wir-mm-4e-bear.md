@@ -1,0 +1,80 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Bear"
+tags:
+    - dnd4
+    - wir
+---
+
+We have bears in the real world, so they don't require much in the way of
+introduction. D&D has always included a variety of bears in its bestiaries,
+their various real-world species lending themselves well to the "pallette swap"
+approach preferred by its older editions.
+
+After going through a few Monster Manual-only entries, we finally arrive at one
+that exists in both books. The Monster Vault has an appendix with stats for
+mundane animals, likely a response to complaints from traditionalist players
+that the original Monster Manuals didn't include any.
+
+But wait! If the Monster Manual doesn't have anything on mundane animals, what
+does it say about bears? Let's find out.
+
+## The Lore
+
+They're bears. Large, omnivorous, inhabit temperate or colder areas. I wasn't
+aware of it until recently, but it appears the "Bear Lore" entry in the Monster
+Manual is kind of a running joke among 4e players. It's structured just like the
+lore entries for weirder monsters, so it ends up telling us a PC needs to
+succeed at a DC 20 Nature check to know that bears attack with their
+claws.
+
+IIRC, while real-life bears can be dangerous, they usually don't go out of their
+way to attack humans, so most bear encounters will be peaceful. Of course, this
+being D&D, you can encounter some bears that don't exist in real life and that
+are far more ornery.
+
+## The Numbers
+
+Combining the two books gives us three different bears: a mundane Bear (MV), a
+Cave Bear (MM), and the ever spiky Dire Bear (both). All are Unaligned natural
+beasts and have Int 2.
+
+The **Bear** likely represents a brown bear. It's Large, and a Level 5 Brute
+with 80 HP. It attacks with its claws, and can use a Bear Grab about twice per
+fight (it recharges when the bear is bloodied). This allows it to make two claw
+attacks against the same target, and if either one hits the target drops prone
+and the bear grabs it _if it has fewer than two creatures grabbed_. This ain't
+no normal bear hug. At the start of the bear's turn, it deals automatic damage
+against any creatures it has grabbed.
+
+The **Cave Bear** is meant to represent a species that's extinct in our
+world. It's a Level 6 Elite Brute with 170 HP, but for some reason it's only
+Medium. It's more of a striker than a grappler: aside from its claws, it has a
+Cave Bear Frenzy that does claw damage in a Close Burst 1 and recharges on a
+5-6. That's a bit less multi-strike ability than I'd expect from an elite
+monster, but not too much less.
+
+The **Dire Bear** follows the "bigger and spikier" theme set for dire animals in
+Third Edition. The Monster Vault version is merely an update of the Monster
+Manual, so I recommend using that one in all cases. It's a Large Natural Beast
+and a Level 11 Elite Brute. Its basic attack are its claws, but it will rarely
+use that. The Dire Bear's real go-to ability is Maul, which is at-will and
+allows it to make two claw attacks. If both hit the same target, the bear grabs
+the target if it has fewer than two creatures grabbed. This grab requires a
+secondary attack in the MM version, but not in the MV one. The bear can also use
+a standard action to deal lots of automatic damage to a grabbed creature (that's
+where you use its action point).
+
+Suggested encounters in the MM are: Level 6, two cave bears and one bugbear
+strangler ("us bears gotta stick together!"); and level 11, 1 dire bear, 1 ettin
+spirit-talker, and 3 ogre minions.
+
+## Final Impressions.
+
+Well, they're bears. While there's nothing terribly exciting about them
+lore-wise, they do their job mechanically (particularly the Monster Vault
+variants).
+
+One thing that might be fun is to have an evil druid as a villain, using charmed
+bears to do his bidding. Make the party face the Aggressively Hegemonizing
+Ursine Swarm from the other side for once.

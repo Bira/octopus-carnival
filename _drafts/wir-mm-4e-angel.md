@@ -1,0 +1,218 @@
+---
+layout: post
+title: "Where I Read the 4e Monster Manual: Angels"
+tags:
+    - dnd4
+    - wir
+---
+
+In a substantial change from monsters bearing the same name the past, Fourth
+Edition angels have winged humanoid upper bodies (with "feminine or masculine
+features"), and their lower bodies trail off into flowing energy. Many believe
+they were created by the gods, but the truth is they arose from the stuff of the
+Astral Sea when that plane first came into existence. If this process was
+started by the gods, it was entirely unconscious.
+
+When the gods went to war against the Primordials, the angels pledged their
+service to the deities that most closely matched their individual beliefs. You
+see, Angels are a rather diverse lot, with a listed alignment of "Any". So yeah,
+Tiamat and Gruumsh have evil angels on their payroll. You can even find angels
+working as mercenaries, serving people whose causes they find agreeable and who
+can meet their price.
+
+Angels are also the first monster to also show up on the _Monster Vault_, where
+the lore was changed to make then mostly mercenaries who only ocasionally join
+up with specific gods in a more definitive manner. Here they're Unaligned and
+make being as generic as possible in looks and personality a point of
+pride. Personally, I prefer the Monster Manual version with additional
+embelishments you can see in Final Impressions, below.
+
+Angels are usually paragon-tier, and are more involved in the world (and more
+likely to meet PCs) than deities or exarchs. They have quite a few signature
+abilities:
+
+- Flight (obviously!)
+- Immunity to fear
+- Resist 10 Radiant
+- Angelic Presence: all attacks against the angel take a -2 penalty while it's
+  not bloodied.
+
+Below are the four angels we get in the Monster Manual, all of which reappear in
+the Monster Vault.
+
+## Angel of Battle
+
+Angels of Battle are military leaders. They most commonly lead angels of valor
+(below) into battle, but sometimes also lead mortal forces. When gods send
+angels of battle to deal with a situation, they're not interested in
+dialogue. It looks like it's made of flowing silver, with metallic wings.
+
+The Angel of Battle is a Level 15 Skirmisher Leader. It has 148 HP, with a
+slighly weaker Reflex and a slighter stronger Will than what is average for
+their level. It's pretty fast, with a ground speed of 8 and a flight speed
+of 12.
+
+Its basic attack is with a falchion. It'll mostly use that through Mobile Melee
+Attack, which allows it to move half its speed (so, up to 6 squares) and attack
+at any point in the movement without provoking attacks of opportunity for moving
+away. Hitting with an attack allows it to mark the target as a Chosen Foe, which
+means it will grant combat advantage to _everyone_ until the end of the angel's
+next turn. In an emergency, the angel can forcefully eject the metal feathers of
+its wings in a Storm of Blades, which does high damage in a Close Burst 3 and
+cuts its fly speed down to 2 until the end of the fight.
+
+The Monster Vault version is almost identical, with the only difference aside
+from the fixed damage being that the effect of Chosen Foe was rolled up into the
+description of the falchion attack.
+
+So here you have an opponent who keeps flying around just outside of melee reach
+and swooping down to harass the PCs and mark priority targets for its buddies to
+attack. It pairs well with enemies that exploit from Combat Advantage.
+
+The sample encounter is level 15, an all-angel party with an Angel of Battle
+leading two Angels of Protection and 8 Angel of Valor minions. I guess they
+could be part of the guard contingent for an evil god's temple, or maybe a hit
+squad sent by an evil god against a level 12 or 13 party the god sees as an
+obstacle to their plans.
+
+## Angel of Protection
+
+These are basically Angelic Knights Templar, serving as bodyguards for important
+faithful and protecting temples. It has fluffy feathered wings and wears golden
+plate.
+
+They're level 14 Soldiers, with 141 HP. Their Reflex and Will are a couple of
+points below average, and it's a bit slower than the Angel of Battle with "speed
+6, fly 8". In addition to the standard Angelic Presence, it has the Angelic
+Shield aura, which makes the 5 squares around it difficult terrain for enemies
+if the angel's ward is also inside the aura and Angelic Presence is active.
+
+What's this about the angel's ward? Yeah, an Angel of Protection can designate
+another creature as its ward as a standard action. Wards that remain within 5
+squares of the angel get a +2 to AC and take only half damage from all attacks,
+with the angel taking the other half. The angel itself fights with a greatsword
+that does added radiant damage.
+
+A given creature can only be the ward of one angel at a time, so encounter
+groups with more than one of these angels should probably either contain
+multiple "principals", or you could set up a sort of "bodyguard chain", with one
+angel protecting the principal, the second one protecting the first, and so
+on. They'd want spread out a bit in this case, to cover more of the battlefield
+in difficult terrain.
+
+The Monster Vault version is almost identical aside from the fixed math. The
+damage from its attack is also entirely radiant now.
+
+The sample encounter is level 14 and has two Angels of Protection, an Eidolon
+and 3 dragonborn raiders. Clearly these people are serving Tiamat.
+
+
+## Angel of Valor
+
+The rank and file of ~Throne~ the Astral Sea. Individually they're the weakest
+of all the angels, but there are "vast armies" of them. When a powerful cleric
+needs numbers to get the job done, they summon a bunch of these. One might also
+be sent to reward the follower of a god for meritorious deeds, either by
+delivering a magic item or with 10 days of service. Angels of valor are made of
+fire!
+
+We get several stat blocks for them. The first one is for a Level 8
+Soldier, who is likely to be the first angelic opposition the party finds in the
+campaign. It has 88 HP, and Resist 10 Fire in addition to the usual radiant
+resistance. They have a flight speed of 9.
+
+It dual-wields a longsword and a dagger, and can attack with both on the same
+turn. While bloodied, it can light its weapons on fire for a turn, during which
+they deal fire damage instead of physical and target Reflex instead of AC. This
+makes me think the angel is dipping its blades in its own blood, which is a lot
+more Metal than I expected to see in this entry. It can also call lightning from
+the heavens on its own position once per encounter, hitting everything on a
+Close Burst 1 with mild lightning damage and dazing them for a turn (the angel
+itself suffers no damage, of course).
+
+The other stat blocks are Minions of varying levels: 11, 16 and 21, wielding
+greatswords. Nothing too terribly exciting about them on their own, but it does
+tell me that angels of valor have a role to play all through an angel-heavy
+campaign. The Monster Vault has only 16 Minion Soldier version, which I think is
+a bit of a loss.
+
+There are two suggested encounters here. The first is level 8, with two regular
+angels of valor in the company of a doppelganger assassin and a pair of
+shadar-kai. Servants of the Raven Queen, perhaps?
+
+The other is level 11, with 4 angel minions, two basilisks and a bunch of
+snake cultists. Zehir worshippers, clearly.
+
+Another interesting use for them with late Heroic tier groups would be to flip
+the script and have a PC's deity reward them with the temporary services of an
+Angel of Valor.
+
+## Angel of Vengeance
+
+Here's an interesting factoid about paladins and clerics in Fourth Edition: they
+no longer lose their powers if they abandon their deity's service. The gods need
+a different way to punish these prodigal sons, and that's where Angels of
+Vengeance come in. In addition to punishing those who have angered the gods they
+serve, they're sometimes sent to test those servants who are in danger of
+falling (and to immediately punish them when they do).
+
+Towering creatures of cold fire (they're Large), Angels of Vengeance are Level
+19 Elite Brutes. They have 446 HP and Resist 15 Fire, Cold and Radiant. With a
+speed of "8, fly 12", you will likely not be able to outrun them. It trades away
+the usual Angelic Presence for a Cloak of Vengeance, which in addition to the
+attack penalty causes 1d8 fire and 1d8 cold damage to anyone who attacks the
+angel. Not a lot at these levels, but it's automatic and can add up over time.
+
+These angels wield paired longswords that do almost as much damage as they
+should under the new math, which is remarkable. This damage is a mix of
+physical, fire and cold. Being an elite, the angel can make two longsword
+attacks per turn.
+
+The most interesting power here is certainly Sign of Vengenace, a minor action
+encounter power with a range of "sight". Once the angel has placed the Sign on a
+target, it can teleport right next to it as a move action until the end of the
+encounter. So the first sign you've angered an Angel of Vengeance is when it
+teleports into your back line from atop a mountain several kilometers away. A
+mobile striker's worst nightmare.
+
+When the angel is bloodied, it turns into a pillar of cold fire for a turn. The
+resulting explosion causes fire and cold damage in a Close Burst 2, and makes
+the angel immune to damage while it lasts.
+
+The Monster Vault version is pretty much identical aside from the fixed damage
+notation. All of its attack damage is now "cold and fire", and the Cloak of
+vengeance causes a flat 10 cold and fire damage instead of 1d8 each. If you
+
+The suggested encounter is level 19 and consistes of _two_ of these bad boys
+teleporting into your back line while a squad of Angels of Valor rushes forward
+to engage. That's how Vecna tells you how he _really_ feels about your party.
+
+## Final Impressions
+
+Fourth Edition angels are very different from their Third Edition counterparts,
+and sparked early skirmishes in the edition wars when they were released as
+preview material. Them not being universally Good was a major break from
+tradition, and the new "humanoid silhouette" look was not a hit.
+
+While I'm a fan of the new cosmology myself, I confess 4e angels never sounded
+very exciting to me until I began this Let's Read. When I first read these
+books, "Angels == Good" was still a firmly entrenched notion in my mind due to
+the traditional Christian depiction of them, so I was hesitant to use them as
+enemies.
+
+My opinion has been completely turned around these days thanks to reading the
+marvelous Kill Six Billion Demons webcomic. Its badass kung fu angels give me an
+excellent frame of reference for the ones in the Monster manual, particularly
+because they have all sorts of different moral outlooks while still remaining
+badass kung fu angels. The Angel of Vengeance here is reminds me very strongly
+of them, since it also has that "barely contained nuclear explosion inside a
+physical shell" vibe.
+
+So if you want 4e angels to feel less generic, K6BD can be an excellent source
+of inspiration. Perhaps the servants of each deity organize themselves in
+knightly orders, each following a different code. Membership in such an order
+alters the angel's physical shell in specific ways: maybe an angel of Pelor
+looks like the luminous silhouettes here, but one serving Bane or Tiamat looks
+more like a K6BD Thorn Knight. Then you have those unaligned mercenaries, and I
+can easily imagine "Reach Heaven Through Violence" being one of _their_ central
+tenets.
