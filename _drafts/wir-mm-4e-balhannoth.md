@@ -7,7 +7,13 @@ tags:
 ---
 
 The first of the Bs! The Balhannoth is a Large Aberrant Magical Beast
-(blind). A level 13 elite lurker, it has a slug-like body that menaces with
+(blind). "Blind" here is a keyword with some rules attached: blind creatures
+cannot be blinded (obviously!) and are immune to gaze attacks and other effects
+that rely on sight. They rely on special senses such as blindsight or
+tremorsense, but can't make Perception checks beyond the range of these
+senses. I'd interpret that to mean they can't make _visual_ Perception checks.
+
+A level 13 elite lurker, the Balhannoth has a slug-like body that menaces with
 spikes, five clawed tentacles, and a huge eyeless maw for a face. I've never
 heard of this monster before, which means it's either a 4e creation or it
 previously featured in a book I've never read. They're only on the Monster
@@ -20,11 +26,11 @@ in the Underdark. Barely sapient at Int 3, they understand Deep Speech and are
 Chaotic Evil. Balhannoths might wait for hours for the perfect moment to strike,
 possibly tailing their chosen prey for many hours.
 
-The evil slug-worms rarely associate with others of their own species (except
+The evil worm-things rarely associate with others of their own species (except
 perhaps to reproduce), but sometimes they can be trained to obey commands by
-other sapients with some difficulty. Telepathic creatures have an easier time of
-it and can "tame" captured adults. Non-telepathic trainers must train a
-balhannoth from birth if they are to have any hope of success.
+other sapients. Telepathic creatures have an easier time of it and can "tame"
+captured adults. Non-telepathic trainers must train a balhannoth from birth if
+they are to have any hope of success.
 
 In short, they're pretty much tailor-made mind flayer pets, and would likely be
 used like guard dogs and advance forces during a raid. The flayers get the
@@ -51,11 +57,12 @@ blindsense, teleport to the middle of the party while invisible, and use
 Tentacle Whip to hurt everyone and ruin your marching order. Then they'll
 teleport away and do it again.
 
-The suggested encounters are level 13: 1 balhannth and 3 grimlock berserkers, or
-1 balhannoth and four kuo-toa. The first are likely all servants of a mind
+The suggested encounters are level 13: 1 balhannoth and 3 grimlock berserkers,
+or 1 balhannoth and four kuo-toa. The first are likely all servants of a mind
 flayer, the second had to train their pet ninja slug the hard way.
 
 ## Final Impression
 
 There's not much there lore-wise, but I found the mechanics pretty cool. The
-concept of a teleporting ninja slug has a certain something to it.
+concept of a teleporting ninja slug has a certain something to it. Level them up
+to 17 and they'd make good aboleth pets too.
