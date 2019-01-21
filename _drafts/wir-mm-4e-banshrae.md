@@ -6,8 +6,8 @@ tags:
     - wir
 ---
 
-A Banshrae is a Medium fey humanoid that looks like the love childr of an elf
-and a praying mantis. Tall and rail-thin, they have alabaster skin, long clawed
+A Banshrae is a Medium fey humanoid that looks like the love child of an elf and
+a praying mantis. Tall and rail-thin, they have alabaster skin, long clawed
 fingers and triangular mouthless faces with insectile eyes. I don't know if
 banshraes come from earlier editions, or if they are new. They're only on the
 Monster Manual.
@@ -36,10 +36,11 @@ despite having no mouth. I picture them doing a fancy palm strike on one end of
 the blowgun to fire a dart out of the other.
 
 The **Banshrae Dartswarmer** is level 11 artillery with 89 HP, who fights
-unarmed with melee but whose specialty is firing poisoned blowgun darts that
-daze and inflict a penalty to attacks. Every so often (recharge 3-6) then can go
+unarmed in melee but whose specialty is firing poisoned blowgun darts that daze
+and inflict a penalty to attacks. Every so often (recharge 3-6) then can go
 "full auto" and fire a dart flurry with the same effect at anyone in a close
-blast 5.
+blast 5. That basically hits the entire PC party unless they're _very_ spread
+out.
 
 The **Banshrae Warrior** is a level 12 skirmisher with 121 HP who can also use a
 blowgun but who focuses on its praying mantis kung-fu. It can shift 1 square as

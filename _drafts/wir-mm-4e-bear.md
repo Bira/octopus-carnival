@@ -76,5 +76,5 @@ lore-wise, they do their job mechanically (particularly the Monster Vault
 variants).
 
 One thing that might be fun is to have an evil druid as a villain, using charmed
-bears to do his bidding. Make the party face the Aggressively Hegemonizing
-Ursine Swarm from the other side for once.
+bears to do his bidding. Have the party be on the receiving end of the
+Aggressively Hegemonizing Ursine Swarm for once.

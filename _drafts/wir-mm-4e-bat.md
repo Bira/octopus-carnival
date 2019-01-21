@@ -6,9 +6,8 @@ tags:
     - wir
 ---
 
-Bats are tinier nocturnal mammals who feed on fruit and other tiny
-animals... but those aren't the bats we're talking about here. These bats are
-proper monsters.
+Bats are tinier nocturnal mammals who feed on fruit and insects... but those
+aren't the bats we're talking about here. These bats are proper monsters.
 
 ## The Lore
 

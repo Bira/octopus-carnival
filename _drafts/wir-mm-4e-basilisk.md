@@ -6,8 +6,8 @@ tags:
     - wir
 ---
 
-Basilisks are another traditional D&D monster that's been around since the days
-of Basic. Here they're Large natural beasts, in the form of beefy grey
+Basilisks are another traditional D&D monster that's been around since at least
+the days of Basic. Here they're Large natural beasts, in the form of beefy grey
 eight-legged lizards with copious spines running down their backs. Basilisks
 appear in both the Monster Manual and the Monster Vault.
 
@@ -31,13 +31,13 @@ dozens of monsters that could be responsible for it.
 
 Anyway, there are several separate varieties of basilisk, each with a different
 (but still unpleasant) gaze. Some are solitary, some are pack hunters. They're a
-rare case of an animal that originated in the world and managed to spread to the
-Feywild, so you can find them there as well.
+rare case of a fantastic animal that originated in the world and managed to
+spread to the Feywild, so you can find them there as well.
 
 People who manage to tame a basilisk usually employ it as a guard animal in an
-area where no other allies are present. Well, no allies that are not
-expendable or immune to the gaze anyway. Common basilisk tamers include demons,
-who keep them as pets or use them as muscle in incursions to the world.
+area where no other allies are present. Well, no allies that are not expendable
+or immune to the gaze. Common basilisk tamers include demons, who keep them as
+pets or use them as muscle in incursions to the world.
 
 ## The Numbers
 
@@ -58,7 +58,8 @@ The MM version is completely immune to poison, while the MV version has poison
 resistance 5. I get the idea behind the immunity - they want the basilisk to be
 immune to its own gaze, which is vital if you want to make them pack hunters. I
 _think_ that's still supposed to be the case in the MV versions, but you could
-still hit it with different poisons and have those be effective.
+still hit it with different poisons and have those be effective if they're
+strong enough.
 
 The **Stone-Eye Basilisk** is the classic model, called only a **Basilisk** in
 the Monster Vault. The MM version is a level 12 soldier and the MV version a
@@ -71,13 +72,14 @@ since it happens when _it_ sees _you_. The actual gaze _attack_ is a close blast
 3, and it sets off a chain reaction: Slowed -> Immobilized -> Petrified, with
 the condition worsening on each failed save. I believe this model of gradually
 worsening conditions was one of 4e's big mechanical innovations. In previous
-edition, attacks like these would just be save-or-die.
+edition, attacks like these would just be save-or-die; now you have time to
+panic.
 
 The basilisk also has a strong bite, which the lore specifically notes makes it
 capable of eating creatures petrified by its gaze.
 
 These first two are actually two versions of the basilisk legend! In some
-stories it would turn you to stone, in others just kill you.
+stories it would turn you to stone, in others it just kills you.
 
 The Monster Vault has two additional basilisk varietals: the **wilt-eye** is a
 level 11 controller with 117 HP, with a gentler gaze that gives you a penalty to
