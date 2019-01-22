@@ -79,16 +79,16 @@ funny face tattoos" to something that matches the description of DF Catfolk
 pretty much exactly.
 
 Khajit hail from the tropical region of Elsweyr (pronounced "Elsewhere"). This
-tropical province is about equally split into an inland expanse or arid
-badlands, and a lush coastal region criss-crossed by extensive river basins. The
-former is inhabited by fierce nomadic warriors, the later by sugar cane
-plantation owners, farm workers, and urban merchants. Those plantations produce
-Moon Sugar, the region's chief export. Moon Sugar's properties vary a lot
-depending on what source you're consulting: they seem to range from "it's just
-sugar" to "it's crystallized catnip". In either case it has many more or less
-legitimate culinary and alchemical uses. It can also be distilled into Skooma, a
-drink that's definitely closer to the "catnip" end of the spectrum and banned in
-most regions of Tamriel.
+province is about equally split into an inland expanse or arid badlands, and a
+lush coastal region criss-crossed by extensive river basins. The former is
+inhabited by fierce nomadic warriors, the later by sugar cane plantation owners,
+farm workers, and urban merchants. Those plantations produce Moon Sugar, the
+region's chief export. Moon Sugar's properties vary a lot depending on what
+source you're consulting: they seem to range from "it's just sugar" to "it's
+crystallized catnip". In either case it has many more or less legitimate
+culinary and alchemical uses. It can also be distilled into Skooma, a drink
+that's definitely closer to the "catnip" end of the spectrum and banned in most
+regions of Tamriel.
 
 Khajit adventurers tend to prefer "skirmisher" professions like Scouts,
 Swashbucklers and Thieves. Being naturally equipped with claws, they also put
