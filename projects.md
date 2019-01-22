@@ -8,7 +8,7 @@ Most posts in these blogs aren't isolated, but instead are part of a larger set
 of thematically-linked articles. This page will collect and list this projects,
 for ease of reference.
 
-Octopus Carnival has _three_ ongoing projects at the moment:
+Octopus Carnival has _four_ ongoing projects at the moment:
 
 - [GURPS Dragon's Dogma][1]: A complete adaptation of the eponymous video game
   into a GURPS setting appropriate for Dungeon Fantasy campaigns.
@@ -16,6 +16,8 @@ Octopus Carnival has _three_ ongoing projects at the moment:
   about a year on the RPG.net forum.
 - [Let's Read Hell's Rebels!][4]: Wherein I read through and comment on a
   Pathfinder Adventure Path, with GURPS conversion notes.
+- [Let's Read the 4e Monster Manual/Vault][5]: Wherein I read through and
+  comment on these two D&D Fourth Edition books and the monsters they contain.
 
 And also one completed project:
 
@@ -29,3 +31,4 @@ posts in order. Enjoy!
 [2]: {{ "/projects/pathfinder-iconics/" | absolute_url }}
 [3]: {{ "/projects/gurps-xcom-reports/" | absolute_url }}
 [4]: {{ "/projects/hells-rebels/" | relative_url }}
+[5]: {{ "/projects/mm-4e/" | relative_url }}
