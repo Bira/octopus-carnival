@@ -1,0 +1,218 @@
+---
+layout: post
+title: "Where I read the 4e Monster Manual/Vault: Beholder"
+tags:
+    - wir
+    - dnd4
+---
+
+You probably heard of beholders before. You know, floaty spheres with a toothy
+mouth and an arbitrarily large number of eyes. They're kind of a big deal. I
+believe they've been in the game since at least the BECMI era, and were one of
+the handful of creatures declared off-limits by Wizards of the Coast when they
+opened the door for third-party content through the OGL.
+
+As classic boss monsters who nevertheless don't quite get the same level of hype
+as dragons, it's quite possible more D&D players have faced beholders than have
+faced the monster mentioned in the game's own title.
+
+Both the Monster Manual and the Monster Vault contain stats for beholders. We'll
+look at both in parallel.
+
+## The Lore
+
+The lore bits in the monster manual say barely more than the first two sentences
+in this article. Beholders are among the most feared monsters of all, and are
+so egotistical they normally can't get along even with others of their
+kind. They like to rule over "lesser" creatures, a category which includes
+pretty much anyone other than themselves.
+
+The Monster Vault elaborates on the above. It says beholders come from the Far
+Realm, but that unlike lots of other aberrant creatures that either cross over
+into our world by accident or to cause destruction, they come here as
+conquerors. They come in an enormous variety, further increased by the fact that
+some of then are changed by the passage from the Far Realm into the world.
+
+They're all anti-social megalomaniacs, though, believing themselves the rightful
+rulers of everything they see (and yes, the book does make the pun that they see
+a lot with all tho eyes). Beholders don't really have allies - they have minions
+they lord over or masters they constantly plot to overthrow, Starscream-like.
+
+Other interesting beholder facts gathered by osmosis from other editions:
+
+- Their flight is natural, not magic (their organisms contain pockets of
+  lighter-than-air gas).
+
+- Beholders reproduce asexually, by nightmare. By this I mean that when a
+  beholder has a particularly bad nightmare, that nightmare will manifest
+  physically and take the form of a new beholder. No wonder they're so
+  antisocial. Each beholder is some other beholder's literal worst nightmare.
+
+You decide which of these are true in your game, of course.
+
+## The Numbers
+
+Beholders are aberrant magical beasts. All are highly intelligent and of Evil
+alignment. They move via flight, and can hover. With all those eyes, they're
+trained in Perception, have darkvision, and all-around vision, which means they
+can't be flanked.
+
+Their signature ability are the infamous eye rays, both from the little eyes on
+stalks and from the large central one. Each variety has a different set. They're
+all ranged attacks, but they don't provoke opportunity attacks from PCs. Let's
+look at them sorted by level:
+
+### Beholder Gauth
+
+This is a fun-sized version from the Monster Vault. The only Medium beholder,
+it's Level 5 Elite Artillery with 102 HP. As a standard action it can bite or
+fire two of its eye rays at different targets, chosen from its list of four
+possible options:
+
+1. The fire ray targets Reflex and does fire damage.
+
+2. The exhaustion ray targets Fortitude, does somewhat less necrotic damage and
+  weakens.
+
+3. The sleep ray targets Fort, does no damage and slows, with the condition
+  worsening to unconsciousness on the first failed save.
+
+4. The telekinesis ray targets Fort, does no damage and slides a target 4
+  squares.
+
+As a minor action, it fires a beam from its central eye that targets Will, does
+no damage and immobilizes.
+
+The gauth's non-damaging beams means it works better when together with other
+monsters that can take advantage of them. I guess that as the weakest beholder,
+it's either going to rely more on its servants, or it's going to be made a
+servant of a more powerful villain.
+
+### Beholder
+
+The classic model, from the Monster Vault. It's a Large aberrant magical beast,
+and a Level 9 Solo Artillery menace with 392 HP. It flies a bit slower than the
+gauth (Speed 4 instead of Speed 6), which fits since it's more of a battleship
+than an agile corvette.
+
+For its standard actions, we have the standard bite, which does decent damage
+but it's not likely to see use if the beholder has its way. The main attraction
+are its _ten different eye beams_. It gets to fire any two of its choice against
+different targets per standard action.
+
+1. Charm: Targets Will, no damage, dominates for a turn.
+2. Wounding: Targets Fortitude, straight necrotic damage.
+3. Sleep: Targets Will. No damage, immobilizes, and that turns into
+   unconciousness after the first failed save.
+4. Telekinesis Targets Fort, slides 4 squares.
+5. Slowing: Targets Reflex, does necrotic damage and slows.
+6. Brilliant: Targets Will, does radiant damage and blinds.
+7. Terror: Targets Will, does psychic damage and pushes the target its
+   speed.
+8. Petrifying: Targets Fort, does no damage but petrifies right away! This is a
+   (save ends) effect, so it's not quite fight-ending but it's still
+   scary. After you save from the petrification, you're still immobilized until
+   you pass another save.
+9. Death: Targets Fortitude. More necrotic damage than the wounding ray. If it
+   bloodies the target (or hits an already bloodied target) it sets off a chain
+   reaction: the target becomes dazed; on the first failed save, that turns into
+   dazed and weakened; on the second, the target _dies_.
+10. Disintegration: Targets Fortitude, does untyped damage and 10 ongoing
+    damage.
+
+Once the beholder is bloodied, it gains an Eye Ray Frenzy that recharges on a 6
+and allows it to make 3 beam attacks instead of 2.
+
+Those are just the standard actions. As a minor action, the beholder can use its
+traditional anti-magic central eye, a close blast 5 attack that targets Will and
+does no damage, but prevents affected targets from using encounter and daily
+powers for a turn. Yes, it _can_ prevent purely martial characters from using
+their special tricks, but that's easily intepreted as a sort of enervating
+effect instead of or in addition to the usual magic-dampening.
+
+Finally, any enemy that starts its turn within 5 squares of the beholder gets
+tagged by a random eye ray a the start of the enemy's own turn. That's why
+they're numbered! Roll 1d10 and watch your players pray they only get the
+vanilla wounding beam.
+
+### Beholder Eye of Flame
+
+This one exists only on the Monster Manual. It's Level 13 Elite Artillery, with
+204 HP. It has the same "hit everyone nearby with a random eye ray" power as the
+classic Beholder, but here it's written up as an aura. It flies at speed 6, and
+is all about fire.
+
+Being a MM1 monster, it shows some of the early rough design issues: its bite is
+ridiculously weak instead of doing level-appropriate damage like the two
+previous beholders. It has three different eye beams, and can use two of them
+against different creatures per standard action. At least one of those must be
+the fire ray, but the other can be chosen freely.
+
+1. Fire: Fire damage vs. Reflex.
+2. Telekinesis: As above.
+3. Fear: Targets Will, and works similarly to the fear ray from the classic
+   beholder, but bestows an additional -2 penalty to attacks (save ends).
+
+It minor-action Central Eye power _automatically_ gives a target Vulnerable 10
+to fire, and makes them take 5 ongoing fire damage if they take fire damage from
+any source. This is a (save ends) condition, so the eye of flame will try to
+saddle every member of the party with it eventually. That more than makes up for
+its lack of eye ray variety.
+
+When bloodied, and once again when it dies, the eye of flame lets loose a fiery
+burst that targets Reflex and deals fire damage to everyone on a Close
+burst 2. I guess its flotation gasses are more flamable than usual.
+
+### Beholder Eye Tyrant
+
+The strongest of the lot, and present in both the Monster Manual and Monster
+Vault. The two versions are mostly identical aside from updated math.
+
+The Eye Tyrant is a Level 19 Solo Artillery weapons platform, essentially a
+vastly up-gunned classic beholder. The bite on the MM version is evey more
+ridiculously weak than that of the Eye of Flame, but the MV version strengthens
+it to what's expected for a level 19 monster (MM: 2d6+1; MV: 4d8+7).
+
+The Eye Tyrant's ten eye rays are slightly different:
+
+1. Searing: Targets Reflex, straight radiant damage.
+2. Withering: Targets Fortitude, necrotic damage and ongoing 10 necrotic damage.
+3. Sleep: Targets Will, no damage but causes instant unconsciousness (save
+   ends).
+4. Telekinesis: identical to the classic beholder's.
+5. Hold: Targets Reflex, no damage but restrains the target (save
+   ends). Restrained is Immobilized's big brother: the former only roots you to
+   the spot, the latter prevents all action.
+6. Confusion: Targets Will, does no damage but forces the target to charge the
+   nearest ally it can charge.
+7. Terror: The MM version is similar to the classic beholder's. The MV version
+   does psychic damage and makes the target move its speed away from the eye
+   tyrant. This is different from a push because the target chooses where they
+   end up. And it that destination is still within 4 squares of the beholder,
+   the target takes psychic damage again!
+8. Petrifying: Targets fortitude and induces gradual petrification: slowed,
+   worsening to immobilized and petrified with failed saves. Petrification this
+   time is _permanent_.
+9. Death: Like the classic beholder's but with lots more necrotic damage.
+10. Disintegration: Like the classic beholder's, but ongoing damage is _2d20_
+    instead of a flat 10.
+
+The eye tyrant's eye ray frenzy allows it to fire four beams instead of the
+usual 2 on a recharge 6 timer.
+
+Its minor-action Central Eye blast dazes on the MM version, and disables
+encounter and daily powers on the MV version. It still has random eye rays.
+
+
+## Final Impressions
+
+I've never used beholders in a game before, but I still have fond memories of
+them from the D&D cartoon and arcade games. Their 4e stat blocks give me pretty
+much the same feel as the ones from previous editions, since those also had the
+entire explanation for what each eye ray did as an itemized list.
+
+Fourth Edition shies away from instant save-or-die effects, so beholders end up
+with a lot fewer of those. Still, the classic beholder has one in the new
+"gradual doom" flavor, and the Eye Tyrant has two. The level 9 beholder is
+nastier than it seems too, because it's a suitable boss battle for a party of
+level 6 adventurers who won't have easy access to resurrection yet.

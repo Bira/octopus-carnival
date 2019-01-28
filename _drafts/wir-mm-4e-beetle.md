@@ -23,7 +23,7 @@ Blast 3. Defensively, they have Resist 10 Fire. And yes, you can still extract
 the glowing glands from a dead fire beetle and use them as torches.
 
 **Tangler Beetles** are one of the many beasts often tamed by humanoids and used
-as guard animals. They're Large Natural Beases and Level 5 Controllers with 62
+as guard animals. They're Large Natural Beasts and Level 5 Controllers with 62
 HP. They have a bite basic attack, and a ranged Entangling Spittle attack that
 does no damage but immobilizes the target.
 
@@ -46,7 +46,7 @@ beetles.
 
 I like that Fire Beetles finally get a fire attack. I seem to remember them
 having one in Neverwinter Nights, but I'm not sure if they had one in actual 3.x
-D&D. They definitely didn't have it earlier than that.
+D&D. I'm fairly sure they didn't have it earlier than that.
 
 Rot Scarabs are a nicely creepy addition to a crypt-themed dungeon. They're
 undead-adjacent but not undead themselves, so I guess encountering them can be

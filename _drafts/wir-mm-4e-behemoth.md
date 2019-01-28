@@ -1,0 +1,69 @@
+---
+layout: post
+title: "Where I Read the 4e Monster Manual/Vault: Behemoth"
+tags:
+    - dnd4
+    - wir
+---
+
+Let's get this out of the way right now: behemoths are dinosaurs. Dinosaurs have
+been a feature of D&D at least since the X1 module for BECMI, but as far as I
+know the new nomenclature is new in Fourth Edition.
+
+While I don't know for sure why the authors decided on the name change, I can
+speculate. On Earth we call dinosaurs by Latin/Greek scientific names because we
+only known them through scientific studies - the creatures themselves became
+extinct millions of years ago.
+
+The world of D&D, however, is not Earth! They never spoke any Latin or Greek
+there. And in the setting implied by the Monster Manual, _dinosaurs never went
+extinct_. So naturally people who interact with them would come up with
+common-usage names for them. Another benefit of the alternate nomenclature might
+be that it frees authors to diverge from currently accepted science a bit. I've
+seen people get strict about it when the "dinosaur" terminology starts getting
+thrown arround, even in D&D monster books.
+
+The two behemoths presented in the first Monster Manual are described as
+omnivirous reptiles that live in herds and use their size and ferocity to drive
+out threats and rivals. Both are Large Natural Beasts, with the "reptile"
+keyword and Int 2. "Reptile" doesn't come with any attached mechanics (like
+"aquatic" does), but I imagine some other monsters might have powers that
+interact with it. They're only on the Monster Manual.
+
+
+## Macetail Behemoth
+
+In our world, we called this one ankylosaurus. D&D macetails are ill-tempered
+and territorial on the wild, but if raised from hatchlings they can be
+domesticated for use as pack animals. They're Level 7 Soldiers with 82 HP, and
+fight with their tails. Their basic attack is a Tail Bludgeon that marks, and
+they can sweep their tails on a Close burst 1 that targets Reflex, and knocks
+Medium or smaller targets prone on a hit (in addition to doing damage). The
+sweep recharges on 4-6.
+
+The specification that the targets must be Medium or smaller is a bit
+unusual. After all, that covers every possible PC, so it's theoretically
+unnecessary. I imagine it's there in case the PCs have their own domesticated
+behemoths or other giant allies on their side.
+
+## Bloodspike Behemoth
+
+AKA stegosaurus. Also fiercely territorial, with an even fouler mood than the
+macetail. Even domesticated bloodspikes (used to pull heavy loads or siege
+engines) are difficult to train and control.
+
+They're level 9 Brutes with 118 HP, and also fight with their tails. The basic
+Spiked Tail attack does ongoing damage, and they also have the same Tail Sweep
+attack as the macetails. In addition to the usual Recharge 4-6 on the sweep,
+they get to do another one as a free action when first bloodied.
+
+## Encounters
+
+The suggested encounter is level 7 and has a troop of troglodytes
+(shaman+muscle) using a macetail behemoth as armored support. It's a all-reptile
+theme group!
+
+Personally, I'd also add behemoths to human or elven forces. Maybe that merchant
+caravan you were hired to protect is a train of macetails instead of the mules
+you'd normally expect, and when brigands attack keeping the beasts from going
+berserk is as much of a challenge as the fight itself.

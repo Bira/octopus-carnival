@@ -1,0 +1,107 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Bodak"
+tags:
+    - dnd4
+    - wir
+---
+
+
+A D&D original, the bodak first appeared in AD&D if I'm not mistaken. They were
+one of the many high-level undead that resulted when someone really evil died,
+with the specific type of evil generating different monsters. They've always
+looked like Grey aliens with oblong heads and narrow, empty eyes.
+
+Here, they keep the look, but have a different origin: when a Nightwalker kills
+someone, it can ritually transform the slain creature's corpse and spirit into a
+bodak servant. Therefore, bodaks can be found either hanging around
+nightwalkers, or running missions for their masters along with other undead.
+
+Bodaks are Evil and not very smart, so the occasional free bodak is more likely
+to find itself a lair where it can ocasionally kill passers-by than to hatch
+complicated evil schemes of its own.
+
+This Monster Manual entry gives us two different bodaks: the Skulk and the
+Reaver. There are no bodaks in the Monster Vault.
+
+## Bodak Skulk
+
+From the looks of it, this is the classic model. A level 16 Lurker, with Int 6
+and 124 HP, the skulk has darkvision and an Agonizing Gaze aura: anyone in its
+radius (5 squares) who makes a ranged or melee attack against the bodak takes 5
+necrotic damage before the attack, and a -2 penalty to the roll. This is both a
+gaze and a fear effect, and doesn't affect people doing close or area attacks,
+so wizards take note!
+
+As expected, this is a Medium Shadow Humanoid (undead). This is not the first
+undead monster we see in this Let's Read, but I haven't explained the keyword
+before. It's pretty much like you'd expect: undead don't breathe or sleep,
+aren't affected by anything that specifically targets living creatures and _are_
+affected by anything that targets undead.
+
+The Skulk moves at speed 6. It's immune to disease and poison, and has Resist 15
+necrotic. It's also Vulnerable 5 to radiant damage, and if it takes radiant
+damage it can't weaken anyone with its basic attack for a turn.
+
+The Bodak Skulk attacks with a slam that does a mix of physical and necrotic
+damage, and also weakens the target for a turn. Once per encounter it can focus
+its gaze on a single target, attacking their Fortitude: if this hits a weakened
+PC, the PC is immediately reduced to 0 HP. This is pretty serious, but it's not
+quite instant death like in previous editions. If the target is not weakened,
+they take necrotic damage and lose a healing surge (this edition's equivalent of
+negative levels).
+
+Finally, as an at-will standard action, the creature can turn invisible,
+insubstantial and gain phasing. In this state it can do nothing but move, and
+can return to physicality as a free action.
+
+This thing is going to follow the party invisibly while waiting for a chance to
+attack, then will reveal itself right next to a vulnerable character, weaken
+then with the slam and fix its gaze on them on its next turn. It will likely do
+all of this as the party is hit by a group of less subtle undead.
+
+The skulk's big Lurker Attack is the death gaze - once that's expended, it
+becomes a somewhat more fragile skirmisher. Early edition damage issues make it
+quite weak in direct combat, and fixing those would go a long way to make as
+threatening as its level indicates.
+
+
+## Bodak Reaver
+
+The Bodak Reaver is the Skulk's smarter, braver cousin. Another Medium Shadow
+Humanoid (undead), the reaver is a Level 18 Soldier with Int 10 and 175 HP,
+wearing plate and wielding a greataxe.
+
+It has pretty much the same resistances and vulnerabilities as the Bodak Skulk,
+except its necrotic resistance is a little higher at 20. Its basic greataxe
+attack does a mix of physical and necrotic damage, and both dazes and weakens on
+a hit. Since the text of the vulnerability is the same, I'm going to assume this
+still dazes even when it can't weaken, and that this is the main way in which it
+fulfills its soldierly function.
+
+The Reaver's Agonizing and Death Gazes are the same as the skulk's. Bodaks gonna
+bodak.
+
+Finally, the reaver is a Death Drinker: if any living creature is reduced to 0
+hit points within 5 squares of it, the reaver gains +1 to attacks for a turn,
+and 15 temporary HP. That's not just PCs! If the reaver has living allies, their
+deaths will also make it stronger.
+
+Like the skulk, the Bodak Reaver is in major need of a damage update. Other than
+that I don't see anything wrong with it.
+
+## Encounters and Final Impressions
+
+The suggested encounter here is level 18, a bodak reaver and two slaugher wights
+commanded by a cambion hellfire magus.
+
+Overall, it seems 4e Bodaks aren't going to fill a party with dread in the same
+way an old-school bodak would, since each of them can only _mostly_ kill someone
+with a gaze once per fight. Of course, an all-bodak monster squad can still
+potentially kill the whole party with their gazes if they coordinate well,
+something which is already perfectly possible at Int 10.
+
+Making custom bodaks is doable: aside from being undead, their signature
+abilities are the Agonizing and Death gazes, and a melee attack that weakens. A
+memorable villain the party has faced in the past could be raised as a bodak and
+employed as a lieutenant by a necromancy-themed Big Bad.
