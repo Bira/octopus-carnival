@@ -229,6 +229,8 @@ adventure path.
 [3]: https://enragedeggplant.blogspot.com/2018/01/monster-bearded-devil-barbazu.html
 
 [^1]: Golarion's god of greed, murder, secrets and poison.
+
 [^2]: A demigod-level devil whose portfolio includes deception, thievery and
     undead. So like Norgorber, but a devil.
+
 [^3]: The opera singer who disappeared before Adventure 1.
