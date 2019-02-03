@@ -32,9 +32,11 @@ After this, we get right on the monsters:
   issue of Dungeon, and I obliged.
 - [Abomination][4]: A grab-bag of epic horrors from the edge of time.
 - [Angel][5]: Messengers of the gods (be they good or evil).
+- [Archons][6]: Soldiers of the primordials.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
 [4]: {{ "/2019/01/12/abomination.html" | relative_url }}
 [5]: {{ "/2019/01/21/angel.html" | relative_url }}
+[6]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}

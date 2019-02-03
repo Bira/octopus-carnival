@@ -9,11 +9,10 @@ tags:
 I clearly remember Cambions existed in third edition, though I don't know if
 they date from earlier than that. They're only statted up in the Monster Manual.
 
-Cambions said to be the offspring of devils and "depraved or unwitting"
-mortals. This wording is interesting because it specifically excludes violent
-rape. The mortal in question is either aware and willing, or being seduced by a
-"beautiful stranger" who later vanishes in the night. It fits the devil idiom in
-4e.
+Cambions are the offspring of devils and "depraved or unwitting" mortals. This
+wording is interesting because it specifically excludes violent rape. The mortal
+in question is either aware and willing, or being seduced by a "beautiful
+stranger" who later vanishes in the night. It fits the devil idiom in 4e.
 
 It appears Cambions are usually raised by the mother, either in the World or in
 the Nine Hells. In either case they're evil and vicious from childhood, taking
@@ -33,9 +32,9 @@ speed 6, and a flight speed of 8 (clumsy). The "clumsy" keyword means he takes a
 from point A to point B. He wears mail and carries a flaming greatsword.
 
 The hellsword's basic attack is, well, the hell-sword which does physical damage
-and ongoing fire damage. When he charges he can make a greatsword attack against
-every enemy in range instead of a single one, and gains 5 temporary HP whenever
-he bloodies an enemy or reduces them to 0 HP.
+and ongoing fire damage. When he charges he can make a sword attack against
+every enemy in range, and gains 5 temporary HP whenever he bloodies an enemy or
+reduces them to 0 HP.
 
 The hellsword fights like a bowling ball, charging groups of enemies and then
 focusing on whoever is closer to being bloodied or taken out.
@@ -55,8 +54,8 @@ ongoing fire damage. That one recharges on a 5-6.
 The hellfire magus also has a passive Soul Mantle power, which gives her +4 to
 AC and Reflex against ranged attacks.
 
-Her tactics are simple: keep away and shoot fire. Her combined traits make it
-both desirable and difficult for PCs to close to melee with her.
+Her tactics are simple: keep away and shoot fire. Her traits make it both
+desirable and difficult for PCs to close to melee with her.
 
 ## Encounters
 
@@ -74,8 +73,8 @@ Back in the 3e days it took me the longest time to figure out what made cambions
 different from tieflings. Both are descended from devils, right? Apparently the
 difference was that cambions were direct offspring, while tieflings were who
 knows how many generations removed from their fiendish ancestor. In 4e, of
-course, tieflings aren't the offspring of devils at all, but mutated by a dark
-pact their distant ancestors made.
+course, tieflings are humans mutated by a diabolic pact their distant ancestors
+made.
 
 If you want to make a custom cambion, their "signature" traits are the devil
 keyword, the fire resistance, and the wings with their clumsy flight

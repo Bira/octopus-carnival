@@ -82,7 +82,7 @@ Burst followed by an Action Point-fueled Leaping Bite. "A bullette bursts from
 the ground and catches 25 feet of air with the wizard in its mouth!"
 
 The Monster Manual version is pretty much the same, but buggier. Slightly lower
-damage and oddly lower accuracy, and it forces you to reference the rules for
+damage, oddly lower accuracy, and it forces you to reference the rules for
 standing long jumps to figure out how far it leaps. MM bullettes can also use a
 Second Wind once per encounter, which recovers 51 HP and gives them a temporary
 defense boost.
