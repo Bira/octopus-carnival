@@ -138,7 +138,7 @@ for those if you want to use it.
 
 ### Ice Archon Rimehammer
 
-A level 19 Soldier who fights like a Brute. His huge ice mail slows on a hit,
+A level 19 Soldier who fights like a Brute. His huge ice maul slows on a hit,
 and deals extra damage to slowed targets. Its most soldierly trait is an aura
 that freees the ground around it and makes it difficult terrain to enemies.
 
@@ -171,7 +171,7 @@ Now _that's_ a proper soldier monster.
 
 ## Other Monster Vault Archons
 
-### Earch Archon
+### Earth Archon
 
 This level 12 brute has 149 HP, earth walk, tremorsense, and is immune to
 petrification in addition to the usual disease and poison. If it takes thunder
