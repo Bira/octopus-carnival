@@ -17,7 +17,7 @@ them as assassins or sentries and pay with food and treasure.
 
 We have two varieties of choker statted up here, both Unaligned and possessed of
 Int 6. I suppose this could mean not every choker the party meets is a bandit,
-but I don't think I ever saw any published examples of this.
+but I don't think I ever saw any published friendly chokers.
 
 The first variety is the **Cavern Choker**, who is a Small Natural Humanoid and
 a Level 4 Lurker with 42 HP. It has darkvision, a ground speed of 6, and a climb
@@ -62,3 +62,7 @@ enemies in the area and restrains them (save ends) on a hit. This recharges on a
 
 The sample encounter is level 4: a pair of cavern chokers employed by a small
 hobgoblin war party.
+
+Chokers get a "meh" from me. I didn't find them that exciting. I guess they're
+the sort of gimmicky Gygaxian monster you'd expect to find alongside cloakers
+and piercers, but I didn't find them appealing outside of that.

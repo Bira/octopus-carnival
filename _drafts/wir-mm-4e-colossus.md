@@ -5,3 +5,85 @@ tags:
     - dnd4
     - lets-read
 ---
+
+One of the most famous D&D "monster ladders" is the one composed of golems:
+humanoid constructs built to do the bidding of powerful spellcasters. They're
+generally inspired by mythology, with the name for the category being taken from
+the legend of the Golem of Prague.
+
+Due to the vagaries of alphabetical ordering, the first "golem" our reading of
+the Monster Manual hits is the one standing on the very top rung of that ladder:
+the Colossus.
+
+Obviously inspired by the Colossus of Rhodes, who was said to animate when its
+city was threatened by invasion, colossi are enormous animated statues, often
+made in the image of a god or another mighty entity. Like their smaller
+relatives, they exist to obey their creators. Of course, not just anyone can
+create one of these babies - it requires an epic ritual most commonly known to
+entities such as demon lords and divine exarchs.
+
+The name of the single stat block given to us by the Monster Manual hammers the
+point home: it presents us with the **Godforged Colossus**. There are no colossi
+on the Monster Vault.
+
+The Godforged Colossus is a Huge Immortal Animate (construct). That's smaller
+than I thought it would be, but then again so was the Colossus of
+Rhodes. Constructs are not affected by effects that specifically target living
+creatures. They also don't sleep, breathe or eat, and are immune to disease and
+poison.
+
+This specific construct is a Level 29 Elite Brute with 662 HP. In addition to
+the standard construct immunities listed on its stat block, it's also immune to
+fear and has Resist 30 to both psychic and force damage. It strides across the
+land at speed 10. As a golem-adjacent creature, it's Unaligned, doesn't speak,
+and has Int 4.
+
+As its basic attack the Godforged Colossus wields a weapon made of pure
+force. It does an amount of force damage that's surprisingly close to that it
+should be even without the math fix. A hit also triggers a relatively inaccurate
+secondary attack against Will, doing another bit of psychic damage and stunning
+the target for a turn on a hit. I feel this is a bit of unecessary complication;
+to fix it, add the damage of the secondary attack into that of the primary and
+make the whole lot "force and psychic". I don't think anyone who isn't another
+colossus resists those two simultaneously. You could leave the secondary attack
+for the stun effect, or replace it with the push from the Defensive Strike
+(below).
+
+The monster's other standard actions are as follows: it can attack at a range of
+20 with a Force Missile, which targets Reflex, does force damage, and pushes 5
+squares on a hit. Once per encounter it can unleash the Voice of the Demiurge,
+which targets the Will of all enemies within a Close Burst 10 (!), doing
+respectable psychic damage and stunning for a turn on a hit.
+
+Finally, as a reaction whenever someone moves adjacent to it, it can use a
+Defensive Strike that recharges on 5-6. On a hit it does all the damage of the
+basic attack (some force, some psychic) and allows a secondary attack against
+Fortitude that on a hit pushes the target 5 squares, knocks them prone, and
+dazes (save ends).
+
+No specific mention is made of the material used to build this colossus, though
+judging by the resistances I'd say it's actually made of pure force tinted with
+the thoughts of the god who built it.
+
+## Encounters
+
+The book says a colossus might be a city's greatest guardian, the idol of a god
+that animates to punish defilers, or a pair of great sculptures acting as
+guardians of another creature's lair.
+
+The first one is our old buddy Rhodes; the second brings to mind that demon
+statue from the cover of the 1e PHB; and the third is surely the sphinxes from
+the Neverending Story. The last boss from Shadow of the Colossus (the Tower)
+also fits here.
+
+The first example encounter is level 28, a godforged colossus and 4 dragonborn
+champions. Tiamat or Bahamut... or maybe both, with equal teams fighting each
+other! Does the level 23 party dare to interfere?
+
+The second is level 29, 1 colossus, 3 sorrowsworn reapers, and 2 shadowraven
+swarms. Woe be unto those who trespass upon the fane of the Raven Queen.
+
+## Final Impressions
+
+I'm a fan of colossi, particularly of those whose shadow you can stand
+under. They make me wish D&D in general had more giant-climbing rules.

@@ -116,5 +116,5 @@ though, since that has the potential to stunlock the entire party. On the other
 hand, that was a real danger in the BECMI days too.
 
 The proposed encounter in the MV is level 7: two crawlers and three
-othyugs. Makes sense, since they could share an habitat but not compete for
+othyugs. Makes sense, since they could share an habitat and not compete for
 food.

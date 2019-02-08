@@ -6,7 +6,7 @@ tags:
     - lets-read
 ---
 
-Chimeras come from Greek mythology, where as far as I know it was just _the_
+Chimeras come from Greek mythology, where as far as I know it was just _The_
 Chimera. D&D likes to make unique monsters into whole species, and this is what
 happened here. I remember seeing them statted up for AD&D 2nd Edition in the
 past, and they're quite likely much older than that. Here, they're only on the
@@ -23,11 +23,11 @@ territory somewhere and roams the surrounding countriside looking for food to
 line its stomach and shiny treasure to line its lair. Sometimes other creatures
 will convince a chimera to work for them as muscle, guards, or mounts. They're
 Unaligned, but I guess a peaceful interaction with a chimera would be difficult
-unless you can convince it that eating or robbing you would be too hard.
+unless you can convince it you're not prey.
 
-This entry gives only one stat block, titled **Chimera**. It's a Level 15 Elite
-Brute with 366 HP. It has both all-around vision and darkvision, so it can hunt
-at night just fine and can't be flanked. It also has Resist 10 fire.
+A chimera is a Level 15 Elite Brute with 366 HP. It has both all-around vision
+and darkvision, so it can hunt at night just fine and can't be flanked. It also
+has Resist 10 fire.
 
 The chimera runs with speed 6, flies with speed 10 (clumsy), and has overland
 flight 15. Creatures with overland flight can fly at the listed speed outside of
@@ -46,9 +46,10 @@ hits. This is an encounter power, but when the chimera is bloodied it will
 immediately recharge its breath and use it again as a free action. In other
 words, it works exactly like the breath from a real dragon.
 
-The pictured chimera breathes and resists fire because has red dragon bits, but
-they come in all the colors of Tiamat. Just change the element: a black chimera
-would use and resist acid, a blue one lightning, and so on.
+The pictured chimera breathes and resists fire because it has red dragon bits,
+but they come in all the colors of Tiamat. Just change the element: a black
+chimera would use and resist acid, a blue one lightning, and so on.
 
 The suggested encounters are both level 15. The first is 2 chimeras and 2 hill
-giants, and the second a chimera, an azer taskmaster, and 6 azer minion warriors.
+giants, and the second a chimera, an azer taskmaster, and 6 azer minion
+warriors.

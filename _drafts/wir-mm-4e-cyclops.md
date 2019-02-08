@@ -1,0 +1,195 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Cyclops
+tags:
+    - dnd4
+    - lets-read
+---
+
+Both the Monster Manual and the Vault call them Cyclopses in the plural, but I'm
+going to use Cyclopes and there's nothing you can do about it.
+
+Cyclopes are drawn from Greek myth. The most famous individual there is
+Polyphemus, who tangles with Odysseus during his travels, but many others appear
+in other myths, where they are often regarded as proficient craftsmen. Depending
+on the story, these giants are either brothers to the Titans or demigods.
+
+## The Lore
+
+All the stuff in the intro is Greek myth, though. D&D cyclopes don't have divine
+blood, and in 4e they get a whole new backstory.
+
+Here, they're Large Fey Humanoids native to the Feywild. Some theorize they're
+an "echo" of the world's ogres, but if this is true they're the platonic ideal
+of their mundane counterparts in the same way the other fey monsters we saw
+before are. These giants have robust builds, grey or light purple skin and
+heavily ridged brows in addition to the infamous single large eye in the middle
+of their foreheads.
+
+Cyclops culture centers around loyalty and service. Once a cyclops has sworn
+fealty to a lord, they will obey all of the lord's orders regardless of how they
+might feel about them. Only if their lord betrays them will they forsake this
+service. The main reason PCs might come into conflict with cyclopes is because
+the vast majority of them collectively sworn to serve the fomorians, the _other_
+fey giants we'll get to eventually. For now it suffices to say fomorians are bad
+news all around. Fomorian magic is probably the reason why modern cyclopes are
+one-eyed and sometimes have gaze attacks.
+
+This swearing of allegiance happened at the dawn of time, and by now "cyclopes
+serve fomorians" is a truism akin to "water is wet". Should someone (like, say,
+a group of PCs) ever convince the cyclopes to abandon their masters, it will
+shake the pillars of the Feywild.
+
+Interestingly enough, cyclopes can also sometimes be found in cahoots with
+drow. Rumor has it that this is due to an ancient treaty between fomorians and
+drow called the "Declaration of Eschatos", though no one knows its specifics.
+
+Cyclopes also have a reputation for being master crafters that spans the
+planes. They prefer to spend lots of time and effort perfecting a single
+creation to doing any sort of mass production, so items of cyclops make are sure
+to be both rare and powerful.
+
+## The Numbers
+
+In addition to the staggering amount of lore above, both books provide us with a
+very large variery of cyclopes to work with. Enough that you could likely stock
+a whole dungeon with only cyclopes and their fomorian masters.
+
+### Common Cyclops Traits
+
+All cyclopes here are Large Fey Humanoids, Unaligned, and have Int scores
+between 10 and 14 (with the spellcasters getting the higher numbers). They're
+all trained in Perception and have Truesight, means they can see invisible
+creatures and objects. In the MM versions, the range of their truesight is
+limited to 6 squares; in the MV, it has the same range as their sight. They run
+with speed 8.
+
+They also all have an Evil Eye ability that's usually an at-will minor action,
+though the effects vary with the specific type of cyclops. Lets look at them
+individually.
+
+### Cyclops Guard
+
+This is a Level 14 Minion Brute, present in both books. The MV version is the
+only cyclops to not have Truesight - the MM version has Truesight 6 like the
+others in the same book.
+
+Being minions, they're rather simple: they have a battleaxe attack, and their
+evil eye is a triggered action that allows them to make a basic attack against
+someone who misses them in melee.
+
+The MM also has the Cyclops Warrior, which is exactly the same except
+level 16. A bit of a waste of page space, since leveling up monsters is so easy
+in 4e.
+
+Both minions wear hide armor, and carry battleaxes and shield.
+
+### Cyclops Crusher
+
+A Level 14 Brute with 171 HP present only in the MV. It wears scale and attacks
+with a spiked greatclub, and has a Tremor Smash that recharges on a 5-6, targets
+everyone in a close blast 2, and does a lot of damage and knocks prone on a hit.
+
+Its evil eye automatically gives a target a -2 penalty to all attacks and
+defenses until the cyclops uses the power again or until the end of the
+encounter, whichever comes first.
+
+### Cyclops Impaler
+
+Level 14 Artillery with 111 HP, present only in the MM. It wears leather and
+carries a sheaf of 12 spears on its back. The impaler attacks with those spears
+both in melee and at range, and has a Spear Volley power that recharges on a 6
+and allows it to make 2 more damaging spear attacks that also do ongoing damage.
+
+Its evil eye gives it +2 to ranged attacks against the currently cursed
+target. This is less effective than it seems because its basic spear toss
+doesn't have the usual accuracy bonus for artillery monsters, meaning the evil
+eye only brings it up to par. When fixing this for use at the table, you should
+give it the usual accuracy bonus to all ranged attacks and let the evil eye
+apply on top of that.
+
+### Cyclops Rambler
+
+The Level 14 Skirmisher variant with 141 HP, present in both books. The rambler
+wears mail and wields a greatsword.
+
+Its evil eye allows it to designate a target, and when adjacent to that target
+the rambler can shift one extra square. When it hits the target with an attack,
+it can use Feywild Alacrity (recharge 6) to immediately gain a free move.
+
+The Monster Manual version has a Mocking Eye aura 10, that gives all enemies
+inside a -5 penalty to target the rambler with opportunity attacks.
+
+The Monster Vault version trades this for Bounding Charge, an encounter power
+that does high damage, half in a miss, and allows the rambler to shift up to 3
+squares both before and after the attack.
+
+### Cyclops Hewer
+
+The Level 16 Soldier version, with 158 HP. It wears mail and fights with a
+battleaxe and a light shield. The main attraction here is the evil eye ability:
+if its target attacks anyone other than the hewer, it gets to make a free attack
+against them. And if the target moves away from the hewer, it can immediately
+shift 1 square closer to it.
+
+
+### Cyclops Battleweaver
+
+A Level 16 Skirmisher with 165 HP, present only in the monster manual. This one
+wears mail and wields a glaive. Its evil eye reduces the target's speed by 2,
+and it can sweep with the glaive at will in a close burst 2 that pushes anyone
+it hits 1 square and knocks them prone in addition to doing the same damage as a
+basic attack.
+
+Once per encounter, when the battleweaver suffers a "save ends" effect, it can
+immediately transfer that effect to the current target of its evil eye, which is
+a nice bit of unexpected nastiness.
+
+### Cyclops Storm Shaman
+
+Level 17 Artillery with 128 HP, the shaman wears leather and carries a
+staff. Its basic staff attack does a mix of physical and thunder damage; it has
+a basic ranged attack in the form of a Storm Orb that targets Reflex and does
+lightning and thunder damage.
+
+Its evil eye makes the target vulnerable (5) to both thunder and lightning
+damage. This helps both its melee and ranged attacks, though a vulnerable target
+hit by the Storm Orb will only take 5 extra damage and not 10, since the damage
+type is "thunder and lightning".
+
+Once per encounter it can place a Storm Burst, an area 2 within 10
+attack that creates a zone I imagine being a little angry storm cloud. Enemies
+starting their turns in the zone are zapped for lightning damage, and the rain
+automatically douses uncovered flames and ends ongoing fire damage.
+
+Finally, as an encounter minor action, the storm shaman can gain a flight speed
+of 8 for a turn. If it hasn't landed when the flight ends, it will crash.
+
+## Encounters
+
+The Monster Manual suggests a whopping 4 encounters involving cyclopes. The most
+common scenario is a fomorian accompanied by a cyclops security detail, but
+there are some surprises here.
+
+- Level 12: 4 cyclops guards, 2 drow warriors, 1 drow blademaster. The
+  Declaration of Eschatos in action.
+
+- Level 17: 2 cyclops battleweavers, 2 thunderfury boars, 1 fomorian warrior. I
+  can picture the cyclopes opening cage doors to release the ~~hounds~~ boars.
+
+- Level 17: 1 cyclops storm shaman, 2 battleweavers and 1 chimera. Could these
+  be independent, or do the fomorians trust the shaman to go on away missions?
+
+- Level 17: 2 cyclops hewers, 2 cyclops impalers, 1 fomorian painbringer.
+
+## Final Impressions
+
+I really like the fey-tinged fluff for cyclops here, and their ties to
+fomorians. It appears the authors have also managed to keep enough references to
+the Greek myths to keep things flavorful (the cyclopes-as-master-crafters
+thing).
+
+Cyclopes feel to me like honorable and sympathetic foes the party will see
+itself forced to fight in order to get at their evil masters. A fomorian-focused
+adventure pretty much _has_ to include a way for the party to turn the cyclopes
+against the fomorians.
