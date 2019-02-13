@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Manual & Vault: Balhannoth"
+image: /assets/wir-mm-4e-balhannoth.jpg
 tags:
     - dnd4
     - wir
@@ -8,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-mm-4e-balhannoth.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm-4e-balhannoth.jpg" | absolute_url }}"/>
   <figcaption>
     This picture is from 3.5! Copyright 2006 Wizards of the Coast.
   </figcaption>

@@ -42,8 +42,8 @@ those of the mundane crocodile.
 
 This crocodile's jaws don't inflict automatic damage on grabbed targets, but
 instead make an attack against Fortitude with half damage on a miss. Fixing the
-damage bugs on this one would also involve dropping the attack and making this
-damage automatic.
+damage bugs on this one would also involve dropping the attack roll and making
+this damage automatic.
 
 ## Feymire Crocodile
 

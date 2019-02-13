@@ -27,13 +27,19 @@ mentioned above, as well as how to fix it for older monsters.
 
 After this, we get right on the monsters:
 
-- [Aboleth][2]: Fishy masterminds!
-- [More aboleths][3]: Someone on RPG.net asked me to review the aboleths from an
-  issue of Dungeon, and I obliged.
-- [Abomination][4]: A grab-bag of epic horrors from the edge of time.
-- [Angel][5]: Messengers of the gods (be they good or evil).
-- [Archons][6]: Soldiers of the primordials.
-- [Azer][7]: Dwarves on fire.
+
+- A
+  - [Aboleth][2]: Fishy masterminds!
+  - [More aboleths][3]: Someone on RPG.net asked me to review the aboleths from an
+    issue of Dungeon, and I
+  - [Abomination][4]: A grab-bag of epic horrors from the edge of time.
+  - [Angel][5]: Messengers of the gods (be they good or evil).
+  - [Archons][6]: Soldiers of the primordials.
+  - [Azer][7]: Dwarves on fire.
+
+- B
+
+  - [Balhannoth][8]: Ninja slugs of the Underdark.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -42,3 +48,4 @@ After this, we get right on the monsters:
 [5]: {{ "/2019/01/21/angel.html" | relative_url }}
 [6]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}
 [7]: {{ "/2019/02/08/azer.html" | relative_url }}
+[8]: {{ "/2019/02/13/balhannoth.html" | relative_url }}
