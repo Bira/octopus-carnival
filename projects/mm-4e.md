@@ -40,6 +40,7 @@ After this, we get right on the monsters:
 - B
 
   - [Balhannoth][8]: Ninja slugs of the Underdark.
+  - [Banshrae][9]: Kung-fu mantid fey.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -49,3 +50,4 @@ After this, we get right on the monsters:
 [6]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}
 [7]: {{ "/2019/02/08/azer.html" | relative_url }}
 [8]: {{ "/2019/02/13/balhannoth.html" | relative_url }}
+[9]: {{ "/2019/02/27/banshrae.html" | relative_url }}
