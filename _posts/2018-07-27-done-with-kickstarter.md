@@ -15,7 +15,7 @@ bank and/or credit card operator that I was myself and that I did indeed want my
 card unblocked and that transaction completed, I'm finally an official backer of
 the [Hall of Judgment campaign][1] and have the preview PDF on hand.
 
-Now, the thing with all the blocked card was a first for me[^1], but the rest
+Now, the thing with all the blocked cards was a first for me[^1], but the rest
 has been pretty much par of the course every single time I backed a KS
 project. It seems like either my bank (Banco do Brasil) or VISA _really_ hate
 the way KS charges Brazilian cards. It always gets flagged as a security

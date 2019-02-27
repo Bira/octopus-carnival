@@ -54,7 +54,7 @@ add a suite of thematic powers. You can technically add two templates together
 to make a Solo as well, with a few modifications to the process.
 
 The detailed rules for adding HP and defenses from the template to a monster are
-a bit awkward. In practice, you're better oiff making an Elite or Solo monster
+a bit awkward. In practice, you're better off making an Elite or Solo monster
 from scratch with the traits from the templates you want. We get two example
 Death Knights here, both of which have MM and MV versions.
 
@@ -76,15 +76,15 @@ It attacks with its Soulsword, which in the MM does a mix of physical and
 necrotic damage plus extra necrotic damage on a hit. In the MV, it does a whole
 bunch of necrotic damage and marks the target for a turn even on a miss.
 
-It can also use the sword to perform a Containing strike, which is like the
+It can also use the sword to perform a Containing Strike, which is like the
 basic attack above but allows the knight to make a free attack against the
 target if they try to shift until the end of the next turn. The MM version is
 single-target, the MV version can target 1 or 2 creatures, making this the
 monster's basic Elite multiattack ability.
 
 Oncer per encounter it can use Warrior's Challenge, which I believe is a Fighter
-power. It does encounter-level damage, pushes the target 2 squares, and marks
-every enemy within 2 squares of the target at the end of the push.
+power. It does encounter-power-level damage, pushes the target 2 squares, and
+marks every enemy within 2 squares of the target at the end of the push.
 
 Finally, on a recharge 5-6, it can unleash Unholy Flames in a Close Burst 2,
 which does a heap of necrotic damage to enemies and gives 2d6 extra fire damage
@@ -97,8 +97,8 @@ The Death Knight can punish marked targets like a fighter.
 
 The MV version has one other triggered action: Implacable, which lets it make an
 immediate save against being marked, slowed, dazed, immobilized, or
-stunned. This means all of those effects have only a 40% chance of landing in
-the first place unless the party can try to apply them multiple times in a turn.
+stunned. This means all of those effects have only a 40% chance of actually
+landing unless the party can try to apply them multiple times in a turn.
 
 This monster works really well as the commander of an undead unit, and the
 suggested encounter features just that: Level 16, a death knight, 2 abyssal
@@ -161,10 +161,10 @@ Manual entry, which is level 24 and has it accompanied by a fell wyvern, a great
 flameskull and a bunch of abyssal ghoul minions. It's something you can expect
 when raiding Orcus's neighborhood in the Abyss.
 
-Wow, I can see why they fixed the paladin's mark in Divine Power, and why they
+I can see why they fixed the paladin's mark in Divine Power, and why they
 dropped much of the fiddly bits for adding templates. Not having any multiattack
 ability makes it a little less effective than an elite monster of its level
-should be. The lack of Implacable is also keenly felt. This is is a bit
+should be. The lack of Implacable is also keenly felt. This is a bit
 disappointing since we're probably looking at someone who had a direct hand in
 the fall of Arkhosia.
 

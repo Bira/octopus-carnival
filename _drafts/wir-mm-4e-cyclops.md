@@ -16,7 +16,7 @@ on the story, these giants are either brothers to the Titans or demigods.
 
 ## The Lore
 
-All the stuff in the intro is Greek myth, though. D&D cyclopes don't have divine
+All that stuff above is Greek myth, though. D&D cyclopes don't have divine
 blood, and in 4e they get a whole new backstory.
 
 Here, they're Large Fey Humanoids native to the Feywild. Some theorize they're
@@ -78,11 +78,11 @@ Being minions, they're rather simple: they have a battleaxe attack, and their
 evil eye is a triggered action that allows them to make a basic attack against
 someone who misses them in melee.
 
-The MM also has the Cyclops Warrior, which is exactly the same except
+The MM also has the Cyclops Warrior, which is identical aside from being
 level 16. A bit of a waste of page space, since leveling up monsters is so easy
 in 4e.
 
-Both minions wear hide armor, and carry battleaxes and shield.
+Both minions wear hide armor, and carry battleaxes and shields.
 
 ### Cyclops Crusher
 
@@ -126,11 +126,11 @@ squares both before and after the attack.
 
 ### Cyclops Hewer
 
-The Level 16 Soldier version, with 158 HP. It wears mail and fights with a
-battleaxe and a light shield. The main attraction here is the evil eye ability:
-if its target attacks anyone other than the hewer, it gets to make a free attack
-against them. And if the target moves away from the hewer, it can immediately
-shift 1 square closer to it.
+The Level 16 Soldier version, with 158 HP, from both books. It wears mail and
+fights with a battleaxe and a light shield. The main attraction here is the evil
+eye ability: if its target attacks anyone other than the hewer, it gets to make
+a free attack against them. And if the target moves away from the hewer, it can
+immediately shift 1 square closer to it.
 
 
 ### Cyclops Battleweaver
@@ -147,10 +147,10 @@ a nice bit of unexpected nastiness.
 
 ### Cyclops Storm Shaman
 
-Level 17 Artillery with 128 HP, the shaman wears leather and carries a
-staff. Its basic staff attack does a mix of physical and thunder damage; it has
-a basic ranged attack in the form of a Storm Orb that targets Reflex and does
-lightning and thunder damage.
+Level 17 Artillery with 128 HP, from the MM only. The shaman wears leather and
+carries a staff. Its basic staff attack does a mix of physical and thunder
+damage; it has a basic ranged attack in the form of a Storm Orb that targets
+Reflex and does lightning and thunder damage.
 
 Its evil eye makes the target vulnerable (5) to both thunder and lightning
 damage. This helps both its melee and ranged attacks, though a vulnerable target

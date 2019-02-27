@@ -7,11 +7,11 @@ tags:
 ---
 
 Dark Ones are small humanoids from the Shadowfell, echoing the world's halflings
-in the same way Shadar-Kai echo its humans. They're halfling-sized with purplish
-skin, pronounced noses, pupiless eyes and sharp teeth. I think the one pictured
-in the book also has hooves and is wearing boots over them, which is somewhere
-between cute and funny. Overall, though, the Shadowfell aesthetic is definitely
-there.
+in the same way Shadar-Kai (which we'll eventually get to) echo its
+humans. They're halfling-sized with purplish skin, pronounced noses, pupiless
+eyes and sharp teeth. I think the one pictured in the book also has hooves and
+is wearing boots over them, which is somewhere between cute and funny. Overall,
+though, the Shadowfell aesthetic is definitely there.
 
 Since they're Unaligned, I imagine there are entire communities of Dark One
 civilians out there leading peaceful existences alongside Shadar-Kai villagers

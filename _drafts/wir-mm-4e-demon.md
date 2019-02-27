@@ -67,4 +67,10 @@ Seed of Evil has corrupted her as much as it did Tharizdun.
 
 Demon Prince-level baddies get their own separate entries: the Demon entry is
 for the non-unique monsters beneath them, which can still be quite badass
-themselves. The next few posts will cover
+themselves. The next few posts will cover these.
+
+The Monster Vault has several demons that don't show up in the Monster
+Manual. That's because these particular demons show up in the Monster Manual 2
+and 3! They are: the abyssal eviscerator, the babau and the dretch. Since they
+_do_ show up on the Monster Vault, I'll talk about them using information from
+those later Manuals after I'm done with the MM demons.
