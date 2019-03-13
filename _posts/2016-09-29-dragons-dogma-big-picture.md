@@ -179,7 +179,7 @@ original game, this definitely sounds like a job for Dungeon Fantasy! That line
 will provide an excellent starting base, and only a little additional
 customization should be required to cover the elements unique to Dragon's Dogma.
 
-What would thes elements be? The first one is that it goes a bit beyond the
+What would these elements be? The first one is that it goes a bit beyond the
 default DF assumption that "town" is an abstract place to buy stuff between
 dungeon raids. "Town" is a concrete place, what goes on there is important, and
 can be an adventure in itself.
