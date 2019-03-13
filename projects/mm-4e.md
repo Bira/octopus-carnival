@@ -41,6 +41,7 @@ After this, we get right on the monsters:
 
   - [Balhannoth][8]: Ninja slugs of the Underdark.
   - [Banshrae][9]: Kung-fu mantid fey.
+  - [Basilisk][10]: Lizards with a stony gaze.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -51,3 +52,4 @@ After this, we get right on the monsters:
 [7]: {{ "/2019/02/08/azer.html" | relative_url }}
 [8]: {{ "/2019/02/13/balhannoth.html" | relative_url }}
 [9]: {{ "/2019/02/27/banshrae.html" | relative_url }}
+[10]: {{ "/2019/03/13/basilisk.html" | relative_url }}
