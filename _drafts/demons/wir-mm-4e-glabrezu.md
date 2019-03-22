@@ -1,0 +1,77 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Glabrezu"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Fourth Edition demons are not at all fond of subtlety or complicated schemes,
+but that doesn't mean they're _stupid_. I mean, it very often does, but not
+always. Take the glabrezu, for example: it has Int 24, making it by far the
+smartest demon we've yet seen. It's present only on the Monster Manual.
+
+Glabrezus are Huge Elemental Humanoids (demons), which might be yet another
+example of mistyping because they're less humanoid than evistros, and _those_
+are magical beasts. They have digitigrade chicken legs, fanged goat heads with
+no lips, hides that menace with spikes, and four arms: two humanoid and
+human-sized ones growing out of their ribs, and two huge crab claws growing out
+of the usual shoulder positions.
+
+These physical features make it seem like they'd be pretty powerful physical
+combatants, and well, they are. But they're also some of demonkind's premier
+spellcasters. Their combat tactics aren't what you're expect of a wizard, since
+they charge right into the fray instead of staying behind a line of guards.
+
+Being smarter than the average demon, a glabrezu is partial to slightly more
+complex strategies for spreading chaos and destruction. The book says it sows
+discord among its own allies, and goads them to ever-greater acts of depravity
+and violence. That doesn't sound very different from what other demons do, so
+I'm guessing the noteworthy thing here is that it will do this to whatever group
+_summons_ it.
+
+Other demons would just resentfully growl at their binders and strain to break
+free, but a glabrezu will act like he's enjoying the opportunity to work with
+such distinguished masters while spreading ugly rumors among their underlings
+and posting fake news on Facebook. As long as it all ends in flames and tears,
+they'll have fun.
+
+Mechanically, Glabrezus are Level 23 Elite Brutes with 520 HP. They're trained
+in Perception, Arcana, Bluff and Intimidate, and probably know quite a few
+rituals for use out of combat. They have variable resistance 20, and can switch
+it up 3 times per encounter. Their land and fly speed are both 8.
+
+Being an epic-level MM1 monster, all of their attacks suffer heavily from the
+damage bug and require fixing. The basic attack is a pincer claw that has Reach
+3 (standard for a Huge monster). The demon can make two such attacks per turn,
+and if both hit the same target they automatically grab it. No other powers
+specifically target a grabbed victim, but the grab does ensure they're always in
+the area of effect for the demon's spells. There's three of them and they're all
+minor actions:
+
+Abyssal Bolt is an at-will ranged attack with range 10, targeting Reflex and
+doing untyped damage. It's Plan B, basically: when the glabrezu is bloodied it
+will retreat behind its minions and rain abyssal bolts down on the party.
+
+Blasphemous Word is an encounter power that targets enemies in a close burst 5.
+It attacks Will, does psychic damage, and dazes for a turn.
+
+Word of Chaos is another selective Close Burst 5, but it recharges on a 6. It
+targets Fortitude and does untyped damage that bypasses all resistances. That
+last bit is unlikely to come up since very few things give characters resistance
+to untyped damage, but it will be useful if the PCs do have access to those
+things. And hey, it's minor-action area damage!
+
+When the Glabrezu is first bloodied, it will use Arcane Fury: this triggered
+free action allows it to teleport up to 8 squares, recharge Blasphemous Word and
+Word of Chaos, and use either one of them or an Abyssal Bolt immediately.
+
+The suggested encounter is level 23: one glabrezu, 1 earthwind ravager elemental
+and two blood fiends. So blood fiends _do_ associate with demons! That's another
+strong argument for making them demon vampires again instead of abominations.
+
+## Final Impressions
+
+I'm going to be honest, I have trouble telling glabrezus, evistros and goristros
+apart just from the names, but these demons are actually kinda cool. You don't
+always see a Brute spellcaster.

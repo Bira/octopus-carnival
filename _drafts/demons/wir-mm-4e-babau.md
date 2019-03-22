@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Babau"
+tags:
+    - dnd4
+    - lets-read
+---
+
+In fourth edition, the Babau first appears on the Monster Manual 3. We're
+viewing them ahead of time because they also appear on the Monster Vault.
+
+## The Lore
+
+The general thrust of demons in 4e is that they're not fond of complex schemes,
+which are more of a devil thing. Babaus are one of the exceptions to that
+rule. You see, there's this demon lord called Graz'zt who didn't use to be a
+primordial like the other demon lords. Instead, he was an archdevil who got it
+into his mind to invade the Abyss. Why did he do that? I don't know. The lore in
+the MM3 mentions the Blood War, but I didn't think that was still a thing in
+this edition. Maybe it's a vestige of his backstory from Planescape, or maybe
+the Blood war has a different explanation for its existence here.
+
+Anyway, shortly after getting to the Abyss, Graz'zt was corrupted by the seed of
+evil and decided to stay around and become a demon lord. His daughter Glasya was
+not pleased by that. She went after him and ran him through with her sword. When
+the drops of blood from that wound hit the ground of the Abyss, they became
+babaus, and their number was so great they drove Glasya back to the
+Hells, and their continued presence helped build Graz'zt's power base and make
+his claim to demon lordship stick.
+
+Being the spawn of Graz'zt, babaus are extraordinarily subtle and cunning for
+demons. This means they like to kidnap people to torture later instead of
+killing them all right away. They can be found working alongside other demons,
+even though they're even less trusted than usual due to their continuing loyalty
+to their creator.
+
+They look like skeletally thin humanoids with dark gray skin coated in slime, a
+spine-like tail, and a weird horn that looks like a scorpion stinger growing out
+of the back of their heads. All of this in addition to the usual demonic claws
+and fangs.
+
+## The Numbers
+
+Since the babau is from the Monster Manual 3, its stats are identical in that
+book and in the Monster Vault. It's a Medium Elemental Humanoid (demon), and a
+Level 13 Skirmisher with 127 HP. They run with Speed 7.
+
+The babau has acid resistance 5, plus variable resistance 20 usable
+2/encounter. It's coated in acidic slime that deals 5 acid damage to anyone who
+attacks it with a melee attack.
+
+This demon has two basic attacks, a bite and a claw. It can only use one of them
+per standard action, unless the target is granting combat advantage. Then it can
+use both. Each attack only does about half the level-appropriate damage for a
+skirmisher by itself, so the babau should really strive to gain combat advantage
+when fighting. The bite also does 5 ongoing acid damage, or 10 if the demon is
+bloodied.
+
+As a minor action, the babau can perform a Murderous Abduction. This teleports
+an adjacent creature up to 7 squares and then immediately teleports the babau
+next to it. The victim grants combat advantage to the babau for a turn. This
+recharges whenever the babau drops someone to 0 HP. I'm guessing it reserves the
+power for then a PC is close to dropping.
+
+## Final Impressions
+
+I'm gonna have to go with "meh" on this one. I'm not a fan of Graz'zt. Pretty
+suave manipulator types irritate me, mainly because they're usually declared
+off-limits by metaplot. Plus he ruins the nice thematic divide between demons
+and devils. Did they ever publish stats for this guy, or an adventure where the
+PCs can kill him?
+
+As for the babaus themselves, they seem a bit too hard to use properly, since
+they absolutely must gain combat advantage to do level-appropriate damage with
+their attacks. The abduction power makes it seem that they'd be best employed in
+terrain with obstacles that are hard to overcome without teleportation, but then
+they can't teleport back even if they drop the abducted PC. And if the PC
+doesn't fall on that first turn, then the demon is now stranded far from its own
+allies and together with an angry PC.

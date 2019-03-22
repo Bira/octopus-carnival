@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Vrock"
+tags:
+    - dnd4
+    - lets-read
+---
+
+
+Vrocks have been in D&D for a long time now. They look like humanoid buzzards,
+covered in dirty feathers and the occasional spike. A pair of functional wings
+sprouts from their back, and they have lizard tails. They're on both the MM and
+the MV.
+
+## The Lore
+
+Vrocks have Int 12 but that doesn't see to do them any good. Vrocks are famously
+disloyal even among demons, betraying their current master as soon as someone
+they see as stronger comes around. They'll also frequently plot to overthrow
+their superiors, though those schemes rarely amount to anything. In other words,
+Vrocks behave just like Starscream! I can totally see a band of them pledging
+loyalty to the PCs during an adventure, pinky-swearing they'll turn good, and
+backstabbing them in the worst possible moment.
+
+Aside from plotting and backstabbing, vrocks like to engage in wholesome demonic
+pasttimes such as tearing people to pieces while laughing maniacally.
+
+## The Numbers
+
+The MM Vrock is a Large Elemental Humanoid (demon), and a Level 13 Skirmisher
+with 132 HP. It has darkvision and variable resistance 10 (2/encounter). It
+flies with speed 8 and moves on land at speed 6.
+
+Its basic attack is a Reach 2 claw, and they can make a Flyby Attack where they
+fly their speed and make a claw attack at any point along the way. This doesn't
+provoke opportunity attacks from the target of the claw.
+
+They can also let loose a Stunning Screech that recharges on a 6, targets the
+Fortitude of everyone on a Close Burst 3 and stuns affected targets for a
+turn. This is not a selective attack, so the vrock's allies can potentially be
+affected by it!
+
+When first bloodied, the vrock emits a cloud of Spores of Madness in a Close
+Burst 2. This targets the Will of any non-demons in the area, does poison
+damage, and dazes (save ends). So I guess this is what they have instead of
+blood?
+
+The MV Vrock loses its Stunning Screech and has fixed damage math, but is
+otherwise identical.
+
+## Final Impressions
+
+I thought I was in for another bland rage machine, but what I got was Vulture
+Starscream! They're nifty.

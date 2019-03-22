@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Immolith"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Every time you kill a demon, its soul is sent screaming back to the Abyss. In
+time, it reincarnates as a new demon. However, sometimes the process goes wrong,
+and a bunch of demon souls bump into each other on the way to the Abyss and fuse
+into a big clump. This katamari of evil can't reincarnate properly, and instead
+rises as an undead demon. And this is how immoliths are made!
+
+Immoliths look like pillars of fire topped by a demonic skull. Many different
+skeletal limbs emerge from their flames, likely belonging to the original demons
+that make it up. As undead demons, their hate of the living is double-plus-big,
+and they're as likely to be found alongside powerful undead like liches and
+vampires as they are with other demons. They're only statted up in the Monster
+Manual.
+
+Immoliths are Large Elemental Magical Beasts (demon, fire, undead), and Level 15
+Controllers with 153 HP and defenses a point or two lower than what you'd
+expect. Interestingly, they lack darkvision, but I imagine that's not needed
+when you're walking bonfire.
+
+Immoliths are immune to fire, disease and poison. They have Variable Resistance
+15 (switchable once per encounter), and Radiant Vulnerability 10. The intense
+heat emanating from their bodies works as an Aura 1 that deals 10 fire damage to
+anyone starting their turns within it.
+
+Their basic attack is a Reach 4 claw that does both immediate and ongoing fire
+damage. Instead of that they can use a Fiery Grab against Large or smaller
+targets. This combines the claw attack with a grab that pulls the victim
+adjacent to the immolith (and into its aura). The demon can grab up to five
+creatures this way, and while they're grabbed they lose any resistance they have
+to fire. Did you think you were safe just because you were a tiefling, fire
+genasi or fire sorcerer?
+
+As a minor action, the immolith can inflict a Deathfire Curse on someone as a
+Ranged 10 attack that targets Will. On a hit the target is slowed (save ends),
+and after they save from that they'll take ongoing 5 fire damage (save ends).
+
+Also as a minor action, though only once per round, it can restore 5 HP to all
+undead in a Close Burst 5, including itself.
+
+It's not inconceivable that one of these could have the entire party grabbed and
+taking ongoing fire damage from their aura. People who try to run would be
+slowed by the Deathfire Curse, and likely by the immolith's buddies.
+
+The sample encounter is level 14: one immolith, 2 vrocks, 4 mezzodemons, and 6
+horde ghouls. Since it appears both mezzodemons and vrocks have means to limit a
+character's mobility, my analysis above checks out.

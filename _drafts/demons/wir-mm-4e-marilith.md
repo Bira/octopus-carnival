@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Marilith"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I think I've finally figured out what distinguishes a humanoid from a magical
+beast in 4e. Does it have hands? If it does it's a humanoid, if it doesn't it's
+a magical beast.
+
+That's the only explanation that makes sense for why a Marilith is a Large
+Elemental _Humanoid_ (demon), despite being a six-armed lady with the lower body
+of a snake. With succubi having become devils (more on that later), mariliths
+have the distinction of being the most human-looking of demons. Some people even
+find them sexy. Yes, I'm talking about you, you Monster Musume fan.
+
+These demons have been a part of the game for a long time, and are iconic enough
+to exist both in the Monster Manual and on the Monster Vault. The two versions
+are mostly identical, but we'll still look at them separately here.
+
+Mariliths are among some of the most intelligent demons at Int 14, losing only
+to the Glabrezu in that field. Their appetite for destruction takes on a more
+refined shape than usual: they are obsessed with martial skill, so they look for
+tough opponents to fight and tend to take their gear as trophies. They store
+these trophies in secret stashes on the Abyss or in the world, presumably to
+prevent other demons from stealing them. It seems to me that looting such a
+stash is a sure way to incur their wrath, which makes it a nice hook. Yuan-Ti
+who turn to demonology are big fans of mariliths.
+
+Mariliths are usually armed with six swords, one for each hand, though you could
+mix and match the weapons if you wanted. In previous editions the weapons would
+sometimes take a backseat to their many spell-like abilities, but here they are
+definitely the main event.
+
+Both versions of the Marilith are Level 24 Elite Skirmishers: they're pretty
+high up in the demonic hierarchy, such as it is. Their skill list backs this up:
+they're trained in Perception, Bluff, Insight, Intimidate, and Stealth. Yes,
+mariliths can socialize if they feel the need. Their descriptions in other
+editions tend to describe them as excellent tactitians and commanders, and this
+definitely fits this incarnation as well.
+
+## Marilith (Monster Manual)
+
+The MM Marilith has 440 HP, Darkvision, and Variable Resistance 20 (switchable
+3x/encounter). They move at Speed 8.
+
+Their basic attack is a scimitar, which is quite weak due to the math bug but
+has the High Critical property. Their most commonly used attack is Shroud of
+Steel, which allows them to make two scimitar attacks and use the other weapons
+to parry, granting itself a +4 bonus to AC for a turn.
+
+Whenever an adjacent enemy misses the marilith with a melee attack, it can make
+a free scimitar attack against then. And twice per encounter (once at the start,
+once after being bloodied) they can perform the Weapon Dance, which allows them
+to make six scimitar attacks, shifting 1 square between each one.
+
+## Marilith (MV)
+
+As stated earlier, the MV Marilith is very similar to the MM one. It has 436 HP
+instead of 440 and slightly different defenses, but retains the extensive skill
+list.
+
+The main changes are in its attacks. The damage on the basic scimitar attack has
+been fixed, but it no longer has High Critical. Shroud of Steel now gives it a
++6 to AC. It is otherwise identical.
+
+## Tactics and Encounters
+
+Fighting a Marilith is much like fighting a blender. Ranged attacks are much
+safer than melee combat against them, but they're fast, smart and will have
+backup from other demons when encountered. You could give it some out-of-combat
+rituals or abilities that allow it to prepare the terrain in advance, adding
+obscuring or blocking features that limit the PC's ability to stay away and
+attack it from range. Or perhaps it just chooses a battlefield that already has
+all of that and baits the PCs into it.
+
+The sample encounter in the MM is level 23, a marilith and four hezrou. The toad
+goons are just the thing to keep the fighters occupied while their boss slithers
+towards the squishies.
