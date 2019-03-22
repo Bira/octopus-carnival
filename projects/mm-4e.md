@@ -42,6 +42,7 @@ After this, we get right on the monsters:
   - [Balhannoth][8]: Ninja slugs of the Underdark.
   - [Banshrae][9]: Kung-fu mantid fey.
   - [Basilisk][10]: Lizards with a stony gaze.
+  - [Bat][11]: What you find when you go into bat country.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -53,3 +54,4 @@ After this, we get right on the monsters:
 [8]: {{ "/2019/02/13/balhannoth.html" | relative_url }}
 [9]: {{ "/2019/02/27/banshrae.html" | relative_url }}
 [10]: {{ "/2019/03/13/basilisk.html" | relative_url }}
+[11]: {{ "/2019/03/20/bat.html" | relative_url }}
