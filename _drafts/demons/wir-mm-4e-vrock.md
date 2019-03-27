@@ -20,7 +20,9 @@ they see as stronger comes around. They'll also frequently plot to overthrow
 their superiors, though those schemes rarely amount to anything. In other words,
 Vrocks behave just like Starscream! I can totally see a band of them pledging
 loyalty to the PCs during an adventure, pinky-swearing they'll turn good, and
-backstabbing them in the worst possible moment.
+backstabbing them in the worst possible moment. The PCs ḱnow it's coming, and
+the vrocks know the PCs know. How far can the PCs take this alliance before it
+falls apart?
 
 Aside from plotting and backstabbing, vrocks like to engage in wholesome demonic
 pasttimes such as tearing people to pieces while laughing maniacally.
@@ -51,4 +53,7 @@ otherwise identical.
 ## Final Impressions
 
 I thought I was in for another bland rage machine, but what I got was Vulture
-Starscream! They're nifty.
+Starscream! They're nifty. I'm a bit divided on the removal of the Stunning
+Screech in the MV update. On the one hand stuns are rough, and non-selective
+area attacks are a pain for your teammates. On the other hand it captures the
+vrock's Chronic Backstabbing Syndrome so well!
