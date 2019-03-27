@@ -36,7 +36,11 @@ This is an ongoing project. These are the posts that comprise it:
       potentially useful ally. Not much meat here, but you have to start
       somewhere.
     - [Part 2: Trouble in Old Kintargo][8] has some layout issues, but presents
-      three interesting missions that further the cause of the Silver Ravens.
+      three interesting missions that further the cause of the Silver Ravens. It
+      has this huge dungeon at the end, and I had to resort to multiple posts to
+      cover it. The first part is here.
+      - [Part 2, Part 2: Haunted Opium Den][9] covers the second half of the
+        first level of the dungeon.
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
@@ -46,3 +50,4 @@ This is an ongoing project. These are the posts that comprise it:
 [6]: {{ "/2017/06/21/hells-rebels-adventure-1-part-3.html" | relative_url }}
 [7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
 [8]: {{ "/2018/11/07/hells-rebels-2-part-2.html" | relative_url }}
+[9]: {{ "/2019/03/27/hells-rebels.html" | relative_url }}
