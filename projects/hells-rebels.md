@@ -38,7 +38,9 @@ This is an ongoing project. These are the posts that comprise it:
     - [Part 2: Trouble in Old Kintargo][8] has some layout issues, but presents
       three interesting missions that further the cause of the Silver Ravens. It
       has this huge dungeon at the end, and I had to resort to multiple posts to
-      cover it. The first part is here.
+      cover it.
+      - [Part 2, Part 1: The Lucky Bones][10] covers the first half of the first
+        level of the dungeon.
       - [Part 2, Part 2: Haunted Opium Den][9] covers the second half of the
         first level of the dungeon.
 
@@ -51,3 +53,4 @@ This is an ongoing project. These are the posts that comprise it:
 [7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
 [8]: {{ "/2018/11/07/hells-rebels-2-part-2.html" | relative_url }}
 [9]: {{ "/2019/03/27/hells-rebels.html" | relative_url }}
+[10]: {{ "/2019/01/28/hells-rebels-part-2-part-3-part-1.html" | relative_url }}
