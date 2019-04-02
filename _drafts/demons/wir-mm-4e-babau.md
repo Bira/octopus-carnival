@@ -13,7 +13,7 @@ viewing them ahead of time because they also appear on the Monster Vault.
 
 The general thrust of demons in 4e is that they're not fond of complex schemes,
 which are more of a devil thing. Babaus are one of the exceptions to that
-rule. You see, there's this demon lord called Graz'zt who didn't use to be a
+rule. You see, there's this demon lord called Graz'zt who is not a former
 primordial like the other demon lords. Instead, he was an archdevil who got it
 into his mind to invade the Abyss. Why did he do that? I don't know. The lore in
 the MM3 mentions the Blood War, but I didn't think that was still a thing in
@@ -21,12 +21,12 @@ this edition. Maybe it's a vestige of his backstory from Planescape, or maybe
 the Blood war has a different explanation for its existence here.
 
 Anyway, shortly after getting to the Abyss, Graz'zt was corrupted by the seed of
-evil and decided to stay around and become a demon lord. His daughter Glasya was
-not pleased by that. She went after him and ran him through with her sword. When
-the drops of blood from that wound hit the ground of the Abyss, they became
-babaus, and their number was so great they drove Glasya back to the
-Hells, and their continued presence helped build Graz'zt's power base and make
-his claim to demon lordship stick.
+evil and decided to stay around and become a demon lord. Glasya, another
+archdevil and daughter of Asmodeus, was not pleased by that. She went after him
+and ran him through with her sword. When the drops of blood from that wound hit
+the ground of the Abyss, they became babaus, and their number was so great they
+drove Glasya back to the Hells, and their continued presence helped build
+Graz'zt's power base and make his claim to demon lordship stick.
 
 Being the spawn of Graz'zt, babaus are extraordinarily subtle and cunning for
 demons. This means they like to kidnap people to torture later instead of
@@ -64,11 +64,10 @@ power for then a PC is close to dropping.
 
 ## Final Impressions
 
-I'm gonna have to go with "meh" on this one. I'm not a fan of Graz'zt. Pretty
-suave manipulator types irritate me, mainly because they're usually declared
-off-limits by metaplot. Plus he ruins the nice thematic divide between demons
-and devils. Did they ever publish stats for this guy, or an adventure where the
-PCs can kill him?
+I'm gonna have to go with "meh" on this one. Their backstory feels kinda
+shoehorned in. They somehow brought back the Blood War and Graz'zt, something
+which I feel was completely unnecessary. I was never a fan of pretty manipulator
+types protected by metaplot.
 
 As for the babaus themselves, they seem a bit too hard to use properly, since
 they absolutely must gain combat advantage to do level-appropriate damage with
