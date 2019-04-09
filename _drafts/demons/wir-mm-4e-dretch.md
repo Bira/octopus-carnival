@@ -6,7 +6,7 @@ tags:
     - lets-read
 ---
 
-Dretches are the pond scum of the abyss. The name "dretch" is likely a
+Dretches are the pond scum of the Abyss. The name "dretch" is likely a
 contraction of "demon wretch", because these things are weak, stupid and
 stinky. Everyone bullies them back home, and more powerful demons love throwing
 hordes of dretches at new opposition both to gauge their abilities and to enjoy

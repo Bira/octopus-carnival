@@ -13,7 +13,7 @@ appear only on the MM.
 
 ## The Lore
 
-Destrachans are sapient predators, roaming dungeons and other underground
+Destrachans are blind sapient predators, roaming dungeons and other underground
 locations guided by their non-visual senses. When they find something they think
 they can eat, they kill it dead using bone-shattering bursts of sound. They can
 learn to mimic sounds they hear often, and will use those to help disguise their
@@ -68,4 +68,5 @@ monster team.
 Destrachans are another of those weird monsters who kinda come out of left
 field, but I think their 4e versions at least have a clear mechanical
 role. Their propensity to ally with other creatures gives you an excellent
-excuse to add some convenient ranged support to monster teams that lack it.
+excuse to add some convenient ranged support to monster teams that would
+otherwise lack it.

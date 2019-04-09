@@ -21,9 +21,9 @@ Manual.
 ## The Numbers
 
 Bone Devils are Large Immortal Humanoids (devils), and Level 17 Controllers
-(leaders). They're trained in Perception, have darkvision and move at
-Speed 8. They also have a teleport move of 8, so you'll rarely see them walk
-anywhere in combat.
+(leaders). They're trained in Perception, have darkvision and Resist
+Fire 20. They move at speed 8, and also have a teleport speed of 8, which makes
+them very maneuverable.
 
 I'm not sure I've covered the Leader keyword yet. It means that this
 particular monster has abilities that help its buddies in the same way a PC
@@ -51,11 +51,11 @@ target. This has Range 5, targets Will, and gives the target a -5 penalty to all
 defenses for a turn.
 
 An enemy force including an osyluth is probably a bit frightening to fight. If
-the bone devil really focuses on a target, they could be looking at a constant
--5 penalty to all defenses and a -9 to will. They pair really well with lurkers
-or artillery, but are kind of a double-edged sword when paired with melee
-fighters. Becoming bloodied in the vincinity of an osyluth is not conductive to
-the long-term survival of its allies.
+the bone devil really focuses on a target, the victim could be looking at a
+constant -5 penalty to all defenses and a -9 to will. They pair really well with
+lurkers or artillery, but are kind of a double-edged sword when paired with
+melee fighters. Becoming bloodied in the vincinity of an "allied" osyluth is not
+conductive to long-term survival.
 
 The sample encounter is level 16: 1 bone devil, 5 barbazus, and 1 cambion
 hellfire magus who is likely the leader of the band.

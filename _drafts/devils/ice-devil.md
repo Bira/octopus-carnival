@@ -1,0 +1,90 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Ice Devil"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Ice devils are native to Cania, the frozen eight layer of Hell. Also known as
+Gelugons, they have an insectoid look which is significantly different from the
+norm for devils. This makes me think they were a different type of creature than
+most other rebellious divine servants (who were likely angels or such).
+
+Individually they're quite powerful, and hierarchically they're starting to hit
+"upper management" territory. Gelugons don't just allow themselves to be
+summoned by _anyone_. Their usual clients include evil rulers or generals. They
+usually function as champions, elite guards, and troop commanders.
+
+Unfortunately ice devils are not all that good at this command business, because
+their disdain for their subordinates makes them favor high-attrition wave
+tactics. Well, unfortunately for those subordinates of course. Gelugons must
+think it's really fun. Think "40K Imperial Guard Officer" when roleplaying them
+and you won't go wrong.
+
+They like cold climates, but aren't impaired by warmer ones as they take a bit
+of Cania's cold with them wherever they go. They like to fight in the front
+lines even when commanding others, and will prefer to target the weakest
+opponents first both because that's tactically sound and because they despise
+weakness.
+
+Gelugons are present in both the Monster Manual and the Vault, and there are
+signifitant differences between the two versions. We'll cover them separately.
+
+In both cases they're Large Immortal Humanoids, have the Evil alignment (like
+all devils), Int 15, and speak Supernal.
+
+## Ice Devil (Monster Manual)
+
+The MM ice devil is a Level 20 Soldier with 195 HP. It has darkvision and runs
+at speed 8. It's completely immune to cold, and has Resist Fire 20. Pretty much
+all of its powers are tagged with the Cold keyword.
+
+First there's the Cold Aura, which has a radius of 5 and gives enemies inside a
+-2 penalty to attack rolls. Then there's the Icy Longspear, a Reach 3 basic
+attack that does cold damage and slows on a hit (save ends). Freezing Breath
+targets Fortitude on a close blast 5, does cold damage and slows (save ends). It
+recharges on 3-6. And finally there's the Chilling Command, a minor action that
+recharges on 5-6 and targets Will. On a hit it does ongoing 5 cold damage and
+immobilizes (save ends both).
+
+5 ongoing damage is low for an almost-epic creature. I imagine this is
+counterbalanced by the immobilization and this being a minor action. I'd
+increase it to 10 or 15 anyway, as well as fixing the woefully low damage of all
+the other attacks above.
+
+Oh, these things also have claws, but they're so bad as an attack that you might
+as well ignore them. Devils use weapons.
+
+The sample encounter here level 19: 2 ice devils, 2 cambion hellfire magi, and 2
+nabassu gargoyles. Hard to say who's in charge on that one. I'm guessing it's a
+very tense relationship between the gelugons and the cambions, all of whom are
+under orders from some epic-level villain to cooperate or else.
+
+## Ice Devil (Monster Vault)
+
+The MV ice devil has the same level, HP and defenses as the previous
+version. The main difference are its attacks.
+
+The puny claws are gone, as is Chilling Command. The damage on the Icy Longspear
+and Freezing Breath has been fixed and further increased for the breath, which
+now recharges on a 4-6. The spear now marks for a turn instead of slowing, and
+the first failed save on the breath's slow effect increases it to
+immobilization.
+
+The Cold Aura has been replaced by a new Aura 2 named Crippling Cold, which
+slows for a turn any enemies who start their turns inside it. And finally, the
+gelugon has replaced its fire resistance with a weakness to fire! Every time it
+takes fire damage, its Crippling Cold aura deactivates until the ice devil
+reactivates it. I _guess_ that's a minor action? It should at least be something
+it can only do on its turn.
+
+## Final Impressions
+
+I think I actually like the MM version a bit more here. Chilling command is
+flavorful, and having the monster be both immune to cold and highly resistant to
+fire can lead to a nice "gotcha" moment while still being easier to remember
+than 3e devil resistances.
+
+So to make my "optimal" gelugon I would start from the MV stat block, remove
+Warming Weakness, add the 20 fire resistance, and the Chilling Command power.
