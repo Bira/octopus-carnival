@@ -23,7 +23,8 @@ for a destrachan to mimic the voice of a dying adventurer asking for help.
 These creatures have an affinity for other aberrant monsters, and will often
 team up with them. They'll also often ally with other underground dwellers and
 monstrous humanoids such as drow, grimlocks, medusas, trolls... It's a good bet
-Eberron's Droaam has its share of destrachan citizens.
+Eberron's Droaam has its share of destrachan citizens (if they're not all
+daelkyr cultists instead).
 
 ## The Numbers
 

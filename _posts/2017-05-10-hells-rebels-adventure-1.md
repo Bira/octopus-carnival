@@ -69,10 +69,11 @@ getting them to the appropriate levels for each scene.
 After a few hours of this, The Barzilai makes an appearance, and makes his
 eighth proclamation. The previous seven were things like banning mint and
 embroidered clothing, or bounties for live dogs. This one forbids all ship
-captains from leaving their ships and setting foot on Kintargo under pain of
-torture. The stated reason for it is that Barzilai has the best brain and
-noticed his subjects have been angry about out-of-towners nosing in on their
-business. So he's going to solve the problem, bigly, with a ban.
+captains not born on Kintargo from leaving their ships and setting foot on
+the city under pain of torture. The stated reason for it is that Barzilai has
+the best brain and noticed his subjects have been angry about out-of-towners
+nosing in on their business. So he's going to solve the problem, bigly, with a
+ban.
 
 This absurd proclamation starts a riot, which is what Thrune actually
 wants. Why? He simply feels like watching his guards and loyalists beat up some

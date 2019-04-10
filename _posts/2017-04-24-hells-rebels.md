@@ -14,6 +14,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is the start of a series! Go to the [project page][1] to see all entries.
+
 ## Introduction
 
 Like most roleplayers, I am quite familiar with multiple versions of Dungeons &
@@ -30,9 +32,9 @@ interesting setting to play in, particularly if the PCs are allowed to affect it
 in significant ways.
 
 I found the adventure path partially included in those rules (Hell's Rebels) to
-be particularly fascinating, first because it was all about taking the
-slave-holding nation of Cheliax down a peg, and later because some of the events
-that happen there resonated with me in light of certain disappointing real-world
+be particularly fascinating, first because it was all about taking the horrible
+nation of Cheliax down a peg, and later because some of the events that happen
+there resonated with me in light of certain disappointing real-world
 developments. I want to read it in depth, I want to talk about it, and I want to
 include conversion notes for GURPS because why not? This blog is a perfect venue
 for that.
@@ -54,27 +56,27 @@ god of humanity, died suddenly and without explanation, leaving a whole bunch of
 prophecies unfulfilled and throwing the mortal world into disarray. Golarion
 tends to be a bit darker than the typical D&D-ish setting. It occasionally veers
 into horrific territory, though usually not with the same glee as a Lamentations
-of the Flame Princess title.
+of the Flame Princess title (a fact for which I'm thankful).
 
 This particular adventure path takes place in the city of Kintargo, inside the
 nation of Cheliax. Like Renaissance Spain or Italy, Cheliax can trace its
 existence back to a mighty, ancient empire; it's economically and military
-mighty itself; it possesses a rich cultural and artistic tradition; and its
-people will _never let you forget that_. The people of Cheliax were some of
-Aroden's most fervent worshippers, and they believed the god granted them
-special blessings and protections. His death caused a civil war that threatened
-to unravel the kingdom, until the head of one of its most ruthless noble houses
+mighty itself; possesses a rich cultural and artistic tradition; and its people
+will _never let you forget that_. The people of Cheliax were some of Aroden's
+most fervent worshippers, and they believed the god granted them special
+blessings and protections. His death caused a civil war that threatened to
+unravel the kingdom, until the head of one of its most ruthless noble houses
 made a literal deal with the Devil and took the throne.
 
 So now, 110 years later, Cheliax is pretty much a devil-worshipping fascist
 state. Queen Abrogail and the ruling house of Thrune will tell you that they
 don't _worship_ Asmodeus, ruler of the Nine Hells, they just admire the way he
 organizes his domain and try to emulate it. That doesn't fool anyone - the
-Church of Asmodeus is pretty much the state religion, and any faiths that oppose
-it are banned. As you would expect, slavery is a huge institution here, and the
-government employs a large army of censors to redact any inconvenient truths
-from the history books. The kingdom also houses multiple orders of
-"Hellknights", all of them working in service to the state.
+Church of Asmodeus is pretty much the state religion, and any faiths that
+publicly oppose it are banned. As you would expect, slavery is a huge
+institution here, and the government employs a large army of censors to redact
+any inconvenient truths from the history books. The kingdom also houses multiple
+orders of "Hellknights", all of them working in service to the state.
 
 Despite all this, Paizo seems to be of two minds about the place. The setting
 text often calls Cheliax out as being a really bad place, but the rules material
@@ -116,3 +118,5 @@ known as "week 2". It expects the PCs to form and lead a resistance movement
 capable of opposing him - anyone else who could do it has been killed or
 co-opted by dark magic. In the next post, we'll look at the Player's Guide and
 pick an hypothetical party to go through it.
+
+[1]: {{ "/projects/hells-rebels/" | relative_url }}

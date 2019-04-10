@@ -14,6 +14,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This part of a series! Go to the [project page][6] to see all entries.
+
 When reading an adventure in this way, it's useful and fun to imagine a group of
 PCs going through them, and try to figure out how they can tackle each
 challenge. Who should make up our PC party here? Let's read through the Player's
@@ -57,7 +59,7 @@ them. Generally, the closer to Chaotic and Good a deity is, the more outlawed
 their faith is in Kintargo. Even those Good faiths that weren't officially
 outlawed got hit with arson and assassination prior to Barzilai officially
 taking power. As long as your PC doesn't worship an outright Evil deity, they'll
-have a reason to rebel.
+have a reason to rebel on religious grounds if nothing else.
 
 ### Reasons to Protest
 
@@ -111,11 +113,11 @@ to fly into an incoherent rage over the smallest annoyances, though.
 
 The Silver Ravens were listed among the factions of Kintargo, and mentioned in
 passing several times before that. They're an old secret society that defended
-Kintargo from outside threats as far back as during the Chelish Civil War. They
-sorta faded away after that, and if any members remained today they were killed
-by Barzilai's goons. They're still important, though, since the PC's goal for
-the campaign should be to re-establish the Silver Ravens and use them to
-liberate the city.
+Kintargo from outside threats as far back as the Chelish Civil War. They sorta
+faded away after that, and if any members remained today they were killed by
+Barzilai's goons. They're still important, though, since the PC's goal for the
+campaign should be to re-establish the Silver Ravens and use them to liberate
+the city.
 
 This section provides complete campaign-specific rules for statting up and
 running the organization. It tracks the size and influence of the rebellion with
@@ -203,3 +205,4 @@ the first adventure in the path, the absurdly named "In Hell's Bright Shadow".
 [3]: {{ "/gurps/2016/12/30/pathfinder-df-rogue.html" | relative_url }}
 [4]: {{ "/gurps/2016/10/15/pathfinder-df-cleric.html" | relative_url }}
 [5]: http://paizo.com/products/btpy9g44?Pathfinder-Adventure-Path-Hells-Rebels-Players-Guide
+[6]: {{ "/projects/hells-rebels/" | relative_url }}
