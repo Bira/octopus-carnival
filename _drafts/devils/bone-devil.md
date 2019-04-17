@@ -23,7 +23,7 @@ Manual.
 Bone Devils are Large Immortal Humanoids (devils), and Level 17 Controllers
 (leaders). They're trained in Perception, have darkvision and Resist
 Fire 20. They move at speed 8, and also have a teleport speed of 8, which makes
-them very maneuverable.
+them very mobile.
 
 I'm not sure I've covered the Leader keyword yet. It means that this
 particular monster has abilities that help its buddies in the same way a PC
