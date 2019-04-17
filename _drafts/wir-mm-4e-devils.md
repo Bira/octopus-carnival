@@ -20,7 +20,7 @@ demons, I must tell you another story about the World Axis, the cosmology of D&D
 Just like the Elemental Chaos combined all the separate elemental planes into
 one glorious mess, so does the Astral Sea combine all the former non-elemental
 outer planes into a single whole. The old astral plane, which used to be a
-featureless gray void, is not a literal sea, and if you look into its silvery
+featureless gray void, is now a literal sea, and if you look into its silvery
 depths you can see the light of the stars in the world's firmament. By sailing
 the Astral Sea you can reach the domains of the gods, which work both like
 islands and like worlds in themselves.
@@ -66,7 +66,8 @@ of them (Bane, Gruumsh, Tiamat, Torog and Vecna) are on more or less friendly
 terms with Hell because they struck deals with Asmodeus in the distant
 past. Either they believe themselves safe, or think they can outsmart Asmodeus
 when it's time for the backstabbing. What actually happens when that time comes
-is left as an exercise for the GM.
+is left as an exercise for the GM. Asmodeus is pretty smart, but so are Vecna
+and Tiamat.
 
 Devils have all kinds of uses for souls, from playthings to currency to raw
 material for their mightiest inventions and magics. Their methods of acquisition
@@ -74,13 +75,13 @@ are many, with the most popular ones being infernal bargains and other types of
 trickery. Given all of the above I imagine they don't necessarily try to make
 you become evil, just to sign the contract.
 
-When bargaining and trickery are not options, violence is not off the table as a
-means of soul acquisition. This puts a new spin on "kill them and take their
-stuff". When devils fight, they do so in a distinctly different way from demons,
-and their stats bear this out. Demons are individually powerful (often elites or
-solos) and tend to fight as mobs of individuals with assorted sharp
-appendages. In contrast to this, even higher-level devils are usually regulars,
-fight with well-crafted weapons, and rely a lot more on teamwork and training.
+However, violence is not off the table as a means of soul acquisition. This puts
+a new spin on "kill them and take their stuff". When devils fight, they do so in
+a distinctly different way from demons, and their stats bear this out. Demons
+are elites more often than not, and tend to fight as mobs of individuals with
+their assorted sharp appendages. In contrast to this, even higher-level devils
+are usually regulars, fight with well-crafted weapons, and rely a lot more on
+teamwork and training.
 
 Asmodeus, now a god, rules all devils from Nessus, the deepest of the Nine
 Hells. Each of his exarchs rules one of the other eight layers, and while
