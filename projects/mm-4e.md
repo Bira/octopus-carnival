@@ -30,8 +30,8 @@ After this, we get right on the monsters:
 
 - A
   - [Aboleth][2]: Fishy masterminds!
-  - [More aboleths][3]: Someone on RPG.net asked me to review the aboleths from an
-    issue of Dungeon, and I
+  - [More aboleths][3]: Someone on RPG.net asked me to review the aboleths from
+    an issue of Dungeon, and I obliged.
   - [Abomination][4]: A grab-bag of epic horrors from the edge of time.
   - [Angel][5]: Messengers of the gods (be they good or evil).
   - [Archons][6]: Soldiers of the primordials.
@@ -44,6 +44,7 @@ After this, we get right on the monsters:
   - [Basilisk][10]: Lizards with a stony gaze.
   - [Bat][11]: What you find when you go into bat country.
   - [Battlebriar][12]: Weaponized biotech siege engines.
+  - [Bear][13]: For all the bear necessities of life.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -57,3 +58,4 @@ After this, we get right on the monsters:
 [10]: {{ "/2019/03/13/basilisk.html" | relative_url }}
 [11]: {{ "/2019/03/20/bat.html" | relative_url }}
 [12]: {{ "/2019/03/29/battlebriar.html" | relative_url }}
+[13]:  {{ "2019/04/17/bear.html" | relative_url }}
