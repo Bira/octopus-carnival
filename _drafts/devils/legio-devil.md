@@ -23,20 +23,19 @@ equate legion devils to the many salaried employees who fill cubicles and mail
 rooms in any giant corporation, but the truth is they're not very like those
 people at all. They're a lot closer to the dystopian notion of a "resource":
 numbers on a balance sheet, undiferentiated and replacable. Managers spend them
-to achieve their quarterly goals and can always get more where those come from
-because people will take any job they can in this economy. And they'll never
-complain about any of this, because they're happy to serve the goals of
-President Asmodeus.
+to achieve their quarterly goals and can always get more where those come
+from. And they'll never complain about any of this, because they're happy to
+serve the goals of President Asmodeus.
 
 In fact, all this grim thinking reminds me of several discussions I've been
 seeing on RPG.net lately where some people say humanoids like orcs and kobolds
 aren't acceptable "kill on sight" monsters, while others do a bit of contortion
 to figure out a scenario where they would be because it's traditional. Me, I say
-that if you need an army of faceless minions of evil who are never up to any
-good and whom you should always fight with all your might, you should drop
-humanoids entirely and look to these guys. Well, to all devils and demons,
-really, but fighting devils-as-symbols-of-totalirarianism specifically feels a
-little more satisfying to me these days.
+that if you need an army of faceless minions who are never up to any good and
+whom you should always fight with all your might, you should drop humanoids
+entirely and look to these guys. Well, to all devils and demons, really, but
+fighting devils-as-symbols-of-totalirarianism specifically feels a little more
+satisfying to me these days.
 
 ## The Numbers
 

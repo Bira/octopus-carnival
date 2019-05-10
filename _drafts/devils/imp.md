@@ -18,7 +18,7 @@ the upper hand, and will run away as soon as the tables turn.
 
 Imps exist both on the Monster Vault and on the Monster Manual, but the two
 versions are more or less equivalent. They're Tiny Immortal Humanoids (devils),
-which means they're around six 6-12 tall - pixie-sized, as I said.
+which means they're around 6-12 inches tall - pixie-sized, as I said.
 
 Both imp versions are Level 3 Lurkers with 40 HP. They have darkvision, Resist
 15 fire, run at speed 4, and fly at speed 6 with hover capability. They're
@@ -31,7 +31,8 @@ The MM Imp's basic attack is a bite that does so little damage it's noticeable
 even on a level 3 monster. It also has a tail stinger that's slightly more
 accurate, does a bit more damage, and has a secondary attack against Fortitude
 that on a hit does ongoing 5 poison damage and imposes a -2 penalty to Will
-(save ends).
+(save ends). Both are Reach 0, which means the imp has to be occupying the same
+square as its target to use them. It can do that because it's Tiny.
 
 As mentioned above, the imp can also Vanish as a standard action, which turns it
 invisible for a turn or until it attacks. Using this also recharges the tail
@@ -55,6 +56,21 @@ regular!
 Vanish still works like it did before, but its text has been made more
 "technical", saying that the invisibility is dispelled when the imp "hits or
 misses" with an attack. This is actually important, because it means the monster
-can make that attack while invisible and will only appear _after_ it
-finishes. You can't see it coming beforehand, or hope to interrupt its attack by
-readying an action for when it becomes visible.
+can make that attack while invisible and will only appear _after_ it resolves
+the whole thing. You can't see it coming beforehand, or hope to interrupt its
+attack by readying an action for when it becomes visible.
+
+## Final Impressions
+
+Imps are kind of living Team Evil membership cards. If you want a character to
+come off as an obvious villain, give them an imp familiar or servant. They're
+also quite a bit smaller than I thought at first.
+
+Mechanically, you should definitely go with the Monster Vault version. It
+retains the same flavor but is much better executed. While imp combat stats lack
+the pile of spell-like abilities they had in previous editions, it makes perfect
+sense for imps to have access to a variety of infernally-flavored rituals, and
+possibly for them to be able to cast them at a higher level than 3.
+
+If you miss fireball-chucking imps, you could make artillery and/or elite
+versions that have similar combat powers.

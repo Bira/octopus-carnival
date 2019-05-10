@@ -44,7 +44,7 @@ First there's the Cold Aura, which has a radius of 5 and gives enemies inside a
 -2 penalty to attack rolls. Then there's the Icy Longspear, a Reach 3 basic
 attack that does cold damage and slows on a hit (save ends). Freezing Breath
 targets Fortitude on a close blast 5, does cold damage and slows (save ends). It
-recharges on 3-6. And finally there's the Chilling Command, a minor action that
+recharges on 3-6. And finally there's Chilling Command, a minor action that
 recharges on 5-6 and targets Will. On a hit it does ongoing 5 cold damage and
 immobilizes (save ends both).
 
