@@ -45,6 +45,7 @@ After this, we get right on the monsters:
   - [Bat][11]: What you find when you go into bat country.
   - [Battlebriar][12]: Weaponized biotech siege engines.
   - [Bear][13]: For all the bear necessities of life.
+  - [Beetle][14]: Big bugs.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -59,3 +60,4 @@ After this, we get right on the monsters:
 [11]: {{ "/2019/03/20/bat.html" | relative_url }}
 [12]: {{ "/2019/03/29/battlebriar.html" | relative_url }}
 [13]:  {{ "2019/04/17/bear.html" | relative_url }}
+[14]: {{ "2019/05/10/beetle.html" | relative_url }}
