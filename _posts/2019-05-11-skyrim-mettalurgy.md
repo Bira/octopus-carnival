@@ -177,7 +177,7 @@ shields. For ranged combat, they used crossbows of varying complexity.
 
 ### Game Statistics
 
-Dwarven weapons and armor always have the Dwarven modifier where
+Dwarven weapons and armor always have the **Dwarven** modifier where
 applicable. Genuine Dwarven antiques can be sold at an extra +3 CF to
 collectors.
 
