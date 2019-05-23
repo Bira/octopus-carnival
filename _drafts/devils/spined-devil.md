@@ -37,8 +37,8 @@ spines. That would make these kinda scary for a level-appropriate party, since
 getting hit with the spines makes it harder for someone to get away from future
 shots.
 
-The claws do need a handful more damage, but like all artillery monsters if
-you'll only be using their melee basic attack if you mess up.
+The claws do need a handful more damage, but like all artillery monsters you'll
+only be using their melee basic attack if you mess up.
 
 The sample encounter in the book is level 6: two spinagons and a trio of
 lizardfolk composed of a mystic and two bruisers. A pretty effective formation,

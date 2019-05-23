@@ -23,7 +23,7 @@ they've always been beautiful and cunning manipulators with superlative skill in
 seduction and other mind games. They're still all those things in Fourth
 Edition, which has approximately nothing to do with the demon idiom while being
 a 100% culture fit for Hell. Making them devils makes a lot of sense from that
-perspective.
+perspective. As devils, their alignment is Evil.
 
 A succubus is all about the classic concept of infernal temptation, using their
 guile and good looks to convince foolish mortals to sign away their souls and
@@ -63,16 +63,15 @@ according to the MV.
 
 Going by the difficulty table, that's considered a Hard check for Level 15
 characters, meaning a level 15 character with both high Wisdom and Insight
-training will pass this around 50% of the time. Level-appropriate PCs will find
-it even harder to spot a succubus in disguise unless they spend a lot of effort
-maximizing their Insight checks.
+training but no further Insight min-maxing will pass this around 50% of the
+time. Level-appropriate PCs will find it even harder to spot a succubus in
+disguise unless they spend a lot of effort on that min-maxing.
 
 The succubus' basic melee attack is a Reach 1 Corrupting Touch which which does
 untyped damage and is otherwise uninteresting. The real beauty is in its other
 attacks. There's a straight-up Dominate attack that targets Will at range 5, and
 dominates for a turn on a hit. Dominated targets act under the direction of the
-dominator, but also count as dazed (as they're trying to fight the mind
-control).
+dominator, but also count as dazed.
 
 Then there's the infamous Charming Kiss, which is more insidious. It's reach 1
 and targets Will. A hit means the target can't attack the succubus, and will
@@ -93,8 +92,8 @@ in me.
 
 The sample encounter is level 9, 1 succubus, 2 snaketongue assassins (yuan-ti)
 and 2 constrictor snakes. Zehir wasn't mentioned by name under "gods who are
-friends with Asmodeus", but this is like the third snake-themed encounter here,
-so I guess he's included in that group.
+friends with Asmodeus", but this is like the third snake-themed encounter in the
+multi-entry, so I guess he's included in that group.
 
 ## Final Impression
 
@@ -117,7 +116,7 @@ the party to spare her and so on. But I think few players would enjoy
 roleplaying that to the detriment of the group, particularly in the middle of a
 fight. So here you have our brave barbarian gloating that he's far too clever to
 be taken in by the succubus' devilish wiles... when in truth the succubus has
-succeeded in turning him into chaste ascetic contract lawyer who keeps running
+succeeded in turning him into a chaste ascetic contract lawyer who keeps running
 away from her.
 
 The succubus can pursue by flying, and can keep trying to charm other
