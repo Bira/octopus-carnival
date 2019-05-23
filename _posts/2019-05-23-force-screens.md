@@ -55,11 +55,11 @@ to modern-day Paragon City. He fights crime with the help of his raygun, armored
 space suit (DR 30/15*), and personal force screen projector (DR 60).
 
 The Robber Baron is at it again, robbing the First National Bank. Tom Tomorrow
-arrives ot save the day, and Dick shots him with his pistol. The gun does 2d+2
-pi damage, and its average damage roll of 9 is certainly not enough to get past
-Tom's force screen. In fact, it would take 2 shots to reduce the screen's DR by
-1, and it would recover soon afterwards. The Baron has no means of harming Tom,
-making this an easy arrest.
+arrives ot save the day, and the Baron shoots him with his pistol. The gun does
+2d+2 pi damage, and its average damage roll of 9 is certainly not enough to get
+past Tom's force screen. In fact, it would take 2 shots to reduce the screen's
+DR by 1, and it would recover soon afterwards. The Baron has no means of harming
+Tom, making this an easy arrest.
 
 Some time later, the Baron escapes jail and tries to rob the Second National
 Bank. Tom intervenes again, and this time the baron fires at him with an assault
