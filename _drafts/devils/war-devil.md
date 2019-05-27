@@ -58,9 +58,9 @@ and can use Fiendish Tactics on each other. They also go well with other highly
 mobile devils to set up transposition combos, and can be pretty dangerous when
 combined with a ridiculous number of legion devils.
 
-The sample encounter is level 21: 1 war devil, 1 ice devil, 2 bone devils (who
-teleport at will, rememeber) and 12 legion devil legionnaires (the level 21
-variant).
+The sample encounter is level 21: 1 war devil, 1 ice devil, 2 bone devils and 12
+legion devil legionnaires (the level 21 variant). Remember that both the bone
+devils and the legionnaires can teleport at will!
 
 ## Final Impression
 
@@ -74,6 +74,6 @@ Flavor-wise... I guess I can kinda see why they were left out of the Monster
 Vault. Even back in previous editions I imagine it would be hard to distinguish
 a horned devil from, say, a bearded devil if you were not already familiar with
 the monster entries. Changing their name to War Devil was probably an attempt at
-making them more distinctive, but the success was mixed. They're a bit like
-junior pit fiends, so if you're strapped for space and are already including pit
-fiends in your lineup, I can see leaving these guys out.
+making them more distinctive, but the success was mixed. Mechanically they're a
+bit like junior pit fiends, so if you're strapped for space and are already
+including pit fiends in your lineup, I can see leaving these guys out.
