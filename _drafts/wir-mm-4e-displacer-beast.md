@@ -1,10 +1,17 @@
 ---
 layout: post
 title: "Let's Read the 4e Monster Manual/Vault: Displacer Beast"
+image: /assets/wir-mm-4e-displacer-beast.png
 tags:
     - dnd4
     - lets-read
 ---
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-displacer-beast.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
 
 Like beholders and mind flayers, Displacer Beasts are one of those monsters who
 are so uniquely D&D that they've been excluded from the SRD. They look like big
@@ -31,14 +38,14 @@ to be known for possessing these qualities.
 As magical beasts they're smarter than most animals, but still have a bestial
 disposition. They have no language or civilization, but they are quite able to
 set up really clever ambushes, track prey by following clues in addition to
-using their scent, remember good hunting spots (like, say, a seasonal trade
-route). They're also smart enough to retreat if outmatched, and to prefer
-attacking animals to humanoids.
+using their scent, remember good hunting spots like, say, a seasonal trade
+route. They're also smart enough to retreat if outmatched, and prefer attacking
+animals to humanoids.
 
 Though displacer beasts rarely gather in groups larger than a mated pair,
 particularly large and intelligent specimens have been known to form and lead
 packs composed mostly of other, lesser predators. Some humanoids can also
-befriend them and use them for hunting, war, or guarding territory.
+befriend them and employ them for hunting, war, or guarding territory.
 
 ## The Numbers
 
@@ -88,7 +95,7 @@ beast, plus a few additions.
 
 First, while the other two types of displacer beats have an Int of 4, the Pack
 Lord has 10! As the name implies, this is the one that can tame other animals
-and train them into a pack.
+and form them into a pack.
 
 In addition to doing more damage with all of its attacks, it has Reach 3
 tentacles. The MV version also gains an attack called Clear The Path, which
