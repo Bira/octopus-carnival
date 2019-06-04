@@ -1,26 +1,30 @@
 ---
 layout: post
 title: "Let's Read the 4e Monster Manual/Vault: Berbalang"
+image: /assets/wir-mm-4e-berbalang.png
 tag:
     - dnd4
     - wir
 ---
 
-This is another monster I'm quite sure must have been introduced in a previous
-edition, but which I had never heard of until reading about it here. They're
-only on the Monster Manual.
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-berbalang.png" | absolute_url }}"/>
+  <figcaption>Copyright 2008 Wizards of the Coast</figcaption>
+</figure>
+{:/nomarkdown}
+
+Berbalangs are ghouls from filipino myth, and were first made into D&D monsters
+in an old issue of White Dwarf back in the OD&D days. Here, they're only on the
+Monster Manual.
 
 ## The Lore
 
-The picture on the book looks like a lumpy purple imp, with pointy ears, bat
-wings and clawed hands but no horns or tail. It wears a fancy jeweled belt and
-tattered Hulk pants.
-
 Despite the impy look of the picture, Berbalangs are Medium! They're Immortal
 Humanoids and Evil, but are not devils. The book doesn't say much about their
-origin, but what little description is there implies berbalangs live in the
-world and not on the Astral Sea. They're definitely sapient with Int 14, and
-speak Supernal.
+in-setting origin, but what little description is there implies berbalangs live
+in the world and not on the Astral Sea. They're definitely sapient with Int 14,
+and speak Supernal.
 
 They feed on the flesh and bones of dead humanoids, but that's just a carrier
 for their real source of nourishment: the memories of the deceased. The creature
@@ -48,7 +52,7 @@ because I just reviewed beholders. You see, the berbalang's main ability is
 Summon Duplicate, an at-will minor action. While not bloodied, the creature can
 create up to four psychic duplicates of itself. Creating a duplicate costs the
 berbalang one quarter of its _current_ hit points, which become that duplicate's
-HP. So a healty berbalang can create three duplicates with 104, 76 and 57 HP
+HP. So a healthy berbalang can create three duplicates with 104, 76 and 57 HP
 respectively, leaving itself with 171.
 
 The duplicates have all the same statistics of the original, and the damage of

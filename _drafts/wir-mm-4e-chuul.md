@@ -1,10 +1,18 @@
 ---
 layout: post
 title: "Let's Read the 4e Monster Manual/Vault: Chuul"
+image: /assets/wir-mm-4e-chuul.png
 tags:
     - dnd4
     - lets-read
 ---
+
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-chuul.png" | absolute_url }}"/>
+  <figcaption>Copyright 2008 Wizards of the Coast</figcaption>
+</figure>
+{:/nomarkdown}
 
 Chuuls are large lobster-like beings with yellowish shells, a semi-upright
 posture, and a mass of little red tentacles dangling from their faces. They're a
