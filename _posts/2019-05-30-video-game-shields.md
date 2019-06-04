@@ -62,7 +62,7 @@ seconds before it can start again.
 _Shield Overflow_: GMs who don't want to bother with the bookkeeping can
 eliminate both the 2-second recharge delay and the "no overflow" property of
 force screens. This means that damage in excess of the shield's DR applies
-to the user, but the screen begins recovering on
+to the user, but the screen begins recovering on the very next turn.
 
 All force screen variants from Ultra-Tech p. 191-192 _except_ Kinetic and Energy
 can still apply to force screens using this rule[^1].
