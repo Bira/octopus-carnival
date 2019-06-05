@@ -180,4 +180,5 @@ level. Fighting the MM variants in particular seems like it would be pure agony
 for the players, with the stuns flowing freely. I can see why they switched to a
 more multi-action solo stat block for the MV. I can also see why the MV lumped
 them in with the other dragons. As we're about to see, they're really very
-similar.
+similar, and fill the Controller niche that was missing from lineup of living
+chromatics.

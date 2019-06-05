@@ -40,6 +40,10 @@ assumes none of them are ever up to any good.
 
 I'm guessing the peaceful folks have a really hard time with prejudice from
 "righteous citizens" who think they're all evil infiltrators.
+
+As you'd expect, the Eberron setting treats them a lot better, and makes them
+valid PC choices.
+
 ## The Numbers
 
 Doppelgangers are Medium Natural Humanoids (shapechangers). They have a base
@@ -106,8 +110,9 @@ significant since stealth rules had become a lot more strict by the time the MV
 came out. This is perfect for disappearing in the midst of a crowd, or again for
 re-enacting the "who's the real one?" scenario when the adjacent creature is a
 PC. Only this time you _can_ choose the right one if you have enough Insight. I
-guess the assassin spent more time training people than honing his shapeshifting
-like the infiltrator. _This_ assassin is Unaligned, and their Insight DC is 38.
+guess the assassin spent more time training to stab people than honing their
+shapeshifting like the infiltrator. _This_ assassin is Unaligned, and their
+Insight DC is 38.
 
 The sample encounter in the MM is level 3: a sneak, 3 human guards, and a human
 mage. Looks like this sneak just wants to live out a regular life as a member of

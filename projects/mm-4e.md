@@ -47,6 +47,7 @@ After this, we get right on the monsters:
   - [Bear][13]: For all the bear necessities of life.
   - [Beetle][14]: Big bugs.
   - [Behemoths][15]: Dinosaurs!
+  - [Berbalang][16]: Memory-eaters loosely based on Filipino myth.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -63,3 +64,4 @@ After this, we get right on the monsters:
 [13]:  {{ "2019/04/17/bear.html" | relative_url }}
 [14]: {{ "2019/05/10/beetle.html" | relative_url }}
 [15]: {{ "2019/05/13/behemoth.html" | relative_url }}
+[16]: {{ "2019/06/04/berbalang.html" | relative_url }}
