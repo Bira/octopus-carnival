@@ -6,10 +6,19 @@ tags:
     - dnd4
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-doppelganger.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Doppelgangers have been in D&D forever, in one form or another. As is common
-with 4e, they're a little different here than they were in older
-editions. Unlike other monsters, though, this time it's 3.5's fault. They're
-in both the Monster Manual and the Vault.
+with 4e, they're a little different here than they were in older editions. This
+time, however, it's 3.5's fault. They're in both the Monster Manual and the
+Vault.
 
 ## The Lore
 
