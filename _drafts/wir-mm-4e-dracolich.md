@@ -6,6 +6,13 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-dracolich.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+
 A Dracolich is what you get when a dragon decides to perform the unspeakable
 rites of lichdom. Due to the vagaries of alphabetical ordering, we get to look
 at them before we dive into the huge "Dragon" entry. They're present on both the
@@ -52,18 +59,19 @@ as superior to their living brethren.
 Dungeons and Dragons has never been a game to provide just one stat block for a
 given type of dragon, and here this extends to the dracolich as well. The
 Monster Manual has no less than three variants, and the Monster Vault has two
-more. And they're all solos! I'll cover each book in its own section.
+more. I'll cover each book in its own section.
 
 ## The Numbers (Monster Manual)
 
 The "basic" MM **Dracolich** is a Huge Natural Magical Beast (dragon,
 undead). This is a perfect example of how the undead keyword is different from
-the shadow origin! This dracolich is a Level 18 Solo Controller with 885 HP. It
-has darkvision and trained Perception. It's immune to disease, fear, and poison,
-has 30 necrotic resistance and 10 radiant vulnerability. It runs at Speed 8 and
-flies at Speed 10 (but clumsily). Like all solo monsters, it has +5 to all saves
-and 2 Action Points. Being a high-level MM monster, its attacks suffer pretty
-heavily from the damage bug, so you'd need to fix that before using it.
+the shadow origin! This dracolich is a Level 18 Solo Controller with 885 HP,
+equivalent to an elder dragon. It has darkvision and trained Perception. It's
+immune to disease, fear, and poison, has 30 necrotic resistance and 10 radiant
+vulnerability. It runs at Speed 8 and flies at Speed 10 (but clumsily). Like all
+solo monsters, it has +5 to all saves and 2 Action Points. Being a high-level MM
+monster, its attacks suffer pretty heavily from the damage bug, so you'd need to
+fix that before using it.
 
 Its basic attack is a Reach 3 bite that does physical damage, and extra necrotic
 damage to stunned targets. It can also attack with a Recharge 5-6 breath weapon,
@@ -114,7 +122,7 @@ version. This one is a Level 29 Solo Controller with 1335 HP. It has everything
 the Blackfire Dracolich has, and a few things more. Its necrotic resistance is
 40, which I think is the highest resistance I've seen anywhere so far (not
 counting complete immunities). It's "final boss" material for a campaign that
-only reaches the mid-epics, and could be an exarch or lieutenant for an
+reaches the mid-epics, and could be an exarch or lieutenant for an
 undeath-focused final boss like Orcus.
 
 This top-end variation has all of the Blackfire Dracolich's attacks, plus
@@ -135,10 +143,11 @@ their own dracolich lackey.
 ## The Numbers (Monster Vault)
 
 The Monster Vault starts us off at a more humble place with the **Deathbringer
-Dracolich**. It's Large, and a Level 12 Solo Controller with 492 HP. Like the MM
-variants, it has trained Perception and Darkvision. It's immune to disease and
-poison, but not fear. It's necrotic resistance is 10, as is its radiant
-vulnerability. It runs at speed 6 and flies clumsily at speed 8.
+Dracolich**. It's Large, and a Level 12 Solo Controller with 492 HP, equivalent
+to an adult dragon. Like the MM variants, it has trained Perception and
+Darkvision. It's immune to disease and poison, but not fear. It's necrotic
+resistance is 10, as is its radiant vulnerability. It runs at speed 6 and flies
+clumsily at speed 8.
 
 Like a living dragon, this dracolich has Action Recovery, which automatically
 ends any dazing, stunning or dominating effects on the monster when it ends its
