@@ -6,6 +6,15 @@ tag:
     - wir
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-boar.png" | absolute_url }}"/>
+  <figcaption>
+    Dire boar (left) and Thunderfury Boar (right).
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Boars are real animals, so you probably know what they look like
 already. Boar-hunting was a very prestigious and difficult endeavor in medieval
 times, since real-world wild boars are deadly opposition for someone armed with
