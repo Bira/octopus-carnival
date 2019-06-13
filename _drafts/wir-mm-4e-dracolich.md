@@ -87,10 +87,10 @@ necrotic breath becomes more important if it has allies. This isn't a
 party-friendly attack and even undead will be negatively affected by it.
 
 This cloud of death isn't the only source of stuns for the dracolich. It also
-has Frightening Presence, that draconic staple. This is an encounter power
-that affects a Close Burst 10 (i.e, every PC) and targets Will. Targets hit by
-the attack are stunned for a turn, and take a -2 penalty to attacks until the
-end of the encounter.
+has Frightening Presence, that draconic staple. This is an encounter power that
+affects a Close Burst 10 (i.e, every PC) and targets Will. Targets hit by the
+attack are stunned for a turn, and take a -2 penalty to attacks until the end of
+the encounter.
 
 If that isn't enough, it still has a couple of triggered actions. As an
 interrupt when someone makes a melee attack against it, it can deploy a
@@ -162,10 +162,10 @@ still does half damage and weakens for a turn.
 
 The afore-mentioned Mesmerizing Gaze is a minor action Ranged 10 attack,
 targetting Will and dominating (save ends) on a hit. On a miss it does 15
-psychic damage if the target willingly moves closer to the dracolich before
-the end of the target's next turn. Either way it slides the target 2
-squares. Make sure to keep these effects in mind, because this attack is going
-to happen _a lot_.
+psychic damage if the target willingly moves closer to the dracolich before the
+end of the target's next turn. Either way it slides the target 2 squares. Make
+sure to keep these effects in mind, because this attack is going to happen _a
+lot_.
 
 Then we have the **Dracolich Doomlord**, a Huge Level 22 Solo Controller with
 840 HP whose power level is on par with the living elder dragons from this

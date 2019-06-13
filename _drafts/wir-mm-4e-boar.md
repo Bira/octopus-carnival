@@ -31,10 +31,11 @@ on animals, it doesn't contain boars.
 
 Like a real-world boar, but bigger, meaner, and spikier. It's a Large Natural
 Beast (mount). Creatures with the "mount" keyword confer special abilities to
-their riders if those riders have the Mounted Combat feat and fulfill any other
-requirements (usually a minimum level) in the ability descriptions. Not all
-beasts that can serve as mounts have the keyword - only those who grant these
-abilities to their riders.
+their riders. Not all beasts that can serve as mounts have the keyword - only
+those who grant these abilities to their riders. Early rules for mounted combat
+stated that PCs had to have the Mounted Combat feat to benefit from these mount
+powers, and mount stat blocks usually stated that the rider also had to have a
+minimum level. All of this had been done away with by the time the MV came out.
 
 Indeed, dire boars can be domesticated as mounts, though even then they're
 ill-tempered and tough to handle. They're also the preferred mount for dwarven
@@ -51,7 +52,7 @@ They're also good at charging! A gore attack done as part of a charge does extra
 damage, pushes the target 2 squares and knocks them prone. So their preferred
 tactic is to charge someone and them gore them repeatedly while they're down.
 
-While mounted by a level 6+ rider, the board gets to make a gore attack in
+If used as a mount, the boar gets to make a gore attack in
 addition to the rider's attack when the duo charges. The way I understand it,
 this gore attack also gets the charge benefit I described above.
 
@@ -77,8 +78,8 @@ half damage.
 ## Encounters and Final Impressions
 
 The suggested encounter is level 5, a dire boar and a party of 5 orc regulars (1
-shaman, 4 berserkers). Since none of the orcs are level 6+, it's likely none of
-them are riding the boar.
+shaman, 4 berserkers). Having one of the berserkers ride the boar will give you
+the most bang for the buck when it comes to charging attacks.
 
 The most awesome thing for me here was the bit about dwarven boar cavalry. I'm
 really tempted to stat up a unit of level 6 dwarven knights riding dire
