@@ -1,0 +1,212 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Efreet"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Efreet are drawn from Middle Eastern mythology and Islamic tradition, which say
+it's a type of djinn often depicted as evil and associated with death. They've
+been in D&D at least since the days of First Edition as the official fire genies
+(other elements having their own genies as well). They're present both on the
+Monster Manual and on the Monster Vault.
+
+## The Lore
+
+Like in most editions, the Efreet in Fourth are fire genies, and are usually
+evil antagonists. They come from the Elemental Chaos, where their civilization
+is one of the most ordered things in that chaotic plane.
+
+Efreets are giant-sized humanoids with powerful builds, red skin, and curved
+horns, part flesh and part smokeless fire. they claim they are the firstborn of
+the Primordials and as such are the rightful heirs to their domains and
+creations. That doesn't mean they _worship_ the Primordials - Efreets don't
+really worship anyone but themselves and intensely dislike being placed in any
+position that even resembles servitude.
+
+There is no such thing as an "efreet commoner". Every single one of them is a
+noble with their own title, holdings and multitudes of servants and
+slaves. Though the number of existing efreets is on the small side, they project
+an incredible amount of power from their citadels spun from fire and metal. The
+greatest such settlement is the City of Brass, an oasis of stability that has
+stood unchanging since the dawn of time. From there, the Lord of All Efreets
+rules their civilization.
+
+Efreet houses constantly scheme against each other, and when one of them wins
+such a dispute they usually take a member of the losing house as a servant and
+hostage - a fate Efreets consider worse than death. Though they despise
+servitude, they're still smart enough to bargain with mortals when doing so
+brings them some advantage. That's where the "genies grant wishes" myth comes
+from!
+
+You see, Efreets don't actually have the ability to grant reality-bending
+wishes. They are however fantastically rich potentates with access to large
+multiversal organizations and epic-level magic, so the distinction might be lost
+on most mortals.
+
+These elemental nobles also like to organize hunting expeditions to other
+planes, going after big game such as dragons or other equivalent creatures just
+for the fun of it. It's like a British fox hunt on a grand scale, particularly
+when you remember that fox hunters basically acted like raiding hooligans who
+wantonly trespassed on people's properties, trampled their livestock, and
+threatened them with violence in the name of a jolly good bit of sport.
+
+## The Numbers
+
+Most Efreets are early-Epic threats, with some of them going upwards to
+late-Epic. They're Large Elemental Humanoids (fire), and they signature traits
+are a complete immunity to fire and a Blazing Soul aura 1 increases the ongoing
+fire damage taken by any enemy within. They can also fly and hover. The MM
+versions have no particular vulnerability to cold, but the MV versions are
+slowed for a turn when they take cold damage (a trait called Frozen Fire).
+
+Efreets are all highly intelligent and speak Primordial as their priary
+language. They're also trained in all the skills you'd expect a society of
+magically-potent nobles to know.
+
+Let's look at them in the order they appear on the Monster Manual.
+
+### Efreet Fireblade
+
+This Level 22 Soldier has 206 HP. Present in both books, the MV version has a
+Blazing Soul aura that deals 5 fire damage, and Frozen Fire. The MM version
+lacks both of these traits but is still immune to fire. It runs with speed 6 and
+flies with speed 8 (hover).
+
+In both versions the Fireblade wields a scimitar. Its Reach 2 attacks mark the
+target for a turn on a hit. It can also throw the scimitar, Jedi-like, as a
+Ranged 10 attack that can target 2 creatures within 5 squares of each other
+before returning to the efreet's hand, marking each of them for a turn on a
+hit. This recharges on a 4-6.
+
+Finally the Fireblade can execute a Whirling Fireblade Strike that recharges on
+a 5-6, and targets all enemies on a Close Burst 2. It does scimitar damage plus
+10 ongoing fire damage to anyone it hits (save ends).
+
+This monster wants to start its fights by keeping at range and hurling the
+scimitar, but it can deal with people in melee just fine.
+
+### Efreet Cinderlord
+
+The Cinderlord is Level 23 Artillery with 169 HP. It has all standard efreet
+traits in both versions. Visually the Cinderlord isn't much different than the
+Fireblade: a lavislhy-dressed efreet noble with a scimitar. Its powers, however,
+are quite different.
+
+That scimitar attack is weak for its level even on the MV, but it does ongoing
+fire damage. Its main ranged attack is a Fire Bolt (range 10 on the MM, 20 on
+the MV) that does fire damage and ongoing fire damage. It can follow that up
+with Fan the Flames, a ranged 20 attack that targets someone taking ongoing fire
+damage. It does a bit of automatic fire damage to the target, and triggers a
+Close Burst 1 attack centered on the target that target the Reflex of any nearby
+bystanders and deals fire damage to those it hits.
+
+Finally there's the Curse of the Efreet, an encounter power that recharges when
+the Cinderlord is first bloodied. It's a Ranged attack 10 that somehow targets
+AC. On a hit it does both immediate and ongoing fire damage (save ends), and
+strips the target's fire resistance completely until the end of the encounter
+(no save!). This targetting AC is an interesting detail. Do the cinderlord's
+words of malediction take physical form and stab at you?
+
+Curse of the Efreet makes the cinderlord an excellent addition to any party of
+all-fire monsters.
+
+### Efreet Flamestrider
+
+This Level 23 Skirmisher has 217 HP and all standard efreet traits. The MM
+version uses a scimitar and the MV version a quarterstaff, but they have similar
+abilities.
+
+The basic melee attack does physical damage and ongoing fire damage (save
+ends). It can also use Firery Grasp, a ranged attack that causes a fiery hand to
+appear and hold the target in place. This targets Reflex, and does both
+immediate and ongoing fire damage in addition to immobilizing the target (save
+ends both). The MV version has Range 5, while the MM one has Range 20! This is
+an at-will power, so I think the MV version is more appropriate for a
+skirmisher.
+
+The Flamestrider takes its name from its ability to vanish in a puff of smoke
+and teleport up to 20 squares to appear next to another fire creature. It can do
+this at-will.
+
+### Efreet Pyresinger
+
+We're climbing up the ranks of efreet nobility here! This MM-only monster is a
+Level 25 Controller with 233 HP. It has all the standard efreet traits, with its
+aura increasing ongoing fire damage by 10 instead of 5.
+
+It attacks with a scimitar that also does ongoing fire damage, and Range 10 Fire
+Bolts that target reflex and do the same. Its Fiery Chains are basically a more
+powerful version of the Flamestrider's Fiery Grasp, with Range 10 and the
+ability to restrain instead of just immobilizing. As a move action, the
+pyresinger can then slide the restrained target 1 square. This attack recharges
+on a 4-6.
+
+The pyresinger's last power is Sheets of Flame, which sings a pyre into being in
+an Area 3 within 20 squares. The 20-foot tall sheets of flame block line of
+sight and cause 10 fire damage to anyone who enters or starts their turn in the
+area. No duration is given, which I think means they last the whole fight. The
+power recharges on a 4-6, which means there's a good chance multiply such pyres
+will litter the battlefield.
+
+As an immediate interrupt, the pyresinger can interpose a Fiery Shield between
+itself and a ranged attack, taking only half damage from it. The "immediate
+interrupt" bit means this only happens once per round.
+
+The pyresinger pairs very well with the flamestrider or other similar
+enemies that can ignore the Sheets of Flame and keep moving through them.
+
+### Efreet Karadjin
+
+This big shot is a Level 28 Soldier with 260 HP, present only in the MM. It
+lacks the Blazing Soul aura, an oversight that can be easily corrected. It's
+also not vulnerable to cold.
+
+The karadjin fights with a Scimitar of Horrendous Flame, which does both
+physical and fire damage alongside a heap of ongoing fire damage and
+immobilization (save ends both). There's also an ongoing fire damage
+_aftereffect_, which means it takes one save to end the immobilization and two
+to end the damage. All saves against both effects are at -2. Yikes!
+
+As a reaction, the karadjin can perform the above attack against someone who
+just hit it with a melee attack. And as a minor action, it can order an
+elemental ally it can see within 10 squares to shift.
+
+## Sample Encounters
+
+The Monster Manual has no less than four encounters involving efreets:
+
+- Level 22: 2 fireblades, 1 flamestrider, and 1 glabrezu. Yes, efreets are
+  exactly the kind of epic spellcaster that would summon and bind high-end
+  demons.
+
+- Level 23: 1 cinderlord, 3 blood fiends, 1 fire titan. Just make blood fiends
+  demons already! Fire titans might be among the only elemental creatures
+  efreets might respect. A tiny bit.
+
+- Level 25: 1 pyresinger, 1 great flameskull, 1 marilith, and 2 fire titans.
+
+- Level 27: 1 efreet karadjin, 1 pyresinger, 1 glabrezu, 2 dragonborn champions,
+  2 great flameskulls. Wow, someone seriously pissed the Lord of All Efreets off
+  enough for him to send his personal hit squad.
+
+Generally, efreets can be found alongside almost any high-level elemental
+creature, many of which they keep as slaves. Even before the PCs hit the epic
+tier, they can find themselves facing the lower ranks of an efreet's forces.
+
+## Final Impressions
+
+I'm sure these details on efreet culture were present in previous editions but
+this was my first time being exposed to them. I quite like the whole.
+
+I'm also sure someone already made jokes comparing them with devils too, since
+they have red skin, horns, like fire, and are evil. However, it seems to me that
+the evil of an efreet is not the cosmic evil of a devil. Rather, it's the evil
+of a fantastically wealthy person whose culture prevents them from developing
+empathy with anyone from a lower social class.
+
+Mostly you're still going to direct all your swords cold spells at them, but
+this opens the possiblity that there are efreets out there who managed to turn
+out Good anyway, possibly due to converting to worship of a good god. This is
+both an interesting development and true to the original myth.
