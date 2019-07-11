@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-blue-dragon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Blue dragons are proud, vain, and like lording over lesser creatures in their
 domain. Unlike greens, they don't feel the need to stoop to sleazy extortion
 schemes - they'll personally land in the middle of your village and announce
@@ -16,7 +25,7 @@ you keep their egos well-inflated.
 Their breath weapon is lightning. Previous editions had them prefer deserts, but
 4th Edition says their preferred environments are coastal regions and seaside
 caves. It makes sense, as thunderstorms are closely associated with the sea and
-bright blue isn't exactly the best color for desert camouflage.
+blue isn't exactly the best color for desert camouflage.
 
 Aside from any people they might claim as subjects, blue dragons are known to
 associate with other coastal or sea monsters, like sahuagin or storm
@@ -116,14 +125,16 @@ There are two sample encounters in the MM:
 
 Neither book's blue dragons have reason to land when fighting PCs. Lightning
 Burst allows them to outrange everything except the ranger's arrows and the
-wizard's Magic Missiles. A blue dragon who wants to play it safe can force the
-party into a very boring extreme-range artillery battle.
+wizard's Magic Missiles. The MV variant can actually keep itself even further
+away and use its instinctive actions to swoop into range, fire off a burst, and
+move away again. A blue dragon who wants to play it safe can force the party
+into a very boring extreme-range artillery battle.
 
 Fortunately, very few blue dragons would want to play it safe - they should be
-swooping in to use their more powerful breath weapon, and should land to gore
-and claw anyone they manage to stun. If that seems like a bad bet even for these
+closing in to use their more powerful breath weapon, and should land to gore and
+claw anyone they manage to stun. If that seems like a bad bet even for these
 vain pirate kings, you should provide them with some lightning-resistant
-henchthings who will wade in and try to hold the party in position for a
+henchthings who will engage and hold the party in position for a
 bombardment. This should give your melee fighters something to do as well.
 
 You can still play the "long range artillery battle" angle as a run up to the

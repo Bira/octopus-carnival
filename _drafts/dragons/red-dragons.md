@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-red-dragon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 This is it, the one you've been waiting for. The most hyped variant of the most
 hyped monster in the entire game. Red dragons have made it to the cover of the
 core books in multiple editions, and they're the ones you think about when you
@@ -15,16 +24,20 @@ Part of this increased mystique comes from the fact that D&D red dragons breathe
 fire, which means they get to take a ride on every classical myth or fantasy
 novel that features fire-breathing dragons. Personality wise, the book describes
 them as doubling up on greed. Red dragons pursue treasure much more vigorously
-than their weaker kin, and their preference for mountain or volcanic lairs means
-a large enough red in search of a new lair might just be strong enough to clear
-out a dwarf kingdom and make its lair in the treasure vault.
+than their weaker kin, which ironically means they're much harder to buy off
+with tribute. Why wait for you to give them your money a little at a time when
+they can just raid you and take it all at once? Their preference for mountain or
+volcanic lairs means a large enough red in search of a new lair might just be
+strong enough to clear out a dwarf kingdom and make its lair in the treasure
+vault.
 
 The fiery breath of an older red dragon has an additional trick in this edition:
 it can strip the fire resistance of those it hits. This means they're equipped
 to pull the Dark Schneider Maneuver and kill something like an efreet or fire
 archon with fire. Or your party's fire sorcerer.
 
-Red Dragons fill the Soldier role. We'll look at them by book.
+Red Dragons fill the Soldier role, which means they fight up close and are smart
+about it. We'll look at them by book.
 
 ## Red Dragon (Monster Manual)
 
@@ -117,7 +130,6 @@ breath is straight damage, and their instinctive action doesn't grant
 movement. The ability to strip fire resistance is pretty awesome, but only the
 MM Ancient has it. If I brought it back I'd at least also give it to the Elder.
 
-The Monster Vault version is a lot better at expressing the monster's role. As
-Soldiers, the MV reds can fight well in melee and have several options for doing
-so tactically. Their many grabby attacks allow them to split the party up, and
-maybe carry a PC or two off if they can't escape in time.
+The Monster Vault version is better at expressing the monster's Soldier
+role. Their grabby attacks allow them to split the party up, and maybe
+carry a PC or two off if they can't escape in time.

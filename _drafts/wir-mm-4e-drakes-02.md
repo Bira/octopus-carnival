@@ -1,0 +1,118 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Drakes, Part 2"
+tags:
+    - dnd4
+    - lets-read
+---
+
+In this post we'll continue to look at drakes, covering the rest of the ones
+present in the MM.
+
+## Pseudodragon
+
+Ever since Kitty Pride from the X-Men got her pint-sized pet dragon, lots of
+people have wanted one for their own characters. D&D 3.x finally granted that
+wish by introducing pseudodragons as a familiar option in one of its early
+sourcebooks. They return here as a type of drake, being of Small size, and are
+present in both books.
+
+While needlefang drakes are just "cat-sized", pseudodragons pretty much _are_
+cats, at least personality-wise. Also of note is the fact that they're really
+smart! The MM version has Int 6, and the MV equivalent not only has Int 9 but
+also has two languages listed in its stat block (Common and Draconic). They're
+both still classed as Natural Beasts, so you could interpret that as meaning
+they can understand these languages but aren't capable of speaking
+them. According to the MM, they purr, hiss, chirp and growl in the same
+situations a cat would emit each of these noises.
+
+In the wild, they're predators and scavengers, but usually stick to small prey
+and don't attack animals unless threatened. Their high intelligence makes them
+highly valued as pets, as well.
+
+MM pseudodragons are Level 3 Lurkers with 40 HP. They walk with speed 4 and fly
+with speed 8 (hover). They attack with a bite, or with a stinger that does the
+same amount of damage with some ongoing poison damage on top (save ends) and
+recharges on 3-6. Both of these count as basic attacks, allowing the
+pseudodragon to use the stinger when it performs a Flyby Attack. This, as usual,
+lets them fly their speed without drawing opportunity attacks and make a basic
+attack at any point.
+
+They also have the ability to turn invisible when they stand still. This is a
+standard action that recharges whenever the critter is damaged, which makes it
+useful both for lying in ambush or for escaping an ambush gone wrong.
+
+The MV pseudodragon has the same level, role, HP and speed, but trades Flyby
+Attack for a less powerful effect on its bite that allows it to fly 4 squares
+without worrying about opportunity attacks. The stinger remains a basic attack
+but is also a bit more restricted, as it can only be used on a target that can't
+see the pseudodragon. To make up for this, its Invisibility power now allows it
+to move, and only ends when the pseudodragon makes an attack.
+
+All of this adds up to a more lurkerish monster, which will charge its chosen
+target with a stinger attack while invisible, then use the bite combined with
+its high fly speed to get away.
+
+## Spitting Drake
+
+Spitting Drakes are Medium, and got their name from their ability to spit gobs
+of acid. This is their main weapon when hunting, and they're also easily
+domesticated to serve as (somewhat messy) guard animals. In the wild, they'll
+sometimes join guard drake packs, which I think is an interesting worldbuilding
+detail. They're present in both books but their stat block is the same in both
+cases.
+
+These creatures are Level 3 Artillery with 38 HP, and run with speed 7. Their
+bite, as standard for artillery, is kinda weak. Their acid spit is a Ranged 10
+attack targetting Reflex and doing acid damage.
+
+## Rage Drake
+
+When the books say larger drakes are harder to tame, they're talking about Rage
+Drakes. Our first Large drake, it also has the Mount keyword. It appears in both
+the MM and the MV.
+
+Rage Drakes definitly didn't get this name because they're gentle! Adult
+specimens are outright impossible to tame, but a trainer that starts with a
+hatchling can make it into a combat mount better than any warhorse.
+
+Wild rage drakes are highly territorial hunters. Like other drakes, they're also
+social creatures who gather in clutches. In fact, a solitary rage drake will
+sometimes invite itself into a clutch or guard drakes or other smaller species
+and become its leader. So yes, it's possible for your PC party to run into a
+single drake clutch composed of rage, spitting and guard drakes, all wild and
+all hungry.
+
+Rage drakes are Level 5 Brutes with 77 HP. They have a single basic attack in
+the form of a bite, but also have a slightly weaker claw attack. Their Raking
+Charge ability allows them to charge and make two claw attacks.
+
+When bloodied, Rage Drakes freak out! They become immune to fear, and gain +2 to
+hit and +5 to damage on all their attacks. If they're serving as a mount, the
+rider also gains a +2 to hit on all of _their_ attacks.
+
+The MV version is largely identical, save for the facts that its damage math has
+been fixed and the damage bonus from being enraged is only a +2. The accuracy
+bonus for the drake and its rider remains the same.
+
+## Sample Encounters
+
+The MM gives us three for the entire "Drake" entry:
+
+- Level 2: 2 guard drakes, 2 elf archers, 1 elf scout. A patrol and their guard
+  animals.
+
+- Level 4: 1 pseudodragon, 1 human mage, 2 human guards, and 2 human
+  bandits. Either a bandit squad of bandit-hunting militia, with the mage having
+  brought his familiar along.
+
+- Level 5: 1 rage drake and a band of assorted lizardfolk protecting their swamp
+  home.
+
+## Final Impressions
+
+I really, really like this version of drakes, mainly because of the lore they
+bring along. Domesticated drakes should be a common sight in any society, which
+does a lot to make the world feel not only magical but also fresh. I'm actually
+a bit disappointed that 5th edition seems to have gone back on this and made
+them related to dragons again.

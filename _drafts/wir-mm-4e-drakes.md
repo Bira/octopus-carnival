@@ -1,0 +1,136 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Drakes, Part 1"
+tags:
+    - dnd4
+    - lets-read
+---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-drakes-01.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+These beasties seem to be new to Fourth Edition, at least as presented here. If
+I remember correctly, the things 3.x called Drakes were related to dragons -
+they had the Dragon "monster class" but weren't technically dragons
+themselves. As a GM you would use drakes when you wanted a "lite" dragon
+encounter.
+
+Here, the name is basically another bit of Behemoth-like medieval taxonomy
+employed by the people people who live in the 4e implied setting. A drake is a
+clawed, carnivorous reptile that's not big enough to be called a Behemoth. There
+are several species of drake: some walk on two legs and have limited
+manipulation capability, some walk on all fours, some even fly!
+
+I've heard that this means they correspond to the smaller varieties of dinosaur,
+but I think that's not quite true. While several of them are similar to certain
+species of dinosaurs, they're less so than behemoths (where you often can draw a
+direct visual parallel between a given behemoth and the real-world counterpart).
+
+Drakes in the wild are aggressive and territorial predators, more likely to
+attack a group of humans than a wolf or bear. Despite this, they're rather easy
+to tame, and can be frequently encountered not only as guard or attack animals,
+but as pets or even mounts!
+
+In short, drakes pretty much fill the same roles as dogs. If you want to make
+your particular version of the setting feel more fantastical you could even say
+that it has no dogs, since the sapients here never domesticated wolves. It's all
+drakes all the time.
+
+The Monster Vault kinda backs down from this idea a bit, saying that drakes are
+more aggressive and "alien" than corresponding domesticated mammals and such
+tend to be feared by common people, though they are often encountered in the
+service of hostile humanoids. Personally, I would disregard this bit completely
+and keep them as a common dog-substitute for all sapient peoples.
+
+Both books agree that the larger varieties of drake are harder to domesticate,
+which would mean good old warhorses are still more common than rage drakes.
+
+All Drakes are Natural Beasts with the Reptile keyword. Between the Monster
+Manual and the Monster Vault there are quite a few of them, so we'll split this
+single entry into multiple posts. This is part 1.
+
+## Spiretop Drake
+
+Present only in the MM, this Small drake is a Level 1 Skirmisher with 29 HP. It
+waddles at Speed 4 but flies with speed 8 and hover capability. They're a social
+species that likes to nest in high places, which means clutches of the things
+nest in towers and spires in large cities and swoop down to steal shiny things
+from unwary passerby.
+
+Unusually, it has two basic attacks: a bite with its toothed beak that works as
+usual, and a claw attack that targets Reflex. The claw attack does a measly 1
+damage, but a hit also allows the drake to steal a small object from the target,
+like a single coin, vial or scroll. The fact that the snatching claw is a basic
+attack is important, because it means the drake can use it as part of a Flyby
+Attack, where it flies 8 squares while immune to opportunity attacks and
+performs a basic attack at any point along the movement.
+
+So yeah, having your small, shiny, plot-critical McGuffin stolen by a pack of
+spiretop drakes is a hazard in urban adventures. Ideally they'd nest atop a
+crumbling abandoned tower filled with enough bad stuff to count as a dungeon. As
+a level 1 monster it's not really affected by the math bug, so you can use it
+as-is.
+
+## Guard Drake
+
+In the wild guard drakes are pack hunters, but they got this name because
+they're very commonly used as guard animals, since it's very easy to train them
+for this role. Basically, if someone in the real world would use rottweilers for
+a job, they'll use guard drakes in D&D. Yes, even as pets.
+
+This Small drake has nearly identical stat blocks in both books. It's a Level 2
+Brute with 48 HP and a single bite attack that does extra damage if the drake is
+within two squares of an ally. This makes then pair well with any melee monster.
+
+The only difference between the MM and MV versions is that the MM version is
+_immune to fear_, which is an interesting detail. I'm inclined to keep it, since
+it's flavorful and unlikely to make a PC completely ineffective even at this
+level.
+
+## Needlefang Drake Swarm
+
+From what I hear people saying on the Internet, needlefang drake swarms have
+been responsible for more PC deaths than most other monsters in this
+edition. Let's see why.
+
+Needlefang drakes are cat-sized bipedal lizards, though I guess they're more
+like angry chihahuas in temperament. A single individual is not really
+dangerous, and I imagine some people might want to keep one as a pet. In the
+wild, they gather in large packs that can take down much larger prey and "strip
+it to the bone in seconds" according to the book, which also implies some people
+keep whole swarms of them as "living traps". Beware needlefang drake hoarders!
+
+A swarm of needlefang drakes is Medium in size and counts as a Level 2 Soldier
+with 38 HP and the Swarm keyword. Like all swarms it takes half damage from
+melee and ranged attacks, and extra damage from close and area attacks. It's
+immune to fear, and has a Swarm Attack aura 1 that allows it to make a free
+basic attack against each enemy that begins its turn inside.
+
+This swarm has two actions: a Swarm of Teeth as a basic attack, which deals
+extra damage against prone targets; and Pull Down, which targets Fortitude and
+does no damage, but knocks the target prone on a hit.
+
+So why are needlefang drake swarms so dang deadly? Well, as MM1 soldiers, their
+accuracy is 2 points higher than it should be (something which would be fixed by
+the new monster math). So a swarm has no reason to ever spend its standard
+action on anything but Pull Down, which will hit even tough fighters very
+reliably and set them up for an increased-damage free attack from the aura
+which will hit even _more_ reliably due to combat advantage.
+
+To make things worse, if you have multiple swarms in play they can position
+themselves so that anyone they knock down is subject to aura attacks from _all_
+of them. That amount of damage per round can take a level 1-2 PC down to 0 quite
+fast. And to top it off, there's no in-setting reason for needlefang drakes to
+follow the sort of combat etiquette that prevents them from attacking downed
+PCs, so they can potentially keep making free attacks until those PCs hit their
+death threshold.
+
+These tiny terrors are just the thing to spruce up a kobold lair or the hideout
+of a sadistic villain, but don't overuse them. Or at least make sure your wizard
+knows Thunderwave before using more than one swarm at a time.

@@ -1,0 +1,181 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Dryad"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Dryads originated in Greek mythology, where they were a type of
+nymph. Mythological nymphs were basically female spirits associated with
+specific natural elements, and dryads were specifically the spirits of
+trees. They've been a part of the D&D bestiary for quite a while, with most
+editions picturing them as beautiful women with lots of charm-based powers.
+
+Fourth Edition decided to something a little different, either to avoid leaning
+too hard on the fanservice or to add a bit more variety. "Beautiful woman with
+lots of charm-based powers" could describe any of a dozen other entries, after
+all.
+
+Dryads are present in both the Monster Manual and the Vault.
+
+## The Lore
+
+D&D 4th Edition Dryads are a type of humanoid, treelike fey. They live in the
+depths of secluded forests and generally just want to be left alone. While far
+from evil, they have very little reason to believe humanoids who intrude upon
+their homes are anything but trouble, and will react accordingly.
+
+The Monster Vault goes on to say that dryads are both shy and impulsive, so
+those who want to parley with them must be very careful to make their peaceful
+intentions known at all times. It also sorta tries to bring the "beautiful woman
+with charm powers" schtick back, going on about how they represent both the
+beauty and danger of nature. I like that part somewhat less than the rest of
+their description.
+
+## The Numbers
+
+We have a whole bunch of dryad varieties if add up both books. All are Medium
+Fey Humanoids with the Plant keyword, and have a few signature traits. First,
+dryads have trained Perception and are _fast_, moving at Speed 8 with Forest
+Walk.
+
+Second, they have the Treestride power, an at-will move action that allows them
+to teleport 8 squares as long as they can begin and end the teleport adjacent to
+a tree, treant, or any other Large or larger plant. Basically, they use plants
+as portals.
+
+And finally, there's Deceptive Veil, an illusion that allows them to disguise
+themselves as any Medium humanoid. Beautiful humans or eladrin are typical, but
+there's no reason for you to stick to the cliche. The MM says piercing the
+disguise is an opposed check of a PC's Insight against the Dryad's Bluff, while
+the MV gives explicit DCs in the power descriptions. None of them are smaller
+than 27, so low level parties will have very little chance of piercing the
+disguise.
+
+A significant difference between the two books is that Deceptive Veil tends to
+be the only "manipulative" power the MM dryads have, while the MV tends to give
+them some charm powers as well.
+
+We'll look at them by level order, meaning we'll go through all of the MV
+entries first, and then all of the MM entries.
+
+### Dryad Recluse
+
+This MV entry is a Level 5 Lurker with 50 HP and all common dryad traits. In a
+fight it relies on its wooden claws and on the Sylvan Charm at-will power, a
+Ranged 5 attack that targets Will. On a hit, it pulls the target 5 squares to a
+position adjacent to the dryad, and charms it until it's no longer adjacent or
+until the dryad uses the power again.
+
+Charmed victims can't attack the dryad and are considered immobilized. The
+victim will redirect half the damage of any melee or ranged attack that hits the
+dryad to itself, and if the attacker was adjacent to the victim, they will make
+a melee basic attack against the attacker as a free action. If the dryad
+teleports using Treestride, it can take a charmed victim along.
+
+This is actually a bit more dangerous than the Succubus' charm power, in that it
+has less loopholes for PCs to exploit. Sure, the PC will take less damage from
+friendly fire, but they can't move away, can be attacked by the dryad, and have
+well-defined situations where they must attack their allies. Also note that
+there's _no save_ against any of these effects - once the PC is hit by the
+Sylvan Charm, they remain charmed until one of their buddies manages to push
+them away from the dryad or it decides to charm someone else.
+
+It's perfectly possible for a dryad recluse to attack from ambush, charm
+someone, and treestride away with the victim in tow, never to be seen again. At
+the very least, that's going to lead to an interesting chase scene.
+
+### Dryad Hunter
+
+This MV entry is a Level 7 Skirmisher with 92 HP and all common dryad traits.
+
+The dryad hunter's claws do extra damage if the target has no allies adjacent to
+it. It can also employ a Luring Feint that allows it to make a claw attack and
+shift 4 squares on a hit, pulling the target along. If the attack misses, the
+dryad instead shifts its full speed (8!). This isn't a charm power, which means
+it comes purely from this dryad's skill as a canny fighter that's absurdly hard
+to pin down.
+
+Dryad hunters should ideally focus on one of the party's squishies, isolating
+them from their friends with Luring Feint and taking advantage from the
+increased claw damage against isolated victims. I wouldn't allow a dryad hunter
+to miss on purpose in order to get full-speed shifts, but missed attacks should
+still be seen as opportunities to put some distance between the hunter and the
+party's defenders.
+
+### Dryad Witch
+
+This MV entry is a Level 8 Controller with 84 HP and all the usual dryad
+traits. Its basic attack is a Thorny Vine that also slides the target 1 square
+on a hit, and it can call upon two different charm powers.
+
+Beguiling Verdure is an at-will Ranged 5 attack that targets the Will of a dazed
+creature. On a hit it allows the dryad to slide the target up to the target's
+own speed, and forces the target to make a melee basic attack against a creature
+of the dryad's choice at the end of the movement. This combos with Soporific
+Fragrance, a Close Blast 3 that targets Will and dazes on a hit and recharges on
+3-6.
+
+### Dryad
+
+The classic model, present in the MM. It's a Level 9 Skirmisher that ends up
+being a much simpler version of the Dryad Hunter. Its claws still do additional
+damage to isolated targets, but it doesn't have any forced movement or large
+shift abilities.
+
+This version does have some additional skill training in Bluff, Insight and
+Stealth. I would still advise you to simply use an up-leveled Dryad Hunter in
+its place, adding the skills if those prove necessary.
+
+### Dryad Briar Witch
+
+This MM entry is a Level 13 Elite Skirmisher with 262 HP. Unlike the "normal"
+Witch from the MV, this one is all about the thorns.
+
+The Briar Witch has _two_ auras: Curse of Thorns has radius 3 and deals 2 damage
+to enemies without Forest Walk every time they move into a square in the aura,
+whether voluntarily or due to forced movement. Thorn Boon has radius 6 and gives
+a +5 damage bonus to the melee attacks of all allied plant creatures within.
+
+Its claw attack is weak and generally not worth using. Its main at-will ranged
+attack is a Briar Cage, which has range 5 and targets Reflex. On a hit it deals
+both immediate and ongoing damage, and also restrains the target (save ends
+both). This is an actual, physical briar cage, so it gives cover to the victim
+and can be destroyed with physical attacks (it has 25 HP and Resist All 10).
+
+The Briar Witch's thorny body causes 5 damage at the start of its turn to any
+creature that grabs it. It also has the common dryad powers.
+
+This dryad could definitely benefit from the damage fix for both its melee and
+ranged attack. And while I like the detail of Briar Cage creating an actual cage
+that can be destroyed, it does feel a bit redundant with the (save ends both)
+clause. I'd probably either remove the destruction mechanic and up the ongoing
+damage, or remove the save and make the power recharge 4-6. Other than that the
+briar witch is a major threat even when just standing there, due to her auras.
+
+### Bough Dryad
+
+We're back to the MV for this one, a Level 15 Minion Skirmisher. It doesn't have
+Treestride or Deceptive Veil, but it's still pretty fast. Its claw attack does a
+smidge more damage against isolated targets, and when it drops to 0 HP it grants
+5 temporary HP to an ally within 5 squares. I want to say this stacks, which
+would make the PCs very hesitant to fireball a group of bough dryads accompanied
+by a couple of massive monsters.
+
+## Sample Encounters
+
+The sample encounter in the MM is level 9, a dryad and four eladrin (1 twilight
+enchanter, 4 fey knights). Indeed, dryads could be found hanging out with any
+other fey or natural creatures that love the forest as much as they do.
+
+## Final Impressions
+
+I like these tough dryads. My impression of the ones from previous editions is
+that they usually didn't have much they could do against PCs they failed to
+charm. Not only can these do that, some of them don't even rely on charm powers
+in the first place!
+
+The MM Dryad can easily be replaced by a slightly up-leveled Dryad Hunter from
+the MV, but the Briar Witch is still quite usable after you fix its damage and
+maybe change Briar Cage a bit.

@@ -107,20 +107,21 @@ position for another charge.
 {:/nomarkdown}
 
 This dragonspawn stands out from its fellows not only because its name is
-extremely Metal but because it's sapient. Not a warbeast but a mercenary, the
+Extremely Metal but because it's sapient. Not a warbeast but a mercenary, the
 godslayer hires itself out to people who need violence inflicted upon powerful
-dragonborn, old dragons, or angels and other immortals. In other words,
-"godslayer" is its job description.
+creatures such as angels and other immortals. In other words, "godslayer" is its
+job description.
 
 These reptilian giants were created by Tiamat cultists to fight their enemies,
 but their mercenary temperament suggests that the PCs themselves might be able
 to hire them to help fight opposition such as devils, evil dragons or even those
-self-same cultists. Yes, the bluespawn is also Evil, but it's not like it has
-any solidarity for other evil creatures.
+self-same cultists. Yes, the bluespawn is also Evil, but it's not like evil
+creatures have any solidarity towards each other.
 
 A bluespawn godslayer is a Huge Natural Humanoid (reptile) and a Level 22 Elite
-Brute. It has low-light vision, 30 resistance to lightning and thunder, and runs
-at speed 8. It wields a greatsword one-handed and a heavy shield.
+Brute with 510 HP. It has low-light vision, 30 resistance to lightning and
+thunder, and runs at speed 8. It wields a greatsword one-handed and a heavy
+shield.
 
 The greatsword deals a mix of physical and lightning damage. It can also be used
 in to deal an Awesome Blow that does the same damage and allows a secondary
@@ -134,9 +135,9 @@ have built-in rules of their own! Dragonborn PCs are going to have a bad time
 here, but this is also what makes it desirable for the PCs to hire a bluespawn
 to fight their draconic/devilish enemies.
 
-This god-slayer might have some trouble living up to its hype. Aside from fixing
-the math, I'd probably roll Awesome Blow into the basic sword attack so it can
-be used in a charge, and make the bite a minor action.
+That said, this god-slayer might have some trouble living up to its hype. Aside
+from fixing the math, I'd probably roll Awesome Blow into the basic sword attack
+so it can be used in a charge, and make the bite a minor action.
 
 ## Sample Encounters and Final Impressions
 

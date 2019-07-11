@@ -45,11 +45,11 @@ in the minds of roleplayers[^2]. Now they had a specific look they had to copy
 if they wanted to be in-genre, just like you had to have knights in plate and
 wizards in flowing robes when playing D&D.
 
-As I said back in the first post, this fixation not only on visual style but on
-the very specific visual style of Cyberpunk 2020 is a big part of why a lot of
-people consider cyberpunk to be a "retro" genre these days. I would say it even
-washed back into literature and became one of the reasons why "post-cyberpunk"
-is seen as a separate genre despite being largely about the same themes[^3].
+As I said back in the first post, this fixation on the very specific visual
+style of Cyberpunk 2020 is a big part of why a lot of people consider cyberpunk
+to be a "retro" genre these days. I would say it even fed back into literature
+and became one of the reasons why "post-cyberpunk" is seen as a separate genre
+despite being largely about the same themes[^3].
 
 It was also at the root of the Great Shadowrun Edition War when its Fourth
 Edition was published in 2005. They tried to modernize the look of the game
@@ -101,13 +101,20 @@ positive light. Again taking Gibson's work as an example, there's this phrase in
 Count Zero that applies to everything the man wrote: "The very rich are no
 longer even remotely human." Yeah, you read that right: what makes you less
 human in literary cyberpunk isn't an excess of implants, but an excess of
-wealth! You could very well say that the real villain of literary cyberpunk is
+wealth! You might say that the ultimate villain of literary cyberpunk is
 _capital_.
 
-The translation to gaming didn't quite contradict this statement, but it
-simplified it quite a bit. CP2020 and Shadowrun lay the blame for the woes of
-their worlds on the shoulders of a specific set of 8-10 mega-corporations.
+Games like CP2020 and Shadowrun seemingly felt the need to simplify that a
+bit. I can only speculate as to why: it was the US at the tail end of the Cold
+War, so outright saying that capitalism is bad was likely
+unfashionable. Particularly in an entertainment product potentially aimed at
+teenagers.
 
+Instead, the Big Bads of these games are a small set of mega-corporations that
+do a lot of over-the-top evil stuff like despoil the environment out of greed
+and miserliness, treat their lower-ranked employees like slaves, keep
+politicians and the media compliant through bribes and financial pressure, and
+maintain heavily-armed, trigger-happy security forces.
 
 [1]: {{ "/2018/12/13/on-cyberpunk.html" | absolute_url }}
 

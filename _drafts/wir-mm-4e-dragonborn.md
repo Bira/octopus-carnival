@@ -51,7 +51,7 @@ intermingled in more diverse societies. The value Arkhosia placed on personal
 honor and martial excellence still remains a strong trait of the surviving
 dragonborn communities.
 
-Many dragonborn adventurers are paladins or champions of justice - their
+Many dragonborn adventurers are paladins or other champions of justice - their
 emphasis on honor makes this a popular path for them. However, "honorable"
 doesn't always mean "good", so they're just as likely to appear as opposition
 for a group of Good adventurers as members of any other sapient race.
@@ -152,4 +152,4 @@ races, and WotC obviously agrees with me since they kept them around mostly
 unchanged for 5th edition.
 
 The specific stat blocks here work well enough, and I particularly like the
-soldier and the champion.
+soldier and the champion (if its damage is fixed).
