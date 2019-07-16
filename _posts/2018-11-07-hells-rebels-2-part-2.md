@@ -150,7 +150,7 @@ Hill Slasher, a serial killer who plagued Kintargo a few decades ago and whose
 killings are still part of the local folklore. In other words, a fairly obvious
 Jack the Ripper expy. The main difference here is that the Slasher was
 eventually caught. Only it seems like the killings have started again, using the
-exactly same MO.
+exact same MO.
 
 The rumor table at the start of adventure includes some entries dealing with
 this new Slasher, and they pay off on Mission 3. The PCs are contacted by a

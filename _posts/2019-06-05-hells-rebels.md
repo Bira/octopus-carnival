@@ -249,6 +249,8 @@ That's it for the final dungeon in Turn of the Torrent! The next post is going
 to look at what the PCs likely accomplished in the adventure as a whole, and the
 consequences of it.
 
+[1]: {{ "/projects/hells-rebels.html" | relative_url }}
+
 
 [^1]: I've used these words as a joke before, but this is a literal quote from
     the book.
