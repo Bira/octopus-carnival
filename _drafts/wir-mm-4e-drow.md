@@ -6,8 +6,17 @@ tags:
     - lets-read
 ---
 
-Drow have both fascinated and horrified people since roughly AD&D 1st
-Edition. Their early descriptions leaned very hard into "evil elf
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-drow.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+Drow have both fascinated and horrified people since AD&D 1st Edition or
+thereabouts. Their early descriptions leaned very hard into "evil elf
 dominatrix" imagery, and their dark skin meant this portrait was often
 considered racist as well as sexist.
 
@@ -21,10 +30,12 @@ they're part of a larger "Elf" entry.
 
 ## The Lore
 
-Elves, Eladrin and Drow all descend from the same sapient fey people, which went
-through something of a diaspora back at the dawn of creation. Eladrin native to
-the Feywild are the closest to those progenitors. Elves diverged from them after
-centuries of living in the world.
+Elves, Eladrin and Drow all descend from the same sapient fey people, which was
+originally created by Corellon and went through something of a diaspora back at
+the dawn of creation. Eladrin native to the Feywild are the closest to those
+progenitors, still worshipping Corellon as their main deity. Elves diverged from
+them after centuries of living in the world, and tend to worship Melora or the
+primal spirits.
 
 The Drow were recruited into the worship of Lolth and rose up against their
 kin. They were driven into the Underdark and built a thriving but nightmarish
@@ -45,23 +56,25 @@ if the drow stopped fighting each other and united into a single empire, they'd
 be a major existential threat.
 
 When fighting, drow favor light armor and swords (particularly fencing weapons),
-with hand crossbows being the preferred ranged weapon. They also use a whole lot
-of spider-themed magic, even when they're arcane casters.
+with hand crossbows being the preferred ranged weapon. These are frequently
+poisoned. Drow always prefer ambushes and guerilla tactics to anything
+resembling a fair fight. They also use a whole lot of spider-themed magic,
+both divine and arcane.
 
 ## The Numbers
 
 All drow are Medium Fey Humanoids, have Darkvision, and one of two minor-action
 encounter powers:
 
-- a Cloud of Darkness that lasts for a fblocks line of sight on a Close Burst 1
-  and blinds everyone who enters it, with the drow being immune to all of this.
+- a Cloud of Darkness that lasts for a tunr, blocks line of sight on a Close
+  Burst 1 and blinds everyone who enters it, with the drow being immune to all
+  of this.
 
 - Darkfire, a Ranged 10 attack that targets Reflex, and makes the target grant
   combat advantage for a turn, during which they also can't benefit from
   concealment or invisibility.
 
-Yes, we already saw both of these powers in the Drider entry. You can also use
-them to make other drow stat blocks. Drow usually move at Speed 6.
+You can use them to make other drow stat blocks. Drow usually move at Speed 6.
 
 We start with the **Drow Warrior** from the Monster Manual. It's a Level 11
 Lurker with 83 HP, trained in Perception, Dungeoneering, Intimidation and
@@ -116,18 +129,18 @@ damage on a hit (save ends). The Blade Mastery ability allows this drow to make
 attacks with both weapons as a single action, and it also knows Cloud of
 Darkness. Pretty simple!
 
-The MM-only **Drow Blademaster** is somewhat similar. A Level 13 Elite
-Skirmisher with 248 HP, its blades apparently aren't poisoned, but it has
-several fancy techniques at its disposal. Excruciating Stab does a lot more
-damage than the basic longsword attack and stuns (save ends)! It recharges on
-5-6. Whirlwind Attack allows the drow to make a longsword attack against
-everyone on a Close Burst 1, and a shortsword attack against anyone hit by the
-longsword. It recharges on a 4-6. Finally, it can make a free longsword attack
-against anyone who makes an opportunity attack against it.
+The MM-only **Drow Blademaster** is similar in concept but more powerful. A
+Level 13 Elite Skirmisher with 248 HP, its blades apparently aren't poisoned,
+but it has several fancy techniques at its disposal. Excruciating Stab does a
+lot more damage than the basic longsword attack and stuns (save ends)! It
+recharges on 5-6. Whirlwind Attack allows the drow to make a longsword attack
+against everyone on a Close Burst 1, and a shortsword attack against anyone hit
+by the longsword. It recharges on a 4-6. Finally, it can make a free longsword
+attack against anyone who makes an opportunity attack against it.
 
-Finally, the MM-only **Drow Priest** tells me they're using "priest" as a
-gender-neutral word here. She is a Level 15 Controller (Leader) with 139 HP and
-Speed 7, trained in Bluff, Insight, Intimidate, Religion and Stealth. She
+Our last entry is the MM-only **Drow Priest** tells me they're using "priest" as
+a gender-neutral word here. She is a Level 15 Controller (Leader) with 139 HP
+and Speed 7, trained in Bluff, Insight, Intimidate, Religion and Stealth. She
 projects Lolth's Authority, granting +1 to attacks and +2 to damage for any drow
 or spider ally who can see her.
 

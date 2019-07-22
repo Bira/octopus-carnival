@@ -26,7 +26,7 @@ quite a bit more powerful than run-of-the-mill drow.
 
 The MV splits the difference by adding that driders make their own caste in the
 drow hierarchy, above most others but still subservient to the priestesses of
-Lolth. Some of them recent this, and some grow to have more empathy towards
+Lolth. Some of them resent this, and some grow to have more empathy towards
 spiders than towards their fellow dark elves, so you can still meet the odd
 drider hermit out in the wilds of the Underdark.
 
