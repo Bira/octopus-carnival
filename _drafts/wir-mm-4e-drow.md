@@ -159,3 +159,23 @@ As a minor action she can use Spider Link, which transfers up to 22 points of
 damage from the priestess to a spider or drow within 5 squares of her. She can't
 transfer more damage than the creature has HP remaining, making this a good use
 for elite spiders. The priestess also knows Darkfire.
+
+## Sample Encounters
+
+We have two:
+
+- Level 13: 1 drow arachnomancer, 2 drow warriors, 1 mezzodaemon, 5 grimlock
+  minions, and 2 blade spiders. Looks like a typical drow war party to me, sent
+  away from their home with a specific goal in mind. They bring in some
+  summoned/enslaved muscle along.
+
+- Level 15: 1 drow priestess, 1 drow blademaster, 1 umber hulk, and 3 drow
+  warriors. Now this is something you might find deep within drow territory, a
+  priestess and her personal bodyguard complete with a showy thrall.
+
+## Final Impressions
+
+Did WotC succeed in shedding some of their Unfortunate Implications when it
+comes to drow? The descriptions here make me want to think they had some
+success, but for all I know 5e backtracked on all of this in the name of
+nostalgia.

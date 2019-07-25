@@ -6,9 +6,19 @@ tags:
     - lets-read
 ---
 
-Driders are another classic D&D monster. Mechanics-wise, these drow-spider
-beings still do pretty much what you would expect them to, but their background
-has changed significantly.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-drider.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+Driders are another classic D&D monster, about as old as the drow they're
+thematically attached to. Mechanics-wise, these drow-spider beings still do
+pretty much what you would expect them to, but their background has changed
+significantly.
 
 ## The Lore
 
@@ -51,9 +61,8 @@ automatically escape by teleporting. The web recharges on a 4-6.
 
 As a minor action, the fanglord can bite someone against whom it has combat
 advantage, dealing a piddly 1d4 physical damage and a nice 10 ongoing poison
-damage (save ends). It also has the Darkfire encounter power, a Ranged 10 attack
-which targets Reflex and makes the target grant combat advantage and become
-unable to hide for a turn.
+damage (save ends). It also has the Darkfire encounter power we saw in the Drow
+entry.
 
 The **Drider Shadowspinner** is a level 14 Skirmisher with 134 HP. It also wears
 leather, and fights with a shortsword and magic. It has trained Perception,
@@ -66,12 +75,8 @@ The shadowspinner's ranged attack is a Slashing Darkness spell that has a range
 of 5, targets Reflex, and does necrotic damage. It can also use the same Web as
 the Fanglord.
 
-The MM version has the Cloud of Darkness encounter power, a minor action that
-creates a Close Burst 1 cloud that lasts for a turn. It blocks line of sight,
-and blinds anyone caught inside it while they remain there. This wording makes
-me think this magical darkness is impervious to light spells and such. The
-drider itself is of course immune to all this. The MV version retains the cloud
-and gains the Darkfire power we already saw above.
+The MM version has the Cloud of Darkness encounter power, which we saw in the
+Drow entry. The MV version retains the cloud and also gains Darkfire.
 
 As passive traits, the shadowspinner gains concealment from Shifting Shadows if
 it ends the turn 3 or more squares away from its initial position, and it also
