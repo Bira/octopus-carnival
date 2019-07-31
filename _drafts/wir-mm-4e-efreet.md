@@ -6,15 +6,15 @@ tags:
     - lets-read
 ---
 
-Efreet are drawn from Middle Eastern mythology and Islamic tradition, which say
-it's a type of djinn often depicted as evil and associated with death. They've
-been in D&D at least since the days of First Edition as the official fire genies
-(other elements having their own genies as well). They're present both on the
-Monster Manual and on the Monster Vault.
+Efreets are drawn from Middle Eastern mythology and Islamic tradition, which say
+they're a type of djinn often depicted as evil and associated with
+death. They've been in D&D at least since the days of First Edition as the
+official fire genies (other elements have their own genies as well). They're
+present both on the Monster Manual and on the Monster Vault.
 
 ## The Lore
 
-Like in most editions, the Efreet in Fourth are fire genies, and are usually
+Like in most editions, the Efreets in Fourth are fire genies, and are usually
 evil antagonists. They come from the Elemental Chaos, where their civilization
 is one of the most ordered things in that chaotic plane.
 
@@ -29,9 +29,9 @@ There is no such thing as an "efreet commoner". Every single one of them is a
 noble with their own title, holdings and multitudes of servants and
 slaves. Though the number of existing efreets is on the small side, they project
 an incredible amount of power from their citadels spun from fire and metal. The
-greatest such settlement is the City of Brass, an oasis of stability that has
-stood unchanging since the dawn of time. From there, the Lord of All Efreets
-rules their civilization.
+greatest such settlement is the City of Brass, an oasis of stability in the
+Elemental Chaos that has stood unchanging since the dawn of time. From there,
+the Lord of All Efreets rules their civilization.
 
 Efreet houses constantly scheme against each other, and when one of them wins
 such a dispute they usually take a member of the losing house as a servant and
@@ -42,8 +42,8 @@ from!
 
 You see, Efreets don't actually have the ability to grant reality-bending
 wishes. They are however fantastically rich potentates with access to large
-multiversal organizations and epic-level magic, so the distinction might be lost
-on most mortals.
+multiversal organizations and epic-level magic, which makes the distinction moot
+for most mortals.
 
 These elemental nobles also like to organize hunting expeditions to other
 planes, going after big game such as dragons or other equivalent creatures just
@@ -61,7 +61,7 @@ fire damage taken by any enemy within. They can also fly and hover. The MM
 versions have no particular vulnerability to cold, but the MV versions are
 slowed for a turn when they take cold damage (a trait called Frozen Fire).
 
-Efreets are all highly intelligent and speak Primordial as their priary
+Efreets are all highly intelligent and speak Primordial as their primary
 language. They're also trained in all the skills you'd expect a society of
 magically-potent nobles to know.
 
@@ -70,9 +70,9 @@ Let's look at them in the order they appear on the Monster Manual.
 ### Efreet Fireblade
 
 This Level 22 Soldier has 206 HP. Present in both books, the MV version has a
-Blazing Soul aura that deals 5 fire damage, and Frozen Fire. The MM version
-lacks both of these traits but is still immune to fire. It runs with speed 6 and
-flies with speed 8 (hover).
+Blazing Soul aura that increases ongoing fire damage by 5, and Frozen Fire. The
+MM version lacks both of these traits but is still immune to fire. It runs with
+speed 6 and flies with speed 8 (hover).
 
 In both versions the Fireblade wields a scimitar. Its Reach 2 attacks mark the
 target for a turn on a hit. It can also throw the scimitar, Jedi-like, as a
@@ -167,7 +167,8 @@ The karadjin fights with a Scimitar of Horrendous Flame, which does both
 physical and fire damage alongside a heap of ongoing fire damage and
 immobilization (save ends both). There's also an ongoing fire damage
 _aftereffect_, which means it takes one save to end the immobilization and two
-to end the damage. All saves against both effects are at -2. Yikes!
+to end the damage. All saves against both effects are at -2. This is the
+karadjin's basic attack! Yikes!
 
 As a reaction, the karadjin can perform the above attack against someone who
 just hit it with a melee attack. And as a minor action, it can order an
@@ -206,7 +207,7 @@ the evil of an efreet is not the cosmic evil of a devil. Rather, it's the evil
 of a fantastically wealthy person whose culture prevents them from developing
 empathy with anyone from a lower social class.
 
-Mostly you're still going to direct all your swords cold spells at them, but
-this opens the possiblity that there are efreets out there who managed to turn
-out Good anyway, possibly due to converting to worship of a good god. This is
-both an interesting development and true to the original myth.
+Mostly you still have plenty of reason to direct all your swords cold spells at
+them, but this opens the possiblity that there are efreets out there who managed
+to turn out Good anyway, possibly due to converting to worship of a good
+god. This is both an interesting development and true to the original myth.

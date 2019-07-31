@@ -109,3 +109,9 @@ makes more sense than the previous backstory for them, because I never thought
 that "oh no, I have been cursed with awesome power" made much sense. I mean,
 yeah, you're now a horrible half-spider monster, but for Lolth worshippers that
 should be a plus.
+
+Mechanically they pair really well with drow: the drow stat blocks lack any
+heavy frontliners, and both the standard Drider and the Fanglord fit neatly into
+that gap. The web powers from the Shadowspinner and Fanglord also do much to
+benefit drow warriors or other lurkers, granting them easy and potentially
+long-lasting combat advantage.

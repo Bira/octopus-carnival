@@ -29,8 +29,7 @@ In Fourth Edition's implied setting, recorded dwarf history pretty much begins
 with a centuries-long period of enslavement to the giants, and the process by
 which they rebelled against their masters with the aid of the forge god Moradin
 shapes their culture to this day. So yeah, while these dwarves still distrust
-elves and constantly fight goblins and orcs, they hold special hatred for giants
-in their hearts.
+elves and constantly fight goblins and orcs, it's the giants they really hate.
 
 ## The Numbers
 
@@ -58,8 +57,9 @@ So the proper way to use these warriors is to form them up in a large firing
 line overlooking an open killing field. They can still hold their own in melee,
 too, so you can also have them in a square Roman-legion like formation that
 slowly walks up to the enemy while shooting them before engaging with the
-hammers. That last bit works a lot better if the opposition doesn't have area
-attacks, of course.
+hammers. That last bit works better if the opposition doesn't have any area
+attacks, but Dwarf Solidarity ensures they have some extra protection from many
+of those as well.
 
 ### Dwarf Clan Guard
 
@@ -113,7 +113,7 @@ for the most part and which are implied to include a lot more regulars. So
 according to the MV, the typical dwarf settlement is in trouble and could really
 use some outside adventurer help!
 
-The MM entries are a level 4 and a level 5 regular, meaning that typical dwarf
+The MM entries are level 4-5 regulars, which would mean that typical dwarf
 settlement can hold its own against orcs and goblins unless the other side has a
 crushing numbers advantage.
 

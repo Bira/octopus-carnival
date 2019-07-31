@@ -37,7 +37,7 @@ _diplomatic_ about it.
 
 Thrune hosts an award ceremony at the Kintargo Opera House and issues a very
 public invitation to the PCs. During the ceremony he makes a speech praising
-their civic-mindedness and presents them with gifts.
+their civic-mindedness and hands out valuable gifts.
 
 While The Barzilai has it out of the PCs, he will not try to hurt them here, and
 will do his best to appear civil. The gifts are even magic items tailored to be
@@ -57,50 +57,80 @@ becoming a genius loci not long before the public ceremony, and so is looking a
 bit haggard and pale. He'll be back in top form in time for the fight against
 the PCs, of course.
 
+After the ceremony, you should give the group access to the full map of the
+Lucky Bones basement, secret passages and all, and let them have fun turning it
+into a deathtrap dungeon using the resources of the Silver Ravens. The defenses
+they install here will be very relevant if/when Thrune discovers its location
+and orders his goons to mount an attack.
+
 ## Going Off the Rails
 
 The book seems to treat the award ceremony as sort of a closing cutscene in this
 adventure, but if you think about it a bit more there are a few things that can
-derail it. You shouldn't prevent your PCs from going off the rails, but here are
-some tips on how to adapt if that happens.
+make it go off the rails. Here I'll discuss these things and how to adapt if
+they happen.
 
-It could be that your PCs were so good at covering their tracks none of their
-big public deeds was very public at all. Maybe they let someone else take the
-credit for catching the Slasher and otherwise did their utmost to prevent their
-Notoriety from rising. On the one hand, Thrune would know almost nothing about
-them. On the other, he'd have no reason to host the ceremony, preventing the
-"tense encounter". I imagine it's actualy better for the PCs in the long run if
-it doesn't happen, but it's going to change some of the big assumptions on
-future books.
+### Thing 1: Silver Who?
 
-The PCs could simply not show up to the ceremony, which would certainly be
-funny! Depending on how they've been presenting themselves to the public, this
-could actually have a positive repercussion for them, though most likely it
-would disappoint people and ding their reputation a bit. Other than that the
-plot remains mostly intact.
+It could be that your PCs were so good at covering their tracks that they
+performed all the deeds the books consider flashy and public in a very discreet
+manner. Maybe they let someone else take the credit for catching the Slasher and
+otherwise did their utmost to prevent their Notoriety from rising. On the one
+hand, Thrune would know almost nothing about them. On the other, he'd have no
+reason to host the ceremony, preventing the "tense encounter".
 
-And there is the ever so tempting approach of "show up, take the awards, stab
-Thrune in front of all Kintargo, drop the mic". The book tries to discourage
-this by describing Barzilai's entourage, which includes a dozen beefy
-hellknights, Kintargo's High Priest of Asmodeus, and two very large three-headed
-hellhounds. This might work as a deterrent on Pathfinder, since it sends the
-message that "this encounter would be much higher level than your party", but it
-might not be enough to dissuade a party of foolhardy Dungeon Fantasy delvers
-from having a go. It would likely still not be an _easy_ battle, but hey,
-Barzilai is less than three feet away, he's weakened from his sinister ritual,
-and if he dies anything but a natural death his master plan is foiled!
+I imagine it's actualy better for the PCs in the long run if it doesn't happen,
+as the Silver Ravens should gather at least _some_ fame and notoriety for their
+deeds. The people of Kintargo can't support you if they don't know who your are!
+Still, if your PCs are this committed to being stealthy ninjas, the ceremony
+would either not happen at all, or it would have whoever the PCs pinned their
+successes on as the guest of honor. This would also change a few other things
+down the line.
+
+### Thing 2: We're Not Going to the Fucking Opera House.
+
+The PCs could simply not show up to the ceremony! Even here they could do this
+in one of several ways, from simply ghosting Barzilai to issuing this section's
+title as a public statement.
+
+However they handle it, this is sure to have a polarizing effect on Kintargo's
+citizens. People who already liked them will love this, people who already liked
+Thrune will hate it, and some of those who were on the fence will fall to
+whatever side they were closest to. Mechanically, this is an increase both in
+the rebellion's number of supporters and its Notoriety score, modified by the
+specific response the PCs chose to give and by their actions in this adventure.
+
+Interestingly enough, this _shouldn't_ have much of an impact in the future
+direction of the campaign. The biggest one is that PCs who didn't attend the
+ceremony are sure to not be carrying Barizilai's trap items when that becomes
+relevant.
+
+### Thing 3: Hi there! Prepare to Die!
+
+What if your PCs _do_ stab Barzilai in front of a crow of thousands? The book
+tries to discourage this by describing Barzilai's entourage, which includes a
+dozen beefy hellknights, Kintargo's High Priest of Asmodeus, and two very large
+three-headed hellhounds. This might work as a deterrent on Pathfinder, since it
+sends the message that "this encounter would be much higher level than your
+party", but it might not be enough to dissuade a party of foolhardy Dungeon
+Fantasy delvers from having a go. It would likely still not be an easy battle,
+but hey, Barzilai is less than three feet away, he's weakened from his sinister
+ritual, and if he dies anything but a natural death his master plan is foiled!
 Fast-Draw, behead, profit!
 
 Should the PCs succeed in killing Barzilai Thrune here, they haven't exactly
 "won" Hell's Rebels yet. They still have a rebellion to conduct and that just
-got a lot harder since killing the Lord-Mayor in such a public way is likely to
-erode a lot of the good reputation the Ravens might have accrued among the more
-moderate citizens. All of the adventure steps related to organizing the
-rebellion still need to happen, and they need to happen much faster since
-Cheliax is going to have some extra incentive to send a rebel-crushing army to
-Kintargo. No one liked Thrune much, but they would still have to answer his
-murder with overwhelming force at this stage. Also, the rest of Thrune's cronies
-would have the perfect excuse to go fullly genocidal on the city.
+got a lot harder. Kintargo will be thrown into open conflict much earlier than
+the books predict, as Thrune's cronies will have the perfect excuse to go fully
+genocidal on the citizenry and the central Cheliax government will feel
+pressured to send an army to respond to this event even though they didn't like
+Barzilai all that much. All of the things that needed to happen for the overall
+revolution to be successful now need to happen _a lot faster_, and likely
+without the help of those friendly factions that conditioned their support on
+the PCs not being violent hotheads.
 
-What I'm saying is, the PC (and the player!) that goes up to shake Barzilai's
-hand at this ceremony better not be Impulsive.
+In other words, the overall challenge level of the campaign will swiftly rise to
+match the level of power and audacity of a party that manages to kill Barzilai
+in the ceremony and get away with it. If the players aren't confident that they
+_have_ that level of badassitude, then the PC that goes up to shake Barzilai's
+hand had better not be Impulsive and/or Bloodthirsty.

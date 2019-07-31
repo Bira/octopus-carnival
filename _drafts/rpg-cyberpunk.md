@@ -32,7 +32,7 @@ future games.
 
 ### Style Over Substance
 
-The first is that it holds up visual style as the most important thing about the
+Cyberpunk 2020 holds up visual style as the most important thing about the
 genre, enthusiastically engaging in the sort of prop fixation I talked about in
 the previous post. As far as I know the "style over substance" maxim originates
 in this game, not in the books that inspired it. You don't play CP2020 because
@@ -40,7 +40,7 @@ you want to meditate on what the bleak future depicted there says about your
 present. You play it because you want to be a cybered-up badass with an armored
 leather jacket and computerized mirrorshades.
 
-From CP2020 on, the word "cyberpunks" began to refer to, well, cybered-up punks
+From CP2020 on, the word "cyberpunk" began to refer to, well, cybered-up punks
 in the minds of roleplayers[^2]. Now they had a specific look they had to copy
 if they wanted to be in-genre, just like you had to have knights in plate and
 wizards in flowing robes when playing D&D.
@@ -62,25 +62,26 @@ technology imagined in that edition was quite prescient.
 
 This trope was R. Talsorian's next big contribution to the genre of "RPG
 Cyberpunk". I'm guessing it started innocently enough. Cyberware in this game
-makes you powerful. If you have "too much" cyberware you become "too
-powerful". Therefore we need a limiter on the amount of cyberware you can cram
-into a character. Money doesn't quite work for this because PCs are expected to
-get rich over time. We have to use something else.
+makes characters powerful. If a PC has "too much" cyberware they become "too
+powerful". Therefore we need a hard limit on the amount of cyberware you can
+cram into a character. Money doesn't quite work for this because PCs are
+expected to get richer over time. We have to use something else.
 
 And so the Humanity rules were born. Each piece of cyberware has a "Humanity
 Cost" that's directly proportional to how powerful it is. As the total Humanity
 Cost of your implants mounts, your Empathy stat falls, making you worse at
 handling social situations. When it gets to 0 you become an NPC mass-murdering
-maniac.
+maniac. You can only recover your Empathy if you remove the corresponding
+implants first.
 
 There's a whole clinical-sounding section in CP2020 about how the human psyche
 isn't really capable of coping with the presence of cyberware, and how it makes
-one feel isolated from and "superior" to their peers. That was just a crummy
+one feel isolated from and "superior" to their peers. That was just a
 justification for the inclusion of these balance-enforcing rules, really -
 explicit separation between mechanics and fiction wasn't a popular concept in
 tabletop RPGs back then.
 
-Shadowrun would not only ape this trope when it released not long after, but go
+Shadowrun would not only use this trope when it released not long after, but go
 even further by saying that cybernetic implants _literally eat your
 soul_. Install too many and you die because you run out of soul. No, your soul
 doesn't grow back even if you remove the offending implants; yes, it makes
@@ -96,25 +97,17 @@ _more_ human after acquiring prosthetic limbs or other therapeutic implants.
 
 ## Cartoonishly Evil Corporations
 
-Literary cyberpunk never viewed large corporations and billionaires in a
-positive light. Again taking Gibson's work as an example, there's this phrase in
-Count Zero that applies to everything the man wrote: "The very rich are no
-longer even remotely human." Yeah, you read that right: what makes you less
-human in literary cyberpunk isn't an excess of implants, but an excess of
-wealth! You might say that the ultimate villain of literary cyberpunk is
-_capital_.
+No, literary cyberpunk never looked at large corporations and the billionaires
+that own them with a favorable eye. William Gibson spells it out right there on
+the pages of Count Zero: "the very rich are no longer remotely human." It's not
+implants that make you less human in cyberpunk, it's _capital_.
 
-Games like CP2020 and Shadowrun seemingly felt the need to simplify that a
-bit. I can only speculate as to why: it was the US at the tail end of the Cold
-War, so outright saying that capitalism is bad was likely
-unfashionable. Particularly in an entertainment product potentially aimed at
-teenagers.
+However, these are games written in the late-80s/early-90s US, right around when
+Francis Fukuyama made his "end of history" speech. Their authors probably
+figured they wouldn't sell a lot of copies if their corebooks said "capital is
+evil". So they used the next best thing, the concept of megacorporations.
 
-Instead, the Big Bads of these games are a small set of mega-corporations that
-do a lot of over-the-top evil stuff like despoil the environment out of greed
-and miserliness, treat their lower-ranked employees like slaves, keep
-politicians and the media compliant through bribes and financial pressure, and
-maintain heavily-armed, trigger-happy security forces.
+
 
 [1]: {{ "/2018/12/13/on-cyberpunk.html" | absolute_url }}
 

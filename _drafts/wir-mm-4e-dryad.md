@@ -57,8 +57,7 @@ A significant difference between the two books is that Deceptive Veil tends to
 be the only "manipulative" power the MM dryads have, while the MV tends to give
 them some charm powers as well.
 
-We'll look at them by level order, meaning we'll go through all of the MV
-entries first, and then all of the MM entries.
+We'll look at them by level order, from lowest to highest.
 
 ### Dryad Recluse
 
@@ -79,8 +78,8 @@ has less loopholes for PCs to exploit. Sure, the PC will take less damage from
 friendly fire, but they can't move away, can be attacked by the dryad, and have
 well-defined situations where they must attack their allies. Also note that
 there's _no save_ against any of these effects - once the PC is hit by the
-Sylvan Charm, they remain charmed until one of their buddies manages to push
-them away from the dryad or it decides to charm someone else.
+Sylvan Charm, they remain charmed until the dryad moves (or is pushed) away, or
+until it decides to charm someone else.
 
 It's perfectly possible for a dryad recluse to attack from ambush, charm
 someone, and treestride away with the victim in tow, never to be seen again. At
@@ -130,7 +129,7 @@ its place, adding the skills if those prove necessary.
 
 ### Dryad Briar Witch
 
-This MM entry is a Level 13 Elite Skirmisher with 262 HP. Unlike the "normal"
+This MM entry is a Level 13 Elite Controller with 262 HP. Unlike the "normal"
 Witch from the MV, this one is all about the thorns.
 
 The Briar Witch has _two_ auras: Curse of Thorns has radius 3 and deals 2 damage
@@ -138,11 +137,12 @@ to enemies without Forest Walk every time they move into a square in the aura,
 whether voluntarily or due to forced movement. Thorn Boon has radius 6 and gives
 a +5 damage bonus to the melee attacks of all allied plant creatures within.
 
-Its claw attack is weak and generally not worth using. Its main at-will ranged
-attack is a Briar Cage, which has range 5 and targets Reflex. On a hit it deals
-both immediate and ongoing damage, and also restrains the target (save ends
-both). This is an actual, physical briar cage, so it gives cover to the victim
-and can be destroyed with physical attacks (it has 25 HP and Resist All 10).
+Its basic claw attack is pretty standard and generally not worth using without a
+damage fix. Its main at-will ranged attack is a Briar Cage, which has range 5
+and targets Reflex. On a hit it deals both immediate and ongoing damage, and
+also restrains the target (save ends both). This is an actual, physical briar
+cage, so it gives cover to the victim and can be destroyed with physical attacks
+(it has 25 HP and Resist All 10).
 
 The Briar Witch's thorny body causes 5 damage at the start of its turn to any
 creature that grabs it. It also has the common dryad powers.

@@ -1,0 +1,187 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Eladrin"
+tags:
+    - lets-read
+    - dnd4
+---
+
+I've already talked about eladrin in passing when discussing drow, and now I'm
+going to get into more detail on them. They're present in both books, though
+they're mixed into the general "Elf" entry on the Monster Vault.
+
+"Eladrin" is one of those names that used to refer to something else entirely in
+previous editions. In this case, the name belonged to a set of Chaotic Good
+Outsiders from Arcadia, only some of whom resemble elves. Now it belonges to a
+playable race that has its roots in the Feywild.
+
+While no D&D player expects elves to be Santa's little helpers, there are
+several competing visions of what a "proper" elf should be. Woodsy archers who
+wear earth-toned cloaks and shoot bows really well, like Legolas? Ethereal fey
+wizards who live in resplendent silver cities, like Galadriel? Several of the
+game's settings in previous editions made attempts to accommodate both concepts,
+and Eladrin are part of 4e's own effort.
+
+In short: Legolas is an elf, Galadriel is an eladrin.
+
+## The Lore
+
+As we saw with drow, back in the dawn of time there was only a single
+"proto-elven" fey people, created by Corellon the god of magic and beauty. They
+lived in the Feywild, where they built fantastic empires powered by arcane
+magic.
+
+Over time this ancient people underwent something of a diaspora, with part of
+them migrating to the world and adapting to its local conditions, becoming the
+elves we know today. Some of _those_ would in turn convert to the worship of
+Lolth and get driven into the Underdark, becoming the drow.
+
+Those who stayed in the Feywild are known today as the Eladrin. Are they still
+the same ancestral fey of legend, or have they undergone changes of their own?
+Only your GM can tell.
+
+Eladrin and elves still look somewhat similar, but still have some obvious
+visual differences that make distinguishing the two easier. The most striking of
+those are the eyes, which are solid orbs of blue, green or violet. Eladrin hair
+also tends to be a brilliant white, or a metallic color like silver or
+gold. Their skin can be of any tone found in humans, but the lighter tones are
+more common. Less obviously, eladrin also tend to be a bit taller than elves,
+and they're longer-lived.
+
+Most eladrin live in those fabulous Feywild cities, which are usually built in
+places that touch the world with some frequency. Thus they're a common enough
+sight in the world to justify their inclusion as a playable character option.
+
+Your typical eladrin citizen has a somewhat detached view of the world,
+particularly since their cities weren't affected by any of the bad stuff that
+took down Nerath. Still, that typical citizen is still pretty relatable all
+things considered.
+
+The higher-up an eladrin is in their society, the more magically powerful and
+weird they tend to be. Eladrin nobles are fully involved with the Fey Courts,
+taking titles relating to the seasons or other abstract concepts. The most
+powerful among them are quite likely to have become true fae and be the sort of
+person who makes pacts with warlocks.
+
+## The Numbers
+
+The Monster Manual and Monster Vault give us four eladrin stat blocks each. Two
+of them (the Fey Knight and Twilight Incanter) appear in both books. The ones in
+the Monster Vault are clustered around the late-Heroic tier, but the ones in the
+MM start there and go all the way to epic. All the MM ones have an alignment of
+"Any", while the MV ones are listed as unaligned. In either case this means they
+can be either enemies or allies depending on the specific individuals that
+appear in your stories.
+
+All eladrin are Medium Fey Humanoids, and their most famous signature trait is
+Fey Step, an encounter power which allows them to teleport 5 squares as a move
+action. They also have low-light vision, and a +5 bonus to saves against charm
+effects.
+
+We start with the MV-only **Eladrin Bow Mage**, who is Level 7 Minion
+Artillery. It has Speed 6, is trained in Perception and carries a magic bow that
+fires Force Arrows: Ranged 20 vs. AC, a hit does force damage and pushes 1
+square. These wouldn't be stealthy tree-climbing snipers, but rather battlefield
+archers that fire in formation. You'll want to have then in a _loose_ formation,
+though, to avoid those area-effect attacks.
+
+The **Eladrin Fey Knight** exists in both books. It's a Level 7 Soldier with 77
+HP. It wears mail, and wields a light shield and a longsword.  The MV version is
+clearly the best of the two, so let's start with that.
+
+The fey knight cuts a striking presence in the battlefield, projecting a Feywild
+Tactics aura in a 5-square radius that allows allies in range to score criticals
+on a roll of 19-20 rather than just on a natural 20. There are very few
+abilities in 4e that mess with critical range - IIRC this is the first one I've
+seen on this Let's Read.
+
+Beyond the basic longsword attack, the fey knight can also attack with a Stab of
+The Wild: Recharge 5-6, Melee 1 vs. AC, a hit does more damage than the basic
+attack and restrains the target for a turn with what I assume are entangling
+vines. As a minor action it can issue a Feywild Challenge to mark a target
+within a Close Burst 5. It's kinda like a paladin mark, lasting until the end of
+the encounter or until the knight uses the challenge again, and dealing a bit of
+radiant damage to the target when it doesn't attack the eladrin on its turn.
+
+The fey knight can also protect its allies with Harvest's Sorrow, an immediate
+interrupt that allows it to take half the damage of an attack directed at an
+ally within 5 squares. It of course also has Fey Step.
+
+The MV version is similar but a bit clunkier aside from the damage bug. Stab of
+The Wild works the same but the knight can't use its sword while a target is
+entangled. Feywild Challenge has a range of 10 but is an encounter power. Use
+the MV version if possible.
+
+The **Eladrin Twilight Incanter** is a Level 8 Controller with 82 HP, present in
+both books. It wields a spear in combat, and its strikes slow the target for a
+turn in addition to doing damage. Since the incanter is a Controller, its spear
+attack actually has decent accuracy and damage!
+
+It's also dangerous at range, with a suite of spells. Binding Bolt (Ranged 5
+vs. Reflex) does force damage and immobilizes for a turn. On a miss, it instead
+slows for a turn. Teleporting Bolt (Ranged 5 vs. Reflex) does force damage and
+teleports the target 3 squares on a hit. On a miss it still teleports the target
+1 square. Its final spell is Dazzling Blast (recharge 5-6, close blast 3
+vs. Will), which does radiant damage and blinds for a turn on a hit.
+
+The MM version has Range 10 on the bolt spells, and specifies that Teleporting
+Bolt can't teleport someone to an unsafe square. That's just no fun, so I see
+why it's gone from the MV version. I suppose the teleport victim can still roll
+a save to throw itself at an adjacent safe square at the last minute, as
+standard for forced movement.
+
+The **Eladrin Battle Dancer** is a MV-only Level 9 Skirmisher. It has speed 6
+despite wearing mail, and fights with a longsword. The basic sword attack, named
+Dancing Blade, causes the battle dancer to become invisible to the target for a
+turn! It also has a Battle Dance encounter power that allows it to shift its
+speed and perform a basic attack against any enemies it passes adjacent to.
+
+It seems the Battle Dancer has also put some extra practice into its
+teleportation, for it replaces the usual Fey Step with a _Surprise_ Fey
+Step. The range is the same, but it recharges on a 3-6 and grants the dancer
+combat advantage against every enemy it appears next to.
+
+The MM then skips us right into the late Paragon tier with the **Bralani of
+Autumn Winds**. This used to be a type of outsider in 3.x, but now it's
+apparently a rank in the fey courts. This fey noble is a Level 19 Controller
+with 180 HP. It has Resist 20 Radiant and is vulnerable to necrotic damage,
+which slows it for a turn. The bralani is surrounded by the Cloak of Autumn
+Winds, an aura 5 that makes its enclosing volume difficult terrain for enemies -
+even if they're flying.
+
+Its basic longsword attack does nothing special aside from the damage, but once
+per encounter the bralani can curse someone with Autumn Chill (Ranged 5
+vs. Will), which weakens the target until the end of the encounter! It can also
+use an at-will Whirlwind Blast (Close Blast 5 vs. Fortitude). On a hit this does
+thunder damage and pushes targets 2 squares (3 on a critical). On a miss it
+still does half damage.
+
+A bit higher up in the totel pole is the **Ghaele of Winter**, Level 21
+Artillery with 134 HP. It has 25 cold and radiant resistance, and the same
+necrotic vulnerability described for the bralani. This ghaele is, well, an
+Elsa. Its basic attack is Winter's Touch, which does cold damage. It can cast
+Freezing Rays (Ranged 12 vs. Reflex) that do cold damage and slow (save ends).
+
+It can create bursts of Chilling Defiance (Close Burst 3) at will, which hit
+automatically, do a flat 10 cold damage and slow for a turn. For each target
+that takes damage from this, the ghaele regains 2 HP. It can also command
+someone to let it go with its Imperious Wrath (minor action, Close Burst 3
+vs. Will), which dazes targets _until the end of the encounter_. This recharges
+whenever the ghaele regains 4 HP or more from a single casting of Chilling
+Defiance. Fey Step rounds out its abilities.
+
+So yeah, this is an artillery monster you do _not_ want to go near.
+
+## Sample Encounters and Final Impressions
+
+There is one sample encounter here, but thematically, it's a doozy: Level 21, 1
+ghaele of winter and 4 wild hunt hounds. Yup, the Wild Hunt exists in this
+setting, and it's run by and for the less friendly sort of epic-level eladrin.
+
+As far as attempted solutions to Elf Overload go, I like eladrin a lot. Their
+name doesn't include the word "elf" anywhere, making it a bit easier to remember
+which is which. They're an entirely different race mechanically, which is a
+better solution than others I've seen that ended up loading up a single "elf"
+race with bonuses related to both concepts. They're also really atmospheric on
+their own, of course, and allow players to portray genuine fae folk from level 1
+if they so choose.

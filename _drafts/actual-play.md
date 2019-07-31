@@ -24,7 +24,7 @@ question would work in a game, because they already have!
 Then there's the _how_. Writing up session reports is as much of an art as
 writing any other kind of fiction, which means there are many different ways to
 do it. I've started reading a lot of reports that looked extremely interesting
-only to eventually drop them because the format was not to my liking.
+at first, only to eventually drop them because the format was not to my liking.
 
 Overall, I'd say my preferred format for an Actual Play report is a relatively
 short narrative summary of the session. It must give me a real sense of who the
