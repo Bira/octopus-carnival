@@ -46,6 +46,9 @@ This is an ongoing project. These are the posts that comprise it:
         first level of the dungeon.
       - [Part 3-3: Flooded Hideout][11] covers the second level of the dungeon.
 
+    - [Part 4: Conclusion][12] covers the final "cutscene" and the main ways in
+      which it can go off the rails due to unforeseen PC badassitude.
+
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
@@ -57,3 +60,4 @@ This is an ongoing project. These are the posts that comprise it:
 [9]: {{ "/2019/03/27/hells-rebels.html" | relative_url }}
 [10]: {{ "/2019/01/28/hells-rebels-part-2-part-3-part-1.html" | relative_url }}
 [11]: {{ "/2019/06/05/hells-rebels.html" | relative_url }}
+[12]: {{ "/2019/08/01/hells-rebels.html" | relative_url }}
