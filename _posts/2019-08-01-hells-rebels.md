@@ -134,3 +134,6 @@ match the level of power and audacity of a party that manages to kill Barzilai
 in the ceremony and get away with it. If the players aren't confident that they
 _have_ that level of badassitude, then the PC that goes up to shake Barzilai's
 hand had better not be Impulsive and/or Bloodthirsty.
+
+
+[1]: {{ "/projects/hells-rebels/" | relative_url }}
