@@ -49,6 +49,11 @@ After this, we get right on the monsters:
   - [Behemoths][15]: Dinosaurs!
   - [Berbalang][16]: Memory-eaters loosely based on Filipino myth.
   - [Boar][17]: Nature's porcine badasses.
+  - [Bodak][18]: Coneheads with a deadly gaze.
+  - [Boneclaw][21]: My, what big nails you have.
+  - [Bullete][19]: Land-sharks!
+  - [Cambion][20]: The offspring of mortals and devils.
+  - [Carrion Crawler][22]: Another classic.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -67,3 +72,8 @@ After this, we get right on the monsters:
 [15]: {{ "/2019/05/13/behemoth.html" | relative_url }}
 [16]: {{ "/2019/06/04/berbalang.html" | relative_url }}
 [17]: {{ "/2019/06/18/boar.html" | relative_url }}
+[18]: {{ "/2019/06/26/bodak.html" | relative_url }}
+[19]: {{ "/2019/07/22/bullete.html" | relative_url }}
+[20]: {{ "/2019/07/25/cambion.html" | relative_url }}
+[21]: {{ "/2019/07/02/boneclaw.html" | relative_url }}
+[22]: {{ "/2019/08/01/carrion-crawler.html" | relative_url }}

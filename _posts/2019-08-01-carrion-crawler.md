@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-carrion-crawler.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The first version of D&D I ever player was one of the many Basic boxes, and I
 remember carrion crawlers being there. It's quite likely they've been a thing
 since the beginning.
