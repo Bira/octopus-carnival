@@ -61,7 +61,7 @@ The higher-up an eladrin is in their society, the more magically powerful and
 weird they tend to be. Eladrin nobles are fully involved with the Fey Courts,
 taking titles relating to the seasons or other abstract concepts. The most
 powerful among them are quite likely to have become true fae and be the sort of
-person who makes pacts with warlocks.
+entity who makes pacts with warlocks.
 
 ## The Numbers
 
@@ -78,16 +78,20 @@ Fey Step, an encounter power which allows them to teleport 5 squares as a move
 action. They also have low-light vision, and a +5 bonus to saves against charm
 effects.
 
-We start with the MV-only **Eladrin Bow Mage**, who is Level 7 Minion
-Artillery. It has Speed 6, is trained in Perception and carries a magic bow that
-fires Force Arrows: Ranged 20 vs. AC, a hit does force damage and pushes 1
-square. These wouldn't be stealthy tree-climbing snipers, but rather battlefield
-archers that fire in formation. You'll want to have then in a _loose_ formation,
-though, to avoid those area-effect attacks.
+### Eladrin Bow Mage
 
-The **Eladrin Fey Knight** exists in both books. It's a Level 7 Soldier with 77
-HP. It wears mail, and wields a light shield and a longsword.  The MV version is
-clearly the best of the two, so let's start with that.
+The bow mage is Level 7 Minion Artillery. It has Speed 6, is trained in
+Perception and carries a magic bow that fires Force Arrows: Ranged 20 vs. AC, a
+hit does force damage and pushes 1 square. These wouldn't be stealthy
+tree-climbing snipers, but rather battlefield archers that fire in
+formation. You'll want to have then in a _loose_ formation, though, to avoid
+those area-effect attacks.
+
+### Eladrin Fey Knight
+
+This one exists in both books. It's a Level 7 Soldier with 77 HP. It wears mail,
+and wields a light shield and a longsword.  The MV version is clearly the best
+of the two, so let's start with that.
 
 The fey knight cuts a striking presence in the battlefield, projecting a Feywild
 Tactics aura in a 5-square radius that allows allies in range to score criticals
@@ -107,22 +111,28 @@ The fey knight can also protect its allies with Harvest's Sorrow, an immediate
 interrupt that allows it to take half the damage of an attack directed at an
 ally within 5 squares. It of course also has Fey Step.
 
-The MV version is similar but a bit clunkier aside from the damage bug. Stab of
+The MM version is similar but a bit clunkier aside from the damage bug. Stab of
 The Wild works the same but the knight can't use its sword while a target is
 entangled. Feywild Challenge has a range of 10 but is an encounter power. Use
 the MV version if possible.
 
-The **Eladrin Twilight Incanter** is a Level 8 Controller with 82 HP, present in
-both books. It wields a spear in combat, and its strikes slow the target for a
-turn in addition to doing damage. Since the incanter is a Controller, its spear
-attack actually has decent accuracy and damage!
+There are knights, so you can probably give them some sort of gallant fey steed
+if you need to. They're the ones fighting at the front and protecting that unit
+of bow mages, and also make up the core of a noble's guard detail.
 
-It's also dangerous at range, with a suite of spells. Binding Bolt (Ranged 5
-vs. Reflex) does force damage and immobilizes for a turn. On a miss, it instead
-slows for a turn. Teleporting Bolt (Ranged 5 vs. Reflex) does force damage and
-teleports the target 3 squares on a hit. On a miss it still teleports the target
-1 square. Its final spell is Dazzling Blast (recharge 5-6, close blast 3
-vs. Will), which does radiant damage and blinds for a turn on a hit.
+### Eladrin Twilight Incanter
+
+This wizard is a Level 8 Controller with 82 HP, present in both books. It wields
+a spear in combat, and its strikes slow the target for a turn in addition to
+doing damage. Since the incanter is a Controller, its spear attack actually has
+decent accuracy and damage!
+
+The incanter is also dangerous at range, with a suite of spells. Binding Bolt
+(Ranged 5 vs. Reflex) does force damage and immobilizes for a turn. On a miss,
+it instead slows for a turn. Teleporting Bolt (Ranged 5 vs. Reflex) does force
+damage and teleports the target 3 squares on a hit. On a miss it still teleports
+the target 1 square. Its final spell is Dazzling Blast (recharge 5-6, close
+blast 3 vs. Will), which does radiant damage and blinds for a turn on a hit.
 
 The MM version has Range 10 on the bolt spells, and specifies that Teleporting
 Bolt can't teleport someone to an unsafe square. That's just no fun, so I see
@@ -130,24 +140,27 @@ why it's gone from the MV version. I suppose the teleport victim can still roll
 a save to throw itself at an adjacent safe square at the last minute, as
 standard for forced movement.
 
-The **Eladrin Battle Dancer** is a MV-only Level 9 Skirmisher. It has speed 6
-despite wearing mail, and fights with a longsword. The basic sword attack, named
-Dancing Blade, causes the battle dancer to become invisible to the target for a
-turn! It also has a Battle Dance encounter power that allows it to shift its
-speed and perform a basic attack against any enemies it passes adjacent to.
+### Eladrin Battle Dancer
+
+This is a MV-only Level 9 Skirmisher. It has speed 6 despite wearing mail, and
+fights with a longsword. The basic sword attack, named Dancing Blade, causes the
+battle dancer to become invisible to the target for a turn! It also has a Battle
+Dance encounter power that allows it to shift its speed and perform a basic
+attack against any enemies it passes adjacent to.
 
 It seems the Battle Dancer has also put some extra practice into its
 teleportation, for it replaces the usual Fey Step with a _Surprise_ Fey
 Step. The range is the same, but it recharges on a 3-6 and grants the dancer
 combat advantage against every enemy it appears next to.
 
-The MM then skips us right into the late Paragon tier with the **Bralani of
-Autumn Winds**. This used to be a type of outsider in 3.x, but now it's
-apparently a rank in the fey courts. This fey noble is a Level 19 Controller
-with 180 HP. It has Resist 20 Radiant and is vulnerable to necrotic damage,
-which slows it for a turn. The bralani is surrounded by the Cloak of Autumn
-Winds, an aura 5 that makes its enclosing volume difficult terrain for enemies -
-even if they're flying.
+### Bralani of Autumn Winds
+
+The MM sends us right into the late Paragon tier! A bralani used to be a type of
+outsider in 3.x, but now it's apparently a rank in the fey courts. This
+wind-themed noble is a Level 19 Controller with 180 HP. It has Resist 20 Radiant
+and is vulnerable to necrotic damage, which slows it for a turn. The bralani is
+surrounded by the Cloak of Autumn Winds, an aura 5 that makes its enclosing
+volume difficult terrain for enemies - even if they're flying.
 
 Its basic longsword attack does nothing special aside from the damage, but once
 per encounter the bralani can curse someone with Autumn Chill (Ranged 5
@@ -155,6 +168,8 @@ vs. Will), which weakens the target until the end of the encounter! It can also
 use an at-will Whirlwind Blast (Close Blast 5 vs. Fortitude). On a hit this does
 thunder damage and pushes targets 2 squares (3 on a critical). On a miss it
 still does half damage.
+
+### Ghaele of Winter
 
 A bit higher up in the totel pole is the **Ghaele of Winter**, Level 21
 Artillery with 134 HP. It has 25 cold and radiant resistance, and the same
