@@ -223,5 +223,5 @@ empathy with anyone from a lower social class.
 Mostly you still have plenty of reason to punch them, but this opens the
 possiblity that there are efreets out there who managed to turn out Good anyway,
 possibly due to converting to worship of a good god. This is both an interesting
-development and true to the original stories, which often had good djinns of all
-kinds that had converted to Islam.
+development and true to the original stories, which often features djinns of all
+kinds who turned good because they converted to Islam.
