@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-efreet.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Efreets are drawn from Middle Eastern mythology and Islamic tradition, which say
 they're a type of djinn often depicted as evil and associated with
 death. They've been in D&D at least since the days of First Edition as the
@@ -50,7 +59,11 @@ planes, going after big game such as dragons or other equivalent creatures just
 for the fun of it. It's like a British fox hunt on a grand scale, particularly
 when you remember that fox hunters basically acted like raiding hooligans who
 wantonly trespassed on people's properties, trampled their livestock, and
-threatened them with violence in the name of a jolly good bit of sport.
+threatened complainers with violence in the name of a jolly good bit of sport.
+
+I find the official illustration above to be somewhat innacurate. These efreets
+should be wearing fantastic fireproof finery instead of these drab loincloths
+and plain mail.
 
 ## The Numbers
 
@@ -207,7 +220,8 @@ the evil of an efreet is not the cosmic evil of a devil. Rather, it's the evil
 of a fantastically wealthy person whose culture prevents them from developing
 empathy with anyone from a lower social class.
 
-Mostly you still have plenty of reason to direct all your swords cold spells at
-them, but this opens the possiblity that there are efreets out there who managed
-to turn out Good anyway, possibly due to converting to worship of a good
-god. This is both an interesting development and true to the original myth.
+Mostly you still have plenty of reason to punch them, but this opens the
+possiblity that there are efreets out there who managed to turn out Good anyway,
+possibly due to converting to worship of a good god. This is both an interesting
+development and true to the original stories, which often had good djinns of all
+kinds that had converted to Islam.

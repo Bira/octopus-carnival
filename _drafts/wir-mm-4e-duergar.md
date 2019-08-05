@@ -106,7 +106,7 @@ attack penalty but can still cause a bit of ongoing damage.
 
 Feel free to throw hordes of these at a a party who triggers an alarm while
 sneaking through a duergar fortress, and compare them with the Devil-Bred
-duergar at the end of the post.
+Duergar at the end of the post.
 
 ### Duergar Raid Leader
 
@@ -170,4 +170,4 @@ party is likely to encounter in their careers.
 
 There are enough stat blocks here for you to assemble all-duergar encounters,
 and you can also add imps or legion devils as reinforcements or other humanoids
-as slaves.
+as slaves. The late-Paragon entries are tailor made for pairing with devils.
