@@ -1,5 +1,18 @@
-So where does Iron Gods come into this story? I'll get there in a minute! First
-I need to tell you how Castle Ravenloft defeated the players.
+---
+layout: post
+title: "Ravenloft, or How I Started GMing GURPS Iron Gods"
+tags:
+    - dnd
+    - gurps
+    - actual-play
+    - pathfinder
+    - dungeon-fantasy
+---
+
+In the [last post][1], I talked about how I accidentally hijacked a D&D 5th
+Edition game and turned it into a GURPS Dungeon Fantasy game using the
+old-school Ravenloft module for AD&D. Today, I'll tell you about how Ravenloft
+claimed yet another party of ill-fated adventurers.
 
 I don't think the group actually realized how close they were to winning. It was
 almost entirely a psychological defeat. The place was scary and unknown, the
@@ -33,15 +46,18 @@ room, where I6's tarot reading told me Strahd himself could be found.
 
 So there they were, mostly unhurt, with a cleric and a paladin in the party, in
 possession of both the Icon of Ravenloft and the Sunsword, literally at Strahd's
-doorstep. What did the PCs do? They broke and ran. The rest of the session was
-them finding their way to the outside, still at the second floor, levitating
-over the walls and making it back to Barovia.
+doorstep. What did the PCs do? They ran away! The rest of the session was them
+finding their way to the outside, still at the second floor, levitating over the
+walls and making it back to Barovia.
 
 We ended the session there, and we wouldn't get to play another. One of the
 players outright told me Ravenloft was too hard, so I offered to switch to Iron
 Gods the next session with a fresh batch of characters. No one else complained
 or offered a dissenting opinion, so I guess they agreed. Ravenloft had claimed
-another party.
+another party, not by killing them but by breaking their spirits.
 
-[1]: {{ "/projects/hells-rebels.html" | relative_url }}
-[2]: {{ "/projects/pathfinder-iconics.html" | relative_url }}
+I'm pretty sure it was Ravenloft, too, as opposed to shitty GMing on my
+part. The Iron Gods game is still going quite strong and the players look
+forward to each session, so I'm doing something right.
+
+[1]: {{ "/2019/08/05/dnd-to-ravenloft.html" | relative_url }}

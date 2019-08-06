@@ -52,6 +52,8 @@ After this, we get right on the monsters:
   - [Bodak][18]: Coneheads with a deadly gaze.
   - [Boneclaw][21]: My, what big nails you have.
   - [Bullete][19]: Land-sharks!
+
+- C
   - [Cambion][20]: The offspring of mortals and devils.
   - [Carrion Crawler][22]: Another classic.
 

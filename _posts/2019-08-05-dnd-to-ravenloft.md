@@ -47,9 +47,10 @@ They _loved it_. It seems at least one of the players was genuinely
 scared. I'm not bragging about my own skills - rather, I'm saying OG Ravenloft
 is _that_ good.
 
-There was never an officially announced decision or anything, but our little
-"D&D" group never played another D&D session after that. The backup GURPS
-Ravenloft game became our main event.
+There was never an officially announced decision or anything, but our "D&D"
+group never played another D&D session after that. The backup GURPS Ravenloft
+game became our main event. I never set out to do this intentionally, but I
+can't say I'm not happy with the result.
 
 Tune in next time to learn how Ravenloft claimed yet another party of unwary
 adventurers.
