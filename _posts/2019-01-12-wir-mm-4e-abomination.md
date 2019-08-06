@@ -6,6 +6,8 @@ tags:
     - wir
 ---
 
+This article is part of a series! Go [here][1] to see the other entries.
+
 Here's our first multi-entry, and it's epic. Abominations as a category were
 introduced in the Epic Level Handbook for 3.0, where they were described as the
 abandoned creations of the gods. This is still true here, with the added bit
@@ -307,3 +309,5 @@ I've always found the Tarrasque cool, and the new "ḱaiju sleeping in the cente
 of the world" bit is awesome. It stats really showcase the problem with too-low
 monster damage of these early 4e monster books, though, so it becomes a lot less
 threatening than it's supposed to be unless you fix it.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

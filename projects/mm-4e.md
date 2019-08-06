@@ -29,33 +29,35 @@ After this, we get right on the monsters:
 
 
 - A
-  - [Aboleth][2]: Fishy masterminds!
+  - [Aboleth][2]
   - [More aboleths][3]: Someone on RPG.net asked me to review the aboleths from
     an issue of Dungeon, and I obliged.
   - [Abomination][4]: A grab-bag of epic horrors from the edge of time.
-  - [Angel][5]: Messengers of the gods (be they good or evil).
-  - [Archons][6]: Soldiers of the primordials.
-  - [Azer][7]: Dwarves on fire.
+  - [Angels][5]
+  - [Archons][6]
+  - [Azer][7]
 
 - B
 
-  - [Balhannoth][8]: Ninja slugs of the Underdark.
-  - [Banshrae][9]: Kung-fu mantid fey.
-  - [Basilisk][10]: Lizards with a stony gaze.
-  - [Bat][11]: What you find when you go into bat country.
-  - [Battlebriar][12]: Weaponized biotech siege engines.
-  - [Bear][13]: For all the bear necessities of life.
-  - [Beetle][14]: Big bugs.
-  - [Behemoths][15]: Dinosaurs!
-  - [Berbalang][16]: Memory-eaters loosely based on Filipino myth.
-  - [Boar][17]: Nature's porcine badasses.
-  - [Bodak][18]: Coneheads with a deadly gaze.
-  - [Boneclaw][21]: My, what big nails you have.
-  - [Bullete][19]: Land-sharks!
+  - [Balhannoth][8]
+  - [Banshrae][9]
+  - [Basilisk][10]
+  - [Bat][11]
+  - [Battlebriar][12]
+  - [Bear][13]
+  - [Beetle][14]
+  - [Behemoths][15]
+  - [Berbalang][16]
+  - [Boar][17]
+  - [Bodak][18]
+  - [Boneclaw][21]
+  - [Bullete][19]
 
 - C
-  - [Cambion][20]: The offspring of mortals and devils.
-  - [Carrion Crawler][22]: Another classic.
+
+  - [Cambion][20]
+  - [Carrion Crawler][22]
+  - [Chimera][23]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -79,3 +81,4 @@ After this, we get right on the monsters:
 [20]: {{ "/2019/07/25/cambion.html" | relative_url }}
 [21]: {{ "/2019/07/02/boneclaw.html" | relative_url }}
 [22]: {{ "/2019/08/01/carrion-crawler.html" | relative_url }}
+[23]: {{ "/2019/08/06/chimera.html" | relative_url }}

@@ -16,6 +16,7 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This article is part of a series! Go [here][2] to see the other entries.
 
 If you're following this series mostly through Octopus Carnival, you might not
 know I'm posting it on the RPG.net forums as well. The [Aboleth][1] entry
@@ -134,3 +135,4 @@ own adventures, and it was always loads of fun... for me!
 
 
 [1]: {{ "/2019/01/04/aboleth.html" | absolute_url }}
+[2]: {{ "/projects/mm-4e/" | relative_url }}
