@@ -116,7 +116,7 @@ The Wild works the same but the knight can't use its sword while a target is
 entangled. Feywild Challenge has a range of 10 but is an encounter power. Use
 the MV version if possible.
 
-There are knights, so you can probably give them some sort of gallant fey steed
+These are knights, so you can probably give them some sort of gallant fey steed
 if you need to. They're the ones fighting at the front and protecting that unit
 of bow mages, and also make up the core of a noble's guard detail.
 
