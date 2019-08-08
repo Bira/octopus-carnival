@@ -8,20 +8,40 @@ tags:
 
 Chokers are humanoid creatures with somewhat elongated heads and very long
 rubbery arms ending in hands whose palms seem lined with sharp barbs. To better
-choke you with, obviously. They're only listed in the Monster Manual.
+choke you with, obviously. They're only listed in the Monster Manual, but they
+do get an update in Dungeon Magazine issue 196. This update is part of a series
+of articles that are considered "missing pages from the Monster Vault", so I'll
+cover them here as well.
 
-There's not much choker lore here. Chokers like to ambush people to choke them
-and loot the bodies. Their arms are so flexible because their internal structure
-is composed of many knobby cartilage joints. Sometimes other humanoids will hire
-them as assassins or sentries and pay with food and treasure.
+## The Lore
+
+The MM doesn't offer much in the way of choker lore, but the Dungeon article
+remedies that nicely.
+
+Chokers love the Underdark but may be found in other favorable environments
+closer to the surface, particularly near sapient settlements. You see, they
+prefer hunting sapient prey, because in addition to being good eatin' they often
+carry the shiny baubles and jewels which these creatures love to collect and
+occasionally fondle. Their arms are so flexible because their internal structure
+is composed of many knobby cartilage joints.
+
+Chokers typically live and hunt alone, because they're so antisocial they see
+even other chokers as prey. They gots shinies and meat on them just like anybody
+else, precious. These creatures are however just smart enough to accept shiny
+bribes in exchange for not eating someone, and sometimes drow or other
+underground dwellers can hire them on that basis. Drow in particular don't like
+to do it very often, because they find chokers too unpredictable.
+
+## The Numbers
 
 We have two varieties of choker statted up here, both Unaligned and possessed of
 Int 6. I suppose this could mean not every choker the party meets is a bandit,
 but I don't think I ever saw any published friendly chokers.
 
-The first variety is the **Cavern Choker**, who is a Small Natural Humanoid and
-a Level 4 Lurker with 42 HP. It has darkvision, a ground speed of 6, and a climb
-speed of 6 with spider climb.
+### Cavern Choker (Monster Manual)
+
+This is a Small Natural Humanoid and a Level 4 Lurker with 42 HP. It has
+darkvision, a ground speed of 6, and a climb speed of 6 with spider climb.
 
 Its basic (and main) attack is the Tentacle Claw. Its Reach 2 is impressive for
 a Small creature, and in addition to doing damage it also automatically grabs
@@ -48,21 +68,53 @@ The tactics write themselves - the choker will lurk on a ceiling and grab
 someone when they pass by, while its less sneaky buddies distract the rest of
 the party.
 
-The other variety here is the **Feygrove Choker**, a Medium Fey Humanoid who's a
-Level 12 Lurker with 91 HP. A different species, or the platonic ideal of the
-mundane choker? In any case its abilities are quite similar. It has Reach 3 and
-can grab up to 2 targets simultaneously. When it has 2 grabbed creatures it can
-choke them both at once; it can use either creature as a shield, but not against
-attacks made by either grabbed creature.
+### Cavern Choker (Dungeon)
+
+The Cavern Choker from Dungeon remains a level 4 lurker with 42 HP. The main
+change from the MM is a significant upgrade to its Chameleon Skin, which now
+gives _full_ concealment and is always on as long as the choker doesn't have
+anyone grabbed.
+
+The Choke attack is gone - now the Tentacle Claw does 10 ongoing damage to
+grabbed targets until they escape. Escape attempts now have an explicit DC of
+21, which is about the same as you'd get under the old rules. Body Shield has
+had its text changed and clarified. It's still an interrupt that redirects an
+attack by someone else to the grabbed victim, but now it only recharges when the
+choker hits with Tentacle Claw. This means that the monster can only use it
+_once_ after it grabs a target, making "grab, release on your next turn, grab
+again" preferable to holding on until the target dies.
+
+### Feygrove Choker (Monster Manual)
+
+This Medium Fey Humanoid is a Level 12 Lurker with 91 HP. A different species,
+or the platonic ideal of the mundane choker? In any case its abilities are quite
+similar. It has Reach 3 and can grab up to 2 targets simultaneously. When it has
+2 grabbed creatures it can choke them both at once; it can use either creature
+as a shield, but not against attacks made by either grabbed creature.
 
 As an extra surprise, it can use a power named Vine Fetter, which animates
 nearby vegetation in an Area Burst 3 within 10 squares. It targets the Reflex of
 enemies in the area and restrains them (save ends) on a hit. This recharges on a
 6 and will very likely be the opening move in a fight.
 
+### Feygrove Choker (Dungeon)
+
+The exact same set of changes also applies to the Feygrove Choker, which remains
+a Level 12 Lurker with 91 HP. It can still grab two people instead of just one,
+so it has more opportunities to use Body Shield. The damage fixes also have much
+more of an impact on it, since it's a higher-level monster.
+
+### Sample Encounter and Final Impressions
+
 The sample encounter is level 4: a pair of cavern chokers employed by a small
 hobgoblin war party.
 
-Chokers get a "meh" from me. I didn't find them that exciting. I guess they're
-the sort of gimmicky Gygaxian monster you'd expect to find alongside cloakers
-and piercers, but I didn't find them appealing outside of that.
+MM Chokers get a "meh" from me. I didn't find them that exciting. I guess
+they're the sort of gimmicky Gygaxian monster you'd expect to find alongside
+cloakers and piercers, but I didn't find them appealing outside of that.
+
+I like the additional lore from the Dungeon article, though it definitiely makes
+it clear that chokers are more _monsters_ than _people_. The stat updates are
+welcome too. I'd normally just apply a damage fix to the MM stat blocks and call
+it a day, but these come with some interesting changes like the boost to
+Chameleon Skin.

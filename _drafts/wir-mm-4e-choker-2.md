@@ -17,23 +17,10 @@ the MM, which are welcome but don't contain any surprises. The biggest addition
 here is in the lore, which pretty much dashes my hopes in the earlier post about
 some chokers being nice.
 
-They're still Unaligned, but their unpleasantness is further emphasized
-here. Chokers love the Underdark but may be found in other favorable
-environments closer to the surface, particularly near sapient settlements. You
-see, they prefer hunting sapient prey, because in addition to being good eatin'
-they often carry the shiny baubles and jewels which these creatures love to
-collect and occasionally fondle.
 
-Chokers typically live and hunt alone, because they're so antisocial they see
-even other chokers as prey. They gots shinies and meat on them just like anybody
-else, precious. These creatures are however just smart enough to accept shiny
-bribes in exchange for not eating someone, and sometimes drow or other
-underground dwellers can hire them on that basis. Drow in particular don't like
-to do it very often, because they find chokers too unpredictable.
 
-All of this applies equally to the mid-Heroic Cave Choker and the early-Paragon
-Feygrove Choker, with the difference being the feygrove choker hangs around
-Eladrin cities on the surface and fomorian settlements in the Feydark.
+
+
 
 ## The Numbers
 
@@ -58,10 +45,7 @@ more of an impact on it, since it's a higher-level monster.
 
 ## Final Impressions
 
-I like the additional lore, though it definitiely makes it clear that chokers
-are more _monsters_ than _people_. The stat updates are welcome too. I'd
-normally just apply a damage fix to the MM stat blocks and call it a day, but
-these come with some interesting changes like the boost to Chameleon Skin.
+
 
 No new example encounters, though the lore implies the typical choker encounter
 would happen as the party is attacked by non-sapient predators in a cave/fey

@@ -52,6 +52,8 @@ world.
 
 [^1]: Which was that the setting's missiles are weaker than meltaguns because
     that's what the wargame and FFG rules imply.
+
 [^2]: Or _ludonarrative dissonance_ if you want to be technical.
+
 [^3]: Hair metal for the Eldar, some kind of Gundam soundtrack for the Tau, and
     so on.
