@@ -7,6 +7,15 @@ tags:
     - 40k
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-choker.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 This one has been sitting in my drafts folder for a while, and I figured it was
 time it got finished and saw the light of day.
 
