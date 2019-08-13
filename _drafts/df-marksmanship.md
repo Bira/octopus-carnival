@@ -22,7 +22,7 @@ Gun-Witch with her flintlock target pistol. So how fast can they go?
 
 ## Legs
 
-Legs is a starting Scout with Heroic Archer, Bow-20 and Fast-Draw
+Legs is a 250-point Scout with Heroic Archer, Bow-20 and Fast-Draw
 (Arrow)-14. Each second, they can make an unmodified Fast-Draw (Arrow) roll to
 instantly ready an arrow _and_ a Bow roll at -3 to instantly load it into the
 bow. Success at both allows them to shoot at -3 to skill.
@@ -33,9 +33,9 @@ fire?
 
 Legs will succeed at 90% of their Fast-Draw rolls - in a minute, that's 6
 failures. Each one represents a missed opportunity to fire that second. They
-would also fail roughly 5% of their Bow rolls, which would mean another 2
-failures out of the remaining 54 chances. So Legs the starting character would
-shoot 52 arrows in a minute.
+would also fail roughly 2% of their Bow rolls, which would mean another 1
+failure out of the remaining 54 chances. So Legs the starting character would
+shoot 53 arrows in a minute.
 
 That's an impressive performance in real-world terms. Can we improve it even
 further?
@@ -47,9 +47,13 @@ Flawless Fast-Draw perk from Pyramid #3/61: The Way of the Warrior. That would
 allow us to consider all of our Fast-Draw attempts automatic successes,
 increasing our number of shots to 58.
 
-Another 5 points would increase Legs' Bow skill to 19 and buy them the Flawless
-Nocking perk from the same Pyramid issue, finally bringing us to that
-perfect 60 for a total of 11 points.
+Another point would buy Legs the Flawless Nocking perk from the same Pyramid
+issue, finally bringing us to that perfect 60 for a total of 7 points.
+
+This does assume Legs shifted some of their starting points around to get Bow
+from the template-standard level of 18 to 20. If they hadn't done that, they'd
+need another 4 earned points here to bring it to 19 in order to qualify for
+Flawless Nocking, bringing the improvement cost here to 11.
 
 ## Harsk
 
@@ -70,10 +74,10 @@ Bringing his Fast-Draw to 16 and buying Flawless Fast-Draw would cost 3 points,
 making it a very worthwhile investment that brings his total to 59. Another
 single point would buy him Flawless Nocking and bring his total to 60.
 
-Do note that Harsk is built on the same template as Legs - it's very possible
-Legs could have spent the same extra points he did to bring their skill totals
-up. We can consider the two mostly equivalent despite the difference in
-weaponry.
+Do note that Harsk is built on the same template as Legs, so the same
+considerations about starting skill apply. Had he not bought Crossbow-20 to
+start with, the total CP cost of that perfect 60 would go from 4 to 8, with the
+extra paying for Crossbow-19.
 
 ## Layla
 
@@ -87,3 +91,36 @@ If Layla uses paper cartridges, her reload time drops by half to 10
 seconds. Fast-Draw _without_ Quick-Reload would reduce this to 8. Each level of
 Quick-Reload would make a Fast-Draw success instead take 25% off the total
 reload time, to a minumum of 3 seconds.
+
+By the books, our gun-witch would lose the quick-firing competition by a wide
+margin. Even with sucess at Fast-Draw, she will only fire once every 4 seconds,
+allowing her to land 15 shots in that minute. There's not enough rolls in there
+for her to fail one in this time period, but if it did happen she'd take ten
+seconds to reload instead of 3, lowering her total by another 3 shots.
+
+Pyramid #3/36 doesn't include much that can make her fire any faster - its
+rationale is that Dungeon Fantasy guns make up for their lower fire-rate by
+having higher damage and longer range. The article's suggestion for Gunners who
+want to fire every turn is to carry a brace of 10 or so derringers instead of a
+single pistol, with Fast-Draw allowing them to fire one each turn and discard it
+(and do slightly less damage than a bow). Doing this would improve Layla's score
+only until she ran out of loaded guns, so it wouldn't allow her to catch up to
+her fellow contestants.
+
+All of this remains on the realistic side. Heroic Archer/Crossbowman give the
+other constestants acess to patently fantastical options to increase their rate
+of fire! Layla has Gunslinger, and that should help! How would our gun-witch
+fare if she had access to these options?
+
+If we port the quick-ready rule for use with guns, Layla could make a Guns-3
+roll to ready the pistol instantly and fire every 3 seconds instead of 4. That
+would allow her to land 20 shots in that minute. Still not enough!
+
+Harsk has a cinematic benefit to his Quick-Reload perk, allowing him to reload a
+crossbow instantly. We could do something similar for Layla, and say Gunslinger
+would allow her to ignore the 3-second minimum time for black powder
+weapons. That would allow her to buy 4 levels of the perk and load her pistol
+instantly.
+
+Combining this two rules gets Layla making Fast-Draw and Guns rolls every turn,
+both at -3.

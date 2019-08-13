@@ -24,8 +24,8 @@ Fourth Edition instead has the Elemental Chaos, which we already looked at when
 talking about demons. It contains _all_ elements, whether they're the classic
 four or some of the other mixes. It's also a lot more interesting in that it's
 possible for PC adventurers to go there and have adventures in fantastic and
-varied landscapes without much in the way of life support. It has entire cities
-and civilizations of creatures with the Elemental origin.
+varied landscapes without much in the way of magical life support. It has entire
+cities and civilizations of creatures with the Elemental origin.
 
 And it also has small-e elementals! Their basic nature remains the same, and
 they make up much of the "wildlife" of the Elemental Chaos, but much like their
@@ -40,18 +40,18 @@ titans, and will form up in whatever way their orders require. "Wild" elementals
 do like to stick together with others who share one or more of their elements
 though.
 
-In this post we'll look at the elementals that appear in the Monster Manual, and
-in the next one we'll look at the Monster Vault classics in the next one.
+Let's look first at the Monster Manual elementals, then at the Monster Vault
+ones.
 
 ## Monster Manual Elementals
 
-The MM gives us three elementals, all two-element and with levels spanning the
+The MM gives us four elementals, all two-element and with levels spanning the
 paragon and early epic tier. As usual, the reasoning for these levels is that
 the Elemental Chaos is a place you explore when you hit paragon tier, and so
 these creatures are a sample of what might oppose you once you're there. All of
 them are Large Elemental Magical Beasts, with keywords corresponding to their
 constituent elements. They have Int scores between 6 and 8, so they're not
-mindless but not very smart either.
+mindless but not geniuses either.
 
 ### Firelasher
 
@@ -73,9 +73,9 @@ it won't need to worry about hurting them with its Whirlwind Dash.
 
 ### Rockfire Dreadnought
 
-Sitting t the other end of Paragon Tier, this Earth and Fire beast is a Level 18
-Soldier with 170 HP. It's immune to disease, petrification and poison, and has
-Resist 25 fire. It runs at speed 8.
+Sitting at the other end of Paragon Tier, this Earth and Fire beast is a Level
+18 Soldier with 170 HP. It's immune to disease, petrification and poison, and
+has Resist 25 fire. It runs at speed 8.
 
 This one really feels like it should be a Brute, because it has two very simple
 attacks: the Fist of Flame (basic, Melee 2 vs. Reflex, fire damage) and a
