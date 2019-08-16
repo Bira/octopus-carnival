@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Fomorian"
+tags:
+    - dnd4
+    - lets-read
+---
+
+We've heard a bit about fomorians back when we discussed cyclopes, and now we
+finally arrive at their own entry. I believe fomorians appeared in 3.x, and
+might date from earlier, but their lore for 4e is mostly new.
+
+They appear only in the Monster Manual - the Monster Vault nas no F monsters at
+all. I believe this is a major missed opportunity on their part, since 4e
+fomorians are super awesome. If I had to pick a list of "essential" monsters I
+would definitely have picked fomorians over, say, duergar or ropers.
+
+## The Lore
+
+Creatures native to the Feywild are often more fantastical reflections of those
+from the world or other places. That doesn't just apply to animals, either. The
+Fomorians arose as fey reflections of the _Titans_, those mighty creations of
+the primordials.
+
+Fomorians are Titan-sized, with purple-gray skin and a horribly deformed
+countenance. They see themselves as the most important beings in the universe,
+and so pay homage to no god or primordial. They live in the Feywild's version of
+the Underdark, inside huge caves lit by glowing crystals and filled with
+subterranean ecosystems.
+
+In the center of these caves are majestic castles and fortresses, where the
+fomorians dwell surrounded by all sorts of finery. A fomorian's clothing and
+equipment is always masterfully crafted, in stark contrast to the ugliness of
+their bodies and hearts. All of this is built by the cyclopes they enslaved eons
+ago.
+
+Every fomorian has the Evil Eye: one of their eyes is much larger than the
+other, and its stare can cause all sorts of unpleasantness to their
+enemies. Rumor has it the Evil Eye is a gift of Gruumsh to allow them to inflict
+more pain upon Corellon's creations, but no one knows if that's really
+true. Fomorians don't like Gruumsh any more than they like any other deity.
+
+## The Numbers
+
+Fomorians are Huge Fey Humanoids with the Giant keyword, and their power level
+is indeed comparable to that of a Titan - mid-Paragon to early-Epic
+elites. Their signature traits are trained Perception, Truesight 6, and an Evil
+Eye ability that does something different for every variety of fomorian, usually
+complementing its other abilities. They are typically Evil.
+
+We get two stat blocks in the MM. There are more on the MM2.
+
+### Fomorian Warrior
+
+A Level 17 Elite Soldier with 332 HP, this fomorian wears hide armor and fights
+with a mace. Its basic attack has Reach 3, and deals a good chunk of extra
+damage against immobilized creatures. Its Evil Eye (minor action; Ranged 5
+vs. Will) immobilizes (save ends), giving you an obvious combo.
+
+Updating the fomorian warrior to MV standards would involve fixing the damage,
+and likely making the basic mace attack mark for a turn as an effect and giving
+it a reaction mace attack against people who ignore the mark.
+
+### Fomorian Painbringer
+
+This spellcaster is a Level 19 Elite Controller with 362 HP. It wears hide and
+fights with a flail, with a Reach 3 basic attack.
+
+Its Evil Eye (minor action; Ranged 5 vs. Will) makes the target take a goodly
+amount of automatic damage whenever it damages the fomorian. This lasts until
+the fomorian uses the ability against someone else. As a separate ability, the
+painbringer also gains +2 to all attacks made against the victim of its evil
+eye.
+
+Its other abilities are Funnel Pain (Ranged 8 vs. Will), which does physical
+damage; and Painful Visions (Close Burst 4 vs. Will), which dazes all affected
+targets (save ends). That last one is an encounter power, but the others are
+at-will.
+
+## Sample Encounters and Final Impressions
+
+The sample encounter is level 19: a warrior, a painbringer, and four assorted
+cyclops slaves. The book also says you can find all sorts of evil underground
+fey in their domain, as well as visiting dignitaries from the drow or other
+similarly inclined people.
+
+The two stat blocks we get here seem a little underwhelming to me, given the
+lore, but they do their jobs relatively well. We get a much more varied
+selection of fomorians when we hit the MM2.

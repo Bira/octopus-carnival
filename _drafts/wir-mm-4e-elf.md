@@ -1,0 +1,123 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Elf"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I've mentioned elves plenty of times already, and now it's time to talk about
+them properly. They've been available as a playable character option since the
+days of Basic (though arguably Basic elves were closer to eladrin).
+
+This entry is for the elves you might meet as enemies or NPC allies. They're
+present in both the MM and the MV.
+
+## The Lore
+
+We've already looked at drow and eladrin, so we know that 4e elves are an
+offshoot of an ancient fey people created by Corellon who migrated from the
+Feywild to the world and went through some adaptative changes over the
+generations.
+
+They look pretty much like what you'd expect a D&D elf to look: slender, sharp
+features, pointy ears. They're about as tall as humans, perhaps a tiny bit
+shorter. Their hair has "earthier" colors than those of eladrin, with several
+shades of brown being the most common along with tones like moss-green, autumn
+orange, and so on. Their eyes can be brown, green, blue or violet, and have a
+more familiar "sclera and iris" arrangement than the solid orbs of color found
+in eladrin. Elf skin tones are the same as those found in humans, with the
+darker tones being more common.
+
+Elves primarily worship Melora and the primal spirits, so their relationship
+with nature is more reverent and has a greater conservationist bent than that of
+eladrin. Eladrin alter a forest with magic so that it grows harmoniously around
+and within their shining cities; elves prefer to adapt their own lifestyle and
+settlements to fit the existing natural landscape, which is how you get treetop
+villages.
+
+To a human elves usually seem laid-back and flighty, as their lifespans are
+still large enough that they take a long view of most things. Still, they're
+less aloof and disinterested than the eladrin, since they do live in the world
+and care about what happens here.
+
+## The Numbers
+
+We have four elf stat blocks here, two of which are exclusive to the MM and all
+of which are early-Heroic. Elves are Medium Fey Humanoids with the same
+signature traits they get as PCs:
+
+- Low-light vision
+- Speed 7.
+- Wild Step, which lets them ignore difficult terrain when shifting.
+- Elven Accuracy, which lets them re-roll an attack once per encounter.
+
+The MM versions also get Group Awareness, which gives +1 to the Perception tests
+of all allies within 5 squares. This is absent from the MV, as it's more
+relevant to PCs than to monsters.
+
+### Elf Archer
+
+Can't get more typical than this! Present in both books, the archer is Level 2
+Artillery with 32 HP and all common elf traits. It also gets Archer's Mobility,
+gaining a +2 bonus to attacks in turns where it moves 4+ squares.
+
+It wields a longbow and has a shortsword for emergencies, neither of which is
+affected by the damage bug. It also has a triggered ability called Not So Close,
+which allows it to shift 1 square and make a ranged attack against an enemy that
+makes a melee attack agains it. This is a reaction, so the enemy attack has to
+be resolved before the elf can get away.
+
+Crossbowdwarves fight in close formation; eladrin bow mages spread out a bit
+more; elven archers are tree-hopping ninjas that never stay still.
+
+### Elf Scout
+
+Okay, you can get more typical than that. The Elf Scout took the two-weapon path
+instead of going with archery. As such, it's a Level 2 Skirmisher with 39 HP and
+all common elf traits. It's present in both books.
+
+It wields a longsword in one hand and a shortsword in the other, each counting
+as a basic attack. It can attack with both in one action using Two-Weapon Rend,
+dealing a bit of extra damage if it hits with both blades. It also sneak attacks
+for 1d6 extra damage. Yes, the two effects can stack.
+
+No special mobility powers other than the common traits, which already make the
+scout pretty mobile.
+
+### Elf Hunter
+
+A Level 2 Minion Skirmisher, the elf hunter is likely a literal hunter that has
+to defend themselves in a pinch. It lacks Elven Accuracy but has all other
+common traits. It fights with a shortsword, and its basic attack allows it to
+shift 2 squares on a hit or 1 on a miss.
+
+### Elf Noble Guard
+
+Wearing mail and wielding a longsword, the noble guard is a Level 3 Soldier with
+46 HP and all common elf traits. It retains its Speed 7 even in mail. As
+expected of a soldier, the longsword attack marks for a turn. It can also use a
+Hobbling Strike which does more damage and immobilizes for a turn on a hit. On a
+miss it does half damage and slows instead. This also counts as a basic attack,
+so it can be used in charges and the like, but it recharges on 5-6 so the
+simpler longsword blow will still see plenty of use.
+
+If someone ignores the noble guard's mark, it can attack that enemy as a
+reaction, dealing standard longsword damage and immobilizing the target on a
+hit.
+
+
+## Sample Encounter and Final Impressions
+
+There's one sample encounter in the MM: Level 2, two archers, two scouts, and
+two grey wolves. A typical war party made up of typical members.
+
+These stat blocks do a good job of conveying that wood elf flavor. In most
+campaigns I think it's more likely that the PCs will end up having some of them
+as NPC allies than as enemies, just as with dwarves. Still, plenty of campaigns
+are likely to have at least one enclave of paranoid forest guardians who shoot
+strangers on sight.
+
+A little rejiggering of signature traits and the addition of spiders can also
+turn the sample encounter into a party of drow scouts for some early-Heroic
+foreshadowing of Underdark shenanigans.
