@@ -254,7 +254,10 @@ consequences of it.
 
 [^1]: I've used these words as a joke before, but this is a literal quote from
     the book.
+
 [^2]: Creatively titled "The Book of the Damned".
+
 [^3]: Golarion's "Oriental Adventures"-land.
+
 [^4]: I couldn't find out what that does, but it probably works as a
     resurrection spell of some sort.
