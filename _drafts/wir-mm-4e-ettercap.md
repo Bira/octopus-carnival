@@ -26,8 +26,7 @@ spiders in the same way humans are to apes.
 Ettercaps are carnivorous and hunt using both weapons and their copious natural
 gifts, which includes a venomous bite, the ability to produce webs, and a
 "spiritual kinship" with arachnids that give them a nearly unmatched ability to
-tame these beasts and use them for the same purposes we'd use dogs and other
-mammals.
+tame these beasts.
 
 Despite being Unaligned, ettercaps don't mind including other sapients in their
 menu, such as your PCs.
