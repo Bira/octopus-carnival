@@ -58,6 +58,8 @@ After this, we get right on the monsters:
   - [Cambion][20]
   - [Carrion Crawler][22]
   - [Chimera][23]
+  - [Choker][24]
+  - [Chuul][25]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -82,3 +84,5 @@ After this, we get right on the monsters:
 [21]: {{ "/2019/07/02/boneclaw.html" | relative_url }}
 [22]: {{ "/2019/08/01/carrion-crawler.html" | relative_url }}
 [23]: {{ "/2019/08/06/chimera.html" | relative_url }}
+[24]: {{ "/2019/08/08/choker.html" | relative_url }}
+[25]: {{ "/2019/08/15/chuul.html" | relative_url }}
