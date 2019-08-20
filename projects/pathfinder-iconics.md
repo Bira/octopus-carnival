@@ -50,6 +50,7 @@ character below uses a broader set of sources, and thus is a little more
 will be true of any further characters I add here.
 
 - [Seoni the Sorceress][12]
+- [Lirianne the Gunslinger][23]
 
 [1]: https://bira.github.io/octopus-carnival/gurps/2016/10/02/pathfinder-df-barbarian.html
 [2]: https://bira.github.io/octopus-carnival/gurps/2016/10/08/pathfinder-df-bard.html
@@ -73,4 +74,5 @@ will be true of any further characters I add here.
 [20]: {{ "/2017/11/21/pathfinder-dfrpg-scout.html" | relative_url }}
 [21]: {{ "/2018/02/17/pathfinder-dfrpg-martial-artist.html" | relative_url }}
 [22]: {{ "/2018/03/30/pathfinder-dfrpg-swashbuckler.html" | relative_url }}
+[23]: {{ "/2019/08/19/pathfinder-dfrpg-gunslinger.html" | relative_url }}
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps

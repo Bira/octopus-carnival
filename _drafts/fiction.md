@@ -10,4 +10,6 @@ like she used to do with the ones made of flesh.
 We sit across from each other around a small white table in her hospital room. I
 can see the thick gray cables trailing from beneath the kimono and snaking their
 way towards the sealed medical pod where her real body rests. She asks me about
-the others, and an approximation of her voice comes out of the pod's speakers.
+the others, and an approximation of her voice comes out of the pod's speakers. I
+tell her they are well. Describing their continued feelings of horror and
+revulsion is unnecessary. Both of us know.
