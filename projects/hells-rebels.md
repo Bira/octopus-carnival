@@ -58,6 +58,6 @@ This is an ongoing project. These are the posts that comprise it:
 [7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
 [8]: {{ "/2018/11/07/hells-rebels-2-part-2.html" | relative_url }}
 [9]: {{ "/2019/03/27/hells-rebels.html" | relative_url }}
-[10]: {{ "/2019/01/28/hells-rebels-part-2-part-3-part-1.html" | relative_url }}
+[10]: {{ "/2019/01/28/hells-rebels-2-part-3-part-1.html" | relative_url }}
 [11]: {{ "/2019/06/05/hells-rebels.html" | relative_url }}
 [12]: {{ "/2019/08/01/hells-rebels.html" | relative_url }}
