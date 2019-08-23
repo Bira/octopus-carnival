@@ -34,7 +34,7 @@ forth from Storralk's blood, any pain they suffered would be inflicted on the
 still-living primordial. The few ettins bright enough to know about this
 creation myth prefer to associate themselves with Demogorgon rather than with
 Storralk, since Demogorgon was obviously the stronger of the two and whoever is
-strongest is best. For this reason, demon-worshipping ettin aren't all that
+strongest is bestest. For this reason, demon-worshipping ettin aren't all that
 uncommon, and you can find them hanging out together. One of Demogorgon's
 exarchs is an ettin.
 
@@ -128,11 +128,11 @@ from the spirit-talker against the target an automatic critical with 1d12 damage
 added on top of everything else.
 
 The curse isn't all that impressive - simply attacking twice might be a better
-bet. It would be a lot more dangerous if it made the next hit from any ettin a
-critical.
+bet. It would be a lot more dangerous if it made the next hit from any enemy (or
+even any ettin) a critical.
 
 This ettin can also perform a Spirit Call which fills a Close Burst 5 with
-howling demonic specters. This targets Fortitude, does necrotic damage, and
+howling demonic apparitions. This targets Fortitude, does necrotic damage, and
 slides the targets 3 squares on a hit.
 
 ## Sample Encounter and Final Impressions
@@ -144,4 +144,4 @@ I like the way ettins turned out mechanically here. The stat blocks are simple
 and have a strong signature gimmick. Their levels make them a good fit for an
 adventure that says "welcome to paragon tier! Now you're going Against the
 Giants." Ettins are weaker than hill giants in this edition, so they're the
-first big, unpleasant humanoid the PCs are likely to fight.
+first humanoid of unusual size the PCs are likely to fight.
