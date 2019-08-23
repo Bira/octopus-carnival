@@ -1,0 +1,167 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Ghost"
+tags:
+    - lets-read
+    - dnd4
+---
+
+D&D is famous for making every synonym of a word into an entirely separate
+monster, and nowhere is this more obvious than with incorporeal undead. Previous
+editions had wraiths, specters, phantoms, haunts and ghosts be entirely
+different monsters, and getting them mixed up was likely the cause of death for
+quite a few PCs.
+
+The decision to allow multiple stat blocks in the same monster entry has
+consolidated things a bit, but not entirely (wraits are still their own
+thing, for example). Ghosts appear only in the Monster Manual.
+
+## The Lore
+
+As you would expect, ghosts are the spirits of sapient creatures that died with
+unfinished business that caused them to linger in the world. They look like,
+well, ghostly versions of their appearance in life, and if their deaths were
+violent they might still bear the wounds that killed them. That's not always
+true, though: some ghosts look angelic or horrific regardless of their causes of
+death, and some can change appearance to suit their current mood.
+
+Ghosts are almost always near where they died. They usually keep most of their
+memories and personalities, but the trauma of death or the long years of
+haunting might change them.
+
+Getting rid of a ghost might be as simple as defeating it in combat, but some of
+them are so bound to the world that they reform after a day or so. In these
+cases, the only way to make the ghost go away is to finish whatever business is
+keeping it chained to the mortal plane. Fortunately, these are usually the
+ghosts most willing to talk things out, asking the PCs for help with their
+affairs or at least providing some hints of how to solve them.
+
+## The Numbers
+
+The signature traits of ghosts are obvious: they're immune to disease and
+poison, insubstantial, have phasing, and fly with hover capability. All ghosts
+statted up here have Speed 6, but if you're turning a faster creature into a
+ghost I'd let it keep the higher value.
+
+"Insubstantial" has a very specific meaning in the 4e ruleset: insubstantial
+creatures take half damage from all sources. This damage is halved after all
+other modifiers are applied, including any resistances and
+vulnerabilities. While this means everyone can do _some_ damage to an
+insubstantial creature, it also means that no damage type is inherently more
+effective against it either!
+
+"Phasing" means the creature ignores difficult terrain and can move through
+solid surfaces, though it must always end its movement in an unoccupied
+space. It's separate from insubstantiality because a monster can have one but
+not the other.
+
+Ghosts have both, and together with the flight speed this means they have full
+3D movement and can come at you from any direction at all. Their attacks also
+never target AC, to represent the fact that they phase through armor.
+
+### Phantom Warrior
+
+Soldiers who died in battle, still fighting their wars or performing their
+patrols. They're Level 4 Soldiers with 40 HP and all common ghost traits. They
+attack with a Phantom Sword (Melee 1 vs. Reflex) that does necrotic damage and
+marks for a turn. Their military training manifests as the Phantom Tactics
+ability, giving them combat advantage against target that has another phantom
+warrior adjacent to it.
+
+A simple and workable soldier monster. All it needs is a damage fix for its
+sword, which does roughly half the damage it should do due to that "naturalistic
+design" thing.
+
+### Trap Haunt
+
+The ghost of someone killed by a trap, who believes feeding others to the trap
+is the only way for it to move on. This Level 8 Lurker has 52 HP and all common
+ghost traits. It's bound to the trap that killed it, and is always found close
+to it.
+
+The haunt's Grave Touch (Melee 1 vs. Fortitude) does a pitiful 2d6 necrotic
+damage and should probably be fixed. The real danger here is its Ghostly
+Possession (Melee 1 vs. Will), though. A hit dominates the target (save ends)
+and removes the haunt from the map while this effect lasts. The haunt will use
+this to walk the possessed target into the trap that killed it.
+
+The Trap Haunt can't voluntarily move more than 20 squares away from said
+trap. If pushed beyond this range, it becomes weakened until it goes back.
+
+### Wailing Ghost (Banshee)
+
+This one used to be a separate monster, and specifically the ghost of an
+elf. It's now under the Ghost entry, and can be of any species. Traditionally,
+banshees appear to people who are about to die, which in D&D means they'll be
+looking to murder a specific party member. It's a level 12 controller with 91 HP
+and all common ghost traits.
+
+The banshee's basic attack is a Spirit Touch (Melee 1 vs. Reflex) that does
+necrotic damage, like most other ghosts. The real standout here is the
+Terrifying Shriek (Close Burst 5 vs. Will; Recharge 5-6) which does psychic
+damage, pushes the targets 3 squares, and immobilizes them (save ends).
+
+They can also display Death's Visage to one unlucky soul (usually the one
+they're trying to kill). This is a Ranged 5 attack vs. Will, which does psychic
+damage and inflicts a -2 penalty to all the target's defenses (save ends).
+
+Being a controller means the banshee can hold its own in melee combat, but it's
+rarely going to bother. It will phase through walls and floors to keep away
+from the party, returning to shriek at them when the power recharges and to
+attack its chosen target with Death's Visage once it's immobile.
+
+As a level 12 monster, the banshee is severely hampered by the twin flaws of the
+damage bug and naturalistic design. All of its attacks do pathetic damage, which
+should be fixed ASAP if you plan to use one in your game.
+
+### Tormenting Ghost
+
+This is probably the monster most in line with the classic Ghost from previous
+editions, which was among the most terrifying undead. It's a Level 21 Controller
+with 152 HP, and the only ghost with an actively Evil alignment (even the
+banshee is Unaligned). It also has all common ghost traits.
+
+Its basic attack is a Spirit Touch (Melee 1 vs. Reflex) that really needs its
+damage fixed. It can use the same Ghostly Possession as the Trap Haunt, and
+release a Burst of Terror that's pretty much an up-gunned version of the
+banshee's wail: Close Burst 5 vs Will, targets take necrotic damage, are pushed
+5 squares, dazed and immobilized (save ends both).
+
+It can also create a zone of Ghostly Terrain by filling it up with spectral
+wisps and creepy whispers (Area Burst 1 within 10). Targets caught inside the
+zone are immobilized (save ends). Each zone lasts until the end of the encounter
+and the ghost can create them at will!
+
+Finally, it can shift 3 squares as a reaction to being missed with a melee
+attack, which makes it hard to pin down.
+
+If you fix the damage of its attacks, the Tormenting Ghost becomes a pretty good
+epic-level enemy. Having more than one of them ensures the entire combat area
+will be ghostly terrain before long, allowing the ghosts and their artillery
+buddies to shoot the immobilized PCs at their leisure. These are epic level PCs
+and you shouldn't go easy on them!
+
+## Sample Encounters
+
+We get three encounters here:
+
+- Level 4: 4 phantom warriors and a specter. And here was thinking the wraith
+  was the only synonym monster that kept its entry.
+
+- Level 8: 2 trap haunts, 2 flameskulls, and a flame jet trap. I guess these
+  flameskulls aren't the friendly type.
+
+- Level 22: 2 tormenting ghosts, 1 larva mage, and 3 rot harbingers. "Larva
+  Mage" is the generic name for the Spawn of Kyuss, which means this group is
+  serious bad news.
+
+## Final Impressions
+
+I like ghosts conceptually - they're classics for a reason. Mechanically,
+though, these stat blocks leave a lot to be desired, as they seem to do much
+less damage than could be explained even by the standard damage bug.
+
+Maybe it has something to do with them being insubstantial? After all, this
+makes them last twice as long in a fight as their HP would indicate. None of
+them have any additional traits that make them especially vulnerable to a
+specific type of damage, so their insubstantiality applies to everything.
