@@ -83,8 +83,8 @@ new math. Both it and the bite had their damage increased, however, and retain
 their riders.
 
 The end result is a monster that's still dangerous in melee, but will hit less
-often and give any party with a cleric in it a lot more chances to save against
-its paralytic attacks. Use this one and ignore the MM version.
+often and give any party with a divine character in it a lot more chances to
+save against its paralytic attacks. Use this one and ignore the MM version.
 
 ### Ravenous Ghoul (MV)
 

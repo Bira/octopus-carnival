@@ -44,8 +44,7 @@ how that works now.
 Regeneration in 4e is actually similar to 3.5's Fast Healing. Monsters with
 regeneration regain the specified amount of HP at the start of their turn as
 long as their current HP total is above 0. That's it! Any other associated bells
-and whistles like the troll's ability to come back from death will be listed as
-separate traits.
+and whistles like those of trolls will be listed as separate traits.
 
 Back to the flameskull: it attacks with a weak Fiery Bite in melee or a much
 better Flame Ray (Ranged 10 vs. Reflex) at range. Once per encounter it can use

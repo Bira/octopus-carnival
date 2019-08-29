@@ -46,13 +46,14 @@ having shaved heads, or any other markers you need to get the point across.
 Threat level: Fodder. Your typical CCG thug will run away as soon as he's
 wounded.
 
-**ST** 13; **DX** 11; **IQ** 9; **HT** 12;
+**ST** 13; **DX** 11; **IQ** 9; **HT** 12
 
-**Dodge** 7; **Parry** 9U (small mace); **DR** 2;
+**HP** 12; **Will** 9; **Per** 9; **FP** 11.
 
-**HP** 12; **Will** 9; **Per** 9; **FP** 11;
+**Speed** 6.00; **Move** 4.
 
-**Speed** 6.00; **Move** 4; **SM** 0.
+**SM** 0; **Dodge** 7; **Parry** 9U (small mace); **DR** 2;
+
 
 - **Small Mace** (13): 2d+1 cr; Reach 1.
 - **Brawling Punch (13)**: 1d cr; Reach C.
@@ -92,11 +93,22 @@ Threat level: Worthy.
 **Equipment**: Scale armor, mace, medium shield (DB 2), short bow, quiver with
 12 arrows, manacles. Light Encumbrance.
 
+### Lemure
+
+The diabolist's equivalent to the necromancer's basic zombies, this putrid blob
+of flesh is pretty much mindless. It's similar to the zombie on DF: Monsters
+p. 62, but it attacks with Sharp Claws for cutting damage and has a somewhat
+complicated DR value: 3 (8 against non-Holy attacks; 18 against acid or cold).
+
 ### Mephiry the Hellhound
 
 Hellhounds are statted up in DF: Monsters, but I'm making my own slightly
 beefier version based on that one, plus the Hound from DF5, and my guidelines
 from [this post][3].
+
+If you're starting out with a point total lower than 250 for the PCs, or if you
+want Mephiry to be less challenging, feel free to use the official hell hound
+stat block.
 
 **ST** 13; **DX** 14; **IQ** 6; **HT** 14;
 
@@ -113,6 +125,15 @@ from [this post][3].
 
 ### Nox
 
+One of Barzilai's named lieutenants, Nox is a human who sold her soul to Hell in
+exchange for power in life. This gives her regeneration comparable to that of a
+troll (except against Good spells or abilities), and limited ability to teleport
+and to summon a lemure. She's also a master of the glaive on top of that.
+
+The first confrontation between Nox and the PCs is meant to convince them to
+run, as the book expects her to be the adventure's final boss when the group has
+reached level 3 and acquired some magic items. Brave delvers could try to take
+her and her retinue here at the protest, though, so her stats are included here.
 
 
 [1]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}

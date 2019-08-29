@@ -12,8 +12,8 @@ might date from earlier, but their lore for 4e is mostly new.
 
 They appear only in the Monster Manual - the Monster Vault nas no F monsters at
 all. I believe this is a major missed opportunity on their part, since 4e
-fomorians are super awesome. If I had to pick a list of "essential" monsters I
-would definitely have picked fomorians over, say, duergar or ropers.
+fomorians are super awesome. If I had to pick a list of "essential" 4e monsters
+I would definitely have picked fomorians over, say, duergar or ropers.
 
 ## The Lore
 

@@ -35,13 +35,13 @@ still-living primordial. The few ettins bright enough to know about this
 creation myth prefer to associate themselves with Demogorgon rather than with
 Storralk, since Demogorgon was obviously the stronger of the two and whoever is
 strongest is bestest. For this reason, demon-worshipping ettin aren't all that
-uncommon, and you can find them hanging out together. One of Demogorgon's
-exarchs is an ettin.
+uncommon, and you can often find ettins and demons hanging out together. One of
+Demogorgon's exarchs is an ettin.
 
 Even if they're not demon worshippers, however, ettins are still pretty
 terrible. Their two heads argue constantly and struggle to take control of the
 body from the other, but they both tend to agree that hurting and eating people
-is the bestest thing to do. As a result, ettins are typically Chaotic Evil.
+is the height of fun. As a result, ettins are typically Chaotic Evil.
 
 ## The Numbers
 
