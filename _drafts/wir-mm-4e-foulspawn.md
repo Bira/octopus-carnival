@@ -6,8 +6,8 @@ tags:
     - lets-read
 ---
 
-As far as I know, Foulspawn are new to 4e. They're present only on the Monster
-Manual.
+I haven't seen Foulspawn before 4e, though I suppose they could be a very late
+3.x creation. Here, they're present only on the Monster Manual.
 
 ## The Lore
 
@@ -55,7 +55,7 @@ The one that eats you if you linger in the dark for too long. These Small Level
 teleport speed of 4, allowing them to come at you from unexpected angles.
 
 They suffer quite a bit from the damage bug, as their basic claw attack is on
-the weak side. Its riders are fearsome though - slow (save ends), or daze (save
+the weak side. Its riders are pretty good, though - slow (save ends), or daze (save
 ends) if the target is already slowed.
 
 Once per encounter they can infect someone with a Mind Worm (Ranged 10
@@ -130,7 +130,7 @@ it +2 Fortitude.
 
 You might as well rewrite the hulk's stat block from the ground up - a level 12
 monster who just stands there making basic attacks for the whole fight is a
-complete failure of design.
+failure of design.
 
 ## Sample Encounter and Final Impressions
 

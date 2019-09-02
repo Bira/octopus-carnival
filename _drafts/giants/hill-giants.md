@@ -27,14 +27,14 @@ environment.
 Hill Giants are so much more aligned to the world than to the Elemental Chaos
 that they resemble big people. Big, dumb, violent people. I believe hill giants
 are inspired by the giants you see in some fairy tales, of the kind that walks
-in from somewhere and begins demanding tribute or geating people's
-goats until some clever tailor comes in and kills them through trickery.
+in from somewhere and begins demanding tribute or eating people's goats until
+some clever tailor comes in and kills them through trickery.
 
 While D&D hill giants aren't much smarter than the ones in the fairy tales,
 they're quite a bit harder to defeat, particularly because they're only alone if
 you're lucky. Hill giant communities are villages built out of mud and logs, and
 may feature a chief that decided to copy the sophisticated ways of their tiny
-neighbors, style themselves a king or queen, and go a-conquering.
+neighbors, style themselves a king or queen, and begin demanding tribute.
 
 Hill giants fight with Stone Age weapons, which are still quite deadly due to
 their size and the strenght of their wielders. They also have excellent throwing
