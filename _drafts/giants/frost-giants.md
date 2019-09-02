@@ -40,7 +40,7 @@ Frost giants are Large Elemental Humanoids with the Cold and Giant
 keywords. Frost titans are similar, but Huge. They all move at Speed 8 with Ice
 Walk, which means they ignore terrain penalties from ice and snow. Frost giants
 have Resist 15 Cold, and the titan is completely immune. They are _not_
-particularly vulnerable to fire.
+particularly vulnerable to fire. They have a typical Int score of 10.
 
 Their other signature trait is Icebound Footing, which allows them to ignore a
 number of squares of forced movement (2 for giants, 4 for the titan) and make a

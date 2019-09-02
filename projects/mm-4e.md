@@ -61,6 +61,7 @@ After this, we get right on the monsters:
   - [Choker][24]
   - [Chuul][25]
   - [Colossus][26]
+  - [Crocodile][27]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -88,3 +89,4 @@ After this, we get right on the monsters:
 [24]: {{ "/2019/08/08/choker.html" | relative_url }}
 [25]: {{ "/2019/08/15/chuul.html" | relative_url }}
 [26]: {{ "/2019/08/23/colossus.html" | relative_url }}
+[27]: {{ "/2019/09/02/crocodile.html" | relative_url }}

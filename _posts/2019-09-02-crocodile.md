@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-crocodile.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! You can find all of them [here][1].
+
 Crocodiles exist in real life and frequently feature in media such as nature
 documentaries, so if you're reading this you probably already know what they
 look like. For a long time everyone thought crocodiles were the closest thing
@@ -83,3 +94,5 @@ out with trolls or bog hags.
 
 The feymire croc is definitely my favorite of the lot. It gives me a nice
 fairytale vibe.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
