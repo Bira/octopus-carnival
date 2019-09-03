@@ -9,7 +9,7 @@ tags:
 The Galeb Duhr apears in the AD&D 2nd Edition monster manual, and I believe in
 supplements for earlier editions, as this boulder-shaped creature that mostly
 just likes to hang out in rocky places. In Fourth Edition they get a slightly
-more humanoid appearance and some additional backstory. They appears only on the
+more humanoid appearance and some additional backstory. They appear only on the
 Monster Manual.
 
 ## The Lore
@@ -73,6 +73,11 @@ whole battlefield will become difficult terrain given enough time.
 The sample encounter is level 11: 1 rockcaller, 4 gargoyles, and 1 bulette. The
 bulette is surely there as a surprise interloper who will go for the combatants
 most obviously made of meat: the PCs.
+
+You are also likely to find galeb duhr in earth giant strongholds, as slaves and
+guards. Like the azer, they'd be the first line of defense against invaders,
+covering those entry points too small to fit a giant. Also like azer, you might
+be able to persuade them to rebel.
 
 I like galeb duhrs, and their shared origin with the azers and dwarves. It's
 still perfectly possible to have interactions with them that resemble the ones
