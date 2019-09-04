@@ -28,7 +28,7 @@ before eating it and don't care if it's sapient itself.
 
 Nevertheless, they can form cooperative relationships with other earth
 creatures, and are sometimes employed by evil summoners or demon cultitsts who
-bind them with magic. Gargoyles aren't demons by they look demonic enough and
+bind them with magic. Gargoyles aren't demons, but they look demonic enough and
 are easier to bind!
 
 The Monster Vault makes an interesting inversion by saying that in the world of
@@ -39,7 +39,7 @@ gravitating to these places since they provide such convenient camouflage.
 
 ## The Numbers
 
-As creatures of earth, gargoyles have Tremorsense 10 and an immunity  to
+As creatures of earth, gargoyles have Tremorsense 10 and an immunity to
 petrification. They're not immune to poison because they're still
 semi-organic. Gargoyles move pretty fast, with a ground speed of 6 and a flight
 speed of 8. No hover capability, but they also can attack from the air with no
@@ -85,8 +85,8 @@ This one throws rocks! It's Level 11 Artillery with 87 HP. The basic claw attack
 is okay, and it can hurl rocks either one at a time (Ranged 20 vs. AC) or in a
 volley (Area Bust 1 Within 10 vs. AC; half damage on a miss).
 
-The rock hurler can't create its own ammunition, but it's only likely to be
-found in a place with plenty of loose stone lying around anyway.
+The rock hurler can't create its own ammunition, but it's likely to be found in
+a place with plenty of loose stone lying around anyway.
 
 It can't turn into a statue completely, but its stony hide gives it Resist 10 to
 damage from ranged attacks originating from more than 5 squares away.
