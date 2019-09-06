@@ -34,7 +34,8 @@ them are so bound to the world that they reform after a day or so. In these
 cases, the only way to make the ghost go away is to finish whatever business is
 keeping it chained to the mortal plane. Fortunately, these are usually the
 ghosts most willing to talk things out, asking the PCs for help with their
-affairs or at least providing some hints of how to solve them.
+affairs or at least providing some hints of how to solve them during their mad
+ramblings.
 
 ## The Numbers
 
@@ -48,7 +49,9 @@ creatures take half damage from all sources. This damage is halved after all
 other modifiers are applied, including any resistances and
 vulnerabilities. While this means everyone can do _some_ damage to an
 insubstantial creature, it also means that no damage type is inherently more
-effective against it either!
+effective against it either! Individual might still have additional traits that
+make certain damage types ignore their insubstantiality or turn them temporarily
+substantial.
 
 "Phasing" means the creature ignores difficult terrain and can move through
 solid surfaces, though it must always end its movement in an unoccupied
@@ -77,7 +80,8 @@ design" thing.
 The ghost of someone killed by a trap, who believes feeding others to the trap
 is the only way for it to move on. This Level 8 Lurker has 52 HP and all common
 ghost traits. It's bound to the trap that killed it, and is always found close
-to it.
+to it. Trap haunts believe that if they feed enough people to that trap, they'll
+be able to move on to the afterlife.
 
 The haunt's Grave Touch (Melee 1 vs. Fortitude) does a pitiful 2d6 necrotic
 damage and should probably be fixed. The real danger here is its Ghostly

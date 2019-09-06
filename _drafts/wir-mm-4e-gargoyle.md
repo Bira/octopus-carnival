@@ -7,16 +7,15 @@ tags:
 ---
 
 Gargoyles are based on sculptures found in many medieval buildings (particularly
-churches). These statues depict horrible beasts and are said to act as a sort of
-spiritual scarecrow, frightening demons away. They're usually known as
-_grotesques_, with _gargoyle_ being a specific type of grotesque that has a
-waterspout running through it to channel rainwater. It's "gargling", you see.
+churches). If I recall correctly, these statues depict horrible beasts and are
+said to act as a sort of spiritual scarecrow, frightening demons away. They're
+usually known as _grotesques_, with _gargoyle_ being a specific type of
+grotesque that has a waterspout running through it to channel rainwater. It's
+"gargling", you see.
 
 D&D gargoyles are a classic monster, part of the game since its beginnings. So
 classic, in fact, that the real surprise here is when the demonic-looking
-statues _aren't_ gargoyles in disguise.
-
-Gargoyles appear in both books.
+statues _aren't_ gargoyles in disguise. They appear in both books.
 
 ## The Lore
 
@@ -91,7 +90,7 @@ a place with plenty of loose stone lying around anyway.
 It can't turn into a statue completely, but its stony hide gives it Resist 10 to
 damage from ranged attacks originating from more than 5 squares away.
 
-### Nabassu Gargoyle (MV)
+### Nabassu Gargoyle (Both)
 
 While still not classed as a demon, this Level 18 Lurker is a lot closer to
 being one than its weaker cousins. It has 131 HP and all standard gargoyle
