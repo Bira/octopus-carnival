@@ -80,8 +80,7 @@ design" thing.
 The ghost of someone killed by a trap, who believes feeding others to the trap
 is the only way for it to move on. This Level 8 Lurker has 52 HP and all common
 ghost traits. It's bound to the trap that killed it, and is always found close
-to it. Trap haunts believe that if they feed enough people to that trap, they'll
-be able to move on to the afterlife.
+to it.
 
 The haunt's Grave Touch (Melee 1 vs. Fortitude) does a pitiful 2d6 necrotic
 damage and should probably be fixed. The real danger here is its Ghostly

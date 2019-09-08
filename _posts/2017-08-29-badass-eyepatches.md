@@ -26,10 +26,10 @@ advantage, and may generally behave as if you had perfect depth perception and a
 full field of view. This is typical of action heroes, and naturally one-eyed
 aliens or fantasy creatures.
 
-This is still worth points as a disadvantage because you still do have only one
-eye! If that eye is crippled, you're _blind_. You also suffer any other
-consequences that might be attached ot the condition in your setting, such as
-social penalties or bonuses for other people to recognize you.
+This is worth points as a disadvantage because you still do have only one eye!
+If that eye is crippled, you're _blind_. You also suffer any other consequences
+that might be attached ot the condition in your setting, such as social
+penalties or bonuses for other people to recognize you.
 
 This disadvantage is also still worth points in **Dungeon Fantasy**. Its implied
 setting might not attach any social penalties to the condition, but it _does_
