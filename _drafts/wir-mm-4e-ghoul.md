@@ -62,14 +62,14 @@ ends).
 
 Soldiers in the first Monster Manual have an extra +2 to hit when compared to
 other roles; and while the ghoul's bite has a slightly lower attack bonus than
-the claw, that will always be offset by the combat advantage its targets will be
-granting (either from being stunned/unconscious, or from flanking). So ghouls
-will hit very often with attacks that carry potentially crippling riders.
+the claw, that will be frequently offset by combat advantage (either from being
+stunned/unconscious, or from flanking). So ghouls will hit very often with
+attacks that carry potentially crippling riders.
 
-This means that your typical level 5 party coming up against an equal number of
-ghouls is in for a genuine Romero Zombie experience as they get swarmed,
-immobilized by claws, paralyzed by bites, and eaten. Don't be that party. Don't
-get into melee with ghouls.
+This means that a level 5 party coming up against an equal number of ghouls is
+in for a genuine Romero Zombie experience as they get swarmed, immobilized by
+claws, paralyzed by bites, and eaten. Don't be that party. Don't get into melee
+with ghouls.
 
 ### Ghoul (MV)
 
@@ -91,9 +91,9 @@ save against its paralytic attacks. Use this one and ignore the MM version.
 This one is closer to a classic Romero Zombie than to the classic ghoul we saw
 above. It doesn't paralyze, it just runs at you and tears you apart.
 
-The Ravenous Ghoul is a Level 5 Brute with 76 HP and all common ghoul trait,
-including Vulnerable 5 Radiant. It's a bit dumber than the classic model, at
-Int 8.
+The Ravenous Ghoul is a Level 5 Brute with 76 HP and all common ghoul traits,
+including Vulnerable 5 Radiant. It's a bit dumber than the classic model, at Int
+8.
 
 Its basic attack is a claw that does level-appropriate Brute damage, and it also
 has a Ravenous Bite on Recharge 5-6 that's a bit stronger and does ongoing
