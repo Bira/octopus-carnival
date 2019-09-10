@@ -28,6 +28,7 @@ These characters are a little strange. Perhaps they use a few nonstandard
 mechanical combinations, or perhaps their backstories contain a few weirder
 elements.
 
+- [Argle, Half-Ogre Scout][4]
 - [Sakura, Warforged duelist][3]
 
 
@@ -36,3 +37,4 @@ elements.
 [1]: {{ "/projects/pathfinder-iconics/" | relative_url }}
 [2]: {{ "/2018/12/18/df-house-style.html" | relative_url }}
 [3]: {{ "/2019/09/08/sakura.html" | relative_url }}
+[4]: {{ "/2019/09/10/argle.html" | relative_url }}
