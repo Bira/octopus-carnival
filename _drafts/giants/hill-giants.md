@@ -27,8 +27,8 @@ environment.
 Hill Giants are so much more aligned to the world than to the Elemental Chaos
 that they resemble big people. Big, dumb, violent people. I believe hill giants
 are inspired by the giants you see in some fairy tales, of the kind that walks
-in from somewhere and begins demanding tribute or eating people's goats until
-some clever tailor comes in and kills them through trickery.
+in from somewhere and begins eating people's goats until some clever tailor
+comes in and kills them through trickery.
 
 While D&D hill giants aren't much smarter than the ones in the fairy tales,
 they're quite a bit harder to defeat, particularly because they're only alone if
@@ -38,15 +38,17 @@ neighbors, style themselves a king or queen, and begin demanding tribute.
 
 Hill giants fight with Stone Age weapons, which are still quite deadly due to
 their size and the strenght of their wielders. They also have excellent throwing
-arms and are able to hurl boulders with more accuracy than a catapult.
+arms and are able to hurl boulders with more accuracy than a catapult. They are
+Chaotic Evil on account of being on Team Primordial, but if it's possible for a
+Friendly Giant who is Unaligned or Good to exist at all, they're probably from
+this branch of the family.
 
 ## The Numbers
 
 Hill Giants are Large Natural Humanoids with the Earth and Giant keywords. They
 have a typical Int score of 7, making them stupid but still capable of tactics
 and coordination. Earth Titans are Huge Elemental Humanoids with the same
-keywords and a typical Int of 10. Both are Chaotic Evil on account of being on
-Team Primordial.
+keywords and a typical Int of 10.
 
 ### Hill Giant (Both)
 
