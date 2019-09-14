@@ -115,14 +115,14 @@ every square in range into difficult terrain and causing 5 cold damage to
 enemies that start their turn inside.
 
 The Titan fights with an Icy Greataxe (Melee 3 vs. AC), which does both
-immediate and cold damage (save ends), and has High Critical. It can focus its
-icy breath once per encounter (Close Blast 5 vs. Reflex), which does cold
-damage, ongoing cold damage (save ends), and immobilizes for a turn. A miss does
-half damage.
+immediate and ongoing cold damage (save ends), and has High Critical. It can
+focus its icy breath once per encounter (Close Blast 5 vs. Reflex), which does
+cold damage, ongoing cold damage (save ends), and immobilizes for a turn. A miss
+does half damage.
 
 As a minor action it can use a Cold-Blooded Kick (Melee 3 vs. Reflex), which is
 actually a bit stronger than the axe, pushes the target 2 squares, and knocks it
-prone. Fortunately it doesn't have High Critical.
+prone. Fortunately it doesn't have High Critical or ongoing damage.
 
 When the Frost Titan is reduced to 0 HP, it can make one last axe strike.
 
