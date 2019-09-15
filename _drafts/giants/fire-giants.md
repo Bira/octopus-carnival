@@ -12,17 +12,16 @@ incarnation is a lot less viking-ish. They're present on both books.
 
 ## The Lore
 
-Fire giants have legendary reputations as builders and metalworkers, which
-makes sense since every object usable by a fire giant has to be made of
-heat-resistant metal or stone. They live in castles and fortified cities build
-around (and atop, and under) active volcanoes or other sources of head and
-magma.
+Fire giants have legendary reputations as builders and metalworkers, which makes
+sense since every object usable by a fire giant has to be made of heat-resistant
+metal or stone. They live in castles and fortified cities build around (and
+atop, and under) active volcanoes or other sources of heat and magma.
 
 These giants pine more strongly for their ancient glory days than most of their
 kin, and engage in active empire-building instead of settling for simple
 raiding. They make ample use of slaves, chief among which are the azer descended
-from dwarves that didn't manage to break free from their fire giant
-masters. They'll enslave other peoples just as readily though.
+from dwarves that didn't manage to break free from them. They'll enslave other
+peoples just as readily though.
 
 While still members of Team Primordial fire giants are typically Evil, probably
 reflecting their more organized approach to life.
@@ -30,9 +29,9 @@ reflecting their more organized approach to life.
 ## The Numbers
 
 Fire giants are Large Elemental Humanoids with the Giant keyword, and their
-titan bosses are Huge. They have 15 resistance resistance to fire. Like other
-giants their land speed is 8. Both fire giants and titans have a typical Int
-score of 10.
+titan bosses are Huge. They have 15 resistance resistance to fire, with titans
+being more resistant. Like other giants their land speed is 8. Both fire giants
+and titans have a typical Int score of 10.
 
 They're stronger than frost giants, but not by much. You can consider both types
 to be evenly matched.
@@ -60,7 +59,7 @@ it hits for a turn.
 The MM version is nearly identical. Aside from suffering from the damage bug, it
 can also throw Iron Javelins (Ranged 15/30 vs. AC), which do physical damage and
 slow for a turn when they hit. Apparently fire giants are too sophisticated to
-throw _rocks_. Personally, I'd add this attack to the MV version too.
+throw mere rocks. Personally, I'd add this attack to the MV version too.
 
 ### Fire Giant Forgecaller (Both)
 
@@ -73,7 +72,7 @@ that does more fire damage than the mace, or an area-effect Flame Burst (Area 2
 within 10 vs. Reflex; Recharge 6) which does both immediate and ongoing fire
 damage (save ends), half of both on a miss.
 
-### Fire Titan
+### Fire Titan (Both)
 
 The fire titan is a Level 21 Elite Soldier with 398 HP. The MM version has 30
 Fire Resistance, and the MV version upgrades that to complete immunity. Its
