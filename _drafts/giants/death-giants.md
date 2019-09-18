@@ -81,7 +81,7 @@ within. Its necrotic resistance is 30, and its speed is 8.
 Death titans wear plate and fight with Huge greataxes, which are Reach 3 and
 have the High Crit property. They can attack twice per action with these axes.
 
-The death titan's soul shard works the same way as that of the giant, but the
+The death titan's soul shroud works the same way as that of the giant, but the
 titan doesn't need to wait for people to die around it! It has an ability called
 Soul Devourer (Ranged 5 vs. Fortitude), which takes a bite off the soul of an
 enemy, causing it to lose a healing surge and adding one soul shard to the
