@@ -83,12 +83,14 @@ monster it can also perform two greatsword attacks per action.
 
 The MM gives us one sample encounter: Level 27, 1 storm titan, 1 thunderblast
 cyclone elemental, 2 storm gorgons. You can likely expect similarly themed
-elementals and dragons to make up the retinues of other storm giants and titans.
+elementals and blue dragons to make up the retinues of other storm giants and
+titans.
 
 I like them, particularly due to the Jack and the Beanstalk associations. I
-don't mind losing cloud giants in the conversion to 4e - the giant you find in
-that cloud castle should be of the type that wants to grind your bones to use as
-seasoning, not the type that invites you for dinner.
+don't mind losing cloud giants in the conversion to 4e. It seems fitting that
+the giant you find atop the cloud is the one that wants to grind your bones for
+seasoning, not invite you to dinner. And if you really want to you could bring
+the good sky giants back using these same stats.
 
 I also on't mind that the storm giant and titan share similar abilities -
 conceptually, their set is fairly solid. The main problem here is that both
