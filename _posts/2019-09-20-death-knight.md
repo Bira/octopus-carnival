@@ -6,6 +6,13 @@ tags:
     - dnd4
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-death-knight.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
 At last we come to another iconic D&D monster! If you're following VoidDrifter's
 RPG.net thread on the Dragon Magazine monster articles, you can read about the
 history of Death Knights in the game [here][1]. The article was published before

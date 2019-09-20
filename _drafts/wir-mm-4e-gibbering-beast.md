@@ -24,10 +24,11 @@ it warps the minds of those who hear it and makes them easy prey for the
 beast.
 
 The lesser varieties of gibbering beast spontaneously generate when something
-dies in places touched by the influence of the Far Realm. Over time they can
-grow and become both smarter and more powerful. Sometimes the strongest
-varieties travel directly from the Far Realm to the world, bent on enacting some
-insane scheme of their own.
+dies in places touched by the influence of the Far Realm, which causes the
+corpse's face to detach and become a newborn beast. Over time they can grow and
+become both smarter and more powerful. Sometimes the strongest varieties travel
+directly from the Far Realm to the world, bent on enacting some insane scheme of
+their own.
 
 ## The Numbers
 
