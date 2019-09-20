@@ -14,7 +14,8 @@ fiction author. Here, they're present in both books.
 Judging by the other RPG.net Let's Reads that are running at the same time as
 this one, it seems like 3.x would spill a lot of ink creating other weird
 extraplanar people in an attempt to make the "next githyanki", mostly without
-success.
+success. 5e would instead attempt to add new lore to them, with what I feel are
+mixed results.
 
 ## The Lore
 
@@ -28,7 +29,7 @@ tentacly oppressors: psychic powers! Once they didn't have a common enemy to
 unite against, the internal tensions of the gith began building up and
 eventually exploded. The resulting conflict divided the gith into two people
 with radically different philosophies: the xenophobic and militaristic
-githyanki, and the monastic and contemplative githzerai. We'll focus on the
+githyanki, and the contemplative and isolationist githzerai. We'll focus on the
 first here.
 
 The githyanki migrated en masse to the Astral Sea and built their capital city
@@ -81,7 +82,7 @@ That silver greatsword does psychic damage on a hit, and does bonus damage
 against immobilized targets. As an effect, these basic attacks apply a
 double-strenght mark against the target for a turn. This means the target gets a
 -4 penalty to attack enemies other than the marking warrior instead of the usual
--2.
+-2. I believe these are the only monsters to do so.
 
 Warriors can also use a Telekinetic Grasp (Ranged 5 vs. Fortitude; recharge 5-6)
 against Medium or smaller targets, doing no damage but immobilizing them (save
@@ -157,5 +158,7 @@ level 17. Y'know, just in case you want to have some fun with your players.
 
 ## Final Impressions
 
-Githyanki are awesome! When they appeared in my games I described them as
-fighting kinda like Jedi. They certainly have the powers for it!
+Githyanki are pirates who fight like Jedi, which makes them awesome in my book!
+A campaign centered on planar travel is well-served by their addition. Even if
+that's not a major theme, a sudden githyanki raid can make a nice random
+encounter, or an unwelcome complication for an otherwise unrelated crisis.

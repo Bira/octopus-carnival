@@ -7,10 +7,9 @@ tags:
 ---
 
 Githzerai were introduced into the game right alongside githyanki. They're the
-other side of the gith coin, which contains Ninja and Pirate instead of Heads
-and Tails. In the books we're covering, they only appear in the Monster Manual,
-but would also feature as a playable character option in the Player's Handbook
-3.
+other side of the gith coin, the ninjas opposing the pirates. In the books we're
+covering, they only appear in the Monster Manual, but would also feature as a
+playable character option in the Player's Handbook 3.
 
 ## The Lore
 
@@ -56,8 +55,8 @@ into a miss.
 ### Githzerai Cenobite
 
 Cenobites are Level 11 Soldiers with 108 HP, representing the typical martial
-artists PCs might meet. They're the kind of fighter who stands their ground and
-chases the foe down.
+artists PCs might meet. Rather than the mobile skirmishers you'd expect monks to
+be, they're the kind of fighter who stands their ground and chases the foe down.
 
 They fight unarmed, and their fists are supposed to cause level-appropriate
 damage. Instead of a basic strike they can use an at-will Stunning Fist, which
@@ -126,3 +125,8 @@ I really like these guys. They contrast with githyanki in an interesting way,
 being approachable in a way their estranged siblings aren't. I think it would
 also be really cool for them to be the originators of the monk's mystical
 traditions in the setting.
+
+5e would make them more morally ambiguous, saying they don't mind let innocents
+come to harm if it allows them to strike at the mind flayers or githyanki, but I
+like them best as an Unaligned people that can produce heroic PCs or dastardly
+villains in the same vein as the humans or elves.
