@@ -62,6 +62,12 @@ After this, we get right on the monsters:
   - [Chuul][25]
   - [Colossus][26]
   - [Crocodile][27]
+  - [Cyclops][28]
+
+- D
+  - [Dark One][29]
+  - [Death Knight][30]
+  - [Demon][31] Introduction
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -90,3 +96,7 @@ After this, we get right on the monsters:
 [25]: {{ "/2019/08/15/chuul.html" | relative_url }}
 [26]: {{ "/2019/08/23/colossus.html" | relative_url }}
 [27]: {{ "/2019/09/02/crocodile.html" | relative_url }}
+[28]: {{ "/2019/09/03/cyclops.html" | relative_url }}
+[29]: {{ "/2019/09/16/dark-one.html" | relative_url }}
+[30]: {{ "/2019/09/20/death-knight.html" | relative_url }}
+[31]: {{ "/2019/09/23/demon.html" | relative_url }}
