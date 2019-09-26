@@ -77,10 +77,10 @@ The counterparth to the githyanki gish, this represents an individual who
 balances martial and psychic training. It's a Level 13 Elite Controller with 248
 HP.
 
-Like the cenobite above, the zerth fights unarmed, and has the same basic
-strike, and Trace Chance abilities. Its main ranged attack is Inner Spark
-(Ranged 5 vs. Reflex), which does lignthning damage and teleports the target 5
-squares to an unnocupied space of the zerth's choosing.
+Like the cenobite above, the zerth fights unarmed, with the same basic strike
+and Trace Chance abilities. Its main ranged attack is Inner Spark (Ranged 5
+vs. Reflex), which does lignthning damage and teleports the target 5 squares to
+an unnocupied space of the zerth's choosing.
 
 Further teleport shenanigans are possible with Reorder Chaos (Ranged _sight_
 vs. Fortitude), which targets up to 4 creatures and swaps their positions as the
@@ -129,4 +129,5 @@ traditions in the setting.
 5e would make them more morally ambiguous, saying they don't mind let innocents
 come to harm if it allows them to strike at the mind flayers or githyanki, but I
 like them best as an Unaligned people that can produce heroic PCs or dastardly
-villains in the same vein as the humans or elves.
+villains in the same vein as the humans or elves. "Neutral" shouldn't mean you
+do equal amounts of good and evil.
