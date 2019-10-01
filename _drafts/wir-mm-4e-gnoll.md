@@ -16,26 +16,26 @@ Once the Humanoid Power Ladder got dismantled, just being "the 2 HD humanoid" no
 longer cut it as the gnoll identity. And in Fourth Edition, they are now widely
 known as the Least Reasonable Humanoids.
 
-You see, the vast majority of these hyena-faced people are fanatical worshippers
-of the demon lord Yeenoghu, whose teachings can be summed up as "kill and eat
-everything you see". Gnoll bands are nomadic and roam around fulfilling that
-mandate. They never build permanent structures, and even their gear is mostly
-taken from those they killed. Sometimes they take slaves, but those slaves never
-last long. Mostly they just kill and eat people. In short, they're the closest
-you can get to a demon while still having the natural origin. You can frequently
-find actual demons in their midst, either summoned by their priests or sent by
-Yeenoghu to boss them around. Their warriors carry all sorts of demonic boons
-into battle as well.
+You see, the vast majority of these hyena-faced people your group ends up
+fighting will be worshippers of the demon lord Yeenoghu, whose teachings can be
+summed up as "kill and eat everything you see". Gnoll bands are nomadic and roam
+around fulfilling that mandate. They never build permanent structures, and even
+their gear is mostly taken from those they killed. Sometimes they take slaves,
+but those slaves never last long. Mostly they just kill and eat people. In
+short, they're the closest you can get to a demon while still having the natural
+origin. You can frequently find actual demons in their midst, either summoned by
+their priests or sent by Yeenoghu to boss them around. Their warriors carry all
+sorts of demonic boons into battle as well.
 
 No one else cooperates with gnolls. If you try they'll eat you, and if you're
 strong enough to prevent them from eating you, you don't need their help in the
 first place.
 
-Now, not _all_ gnolls are the mortal instruments of Yeenoghu. There was a Dragon
-article with presented playable gnolls who were members of a dissident faction
-that rejected demon worship. They are fierce and honorable hunters, Good or
-Unaligned, and a lot more likely to cooperate with others. I liked them a lot
-and I'm sad they never showed up again after that one article.
+There was a Dragon article with presented playable gnolls who were members of a
+dissident faction that rejected demon worship. They are fierce and honorable
+hunters, most often Good or Unaligned, and a lot more likely to cooperate with
+others. I liked them a lot and I'm sad they never showed up again after that one
+article.
 
 The gnolls we'll be looking at there are the usual "fanatical demon worshipper"
 variety.
@@ -59,8 +59,8 @@ The Monster Manual variants behave like they're supposed to, with their basic
 damage hitting the expected average and the add-ons applying on top of
 that. Don't let them surround you!
 
-There's very little overlap between the stat blocks in both books, which leaves
-us with a lot of gnolls to look at. Fortunately most of them are fairly
+There's little overlap between the stat blocks in both books, which leaves us
+with a lot of gnolls to look at. Fortunately most of them are fairly
 simple. Let's mix them all and look at them by level.
 
 ### Gnoll Huntmaster (Both)
@@ -108,8 +108,8 @@ above.
 
 Instead of the Claws of Yeenoghu power, the marauder has Quick Bite, which
 allows it to make a free-action bite attack against a bloodied enemy it just hit
-with the spear. This does a bit less damage than the spear, but hey, it's all
-bonus damage.
+with the spear. This does a bit less damage than the spear, but it's pretty good
+for a bonus attack.
 
 ### Gnoll Blood Caller (MV)
 
@@ -126,8 +126,8 @@ action. This automatically deals a bit of damage to every enemy in a Close Burst
 1 and marks them for a turn. And now you know why Blood Call is an area effect.
 
 This is another monster that will make up the frontline in a gnoll encounter to
-provide Pack Attack bonuses, and it has a few positioning tricks to pull the PCs
-into more favorable positions for that.
+provide Pack Attack bonuses, and it has a few tricks to pull the PCs into more
+favorable positions for that.
 
 ### Fang of Yeenoghu (MV)
 
@@ -157,7 +157,7 @@ damage to the ally and heals the gorger for 5 HP.
 
 That's some real horrific imagery right there.
 
-### Demon-Eye Gnoll
+### Demon-Eye Gnoll (MV)
 
 This level 7 Lurker has 62 HP and all common traits. Plus, the Abyss leaks out
 of its eyes.
@@ -221,7 +221,17 @@ long. You can guess what they look like: groups of assorted gnolls, with the
 occasional pack of hyenas and evistro demons thrown in. As I said above, no one
 else can work with these maniacs.
 
-Gnolls make a fine enemy, and we have enough stat blocks to build entire
-dungeons with nothing but them as the opposition. The only thing that makes me
-sad is that we never got more information on non-evil and playable gnolls than
-that solitary Dragon article.
+When it comes to humanoids and other "sapient, natural" opposition, I don't mind
+if the specific group the PCs are fighting is villainous. However it does bother
+me a bit when the game seems to say every single member of the species is
+similarly evil. That solitary Dragon article could have opened the way for a
+setting where your typical gnoll is a person and not necessarily hostile, with
+the ones you fight being those individuals who chose an evil path (much like the
+game treats humans). Instead, it was never officially built upon and in fact 5e
+went in the other direction and made gnolls into basically another type of
+demon.
+
+Anyway, these stat blocks make for mechanically interesting enemies and we have
+enough of them to build entire dungeons with nothing but gnolls as the
+opposition. Do grab that Dragon article if you can, I remember the playable
+version was also quite good.
