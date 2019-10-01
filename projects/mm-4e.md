@@ -68,6 +68,7 @@ After this, we get right on the monsters:
   - [Dark One][29]
   - [Death Knight][30]
   - [Demon][31] Introduction
+    - [Balor][32]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -100,3 +101,4 @@ After this, we get right on the monsters:
 [29]: {{ "/2019/09/16/dark-one.html" | relative_url }}
 [30]: {{ "/2019/09/20/death-knight.html" | relative_url }}
 [31]: {{ "/2019/09/23/demon.html" | relative_url }}
+[32]: {{ "/2019/10/01/balor.html" | relative_url }}
