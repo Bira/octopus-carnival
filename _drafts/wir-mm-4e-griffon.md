@@ -1,0 +1,123 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Griffon"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Another fantasy classic, these lion-eagle hybrids have a different spelling for
+their name in every source they appear in. D&D has always gone with "Griffon"
+and has featured them in its bestiaries since BECMI and AD&D 1st Edition. In
+Fourth Edition they appear only in the MM.
+
+## The Lore
+
+A griffon is a large flying carnivore with the head, wings and foreclaws of a
+giant eagle, and the hindquarters of some non-flying beast. They're strong
+enough to be used as flying mounts, though how easy they are to train depends on
+the exact variety you're dealing with.
+
+The most common variety is called simply a Griffon, and has a lion's
+backside. They can't be trained at all unless you start with a hatchling, but
+stories tell that some elves and eladrin can use magic to control them and ride
+them into battle. Even so, griffon eggs fetch a high price on the open market
+(1000 GP), mostly from people who want an exotic beast to display in their zoos,
+or who want them as vicious, barely contained guard animals. Or maybe from
+people who think they have that elven magic figured out.
+
+The ones you're most likely to find as trained mounts are the Hippogriffs, who
+have horse backsides and a considerably more tractable temperament. This makes
+them the most common flying mount among the sapient people of the world. I'm
+pretty sure Nerath had whole regiments of hippogriff cavalry and that the
+practice survives in any surviving community of sufficient size.
+
+Hippogriffs are brave enough that that they can readily be ridden into battle,
+and they actually breed true with normal horses as well as with each other. The
+offspring of a horse and a hippogriff will either be another hippogriff or a
+temperamental horse. They're expensive enough to be a prime target for thieves,
+and there's a thriving black market on young specimens.
+
+Even the Elemental Chaos has its own griffon species in the form of the Rimefire
+Griffon, a formidable beast that the book describes as being sapient, unlike its
+natural cousins. It's not exactly a genius at Int 4, but it still "allies" with
+ice archons or gets "pressed into service" by efreets.
+
+## The Numbers
+
+Griffons are Large Natural Beasts with the Mount keyword (the Rimefire Griffon
+is Elemental instead). They're a bit slow on land, but are excellent fliers.
+
+### Hipogriff
+
+The typical hippogriff is a Level 5 Skirmisher with 64 HP. It walks at speed 4
+and flies at speed 10. Being a MM monster, it has a listed overland flight speed
+of 15, fast enough to outrun most dragons.
+
+Its basic attack is a bite, and it can perform a Flyby Attack that works as
+expected: the hippogriff flies it speed, attacks at any point in the movement,
+and draws no opportunity attacks. It can also perform a Diving Overrun, a charge
+which does more damage than the bite, knocks the target prone on a hit, and
+lands the hippogriff adjacent to it.
+
+As mounts, these creatures grant +1 to all of their riders' defenses.
+
+### Hippogriff Dreadmount
+
+An armored hippogriff that fights better on the ground. It's a Level 5 Soldier
+with 66 HP and the same speed as the standard model.
+
+Dreadmounts trade their usual agility for increased battlefield control. They
+fight with bites, and can do Wing Slams (Melee 1 vs. Reflex) against enemies who
+try to shift or move away from them. These attacks are interrupts, doing some
+damage and knocking enemies prone on a hit. They can't be done while in the air.
+
+Dreadmounts are also as stable as dwarves - they move 1 square less from forced
+movement effects, and can roll an immediate save to avoid being knocked prone.
+
+### Griffon
+
+Classic griffons are Level 7 Brutes with 98 HP. They run with speed 6, and fly
+with speed 10.
+
+Griffons fight with their claws, and they're all about charging: charge attacks
+give them a +4 attack bonus instead of the usual +1. When acting as mounts,
+their charges allow them to make two claw attacks in addition to the rider's
+attack.
+
+When bloodied, griffons lose their shit: they become immune to fear, gain an
+extra move action, a +2 bonus to attacks, and a -2 penalty to defenses.
+
+### Rimefire Griffon
+
+These are Level 20 Skirmishers with 186 HP. Their land speed is 5, and their
+flight speed 10. They have Resist 10 to both cold and fire.
+
+Rimefire griffons have lion bits but fight more like hippogriffs, with a basic
+bite that does physical and cold damage and the same Flyby Attack power. They
+can also breathe fire (Close Blast 5 vs. Reflex), an attack that starts
+"uncharged" but recharges after the creature hits twice with a bite attack. When
+used as a mount, the rimefire griffon grants its elemental resistances to its
+rider.
+
+The lore description for the fiery breath is fun: their bites absorbs the
+target's body heat, causing the creature's prominent horn to glow red-hot. Once
+it stores up enough heat, it can release it as a blast.
+
+### Sample Encounters
+
+The sample encounters emphasize the role of griffons as mounts:
+
+- Level 5: a human mage and 2 human guards riding hippogriffs.
+
+- Level 5: 3 warforged soldiers and their dreadmount-riding captain.
+
+- Level 6: 2 eladrin fey knights on griffons.
+
+- Level 20: 1 Ghaele of Winter riding a rimefire griffon, accompanied by a
+  quartet of fire and ice archons.
+
+I like them, particularly the emphasis on them being mounts. I get the feeling
+that investing in horses in D&D's implied setting is a fool's game. You have
+boar-riding dwarves, griffon-riding elves, human knights on hippogriffs, and I'm
+sure there's a ridable drake somewhere. Warhorses are so last edition.

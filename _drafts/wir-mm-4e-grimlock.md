@@ -1,0 +1,93 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Grimlock"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Grimlocks appeared in a Monster Manual for the first time in AD&D 2nd Edition,
+though it's likely they appeared in a 1e or earlier supplement before that. I'm
+pretty sure they're inspired by the Morlocks from H. G. Wells' The Time Machine.
+
+## The Lore
+
+It seems like every "civilized" surface people has a more brutal "deep"
+counterpart in the Underdark. Elves have drow, dwarves have duergar, and so
+on. I've seen it argued that grimlocks are the equivalent of humans, though
+their dramatic role is a lot closer to that of your typical Angry Humanoid.
+
+Anyway, grimlocks are a humanoid people who apparently evolved in the
+Underdark. They have no eyes, and perceive the world through their keen senses
+of hearing and smell. Some sonar might also be involved here.
+
+Grimlocks are quite strong, and their society has a Stone Age level of
+technology. As it's unfortunately quite common for D&D, they're described as
+stupid, savage cannibals who have a particular taste for human flesh and an Evil
+alignment.
+
+That's already quite enough to make them hostile to any given PC group, but
+there's more! Grimlocks are surrounded by lots of powerful, technologically
+advanced evil empires, which means they often end up as slaves to drow, duergar,
+mind flayers, and so on. So you might end up fighting a grimlock horde either
+because they're servants of the Big Bad, or just because they're hungry.
+
+The bit I like the most here is the statement that grimlocks _evolved_ in the
+Underdark. That would make them the only sapient species who is truly native to
+the place - all others came from somewhere else. Even much of the more dangerous
+wildlife leaked from the Far Realm.
+
+## The Numbers
+
+Grimlocks are Medium Natural Humanoids, which corroborates the evolution
+bit. Their signature traits are Blindsight 10, and the Blind keyword. This makes
+them immune to sight-based effects, and allows them to fight normally in full
+darkness or against invisible opponents.
+
+They have no other special tricks, relying on "hard fighting" instead.
+
+### Grimlock Minion and Grimlock Follower
+
+These are Minion Brutes, level 14 and 22 respectively. They fight with stone
+greataxes that do a bit more damage against bloodied targets, and otherwise hope
+to swarm their enemies with their huge numbers as minions often do.
+
+You can expect to find large numbers of them in the service of some powerful
+Underdark villain, or if you end up raiding a grimlock settlement for some
+reason.
+
+### Grimlock Ambusher
+
+A Level 11 Skirmisher with 110 HP, trained in Athletics and Endurance. It fights
+with a greataxe that has the High Critical property.
+
+Its special move is the Offensive Shift, a reaction usable when an enemy moves
+within 2 squares and attacks an ally of the ambusher. It allows the creature to
+shift and make a basic attack against that enemy. This recharges when the
+ambusher is first bloodied.
+
+### Grimlock Berserker
+
+This Level 13 Brute has 156 HP and seems to be visually indistinguishable from
+the ambusher above. It has training in the same skills.
+
+The berserker fights with a greataxe as well, and in addition to its basic
+attack it can make a Power Attack that's slightly less accurate and deals more
+damage. It can also make two basic attacks against a bloodied enemy.
+
+When the berserker bloodies an enemy, it gains 10 temporary HP.
+
+## Sample Encounters and Final Impressions
+
+The sample encounter is level 13: two berserkers, 2 hook horrors, and 1 mind
+flayer infiltrator who is likely the boss of this group.
+
+I'm not really a fan of grimlocks. They fill a necessary role of mind flayer
+muscle but otherwise conform to all the usual Angry Humanoid stereotypes, with
+the words "murderous", "savage", "brute", and so on appearing rather frequently
+as descriptors.
+
+Mechanically they're a bit weak, heavily affected by the damage bug due to being
+paragon-tier opponents. Even the berserker's power attack falls short of what
+its basic damage output should be according to the new math. Fixing that is a
+priority if you want to use grimlocks as opposition.

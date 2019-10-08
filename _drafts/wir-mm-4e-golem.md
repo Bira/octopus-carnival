@@ -1,0 +1,160 @@
+---
+layout: post
+title: "Let's Read The 4e Monster Manual/Vault: Golem"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Golems have been in the game since the beginning. They became so popular that
+they ended up giving rise to the whole construct taxonomy as more things that
+were like them were published to capitalize on the hype.
+
+The word itself comes from the myth of the Golem of Prague. Here, golems are
+present in both books.
+
+## The Lore
+
+Like in pretty much every edition of D&D, golems are humanoid constructs created
+by powerful spellcasters or masters of secret lore. They faithfully obey their
+creator's orders and tirelessly follow the last commnand they received if the
+creator is not around.
+
+The process of creating a golem is quite involved and expensive. The body must
+be crafted to exacting specifications, a process that often involves hired
+artisans if the creator doesn't have the skill themselves. The creator them
+performs a complex ritual upon the finished body, opening a small rift to the
+Elemental Chaos and pulling a bit of the same spark used by the gods and
+primordials to craft the world. This animating spark gives the golem motion and
+a desire to obey its creator, and nothing else.
+
+There are several versions of the animating ritual. All require a sacrifice of
+treasure plus one of blood or spirit. The more evil the ritual, the less of the
+former and more of the latter it requires. The resulting golem itself, however,
+is always the very definition of Unaligned.
+
+While golems are not actually mindless, they're not really people. A golem has
+the ability to understand its master's orders perfectly, but it can't speak or
+understand anyone else. It also employs very direct and physical approaches to
+fulfilling those orders. If a golem is given an order it can't fulfill, it will
+either just stand there or rampage until told to stop. Never try to make your
+golem work as an accountant!
+
+Golems really excel when used for their intended purpose, though. They never
+tire, never complain, never disobey, and last pretty much forever. They're hard
+enough to make that their creators tend to be people who value those traits
+above all else. Maybe it's a dwarf kingdom who needs eternal guardians for their
+treasure vaults. Maybe it's a tyrannical wizard who wants absolutely loyal
+bodyguards who won't flinch when ordered to dismember someone as an example. And
+so on.
+
+## The Numbers
+
+The full Golem Lineup got quite large over the editions, but here we get a
+limited slice of it to start with. The MM contains flesh and stone golems; the
+MV has those two plus iron golems.
+
+I imagine clay golems were left out of the MM because the Eidolons already
+filled the "divine construct" niche, and out of the MV because the
+Frankenstein-inspired Flesh Golem became more popular.
+
+Most golems are Large Natural Animates with the Construct keyword. Constructs
+don't need to breathe, eat or sleep and don't count as living creatures, making
+them immune to effects that only target the living. All golems also have
+darkvision and though they move with Speed 6 they cannot shift. They tend to be
+Paragon-tier elite brutes. Everything else varies with the type of golem.
+
+### Flesh Golem (Both)
+
+Flesh golems are inspired by Frankenstein's monster, and built from corpse
+parts. This makes them look like large angry zombies, but they're explicitly not
+undead. I don't believe they decompose either.
+
+They're Level 12 Elite Brutes with 304 HP. Unlike all other golems, they are
+_not_ immune to disease and poison. They fight with their fists and can perform
+two slams per action. When bloodied, they also make additional slam attacks
+against a random adjacent target as a reaction to being hit by an attack.
+
+The golem's other special attack is Golem Rampage, which allows it to move its
+Speed+2, pass through enemy squares, and make a slam attack against any enemy
+whose square they pass through. This provokes opportunity attacks as normal, and
+recharges on a 5-6.
+
+The MV version has all of the same abilties with improved damage, and leans even
+harder on the Frankenstein story with two new passive traits. I suppose they're
+also a callback to the extensive list of immunities and weird spell effects
+every golem had in previous editions.
+
+Primal Fear causes it to run away from anyone who deals fire damage to it,
+moving up to its speed as a free action. If it can't move at least half that
+distance it grants combat advantage for a turn instead. Live-Giving Jolt allows
+it to make a free basic attack when it takes lightning damage.
+
+Use the MV version for its numbers, and feel free to remove the new passive
+traits if they don't fir your needs.
+
+### Stone Golem (Both)
+
+While flesh golems are the weaker variety, you can say stone golems are the most
+basic. They're Level 17 Elite Brutes with 336 HP, and are immune to disease and
+poison.
+
+They fight with slams, and can also make one or two of those per turn. They have
+the same Golem Rampage power as the flesh golem, and a Death Burst that triggers
+when they die. This explosion is a Close Burst 1 vs. AC doing physical damage
+from stone shrapnel, and causing the area to become difficult terrain "until
+cleared".
+
+Aside from fixing the damage bug, the versions in the two books are identical.
+
+### Iron Golem (MV)
+
+Iron golems were the top of the golem ladder until the 3e Epic Level Handbook
+came along. It appears in 4e for the first time on the MM2. The iron golem is a
+Level 20 Elite Soldier with 386 HP. Like other non-flesh golems it's immune to
+disease and poison.
+
+Iron golems are filled with a self-replenishing reservoir of chemical weapons!
+While bloodied, these leak and work like an Aura 2 that deals poison damage to
+any creature that enters it or starts their turn inside.
+
+Other elemental magic also has strange effects on them: they can shift 2 squares
+when they take fire damage for the first time in a turn (even though they can't
+otherwise shift). When they're hit with lightning, they're also slowed for a
+turn.
+
+An iron golem's basic attack is an Iron Blade that does some pretty good damage
+and marks on a hit. It can Cleave to make this basic attack against two
+different targets. Its other main weapon is a breath weapon that uses those
+chemical weapons I mentioned. It's a Close Blast 3 vs. Fortitude that deals a
+big chunk of poison damage and some quite respectable ongoing poison damage
+(save ends). It recharges on a 5-6.
+
+When a creature marked by the golem and within 2 squares of it moves, the
+creature can use a Dazing Fist as a reaction (Melee 2 vs. Fortitude), which
+does no damage but dazes (save ends). And when the golem dies it detonates is
+poison gas reservoir, dealing immediate and ongoing poison damage in a Close
+Burst 3.
+
+The MM2 iron golem is pretty much identical, though it suffers from the damage
+bug and lacks the special fire and lightning effects.
+
+## Sample Encounters and Final Impressions
+
+There's a single sample encounter here: Level 14, 2 flesh golems and a
+lamia. Lamias are one of those people who would have trouble hiring sapient
+bodyguards, but no shortage of raw material for flesh golems.
+
+I don't think I ever ran a fight against a golem but I like that they're in the
+game. I also like that their description here doesn't even pretend that someone
+could confuse a golem with a statue. They look pretty distinctive and are not
+subtle enough to stay still when an intruder enters the space they're guarding.
+
+A 4e golem is much less of a puzzle monster than it used to be in previous
+editions, where they had a blanket immunity to magic except for those exotic
+effects. 3e already poked some holes into that by making them only immune to
+spells that were affected by spell resistance, and 4e did away with it
+entirely. It's understandable - pretty much anything an arcane or divine
+character can do against a monster is technically "magic", so you don't want to
+make half the party completely useless against golems. Also, spell resistance is
+not a thing in this edition.

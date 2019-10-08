@@ -1,0 +1,186 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Gnome"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Gnomes were introduced as a playable race in the days of AD&D, where they had a
+niche as the nonhuman illusionists and were otherwise slightly smaller
+dwarves. The removal of class and level restrictions in 3.x turned them into one
+of the least popular race choices in the game in my experience. If you wanted to
+play a short angry person you played a dwarf; if you wanted a short cute person
+you played a halfling; and if you wanted a non-human wizard you played an elf.
+
+This might have been one of the factors that kept them out of the PHB when 4e
+was released, replaced by tieflings. They would eventually appear on the PHB 2,
+but until then the only gnome stats we got were in the first Monster Manual.
+
+This switch was announced in [one of the funniest pieces of D&D marketing
+ever][1] before the PHB had been even published, which had the unfortunate side
+effect of turning every edition warrior into a campaigner for gnome rights until
+the publication of the PHB 2.
+
+Gnomes appear both in the MM and in the MV. Interestingly, if you're going
+Essentials-only gnomes once again drop from the list of playable races and
+appear only in the monster book.
+
+## The Lore
+
+Gnomes don't exist, or so they would have you believe. This diminutive fey
+people endured a long period of slavery at the hands of the fomorians, but were
+able to escape with the (unwitting, according to some legends) help of the
+eladrin. They kinda compete with eladrin for the title of "most fey playable
+race", as a matter of fact.
+
+Since that remote past, they've spread all over the Feywild and the world,
+though few know it. Gnome culture values cunning and discretion, since it
+developed in a hostile environment full of much larger creatures bent on hunting
+them. Gnome communities are extremely well-hidden, even when they're located
+within large human cities. In that case, gnomes might build their homes between
+the walls of neighboring buildings or under their floors, wainscot-fantasy style.
+
+Their interpersonal relations are similarly camouflaged. The typical gnome is
+suspicious of strangers and very slow to trust, but hides that behind a mask of
+pleasantness and even frivolity. In the worst case, this suspicion can sour into
+paranoia and lead a gnome down the path of evil. Some of them even work as spies
+and assassins for the fomorians.
+
+A large percentage of gnomes train in magic, becoming wizards or warlocks and
+focusing on illusions. Even a gnome untrained in magic can turn invisible.
+
+## The Numbers
+
+Gnomes are Small Fey Humanoids with a typical speed of 5 and low-light
+vision. They have two signature traits: Fade Away is an encounter power that
+allows them to turn invisible for a turn or until they attack, and Reactive
+Stealth allows them to make a Stealth check to become hidden when they roll
+initiative, if they have any degree of cover or concealment at that point. The
+MV gnomes frequently trade those for improved powers along the same line.
+
+All the gnomes we see in these books are Unaligned, as is traditional for PC or
+PC-adjacent peoples. They could be used as enemies or allies depending on the
+story. Let's look at them in order of level.
+
+### Gnome Skulk (MM)
+
+This Level 2 Lurker has 34 HP and all common traits, including both powers. It
+wields a war pick and a hand crossbow, and wears leather.
+
+The basic pick attack has the High Crit property, and the skulk deals an extra
+1d6 damage on any attack where it has combat advantage. If it attacks from
+hiding and misses, the gnome skulk remains hidden.
+
+Your basic rogue-type, with a few additional tricks that give it the ability to
+keep hidden for longer.
+
+### Gnome Arcanist (MM)
+
+One of those magically-trained gnomes. This is a Level 3 Controller with 46 HP
+and all common traits including the two powers. It projects a 5-square Aura of
+Illusion that grants concealment to itself and all allies within. The arcanist
+wields a pitifully weak dagger as a basic attack and relies on ranged spells for
+actual fighting.
+
+Its main ranged attack is a Scintillating Bolt (Ranged 10 vs. Fortitude) which
+does radiant damage and dazes (save ends). As a minor action it can also fire
+off a Startling Glamor (Ranged 10 vs. Will) that does no damage and slides the
+target 1 square. It can also cast Illusory Terrain (Close Burst 5 vs. Will),
+which does no damage and slows all enemies in the area.
+
+In addition to the already-mentioned gnome racial powers, the arcanist also
+borrows the Eladrin's Fey Step.
+
+Despite its low damage potential, the arcanist is still quite dangerous when
+paired with other monsters that can fill that function. It has an at-will daze!
+
+### Gnome Spy (MV)
+
+Basically a more powerful version of the MM Skulk, this gnome is a Level 5
+Lurker with 51 HP, trained Perception, and all common gnome traits including the
+two powers. It is, in fact the last gnome in this post to have those powers at
+all.
+
+The spy fights with a short sword in melee, and throws daggers out to
+Range 10. Both do extra damage if the gnome is invisible to the target when it
+attacks.
+
+Aside from the reactive Fade Away power, the gnome spy can also turn invisible
+for a turn or until it attacks as a standard action.
+
+### Gnome Illusionist (MV)
+
+A more powerful gnome wizard, this one is Level 6 Artillery with 57 HP and all
+common traits except for the powers. It's also trained in Bluff and Stealth.
+
+The illusionist's weapon is a Gnarled Staff that's nothing special in melee, but
+likely acts as an implement for its spells. Bedazzle (Area Burst 1 within 10
+vs. Will) is an at-will attack that does radiant damage and makes targets grant
+combat advantage (save ends); See Me Not (Close Blast 3 vs. Will; recharge 5-6)
+does psychic damage and makes the gnome invisible to the targets (save ends).
+
+As a move-action encounter power the illusionist can use There, Not There, a
+spell that teleports it 5 squares and creates two illusory doubles within 5
+squares of the destination. These last until the original attacks or until they
+are destroyed - they have 1 HP and the same defenses as the original. The
+illusionist can use its actions to have them do anything it could, except use
+powers.
+
+As an at-will minor action the illusionist can disguise itself and 2 allies
+within 5 squares as any Small or Medium creature. Seeing through the illusion
+requires an opposed Insight check against the gnome's Bluff.
+
+### Gnome Assassin (MV)
+
+This is a Level 7 Skirmisher with 78 HP and all common traits except for the
+powers. It wears leather and wields paired katars.
+
+The katars are its basic attack, and do extra damage if the assassin attacks out
+of Shade Form. Shade Form, in turn, is an encounter power that recharges when
+the assassin is bloodied. It lasts for a turn or until it attacks. While this
+power is active, the assassin is insubstantial, has Vulnerable 5 Radiant, and
+can make Stealth checks to become hidden if it has any cover or concealment.
+
+In addition to all this, the assassin can use Shadow Step as an at-will move
+action, using its enemies' shadows as portals. It teleports 3 squares to another
+shadow and sheds any mark applied to it. It must start and end the teleport
+adjacent to another creature, since it's using their shadows for this.
+
+You better keep your squishies far away from your defenders when fighting gnome
+assassins (and hope they don't appear near your squishies).
+
+### Gnome Entropist (MV)
+
+Our final gnome is another spellcaster, Level 8 Artillery with 71 HP and all
+common traits except the powers.
+
+Despite being a blasty mage, the Entropist is still skilled at illusion. Its
+Illusory Defenses give it a +2 bonus against ranged attacks, and it upgrades the
+standard Fade Away power to Disappearing Act, which lasts for a turn and
+_doesn't_ end when the gnome attacks.
+
+The entropist fights in melee with a Touch of Chaos that does acid damage, and
+at range with an Entropic Arc (Ranged 10 vs. Reflex) that does physical damage
+and prevents the target from taking immediate and opportunity actions for a
+turn. Perfect to let a fellow skirmisher pop free from the PC fighter.
+
+Its "special" attack is Chaos Flare (Area Burst 1 within 15 vs. Will) which
+affects only enemies and recharges if it misses all targets. A hit does physical
+damage and blinds (save ends).
+
+## Sample Encounter and Final Impressions
+
+The sample encounter in the MM is level 3: 2 arcanists, 2 iron defenders
+(low-level constructs) and a pseudodragon. They're likely a guard patrol for one
+of those hidden settlements, which is likely to be quite awkward for the humans
+whose basement houses the main gate.
+
+I like 4e's take on gnomes as secretive fey tricksters, as it gives them a
+distinctive flavor. It borrows a bit from Eberron, whose gnome nation of Zilargo
+is the best at the great game of spying and intrigue in a setting already rife
+with it. Pathfinder apparently went in a similar direction with its gnomes as
+well, though theirs are less sneaky and more whimsical. This version of gnomes
+survives in 5e as the "Forest Gnome" subrace.
+
+[1]: https://www.youtube.com/watch?v=4UqFPujRZWo
