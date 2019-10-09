@@ -165,7 +165,8 @@ The all- or mostly-goblin encounters from the MM are:
   the "boss room" in a goblin lair.
 
 We don't get any goblins of a level higher than 4 in these books, but you can
-certainly create some yourself if you give them the common traits outlined above.
+certainly create some yourself if you give them the common traits outlined
+above.
 
 ## Final Impressions
 

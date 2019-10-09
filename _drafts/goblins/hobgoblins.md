@@ -8,7 +8,7 @@ tags:
 
 Like other goblinoids, hobs have been in D&D since the beginning, where they
 used to fit right above Orcs in the Humanoid Power Ladder. Having 1+1 HD
-prevented them from being casually cleaved by fighters.
+prevented them from being casually cleaved by OD&D fighters.
 
 In 4e, as I've already discussed, they're the most disciplined and militaristic
 of goblinoids, and likely to be in charge in any situation where the three types
@@ -81,14 +81,17 @@ that require saves that are thrown their way.
 
 They will usually be facing level 1-3 PCs, which will likely not be able to
 throw multiple save effects per round to overcome their resilience. And they'll
-be as hard to hit as level 6 soldiers until there is one lone hobgoblin
-left. They party is in for a long fight.
+be as hard to hit with AC attacks as level 6 soldiers until there is one lone
+hobgoblin left. The party is in for a long fight.
 
 Offensively, hob soldiers fight with flails. Their basic attack both marks and
 slows for a turn, and they can also perform a Formation Strike that does the
 same damage and allows them to shift 1 square to end up adjacent to another
 hobgoblin. So that fight is going to last even longer because the PCs will spend
 much of it slowed and will find it hard to knock the hobs out of formation.
+
+You will most likely want to leave these guys out of your game entirely, and use
+Battle Guards in their stead.
 
 ### Hobgoblin Battle Guard (MV)
 
@@ -126,9 +129,9 @@ attack animals. They wield a goad (works as a war pick) in one hand and a whip
 in the other.
 
 Whenever a beast or magical beast ally adjacent to the beast master hits with an
-attack, it gains 5 temporary HP. The beast master's goad is a basic attack, and
-the whip does damage and knocks down on a hit, and can slide the target 1 square
-as an effect. It can also choose to give an attack order to an adjacent beast or
+attack, it gains 5 temporary HP. The beast master's goad is a basic attack. The
+whip does damage and knocks down on a hit, and can slide the target 1 square as
+an effect. It can also choose to give an attack order to an adjacent beast or
 magical beast ally, giving it a Lazy Warlord-style free basic attack.
 
 The beast master has Phalanx Movement, which _does_ work on its beasts since the
@@ -210,10 +213,19 @@ tricks, though.
 ## Final Impressions
 
 The hobgoblin niche of being the "organized, militaristic" humanoids actually
-makes them the most reasonable of the bunch. You still end up fighting them
-quite often, but they're a lot more open to parley than any orc or gnoll as
-depicted in these books. Heck, it's not impossible for a paragon party to hire
-themselves a company of hobgoblin mercs to help deal with a major threat.
+makes them the most reasonable of the bunch. That's admitedly not a very high
+bar to clear in a "bunch" that includes gnolls and orcs, but it's already
+something.
+
+A given band of hobgoblins is likely to be pursuing an objective more complex
+than "kill everyone and raze every building", and doesn't need to be defeated
+with that same tactic. They'll leave if you can prevent them from accomplishing
+their goals, and the truly reasonable among them will also leave if you manage
+to negotiate a nonviolent solution.
+
+Heck, it's not impossible for a paragon or epic party to hire themselves a
+company of hobgoblin mercs to help deal with a some aspect of a major threat. A
+morally risky move, but not an impossibility.
 
 Eberron goes further on this by making them not actually villainous. Its human
 nations view the goblin kingdom of Darguun with suspicion, and it might become a
