@@ -104,3 +104,4 @@ After this, we get right on the monsters:
 [31]: {{ "/2019/09/23/demon.html" | relative_url }}
 [32]: {{ "/2019/10/01/balor.html" | relative_url }}
 [33]: {{ "/2019/10/08/barlgura.html" | relative_url }}
+[34]: {{ "/2019/10/10/evistro.html" | relative_url }}
