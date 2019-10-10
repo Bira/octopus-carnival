@@ -23,8 +23,8 @@ talk with people they can beat up instead. To get a bugbear to negotiate you
 have to show them there's a clear and obvious advantage to doing so. That could
 be because you're too tough to bully, or because working with you will bring
 them more rewards in the long run. They tend to fit into hobgoblin-led forces as
-elite shock troops or commandos. Yes, bugbears can be surprisingly sneaky given
-their bulk and predilection for direct violence.
+elite shock troops or commandos. Yes, bugbears can be surprisingly sneaky
+despite their bulk and predilection for direct violence.
 
 One interesting bit of lore in the MM is that bugbears like to decapitate their
 enemies in honor of Hruggek, a culture hero and exarch of Bane who was known for
@@ -49,9 +49,8 @@ to any other changes.
 ### Bugbear Thug (MV)
 
 This Level 4 Brute has 65 HP and all common traits for MV bugbears. It fights
-with a morningstar whose basic attack has a built-in "sneak attack" bonus
-damage, and carries 2 handaxes it can throw while it closes the gap with the
-PCs.
+with a morningstar whose basic attack has built-in "sneak attack" bonus damage,
+and carries 2 handaxes it can throw while it closes the gap with the PCs.
 
 Simple and effective! If attacking an isolated PC from ambush, the thug can
 start the fight with a bang, though unlike a full lurker it will not seek to
