@@ -26,12 +26,12 @@ artisans if the creator doesn't have the skill themselves. The creator them
 performs a complex ritual upon the finished body, opening a small rift to the
 Elemental Chaos and pulling a bit of the same spark used by the gods and
 primordials to craft the world. This animating spark gives the golem motion and
-a desire to obey its creator, and nothing else.
+a desire to obey its creator, and nothing else in the way of personality.
 
 There are several versions of the animating ritual. All require a sacrifice of
 treasure plus one of blood or spirit. The more evil the ritual, the less of the
 former and more of the latter it requires. The resulting golem itself, however,
-is always the very definition of Unaligned.
+is always Unaligned.
 
 While golems are not actually mindless, they're not really people. A golem has
 the ability to understand its master's orders perfectly, but it can't speak or
@@ -87,11 +87,11 @@ every golem had in previous editions.
 
 Primal Fear causes it to run away from anyone who deals fire damage to it,
 moving up to its speed as a free action. If it can't move at least half that
-distance it grants combat advantage for a turn instead. Live-Giving Jolt allows
+distance it grants combat advantage for a turn instead. Life-Giving Jolt allows
 it to make a free basic attack when it takes lightning damage.
 
 Use the MV version for its numbers, and feel free to remove the new passive
-traits if they don't fir your needs.
+traits if they don't fit your needs.
 
 ### Stone Golem (Both)
 
@@ -115,8 +115,8 @@ Level 20 Elite Soldier with 386 HP. Like other non-flesh golems it's immune to
 disease and poison.
 
 Iron golems are filled with a self-replenishing reservoir of chemical weapons!
-While bloodied, these leak and work like an Aura 2 that deals poison damage to
-any creature that enters it or starts their turn inside.
+While they're bloodied, these leak and work like an Aura 2 that deals poison
+damage to any creature that enters it or starts their turn inside.
 
 Other elemental magic also has strange effects on them: they can shift 2 squares
 when they take fire damage for the first time in a turn (even though they can't
