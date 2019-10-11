@@ -70,6 +70,8 @@ After this, we get right on the monsters:
   - [Demon][31] Introduction
     - [Balor][32]
     - [Barlgura][33]
+    - [Evistro][34]
+    - [Glabrezu][35]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -105,3 +107,4 @@ After this, we get right on the monsters:
 [32]: {{ "/2019/10/01/balor.html" | relative_url }}
 [33]: {{ "/2019/10/08/barlgura.html" | relative_url }}
 [34]: {{ "/2019/10/10/evistro.html" | relative_url }}
+[35]: {{ "/2019/10/11/glabrezu.html" | relative_url }}
