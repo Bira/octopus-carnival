@@ -9,13 +9,12 @@ tags:
 In Greek mythology, the Gorgons are a trio of sisters whose bodies were partly
 composed of snakes and whose visage could turn people to stone. Medusa was one
 of the Gorgons (the other were Stheno and Euryale). If you say the word "Gorgon"
-to anyone, they'll probably think of Medusa.
+to anyone, they'll probably think of Medusa, unless they're D&D players.
 
-Except if they're D&D players. D&D uses the word "Medusa" as a species name for
-the snake-haired ladies, and "Gorgon" for these carapaced cows with a poison
-breath. They, in turn, are based on a monster from medieval European folklore
-whose poison gas came out of the other end. They appear only on the Monster
-Manual.
+D&D uses the word "Medusa" as a species name for the snake-haired ladies, and
+"Gorgon" for these carapaced cows with a poison breath. They, in turn, are based
+on a monster from medieval European folklore whose poison gas came out of the
+other end. They appear only on the Monster Manual.
 
 ## The Lore
 
@@ -83,10 +82,10 @@ dragonborn champions. I imagine this is a lord taking a walk with his favored
 pets and their minders. Yes, the Dragonborn Champions are pet minders - anyone
 less tough would be killed by those storm auras.
 
-Stupid naming conventions aside, I quite like these deadly bovines. They're in
-dire need of a damage fix, of course, and I would probably shift the conditions
-on the iron gorgon's petrifying breath around. Something like slowed ->
-immobilized and dazed -> petrified.
+Confusing naming conventions aside, I quite like these deadly bovines. They're
+in dire need of a damage fix, of course, and I would probably shift the
+conditions on the iron gorgon's petrifying breath around. Something like slowed
+-> immobilized and dazed -> petrified.
 
 How about some fan-made gorgon lore? I imagine they're native to the Elemental
 Chaos, and were brought to the world by the giants way back when. Wild specimens
