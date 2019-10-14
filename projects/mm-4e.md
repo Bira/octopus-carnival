@@ -73,6 +73,7 @@ After this, we get right on the monsters:
     - [Evistro][34]
     - [Glabrezu][35]
     - [Goristro][36]
+    - [Hezrou][37]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -110,3 +111,4 @@ After this, we get right on the monsters:
 [34]: {{ "/2019/10/10/evistro.html" | relative_url }}
 [35]: {{ "/2019/10/11/glabrezu.html" | relative_url }}
 [36]: {{ "/2019/10/14/goristro.html" | relative_url }}
+[37]: {{ "/2019/10/14/hezrou.html" | relative_url }}
