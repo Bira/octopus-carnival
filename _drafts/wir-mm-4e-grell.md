@@ -95,4 +95,9 @@ and the Lightning Lance was an actual weapon instead of a psychic power. I
 wonder how much stress this caused GMs whose players looted a bunch of +5 rings
 and rayguns from a group of grells. So in that way it's a good thing that these
 things are no longer in the game. Still, if you're looking for some treasure to
-assign to a grell encounter, these things might be a good inspiration.
+assign to a grell encounter, these items might be a good inspiration.
+
+2e used to also have Grell Patriarchs as the "tier" above
+Philosophers. Patriarchs were large sapient masses of flesh that acted as the
+core of spelljammer vessels. If you're including spelljamming in your campaign
+you could bring them back.
