@@ -7,7 +7,7 @@ tags:
 ---
 
 Grells have been around since at least the 2e Monstrous Manual. In Fourth,
-they're only on the MM.
+they're only on the MM, but they got an update in Dungeon 192.
 
 ## The Lore
 
@@ -19,11 +19,19 @@ powers.
 Grells are sapient, but lone grells tend to lead a feral existence and behave
 pretty much like clever pretadors. Those tend to be exceptions, though. Grell
 most often organize themselves in hive-like colonies with dozens of individuals,
-led by the most intelligent and powerful among them.
+led by the most intelligent and powerful among them. These colonies are
+expansionist, though they tend to see their territory more as a hunting ground
+than as any sort of empire. Grell colonies don't go for subtle manipulation,
+either.
 
 Grells have a venomous bite, and venomous spines on the tips of their
 tentacles. Their leaders are called Philosophers, and have stronger psychic
 powers on top of that.
+
+One interesting fact added by the Dungeon update is that brains are poisonous to
+grells! They'll eat every other bit of their victims, but will either discard
+the brains or keep them in reserve for trade if there's a mind flayer colony
+near their territory.
 
 ## The Numbers
 
@@ -51,8 +59,9 @@ a grabbed victim, dealing a bit of physical damage and stunning them (save
 ends).
 
 You can expect a grell to be able to keep one PC stunlocked and the rest of them
-slowed. Contrary to the advice I've been giving elsewhere, you might actually
-not want to give it the ability to make two melee basic attacks per action.
+slowed. The update gives them two attacks per turn, each of which can be a
+Tentacle Rake or a Tentacle Grab. They retain their stunning bite, but the stun
+also ends when the grab does in addition to being (save ends).
 
 ### Grell Philosopher
 
@@ -77,6 +86,9 @@ Psychic storm is always available at the beginning of the fight, so that's going
 to be the opener almost every time. It's not a "friendly" area, so some care is
 required in its placement. Venomous mind is an excellent power to use on the PCs
 stunlocked by the philosopher's underlings.
+
+The dungeon update left them pretty much identical, aside from the usual damage
+improvements.
 
 ## Sample Encounter and Final Impressions
 

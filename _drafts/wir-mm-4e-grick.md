@@ -13,7 +13,7 @@ if they appear earlier than that. In this edition they're only on the MM.
 
 In the previous post about Grells I complained that a lone grell was
 indistinguishable from any of the many other tentacled underground
-predators. Well, Gricks are one of those, and the main sources of
+predators. Well, Gricks are one of those, and the main sources of my
 confusion. They even have tentacles, a beak, and a short name that starts with
 GR.
 
@@ -22,7 +22,7 @@ instead of being floating brains. They live in caves and in the upper reaches of
 the Underdark. There's pretty much no chance for the PCs to have a nonviolent
 interaction with these beasts (aside from sneaking around them, I guess). Gricks
 are always either hungry and hunting, or hanging around their nests, which they
-protect with murderous intensity.
+protect with murderous ferocity.
 
 I note they don't seem to have a burrowing speed, so they either need to stick
 to premade caves and tunnels, or they burrow too slowly to make a difference in
@@ -84,5 +84,5 @@ Thus we get our two sample encounters:
 
 ## Final Impressions
 
-I like their mechanics, but the lore doesn't inspire me all that much. A nice
-incidental encounter for "natural cave" dungeons, I suppose.
+I like their mechanics, but the lore doesn't inspire me all that much. They work
+well enough as an incidental encounter for "natural cave" dungeons, I suppose.
