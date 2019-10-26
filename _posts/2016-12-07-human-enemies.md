@@ -99,8 +99,8 @@ too busy to get to the archers and spellcasters. They are usually worthies.
 - **Cheap Thrusting Broadsword (15)**: 1d+2 imp or 2d+1 cut.
 - **Shield Slam (15)**: 1d cr.
 
-**Traits**: Combat Reflexes, High Pain Threshold, Bully, Bloodlust, Code of Honor
-(Pirate's), Greed.
+**Traits**: Combat Reflexes, High Pain Threshold, Bully, Bloodlust, Code of
+Honor (Pirate's), Greed.
 
 **Class**: Mundane.
 

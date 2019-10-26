@@ -8,8 +8,8 @@ tags:
 
 Another fantasy classic, these lion-eagle hybrids have a different spelling for
 their name in every source they appear in. D&D has always gone with "Griffon"
-and has featured them in its bestiaries since BECMI and AD&D 1st Edition. In
-Fourth Edition they appear only in the MM.
+and has featured them in its bestiaries since at least BECMI and AD&D 1st
+Edition. In Fourth Edition they appear only in the MM.
 
 ## The Lore
 
@@ -21,16 +21,15 @@ the exact variety you're dealing with.
 The most common variety is called simply a Griffon, and has a lion's
 backside. They can't be trained at all unless you start with a hatchling, but
 stories tell that some elves and eladrin can use magic to control them and ride
-them into battle. Even so, griffon eggs fetch a high price on the open market
-(1000 GP), mostly from people who want an exotic beast to display in their zoos,
-or who want them as vicious, barely contained guard animals. Or maybe from
-people who think they have that elven magic figured out.
+them into battle. Griffon eggs fetch a high price on the open market (1000 GP)
+from people who want a shot at training them, or who think they have that
+eladrin magic figured out.
 
 The ones you're most likely to find as trained mounts are the Hippogriffs, who
 have horse backsides and a considerably more tractable temperament. This makes
 them the most common flying mount among the sapient people of the world. I'm
 pretty sure Nerath had whole regiments of hippogriff cavalry and that the
-practice survives in any surviving community of sufficient size.
+practice survives in any post-imperial community of sufficient size.
 
 Hippogriffs are brave enough that that they can readily be ridden into battle,
 and they actually breed true with normal horses as well as with each other. The
@@ -48,7 +47,7 @@ ice archons or gets "pressed into service" by efreets.
 Griffons are Large Natural Beasts with the Mount keyword (the Rimefire Griffon
 is Elemental instead). They're a bit slow on land, but are excellent fliers.
 
-### Hipogriff
+### Hippogriff
 
 The typical hippogriff is a Level 5 Skirmisher with 64 HP. It walks at speed 4
 and flies at speed 10. Being a MM monster, it has a listed overland flight speed
@@ -100,7 +99,7 @@ can also breathe fire (Close Blast 5 vs. Reflex), an attack that starts
 used as a mount, the rimefire griffon grants its elemental resistances to its
 rider.
 
-The lore description for the fiery breath is fun: their bites absorbs the
+The lore description for the fiery breath is fun: their bites absorb the
 target's body heat, causing the creature's prominent horn to glow red-hot. Once
 it stores up enough heat, it can release it as a blast.
 

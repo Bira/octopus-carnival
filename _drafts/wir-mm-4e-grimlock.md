@@ -8,14 +8,16 @@ tags:
 
 Grimlocks appeared in a Monster Manual for the first time in AD&D 2nd Edition,
 though it's likely they appeared in a 1e or earlier supplement before that. I'm
-pretty sure they're inspired by the Morlocks from H. G. Wells' The Time Machine.
+pretty sure they're inspired by the Morlocks from H. G. Wells' The Time
+Machine. Here they're only on the MM.
 
 ## The Lore
 
 It seems like every "civilized" surface people has a more brutal "deep"
 counterpart in the Underdark. Elves have drow, dwarves have duergar, and so
 on. I've seen it argued that grimlocks are the equivalent of humans, though
-their dramatic role is a lot closer to that of your typical Angry Humanoid.
+their dramatic role is a lot closer to that of your typical Angry Humanoid like
+an orc or gnoll.
 
 Anyway, grimlocks are a humanoid people who apparently evolved in the
 Underdark. They have no eyes, and perceive the world through their keen senses
@@ -33,9 +35,9 @@ mind flayers, and so on. So you might end up fighting a grimlock horde either
 because they're servants of the Big Bad, or just because they're hungry.
 
 The bit I like the most here is the statement that grimlocks _evolved_ in the
-Underdark. That would make them the only sapient species who is truly native to
-the place - all others came from somewhere else. Even much of the more dangerous
-wildlife leaked from the Far Realm.
+Underdark. That would make them one of the only sapient species native to the
+place - most others came either from the surface or from the Far Realm, as did
+much of the wildlife.
 
 ## The Numbers
 
