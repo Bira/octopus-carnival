@@ -7,8 +7,8 @@ tags:
 ---
 
 I remember first reading about Shield Guardians in 3e, which is when you start
-getting a lot of constructs that are not golems. I'm not sure if they appeared
-earlier than that or not. Guardians appear only on the MM here.
+getting a lot of new constructs that are not golems. I'm not sure if they
+appeared earlier than that or not. Guardians appear only on the MM here.
 
 ## The Lore
 
