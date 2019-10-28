@@ -70,3 +70,13 @@ gray slaads. The githzerai is obviously the master here, and it's either a
 villain who consorts with slaads or a potential ally who is fighting the slads
 when the PCs meet them and has to be talked down before they'll see the PCs as
 allies.
+
+Guardians are OK, I suppose. Mechanically they do their jobs as designed,
+increasing the survivability of their master.
+
+Narratively, they might seem a bit redundant given how crowded the design space
+is these days. It makes sense that artificers and wizards would come up with
+several different ways to make a loyal construct, given that they all want one
+and none of them is fond of sharing secrets. Having a huge variety of constructs
+detracts from their uniqueness while shining the spotlight on the idiosyncrasies
+of their creators, so it's up to you which way you want to go.
