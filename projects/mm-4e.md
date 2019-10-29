@@ -76,6 +76,7 @@ After this, we get right on the monsters:
     - [Hezrou][37]
     - [Immolith][38]
     - [Marilith][39]
+    - [Mezzodemon][40]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -116,3 +117,4 @@ After this, we get right on the monsters:
 [37]: {{ "/2019/10/14/hezrou.html" | relative_url }}
 [38]: {{ "/2019/10/16/immolith.html" | relative_url }}
 [39]: {{ "/2019/10/26/marilith.html" | relative_url }}
+[40]: {{ "/2019/10/29/mezzodemon.html" | relative_url }}

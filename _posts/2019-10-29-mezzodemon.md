@@ -6,6 +6,13 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-mezzodemon.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Anyone who is familiar with the cosmology on 3e and earlier knows it tried

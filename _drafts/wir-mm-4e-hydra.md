@@ -53,10 +53,15 @@ the hydra can take free actions even while dazed or stunned, which is powerful
 because "bite everyone in reach" is a free action for them.
 
 The lore divergence above translates into a numbers divergence as well. MM
-hydras have no head-severing mechanics at all, behaving like standard solo
-monsters. MV hydras lose heads at 75%, 50%, and 25% HP, and grow two extra heads
-to replace it the start of their next turn. This increases their number of
-attacks, but skilled PCs might prevent it from happening.
+hydras have no head-severing mechanics at all, and more hydras powerful hydras
+have more heads. MV hydras always start with four heads, and lose one each at
+75%, 50%, and 25% HP. At the start of the next turn after losing a head, two
+others grow in its place. This increases their number of attacks, but skilled
+PCs might prevent it from happening by means described in the hydra stat block.
+
+MM hydras also tend to have considerably more HP for their level, since they use
+the old math. That's another thing you should fix if you want to add them to
+your game.
 
 ### Hydra (MV)
 
@@ -97,3 +102,71 @@ of a bite during a Hydra Fury combo, and benefits from the damage bonus if only
 1 or 2 heads remain.
 
 ### Venom-Maw Hydra (MV)
+
+This is the hydra that most closely resembles the mythological one, which was
+all about the venom. It's a Huge Natural Beast (reptile, water) and a Level 17
+Solo Brute with 672 HP and all common hydra traits. Its land speed is 7, and its
+swim speed remains 10.
+
+The venom-maw hydra's beheading thresholds are at 504, 336 and 168 HP, and it
+can be prevented from regrowing heads by taking acid or fire damage before the
+start of its next turn. Its Reach 3 bites deal 10 ongoing poison damage, or 20
+if the hydra is bloodied (its blood is _also_ poison).
+
+This hydra can attack at range by spitting venom (Ranged 10 vs. Reflex), which
+deals poison damage and knocks the target prone on a hit from sheer
+pressure. Despite being a ranged attack, it does not provoke opportunity
+attacks. Either the bite or the venomous spit can be used as attacks during a
+Hydra Fury combo, with the usual damage bonus if only 1 or 2 heads remain.
+
+The venom-maw hydra's Snapping Jaws only have reach 2, which I think might be a
+mistake. They should be reach 3 like its normal bites.
+
+### Mordant Hydra (MM)
+
+This Huge Natural Beast (reptile) is acid-themed. It's a Level 18 Solo Brute
+with 880 HP, Resist 15 Acid, and all common hydra traits. It has a land speed of
+6 and a swim speed of 12! It also has six heads.
+
+Mordant hydras fight with Reach 3 bites and Range 10 acid spit (vs. Reflex), and
+its Hydra Fury allows it to make six of those attacks in any combination. All of
+its other tricks come from the standard MM hydra abilities.
+
+### Primordial Hydra (MM)
+
+This one is likely one of the original hydras born from the blood of
+Bryakus. It's a Gargantuan Elemental Beast (reptile), and a Level 25 Solo Brute
+with 1200 HP. It has eight heads, a land speed of 8 and a swim speed of 16,
+which makes it faster than just about any other monster in the book when in
+water. It has Resist 20 to Acid and Fire, and all other common hydra abilities.
+
+The primordial hydra's bite has Reach 4, and enjoys attack and damage bonuses
+when used for opportunity attacks. It attacks at range with Flaming Acid Spit
+(Range 10 vs. Reflex), which obviously does fire and acid damage. Its Hydra Fury
+gives it eight attacks which can be any combination of those two maneuvers.
+
+All of its other tricks come from the standard abilities.
+
+## Sample Encounters and Final Impressions
+
+We have three sample encounters in the MM:
+
+- Level 14, a fen hydra and 3 bog hags. A covey and their pet.
+- Level 19, a mordant hydra and a gibbering abomination. No idea about this one.
+- Level 26, 1 primordial hydra and 2 earthwind ravager elementals. A scenic
+  wildlife encounter for the deep Elemental Chaos.
+
+Hydras fulfill some of the same dramatic roles as dragons, since they're giant
+monsters meant to provide a memorable fight all by themselves. They're a bit
+simpler to run; arguably too simple in the case of the MM hydras. They're also
+nonsapient, which is a good thing because it makes their explaining their
+presence in a location fairly uncomplicated. Dragons are sapient and have
+agendas; hydras are just hungry.
+
+I love the hydra head management mechanics they came up with for the MV, since
+they're a nice callback to the mythological Hydra and what Hercules had to do to
+kill it. They also provide some subtle ways to tweak the challenge of a fight
+since you could start a given hydra with more than four heads.
+
+The simpler MM varieties still have their place, too, since you might not want
+_every_ hydra to behave like the mythological one.

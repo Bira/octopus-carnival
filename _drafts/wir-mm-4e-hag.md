@@ -16,10 +16,9 @@ were each inspired by a specific tale (Black Annis, Jenny Greenteeth and so on),
 but even the new ones all share in that same aesthetic.
 
 The original fairy tales aren't always clear on whether their witches are human
-or not, but D&D does. Its hags are explicitly _not_ human, but rather a type of
-fey that happen to resemble horrible women. They're thematically linked to
-nature's ugliness, in much the same way eladrin or dryads are linked to its
-beauty.
+or not, but in D&D they explicitly _not_ human. Hags are a type of fey that
+happen to resemble horrible women. They're thematically linked to nature's
+ugliness, in much the same way eladrin or dryads are linked to its beauty.
 
 As befits fairytale witches, hags live in places inhospitable to humans such as
 haunted forests, dismal swamps or lonely mountain-tops castigated by
@@ -28,18 +27,18 @@ aesthetics: huts that walk on chicken feet, giant trees shaped like crucified
 corpses, and probably the occasional gingerbread house located where a lost
 child might stumble upon it.
 
-While I suppose you might find an Unaligned hag that just wants to be left alone
-somewhere, the books present them as typically Evil. They're greedy, selfish,
-and dislike beautiful things. These hags usually have one or more sinister
-schemes going on, which they advance through social manipulation and the use of
+While I suppose you might find an Unaligned hag that just wants to be left
+alone, the books present them as typically Evil. They're greedy, selfish, and
+dislike beautiful things. These hags usually have one or more sinister schemes
+going on, which they advance through social manipulation and the use of
 magic. Their end goals might be a simple as accumulating more treasure, or as
 esoteric as weakening the metaphysical concept of beauty in the world. Or maybe
 it's something in between like exacting revenge on a mortal family for a
 centuries-old slight.
 
-All hags see each other as sisters, and they keep in touch accordingly, tough
-it's mostly to bicker and argue. It's likely at least some of a hag's schemes
-are aimed at her "family" instead of at unsuspecting mortals.
+All hags see each other as sisters and keep in touch, though mostly to bicker
+and argue. It's likely at least some of a hag's schemes are aimed at her own
+"family" instead of at unsuspecting mortals.
 
 As far as evil D&D monsters go, hags are surprisingly amenable to
 parley. They'll gladly negotiate with PCs and even give gifts if that would
