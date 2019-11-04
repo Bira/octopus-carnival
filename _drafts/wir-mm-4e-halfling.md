@@ -20,7 +20,7 @@ Like the halflings of most other editions, those in the implied setting of
 Fourth have no nation to call their own. The big difference here is that they're
 not alone in this, as this is also true of a lot of others.
 
-Halfling commonly live in other people's cities. Their own settlements are
+Halflings most often live in other people's cities. Their own settlements are
 always built on the margins of rivers, and make extensive use of them for both
 food and transportation.
 
@@ -136,3 +136,12 @@ We have no less than three sample encounters:
 - Level 2: 2 slingers, 2 thieves, 2 guard drakes. Another one.
 
 - Level 6: 4 prowlers, 2 human berserkers.
+
+I like these halflings. They have enough kender in them to be different from
+your usual Tolkien hobbits, but not enough to become annoying. Most notably they
+are _not_ compelled to steal from the party and have enough sense to recognize
+dangerous situations and avoid drawing themselves or the party into them. It
+won't prevent a bad player from doing those things anyway, but they can't hide
+behind the "I'm just playing my character!" excuse.
+
+You could also very easily have them as antagonists for your group, since the

@@ -9,30 +9,60 @@ tags:
 ---
 
 Stop and think for a moment: when was the last time you took part in a proper
-battle against a dragon in your RPG campaigns, either as a player or as a GM? By
-"proper" battle I mean an encounter which is an actual fight as opposed to a
-dialogue scene or a cutscene in disguise. A battle that follows the game's rules
-all the way through.
+battle against a dragon in your RPG campaigns, either as a player or as a GM?
+One that isn't a cutscene in disguise, where the PCs aren't supposed to run away
+and actually have a shot at defeating the beast?
 
 "People who read Octopus Carnival" might not be a very large sample set, but I
 bet that even here there's not a lot who have done it in recent memory. If
-you're a GM, you probably hesitate to add such a battle to your plans because
-dragons are really powerful and your party is surely not ready to face one just
-yet. And if you're a player you probably hesitate to go where the dragon is for
-pretty much the same reason.
+you're a GM you probably hesitate to add dragons to your adventure because you
+think your group isn't quite ready to fight something so powerful. If you're a
+PC, you probably stay away from regions marked "Here Be Dragons" for the same
+reason.
 
 This is what I call Dragon Performance Anxiety. It's not a new phenomenon and
 I'm certainly not the first one to talk about this. In fact, I'm writing _this_
 because of a post on the same subject I once read on Dungeon Fantastic, and
 which for the life of me I can't find the link to.
 
-Let us instead turn to [this post][1] on a blog called Merric's Musings which
-discusses another phenomenom I've seen described as "dragon inflation". It's
-mostly a D&D thing, but it likely affects you even if you play other games which
-include dragons, such as GURPS Dungeon Fantasy or even Shadowrun. So it's time
-for a history lesson! I'm actually sorta paraphrasing a much more complete post
-I read once, but again I don't remember _where_ I read it. Gotta get my memory
-chips replaced, I guess.
+## Dragon Inflation in D&D
+
+To understand this thing I'm calling "dragon inflation", I think it's important
+to read [this post][3] from Semper Initiativus Unum that talks about what
+dragons were like in the earliest days of D&D.
+
+Though OD&D dragons already had a detailed power scale based on size, age and
+scale color, they were a bit closer to the dragons of European mythology than
+the towering, invincible beasts they would eventually become in subsequent
+editions. An average dragon was probably about the size of a horse. Its hoard,
+though still quite fabulous, could on average fill a bathtub or
+refrigerator. And all dragons had about the same amount of treasure regardless
+of power level, since they all rolled on the same table.
+
+This means they presented players with an interesting exercise in risk
+management, like many of the best elements of OD&D. If that hoard is guarded by
+the weakest possible dragon, it's pretty much free treasure even for a level 1
+party that can cast a single magic missile between them. If it's guarded by the
+strongest, it's probably not worth the trouble.
+
+Now, [this other post][1] from Merric's Musings is an excellent summary of how
+D&D dragons changed over time, in more ways than its author intended. Through
+it, you can see the ways in which dragons got more powerful as editions went by:
+more age categories, more and more damaging physical attacks, larger sizes. The
+ability to speak and use magic went from a percentage chance to a certainty for
+all dragons, and that magic also got more powerful as time went by.
+
+The author's attitude there also tells us a lot, because it mirrors that of a
+lot of players and book authors that I've seen over time. There's a focus on
+dragons at the higher end of the power scale as the "standard", and a persistent
+idea that they should always be terrifying threats no matter how powerful your
+PCs are. When a GM thinks dragons aren't enough of a threat for their group,
+they inflate the monsters' power, and if that GM gets hired to write a book that
+inflation gets enshrined as canon. And then the cycle repeats.
+
+
+
+===================
 
 You see, back in the olden days of Original D&D, dragons used to be dangerous,
 but manageable opponents. The dragons were maybe the size of a horse, and their
@@ -112,6 +142,7 @@ possible. It's time I start taking that advice!
 
 [1]: https://merricb.com/2015/04/12/the-original-dragons-of-dungeons-dragons/
 [2]: {{ "/projects/dragons-dogma/" | absolute_url }}
+[3]: https://initiativeone.blogspot.com/2015/09/more-dragons-in-dungeons.html
 
 [^1]: I seriously once saw a Shadowrun fan gloat that they'd never play _GURPS_
     because they didn't like class-and-level systems.
