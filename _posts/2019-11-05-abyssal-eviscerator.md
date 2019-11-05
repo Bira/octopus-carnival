@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class=left>
+  <img src="{{ "/assets/wir-mm-4e-abyssal-eviscerator.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2009 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Abyssal Eviscerators first show up in 4th Edition in the Monster Manual 2, but
 since they're also in the Monster Vault we're getting to look at them a bit
 early.
@@ -38,3 +47,5 @@ do it up to 3 times per round while bloodied.
 
 Nothing special here, really. These guys are basically paragon-tier evistros and
 should be used in the same way.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

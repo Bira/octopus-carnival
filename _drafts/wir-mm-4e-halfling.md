@@ -143,5 +143,3 @@ are _not_ compelled to steal from the party and have enough sense to recognize
 dangerous situations and avoid drawing themselves or the party into them. It
 won't prevent a bad player from doing those things anyway, but they can't hide
 behind the "I'm just playing my character!" excuse.
-
-You could also very easily have them as antagonists for your group, since the
