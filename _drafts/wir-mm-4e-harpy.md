@@ -15,9 +15,9 @@ they are on the Monster Manual only.
 In ancient times there was an evil elf witch queen. She and her unscrupulous
 children often took the form of golden eagles to spy on their subjects. A mighty
 hero defeated them and drove them into exile, breaking the queen's magic crown
-in the process. The crown gave them the power to change shape, and when it broke
-the evil family became stuck as part-bird, part-elf beings. These were the first
-harpies.
+in the process. It was the crown that gave them the power to change shape, and
+when it broke the evil family became stuck as part-bird, part-elf beings. These
+were the first harpies.
 
 Modern harpies roost in dismal places where few others can live: swamps,
 badlands, ruins, coastal cliffs. They fly out to hunt or to attack travelers,
@@ -51,19 +51,20 @@ listed above. It also has Resist 10 Thunder.
 Harpies fight in melee with their claws, and prefer to do so from the ground
 since they're clumsy fliers.
 
-Their main special ability is the afore-mentioned Alluring Song (Close Burst 10
-vs. Will), which can affect any non-deaf enemy in range. A hit pulls the target
-3 squares and immobilizes them (save ends). The harpy can use a minor action in
-subsequent turns to sustain the power and pull anyone who hasn't saved yet
-another 3 squares.
+Their main special ability is the afore-mentioned **Alluring Song** (Close Burst
+10 vs. Will), which can affect any non-deaf enemy in range. A hit pulls the
+target 3 squares and immobilizes them (save ends). The harpy can use a minor
+action in subsequent turns to sustain the power and pull anyone who hasn't saved
+yet another 3 squares.
 
-Once their enemies are all nice and bunched up, the harpy can let loose a Deadly
-Screech (Close Burst 4 vs. Fortitude; recharge 5-6), which does thunder damage
-and dazes (save ends).
+Once their enemies are all nice and bunched up, the harpy can let loose a
+**Deadly Screech** (Close Burst 4 vs. Fortitude; recharge 5-6), which does
+thunder damage and dazes (save ends).
 
 Both of the harpy's damaging attacks are in serious need of a damage
 boost. This, and removing the Clumsy keyword from their flight speed, should be
-enough to bring them up to MV standards.
+enough to bring them up to MV standards. The Alluring Song is particularly
+dangerous in a battlefield full of cliffs or other hazards.
 
 ### Bloodfire Harpy
 

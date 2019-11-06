@@ -7,6 +7,51 @@ tags:
     - martial-arts
 ---
 
+There's this post on Mailanka's Musings that talks about two different ways of
+modeling martial arts in RPGs. The first is something he calls "Move-Based", and
+the second "Skill-Based".
+
+Move-based martial arts is how most RPGs in the 90's did it. You bought a style,
+and that gave you access to a series of "moves" that were essentially special
+powers with individual rules for what they did. Some systems made you buy each
+individual move as well, usually as a way to model your progression in the
+style - advanced practitioners know more moves. Your move set is as or more
+important than your raw skill level.
+
+Skill-based martial arts are what GURPS does. Everyone uses the same skills to
+fight, and knowing one style or another is mostly a matter of flavor with a few
+minor mechanical bonuses thrown in. What really matters are your skill levels:
+people with different style familiarities but similar skill levels are equally
+effective. The same applies to someone who "knows" a style and someone who just
+has the combat skills.
+
+Move-based rules might allow you to emulate some classic kung-fu stories that
+are all about how some styles are objectively superior to others, or how there's
+a secret style or ultimate technique that's jealously guarded by a cranky old
+master. Skill-based rules are closer to Bruce Lee's philosophy, or modern views
+of martial arts in general, where individual skill is more important and the
+"ultimate power" is being adaptable.
+
+Personally, I prefer skill-based rules, because my exposure to move-based
+systems comes mostly from a few specific 90's games that basically used it to
+implement Orientalism. If your character didn't invest points in the exotic
+combat forms of the Far East, they were limited to the "unrefined flailing" or
+"brutish brawling" of the basic combat rules. These "exotic" forms were almost
+always the only ones that got modeled as styles, too.
+
+I actually kinda liked these books back then, but GURPS Martial Arts in Fourth
+Edition convinced me the skill-based approach was all-around better. Everything
+it introduces _can_ be done by someone who isn't using the style rules. It
+covers styles from the whole world without treating any of them as inherently
+superior, and it acknowledges that basically any organized system of fighting
+counts as a "style".
+
+Given this preference,
+
+
+================
+
+
 GURPS Martial Arts is one of my favorite GURPS books because it takes an
 amazingly inclusive and comprehensive approach to the subject compared to older
 games from the 80's and 90's. It recognizes that pretty much every culture has a
