@@ -15,7 +15,7 @@ whose author John Frazer is reading through and reviewing his entire RPG
 collection, and he recently published posts about the [Transhuman Space
 corebook][1], [Broken Dreams][2] and now [Fifth Wave][4].
 
-Now, the main thing Mr. Frazer noticed in these two posts is exactly the thing I
+Now, the main thing Mr. Frazer noticed in these posts is exactly the thing I
 wanted to write about when I published that post on the [cyberpunk
 genre][3]. Turns out that post started out as a big blob of text that discussed
 THS. I decided to split it off into a series, published part 01, and somehow
