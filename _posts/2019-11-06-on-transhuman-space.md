@@ -45,8 +45,8 @@ greater than that of the others, whose ideas are so taken for granted that he's
 not acknowledged anywhere in the books. I'm talking about Francis Fukuyama, the
 guy who made the infamous "we have reached the end of History" speech. The
 speech kinda codifies the idea that Western liberal capitalism is the ultimate
-political and economic model for humanity. You reach that, you win
-History, and everyone is just playing catch-up to you.
+political and economic model for humanity. You reach that, you win History, and
+everyone else is just playing catch-up to you.
 
 The speech was made in 1989, and it went from "well-received" to "gospel truth"
 in the eyes of the developed West when the Soviet Union fell in '91. It
@@ -82,9 +82,10 @@ tech instead of "earning" it. And of course they are all authoritarian
 dictatorships who make weapons of mass destruction because if you already stoop
 to Internet piracy no other badness is beneath you. The books try to present
 some semblance of neutrality and even suggest you could run a campaign where the
-PCs are working for the TSA, but it does that with the same perfunctory tone of
-someone suggesting it's technically possible to play as stormtroopers in Star
-Wars D6. Its published example scenarios always show the TSA as antagonists.
+PCs are working for the TSA or another info/nanosocialist outfit, but it does
+that with the same perfunctory tone of someone suggesting it's technically
+possible to play as stormtroopers in Star Wars D6. Its published example
+scenarios always show the TSA as antagonists.
 
 Then there's the nations in the asteroid belt and outer solar system, whose
 anarcho-capitalism tends to be viewed as the next step in the refinement of the
