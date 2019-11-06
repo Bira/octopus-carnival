@@ -103,7 +103,7 @@ one: it's told from the perspective of the sinister corporations. If you took
 almost any William Gibson novel and rewrote the story so it was told from the
 perspective of its villains, their tone and setting would look a lot like
 Transhuman Space's. The gloomy Cristopher Shy art that peppers every book in the
-line is not dissonant with the tone of the book: it is, and has always been,
+line is not dissonant with the tone of the setting: it is, and has always been,
 _spot on_.
 
 And now I'm really glad to find out I'm not alone in thinking this.
