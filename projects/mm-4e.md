@@ -122,3 +122,4 @@ After this, we get right on the monsters:
 [40]: {{ "/2019/10/29/mezzodemon.html" | relative_url }}
 [41]: {{ "/2019/11/04/vrock.html" | relative_url }}
 [42]: {{ "/2019/11/05/abyssal-eviscerator.html" | relative_url }}
+[43]: {{ "/2019/11/07/babau.html" | relative_url }}
