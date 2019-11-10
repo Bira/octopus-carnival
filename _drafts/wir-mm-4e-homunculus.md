@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 I think Homunculi are derived from a medieval alchemy concept, and I'm pretty
 sure they've been in the game since AD&D. Here they appear only in the Monster
 Manual.
@@ -14,8 +16,8 @@ Manual.
 
 In my post on Helmed Horrors I compared construct creators to real-world
 programmers. Let's stretch the analogy a bit further: if golems and greater
-helmed horrors are big packages of enterprise software, then homunculi are
-tiny shell scripts or to-do lists.
+helmed horrors are big packages of enterprise software, then homunculi are shell
+scripts.
 
 These minor constructs are built for the exact same purposes as their beefier
 relatives: to act as tireless guardians, servants, and muscle. Being low-level,
@@ -33,8 +35,8 @@ So a low-level aspiring golem maker can have homunculi as servants, and
 higher-level casters who would use actual golems as personal guards can
 mass-produce homunculi and assign them to their underlings. The relative
 weakness of an homunculus is actually an asset here! If those pesky organic
-underlings start getting rebelious ideas, your personal golem guard can easily
-squash their homunculi.
+underlings start getting rebelious ideas, your personal guard-bot can easily
+squash them.
 
 ## The Numbers
 
@@ -48,9 +50,16 @@ and areas can be up to 5 squares on a side. We'll see why in a minute.
 
 ### Clay Scout
 
+{::nomarkdown}
+<figure class=left>
+  <img src="{{ "/assets/wir-mm-4e-clay-scout.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
 This Small homunculus is probably the one closest to the classic myth. It's used
 for, well, scouting, or for guarding small objects. I imagine it makes an
-adequate menial lab assitant if well-managed.
+adequate menial lab assistant if well-managed.
 
 Clay scouts are Level 2 Lurkers with 31 HP and all common homunculus
 traits. They're also trained in Stealth, and can run at speed 6 or fly at speed
@@ -77,6 +86,13 @@ to the ends of the earth so it's never found again.
 
 ### Iron Defender
 
+{::nomarkdown}
+<figure class=left>
+  <img src="{{ "/assets/wir-mm-4e-iron-defender.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
 A metal guard dog, for when drakes aren't enough but you don't have the budget
 for a shield guardian. It's a Level 3 Soldier with 47 HP and all common
 homunculus traits. It runs with speed 6.
@@ -86,6 +102,13 @@ attacks that creature as a reaction. It can also shift 1 square before or after
 making opportunity attacks.
 
 ### Iron Cobra
+
+{::nomarkdown}
+<figure class=left>
+  <img src="{{ "/assets/wir-mm-4e-iron-cobra.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
 
 An homunculus named for its shape, not its role. As far as homunculi go, this is
 a high-end model.
@@ -109,7 +132,7 @@ aren't taking poison damage.
 ## Sample Encounters and Final Impressions
 
 The sample encounter is Level 9: 2 iron cobras, 2 snaketongue warriors, and 1
-snaketongue assassin. As expected, iron cobras are a hit with fans of snakes
+snaketongue assassin. As expected, iron cobras are a hit with snake fanatics
 everywhere!
 
 I think homunculi fulfill a necessary role for GMs who want to pit their PCs
@@ -119,3 +142,6 @@ early-heroic tier characters.
 
 I also like that their existence allows for that "construct-making as a parody
 of the tech industry" setting element I've been thinking about.
+
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
