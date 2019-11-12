@@ -79,6 +79,8 @@ After this, we get right on the monsters:
     - [Mezzodemon][40]
     - [Vrock][41]
     - [Abyssal Eviscerator][42]
+    - [Babau][43]
+    - [Dretch][44]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -123,3 +125,4 @@ After this, we get right on the monsters:
 [41]: {{ "/2019/11/04/vrock.html" | relative_url }}
 [42]: {{ "/2019/11/05/abyssal-eviscerator.html" | relative_url }}
 [43]: {{ "/2019/11/07/babau.html" | relative_url }}
+[44]: {{ "/2019/11/12/dretch.html" | relative_url }}
