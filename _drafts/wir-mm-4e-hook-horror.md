@@ -9,7 +9,8 @@ tags:
 Hook horrors definitely look like something that's been around since AD&D. My
 first contact with them was in Neverwinter Nights, which used a model for them
 that was nearly identical to that of vrock demons. The chunky fellow above is
-quite different from those. They're only on the MM.
+quite different from those and much easier to tell apart. They're only on the
+MM.
 
 ## The Lore
 
@@ -21,10 +22,9 @@ of immigrating from the Far Realm.
 
 Hook horrors are omnivorous, but prefer meat and are rumored to like drow meat
 more than other kinds. They live in total darkness and use echolocation to
-perceive their surroundings, though they also have functional eyes to see in
-brighter environments. The clicking noises they make are also used for
-communication, and smart explorers can listen for those to see if hook horrors
-are nearby.
+perceive their surroundings, though they have functional eyes to see in brighter
+environments. The clicking noises they make are also used for communication, and
+smart explorers can listen for those to see if hook horrors are nearby.
 
 A group of hook horrors is called a "clan", and is led by its strongest
 egg-laying female. It ranges widely in the Underdark, with its members forming
@@ -41,8 +41,8 @@ also climb at speed 4.
 Their basic attack uses those hooked forelimbs, dealing damage and pulling the
 target 1 square on a hit. They can choose to attack twice at a -2 penalty to
 each attack, and if both hit they deal some extra damage and grab the target
-until escape. They can bite a grabbed target as a minor action, which works as a
-slightly weaker attack.
+until escape. They can keep making hook attacks against grabbed victims, and can
+also bite them as a minor action (which does slightly less damage).
 
 They can also use their hooks to Fling a target. The book doesn't say whether
 this only works on a grabbed target or on anyone. It's an attack vs. Fortitude
