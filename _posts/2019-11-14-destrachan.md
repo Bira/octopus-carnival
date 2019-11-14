@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-destrachan.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 The first non-demonic monster we're going to look at in ages is the
 Destrachan. These aberrant dinosaur things first showed up in the Monster Manual
 2 for D&D 3.0, if I'm not mistaken. So, in a way, they're being promoted. They
@@ -71,3 +80,5 @@ field, but I think their 4e versions at least have a clear mechanical
 role. Their propensity to ally with other creatures gives you an excellent
 excuse to add some convenient ranged support to monster teams that would
 otherwise lack it.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

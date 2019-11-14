@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-horse.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Horses are a real-world animal, so you likely have a good idea of what they're
 like. They've been in the game since the very beginning, and here they have
 their own entry in the MM and are part of the animal appendix on the MV.
@@ -20,11 +29,11 @@ someone's mount.
 
 Unlike in the real world, horses are far from the only choice of mount for your
 typical D&D society. There are plenty of other, more fantastic beasts that can
-do the job just as well. If that job is "war mount", they can likely do it even
-better than a horse. Yeah, those agressive and hard to train warhorses are still
-a thing here, but the same amount of work could instead get you a dire boar, an
-hippogriff, or some kind of drake. I think this is the first setting I see where
-a warhorse is the animal you ride into combat when nothing better is available.
+do the job just as well. If that job is "war mount", they can likely do it
+better. Yeah, warhorses are still a thing here, but the same amount of work that
+goes into training one can instead get you a dire boar, hippogriff, or some kind
+of drake. I think this is the first setting I see where a warhorse is the animal
+you ride into combat when nothing better is available.
 
 There's a breed of horse that's a potential exception to this: the celestial
 charger, which is infused with divine energy and typically used as mounts only
@@ -47,7 +56,8 @@ careers.
 
 They're Level 1 Brutes with 36 HP and can run at speed 10. Their usual strategy
 when in combat is to run away! Their only attack is a basic Kick they'll only
-employ when trapped or startled.
+employ when trapped or startled. The only reason these aren't minions it's
+because have your horse one-shotted out from under you is no fun.
 
 ### Warhorse (MM)
 
@@ -102,5 +112,7 @@ themselves as well:
 
 - The setting has no _mundane_ horses, but one or more gods send celestial
   chargers to their chosen champions as a sign of their favor. They're seen as
-  this powerful heavenly beast without an eartlhy equivalent, in another neat
-  role inversion.
+  this powerful divine beast without an eartlhy equivalent, in another neat role
+  inversion.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
