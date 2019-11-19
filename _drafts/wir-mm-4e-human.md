@@ -13,9 +13,9 @@ for humans as opposition.
 
 ## The Lore
 
-Like in pretty much every edition of D&D, humans are as being a very diverse
-lot. 4e goes a bit beyond this traditional description, though, and ascribes a
-few extra traits to them.
+Like in pretty much every edition of D&D, humans are described as being a very
+diverse lot. 4e goes a bit beyond this traditional description, though, and
+ascribes a few extra traits to them.
 
 These mostly come from looking at humanity from the perspective of the other
 races: humans are incredibly ambitious and intense, always aiming to achieve
@@ -61,8 +61,7 @@ combat advantage for a turn.
 
 Basically, if the PCs manage to rile up a classic torches-and-pitchforks mob, or
 piss off a tavern-full of unsavory drunks, it will be made up of these
-people. They're also good to represent low-ranking cultists, or even peasant
-allies.
+people. They're also good to represent low-ranking cultists, or peasant allies.
 
 ### Human Bandit (Both)
 
@@ -78,7 +77,7 @@ advantage.
 Bandits are fond of ambushes and tend to retreat if bloodied. All of the usual
 historical considerations about why someone would become a bandit apply here. A
 large bandit gang will likely be mostly made up of Goons, with these guys
-representing their tougher members.
+representing their veterans.
 
 ### Human Guard (Both)
 
