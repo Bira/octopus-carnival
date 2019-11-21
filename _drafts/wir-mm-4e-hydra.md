@@ -96,8 +96,8 @@ PCs can prevent them from growing more by dealing cold or acid damage before
 their next turn starts.
 
 Flamekiss hydras have the same attacks as the base model, plus Flame Kiss (Close
-Blast 3 vs. Reflex) which deals immediate and ongoing fire damage (Flame
-Ends). This recharges every time the hydra loses a head. It can be used in place
+Blast 3 vs. Reflex) which deals immediate and ongoing fire damage (save
+ends). This recharges every time the hydra loses a head. It can be used in place
 of a bite during a Hydra Fury combo, and benefits from the damage bonus if only
 1 or 2 heads remain.
 
@@ -158,10 +158,9 @@ We have three sample encounters in the MM:
 
 Hydras fulfill some of the same dramatic roles as dragons, since they're giant
 monsters meant to provide a memorable fight all by themselves. They're a bit
-simpler to run; arguably too simple in the case of the MM hydras. They're also
-nonsapient, which is a good thing because it makes their explaining their
-presence in a location fairly uncomplicated. Dragons are sapient and have
-agendas; hydras are just hungry.
+simpler to run. They're also nonsapient, which is a good thing because it makes
+their explaining their presence in a location fairly uncomplicated. Dragons are
+sapient and have agendas; hydras are just hungry.
 
 I love the hydra head management mechanics they came up with for the MV, since
 they're a nice callback to the mythological Hydra and what Hercules had to do to
