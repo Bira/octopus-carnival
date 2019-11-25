@@ -63,10 +63,10 @@ penalty that lasts for a turn on those it hits.
 
 ### War Hyena (MV)
 
-A mundane hyena trained for war by gnolls. This is a Level 8 Minion Soldier with
-a decent bite attack, the Harrier trait and a Savage Response reaction power
-that allows it to attack any adjacent enemy that makes an attack that doesn't
-include the war hyena as a target.
+A mundane hyena trained for war by gnolls, and likely deployed in huge
+packs. This is a Level 8 Minion Soldier with a decent bite attack, the Harrier
+trait and a Savage Response reaction power that allows it to attack any adjacent
+enemy that makes an attack that doesn't include the war hyena as a target.
 
 ## Sample Encounters
 
