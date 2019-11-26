@@ -83,6 +83,7 @@ After this, we get right on the monsters:
     - [Dretch][44]
   - [Destrachan][45]
   - [Devil][46] Introduction
+    - [Bearded Devil][47]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -130,3 +131,4 @@ After this, we get right on the monsters:
 [44]: {{ "/2019/11/12/dretch.html" | relative_url }}
 [45]: {{ "/2019/11/14/destrachan.html" | relative_url }}
 [46]: {{ "/2019/11/21/devil.html" | relative_url }}
+[47]: {{ "/2019/11/26/bearded-devil.html" | relative_url }}

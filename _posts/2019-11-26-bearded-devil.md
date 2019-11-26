@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-bearded-devil.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 ## The Lore
 
 The first devil we're looking at is actually a bad example of infernal
@@ -49,3 +58,5 @@ There's nothing extraordinary about bearded devil lore, though I find their
 looks interesting. Mechanically, they seem to be solid soldiers once you fix
 their damage. They use reach weapons, so they work well in two-row formations
 with more of their kind, or with brutes.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

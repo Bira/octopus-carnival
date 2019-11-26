@@ -45,7 +45,7 @@ and Darkvision, and a couple of custom signature traits: **Shifty** allows them
 to shift as a minor action instead of a move; **Trap Sense** gives them +2 to
 defenses against traps. That last one is only present in the MM kobolds. I
 imagine you can just say kobolds never trigger their own traps instead, which is
-why the MV dropped it.
+why the MV dropped it. I'd still give it to playable kobolds.
 
 Power-wise, they cover the first half of the Heroic tier, which means the choice
 of kobolds and goblins is mostly a matter of aesthetic preference in 4e. The MV
@@ -55,7 +55,7 @@ this barely affects them at all since their level is so low.
 
 ### Kobold Minion (MM) and Kobold Tunneler (MV)
 
-These are Level 1 Minion Skirmishers, and the stats to reach for if you want to
+These are Level 1 Minion Skirmishers, and the ones to reach for if you want to
 pit the party against a huge mob of weak kobolds. They fight with javelins in
 melee or at range. They have all the usual kobold signature traits.
 
@@ -71,7 +71,7 @@ which allows them to shift 3 squares if missed by an attack.
 These are Level 1 Skirmishers with 27 HP and all kobold common traits. They made
 quite a splash among players in their first appearance in Keep of the
 Shadowfell, because 27 HP kobolds were something that went against a lot of
-people's conception of the monster.
+people's conceptions of the monster.
 
 Anyway, kobold skirmishers fight with spears, and gain bonus sneak attack damage
 if they have combat advantage. They also have a **Mob Attack** trait that gives
@@ -123,7 +123,7 @@ The MM version has **Mob Attack**, but the MV version ditches that in favor of
 **Dirty Tactics** (Melee 1 vs. Reflex), an encounter power which does more
 damage than a basic attack and immobilizes for a turn. On a miss, it still does
 half damage and slows for a turn. There's nothing in the dragonshield code of
-honor that forbids them from kicking you in the nethers.
+honor that forbids them from headbutting you in the nethers.
 
 ### Kobold Wyrmpriest (MM)
 
@@ -178,10 +178,15 @@ that would be quite alarming were we talking about real world people. However,
 even those end up accidentally making them sympathetic! The sample adventure in
 the 4e DMG is Kobold Hall. The PCs are theoretically supposed to raid said Hall
 and kill all kobolds inside, due to some vague complaints about them getting in
-the way of trade. And the kobolds are just... minding their own
-business. A group of them are even playing ball!
+the way of trade. And the kobolds are just... minding their own business. A
+group of them are even playing ball! I guess the game was supposed to be
+sinister, using a skull and all, but that fails to come across in the text.
 
 5e books continue this trend, with Volo's Guide spilling so much vitriol about
 kobolds that you almost feel compelled to side with them. The presence of this
 awesome illustration with a bunch of kobolds pranking Elminster just makes it
 even more compelling.
+
+So by all means bring on the sympathetic, misunderstood kobolds! Who knows,
+maybe there's a sizable portion of them out there that lean more towards Bahamut
+than Tiamat, with dragonshield paladins and such.
