@@ -112,6 +112,6 @@ when I first read this entry.
 They work well enough mechanically, but I don't remember seeing them used as
 anything other than a single encounter off to one side of the dungeon in these
 published adventures. Perhaps this led to them not being very popular. Reading
-the lore makes me thing you could make a "kruthik apocalypse" scenario instead
+the lore makes me think you could make a "kruthik apocalypse" scenario instead
 of using the usual zombies, though you'd probably need to come up with more
 varieties of the beasts (like skirmishers and artillery) to keep things varied.

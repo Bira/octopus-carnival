@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-bone-devil.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Bone devils, so called because they're all thin and spiky, occupy an
 intermediate rank in Hell's hierarchy. They are fanatically loyal to their
 superiors, and their main function is to keep a watchful eye on lesser devils to
@@ -59,3 +68,5 @@ conductive to long-term survival.
 
 The sample encounter is level 16: 1 bone devil, 5 barbazus, and 1 cambion
 hellfire magus who is likely the leader of the band.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
