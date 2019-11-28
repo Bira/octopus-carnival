@@ -134,3 +134,4 @@ After this, we get right on the monsters:
 [46]: {{ "/2019/11/21/devil.html" | relative_url }}
 [47]: {{ "/2019/11/26/bearded-devil.html" | relative_url }}
 [48]: {{ "/2019/11/27/bone-devil.html" | relative_url }}
+[49]: {{ "/2019/11/28/chain-devil.html" | relative_url }}

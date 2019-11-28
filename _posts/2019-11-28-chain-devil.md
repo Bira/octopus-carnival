@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-chain-devil.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 ## The Lore
 
 Chain Devils, also known as kytons, are the official jailers and torturers of
@@ -62,3 +71,6 @@ My, the word "chain" sure gets used a lot here. Still, their looks are quite
 striking. Combat-wise they seem a little better than mezzodemons at pinning down
 those annoying mobile strikers, since the chain devil retains the use of all its
 attacks while restraining someone and can even move away from them.
+
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

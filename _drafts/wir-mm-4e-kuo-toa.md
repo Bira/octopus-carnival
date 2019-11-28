@@ -145,11 +145,10 @@ We have two encounters here:
 - Level 18: 2 monitors, 4 guards, 1 aboleth overseer and 8 aboleth servitors. A
   slave-catching party.
 
-This is where we get definitive confirmation that the kuo-toa gods are
-aboleths. There's also a sentence saying sometimes kuo-toa escape this cultish
-existence and become mercenaries or even leaders in other Underdark communities.
+There's a sentence saying sometimes kuo-toa escape this cultish existence and
+become mercenaries or even leaders in other Underdark communities.
 
-I think 4e has done a lot of good for these fishy cultists. I remember they were
-mostly just another type of "fish person with spear" in their 3e
-incarnation. Sahuagin are also present in the MM, so when we get there we'll see
-how unique each of them really is.
+I think 4e has done a lot of good for these fishy cultists. My memories of them
+from 3e were just another type of "fish person with spear", with little to
+distinguish them from locatah or saguahin. Sahuagin are also present in the MM,
+so when we get there we'll see how unique each of them really is.
