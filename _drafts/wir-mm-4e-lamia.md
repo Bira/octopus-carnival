@@ -9,7 +9,7 @@ tags:
 In Greek mythology, Lamia was a woman cursed by Hera to become a half-human,
 half-snake, child-eating monster. The Greeks themselves would end up using the
 name for a whole species of such creatures later on, and a few naughty anime
-shows would end up adopting it for their own brand of sexy snake lady.
+shows would end up adopting it for their own brand of snake lady.
 
 D&D lamias are a bit different, and have been in the game since at least 1st
 Edition. Here, they are only present in the MM.
@@ -71,7 +71,8 @@ disassembling into a bunch of individual beetles.
 The book says lamias often enslave weaker creatures to serve as
 bodyguards. Though their stat blocks don't have powers that allow them to
 dominate others in combat, it's quite possible they know custom rituals that
-allow for long-term mind control.
+allow for long-term mind control, or just use good old-fashioned mundane
+intimidation and cruelty.
 
 The sample encounter is level 12: a lamia, 2 mezzodemons, and 4 cyclops
 guards. As this shows, they might also just know enough magic to summon some
