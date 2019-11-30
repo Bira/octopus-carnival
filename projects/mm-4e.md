@@ -87,6 +87,7 @@ After this, we get right on the monsters:
     - [Bone Devil][48]
     - [Chain Devil][49]
     - [Ice Devil][50]
+    - [Imp][51]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -138,3 +139,4 @@ After this, we get right on the monsters:
 [48]: {{ "/2019/11/27/bone-devil.html" | relative_url }}
 [49]: {{ "/2019/11/28/chain-devil.html" | relative_url }}
 [50]: {{ "/2019/11/29/ice-devil.html" | relative_url }}
+[51]: {{ "/2019/11/30/imp.html" | relative_url }}
