@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Marut"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Maruts firts appeared in Third Edition (or perhaps in 2e Planescape) as a type
+of Inevitable, a Lawful Neutral outsider. Here, they appear only on the Monster
+Manual.
+
+## The Lore
+
+In Fourth Edition, Maruts are enigmatic natives of the Astral Sea, usually found
+wandering that plane and others as mercenaries for hire. As mercenaries, they
+probably don't care much about who their bosses are, as long as those bosses
+stick to their end of the contract. If they don't, I imagine retribution
+is... inevitable.
+
+The price for a Marut's service is always a reciprocal service, to be specified
+at a later date. They keep an exacting record of these favors in their astral
+fortresses. No one knows why they're gathering favors in this manner.
+
+## The Numbers
+
+We get two Marut stat blocks here, both epic. They have some common traits:
+trained Perception, Truesight, a land speed of 8, plus flight and teleport
+speeds of 4. They're also immune to sleep, have Resist 10 Thunder, and an
+amazing Regeneration of 20 with no weaknesses that temporarily shut it
+down. These things are really hard to kill and really hard to get away from.
+
+Maruts are Unaligned, being indifferent to the cosmic struggle between good and
+evil.
+
+### Marut Blademaster
+
+This Medium Immortal Humanoid is a Level 21 Soldier with 201 HP and all common
+marut traits. It wields a greatsword in combat.
+
+That **greatsword** is its only attack, doing a mix of physical and thunder
+damage. A hit also pushes the target 1 square and marks them for a turn.
+
+The damage of that basic attack is a bit underwhelming due to the early math,
+but the blademaster will often (recharge 4-6) be able to make two such attacks a
+round, making it considerably more dangerous.
+
+You probably want to use enough of these to form a battle line. It's hard to
+stand your ground against a wall of marut blademasters, and it gets even harder
+when they have backup.
+
+### Marut Concordant
+
+This Large Immortal Humanoid is a Level 22 Elite Controller with 418 HP and all
+common traits. Concordants fight with their fists and with decrees backed by
+mystical power.
+
+You'll likely see them coming at you from behind a battle line of
+blademasters. They'll bombard your position with **Fortune's Chains** (Area
+Burst 5 Within 20 vs. Will; enemies only; recharge 4-6), likely catching the
+whole party and doing psychic damage with a daze rider (save ends).
+
+Then they'll stop melee PCs on their tracks with **Dictums** (minor action;
+Ranged 10 vs. Fortitude), which do no damage but immobilize (save ends). When
+the party finally manages to crash into the battle line, the concordants will
+push them away again with a **Thunderous Edict** (Close Burst 5 vs. Fortitude;
+enemies only; recharge 5-6) which does thunder damage and pushes 4 squares on a
+hit.
+
+If all of these powers happen to be recharging at the moment, they'll content
+themselves with reaching over the heads of the blademaster vanguard and punching
+the PCs with Reach 2 **slams** that do a mix of physical and thunder damage.
+
+## Sample Encounters and Final Impressions
+
+There's one level 23 sample encounter: 1 concordant, 2 blademasters, a war
+devil, and 8 legion devils. There's your battle line.
+
+Fans of 3e inevitables are probably missing a lot of the lore that was removed
+along with the Great Wheel cosmology. Personally, while I think 3e inevitables
+were interesting, I also like the new lore. Enigmatic mercenaries stockpiling
+favors for some future cosmic plan is an interesting background that leaves room
+for GM creativity.
