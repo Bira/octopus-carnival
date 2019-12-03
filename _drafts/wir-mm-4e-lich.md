@@ -7,7 +7,7 @@ tags:
 ---
 
 Lichs are the original horrible undead wizards of D&D, having existed since
-the beginning. They're iconic enough to make both books in 4e.
+the beginning. They're both in the 4e Monster Manual and the Vault.
 
 ## The Lore
 
@@ -28,9 +28,10 @@ Most such greedy wizards become liches to cheat death. They start to search the
 world and the planes for lore that allows them to piece together the ritual as
 soon as they realize they're not going to live long enough to conquer the entire
 universe. Sure, death is not the end in D&D, but it usually means losing your
-stuff and for some wizards that's worse than oblivion. You'd imagine they would
-erase any knowledge of this ritual after they find it to prevent future
-competition, but somehow the next lich candidate always manages to find more.
+stuff and for some wizards that's worse than oblivion. I imagine these
+spellcasters make an effort to erase any knowledge of this ritual after they
+find it to prevent future competition, but somehow the next lich candidate
+always manages to find their own copy.
 
 Liches are a lot more patient about their schemes than they were in life - they
 now have the whole of eternity to work them. Their goal remains to accumulate as
@@ -42,19 +43,20 @@ depravity.
 Liches tend to be security conscious (read: paranoid), because their immortal
 forms can still be destroyed through violence. They'll rarely leave their
 fortified lairs, sending lackeys to further their schemes when possible. A
-Lich's soul is anchored in a phylactery, which is usually a metal box filled
-with arcane writings, but can also be any other small item. The phylactery
-ensures a destroyed lich will re-materialize in a few days. The security
-arrangements around phylacteries are even more elaborate and dangerous than
-those around the lich itself, and can tell you a lot about the personality of
-the lich in question.
+Lich's soul is anchored in a phylactery, which is usually a tiny metal box
+filled with arcane writings, but can also be any other small item. The
+phylactery ensures a destroyed lich will re-materialize in a few days. The
+security arrangements around phylacteries are even more elaborate and dangerous
+than those around the lich itself, and can tell you a lot about the personality
+of the lich in question.
 
 Destroying a lich requires destroying the philactery first, and then the lich
-itself. Sometimes, not even this is enough: a powerful entity associated with
-undeath such as Orcus or Vecna can call a destroyed lich back into existence as
-a vestige. Orcus is the original architect of lichdom, and nearly all liches are
-his agents in the end. I imagine this doesn't apply to Vecna, and that the demon
-lord has competition in this area now.
+itself. You have to be fast about it, because the lich can build itself another
+philactery in a few days. Sometimes, not even this is enough: a powerful entity
+associated with undeath such as Orcus or Vecna can call a destroyed lich back
+into existence as a vestige. Orcus is the original architect of lichdom, and
+nearly all liches are his agents in the end. I imagine this doesn't apply to
+Vecna, and that the demon lord has competition in this area now.
 
 Fifth Edition would add that liches need to regularly consume souls to keep
 existing, but this is absent from the text here. Their all-consuming greed and
@@ -66,11 +68,11 @@ First off, we get stats for the Lich Transformation ritual! It's level 14,
 requires training in Arcana or Religion, takes 1 hour, and costs 100,000gp in
 components. A market price of 250,000gp for the formula is also listed because
 that's the standard format for rituals, but this is definitely not something you
-can find in most markets. Maybe there's a kiosk in Orcus' layer or Vecna's
-domain that sells it, if you want to be cute about it.
+can find in most markets. Maybe there's a kiosk in Orcus' abyssal layer or
+Vecna's domain that sells it, if you want to be cute about it.
 
 Constructing the philactery is a separate process that takes 10 days - the 1
-hour time is just the final step that kills you and makes you a
+hour ritual casting time is just the final step that kills you and makes you a
 lich. Phylacteries are tough, with 40hp and resist 20 to all damage. The cost
 for the first one is included in the ritual's casting cost. Replacements take
 another 10 days to build and cost 50,000gp. Feel free to include any amount of
@@ -82,12 +84,14 @@ On to the stat blocks!
 ### Lich (Human Necromancer) (MM)
 
 Labeled "Lich (Human Necromancer)" in the MM, this is a Medium Natural Humanoid
-(undead) and a Level 14 Elite Controller with 218 (MM). It has Speed 6,
+(undead) and a Level 14 Elite Controller with 218 HP (MM). It has Speed 6,
 Darkvision, Resist 10 Necrotic, and immunity to disease and poison. It also has
 Regeneration 10, which can be turned off for a turn by radiant damage.
 
 This lich surrounded by a **Necromantic Aura** with a radius of 5 squares, which
-deals 5 necrotic damage to anyone caught inside.
+deals 5 necrotic damage to anyone caught inside. Against civilians with 1 HP,
+this is a weapon of mass destruction all by itself, though few liches would be
+murderous enough to use it in that way.
 
 Its active powers are weird in that it entirely lacks a melee basic attack. This
 is likely an editorial oversight. Instead it has a ranged basic attack named

@@ -196,5 +196,6 @@ unaligned) minotaurs that you can talk to instead of fighting. As a playable
 option, good minotaurs are another option for people who want to be Big
 Honorable Warriors struggling with a dark side.
 
-Mechanically, the MV versions are usually more interesting despite being
-lower level. That last part is easily adjustable!
+Mechanically, the MV versions are usually more interesting despite being lower
+level. That last part is easily adjustable, if you need them to be more
+powerful.
