@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-legion-devil.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 The devil entries in both books make frequent mention of the "Legions of Hell",
 and now we finally get to see who it is they're talking about. They exist in
 both the Monster Manual and the Vault.
@@ -82,3 +91,5 @@ you see up there in the Lore section. In a game focused on fighting devils,
 I'd definitely make regular versions of them for use as low-to-mid Heroic tier
 opponents, and the minion versions would be a constant presence in the rest of
 the campaign.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
