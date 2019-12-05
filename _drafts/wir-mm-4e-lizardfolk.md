@@ -22,7 +22,7 @@ are raised by the tribe as a whole. Lizardfolk culture has no concept of
 parenthood or nuclear families.
 
 Their society is patriarchal, with the most powerful male acting as chieftain
-advised by shamans and mystics. They don't worship any gods, but a truly
+advised by shamans and mystics. They don't worship any deities, but a truly
 legendary chieftain may be elevated to the status of "Lizard King" and be
 treated as a living god. I think the concept of primal spirits wasn't 100%
 developed at this time, but lizard-people should probably be a primary example
@@ -59,7 +59,7 @@ keyword. Blackscales are Large. They all have Speed 6 with Swamp Walk, ignoring
 all swamp-like difficult terrain.
 
 MV lizardfolk tend to have an atavistic theme going on, gaining minor-action
-"feral" attacks that vary per stat block when they become bloodied.
+"feral" attacks when they become bloodied.
 
 ### Poisonscale Needler (MV)
 
@@ -75,10 +75,10 @@ attack from hiding remain hidden.
 
 These are Level 3 Brutes with 55 HP and all common lizardfolk traits.
 
-Their main weapon is a club, and they can also perform a Feral Grab as a
-1/round minor action. This targets Reflex, does no damage, and grabs on a hit
-(escape DC 13). Brawlers can apply a Crushing Grasp to grabbed victims,
-targetting Fortitude and doing more damage than the club (half on a miss).
+Their main weapon is a club, and they can perform a Feral Grab as a 1/round
+minor action. This targets Reflex, does no damage, and grabs on a hit (escape DC
+13). Brawlers can apply a Crushing Grasp to grabbed victims, targetting
+Fortitude and doing more damage than the club (half on a miss).
 
 ### Greenscale Raider (MV)
 
@@ -96,8 +96,8 @@ at that. It carries a spear and three nets into combat.
 
 Aside from basic spear attacks, the trapper can toss a net (Close Blast 2
 vs. Reflex; enemies only) to do a bit of damage and immobilize (save ends). On a
-miss, it can still slide the target to a 1 square to a square not in the
-blast. You dodge, but end up right where the trapper wanted you!
+miss, it can still slide the target 1 square to a square not in the blast. You
+dodge, but end up right where the trapper wanted you!
 
 As a move action, the trapper can use Net Drag, moving its speed and pulling any
 targets immobilized by its net along. Once bloodied, it can perform a Feral Kick
@@ -119,7 +119,7 @@ damage and trigger a secondary attack vs. Fortitude. If that one hits, the
 target takes 5 ongoing poison damage and is slowed (save ends).
 
 You should probably change the blowgun to do level-appropriate poison damage
-instead of you update them.
+instead if you update them.
 
 They also have the Sniper trait.
 
@@ -141,8 +141,8 @@ recharge 5-6). This does poison damage and dazes for a turn. The MV version
 still makes the targets grant combat advantage for a turn on a miss.
 
 The mystic's ultimate technique is **Swamp's Grasp**, an encounter power whose
-mechanical effects differ entirely between versions. In both it's an area burst
-2 that targets Reflex and represents swamp vegeration heaving up to entangle
+mechanical effects differ between versions. In both it's an area burst 2 that
+targets Reflex and represents swamp vegeration heaving up to entangle
 victims. The MM version has a range of 10, does no damage, and immobilizes (save
 ends). The MV version is a lot better, doing damage in addition to the
 immobilize effect, or half damage and slow (save ends) on a miss. It only has
@@ -176,9 +176,9 @@ We have 2 here:
   of the pets lizardfolk keep.
 
 - Level 6: 1 mystic, 2 bruisers, 1 darter, 2 hunters. Either a serious hunting
-  party or the mystic's bodyguard.
+  party or the mystic's personal guard.
 
-While the MV stat blocks are almost always better, particularly the ones for
-mystics and bruisers, I'm 100% behind the MM's non-xenophobic lore. Neutral
-lizardfolk who might trade and talk with you are a much better addition to a
-setting than yet another Angry Humanoid.
+Mechanics-wise the MV stat blocks are almost always better, particularly the
+ones for mystics and bruisers. However, I'm 100% behind the MM's non-xenophobic
+lore. Neutral lizardfolk who might trade and talk with you are a much better
+addition to a setting than yet another Angry Humanoid.
