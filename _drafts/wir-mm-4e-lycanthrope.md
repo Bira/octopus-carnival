@@ -53,7 +53,7 @@ _can_ kill them without silver, it's just harder.
 
 Wererats are likely to be the first lycanthrope your PCs encounter, and also the
 ones most comfortable with living in civilization. Wererat thieves' guilds are a
-common staple of D&D.
+classic staple of D&D.
 
 Here they're Medium Natural Humanoids with the Shapechanger keyword, and Level 3
 Skirmishers with 48 HP. They also have the common traits listed above. They run
@@ -126,8 +126,8 @@ The gothic/Holywood werewolf afflicted by a curse that turns then into ravenous
 murderers on the full moon is a classic... but that's not what we get here at
 all. These lycanthropes are just another sapient species, and while there's
 nothing preventing some individuals from turning to evil, there's nothing
-compelling them to do so anyway. The stat blocks given here are all Evil, but
-then again so would be the ones for human cultists of Orcus or the like.
+compelling them to do so anyway (despite all the stat blocks we're given being
+Evil).
 
 This makes the Monster Vault's more aggressive stance feel like vile bigotry to
 me. If you take it at face value you can say the Church of the Silver Flame was

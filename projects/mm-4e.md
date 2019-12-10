@@ -143,4 +143,4 @@ After this, we get right on the monsters:
 [50]: {{ "/2019/11/29/ice-devil.html" | relative_url }}
 [51]: {{ "/2019/11/30/imp.html" | relative_url }}
 [52]: {{ "/2019/12/03/legion-devil.html" | relative_url }}
-[53]: {{ "/2019/12/07/pit-fiend.html" | relative_url }}
+[53]: {{ "/2019/12/10/pit-fiend.html" | relative_url }}
