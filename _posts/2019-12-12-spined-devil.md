@@ -6,6 +6,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-spinagon.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
+
 The book says spined devils serve as "scouts and sentries" in the Hells, and
 sometimes as "spies and messengers" to powerful figures. Everything else about
 them suggests they are _terrible_ at these jobs, because what they really love
@@ -55,3 +65,5 @@ Still, if you pair them with appropriate enemies that can capitalize on the slow
 effect of their spines, they can make for memorable fights. The sample encounter
 is a good example of this... and to make my point about these guys looking more
 like demons, they also pair really well with evistros.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

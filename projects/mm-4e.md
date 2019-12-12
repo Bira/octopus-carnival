@@ -90,6 +90,7 @@ After this, we get right on the monsters:
     - [Imp][51]
     - [Legion Devil][52]
     - [Pit Fiend][53]
+    - [Spined Devil][54]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -144,3 +145,4 @@ After this, we get right on the monsters:
 [51]: {{ "/2019/11/30/imp.html" | relative_url }}
 [52]: {{ "/2019/12/03/legion-devil.html" | relative_url }}
 [53]: {{ "/2019/12/10/pit-fiend.html" | relative_url }}
+[54]: {{ "/2019/12/12/spined-devil.html" | relative_url }}
