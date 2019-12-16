@@ -18,9 +18,9 @@ spikes.
 These creatures are sapient, but deeply stupid and even more deeply _mean_,
 living up to their Chaotic Evil alignment. They claim large hunting territories
 around their lairs and are known to extend them even further on a whim. Like,
-say, when they discover a tasty village near the former borders. They
-specifically seek out sapient prey if at all possible. Their favorites are
-humans and dwarves.
+say, when they discover a tasty village just on the other side of the current
+borders. They specifically seek out sapient prey if at all possible. Their
+favorites are humans and dwarves.
 
 Tough technically capable of parley, manticores rarely bother listening. Those
 who manage to get through to a manticore can sometimes appease them with bribes
@@ -51,7 +51,7 @@ Manticores run at speed 6 and fly at speed 8. Their keen senses give them
 trained Perception, and all of them can shoot those spikes from their
 tails. They don't run out of ammunition either. Perhaps the spikes magically
 grow as soon as they're fired, or perhaps there are so many to begin with they
-have Enough for any given fight.
+have Enough(TM) for any given fight.
 
 ### Manticore (MM)
 
