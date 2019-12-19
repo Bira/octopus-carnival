@@ -6,9 +6,10 @@ tags:
     - lets-read
 ---
 
-Maruts firts appeared in Third Edition (or perhaps in 2e Planescape) as a type
-of Inevitable, a Lawful Neutral outsider. Here, they appear only on the Monster
-Manual.
+My first contact with Maruts was in Third Edition, where they were a type of
+Inevitable, a Lawful Neutral outsider. It could be that they predate that
+edition (though AD&D was all about modrons instead). Here, they appear only on
+the Monster Manual.
 
 ## The Lore
 
@@ -31,7 +32,7 @@ amazing Regeneration of 20 with no weaknesses that temporarily shut it
 down. These things are really hard to kill and really hard to get away from.
 
 Maruts are Unaligned, being indifferent to the cosmic struggle between good and
-evil.
+evil. All they care about is keeping their ledgers balanced.
 
 ### Marut Blademaster
 
@@ -52,8 +53,8 @@ when they have backup.
 ### Marut Concordant
 
 This Large Immortal Humanoid is a Level 22 Elite Controller with 418 HP and all
-common traits. Concordants fight with their fists and with decrees backed by
-mystical power.
+common marut traits. Concordants fight with their fists and with decrees backed
+by mystical power.
 
 You'll likely see them coming at you from behind a battle line of
 blademasters. They'll bombard your position with **Fortune's Chains** (Area
