@@ -13,17 +13,25 @@ they're only on the Monster Manual.
 ## The Lore
 
 The Shadowfell is the antechamber of the afterlife. Whenever someone dies, their
-spirit spends a time here before moving on to its final destination. If an
-extremely strong-willed evil person dies, though, they might be able to hold on
-and stay in the Shadowfell through sheer orneriness. These eventually become
-Nightwalkers.
+spirit spends a time here before the Raven Queen sends it to its final
+destination. If an extremely strong-willed evil person dies, though, they might
+be able to hold on and stay in the Shadowfell through sheer orneriness. These
+eventually become Nightwalkers.
 
-Nightwalkers have bodies made out of the stuff of the Shadowfell, and are
-capable of controlling the energies of that plane to some extent. This manifests
-as a series of cold and necrotic powers in combat, but they're also expert
-ritual casters. One of the rituals they know is the one that makes bodaks,
-though power-hungry PC wizards will be disappointed to know it only works on the
-Shadowfell when cast by a nightwalker on someone they themselves killed.
+This origin is actually quite similar to those of Devourers, evil people who
+also avoid being sent to the afterlife and make new undead bodies for
+themselves. Could it be that the two are related? Maybe a Nightwalker is what
+you get when a Devourer eats enough souls. Or maybe they're simply the luckier
+psychopaths who got to make themselves a body of solid shadow instead of having
+to settle for corpse bits.
+
+As mentioned above, Nightwalkers have bodies made out of the stuff of the
+Shadowfell. This gives them the ability to control the energies of that plane to
+some extent, which manifests as a series of cold and necrotic powers in combat.
+They're also expert ritual casters. One of the rituals they know is the one that
+makes bodaks, though power-hungry PC wizards will be disappointed to know it
+only works on the Shadowfell when cast by a nightwalker on someone they
+themselves killed.
 
 Nightwalkers communicate through telepathy, and understand Common. They're
 highly intelligent and no doubt always have an evil scheme or two cooking, with

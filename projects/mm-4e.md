@@ -93,6 +93,7 @@ After this, we get right on the monsters:
     - [Spined Devil][54]
     - [Succubus][55]
     - [War Devil][56]
+  - [Devourer][57]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -150,3 +151,4 @@ After this, we get right on the monsters:
 [54]: {{ "/2019/12/12/spined-devil.html" | relative_url }}
 [55]: {{ "/2019/12/15/succubus.html" | relative_url }}
 [56]: {{ "/2019/12/16/war-devil.html" | relative_url }}
+[57]: {{ "/2019/12/19/devourer.html" | relative_url }}
