@@ -1,0 +1,151 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Nagas are inspired by creatures from Hindu, Buddhist and Jainist
+mythology. Stories about them originate from both India and Laos. They've been
+in D&D since at least AD&D 1e, and here they're present only in the Monster
+Manual.
+
+## The Lore
+
+Nagas are serpentine creatures with humanoid faces, more spirit than flesh. They
+are the guardians of sacred places and secret lore, immune to the ravages of
+age, hunger, or sleep.
+
+Nagas are sapient, highly intelligent, and possess magical powers. While the
+book doesn't specify who exactly summons nagas to guard some secret, I imagine
+powerful servants of the gods or other equivalent entities might have the
+ability to do so. You'll rarely find a naga guarding an easily accessible place
+like a big city temple or the like - remoteness is the first line of defense for
+the sites they tend to guard.
+
+Nagas are often fond of treasure, and end up building small hoards out of the
+belongings of the interlopers they defeat. Some of them grow to despise their
+original mission, and install themselves as divine rulers of primitive reptilian
+tribes, over which they seem to have some influence. As you might expect, the
+servants of Zehir are among some of the most enthusiastic fans of nagas, though
+they're not inherently associated with that deity.
+
+## The Numbers
+
+Nagas are Large Magical Beasts with the Reptile keyword, and their origin
+actually varies depending on the specific naga. Their origin is typically
+Immortal, but there's one exception here. They have Darkvision, very high Int
+scores, speak several languages, and have plenty of mental skills, such as
+Arcana, Insight, History, and so on. Their specific powers vary per stat block,
+but there's always something snaky and something magical.
+
+### Guardian Naga
+
+This naga is Level 12 Elite Artillery with 186 HP. In previous editions they
+used to be always Lawful Good, but here their alignment is listed as
+"any". Presumably it matches that of whoever summoned them as guardians. They
+usually guard arcane secrets, rituals, or artifacts, as well as portals to the
+Astral Sea. It moves at speed 6.
+
+The guardian naga will likely open a fight with **Thunderstrike** (area burst 1
+within 20 vs. Fortitude; recharge 5-6), which does thunder damage and dazes on a
+hit (save ends). On a miss it still does half damage, with no riders.
+
+From them on it will hit its enemies with **Word of Pain** (ranged 20 vs. Will),
+doing psychic damage and immobilizing (save ends). It will likely spread this
+around so most PCs are immobilized, and then focus on what it perceives to be
+the biggest threats.
+
+If someone manages to get close, it will **Spit Poison** at them (close blast 3
+vs. Fortitude; recharge 5-6). This obviously does immediate and ongoing poison
+damage, and it also inflicts a -2 penalty to Fortitude and saves (save ends
+all).
+
+Only when it has no other alternative will the guardian naga fight in melee. Its
+only weapon there are weak **Tail Slaps** that do some damage and push 2 squares
+on a hit.
+
+### Bone Naga
+
+This skeletal naga is a Level 16 Elite Controller with 328 HP. As an undead
+being, it's immune to disease and poison, has Resist 20 necrotic, and Vulnerable
+10 Ratiant. It rattles along at speed 7.
+
+Despite their sinister looks and undead-ness, bone nagas are Unaligned. Their
+mission usually involves guarding dangerous necromantic secrets, or tombs where
+some great evil is sealed.
+
+Bone nagas prefer to mix it up in melee, in no small part due to their **Death
+Rattle** aura (radius 2) which causes any enemy who starts their turn inside to
+be dazed! It reinforces that with its **Death Sway** (Close Burst 3 vs. Will),
+which dazes enemies who were previousl fine (save ends) and does necrotic damage
+to enemies who were already dazed.
+
+It also has a Reach 2 **Bite** it can use, which deals immediate and necrotic
+damage (save ends), with a weakness aftereffect (save ends).
+
+### Dark Naga
+
+So named because of its dark-colored scales, this naga is also Evil. That says
+nothing about the moral value of what it guards: prophecies, oracles, related
+relics and rituals, and Underdark sites. It is probably more likely to set up
+one of those cults mentioned in the lore, though.
+
+Dark Nagas are Level 21 Elite Controllers, with 404 HP and speed 8. They're all
+about mind effects at close range, starting with **Lure** (Close Burst 5
+vs. Will; enemies only). This minor action pulls victims 1 square and dazes them
+(save ends), though it does no damage.
+
+**Psychic Miasma** (Close Burst 3 vs. Will; recharge 5-6) _does_ do psychic
+damage in addition to its daze effect (save ends). The first failed save here
+causes the condition to worsen to stunned (save ends).
+
+Their **tail sting** does poison damage, and is more damaging against dazed
+targets. It also slows them (save ends).
+
+In short, the party will have a very hard time staying un-dazed when fighting
+these monsters.
+
+### Primordial Naga
+
+The only elemental naga of the bunch (all others are Immortal), this hints that
+the first nagas served not the gods, but the primordials. This multi-headed
+monstrosity is a Level 25 Solo Artillery with 1200 HP, comparable to an elder
+dragon. They guard portals to the Elemental Chaos, and the secrets of the
+primordials themselves.
+
+Primordial nagas prefer to maintain a good distance between themselves and their
+foes, whom they will bombard with their **fire spit** and with **wind
+slams**. The first targets Reflex and does both immediate and ongoing fire
+damage. The second does physical damage and pushes the target 2 squares. Both
+are minor actions, allowing a stationary naga to make a total of three such
+attacks in any combination.
+
+When the PCs close to within 5 squares, it will hit them with a **Freezing
+Breath** (close blast 5 vs. Fortitude; recharge 5-6) which does cold damage and
+slows (save ends).
+
+And when the PCs finally close to melee, they'll have a nasty surprise:
+primordial nagas are actually quite dangerous up close! First there's the
+**Energy Cascade** aura (2) which does 10 fire and lightning damage to any
+enemies inside. Then there are the **bites**. They might be bit weaker than the
+ranged attacks, but the naga can make five of them. If at least three hit the
+same target, they also take ongoing acid damage.
+
+## Sample Encounters and Final Impressions
+
+These are the sample encounters:
+
+- Level 12: A guardian naga, 2 fire archon emberguards, 1 stone-eye basilisk.
+
+- Level 16: 1 Bone Naga, 3 shadow snakes.
+
+Nagas usually partner up with other guardian creatures assigned to the same
+place, and they can also end up allying or enslaving neighboring creatures to
+act as spies and agents, either to help with their mission of protection or to
+build a power base and take over the surrounding region. The latter is something
+the more evil or ambitious nagas might do.
+
+I like nagas! Their lore has plenty of openings for interactions more complex
+than a fight to the death, and they have a nice mechanical flavor.
