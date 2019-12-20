@@ -23,27 +23,27 @@ The Monster Manual portrays medusas as a haugthy and ambitious people. They live
 in small groups, but their ambition drives them to seek money and power in the
 societies of others. Evil medusas turn up as assassin guild masters or
 terrifying nobles, but you also get nicer ones working as eccentric veiled
-scholars and alchemists. Eberron has medusas make up part of the higher classes
-in the monster nation of Droaam, being a setting where you can have medusa
-ambassadors and such.
+scholars and alchemists. Eberron has medusas make up part of the elite in the
+monster nation of Droaam, so you can have medusa ambassadors and such.
 
-The Monster Vault, as usual goes a bit harder on the evil angle and say that
+The Monster Vault, as usual goes a bit harder on the evil angle and says that
 medusas are universally regarded as unnatural by all the other sapients. Rumors
 and myths abound about their origins, and run along two main lines. One says
 they were wholesome/wicked people who got punished/rewarded by Zehir with their
 current forms. The other says they were the result of yuan-ti genetic
-experiments, originally meant to serve as a slave race.
+experiments, originally meant to serve as a slave race. Villainous medusas do
+often worship Zehir, the snake god of treachery and snakes, and they often have
+cordial relations with yuan-ti, who are one of the few other peoples they are
+said to truly respect.
 
-Villainous medusas do often worship Zehir, the snake god of treachery and
-snakes, and they often have cordial relations with yuan-ti, who are one of the
-few other peoples they see as equals. They like to decorate the area around
-their lairs as demarcation and warning. There's the classic statue gardens, of
-course, and males also like to paint the walls with the blood of their victims.
+Medusas like to decorate the area around their lairs as demarcation and
+warning. There's the classic statue gardens, of course, and males also like to
+paint the walls with the blood of their victims.
 
 The Monster Vault also turns them into another of those evil matriarchies where
 males are oppressed, with only those few who are immune to petrification being
 singled out for special treatment. The Monster Manual makes no mention of this,
-and says every medusa is immune to petrification.
+and says every medusa is immune to petrification regardless of gender.
 
 In combat, medusas use weapons, with a preference for swords and bows. Their
 blades and arrows are often coated in poison derived from the their own saliva
@@ -59,9 +59,10 @@ Medusas are Medium Natural Humanoids. All are immune to petrification, and have
 some degree of poison resistance. They also have a gaze attack, which can be
 either petrification or venom depending on the individual.
 
-Gazes mechanics are different in both books. MM gazes are standard action
+Gaze mechanics are different in both books. MM gazes are standard action
 attacks, to which blind creatures are immune. It's up to the PCs to decide
-whether it's safer to fight an elite paragon medusa blindfolded or not.
+whether it's safer to fight an elite paragon medusa blindfolded or to risk its
+gaze.
 
 MV gazes are triggered actions, which means the monster doesn't need to choose
 between using its weapons or its gaze in a turn. Also, blinding yourself won't
@@ -100,6 +101,24 @@ it hits, and also stuns the triggering character if it hits them. The gaze
 recharges whenever the bodyguard hits with his sword, and blind creatures are
 _not_ immune.
 
+### Medusa Venom Arrow (MV)
+
+Venom arrows are non-elite versions of the MM Archers, being level 12 artillery
+monsters with 96 HP.
+
+Like Archers, they fight in melee with their less-whimsically named **serpent
+hair**, which deals poison damage and inflicts a -2 to Fortitude for a
+turn. Their Range 30 **bows** do physical damage, ongoing 5 poison damage, and slow
+(save ends).
+
+Their **Petrifying Stare** is a triggered opportunity action. If an enemy starts
+they turn within 2 squares of the medusa, they're subject to a gaze that hits
+_automatically_ and slows them (save ends). This progresses to full
+permanent petrification just like the Archer's gaze.
+
+The possible cures for this petrification are specified here: the right power or
+ritual, a willing kiss from the medusa, or the afore-mentioned blood drops.
+
 ### Medusa Warrior (MM)
 
 We're back in elite territory with these dudes, who are Level 13 Elite Soldiers
@@ -107,7 +126,7 @@ with 272 HP. They fight with **longswords** and **longbows** as well.
 
 The longsword attacks trigger a secondary attack against Fortitude on a hit,
 dealing ongoing 10 poison damage and slowing (save ends both). The arrows
-automatically inflict the ongoing damage (save ends).
+automatically inflict the ongoing damage if they hit (save ends).
 
 As elites, warriors can use a standard action to make two sword attacks, and
 those deal extra damage against a dazed target. Their source of daze effects is
@@ -143,8 +162,7 @@ that only affects the triggering enemy, targets Fortitude, and petrifies
 _immediately_. This is a (save ends) condition until the third failed save, in
 which it becomes permanent until cured.
 
-The possible cures are specified here: the right power or ritual, a willing kiss
-from the medusa, or the afore-mentioned blood drops.
+The possible cures are the same as those of the Venom Arrow's gaze.
 
 ### Medusa Shroud of Zehir (MM)
 
