@@ -13,6 +13,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Like beholders and mind flayers, Displacer Beasts are one of those monsters who
 are so uniquely D&D that they've been excluded from the SRD. They look like big
 black panthers with two squid-like tentacles protruding from their shoulder
@@ -120,3 +122,5 @@ an "attacks on sight and fights to the death" monster, and someone who can talk
 to animals can even make an ally of it. Even the regular variant: it has the
 brainpower of your average ogre and a much better disposition (they're
 Unaligned).
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
