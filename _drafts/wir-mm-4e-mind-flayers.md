@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-mind-flayer.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2008 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Mind flayers are one of those monsters that are so iconic to D&D they're not
 covered by the D20 license. They've been in the game since AD&D 1st Edition, and
 are present in both the Monster Manual and the Monster Vault.
@@ -17,7 +26,7 @@ psychic powers and use them to feed on sapient brains. They came from the Far
 Realm long ago. Before they arrived in the world, they had a great
 dimension-spanning empire whose experiments were responsible for the creation of
 the Gith peoples as we know them today. That empire was torn down when their
-slaves rebelled.
+slaves rebelled, and the illithids of today descend from its survivors.
 
 Some versions of mind flayer lore assert that they come from a distant _future_,
 having travelled back in time to ensure their empire rises and to prevent its
@@ -27,10 +36,10 @@ region of the Far Realm.
 Your typical mind flayer is a solitary, megalomaniacal villain bent on total
 world domination, who surrounds itself with large numbers of thralls to act as
 its hands and eyes to enact is elaborate plans on whatever society they're
-targetting. That doesn't mean the illithid is a coward! Should see the need to
-get into a fight personally, it will do so without hesitation. There's no limit
-to the number of thralls a single illithid may control - the process of creating
-them involves brain surgery, not active psychic domination. So those
+targetting. That doesn't mean the illithid is a coward! Should it see the need
+to get into a fight personally, it will do so without hesitation. There's no
+limit to the number of thralls a single illithid may control - the process of
+creating them involves brain surgery, not active psychic domination. So those
 organizations may be quite large, and composed of a mix of thralls and willing
 (or ignorant) collaborators.
 
@@ -58,7 +67,7 @@ practically into a hive mind, but this isn't true here. Individual, independent
 illithids are exactly that. They don't need exceptional reasons to reject life
 in an Underdark city - maybe their plans for world domination are just
 incompatible ("I'm going to be the boss, not you"). This means that it's
-perfectly possible to fight mind flayers in the surface withtout this being
+perfectly possible to fight mind flayers in the surface without this being
 necessarily tied to some Underdark conspiracy.
 
 ## The Numbers
@@ -140,7 +149,7 @@ within 10 squares of it. The victims it makes into thralls also gain this
 benefit, by the way. Only one creature can be enslaved at a time, but as usual
 it can have as many thralls as it can make.
 
-The mastermind can also plan an **Illusion of Pain** in its victims (Area Burst
+The mastermind can also plant an **Illusion of Pain** in its victims (Area Burst
 1 within 10 vs. Will; Enemies only; recharge 5-6) which does both immediate and
 ongoing psychic damage and immobilizes (save ends).
 
@@ -148,7 +157,7 @@ When attacked, it can use **Craddle of the Elder Brain** (recharge 5-6) as an
 interrupt, teleporting up to 20 squares. If it's targeted by a melee attack, it
 can instead **Interpose Thrall**, an interrupt which redirects the attack to a
 nearby thrall. That's definitely going to be its preferred option if it has
-thralls nearby.
+thralls nearby, with the teleport working as a tool of escape.
 
 ### Mind Flayer Unseen (MV)
 
@@ -208,3 +217,6 @@ statting it up as a level 8 solo or the like.
 Unlike what happens with the more naturalistic humanoids, this is one of the
 rare instances where I'm fine with the books portraying them as almost
 universally Evil. Good mind-flayers should be once-in-a-campaign events at most.
+
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
