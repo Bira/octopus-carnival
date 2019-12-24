@@ -6,6 +6,14 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-minotaur.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Minotaurs are inspired by Greek mythology, which as usual only had the one (his
 name is Asterion). They've been in the game pretty much since the beginning, and
 are present both in the Monster Manual and the Vault here.
@@ -199,3 +207,5 @@ Honorable Warriors struggling with a dark side.
 Mechanically, the MV versions are usually more interesting despite being lower
 level. That last part is easily adjustable, if you need them to be more
 powerful.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

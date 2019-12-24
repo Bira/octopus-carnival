@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][2] to see the other entries.
+
 Doppelgangers have been in D&D forever, in one form or another. As is common
 with 4e, they're a little different here than they were in older editions. This
 time, however, it's 3.5's fault. They're in both the Monster Manual and the
@@ -32,8 +34,8 @@ retained.
 Much like humans, doppelgangers are people who can have any disposition and
 alignment imaginable. They don't have any kingdoms or settlements of their own,
 and tend to live in those of other races, usually in disguise. I suspect most of
-them really do want to live out peaceful lives, and maybe have a private space
-where they can drop the disguises and relax a bit.
+them really do want to live peaceful lives, and maybe have a private space where
+they can drop the disguises and relax a bit.
 
 When they turn to riskier pursuits, though, their abilities make excellent at
 infiltration, spying, and all sorts of other underhanded activities. That's
@@ -134,4 +136,5 @@ well as a PC race! As possible opposition these stat blocks work well. If some
 villain is going to hire assassins to go after a late-paragon party, those
 assassins are probably going to be doppelgangers or the equivalent.
 
-[1]: {{ "/2017/09/19/changelings-dfrpg.html" | relative_url }}.
+[1]: {{ "/2017/09/19/changelings-dfrpg.html" | relative_url }}
+[2]: {{ "/projects/mm-4e/" | relative_url }}
