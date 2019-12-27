@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-mummy.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Mummies have been in D&D since its beginnings, when they were part of the rather
 large Undead Power Ladder. Here they are present in both the Monster Manual and
 the Vault.
@@ -16,8 +27,8 @@ Mummies are corpses preserved through elaborate funeral rituals and
 procedures. While this immediately calls to mind pyramids and sarcophagy, there
 are several real world cultures that practiced other methods of mummification
 and that can be used as inspiration here. You could have mummies buried in a
-bog, or in high-altitude mountain tombs. Whatever the exact nature of the ritual
-is, it can give mummies the power to rise again!
+bog, or in high-altitude mountain tombs. Whatever the details of the
+mummification ritual, it can give mummies the power to rise again!
 
 Mummies are creatures of wrath. They rise in response to some transgression,
 which is usually "thieves broke into my tomb" since most mummies are
@@ -25,14 +36,14 @@ purposefully created to guard tombs or other sacred places. These guardian
 mummies are semi-intelligent at best and retain nothing of who they were in
 life, but they're very strong, emanate an aura of fear, and can inflict terrible
 curses on their victims. These can take the form of the classic rotting disease,
-or something else. Their main disadvantage is that they burn easily, being
-particularly dry corpses wrapped in flammable bandages.
+or something else. Their main disadvantage is that they burn easily, being dry
+corpses wrapped in flammable material.
 
 Some mummies do retain most of their personality, memories and powers. These
 were usually already powerful in life: high priests, royalty, or other
 legends. They're known as "mummy lords" or "royal mummies", though of course
 each such lord should be a named individual. They're often prepared to rise
-_automatically_ after the burial ceremony, in order to continue its rule from
+_automatically_ after the burial ceremony, in order to continue their rule from
 beyond the gates of death. If that's not the case, they can still be riled up by
 the usual tomb invasion, or by some more personal offense specific to the
 individual they were in life.
@@ -52,7 +63,7 @@ block. They also have Regeneration 10, which can be turned off for a turn with
 radiant damage, and project an aura of Despair out to 5 squares. This is a fear
 effect that inflicts a -2 penalty on attacks against the mummy.
 
-Finally, MM mummies are capable of inflicting Mummy Rot with one of their
+Additionally, MM mummies are capable of inflicting Mummy Rot with one of their
 attacks. This is a disease whose level is the same as that of the mummy (which
 affects its Endurance DCs). Stage 1 halves the HP you recover from any healing
 effects. Stage 2 does the same and deals you 10 necrotic damage that can't be
@@ -76,7 +87,7 @@ last beyond an encounter.
 In both books, all mummies have darkvision. They're also all Unaligned, which is
 quite interesting. Perhaps some of those royal mummies aren't hatching sinister
 plots at all! Maybe they only wish for the safety of their kingdom, or to
-redress a geniune wrong committed against it, and the PCs might be able to
+redress a genuine wrong committed against it, and the PCs might be able to
 reason or even ally with them.
 
 ### Mummy Guardian (MM)
@@ -121,16 +132,16 @@ on a hit halves the HP recovery from the next healing surge spent by the target.
 
 "Mummy Lord" is one of those monster templates that can be applied to NPC stat
 blocks to make them elite, introduced in the DMG. We already saw one of these in
-the Death Knight entry, and as we say there they would eventually be dropped in
-favor of elite monsters built from scratch along the same lines. Unlike common
-mummies they're quite smart and likely to have a story role beyond that of a
-simple dungeon denizen.
+the [Death Knight][2] entry, and as I discussed there they would eventually be
+dropped in favor of elite monsters built from scratch along the same
+lines. Unlike common mummies they're quite smart and likely to have a story role
+beyond that of a simple dungeon denizen.
 
 The example mummy lord here in the MM was a Level 13 Human Cleric in life. Now,
 it's a Level 13 Elite Controller with 205 HP and all MM mummy traits. Its
 Necrotic resistance is 10, and its vulnerability to fire remains at 5.
 
-The mummy lord fight with a mace, and its basic attack is **Warding Mace**,
+The mummy lord fights with a mace, and its basic attack is **Warding Mace**,
 which does damage and gives both the mummy and an adjacent ally +1 AC for a
 turn.
 
@@ -182,8 +193,8 @@ damage and pushes targets 4 squares. A miss still does half damage and pushes
 two squares.
 
 I love how fear effects are implemented as pushes. Feels a lot better than
-taking control away from the players by making their PCs run away in their
-actions.
+taking control away from the players by making their PCs waste their actions
+running away and cowering.
 
 Royal mummies can use an **enfeebling curse** as a minor action once per
 round. This ranged 10 attack hits automatically and makes it so the target
@@ -197,7 +208,7 @@ its depths so they have to delve the whole thing under its effects.
 ### Giant Mummy (MM)
 
 When your party makes it into epic level, they might think they left mummies
-behind. That's when they learn humans learned mummification from the giants.
+behind. That's when they learn giants also know how to make mummies.
 
 Giant mummies are Level 21 Brutes with 240 HP and all MM mummy traits. Like
 guardian mummies, they're only Int 6, so they don't do much more than shamble
@@ -236,3 +247,6 @@ I'm not ready to discard the Monster Manual mummies entirely, though. They cause
 mummy rot! That's classic D&D! Giving that ability to at least some mummies that
 use the MV stats would help keep PCs on their toes even if the disease is a
 little easier to get rid of than it used to be.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
+[2]: {{ "/2019/09/20/death-knight.html" | relative_url }}
