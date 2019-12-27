@@ -95,6 +95,7 @@ After this, we get right on the monsters:
     - [War Devil][56]
   - [Devourer][57]
   - [Displacer Beasts][58]
+  - [Dracolich][59]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -154,3 +155,4 @@ After this, we get right on the monsters:
 [56]: {{ "/2019/12/16/war-devil.html" | relative_url }}
 [57]: {{ "/2019/12/19/devourer.html" | relative_url }}
 [58]: {{ "/2019/12/23/displacer-beast.html" | relative_url }}
+[59]: {{ "/2019/12/27/dracolich.html" | relative_url }}
