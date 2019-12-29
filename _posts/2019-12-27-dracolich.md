@@ -12,6 +12,7 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
 
 A Dracolich is what you get when a dragon decides to perform the unspeakable
 rites of lichdom. Due to the vagaries of alphabetical ordering, we get to look
@@ -191,3 +192,5 @@ more multi-action solo stat block for the MV. I can also see why the MV lumped
 them in with the other dragons. As we're about to see, they're really very
 similar, and fill the Controller niche that was missing from lineup of living
 chromatics.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

@@ -6,8 +6,19 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-doppelganger.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Nagas are inspired by creatures from Hindu, Buddhist and Jainist
-mythology. Stories about them originate from both India and Laos. They've been
+tradition. Stories about them originate from both India and Laos. They've been
 in D&D since at least AD&D 1e, and here they're present only in the Monster
 Manual.
 
@@ -46,7 +57,7 @@ This naga is Level 12 Elite Artillery with 186 HP. In previous editions they
 used to be always Lawful Good, but here their alignment is listed as
 "any". Presumably it matches that of whoever summoned them as guardians. They
 usually guard arcane secrets, rituals, or artifacts, as well as portals to the
-Astral Sea. It moves at speed 6.
+Astral Sea. They move at speed 6.
 
 The guardian naga will likely open a fight with **Thunderstrike** (area burst 1
 within 20 vs. Fortitude; recharge 5-6), which does thunder damage and dazes on a
@@ -79,8 +90,8 @@ some great evil is sealed.
 Bone nagas prefer to mix it up in melee, in no small part due to their **Death
 Rattle** aura (radius 2) which causes any enemy who starts their turn inside to
 be dazed! It reinforces that with its **Death Sway** (Close Burst 3 vs. Will),
-which dazes enemies who were previousl fine (save ends) and does necrotic damage
-to enemies who were already dazed.
+which dazes enemies who were previously fine (save ends) and does necrotic
+damage to enemies who were already dazed.
 
 It also has a Reach 2 **Bite** it can use, which deals immediate and necrotic
 damage (save ends), with a weakness aftereffect (save ends).
@@ -149,3 +160,5 @@ the more evil or ambitious nagas might do.
 
 I like nagas! Their lore has plenty of openings for interactions more complex
 than a fight to the death, and they have a nice mechanical flavor.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
