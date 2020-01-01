@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Dragonborn are a 4e original! The name appears in 3.x, but it was used for a
 different concept there. They're introduced as a PC race in the Player's
 Handbook, and in this entry we get stats for them as possible opposition for a
@@ -153,3 +155,5 @@ unchanged for 5th edition.
 
 The specific stat blocks here work well enough, and I particularly like the
 soldier and the champion (if its damage is fixed).
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

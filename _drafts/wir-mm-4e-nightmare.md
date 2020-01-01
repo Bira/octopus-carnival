@@ -6,6 +6,14 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-nightmare.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 In the real world, a nightmare is a bad dream. In D&D it's a bad pun that
 nevertheless became somewhat iconic. They're only in the Monster Manual.
 
@@ -22,8 +30,8 @@ nightmare to agree to work as a mount involves defeating it in combat and making
 it choose between service and death. Therefore, having a nightmare of your own
 is a sign that you're a badass in addition to being an edgelord.
 
-Though they are native to the shadowfell, their high resistance to fire and
-general appearance make me think they have something of Hell in them as
+Though they are native to the Shadowfell, their high resistance to fire and
+fiery appearance make me think they have something of Hell in them as
 well.
 
 ## The Numbers
@@ -37,7 +45,7 @@ Nightmares have 20 fire resistance, and get +2 to AC against opportunity
 attacks. Their mount trait is **Hell's Ride**, which grants 20 fire resistance
 to the rider.
 
-Nightmares fight in melee with their flame-wreathed **hooves**, which to a bit
+Nightmares fight in melee with their flame-wreathed **hooves**, which do a bit
 of physical damage and ongoing fire damage (save ends). Their special attack is
 **Hooves of Hell** (recharge 5-6), in which they run the speed and leave a
 10-foot tall wall of fire in their wake. The wall lasts for a turn and deals 10
@@ -47,8 +55,9 @@ makes this move also takes the same damage.
 I imagine a nightmare has little reason to stand still while Hooves of Hell is
 charged. It will play Fire Tron with the PCs for as long as it can, only
 stopping to kick someone while it waits for the power to recharge. And unlike a
-Tron bike it can run through its own walls just fine. A whole pack of them would
-be, well, a nightmare to fight for PCs who aren't resistant to fire.
+Tron bike it can run through its own walls just fine, even with a rider. A whole
+pack of them would be, well, a nightmare to fight for PCs who aren't resistant
+to fire.
 
 ## Sample Encounters and Final Impressions
 
@@ -69,3 +78,5 @@ cause those 10 fire damage.
 Despite the somewhat punny name, nightmares are cool. An evil knight type should
 have an evil mount to go with it, and evil fire-horses are one of the classics
 (the other being some kind of skeleton or wyvern).
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

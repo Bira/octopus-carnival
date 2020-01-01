@@ -97,6 +97,7 @@ After this, we get right on the monsters:
   - [Displacer Beasts][58]
   - [Doppelganger][60]
   - [Dracolich][59]
+  - [Dragonborn][61]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -158,3 +159,4 @@ After this, we get right on the monsters:
 [58]: {{ "/2019/12/23/displacer-beast.html" | relative_url }}
 [59]: {{ "/2019/12/27/dracolich.html" | relative_url }}
 [60]: {{ "/2019/12/24/doppelganger.html" | relative_url }}
+[61]: {{ "/2020/01/01/dragonboth.html" | relative_url }}
