@@ -39,7 +39,7 @@ also handle trickier foes with your wizardly spells.
 **Secondary Characteristics**: Damage 1d/2d-1; BL 16.9kg (17 lbs); HP 13; Will
 12; Per 12; FP 13; Basic Speed 6.00 {-10}; Basic Move 6 {0}.
 
-**Advantages**: Born War Leader 1 {5}; Magery 3 {35}; _and_ Weapon Channeling
+**Advantages**: Born War Leader 1 {5}; Magery 3 {35}; Weapon Channeling
 {1}. &bull; A further 20 points chosen from [Archmagic][2] abilities or ST +1 or
 +2 {10/level}, DX +1 {20}, IQ +1 {20}, HT +1 or +2 {10 or 20}, HP +1 to +3
 {2/level}, FP +1 to +5 {3/level}; Born War-Leader 2-4 {5/level}, Combat Reflexes
@@ -95,7 +95,7 @@ can channel through their weapons or shields (such as Shocking Touch or Death
 Touch), or cause damage over an area that doesn't depend on resistance
 rolls. Spells such as Affect Spirits also come in handy for insubstantial foes.
 
-Mystic Knigs who favor their spells should increase either IQ or Magery with
+Mystic Knights who favor their spells should increase either IQ or Magery with
 discretionary advantage points. They might also wish to spend 10 of their points
 reserved for spells in an additional level of Magery. Adding an Energy Reserve
 or extra FP is always useful, as well. Those who wish to emphasize their martial
@@ -197,6 +197,6 @@ Missiles as appropriate.
 [3]: https://bira.github.io/octopus-carnival/gurps/2016/10/18/characters-part-3.html
 
 [^1]: Multiplied by self-control number; see p. B120.
-[^2]: +2 from Magery.
+[^2]: +3 from Magery.
 [^3]: +1 from Born War Leader.
 [^4]: Or -10 in generic Dungeon Fantasy.

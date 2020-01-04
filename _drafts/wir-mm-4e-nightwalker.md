@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-nightwalker.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 I think Nightwalkers have been in the game since 3e - at least, that's when I
 first saw them along with other "Night-something" high level undead. Here,
 they're only on the Monster Manual.
@@ -51,7 +62,8 @@ The nightwalker's basic attack is a Reach 2 **slam** that does some physical
 damage plus bonus cold and necrotic damage. Once per round as a minor action
 they can use a **Void Gaze** (close Blast 5 vs Will) which does a bit of
 necrotic damage, pushes the targets 4 squares, and give them a -2 penalty to all
-defenses (save ends). This is _not_ a fear effect.
+defenses (save ends). This is _not_ a fear effect, so protection from fear
+doesn't work against it.
 
 Once per encounter, it can use the dreaded **Finger of Death** spell (ranged 5
 vs. Fortitude). This can only be used against a bloodied target, but if it hits
@@ -78,3 +90,5 @@ indistinct shapes were a lot scarier than the thing pictured here. I can see why
 the crawlers and wings didn't make it here - they were basically the same
 monster with different shapes and levels. It would be relatively easy to
 homebrew them back into the game.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
