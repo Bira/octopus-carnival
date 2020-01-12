@@ -29,8 +29,9 @@ employ their great strength, such as tree clubs and big rocks.
 You might be thinking this sounds a bit similar to the description for hill
 giants that we already covered, and you'd be right. The main differences between
 them is that hill giants are bigger, smarter, less bestial-looking and more
-technologically developed, in a neolithic vs. paleolithic way. It also feels
-like it's easier to parley with hill giants than with ogres.
+technologically developed, in a neolithic vs. paleolithic way. Hill giants have
+some agriculture and built villages/steadings of their own. It also feels like
+it's easier to parley with hill giants than with ogres.
 
 Despite their strength, ogres are easily recruited into service by monsters who
 are stronger or more numerous than they are. This usually happens through a
@@ -93,8 +94,8 @@ Despite being 2 levels stronger than the Vault ogre, the vagaries of the early
 math make this one have the same attack bonus and damage. The only difference in
 their basic stats are the 21 extra HP and defenses 1 point higher. You can still
 have that not-quite-boss fight using the Ogre Savage as written, only you might
-only want to use one of them backed up by a troupe of weaker minions. Their lack
-of ranged attacks might mitigate their extra power depending on your party
+want to use one of them backed up by a troupe of weaker minions. Their lack of
+ranged attacks might mitigate their extra power depending on your party
 composition.
 
 ### Ogre Hunter (MV)
@@ -118,7 +119,8 @@ Aside from being level 8 with 91 HP, this is pretty much the same monster as the
 Ogre Hunter above. Its damage is lower due to the math bug, Hurling Charge is an
 encounter power that always allows two attacks, and it lacks Clear the
 Ground. It also has a **Skirmish** trait that gives it a damage bonus on any
-turn where it moves more than 4 squares.
+turn where it moves more than 4 squares. I think it's safe to say it has been
+entirely superseded by the MV Hunter.
 
 ### Ogre Mercenary (MV)
 

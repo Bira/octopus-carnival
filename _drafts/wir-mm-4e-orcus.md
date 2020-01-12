@@ -1,0 +1,264 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Orcus"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Orcus has been in the game since at least AD&D 1st Edition, and is the strongest
+monster in the 4e Monster Manual. He is not in the Monster Vault.
+
+## The Lore
+
+Orcus is the known by many titles, such as the Prince of Undead, Demon Lord of
+Undeath, and Blood Lord. He's a Demon Lord, which is not a formal title but a
+terse way of saying Orcus is one of the strongest demons in all of the Abyss,
+powerful enough to challenge the gods. Orcus wants to destroy the gods
+themselves, particularly the Raven Queen so he can usurp her dominion over
+Death.
+
+Orcus hates all life to an even greater extent than your average demon. He can't
+stand to be near anything living, and even his demon servitors are undead. His
+domain is named Thanatos and covers an entire layer of the Abyss, being
+predictably composed of an endless sucession of mausoleums, graveyards, dismal
+moors, and other lifeless corpse-filled places.
+
+The demon lord himself seems to be stuck somewhere between life and undeath, as
+his corpulent form seems either alive but diseased, or undead depending on which
+parts you look at. He wields a heavy mace with a haft of ruby-studded obsidian
+and a head made from a gigantic skull, a weapon known as the _wand of
+Orcus_. There are multiple stories about the origin of the skull. Some say it
+belonged to a noble and just god, others to a mortal hero (in which case it was
+magically enlarged). In either case there is nothing of that person's good left
+inside. Those killed by the Want rise as undead loyal to Orcus.
+
+Orcus's main stronghold is Everlost, an obsidian palace at the center of
+Thanatos built over a bottomless chasm whose walls are completely covered in
+crypts and mausoleums. He also shares the layer with his Exarchs, lieutenants
+imbued with a shard of his power. One example is Dorensain the Ghoul King, who
+presides over ghouls and cannibalism and lives in a section of Thanatos named
+the White Kingdom.
+
+There are many cults to Orcus in the world, whose membership consists of people
+who want to be "rewarded" with undeath, or who want to kill the world for other
+reasons. These cults tend to be a lot subtler than those of Yeenoghu or
+Baphomet, who also got name-checked in this book. They gather in secret in
+places like graveyards, and do things like human sacrifice, blood-drinking, and
+covertly spreading disease. They don't see undeath itself as holy, but as a tool
+to help with the goal of extinguishing all life. Every cultist aims to become
+some kind of powerful undead like a royal mummy, death knight, vampire, or
+lich. Most don't manage, of course, but they consider even being turned into a
+skeleton or zombie after death to be a good service to their demon master.
+
+The most powerful among Orcus' priesthood are given the knowledge to summon as
+Aspect of Orcus, a miniature version of the demon lord himself created from his
+power. Aspects have no mental link of any kind to the original, though they have
+the same personality and goals. They usually disappear when the task for which
+they were conjured is done.
+
+## The Numbers
+
+This entry has a lot of related stat blocks, and we'll look at them in order of
+level.
+
+### Crimson Acolyte
+
+Any of the stat blocks we already saw for humans or others could work as a
+cultist, but this one has some Orcus-specific flavor. Crimson acolytes are
+humans, and therefore Medium Natural Humanoids. They're Level 7 Skirmishers with
+76 HP. They wear leather armor.
+
+The acolyte wields a **scythe** in combat, which does a mix of physical and
+necrotic damage and has a +2 attack bonus against bloodied targets. It also
+marks them as a total edgelord.
+
+They also have an ability called **Crimson Path**, an at-will minor action that
+allows them to shift 1 square (2 when bloodied).
+
+Their tactics are simple: use Crimson Path to get into flanking positions and
+scythe away, preferring bloodied characters as targets. The scythe's damage is
+only 3 points short of where it should be, so fixing it is easy.
+
+### Deathpriest of Orcus
+
+Deathpriests are Medium Natural Humanoids (usually humans) and Level 9
+Controllers (Leaders) with 96 HP. They wear mail, and have speed 5. They also
+project an aura called **Death's Embrace**, which has a radius of 10 and
+inflicts a -2 penalty to any death saves that happen inside.
+
+Deathpriests start fighting at range using **Rays of Black Fire** (Ranged 10
+vs. Reflex) that do fire and necrotic damage and grant an ally in sight a +2
+bonus to its next attack. They really want to get right into the fray, though,
+so that they can use their **Dark Blessing** (Close Burst 2 vs Fortitude). This
+does necrotic damage and pushes all enemies caught in the burst 1 square, and
+gives all allies a +2 bonus to AC until the end of the encounter. After they
+spend their blessing, they'll use **mace** attacks that do a mix of physical and
+necrotic damage.
+
+The deathpriest's damage is a full 9 points less than it should be, and really
+needs a fix.
+
+### Deathprest Hierophant
+
+This is likely Orcus' most powerful living agent in any given campaign world,
+and well on the way to becoming a lich or something equivalent. It's a Level 21
+Elite Controller with 382 HP.
+
+The hierophant projects an **Aura of Decay** out to 5 squares, which inflicts -2
+to all defenses on any living enemies inside. At the time of writing this was
+the same as saying "all enemies", but by the end of 4e we had like three
+different ways of making PC vampires, so they'd be immune.
+
+The hierophant's most powerful attack is **Word of Orcus** (close burst 5
+vs. Fortitude; recharge 6), which does necrotic damage and stuns (save
+ends). Any undead allies in the burst also regain 15 HP. If that's not charged,
+there's the **Word of Death** (Ranged 10 vs. Will; recharge 4-6) which does
+psychic damage and dazes (save ends). And if neither is charged there's the good
+old **mace** which does physical damage and ongoing necrotic damage (save ends).
+
+The frequent dazes and stuns are pretty dangerous, but the hierophant's damage
+is a full 20 points behind where it should be for all attacks except for the
+mace, which is "just" 10 points behind.
+
+### Aspect of Orcus
+
+The Aspect of Orcus is a Large Elemental Humanoid (Demon), and a Level 24 Elite
+Brute with 560 HP. It has darkvision and trained Perception. It's immune to
+poison and disease, has 20 necrotic resistance, and 10 variable resistance that
+it can switch 3 times per encounter. It runs at speed 6 or flies at speed 8
+(clumsy).
+
+The Aspect projects a **Lesser Aura of Death** out to 10 squares. Enemies caught
+inside take 5 necrotic damage, or 10 if the Aspect is bloodied. It fights with a
+**Skull Mace** that's likely a lesser copy of the Wand: a hit deals a
+disappointing amount of physical damage and weakens (save ends).
+
+More dangerous is the **Tail Lash** the Aspect can use on any enemy that moves
+or shifts to a square adjacent to it, as a reaction. This does a bit more damage
+than the mace, and knocks the target prone.
+
+After all the hype in the lore section, I find the Aspect of Orcus to be a bit
+of a disappointment. I imagine it works well as a "Summon" when backed up by a
+hierophant and high-level undead. If Orcus himself sends out a lieutenant to do
+his work, though, he's going to send a balor or an atropal.
+
+If you plan to use the Aspect, fixing its damage is crucial, as it's 25 points
+smaller than it should be.
+
+### Dorensain, Exarch of Orcus
+
+The Ghoul King looks like, well, a ghoul, but one that walks upright and is
+dressed in what passes for elegant finery in his kingdom: a coat made of human
+flesh over leather armor that's also surely made from people. A crown of bones
+rests on his head, and he wields a staff named Toothlust, made from somebody's
+spine and teeth.
+
+Dorensain is a Medium Natural Humanoid (Undead) and a Level 27 Elite Skirmisher
+with 508 HP. He has super-high Initiative, trained Perception, and
+darkvision. Like the Aspect above, he's immune to disease and poison and has 20
+necrotic resistance. He also has 10 radiant vulnerability. He runs at speed 8.
+
+He fights with **Toothlust** in combat, and the bites of that weapon deal
+immediate and ongoing physical damage (save ends). That fine coat is the **Cloak
+of Mouths**, whose bites do physical damage and slow (save ends). You know
+you're looking at a sophisticated ghoul when he uses utentils to eat.
+
+Dorensain can sometimes pull off a **Ravenous Frenzy** maneuver (recharge 6),
+which allows him to move his speed without provoking opportunity attacks and
+make a Cloak of Mouths attack on anyone he passes by. He can also teleport 12
+squares as a move action (recharge 4-6).
+
+The Ghoul King is difficult to pin down, and apparently good at keeping his
+enemies slowed and vulnerable to whatever honor guard he travels with.
+
+### Orcus
+
+The Big Goat Cheese himself is a Gargantuan Elemental Humanoid (Demon) and a
+Level 33 Solo Brute with 1525 HP! As I said above, he is the highest-level
+monster in the entire Monster Manual.
+
+As expected, he has darkvision and trained Perception. His ground speed is 6,
+and he flies at speed 10 and teleports at speed 6, at-will. Orcus is immune to
+disease, poison and _necrotic damage_, and has the usual demonic Variable
+Resistance 10 (3/encounter). He is not particularly vulnerable to radiant
+damage. And then there are the auras.
+
+The first is the **Aura of Death**, which is 20 squares wide and deals 10
+necrotic damage to enemies caught inside. This increases to 20 while Orcus is
+bloodied.
+
+The second is **The Dead Rise** (aura 6), which turns all covered squares into
+difficult terrain for enemies, even flying ones! I guess it's due to all the
+grasping skeletal hands bursting out of the ground and tormented specters flying
+around. Any dead creature inside, except those killed by the Wand of Orcus, rise
+as abyssal ghoul myrmidons under Orcus' control.
+
+Why are creatures killed by the wand exempt from this? Because due to a little
+trait called **Master of Undeath**, victims of the Wand rise as _dread wraiths_
+at the start of Orcus' next turn if they're still dead by then.
+
+The **Wand of Orcus** itself is not all that impressive. It's Reach 4 and does a
+mix of physical and necrotic damage on a hit. You should just about double its
+damage to get it to expected levels.
+
+A bit more dangerous are Orcus' two recharge attacks. **Necrotic Burst** (close
+burst 10 vs. Fortitude; recharge 6) is very accurate, does necrotic damage and
+heals all undead allies for 20 HP. **Touch of Death** (Melee 4 vs. Fortitude;
+recharge 6) is the big one: a hit reduces the target to 0 HP, bypassing any and
+all resistances. A miss deals damage equal to the target's bloodied value. A
+couple offense good whacks with the fixed Wand after hitting with this, and you
+have a brand new dread wraith!
+
+When an enemy moves of shifts to a square adjacent to Orcus, he can use a **Tail
+Lash** as a reaction, doing a bit less damage than the wand, stunning the target
+for a turn and knocking them prone.
+
+Orcus suffers a bit from same problems that plagued 3e boss monsters, which are
+that he has few ranged options and is suceptible to a bunch of conditions that
+limit his actions. Those are less of a problem than they would have been in 3e,
+but you still might want to give him something like a dragon's Action Recovery
+ability.
+
+## Sample Encounters and Final Impressions
+
+We have a whole bunch!
+
+- Level 9: 1 deathpriest, 4 crimson acolytes, 2 battle wights. Your typical
+  cult, with living and undead members.
+
+- Level 22: 1 hierophant, 5 abyssal ghoul myrmidons (minions), 2 rot harbingers,
+  1 rot slinger. The Hierophant and his honor guard.
+
+- Level 24: 1 hierophant, 3 blood fiends, 1 aspect of Orcus. An alternate
+  configuration, and yet another indication that blood fiends should really be
+  undead demons instead of abominations.
+
+- Level 28: Dorensain, 2 dreat wraith, 2 epic liches, and 10 abyssal ghoul
+  myrmidons.
+
+- Level 34: Orcus, 2 atropals, and 8 lich vestiges. What, you thought the big
+  solo was going to fight alone?
+
+Orcus and his related monsters suffer from a lot of the problems endemic to
+the early Monster Manual, with the epic stat blocks getting hit the hardest as
+usual. However, those are all eminently fixable.
+
+My favorite thing about this whole entry is that it's here at all! My impression
+with AD&D 2nd Edition, and with 3.x, was that they viewed threats of this
+caliber as something the PCs weren't expected to fight and win. They either had
+no stats, or they had overpowered numbers calculated to be beyond the reach of
+even the most powerful group. This impression is probably also colored by my
+memories of the largely oppressive and adversarial nature of the DMs of the
+time.
+
+Orcus is, well, still quite overpowered, but in a way that's supposed to make
+him a suitable "last boss" for a campaign. Sure, he has an attack that reduces
+people to 0 HP and powers that turn dead characters into epic undead under his
+command... but epic PCs are demigods who can resurrect once per day on their
+own, and epic leader PCs are up to the challenge of keeping their buddies from
+dying at all.
+
+This feels right. If I manage to reach level 30 in a campaign, I want to end it
+with a bang by taking out one of the big name canonical demon lords. And when
+the next campaign starts, I want them to _stay dead_.
