@@ -6,10 +6,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-oni.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Oni are inspired by Japanese mythology and have been in the game since the
-beginning. However this is the first time in official D&D history in which
-they've been called by this name. Before, they were known as "ogre mages". Here,
-they are only in the Monster Manual.
+beginning. However I believe this is the first time in official D&D history in
+which they've been called by this name. Before, they were known as "ogre
+mages". Here, they are only in the Monster Manual.
 
 
 ## The Lore
@@ -28,8 +36,7 @@ turn themselves to mist, in addition to a repertoire of other spells and rituals
 that match their preferred tactics.
 
 The typical oni sees itself as a mighty lord deserving of respect, and is quite
-vengeful to anyone whom it sees as not giving it that respect. Like with the
-efreets, there seems to be no such thing as an oni commoner. Oni measure their
+vengeful to anyone whom it sees as not giving it that respect. Oni measure their
 status by the wealth they've accumulated, along with the number and quality of
 the slaves they own. They build hidden strongholds to live in and surround
 themselves with all manner of luxury, and go out to enact their plans and/or
@@ -96,15 +103,18 @@ The sample encounters each feature one oni and a variety of other angry
 humanoids like ogres, orcs and trolls, which illustrate well who it is that the
 oni usually enslave. Depending on the individual in question, they might do it
 through overt conquest, or by disguising themselves as an ogre or orc and taking
-over the tribe that way.
+over the tribe that way. As accomplished mages, oni might also be surrounded by
+summoned creatures or other more exotic monsters.
 
 I like oni! They work well as fairytale horrors despite their Natural origin,
 and are smart enough to be used in situations where the party is forced to
 negotiate with them. They're one more type of monster that might be in
 possession of a secret or ritual the PCs need to avert a worse evil.
 
-Mechanically, they do need an update. Like all mid- or high- level MM monsters,
+Mechanically, they do need an update. Like all mid- or high- level MM elites,
 they need a damage boost and something equivalent to the ability to make two
-basic melee attacks per action. I'd also increase the mage's sneak attack
-damage to something more than a piddly 1d6, and probably make it apply to the
-spells as well.
+basic melee attacks per action. I'd also increase the mage's sneak attack damage
+to something more than a piddly 1d6, and probably make it apply to the spells as
+well.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

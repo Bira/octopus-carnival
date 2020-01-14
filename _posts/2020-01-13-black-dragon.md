@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Black dragons are the sneakiest, and gothiest, of the chromatics. Their
 favorite environment is a dismal dark swamp beneath whose fetid waters they can
 hide to ambush their victims. Gloomy forests, acidic lakes under dank mountain
@@ -168,3 +170,6 @@ Elder black dragons sound like they could hang out with aboleths, since their
 lairs could conceivably reach into the depths of the Underdark. The question
 then becomes, who is using who? Clever GMs can find a way to make the answer be
 "Both".
+
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
