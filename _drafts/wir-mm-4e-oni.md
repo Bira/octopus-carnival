@@ -19,7 +19,6 @@ beginning. However I believe this is the first time in official D&D history in
 which they've been called by this name. Before, they were known as "ogre
 mages". Here, they are only in the Monster Manual.
 
-
 ## The Lore
 
 If I recall correctly, the name "oni" translates roughly into "ogre"! The

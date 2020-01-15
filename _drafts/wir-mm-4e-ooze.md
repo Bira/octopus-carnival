@@ -22,7 +22,7 @@ they eat just about any type of organic matter by dissolving it with their
 acidic secretions.
 
 As far as the inhabitants of 4e's implied setting are concerned, oozes are just
-a fact of life, like animals or plants. They've natural creatures that have been
+a fact of life, like animals or plants. They're natural creatures that have been
 around forever and everyone knows they exist. Learning how to keep your basement
 or root cellar ooze-free is probably a basic life skill.
 
@@ -30,7 +30,7 @@ The most sensible advice for any regular person who spots an ooze is to turn
 around and leave. This is complicated by the fact that sometimes these creatures
 wait in ambush. Also, adventurers are neither regular nor sensible, and they
 like to delve into exactly the sort of place oozes thrive in, so they end up
-running into these creatures with much more frequency than civilians.
+running into these creatures much more often than civilians.
 
 Oozes are drawn to heat and movement, so they often try to eat living creatures,
 but they don't have a preference for them over any other organic matter and can
@@ -45,14 +45,16 @@ wizard.
 
 ## The Numbers
 
-Oozes are Natural Beasts of varying size, with the Blind and Ooze keywords. As
-you might expec, they're blind and have some sort of blindsight or tremorsense
-they use to perceive their surroundings.
+Oozes are Natural Beasts of varying size, with the Blind and Ooze keywords. They
+always have some sort of blindsight or tremorsense they use to perceive their
+surroundings.
 
 The Monster Vault adds an **Ooze** trait that all of its versions have, which
 allows them to ignore all penalties for squeezing. Normally, while a character
 squeezes past an opening smaller than themselves, they move at half speed, grant
-combat advantage, and attack at a -5 penalty. Oozes ignore all of that.
+combat advantage, and attack at a -5 penalty. Oozes ignore all of that. I think
+the Ooze keyword implies the same rules for the MM oozes, it's just less
+explicit.
 
 ### Ochre Jelly (Both)
 
@@ -73,9 +75,9 @@ have any of the conditions that applied to the original.
 If the fight ends with the two jellies alive (e.g., if the PCs ran away or
 died), they eventually recombine.
 
-A pair of ochre jellies makes is a classic mini-boss fight for level 1
-adventurers! And you could easily make higher level versions that start out Huge
-and split more often to challenge more powerful parties.
+A pair of ochre jellies makes a nice mini-boss fight for level 1 adventurers!
+And you could easily make higher level versions that start out Huge and split
+more often to challenge more powerful parties.
 
 ### Green Slime (MV)
 
@@ -136,7 +138,7 @@ climb speed 3.
 
 Black puddings are super-aggressive. The pudding's **Slams** do quite a bit of
 acid damage, and the thing can shift up to its speed before or after the
-attack. They're more like lunges, really.
+attack. They're more like lunges than slams.
 
 The pudding can also **engulf** (close blast 3 vs. Fortitude), which does the
 same damage as a slam to everyone in the area and grabs them (DC 16). The
