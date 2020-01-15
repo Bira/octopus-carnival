@@ -16,6 +16,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Compared to the other chromatics, white dragons are stupid and kinda
 runty. They're still dragons, though, so adventurer parties should take them a
 little more seriously than their cousins do.
@@ -194,3 +196,5 @@ The two sample encouinters in the MM are:
 - Level 11, an adult white dragon and a trio of galeb duhrs (humanoid earth
   elementals). This is likely more of an accidental symbiotic relationship than
   a proper organization.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
