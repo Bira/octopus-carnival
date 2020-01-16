@@ -6,6 +6,14 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-orc.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Orcs have been in D&D since the beginning, featuring in the Humanoid Power
 Ladder as the 1HD Humanoid. They're inspired by Tolkien's orcs, and are present
 both in the Monster Manual and the Vault.
@@ -20,7 +28,7 @@ Humanoid. They worship Gruumsh, the one-eyed Chaotic Evil god of slaughter and
 destruction, whose commandments result in behavior that's almost
 indistinguishable from that of a Yeenoghu worshipper. Being a god, Gruumsh
 technically doesn't want to see the world destroyed, but the difference is lost
-on the poor sods on the receiving end of a raid by either people.
+on the poor sods on the receiving end of a raid by either set of worshippers.
 
 Orcs organize themselves in large tribes who will usually move into a region,
 take over an empty town (possibly after emptying it themselves) or natural cave
@@ -31,17 +39,19 @@ liking to a given home base and order the tribe to settle in it, which means
 those raiding parties will range much farther out. Their preferred terrain are
 hills and mountains, which means they end up fighting dwarves a lot of the time.
 
-Orcs take slaves in their raids, but never manage to keep them for long. They're
-gleefully cannibalistic towards anyone not of their tribe, even other orcs. They
-also routinely work alongside ogres, because it's super easy for them to bully
-ogres into service.
+Orcs take slaves in their raids, but never manage to keep them for long because
+they always end up working them to death in short order. They're also gleefully
+cannibalistic towards anyone not of their tribe, even other orcs. They also
+routinely work alongside ogres, because it's super easy for them to bully ogres
+into service.
 
 Most GMs I know tend to tone down their campaign's portrait of orcs from the
 unrelenting badness described above. Eberron shows them in a much better light,
 having not just one but _two_ different Lawful Good orcish cultures dedicated to
 guarding against aberrant and demonic invasions (respectively). Even in old D&D
 they were not always the opposition: hiring orcish mercenaries was a common
-thing for adventurers to do.
+thing for adventurers to do, and it wasn't always assumed that the orc
+encampments you found in a given area were hostile and there to be raided.
 
 The numbers below cover the fanatical Gruumsh worshipper kind of orc.
 
@@ -58,7 +68,7 @@ recover 25% of their HP. Most MM orcs are also trained in Endurance.
 The Monster Vault makes the speed bonus less universal, and replaces Warrior's
 Surge with **Savage Demise**, which allows orcs to immediately _take a standard
 action_ when they drop to 0 HP. This is stronger than just making a basic
-attack, because allows them to use special attacks or even to charge!
+attack, because allows them to charge or use special attacks.
 
 ### Orc Drudge (MM)
 
@@ -141,7 +151,7 @@ addition to Endurance, they're also trained in Religion and Intimidate.
 These priests fight with **spears** in melee, and have a variety of spells for
 ranged combat. **Eye of Wrath** (Ranged 5 vs. Will) is a minor action fear
 effect that inflicts -4 AC for a turn on a hit. **Swift Arm of Destruction**
-(Ranged 5; recharge 5-6) allows an orc within range to make a melee basic attach
+(Ranged 5; recharge 5-6) allows an orc within range to make a melee basic attack
 as a free action and regain 15 HP on a hit or 5 on a miss. And **Chaos Hammer**
 (area burst 1 within 10 vs. Reflex; encounter) does force damage and knocks
 targets prone on a hit. On a miss it still does half damage.
@@ -152,7 +162,7 @@ watered-down Savage Demise, allowing a free melee basic attack when the orc hits
 
 Chaos Hammer is a good fight-opener: it's not a friendly burst, but if the Eye
 can use it before its buddies charge in, they'll have an easier time hitting the
-prone PCs. After that it's mostly a matter of keeping Eye of Terror on as many
+prone PCs. After that it's mostly a matter of keeping Eye of Wrath on as many
 PCs as possible and using Swift Arm on non-minion orcs. This orc's healing
 abilities make it a priority target, since it can make the fight a lot harder by
 keeping the other orcs up for longer.
@@ -214,6 +224,9 @@ miss, the attack does half damage and the shaman slides the enemy 1 square.
 
 And that's not all! The whirwind persists for a turn as a zone that deals 10
 thunder and lightning damage to anyone caught inside.
+
+The shaman fights with a **scimitar** in melee, but only if it has no other
+choice.
 
 After the shaman is first bloodied, it starts **Wind Walking** until the end of
 the encounter, which gives it a flight speed of 8 but requires it to land at the
@@ -279,3 +292,5 @@ jealous deity who demands exclusive worship even in a polytheistic setting, and
 requires his worshippers to follow this violent raiding lifestyle. Sure, there
 are orcs in there, but a little signature trait swapping you could have humans,
 dwarves, and even elves filling the same role.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
