@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Green dragons are sly manipulators, which makes me think that the first sign
 you'll get that one has decided to lair near your village is when it invites you
 to negotiate its tribute. They like dense forests and places with connections to
@@ -169,7 +171,8 @@ who lie, but it at least makes for some interesting banter.
 
 Adult or older green dragons could conceivably end up joining a fey court. So
 your party arrives to fight the dragon extorting the nearby kingdom and find
-themselves drawn into a kingdom in the Feywild where the dragon is a respected
-noble with enough connections to make itself immune to a direct assault. Can
-they convince the other courtiers that the beast is a villain? Would they care
-if it was?
+themselves drawn into a Feywild court where the dragon is a respected noble with
+enough connections to make itself immune to a direct assault. Can they convince
+the other courtiers that the beast is a villain? Would they care if it was?
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

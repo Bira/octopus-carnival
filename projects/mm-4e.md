@@ -98,6 +98,10 @@ After this, we get right on the monsters:
   - [Doppelganger][60]
   - [Dracolich][59]
   - [Dragonborn][61]
+  - Introduction to [Dragons][62]
+    - [White Dragon][63]
+    - [Black Dragon][64]
+    - [Green Dragon][65]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -159,4 +163,8 @@ After this, we get right on the monsters:
 [58]: {{ "/2019/12/23/displacer-beast.html" | relative_url }}
 [59]: {{ "/2019/12/27/dracolich.html" | relative_url }}
 [60]: {{ "/2019/12/24/doppelganger.html" | relative_url }}
-[61]: {{ "/2020/01/01/dragonboth.html" | relative_url }}
+[61]: {{ "/2020/01/01/dragonborn.html" | relative_url }}
+[62]: {{ "/2020/01/12/dragons.html" | relative_url }}
+[63]: {{ "/2020/01/14/white-dragon.html" | relative_url }}
+[64]: {{ "/2020/01/13/black-dragon.html" | relative_url }}
+[65]: {{ "/2020/01/16/green-dragon.html" | relative_url }}
