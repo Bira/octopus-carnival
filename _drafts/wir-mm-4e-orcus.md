@@ -22,7 +22,8 @@ Orcus hates all life to an even greater extent than your average demon. He can't
 stand to be near anything living, and even his demon servitors are undead. His
 domain is named Thanatos and covers an entire layer of the Abyss, being
 predictably composed of an endless sucession of mausoleums, graveyards, dismal
-moors, and other lifeless corpse-filled places.
+moors, and other lifeless corpse-filled places. I'm guessing that where the
+Shadowfell is moody gothic poetry, Thanatos is death metal.
 
 The demon lord himself seems to be stuck somewhere between life and undeath, as
 his corpulent form seems either alive but diseased, or undead depending on which
@@ -31,14 +32,14 @@ and a head made from a gigantic skull, a weapon known as the _wand of
 Orcus_. There are multiple stories about the origin of the skull. Some say it
 belonged to a noble and just god, others to a mortal hero (in which case it was
 magically enlarged). In either case there is nothing of that person's good left
-inside. Those killed by the Want rise as undead loyal to Orcus.
+inside. Those killed by the Wand rise as undead loyal to Orcus.
 
 Orcus's main stronghold is Everlost, an obsidian palace at the center of
 Thanatos built over a bottomless chasm whose walls are completely covered in
 crypts and mausoleums. He also shares the layer with his Exarchs, lieutenants
 imbued with a shard of his power. One example is Dorensain the Ghoul King, who
 presides over ghouls and cannibalism and lives in a section of Thanatos named
-the White Kingdom.
+the White Kingdom (because it's entirely made of bones).
 
 There are many cults to Orcus in the world, whose membership consists of people
 who want to be "rewarded" with undeath, or who want to kill the world for other
@@ -54,8 +55,8 @@ skeleton or zombie after death to be a good service to their demon master.
 The most powerful among Orcus' priesthood are given the knowledge to summon as
 Aspect of Orcus, a miniature version of the demon lord himself created from his
 power. Aspects have no mental link of any kind to the original, though they have
-the same personality and goals. They usually disappear when the task for which
-they were conjured is done.
+the same personality. They usually disappear when the task for which they were
+conjured is done.
 
 ## The Numbers
 
@@ -94,7 +95,7 @@ so that they can use their **Dark Blessing** (Close Burst 2 vs Fortitude). This
 does necrotic damage and pushes all enemies caught in the burst 1 square, and
 gives all allies a +2 bonus to AC until the end of the encounter. After they
 spend their blessing, they'll use **mace** attacks that do a mix of physical and
-necrotic damage.
+necrotic damage, or retreat and go back to using their rays.
 
 The deathpriest's damage is a full 9 points less than it should be, and really
 needs a fix.
@@ -141,7 +142,7 @@ than the mace, and knocks the target prone.
 After all the hype in the lore section, I find the Aspect of Orcus to be a bit
 of a disappointment. I imagine it works well as a "Summon" when backed up by a
 hierophant and high-level undead. If Orcus himself sends out a lieutenant to do
-his work, though, he's going to send a balor or an atropal.
+his work, though, he's going to send a balor, an atropal, or Dorensain.
 
 If you plan to use the Aspect, fixing its damage is crucial, as it's 25 points
 smaller than it should be.
@@ -162,7 +163,7 @@ necrotic resistance. He also has 10 radiant vulnerability. He runs at speed 8.
 He fights with **Toothlust** in combat, and the bites of that weapon deal
 immediate and ongoing physical damage (save ends). That fine coat is the **Cloak
 of Mouths**, whose bites do physical damage and slow (save ends). You know
-you're looking at a sophisticated ghoul when he uses utentils to eat.
+you're looking at a sophisticated ghoul when he uses utensils to eat you.
 
 Dorensain can sometimes pull off a **Ravenous Frenzy** maneuver (recharge 6),
 which allows him to move his speed without provoking opportunity attacks and
@@ -207,15 +208,15 @@ burst 10 vs. Fortitude; recharge 6) is very accurate, does necrotic damage and
 heals all undead allies for 20 HP. **Touch of Death** (Melee 4 vs. Fortitude;
 recharge 6) is the big one: a hit reduces the target to 0 HP, bypassing any and
 all resistances. A miss deals damage equal to the target's bloodied value. A
-couple offense good whacks with the fixed Wand after hitting with this, and you
+couple of good whacks with the fixed Wand after hitting with this, and you
 have a brand new dread wraith!
 
-When an enemy moves of shifts to a square adjacent to Orcus, he can use a **Tail
+When an enemy moves or shifts to a square adjacent to Orcus, he can use a **Tail
 Lash** as a reaction, doing a bit less damage than the wand, stunning the target
 for a turn and knocking them prone.
 
 Orcus suffers a bit from same problems that plagued 3e boss monsters, which are
-that he has few ranged options and is suceptible to a bunch of conditions that
+that he has few ranged options and is susceptible to a bunch of conditions that
 limit his actions. Those are less of a problem than they would have been in 3e,
 but you still might want to give him something like a dragon's Action Recovery
 ability.
