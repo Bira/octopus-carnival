@@ -102,6 +102,7 @@ After this, we get right on the monsters:
     - [White Dragon][63]
     - [Black Dragon][64]
     - [Green Dragon][65]
+    - [Blue Dragon][66]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -168,3 +169,4 @@ After this, we get right on the monsters:
 [63]: {{ "/2020/01/14/white-dragon.html" | relative_url }}
 [64]: {{ "/2020/01/13/black-dragon.html" | relative_url }}
 [65]: {{ "/2020/01/16/green-dragon.html" | relative_url }}
+[66]: {{ "/2020/01/17/blue-dragons.html" | relative_url }}

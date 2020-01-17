@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 Blue dragons are proud, vain, and like lording over lesser creatures in their
 domain. Unlike greens, they don't feel the need to stoop to sleazy extortion
 schemes - they'll personally land in the middle of your village and announce
@@ -142,3 +144,5 @@ final battle with the dragon - the approach to its lair should have a layout
 that allows the dragon to bombard the PCs while they deal with the enemies and
 traps guarding it. Periodic Lightning Burst attacks become another hazard they
 have to contend with as the blue dragon taunts them from afar.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
