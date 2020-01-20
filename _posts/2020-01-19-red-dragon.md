@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 This is it, the one you've been waiting for. The most hyped variant of the most
 hyped monster in the entire game. Red dragons have made it to the cover of the
 core books in multiple editions, and they're the ones you think about when you
@@ -133,3 +135,5 @@ MM Ancient has it. If I brought it back I'd at least also give it to the Elder.
 The Monster Vault version is better at expressing the monster's Soldier
 role. Their grabby attacks allow them to split the party up, and maybe
 carry a PC or two off if they can't escape in time.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
