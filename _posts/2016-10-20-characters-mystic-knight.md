@@ -143,10 +143,9 @@ matters. And since all magic in Gransys is wizardly in nature the Social Stigma
 Normally, the Staff enchantment doesn't work if applied to something other than
 a wand or staff. With this perk, available only to Mystic Knights, you become
 able to use melee weapons and shields with the enchantment! You must still buy
-or find items so enchanted, and you can't use them to reduce the range to a
-distant subject. They can still be used to deliver touch and Melee spells like
-standard Staffs. A block with a shield won't trigger a held Melee spell, but a
-subsequent Beat attempt _will_. So will a shield bash.
+or find items so enchanted. They can still be used to deliver touch and Melee
+spells like standard Staffs. A block with a shield won't trigger a held Melee
+spell, but a shield bash or Beat with the shield will.
 
 ## New Spells
 
@@ -156,11 +155,11 @@ lot of time when that element turns out to be required in the middle of a
 fight. This is something can try replicating here by introducing a few new
 spells.
 
-These spells can be learned by anyone who meets the prerequisites. They're an
-efficient choice when the party is composed of three or more adventurers who
-have the chance to cluster inside the affected area. GMs worried about having
-their PCs waltzing into every fight with elementally-charged weapons should
-disallow them!
+These spells can be learned by any wizardly caster who meets the
+prerequisites. They're an efficient choice when the party is composed of two or
+more adventurers who have the chance to cluster inside the affected area. GMs
+worried about having their PCs waltzing into every fight with
+elementally-charged weapons should disallow them!
 
 ### Flame Trance (Area)
 

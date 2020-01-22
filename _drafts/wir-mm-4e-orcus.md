@@ -253,13 +253,15 @@ even the most powerful group. This impression is probably also colored by my
 memories of the largely oppressive and adversarial nature of the DMs of the
 time.
 
-Orcus is, well, still quite overpowered, but in a way that's supposed to make
-him a suitable "last boss" for a campaign. Sure, he has an attack that reduces
-people to 0 HP and powers that turn dead characters into epic undead under his
+Orcus is, well, still quite powerful, but in a way that's supposed to make him a
+suitable "last boss" for a campaign. Sure, he has an attack that reduces people
+to 0 HP and powers that turn dead characters into epic undead under his
 command... but epic PCs are demigods who can resurrect once per day on their
 own, and epic leader PCs are up to the challenge of keeping their buddies from
-dying at all.
+dying at all. In fact the Big O might actually need a little boost to prevent
+stun-locking by those epic characters.
 
-This feels right. If I manage to reach level 30 in a campaign, I want to end it
-with a bang by taking out one of the big name canonical demon lords. And when
-the next campaign starts, I want them to _stay dead_.
+Mechanical details aside, this feels right. If I manage to reach level 30 in a
+campaign, I want to end it with a bang by taking out one of the big name
+canonical demon lords. And when the next campaign starts, I want them to _stay
+dead_.
