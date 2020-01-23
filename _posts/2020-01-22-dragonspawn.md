@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 Dragonspawn are weird mutants created by the application of an eldricht ritual
 to an unhatched dragon egg. The ritual mutates the embryo inside, and what
 hatches from the egg is one of these beasts. The ritual was first developed by
@@ -159,3 +161,5 @@ creatures.
 Despite the math issues, I find myself liking these monsters more than I
 expected. They're certainly a lot better than draconians, which never made much
 of an impression on me.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

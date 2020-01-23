@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-otyugh.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 Otyughs have been in the game since at least AD&D 1st Edition, and are probably
 the game's most unintentionally iconic monster. Fourth Edition leans into this
 iconic status and features them in both the Manual and the Vault.
@@ -17,14 +28,13 @@ matter. They love to hang out in dark places where such matter is plentiful,
 like fetid swamps, middens, sewers, mass graves, and so on. I think some
 editions make them sapient, but here they're mostly just animals.
 
-These beasts behave like ambush scavengers, something which you don't really
-find in the real world. They bury themselves in mounds of filth, or submerge
+These beasts behave like ambush scavengers, something which you don't find often
+in the real world. They bury themselves in mounds of filth, or submerge
 themselves in pools of tainted water and such. Their central tentacle contains
 their eyes and nostrils, so they use it to peek at their surroundings. They
 strike with their other two clawed tentacles at any unlucky creatures that pass
 by, kill them, and add them to the pile to wait until their flesh is rotten and
-good for eating. They will obviously also eat whatever rot was already there, of
-course.
+good for eating. They will also eat whatever rot was already there, of course.
 
 You can't really tame an otyugh, but lots of people use them as natural garbage
 disposals because if you put them in your middens or sewers they'll happily stay
@@ -35,17 +45,17 @@ its sewers.
 There's a small danger here, which is that if an otyugh's trash pile doesn't get
 renewed fast enough the thing will wander off in search of another. I imagine
 this isn't a problem for a sewer in active use, but an "artificial" pile meant
-to house a guardian otyugh would be subject to this.
+to house a guardian otyugh would need maintenance.
 
 Otyughs aren't very fast, but their brown mottled hides are excellent camouflage
 for their chosen habitat, their tentacles are strong and dangerous and, well,
-they smell like shit. It's hard to handle a sword when you're trying to your
-lunch in.
+they smell like shit. It's hard to handle a sword when you're trying to hold
+your lunch in.
 
 They also have a propensity to mutate, acquiring a coloration and perhaps other
 properties in line with its specific chosen environment. This makes them
-suceptible to external mutating energies as well, such as those of the Far
-Realm.
+suceptible to external mutating energies as well, such as those of the Far Realm
+(or a Cocaine Wizard's privy).
 
 ## The Numbers (Monster Manual)
 
@@ -57,7 +67,7 @@ to be.
 Otyughs are also trained in Stealth, and have a trait called **Spying Eye** for
 the eye-tentacle trick described in the Lore section which gives them a +10
 bonus to Stealth when immersed in filth. This elevates its total bonus to +18,
-making it challenging to spot even for the party radar.
+making it challenging to spot even for the party radar at equivalent levels.
 
 Its **Otyugh Stench** is an aura 1 that inflicts a -2 attack penalty on any
 living enemies inside. It will mostly attack with its **Tentacles**, which are
@@ -90,7 +100,7 @@ only contract the disease if you fail.
 This one is an update of the MM Otyugh. Still a level 7 soldier with 82 HP, it
 fights in much the same way. I'll note the differences.
 
-The damage from all of its attacks has been fixed. The **tentacles** have a
+The damage from all of its attacks has been updated. The **tentacles** have a
 fixed escape DC of 16, and the **diseased bite** deals extra damage against
 grappled targets. Spying Eye is gone as a separate trait, though the creature's
 Stealth bonus of +13 means it does still get a boost here.
@@ -148,7 +158,7 @@ Otyugh.
 
 The neo-otyugh can also used a grabbed victim as a **Body Shield** when hit by
 an attack. This isn't automatic, and requires an attack against the grabbed
-victim's Fortitude. On a success, the attack his the victim instead of the
+victim's Fortitude. On a success, the attack hits the victim instead of the
 monster.
 
 ## Sample Encounters and Final Impressions
@@ -165,3 +175,5 @@ As I said back in the introduction, to me Otyughs are an iconic part of D&D. If
 I see an otyugh in a story of any type, I know it's not just a fantasy story,
 but specifically a D&D one. So while I don't exactly find them cool, I like them
 in that capacity.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
