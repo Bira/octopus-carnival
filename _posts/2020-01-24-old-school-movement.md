@@ -71,6 +71,8 @@ modules made specifically for the DFRPG, since they tend to assume a faster
 pace.
 
 [^1]: Which is the right amount of caution for Gygaxian dungeons.
+
 [^2]: Even though the headers in its dungeon exploration section are remarkably
     similar to those of AD&D.
+
 [^3]: Divide that by 3 to get convert it to ten-foot squares.
