@@ -88,7 +88,7 @@ damage.
 
 ### Young Owlbear
 
-Essentially a regular version of the basic Owlbear, it's a Level 8 Brute with
+Essentially a non-elite version of the basic Owlbear, it's a Level 8 Brute with
 106 HP. It fights in exactly the same way, and even has the ability to make two
 attacks per turn and grab if both hit.
 
