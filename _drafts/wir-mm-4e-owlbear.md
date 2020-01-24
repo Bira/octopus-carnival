@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-owlbear.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 Owlbears have been in the game since at least BECMI, and likely since the
 beginning. As another rather popular and iconic monster, they are both in the
 Monster Manual and the Vault.
@@ -169,3 +180,5 @@ funny and even cute about the concept of a bear with an owl's head that goes
 
 Mechanically, they seem to do their job so well that the Monster Vault didn't
 change the original stat blocks at all aside from the damage update.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
