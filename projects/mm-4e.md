@@ -172,3 +172,4 @@ After this, we get right on the monsters:
 [65]: {{ "/2020/01/16/green-dragon.html" | relative_url }}
 [66]: {{ "/2020/01/17/blue-dragons.html" | relative_url }}
 [67]: {{ "/2020/01/19/red-dragon.html" | relative_url }}
+[68]: {{ "/2020/01/22/dragonspawn.html" | relative_url }}

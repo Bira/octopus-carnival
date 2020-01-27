@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure>
+  <img src="{{ "/assets/wir-mm-4e-panther.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 Panthers are real-world animals, and something like them has been in the game
 since the beginning. In 4e, they're only on the Monster Manual.
 
@@ -86,3 +97,5 @@ shadar-kai warriors.
 Panters are... okay, I guess. Their existence is a cool bit of color, but they
 don't make immediately want to use them in an encounter like other monsters here
 did.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
