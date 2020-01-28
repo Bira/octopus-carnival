@@ -72,10 +72,10 @@ Once the worm has grabbed a target, it can "worry" it with its **Clamping
 Jaws**, which has the same accuracy vs. Reflex and damage as a basic bite but
 does half damage on a miss.
 
-It can also try to **Swallo** them. This targets the Fortitude of the victim. On
-a hit, the target gets swallowed and is now inside the purple worm. The victim
-is considered dazed and restrained, and only has line of sight and effect to the
-worm. Also, no one has line of sight or effect to the victim.
+It can also try to **Swallow** them. This targets the Fortitude of the
+victim. On a hit, the target gets swallowed and is now inside the purple
+worm. The victim is considered dazed and restrained, and only has line of sight
+and effect to the worm. Also, no one has line of sight or effect to the victim.
 
 While swallowed, the victim can only make basic attacks, and takes 10 physical
 and 10 acid damage at the start of the worm's turns. The only good news here is
