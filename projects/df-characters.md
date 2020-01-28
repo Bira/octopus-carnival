@@ -31,7 +31,7 @@ elements.
 - [Argle, Half-Ogre Scout][4]
 - [Sakura, Warforged duelist][3]
 - [Broken Jar, Catfolk Martial Artist][5]
-
+- [Ser Alexa of the Flame, Human Mystic Knight][6]
 
 
 
@@ -40,3 +40,4 @@ elements.
 [3]: {{ "/2019/09/08/sakura.html" | relative_url }}
 [4]: {{ "/2019/09/10/argle.html" | relative_url }}
 [5]: {{ "/2019/10/19/broken-jar.html" | relative_url }}
+[6]: {{ "/2020/01/27/alexa.html" | relative_url }}
