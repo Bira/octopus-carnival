@@ -94,7 +94,7 @@ animals.
 The encounter is level 9: 2 spectral panthers, a dark stalker, and a pair of
 shadar-kai warriors.
 
-Panters are... okay, I guess. Their existence is a cool bit of color, but they
+Panthers are... okay, I guess. Their existence is a cool bit of color, but they
 don't make immediately want to use them in an encounter like other monsters here
 did.
 
