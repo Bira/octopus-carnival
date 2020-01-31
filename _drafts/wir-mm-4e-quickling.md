@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-quickling.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 Quicklings have been around since AD&D 1st Edition, where they appeared in the
 Monster Manual II. Here, they appear only in the Monster Manual.
 
@@ -93,3 +104,5 @@ should, but once you update them they're quite usable. The quickling's speed can
 certainly be played up for a bit of horror. "You see a quickling in the
 distance. You blink and it's right next to you, its sword already in your
 spleen."
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
