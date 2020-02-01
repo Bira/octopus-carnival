@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 Rakshasas are inspired by Indian mythology and have been in the game from the
 days of AD&D 1st Edition. In Fourth, they're in both the Monster Manual and the
 Monster Vault.
@@ -18,8 +20,8 @@ hands are also "inverted", with the palms located where the back of a human's
 hand would be and vice-versa. This looks odd, but doesn't impact their dexterity
 in any way.
 
-A rakshasa's greatest desire is to spend accumulate lots of wealth and power and
-to spend eternity surrounded by luxury and vice. They have absolutely no moral
+A rakshasa's greatest desire is to accumulate lots of wealth and power and to
+spend eternity surrounded by luxury and vice. They have absolutely no moral
 qualms when it comes to achieving these goals, of course. Rakshasas are highly
 skilled at fighting, arcane magic, and many other skills they had time to hone
 during their centuries of life.
@@ -74,13 +76,22 @@ that allows them to disguise themselves as any medium humanoid. Piercing the
 disguise requires an opposed Insight test versus their Bluff. Obviously, all
 Rakshasa have pretty good Charisma and are trained in Bluff. The MV version puts
 less emphasis on skills and has a fixed DC equal to 20+the level of the
-rakshasa. We're not quite at "spot the doppelganger" levels here, but it's
-close.
+rakshasa. Given they're usually Paragon-tier, this leads to "spot the
+doppelganger" levels of difficulty.
 
 There's no less than six different stat blocks for rakshasas across both books,
 five in the MM and one (plus two updates) in the MV.
 
 ### Rakshasa Warrior (Both)
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-rakshasa-warrior.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 What passes for a "foot soldier" among Rakshasa, you can likely find them acting
 as elite bodyguards for their higher-ranked overlords. Warriors are Level 15
@@ -154,6 +165,15 @@ the target 1 square.
 
 ### Rakshasa Assassin (MM)
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-rakshasa-assassin.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 This black panther Rakshasa is a Level 17 Skirmisher with 160 HP and all
 standard traits.
 
@@ -168,6 +188,15 @@ more than 2 squares. **Phantom Distraction** (close burst 1 vs. Will; recharge
 5-6) is a minor action that does no damage but dazes for a turn on a hit.
 
 ### Rakshasa Noble (MM)
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-rakshasa-noble.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Nobles are basically slightly stronger mages with a different illusion
 repertoire, and are the people warriors, archers, and assassins serve. They're
@@ -193,9 +222,10 @@ melee range than a proper attack.
 
 ### Rakshasa Dread Knight (MM)
 
-This one could represent one of Eberron's feared Lords of Dust. It's a Level 24
-Soldier with 220 HP and all common traits. Dread Knights project an **Aura of
-Doom** (5) that cuts surge-based healing in half for any enemies inside.
+This is at the level range that could represent one of Eberron's feared Lords of
+Dust. It's a Level 24 Soldier with 220 HP and all common traits. Dread Knights
+project an **Aura of Doom** (5) that cuts surge-based healing in half for any
+enemies inside.
 
 Thei fight with **Longswords** in melee that have that "roll twice and use the
 better result"/"5e Advantage" bonus, and also mark for a turn. Dread Knights can
@@ -203,14 +233,14 @@ use a standard action to make _three_ such attacks against the same target, and
 if at least two hit the victim is also dazed (save ends). That's a lot of d20's
 hitting the table at once.
 
-They can also use **Claw** attacks, those these are nothing special. They could
+They can also use **Claw** attacks, though these are nothing special. They could
 benefit from an ongoing damage rider like the MV updates.
 
 For utility, aside from Deceptive Veil they can use a **Knight Move** to fly 6
 squares as a move action, though they must land at the end.
 
 Dread Knights are a bit mechanically simpler than I imagined, but they're still
-dangerous. I imagine other Lords of Dust would be in this level range as well.
+dangerous and won't be alone when encountered.
 
 ## Sample Encounters and Final Impressions
 
@@ -224,4 +254,8 @@ unwitting entourage. The groups consist either of all-rakshasa Evil Parties, or
 I'm a cat person, so I quite like these villains based on looks alone. You want
 to pit your party against Shere Khan, you use a Rakshasa. Given their decadent
 nature and tendency to collaborate with devils, you might also be able to use
-them as a metaphor for how big corporations have an affinity for fascism.
+them as a metaphor for how big corporations have an affinity for fascism. If
+rakshasa existed in the real world, people like Zuck, Musk and Thiel would be
+serious candidates for being evil tigers in disguise.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

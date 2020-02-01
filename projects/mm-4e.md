@@ -104,6 +104,11 @@ After this, we get right on the monsters:
     - [Green Dragon][65]
     - [Blue Dragon][66]
     - [Red Dragon][67]
+  - [Dragonspawn][68]
+  - Drakes:
+    - [Part 1][69]
+    - [Part 2][70]
+    - [Part 3][71]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -173,3 +178,6 @@ After this, we get right on the monsters:
 [66]: {{ "/2020/01/17/blue-dragons.html" | relative_url }}
 [67]: {{ "/2020/01/19/red-dragon.html" | relative_url }}
 [68]: {{ "/2020/01/22/dragonspawn.html" | relative_url }}
+[69]: {{ "/2020/01/27/drakes.html" | relative_url }}
+[70]: {{ "/2020/01/31/drakes.html" | relative_url }}
+[71]: {{ "/2020/02/01/drakes.html" | relative_url }}

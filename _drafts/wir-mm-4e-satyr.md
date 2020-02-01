@@ -1,0 +1,95 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Satyr"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Satyrs were inspired by Greek myth and have been in the game since at least the
+days of BECMI. Here, they are only on the Monster Manual, but they get an update
+in Dungeon 196 and become a playable character option in Heroes of the Feywild.
+
+## The Lore
+
+According to the MM, satyrs are self-centered, greedy and decadent fey who live
+to party. They'll usually behave in a friendly manner to passing strangers and
+invite them for a spot of good food and drink. If they're in a good mood, the
+offer will be genuine. If not, the satyrs will rob and maybe kill their guests
+once their guard is down. That food and drink doesn't come cheap,
+y'know. Conversely, they're always on the lookout for danger and trickery even
+while partying their hardest, for such is life in the Feywild.
+
+Heroes of the Feywild, which includes satyrs as a PC option, is a bit softer on
+them. It says satyrs are by nature both curious and skittish, despite their
+hedonistic streak. So they'll tend to investigate things from a distance and
+rely on their charm magic to defend themselves if it comes to that. A lot of
+their bad reputation comes from bad encounters between somewhat xenophobic
+humans and the first satyrs who crossed over from the Feywild.
+
+Even the MM says satyrs are Unaligned despite its unflattering description of
+them, so the stat blocks in this entry could be used as NPC allies as easily as
+they could be enemies who _do_ live up to the bad reputation.
+
+A curiosity: all satyrs are male. Their mothers are usually the always-female
+nymphs, whose sons are satyrs and whose daughters are other nymphs. The
+raunchiness and propensity for sexual harassment of mythological satyrs has been
+excised from both depictions, but you can add that back for satyrs you want
+your PCs to stab.
+
+## The Numbers
+
+Satyrs are Medium Fey Humanoids with speed 6 and low-light vision. Everything
+else varies per stat block, and we get two.
+
+### Satyr Rake
+
+This is a mobile rogue-type, wearing leather and carrying a short sword and
+short bow. It's all about running around the party and setting up sneak attacks
+with its clever feints.
+
+Rakes are Level 7 Skirmishers with 80 HP. The **sword** and **bow** are its
+basic attacks, and it will prefer the former once the PCs get in melee
+range. They do extra damage with all attacks if they have combat advantage.
+
+A rake can employ a **Feint** (melee 1 vs. Reflex; minor action) to make a
+target grant combat advantage for a turn, so it's dangerous even without a
+flanking buddy. It can also make a **Harrying Attack** (recharge 5-6) which
+allows it to make two basic attacks and shift 3 squares between them.
+
+Aside from the updated damage, the only difference between the MM and Dungeon
+versions is that the MM Feint is at-will, and the one from Dungeon recharges
+when the satyr hits with a basic melee attack. This gives the target a breather
+from the constant feinting if the satyr misses.
+
+### Satyr Piper
+
+A mystically-inclined archer who can produce several mental effects with its
+music.
+
+Pipers are Level 8 Controllers with the Leader keyword. Their basic melee attack
+is a **gore** with their horns, which does some damage and knocks the victim
+prone so the piper can move away. Their main weapon is the **longbow**, but
+they'll switch to playing the pipes when the enemy gets close enough.
+
+These **Wooden Pipes** take a standard action to play and can be sustained with
+further standard actions. Their musical magic works in a close burst 5 and can
+be either an attack vs. Will that dazes enemies for a turn or one of three
+effects that grant allies attack and damage bonuses, free shifts, or free
+saves. I think the piper can select a different effect for a given turn without
+having to stop the music.
+
+While pipers have to choose between being leaders or artillery, they're very
+effective leaders. The beneficial songs work on every ally in the burst at
+once! A piper accompanying a squad of melee bruisers, or a cluster of artillery
+monsters, can really increase their threat level.
+
+## Sample Encounters and Final Impressions
+
+The sample encounter is level 8 and features a piper, three rakes, and a
+displacer beast.
+
+Satyrs fit perfectly as those irresponsible fey who like to "tame" fey beasts
+via charm magic instead of doing it the hard way, so you can justify them having
+any sort of pet. They also gladly team up with other sapients who have the same
+tastes (whether for partying or robbery, depending on the satyr).
