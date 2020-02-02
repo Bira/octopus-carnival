@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-rat.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Rats have of course been in the game since its beginnings. They have an entry of
 their own in the Monster Manual and are present in the animal appendix in the
 Monster Vault.
@@ -113,3 +124,5 @@ I was never a rat enthusiast, and these stat blocks don't sway my opinion. At
 the same time, I guess I'd feel like something was missing if the monster book
 didn't have rats. The MV versions are slightly better, though there's not much
 difference in damage for level 1 monsters.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
