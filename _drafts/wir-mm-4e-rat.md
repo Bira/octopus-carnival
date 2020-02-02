@@ -52,7 +52,7 @@ Realistically I think a rat swarm would be more interested in running away than
 fighting human-sized opponents, but this is D&D! Maybe someone is controlling
 them, or maybe they're just plain mean. A swarm intent on fighting will likely
 park itself in a PC's space and let the aura do most of the work, while using
-their standard attacks to put extra pressure on a single PC.
+their standard attacks to put extra pressure on a specific PC.
 
 They're less dangerous than needlefang drake swarms because they can't knock
 people down, but are otherwise a good example of a basic swarm monster.
@@ -78,9 +78,9 @@ them.
 
 ### Giant Rat (MM)
 
-Big enough to be a threat all by themselves, giant rats are Small in size!
-They're Level 1 Minion Brutes with a speed of 6 (climb 3) and a basic bite
-attack that does "minion" damage. That's all!
+Big enough to be a threat all by themselves, giant rats are Small in size,
+comparable to a halfling. They're Level 1 Minion Brutes with a speed of 6
+(climb 3) and a basic bite attack that does "minion" damage. That's all!
 
 In practice you'll still want to use a "swarm" of them, only now you're tracking
 each rat individually. They're about equivalent to the classic giant rats of

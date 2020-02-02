@@ -181,3 +181,4 @@ After this, we get right on the monsters:
 [69]: {{ "/2020/01/27/drakes.html" | relative_url }}
 [70]: {{ "/2020/01/31/drakes.html" | relative_url }}
 [71]: {{ "/2020/02/01/drakes.html" | relative_url }}
+[72]: {{ "/2020/02/02/drow.html" | relative_url }}
