@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-roc.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I first heard of Rocs in the Arabian Nights stories (where Sinbad meets one). In
 D&D, they've been a thing at least since 1st Edition. Here, they are only on the
 Monster Manual along with some other familiar monsters.
@@ -14,8 +25,7 @@ Monster Manual along with some other familiar monsters.
 
 "Roc" here refers to a large group of related creatures, all of which are
 gigantic birds of prey with ties to the Elemental Chaos. They're non-sapient
-beasts, and behave much like their smaller mundane counterparts but on a larger
-scale.
+beasts, and behave much like their mundane counterparts but on a larger scale.
 
 Giants love rocs, and often train for use as pets and companions. This is one of
 the rare cases where the giant's pet is larger than the giant itself - all rocs
@@ -94,7 +104,7 @@ bird could lift a mounted PC with its mount, though.
 
 Phoenixes are Level 19 Elite Brutes with 300 HP. This number is a little low,
 particularly when compared to the common roc's total above, but that's because a
-third of the phoenix's actual HP is hidden behind a gimmick, which we'll see
+third of the phoenix's total HP is hidden behind a gimmick, which we'll see
 soon. They have 20 fire resistance, and **Fiery Body** aura 1 that deals 10 fire
 damage to peole who start their turns inside.
 
@@ -105,9 +115,9 @@ vs. Reflex, recharge 6) that does radiant damage and dazes.
 When first bloodied, the phoenix triggers its gimmick: **Immolation**. This
 causes an explosion (close burst 2 vs. reflex) that does fire damage, and kills
 the phoenix. At the end of its next turn, it rises from the ashes at full
-HP. This means phoenixes have 450 HP in total. Immolation is a daily ability, so
-if the phoenix continues fighting after this it can be permanently killed in the
-usual way.
+HP. This means phoenixes effectively have 450 HP. Immolation is a daily ability,
+so if the phoenix continues fighting after this it can be permanently killed in
+the usual way.
 
 ### Thunderhawk
 
@@ -144,5 +154,7 @@ The phoenix is a bit weirder. I'd expect its immolation-and-resurrection act to
 happen when it hit 0 HP, not its bloodied value. I guess they didn't do that
 because it would require a bigger exception ("the phoneix has 225 HP and no
 bloodied value"), but it doesn't stop you from doing it in your home game if you
-wish. Not having a bloodied value is kind of a minor defense ability on its own,
+wish. Not having a bloodied value is itself a kind if minor defensive ability,
 since it denies some PC their bonuses against bloodied enemies.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
