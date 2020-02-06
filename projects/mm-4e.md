@@ -111,6 +111,8 @@ After this, we get right on the monsters:
     - [Part 3][71]
   - [Drow][72]
   - [Drider][73]
+  - [Dryad][74]
+  - [Dwarf][75]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -185,3 +187,5 @@ After this, we get right on the monsters:
 [71]: {{ "/2020/02/01/drakes.html" | relative_url }}
 [72]: {{ "/2020/02/02/drow.html" | relative_url }}
 [73]: {{ "/2020/02/03/drider.html" | relative_url }}
+[74]: {{ "/2020/02/05/dryad.html" | relative_url }}
+[75]: {{ "/2020/02/06/dwarf.html" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-roper.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Ropers are D&D originals as far as I know, and have been in the game since at
 least AD&D first edition. They're one of a number of monsters meant to look like
 innocuous bits of scenery which Gygax and other authors likely invented as their
@@ -140,3 +151,5 @@ that absolutely must be present in a book. Even though I kinda get the editorial
 intention of the Monster Vault, I'm still a bit baffled as to why it dedicates
 so much space to the roper as opposed to, say, fomorians, which are not present
 here at all.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

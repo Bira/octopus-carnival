@@ -92,6 +92,26 @@ gang up on such targets.
 Aside from the updated damage, the stat blocks from Dungeon are identical to
 these ones.
 
+I'm including a small bonus here: a stat block for sharks. Though the Monster
+Manual lore for sahuagin mentions sharks several times, it includes no stats for
+sharks anywhere within it, leaving that as an exercise to the reader. The
+Monster Vault, despite not containing sahuagin, has stats for sharks in its
+animal appendix.
+
+### Shark (MV)
+
+This can stand in for any species of shark large and aggressive enough to target
+humans or pal around with Sahuagin. It's a Medium Natural Beast with the Aquatic
+keyword, and a Level 5 Brute with 75 HP. It swims with speed 8, and if the PCs
+ever push it into dry land it will only be able to flop around at speed 1
+(clumsy). It has low-light vision, though you should probably give it some form
+of blindsense as well if you want to be realistic.
+
+Sharks attack with a **bite**, of course, and the **Aquatic** trait means
+they'll pretty much always have a +2 attack bonus on that. They also have a
+**Blood Frenzy** trait which gives them a further +2 to attacks and +4 to damage
+against bloodied creatures.
+
 ### Sahuagin Guard
 
 These are Level 6 Minion Brutes, with all the standard traits above. Their swim

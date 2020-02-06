@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Skeleton"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Skeletons have been in the game since the beginning, when they were the first
+step on the Undead Power Ladder. In this edition, they're on both the Monster
+Manual and the Vault.
+
+## The Lore
+
+Skeletons are the true iconic undead of the fantasy genre. Vampires and zombies
+get the spotlight in a lot of other media, but from Harryhausen movies to the
+Diablo franchise, if it's a fantasy story about monsters, it has to have
+skeletons in it somewhere. D&D took inspiration from the former and went on to
+inspire the latter, so it has plenty of skeletons as well.
+
+D&D skeletons are likely to be among the first undead faced by a party of
+adventurers. Unlike their more powerful and exotic relatives, they almost never
+arise naturally, and their existence as undead is completely disconnected from
+who they might have been in life. They're just bones animated by necrotic
+energy.
+
+The Monster Vault goes all-in on the flowery gothic prose when describing them,
+discoursing about how even inanimate skeletons are viewed by the living as
+symbols of death. You might be able to read something of the person's life in
+the scars of their bones, but that only serves as an even stronger reminder that
+they're gone ("alas Yorick, I knew thee well...").
+
+Skeletons behave much like stupider golems, going by the MV's
+description. They're just smart enough to understand their master's orders,
+which they follow tirelessly and to the letter. Their animating force doesn't
+possess much in the way of cunning, so even if it can fight well a skeleton
+might still fall for relatively simple ruses, or be unable to identify obvious
+signs of danger.
+
+It is much easier to animate a skeleton than to create a golem, which indicates
+that all that gothic prose actually has a point. If I'm allowed to speculate
+until the end of this paragraph, I'd say necromantic magic leans heavily on that
+association to give a skeleton its motion and its rudimentary mind. As a result,
+it is by its very nature somewhat transgressive, and the proper mindset to use
+it likely includes active disrespect for the boundaries between life and death,
+which isn't something you need to create a construct.
+
+While the most common use for skeletons is as minions of some necromancer bent
+on conquest, they can also be ordered to perform simple physical tasks. A noble
+who wanted to appear particularly edgy could have his carriage pulled by
+skeletal horses. A _society_ who wanted to look edgy could have all sorts of
+"automatic" gates, bridges and dungeon traps powered by skeletal labor.
+
+The Monster Manual mentions in passing that skeletons might arise naturally in
+an area heavily suffused with necrotic energy. That's likely a rare exception,
+and even then it's an event that has nothing to do with who the skeletons used
+to be or how they died. If a rift to Thanatos opened in a cemetery containing
+only good people who died happy and without any unfinished business, their bones
+would still rise. Such skeletons simply attack anything living they come across
+and stay still otherwise.
+
+## The Numbers
+
+Skeletons are Medium Natural Animates with the Undead keyword. They have
+darkvision, immunity to disease and poison, 10 resistance to necrotic damage and
+vulnerable 5 to radiant damage. Their base land speed is 6. Despite being nearly
+mindless at Int 3, they usually fight with weapons.
+
+All skeletons we get in both books have levels in the Heroic tier, and are
+apparently assumed to be human skeletons. You could easily make more powerful
+skeletons with higher resistances if you wanted, of course, as well as skeletons
+originating from creatures of different sizes (like a Large giant skeleton or a
+swarm of Small goblin bones).
+
+### Decrepit Skeleton (Both)
+
+A skeleton so old it's begun to crumble, this is a Level 1 Minion Skirmisher. It
+fights with a **longsword** in melee and a **shortbow** at range and has no
+special attacks at all and no traits aside from the common ones listed above.
+
+They should appear in similar numbers and use similar tactics to all those
+archer skeletons from Diablo.
+
+### Skeleton (MM)
+
+The basic model is a Level 3 Soldier with 45 HP, wearing mail and wielding a
+sword and shield. Its **longsword** attacks mark for a turn, and it has a
+**Speed of the Dead** trait which gives it +2 to attack and +1d6 to damage when
+making opportunity attacks.
+
+A pretty straightforward soldier-type, like it probably was in life.
+
+### Blazing Skeleton (Both)
+
+A skeleton that is on fire. It's Level 5 Artillery with 53 HP. It has resist
+fire 10 on top of its other resistances, and projects a **Fiery Aura** (1) which
+does 5 damage to enemies caught inside. It fights in melee with its **blazing
+claws**, and throws **flame orbs** at range. The claws do physical damage and
+ongoing fire damage (save ends), while the orbs do both immediate and ongoing
+fire damage (save ends).
+
+### Boneshard Skeleton (MM)
+
+A shattered skeleton held together by magic, it's a Level 5 Brute with 77 HP. It
+wields a **scimitar** in combat, which is a high-crit weapon that does a mix of
+physical and necrotic damage. It can attack at range by flinging its shards,
+also doing those same types of damage. Once when it's bloodied, and once when
+it's destroyed, this skeleton detonates a **Boneshard Burst** (close burst 3
+vs. Reflex) that does necrotic damage.
+
+### Skeletal Legionnary (MV)
+
+A minion version of the basic armored MM skeleton. A Level 7 Minion Soldier, it
+uses a **sword** in close combat and throws **javelins** at range, both of which
+mark the target for a turn on a hit. It has no other special abilities.
+
+### Skeletal Tomb Guardian (Both)
+
+This four-armed monster isn't a random corpse given motion, but something
+specifically constructed so it could be animated. It's a Level 10 Brute with 126
+HP, and wields a scimitar in each of its four hands.
+
+Each scimitar is kinda weak on its own, but the guardian's basic **twin
+scimitars** attack allows it to use two of them, and its **Cascade of Steel**
+attack allows it to attack with all four. **Sudden Strike** allows to make a
+Twin Scimitars attack against an adjacent enemy that shifts, as an interrupt.
+
+All of the scimitars are high-crit weapons, so if the guardian rolls really well
+its damage output goes up considerably.
+
+
+## Sample Encounters and Final Impressions
+
+We get two encounters in the MM:
+
+- Level 3: 1 hobgoblin warcaster, 2 hobgoblin guards, 2 skeletons.
+
+- Level 5: 1 tiefling darkblade, 2 blazing skeletons, 2 boneshard skeletons.
+
+As we can see, any enemy group that includes a spellcaster of some sort could
+very well include a complement of skeleton auxiliaries. We also have enough
+variety in their stat blocks to have plenty of all-skeleton encounters for all
+your ancient crypt needs.
+
+I like skeletons, and as I said I think the game wouldn't feel like a proper
+fantasy RPG (let alone D&D) without them.

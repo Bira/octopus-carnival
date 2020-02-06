@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-rot-harbinger.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I think rot harbingers first appeared in 3e as Angels of Decay, in one of its
 undead-focused supplements. Here, they are only on the Monster Manual.
 
@@ -58,6 +69,8 @@ We have two:
 - Level 22: 2 harbingers, 2 slingers, and a voidsoul specter.
 
 In other words, Thanatos is probably crawling with these things, and they make
-perfect minions to high level necromancer types even if those necromancers
+perfect servants to high level necromancer types even if those necromancers
 aren't part of the Orcus franchise. They're good candidates for the "regular
 foot-soldier" monster in an all-undead epic adventure.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
