@@ -26,13 +26,13 @@ In 4e, rot harbingers are still sometimes called angels of decay, though that's
 the less common name for them. Though they resemble angels, the two are not
 directly related.
 
-Rot harbingers are one of those rare types of undead that were never alive in
-the first place. Once upon a time Orcus decided to travel outside the Abyss for
-reasons that have been lost to time. The gods took this opportunity to try and
-kill him, and sent a host of angels to do the deed. The angels failed, and all
-of them perished at the claws of the demon lord. When Orcus returned to the
-Abyss, he made the first rot harbingers from nothing as a kind of "fuck you" to
-the gods that tried to kill him.
+Rot harbingers are one a type of undead that were never alive in the first
+place. Once upon a time Orcus decided to travel outside the Abyss for reasons
+that have been lost to time. The gods took this opportunity to try and kill him,
+and sent a host of angels to do the deed. The angels failed, and all of them
+perished at the claws of the demon lord. When Orcus returned to the Abyss, he
+made the first rot harbingers from nothing as a kind of "fuck you" to the gods
+that tried to kill him.
 
 Most such monsters still serve Orcus, but some have managed to escape his
 control and find new employment with other masters. All of them are quite

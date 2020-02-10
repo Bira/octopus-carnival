@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-rust-monster.webp" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Rust Monsters are a D&D original, inspired by some cheap plastic "dinosaur"
 figures Gygax had lying around and intended to use as miniatures. In 4e they
 first appear in the Monster Manual 2 and later in the Monster Vault, so we'll be
@@ -136,10 +147,9 @@ difference, though: their rusting abilities target not metal, but _magic_.
 
 This means that any magic armor or weapon used by the party, no matter what
 material it's made from, is at risk when fighting a dweomer eater. Mundane items
-are fine, but that is scant consolation for a level 11 party will typically clad
-in +2 or +3 armor and weapons. Yes, if you hit them with spells channeled
-through a magic implement, the implement rusts even if it's made of wood or
-crystal.
+are fine, but that is scant consolation for a level 11 party typically clad in
++2 or +3 armor and weapons. Yes, if you hit them with spells channeled through a
+magic implement, the implement rusts even if it's made of wood or crystal.
 
 You can still extract residuum equal in value to any items destroyed by a
 dweomer eater from its corpse, at least.
@@ -163,3 +173,5 @@ item temporary. You usually find items of a higher level than that as treasure,
 though. The Essentials rules also introduce the concept of item rarity, which
 makes certain items impossible to re-create via ritual. Both of these things
 mean some losses are indeed permanent or at least very difficult to replace.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
