@@ -22,10 +22,10 @@ Shadar-kai culture and society are described as pitiless and meritocratic, and
 merit is measured by the great deeds you have to your name more than by wealth
 or personal connections. Note that _great_ doesn't necessarily mean
 _good_. Causing great chaos and suffering in the world is a great deed. So is
-murdering your rivals if they are themselves badass. Even acting in the name of
-the Raven Queen isn't a guarantee the service in question will be nice. Even a
-Good shadar-kai is likely to be a very gloomy and humorless individual. "Perky
-goth" is not really something they do.
+murdering your rivals if they are themselves badass. Acting in the name of the
+Raven Queen counts, and isn't a guarantee the service in question will be
+nice. Even a Good shadar-kai is likely to be a very gloomy and humorless
+individual. "Perky goth" is not really something they do.
 
 Another significant trait of shadar-kai culture is that they do not fear death,
 for they know the Raven Queen will see to their souls when they shuffle off this

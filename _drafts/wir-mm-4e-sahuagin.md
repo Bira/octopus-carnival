@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-sauhagin.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Sahuagin have been in the game since at least AD&D 1. Here, they are present in
 the Monster Manual, and get an update in Dungeon 193.
 
@@ -75,9 +86,9 @@ religious and universally hostile fish people who like hafted weapons, but:
 Another difference is mechanical: kuo-toa are levels 14-16, while sahuagin are
 levels 6-10. So there is a kind of power ladder for fish people too.
 
-Most sahuagin are Medium Natural Humanoids, though barons are Large. All have
-the Aquatic keyword, low-light vision, a land speed of 6 and a swim speed of 6
-or 8.
+Most sahuagin are Medium Natural Humanoids, though the four-armed nobles are
+Large. All have the Aquatic keyword, low-light vision, a land speed of 6 and a
+swim speed of 6 or 8.
 
 Most sahuagin fight with tridents, which can be used in melee or thrown. The MM
 version has range 3/6 when thrown, and the MV version has range 5. The MM makes
@@ -90,7 +101,7 @@ and +2 to damage against bloodied enemies, and is an extra incentive for them to
 gang up on such targets.
 
 Aside from the updated damage, the stat blocks from Dungeon are identical to
-these ones.
+the MM originals.
 
 I'm including a small bonus here: a stat block for sharks. Though the Monster
 Manual lore for sahuagin mentions sharks several times, it includes no stats for
@@ -167,3 +178,5 @@ Most sahuagin encounters will be against all-sahuagin groups, since they're
 pretty xenophobic. The main exception, surprisingly, is vampires: they and the
 sahuagin apparently bond over their shared love of blood. Underwater encounters
 might involve pet sharks, too.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
