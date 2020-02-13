@@ -114,7 +114,10 @@ After this, we get right on the monsters:
   - [Dryad][74]
   - [Dwarf][75]
   - [Duergar][76]
+
+- E
   - [Efreet][77]
+  - [Eidolon][78]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -193,3 +196,4 @@ After this, we get right on the monsters:
 [75]: {{ "/2020/02/06/dwarf.html" | relative_url }}
 [76]: {{ "/2020/02/10/duergar.html" | relative_url }}
 [77]: {{ "/2020/02/11/efreet.html" | relative_url }}
+[78]: {{ "/2020/02/12/eidolon.html" | relative_url }}

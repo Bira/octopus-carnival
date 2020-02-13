@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-eidolon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Satyrs were inspired by Greek myth and have been in the game since at least the
 days of BECMI. Here, they are only on the Monster Manual, but they get an update
 in Dungeon 196 and become a playable character option in Heroes of the Feywild.
@@ -34,8 +45,8 @@ they could be enemies who _do_ live up to the bad reputation.
 A curiosity: all satyrs are male. Their mothers are usually the always-female
 nymphs, whose sons are satyrs and whose daughters are other nymphs. The
 raunchiness and propensity for sexual harassment of mythological satyrs has been
-excised from both depictions, but you can add that back for satyrs you want
-your PCs to stab.
+excised from both depictions, though you could add it back to particularly
+villainous individuals.
 
 ## The Numbers
 
@@ -79,9 +90,9 @@ effects that grant allies attack and damage bonuses, free shifts, or free
 saves. I think the piper can select a different effect for a given turn without
 having to stop the music.
 
-While pipers have to choose between being leaders or artillery, they're very
-effective leaders. The beneficial songs work on every ally in the burst at
-once! A piper accompanying a squad of melee bruisers, or a cluster of artillery
+While pipers have to choose between being leaders or combatants, they're very
+effective leaders. The beneficial songs work on every ally in the burst at once!
+A piper accompanying a squad of melee bruisers, or a cluster of artillery
 monsters, can really increase their threat level.
 
 ## Sample Encounters and Final Impressions
@@ -93,3 +104,5 @@ Satyrs fit perfectly as those irresponsible fey who like to "tame" fey beasts
 via charm magic instead of doing it the hard way, so you can justify them having
 any sort of pet. They also gladly team up with other sapients who have the same
 tastes (whether for partying or robbery, depending on the satyr).
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
