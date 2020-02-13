@@ -51,10 +51,10 @@ action is successful, then it is right" and "meat is meat". That last bit means
 they have no qualms about eating anyone, even their own when they get too weak
 to hunt.
 
-Despite such brutal teachings Sekolah is still a good, so both it and its
-favored people hate demons with a passion, particularly Demogorgon and Dagon. So
-yeah, there might come a time when the party finds itself on the same side of a
-battle as a bunch of sahuagin.
+Despite such brutal teachings Sekolah is still a god. Both it and its favored
+people hate demons with a passion, particularly Demogorgon and Dagon. So yeah,
+there might come a time when the party finds itself on the same side of a battle
+as a bunch of sahuagin.
 
 One last bit the MV touches on is that the sea devils are very prone to genetic
 mutation, so lots of them have some deviation from the "typical" sahuagin

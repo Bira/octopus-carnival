@@ -6,8 +6,19 @@ tags:
     - lets-read
 ---
 
-Salamanders have been a part of the game since AD&D 1st Edition at least. In 4e,
-they're present only on the Monster Manual.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-salamander.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+Salamanders have been a part of the game since AD&D 1st Edition at least, and
+also play a part in Mystara. In 4e, they're present only on the Monster Manual.
 
 ## The Lore
 
@@ -22,8 +33,8 @@ expect the same from their own underlings. Either in the service of these
 masters or for their own benefit, salamanders often raid the natural world
 through planar rifts in order to plunder it and take slaves.
 
-These slaves from the world make up the bottom ranks of salamander society,
-which are also filled with magma beasts and other "weaker" elementals.
+These slaves from the world make up the bottom ranks of salamander society, and
+include not only mortals but also magma beasts and other "weaker" elementals.
 
 ## The Numbers
 
@@ -97,3 +108,5 @@ giant envoys, or slaves of the salamanders themselves.
 
 I think salamanders work well as fire elemental opposition that's okay to beat
 up. An azer is probaly fighting you against its will, but a salamander isn't.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
