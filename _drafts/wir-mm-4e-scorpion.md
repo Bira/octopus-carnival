@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-scorpion.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Giant bugs and bug-like things have been a staple of D&D since the beginning,
 and those have always included some kind of scorpion. Here, they're only on the
 Monster Manual.
@@ -68,3 +79,5 @@ them as weapons.
 Scorpions are okay, I guess. Their fighting style is distinctively
 scorpion-like, but once you fought one type of monstrous scorpion you know what
 to expect from the others.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
