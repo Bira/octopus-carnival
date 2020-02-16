@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-elemental.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Elementals have been part of D&D since its very beginnings. Their basic
 definition has remained the same throughout: they're living aglomerations of
 elemental matter who often take roughly humanoid forms and have powers related
@@ -220,3 +231,5 @@ at once, as they don't actually get in each other's way! I'd likely add a second
 air elemental to make it a proper five-monster band. You can also add them to
 any band of low-level opponents that include a spellcaster who could plausibly
 summon them.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

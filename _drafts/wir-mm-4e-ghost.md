@@ -13,8 +13,8 @@ different monsters, and getting them mixed up was likely the cause of death for
 quite a few PCs.
 
 The decision to allow multiple stat blocks in the same monster entry has
-consolidated things a bit, but not entirely (wraits are still their own
-thing, for example). Ghosts appear only in the Monster Manual.
+consolidated things a bit, but not entirely (wraiths and specters are still
+their own thing, for example). Ghosts appear only in the Monster Manual.
 
 ## The Lore
 

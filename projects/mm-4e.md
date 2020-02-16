@@ -118,6 +118,7 @@ After this, we get right on the monsters:
 - E
   - [Efreet][77]
   - [Eidolon][78]
+  - [Eladrin][79]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -197,3 +198,4 @@ After this, we get right on the monsters:
 [76]: {{ "/2020/02/10/duergar.html" | relative_url }}
 [77]: {{ "/2020/02/11/efreet.html" | relative_url }}
 [78]: {{ "/2020/02/12/eidolon.html" | relative_url }}
+[79]: {{ "/2020/02/13/eladrin.html" | relative_url }}
