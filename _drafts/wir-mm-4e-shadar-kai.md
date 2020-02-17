@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-shadar-kai.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I believe shadar-kai originated in 3e, though they were completely different
 there. Here, they are only on the Monster Manual.
 
@@ -16,7 +27,7 @@ does the Shadowfell present its own menagerie of dark reflections. The
 Shadar-kai seem to be the shadowy counterparts of humanity, being similar in
 shape and build but with ashen grey skin and black orbs for eyes. They live in
 the Shadowfell, venerate the Raven Queen and achieve a level of goth that can't
-be found in the world.
+be found in the middle world.
 
 Shadar-kai culture and society are described as pitiless and meritocratic, and
 merit is measured by the great deeds you have to your name more than by wealth
@@ -30,7 +41,10 @@ individual. "Perky goth" is not really something they do.
 Another significant trait of shadar-kai culture is that they do not fear death,
 for they know the Raven Queen will see to their souls when they shuffle off this
 mortal coil. This might make them seem more extreme in all they do to someone
-from a more standard fantasy culture.
+from a more standard fantasy culture. Another monster entry ahead will hint that
+shadar-kai desire immortality despite not fearing death, so maybe this focus on
+great deeds has something to do with that. If you die anyway, at least people
+will remember how badass you were.
 
 Other sources would go on to make shadar-kai Dark Eldar-like, justifying the
 piercings and body art saying they pursue extreme sensation as a way to stave
@@ -113,3 +127,5 @@ I kinda like shadar-kai. Their extreme gothness is a very distinctive look, and
 I find it less annoyingly edgy than what Pathfinder did with Khytons. I also
 like that they're unaligned, meaning it's common to find them as either enemies
 or allies.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
