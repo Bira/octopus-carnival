@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-shambling-mound.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Shambling mounds are one of D&D's most enduring plant monsters, being present in
 every edition since at least BECMI. Here, they are only on the Monster Manual,
 but they got an update in Dungeon 196.
@@ -95,3 +106,5 @@ I like shambling mounds! Don't think I ever used one, but I should really remedy
 that. The standard model is a bit more dangerous than its level implies, since
 there are few ways to grant extra saves to an enveloped victim and the extra
 healing they provide can make the fight last longer.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
