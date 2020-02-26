@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-ettercap.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Shifters first appeared as a playable option in 3e's Eberron Campaign Setting,
 and would return to that role when the 4e version of Eberron was released. Their
 first appearance in this edition was as an entry in the Monster Manual.
@@ -16,8 +27,8 @@ We already mentioned shifters while looking at lycanthropes: they are the
 children of a lycanthrope and a human parent. They usually look like humans with
 pointy ears and extra hair, but when threatened can "shift" into a more bestial
 mode, growing fangs, claws, and yet more hair. This is not as extensive as a
-lycanthrope's transformation - you can still recognize individual shifters when
-they're in "beast mode". The exact characteristics of that transformation depend
+lycanthrope's transformation - a shifter in "beast mode" is still recognizable
+as the same person. The exact characteristics of that transformation depend
 on the type of lycanthrope whose lineage the shifter belongs to.
 
 In the 4e implied setting, shifters can be found living among humans or other
@@ -83,8 +94,10 @@ When bloodied, it can transform and gain the Razorclaw bonuses.
 
 ## Sample Encounters and Final Impressions
 
-There's one sample encounter: Level 6, 2 longtooth hunders, 1 werewolf, and 2
+There's one sample encounter: Level 6, 2 longtooth hunters, 1 werewolf, and 2
 dire wolves. A nice happy family.
 
-While the stat blocks in this entry are nothing spectacular, I like shifters on
-principle, particularly on Eberron.
+While the stat blocks in this entry are nothing spectacular, they
+work. Lore-wise I like shifters a lot, particularly on Eberron.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
