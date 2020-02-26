@@ -7,8 +7,8 @@ tags:
 ---
 
 {::nomarkdown}
-<figure class="right">
-  <img src="{{ "/assets/wir-mm-4e-ettercap.png" | absolute_url }}"/>
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-shifter.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2008 Wizards of the Coast
   </figcaption>
