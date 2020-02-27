@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-flameskull.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Flameskulls! Skulls that are on fire! I don't know if they existed in previous
 editions, but the illustration makes me think of old-school demiliches a
 bit. They're present only in the MM.
@@ -78,3 +89,5 @@ I like them! I cannot help but remembering Murray from the Monkey Island games
 when I see the flameskull illustration, which I guess is a factor in this. The
 fact that flameskulls are unaligned and not necessarily hostile is my favorite
 thing about them. I'd have to fix their damage before using them, of course.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

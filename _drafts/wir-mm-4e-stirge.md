@@ -73,5 +73,78 @@ squishies. Now there's a nice mental image for you.
 
 ### Death Husk Stirge (MV)
 
-An undead stirge uses as filling for a Bloated Zombie Surprise. It's a Small
-Natural
+An undead stirge used as filling for a Bloated Zombie Surprise. It's a Small
+Natural Animate (undead), and a Level 6 Skirmisher with 71 HP. It has
+darkvision, an immunity to poison, and 10 resistance to necrotic damage. It has
+the usual stirge ground speed of 2 and flight speed of 6, but if it's hit by
+radiant damage it loses the ability to fly for a turn (and falls if it was in
+the air).
+
+Death husk stirges won't stick to you, but they'll still suck your blood. The
+**Rotted Blood** attack (close blast 3 vs. Fortitude) allows them to spit the
+blood stored inside their purulent intestines, dealing necrotic damage and
+blinding those it hits for a turn. Undead in the blast can shift 2 squares as a
+free action. This is an encounter power, but hitting someone with the basic
+**bite** attack allows the stirge to recharge it.
+
+As a move action, they can use **Nimble Wing** to fly 4 squares without
+provoking opportunity attacks. When they hit 0 HP, they burst and those purulent
+intestines produce a cloud of **Necrotic Miasma** (close burst 2 vs. Fortitude),
+which deals a bit of necrotic damage and weakens for a turn.
+
+### Dire Stirge (Both)
+
+Indeed, like every bit of natural fauna in the setting, stirges have a dire
+version. They're larger, but not quite large enough to go up a size
+category. They are however a lot meaner, being level 7 Lurkers with 60 HP.
+
+Aside from the usual increased numbers due to being higher level, dire stirges
+do 10 ongoing damage while attached and have an escape DC of 16. They are
+otherwise mechanically identical to the level 1 variety.
+
+### Stirge Suckerling Swarm (MV)
+
+For when you have so many suckerlings in play it becomes impractical to track
+them individually. This swarm is a Level 10 Brute with 128 HP, and counts as a
+Medium Natural Beast. It has a ground speed of 2 and a flight speed of 6.
+
+This has the usual swarm traits. Its **aura** (1) makes anyone caught inside
+begin taking 5 ongoing damage (save ends). If the victim is already taking
+untyped ongoing damage, that damage increases by 5, with no stated limit. It's a
+nice way to model an incresing number of tiny stirges attaching themselves to
+the victim.
+
+Its **Swarm of Suckerlings** basic attack deals good damage and ongoing 5 damage
+(save ends), so it can step up the aura's timetable a bit.
+
+When an adjacent enemy moves away from the swarm, it can use **Hungry Flight**
+as an immediate reaction, flying up to its speed so it's adjacent to the target
+again. This does not provoke opportunity attacks!
+
+### Stirge Swarm (Monster Manual)
+
+What you get when those suckerlings grow up. This swarm is a Medium, Level 12
+Brute with 141 HP. Being a MM monster, it's a bit simpler. Aside from the usual
+swarm traits, it has a basic attack that deals ongoing damage (save ends), and
+an aura that allows it to make basic attacks against anyone caught inside as
+free actions.
+
+You're probably better off leveling up the suckerling swarm.
+
+## Sample Encounters and Final Impressions
+
+You can't really tame stirges, since they'll attack anything that has blood, but
+sometimes kobolds and goblins use captured stirges as traps. Trip the wire,
+release the swarm! They can also be encountered as indiscriminate opportunists,
+or in coincidental cooperation with things they won't feed on.
+
+The sample encounters provide two such examples of this: the first is 2 dire
+stirges and 3 bloodweb spider swarms, the second 3 stirge swarms and a flesh
+golem.
+
+The "Large zombie minion full of undead stirges" setup has been hinted at
+above, as well. For Maximum Carnage you could add the undead traits to a stirge
+swarm stat block to get a swarm of death husk stirges.
+
+I usually wouldn't be very enthusiastic about stirges, but now I kinda want to
+use the Zombie Surprise at least once.

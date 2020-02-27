@@ -205,3 +205,4 @@ After this, we get right on the monsters:
 [80]: {{ "/2020/02/16/elemental.html" | relative_url }}
 [81]: {{ "/2020/02/17/elf.html" | relative_url }}
 [82]: {{ "/2020/02/19/ettercap.html" | relative_url }}
+[83]: {{ "/2020/02/26/ettin.html" | relative_url }}

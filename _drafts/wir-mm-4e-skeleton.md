@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-skeleton.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Skeletons have been in the game since the beginning, when they were the first
 step on the Undead Power Ladder. In this edition, they're on both the Monster
 Manual and the Vault.
@@ -14,9 +25,9 @@ Manual and the Vault.
 
 Skeletons are the true iconic undead of the fantasy genre. Vampires and zombies
 get the spotlight in a lot of other media, but from Harryhausen movies to the
-Diablo franchise, if it's a fantasy story about monsters, it has to have
-skeletons in it somewhere. D&D took inspiration from the former and went on to
-inspire the latter, so it has plenty of skeletons as well.
+Diablo franchise, if it's a fantasy story about fighting monsters, it has to
+have skeletons in it somewhere. D&D took inspiration from the former and went on
+to inspire the latter, so it has plenty of skeletons as well.
 
 D&D skeletons are likely to be among the first undead faced by a party of
 adventurers. Unlike their more powerful and exotic relatives, they almost never
@@ -79,7 +90,7 @@ fights with a **longsword** in melee and a **shortbow** at range and has no
 special attacks at all and no traits aside from the common ones listed above.
 
 They should appear in similar numbers and use similar tactics to all those
-archer skeletons from Diablo.
+fragile archer skeletons from Diablo.
 
 ### Skeleton (MM)
 
@@ -108,11 +119,14 @@ also doing those same types of damage. Once when it's bloodied, and once when
 it's destroyed, this skeleton detonates a **Boneshard Burst** (close burst 3
 vs. Reflex) that does necrotic damage.
 
-### Skeletal Legionnary (MV)
+### Skeletal Legionary (MV)
 
 A minion version of the basic armored MM skeleton. A Level 7 Minion Soldier, it
 uses a **sword** in close combat and throws **javelins** at range, both of which
 mark the target for a turn on a hit. It has no other special abilities.
+
+These sound perfect for that undead Roman legion you never knew you wanted to
+use.
 
 ### Skeletal Tomb Guardian (Both)
 
@@ -127,7 +141,6 @@ Twin Scimitars attack against an adjacent enemy that shifts, as an interrupt.
 
 All of the scimitars are high-crit weapons, so if the guardian rolls really well
 its damage output goes up considerably.
-
 
 ## Sample Encounters and Final Impressions
 
@@ -144,3 +157,5 @@ your ancient crypt needs.
 
 I like skeletons, and as I said I think the game wouldn't feel like a proper
 fantasy RPG (let alone D&D) without them.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
