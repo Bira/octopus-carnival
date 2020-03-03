@@ -41,7 +41,7 @@ Saturday, the Monday and Thursday parties might hear about it and feel its
 consequences in their games.
 
 And that's metaplot in its original, "platonically ideal" form. It's _what
-happens at the table_, propagating to the other PC parties that are pare of the
+happens at the table_, propagating to the other PC parties that are part of the
 same gaming group. This is practical because the setting is owned by a single GM
 or a small circle of them, who run the games for all groups involved and keep
 track of it all. As for "canon NPCs", _there are none_. It's PCs all the way

@@ -41,7 +41,7 @@ Artillery with a paltry 40 HP. This is not a typo, and you'll see why soon. They
 have darkvision, a speed of 6, and the standard undead resistances (immunity to
 disease and poison, necrotic resistance, radiant vulnerability).
 
-Skull lords project an aura (2) named **Master of The Grave**, which grant
+Skull lords project an aura (2) named **Master of The Grave**, which grants
 Regeneration 5 and a +2 bonus to saves to any undead allies inside. The aura is
 anchored to the Skull of Death's Command, below, so if that's destroyed it
 stops.
@@ -71,7 +71,7 @@ One additional effect of these **Triple Skulls** is that when the lord hits 0
 HP, a random skull is destroyed and it instantly heals back to full. It loses
 the powers associated with the destroyed skull but is otherwise able to keep
 acting normally. This is why it only has 40 HP - it's a multi-stage monster
-whose total is actually 120.
+whose HP total is 120.
 
 ## Sample Encounters and Final Impressions
 
@@ -86,4 +86,4 @@ Note that in both cases the skull lords could restore any of the other monsters
 in these encounters. If the PCs don't learn to destroy the skull lords first,
 they're gonna have a bad time.
 
-I like these things! They look badass and can be extremely dangerous.
+I like these things! They look badass and can be quite dangerous.
