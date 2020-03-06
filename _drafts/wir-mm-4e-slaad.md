@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-slaad.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Slaads show up in the AD&D 2nd Edition Monster Manual (though they might have
 appeared earlier in a supplement for 1e). In Fourth Edition, they are only on
 the Monster Manual.
@@ -114,7 +125,8 @@ Their big talons transmit the Chaos Phage as usual, and can also be used to
 slides the target 2 squares and knocks it prone on a hit.
 
 Once it's bloodied, the talon slaad gains access to **Ravager's Fury** (close
-burst 2 vs. AC; encounter), which gives it 20 temporary HP if it hits anyone.
+burst 2 vs. AC; encounter), an attack that gives it 20 temporary HP if it hits
+anyone.
 
 ### Green Slaad
 
@@ -149,7 +161,8 @@ teleport at speed 3. They retain their standard low-light vision.
 
 A void slaad's **Claws** don't lay eggs. Instead, in addition to their standard
 damage they do 10 ongoing damage (save ends). Each failed save eats a healing
-surge in addition to prolonging the damage!
+surge in addition to prolonging the damage! Perhaps they implant miniature black
+holes instead of eggs.
 
 They attack at range with **Rays of Entropy** (ranged 20 vs. Reflex), which
 damage and surround the target with an entropic shroud (save ends). While the
@@ -175,3 +188,5 @@ I kinda like these guys, and I like that they're Chaotic Evil in 4e. I never
 bought that story about how they're some pure manifestation of Chaotic Neutral
 even though most of what they do is kill people and lay eggs in their chest
 cavities, not necessarily in that order.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
