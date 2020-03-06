@@ -122,6 +122,10 @@ After this, we get right on the monsters:
   - [Elemental][80]
   - [Elf][81]
   - [Ettercap][82]
+  - [Ettin][83]
+
+- F
+  - [Flameskull][84]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -206,3 +210,4 @@ After this, we get right on the monsters:
 [81]: {{ "/2020/02/17/elf.html" | relative_url }}
 [82]: {{ "/2020/02/19/ettercap.html" | relative_url }}
 [83]: {{ "/2020/02/26/ettin.html" | relative_url }}
+[84]: {{ "/2020/02/27/flameskull.html" | relative_url }}
