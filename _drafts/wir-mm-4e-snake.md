@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-snake.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Snakes have been in the game since the beginning. They are present both in the
 Monster Manual and in the animal appendix of the Monster Vault.
 
@@ -18,28 +29,36 @@ evil gods.
 
 Still, this entry focuses on _monstrous_ snakes. The mundane varieties likely
 behave pretty much as they do in the real world, with a lot of them being
-harmless and the dangerous ones only attacking if they feel
-threatened.
+harmless and the dangerous ones only attacking if they feel threatened.
 
 Though monstrous snakes are large and aggressive enough to actively hunt people,
 most are still merely dangerous animals. A rare few might be blessed by Zehir,
 though, which makes them sapient, evil, and more powerful.
 
-Between the two books we have quite a lot of different snake stat blocks, so
-we'll have two "Numbers" sections to cover them all.
+Between the two books we have quite a lot of different snake stat blocks.
 
-## The Numbers (Monster Manual)
+## The Numbers
 
-The Monster Manual monstrous snakes are so varied that they have little in
-common that I can discuss here. They're all beasts, they all have the Reptile
-keyword, and they all bite. That's it.
+Snakes are so varied that they have little in common that I can discuss
+here. They're all beasts, they all have the Reptile keyword, and they all
+bite. That's it.
 
-### Deathrattle Viper
+### Spitting Cobra (Monster Vault)
 
-Pretty much a dire rattlesnake. It inhabits forests, jungles, and caves. These
-vipers are Medium Natural Beasts, and Level 5 Brutes with 75 HP. They have
-low-light vision, and resist 10 poison. Their land speed is 4, and they also
-have a climb speed of 4.
+The closest you'll get to a real snake here. Spitting Cobras are Small Natural
+Beasts, and Level 5 Minion Soldiers. Their **bite** does poison damage and marks for
+a turn, and their **Blinding Spittle** (ranged 5 vs. Reflex; recharge 4-6) does
+the same damage and blinds (save ends).
+
+I could see an eccentric kobold artificer firing these out of a cannon, or a
+priest of Zehir summoning them out of thin air.
+
+### Deathrattle Viper (Both)
+
+Pretty much a dire rattlesnake. It inhabits forests, jungles, and caves, though
+they wouldn't look out of place in a desert either. These vipers are Medium
+Natural Beasts, and Level 5 Brutes with 75 HP. They have low-light vision, and
+resist 10 poison. Their land speed is 4, and they also have a climb speed of 4.
 
 Their bony tails produce a magically enhanced **Death Rattle** that acts as an
 aura (2) which inflicts a -2 attack penalty to all enemies inside. This is a
@@ -53,7 +72,7 @@ from their updated bite damage. Their low speed makes running away from them a
 feasible tactic even for someone in heavy armor, so they should be paired with
 other monsters that make this more difficult.
 
-### Crushgrip Constrictor
+### Crushgrip Constrictor (Both)
 
 This is what you'd get if all the shit they say about boas and anacondas was
 true. They're found in jungles, marshes, and underground. Constrictors are Large
@@ -71,7 +90,7 @@ No explicit mention is made of how many targets the snake can have grabbed. If
 you're being relatively realistic, it should be just one. Larger or more
 supernatural versions might be able to coil around multiple unfortunates.
 
-### Flame Snake
+### Flame Snake (Monster Manual)
 
 A snake from the Elemental Chaos. Not much is written about its origins, so it
 could be a case of parallel evolution or one of those rare instances where
@@ -87,7 +106,7 @@ Their **bite** does a mix of physical and fire damage, and they can **Spit
 Fire** (Ranged 10 vs. Reflex), doing both immediate and ongoing fire damage
 (save ends).
 
-### Shadow Snakes
+### Shadow Snake (Monster Manual)
 
 The blessed of Zehir, these two-headed monsters are made of solid shadow and are
 venerated by Yuan-ti. They're level 16 Skirmishers with 158 HP. They slither at
@@ -125,3 +144,5 @@ featuring kobolds, as well.
 
 These snakes don't exactly rock my world, but I feel they're still a good
 addition to the game.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
