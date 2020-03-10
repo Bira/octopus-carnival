@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual/Vault: Galeb Durh"
+title: "Let's Read the 4e Monster Manual/Vault: Galeb Duhr"
 tags:
     - dnd4
     - lets-read
 ---
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-galeb-duhr.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 The Galeb Duhr apears in the AD&D 2nd Edition monster manual, and I believe in
 supplements for earlier editions, as this boulder-shaped creature that mostly
@@ -39,29 +48,30 @@ and rocks in ways that fit their roles.
 
 ### Galeb Duhr Earthbreaker
 
-The earthbreaker is Level 8 Artillery with 73 HP. Its basic attack is a slam,
-but it will mostly Hurl Stones (Area Burst 1 Within 10 vs. AC), which deals a
-bit of physical damage and makes the affected area difficult terrain. There's an
-explicit note in the power saying that the creature can create its own
-ammunition if none happens to be available in the surrounding area.
+The earthbreaker is Level 8 Artillery with 73 HP. Its basic attack is a
+**slam**, but it will mostly **Hurl Stones** (Area Burst 1 Within 10 vs. AC),
+which deals a bit of physical damage and makes the affected area difficult
+terrain. There's an explicit note in the power saying that the creature can
+create its own ammunition if none happens to be available in the surrounding
+area.
 
-If someone gets too close, the earthbreaker can cause a Shock Wave (Close Burst
-2 vs. Fortitude; Recharge 5-6) that does a bit of damage, pushes 1 square, and
-knocks prone.
+If someone gets too close, the earthbreaker can cause a **Shock Wave** (Close
+Burst 2 vs. Fortitude; Recharge 5-6) that does a bit of damage, pushes 1 square,
+and knocks prone.
 
 Damage from Hurl Stones is actually about right for a level 8 area attack; the
 others need to be increased a bit.
 
 ### Galeb Duhr Rockcaller
 
-This Level 11 Controller has 118 HP. Its slam is a little beefier, and it can
-also use a Rolling Attack which works as a charge that targets Fortitude,
-pushing the target 1 square and knocking them prone in addition to doing slam
-damage.
+This Level 11 Controller has 118 HP. Its **slam** is a little beefier, and it
+can also use a **Rolling Attack** which works as a charge that targets
+Fortitude, pushing the target 1 square and knocking them prone in addition to
+doing slam damage.
 
-The rockcaller can also use Earthen Grasp against a target who is touching the
-ground (Ranged 10 vs. Fortitude). This does no damage but restraints (save ends)
-on a hit. Only one creature can be so restrained at a time.
+The rockcaller can also use **Earthen Grasp** against a target who is touching
+the ground (Ranged 10 vs. Fortitude). This does no damage but restrains (save
+ends) on a hit. Only one creature can be so restrained at a time.
 
 As an at-will minor action, the Rockcaller can also turn 4 earth or stone
 squares inside a Close Burst 10 into difficult terrain. These don't need to be
