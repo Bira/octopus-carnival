@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-sorrowsworn.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I believe Sorrowsworn started out as a type of Forgotten Realms demon in 2e, but
 now they're something different. They're only on the Monster Manual.
 
@@ -24,13 +35,13 @@ Both types were often shadar-kai in their mortal lives. Becoming sorrowsworn is
 seen by them as a glorious ascension, since it makes them not only ageless but
 also more goth than anything mortal.
 
-Sorrowsworn feed on grief, and so tend to hang out at the sites of great raging
-conflicts. Those who serve the Raven Queen are also tasked with hunting down
-beings who have cheated death. This doesn't mean people who were the subject of
-Raise Dead - rather, it's people who have found a way to stick around beyond
-their appointed time. Most often they're some sort of undead like vampires,
-liches or nightwalkers, but I guess someone who hunts phoenixes and regularly
-huffs their powdered feathers would fit as well.
+Sorrowsworn feed on grief, and so tend to hang out at the sites of great
+catastrophes or conflicts. Those who serve the Raven Queen are also tasked with
+hunting down beings who have cheated death. This doesn't mean people who were
+the subject of Raise Dead - rather, it's people who have found a way to stick
+around beyond their appointed time. Most often they're some sort of undead like
+vampires, liches or nightwalkers, but I guess someone who hunts phoenixes and
+regularly huffs their powdered feathers would fit as well.
 
 Sorrowsworn lairs are bleak caves and pits whose walls are covered in tiny
 alcoves containing trophies from their past victims. These are arranged in
@@ -120,7 +131,7 @@ One of the sample encounters here also has them alongside the epic-level
 dragonborn deathknight, which hints that not all of them hate undead.
 
 Sorrowsworn fill the same niche as rot harbingers: as regulars, they're supposed
-to be the basic building block for encounters in an Epic-tier adventure focusing
+to be the basic building block for encounters in a late Epic adventure focusing
 on their patron. I feel they work a lot better, though, as they have more
 interesting maneuvers in their stat blocks. They also don't rely exclusively on
 necrotic damage, so it's harder to get protection against their attacks.
@@ -132,3 +143,5 @@ You can still use sorrowsworn in a campaign where the PCs aren't likely to
 oppose the Raven Queen. There might very well be renegade sorrowsworn out there,
 and you could also reskin them and make them undead to use as better rot
 harbingers in a campaign focused on opposing Orcus.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

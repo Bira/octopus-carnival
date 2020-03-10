@@ -127,6 +127,7 @@ After this, we get right on the monsters:
 - F
   - [Flameskull][84]
   - [Fomorian][85]
+  - [Foulspawn][86]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -213,3 +214,4 @@ After this, we get right on the monsters:
 [83]: {{ "/2020/02/26/ettin.html" | relative_url }}
 [84]: {{ "/2020/02/27/flameskull.html" | relative_url }}
 [85]: {{ "/2020/03/07/fomorian.html" | relative_url }}
+[86]: {{ "/2020/03/09/foulspawn.html" | relative_url }}
