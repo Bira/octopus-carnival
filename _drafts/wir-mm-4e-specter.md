@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-specter.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Specters have been in the game since the beginning, and here they're only on the
 Monster Manual.
 
@@ -20,19 +31,19 @@ Specters are incorporeal undead that can form "naturally" when an evil murderer
 or other equally depraved villain dies. Unlike a ghost, they don't retain any
 memory of their life, and aren't bound to a particular location. However,
 they're just as evil as they always were, and their new hatred of the living
-ensures they keep looking for new people to kill.
+ensures they keep looking for people to kill.
 
 Specters tend to cling to other equally malevolent undead, and will sometimes
-ally with a living being who is as evil and murderous as they are for as long as
-new victims keep coming.
+ally with evil living beings if that would ensure a steady supply of victims.
 
 ## The Numbers
 
 Specters are Medium Shadow Humanoid with the Undead keyword. They have
-darkvision as well as both the **insubstantial** and **phasing** traits, meaning
-they take half damage from most sources and can pass through solid
-surfaces. Their HP is a bit lower than their level would indicate, so being
-insubstantial doesn't make fights last that much longer.
+darkvision as well as both the **insubstantial** and **phasing** traits. If
+you're using Monster Vault-era rules this means they take half damage from
+everything but force attacks, but when specters were published they took half
+damage from all sources. Their HP is a bit lower than their level would
+indicate, so being insubstantial doesn't make fights last that much longer.
 
 As undead, they're immune to disease and poison and have some degree of necrotic
 resistance and radiant vulnerability. They have no ground speed, but they fly,
@@ -44,8 +55,8 @@ The basic model is a Level 4 Lurker with 30 HP and all the traits mentioned
 above. It flies at speed 6, has 10 necrotic resistance, and 5 radiant
 vulnerability.
 
-The specter has a **Spectral Chill** aura (1), which inflicts a -2 penalty to all
-enemy defenses. It attacks with a **Spectral Touch** that targets Reflex and
+The specter has a **Spectral Chill** aura (1), which inflicts a -2 penalty to
+all enemy defenses. It attacks with a **Spectral Touch** that targets Reflex and
 does necrotic damage. It can also unleash a **Spectral Barrage** (close burst 2
 vs. Will) which does psychic damage and knocks prone. This is likely some sort
 of scary illusion.
@@ -78,3 +89,5 @@ Specters feel to me like one of those monsters that should have been rolled into
 the "Ghost" entry. They don't have much to distinguish them from ghosts or from
 wraiths (the other surviving synomym). I'd guess that's why they didn't make the
 Monster Vault.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

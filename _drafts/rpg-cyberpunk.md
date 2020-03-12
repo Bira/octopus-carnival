@@ -25,8 +25,8 @@ in my first post on the subject because I'm going to talk about them now.
 
 That first cyberpunk roleplaying game is 1988's Cyberpunk 2020[^1]. It was
 released a scant few years after Neuromancer, but it already diverges from the
-themes of literary cyberpunk in ways that will have tremendous impact on all
-future games.
+themes of literary cyberpunk in significant ways. It being the first also means
+its tropes would go on to have a large impact on subsequent games.
 
 ## The Barnacles
 
@@ -82,7 +82,7 @@ explicit separation between mechanics and fiction wasn't a popular concept in
 tabletop RPGs back then.
 
 Shadowrun would not only use this trope when it released not long after, but go
-even further by saying that cybernetic implants _literally eat your
+even further by saying that cybernetic implants _literally erode your
 soul_. Install too many and you die because you run out of soul. No, your soul
 doesn't grow back even if you remove the offending implants; yes, it makes
 relating to people harder because they can sense you're a soul-damaged
@@ -95,7 +95,7 @@ you less human, but then saying that being human wasn't all that to begin
 with. In real life, of course, you have plenty of stories of people who felt
 _more_ human after acquiring prosthetic limbs or other therapeutic implants.
 
-## Cartoonishly Evil Corporations
+### Cartoonishly Evil Corporations
 
 No, literary cyberpunk never looked at large corporations and the billionaires
 that own them with a favorable eye. William Gibson spells it out right there on
@@ -105,9 +105,35 @@ implants that make you less human in cyberpunk, it's _capital_.
 However, these are games written in the late-80s/early-90s US, right around when
 Francis Fukuyama made his "end of history" speech. Their authors probably
 figured they wouldn't sell a lot of copies if their corebooks said "capital is
-evil". So they used the next best thing, the concept of megacorporations.
+evil". And that's how megacorporations were born.
 
+In 90's cyberpunk RPGs, it's not capitalism that's the source of injustice or
+oppression, it's a small set of very large corporations that perverted
+capitalism for their own ends. So your punks aren't really rebelling against
+capital, they're rebelling against these specific corporations. They're all
+fictional, of course, because you don't want to cast aspersions on a real
+company and get sued. And their schemes are over-the-top to emphasize that
+they're worse than upstanding real-world corporate citizens like Enron or
+Haliburton, because who could imagine them doing any real evil?
 
+You can guess why this particular trope has been getting less and less
+believable as time goes by.
+
+### Cataclysms Galore!
+
+This also ties into the whole "end of history" jam that was prevalent at the
+time. If you buy into that (like a lot of authors and audiences did) then you
+believe that from now on everything will only get better, forever and ever. But
+you're writing a cyberpunk game, and you know cyberpunk means "dystopia". So how
+can you write a future that's worse than your present if you believe the real
+future will always be better? You insert a disaster or three in your timeline.
+
+Cyberpunk has a plague and three global corporate wars. Shadowrun has something
+like two or three global plagues, the return of magic, and a series of nuclear
+meltdowns that basically devastated Europe. Both also kept adding more as their
+metaplots went on. Every other setting has something like that, to the point
+where one of Transhuman Space's claims to not being cyberpunk is "no disasters
+in our timeline!"
 
 [1]: {{ "/2018/12/13/on-cyberpunk.html" | absolute_url }}
 

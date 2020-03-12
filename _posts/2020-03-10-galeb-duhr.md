@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 The Galeb Duhr apears in the AD&D 2nd Edition monster manual, and I believe in
 supplements for earlier editions, as this boulder-shaped creature that mostly
 just likes to hang out in rocky places. In Fourth Edition they get a slightly
@@ -95,3 +97,5 @@ you'd have with their 2e counterparts, but the added backstory gives you more
 hooks from which to hang your plots. Their culture is less complex and
 craft-based than that of the azers, but then again so is that of their giant
 masters.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
