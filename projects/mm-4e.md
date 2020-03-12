@@ -129,6 +129,9 @@ After this, we get right on the monsters:
   - [Fomorian][85]
   - [Foulspawn][86]
 
+- G
+  - [Galeb Duhr][87]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -215,3 +218,4 @@ After this, we get right on the monsters:
 [84]: {{ "/2020/02/27/flameskull.html" | relative_url }}
 [85]: {{ "/2020/03/07/fomorian.html" | relative_url }}
 [86]: {{ "/2020/03/09/foulspawn.html" | relative_url }}
+[87]: {{ "/2020/03/10/galeb-duhr.html" | relative_url }}
