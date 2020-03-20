@@ -132,6 +132,7 @@ After this, we get right on the monsters:
 - G
   - [Galeb Duhr][87]
   - [Gargoyle][88]
+  - [Ghost][89]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -220,4 +221,5 @@ After this, we get right on the monsters:
 [85]: {{ "/2020/03/07/fomorian.html" | relative_url }}
 [86]: {{ "/2020/03/09/foulspawn.html" | relative_url }}
 [87]: {{ "/2020/03/10/galeb-duhr.html" | relative_url }}
-[88]: {{ "/2020/02/12/gargoyle.html" | relative_url }}
+[88]: {{ "/2020/03/12/gargoyle.html" | relative_url }}
+[89]: {{ "/2020/03/18/ghost.html" | relative_url }}
