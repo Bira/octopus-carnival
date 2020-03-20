@@ -6,14 +6,25 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-spider.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Spiders have been in the game since the beginning. Here, they're present in both
 the Monster Manual and in the Monster Vault's animal appendix.
 
 ## The Lore
 
-While some real-world spiders can have a pretty dangerous bite, it's not really
-suitable as a combat encounter. The books concern themselves with monstrous
-giant spiders instead.
+While some real-world spiders can have a pretty dangerous bite, they're not
+really suitable as a combat encounter. The books concern themselves with
+monstrous giant spiders instead.
 
 There are many species of monstrous spider in D&D and they're
 everywhere. Deserts, forests, caverns ("surface" or Underdark), ruins, anywhere
@@ -24,7 +35,7 @@ Lolth and enjoy her divine gifts.
 Predictably, drow love spiders and frequently train them or control them through
 magic to serve in all the same capacities someone on the surface would use a
 dog, horse, or drake for. Kobolds and goblins might also employ them if they're
-one of the locally available fauna.
+part of the locally available fauna.
 
 ## The Numbers
 
@@ -109,9 +120,9 @@ there are plenty of other options.
 
 ### Blade Spider (MM)
 
-These Large spiders have two legs shaped like blade-like claws, and attack with
-them instead of biting. They live in the Underdark and are popular drow pets,
-having the Mount keyword.
+These Large spiders have two blade-like front legs, and attack with them instead
+of biting. They live in the Underdark and are popular drow pets, having the
+Mount keyword.
 
 Blade spiders are Level 10 Brutes with 130 HP, tremorsense 10, and
 speed 6. Unlike most of their relatives, they have no resistance to
@@ -174,3 +185,5 @@ very often be accompanied by drow as well.
 I think giant spiders are a classic dungeon denizen, and work well when used in
 moderation. Of course, drow are known for despising the concept of moderation
 when it comes to arachnids.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
