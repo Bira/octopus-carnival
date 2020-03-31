@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-stirge.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Stirges have been in the game at least since the days of Basic. Here, they are
 both in the Monster Manual and in the Vault.
 
@@ -25,8 +36,8 @@ stirges from nesting there. Sheperds and ranchers absolutely hate them and have
 their own set of measures.
 
 Any dark dungeon might be home to a flock of stirges, making them one of the
-many dangers adventurers must be wary of. A large enough flock can threaten even
-seasoned veterans!
+many dangers adventurers must always be wary of. A large enough flock can
+threaten even seasoned veterans!
 
 Since they're considered vermin by the people of the world, they also have all
 the same sinister associations worms and rats and such get. Particularly gross
@@ -52,12 +63,13 @@ blood-sucking. While the stirge is grabeed, it gains +5 to AC and Reflex.
 The MM version has an extremely weak bite even for a level 1 monster (1d4
 damage), but the MV updates that to be in line with the new math (1d4+5).
 
-While that's not a big threat to a full party, it's terrifying to a civilian!
-Non-combatants are likely minions, and if not they're unlikely to have much more
-than 10 or 15 HP. A stirge like the above could be nesting in any given dark
-hole near the poor schmuck's farm, and could kill them in one bite and _maybe_ a
-round or two of blood-sucking. It's likely to be a much more common threat than
-a goblin raid or the like.
+While a single stirge is not a big threat to a full party, it's terrifying to a
+civilian!  Non-combatants are likely minions, and if not they're unlikely to
+have much more than 10 or 15 HP. A stirge like the above could be nesting in any
+given dark hole near the poor schmuck's farm, and could kill them in one bite
+and _maybe_ a round or two of blood-sucking. The civilian is also more likely to
+meet the stirge than a goblin or the like, and of course it will never be just
+one stirge.
 
 ### Stirge Suckerling (MV)
 
@@ -134,7 +146,7 @@ You're probably better off leveling up the suckerling swarm.
 ## Sample Encounters and Final Impressions
 
 You can't really tame stirges, since they'll attack anything that has blood, but
-sometimes kobolds and goblins use captured stirges as traps. Trip the wire,
+sometimes kobolds and goblins use captured stirges as traps. Trigger the trap,
 release the swarm! They can also be encountered as indiscriminate opportunists,
 or in coincidental cooperation with things they won't feed on.
 
@@ -148,3 +160,5 @@ swarm stat block to get a swarm of death husk stirges.
 
 I usually wouldn't be very enthusiastic about stirges, but now I kinda want to
 use the Zombie Surprise at least once.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
