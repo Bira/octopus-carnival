@@ -134,6 +134,7 @@ After this, we get right on the monsters:
   - [Gargoyle][88]
   - [Ghost][89]
   - [Ghoul][90]
+  - Introduction to [Giants][91]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -225,3 +226,4 @@ After this, we get right on the monsters:
 [88]: {{ "/2020/03/12/gargoyle.html" | relative_url }}
 [89]: {{ "/2020/03/18/ghost.html" | relative_url }}
 [90]: {{ "/2020/03/20/ghoul.html" | relative_url }}
+[91]: {{ "/2020/03/30/giants.html" | relative_url }}
