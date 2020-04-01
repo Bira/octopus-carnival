@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-earth-giants.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 The "Earth Giants" designation is new to 4th edition, but the monsters that make
 up most of them are not. In other words, this is going to be a post about Hill
 Giants. They've been in D&D since the start and are present in both books in
@@ -54,7 +65,7 @@ keywords and a typical Int of 10.
 
 The classic model is a Level 13 Brute with 159 HP. Its long legs give it a land
 Speed of 8. The versions from both books are identical, with the only difference
-being that the MV one has fixed damage totals.
+being that the MV one has updated damage totals.
 
 Hill giants attack with a club, which might be something like a tree trunk. Once
 per encounter they can make a Sweeping Club attack, which allows them to attack
@@ -131,3 +142,5 @@ mountains and canyons. That does potentially include dragons!
 The MV gives us enough stat blocks that we can build a large variety of
 encounter groups made up entirely (or mostly) of hill giants, which is perfect
 for the GM who wants to adapt the first Against the Giants adventure to 4e.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
