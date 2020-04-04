@@ -1,0 +1,143 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Treant"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Treants are inspired by Tolkien's ents and have been in the game since at least
+the days of BECMI, and likely earlier. Here, they are both in the Monster Manual
+and in the Vault.
+
+## The Lore
+
+Treants are indeed very similar to the ents we see in The Lord of the Rings:
+they're sapient tree-like creatures who live in primeval forests. The main
+difference between them (especially in 4e) is that treants are a lot quicker to
+arrive at decisions, and a lot angrier with trespassers.
+
+Treants love the forests where they live, and acts as their guardians. They
+spend much of their extremely long lives in a dormant/meditative state in which
+they're pretty much indistinguishable from normal trees. In this state, they can
+feel the general state of the surrounding forest and its creatures, and know
+when it's in distress. When that happens, they rise to defend it.
+
+Though treants love their forest and its creatures, they hold no particular
+regard for any outsiders. They'll be friendly towards those who demonstrate the
+proper respect for the wild, and violent towards anyone who has the temerity to
+chop down trees or otherwise despoil their territory.
+
+The Monster Vault goes a little further here, saying that treants view
+civilization in much the same way "civilized" people view the untamed wild: a
+source of danger best removed. Their prefer nature in its wildest and most
+unspoiled state, and will work to protect their territories even from natural
+disasters like floods or fires caused by lightning. They'll ally with anyone who
+shares their values and opposes their enemies. They're also very easy to anger
+(particularly when they feel they've been betrayed) and very hard to placate.
+
+A treant's most frequent allies are dryads, who share their general
+disposition. Eladrin and other fey are often allies as well, though in this case
+both sides tend to view each other more warily. You could even have a treant
+protecting the lair of an orc tribe, as long as the orcs focus their destruction
+outside of the treant's domain.
+
+## The Numbers
+
+Treants are Huge Fey Magical Beasts with the Plant keyword. They have low-light
+vision, Forest Walk, and a **Wooden Body** trait that makes them take ongoing 5
+fire damage (save ends) whenever an attack deals immediate fire damage to
+them. The trait only gets a name in the Monster Vault, but is also present in
+the MM versions.
+
+Treants fight using a combination of their great strength with primal magic that
+grants them a measure of control around their surroundings. They're fairly
+smart at Int 14, and though grumpy and aggressive they're Unaligned.
+
+### Bramblewood Treant (Monster Vault)
+
+Unlike the other treants, this one is "only" Large. It could be a younger
+specimen, or a different species that inhabits forests with smaller trees. It's
+a Level 10 Soldier with 108 HP and all common treant traits. It has speed 8 and
+a **Bramble Branches** aura (2) that turns the covered area into difficult
+terrain.
+
+The bramblewood treant attacks with Reach 2 **slams** that mark the target for a
+turn, and can throw **stones** (Ranged 20 vs. AC) for some ranged damage. If an
+enemy within 2 squares moves, the treant can use **Entangling Branches** (melee
+2 vs. Reflex) as an interrupt and grab them with an escape DC of 18.
+
+This treant is at the right level to pal around with most dryads, some of the
+eladrin, or the banshrae.
+
+### Treant (Both)
+
+The basic model is Huge, and a Level 16 Elite Controller with 316 HP and all
+common traits. Its land speed is 8, and it projects a **Grasping Roots** aura
+(3) that makes the covered area difficult terrain for nonflying enemies.
+
+It fights with powerful **slams**, and can use an **Earthshaking Stomp** (close
+burst 2 vs. Fortitude) to do a bunch of damage and knock enemies prone. In the
+Monster Manual this is an encounter power, and in the Monster Vault it recharges
+if the attack misses every target.
+
+The treant's other trick is **Awaken Forest** (area burst 3 within 10 vs. AC),
+which causes the vegetation in the area (trees included) to animate and attack
+enemies within. In the MM this is an encounter power that creates a zone which
+can be sustained with minor actions, and which makes new attacks against enemies
+inside whenever the treant sustains it.
+
+In the MV, it's a simple at-will standard action attack, and it creates a zone
+of difficult terrain that lasts either until the end of the encounter, or until
+the treant uses this power again.
+
+The Monster Vault version of the treant is by far the better one, since it has
+updated damage values and is also a better controller. Other than "use fire",
+there isn't much you can do to get the upper hand over it, since it can make
+solid attacks and impair movement both in melee and at range. Treants pair
+really well with other creatures that have the Forest Walk ability.
+
+### Treant Grove Guardian (Monster Vault)
+
+I guess this is the sort of creature you can find guarding a powerful druid's
+home base. It's a Level 18 Brute with 212 HP and all common treant traits. Its
+speed is 8.
+
+Grove guardians are all about physical combat. Their basic attack is a Reach 3
+**Sweeping Slam** that can target one or two creatures, damaging and knocking
+them prone on a hit. Once per encounter they can perform a maneuver called
+**Stump Stomp**, in which they move their speed, can enter other creature's
+spaces, and make a sweeping slam attack against each creature whose space they
+enter.
+
+### Blackroot Treant (Both)
+
+This is an _undead_ treant. You know those haunted forests where the trees seem
+to have evil faces? These guys are those trees. Unlike living treants they're
+actively Evil, and actually a bit smarter at Int 16.
+
+Blackroot treants are Huge Level 19 Elite Soldiers with 368 HP and all common
+treant traits. They have Speed 6 and the Undead keyword in addition to being
+Plants. They project a **Killing Roots** aura (2) which does 10 necrotic damage
+to enemies caught inside.
+
+Their Reach 3 **slams** also do ongoing necrotic damage (save ends), and mark the target
+for a turn. They have **Double Attack**, and so can use two of those per
+action. As a minor action they can use **Entangling Roots** (melee 4 vs. Reflex)
+to knock someone prone and restrain them.
+
+The Monster Manual version is a less powerful, since it lacks Double Attack, its
+slams don't mark, and the effect of Entangling Roots ceases if the treant gets
+more than 4 squares away from the target. Always use the MV version if
+possible. Used well, they can keep most of the party locked down tight, since
+they can use Entangling Roots 1-3 times per turn and have no limit to the number
+of people they can keep restrained.
+
+### Sample Encounters and Final Impressions
+
+The MM sample encounter is level 19 and all about that haunted forest vibe: 1
+blackroot treant, 2 slaughter wights, and 2 sword wraiths.
+
+I like treants, even though this iteration of them is a bit more aggressive than
+I would like. Mechanically speaking, the MV versions are clearly superior to the
+MM originals, and you should use them whenever possible.
