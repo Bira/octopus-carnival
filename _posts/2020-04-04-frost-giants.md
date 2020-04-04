@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-frost-giant.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+
 Frost giants are based on the Jotuns of nordic folklore, and these roots
 translate into them being the most viking-like of all D&D giants. They've been a
 part of the game since its beginnings. Frost giants appear on the Monster Vault
@@ -156,3 +168,5 @@ vulnerable to cold as a basic infantry unit? Yikes!
 The MV versions are generally superior because of their damage fixes and more
 focused stat blocks, but the ice shaper fills a nice niche that seems to be
 missing from the MV stat blocks.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
