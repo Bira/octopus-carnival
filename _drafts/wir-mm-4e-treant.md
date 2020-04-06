@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-treant.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Treants are inspired by Tolkien's ents and have been in the game since at least
 the days of BECMI, and likely earlier. Here, they are both in the Monster Manual
 and in the Vault.
@@ -48,11 +59,12 @@ Treants are Huge Fey Magical Beasts with the Plant keyword. They have low-light
 vision, Forest Walk, and a **Wooden Body** trait that makes them take ongoing 5
 fire damage (save ends) whenever an attack deals immediate fire damage to
 them. The trait only gets a name in the Monster Vault, but is also present in
-the MM versions.
+the MM versions. If the attack in question already does ongoing fire damage, I
+guess this trait doesn't stack with it.
 
 Treants fight using a combination of their great strength with primal magic that
-grants them a measure of control around their surroundings. They're fairly
-smart at Int 14, and though grumpy and aggressive they're Unaligned.
+grants them a measure of control over their surroundings. They're fairly smart
+at Int 14, and though grumpy and aggressive they're Unaligned.
 
 ### Bramblewood Treant (Monster Vault)
 
@@ -141,3 +153,5 @@ blackroot treant, 2 slaughter wights, and 2 sword wraiths.
 I like treants, even though this iteration of them is a bit more aggressive than
 I would like. Mechanically speaking, the MV versions are clearly superior to the
 MM originals, and you should use them whenever possible.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

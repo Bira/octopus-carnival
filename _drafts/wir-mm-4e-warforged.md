@@ -44,4 +44,61 @@ Nerathian creation forge, or even assembled by hand by an isolated artificer.
 
 ## The Numbers
 
-Monster Manual warforged have seberal
+Warforged are Medium Natural Humanoids with the Living Construct
+keyword. Monster Manual warforged have several signature traits: they get a +2
+to saves against ongoing damage, they employ **Battlefield Tactics** that grant
+them a +1 bonus to melee attack if any ally is adjacen to the target, and they
+can use the **Warforged Resolve** encounter power as a minor action when
+bloodied to recover a healing surge's worth of HP.
+
+Playable Warforged would appear in the Eberron Player's Guide: they'd get the
+save bonus against ongoing damage and a modified form of **Warforged Resolve**,
+along with a few other things.
+
+### Warforged Soldier
+
+This is a Level 4 Soldier with 56 HP and all standard warforged traits. It wears
+plate, and wields a longsword and a shield. Its ground speed is 5, and it's
+trained in Endurance and Intimidate.
+
+The soldier's basic (and only) attack is the **longsword**, which does average
+damage for its level and marks for a turn. Its **Warforged Resolve** heals it
+for 14 HP when used.
+
+The warforged isn't too different from a human fighter, but its racial traits
+give significantly more staying power. You can slap them onto any human stat
+block to get the warforged version. If you use them in a tight formation then
+most of them will get the +1 Battlefield Tactics bonus all the time when
+attacking targets directly in front of the formation.
+
+### Warforged Captain
+
+This is a Level 6 Soldier (Leader) with 72 HP and all common warforged
+traits. Its speed is 5 due to armor and its Warforged Resolve heals it for 18 HP
+when used.
+
+Captains fight with a Reach 2 **glaive**, which does average damage and marks for a
+turn. It can use this weapon to performa **Tactical Switch** maneuver (recharge
+4-6), in which it makes a basic attack that also slides the target 1 square. If
+this hits, the captain or an ally within 10 squares can also shift 1 square.
+
+Captains excel at fighting from the back row of that warforged soldier
+formation, since they have a reach weapon. Tactical Switch is good for
+disrupting enemy formations, or interrrupting flanking attempts by individual
+strikers.
+
+## Sample Encounters and Final Impressions
+
+We have a single sample encounter: Level 4, three human guards, 1 warforged
+soldier, and 1 warforged captain. A mixed force that makes it look like
+warforged make up the command and elite in this particular army.
+
+Mechanically, these Monster Manual warforged are very simple and present little
+in the way of exciting surprises other than the fact that they
+will. Not. Stay. Down. If I'm being honest the book might have done without them
+entirely.
+
+However, I absolutely love the _concept_ of warforged, both as player characters
+and as NPCs. I understand why the first MM included these: the Eberron books
+were still a little ways away, and the authors might have felt its fans needed a
+little reassurance.
