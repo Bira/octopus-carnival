@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-fire-giant.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Fire giants make up the final members of the "Against the Giants" trio. Like
 their frosty cousins they're inspired by Norse mythology, but their D&D
 incarnation is a lot less viking-ish. They're present on both books.
@@ -117,3 +128,5 @@ might want to change that if the party has very strong fire protection. I'd
 probably give the basic fire giant a way to punish people who ignore its marks,
 as I feel the -2 penalty for attacking other enemies isn't enough deterrence at
 these levels.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
