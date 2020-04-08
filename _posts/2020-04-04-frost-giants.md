@@ -10,7 +10,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-mm-4e-frost-giant.png" | absolute_url }}"/>
   <figcaption>
-    Definitely not a D&D illustration
+    Copyright 2009 Wizards of the Coast
   </figcaption>
 </figure>
 {:/nomarkdown}
