@@ -137,6 +137,7 @@ After this, we get right on the monsters:
   - Introduction to [Giants][91]
     - [Earth Giants][92]
     - [Frost Giants][93]
+    - [Fire Giants][94]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -231,3 +232,4 @@ After this, we get right on the monsters:
 [91]: {{ "/2020/03/30/giants.html" | relative_url }}
 [92]: {{ "/2020/04/01/earth-giants.html" | relative_url }}
 [93]: {{ "/2020/04/04/frost-giants.html" | relative_url }}
+[94]: {{ "/2020/04/06/fire-giants.html" | relative_url }}

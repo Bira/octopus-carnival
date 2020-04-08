@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-fire-giant.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Death Giants are a 3.x creation, first appearing in one of that edition's
 Monster Manual 2 or 3. For 4e, they get a new backstory. They appear only on the
 Monster Manual.
@@ -97,3 +108,5 @@ IIRC, the deathpriest hierophant is tied to Orcus, the demon lord of undeath
 (we'll get to him in time). So perhaps you could say that in your campaign,
 death giants were originally created by the primordial who became Orcus, and
 that their transformation happened at the same time as that of their master.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

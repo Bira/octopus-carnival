@@ -58,7 +58,7 @@ they're other storm giants/titans.
 
 The storm giant wields a Crackling Greatsword in combat (Reach 2 vs. AC) which
 does a mix of physical and lightning damage. The giant can sweep the sword in a
-wide arc (Cloe Burst 2 vs. AC; Recharge 6), damaging everyone it hits. It can
+wide arc (Close Burst 2 vs. AC; Recharge 6), damaging everyone it hits. It can
 also hurl thunderbolts (Ranged 10 vs. Reflex) for lightning and thunder
 damage. In addition to doing damage, they also push the target 3 squares and
 daze them (save ends) on a hit.
@@ -92,7 +92,7 @@ the giant you find atop the cloud is the one that wants to grind your bones for
 seasoning, not invite you to dinner. And if you really want to you could bring
 the good sky giants back using these same stats.
 
-I also on't mind that the storm giant and titan share similar abilities -
+I also don't mind that the storm giant and titan share similar abilities -
 conceptually, their set is fairly solid. The main problem here is that both
 suffer from the fairly severe form of the damage bug that afflicts epic-level
 creatures. You should definitely fix that before using them in your adventures.
