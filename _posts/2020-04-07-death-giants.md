@@ -8,9 +8,9 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-mm-4e-fire-giant.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm-4e-death-giant.png" | absolute_url }}"/>
   <figcaption>
-    Definitely not a D&D illustration
+    Copyright 2008 Wizards of the Coast
   </figcaption>
 </figure>
 {:/nomarkdown}
