@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-storm-giant.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Storm giants are another classic giant type, present since at least the days of
 AD&D. In Fourth Edition they seem to have been merged with cloud giants, which
 used to be quite close in power to them and differed mostly on alignment. Both
@@ -96,3 +107,5 @@ I also don't mind that the storm giant and titan share similar abilities -
 conceptually, their set is fairly solid. The main problem here is that both
 suffer from the fairly severe form of the damage bug that afflicts epic-level
 creatures. You should definitely fix that before using them in your adventures.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

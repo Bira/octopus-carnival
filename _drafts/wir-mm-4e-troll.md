@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-troll.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 D&D Trolls are inspired by the writings of Poul Anderson and have been in the
 game since the beginning. Here, they are present in both the Monster Manual and
 the Vault. I'm telling you in advance: I'm not gonna make jokes about rude
@@ -23,24 +34,24 @@ and acid. One of these is required to kill a troll permanently - it can come
 back from anything else. This makes them pretty much fearless in combat. Trolls
 attack even when they're outnumbered and when the enemies seem strong, because
 they're confident in their survival. Even the presence of fire and acid doesn't
-get them to back off, though in this case they might retreat if they get too
-hurt.
+get them to back off right away, though in this case they might retreat if they
+get too hurt.
 
 I imagine this made trolls into dangerous puzzle monsters back when they were
 new, but now pretty much any D&D veteran is going to know about their
 weaknesses. If you have no other source of fire you can "kill" the troll with
-conventional weapons and stick a lit torch in it to finish the job, but that's a
-lot easier said than done. And adventurers these days tend to prefer those
+conventional weapons and stick a lit torch in it to finish the job, but even
+that is easier said than done. And adventurers these days tend to prefer those
 alchemical glow-sticks as light sources, so they might not even have torches
 available if they don't know a troll is around!
 
 Trolls are sapient, but not very smart. Still smarter than ogres,
 though. Tricking the typical troll is easy, provided you can get it to talk to
-you instead of immediately ripping you apart for lunch. All sorts of villains
-and tyrants like to recruit trolls into their forces, since they'll readily work
-for a bit of money and a lot of food. Such trolls are all too glad to receive
-any additional training and gear from their bosses, and though they make for
-undisciplined and rowdy soldiers, they're deadly in a fight.
+you instead of immediately ripping you apart and eating the pieces. All sorts of
+villains and tyrants like to recruit trolls into their forces, since they'll
+readily work for a bit of money and a lot of food. Such trolls are all too glad
+to receive additional training and gear from their bosses, and though they make
+for undisciplined and rowdy soldiers, they're deadly in a fight.
 
 Evil wizards also love trolls, for a different reason. They can survive all
 sorts of disturbing magical experiments, which tend to result in weird mutants
@@ -48,8 +59,9 @@ much stronger and much less mentally stable than a standard troll.
 
 It's perfectly possible for there to be trolls who aren't evil and who don't eat
 other sapients, though even them they'd have a hard time coexisting with those
-sapients since they require so much meat to sustain themselves. Even nice trolls
-are likely to make their home in the wilderness far away from any settlements.
+sapients since they require large hunting areas to sustain themselves. Even nice
+trolls are likely to make their home in the wilderness far away from any
+settlements.
 
 ## The Numbers
 
@@ -171,5 +183,13 @@ The Monster Manual has three sample encounters:
 War and battle trolls can be found alongside anyone who is willing to pay
 them. The others would be found with more trolls, and with creatures they might
 have decided to keep as pets. Mechanically, they need that company to make for
-more interesting fights, because their abilities aren't very exciting on their
+more interesting fights, because their abilities aren't very varied on their
 own.
+
+Adding some trolls to a "wilderness" region you're populating might work as a
+fine explanation for why all those other deadly monsters don't spill out and
+overwhelm nearby "points of light". If anyone would hunt and eat bullettes, dire
+boars, roaming gricks and maybe even the occasional drow scouting party, it's a
+bunch of trolls.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
