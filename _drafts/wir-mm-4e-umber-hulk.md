@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-umber-hulk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Umber Hulks have been in the game since at least AD&D 1st Edition. Here, they're
 present in both the Monster Manual and the Vault.
 
@@ -152,3 +163,5 @@ Manual. If you have the Vault, you can disregard the MM versions entirely.
 I like Umber Hulks! They're a big dumb brute monster with some really
 interesting tricks to go with he usual physical attacks. Fighting them requires
 a bit more thought because of that.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Gibbering beasts used to be several different monster entries that originally
 appeared throughout AD&D and 3.x in different places. Here they were quite
 sensibly collected together. They appear only on the Monster Manual, but
@@ -195,3 +197,5 @@ I feel that if there's one family of monsters worthy of the "Aberrant" title,
 it's the gibbering beasts. The Gibbering Orb is awesome in that role, and the
 "basic" Gibbering Mouther is actually better at evoking horror than the
 abomination, with its "your body grows mouths and tries to eat itself" attack.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
