@@ -78,8 +78,8 @@ can shift up to 5 squares and pull the victim along with it.
 Its eyes can cast a **Rebuffing Gaze** (close blast 5 vs. Will). The targets it
 hits take 2d6 damage whenever they enter a square closer to the hulk during
 their next turn. So it's more of a disincentive to move closer than a
-prohibition, and an ally who's feeling lucky can risk taking up to 10d6 damage
-to charge anyway. At levels 12-15, this is significant but not necessarily
+prohibition, and an PC who's feeling lucky can risk taking up to 10d6 damage
+to charge in anyway. At levels 12-15, this is significant but not necessarily
 lethal.
 
 ### Umber Hulk Bewilderer (Monster Vault)
@@ -93,14 +93,15 @@ blast 5 vs. Will; recharge 5-6) as a standard action to stun those enemies it hi
 and it can use a **Staggering Gaze** (close blast 5 vs. Will) as 1/round minor
 action to do a bit of psychic damage and slide the target 5 squares.
 
-Bewilderers can punch above their weight if they focus on a single PC, and if
-you have more than one such umber hulk they multiply each other's firepower. I'd
-say include at least two in an encounter group where you want them to be.
+Bewilderers can punch above their weight class if they focus on a single PC, and
+if you have more than one such umber hulk they multiply each other's
+firepower. I'd say include at least two in an encounter group where you want
+them to be.
 
 ### Deep Hulk (Monster Vault)
 
-This is an umber hulk from way deeper into the Underdark - it's a stronger and
-meaner version of the basic model, and a Level 17 Elite Brute with 404 HP.
+This is an umber hulk from way deeper into the Underdark - it's a stronger
+version of the basic model, a Level 17 Elite Brute with 404 HP.
 
 "Umber Hulk but more" describes this creature perfectly. Most of its attacks are
 versions of those from the MV basic hulk with bigger numbers: the claw, the
@@ -145,9 +146,8 @@ throw it at them.
 
 The sample encounter is level 13, 2 umber hulks and 2 drow warriors.
 
-This is one of the instances where the hulks from the Monster Vault are much
-better than the ones from the Monster Manual. If you have the Vault, you can
-disregard the MM entry entirely.
+The hulks from the Monster Vault are much better than the ones from the Monster
+Manual. If you have the Vault, you can disregard the MM versions entirely.
 
 I like Umber Hulks! They're a big dumb brute monster with some really
 interesting tricks to go with he usual physical attacks. Fighting them requires
