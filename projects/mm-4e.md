@@ -140,6 +140,7 @@ After this, we get right on the monsters:
     - [Fire Giants][94]
     - [Death Giants][95]
     - [Storm Giants][96]
+  - [Gibbering Beasts][97]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -237,3 +238,4 @@ After this, we get right on the monsters:
 [94]: {{ "/2020/04/06/fire-giants.html" | relative_url }}
 [95]: {{ "/2020/04/07/death-giants.html" | relative_url }}
 [96]: {{ "/2020/04/10/storm-giants.html" | relative_url }}
+[97]: {{ "/2020/04/13/gibbering-beast.html" | relative_url }}

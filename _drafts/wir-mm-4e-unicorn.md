@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-unicorn.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Unicorns are actually one of the creatures I associate most strongly with D&D,
 since my first contact of any sort with it was the 80's cartoon with its
 adorable unicorn mascot. They've been in the game since at least BECMI, and
@@ -17,8 +28,8 @@ Unicorns are horse-like creatures that originate in the Feywild, though some of
 them also live in the world. Lots of depictions of them tend to take a horse and
 stick the famous spiral horn on its forehead, but mythological unicorns had
 other fantastical traits: their hooves are split like a goat's and not uniform
-like a horse's, and their tail is a bit lion-like with short hair and a small
-tuft at the tip. They also sometimes had goat-like beards.
+like a horse's, and their tail is a bit lion-like with a small tuft at the
+tip. They also sometimes had goat-like beards.
 
 The illustration here nails most of those details, though it still has a
 horse-like tail. And its horn is not a cute and delicate spiral at all, but
@@ -102,3 +113,5 @@ Mechanically it seems they have so many signature traits (horn and hoof attacks,
 Fey Step, Horn Touch, Fey Warding) that it might be easier to make custom
 unicorns by adjusting their level and messing with the minor secondary magic
 powers.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
