@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-vampire.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2012 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Legend has it that vampires were an even earlier addition to D&D than the cleric
 class - the first cleric was designed specifically to counter Sir Fang, a
 vampire PC. As monsters, they were the second most powerful rung in the Undead
@@ -214,7 +225,9 @@ Second Wind.
 5e makes a huuuge deal out of Count Strahd, the game's Dracula expy, but in his
 original incarnation he was explicitly described as a vampire who was only a bit
 more powerful and clever than what's average for these monsters. You could
-easily stat him up in 4e by making him a Solo Controller with the Vampire
-Master's gaze, bite, and transformation powers, plus a strong claw/slam attack
-and some necromancy-themed powers. His level should be the party's average +4 or
-so, suitable as a final boss for your I6: Ravenloft conversion.
+easily stat him up in 4e by making him an Elite or Solo Controller with the
+Vampire Master's gaze, bite, and transformation powers, plus a strong claw/slam
+attack and some necromancy-themed powers or rituals. He should be part of an
+encounter of the party's level +3 or +4, suitable as a final boss battle.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
