@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-githzerai.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Githzerai were introduced into the game right alongside githyanki. They're the
 other side of the gith coin, the ninjas opposing the pirates. In the books we're
 covering, they only appear in the Monster Manual, but would also feature as a
@@ -131,3 +142,5 @@ come to harm if it allows them to strike at the mind flayers or githyanki, but I
 like them best as an Unaligned people that can produce heroic PCs or dastardly
 villains in the same vein as the humans or elves. "Neutral" shouldn't mean you
 do equal amounts of good and evil.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

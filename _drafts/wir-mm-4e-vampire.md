@@ -93,6 +93,11 @@ other origins.
 
 ## The Numbers
 
+Monster Manual Vampires are built using templates, in a way similar to death
+knights and liches. By the time of the monster vault the concept of rigid
+monster templates had been dropped, so vampires there are built from scratch
+following similar guidelines.
+
 Both types of vampire are Medium Natural Humanoids with the Undead keyword. They
 have Darkvision and the usual undead traits: immunity to disease and poison and
 resistance to necrotic damage (10). Most also have some vulnerability to radiant
