@@ -240,3 +240,4 @@ After this, we get right on the monsters:
 [96]: {{ "/2020/04/10/storm-giants.html" | relative_url }}
 [97]: {{ "/2020/04/13/gibbering-beast.html" | relative_url }}
 [98]: {{ "/2020/04/16/githyanki.html" | relative_url }}
+[99]: {{ "/2020/04/19/githzerai.html" | relative_url }}
