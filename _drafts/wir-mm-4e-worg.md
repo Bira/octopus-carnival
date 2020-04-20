@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual/Vault: Worg"
+tags:
+    - dnd4
+    - lets-read
+---
+
+The first time I see the name "Worg" is in the AD&D 1st Edition Monster Manual,
+where it was synonymous with "dire wolf". The word itself comes from the Lord of
+the Rings, I think. In Fourth Edition, they're only on the Monster Manual.
+
+## The Lore
+
+Worgs are not wolves, though they might be distantly related. Even dire wolves
+are just animals, but worgs are sapient and evil. They also have some distinctly
+un-wolf-like physical traits when you look at them from up close.
+
+Worgs like the taste of sapient flesh and prefer it over any other prey. They
+live in mazelike warrens, which they decorate with trophies of their
+victims. Worgs on the hunt act as a group, but don't cooperate very well, since
+each individual is only interested in satisfying its own thirst for murder.
+
+Worgs willingly ally with other sapient creatures that have a disposition as
+nasty as their own, often carrying these allies into battle as mounts.
+
+Oh, and the worg also has a larger and meaner relative: the elephant-sized
+gulvoorg, which looks nothing like a wolf even from very far away.
+
+I'm guessing you won't find both worgs and normal wolves in the same wilderness
+region - worgs are beefy enough to overpower even dire wolves in direct
+fights. They'd enjoy it, too.
+
+## The Numbers
+
+Both "strains" of worg are Natural Magical Beasts. They have trained Perception
+and Darkvision.
+
+### Worg
+
+The basic model is Large and a Level 9 Brute with 120 HP. It has a speed of 8
+and its **Frightful Growls** act as an aura (3) that gives enemies a -1 attack
+penalty and allies a +1 attack bonus. Their only attack is a **bite** which also
+does ongoing damage on a hit (save ends).
+
+I guess the main benefit of riding a worg into battle is that you're always in
+range of its aura.
+
+### Gulvoorg
+
+These monsters are Huge, and Level 16 Elite Brutes with 384 HP. Their speed is
+9, and they still have trained Perception and Darkvision.
+
+Gulvoorg **bites** are Reach 2, and always knock prone on a hit. They can
+perform Reach 2 **tail slams**, which are also considered basic attacks. On a
+hit, they both knock prone and daze (save ends).
+
+As a standard action they can use **Gulvoorg Fury** to make both a bite and a
+slam attack, against different targets and with a -2 attack penalty. That
+penalty is completely unnecessary, since we're talking about an elite monster.
+
+
+## Sample Encounters and Final Impressions
+
+The book gives us two sample encounters:
+
+- Level 10: 3 worgs, 2 razorclaw stalker shifters, and 1 oni night haunter. An
+  oni and its evil henchthings.
+
+- Level 17: 2 gulvoorgs and 2 cyclops hewers. It's even possible the cyclopes
+  are riding the gulvoorgs.
+
+Conceptually, I like worgs a lot more than I like dire wolves, and wouldn't be
+opposed to merging the two again. That way you get sapient evil worgs with the
+interesting mechanical bits of dire wolves. Maybe add some wind powers so they
+can huff, puff, and blow your house down.
