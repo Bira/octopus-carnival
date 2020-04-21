@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-warforged.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Warforged are a 3e creation, first appearing as a playable option in the Eberron
 campaign setting. In 4e they would also become playable characters, but their
 first appearance was in the Monster Manual.
@@ -102,3 +113,5 @@ However, I absolutely love the _concept_ of warforged, both as player characters
 and as NPCs. I understand why the first MM included these: the Eberron books
 were still a little ways away, and the authors might have felt its fans needed a
 little reassurance.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
