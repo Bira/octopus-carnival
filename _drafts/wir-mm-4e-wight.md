@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-wight.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Wights have been in the game since its beginnings, part of the original Undead
 Power Ladder. Here, they are present only on the Monster Manual.
 
@@ -133,3 +144,5 @@ We get several encounters here:
 Wights are a very distinctly D&D monster, but at the same time they kinda get
 lost amid all the other similar undead in the game. This might explain why they
 were left out of the Monster Vault.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
