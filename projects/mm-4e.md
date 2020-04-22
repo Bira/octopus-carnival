@@ -141,6 +141,10 @@ After this, we get right on the monsters:
     - [Death Giants][95]
     - [Storm Giants][96]
   - [Gibbering Beasts][97]
+  - [Githyanki][98]
+  - [Githzerai][99]
+  - [Gnoll][100]
+  - [Gnome][101]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -242,3 +246,4 @@ After this, we get right on the monsters:
 [98]: {{ "/2020/04/16/githyanki.html" | relative_url }}
 [99]: {{ "/2020/04/19/githzerai.html" | relative_url }}
 [100]: {{ "/2020/04/20/gnoll.html" | relative_url }}
+[101]: {{ "/2020/04/21/gnome.html" | relative_url }}
