@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-wolf.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Wolves are real animals and have been part of the game since its
 beginnings. Here, they are both in the Monster Manual and in the Monster Vault's
 animal appendix.
@@ -56,9 +67,9 @@ an effect_, so these critters will never stay still if they can help it.
 
 If a wolf has **Combat Advantage** against a target, its bite will also knock
 the target prone on a hit. This means a group of wolves has a lot of incentive
-to flank a specific PC - one of them will knock the victim prone with its first
-bite, and the others will all pile on with that bonus bite damage. And now you
-know why they call this "wolf-pack tactics"!
+to flank a specific PC. One of them knocks the victim prone with its first bite,
+the others pile on with that bonus bite damage. All of them keep moving around
+with those free shifts. And now you know why they call this "wolf-pack tactics"!
 
 ### Dire Wolf (Both)
 
@@ -75,7 +86,7 @@ against any target who has at least one other ally adjacent to it. No flanking
 required. This could be interpreted to mean that a dire wolf with a rider always
 has CA against any enemy adjacent to it! The MV version of this trait, named
 **Pack Harrier**, says it only works when the wolf has two or more allies
-adjacent to the enemy. So the rider still counts, but you need someone else to
+adjacent to the enemy. So the rider still counts, but you need a second ally to
 get the bonus.
 
 They also have a trait called **Pack Hunter**, which grants their _rider_ combat
@@ -85,13 +96,13 @@ vice-versa.
 
 I'm guessing that the MV version is the "correct" one in all aspects
 here. A wolf that got permanent combat advantage against everyone would be a
-little overpowered given that bite rider.
+little overpowered due to that knockdown effect on the bite.
 
 ## Sample Encounters and Final Impressions
 
 We have two sample encounters here:
 
-- Level 3, 3 gray wolves, 2 hobgoblin archers, and 1 hobgoblin warcaster. Your
+- Level 3: 3 gray wolves, 2 hobgoblin archers, and 1 hobgoblin warcaster. Your
   standard hunting party.
 
 - Level 5: 3 dire wolves, and 2 longtooth shifter hunters. A mounted hunting
@@ -102,10 +113,12 @@ in the original Ravenloft module quite famously commanded a literal army of dire
 wolves he could send after the PCs every night until they entered his castle.
 
 Dire wolf-riding goblins are also a classic image, though the levels are a
-little mismatched as printed. It would be easy enough to leve the goblins up or
+little mismatched as printed. It would be easy enough to level the goblins up or
 the dire wolves down, and it's quite plausible for the Small goblins to be
 riding Medium gray wolves instead of the Large dire ones.
 
 These days "you're attacked by a pack of wolves while on the road" strikes me as
 a little uninspired, though I think they're OK when used as muscle by sapient
 opposition.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
