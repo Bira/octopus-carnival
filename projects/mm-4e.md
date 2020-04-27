@@ -146,6 +146,7 @@ After this, we get right on the monsters:
   - [Gnoll][100]
   - [Gnome][101]
   - Introduction to [Goblinoids][102]
+    - [Goblins][103]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -249,3 +250,4 @@ After this, we get right on the monsters:
 [100]: {{ "/2020/04/20/gnoll.html" | relative_url }}
 [101]: {{ "/2020/04/21/gnome.html" | relative_url }}
 [102]: {{ "/2020/04/22/goblinoids.html" | relative_url }}
+[103]: {{ "/2020/04/25/goblins.html" | relative_url }}

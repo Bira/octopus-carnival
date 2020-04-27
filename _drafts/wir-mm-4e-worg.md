@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 The first time I see the name "Worg" is in the AD&D 1st Edition Monster Manual,
 where it was synonymous with "dire wolf". The word itself comes from the Lord of
 the Rings, I think. In Fourth Edition, they're only on the Monster Manual.
@@ -38,6 +40,15 @@ and Darkvision.
 
 ### Worg
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-worg.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The basic model is Large and a Level 9 Brute with 120 HP. It has a speed of 8
 and its **Frightful Growls** act as an aura (3) that gives enemies a -1 attack
 penalty and allies a +1 attack bonus. Their only attack is a **bite** which also
@@ -47,6 +58,15 @@ I guess the main benefit of riding a worg into battle is that you're always in
 range of its aura.
 
 ### Gulvoorg
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-gulvorg.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These monsters are Huge, and Level 16 Elite Brutes with 384 HP. Their speed is
 9, and they still have trained Perception and Darkvision.
