@@ -94,6 +94,7 @@ Ringwraiths rode in Lord of the Rings, though their actual level would depend on
 how high-powered you view that story as.
 
 Given that wyverns can be mounts, the most clichéd use for them would be to have
-them as the "hostile humanoid" flying mount of choice, to
+them as the "hostile humanoid" flying mount of choice, to have proper aerial
+fights against human gryphon cavalry.
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
