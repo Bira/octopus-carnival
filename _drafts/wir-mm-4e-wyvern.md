@@ -48,6 +48,9 @@ Reptile keyword, and fight with their natural weapons: a bite, claws, and the
 stinger. Wyverns are good fliers and much more agile in the air than on the
 ground.
 
+Note that wyvern damage as written is notoriously weak. Fixing this to use the
+updated math should be a priority before you include them in an encounter.
+
 ### Wyvern
 
 The more common variety is a Large Natural Beast with the Reptile and Mount
