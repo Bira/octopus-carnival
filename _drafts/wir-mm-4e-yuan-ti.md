@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-yuan-ti.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Yuan-ti have been in the game since AD&D 1st Edition. Here, they are both in the
 Monster Manual and in the Vault.
 
@@ -123,6 +134,16 @@ unimpeded by marks.
 
 ### Yuan-Ti Abomination (Both)
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-yuan-ti-abomination.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 This is a Large yuan-ti warrior that seems to always have a snake's lower
 body. It's a Level 14 Soldier with 140 HP who fights with a **bastard sword**
 and a shield.
@@ -183,6 +204,15 @@ vs. Will; recharge 3-6), which dominate (save ends) and have a daze (save ends)
 after-effect.
 
 ### Yuan-ti Anathema (Monster Manual)
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-yuan-ti-anathema.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Anathema used to be the sovereign rulers of the yuan-ti back in the bad old
 days, but something happened to drive them mad and turn against their
@@ -276,3 +306,5 @@ yuan-ti.
 I never really gave yuan-ti much thought, but the whole Zannad backstory here is
 compelling, and it makes them have a lot in common with Lovecraft's Serpent
 Folk.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
