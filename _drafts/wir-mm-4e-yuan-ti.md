@@ -63,6 +63,15 @@ there is no great aspiration than to rebuild their former empire in all its
 cruel glory. The way the book describes it, they have a much better chance of
 achieving this goal than the giants.
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-yuan-ti-snaketongues.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Throughout most of the world, the yuan-ti live in secret amid the other mortal
 peoples and conspire to take over their power structures. They head secret cults
 of Zehir and bestow minor reptilian transformations upon their human lackeys as
