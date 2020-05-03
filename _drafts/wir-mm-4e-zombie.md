@@ -6,9 +6,21 @@ tags:
     - lets-read
 ---
 
-This is it. The final entry in the Monster Manual, and the only Z
-monster. Zombies have of course been in the game since the very beginning. Here
-they are present both in the Monster Manual and the Monster Vault.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-zombie.png" | absolute_url }}"/>
+  <figcaption>
+    Definitely not a D&D illustration
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+This is it. The final entry in the Monster Manual, the only Z monster, and the
+penultimate post in this particular Let's Read. Zombies have of course been in
+the game since the very beginning. Here they are present both in the Monster
+Manual and the Monster Vault.
 
 ## The Lore
 
@@ -179,3 +191,5 @@ Both encounters clearly include monsters who could be considered necromancers,
 but I suppose the kruthiks and the scarabs could be found alongside zombies even
 without a sapient to handle them. And of course, other undead work fine as
 zombie buddies.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
