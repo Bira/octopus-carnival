@@ -150,6 +150,7 @@ After this, we get right on the monsters:
     - [Hobgoblins][104]
     - [Bugbears][106]
   - [Golems][105]
+  - [Gorgon][107]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -257,3 +258,4 @@ After this, we get right on the monsters:
 [104]: {{ "/2020/04/27/hobgoblins.html" | relative_url }}
 [105]: {{ "/2020/04/30/golems.html" | relative_url }}
 [106]: {{ "/2020/05/01/bugbears.html" | relative_url }}
+[107]: {{ "/2020/05/04/gorgon.html" | relative_url }}
