@@ -7,9 +7,8 @@ tags:
 ---
 
 Before I close the curtain on this Let's Read, there's one more thing to
-discuss. It's not something a lot of people remember today, and I even had
-forgotten it was there at all. Back when the Monster Manual had just been
-published, though, I remember thinking it was a big deal.
+discuss. I had forgotten it was there at all! Back when the Monster Manual had
+just been published, though, I remember thinking it was a big deal.
 
 We've been talking about the animal appendix on the Monster Vault, but the
 Monster Manual also has an appendix. This one is filled with stats for using
