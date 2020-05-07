@@ -56,17 +56,15 @@ rendering the appendix version obsolete.
 
 - Githzerai and Minotaurs would appear in the PHB 3.
 
-- Githyanki would appear in the Dark Sun Player's Guide.
+- Drow would appear in the Forgotten Realms Player's Guide and then in Heroes of
+  the Forgotten Kingdoms.
 
-- Drow would appear in Heroes of the Forgotten Kingdoms.
-
-That's almost all of them, isn't it? Some of the others might have gotten
-articles in Dragon or Dungeon as well (I know gnolls did), but they still ended
-up with less support overall. At some point in the edition the ability score
-bonuses also went from "+2 to these two fixed scores" to "+2 to one fixed score
-and +2 to one of these other two scores", and some of the races here never did
-get that third option. Still, this appendix was pretty useful before all of this
-extra material came out.
+That's almost all of them, isn't it? Gnolls and Shadar-kai would get articles in
+Dragon or Dungeon, but they still ended up with less support overall. At some
+point in the edition the ability score bonuses also went from "+2 to these two
+fixed scores" to "+2 to one fixed score and +2 to one of these other two
+scores", and some of the races here never did get that third option. Still, this
+appendix was pretty useful before all of this extra material came out.
 
 And this slightly maudlin post finally finishes our Let's Read of the first
 Monster Manual! I hope you enjoyed it. I plan on doing the other two and the
