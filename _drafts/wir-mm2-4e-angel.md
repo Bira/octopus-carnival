@@ -1,0 +1,170 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Angel"
+tags:
+    - dnd4
+    - lets-read
+---
+
+The first Monster Manual gave us plenty of lore on this edition's angels, which
+you can see by reading [my first post on them][2]. The Monster Manual 2 brings
+us a few stronger angels.
+
+## The Lore
+
+Check out [my post on MM angels][2] for the basics of angel lore.
+
+## The Numbers
+
+Since the original post was one of the first ones I wrote on the Let's Read, I
+hadn't settled on the present structure yet, so I didn't say much about the
+common traits of angels.
+
+Angels are Immortal Humanoids with the Angel keyword, which means they don't
+need to eat, breathe or sleep. Though they have no legs, they have a land speed
+of 8 and a fly speed of 12. They're also immune to fear and have 5/tier Radiant
+resistance.
+
+Their signature trait is **Angelic Presence**, a passive ability which inflicts
+a -2 penalty on any attacks against the angel while it remains un-bloodied.
+
+The angels from the Monster Manual 2 start at where the ones from the first book
+stopped, in terms of power. This means they're all epic level and mostly Large
+in size.
+
+### Angel of Authority
+
+These are the heralds and mouthpieces of a deity, and tend to handle some of the
+most important tasks related to the protection and well-being of a deity's
+dominion. Your Metatrons, basically.
+
+They're Level 22 Controllers with the Leader keyword and 203 HP. They fight with
+a **quarterstaff** doing a mix of physical and radiant damage, and shoot
+**lightning bolts** (ranged 10 vs. Fortitude) that do lightning damage and daze
+for a turn.
+
+They can also use their powerful voices for a **Majestic Rally** (close burst 5
+vs. Will). This does a mix of thunder and radiant damage to any enemies caught
+in the area and hit by the attack, and also weakens them (save ends). A miss
+does half damage with no riders. Any allied angels in the area instead gain +2
+to attacks for a turn. This is why the keyword is important!
+
+### Angel of Retrieval
+
+Expert trackers, these angels lead squads of divine servitors and agents tasked
+with recovering stolen relics or kidnapped creatures. In addition to the
+abilities described in their combat stat block (below), they're also trained in
+rituals that allow it to find their quarry and quickly take the squad to it,
+like Observe Creature and Planar Portal. They're Level 22 Artillery with 162 HP
+and all standard angel traits except Angelic Presence, plus a teleport speed of
+5 and blindsight.
+
+As soon as a fight starts, the Angel will use **Hunt the Guilty** on an enemy
+within 10 squares, likely the main kidnapper. This will make all the angels
+attacks deal extra damage against that enemy.
+
+Then it's going to use its flight and teleport speets to move within reach of
+the target of the extraction and use **Isolating Displacement** on it. The power
+can be either used on an enemy as an attack (reach 2 vs. Reflex) to deal radiant
+damage, or on an ally as a non-damaging support ability. In both cases, it
+teleports the target 5 squares, and teleports the angel to a space adjacen to
+the target. The idea is to teleport the target into the midst of the angel's
+more melee-capable allies, who will either protect it and help it run away if
+friendly, or beat it unconscious and carry it off if hostile.
+
+It will then largely stay away and fire its **Angelic Bow** (ranged 20/40
+vs. AC), which does radiant damage to the target and a smaller amount to any
+other enemies adjacent to it. Perfect for disrupting tight formations.
+
+Also perfect for disrupting formations is **Clear the Way** (area burst 3 within
+10 vs. Fortitude; recharge 5-6), which deals radiant damage and slides the
+targets 3 squares. A miss deals half damage and slides 1 square. This could be
+used to clear a corridor for ther angel's allies to escape, or to delay
+pursuers.
+
+If forced into melee, the angel of retrieval will defend itself with a **short
+sword** that deals radiant damage, though this is clearly a sub-optimal
+situation.
+
+### Angel of Light
+
+Angels of light are a little different from most of their relatives. They're the
+embodiments of a deities subconscious toughts, who form spontaneously in the
+Astral Sea in their multitudes. Angels of light are driven to enact the thoughts
+that spawned them, but they'll also readily work for more powerful angels whose
+dispositions match theirs. Once formed, an angel of light is an independent
+individual. There have cases where they end up acting contrary to their
+originating deity's wishes because the god has changed their mind, or because
+the thought was intrusive in the first place.
+
+Angels of Light are the only Medium angels in this entry. They're Level 23
+Minion Skirmishers with all common traits discussed above. They fight with
+**angelic glaives** that do radiant damage, and when killed explode in a **death
+burst** whose text is a bit confusing. I think the intent is that it's a close
+burst 10 vs. Fortitude that does 10 damage to enemies in the area and heals
+non-minion angels for 10 HP.
+
+### Angel of Supremacy
+
+These described simply as "the strongest angelic fighters", they're said to
+guard the homes of the gods and form the backbone of divine strike forces in
+serious cosmic conflicts. I can't shake the feeling that Asmodeus was one of
+these before he rebelled.
+
+Angels of Supremacy are Level 24 Soldiers with 226 HP and all common angel
+traits. They fight with Reach 3 **spears** that do a mix of physical and thunder
+damage, so here's a surprise for PCs who loaded up on radiant resistance. They
+also have **Threatening Reach**, which makes them pretty good at restricting
+enemy movement.
+
+They'll likely start a fight by moving into a chokepoint and casting **Astral
+Brilliance** (close burst 3 vs. Reflex; encounter). This deals radiant damage
+and creates a zone that lasts until the end of the encounter. While inside the
+zone, the angel's attacks all deal extra radiant damage. Then they'll attack a
+particularly troublesome enemy with the **Light of Justice** (Ranged 10
+vs. Fortitude), which deals radiant damage on a hit and marks the target for the
+whole encounter as an effect. From that point on they can use **Summons to
+Justice** (minor 1/round) to pull the marked target 1 square closer to
+themselves.
+
+Judging by those power names, I think they might have been named Angels of
+Justice before an editing pass gave them this more sinister name.
+
+### Archangel
+
+This isn't a monster, but a template along the lines of those that first
+appeared in the DMG 1. It's meant to represent a higher-ranked angel that might
+even be the greatest authority in a divine dominion aside from the actual
+god. The template can be applied to any angel.
+
+Here's how I would apply it: I'd take a "regular" angel, and add the elite save
+bonus (+2) and action point. If the angel was already elite, I'd upgrade it to a
+solo with the +5 save bonuses and a total of 2 action points. In either case I'd
+double its listed HP.
+
+Then I'd add the template powers: **Avenging Strike**, which triggers when an
+allied angel hits 0 HP and allows the angel to shift 2 squares and make a basic
+melee attack against the slayer. And **Overwhelming Presence** (close burst 5
+vs. Will; enemies only; encounter) which does radiant damage and stuns for a
+turn.
+
+I would then probably tweak its basic attack so it can be done twice in the same
+turn, which is common in elite monsters.
+
+So, to ammend my speculation, I'm pretty sure Asmodeus used to be an Archangel
+of Supremacy.
+
+## Sample Encounters and Final Impressions
+
+I like the 4e concept of angels, and so having more of them is cool.
+
+Sample encounters in the MM2 are organized a little differently, with one after
+each stat block instead of all of them being at the end of the entry. The ones
+we get here are most all-angel teams, made up of a mix from the MM1 and MM2.
+
+The notable exception is again the Angel of Supremacy encounter, which has three
+of them along with a Tormenting Ghost (evil!) and a Deva Fallen Star
+(super-evil!). This is a reminder that not all angels serve good deities, and
+that creatures with "supremacy" in their names are creepy.
+
+[2]: {{ "/2019/01/21/angel.html" | relative_url }}
