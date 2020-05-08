@@ -152,6 +152,8 @@ After this, we get right on the monsters:
   - [Golems][105]
   - [Gorgon][107]
   - [Grell][108]
+  - [Grick][109]
+  - [Griffon][110]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -261,3 +263,5 @@ After this, we get right on the monsters:
 [106]: {{ "/2020/05/01/bugbears.html" | relative_url }}
 [107]: {{ "/2020/05/04/gorgon.html" | relative_url }}
 [108]: {{ "/2020/05/06/grell.html" | relative_url }}
+[109]: {{ "/2020/05/07/grick.html" | relative_url }}
+[110]: {{ "/2020/05/08/griffon.html" | relative_url }}
