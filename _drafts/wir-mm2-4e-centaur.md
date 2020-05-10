@@ -1,0 +1,205 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Centaur"
+tags:
+    - dnd4
+    - lets-read
+---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-centaur.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+Centaurs are inspired by Greek myth, in which they were The Worst (with rare
+exceptions). They've been in D&D since at least the days of BECMI, which even
+had a supplement that made them playable.
+
+## The Lore
+
+Fourth Edition centaurs are a good deal nicer than their mythological
+counterparts. Their culture venerates nature in its wilder aspects, and they
+have an extensive martial tradition. In other words: they're quite rowdy and
+love a good fight. Kord and Melora are a lot more popular with them than
+Corellon, who is otherwise the go-to fey deity. I don't know if the lore of the
+primal spirits had been finalized at this point, but centaurs also work great as
+primal spirit worshippers.
+
+Centaurs like to live in areas that contain vast plains or steppes, but they
+like to build their settlements on hills or inside caves. The combination gives
+them a defensible position surrounded by clear sight lines all around, and also
+gives them the large space they need to run around and to grow their food.
+
+Centaurs are not typically evil, but they're territorial, mistrustful of
+strangers, and hate people who despoil nature. Dealing with them peacefully
+requires careful diplomacy that begins beyond arrow range. The prospective
+ambassador should spend great effort making their approach both obvious and
+obviously non-threatening. Once the centaurs recognize you for a friend, though,
+they can become steadfast allies.
+
+Most centaur settlements are located in the Feywild, though there are some in
+the world bordering elven forests. Centaur law is simple, and most crimes carry
+banishment and exile as their punishment. Exiled centaur criminals could easily
+end up working with other villains.
+
+## The Numbers
+
+Centaurs are Large Fey Humanoids, with low-light vision and a ground speed
+of 8. They have two signature abilities. The first is that their basic attacks
+do an extra die of damage when used in a charge. The other is a reaction called
+**Quick Kick**, which allows them to make a free kick attack against an enemy
+who moves into a position that flanks the centaur.
+
+### Centaur Hunter
+
+If this was a PC, it would be a Twin Strike-spamming ranger. Hunters are Level
+12 Artillery with 96 HP and all standard centaur traits.
+
+They fight with classic horse archer tactics, using their superior mobility to
+keep away and fire on the move. Their main ranged attack is **Lightning-Fast
+Arrows** (range 25/50 vs. AC), a standard action that allows them to shoot
+twice. Though each individual arrow has low damage, the two combined almost line
+up with MM3 math.
+
+Alternatively, they can use a **Charge Arrow** (ranged 25/50 vs. Fortitude) to
+do a bit more single-arrow damage, push the target 3 squares, and knock it
+prone. I'd say it's not worth it unless the target is near a cliff or the hunter
+has melee buddies that would benefit from a prone enemy.
+
+Once per encounter the hunter can speed up even more and deliver a **Triple
+Shot** (ranged 25/50 vs. AC), making three attacks whose individual damage is
+a bit higher.
+
+If someone does manage to engage the hunter in melee, it can defend itself with
+a **bastard sword**... but it doesn't really need to, since the **Close-Combat
+Archer** trait makes it not provoke opportunity attacks from the targets of its
+shots.
+
+### Centaur Ravager
+
+The most likely melee buddy for the hunter, this is a barbarian-type. Ravagers
+are Level 12 Brutes with 150 HP and all standard centaur traits. They fight in
+melee with their **bastard swords**, and they can use a **Berserk Rush** (melee
+1 vs. Fortitude; recharges when first bloodied) to do even more damage on a
+charge, push the target 2 squares, and knock them prone. When first bloodied,
+they also use **Brash Retaliation**, a free action attack that does high damage
+and pushes the targets 2 squares.
+
+All of this suggests shock cavalry tactics: charge, fight in place for a bit,
+then move away and charge again. Though I guess ravagers have no problem staying
+in the thick of it either.
+
+### Centaur Mystic
+
+A wise primal or divine spellcaster, the mystic takes a priestly role in centaur
+culture and advises the community on its duties towards nature and the
+spirits. In combat they use plant- and earth-themed magic.
+
+Mystics are Level 13 Controllers with 132 HP and all standard centaur
+traits. They wield Reach 2 **quarterstaffs** which also acts as implements for
+their magic. The mainstay here is **Rootwhip Staff**, a melee spell that targets
+Reflex and does the same damage as a basic staff attack, but also slides the
+target 3 squares and slows it (save ends).
+
+The mystic's ranged options are big guns with limited ammo:
+
+**Ancestral Chargers** is a Close Blast 5 that presumably summons ancestors
+spirits and has funky mechanics. It targets both Fortitude and Will: you make a
+single attack roll against both defenses. If the attack beats the target's Will,
+they take high psychic damage; if it beats the target's Fortitude they're
+knocked prone and pushed 2 squares. This spell recharges when a friendly centaur
+within 10 squares drops to 0 hit points, which implies the recharge comes from
+summoning their recently departed spirit for one last strike.
+
+**Biting Earth** (Area Burst 2 within 10; recharges when first bloodied) creates
+a zone that lasts for a turn and can be sustained with standard actions. The
+biting earth zone immobilizes all enemies within. These enemies can choose to
+take 3d8 damage to save against the effect as a free action. There's no regular
+save, so if the enemy doesn't want to take damage they're stuck in place while
+the zone lasts. When the zone is sustained, the mystic can choose to move it up
+to 3 squares.
+
+Once per encounter they can also use **Mystic Resonance** (minor action), which
+affects all allies within 10 squares. It heals them for 10 HP and allows them to
+roll a save.
+
+Looks like you want to open with Ancestral Chargers here, and then use Biting
+Earth to try and hold the PCs in place for the ravagers and hunters to do their
+stuff.
+
+### Centaur Fey Charger
+
+Fey chargers are significantly more powerful than the other centaurs we saw up
+until now, being better fighters and having a host of storm-themed powers. This
+would fit a warden or a paladin of Kord.
+
+They're level 18 Soldiers with 172 HP and all standard centaur traits. They wear
+mail and carry a shield in addition to the traditional centaur bastard sword,
+none of which slows them down.
+
+They can fire **Stabs of Lightning** (ranged 10 vs. Reflex) do to lighthning
+damage at range while closing in, but the main event is the melee. Once an
+opening presents itself they close in with a **Thunder Charge**, a strong attack
+that does a mix of physical and lightning damage and carries a secondary Close
+Burst 2 attack that targets Fortitude, does thunder damage, knocks prone and
+marks for a turn.
+
+Once engaged, their **sword** attacks mark for a turn, and they can use
+**Thunder Hooves** (melee 1 vs. Fortitude) as a reaction to attack anyone who
+ignores the mark and do thunder damage to them.
+
+### Centaur Campaigner
+
+A legendary commander and champion of the centaur people with decades of
+military experience. The campaigner is a Level 25 Soldier (Leader) with all
+standard centaur and a good deal of supernatural wind- and storm-themed
+abilities. It wears plate, and carries a shield and a longsword.
+
+The bonus charge damage of the **longsword** attack is thunder, and the
+Campaigner is all about that glorious impossible charge. Its **Light Hoof**
+trait allows it to ignore all difficult terrain, and **Sky Bound** (at-will free
+action) allows it to fly for the duration of its next move, though it must land
+at the end. If that isn't possible the centaur will gently float down to the
+floor, so it doesn't take fall damage but you might say its momentum gets kinda
+ruined.
+
+When the campaigner's charge hits it can use **Three Thunder Assault** to allow
+two allies within 10 squares of itself to charge as a free action. These charges
+deal a bit of bonus thunder damage as well. Combine this with other centaurs
+(maybe even other campaigners), and you have an instant massive cavalry charge!
+
+Once engaged, **Shock Trooper** gives the campaigner a small bonus to damage
+while it's adjacent to more than one foe. It can also use a maneuver called
+**Hoofed Tornado** to perform strong attacks on all enemies in a Close Burst 1,
+knocking them prone on a hit and marking them for a turn as an effect. This
+recharges when it's first bloodied.
+
+## Sample Encounters and Final Impressions
+
+Centaurs might be found as members of most fey-themed encounter groups, working
+alongside elves, eladrin, satyrs, and so on. I imagine the nastier sort of
+centaur might also work alongside shady customers such as banshrae, hags, or
+fomorians. For some of those you might want to do some level adjustment either
+of the centaurs themselves or their associates.
+
+If you want your party to meet centaurs early, knocking 10 levels from the
+centaur hunter, ravager and mystic would be a good start, making them
+early-heroic NPCs/enemies.
+
+The sample encounter we get is Level 23: a centaur campaigner plus two eladrin
+ghaeles of winter mounted on fell wyverns.
+
+I like these centaurs! They can be either friend or foe depending on how they're
+treated, and in any case the PCs might find a way to talk to them instead of
+fighting right away. They're exactly what I look for in a NPC humanoid
+species. Their stat blocks also work well at giving the impression of a people
+for whom infantry tactics and cavalry tactics are the same thing.
+
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - dnd4
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-ankheg.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Ankhegs appear in AD&D 1st Edition, and they would go on to achieve minor fame
 among players because of their lore.
 
@@ -92,3 +103,5 @@ are just another fact of life makes the more interesting in my eyes. The section
 on encounter groups also mentions that sometimes giant ants "take control" of a
 group of broodlings after they drive their parents away, and I can almost hear
 David Atenborough narrating that nature documentary.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

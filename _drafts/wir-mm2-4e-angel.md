@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-angel.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 The first Monster Manual gave us plenty of lore on this edition's angels, which
 you can see by reading [my first post on them][2]. The Monster Manual 2 brings
 us a few stronger angels.
@@ -167,4 +178,5 @@ of them along with a Tormenting Ghost (evil!) and a Deva Fallen Star
 (super-evil!). This is a reminder that not all angels serve good deities, and
 that creatures with "supremacy" in their names are creepy.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2019/01/21/angel.html" | relative_url }}
