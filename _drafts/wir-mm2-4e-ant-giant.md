@@ -157,4 +157,4 @@ has me unusually inspired. Mundane ant colonies can be a major problem to
 farmers, and the giant version seems to pose even more of an existential threat
 than a nearby bandit or goblin lair would.
 
-[1]: {{ "/projects/mm-4e/" | relative_url }}
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
