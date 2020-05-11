@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-ant-giant.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Now that's some old-school naming! Giant ants have been part of the game since
 the beginning, so the "Noun, Adjective" style feels appropriate.
 
@@ -21,18 +32,18 @@ Most ants are classified as "workers", and as the name implies they handle the
 actual work of building the colony and keeping it fed. You also have some larger
 variants that are more specialized for combat, and protect the workers. And each
 colony has a single Queen who is responsible for laying eggs and perpetuating
-the hive. Mundane ant queens are these immobile grub things, but the giant
-variety remains active (and dangerous!) through its whole life.
+the hive. Though the queen is unlikely to leave her chambers once the hive is
+established, she's quite dangerous and remains active throughout her life.
 
 Despite being of animal intelligence, giant ants possess the same instinct for
 teamwork as their mundane counterparts, which means their colonies are more
-efficiently organized than most sapient societies. They communicate by emitting
+efficiently organized than many sapient societies. They communicate by emitting
 pheromone clouds, and at this scale the chemicals that make up these clouds can
 actually be harmful to non-ants. Giant warrior ants are notorious for using them
 as weapons.
 
 That bit about "stripping the landscape bare" makes me think giant ants combine
-the traits of both fire and cutting ants. So they'd both hunt other animals
+the traits of both fire and leafcutter ants. So they'd both hunt other animals
 directly and cut up the vegetation to serve as bedding for their vast
 underground fungus farms. If that's the case you do _not_ want a giant anthill
 anywhere near your territory.
@@ -51,8 +62,8 @@ a bunch of tightly packed ants the death of a single one will trigger Frenzy for
 _all the rest_.
 
 Level-wise they're all early-to-mid Heroic, on par with the mundane guards and
-soldiers for most sapient races. This means fighting the spread of a giant ant
-colony might be one of the common problems a sapient settlement has to deal
+soldiers for most playable peoples. This means fighting the spread of a giant
+ant colony might be one of the common problems a sapient settlement has to deal
 with, on pair with bandits, stirges, or marauding goblins.
 
 ### Hive Worker
@@ -62,7 +73,8 @@ needs of the colony and aren't much good in a fight, but there are a _lot_ of
 them.
 
 These are Level 1 Minion Skirmishers with ground and climb speeds of 6, and a
-burrow speed of 2 with Tunneling. Note that no other ant has a burrow speed!
+burrow speed of 2 with Tunneling. They're the only giant ants with a burrow
+speed.
 
 Their only attack is a **bite**. Their **Hive Worker Frenzy** makes them shift 2
 squares, so if you kill one the horde immediately moves to fill the gap.
@@ -72,7 +84,7 @@ squares, so if you kill one the horde immediately moves to fill the gap.
 Warriors act as scouts and guards for worker expeditions. They're Level 2
 Skirmishers with 36 HP and a speed of 8. They attack with a **Piercing Bite**
 that does physical damage, and also does bonus acid damage if the target was
-already taking ongoing damage from acid.
+already taking ongoing acid damage.
 
 Their **Hive Warrior Frenzy** clears any mark or curse on them, and allows them
 to shift 2 squares. Yes, this will make the party warlock sad.
@@ -95,7 +107,7 @@ to attacks for a turn when an ally dies.
 ### Winged Drones
 
 These flood out of the colony during mating season, ranging far and wide. At the
-end of the season I guess the males die, and the females lose their wings and
+end of the season I guess the males die, and the females shed their wings and
 burrow to become queens and form their colonies.
 
 A winged drone is a Level 4 Skirmisher with 55 HP. It has ground, climb, and fly
@@ -117,8 +129,8 @@ subjects to go forth and conquer.
 
 Queens are Level 5 Elite Controllers with the Leader keyword. They're size
 Large, and any other ants **In the Presence of the Queen** (aura 10) gain a +2
-bonus to attack and damage. Their greater size makes them less agile, so they
-have a ground speed of 6 and a climb speed of 2.
+bonus to attack and damage. Their greater bulk makes them slower, so they have a
+ground speed of 6 and a climb speed of 2.
 
 Queens have two basic attacks: a **bite** and a **kick**. The kick targets
 Reflex, does a bit of damage, and pushes the target 3 squares. The queen's
@@ -144,3 +156,5 @@ giant ants from all the other giant bugs, but their MM2 lore, sparse as it is,
 has me unusually inspired. Mundane ant colonies can be a major problem to
 farmers, and the giant version seems to pose even more of an existential threat
 than a nearby bandit or goblin lair would.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

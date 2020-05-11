@@ -68,9 +68,9 @@ Next it's going to nab the nearest victim using a **Mandible Grab**, which
 damages and grabs (Acrobatics DC 16 or Athletics DC 14 to escape). It can only
 grab one victim at once, but **Mandible Carry** allows it to move normally with
 a grabbed victim. If the victim struggles too much the ankheg can also **Gnaw
-and Scuttle** (vs. AC) as a minor action, which does physical damage and ongoing
-acid damage (save ends) in addition to allowing the monster to shift 2
-squares.
+and Scuttle** as a minor action, which requires an attack roll and does physical
+damage and ongoing acid damage (save ends) in addition to allowing the monster
+to shift 2 squares.
 
 The ankheg can put a lot of distance between itself and its victim's buddies in
 a single turn by using a double move and spending a minor action on Gnaw and
