@@ -6,16 +6,28 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-archons-earth.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
 Archons in the 4e sense were introduced in the [Monster Manual][1] as soldiers
 created by the primordials to face the angelic legions of the gods in
 battle. Though some still serve the primordials, others sell their services as
 mercenaries to other elemental clients.
 
 The first MM had stats for fire and ice archons, and this one brings us three
-new types: earth and storm, and water. Earth and water archons already made an
+new types: earth, storm, and water. Earth and water archons already made an
 appearance in our Let's Read because they're in the Monster Vault, but
-chronologically this is their first appearance. There are enough stat blocks in
-here that I feel I can give each type its own post. We start with Earth Archons.
+chronologically this is their first appearance in the edition. There are enough
+stat blocks in here that I feel I can give each type its own post. We start with
+Earth Archons.
 
 ## The Lore
 
@@ -30,7 +42,7 @@ they attack with slow and inexorable advances, and take the time to occupy and
 fortify any positions they take as they do so.
 
 The greatest earth archon fortress is Thrak-Harda in the Elemental Chaos, which
-is ruled by the stone titan King Brakkamul and was built to the Diamond of
+is ruled by the stone titan King Brakkamul and was built to guard the Diamond of
 Despair. Legend has it that the fortress is meant to protect the outside world
 from the Diamond, and not the other way around. No one seems to know why it's so
 dangerous, but the Dao (cousins of the djinns and efreets) have been obsessed
@@ -97,7 +109,7 @@ Rumblers are shock troops at the spearhead of any attack, which I imagine makes
 them look like a living avalanche from afar. They are Level 17 Brutes with 204
 HP, wearing plate and wielding warhammers.
 
-They can use the **warhammers** either for basic attacks or for **Avalance
+They can use the **warhammers** either for basic attacks or for **Avalanche
 Strikes** (vs. Reflex), which do less damage but knock prone on a hit. Their
 **Thundering Might** trait gives them bonus damage when adjacent to more than
 one enemy, so they really like to be where the fighting is fiercest.
@@ -114,3 +126,4 @@ other than that they're generally well-built and should be OK to use after a
 damage update.
 
 [1]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}
+[2]: {{ "/projects/mm2-4e/" | relative_url }}

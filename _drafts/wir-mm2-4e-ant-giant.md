@@ -17,8 +17,9 @@ tags:
 
 This article is part of a series! Click [here][1] to see the other entries.
 
-Now that's some old-school naming! Giant ants have been part of the game since
-the beginning, so the "Noun, Adjective" style feels appropriate.
+"Ant, Giant" is the actual title for the entry. Now that's some old-school
+naming! Giant ants have been part of the game since the beginning, so this style
+feels appropriate.
 
 ## The Lore
 
@@ -43,7 +44,7 @@ actually be harmful to non-ants. Giant warrior ants are notorious for using them
 as weapons.
 
 That bit about "stripping the landscape bare" makes me think giant ants combine
-the traits of both fire and leafcutter ants. So they'd both hunt other animals
+the traits of both army and leafcutter ants. So they'd both hunt other animals
 directly and cut up the vegetation to serve as bedding for their vast
 underground fungus farms. If that's the case you do _not_ want a giant anthill
 anywhere near your territory.
@@ -64,7 +65,7 @@ _all the rest_.
 Level-wise they're all early-to-mid Heroic, on par with the mundane guards and
 soldiers for most playable peoples. This means fighting the spread of a giant
 ant colony might be one of the common problems a sapient settlement has to deal
-with, on pair with bandits, stirges, or marauding goblins.
+with, alongside bandits, stirges, or marauding goblins.
 
 ### Hive Worker
 
@@ -84,7 +85,8 @@ squares, so if you kill one the horde immediately moves to fill the gap.
 Warriors act as scouts and guards for worker expeditions. They're Level 2
 Skirmishers with 36 HP and a speed of 8. They attack with a **Piercing Bite**
 that does physical damage, and also does bonus acid damage if the target was
-already taking ongoing acid damage.
+already taking ongoing acid damage. The warrior itself can't inflict this, so
+you'll want to pair it with a soldier, described below.
 
 Their **Hive Warrior Frenzy** clears any mark or curse on them, and allows them
 to shift 2 squares. Yes, this will make the party warlock sad.
