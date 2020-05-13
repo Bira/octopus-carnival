@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Hags have been in the game since the days of AD&D at least. Here they are
 present in both books.
 
@@ -18,7 +20,7 @@ but even the new ones all share in that same aesthetic.
 The original fairy tales aren't always clear on whether their witches are human
 or not, but in D&D they explicitly _not_ human. Hags are a type of fey that
 happen to resemble horrible women. They're thematically linked to nature's
-ugliness, in much the same way eladrin or dryads are linked to its beauty.
+ugliness, in much the same way dryads are linked to its beauty.
 
 As befits fairytale witches, hags live in places inhospitable to humans such as
 haunted forests, dismal swamps or lonely mountain-tops castigated by
@@ -91,6 +93,15 @@ Shriek is closer to appropriate but still needs a tiny boost.
 
 ### Bog Hag (Both)
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-bog-hag.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Bog Hags are Level 10 Skirmishers with 107 HP, low-light vision and Speed 8 on
 both land and water. They're Aquatic and have Swamp-Walk, ignoring swamp-based
 difficult terrain. Their Unwholesome Presence (Aura 3) causes enemies in range
@@ -139,6 +150,15 @@ or a crone of any Medium humanoid race.
 
 ### Night Hag (Both)
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-night-hag.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Terrifying haunters of dreams, Night Hags are Level 14 Lurkers with 109 HP and
 Speed 8. They have darkvision, and surround themselves in a Shroud of Night that
 makes all illumination one step darker in its area of effect: bright light
@@ -165,6 +185,15 @@ Night Hags can Change Shape to appear as old crones of any Medium humanoid
 species.
 
 ### Death Hag (MM)
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-death-hag.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Here's your basic Baba Yaga wannabe. Death hags are Level 18 Soldiers with 171
 HP, Speed 6, low-light vision and Resist 10 Necrotic.
@@ -198,3 +227,5 @@ they used to be in previous editions. This is not necessarily a bad thing if it
 means you no longer have to memorize the effects and frequencies of 14
 spell-like abilities. As I said above, ritual casting accounts for most of a
 hag's magic now - they certainly have the skills for it.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
