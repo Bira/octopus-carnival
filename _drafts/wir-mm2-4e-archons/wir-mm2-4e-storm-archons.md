@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-archons-storm.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
 Continuing our look at the MM2 Archons entry we arrive at Storm Archons. All of
 the lore we saw on the [original Archon][1] entry and the extra bits from the
 [Earth Archon][2] post remain valid here, and there's a bit more that's specific
@@ -122,3 +133,4 @@ design. Clearly the WotC staff was following a finalized set of design rules for
 this book, which wasn't necessarily true for all the monsters in the first MM.
 
 [1]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}
+[2]: {{ "/projects/mm2-4e/" | relative_url }}
