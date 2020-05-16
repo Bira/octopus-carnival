@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Couatl"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Couatls are inspired by Aztec mythology and have been in the game since at least
+AD&D 1st Edition. They were given a significant role in the lore of Eberron, and
+I guess this entry brings that to their generic depiction.
+
+## The Lore
+
+Couatls are sapient winged serpents widely known for their great virtue, wisdom
+and power. They have opposed demons and other servants of evil since ancient
+times.
+
+All of this is true, but it's not the whole truth. It's less widely known that
+couatl righteousness can end up crossing the line into self-righteousness. Each
+individual tends to have specific plans that they pursue with single-minded
+dedication, and being convinced of their own rectitude they tend to not see
+people who get in the way of those plans with good eyes.
+
+Those plans are never actually evil, of course: they're stuff like protecting a
+village or other region, pushing a mortal along a destined path, sealing a
+planar breach, or preventing one from opening in the first place. Still, it's
+very possible for a bunch of well-meaning PCs ignorant of the wider picture to
+get in the way of a couatl's plans and draw the creature's wrath.
+
+Ancient legends say that couatls were born of the world's first light, and that
+they fought alongside the gods during the Dawn War. They were supposedly
+responsible for binding a great number of powerful and dangerous creatures in
+the world or in other planes, and a lot of those mysterious plans have something
+to do with keeping those creatures bound.
+
+Couatls have the innate ability to travel from any plane to the Astral Sea in 10
+minutes, arriving at a random location or at a teleporation circle they
+know. They can likely also use standard rituals to travel from the Sea to
+elsewhere.
+
+## The Numbers
+
+Couatls are Large Immortal Magical Beasts with the Reptile keyword. They have a
+ground speed of 6 and a flight speed of 8 with Hover. And they also have two
+signature traits:
+
+**Radiant Absorption** makes it so that when a couatl takes radiant damage, its
+own attacks deal 5 extra radiant damage until the end of its next turn. **Twist
+Free** allows them to roll saves against the immobilized and restrained
+conditions both at the start and end of their turns. This applies even when the
+conditions would end after a set time instead of being (save ends): in that
+case, the start-of-turn save could terminate the condition early.
+
+The two stat blocks we get here are Unaligned, which I guess is what you get
+when you combine "opposes evil" with "is a smug snake".
+
+### Couatl Cloud Serpent
+
+Cloud Serpents are Level 18 Artillery with 135 HP and all standard couatl
+traits. They prefer to fight by shooting lasers and lightning from above (and
+far away).
+
+This most often takes the form of a **Sky Bolt** (Ranged 20 vs. Reflex) which
+deals lightning and radiant damage. If the opposition clusters together they'll
+use **Snaking Arcs** (Area Burst 3 within 20 vs. Reflex), which is a little
+weaker but covers an area. It recharges once they're first bloodied.
+
+If an enemy manages to get close to them they can use a Reach 2 **bite**, which
+is a bit weak but deals ongoing poison and radiant damage (save ends). Even
+their venom is shiny! They can also push the interloper away with **Hurtling
+Coils** (Reach 2 vs. Fortitude, minor action 1/round), a non-damaging attack
+that pushes targets 2 squares and knocks them prone.
+
+### Couatl Star Serpent
+
+Star Serpents are Level 15 Elite Controllers with 286 HP. They're a lot more
+fond of melee combat than their cloud serpent cousins, and love to use
+constricting attacks.
+
+Their **bite** is the same as the cloud serpent's. The venom does a little less
+ongoing damage, but also slows (save ends all). Their **Righteous Coils** (Reach
+2 vs. Fortitude; minor action 1/round) do a bit of damage and grab. Grabbed
+targets grant combat advantage to the star serpent, and it can move them without
+needing to make Strength tests like the standard grapple rules say. There's no
+state limit to the number of grabbed victims; conceivably, the whole party could
+be wrapped in the serpent's coils. The escape DC is 27.
+
+The couatl can **Constrict** (vs. Fortitude; minor action 1/round) a grabbed
+target, dealing decent physical damage and dazing them for a turn.
+
+The star serpent also has two magic encounter powers: **Purifying Scream**
+(close burst 5 vs. Will) does psychic damage and also stuns the target for a
+turn if it's taking ongoing fire, poison or radiant damage. **Couatl Radiance**
+grants the creature the insubstantial and phasing traits and allows it to shift
+8 squares. The goal here is to pass through as many allies and enemies as
+possible: every ally the couatl passes through regains 15 HP and can spend a
+healing surge; every enemy suffers an attack vs. Will that, on a hit, deals both
+immediate and ongoing fire and radiant damage. This nicely sets them up for a
+Purifying Scream.
+
+## Sample Encounters and Final Impressions
+
+Couatls can be found hanging out with other creatures that share a similar
+desire to oppose or guard against evil. They might also engage in a bit of smug
+snake realpolitik and work alongside shadier allies with the goal of thwarting a
+worse evil.
+
+The book gives us two sample encounters:
+
+- Level 14: a star serpen, 3 deva knights-errant, and 1 phoelarch warrior.
+
+- Level 20: 2 cloud serpents, 2 marut executioners, 1 marut prosecutor.
+
+I like couatls! This more ambiguous portrayal of them gives me plenty of hooks
+to hang plots from, which I can't say was something the purely Lawful Good
+version did.

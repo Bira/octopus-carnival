@@ -43,8 +43,14 @@ modifications:
 
 And there you have it! And yes, you can combine this with normal weapon scaling
 to make a weapon whose weight is abnormally large for its size. In that case,
-you use the procedure above and also multiply the weapon's Reach by the value in
-the table row corresponding to the SM of the intended wielder.
+two extra steps apply after completing the procedure above:
+
+
+- Multiply the weapon's Reach by the value in the table row corresponding to the
+  SM of the intended wielder.
+
+- Cost is the _higher_ of the weapon's final modified cost, or the cost of a
+  standard SM 0 weapon.
 
 **Example 1**: We're making a super-strong martial artist character and we want
 him to use an iron quarterstaff that's ten times heavier than the wooden
@@ -64,20 +70,21 @@ The chosen base weapon is a Dueling Halberd. We use the SM -6 row in the table
 for the halberd's Reach multiplier, and the SM -2 row for everything else. Our
 resulting halberd will weight only a quarter of the human version, but it will
 be 25 times heavier than a "standard" pixie polearm, and weight more than its
-wielder!
+wielder! Since its modified cost of $30 is lower than its base cost of $150, it
+costs the same as a full-sized halberd.
 
 The final stats are: Damage sw+2 cut or sw+2 imp or thr+2 imp; Reach C; Parry 0U
-or 0; Cost $30; Weight 1.25kg (2.5 lbs); ST 6++. Note that our super-strong
+or 0; Cost $150; Weight 1.25kg (2.5 lbs); ST 6++. Note that our super-strong
 pixie can wield this halberd one-handed without it becoming unready.
 
 ## Magically Attuned Weapons
 
 This trope is popular in the Exalted roleplaying game. Magic weapons in that
-setting are inspired both on some tales of classical mythology and on modern
-media such as action anime and certain video games. The heroes who wield these
-weapons "attune their essence" to them, which makes the weapons feel like they
-have normal weight to their owners, while still being superheavy to everyone
-else - particularly their targets.
+setting are based both on some tales of classical mythology and on modern media
+such as action anime and certain video games. The heroes who wield these weapons
+"attune their essence" to them, which makes the weapons feel like they have
+normal weight to their owners, while still being superheavy to everyone else -
+particularly their targets.
 
 This means that characters wielding these weapons don't have to be generically
 super-strong, and that the ability to handle one weapon doesn't give them the
@@ -121,7 +128,7 @@ magical artifacts that only allow those they deem worthy to even lift
 them. Thor's hammer from the Marvel comics and movies is a famous example.
 
 Lifting and using these weapons is not a matter of muscle mass, but of moral
-strength. When you touch they, they judge you! If you pass that judgment, then
+strength. When you touch them, they judge you! If you pass that judgment, then
 you can lift and wield the weapon as if it was a normal specimen of its kind.
 
 You don't actually need to make these weapons superheavy or oversized. Instead,
@@ -138,9 +145,10 @@ those they like.
 If the weapon in question is also superheavy or oversized, then it could grant
 worthy wielders the ST to use it, similar to how Attunement works, at no cost to
 the wielder. If you're writing up the weapon as a character, this would be a
-benefficial Affliction granting the Attunement advantage. Simplify its cost by
-granting a number of levels of ST equal to the minimum needed to wield the
-weapon regardless of the wielder's current ST.
+benefficial Affliction granting the Attunement advantage described in the
+previous section of this article. Simplify its cost by having it grant a number
+of levels of ST equal to the minimum needed to wield the weapon regardless of
+the wielder's current ST.
 
 **Example**: The Iron Staff belonged to the Monkey King! Though it will shun
 Bloodthirsty, Callous, Greedy or Sadistic individuals, it will deem worthy

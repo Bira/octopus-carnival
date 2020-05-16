@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-archons-water.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
 Finishing our look at the MM2 Archons entry we arrive at Water Archons. All of
 the lore we saw on the [original archon post][1] remains valid here, and as
 usual they have some additional bits of specific lore to them.
@@ -112,3 +123,4 @@ blocks.
 
 
 [1]: {{ "/2019/02/03/wir-mm-4e-archons.html" | relative_url }}
+[2]: {{ "/projects/mm2-4e/" | relative_url }}

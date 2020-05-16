@@ -69,10 +69,10 @@ action; recharge 5-6) to teleport to a space adjacent to a marked enemy, which
 grants combat advantage to them for a turn. **Mark of the Tempest** means that
 any marked creature hit by the squallshield is also slowed (save ends).
 
-All of this makes them very sticky and hard to run away from. And if you try to
-stand your ground and fight, that Rain Wall is going to knock you down. So
-despite their Soldier role, squallshields excel at sticking to the party's
-squishies.
+Despite not being Skirmishers, Squallshields can use a combo of Snarling
+Lightning and Pursuing Storm to bypass the party's front line entirely and stick
+to a squishy, which will have a hard time running away because they'll be
+slowed.
 
 ### Storm Archon Lightning Walker
 

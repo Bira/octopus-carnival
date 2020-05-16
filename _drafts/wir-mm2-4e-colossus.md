@@ -1,0 +1,87 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Colossus"
+tags:
+    - dnd4
+    - lets-read
+---
+
+## The Lore
+
+As we saw back in the [Colossus entry for the Monster Manual][2], colossi are at
+the top of the tech tree for traditional constructs, and only gods and
+near-divine spellcasters have the power to create them. They're the kind of
+thing that was used as a weapon in the Dawn War. Well, here we learn that the
+gods weren't the only side of that war that could make colossi.
+
+In the post linked above, I made a reference to the giant monsters from the
+Shadow of the Colossus game. The primordial colossus we're looking at here fits
+them much better than the godforged variant from the first Manual.
+
+Most primordial colossi were created at the time of the Dawn War, and being as
+ageless as their creators they still exist today. Some roam the planes seeking
+to fulfill the orders of their long-gone masters, but others lie dormant looking
+for all the world like shattered ruins or broken parts of the landscape. When
+someone approaches them, they rise and smash the intruder.
+
+The magic that goes into a primordial colossus is a little wilder and less
+controlled than the one that goes into the god-forged variant. The principles
+behind it are such that a primordial colossus might be created _by accident_
+in any event that causes the release of a massive amount of elemental
+energy. This includes the awakening or destruction of a mighty elemental
+being. It's also possible for an epic spellcaster to acquire and perform the
+ritual to create one of these constructs.
+
+## The Numbers
+
+Once again we get a single stat block here, so let's get right to it.
+
+### Primordial Colossus
+
+This baby is a Huge Elemental Animate with the Construct keyword, and a Level 29
+Elite Brute with 640 HP. It's immune to disease, fear, poison and sleep, and has
+a Variable Elemental Resistance 15 switchable 3 times per encounter. Its ground
+speed is 10.
+
+Primordial colossi really lean into that mechanic for composite energy
+damage. They have an **Elemental Presence** aura (5) that deals 15 damage of the
+"acid, cold, fire, lightning, and thunder" type to anyone caught inside. You
+need resistance to all five types in order to not take full damage from it.
+
+Their basic **slams** do physical damage, but they likely prefer to use a
+**Colossal Slam** maneuver (close blast 3 vs. AC), which does the same damage
+over an area and triggers a secondary attack vs. Fortitude that does a bit of
+extra five-type elemental damage.
+
+When an enemy moves adjacent to the colossus, it can use a **Reactive Kick** as
+a reaction, targetting Fortitude, doing a good bit of five-type damage, pushing
+the target 4 squares and knocking it prone. This recharges once the colossus is
+first bloodied.
+
+Staying away does you no good, since it can throw **Primordial Stones** (Ranged
+20 vs. Reflex) that do only a bit less damage than the slam and have a secondary
+area attack (Close Burst 5 vs. Fortitude) which does that sweet five-type
+damage.
+
+## Sample Encounters and Final Impressions
+
+The two sample encounters have primordial colossi guarding ancient ruins
+alongside other similarly powerful apotropaics:
+
+- Level 26: 1 primordial colossus, 2 great flameskulls, 1 slaughterstone
+  hammerer.
+
+- Level 27: 1 primordial colossus, 1 primordial naga.
+
+Maybe an epic adventure centered on Far Realm opposition could have some
+horrible aberrant secret guarded by both godforged and primordial colossi -
+something so terrible the gods and primordials actually joined forces to
+protect.
+
+Mechanically, I find those Big Balls of Elemental Damage in the colossus' stat
+block to be a lot of fun. It's so hard to resist you'd get the same result by
+just using straight physical damage, but describing it this way reinforces the
+elemental nature of the creature... and you get to see the look on your players'
+faces as you announce they took acid, cold, fire lightning and thunder damage.
+
+[2]: {{ "/2019/08/23/colossus.html" | relative_url }}
