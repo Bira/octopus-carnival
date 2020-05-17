@@ -156,6 +156,8 @@ After this, we get right on the monsters:
   - [Griffon][110]
   - [Grimlock][111]
   - [Guardian][112]
+  - [Hag][113]
+  - [Halfling][114]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -269,3 +271,5 @@ After this, we get right on the monsters:
 [110]: {{ "/2020/05/08/griffon.html" | relative_url }}
 [111]: {{ "/2020/05/11/grimlock.html" | relative_url }}
 [112]: {{ "/2020/05/13/guardian.html" | relative_url }}
+[113]: {{ "/2020/05/16/hag.html" | relative_url }}
+[114]: {{ "/2020/05/17/halfling.html" | relative_url }}

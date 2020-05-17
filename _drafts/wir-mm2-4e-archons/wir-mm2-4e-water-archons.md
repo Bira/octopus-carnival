@@ -43,10 +43,10 @@ Humanoids with the Aquatic and Water keywords. They all have a swim speed, of
 course. When a water archon is hit by cold damage, it's also slowed for a
 turn. That doesn't quite balance out its excellent resistances though.
 
-Wather archons have Resist Acid 10, and are immune to disease, poison and
-_forced movement_. They also get a +2 on saves against the immobilized,
-restrained, or slowed conditions. I think this might be the first time I've seen
-a whole class of "Fuck You, Controller" monsters.
+Wather archons have Resist Acid 10, and are immune to disease, poison and _all
+forced movement_. Yep, you read that right. They also get a +2 on saves against
+the immobilized, restrained, or slowed conditions. I think this might be the
+first time I've seen a whole class of "Fuck You, Controller" monsters.
 
 ### Water Archon Shoal Reaver
 
