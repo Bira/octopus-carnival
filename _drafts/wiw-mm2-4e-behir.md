@@ -1,0 +1,144 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Behir"
+tags:
+    - dnd4
+    - lets-read
+---
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-behir.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+Behirs first appear in AD&D 1st Edition, and are one of the game's many
+"not-quite-dragon" monsters.
+
+## The Lore
+
+Behirs are giant reptilian creatures with serpentine bodies, many legs (8 or 12,
+depending on edition), and innate electrical powers. They're sapient but
+anti-social and uninterested in the trappings of civilization. They don't even
+tolerate each other's presence for longer than absolutely necessary. A behir
+mother will eject her young from the lair shortly after they're born, forcing
+them to fend for themselves.
+
+Though a behir makes lairs in pretty much the same places you'd expect to find
+dragons, it accumulates neither treasure nor servants. All it wants is to hunt
+and be left alone. Like a lot of D&D super-predators it doesn't usually care
+about the sapience of its victims, but it _can_ be reasoned with or bribed if
+you can get it to listen to you. Behirs can communicate both in Common and
+Draconic.
+
+This means that some people try to recruit behirs into service. Though this can
+end badly if the behir's terms are not met, a successful negotiation will allow
+the foolhardy employer to obtain the services of a formidable monster.
+
+### The Numbers
+
+Behirs are Huge Natural Magical Beasts, and have Tremorsense 10 and Resist
+Lightning 15. They fight with a combination of natural weapons and lightning
+attacks, which vary per stat block. They're Unaligned, and have a typical Int
+score of 7.
+
+### Behir
+
+This represents the typical specimen found in the wild. It's a Level 14 Solo
+Soldier with 564 HP. Their ground speed is 7, and they have a climb speed
+of 5. In combat they project a **Lightning Storm** aura (5) that causes 5
+lightning damage to anyone caught inside.
+
+The behir fights with its **claws** and **bite**, both of which are Reach 3 and
+do the same damage. The claw is a basic attack, and the bite does a mix of
+physical and lightning damage.
+
+It can also **Devour** a Medium or smaller victim (Reach 3 vs AC), doing bite
+damage and swallowing it whole. This counts as a grab! While it lasts the victim
+only has line of sight and effect to the behir, and no one else has line of
+sight or effect to the victim. A creature can escape the grab by the usual
+means, appearing adjacent to he behir, and can also automatically crawl out of a
+dead behir as a move action. With a minor action, the behir can sustain the grab
+and deal an automatic 15 damage to the victim. Only one victim at a time fits in
+its gizzard.
+
+The monster can also use a **Lightning Breath** (close blast 5 vs. Reflex;
+recharge 5-6), which does "high" lightning damage and dazes (save ends), and
+does half damage on a miss.  Its **Thunderleg Stomp** (close burst 3
+vs. Fortitude) does "low" physical damage and knocks targets prone on a hit.
+
+
+The damage on all of these is too low due to the math bugs: the basic attacks do
+an average of 15 damage when they should be doing 22. The tactics section says
+behirs begin by swallowing a squishy even if they have to eat a few opportunity
+attacks to do it, and then favoring their area attacks unless sorely pressed by
+a single character. With a damage upgrade across the board, these tactics are
+quite sound, since the Stomp becomes a more viable option.
+
+Being solo monsters, behirs have a neat initiative trick: they don't roll
+initiative at all! Instead, **Lightning Reflexes** gives them three turns per
+combat round at initiative counts 30, 20, and 10. This means that the poor
+swallowed victim might be looking at 45 automatic damage per round if they fail
+to escape the grab on their own turn. Using that first action on Swallow is
+definitely a worthy investiment.
+
+### Behir Bolter Whelp
+
+A young specimen, not yet fully grown. It's merely Large, and a Level 8 Solo
+Soldier with 352 HP and Resist 10 Lightning. It's standard damage is 12, and it
+should be around 16 with the update. It has a ground speed of 8 and a climb
+speed of 5.
+
+The bolter is going to start the fight by targetting a squishy **Knockdown
+Rush** (Reach 2 vs. AC; minor action; recharge 4-6), which allows it to charge
+and knock the target prone on a hit. Then, since this was a minor action, it's
+going to follow that up with a **claw** or **bite**, which work the same as the
+adult's with smaller numbers and Reach 2.
+
+When the PCs inevitably surround it, the bolder will emit a **Lightning Shock**
+pulse (close burst 2 vs. Reflex; recharge 5-6 and when first bloodied) which
+does "high" lightning damage, half on a miss. When hit by a melee attack, it can
+respond with a claw as a reaction (**Rip-Claw Response**).
+
+Despite being young, the bolter already displays **Lightning Reflexes**, acting
+on initiative counts 20, 15, and 5, so with enough luck on those recharge rolls
+it can keep bouncing between PCs for a while.
+
+### Behir Stormsteed
+
+This "domesticated" behir was recruited and trained as a mount by storm
+giants. It's a Level 24 Soldier with 229 HP. It has Resisnt Lightning 15, a
+ground speed of 8, and replaces the usual climb speed with a Fly speed of 8
+(hover). This is explained as the creature having the ability to walk on the
+lightning it generates.
+
+The math bug affects the stormsteed particularly hard since it's an epic
+creature. Its standard damage is a woeful 18, and it should be 32!
+
+Its basic attack is a **bite** that does a mix of physical and lightning damage,
+and it can also use its **Lightning Breath** (close burst 3 vs. Reflex, recharge
+4-6) to deal lightning damage all around itself. I wonder if that was meant to
+be a blast.
+
+When mounted, the stormsteed can use **Ride The Lightning**, which grants the
+rider a +2 to attack with lightning powers, and allows the steed itself to use
+Lightning Breath once per turn as a minor action indepentently of the recharge
+counter. Perfect for storm giants or someone like a bluespawn godslayer.
+
+## Sample Encounters and Final Impressions
+
+We get two sample encounters: a level 8 one with a bolter whelp and three
+bugbear wardancers, and a level 14 one with an adult, a medusa, and a yuan-ti
+incanter. If something even remotely looks like a snake, Zehir has an interest
+in it.
+
+Behirs are one of those monsters I never really got into in previous edition. A
+closer reading of this MM2 entry does give me a few ideas of how to use them,
+but I still can't say I'm pumped about them.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
