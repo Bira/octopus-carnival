@@ -6,6 +6,17 @@ tags:
     - dnd4
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-harpy.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 D&D Harpies are inspired by the harpies from Greek mythology, with a bit of
 siren mixed in. They've been in the game since pretty much the beginning. Here,
 they are on the Monster Manual only.
@@ -99,3 +110,5 @@ I like harpies! Mythological monsters are always fun, and these ones have some
 interesting song effects. It's also not too hard to come up with new varieties,
 like a skirmisher harpy with better agility and Flyby Attack, or one that can
 put people to sleep with their song.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

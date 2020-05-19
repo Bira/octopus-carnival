@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-hound.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 D&D has historically featured a whole bunch of dog-like monsters in its
 bestiaries, and Fourth Edition is no different. This Monster Manual entry
 collects a bunch of them.
@@ -115,3 +126,5 @@ Each hound type gets a sample encounter:
 Hell hounds are a classic, and I like that they took some strong mythical
 figures for the other entries. Despite the usual damage bugs the stat blocks
 themselves also seem fairly simple and effective in a fight.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-hydra.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Hydras are inspired by greek mythology, which as far as I know only had the
 one. In D&D, I see them on the Rules Cyclopedia, which means they've been around
 at least since the days of BECMI and probably since the beginning. They appear
@@ -24,13 +35,13 @@ Hydras are nonsapient, but they're still extremely dangerous predators that
 require a lot of food to survive. Most species are good swimmers, and though
 they can't breathe underwater only one of the heads needs to surface to avoid
 drowning. Hydras can survive on pretty much any environment as long as they have
-access to food, though.
+access to food.
 
 Despite their innate ferocity, hydras actually take quite well to training if
-the trainer manages to survive the turbulent early stages of it. Giants,
-minotaurs and powerful spellcasters are the most frequent hydra owners, though
-sometimes a hydra will "adopt" someone more unexpected than that, like a goblin
-leader.
+the trainer manages to survive the turbulent early stages of the
+process. Giants, minotaurs and powerful spellcasters are the most frequent hydra
+owners, though sometimes a hydra will "adopt" someone more unexpected than that,
+like a goblin leader.
 
 The mythological Hydra was notorious for its ability to regrow its severed
 heads, and here we have an interesting lore divergence between the two books:
@@ -81,7 +92,7 @@ who ends their movement within reach of it.
 
 ### Fen Hydra (MM)
 
-This is the basic hydra from the MM. It's a Large Natural Beast (repitile) with
+This is the basic hydra from the MM. It's a Large Natural Beast (reptile) with
 all common traits for MM hydras. A Level 12 Solo Brute with 620 HP, it's
 otherwise quite similar to the MV hydra, except it lacks a head-severing
 mechanic. It has four heads throughout the whole fight, so its Hydra Fury always
@@ -89,11 +100,11 @@ allows it to make 4 attacks.
 
 ### Flamekiss Hydra (MV)
 
-A fire-themed hydra, this is a Large Natural Beast (repitile) and a Level 12
-Solo Brute with 496 HP. Flamekiss hydras have a land speed of 5 and no swim
-speed, but also have Resist 10 Fire. They lose heads at 372, 248 and 124 HP, and
-PCs can prevent them from growing more by dealing cold or acid damage before
-their next turn starts.
+A fire-themed hydra, this is a Large Natural Beast (reptile) and a Level 12 Solo
+Brute with 496 HP. Flamekiss hydras have a land speed of 5 and no swim speed,
+but also have Resist 10 Fire. They lose heads at 372, 248 and 124 HP, and PCs
+can prevent them from growing more by dealing cold or acid damage before their
+next turn starts.
 
 Flamekiss hydras have the same attacks as the base model, plus Flame Kiss (Close
 Blast 3 vs. Reflex) which deals immediate and ongoing fire damage (save
@@ -169,3 +180,5 @@ since you could start a given hydra with more than four heads.
 
 The simpler MM varieties still have their place, too, since you might not want
 _every_ hydra to behave like the mythological one.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

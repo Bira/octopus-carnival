@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-human.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Humans are obviously inspired by the real world, and have been an integral part
 of the game since its very beginning. Humans as playable characters are covered
 by the Player's Handbook, with both of the books we're covering having entries
@@ -192,3 +204,5 @@ setting. Sure, you can write up a setting that has no humans in it, but that's
 the sort of decision that tends to ripple outward to become one of that
 setting's main traits. They're significant even in their absence, because
 they're pretty much everywhere else.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

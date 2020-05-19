@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-hook-horror.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Hook horrors definitely look like something that's been around since AD&D. My
 first contact with them was in Neverwinter Nights, which used a model for them
 that was nearly identical to that of vrock demons. The chunky fellow above is
@@ -65,3 +76,5 @@ We have two:
 I'm indifferent to hook horrors. I suppose a large variety of Underdark
 predators is good, but since they all fulfill more or less the same dramatic
 role they tend to leave me cold.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

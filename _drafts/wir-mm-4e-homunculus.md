@@ -81,8 +81,8 @@ attack anyone adjacent to or carrying that object.
 
 I think they'd mostly use their attacks to prevent pursuit in case they're
 discovered spying on you. They're big enough to carry most objects they could be
-set to guard, so this is the construct you use when you want to carry something
-to the ends of the earth so it's never found again.
+set to guard, too. This is the construct you use when you want to carry
+something to the ends of the earth so it's never found again.
 
 ### Iron Defender
 
