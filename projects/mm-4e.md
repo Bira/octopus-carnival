@@ -159,6 +159,7 @@ After this, we get right on the monsters:
   - [Hag][113]
   - [Halfling][114]
   - [Harpy][115]
+  - [Helmed Horror][116]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -275,3 +276,4 @@ After this, we get right on the monsters:
 [113]: {{ "/2020/05/16/hag.html" | relative_url }}
 [114]: {{ "/2020/05/17/halfling.html" | relative_url }}
 [115]: {{ "/2020/05/18/harpy.html" | relative_url }}
+[116]: {{ "/2020/05/21/helmed-horror.html" | relative_url }}
