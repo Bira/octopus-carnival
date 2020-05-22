@@ -160,6 +160,7 @@ After this, we get right on the monsters:
   - [Halfling][114]
   - [Harpy][115]
   - [Helmed Horror][116]
+  - [Homunculus][117]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -277,3 +278,4 @@ After this, we get right on the monsters:
 [114]: {{ "/2020/05/17/halfling.html" | relative_url }}
 [115]: {{ "/2020/05/18/harpy.html" | relative_url }}
 [116]: {{ "/2020/05/21/helmed-horror.html" | relative_url }}
+[117]: {{ "/2020/05/22/homunculus.html" | relative_url }}
