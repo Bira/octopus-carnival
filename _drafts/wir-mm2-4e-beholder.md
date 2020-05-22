@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Beholders appeared in the first Monster Manual, and I covered them
 [here][2]. The Monster Manual 2 brings us a few more varieties, including some
 that also made it into the Monster Vault.
@@ -16,8 +18,8 @@ combine that with their numbers below.
 As before, beholders are Aberrant Magical Beasts. They have All-Around Vision
 and Darkvision, and a variable fly speed with hover capability. In general their
 attacks consist of a very weak bite and a whole bunch of thematic ranged attacks
-from their eye stalks and central eye. Beholder eye rays are ranged attacks, but
-don't provoke opportunity attacks.
+from their eye stalks and central eye. Beholder eye rays are Ranged, but don't
+provoke opportunity attacks.
 
 ### Beholder Gauth
 
@@ -34,10 +36,19 @@ dangerous varieties.
 
 I already covered the Monster Vault version of gauths in the [post on MM1
 beholders][2]. The Monster Manual 2 is pretty much identical, except it suffers
-from the damage bug and has a remarkably weak bite (2d4!). Just use the
-MV stats for this one.
+from the damage bug and has a remarkably weak bite. Just use the MV stats for
+this one.
 
 ### Beholder Eye of Frost
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-beholder-eye-of-frost.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 A counterpart to the MM1's [Eye of Flame][2], this is a beholder with a great
 affinity for elemental ice. It prefers to dwell in very cold climates in the
@@ -58,10 +69,10 @@ vs. Reflex; minor action 1/round) weakens on a hit (save ends). If a target
 weakened by this power would become slowed, they become immobilized instead, and
 this lasts until they're no longer weakened!
 
-The Eye of Frost has access to 3 **Eye Rays**, **Eyes of the Beholder** allows
-it to use one of them as a free action against any enemy that starts its turn
-within 5 squares of the beholder. That enemy also gains Vulnerable 5 Cold until
-the end of the beholder's next turn. A ray attack can also be done with a
+The Eye of Frost has access to 3 **Eye Rays**, and **Eyes of the Beholder**
+allows it to use one of them as a free action against any enemy that starts its
+turn within 5 squares of the beholder. That enemy also gains Vulnerable 5 Cold
+until the end of the beholder's next turn. A ray attack can also be done with a
 standard action, of course, further increasing the beholder's rate of fire.
 
 The rays have Range 10, and have the following effects:
@@ -79,13 +90,21 @@ less dangerous, though its control effects will still be a problem.
 
 ### Beholder Eye of Chaos
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-beholder-eye-of-chaos.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Once upon a time, there was a beholder [Eye Tyrant][2] who dove into the Abyss
 in search of the Shard of Ultimate Evil wielded by Tharizdun. Though the
 creature never found the shard, it nevertheless emerged from the experience
-infused with all sorts of evil demonic energies, which increased its power and
-warped its body and mind. This stat block could represent that individual or one
-of its descendants, or perhaps another beholder who thought he could do it
-better.
+infused with all sorts of demonic energies, which increased its power and warped
+its body and mind. This stat block could represent that individual or one of its
+descendants, or perhaps another beholder who thought he could do it better.
 
 Eyes of Chaos are still quite capable of concocting complex schemes and
 directing armies of underlings... only now those underlings tend to be demons
@@ -130,6 +149,15 @@ no sudden death effects here.
 
 ### Beholder Ultimate Tyrant
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-beholder-ultimate-tyrant.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 If you manage to talk to the Ultimate Tyrant, it will tell you that it has the
 most valid of reasons for hating all other beholders: they're a bunch of
 posers. They were born in the world or otherwise went native, but the Ultimate
@@ -137,7 +165,8 @@ Tyrant is part of the original generation that came directly from the Far Realm
 and still keeps its connection to that place.
 
 Depending on the particulars of your campaign it might even be _the_ original
-beholder. If not, it's at least among the first to arrive in the world.
+beholder. If not, it's at least among the first to arrive in the world. Perhaps
+the only creature that might dispute its claims of OG-ness is the Gibbering Orb.
 
 The Ultimate Tyrant is Huge, and a Level 29 Solo Artillary menace with 1080
 HP. This can even make it suitable as a final boss for a campaign that ends in
@@ -230,6 +259,5 @@ but the Ultimate Tyrant is an absolute unit.
 
 
 
-
-
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2019/05/27/beholder.html" | relative_url }}
