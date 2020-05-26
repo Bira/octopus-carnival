@@ -6,8 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class=left>
+  <img src="{{ "/assets/wir-mm2-4e-bullywug.png" | absolute_url }}"/>
+  <figcaption>Illustration Copyright 2009 Wizards of the Coast.</figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 The first book in my collection where I found bullywugs is the AD&D 2nd Edition
-Monster Manual, though it's quite likely they were around before.
+Monster Manual, though it's quite likely they were around before that.
 
 ## The Lore
 
@@ -53,7 +62,7 @@ This Level 1 Brute with 34 HP likely makes up the rank-and-file of a bullywug
 force. It wields a **spear** in combat, and has a **Bully** trait that makes it
 cause extra damage to prone targets.
 
-It can make targets prune with **Bullywug Rush** (melee 1 vs. Fortitude;
+It can make targets prone with **Bullywug Rush** (melee 1 vs. Fortitude;
 recharge 5-6), a charge attack that deals more damage and knocks the target
 prone. A miss here deals 3 damage to the Mucker and knocks _it_ prone. I'm
 starting to feel sorry for it.
@@ -106,5 +115,7 @@ It's unclear whether the vine or the ettercaps are working with the bullywugs or
 not. Their lore doesn't make me think they'd work well with anyone. In fact,
 they'd probably be in conflict with any other sapients who live in the same
 swamp as them. If you want to set up a good old-fashioned swamp crawl where the
-PC can meddle with several factions, you could start with a
-bullywug-goblin-kobold three-way war.
+PC can meddle with several factions, a bullywug-goblin-kobold-lizardfolk
+four-way conflict is an excellent starting point.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
