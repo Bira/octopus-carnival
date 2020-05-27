@@ -15,8 +15,8 @@ tags:
 
 This is part of a series! Go [here][1] to see the other entries.
 
-The first book in my collection where I found bullywugs is the AD&D 2nd Edition
-Monster Manual, though it's quite likely they were around before that.
+Bullywugs first appeared in the AD&D 1st Edition Fiend Folio, and featured
+heavily in the D&D cartoon of the 80's.
 
 ## The Lore
 
@@ -118,4 +118,4 @@ swamp as them. If you want to set up a good old-fashioned swamp crawl where the
 PC can meddle with several factions, a bullywug-goblin-kobold-lizardfolk
 four-way conflict is an excellent starting point.
 
-[1]: {{ "/projects/mm-4e/" | relative_url }}
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
