@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-kuo-toa.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Kuo-Tua are one of the ten or so kinds of fish-people who have graced D&D's
 bestiaries over its history. The first time they appeared on a core monster book
 was in AD&D 2nd Edition, but I guess they must show up in a 1st edition
@@ -152,3 +163,5 @@ I think 4e has done a lot of good for these fishy cultists. My memories of them
 from 3e were just another type of "fish person with spear", with little to
 distinguish them from locatah or saguahin. Sahuagin are also present in the MM,
 so when we get there we'll see how unique each of them really is.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

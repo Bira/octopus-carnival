@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-kruthik.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I first read about kruthiks in 4e itself, though I think they might have been
 introduced in 3e. Here, they're only on the Monster Manual.
 
@@ -115,3 +126,5 @@ published adventures. Perhaps this led to them not being very popular. Reading
 the lore makes me think you could make a "kruthik apocalypse" scenario instead
 of using the usual zombies, though you'd probably need to come up with more
 varieties of the beasts (like skirmishers and artillery) to keep things varied.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

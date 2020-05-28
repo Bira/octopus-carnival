@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-kobold.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Kobolds have been in D&D since the beginning, occupying the lowest rung on the
 Humanoid Power Ladder below goblins. Their name is that of an underground spirit
 from German folklore but they're always been quite mundane. Their appearance
@@ -16,8 +27,8 @@ since. In 4e, they are both in the MM and the MV.
 
 Kobolds are small reptilian humanoids who make their homes in underground
 warrens and worship dragons as if they were gods. They're rarely on good terms
-with "civilized" society, which tends to view them as a particularly bothersome
-sort of pest.
+with "civilized" society, which tends to view them as particularly bothersome
+pests.
 
 Your typical kobold is weak and a bit dim when compared to a human, but
 collectively they're quite tenacious and crafty when defending their homes, and
@@ -47,11 +58,11 @@ defenses against traps. That last one is only present in the MM kobolds. I
 imagine you can just say kobolds never trigger their own traps instead, which is
 why the MV dropped it. I'd still give it to playable kobolds.
 
-Power-wise, they cover the first half of the Heroic tier, which means the choice
-of kobolds and goblins is mostly a matter of aesthetic preference in 4e. The MV
-kobolds are a bit more restricted in level, in what seems to be an attempt to
-restore the power ladder. While the MM versions do suffer from the damage bug,
-this barely affects them at all since their level is so low.
+Power-wise, they cover the first half of the Heroic tier, which means the
+chosing between kobolds and goblins is mostly a matter of aesthetic preference
+in 4e. The MV kobolds are a bit more restricted in level, in what seems to be an
+attempt to restore the power ladder. While the MM versions do suffer from the
+damage bug, this barely affects them since their level is so low.
 
 ### Kobold Minion (MM) and Kobold Tunneler (MV)
 
@@ -101,9 +112,11 @@ alternatives, and you can either randomly roll to see what's inside or choose
 the effect before attacking.
 
 Special shots do normal damage, and carry one of these three riders:
-**Stinkpots** inflict a -2 attack penalty on the target (save ends);
-**Firepots** deal a bit of ongoing fire damage (save ends); and **Gluepots**
-immobilize (save ends).
+- **Stinkpots** inflict a -2 attack penalty on the target (save ends);
+
+- **Firepots** deal a bit of ongoing fire damage (save ends);
+
+- **Gluepots** immobilize (save ends).
 
 Both versions of the slinger are pretty much identical aside from damage tweaks
 and the Trap Sense thing.
@@ -190,3 +203,5 @@ even more compelling.
 So by all means bring on the sympathetic, misunderstood kobolds! Who knows,
 maybe there's a sizable portion of them out there that lean more towards Bahamut
 than Tiamat, with dragonshield paladins and such.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
