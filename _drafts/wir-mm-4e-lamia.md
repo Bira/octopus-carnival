@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-lamia.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 In Greek mythology, Lamia was a woman cursed by Hera to become a half-human,
 half-snake, child-eating monster. The Greeks themselves would end up using the
 name for a whole species of such creatures later on, and a few naughty anime
@@ -81,4 +92,6 @@ demons as muscle.
 Lamias are mechanically interesting, though if you dislike the "comely
 seductress that actually wants to kill you" trope they might not be your cup of
 tea. Their knowledge of magic could allow them to fulfill the same dramatic
-roles as hags, but I think they seem a bit too overtly hostile for that.
+roles as hags, but as written they seem a bit too overtly hostile for that.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
