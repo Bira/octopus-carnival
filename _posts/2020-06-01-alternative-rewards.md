@@ -22,8 +22,8 @@ turn fall into two main categories: treasure and experience.
 
 In GURPS, "experience" means Character Points, which are usually obtained for
 successfully completing adventure goals and can be directly used to improve
-characters. "Treasure" can be split into magic items and "monetary" treasure
-(i.e, coins and stuff you end up selling in town).
+characters. "Treasure" in a Dungeon Fantasy context can be split into magic
+items and "monetary" treasure (i.e, coins and stuff you end up selling in town).
 
 By default these two reward types are mostly unrelated. Going by the experience
 rewards scheme on p. 92 of DF: Exploits, a party could enter a dungeon, win lots
