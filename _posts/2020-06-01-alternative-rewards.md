@@ -55,8 +55,8 @@ it. Divide each PC's share by $500: that's how many points they get. This is the
 exact same exchange rate they'd get from converting character points to money
 during character creation. Depending on how much treasure your adventures
 feature, you might want to adjust the rate! For example, a PC in a campaign that
-follows Petter V. Del'Orto's suggested house rule would earn one point for every
-$5000 they earned.
+follows [Petter V. Del'Orto's suggested house rule][1] would earn one point for
+every $5000 they earned.
 
 **Example**: Let's say we have a party of 5 PCs that agree to split their loot
 evenly. They meet a dragon shortly after they enter a dungeon, and are forced to
@@ -120,3 +120,5 @@ to buy stuff, in which case 1 SP is worth $1. So characters must choose between
 buying equipment or upgrading their abilities, which will end up slowing
 advancement overall and making looted gear that much more desirable. A suit of
 fine armor you find in the wild is one you don't have to spend Soul Points on!
+
+[1]: https://dungeonfantastic.blogspot.com/2020/05/nearly-complete-thoughts-on-10x-cost.html
