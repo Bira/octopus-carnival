@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alternative Dungeon Fantasy Reward Rystems"
+title: "Alternative Dungeon Fantasy Reward Systems"
 image: /assets/studio-ghibli-dark-souls.jpg
 tags:
     - gurps
