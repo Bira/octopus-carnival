@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-cockatrice.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 As far as I know both cockatrices and basilisks are based on the same vague lump
 of medieval folklore about an animal that can turn you to stone. The exact name,
 description and proportion of snake/lizard/chicken traits this animal has varies
@@ -64,3 +75,5 @@ special attack.
 
 The sample encounter is Level 5: 2 cockatrices and a trio of lizardfolk using
 them as attack animals.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
