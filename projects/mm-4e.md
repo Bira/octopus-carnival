@@ -164,6 +164,9 @@ After this, we get right on the monsters:
   - [Hook Horror][118]
   - [Horse][119]
   - [Hound][120]
+  - [Human][121]
+  - [Hydra][122]
+  - [Hyena][123]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -285,3 +288,6 @@ After this, we get right on the monsters:
 [118]: {{ "/2020/05/27/hook-horror.html" | relative_url }}
 [119]: {{ "/2020/05/28/horse.html" | relative_url }}
 [120]: {{ "/2020/05/30/hound.html" | relative_url }}
+[121]: {{ "/2020/06/05/human.html" | relative_url }}
+[122]: {{ "/2020/06/06/hydra.html" | relative_url }}
+[123]: {{ "/2020/06/09/hyena.html" | relative_url }}
