@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-couatl.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 Couatls are inspired by Aztec mythology and have been in the game since at least
 AD&D 1st Edition. They were given a significant role in the lore of Eberron, and
 I guess this entry brings that to their generic depiction.
@@ -38,6 +49,10 @@ Couatls have the innate ability to travel from any plane to the Astral Sea in 10
 minutes, arriving at a random location or at a teleporation circle they
 know. They can likely also use standard rituals to travel from the Sea to
 elsewhere.
+
+In Eberron, if I'm not mistaken, couatls are the ones responsible for binding
+the demonic Lords of Dust in the distant past, and their magic have a lot to do
+with the deepest secrets of the Silver Flame.
 
 ## The Numbers
 
@@ -115,3 +130,5 @@ The book gives us two sample encounters:
 I like couatls! This more ambiguous portrayal of them gives me plenty of hooks
 to hang plots from, which I can't say was something the purely Lawful Good
 version did.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
