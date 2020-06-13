@@ -167,6 +167,7 @@ After this, we get right on the monsters:
   - [Human][121]
   - [Hydra][122]
   - [Hyena][123]
+  - [Kobold][124]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -291,3 +292,4 @@ After this, we get right on the monsters:
 [121]: {{ "/2020/06/05/human.html" | relative_url }}
 [122]: {{ "/2020/06/06/hydra.html" | relative_url }}
 [123]: {{ "/2020/06/09/hyena.html" | relative_url }}
+[124]: {{ "/2020/06/13/kobold.html" | relative_url }}
