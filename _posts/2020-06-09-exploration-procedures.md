@@ -36,5 +36,5 @@ They have convinced me to apply this mechanic to all dungeon crawls, but I
 disagree with enough of their details that I feel I have to revise my own
 procedure. That will happen some other time.
 
-[1]: {{ "/2020/01/24/old-school-movement.md" | relative_url }}
+[1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
 [2]: https://gurpshexytime.blogspot.com/2020/06/dungeoncrawl-procedures.html
