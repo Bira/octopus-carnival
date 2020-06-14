@@ -214,7 +214,7 @@ After this, we get right on the monsters:
 [43]: {{ "/2019/11/07/babau.html" | relative_url }}
 [44]: {{ "/2019/11/12/dretch.html" | relative_url }}
 [45]: {{ "/2019/11/14/destrachan.html" | relative_url }}
-[46]: {{ "/2019/11/21/devil.html" | relative_url }}
+[46]: {{ "/2019/11/21/devils.html" | relative_url }}
 [47]: {{ "/2019/11/26/bearded-devil.html" | relative_url }}
 [48]: {{ "/2019/11/27/bone-devil.html" | relative_url }}
 [49]: {{ "/2019/11/28/chain-devil.html" | relative_url }}
