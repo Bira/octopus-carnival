@@ -1,0 +1,191 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Demons, Part 3"
+tags:
+    - dnd4
+    - lets-read
+---
+
+We continue looking at the many monsters in the Demons entry of the Monster
+Manual 2.
+
+## Nycademon
+
+I'm pretty sure these winged, four-armed creatures used to be classified as
+Yugoloths in previous editions, where their name was written as
+"Nycadaemon". Yugoloths, or daemons, were the Neutral Evil Fiends, created
+because the writers of AD&D decided every alignment needed its own
+representative outsider. Fourth Edition uses a different cosmology and a
+different alignment system, so its authors elected to turn daemons into demons.
+
+Nycademons spend their days flying over the open expanses of the Abyss in search
+of creatures to snatch and drop from a great height, which they think is hella
+funny. This has given them the nickname of "sky demons". They place great value
+in physical strength, and so have a tendency to underestimate beings whose power
+is less obvious ("Do you even lift, bro?"). They're also hesitant to attack
+someone who seems big and strong, for the same reason.
+
+Like many former daemons, nycademons have a mercenary temperament and will work
+for anyone who pays them. These contracts tend to be short-lived though, as
+their superiority complex tends to infuriate most allies. All that flexing can
+get annoying really fast.
+
+### The Numbers
+
+Nycademons are Large Elemental Humanoids (demons) and Level 22 Skirmishers with
+210 HP. They have Variable Resistance 20 (2/encounter), as well as ground and
+fly speeds of 6. The one in this book fights with a pair of greataxes it wields
+one-handed, leaving it with two free hands to snatch victims.
+
+Its **Wicked Axe** attacks are Reach 2 and High-Crit, and also cause ongoing 5
+damage (save ends). **Wicked Edges** allows it to make two such attacks in one
+action, putting its damage near where it should be even without the math fix.
+
+Instead of axing someone, the nycademon can **Snatch** them (Reach 2
+vs. Fortitude). It can fly 6 squares before or after making the attack, which
+does no damage but grabs the target. The **Strong Flyer** trait exempts it from
+the usual obstacles to moving a grabbed target, so it can travel its full speed
+with the grabbed victim without needing to make additional tests to do so.
+
+All of these traits lend themselves well to the "snatch and drop" tactics
+described in the lore. Grab someone, fly up for a few rounds while attacking
+them with the axes, drop them for a bunch of d10s of fall damage.
+
+The sample encounter has three nycademons, a goristro and a rot harbinger. It's
+Level 21, and likely affiliated with Orcus.
+
+### Impressions
+
+While mechanically simple, I kinda like the whole "snatch and drop" thing. It's
+also fun to imagine these creatures as condescending gym bros.
+
+## Pod Demons
+
+Particularly disgusting examples of demonkind, these slimy creatures can spawn
+miniatures of itself from their blistered bodies, using them to corner and
+terrorize their victims.
+
+The spawn have no mind of their own, being extensions of the demon's main
+body. In fact, the pod demon can transfer its conscience to a podling, causing
+it to grow to full size while the original body shrinks.
+
+These creatures have some connection to the mysterious Chained God (AKA
+Tharizdun, but no one in-setting rememebers that name). Some of them wrap
+themselves in chains to show their allegiance.
+
+### The Numbers
+
+Pod Demons are Large Elemental Humanoids (demons), and Level 15 Elite Artillery
+with 176 HP. They have darkvision and Variable Resistance 15
+(2/encounter). Their ground speed is 8.
+
+They fight by using their half-formed spawn as ammo. They can either throw it so
+it explodes on impact using **Fling Podspawn** (area burst 1 within 10
+vs. Reflex), or squeeze it to spray nearby enemies with **Spew Podspawn** (close
+blast 3 vs. Reflex). In either case, targets take acid damage on a hit.
+
+Folly formed podspawn constantly pop free of the parent body: one appears within
+2 squares of the original at the start of its turn as long as there are fewer
+than 4 podspawn in play. The parent can also force them out with **Generate
+Podspawn**  (close burst 2 vs. Reflex), which does poison damage and fills
+unoccupied squares with podspawn if there are less than 4 in play.
+
+As a move action the pod demon can **Transfer Essence**, effectively swapping
+positions with a podspawn within 10 squares. As a minor action it can use
+**Detonate Minion** (ranged 10), causing a podspawn in range to explode and deal
+a bit of automatic poison damage to adjacent creatures.
+
+If forced into melee, they attack with a weak **Claw** that also does ongoing
+poison damage (save ends).
+
+I'm guessing that if you have multiple pod demons in play, each of them will be
+able to have its own set of four minions.
+
+The podspawn themselves also have a little stat block. They're Level 15 Minion
+Skirmishers whose resistances always match the parent's, and who attack with a
+**corriding slime** that's slightly stronger than the parent's claw. Their
+**dangerous proximity** trait gives them combat advantage against any adjacent
+enemy, no flanking required.
+
+The sample encounter is level 16: 1 immolith, 1 pod demon, 4 podspawn and 2 red
+slaads.
+
+## Runespiral Demon
+
+These turtle-beetle things have complex patterns of arcane runes etched into
+their shells, which channel arcane energies from deeper within the Abyss. The
+specimens depicted here turn this energy into lightning, but there are others
+with variant runic patterns that use other elements.
+
+Runespiral demons are sapient, but they don't have hands and are nowhere near
+smart enough to be good at arcane magic. The runes are either natural or etched
+by some unseen patron. In combat, they rely on the magic of these runes to
+attack at range.
+
+### The Numbers
+
+We actually get two varieties here: common Runespiral Demons are Small Elemental
+Magical Beasts, and Level 5 Artillery with 51 HP. Arctide Runespiral Demons are
+Large, and Level 12 Artillery with 97 HP. They have Variable Resistances of 10
+and 15 respectively, and a ground speed of 7. Their attacks are almost
+identical.
+
+They can attack distant opponents with either a **Focused Strike** (ranged 10
+vs. Reflex) that does standard lightning damage, or a **Lightning Burst** (Area
+Burst 2 Within 10 vs. Reflex), which does bit less lightning damage as a
+baseline, but has that damage increase by 1 for each creature caught in the
+blast. That's _creature_, not _enemy_: allies caught in the blast will increase
+its damage, but will also be damaged by it since it's not a selective burst. The
+Arctide Demon's burst is also **Charged**: it does all of the above and
+additionally gives allies damaged by it a +1 bonus to their next recharge rolls.
+
+When an enemy moves adjacent to one of these demons they release an **Arcane
+Arc** (melee 1 vs. Reflex) as an interrupt, dealing lightning damage. In melee
+they'll **bite** for very little physical damage, and when bloodied they release
+a **Bloodied Shock** (close burst 1 vs. Reflex) that deals lightning damage and
+dazes.
+
+The sample encounter has 2 basic runespiral remons, 2 evistros, and the human
+hexer who summoned them all.
+
+### Impressions
+
+More demon artillery support. They have some mechanical weaknesses: all of their
+good attacks deal the same type of damage and target the same defense. Some GMs
+might want to pull a Gygax and say that runespiral demons with other elements
+look identical save for their different runes and that it takes an Arcana test
+to distinguish them.
+
+## Rupture Demon
+
+These demonic amoeboids are the least spawn of Juiblex, and they act as abyssal
+scavengers, following more powerful demons around and eating the remains of
+their kills. When they die their own remains can infest those more powerful
+demons and make them even stronger. Does that serve some plan of Juiblex? No one
+knows.
+
+### The Numbers
+
+Rupture Demons are Level 5 Minion Soldiers, with low-light vision, a ground
+speed of 6 and a climb speed of 3 with Spider Climb. They lack any elemental
+resistance.
+
+They can attack directly with a **Slimy Extrusion** for minor physical damage,
+or they can use an **Enveloping Embrace**. This hits automatically, does no
+damage and restrains the target (save ends). It also kills the demon, presumably
+because it has to rupture to envelop someone.
+
+When a rupture demon dies, either due to an attack or from using the Embrace, it
+explodes into a mass of ichor and pseudopods that latches onto another demon
+within 5 squares. This infestation heals 5 HP and gives it a +2 damage
+bonus. Multiple infestations stack, up to a maximum of +10 damage. For this to
+work the infested demon must be level 10 or less.
+
+The sample encounter has 1 Black Pudding, 1 Evistro, and 6 rupture demons.
+
+### Impressions
+
+I like their concept! The level limitation is a bit strange. Presumably you
+could have higher level minions that could affect more powerful demons. In that
+case you should make sure they're still a few levels behind the "real"
+opposition, since you want them to die fast and provide that damage bonus.
