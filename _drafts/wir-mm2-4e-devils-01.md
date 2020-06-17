@@ -128,7 +128,7 @@ their chains are often encrusted in gore.
 Their fighting style is a lot less fancy than that of their smaller
 counterparts, but they turn out to have a lot more mental control over their
 chains. So much, in fact, that they can use those chains to manipulate ensnared
-victims and make them into puppets.
+victims and make them into puppets. They're also a lot smarter than they look.
 
 ### The Numbers
 
@@ -155,5 +155,12 @@ them get away.
 The sample encounter is Level 12 and has two of these, a skeletal tomb guardian,
 and a skull lord. I imagine they might also take part in those erinyes-led
 debtor-hunting parties.
+
+I like that the look of gorechain devils is a bit deceptive at first. A PC who
+sees one of these things might expect a big dumb brute, but they can fight smart
+and the Takeover power will come as a surprise.
+
+It's not quite enough to make me like them as enemies, since I'm not really that
+fond of khytons either, that's on me and not on this stat block.
 
 [1]: https://bira.github.io/octopus-carnival/2019/11/21/devils.html

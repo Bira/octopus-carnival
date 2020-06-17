@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Continuing from the previous post, this time we'll be looking at Demogorgon's
 Exarchs.
 
@@ -21,8 +23,6 @@ Dorensain, the King of Ghouls. Demogorgon has two, described below.
 
 ## Kazuul
 
-### The Lore
-
 Kazuul used to be a human champion of Erathis a long time ago, and in her
 service he carved many a swath of order through savage lands. I guess that in
 the end something convinced him that this "carving a swath" business didn't make
@@ -33,7 +33,7 @@ The demon lord gave him a gift of size and strength, making him double in size
 and become deformed by his over-developed demonic musculature. Kazuul now fights
 in the name of Hethradiah, the "brutal but cunning" head, driving a horde of
 demons before him to raid places in the Abyss and elsewhere in the multiverse. I
-guess Kazuul is also the patron of those shrieking cultists we saw in the last
+guess Kazuul is a big inspiration to those shrieking cultists we saw in the last
 post.
 
 Being a former human, Kazuul fights with weapons. Being a former _adventurer_,
@@ -92,7 +92,14 @@ scary: stun (save ends) is a pretty serious condition.
 
 ## Thrarak
 
-### The Lore
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demogorgon-thrarak.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Thrarak's origins are closely tied to the mythological origns for [ettins][2]
 that I wrote about during the first Monster Manual/Vault Let's Read. It starts
