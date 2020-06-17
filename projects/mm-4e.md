@@ -156,6 +156,8 @@ After this, we get right on the monsters:
   - [Griffon][110]
   - [Grimlock][111]
   - [Guardian][112]
+
+- H
   - [Hag][113]
   - [Halfling][114]
   - [Harpy][115]
@@ -167,8 +169,11 @@ After this, we get right on the monsters:
   - [Human][121]
   - [Hydra][122]
   - [Hyena][123]
+
+- K
   - [Kobold][124]
   - [Kruthik][125]
+  - [Kuo-toa][126]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -295,3 +300,4 @@ After this, we get right on the monsters:
 [123]: {{ "/2020/06/09/hyena.html" | relative_url }}
 [124]: {{ "/2020/06/13/kobold.html" | relative_url }}
 [125]: {{ "/2020/06/16/kruthik.html" | relative_url }}
+[126]: {{ "/2020/06/17/kuo-toa.html" | relative_url }}
