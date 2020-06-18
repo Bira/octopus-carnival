@@ -175,6 +175,9 @@ After this, we get right on the monsters:
   - [Kruthik][125]
   - [Kuo-toa][126]
 
+- L
+  - [Lamia][127]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -301,3 +304,4 @@ After this, we get right on the monsters:
 [124]: {{ "/2020/06/13/kobold.html" | relative_url }}
 [125]: {{ "/2020/06/16/kruthik.html" | relative_url }}
 [126]: {{ "/2020/06/17/kuo-toa.html" | relative_url }}
+[127]: {{ "/2020/06/18/lamia.html" | relative_url }}
