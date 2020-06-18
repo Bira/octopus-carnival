@@ -6,12 +6,23 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 This is the third and final post covering the huge Demogorgon entry in the
 Monster Manual 2. As you might have guessed from what was said back in part 1,
 it covers not one but _two_ multiversal big shots: the titular Demogorgon and
 his buddy Dagon.
 
 ## Demogorgon
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-demogorgon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Demogorgon has existed in D&D since at least the days of AD&D 1st Edition. As I
 might have mentioned his _name_ got really popular due to the Stranger Things TV
@@ -54,7 +65,7 @@ something that advances his goals.
 
 This split nature is reflected all the way down his cult hierarchies. The layout
 of his temples is split down the middle with each half dedicated to one of the
-heads. The most powerful cults are lead by pairs of twins, each dedicated to a
+heads. The most powerful cults are led by pairs of twins, each dedicated to a
 head. And as we already say even individual cultists have a "dual nature" thing
 going on, starting fights as cold and calculating combatants and devolving into
 frothing berserkers when they're wounded.
@@ -63,7 +74,7 @@ The most powerful among his cultists might know the ritual to summon an Aspect
 of Demogorgon, a living echo of his power. Like the Aspects of Orcus, they share
 the personality and a fraction of the power of their originator, but their
 existence is independent. An aspect doesn't know what the original is thinking,
-and vice-versa.
+and vice-versa. They're a bit like avatars from previous editions.
 
 ### The Numbers
 
@@ -76,9 +87,9 @@ He has trained Perception and Darkvision, Variable Resistance 30 switchable
 3x/encounter, ground and swim speeds of 8, and a teleport speed of 10. Remember,
 a teleport speed means he can teleport at will.
 
-He also has the two traits previously see on ettins. **Double Actions** means he
-rolls initiative twice at the start of combat, once for each head, and takes two
-full turns each round. His immediate actions refresh before each action. You
+He also has the two traits previously seen on ettins. **Double Actions** means
+he rolls initiative twice at the start of combat, once for each head, and takes
+two full turns each round. His immediate actions refresh before each action. You
 have to specify which turn belongs to which head, though - that head can't use
 the other's special power. **Dual Brain** allows him to automatically save
 against the Dazed and Stunned conditions and against any charm effects at the
@@ -112,7 +123,7 @@ target to use an _at-will attack power_ against a target of Demogorgon's choice.
 
 Running away from all this is also quite hard: **Inescapable Grasp** is a Ranged
 _50_ power that targets will and teleports the target to a square within
-tentacle range of Demogorgon.
+tentacle reach of Demogorgon.
 
 We also get a stat block for the Aspect of Demogorgon, which is very similar but
 smaller in all ways. It's "only" Huge, and a Level 25 Elite Controller with 476
@@ -128,9 +139,9 @@ the same creature. He's been in the game since the days of AD&D.
 ### The Lore
 
 The first primordials who entered the Abyss shortly after it had formed found
-Dagon already lurking in its depths. He is the first and oldest Demon Lord. His
-presence poses a disturbing question: did Tharizdun create the Abyss, or merely
-open a passage to it?
+Dagon already lurking in its depths. He is the first and most ancient Demon
+Lord. His presence poses a disturbing question: did Tharizdun create the Abyss,
+or merely open a passage to it?
 
 (I think this gets answered in the Demonomicon, but it's still cool even if left
 as a question).
@@ -140,7 +151,7 @@ of blasphemous knowledge and terrible cosmic secrets. He allied himself with
 Demogorgon shortly after the latter became a demon lord, and the two have
 cooperated ever since. Their cults often work together, and though Dagon's
 cultists are a minority in these joint efforts, access to their master's
-knowledge makes them very effective at directing the whole force.
+knowledge makes them very effective leaders.
 
 Dagon shares some of his knowledge with Demogorgon to further both of their
 goals, but ever since the the "split" he has taken to whispering different bits
@@ -203,3 +214,5 @@ at his briny door. He might however, try to exact revenge on them later, so he
 could end up being the "final final" boss in a Dagon-focused campaign. Or
 perhaps he does things on a long enough timescale that he ends up being the boss
 of the _next_ campaign.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
