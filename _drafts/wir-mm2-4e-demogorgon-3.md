@@ -133,6 +133,15 @@ other attacks, including the Double Actions and Dual Brain traits.
 
 ## Dagon
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-demogorgon-dagon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Dagon is inspired by the Lovecraftian entity of the same name, but is not quite
 the same creature. He's been in the game since the days of AD&D.
 
