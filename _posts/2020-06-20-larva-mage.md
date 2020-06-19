@@ -6,6 +6,14 @@ tags:
     - lets-read
     - dnd
 ---
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-larva-mage.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 This is part of a series! Go [here][1] to see the other entries.
 
