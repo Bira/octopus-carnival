@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 You thought getting out of the Abyss was going to be easy? Right after finishing
 all nine pages of Demogorgon's entry, it's time to proceed to eleven more pages
 of assorted demons. Each individual demon entry comes with a bit of lore and a
@@ -34,6 +36,15 @@ These creatures made it to the Monster Vault, and I covered them [here][2]. My
 impression of them hasn't changed.
 
 ## Abyssal Rotfiend
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mmw-4e-demon-abyssal-rotfiend.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 An abyssal rotfiend is what you get when you take the undead spirit of an evil
 creature and stuff it inside a meat puppet made of stitched-together bits of
@@ -79,6 +90,15 @@ tag them with the Leader keyword and make the Floating Despair zone make victims
 grant combat advantage to any enemy, not just that single rotfiend.
 
 ## Bebilith
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-bebilith.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Look, let's face the truth here: Lolth is a demon lord. She's Chaotic Evil,
 lives in the Abyss, and has lineages of demons aspected to her. It's likely the
@@ -133,8 +153,16 @@ Hordes of the Underdark (the epic-level campaign in Neverwinter Nights). Though
 they're mostly "even giant-er" spiders, I like the mechanical "feel" on this
 version. It has plenty of options.
 
-
 ## Bloodseep Demon
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-bloodseep.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These things are covered in thin, translucid skin that constantly cracks and
 weeps poisonous blood. They coat their claws in this foulness and spray it at
