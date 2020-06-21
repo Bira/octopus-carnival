@@ -177,6 +177,7 @@ After this, we get right on the monsters:
 
 - L
   - [Lamia][127]
+  - [Larva Mage][128]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -305,3 +306,4 @@ After this, we get right on the monsters:
 [125]: {{ "/2020/06/16/kruthik.html" | relative_url }}
 [126]: {{ "/2020/06/17/kuo-toa.html" | relative_url }}
 [127]: {{ "/2020/06/18/lamia.html" | relative_url }}
+[128]: {{ "/2020/06/21/larva-mage.html" | relative_url }}
