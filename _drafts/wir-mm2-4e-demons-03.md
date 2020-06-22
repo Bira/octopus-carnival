@@ -62,7 +62,7 @@ also fun to imagine these creatures as condescending gym bros.
 ## Pod Demons
 
 Particularly disgusting examples of demonkind, these slimy creatures can spawn
-miniatures of itself from their blistered bodies, using them to corner and
+miniatures of themselves from their blistered bodies, using them to corner and
 terrorize their victims.
 
 The spawn have no mind of their own, being extensions of the demon's main
@@ -79,16 +79,16 @@ Pod Demons are Large Elemental Humanoids (demons), and Level 15 Elite Artillery
 with 176 HP. They have darkvision and Variable Resistance 15
 (2/encounter). Their ground speed is 8.
 
-They fight by using their half-formed spawn as ammo. They can either throw it so
-it explodes on impact using **Fling Podspawn** (area burst 1 within 10
+They fight by using their half-formed spawn as ammo. They can either throw a
+spawn so it explodes on impact using **Fling Podspawn** (area burst 1 within 10
 vs. Reflex), or squeeze it to spray nearby enemies with **Spew Podspawn** (close
 blast 3 vs. Reflex). In either case, targets take acid damage on a hit.
 
-Folly formed podspawn constantly pop free of the parent body: one appears within
+Fully formed podspawn constantly pop free of the parent body: one appears within
 2 squares of the original at the start of its turn as long as there are fewer
 than 4 podspawn in play. The parent can also force them out with **Generate
-Podspawn**  (close burst 2 vs. Reflex), which does poison damage and fills
-unoccupied squares with podspawn if there are less than 4 in play.
+Podspawn** (close burst 2 vs. Reflex), which does poison damage and fills
+unoccupied squares with enough podspawn to reach the limit of 4.
 
 As a move action the pod demon can **Transfer Essence**, effectively swapping
 positions with a podspawn within 10 squares. As a minor action it can use
@@ -103,7 +103,7 @@ able to have its own set of four minions.
 
 The podspawn themselves also have a little stat block. They're Level 15 Minion
 Skirmishers whose resistances always match the parent's, and who attack with a
-**corriding slime** that's slightly stronger than the parent's claw. Their
+**corroding slime** that's slightly stronger than the parent's claw. Their
 **dangerous proximity** trait gives them combat advantage against any adjacent
 enemy, no flanking required.
 
@@ -181,7 +181,9 @@ within 5 squares. This infestation heals 5 HP and gives it a +2 damage
 bonus. Multiple infestations stack, up to a maximum of +10 damage. For this to
 work the infested demon must be level 10 or less.
 
-The sample encounter has 1 Black Pudding, 1 Evistro, and 6 rupture demons.
+The sample encounter has 1 Black Pudding, 1 Evistro, and 6 rupture demons. An
+interesting contrast, because the pudding is going to split into smaller enemies
+and the rupture demons will join with the Evistro as the fight goes on.
 
 ### Impressions
 

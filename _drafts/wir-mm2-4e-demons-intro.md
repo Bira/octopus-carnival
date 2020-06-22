@@ -102,7 +102,8 @@ grant combat advantage to any enemy, not just that single rotfiend.
 
 Look, let's face the truth here: Lolth is a demon lord. She's Chaotic Evil,
 lives in the Abyss, and has lineages of demons aspected to her. It's likely the
-only reason she's classified as a "Goddess" is due to Drow propaganda.
+only reason she's classified as a "Goddess" is that she was one before in the
+same way Graz'zt was a devil. And maybe due to Drow publicity campaigns.
 
 Bebiliths are one of those Lolth-aspected demon lineages. They're huge
 spiderlike monsters, whose forms diverge from a spider's only in ways that make

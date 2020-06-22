@@ -21,11 +21,10 @@ the top. They can also take the shape of beautiful drow women.
 Yochlols might be assigned by their mistress to assist mortal priests that have
 also earned her favor, but they mainly works as spies. They're so good at
 passing for mortal drow that they can remain undetected for years at a time and
-attain positions of great power in their society. Yes, Lolth sends them to
-infiltrate _drow_ society, not those whom the drow target. It's fair to say she
-has trust issues.
+attain positions of great power in their society. I'll write more about the
+implications of this in the Impressions section.
 
-The existence of yochlol is one more point in favor of my pet theory that Lolth
+The existence of yochlols is one more point in favor of my pet theory that Lolth
 is actually a demon lord.
 
 ## The Numbers
@@ -38,11 +37,11 @@ keywords. They're Level 17 Controllers with 158 HP. Despite being demons, they
 lack Variable Resistance and have Resist 10 Poison instead. They have
 darkvision, a ground speed of 6, and a climb speed of 8 with Spider Climb.
 
-Yochlols have two sets of attack powers, one for when they're in demon (AKA
-"pillar of snot") form, the other for when they're in drow form. They can
-**switch forms** with a minor action, but I guess an infiltrated yochlol will
-stick to drow form to avoid blowing its cover. Once that happens, though, it
-will change shape as often as it needs to assemble the best power combos.
+Yochlols have two sets of attack powers, one for when they're in demon form, the
+other for when they're in drow form. They can **switch forms** with a minor
+action, but I guess an infiltrated yochlol will stick to drow form to avoid
+blowing its cover. Once that happens, though, it will change shape as often as
+it needs to assemble the best combos it can.
 
 In demon form, the Tempter fights with its Reach 2 **Tentacles**. A basic
 tentacle attack is quite weak, but the demon can make four of them with its
@@ -86,10 +85,10 @@ into drow, so they can't be used to spy on the drow's enemies.
 The bits of lore here help make sense of all that. Lolth is also the goddess of
 lies, and treachery is among her commandments. How much do you think such a
 deity would trust their followers? No, Yochlols aren't made to spy on the
-enemies of the drow. They're made to spy _on the drow_. Being un-spider-like
-gives them some plausible deniability, and is perhaps a hint that they're the
-product of another side of Lolth's personality, one rarely known to her
-worshippers. Because despite all the talk about the drow being her favorite
-people, Lolth doesn't trust them.
+enemies of the drow. They're made to spy _on the drow_. Their un-spider-like
+nature gives Lolth some plausible deniability. It is, perhaps, a hint that these
+demons are the product of another side of Lolth's personality, one rarely known
+to her worshippers. Because despite all the dedication the drow people lavishes
+on her, Lolth doesn't trust them.
 
-That's kinda tragic, isn't it?
+That's kinda tragic, for both the Drow and for Lolth.

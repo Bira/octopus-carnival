@@ -35,17 +35,17 @@ down less-righteous paths.
 
 When a deva dies, be it from natural or violent causes, they disappear and
 immediately reincarnate at a random place in the world, clean slates once more,
-ready to begin life anew. Well, almost all of them do.
+ready to begin life anew.
 
-A deva who turns to evil will reincarnate as a rakshasa on their next life. Even
-evil deva revile this fate, though, so though they might "fall" out of excessive
-attachment to their present identity, they'll try to avoid death and the ensuing
-transformation.
+A deva who turns to evil will reincarnate as a rakshasa on their next
+life. Rakshasa have perfect recall when they reincarnate, so this might seem
+like a good deal to a deva who has grown too attached to its present
+identity. However, even they revile this fate, so they'll try to avoid death and
+the ensuing transformation.
 
-As we saw on the Rakshasa entry in the previous books, though, rakshasa have
-perfect recall when they reincarnate. This means every rakshasa remembers being
-a deva. I'd say that should a rakshasa redeem itself and become good (or at
-least non-evil) once more, it will return to being a deva in its next life.
+Given their perfect recall, it's possible every rakshasa remembers being a
+deva. I'd say that should a rakshasa redeem itself and become good (or at least
+non-evil) once more, it will return to being a deva in its next life.
 
 Deva fashion for all genders tends towards flowing robes, sometimes with
 revealing chest "windows". Their armor tends to be designed to go over those
@@ -130,8 +130,8 @@ The fallen star will likely open the fight with a **Soul Scourge** spell (area
 burst 2 within 15 vs. Will), a fireball-sized blast that deals immediate radiant
 damage and ongoing 15 necrotic damage (save ends). This recharges when it's
 first bloodied. Until then it will use a **Forgetting Ray** (ranged 20
-vs. Reflex) which does psychic damage and restricts the target to only using
-only at-will attacks (save ends).
+vs. Reflex) which does psychic damage and restricts the target to using only
+at-will attacks (save ends).
 
 When hit by an attack, the fallen star can use **Fateful Transposition** (ranged
 10 vs. Will) as an interrupt, targeting an enemy. A hit allows it to switch
