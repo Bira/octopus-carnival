@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Continuing with the "Demon" entry of the Monster Manual 2, let's look at a few
 more abyssal greeblies.
 
@@ -219,4 +221,5 @@ isolating a victim and bringing it to its allies.
 
 There's at least one more post's worth of demons to cover.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2019/11/07/babau.html" | relative_url}}
