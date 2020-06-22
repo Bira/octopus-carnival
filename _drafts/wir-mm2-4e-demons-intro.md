@@ -39,7 +39,7 @@ impression of them hasn't changed.
 
 {::nomarkdown}
 <figure class="right">
-  <img src="{{ "/assets/wir-mmw-4e-demon-abyssal-rotfiend.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm2-4e-demon-abyssal-rotfiend.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2008 Wizards of the Coast
   </figcaption>

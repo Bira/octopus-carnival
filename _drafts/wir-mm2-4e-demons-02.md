@@ -11,6 +11,15 @@ more abyssal greeblies.
 
 ## Gnaw Demon
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-gnaw.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 These round boys live to eat. Their hunger is insatiable and they're always
 gnawing on and eating everything around them. That sentence is quite literal
 too: they can eat _anything_, so they eat _everything_, all the time. Being
@@ -52,6 +61,15 @@ The sample encounter is Level 6 and has three of these spherical terrors
 accompanying a pair of gnolls.
 
 ## Kazrith
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demon-kazrith.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Kazriths are barracuda-like aquatic demons that prowl the watery bodies of the
 abyss and might be summoned to do so elsewhere. Despite their preference for
@@ -102,6 +120,15 @@ Aboleths.
 
 ## Needle Demon
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demon-needle.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 These prickly assholes love seeing former friends and allies turn on each other
 with murderous intent, particularly when they were the ones who instigated
 it. They're much smarter than they look and often end up as advisors to more
@@ -137,6 +164,15 @@ use a recurring needle demon NPC as a source of lots of drama, having it appear
 somewhere in every villainous group the PCs oppose only to always run away.
 
 ## Neldrazu
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-neldrazu.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These demons are into kidnapping, for which they use their four hooked
 claws. During a battle they like to hide around the edges and jump out to snatch
