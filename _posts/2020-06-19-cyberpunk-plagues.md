@@ -17,14 +17,14 @@ which I'd say was written somewhere around late April or early May.
 
 ## The Post
 
-One of the outtakes from my last screed against Transhuman Space was a rebuttal
-to the bit where it says it's better and more realistic than cyberpunk because
-it doesn't have any apocalyptic disasters in its Very Serious history of the
-future.
+One of the outtakes from [my last screed against Transhuman Space][1] was a
+rebuttal to the bit where it says it's better and more realistic than cyberpunk
+because it doesn't have any apocalyptic disasters in its Very Serious history of
+the future.
 
-I had had whole paragraphs mapped ou in my mind about how yes, the insistence of
-90's cyberpunk RPGs in inserting these catastrophes was kinda silly. About how
-they probably had their roots in their authors believing in that "end of
+I had had whole paragraphs mapped out in my mind about how yes, the insistence
+of 90's cyberpunk RPGs in inserting these catastrophes was kinda silly. About
+how they probably had their roots in their authors believing in that "end of
 history" bullshit just as hard as the text of Transhuman Space itself did, and
 how they couldn't see the future being a shitty place if there wasn't a plague,
 a nuclear meltdown, or a big war somewhere in there to muck things up.
@@ -52,3 +52,4 @@ growing. THS has far too much faith in its Very Smart Neoliberals to suggest
 such a thing, and it sounds too bleak even for a 90's-style dystopia.
 
 [^1]: If you're a Fifth Wave eloi.
+[1]: {{ "/2019/11/16/on-transhuman-space.html" | relative_url }}
