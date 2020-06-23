@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-lizardfolk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Lizardfolk have been in D&D since its beginnings, when they were known by the
 less inclusive name of "lizard men". As members of the classic humanoid power
 ladder, they are present in both books.
@@ -31,15 +42,15 @@ of a culture that worships them more than the gods.
 Older editions described lizardfolk as murderous cannibals, but the Monster
 Manual lore seems to be considerably nicer. Lizardfolk tribes are territorial
 and insular, but usually not malicious. They even trade with those outsiders who
-manage to win their trust (most often halflings). Some tribes on the other hand
-_are_ malicious and practice both raiding and cannibalism. Those don't trade
-with anyone.
+manage to win their trust (most often halflings). Some communities on the other
+hand _are_ malicious and practice both raiding and cannibalism. Those don't
+trade with anyone.
 
-There are several different lizardfolk "ethnicities". The most common are
-known as "greenscales", of average build and intelligence. You also have the
-stronger and dumber "blackscales", and the MV also introduces us to the smaller
-and faster "poisonscales". All three can either form their own communities, or
-live together in a single village.
+There are several different lizardfolk "ethnicities". The most common are known
+as "greenscales", of average build. You also have the stronger and larger
+"blackscales", and the MV also introduces us to the smaller and faster
+"poisonscales". All three can either form their own communities, or live
+together in a single village.
 
 The Monster Vault lore has absolutely nothing nice to say about lizardfolk, by
 the way. This seems to be a trend in that book when it comes to humanoids. The
@@ -182,3 +193,6 @@ Mechanics-wise the MV stat blocks are almost always better, particularly the
 ones for mystics and bruisers. However, I'm 100% behind the MM's non-xenophobic
 lore. Neutral lizardfolk who might trade and talk with you are a much better
 addition to a setting than yet another Angry Humanoid.
+
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
