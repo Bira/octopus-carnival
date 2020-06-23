@@ -6,10 +6,21 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 We continue looking at the many monsters in the Demons entry of the Monster
 Manual 2.
 
 ## Nycademon
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demon-nycademon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 I'm pretty sure these winged, four-armed creatures used to be classified as
 Yugoloths in previous editions, where their name was written as
@@ -60,6 +71,15 @@ While mechanically simple, I kinda like the whole "snatch and drop" thing. It's
 also fun to imagine these creatures as condescending gym bros.
 
 ## Pod Demons
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-pod.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Particularly disgusting examples of demonkind, these slimy creatures can spawn
 miniatures of themselves from their blistered bodies, using them to corner and
@@ -124,6 +144,15 @@ attack at range.
 
 ### The Numbers
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demon-runespiral.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 We actually get two varieties here: common Runespiral Demons are Small Elemental
 Magical Beasts, and Level 5 Artillery with 51 HP. Arctide Runespiral Demons are
 Large, and Level 12 Artillery with 97 HP. They have Variable Resistances of 10
@@ -158,6 +187,15 @@ to distinguish them.
 
 ## Rupture Demon
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-demon-rupture.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 These demonic amoeboids are the least spawn of Juiblex, and they act as abyssal
 scavengers, following more powerful demons around and eating the remains of
 their kills. When they die their own remains can infest those more powerful
@@ -191,3 +229,7 @@ I like their concept! The level limitation is a bit strange. Presumably you
 could have higher level minions that could affect more powerful demons. In that
 case you should make sure they're still a few levels behind the "real"
 opposition, since you want them to die fast and provide that damage bonus.
+
+## End of Part 3
+
+There's one more to go, with the last remaining demon.
