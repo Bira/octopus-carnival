@@ -6,11 +6,30 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-werewolf.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Lycanthropes have always been a part of D&D, which apparently took inspiration
 from a mix of Holywood horror movies and a bit of traditional folklore. They are
 present in both the Monster Manual and the Vault.
 
 ## The Lore
+
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm-4e-wererat.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Lycanthropes are creatures who can change their shape to that of a humanoid, an
 animal, or a bipedal, animal-headed hybrid. There are different species, each

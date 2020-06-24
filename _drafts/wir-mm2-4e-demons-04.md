@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-demon-yochlol.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 This is the last post covering the "Demons" entry in the Monster Manual 2, and
 it features a lone demon: the Yochlol, who has been in the game since at least
 AD&D 1st Edition.
