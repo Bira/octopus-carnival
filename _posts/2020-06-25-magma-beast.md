@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-magma-beast.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Magma beasts are probably the conceptial descendants of the Magmen of AD&D 1st
 Edition, which later turned into Magmin during 3.x. There are likely a few other
 monsters that ended up in this entry as well. They appear only on the Monster
@@ -117,3 +128,5 @@ I'm not terribly enthusiastic about magma beasts. However, I think it's
 refreshing to see an entry about what is basically dangerous fantasy wildlife
 after so many instances of "kill this thing on sight" courtesy of the Monster
 Vault.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
