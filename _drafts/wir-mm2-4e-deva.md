@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-deva.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 The word "Deva" used to refer to Lawful Good angels in earlier editions, but now
 it means something different. Deva as presented here are new to Fourth Edition,
 and first appeared as a playable option in the Player's Handbook 2. They occupy
@@ -15,16 +26,16 @@ much cooler.
 ## The Lore
 
 In ancient times, a group of good angels decided they liked the world so much
-that they would become a part of it. So they clothed themselves in mortal flesh,
-and the resulting creatures became known as devas. They have lived countless
-lives since then, and still carry some memories of the deep past with them.
+that they would become a part of it. So they assumed mortal form, and the
+resulting creatures became known as devas. They have lived countless lives since
+then, and still carry some memories of the deep past with them.
 
 A deva begins life by materializing from thin air, fully grown and capable of
 both speech and motion on the level of any other adult sapient humanoid. More,
 actually, since they also appear with the skills necessary to defend themselves
-and others. Few newborns can claim that! Deva have vague memories of their past
-lives and retain their basic personality, but their present slate is otherwise
-clean.
+and others. Few newborns can claim that! Newly-incarnated Deva have vague
+memories of their past lives and retain their basic personality, but their slate
+is otherwise clean.
 
 It's no wonder then that a very high percentage of devas end up following
 adventuring careers, or otherwise dedicate themselves to fighting evil. They're
@@ -40,8 +51,8 @@ ready to begin life anew.
 A deva who turns to evil will reincarnate as a rakshasa on their next
 life. Rakshasa have perfect recall when they reincarnate, so this might seem
 like a good deal to a deva who has grown too attached to its present
-identity. However, even they revile this fate, so they'll try to avoid death and
-the ensuing transformation.
+identity. However, even they revile this fate, so they would rather avoid death
+altogether than to undergo the transformation.
 
 Given their perfect recall, it's possible every rakshasa remembers being a
 deva. I'd say that should a rakshasa redeem itself and become good (or at least
@@ -159,8 +170,8 @@ radiant damage after it becomes undead. If you don't, it keeps coming back.
 
 I'd say that if Vile Rebirth triggers and the falen star escapes, you can use it
 as a lich in subsequent encounters. And if it dies "for real", it's rakshasa
-time, though in that case it would take longer to return to the campaign and
-might just choose not make another appearance.
+time, though in that case it would take longer to return to the campaign if it
+makes an appearance at all.
 
 ## Sample Encounters
 
@@ -172,4 +183,8 @@ City of Brass.
 
 I really like Deva! Aasimar from previous editions just had a celestial
 somewhere in the family tree, Deva have a cool backstory on par with the one
-that was given to tieflings.
+that was given to tieflings. One thing I find particularly cool about the stat
+blocks from this entry is that they could represent the trajectory (and tragic
+fall) of a single individual over three lifetimes.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
