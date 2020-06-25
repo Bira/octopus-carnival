@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-manticore.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Manticores are based on Persian myth, and have been in D&D at least since the
 days of BECMI. Here they are present in both the Monster Manual and the Vault.
 
@@ -140,3 +151,5 @@ I like manticores, they're fun to run and fun to fight. The four MV stat blocks
 give us a bit more variety in tactics while staying true to the core MM
 concept. Perhaps you could take a pair of those and make them into Huge Elites
 so that those giants can finally make their dreams of flying come true.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
