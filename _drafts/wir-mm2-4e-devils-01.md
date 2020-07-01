@@ -6,7 +6,7 @@ tags:
     - lets-read
 ---
 
-This is part of a series! Go [here][1] to see the other entries.
+This is part of a series! Go [here][2] to see the other entries.
 
 This book includes a whole bunch of demons, and it was inevitable that it was
 also going to include a whole bunch of devils. Their base lore remains unchanged
@@ -193,3 +193,5 @@ It's not quite enough to make me like them as enemies, since I'm not really that
 fond of kytons either, but that's on me and not on this stat block.
 
 [1]: https://bira.github.io/octopus-carnival/2019/11/21/devils.html
+
+[2]: {{ "/projects/mm2-4e/" | relative_url }}
