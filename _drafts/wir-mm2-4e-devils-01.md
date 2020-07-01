@@ -1,34 +1,45 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual 2: Devils"
+title: "Let's Read the 4e Monster Manual 2: Devils, Part 01"
 tags:
     - dnd4
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 This book includes a whole bunch of demons, and it was inevitable that it was
 also going to include a whole bunch of devils. Their base lore remains unchanged
-from what it was in my [original introduction][1] in the Monster Manual let's
+from what it was in my [original introduction][1] in the Monster Manual Let's
 Read, so I recommend re-reading that article.
 
 This entry includes a whole bunch of devils that are new to 4th edition, though
 some of them also appeared in earlier editions. As I mention in the original
 intro, devils tend to be more "humanoid" in appearance and use weapons to
 fight. I'm also really fond of making jokes about devils being corporate
-employees and/or fascists, so get ready for a lot of those.
+employees and/or fascists, so get ready for those.
 
 Mechanically, all devils have the Immortal origin, and the Devil keyword. Nearly
 all of the ones we'll look at in this book are Humanoids, with one exception who
 is an Animate. All of the devils in the first MM had really high fire
 resistance, and some of the ones here do as well, but a surprising number of
-them lacks that entirely. They all still have darkvision, but their remaining
-traits vary a lot per stat block.
+them lacks resistances entirely. They all still have darkvision, but their
+remaining traits vary a lot per stat block.
 
 As usual, I'll cover enough individual monsters to hit the size limit I've set
 on each post, and will have as many parts as it takes to cover the entire
 "Devil" entry.
 
 ## Assassin Devil
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-devil-assassin.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 As every servant of Asmodeus knows, you can't make it in this economy without a
 little murder. Assassin devils are specialized service providers that cater to
@@ -72,6 +83,15 @@ diabolist, and 2 war devils.
 
 ## Erinyes
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-devil-erinyes.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Erinyes are inspired by the Furies of Greek myth, and have been in the game
 since at least 1st Edition. I think it was 3.x that tried to present them as
 devilish counterparts to succubi (who were demons in that edition), but 4e leans
@@ -93,9 +113,9 @@ infernal contracts and drag them to Hell.
 ### The Numbers
 
 Erinyes are Medium Level 13 Soldiers with the Leader keyword and 131 HP. They're
-clad in high-quality infernal plate (which is a lot more clothing than they wore
-in other editions), and wield a shield and a bastard sword. Their speed is 5,
-and they mostly fight using showy but lethal martial techniques.
+clad in high-quality infernal plate (which is a lot more than they wore in other
+editions), and wield a shield and a bastard sword. Their speed is 5, and they
+mostly fight using showy but lethal martial techniques.
 
 They're very good at holding the line due to the **Devastating Opportunist**
 trait, which gives them a +3 bonus to opportunity attacks and allows them to
@@ -121,11 +141,20 @@ but a devil" that I remember them being in 3e.
 
 ## Gorechain Devil
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-devil-gorechain.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Like a chain devil, but bigger. Where standard chain devils are jailers,
 gorechain devils are more like bounty hunters. They're named like this because
 their chains are often encrusted in gore.
 
-Their fighting style is a lot less fancy than that of their smaller
+Their fighting style is a lot less acrobatic than that of their smaller
 counterparts, but they turn out to have a lot more mental control over their
 chains. So much, in fact, that they can use those chains to manipulate ensnared
 victims and make them into puppets. They're also a lot smarter than they look.
@@ -161,6 +190,6 @@ sees one of these things might expect a big dumb brute, but they can fight smart
 and the Takeover power will come as a surprise.
 
 It's not quite enough to make me like them as enemies, since I'm not really that
-fond of khytons either, that's on me and not on this stat block.
+fond of kytons either, but that's on me and not on this stat block.
 
 [1]: https://bira.github.io/octopus-carnival/2019/11/21/devils.html
