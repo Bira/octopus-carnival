@@ -6,27 +6,38 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Continuing our slog through the Devils entry, let's look at the next batch.
 
 ## Infernal Armor Animus
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-devil-animus.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 We've talked a lot about devils always trying to acquire souls by hook or by
 crook, but what do they use them _for_? Here we have a concrete example of one
-of the many products in Hell's catalogue.
+of the many products in Hell's catalogs.
 
 These monsters are made by binding the soul of a mortal within a suit of
 infernal armor, which is animated by the process. The animated armor has its own
 mind - the soul is just the power source. The animus understands Common and
 Supernal, and at Int 8 it's smart enough to understand the orders of its
 infernal masters. When it's destroyed in combat, it releases the trapped soul,
-which will usually be consumed by a nearby devil.
+which will usually be consumed by a nearby devil for a quick performance boost.
 
 ### The Numbers
 
 Animi are Medium Elemental Animates with the Devil and Undead keywords - the
 only non-humanoid devils in the MM2. They're also Level 3 Minion Soldiers, which
-means they appear in the "bargain bin" section of the catalogue and will be
-found fairly early in a zero-to-hero campaign with devils as the main
+means they appear in the "bargain bin" section of the catalog and will be found
+fairly early in a zero-to-hero campaign with devils as the main
 antagonists. They have darkvision, Resist Fire 5, and a ground speed of 6.
 
 These things project a **Bloodlust** aura (2) that gives nonminion devils within
@@ -42,12 +53,21 @@ heals the nearest non-minion devil within 15 squares for 15 HP.
 The sample encounter is Level 5: 8 animi, 2 spined devils, 1 tiefling heretic.
 
 Look at that healing value for Essence Transference! This tells me infernal
-animi aren't used as muscle - that's the job of legion devils. Instead they're
-ambulatory _snacks_ just waiting for the PCs to unwrap them and feed them to
-their master. They might be able to get a hit or two in before that happens, but
-that's just a bonus. Kill them before damaging their masters.
+animi aren't used as dumb muscle - that's the job of legion devils. Instead
+they're ambulatory _snacks_ just waiting for the PCs to unwrap them and feed
+them to their master. They might be able to get a hit or two in before that
+happens, but that's just a bonus. Kill them before damaging their masters.
 
 ## Misfortune Devil
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-devil-misfortune.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Valued members of the acquisitions department, misfortune devils collect souls
 by tempting mortals into taking ever-larger risks, which ultimately culminate in
@@ -94,11 +114,20 @@ along.
 These creatures are surprisingly fun, and might cause some intra-party friction
 among the PCs. With the interrupt ability it's clear that it's the misfortune
 devil causing a friendly fire incident, but the Ray of Distortion requires a
-conscious decision by the hit PC to work its special magic. Do you want to
+conscious decision by the first target to work its special magic. Do you want to
 betray your beefy friend in order to avoid pain? C'mon, do it! What's the worst
 thing that could happen?
 
 ## Shocktroop Devil
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-devil-shocktroop.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 For when a phalanx of bearded devils just isn't shock-troop enough for the
 job. These Large winged devils perform a function a lot like that of mortal
@@ -114,8 +143,8 @@ retreat, and will be back to fight once they've recovered.
 
 These are Level 16 Soldiers with 155 HP. They have darkvision, a ground speed of
 6, and a fly speed of 8. They lack any elemental resistances, which I think must
-be an error of some sort. I'd expect them to have 15 fire resistance. They wear
-plate and wield a sword and shield.
+be an error of some sort. I'd expect them to have 15 or 20 fire resistance. They
+wear plate and wield a sword and shield.
 
 In any case, they're protected by **Asmodeus's Shield**, a passive trait that
 gives them +2 to all defenses against divine powers while they're unbloodied,
@@ -151,7 +180,19 @@ of 4e players to focus-fire on a single monster at a time will work against them
 here, because it might keep the shocktroops they ignore at full HP for longer,
 allowing them to attack lots and lots and lots of times.
 
+For extra Fun(TM), add a unit of leveled-up Infernal Armor Animi to your
+shock-troop devil vanguard.
+
 ## Withering Devil
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-devil-withering.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Like Misfortune Devils, Withering Devils are soul collectors and members of the
 acquisitions department. However, they use a different strategy: their powers
@@ -163,7 +204,7 @@ effective, but these fiends are much more dangerous on a narrative scale. They
 can cause entire societies to succumb to plague, famine, and strife by
 targetting the people whose job was to prevent this and turning them into
 lazy shadows of their former selves. "Just open the economy up already, fighting
-this plague is too tiresome".
+this plague is too hard, I'm sure everything will work out".
 
 Though their natural appearance is horrible, they are adept at disguising
 themselves as mortals, either with magic or with heavy cloaks in dark rooms.
@@ -184,8 +225,7 @@ minor action they can use a **Gaze of Apathy** (ranged 10 vs. Will; recharge
 ### Sample Encounters and Impressions
 
 Wow, I bet these things are really annoying to fight if positioned just behind a
-line of beefy front-liners so that their weakness aura affects the PCs and they
-can use their ranged attacks from relative safety.
+line of beefy front-liners so that their weakness aura affects the PCs.
 
 The sample encounters do just that, either using bearded and legion devils as
 the front-line, or attaching the devil to a mixed-party of yuan-ti.
@@ -193,3 +233,5 @@ the front-line, or attaching the devil to a mixed-party of yuan-ti.
 ## Conclusion
 
 That's it for the devils in this book, but we're not out of the D's yet.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
