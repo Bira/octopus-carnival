@@ -176,7 +176,7 @@ thing that ends the Fifth Sun.
 
 ### Chinese Mythos
 
-**Lu Yueh** the god of pestilense is CE, has 20 cleric levels and 19
+**Lu Yueh** the god of pestilence is CE, has 20 cleric levels and 19
 MU/Illusionist levels. I'm sure he could compensate for the two missing arcane
 caster levels by being the _god of pestilence_, and he could create the Dreams
 if he recruited a high-level druid. No likely druid presents himself in the
