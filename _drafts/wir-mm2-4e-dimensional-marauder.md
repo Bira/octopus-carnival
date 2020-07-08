@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-dimensional-marauder.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Dimensional marauders are a 3.x creation. I definitely remember that image,
 though I don't remember if they had a different name back then. It was probably
 something like "Ethereal Marauder", but 4e doesn't have an ethereal plane
@@ -29,7 +38,7 @@ Evolutionary pressure has given then a rudimentary sapience, which aids them in
 evaluating the strength of potential prey. It also often leads marauders to the
 conclusion that the easiest prey can be found in the world, near population
 centers filled with juicy non-combatants whom they might even be able to beat in
-a fair fight. Not that they'll fight fair even then.
+a fair fight. Not that they'll fight fair.
 
 ## The Numbers
 
