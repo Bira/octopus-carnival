@@ -6,15 +6,6 @@ tags:
     - lets-read
 ---
 
-{::nomarkdown}
-<figure class="right">
-  <img src="{{ "/assets/wir-mm-4e-djinn.png" | absolute_url }}"/>
-  <figcaption>
-    Copyright 2008 Wizards of the Coast
-  </figcaption>
-</figure>
-{:/nomarkdown}
-
 This is part of a series! Go [here][1] to see the other entries.
 
 Djinns are inspired by the same real world Arabic folklore that inspired
@@ -37,8 +28,8 @@ suppose they saw as the pragmatic choice. After all, their own empire was
 outside the world, and the stronger primordials looked like they had a better
 chance of winning. In the end, though, they chose wrong.
 
-As punishment for their deeds in the war, the djinns were scattered, and many of
-them were imprisoned in objects such as rings, lamps, or other artifacts. The
+The gods scattered the djinns as punishment for their deeds in the war, and
+imprisoned many of them in objects such as rings, lamps, or other artifacts. The
 ones that remained free had their powers severely reduced. Over the ages a lot
 of those artifacts and a lot of djinn relics made their way to other planes and
 to the world.
@@ -75,15 +66,24 @@ Most djinn powers have an air or storm theme, but they vary per stat block.
 
 ### Djinn Thunderer
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-djinn-thunderer.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Thunderers are Level 20 Artillery with 146 HP and all djinn traits. They wield
 jeweled scepters and strong air magic in combat.
 
 The **Scepter** mostly acts as an implement, but can be used as a Reach 2 basic
 melee attack in a pinch. Their main ranged attack is a **Thunderburst** (area
 burst 2 within 20 vs. Fortitude), which does thunder damage and dazes for a
-turn. Once per encounter they can use **Imperious Thunder** targets Reflex and
-which has the same area and damage but instead of dazing causes 10 ongoing
-thunder damage (save ends) _even when it misses_.
+turn. Once per encounter they can use **Imperious Thunder**, which targets
+Reflex and which has the same area and damage but instead of dazing causes 10
+ongoing thunder damage (save ends) _even when it misses_.
 
 The thunderer can avoid getting boxed in with **Zephyr Step** (minor; recharge
 6), which allows it to teleport 20 squares. If it takes damage from a critical
@@ -93,6 +93,15 @@ and gives the djinn 1 action point as an effect, which it can use normally later
 on.
 
 ### Djinn Windbow
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-djinn-windbow.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Windbows are Level 22 Skirmishers with 204 HP and all standard djinn
 traits. They wield bows that fire arrows made out of wind, and this might lead
@@ -113,6 +122,15 @@ the Thunderer's Rage of Storms.
 
 ### Djinn Stormsword
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-djinn-stormsword.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Stormswords fight with scimitars and train to form whirlwinds that pull enemies
 towards their blades. They're Level 24 Soldiers with 222 HP and all standard
 djinn traits, plus Resist 15 Lightning.
@@ -130,6 +148,15 @@ vs. Reflex; recharge 6), which does heavy cold and thunder damage, and
 immobilizes (save ends).
 
 ### Djinn Skylord
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-djinn-skylord.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Skylords are djinn spell-casters, specializing in sky- and weather-themed
 magic. They're Level 25 Controllers with the Leader keyword and 236 HP along
