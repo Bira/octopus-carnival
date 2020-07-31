@@ -184,6 +184,10 @@ After this, we get right on the monsters:
   - [Magma Beast][130]
   - [Manticore][131]
   - [Marut][132]
+  - [Medusa][133]
+  - [Mind Flayer][134]
+  - [Minotaur][135]
+  - [Mummy][136]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -317,3 +321,7 @@ After this, we get right on the monsters:
 [130]: {{ "/2020/06/25/magma-beast.html" | relative_url }}
 [131]: {{ "/2020/06/26/manticore.html" | relative_url }}
 [132]: {{ "/2020/07/03/marut.html" | relative_url }}
+[133]: {{ "/2020/07/08/medusa.html" | relative_url }}
+[134]: {{ "/2020/07/13/mind-flayers.html" | relative_url }}
+[135]: {{ "/2020/07/23/minotaur.html" | relative_url }}
+[136]: {{ "2020/07/31/mummy.html" | relative_url }}
