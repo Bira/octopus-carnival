@@ -12,9 +12,9 @@ one talks about the metallics.
 
 The earliest metallic dragons were the Golds, who appeared alongside the
 chromatic set in BECMI and might have been around even earlier than that. AD&D
-1st Edition had the whole metallic set in its Monster Manual. Here, we're going
-to look at a slightly different set. This is an introductory post, and there
-will be four more, each covering a different "color" of dragon.
+1st Edition had a whole set in its Monster Manual. Here, we're going to look at
+a slightly different set. This is an introductory post, with the next handful of
+them each covering a different "color" of dragon.
 
 ## The Lore
 
@@ -23,11 +23,11 @@ which settings like Dragonlance really leaned into. Things are a bit more
 complex here.
 
 Metallics still venerate Bahamut in his role as the Platinum Dragon. They're
-more likely to interact peacefully with PCs, but they can still be quite full of
-themselves and are very protective of their territory and treasure. If they
-perceive someone as a threat, they won't hesitate to crush that someone. And
-just like you can have friendly chromatics, you can also have villainous
-metallics.
+more likely to interact peacefully with PCs and other sapients, but they can
+still be quite full of themselves and are very protective of their territory and
+treasure. If they perceive someone as a threat, they won't hesitate to crush
+that someone. And just like you can have friendly chromatics, you can also have
+villainous metallics.
 
 In either case they tend to have a scholarly temperament. They prefer lairs that
 have some cultural or academic significance in addition to the usual
@@ -41,12 +41,12 @@ allow a group of "lessers" to gather around themselves. They tend to see these
 as students and wards, instead of slaves and worshippers. A metallic dragon is
 not going to set itself up as a god, but as a _university professor_.
 
-This entry has four dragon times: Adamantine, Copper, Gold, and Iron. From what
-I gather, Adamantine and Iron dragons made it into the main metallic lineup in
-4e to replace bronze and brass dragons, which weren't distinct enough from
-Copper dragons. I think I agree with that reasoning. While I'm sure these
-dragons have their own mechanical distinctions, I sure can't recall what they
-were just from looking at their names.
+This entry has five dragon types: Adamantine, Copper, Gold, Iron and
+Silver. From what I gather, Adamantine and Iron dragons made it into the main
+metallic lineup in 4e to replace bronze and brass dragons, which weren't
+distinct enough from Copper dragons at a glance. I think I agree with that
+reasoning. While I'm sure these dragons have their own mechanical distinctions,
+I sure can't recall what they were just from looking at their names.
 
 ## The Numbers
 

@@ -55,7 +55,7 @@ above:
   _gameplay_ would need a fight between a non-superhuman shirtless dude with an
   improvised shotgun and someone wearing the best powered armor German
   engineering can build to be an even match. GURPS can't easily handle that
-  level of gameplay and setting segregation.
+  level of ludonarrative dissonance.
 
 - Everything in the entirely non-violent and pastoral _Flying Witch_ happens at
   a scale where you could sit down and figure everyone's DX scores and
