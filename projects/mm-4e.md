@@ -189,6 +189,9 @@ After this, we get right on the monsters:
   - [Minotaur][135]
   - [Mummy][136]
 
+- N
+  - [Naga][137]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -325,3 +328,4 @@ After this, we get right on the monsters:
 [134]: {{ "/2020/07/13/mind-flayers.html" | relative_url }}
 [135]: {{ "/2020/07/23/minotaur.html" | relative_url }}
 [136]: {{ "2020/07/31/mummy.html" | relative_url }}
+[137]: {{ "/2020/08/05/naga.html" | relative_url }}

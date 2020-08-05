@@ -6,8 +6,8 @@ tags:
     - lets-read
 ---
 
-Gold dragons are the original metallics and have been around since the days of
-BECMI.
+Gold dragons are the original metallics and have been around since the beginning
+of D&D.
 
 ## The Lore
 
