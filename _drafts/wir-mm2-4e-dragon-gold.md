@@ -12,9 +12,9 @@ of D&D.
 ## The Lore
 
 Gold dragons are among the most powerful children of Io, with the oldest of them
-being among the most dangerous creatures in existence. And yet they're also
-among the dragons who most enjoy the company of mortals. I guess a lot of the
-"scholarly metallic dragon" stereotype comes from them.
+being among the most dangerous creatures in existence. And yet they're among the
+dragons who most enjoy the company of mortals. I guess a lot of the "scholarly
+metallic dragon" stereotype comes from them.
 
 Their preferred terrain are plains or rolling hills, but that's a secondary
 concern. Proximity to a sapient society, or to some great source of magic, are
