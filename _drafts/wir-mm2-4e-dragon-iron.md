@@ -31,8 +31,10 @@ older they get.
 
 ## The Numbers
 
-As you might have guessed, iron dragons are Solo Lurkers, and have Darkvision
-like all other dragons.
+Iron dragons are Solo Lurkers, and have Darkvision like all other
+dragons. They're not actually very lurkery aside from a basic level of
+sneakiness (Stealth training). Their abilities focus on damage mitigation with a
+side order of control, all on top of the standard dragon loadout.
 
 Young'uns start out Large, growing to Huge at Elder and Gargantuan at
 Ancient. They have Resist Lightning 15, increasing by 5 per age category beyond
