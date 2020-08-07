@@ -23,7 +23,8 @@ Whenever I write about my feelings on the matter in the RPG.net forum, a couple
 of very nice freelance Shadowrun authors always point me towards _Better than
 Bad_, a 2018 supplement for Fifth Edition, telling me it's an attempt at
 reversing this trend. When it came up as part of a Bundle of Holding alongside a
-couple other setting books, I decided to check it out.
+couple other setting books, I decided to check it out. This is a review of
+_Better Than Bad_. Reviews of the other books might come later.
 
 The goal of _Better Than Bad_ is to provide support for "hooding"
 campaigns. Hooding is a bit of Shadowrun slang that's been around for a while,
@@ -32,9 +33,9 @@ give to the poor" Robin Hood style. This book broadens the definition to any
 mission where the PC's main goal is more altruistic than financial.
 
 Does the book succeed at its stated goal? Well, it tries to, while fighting
-itself every step of the way. It fights itself with such tenacity that makes me
-wonder if there wasn't a corresponding real-world struggle between its writers
-and editors.
+itself every step of the way. It fights itself with such tenacity that I wonder
+if there was a corresponding real-world struggle between its writers and
+editors.
 
 The supplement starts with a real downer of an introduction: "Are your do-gooder
 runners going to change the world? Probably not - too much money and power are
@@ -47,11 +48,11 @@ terms, but still comes off as disappointing when presented as the absolute limit
 of what a group of PCs can accomplish.
 
 I mean, yeah, if you want to be realistic about it, there's only so much a group
-of 4-5 people can do to enact large-scale change, even if they're badass action
-heroes. But if you're going to be realistic about it you have to go all the way
-and state that the best way to enact this change is through _collective action_
-and give support for that. Lancer does it. Sigmata does it. Does Better Than Bad
-do it? Eh, not really.
+of 4-5 people can do to enact large-scale change in an unjust society, even if
+they're badass action heroes. But if you're going to be realistic about it you
+have to go all the way and state that the best way to enact this change is
+through _collective action_ and give some support for that. Lancer does
+it. Sigmata does it. Does Better Than Bad do it? Eh, not really.
 
 This introduction and a couple of short sections at the end are the only parts
 of _Better than Bad_ that are written in an out-of-character, authorial
@@ -70,7 +71,7 @@ The major sections of the book are:
 - "Fixer-Upper Opportunities": A list of specific examples of such jobs meant to
   act as plot hooks.
 
-- "Pretoria, Hurrah": A big chunk of pages presenting the Pretoria metroplex
+- "Pretoria, Hurrah": A big chunk of pages presenting the Pretoria metroplex in
   Azania (former South Africa) as a setting. Despite the name it also includes
   Johannesburg and lots of other cities.
 
@@ -80,7 +81,7 @@ The major sections of the book are:
 - "Being Less Bad": A chapter on more general hooding advice, and on what makes
   a hooder different from a "standard" shadowrunner.
 
-- "Building a Hooder"/"Hooder Runs": The afore-mentioned short section of
+- "Building a Hooder"/"Hooder Runs": The afore-mentioned short sections of
   mechanical bits and bobs, including a Random Hooding Run Generator.
 
 These sections are separated by short fiction pieces.
@@ -154,9 +155,10 @@ Plus the decision to present the Pretoria NPC list in-character means Jackpoint
 ends up doxxing the mysterious Zorro expy who's supposed to be one of the city's
 greatest forces for good. Way to go, chummers.
 
-If it were up to me, the advice sections would have been rewritten as
-out-of-character, authorial-voice pieces with the extra space dedicated to a
-White Wolf-style discussion of themes and motifs for a hooding campaign.
+If it were up to me, the advice sections and the NPC list would have been
+rewritten as out-of-character, authorial-voice pieces with the extra space
+dedicated to a White Wolf-style discussion of themes and motifs for a hooding
+campaign.
 
 ## Content Issues
 
@@ -174,17 +176,25 @@ section also includes a full condemnation... but it _really_ muddles the message
 to lump them in with the potential employers.
 
 The Pretoria chapter is quite long but I'm not sure I'd use the setting as
-presented. You see, the city is under a sort of er, well, apartheid. People are
-segregated into different districts based on their financial status plus tribal
-and/or corporate affiliation, and any citizen caught in an area "above their
-station" must have papers proving they're allowed to be there.
+presented. In terms of real-world knowledge of the region I'm just another
+ignorant foreigner, so I can only speak of my own impressions of what I read in
+this book. And I get that this is a cyberpunk setting, so it has to focus on
+economic and social inequality to some extend, particularly in a book dedicated
+to fighting it.
+
+But you see, the city is under a sort of er, well, apartheid. There are actual
+laws that make it so people are segregated into different districts based on
+their financial status plus tribal and/or corporate affiliation, and any citizen
+caught in an area "above their station" must have papers proving they're allowed
+to be there.
 
 And there's this bit at the start where the fictional author of the piece (a
 shadow-rando named "Afrikaaner") actually seems to _defend_ this situation by
 calling it "a status quo that while not fair is the way of life in
-Pretoria". Sure, the corps he's speaking against want to put something worse in
-place ("everyone poor or SINless is now a slave in an diamond mine geofront"),
-but again this is Better Than Bad, not Settling for Segregation.
+Pretoria". This is in bad taste, right? It's not just me that thinks so? Sure,
+the corps he's speaking against want to put something worse in place ("everyone
+poor or SINless is now a slave in an diamond mine geofront"), but again this is
+Better Than Bad, not Settling for Segregation.
 
 The "Being Less Bad" section, which I've praised before, is not without its
 share of "yikes!". For starters, it lists cops as potential employers of
@@ -228,9 +238,9 @@ rules for running cinematic heists. It wouldn't take a lot of effort to adapt
 those to Shadowrun. I really wish someone made a white-label version of it
 available.
 
-Alternatively, the Lancer RPG costs only a little bit more and has much stronger
+Alternatively, the Lancer RPG costs only a little bit more and has strong
 support for campaigns where PCs can enact large-scale change in a society
-through collective action. Also giant robots.
+through being part of collective action and getting into giant robot fights.
 
 [^1]: I could go on and on about this, but that would be too tangential.
 
