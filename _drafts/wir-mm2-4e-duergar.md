@@ -29,17 +29,151 @@ save ends both the ongoing damage and the attack penalty.
 
 ## Duergar Theurge
 
+The weakest of the spellcasters we're going to look at here. Theurges wear robes
+and wield warhammers in melee. At range they fight with a number of spells
+themed around fire, smoke, and despair.
+
+Despite the name they feel a bit more wizardly than the others, who are more
+clearly priests of some kind.
+
+### The Numbers
+
 Theurges are Level 5 Controllers with 63 HP. They wear robes and fight with
-**warhammers** in melee. At range they fling **Hellbolts** (ranged 10
+**warhammers** in melee. Their basic ranged attacks are **Hellbolts** (ranged 10
 vs. Reflex) that do fire damage.
 
-They also have a bunch of stronger spells they can use less often. **Brimstone
-Hail** (recharge 5-6) does fire damage over a fireball-sized area and knocks
-targets prone on a hit. **Vile Fumes** (recharges when first bloodied) does
-poison damage over the same area and blinds for a turn on a hit. And **Wave of
-Despair** is a daily blast 5 vs. Will and does psychic damage, slows, and dazes
-(save ends both).
+They also have a few more powerful spells. **Brimstone Hail** (recharge 5-6)
+does fire damage over a fireball-sized area and knocks targets prone on a
+hit. **Vile Fumes** (recharges when first bloodied) does poison damage over the
+same area and blinds for a turn on a hit. And **Wave of Despair** is a daily
+blast 5 vs. Will and does psychic damage, slows, and dazes (save ends both).
 
+## Duergar Shock Trooper
 
+Shock troopers are somewhat similar to the guards we saw in [the first
+article][2], but stronger and more suited to open warfare. They wield mauls
+instead of puny warhammers and have the ability to grow bigger when the fight
+grows more intense!
+
+### The Numbers
+
+Troopers are Level 6 Brutes with 84 HP. Their **mauls** have no special effects
+aside from hitting hard, and their **Infernal Quills** attack works as usual.
+
+When first bloodied, they can **Expand** as a free action, growing to size
+Large. This makes them take up 4 squares and pushes anyone who was adjacent to
+make room for their new bulk. It also gives them a +2 attack bonus and a +5
+damage bonus.
+
+## Duergar Fleshtearer
+
+With a name "Fleshtearer", you'd expect this duergar to be a mindless berserker,
+but it's actually a sneaky magical assassin that fights with claws made of smoke
+and can become invisible to better slice you with them and make your wounds
+bleed faster.
+
+### The Number
+
+Fleshtearers are Level 11 Lurkers with 89 HP. Their **claws** also do ongoing
+damage. If they have combat advantage they can instead attack with a **Quill
+Stab** that has the same effect as the signature Infernal Quills power as a
+melee attack. This one recharges whenever the duergar hits with the basic claw.
+
+**Underdark Sneak** (minor action) requires them to be in dim light or darkness,
+or adjacent to some cover. It makes them invisible for a turn or until right
+after they attack. **Shadow Scourge** is a passive trait that builds on this by
+doubling the ongoing damage the duergar causes if it attacks from invisibility.
+
+## Duergar Hellcaller
+
+This caster-type has focused its infernal magic on having the most fabulous set
+of quills in the Underdark. It can fire quills all day long, unlike its less
+well-endowed compatriots. Rounding out its arsenal are a small set of diabolic
+curses and summoning spells.
+
+### The Numbers
+
+Hellcallers are Level 12 Artillery with 96 HP. They wield **maces** for
+emergency, but as usual for artillery monsters the real interesting bits are the
+ranged attacks.
+
+Their **Infernal Quills** are an at-will Ranged 10 attack, and have the same
+effects as the encounter version for other duergar. They can momentarily
+increase their rate of fire to make this attack as a minor action once per
+encounter, and to fire off a **Quill Storm** (area 2 within 10 vs. Reflex) that
+covers an area and deals more ongoing damage than usual. Both of these special
+uses are encounter powers.
+
+Once per encounter they can also conjure **Asmodeus's Ruby Curse** (close blast
+5 vs. Will; enemies only) that deals psychic damage and slides those hits to the
+outside of the affected area. This movement _does_ provoke opportunity attacks.
+
+If someone manages to get close enough to make a melee attack against the
+hellcaller, it can use **Devilish Sacrifice** as an interrupt. This causes the
+duergar to shift beyond the attack's reach, and to summon a legion devil
+hellguard into its former position. The attack targets the new minion, and if it
+misses the devil gets to act right after the hellcaller in the initiative order
+from now on.
+
+## Duergar Blackguard
+
+This evil paladin-type uses its martial skills and magic powers to isolate and
+pursue individual PCs across the battlefield. It wears plate and wields both a
+shield and a warhammer.
+
+### The Numbers
+
+This is a Level 13 Elite Soldier with 260 HP. Its basic attack is a **Blighted
+Warhammer** that deals damage as usual and triggers a secondary attack against
+Fortitude with similar effects to the standard Infernal Quills power.
+
+The blackguard's own quills are a bit stronger than usual, replacing the
+standard power with a **Quill Burst** that does the same damage in a Close Burst
+3 around the duergar.
+
+The "isolate and pursue" part comes from a pair of abilities: **Darkfire Mark**
+(minor action 1/round) marks an enemy and compels it to approach and attack the
+blackguard - if the enemy fails to do both in its next turn, it takes 10 fire
+and necrotic damage. **Infernal Footwork** is a reaction that allows the
+blackguard to shift 2 squares in pursuit of an adjacent enemy who tries to get
+away from it. If that enemy is marked, the blackguard also gets to make a hammer
+attack against it.
+
+## Duergar Blasphemer
+
+The strongest priest-type we'll see here, weaker only than the Infernal Consort
+from the [Monster Vault article][2]. Like the Hellcaller, the Blasphemer also
+has Big Quill Energy, though its other magic is more focused on disruptive mind
+control effects.
+
+### The Numbers
+
+Blasphemers are Level 14 Controllers (Leaders) with 140 HP who wield
+**greatclubs** in battle. Like Hellcallers, they can fire **Infernal Quills** at
+will and use a Quick Quill Strike once per encounter.
+
+Aside from the quills, they have three spells:
+
+- **Preach Submission** (Close burst 10 vs. Will; minor action 1/round) does no
+  damage but marks on a hit (save ends). An already-marked target is instead
+  knocked prone.
+
+- **Eyes of Asmodeus** (Ranged 10 vs. Fortitude) also does no damage, but
+  weakens and marks for a turn on a hit. On a miss, or as an after-effect on a
+  hit, the target is slowed (save ends). This combos nicely with Preach
+  Submission to knock someone prone immediately.
+
+- **Sinner's Slip** is an interrupt that redirects an attack made against the
+  blasphemer to the attacker's closest ally. If no allies can be targeted in
+  this way the attacker is instead knocked prone and takes some psychic damage.
+
+## Sample Encounter and Final Impressions
+
+There's one sample encounter here. It's Level 4, consisting of 2 guards, 1
+scout, 1 theurge, and 4 orc drudges that are probably their slaves.
+
+That sure is a lot of duergar, and it further increases the variety and level
+range of the available opposition if you want your PCs to go up against a whole
+fortress full of them.
 
 [2]: {{ "/2020/02/10/duergar.html" | relative_url }}

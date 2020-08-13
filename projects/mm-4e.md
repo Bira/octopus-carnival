@@ -194,6 +194,9 @@ After this, we get right on the monsters:
   - [Nightmare][138]
   - [Nightwalker][139]
 
+- O
+  - [Ogre][140]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -333,3 +336,4 @@ After this, we get right on the monsters:
 [137]: {{ "/2020/08/05/naga.html" | relative_url }}
 [138]: {{ "/2020/08/09/nightmare.html" | relative_url }}
 [139]: {{ "/2020/08/11/nightwalker.html" | relative_url }}
+[140]: {{ "/2020/08/13/ogre.html" | relative_url }}
