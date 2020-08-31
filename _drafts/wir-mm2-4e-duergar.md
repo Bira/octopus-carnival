@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm-4e-duergar.webp" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Chronologically, the first appearance of Duergar in 4e is in the Monster Manual
 2, but they were also in the Monster Vault so we covered their basic lore
 [here][2]. In this post, we'll covered the duergar that appeared in the MM2 but
@@ -86,10 +95,10 @@ doubling the ongoing damage the duergar causes if it attacks from invisibility.
 
 ## Duergar Hellcaller
 
-This caster-type has focused its infernal magic on having the most fabulous set
-of quills in the Underdark. It can fire quills all day long, unlike its less
-well-endowed compatriots. Rounding out its arsenal are a small set of diabolic
-curses and summoning spells.
+This caster-type has focused their infernal magic on having the most fabulous
+set of quills in the Underdark. They can fire quills all day long, unlike their
+less well-endowed compatriots. Rounding out their arsenal is a small set of
+diabolic curses and summoning spells.
 
 ### The Numbers
 
@@ -99,10 +108,10 @@ ranged attacks.
 
 Their **Infernal Quills** are an at-will Ranged 10 attack, and have the same
 effects as the encounter version for other duergar. They can momentarily
-increase their rate of fire to make this attack as a minor action once per
-encounter, and to fire off a **Quill Storm** (area 2 within 10 vs. Reflex) that
-covers an area and deals more ongoing damage than usual. Both of these special
-uses are encounter powers.
+increase their rate of fire to make this attack as a minor action, and to fire
+off a **Quill Storm** (area 2 within 10 vs. Reflex) that covers an area and
+deals more ongoing damage than usual. Both of these special uses are encounter
+powers.
 
 Once per encounter they can also conjure **Asmodeus's Ruby Curse** (close blast
 5 vs. Will; enemies only) that deals psychic damage and slides those hits to the
