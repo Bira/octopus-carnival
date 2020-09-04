@@ -25,6 +25,15 @@ early Epic tier.
 
 ## Chillfire Destroyer
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-chillfire-destroyer.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 A Large humanoid made of ice wrapped around a fiery core, which means it has
 zero chill. It's a Level 14 Brute with 173 HP, lumbering about at Speed 5. It
 has 10 resistance to cold and fire, and is immune to disease and poison. Its
@@ -38,6 +47,15 @@ explode! This explosion is a Close Burst 3 vs. Reflex, dealing heavy fire
 damage.
 
 ## Dust Devil
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-dust-devil.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 A being or air and earth, this capricious living whirlwind has a tendency to
 sandblast anyone who makes it angry. It's Small, and a Level 3 Skirmisher with
@@ -54,6 +72,15 @@ Once per encounter it can do that sandblasting trick with **Stinging Sands**
 (close burst 3 vs. Fortitude), which does heavy damage and blinds for a turn.
 
 ## Flamespiker
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-flamespiker.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These are a triple combination of air, earth, and fire, taking the form of a
 Medium stony humanoid who can use high-pressure air to fire red-hot spikes from
@@ -75,6 +102,15 @@ against Fortitude that does 5 thunder damage and stuns (save ends). This makes
 slipping past them a difficult proposition.
 
 ## Geonid
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-geonid.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 This Large creature has more of a metabolism than most elementals, and needs to
 hunt. A stony oyster-like creature, the geonid is extremely hard to tell apart
@@ -108,6 +144,15 @@ minor action.
 
 ## Mudlasher
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-mudlasher.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Another sapient elemental predator, mudlashers are made of well, mud. They slam
 and drown their victims, and then sit atop the corpse as a puddle to slowly
 digest it. They're Medium Level 4 Brutes with 63 HP.
@@ -122,6 +167,15 @@ instead. This is good because the mudlasher gets a +2 to attacks against slowed
 or immobilized targets. A save will end either condition.
 
 ## Rockfist Smasher
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-rockfist-smasher.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 The name says it all: they're humanoid rocks that like to smash with their
 fists. Smashers don't need to eat, so they do that for fun. People who build
@@ -138,6 +192,15 @@ it still has any temp HP at the start of its next turn, it gains an action point
 that must be used in that turn.
 
 ## Shardstorm Vortex
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-rockfist-smasher.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These are living blizzards made of stone instead of ice. Despite this impressive
 description, they're just Medium in size and are the scavengers of the Elemental
@@ -160,6 +223,15 @@ they get a **Vortex Step**, an at-will 4-square shift with no built-in attack.
 
 ## Stormstone Fury
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-stormstone-fury.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 This is a Medium stone humanoid infused with the power of a storm. It can throw
 explosive stones, cause shrapnel to fly outward from its body, and meld into the
 ground for a quick escape. When fighting as part of a team they don't really
@@ -178,6 +250,15 @@ pushes 2 squares and does physical and thunder damage in a close burst 2
 turn, after which they reappear up to 10 squares away.
 
 ## Tempest Wisp
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-tempest-wisp.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 This gaseous creature is a bit smarter than your average elemental, and actively
 seeks to either ally with or coerce other creatures to form groups that
