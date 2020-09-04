@@ -235,7 +235,7 @@ We have a whole bunch!
   configuration, and yet another indication that blood fiends should really be
   undead demons instead of abominations.
 
-- Level 28: Dorensain, 2 dreat wraith, 2 epic liches, and 10 abyssal ghoul
+- Level 28: Dorensain, 2 dread wraiths, 2 epic liches, and 10 abyssal ghoul
   myrmidons.
 
 - Level 34: Orcus, 2 atropals, and 8 lich vestiges. What, you thought the big

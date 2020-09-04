@@ -282,10 +282,21 @@ it.
 
 ## Windfiend Fury
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-windfiend-fury.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Yet another Angry Tornado, this one more purely "stormy" than the others. These
 Large beings have a tendency to be swept to other planes by the elemental storms
 they like to hang around. Sometimes archons will capture them and bind them to
-their flying ships as a power source and as a means to travel to other planes.
+their flying ships as a power source and as a means to travel to other
+planes. You can also say these are the beings trapped at the core of those
+Eberron flying ships.
 
 These are Level 12 Controllers with 123 HP and a flight speed of 8. Aside from
 the usual immunities to disease and poison they have 15 resistance to lightning
@@ -297,6 +308,15 @@ a **Storm Burst** that does thunder damage and teleports them to just outside
 the area of effect.
 
 ## Windstriker
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-elemental-windstriker.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Our final Angry Tornado is Medium, and a Level 9 Lurker with 56 HP. They have
 the usual immunities and full-time insubstantiality, along with a flight speed
