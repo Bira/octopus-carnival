@@ -40,7 +40,7 @@ have Imperial pounds).
 - **Harsk the Ranger**: [GURPS DF][7], [DFRPG][20]
 - **Sajan the Monk**: [GURPS DF][8], [DFRPG][21]
 - **Jirelle the Swashbuckler**: [GURPS DF][9], [DFRPG][22]
-- **Merisiel the Rogue**: [GURPS DF][10]
+- **Merisiel the Rogue**: [GURPS DF][10], [DFRPG][24]
 - **Ezren the Wizard**: [GURPS DF][11]
 
 I didn't stop making characters after I was done with the Main Eleven, though!
@@ -75,4 +75,5 @@ will be true of any further characters I add here.
 [21]: {{ "/2018/02/17/pathfinder-dfrpg-martial-artist.html" | relative_url }}
 [22]: {{ "/2018/03/30/pathfinder-dfrpg-swashbuckler.html" | relative_url }}
 [23]: {{ "/2019/08/19/pathfinder-dfrpg-gunslinger.html" | relative_url }}
+[24]: {{ "/2018/05/02/pathfinder-dfrpg-rogue.html" | relative_url }}
 [0]: https://www.kickstarter.com/projects/847271320/dungeon-fantasy-roleplaying-game-powered-by-gurps
