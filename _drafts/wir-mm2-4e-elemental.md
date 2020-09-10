@@ -274,11 +274,12 @@ and they can attack at range with **Whistling Wind** (ranged 10 vs. Reflex) for
 about the same damage and a 1-square slide.
 
 Their limited special attack is hilarious! Named **Tumbling Updraft** (ranged 10
-vs. Fortitude), it does no immediate damage but instead lifts the target 20 feet
-up on a hit and restrains them (save ends). The first failed save causes the
-victim to be tossed up _another_ 20 feet. On a successful save, the victim
-falls! That's 2d10 fall damage if they make the first save, or 4d10 if they fail
-it.
+vs. Fortitude; recharge 5+), it does no immediate damage but instead lifts the
+target 20 feet up on a hit and restrains them (save ends). Each failed save
+causes the victim to be tossed up another 20 feet. On a successful save, the
+victim falls! That's a minimum of 2d10 fall damage, plus another 2d10 for every
+failed save. It's all subject to the standard rules for falls, though, so you
+might be able to reduce or avoid this damage in the usual ways.
 
 ## Windfiend Fury
 
@@ -292,11 +293,10 @@ it.
 {:/nomarkdown}
 
 Yet another Angry Tornado, this one more purely "stormy" than the others. These
-Large beings have a tendency to be swept to other planes by the elemental storms
-they like to hang around. Sometimes archons will capture them and bind them to
-their flying ships as a power source and as a means to travel to other
-planes. You can also say these are the beings trapped at the core of those
-Eberron flying ships.
+Large beings like to hang around elemental storms, and so tend to get swept away
+into other planes. Sometimes archons will capture them and bind them to their
+flying ships as a power source and as a means to travel to other planes. You can
+also say these are the beings trapped at the core of those Eberron flying ships.
 
 These are Level 12 Controllers with 123 HP and a flight speed of 8. Aside from
 the usual immunities to disease and poison they have 15 resistance to lightning
