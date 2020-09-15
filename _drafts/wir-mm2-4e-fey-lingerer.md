@@ -28,11 +28,12 @@ Lingerers generally try to accomplish whatever it is they were trying to do when
 they died, and can linger on even after that, looking for ways to gain the glory
 and fame they feel were due to them while they lived. They might employ other
 undead in this, and sometimes they also gather living eladrin followers who are
-willing to help their heroes.
+willing to help their fallen heroes.
 
 When a fey lingerer is destroyed in combat, its spirit emerges angrier than
-ever. This _vestige_ knows it can never complete its objectives, and becomes
-obsessed with taking revenge on those who destroyed its body.
+ever. This _vestige_ knows it can never complete its objectives now that its
+body has been destroyed, and becomes obsessed with taking revenge on those
+responsible.
 
 ## The Numbers
 
@@ -46,11 +47,11 @@ Despair** (radius 3) which inflicts a -2 penalty to attacks and saves to enemies
 caught inside. They also have an extra bonus on saves against charm effects.
 
 They're Elite monsters, but this is implemented in a novel and very interesting
-way. Normally an Elite would have double HP, but Fey Lingerers instead have the
-normal amount. However, when they hit 0 HP they become Vestiges, incorporeal
-undead with their own stat blocks. They start in the same position as the
-original lingerer, and act on the same initiative order, but are otherwise
-treated as if they had just entered the fight: full HP, all abilities unused.
+way. Normally an Elite would have double HP, but Fey Lingerers have the normal
+amount. However, when they hit 0 HP they become Vestiges, incorporeal undead
+with their own stat blocks. They start in the same position as the original
+lingerer, and act on the same initiative order, but are otherwise treated as if
+they had just entered the fight: full HP, all abilities unused.
 
 Vestiges aren't worth any additional XP when fought as part of a lingerer fight
 since the lingerer's XP total accounts for them. You can design encounters
@@ -100,8 +101,8 @@ being surrounded.
 ### Lingerer Fell Incanter
 
 Fell Incanters hang around for more open-ended reasons than knights, and are
-usually obsessed with unconvering and obtained more arcane knowledge and
-power. Their magic is tinted with their hatred, so all of it does necrotic
+usually obsessed with obtaining more arcane knowledge and power in order to Show
+Them All. Their magic is tinted with their hatred, so all of it does necrotic
 damage. So they're kind of Lich-Lite.
 
 Fell Incanters are Level 18 Elite Artillery with 130 HP and all standard

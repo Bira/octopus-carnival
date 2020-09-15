@@ -6,9 +6,10 @@ tags:
     - lets-read
 ---
 
-I believe genasi originated in one of the supplements for 3e. In Fourth Edition,
-they debuted in the Forgotten Realm Player's Guide as a playable option, and
-would later appear in the MM2 in "monster" format.
+The concept of "people touched by the elements" is a 3e thing, but genasi as
+presented in Fourth Edition are slightly different than what came before
+them. They debuted in the Forgotten Realm Player's Guide as a playable option,
+and would later appear in the MM2 in "monster" format.
 
 ## The Lore
 
@@ -105,3 +106,56 @@ Body** is a reaction that allows them to take half damage from the triggering
 attack, and **Swift Current** (encounter) allows them to shift their speed with
 the ability to move through enemy spaces and basically ignore all terrain
 effects while doing so.
+
+### Genasi Skyspy
+
+A windsoul genasi that fights with paired shortswords and uses their mobility
+powers to enhance their hit and run tactics. They're a Level 7 Skirmisher with
+78 HP and 5 cold resistance.
+
+Their basic **short sword** attack allows them to shift 1 square on a hit, and
+they can make two of those against an opponent granting them combat
+advantage. **Feather-Footed** gives them an AC bonus against opportunity
+attacks, and **Sky Jaunt** (recharge 4+) allows them to fly until the end of
+their current turn.
+
+Should the PCs manage to surround the skyspy, the genasi can use **Manifest
+Whirlwind** (close burst 2; encounter) to do some damage, push them 1 square,
+and knock them prone. This should help clear some space.
+
+### Genasi Stoneshield
+
+A heavily armored earthsoul warrior wielding a heavy pick in battle. It's a
+Level 10 Soldier with 106 HP. Stoneshields are difficult to push around - any
+forced movement applied to them is reduced by 1 square.
+
+The **war pick** is a High Crit weapon, and it also marks on a hit. This mark is
+remarkable for being (save ends) instead of only lasting a turn. Marked targets
+take a -5 penalty to damage against the stoneshield's allies. They can also
+attack with a **Mighty Bull Rush** that does the same damage as the pick and
+pushes the target 1 square. It also allows the stoneshield to move into the
+target's previous position.
+
+Finally, they can stomp really hard and cause a non-damaging **Earth Shock**
+(minor action; encounter) that covers a Close Burst 2 and knocks enemies prone
+on a hit.
+
+## Sample Encounters and Final Impressions
+
+Genasi can be found alongside a large variety of other creatures, particularly
+elementals. They're as morally varied as humans, so a villain could certainly
+employ genasi henchpeople. We have three example encounters here:
+
+- Level 8: 3 genasi skyspies riding hipogriff dreadmounts, accompanied by their
+  pet shardstorm vortex elemental.
+
+- Level 10: 2 fireblades, 2 stoneshields, and a trained magma strider.
+
+- Level 19: Two storm archons (a squallshield and a tempest weaver) and two
+  elemental dervish mercs.
+
+Reading about genasi doesn't give me the sort of instant adventure inspiration
+that some of the other monsters do, but I like that they exist. Their presence
+in the Elemental Chaos gives you an excuse to place "normal everyday
+communities" in that plane for your PCs to interact with. Not every EC
+settlement is a githzerai monastery or the City of Brass.

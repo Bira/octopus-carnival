@@ -48,7 +48,7 @@ may feature a chief that decided to copy the sophisticated ways of their tiny
 neighbors, style themselves a king or queen, and begin demanding tribute.
 
 Hill giants fight with Stone Age weapons, which are still quite deadly due to
-their size and the strenght of their wielders. They also have excellent throwing
+their size and the strength of their wielders. They also have excellent throwing
 arms and are able to hurl boulders with more accuracy than a catapult. They are
 Chaotic Evil on account of being on Team Primordial, but if it's possible for a
 Friendly Giant who is Unaligned or Good to exist at all, they're probably from
