@@ -199,6 +199,7 @@ After this, we get right on the monsters:
   - [Oni][141]
   - [Ooze][142]
   - [Orcus][143]
+  - [Otyugh][144]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -343,3 +344,4 @@ After this, we get right on the monsters:
 [141]: {{ "/2020/08/17/oni.html" | relative_url }}
 [142]: {{ "/2020/09/02/ooze.html" | relative_url }}
 [143]: {{ "/2020/09/10/orcus.html" | relative_url }}
+[144]: {{ "/2020/09/15/otyugh.html" | relative_url }}
