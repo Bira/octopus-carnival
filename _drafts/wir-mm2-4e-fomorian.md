@@ -33,6 +33,15 @@ of "evil eye" ability that varies per stat block.
 
 ## Fomorian Ghost Shaman
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fomorian-ghost-shaman.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Ghost shamans are necromancers who enslave the spirits of those they kill. They
 command these spirits as if they were puppets, enacting sadistic plays for their
 own amusement. They also use enslaved spirits as weapons in combat.
@@ -51,6 +60,15 @@ that leaves a zone of darkness in the affected area. This blocks line of sight
 for anyone without darkvision.
 
 ## Fomorian Cackler
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fomorian-cackler.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Cacklers are sly but unhinged assassins who get their name because they
 constantly laugh a disturbing laugh. They can be silent when they want to be,
@@ -71,6 +89,15 @@ big bonus to damage against targets that can't see them. **Size Alteration**
 lets them switch between Huge and Medium as a minor action.
 
 ## Fomorian Totemist
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fomorian-totemist.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Totemists are fomorian spellcasters that collect the heads of those they kill
 and build chains out of them. Each head in the chain is imbued with necromantic
@@ -96,6 +123,15 @@ their turn deal extra damage.
 
 ## Fomorian Blinder
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fomorian-blinder.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Blinders have more specialized and discerning tastes than totemists. They
 collect _eyes_ instead of lugging whole heads around. Blinders are the scholars
 and sages of fomorian-kind, acting as repositories of their civilization's
@@ -116,7 +152,16 @@ successfully, or when the fomorian uses this on someone else.
 
 Ironically, blinders have no abilities that actually blind people.
 
-## Fomorian Butchers
+## Fomorian Butcher
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fomorian-butcher.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Butchers are big fomorians with big blades who like to cut people up for
 fun. Such simplicity is a bit disappointing after we saw all those esoterically
