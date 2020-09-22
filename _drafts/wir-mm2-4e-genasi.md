@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-genasi.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The concept of "people touched by the elements" is a 3e thing, but genasi as
 presented in Fourth Edition are slightly different than what came before
 them. They debuted in the Forgotten Realm Player's Guide as a playable option,
@@ -27,11 +36,11 @@ going to have a lot of firesouls, and so on.
 
 A genasi's manifestation accents their physical appearance and defines some of
 their inborn powers and resistances. It's an always active part of their being,
-not something they can turn off. Some of them train to manifest additional
+not something they can turn off. Some of them train to acquire additional
 manifestations. PCs can have two at most, but some NPCs can have more.
 
-Genasi live primarily in the Elemental Chaos, where they have an easier time of
-it than most other mortals but stil must step lightly around efreeti and the
+Genasi live primarily in the Elemental Chaos. They have an easier time of it
+than most other mortals but still must step lightly around efreeti and the
 like. They can also be found in the world or in the Feywild, since they don't
 have any more difficulty living there than a human would.
 
