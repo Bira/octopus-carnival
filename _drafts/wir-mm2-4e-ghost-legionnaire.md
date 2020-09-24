@@ -6,16 +6,25 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-ghost-legionnaire.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The first Monster Manual already includes a bunch of [ghosts][2], and it even
 has a basic Phantom Warrior. Here we have a more specific implementation of that
 concept.
 
 ## The Lore
 
-These creatures are the ghost of soldiers who died in battle more or less at the
-same time as the entire rest of their units. The emotional bonds between them
-and the trauma of their violent massed deaths causes their spirits to fuse and
-to rise as undead.
+These creatures are the ghosts of soldiers who died in battle more or less at
+the same time as the entire rest of their units. The emotional bonds between
+them and the trauma of their violent massed deaths causes their spirits to fuse
+and to rise as undead.
 
 Legionnaires always appear as a unit, and they look like individuals acting in
 concert, but they're all part of the same collective ghost. So it might have
@@ -78,9 +87,7 @@ There isn't much of a story difference between a ghost legionnaire and a phantom
 warrior, as you can see by their names. This suggests that one way to get a
 level 4 legionnaire would be to remove Insubstantial from the warrior and add
 Soul Link in its place. You can likely do the same with any other thesaurus
-buddies that might come along (spectral soldiers, fighting figments, and
-others).
-
-
+buddies that might come along (banshee battlers, figment fighters, spectral
+soldiers, wraith warriors...).
 
 [2]: {{ "/2020/03/18/ghost.html" | relative_url }}

@@ -202,6 +202,9 @@ After this, we get right on the monsters:
   - [Otyugh][144]
   - [Owlbear][145]
 
+- P
+  - [Panther][146]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -347,3 +350,4 @@ After this, we get right on the monsters:
 [143]: {{ "/2020/09/10/orcus.html" | relative_url }}
 [144]: {{ "/2020/09/15/otyugh.html" | relative_url }}
 [145]: {{ "/2020/09/18/owlbear.html" | relative_url }}
+[146]: {{ "/2020/09/22/panther.html" | relative_url }}
