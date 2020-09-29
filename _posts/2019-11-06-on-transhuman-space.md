@@ -43,22 +43,23 @@ software gods Any Day Now.
 However, there's another person whose influence over the setting is possibly
 greater than that of the others, whose ideas are so taken for granted that he's
 not acknowledged anywhere in the books. I'm talking about Francis Fukuyama, the
-guy who made the infamous "we have reached the end of History" speech. The
-speech kinda codifies the idea that Western liberal capitalism is the ultimate
-political and economic model for humanity. You reach that, you win History, and
-everyone else is just playing catch-up to you.
+guy who wrote the infamous "The End of History?" essay. This essay kinda
+codifies the idea that Western liberal capitalism is the ultimate political and
+economic model for humanity. You reach that, you win History, and everyone else
+is just playing catch-up to you.
 
-The speech was made in 1989, and it went from "well-received" to "gospel truth"
-in the eyes of the developed West when the Soviet Union fell in '91. It
-influences a lot of terminology even today. A "developing country" is just one
-that's on the way to becoming a "developed country" like the US and Western
-Europe are; if it has trouble making the transition it's because it has not
-embraced the tenets of the Ultimate Model with enough gusto.
+The essay was written in 1989, and it went from "well-received" to "gospel
+truth" in the eyes of the developed West when the Soviet Union fell in '91. It
+was expanded into a book in 1992, and influences a lot of terminology even
+today. A "developing country" is just one that's on the way to becoming a
+"developed country" like the US and Western Europe are; if it has trouble making
+the transition it's because it has not embraced the tenets of the Ultimate Model
+with enough gusto.
 
 This same view is at the bedrock of Transhuman Space's worldbuilding. The
 nations who were "developed" at the end of the 20th century remain so at the end
 of the 21st. Those who were "developing" also mostly remain so - they're better
-off than they were a century ago, perhaps even better of than the US was a
+off than they were a century ago, perhaps even better off than the US was a
 century ago, but they still have some "catching up" to do. The game's definition
 of "better off" is directly correlated to technological development. Better toys
 equals better society. The whole "memetics" thing is part of that, since its

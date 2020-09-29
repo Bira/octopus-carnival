@@ -21,6 +21,15 @@ Dragon articles for 3e.
 
 ## Eldritch Giants
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-giant-eldritch.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 As mentioned in the basic lore post, the primordials made the first Giants from
 the same elements they used in the world, to help them shape and understand
 it. Well, it turns out _raw magic_ is as much a basic building block of the
@@ -38,9 +47,9 @@ form weapons out of pure force, and they tattoo their bodies with symbols that
 allow them to absorb the magic of others and teleport at will. They live near
 sources of arcane power, and jealously hoard knowledge and artifacts. Eldritch
 giant social hierarchy is based on how much power individuals managed to
-accumulate - Eldritch Titans tend to be on top of that. An individual eldritch
-giant or titan might have more abilities than what is depicted in the "typical"
-stat blocks of this entry, and they'll certainly have access to lots and lots of
+accumulate - Eldritch Titans tend to be at the top. An individual eldritch giant
+or titan might have more abilities than what is depicted in the "typical" stat
+blocks of this entry, and they'll certainly have access to lots and lots of
 magic rituals.
 
 Most interactions between mortals and eldritch giants as written here are likely
@@ -111,6 +120,15 @@ to move out of their ancestral homes and throw their lot with their more
 villainous relatives.
 
 ### Stone Giant
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-giant-stone.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Stone Giants are Large Elemental Humanoids with the Earth and Giant
 keywords. They're Level 14 Soldiers with 140 HP, immune to petrification, and
