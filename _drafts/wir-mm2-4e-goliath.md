@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Goliath"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I think Goliaths first appeared in the Races of Stone supplement for 3.5. In
+Fourth Edition, their first appearance was as a playable option in the
+PHB 2. They get their corresponding "monster" entry here, with a couple of stat
+blocks suitable for use as opposition or NPC allies.
+
+They're one of the many playable peoples designed to give players a "taste" of
+being a cool fantasy monster without being unbalanced. Eladrin arguably do it
+for Sidhe; dragonborn do it for dragons; tieflings for fiends; deva for
+angels. Goliaths do it for giants.
+
+## The Lore
+
+The typical goliath is stated to be between 7 and 8 feet tall, so whether
+they're on the large side of Medium or the small side of Large is a matter of
+opinion. The book's opinion is that they're Medium, since that allows them to be
+playable. Their skin is gray or brown, and speckled with coin-sized bony growths
+that look like rocks.
+
+Goliaths have existed since shortly after the Primordials created the world,
+which might mean they're a kind of byproduct of the creation of the Giants in
+the same way the origin of the Dragonborn is tied to that of dragons. Goliaths
+don't care enough about that to make myths about it, though.
+
+All throughout their history they've preferred to keep to a nomadic existence in
+the more mountainous areas of the world, so there isn't much about them in other
+people's records either. While it's fairly common for individual goliaths to
+travel the "lowlands" as adventurers or explorers, they haven't engaged in any
+grand diplomacy or empire-building as a people.
+
+Culturally, goliaths place a lot of value in individual skill and prowess, and
+this makes them very competitive. Their communities probably have all sorts of
+tournaments and contests in their calendars. Individual goliaths tend to turn
+everything into a contest, even if only in the privacy of their own minds - they
+keep score and constantly compare themselves both to their companions and to
+their own past performance. That battle where Legolas and Gimli compare their
+kill counts? That's every fight where a goliath is involved. This does have the
+downside of making them get a bit depressive when they fail to measure up to
+their own standards.
+
+I suspect Kord is a very popular deity among goliaths, and they also often
+worship the primal spirits.
+
+## The Numbers
+
+As far as the rules are concerned, Goliaths are Medium Natural Humanoids. They
+have a natural speed of 6, and human-equivalent senses. Their signature ability
+is **Stone's Endurance**, a minor-action encounter power which gives them
+some resistance to all damage for a turn. The value of this resistance is 5/tier
+(5 at heroic, 10 at paragon, 15 at epic).
+
+### Goliath Sunspeaker
+
+This is more of a primal priest of the sun spirits than a cleric of Pelor,
+focused on burning people with sun-powered lasers. Sunspeakers are Level 7
+Artillery with 64 HP, wearing light armor and using an orb as an implement.
+
+Their melee basic attack is the **Sunspeaker's Hand**, which targets Reflex and
+deals light radiant damage. **Solar Sphere** does the same at Range 20 with
+better damage.
+
+Less often, the sunspeaker can use **Solar Rays** (recharge 4+) against up to 2
+targets within Range 10. This deals light radiant _or_ fire damage, as well as
+ongoing damage of the type chosen (save ends). This allows them to potentially
+stack two sources of ongoing damage on someone with the same power.
+
+If cornered, the sunspeaker can use **Flaring Leap** (move action; encounter) to
+jump 3 squares and then move its remaining speed. This jet-powered jump causes a
+fire in the sunspeaker's starting space, which deals damage to adjacent enemies
+or to those foolish enough to enter the flaming square. The fire lasts for a
+turn and can be sustained with minor actions.
+
+Finally, it can use a big area attack named **Call Down The Sun** once per
+encounter, which is a bit weaker than Solar Sphere but targets a lot of people
+and does half damage on a miss.
+
+### Goliath Guardian
+
+A more straightforward but no less powerful martial type. The guardian is a
+Level 9 Soldier with 96 HP. It's heavily armored by still has speed 6, wielding
+a bastard sword and a light shield.
+
+Its basic **sword** attack marks for a turn, and if the target is prone it's
+also prevented from getting up for the same amount of time. The guardian knocks
+people prone with **Ram's Charge** (recharge 5+), a maneuver that deals light
+physical damage and has a long list of riders: it pushes the target 2 squares,
+knocks it prone, and allows the goliath to make a free sword attack against the
+target. As the name says, it can be used as part of a charge.
+
+Finally, **Warrior's Leap** is a passive that allows the guardian to jump
+without provoking opportunity attacks. It still uses the standard jump rules
+(and it's high Athletics score) for that.
+
+Guardians are awesome in moutainous terrain that's full of cliffs. Even if their
+targets aren't thrown overboard, they'll still stay on the ground for quite a
+while, granting advantage to the guardian and any sneak-attacking skirmisher
+buddies.
+
+## Sample Encounters and Final Impressions
+
+Goliaths often team up with similarly-inclined mountain-dwellers, which can
+include dwarves, galeb duhrs, or goblins. I suppose that might include stone
+giants as well, if you level your goliaths up a bit. The sample encounter is
+level 9, and includes a galeb duhr rock-caller, 3 goliath guardians, and 1
+sunspeaker.
+
+I like goliaths, they fill a very specific "huge person" niche. These two stat
+blocks are interesting from a mechanics standpoint as well.

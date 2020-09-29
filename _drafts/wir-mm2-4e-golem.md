@@ -1,0 +1,132 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Golem"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Golems showed up in the first MM and were iconic enough to later make it to the
+Monster Vault. I covered those [here][2], and you can check that same post to
+see their basic lore. The Monster Manual 2 brings us yet more golems, which
+share the same basic lore.
+
+As before, golems are Natural Animates with the Construct keyword. They're
+immune to disease, poison, and sleep. They have darkvision, and though their
+ground speed tends to be high they cannot shift. Most are Large, but one of the
+examples here is Huge.
+
+## Bone Golem
+
+Bone golems are made from the skeletons of several creatures, whose bones are
+sharpened and fitted together to form the construct's body. Despite being made
+of bones and beloved of necromancers, it's a construct animated through
+elemental magic and not an undead monster. Throw this one into an encounter that
+does have undead skeletons in it, and it should be good to surprise your PCs a
+bit.
+
+Bone Golems are Level 12 Elite Brutes with 302 HP. It's so spiky the pointy bits
+count as a **Bone Spikes** aura (1) that deals 5 damage to any enemy that enters
+it. The pointy bits also justify the **Osseous Retaliation** trait, which deals
+a bit of automatic damage to anyone who hits the golem with an opportunity
+attack.
+
+This construct fights with Reach 2 **Bone Spurs**, and can attack twice per
+action with them. It can also fire a **Bone Volley** (burst 3 vs. Reflex,
+recharge 6+) that deals heavy physical damage and dazes (save ends).
+
+When the golem is destroyed **Bone Death** allows it to make one last
+attack. If Bone Spurs is charged then it uses that, otherwise it makes a basic
+bone spur attack.
+
+## Chain Golem
+
+These Huge golems are modeled after chain devils, and are often tasked to guard
+prisons and Actual Dungeons instead of the usual tombs or treasure vaults. As
+you might have guessed, their fighting style is very grapple-intensive.
+
+Chain Golems are Level 22 Elite Soldiers with 418 HP, a speed of 8, and all
+standard golem traits. Their **Entangling Chains** act as an aura (3) that slows
+everyone caught inside.
+
+Their basic attack is a Reach 3 **Chain** that does physical damage and pulls
+the target 2 squares. **Chain Smash** is their double attack power, allowing it
+to attack two different targets in one action. While they're bloodied, **Berserk
+Attack** allows them to make a chain strike against anyone who damages them as a
+reaction.
+
+All that and we didn't even use the grappling rules yet! We have to do that for
+**Chain Grab**, though. This at-will attack is a Close Burst 2 that does the
+same damage as the basic strike, pulls targets 1 square, and grabs them. The
+escape DC is 32 or 35 depending on the skill you use. The golem can move away
+from the grabbed victims without ending the grab because chains. Once it
+finishes moving it can either slide the victims next to itself or let them go.
+
+So your typical chain golem will try to keep the whole party grabbed while it
+smacks them around with its chains. PCs who aren't grabbed will still be slowed,
+and the golem's strikes will pull them back if they try to run away. Staying far
+away and using ranged attacks is a good tactic against them, but that speed of 8
+will make keeping away a real chore.
+
+## Clay Golem
+
+Clay Golems were one of the original golem types described in the first entries
+back in AD&D or in the nebulous times before it. They were originally inspired
+by the legend of the golem of Prague, and so were the only golem that required
+divine magic to make (all the others were arcane).
+
+In Fourth Edition, [eidolons][3] are used to represent divine constructs, so
+clay golems have the same arcane/elemental origin as the other types. They have
+a somewhat "runny" appearance, but are surprisingly fast and retain a slightly
+less harsh version of the ability to inflict unhealing wounds that they had in
+previous incarnations.
+
+Stat-wise, they're Level 15 Elite Brutes with 368 HP, Large size, a speed of 6,
+and all common golem traits. Their basic attack is a Reach 2 **Slam** that does
+heavy physical damage and curses the target, making it unable to regain HP. This
+is a (save ends) condition, but it's still quite dangerous, since it makes
+wounds inflicted by _all_ enemies unhealing, not just the golem's. **Clay
+Smash** allows it to slam two different targets in one action, and they have the
+same Berserk Attack reaction as the chain golem above.
+
+Their **Hasty Reaction** passive trait allows them to roll initiative twice and
+take the highest result, and **Unstoppable** is a move-action encounter power
+that allows them to move 8 squares and pass through enemy spaces. They draw
+opportunity attacks when doing this, but reduce their damage by 10. This isn't
+worded like a resistance, so I guess powers that bypass or reduce resistances
+don't work against it.
+
+## Iron Golem
+
+These made it into the MV, so we already covered them. The MM2 has two versions,
+the Level 20 one that we saw, and a Level 26 "Iron Golem Juggernaut" that's
+basically the same aside from being size Huge and having bigger numbers.
+
+## Sample Encounters and Final Impressions
+
+Each kind of golem presented here gets a sample encounter. I guess there was
+something of an editing snafu here, because most golems have their encounter
+listed right after their stats, but the one for chain golems is all by its
+lonesome in an "Encounter Groups" section at the end of the overall entry. I
+guess it must be there because it has two golem types in it.
+
+- Level 13: 1 bone golem, 4 horde ghouls (minions), 1 human wizard lich. So
+  that's the kind of caster who makes bone golems.
+
+- Level 15: 1 clay golem, 1 shadar-kai gloom lord, 2 shadow snakes. A Zehiri
+  operation, if you still want to associate clay golems with clerics.
+
+- Level 21: 1 chain golem, 1 dark naga, 1 iron golem. Someone _really_ wanted
+  this place guarded.
+
+- Level 24: 1 iron golem juggernaut, 1 storm gorgon, 1 djinn skylord. A noble,
+  his pet, and his mechanical manservant.
+
+There's a point past which adding more golem types feels a bit redundant. There
+are also so many non-golem constructs out there that I almost think "golem"
+should be a singular monster type with very specific characteristics, rather
+than a whole family of them. Otherwise it would be best to do away with the term
+entirely.
+
+[2]: {{ "/2020/04/30/golem.html" | relative_url }}
+[3]: {{ "/2020/02/12/eidolon.html" | relative_url }}
