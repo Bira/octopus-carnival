@@ -89,3 +89,43 @@ error of my ways, honest!"
 To close things out, **Grifter's Flight** is another encounter power that allows
 the con artist to shift 6 squares and make an unpenalized Stealth check at the
 end
+
+### Half-Elf Baleful Thaumaturge
+
+An epic-level evil wizard for all of your epic-level evil wizard needs. The stat
+block itself is Unaligned, so you could also use it to represent a wizard that's
+merely edgy. No reason it has to be a half-elf either, the stats could apply to
+any Medium sapient. Their magic has a "blood and teeth" theme, which gives you a
+hint as to what kind of entity they learned it from.
+
+The thaumaturge is Level 24 Artillery with 169 HP. They go unarmored, and wield
+a wand as an implement. Their basic melee attack is an **Infernal Slam** that
+targets Will. A hit damages the target, pushes it 3 squares, and allows the
+thaumaturge to teleport 3 squares. Their basic ranged attack is a **Soul Bite**
+spell (ranged 10 vs. Reflex) that does physical damage and gives the thaumaturge
+10 temporary HP on a hit.
+
+The "bitey" theme continues with their two special attacks. **Wall of Shadow
+Teeth** (recharge 5+) creates wall 2 squares high and 8 squares long within 10
+squares of the caster. This wall bites, attacking anyone adjacent to it. A hit
+deals necrotic damage and immobilizes the target (save ends). It lasts for a
+turn but can be sustained with minor actions.
+
+**Mouths of Hell** (close blast 5 vs. Will; encounter) deals heavy psychic
+damage and also gives the thaumaturge 10 temporary HP. This creates a zone of
+ghostly maws that lasts until the end of the encounter, deals 15 psychic damage
+to anyone caught inside, and gives the caster 5 temporary HP when it damages
+someone in this way.
+
+The thaumaturge can also spend 5 temporary HP if it has them to teleport 8
+squares as a minor action, with a spell called **Bloody Step**.
+
+## Sample Encounters and Final Impressions
+
+There isn't much of a theme to the half-elves in this entry, but I guess that's
+the point. They're as varied as humanity. Each individual entry has their own
+thing going.
+
+The two sample encounters we get are a Level 7 one with a bandit captain leading
+a gang of humans and halflings, and a Level 25 one with an epic lich and its
+entourage of 2 thaumaturges and 2 slaughterstone hammerers.

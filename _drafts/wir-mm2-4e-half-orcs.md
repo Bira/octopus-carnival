@@ -1,0 +1,134 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Half-Orc"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Half-Orcs have been in the game since the days of AD&D, where they appeared as a
+playable option in the Player's Handbook. Historically, they were one of the
+first "edgy" options for players, but they've always been a bit controversial
+and surrounded by Unfortunate Implications. The main one being that most
+versions of them implied that there was only one very unpleasant way in which an
+orc and a human could have a child.
+
+In more recent years, several different solutions to this have been
+proposed. Some remove half-orcs from the game, others say they're full orcs and
+that's what a full orc looks like. Fourth Edition went with a third common
+option, which is to diversify the origins of half-orcs.
+
+They appear as a playable option in the PHB 2, and have their NPC/enemy-style
+entries here.
+
+## The Lore
+
+Half-Orcs as a people tend to combine the daring and ambition of humans with the
+strength and ferocity of orcs. Their build and features are orcish, but their
+hair and skin tones resemble those of humans rather than the greens and blues
+this edition uses for orcs.
+
+Half-orcs are as numerous as any other people without "half-" in their
+name. They have their own communities and cultures, and also live in more
+cosmopolitan settlements along with other sapients. You could play a half-orc
+who has neither humans nor orcs anywhere in their family tree, or at least none
+in living memory. In fact, they've been around in this state for so long that no
+one knows their true origins.
+
+There are several competing theories. A more mythical version says that they
+arose when Gruumsh lost his eye and his spilled blood hit the world. Another
+myth says Kord created them by copying the best elements from his two favorite
+species. Others say they started out as a super-soldier experiment by an evil
+wizard, or when human and orc barbarian tribes joined in alliance in ancient
+times. Another still says they were engineered by the ancient goblin empire to
+act as orc wranglers.
+
+And of course, you can still have a half-orc who's the product of a happy
+marriage between a human and an orc. If you really want to you could also make a
+half-orc PC with the classic "Unfortunate" origin, but now it's no longer
+exclusive to them. If you really want to play an edgy character, there are
+better options around these days.
+
+Another thing that has been removed this edition is the "caught between two
+worlds, hated by both" cliche that used to plague both half-elves and
+half-orcs. And to that I say good riddance.
+
+## The Numbers
+
+NPC Half-Orcs have the same signature traits as their playable version:
+low-light vision, a +2 bonus to speed when charging, and the **Furious Assault**
+encounter power. This can be used as a free action right after the half-orc hits
+an enemy, and increases the damage of the attack by 1d10. It's a bit better than
+the PC version, which only increases it by 1d8.
+
+### Half-Orc Hunter
+
+A ranger-type who really likes to jump into melee combat, fighting in a reckless
+manner. Wearing light armor, they carry a battleaxe and a longbow into combat.
+
+The **axe** and the **bow** are basic attacks, and **Evasive Chop** allows the
+hunter to shift 1 square before making an axe attack. **Draw First Blood** is a
+passive trait that increases their damage against any enemy who hasn't yet taken
+damage in this fight. Combining it with Furious Assault makes for a good "alpha
+strike".
+
+### Half-Orc Death Mage
+
+The death mage is more of a priest-type, serving an exarch of Gruumsh named
+Yurtrus. Yurtrus presides over disease, misery, and death, so their magic
+follows the same themes. Death Mages are always Evil, unlike the others here who
+are presented as Unaligned. They wear robes and carry quarterstaffs that work
+more as implements than as weapons.
+
+Though they can attack with that **staff**, their main melee attack is a
+**rotting touch** that targets Fortitude and does both immediate and ongoing
+necrotic damage (save ends). The touch also strips any necrotic resistance or
+immunity the target might have! This opens it up to necrotic attacks from
+others, and allows that ongoing damage to have an effect. Saving against the
+damage also ends this condition.
+
+At range, they can shoot **Bolts of Putrescence** vs. Reflex that deal physical
+damage and inflict a -5 penalty to all the target's defenses for a turn. Their
+area attack is a **Swarm of Flies** that deals physical damage and creates a
+zone over the affected area. Anyone caught inside takes damage from fly bites,
+and has their visibility restricted to 3 squares. The death mage can move the
+zone 2 squares as a minor action.
+
+The death mage has the racial Furious Assault power, and it's worth remembering
+that it can enhance _any_ attack, not just physical ones. Its final power is
+**Death Mark**, which automatically deals heavy physical damage to whoever
+reduces the mage to 0 HP.
+
+### Half-Orc Scarthane
+
+Scarthanes are veteran warriors that eschew armor and proudly display the
+tapestry of scars covering their skin. The more wounded they are, the more
+dangerous they become, and either ferocity or blood magic allows them to keep
+fighting even through all those wounds.
+
+A Scarthane is a Level 7 Brute with 96 HP, wielding a greataxe and fighting
+unarmored. The **axe** is a High-Crit weapon, and they're limited to basic
+attacks and Furious Assault at first.
+
+When the scarthane hits a bloodied target, **Blood for Blood** makes the attack
+deal +1d6 damage and heals them for 5 HP.
+
+Once the scarthane becomes bloodied, **Wounded Retaliation** allows them to make
+a basic attack against whoever bloodied them. They also gain **Bloodfury
+Attack**, an axe attack that lacks the High-Crit property but deals more base
+damage and heals the scarthane for 10 HP when it hits. This does stack with
+Blood for Blood!
+
+## Sample Encounters and Final Impressions
+
+Half-orcs can be found among humans, orcs, or other creatures that associate
+with them. They can easily be reskinned by replacing their signature traits with
+those of the target species.
+
+The sample encounters are:
+
+- Level 6: 2 half-orc hunters, 1 human hexer, 4 human berserkers. A barbarian
+  hunting party.
+
+- Level 9: 4 scarthanes, 1 orc chieftain, 1 orc eye of Gruumsh. The scarthanes
+  make an excellent honor guard.
