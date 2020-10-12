@@ -204,6 +204,13 @@ After this, we get right on the monsters:
 
 - P
   - [Panther][146]
+  - [Purple Worm][147]
+
+- Q
+  - [Quickling][148]
+
+- R
+  - [Rakshasa][149]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -351,3 +358,6 @@ After this, we get right on the monsters:
 [144]: {{ "/2020/09/15/otyugh.html" | relative_url }}
 [145]: {{ "/2020/09/18/owlbear.html" | relative_url }}
 [146]: {{ "/2020/09/22/panther.html" | relative_url }}
+[147]: {{ "/2020/09/25/purple-worm.html" | relative_url }}
+[148]: {{ "/2020/09/29/quickling.html" | relative_url }}
+[149]: {{ "/2020/10/12/rakshasa.html" | relative_url }}
