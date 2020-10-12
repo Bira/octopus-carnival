@@ -79,7 +79,7 @@ speed 6, and replace the usual low-light vision with full darkvision. They wear
 light armor and fight with a war pick.
 
 When Lolthbound Goblins are within 5 squares of a drow, they gain a +2 bonus to
-all its attacks and defenses. That **pick** is a high-crit weapon and marks
+all their attacks and defenses. That **pick** is a high-crit weapon and marks
 targets for a turn on a hit. Once per encounter they can use a **Stinging Blow**
 that deals poison damage and instead of marking increases any ongoing poison
 damage the target is taking by 5. This synergizes with the poisoned weapons drow
