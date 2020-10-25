@@ -211,6 +211,8 @@ After this, we get right on the monsters:
 
 - R
   - [Rakshasa][149]
+  - [Rat][150]
+  - [Roc][151]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -361,3 +363,5 @@ After this, we get right on the monsters:
 [147]: {{ "/2020/09/25/purple-worm.html" | relative_url }}
 [148]: {{ "/2020/09/29/quickling.html" | relative_url }}
 [149]: {{ "/2020/10/12/rakshasa.html" | relative_url }}
+[150]: {{ "/2020/10/25/rat.html" | relative_url }}
+[151]: {{ "/2020/10/25/roc.html" | relative_url }}
