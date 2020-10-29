@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-goblin.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 D&D Fourth Edition uses "Goblins" to describe a set of closely related species
 of humanoids: actual goblins, hobgoblins, and bugbears. They're a very
 traditional component of the game and we looked at lots of them in the
