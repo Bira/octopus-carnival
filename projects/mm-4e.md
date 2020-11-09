@@ -214,6 +214,7 @@ After this, we get right on the monsters:
   - [Rat][150]
   - [Roc][151]
   - [Roper][152]
+  - [Rot Harbinger][153]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -319,7 +320,7 @@ After this, we get right on the monsters:
 [102]: {{ "/2020/04/22/goblinoids.html" | relative_url }}
 [103]: {{ "/2020/04/25/goblins.html" | relative_url }}
 [104]: {{ "/2020/04/27/hobgoblins.html" | relative_url }}
-[105]: {{ "/2020/04/30/golems.html" | relative_url }}
+[105]: {{ "/2020/04/30/golem.html" | relative_url }}
 [106]: {{ "/2020/05/01/bugbears.html" | relative_url }}
 [107]: {{ "/2020/05/04/gorgon.html" | relative_url }}
 [108]: {{ "/2020/05/06/grell.html" | relative_url }}
@@ -367,3 +368,4 @@ After this, we get right on the monsters:
 [150]: {{ "/2020/10/25/rat.html" | relative_url }}
 [151]: {{ "/2020/10/25/roc.html" | relative_url }}
 [152]: {{ "/2020/10/30/roper.html" | relative_url }}
+[153]: {{ "/2020/11/09/rot-harbinger.html" | relative_url }}
