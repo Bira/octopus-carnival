@@ -215,6 +215,7 @@ After this, we get right on the monsters:
   - [Roc][151]
   - [Roper][152]
   - [Rot Harbinger][153]
+  - [Rust Monster][154]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -369,3 +370,4 @@ After this, we get right on the monsters:
 [151]: {{ "/2020/10/25/roc.html" | relative_url }}
 [152]: {{ "/2020/10/30/roper.html" | relative_url }}
 [153]: {{ "/2020/11/09/rot-harbinger.html" | relative_url }}
+[154]: {{ "/2020/11/10/rust-monster.html" | relative_url }}
