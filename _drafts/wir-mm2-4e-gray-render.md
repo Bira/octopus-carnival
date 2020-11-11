@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-gray-render.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Here we see something of a rarity in this series: a monster whose 4e incarnation
 I find _strictly worse_ than its previous ones.
 
@@ -25,9 +34,8 @@ particularly fond of targetting sapient settlements.
 I don't like this change because, as you might have surmised by now, I'm not
 fond of always-hostile, attacks-on-sight-and-fights-to-the-death monsters. I
 literally never saw anyone mention grey renders online without also mentioning
-and praising the oddly cute imprinting thing, so it feels strange to me that
-this was the thing they chose to change here. Remove that and you're left with
-something that's virtually indistinguishable from, say, a goristro demon.
+and praising the imprinting. Remove that and you're left with something that's
+virtually indistinguishable from, say, a goristro demon.
 
 ## The Numbers
 
