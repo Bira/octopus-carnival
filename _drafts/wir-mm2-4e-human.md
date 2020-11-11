@@ -82,8 +82,8 @@ ends). The **crossbow** has good range and its bolts have an ongoing poison
 damage (save ends) rider. The **spear** is there for emergencies, because its
 best to hunt dire beasts from a distance.
 
-The hunter is really not meant to be alone. It should be encountered either as
-part of a sizable NPC hunting party, or attached to the PCs as an ally for a
+The hunter is not meant to be alone. It should be encountered either as part of
+a sizable NPC hunting party, or attached to the PCs as an ally for a
 particularly tough hunt.
 
 ## Human Dread Assassin
@@ -107,4 +107,93 @@ Deadly Blade or (if it's charged already) heals them for 20 HP.
 I guess the idea is that this is a deadly foe that will never stop trying to
 kill you until they succeed, but you should really boost their damage for that
 to be true. Also, since they're regulars you should expect these epic ninjas to
-work in groups.
+team up with either other assassins, or with some distracting heavies.
+
+## Human Gladiator
+
+This gladiator is described by the book as a "consumate athlete", which isn't
+really the term I'd use to refer to someone forced to fight in deathmatches for
+the amusement of a bloodthirsty crowd.
+
+This particular individual is a Level 14 Elite Soldier with 276 HP, so we're
+either looking at a Spartacus in the making or at the reigning champion of the
+arena that must be taken down before the revolt can start. It wears scale and
+carries a light shield and a gladius, even though the picture shows someone more
+traditionally Roman.
+
+The gladiator has a **Fighting Focus** aura (1) that marks enemies who start
+their turns inside, lasting until the start of their next turns. It's a lot like
+the Essential Knight's Defender Aura, with a bit more stickiness.
+
+That **gladius** can be used to make melee basic attacks, and in a **Gladius
+Display** that attacks a Close Burst 1 and does the same damage. This is
+supplemented by a variety of dirty tricks. They're all minor actions, and though
+none of them do damage they inflict a variety of conditions.
+
+**Knock to the Dirt** is an encounter power that targets Fortitude and knocks
+prone; **Sand in the Eyes** is another encounter power that targets fortitude,
+and causes blindness (save ends). **Well-Placed Kick** is recharge 5+, targets
+Reflex, and both slows and dazes the target (save ends). I bet it targets
+the... knee. Yeah, that'd do it.
+
+That's the sort of fighting style that'd mark you as a heel in wrestling, but
+since the gladiator fights in actual life or death matches I'd say it's just
+good sense.
+
+## Human Hexer
+
+Perfect for playing the part of a sinister witch or a seer whose dire prophecies
+go unheard. The hexer is a Level 7 Controller with 77 HP, wearing robes and
+wielding a staff.
+
+The hexer is extremely weak in terms of damage, and is meant to be used
+alongside monsters who are better in that area. They have some interesting
+control options, though.
+
+Their only melee attack is a weak bonk with the **staff**, but insted of
+bothering with it they're going to stay away and open up with **Hex**, a minor
+action that targets all enemies in a Close Burst 10. That's guaranteed to cover
+all PCs unless one of them is a sniper ranger or something. It's an attack
+against Will, and a hit means the target is _hexed_. Hexed targets have a -2
+penalty to damage the hexer, and become valid targets for the hexer's other
+spells.
+
+One of them is **Capricious Earth** (encounter), a big area burst that targets
+Will, does a bit of damage, slides targets 3 squares, and knocks them prone.
+
+The other one is **Beast Curse** (recharge 4+), a ranged spell that targets
+Fortitude and turns the target into a Tiny creature until the end of the hexer's
+next turn. While in this state the target cannot use powers. Yes, this _does_
+include basic attacks, so your Slayer won't turn into a surprisingly deadly
+frog.
+
+## Human Insane Noble
+
+Not to be confused with the standard Human Noble, shown later. The picture is
+pretty much a caricature of Carlota Joaquina, a historical figure who was rather
+unpleasant but not epic-level.
+
+The Insane Noble wears finery and wields a scepter, but as a Level 23 Elite
+Skirmisher it doesn't need much more than that to ruin your day. **Sheer
+Madness** makes them immune to opportunity attacks. The **scepter** is a basic
+attack, and **Flurry of Madness** allows the noble to shift 6 squares and make a
+scepter attack against every enemy they pass by during the shift. These traits
+and abilities combine to make them a combatant that never stands still,
+scuttling about the battlefield with alarming alacrity.
+
+When the noble is first bloodied, **Ignoble Fury** triggers and lets them bonk
+everyone in a Close Burst 1 with a scepter attack that also knocks targets prone
+on a hit.
+
+## Human Javelin Dancer
+
+A specialized martial artist, lightly armored and wielding a spear for close
+combat and a brace of javelins for range. Their **Skirmisher** trait allows them
+to do increased damage if they move at least 4 squares before attacking, and
+**Adept Retreat** makes them not grant combat advantage when running. "Running"
+is something everyone can do, greatly increasing their Move at the cost of
+granting combat advantage. That's what the dancer ignores.
+
+In addition to basic attacks with the **spear** or a **thrown javelin**, the
+dancer can also make a **Mobile Attack** at will, shifting 3 squares and
+attacking with the spear.
