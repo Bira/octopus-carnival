@@ -53,7 +53,7 @@ Skirmisher with the Leader keyword and 69 HP. They wear light armor, wield a
 sword, and carry a bunch of throwing daggers.
 
 The **sword** is a basic melee attack that allows the captain to shift 1 square
-on a hit. Their a basic ranged attack is a thrown **dagger**. A maneuver named
+on a hit. Their basic ranged attack is a thrown **dagger**. A maneuver named
 **Slash and Dash** (recharge 4+) allows them to make a sword attack, shift 2
 squares and throw a dagger. Their leaderly move is named **Triggering Slash**
 (recharge 5+), a sword attack that on a hit allows an ally to shift 1 square and
@@ -75,7 +75,7 @@ being very sly and convincing.
 
 **Deceptive Maneuver** is an at-will melee power that causes the target to make
 a melee basic attack against an ally of the half-elf's choice. The classic
-"getting between two enemies and make them hit each other".
+"getting between two enemies to make them hit each other".
 
 **Silver Deception** (ranged 10; recharge 5+) does no damage, but dominates the
 target until the end of the con artist's next turn.

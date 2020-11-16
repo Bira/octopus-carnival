@@ -219,6 +219,8 @@ After this, we get right on the monsters:
 
 - S
   - [Sahuagin][155]
+  - [Salamander][156]
+  - [Satyr][157]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -375,3 +377,5 @@ After this, we get right on the monsters:
 [153]: {{ "/2020/11/09/rot-harbinger.html" | relative_url }}
 [154]: {{ "/2020/11/10/rust-monster.html" | relative_url }}
 [155]: {{ "/2020/11/11/sahuagin.html" | relative_url }}
+[156]: {{ "/2020/11/16/salamander.html" | relative_url }}
+[157]: {{ "/2020/11/16/satyr.html" | relative_url }}
