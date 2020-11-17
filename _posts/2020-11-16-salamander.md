@@ -56,9 +56,9 @@ physical damage and ongoing fire damage. It can spin the spear around to form a
 **Whirlwind of Fire** that does the same damage in a Close Burst 3 and recharges
 on a 6.
 
-It can also attack with a Reach 2 **Tail Lash** that's a little than the spear
-and slides the target 1 square. I suppose it will mostly use that for the slide,
-since the spear is better in all other respects.
+It can also attack with a Reach 2 **Tail Lash** that's a little weaker than the
+spear and slides the target 1 square. I suppose it will mostly use that for the
+slide, since the spear is better in all other respects.
 
 ### Salamander Firetail
 

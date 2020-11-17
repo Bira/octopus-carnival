@@ -26,7 +26,8 @@ ability to them (Goblin Tactics, Elven Accuracy, Savage Demise, Fey Step...).
 
 An armored knight that fights with lance and sword. It's highly recommended that
 you give them a mount when building your encounters, though they can give a good
-account of themselves on foot as well.
+account of themselves on foot as well. Horses and griffons are the most common
+cavalier mounts.
 
 The Cavalier is a Level 7 Soldier (Leader) with 78 HP. Their basic attack is a
 **sword** strike that damages and marks on a hit, and they can exploit the mark
@@ -113,7 +114,9 @@ team up with either other assassins, or with some distracting heavies.
 
 This gladiator is described by the book as a "consumate athlete", which isn't
 really the term I'd use to refer to someone forced to fight in deathmatches for
-the amusement of a bloodthirsty crowd.
+the amusement of a bloodthirsty crowd. Still, some of them might end up
+becomming bloodsport celebrities, and this one is powerful enough to fit that
+role.
 
 This particular individual is a Level 14 Elite Soldier with 276 HP, so we're
 either looking at a Spartacus in the making or at the reigning champion of the
@@ -197,3 +200,121 @@ granting combat advantage. That's what the dancer ignores.
 In addition to basic attacks with the **spear** or a **thrown javelin**, the
 dancer can also make a **Mobile Attack** at will, shifting 3 squares and
 attacking with the spear.
+
+## Human Knife Fighter
+
+Knife fighters are rogue-types that are much more focused on acrobatic stabbing
+than on other types of crime, which makes them quite similar to PC rogues when
+you think about it. They also do well in the role of a knife-focused martial
+artist, or the classic super-dangerous lieutenant for a criminal gang whose
+actual boss isn't a fighter.
+
+This knife fighter is a Level 7 Elite Skirmisher with 162 HP. They go unarmored
+(which doesn't affect their defenses, since they're all based on level), and are
+equipped with a dagger and a net.
+
+The net is probably a typo, since none of the fighter's abilities use it, but
+the knife is a **Wounding Dagger** with an ongoing damage rider and the
+High-Crit property. It can also be used in an attack named **Dance of the
+Knife**, where the knife fighter makes two dagger attacks and shifts 2 squares
+between them.
+
+All of these attacks deal extra damage when they have combat advantage, and they
+can also use **Peerless Tumbler** (recharge 5+) to shift 4 squares while
+ignoring difficult terrain.
+
+Very skirmishery, and goes very well with a pack of soldier monsters with
+marking and punishing abilities.
+
+## Human Mystagogue
+
+A divine spellcaster who delves into divine mysteries few mortals can
+understand. Their magic focuses a lot on mind- and perception-affecting
+effects.
+
+Mystagogues are Level 20 Controllers with the Leader keyword and 188 HP. They
+wear robes and carry a holy symbol - all of their attacks are magic.
+
+The basic melee attack is **Mystery's Touch** (vs. Reflex), which deals psychic
+damage and inflicts a -2 penalty to attack the mystagogue until the end if their
+next turn. At range they use **Bend Perception** (ranged 20 vs. Will), which
+deals psychic damage, slows, and inflicts a -2 penalty to all attacks and saves
+until the end of the mystagogue's next turn.
+
+Their special attack is **Awestrike** (close burst 5 vs will), which does the
+same damage as Bend Perception to all it hits, and also slides the targets 6
+squares and dazes them (save ends). The mystagogue also chooses one ally in the
+area to slide 6 squares and heal for 10 HP.
+
+Finally, the mystagogue can use a **Veil of Inscrutability** as a reaction to
+being hit by a melee or ranged attack. This allows them to shift 2 squares and
+gain a +2 bonus to AC and Reflex for a turn.
+
+As opposition, mystagogues pair well with enemies who can exploit combat
+advantage or (save ends) effects.
+
+## Human Noble
+
+Not to be confused with the Insane Noble from a few entries ago. This type of
+noble can still be pretty horrible, but not the "epic-level scuttling nightmare"
+kind of horrible. They're Level 5 Controllers with the Leader keyword and 60 HP.
+
+The Noble wears mail and wields a longsword and a light shield. Their **sword**
+strikes are nothing special, and their actual superpower is ordering people
+around. It's very much meant to be encountered alongside its bodyguard detail,
+which will be made up of more competent fighters. In other words, this is the
+NPC version of the Lazy Warlord.
+
+The noble is **Protected** by their allies, and gains a +2 to all defenses when
+adjacent to at least one of them. **Appoint Champion** is an at-will order that
+allows an ally to make a basic attack and shift 1 square before or after
+it. **Inspirational Authority** is an encounter power that allows one of those
+allies to use any of their attacks as a free action.
+
+The noble can also order _enemies_ around. **Urge Hesitation** is an attack
+against Will that, on a hit, prevents the target from using a standard action in
+its next turn.
+
+## Human Pirate
+
+Yarrr! Pirates are Level 9 Skirmishers with 95 HP, armed with cutlasses. They're
+pretty fast, with a Speed of 7 and a **Rigging Monkey** ability that gives them
+a climb speed of 7 for a turn once per encounter.
+
+Their basic attack is a **Cutlass** strike with no additional riders, but
+they're extra-good at flanking: **Scurvy Dog's Flank** gives them an extra +1 to
+hit and +2d6 bonus damage to all attacks against a flanked target. This stacks
+with combat advantage for a total of +3 to hit.
+
+Their tactics section says they like to stay near the water or near the edge of
+the boat if this is a boarding action, but I see no reason for this.
+
+## Human Pirate Captain
+
+Double Yarrr! The captain is a Level 10 Soldier with the Leader keyword and 104
+HP. It's clearly meant to be used alongside a bunch of Pirates and perhaps a
+small horde of minions.
+
+Their **Cutlass** attacks have a slow (save ends) rider, and they have the same
+Rigging Monkey and Scurvy Dog's Flank abilities as the rest of the
+crew. Captains complement their swordplay with occasional bouts of **Vicious
+Mockery** (minor action; recharge 6+). This doesn't require an attack roll and
+causes a nearby enemy to provoke an opportunity attack from one of the captain's
+allies. When first bloodied, they shout out a **Call to Arms** that allows all
+allies within 10 squares to make a basic melee attack or shift 3 squares as a
+free action.
+
+## Human Slaver
+
+One of the few explicitly Evil stat blocks in this entry, the slaver is an
+unpleasant villain that fights with a mace and a scourge. Their focus is on
+immobilizing enemies for capture, and on inflicting pain. They're level 8 Brutes
+with 102 HP.
+
+Their basic attack is **Thump and Lash**, which deals damage and inflicts a -2
+attack penalty for a turn. They can also use the scourge to perform a **Slaver's
+Tangle** maneuver (recharge 4+) that does all of the above and also immobilizes
+for a turn.
+
+Slavers are meant to be use as part of larger capture teams featuring one or
+more of them plus an assortment of other goons.
