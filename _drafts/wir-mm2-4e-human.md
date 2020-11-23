@@ -32,7 +32,7 @@ cavalier mounts.
 The Cavalier is a Level 7 Soldier (Leader) with 78 HP. Their basic attack is a
 **sword** strike that damages and marks on a hit, and they can exploit the mark
 with two different interrupt abilities. **Champion's Retort** is at-will and
-allows the knight to make a slightly weaker attack against a marked enemy who
+ allows the knight to make a slightly weaker attack against a marked enemy who
 decides to ignore the mark. **Hasty Parry** is an encounter power that forces
 the enemy to target the knight instead, and gives the knight a +3 AC bonus
 against that attack.
@@ -318,3 +318,16 @@ for a turn.
 
 Slavers are meant to be use as part of larger capture teams featuring one or
 more of them plus an assortment of other goons.
+
+## Final Impressions
+
+Between the first Monster Manual, the Vault, and the MM2, you have enough human
+stat blocks that you can include one or more of them in any encounter that
+demands sapient humanoid opposition. The PCs themselves are proof that humans
+work well with members of any other sapient species that share their individual
+goals.
+
+These "generic" stat blocks also work as seasoning for more specialized groups,
+like cultists. It might surprise the PCs a bit if the guy holding the
+sacrificial dagger is an elite knife-fighter instead of a squishy caster, for
+example.
