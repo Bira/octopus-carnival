@@ -43,15 +43,15 @@ client, and gains +1d6 bonus damage when flanking those enemies.
 Arbalesters are animated ballistas! They can move around using wheels or legs,
 and reload themselves. They're used as mobile turrets, and can be ordered to
 watch over a specific area. That same magic-rich society that makes defenders
-could have arbalesters helping defend fortresses or follow patrols around as a
-mobile artillery piece.
+could have arbalesters helping defend fortresses or following patrols around as
+mobile artillery pieces.
 
 Arbalesters are Level 4 Artillery with 43 HP. They move around at Speed 6, and
 have the standard traits of darkvision and immunity to disease and
 poison. They'll attack with improvised **slams** if pressed into melee, but
 their **Bolts** are of course a much better option. They can temporarily
-increase their rate of fire to make a **Double Shot** (recharge 4+), firing a
-bolt at two targets within 5 squares of each other.
+increase their rate of fire to make a **Double Shot** (recharge 4+), firing
+bolts at two targets within 5 squares of each other.
 
 They can be set to **Guard an Area** 5 squares on a side. If any enemy is within
 this area when the arbalester starts its turn, Double Shot recharges
