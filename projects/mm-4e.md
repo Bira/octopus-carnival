@@ -223,6 +223,7 @@ After this, we get right on the monsters:
   - [Satyr][157]
   - [Scorpion][158]
   - [Shadar-kai][159]
+  - [Shambling Mound][160]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -383,3 +384,4 @@ After this, we get right on the monsters:
 [157]: {{ "/2020/11/16/satyr.html" | relative_url }}
 [158]: {{ "/2020/11/23/scorpion.html" | relative_url }}
 [159]: {{ "/2020/11/23/shadar-kai.html" | relative_url }}
+[160]: {{ "/2020/12/03/shambling-mound.html" | relative_url }}
