@@ -32,7 +32,7 @@ cavalier mounts.
 The Cavalier is a Level 7 Soldier (Leader) with 78 HP. Their basic attack is a
 **sword** strike that damages and marks on a hit, and they can exploit the mark
 with two different interrupt abilities. **Champion's Retort** is at-will and
- allows the knight to make a slightly weaker attack against a marked enemy who
+allows the knight to make a slightly weaker attack against a marked enemy who
 decides to ignore the mark. **Hasty Parry** is an encounter power that forces
 the enemy to target the knight instead, and gives the knight a +3 AC bonus
 against that attack.
@@ -67,7 +67,8 @@ All of these attacks can be enhanced by **Hell Blight**, a minor action that
 automatically makes an enemy in sight "blighted". If a blighted enemy takes fire
 damage from the diabolist, they can't recover HP until the end of the
 diabolist's next turn. The blight ends when the fight does, or when the
-diabolist blights someone else.
+diabolist blights someone else. This makes focusing their fire on a sincle PC at
+a time a very effective tactic.
 
 Finally, the **Life From Fire** passive trait gives the diabolist 10 temporary
 HP whenever they take fire damage from any source.
@@ -120,9 +121,8 @@ role.
 
 This particular individual is a Level 14 Elite Soldier with 276 HP, so we're
 either looking at a Spartacus in the making or at the reigning champion of the
-arena that must be taken down before the revolt can start. It wears scale and
-carries a light shield and a gladius, even though the picture shows someone more
-traditionally Roman.
+arena that must be taken down before the revolt can start. He wears armor
+equivalent to scale and carries a light shield and a gladius.
 
 The gladiator has a **Fighting Focus** aura (1) that marks enemies who start
 their turns inside, lasting until the start of their next turns. It's a lot like
