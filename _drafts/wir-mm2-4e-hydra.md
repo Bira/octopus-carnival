@@ -1,0 +1,119 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Hydra"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Hydras made their 4e debut in the first Monster Manual, and here we get a few
+more of them. Their basic lore remains the same and you can check it out on the
+[original post][2] I made on the subject.
+
+The hydras on this entry have several passive traits in common: **Threatening
+Reach** allows them to make opportunity attacks out to their full melee reach,
+instead of only against adjacent enemies. **Many-Headed** makes it resistant to
+being dazed on stunning. These conditions only disable one of its heads for a
+turn. And **Regenerating Heads** causes the hydra to lose a head at 75%, 50%,
+and 25%, regrowing two others at the start of its next turn.
+
+The number of heads an hyda has is important because of **Hydra Fury**, an
+at-will power that allows them to make a bite attack for each active head they
+have. The effect of an individual bite, and the starting number of heads, vary
+per hydra.
+
+Mechanically, MM2 hydras are kind halfway between the ones we saw on the first
+Monster Manual, and the ones from the Monster Vault. Most of their mechanics
+still work like in the MM1, but Regenerating Heads debuts here and reappears in
+a slightly weaker form in the Monster Vault. With the MV version you can prevent
+head regrowth by dealing fire or acid damage to the hydra before the start of
+its next turn, but nothing can stop it in this version.
+
+These hydras are also lacking the Darkvision and Swim Speed of their relatives
+from the other two books, though they still have trained Perception and
+**All-Around Vision** that prevents them from being flanked.
+
+## Razor Hydra
+
+This species of hydra is covered in gleaming metal scales and has extra-sharp
+serrated teeth. It's drawn to the scent of blood in much the same way a shark
+is, and one head bites a victim the others get into a frenzy. Because of this,
+it's also known as the Blood Hydra. They are Large Natural Beasts, and Level 16
+Solo Brutes with 640 HP and a ground speed of 7. They start with four heads,
+gaining extras at 480, 320, and 160.
+
+A razor hydra's **bite** has Reach 2 and inflicts _stackable_ ongoing physical
+damage. A healthy target would take ongoing 5 damage (save ends), but if the
+target was already taking ongoing physical[^1] damage, then that damage would
+increase by 5 instead.
+
+A poor sod on the receiving end of a razor hydra's Fury attack would have
+ongoing _20_ damage (save ends) to deal with, assuming all four bites hit. A
+single save will clear it all, but if that save fails and the hydra bites again,
+the total will increase even further. There's no cap!
+
+The **Blood Frenzy** trait makes it so the hydra gains a +2 bonus to attack
+targets who are bloodied, or who are taking ongoing physical damage. That's
+one more incentive for it to focus fire on a single PC.
+
+Once the hydra drops to 0 HP, its **Ferocity** allows it to make one last Hydra
+Fury attack. At this point it will have seven heads, for a potential 7d8+28
+damage plus 35 ongoing damage against a single PC.
+
+## Heroslayer Hydra
+
+This interestingly-named hydra occupies the same narrative niche as the one
+Hercules faced in his labors. As a Huge Natural Beast and a Level 20 Solo Brute,
+it's likely the most powerful hydra in the natural world, and is stronger than
+any PC who isn't an actual demi-god or equivalent. There are stronger specimens,
+but you have to travel to the Elemental Chaos to find them.
+
+Heroslayer hydras have 776 HP and five heads at the start of the fight, gaining
+new ones at 582, 388, and 194. Its **bites** are Reach 3 and have no riders,
+though its **Hydra Fury** deals 10 extra damage to any target hit by two or more
+bites. **Rampage** allows it to bite every target in reach and inflict 10
+ongoing damage to every target it hits. It recharges whenever the hydra suffers
+a critical hit.
+
+The titular **Heroslayer** trait is a big "Fuck You" to defenders everywhere:
+while the hydra is marked, it gains a +2 bonus to attack and a +5 bonus to
+damage against the creature that marked it. Yes, this applies to every
+individual bite in a Fury combo.
+
+So here we have a hydra with a decent incentive to spread its bites around until
+a defender marks it, when it will instead focus exclusively on the defender
+until they're good and dead.
+
+## Chaos Hydra
+
+This is one of those stronger species native to the Elemental Chaos. Chaos
+Hydras start out with only two heads, but their bites are very strong and
+infused with deadly elemental energies. The new heads it grows when wounded also
+gain new random elemental abilities.
+
+The Chaos Hydra is a Huge Elemental Beast and a Level 22 Solo Brute with 848
+HP. It has two Reach 3 basic bite attacks, one for each head: **Frostfire Bite**
+deals fire and cold damage, and **Storm Bite** deals lightning and thunder
+damage.
+
+Whenever the hydra grows a new head (at 636, 424, and 212 HP), it gains a new
+bite attack chosen by a d4 roll. It can gain multiple copies of the same
+attack. Its **Hydra Fury** allows it to bite with the two original attacks and
+any new ones it might have gained.
+
+The four additional bites deal less base damage but have riders. They are:
+**Crushing Maw**
+
+
+
+
+[^1]: I say "physical", but the strictly correct term would be
+    "untyped". Untyped damage is almost always dealt by physical attacks, but
+    you could have magic powers that also did it. It's written like "1d8+5
+    damage" or "ongoing 5 damage" instead of "1d8+5 fire damage" or "ongoing 5
+    fire damage". Very few monsters resist it, but none are particularly
+    vulnerable to it.
+
+
+
+[2]: {{ "/2020/06/06/hydra.html" | relative_url }}

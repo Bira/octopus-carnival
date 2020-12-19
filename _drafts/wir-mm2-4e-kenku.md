@@ -1,0 +1,161 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Vault 2: Kenku"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Kenku are raven-people, humanoid and human-sized but covered in feathers and
+with raven heads. They organize themselves into clan-like groups called
+flocks. Your typical kenku flock is tightly knit but very distrustful of
+outsiders, including kenku from other flocks. Each follows no laws but their
+own. Despite this, most of them live on or near major cities, and engages in a
+variety of illegal activities to survive.
+
+So yeah. Crime birbs.
+
+Kenku criminals tend to prefer non-violent activities such as grifts and cons,
+where their natural ability to mimic sounds and voices comes in handy. They can
+still fight pretty well if forced to. And despite the stereotyping they're
+typically Unaligned, which means it's definitely possible to find nicer
+individuals and flocks out there. Rural kenku can easily fill the same
+"isolationist but ultimately nice" role as cliche elven villages, and an urban
+flock could be predominantly performers or even a legitimate company for a nice
+change of pace.
+
+## The Numbers
+
+Kenku are Medium Natural Humanoids. They have low-light vision, a ground speed
+of 6, and no innate flight speed despite being birds. They possess two
+interesting signature abilities.
+
+**Flock Effect** makes them good at teamwork: they gain a +3 attack bonus when
+flanking and grant a +3 when using Aid Another, instead of the usual +2 to both
+activities.
+
+**Mimicry** allows them to mimic any sound or voice. You have to win an opposed
+roll of your Insight vs. their Bluff to realize the sound is fake. Not all kenku
+in this entry are trained in Bluff, but the sneakier ones are.
+
+Their levels are all in the early-to-mid Heroic tier, which in my mind means
+they'd be about as common as elves or halflings. They get playable stats at the
+end of this book, but I'm not sure if they ever got a full writeup later on.
+
+### Kenku Ruffian
+
+Your typical crime-birb-on-the-street is a Level 3 Minion Skirmisher. They only
+have a basic **club** attack and the universal signature abilities, so they're
+pretty much civilians despite the name "Ruffian". If forced to fight they rely
+on numbers to hold the line while one or two of them go get help.
+
+### Kenku Warrior
+
+Formally trained in a mobile fighting style, the warrior uses paired daggers and
+moves in a seemingly random pattern about the battlefield. Warriors are Level 3
+Skirmishers with 44 HP.
+
+Their **daggers** can be used as melee or ranged attacks (they carry 6). The
+**Fluttering Attack** maneuver allows them to shift 4 squares and make a dagger
+attack during the movement, and **Combat Advantage** gives them a damage
+bonus. They also have the universal traits, so combat advantage is even better
+for them and they have an easy time acquiring it.
+
+### Kenku Ringleader
+
+Ringleaders lead small gangs of kenku in heists or raids, though they have
+enough sense to sound a retreat if guards or rivals show up in force. They're
+Level 4 Soldiers with the Leader tag and 54 HP. They're trained in Bluff and
+and Intimidate.
+
+They use a **spiked chain** in melee and a **sling** at range. The chain attack
+is Reach 2 and marks on a hit. They **Press the Attack** maneuver is a chain
+strike that targets a marked enemy, does the usual damage, and knocks them prone
+on a hit.
+
+They have the two standard kenku traits, and they can use **Flock Reaction**
+(minor; recharge 4+) to allow every ally in a close burst 3 to shift 1
+square. Perfect for allowing them to disengage and retreat, or finish setting up
+a flanking maneuver.
+
+### Kenku Sneak
+
+The first actual rogue in the crime birb entry, Sneaks are Level 4 Lurkers with
+42 HP. They have a higher than usual speed of 7, and they fight with **daggers**
+both in melee and at range. They're trained in Bluff, Stealth, and Thievery.
+
+As the name implies, the Sneak engages with 4e's Stealth rules, which dictate
+when someone can make a Stealth check to become "hidden" during combat and how
+fast they can move while hidden. I think that by default your speed is limited
+to 2 in that case - move faster and you're detected.
+
+Kenku sneaks have an advantage here in that they can move at speed 4 while
+hidden. Their **Disappear into the Flock** trait allows them to make those
+Stealth checks while they have cover from other kenkus, **Hidden Strike** gives
+them a hefty chunk of extra damage if they attack from hiding, and **Sniper**
+allows them to remain hidden if they miss with a ranged attack.
+
+The tactics outlined by these traits are nifty. A sneak will always appear
+accompanied by a number of warriors or a huge band of ruffians. They'll hide
+among the crowd and move it with, throwing daggers at the squishier PCs for big
+damage from a safe distance.
+
+### Kenku Wing Mage
+
+Though kenku are flightless, it seems they have a magic tradition that seeks to
+correct that injustice. Wing mages practice this tradition, and as a result they
+know a lot of air and force magic as well. They're Level 5 Artillery with 50
+HP. Wielding **daggers** as weapons and implements, wing mages fight with spells
+that create wind and summon flocks of crows made of pure force.
+
+Those force crows can be used in the **Murder of Crows** at-will attack (Ranged
+20 vs. Reflex) which does force damage and makes the target grant combat
+advantage to the wing mage (save ends). They can also be used in the **Death
+Flock** encounter power (area burst 1 within 20 vs. Reflex) which does force
+damage and dazes (save ends).
+
+Their main keep-away spell is **Hurricane Blast** (close burst 3 vs. Fortitude;
+recharge 5+), which does force damage and slides targets 3 squares. And finally,
+**Wings of the Flock** (minor; encounter) gives them a flight speed of 6 until
+the end of the encounter.
+
+The wing mage is going to take off as soon as the fight starts, and will rain
+force crows upon the PCs from a safe elevation. Most ranged magic has a range
+smaller than 20, so the party better have some archers with them.
+
+### Kenku Assassin
+
+Either an actual killer-for-hire or an elite combatant. Assassins love poison
+and unlike most other kenku they rarely surrender. They're Level 5 Elite
+Skirmishers with 126 HP. They fight with envenomed **daggers** and a
+**shortbow** with envenomed arrows, both of which slow the enemy on a hit (save
+ends).
+
+They have the same Fluttering Attack as the warriors, and when attacked they can
+use **Gouging Talons** as a reaction to hit back. If surrounded, **Feather
+Burst** (close burst 2; encounter) can automatically blind every enemy in the
+area for a turn, allowing them to escape.
+
+Assassins prefer to stay at range, but once in melee they fight much like
+warriors. Their "elite extra attack" is a reaction, so they have an incentive to
+stay in the thick of it. Two of them, or one of them plus a squad of warriors,
+makes for an interesting encounter where no one stands still. They also go well
+with monsters that can exploit the "slowed" status, since they cause that at
+will.
+
+## Sample Encounters and Final Impressions
+
+We have quite a few kenku encounters here, showcasing the sort of monster they
+keep as pets and the sort of allies they make into honorary flock members.
+
+- Level 2: 2 kenku warriors, 2 bloodseeker drakes, 1 pseudodragon. Hunters... or
+  bounty hunters.
+
+- Level 3: 1 kenku ringleader, 8 ruffians, and 2 warriors. The whole gang's
+  here!
+
+- Level 4: 1 human berserker, 1 ringleader, 6 ruffians, 2 sneaks. Another gang,
+  this one with an adopted member.
+
+- Level 5: 1 half-elf bandit captain, 2 human berserkers, 1 kenku assassin, 1
+  kenku wing mage. And this one works the other way around.
