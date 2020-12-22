@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm-4e-skull-lord.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2008 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
+
 I had never read of skull lords before reading about them here, but they have a
 very 3e vibe to them so likely originated there. They are only on the Monster
 Manual.
@@ -87,3 +99,5 @@ in these encounters. If the PCs don't learn to destroy the skull lords first,
 they're gonna have a bad time.
 
 I like these things! They look badass and can be quite dangerous.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
