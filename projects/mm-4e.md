@@ -227,6 +227,7 @@ After this, we get right on the monsters:
   - [Shifter][161]
   - [Skeleton][162]
   - [Skull Lord][163]
+  - [Slaad][164]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -391,3 +392,4 @@ After this, we get right on the monsters:
 [161]: {{ "/2020/12/03/shifter.html" | relative_url }}
 [162]: {{ "/2020/12/13/skeleton.html" | relative_url }}
 [163]: {{ "/2020/12/22/skull-lord.html" | relative_url }}
+[164]: {{ "/2020/12/23/slaad.html" | relative_url }}
