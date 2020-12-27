@@ -9,9 +9,9 @@ tags:
 Kenku are raven-people, humanoid and human-sized but covered in feathers and
 with raven heads. They organize themselves into clan-like groups called
 flocks. Your typical kenku flock is tightly knit but very distrustful of
-outsiders, including kenku from other flocks. Each follows no laws but their
-own. Despite this, most of them live on or near major cities, and engages in a
-variety of illegal activities to survive.
+outsiders, including kenku from other flocks. Each flock follows no laws but
+their own. Despite this, most of them live on or near major cities, and engage
+in a variety of illegal activities to survive.
 
 So yeah. Crime birbs.
 
