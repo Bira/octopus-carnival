@@ -230,6 +230,8 @@ After this, we get right on the monsters:
   - [Slaad][164]
   - [Snake][165]
   - [Sorrowsworn][166]
+  - [Spected][167]
+  - [Sphinx][168]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -397,3 +399,5 @@ After this, we get right on the monsters:
 [164]: {{ "/2020/12/23/slaad.html" | relative_url }}
 [165]: {{ "/2020/12/24/snake.html" | relative_url }}
 [166]: {{ "/2020/12/25/sorrowsworn.html" | relative_url }}
+[167]: {{ "/2020/12/27/specter.html" | relative_url }}
+[168]: {{ "/2020/12/28/sphinx.html" | relative_url }}

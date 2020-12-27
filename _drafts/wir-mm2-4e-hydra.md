@@ -101,10 +101,30 @@ bite attack chosen by a d4 roll. It can gain multiple copies of the same
 attack. Its **Hydra Fury** allows it to bite with the two original attacks and
 any new ones it might have gained.
 
-The four additional bites deal less base damage but have riders. They are:
-**Crushing Maw**
+The four additional bites deal less base damage but have "save ends"
+riders. They are: **Crushing Maw**, which slows and deals ongoing 10 damage;
+**Mind bite**, which dazes; **Paralyzing Fang**, which immobilizes and inflicts
+a -2 penalty to all defenses; and **Venom Tooth**, which inflicts ongoing 10
+poison damage.
 
+Thematically this hydra is all over the place, but that's the point. It's hard
+for PCs to protect themselves against everything it can do.
 
+## Sample Encounters and Final Impressions
+
+Hydras are solitary, so you will usually only find one of them at a
+time. However, they're also frequently followed by opportunistic scavengers who
+feed on the remains of their meals and who might be impatient enough to give
+them a bit of help with killing it. Examples given are carrion crawlers and
+shardstorm vortex elementals.
+
+Occasionally, a powerful character might be able to capture a hydra for use as a
+guardian. The example encounter given is for this scenario, with a razor hydra
+and its minotaur cabalist master.
+
+Hydras are cool, particularly those with the regenerating heads
+mechanic. However, I think they should be used sparingly to prevent the novelty
+from wearing off.
 
 
 [^1]: I say "physical", but the strictly correct term would be
