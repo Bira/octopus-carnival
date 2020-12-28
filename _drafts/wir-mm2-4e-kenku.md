@@ -159,3 +159,7 @@ keep as pets and the sort of allies they make into honorary flock members.
 
 - Level 5: 1 half-elf bandit captain, 2 human berserkers, 1 kenku assassin, 1
   kenku wing mage. And this one works the other way around.
+
+I like these kenku, though as usual I'd make their description as dastardly
+criminals less universal than the book seems to imply. A setting where they're
+as common as the more traditional haflings and elves would be a cool place.
