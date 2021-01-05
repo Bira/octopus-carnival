@@ -9,9 +9,6 @@ tags:
 {::nomarkdown}
 <figure class="right">
   <img src="{{ "/assets/wir-mm-4e-swordwing.png" | absolute_url }}"/>
-  <figcaption>
-    Definitely not a D&D illustration
-  </figcaption>
 </figure>
 {:/nomarkdown}
 

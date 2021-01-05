@@ -234,6 +234,7 @@ After this, we get right on the monsters:
   - [Sphinx][168]
   - [Spider][170]
   - [Stirge][169]
+  - [Swordwing][171]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -405,3 +406,4 @@ After this, we get right on the monsters:
 [168]: {{ "/2020/12/28/sphinx.html" | relative_url }}
 [169]: {{ "/2020/12/28/stirge.html" | relative_url }}
 [170]: {{ "/2020/01/05/spider.html" | relative_url }}
+[171]: {{ "/2020/01/05/swordwing.html" | relative_url }}
