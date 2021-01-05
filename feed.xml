@@ -1,0 +1,1449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octopus Carnival</title>
+    <description>A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.
+</description>
+    <link>https://bira.github.io/octopus-carnival/</link>
+    <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jan 2021 19:31:42 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2021 19:31:42 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Spider</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-spider.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Spiders have been in the game since the beginning. Here, they’re present in both
+the Monster Manual and in the Monster Vault’s animal appendix.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;While some real-world spiders can have a pretty dangerous bite, they’re not
+really suitable as a combat encounter. The books concern themselves with
+monstrous giant spiders instead.&lt;/p&gt;
+
+&lt;p&gt;There are many species of monstrous spider in D&amp;amp;D and they’re
+everywhere. Deserts, forests, caverns (“surface” or Underdark), ruins, anywhere
+a tiny spider would like can be home to a monstrous variety as well. The vast
+majority of them are simply natural creatures, but some are the blessed of
+Lolth and enjoy her divine gifts.&lt;/p&gt;
+
+&lt;p&gt;Predictably, drow love spiders and frequently train them or control them through
+magic to serve in all the same capacities someone on the surface would use a
+dog, horse, or drake for. Kobolds and goblins might also employ them if they’re
+part of the locally available fauna.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All spiders shown here, with one exception, are Natural Beasts with the Spider
+keyword. That keyword is important because, among other things, drow tend to
+have lots of powers that buff spider allies.&lt;/p&gt;
+
+&lt;p&gt;The individual stat blocks vary a lot, but all have some level of Tremorsense,
+and a climb speed equal to their ground speed with the Spider Climb tag
+(obviously). Their basic attack is always a &lt;strong&gt;bite&lt;/strong&gt; and almost always has some
+sort of venom effect associated with it.&lt;/p&gt;
+
+&lt;p&gt;All of the Monster Vault spiders have &lt;strong&gt;Web Walk&lt;/strong&gt;, which allows them to ignore
+web-based difficult terrain. While this isn’t explicitly listed in the Monster
+Manual entries it would be fair to assume all of them have it too.&lt;/p&gt;
+
+&lt;h3 id=&quot;spider-swarm-mv&quot;&gt;Spider Swarm (MV)&lt;/h3&gt;
+
+&lt;p&gt;The least monstrous of the bunch, this is a lot of normal-sized aggressive
+spiders acting as a swarm monster. The swarm is a Level 3 Soldier with 44 HP,
+tremorsense 5 and a speed of 6, along with the usual swarm resistances and
+vulnerabilities.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows enemies caught inside instead of granting
+extra attacks. They attack with a &lt;strong&gt;Swarm of Fangs&lt;/strong&gt; that targets Reflex because
+they get inside your armor. It has an ongoing poison damage rider (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;deathjump-spider-both&quot;&gt;Deathjump Spider (Both)&lt;/h3&gt;
+
+&lt;p&gt;These Medium spiders are Level 4 Skirmishers with 55 HP. They have tremorsense
+5, resist poison 5, and a speed of 6. Though they have Web Walk, they’re not big
+spinners themselves, and hunt by jumping on their prey.&lt;/p&gt;
+
+&lt;p&gt;The stats for the spider’s bite are a bit wonky in the MM version: compared to
+what the updated math says, their attacks are woefully inaccurate and abnormally
+strong. The MV version fixes this. In both cases, the rider is ongoing poison
+damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;The deathjump spider’s special attack is &lt;strong&gt;Death From Above&lt;/strong&gt;, in which the
+spider shifts up to 6 squares by jumping and makes a bite attack at the end. If
+that hits, the target is also knocked prone. The MM version also does increased
+base damage.&lt;/p&gt;
+
+&lt;p&gt;It can also make a &lt;strong&gt;Prodigious Leap&lt;/strong&gt; as a move-action encounter power, which
+allows it to shift 10 squares. So this spider could initiate combat by jumping
+at the party’s wizard from a full 16 squares away!&lt;/p&gt;
+
+&lt;p&gt;The MM gives it another trait, &lt;strong&gt;Soft Fall&lt;/strong&gt;, allowing it to ignore the first 30
+feet of height of any fall. This is absent from the MV version, probably because
+they thought it was a bit too finicky.&lt;/p&gt;
+
+&lt;h3 id=&quot;bloodweb-spider-swarm&quot;&gt;Bloodweb Spider Swarm&lt;/h3&gt;
+
+&lt;p&gt;A more powerful version of the MV swarm, these spiders have been brought
+together and are controlled by magic. Without orders, they’ll default to
+attacking the nearest living creature until it dies before moving on to the next
+victim.&lt;/p&gt;
+
+&lt;p&gt;This swarm counts as a Level 7 Soldier with 80 HP. It otherwise works just like
+the level 3 swarm, except that it’s slower at speed 4 and its aura &lt;em&gt;does&lt;/em&gt; grant
+free basic attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;doomspinner-spider-mv&quot;&gt;Doomspinner Spider (MV)&lt;/h3&gt;
+
+&lt;p&gt;This chunky Large spider does spin elaborate webs to catch prey with. It’s a
+Level 7 Controller with 82 HP, Tremorsense 10, Resist Poison 5, and speed 6.&lt;/p&gt;
+
+&lt;p&gt;Their bite also has an ongoing poison damage rider, which increases if the
+target of the bite is restrained, immobilized, stunned, or unconscious. Its
+special attack is &lt;strong&gt;Web Casting&lt;/strong&gt; (area burst 1 within 5 vs. Reflex), which does
+no damage but restrains everyone it hits. The area of the burst becomes
+difficult terrain until the end of the encounter.&lt;/p&gt;
+
+&lt;p&gt;As a minor action the doomspinner can also shoot a strand of webbing at someone,
+in an attack named &lt;strong&gt;Drawn to Doom&lt;/strong&gt; (Ranged 5 vs. Fortitude), which does no
+damage but pulls the target 4 squares.&lt;/p&gt;
+
+&lt;p&gt;Though doomspinners can restrain enemies by themselves, they also pair really
+well with other monsters that can inflict the conditions that increase the
+effectiveness of their venom. “Multiple doomspinners” is the obvious setup, but
+there are plenty of other options.&lt;/p&gt;
+
+&lt;h3 id=&quot;blade-spider-mm&quot;&gt;Blade Spider (MM)&lt;/h3&gt;
+
+&lt;p&gt;These Large spiders have two blade-like front legs, and attack with them instead
+of biting. They live in the Underdark and are popular drow pets, having the
+Mount keyword.&lt;/p&gt;
+
+&lt;p&gt;Blade spiders are Level 10 Brutes with 130 HP, tremorsense 10, and
+speed 6. Unlike most of their relatives, they have no resistance to
+poison. Their basic attack is a &lt;strong&gt;Claw&lt;/strong&gt; with a rider that does ongoing poison
+damage and weakens (save ends both). They can make &lt;strong&gt;double attacks&lt;/strong&gt; with that.&lt;/p&gt;
+
+&lt;p&gt;When used as mounts, they can make &lt;strong&gt;combined attacks&lt;/strong&gt;, which means they attack
+with a claw as a free action when their rider makes an attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;cave-spider-mv&quot;&gt;Cave Spider (MV)&lt;/h3&gt;
+
+&lt;p&gt;These Medium spiders likely behave as a scaled-up swarm, with their size and
+numbers being such that you can track them individually. They’re level 12 Minion
+Skirmishers with tremorsense 5, resist poison 10 and speed 6.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does the usual fixed minion damage, with additional poison damage
+on top if the target is immobilized, restrained, stunned or unconscious. They
+can also use a &lt;strong&gt;Tethering Web&lt;/strong&gt; (ranged 10 vs. Reflex) as a minor action to
+immobilize someone for a turn.&lt;/p&gt;
+
+&lt;p&gt;Combine a small horde of these with a leveled-up doomspinner or three, and your
+PCs are going to have a bad time.&lt;/p&gt;
+
+&lt;h3 id=&quot;demonweb-terror-mm&quot;&gt;Demonweb Terror (MM)&lt;/h3&gt;
+
+&lt;p&gt;Native to the Demonweb Pits, these are the true blessed of Lolth. They’re Huge
+Elemental Beasts with the Spider keyword. All the other spiders in this entry
+are simple Unaligned animals with Int 1, but terrors have Int 8 and are Chaotic
+Evil. You can try to talk to them if you know Abyssal, but that will do you no
+good.&lt;/p&gt;
+
+&lt;p&gt;Demonweb Terrors are Level 14 Elite Controllers with 296 HP, tremorsense 10, and
+a speed of 6. Interestingly, they have no poison resistance, though perhaps they
+should.&lt;/p&gt;
+
+&lt;p&gt;Their bite carries a venom that does ongoing poison damage and slows (save
+ends). As a 1/round minor action they can shoot a &lt;strong&gt;web&lt;/strong&gt; (ranged 10 vs. Reflex)
+that does no damage and immobilizes (save ends). After they’re first bloodied,
+they can use the &lt;strong&gt;Poison Spray&lt;/strong&gt; encounter power (close blast 5 vs. Fortitude)
+that has the same effects as the bite’s rider over the whole area.&lt;/p&gt;
+
+&lt;p&gt;These feel a tiny bit underpowered - they were likely only made Elite to pad out
+their HP. However, they likely work well when accompanied by other monsters who
+can capitalize on the immobilization and slowness they inflict.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The MM gives us 2 sample encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 11: 2 blade spiders, 2 bloodweb spider swarms, 1 drow blademaster.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 15: 1 demonweb terror, 1 drow arachnomancer, 2 drider fanglords and 3
+drow warriors.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As you can see, the book goes all-in on the whole Lolth connection. Any
+encounter with drow is likely to involve spiders. And while the lower-level
+spiders will likely be found as dungeon wildlife, the more powerful ones will
+very often be accompanied by drow as well.&lt;/p&gt;
+
+&lt;p&gt;I think giant spiders are a classic dungeon denizen, and work well when used in
+moderation. Of course, drow are known for despising the concept of moderation
+when it comes to arachnids.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/05/spider.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/05/spider.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Are Mecha Silly?</title>
+        <description>&lt;p&gt;Recently I saw someone start a thread on the RPG.net forum, with the title “Why
+are mecha silly?”. The person in question was of the opinion that not only were
+mecha not silly, they were &lt;em&gt;plausible&lt;/em&gt;, and went on to list reasons they thought
+so.&lt;/p&gt;
+
+&lt;p&gt;Of course, all of those were swiftly debunked by posters, but I think the thread
+kinda got away from the main point after a while. So I thought I’d write a bit
+about this subject here.&lt;/p&gt;
+
+&lt;p&gt;The thread’s title had a bit of an unfortunate framing, because it started from
+the premise that mecha &lt;em&gt;are&lt;/em&gt; silly even though its opening poster didn’t think
+so. A better question to ask might be “Are Mecha Silly?”&lt;/p&gt;
+
+&lt;p&gt;My answer is somewhat nuanced, but it can still be summed up as “No”. Giant
+robots are definitely &lt;em&gt;cinematic&lt;/em&gt;, but they’re not inherently sillier than any
+other cinematic trope. It’s all about the context.&lt;/p&gt;
+
+&lt;p&gt;I’m using “mech” and “mecha” here to mean a humanoid (or at least legged)
+piloted machine that’s used in about the same role as an armored fighting
+vehicle or tank. Non-combat versions are usually used as heavy construction
+equipment.&lt;/p&gt;
+
+&lt;p&gt;These are some of the traditional excuses for mecha: Legs make them able to
+handle any terrain type better than wheels or threads. A humanoid form makes
+them more agile and versatile than traditional vehicles. Something about the
+specific technology used to build them makes them better weapons than
+traditional vehicles (this last one varies per setting).&lt;/p&gt;
+
+&lt;p&gt;None of these would hold up under scrutiny under a strictly realistic
+setting. While some people are building smaller autonomous robots and
+experimenting with load-bearing skeletons, building a giant mech is still far
+beyond us and the general consensus on that seems to be that it’s not worth the
+effort. Better to work at improving the specialized vehicles we know than
+worrying about leg movement and the ground pressure exerted by two giant metal
+feet.&lt;/p&gt;
+
+&lt;p&gt;As you get more cinematic mecha become a better fit. An “action movie setting”
+that makes you accept some people do the impossible because they’re just that
+badass shouldn’t have a lot of trouble selling the idea that sometimes tanks
+have legs. Full Metal Panic in its more serious moments is a good example of
+this. The show itself is silly most of the time, but the robot fights are trated
+in a more serious cinematic manner.&lt;/p&gt;
+
+&lt;p&gt;Science fictional settings have more leeway than contemporary ones, because the
+same classical excuses are still valid and it’s easier to assume that the
+practical engineering concerns have been solved in the future. A lot of the
+Gundam shows are in this territory, as are many other similar franchises.&lt;/p&gt;
+
+&lt;p&gt;And that’s just the shows that even bother to offer up excuses! You see, there
+are two main “sub-genres” of mecha shows. The ones that bother to think about
+excuses and to insert their mecha into a wider military context are called “Real
+Robot” shows. The original Mobile Suit Gundam back in 1979 was the first of
+these.&lt;/p&gt;
+
+&lt;p&gt;The other side of the coin are “Super Robot” shows, who don’t even bother with
+that. Sometimes a 12-year old kid just inherits a fifteen story tall robot from
+his dad, and flies that robot out of the secret hangar at the bottom of his
+swimming pool to fight space monsters. Super Robot shows date from the early
+seventies, and their overall aesthetic is closer to that of a gold or silver age
+supers story than “proper” science fiction. They require the same kind of
+suspension of disbelief. If you can accept Superman, you can accept Mazinger Z.&lt;/p&gt;
+
+&lt;p&gt;Whether Real or Super, no type of mecha is inherently silly as long as you place
+it in the type of story it was meant to go in. Just like any other cinematic
+trope.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/01/mecha.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/01/mecha.html</guid>
+        
+        <category>opinion</category>
+        
+        <category>gurps</category>
+        
+        <category>lancer</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Stirge</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-stirge.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Stirges have been in the game at least since the days of Basic. Here, they are
+both in the Monster Manual and in the Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Stirges are another example of dangerous fantasy wildlife in the implied Fourth
+Edition setting. Looking like a cross between a large bat and a mosquito, these
+things feed on blood and will attack any nearby creature in search of it when
+hungry. While a mosquito can be dangerous because it transmits diseases, a
+stirge is large enough for the blood loss it causes to be worrying. A flock of
+them could exsanguinate an adult human in minutes.&lt;/p&gt;
+
+&lt;p&gt;Like bats, they nest in dark places and tend to hunt at night. They’re a common
+enough threat that anti-stirge measures are a part of every culture. Ship crews,
+for example, spread unpleasant-smelling unguents in their cargo holds to prevent
+stirges from nesting there. Sheperds and ranchers absolutely hate them and have
+their own set of measures.&lt;/p&gt;
+
+&lt;p&gt;Any dark dungeon might be home to a flock of stirges, making them one of the
+many dangers adventurers must always be wary of. A large enough flock can
+threaten even seasoned veterans!&lt;/p&gt;
+
+&lt;p&gt;Since they’re considered vermin by the people of the world, they also have all
+the same sinister associations worms and rats and such get. Particularly gross
+necromancers love filling the body cavities of a large, bloated zombie with a
+flock of stirges, which burst out when their carrier is slain. Optionally the
+stirges might be zombies as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Stirges are Small Natural Beasts, which does mean they might get as big as three
+feet across (halfling-sized!). They have darkvision, a flight speed of 6 with
+Hover, and a pathetic ground speed of 2. Their main attack is always a “bite”
+with their blood-sucking proboscis-beak thing, but the exact mechanics of that
+vary per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;stirge-both&quot;&gt;Stirge (Both)&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 1 Lurker with 22 HP and the common traits above. The
+&lt;strong&gt;bite&lt;/strong&gt; is its only attack. It does damage and grabs the target (escape DC
+12). While the target is grabbed, it takes 5 ongoing damage from the
+blood-sucking. While the stirge is grabeed, it gains +5 to AC and Reflex.&lt;/p&gt;
+
+&lt;p&gt;The MM version has an extremely weak bite even for a level 1 monster (1d4
+damage), but the MV updates that to be in line with the new math (1d4+5).&lt;/p&gt;
+
+&lt;p&gt;While a single stirge is not a big threat to a full party, it’s terrifying to a
+civilian!  Non-combatants are likely minions, and if not they’re unlikely to
+have much more than 10 or 15 HP. A stirge like the above could be nesting in any
+given dark hole near the poor schmuck’s farm, and could kill them in one bite
+and &lt;em&gt;maybe&lt;/em&gt; a round or two of blood-sucking. The civilian is also more likely to
+meet the stirge than a goblin or the like, and of course it will never be just
+one stirge.&lt;/p&gt;
+
+&lt;h3 id=&quot;stirge-suckerling-mv&quot;&gt;Stirge Suckerling (MV)&lt;/h3&gt;
+
+&lt;p&gt;A young stirge that’s already quite hungry. It’s a Level 5 Minion Lurker, which
+means it comes in hordes.&lt;/p&gt;
+
+&lt;p&gt;Their only attack is the usual &lt;strong&gt;bite&lt;/strong&gt;, which does a bit of damage and
+initiates a grab (escape DC 15). While the grab persists, the suckerling can
+only make bite attacks against the grabbed target, but those hit
+automatically. The target also takes ongoing damage equal to the number of
+suckerlings attached to it, so be sure to make them gang up on the
+squishies. Now there’s a nice mental image for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;death-husk-stirge-mv&quot;&gt;Death Husk Stirge (MV)&lt;/h3&gt;
+
+&lt;p&gt;An undead stirge used as filling for a Bloated Zombie Surprise. It’s a Small
+Natural Animate (undead), and a Level 6 Skirmisher with 71 HP. It has
+darkvision, an immunity to poison, and 10 resistance to necrotic damage. It has
+the usual stirge ground speed of 2 and flight speed of 6, but if it’s hit by
+radiant damage it loses the ability to fly for a turn (and falls if it was in
+the air).&lt;/p&gt;
+
+&lt;p&gt;Death husk stirges won’t stick to you, but they’ll still suck your blood. The
+&lt;strong&gt;Rotted Blood&lt;/strong&gt; attack (close blast 3 vs. Fortitude) allows them to spit the
+blood stored inside their purulent intestines, dealing necrotic damage and
+blinding those it hits for a turn. Undead in the blast can shift 2 squares as a
+free action. This is an encounter power, but hitting someone with the basic
+&lt;strong&gt;bite&lt;/strong&gt; attack allows the stirge to recharge it.&lt;/p&gt;
+
+&lt;p&gt;As a move action, they can use &lt;strong&gt;Nimble Wing&lt;/strong&gt; to fly 4 squares without
+provoking opportunity attacks. When they hit 0 HP, they burst and those purulent
+intestines produce a cloud of &lt;strong&gt;Necrotic Miasma&lt;/strong&gt; (close burst 2 vs. Fortitude),
+which deals a bit of necrotic damage and weakens for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;dire-stirge-both&quot;&gt;Dire Stirge (Both)&lt;/h3&gt;
+
+&lt;p&gt;Indeed, like every bit of natural fauna in the setting, stirges have a dire
+version. They’re larger, but not quite large enough to go up a size
+category. They are however a lot meaner, being level 7 Lurkers with 60 HP.&lt;/p&gt;
+
+&lt;p&gt;Aside from the usual increased numbers due to being higher level, dire stirges
+do 10 ongoing damage while attached and have an escape DC of 16. They are
+otherwise mechanically identical to the level 1 variety.&lt;/p&gt;
+
+&lt;h3 id=&quot;stirge-suckerling-swarm-mv&quot;&gt;Stirge Suckerling Swarm (MV)&lt;/h3&gt;
+
+&lt;p&gt;For when you have so many suckerlings in play it becomes impractical to track
+them individually. This swarm is a Level 10 Brute with 128 HP, and counts as a
+Medium Natural Beast. It has a ground speed of 2 and a flight speed of 6.&lt;/p&gt;
+
+&lt;p&gt;This has the usual swarm traits. Its &lt;strong&gt;aura&lt;/strong&gt; (1) makes anyone caught inside
+begin taking 5 ongoing damage (save ends). If the victim is already taking
+untyped ongoing damage, that damage increases by 5, with no stated limit. It’s a
+nice way to model an incresing number of tiny stirges attaching themselves to
+the victim.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm of Suckerlings&lt;/strong&gt; basic attack deals good damage and ongoing 5 damage
+(save ends), so it can step up the aura’s timetable a bit.&lt;/p&gt;
+
+&lt;p&gt;When an adjacent enemy moves away from the swarm, it can use &lt;strong&gt;Hungry Flight&lt;/strong&gt;
+as an immediate reaction, flying up to its speed so it’s adjacent to the target
+again. This does not provoke opportunity attacks!&lt;/p&gt;
+
+&lt;h3 id=&quot;stirge-swarm-monster-manual&quot;&gt;Stirge Swarm (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;What you get when those suckerlings grow up. This swarm is a Medium, Level 12
+Brute with 141 HP. Being a MM monster, it’s a bit simpler. Aside from the usual
+swarm traits, it has a basic attack that deals ongoing damage (save ends), and
+an aura that allows it to make basic attacks against anyone caught inside as
+free actions.&lt;/p&gt;
+
+&lt;p&gt;You’re probably better off leveling up the suckerling swarm.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;You can’t really tame stirges, since they’ll attack anything that has blood, but
+sometimes kobolds and goblins use captured stirges as traps. Trigger the trap,
+release the swarm! They can also be encountered as indiscriminate opportunists,
+or in coincidental cooperation with things they won’t feed on.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters provide two such examples of this: the first is 2 dire
+stirges and 3 bloodweb spider swarms, the second 3 stirge swarms and a flesh
+golem.&lt;/p&gt;
+
+&lt;p&gt;The “Large zombie minion full of undead stirges” setup has been hinted at
+above, as well. For Maximum Carnage you could add the undead traits to a stirge
+swarm stat block to get a swarm of death husk stirges.&lt;/p&gt;
+
+&lt;p&gt;I usually wouldn’t be very enthusiastic about stirges, but now I kinda want to
+use the Zombie Surprise at least once.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/28/stirge.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/28/stirge.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Sphinx</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-sphinx.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Mufasa is having a bad day. Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Sphinxes are inspired by Greek and Egyptian mythology and have been in the game
+at least since BECMI. Here, they are only on the Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;A sphinx is a holy guardian created in antiquity to protect a sacred place like
+a tomb, temple, or shrine. In this task they can be found alone or in pairs, and
+sometimes they also command other, lesser guardians. The ritual that creates
+them is rare and powerful, binding an angelic spirit to the body of a celestial
+lion.&lt;/p&gt;
+
+&lt;p&gt;Why would someone create a sphinx instead of a golem? There’s the matter of
+style, of course. Golems would be preferred by a certain type of arcane caster,
+while sphinxes feel like something a deity would allow its greatest servants to
+make. There are also practical advantages: sphinxes are both sapient and quite
+smart, so they can follow the intended spirit of their orders, and better
+distinguish between people who are allowed to be there and people they should
+eat.&lt;/p&gt;
+
+&lt;p&gt;One way they do this is through the &lt;em&gt;sphinx’s challenge&lt;/em&gt;, where they try to
+ascertain if someone has a right to be at the guarded location or not. Riddles
+are a classic, but a sphinx can also ask for proof of ancestry, the solution to
+an ethical or theological puzzle, or even just a specific password. The sphinx
+is bound to let someone who passes the test proceed unmolested, though it’s
+still going to attack if the visitors try to damage or rob the guarded location.&lt;/p&gt;
+
+&lt;p&gt;That’s all the book has to say about sphinxes, but I think we can speculate a
+bit as well. Unlike most of other “guardian creatures” we saw so far, sphinxes
+are neither constructs nor undead, yet the text implies they’re just as capable
+of guarding their designed site for eternity. So I think it’s fair to say that
+they are immune to age, hunger, thirst and possibly even sleep, at least when
+performing their mission.&lt;/p&gt;
+
+&lt;p&gt;While the books emphasize the role of sphinxes as the guardians of “ancient” and
+“forgotten” places, I think it’s also quite possible for them guard places that
+are neither. Maybe the Pelorite cathedral or the big Temple-Library of Ioun have
+a pair of sphinxes posted at their front entrance, even though they’re built
+right in the middle of major population centers. Sphinxes are perfect for this
+because they’re intelligent, and so they’re not going to attack innocent
+visitors by mistake like a golem would.&lt;/p&gt;
+
+&lt;p&gt;A good sphinx might be hamstrung by overly specific or ethically questionable
+bindings, though, so you could also have a scenario where a party carefully
+helps the creature to free itself from its duties without triggering a fight.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;There’s only one stat block, so we’ll get right on it. Sphinxes are Large
+Immortal Magical Beasts, and Level 16 Elite Soldiers with 304 HP. They have
+trained Perception, Darkvision, plus a ground speed of 6, a flight speed of 8
+(clumsy) and Overland Flight 10.&lt;/p&gt;
+
+&lt;p&gt;Their signature trait is the &lt;strong&gt;Sphinx’s Challenge&lt;/strong&gt;, which gives us mechanics
+for the concept described in the lore section: the sphinx will pose an out of
+combat challenge to any potential intruders, and it can take whatever form the
+GM thinks is appropriate. If the challenged party refuses to answer, or gets the
+answer wrong, the sphinx will gain 1 extra action point and a +2 to attack,
+damage, and defenses in the ensuing combat. Note that attacking the sphinx
+before it can make its challenge counts as a refusal to answer! I think the only
+case where the party can fight a sphinx without these bonuses is if they pass
+the challenge and are later caught robbing the guarded place.&lt;/p&gt;
+
+&lt;p&gt;In combat, this sphinx is a straightforward physical threat. It attacks with
+&lt;strong&gt;claws&lt;/strong&gt;, it can &lt;strong&gt;pounce&lt;/strong&gt; to make a charge and knock the target prone on a
+hit, and it has a &lt;strong&gt;frightful roar&lt;/strong&gt; (close burst 10 vs. will) which gives
+victims a -2 penalty to defense (save ends). It can also use a &lt;strong&gt;Second Wind&lt;/strong&gt;
+once per encounter, which works like the PC version: the sphinx heals 75 HP and
+gains +2 to all defenses for a turn.&lt;/p&gt;
+
+&lt;p&gt;It’s of course possible for the sphinx to know all sorts of rituals, and for the
+GM to create custom sphinxes with the common traits above and a more magical
+selection of combat abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is level 15: 1 sphinx, 1 battle guardian, and 2 helmed
+horrors. Indeed, a sphinx is smart enough that it could be given command of
+those guardian constructs and employ them in interesting ways.&lt;/p&gt;
+
+&lt;p&gt;I like the concept of sphinxes, and I kinda want to run an adventure where the
+sphinxes at the Temple-Library of Ioun are upstanding members of their community
+and know everyone in the city by name.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/27/sphinx.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/27/sphinx.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Specter</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-specter.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Specters have been in the game since the beginning, and here they’re only on the
+Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;When I talked about ghosts, I mentioned that every single synonym for that word
+used to be its own entirely separate type of incorporeal undead, and that 4e
+consolidated that a bit but not entirely. Specters are one of the undead that
+retained their own entry.&lt;/p&gt;
+
+&lt;p&gt;Specters are incorporeal undead that can form “naturally” when an evil murderer
+or other equally depraved villain dies. Unlike a ghost, they don’t retain any
+memory of their life, and aren’t bound to a particular location. However,
+they’re just as evil as they always were, and their new hatred of the living
+ensures they keep looking for people to kill.&lt;/p&gt;
+
+&lt;p&gt;Specters tend to cling to other equally malevolent undead, and will sometimes
+ally with evil living beings if that would ensure a steady supply of victims.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Specters are Medium Shadow Humanoid with the Undead keyword. They have
+darkvision as well as both the &lt;strong&gt;insubstantial&lt;/strong&gt; and &lt;strong&gt;phasing&lt;/strong&gt; traits. If
+you’re using Monster Vault-era rules this means they take half damage from
+everything but force attacks, but when specters were published they took half
+damage from all sources. Their HP is a bit lower than their level would
+indicate, so being insubstantial doesn’t make fights last that much longer.&lt;/p&gt;
+
+&lt;p&gt;As undead, they’re immune to disease and poison and have some degree of necrotic
+resistance and radiant vulnerability. They have no ground speed, but they fly,
+and it’s not like you can force a specter to land.&lt;/p&gt;
+
+&lt;h3 id=&quot;specter&quot;&gt;Specter&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 4 Lurker with 30 HP and all the traits mentioned
+above. It flies at speed 6, has 10 necrotic resistance, and 5 radiant
+vulnerability.&lt;/p&gt;
+
+&lt;p&gt;The specter has a &lt;strong&gt;Spectral Chill&lt;/strong&gt; aura (1), which inflicts a -2 penalty to
+all enemy defenses. It attacks with a &lt;strong&gt;Spectral Touch&lt;/strong&gt; that targets Reflex and
+does necrotic damage. It can also unleash a &lt;strong&gt;Spectral Barrage&lt;/strong&gt; (close burst 2
+vs. Will) which does psychic damage and knocks prone. This is likely some sort
+of scary illusion.&lt;/p&gt;
+
+&lt;p&gt;As a standard action, the specter can become &lt;strong&gt;invisible&lt;/strong&gt; until it attacks or
+is hit by an attack. It will likely alternate between attacking from
+invisibility, and retreating while invisible.&lt;/p&gt;
+
+&lt;h3 id=&quot;voidsoul-specter&quot;&gt;Voidsoul Specter&lt;/h3&gt;
+
+&lt;p&gt;This is either the specter of someone really evil, or a basic model that has
+grown bloated through years of post-mortem murder. It’s a Level 23 Lurker with
+115 HP. Its necrotic resistance increases to 30, and its radiant vulnerability
+to 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spectral Touch&lt;/strong&gt; works the same with bigger numbers. The &lt;strong&gt;Spectral Chill&lt;/strong&gt;
+aura is stronger, dealing 10 cold damage to enemies caught inside in addition to
+inflicting the same -2 defense penalty. Its special attack is &lt;strong&gt;Life Siphon&lt;/strong&gt;
+(Close Blast 5 vs. Fortitude; encounter) which deals necrotic damage and makes
+the specter heal 5 HP for every target damaged by it. Finally, its
+&lt;strong&gt;invisibility&lt;/strong&gt; works the same but becomes a 1/round minor action instead of a
+standard one.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter has a basic specter, a deathlock wight, and a bunch of
+zombies and skeletons.&lt;/p&gt;
+
+&lt;p&gt;Specters feel to me like one of those monsters that should have been rolled into
+the “Ghost” entry. They don’t have much to distinguish them from ghosts or from
+wraiths (the other surviving synomym). I’d guess that’s why they didn’t make the
+Monster Vault.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/27/specter.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/27/specter.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Sorrowsworn</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-sorrowsworn.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I believe Sorrowsworn started out as a type of Forgotten Realms demon in 2e, but
+now they’re something different. They’re only on the Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Sorrowsworn resemble undead demons in appearance, though they’re neither demons
+nor undead. Rather, they’re a sort of living avatar of death. Does that sound
+contradictory to you? Deep mysteries tend to be like that.&lt;/p&gt;
+
+&lt;p&gt;You see, they’re not a natural species. Most are divine servitors of the Raven
+Queen, transformed into their current state by her powers. Some were mortals
+particularly attuned to death and its related concepts who managed to ascend on
+their own.&lt;/p&gt;
+
+&lt;p&gt;Both types were often shadar-kai in their mortal lives. Becoming sorrowsworn is
+seen by them as a glorious ascension, since it makes them not only ageless but
+also more goth than anything mortal.&lt;/p&gt;
+
+&lt;p&gt;Sorrowsworn feed on grief, and so tend to hang out at the sites of great
+catastrophes or conflicts. Those who serve the Raven Queen are also tasked with
+hunting down beings who have cheated death. This doesn’t mean people who were
+the subject of Raise Dead - rather, it’s people who have found a way to stick
+around beyond their appointed time. Most often they’re some sort of undead like
+vampires, liches or nightwalkers, but I guess someone who hunts phoenixes and
+regularly huffs their powdered feathers would fit as well.&lt;/p&gt;
+
+&lt;p&gt;Sorrowsworn lairs are bleak caves and pits whose walls are covered in tiny
+alcoves containing trophies from their past victims. These are arranged in
+tableaus that each tell a more depressing story than the last. Flocks of
+shadowravens (sinister half-spirit birds) hang out in these lairs, and swarm to
+attack intruders. These swarms also often fly out with their sorrowsworn
+masters, acting as heralds and allies to them in combat.&lt;/p&gt;
+
+&lt;p&gt;Their greatest enemies are the Nightwalkers, since they are anathema to all of
+the Raven Queen’s precepts. Death Giants are also frequent foes. Of course,
+despite their opposition to undeath they’re not really that nice themselves, and
+have their own stuff going on when they’re not on holy missions for the Raven
+Queen. That means they can easily end up fighting your PCs even when none of
+them are guilty of cheating death.&lt;/p&gt;
+
+&lt;p&gt;As sorrowsworn like to fight with scythes, I figure the symbol of death in 4e’s
+implied setting isn’t a robed skeleton, but a sorrowsworn. At least when it’s
+not an image of the Raven Queen.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Sorrowsworn are Medium Shadow Humanoids and have Darkvision. Their signature
+trait is &lt;strong&gt;Bleak Visage&lt;/strong&gt;, a fear effect which inflicts a -2 penalty on melee
+and ranged attacks targetting them (close and area attacks are unaffected).&lt;/p&gt;
+
+&lt;p&gt;They use scythes in combat and their powers are a blend of teleportation and
+psychic attacks. They don’t have any elemental resistances of vulnerabilities,
+which is interesting.&lt;/p&gt;
+
+&lt;h3 id=&quot;sorrowsworn-soulripper&quot;&gt;Sorrowsworn Soulripper&lt;/h3&gt;
+
+&lt;p&gt;This Level 25 Skirmisher has 236 HP and a land speed of 10. Unlike most of its
+colleagues, it fights unarmed, with &lt;strong&gt;claws&lt;/strong&gt; that do a mix of physical and
+psychic damage, and deal extra damage when it has combat advantage.&lt;/p&gt;
+
+&lt;p&gt;It will often &lt;strong&gt;Flutter and Strike&lt;/strong&gt; (recharge 5-6), which allows it to teleport
+10 squares and make an attack with combat advantage at the arrival
+point. &lt;strong&gt;Sorrow’s Rush&lt;/strong&gt; is an encounter power that allows it to move 10 squares
+and attack up to three different targets along the movement path.&lt;/p&gt;
+
+&lt;h3 id=&quot;sorrowsworn-reaper&quot;&gt;Sorrowsworn Reaper&lt;/h3&gt;
+
+&lt;p&gt;A Level 27 Soldier with 254 HP, this is likely the one that replaces the robed
+skeleton as the D&amp;amp;D setting’s “grim reaper” figure. It runs and climbs at speed
+8, with Spider Climb.&lt;/p&gt;
+
+&lt;p&gt;It wields &lt;strong&gt;Sorrow’s Scythe&lt;/strong&gt;, which does psychic damage and marks for a
+turn. It can also use a &lt;strong&gt;Reaping Blow&lt;/strong&gt; (recharge 6), which is stronger and
+heals the reaper for 60 HP if it reduces the target to 0.&lt;/p&gt;
+
+&lt;h3 id=&quot;sorrowsworn-deathlord&quot;&gt;Sorrowsworn Deathlord&lt;/h3&gt;
+
+&lt;p&gt;This Level 28 Lurker (Leader) has 204 HP. It’s surrounded by an aura (1) of
+&lt;strong&gt;Mournful Whispers&lt;/strong&gt; that daze any enemies caught inside for a turn. It runs at
+speed 8, flies at speed 10, and has phasing.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Dark Scythe&lt;/strong&gt; deals necrotic and psychic damage, and weakens for a
+turn. It can also &lt;strong&gt;Reap and Fade&lt;/strong&gt; (recharge 3-6), which allows it to make an
+attack, teleport 10 squares, and become insubtantial for a turn in that order.&lt;/p&gt;
+
+&lt;p&gt;This is a lurker that inverts the usual routine! Instead of attacking every
+other turn, it can only &lt;em&gt;be attacked&lt;/em&gt; every other turn, assuming it takes care
+to phase into a wall, floor, or ceiling after it attacks. So it moves in,
+attacks, and is exposed until its next action, when it attacks and moves
+away. Reap and Fade makes it even harder to pin down, as it can move in and use
+the ability to attack and immediately move away again.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadowraven-swarm&quot;&gt;Shadowraven Swarm&lt;/h3&gt;
+
+&lt;p&gt;A shadowraven swarm counts as a Medium Shadow Beast with the Swarm
+keyword. It’s a Level 27 Brute with 296 HP. It has a land speed of 2 and a
+flight speed of 12, and all the standard swarm traits: a Swarm Attack aura, half
+damage from single target attacks, and 10 extra damage from area ones.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Swam of Talons&lt;/strong&gt; that does a mix of physical and
+necrotic damage. Once bloodied, it can use the &lt;strong&gt;Murder’s Wrath&lt;/strong&gt; encounter
+power, allowing it to fly 6 squares, move through other creatures’s squares, and
+make a basic attack against anyone whose square it moves through.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Sorrowsworn tend to group with each other, with deathlords running the show and
+the others following their orders. They’re often accompanied by shadowraven
+swarms, and ride fell wyverns.&lt;/p&gt;
+
+&lt;p&gt;One of the sample encounters here also has them alongside the epic-level
+dragonborn deathknight, which hints that not all of them hate undead.&lt;/p&gt;
+
+&lt;p&gt;Sorrowsworn fill the same niche as rot harbingers: as regulars, they’re supposed
+to be the basic building block for encounters in a late Epic adventure focusing
+on their patron. I feel they work a lot better, though, as they have more
+interesting maneuvers in their stat blocks. They also don’t rely exclusively on
+necrotic damage, so it’s harder to get protection against their attacks.&lt;/p&gt;
+
+&lt;p&gt;I guess this explains why Orcus isn’t likely to usurp the Raven Queen anytime
+soon!&lt;/p&gt;
+
+&lt;p&gt;You can still use sorrowsworn in a campaign where the PCs aren’t likely to
+oppose the Raven Queen. There might very well be renegade sorrowsworn out there,
+and you could also reskin them and make them undead to use as better rot
+harbingers in a campaign focused on opposing Orcus.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Snake</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-snake.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Snakes have been in the game since the beginning. They are present both in the
+Monster Manual and in the animal appendix of the Monster Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Snakes are real world animals, but there’s a huge body of legend surrounding
+them in practically every culture. D&amp;amp;D seems to be partial to the Western
+depiction of snakes as treacherous and deadly, since it has Zehir as one of its
+evil gods.&lt;/p&gt;
+
+&lt;p&gt;Still, this entry focuses on &lt;em&gt;monstrous&lt;/em&gt; snakes. The mundane varieties likely
+behave pretty much as they do in the real world, with a lot of them being
+harmless and the dangerous ones only attacking if they feel threatened.&lt;/p&gt;
+
+&lt;p&gt;Though monstrous snakes are large and aggressive enough to actively hunt people,
+most are still merely dangerous animals. A rare few might be blessed by Zehir,
+though, which makes them sapient, evil, and more powerful.&lt;/p&gt;
+
+&lt;p&gt;Between the two books we have quite a lot of different snake stat blocks.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Snakes are so varied that they have little in common that I can discuss
+here. They’re all beasts, they all have the Reptile keyword, and they all
+bite. That’s it.&lt;/p&gt;
+
+&lt;h3 id=&quot;spitting-cobra-monster-vault&quot;&gt;Spitting Cobra (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;The closest you’ll get to a real snake here. Spitting Cobras are Small Natural
+Beasts, and Level 5 Minion Soldiers. Their &lt;strong&gt;bite&lt;/strong&gt; does poison damage and marks
+for a turn, and their &lt;strong&gt;Blinding Spittle&lt;/strong&gt; (ranged 5 vs. Reflex; recharge 4+)
+does the same damage and blinds (save ends).&lt;/p&gt;
+
+&lt;p&gt;I could see an eccentric kobold artificer firing these out of a cannon, or a
+priest of Zehir summoning them out of thin air.&lt;/p&gt;
+
+&lt;h3 id=&quot;deathrattle-viper-both&quot;&gt;Deathrattle Viper (Both)&lt;/h3&gt;
+
+&lt;p&gt;Pretty much a dire rattlesnake. It inhabits forests, jungles, and caves, though
+they wouldn’t look out of place in a desert either. These vipers are Medium
+Natural Beasts, and Level 5 Brutes with 75 HP. They have low-light vision, and
+resist 10 poison. Their land speed is 4, and they also have a climb speed of 4.&lt;/p&gt;
+
+&lt;p&gt;Their bony tails produce a magically enhanced &lt;strong&gt;Death Rattle&lt;/strong&gt; that acts as an
+aura (2) which inflicts a -2 attack penalty to all enemies inside. This is a
+fear effect.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; allows a secondary attack vs. Fortitude on a hit, which delivers
+their venom in the form of immediate and ongoing poison damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Deathrattle Vipers also appear in the Monster Vault, and are identical aside
+from their updated bite damage. Their low speed makes running away from them a
+feasible tactic even for someone in heavy armor, so they should be paired with
+other monsters that make this more difficult.&lt;/p&gt;
+
+&lt;h3 id=&quot;crushgrip-constrictor-both&quot;&gt;Crushgrip Constrictor (Both)&lt;/h3&gt;
+
+&lt;p&gt;This is what you’d get if all the shit they say about boas and anacondas was
+true. They’re found in jungles, marshes, and underground. Constrictors are Large
+Natural Beasts and Level 9 Soldiers with 96 HP. They have land, climb and swim
+speeds of 6. They’re the other snake that exists in both books.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does damage and grabs on a hit, as the snake quickly coils around
+the target. The escape DC 25 for Athletics and 22 for Acrobatics in the MM, and
+a gentler 17 in the MV.&lt;/p&gt;
+
+&lt;p&gt;Against a grabbed target they can &lt;strong&gt;Constrict&lt;/strong&gt;, which targets Fortitude, does a
+nice chunk of physical damage, and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;No explicit mention is made of how many targets the snake can have grabbed. If
+you’re being relatively realistic, it should be just one. Larger or more
+supernatural versions might be able to coil around multiple unfortunates.&lt;/p&gt;
+
+&lt;h3 id=&quot;flame-snake-monster-manual&quot;&gt;Flame Snake (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A snake from the Elemental Chaos. Not much is written about its origins, so it
+could be a case of parallel evolution or one of those rare instances where
+creatures from the world migrated to the other planes and adapted to them. As
+fire elementals, they can be summoned and controlled by magic.&lt;/p&gt;
+
+&lt;p&gt;Flame Snakes are Medium Elemental Beasts with the Fire and Reptile
+keywords. They’re Level 9 Artillery with 74 HP and Resist Fire 20. They have a
+speed of 6, but can’t climb or swim. They also can’t see in the dark, though
+it’s reasonable to say their incandescent bodies would shed light.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does a mix of physical and fire damage, and they can &lt;strong&gt;Spit
+Fire&lt;/strong&gt; (Ranged 10 vs. Reflex), doing both immediate and ongoing fire damage
+(save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;shadow-snake-monster-manual&quot;&gt;Shadow Snake (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;The blessed of Zehir, these two-headed monsters are made of solid shadow and are
+venerated by Yuan-ti. They’re level 16 Skirmishers with 158 HP. They slither at
+speed 7 and have a climb speed of 7. Their Int is 4: they’re not exactly
+sapient, but are very cunning, and also Evil.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; do physical and ongoing poison damage (save ends), and they can
+make &lt;strong&gt;Double Attacks&lt;/strong&gt; because of the two heads. Once per encounter they can
+make a &lt;strong&gt;Shifting Shadowstrike&lt;/strong&gt;, shifting their speed (7) and biting two
+different targets as they do so.&lt;/p&gt;
+
+&lt;p&gt;Also once per encounter, they can &lt;strong&gt;Vanish Into the Night&lt;/strong&gt;, which makes them
+insubstantial, gives them phasing, and makes them invisible in dim light. All of
+this lasts for a turn and makes for an excellent “escape hatch” when the fight
+starts to go badly. I imagine shadow snakes very rarely fight to the death -
+they’d be smart enough to cut and run.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The Monster Manual seems to think reptiles gotta stick together, so it has a
+bunch of encounters that feature snakes alongside level-appropriate sapient
+reptiles that act as their handlers:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Death rattlers and lizardfolk&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Constrictors and snaketongue cultists (which aren’t reptiles, exactly, but are
+close enough).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Flame Snakes and troglodytes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadow Snakes and yuan-ti.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I imagine you could use death rattlers as “minibosses” in low-level adventures
+featuring kobolds, as well.&lt;/p&gt;
+
+&lt;p&gt;These snakes don’t exactly rock my world, but I feel they’re still a good
+addition to the game.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/24/snake.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/24/snake.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Slaads</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-slaad.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Slaads show up in the AD&amp;amp;D 2nd Edition Monster Manual (though they might have
+appeared earlier in a supplement for 1e). In Fourth Edition, they are only on
+the Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Slaads are froggy-looking monsters who inhabit the Elemental Chaos and whose
+psychology can be summed up as “LOL, so random”. Their grip on reality, both
+mental and physical, is very tenuous. Your typical Slaad makes the Mad Hatter
+look quite centered, and any relationship between what it says to you and what’s
+actually happening tends to be coincidental. Not that most people get a chance
+to talk to them - most of their interactions with other beings are violent.&lt;/p&gt;
+
+&lt;p&gt;The main reason everyone hates them, though, is that they reproduce by sinking
+their ovopositor claws into people and injecting them with eggs, which hatch
+explosively in a few days to produce a “tadpole” the size of a large dog. That
+tadpole, in turn, takes another handful of days to grow into an adult. In true
+slaad fashion, the sub-type of the new individual is random and has no relation
+to the sub-type of its parent. Having a slaad egg implanted in you is treated as
+a disease called Chaos Phage by the rules.&lt;/p&gt;
+
+&lt;p&gt;Slaads were Chaotic Neutral in the old alignment system and 3e in particular
+made a big deal out of saying they were an expression of “pure chaos untainted
+by morality”. The distinction between that and Chaotic Evil turned out to be
+largely academic, though, so in 4e’s alignment system all slaads are Chaotic
+Evil. They’re not out for omniversal destruction like demons are, but “fuck shit
+up for shits and giggles” fits both their usual MO and the description of
+Chaotic Evil.&lt;/p&gt;
+
+&lt;p&gt;There’s a bit in Secrets of the Plane Below about how slaads used to be both
+more protean and mentally stable back in Olden Times, but a couple of
+particularly powerful slaads broke their metaphysics to ensure they would remain
+at the top of the heap. That’s why they all look like humanoid frogs, and why
+they are color-coded for your convenience despite being “the most chaotic”
+creatures.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Most Slaads are Medium Elemental Humanoids. They have low-light vision, a land
+speed of 6, and a variable teleport speed. They’re also immune to Chaos Phage,
+just to underscore that they need to infect non-slaads to reproduce.&lt;/p&gt;
+
+&lt;p&gt;Every slaad has a basic &lt;strong&gt;claw&lt;/strong&gt; attack that does damage as normal for the
+monster and triggers a secondary attack vs. Fortitude on a hit. If the secondary
+attack hits, the victim is infected with Chaos Phage. Other attacks and powers
+vary with the type of slaad.&lt;/p&gt;
+
+&lt;p&gt;Chaos Phage is a nasty level 16 disease, with an Improve DC of 25 and a Maintain
+DC of 20. Stage 1 has no visible symptoms, but there’s a slaad egg inside you
+now. Stage 2 inflicts a -2 penalty to Will and makes you go berserk while
+bloodied, forcing you to always attack the closest living creature (ally or
+enemy). Stage 3 is death as a slad tadpole rips you open and crawls out.&lt;/p&gt;
+
+&lt;h3 id=&quot;slaad-tadpole&quot;&gt;Slaad Tadpole&lt;/h3&gt;
+
+&lt;p&gt;Tadpoles are Small, which means they’re the size of a large dog or a
+halfling. They’re Level 5 Lurkers with 44 HP, and are more interested in running
+and growing up than in fighting. They have a weak bite that makes them
+insubstantial for a turn when it hits, and they can shift 2 squares as an
+interrupt when attacked in melee.&lt;/p&gt;
+
+&lt;p&gt;Tadpoles are suitable for use in an heroic-tier adventure where the goal is to
+prevent them from growing into adult slaads.&lt;/p&gt;
+
+&lt;h3 id=&quot;grey-slaad&quot;&gt;Grey Slaad&lt;/h3&gt;
+
+&lt;p&gt;Also known as Rift Slaads, these used to be among the most powerful in their
+ladder, but have been somewhat demoted. They’re Level 13 Skirmishers with 128
+HP, a teleport speed of 4, and all common slaad traits.&lt;/p&gt;
+
+&lt;p&gt;Rift slaads mostly fight with their claws, and back them up with space-bending
+defensive powers. Once per encounter they can &lt;strong&gt;Induce Planar Instability&lt;/strong&gt;
+(Close Burst 3 vs. Will), which does a little damage, slides the targets 3
+squares, and knocks them prone. When they’re hit with an attack that causes a
+condition (like slowed, dazed, and so on), they can use &lt;strong&gt;Condition Transfer&lt;/strong&gt;
+as an interrupt to make the condition affect someone else instead. This counts
+as a Ranged 5 attack vs. the Fortitude of the chosen target.&lt;/p&gt;
+
+&lt;p&gt;When they’re first bloodied, rift slaads cause a &lt;strong&gt;Planar Flux&lt;/strong&gt; that teleports
+them 8 squares and turns them insubstantial for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;red-slaad&quot;&gt;Red Slaad&lt;/h3&gt;
+
+&lt;p&gt;Also know as Blood Slaads, these are straightforward bruiser types. They’re
+Level 15 Soldiers with 146 HP and all common slaad traits. Their land speed is
+8, and their teleport speed 4. They have a second basic attack in the form of a
+&lt;strong&gt;bite&lt;/strong&gt; that does a bit more damage than the claws but doesn’t inject any eggs.&lt;/p&gt;
+
+&lt;p&gt;Their main special technique is the &lt;strong&gt;Leaping Pounce&lt;/strong&gt; (recharge 5-6) which
+allows them to shift 4 squares and make two claw attacks against 1 or 2
+enemies. If any of them hit, the target is marked for a turn. This is the only
+way they have to mark enemies.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter a blood slaad can produce a &lt;strong&gt;Horrid Croak&lt;/strong&gt; (close blast 5
+vs. Fortitude) that does no damage but immobilizes its targets for a turn on a
+hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;blue-slaad&quot;&gt;Blue Slaad&lt;/h3&gt;
+
+&lt;p&gt;Also known as Talon Slaads, they’re notable for having Wolverine-like bone claws
+sprouting from their hands. Talon Slaads are Level 17 Brutes with 200 HP. Their
+teleport speed is 2.&lt;/p&gt;
+
+&lt;p&gt;Their big talons transmit the Chaos Phage as usual, and can also be used to
+&lt;strong&gt;fling&lt;/strong&gt; victims willy-nilly. This is a bit weaker than the basic attack but
+slides the target 2 squares and knocks it prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;Once it’s bloodied, the talon slaad gains access to &lt;strong&gt;Ravager’s Fury&lt;/strong&gt; (close
+burst 2 vs. AC; encounter), an attack that gives it 20 temporary HP if it hits
+anyone.&lt;/p&gt;
+
+&lt;h3 id=&quot;green-slaad&quot;&gt;Green Slaad&lt;/h3&gt;
+
+&lt;p&gt;Also known as Curse Slaads, they’re the brains of the family with Int 15 where
+the others have 9 or 11. A curse slaad is a Level 18 Controller with 173
+HP. It’s teleport speed is 6, equal to its normal movement, so it has no reason
+to walk anywhere.&lt;/p&gt;
+
+&lt;p&gt;Aside from the usual claws, they can shoot &lt;strong&gt;Chaos Bolts&lt;/strong&gt; as a ranged basic
+attack vs. Will, which do untyped damage and daze for a turn. Occasionally they
+can use &lt;strong&gt;Transpose Target&lt;/strong&gt; (Ranged 10 vs. Reflex; recharge 6) to do some
+damage and teleport a target 10 squares to somewhere it can see. And once per
+encounter it can use a &lt;strong&gt;Croak of Chaos&lt;/strong&gt; (close burst 4 vs. Fortitude) to do
+damage over an area and slide the targets 4 squares, rearranging most of the
+battlefield.&lt;/p&gt;
+
+&lt;p&gt;Green Slaads were also the most “wizardly” of the bunch, so they could very well
+know all sorts of weird rituals and non-combat magic.&lt;/p&gt;
+
+&lt;h3 id=&quot;black-slaads&quot;&gt;Black Slaads&lt;/h3&gt;
+
+&lt;p&gt;When your run-of-the-chaotic-mill slaad gets infected by the energies of the
+Abyss, you get one of these. Also known as Void Slaads, they lose the ability to
+reproduce but gain all sorts of entropy-based powers and a more active
+malevolence than that of their lesser kin. A lot of their attacks are
+energy-based or infused, but since that energy is pure entropy their damage is
+untyped.&lt;/p&gt;
+
+&lt;p&gt;Void Slaads are Level 20 Skirmishers with 191 HP. They’re Large, immune to all
+disease (not just Chaos Phage) and insubstantial. They run at speed 6 and
+teleport at speed 3. They retain their standard low-light vision.&lt;/p&gt;
+
+&lt;p&gt;A void slaad’s &lt;strong&gt;Claws&lt;/strong&gt; don’t lay eggs. Instead, in addition to their standard
+damage they do 10 ongoing damage (save ends). Each failed save eats a healing
+surge in addition to prolonging the damage! Perhaps they implant miniature black
+holes instead of eggs.&lt;/p&gt;
+
+&lt;p&gt;They attack at range with &lt;strong&gt;Rays of Entropy&lt;/strong&gt; (ranged 20 vs. Reflex), which
+damage and surround the target with an entropic shroud (save ends). While the
+shroud is active, the target takes extra damage from all attacks that hit it!&lt;/p&gt;
+
+&lt;p&gt;When a void slaad dies, it explodes into a &lt;strong&gt;Zone of Obivion&lt;/strong&gt; (close burst 2
+vs. Reflex) that damages everything in its area. It persists until the end of
+the encounter, blocking line of sight and dealing the same damage as the initial
+attack to everything that enters it.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Most slaad encounters are slaad-only, but sometimes they’ll ally themselves with
+other creatures for some mysterious reason. The sample MM encounters present two
+such situations:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 15: 2 gray slaads, 2 red slaads, and a destrachan far voice.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 19: 1 black slaad, 2 rockfire dreadnoughts, a fire giant forgecaller,
+and 2 firebred hellhounds.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I kinda like these guys, and I like that they’re Chaotic Evil in 4e. I never
+bought that story about how they’re some pure manifestation of Chaotic Neutral
+even though most of what they do is kill people and lay eggs in their chest
+cavities, not necessarily in that order.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/23/slaad.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/23/slaad.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Skull Lord</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-skull-lord.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I had never read of skull lords before reading about them here, but they have a
+very 3e vibe to them so likely originated there. They are only on the Monster
+Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Despite the imposing name and the very Metal illustration, skull lords are made
+to be lieutenants. They’re created by powerful necromancers or liches to command
+their hordes of lesser undead, so they always answer to some higher power.&lt;/p&gt;
+
+&lt;p&gt;The book doesn’t get into much more detail than that, but it seems to me like
+skull lords are created undead similar to skeletons. They were never alive and
+the bones are just raw materials for their creation. Unlike common skeletons,
+they’re sapient and quite intelligent.&lt;/p&gt;
+
+&lt;p&gt;The first skull lords in recorded history emerged from the ruins of the Black
+Tower of Vumerion. Vumerion was a “legendary human necromancer” who apparently
+had his career cut short by a band of intrepid adventurers, and those skull
+lords might have been part of his contingency plans. They roam the land looking
+for a way to bring their dread master back to the world.&lt;/p&gt;
+
+&lt;p&gt;The ritual for making skull lords eventually made its way out of those tower
+ruins, too, so you might find these monsters working for anyone with the stomach
+to make them.&lt;/p&gt;
+
+&lt;p&gt;Each of those three skulls anchors a different set of magic powers, and all
+three must be destroyed to destroy the monster itself.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Skull Lords are Medium Natural Humanoids with the Undead keyword, and Level 10
+Artillery with a paltry 40 HP. This is not a typo, and you’ll see why soon. They
+have darkvision, a speed of 6, and the standard undead resistances (immunity to
+disease and poison, necrotic resistance, radiant vulnerability).&lt;/p&gt;
+
+&lt;p&gt;Skull lords project an aura (2) named &lt;strong&gt;Master of The Grave&lt;/strong&gt;, which grants
+Regeneration 5 and a +2 bonus to saves to any undead allies inside. The aura is
+anchored to the Skull of Death’s Command, below, so if that’s destroyed it
+stops.&lt;/p&gt;
+
+&lt;p&gt;The skull lord’s basic attack is a &lt;strong&gt;Bone Staff&lt;/strong&gt; that does a mix of physical
+and necrotic damage, but the three skulls are the main event. Each has an attack
+power that can be used as a minor action once per round, meaning the skull lord
+can use all of them in its turn if it doesn’t move.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Skull of Bonechilling Fear&lt;/strong&gt; (ranged 10 vs. Will) does a bit of cold
+damage and pushes 5 squares on a hit as it makes the target run away.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Skull of Whithering Flame&lt;/strong&gt; (ranged 10 vs. Fortitude) does fire and
+necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;And the &lt;strong&gt;Skull of Death’s Command&lt;/strong&gt; (Ranged 10) restores a destroyed undead
+minion within range. This an instance where I think the word “minion” &lt;em&gt;isn’t&lt;/em&gt;
+being used as a game term, since the text also mentions the minion has “full
+normal hit points” when restored. So yeah, what this does is bring back an
+undead creature under the skull lord’s command as long as it’s level is at most
+the skull lord’s +2 (12 by default). The creature appears in the square where it
+was destroyed and stands up as a free action. It has full HP and can act
+normally when its next action rolls around. This is an &lt;em&gt;at-will&lt;/em&gt; power, just
+like the others.&lt;/p&gt;
+
+&lt;p&gt;One additional effect of these &lt;strong&gt;Triple Skulls&lt;/strong&gt; is that when the lord hits 0
+HP, a random skull is destroyed and it instantly heals back to full. It loses
+the powers associated with the destroyed skull but is otherwise able to keep
+acting normally. This is why it only has 40 HP - it’s a multi-stage monster
+whose HP total is 120.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounters are nothing surprising:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 10: 2 skull lords and 3 skeletal tomb guardians.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 12: 1 skull lord, 1 vampire lord, 2 zombie hulks, 9 vampire spawn
+bloodhunters.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that in both cases the skull lords could restore any of the other monsters
+in these encounters. If the PCs don’t learn to destroy the skull lords first,
+they’re gonna have a bad time.&lt;/p&gt;
+
+&lt;p&gt;I like these things! They look badass and can be quite dangerous.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/22/skull-lord.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/22/skull-lord.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Skeleton</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-skeleton.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Skeletons have been in the game since the beginning, when they were the first
+step on the Undead Power Ladder. In this edition, they’re on both the Monster
+Manual and the Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Skeletons are the true iconic undead of the fantasy genre. Vampires and zombies
+get the spotlight in a lot of other media, but from Harryhausen movies to the
+Diablo franchise, if it’s a fantasy story about fighting monsters, it has to
+have skeletons in it somewhere. D&amp;amp;D took inspiration from the former and went on
+to inspire the latter, so it has plenty of skeletons as well.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D skeletons are likely to be among the first undead faced by a party of
+adventurers. Unlike their more powerful and exotic relatives, they almost never
+arise naturally, and their existence as undead is completely disconnected from
+who they might have been in life. They’re just bones animated by necrotic
+energy.&lt;/p&gt;
+
+&lt;p&gt;The Monster Vault goes all-in on the flowery gothic prose when describing them,
+discoursing about how even inanimate skeletons are viewed by the living as
+symbols of death. You might be able to read something of the person’s life in
+the scars of their bones, but that only serves as an even stronger reminder that
+they’re gone (“alas Yorick, I knew thee well…”).&lt;/p&gt;
+
+&lt;p&gt;Skeletons behave much like stupider golems, going by the MV’s
+description. They’re just smart enough to understand their master’s orders,
+which they follow tirelessly and to the letter. Their animating force doesn’t
+possess much in the way of cunning, so even if it can fight well a skeleton
+might still fall for relatively simple ruses, or be unable to identify obvious
+signs of danger.&lt;/p&gt;
+
+&lt;p&gt;It is much easier to animate a skeleton than to create a golem, which indicates
+that all that gothic prose actually has a point. If I’m allowed to speculate
+until the end of this paragraph, I’d say necromantic magic leans heavily on that
+association to give a skeleton its motion and its rudimentary mind. As a result,
+it is by its very nature somewhat transgressive, and the proper mindset to use
+it likely includes active disrespect for the boundaries between life and death,
+which isn’t something you need to create a construct.&lt;/p&gt;
+
+&lt;p&gt;While the most common use for skeletons is as minions of some necromancer bent
+on conquest, they can also be ordered to perform simple physical tasks. A noble
+who wanted to appear particularly edgy could have his carriage pulled by
+skeletal horses. A &lt;em&gt;society&lt;/em&gt; who wanted to look edgy could have all sorts of
+“automatic” gates, bridges and dungeon traps powered by skeletal labor.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual mentions in passing that skeletons might arise naturally in
+an area heavily suffused with necrotic energy. That’s likely a rare exception,
+and even then it’s an event that has nothing to do with who the skeletons used
+to be or how they died. If a rift to Thanatos opened in a cemetery containing
+only good people who died happy and without any unfinished business, their bones
+would still rise. Such skeletons simply attack anything living they come across
+and stay still otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Skeletons are Medium Natural Animates with the Undead keyword. They have
+darkvision, immunity to disease and poison, 10 resistance to necrotic damage and
+vulnerable 5 to radiant damage. Their base land speed is 6. Despite being nearly
+mindless at Int 3, they usually fight with weapons.&lt;/p&gt;
+
+&lt;p&gt;All skeletons we get in both books have levels in the Heroic tier, and are
+apparently assumed to be human skeletons. You could easily make more powerful
+skeletons with higher resistances if you wanted, of course, as well as skeletons
+originating from creatures of different sizes (like a Large giant skeleton or a
+swarm of Small goblin bones).&lt;/p&gt;
+
+&lt;h3 id=&quot;decrepit-skeleton-both&quot;&gt;Decrepit Skeleton (Both)&lt;/h3&gt;
+
+&lt;p&gt;A skeleton so old it’s begun to crumble, this is a Level 1 Minion Skirmisher. It
+fights with a &lt;strong&gt;longsword&lt;/strong&gt; in melee and a &lt;strong&gt;shortbow&lt;/strong&gt; at range and has no
+special attacks at all and no traits aside from the common ones listed above.&lt;/p&gt;
+
+&lt;p&gt;They should appear in similar numbers and use similar tactics to all those
+fragile archer skeletons from Diablo.&lt;/p&gt;
+
+&lt;h3 id=&quot;skeleton-mm&quot;&gt;Skeleton (MM)&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 3 Soldier with 45 HP, wearing mail and wielding a
+sword and shield. Its &lt;strong&gt;longsword&lt;/strong&gt; attacks mark for a turn, and it has a
+&lt;strong&gt;Speed of the Dead&lt;/strong&gt; trait which gives it +2 to attack and +1d6 to damage when
+making opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;A pretty straightforward soldier-type, like it probably was in life.&lt;/p&gt;
+
+&lt;h3 id=&quot;blazing-skeleton-both&quot;&gt;Blazing Skeleton (Both)&lt;/h3&gt;
+
+&lt;p&gt;A skeleton that is on fire. It’s Level 5 Artillery with 53 HP. It has resist
+fire 10 on top of its other resistances, and projects a &lt;strong&gt;Fiery Aura&lt;/strong&gt; (1) which
+does 5 damage to enemies caught inside. It fights in melee with its &lt;strong&gt;blazing
+claws&lt;/strong&gt;, and throws &lt;strong&gt;flame orbs&lt;/strong&gt; at range. The claws do physical damage and
+ongoing fire damage (save ends), while the orbs do both immediate and ongoing
+fire damage (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;boneshard-skeleton-mm&quot;&gt;Boneshard Skeleton (MM)&lt;/h3&gt;
+
+&lt;p&gt;A shattered skeleton held together by magic, it’s a Level 5 Brute with 77 HP. It
+wields a &lt;strong&gt;scimitar&lt;/strong&gt; in combat, which is a high-crit weapon that does a mix of
+physical and necrotic damage. It can attack at range by flinging its shards,
+also doing those same types of damage. Once when it’s bloodied, and once when
+it’s destroyed, this skeleton detonates a &lt;strong&gt;Boneshard Burst&lt;/strong&gt; (close burst 3
+vs. Reflex) that does necrotic damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;skeletal-legionary-mv&quot;&gt;Skeletal Legionary (MV)&lt;/h3&gt;
+
+&lt;p&gt;A minion version of the basic armored MM skeleton. A Level 7 Minion Soldier, it
+uses a &lt;strong&gt;sword&lt;/strong&gt; in close combat and throws &lt;strong&gt;javelins&lt;/strong&gt; at range, both of which
+mark the target for a turn on a hit. It has no other special abilities.&lt;/p&gt;
+
+&lt;p&gt;These sound perfect for that undead Roman legion you never knew you wanted to
+use.&lt;/p&gt;
+
+&lt;h3 id=&quot;skeletal-tomb-guardian-both&quot;&gt;Skeletal Tomb Guardian (Both)&lt;/h3&gt;
+
+&lt;p&gt;This four-armed monster isn’t a random corpse given motion, but something
+specifically constructed so it could be animated. It’s a Level 10 Brute with 126
+HP, and wields a scimitar in each of its four hands.&lt;/p&gt;
+
+&lt;p&gt;Each scimitar is kinda weak on its own, but the guardian’s basic &lt;strong&gt;twin
+scimitars&lt;/strong&gt; attack allows it to use two of them, and its &lt;strong&gt;Cascade of Steel&lt;/strong&gt;
+attack allows it to attack with all four. &lt;strong&gt;Sudden Strike&lt;/strong&gt; allows to make a
+Twin Scimitars attack against an adjacent enemy that shifts, as an interrupt.&lt;/p&gt;
+
+&lt;p&gt;All of the scimitars are high-crit weapons, so if the guardian rolls really well
+its damage output goes up considerably.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We get two encounters in the MM:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 3: 1 hobgoblin warcaster, 2 hobgoblin guards, 2 skeletons.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 5: 1 tiefling darkblade, 2 blazing skeletons, 2 boneshard skeletons.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As we can see, any enemy group that includes a spellcaster of some sort could
+very well include a complement of skeleton auxiliaries. We also have enough
+variety in their stat blocks to have plenty of all-skeleton encounters for all
+your ancient crypt needs.&lt;/p&gt;
+
+&lt;p&gt;I like skeletons, and as I said I think the game wouldn’t feel like a proper
+fantasy RPG (let alone D&amp;amp;D) without them.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/12/13/skeleton.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/13/skeleton.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

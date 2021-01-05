@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octopus Carnival</title>
+    <description>Octopus Carnival posts categorized as "GURPS"</description>
+    <link>https://bira.github.io/octopus-carnival/</link>
+    <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jan 2021 19:31:42 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2021 19:31:42 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Are Mecha Silly?</title>
+        <description>&lt;p&gt;Recently I saw someone start a thread on the RPG.net forum, with the title “Why
+are mecha silly?”. The person in question was of the opinion that not only were
+mecha not silly, they were &lt;em&gt;plausible&lt;/em&gt;, and went on to list reasons they thought
+so.&lt;/p&gt;
+
+&lt;p&gt;Of course, all of those were swiftly debunked by posters, but I think the thread
+kinda got away from the main point after a while. So I thought I’d write a bit
+about this subject here.&lt;/p&gt;
+
+&lt;p&gt;The thread’s title had a bit of an unfortunate framing, because it started from
+the premise that mecha &lt;em&gt;are&lt;/em&gt; silly even though its opening poster didn’t think
+so. A better question to ask might be “Are Mecha Silly?”&lt;/p&gt;
+
+&lt;p&gt;My answer is somewhat nuanced, but it can still be summed up as “No”. Giant
+robots are definitely &lt;em&gt;cinematic&lt;/em&gt;, but they’re not inherently sillier than any
+other cinematic trope. It’s all about the context.&lt;/p&gt;
+
+&lt;p&gt;I’m using “mech” and “mecha” here to mean a humanoid (or at least legged)
+piloted machine that’s used in about the same role as an armored fighting
+vehicle or tank. Non-combat versions are usually used as heavy construction
+equipment.&lt;/p&gt;
+
+&lt;p&gt;These are some of the traditional excuses for mecha: Legs make them able to
+handle any terrain type better than wheels or threads. A humanoid form makes
+them more agile and versatile than traditional vehicles. Something about the
+specific technology used to build them makes them better weapons than
+traditional vehicles (this last one varies per setting).&lt;/p&gt;
+
+&lt;p&gt;None of these would hold up under scrutiny under a strictly realistic
+setting. While some people are building smaller autonomous robots and
+experimenting with load-bearing skeletons, building a giant mech is still far
+beyond us and the general consensus on that seems to be that it’s not worth the
+effort. Better to work at improving the specialized vehicles we know than
+worrying about leg movement and the ground pressure exerted by two giant metal
+feet.&lt;/p&gt;
+
+&lt;p&gt;As you get more cinematic mecha become a better fit. An “action movie setting”
+that makes you accept some people do the impossible because they’re just that
+badass shouldn’t have a lot of trouble selling the idea that sometimes tanks
+have legs. Full Metal Panic in its more serious moments is a good example of
+this. The show itself is silly most of the time, but the robot fights are trated
+in a more serious cinematic manner.&lt;/p&gt;
+
+&lt;p&gt;Science fictional settings have more leeway than contemporary ones, because the
+same classical excuses are still valid and it’s easier to assume that the
+practical engineering concerns have been solved in the future. A lot of the
+Gundam shows are in this territory, as are many other similar franchises.&lt;/p&gt;
+
+&lt;p&gt;And that’s just the shows that even bother to offer up excuses! You see, there
+are two main “sub-genres” of mecha shows. The ones that bother to think about
+excuses and to insert their mecha into a wider military context are called “Real
+Robot” shows. The original Mobile Suit Gundam back in 1979 was the first of
+these.&lt;/p&gt;
+
+&lt;p&gt;The other side of the coin are “Super Robot” shows, who don’t even bother with
+that. Sometimes a 12-year old kid just inherits a fifteen story tall robot from
+his dad, and flies that robot out of the secret hangar at the bottom of his
+swimming pool to fight space monsters. Super Robot shows date from the early
+seventies, and their overall aesthetic is closer to that of a gold or silver age
+supers story than “proper” science fiction. They require the same kind of
+suspension of disbelief. If you can accept Superman, you can accept Mazinger Z.&lt;/p&gt;
+
+&lt;p&gt;Whether Real or Super, no type of mecha is inherently silly as long as you place
+it in the type of story it was meant to go in. Just like any other cinematic
+trope.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/01/mecha.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/01/mecha.html</guid>
+        
+        <category>opinion</category>
+        
+        <category>gurps</category>
+        
+        <category>lancer</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Stormtrooper Armor Conundrum</title>
+        <description>&lt;p&gt;Do you know what is the second hardest thing to convert when adapting Star Wars
+to the tabletop? Stormtroopers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. From an in-character perspective they vastly
+outnumber and outgun the scrappy rebel protagonists, with deadly blaster
+carbines and that iconic heavy armor. Yet in the actual narrative they almost
+never hit a shot and always get taken out in one hit from one of the heroes.&lt;/p&gt;
+
+&lt;p&gt;Their poor aim has actually made it into GURPS as an optional cinematic rule
+named “Imperial Stormtrooper Marksmanship Academy”, which reduces the deadliness
+of enemy shooters. But the armor thing has tied people’s brain in knots, because
+it can’t be explained away with a joke. Why does their armor do nothing?&lt;/p&gt;
+
+&lt;p&gt;There are almost as many explanations and solutions to this as there are Star
+Wars adaptations. Some say “all armor is bad, actually” and have PCs rely on
+plot protection. Some have an armor system but go out of their way to explain
+why trooper suits specifically are actually bad. And some have an armor system
+that rates trooper armor highly but then go on to state that fun shootouts from
+the movies are lies and legends.&lt;/p&gt;
+
+&lt;p&gt;Me, I think I hit on a solution that allows me to keep those fun fights while
+still having armor be cool.&lt;/p&gt;
+
+&lt;h2 id=&quot;imperial-stormtrooper-armor-drills&quot;&gt;Imperial Stormtrooper Armor Drills&lt;/h2&gt;
+
+&lt;p&gt;This is a cinematic rule meant for science fiction settings where highly
+effective armor is common, but you want the PCs to have fun battles against
+armies of heavily-armored mooks. Star Wars and stormtroopers are the most
+obvious examples, but it also works for settings such as Waframe’s with its
+Grineer soldiers.&lt;/p&gt;
+
+&lt;p&gt;Under this rule, armor worn by “mook” or “fodder” enemies has no protective
+value, and is mostly a cosmetic detail! Any solid hit will take them down,
+regardless of whether it would have penetrated their DR under standard
+rules. Armor worn by PCs and other important characters still uses all the
+default rules.&lt;/p&gt;
+
+&lt;p&gt;This allows you to frame a particularly badass trooper as a real threat and have
+them survive several attacks without giving them different protective gear. It
+also allows PCs to loot armor from a fallen mook and have it actually provide
+benefit beyond a temporary disguise.&lt;/p&gt;
+
+&lt;p&gt;Optionally, you could perhaps take this a bit further and subject certain
+stormtroopers to the Inverse Ninja Rule. See a full platoon of troopers gunning
+for you? Easy. See &lt;em&gt;one&lt;/em&gt; trooper approaching? Danger!&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The first is the Force, but we all know that. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/10/27/stormtrooper-armor.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/10/27/stormtrooper-armor.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>star-wars</category>
+        
+        <category>science-fiction</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Great Irony At the Heart of Shadowrun</title>
+        <description>&lt;p&gt;For a very long time Shadowrun was my favorite game system and setting. These
+days I still like the setting, but my annoyance at a host of small details in it
+is stronger than my wish to play in it as written. Still, it’s useful to think
+and talk about these details. It allows me to figure out what I want to do
+better in my eventual home-brewed rewrite.&lt;/p&gt;
+
+&lt;p&gt;One of these details isn’t small at all, however. In fact, I’d go as far as
+calling it the great irony at the heart of the game, as the title of this post
+implied. It was developed from some forum posts I made on RPG.net.&lt;/p&gt;
+
+&lt;h2 id=&quot;but-first-the-good-parts&quot;&gt;But First, The Good Parts&lt;/h2&gt;
+
+&lt;p&gt;I don’t want to be unfairly critical of Shadowrun&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. I know a few people who
+write for it, and the last thing I want is to give the impression that I’m
+attacking them. I’m not. This entire article is my personal opinion and in no
+way meant to disparage any of the fine people who are passionate enough about
+Shadowrun to write for it professionally. So let’s begin by talking about
+something that this game does &lt;em&gt;right&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;One of the best things about the setting design of Shadowrun is that it presents
+players with a very clear mission-based structure. The infamous question of “But
+what do we &lt;em&gt;do&lt;/em&gt; in this world?” is answered very early and very clearly. This is
+a game about completing dangerous missions for money, just like D&amp;amp;D is about
+killing monsters and looting dungeons. Someone asks you to play Shadowrun, 99
+times out of 100 you know the rough overall shape that campaign is going to
+take. You see a heist movie and you start thinking about it in the context of
+Shadowrun in your head, even if it doesn’t have all the same style elements,
+because the premise is strong.&lt;/p&gt;
+
+&lt;p&gt;Shadowrun nailed the answer to this important question so well that it kinda
+spilled over to other similar games. It became the default playstile for
+Cyberpunk 2020 against the wishes of its own authors, and it often gets adopted
+as the answer to “what do we do” in Transhuman Space&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, which is so adamant
+about offering none in its pages.&lt;/p&gt;
+
+&lt;p&gt;Like a lot of Shadowrun setting elements, though, this structure has an
+excellent &lt;em&gt;premise&lt;/em&gt; but its implementation gives rise to a lot of unintentional
+oddness. Or, in this case, to a Great Irony.&lt;/p&gt;
+
+&lt;p&gt;This irony, I think, emerges when the strong premise above gets combined with
+AD&amp;amp;D-style adversarial GMing, which was very popular when Shadowrun was first
+written. I believe it to be entirely unintentional, since as far as I can tell
+Shadowrun’s design methodology was mostly based on the Rule of Cool with a dash
+of “everyone else does this”. If it’s intentional, though, it’s among the
+greatest acts of trolling in all of gaming.&lt;/p&gt;
+
+&lt;h2 id=&quot;isnt-it-ironic&quot;&gt;Isn’t it Ironic?&lt;/h2&gt;
+
+&lt;p&gt;Okay, so the Sixth World is ruled by megacorporations who control every aspect
+of people’s lives. Most of these people live hand-to-mouth and work themselves
+to death in order to prop up the decadent lifestyles of a few billionaire
+executives. “Wage slave” is pretty much a synonym for “low-level megacorporate
+employee” in this setting.&lt;/p&gt;
+
+&lt;p&gt;But as the flavor text tells us, player characters are supposed to have managed
+to escape this cycle of misery. They live in the shadows cast by those giant
+corporate towers, and they have the skills to oppose the megacorps and make
+their independent way in the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Or do they?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll admit I don’t know how things are structured in the most recent
+editions&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I remember that the Shadowrun Companion for Second Edition
+contained detailed advice on how much money your PCs should be paid for those
+risky missions.  I call it the “rent plus change” model.&lt;/p&gt;
+
+&lt;p&gt;According to the book, GMs should pay PCs enough for them to cover their
+lifestyle payments (i.e, rent and food) for the next month, with a little bit
+left over for resupplying consumables and eventually upgrading a piece of gear
+after a while. This was &lt;em&gt;per month&lt;/em&gt;, not per run. If you had only one big run
+that month, it would pay this amount. If you had several, they would pay
+proportionally less so you’d receive the same “rent plus change” amount.&lt;/p&gt;
+
+&lt;p&gt;This was perfectly in-keeping with the AD&amp;amp;D school of GMing and design, which
+demanded PCs “earn” their power and had cool gear that cost money as a
+significant part of that power. If they earn “too much” money, they would get
+“too powerful”, and no one wants that! If your players look like they do, it’s
+because they’re cheating cheaters who cheat and should be punished for it.&lt;/p&gt;
+
+&lt;p&gt;Almost all published adventures started with a scene where the party met with
+Mr. Johnson to discuss the job. In the vast majority of these adventures,
+Mr. Johnson is a shady corporate exec working for one of the megas. And the GM
+text for this scene always included the oh-so-funny “If the players refuse the
+job, announce that the adventure ended, pack up your things and go home.” This
+is a joke about how the PCs don’t have any choice but to take the job as
+presented. In fact, the flavor text for the same scene almost always assumes
+they’re hurting for cash just before they get that call from their contact
+setting up the meeting.&lt;/p&gt;
+
+&lt;p&gt;So yeah, those fiercely independent PC shadowrunners? &lt;strong&gt;&lt;em&gt;They’re all wage slaves
+too&lt;/em&gt;&lt;/strong&gt;. And the game advises the GM to keep them that way.&lt;/p&gt;
+
+&lt;p&gt;Were the original writers oblivious to these implications, or are they still
+laughing today about how no one seems to have noticed? I don’t think I have seen
+any official discussion about this contradiction in any of the books I’ve
+read. It’s just taken as a given, and never questioned.&lt;/p&gt;
+
+&lt;p&gt;This central irony gets funnier when you add in two sets of rules that were
+published in the same edition.&lt;/p&gt;
+
+&lt;h3 id=&quot;orichalcum&quot;&gt;Orichalcum&lt;/h3&gt;
+
+&lt;p&gt;An early SR2 sourcebook called The Grimoire contained rules for making magic
+items. It required a lot of skill tests and time, and the materials were still
+super-expensive, but the final monetary cost was cheaper than buying the item.&lt;/p&gt;
+
+&lt;p&gt;“Do you buy or make your items?” would have been mostly a question of personal
+preference… if the book didn’t also have rules for making those materials from
+raw natural resources. You could use them for enchanting or sell them for half
+list price. You could even make orichalcum, the magical metal used in the
+creation of the most powerful magic items.&lt;/p&gt;
+
+&lt;p&gt;Orichalcum was so expensive that a single 10-gram “unit” cost the same as a
+sports car or as almost nine months of High Lifestyle. The process for making it
+was time consuming and laborious, but not really dangerous or illegal. And a
+skilled character could end up with multiple units of orichalcum at the end of
+that process. Selling even a single unit would more than pay the cost of the
+necessary equipment, which was reusable.&lt;/p&gt;
+
+&lt;p&gt;With these rules, a team of PCs that includes at least one magician has no
+financial reason to run the shadows. They can just set up an orichalcum-making
+operation instead, and live like kings.&lt;/p&gt;
+
+&lt;h3 id=&quot;stolen-cars&quot;&gt;Stolen Cars&lt;/h3&gt;
+
+&lt;p&gt;The Shadowrun Companion sourcebook includes rules for stealing cars and selling
+them on the black market, which theoretically were meant to be used in a
+campaign where the characters were gangers instead of Shadowrunners. You could
+sell an entire stolen car for a fraction of its market value, or break it down
+for parts and sell those over several days and get money equal to the car’s full
+list price.&lt;/p&gt;
+
+&lt;p&gt;Stealing cars is of course illegal and dangerous, but it was trivial for the
+typical PC party in this game. After all they have the skills to routinely break
+into top-secret research labs full of intricate and deadly security measures.&lt;/p&gt;
+
+&lt;p&gt;The cheapest four-wheeled vehicle in the book was the Ford Americar, your
+typical “generic crummy sedan” that filled every street. Stealing and
+dismantling one of those every week would pay roughly five times the amount
+recommended in the “rent plus change” advice in &lt;em&gt;the very same book&lt;/em&gt;. Or perhaps
+you could steal one limousine or fancy sports car per quarter. In either case,
+it was again much safer and more profitable than running the shadows.&lt;/p&gt;
+
+&lt;h2 id=&quot;shadowrun--irony--awesome&quot;&gt;Shadowrun + Irony = Awesome&lt;/h2&gt;
+
+&lt;p&gt;When these two “oopsies” were first discovered, I remember seeing a lot of GMs
+go absolutely ballistic over them. The accusations of “munchkinism” flew thick
+and fast, but in true those GMs were mad that the PCs were doing something that
+wasn’t in the script. They reveled in describing the disproportionate response
+law enforcement or competitors would visit upon the PCs, which was just an
+excuse to punish the players for veering off the rails.&lt;/p&gt;
+
+&lt;p&gt;Personally, I think these two altertane activities are fraggin’ awesome,
+precisely because they allow the party to truly break free from the grind. If
+your players decide to retire from shadowrunning and make orichalcum or boost
+cars for a living, I fully believe that the right response is to play along and
+make the campaign be about that! All of those things mentioned as hard blocks by
+curmudgeonly controlling GMs are actually excellent adventure hooks. And I’m
+pretty sure any decent player group is going to keep finding non-monetary
+reasons to return to the shadows. There’s still people to help and megacorps to
+destroy, after all.&lt;/p&gt;
+
+&lt;p&gt;So I say that the first thing a team of shadowrunners needs to do is to find a
+way to leave classic shadowrunning behind for good. It’s a sucker’s game. Stay
+independent, take care of your community, tear down the system, make the Sixth
+World better.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Which already makes me nicer than most of the people who proclaim
+  themselves its true fans. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Though THS PCs tend to be working for government agencies or corporations
+  rather than being freelance criminals. This is, after all, &lt;a href=&quot;/octopus-carnival/2019/11/06/on-transhuman-space.html&quot;&gt;a cyberpunk setting
+  as viewed by the bad guys&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I stopped at the end of Fourth. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/06/28/shadowrun-irony.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/06/28/shadowrun-irony.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>gurps</category>
+        
+        <category>opinion</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cyberpunk and Plagues</title>
+        <description>&lt;h2 id=&quot;preface&quot;&gt;Preface&lt;/h2&gt;
+
+&lt;p&gt;I’ve been sitting on this one for a while now. I’m not gonna lie, writing and
+publishing those Monster Manual posts is quite soothing. Particularly the
+releasing part, which is just a few mechanical actions now that I have so much
+pre-written material for it. Every once in a while I’ll sit and write something
+that’s on my mind, and hesitate a bit before posting it. This is one such post,
+which I’d say was written somewhere around late April or early May.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-post&quot;&gt;The Post&lt;/h2&gt;
+
+&lt;p&gt;One of the outtakes from &lt;a href=&quot;/octopus-carnival/2019/11/16/on-transhuman-space.html&quot;&gt;my last screed against Transhuman Space&lt;/a&gt; was a
+rebuttal to the bit where it says it’s better and more realistic than cyberpunk
+because it doesn’t have any apocalyptic disasters in its Very Serious history of
+the future.&lt;/p&gt;
+
+&lt;p&gt;I had had whole paragraphs mapped out in my mind about how yes, the insistence
+of 90’s cyberpunk RPGs in inserting these catastrophes was kinda silly. About
+how they probably had their roots in their authors believing in that “end of
+history” bullshit just as hard as the text of Transhuman Space itself did, and
+how they couldn’t see the future being a shitty place if there wasn’t a plague,
+a nuclear meltdown, or a big war somewhere in there to muck things up.&lt;/p&gt;
+
+&lt;p&gt;It was going to end with an assertion that no, you don’t need a big, clear,
+forced disaster to head down a bad path. A lot of those cyberpunk tropes (evil
+corporations, authoritarian governments disguised as democracies, and so on)
+happened all on their own without needing such a push. William Gibson’s concept
+of the Jackpot, presented in his novel &lt;em&gt;The Peripheral&lt;/em&gt;, encapsulates all of
+this a lot better than Transhuman Space’s bright future. Well, he is William
+friggin’ Gibson, and he had almost twenty extra years of history to look at, but
+still.&lt;/p&gt;
+
+&lt;p&gt;That post is all ruined now, of course, because it turns out those
+disaster-licious 90’s games were on to something after all. Here we are, amid a
+deadly pandemic that’s causing an untold number of tragedies and turning whole
+societies upside-down as enforced quarantines and lockdowns push them to change
+their habits in a rush. It’s not nearly as bad as a genuine 90’s RPG disaster,
+but, in true Jackpot fashion, it doesn’t have to be. It’s not the &lt;em&gt;cause&lt;/em&gt; of the
+evil corps’ and authoritarian governments’ rise to power, but a &lt;em&gt;consequence&lt;/em&gt; of
+it. And I don’t think either THS or the 90’s games would ever have predicted
+that rich capitalists would, when faced with a plague, suggest that it was OK to
+let vast numbers of people die from it as long as it kept the economy
+growing. THS has far too much faith in its Very Smart Neoliberals to suggest
+such a thing, and it sounds too bleak even for a 90’s-style dystopia.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/06/19/cyberpunk-plagues.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/06/19/cyberpunk-plagues.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>opinion</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dungeoncrawl Procedures at Nature Kills</title>
+        <description>&lt;p&gt;Earlier this year I published a post on “&lt;a href=&quot;/octopus-carnival/2020/01/24/old-school-movement.html&quot;&gt;Old School Movement&lt;/a&gt;” with a simple
+set of rules I could use when GMing converted old-school D&amp;amp;D and AD&amp;amp;D dungeons
+in Dungeon Fantasy. Recently, the Nature Kills blog has also published &lt;a href=&quot;https://gurpshexytime.blogspot.com/2020/06/dungeoncrawl-procedures.html&quot;&gt;their
+own take&lt;/a&gt; on the same subject in a post titled “Dungeoncrawl Procedures”.&lt;/p&gt;
+
+&lt;p&gt;What I find most interesting on that post, and on the sources it links, is that
+they see the lack of this detailed procedure in recent D&amp;amp;D editions as a grave
+omission in that system. Having a canonical procedure to crawl a dungeon or to
+perform any other sort of exploration is a vital pre-requisite for properly
+designing these dungeons and other places.&lt;/p&gt;
+
+&lt;p&gt;The actual procedure outlined there is similar to mine in nature, but differs in
+some details and adds others I didn’t cover. The ones I found most interesting
+are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;This procedure should apply to all dungeon exploration, not just to AD&amp;amp;D
+adaptations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Default movement speed is double what I guessed (encumbered Move x 20m per
+turn).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Traps are only sprung 2 out of 6 times. A direct translation of an old-school
+mechanic that’s perfect for use when you’re not constantly using a map and
+miniatures.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They have convinced me to apply this mechanic to all dungeon crawls, but I
+disagree with enough of their details that I feel I have to revise my own
+procedure. That will happen some other time.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/06/09/exploration-procedures.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/06/09/exploration-procedures.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>link</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Alternative Dungeon Fantasy Reward Systems</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/studio-ghibli-dark-souls.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by &lt;a href=&quot;https://www.kyle-fewell.com/&quot;&gt;Kyle Fewell&lt;/a&gt;.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For a lot of players, a big part of the fun of playing in the Dungeon Fantasy
+genre comes from the rewards their characters acquire in play. And these in
+turn fall into two main categories: treasure and experience.&lt;/p&gt;
+
+&lt;p&gt;In GURPS, “experience” means Character Points, which are usually obtained for
+successfully completing adventure goals and can be directly used to improve
+characters. “Treasure” in a Dungeon Fantasy context can be split into magic
+items and “monetary” treasure (i.e, coins and stuff you end up selling in town).&lt;/p&gt;
+
+&lt;p&gt;By default these two reward types are mostly unrelated. Going by the experience
+rewards scheme on p. 92 of DF: Exploits, a party could enter a dungeon, win lots
+of battles, find a secret area or three, and win plenty of experience even if
+they never find a single coin’s worth of treasure.&lt;/p&gt;
+
+&lt;p&gt;Depending on the exact nature of your campaign, you might want to mess with
+this reward scheme. Here are two possible ways to do that. In both, magic items
+remain pretty much as written, but a stronger relationship is established
+between experience and monetary treasure. They replace the standard system from
+DF: Exploits entirely.&lt;/p&gt;
+
+&lt;h2 id=&quot;old-school-money-is-experience&quot;&gt;Old School: Money Is Experience&lt;/h2&gt;
+
+&lt;p&gt;When the party returns to town, add up the total value in $ of all the monetary
+treasure they acquired. As usual, coins contribute their full value. Other items
+contribute their sale value, but only if the PCs sell them. Those items they
+decide to keep should be excluded from this calculation.&lt;/p&gt;
+
+&lt;p&gt;This total should be divided among the PCs. If your party is an anarchist
+commune that keeps all money in a collective pile (like mine are!), then assume
+an equal split for experience purposes. Most other parties probably also split
+their take evenly, though if they’re really into that old-school vibe they might
+have a complicated scheme set up that includes henchmen with half-shares,
+seniority bonuses, and thieves who steal from the other PCs.&lt;/p&gt;
+
+&lt;p&gt;The PCs who survived the process of splitting the loot get to earn XP from
+it. Divide each PC’s share by $500: that’s how many points they get. This is the
+exact same exchange rate they’d get from converting character points to money
+during character creation. Depending on how much treasure your adventures
+feature, you might want to adjust the rate! For example, a PC in a campaign that
+follows &lt;a href=&quot;https://dungeonfantastic.blogspot.com/2020/05/nearly-complete-thoughts-on-10x-cost.html&quot;&gt;Petter V. Del’Orto’s suggested house rule&lt;/a&gt; would earn one point for
+every $5000 they earned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: Let’s say we have a party of 5 PCs that agree to split their loot
+evenly. They meet a dragon shortly after they enter a dungeon, and are forced to
+retreat having only found a small coin stash worth $1500. That comes out to $300
+per PC, which is not enough for them to earn any points from this delve.&lt;/p&gt;
+
+&lt;p&gt;The PCs prepare themselves better and try again, and this time they’re able to
+kill the dragon and loot its hoard, which contains $25000 in monetary treasure
+and several magic items. The magic items don’t enter into this calculation, so
+each PC ends up with $5000 and earns 10 character points from it.&lt;/p&gt;
+
+&lt;h2 id=&quot;dungeon-souls-experience-is-money&quot;&gt;Dungeon Souls: Experience is Money&lt;/h2&gt;
+
+&lt;p&gt;Some campaigns take place in settings where money is worthless. One example is
+the Havens and Hells setting presented in Pyramid #3/89. Another is the Dark
+Souls franchise. This alternate system is inspired by the latter, taking the
+usual “battle experience” mechanics and making them into an in-character
+concept.&lt;/p&gt;
+
+&lt;p&gt;The metaphysics of the world are such that when you defeat a monster in battle,
+you siphon off a little of its life force! Depending on the setting this might
+require killing the monster, but it could also involve simply defeating it in
+combat and performing a small ritual.&lt;/p&gt;
+
+&lt;p&gt;In either case, people in the setting can use this accumulated “soul energy” for
+all sorts of purposes, and it can be voluntarily transferred. So it becomes the
+de-facto currency in a setting that has no use for mundane money.&lt;/p&gt;
+
+&lt;p&gt;The simplest way to implement this is to say that victory in battle is worth 500
+“soul points” for every character point it would have been worth according to
+p. 92 of DF: Exploits. This means a battle against a small amount of fodder is
+worth nothing, and a big boss fight with lots of extra henchthings thrown in
+might be worth 1500 SP. Again, this is the same exchange rate you use to convert
+points into money during character creation, and you can vary it to suit your
+preferred pace of advancement.&lt;/p&gt;
+
+&lt;p&gt;A more detailed way to model it is to use the optional rules on the &lt;strong&gt;It’s a
+Threat!&lt;/strong&gt; article on Pyramid #3/77, and say that a slain monster is worth soul
+points equal to its Combat Effectiveness Rating. This method is a bit
+math-intensive: the article has a table with values for a few published
+monsters, but for anything outside of that you’ll have to calculate it.&lt;/p&gt;
+
+&lt;p&gt;No matter which method you’re using, an important decision you must make is
+whether the “soul points” from a battle must be split among the PCs or if each
+PC gets the full amount when the fight ends. The former setup results in much
+slower advancement than the system in Exploits, while the latter more or less
+keeps pace with it as far as combat experience is concerned. I do &lt;em&gt;not&lt;/em&gt;
+recommend fully copying Dark Souls and giving soul points from a monster only to
+the PC who dealt the last blow: that works in a solo campaign, but nowhere else.&lt;/p&gt;
+
+&lt;p&gt;“Treasure” might still exist in this model in the form of dead adventurers with
+residual soul points still present in their remains. This could lead to
+entertaining scenes such as the party slaying a dragon and leaving its piles of
+gold behind in favor of searching for the corpses of the previous parties that
+failed to defeat it. And of course, if you’re using Havens and Hells then
+Souls-like corpse runs are totally a thing that happens in that setting.&lt;/p&gt;
+
+&lt;p&gt;Using soul points for advancement is a matter of converting them in town using
+the reverse exchange rate: 500 SP for 1 character point. They can also be used
+to buy stuff, in which case 1 SP is worth $1. So characters must choose between
+buying equipment or upgrading their abilities, which will end up slowing
+advancement overall and making looted gear that much more desirable. A suit of
+fine armor you find in the wild is one you don’t have to spend Soul Points on!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/06/01/alternative-rewards.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/06/01/alternative-rewards.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>'Superheavy' Melee Weapons in GURPS</title>
+        <description>&lt;p&gt;Over- and undersized weapons are a popular trope for fantasy and
+fantasy-adjacent stories. Those giants and pixies need something to fight with,
+and human-scale warriors with huge swords is a itself a popular genre trope.&lt;/p&gt;
+
+&lt;p&gt;GURPS already has a pretty good set of cinematic rules for representing
+these. The best source of these is the &lt;em&gt;Scaling Weapons and Armor&lt;/em&gt; section found
+in &lt;strong&gt;GURPS Low-Tech Companion 2: Weapons and Warriors&lt;/strong&gt;. GURPS Dungeon Fantasy
+uses a limited subset of those in DF1 and 3.&lt;/p&gt;
+
+&lt;p&gt;However, there are a few other tropes that mess around with weapon weights in a
+supernatural way. Let’s take a look at how to represent them in GURPS.&lt;/p&gt;
+
+&lt;h2 id=&quot;superheavy-weapons&quot;&gt;Superheavy Weapons&lt;/h2&gt;
+
+&lt;p&gt;This is a melee weapon that’s the same size as its mundane counterpart, but it’s
+a lot &lt;em&gt;heavier&lt;/em&gt;. It’s probably made out of a non-standard material, which
+depending on the weapon might be a fruit of superscience or magic. Such weapons
+are usually built for legendarily strong wielders! The increased weight not only
+makes the weapons more deadly, but also allows its owner to employ their full
+strength when fighting.&lt;/p&gt;
+
+&lt;p&gt;To model these weapons, use the Scaling Weapons and Armor rules, with a few
+modifications:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Either pick a final weight for the weapon, or note the strength of its
+intended wielder if you already know that.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Go to page 21 of Low-Tech Companion 2, and pick the line whose “Typical User
+ST” column most closely matches that of the wielder.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you started with the weight, divide final weight by the “base” weight of
+the weapon and pick the line whose Weight column is closest to the result.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Modify the weapon’s Damage, required ST, Weight and base cost as written in
+LTC2. &lt;em&gt;Do not&lt;/em&gt; modify Reach or SM.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And there you have it! And yes, you can combine this with normal weapon scaling
+to make a weapon whose weight is abnormally large for its size. In that case,
+two extra steps apply after completing the procedure above:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Multiply the weapon’s Reach by the value in the table row corresponding to the
+SM of the intended wielder.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cost is the &lt;em&gt;higher&lt;/em&gt; of the weapon’s final modified cost, or the cost of a
+standard SM 0 weapon.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;: We’re making a super-strong martial artist character and we want
+him to use an iron quarterstaff that’s ten times heavier than the wooden
+variety. Looking at the table on LTC2 p. 21, we see that the closest multiplier
+is 12.25, for the SM+3 line.&lt;/p&gt;
+
+&lt;p&gt;After applying the modified process above, we end up with a weapon that has the
+following qualities: Damage sw+7 cr or thr+7 cr; Reach 1, 2; Parry +2; Cost
+$122,50; Weight 20kg (40 lbs); ST 25. So our hero would need at least ST 25 to
+properly wield such a weapon.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2&lt;/strong&gt;: We’re making a pixie barbarian using Dungeon Fantasy rules. Her
+ST is 13, which is legendary for a people whose SM is -6 and whose typical ST
+score is 5. We want her to wield a weapon that’s superheavy &lt;em&gt;for a pixie&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The chosen base weapon is a Dueling Halberd. We use the SM -6 row in the table
+for the halberd’s Reach multiplier, and the SM -2 row for everything else. Our
+resulting halberd will weight only a quarter of the human version, but it will
+be 25 times heavier than a “standard” pixie polearm, and weight more than its
+wielder! Since its modified cost of $30 is lower than its base cost of $150, it
+costs the same as a full-sized halberd.&lt;/p&gt;
+
+&lt;p&gt;The final stats are: Damage sw+2 cut or sw+2 imp or thr+2 imp; Reach C; Parry 0U
+or 0; Cost $150; Weight 1.25kg (2.5 lbs); ST 6++. Note that our super-strong
+pixie can wield this halberd one-handed without it becoming unready.&lt;/p&gt;
+
+&lt;h2 id=&quot;magically-attuned-weapons&quot;&gt;Magically Attuned Weapons&lt;/h2&gt;
+
+&lt;p&gt;This trope is popular in the Exalted roleplaying game. Magic weapons in that
+setting are based both on some tales of classical mythology and on modern media
+such as action anime and certain video games. The heroes who wield these weapons
+“attune their essence” to them, which makes the weapons feel like they have
+normal weight to their owners, while still being superheavy to everyone else -
+particularly their targets.&lt;/p&gt;
+
+&lt;p&gt;This means that characters wielding these weapons don’t have to be generically
+super-strong, and that the ability to handle one weapon doesn’t give them the
+ability to wield others.&lt;/p&gt;
+
+&lt;p&gt;To create such a weapon, use the same process outlined above for “superheavy”
+weapons. Attunement is represented by a new advantage, which the weapon’s owner
+must purchase in order to use it.&lt;/p&gt;
+
+&lt;h3 id=&quot;attunement-variable-cost&quot;&gt;Attunement (Variable Cost)&lt;/h3&gt;
+
+&lt;p&gt;You’re attuned to a specific magical weapon which is super-heavy, oversized, or
+both. You can wield it just as if it was a normal-sized weapon, though its
+targets will still feel the full weight of your blows.&lt;/p&gt;
+
+&lt;p&gt;To calculate the cost of this advantage, subtract your actual ST from the
+weapon’s minimum ST and multiply it by 1.6, rounding up. Add 1 to the total if
+the weapon is also oversized.&lt;/p&gt;
+
+&lt;p&gt;Attunement in no way “protects” your weapon! If it’s permanently lost or
+destroyed, you lose all the points invested in it.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Details&lt;/em&gt;: This is just enough levels of Lifting and Striking ST with the
+limitation “Only for this weapon” (-80%) to cover the difference between the
+character’s ST score and the minimum ST for the weapon. The extra point for
+oversized weapons is a specialized version of the Giant Weapons perk that
+removes all penalties due to size difference, but only works for that single
+weapon.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: If the Iron Staff from the previous section was a magic artifact in
+the style described here, a reedy ST 8 hero could attune to it by paying 28
+character points. 25 - 8 is 17, which multiplied by 1,6 gives us 27,5, which is
+then rounded up. This allows the hero to fight with the Staff as if he had
+ST 25, and to ignore its great weight when carrying it, but he’ll still be ST 8
+for all other purposes.&lt;/p&gt;
+
+&lt;h2 id=&quot;whomsoever-wields-this-hammer-should-he-be-worthy&quot;&gt;“Whomsoever wields this hammer, should he be worthy…”&lt;/h2&gt;
+
+&lt;p&gt;The third and final special weapon covered in this article are those powerful
+magical artifacts that only allow those they deem worthy to even lift
+them. Thor’s hammer from the Marvel comics and movies is a famous example.&lt;/p&gt;
+
+&lt;p&gt;Lifting and using these weapons is not a matter of muscle mass, but of moral
+strength. When you touch them, they judge you! If you pass that judgment, then
+you can lift and wield the weapon as if it was a normal specimen of its kind.&lt;/p&gt;
+
+&lt;p&gt;You don’t actually need to make these weapons superheavy or oversized. Instead,
+they look for certain traits in a prospective wielder. Those who have these
+traits are worthy. Those who don’t can’t even lift the weapon, even if they’re
+the strongest being in the universe muscle-wise. I generally consider this to be
+a story effect and wouldn’t try to put a price tag on it.&lt;/p&gt;
+
+&lt;p&gt;A weapon like movie-Mjolnir might look for one or more virtues along the lines
+of Honesty, Selfless, Charitable and so on. An evil weapon would instead look
+for Bloodlust or Sadism. They would of course also avoid traits opposite to
+those they like.&lt;/p&gt;
+
+&lt;p&gt;If the weapon in question is also superheavy or oversized, then it could grant
+worthy wielders the ST to use it, similar to how Attunement works, at no cost to
+the wielder. If you’re writing up the weapon as a character, this would be a
+benefficial Affliction granting the Attunement advantage described in the
+previous section of this article. Simplify its cost by having it grant a number
+of levels of ST equal to the minimum needed to wield the weapon regardless of
+the wielder’s current ST.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: The Iron Staff belonged to the Monkey King! Though it will shun
+Bloodthirsty, Callous, Greedy or Sadistic individuals, it will deem worthy
+anyone who shows its former master’s heroic spirit, martial prowess, or love of
+mischief. Anyone with at least two of Selfless, a Code of Honor or Higher
+Purpose to fight evil, Trained by a Master, Curious, or Trickster could be
+deemed worthy and be considered to have ST 25 when wielding the staff.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/05/03/superheavy-weapons.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/05/03/superheavy-weapons.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Only Good Metaplot</title>
+        <description>&lt;p&gt;I’m not much of an “OSR” person. I started playing in the 90’s, and while I
+played some D&amp;amp;D here and there it was never my main system, and I moved away
+from it as soon as I found others I liked more. While I do feel some nostalgia
+when looking at some iterations of its rules, reading them again mostly reminds
+me why I stopped playing them in the first place.&lt;/p&gt;
+
+&lt;p&gt;There’s one specific thing that the very earliest editions of that game did that
+I feel should be ported to the present unmodified: the way they handled metaplot
+and “canonical” NPCs.&lt;/p&gt;
+
+&lt;p&gt;Before D&amp;amp;D was even published you basically had two campaigns being run using
+draft versions of its rules. There was Dave Arneson’s Blackmoor, and Gary
+Gygax’s Greyhawk. They were separate settings, but as far as I know they were
+run in a similar way.&lt;/p&gt;
+
+&lt;p&gt;Each had one main GM, and started with an “original” party of players. This
+original party goes on adventures, slays monsters, finds treasure. The survivors
+level up and become more powerful.&lt;/p&gt;
+
+&lt;p&gt;And then new PCs start coming in. Maybe the GM convinces another group of
+friends to play on a different day of the week, or the older players roll up new
+starting characters for a bit of variety, or maybe they begin playing their
+henchmen when they go out on missions of their own. It’s likely a combination of
+all of the above, happening over an extended period of time.&lt;/p&gt;
+
+&lt;p&gt;So now there are multiple PC parties having adventures in the same setting! What
+each party does changes the setting in ways that can be felt by the others. If a
+party delves a dungeon on Monday, loses a fighter to a gelatinous cube and
+retreats, another one might go in there on Thursday and loot the dead fighter’s
+cool magic sword. If the high-level originals shake the pillars of Heaven on
+Saturday, the Monday and Thursday parties might hear about it and feel its
+consequences in their games.&lt;/p&gt;
+
+&lt;p&gt;And that’s metaplot in its original, “platonically ideal” form. It’s &lt;em&gt;what
+happens at the table&lt;/em&gt;, propagating to the other PC parties that are part of the
+same gaming group. This is practical because the setting is owned by a single GM
+or a small circle of them, who run the games for all groups involved and keep
+track of it all. As for “canon NPCs”, &lt;em&gt;there are none&lt;/em&gt;. It’s PCs all the way
+down, though I suppose some of them might transition fully to NPC status when
+they retire, becoming less active in the process.&lt;/p&gt;
+
+&lt;p&gt;To me, an ideal setting is one that enables groups to create their very own
+shared world in that mold.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/03/02/the-only-good-metaplot.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/03/02/the-only-good-metaplot.html</guid>
+        
+        <category>opinion</category>
+        
+        <category>gurps</category>
+        
+        <category>dnd</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dungeon Fantasy Character: Ser Alexa of the Flame, Human Mystic Knight</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/tumblr_459fae466a7d9b09883fcff85a7183d5_f1a67680_1280.jpg&quot;/&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://www.artstation.com/artwork/2xLEPA&quot;&gt;Illustration
+  by Nishio Nanora&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Years ago, Alexa’s father (a minor baron) sent her to the capital to serve as
+squire to a somewhat eccentric knight. She returns to her home a knight in her
+own right, skilled with sword and spell, to find her ancestral lands at the edge
+of ruin. Against the wishes of her ailing father, Alexa sets forth to bring
+honor, glory, and wealth back to her family name.&lt;/p&gt;
+
+&lt;p&gt;Alexa is made using the spell-based &lt;a href=&quot;/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html&quot;&gt;Mystic Knight template from this blog&lt;/a&gt;,
+rather than the Imbuement-based official one. Her Weirdness Magnet is a perfect
+explanation for why the Odds and Sods party got together in the first place,
+making her their unnoficial leader.&lt;/p&gt;
+
+&lt;h2 id=&quot;alexa-245-point-human-mystic-knight&quot;&gt;Alexa, 245-point Human Mystic Knight&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 14 {40}; &lt;strong&gt;DX&lt;/strong&gt; 13 {60}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 13 {30}&lt;/p&gt;
+
+&lt;p&gt;Damage 1d/2d; BL 19.6kg; HP 14; Will 12; Per 12; FP 13; Basic Speed 6.25; Basic
+Move 6 {0}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Born War Leader 1 {5}&lt;/li&gt;
+  &lt;li&gt;Magery 4 {45}&lt;/li&gt;
+  &lt;li&gt;Weapon Channeling {1}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code of Honor (Chivalry) {-15}&lt;/li&gt;
+  &lt;li&gt;Obsession (Restore My Family’s Holdings) {-5}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+  &lt;li&gt;Weirdness Magnet {-15}&lt;/li&gt;
+  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dislikes entering water {-1}&lt;/li&gt;
+  &lt;li&gt;Always carries the family sword {-1}&lt;/li&gt;
+  &lt;li&gt;Writes letters to her departed mother {-1}&lt;/li&gt;
+  &lt;li&gt;Stands at attention unless she makes a conscious effort not to {-1}&lt;/li&gt;
+  &lt;li&gt;Hotter to the touch than usual due to fire magic affinity {-1}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Armory (Body Armor) (A) IQ+1 {4} - 13&lt;/li&gt;
+  &lt;li&gt;Brawling (E) DX+1 {2} - 14&lt;/li&gt;
+  &lt;li&gt;Broadsword (A) DX+4 {16} - 17&lt;/li&gt;
+  &lt;li&gt;Connoisseur (Weapons) (A) IQ+1 {4} - 13&lt;/li&gt;
+  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) (E) DX {1} - 13&lt;/li&gt;
+  &lt;li&gt;Forced Entry (E) DX {1} - 13&lt;/li&gt;
+  &lt;li&gt;Heraldry (A) IQ-1 {1} - 11&lt;/li&gt;
+  &lt;li&gt;Hidden Lore (Magic Items) (A) IQ {2} - 12&lt;/li&gt;
+  &lt;li&gt;Innate Attack (Projectile) (E) DX+2 {4} - 15&lt;/li&gt;
+  &lt;li&gt;Leadership (A) IQ {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
+  &lt;li&gt;Occultism (A) IQ {2} - 12&lt;/li&gt;
+  &lt;li&gt;Riding (Horse) (A) DX-1 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Shield (E) DX+3 {8} - 16&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Strategy (H) IQ {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
+  &lt;li&gt;Tactics (H) IQ {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
+  &lt;li&gt;Thaumathology (VH) IQ+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
+  &lt;li&gt;Wrestling (A) DX+1 {4} - 14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All have +4 from Magery.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Communication and Empathy&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Sense Foes (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Sense Evil (H) IQ+2 {1} - 14&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fire&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Ignite Fire (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Create Fire (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Shape Fire (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Heat (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Flaming Weapon (H) IQ+3 {2} - 15&lt;/li&gt;
+      &lt;li&gt;Fireball (H) IQ+3 {2} - 15&lt;/li&gt;
+      &lt;li&gt;Extinguish Fire (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Fireproof (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Resist Fire (H) IQ+2 {1} - 14&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Healing&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Lend Energy (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Recover Energy (H) IQ+3 {2} - 15&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Protection and Warning&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Shield (H) IQ+2 {1} - 14&lt;/li&gt;
+      &lt;li&gt;Missile Shield (H) IQ+2 {2} - 15&lt;/li&gt;
+      &lt;li&gt;Mystic Mist (H) IQ+2 {1} - 14&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fine Medium Shield: DB 2. $600, 5.63kg.&lt;/li&gt;
+  &lt;li&gt;Light Mail Suit: DR 3/1. 10 FP as a power item. $1500, 18kg.&lt;/li&gt;
+  &lt;li&gt;Broadsword: Damage sw+1 cut or thr+2 imp. Enchanted with the Staff
+spell. $630, 1.5kg.&lt;/li&gt;
+  &lt;li&gt;Quick-Release Backpack: Holds 20kg of gear. Dropping it is a free
+action. $300, 1.5kg.
+    &lt;ul&gt;
+      &lt;li&gt;Blanket: $20, 2kg.&lt;/li&gt;
+      &lt;li&gt;Canteen: $10, 1.5kg.&lt;/li&gt;
+      &lt;li&gt;Personal Basics: $5, 0.5kg.&lt;/li&gt;
+      &lt;li&gt;Rope, 1cm, 10m: Supports 150kg; $5, 0.75kg.&lt;/li&gt;
+      &lt;li&gt;$430 in coin.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assumes Light encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge 8 (10)&lt;/li&gt;
+      &lt;li&gt;Parry 11 (13)&lt;/li&gt;
+      &lt;li&gt;Block 11 (13)&lt;/li&gt;
+      &lt;li&gt;DR 3/1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Broadsword (17): 2d+1 cut or 1d+2 imp, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Shield Bash (16): 1d cr, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Brawling Punch (14): 1d cr, due to mail gauntlets. Reach C.&lt;/li&gt;
+      &lt;li&gt;Brawling Kick (12): 1d+1 cr. Reach C, 1.&lt;/li&gt;
+      &lt;li&gt;Wrestling Grapple (14): 1d+1 control.&lt;/li&gt;
+      &lt;li&gt;Fireball (15): 1d to 3d burn, Acc 1, Range 25/50. Cost 0 to 2.
+        &lt;ul&gt;
+          &lt;li&gt;Alexa doesn’t usually charge it for more than 1 turn.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+1 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+4 from Magery &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/01/27/alexa.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/01/27/alexa.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Old-School Movement in Dungeon Fantasy</title>
+        <description>&lt;p&gt;I’ve been looking at some old D&amp;amp;D modules lately and wondering how to convert
+them to Dungeon Fantasy. One of the things that gave me some trouble was
+movement.&lt;/p&gt;
+
+&lt;p&gt;Dungeon movement in AD&amp;amp;D is by default extremely methodical and done with an
+almost paranoid level of caution&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is why even an entirely unencumbered
+party moves only 120ft/40m over ten minutes. They’re moving reeal slow; they’re
+trying to maintain stealth; they’re looking for traps and secret passages;
+someone is mapping. You move five times faster if you don’t have to map, and ten
+times faster if you throw caution to the wind and tromp through the dungeon at
+combat speed.&lt;/p&gt;
+
+&lt;p&gt;This is important because AD&amp;amp;D wants you to track turns precisely and roll for
+wandering monsters every so often. As a delver, you ideally want to get in, get
+the treasure, and get out as soon as possible. Every extra turn you spend in
+there has a chance of bringing in hostile enemies who don’t have any loot.&lt;/p&gt;
+
+&lt;p&gt;Dungeon Fantasy (either version) expects the party to move cautiously but
+doesn’t have specific or timing rules for it&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. So, when you convert AD&amp;amp;D
+modules to Dungeon Fantasy, how do you handle movement?&lt;/p&gt;
+
+&lt;p&gt;The easy solution is to just glom the AD&amp;amp;D turn and movement rules into Dungeon
+Fantasy! The resulting amalgamented abomination is actually rather
+playable. Check it out:&lt;/p&gt;
+
+&lt;h2 id=&quot;dungeon-fantasy-movement&quot;&gt;Dungeon Fantasy Movement&lt;/h2&gt;
+
+&lt;p&gt;Time spent inside a dungeon is measured in ten-minute &lt;em&gt;turns&lt;/em&gt;, like in ye olde
+days. When exploring a dungeon, delvers are by default assumed to be moving very
+cautiously and methodically, keeping their marching order. When moving this way,
+they cover a distance per turn equal to ten times the Move of the slowest party
+member, measured in yards or meters. For example, a party containing a heavily
+armored knight with Move 3 would explore 30 yards/meters in a turn&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;Moving this way is slow, and costs the party 1 FP per 5 turns of movement, but
+has several benefits:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The party is assumed to be on the lookout for danger. They roll to detect
+traps, enemies and other hazards automatically without having to state they
+are doing so.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Similarly, they can make Stealth rolls to avoid detection by monsters. If
+they’re walking together, this is a group Stealth roll as detailed in Exploits
+p. 6. All the usual factors for stealth are still at play here, such as light
+sources and so on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;This is the pace that allows the PCs to map the dungeon as per Exploits p. 18.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Actively investigating a room for treasure and secret doors also takes a turn
+and requires the normal rolls for these procedures. Turns spent searching do
+count for tracking FP cost.&lt;/p&gt;
+
+&lt;p&gt;The FP cost makes ye olde routine of delving for 5 turns and resting for one an
+efficient way to proceed, though the delvers can elect to push forward and take
+the FP loss if they’re pressed for time. The party can elect to move at five
+times this pace and still retain the first two benefits above, which makes
+traversing already-mapped portions of the dungeon a lot faster.&lt;/p&gt;
+
+&lt;p&gt;These rules are perfect for playing in converted old-school modules. You can use
+the modules’ own rules for random encounters with them, though obviously you’ll
+still want to convert the monsters. It’s probably okay to ignore these rules in
+modules made specifically for the DFRPG, since they tend to assume a faster
+pace.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Which is the right amount of caution for Gygaxian dungeons. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Even though the headers in its dungeon exploration section are remarkably
+similar to those of AD&amp;amp;D. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Divide that by 3 to get convert it to ten-foot squares. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2020/01/24/old-school-movement.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/01/24/old-school-movement.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dnd</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
