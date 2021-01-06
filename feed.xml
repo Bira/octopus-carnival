@@ -6,9 +6,166 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2021 20:05:24 +0000</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2021 20:05:24 +0000</lastBuildDate>
+    <pubDate>Wed, 06 Jan 2021 14:50:05 +0000</pubDate>
+    <lastBuildDate>Wed, 06 Jan 2021 14:50:05 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Treant</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-treant.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Treants are inspired by Tolkien’s ents and have been in the game since at least
+the days of BECMI, and likely earlier. Here, they are both in the Monster Manual
+and in the Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Treants are indeed very similar to the ents we see in The Lord of the Rings:
+they’re sapient tree-like creatures who live in primeval forests. The main
+difference between them (especially in 4e) is that treants are a lot quicker to
+arrive at decisions, and a lot angrier with trespassers.&lt;/p&gt;
+
+&lt;p&gt;Treants love the forests where they live, and acts as their guardians. They
+spend much of their extremely long lives in a dormant/meditative state in which
+they’re pretty much indistinguishable from normal trees. In this state, they can
+feel the general state of the surrounding forest and its creatures, and know
+when it’s in distress. When that happens, they rise to defend it.&lt;/p&gt;
+
+&lt;p&gt;Though treants love their forest and its creatures, they hold no particular
+regard for any outsiders. They’ll be friendly towards those who demonstrate the
+proper respect for the wild, and violent towards anyone who has the temerity to
+chop down trees or otherwise despoil their territory.&lt;/p&gt;
+
+&lt;p&gt;The Monster Vault goes a little further here, saying that treants view
+civilization in much the same way “civilized” people view the untamed wild: a
+source of danger best removed. Their prefer nature in its wildest and most
+unspoiled state, and will work to protect their territories even from natural
+disasters like floods or fires caused by lightning. They’ll ally with anyone who
+shares their values and opposes their enemies. They’re also very easy to anger
+(particularly when they feel they’ve been betrayed) and very hard to placate.&lt;/p&gt;
+
+&lt;p&gt;A treant’s most frequent allies are dryads, who share their general
+disposition. Eladrin and other fey are often allies as well, though in this case
+both sides tend to view each other more warily. You could even have a treant
+protecting the lair of an orc tribe, as long as the orcs focus their destruction
+outside of the treant’s domain.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Treants are Huge Fey Magical Beasts with the Plant keyword. They have low-light
+vision, Forest Walk, and a &lt;strong&gt;Wooden Body&lt;/strong&gt; trait that makes them take ongoing 5
+fire damage (save ends) whenever an attack deals immediate fire damage to
+them. The trait only gets a name in the Monster Vault, but is also present in
+the MM versions. If the attack in question already does ongoing fire damage, I
+guess this trait doesn’t stack with it.&lt;/p&gt;
+
+&lt;p&gt;Treants fight using a combination of their great strength with primal magic that
+grants them a measure of control over their surroundings. They’re fairly smart
+at Int 14, and though grumpy and aggressive they’re Unaligned.&lt;/p&gt;
+
+&lt;h3 id=&quot;bramblewood-treant-monster-vault&quot;&gt;Bramblewood Treant (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;Unlike the other treants, this one is “only” Large. It could be a younger
+specimen, or a different species that inhabits forests with smaller trees. It’s
+a Level 10 Soldier with 108 HP and all common treant traits. It has speed 8 and
+a &lt;strong&gt;Bramble Branches&lt;/strong&gt; aura (2) that turns the covered area into difficult
+terrain.&lt;/p&gt;
+
+&lt;p&gt;The bramblewood treant attacks with Reach 2 &lt;strong&gt;slams&lt;/strong&gt; that mark the target for a
+turn, and can throw &lt;strong&gt;stones&lt;/strong&gt; (Ranged 20 vs. AC) for some ranged damage. If an
+enemy within 2 squares moves, the treant can use &lt;strong&gt;Entangling Branches&lt;/strong&gt; (melee
+2 vs. Reflex) as an interrupt and grab them with an escape DC of 18.&lt;/p&gt;
+
+&lt;p&gt;This treant is at the right level to pal around with most dryads, some of the
+eladrin, or the banshrae.&lt;/p&gt;
+
+&lt;h3 id=&quot;treant-both&quot;&gt;Treant (Both)&lt;/h3&gt;
+
+&lt;p&gt;The basic model is Huge, and a Level 16 Elite Controller with 316 HP and all
+common traits. Its land speed is 8, and it projects a &lt;strong&gt;Grasping Roots&lt;/strong&gt; aura
+(3) that makes the covered area difficult terrain for nonflying enemies.&lt;/p&gt;
+
+&lt;p&gt;It fights with powerful &lt;strong&gt;slams&lt;/strong&gt;, and can use an &lt;strong&gt;Earthshaking Stomp&lt;/strong&gt; (close
+burst 2 vs. Fortitude) to do a bunch of damage and knock enemies prone. In the
+Monster Manual this is an encounter power, and in the Monster Vault it recharges
+if the attack misses every target.&lt;/p&gt;
+
+&lt;p&gt;The treant’s other trick is &lt;strong&gt;Awaken Forest&lt;/strong&gt; (area burst 3 within 10 vs. AC),
+which causes the vegetation in the area (trees included) to animate and attack
+enemies within. In the MM this is an encounter power that creates a zone which
+can be sustained with minor actions, and which makes new attacks against enemies
+inside whenever the treant sustains it.&lt;/p&gt;
+
+&lt;p&gt;In the MV, it’s a simple at-will standard action attack, and it creates a zone
+of difficult terrain that lasts either until the end of the encounter, or until
+the treant uses this power again.&lt;/p&gt;
+
+&lt;p&gt;The Monster Vault version of the treant is by far the better one, since it has
+updated damage values and is also a better controller. Other than “use fire”,
+there isn’t much you can do to get the upper hand over it, since it can make
+solid attacks and impair movement both in melee and at range. Treants pair
+really well with other creatures that have the Forest Walk ability.&lt;/p&gt;
+
+&lt;h3 id=&quot;treant-grove-guardian-monster-vault&quot;&gt;Treant Grove Guardian (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;I guess this is the sort of creature you can find guarding a powerful druid’s
+home base. It’s a Level 18 Brute with 212 HP and all common treant traits. Its
+speed is 8.&lt;/p&gt;
+
+&lt;p&gt;Grove guardians are all about physical combat. Their basic attack is a Reach 3
+&lt;strong&gt;Sweeping Slam&lt;/strong&gt; that can target one or two creatures, damaging and knocking
+them prone on a hit. Once per encounter they can perform a maneuver called
+&lt;strong&gt;Stump Stomp&lt;/strong&gt;, in which they move their speed, can enter other creature’s
+spaces, and make a sweeping slam attack against each creature whose space they
+enter.&lt;/p&gt;
+
+&lt;h3 id=&quot;blackroot-treant-both&quot;&gt;Blackroot Treant (Both)&lt;/h3&gt;
+
+&lt;p&gt;This is an &lt;em&gt;undead&lt;/em&gt; treant. You know those haunted forests where the trees seem
+to have evil faces? These guys are those trees. Unlike living treants they’re
+actively Evil, and actually a bit smarter at Int 16.&lt;/p&gt;
+
+&lt;p&gt;Blackroot treants are Huge Level 19 Elite Soldiers with 368 HP and all common
+treant traits. They have Speed 6 and the Undead keyword in addition to being
+Plants. They project a &lt;strong&gt;Killing Roots&lt;/strong&gt; aura (2) which does 10 necrotic damage
+to enemies caught inside.&lt;/p&gt;
+
+&lt;p&gt;Their Reach 3 &lt;strong&gt;slams&lt;/strong&gt; also do ongoing necrotic damage (save ends), and mark the target
+for a turn. They have &lt;strong&gt;Double Attack&lt;/strong&gt;, and so can use two of those per
+action. As a minor action they can use &lt;strong&gt;Entangling Roots&lt;/strong&gt; (melee 4 vs. Reflex)
+to knock someone prone and restrain them.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual version is a less powerful, since it lacks Double Attack, its
+slams don’t mark, and the effect of Entangling Roots ceases if the treant gets
+more than 4 squares away from the target. Always use the MV version if
+possible. Used well, they can keep most of the party locked down tight, since
+they can use Entangling Roots 1-3 times per turn and have no limit to the number
+of people they can keep restrained.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h3&gt;
+
+&lt;p&gt;The MM sample encounter is level 19 and all about that haunted forest vibe: 1
+blackroot treant, 2 slaughter wights, and 2 sword wraiths.&lt;/p&gt;
+
+&lt;p&gt;I like treants, even though this iteration of them is a bit more aggressive than
+I would like. Mechanically speaking, the MV versions are clearly superior to the
+MM originals, and you should use them whenever possible.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/06/treant.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/06/treant.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Swordwing</title>
@@ -1300,116 +1457,6 @@ cavities, not necessarily in that order.&lt;/p&gt;
         <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2020/12/23/slaad.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/23/slaad.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Skull Lord</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-skull-lord.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I had never read of skull lords before reading about them here, but they have a
-very 3e vibe to them so likely originated there. They are only on the Monster
-Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Despite the imposing name and the very Metal illustration, skull lords are made
-to be lieutenants. They’re created by powerful necromancers or liches to command
-their hordes of lesser undead, so they always answer to some higher power.&lt;/p&gt;
-
-&lt;p&gt;The book doesn’t get into much more detail than that, but it seems to me like
-skull lords are created undead similar to skeletons. They were never alive and
-the bones are just raw materials for their creation. Unlike common skeletons,
-they’re sapient and quite intelligent.&lt;/p&gt;
-
-&lt;p&gt;The first skull lords in recorded history emerged from the ruins of the Black
-Tower of Vumerion. Vumerion was a “legendary human necromancer” who apparently
-had his career cut short by a band of intrepid adventurers, and those skull
-lords might have been part of his contingency plans. They roam the land looking
-for a way to bring their dread master back to the world.&lt;/p&gt;
-
-&lt;p&gt;The ritual for making skull lords eventually made its way out of those tower
-ruins, too, so you might find these monsters working for anyone with the stomach
-to make them.&lt;/p&gt;
-
-&lt;p&gt;Each of those three skulls anchors a different set of magic powers, and all
-three must be destroyed to destroy the monster itself.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Skull Lords are Medium Natural Humanoids with the Undead keyword, and Level 10
-Artillery with a paltry 40 HP. This is not a typo, and you’ll see why soon. They
-have darkvision, a speed of 6, and the standard undead resistances (immunity to
-disease and poison, necrotic resistance, radiant vulnerability).&lt;/p&gt;
-
-&lt;p&gt;Skull lords project an aura (2) named &lt;strong&gt;Master of The Grave&lt;/strong&gt;, which grants
-Regeneration 5 and a +2 bonus to saves to any undead allies inside. The aura is
-anchored to the Skull of Death’s Command, below, so if that’s destroyed it
-stops.&lt;/p&gt;
-
-&lt;p&gt;The skull lord’s basic attack is a &lt;strong&gt;Bone Staff&lt;/strong&gt; that does a mix of physical
-and necrotic damage, but the three skulls are the main event. Each has an attack
-power that can be used as a minor action once per round, meaning the skull lord
-can use all of them in its turn if it doesn’t move.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Skull of Bonechilling Fear&lt;/strong&gt; (ranged 10 vs. Will) does a bit of cold
-damage and pushes 5 squares on a hit as it makes the target run away.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Skull of Whithering Flame&lt;/strong&gt; (ranged 10 vs. Fortitude) does fire and
-necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;And the &lt;strong&gt;Skull of Death’s Command&lt;/strong&gt; (Ranged 10) restores a destroyed undead
-minion within range. This an instance where I think the word “minion” &lt;em&gt;isn’t&lt;/em&gt;
-being used as a game term, since the text also mentions the minion has “full
-normal hit points” when restored. So yeah, what this does is bring back an
-undead creature under the skull lord’s command as long as it’s level is at most
-the skull lord’s +2 (12 by default). The creature appears in the square where it
-was destroyed and stands up as a free action. It has full HP and can act
-normally when its next action rolls around. This is an &lt;em&gt;at-will&lt;/em&gt; power, just
-like the others.&lt;/p&gt;
-
-&lt;p&gt;One additional effect of these &lt;strong&gt;Triple Skulls&lt;/strong&gt; is that when the lord hits 0
-HP, a random skull is destroyed and it instantly heals back to full. It loses
-the powers associated with the destroyed skull but is otherwise able to keep
-acting normally. This is why it only has 40 HP - it’s a multi-stage monster
-whose HP total is 120.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounters are nothing surprising:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 10: 2 skull lords and 3 skeletal tomb guardians.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 12: 1 skull lord, 1 vampire lord, 2 zombie hulks, 9 vampire spawn
-bloodhunters.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Note that in both cases the skull lords could restore any of the other monsters
-in these encounters. If the PCs don’t learn to destroy the skull lords first,
-they’re gonna have a bad time.&lt;/p&gt;
-
-&lt;p&gt;I like these things! They look badass and can be quite dangerous.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/12/22/skull-lord.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/22/skull-lord.html</guid>
         
         <category>dnd4</category>
         
