@@ -236,6 +236,9 @@ After this, we get right on the monsters:
   - [Stirge][169]
   - [Swordwing][171]
 
+- T
+  - [Treant][172]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -407,3 +410,4 @@ After this, we get right on the monsters:
 [169]: {{ "/2020/12/28/stirge.html" | relative_url }}
 [170]: {{ "/2020/01/05/spider.html" | relative_url }}
 [171]: {{ "/2020/01/05/swordwing.html" | relative_url }}
+[172]: {{ "/2020/01/06/treant.html" | relative_url }}
