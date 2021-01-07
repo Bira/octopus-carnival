@@ -237,6 +237,7 @@ After this, we get right on the monsters:
   - [Swordwing][171]
 
 - T
+  - [Tiefling][173]
   - [Treant][172]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
@@ -408,6 +409,7 @@ After this, we get right on the monsters:
 [167]: {{ "/2020/12/27/specter.html" | relative_url }}
 [168]: {{ "/2020/12/28/sphinx.html" | relative_url }}
 [169]: {{ "/2020/12/28/stirge.html" | relative_url }}
-[170]: {{ "/2020/01/05/spider.html" | relative_url }}
-[171]: {{ "/2020/01/05/swordwing.html" | relative_url }}
-[172]: {{ "/2020/01/06/treant.html" | relative_url }}
+[170]: {{ "/2021/01/05/spider.html" | relative_url }}
+[171]: {{ "/2021/01/05/swordwing.html" | relative_url }}
+[172]: {{ "/2021/01/06/treant.html" | relative_url }}
+[173]: {{ "/2021/01/07/tiefling.html" | relative_url }}
