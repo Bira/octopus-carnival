@@ -6,9 +6,171 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Jan 2021 18:20:11 +0000</pubDate>
-    <lastBuildDate>Thu, 07 Jan 2021 18:20:11 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Jan 2021 15:38:35 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Jan 2021 15:38:35 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Troglodyte</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-troglodyte.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Troglodytes appear on the Rules Cyclopedia, so they’ve been around at least
+since BECMI and likely since the beginning. Here, they are in both the Monster
+Manual and the Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Troglodytes are sapient reptilian humanoids native to the Underdark, one of the
+notable minority that seems to have evolved there instead of being a Far Realm
+or surface import. They secrete a foul-smelling mucus over their scaly hides,
+and seem to be resistant enough to disease that they don’t really care about
+personal hygiene on top of that. Their settlements present the unprepared
+visitor with a nightmarish olfactory experience.&lt;/p&gt;
+
+&lt;p&gt;Troglodytes reproduce by laying eggs, with the female laying close to a hundred
+of them at once. Only a minority of those will both hatch and survive to
+adulthood, which they reach in two years.&lt;/p&gt;
+
+&lt;p&gt;Troglodyte culture is at a paleolithic level of technological development, and
+though it’s egalitarian when it comes to gender it’s extremely
+xenophobic. Anyone not of the same tribe is an enemy to be killed and eaten, or
+captured and sacrificed to Torog (god of suffering and imprisonment) in an long,
+torture-filled ceremony. Troglodyte tribes fight each other as bitterly as they
+fight anyone else - when two tribes move into the same area, the most likely
+outcomes are for one of them to be annihilated or for the two to be so weakened
+they ironically end up merging under a strong leader. When resources grow scarce
+in their current territory they will gladly raid the surface.&lt;/p&gt;
+
+&lt;p&gt;It makes a little bit of sense for troglodytes to be this horrible when you
+think about it. Any less powerful Underdark culture is likely to grow a
+xenophobic streak when their most frequent neighbors are drow, duergar, and mind
+flayers. And if these three big empires base all of their power on slavery and
+torture, it’s not inconceivable that a culture they prey on would try to do the
+same, and venerate the god that presides over these things.&lt;/p&gt;
+
+&lt;p&gt;None of this stops the Big Three from regularly enslaving troglodytes and using
+them as muscle. I imagine it could also be possible to find bands of troglodytes
+who aren’t xenophobic Torog worshippers and who are on friendlier terms with
+other species. Perhaps they might even live on the surface.&lt;/p&gt;
+
+&lt;p&gt;This is another instance where the Monster Vault breaks out the full
+Lovecraftian Racism Vocabulary, calling them “degenerate reptile folk”,
+“loathsome primitives”, and so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Troglodytes are Medium Natural Humanoids with the Reptile keyword. They have
+darkvision and a land speed of 5. Their signature trait is of course
+&lt;strong&gt;Troglodyte Stench&lt;/strong&gt;, an aura (1) that inflicts a -2 penalty to the attacks of
+any living enemies inside.&lt;/p&gt;
+
+&lt;p&gt;They mostly fight with claws or stone weapons, though they also have
+spellcasters who use Torog-themed magic. We have a total of 6 unique stat blocks
+between the two books (4 each, with 2 appearing in both).&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-mauler-both&quot;&gt;Troglodyte Mauler (Both)&lt;/h3&gt;
+
+&lt;p&gt;The Monster Vault version is by far the best one, so we’ll start with that.&lt;/p&gt;
+
+&lt;p&gt;A Level 6 Soldier with 74 HP, the mauler fights in melee with a &lt;strong&gt;greatclub&lt;/strong&gt;
+and with its &lt;strong&gt;claws&lt;/strong&gt;, both of which are considered basic attacks. Both are
+equivalent damage-wise, but the club marks for a turn on a hit. The mauler also
+carries a pair of &lt;strong&gt;javelins&lt;/strong&gt; for throwing at range 10.&lt;/p&gt;
+
+&lt;p&gt;If the mauler has combat advantage against an enemy, it can use a minor-action
+&lt;strong&gt;bite&lt;/strong&gt; against them 1/round. This targets Fortitude, damages, and makes the
+target regain only half HP from healing for a turn. Bacteria, baby!&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual version is a lot less interesting, since its damage suffers
+from the bug and it lacks the javelins and the bite.&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-grunt-monster-vault&quot;&gt;Troglodyte Grunt (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;Grunts are Level 6 Minion Skirmishers, with all the standard troglodyte
+traits. They fight with &lt;strong&gt;clubs&lt;/strong&gt; that do minion-level damage and allow they to
+shift 2 squares as an effect. When targeted by area attacks they can &lt;strong&gt;scatter&lt;/strong&gt;
+as an interrupt, shifting up to 2 squares to a place outside the area of
+effect.&lt;/p&gt;
+
+&lt;p&gt;That last bit should give you some laughs the first time the party wizard smugly
+tries to hit them with an area spell.&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-thrasher-monster-vault&quot;&gt;Troglodyte Thrasher (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;Thrashers are Level 7 Brutes with 100 HP. They don’t bother with weapons, and
+fight with their &lt;strong&gt;claws&lt;/strong&gt;. They also have a &lt;strong&gt;Tooth and Claw&lt;/strong&gt; at-will attack
+that does roughly half the damage of a basic claw, but can attack one creature
+twice or two creatures once. If one of these attacks bloody the target, the
+troglodyte can make a basic claw attack against them.&lt;/p&gt;
+
+&lt;p&gt;So depending on how you spread Tooth and Claw around, you could end up doing
+three times the damage of the basic claw in a round (1.5 times base damage to
+each of two targets you just bloodied)!&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-impaler-both&quot;&gt;Troglodyte Impaler (Both)&lt;/h3&gt;
+
+&lt;p&gt;Impalers are Level 7 Artillery with 69 HP. They fight with &lt;strong&gt;spears&lt;/strong&gt; in melee
+and throw &lt;strong&gt;javelins&lt;/strong&gt; at range (they start with 6). The MM also gives them a
+useless claw attack.&lt;/p&gt;
+
+&lt;p&gt;Aside from making basic attacks, the impaler can use a javelin to make an
+&lt;strong&gt;Impaling Shot&lt;/strong&gt; (ranged 10 vs. AC; recharge 3-6), which does the same damage
+and restrains the target (save ends) by going right through it and into the
+ground.&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-curse-chanter-monster-manual&quot;&gt;Troglodyte Curse Chanter (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A spellcaster, likely a priest of Torog or a primal caster who communes with
+underground spirits. It’s a Level 8 Controller with the Leader keyword and 93
+HP.&lt;/p&gt;
+
+&lt;p&gt;The curse chanter wields a &lt;strong&gt;quarterstaff&lt;/strong&gt; and also fights with &lt;strong&gt;claws&lt;/strong&gt;, but
+the real firepower comes from its magic. It can shoot &lt;strong&gt;poison rays&lt;/strong&gt; (ranged 10
+vs. Fortitude) that do poison damage and weaken (save ends). It can call down a
+&lt;strong&gt;cavern curse&lt;/strong&gt; (ranged 5 vs. Fortitude; recharge 3-6) that inflicts ongoing
+necrotic damage and slows (save ends both). It can bless its allies with
+&lt;strong&gt;Tunnel Grace&lt;/strong&gt; (close burst 10; minor action 1/round; recharge 4-6) to give
+them +5 speed for a turn. And it can sing a &lt;strong&gt;chant of renewal&lt;/strong&gt; (close burst 5;
+encounter) to heal all bloodied allies in range for 15 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;troglodyte-warrior-monster-manual&quot;&gt;Troglodyte Warrior (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;These are Level 12 Minions, which makes them suitable to represent enslaved
+cannon fodder in the service of drow or mind flayers. They have the common
+traits of darkvision and the stench, and a basic &lt;strong&gt;club&lt;/strong&gt; attack, being
+otherwise unremarkable. You’re better off leveling up the Grunts from the MV and
+using those instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Most of the MM’s sample encounters are assorted troglodytes, though sometimes
+they’ll have a rage drake or some gricks as pets. There’s also one that includes
+drow and a gaggle of troglodyte warriors.&lt;/p&gt;
+
+&lt;p&gt;Narratively, it feels like Troglodytes flesh the Underdark out a little bit, but
+the way the books refer to them does them no favors. In the end I feel like
+using them in a subterranean campaign mostly so I can defy their awful canonical
+description, which I guess is something.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, most of their statistics are interchangeable with those of other
+humanoids. Replace their signature abilities with darkvision and the stench
+aura, and you have an instant novelty troglodyte. The reverse is also true.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/08/troglodyte.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/08/troglodyte.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Tiefling</title>
@@ -1236,164 +1398,6 @@ harbingers in a campaign focused on opposing Orcus.&lt;/p&gt;
         <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Snake</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-snake.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Snakes have been in the game since the beginning. They are present both in the
-Monster Manual and in the animal appendix of the Monster Vault.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Snakes are real world animals, but there’s a huge body of legend surrounding
-them in practically every culture. D&amp;amp;D seems to be partial to the Western
-depiction of snakes as treacherous and deadly, since it has Zehir as one of its
-evil gods.&lt;/p&gt;
-
-&lt;p&gt;Still, this entry focuses on &lt;em&gt;monstrous&lt;/em&gt; snakes. The mundane varieties likely
-behave pretty much as they do in the real world, with a lot of them being
-harmless and the dangerous ones only attacking if they feel threatened.&lt;/p&gt;
-
-&lt;p&gt;Though monstrous snakes are large and aggressive enough to actively hunt people,
-most are still merely dangerous animals. A rare few might be blessed by Zehir,
-though, which makes them sapient, evil, and more powerful.&lt;/p&gt;
-
-&lt;p&gt;Between the two books we have quite a lot of different snake stat blocks.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Snakes are so varied that they have little in common that I can discuss
-here. They’re all beasts, they all have the Reptile keyword, and they all
-bite. That’s it.&lt;/p&gt;
-
-&lt;h3 id=&quot;spitting-cobra-monster-vault&quot;&gt;Spitting Cobra (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;The closest you’ll get to a real snake here. Spitting Cobras are Small Natural
-Beasts, and Level 5 Minion Soldiers. Their &lt;strong&gt;bite&lt;/strong&gt; does poison damage and marks
-for a turn, and their &lt;strong&gt;Blinding Spittle&lt;/strong&gt; (ranged 5 vs. Reflex; recharge 4+)
-does the same damage and blinds (save ends).&lt;/p&gt;
-
-&lt;p&gt;I could see an eccentric kobold artificer firing these out of a cannon, or a
-priest of Zehir summoning them out of thin air.&lt;/p&gt;
-
-&lt;h3 id=&quot;deathrattle-viper-both&quot;&gt;Deathrattle Viper (Both)&lt;/h3&gt;
-
-&lt;p&gt;Pretty much a dire rattlesnake. It inhabits forests, jungles, and caves, though
-they wouldn’t look out of place in a desert either. These vipers are Medium
-Natural Beasts, and Level 5 Brutes with 75 HP. They have low-light vision, and
-resist 10 poison. Their land speed is 4, and they also have a climb speed of 4.&lt;/p&gt;
-
-&lt;p&gt;Their bony tails produce a magically enhanced &lt;strong&gt;Death Rattle&lt;/strong&gt; that acts as an
-aura (2) which inflicts a -2 attack penalty to all enemies inside. This is a
-fear effect.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; allows a secondary attack vs. Fortitude on a hit, which delivers
-their venom in the form of immediate and ongoing poison damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;Deathrattle Vipers also appear in the Monster Vault, and are identical aside
-from their updated bite damage. Their low speed makes running away from them a
-feasible tactic even for someone in heavy armor, so they should be paired with
-other monsters that make this more difficult.&lt;/p&gt;
-
-&lt;h3 id=&quot;crushgrip-constrictor-both&quot;&gt;Crushgrip Constrictor (Both)&lt;/h3&gt;
-
-&lt;p&gt;This is what you’d get if all the shit they say about boas and anacondas was
-true. They’re found in jungles, marshes, and underground. Constrictors are Large
-Natural Beasts and Level 9 Soldiers with 96 HP. They have land, climb and swim
-speeds of 6. They’re the other snake that exists in both books.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does damage and grabs on a hit, as the snake quickly coils around
-the target. The escape DC 25 for Athletics and 22 for Acrobatics in the MM, and
-a gentler 17 in the MV.&lt;/p&gt;
-
-&lt;p&gt;Against a grabbed target they can &lt;strong&gt;Constrict&lt;/strong&gt;, which targets Fortitude, does a
-nice chunk of physical damage, and dazes for a turn.&lt;/p&gt;
-
-&lt;p&gt;No explicit mention is made of how many targets the snake can have grabbed. If
-you’re being relatively realistic, it should be just one. Larger or more
-supernatural versions might be able to coil around multiple unfortunates.&lt;/p&gt;
-
-&lt;h3 id=&quot;flame-snake-monster-manual&quot;&gt;Flame Snake (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;A snake from the Elemental Chaos. Not much is written about its origins, so it
-could be a case of parallel evolution or one of those rare instances where
-creatures from the world migrated to the other planes and adapted to them. As
-fire elementals, they can be summoned and controlled by magic.&lt;/p&gt;
-
-&lt;p&gt;Flame Snakes are Medium Elemental Beasts with the Fire and Reptile
-keywords. They’re Level 9 Artillery with 74 HP and Resist Fire 20. They have a
-speed of 6, but can’t climb or swim. They also can’t see in the dark, though
-it’s reasonable to say their incandescent bodies would shed light.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does a mix of physical and fire damage, and they can &lt;strong&gt;Spit
-Fire&lt;/strong&gt; (Ranged 10 vs. Reflex), doing both immediate and ongoing fire damage
-(save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-snake-monster-manual&quot;&gt;Shadow Snake (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;The blessed of Zehir, these two-headed monsters are made of solid shadow and are
-venerated by Yuan-ti. They’re level 16 Skirmishers with 158 HP. They slither at
-speed 7 and have a climb speed of 7. Their Int is 4: they’re not exactly
-sapient, but are very cunning, and also Evil.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; do physical and ongoing poison damage (save ends), and they can
-make &lt;strong&gt;Double Attacks&lt;/strong&gt; because of the two heads. Once per encounter they can
-make a &lt;strong&gt;Shifting Shadowstrike&lt;/strong&gt;, shifting their speed (7) and biting two
-different targets as they do so.&lt;/p&gt;
-
-&lt;p&gt;Also once per encounter, they can &lt;strong&gt;Vanish Into the Night&lt;/strong&gt;, which makes them
-insubstantial, gives them phasing, and makes them invisible in dim light. All of
-this lasts for a turn and makes for an excellent “escape hatch” when the fight
-starts to go badly. I imagine shadow snakes very rarely fight to the death -
-they’d be smart enough to cut and run.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The Monster Manual seems to think reptiles gotta stick together, so it has a
-bunch of encounters that feature snakes alongside level-appropriate sapient
-reptiles that act as their handlers:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Death rattlers and lizardfolk&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Constrictors and snaketongue cultists (which aren’t reptiles, exactly, but are
-close enough).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Flame Snakes and troglodytes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Shadow Snakes and yuan-ti.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I imagine you could use death rattlers as “minibosses” in low-level adventures
-featuring kobolds, as well.&lt;/p&gt;
-
-&lt;p&gt;These snakes don’t exactly rock my world, but I feel they’re still a good
-addition to the game.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/12/24/snake.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/24/snake.html</guid>
         
         <category>dnd4</category>
         
