@@ -6,9 +6,218 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Jan 2021 15:38:35 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Jan 2021 15:38:35 +0000</lastBuildDate>
+    <pubDate>Sat, 09 Jan 2021 13:57:00 +0000</pubDate>
+    <lastBuildDate>Sat, 09 Jan 2021 13:57:00 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Troll</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-troll.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D Trolls are inspired by the writings of Poul Anderson and have been in the
+game since the beginning. Here, they are present in both the Monster Manual and
+the Vault. I’m telling you in advance: I’m not gonna make jokes about rude
+Internet posters.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Trolls are large humanoid creatures with amazing regenerative powers, able to
+survive just about anything and thrive just about anywhere. This same remarkable
+metabolism makes it so trolls are always hungry and in search of food. They’ll
+eat anything that’s smaller than themselves and made of meat.&lt;/p&gt;
+
+&lt;p&gt;The only things that can temporarily overwhelm a troll’s regeneration are fire
+and acid. One of these is required to kill a troll permanently - it can come
+back from anything else. This makes them pretty much fearless in combat. Trolls
+attack even when they’re outnumbered and when the enemies seem strong, because
+they’re confident in their survival. Even the presence of fire and acid doesn’t
+get them to back off right away, though in this case they might retreat if they
+get too hurt.&lt;/p&gt;
+
+&lt;p&gt;I imagine this made trolls into dangerous puzzle monsters back when they were
+new, but now pretty much any D&amp;amp;D veteran is going to know about their
+weaknesses. Many arcane characters have easy sources of fire or acid at hand,
+and other “caster” types might have an encounter power or two that deal those
+types of damage. If your wizard is one of those charop types that went all in on
+psychic and force spells, though, you’re in for a tought fight.&lt;/p&gt;
+
+&lt;p&gt;If you have no other source of fire you can “kill” the troll with
+conventional weapons and stick a lit torch in it to finish the job, but even
+that is easier said than done. And adventurers these days tend to prefer those
+alchemical glow-sticks as light sources, so they might not even have torches
+available if they don’t know a troll is around!&lt;/p&gt;
+
+&lt;p&gt;Trolls are sapient, but not very smart. Still smarter than ogres,
+though. Tricking the typical troll is easy, provided you can get it to talk to
+you instead of immediately ripping you apart and eating the pieces. All sorts of
+villains and tyrants like to recruit trolls into their forces, since they’ll
+readily work for a bit of money and a lot of food. Such trolls are all too glad
+to receive additional training and gear from their bosses, and though they make
+for undisciplined and rowdy soldiers, they’re deadly in a fight.&lt;/p&gt;
+
+&lt;p&gt;Evil wizards also love trolls, for a different reason. They can survive all
+sorts of disturbing magical experiments, which tend to result in weird mutants
+much stronger and much less mentally stable than a standard troll.&lt;/p&gt;
+
+&lt;p&gt;It’s perfectly possible for there to be trolls who aren’t evil and who don’t eat
+other sapients, though even them they’d have a hard time coexisting with those
+sapients since they require large hunting areas to sustain themselves. Even nice
+trolls are likely to make their home in the wilderness far away from any
+settlements.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Trolls are Large Natural Humanoids, and their signature traits are
+&lt;strong&gt;Regeneration&lt;/strong&gt; and &lt;strong&gt;Troll Healing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As I explained in a previous entry, 4e Regeneration is more or less equivalent
+to 3e’s Fast Healing: the monster recovers the specified amount of hit points at
+the start of its turn as long as it has at least 1 HP remaining. For MM trolls,
+this is either 10 or 15 depending on the stat block. For MV trolls, this is 5
+across the board. Troll regeneration stops working for a turn if the monster
+takes fire or acid damage.&lt;/p&gt;
+
+&lt;p&gt;Troll Healing is what makes them immortal: if a troll is reduced to 0 HP by
+anything other than fire or acid damage, it recovers the specified amount of HP
+and rises again at the start of its next turn. It can still be killed before it
+rises if it takes fire or acid damage while down.&lt;/p&gt;
+
+&lt;p&gt;In addition to these, they can usually do something interesting when their basic
+attack bloodies a target. Being Large creatures, all their attacks have
+Reach 2. They only speak Giant, which is another barrier to nonviolent
+communication.&lt;/p&gt;
+
+&lt;h3 id=&quot;troll-both&quot;&gt;Troll (Both)&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 9 Brute with 100 HP. The MV version has regeneration
+10 and troll healing 10, while the MV version has regeneration 5 and troll
+healing 15. Both have speed 8.&lt;/p&gt;
+
+&lt;p&gt;Trolls attack with their &lt;strong&gt;claws&lt;/strong&gt;, and if their basic attack bloodies the
+target they get to make another one against it as a free action. They have no
+other special abilities, being quintessential brutes.&lt;/p&gt;
+
+&lt;h3 id=&quot;battle-troll-monster-vault&quot;&gt;Battle Troll (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;A troll who received extra training and equipment from its patrons. It’s a Level
+12 Soldier with 124 HP. Its speed is reduced to 7 by armor, and its
+regeneration/troll healing values are 5/15.&lt;/p&gt;
+
+&lt;p&gt;The battle troll wears scale and fights with a &lt;strong&gt;broadsword&lt;/strong&gt;, which marks the
+target for a turn. If a broadsword attack bloodies the target, the troll can
+make another free attack against it. It can also use the sword to make
+&lt;strong&gt;sweeping strikes&lt;/strong&gt; which hit in a Close Blast 2 and knock targets prone.&lt;/p&gt;
+
+&lt;h3 id=&quot;bladerager-troll-monster-vault&quot;&gt;Bladerager Troll (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;The product of twisted Cocaine Wizard experiments, this is a troll who had tons
+of sharp blades implanted all over its body. It’s a Level 12 Brute with 151 HP,
+Speed 7, and Regeneration 5 &lt;em&gt;without&lt;/em&gt; Troll Healing.&lt;/p&gt;
+
+&lt;p&gt;The bladerager attacks with its augmented &lt;strong&gt;claws&lt;/strong&gt;, which can also perform a
+&lt;strong&gt;Bladerager Rend&lt;/strong&gt; once per encounter for massive immediate damage and ongoing
+10 damage (save ends). A miss does half the immediate and ongoing damage. If the
+basic claw attack bloodies a target, the Rend recharges.&lt;/p&gt;
+
+&lt;p&gt;When the bladerager reaches 0 HP, it explodes into a cloud of shrapnel! This
+&lt;strong&gt;Death Burst&lt;/strong&gt; targets affects a Close Burst 2 around the troll, doing a bit
+less damage than the rend to everyone caught by it.&lt;/p&gt;
+
+&lt;h3 id=&quot;ghost-troll-render-monster-vault&quot;&gt;Ghost Troll Render (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;This troll died but didn’t even notice. It’ll still try to eat you. You can make
+any regular troll into an elite of sorts by having one of these rise up from its
+corpse.&lt;/p&gt;
+
+&lt;p&gt;Ghost Trolls are Level 13 Brutes with 161 HP and the Undead keyword. They have a
+flight speed of 7 with Hover and Phasing, and are immune to disease and
+poison. Lacking a body, they no longer regenerate and are instead
+Insubstantial. This means they take half damage from anything but force
+attacks. Getting hit by a radiant, fire or acid attack makes them substantial
+for a turn.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Spirit Claw&lt;/strong&gt; that targets Reflex, and they can
+perform a &lt;strong&gt;Terror Strike&lt;/strong&gt; (melee 2 vs. Will) that does a massive amount of
+psychic damage and slows on a hit (save ends). The first failed save turns that
+slowed status into unconsciousness, which ends on a sucessful save or if the
+victim takes damage. This is an encounter power that recharges if it misses, so
+chances are the ghost &lt;em&gt;will&lt;/em&gt; scare someone this way during the fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;war-troll-monster-manual&quot;&gt;War Troll (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;An earlier but slightly more flexible version of the MV Battle Troll. This one
+is a Level 14 Soldier with 110 HP. It wears plate, wields a greatsword, but also
+carries a longbow and a quiver full of arrows. Its speed is 7 and its
+regeneration/troll healing values are 10/15.&lt;/p&gt;
+
+&lt;p&gt;It has the same &lt;strong&gt;greatsword&lt;/strong&gt; and &lt;strong&gt;sweeping strike&lt;/strong&gt; attacks of the Battle
+Troll, and it also has &lt;strong&gt;Threatening Reach&lt;/strong&gt; (2) and can use &lt;strong&gt;Blood Pursuit&lt;/strong&gt;
+as a reaction to shift 1 square closer to a bloodied enemy within 2 squares who
+shifts. It can also fight at range with its &lt;strong&gt;Longbow&lt;/strong&gt;, of course.&lt;/p&gt;
+
+&lt;h3 id=&quot;fell-troll-monster-manual&quot;&gt;Fell Troll (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;The biggest and baddest among trolls. They’re Huge, and Level 20 Elite Brutes
+with 360 HP. Their speed is 10, their regeneration/troll healing values are
+10/20, and they gain a +1 to attacks and a +2 to damage against bloodied
+enemies.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a Reach 3 &lt;strong&gt;claw&lt;/strong&gt;, and they can use Reach 3 &lt;strong&gt;backhand
+slams&lt;/strong&gt; as a 1/round minor action for extra damage and to push fools up to 4
+squares.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I don’t think it’s possible for a game to call itself D&amp;amp;D without including
+green regenerating trolls in its bestiary. Non-D&amp;amp;D games can still have them, of
+course: GURPS Dungeon Fantasy does.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual has three sample encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 9: 3 trolls and 2 destrachans. The destrachans are slightly smarter than
+the trolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 16: 2 war trolls, 1 night hag, 5 grimlock minions, a drow priest, and a
+drow blademaster. A group so diverse it could be an evil adventuring party.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 19: 1 fell troll, 2 enormous carrion crawlers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;War and battle trolls can be found alongside anyone who is willing to pay
+them. The others would be found with more trolls, and with creatures they might
+have decided to keep as pets. Mechanically, they need that company to make for
+more interesting fights, because their abilities aren’t very varied on their
+own.&lt;/p&gt;
+
+&lt;p&gt;Adding some trolls to a “wilderness” region you’re populating might work as a
+fine explanation for why all those other deadly monsters don’t spill out and
+overwhelm nearby “points of light”. If anyone would hunt and eat bullettes, dire
+boars, roaming gricks and maybe even the occasional drow scouting party, it’s a
+bunch of trolls.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/09/troll.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/09/troll.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Troglodyte</title>
@@ -1248,156 +1457,6 @@ Monster Vault.&lt;/p&gt;
         <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2020/12/27/specter.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/27/specter.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Sorrowsworn</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-sorrowsworn.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I believe Sorrowsworn started out as a type of Forgotten Realms demon in 2e, but
-now they’re something different. They’re only on the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Sorrowsworn resemble undead demons in appearance, though they’re neither demons
-nor undead. Rather, they’re a sort of living avatar of death. Does that sound
-contradictory to you? Deep mysteries tend to be like that.&lt;/p&gt;
-
-&lt;p&gt;You see, they’re not a natural species. Most are divine servitors of the Raven
-Queen, transformed into their current state by her powers. Some were mortals
-particularly attuned to death and its related concepts who managed to ascend on
-their own.&lt;/p&gt;
-
-&lt;p&gt;Both types were often shadar-kai in their mortal lives. Becoming sorrowsworn is
-seen by them as a glorious ascension, since it makes them not only ageless but
-also more goth than anything mortal.&lt;/p&gt;
-
-&lt;p&gt;Sorrowsworn feed on grief, and so tend to hang out at the sites of great
-catastrophes or conflicts. Those who serve the Raven Queen are also tasked with
-hunting down beings who have cheated death. This doesn’t mean people who were
-the subject of Raise Dead - rather, it’s people who have found a way to stick
-around beyond their appointed time. Most often they’re some sort of undead like
-vampires, liches or nightwalkers, but I guess someone who hunts phoenixes and
-regularly huffs their powdered feathers would fit as well.&lt;/p&gt;
-
-&lt;p&gt;Sorrowsworn lairs are bleak caves and pits whose walls are covered in tiny
-alcoves containing trophies from their past victims. These are arranged in
-tableaus that each tell a more depressing story than the last. Flocks of
-shadowravens (sinister half-spirit birds) hang out in these lairs, and swarm to
-attack intruders. These swarms also often fly out with their sorrowsworn
-masters, acting as heralds and allies to them in combat.&lt;/p&gt;
-
-&lt;p&gt;Their greatest enemies are the Nightwalkers, since they are anathema to all of
-the Raven Queen’s precepts. Death Giants are also frequent foes. Of course,
-despite their opposition to undeath they’re not really that nice themselves, and
-have their own stuff going on when they’re not on holy missions for the Raven
-Queen. That means they can easily end up fighting your PCs even when none of
-them are guilty of cheating death.&lt;/p&gt;
-
-&lt;p&gt;As sorrowsworn like to fight with scythes, I figure the symbol of death in 4e’s
-implied setting isn’t a robed skeleton, but a sorrowsworn. At least when it’s
-not an image of the Raven Queen.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Sorrowsworn are Medium Shadow Humanoids and have Darkvision. Their signature
-trait is &lt;strong&gt;Bleak Visage&lt;/strong&gt;, a fear effect which inflicts a -2 penalty on melee
-and ranged attacks targetting them (close and area attacks are unaffected).&lt;/p&gt;
-
-&lt;p&gt;They use scythes in combat and their powers are a blend of teleportation and
-psychic attacks. They don’t have any elemental resistances of vulnerabilities,
-which is interesting.&lt;/p&gt;
-
-&lt;h3 id=&quot;sorrowsworn-soulripper&quot;&gt;Sorrowsworn Soulripper&lt;/h3&gt;
-
-&lt;p&gt;This Level 25 Skirmisher has 236 HP and a land speed of 10. Unlike most of its
-colleagues, it fights unarmed, with &lt;strong&gt;claws&lt;/strong&gt; that do a mix of physical and
-psychic damage, and deal extra damage when it has combat advantage.&lt;/p&gt;
-
-&lt;p&gt;It will often &lt;strong&gt;Flutter and Strike&lt;/strong&gt; (recharge 5-6), which allows it to teleport
-10 squares and make an attack with combat advantage at the arrival
-point. &lt;strong&gt;Sorrow’s Rush&lt;/strong&gt; is an encounter power that allows it to move 10 squares
-and attack up to three different targets along the movement path.&lt;/p&gt;
-
-&lt;h3 id=&quot;sorrowsworn-reaper&quot;&gt;Sorrowsworn Reaper&lt;/h3&gt;
-
-&lt;p&gt;A Level 27 Soldier with 254 HP, this is likely the one that replaces the robed
-skeleton as the D&amp;amp;D setting’s “grim reaper” figure. It runs and climbs at speed
-8, with Spider Climb.&lt;/p&gt;
-
-&lt;p&gt;It wields &lt;strong&gt;Sorrow’s Scythe&lt;/strong&gt;, which does psychic damage and marks for a
-turn. It can also use a &lt;strong&gt;Reaping Blow&lt;/strong&gt; (recharge 6), which is stronger and
-heals the reaper for 60 HP if it reduces the target to 0.&lt;/p&gt;
-
-&lt;h3 id=&quot;sorrowsworn-deathlord&quot;&gt;Sorrowsworn Deathlord&lt;/h3&gt;
-
-&lt;p&gt;This Level 28 Lurker (Leader) has 204 HP. It’s surrounded by an aura (1) of
-&lt;strong&gt;Mournful Whispers&lt;/strong&gt; that daze any enemies caught inside for a turn. It runs at
-speed 8, flies at speed 10, and has phasing.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Dark Scythe&lt;/strong&gt; deals necrotic and psychic damage, and weakens for a
-turn. It can also &lt;strong&gt;Reap and Fade&lt;/strong&gt; (recharge 3-6), which allows it to make an
-attack, teleport 10 squares, and become insubtantial for a turn in that order.&lt;/p&gt;
-
-&lt;p&gt;This is a lurker that inverts the usual routine! Instead of attacking every
-other turn, it can only &lt;em&gt;be attacked&lt;/em&gt; every other turn, assuming it takes care
-to phase into a wall, floor, or ceiling after it attacks. So it moves in,
-attacks, and is exposed until its next action, when it attacks and moves
-away. Reap and Fade makes it even harder to pin down, as it can move in and use
-the ability to attack and immediately move away again.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadowraven-swarm&quot;&gt;Shadowraven Swarm&lt;/h3&gt;
-
-&lt;p&gt;A shadowraven swarm counts as a Medium Shadow Beast with the Swarm
-keyword. It’s a Level 27 Brute with 296 HP. It has a land speed of 2 and a
-flight speed of 12, and all the standard swarm traits: a Swarm Attack aura, half
-damage from single target attacks, and 10 extra damage from area ones.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is a &lt;strong&gt;Swam of Talons&lt;/strong&gt; that does a mix of physical and
-necrotic damage. Once bloodied, it can use the &lt;strong&gt;Murder’s Wrath&lt;/strong&gt; encounter
-power, allowing it to fly 6 squares, move through other creatures’s squares, and
-make a basic attack against anyone whose square it moves through.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Sorrowsworn tend to group with each other, with deathlords running the show and
-the others following their orders. They’re often accompanied by shadowraven
-swarms, and ride fell wyverns.&lt;/p&gt;
-
-&lt;p&gt;One of the sample encounters here also has them alongside the epic-level
-dragonborn deathknight, which hints that not all of them hate undead.&lt;/p&gt;
-
-&lt;p&gt;Sorrowsworn fill the same niche as rot harbingers: as regulars, they’re supposed
-to be the basic building block for encounters in a late Epic adventure focusing
-on their patron. I feel they work a lot better, though, as they have more
-interesting maneuvers in their stat blocks. They also don’t rely exclusively on
-necrotic damage, so it’s harder to get protection against their attacks.&lt;/p&gt;
-
-&lt;p&gt;I guess this explains why Orcus isn’t likely to usurp the Raven Queen anytime
-soon!&lt;/p&gt;
-
-&lt;p&gt;You can still use sorrowsworn in a campaign where the PCs aren’t likely to
-oppose the Raven Queen. There might very well be renegade sorrowsworn out there,
-and you could also reskin them and make them undead to use as better rot
-harbingers in a campaign focused on opposing Orcus.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/25/sorrowsworn.html</guid>
         
         <category>dnd4</category>
         
