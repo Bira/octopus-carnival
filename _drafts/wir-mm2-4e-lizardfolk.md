@@ -6,11 +6,11 @@ tags:
     - lets-read
 ---
 
-We already looked at lizardfolk during our reading of the first Monster Manual
-and the Monster Vault. As we saw before, there are several different ethnicities
-of lizardfolk. The first MM had the human-sized "greenscales" and the larger
-"blackscales". The Vault also contained a "poisonscale" type, which turns out to
-have debuted here in the MM2.
+We already looked at [lizardfolk][2] during our reading of the first Monster
+Manual and the Monster Vault. As we saw before, there are several different
+ethnicities of lizardfolk. The first MM had the human-sized "greenscales" and
+the larger "blackscales". The Vault also contained a "poisonscale" type, which
+turns out to have debuted here in the MM2.
 
 Poisonscale lizardfolk have a smaller and slighter build than greenscales,
 though they're still Medium. To make up for their lack of brute strength, they
@@ -118,3 +118,5 @@ have a mixed force or want more interesting mechanics.
 The poison theming here is interesting, and several of these stat blocks don't
 get repeated in the Vault, so it's worth it to update them. As long as you avoid
 the extra-xenophobic lore in the Vault, its stat blocks are good.
+
+[2]:  {{ "/2020/06/23/lizardfolk.html" | relative_url }}

@@ -178,6 +178,7 @@ After this, we get right on the monsters:
 - L
   - [Lamia][127]
   - [Larva Mage][128]
+  - [Lizardfolk][176]
   - [Lycanthrope][129]
 
 - M
@@ -417,3 +418,4 @@ After this, we get right on the monsters:
 [173]: {{ "/2021/01/07/tiefling.html" | relative_url }}
 [174]: {{ "/2021/01/08/troglodyte.html" | relative_url }}
 [175]: {{ "/2021/01/09/troll.html" | relative_url }}
+[176]: {{ "/2020/06/23/lizardfolk.html" | relative_url }}
