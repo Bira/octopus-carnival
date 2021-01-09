@@ -240,6 +240,7 @@ After this, we get right on the monsters:
   - [Tiefling][173]
   - [Treant][172]
   - [Troglodyte][174]
+  - [Troll][175]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -415,3 +416,4 @@ After this, we get right on the monsters:
 [172]: {{ "/2021/01/06/treant.html" | relative_url }}
 [173]: {{ "/2021/01/07/tiefling.html" | relative_url }}
 [174]: {{ "/2021/01/08/troglodyte.html" | relative_url }}
+[175]: {{ "/2021/01/09/troll.html" | relative_url }}
