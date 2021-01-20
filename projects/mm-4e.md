@@ -243,6 +243,9 @@ After this, we get right on the monsters:
   - [Troglodyte][174]
   - [Troll][175]
 
+- U
+  - [Umber Hulk][177]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -419,3 +422,4 @@ After this, we get right on the monsters:
 [174]: {{ "/2021/01/08/troglodyte.html" | relative_url }}
 [175]: {{ "/2021/01/09/troll.html" | relative_url }}
 [176]: {{ "/2020/06/23/lizardfolk.html" | relative_url }}
+[177]: {{ "/2021/01/20/umber-hulk.html" | relative_url }}
