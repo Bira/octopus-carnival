@@ -6,9 +6,370 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jan 2021 18:33:04 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Jan 2021 18:33:04 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2021 20:10:02 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2021 20:10:02 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Vampire</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-vampire.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2012 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Legend has it that vampires were an even earlier addition to D&amp;amp;D than the cleric
+class - the first cleric was designed specifically to counter Sir Fang, a
+vampire PC. As monsters, they were the second most powerful rung in the Undead
+Power Ladder, below liches. As expected of a creature with such a long history,
+they are present in both the Monster Manual and the Monster Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Vampires in media and folklore are an incredibly varied lot. Each source has a
+slightly different type of vampire than the rest, including D&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;As the Monster Vault says, vampires “rule the night”. They’re powerful sapient
+undead with an insatiable hunger for the blood of the living, which gives them a
+big incentive to interact with the living often. A lich will stay in its lair
+and perform experiments for years on end. A ghoul is content to squat in its
+hole and brood hungrily until someone wanders by. A vampire has to hunt. A
+particularly ambitious vampire will get itself a “flock” to rule over, and
+extract blood as tribute.&lt;/p&gt;
+
+&lt;p&gt;I imagine that the scholars who study the subject always argue over whether a
+vampire is the same person it was in life. They retain their memories and
+intelligence, and they answer to the same name; however, the baroque curse that
+propels them also makes them wholly evil, no matter what they were like when
+alive. And while it also imbues them with great and terrible power, it takes
+away some of the abilities they had in life.&lt;/p&gt;
+
+&lt;p&gt;There are as many superstitions surrounding vampires in D&amp;amp;D’s implied setting as
+there are in the real world, and very few people know which are true and which
+are not. You know all of them: garlic, running water, fear of holy symbols, and
+so on. Aside from a vulnerability to sunlight (and other radiant damage, to a
+lesser extent), most of these are fake. Perhaps these falsehoods are even spread
+by the vampires themselves. The good news is that you can still fight and even
+kill them with the usual adventurer arsenal of weapons and magic, it’s just
+really hard.&lt;/p&gt;
+
+&lt;p&gt;The other true vampire fact is that they’re tied to their grave or place of
+death. Vampires need to rest during the day, and they must do so either inside
+their coffins or crypts, or under the earth of the place where they died if they
+didn’t get a formal burial. A vampire who’s prevented from resting in this way
+will become less and less rational as the days pass, until it enters a
+self-destructive feeding frenzy that lasts until it’s either slain or finally
+manages to get some shuteye.&lt;/p&gt;
+
+&lt;p&gt;All of the above applies to what Fourth Edition calls vampire &lt;em&gt;lords&lt;/em&gt;, which are
+the typical sophisticated vampires of editions past. You also have vampire
+&lt;em&gt;spawn&lt;/em&gt;, which tend to be weaker and have a personality that can be summed up as
+“angry and snarly”. Spawn are created when a vampire spawn drains someone dry -
+the corpse rises a day later as a spawn under the complete control of its
+sire. A victim incapacitated by blood drain but not killed will enter a coma and
+rise as a spawn in the same way.&lt;/p&gt;
+
+&lt;p&gt;Creating another vampire lord requires an elaborate magic ritual. This ritual is
+named “Dark Gift of the Undying”, and must be performed by a vampire lord on a
+mortal victim. There’s an exchange of blood before the victim is killed, and
+then the corpse must be buried and numerous prayers and invocations to Orcus
+recited over it. A day later, the victim will rise as a new vampire lord. This
+process is draining for the sire, so it’s not done lightly. The MV adds that
+it’s also possible, but rare, for someone who would rise as a spawn to become a
+full vampire instead.&lt;/p&gt;
+
+&lt;p&gt;In both cases, the turning can be prevented with a casting of Raise Dead before
+that one-day interval has elapsed. If the victim is merely comatose instead of
+dead, Remove Affliction will also work to prevent the transformation and allow
+the victim to be healed normally.&lt;/p&gt;
+
+&lt;p&gt;The concept of vampire player characters has enjoyed enduring popularity ever
+since a certain other game introduced it in the early 90’s. So when Heroes of
+Shadow came out late in Fourth Edition it added like three or four different
+ways to play a PC who could call themselves a vampire (including a full Vampire
+class). Unlike the Monster Manual/Monster Vault varieties, these didn’t have to
+be evil. I’d be inclined to say the Orcus-worshipping ritual described here only
+produces evil vampires, so the non-evil ones in your setting are likely to have
+other origins.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Monster Manual Vampires are built using templates, in a way similar to death
+knights and liches. By the time of the monster vault the concept of rigid
+monster templates had been dropped, so vampires there are built from scratch
+following similar guidelines.&lt;/p&gt;
+
+&lt;p&gt;Both types of vampire are Medium Natural Humanoids with the Undead keyword. They
+have Darkvision and the usual undead traits: immunity to disease and poison and
+resistance to necrotic damage (10). Most also have some vulnerability to radiant
+damage as well. They also tend to have a high running speed, and a climb speed
+with Spider Climb.&lt;/p&gt;
+
+&lt;p&gt;I think it’s fun to point out that back in the AD&amp;amp;D days, vampires didn’t
+actually drink blood, or even bite. Instead, they drained your life energy by
+punching you in the face. Around the time the Ravenloft setting became popular,
+they published a variant that behaved more like you’d expect from a horror movie
+vampire.&lt;/p&gt;
+
+&lt;p&gt;Here, the Monster Manual vampires do explicitly drain your blood, but this isn’t
+described as a bite in their stat block. The Monster Vault vampires eliminate
+this remaining ambiguity, and have bite attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;vampire-spawn-fleshripper-monster-manual&quot;&gt;Vampire Spawn Fleshripper (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;These Level 5 Minion Skirmishers are fairly basic. They have the usual undead
+immunities and resistances, darkvision, a speed of 7, and a climb speed
+of 4. They attack with a &lt;strong&gt;claw&lt;/strong&gt; that does necrotic damage, with a small damage
+bonus against bloodied targets.&lt;/p&gt;
+
+&lt;p&gt;They’re also &lt;strong&gt;Destroyed by Sunlight&lt;/strong&gt;: a spawn that starts its turn in sunlight
+can only perform a single move action that turn. If this isn’t enough to get
+them out of the light, they are destroyed at the end of that same turn. So you
+get a dramatic slow death out of them instead of having them pop like soap
+bubbles.&lt;/p&gt;
+
+&lt;p&gt;The MM also has a &lt;strong&gt;Vampire Spawn Bloodhunter&lt;/strong&gt; which is level 10 and exactly
+the same with bigger numbers.&lt;/p&gt;
+
+&lt;h3 id=&quot;elder-vampire-spawn-monster-vault&quot;&gt;Elder Vampire Spawn (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;This Level 10 Minion Soldier is a little more interesting than the MM spawns. It
+has everything they have, but its attacks are a little different.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;claw&lt;/strong&gt; does physical damage and grabs on a hit (escape DC 18). The spawn
+can then &lt;strong&gt;bite&lt;/strong&gt; the grabbed victim. A hit does more damage than the claw and
+dazes the target until the grab ends - and bites against a dazed target hit
+automatically. So after the first bite hits, there’s no need to make another
+attack roll for a while.&lt;/p&gt;
+
+&lt;h3 id=&quot;vampire-night-witch-monster-vault&quot;&gt;Vampire Night Witch (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;As a Monster Vault vampire, the Night Witch is built from scratch and doesn’t
+use the template rules. It’s a Level 10 Controller with 98 HP and all common
+vampire traits, plus Vulnerable 5 Radiant.&lt;/p&gt;
+
+&lt;p&gt;Like all non-minion vampires, the night witch is &lt;strong&gt;Burned by Sunlight&lt;/strong&gt;, taking
+5 radiant damage whenever she starts her turn exposed to direct sunlight. Does
+the vulnerability get added on top of this?&lt;/p&gt;
+
+&lt;p&gt;The night witch fights with &lt;strong&gt;Claws&lt;/strong&gt; that also slide the target 3 squares on a
+hit. She can also cast a &lt;strong&gt;Dream Lure&lt;/strong&gt; (ranged 5 vs. Will) to do psychic damage
+at range, daze the target, and pull them 3 squares. Against dazed or similarly
+impaired targets (stunned, unconscious, dominated) she can &lt;strong&gt;bite&lt;/strong&gt;, which does
+high physical damage and heals her for 15 HP on a hit.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, when the night witch takes damage while bloodied, she can
+&lt;strong&gt;vanish into shadow&lt;/strong&gt;, becoming invisible until the &lt;em&gt;end of the encounter&lt;/em&gt; or
+until she attacks. This is a nice escape hatch and can allow the night witch to
+be a recurring opponent.&lt;/p&gt;
+
+&lt;h3 id=&quot;vampire-lord-monster-manual&quot;&gt;Vampire Lord (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;Built using the template rules, this is a Level 11 Elite Lurker with 186 HP who
+used to be a human rogue. It has all the vampire traits mentioned in the Numbers
+intro, plus Vulnerable 10 Radiant and Regeneration 10 that doesn’t work while
+the vampire is exposed to direct sunlight. Sunlight exposure &lt;em&gt;doesn’t&lt;/em&gt; harm it
+further than this. Its speed is 8, and it has Spider Climb 4.&lt;/p&gt;
+
+&lt;p&gt;This blood-sucking rogue deals extra damage with all of his attacks when he has
+combat advantage. He fights with a &lt;strong&gt;short sword&lt;/strong&gt;, and what is probably a
+printing error has also given him a &lt;strong&gt;spiked chain&lt;/strong&gt;. He also has a couple of
+rogue powers; &lt;strong&gt;Deft Strike&lt;/strong&gt; allows him to move up to 2 squares and make a
+melee basic attack. &lt;strong&gt;Imperiling Strike&lt;/strong&gt; is an encounter power that does a bit
+more damage than the basic sword and inflicts a -3 penalty to all of the
+target’s defenses for a turn.&lt;/p&gt;
+
+&lt;p&gt;After that come the template powers. &lt;strong&gt;Blood Drain&lt;/strong&gt; (melee 1 vs. Fortitude)
+requires combat advantage, does more damage than any of the “rogue” attacks, and
+heals the vampire for 46 HP. It recharges whenever an adjacent creature becomes
+bloodied. &lt;strong&gt;Dominating Gaze&lt;/strong&gt; (ranged 5 vs. Will) does no damage but dominates
+on a hit, (save at -2 ends). As an after-effect, the target is dazed (save
+ends). Fortunately only one creature can be dominated at a time. And finally,
+&lt;strong&gt;Mist Form&lt;/strong&gt; is an encounter power that does what the name implies. In mist
+form, the vampire is insubstantial and has a fly speed of 12, but can’t
+attack. It lasts for 1 hour or until the vampire ends the effect as a minor
+action, so it’s another “escape hatch” power.&lt;/p&gt;
+
+&lt;p&gt;Any vampire built using the template is going to have all three powers in the
+preceding paragraph. This one also has a &lt;strong&gt;Second Wind&lt;/strong&gt; that works like the
+player version, and recovers 46 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;master-vampire-monster-vault&quot;&gt;Master Vampire (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;A Level 12 Lurker with 98 HP, this monster follows the same concept as the
+Vampire Lord. It has all standard vampire traits, with &lt;em&gt;no&lt;/em&gt; radiant
+vulnerability.&lt;/p&gt;
+
+&lt;p&gt;Of course, it’s still a vampire and is still &lt;strong&gt;Burned by Sunlight&lt;/strong&gt;, taking 10
+damage on any turn it starts exposed to it. It also has &lt;strong&gt;Regeneration&lt;/strong&gt; 10,
+which shuts down for a turn if the vampire takes radiant damage (from sunlight
+or any other source).&lt;/p&gt;
+
+&lt;p&gt;The master vampire fights with &lt;strong&gt;claws&lt;/strong&gt; like a proper monster, and has a
+&lt;strong&gt;Dominating Gaze&lt;/strong&gt; (ranged 5 vs. will) that dominates for a turn. Its &lt;strong&gt;bite&lt;/strong&gt;
+is like that of the Night Witch but heals it for 20 HP instead of 15.&lt;/p&gt;
+
+&lt;p&gt;It has the Vampire Lord’s &lt;strong&gt;Mist Form&lt;/strong&gt; power, and it can also turn into a
+&lt;strong&gt;Cloud of Bats&lt;/strong&gt; (though not at the same time). That last ability is at-will,
+and works very similarly to Mist Form with the following differences: it only
+lasts for a turn, the fly speed is only 8, and the vampire gains a +5 bonus to
+Stealth in this form. This is clearly what it uses to “lurk”, though it doesn’t
+gain extra bonuses beyond CA when it attacks from hiding.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is level 12 and has 1 vampire lord along with an entire
+undead retinue: 1 battle wight commander, 3 battle wights, and 6 vampire spawn
+bloodhunters.&lt;/p&gt;
+
+&lt;p&gt;I like vampires as monsters. Looks like the vampire lord/master vampire is tough
+to put down even in its Monster Vault incarnation, where it has both
+Regeneration and a draining bite. It’s the MM variant that easily crosses over
+into “annoying” territory, since Blood Drain heals a lot more &lt;em&gt;and&lt;/em&gt; it has
+Second Wind.&lt;/p&gt;
+
+&lt;p&gt;5e makes a huuuge deal out of Count Strahd, the game’s Dracula expy, but in his
+original incarnation he was explicitly described as a vampire who was only a bit
+more powerful and clever than what’s average for these monsters. You could
+easily stat him up in 4e by making him an Elite or Solo Controller with the
+Vampire Master’s gaze, bite, and transformation powers, plus a strong claw/slam
+attack and some necromancy-themed powers or rituals. He should be part of an
+encounter of the party’s level +3 or +4, suitable as a final boss battle.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/25/vampire.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/25/vampire.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Unicorn</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-unicorn.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Unicorns are actually one of the creatures I associate most strongly with D&amp;amp;D,
+since my first contact of any sort with it was the 80’s cartoon with its
+adorable unicorn mascot. They’ve been in the game since at least BECMI, and
+likely since it’s beginnings. Here, they are only present in the Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Unicorns are horse-like creatures that originate in the Feywild, though some of
+them also live in the world. Lots of depictions of them tend to take a horse and
+stick the famous spiral horn on its forehead, but mythological unicorns had
+other fantastical traits: their hooves are split like a goat’s and not uniform
+like a horse’s, and their tail is a bit lion-like with a small tuft at the
+tip. They also sometimes had goat-like beards.&lt;/p&gt;
+
+&lt;p&gt;The illustration here nails most of those details, though it still has a
+horse-like tail. And its horn is not a cute and delicate spiral at all, but
+rather something built to split a fool from crotch to sternum.&lt;/p&gt;
+
+&lt;p&gt;Unicorns are sapient and very intelligent, and have a similar relationship to
+their natural habitats as that of dryads or treants. They also have an extra
+reason to distrust mortal intruders, as their horns are widely reputed to
+contain potent mystical and healing properties. This makes them frequent targets
+of hunting expeditions financed by Cocaine Wizards.&lt;/p&gt;
+
+&lt;p&gt;Your typical unicorn has a light-colored coat and mane, but sometimes you get
+what is known as a Dusk Unicorn. They’re dark-colored, have black horns, and are
+all-around stronger and more majestic. The birth of a dusk unicorn is considered
+a portentous omen among the fey.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats for “standard” and Dusk unicorns. Both are Large Fey Magical
+Beasts, with low-light vision and a high land speed from their horselike
+build.&lt;/p&gt;
+
+&lt;h3 id=&quot;unicorn&quot;&gt;Unicorn&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 9 Skirmisher with the Leader keyword and 93 HP. It
+projects an aura of &lt;strong&gt;Fey Warding&lt;/strong&gt; (2) that grants allies within a +2 bonus to
+all defenses. Its land speed is 8.&lt;/p&gt;
+
+&lt;p&gt;Unicorns attack with their &lt;strong&gt;hooves&lt;/strong&gt; up close, but if they have a running start
+they’ll instead use a &lt;strong&gt;Piercing Charge&lt;/strong&gt;, which as you might guess counts as a
+charge. A hit does roughly double the damage of a basic kick, pushes the target
+1 square, and knocks them prone.&lt;/p&gt;
+
+&lt;p&gt;Unicorns can also channel magic through their horns and produce a variety of
+effects. &lt;strong&gt;Fey Beguiling&lt;/strong&gt; (ranged 5 vs. Will) is a charm spell that forbids the
+victim from attacking the unicorn and forces them to make opportunity attacks
+with a +2 bonus against anyone in reach who attacks the unicorn (save ends). So
+remember all those legends of people whose purity charms unicorns and turns them
+into friends? It’s actually the other way around! The power can only be used if
+the unicorn doesn’t have a currently charmed victim.&lt;/p&gt;
+
+&lt;p&gt;The creature’s other powers are a &lt;strong&gt;Fey Step&lt;/strong&gt; encounter power that works
+exactly like the eladrin version, and a &lt;strong&gt;Horn Touch&lt;/strong&gt; encounter power that
+allows the touched ally to spend a healing surge or roll a save against an
+effect a save can end.&lt;/p&gt;
+
+&lt;h3 id=&quot;dusk-unicorn&quot;&gt;Dusk Unicorn&lt;/h3&gt;
+
+&lt;p&gt;These magnificent specimens are Level 12 Elite Controllers with the Leader
+keyword, 236 HP, and speed 9. Dusk Unicorns work exactly like the basic model,
+but with bigger numbers and a couple of different powers.&lt;/p&gt;
+
+&lt;p&gt;Instead of Fey Beguiling they have &lt;strong&gt;Fey Wisp&lt;/strong&gt; (Area Burst 5 within 10
+vs. Will; at-will; no damage), which creates dancing lights in the burst’s
+origin squares and pulls any enemies it hits 3 squares towards the lights.&lt;/p&gt;
+
+&lt;p&gt;And in addition to Fey Step, they have &lt;strong&gt;Twilight Teleport&lt;/strong&gt; (close burst 5;
+encounter) which affects only willing allies within range and teleports them to
+somewhere else within the dusk unicorns’ line of sight. Yes, only the starting
+square has to be within range - the end point can be anywhere visible!&lt;/p&gt;
+
+&lt;p&gt;So you could have something cheesy like a dusk unicorn scrying the party or
+looking through a scope, and using that to teleport a bunch of allies right on
+top of them. Or you could have this power be the centerpiece of an heroic
+sacrifice, as the unicorn transports is allies to safety before being
+overwhelmed by the enemy. That works better if the teleported allies are the
+PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounter-and-final-impressions&quot;&gt;Sample Encounter and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is short and to the point: 1 dusk unicorn and 3 banshrae
+warriors. Either the unicorn is a psychopath, or the banshrae are unusually
+nice.&lt;/p&gt;
+
+&lt;p&gt;I like unicorns! These follow the 4e maxim of being potentially usable in a
+fight against Good PCs, since they are Unaligned and might have goals that
+conflict with those of the party. In previous editions, if you’re fighting a
+unicorn it means something went horribly wrong.&lt;/p&gt;
+
+&lt;p&gt;Mechanically it seems they have so many signature traits (horn and hoof attacks,
+Fey Step, Horn Touch, Fey Warding) that it might be easier to make custom
+unicorns by adjusting their level and messing with the minor secondary magic
+powers.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/24/unicorn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/24/unicorn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Umber Hulk</title>
@@ -1262,279 +1623,6 @@ trope.&lt;/p&gt;
         <category>gurps</category>
         
         <category>lancer</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Stirge</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-stirge.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Stirges have been in the game at least since the days of Basic. Here, they are
-both in the Monster Manual and in the Vault.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Stirges are another example of dangerous fantasy wildlife in the implied Fourth
-Edition setting. Looking like a cross between a large bat and a mosquito, these
-things feed on blood and will attack any nearby creature in search of it when
-hungry. While a mosquito can be dangerous because it transmits diseases, a
-stirge is large enough for the blood loss it causes to be worrying. A flock of
-them could exsanguinate an adult human in minutes.&lt;/p&gt;
-
-&lt;p&gt;Like bats, they nest in dark places and tend to hunt at night. They’re a common
-enough threat that anti-stirge measures are a part of every culture. Ship crews,
-for example, spread unpleasant-smelling unguents in their cargo holds to prevent
-stirges from nesting there. Sheperds and ranchers absolutely hate them and have
-their own set of measures.&lt;/p&gt;
-
-&lt;p&gt;Any dark dungeon might be home to a flock of stirges, making them one of the
-many dangers adventurers must always be wary of. A large enough flock can
-threaten even seasoned veterans!&lt;/p&gt;
-
-&lt;p&gt;Since they’re considered vermin by the people of the world, they also have all
-the same sinister associations worms and rats and such get. Particularly gross
-necromancers love filling the body cavities of a large, bloated zombie with a
-flock of stirges, which burst out when their carrier is slain. Optionally the
-stirges might be zombies as well.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Stirges are Small Natural Beasts, which does mean they might get as big as three
-feet across (halfling-sized!). They have darkvision, a flight speed of 6 with
-Hover, and a pathetic ground speed of 2. Their main attack is always a “bite”
-with their blood-sucking proboscis-beak thing, but the exact mechanics of that
-vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;stirge-both&quot;&gt;Stirge (Both)&lt;/h3&gt;
-
-&lt;p&gt;The basic model is a Level 1 Lurker with 22 HP and the common traits above. The
-&lt;strong&gt;bite&lt;/strong&gt; is its only attack. It does damage and grabs the target (escape DC
-12). While the target is grabbed, it takes 5 ongoing damage from the
-blood-sucking. While the stirge is grabeed, it gains +5 to AC and Reflex.&lt;/p&gt;
-
-&lt;p&gt;The MM version has an extremely weak bite even for a level 1 monster (1d4
-damage), but the MV updates that to be in line with the new math (1d4+5).&lt;/p&gt;
-
-&lt;p&gt;While a single stirge is not a big threat to a full party, it’s terrifying to a
-civilian!  Non-combatants are likely minions, and if not they’re unlikely to
-have much more than 10 or 15 HP. A stirge like the above could be nesting in any
-given dark hole near the poor schmuck’s farm, and could kill them in one bite
-and &lt;em&gt;maybe&lt;/em&gt; a round or two of blood-sucking. The civilian is also more likely to
-meet the stirge than a goblin or the like, and of course it will never be just
-one stirge.&lt;/p&gt;
-
-&lt;h3 id=&quot;stirge-suckerling-mv&quot;&gt;Stirge Suckerling (MV)&lt;/h3&gt;
-
-&lt;p&gt;A young stirge that’s already quite hungry. It’s a Level 5 Minion Lurker, which
-means it comes in hordes.&lt;/p&gt;
-
-&lt;p&gt;Their only attack is the usual &lt;strong&gt;bite&lt;/strong&gt;, which does a bit of damage and
-initiates a grab (escape DC 15). While the grab persists, the suckerling can
-only make bite attacks against the grabbed target, but those hit
-automatically. The target also takes ongoing damage equal to the number of
-suckerlings attached to it, so be sure to make them gang up on the
-squishies. Now there’s a nice mental image for you.&lt;/p&gt;
-
-&lt;h3 id=&quot;death-husk-stirge-mv&quot;&gt;Death Husk Stirge (MV)&lt;/h3&gt;
-
-&lt;p&gt;An undead stirge used as filling for a Bloated Zombie Surprise. It’s a Small
-Natural Animate (undead), and a Level 6 Skirmisher with 71 HP. It has
-darkvision, an immunity to poison, and 10 resistance to necrotic damage. It has
-the usual stirge ground speed of 2 and flight speed of 6, but if it’s hit by
-radiant damage it loses the ability to fly for a turn (and falls if it was in
-the air).&lt;/p&gt;
-
-&lt;p&gt;Death husk stirges won’t stick to you, but they’ll still suck your blood. The
-&lt;strong&gt;Rotted Blood&lt;/strong&gt; attack (close blast 3 vs. Fortitude) allows them to spit the
-blood stored inside their purulent intestines, dealing necrotic damage and
-blinding those it hits for a turn. Undead in the blast can shift 2 squares as a
-free action. This is an encounter power, but hitting someone with the basic
-&lt;strong&gt;bite&lt;/strong&gt; attack allows the stirge to recharge it.&lt;/p&gt;
-
-&lt;p&gt;As a move action, they can use &lt;strong&gt;Nimble Wing&lt;/strong&gt; to fly 4 squares without
-provoking opportunity attacks. When they hit 0 HP, they burst and those purulent
-intestines produce a cloud of &lt;strong&gt;Necrotic Miasma&lt;/strong&gt; (close burst 2 vs. Fortitude),
-which deals a bit of necrotic damage and weakens for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;dire-stirge-both&quot;&gt;Dire Stirge (Both)&lt;/h3&gt;
-
-&lt;p&gt;Indeed, like every bit of natural fauna in the setting, stirges have a dire
-version. They’re larger, but not quite large enough to go up a size
-category. They are however a lot meaner, being level 7 Lurkers with 60 HP.&lt;/p&gt;
-
-&lt;p&gt;Aside from the usual increased numbers due to being higher level, dire stirges
-do 10 ongoing damage while attached and have an escape DC of 16. They are
-otherwise mechanically identical to the level 1 variety.&lt;/p&gt;
-
-&lt;h3 id=&quot;stirge-suckerling-swarm-mv&quot;&gt;Stirge Suckerling Swarm (MV)&lt;/h3&gt;
-
-&lt;p&gt;For when you have so many suckerlings in play it becomes impractical to track
-them individually. This swarm is a Level 10 Brute with 128 HP, and counts as a
-Medium Natural Beast. It has a ground speed of 2 and a flight speed of 6.&lt;/p&gt;
-
-&lt;p&gt;This has the usual swarm traits. Its &lt;strong&gt;aura&lt;/strong&gt; (1) makes anyone caught inside
-begin taking 5 ongoing damage (save ends). If the victim is already taking
-untyped ongoing damage, that damage increases by 5, with no stated limit. It’s a
-nice way to model an incresing number of tiny stirges attaching themselves to
-the victim.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm of Suckerlings&lt;/strong&gt; basic attack deals good damage and ongoing 5 damage
-(save ends), so it can step up the aura’s timetable a bit.&lt;/p&gt;
-
-&lt;p&gt;When an adjacent enemy moves away from the swarm, it can use &lt;strong&gt;Hungry Flight&lt;/strong&gt;
-as an immediate reaction, flying up to its speed so it’s adjacent to the target
-again. This does not provoke opportunity attacks!&lt;/p&gt;
-
-&lt;h3 id=&quot;stirge-swarm-monster-manual&quot;&gt;Stirge Swarm (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;What you get when those suckerlings grow up. This swarm is a Medium, Level 12
-Brute with 141 HP. Being a MM monster, it’s a bit simpler. Aside from the usual
-swarm traits, it has a basic attack that deals ongoing damage (save ends), and
-an aura that allows it to make basic attacks against anyone caught inside as
-free actions.&lt;/p&gt;
-
-&lt;p&gt;You’re probably better off leveling up the suckerling swarm.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;You can’t really tame stirges, since they’ll attack anything that has blood, but
-sometimes kobolds and goblins use captured stirges as traps. Trigger the trap,
-release the swarm! They can also be encountered as indiscriminate opportunists,
-or in coincidental cooperation with things they won’t feed on.&lt;/p&gt;
-
-&lt;p&gt;The sample encounters provide two such examples of this: the first is 2 dire
-stirges and 3 bloodweb spider swarms, the second 3 stirge swarms and a flesh
-golem.&lt;/p&gt;
-
-&lt;p&gt;The “Large zombie minion full of undead stirges” setup has been hinted at
-above, as well. For Maximum Carnage you could add the undead traits to a stirge
-swarm stat block to get a swarm of death husk stirges.&lt;/p&gt;
-
-&lt;p&gt;I usually wouldn’t be very enthusiastic about stirges, but now I kinda want to
-use the Zombie Surprise at least once.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/12/28/stirge.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/28/stirge.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Sphinx</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-sphinx.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Mufasa is having a bad day. Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Sphinxes are inspired by Greek and Egyptian mythology and have been in the game
-at least since BECMI. Here, they are only on the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A sphinx is a holy guardian created in antiquity to protect a sacred place like
-a tomb, temple, or shrine. In this task they can be found alone or in pairs, and
-sometimes they also command other, lesser guardians. The ritual that creates
-them is rare and powerful, binding an angelic spirit to the body of a celestial
-lion.&lt;/p&gt;
-
-&lt;p&gt;Why would someone create a sphinx instead of a golem? There’s the matter of
-style, of course. Golems would be preferred by a certain type of arcane caster,
-while sphinxes feel like something a deity would allow its greatest servants to
-make. There are also practical advantages: sphinxes are both sapient and quite
-smart, so they can follow the intended spirit of their orders, and better
-distinguish between people who are allowed to be there and people they should
-eat.&lt;/p&gt;
-
-&lt;p&gt;One way they do this is through the &lt;em&gt;sphinx’s challenge&lt;/em&gt;, where they try to
-ascertain if someone has a right to be at the guarded location or not. Riddles
-are a classic, but a sphinx can also ask for proof of ancestry, the solution to
-an ethical or theological puzzle, or even just a specific password. The sphinx
-is bound to let someone who passes the test proceed unmolested, though it’s
-still going to attack if the visitors try to damage or rob the guarded location.&lt;/p&gt;
-
-&lt;p&gt;That’s all the book has to say about sphinxes, but I think we can speculate a
-bit as well. Unlike most of other “guardian creatures” we saw so far, sphinxes
-are neither constructs nor undead, yet the text implies they’re just as capable
-of guarding their designed site for eternity. So I think it’s fair to say that
-they are immune to age, hunger, thirst and possibly even sleep, at least when
-performing their mission.&lt;/p&gt;
-
-&lt;p&gt;While the books emphasize the role of sphinxes as the guardians of “ancient” and
-“forgotten” places, I think it’s also quite possible for them guard places that
-are neither. Maybe the Pelorite cathedral or the big Temple-Library of Ioun have
-a pair of sphinxes posted at their front entrance, even though they’re built
-right in the middle of major population centers. Sphinxes are perfect for this
-because they’re intelligent, and so they’re not going to attack innocent
-visitors by mistake like a golem would.&lt;/p&gt;
-
-&lt;p&gt;A good sphinx might be hamstrung by overly specific or ethically questionable
-bindings, though, so you could also have a scenario where a party carefully
-helps the creature to free itself from its duties without triggering a fight.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;There’s only one stat block, so we’ll get right on it. Sphinxes are Large
-Immortal Magical Beasts, and Level 16 Elite Soldiers with 304 HP. They have
-trained Perception, Darkvision, plus a ground speed of 6, a flight speed of 8
-(clumsy) and Overland Flight 10.&lt;/p&gt;
-
-&lt;p&gt;Their signature trait is the &lt;strong&gt;Sphinx’s Challenge&lt;/strong&gt;, which gives us mechanics
-for the concept described in the lore section: the sphinx will pose an out of
-combat challenge to any potential intruders, and it can take whatever form the
-GM thinks is appropriate. If the challenged party refuses to answer, or gets the
-answer wrong, the sphinx will gain 1 extra action point and a +2 to attack,
-damage, and defenses in the ensuing combat. Note that attacking the sphinx
-before it can make its challenge counts as a refusal to answer! I think the only
-case where the party can fight a sphinx without these bonuses is if they pass
-the challenge and are later caught robbing the guarded place.&lt;/p&gt;
-
-&lt;p&gt;In combat, this sphinx is a straightforward physical threat. It attacks with
-&lt;strong&gt;claws&lt;/strong&gt;, it can &lt;strong&gt;pounce&lt;/strong&gt; to make a charge and knock the target prone on a
-hit, and it has a &lt;strong&gt;frightful roar&lt;/strong&gt; (close burst 10 vs. will) which gives
-victims a -2 penalty to defense (save ends). It can also use a &lt;strong&gt;Second Wind&lt;/strong&gt;
-once per encounter, which works like the PC version: the sphinx heals 75 HP and
-gains +2 to all defenses for a turn.&lt;/p&gt;
-
-&lt;p&gt;It’s of course possible for the sphinx to know all sorts of rituals, and for the
-GM to create custom sphinxes with the common traits above and a more magical
-selection of combat abilities.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 15: 1 sphinx, 1 battle guardian, and 2 helmed
-horrors. Indeed, a sphinx is smart enough that it could be given command of
-those guardian constructs and employ them in interesting ways.&lt;/p&gt;
-
-&lt;p&gt;I like the concept of sphinxes, and I kinda want to run an adventure where the
-sphinxes at the Temple-Library of Ioun are upstanding members of their community
-and know everyone in the city by name.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/12/27/sphinx.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/12/27/sphinx.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
