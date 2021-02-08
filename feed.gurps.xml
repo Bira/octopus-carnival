@@ -5,9 +5,105 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Feb 2021 00:39:09 +0000</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2021 00:39:09 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2021 12:51:11 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2021 12:51:11 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>How I Started Role-Playing</title>
+        <description>&lt;p&gt;Lich van Winkle has &lt;a href=&quot;https://lichvanwinkle.blogspot.com/2021/01/how-you-started.html&quot;&gt;a post in his blog&lt;/a&gt; where asks people how they started
+role-playing. I figured I’d answer that here!&lt;/p&gt;
+
+&lt;p&gt;Before I start, it’s worth noting that I’m Brazilian, so my story is going to be
+a bit different than that of most people reading this blog. I also grew up in
+the state of Mato Grosso, which in the 80’s and 90’s meant “far out in the
+boonies” as far as RPGs were concerned. Most of my acquisitions happened during
+trips to visit family in Curitiba, a bigger city in another state.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The year you began, and with which role-playing game&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Did you figure it out alone, or were you introduced by a lone but
+experienced GM, or by joining a preexisting group?&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;My first contact with the concept of role-playing games actually happened
+through Choose Your Own Adventure books. Y’know, those books that had a couple
+hundred numbered sections and directed you to different numbers based on your
+decisions. There were a bunch of those in my school library, which was a small
+miracle since that library only had like four bookshelves. This was 1991 or so,
+which means I was 9.&lt;/p&gt;
+
+&lt;p&gt;Later on I’d convince my parents to buy me similar books - my first Fighting
+Fantasy titles, in their Brazilian editions. These were more complex, with an
+actual character sheet and die rolling. I remember this book from some other
+series, where you played Robin Hood, and which had a combat system complex
+enough to rival AD&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;My first actual RPG experience was around 1994, with a version of Basic D&amp;amp;D that
+was translated by a company named Grow, and packaged as a board game. I think it
+might have been a boxed set as well in the US - it was the one with Zanzer Tem’s
+dungeon on it, and had rules for PCs of up to level 5.&lt;/p&gt;
+
+&lt;p&gt;Shortly after that I got into GMing, and my games of choice were Tagmar (a
+Brazilian-made fantasy game) and later a very badly translated Shadowrun 2nd
+Edition. I also got familiar with GURPS and Storyteller at around this time,
+though I didn’t play them regularly. In 1996 I went on a one-month student
+exchange trip to the UK, and came back with a backpack full of Shadowrun
+supplements in English.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;What was your first group like? Was it private among friends, in a game
+store, or in a club? Were they older, younger than you? Did their style of
+play shape the way you played later?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The group was my brother and a couple of other friends. Almost everyone was
+around the same age as me (except for my brother, who was a bit younger). We
+usually played at my home, and I’d say my style of play shaped theirs more
+than the other way around, since I was always the GM.&lt;/p&gt;
+
+&lt;p&gt;I think I was the only one out of that bunch who kept being a part of the
+hobby once we split, though. Dunno if that speaks well or badly of my GMing
+skills.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Your favorite role-playing game. (Was it the game you started with?)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s GURPS, and it’s not the one I started with. Lately I’ve also taken a&lt;/p&gt;
+
+&lt;p&gt;huge liking to Lancer.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Anything else you want to share reflecting the impact of how you started on
+how you play(ed).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Despite being from a different country and having ready access to a very small
+pool of games when compared to someone from the US, my experience bears some
+striking similarities with Lich van Winkle’s in that D&amp;amp;D was a very small part
+of my formative experience. I remember finding its many arbitrary limitations
+very confining, so I spent most of my time in other games that didn’t have
+them. Though some of those limitations have been removed, a lot of them still
+remain in the game’s latest edition.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/01/08/how-i-started.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/08/how-i-started.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>shadowrun</category>
+        
+        <category>dnd</category>
+        
+        
+      </item>
     
       <item>
         <title>Are Mecha Silly?</title>
@@ -1013,104 +1109,6 @@ action. $300, 1.5kg.
         <category>dungeon-fantasy</category>
         
         <category>character</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Old-School Movement in Dungeon Fantasy</title>
-        <description>&lt;p&gt;I’ve been looking at some old D&amp;amp;D modules lately and wondering how to convert
-them to Dungeon Fantasy. One of the things that gave me some trouble was
-movement.&lt;/p&gt;
-
-&lt;p&gt;Dungeon movement in AD&amp;amp;D is by default extremely methodical and done with an
-almost paranoid level of caution&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. This is why even an entirely unencumbered
-party moves only 120ft/40m over ten minutes. They’re moving reeal slow; they’re
-trying to maintain stealth; they’re looking for traps and secret passages;
-someone is mapping. You move five times faster if you don’t have to map, and ten
-times faster if you throw caution to the wind and tromp through the dungeon at
-combat speed.&lt;/p&gt;
-
-&lt;p&gt;This is important because AD&amp;amp;D wants you to track turns precisely and roll for
-wandering monsters every so often. As a delver, you ideally want to get in, get
-the treasure, and get out as soon as possible. Every extra turn you spend in
-there has a chance of bringing in hostile enemies who don’t have any loot.&lt;/p&gt;
-
-&lt;p&gt;Dungeon Fantasy (either version) expects the party to move cautiously but
-doesn’t have specific or timing rules for it&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. So, when you convert AD&amp;amp;D
-modules to Dungeon Fantasy, how do you handle movement?&lt;/p&gt;
-
-&lt;p&gt;The easy solution is to just glom the AD&amp;amp;D turn and movement rules into Dungeon
-Fantasy! The resulting amalgamented abomination is actually rather
-playable. Check it out:&lt;/p&gt;
-
-&lt;h2 id=&quot;dungeon-fantasy-movement&quot;&gt;Dungeon Fantasy Movement&lt;/h2&gt;
-
-&lt;p&gt;Time spent inside a dungeon is measured in ten-minute &lt;em&gt;turns&lt;/em&gt;, like in ye olde
-days. When exploring a dungeon, delvers are by default assumed to be moving very
-cautiously and methodically, keeping their marching order. When moving this way,
-they cover a distance per turn equal to ten times the Move of the slowest party
-member, measured in yards or meters. For example, a party containing a heavily
-armored knight with Move 3 would explore 30 yards/meters in a turn&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Moving this way is slow, and costs the party 1 FP per 5 turns of movement, but
-has several benefits:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The party is assumed to be on the lookout for danger. They roll to detect
-traps, enemies and other hazards automatically without having to state they
-are doing so.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Similarly, they can make Stealth rolls to avoid detection by monsters. If
-they’re walking together, this is a group Stealth roll as detailed in Exploits
-p. 6. All the usual factors for stealth are still at play here, such as light
-sources and so on.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;This is the pace that allows the PCs to map the dungeon as per Exploits p. 18.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Actively investigating a room for treasure and secret doors also takes a turn
-and requires the normal rolls for these procedures. Turns spent searching do
-count for tracking FP cost.&lt;/p&gt;
-
-&lt;p&gt;The FP cost makes ye olde routine of delving for 5 turns and resting for one an
-efficient way to proceed, though the delvers can elect to push forward and take
-the FP loss if they’re pressed for time. The party can elect to move at five
-times this pace and still retain the first two benefits above, which makes
-traversing already-mapped portions of the dungeon a lot faster.&lt;/p&gt;
-
-&lt;p&gt;These rules are perfect for playing in converted old-school modules. You can use
-the modules’ own rules for random encounters with them, though obviously you’ll
-still want to convert the monsters. It’s probably okay to ignore these rules in
-modules made specifically for the DFRPG, since they tend to assume a faster
-pace.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Which is the right amount of caution for Gygaxian dungeons. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Even though the headers in its dungeon exploration section are remarkably
-similar to those of AD&amp;amp;D. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Divide that by 3 to get convert it to ten-foot squares. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/01/24/old-school-movement.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/01/24/old-school-movement.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dnd</category>
         
         
       </item>
