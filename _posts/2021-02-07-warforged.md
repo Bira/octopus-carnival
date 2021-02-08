@@ -40,7 +40,7 @@ people who share their individual ideals and disposition.
 In Eberron, the secret of building and operating creation forges belonged
 exclusively to House Cannith, who sold warforged armies to all five sides of the
 Last War but whose main customer was the nation of Cyre. The treaty that ended
-the War (signed after Cyre got swallowed by a magical catastrophe) freed all
+the War (signed after Cyre got swallowed by a magical disaster) freed all
 existing warforged from servitude, and I think it also tightly regulated their
 creation.
 
@@ -110,8 +110,9 @@ will. Not. Stay. Down. If I'm being honest the book might have done without them
 entirely.
 
 However, I absolutely love the _concept_ of warforged, both as player characters
-and as NPCs. I understand why the first MM included these: the Eberron books
-were still a little ways away, and the authors might have felt its fans needed a
-little reassurance.
+and as NPCs. I love them so much I adapted them to GURPS [here][2]. I understand
+why the first MM included these: the Eberron books were still a little ways
+away, and the authors might have felt its fans needed a little reassurance.
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
+[2]: {{ "/2017/09/17/dfrpg-warforged.html" }}
