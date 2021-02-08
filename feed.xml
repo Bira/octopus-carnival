@@ -6,9 +6,129 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jan 2021 09:55:21 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Jan 2021 09:55:21 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Feb 2021 00:39:09 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Feb 2021 00:39:09 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Warforged</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-warforged.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Warforged are a 3e creation, first appearing as a playable option in the Eberron
+campaign setting. In 4e they would also become playable characters, but their
+first appearance was in the Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The warforged lore given to us by the Monster Manual has been stripped of all
+Eberron-specific information, which means it’s extremely terse and generic.&lt;/p&gt;
+
+&lt;p&gt;Warforged are living constructs created by magic. The “living” part means
+they’re gifted with true sapience, and with souls. It also means they’re a
+little less tough than a golem, but they make up for that with their large
+numbers.&lt;/p&gt;
+
+&lt;p&gt;Warforged are created in magical factories called Creation Forges. They’re
+sexless and can’t reproduce in any other way. As their name implies, the
+original purpose of the warforged was to serve as an army. In peacetime,
+individual warforged often end up working as bodyguards and mercenaries for
+people who share their individual ideals and disposition.&lt;/p&gt;
+
+&lt;p&gt;In Eberron, the secret of building and operating creation forges belonged
+exclusively to House Cannith, who sold warforged armies to all five sides of the
+Last War but whose main customer was the nation of Cyre. The treaty that ended
+the War (signed after Cyre got swallowed by a magical disaster) freed all
+existing warforged from servitude, and I think it also tightly regulated their
+creation.&lt;/p&gt;
+
+&lt;p&gt;Most warforged PCs from Eberron are going to be veterans of the Last War, which
+is like a combination between our Hundred Years War and World War One. However,
+in the ruins of Cyre, a powerful warforged supremacist named the Lord of Blades
+controls a fully working creation forge and is using it to build an army.&lt;/p&gt;
+
+&lt;p&gt;Warforged in the 4e implied setting might have been alive to see the fall of
+Nerath. They could also have been built more recently by someone operating an
+Nerathian creation forge, or even assembled by hand by an isolated artificer.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Warforged are Medium Natural Humanoids with the Living Construct
+keyword. Monster Manual warforged have several signature traits: they get a +2
+to saves against ongoing damage, they employ &lt;strong&gt;Battlefield Tactics&lt;/strong&gt; that grant
+them a +1 bonus to melee attack if any ally is adjacen to the target, and they
+can use the &lt;strong&gt;Warforged Resolve&lt;/strong&gt; encounter power as a minor action when
+bloodied to recover a healing surge’s worth of HP.&lt;/p&gt;
+
+&lt;p&gt;Playable Warforged would appear in the Eberron Player’s Guide: they’d get the
+save bonus against ongoing damage and a modified form of &lt;strong&gt;Warforged Resolve&lt;/strong&gt;,
+along with a few other things.&lt;/p&gt;
+
+&lt;h3 id=&quot;warforged-soldier&quot;&gt;Warforged Soldier&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 4 Soldier with 56 HP and all standard warforged traits. It wears
+plate, and wields a longsword and a shield. Its ground speed is 5, and it’s
+trained in Endurance and Intimidate.&lt;/p&gt;
+
+&lt;p&gt;The soldier’s basic (and only) attack is the &lt;strong&gt;longsword&lt;/strong&gt;, which does average
+damage for its level and marks for a turn. Its &lt;strong&gt;Warforged Resolve&lt;/strong&gt; heals it
+for 14 HP when used.&lt;/p&gt;
+
+&lt;p&gt;The warforged isn’t too different from a human fighter, but its racial traits
+give significantly more staying power. You can slap them onto any human stat
+block to get the warforged version. If you use them in a tight formation then
+most of them will get the +1 Battlefield Tactics bonus all the time when
+attacking targets directly in front of the formation.&lt;/p&gt;
+
+&lt;h3 id=&quot;warforged-captain&quot;&gt;Warforged Captain&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 6 Soldier (Leader) with 72 HP and all common warforged
+traits. Its speed is 5 due to armor and its Warforged Resolve heals it for 18 HP
+when used.&lt;/p&gt;
+
+&lt;p&gt;Captains fight with a Reach 2 &lt;strong&gt;glaive&lt;/strong&gt;, which does average damage and marks for a
+turn. It can use this weapon to performa &lt;strong&gt;Tactical Switch&lt;/strong&gt; maneuver (recharge
+4-6), in which it makes a basic attack that also slides the target 1 square. If
+this hits, the captain or an ally within 10 squares can also shift 1 square.&lt;/p&gt;
+
+&lt;p&gt;Captains excel at fighting from the back row of that warforged soldier
+formation, since they have a reach weapon. Tactical Switch is good for
+disrupting enemy formations, or interrrupting flanking attempts by individual
+strikers.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We have a single sample encounter: Level 4, three human guards, 1 warforged
+soldier, and 1 warforged captain. A mixed force that makes it look like
+warforged make up the command and elite in this particular army.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, these Monster Manual warforged are very simple and present little
+in the way of exciting surprises other than the fact that they
+will. Not. Stay. Down. If I’m being honest the book might have done without them
+entirely.&lt;/p&gt;
+
+&lt;p&gt;However, I absolutely love the &lt;em&gt;concept&lt;/em&gt; of warforged, both as player characters
+and as NPCs. I love them so much I adapted them to GURPS &lt;a href=&quot;/2017/09/17/dfrpg-warforged.html&quot;&gt;here&lt;/a&gt;. I understand
+why the first MM included these: the Eberron books were still a little ways
+away, and the authors might have felt its fans needed a little reassurance.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Vine Horror</title>
@@ -1436,203 +1556,6 @@ makes them more than just “Orcs, but Epic”. It also helps that they can fly.
         <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/01/05/swordwing.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/05/swordwing.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Spider</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-spider.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Spiders have been in the game since the beginning. Here, they’re present in both
-the Monster Manual and in the Monster Vault’s animal appendix.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;While some real-world spiders can have a pretty dangerous bite, they’re not
-really suitable as a combat encounter. The books concern themselves with
-monstrous giant spiders instead.&lt;/p&gt;
-
-&lt;p&gt;There are many species of monstrous spider in D&amp;amp;D and they’re
-everywhere. Deserts, forests, caverns (“surface” or Underdark), ruins, anywhere
-a tiny spider would like can be home to a monstrous variety as well. The vast
-majority of them are simply natural creatures, but some are the blessed of
-Lolth and enjoy her divine gifts.&lt;/p&gt;
-
-&lt;p&gt;Predictably, drow love spiders and frequently train them or control them through
-magic to serve in all the same capacities someone on the surface would use a
-dog, horse, or drake for. Kobolds and goblins might also employ them if they’re
-part of the locally available fauna.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;All spiders shown here, with one exception, are Natural Beasts with the Spider
-keyword. That keyword is important because, among other things, drow tend to
-have lots of powers that buff spider allies.&lt;/p&gt;
-
-&lt;p&gt;The individual stat blocks vary a lot, but all have some level of Tremorsense,
-and a climb speed equal to their ground speed with the Spider Climb tag
-(obviously). Their basic attack is always a &lt;strong&gt;bite&lt;/strong&gt; and almost always has some
-sort of venom effect associated with it.&lt;/p&gt;
-
-&lt;p&gt;All of the Monster Vault spiders have &lt;strong&gt;Web Walk&lt;/strong&gt;, which allows them to ignore
-web-based difficult terrain. While this isn’t explicitly listed in the Monster
-Manual entries it would be fair to assume all of them have it too.&lt;/p&gt;
-
-&lt;h3 id=&quot;spider-swarm-mv&quot;&gt;Spider Swarm (MV)&lt;/h3&gt;
-
-&lt;p&gt;The least monstrous of the bunch, this is a lot of normal-sized aggressive
-spiders acting as a swarm monster. The swarm is a Level 3 Soldier with 44 HP,
-tremorsense 5 and a speed of 6, along with the usual swarm resistances and
-vulnerabilities.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows enemies caught inside instead of granting
-extra attacks. They attack with a &lt;strong&gt;Swarm of Fangs&lt;/strong&gt; that targets Reflex because
-they get inside your armor. It has an ongoing poison damage rider (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;deathjump-spider-both&quot;&gt;Deathjump Spider (Both)&lt;/h3&gt;
-
-&lt;p&gt;These Medium spiders are Level 4 Skirmishers with 55 HP. They have tremorsense
-5, resist poison 5, and a speed of 6. Though they have Web Walk, they’re not big
-spinners themselves, and hunt by jumping on their prey.&lt;/p&gt;
-
-&lt;p&gt;The stats for the spider’s bite are a bit wonky in the MM version: compared to
-what the updated math says, their attacks are woefully inaccurate and abnormally
-strong. The MV version fixes this. In both cases, the rider is ongoing poison
-damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;The deathjump spider’s special attack is &lt;strong&gt;Death From Above&lt;/strong&gt;, in which the
-spider shifts up to 6 squares by jumping and makes a bite attack at the end. If
-that hits, the target is also knocked prone. The MM version also does increased
-base damage.&lt;/p&gt;
-
-&lt;p&gt;It can also make a &lt;strong&gt;Prodigious Leap&lt;/strong&gt; as a move-action encounter power, which
-allows it to shift 10 squares. So this spider could initiate combat by jumping
-at the party’s wizard from a full 16 squares away!&lt;/p&gt;
-
-&lt;p&gt;The MM gives it another trait, &lt;strong&gt;Soft Fall&lt;/strong&gt;, allowing it to ignore the first 30
-feet of height of any fall. This is absent from the MV version, probably because
-they thought it was a bit too finicky.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodweb-spider-swarm&quot;&gt;Bloodweb Spider Swarm&lt;/h3&gt;
-
-&lt;p&gt;A more powerful version of the MV swarm, these spiders have been brought
-together and are controlled by magic. Without orders, they’ll default to
-attacking the nearest living creature until it dies before moving on to the next
-victim.&lt;/p&gt;
-
-&lt;p&gt;This swarm counts as a Level 7 Soldier with 80 HP. It otherwise works just like
-the level 3 swarm, except that it’s slower at speed 4 and its aura &lt;em&gt;does&lt;/em&gt; grant
-free basic attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;doomspinner-spider-mv&quot;&gt;Doomspinner Spider (MV)&lt;/h3&gt;
-
-&lt;p&gt;This chunky Large spider does spin elaborate webs to catch prey with. It’s a
-Level 7 Controller with 82 HP, Tremorsense 10, Resist Poison 5, and speed 6.&lt;/p&gt;
-
-&lt;p&gt;Their bite also has an ongoing poison damage rider, which increases if the
-target of the bite is restrained, immobilized, stunned, or unconscious. Its
-special attack is &lt;strong&gt;Web Casting&lt;/strong&gt; (area burst 1 within 5 vs. Reflex), which does
-no damage but restrains everyone it hits. The area of the burst becomes
-difficult terrain until the end of the encounter.&lt;/p&gt;
-
-&lt;p&gt;As a minor action the doomspinner can also shoot a strand of webbing at someone,
-in an attack named &lt;strong&gt;Drawn to Doom&lt;/strong&gt; (Ranged 5 vs. Fortitude), which does no
-damage but pulls the target 4 squares.&lt;/p&gt;
-
-&lt;p&gt;Though doomspinners can restrain enemies by themselves, they also pair really
-well with other monsters that can inflict the conditions that increase the
-effectiveness of their venom. “Multiple doomspinners” is the obvious setup, but
-there are plenty of other options.&lt;/p&gt;
-
-&lt;h3 id=&quot;blade-spider-mm&quot;&gt;Blade Spider (MM)&lt;/h3&gt;
-
-&lt;p&gt;These Large spiders have two blade-like front legs, and attack with them instead
-of biting. They live in the Underdark and are popular drow pets, having the
-Mount keyword.&lt;/p&gt;
-
-&lt;p&gt;Blade spiders are Level 10 Brutes with 130 HP, tremorsense 10, and
-speed 6. Unlike most of their relatives, they have no resistance to
-poison. Their basic attack is a &lt;strong&gt;Claw&lt;/strong&gt; with a rider that does ongoing poison
-damage and weakens (save ends both). They can make &lt;strong&gt;double attacks&lt;/strong&gt; with that.&lt;/p&gt;
-
-&lt;p&gt;When used as mounts, they can make &lt;strong&gt;combined attacks&lt;/strong&gt;, which means they attack
-with a claw as a free action when their rider makes an attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;cave-spider-mv&quot;&gt;Cave Spider (MV)&lt;/h3&gt;
-
-&lt;p&gt;These Medium spiders likely behave as a scaled-up swarm, with their size and
-numbers being such that you can track them individually. They’re level 12 Minion
-Skirmishers with tremorsense 5, resist poison 10 and speed 6.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; does the usual fixed minion damage, with additional poison damage
-on top if the target is immobilized, restrained, stunned or unconscious. They
-can also use a &lt;strong&gt;Tethering Web&lt;/strong&gt; (ranged 10 vs. Reflex) as a minor action to
-immobilize someone for a turn.&lt;/p&gt;
-
-&lt;p&gt;Combine a small horde of these with a leveled-up doomspinner or three, and your
-PCs are going to have a bad time.&lt;/p&gt;
-
-&lt;h3 id=&quot;demonweb-terror-mm&quot;&gt;Demonweb Terror (MM)&lt;/h3&gt;
-
-&lt;p&gt;Native to the Demonweb Pits, these are the true blessed of Lolth. They’re Huge
-Elemental Beasts with the Spider keyword. All the other spiders in this entry
-are simple Unaligned animals with Int 1, but terrors have Int 8 and are Chaotic
-Evil. You can try to talk to them if you know Abyssal, but that will do you no
-good.&lt;/p&gt;
-
-&lt;p&gt;Demonweb Terrors are Level 14 Elite Controllers with 296 HP, tremorsense 10, and
-a speed of 6. Interestingly, they have no poison resistance, though perhaps they
-should.&lt;/p&gt;
-
-&lt;p&gt;Their bite carries a venom that does ongoing poison damage and slows (save
-ends). As a 1/round minor action they can shoot a &lt;strong&gt;web&lt;/strong&gt; (ranged 10 vs. Reflex)
-that does no damage and immobilizes (save ends). After they’re first bloodied,
-they can use the &lt;strong&gt;Poison Spray&lt;/strong&gt; encounter power (close blast 5 vs. Fortitude)
-that has the same effects as the bite’s rider over the whole area.&lt;/p&gt;
-
-&lt;p&gt;These feel a tiny bit underpowered - they were likely only made Elite to pad out
-their HP. However, they likely work well when accompanied by other monsters who
-can capitalize on the immobilization and slowness they inflict.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The MM gives us 2 sample encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 11: 2 blade spiders, 2 bloodweb spider swarms, 1 drow blademaster.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 15: 1 demonweb terror, 1 drow arachnomancer, 2 drider fanglords and 3
-drow warriors.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As you can see, the book goes all-in on the whole Lolth connection. Any
-encounter with drow is likely to involve spiders. And while the lower-level
-spiders will likely be found as dungeon wildlife, the more powerful ones will
-very often be accompanied by drow as well.&lt;/p&gt;
-
-&lt;p&gt;I think giant spiders are a classic dungeon denizen, and work well when used in
-moderation. Of course, drow are known for despising the concept of moderation
-when it comes to arachnids.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/01/05/spider.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/05/spider.html</guid>
         
         <category>dnd4</category>
         
