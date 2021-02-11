@@ -115,4 +115,4 @@ why the first MM included these: the Eberron books were still a little ways
 away, and the authors might have felt its fans needed a little reassurance.
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
-[2]: {{ "/2017/09/17/dfrpg-warforged.html" }}
+[2]: {{ "/2017/09/17/dfrpg-warforged.html" | relative_url }}
