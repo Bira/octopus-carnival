@@ -34,7 +34,7 @@ still having armor be cool.
 This is a cinematic rule meant for science fiction settings where highly
 effective armor is common, but you want the PCs to have fun battles against
 armies of heavily-armored mooks. Star Wars and stormtroopers are the most
-obvious examples, but it also works for settings such as Waframe's with its
+obvious examples, but it also works for settings such as Waframe with its
 Grineer soldiers.
 
 Under this rule, armor worn by "mook" or "fodder" enemies has no protective

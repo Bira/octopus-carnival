@@ -435,3 +435,4 @@ After this, we get right on the monsters:
 [179]: {{ "/2021/01/25/vampire.html" | relative_url }}
 [180]: {{ "/2021/01/28/vine-horror.html" | relative_url }}
 [181]: {{ "/2021/02/07/warforged.html" | relative_url }}
+[182]: {{ "/2020/02/11/wight.html" | relative_url }}
