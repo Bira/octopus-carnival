@@ -253,6 +253,8 @@ After this, we get right on the monsters:
 
 - W
   - [Warforged][181]
+  - [Wight][182]
+  - [Wolf][183]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -435,4 +437,5 @@ After this, we get right on the monsters:
 [179]: {{ "/2021/01/25/vampire.html" | relative_url }}
 [180]: {{ "/2021/01/28/vine-horror.html" | relative_url }}
 [181]: {{ "/2021/02/07/warforged.html" | relative_url }}
-[182]: {{ "/2020/02/11/wight.html" | relative_url }}
+[182]: {{ "/2021/02/11/wight.html" | relative_url }}
+[183]: {{ "/2021/02/13/wolves.html" | relative_url }}
