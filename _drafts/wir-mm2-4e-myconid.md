@@ -1,0 +1,114 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Myconids"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Myconids have been in the game since AD&D as one of its most famous "novelty
+humanoids". They make their 4e debut here in the MM2.
+
+## The Lore
+
+Myconids are sapient fungal humanoids who originated in the Feywild. The
+fomorians did _something_ to them in the distant past, and they still bear the
+scars of that corruption. In our narrative present they can be found in deep
+caves or the Underdark both in the world and in the Feywild. Their preferred
+environment are underground mushroom forests that provide them with a complete
+ecosystem to live in, but they also have an instinctive need to multiply and
+spread and so can be found in less ideal conditions as well.
+
+Myconids communicate by releasing special spores laced with emotions and
+sensations, which only other myconids can understand. Only one individual in
+each of their colonies, known as the "Sovereign", can communicate with outsiders
+through telepathy.
+
+These mushroom-people aren't evil, but their expansionist instinct, difficulty
+with communication, and the fact that they live in the friggin' _Underdark_
+means they tend to engage in conflict with anyone they come across. They often
+end up enslaved by drow, fomorians, and shadar-kai.
+
+Peaceful interaction with myconids is predictably hard - you have to reach the
+sovereign, which means infiltrating the heart of their territory or letting
+yourself be captured and hoping they take you there.
+
+## The Numbers
+
+Myconids are Fey Humanoids with the Plant keyword. Sovereigns are Large,
+everyone else is Medium. They have Tremorsense 10, which allows them to operate
+well in total darkness. Their signature trait is **Roots of the Colony**,a free
+action that triggers when they're hit by an attack and allows them to split half
+the damage between themselves and a myconid ally within 5 squares. Given they're
+level 3-4, this is likely to be the party's first encounter with something
+resistant to focus fire.
+
+### Myconid Rotpriest
+
+Myconid culture isn't well-understood enough for people to know if they worship
+something, but rotpriests kinda fulfill the "healer" role usually taken up by
+clerics in other species. They do so in a much more self-sacrificing way,
+though.
+
+Rotpriests are Level 3 Brutes with the Leader keyword and 48 HP. They have a
+speed of 5, and Regeneration 5 that can be temporarily disabled by radiant
+damage. They fight with **stipe staffs** in melee and can also release
+**decomposing sprays** to deal necrotic damage in a Close Burst 3.
+
+They have Roots of the Colony like every other myconid, and when another myconid
+uses this ability to deal damage to them, rotpriests can use **Sacrifice for the
+Colony** to take all of the damage from the trigerring attack instead of just
+half. The idea is that they then heal this using their regeneration.
+
+When they finally get killed, they release a **Life Burst** that heals every
+living creature in a Close Burst 1 for 10 HP. This includes both monsters and
+PCs!
+
+### Myconid Sovereign
+
+Each colony has one of these acting as its leader. As mentioned before,
+sovereigns are the only myconids with any ability to communicate with
+outsiders. They're Level 4 Controllers with the Leader keyword and 58 HP. If
+forced into a fight they can defend themselves with **Slams** and with a variety
+of interesting spore bursts.
+
+The default **Spore Burst** is a close blast 3 that targets the Will of
+nonplants and deals poison damage. There's also **Commanding Spores**, which
+allows a plant ally within 5 squares to shift 1 square. Sounds like a waste of a
+standard action, but it can set up some interesting flanks.
+
+A Sovereign should stay a bit away from the main scrum, spraying it with its
+spore pesticides and helping keep the PCs surrounded.
+
+### Myconid Guard
+
+Though it's the last monster in the entry, guards are likely to be the most
+numerous foes the party meets. They're the rank and file of the colony's
+protectors. Guards are Level 4 Soldiers with 56 HP.
+
+They fight with **spiny strikes** from their fists, and can release
+**pacification spores** in a close burst 1 that target enemies' Wills, do poison
+damage, and prevent those hit from taking standard actions during their next
+turns. Fortunately, this is only an encounter power. Roots of the Colony is the
+last trick on their arsenal.
+
+Front-liners are going to have a bit of a bad time facing down myconid guards,
+since the guards can stagger their spore releases to keep the PCs from attacking
+for a while.
+
+## Sample Encounters and Final Impressions
+
+Myconids can live in any place that provides good conditions to mundane fungi,
+such as damp caverns, surface forests, and so on. Encounters with them can
+involve any wildlife that also lives in these places, either as "third parties"
+or perhaps as pets if the wildlife is also fungal. They can also be found
+alongside the several people who enslave their colonies, though in that case you
+might need to perform some level adjustments.
+
+The sample encounters are an all-myconid party that has just ran into a
+deathjump spider (level 3); a pair of myconid guards minding an arbalester for
+their bosses near a patch of green slime (level 4); and a geonid accompanied by
+a pair of rust monsters and another of rotpriests (level 5).
+
+I like these mushroom people, and I like making then relatively friendly once
+the PCs manage to breach the communications gap.
