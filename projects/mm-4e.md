@@ -256,6 +256,7 @@ After this, we get right on the monsters:
   - [Wight][182]
   - [Wolf][183]
   - [Worg][184]
+  - [Wyvern][185]
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
@@ -441,3 +442,4 @@ After this, we get right on the monsters:
 [182]: {{ "/2021/02/11/wight.html" | relative_url }}
 [183]: {{ "/2021/02/13/wolves.html" | relative_url }}
 [184]: {{ "/2021/02/19/worg.html" | relative_url }}
+[185]: {{ "/2021/02/21/wyvern.html" | relative_url }}
