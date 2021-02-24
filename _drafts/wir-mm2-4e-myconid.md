@@ -37,7 +37,7 @@ yourself be captured and hoping they take you there.
 
 Myconids are Fey Humanoids with the Plant keyword. Sovereigns are Large,
 everyone else is Medium. They have Tremorsense 10, which allows them to operate
-well in total darkness. Their signature trait is **Roots of the Colony**,a free
+well in total darkness. Their signature trait is **Roots of the Colony**, a free
 action that triggers when they're hit by an attack and allows them to split half
 the damage between themselves and a myconid ally within 5 squares. Given they're
 level 3-4, this is likely to be the party's first encounter with something
