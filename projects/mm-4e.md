@@ -258,6 +258,9 @@ After this, we get right on the monsters:
   - [Worg][184]
   - [Wyvern][185]
 
+- Y
+  - [Yuan-ti][186]
+
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
 [3]: {{ "/2019/01/08/more-aboleths.html" | relative_url }}
@@ -443,3 +446,4 @@ After this, we get right on the monsters:
 [183]: {{ "/2021/02/13/wolves.html" | relative_url }}
 [184]: {{ "/2021/02/19/worg.html" | relative_url }}
 [185]: {{ "/2021/02/21/wyvern.html" | relative_url }}
+[186]: {{ "/2020/02/27/yuan-ti.html" | relative_url }}
