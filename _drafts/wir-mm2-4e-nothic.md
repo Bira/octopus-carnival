@@ -36,6 +36,15 @@ include a heroic-tier nothic as well.
 
 ### Nothic Cackler
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-nothic-cackler.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Cacklers are some of the most "jester-like" in behavior. They caper about even
 during a battle, seemingly oblivious to the opposition even as they
 fight. They're level 15 Artillery with 116 HP.
@@ -77,6 +86,15 @@ is a Close Blast 5 that targets Fortitude and inflicts 10 ongoing necrotic
 damage (save ends).
 
 ### Nothic Eye of Vecna
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-nothic-eye-of-vecna.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 For some reason, Vecna likes this nothic sub-species and heaps blessings upon
 them. They often hang around his cults. They're Level 22 Lurkers with 162 HP,
