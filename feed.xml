@@ -6,9 +6,212 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Feb 2021 09:02:54 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Feb 2021 09:02:54 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Feb 2021 13:40:57 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Feb 2021 13:40:57 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Zombie</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-zombie.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Definitely not a D&amp;D illustration
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;This is it. The final entry in the Monster Manual, the only Z monster, and the
+penultimate post in this particular Let’s Read. Zombies have of course been in
+the game since the very beginning. Here they are present both in the Monster
+Manual and the Monster Vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;You know what they’re like: rotting corpses who slowly shamble around and attack
+the living. They’re one of those monsters who made it into D&amp;amp;D from popular
+culture and are extremely popular outside of the game (like vampires, or
+dragons). There’s a whole lot of different zombie versions out there, and it
+seems the game has made an effort to incorporate most of them.&lt;/p&gt;
+
+&lt;p&gt;Like skeletons, zombies are often created through a necromantic ritual that
+creates an animus and nails it to a dead body. They might also be spontaneously
+created when an area is bathed in necrotic emanations, or when some sort of
+divine curse falls over it, which is more common with zombies than with
+skeletons.&lt;/p&gt;
+
+&lt;p&gt;The main difference, of course, is that zombies are still fleshy. That flesh
+&lt;em&gt;remembers&lt;/em&gt;, however poorly, what it’s like to be alive. A zombie’s dead heart
+still pumps its rotten blood. Its lungs still wheeze, and its guts still
+hunger. Left to their own devices, zombies will seek the warmth of the living
+and try to eat their flesh, moving on to new victims when the current one gets
+cold. Zombies who have a master will follow that master’s orders, but they’re
+not smart enough to do anything complex.&lt;/p&gt;
+
+&lt;p&gt;Though the typical image of a zombie is that of an animated human corpse, that’s
+not necessarily true! Anything that had a pulse in life can be animated as a
+zombie, by ritual or accident.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D zombies are not “contagious”, but you can still have a zombie apocalypse
+when a sudden influx of necrotic energy into a region causes every corpse within
+to rise as a zombie. And if the infusion is constant, then people killed by
+these zombies would rise as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Zombies are Natural Animates with the Undead keyword. Their size is the same as
+the original creature, usually Medium or Large. Monster Manual zombies have
+necrotic resistance and radiant vulnerability like all other undead, but the
+Vault ones aren’t so fancy and have neither. Most are fairly slow, with a Speed
+of 4, but there are exceptions. They all have Darkvision.&lt;/p&gt;
+
+&lt;p&gt;The two signature traits for Monster Vault zombies are &lt;strong&gt;Zombie Weakness&lt;/strong&gt; and
+&lt;strong&gt;Deathless Hunger&lt;/strong&gt;. The first one causes any critical hit to reduce the zombie
+to 0 HP instantly (“Boom! Headshot!”). The other triggers when they’re reduced
+to 0 HP: roll a d20, and if the result is 15 or more, the zombie remains at 1 HP
+instead. This means they’re both unusually fragile and unusually tough. Several
+MM zombies have similar traits, but they’re less universal.&lt;/p&gt;
+
+&lt;h3 id=&quot;grasping-zombie-monster-vault&quot;&gt;Grasping Zombie (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;This Medium Level 1 Brute has 33 HP and all the standard traits. It attacks with
+&lt;strong&gt;Slams&lt;/strong&gt; that do extra damage against grabbed targets and can instead try to
+grab someone with &lt;strong&gt;Zombie Grasp&lt;/strong&gt; (melee 1 vs. Reflex) which does no damage but
+grabs the creature (escape DC 12).&lt;/p&gt;
+
+&lt;p&gt;They naturally lend themselves to classic zombie horde tactics, surrounding
+victims, grabbing and beating them up/biting them into chunks.&lt;/p&gt;
+
+&lt;h3 id=&quot;zombie-monster-manual&quot;&gt;Zombie (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;This is basically a Level 2 version of the Grasping Zombie, with 40 HP. Its
+defenses are actually a bit lower, but the escape DC for the grab is higher
+because victims have a -5 penalty to escape it.&lt;/p&gt;
+
+&lt;h3 id=&quot;zombie-rotter-monster-manual&quot;&gt;Zombie Rotter (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A level 3 minion brute with a single &lt;strong&gt;slam&lt;/strong&gt; attack, Speed 4, and none of the
+special traits listed above. Pretty simple. Make sure to use literal hordes of
+them.&lt;/p&gt;
+
+&lt;p&gt;The monster Vault instead has Zombie Shamblers, which are level 5 minions and
+have Deathless Hunger, making them tougher than usual.&lt;/p&gt;
+
+&lt;h3 id=&quot;gravehound-monster-manual&quot;&gt;Gravehound (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A zombie dog! It’s Medium and unlike its humanoid counterparts it can run at
+Speed 8. Its &lt;strong&gt;bite&lt;/strong&gt; also deals ongoing necrotic damage (save ends), and knocks
+Medium or smaller targets prone. It has Zombie Weakness, and when it hits 0 HP
+it makes one last bite attack as a free action.&lt;/p&gt;
+
+&lt;h3 id=&quot;corruption-corpse-monster-manual&quot;&gt;Corruption Corpse (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A &lt;em&gt;regenerating&lt;/em&gt; Medium zombie who uses this fact to rip out chunks of itself
+and throw them at victims. It’s Level 4 Artillery with 46 HP. Its &lt;strong&gt;Grave
+Stench&lt;/strong&gt; acts as an aura (1) that inflicts a -5 penalty to all attacks,
+discouraging enemies from getting into melee range. Its regeneration turns off
+for a turn if the zombie takes radiant damage.&lt;/p&gt;
+
+&lt;p&gt;Though the corpse’s &lt;strong&gt;slams&lt;/strong&gt; are weak, its thrown &lt;strong&gt;motes of corruption&lt;/strong&gt;
+(ranged 10 vs. reflex) do decent necrotic damage and weaken (save ends). When
+killed, it explodes in a close burst 1 vs. Fortitude, dealing necrotic damage to
+all in the area.&lt;/p&gt;
+
+&lt;h3 id=&quot;hulking-zombie-monster-vault&quot;&gt;Hulking Zombie (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;This Large Level 4 Brute with 70 HP was clearly an ogre in life. Its &lt;strong&gt;slams&lt;/strong&gt;
+are Reach 2 and do extra damage to prone or grabbed targets. Its &lt;strong&gt;Zombie Rush&lt;/strong&gt;
+allows it to charge (with its speed of 4) and make an attack against Fortitude
+that does the same damage as a slam and knocks prone.&lt;/p&gt;
+
+&lt;h3 id=&quot;zombie-hulk-monster-manual&quot;&gt;Zombie Hulk (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;Pretty much the same monster, only this one is Level 8 with 88 HP because MM
+ogres are level 8. In place of Zombie Rush it has &lt;strong&gt;Zombie Smash&lt;/strong&gt;, a recharge 6
+melee attack that does a lot of damage and knocks prone. Zombie Hulk Smash, get
+it?&lt;/p&gt;
+
+&lt;p&gt;Instead of Deathless Hunger it has the much more dangerous &lt;strong&gt;Rise Again&lt;/strong&gt;, which
+triggers automatically when the zombie hits 0 HP and makes it get back up with
+44 HP at the start of its next turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;rotwing-zombie-monster-manual&quot;&gt;Rotwing Zombie (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;A &lt;em&gt;flying&lt;/em&gt; zombie, either because it was a flying creature in life or because
+some maniac stitched wings to it. It’s still speed 4 both in the ground and in
+the air, so don’t expect fancy maneuvers here.&lt;/p&gt;
+
+&lt;p&gt;Still, it does have a little trick: its &lt;strong&gt;slams&lt;/strong&gt; do extra damage when used as
+part of a flying charge.&lt;/p&gt;
+
+&lt;h3 id=&quot;flesh-crazed-zombie-monster-vault&quot;&gt;Flesh-Crazed Zombie (Monster Vault)&lt;/h3&gt;
+
+&lt;p&gt;AKA a “Romero Zombie”, which kinda steps in the ghoul’s toes. This one is a
+Level 4 Skirmisher with 55 HP and all standard zombie traits. Its speed is 6, or
+8 when charging. &lt;strong&gt;Flesh-Crazed Charge&lt;/strong&gt; ensures its charges don’t provoke
+opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;These zombies fight with &lt;strong&gt;clubs&lt;/strong&gt;, which do extra damage on a charge. If they
+can’t charge, they’ll &lt;strong&gt;bite&lt;/strong&gt;, which actually does more damage and dazes for a
+turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;chillborn-zombie-monster-manual&quot;&gt;Chillborn Zombie (Monster Manual)&lt;/h3&gt;
+
+&lt;p&gt;The corpse of someone who died in the cold. It’s a Level 6 Soldier with 71 HP,
+and exudes a &lt;strong&gt;Chillborn Aura&lt;/strong&gt; (2) which does 5 cold damage per turn to those
+caught inside. Multiple chillborn auras &lt;em&gt;stack&lt;/em&gt;. This zombie also has Resist
+Cold 10.&lt;/p&gt;
+
+&lt;p&gt;Hey, given enough of these they might end up damaging each other with their
+auras! I don’t think this was the intention, so you can just say they’re immune
+to each other’s auras.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;slams&lt;/strong&gt; immobilize for a turn and inflict ongoing cold damage (save
+ends). When they die, &lt;strong&gt;Death Burst&lt;/strong&gt; causes them to explode and deal cold
+damage in a Close Burst 1 (vs. Fortitude). &lt;strong&gt;Ice Reaper&lt;/strong&gt; makes either of these
+attacks deal extra cold damage to immobilized targets.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I consider zombies to be an important part of the dungeon fantasy genre, which
+includes D&amp;amp;D. They’re not an exclusive monster or anything, but they’re
+inevitably one of the first undead any party is going to face. The variety shown
+here is interesting: though the MV stat blocks are a little better mechanically,
+they’re also a lot more conventional in appearance and concept. “Normal zombie”,
+“big zombie”, “fast zombie”. You should absolutely make an effort to spring the
+more exotic varieties on your players if possible.&lt;/p&gt;
+
+&lt;p&gt;What about possible encounters? Any two-bit necromancer can animate a zombie or
+ten, so they’re a good fit for any encounter or adventure that might include one
+of those. Surprisingly they also work well with other non-sapient creatures, as
+long as neither would eat the other and the living critters aren’t bothered by
+the smell. The sample MM encounters bear this out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 4: 3 standard zombies, 4 rotters, 4 kruthik hatchlings, and 2 wererats.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 8: 2 hulks, 2 rot scarab swarms, 1 oni night haunter.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Both encounters clearly include monsters who could be considered necromancers,
+but I suppose the kruthiks and the scarabs could be found alongside zombies even
+without a sapient to handle them. And of course, other undead work fine as
+zombie buddies.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/02/28/zombie.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/28/zombie.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read The 4e Monster Manual/Vault: Yuan-Ti</title>
@@ -1398,176 +1601,6 @@ powers.&lt;/p&gt;
         <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/01/24/unicorn.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/24/unicorn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Umber Hulk</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-umber-hulk.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Umber Hulks have been in the game since at least AD&amp;amp;D 1st Edition. Here, they’re
-present in both the Monster Manual and the Vault.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Umber Hulks are insectoid predators native to the Underdark, through which they
-roam by digging tunnels with their powerful claws. Tunneling is slow and hungry
-work, so they need a lot of energy.&lt;/p&gt;
-
-&lt;p&gt;Umber Hulk are curious explorers and their tunnels are stable, so they end up
-being an important part of the Underdark’s ecosystem. While Purple Worm tunnels
-form the “avenues” and “highways” of that subterranean realm, hulk tunnels form
-its side roads and streets, linking larger passages and caves together.&lt;/p&gt;
-
-&lt;p&gt;Lacking in both natural stealth or speed, umber hulks like to hunt by tunneling
-until they’re about to break through into a larger space, and using their
-tremorsense to wait for approaching prey. Then they finish bursting through the
-wall and enter combat. Once engaged, they use the psychic powers granted by
-their peculiar second set of eyes to attack their victim’s mind, making then an
-easier target for their claws. Contrary to what it might seem, the psychic eyes
-are the large faceted pair, not the tiny, beady one. Those they use to see.&lt;/p&gt;
-
-&lt;p&gt;Hulks are sapient and Unaligned, but not very smart at Int 5. They can’t speak,
-but can understand Deep Speech, so it’s possible for PCs to negotiate with them
-and avoid violence if they know the language and think to do
-that. Unfortunately, they’re another one of those creatures that often gets
-enslaved by the evil empires of the Underdark, and avoiding violence with those
-is a little trickier.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Umber Hulks are Large Natural Magical Beasts, with Darkvision and
-Tremorsense 5. They usually have a speed of 5, and a burrowing speed of 2 with
-the Tunneling enhancement.&lt;/p&gt;
-
-&lt;p&gt;They fight with their big claws and their psychic gaze, though the exact effects
-of those vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;umber-hulk-both&quot;&gt;Umber Hulk (Both)&lt;/h3&gt;
-
-&lt;p&gt;The basic model is a Level 12 Elite Soldier with 248 HP. Its gaze confuses
-victims and makes them wander around aimlessly, making them easy prey for its
-large, grabby, rending claws. The two books model this a bit differently.&lt;/p&gt;
-
-&lt;p&gt;In both cases, the hulk’s basic attack is a &lt;strong&gt;claw&lt;/strong&gt;, and it can make a &lt;strong&gt;Double
-Attack&lt;/strong&gt; with it. If both attacks hit, the hulk grabs the target. The Monster
-Vault escape DC is a generous 20, but the MM DC is either the hulk’s Fortitude
-of 33 or its Reflex of 28.&lt;/p&gt;
-
-&lt;p&gt;The difference lies in what happens after the monster grabs a victim. The
-Monster Manual version (with the higher escape DCs) does ongoing 10 damage to
-the grabbed victim. The Monster Vault umber hulk can instead use a standard
-action to &lt;strong&gt;Rend&lt;/strong&gt; the victim and do an automatic 40 damage to it, which is like
-an automatic hit of its usual double attack.&lt;/p&gt;
-
-&lt;p&gt;Their gaze works the same in both versions: It’s a Close Blast 5 vs. Will,
-targetting enemies in the area. It does no damage, but slides the targets 5
-squares and dazes them (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;umber-hulk-tunneler-monster-vault&quot;&gt;Umber Hulk Tunneler (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;This specimen is a Level 15 Skirmisher with 148 HP. Since it’s not as beefy as
-the basic model, it relies on snatching a chosen victim and running away with
-it, using its gaze to keep the victim’s friends at bay.&lt;/p&gt;
-
-&lt;p&gt;The basic &lt;strong&gt;claw&lt;/strong&gt; attack is a bit weak, but the tunneler can use &lt;strong&gt;Double
-Attack&lt;/strong&gt; to make two of them against the same target. If both hit, the tunneler
-can shift up to 5 squares and pull the victim along with it.&lt;/p&gt;
-
-&lt;p&gt;Its eyes can cast a &lt;strong&gt;Rebuffing Gaze&lt;/strong&gt; (close blast 5 vs. Will). The targets it
-hits take 2d6 damage whenever they enter a square closer to the hulk during
-their next turn. So it’s more of a disincentive to move closer than a
-prohibition, and an PC who’s feeling lucky can risk taking up to 10d6 damage
-to charge in anyway. At levels 12-15, this is significant but not necessarily
-lethal.&lt;/p&gt;
-
-&lt;h3 id=&quot;umber-hulk-bewilderer-monster-vault&quot;&gt;Umber Hulk Bewilderer (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;This variant relies on its psychic powers more than on its claws. It’s a Level
-15 Controller with 148 HP.&lt;/p&gt;
-
-&lt;p&gt;The basic &lt;strong&gt;claw&lt;/strong&gt; attack is once again kinda weak, but it does double damage
-against stunned targets. The bewilderer can employ a &lt;strong&gt;Stunning Gaze&lt;/strong&gt; (close
-blast 5 vs. Will; recharge 5-6) as a standard action to stun those enemies it hits for a turn,
-and it can use a &lt;strong&gt;Staggering Gaze&lt;/strong&gt; (close blast 5 vs. Will) as 1/round minor
-action to do a bit of psychic damage and slide the target 5 squares.&lt;/p&gt;
-
-&lt;p&gt;Bewilderers can punch above their weight class if they focus on a single PC, and
-if you have more than one such umber hulk they multiply each other’s
-firepower. I’d say include at least two in an encounter group where you want
-them to be.&lt;/p&gt;
-
-&lt;h3 id=&quot;deep-hulk-monster-vault&quot;&gt;Deep Hulk (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;This is an umber hulk from way deeper into the Underdark - it’s a stronger
-version of the basic model, a Level 17 Elite Brute with 404 HP.&lt;/p&gt;
-
-&lt;p&gt;“Umber Hulk but more” describes this creature perfectly. Most of its attacks are
-versions of those from the MV basic hulk with bigger numbers: the claw, the
-grabby double attack, and the rending (which does 60 damage).&lt;/p&gt;
-
-&lt;p&gt;The Deep Hulk’s gaze gets upgraded to a &lt;strong&gt;Maddening Gaze&lt;/strong&gt; (close blast 5
-vs. Will). This attacks every enemy in the blast, as usual. Those that get hit
-must spend a standard action on their next turn making a basic attack against an
-ally in range. If there’s no ally in range, they must charge the closest ally. I
-guess it’s a “maddening” gaze because it will make your players pretty mad even
-though it only lasts for a turn.&lt;/p&gt;
-
-&lt;p&gt;Oh, the gaze is an at-will attack, so a deep hulk can open the fight with it,
-spend the next turn clawing a PC, and from them on alternate the gaze with the
-claws (or the rending). It won’t even give up too much damage potential if the
-party includes lots of people with good basic attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-hulk-monster-manual&quot;&gt;Shadow Hulk (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;The concept of this monster is the same behind the Deep Hulk: a bigger, badder
-Umber Hulk from deeper in the Underdark. The implementation is quite different,
-however.&lt;/p&gt;
-
-&lt;p&gt;Shadow Hulks are Huge Shadow Magical Beasts, which hints that they might have
-been mutated by magical leaks from the Shadowfell somewhere down there. They’re
-Level 17 Solo Soldiers with 860 HP. Their land speed is 6, their burrowing speed
-4, and they have &lt;em&gt;phasing&lt;/em&gt;, which means they might not actually burrow much.&lt;/p&gt;
-
-&lt;p&gt;Shadow Hulks attack with their &lt;strong&gt;claws&lt;/strong&gt;, have the grabby &lt;strong&gt;double attack&lt;/strong&gt;, and
-bite the grabbed victim for 15 ongoing damage. While bloodied, they can also
-make &lt;strong&gt;claw frenzy&lt;/strong&gt; attacks (close burst 3 vs. AC; recharge 6) which do the
-same damage of the basic attack over an area. They also have the Deep Hulk’s
-&lt;strong&gt;Madening Gaze&lt;/strong&gt;, which they can use as an &lt;em&gt;at-will minor action 1/round&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I think I get why we got the Deep Hulk in the Monster Vault instead of a more
-direct conversion. Fighting 860 HP of umber hulk with higher AC and accuracy
-than normal, and who can both claw &lt;em&gt;and&lt;/em&gt; use a maddening gaze every round, is a
-bit much. Still, if your players are cocky, you can update the Shadow Hulk and
-throw it at them.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 13, 2 umber hulks and 2 drow warriors.&lt;/p&gt;
-
-&lt;p&gt;The hulks from the Monster Vault are much better than the ones from the Monster
-Manual. If you have the Vault, you can disregard the MM versions entirely.&lt;/p&gt;
-
-&lt;p&gt;I like Umber Hulks! They’re a big dumb brute monster with some really
-interesting tricks to go with he usual physical attacks. Fighting them requires
-a bit more thought because of that.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/01/20/umber-hulk.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/20/umber-hulk.html</guid>
         
         <category>dnd4</category>
         
