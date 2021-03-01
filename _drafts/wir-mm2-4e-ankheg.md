@@ -32,7 +32,7 @@ bring prey to them underground. Other things might also be living in ankheg
 tunnels, since the creatures don't use all of it as living space.
 
 This is the extent of the lore we get in the MM2, but it was the bits left out
-that made ankheg's low-key famous. These bits say that ankhegs prefer to dig
+that made ankhegs low-key famous. These bits say that ankhegs prefer to dig
 through soil rich in minerals and organic matter. This means forests, but it
 also means _good farmland_. Therefore, these creatures are likely to be found
 very close to civilized settlements. I think I saw at least one source that said
@@ -44,8 +44,8 @@ extra security measure against the many _other_ dangers from the wild, assuming
 the farmers in question can develop some way of avoiding the beasts
 themselves. If you walk without rythm, you won't attract the
 worm. Unfortunately, it looks like they cannot be tamed, so farming in ankheg
-country makes for a very interesting life. At least it looks like you won't find
-more than one "family" of ankhegs in a given area.
+country makes for a very interesting life. Fortunately, you won't find more than
+one "family" of ankhegs in a given area.
 
 ## The Numbers
 

@@ -8,8 +8,8 @@ tags:
 
 As I write this, I have just finished a Let's Read of the first D&D 4 Monster
 Manual and Monster Vault in parallel, which took me about one year and four
-months to complete and a bit more to show up here. This means it's time to start
-up on the Monster Manual 2!
+months to complete and and around 2 years and 2 months to finish posting
+here. This means it's time to start up on the Monster Manual 2!
 
 Published in 2009, this book includes both more varieties of monsters that
 appeared in its predecessor, and those that are new either to the game or to

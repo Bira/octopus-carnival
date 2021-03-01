@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual/Vault"
+title: "Let's Read the 4e Monster Manual/Vault: Traits Appendix"
 tags:
     - dnd4
     - lets-read
