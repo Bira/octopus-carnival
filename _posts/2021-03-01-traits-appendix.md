@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Before I close the curtain on this Let's Read, there's one more thing to
 discuss. I had forgotten it was there at all! Back when the Monster Manual had
 just been published, though, I remember thinking it was a big deal.
@@ -69,3 +71,5 @@ appendix was pretty useful before all of this extra material came out.
 And this slightly maudlin post finally finishes our Let's Read of the first
 Monster Manual! I hope you enjoyed it. I plan on doing the other two and the
 other Vault, and hopefully I'll take less time to post those in their entirety.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
