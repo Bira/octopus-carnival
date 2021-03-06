@@ -5,9 +5,198 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Mar 2021 18:14:37 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 18:14:37 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Mar 2021 16:13:15 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Mar 2021 16:13:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Building a Spaceplane: A GURPS Spaceships Exercise</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Fictional ESA spaceplane.
+    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’ve been reading about Kerbal Space Program recently, and it made me want to
+try my hand at designing some GURPS spaceships.&lt;/p&gt;
+
+&lt;p&gt;One of the terms that often gets thrown about when talking about near-future
+space tech is “Single Stage to Orbit”, or SSTO. This would be a vehicle that can
+go from ground to orbit all by itself, without needing any detachable
+boosters. In the real world, a lot of plans for building one of these have been
+conceived and dropped, but we don’t have a real example yet.&lt;/p&gt;
+
+&lt;p&gt;How close does GURPS Spaceships think we are to such a thing?&lt;/p&gt;
+
+&lt;p&gt;In this post I’ll try to design a spaceplane, a popular type of theoretical SSTO
+craft. The basic idea is that they take off and fly to the upper atmosphere
+using air-breathing engines, and only then activate their rockets to reach
+orbit. After completing their mission, they can re-enter atmosphere and land by
+gliding. Spaceplanes are an attractive concept because they can use a lot less
+fuel to reach orbit, are fully reusable, and easier to maintain. Plus they tend
+to look really cool.&lt;/p&gt;
+
+&lt;h2 id=&quot;mission-statement-and-design-options&quot;&gt;Mission Statement and Design Options&lt;/h2&gt;
+
+&lt;p&gt;For this attempt, we’re going to assume a realistic TL8 setting (“present-day
+technology”), giving us access to TL7 and 8 items from the book. I’ll
+arbitrarily assign it SM +8, making it a 1000 ton craft.&lt;/p&gt;
+
+&lt;p&gt;Therefore, our craft is SM +8, TL8, streamlined, and winged. It must take off
+from the ground on Earth and reach orbital velocity using without the aid of
+external boosters or detachable stages, while carrying a multi-ton payload in
+its cargo hold.&lt;/p&gt;
+
+&lt;p&gt;This means it must have a total delta-V exceeding 5.6 miles per second after all
+the calculations are done&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We get a bonus 0.3 mps if we launch eastwards
+from the equator, but having the craft reach the number on its own would allow
+it to launch from anywhere in the planet.&lt;/p&gt;
+
+&lt;h3 id=&quot;fixed-systems&quot;&gt;Fixed Systems&lt;/h3&gt;
+
+&lt;p&gt;The design options above lock down 3 of the 20 systems we have available:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We need 1 armor system because we’re streamlined.&lt;/li&gt;
+  &lt;li&gt;We need a control room (1 system).&lt;/li&gt;
+  &lt;li&gt;We need a cargo bay (1 system).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For our purposes in this post it doesn’t matter what the armor is made of, but
+we might as well use Metallic Laminate since we’re designing a “cutting edge”
+craft. The remaining 17 systems will be split among engines and fuel tanks.&lt;/p&gt;
+
+&lt;p&gt;At our TL, we have two engine options: the Chemical Rocket and the Jet
+Engine. They both help, but use different fuel sources. Adding jet engines means
+we need to figure out their top airspeed and subtract that from the necessary
+delta-V to reach orbit. Rocket delta-V is purely a function of how many tanks we
+dedicate to rocket fuel.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-1-mixing-rockets-and-jet-engines&quot;&gt;Attempt 1: Mixing Rockets and Jet Engines.&lt;/h3&gt;
+
+&lt;p&gt;My first draft had the following configuration for our 17 “free” systems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Jet Engines&lt;/li&gt;
+  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
+  &lt;li&gt;14 Fuel Tanks (13 for rocket fuel, 1 for jet fuel).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The jet fuel allowed us to run the jets for half an hour, which was more than
+enough to reach maximum speed and altitude. They lowered our target to 4.63 mps,
+but that’s not enough. Combining the rules for chemical rockets and fuel tanks,
+our rocket had 3.12 mps of delta-V available to it.&lt;/p&gt;
+
+&lt;p&gt;This might be good for a fancy passenger plane for people with money to burn,
+but not for a SSTO vehicle.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-2-rocket-plane&quot;&gt;Attempt 2: Rocket Plane&lt;/h3&gt;
+
+&lt;p&gt;What if we build an all-rocket engine assembly?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
+  &lt;li&gt;16 fuel tanks (all rocket fuel)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adding up the delta-V for this version is easier, and we do end up with more of
+it, but it’s still not enough. We get 4.8 out of 5.6 mps. So close, yet so far.&lt;/p&gt;
+
+&lt;p&gt;What this configuration gives us is a reusable &lt;em&gt;launch-assist vehicle&lt;/em&gt; can get
+its 50-ton payload &lt;em&gt;almost&lt;/em&gt; to orbital speeds. The payload itself would need to
+be another vehicle that could provide the remaining 0.8 mps of delta-V itself,
+and perhaps include a bit more for maneuvers once in orbit. The LAV can spend
+all of its own fuel and glide down.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-3-cheating-with-optional-rules&quot;&gt;Attempt 3: Cheating with Optional Rules.&lt;/h3&gt;
+
+&lt;p&gt;We’ve run up against one of the harsh realities of the Spaceships design
+rules. Using only TL7-8 chemical rockets, you simply can’t make a SSTO vehicle
+with less than 17 fuel tanks. A traditional disposable rocket can be modeled
+with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an SM 2
+smaller than the rocket itself. This upper stage has the armor, and the
+discarded lower stage burns up on re-entry. Our spaceplane faces some trouble
+because it needs to include that armor system itself, leaving us 1 fuel tank
+short.&lt;/p&gt;
+
+&lt;p&gt;The only way we can make it work is by pulling in an optional rule from GURPS
+Spaceships 7 p. 4: Smaller Systems. By shrinking both our cargo bay and control
+room to SM +7, we decrease our cargo capacity to 15 tons, decrease our
+Handling/SR in by 1, and add 1.33 fuel tanks to our all-rocket spaceplane. That
+gets us 6.05 mps of delta-V, enough to launch from anywhere on the planet and
+still leave us some reserves for maneuvers and corrections. It carries less than
+the equivalent disposable rocket but is fully reusable, able to land by gliding
+even with an empty fuel tank.&lt;/p&gt;
+
+&lt;p&gt;We leave the armor system at the same size because it’s meant to serve as a heat
+shield on re-entry, so it’s probably placed in the central hull.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img width=&quot;512&quot;
+  src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ED97-43938-1mod.jpg/512px-ED97-43938-1mod.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A X-33 and a VentureStar craft. NASA, public domain, via Wikimedia Commons.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The thing we just designed is remarkably similar to the Lockheed-Martin
+&lt;a href=&quot;https://en.wikipedia.org/wiki/VentureStar&quot;&gt;VentureStar&lt;/a&gt;, at least if the stats in the Wikipedia article are to be
+believed. This is a project for a SSTO spaceplane whose most famous product is
+the X-33 prototype, a scaled-down version of the final design intended to test
+some of its technologies.&lt;/p&gt;
+
+&lt;p&gt;VentureStar was supposed to be a lot simpler to maintain than the space shuttle,
+and was intended to be available for sale to private companies and not just to
+NASA, kick-starting a wave of private space exploration. The project was
+cancelled in 2001 because its fuel tanks were too hard to manufacture using the
+technology of the time. Ironically, better manufacturing techniques were
+discovered a few years later.&lt;/p&gt;
+
+&lt;p&gt;Aside from having to contend with the “harsh truth” of the design rules we
+already mentioned, our spaceplane also illustrates what seems to be a constraint
+plaguing real-world designers: separate air-breathing and rocket engines are
+inefficient. Go rocket-only or get you an engine that can do both.&lt;/p&gt;
+
+&lt;p&gt;Its final stats are: dST/dHP 70; Air Hnd/SR +2/3; Space Hnd/SR -3/3; Move
+3G/6.05mps; LWt. 1000; Load 15.3; SM+8; Occ 3; dDR 0/2/0. The Space handling is
+terrible, but workable when the mission is “get up, release the payload, get
+down”.&lt;/p&gt;
+
+&lt;p&gt;Our spaceplane costs $8.8M according to the design rules. Of course, that’s its
+price if it was mass-produced and commercially available. The rather more
+bespoke space program manufacturing model means it could cost up to 100 times
+more. It runs on liquid hydrogen/liquid oxygem rocket fuel, a full load of which
+costs $693,200.&lt;/p&gt;
+
+&lt;p&gt;The LAV version has better handling and stability (+3/4 in air and -2/4 in
+space) and costs about $40K less to fuel, and can deliver a bigger payload as
+long as that payload has some delta-V of its own. But it’s not a spaceplane, so
+nyeh.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I like using a proper measurement system, but all of the book’s formulas
+are in miles, so I’ll have to use that to avoid getting confused during the
+design process. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>spaceships</category>
+        
+        
+      </item>
     
       <item>
         <title>How I Started Role-Playing</title>
@@ -919,196 +1108,6 @@ shared world in that mold.&lt;/p&gt;
         <category>gurps</category>
         
         <category>dnd</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dungeon Fantasy Character: Ser Alexa of the Flame, Human Mystic Knight</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/tumblr_459fae466a7d9b09883fcff85a7183d5_f1a67680_1280.jpg&quot;/&gt;
-  &lt;figcaption&gt;&lt;a href=&quot;https://www.artstation.com/artwork/2xLEPA&quot;&gt;Illustration
-  by Nishio Nanora&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Years ago, Alexa’s father (a minor baron) sent her to the capital to serve as
-squire to a somewhat eccentric knight. She returns to her home a knight in her
-own right, skilled with sword and spell, to find her ancestral lands at the edge
-of ruin. Against the wishes of her ailing father, Alexa sets forth to bring
-honor, glory, and wealth back to her family name.&lt;/p&gt;
-
-&lt;p&gt;Alexa is made using the spell-based &lt;a href=&quot;/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html&quot;&gt;Mystic Knight template from this blog&lt;/a&gt;,
-rather than the Imbuement-based official one. Her Weirdness Magnet is a perfect
-explanation for why the Odds and Sods party got together in the first place,
-making her their unnoficial leader.&lt;/p&gt;
-
-&lt;h2 id=&quot;alexa-245-point-human-mystic-knight&quot;&gt;Alexa, 245-point Human Mystic Knight&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 14 {40}; &lt;strong&gt;DX&lt;/strong&gt; 13 {60}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 13 {30}&lt;/p&gt;
-
-&lt;p&gt;Damage 1d/2d; BL 19.6kg; HP 14; Will 12; Per 12; FP 13; Basic Speed 6.25; Basic
-Move 6 {0}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Born War Leader 1 {5}&lt;/li&gt;
-  &lt;li&gt;Magery 4 {45}&lt;/li&gt;
-  &lt;li&gt;Weapon Channeling {1}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Code of Honor (Chivalry) {-15}&lt;/li&gt;
-  &lt;li&gt;Obsession (Restore My Family’s Holdings) {-5}&lt;/li&gt;
-  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
-  &lt;li&gt;Weirdness Magnet {-15}&lt;/li&gt;
-  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dislikes entering water {-1}&lt;/li&gt;
-  &lt;li&gt;Always carries the family sword {-1}&lt;/li&gt;
-  &lt;li&gt;Writes letters to her departed mother {-1}&lt;/li&gt;
-  &lt;li&gt;Stands at attention unless she makes a conscious effort not to {-1}&lt;/li&gt;
-  &lt;li&gt;Hotter to the touch than usual due to fire magic affinity {-1}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Armory (Body Armor) (A) IQ+1 {4} - 13&lt;/li&gt;
-  &lt;li&gt;Brawling (E) DX+1 {2} - 14&lt;/li&gt;
-  &lt;li&gt;Broadsword (A) DX+4 {16} - 17&lt;/li&gt;
-  &lt;li&gt;Connoisseur (Weapons) (A) IQ+1 {4} - 13&lt;/li&gt;
-  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
-  &lt;li&gt;Fast-Draw (Sword) (E) DX {1} - 13&lt;/li&gt;
-  &lt;li&gt;Forced Entry (E) DX {1} - 13&lt;/li&gt;
-  &lt;li&gt;Heraldry (A) IQ-1 {1} - 11&lt;/li&gt;
-  &lt;li&gt;Hidden Lore (Magic Items) (A) IQ {2} - 12&lt;/li&gt;
-  &lt;li&gt;Innate Attack (Projectile) (E) DX+2 {4} - 15&lt;/li&gt;
-  &lt;li&gt;Leadership (A) IQ {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
-  &lt;li&gt;Occultism (A) IQ {2} - 12&lt;/li&gt;
-  &lt;li&gt;Riding (Horse) (A) DX-1 {1} - 12&lt;/li&gt;
-  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
-  &lt;li&gt;Shield (E) DX+3 {8} - 16&lt;/li&gt;
-  &lt;li&gt;Stealth (A) DX-1 {1} - 12&lt;/li&gt;
-  &lt;li&gt;Strategy (H) IQ {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
-  &lt;li&gt;Tactics (H) IQ {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 12&lt;/li&gt;
-  &lt;li&gt;Thaumathology (VH) IQ+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
-  &lt;li&gt;Wrestling (A) DX+1 {4} - 14&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All have +4 from Magery.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Communication and Empathy&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Sense Foes (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Sense Evil (H) IQ+2 {1} - 14&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fire&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ignite Fire (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Create Fire (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Shape Fire (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Heat (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Flaming Weapon (H) IQ+3 {2} - 15&lt;/li&gt;
-      &lt;li&gt;Fireball (H) IQ+3 {2} - 15&lt;/li&gt;
-      &lt;li&gt;Extinguish Fire (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Fireproof (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Resist Fire (H) IQ+2 {1} - 14&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Healing&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Lend Energy (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Recover Energy (H) IQ+3 {2} - 15&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Protection and Warning&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Shield (H) IQ+2 {1} - 14&lt;/li&gt;
-      &lt;li&gt;Missile Shield (H) IQ+2 {2} - 15&lt;/li&gt;
-      &lt;li&gt;Mystic Mist (H) IQ+2 {1} - 14&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fine Medium Shield: DB 2. $600, 5.63kg.&lt;/li&gt;
-  &lt;li&gt;Light Mail Suit: DR 3/1. 10 FP as a power item. $1500, 18kg.&lt;/li&gt;
-  &lt;li&gt;Broadsword: Damage sw+1 cut or thr+2 imp. Enchanted with the Staff
-spell. $630, 1.5kg.&lt;/li&gt;
-  &lt;li&gt;Quick-Release Backpack: Holds 20kg of gear. Dropping it is a free
-action. $300, 1.5kg.
-    &lt;ul&gt;
-      &lt;li&gt;Blanket: $20, 2kg.&lt;/li&gt;
-      &lt;li&gt;Canteen: $10, 1.5kg.&lt;/li&gt;
-      &lt;li&gt;Personal Basics: $5, 0.5kg.&lt;/li&gt;
-      &lt;li&gt;Rope, 1cm, 10m: Supports 150kg; $5, 0.75kg.&lt;/li&gt;
-      &lt;li&gt;$430 in coin.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Assumes Light encumbrance.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dodge 8 (10)&lt;/li&gt;
-      &lt;li&gt;Parry 11 (13)&lt;/li&gt;
-      &lt;li&gt;Block 11 (13)&lt;/li&gt;
-      &lt;li&gt;DR 3/1.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Broadsword (17): 2d+1 cut or 1d+2 imp, Reach 1.&lt;/li&gt;
-      &lt;li&gt;Shield Bash (16): 1d cr, Reach 1.&lt;/li&gt;
-      &lt;li&gt;Brawling Punch (14): 1d cr, due to mail gauntlets. Reach C.&lt;/li&gt;
-      &lt;li&gt;Brawling Kick (12): 1d+1 cr. Reach C, 1.&lt;/li&gt;
-      &lt;li&gt;Wrestling Grapple (14): 1d+1 control.&lt;/li&gt;
-      &lt;li&gt;Fireball (15): 1d to 3d burn, Acc 1, Range 25/50. Cost 0 to 2.
-        &lt;ul&gt;
-          &lt;li&gt;Alexa doesn’t usually charge it for more than 1 turn.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;+1 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;+4 from Magery &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/01/27/alexa.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/01/27/alexa.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>character</category>
         
         
       </item>

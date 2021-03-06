@@ -6,12 +6,201 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Mar 2021 18:14:37 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 18:14:37 +0000</lastBuildDate>
+    <pubDate>Sat, 06 Mar 2021 16:13:15 +0000</pubDate>
+    <lastBuildDate>Sat, 06 Mar 2021 16:13:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Let's Read the 4e Monster Manual/Vault</title>
+        <title>Building a Spaceplane: A GURPS Spaceships Exercise</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Fictional ESA spaceplane.
+    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’ve been reading about Kerbal Space Program recently, and it made me want to
+try my hand at designing some GURPS spaceships.&lt;/p&gt;
+
+&lt;p&gt;One of the terms that often gets thrown about when talking about near-future
+space tech is “Single Stage to Orbit”, or SSTO. This would be a vehicle that can
+go from ground to orbit all by itself, without needing any detachable
+boosters. In the real world, a lot of plans for building one of these have been
+conceived and dropped, but we don’t have a real example yet.&lt;/p&gt;
+
+&lt;p&gt;How close does GURPS Spaceships think we are to such a thing?&lt;/p&gt;
+
+&lt;p&gt;In this post I’ll try to design a spaceplane, a popular type of theoretical SSTO
+craft. The basic idea is that they take off and fly to the upper atmosphere
+using air-breathing engines, and only then activate their rockets to reach
+orbit. After completing their mission, they can re-enter atmosphere and land by
+gliding. Spaceplanes are an attractive concept because they can use a lot less
+fuel to reach orbit, are fully reusable, and easier to maintain. Plus they tend
+to look really cool.&lt;/p&gt;
+
+&lt;h2 id=&quot;mission-statement-and-design-options&quot;&gt;Mission Statement and Design Options&lt;/h2&gt;
+
+&lt;p&gt;For this attempt, we’re going to assume a realistic TL8 setting (“present-day
+technology”), giving us access to TL7 and 8 items from the book. I’ll
+arbitrarily assign it SM +8, making it a 1000 ton craft.&lt;/p&gt;
+
+&lt;p&gt;Therefore, our craft is SM +8, TL8, streamlined, and winged. It must take off
+from the ground on Earth and reach orbital velocity using without the aid of
+external boosters or detachable stages, while carrying a multi-ton payload in
+its cargo hold.&lt;/p&gt;
+
+&lt;p&gt;This means it must have a total delta-V exceeding 5.6 miles per second after all
+the calculations are done&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We get a bonus 0.3 mps if we launch eastwards
+from the equator, but having the craft reach the number on its own would allow
+it to launch from anywhere in the planet.&lt;/p&gt;
+
+&lt;h3 id=&quot;fixed-systems&quot;&gt;Fixed Systems&lt;/h3&gt;
+
+&lt;p&gt;The design options above lock down 3 of the 20 systems we have available:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We need 1 armor system because we’re streamlined.&lt;/li&gt;
+  &lt;li&gt;We need a control room (1 system).&lt;/li&gt;
+  &lt;li&gt;We need a cargo bay (1 system).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For our purposes in this post it doesn’t matter what the armor is made of, but
+we might as well use Metallic Laminate since we’re designing a “cutting edge”
+craft. The remaining 17 systems will be split among engines and fuel tanks.&lt;/p&gt;
+
+&lt;p&gt;At our TL, we have two engine options: the Chemical Rocket and the Jet
+Engine. They both help, but use different fuel sources. Adding jet engines means
+we need to figure out their top airspeed and subtract that from the necessary
+delta-V to reach orbit. Rocket delta-V is purely a function of how many tanks we
+dedicate to rocket fuel.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-1-mixing-rockets-and-jet-engines&quot;&gt;Attempt 1: Mixing Rockets and Jet Engines.&lt;/h3&gt;
+
+&lt;p&gt;My first draft had the following configuration for our 17 “free” systems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 Jet Engines&lt;/li&gt;
+  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
+  &lt;li&gt;14 Fuel Tanks (13 for rocket fuel, 1 for jet fuel).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The jet fuel allowed us to run the jets for half an hour, which was more than
+enough to reach maximum speed and altitude. They lowered our target to 4.63 mps,
+but that’s not enough. Combining the rules for chemical rockets and fuel tanks,
+our rocket had 3.12 mps of delta-V available to it.&lt;/p&gt;
+
+&lt;p&gt;This might be good for a fancy passenger plane for people with money to burn,
+but not for a SSTO vehicle.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-2-rocket-plane&quot;&gt;Attempt 2: Rocket Plane&lt;/h3&gt;
+
+&lt;p&gt;What if we build an all-rocket engine assembly?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
+  &lt;li&gt;16 fuel tanks (all rocket fuel)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adding up the delta-V for this version is easier, and we do end up with more of
+it, but it’s still not enough. We get 4.8 out of 5.6 mps. So close, yet so far.&lt;/p&gt;
+
+&lt;p&gt;What this configuration gives us is a reusable &lt;em&gt;launch-assist vehicle&lt;/em&gt; can get
+its 50-ton payload &lt;em&gt;almost&lt;/em&gt; to orbital speeds. The payload itself would need to
+be another vehicle that could provide the remaining 0.8 mps of delta-V itself,
+and perhaps include a bit more for maneuvers once in orbit. The LAV can spend
+all of its own fuel and glide down.&lt;/p&gt;
+
+&lt;h3 id=&quot;attempt-3-cheating-with-optional-rules&quot;&gt;Attempt 3: Cheating with Optional Rules.&lt;/h3&gt;
+
+&lt;p&gt;We’ve run up against one of the harsh realities of the Spaceships design
+rules. Using only TL7-8 chemical rockets, you simply can’t make a SSTO vehicle
+with less than 17 fuel tanks. A traditional disposable rocket can be modeled
+with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an SM 2
+smaller than the rocket itself. This upper stage has the armor, and the
+discarded lower stage burns up on re-entry. Our spaceplane faces some trouble
+because it needs to include that armor system itself, leaving us 1 fuel tank
+short.&lt;/p&gt;
+
+&lt;p&gt;The only way we can make it work is by pulling in an optional rule from GURPS
+Spaceships 7 p. 4: Smaller Systems. By shrinking both our cargo bay and control
+room to SM +7, we decrease our cargo capacity to 15 tons, decrease our
+Handling/SR in by 1, and add 1.33 fuel tanks to our all-rocket spaceplane. That
+gets us 6.05 mps of delta-V, enough to launch from anywhere on the planet and
+still leave us some reserves for maneuvers and corrections. It carries less than
+the equivalent disposable rocket but is fully reusable, able to land by gliding
+even with an empty fuel tank.&lt;/p&gt;
+
+&lt;p&gt;We leave the armor system at the same size because it’s meant to serve as a heat
+shield on re-entry, so it’s probably placed in the central hull.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img width=&quot;512&quot;
+  src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ED97-43938-1mod.jpg/512px-ED97-43938-1mod.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A X-33 and a VentureStar craft. NASA, public domain, via Wikimedia Commons.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The thing we just designed is remarkably similar to the Lockheed-Martin
+&lt;a href=&quot;https://en.wikipedia.org/wiki/VentureStar&quot;&gt;VentureStar&lt;/a&gt;, at least if the stats in the Wikipedia article are to be
+believed. This is a project for a SSTO spaceplane whose most famous product is
+the X-33 prototype, a scaled-down version of the final design intended to test
+some of its technologies.&lt;/p&gt;
+
+&lt;p&gt;VentureStar was supposed to be a lot simpler to maintain than the space shuttle,
+and was intended to be available for sale to private companies and not just to
+NASA, kick-starting a wave of private space exploration. The project was
+cancelled in 2001 because its fuel tanks were too hard to manufacture using the
+technology of the time. Ironically, better manufacturing techniques were
+discovered a few years later.&lt;/p&gt;
+
+&lt;p&gt;Aside from having to contend with the “harsh truth” of the design rules we
+already mentioned, our spaceplane also illustrates what seems to be a constraint
+plaguing real-world designers: separate air-breathing and rocket engines are
+inefficient. Go rocket-only or get you an engine that can do both.&lt;/p&gt;
+
+&lt;p&gt;Its final stats are: dST/dHP 70; Air Hnd/SR +2/3; Space Hnd/SR -3/3; Move
+3G/6.05mps; LWt. 1000; Load 15.3; SM+8; Occ 3; dDR 0/2/0. The Space handling is
+terrible, but workable when the mission is “get up, release the payload, get
+down”.&lt;/p&gt;
+
+&lt;p&gt;Our spaceplane costs $8.8M according to the design rules. Of course, that’s its
+price if it was mass-produced and commercially available. The rather more
+bespoke space program manufacturing model means it could cost up to 100 times
+more. It runs on liquid hydrogen/liquid oxygem rocket fuel, a full load of which
+costs $693,200.&lt;/p&gt;
+
+&lt;p&gt;The LAV version has better handling and stability (+3/4 in air and -2/4 in
+space) and costs about $40K less to fuel, and can deliver a bigger payload as
+long as that payload has some delta-V of its own. But it’s not a spaceplane, so
+nyeh.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I like using a proper measurement system, but all of the book’s formulas
+are in miles, so I’ll have to use that to avoid getting confused during the
+design process. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>spaceships</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Traits Appendix</title>
         <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
 
 &lt;p&gt;Before I close the curtain on this Let’s Read, there’s one more thing to
@@ -1329,247 +1518,6 @@ featuring spellfiends and shambling mounds would go.&lt;/p&gt;
         <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/01/28/vine-horror.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/28/vine-horror.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Vampire</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-vampire.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2012 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Legend has it that vampires were an even earlier addition to D&amp;amp;D than the cleric
-class - the first cleric was designed specifically to counter Sir Fang, a
-vampire PC. As monsters, they were the second most powerful rung in the Undead
-Power Ladder, below liches. As expected of a creature with such a long history,
-they are present in both the Monster Manual and the Monster Vault.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Vampires in media and folklore are an incredibly varied lot. Each source has a
-slightly different type of vampire than the rest, including D&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;As the Monster Vault says, vampires “rule the night”. They’re powerful sapient
-undead with an insatiable hunger for the blood of the living, which gives them a
-big incentive to interact with the living often. A lich will stay in its lair
-and perform experiments for years on end. A ghoul is content to squat in its
-hole and brood hungrily until someone wanders by. A vampire has to hunt. A
-particularly ambitious vampire will get itself a “flock” to rule over, and
-extract blood as tribute.&lt;/p&gt;
-
-&lt;p&gt;I imagine that the scholars who study the subject always argue over whether a
-vampire is the same person it was in life. They retain their memories and
-intelligence, and they answer to the same name; however, the baroque curse that
-propels them also makes them wholly evil, no matter what they were like when
-alive. And while it also imbues them with great and terrible power, it takes
-away some of the abilities they had in life.&lt;/p&gt;
-
-&lt;p&gt;There are as many superstitions surrounding vampires in D&amp;amp;D’s implied setting as
-there are in the real world, and very few people know which are true and which
-are not. You know all of them: garlic, running water, fear of holy symbols, and
-so on. Aside from a vulnerability to sunlight (and other radiant damage, to a
-lesser extent), most of these are fake. Perhaps these falsehoods are even spread
-by the vampires themselves. The good news is that you can still fight and even
-kill them with the usual adventurer arsenal of weapons and magic, it’s just
-really hard.&lt;/p&gt;
-
-&lt;p&gt;The other true vampire fact is that they’re tied to their grave or place of
-death. Vampires need to rest during the day, and they must do so either inside
-their coffins or crypts, or under the earth of the place where they died if they
-didn’t get a formal burial. A vampire who’s prevented from resting in this way
-will become less and less rational as the days pass, until it enters a
-self-destructive feeding frenzy that lasts until it’s either slain or finally
-manages to get some shuteye.&lt;/p&gt;
-
-&lt;p&gt;All of the above applies to what Fourth Edition calls vampire &lt;em&gt;lords&lt;/em&gt;, which are
-the typical sophisticated vampires of editions past. You also have vampire
-&lt;em&gt;spawn&lt;/em&gt;, which tend to be weaker and have a personality that can be summed up as
-“angry and snarly”. Spawn are created when a vampire spawn drains someone dry -
-the corpse rises a day later as a spawn under the complete control of its
-sire. A victim incapacitated by blood drain but not killed will enter a coma and
-rise as a spawn in the same way.&lt;/p&gt;
-
-&lt;p&gt;Creating another vampire lord requires an elaborate magic ritual. This ritual is
-named “Dark Gift of the Undying”, and must be performed by a vampire lord on a
-mortal victim. There’s an exchange of blood before the victim is killed, and
-then the corpse must be buried and numerous prayers and invocations to Orcus
-recited over it. A day later, the victim will rise as a new vampire lord. This
-process is draining for the sire, so it’s not done lightly. The MV adds that
-it’s also possible, but rare, for someone who would rise as a spawn to become a
-full vampire instead.&lt;/p&gt;
-
-&lt;p&gt;In both cases, the turning can be prevented with a casting of Raise Dead before
-that one-day interval has elapsed. If the victim is merely comatose instead of
-dead, Remove Affliction will also work to prevent the transformation and allow
-the victim to be healed normally.&lt;/p&gt;
-
-&lt;p&gt;The concept of vampire player characters has enjoyed enduring popularity ever
-since a certain other game introduced it in the early 90’s. So when Heroes of
-Shadow came out late in Fourth Edition it added like three or four different
-ways to play a PC who could call themselves a vampire (including a full Vampire
-class). Unlike the Monster Manual/Monster Vault varieties, these didn’t have to
-be evil. I’d be inclined to say the Orcus-worshipping ritual described here only
-produces evil vampires, so the non-evil ones in your setting are likely to have
-other origins.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Monster Manual Vampires are built using templates, in a way similar to death
-knights and liches. By the time of the monster vault the concept of rigid
-monster templates had been dropped, so vampires there are built from scratch
-following similar guidelines.&lt;/p&gt;
-
-&lt;p&gt;Both types of vampire are Medium Natural Humanoids with the Undead keyword. They
-have Darkvision and the usual undead traits: immunity to disease and poison and
-resistance to necrotic damage (10). Most also have some vulnerability to radiant
-damage as well. They also tend to have a high running speed, and a climb speed
-with Spider Climb.&lt;/p&gt;
-
-&lt;p&gt;I think it’s fun to point out that back in the AD&amp;amp;D days, vampires didn’t
-actually drink blood, or even bite. Instead, they drained your life energy by
-punching you in the face. Around the time the Ravenloft setting became popular,
-they published a variant that behaved more like you’d expect from a horror movie
-vampire.&lt;/p&gt;
-
-&lt;p&gt;Here, the Monster Manual vampires do explicitly drain your blood, but this isn’t
-described as a bite in their stat block. The Monster Vault vampires eliminate
-this remaining ambiguity, and have bite attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;vampire-spawn-fleshripper-monster-manual&quot;&gt;Vampire Spawn Fleshripper (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;These Level 5 Minion Skirmishers are fairly basic. They have the usual undead
-immunities and resistances, darkvision, a speed of 7, and a climb speed
-of 4. They attack with a &lt;strong&gt;claw&lt;/strong&gt; that does necrotic damage, with a small damage
-bonus against bloodied targets.&lt;/p&gt;
-
-&lt;p&gt;They’re also &lt;strong&gt;Destroyed by Sunlight&lt;/strong&gt;: a spawn that starts its turn in sunlight
-can only perform a single move action that turn. If this isn’t enough to get
-them out of the light, they are destroyed at the end of that same turn. So you
-get a dramatic slow death out of them instead of having them pop like soap
-bubbles.&lt;/p&gt;
-
-&lt;p&gt;The MM also has a &lt;strong&gt;Vampire Spawn Bloodhunter&lt;/strong&gt; which is level 10 and exactly
-the same with bigger numbers.&lt;/p&gt;
-
-&lt;h3 id=&quot;elder-vampire-spawn-monster-vault&quot;&gt;Elder Vampire Spawn (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;This Level 10 Minion Soldier is a little more interesting than the MM spawns. It
-has everything they have, but its attacks are a little different.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;claw&lt;/strong&gt; does physical damage and grabs on a hit (escape DC 18). The spawn
-can then &lt;strong&gt;bite&lt;/strong&gt; the grabbed victim. A hit does more damage than the claw and
-dazes the target until the grab ends - and bites against a dazed target hit
-automatically. So after the first bite hits, there’s no need to make another
-attack roll for a while.&lt;/p&gt;
-
-&lt;h3 id=&quot;vampire-night-witch-monster-vault&quot;&gt;Vampire Night Witch (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;As a Monster Vault vampire, the Night Witch is built from scratch and doesn’t
-use the template rules. It’s a Level 10 Controller with 98 HP and all common
-vampire traits, plus Vulnerable 5 Radiant.&lt;/p&gt;
-
-&lt;p&gt;Like all non-minion vampires, the night witch is &lt;strong&gt;Burned by Sunlight&lt;/strong&gt;, taking
-5 radiant damage whenever she starts her turn exposed to direct sunlight. Does
-the vulnerability get added on top of this?&lt;/p&gt;
-
-&lt;p&gt;The night witch fights with &lt;strong&gt;Claws&lt;/strong&gt; that also slide the target 3 squares on a
-hit. She can also cast a &lt;strong&gt;Dream Lure&lt;/strong&gt; (ranged 5 vs. Will) to do psychic damage
-at range, daze the target, and pull them 3 squares. Against dazed or similarly
-impaired targets (stunned, unconscious, dominated) she can &lt;strong&gt;bite&lt;/strong&gt;, which does
-high physical damage and heals her for 15 HP on a hit.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, when the night witch takes damage while bloodied, she can
-&lt;strong&gt;vanish into shadow&lt;/strong&gt;, becoming invisible until the &lt;em&gt;end of the encounter&lt;/em&gt; or
-until she attacks. This is a nice escape hatch and can allow the night witch to
-be a recurring opponent.&lt;/p&gt;
-
-&lt;h3 id=&quot;vampire-lord-monster-manual&quot;&gt;Vampire Lord (Monster Manual)&lt;/h3&gt;
-
-&lt;p&gt;Built using the template rules, this is a Level 11 Elite Lurker with 186 HP who
-used to be a human rogue. It has all the vampire traits mentioned in the Numbers
-intro, plus Vulnerable 10 Radiant and Regeneration 10 that doesn’t work while
-the vampire is exposed to direct sunlight. Sunlight exposure &lt;em&gt;doesn’t&lt;/em&gt; harm it
-further than this. Its speed is 8, and it has Spider Climb 4.&lt;/p&gt;
-
-&lt;p&gt;This blood-sucking rogue deals extra damage with all of his attacks when he has
-combat advantage. He fights with a &lt;strong&gt;short sword&lt;/strong&gt;, and what is probably a
-printing error has also given him a &lt;strong&gt;spiked chain&lt;/strong&gt;. He also has a couple of
-rogue powers; &lt;strong&gt;Deft Strike&lt;/strong&gt; allows him to move up to 2 squares and make a
-melee basic attack. &lt;strong&gt;Imperiling Strike&lt;/strong&gt; is an encounter power that does a bit
-more damage than the basic sword and inflicts a -3 penalty to all of the
-target’s defenses for a turn.&lt;/p&gt;
-
-&lt;p&gt;After that come the template powers. &lt;strong&gt;Blood Drain&lt;/strong&gt; (melee 1 vs. Fortitude)
-requires combat advantage, does more damage than any of the “rogue” attacks, and
-heals the vampire for 46 HP. It recharges whenever an adjacent creature becomes
-bloodied. &lt;strong&gt;Dominating Gaze&lt;/strong&gt; (ranged 5 vs. Will) does no damage but dominates
-on a hit, (save at -2 ends). As an after-effect, the target is dazed (save
-ends). Fortunately only one creature can be dominated at a time. And finally,
-&lt;strong&gt;Mist Form&lt;/strong&gt; is an encounter power that does what the name implies. In mist
-form, the vampire is insubstantial and has a fly speed of 12, but can’t
-attack. It lasts for 1 hour or until the vampire ends the effect as a minor
-action, so it’s another “escape hatch” power.&lt;/p&gt;
-
-&lt;p&gt;Any vampire built using the template is going to have all three powers in the
-preceding paragraph. This one also has a &lt;strong&gt;Second Wind&lt;/strong&gt; that works like the
-player version, and recovers 46 HP.&lt;/p&gt;
-
-&lt;h3 id=&quot;master-vampire-monster-vault&quot;&gt;Master Vampire (Monster Vault)&lt;/h3&gt;
-
-&lt;p&gt;A Level 12 Lurker with 98 HP, this monster follows the same concept as the
-Vampire Lord. It has all standard vampire traits, with &lt;em&gt;no&lt;/em&gt; radiant
-vulnerability.&lt;/p&gt;
-
-&lt;p&gt;Of course, it’s still a vampire and is still &lt;strong&gt;Burned by Sunlight&lt;/strong&gt;, taking 10
-damage on any turn it starts exposed to it. It also has &lt;strong&gt;Regeneration&lt;/strong&gt; 10,
-which shuts down for a turn if the vampire takes radiant damage (from sunlight
-or any other source).&lt;/p&gt;
-
-&lt;p&gt;The master vampire fights with &lt;strong&gt;claws&lt;/strong&gt; like a proper monster, and has a
-&lt;strong&gt;Dominating Gaze&lt;/strong&gt; (ranged 5 vs. will) that dominates for a turn. Its &lt;strong&gt;bite&lt;/strong&gt;
-is like that of the Night Witch but heals it for 20 HP instead of 15.&lt;/p&gt;
-
-&lt;p&gt;It has the Vampire Lord’s &lt;strong&gt;Mist Form&lt;/strong&gt; power, and it can also turn into a
-&lt;strong&gt;Cloud of Bats&lt;/strong&gt; (though not at the same time). That last ability is at-will,
-and works very similarly to Mist Form with the following differences: it only
-lasts for a turn, the fly speed is only 8, and the vampire gains a +5 bonus to
-Stealth in this form. This is clearly what it uses to “lurk”, though it doesn’t
-gain extra bonuses beyond CA when it attacks from hiding.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 12 and has 1 vampire lord along with an entire
-undead retinue: 1 battle wight commander, 3 battle wights, and 6 vampire spawn
-bloodhunters.&lt;/p&gt;
-
-&lt;p&gt;I like vampires as monsters. Looks like the vampire lord/master vampire is tough
-to put down even in its Monster Vault incarnation, where it has both
-Regeneration and a draining bite. It’s the MM variant that easily crosses over
-into “annoying” territory, since Blood Drain heals a lot more &lt;em&gt;and&lt;/em&gt; it has
-Second Wind.&lt;/p&gt;
-
-&lt;p&gt;5e makes a huuuge deal out of Count Strahd, the game’s Dracula expy, but in his
-original incarnation he was explicitly described as a vampire who was only a bit
-more powerful and clever than what’s average for these monsters. You could
-easily stat him up in 4e by making him an Elite or Solo Controller with the
-Vampire Master’s gaze, bite, and transformation powers, plus a strong claw/slam
-attack and some necromancy-themed powers or rituals. He should be part of an
-encounter of the party’s level +3 or +4, suitable as a final boss battle.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/01/25/vampire.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/25/vampire.html</guid>
         
         <category>dnd4</category>
         
