@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Building a GURPS Spaceplane: The Second Iteration | Octopus Carnival</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Building a GURPS Spaceplane: The Second Iteration" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Fictional ESA spaceplane. Illustration by Maciej Rebisz." />
+<meta property="og:description" content="Fictional ESA spaceplane. Illustration by Maciej Rebisz." />
+<link rel="canonical" href="https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html" />
+<meta property="og:url" content="https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html" />
+<meta property="og:site_name" content="Octopus Carnival" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-03-10T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Building a GURPS Spaceplane: The Second Iteration" />
+<meta name="twitter:site" content="@mestre_bira" />
+<script type="application/ld+json">
+{"description":"Fictional ESA spaceplane. Illustration by Maciej Rebisz.","url":"https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html","headline":"Building a GURPS Spaceplane: The Second Iteration","dateModified":"2021-03-10T00:00:00+00:00","@type":"BlogPosting","datePublished":"2021-03-10T00:00:00+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/octopus-carnival/css/main.css"><link type="application/atom+xml" rel="alternate" href="https://bira.github.io/octopus-carnival/feed.xml" title="Octopus Carnival" /><script>
+if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85001601-1', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+  
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" rel="author" href="/octopus-carnival/">Octopus Carnival</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        <a class="page-link" href="/octopus-carnival/projects/">Projects</a>
+        <a class="page-link" href="/octopus-carnival/about/">About</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Building a GURPS Spaceplane: The Second Iteration</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2021-03-10T00:00:00+00:00" itemprop="datePublished">
+        Mar 10, 2021
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <figure class="center">
+  <img src="/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg"/>
+  <figcaption>
+    Fictional ESA spaceplane.
+    Illustration by <a href="https://www.artstation.com/artwork/3q14v">Maciej Rebisz.</a>
+  </figcaption>
+</figure>
+
+<p>In our <a href="/octopus-carnival/2021/03/06/spaceplane.html">previous post</a>, we used GURPS Spaceships rules to build a “minimum
+viable spaceplane” at TL8, with no superscience.</p>
+
+<p>Our company, Octopus Aerospace, builds one of those and sells it to the
+Kerbal Space Program for close to a billion GURPS dollars<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>, and after using
+it for a few launches Director Kerbman comes back to us with a few change
+requests.</p>
+
+<p>His astronauts have complained that the Mark I Spaceplane handles very poorly
+for its size. They’re entering a phase of their program where future missions
+will require a lot of precise orbital maneuvers, like docking and such, so they
+need a ship that can do better at that.</p>
+
+<p>We want to satisfy KSP’s requests because we want a slice of their inifinte
+budget, but we’re also committed to making only Single Stage To Orbit craft. How
+can we satisfy both of these requirements?</p>
+
+<h2 id="building-the-mark-ii">Building the Mark II</h2>
+
+<p>We’re still using “realistic” TL 8 for our Mark II, and it’s still streamlined
+and winged just like its predecessor.</p>
+
+<p>As we saw in our previous post, a TL8 craft capable of reaching orbit can only
+spare 10% of its mass to systems that are not fuel tanks or chemical engines. We
+achieved that in the Mark I by shrinking our control systems and cargo bay,
+filling the freed space with additional fuel tanks.</p>
+
+<p>We want a full size control system for the second iteration, but having that
+means we’ll be short on delta-V and can’t make an orbital insertion. We have to
+shrink something else to compensate. We’re already shrunk the cargo bay, and I
+don’t want to shrink the armor because I’m envisioning as the craft’s heat
+shield.</p>
+
+<p>How about the engine?</p>
+
+<p>Our resulting configuration is:</p>
+
+<ul>
+  <li>1 x Metallic Laminate Armor</li>
+  <li>1 x SM +8 control room</li>
+  <li>17.33 x Fuel Tanks (865 tons rocket fuel)</li>
+  <li>1 x SM +7 Chemical Rocket Engine (1G Acceleration)</li>
+</ul>
+
+<p>One lone G of acceleration is useless for leaving Earth… in a traditional
+rocket. We have wings! According to GURPS Spaceships p. 37, a winged craft can
+take off and reach Earth orbit even if its acceleration doesn’t exceed 1G.</p>
+
+<p>That leaves us with the following stat line for our Mark II space plane:
+<strong>dST/dHP</strong> 70; <strong>Air Hnd/SR</strong> +3/4; <strong>Space Hnd/SR</strong> -2/4; <strong>Move</strong> 1G/6.05mps;
+<strong>LWt</strong> 1000; <strong>Load</strong> 15.3; <strong>SM</strong> +8; <strong>Occ</strong> 4; <strong>dDR</strong> 0/2/0.</p>
+
+<p>This model’s Air Handling and Stability is pretty awesome when compared to that
+of most contemporary airplanes. Its space handling is still not exactly
+spectacular, but it’s the best we can do for a ship of this size at TL 8, and
+should help with those delicate maneuvers. It takes longer to reach orbit due to
+its lower acceleration, but it still has the same Delta-V. Finally, it has space
+for one additional crew member, allowing KSP to bring extra scientists or other
+mission specialists along with the payload.</p>
+
+<p>The cheaper engine and more expensive control room balance themselves out. The
+Mark II costs the same as the Mark I: a nominal $8.8M for the craft and $693,200
+for a full load of rocket fuel.</p>
+
+<h2 id="bonus-notessales-pitch">Bonus Notes/Sales Pitch</h2>
+
+<p>This is something I forgot to mention in the previous post: both the Mark I and
+Mark II Octopus Carnival Spaceplanes can take off from conventional runways,
+dispensing with the need for an expensive launch pad!</p>
+
+<p>The Mark I would probably require a launchpad if you want to use those 3Gs of
+acceleration right away, but if I remember correctly liquid fuel engines can be
+throttled. So you can take off using a jet-engine-equivalent 1G and throttle up
+when you reach a higher altitude.</p>
+
+<p>Even when you multiply their nominal cost by 100 for the extremely limited
+production run, you still end up with a cost-effective system. SpaceX’s
+semi-reusable rockets cost between $50M and $150M <em>per launch</em>. The real-world
+Space Shuttle cost between $500M and $1.5B per launch. The Saturn V cost about
+$1.6B per launch in modern dollars.</p>
+
+<p>Our fictional spaceplane would cost little more than the cost of a load of
+fuel. Sure, it’d need to undergo maintenance between flights, but it probably
+wouldn’t need to be practically rebuilt like the real-world systems. So perhaps
+we’re looking at $2M per launch or so? It practically pays for itself in six
+launches or so when compared to the “competition”.</p>
+
+<p>Of course, that’s a very optimistic assumption. In your games you’re always free
+to assume Octopus Aerospace is full of shit and this thing is a lemon in all its
+incarnations. It’s what prevented all those real world spaceplane projects from
+going forward, after all.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>$880M, or its nominal cost multiplied by 100 because it’s a production
+run of one. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <div class="page-nav"><a class="prev" href="/octopus-carnival/2021/03/06/spaceplane.html">&laquo; Building a Spaceplane: A GURPS Spaceships Exercise</a></div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html';
+      this.page.identifier = 'https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://octopus-carnival.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/octopus-carnival/2021/03/10/spaceplane.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/octopus-carnival/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Octopus Carnival</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Octopus Carnival</li><li><a class="u-email" href="mailto:u.alberton@gmail.com">u.alberton@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/Bira"><svg class="svg-icon"><use xlink:href="/octopus-carnival/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Bira</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -6,9 +6,131 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Mar 2021 15:36:51 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Mar 2021 15:36:51 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Mar 2021 19:54:17 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Mar 2021 19:54:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Building a GURPS Spaceplane: The Second Iteration</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Fictional ESA spaceplane.
+    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In our &lt;a href=&quot;/octopus-carnival/2021/03/06/spaceplane.html&quot;&gt;previous post&lt;/a&gt;, we used GURPS Spaceships rules to build a “minimum
+viable spaceplane” at TL8, with no superscience.&lt;/p&gt;
+
+&lt;p&gt;Our company, Octopus Aerospace, builds one of those and sells it to the
+Kerbal Space Program for close to a billion GURPS dollars&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and after using
+it for a few launches Director Kerbman comes back to us with a few change
+requests.&lt;/p&gt;
+
+&lt;p&gt;His astronauts have complained that the Mark I Spaceplane handles very poorly
+for its size. They’re entering a phase of their program where future missions
+will require a lot of precise orbital maneuvers, like docking and such, so they
+need a ship that can do better at that.&lt;/p&gt;
+
+&lt;p&gt;We want to satisfy KSP’s requests because we want a slice of their inifinte
+budget, but we’re also committed to making only Single Stage To Orbit craft. How
+can we satisfy both of these requirements?&lt;/p&gt;
+
+&lt;h2 id=&quot;building-the-mark-ii&quot;&gt;Building the Mark II&lt;/h2&gt;
+
+&lt;p&gt;We’re still using “realistic” TL 8 for our Mark II, and it’s still streamlined
+and winged just like its predecessor.&lt;/p&gt;
+
+&lt;p&gt;As we saw in our previous post, a TL8 craft capable of reaching orbit can only
+spare 10% of its mass to systems that are not fuel tanks or chemical engines. We
+achieved that in the Mark I by shrinking our control systems and cargo bay,
+filling the freed space with additional fuel tanks.&lt;/p&gt;
+
+&lt;p&gt;We want a full size control system for the second iteration, but having that
+means we’ll be short on delta-V and can’t make an orbital insertion. We have to
+shrink something else to compensate. We’re already shrunk the cargo bay, and I
+don’t want to shrink the armor because I’m envisioning as the craft’s heat
+shield.&lt;/p&gt;
+
+&lt;p&gt;How about the engine?&lt;/p&gt;
+
+&lt;p&gt;Our resulting configuration is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 x Metallic Laminate Armor&lt;/li&gt;
+  &lt;li&gt;1 x SM +8 control room&lt;/li&gt;
+  &lt;li&gt;17.33 x Fuel Tanks (865 tons rocket fuel)&lt;/li&gt;
+  &lt;li&gt;1 x SM +7 Chemical Rocket Engine (1G Acceleration)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One lone G of acceleration is useless for leaving Earth… in a traditional
+rocket. We have wings! According to GURPS Spaceships p. 37, a winged craft can
+take off and reach Earth orbit even if its acceleration doesn’t exceed 1G.&lt;/p&gt;
+
+&lt;p&gt;That leaves us with the following stat line for our Mark II space plane:
+&lt;strong&gt;dST/dHP&lt;/strong&gt; 70; &lt;strong&gt;Air Hnd/SR&lt;/strong&gt; +3/4; &lt;strong&gt;Space Hnd/SR&lt;/strong&gt; -2/4; &lt;strong&gt;Move&lt;/strong&gt; 1G/6.05mps;
+&lt;strong&gt;LWt&lt;/strong&gt; 1000; &lt;strong&gt;Load&lt;/strong&gt; 15.3; &lt;strong&gt;SM&lt;/strong&gt; +8; &lt;strong&gt;Occ&lt;/strong&gt; 4; &lt;strong&gt;dDR&lt;/strong&gt; 0/2/0.&lt;/p&gt;
+
+&lt;p&gt;This model’s Air Handling and Stability is pretty awesome when compared to that
+of most contemporary airplanes. Its space handling is still not exactly
+spectacular, but it’s the best we can do for a ship of this size at TL 8, and
+should help with those delicate maneuvers. It takes longer to reach orbit due to
+its lower acceleration, but it still has the same Delta-V. Finally, it has space
+for one additional crew member, allowing KSP to bring extra scientists or other
+mission specialists along with the payload.&lt;/p&gt;
+
+&lt;p&gt;The cheaper engine and more expensive control room balance themselves out. The
+Mark II costs the same as the Mark I: a nominal $8.8M for the craft and $693,200
+for a full load of rocket fuel.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-notessales-pitch&quot;&gt;Bonus Notes/Sales Pitch&lt;/h2&gt;
+
+&lt;p&gt;This is something I forgot to mention in the previous post: both the Mark I and
+Mark II Octopus Carnival Spaceplanes can take off from conventional runways,
+dispensing with the need for an expensive launch pad!&lt;/p&gt;
+
+&lt;p&gt;The Mark I would probably require a launchpad if you want to use those 3Gs of
+acceleration right away, but if I remember correctly liquid fuel engines can be
+throttled. So you can take off using a jet-engine-equivalent 1G and throttle up
+when you reach a higher altitude.&lt;/p&gt;
+
+&lt;p&gt;Even when you multiply their nominal cost by 100 for the extremely limited
+production run, you still end up with a cost-effective system. SpaceX’s
+semi-reusable rockets cost between $50M and $150M &lt;em&gt;per launch&lt;/em&gt;. The real-world
+Space Shuttle cost between $500M and $1.5B per launch. The Saturn V cost about
+$1.6B per launch in modern dollars.&lt;/p&gt;
+
+&lt;p&gt;Our fictional spaceplane would cost little more than the cost of a load of
+fuel. Sure, it’d need to undergo maintenance between flights, but it probably
+wouldn’t need to be practically rebuilt like the real-world systems. So perhaps
+we’re looking at $2M per launch or so? It practically pays for itself in six
+launches or so when compared to the “competition”.&lt;/p&gt;
+
+&lt;p&gt;Of course, that’s a very optimistic assumption. In your games you’re always free
+to assume Octopus Aerospace is full of shit and this thing is a lemon in all its
+incarnations. It’s what prevented all those real world spaceplane projects from
+going forward, after all.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;$880M, or its nominal cost multiplied by 100 because it’s a production
+run of one. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>spaceships</category>
+        
+        
+      </item>
     
       <item>
         <title>Building a Spaceplane: A GURPS Spaceships Exercise</title>
@@ -1422,102 +1544,6 @@ away, and the authors might have felt its fans needed a little reassurance.&lt;/
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Vine Horror</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-vine-horror.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2012 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;One of the many plant monsters of D&amp;amp;D, I’m not sure where vine horrors first
-appeared. They look like a 3e thing but could have been in a supplement for an
-earlier edition. Here, they’re only on the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Like shambling mounds, vine horrors are created “naturally” through an unlikely
-sequence of events. If an evil person dies in an area touched by the Shadowfell,
-their blood might end up soaking the earth and infusing the local plant life,
-which animates as a new vine horror. They’re undead-adjacent, but not undead
-themselves.&lt;/p&gt;
-
-&lt;p&gt;Vine horrors are humanoid plant masses who bear a vague resemblance to the dead
-person whose blood gave them life. Some times they even display some of that
-person’s abilities: for example, a vine horror who rises from a wizard might be
-able to cast a few spells.&lt;/p&gt;
-
-&lt;p&gt;Personality-wise, they display human level intelligence and tend to be cruel
-serial killers. The books say they like to ambush and kill passing sapients, but
-doesn’t make any mention of them &lt;em&gt;needing&lt;/em&gt; to do it. It would make sense if they
-needed to keep draining blood to live, but it also fits to say that a vine
-horror feeds on soil and sunlight just like any other plant and just kills
-people because it likes to.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Vine horrors are Medium Natural Humanoids with the Plant keyword. They have
-blindsight, a land speed of 6 with both swamp and forest walk, and a swim speed
-of 6.&lt;/p&gt;
-
-&lt;p&gt;A vine horror’s humanoid shape isn’t a constant - they’re &lt;strong&gt;Malleable&lt;/strong&gt; enough
-to squeeze into any 1-inch or wider opening without slowing down at all. They
-have &lt;strong&gt;claws&lt;/strong&gt;, and can also partially uncoil to strike their victims with vines
-whose exact effects vary by stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;vine-horror&quot;&gt;Vine Horror&lt;/h3&gt;
-
-&lt;p&gt;The basic model is a Level 5 Controller with 67 HP. Aside from its basic
-&lt;strong&gt;claws&lt;/strong&gt;, it can use its &lt;strong&gt;Vicious Vines&lt;/strong&gt; once per encounter. This Close Burst
-5 vs. Reflex restrains and does 10 ongoing damage on a hit (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Its Stealth training, varied movement modes and malleability ensure the horror
-will be a in a good position to use Vicious Vines as a fight-opener. After that,
-it and its buddies can go to town on the weakened party.&lt;/p&gt;
-
-&lt;h3 id=&quot;vine-horror-spellfiend&quot;&gt;Vine Horror Spellfiend&lt;/h3&gt;
-
-&lt;p&gt;An example of a wizard-derived horror who can cast some spells. It’s Level 7
-Artillery and has 65 HP. It can only use &lt;strong&gt;claws&lt;/strong&gt; in melee, but has a lot of
-ranged options.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shock Orb&lt;/strong&gt; (ranged 10 vs. Reflex) does lightning damage. &lt;strong&gt;Lashing Vine of
-Dread&lt;/strong&gt; (ranged 5 vs. Reflex; fear) does physical damage and pushes the target 5
-squares on a hit. &lt;strong&gt;Caustic Cloud&lt;/strong&gt; (area burst 1 within 10 vs. Fortitude) does
-immediate and ongoing acid damage, and also blinds (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Looks like spellfiends pair wonderfully with shambling mounds, since their
-at-will lightning powers can heal the mounds. They can also use their fear vines
-to herd the party into position for Caustic Cloud, a process that’s a lot
-quicker if you have a pair of spellfiends in the encounter group instead of just
-one.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The book does mention the possible shambling mound partnerships, but the example
-encounter it gives is a little less synergistic: Level 9, 2 spellfiends, 1 bog
-hag, and 2 trolls. A clever party might be able to turn those caustic clouds to
-their advantage.&lt;/p&gt;
-
-&lt;p&gt;Story-wise vine horrors don’t do much for me. They’re just one creepy plant
-monster among many others. Mechanically, I’d like to see how an encounter
-featuring spellfiends and shambling mounds would go.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/01/28/vine-horror.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/01/28/vine-horror.html</guid>
         
         <category>dnd4</category>
         

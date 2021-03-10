@@ -5,9 +5,131 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Mar 2021 15:36:51 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Mar 2021 15:36:51 +0000</lastBuildDate>
+    <pubDate>Wed, 10 Mar 2021 19:54:17 +0000</pubDate>
+    <lastBuildDate>Wed, 10 Mar 2021 19:54:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Building a GURPS Spaceplane: The Second Iteration</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    Fictional ESA spaceplane.
+    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In our &lt;a href=&quot;/octopus-carnival/2021/03/06/spaceplane.html&quot;&gt;previous post&lt;/a&gt;, we used GURPS Spaceships rules to build a “minimum
+viable spaceplane” at TL8, with no superscience.&lt;/p&gt;
+
+&lt;p&gt;Our company, Octopus Aerospace, builds one of those and sells it to the
+Kerbal Space Program for close to a billion GURPS dollars&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and after using
+it for a few launches Director Kerbman comes back to us with a few change
+requests.&lt;/p&gt;
+
+&lt;p&gt;His astronauts have complained that the Mark I Spaceplane handles very poorly
+for its size. They’re entering a phase of their program where future missions
+will require a lot of precise orbital maneuvers, like docking and such, so they
+need a ship that can do better at that.&lt;/p&gt;
+
+&lt;p&gt;We want to satisfy KSP’s requests because we want a slice of their inifinte
+budget, but we’re also committed to making only Single Stage To Orbit craft. How
+can we satisfy both of these requirements?&lt;/p&gt;
+
+&lt;h2 id=&quot;building-the-mark-ii&quot;&gt;Building the Mark II&lt;/h2&gt;
+
+&lt;p&gt;We’re still using “realistic” TL 8 for our Mark II, and it’s still streamlined
+and winged just like its predecessor.&lt;/p&gt;
+
+&lt;p&gt;As we saw in our previous post, a TL8 craft capable of reaching orbit can only
+spare 10% of its mass to systems that are not fuel tanks or chemical engines. We
+achieved that in the Mark I by shrinking our control systems and cargo bay,
+filling the freed space with additional fuel tanks.&lt;/p&gt;
+
+&lt;p&gt;We want a full size control system for the second iteration, but having that
+means we’ll be short on delta-V and can’t make an orbital insertion. We have to
+shrink something else to compensate. We’re already shrunk the cargo bay, and I
+don’t want to shrink the armor because I’m envisioning as the craft’s heat
+shield.&lt;/p&gt;
+
+&lt;p&gt;How about the engine?&lt;/p&gt;
+
+&lt;p&gt;Our resulting configuration is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 x Metallic Laminate Armor&lt;/li&gt;
+  &lt;li&gt;1 x SM +8 control room&lt;/li&gt;
+  &lt;li&gt;17.33 x Fuel Tanks (865 tons rocket fuel)&lt;/li&gt;
+  &lt;li&gt;1 x SM +7 Chemical Rocket Engine (1G Acceleration)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One lone G of acceleration is useless for leaving Earth… in a traditional
+rocket. We have wings! According to GURPS Spaceships p. 37, a winged craft can
+take off and reach Earth orbit even if its acceleration doesn’t exceed 1G.&lt;/p&gt;
+
+&lt;p&gt;That leaves us with the following stat line for our Mark II space plane:
+&lt;strong&gt;dST/dHP&lt;/strong&gt; 70; &lt;strong&gt;Air Hnd/SR&lt;/strong&gt; +3/4; &lt;strong&gt;Space Hnd/SR&lt;/strong&gt; -2/4; &lt;strong&gt;Move&lt;/strong&gt; 1G/6.05mps;
+&lt;strong&gt;LWt&lt;/strong&gt; 1000; &lt;strong&gt;Load&lt;/strong&gt; 15.3; &lt;strong&gt;SM&lt;/strong&gt; +8; &lt;strong&gt;Occ&lt;/strong&gt; 4; &lt;strong&gt;dDR&lt;/strong&gt; 0/2/0.&lt;/p&gt;
+
+&lt;p&gt;This model’s Air Handling and Stability is pretty awesome when compared to that
+of most contemporary airplanes. Its space handling is still not exactly
+spectacular, but it’s the best we can do for a ship of this size at TL 8, and
+should help with those delicate maneuvers. It takes longer to reach orbit due to
+its lower acceleration, but it still has the same Delta-V. Finally, it has space
+for one additional crew member, allowing KSP to bring extra scientists or other
+mission specialists along with the payload.&lt;/p&gt;
+
+&lt;p&gt;The cheaper engine and more expensive control room balance themselves out. The
+Mark II costs the same as the Mark I: a nominal $8.8M for the craft and $693,200
+for a full load of rocket fuel.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-notessales-pitch&quot;&gt;Bonus Notes/Sales Pitch&lt;/h2&gt;
+
+&lt;p&gt;This is something I forgot to mention in the previous post: both the Mark I and
+Mark II Octopus Carnival Spaceplanes can take off from conventional runways,
+dispensing with the need for an expensive launch pad!&lt;/p&gt;
+
+&lt;p&gt;The Mark I would probably require a launchpad if you want to use those 3Gs of
+acceleration right away, but if I remember correctly liquid fuel engines can be
+throttled. So you can take off using a jet-engine-equivalent 1G and throttle up
+when you reach a higher altitude.&lt;/p&gt;
+
+&lt;p&gt;Even when you multiply their nominal cost by 100 for the extremely limited
+production run, you still end up with a cost-effective system. SpaceX’s
+semi-reusable rockets cost between $50M and $150M &lt;em&gt;per launch&lt;/em&gt;. The real-world
+Space Shuttle cost between $500M and $1.5B per launch. The Saturn V cost about
+$1.6B per launch in modern dollars.&lt;/p&gt;
+
+&lt;p&gt;Our fictional spaceplane would cost little more than the cost of a load of
+fuel. Sure, it’d need to undergo maintenance between flights, but it probably
+wouldn’t need to be practically rebuilt like the real-world systems. So perhaps
+we’re looking at $2M per launch or so? It practically pays for itself in six
+launches or so when compared to the “competition”.&lt;/p&gt;
+
+&lt;p&gt;Of course, that’s a very optimistic assumption. In your games you’re always free
+to assume Octopus Aerospace is full of shit and this thing is a lemon in all its
+incarnations. It’s what prevented all those real world spaceplane projects from
+going forward, after all.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;$880M, or its nominal cost multiplied by 100 because it’s a production
+run of one. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>spaceships</category>
+        
+        
+      </item>
     
       <item>
         <title>Building a Spaceplane: A GURPS Spaceships Exercise</title>
@@ -1049,65 +1171,6 @@ deemed worthy and be considered to have ST 25 when wielding the staff.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/05/03/superheavy-weapons.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Only Good Metaplot</title>
-        <description>&lt;p&gt;I’m not much of an “OSR” person. I started playing in the 90’s, and while I
-played some D&amp;amp;D here and there it was never my main system, and I moved away
-from it as soon as I found others I liked more. While I do feel some nostalgia
-when looking at some iterations of its rules, reading them again mostly reminds
-me why I stopped playing them in the first place.&lt;/p&gt;
-
-&lt;p&gt;There’s one specific thing that the very earliest editions of that game did that
-I feel should be ported to the present unmodified: the way they handled metaplot
-and “canonical” NPCs.&lt;/p&gt;
-
-&lt;p&gt;Before D&amp;amp;D was even published you basically had two campaigns being run using
-draft versions of its rules. There was Dave Arneson’s Blackmoor, and Gary
-Gygax’s Greyhawk. They were separate settings, but as far as I know they were
-run in a similar way.&lt;/p&gt;
-
-&lt;p&gt;Each had one main GM, and started with an “original” party of players. This
-original party goes on adventures, slays monsters, finds treasure. The survivors
-level up and become more powerful.&lt;/p&gt;
-
-&lt;p&gt;And then new PCs start coming in. Maybe the GM convinces another group of
-friends to play on a different day of the week, or the older players roll up new
-starting characters for a bit of variety, or maybe they begin playing their
-henchmen when they go out on missions of their own. It’s likely a combination of
-all of the above, happening over an extended period of time.&lt;/p&gt;
-
-&lt;p&gt;So now there are multiple PC parties having adventures in the same setting! What
-each party does changes the setting in ways that can be felt by the others. If a
-party delves a dungeon on Monday, loses a fighter to a gelatinous cube and
-retreats, another one might go in there on Thursday and loot the dead fighter’s
-cool magic sword. If the high-level originals shake the pillars of Heaven on
-Saturday, the Monday and Thursday parties might hear about it and feel its
-consequences in their games.&lt;/p&gt;
-
-&lt;p&gt;And that’s metaplot in its original, “platonically ideal” form. It’s &lt;em&gt;what
-happens at the table&lt;/em&gt;, propagating to the other PC parties that are part of the
-same gaming group. This is practical because the setting is owned by a single GM
-or a small circle of them, who run the games for all groups involved and keep
-track of it all. As for “canon NPCs”, &lt;em&gt;there are none&lt;/em&gt;. It’s PCs all the way
-down, though I suppose some of them might transition fully to NPC status when
-they retire, becoming less active in the process.&lt;/p&gt;
-
-&lt;p&gt;To me, an ideal setting is one that enables groups to create their very own
-shared world in that mold.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/03/02/the-only-good-metaplot.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/03/02/the-only-good-metaplot.html</guid>
-        
-        <category>opinion</category>
-        
-        <category>gurps</category>
-        
-        <category>dnd</category>
         
         
       </item>
