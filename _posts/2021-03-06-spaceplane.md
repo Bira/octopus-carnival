@@ -104,13 +104,13 @@ all of its own fuel and glide down.
 ### Attempt 3: Cheating with Optional Rules.
 
 We've run up against one of the harsh realities of the Spaceships design
-rules. Using only TL7-8 chemical rockets, you simply can't make a SSTO vehicle
-with less than 17 fuel tanks. A traditional disposable rocket can be modeled
-with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an SM 2
-smaller than the rocket itself. This upper stage has the armor, and the
-discarded lower stage burns up on re-entry. Our spaceplane faces some trouble
-because it needs to include that armor system itself, leaving us 1 fuel tank
-short.
+rules. Using only TL7-8 chemical rockets, you simply can't make an orbit-capable
+vehicle with less than 17 fuel tanks. A traditional disposable rocket can be
+modeled with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an
+SM 2 smaller than the rocket itself. This upper stage has the armor needed by a
+streamlined craft, and the discarded lower stage burns up on re-entry. Our
+spaceplane faces some trouble because it needs to include that armor system
+itself, leaving us 1 fuel tank short.
 
 The only way we can make it work is by pulling in an optional rule from GURPS
 Spaceships 7 p. 4: Smaller Systems. By shrinking both our cargo bay and control
@@ -162,7 +162,7 @@ down".
 Our spaceplane costs $8.8M according to the design rules. Of course, that's its
 price if it was mass-produced and commercially available. The rather more
 bespoke space program manufacturing model means it could cost up to 100 times
-more. It runs on liquid hydrogen/liquid oxygem rocket fuel, a full load of which
+more. It runs on liquid hydrogen/liquid oxygen rocket fuel, a full load of which
 costs $693,200.
 
 The LAV version has better handling and stability (+3/4 in air and -2/4 in
