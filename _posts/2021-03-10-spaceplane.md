@@ -55,6 +55,7 @@ Our resulting configuration is:
 
 - 1 x Metallic Laminate Armor
 - 1 x SM +8 control room
+- 1 x 15-ton cargo bay
 - 17.33 x Fuel Tanks (865 tons rocket fuel)
 - 1 x SM +7 Chemical Rocket Engine (1G Acceleration)
 
