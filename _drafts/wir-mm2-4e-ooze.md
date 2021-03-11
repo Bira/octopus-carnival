@@ -18,10 +18,20 @@ small spaces. They also have BLindsight 10 and Tremorsense 10.
 
 ## Abolethic Skum
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-ooze-skum.png" | relative_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 As we saw way back in the [Aboleth][3] post, Aboleths can turn mortals into
 servitors, a process which turns their skin into a layer of transparent
 slime. Sometimes, though, this process goes awry and the victim's form loses all
-integrity. The resulting watery blobs full of organs are known as "skum".
+physical integrity. The resulting watery blobs full of organs are known as
+"skum".
 
 Abolethic skums are barely sentient, but some memory of what they were remains
 with them. This tangles up with residual fear and shame at what they have
@@ -91,4 +101,5 @@ Our example encounters for these entry are:
   skum. This is that packed room I told you about.
 
 
+[2]: {{ "/2020/09/02/ooze.html" | relative_url }}
 [3]: {{ "/2019/01/04/aboleth.html" | relative_url }}

@@ -20,6 +20,16 @@ need to win an opposed Insight test against the monster's Bluff.
 
 ## Oni Devourer
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-oni-devourer.png" | relative_url }}"/>
+  <figcaption>
+    Oni Devourer. Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 These oni are sorcerous tricksters. By day they take the shape of ascetics,
 beggars and priests. By night they go out hunting for people to eat. Some
 stories tell of a large group of oni devourers that took over an entire isolated
@@ -43,6 +53,7 @@ combination.
 
 ## Oni Overlord
 
+
 In some stories oni aren't subtle at all and instead lead gangs of monstrous
 bandits that try to rob and devour any hapless protagonists they come
 across. Oni Overlords are an attempt to translate those individuals to
@@ -58,8 +69,19 @@ Reward** that gives that ally 5 temporary HP.
 While closing to melee range, the overlord can use **Overlord's Blast** (close
 blast 5 vs. Fortitude; recharges when first bloodied) to deal necrotic and
 poison damage to enemies, and also make them vulnerable to those two damage
-    types (save ends).
+types (save ends).
 
+
+## Oni Thunderer
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-oni-thunderer.png" | relative_url }}"/>
+  <figcaption>
+    Oni Thunderer. Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 
 
