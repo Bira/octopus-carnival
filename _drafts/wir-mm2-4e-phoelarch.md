@@ -62,15 +62,15 @@ speed is 6.
 
 The mage's basic attacks are a **burning dagger** and a Range 20 **phoenix
 ray**, both of which deal fire damage. They also know a spell named **Flames of
-the Phoenix** (recharge 5+), which is pretty much your typical fireball: fire
-damage, plus ongoing fire damage. Presumably they also know plenty of non-combat
-rituals, but those don't appear in stat blocks.
+the Phoenix** (recharge 5+), which is pretty much your typical fireball: area
+effect, fire damage, plus ongoing fire damage. Presumably they also know plenty
+of non-combat rituals, but those don't appear in stat blocks.
 
 When the mage drops to 0 HP their **Rise from the Ashes** ability triggers and
-they explode. This deals heavy fire damage (vs. Reflex) in a Close Burst 2,
-dealing heavy fire damage. This also creates a zone of fire that lasts until the
-end of the encounter and damages anyone caught inside. Finally, when the mage's
-next turn comes up, a phoera appears within the zone and joins the fight.
+they explode. This deals heavy fire damage (vs. Reflex) in a Close Burst 2. It
+also creates a zone of fire that lasts until the end of the encounter and
+damages anyone caught inside. Finally, when the mage's next turn comes up, a
+phoera appears within the zone and joins the fight.
 
 ### Phoelarch Warrior
 

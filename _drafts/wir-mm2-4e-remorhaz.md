@@ -74,5 +74,5 @@ The sample encounter is level 18: A frost giant acting as a beastmaster of
 sorts, accompanied by a remorhaz and a rime hound.
 
 I confess that I had a bit of a hard time distinguishing between a remorhaz and
-a behir in earlier editions, and find these incarnations a bit easier to
-discern.
+a behir in earlier editions. The distinction is clearer to me now, but only
+because I spent some time studying their entries in detail.

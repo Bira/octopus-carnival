@@ -28,7 +28,7 @@ bad news for the world because some demons have learned how to command
 them. Back in the days of AD&D, retrievers were linked to Demogorgon in
 particular, but now they could be found in the service of any demon lord or
 other entity of similar power. Perhaps some of them still act at the behest of a
-primordial, and Lolth is both spidery enough to want a bunch of them working for
+primordial, and Lolth is spidery enough to want a bunch of them working for
 her. Make any of them angry enough and a few retrievers might show up at your
 home.
 

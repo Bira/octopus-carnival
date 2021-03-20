@@ -83,6 +83,54 @@ types (save ends).
 </figure>
 {:/nomarkdown}
 
+Oni Thunderers seem to be inspired by the myth of [Raijin][3], the god of
+thunder and storms, who according to the link looked kinda oni-ish and caused
+trouble as often as he helped.
+
+These oni are extremely strong but not divine. There's usually nothing good
+about them, either. They love a fight, and when they get into one they
+complement their weapon attacks with thunder magic and teleportation. Their
+weapon of choice seems to be a spiked chain, likely inspired by Raijin's
+drum-aura thing. I imagine they usually hang out with other rowdy epic
+storm-based creatures.
+
+Thunderers are Large Natural Humanoids, and Level 22 Skirmishers with 206
+HP. They have dark vision, a ground speed of 8, and a teleport speed of 8
+(meaning they can teleport at-will with a move action).
+
+Their oversized **spiked chains** are Reach 3, do a mix of physical and thunder
+damage, and pull the target adjacent to the oni on a hit.
+
+Their teleport speed already makes them hard to pin down, and they can use them
+as part of a **Thunderclap Portal** maneuver (recharge 4+). This lets them
+teleport their speed and perform a special attack either before or after that
+teleport. This is a close burst 2 that heavy thunder damage and pushes all
+enemies in the area. An enemy who was grabbed by the oni's chain takes even more
+damage, though this ends the grab.
+
+When hit by an attack, the thunderer can react with **Chain Dance** and teleport
+3 squares. Finally, they have the same Deceptive Veil power as all the other
+oni, though they're unlikely to use it often.
+
+## Sample Encounters and Final Impressions
+
+We get a mix of encounters here illustrting the sort of monsters oni might see
+as servants, equals, or masters depending on their relative power levels.
+
+- Level 7: 2 oni devourers, 1 oni night haunter, 1 troll. Your typical cannibal
+  giant gang.
+
+- Level 12: 1 oni overlord, 3 minotaur warriors, 2 scytheclaw drakes. These look
+  more like a bandit leader and his lieutenants, likely running a gang of humans
+  or other smaller humanoids.
+
+- Level 22: 2 death giants, 3 oni thunderers. Funny, I'd have expected storm
+  giants. But this does prevent the PCs from totally nerfing the encounter with
+  a single damage resistance power.
+
+I like the variety of oni we're getting here. A large body of legend demands
+lots of different stat blocks covering different aspects of it.
 
 
 [2]: {{ "/2020/08/17/oni.html" | relative_url }}
+[3]: https://www.japan-talk.com/jt/new/raijin-and-fujin
