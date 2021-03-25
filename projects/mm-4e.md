@@ -434,7 +434,7 @@ in the Monster Manual.
 [165]: {{ "/2020/12/24/snake.html" | relative_url }}
 [166]: {{ "/2020/12/25/sorrowsworn.html" | relative_url }}
 [167]: {{ "/2020/12/27/specter.html" | relative_url }}
-[168]: {{ "/2020/12/28/sphinx.html" | relative_url }}
+[168]: {{ "/2020/12/27/sphinx.html" | relative_url }}
 [169]: {{ "/2020/12/28/stirge.html" | relative_url }}
 [170]: {{ "/2021/01/05/spider.html" | relative_url }}
 [171]: {{ "/2021/01/05/swordwing.html" | relative_url }}
