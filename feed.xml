@@ -6,9 +6,154 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Mar 2021 18:37:29 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Mar 2021 18:37:29 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Mar 2021 12:51:23 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Mar 2021 12:51:23 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2</title>
+        <description>&lt;p&gt;As I write this, I have just finished a Let’s Read of the first D&amp;amp;D 4 Monster
+Manual and Monster Vault in parallel, which took me about one year and four
+months to complete and and around 2 years and 2 months to finish posting
+here. This means it’s time to start up on the Monster Manual 2!&lt;/p&gt;
+
+&lt;p&gt;Published in 2009, this book includes both more varieties of monsters that
+appeared in its predecessor, and those that are new either to the game or to
+this edition of it. There’s not much in the way of preamble in its text: after
+explaining the same thing I just did in the previous sentence, it launches into
+a description of the stat block format and then goes right to the monster list.&lt;/p&gt;
+
+&lt;p&gt;Before I do the same, I’m going to use this post to describe some useful
+information for people unfamiliar with either D&amp;amp;D Fourth Edition, or the
+conventions I’ve adopted over time while going through the first Monster Manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;fourth-edition-encounter-basics&quot;&gt;Fourth Edition Encounter Basics&lt;/h2&gt;
+
+&lt;p&gt;While you don’t need to be intimately familiar with Fourth Edition D&amp;amp;D to
+understand my writeups, it helps to know some basic terminology.&lt;/p&gt;
+
+&lt;p&gt;4e uses the same level scale for monsters as it does for PCs. Monsters of the
+same level are all worth the same amount of XP, and you calculate an encounter’s
+level by adding up their XP values and adjusting it a bit for the size of your
+PC party. The game’s platonic ideal of a “balanced encounter” is one where the
+party faces a group of monsters of the same size and level as themselves. Note
+that “balanced” here means a fairly easy fight of the sort the PCs can go
+through several times per day. To make it harder increase either the number or
+level of monsters, and vice-versa. A “level+1” or “level+2” encounter is
+challenging, a “level+3” or “level+4” one are boss battle material. A difference
+of +5 or greater is one of those situations where the PCs might be better off
+running away.&lt;/p&gt;
+
+&lt;p&gt;Levels go from 1 to 30, though some rare monsters meant to be “final bosses” for
+epic campaigns go a bit beyond that. It’s perfectly possible to have an entire
+campaign where the party never fights a “balanced”, same-level battle.&lt;/p&gt;
+
+&lt;p&gt;Some monsters are “Elite”, which means they are more powerful and are worth two
+regular creatures in the encounter building formula. Others are “Solos” and are
+worth four regulars - but despite the name might not make for a fun encounter
+all by themselves. Combat is a team sport! Last and least, a few are “minions”
+which do less damage and go down in one hit. Four of these are worth a single
+regular.&lt;/p&gt;
+
+&lt;p&gt;What this means is that you should never evaluate a monster in isolation. Always
+assume it’s going to fight alongside a team of other opponents with
+complimentary roles and abilities. This is true even for a lot of solo monsters.&lt;/p&gt;
+
+&lt;h2 id=&quot;monster-roles&quot;&gt;Monster Roles&lt;/h2&gt;
+
+&lt;p&gt;A monster’s role describes both the sort of tactic you should employ when using
+it, and acts as a “class” of sorts. A monster’s attack bonuses, defenses, and HP
+all depend on its level and role, not on what type of creature it is like in
+3.x.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Skirmishers&lt;/em&gt; have baseline stats across the board and abilities that make
+them highly mobile.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Brutes&lt;/em&gt; hit hard in melee and take a lot of killin’. They have high HP, high
+damage, and reduced AC.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Soldiers&lt;/em&gt; are also melee combatants, but have high AC and tend to have
+abilities similar to that of a PC fighter, being good at preventing the enemy
+from targetting their more fragile buddies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Lurkers&lt;/em&gt; have attacks that do a lot of damage but require some setup. A
+typical lurker will have some sort of “routine” where it makes a big attack
+one turn and spends the following turn setting it up again. This makes them
+good for ambush scenarios.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Controllers&lt;/em&gt; have stats similar to those of a skirmisher, but their abilities
+are a mix of ranged and melee attacks that also inflict negative conditions on
+the PCs or shape the battlefield in other ways.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;Artillery&lt;/em&gt; monsters are fragile and have lousy melee attacks, but their
+ranged attacks are stronger and more accurate.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When designing an encounter, you’re usually supposed to mix and match the roles
+so that they complement each other. &lt;em&gt;In general&lt;/em&gt; you want a “front line” made up
+of soldiers and brutes, with artillery and controllers hanging back and
+providing ranged support, and with lurkers and skirmishers running around the
+edges trying to get past the PC’s own front line. The exact composition of your
+Team Monster will of course alter this in all sorts of interesting ways.&lt;/p&gt;
+
+&lt;p&gt;The existence of monster roles means we’ll often encounter monsters with several
+different stat blocks, which allow you to do something like an “all-bullywug
+fight” that’s still tactically interesting.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-dreaded-math-bugs&quot;&gt;The Dreaded Math Bugs&lt;/h2&gt;
+
+&lt;p&gt;While the foundation of the encounter design system in 4e was really solid, it
+took a bit of time for the writers to fine-tune the math. Monsters from the
+first Monster Manual generally did too little damage. Elites and Solos also had
+defenses that were too high, and high-level solos in particular had ridiculously
+large HP totals. All of this could lead to fights that were both too easy and
+too long to be fun.&lt;/p&gt;
+
+&lt;p&gt;In the Monster Manual 2, some of these problems were fixed: Elites and Solos
+lost their defense bonuses, and Solos have about 20% less HP than they would
+have under MM1 rules. Brutes and soldiers also had their accuracy fine-tuned
+(the former missed too much, the latter were too accurate).&lt;/p&gt;
+
+&lt;p&gt;From this point on you also start seeing minions with roles: where a MM1 monster
+might have been described as a “Level 10 Minion”, here you might get a “Level 10
+Minion Brute” for example. Role affects a minion’s defenses and damage, but not
+their HP, which is always 1 with a “minions can’t be damaged by missed attacks”
+condition.&lt;/p&gt;
+
+&lt;p&gt;One problem still remains: damage is still too low, by an amount that increases
+with monster level. So a level 1 or 2 monster doesn’t suffer from this at all,
+but a level 25 epic threat will hit like a feather pillow when it should be
+hitting like a speeding truck.&lt;/p&gt;
+
+&lt;p&gt;If you’re preparing a 4e adventure and you need to fix a MM2 stat block
+yourself, the famous &lt;a href=&quot;http://blogofholding.com/?p=512&quot;&gt;Monster Manual 3 on a Business Card&lt;/a&gt; post from Blog of
+Holding has a wonderful summary of the definitive formulas, which you get in a
+longer form in one of the DMG update PDFs that WotC published back in the day.&lt;/p&gt;
+
+&lt;p&gt;An even quicker fix is to add half the monster’s level to all of its damage
+rolls, as outlined in this &lt;a href=&quot;http://blogofholding.com/?p=782&quot;&gt;other Blog of Holding&lt;/a&gt; post. So, for example, add
++5 to all damage rolls for a level 10 monster. This should get you close enough
+to the “correct” figures.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/25/wir-mm2-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/25/wir-mm2-intro.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Building a GURPS Spaceplane: The Second Iteration</title>
@@ -1425,126 +1570,6 @@ were left out of the Monster Vault.&lt;/p&gt;
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/02/11/wight.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/11/wight.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Warforged</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-warforged.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Warforged are a 3e creation, first appearing as a playable option in the Eberron
-campaign setting. In 4e they would also become playable characters, but their
-first appearance was in the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The warforged lore given to us by the Monster Manual has been stripped of all
-Eberron-specific information, which means it’s extremely terse and generic.&lt;/p&gt;
-
-&lt;p&gt;Warforged are living constructs created by magic. The “living” part means
-they’re gifted with true sapience, and with souls. It also means they’re a
-little less tough than a golem, but they make up for that with their large
-numbers.&lt;/p&gt;
-
-&lt;p&gt;Warforged are created in magical factories called Creation Forges. They’re
-sexless and can’t reproduce in any other way. As their name implies, the
-original purpose of the warforged was to serve as an army. In peacetime,
-individual warforged often end up working as bodyguards and mercenaries for
-people who share their individual ideals and disposition.&lt;/p&gt;
-
-&lt;p&gt;In Eberron, the secret of building and operating creation forges belonged
-exclusively to House Cannith, who sold warforged armies to all five sides of the
-Last War but whose main customer was the nation of Cyre. The treaty that ended
-the War (signed after Cyre got swallowed by a magical disaster) freed all
-existing warforged from servitude, and I think it also tightly regulated their
-creation.&lt;/p&gt;
-
-&lt;p&gt;Most warforged PCs from Eberron are going to be veterans of the Last War, which
-is like a combination between our Hundred Years War and World War One. However,
-in the ruins of Cyre, a powerful warforged supremacist named the Lord of Blades
-controls a fully working creation forge and is using it to build an army.&lt;/p&gt;
-
-&lt;p&gt;Warforged in the 4e implied setting might have been alive to see the fall of
-Nerath. They could also have been built more recently by someone operating an
-Nerathian creation forge, or even assembled by hand by an isolated artificer.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Warforged are Medium Natural Humanoids with the Living Construct
-keyword. Monster Manual warforged have several signature traits: they get a +2
-to saves against ongoing damage, they employ &lt;strong&gt;Battlefield Tactics&lt;/strong&gt; that grant
-them a +1 bonus to melee attack if any ally is adjacen to the target, and they
-can use the &lt;strong&gt;Warforged Resolve&lt;/strong&gt; encounter power as a minor action when
-bloodied to recover a healing surge’s worth of HP.&lt;/p&gt;
-
-&lt;p&gt;Playable Warforged would appear in the Eberron Player’s Guide: they’d get the
-save bonus against ongoing damage and a modified form of &lt;strong&gt;Warforged Resolve&lt;/strong&gt;,
-along with a few other things.&lt;/p&gt;
-
-&lt;h3 id=&quot;warforged-soldier&quot;&gt;Warforged Soldier&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 4 Soldier with 56 HP and all standard warforged traits. It wears
-plate, and wields a longsword and a shield. Its ground speed is 5, and it’s
-trained in Endurance and Intimidate.&lt;/p&gt;
-
-&lt;p&gt;The soldier’s basic (and only) attack is the &lt;strong&gt;longsword&lt;/strong&gt;, which does average
-damage for its level and marks for a turn. Its &lt;strong&gt;Warforged Resolve&lt;/strong&gt; heals it
-for 14 HP when used.&lt;/p&gt;
-
-&lt;p&gt;The warforged isn’t too different from a human fighter, but its racial traits
-give significantly more staying power. You can slap them onto any human stat
-block to get the warforged version. If you use them in a tight formation then
-most of them will get the +1 Battlefield Tactics bonus all the time when
-attacking targets directly in front of the formation.&lt;/p&gt;
-
-&lt;h3 id=&quot;warforged-captain&quot;&gt;Warforged Captain&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 6 Soldier (Leader) with 72 HP and all common warforged
-traits. Its speed is 5 due to armor and its Warforged Resolve heals it for 18 HP
-when used.&lt;/p&gt;
-
-&lt;p&gt;Captains fight with a Reach 2 &lt;strong&gt;glaive&lt;/strong&gt;, which does average damage and marks for a
-turn. It can use this weapon to performa &lt;strong&gt;Tactical Switch&lt;/strong&gt; maneuver (recharge
-4-6), in which it makes a basic attack that also slides the target 1 square. If
-this hits, the captain or an ally within 10 squares can also shift 1 square.&lt;/p&gt;
-
-&lt;p&gt;Captains excel at fighting from the back row of that warforged soldier
-formation, since they have a reach weapon. Tactical Switch is good for
-disrupting enemy formations, or interrrupting flanking attempts by individual
-strikers.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We have a single sample encounter: Level 4, three human guards, 1 warforged
-soldier, and 1 warforged captain. A mixed force that makes it look like
-warforged make up the command and elite in this particular army.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, these Monster Manual warforged are very simple and present little
-in the way of exciting surprises other than the fact that they
-will. Not. Stay. Down. If I’m being honest the book might have done without them
-entirely.&lt;/p&gt;
-
-&lt;p&gt;However, I absolutely love the &lt;em&gt;concept&lt;/em&gt; of warforged, both as player characters
-and as NPCs. I love them so much I adapted them to GURPS &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;here&lt;/a&gt;. I understand
-why the first MM included these: the Eberron books were still a little ways
-away, and the authors might have felt its fans needed a little reassurance.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/07/warforged.html</guid>
         
         <category>dnd4</category>
         
