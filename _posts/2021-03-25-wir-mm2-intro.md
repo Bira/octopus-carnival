@@ -6,8 +6,8 @@ tags:
     - lets-read
 ---
 
-As I write this, I have just finished a Let's Read of the first D&D 4 Monster
-Manual and Monster Vault in parallel, which took me about one year and four
+As I write this, I have just finished a [Let's Read of the first D&D 4 Monster
+Manual and Monster Vault in parallel][1], which took me about one year and four
 months to complete and and around 2 years and 2 months to finish posting
 here. This means it's time to start up on the Monster Manual 2!
 
@@ -129,6 +129,6 @@ rolls, as outlined in this [other Blog of Holding][3] post. So, for example, add
 to the "correct" figures.
 
 
-[1]: {{ "/2019/01/01/wir-mm2-4e-intro.html" | relative_url }}
+[1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: http://blogofholding.com/?p=512
 [3]: http://blogofholding.com/?p=782
