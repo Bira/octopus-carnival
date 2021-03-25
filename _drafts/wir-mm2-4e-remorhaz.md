@@ -13,7 +13,7 @@ been around since AD&D.
 
 Remorhazes are yet another example of the dangerous megafauna that plagues D&D
 worlds: gigantic predators with a somewhat centipede-like appearance that
-inhabit the colder reaches of the universe. They're also one of those gotcha
+inhabit the colder reaches of the world. They're also one of those gotcha
 monsters, because despite living in cold biomes their powers are heat-based. A
 remorhaz can heat its carapace up to an extremely high temperature, which really
 ruins the day of the usually-weak-to-fire creatures it feeds on.
