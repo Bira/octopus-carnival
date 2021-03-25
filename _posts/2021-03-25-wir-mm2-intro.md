@@ -26,27 +26,31 @@ conventions I've adopted over time while going through the first Monster Manual.
 While you don't need to be intimately familiar with Fourth Edition D&D to
 understand my writeups, it helps to know some basic terminology.
 
-4e uses the same level scale for monsters as it does for PCs. Its platonic ideal
-of a "balanced encounter" is one where the party faces a group of monsters of
-the same size and level as themselves. Note that "balanced" here means a fairly
-easy fight of the sort the PCs can go through several times per day. To make it
-harder increase either the number or level of monsters, and vice-versa. A
-"level+1" or "level+2" encounter is challenging, a "level+3" or "level+4" one
-are boss battle material. A difference of +5 or greater is one of those
-situations where the PCs might be better off running away.
+4e uses the same level scale for monsters as it does for PCs. Monsters of the
+same level are all worth the same amount of XP, and you calculate an encounter's
+level by adding up their XP values and adjusting it a bit for the size of your
+PC party. The game's platonic ideal of a "balanced encounter" is one where the
+party faces a group of monsters of the same size and level as themselves. Note
+that "balanced" here means a fairly easy fight of the sort the PCs can go
+through several times per day. To make it harder increase either the number or
+level of monsters, and vice-versa. A "level+1" or "level+2" encounter is
+challenging, a "level+3" or "level+4" one are boss battle material. A difference
+of +5 or greater is one of those situations where the PCs might be better off
+running away.
 
 Levels go from 1 to 30, though some rare monsters meant to be "final bosses" for
 epic campaigns go a bit beyond that. It's perfectly possible to have an entire
 campaign where the party never fights a "balanced", same-level battle.
 
 Some monsters are "Elite", which means they are more powerful and are worth two
-regulars in the encounter building formula. Others are "Solos" and are worth
-four regulars - but despite the name might not make for a fun encounter all by
-themselves. Combat is a team sport! Last and least, a few are "minions" which do
-less damage and go down in one hit. Four of these are worth a single regular.
+regular creatures in the encounter building formula. Others are "Solos" and are
+worth four regulars - but despite the name might not make for a fun encounter
+all by themselves. Combat is a team sport! Last and least, a few are "minions"
+which do less damage and go down in one hit. Four of these are worth a single
+regular.
 
 What this means is that you should never evaluate a monster in isolation. Always
-assume it's going to be fight alongside a team of other opponents with
+assume it's going to fight alongside a team of other opponents with
 complimentary roles and abilities. This is true even for a lot of solo monsters.
 
 ## Monster Roles
@@ -68,7 +72,8 @@ all depend on its level and role, not on what type of creature it is like in
 
 - _Lurkers_ have attacks that do a lot of damage but require some setup. A
   typical lurker will have some sort of "routine" where it makes a big attack
-  one turn and spends the following turn setting it up again.
+  one turn and spends the following turn setting it up again. This makes them
+  good for ambush scenarios.
 
 - _Controllers_ have stats similar to those of a skirmisher, but their abilities
   are a mix of ranged and melee attacks that also inflict negative conditions on
