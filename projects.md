@@ -34,6 +34,9 @@ In which I read a book or series of books and commentate on their content.
 - [Let's Read the 4e Monster Manual/Vault][5]: Wherein I read through and
   comment on these two D&D Fourth Edition books and the monsters they contain.
 
+- [Let's Read the 4e Monster Manual 2][7]: After finishing the first MM/MV
+  reading, I move on to the MM2.
+
 ## Ready-to-Play Characters
 
 - [Pathfinder Iconics in Dungeon Fantasy][2]: A group of Pathfinder's Iconics
@@ -51,3 +54,4 @@ posts in order. Enjoy!
 [4]: {{ "/projects/hells-rebels/" | relative_url }}
 [5]: {{ "/projects/mm-4e/" | relative_url }}
 [6]: {{ "/projects/df-characters/" | relative_url }}
+[7]: {{ "/projects/mm2-4e/" | relative_url }}

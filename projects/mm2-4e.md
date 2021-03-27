@@ -1,0 +1,27 @@
+---
+layout: page
+title: "Let's Read the 4e Monster Vault 2"
+permalink: "/projects/mm2-4e/"
+---
+
+This project was actually started in May 13th 2020, but since I wanted to wait
+until all the [Monster Manual/Monster Vault][1] posts had made it into the blog,
+I'm only beginning to post it now. This is a continuation of the first Monster
+Manual Let's Read linked in this paragraph, where we move on to the Monster
+Manual 2.
+
+Below, you can see links for all the related posts:
+
+- [Introduction][2]: Introduces the project, gives a primer on how 4e monsters
+  work, and discusses the fixes applied since the first Monster Manual as well
+  as the math bugs still present in the book.
+
+
+The book contains a mix of monsters that are new to the edition, and monsters
+who already appeared in the previous Monster Manual and who are getting more
+variants here. Here they are, from A to Z:
+
+- [Angel][2]
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
+[2]: {{ "/2021/03/27/angel.html" | relative_url }}

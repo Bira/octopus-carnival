@@ -18,9 +18,10 @@ damage calculations, and a lot of the MM monsters were later updated in the
 Monster Vault supplement, so I figured I couldn't really read one book without
 also reading the other. And so here we are!
 
-In an uncommon move for this blog, I'm posting my comments first on an RPG.net
-thread, and here with some delay (plus text corrections and illustrations). This
-is what we have so far on the blog:
+I posted these entries first on an RPG.net thread, and here with some delay
+(plus text corrections and illustrations). It took 1 year and 4 months to finish
+posting all the entries in the forum, and around 2 years and 2 months to finish
+posting them here. Below you can see links for all the related posts.
 
 - [Introduction][1]: Introduces the project and discusses the damage bug I
 mentioned above, as well as how to fix it for older monsters.
