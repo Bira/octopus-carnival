@@ -6,9 +6,119 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 27 Mar 2021 17:07:45 +0000</pubDate>
-    <lastBuildDate>Sat, 27 Mar 2021 17:07:45 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Mar 2021 12:37:40 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Mar 2021 12:37:40 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Ankheg</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ankheg.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Ankhegs appear in AD&amp;amp;D 1st Edition, and they would go on to achieve minor fame
+among players because of their lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Ankhegs are giant burrowing insects who dig mazelike tunnel networks and hunt by
+bursting through the ground and snatching surface prey with their huge
+mandibles. They also have acidic saliva, which they can spray at enemies.&lt;/p&gt;
+
+&lt;p&gt;These creatures live in “family units” consisting of a mated pair and a small
+brood of young. These broodlings are rarely seen on the surface - their parents
+bring prey to them underground. Other things might also be living in ankheg
+tunnels, since the creatures don’t use all of it as living space.&lt;/p&gt;
+
+&lt;p&gt;This is the extent of the lore we get in the MM2, but it was the bits left out
+that made ankhegs low-key famous. These bits say that ankhegs prefer to dig
+through soil rich in minerals and organic matter. This means forests, but it
+also means &lt;em&gt;good farmland&lt;/em&gt;. Therefore, these creatures are likely to be found
+very close to civilized settlements. I think I saw at least one source that said
+having ankhegs underground actually improved the quality of the soil. If this
+isn’t true in your campaign, it might very well be a common folk superstition.&lt;/p&gt;
+
+&lt;p&gt;Even if ankhegs don’t enrich the soil, their presence might still act as an
+extra security measure against the many &lt;em&gt;other&lt;/em&gt; dangers from the wild, assuming
+the farmers in question can develop some way of avoiding the beasts
+themselves. If you walk without rythm, you won’t attract the
+worm. Unfortunately, it looks like they cannot be tamed, so farming in ankheg
+country makes for a very interesting life. Fortunately, you won’t find more than
+one “family” of ankhegs in a given area.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Ankhegs are Natural Beasts, with the adults being Large and the broodlings
+Small. Both have tremorsense and a burrow speed, and are of animal intelligence.&lt;/p&gt;
+
+&lt;h3 id=&quot;ankheg&quot;&gt;Ankheg&lt;/h3&gt;
+
+&lt;p&gt;This adult specimen is a Level 3 Elite Lurker with 100 HP. It has Resist 5 Acid
+to protect itself from its own saliva, a land speed of 8, and a burrowing speed
+of 4 with the Tunneling keyword, which means it leaves stable tunnels behind.&lt;/p&gt;
+
+&lt;p&gt;The classic ankheg tactic is for the beast to use its Stealth training and
+burrowing speed to lie in wait underground until it senses prey passing
+above. Then it’s going to erupt and hit its victims with an &lt;strong&gt;Acid Spray&lt;/strong&gt;
+(close burst 3 vs. Reflex) which deals immediate and ongoing acid damage and
+also slows (save ends both). It can do that again it if’s bloodied.&lt;/p&gt;
+
+&lt;p&gt;Next it’s going to nab the nearest victim using a &lt;strong&gt;Mandible Grab&lt;/strong&gt;, which
+damages and grabs (Acrobatics DC 16 or Athletics DC 14 to escape). It can only
+grab one victim at once, but &lt;strong&gt;Mandible Carry&lt;/strong&gt; allows it to move normally with
+a grabbed victim. If the victim struggles too much the ankheg can also &lt;strong&gt;Gnaw
+and Scuttle&lt;/strong&gt; as a minor action, which requires an attack roll and does physical
+damage and ongoing acid damage (save ends) in addition to allowing the monster
+to shift 2 squares.&lt;/p&gt;
+
+&lt;p&gt;The ankheg can put a lot of distance between itself and its victim’s buddies in
+a single turn by using a double move and spending a minor action on Gnaw and
+Scuttle. Still, if someone does manage to reach it while it has a grabbed
+victim, it can use &lt;strong&gt;claw&lt;/strong&gt; attacks to fight in melee.&lt;/p&gt;
+
+&lt;h3 id=&quot;ankheg-broodling&quot;&gt;Ankheg Broodling&lt;/h3&gt;
+
+&lt;p&gt;Ankheg attacks are fun for the whole family, because you’re going to be jumped
+by Mom and Dad, who will then carry you a ways underground so the kids can come
+out and eat.&lt;/p&gt;
+
+&lt;p&gt;Broodlings are Level 1 Minion Brutes, with the same tremorsense as the adults, a
+land speed of 6 and a burrow speed of 2 with Tunneling. They have basic &lt;strong&gt;claw&lt;/strong&gt;
+attacks along with a less accurate and more damaging &lt;strong&gt;Mandible Rip&lt;/strong&gt; that deals
+some “splash” acid damage to enemies adjacent to the target on a
+critical. &lt;strong&gt;Brood Swarm&lt;/strong&gt; gives them a +4 bonus when attacking a creature
+grabbed by any ankheg. This more than negates the accuracy penalty from Mandible
+Rip.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is Level 4: a pair of ankhegs and 6 broodlings plus a rage
+drake that was likely their original intended victim before the party came
+along.&lt;/p&gt;
+
+&lt;p&gt;My initial impression of anhkegs was that they were just another big bug
+monster, but the possibility of a setting where ankhegs under your farm fields
+are just another fact of life makes the more interesting in my eyes. The section
+on encounter groups also mentions that sometimes giant ants “take control” of a
+group of broodlings after they drive their parents away, and I can almost hear
+David Atenborough narrating that nature documentary.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/03/30/ankheg.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/30/ankheg.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dnd4</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Angel</title>
@@ -1466,138 +1576,6 @@ can huff, puff, and blow your house down.&lt;/p&gt;
         <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/02/19/worg.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/19/worg.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Wolves</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-wolf.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Wolves are real animals and have been part of the game since its
-beginnings. Here, they are both in the Monster Manual and in the Monster Vault’s
-animal appendix.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Real-world wolves are pack hunters, and the ancestors of modern dogs. If I
-recall correctly they mostly stay away from people and only attack when cornered
-or really desperate. There are enough stories about wolves attacking sheep and
-other farm animals that it must have happened in the past, but it’s not really a
-common occurrence any more. And that’s partly because there are very few wolves
-left in the real world.&lt;/p&gt;
-
-&lt;p&gt;D&amp;amp;D wolves are of course a lot more common and a lot more willing to attack
-people, since a pack of wolves is a classic low-level wilderness encounter. They
-can be found across a wide variety of climates and terrains. Mountains? Check!
-Forests? Check! Plains? Check! Deserts? Why not?&lt;/p&gt;
-
-&lt;p&gt;This being D&amp;amp;D, there might be some natural landscapes where your reasonably
-realistic grey wolf might have trouble competing with the more fantastical and
-powerful monsters common to the game. Instead, these places might feature dire
-wolves, which are a larger, smarter and more dangerous variety. As of 3e,
-they’re also spikier.&lt;/p&gt;
-
-&lt;p&gt;In addition to being found in the wild, both common and dire wolves might be
-trained by humanoids such as goblins or shifters, who have a knack for taming
-wolves directly without having to spend centuries turning them into dogs. Other
-creatures might also control large packs of them through magic: vampires are
-famous for this.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Wolves are obviously Natural Beasts, even the dire variety. They have low-light
-vision, and their other acute senses are represented by Trained Perception. They
-run at speed 8, attack with &lt;strong&gt;bites&lt;/strong&gt; and usually do something interesting when
-they have combat advantage.&lt;/p&gt;
-
-&lt;h3 id=&quot;gray-wolf-both&quot;&gt;Gray Wolf (Both)&lt;/h3&gt;
-
-&lt;p&gt;Gray wolves are Medium, and Level 2 Skirmishers with 38 HP. As far as natural
-wolves go, it seems to me these would be on the large end of the scale, which
-might explain why they’re more eager to attack humans than you’d expect a
-mundane wolf to be.&lt;/p&gt;
-
-&lt;p&gt;Their sole attack is the &lt;strong&gt;bite&lt;/strong&gt;, which does extra damage against prone
-targets. The bite in the MV version also allows the wolf to shift 4 squares &lt;em&gt;as
-an effect&lt;/em&gt;, so these critters will never stay still if they can help it.&lt;/p&gt;
-
-&lt;p&gt;If a wolf has &lt;strong&gt;Combat Advantage&lt;/strong&gt; against a target, its bite will also knock
-the target prone on a hit. This means a group of wolves has a lot of incentive
-to flank a specific PC. One of them knocks the victim prone with its first bite,
-the others pile on with that bonus bite damage. All of them keep moving around
-with those free shifts. And now you know why they call this “wolf-pack tactics”!&lt;/p&gt;
-
-&lt;h3 id=&quot;dire-wolf-both&quot;&gt;Dire Wolf (Both)&lt;/h3&gt;
-
-&lt;p&gt;Dire wolves are Large, which means each is roughly horse-sized. They’re Level 5
-Skirmishers with the Mount keyword and 67 HP.&lt;/p&gt;
-
-&lt;p&gt;Dire wolf &lt;strong&gt;bites&lt;/strong&gt; have larger numbers due to them being higher level, and also
-do increased damage to prone targets. They also knock the target prone if the
-wolf has &lt;strong&gt;combat advantage&lt;/strong&gt; against the target, and the monsters have more
-ways to get that other than plain old flanking.&lt;/p&gt;
-
-&lt;p&gt;The text for “combat advantage” in the MM version says the dire wolf has CA
-against any target who has at least one other ally adjacent to it. No flanking
-required. This could be interpreted to mean that a dire wolf with a rider always
-has CA against any enemy adjacent to it! The MV version of this trait, named
-&lt;strong&gt;Pack Harrier&lt;/strong&gt;, says it only works when the wolf has two or more allies
-adjacent to the enemy. So the rider still counts, but you need a second ally to
-get the bonus.&lt;/p&gt;
-
-&lt;p&gt;They also have a trait called &lt;strong&gt;Pack Hunter&lt;/strong&gt;, which grants their &lt;em&gt;rider&lt;/em&gt; combat
-advantage if an ally other than the mount is adjacent to the target. So if you
-go with the MV text, the rider would get CA whenever the wolf got it, and
-vice-versa.&lt;/p&gt;
-
-&lt;p&gt;I’m guessing that the MV version is the “correct” one in all aspects
-here. A wolf that got permanent combat advantage against everyone would be a
-little overpowered due to that knockdown effect on the bite.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We have two sample encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 3: 3 gray wolves, 2 hobgoblin archers, and 1 hobgoblin warcaster. Your
-standard hunting party.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 5: 3 dire wolves, and 2 longtooth shifter hunters. A mounted hunting
-party.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Werewolves are also quite likely to be leading dire wolf packs, and Count Strahd
-in the original Ravenloft module quite famously commanded a literal army of dire
-wolves he could send after the PCs every night until they entered his castle.&lt;/p&gt;
-
-&lt;p&gt;Dire wolf-riding goblins are also a classic image, though the levels are a
-little mismatched as printed. It would be easy enough to level the goblins up or
-the dire wolves down, and it’s quite plausible for the Small goblins to be
-riding Medium gray wolves instead of the Large dire ones.&lt;/p&gt;
-
-&lt;p&gt;These days “you’re attacked by a pack of wolves while on the road” strikes me as
-a little uninspired, though I think they’re OK when used as muscle by sapient
-opposition.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/02/13/wolves.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/13/wolves.html</guid>
         
         <category>dnd4</category>
         
