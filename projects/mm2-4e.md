@@ -22,6 +22,8 @@ who already appeared in the previous Monster Manual and who are getting more
 variants here. Here they are, from A to Z:
 
 - [Angel][2]
+- [Ankheg][3]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
+[3]: {{ "/2021/03/30/ankheg.html" | relative_url }}
