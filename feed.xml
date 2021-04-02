@@ -6,9 +6,174 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Mar 2021 12:37:40 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Mar 2021 12:37:40 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Apr 2021 20:56:41 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Apr 2021 20:56:41 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Ant, Giant</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ant-giant.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;“Ant, Giant” is the actual title for the entry. Now that’s some old-school
+naming! Giant ants have been part of the game since the beginning, so this style
+feels appropriate.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;There isn’t a lot of mystery to giant ants. They’re red ants the size of an
+adult human. Their colonies can have hundreds of individuals, and though that’s
+far less than the teeming millions of a mundane anthill, they end up doing a lot
+more damage due to their larger size. Once a giant ant colony gets going, it
+will swiftly strip the landscape bare for miles around it.&lt;/p&gt;
+
+&lt;p&gt;Most ants are classified as “workers”, and as the name implies they handle the
+actual work of building the colony and keeping it fed. You also have some larger
+variants that are more specialized for combat, and protect the workers. And each
+colony has a single Queen who is responsible for laying eggs and perpetuating
+the hive. Though the queen is unlikely to leave her chambers once the hive is
+established, she’s quite dangerous and remains active throughout her life.&lt;/p&gt;
+
+&lt;p&gt;Despite being of animal intelligence, giant ants possess the same instinct for
+teamwork as their mundane counterparts, which means their colonies are more
+efficiently organized than many sapient societies. They communicate by emitting
+pheromone clouds, and at this scale the chemicals that make up these clouds can
+actually be harmful to non-ants. Giant warrior ants are notorious for using them
+as weapons.&lt;/p&gt;
+
+&lt;p&gt;That bit about “stripping the landscape bare” makes me think giant ants combine
+the traits of both army and leafcutter ants. So they’d both hunt other animals
+directly and cut up the vegetation to serve as bedding for their vast
+underground fungus farms. If that’s the case you do &lt;em&gt;not&lt;/em&gt; want a giant anthill
+anywhere near your territory.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Most giant ants are Medium Natural Beasts, with queens being Large. They have
+low-light vision and tremorsense 10, but none of them are trained in
+Perception. They all have a climb speed equal to their ground speed, though they
+lack Spider Climb and so can’t cling to ceilings.&lt;/p&gt;
+
+&lt;p&gt;There are several types of giant ant and all of them have some sort of
+&lt;strong&gt;Frenzy&lt;/strong&gt; ability, which triggers when another giant and within 10 squares
+drops to 0 HP. The exact effects vary per stat block, but note that if you have
+a bunch of tightly packed ants the death of a single one will trigger Frenzy for
+&lt;em&gt;all the rest&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Level-wise they’re all early-to-mid Heroic, on par with the mundane guards and
+soldiers for most playable peoples. This means fighting the spread of a giant
+ant colony might be one of the common problems a sapient settlement has to deal
+with, alongside bandits, stirges, or marauding goblins.&lt;/p&gt;
+
+&lt;h3 id=&quot;hive-worker&quot;&gt;Hive Worker&lt;/h3&gt;
+
+&lt;p&gt;The weakest and most numerous ant caste. They exist to fulfill the functional
+needs of the colony and aren’t much good in a fight, but there are a &lt;em&gt;lot&lt;/em&gt; of
+them.&lt;/p&gt;
+
+&lt;p&gt;These are Level 1 Minion Skirmishers with ground and climb speeds of 6, and a
+burrow speed of 2 with Tunneling. They’re the only giant ants with a burrow
+speed.&lt;/p&gt;
+
+&lt;p&gt;Their only attack is a &lt;strong&gt;bite&lt;/strong&gt;. Their &lt;strong&gt;Hive Worker Frenzy&lt;/strong&gt; makes them shift 2
+squares, so if you kill one the horde immediately moves to fill the gap.&lt;/p&gt;
+
+&lt;h3 id=&quot;hive-warrior&quot;&gt;Hive Warrior&lt;/h3&gt;
+
+&lt;p&gt;Warriors act as scouts and guards for worker expeditions. They’re Level 2
+Skirmishers with 36 HP and a speed of 8. They attack with a &lt;strong&gt;Piercing Bite&lt;/strong&gt;
+that does physical damage, and also does bonus acid damage if the target was
+already taking ongoing acid damage. The warrior itself can’t inflict this, so
+you’ll want to pair it with a soldier, described below.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Hive Warrior Frenzy&lt;/strong&gt; clears any mark or curse on them, and allows them
+to shift 2 squares. Yes, this will make the party warlock sad.&lt;/p&gt;
+
+&lt;h3 id=&quot;hive-soldier&quot;&gt;Hive Soldier&lt;/h3&gt;
+
+&lt;p&gt;Stronger and scarier than common warriors, soldiers stay inside the hive to
+guard it unless the queen directs them to sally forth. They’re level 3 Soldiers
+with 46 HP and speeds of 6.&lt;/p&gt;
+
+&lt;p&gt;They fight with their &lt;strong&gt;Grasping Mandibles&lt;/strong&gt; that grab the target on a hit. They
+can use their &lt;strong&gt;Acid Sting&lt;/strong&gt; against the grabbed victim, dealing both immediate
+and ongoing acid damage (save ends). Note that this would allow any accompanying
+warriors to get bonus bite damage against the victim.&lt;/p&gt;
+
+&lt;p&gt;When a soldier hits 0 HP it’s wracked by a &lt;strong&gt;Death Convulsion&lt;/strong&gt; (close burst 1
+vs. Reflex) which knocks enemies prone. Its &lt;strong&gt;Hive Soldier Frenzy&lt;/strong&gt; gives it +2
+to attacks for a turn when an ally dies.&lt;/p&gt;
+
+&lt;h3 id=&quot;winged-drones&quot;&gt;Winged Drones&lt;/h3&gt;
+
+&lt;p&gt;These flood out of the colony during mating season, ranging far and wide. At the
+end of the season I guess the males die, and the females shed their wings and
+burrow to become queens and form their colonies.&lt;/p&gt;
+
+&lt;p&gt;A winged drone is a Level 4 Skirmisher with 55 HP. It has ground, climb, and fly
+speeds of 8. Its basic attack is an &lt;strong&gt;Acid Sting&lt;/strong&gt; that does immediate and
+ongoing acid damage, and it can perform a classic &lt;strong&gt;Flyby Attack&lt;/strong&gt; maneuver with
+it. As we already know, this allows the drone to fly its speed without drawing
+opportunity attacks and sting someone at any point along the movement. Its
+&lt;strong&gt;Hive Drone Frenzy&lt;/strong&gt; allows it to shift 2 squares and use the sting.&lt;/p&gt;
+
+&lt;p&gt;Once bloodied, the drone can choose to violently shed its wings in a maneuver
+called &lt;strong&gt;Shredding Wings&lt;/strong&gt; (close blast 2 vs. AC), which does high physical
+damage and causes it to lose its fly speed until the end of the encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;hive-queen&quot;&gt;Hive Queen&lt;/h3&gt;
+
+&lt;p&gt;Like their subjects, queens are of animal intelligence. However, they have an
+instinctive drive for expanding their colony and the capability to direct their
+subjects to go forth and conquer.&lt;/p&gt;
+
+&lt;p&gt;Queens are Level 5 Elite Controllers with the Leader keyword. They’re size
+Large, and any other ants &lt;strong&gt;In the Presence of the Queen&lt;/strong&gt; (aura 10) gain a +2
+bonus to attack and damage. Their greater bulk makes them slower, so they have a
+ground speed of 6 and a climb speed of 2.&lt;/p&gt;
+
+&lt;p&gt;Queens have two basic attacks: a &lt;strong&gt;bite&lt;/strong&gt; and a &lt;strong&gt;kick&lt;/strong&gt;. The kick targets
+Reflex, does a bit of damage, and pushes the target 3 squares. The queen’s
+&lt;strong&gt;Frenzy&lt;/strong&gt; allows her to shift 2 squares and use Kick.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the queen can create an &lt;strong&gt;Acidic Cloud&lt;/strong&gt; on a Close
+Burst 4. This creates a zone that moves with the queen. Any enemy caught inside
+takes 2 damage for each other giant ant that’s also in the zone. When first
+bloodied, the queen issues a chemical &lt;strong&gt;Call to Arms&lt;/strong&gt; that instantly summons
+four giant ant workers to the fight.&lt;/p&gt;
+
+&lt;p&gt;They can also spray their pheromones in an &lt;strong&gt;Acidic Blast&lt;/strong&gt; (area burst 3 within
+10 vs. Will; recharge 5-6) which does acid damage and dazes (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Giant ant encounter groups will tend to contain only the various types of giant
+ants: every other creature is food to them. The sample group is level 1 and has
+1 soldier, 2 warriors and 4 workers.&lt;/p&gt;
+
+&lt;p&gt;Before reading this entry I don’t remember ever seeing much that differentiated
+giant ants from all the other giant bugs, but their MM2 lore, sparse as it is,
+has me unusually inspired. Mundane ant colonies can be a major problem to
+farmers, and the giant version seems to pose even more of an existential threat
+than a nearby bandit or goblin lair would.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/04/02/ant-giant.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/02/ant-giant.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Ankheg</title>
@@ -1473,109 +1638,6 @@ fights against human gryphon cavalry.&lt;/p&gt;
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/02/21/wyvern.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/21/wyvern.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Worg</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;The first time I see the name “Worg” is in the AD&amp;amp;D 1st Edition Monster Manual,
-where it was synonymous with “dire wolf”. The word itself comes from the Lord of
-the Rings, I think. In Fourth Edition, they’re only on the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Worgs are not wolves, though they might be distantly related. Even dire wolves
-are just animals, but worgs are sapient and evil. They also have some distinctly
-un-wolf-like physical traits when you look at them from up close.&lt;/p&gt;
-
-&lt;p&gt;Worgs like the taste of sapient flesh and prefer it over any other prey. They
-live in mazelike warrens, which they decorate with trophies of their
-victims. Worgs on the hunt act as a group, but don’t cooperate very well, since
-each individual is only interested in satisfying its own thirst for murder.&lt;/p&gt;
-
-&lt;p&gt;Worgs willingly ally with other sapient creatures that have a disposition as
-nasty as their own, often carrying these allies into battle as mounts.&lt;/p&gt;
-
-&lt;p&gt;Oh, and the worg also has a larger and meaner relative: the elephant-sized
-gulvoorg, which looks nothing like a wolf even from very far away.&lt;/p&gt;
-
-&lt;p&gt;I’m guessing you won’t find both worgs and normal wolves in the same wilderness
-region - worgs are beefy enough to overpower even dire wolves in direct
-fights. They’d enjoy it, too.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Both “strains” of worg are Natural Magical Beasts. They have trained Perception
-and Darkvision.&lt;/p&gt;
-
-&lt;h3 id=&quot;worg&quot;&gt;Worg&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-worg.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The basic model is Large and a Level 9 Brute with 120 HP. It has a speed of 8
-and its &lt;strong&gt;Frightful Growls&lt;/strong&gt; act as an aura (3) that gives enemies a -1 attack
-penalty and allies a +1 attack bonus. Their only attack is a &lt;strong&gt;bite&lt;/strong&gt; which also
-does ongoing damage on a hit (save ends).&lt;/p&gt;
-
-&lt;p&gt;I guess the main benefit of riding a worg into battle is that you’re always in
-range of its aura.&lt;/p&gt;
-
-&lt;h3 id=&quot;gulvoorg&quot;&gt;Gulvoorg&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-gulvorg.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These monsters are Huge, and Level 16 Elite Brutes with 384 HP. Their speed is
-9, and they still have trained Perception and Darkvision.&lt;/p&gt;
-
-&lt;p&gt;Gulvoorg &lt;strong&gt;bites&lt;/strong&gt; are Reach 2, and always knock prone on a hit. They can
-perform Reach 2 &lt;strong&gt;tail slams&lt;/strong&gt;, which are also considered basic attacks. On a
-hit, they both knock prone and daze (save ends).&lt;/p&gt;
-
-&lt;p&gt;As a standard action they can use &lt;strong&gt;Gulvoorg Fury&lt;/strong&gt; to make both a bite and a
-slam attack, against different targets and with a -2 attack penalty. That
-penalty is completely unnecessary, since we’re talking about an elite monster.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The book gives us two sample encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 10: 3 worgs, 2 razorclaw stalker shifters, and 1 oni night haunter. An
-oni and its evil henchthings.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 17: 2 gulvoorgs and 2 cyclops hewers. It’s even possible the cyclopes
-are riding the gulvoorgs.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Conceptually, I like worgs a lot more than I like dire wolves, and wouldn’t be
-opposed to merging the two again. That way you get sapient evil worgs with the
-interesting mechanical bits of dire wolves. Maybe add some wind powers so they
-can huff, puff, and blow your house down.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/02/19/worg.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/19/worg.html</guid>
         
         <category>dnd4</category>
         
