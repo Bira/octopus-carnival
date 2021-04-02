@@ -12,10 +12,10 @@ Manual][2], and the Monster Manual 2 brings a few more stat blocks for them.
 This is where they add the lore about Shadar-kai seeking extreme sensations to
 stave off the soul-draining malaise of the Shadowfell. As I said in the original
 post, I prefer to ignore this bit. If you want to add it in, the book also
-mentions that if you need to make a deal with them, offerings of novel or
-intense experiences will be well-received.
+mentions that offers of novel and/or intense experiences tend to be
+well-received when one negotiates with shadar-kai.
 
-In this book we get paragon-tier Shadar-kai, which one can meet in the
+In this book we get paragon-tier Shadar-kai, which one can usually meet in the
 Shadowfell proper. They retain the MM1 signature traits (low-light vision and
 the Shadow Jaunt ability), and get a new gimmick in the form of a new status
 effect they can inflict: _shrouded in gloom_. A victim who is shrouded in gloom
