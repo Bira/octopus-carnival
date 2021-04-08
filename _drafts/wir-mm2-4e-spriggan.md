@@ -1,0 +1,149 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Spriggan"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I can't find spriggans in my 2nd edition and earlier books, but I know they're
+in Pathfinder, so they were probably introduced in D&D 3.x. This entry is their
+4e debut. It feels like there's been some condensing here because this entry
+also uses several other names that I'm sure belonged to separate "small evil
+fey" enemies, like "redcap" and "powrie".
+
+## The Lore
+
+Back in the [post on gnomes][2], we already saw that the gnome people used to be
+enslaved by the fomorians in the ancient past, but that they managed to
+escape. Here, we learn that not all of them managed to get away. Those
+unfortunates were eventually twisted into spriggans by fomorian magic. It's
+unclear whether this happened as punishment for the escape attempt, or during
+some subsequent experiment.
+
+The book doesn't describe present-day spriggans as fomorian slaves, so maybe
+they were discarded by their former masters as failures. They live in
+underground settlements excavated under rugged terrain.
+
+Fomorian magic warped spriggan hearts as much as it did their bodies. Soaking
+stuff in the blood of enemies seems to be a big deal to them. Their habit of
+doing that to their hats caused them to also be known as redcaps by other
+sapients. Spriggan communities delight in raiding, tormenting and extracting
+tribute from their weaker neighbors, behaving pretty much like bandit gangs.
+
+## The Numbers
+
+Spriggans are Small Fey Humanoids with low-light vision and a ground speed
+of 6. Their signature ability is **Redcap Zeal**, a free-action encounter power
+that grants them temporary HP when they bloody or defeat an enemy.
+
+### Spriggan Giantsoul
+
+Giantsouls tap into the fomorian magic in their blood, which gives them enhanced
+strength and the ability to stretch their arms to gain a giant's reach. They're
+Level 8 Brutes with 106 HP.
+
+These spriggans fight unarmed, using **slams** as their basic attack. The
+stretch-arm thing comes into play in the **Giantsoul Slam** special attack
+(recharge 4+), which is Reach 2, does the same damage as the slam, and knocks
+prone on a hit. Both attacks deal bonus damage when the spriggan is bloodied.
+
+Once per encounter, the giantsoul can use a **Surprise Slam**, an interrupt that
+triggers when an enemy within 2 squares of them attacks an ally. This allows it
+to use Giantsoul Slam against the triggering enemy, recharging the ability if
+necessary.
+
+They're good frontliners, with a limited ability to protect squishier allies
+when the PCs try to get around them.
+
+### Spriggan Powrie
+
+All spriggans use iron-shod boots as part of their combat gear, but powries have
+a particular dedication to the fine art of stomping. They're Level 7 Skirmishers
+with 79 HP.
+
+The powrie fights with a **sickle** that does light physical damage and inflicts
+ongoing damage. It can also be used in a **Hamstring** special attack that has
+the same effects and also knocks prone and slows for a turn. This recharges when
+the powrie is first bloodied.
+
+Against prone enemies it can use the amusing **Punt The Fallen** attack, which
+deals the same damage as the sickle and pushes 3 squares. The best thing about
+this attack is that it's an at-will minor action!
+
+If the powrie has combat advantage against a creature taking ongoing damage,
+attacking that creature with any of the above will also increase their ongoing
+damage by 5.
+
+Finally, the **Blood Slide** passive trait prevents the powrie from provoking
+opportunity attacks when leaving a square adjacent to a creature who's bloodied
+or taking ongoing damage.
+
+So most of the time a powrie will be attacking enemies with the sickle and
+moving around the battlefield with the aid of Blood Slide in order to spread as
+much ongoing damage around as possible, and will then seek combat advantgae
+against a single target. Hamstring and Punt the Fallen is an hilarious
+combination, and the latter means powries pair really well with other enemies
+who can drop targets prone more often. Multiple powries in a fight mean you can
+begin an impromptu soccer match with a prone PC as the ball.
+
+### Spriggan Thorn
+
+The spriggan thorn is armed with a short sword and a light shield, which are
+imbued with a curse of thorns. The sword itself is enveloped in them, and the
+spriggan can curse an enemy and cause thorns to spring from under their
+skin. It's a Level 6 Soldier with 71 HP.
+
+The **Short Sword** damages and inflicts ongoing damage (thorns!). It can be
+enhanced with the **Drowsing Puncture** power as a minor action. This makes the
+next attack daze the target for a turn and knock them prone, if it hits. It
+recharges when the thorn is first bloodied.
+
+The curse is called **Mark of Thorns**, and it's an encounter power that
+automatically hits a target in a Close Burst 5. A cursed target can't make
+opportunity attacks against the thorn, and takes 4 damage at the end of any turn
+in which it didn't attack the thorn. Any allies of the target that start the
+turn adjacent to them also take 4 damage.
+
+Drowsing Puncture is a fine skill to use against PC defenders, and the Mark is
+quite versatile. When used against a defender, it allows the thorn to slip past
+the PC front-line unmolested. It also works to diver the attention of any PC who
+would normally gain more by attacking one of the spriggan's more fragile
+allies. They pair really well with powries, who can end up increasing the
+ongoing damage caused by the swords.
+
+### Spriggan Witherer
+
+Witherers are spriggan spellcasters who specialize in harmful weather control
+magic. They can probably cause serious trouble to agrarian communities with
+rituals, and they can also create more localized effects useful in
+combat. They have an obsession with soaking the earth in blood, so they pair
+well with enemies with a similar imagery. They're Level 8 Artillery with 70 HP
+and the Leader keyword.
+
+Their melee attack is a **whithering touch** vs. Reflex that deals necrotic
+damage. Their main single-target ranged attack is **Sun Scorch** (Ranged 10
+vs. Reflex) dealing fire and radiant damage. They can use a spell named
+**Flattening Wind** either as a close blast 3 or as an area 3/range 10 attack
+vs. Fortitude. This deals physical damage, pushes 2 squares, and knocks
+prone. It recharges when they're first bloodied.
+
+After they're bloodied, they can use **Blood For the Earth** at will. This is an
+area 2/range 10 attack that deals light physical damage, inflicts ongoing
+damage, and gives 5 temporary HP to any allies caught in the area.
+
+This makes for an artillery threat that starts off fairly aggressive and
+switches to more of a support role as the fight proceeds.
+
+## Sample Encounters and Final Impressions
+
+Spriggans are fairly good at fulfilling the "small evil fey" niche, and I love
+the ties to fomorian lore. There are some good synergies between the stat blocks
+presented here,
+
+Spriggans can still be found working for fomorians, but some also work for evil
+eladrin or run their own rackets. They keep dangerous plants and animals around
+their settlements for protection.
+
+The sample encounter is level 9: an evil eladrin twilight incanter with a pet
+shambling mound and a quartet of spriggan goons (2 giantsouls, 2 witherers).

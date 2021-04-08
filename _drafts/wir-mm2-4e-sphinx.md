@@ -1,0 +1,81 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Sphinx"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Sphinxes already made their 4e debut on the [Monster Manual][2], and the MM2
+gives us an additional variant.
+
+## The Lore of the Sphinx Mystery
+
+All sphinxes have a common origin as sacred guardian beasts, as described in the
+[Monster Manual entry][2], but not all of them are exactly alike. This stat
+block represents an individual with preferences and abilities different from
+those of the typical MM1 sphinx.
+
+All sphinxes have the ability to propose challenges that help separate intruders
+from visitors who have a right to be at the places they guard. Riddles are a
+classic but are far from the only option, and the MM1 entry made some effort to
+stress that part. Here, though, we go the other way.
+
+The Sphinx Mystery is an individual who's _way_ into riddles. She doesn't just
+use them as her basic authentication scheme: she also uses them as weapons in
+the middle of an actual fight. She likes riddle games so much that she might
+just choose to keep playing rather than fighting with lethal intent, if her
+opponents can keep the game fun for her.
+
+Intruders who can't answer those riddles are in real trouble, though, because
+they do real damage and are as sticky as warlock curses.
+
+## The Numbers
+
+The Sphinx Mystery is a Level 19 Brute with 224 HP. Despite being a regular, she
+still has an action point. This might be an editorial error, but it's fun so I'd
+keep it. She also has low-light vision, and moves at ground and air speeds of 6.
+
+Most of her attacks are part of the standard lion beast arsenal. The likely
+fight-opener is a a **Terrifying Roar** (encounter) that targets Fortitude,
+deals thunder damage, pushes 5 squares, and knocks prone. Her basic attack are
+**Ancient Claws** that do heavy damage, and she can also use a **Bite
+of Ages** that deals light damage, knocks prone, and immobilizes with the weight
+of history (save ends).
+
+As a minor action, the Mystery can use **Riddle Me This** (Ranged 10). This is
+an at-will ability that represents the sphinx compelling someone to solve a
+riddle. This "hits" automatically, and dazes the target until the riddle is
+answered or until the encounter ends. Answering the riddle requires spending a
+minor action and succeeding at a DC 25 History check. Anyone can attempt the
+test on their turn, not just the affected PC.
+
+If the targetted PC doesn't attempt to solve the riddle on their turn, they take
+2d8 psychic damage at the end of that turn. They also take this damage if
+someone else answers the riddle for them. This damage is light, but about in
+line with the amount of "traditional" ongoing damage an effect at this level
+would cause.
+
+Note that the target will be dazed, which means that if they attempt to answer
+the riddle, that's the only thing they can do on their turn. So it might be
+better to let an unaffected buddy answer it and eat a single instance of that
+psychic damage.
+
+The Mystery's last attack is the amusingly named **Corrective Maul**, which is a
+claw attack that does even more damage and recharges whenever anyone fails to
+answer one of her riddles.
+
+## Sample Encounters and Final Impressions
+
+The riddle mechanic is awesome! It makes the sphinx very controllery despite her
+being a Brute. Since the riddle is ranged, you'll want to delay her entry into
+melee combat a bit until she can apply it to every PC. As a regular monster, the
+sphinx will always be found alongside a few buddies, so they can help with that.
+
+The sample encounter is level 16: 2 nothic cacklers, 2 savage minotaurs, and a
+sphinx mystery. This is either an evil sphinx running with other assorted
+marauders, or a more traditional guardian who has managed to recruit several
+would-be intruders to her service through riddles and bets.
+
+
+[2]: {{ "/2020/12/27/sphinx.html" | relative_url }}
