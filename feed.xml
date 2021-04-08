@@ -6,9 +6,140 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Apr 2021 10:56:56 +0000</pubDate>
-    <lastBuildDate>Thu, 08 Apr 2021 10:56:56 +0000</lastBuildDate>
+    <pubDate>Thu, 08 Apr 2021 11:05:39 +0000</pubDate>
+    <lastBuildDate>Thu, 08 Apr 2021 11:05:39 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Archons, Earth</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-archons-earth.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by Jim Nelson. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Archons in the 4e sense were introduced in the &lt;a href=&quot;/octopus-carnival/2019/02/03/wir-mm-4e-archons.html&quot;&gt;Monster Manual&lt;/a&gt; as soldiers
+created by the primordials to face the angelic legions of the gods in
+battle. Though some still serve the primordials, others sell their services as
+mercenaries to other elemental clients.&lt;/p&gt;
+
+&lt;p&gt;The first MM had stats for fire and ice archons, and this one brings us three
+new types: earth, storm, and water. Earth and water archons already made an
+appearance in our Let’s Read because they’re in the Monster Vault, but
+chronologically this is their first appearance in the edition. There are enough
+stat blocks in here that I feel I can give each type its own post. We start with
+Earth Archons.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The basic lore for archons remains the same, as outlined in my post about their
+&lt;a href=&quot;/octopus-carnival/2019/02/03/wir-mm-4e-archons.html&quot;&gt;first Monster Manual entry&lt;/a&gt;. Earth archons have some extra bits specific to
+them in this book.&lt;/p&gt;
+
+&lt;p&gt;Earth archons look like faceless stone humanoids, following the general archon
+theme. Their armor and weapons are made of copper-colored metal with crystal and
+obsidian accents. Their military strategy follows the “patient earth” theme:
+they attack with slow and inexorable advances, and take the time to occupy and
+fortify any positions they take as they do so.&lt;/p&gt;
+
+&lt;p&gt;The greatest earth archon fortress is Thrak-Harda in the Elemental Chaos, which
+is ruled by the stone titan King Brakkamul and was built to guard the Diamond of
+Despair. Legend has it that the fortress is meant to protect the outside world
+from the Diamond, and not the other way around. No one seems to know why it’s so
+dangerous, but the Dao (cousins of the djinns and efreets) have been obsessed
+with it for a very long time.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Earth archons are Medium Elemental Humanoids with the Earth keyword. They have
+Tremorsense 20 and are immune to disease, poison, and petrification. Their
+ground speed is 6 with Earth Walk, which means they ignore “geological”
+difficult terrain.&lt;/p&gt;
+
+&lt;h3 id=&quot;earth-archon-ground-rager&quot;&gt;Earth Archon Ground Rager&lt;/h3&gt;
+
+&lt;p&gt;This archon is a Level 14 Controller with 143 HP and a bunch of earth-bending
+powers. These start with &lt;strong&gt;Ground Liquefaction&lt;/strong&gt;, an aura (5) that slows any
+creature without the Earth keyword that starts its turn inside and doesn’t move
+during it. I guess this is meant to simulate then slowly sinking into shallow
+quicksand, but as written it also affects fliers. Maybe tendrils of mud reach
+out to grasp them.&lt;/p&gt;
+
+&lt;p&gt;In melee, ragers use &lt;strong&gt;slams&lt;/strong&gt; and &lt;strong&gt;shoves&lt;/strong&gt; to fight. The former are basic
+attacks, and the later are a bit weaker but push the target 4 squares and knock
+them prone. Two words: stone sumotori.&lt;/p&gt;
+
+&lt;p&gt;At range they can attack with a spell called &lt;strong&gt;Raging Earth&lt;/strong&gt; (ranged 20
+vs. Reflex) which counts as a basic attack, does a little damage and immobilizes
+(save ends). Less often they can cause &lt;strong&gt;Ground Eruptions&lt;/strong&gt; (area burst 1 within
+10 vs. Reflex; recharge 5-6) which do a bit more damage and knock prone. On a
+miss, they do half damage and still knock prone.&lt;/p&gt;
+
+&lt;p&gt;The book says ground ragers are drawn to geologically active areas, so you can
+expect additional earth-based hazards when fighting them. Good luck staying on
+your feet.&lt;/p&gt;
+
+&lt;h3 id=&quot;earth-archon-seismic-striker&quot;&gt;Earth Archon Seismic Striker&lt;/h3&gt;
+
+&lt;p&gt;The rank and file of earth archon armies is made up of Level 16 Soldiers with
+160 HP. They wear plate and wield heavy shields and war picks. They also carry
+javelins for throwing.&lt;/p&gt;
+
+&lt;p&gt;Those &lt;strong&gt;picks&lt;/strong&gt; are high-crit weapons that do a mix of physical and thunder
+damage. The &lt;strong&gt;javelins&lt;/strong&gt; have range 10/20 and mark the target for a turn on a
+hit.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Seismic Stomp&lt;/strong&gt; (close burst 3 vs. Fortitude) to deal area
+damage. A miss does half damage. In either case, the targets are knocked
+prone. This is a good thing for seismic strikers because the &lt;strong&gt;Ground Striker&lt;/strong&gt;
+trait makes their attacks stronger against prone targets.&lt;/p&gt;
+
+&lt;p&gt;Seismic Strikers have a version of the fighter’s &lt;strong&gt;Combat Superiority&lt;/strong&gt;
+trait, gaining a +5 bonus to opportunity attack rolls and stopping the movement
+of any target they hit with such an attack.&lt;/p&gt;
+
+&lt;p&gt;As written, the Stomp is not a “friendly” attack, but I’d definitely make at
+least other earth archons immune to it. This would allow strikers to stay closer
+together while still keeping enough distance from each other to lure foolish
+enemies into the “gaps” in their formation, where they’ll be stopped cold by
+opportunity attacks and knocked prone by overlapping stomps.&lt;/p&gt;
+
+&lt;h3 id=&quot;earth-archon-rumbler&quot;&gt;Earth Archon Rumbler&lt;/h3&gt;
+
+&lt;p&gt;Rumblers are shock troops at the spearhead of any attack, which I imagine makes
+them look like a living avalanche from afar. They are Level 17 Brutes with 204
+HP, wearing plate and wielding warhammers.&lt;/p&gt;
+
+&lt;p&gt;They can use the &lt;strong&gt;warhammers&lt;/strong&gt; either for basic attacks or for &lt;strong&gt;Avalanche
+Strikes&lt;/strong&gt; (vs. Reflex), which do less damage but knock prone on a hit. Their
+&lt;strong&gt;Thundering Might&lt;/strong&gt; trait gives them bonus damage when adjacent to more than
+one enemy, so they really like to be where the fighting is fiercest.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We get a couple of sample encounters here. A level 14 one with a mix of earth,
+fire and ice archons; and a level 18 one with a troop of assorted earth archons
+in the employ of a cambion hellfire magus.&lt;/p&gt;
+
+&lt;p&gt;Earth archons seem to have a stronger theme than the MM archons, and better
+supported by their mechanics. Their damage is still low due to the math bug, but
+other than that they’re generally well-built and should be OK to use after a
+damage update.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Ant, Giant</title>
@@ -1532,112 +1663,6 @@ Folk.&lt;/p&gt;
         <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/02/27/yuan-ti.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/27/yuan-ti.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Wyvern</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-wyvern.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Wyverns have been in the game since its beginnings (or at least since
-BECMI). Here, they are present only on the Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Wyverns are the most famous “not-quite-dragons” of D&amp;amp;D, and the ones most likely
-to be confused with real dragons from a distance. The most obvious visual
-difference is that wyverns lack front legs.&lt;/p&gt;
-
-&lt;p&gt;There are others, too, which become more evident when you interact more closely
-with them. Unlike dragons, wyverns are non-sapient animals, and they also lack
-magical breath weapons. Instead, they have a stinger at the tip of their tails
-that can inject prey with a potent venom. They’re not as relentlessly voracious
-as some of the other fantastic predators described in this book, but I imagine
-they still might put a strain on any herds on their chosen territory.&lt;/p&gt;
-
-&lt;p&gt;In the wild, wyverns live in small groups called “flights”, which roost in high
-places like mountains and hunt the surrounding region together. If you see a
-flight of wyverns up close, it’s because they’re trying to eat you.&lt;/p&gt;
-
-&lt;p&gt;Wyverns can be tamed, but the process has to start shortly after they’re
-born. As you might expect, there’s a market for eggs and hatchlings, and sapient
-opponents might bring their pet wyverns to the fight.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get stats for two species of wyverns here. Both are Large Beasts with the
-Reptile keyword, and fight with their natural weapons: a bite, claws, and the
-stinger. Wyverns are good fliers and much more agile in the air than on the
-ground.&lt;/p&gt;
-
-&lt;p&gt;Note that wyvern damage as written is notoriously weak. Fixing this to use the
-updated math should be a priority before you include them in an encounter.&lt;/p&gt;
-
-&lt;h3 id=&quot;wyvern&quot;&gt;Wyvern&lt;/h3&gt;
-
-&lt;p&gt;The more common variety is a Large Natural Beast with the Reptile and Mount
-Keywords, and a Level 10 Skirmisher with 106 HP. Their land speed is 4, and
-their flight speed is 8 with Hover.&lt;/p&gt;
-
-&lt;p&gt;Wyverns have two basic attacks: a &lt;strong&gt;bite&lt;/strong&gt; with no special effects beyond
-damage, and a slightly weaker attack with their &lt;strong&gt;claws&lt;/strong&gt;, which can only be
-done from the air and knocks prone on a hit. &lt;strong&gt;Flyby Attack&lt;/strong&gt; allows them to fly
-their speed and make one of these attacks at any point along the way without
-drawing opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;They can also &lt;strong&gt;sting&lt;/strong&gt;, of course, which does a little less damage than the
-claw and triggers a secondary attack vs. Fortitude that deals ongoing poison
-damage on a hit (save ends).&lt;/p&gt;
-
-&lt;p&gt;If used as a mount, the wyvern’s &lt;strong&gt;aerial agility&lt;/strong&gt; gives its rider +2 to all
-defenses.&lt;/p&gt;
-
-&lt;p&gt;I’m guessing the wyvern doesn’t bite very often. It’s going to use flyby attacks
-to knock people prone, or sting if that’s not practical. Only a prone, poisoned
-target will get the bite.&lt;/p&gt;
-
-&lt;h3 id=&quot;fell-wyvern&quot;&gt;Fell Wyvern&lt;/h3&gt;
-
-&lt;p&gt;A larger species which originated in the Shadowfell but is also present in
-places where that plane intersects with the world. It’s a Large Shadow Beast and
-a Level 24 Skirmisher with 228 HP. Despite not being undead, it has Resist 10
-Necrotic and Vulnerable 5 Radiant. Its land speed is 6, and its fly speed is 12
-with Hover.&lt;/p&gt;
-
-&lt;p&gt;Fell Wyverns fight mostly like wyverns with bigger numbers, and have all the
-same attacks. Their venom causes “necrotic and poison” damage, so it’s harder to
-resist. They can also use a &lt;strong&gt;pestilent breath&lt;/strong&gt; (close blast 5 vs. Fortitude;
-recharge 5-6) that does immediate and ongoing necrotic damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;There’s a single sample encounter: level 10, an ettin marauder, a basilisk, and
-2 wyverns.&lt;/p&gt;
-
-&lt;p&gt;I also imagine either wyvern is a pretty close fit to those fell beasts the
-Ringwraiths rode in Lord of the Rings, though their actual level would depend on
-how high-powered you view that story as.&lt;/p&gt;
-
-&lt;p&gt;Given that wyverns can be mounts, the most clichéd use for them would be to have
-them as the “hostile humanoid” flying mount of choice, to have proper aerial
-fights against human gryphon cavalry.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/02/21/wyvern.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/02/21/wyvern.html</guid>
         
         <category>dnd4</category>
         
