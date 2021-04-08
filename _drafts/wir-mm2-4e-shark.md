@@ -39,7 +39,7 @@ make those subterranean sharks even larger and stronger than the typical
 specimen presented in this entry.
 
 Sahuagin and kuo-toa usually steer clear of fleshtearer sharks because they're
-too dangerous to tame, but sometimes a heroic trained among them will manage the
+too dangerous to tame, but sometimes a heroic trainer among them will manage the
 feat. In this case, the "tame" flesh-tearer is used in raids against large
 ships, eating anyone who falls overboard and biting holes in the hull.
 

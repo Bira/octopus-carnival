@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Let's Read the 4e Monster Manual 2: Archons, Earth"
+image: /assets/wir-mm2-4e-archons-earth.png
 tags:
     - dnd4
     - lets-read
@@ -10,7 +11,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-archons-earth.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2008 Wizards of the Coast
+    Illustration by Jim Nelson. Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}
