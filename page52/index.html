@@ -18,7 +18,7 @@
 <meta property="twitter:title" content="Octopus Carnival" />
 <meta name="twitter:site" content="@mestre_bira" />
 <script type="application/ld+json">
-{"description":"A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.","url":"https://bira.github.io/octopus-carnival/page52/","headline":"Octopus Carnival","@type":"WebPage","@context":"https://schema.org"}</script>
+{"description":"A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.","url":"https://bira.github.io/octopus-carnival/page52/","@type":"WebPage","headline":"Octopus Carnival","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/octopus-carnival/css/main.css"><link type="application/atom+xml" rel="alternate" href="https://bira.github.io/octopus-carnival/feed.xml" title="Octopus Carnival" /><script>
 if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNotTrack === "yes" || navigator.msDoNotTrack === "1")) {
@@ -64,6 +64,98 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Apr 16, 2018</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2018/04/16/deterministic-heroic-feats.html">Deterministic Heroic Feats</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure>
+  <img src="https://bira.github.io/octopus-carnival/assets/Lucky-Paladin.jpg"/>
+  <figcaption>
+    This should be easier, too.
+    <a href="http://esoacademy.com/builds/lucky-paladin/">
+      (image source)
+    </a>
+  </figcaption>
+</figure>
+
+<p>As I mentioned in my recent <a href="/octopus-carnival/2018/04/06/quick-and-dirty-technical-grappling.md">Quick and Dirty Technical Grappling</a> post, the
+biggest GURPS showstopper in my experience has been recalculating ST scores on
+the fly, and this wasn’t only a Technical Grappling issue. Today I’ll try to
+tackle the other rule where this issue has bit me: The Blessed (Heroic Feats)
+advantage.</p>
+
+<p>This is one of the most powerful Holy Warrior abilities in both versions of
+Dungeon Fantasy, and it allows you to temporarily increase your ST, DX, or
+HT. The problem here is that the increase is <em>variable</em>, expressed in dice (+1d
+or +2d). It’s also an increase that applies to the <em>full</em> attribute, which means
+the following:</p>
+
+<ul>
+  <li>
+    <p>Increasing ST changes your HP, Basic Lift and base damage.</p>
+  </li>
+  <li>
+    <p>Increasing DX changes your Basic Speed and potentially Move.</p>
+  </li>
+  <li>
+    <p>Increasing HT changes your FP, your Basic Speed and potentially your Move.</p>
+  </li>
+</ul>
+
+<p>Of these, the HP and FP changes are pretty straightforward. Basic Speed changes
+are the next easiest to calculate on the fly, since each extra point of DX or HT
+changes it by 0.25. Basic Lift is not too bad, since the formula for it is easy
+to memorize (ST * ST/10 kg, or twice that in pounds).</p>
+
+<p>But then you get to base damage, and the gears of your game grind to a halt
+while you look it up in a table. Now, I’ve been dealing with GURPS for a number
+of years now so I know that this table is in page 16 of the Basic Set, but
+people who are new to the system won’t have that memorized. And knowing that
+didn’t help me in the event that prompted me to write these articles, as I was
+using the Dungeon Fantasy RPG and had to look up the table like anyone else who
+is new to those books.</p>
+
+<p>There is actually a specific algorithm for figuring out your change in basic
+damage, but it’s fiddly enough that finding and consulting the table is usually
+quicker. And whether you calculate or look up your new basic damage, you still
+have use that to figure out the damage of your actual attacks, with things like
+weapon modifiers, Weapon Master, or high Karate bonuses.</p>
+
+<h2 id="my-solution-deterministic-heroic-feats">My Solution: Deterministic Heroic Feats</h2>
+
+<p>The Heroic Feats advantage now increases your attribute by a fixed amount: 4 per
+level. This still lasts for 3d seconds, to still keep the favor of the gods
+<em>somewhat</em> fickle. GMs who want to get rid of that remaining bit of randomness
+can just have it last 10 seconds instead.</p>
+
+<p>When you take the Heroic Feats advantage, write down your new total stats
+somewhere, and use those when the power is active.</p>
+
+<p><strong>Example</strong>: Our friend <a href="/octopus-carnival/2017/10/13/pathfinder-dfrpg-holy-warrior.html">Seelah</a> has ST 13 and Heroic Might 1, so in a
+separate space in her character sheet we record her stats with ST 17: Basic Lift
+28.9kg and Damage 1d+2/3d-1. We also pre-calculate her enhanced sword damage (3d
+cut or 1d+4 imp). When Seelah uses Heroic Might, we refer to those stats instead
+of her usual ones.</p>
+
+<p>If she later increases Heroic Might to its maximum level of 2, her enhanced
+strength becomes 21, so we recalculate her secondary stats: Basic Lift 44.1kg
+and Damage 2d/4d-1. Her sword damage becomes 4d cut or 2d+2 imp.</p>
+
+<p>If later still she buys Weapon Master, we apply the damage bonuses from that
+advantage to both sets of stats. Her normal sword damage becomes 2d+4 cut/1d+4
+imp, and her enhanced sword damage becomes 4d+8 cut/2d+6 imp. Now that’s what I
+call a smite!</p>
+
+
+          </div>
+        </article>
+      </li>
     
       <li>
         <span class="post-meta">Apr 6, 2018</span>
@@ -469,138 +561,6 @@ Basic Move 7.</p>
     </li>
   </ol>
 </div>
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 17, 2018</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2018/02/17/pathfinder-dfrpg-martial-artist.html">Pathfinder Iconics in the DFRPG: Sajan</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>In this post I continue to write up the iconic characters from Pathfinder for
-use in the Dungeon Fantasy Roleplaying Game. Links to all of them will appear on
-the <a href="/octopus-carnival/projects/pathfinder-iconics">project page</a>, which also contains the links to the GURPS Dungeon
-Fantasy versions.</p>
-
-<p>Today’s template is the Martial Artist, which means today’s character is Sajan
-the Monk. Here he is:</p>
-
-<figure>
-  <img src="https://bira.github.io/octopus-carnival/assets/Sajan.jpg"/>
-  <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
-</figure>
-
-<p>I think he looks pretty cool! His <a href="http://pathfinder.wikia.com/wiki/Sajan_Gadadvara">bio</a> and <a href="http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/sajan.html">official stats</a> give us the
-following information:</p>
-
-<ul>
-  <li>
-    <p>He was born in Vudra, his world’s India analogue, where he was a member of the
-warrior caste along with his beloved twin sister Sajni. Even after they were
-posted to separate barracks at the age of 12 they still met regularly to spar
-and hang out.</p>
-  </li>
-  <li>
-    <p>Sajni was given away as part of a peace agreement, and Sajan ran after her. He
-tracked her down to Absalom, his world’s “big cosmopolitan city”, and has been
-looking for her since.</p>
-  </li>
-  <li>
-    <p>As a monk he’s quite acrobatic and prefers to rely on his flurry of blows in
-combat. He might also grapple or trip opponents with his hooked “temple
-sword” if that’s more tactically advantageous.</p>
-  </li>
-</ul>
-
-<p>The <a href="/octopus-carnival/gurps/2016/12/13/pathfinder-df-monk.html">GURPS Dungeon Fantasy version</a> used the stats for a khopesh from GURPS
-Low-Tech for the “temple sword”. Since this one is restricted only to the
-material in the DFRPG boxed set, we go with the Heavy Falchion stats and give up
-on the rules for weapon hooks. We also had to lose the gauntlets, as his light
-cloth armor is a bit heavier here. Sajan continues to be a very effective
-combatant either with his sword or with his fists, and has most of the abilities
-people have come to associate with monks in d20.</p>
-
-<h2 id="sajan-250-point-human-martial-artist">Sajan, 250-point Human Martial Artist</h2>
-
-<p><strong>ST</strong> 11 {10}; <strong>DX</strong> 16 {120}; <strong>IQ</strong> 10 {0}; <strong>HT</strong> 12 {20}</p>
-
-<p>Damage 1d/2d-1; BL 12.1kg; HP 11; Will 11 {5}; Per 10; FP 12; Basic Speed
-7.00; Basic Move 8 {5}</p>
-
-<p><strong>Advantages</strong></p>
-
-<ul>
-  <li>Chi Talent 2 {30}</li>
-  <li>Mantis Strike {9}</li>
-  <li>Tiger Sprint {9}</li>
-  <li>Trained by a Master {30}</li>
-  <li>Weapon Master (Heavy Falchion) {20}</li>
-</ul>
-
-<p><strong>Disadvantages</strong></p>
-
-<ul>
-  <li>Disciplines of Faith (Chi Rituals) {-10}</li>
-  <li>Honesty (12) {-10}</li>
-  <li>No Sense of Humor {-10}</li>
-  <li>Obsession (12) (Find my sister) {-10}</li>
-  <li>Sense of Duty (Adventuring Companions) {-5}</li>
-  <li>Vow (Vegetarianism) {-5}</li>
-</ul>
-
-<p><strong>Skills</strong></p>
-
-<ul>
-  <li>Acrobatics (H) DX-1 {2} - 15</li>
-  <li>Broadsword (A) DX+1 {4} - 17</li>
-  <li>Climbing (A) DX-1 {1} - 15</li>
-  <li>Fast-Draw (Shuriken) (E) {1} - 16</li>
-  <li>Hiking (A) HT-1 {1} - 11</li>
-  <li>Judo (H) DX {4} - 16</li>
-  <li>Jumping (E) DX {1} - 16</li>
-  <li>Karate (H) DX {4} - 16</li>
-  <li>Meditation (H) Will-1 {2} - 10</li>
-  <li>Running (A) HT-1 {1} - 11</li>
-  <li>Stealth (A) DX-1 {1} - 15</li>
-  <li>Tactics (H) IQ {4} - 10</li>
-</ul>
-
-<p><strong>Special Skills</strong></p>
-
-<p>All include +2 from Chi Talent.</p>
-
-<ul>
-  <li>Blind Fighting (VH) Per {2} - 10</li>
-  <li>Body Control (VH) HT {2} - 12</li>
-  <li>Immovable Stance (H) DX+1 {2} - 17</li>
-  <li>Light Walk (H) DX+1 {2} - 17</li>
-  <li>Parry Missile Weapons (H) DX+1 {2} - 17</li>
-  <li>Pressure Points (H) IQ+1 {2} - 11</li>
-  <li>Push (H) DX+1 {2} - 17</li>
-  <li>Throwing Art (H) DX+1 {2} - 17</li>
-</ul>
-
-<p><strong>Equipment</strong></p>
-
-<p>$802.0, 12.1kg. No Encumbrance, but only just.</p>
-
-<ul>
-  <li>Ordinary Clothing [Torso, Limbs]: Free, 1kg.</li>
-  <li>Light Cloth Armor [Body, Limbs]: DR 1. $137, 8.25kg.</li>
-  <li>Temple Sword [Torso]: As Large Falchion. Damage 2d+5 cut or 1d+1 imp. $625,
-2.25kg.</li>
-  <li>Pouch [Torso]: Holds 1.5kg of small items. $10, 0.1kg.</li>
-  <li>Star Shuriken x5 <strong>[Pouch]</strong>: Damage 1d+1 cut. $15, 0.25kg.</li>
-  <li>Spike Shuriken x5 <strong>[Pouch]</strong>: Damage 1d imp. $15, 0.25kg.</li>
-  <li>$198 in coin.</li>
-</ul>
-
 
           </div>
         </article>
