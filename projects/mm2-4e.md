@@ -25,9 +25,11 @@ variants here. Here they are, from A to Z:
 - [Ankheg][3]
 - [Ant, Giant][4]
 - [Archon, Earth][5]
+- [Archon, Storm][6]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
 [3]: {{ "/2021/03/30/ankheg.html" | relative_url }}
 [4]: {{ "/2021/04/02/ant-giant.html" | relative_url }}
 [5]: {{ "/2021/04/08/archon-earth.html" | relative_url }}
+[6]: {{ "/2021/04/20/archons-storm.html" | relative_url }}
