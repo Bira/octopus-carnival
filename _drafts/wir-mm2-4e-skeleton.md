@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-archons-skeleton.png" | absolute_url }}"/>
+  <figcaption>
+     Illustration by Adam Gilespie. Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The first Monster Manual already included [plenty of skeletons][2], so this time
 we just get a couple more of them. The basic lore remains the same and you can
 see it in the link above.
@@ -16,9 +25,9 @@ A Large-sized skeleton that used to belong to an ogre, minotaur, oni, or similar
 creature. Not having to haul all that flesh around makes it surprisingly fast
 for its size.
 
-This is a Large Natural Animade with the Undead keyword, and a Level 7 Soldier
+This is a Large Natural Animate with the Undead keyword, and a Level 7 Soldier
 with 80 HP. It has all usual skeleton traits: darkvision, immunity to disease
-and poinson, resist 10 necrotic, vulnerable 5 radiant. It runs at speed 8.
+and poison, resist 10 necrotic, vulnerable 5 radiant. It runs at speed 8.
 
 The skeleton wields a Reach 2 **greatclub**, and it can use it to perform a
 **Crushing Blow** (reach 2; recharge 6+) that does more damage and knocks the
@@ -27,7 +36,7 @@ target prone. Its superb agility is expressed as **Threatening Reach 2**.
 ## Skeletal Steed
 
 A horse skeleton that can act as a fearless and tireless mount, proving that
-mundane horses truly suck in D&D. Even a dead horse is better mount than a live
+mundane horses truly suck in 4e. Even a dead horse is better mount than a live
 one.
 
 Skeletal horses are Level 3 Skirmishers with 47 HP, darkvision, and immunity to
