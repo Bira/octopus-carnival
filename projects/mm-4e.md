@@ -257,6 +257,7 @@ After this, we get right on the monsters:
   - [Wight][182]
   - [Wolf][183]
   - [Worg][184]
+  - [Wraith][189]
   - [Wyvern][185]
 
 - Y
@@ -456,3 +457,4 @@ in the Monster Manual.
 [186]: {{ "/2021/02/27/yuan-ti.html" | relative_url }}
 [187]: {{ "/2021/02/28/zombie.html" | relative_url }}
 [188]: {{ "/2021/03/01/traits-appendix.html"  | relative_url }}
+[189]: {{ "/2021/04/22/wraith.html" | relative_url }}
