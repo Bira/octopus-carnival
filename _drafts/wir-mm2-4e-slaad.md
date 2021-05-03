@@ -13,6 +13,15 @@ slaad spawning cycle.
 
 ## Flux Slaad
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-slaad-flux.png" | absolute_url }}"/>
+  <figcaption>
+    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Flux slaads seem to be the runts of the slaad family. They're weaker and
 stupider than their relatives, they can't spawn, and their chaotic mutations are
 at best a mixed blessing. Still, being weaker actually means they might have an
@@ -45,6 +54,15 @@ slaad takes damage from its current weakness, you roll the die again and
 determine a new weakness.
 
 ## Slaad Spawn
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-slaad-spawner.png" | absolute_url }}"/>
+  <figcaption>
+    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Most slaads reproduce by infecting victims with a disease called Chaos Phage,
 which causes slad tadpoles to gestate within the victim's flesh. The tadpole
