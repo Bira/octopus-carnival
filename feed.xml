@@ -6,9 +6,136 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Apr 2021 14:22:15 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Apr 2021 14:22:15 +0000</lastBuildDate>
+    <pubDate>Mon, 03 May 2021 16:41:56 +0000</pubDate>
+    <lastBuildDate>Mon, 03 May 2021 16:41:56 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Archons, Water</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-archons-water.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by Eric Williams. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Finishing our look at the MM2 Archons entry we arrive at Water Archons. All of
+the lore we saw on the &lt;a href=&quot;/octopus-carnival/2019/02/03/wir-mm-4e-archons.html&quot;&gt;original archon post&lt;/a&gt; remains valid here, and as
+usual they have some additional bits of specific lore to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Water archons were literally built to rule the seas in a military campaign, a
+task they do very well. They can fight on land just fine, too, and are fond of
+using rivers and other waterways as a road network which allows them to move
+through enemy territory almost unoposed and stage raids and invasions from
+behind their defensive lines. They advance like the tides, pulling back any
+enemies who try to escape them. Their gear uses bronze- or brass- colored metal
+which is often enameled in blues and greens.&lt;/p&gt;
+
+&lt;p&gt;When moving in force, water archons ride around in ships which are themselves
+made out of water, shaped by magic. These also work as submarines, being able to
+submerge and surface at will and move just as fast in either mode. Not needing
+air makes the whole process a lot simpler.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three different stat blocks for water archons. All are Medium Elemental
+Humanoids with the Aquatic and Water keywords. They all have a swim speed, of
+course. When a water archon is hit by cold damage, it’s also slowed for a
+turn. That doesn’t quite balance out its excellent resistances though.&lt;/p&gt;
+
+&lt;p&gt;Wather archons have Resist Acid 10, and are immune to disease, poison and &lt;em&gt;all
+forced movement&lt;/em&gt;. Yep, you read that right. They also get a +2 on saves against
+the immobilized, restrained, or slowed conditions. I think this might be the
+first time I’ve seen a whole class of “Fuck You, Controller” monsters.&lt;/p&gt;
+
+&lt;h3 id=&quot;water-archon-shoal-reaver&quot;&gt;Water Archon Shoal Reaver&lt;/h3&gt;
+
+&lt;p&gt;These are Level 13 Brutes with 159 HP and all standard traits. Their ground
+speed is 5 and their swim speed is 7. They’re enthusiastic raiders who fight
+with &lt;strong&gt;tridents&lt;/strong&gt; that do physical damage and inflict a -2 AC penalty on the
+target for a turn.&lt;/p&gt;
+
+&lt;p&gt;They can also shoot &lt;strong&gt;water harpoons&lt;/strong&gt; (ranged 5 vs. AC; recharge 5-6) which do
+more damage than the trident and pull the target adjacent to the archon. You’re
+not running away so easily!&lt;/p&gt;
+
+&lt;p&gt;If surrounded they’ll use a &lt;strong&gt;whirlpool of tines&lt;/strong&gt; (close burst 1 vs. AC;
+enemies only; recharges when first bloodied) which does physical damage and
+causes targets hit by it to suffer 2 damage for each square they move (save
+ends). A miss halves both the immediate damage and the one from the condition.&lt;/p&gt;
+
+&lt;h3 id=&quot;water-archon-tide-strider&quot;&gt;Water Archon Tide Strider&lt;/h3&gt;
+
+&lt;p&gt;A surly warrior with big moods and a big spear, the Tide Strider is a Level 15
+Skirmisher with 144 HP. Its ground speed is 6, and its swim speed 8. It projects
+a &lt;strong&gt;Body Torrent&lt;/strong&gt; aura (1) that affects enemies that try to attack the archon
+in melee, pushing them 1 square whether they hit or miss.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;greatspear&lt;/strong&gt; is Reach 2, and if the archon has combat advantage against
+the target, it will knock the target prone. It can use a maneuver called &lt;strong&gt;Way
+of Water&lt;/strong&gt; (recharge 6) to shift 6 squares and make a spear attack at any point
+during the move.&lt;/p&gt;
+
+&lt;p&gt;Having a line of these behind a line of shoal reavers might make the PCs think
+they’re facing a solid phalanx until the tide striders scatter like, well,
+water, and shift behind the PC’s front line.&lt;/p&gt;
+
+&lt;h3 id=&quot;water-archon-waveshaper&quot;&gt;Water Archon Waveshaper&lt;/h3&gt;
+
+&lt;p&gt;This being is pretty much a water-bender, using a pair of war fans to direct the
+waters around it. It’s a Level 16 Controller (Leader) with 157 HP, a ground
+speed of 6, and a swim speed of 8.&lt;/p&gt;
+
+&lt;p&gt;The waveshaper prefers to stay at a safe distance from the main melee, and
+support its archon allies from there. It will bombard the enemy with &lt;strong&gt;Geysers&lt;/strong&gt;
+(Area burst 2 within 10 vs. Reflex; recharge 5-6) which damage, knock targets
+prone, and prevent them from using immediate actions for a turn.&lt;/p&gt;
+
+&lt;p&gt;When things get more chaotic, or while it waits for the geyser to recharge, it
+will target individual enemies with &lt;strong&gt;Dizzying Whirlpool&lt;/strong&gt; (ranged 10
+vs. Fortitude) which does a bit more damage and prevents the target from
+charging or shifting (save ends).&lt;/p&gt;
+
+&lt;p&gt;As a minor action it can use &lt;strong&gt;Ocean Call&lt;/strong&gt; (close burst 10; recharges when
+bloodied) which allows any allies in range with the Water or Aquatic keyword to
+shift 3 squares as a free action and gain 10 temporary HP. All water archons
+have both keywords, of course, and so do a lot of other interesting monsters.&lt;/p&gt;
+
+&lt;p&gt;If forced into melee, the archon will use &lt;strong&gt;Waveshape&lt;/strong&gt; as a basic attack that
+damages, knocks prone, and pushes 1 square.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;When not serving the whims of the primordials directly, water archons work for
+people with similar appetites for destruction and a similar preference for
+watery environments. As long as their masters allow the archons to indulge in
+both, they’ll serve loyally.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters have troops of archons serving such masters. There’s a
+level 12 encounter where the master is a human pirate, and a level 14 one where
+it’s an Aboleth Slime Mage from the MM. That last one includes a waveshaper,
+whose Ocean Call does also benefit the aboleth.&lt;/p&gt;
+
+&lt;p&gt;I like all of the MM2 archons a lot more than I liked the ones from the first
+book. Their basic mechanics are a lot more functional, though they still suffer
+from the damage bug, and their themes shine clearly through all of their stat
+blocks.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/03/archons-water.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/03/archons-water.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual/Vault: Wraith</title>
@@ -1439,95 +1566,6 @@ design process. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quo
         <category>gurps</category>
         
         <category>spaceships</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual/Vault: Traits Appendix</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Before I close the curtain on this Let’s Read, there’s one more thing to
-discuss. I had forgotten it was there at all! Back when the Monster Manual had
-just been published, though, I remember thinking it was a big deal.&lt;/p&gt;
-
-&lt;p&gt;We’ve been talking about the animal appendix on the Monster Vault, but the
-Monster Manual also has an appendix. This one is filled with stats for using
-several of the book’s entries as playable characters!&lt;/p&gt;
-
-&lt;p&gt;Some of them are for characters from that were traditionally considered “monster
-races”, others are for races that had been popular in previous editions but
-didn’t fit into the Player’s Handbook. The full list is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bugbear&lt;/li&gt;
-  &lt;li&gt;Doppelganger&lt;/li&gt;
-  &lt;li&gt;Drow&lt;/li&gt;
-  &lt;li&gt;Githyanki&lt;/li&gt;
-  &lt;li&gt;Githzerai&lt;/li&gt;
-  &lt;li&gt;Gnoll&lt;/li&gt;
-  &lt;li&gt;Gnome&lt;/li&gt;
-  &lt;li&gt;Goblin&lt;/li&gt;
-  &lt;li&gt;Hobgoblin&lt;/li&gt;
-  &lt;li&gt;Kobold&lt;/li&gt;
-  &lt;li&gt;Minotaur&lt;/li&gt;
-  &lt;li&gt;Orc&lt;/li&gt;
-  &lt;li&gt;Shadar-kai&lt;/li&gt;
-  &lt;li&gt;Shifter (Longtooth and Razorclaw)&lt;/li&gt;
-  &lt;li&gt;Warforged&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each one has more or less the same information as a basic racial stat block from
-the PHB: Average height and weight, ability score bonuses, size speed, vision
-modes, starting languages, skill bonuses and a racial power.&lt;/p&gt;
-
-&lt;p&gt;The reason I forgot this appendix even existed is because it slowly became less
-relevant as more 4e material was published.&lt;/p&gt;
-
-&lt;p&gt;Even at the start the appendix races were already a little bit behind
-mechanically, since the ones from the PHB had a handful of extra racial feats
-each and these didn’t. The gap widened as further player option books came out
-with yet more feats and stuff like racial paragon paths. And finally, several of
-the appendix races would have more complete versions published in future books,
-rendering the appendix version obsolete.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Doppelgangers, Shifters and Warforged would appear in the Eberron Player’s
-Guide.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Gnomes would appear in the PHB2. Half-Orcs too, which you could just reskin
-into full orcs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Githzerai and Minotaurs would appear in the PHB 3.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Drow would appear in the Forgotten Realms Player’s Guide and then in Heroes of
-the Forgotten Kingdoms.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s almost all of them, isn’t it? Gnolls and Shadar-kai would get articles in
-Dragon or Dungeon, but they still ended up with less support overall. At some
-point in the edition the ability score bonuses also went from “+2 to these two
-fixed scores” to “+2 to one fixed score and +2 to one of these other two
-scores”, and some of the races here never did get that third option. Still, this
-appendix was pretty useful before all of this extra material came out.&lt;/p&gt;
-
-&lt;p&gt;And this slightly maudlin post finally finishes our Let’s Read of the first
-Monster Manual! I hope you enjoyed it. I plan on doing the other two and the
-other Vault, and hopefully I’ll take less time to post those in their entirety.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/03/01/traits-appendix.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/01/traits-appendix.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
