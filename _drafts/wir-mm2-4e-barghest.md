@@ -50,7 +50,7 @@ block. We have two here, both Medium:
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-barghest-savager.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2009 Wizards of the Coast
+   Illustration by Chippy. Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}
@@ -83,7 +83,7 @@ are the monster will be able to use this successfully at least once.
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-barghest-battle-lord.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2009 Wizards of the Coast
+    Illustration by Steve Ellis. Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}

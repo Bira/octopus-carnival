@@ -21,11 +21,13 @@ The book contains a mix of monsters that are new to the edition, and monsters
 who already appeared in the previous Monster Manual and who are getting more
 variants here. Here they are, from A to Z:
 
-- [Angel][2]
-- [Ankheg][3]
-- [Ant, Giant][4]
-- [Archon, Earth][5]
-- [Archon, Storm][6]
+- A
+  - [Angel][2]
+  - [Ankheg][3]
+  - [Ant, Giant][4]
+  - [Archon, Earth][5]
+  - [Archon, Storm][6]
+  - [Archon, Water][7]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -33,3 +35,4 @@ variants here. Here they are, from A to Z:
 [4]: {{ "/2021/04/02/ant-giant.html" | relative_url }}
 [5]: {{ "/2021/04/08/archon-earth.html" | relative_url }}
 [6]: {{ "/2021/04/20/archons-storm.html" | relative_url }}
+[7]: {{ "/2021/05/03/archons-water.html" | relative_url }}
