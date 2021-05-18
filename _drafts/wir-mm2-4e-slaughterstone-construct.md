@@ -22,8 +22,8 @@ friend alike.
 Slaughterstone Constructs are the dwarven answer to this problem. They're
 defensive siege engines built for the singular purpose of making sure the only
 ones who die are the invaders. Their intended usage is that you set them loose
-on a tunel and watch them run through it while turning everyone inside into a
-fine pink mist. Their extreme toughness and strength means not many armies can
+on a tunel and watch them run through it while turning everyone inside into
+chunky salsa. Their extreme toughness and strength means not many armies can
 stand up to them even in more open field.
 
 Creating a proper slaughterstone construct is quite difficult. To sculpt the
@@ -38,7 +38,7 @@ the stone block. You could cut the stone from a cave or tunnel where that hero
 has fought. Alternatively, if your GM likes this sort of technically correct
 solution you could get yourself a brand new stone block and ask a certified war
 hero to prick his finger and let a drop of blood fall on it. Neither of these
-methods easy (heroes don't grow on trees!) but they're far more ethical than
+methods is easy (heroes don't grow on trees!) but they're far more ethical than
 sapient sacrifice.
 
 If you have neither a master artisan nor a source of heroic blood but you still
@@ -101,8 +101,8 @@ either deal or take a critical hit.
 
 Fourth Edition's combat rules make these constructs even more dangerous than the
 lore indicates. Both the lore and the rules say a construct "plugs" a tunnel and
-prevents enemies from passing through. The rules also say that the construct's
-_allies_ can pass freely or make ranged attacks through their spaces.
+prevents enemies from passing through. The rules also say that allies may freely
+move and attack through each others' spaces.
 
 This means slaughterstone constructs pair really well with artillery monsters,
 and with controllers that have good ranged attacks. They're also pretty good
@@ -121,5 +121,5 @@ Our example encounters are:
 - Level 25: 1 Beholder Eye of Chaos, 1 Oni Thunderer, 3 Slaughterstone
   Hammerers. This is the "strong artillery", "mobile skirmisher" setup I
   mentioned, in its epic incarnation. You think you're safe because the corridor
-  is 6 squares wide, when you see three constructs side by side blocking all of
-  it.
+  is 6 squares wide, and then you see three constructs side by side blocking all
+  of it.
