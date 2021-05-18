@@ -28,8 +28,8 @@ variants here. Here they are, from A to Z:
   - [Archon, Earth][5]
   - [Archon, Storm][6]
   - [Archon, Water][7]
-
-- [Barghest][8]
+- B
+  - [Barghest][8]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
