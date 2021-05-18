@@ -6,9 +6,136 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 May 2021 11:04:44 +0000</pubDate>
-    <lastBuildDate>Tue, 18 May 2021 11:04:44 +0000</lastBuildDate>
+    <pubDate>Tue, 18 May 2021 11:05:10 +0000</pubDate>
+    <lastBuildDate>Tue, 18 May 2021 11:05:10 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Barghest</title>
+        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I think Barghests have been in the game since AD&amp;amp;D 1st Edition, though I don’t
+think I have the book in which they first appear. Their exact nature has changed
+a bit between editions.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;If you described a barghest as a “goblin werewolf”, you’d get the general idea
+across while being almost completely wrong.&lt;/p&gt;
+
+&lt;p&gt;Barghests are born randomly in goblinoid populations. The event is rare, and
+usually seen as a blessing from Bane. As a result of this reputation and their
+own powers, barghests often rise to leadership positions in goblinoid society
+when they grow up.&lt;/p&gt;
+
+&lt;p&gt;Barghests are shapeshifters, and possess two forms: one is a goblinoid (goblin,
+hobgoblin or bugbear), and the other a wolf-like creature. You can’t really
+mistake them for either normal goblinoids or wolves, though: the creature is
+merely &lt;em&gt;wolf-like&lt;/em&gt;, and the other form always has a specific tell that remains
+constant across forms. Locks of white hair or a single discolored eye are
+common.&lt;/p&gt;
+
+&lt;p&gt;Barghests aren’t particularly vulnerable to silver nor are they affected by the
+moon. They’re fairly smart and in full control of their actions in all
+forms. And they have psionic powers, which usually manifest as some sort of
+psychic vampirism they use to sap the minds and vitality of their foes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Barghests are Small or Medium Natural Humanoids with the Shapechanger
+keyword. They have low-light vision and a ground speed of 6 (8 in wolf
+form). They can &lt;strong&gt;Change Shape&lt;/strong&gt; with a minor action once per round, and have
+different basic attacks depending on what their current form is.&lt;/p&gt;
+
+&lt;p&gt;They also have some form of harmful psychic power, which varies per stat
+block. We have two here, both Medium:&lt;/p&gt;
+
+&lt;h3 id=&quot;barghest-savager&quot;&gt;Barghest Savager&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-barghest-savager.png&quot;/&gt;
+  &lt;figcaption&gt;
+   Illustration by Chippy. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is a bugbear barghest whose love of violence is exceptional even for a
+bugbear. As a leader, it tries to incite its troops to perform frequent raids on
+any soft targets it can find.&lt;/p&gt;
+
+&lt;p&gt;Savagers are Level 4 Brutes with 63 HP. They fight with a &lt;strong&gt;battleaxe&lt;/strong&gt; or with
+their wolfish &lt;strong&gt;bites&lt;/strong&gt;, and can perform a &lt;strong&gt;Jump Strike&lt;/strong&gt; (recharge 5-6) with
+either, shifting 3 squares before and after the attack and doing extra damage.&lt;/p&gt;
+
+&lt;p&gt;Their mental powers manifest as the &lt;strong&gt;Power Feed&lt;/strong&gt; ability (melee 1 vs. Will;
+Encounter; Reliable), usable only in wolf form. This does some psychic damage
+and allows the barghest to use an encounter or daily power it has seen the
+target use this encounter.&lt;/p&gt;
+
+&lt;p&gt;The attack bonus for this will be the same as that of the monster’s other
+attacks, but damage and other effects will be as if the power had been used by
+the original PC. This would make the ability worth using on high-damage powers,
+or those with interesting side effects. When the wizard proclaimed his Sleep
+spell would end the fight, this was probably not what he had in mind.&lt;/p&gt;
+
+&lt;p&gt;The Reliable keyword means the power isn’t spent if the attack misses, so odds
+are the monster will be able to use this successfully at least once.&lt;/p&gt;
+
+&lt;h3 id=&quot;barghest-battle-lord&quot;&gt;Barghest Battle Lord&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-barghest-battle-lord.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by Steve Ellis. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This hobgoblin barghest has the makings of a legendary general, commanding his
+troops with great tactical acumen and preferring to bait his enemies into
+traps. He’s a Level 7 Controller with 82 HP, fighting with a greatsword in
+humanoid form.&lt;/p&gt;
+
+&lt;p&gt;The wolf form’s &lt;strong&gt;bites&lt;/strong&gt; knock the target prone on a hit, and the
+&lt;strong&gt;greatsword&lt;/strong&gt; makes the battle lord invisible to the target for a turn. In
+either form he can use a &lt;strong&gt;Psychic Howl&lt;/strong&gt; (ranged 10 vs. Will) which does
+psychic damage, dazes for a turn, and inflicts a -2 penalty to attacks as an
+aftereffect (save ends).&lt;/p&gt;
+
+&lt;p&gt;He can also use &lt;strong&gt;Life Feed&lt;/strong&gt; (close blast 5 vs. Fortitude; encounter) in wolf
+form, which does a little bit of necrotic damage and inflicts 5 ongoing necrotic
+damage (save ends). Whenever the targets take that ongoing damage, the battle
+lord heals 5 HP. So if four PCs are hit the battle lord will heal at the start
+of each of their turns, totalling 20 HP per round.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, as a reaction to being hit by a melee attack, the battle
+lord can &lt;strong&gt;Get Some Distance&lt;/strong&gt;, shifting 2 squares away.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Barghests can be added to any goblin encounter that you think needs an extra
+kick. The first few times it happens it might catch the PCs by surprise, but it
+will be interesting to find out if they learn to spot the tells. As mentioned in
+the lore, barghests will usually occupy leadership positions in whatever group
+of goblins they hang out with.&lt;/p&gt;
+
+&lt;p&gt;I remember barghests had an extremely complicated backstory in previous
+editions, being fiends from the Neutral Evil plane who happened to be able to
+shapeshift into goblins and who had a whole complicated hierarchy back home
+based on how many souls they had devoured. All of that is gone here, which I
+think is for the best in the end. Some goblins can just wolf out and break your
+mind with their psychic powers. It’s one of those things that happens.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/18/barghest.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/18/barghest.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Archons, Water</title>
@@ -1373,195 +1500,6 @@ run of one. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; r
         <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>spaceships</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Building a Spaceplane: A GURPS Spaceships Exercise</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    Fictional ESA spaceplane.
-    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I’ve been reading about Kerbal Space Program recently, and it made me want to
-try my hand at designing some GURPS spaceships.&lt;/p&gt;
-
-&lt;p&gt;One of the terms that often gets thrown about when talking about near-future
-space tech is “Single Stage to Orbit”, or SSTO. This would be a vehicle that can
-go from ground to orbit all by itself, without needing any detachable
-boosters. In the real world, a lot of plans for building one of these have been
-conceived and dropped, but we don’t have a real example yet.&lt;/p&gt;
-
-&lt;p&gt;How close does GURPS Spaceships think we are to such a thing?&lt;/p&gt;
-
-&lt;p&gt;In this post I’ll try to design a spaceplane, a popular type of theoretical SSTO
-craft. The basic idea is that they take off and fly to the upper atmosphere
-using air-breathing engines, and only then activate their rockets to reach
-orbit. After completing their mission, they can re-enter atmosphere and land by
-gliding. Spaceplanes are an attractive concept because they can use a lot less
-fuel to reach orbit, are fully reusable, and easier to maintain. Plus they tend
-to look really cool.&lt;/p&gt;
-
-&lt;h2 id=&quot;mission-statement-and-design-options&quot;&gt;Mission Statement and Design Options&lt;/h2&gt;
-
-&lt;p&gt;For this attempt, we’re going to assume a realistic TL8 setting (“present-day
-technology”), giving us access to TL7 and 8 items from the book. I’ll
-arbitrarily assign it SM +8, making it a 1000 ton craft.&lt;/p&gt;
-
-&lt;p&gt;Therefore, our craft is SM +8, TL8, streamlined, and winged. It must take off
-from the ground on Earth and reach orbital velocity using without the aid of
-external boosters or detachable stages, while carrying a multi-ton payload in
-its cargo hold.&lt;/p&gt;
-
-&lt;p&gt;This means it must have a total delta-V exceeding 5.6 miles per second after all
-the calculations are done&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. We get a bonus 0.3 mps if we launch eastwards
-from the equator, but having the craft reach the number on its own would allow
-it to launch from anywhere in the planet.&lt;/p&gt;
-
-&lt;h3 id=&quot;fixed-systems&quot;&gt;Fixed Systems&lt;/h3&gt;
-
-&lt;p&gt;The design options above lock down 3 of the 20 systems we have available:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;We need 1 armor system because we’re streamlined.&lt;/li&gt;
-  &lt;li&gt;We need a control room (1 system).&lt;/li&gt;
-  &lt;li&gt;We need a cargo bay (1 system).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For our purposes in this post it doesn’t matter what the armor is made of, but
-we might as well use Metallic Laminate since we’re designing a “cutting edge”
-craft. The remaining 17 systems will be split among engines and fuel tanks.&lt;/p&gt;
-
-&lt;p&gt;At our TL, we have two engine options: the Chemical Rocket and the Jet
-Engine. They both help, but use different fuel sources. Adding jet engines means
-we need to figure out their top airspeed and subtract that from the necessary
-delta-V to reach orbit. Rocket delta-V is purely a function of how many tanks we
-dedicate to rocket fuel.&lt;/p&gt;
-
-&lt;h3 id=&quot;attempt-1-mixing-rockets-and-jet-engines&quot;&gt;Attempt 1: Mixing Rockets and Jet Engines.&lt;/h3&gt;
-
-&lt;p&gt;My first draft had the following configuration for our 17 “free” systems:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 Jet Engines&lt;/li&gt;
-  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
-  &lt;li&gt;14 Fuel Tanks (13 for rocket fuel, 1 for jet fuel).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The jet fuel allowed us to run the jets for half an hour, which was more than
-enough to reach maximum speed and altitude. They lowered our target to 4.63 mps,
-but that’s not enough. Combining the rules for chemical rockets and fuel tanks,
-our rocket had 3.12 mps of delta-V available to it.&lt;/p&gt;
-
-&lt;p&gt;This might be good for a fancy passenger plane for people with money to burn,
-but not for a SSTO vehicle.&lt;/p&gt;
-
-&lt;h3 id=&quot;attempt-2-rocket-plane&quot;&gt;Attempt 2: Rocket Plane&lt;/h3&gt;
-
-&lt;p&gt;What if we build an all-rocket engine assembly?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1 Chemical Rocket Engine&lt;/li&gt;
-  &lt;li&gt;16 fuel tanks (all rocket fuel)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Adding up the delta-V for this version is easier, and we do end up with more of
-it, but it’s still not enough. We get 4.8 out of 5.6 mps. So close, yet so far.&lt;/p&gt;
-
-&lt;p&gt;What this configuration gives us is a reusable &lt;em&gt;launch-assist vehicle&lt;/em&gt; can get
-its 50-ton payload &lt;em&gt;almost&lt;/em&gt; to orbital speeds. The payload itself would need to
-be another vehicle that could provide the remaining 0.8 mps of delta-V itself,
-and perhaps include a bit more for maneuvers once in orbit. The LAV can spend
-all of its own fuel and glide down.&lt;/p&gt;
-
-&lt;h3 id=&quot;attempt-3-cheating-with-optional-rules&quot;&gt;Attempt 3: Cheating with Optional Rules.&lt;/h3&gt;
-
-&lt;p&gt;We’ve run up against one of the harsh realities of the Spaceships design
-rules. Using only TL7-8 chemical rockets, you simply can’t make an orbit-capable
-vehicle with less than 17 fuel tanks. A traditional disposable rocket can be
-modeled with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an
-SM 2 smaller than the rocket itself. This upper stage has the armor needed by a
-streamlined craft, and the discarded lower stage burns up on re-entry. Our
-spaceplane faces some trouble because it needs to include that armor system
-itself, leaving us 1 fuel tank short.&lt;/p&gt;
-
-&lt;p&gt;The only way we can make it work is by pulling in an optional rule from GURPS
-Spaceships 7 p. 4: Smaller Systems. By shrinking both our cargo bay and control
-room to SM +7, we decrease our cargo capacity to 15 tons, decrease our
-Handling/SR in by 1, and add 1.33 fuel tanks to our all-rocket spaceplane. That
-gets us 6.05 mps of delta-V, enough to launch from anywhere on the planet and
-still leave us some reserves for maneuvers and corrections. It carries less than
-the equivalent disposable rocket but is fully reusable, able to land by gliding
-even with an empty fuel tank.&lt;/p&gt;
-
-&lt;p&gt;We leave the armor system at the same size because it’s meant to serve as a heat
-shield on re-entry, so it’s probably placed in the central hull.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img width=&quot;512&quot;
-  src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ED97-43938-1mod.jpg/512px-ED97-43938-1mod.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A X-33 and a VentureStar craft. NASA, public domain, via Wikimedia Commons.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The thing we just designed is remarkably similar to the Lockheed-Martin
-&lt;a href=&quot;https://en.wikipedia.org/wiki/VentureStar&quot;&gt;VentureStar&lt;/a&gt;, at least if the stats in the Wikipedia article are to be
-believed. This is a project for a SSTO spaceplane whose most famous product is
-the X-33 prototype, a scaled-down version of the final design intended to test
-some of its technologies.&lt;/p&gt;
-
-&lt;p&gt;VentureStar was supposed to be a lot simpler to maintain than the space shuttle,
-and was intended to be available for sale to private companies and not just to
-NASA, kick-starting a wave of private space exploration. The project was
-cancelled in 2001 because its fuel tanks were too hard to manufacture using the
-technology of the time. Ironically, better manufacturing techniques were
-discovered a few years later.&lt;/p&gt;
-
-&lt;p&gt;Aside from having to contend with the “harsh truth” of the design rules we
-already mentioned, our spaceplane also illustrates what seems to be a constraint
-plaguing real-world designers: separate air-breathing and rocket engines are
-inefficient. Go rocket-only or get you an engine that can do both.&lt;/p&gt;
-
-&lt;p&gt;Its final stats are: dST/dHP 70; Air Hnd/SR +2/3; Space Hnd/SR -3/3; Move
-3G/6.05mps; LWt. 1000; Load 15.3; SM+8; Occ 3; dDR 0/2/0. The Space handling is
-terrible, but workable when the mission is “get up, release the payload, get
-down”.&lt;/p&gt;
-
-&lt;p&gt;Our spaceplane costs $8.8M according to the design rules. Of course, that’s its
-price if it was mass-produced and commercially available. The rather more
-bespoke space program manufacturing model means it could cost up to 100 times
-more. It runs on liquid hydrogen/liquid oxygen rocket fuel, a full load of which
-costs $693,200.&lt;/p&gt;
-
-&lt;p&gt;The LAV version has better handling and stability (+3/4 in air and -2/4 in
-space) and costs about $40K less to fuel, and can deliver a bigger payload as
-long as that payload has some delta-V of its own. But it’s not a spaceplane, so
-nyeh.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I like using a proper measurement system, but all of the book’s formulas
-are in miles, so I’ll have to use that to avoid getting confused during the
-design process. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 06 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/06/spaceplane.html</guid>
         
         <category>gurps</category>
         
