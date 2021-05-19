@@ -6,9 +6,155 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 May 2021 11:56:14 +0000</pubDate>
-    <lastBuildDate>Wed, 19 May 2021 11:56:14 +0000</lastBuildDate>
+    <pubDate>Wed, 19 May 2021 11:59:17 +0000</pubDate>
+    <lastBuildDate>Wed, 19 May 2021 11:59:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Behir</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-behir.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Behirs first appear in AD&amp;amp;D 1st Edition, and are one of the game’s many
+“not-quite-dragon” monsters.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Behirs are giant reptilian creatures with serpentine bodies, many legs (8 or 12,
+depending on edition), and innate electrical powers. They’re sapient but
+anti-social and uninterested in the trappings of civilization. They don’t even
+tolerate each other’s presence for longer than absolutely necessary. A behir
+mother will eject her young from the lair shortly after they’re born, forcing
+them to fend for themselves.&lt;/p&gt;
+
+&lt;p&gt;Though a behir makes lairs in pretty much the same places you’d expect to find
+dragons, it accumulates neither treasure nor servants. All it wants is to hunt
+and be left alone. Like a lot of D&amp;amp;D super-predators it doesn’t usually care
+about the sapience of its victims, but it &lt;em&gt;can&lt;/em&gt; be reasoned with or bribed if
+you can get it to listen to you. Behirs can communicate both in Common and
+Draconic.&lt;/p&gt;
+
+&lt;p&gt;This means that some people try to recruit behirs into service. Though this can
+end badly if the behir’s terms are not met, a successful negotiation will allow
+the foolhardy employer to obtain the services of a formidable monster.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Behirs are Huge Natural Magical Beasts, and have Tremorsense 10 and Resist
+Lightning 15. They fight with a combination of natural weapons and lightning
+attacks, which vary per stat block. They’re Unaligned, and have a typical Int
+score of 7.&lt;/p&gt;
+
+&lt;h3 id=&quot;behir&quot;&gt;Behir&lt;/h3&gt;
+
+&lt;p&gt;This represents the typical specimen found in the wild. It’s a Level 14 Solo
+Soldier with 564 HP. Their ground speed is 7, and they have a climb speed
+of 5. In combat they project a &lt;strong&gt;Lightning Storm&lt;/strong&gt; aura (5) that causes 5
+lightning damage to anyone caught inside.&lt;/p&gt;
+
+&lt;p&gt;The behir fights with its &lt;strong&gt;claws&lt;/strong&gt; and &lt;strong&gt;bite&lt;/strong&gt;, both of which are Reach 3 and
+do the same damage. The claw is a basic attack, and the bite does a mix of
+physical and lightning damage.&lt;/p&gt;
+
+&lt;p&gt;It can also &lt;strong&gt;Devour&lt;/strong&gt; a Medium or smaller victim (Reach 3 vs AC), doing bite
+damage and swallowing it whole. This counts as a grab! While it lasts the victim
+only has line of sight and effect to the behir, and no one else has line of
+sight or effect to the victim. A creature can escape the grab by the usual
+means, appearing adjacent to he behir, and can also automatically crawl out of a
+dead behir as a move action. With a minor action, the behir can sustain the grab
+and deal an automatic 15 damage to the victim. Only one victim at a time fits in
+its gizzard.&lt;/p&gt;
+
+&lt;p&gt;The monster can also use a &lt;strong&gt;Lightning Breath&lt;/strong&gt; (close blast 5 vs. Reflex;
+recharge 5-6), which does “high” lightning damage and dazes (save ends), and
+does half damage on a miss.  Its &lt;strong&gt;Thunderleg Stomp&lt;/strong&gt; (close burst 3
+vs. Fortitude) does “low” physical damage and knocks targets prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;The damage on all of these is too low due to the math bugs: the basic attacks do
+an average of 15 damage when they should be doing 22. The tactics section says
+behirs begin by swallowing a squishy even if they have to eat a few opportunity
+attacks to do it, and then favoring their area attacks unless sorely pressed by
+a single character. With a damage upgrade across the board, these tactics are
+quite sound, since the Stomp becomes a more viable option.&lt;/p&gt;
+
+&lt;p&gt;Being solo monsters, behirs have a neat initiative trick: they don’t roll
+initiative at all! Instead, &lt;strong&gt;Lightning Reflexes&lt;/strong&gt; gives them three turns per
+combat round at initiative counts 30, 20, and 10. This means that the poor
+swallowed victim might be looking at 45 automatic damage per round if they fail
+to escape the grab on their own turn. Using that first action on Swallow is
+definitely a worthy investiment.&lt;/p&gt;
+
+&lt;h3 id=&quot;behir-bolter-whelp&quot;&gt;Behir Bolter Whelp&lt;/h3&gt;
+
+&lt;p&gt;A young specimen, not yet fully grown. It’s merely Large, and a Level 8 Solo
+Soldier with 352 HP and Resist 10 Lightning. It’s standard damage is 12, and it
+should be around 16 with the update. It has a ground speed of 8 and a climb
+speed of 5.&lt;/p&gt;
+
+&lt;p&gt;The bolter is going to start the fight by targetting a squishy &lt;strong&gt;Knockdown
+Rush&lt;/strong&gt; (Reach 2 vs. AC; minor action; recharge 4-6), which allows it to charge
+and knock the target prone on a hit. Then, since this was a minor action, it’s
+going to follow that up with a &lt;strong&gt;claw&lt;/strong&gt; or &lt;strong&gt;bite&lt;/strong&gt;, which work the same as the
+adult’s with smaller numbers and Reach 2.&lt;/p&gt;
+
+&lt;p&gt;When the PCs inevitably surround it, the bolder will emit a &lt;strong&gt;Lightning Shock&lt;/strong&gt;
+pulse (close burst 2 vs. Reflex; recharge 5-6 and when first bloodied) which
+does “high” lightning damage, half on a miss. When hit by a melee attack, it can
+respond with a claw as a reaction (&lt;strong&gt;Rip-Claw Response&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;p&gt;Despite being young, the bolter already displays &lt;strong&gt;Lightning Reflexes&lt;/strong&gt;, acting
+on initiative counts 20, 15, and 5, so with enough luck on those recharge rolls
+it can keep bouncing between PCs for a while.&lt;/p&gt;
+
+&lt;h3 id=&quot;behir-stormsteed&quot;&gt;Behir Stormsteed&lt;/h3&gt;
+
+&lt;p&gt;This “domesticated” behir was recruited and trained as a mount by storm
+giants. It’s a Level 24 Soldier with 229 HP. It has Resisnt Lightning 15, a
+ground speed of 8, and replaces the usual climb speed with a Fly speed of 8
+(hover). This is explained as the creature having the ability to walk on the
+lightning it generates.&lt;/p&gt;
+
+&lt;p&gt;The math bug affects the stormsteed particularly hard since it’s an epic
+creature. Its standard damage is a woeful 18, and it should be 32!&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that does a mix of physical and lightning damage,
+and it can also use its &lt;strong&gt;Lightning Breath&lt;/strong&gt; (close burst 3 vs. Reflex, recharge
+4-6) to deal lightning damage all around itself. I wonder if that was meant to
+be a blast.&lt;/p&gt;
+
+&lt;p&gt;When mounted, the stormsteed can use &lt;strong&gt;Ride The Lightning&lt;/strong&gt;, which grants the
+rider a +2 to attack with lightning powers, and allows the steed itself to use
+Lightning Breath once per turn as a minor action indepentently of the recharge
+counter. Perfect for storm giants or someone like a bluespawn godslayer.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We get two sample encounters: a level 8 one with a bolter whelp and three
+bugbear wardancers, and a level 14 one with an adult, a medusa, and a yuan-ti
+incanter. If something even remotely looks like a snake, Zehir has an interest
+in it.&lt;/p&gt;
+
+&lt;p&gt;Behirs are one of those monsters I never really got into in previous edition. A
+closer reading of this MM2 entry does give me a few ideas of how to use them,
+but I still can’t say I’m pumped about them.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/19/behir.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/19/behir.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Barghest</title>
@@ -1381,129 +1527,6 @@ to the “correct” figures.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Building a GURPS Spaceplane: The Second Iteration</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    Fictional ESA spaceplane.
-    Illustration by &lt;a href=&quot;https://www.artstation.com/artwork/3q14v&quot;&gt;Maciej Rebisz.&lt;/a&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;In our &lt;a href=&quot;/octopus-carnival/2021/03/06/spaceplane.html&quot;&gt;previous post&lt;/a&gt;, we used GURPS Spaceships rules to build a “minimum
-viable spaceplane” at TL8, with no superscience.&lt;/p&gt;
-
-&lt;p&gt;Our company, Octopus Aerospace, builds one of those and sells it to the
-Kerbal Space Program for close to a billion GURPS dollars&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and after using
-it for a few launches Director Kerbman comes back to us with a few change
-requests.&lt;/p&gt;
-
-&lt;p&gt;His astronauts have complained that the Mark I Spaceplane handles very poorly
-for its size. They’re entering a phase of their program where future missions
-will require a lot of precise orbital maneuvers, like docking and such, so they
-need a ship that can do better at that.&lt;/p&gt;
-
-&lt;p&gt;We want to satisfy KSP’s requests because we want a slice of their inifinte
-budget, but we’re also committed to making only Single Stage To Orbit craft. How
-can we satisfy both of these requirements?&lt;/p&gt;
-
-&lt;h2 id=&quot;building-the-mark-ii&quot;&gt;Building the Mark II&lt;/h2&gt;
-
-&lt;p&gt;We’re still using “realistic” TL 8 for our Mark II, and it’s still streamlined
-and winged just like its predecessor.&lt;/p&gt;
-
-&lt;p&gt;As we saw in our previous post, a TL8 craft capable of reaching orbit can only
-spare 10% of its mass to systems that are not fuel tanks or chemical engines. We
-achieved that in the Mark I by shrinking our control systems and cargo bay,
-filling the freed space with additional fuel tanks.&lt;/p&gt;
-
-&lt;p&gt;We want a full size control system for the second iteration, but having that
-means we’ll be short on delta-V and can’t make an orbital insertion. We have to
-shrink something else to compensate. We’re already shrunk the cargo bay, and I
-don’t want to shrink the armor because I’m envisioning as the craft’s heat
-shield.&lt;/p&gt;
-
-&lt;p&gt;How about the engine?&lt;/p&gt;
-
-&lt;p&gt;Our resulting configuration is:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1 x Metallic Laminate Armor&lt;/li&gt;
-  &lt;li&gt;1 x SM +8 control room&lt;/li&gt;
-  &lt;li&gt;1 x 15-ton cargo bay&lt;/li&gt;
-  &lt;li&gt;17.33 x Fuel Tanks (865 tons rocket fuel)&lt;/li&gt;
-  &lt;li&gt;1 x SM +7 Chemical Rocket Engine (1G Acceleration)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;One lone G of acceleration is useless for leaving Earth… in a traditional
-rocket. We have wings! According to GURPS Spaceships p. 37, a winged craft can
-take off and reach Earth orbit even if its acceleration doesn’t exceed 1G.&lt;/p&gt;
-
-&lt;p&gt;That leaves us with the following stat line for our Mark II space plane:
-&lt;strong&gt;dST/dHP&lt;/strong&gt; 70; &lt;strong&gt;Air Hnd/SR&lt;/strong&gt; +3/4; &lt;strong&gt;Space Hnd/SR&lt;/strong&gt; -2/4; &lt;strong&gt;Move&lt;/strong&gt; 1G/6.05mps;
-&lt;strong&gt;LWt&lt;/strong&gt; 1000; &lt;strong&gt;Load&lt;/strong&gt; 15.3; &lt;strong&gt;SM&lt;/strong&gt; +8; &lt;strong&gt;Occ&lt;/strong&gt; 4; &lt;strong&gt;dDR&lt;/strong&gt; 0/2/0.&lt;/p&gt;
-
-&lt;p&gt;This model’s Air Handling and Stability is pretty awesome when compared to that
-of most contemporary airplanes. Its space handling is still not exactly
-spectacular, but it’s the best we can do for a ship of this size at TL 8, and
-should help with those delicate maneuvers. It takes longer to reach orbit due to
-its lower acceleration, but it still has the same Delta-V. Finally, it has space
-for one additional crew member, allowing KSP to bring extra scientists or other
-mission specialists along with the payload.&lt;/p&gt;
-
-&lt;p&gt;The cheaper engine and more expensive control room balance themselves out. The
-Mark II costs the same as the Mark I: a nominal $8.8M for the craft and $693,200
-for a full load of rocket fuel.&lt;/p&gt;
-
-&lt;h2 id=&quot;bonus-notessales-pitch&quot;&gt;Bonus Notes/Sales Pitch&lt;/h2&gt;
-
-&lt;p&gt;This is something I forgot to mention in the previous post: both the Mark I and
-Mark II Octopus Carnival Spaceplanes can take off from conventional runways,
-dispensing with the need for an expensive launch pad!&lt;/p&gt;
-
-&lt;p&gt;The Mark I would probably require a launchpad if you want to use those 3Gs of
-acceleration right away, but if I remember correctly liquid fuel engines can be
-throttled. So you can take off using a jet-engine-equivalent 1G and throttle up
-when you reach a higher altitude.&lt;/p&gt;
-
-&lt;p&gt;Even when you multiply their nominal cost by 100 for the extremely limited
-production run, you still end up with a cost-effective system. SpaceX’s
-semi-reusable rockets cost between $50M and $150M &lt;em&gt;per launch&lt;/em&gt;. The real-world
-Space Shuttle cost between $500M and $1.5B per launch. The Saturn V cost about
-$1.6B per launch in modern dollars.&lt;/p&gt;
-
-&lt;p&gt;Our fictional spaceplane would cost little more than the cost of a load of
-fuel. Sure, it’d need to undergo maintenance between flights, but it probably
-wouldn’t need to be practically rebuilt like the real-world systems. So perhaps
-we’re looking at $2M per launch or so? It practically pays for itself in six
-launches or so when compared to the “competition”.&lt;/p&gt;
-
-&lt;p&gt;Of course, that’s a very optimistic assumption. In your games you’re always free
-to assume Octopus Aerospace is full of shit and this thing is a lemon in all its
-incarnations. It’s what prevented all those real world spaceplane projects from
-going forward, after all.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;$880M, or its nominal cost multiplied by 100 because it’s a production
-run of one. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/10/spaceplane.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>spaceships</category>
         
         
       </item>
