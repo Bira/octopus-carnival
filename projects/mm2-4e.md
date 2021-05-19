@@ -30,6 +30,7 @@ variants here. Here they are, from A to Z:
   - [Archon, Water][7]
 - B
   - [Barghest][8]
+  - [Behir][9]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -39,3 +40,4 @@ variants here. Here they are, from A to Z:
 [6]: {{ "/2021/04/20/archons-storm.html" | relative_url }}
 [7]: {{ "/2021/05/03/archons-water.html" | relative_url }}
 [8]: {{ "/2021/05/18/barghest.html" | relative_url }}
+[9]: {{ "/2021/05/19/behir.html" | relative_url }}
