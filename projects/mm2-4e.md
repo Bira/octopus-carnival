@@ -31,6 +31,7 @@ variants here. Here they are, from A to Z:
 - B
   - [Barghest][8]
   - [Behir][9]
+  - [Beholder][10]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -41,3 +42,4 @@ variants here. Here they are, from A to Z:
 [7]: {{ "/2021/05/03/archons-water.html" | relative_url }}
 [8]: {{ "/2021/05/18/barghest.html" | relative_url }}
 [9]: {{ "/2021/05/19/behir.html" | relative_url }}
+[10]: {{ "/2021/05/21/beholder.html" | relative_url }}
