@@ -5,9 +5,111 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 May 2021 16:59:21 +0000</pubDate>
-    <lastBuildDate>Sun, 23 May 2021 16:59:21 +0000</lastBuildDate>
+    <pubDate>Thu, 27 May 2021 17:07:31 +0000</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 17:07:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Streamlined Melee Mastery for GURPS</title>
+        <description>&lt;p&gt;In GURPS, the Trained by a Master advantage allows a character to perform
+martial feats on par with those seen in kung fu movies and other similar
+stories. The Weapon Master advantage does basically the same in a slightly
+different way. They overlap so much that I’m not sure if they were meant to
+exist in the same campaign!&lt;/p&gt;
+
+&lt;p&gt;I think both advantages are fairly priced on their own, but I don’t think both
+of them combined are worth 75 points. Choosing to only allow one of them in your
+campaign is a fairly simple matter, but what if you want to allow both,
+potentially on the same character?&lt;/p&gt;
+
+&lt;p&gt;Most of the differences between the two traits are fiddly matters of skill
+coverage. Sweeping those aside leaves us with the remaining elephant in the
+room, the Weapon Master damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;elephant-examination-the-damage-bonus&quot;&gt;Elephant Examination: The Damage Bonus&lt;/h2&gt;
+
+&lt;p&gt;In my experience, the damage bonus is the biggest game changer in the entire WM
+package. Even if a Weapon Master never learns a supernatural skill and never
+attacks or parries more than once per turn, they’re still going to feel like an
+entirely different character from someone who has the exact same stats but lacks
+the advantage. It feels a bit unfair to me that this bonus is not available to
+characters that focus on unarmed strikes.&lt;/p&gt;
+
+&lt;p&gt;GURPS uses realistic assumptions as a base for its rules, and under those
+assumptions a combatant with a weapon always has a big advantage over one
+without. The unarmed fighter risks limb injury on every parry and strike. The
+armed one has greater reach and much better damage from using swing attacks or
+simply from doing a better damage type than crushing.&lt;/p&gt;
+
+&lt;p&gt;An unarmed fighter with Trained By a Master can approach that by taking other
+traits… But then they’ve spent 60 points and bought a Hard combat skill to be
+on par with someone who bought an Average skill and took Weapon Master (single
+weapon) for 20 points.&lt;/p&gt;
+
+&lt;p&gt;I don’t feel a need to keep this “effectiveness gap” between armed and unarmed
+skills when we’re dealing with a campaign that allows “mastery” advantages in
+the first place.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-traits&quot;&gt;New Traits&lt;/h2&gt;
+
+&lt;p&gt;My solution to the above situation is to rejigger the existing traits. The new
+and altered traits below are available in any campaign that also allows both
+Trained by a Master and Weapon Master.&lt;/p&gt;
+
+&lt;h3 id=&quot;true-master-50-points&quot;&gt;True Master (50 points)&lt;/h3&gt;
+
+&lt;p&gt;Through either decades of dedication or being some sort of war god, you have
+mastered all forms of “archaic” combat. You gain &lt;em&gt;all&lt;/em&gt; the benefits from having
+both Trained by a Master and the full version of Weapon Master. Your unarmed
+strikes enjoy the same damage bonus described under Weapon Master. This bonus
+&lt;em&gt;does&lt;/em&gt; stack with other bonuses from high striking skills and from traits like
+Claws.&lt;/p&gt;
+
+&lt;p&gt;Those two advantages still exist, and represent a slightly less comprehensive
+form of mastery. You can upgrade from any of them to True Master by spending the
+difference between their point value and 50.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-limbs-10-points&quot;&gt;Iron Limbs (10 points)&lt;/h3&gt;
+
+&lt;p&gt;Your limbs are immune to incidental injury during unarmed combat. Enemies can’t
+damage your limbs when they parry your unarmed attacks with a weapon, nor can
+they switch targets and damage your limbs when you fail to parry their
+attacks. You also don’t hurt yourself when hitting armored opponents with
+unarmed strikes. Your limbs can still be deliberately targeted by enemy attacks,
+however.&lt;/p&gt;
+
+&lt;p&gt;This trait replaces Unarmed Master, as it is basically Unarmed Master without
+the damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I like those two traits, though as of this writing I still need to actually
+field-test them.&lt;/p&gt;
+
+&lt;p&gt;In campaigns that use these two new advantages, an unarmed specialist &lt;em&gt;can’t&lt;/em&gt;
+turn their limbs into Strikers. That’s what Unarmed Master did, and we did away
+with it. IF the specialist in question happens to belong to a non-human species
+that has natural Strikers, though, &lt;em&gt;those&lt;/em&gt; would stack with True Master. Beware
+of boxing crab-people!&lt;/p&gt;
+
+&lt;p&gt;Iron Limbs doesn’t have any prerequisites: you could buy it without having any
+of the “mastery” advantages. This allows it to be used to represent an extremely
+focused blessing, or a creature whose limbs are naturally hard to hurt or even
+naturally made of metal.&lt;/p&gt;
+
+&lt;p&gt;Finally, if you feel 10 points for Iron Limbs is too expensive for someone who
+is already a True Master, you could try rolling it into True Master at no extra
+cost, and eliminating the separate Iron Limbs advantage.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Building a GURPS Spaceplane: The Second Iteration</title>
@@ -997,181 +1099,6 @@ fine armor you find in the wild is one you don’t have to spend Soul Points on!
         <category>gurps</category>
         
         <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>'Superheavy' Melee Weapons in GURPS</title>
-        <description>&lt;p&gt;Over- and undersized weapons are a popular trope for fantasy and
-fantasy-adjacent stories. Those giants and pixies need something to fight with,
-and human-scale warriors with huge swords is a itself a popular genre trope.&lt;/p&gt;
-
-&lt;p&gt;GURPS already has a pretty good set of cinematic rules for representing
-these. The best source of these is the &lt;em&gt;Scaling Weapons and Armor&lt;/em&gt; section found
-in &lt;strong&gt;GURPS Low-Tech Companion 2: Weapons and Warriors&lt;/strong&gt;. GURPS Dungeon Fantasy
-uses a limited subset of those in DF1 and 3.&lt;/p&gt;
-
-&lt;p&gt;However, there are a few other tropes that mess around with weapon weights in a
-supernatural way. Let’s take a look at how to represent them in GURPS.&lt;/p&gt;
-
-&lt;h2 id=&quot;superheavy-weapons&quot;&gt;Superheavy Weapons&lt;/h2&gt;
-
-&lt;p&gt;This is a melee weapon that’s the same size as its mundane counterpart, but it’s
-a lot &lt;em&gt;heavier&lt;/em&gt;. It’s probably made out of a non-standard material, which
-depending on the weapon might be a fruit of superscience or magic. Such weapons
-are usually built for legendarily strong wielders! The increased weight not only
-makes the weapons more deadly, but also allows its owner to employ their full
-strength when fighting.&lt;/p&gt;
-
-&lt;p&gt;To model these weapons, use the Scaling Weapons and Armor rules, with a few
-modifications:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Either pick a final weight for the weapon, or note the strength of its
-intended wielder if you already know that.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Go to page 21 of Low-Tech Companion 2, and pick the line whose “Typical User
-ST” column most closely matches that of the wielder.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you started with the weight, divide final weight by the “base” weight of
-the weapon and pick the line whose Weight column is closest to the result.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Modify the weapon’s Damage, required ST, Weight and base cost as written in
-LTC2. &lt;em&gt;Do not&lt;/em&gt; modify Reach or SM.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And there you have it! And yes, you can combine this with normal weapon scaling
-to make a weapon whose weight is abnormally large for its size. In that case,
-two extra steps apply after completing the procedure above:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Multiply the weapon’s Reach by the value in the table row corresponding to the
-SM of the intended wielder.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Cost is the &lt;em&gt;higher&lt;/em&gt; of the weapon’s final modified cost, or the cost of a
-standard SM 0 weapon.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;: We’re making a super-strong martial artist character and we want
-him to use an iron quarterstaff that’s ten times heavier than the wooden
-variety. Looking at the table on LTC2 p. 21, we see that the closest multiplier
-is 12.25, for the SM+3 line.&lt;/p&gt;
-
-&lt;p&gt;After applying the modified process above, we end up with a weapon that has the
-following qualities: Damage sw+7 cr or thr+7 cr; Reach 1, 2; Parry +2; Cost
-$122,50; Weight 20kg (40 lbs); ST 25. So our hero would need at least ST 25 to
-properly wield such a weapon.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2&lt;/strong&gt;: We’re making a pixie barbarian using Dungeon Fantasy rules. Her
-ST is 13, which is legendary for a people whose SM is -6 and whose typical ST
-score is 5. We want her to wield a weapon that’s superheavy &lt;em&gt;for a pixie&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The chosen base weapon is a Dueling Halberd. We use the SM -6 row in the table
-for the halberd’s Reach multiplier, and the SM -2 row for everything else. Our
-resulting halberd will weight only a quarter of the human version, but it will
-be 25 times heavier than a “standard” pixie polearm, and weight more than its
-wielder! Since its modified cost of $30 is lower than its base cost of $150, it
-costs the same as a full-sized halberd.&lt;/p&gt;
-
-&lt;p&gt;The final stats are: Damage sw+2 cut or sw+2 imp or thr+2 imp; Reach C; Parry 0U
-or 0; Cost $150; Weight 1.25kg (2.5 lbs); ST 6++. Note that our super-strong
-pixie can wield this halberd one-handed without it becoming unready.&lt;/p&gt;
-
-&lt;h2 id=&quot;magically-attuned-weapons&quot;&gt;Magically Attuned Weapons&lt;/h2&gt;
-
-&lt;p&gt;This trope is popular in the Exalted roleplaying game. Magic weapons in that
-setting are based both on some tales of classical mythology and on modern media
-such as action anime and certain video games. The heroes who wield these weapons
-“attune their essence” to them, which makes the weapons feel like they have
-normal weight to their owners, while still being superheavy to everyone else -
-particularly their targets.&lt;/p&gt;
-
-&lt;p&gt;This means that characters wielding these weapons don’t have to be generically
-super-strong, and that the ability to handle one weapon doesn’t give them the
-ability to wield others.&lt;/p&gt;
-
-&lt;p&gt;To create such a weapon, use the same process outlined above for “superheavy”
-weapons. Attunement is represented by a new advantage, which the weapon’s owner
-must purchase in order to use it.&lt;/p&gt;
-
-&lt;h3 id=&quot;attunement-variable-cost&quot;&gt;Attunement (Variable Cost)&lt;/h3&gt;
-
-&lt;p&gt;You’re attuned to a specific magical weapon which is super-heavy, oversized, or
-both. You can wield it just as if it was a normal-sized weapon, though its
-targets will still feel the full weight of your blows.&lt;/p&gt;
-
-&lt;p&gt;To calculate the cost of this advantage, subtract your actual ST from the
-weapon’s minimum ST and multiply it by 1.6, rounding up. Add 1 to the total if
-the weapon is also oversized.&lt;/p&gt;
-
-&lt;p&gt;Attunement in no way “protects” your weapon! If it’s permanently lost or
-destroyed, you lose all the points invested in it.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Details&lt;/em&gt;: This is just enough levels of Lifting and Striking ST with the
-limitation “Only for this weapon” (-80%) to cover the difference between the
-character’s ST score and the minimum ST for the weapon. The extra point for
-oversized weapons is a specialized version of the Giant Weapons perk that
-removes all penalties due to size difference, but only works for that single
-weapon.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: If the Iron Staff from the previous section was a magic artifact in
-the style described here, a reedy ST 8 hero could attune to it by paying 28
-character points. 25 - 8 is 17, which multiplied by 1,6 gives us 27,5, which is
-then rounded up. This allows the hero to fight with the Staff as if he had
-ST 25, and to ignore its great weight when carrying it, but he’ll still be ST 8
-for all other purposes.&lt;/p&gt;
-
-&lt;h2 id=&quot;whomsoever-wields-this-hammer-should-he-be-worthy&quot;&gt;“Whomsoever wields this hammer, should he be worthy…”&lt;/h2&gt;
-
-&lt;p&gt;The third and final special weapon covered in this article are those powerful
-magical artifacts that only allow those they deem worthy to even lift
-them. Thor’s hammer from the Marvel comics and movies is a famous example.&lt;/p&gt;
-
-&lt;p&gt;Lifting and using these weapons is not a matter of muscle mass, but of moral
-strength. When you touch them, they judge you! If you pass that judgment, then
-you can lift and wield the weapon as if it was a normal specimen of its kind.&lt;/p&gt;
-
-&lt;p&gt;You don’t actually need to make these weapons superheavy or oversized. Instead,
-they look for certain traits in a prospective wielder. Those who have these
-traits are worthy. Those who don’t can’t even lift the weapon, even if they’re
-the strongest being in the universe muscle-wise. I generally consider this to be
-a story effect and wouldn’t try to put a price tag on it.&lt;/p&gt;
-
-&lt;p&gt;A weapon like movie-Mjolnir might look for one or more virtues along the lines
-of Honesty, Selfless, Charitable and so on. An evil weapon would instead look
-for Bloodlust or Sadism. They would of course also avoid traits opposite to
-those they like.&lt;/p&gt;
-
-&lt;p&gt;If the weapon in question is also superheavy or oversized, then it could grant
-worthy wielders the ST to use it, similar to how Attunement works, at no cost to
-the wielder. If you’re writing up the weapon as a character, this would be a
-benefficial Affliction granting the Attunement advantage described in the
-previous section of this article. Simplify its cost by having it grant a number
-of levels of ST equal to the minimum needed to wield the weapon regardless of
-the wielder’s current ST.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: The Iron Staff belonged to the Monkey King! Though it will shun
-Bloodthirsty, Callous, Greedy or Sadistic individuals, it will deem worthy
-anyone who shows its former master’s heroic spirit, martial prowess, or love of
-mischief. Anyone with at least two of Selfless, a Code of Honor or Higher
-Purpose to fight evil, Trained by a Master, Curious, or Trickster could be
-deemed worthy and be considered to have ST 25 when wielding the staff.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/05/03/superheavy-weapons.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/05/03/superheavy-weapons.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>

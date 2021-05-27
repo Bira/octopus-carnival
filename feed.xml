@@ -6,9 +6,111 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 May 2021 16:59:21 +0000</pubDate>
-    <lastBuildDate>Sun, 23 May 2021 16:59:21 +0000</lastBuildDate>
+    <pubDate>Thu, 27 May 2021 17:07:31 +0000</pubDate>
+    <lastBuildDate>Thu, 27 May 2021 17:07:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Streamlined Melee Mastery for GURPS</title>
+        <description>&lt;p&gt;In GURPS, the Trained by a Master advantage allows a character to perform
+martial feats on par with those seen in kung fu movies and other similar
+stories. The Weapon Master advantage does basically the same in a slightly
+different way. They overlap so much that I’m not sure if they were meant to
+exist in the same campaign!&lt;/p&gt;
+
+&lt;p&gt;I think both advantages are fairly priced on their own, but I don’t think both
+of them combined are worth 75 points. Choosing to only allow one of them in your
+campaign is a fairly simple matter, but what if you want to allow both,
+potentially on the same character?&lt;/p&gt;
+
+&lt;p&gt;Most of the differences between the two traits are fiddly matters of skill
+coverage. Sweeping those aside leaves us with the remaining elephant in the
+room, the Weapon Master damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;elephant-examination-the-damage-bonus&quot;&gt;Elephant Examination: The Damage Bonus&lt;/h2&gt;
+
+&lt;p&gt;In my experience, the damage bonus is the biggest game changer in the entire WM
+package. Even if a Weapon Master never learns a supernatural skill and never
+attacks or parries more than once per turn, they’re still going to feel like an
+entirely different character from someone who has the exact same stats but lacks
+the advantage. It feels a bit unfair to me that this bonus is not available to
+characters that focus on unarmed strikes.&lt;/p&gt;
+
+&lt;p&gt;GURPS uses realistic assumptions as a base for its rules, and under those
+assumptions a combatant with a weapon always has a big advantage over one
+without. The unarmed fighter risks limb injury on every parry and strike. The
+armed one has greater reach and much better damage from using swing attacks or
+simply from doing a better damage type than crushing.&lt;/p&gt;
+
+&lt;p&gt;An unarmed fighter with Trained By a Master can approach that by taking other
+traits… But then they’ve spent 60 points and bought a Hard combat skill to be
+on par with someone who bought an Average skill and took Weapon Master (single
+weapon) for 20 points.&lt;/p&gt;
+
+&lt;p&gt;I don’t feel a need to keep this “effectiveness gap” between armed and unarmed
+skills when we’re dealing with a campaign that allows “mastery” advantages in
+the first place.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-traits&quot;&gt;New Traits&lt;/h2&gt;
+
+&lt;p&gt;My solution to the above situation is to rejigger the existing traits. The new
+and altered traits below are available in any campaign that also allows both
+Trained by a Master and Weapon Master.&lt;/p&gt;
+
+&lt;h3 id=&quot;true-master-50-points&quot;&gt;True Master (50 points)&lt;/h3&gt;
+
+&lt;p&gt;Through either decades of dedication or being some sort of war god, you have
+mastered all forms of “archaic” combat. You gain &lt;em&gt;all&lt;/em&gt; the benefits from having
+both Trained by a Master and the full version of Weapon Master. Your unarmed
+strikes enjoy the same damage bonus described under Weapon Master. This bonus
+&lt;em&gt;does&lt;/em&gt; stack with other bonuses from high striking skills and from traits like
+Claws.&lt;/p&gt;
+
+&lt;p&gt;Those two advantages still exist, and represent a slightly less comprehensive
+form of mastery. You can upgrade from any of them to True Master by spending the
+difference between their point value and 50.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-limbs-10-points&quot;&gt;Iron Limbs (10 points)&lt;/h3&gt;
+
+&lt;p&gt;Your limbs are immune to incidental injury during unarmed combat. Enemies can’t
+damage your limbs when they parry your unarmed attacks with a weapon, nor can
+they switch targets and damage your limbs when you fail to parry their
+attacks. You also don’t hurt yourself when hitting armored opponents with
+unarmed strikes. Your limbs can still be deliberately targeted by enemy attacks,
+however.&lt;/p&gt;
+
+&lt;p&gt;This trait replaces Unarmed Master, as it is basically Unarmed Master without
+the damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I like those two traits, though as of this writing I still need to actually
+field-test them.&lt;/p&gt;
+
+&lt;p&gt;In campaigns that use these two new advantages, an unarmed specialist &lt;em&gt;can’t&lt;/em&gt;
+turn their limbs into Strikers. That’s what Unarmed Master did, and we did away
+with it. IF the specialist in question happens to belong to a non-human species
+that has natural Strikers, though, &lt;em&gt;those&lt;/em&gt; would stack with True Master. Beware
+of boxing crab-people!&lt;/p&gt;
+
+&lt;p&gt;Iron Limbs doesn’t have any prerequisites: you could buy it without having any
+of the “mastery” advantages. This allows it to be used to represent an extremely
+focused blessing, or a creature whose limbs are naturally hard to hurt or even
+naturally made of metal.&lt;/p&gt;
+
+&lt;p&gt;Finally, if you feel 10 points for Iron Limbs is too expensive for someone who
+is already a True Master, you could try rolling it into True Master at no extra
+cost, and eliminating the separate Iron Limbs advantage.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Bullywugs</title>
@@ -1510,116 +1612,6 @@ than a nearby bandit or goblin lair would.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Ankheg</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ankheg.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Ankhegs appear in AD&amp;amp;D 1st Edition, and they would go on to achieve minor fame
-among players because of their lore.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Ankhegs are giant burrowing insects who dig mazelike tunnel networks and hunt by
-bursting through the ground and snatching surface prey with their huge
-mandibles. They also have acidic saliva, which they can spray at enemies.&lt;/p&gt;
-
-&lt;p&gt;These creatures live in “family units” consisting of a mated pair and a small
-brood of young. These broodlings are rarely seen on the surface - their parents
-bring prey to them underground. Other things might also be living in ankheg
-tunnels, since the creatures don’t use all of it as living space.&lt;/p&gt;
-
-&lt;p&gt;This is the extent of the lore we get in the MM2, but it was the bits left out
-that made ankhegs low-key famous. These bits say that ankhegs prefer to dig
-through soil rich in minerals and organic matter. This means forests, but it
-also means &lt;em&gt;good farmland&lt;/em&gt;. Therefore, these creatures are likely to be found
-very close to civilized settlements. I think I saw at least one source that said
-having ankhegs underground actually improved the quality of the soil. If this
-isn’t true in your campaign, it might very well be a common folk superstition.&lt;/p&gt;
-
-&lt;p&gt;Even if ankhegs don’t enrich the soil, their presence might still act as an
-extra security measure against the many &lt;em&gt;other&lt;/em&gt; dangers from the wild, assuming
-the farmers in question can develop some way of avoiding the beasts
-themselves. If you walk without rythm, you won’t attract the
-worm. Unfortunately, it looks like they cannot be tamed, so farming in ankheg
-country makes for a very interesting life. Fortunately, you won’t find more than
-one “family” of ankhegs in a given area.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Ankhegs are Natural Beasts, with the adults being Large and the broodlings
-Small. Both have tremorsense and a burrow speed, and are of animal intelligence.&lt;/p&gt;
-
-&lt;h3 id=&quot;ankheg&quot;&gt;Ankheg&lt;/h3&gt;
-
-&lt;p&gt;This adult specimen is a Level 3 Elite Lurker with 100 HP. It has Resist 5 Acid
-to protect itself from its own saliva, a land speed of 8, and a burrowing speed
-of 4 with the Tunneling keyword, which means it leaves stable tunnels behind.&lt;/p&gt;
-
-&lt;p&gt;The classic ankheg tactic is for the beast to use its Stealth training and
-burrowing speed to lie in wait underground until it senses prey passing
-above. Then it’s going to erupt and hit its victims with an &lt;strong&gt;Acid Spray&lt;/strong&gt;
-(close burst 3 vs. Reflex) which deals immediate and ongoing acid damage and
-also slows (save ends both). It can do that again it if’s bloodied.&lt;/p&gt;
-
-&lt;p&gt;Next it’s going to nab the nearest victim using a &lt;strong&gt;Mandible Grab&lt;/strong&gt;, which
-damages and grabs (Acrobatics DC 16 or Athletics DC 14 to escape). It can only
-grab one victim at once, but &lt;strong&gt;Mandible Carry&lt;/strong&gt; allows it to move normally with
-a grabbed victim. If the victim struggles too much the ankheg can also &lt;strong&gt;Gnaw
-and Scuttle&lt;/strong&gt; as a minor action, which requires an attack roll and does physical
-damage and ongoing acid damage (save ends) in addition to allowing the monster
-to shift 2 squares.&lt;/p&gt;
-
-&lt;p&gt;The ankheg can put a lot of distance between itself and its victim’s buddies in
-a single turn by using a double move and spending a minor action on Gnaw and
-Scuttle. Still, if someone does manage to reach it while it has a grabbed
-victim, it can use &lt;strong&gt;claw&lt;/strong&gt; attacks to fight in melee.&lt;/p&gt;
-
-&lt;h3 id=&quot;ankheg-broodling&quot;&gt;Ankheg Broodling&lt;/h3&gt;
-
-&lt;p&gt;Ankheg attacks are fun for the whole family, because you’re going to be jumped
-by Mom and Dad, who will then carry you a ways underground so the kids can come
-out and eat.&lt;/p&gt;
-
-&lt;p&gt;Broodlings are Level 1 Minion Brutes, with the same tremorsense as the adults, a
-land speed of 6 and a burrow speed of 2 with Tunneling. They have basic &lt;strong&gt;claw&lt;/strong&gt;
-attacks along with a less accurate and more damaging &lt;strong&gt;Mandible Rip&lt;/strong&gt; that deals
-some “splash” acid damage to enemies adjacent to the target on a
-critical. &lt;strong&gt;Brood Swarm&lt;/strong&gt; gives them a +4 bonus when attacking a creature
-grabbed by any ankheg. This more than negates the accuracy penalty from Mandible
-Rip.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is Level 4: a pair of ankhegs and 6 broodlings plus a rage
-drake that was likely their original intended victim before the party came
-along.&lt;/p&gt;
-
-&lt;p&gt;My initial impression of anhkegs was that they were just another big bug
-monster, but the possibility of a setting where ankhegs under your farm fields
-are just another fact of life makes the more interesting in my eyes. The section
-on encounter groups also mentions that sometimes giant ants “take control” of a
-group of broodlings after they drive their parents away, and I can almost hear
-David Atenborough narrating that nature documentary.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/03/30/ankheg.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/03/30/ankheg.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dnd4</category>
         
         
       </item>
