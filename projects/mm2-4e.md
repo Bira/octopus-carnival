@@ -34,6 +34,7 @@ variants here. Here they are, from A to Z:
   - [Beholder][10]
   - [Bullywug][11]
   - [Centaur][12]
+  - [Centipede][13]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -47,3 +48,4 @@ variants here. Here they are, from A to Z:
 [10]: {{ "/2021/05/21/beholder.html" | relative_url }}
 [11]: {{ "/2021/05/23/bullywug.html" | relative_url }}
 [12]: {{ "/2021/05/29/centaur.html" | relative_url }}
+[13]: {{ "/2021/05/30/centipede.html" | relative_url }}
