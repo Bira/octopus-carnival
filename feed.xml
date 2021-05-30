@@ -6,9 +6,216 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 29 May 2021 23:38:46 +0000</pubDate>
-    <lastBuildDate>Sat, 29 May 2021 23:38:46 +0000</lastBuildDate>
+    <pubDate>Sun, 30 May 2021 03:58:37 +0000</pubDate>
+    <lastBuildDate>Sun, 30 May 2021 03:58:37 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Centaur</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-centaur.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Centaurs are inspired by Greek myth, in which they were The Worst (with rare
+exceptions). They’ve been in D&amp;amp;D since at least the days of BECMI, which even
+had a supplement that made them playable.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Fourth Edition centaurs are a good deal nicer than their mythological
+counterparts. Their culture venerates nature in its wilder aspects, and they
+have an extensive martial tradition. In other words: they’re quite rowdy and
+love a good fight. Kord and Melora are a lot more popular with them than
+Corellon, who is otherwise the go-to fey deity. I don’t know if the lore of the
+primal spirits had been finalized at this point, but centaurs also work great as
+primal spirit worshippers.&lt;/p&gt;
+
+&lt;p&gt;Centaurs like to live in areas that contain vast plains or steppes, but they
+like to build their settlements on hills or inside caves. The combination gives
+them a defensible position surrounded by clear sight lines all around, and also
+gives them the large space they need to run around and to grow their food.&lt;/p&gt;
+
+&lt;p&gt;Centaurs are not typically evil, but they’re territorial, mistrustful of
+strangers, and hate people who despoil nature. Dealing with them peacefully
+requires careful diplomacy that begins beyond arrow range. The prospective
+ambassador should spend great effort making their approach both obvious and
+obviously non-threatening. Once the centaurs recognize you for a friend, though,
+they can become steadfast allies.&lt;/p&gt;
+
+&lt;p&gt;Most centaur settlements are located in the Feywild, though there are some in
+the world bordering elven forests. Centaur law is simple, and most crimes carry
+banishment and exile as their punishment. Exiled centaur criminals could easily
+end up working with other villains.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Centaurs are Large Fey Humanoids, with low-light vision and a ground speed
+of 8. They have two signature abilities. The first is that their basic attacks
+do an extra die of damage when used in a charge. The other is a reaction called
+&lt;strong&gt;Quick Kick&lt;/strong&gt;, which allows them to make a free kick attack against an enemy
+who moves into a position that flanks the centaur.&lt;/p&gt;
+
+&lt;h3 id=&quot;centaur-hunter&quot;&gt;Centaur Hunter&lt;/h3&gt;
+
+&lt;p&gt;If this was a PC, it would be a Twin Strike-spamming ranger. Hunters are Level
+12 Artillery with 96 HP and all standard centaur traits.&lt;/p&gt;
+
+&lt;p&gt;They fight with classic horse archer tactics, using their superior mobility to
+keep away and fire on the move. Their main ranged attack is &lt;strong&gt;Lightning-Fast
+Arrows&lt;/strong&gt; (range 25/50 vs. AC), a standard action that allows them to shoot
+twice. Though each individual arrow has low damage, the two combined almost line
+up with MM3 math.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, they can use a &lt;strong&gt;Charge Arrow&lt;/strong&gt; (ranged 25/50 vs. Fortitude) to
+do a bit more single-arrow damage, push the target 3 squares, and knock it
+prone. I’d say it’s not worth it unless the target is near a cliff or the hunter
+has melee buddies that would benefit from a prone enemy.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the hunter can speed up even more and deliver a &lt;strong&gt;Triple
+Shot&lt;/strong&gt; (ranged 25/50 vs. AC), making three attacks whose individual damage is
+a bit higher.&lt;/p&gt;
+
+&lt;p&gt;If someone does manage to engage the hunter in melee, it can defend itself with
+a &lt;strong&gt;bastard sword&lt;/strong&gt;… but it doesn’t really need to, since the &lt;strong&gt;Close-Combat
+Archer&lt;/strong&gt; trait makes it not provoke opportunity attacks from the targets of its
+shots.&lt;/p&gt;
+
+&lt;h3 id=&quot;centaur-ravager&quot;&gt;Centaur Ravager&lt;/h3&gt;
+
+&lt;p&gt;The most likely melee buddy for the hunter, this is a barbarian-type. Ravagers
+are Level 12 Brutes with 150 HP and all standard centaur traits. They fight in
+melee with their &lt;strong&gt;bastard swords&lt;/strong&gt;, and they can use a &lt;strong&gt;Berserk Rush&lt;/strong&gt; (melee
+1 vs. Fortitude; recharges when first bloodied) to do even more damage on a
+charge, push the target 2 squares, and knock them prone. When first bloodied,
+they also use &lt;strong&gt;Brash Retaliation&lt;/strong&gt;, a free action attack that does high damage
+and pushes the targets 2 squares.&lt;/p&gt;
+
+&lt;p&gt;All of this suggests shock cavalry tactics: charge, fight in place for a bit,
+then move away and charge again. Though I guess ravagers have no problem staying
+in the thick of it either.&lt;/p&gt;
+
+&lt;h3 id=&quot;centaur-mystic&quot;&gt;Centaur Mystic&lt;/h3&gt;
+
+&lt;p&gt;A wise primal or divine spellcaster, the mystic takes a priestly role in centaur
+culture and advises the community on its duties towards nature and the
+spirits. In combat they use plant- and earth-themed magic.&lt;/p&gt;
+
+&lt;p&gt;Mystics are Level 13 Controllers with 132 HP and all standard centaur
+traits. They wield Reach 2 &lt;strong&gt;quarterstaffs&lt;/strong&gt; which also acts as implements for
+their magic. The mainstay here is &lt;strong&gt;Rootwhip Staff&lt;/strong&gt;, a melee spell that targets
+Reflex and does the same damage as a basic staff attack, but also slides the
+target 3 squares and slows it (save ends).&lt;/p&gt;
+
+&lt;p&gt;The mystic’s ranged options are big guns with limited ammo:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ancestral Chargers&lt;/strong&gt; is a Close Blast 5 that presumably summons ancestors
+spirits and has funky mechanics. It targets both Fortitude and Will: you make a
+single attack roll against both defenses. If the attack beats the target’s Will,
+they take high psychic damage; if it beats the target’s Fortitude they’re
+knocked prone and pushed 2 squares. This spell recharges when a friendly centaur
+within 10 squares drops to 0 hit points, which implies the recharge comes from
+summoning their recently departed spirit for one last strike.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Biting Earth&lt;/strong&gt; (Area Burst 2 within 10; recharges when first bloodied) creates
+a zone that lasts for a turn and can be sustained with standard actions. The
+biting earth zone immobilizes all enemies within. These enemies can choose to
+take 3d8 damage to save against the effect as a free action. There’s no regular
+save, so if the enemy doesn’t want to take damage they’re stuck in place while
+the zone lasts. When the zone is sustained, the mystic can choose to move it up
+to 3 squares.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can also use &lt;strong&gt;Mystic Resonance&lt;/strong&gt; (minor action), which
+affects all allies within 10 squares. It heals them for 10 HP and allows them to
+roll a save.&lt;/p&gt;
+
+&lt;p&gt;Looks like you want to open with Ancestral Chargers here, and then use Biting
+Earth to try and hold the PCs in place for the ravagers and hunters to do their
+stuff.&lt;/p&gt;
+
+&lt;h3 id=&quot;centaur-fey-charger&quot;&gt;Centaur Fey Charger&lt;/h3&gt;
+
+&lt;p&gt;Fey chargers are significantly more powerful than the other centaurs we saw up
+until now, being better fighters and having a host of storm-themed powers. This
+would fit a warden or a paladin of Kord.&lt;/p&gt;
+
+&lt;p&gt;They’re level 18 Soldiers with 172 HP and all standard centaur traits. They wear
+mail and carry a shield in addition to the traditional centaur bastard sword,
+none of which slows them down.&lt;/p&gt;
+
+&lt;p&gt;They can fire &lt;strong&gt;Stabs of Lightning&lt;/strong&gt; (ranged 10 vs. Reflex) do to lighthning
+damage at range while closing in, but the main event is the melee. Once an
+opening presents itself they close in with a &lt;strong&gt;Thunder Charge&lt;/strong&gt;, a strong attack
+that does a mix of physical and lightning damage and carries a secondary Close
+Burst 2 attack that targets Fortitude, does thunder damage, knocks prone and
+marks for a turn.&lt;/p&gt;
+
+&lt;p&gt;Once engaged, their &lt;strong&gt;sword&lt;/strong&gt; attacks mark for a turn, and they can use
+&lt;strong&gt;Thunder Hooves&lt;/strong&gt; (melee 1 vs. Fortitude) as a reaction to attack anyone who
+ignores the mark and do thunder damage to them.&lt;/p&gt;
+
+&lt;h3 id=&quot;centaur-campaigner&quot;&gt;Centaur Campaigner&lt;/h3&gt;
+
+&lt;p&gt;A legendary commander and champion of the centaur people with decades of
+military experience. The campaigner is a Level 25 Soldier (Leader) with all
+standard centaur traits and a good deal of supernatural wind- and storm-themed
+abilities. It wears plate, and carries a shield and a longsword.&lt;/p&gt;
+
+&lt;p&gt;The bonus charge damage of the &lt;strong&gt;longsword&lt;/strong&gt; attack is thunder, and the
+Campaigner is all about that glorious impossible charge. Its &lt;strong&gt;Light Hoof&lt;/strong&gt;
+trait allows it to ignore all difficult terrain, and &lt;strong&gt;Sky Bound&lt;/strong&gt; (at-will free
+action) allows it to fly for the duration of its next move, though it must land
+at the end. If that isn’t possible the centaur will gently float down to the
+floor, so it doesn’t take fall damage but you might say its momentum gets kinda
+ruined.&lt;/p&gt;
+
+&lt;p&gt;When the campaigner’s charge hits it can use &lt;strong&gt;Three Thunder Assault&lt;/strong&gt; to allow
+two allies within 10 squares of itself to charge as a free action. These charges
+deal a bit of bonus thunder damage as well. Combine this with other centaurs
+(maybe even other campaigners), and you have an instant massive cavalry charge!&lt;/p&gt;
+
+&lt;p&gt;Once engaged, &lt;strong&gt;Shock Trooper&lt;/strong&gt; gives the campaigner a small bonus to damage
+while it’s adjacent to more than one foe. It can also use a maneuver called
+&lt;strong&gt;Hoofed Tornado&lt;/strong&gt; to perform strong attacks on all enemies in a Close Burst 1,
+knocking them prone on a hit and marking them for a turn as an effect. This
+recharges when it’s first bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Centaurs might be found as members of most fey-themed encounter groups, working
+alongside elves, eladrin, satyrs, and so on. I imagine the nastier sort of
+centaur might also work alongside shady customers such as banshrae, hags, or
+fomorians. For some of those you might want to do some level adjustment either
+of the centaurs themselves or their associates.&lt;/p&gt;
+
+&lt;p&gt;If you want your party to meet centaurs early, knocking 10 levels from the
+centaur hunter, ravager and mystic would be a good start, making them
+early-heroic NPCs/enemies.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter we get is Level 23: a centaur campaigner plus two eladrin
+ghaeles of winter mounted on fell wyverns.&lt;/p&gt;
+
+&lt;p&gt;I like these centaurs! They can be either friend or foe depending on how they’re
+treated, and in any case the PCs might find a way to talk to them instead of
+fighting right away. They’re exactly what I look for in a NPC humanoid
+species. Their stat blocks also work well at giving the impression of a people
+for whom infantry tactics and cavalry tactics are the same thing.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/29/centaur.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/29/centaur.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Streamlined Melee Mastery for GURPS</title>
@@ -1443,171 +1650,6 @@ damage update.&lt;/p&gt;
         <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Ant, Giant</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ant-giant.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;“Ant, Giant” is the actual title for the entry. Now that’s some old-school
-naming! Giant ants have been part of the game since the beginning, so this style
-feels appropriate.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;There isn’t a lot of mystery to giant ants. They’re red ants the size of an
-adult human. Their colonies can have hundreds of individuals, and though that’s
-far less than the teeming millions of a mundane anthill, they end up doing a lot
-more damage due to their larger size. Once a giant ant colony gets going, it
-will swiftly strip the landscape bare for miles around it.&lt;/p&gt;
-
-&lt;p&gt;Most ants are classified as “workers”, and as the name implies they handle the
-actual work of building the colony and keeping it fed. You also have some larger
-variants that are more specialized for combat, and protect the workers. And each
-colony has a single Queen who is responsible for laying eggs and perpetuating
-the hive. Though the queen is unlikely to leave her chambers once the hive is
-established, she’s quite dangerous and remains active throughout her life.&lt;/p&gt;
-
-&lt;p&gt;Despite being of animal intelligence, giant ants possess the same instinct for
-teamwork as their mundane counterparts, which means their colonies are more
-efficiently organized than many sapient societies. They communicate by emitting
-pheromone clouds, and at this scale the chemicals that make up these clouds can
-actually be harmful to non-ants. Giant warrior ants are notorious for using them
-as weapons.&lt;/p&gt;
-
-&lt;p&gt;That bit about “stripping the landscape bare” makes me think giant ants combine
-the traits of both army and leafcutter ants. So they’d both hunt other animals
-directly and cut up the vegetation to serve as bedding for their vast
-underground fungus farms. If that’s the case you do &lt;em&gt;not&lt;/em&gt; want a giant anthill
-anywhere near your territory.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Most giant ants are Medium Natural Beasts, with queens being Large. They have
-low-light vision and tremorsense 10, but none of them are trained in
-Perception. They all have a climb speed equal to their ground speed, though they
-lack Spider Climb and so can’t cling to ceilings.&lt;/p&gt;
-
-&lt;p&gt;There are several types of giant ant and all of them have some sort of
-&lt;strong&gt;Frenzy&lt;/strong&gt; ability, which triggers when another giant and within 10 squares
-drops to 0 HP. The exact effects vary per stat block, but note that if you have
-a bunch of tightly packed ants the death of a single one will trigger Frenzy for
-&lt;em&gt;all the rest&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Level-wise they’re all early-to-mid Heroic, on par with the mundane guards and
-soldiers for most playable peoples. This means fighting the spread of a giant
-ant colony might be one of the common problems a sapient settlement has to deal
-with, alongside bandits, stirges, or marauding goblins.&lt;/p&gt;
-
-&lt;h3 id=&quot;hive-worker&quot;&gt;Hive Worker&lt;/h3&gt;
-
-&lt;p&gt;The weakest and most numerous ant caste. They exist to fulfill the functional
-needs of the colony and aren’t much good in a fight, but there are a &lt;em&gt;lot&lt;/em&gt; of
-them.&lt;/p&gt;
-
-&lt;p&gt;These are Level 1 Minion Skirmishers with ground and climb speeds of 6, and a
-burrow speed of 2 with Tunneling. They’re the only giant ants with a burrow
-speed.&lt;/p&gt;
-
-&lt;p&gt;Their only attack is a &lt;strong&gt;bite&lt;/strong&gt;. Their &lt;strong&gt;Hive Worker Frenzy&lt;/strong&gt; makes them shift 2
-squares, so if you kill one the horde immediately moves to fill the gap.&lt;/p&gt;
-
-&lt;h3 id=&quot;hive-warrior&quot;&gt;Hive Warrior&lt;/h3&gt;
-
-&lt;p&gt;Warriors act as scouts and guards for worker expeditions. They’re Level 2
-Skirmishers with 36 HP and a speed of 8. They attack with a &lt;strong&gt;Piercing Bite&lt;/strong&gt;
-that does physical damage, and also does bonus acid damage if the target was
-already taking ongoing acid damage. The warrior itself can’t inflict this, so
-you’ll want to pair it with a soldier, described below.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Hive Warrior Frenzy&lt;/strong&gt; clears any mark or curse on them, and allows them
-to shift 2 squares. Yes, this will make the party warlock sad.&lt;/p&gt;
-
-&lt;h3 id=&quot;hive-soldier&quot;&gt;Hive Soldier&lt;/h3&gt;
-
-&lt;p&gt;Stronger and scarier than common warriors, soldiers stay inside the hive to
-guard it unless the queen directs them to sally forth. They’re level 3 Soldiers
-with 46 HP and speeds of 6.&lt;/p&gt;
-
-&lt;p&gt;They fight with their &lt;strong&gt;Grasping Mandibles&lt;/strong&gt; that grab the target on a hit. They
-can use their &lt;strong&gt;Acid Sting&lt;/strong&gt; against the grabbed victim, dealing both immediate
-and ongoing acid damage (save ends). Note that this would allow any accompanying
-warriors to get bonus bite damage against the victim.&lt;/p&gt;
-
-&lt;p&gt;When a soldier hits 0 HP it’s wracked by a &lt;strong&gt;Death Convulsion&lt;/strong&gt; (close burst 1
-vs. Reflex) which knocks enemies prone. Its &lt;strong&gt;Hive Soldier Frenzy&lt;/strong&gt; gives it +2
-to attacks for a turn when an ally dies.&lt;/p&gt;
-
-&lt;h3 id=&quot;winged-drones&quot;&gt;Winged Drones&lt;/h3&gt;
-
-&lt;p&gt;These flood out of the colony during mating season, ranging far and wide. At the
-end of the season I guess the males die, and the females shed their wings and
-burrow to become queens and form their colonies.&lt;/p&gt;
-
-&lt;p&gt;A winged drone is a Level 4 Skirmisher with 55 HP. It has ground, climb, and fly
-speeds of 8. Its basic attack is an &lt;strong&gt;Acid Sting&lt;/strong&gt; that does immediate and
-ongoing acid damage, and it can perform a classic &lt;strong&gt;Flyby Attack&lt;/strong&gt; maneuver with
-it. As we already know, this allows the drone to fly its speed without drawing
-opportunity attacks and sting someone at any point along the movement. Its
-&lt;strong&gt;Hive Drone Frenzy&lt;/strong&gt; allows it to shift 2 squares and use the sting.&lt;/p&gt;
-
-&lt;p&gt;Once bloodied, the drone can choose to violently shed its wings in a maneuver
-called &lt;strong&gt;Shredding Wings&lt;/strong&gt; (close blast 2 vs. AC), which does high physical
-damage and causes it to lose its fly speed until the end of the encounter.&lt;/p&gt;
-
-&lt;h3 id=&quot;hive-queen&quot;&gt;Hive Queen&lt;/h3&gt;
-
-&lt;p&gt;Like their subjects, queens are of animal intelligence. However, they have an
-instinctive drive for expanding their colony and the capability to direct their
-subjects to go forth and conquer.&lt;/p&gt;
-
-&lt;p&gt;Queens are Level 5 Elite Controllers with the Leader keyword. They’re size
-Large, and any other ants &lt;strong&gt;In the Presence of the Queen&lt;/strong&gt; (aura 10) gain a +2
-bonus to attack and damage. Their greater bulk makes them slower, so they have a
-ground speed of 6 and a climb speed of 2.&lt;/p&gt;
-
-&lt;p&gt;Queens have two basic attacks: a &lt;strong&gt;bite&lt;/strong&gt; and a &lt;strong&gt;kick&lt;/strong&gt;. The kick targets
-Reflex, does a bit of damage, and pushes the target 3 squares. The queen’s
-&lt;strong&gt;Frenzy&lt;/strong&gt; allows her to shift 2 squares and use Kick.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter the queen can create an &lt;strong&gt;Acidic Cloud&lt;/strong&gt; on a Close
-Burst 4. This creates a zone that moves with the queen. Any enemy caught inside
-takes 2 damage for each other giant ant that’s also in the zone. When first
-bloodied, the queen issues a chemical &lt;strong&gt;Call to Arms&lt;/strong&gt; that instantly summons
-four giant ant workers to the fight.&lt;/p&gt;
-
-&lt;p&gt;They can also spray their pheromones in an &lt;strong&gt;Acidic Blast&lt;/strong&gt; (area burst 3 within
-10 vs. Will; recharge 5-6) which does acid damage and dazes (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Giant ant encounter groups will tend to contain only the various types of giant
-ants: every other creature is food to them. The sample group is level 1 and has
-1 soldier, 2 warriors and 4 workers.&lt;/p&gt;
-
-&lt;p&gt;Before reading this entry I don’t remember ever seeing much that differentiated
-giant ants from all the other giant bugs, but their MM2 lore, sparse as it is,
-has me unusually inspired. Mundane ant colonies can be a major problem to
-farmers, and the giant version seems to pose even more of an existential threat
-than a nearby bandit or goblin lair would.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/04/02/ant-giant.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/02/ant-giant.html</guid>
         
         <category>dnd4</category>
         
