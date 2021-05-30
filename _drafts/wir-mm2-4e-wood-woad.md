@@ -1,0 +1,83 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Wood Woad"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I think I remember seeing mention of Wood Woads in AD&D somewhere, but I
+couldn't find them in my books. This is their 4e debut.
+
+## The Lore
+
+Wood Woads are fey creatures distantly related to dryads. Like dryads, they
+devoutly protect the natural environment of their home region. Unlike dryads,
+they all look male and have absolutely zero chill.
+
+Not only do wood woads attack would-be despoilers of nature with murderous
+intent, they tend to blame each new intruder for the crimes of all the previous
+ones. So even if you're careful with the environment and try to approach them
+peacefully, they'll still try to kill you because some fool cut a tree down
+years ago and managed to run away.
+
+Wood woads tend to ally with other creatures who also sworn protectors of
+nature, like dryads, centaurs and some elves or other fey. So I guess you could
+still deal with them peacefully if you manage to approach those allies first and
+get them to vouch for you, or have them act as intermediaries.
+
+## The Numbers
+
+We get a single Wood Woad stat block. It's a Medium Fey Humanoid with the Plant
+keyword, and a Level 8 Soldier with 92 HP. It has trained Perception, and a
+ground speed of 5.
+
+Wood Woads wield wooden shields and clubs. Their basic attack is the **club**,
+which does average damage and has no special effects. They can channel magic
+through it to inflict **Nature's Judgment** (recharge 6+, Reliable) on a
+target. This is an attack that does more damage than the basic club,
+immobilizes, and inflicts ongoing physical damage on the target. When the target
+takes this ongoing damage, the closest fey or plant ally of the wood woad heals
+the same amount of HP.
+
+The Reliable keyword means this power isn't used up if the attack misses. The
+wood woad can keep trying to use it until it hits someone, and only them will it
+need to make recharge rolls. This attack becomes more useful if all of the wood
+woad's allies are either plants or fey... not that it has any reason to team up
+with anyone else.
+
+Once per encounter it can also curse someone with **Nature's Mystery** as a
+minor action. This inflicts a -2 penalty on all of the target's attacks,
+defenses, and saves. The save to end this effect has an _additional_ -5 penalty
+unless the target can succeed at a DC 20 Nature check before rolling it. Guess
+this spell has a loophole somewhere.
+
+This is different from the sphinx ability we saw earlier in this Let's Read,
+because no one else can make the Nature test in the target's place. This makes
+Nature's Mystery an excellent ability to use on most defenders, since they tend
+to have low-to-middling Wisdom and no training in Nature. Wardens are the big
+exception to this.
+
+Targets affected by this Nature's Mystery are also prime targets for Nature's
+Judgment. Make sure to surround them with plant and fey monsters after they get
+hit.
+
+## Sample Encounters and Final Impressions
+
+We get two sample encounters:
+
+- Level 8: Two dryads, two vine horror spellfiends, 2 wood woads. Did the vine
+  horror manage to convince the fey it's part of the local natural environment?
+
+- Level 9: 1 Gnome Entropist, 1 Satyr Piper, 1 Shambling Mound, 3 Wood Woads. I
+  guess the gnome is a actually a druid using the entropist stat block.
+
+I like the feel of the mechanics on this one, but the lore is once again a bit
+uninspiring. It's another homanoid fey plant that's fanatical about protecting
+nature, just like dryads and treants. I guess they can round out the cast when
+you want to focus a game on a faction of such beings, but we already have a lot
+of other possible creatures that belong there as well (satyrs, centaurs, elven
+druids, and so on).
+
+If you want to use the wood woad stat block but don't want to say they're a
+completely separate species, just say they're small treants instead.

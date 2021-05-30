@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 2: Sprite Swarm"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Sprites are super-tiny humanoid fey, tinier even than the pixies that would show
+up as a playable option in _Heroes of the Feywild_. I think they've been in the
+game since at least AD&D 1st Edition in some for or another.
+
+## The Lore
+
+Sprites in earlier editions tended to be described as just tiny fairy folk who
+liked all the usual Victorian Fairy things like song and dance and pastoral
+nature. They might have a propensity for pranks, but normally didn't get more
+aggressive than that unless the PCs were out to exterminate them. A single
+sprite was pretty much harmless, but they often came in large numbers.
+
+These aren't the sprites from earlier editions. These are Umbral Sprites.
+
+Umbral Sprites are just as tiny as the nice variety, but they're cruel,
+violent, and territorial. Interactions between them and the PCs skip right past
+the talky and pranky stages and go right to combat as swarms of these things
+descend upon them. A single umbral sprite is still harmless to an adventurer,
+but a swarm of them is dangerous enough to get monster stats.
+
+Though these tiny terrors are native to the Feywild, they tend to seek out areas
+that contain crossings to the Shadowfell to claim as territory. Spriggans and
+ill-intentioned gnomes tend to ally with them and use them as diversions for
+subtler schemes. It's hard to notice gnomes sneaking into your vaults when you
+have a cloud of angry sprites poking out your eyes.
+
+## The Numbers
+
+This entry gives us stats for a fairly small swarm of umbral sprites. This is a
+Medium swarm composed of Fey Humanoids, and counts as a Level 4 Controller with
+55 HP. It has blindsight with range 6, a ground speed of 4, and a flight speed
+of 6 with Hover.
+
+It also has the standard swarm traits: it takes half damage from single-target
+attacks, and extra damage from area attacks. Its **Swarm Attack** aura (1) deals
+3 damage to creatures caught inside.
+
+Its basic attack is a **Swarm of Fangs and Blades**, but aside from the name
+it's nothing spectacular. Their special **Darkwave** attack (recharge 5+) is
+more impressive. It's a Close Burst 3 that targets Reflex, does necrotic damage,
+and creates a zone of darkness that lasts for a durn.
+
+They also have the gnome's **Fade Away** power, becoming invisible as a reaction
+to taking damage once per encounter. This invisibility lasts for a turn, or
+until they hit or miss with an attack.
+
+When fighting a group of PCs, they're going to rely on Darkwave to keep them in
+the dark and will use basic attacks and the swarm aura to deal damage while that
+power recharges. The sprites are unaffected by their own darkness due to their
+blindsight.
+
+### Sample Encounters and Final Impressions.
+
+You can model a larger group of umbral sprites by using several swarms in an
+encounter, or by increasing the level and size of a single one. They also make
+me think about adapting [The Dreams of Ruin][3] to 4e, because they look like
+they are the base creature for Murdersprites. A murdersprite swarm is probably
+more like a Colossal Level 14-18 Brute, though.
+
+The sample encounter is Level 5, and is a grab-bag of Feywild hazards: 2
+ettercap fang guards working with 2 sprite swarms and 2 fey panthers.
+
+[2]: https://www.drivethrurpg.com/product/152691/The-Dreams-of-Ruin
