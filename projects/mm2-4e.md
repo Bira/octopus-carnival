@@ -33,6 +33,8 @@ variants here. Here they are, from A to Z:
   - [Behir][9]
   - [Beholder][10]
   - [Bullywug][11]
+
+- C
   - [Centaur][12]
   - [Centipede][13]
 
