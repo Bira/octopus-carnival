@@ -6,9 +6,127 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 May 2021 03:58:37 +0000</pubDate>
-    <lastBuildDate>Sun, 30 May 2021 03:58:37 +0000</lastBuildDate>
+    <pubDate>Sun, 30 May 2021 04:00:36 +0000</pubDate>
+    <lastBuildDate>Sun, 30 May 2021 04:00:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Vault 2: Centipede</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-centipede.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Monstrous centipedes have been in the game since the beginning, and are based on
+real-world animals. Let’s see what 4e makes of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;I only recently realized D&amp;amp;D centipedes aren’t as fantastical as I always
+thought. There are thousands of real-world centipede species, and the ones I was
+familiar with were pretty small and generally not dangerous to people. However,
+some species can reach up to 30cm (a foot!) in length, and have a poisonous bite
+that might cause fever and chills in people. It’s possible for someone to be
+allergic to centipede venom, and in that case their bite can cause anaphylatic
+shock.&lt;/p&gt;
+
+&lt;p&gt;So the only fantastical thing about the D&amp;amp;D centipede in early editions of the
+game was the fact that its venom was always save-or-die. Its size was realistic,
+and so was its venom in later editions when it became less deadly. Of course,
+the game also had truly giant centipedes which were entirely fantastical, and
+this remains true here.&lt;/p&gt;
+
+&lt;p&gt;Centipedes can be found in woodlands, caves, and lots of other
+environments. They’re ferocious predators and aggressive enough to attack much
+larger creatures if they feel threatened. The larger specimens are of a scale
+large enough to see humanoids as potential prey, too.&lt;/p&gt;
+
+&lt;p&gt;Despite all this aggressiveness, it seems lots of sapient creatures are able to
+keep them as pets and guard animals. I suspect magic might be
+involved. Centipedes are particularly popular pets for Torog worshippers, who
+consider them sacred.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Centipedes are Natural Beasts of varying size. The game gives them Darkvision,
+though it might be more accurate to give them blindsight instead. The authors
+didn’t consider a single foot-long centipede to be a worthy threat, so we get
+stats for a swarm of them and for a giant specimen.&lt;/p&gt;
+
+&lt;h3 id=&quot;centipede-swarm&quot;&gt;Centipede Swarm&lt;/h3&gt;
+
+&lt;p&gt;This Medium swarm is a Level 2 Brute with 44 HP. It has ground and climb speeds
+of 6, with Spider Climb (which allows them to cling to ceilings). It has all
+standard swarm traits, taking half damage from melee and ranged attacks, and 10
+extra damage from close and area attacks.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals 3 automatic damage to each enemy caught
+inside, +2 per centipede swarm adjacent to the enemy. This is deceptively
+dangerous, particularly if you assume multiple swarm auras stack! An enemy
+adjacent to a single swarm will take 5 damage at the start of their turn. An
+enemy adjacent to 2 of them would take 14, or 7 if the auras don’t stack.&lt;/p&gt;
+
+&lt;p&gt;The swarm’s basic attack is a &lt;strong&gt;Swarm of Mandibles&lt;/strong&gt; (vs. Reflex), which deals a
+little bit of physical damage, which increases by 1 with each adjacent centipede
+swarm. A hit also deals ongoing 5 poison damage (save ends). If the enemy is
+already taking ongoing poison damage, they’re weakened (save ends).&lt;/p&gt;
+
+&lt;p&gt;If the swarm is hit by an area or close attack, their &lt;strong&gt;Survival Instinct&lt;/strong&gt;
+causes them to shift 3 squares as a reaction.&lt;/p&gt;
+
+&lt;p&gt;An interesting monster: despite being a brute, its attack is kinda weak. Most of
+the damage comes from the swarm aura, particularly if you assume multiple
+centipede swarm auras stack. You’ll never encounter just one swarm either -
+there should be at least two in the group to enjoy those cool exponential
+bonuses. More than two might be pushing a bit, though.&lt;/p&gt;
+
+&lt;h3 id=&quot;centipede-scuttler&quot;&gt;Centipede Scuttler&lt;/h3&gt;
+
+&lt;p&gt;A proper giant, this is a single Medium individual. It’s a Level 4 Skirmisher
+with 51 HP and both ground and climb speeds of 8. Can’t run away from it.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;bite&lt;/strong&gt; targets AC and does a little more damage than the swarm’s, but has
+the same riders. Against a weakened creature (which likely got that way from its
+venom) it can &lt;strong&gt;Feed&lt;/strong&gt;, dealing roughly triple the damage of a basic bite.&lt;/p&gt;
+
+&lt;p&gt;As an at-will move action, the Scuttler can, well, &lt;strong&gt;Scuttle&lt;/strong&gt;, which allows it
+to shift 4 squares. When it shifts into an ally’s space while scuttling, that
+space doesn’t count as one of the 4 squares. Be sure to give it lots of
+buddies when building the encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We get two encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 4: 1 ankheg, 2 bloodthorn vines, and 2 centipede swarms. What rotten
+luck that all of them would be hanging out next to each other.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 5: 2 scuttlers, 1 gnoll huntmaster, 2 gnoll marauders. So they keep more
+than hyenas as pets.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I liked the old save-or-die centipedes and these feel properly scary as well,
+while also being distinct from all the other giant creepy crawlies.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/05/30/centipede.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/30/centipede.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Centaur</title>
@@ -1519,137 +1637,6 @@ this book, which wasn’t necessarily true for all the monsters in the first MM.
         <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/04/20/archons-storm.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/20/archons-storm.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Archons, Earth</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-archons-earth.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Illustration by Jim Nelson. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Archons in the 4e sense were introduced in the &lt;a href=&quot;/octopus-carnival/2019/02/03/wir-mm-4e-archons.html&quot;&gt;Monster Manual&lt;/a&gt; as soldiers
-created by the primordials to face the angelic legions of the gods in
-battle. Though some still serve the primordials, others sell their services as
-mercenaries to other elemental clients.&lt;/p&gt;
-
-&lt;p&gt;The first MM had stats for fire and ice archons, and this one brings us three
-new types: earth, storm, and water. Earth and water archons already made an
-appearance in our Let’s Read because they’re in the Monster Vault, but
-chronologically this is their first appearance in the edition. There are enough
-stat blocks in here that I feel I can give each type its own post. We start with
-Earth Archons.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The basic lore for archons remains the same, as outlined in my post about their
-&lt;a href=&quot;/octopus-carnival/2019/02/03/wir-mm-4e-archons.html&quot;&gt;first Monster Manual entry&lt;/a&gt;. Earth archons have some extra bits specific to
-them in this book.&lt;/p&gt;
-
-&lt;p&gt;Earth archons look like faceless stone humanoids, following the general archon
-theme. Their armor and weapons are made of copper-colored metal with crystal and
-obsidian accents. Their military strategy follows the “patient earth” theme:
-they attack with slow and inexorable advances, and take the time to occupy and
-fortify any positions they take as they do so.&lt;/p&gt;
-
-&lt;p&gt;The greatest earth archon fortress is Thrak-Harda in the Elemental Chaos, which
-is ruled by the stone titan King Brakkamul and was built to guard the Diamond of
-Despair. Legend has it that the fortress is meant to protect the outside world
-from the Diamond, and not the other way around. No one seems to know why it’s so
-dangerous, but the Dao (cousins of the djinns and efreets) have been obsessed
-with it for a very long time.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Earth archons are Medium Elemental Humanoids with the Earth keyword. They have
-Tremorsense 20 and are immune to disease, poison, and petrification. Their
-ground speed is 6 with Earth Walk, which means they ignore “geological”
-difficult terrain.&lt;/p&gt;
-
-&lt;h3 id=&quot;earth-archon-ground-rager&quot;&gt;Earth Archon Ground Rager&lt;/h3&gt;
-
-&lt;p&gt;This archon is a Level 14 Controller with 143 HP and a bunch of earth-bending
-powers. These start with &lt;strong&gt;Ground Liquefaction&lt;/strong&gt;, an aura (5) that slows any
-creature without the Earth keyword that starts its turn inside and doesn’t move
-during it. I guess this is meant to simulate then slowly sinking into shallow
-quicksand, but as written it also affects fliers. Maybe tendrils of mud reach
-out to grasp them.&lt;/p&gt;
-
-&lt;p&gt;In melee, ragers use &lt;strong&gt;slams&lt;/strong&gt; and &lt;strong&gt;shoves&lt;/strong&gt; to fight. The former are basic
-attacks, and the later are a bit weaker but push the target 4 squares and knock
-them prone. Two words: stone sumotori.&lt;/p&gt;
-
-&lt;p&gt;At range they can attack with a spell called &lt;strong&gt;Raging Earth&lt;/strong&gt; (ranged 20
-vs. Reflex) which counts as a basic attack, does a little damage and immobilizes
-(save ends). Less often they can cause &lt;strong&gt;Ground Eruptions&lt;/strong&gt; (area burst 1 within
-10 vs. Reflex; recharge 5-6) which do a bit more damage and knock prone. On a
-miss, they do half damage and still knock prone.&lt;/p&gt;
-
-&lt;p&gt;The book says ground ragers are drawn to geologically active areas, so you can
-expect additional earth-based hazards when fighting them. Good luck staying on
-your feet.&lt;/p&gt;
-
-&lt;h3 id=&quot;earth-archon-seismic-striker&quot;&gt;Earth Archon Seismic Striker&lt;/h3&gt;
-
-&lt;p&gt;The rank and file of earth archon armies is made up of Level 16 Soldiers with
-160 HP. They wear plate and wield heavy shields and war picks. They also carry
-javelins for throwing.&lt;/p&gt;
-
-&lt;p&gt;Those &lt;strong&gt;picks&lt;/strong&gt; are high-crit weapons that do a mix of physical and thunder
-damage. The &lt;strong&gt;javelins&lt;/strong&gt; have range 10/20 and mark the target for a turn on a
-hit.&lt;/p&gt;
-
-&lt;p&gt;They can also use a &lt;strong&gt;Seismic Stomp&lt;/strong&gt; (close burst 3 vs. Fortitude) to deal area
-damage. A miss does half damage. In either case, the targets are knocked
-prone. This is a good thing for seismic strikers because the &lt;strong&gt;Ground Striker&lt;/strong&gt;
-trait makes their attacks stronger against prone targets.&lt;/p&gt;
-
-&lt;p&gt;Seismic Strikers have a version of the fighter’s &lt;strong&gt;Combat Superiority&lt;/strong&gt;
-trait, gaining a +5 bonus to opportunity attack rolls and stopping the movement
-of any target they hit with such an attack.&lt;/p&gt;
-
-&lt;p&gt;As written, the Stomp is not a “friendly” attack, but I’d definitely make at
-least other earth archons immune to it. This would allow strikers to stay closer
-together while still keeping enough distance from each other to lure foolish
-enemies into the “gaps” in their formation, where they’ll be stopped cold by
-opportunity attacks and knocked prone by overlapping stomps.&lt;/p&gt;
-
-&lt;h3 id=&quot;earth-archon-rumbler&quot;&gt;Earth Archon Rumbler&lt;/h3&gt;
-
-&lt;p&gt;Rumblers are shock troops at the spearhead of any attack, which I imagine makes
-them look like a living avalanche from afar. They are Level 17 Brutes with 204
-HP, wearing plate and wielding warhammers.&lt;/p&gt;
-
-&lt;p&gt;They can use the &lt;strong&gt;warhammers&lt;/strong&gt; either for basic attacks or for &lt;strong&gt;Avalanche
-Strikes&lt;/strong&gt; (vs. Reflex), which do less damage but knock prone on a hit. Their
-&lt;strong&gt;Thundering Might&lt;/strong&gt; trait gives them bonus damage when adjacent to more than
-one enemy, so they really like to be where the fighting is fiercest.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get a couple of sample encounters here. A level 14 one with a mix of earth,
-fire and ice archons; and a level 18 one with a troop of assorted earth archons
-in the employ of a cambion hellfire magus.&lt;/p&gt;
-
-&lt;p&gt;Earth archons seem to have a stronger theme than the MM archons, and better
-supported by their mechanics. Their damage is still low due to the math bug, but
-other than that they’re generally well-built and should be OK to use after a
-damage update.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/04/08/archon-earth.html</guid>
         
         <category>dnd4</category>
         
