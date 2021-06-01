@@ -37,6 +37,7 @@ variants here. Here they are, from A to Z:
 - C
   - [Centaur][12]
   - [Centipede][13]
+  - [Chaos Shard][14]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -51,3 +52,4 @@ variants here. Here they are, from A to Z:
 [11]: {{ "/2021/05/23/bullywug.html" | relative_url }}
 [12]: {{ "/2021/05/29/centaur.html" | relative_url }}
 [13]: {{ "/2021/05/30/centipede.html" | relative_url }}
+[14]: {{ "/2021/06/01/chaos-shard.html" | relative_url }}
