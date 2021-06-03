@@ -10,7 +10,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-cockatrice.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2008 Wizards of the Coast
+    Art by Brian Valenzuela. Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}

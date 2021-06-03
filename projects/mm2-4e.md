@@ -38,6 +38,8 @@ variants here. Here they are, from A to Z:
   - [Centaur][12]
   - [Centipede][13]
   - [Chaos Shard][14]
+  - [Cockatrice][15]
+  - [Colossus][16]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -53,3 +55,5 @@ variants here. Here they are, from A to Z:
 [12]: {{ "/2021/05/29/centaur.html" | relative_url }}
 [13]: {{ "/2021/05/30/centipede.html" | relative_url }}
 [14]: {{ "/2021/06/01/chaos-shard.html" | relative_url }}
+[15]: {{ "/2021/06/03/cockatrice.html" | relative_url }}
+[16]: {{ "/2021/06/03/colossus.html" | relative_url }}
