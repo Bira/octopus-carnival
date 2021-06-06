@@ -40,6 +40,8 @@ variants here. Here they are, from A to Z:
   - [Chaos Shard][14]
   - [Cockatrice][15]
   - [Colossus][16]
+  - [Couatl][17]
+  - [Cyclops][18]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -57,3 +59,5 @@ variants here. Here they are, from A to Z:
 [14]: {{ "/2021/06/01/chaos-shard.html" | relative_url }}
 [15]: {{ "/2021/06/03/cockatrice.html" | relative_url }}
 [16]: {{ "/2021/06/03/colossus.html" | relative_url }}
+[17]: {{ "/2021/06/06/couatl.html" | relative_url }}
+[18]: {{ "/2021/06/06/cyclops.html" | realtive_url }}
