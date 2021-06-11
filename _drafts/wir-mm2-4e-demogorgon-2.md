@@ -8,7 +8,7 @@ tags:
 
 This article is part of a series! Click [here][1] to see the other entries.
 
-Continuing from the previous post, this time we'll be looking at Demogorgon's
+Continuing from the [previous post][3], this time we'll be looking at Demogorgon's
 Exarchs.
 
 "Exarch" is the term D&D 4 uses for the "lieutenants" of a god or equivalent
@@ -33,8 +33,8 @@ The demon lord gave him a gift of size and strength, making him double in size
 and become deformed by his over-developed demonic musculature. Kazuul now fights
 in the name of Hethradiah, the "brutal but cunning" head, driving a horde of
 demons before him to raid places in the Abyss and elsewhere in the multiverse. I
-guess Kazuul is a big inspiration to those shrieking cultists we saw in the last
-post.
+guess Kazuul is a big inspiration to those shrieking cultists we saw in the
+[last post][3].
 
 Being a former human, Kazuul fights with weapons. Being a former _adventurer_,
 he's always on the lookout for better weapons. If he notices one of his
@@ -83,7 +83,7 @@ closer:
 and allows Kazuul to crit against the targets on a natural roll of 15-20 (save
 ends). This is scarier than it might sound for someone used to 3.x! In Fourth
 Edition, criticals happen only on a natural 20. Only a handful of powers in the
-entire game increases that range. Word of Doom is the only one I can think of
+entire game increase that range. Word of Doom is the only one I can think of
 that widens it this much.
 
 **Vortex of Blades** (close burst 3 vs. Reflex; enemies only; encounter) does
@@ -174,3 +174,4 @@ obsession is also interesting, and the Gorgorin lore has a lot of potential as
 an adventure hook.
 
 [2]: {{ "/2020/02/26/ettin.html" | relative_url }}
+[3]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
