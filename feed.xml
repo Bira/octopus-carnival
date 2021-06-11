@@ -6,9 +6,326 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Jun 2021 16:18:01 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Jun 2021 16:18:01 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Jun 2021 10:31:12 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Jun 2021 10:31:12 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Demogorgon (Part 1)</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Art by Jesper Ejsing. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;We got to the Big Cheese of this book quite early, for his name starts with D:
+it’s Demogorgon! He’s been in the game since the days of AD&amp;amp;D 1st Edition. The
+name became quite famous when Stranger Things aired, though I don’t think it
+refers to the same creature.&lt;/p&gt;
+
+&lt;p&gt;This entry is like the Orcus entry in the MM1: It includes not only the stats
+for the titular demon lord but also its associates, aspects, exarchs, and even
+cultists. I’m going to go through them in reverse order, starting with the
+cultists and moving up the levels.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Demogorgon is a demon lord’s demon lord. His credo is quite simple: through
+strength, cruelty and slaughter the strong prosper and the weak die. Be strong,
+be cruel, and slaughter the weak. That doesn’t mean he’s stupid, though! Each
+head has its own personality and highly developed intellect: Aameul is cunning
+but brutal and Hethradiah brutal but cunning. They hate each other and argue a
+lot but generally end up working towards compatible goals.&lt;/p&gt;
+
+&lt;p&gt;Demogorgon also has another business partner who is not himself, which makes him
+a bit unique among demon lords: Dagon, a Demon Lord inspired by the fishy entity
+of Lovecraftian fame. A keeper of secrets and cosmic mysteries, he shares these
+secrets with Demogorgon, but only whispers a given secret to one of the
+heads. This keeps their mutual hatred and jealousy going strong, and furthers
+Dagon’s own goals. Their servants and cults can be found cooperating some times.&lt;/p&gt;
+
+&lt;p&gt;We’ll eventually discuss the big bosses in more detail, but for now let’s begin
+by looking at their cults.&lt;/p&gt;
+
+&lt;h3 id=&quot;cults-of-demogorgon&quot;&gt;Cults of Demogorgon&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon-cultists.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Demogorgon’s cults gain prominence when war or other wide-ranging disasters
+ravage the land, as people turn to him in a desperate attempt to survive and end
+up becoming murderous marauders themselves. I imagine this tends to prolong the
+problem that caused the cult to rise in the first place. These cultists wander
+around like berserking pirates, pillaging and destroying everything in their
+path. What makes them different from, say, gnolls? Well, they’re more interested
+in taking your stuff than in eating you, and unlike gnolls or orcs they’re a
+very diverse crowd.&lt;/p&gt;
+
+&lt;p&gt;Members include individuals from any of the “civilized” species as well as
+troglodytes, kuo-toa and other aggressive humanoids. Note that none of them
+“naturally” worship Demogorgon: even troglodytes and kuo-toa typically venerate
+other deities. This means that every cultist of Demogorgon is a heretic to their
+own people. A lof of them were probably press-ganged into the cult during one of
+those raids I mentioned in the previous paragraph.&lt;/p&gt;
+
+&lt;p&gt;There are also some cultists who go deeper into the demon lord’s mysticism,
+believing that like their boss they are of two minds: a civilized mind who acts
+as a shackle to a an instinctive, destructive second self. Some try to explore
+this duality, while others try to cast of these shackles entirely, worshipping
+only Hethradiah, the most aggressive of the two heads.&lt;/p&gt;
+
+&lt;p&gt;Whatever their individual views, these cultists are all Chaotic Evil by any
+reasonable definition of the alignment.&lt;/p&gt;
+
+&lt;h3 id=&quot;cults-of-dagon&quot;&gt;Cults of Dagon&lt;/h3&gt;
+
+&lt;p&gt;Dagon has his own cults too, and these are as Innsmouthy as you’d expect. His
+temples are undewater, though they include air-filled rooms to accommodate
+visiting terrestrial worshippers. These tend to congregate in coastal
+communities, and to sacrifice sapients to their master. Dagon’s demands grow
+with time, forcing his cultists to perform ever greater sacrifices in order to
+avoid being swallowed by tidal waves or other disasters sent by their overlord.&lt;/p&gt;
+
+&lt;p&gt;His worshippers also frequently include wizards and sages willing to bargain
+with him for some of those cosmic secrets. These tend to rise to the position of
+cult leaders. The most powerful among them might be able to visit Dagon
+personally in his doubly-abyssal domains, and barter legendary artifacts for the
+lore they seek.&lt;/p&gt;
+
+&lt;p&gt;Yeah, Vecna hates Dagon and their cults fight a lot. How did you guess?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get quite a few cultist stat blocks here, all human. You can easily combine
+them with standard stat blocks from other humanoid species to get the diversity
+hinted at in the lore, or add the signature traits of those humanoids to the
+Demogorgon-flavored stat blocks from this entry.&lt;/p&gt;
+
+&lt;h3 id=&quot;abyssal-marauder&quot;&gt;Abyssal Marauder&lt;/h3&gt;
+
+&lt;p&gt;Abyssal marauders roam the land in loose warbands, and the sea in rickety
+warships they barely know how to sail. When they see a village or ship, they
+attack, kill everyone, take what they can and burn what they can’t. In doing
+this they honor their demonic overlord.&lt;/p&gt;
+
+&lt;p&gt;Some pirate captains or land-bound warlords manage to hire bands of abyssal
+marauders to bolster their ranks for big raids, paying them mostly with the
+promise of plentiful loot and chances to kill people. Unless they can keep
+providing that loot between battles, though, it’s very hard to keep the
+marauders in line.&lt;/p&gt;
+
+&lt;p&gt;Marauders are Level 6 Skirmishers with 69 HP and a speed of 6. Their piecemeal
+protections are equivalent to leather armor, and they carry a long spear and a
+pair of throwing axes to battle.&lt;/p&gt;
+
+&lt;p&gt;Both the &lt;strong&gt;spear&lt;/strong&gt; (reach 2 vs. AC) and the &lt;strong&gt;throwing axes&lt;/strong&gt; (Ranged 5/10
+vs. AC) count as basic attacks, and both allow the marauder to shift 1 square on
+a hit. They’ll usually open the fight with a &lt;strong&gt;Howling Charge&lt;/strong&gt;, which allows
+them to throw an axe at someone and immediately charge them with the spear.&lt;/p&gt;
+
+&lt;p&gt;When bloodied, marauders are taken over by a &lt;strong&gt;Death Fury&lt;/strong&gt;, which allows them
+to make two basic melee attacks per standard action at a -2 penalty to each. It
+also forbids them from using any of their other attacks!&lt;/p&gt;
+
+&lt;p&gt;Reach weapons and plentiful shifting make marauders work well when paired with a
+“wall” of sturdier allies, like the shrieking cultists we’ll see below.&lt;/p&gt;
+
+&lt;h3 id=&quot;berserker-prelate-of-demogorgon&quot;&gt;Berserker Prelate of Demogorgon&lt;/h3&gt;
+
+&lt;p&gt;Prelates are priest-types, preaching the credo of Demogorgon to their fellow
+cultists as their leader or (in the book’s words) their “spiritual pet”. Unlike
+the cultist priests of other demon lords, berserker prelates lead from the front
+and join the fight alongside their flock.&lt;/p&gt;
+
+&lt;p&gt;Prelates are Level 8 Controllers with the Leader keyword and 86 HP. Their speed
+is 5, they wear hide, and carry a big club into battle.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;greatclub&lt;/strong&gt; is their basic melee attack, and allows them to push the
+target 1 square on a hit. At range they fling &lt;strong&gt;Abyssal Bolts&lt;/strong&gt; (ranged 10
+vs. Will) that do physical damage and slide the target 2 squares on a hit.&lt;/p&gt;
+
+&lt;p&gt;Their leadery skill is &lt;strong&gt;Bloodletter’s Call&lt;/strong&gt; (Close Burst 3). Against enemies,
+this is an attack vs. Will that does psychic damage and dazes for a turn. On
+allies, it instead acts as a buff giving them +2 to attack for a turn.&lt;/p&gt;
+
+&lt;p&gt;As the name might imply, berserker prelates are gripped by the same &lt;strong&gt;Death
+Fury&lt;/strong&gt; as their marauder buddies when bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;shrieking-cultist-of-demogorgon&quot;&gt;Shrieking Cultist of Demogorgon&lt;/h3&gt;
+
+&lt;p&gt;These psychos have given up on any semblance of restraint and rationality,
+seeking to emulate Hethradiah, the most violent of Demogorgon’s heads. When a
+lot of them gather, people who are themselves on the path to madness might
+discern the demonic hymn hidden in their collective shrieking.&lt;/p&gt;
+
+&lt;p&gt;These cultists are Level 7 Brutes with 94 HP. They wear mail, so their speed
+is 5. They wield a &lt;strong&gt;greataxe&lt;/strong&gt; and carry a brace of &lt;strong&gt;javelins&lt;/strong&gt;, which are
+basic attacks doing heavy damage as expected of a Brute. Once per encounter they
+can intensify their incoherent screaming into a &lt;strong&gt;Howl of Fury&lt;/strong&gt; (close blast 3
+vs. Will) that does psychic damage and immobilizes the targets for a turn on a
+hit.&lt;/p&gt;
+
+&lt;p&gt;They can also make their fury &lt;em&gt;solid&lt;/em&gt; with &lt;strong&gt;Death Wrath&lt;/strong&gt; (close burst 1
+vs. AC; encounter), which does physical damage and creates a zone of horrible
+noise that moves with the cultist, in effect working like an aura 1. Anyone
+caught inside takes 5 physical damage.&lt;/p&gt;
+
+&lt;p&gt;Shrieking Cultists lack the &lt;strong&gt;Death Fury&lt;/strong&gt; trait from their other two
+correligionists: for all practical purposes, they’re &lt;em&gt;always&lt;/em&gt; in this state
+already.&lt;/p&gt;
+
+&lt;h3 id=&quot;doom-flayer&quot;&gt;Doom Flayer&lt;/h3&gt;
+
+&lt;p&gt;Doom Flayers are wizards who worship Dagon to gain access to his secrets,
+offering sacrifices to him and helping further his plots. They will likely tell
+you they are perfectly rational and can stop the demon worship any time they
+want.&lt;/p&gt;
+
+&lt;p&gt;They’re Level 8 Artillery with 65 HP, wielding a &lt;strong&gt;dagger&lt;/strong&gt; for emergencies and
+otherwise using a large collection of Dagon-themed spells to fight:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Force Lash&lt;/strong&gt; (Ranged 10 vs. Reflex) does force damage and slows the target for
+a turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grasping Tentacles&lt;/strong&gt; (Ranged 10 vs. Fortitude; recharge 5-6) does physical
+damage and immobilizes (save ends). Until the target saves, any enemy starting
+its turn adjacent to the target is slowed (save ends).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Doom Foretold&lt;/strong&gt; (Ranged 10; minor; encounter) auto-hits and makes the target
+grant combat advantage for a turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Churning Vortex&lt;/strong&gt; (area burst 1 within 10 vs. Reflex; encounter) does physical
+damage, slides 1 square, and knocks the targets prone on a hit. It does half
+damage on a miss.&lt;/p&gt;
+
+&lt;p&gt;The encounter powers work as a good fight-opener, and you should use them that
+way or you might miss the chance to do so if the party decides to focus fire on
+the flayer.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;This entry has a bunch of sample encounters but only two are cultist-themed:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 7: 1 abyssal marauder, 2 shrieking cultists, 1 berserker prelate, and 1
+tiefling darkblade. Remember what I said about using other stat blocks as
+cultists?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 7: 1 doom flayer, 2 troglodyte thrashers, 2 abyssal marauders, 1 gnaw
+demon. And here’s that Dagon/Demogorgon partnership at work.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;D&amp;amp;D has a lot of hordes of murderous raiding cultists, and making them different
+from each other can be a tough job for a writer. I feel they succeeded here,
+though. Demogorgon’s cultists are the only ones with a diverse membership by the
+book, and the Death Fury trait makes them look properly “two-faced”, going from
+canny fighters to frothing nutjobs as the fight progresses.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/11/demogorgon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/11/demogorgon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Darkmantle</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-darkmantle.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2008 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Darkmantles feel like a very AD&amp;amp;D kind of monster, but I can’t find mention of
+them in the Monster Manuals for those editions. Either they appeared in a
+supplement, or they’re actually introduced in 3.x.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The darkmantle is a creature native to the Shadowfell, which predictably means
+it likes hanging out in dark places such as caves and underground ruins. Being
+both pointy and membranous, they hunt by hanging from the ceiling disguised as
+stalactites and dropping on unsuspecting prey from above.&lt;/p&gt;
+
+&lt;p&gt;Darkmantles have animal intellect, and are about as smart as dogs. As such,
+they’re often tamed by shadow- and underground-themed humanoids to act as
+guards and/or living traps.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;There’s only one stat block here, so we’ll get right to it.&lt;/p&gt;
+
+&lt;h3 id=&quot;darkmantle-enveloper&quot;&gt;Darkmantle Enveloper&lt;/h3&gt;
+
+&lt;p&gt;This is described as a Large Shadow Magical Beast, though I think it should be
+labeled a Beast instead. Beasts “look and behave like animals”, and magical
+beasts “look like animals and behave like people”. Well, the label is just
+descriptive, so it makes no difference in the stats.&lt;/p&gt;
+
+&lt;p&gt;The Darkmantle Enveloper is a Level 8 Lurker with 76 HP. It has both Blindsight
+8 from echolocation, and Darkvision. It emits a &lt;strong&gt;Shadowy Field&lt;/strong&gt; aura (5) that
+reduces bright light to dim light, which I guess it only activates once its
+presence is known. It has ground and climb speeds of 2, and a fly speed of 6.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Tentacle Lash&lt;/strong&gt; that does regular physical damage, but
+the main event is &lt;strong&gt;Engulf&lt;/strong&gt; (melee 1 vs. Reflex), which does the same damage
+and grabs the target. The target is considered blinded until the grab ends, and
+the creature can spend a minor action to sustain it and deal an automatic 5
+damage to the target. Only one victim can be engulfed at once.&lt;/p&gt;
+
+&lt;p&gt;If the victim’s buddies try to help them, the darkmantle can use a &lt;strong&gt;Shadowcry&lt;/strong&gt;
+(close burst 3 vs. Fortitude; minor action; encounter) to keep them at bay. This
+does light thunder damage and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;When someone manages to damage the darkmantle, it can react with a
+&lt;strong&gt;Shadowjump&lt;/strong&gt; (recharge 5-6), which allows it to teleport 6 squares to a space
+in darkness or dim light. The creature arrives invisible and with its aura
+turned off, both of which last for a turn.&lt;/p&gt;
+
+&lt;p&gt;One small mechanical issue: since Engulf is not a basic attack, it can’t be used
+as part of a charge. This could be interpreted to say that the darkmantle can’t
+drop from the ceiling and use Engulf, but that’s clearly not the intention
+here. I’d say the attack &lt;em&gt;can&lt;/em&gt; be used as part of a “drop charge”.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounter-and-final-impressions&quot;&gt;Sample Encounter and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is level 6, and feature a pair of darkmantles acting as
+guards for a trio of duergar.&lt;/p&gt;
+
+&lt;p&gt;Eh… it’s another underground ambusher that disguises itself as a rock
+formation. The most a darkmantle has ever interested me is when it was part of a
+joke about gygaxian deathtrap dungeons (“the stalactites are darkmantles; the
+stalagmites ropers…”).&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/07/darkmantle.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/07/darkmantle.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Cyclops</title>
@@ -1011,428 +1328,6 @@ cost, and eliminating the separate Iron Limbs advantage.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Bullywugs</title>
-        <description>&lt;figure class=left&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-bullywug.png&quot;/&gt;
-  &lt;figcaption&gt;Illustration Copyright 2009 Wizards of the Coast.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Bullywugs first appeared in the AD&amp;amp;D 1st Edition Fiend Folio, and featured
-heavily in the D&amp;amp;D cartoon of the 80’s.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Bullywugs are frog-people who claim they were created by the original
-primordials, not by the gods, and that by living lives of cruelty and violence
-they can reincarnate as slaads. They also believe the world itself hates them,
-which they sense as a constant paranoid feeling that everyone is out to get
-them. And indeed, nature itself seems to breathe in relief when a bullywug is
-slain in combat.&lt;/p&gt;
-
-&lt;p&gt;Bullywug culture places no value in conservation: they move into an area
-(preferrably a swampy one) and exhaust its resources as quickly as
-possible. Anything they can’t use they might very well end up destroying. When
-there’s nothing left, they might resort to cannibalism. Because of this
-behavior, and possibly because of the divine curse alluded to above, bullywug
-territory eventually becomes a barren and dismal echo of what it once was. By
-the book, they’re typically Chaotic Evil with an Int score of 6 and speak
-Primordial.&lt;/p&gt;
-
-&lt;p&gt;As I mentioned several times in the past, I’m not really a fan of Universally
-Evil Humanoids, so I’d say it’s possible for there to be bullywugs who aren’t
-Captain Planet villains and who can coexist more peacefully with their
-neighbors. Who knows, maybe they could be the diplomatic bridge between the
-humans over in the fields and the lizardfolk deeper in the swamp.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Bullywugs are Medium Natural Humanoids with the Aquatic keyword, which allows
-them to breathe underwater and gives them combat bonuses while submerged. They
-have ground speeds of 6 with Swamp Walk, ignoring swamp-flavored difficult
-terrain. They also have Swim speeds of 4.&lt;/p&gt;
-
-&lt;p&gt;The bullywug signature abilities all come from that divine curse. &lt;strong&gt;Rancid Air&lt;/strong&gt;
-is an aura (2) which causes enemies to become weakened until the end of their
-next turn if they spend a healing surge while inside. &lt;strong&gt;Nature’s Release&lt;/strong&gt;
-triggers when the bullywug is killed by a critical hit, and restores a handful
-of HP to their slayer. Our theoretical non-evil froggy people would lack either
-of these traits.&lt;/p&gt;
-
-&lt;h3 id=&quot;bullywug-mucker&quot;&gt;Bullywug Mucker&lt;/h3&gt;
-
-&lt;p&gt;This Level 1 Brute with 34 HP likely makes up the rank-and-file of a bullywug
-force. It wields a &lt;strong&gt;spear&lt;/strong&gt; in combat, and has a &lt;strong&gt;Bully&lt;/strong&gt; trait that makes it
-cause extra damage to prone targets.&lt;/p&gt;
-
-&lt;p&gt;It can make targets prone with &lt;strong&gt;Bullywug Rush&lt;/strong&gt; (melee 1 vs. Fortitude;
-recharge 5-6), a charge attack that deals more damage and knocks the target
-prone. A miss here deals 3 damage to the Mucker and knocks &lt;em&gt;it&lt;/em&gt; prone. I’m
-starting to feel sorry for it.&lt;/p&gt;
-
-&lt;h3 id=&quot;bullywug-twitcher&quot;&gt;Bullywug Twitcher&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 2 Skirmisher with 34 HP, who fights with a &lt;strong&gt;Javelin&lt;/strong&gt; either in
-melee or at range. Once per encounter the twitching intensifies and it can
-perform a &lt;strong&gt;Spasmodic Hop&lt;/strong&gt;, ending any marks on it, shifting 4 squares, and
-making an enhanced javelin attack at the end that also inflicts a -4 attack
-penalty on the target for a turn.&lt;/p&gt;
-
-&lt;p&gt;This power is Reliable, which means it’s not spent if the attack misses. On the
-other hand, the Twitcher has no other special movement powers. So ironically, it
-becomes less mobile once it lands its special attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;bullywug-croaker&quot;&gt;Bullywug Croaker&lt;/h3&gt;
-
-&lt;p&gt;A weak and flabby specimen that uses its remarkably bad breath to make up for
-its lack of strength. It’s a Level 3 Minion Brute that attacks with &lt;strong&gt;claws&lt;/strong&gt;
-and with a &lt;strong&gt;Foul Croak&lt;/strong&gt; (Close Blast 2 vs. Fortitude) that does poison damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;bullywug-mud-lord&quot;&gt;Bullywug Mud Lord&lt;/h3&gt;
-
-&lt;p&gt;A spellcaster that makes me think that whole business about emulating slaads
-being a path to power might have some truth to it. Much smarter than the average
-bullywug, mud lords often end up in leadership positions, and they have
-absolutely no qualms about sacrificing their pathetic underlings to ensure their
-own survival.&lt;/p&gt;
-
-&lt;p&gt;They’re Level 3 Artillery with 39 HP. Their ranged spells all cover an area, and
-appear to be more vomited than cast. &lt;strong&gt;Fiery Croak&lt;/strong&gt; (area burst 1 within 20
-vs. Reflex) does fire and thunder damage, and &lt;strong&gt;Electric Reflux&lt;/strong&gt; (close blast 3
-vs. Reflex; recharge 6) does cold and lightning damage, half on a miss.&lt;/p&gt;
-
-&lt;p&gt;Neither of these attacks are selective. In fact, if they include at least one
-ally in their area, &lt;strong&gt;Necessary Sacrifices&lt;/strong&gt; grants the mud lord a +2 attack
-bonus. Okay, this dude isn’t pathetic, he’s despicable.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
-
-&lt;p&gt;We have two here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 1: 1 bloodthorn vine, 2 croakers, 2 muckers, and a twitcher.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 6: A mud lord, 3 twitchers, 3 ettercap fang guards and 1 ettercap
-webspinner.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It’s unclear whether the vine or the ettercaps are working with the bullywugs or
-not. Their lore doesn’t make me think they’d work well with anyone. In fact,
-they’d probably be in conflict with any other sapients who live in the same
-swamp as them. If you want to set up a good old-fashioned swamp crawl where the
-PC can meddle with several factions, a bullywug-goblin-kobold-lizardfolk
-four-way conflict is an excellent starting point.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 23 May 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/05/23/bullywug.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/23/bullywug.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Beholder</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Beholders appeared in the first Monster Manual, and I covered them
-&lt;a href=&quot;/octopus-carnival/2019/05/27/beholder.html&quot;&gt;here&lt;/a&gt;. The Monster Manual 2 brings us a few more varieties, including some
-that also made it into the Monster Vault.&lt;/p&gt;
-
-&lt;p&gt;Each of the three beholder varieties here gets its own bit of lore, so let’s
-combine that with their numbers below.&lt;/p&gt;
-
-&lt;p&gt;As before, beholders are Aberrant Magical Beasts. They have All-Around Vision
-and Darkvision, and a variable fly speed with hover capability. In general their
-attacks consist of a very weak bite and a whole bunch of thematic ranged attacks
-from their eye stalks and central eye. Beholder eye rays are Ranged, but don’t
-provoke opportunity attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;beholder-gauth&quot;&gt;Beholder Gauth&lt;/h3&gt;
-
-&lt;p&gt;This one appeared in the Monster Vault, and so we discussed them a bit
-&lt;a href=&quot;/octopus-carnival/2019/05/27/beholder.html&quot;&gt;here&lt;/a&gt;. Gauths are the least of their kind, but they’re still as unpleasant
-and power-hungry as any beholder. Their relative weakness means they often don’t
-end up on the top of whatever evil org chart they join, and so they are
-constantly scheming to rise in its ranks. They’re the most Starscream-like of
-beholders.&lt;/p&gt;
-
-&lt;p&gt;Gauths also like to capitalize on the fearsome reputation of their larger
-relatives, so people who don’t know better might confuse them for the more
-dangerous varieties.&lt;/p&gt;
-
-&lt;p&gt;I already covered the Monster Vault version of gauths in the &lt;a href=&quot;/octopus-carnival/2019/05/27/beholder.html&quot;&gt;post on MM1
-beholders&lt;/a&gt;. The Monster Manual 2 is pretty much identical, except it suffers
-from the damage bug and has a remarkably weak bite. Just use the MV stats for
-this one.&lt;/p&gt;
-
-&lt;h3 id=&quot;beholder-eye-of-frost&quot;&gt;Beholder Eye of Frost&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-beholder-eye-of-frost.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A counterpart to the MM1’s &lt;a href=&quot;/octopus-carnival/2019/05/27/beholder.html&quot;&gt;Eye of Flame&lt;/a&gt;, this is a beholder with a great
-affinity for elemental ice. It prefers to dwell in very cold climates in the
-world and Elemental Chaos, where it keeps company such as ice archons, frost
-giants, and oni. Since eyes of frost aren’t that much stronger than these other
-ice monsters, they often end up in the same narrative position as gauths,
-scheming to gain the power and respect they feel is due to them.&lt;/p&gt;
-
-&lt;p&gt;Eyes of Frost are Large and have a fly speed of 6. They’re Level 14 Elite
-Artillery with 222 HP. When first bloodied they coat themselves in &lt;strong&gt;Ice
-Armor&lt;/strong&gt;, increasing their AC and Fortitude by 2 for the remainder of the fight.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; is super weak: 2d6 damage. You’d need to triple this to get it in
-line with the new math.&lt;/p&gt;
-
-&lt;p&gt;Much more interesting are the eye beams. The &lt;strong&gt;Central Eye&lt;/strong&gt; (Ranged 8
-vs. Reflex; minor action 1/round) weakens on a hit (save ends). If a target
-weakened by this power would become slowed, they become immobilized instead, and
-this lasts until they’re no longer weakened!&lt;/p&gt;
-
-&lt;p&gt;The Eye of Frost has access to 3 &lt;strong&gt;Eye Rays&lt;/strong&gt;, and &lt;strong&gt;Eyes of the Beholder&lt;/strong&gt;
-allows it to use one of them as a free action against any enemy that starts its
-turn within 5 squares of the beholder. That enemy also gains Vulnerable 5 Cold
-until the end of the beholder’s next turn. A ray attack can also be done with a
-standard action, of course, further increasing the beholder’s rate of fire.&lt;/p&gt;
-
-&lt;p&gt;The rays have Range 10, and have the following effects:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Freeze Ray&lt;/strong&gt;: vs. Fortitude, deals cold damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Telekinesis&lt;/strong&gt;: vs. Fortitude, slides 6 squares.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ice Ray&lt;/strong&gt;: vs. Fortitude, deals less cold damage than the freeze ray but
-also deals ongoing cold damage and immobilizes (save ends both).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Cold resistance on the PCs will go a long way towards making the eye of frost
-less dangerous, though its control effects will still be a problem.&lt;/p&gt;
-
-&lt;h3 id=&quot;beholder-eye-of-chaos&quot;&gt;Beholder Eye of Chaos&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-beholder-eye-of-chaos.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Once upon a time, there was a beholder &lt;a href=&quot;/octopus-carnival/2019/05/27/beholder.html&quot;&gt;Eye Tyrant&lt;/a&gt; who dove into the Abyss
-in search of the Shard of Ultimate Evil wielded by Tharizdun. Though the
-creature never found the shard, it nevertheless emerged from the experience
-infused with all sorts of demonic energies, which increased its power and warped
-its body and mind. This stat block could represent that individual or one of its
-descendants, or perhaps another beholder who thought he could do it better.&lt;/p&gt;
-
-&lt;p&gt;Eyes of Chaos are still quite capable of concocting complex schemes and
-directing armies of underlings… only now those underlings tend to be demons
-more often than not, and those schemes end up having widespread destruction and
-bloodshed as either their main goals or as desirable side effects.&lt;/p&gt;
-
-&lt;p&gt;This twisted thing is Large, and Level 25 Elite Artillery. It has a pretty
-impressive fly speed of 8, which makes it a lot zoomier than your average
-beholder.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;bite&lt;/strong&gt; is once again nothing to write home about, despite all those lovely
-teeth. The &lt;strong&gt;Central Eye&lt;/strong&gt; (Ranged 20 vs. Fortitude) has the traditional
-antimagic/enervation effect that forbits the target from using encounter or
-daily powers until the end of the beholder’s next turn.&lt;/p&gt;
-
-&lt;p&gt;After that we get the six &lt;strong&gt;eye rays&lt;/strong&gt;, all Ranged 10:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Telekinesis&lt;/strong&gt;: vs. Fortitude, does physical damage and slides 6 squares.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Blinding&lt;/strong&gt;: vs. Reflex, does physical damage and blinds (save ends).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Confounding&lt;/strong&gt;: vs. Will, does psychic damage, slides 6 squares, and dazes
-(save ends).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Maddening&lt;/strong&gt;: vs. Will, does psychic damage and dominates until the end of
-the beholder’s next turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Fear&lt;/strong&gt;: vs. Will, does psychic damage and forces the target to move its
-speed away from the beholder by the safest route possible.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Teleporting&lt;/strong&gt;: vs. Reflex, does physical damage and teleports 10 squares.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The usual &lt;strong&gt;Eyes of the Beholder&lt;/strong&gt; trait means anyone starting their turn within
-5 squares of the beholder gets hit with a random eye ray. When the monster is
-first bloodied it releases a &lt;strong&gt;Ripple of Chaos&lt;/strong&gt; that allows it to target every
-enemy within 5 squares with a random eye ray and then teleport 6 squares.&lt;/p&gt;
-
-&lt;p&gt;I kinda want to make a random roll even for the standard-action eye rays with
-this critter. For all the randomness, though, it seems the eye ray effects are
-actually a bit less exciting than those of a “normal” beholder, since there are
-no sudden death effects here.&lt;/p&gt;
-
-&lt;h3 id=&quot;beholder-ultimate-tyrant&quot;&gt;Beholder Ultimate Tyrant&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-beholder-ultimate-tyrant.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;If you manage to talk to the Ultimate Tyrant, it will tell you that it has the
-most valid of reasons for hating all other beholders: they’re a bunch of
-posers. They were born in the world or otherwise went native, but the Ultimate
-Tyrant is part of the original generation that came directly from the Far Realm
-and still keeps its connection to that place.&lt;/p&gt;
-
-&lt;p&gt;Depending on the particulars of your campaign it might even be &lt;em&gt;the&lt;/em&gt; original
-beholder. If not, it’s at least among the first to arrive in the world. Perhaps
-the only creature that might dispute its claims of OG-ness is the Gibbering Orb.&lt;/p&gt;
-
-&lt;p&gt;The Ultimate Tyrant is Huge, and a Level 29 Solo Artillary menace with 1080
-HP. This can even make it suitable as a final boss for a campaign that ends in
-the mid-epic levels. Its fly speed is 8, again making it a lot faster than the
-MM1 beholders. The damage for all of this beholder’s attacks is quite low, and
-should likely be at least doubled.&lt;/p&gt;
-
-&lt;p&gt;There’s the basic &lt;strong&gt;bite&lt;/strong&gt;, and there’s the stuff you’ll actually be using. The
-&lt;strong&gt;Central Eye&lt;/strong&gt; (Ranged 30 vs. Fortitude; minor action 1/round) does no damage
-but dazes and slows on a hit (save ends both). This worsens to a full Stun on
-the first failed save. A miss still slows the target (save ends).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Eyes of the Beholder&lt;/strong&gt; works as usual, and &lt;strong&gt;Spasmodic Rays&lt;/strong&gt; makes it so the
-beholder attacks every enemy within 10 squares with an eye ray when it’s first
-bloodied and again when it dies.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;eye rays&lt;/strong&gt; themselves are quite scary. Instead of simple ranged attacks,
-all of them are Area Burst 1 Within 10, and they still don’t provoke opportunity
-attacks. If the standard Eye Tyrant is a slow-moving battleship, the Ultimate
-Tyrant is a hyper-mobile orbital laser cannon.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Madness&lt;/strong&gt;: vs. Will; does psychic damage and forces the target to make a
-basic attack against its nearest ally.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Unraveling&lt;/strong&gt;: vs. Fortitude; does physical damage and 10 ongoing damage
-(save ends). The first failed save causes an additional 1d10 damage; the
-second an additional 2d10; the third causes an additional 3d10 and
-automatically ends the effect. So if you fail all of your saves, you’ll be
-taking a total of 6d10+30 damage over those three turns.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Withering&lt;/strong&gt;: vs. Fortitude. Does immediate and ongoing necrotic damage
-(save ends), with the first failed save also weakening the target. There’s a
-(save ends) after the weakening effect, so I’m guessing that’s a separate
-save from the ongoing damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Burning&lt;/strong&gt;: vs. Reflex. Does immediate and ongoing fire damage, and also
-inflicts a -2 attack penalty (save ends both).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Telekinesis&lt;/strong&gt;: vs. Fortitude. Slides the target 8 squares and knocks it
-prone.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Frost&lt;/strong&gt;: vs. Reflex. Cold damage, and a -2 penalty to saves until the end
-of the beholder’s next turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Petrifying&lt;/strong&gt;: vs. Fortitude. Causes slowness (save ends), which worsens to
-immobilization (save ends) with the first failed save and with petrification
-with the second. Petrification is permanent until cured.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Disintegrate&lt;/strong&gt;: vs. Fortitude. Physical damage, and ongoing 15 physical
-damage (save ends). There’s also an ongoing 10 damage after-effect, so in
-practice passing that first save only reduces the ongoing damage a bit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Attraction&lt;/strong&gt;: vs. Reflex; -5 penalty to all defenses, and at the start of
-the target’s turn the beholder pulls it 2 squares (save ends). There’s also a
--2 penalty to defenses as an after-effect (save ends).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Repulsion&lt;/strong&gt;: vs. Reflex. -2 penalty to Reflex, and at the start of the
-target’s turn the beholder pushes it 6 squares (save ends). As an after
-effect, the target gets pushed 3 squares in the same way (save
-ends).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Though the Ultimate Tyrant only has one outright deadly effect among its ray
-selection, it has a few other very interesting effects: the increasing ongoing
-damage from the Unraveling Ray, the extra-sticky ongoing damage from
-Disintegrate, and the first instances I’ve seen of ongoing forced movement!&lt;/p&gt;
-
-&lt;p&gt;It bears repeating that &lt;em&gt;all of these are area attacks&lt;/em&gt;. Yes, even the
-free-action ones from Eye of the Beholder and Spasmodic Ray. This thing is an
-army-killer.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get a total of four sample encounters here.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 5: A gauth, 2 barghest savagers, and a goblin underboss. The gauth is
-likely the leader here, making the goblins think it’s a fully powered
-beholder.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: An Eye of Frost, an oni mage and two wyverns. What haunts the cold
-mountain at night.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 24: An Eye of Chaos and a Chaos Hydra. That enough chaos for you?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 29: The Ultimate Tyrant and 2 Slaughterstone Hammerers. What if the
-kaiju teamed up with the giant robots?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I love beholders and it’s always good to have more. The Eye of Frost feels
-weirdly limited in what it can do, like is fiery counterpart in the first MM,
-but the Ultimate Tyrant is an absolute unit.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/05/21/beholder.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/21/beholder.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
