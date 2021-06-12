@@ -6,9 +6,133 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Jun 2021 10:31:12 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Jun 2021 10:31:12 +0000</lastBuildDate>
+    <pubDate>Sat, 12 Jun 2021 17:38:07 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Jun 2021 17:38:07 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Popcorn Initiative in GURPS</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/pop-corn.jpeg&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;GURPS uses a fairly traditional initiative system to determine who goes first in
+combat. Like all such systems, it works well for “real-time” gaming, but it
+tends to get in the way of good “flow” for a Play-by-Post or other asynchronous
+game.&lt;/p&gt;
+
+&lt;p&gt;In the past I tried to solve that by having players declare 3-5 turns’ worth of
+actions in advance and resolving those on my side, but that ended up being a lot
+of work and after a while I burned out on it.&lt;/p&gt;
+
+&lt;p&gt;It was at about this time that I first read Lancer, and noticed it used an
+interesting initiative system. One of the PCs always acts first in a turn,
+followed by an enemy. We alternate that way until all people on one side have
+acted, and then the remaining combatants on the other side act one after the
+other. The players themselves decide who acts during each “player activation”,
+and the GM decides who acts during each enemy activation. The order in which
+characters act can therefore vary from turn to turn, but the order of
+&lt;em&gt;activations&lt;/em&gt; always remains the same.&lt;/p&gt;
+
+&lt;p&gt;I’d later find out this model was known as “Popcorn Initiative”. It worked well
+for me in the couple of sessions of real-time Lancer I ran, and I’d get a lot
+more experience with it when I joined a forum game of Zeitgeist using D&amp;amp;D 4th
+Edition rules.&lt;/p&gt;
+
+&lt;p&gt;Popcorn Initiative works extremely well in that game. Post flow during combat is
+pretty much uninterrupted as long as there’s anyone available to post. We get
+through a whole combat round in a single day if everyone is on point, a
+formidable pace for an asynchronous game.&lt;/p&gt;
+
+&lt;p&gt;It worked so well, it made me think I’d only run an async GURPS game if I could
+use popcorn initiative in it. And it turns out adding popcorn initiative to
+GURPS is not hard at all!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-rule&quot;&gt;The Rule&lt;/h2&gt;
+
+&lt;p&gt;Instead of using Basic Speed values to determine turn order, use the system
+described at the start of this post, and repeated here for ease of reference:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;A PC always goes first, followed by an enemy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The two sides then alternate taking their turns until all members of one side
+have finished.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The remaining combatants then take their turns one after the other.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Repeat the above procedure for each 1-second round in the combat.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Players decide which PC acts on each player turn. The GM decides who acts on
+each enemy turn. The order doesn’t have to remain constant from second to
+second.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Traits and maneuvers that give extra actions or extra attacks all affect the
+character’s &lt;em&gt;own&lt;/em&gt; turn, as normal. A character’s defenses “reset” at the start
+of their turn as usual. Surprise still works the same, and limits your actions
+in the same way. All this rule change is how to determine the order in which
+turns happen in a 1-second round.&lt;/p&gt;
+
+&lt;p&gt;If the battle involves one or more characters with Enhanced Time Sense, then
+all of them get to go before the less enhanced combatants, using the rules above
+among themselves. It effectively splits the second into two “sub-rounds”.&lt;/p&gt;
+
+&lt;p&gt;Having a high Speed here is still useful because it gives you more Dodge and
+more Move. Changes to Basic Speed cost the same as under the standard rules.&lt;/p&gt;
+
+&lt;h2 id=&quot;popcorn-examples&quot;&gt;Popcorn Examples&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;: A party of four fantasy adventurers fights a group of 6 orcs. The
+heavily armored warrior PC goes first and positions himself to protect his
+squishier buddies. An orc goes next, then a PC, and so on until all PCs have
+acted. The final two orcs act one after the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 2&lt;/strong&gt;: Two of the orcs in the battle above attack the warrior, who
+blocks once and parries once. This leaves him with penalties for further
+defenses. If he is not the first to act next round, the penalties will stay with
+him until he does take his turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 3&lt;/strong&gt;: The same four adventurers meet a Giant Enemy Crab who has Extra
+Attack 1. Again one of the PCs goes first. The crab goes next, and he can make 2
+attacks during his turn as in the normal rules. Then the remaining PCs act.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 4&lt;/strong&gt;: A group of 6 WW2 British Commandos ambushes a patrol squad of 8
+Nazi soldiers. The Nazis are surprised and are considered Mentally Stunned as
+per the standard rules. Though the GM gets to choose the order in which the
+enemy soldiers act, all they can do on their turns is attempt to recover from
+the stun.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example 5&lt;/strong&gt;: A 6-person squad of the Solar Patrol runs into a pack of three
+homicidal robots while exploring a ghost spaceship! All of the robots have
+Enhanced Time Sense, and so does one of the PCs who is a robot themselves. So
+the PC robot acts first, then the three enemy robots, and then the rest of the
+PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;This is definitely a system I want to try out when I next GM an async GURPS
+game. I tried to change the standard rules as little as possible. Lancer does a
+few more things, like giving certain powerful enemies multiple activations per
+round, but I want to experiment with this base version before I try doing that
+in GURPS.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/12/popcorn-initiative.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/12/popcorn-initiative.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Demogorgon (Part 1)</title>
@@ -1226,108 +1350,6 @@ for whom infantry tactics and cavalry tactics are the same thing.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Streamlined Melee Mastery for GURPS</title>
-        <description>&lt;p&gt;In GURPS, the Trained by a Master advantage allows a character to perform
-martial feats on par with those seen in kung fu movies and other similar
-stories. The Weapon Master advantage does basically the same in a slightly
-different way. They overlap so much that I’m not sure if they were meant to
-exist in the same campaign!&lt;/p&gt;
-
-&lt;p&gt;I think both advantages are fairly priced on their own, but I don’t think both
-of them combined are worth 75 points. Choosing to only allow one of them in your
-campaign is a fairly simple matter, but what if you want to allow both,
-potentially on the same character?&lt;/p&gt;
-
-&lt;p&gt;Most of the differences between the two traits are fiddly matters of skill
-coverage. Sweeping those aside leaves us with the remaining elephant in the
-room, the Weapon Master damage bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;elephant-examination-the-damage-bonus&quot;&gt;Elephant Examination: The Damage Bonus&lt;/h2&gt;
-
-&lt;p&gt;In my experience, the damage bonus is the biggest game changer in the entire WM
-package. Even if a Weapon Master never learns a supernatural skill and never
-attacks or parries more than once per turn, they’re still going to feel like an
-entirely different character from someone who has the exact same stats but lacks
-the advantage. It feels a bit unfair to me that this bonus is not available to
-characters that focus on unarmed strikes.&lt;/p&gt;
-
-&lt;p&gt;GURPS uses realistic assumptions as a base for its rules, and under those
-assumptions a combatant with a weapon always has a big advantage over one
-without. The unarmed fighter risks limb injury on every parry and strike. The
-armed one has greater reach and much better damage from using swing attacks or
-simply from doing a better damage type than crushing.&lt;/p&gt;
-
-&lt;p&gt;An unarmed fighter with Trained By a Master can approach that by taking other
-traits… But then they’ve spent 60 points and bought a Hard combat skill to be
-on par with someone who bought an Average skill and took Weapon Master (single
-weapon) for 20 points.&lt;/p&gt;
-
-&lt;p&gt;I don’t feel a need to keep this “effectiveness gap” between armed and unarmed
-skills when we’re dealing with a campaign that allows “mastery” advantages in
-the first place.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-traits&quot;&gt;New Traits&lt;/h2&gt;
-
-&lt;p&gt;My solution to the above situation is to rejigger the existing traits. The new
-and altered traits below are available in any campaign that also allows both
-Trained by a Master and Weapon Master.&lt;/p&gt;
-
-&lt;h3 id=&quot;true-master-50-points&quot;&gt;True Master (50 points)&lt;/h3&gt;
-
-&lt;p&gt;Through either decades of dedication or being some sort of war god, you have
-mastered all forms of “archaic” combat. You gain &lt;em&gt;all&lt;/em&gt; the benefits from having
-both Trained by a Master and the full version of Weapon Master. Your unarmed
-strikes enjoy the same damage bonus described under Weapon Master. This bonus
-&lt;em&gt;does&lt;/em&gt; stack with other bonuses from high striking skills and from traits like
-Claws.&lt;/p&gt;
-
-&lt;p&gt;Those two advantages still exist, and represent a slightly less comprehensive
-form of mastery. You can upgrade from any of them to True Master by spending the
-difference between their point value and 50.&lt;/p&gt;
-
-&lt;h3 id=&quot;iron-limbs-10-points&quot;&gt;Iron Limbs (10 points)&lt;/h3&gt;
-
-&lt;p&gt;Your limbs are immune to incidental injury during unarmed combat. Enemies can’t
-damage your limbs when they parry your unarmed attacks with a weapon, nor can
-they switch targets and damage your limbs when you fail to parry their
-attacks. You also don’t hurt yourself when hitting armored opponents with
-unarmed strikes. Your limbs can still be deliberately targeted by enemy attacks,
-however.&lt;/p&gt;
-
-&lt;p&gt;This trait replaces Unarmed Master, as it is basically Unarmed Master without
-the damage bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I like those two traits, though as of this writing I still need to actually
-field-test them.&lt;/p&gt;
-
-&lt;p&gt;In campaigns that use these two new advantages, an unarmed specialist &lt;em&gt;can’t&lt;/em&gt;
-turn their limbs into Strikers. That’s what Unarmed Master did, and we did away
-with it. IF the specialist in question happens to belong to a non-human species
-that has natural Strikers, though, &lt;em&gt;those&lt;/em&gt; would stack with True Master. Beware
-of boxing crab-people!&lt;/p&gt;
-
-&lt;p&gt;Iron Limbs doesn’t have any prerequisites: you could buy it without having any
-of the “mastery” advantages. This allows it to be used to represent an extremely
-focused blessing, or a creature whose limbs are naturally hard to hurt or even
-naturally made of metal.&lt;/p&gt;
-
-&lt;p&gt;Finally, if you feel 10 points for Iron Limbs is too expensive for someone who
-is already a True Master, you could try rolling it into True Master at no extra
-cost, and eliminating the separate Iron Limbs advantage.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
