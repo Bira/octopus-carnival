@@ -173,5 +173,6 @@ backstory tied to her people's mythological origins. Kazuul's magic weapon
 obsession is also interesting, and the Gorgorin lore has a lot of potential as
 an adventure hook.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2020/02/26/ettin.html" | relative_url }}
 [3]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
