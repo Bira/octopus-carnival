@@ -66,6 +66,195 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
   <ul class="post-list">
     
       <li>
+        <span class="post-meta">Mar 6, 2021</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2021/03/06/spaceplane.html">Building a Spaceplane: A GURPS Spaceships Exercise</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure class="center">
+  <img src="/octopus-carnival/assets/mac-rebisz-20150220-esa-spaceplane-001.jpg"/>
+  <figcaption>
+    Fictional ESA spaceplane.
+    Illustration by <a href="https://www.artstation.com/artwork/3q14v">Maciej Rebisz.</a>
+  </figcaption>
+</figure>
+
+<p>I’ve been reading about Kerbal Space Program recently, and it made me want to
+try my hand at designing some GURPS spaceships.</p>
+
+<p>One of the terms that often gets thrown about when talking about near-future
+space tech is “Single Stage to Orbit”, or SSTO. This would be a vehicle that can
+go from ground to orbit all by itself, without needing any detachable
+boosters. In the real world, a lot of plans for building one of these have been
+conceived and dropped, but we don’t have a real example yet.</p>
+
+<p>How close does GURPS Spaceships think we are to such a thing?</p>
+
+<p>In this post I’ll try to design a spaceplane, a popular type of theoretical SSTO
+craft. The basic idea is that they take off and fly to the upper atmosphere
+using air-breathing engines, and only then activate their rockets to reach
+orbit. After completing their mission, they can re-enter atmosphere and land by
+gliding. Spaceplanes are an attractive concept because they can use a lot less
+fuel to reach orbit, are fully reusable, and easier to maintain. Plus they tend
+to look really cool.</p>
+
+<h2 id="mission-statement-and-design-options">Mission Statement and Design Options</h2>
+
+<p>For this attempt, we’re going to assume a realistic TL8 setting (“present-day
+technology”), giving us access to TL7 and 8 items from the book. I’ll
+arbitrarily assign it SM +8, making it a 1000 ton craft.</p>
+
+<p>Therefore, our craft is SM +8, TL8, streamlined, and winged. It must take off
+from the ground on Earth and reach orbital velocity using without the aid of
+external boosters or detachable stages, while carrying a multi-ton payload in
+its cargo hold.</p>
+
+<p>This means it must have a total delta-V exceeding 5.6 miles per second after all
+the calculations are done<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote">1</a></sup>. We get a bonus 0.3 mps if we launch eastwards
+from the equator, but having the craft reach the number on its own would allow
+it to launch from anywhere in the planet.</p>
+
+<h3 id="fixed-systems">Fixed Systems</h3>
+
+<p>The design options above lock down 3 of the 20 systems we have available:</p>
+
+<ul>
+  <li>We need 1 armor system because we’re streamlined.</li>
+  <li>We need a control room (1 system).</li>
+  <li>We need a cargo bay (1 system).</li>
+</ul>
+
+<p>For our purposes in this post it doesn’t matter what the armor is made of, but
+we might as well use Metallic Laminate since we’re designing a “cutting edge”
+craft. The remaining 17 systems will be split among engines and fuel tanks.</p>
+
+<p>At our TL, we have two engine options: the Chemical Rocket and the Jet
+Engine. They both help, but use different fuel sources. Adding jet engines means
+we need to figure out their top airspeed and subtract that from the necessary
+delta-V to reach orbit. Rocket delta-V is purely a function of how many tanks we
+dedicate to rocket fuel.</p>
+
+<h3 id="attempt-1-mixing-rockets-and-jet-engines">Attempt 1: Mixing Rockets and Jet Engines.</h3>
+
+<p>My first draft had the following configuration for our 17 “free” systems:</p>
+
+<ul>
+  <li>2 Jet Engines</li>
+  <li>1 Chemical Rocket Engine</li>
+  <li>14 Fuel Tanks (13 for rocket fuel, 1 for jet fuel).</li>
+</ul>
+
+<p>The jet fuel allowed us to run the jets for half an hour, which was more than
+enough to reach maximum speed and altitude. They lowered our target to 4.63 mps,
+but that’s not enough. Combining the rules for chemical rockets and fuel tanks,
+our rocket had 3.12 mps of delta-V available to it.</p>
+
+<p>This might be good for a fancy passenger plane for people with money to burn,
+but not for a SSTO vehicle.</p>
+
+<h3 id="attempt-2-rocket-plane">Attempt 2: Rocket Plane</h3>
+
+<p>What if we build an all-rocket engine assembly?</p>
+
+<ul>
+  <li>1 Chemical Rocket Engine</li>
+  <li>16 fuel tanks (all rocket fuel)</li>
+</ul>
+
+<p>Adding up the delta-V for this version is easier, and we do end up with more of
+it, but it’s still not enough. We get 4.8 out of 5.6 mps. So close, yet so far.</p>
+
+<p>What this configuration gives us is a reusable <em>launch-assist vehicle</em> can get
+its 50-ton payload <em>almost</em> to orbital speeds. The payload itself would need to
+be another vehicle that could provide the remaining 0.8 mps of delta-V itself,
+and perhaps include a bit more for maneuvers once in orbit. The LAV can spend
+all of its own fuel and glide down.</p>
+
+<h3 id="attempt-3-cheating-with-optional-rules">Attempt 3: Cheating with Optional Rules.</h3>
+
+<p>We’ve run up against one of the harsh realities of the Spaceships design
+rules. Using only TL7-8 chemical rockets, you simply can’t make an orbit-capable
+vehicle with less than 17 fuel tanks. A traditional disposable rocket can be
+modeled with 1 chemical rocket system, 17 fuel tanks, and an upper stage with an
+SM 2 smaller than the rocket itself. This upper stage has the armor needed by a
+streamlined craft, and the discarded lower stage burns up on re-entry. Our
+spaceplane faces some trouble because it needs to include that armor system
+itself, leaving us 1 fuel tank short.</p>
+
+<p>The only way we can make it work is by pulling in an optional rule from GURPS
+Spaceships 7 p. 4: Smaller Systems. By shrinking both our cargo bay and control
+room to SM +7, we decrease our cargo capacity to 15 tons, decrease our
+Handling/SR in by 1, and add 1.33 fuel tanks to our all-rocket spaceplane. That
+gets us 6.05 mps of delta-V, enough to launch from anywhere on the planet and
+still leave us some reserves for maneuvers and corrections. It carries less than
+the equivalent disposable rocket but is fully reusable, able to land by gliding
+even with an empty fuel tank.</p>
+
+<p>We leave the armor system at the same size because it’s meant to serve as a heat
+shield on re-entry, so it’s probably placed in the central hull.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<figure class="center">
+  <img width="512"
+  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ED97-43938-1mod.jpg/512px-ED97-43938-1mod.jpg"/>
+  <figcaption>
+    A X-33 and a VentureStar craft. NASA, public domain, via Wikimedia Commons.
+  </figcaption>
+</figure>
+
+<p>The thing we just designed is remarkably similar to the Lockheed-Martin
+<a href="https://en.wikipedia.org/wiki/VentureStar">VentureStar</a>, at least if the stats in the Wikipedia article are to be
+believed. This is a project for a SSTO spaceplane whose most famous product is
+the X-33 prototype, a scaled-down version of the final design intended to test
+some of its technologies.</p>
+
+<p>VentureStar was supposed to be a lot simpler to maintain than the space shuttle,
+and was intended to be available for sale to private companies and not just to
+NASA, kick-starting a wave of private space exploration. The project was
+cancelled in 2001 because its fuel tanks were too hard to manufacture using the
+technology of the time. Ironically, better manufacturing techniques were
+discovered a few years later.</p>
+
+<p>Aside from having to contend with the “harsh truth” of the design rules we
+already mentioned, our spaceplane also illustrates what seems to be a constraint
+plaguing real-world designers: separate air-breathing and rocket engines are
+inefficient. Go rocket-only or get you an engine that can do both.</p>
+
+<p>Its final stats are: dST/dHP 70; Air Hnd/SR +2/3; Space Hnd/SR -3/3; Move
+3G/6.05mps; LWt. 1000; Load 15.3; SM+8; Occ 3; dDR 0/2/0. The Space handling is
+terrible, but workable when the mission is “get up, release the payload, get
+down”.</p>
+
+<p>Our spaceplane costs $8.8M according to the design rules. Of course, that’s its
+price if it was mass-produced and commercially available. The rather more
+bespoke space program manufacturing model means it could cost up to 100 times
+more. It runs on liquid hydrogen/liquid oxygen rocket fuel, a full load of which
+costs $693,200.</p>
+
+<p>The LAV version has better handling and stability (+3/4 in air and -2/4 in
+space) and costs about $40K less to fuel, and can deliver a bigger payload as
+long as that payload has some delta-V of its own. But it’s not a spaceplane, so
+nyeh.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>I like using a proper measurement system, but all of the book’s formulas
+are in miles, so I’ll have to use that to avoid getting confused during the
+design process. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
         <span class="post-meta">Mar 1, 2021</span>
 
         <h1 class="post-title" itemprop="name headline">
@@ -779,109 +968,6 @@ how high-powered you view that story as.</p>
 <p>Given that wyverns can be mounts, the most clichéd use for them would be to have
 them as the “hostile humanoid” flying mount of choice, to have proper aerial
 fights against human gryphon cavalry.</p>
-
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 19, 2021</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2021/02/19/worg.html">Let&#39;s Read the 4e Monster Manual/Vault: Worg</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>This article is part of a series! Click <a href="/octopus-carnival/projects/mm-4e/">here</a> to see the other entries.</p>
-
-<p>The first time I see the name “Worg” is in the AD&amp;D 1st Edition Monster Manual,
-where it was synonymous with “dire wolf”. The word itself comes from the Lord of
-the Rings, I think. In Fourth Edition, they’re only on the Monster Manual.</p>
-
-<h2 id="the-lore">The Lore</h2>
-
-<p>Worgs are not wolves, though they might be distantly related. Even dire wolves
-are just animals, but worgs are sapient and evil. They also have some distinctly
-un-wolf-like physical traits when you look at them from up close.</p>
-
-<p>Worgs like the taste of sapient flesh and prefer it over any other prey. They
-live in mazelike warrens, which they decorate with trophies of their
-victims. Worgs on the hunt act as a group, but don’t cooperate very well, since
-each individual is only interested in satisfying its own thirst for murder.</p>
-
-<p>Worgs willingly ally with other sapient creatures that have a disposition as
-nasty as their own, often carrying these allies into battle as mounts.</p>
-
-<p>Oh, and the worg also has a larger and meaner relative: the elephant-sized
-gulvoorg, which looks nothing like a wolf even from very far away.</p>
-
-<p>I’m guessing you won’t find both worgs and normal wolves in the same wilderness
-region - worgs are beefy enough to overpower even dire wolves in direct
-fights. They’d enjoy it, too.</p>
-
-<h2 id="the-numbers">The Numbers</h2>
-
-<p>Both “strains” of worg are Natural Magical Beasts. They have trained Perception
-and Darkvision.</p>
-
-<h3 id="worg">Worg</h3>
-
-<figure class="center">
-  <img src="https://bira.github.io/octopus-carnival/assets/wir-mm-4e-worg.png"/>
-  <figcaption>
-    Copyright 2008 Wizards of the Coast
-  </figcaption>
-</figure>
-
-<p>The basic model is Large and a Level 9 Brute with 120 HP. It has a speed of 8
-and its <strong>Frightful Growls</strong> act as an aura (3) that gives enemies a -1 attack
-penalty and allies a +1 attack bonus. Their only attack is a <strong>bite</strong> which also
-does ongoing damage on a hit (save ends).</p>
-
-<p>I guess the main benefit of riding a worg into battle is that you’re always in
-range of its aura.</p>
-
-<h3 id="gulvoorg">Gulvoorg</h3>
-
-<figure class="center">
-  <img src="https://bira.github.io/octopus-carnival/assets/wir-mm-4e-gulvorg.png"/>
-  <figcaption>
-    Copyright 2008 Wizards of the Coast
-  </figcaption>
-</figure>
-
-<p>These monsters are Huge, and Level 16 Elite Brutes with 384 HP. Their speed is
-9, and they still have trained Perception and Darkvision.</p>
-
-<p>Gulvoorg <strong>bites</strong> are Reach 2, and always knock prone on a hit. They can
-perform Reach 2 <strong>tail slams</strong>, which are also considered basic attacks. On a
-hit, they both knock prone and daze (save ends).</p>
-
-<p>As a standard action they can use <strong>Gulvoorg Fury</strong> to make both a bite and a
-slam attack, against different targets and with a -2 attack penalty. That
-penalty is completely unnecessary, since we’re talking about an elite monster.</p>
-
-<h2 id="sample-encounters-and-final-impressions">Sample Encounters and Final Impressions</h2>
-
-<p>The book gives us two sample encounters:</p>
-
-<ul>
-  <li>
-    <p>Level 10: 3 worgs, 2 razorclaw stalker shifters, and 1 oni night haunter. An
-oni and its evil henchthings.</p>
-  </li>
-  <li>
-    <p>Level 17: 2 gulvoorgs and 2 cyclops hewers. It’s even possible the cyclopes
-are riding the gulvoorgs.</p>
-  </li>
-</ul>
-
-<p>Conceptually, I like worgs a lot more than I like dire wolves, and wouldn’t be
-opposed to merging the two again. That way you get sapient evil worgs with the
-interesting mechanical bits of dire wolves. Maybe add some wind powers so they
-can huff, puff, and blow your house down.</p>
 
 
           </div>
