@@ -47,6 +47,7 @@ variants here. Here they are, from A to Z:
   - [Darkmantle][19]
   - Demogorgon
     - [Part 1][20]
+    - [Part 2][21]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -68,3 +69,4 @@ variants here. Here they are, from A to Z:
 [18]: {{ "/2021/06/06/cyclops.html" | relative_url }}
 [19]: {{ "/2021/06/07/darkmantle.html" | relative_url }}
 [20]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
+[21]: {{ "/2021/06/14/demogorgon.html" | relative_url }}

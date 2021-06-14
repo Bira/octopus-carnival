@@ -19,7 +19,7 @@ his buddy Dagon.
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-demogorgon.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2008 Wizards of the Coast
+    Art by Jesper Ejsing. Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}
@@ -137,7 +137,7 @@ other attacks, including the Double Actions and Dual Brain traits.
 <figure class="center">
   <img src="{{ "/assets/wir-mm2-4e-demogorgon-dagon.png" | absolute_url }}"/>
   <figcaption>
-    Copyright 2008 Wizards of the Coast
+    Copyright 2009 Wizards of the Coast.
   </figcaption>
 </figure>
 {:/nomarkdown}
