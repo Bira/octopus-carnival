@@ -70,3 +70,4 @@ variants here. Here they are, from A to Z:
 [19]: {{ "/2021/06/07/darkmantle.html" | relative_url }}
 [20]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
 [21]: {{ "/2021/06/14/demogorgon.html" | relative_url }}
+[22]: {{ "/2021/06/15/demogorgon.html" | relative_url }}

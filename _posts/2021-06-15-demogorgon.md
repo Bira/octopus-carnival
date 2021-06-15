@@ -9,9 +9,9 @@ tags:
 This article is part of a series! Click [here][1] to see the other entries.
 
 This is the third and final post covering the huge Demogorgon entry in the
-Monster Manual 2. As you might have guessed from what was said back in part 1,
-it covers not one but _two_ multiversal big shots: the titular Demogorgon and
-his buddy Dagon.
+Monster Manual 2. As you might have guessed from what was said back in [part
+1][2], it covers not one but _two_ multiversal big shots: the titular Demogorgon
+and his buddy Dagon.
 
 ## Demogorgon
 
@@ -27,7 +27,7 @@ his buddy Dagon.
 Demogorgon has existed in D&D since at least the days of AD&D 1st Edition. As I
 might have mentioned his _name_ got really popular due to the Stranger Things TV
 show, though I understand the monster there is a different creature from the
-two-headed mandrill from the actual game.
+two-headed mandrill found in the actual game.
 
 ### The Lore
 
@@ -122,7 +122,7 @@ ends). **Hethradiah's Gaze** does a bit less psychic damage but forces the
 target to use an _at-will attack power_ against a target of Demogorgon's choice.
 
 Running away from all this is also quite hard: **Inescapable Grasp** is a Ranged
-_50_ power that targets will and teleports the target to a square within
+_50_ power that targets Will and teleports the target to a square within
 tentacle reach of Demogorgon.
 
 We also get a stat block for the Aspect of Demogorgon, which is very similar but
@@ -153,7 +153,7 @@ Lord. His presence poses a disturbing question: did Tharizdun create the Abyss,
 or merely open a passage to it?
 
 (I think this gets answered in the Demonomicon, but it's still cool even if left
-as a question).
+as a mystery).
 
 Dagon is remarkably secretive for a demon lord, and he sits on an endless trove
 of blasphemous knowledge and terrible cosmic secrets. He allied himself with
@@ -225,3 +225,4 @@ perhaps he does things on a long enough timescale that he ends up being the boss
 of the _next_ campaign.
 
 [1]: {{ "/projects/mm2-4e/" | relative_url }}
+[2]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
