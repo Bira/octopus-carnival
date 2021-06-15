@@ -6,9 +6,237 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Jun 2021 04:11:26 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Jun 2021 04:11:26 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Jun 2021 10:49:40 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Jun 2021 10:49:40 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Demogorgon (Part 3)</title>
+        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;This is the third and final post covering the huge Demogorgon entry in the
+Monster Manual 2. As you might have guessed from what was said back in &lt;a href=&quot;/octopus-carnival/2021/06/11/demogorgon.html&quot;&gt;part
+1&lt;/a&gt;, it covers not one but &lt;em&gt;two&lt;/em&gt; multiversal big shots: the titular Demogorgon
+and his buddy Dagon.&lt;/p&gt;
+
+&lt;h2 id=&quot;demogorgon&quot;&gt;Demogorgon&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Art by Jesper Ejsing. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Demogorgon has existed in D&amp;amp;D since at least the days of AD&amp;amp;D 1st Edition. As I
+might have mentioned his &lt;em&gt;name&lt;/em&gt; got really popular due to the Stranger Things TV
+show, though I understand the monster there is a different creature from the
+two-headed mandrill found in the actual game.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-lore&quot;&gt;The Lore&lt;/h3&gt;
+
+&lt;p&gt;Demogorgon claims the title of Prince of Demons, which is quite the bold claim
+even among demon lords. His personality and motivations make him the demon
+lord’s demon lord. He’s not obsessed with a specific aspect of evil, like Orcus
+is with undeath. He’s not overly committed to a single modus operandi like
+Graz’zt is with his sexy manipulations. He doesn’t limit his influence to a
+single people like Yeenoghu does with gnolls or Baphomet with minotaurs.&lt;/p&gt;
+
+&lt;p&gt;No, Demogorgon’s goals are to become the most powerful thing in the multiverse
+and destroy anyone who causes him anger or jealousy (i.e, almost everyone). His
+wordly cults, as we saw, are focused on wanton destruction and have this theme
+of outward madness that hides powerful mysteries. He and his agents are also
+quite capable of deception and will use that to achieve their goals just as
+readily. You can find servants of Demogorgon anywhere in the universe, and they
+can belong to any people. His domain in the Abyss is covered in tropical jungle
+but also includes seas and vast brine flats, and he is at home in all of these
+environments.&lt;/p&gt;
+
+&lt;p&gt;Demogorgon’s main enemies are Orcus and Graz’zt, but though these other two are
+very powerful, Demogorgon is more. The books emphasize that he has never lost a
+fight - that duel with the god Amoth that nearly split him in two? He won that
+one, killed Amoth, killed Storralk right after it, and then got better. Though
+to Amoth’s credit, he was the only entity to ever &lt;em&gt;scar&lt;/em&gt; the demon lord: he used
+to only have one head before the duel, and that remained split afterwards,
+healing into the current two heads.&lt;/p&gt;
+
+&lt;p&gt;Each of Demogorgon’s heads has its own name, mind and personality: Aameul is the
+one that prefers deception, and Hethradiah is the one that prefers
+destruction. They detest each other and their plans are frequently at odds,
+which is probably the main obstacle preventing the demon lord from conquering
+the universe. Still, sometimes those competing plans end up synergizing into
+something that advances his goals.&lt;/p&gt;
+
+&lt;p&gt;This split nature is reflected all the way down his cult hierarchies. The layout
+of his temples is split down the middle with each half dedicated to one of the
+heads. The most powerful cults are led by pairs of twins, each dedicated to a
+head. And as we already say even individual cultists have a “dual nature” thing
+going on, starting fights as cold and calculating combatants and devolving into
+frothing berserkers when they’re wounded.&lt;/p&gt;
+
+&lt;p&gt;The most powerful among his cultists might know the ritual to summon an Aspect
+of Demogorgon, a living echo of his power. Like the Aspects of Orcus, they share
+the personality and a fraction of the power of their originator, but their
+existence is independent. An aspect doesn’t know what the original is thinking,
+and vice-versa. They’re a bit like avatars from previous editions.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Demogorgon himself is a Garguantuan Elemental Humanoid and a Level 34 Solo
+Controller with the Aquatic and Demon keywords. This is literally
+the highest-level monster we saw so far in the entire Let’s Read - Orcus, the
+former holder of the title, was level 33. His HP total is 1260.&lt;/p&gt;
+
+&lt;p&gt;He has trained Perception and Darkvision, Variable Resistance 30 switchable
+3x/encounter, ground and swim speeds of 8, and a teleport speed of 10. Remember,
+a teleport speed means he can teleport at will.&lt;/p&gt;
+
+&lt;p&gt;He also has the two traits previously seen on ettins. &lt;strong&gt;Double Actions&lt;/strong&gt; means
+he rolls initiative twice at the start of combat, once for each head, and takes
+two full turns each round. His immediate actions refresh before each action. You
+have to specify which turn belongs to which head, though - that head can’t use
+the other’s special power. &lt;strong&gt;Dual Brain&lt;/strong&gt; allows him to automatically save
+against the Dazed and Stunned conditions and against any charm effects at the
+end of one of his turns.&lt;/p&gt;
+
+&lt;p&gt;In combat, Demogorgon fights with his copious tentacles and with psychic powers:
+the basic attack is a &lt;strong&gt;Tentacle Strike&lt;/strong&gt; (Reach 5 vs. AC), but he has many more
+interesting options.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tentacle Blast&lt;/strong&gt; (Close Blast 5 vs. Fortitude) does almost the same damage and
+deals ongoing 15 damage (save ends). If it hits a target that was already taking
+ongoing damage, that damage is increased by 5. &lt;strong&gt;Forked Tail&lt;/strong&gt; (Ranged 5
+vs. Reflex) deals necrotic damage and weakens (save ends).&lt;/p&gt;
+
+&lt;p&gt;Those are the physical attacks; now for the magic ones!&lt;/p&gt;
+
+&lt;p&gt;Any enemy who starts their turn within 10 squares of Demogorgon is subject to
+the &lt;strong&gt;Gaze of Abyssal Might&lt;/strong&gt; (vs. Will; free action), which dazes until the end
+of the target’s turn. He can let his enemies take a peek inside his minds with
+&lt;strong&gt;Dual Aspects of Demogorgon&lt;/strong&gt; (close blast 10 vs. Will; recharge 6) which deals
+heavy psychic damage and knocks the targets unconscious (save ends) on a
+hit. That’s a potential TPK right there.&lt;/p&gt;
+
+&lt;p&gt;As mentioned before, each head has a special power that can be used in its
+assigned turn. These are minor actions, so they’ll happen alongside one of the
+other attacks. They’re both Close Blast 5 vs. Will. &lt;strong&gt;Aameul’s Gaze&lt;/strong&gt; does
+psychic damage and dazes (save ends). If the target was already dazed, for
+example by the Gaze of Abyssal Might, they are dominated instead (save
+ends). &lt;strong&gt;Hethradiah’s Gaze&lt;/strong&gt; does a bit less psychic damage but forces the
+target to use an &lt;em&gt;at-will attack power&lt;/em&gt; against a target of Demogorgon’s choice.&lt;/p&gt;
+
+&lt;p&gt;Running away from all this is also quite hard: &lt;strong&gt;Inescapable Grasp&lt;/strong&gt; is a Ranged
+&lt;em&gt;50&lt;/em&gt; power that targets Will and teleports the target to a square within
+tentacle reach of Demogorgon.&lt;/p&gt;
+
+&lt;p&gt;We also get a stat block for the Aspect of Demogorgon, which is very similar but
+smaller in all ways. It’s “only” Huge, and a Level 25 Elite Controller with 476
+HP. It uses Forked Tail as its basic attack and replaces the named gazes with a
+&lt;strong&gt;Dominating Glare&lt;/strong&gt; that deals psychic damage and dominates. It has all the
+other attacks, including the Double Actions and Dual Brain traits.&lt;/p&gt;
+
+&lt;h2 id=&quot;dagon&quot;&gt;Dagon&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon-dagon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Dagon is inspired by the Lovecraftian entity of the same name, but is not quite
+the same creature. He’s been in the game since the days of AD&amp;amp;D.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-lore-1&quot;&gt;The Lore&lt;/h3&gt;
+
+&lt;p&gt;The first primordials who entered the Abyss shortly after it had formed found
+Dagon already lurking in its depths. He is the first and most ancient Demon
+Lord. His presence poses a disturbing question: did Tharizdun create the Abyss,
+or merely open a passage to it?&lt;/p&gt;
+
+&lt;p&gt;(I think this gets answered in the Demonomicon, but it’s still cool even if left
+as a mystery).&lt;/p&gt;
+
+&lt;p&gt;Dagon is remarkably secretive for a demon lord, and he sits on an endless trove
+of blasphemous knowledge and terrible cosmic secrets. He allied himself with
+Demogorgon shortly after the latter became a demon lord, and the two have
+cooperated ever since. Their cults often work together, and though Dagon’s
+cultists are a minority in these joint efforts, access to their master’s
+knowledge makes them very effective leaders.&lt;/p&gt;
+
+&lt;p&gt;Dagon shares some of his knowledge with Demogorgon to further both of their
+goals, but ever since the the “split” he has taken to whispering different bits
+of lore to each head, which ends up making Aameul and Hethradiah antagonize each
+other even more.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Dagon is a Gargantuan Elemental Magical Beast with the Aquatic and Demon
+keywords, and a Level 32 Solo Soldier with 1184 HP. He has the usual Darkvision
+and Variable Resistance (10, 3x/encounter). His ground speed is only 4, which
+doesn’t matter because you’re definitely fighting him underwater. He also has
+swim and teleport speeds of 8. Dagon also has an &lt;strong&gt;Eye of the Abyss&lt;/strong&gt; aura (10)
+that pulls any enemies who start their turns inside 5 squares.&lt;/p&gt;
+
+&lt;p&gt;Dagon might begin the fight at range, using his control over &lt;strong&gt;Abyssal Tides&lt;/strong&gt;
+to attack the PCs. This is an Area Burst 3 within 20 vs. Reflex, doing force
+damage and immobilizing the targets on a hit (save ends). As an effect, Dagon
+can also teleport 5 squares.&lt;/p&gt;
+
+&lt;p&gt;Once the PCs are in reach, it’s Tentacle Town. Dagon can uses his tentacles
+either for a basic &lt;strong&gt;Tentacle Strike&lt;/strong&gt; (Reach 5 vs. AC) or a &lt;strong&gt;Tentacle Blast&lt;/strong&gt;
+(Close Blast 5 vs. AC), both of which damage and slide the targets 2 squares on
+a hit. They also act on their own with &lt;strong&gt;Grasping Tentacles&lt;/strong&gt; (Reach 5 vs. AC),
+an interrupt that triggers when an enemy in reach attacks Dagon. This does a
+little less damage than the basic attack and grabs the target. The escape DC is
+something like 44 or 46 depending on the skill you use, which will be tricky for
+a non-specialist even if they’re level 30. And of course these Reach 5 tentacles
+have &lt;strong&gt;Threatening Reach&lt;/strong&gt; as well.&lt;/p&gt;
+
+&lt;p&gt;It’s not all tentacles either! Dagon’s repertoire includes a hefty dose of pure
+madness. &lt;strong&gt;Doom Drone&lt;/strong&gt; (close burst 10 vs. Will; minor action; recharge 5-6)
+targets enemies and does psychic damage. It also pulls them 5 squares and stuns
+them on a hit (save ends). &lt;strong&gt;Form of Madness&lt;/strong&gt; is similar but slides and dazes
+instead of pulling and stunning. If several enemies manage to get in close
+Dagon can use &lt;strong&gt;Claws of the Abyss&lt;/strong&gt; (close burst 1 vs. Reflex) to deal heavy
+physical damage with his non-tentacle appendages. Note he can use the claws
+&lt;em&gt;and&lt;/em&gt; both mental attacks in a turn.&lt;/p&gt;
+
+&lt;p&gt;The tactics paragraph makes a reference to a power named &lt;strong&gt;Wrath of the Deep&lt;/strong&gt;,
+though that’s not in the stat block. One of them is wrong. In either case
+Dagon’s goal should be to keep all the PCs, particularly the squishies, well
+inside the tentacled killing zone surrounding him.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Of the big bosses, only Demogorgon features in a sample encounter here: Level
+35, him and two balors.&lt;/p&gt;
+
+&lt;p&gt;These two make nice final bosses for an epic campaign, though probably not at
+the same time. Demogorgon’s Dual Brain gives him a decent amount of control
+resistance. Dagon is a bit less strong in that area, but both of them can output
+an incredible amount of control themselves.&lt;/p&gt;
+
+&lt;p&gt;I imagine that a campaign that ends with the defeat of Demogorgon is one where
+Dagon never shows up in person at all - he’d be too clever to stick around in
+that case. The reverse is harder to predict. Demogorgon values the alliance but
+is probably too selfish to try and help Dagon if a party of epic demigods knocks
+at his briny door. He might however, try to exact revenge on them later, so he
+could end up being the “final final” boss in a Dagon-focused campaign. Or
+perhaps he does things on a long enough timescale that he ends up being the boss
+of the &lt;em&gt;next&lt;/em&gt; campaign.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/15/demogorgon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/15/demogorgon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Demogorgon (Part 2)</title>
@@ -1205,124 +1433,6 @@ progress through these monster books.&lt;/p&gt;
         <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/01/chaos-shard.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/01/chaos-shard.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Vault 2: Centipede</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-centipede.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Monstrous centipedes have been in the game since the beginning, and are based on
-real-world animals. Let’s see what 4e makes of them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;I only recently realized D&amp;amp;D centipedes aren’t as fantastical as I always
-thought. There are thousands of real-world centipede species, and the ones I was
-familiar with were pretty small and generally not dangerous to people. However,
-some species can reach up to 30cm (a foot!) in length, and have a poisonous bite
-that might cause fever and chills in people. It’s possible for someone to be
-allergic to centipede venom, and in that case their bite can cause anaphylatic
-shock.&lt;/p&gt;
-
-&lt;p&gt;So the only fantastical thing about the D&amp;amp;D centipede in early editions of the
-game was the fact that its venom was always save-or-die. Its size was realistic,
-and so was its venom in later editions when it became less deadly. Of course,
-the game also had truly giant centipedes which were entirely fantastical, and
-this remains true here.&lt;/p&gt;
-
-&lt;p&gt;Centipedes can be found in woodlands, caves, and lots of other
-environments. They’re ferocious predators and aggressive enough to attack much
-larger creatures if they feel threatened. The larger specimens are of a scale
-large enough to see humanoids as potential prey, too.&lt;/p&gt;
-
-&lt;p&gt;Despite all this aggressiveness, it seems lots of sapient creatures are able to
-keep them as pets and guard animals. I suspect magic might be
-involved. Centipedes are particularly popular pets for Torog worshippers, who
-consider them sacred.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Centipedes are Natural Beasts of varying size. The game gives them Darkvision,
-though it might be more accurate to give them blindsight instead. The authors
-didn’t consider a single foot-long centipede to be a worthy threat, so we get
-stats for a swarm of them and for a giant specimen.&lt;/p&gt;
-
-&lt;h3 id=&quot;centipede-swarm&quot;&gt;Centipede Swarm&lt;/h3&gt;
-
-&lt;p&gt;This Medium swarm is a Level 2 Brute with 44 HP. It has ground and climb speeds
-of 6, with Spider Climb (which allows them to cling to ceilings). It has all
-standard swarm traits, taking half damage from melee and ranged attacks, and 10
-extra damage from close and area attacks.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals 3 automatic damage to each enemy caught
-inside, +2 per centipede swarm adjacent to the enemy. This is deceptively
-dangerous, particularly if you assume multiple swarm auras stack! An enemy
-adjacent to a single swarm will take 5 damage at the start of their turn. An
-enemy adjacent to 2 of them would take 14, or 7 if the auras don’t stack.&lt;/p&gt;
-
-&lt;p&gt;The swarm’s basic attack is a &lt;strong&gt;Swarm of Mandibles&lt;/strong&gt; (vs. Reflex), which deals a
-little bit of physical damage, which increases by 1 with each adjacent centipede
-swarm. A hit also deals ongoing 5 poison damage (save ends). If the enemy is
-already taking ongoing poison damage, they’re weakened (save ends).&lt;/p&gt;
-
-&lt;p&gt;If the swarm is hit by an area or close attack, their &lt;strong&gt;Survival Instinct&lt;/strong&gt;
-causes them to shift 3 squares as a reaction.&lt;/p&gt;
-
-&lt;p&gt;An interesting monster: despite being a brute, its attack is kinda weak. Most of
-the damage comes from the swarm aura, particularly if you assume multiple
-centipede swarm auras stack. You’ll never encounter just one swarm either -
-there should be at least two in the group to enjoy those cool exponential
-bonuses. More than two might be pushing a bit, though.&lt;/p&gt;
-
-&lt;h3 id=&quot;centipede-scuttler&quot;&gt;Centipede Scuttler&lt;/h3&gt;
-
-&lt;p&gt;A proper giant, this is a single Medium individual. It’s a Level 4 Skirmisher
-with 51 HP and both ground and climb speeds of 8. Can’t run away from it.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;bite&lt;/strong&gt; targets AC and does a little more damage than the swarm’s, but has
-the same riders. Against a weakened creature (which likely got that way from its
-venom) it can &lt;strong&gt;Feed&lt;/strong&gt;, dealing roughly triple the damage of a basic bite.&lt;/p&gt;
-
-&lt;p&gt;As an at-will move action, the Scuttler can, well, &lt;strong&gt;Scuttle&lt;/strong&gt;, which allows it
-to shift 4 squares. When it shifts into an ally’s space while scuttling, that
-space doesn’t count as one of the 4 squares. Be sure to give it lots of
-buddies when building the encounter.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get two encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 4: 1 ankheg, 2 bloodthorn vines, and 2 centipede swarms. What rotten
-luck that all of them would be hanging out next to each other.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 5: 2 scuttlers, 1 gnoll huntmaster, 2 gnoll marauders. So they keep more
-than hyenas as pets.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I liked the old save-or-die centipedes and these feel properly scary as well,
-while also being distinct from all the other giant creepy crawlies.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/05/30/centipede.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/30/centipede.html</guid>
         
         <category>dnd4</category>
         
