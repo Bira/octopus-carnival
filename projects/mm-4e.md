@@ -266,8 +266,8 @@ After this, we get right on the monsters:
 - Z
   - [Zombie][187]
 
-And finally, we close out the book with a small post about the [Traits Appendix][188]
-in the Monster Manual.
+And finally, we close out the book with a small post about the [Traits
+Appendix][188] in the Monster Manual.
 
 [1]: {{ "/2019/01/03/wir-mm-4e-intro.html" | relative_url }}
 [2]: {{ "/2019/01/04/aboleth.html" | relative_url }}
