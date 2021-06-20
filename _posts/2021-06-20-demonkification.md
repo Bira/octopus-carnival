@@ -37,7 +37,7 @@ is because Monk is a separate class in D&D.
 And the reason Monk is a separate class in D&D, as far as I can tell, is because
 of a particular set of media cliches that have surrounded the words "martial
 arts" in a lot of media contemporary with earlier editions of D&D. I guess you
-could call it a form orientalism[^1].
+could call it a form of orientalism[^1].
 
 In some of these media sources, "martial arts" are this mysterious and exotic
 secret from the mysterious and exotic East, much more sophisticated than the
