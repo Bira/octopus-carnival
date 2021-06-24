@@ -6,9 +6,781 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jun 2021 20:30:05 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Jun 2021 20:30:05 +0000</lastBuildDate>
+    <pubDate>Thu, 24 Jun 2021 10:39:46 +0000</pubDate>
+    <lastBuildDate>Thu, 24 Jun 2021 10:39:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Vault 2: Demons, Part 04</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-yochlol.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go [here][1] to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;This is the last post covering the “Demons” entry in the Monster Manual 2, and
+it features a lone demon: the Yochlol, who has been in the game since at least
+AD&amp;amp;D 1st Edition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Yochlols are the handmaidens of Lolth, being some of her most favored
+servants. This a fact which those not initiated in Her mysteries will find
+baffling because yochlols don’t resemble spiders in any way. In their natural
+form these demons look like pillars of snot with a baleful red eye embedded near
+the top. They can also take the shape of beautiful drow women.&lt;/p&gt;
+
+&lt;p&gt;Yochlols might be assigned by their mistress to assist mortal priests that have
+also earned her favor, but they mainly works as spies. They’re so good at
+passing for mortal drow that they can remain undetected for years at a time and
+attain positions of great power in their society. I’ll write more about the
+implications of this in the Impressions section.&lt;/p&gt;
+
+&lt;p&gt;The existence of yochlols is one more point in favor of my pet theory that Lolth
+is actually a demon lord.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get a single stat block here, named Yochlol Tempter, which I guess is
+representative of most of them.&lt;/p&gt;
+
+&lt;p&gt;Yochlols are Medium Elemental Humanoids with the Demon and Shapechanger
+keywords. They’re Level 17 Controllers with 158 HP. Despite being demons, they
+lack Variable Resistance and have Resist 10 Poison instead. They have
+darkvision, a ground speed of 6, and a climb speed of 8 with Spider Climb.&lt;/p&gt;
+
+&lt;p&gt;Yochlols have two sets of attack powers, one for when they’re in demon form, the
+other for when they’re in drow form. They can &lt;strong&gt;switch forms&lt;/strong&gt; with a minor
+action, but I guess an infiltrated yochlol will stick to drow form to avoid
+blowing its cover. Once that happens, though, it will change shape as often as
+it needs to assemble the best combos it can.&lt;/p&gt;
+
+&lt;p&gt;In demon form, the Tempter fights with its Reach 2 &lt;strong&gt;Tentacles&lt;/strong&gt;. A basic
+tentacle attack is quite weak, but the demon can make four of them with its
+&lt;strong&gt;Amorphous Flurry&lt;/strong&gt;. If two or more flurry attacks hit the same target, that
+target takes a -4 penalty to Will (save ends).&lt;/p&gt;
+
+&lt;p&gt;At range, it can project a &lt;strong&gt;Maddening Web&lt;/strong&gt; (area burst 2 within 10
+vs. Reflex). It does no immediate damage, but immobilizes and deals 5 ongoing
+damage (save ends). It recharges on a 4-6, but only while the yochlol is
+bloodied. So it’s less of a web and more of flung ball of runny snot.&lt;/p&gt;
+
+&lt;p&gt;In drow form, this demon’s attacks are all what you would expect out of a
+priestess of Lolth: a &lt;strong&gt;spider touch&lt;/strong&gt; in melee that also deals ongoing 10
+poison damage (save ends); a &lt;strong&gt;venom bolt&lt;/strong&gt; (ranged 10 vs. Reflex) that deals
+physical and ongoing 5 poison damage (save ends); and a minor-action &lt;strong&gt;Seductive
+Glare&lt;/strong&gt; which despite the horrible name is a slow-acting mind control spell
+(ranged 10 vs. Will). On a hit the target is dazed (save ends); the first failed
+save worsens that to Stunned, and the second to Dominated. In all cases a
+successful save ends the effect.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is level 16 and as you would expect involves a lot of drow:
+2 arachnomancers, 1 blademaster and a priest, accompanied by 2 yochlol
+tempters. Your call as to whether the drow know about the demons or not.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Mechanically, I find yochlols quite interesting with their two forms that have
+complimentary powers. A lone yochlol can set up some interesting combos by
+itself, by using Amorphous Flurry to weaken someone’s Will and then the mind
+control attack in the next round. If you have two of them, they can do that a
+lot faster.&lt;/p&gt;
+
+&lt;p&gt;I remember seeing complains in Let’s Reads for older editions about how these
+demons don’t seem to have much to do with Lolth thematically speaking. After
+all, spiders are officially Her Thing and yochlols are not spiders. And despite
+them being described as the ultimate shape-shifting spies, they can only turn
+into drow, so they can’t be used to spy on the drow’s enemies.&lt;/p&gt;
+
+&lt;p&gt;The bits of lore here help make sense of all that. Lolth is also the goddess of
+lies, and treachery is among her commandments. How much do you think such a
+deity would trust their followers? No, Yochlols aren’t made to spy on the
+enemies of the drow. They’re made to spy &lt;em&gt;on the drow&lt;/em&gt;. Their un-spider-like
+nature gives Lolth some plausible deniability. It is, perhaps, a hint that these
+demons are the product of another side of Lolth’s personality, one rarely known
+to her worshippers. Because despite all the dedication the drow people lavishes
+on her, Lolth doesn’t trust them.&lt;/p&gt;
+
+&lt;p&gt;That’s kinda tragic, for both the Drow and for Lolth.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Demons, Part 3</title>
+        <description>&lt;p&gt;This is part of a series! Go [here][1] to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;We continue looking at the many monsters in the Demons entry of the Monster
+Manual 2.&lt;/p&gt;
+
+&lt;h2 id=&quot;nycademon&quot;&gt;Nycademon&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-nycademon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’m pretty sure these winged, four-armed creatures used to be classified as
+Yugoloths in previous editions, where their name was written as
+“Nycadaemon”. Yugoloths, or daemons, were the Neutral Evil Fiends, created
+because the writers of AD&amp;amp;D decided every alignment needed its own
+representative outsider. Fourth Edition uses a different cosmology and a
+different alignment system, so its authors elected to turn daemons into demons.&lt;/p&gt;
+
+&lt;p&gt;Nycademons spend their days flying over the open expanses of the Abyss in search
+of creatures to snatch and drop from a great height, which they think is hella
+funny. This has given them the nickname of “sky demons”. They place great value
+in physical strength, and so have a tendency to underestimate beings whose power
+is less obvious (“Do you even lift, bro?”). They’re also hesitant to attack
+someone who seems big and strong, for the same reason.&lt;/p&gt;
+
+&lt;p&gt;Like many former daemons, nycademons have a mercenary temperament and will work
+for anyone who pays them. These contracts tend to be short-lived though, as
+their superiority complex tends to infuriate most allies. All that flexing can
+get annoying really fast.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Nycademons are Large Elemental Humanoids (demons) and Level 22 Skirmishers with
+210 HP. They have Variable Resistance 20 (2/encounter), as well as ground and
+fly speeds of 6. The one in this book fights with a pair of greataxes it wields
+one-handed, leaving it with two free hands to snatch victims.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Wicked Axe&lt;/strong&gt; attacks are Reach 2 and High-Crit, and also cause ongoing 5
+damage (save ends). &lt;strong&gt;Wicked Edges&lt;/strong&gt; allows it to make two such attacks in one
+action, putting its damage near where it should be even without the math fix.&lt;/p&gt;
+
+&lt;p&gt;Instead of axing someone, the nycademon can &lt;strong&gt;Snatch&lt;/strong&gt; them (Reach 2
+vs. Fortitude). It can fly 6 squares before or after making the attack, which
+does no damage but grabs the target. The &lt;strong&gt;Strong Flyer&lt;/strong&gt; trait exempts it from
+the usual obstacles to moving a grabbed target, so it can travel its full speed
+with the grabbed victim without needing to make additional tests to do so.&lt;/p&gt;
+
+&lt;p&gt;All of these traits lend themselves well to the “snatch and drop” tactics
+described in the lore. Grab someone, fly up for a few rounds while attacking
+them with the axes, drop them for a bunch of d10s of fall damage.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter has three nycademons, a goristro and a rot harbinger. It’s
+Level 21, and likely affiliated with Orcus.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;While mechanically simple, I kinda like the whole “snatch and drop” thing. It’s
+also fun to imagine these creatures as condescending gym bros.&lt;/p&gt;
+
+&lt;h2 id=&quot;pod-demons&quot;&gt;Pod Demons&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-pod.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Particularly disgusting examples of demonkind, these slimy creatures can spawn
+miniatures of themselves from their blistered bodies, using them to corner and
+terrorize their victims.&lt;/p&gt;
+
+&lt;p&gt;The spawn have no mind of their own, being extensions of the demon’s main
+body. In fact, the pod demon can transfer its conscience to a podling, causing
+it to grow to full size while the original body shrinks.&lt;/p&gt;
+
+&lt;p&gt;These creatures have some connection to the mysterious Chained God (AKA
+Tharizdun, but no one in-setting rememebers that name). Some of them wrap
+themselves in chains to show their allegiance.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Pod Demons are Large Elemental Humanoids (demons), and Level 15 Elite Artillery
+with 176 HP. They have darkvision and Variable Resistance 15
+(2/encounter). Their ground speed is 8.&lt;/p&gt;
+
+&lt;p&gt;They fight by using their half-formed spawn as ammo. They can either throw a
+spawn so it explodes on impact using &lt;strong&gt;Fling Podspawn&lt;/strong&gt; (area burst 1 within 10
+vs. Reflex), or squeeze it to spray nearby enemies with &lt;strong&gt;Spew Podspawn&lt;/strong&gt; (close
+blast 3 vs. Reflex). In either case, targets take acid damage on a hit.&lt;/p&gt;
+
+&lt;p&gt;Fully formed podspawn constantly pop free of the parent body: one appears within
+2 squares of the original at the start of its turn as long as there are fewer
+than 4 podspawn in play. The parent can also force them out with &lt;strong&gt;Generate
+Podspawn&lt;/strong&gt; (close burst 2 vs. Reflex), which does poison damage and fills
+unoccupied squares with enough podspawn to reach the limit of 4.&lt;/p&gt;
+
+&lt;p&gt;As a move action the pod demon can &lt;strong&gt;Transfer Essence&lt;/strong&gt;, effectively swapping
+positions with a podspawn within 10 squares. As a minor action it can use
+&lt;strong&gt;Detonate Minion&lt;/strong&gt; (ranged 10), causing a podspawn in range to explode and deal
+a bit of automatic poison damage to adjacent creatures.&lt;/p&gt;
+
+&lt;p&gt;If forced into melee, they attack with a weak &lt;strong&gt;Claw&lt;/strong&gt; that also does ongoing
+poison damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;I’m guessing that if you have multiple pod demons in play, each of them will be
+able to have its own set of four minions.&lt;/p&gt;
+
+&lt;p&gt;The podspawn themselves also have a little stat block. They’re Level 15 Minion
+Skirmishers whose resistances always match the parent’s, and who attack with a
+&lt;strong&gt;corroding slime&lt;/strong&gt; that’s slightly stronger than the parent’s claw. Their
+&lt;strong&gt;dangerous proximity&lt;/strong&gt; trait gives them combat advantage against any adjacent
+enemy, no flanking required.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 16: 1 immolith, 1 pod demon, 4 podspawn and 2 red
+slaads.&lt;/p&gt;
+
+&lt;h2 id=&quot;runespiral-demon&quot;&gt;Runespiral Demon&lt;/h2&gt;
+
+&lt;p&gt;These turtle-beetle things have complex patterns of arcane runes etched into
+their shells, which channel arcane energies from deeper within the Abyss. The
+specimens depicted here turn this energy into lightning, but there are others
+with variant runic patterns that use other elements.&lt;/p&gt;
+
+&lt;p&gt;Runespiral demons are sapient, but they don’t have hands and are nowhere near
+smart enough to be good at arcane magic. The runes are either natural or etched
+by some unseen patron. In combat, they rely on the magic of these runes to
+attack at range.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-runespiral.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We actually get two varieties here: common Runespiral Demons are Small Elemental
+Magical Beasts, and Level 5 Artillery with 51 HP. Arctide Runespiral Demons are
+Large, and Level 12 Artillery with 97 HP. They have Variable Resistances of 10
+and 15 respectively, and a ground speed of 7. Their attacks are almost
+identical.&lt;/p&gt;
+
+&lt;p&gt;They can attack distant opponents with either a &lt;strong&gt;Focused Strike&lt;/strong&gt; (ranged 10
+vs. Reflex) that does standard lightning damage, or a &lt;strong&gt;Lightning Burst&lt;/strong&gt; (Area
+Burst 2 Within 10 vs. Reflex), which does bit less lightning damage as a
+baseline, but has that damage increase by 1 for each creature caught in the
+blast. That’s &lt;em&gt;creature&lt;/em&gt;, not &lt;em&gt;enemy&lt;/em&gt;: allies caught in the blast will increase
+its damage, but will also be damaged by it since it’s not a selective burst. The
+Arctide Demon’s burst is also &lt;strong&gt;Charged&lt;/strong&gt;: it does all of the above and
+additionally gives allies damaged by it a +1 bonus to their next recharge rolls.&lt;/p&gt;
+
+&lt;p&gt;When an enemy moves adjacent to one of these demons they release an &lt;strong&gt;Arcane
+Arc&lt;/strong&gt; (melee 1 vs. Reflex) as an interrupt, dealing lightning damage. In melee
+they’ll &lt;strong&gt;bite&lt;/strong&gt; for very little physical damage, and when bloodied they release
+a &lt;strong&gt;Bloodied Shock&lt;/strong&gt; (close burst 1 vs. Reflex) that deals lightning damage and
+dazes.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter has 2 basic runespiral remons, 2 evistros, and the human
+hexer who summoned them all.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;More demon artillery support. They have some mechanical weaknesses: all of their
+good attacks deal the same type of damage and target the same defense. Some GMs
+might want to pull a Gygax and say that runespiral demons with other elements
+look identical save for their different runes and that it takes an Arcana test
+to distinguish them.&lt;/p&gt;
+
+&lt;h2 id=&quot;rupture-demon&quot;&gt;Rupture Demon&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-rupture.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These demonic amoeboids are the least spawn of Juiblex, and they act as abyssal
+scavengers, following more powerful demons around and eating the remains of
+their kills. When they die their own remains can infest those more powerful
+demons and make them even stronger. Does that serve some plan of Juiblex? No one
+knows.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Rupture Demons are Level 5 Minion Soldiers, with low-light vision, a ground
+speed of 6 and a climb speed of 3 with Spider Climb. They lack any elemental
+resistance.&lt;/p&gt;
+
+&lt;p&gt;They can attack directly with a &lt;strong&gt;Slimy Extrusion&lt;/strong&gt; for minor physical damage,
+or they can use an &lt;strong&gt;Enveloping Embrace&lt;/strong&gt;. This hits automatically, does no
+damage and restrains the target (save ends). It also kills the demon, presumably
+because it has to rupture to envelop someone.&lt;/p&gt;
+
+&lt;p&gt;When a rupture demon dies, either due to an attack or from using the Embrace, it
+explodes into a mass of ichor and pseudopods that latches onto another demon
+within 5 squares. This infestation heals 5 HP and gives it a +2 damage
+bonus. Multiple infestations stack, up to a maximum of +10 damage. For this to
+work the infested demon must be level 10 or less.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter has 1 Black Pudding, 1 Evistro, and 6 rupture demons. An
+interesting contrast, because the pudding is going to split into smaller enemies
+and the rupture demons will join with the Evistro as the fight goes on.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;I like their concept! The level limitation is a bit strange. Presumably you
+could have higher level minions that could affect more powerful demons. In that
+case you should make sure they’re still a few levels behind the “real”
+opposition, since you want them to die fast and provide that damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;end-of-part-3&quot;&gt;End of Part 3&lt;/h2&gt;
+
+&lt;p&gt;There’s one more to go, with the last remaining demon.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Demons, Part 2</title>
+        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Continuing with the “Demon” entry of the Monster Manual 2, let’s look at a few
+more abyssal greeblies.&lt;/p&gt;
+
+&lt;h2 id=&quot;gnaw-demon&quot;&gt;Gnaw Demon&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-gnaw.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These round boys live to eat. Their hunger is insatiable and they’re always
+gnawing on and eating everything around them. That sentence is quite literal
+too: they can eat &lt;em&gt;anything&lt;/em&gt;, so they eat &lt;em&gt;everything&lt;/em&gt;, all the time. Being
+demons, of course, they prefer living flesh above all else.&lt;/p&gt;
+
+&lt;p&gt;Despite this, gnaw demons are also quite cowardly and will run away if they see
+they’ve bitten off more than they can chew. Tracking them down isn’t too
+difficult, though, since they’ll soon become distracted by some other
+weak-looking target.&lt;/p&gt;
+
+&lt;p&gt;Gnaw demons can teleport, but it’s apparently a reflex not under their conscious
+control. Though they’ll likely avoid the thick of the fight at first, the smell
+of blood drives them into a frenzy.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Gnaw Demons are Small Elemental Humanoids, and Level 5 Skirmishers with 66
+HP. They have Darkvision and are slow and blobby with a ground speed of 3 and a
+flight speed of 5 (clumsy). They have Variable Resistance 10 (1/encounter).&lt;/p&gt;
+
+&lt;p&gt;In combat they’re all about biting, since they’re pretty much trying to eat
+you. Their &lt;strong&gt;Ankle Biter&lt;/strong&gt; aura (1) inflicts a -2 penalty to the speed of any
+enemy caught inside. Their basic attack is the obvious &lt;strong&gt;bite&lt;/strong&gt;, which deals
+extra damage to bloodied enemies.&lt;/p&gt;
+
+&lt;p&gt;That reflexive teleport is modeled with two different abilities: &lt;strong&gt;Hungry
+Teleport&lt;/strong&gt; (move action) allows the demon to teleport 10 squares into a square
+adjacent to a bloodied enemy. &lt;strong&gt;Pain-Induced Teleport&lt;/strong&gt; (free action when first
+bloodied) is an unrestricted 10-square teleport, which it will likely use to
+flee.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;I kinda like these critters. They’re more flavorful than evistros (which
+smoulder with generic rage), though they also pair really well with them or
+other front-liners that can get the enemy bloodied so they can teleport in.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is Level 6 and has three of these spherical terrors
+accompanying a pair of gnolls.&lt;/p&gt;
+
+&lt;h2 id=&quot;kazrith&quot;&gt;Kazrith&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-kazrith.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Kazriths are barracuda-like aquatic demons that prowl the watery bodies of the
+abyss and might be summoned to do so elsewhere. Despite their preference for
+water they’re also perfectly capable of operating on land, so you don’t have to
+build an underwater dungeon in order to use them.&lt;/p&gt;
+
+&lt;p&gt;Though sapient, kazriths prefer to act as ambush predators, burying themselves
+in the ground and jumping out to attack anything that looks like it would be fun
+to kill. Their pores secrete strong acid, which helps both with the burrowing
+and with the killing.&lt;/p&gt;
+
+&lt;p&gt;They burrow as fast as they can run and leave stable tunnels behind, which means
+all bodies of water in kazrith territory are linked by networks of flooded
+tunnels. So if you &lt;em&gt;do&lt;/em&gt; want to make an underwater dungeon, you have the perfect
+excuse.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Kazriths are Medium Elemental Magical Beasts with the Demon and Water
+keywords. Note that they &lt;em&gt;don’t&lt;/em&gt; have Aquatic, so they don’t gain that +2 attack
+bonus when fighting underwater. They’re Level 20 Lurkers with 146 HP, an
+immunity to acid, and Variable Resistance 20 (2/encounter). They have a ground
+speed of 6, a burrow speed of 6 with Tunneling, and a swim speed of 8.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that also deals 5 ongoing acid damage (save
+ends). They can also burrow back into the ground while spraying acid behind
+them: this &lt;strong&gt;Acidic Retreat&lt;/strong&gt; (recharge 5-6) is a close burst 2 vs. Refles,
+deals light physical damage, and 10 ongoing acid damage (save ends). It also
+allow the demon to burrow its speed as an effect.&lt;/p&gt;
+
+&lt;p&gt;When bloodied, its &lt;strong&gt;Acidic Seepage&lt;/strong&gt; increases, causing it to gain +4 burrow
+speed and deal 10 acid damage to enemies that start their turn adjacent to the
+kazrith. Its &lt;strong&gt;Slippery&lt;/strong&gt; trait allows it to make extra saves against the
+immobilized, slowed and restrained conditions at the start of its turn.&lt;/p&gt;
+
+&lt;p&gt;Fighting a kazrith is like playing a corrosive game of whack-a-mole, as it will
+keep burrowing back and popping up to bite you, and it’s hard to pin down.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounters-and-impressions&quot;&gt;Sample Encounters and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is Level 18 and features an Evil Party of aboleths, their
+minion servitors, and a pair of kazriths.&lt;/p&gt;
+
+&lt;p&gt;Kazriths sound like something that should logically exist, but by themselves
+they don’t really stoke my imagination. They do make decent additions to
+adventures featuring varied demons as opposition, and they work well with
+Aboleths.&lt;/p&gt;
+
+&lt;h2 id=&quot;needle-demon&quot;&gt;Needle Demon&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-needle.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These prickly assholes love seeing former friends and allies turn on each other
+with murderous intent, particularly when they were the ones who instigated
+it. They’re much smarter than they look and often end up as advisors to more
+powerful villains, sometimes even as the power behind the throne. However, their
+lust for infighting often gets the better of them, so these deceptions never
+last long and cause terrible damage when they collapse.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Needle demons are Medium Elemental Humanoids (demons), and Level 12 Controllers
+with 123 HP. They have darkvision and Variable Resistance 15 (2/encounter). They
+run with speed 6.&lt;/p&gt;
+
+&lt;p&gt;They fight with their pincers and spiked tail. The &lt;strong&gt;claw&lt;/strong&gt; attack is pretty
+standard, and &lt;strong&gt;Claws of Betrayal&lt;/strong&gt; allows them to attack twice with them. If
+both attacks hit the same target, that target takes 10 ongoing damage (save
+ends). The &lt;strong&gt;Tail&lt;/strong&gt; is a reaction attack that does light physical damage and is
+triggered by an enemy moving to a square adjacent to the demon.&lt;/p&gt;
+
+&lt;p&gt;Their most thematic power is &lt;strong&gt;Rage of the Betrayed&lt;/strong&gt; (close blast 5 vs. Will;
+enemies only; recharge 6), which does no damage but dominates (save ends). Yes,
+it’s a mass dominate. It works by convincing the affected target that their
+allies have betrayed them, so I guess the demon is going to use it to make the
+PCs focus on fighting each other instead of itself.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters have them working alongside gnolls and drow, but repeat
+that it never takes long for them to turn on their own allies.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;Simple, but quite effective due to that mass dominate. I’m guessing you could
+use a recurring needle demon NPC as a source of lots of drama, having it appear
+somewhere in every villainous group the PCs oppose only to always run away.&lt;/p&gt;
+
+&lt;h2 id=&quot;neldrazu&quot;&gt;Neldrazu&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-neldrazu.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These demons are into kidnapping, for which they use their four hooked
+claws. During a battle they like to hide around the edges and jump out to snatch
+an enemy and drag it either to an isolated spot or into the midst of the
+neldrazu’s allies. They’re often summoned by slavers who don’t mind if the goods
+are slightly damaged.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Neldrazu are Large Elemental Humanoids (demons) and Level 8 Lurkers with 71
+HP. They have darkvision and Variable Resistance 10 (1/encounter). They have a
+ground speed of 8 and a climb speed of 6 with Spider Climb.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a standard &lt;strong&gt;Claw&lt;/strong&gt;, but when only one enemy is within 5
+squares of the neldrazu they can really stretch and use &lt;strong&gt;Flaying Claws&lt;/strong&gt;, which
+do double damage plus ongoing 5 damage (save ends). This means they’ll lurk
+until they can catch a PC alone, and then move in with this attack.&lt;/p&gt;
+
+&lt;p&gt;After using Flaying Claws, a neldrazu will likely follow it up with &lt;strong&gt;Abduct&lt;/strong&gt;
+(recharge 5-6), a move action attack that targets Reflex and can only be used
+against enemies. It does no damage, but teleports the target 10 squares to a
+place of the demon’s choice on a hit. The demon teleports 10 squares right after
+this, either adjacent to the target on a hit, or to anywhere it chooses on a
+miss.&lt;/p&gt;
+
+&lt;p&gt;I think the best way to use this is to drop an enemy right in the middle of the
+neldrazu’s allies. If a lurker isolates itself with a PC, things tend to go
+poorly for the lurker.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;The Monster Manual 3 and later on the Monster Vault would include the Babau, a
+level 13 Skirmisher demon that’s quite similar, and which we covered
+&lt;a href=&quot;/octopus-carnival/2019/11/07/babau.html&quot;&gt;here&lt;/a&gt;. At the time I remember poo-pooing the babau’s abduction tactics
+because I assumed it would always take the victim to an isolated place, but now
+I see it can also take them to its allies instead.&lt;/p&gt;
+
+&lt;p&gt;Compared to the babau, the neldrazu is a better team player, since it can abduct
+more often in a fight. Its special attack is quite situational, but it can be
+used &lt;em&gt;before&lt;/em&gt; the abduction, which means it doesn’t have to choose between
+isolating a victim and bringing it to its allies.&lt;/p&gt;
+
+&lt;h2 id=&quot;end-of-part-2&quot;&gt;End of Part 2&lt;/h2&gt;
+
+&lt;p&gt;There’s at least one more post’s worth of demons to cover.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Demons, part 1</title>
+        <description>&lt;p&gt;This is part of a series! Go [here][1] to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;You thought getting out of the Abyss was going to be easy? Right after finishing
+all nine pages of Demogorgon’s entry, it’s time to proceed to eleven more pages
+of assorted demons. Each individual demon entry comes with a bit of lore and a
+sample encounter group, so it’s better for me to do “Lore” and “Numbers”
+subsections for each of them instead of the other way around. Since each
+individual entry seems fairly simple, I’ll keep adding them to this post until I
+hit my “usual” post size, and split it into subsequent parts as needed.&lt;/p&gt;
+
+&lt;p&gt;First, though, we get a small paragraph of extra Abyss lore. It says demons are
+among the oldest creatures in the universe, which places the creation of the
+Abyss waaaaay back at the literal dawn of time. At first there were only a few
+of them: the book implies these were the original demon lords (or “demon
+princes”, as written), who initially served the Chained God and had orders to
+bring the universe under his heel.&lt;/p&gt;
+
+&lt;p&gt;I guess they were either the primordials caught in the “blast” that created the
+Abyss, or the first ones to enter the place. Plus Dagon, who was already
+there. Anyway, as the corruption of the Abyss spread, it infected other
+elemental creatures and turned them into the types of “lesser” demon we know
+today.&lt;/p&gt;
+
+&lt;h2 id=&quot;abyssal-eviscerator&quot;&gt;Abyssal Eviscerator&lt;/h2&gt;
+
+&lt;p&gt;These creatures made it to the Monster Vault, and I covered them &lt;a href=&quot;/octopus-carnival/2019/11/05/abyssal-eviscerator.html&quot;&gt;here&lt;/a&gt;. My
+impression of them hasn’t changed.&lt;/p&gt;
+
+&lt;h2 id=&quot;abyssal-rotfiend&quot;&gt;Abyssal Rotfiend&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-abyssal-rotfiend.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;An abyssal rotfiend is what you get when you take the undead spirit of an evil
+creature and stuff it inside a meat puppet made of stitched-together bits of
+demons and devils. The spirit is usually a demon soul, but any evil creature
+will do in a pinch. With that description you’d think they’re mindless, but
+they’re actually quite intelligent.&lt;/p&gt;
+
+&lt;p&gt;As undead demons, rotfiends are an Orcus specialty. Many inhabit the halls of
+his fortress of Everlost, put there as a defense against teleporting
+enemies. Despite their hulking appearance they rely more on damaging mind magic
+than on brute force.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Rotfiends are Large Elemental Humanoids (demons) and Level 26 Controllers with
+245 HP. They have Truesight, ground and fly speeds of 6, and a whole bunch of
+resistances! They’re immune to fear, have Resist Fire 20, Resist Necrotic 10,
+and Variable Resistance 20 (3/encounter). They are surrounded by &lt;strong&gt;Abyssal
+Fields&lt;/strong&gt; (aura 5) that prevent anyone inside from teleporting.&lt;/p&gt;
+
+&lt;p&gt;They’re attacks are all related to madness and body horror. The basic attack is
+&lt;strong&gt;Skullsplitter&lt;/strong&gt; (melee 2 vs. Reflex), which does psychic damage and is
+stronger against &lt;em&gt;unbloodied&lt;/em&gt; targets. &lt;strong&gt;Conjure Abscess&lt;/strong&gt; (ranged 10
+vs. Fortitude) also does psychic damage, and does a bit of delayed damage if the
+target moves more than 2 squares in its next turn. If the rotfiend is bloodied,
+that delayed damage happens when the target moves 1 or more squares.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;Floating Despair&lt;/strong&gt; (area burst 2 within 10; encounter) creates a zone
+of miasma that last for a turn but can be sustained and moved with a minor
+action. Anyone caught inside takes 10 psychic damage and grants combat advantage
+to the rotfiend.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is Level 24 and has a rotfiend, a glabrezu, and a
+marilith. Due to the math bug its damage is low enough that I think a lot of PCs
+will just take the extra hit from the abscess instead of limiting their
+movement. If you fix that, though, the rotfiend becomes a better controller.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;“Ghosts clothed in dead demon flesh” is a nice, creepy concept, though I think
+they lack a bit of mechanical oomph. After increasing their damage, I’d probably
+tag them with the Leader keyword and make the Floating Despair zone make victims
+grant combat advantage to any enemy, not just that single rotfiend.&lt;/p&gt;
+
+&lt;h2 id=&quot;bebilith&quot;&gt;Bebilith&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-bebilith.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Look, let’s face the truth here: Lolth is a demon lord. She’s Chaotic Evil,
+lives in the Abyss, and has lineages of demons aspected to her. It’s likely the
+only reason she’s classified as a “Goddess” is that she was one before in the
+same way Graz’zt was a devil. And maybe due to Drow publicity campaigns.&lt;/p&gt;
+
+&lt;p&gt;Bebiliths are one of those Lolth-aspected demon lineages. They’re huge
+spiderlike monsters, whose forms diverge from a spider’s only in ways that make
+them scarier. Sapient but not very smart, they prowl the Demonweb Pits and other
+planes eternally hunting and killing for the joy of it. Drow often use them as
+heavy summoned muscle, which is the largest role their limited intellect allows
+them to play in drow intrigue. They’re what your typical drow queen is going to
+call up when she’s ready to start an open war.&lt;/p&gt;
+
+&lt;p&gt;Bebiliths are super-fast, have wicked claws, venomous bites, and shoot webs that
+are on fire. They’re near the top of the spider-monster hierarchy, of which
+Lolth is the undisputed leader.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;These are Huge Elemental Magical Beasts (demons) and Level 18 Solo Brutes with
+696 HP. They have darkvision and Tremorsense 20, and are surrounded by a
+&lt;strong&gt;Spectral Death Web&lt;/strong&gt; (aura 3). Enemies caught inside that lose all their
+resistances for a turn when they’re hit by an attack. It doesn’t have to be an
+attack by the bebilith!&lt;/p&gt;
+
+&lt;p&gt;They have ridiculous ground and climb speeds of 12, obviously with Spider
+Climb. They also don’t roll initiative: their &lt;strong&gt;Dangersense&lt;/strong&gt; makes them act at
+initiatives 20 and 10, with a full set of actions in each of these
+turns. Additionally, their &lt;strong&gt;Hunter’s Reflexes&lt;/strong&gt; (reaction; recharge 5-6) allow
+them to shift 4 squares when someone moves adjacent to them.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Reaving Claw&lt;/strong&gt; (melee 3 vs. AC) which does damage and
+inflicts a cumulative -1 AC penalty on the target, which clears at the end of
+the encounter. &lt;strong&gt;Flashing Claws&lt;/strong&gt; allows bebiliths to make this attack twice in
+the same action, against different targets. There’s also a &lt;strong&gt;Venomous Bite&lt;/strong&gt;
+(melee 1 vs. AC; recharge 6) which does more or less the same damage as a claw
+plus ongoing poison damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Flaming Web&lt;/strong&gt; (close blast 5 vs. Reflex; recharge 5-6) does fire damage,
+slows, and does ongoing fire damage (save ends both). The first failed save
+causes the ongoing damage to increase and worsens the “slowed” condition to
+“restrained” (save still ends both).&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 20, and has a Bebilith, 3 drider shadowspinners,
+and 1 drow priest. The demon is this team’s heavy, but the others can be
+dangerous too, particularly against a level 15-16 party.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;I have “fond” memories of bebiliths because one of them featured prominently in
+Hordes of the Underdark (the epic-level campaign in Neverwinter Nights). Though
+they’re mostly “even giant-er” spiders, I like the mechanical “feel” on this
+version. It has plenty of options.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloodseep-demon&quot;&gt;Bloodseep Demon&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-bloodseep.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These things are covered in thin, translucid skin that constantly cracks and
+weeps poisonous blood. They coat their claws in this foulness and spray it at
+their victims. They’re also clever enough to use it in subtler ways, tainting
+the food supplies of their intended targets in order to weaken them for the
+final attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Bloodseep demons are Medium Elemental Humanoids (demons) and Level 7 Skirmishers
+with the Leader keyword and 79 HP. They have darkvision, a ground speed of 7 and
+a teleport speed of 3. Their Variable Resistance is 10 (1/encounter), and they
+project a &lt;strong&gt;Weeping Poison&lt;/strong&gt; aura (2) that deals 5 poison damage to enemies
+caught inside. If the demon is bloodied the aura also heals any demons inside
+for 5 HP at the start of their turns.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; also do ongoing poison damage (save ends), and once per
+encounter they can squeeze out a &lt;strong&gt;Poison Blast&lt;/strong&gt; (close blast 5 vs. Fortitude)
+which does light poison damage. Demons caught in the blast instead heal the
+rolled amount of HP.&lt;/p&gt;
+
+&lt;p&gt;Their final trick is the &lt;strong&gt;Poison Portal Strike&lt;/strong&gt; (recharge 4-6), which allows
+them to teleport 5 squares, attack someone with a claw, and teleport another 5
+squares. If used well this can cause some havoc in the party’s back line and
+force some defenders to turn away from the front.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 7 and has one of these, 2 barlguras and 2
+evistros.&lt;/p&gt;
+
+&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
+
+&lt;p&gt;“Bloodseep demon” is a horrible name, but the actual monster seems a bit more
+interesting than I thought at first.&lt;/p&gt;
+
+&lt;h2 id=&quot;dretch&quot;&gt;Dretch&lt;/h2&gt;
+
+&lt;p&gt;The lowest of the low, dretches were covered in &lt;a href=&quot;/octopus-carnival/2019/11/12/dretch.html&quot;&gt;this post&lt;/a&gt; of the Monster
+Manual/Vault Let’s Read.&lt;/p&gt;
+
+&lt;h2 id=&quot;end-of-part-1&quot;&gt;End of Part 1&lt;/h2&gt;
+
+&lt;p&gt;That’s about it for this post. I estimate it will take two more of about the
+same size to go through all this book’s demons.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-01.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-01.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>De-monk-ifying Dungeon Fantasy</title>
@@ -1016,418 +1788,6 @@ stalagmites ropers…”).&lt;/p&gt;
         <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/07/darkmantle.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/07/darkmantle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Cyclops</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-cyclops.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Art by Chippy. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;This is another one of those entries that gives us more stat blocks for monsters
-introduced in the first Monster Manual.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;We already covered the bulk of cyclops lore in the corresponding &lt;a href=&quot;/octopus-carnival/2019/09/03/cyclops.html&quot;&gt;Monster Manual
-post&lt;/a&gt;, so I’ll going to say it’s super cool and ask you to read the original
-post again.&lt;/p&gt;
-
-&lt;p&gt;We get some specific lore for the two new variants: Cyclops Crushers are
-employed as slave minders, directing their crushing towards any who step out of
-line. Feyblades are pampered bodyguards who rarely engaged in manual labor, and
-like to lord their superior status over their less important colleagues.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&quot;/octopus-carnival/2019/09/03/cyclops.html&quot;&gt;original post&lt;/a&gt; also contains the traits for cyclopes, but I’ll summarize
-them again for convenience: they’re Large Fey Humanoids, trained in perception,
-and have Truesight, which lets them see invisible creatures and objects. They
-all also have some sort of Evil Eye ability that varies per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;cyclops-crusher&quot;&gt;Cyclops Crusher&lt;/h3&gt;
-
-&lt;p&gt;This one appears in the Monster Vault, so it’s also covered in the &lt;a href=&quot;/octopus-carnival/2019/09/03/cyclops.html&quot;&gt;original
-post&lt;/a&gt;. Its MM2 stat block is identical as far as abilities go, but suffers
-from all the math bugs common at the time of publication. Go with the Monster
-Vault stat block and you won’t be missing anything.&lt;/p&gt;
-
-&lt;h3 id=&quot;cyclops-feyblade&quot;&gt;Cyclops Feyblade&lt;/h3&gt;
-
-&lt;p&gt;The first cyclops we haven’t already seen in our Let’s Reads is a Level 21
-Soldier with 200 HP, which means it’s significantly stronger than all the other
-cyclopes we’ve seen so far. It wears mail and fights with a longsword. Its speed
-is 8. It’s more or less equivalent to a simplified PC swordmage.&lt;/p&gt;
-
-&lt;p&gt;Despite its greater level the feyblade is actually very mechanically simple. The
-&lt;strong&gt;Longsword&lt;/strong&gt; is its most basic and best attack, doing physical damage with no
-riders. The &lt;strong&gt;Evil Eye&lt;/strong&gt; is a Ranged 20 minor action that marks a target
-automatically, lasting until the end of the encounter or until the feyblade
-marks someone else.&lt;/p&gt;
-
-&lt;p&gt;This cyclops earns its title because it knows &lt;strong&gt;Wildstep&lt;/strong&gt;, an immediate
-interrupt that triggers when the marked victim ignores the mark. The feyblade
-can then teleport 10 squares to be adjacent to the victim and make an attack to
-it that deals sligthly less damage than the basic sword.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Not all cyclopes are slaves to the fomorians, but the MM2 seems to want to
-emphasize their “natural” position as someone else’s goons and mentions they can
-also be found serving firbolg and drow. This would eventually be elaborated into
-a code of honor that prevents oaths of servitude from being broken.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is Level 13: 2 crushers, 2 eladrin bladesingers and 1
-firbolg moon seer.&lt;/p&gt;
-
-&lt;p&gt;Cyclopes are cool, and more of them means more choice for a fey paragon campaign
-versus the Fomorians. So I like these ones.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/06/cyclops.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/06/cyclops.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Couatl</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-couatl.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Art by Eva Widermann. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Couatls are inspired by Aztec mythology and have been in the game since at least
-AD&amp;amp;D 1st Edition. They were given a significant role in the lore of Eberron, and
-I guess this entry brings that to their generic depiction.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Couatls are sapient winged serpents widely known for their great virtue, wisdom
-and power. They have opposed demons and other servants of evil since ancient
-times.&lt;/p&gt;
-
-&lt;p&gt;All of this is true, but it’s not the whole truth. It’s less widely known that
-couatl righteousness can end up crossing the line into self-righteousness. Each
-individual tends to have specific plans that they pursue with single-minded
-dedication, and being convinced of their own rectitude they tend to not see
-people who get in the way of those plans with good eyes.&lt;/p&gt;
-
-&lt;p&gt;Those plans are never actually evil, of course: they’re stuff like protecting a
-village or other region, pushing a mortal along a destined path, sealing a
-planar breach, or preventing one from opening in the first place. Still, it’s
-very possible for a bunch of well-meaning PCs ignorant of the wider picture to
-get in the way of a couatl’s plans and draw the creature’s wrath.&lt;/p&gt;
-
-&lt;p&gt;Ancient legends say that couatls were born of the world’s first light, and that
-they fought alongside the gods during the Dawn War. They were supposedly
-responsible for binding a great number of powerful and dangerous creatures in
-the world or in other planes, and a lot of those mysterious plans have something
-to do with keeping those creatures bound.&lt;/p&gt;
-
-&lt;p&gt;Couatls have the innate ability to travel from any plane to the Astral Sea in 10
-minutes, arriving at a random location or at a teleporation circle they
-know. They can likely also use standard rituals to travel from the Sea to
-elsewhere.&lt;/p&gt;
-
-&lt;p&gt;In Eberron, if I’m not mistaken, couatls are the ones responsible for binding
-the demonic Lords of Dust in the distant past, and their magic have a lot to do
-with the deepest secrets of the Silver Flame.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Couatls are Large Immortal Magical Beasts with the Reptile keyword. They have a
-ground speed of 6 and a flight speed of 8 with Hover. And they also have two
-signature traits:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Radiant Absorption&lt;/strong&gt; makes it so that when a couatl takes radiant damage, its
-own attacks deal 5 extra radiant damage until the end of its next turn. &lt;strong&gt;Twist
-Free&lt;/strong&gt; allows them to roll saves against the immobilized and restrained
-conditions both at the start and end of their turns. This applies even when the
-conditions would end after a set time instead of being (save ends): in that
-case, the start-of-turn save could terminate the condition early.&lt;/p&gt;
-
-&lt;p&gt;The two stat blocks we get here are Unaligned, which I guess is what you get
-when you combine “opposes evil” with “is a smug snake”.&lt;/p&gt;
-
-&lt;h3 id=&quot;couatl-cloud-serpent&quot;&gt;Couatl Cloud Serpent&lt;/h3&gt;
-
-&lt;p&gt;Cloud Serpents are Level 18 Artillery with 135 HP and all standard couatl
-traits. They prefer to fight by shooting lasers and lightning from above (and
-far away).&lt;/p&gt;
-
-&lt;p&gt;This most often takes the form of a &lt;strong&gt;Sky Bolt&lt;/strong&gt; (Ranged 20 vs. Reflex) which
-deals lightning and radiant damage. If the opposition clusters together they’ll
-use &lt;strong&gt;Snaking Arcs&lt;/strong&gt; (Area Burst 3 within 20 vs. Reflex), which is a little
-weaker but covers an area. It recharges once they’re first bloodied.&lt;/p&gt;
-
-&lt;p&gt;If an enemy manages to get close to them they can use a Reach 2 &lt;strong&gt;bite&lt;/strong&gt;, which
-is a bit weak but deals ongoing poison and radiant damage (save ends). Even
-their venom is shiny! They can also push the interloper away with &lt;strong&gt;Hurtling
-Coils&lt;/strong&gt; (Reach 2 vs. Fortitude, minor action 1/round), a non-damaging attack
-that pushes targets 2 squares and knocks them prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;couatl-star-serpent&quot;&gt;Couatl Star Serpent&lt;/h3&gt;
-
-&lt;p&gt;Star Serpents are Level 15 Elite Controllers with 286 HP. They’re a lot more
-fond of melee combat than their cloud serpent cousins, and love to use
-constricting attacks.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; is the same as the cloud serpent’s. The venom does a little less
-ongoing damage, but also slows (save ends all). Their &lt;strong&gt;Righteous Coils&lt;/strong&gt; (Reach
-2 vs. Fortitude; minor action 1/round) do a bit of damage and grab. Grabbed
-targets grant combat advantage to the star serpent, and it can move them without
-needing to make Strength tests like the standard grapple rules say. There’s no
-state limit to the number of grabbed victims; conceivably, the whole party could
-be wrapped in the serpent’s coils. The escape DC is 27.&lt;/p&gt;
-
-&lt;p&gt;The couatl can &lt;strong&gt;Constrict&lt;/strong&gt; (vs. Fortitude; minor action 1/round) a grabbed
-target, dealing decent physical damage and dazing them for a turn.&lt;/p&gt;
-
-&lt;p&gt;The star serpent also has two magic encounter powers: &lt;strong&gt;Purifying Scream&lt;/strong&gt;
-(close burst 5 vs. Will) does psychic damage and also stuns the target for a
-turn if it’s taking ongoing fire, poison or radiant damage. &lt;strong&gt;Couatl Radiance&lt;/strong&gt;
-grants the creature the insubstantial and phasing traits and allows it to shift
-8 squares. The goal here is to pass through as many allies and enemies as
-possible: every ally the couatl passes through regains 15 HP and can spend a
-healing surge; every enemy suffers an attack vs. Will that, on a hit, deals both
-immediate and ongoing fire and radiant damage. This nicely sets them up for a
-Purifying Scream.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Couatls can be found hanging out with other creatures that share a similar
-desire to oppose or guard against evil. They might also engage in a bit of smug
-snake realpolitik and work alongside shadier allies with the goal of thwarting a
-worse evil.&lt;/p&gt;
-
-&lt;p&gt;The book gives us two sample encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 14: a star serpen, 3 deva knights-errant, and 1 phoelarch warrior.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 20: 2 cloud serpents, 2 marut executioners, 1 marut prosecutor.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I like couatls! This more ambiguous portrayal of them gives me plenty of hooks
-to hang plots from, which I can’t say was something the purely Lawful Good
-version did.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/06/couatl.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/06/couatl.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Colossus</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-colossus.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Art by Brian Valenzuela. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As we saw back in the &lt;a href=&quot;/octopus-carnival/2019/08/23/colossus.html&quot;&gt;Colossus entry for the Monster Manual&lt;/a&gt;, colossi are at
-the top of the tech tree for traditional constructs, and only gods and
-near-divine spellcasters have the power to create them. They’re the kind of
-thing that was used as a weapon in the Dawn War. Well, here we learn that the
-gods weren’t the only side of that war that could make colossi.&lt;/p&gt;
-
-&lt;p&gt;In the post linked above, I made a reference to the giant monsters from the
-Shadow of the Colossus game. The primordial colossus we’re looking at here fits
-them much better than the godforged variant from the first Manual.&lt;/p&gt;
-
-&lt;p&gt;Most primordial colossi were created at the time of the Dawn War, and being as
-ageless as their creators they still exist today. Some roam the planes seeking
-to fulfill the orders of their long-gone masters, but others lie dormant looking
-for all the world like shattered ruins or broken parts of the landscape. When
-someone approaches them, they rise and smash the intruder.&lt;/p&gt;
-
-&lt;p&gt;The magic that goes into a primordial colossus is a little wilder and less
-controlled than the one that goes into the god-forged variant. The principles
-behind it are such that a primordial colossus might be created &lt;em&gt;by accident&lt;/em&gt;
-in any event that causes the release of a massive amount of elemental
-energy. This includes the awakening or destruction of a mighty elemental
-being. It’s also possible for an epic spellcaster to acquire and perform the
-ritual to create one of these constructs.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Once again we get a single stat block here, so let’s get right to it.&lt;/p&gt;
-
-&lt;h3 id=&quot;primordial-colossus&quot;&gt;Primordial Colossus&lt;/h3&gt;
-
-&lt;p&gt;This baby is a Huge Elemental Animate with the Construct keyword, and a Level 29
-Elite Brute with 640 HP. It’s immune to disease, fear, poison and sleep, and has
-a Variable Elemental Resistance 15 switchable 3 times per encounter. Its ground
-speed is 10.&lt;/p&gt;
-
-&lt;p&gt;Primordial colossi really lean into that mechanic for composite energy
-damage. They have an &lt;strong&gt;Elemental Presence&lt;/strong&gt; aura (5) that deals 15 damage of the
-“acid, cold, fire, lightning, and thunder” type to anyone caught inside. You
-need resistance to all five types in order to not take full damage from it.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;slams&lt;/strong&gt; do physical damage, but they likely prefer to use a
-&lt;strong&gt;Colossal Slam&lt;/strong&gt; maneuver (close blast 3 vs. AC), which does the same damage
-over an area and triggers a secondary attack vs. Fortitude that does a bit of
-extra five-type elemental damage.&lt;/p&gt;
-
-&lt;p&gt;When an enemy moves adjacent to the colossus, it can use a &lt;strong&gt;Reactive Kick&lt;/strong&gt; as
-a reaction, targetting Fortitude, doing a good bit of five-type damage, pushing
-the target 4 squares and knocking it prone. This recharges once the colossus is
-first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Staying away does you no good, since it can throw &lt;strong&gt;Primordial Stones&lt;/strong&gt; (Ranged
-20 vs. Reflex) that do only a bit less damage than the slam and have a secondary
-area attack (Close Burst 5 vs. Fortitude) which does that sweet five-type
-damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The two sample encounters have primordial colossi guarding ancient ruins
-alongside other similarly powerful apotropaics:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 26: 1 primordial colossus, 2 great flameskulls, 1 slaughterstone
-hammerer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 27: 1 primordial colossus, 1 primordial naga.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Maybe an epic adventure centered on Far Realm opposition could have some
-horrible aberrant secret guarded by both godforged and primordial colossi -
-something so terrible the gods and primordials actually joined forces to
-protect.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, I find those Big Balls of Elemental Damage in the colossus’ stat
-block to be a lot of fun. It’s so hard to resist you’d get the same result by
-just using straight physical damage, but describing it this way reinforces the
-elemental nature of the creature… and you get to see the look on your players’
-faces as you announce they took acid, cold, fire lightning and thunder damage.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/03/colossus.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/03/colossus.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Cockatrice</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-cockatrice.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Art by Brian Valenzuela. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;As far as I know both cockatrices and basilisks are based on the same vague lump
-of medieval folklore about an animal that can turn you to stone. The exact name,
-description and proportion of snake/lizard/chicken traits this animal has varies
-in each specific story. D&amp;amp;D, of course, turned each possible name for the same
-thing into a totally different monster. They’ve been in the game since at least
-the days of BECMI.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Cockatrices are bird-like monsters whose bite can turn a victim to stone. Unlike
-a lot of other deadly creatures, though, they don’t actually seem to be
-predators. Their petrification powers are a defense mechanism, which they will
-use while trying to run away from whatever enemy threatens them. So yeah, you
-could say cockatrices are a bit chicken.&lt;/p&gt;
-
-&lt;p&gt;Still, cockatrice lairs tend to have the little statue gardens common to
-petrifying monsters, all likely made from predators who thought they could
-handle it or from innocent creatures who had no idea whose lawn they were
-stepping on. I imagine careful adventurers can just avoid the area entirely if
-they see the statues, though there are reasons they would seek it out instead:
-the freshly plucked feathers of a cockatrice can be used to brew a potion that
-undoes petrification if applied within 24 hours. A single dose requires a whole
-cockatrice’s worth of feathers, which in turn likely requires killing the beast.&lt;/p&gt;
-
-&lt;p&gt;Cockatrices are themselves immune to petrification, which makes them good pets
-for medusas. The book also says other reptilians, like lizardfolk and yuan-ti,
-also make use of them. They’re definitely easier to handle than a basilisk.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We only get a single stat block here, so let’s get right to it.&lt;/p&gt;
-
-&lt;h3 id=&quot;cockatrice&quot;&gt;Cockatrice&lt;/h3&gt;
-
-&lt;p&gt;This is a Small Natural Beast and a Level 5 Skirmisher with 63 HP and low-light
-vision. It’s immune to petrification as discussed earlier, and has a ground
-speed of 4 and a flight speed of 6 (clumsy). As a reminder, the Clumsy keyword
-means the creature has a -4 to attacks when using that movement mode.&lt;/p&gt;
-
-&lt;p&gt;The cockatrice’s basic attack is its &lt;strong&gt;bite&lt;/strong&gt;, which is kinda weak but triggers
-a secondary attack vs. Fortitude. A hit there does no damage and slows the
-victim (save ends). This worsens to Immobilized on the first failed save, and to
-“permanent until cured” petrification on the second.&lt;/p&gt;
-
-&lt;p&gt;If an enemy moves adjacent to the cockatrice it can use &lt;strong&gt;Buffeting Wings&lt;/strong&gt;
-(recharge 4-6) as an interrupt, which allows it to bite the triggering enemy and
-shift 3 squares.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Given their low level, cockatrices are likely to be the first petrifying
-monsters a party encounters. They’re simple, but their main attack is scary
-enough to make up for that. They could be made into higher-level threats if, in
-addition to leveling them up, you made them more mobile and gave them an extra
-special attack.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is Level 5: 2 cockatrices and a trio of lizardfolk using
-them as attack animals.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/03/cockatrice.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/03/cockatrice.html</guid>
         
         <category>dnd4</category>
         
