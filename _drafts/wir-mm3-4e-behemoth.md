@@ -1,0 +1,149 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Behemoth"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Behemoths were introduced in the first Monster Manual. As you can see
+[there][1], they're basically fantasy dinosaurs. Most of them resemble the
+dinosaurs we learned about as kids, but the "official" association is tenuous
+enough that behemoths don't have to change to conform to newer scientific
+developments.
+
+## The Lore
+
+The book gives us a couple of poetic paragraphs about how behemoth steps thunder
+through the landscape and so on. They're nice.
+
+The new information here is that behemoths are always in demand for use as war
+beasts, so specimens young enough to train are a hot commodity. Capturing one is
+not easy though, because mommy behemoths fight their hardest when protecting
+their nests and their young. Some of them also live in really hard to reach
+places.
+
+Even "tamed" behemoths aren't 100% safe. There's always a chance they'll flip
+out and turn on their handlers, and then escape to the wild after killing
+them. This _could_ happen in the middle of a battle, in which case the behemoth
+will attack enemy and former ally alike until it can run off.
+
+
+## The Monsters
+
+We get three new behemoth species here. They're Natural Beasts as usual, and
+since we have a focus on behemoths that can be used as weapons they all have the
+Mount keyword in addition to the usual Reptile keyword. Their other traits vary
+per stat block, and their levels range from mid- to late- Heroic.
+
+### Bone Crown Behemoths
+
+This is an old-school triceratops. I understand the science on those has moved
+on by now, but this is one of the advantages of behemoths over realistic
+dinosaurs. Their size is Large.
+
+Bone crowns are herbivorous but extremely aggressive and ill-tempered. They're a
+favorite of hobgoblins and troglodytes, who train them for use as unstoppable,
+tank-like cavalry. The "poetic" imagery in the text describes these things
+charging through infantry formations and coming out the other side adorned in
+soldier guts hanging from their crowns as if they were pennants. As you might
+have guessed, they have a relatively high chance to flip out and turn on their
+riders in the heat of battle.
+
+Bone crowns are Level 6 Soldiers with 71 HP and Speed 7. Their basic (and only)
+attack action is a **Head Butt** that damages and marks for a turn. When used in
+a charge it also pushes 1 square, and when used in an opportunity attack it
+knocks prone.
+
+They also have a couple of triggered actions: **Threatening Bash** allows them
+to attack a marked enemy that shifts as an interrupt. **Insult to Injury** is
+their mount power, and adds their "push 1 square" effect to their rider's
+charge attacks.
+
+Use pseudo-cavalry tactics for these: charge in from a distance, crash into the
+PCs, and then stay around to step on them and pin them down while your
+skirmishers and atrillery go to town on them. It's better if the charge comes in
+from a flank and hits the squishies, but since the PCs aren't an army that's
+difficult to arrange.
+
+### Skinwing Behemoth
+
+One of those giant pterodactyls. They nest in craggy mountains, and thieves
+often try to steal their eggs to seel to militiaries looking to start or
+maintain an air force. A lot of these thieves get killed by enraged skinwing
+parents.
+
+These Large behemoths are Level 7 Skirmishers with 79 HP. Their ground speed is
+a pitiful 2 (clumsy), but they fly at speed 8 (hover). That clumsiness means a
+downed skinwing will do everything in its power to take flight again as soon as
+possible... even abandon its rider.
+
+Their basic attack is a **bite** with no special effects, but they have the
+famous **Flyby Attack** power that allows them to fly their speed, make an
+attack at any point, and not provoke opportunity attacks from their target. The
+**Strafe** trait allows the rider to make a basic attack in place of their
+mount's bite during this maneuver.
+
+The skinwing can also enhance a flyby attack with its **Grasping Talons**
+(recharge 5+), which allow it to grab the target if the main attack hits. They
+can then **Drag Off** the victim, carrying it with them while the grab
+lasts.
+
+Skinwings fight by doing constant flyby attacks, and carrying victims off to be
+dropped from a great height when they can. Skinwing _cavalry_ will coordinate
+with ground forces to do the same thing in a maximally inconvenient way. PCs
+would do well to knock them off the air as soon as possible and prevent them
+from taking off again.
+
+### Spirehorn Behemoth
+
+I don't think this Huge creature has an analog in the real world. They're so big
+they can mount platforms transporting up to a dozen people, and they have big
+horns. They are the perfect vanity ride for your typical barbarian chieftain or
+hobgoblin general, so there is high demand for eggs and even for healthy
+adults. Lots of people die trying to get those.
+
+Their actual battlefield use depends on the personality of their owners. Some
+are used like thrones and sit in a palace somewhere. Others are mobile
+fortified command centers that hang at the back of a fighting army. And others
+are siege engines at the front lines, transporting troops instead of a single
+big ego or command staff.
+
+Spirehorns are Level 9 Elite Brutes with 234 HP. They confer the **Beastmaster**
+trait to their rider, giving them a +1 to AC and Reflex. I guess only the person
+actually directing the spirehorn gets the bonus. Their speed is 6.
+
+A spirehorn's basic attack is a **gore** with no special effects, and it can
+make **Double Attacks**. Once per encounter it can build up some speed and
+**Trample**, moving twice its speed. It can enter enemy spaces during this move
+and makes a free attack on each enemy whose space it enters.
+
+You're likely to see these in battles where you need to defend a fort or
+something similar, or when fighting enemy leaders. This makes them priority
+targets.
+
+## Final Impressions
+
+Dinosaurs are awesome even when they're called Behemoths, and with the ones in
+this entry plus the others we've seen before you have enough build assemble a
+full force organization table for a fantasy army that uses most of them in
+different roles.
+
+I think we even have enough "war beasts" at this point to make _themed_
+armies. Here's an example:
+
+- Dragonborn use behemoths!
+
+- Hobgoblins use mammalian megafauna, dire wolves, and giant bats!
+
+- Elves use fey panthers and griffons!
+
+- Dwarves ride dire boars!
+
+- Kobolds use giant bugs!
+
+- Humans use horses and hippogriffs!
+
+And everyone uses drakes because most of them are so common and easily tamed.
+
+[1]: {{ "/2019/05/13/behemoth.html" | relative_url }}
