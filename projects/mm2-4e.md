@@ -48,6 +48,11 @@ variants here. Here they are, from A to Z:
   - Demogorgon
     - [Part 1][20]
     - [Part 2][21]
+  - Demons
+    - [Part 1][22]
+    - [Part 2][23]
+    - [Part 3][24]
+    - [Part 4][25]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -71,3 +76,7 @@ variants here. Here they are, from A to Z:
 [20]: {{ "/2021/06/11/demogorgon.html" | relative_url }}
 [21]: {{ "/2021/06/14/demogorgon.html" | relative_url }}
 [22]: {{ "/2021/06/15/demogorgon.html" | relative_url }}
+[23]: {{ "/2021/06/24/demons-01.html" | relative_url }}
+[24]: {{ "/2021/06/24/demons-02.html" | relative_url }}
+[25]: {{ "/2021/06/24/demons-03.html" | relative_url }}
+[25]: {{ "/2021/06/24/demons-04.html" | relative_url }}
