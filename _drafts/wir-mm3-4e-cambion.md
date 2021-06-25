@@ -120,13 +120,19 @@ marked enemy tries to ignore the mark, the scion can use **Majestic Stride** to
 teleport adjacent to them and hit them with the sword.
 
 In addition to using the sword to mark people, the scion can use **Oath of the
-Nine** (minor action, 1/round) to do so. This automatically marks and enemy
+Nine** (minor action, 1/round) to do so. This automatically marks an enemy
 within 3 squares and gives them Vulnerable 10 Fire for a turn.
 
 When not bloodied, the scion can use **Dread Command** (Ranged 5 vs. Will, minor
 action, 1/round) to dominate an enemy for a turn. Once bloodied he flips out,
 losing this ability and replacing it with **Fiend Razor**, which allows it to
-make 2 sword attacks with an action.
+make 2 sword attacks with an action. This is an interesting way to implement an
+elite's multi-attack ability.
 
+## Final Impressions
+
+Cambions are... okay I guess? The mechanics in this entry are interesting, but
+the lore doesn't quite get me going. I feel I can make some use of the infernal
+scion, but the others don't make stories jump to my mind just from reading them.
 
 [2]: {{ "/2019/07/25/cambion.html" | relative_url }}
