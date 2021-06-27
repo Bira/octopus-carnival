@@ -21,7 +21,7 @@ various wolf spirits worshipped by the Uratha from Werewolf: The Forsaken, only
 not nearly as nice.
 
 These primal spirits probably had descendants themselves, which would be your
-"standard" winter wolves. These fit above works in the Wolf Power
+"standard" winter wolves. These fit above worgs in the Wolf Power
 Ladder. They're a bit smaller than worgs, but are much deadlier, much smarter,
 and just as evil. They also have ice powers.
 
