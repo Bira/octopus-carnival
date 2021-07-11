@@ -6,9 +6,437 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 27 Jun 2021 21:07:52 +0000</pubDate>
-    <lastBuildDate>Sun, 27 Jun 2021 21:07:52 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Jul 2021 14:59:19 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Jul 2021 14:59:19 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Devils, Part 2</title>
+        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Continuing our slog through the Devils entry, let’s look at the next batch.&lt;/p&gt;
+
+&lt;h2 id=&quot;infernal-armor-animus&quot;&gt;Infernal Armor Animus&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-animus.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We’ve talked a lot about devils always trying to acquire souls by hook or by
+crook, but what do they use them &lt;em&gt;for&lt;/em&gt;? Here we have a concrete example of one
+of the many products in Hell’s catalogs.&lt;/p&gt;
+
+&lt;p&gt;These monsters are made by binding the soul of a mortal within a suit of
+infernal armor, which is animated by the process. The animated armor has its own
+mind - the soul is just the power source. The animus understands Common and
+Supernal, and at Int 8 it’s smart enough to understand the orders of its
+infernal masters. When it’s destroyed in combat, it releases the trapped soul,
+which will usually be consumed by a nearby devil for a quick performance boost.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Animi are Medium Elemental Animates with the Devil and Undead keywords - the
+only non-humanoid devils in the MM2. They’re also Level 3 Minion Soldiers, which
+means they appear in the “bargain bin” section of the catalog and will be found
+fairly early in a zero-to-hero campaign with devils as the main
+antagonists. They have darkvision, Resist Fire 5, and a ground speed of 6.&lt;/p&gt;
+
+&lt;p&gt;These things project a &lt;strong&gt;Bloodlust&lt;/strong&gt; aura (2) that gives nonminion devils within
+a +1 to damage rolls. Multiple auras are cumulative, so I imagine animi keep a
+tight formation around their boss.&lt;/p&gt;
+
+&lt;p&gt;They wield shields and shortswords in combat, and the &lt;strong&gt;sword&lt;/strong&gt; attack is
+nothing special. When they’re destroyed, &lt;strong&gt;Essence Transference&lt;/strong&gt; triggers and
+heals the nearest non-minion devil within 15 squares for 15 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is Level 5: 8 animi, 2 spined devils, 1 tiefling heretic.&lt;/p&gt;
+
+&lt;p&gt;Look at that healing value for Essence Transference! This tells me infernal
+animi aren’t used as dumb muscle - that’s the job of legion devils. Instead
+they’re ambulatory &lt;em&gt;snacks&lt;/em&gt; just waiting for the PCs to unwrap them and feed
+them to their master. They might be able to get a hit or two in before that
+happens, but that’s just a bonus. Kill them before damaging their masters.&lt;/p&gt;
+
+&lt;h2 id=&quot;misfortune-devil&quot;&gt;Misfortune Devil&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-misfortune.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Valued members of the acquisitions department, misfortune devils collect souls
+by tempting mortals into taking ever-larger risks, which ultimately culminate in
+the mortal dying and the devil owning their soul. It helps that they know a lot
+of probability-warping magic to speed the process along.&lt;/p&gt;
+
+&lt;p&gt;I imagine that there are many strategically-placed tomes out in the world that
+teach a ritual to summon one of these and describe it as a “wise advisor” who
+will always have the summoner’s best interest at heart. Satisfaction guaranteed
+(and never mind the fine print)!&lt;/p&gt;
+
+&lt;p&gt;Misfortune devils can also choose prospective victims on their own inititive. If
+the victim in question is someone who knows better than to listen to a devil,
+they can use innocuous-looking underlings to make contact, or disguise
+themselves with magic rituals. And finally, they can also be attached as support
+spellcasters to a unit of devils out on some mission of a more military nature.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;These Medium devils are Level 15 Artillery with 115 HP. They have darkvision and
+truesight 10, ground and fly speeds of 6, and interestingly enough no elemental
+resistances.&lt;/p&gt;
+
+&lt;p&gt;They attack at range with a &lt;strong&gt;Ray of Distortion&lt;/strong&gt; (ranged 20 vs. Reflex), which
+does high physical damage - unusual for an at-will attack. The catch is that the
+target of this attack can choose to take only 5 damage instead, and have the
+original damage re-rolled and applied to their ally with the most HP. How
+close-knit is your party, really?&lt;/p&gt;
+
+&lt;p&gt;If an enemy manages to get close, they can fight back with a &lt;strong&gt;Lucky Maneuver&lt;/strong&gt;
+(melee 1 vs. Will; basic) that does light psychic damage and allows the
+misfortune devil to teleport 4 squares. If someone does manage to hit them with
+a melee or ranged attack, they ran react with &lt;strong&gt;Roll the Bones&lt;/strong&gt; (interrupt;
+encounter) to have the attack target another creature of their choice that’s
+within 5 squares.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions-1&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is one of those “attached to a unit” situations: Level 13,
+2 erinyes, 5 legion devils, and 2 misfortune devils. Almost identical to the one
+listed for erinyes, only it’s misfortune instead of chain devils following
+along.&lt;/p&gt;
+
+&lt;p&gt;These creatures are surprisingly fun, and might cause some intra-party friction
+among the PCs. With the interrupt ability it’s clear that it’s the misfortune
+devil causing a friendly fire incident, but the Ray of Distortion requires a
+conscious decision by the first target to work its special magic. Do you want to
+betray your beefy friend in order to avoid pain? C’mon, do it! What’s the worst
+thing that could happen?&lt;/p&gt;
+
+&lt;h2 id=&quot;shocktroop-devil&quot;&gt;Shocktroop Devil&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-shocktroop.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For when a phalanx of bearded devils just isn’t shock-troop enough for the
+job. These Large winged devils perform a function a lot like that of mortal
+cavalry: units of them charge into enemy lines to break up tough formations,
+cause havoc, and slay as many as they can.&lt;/p&gt;
+
+&lt;p&gt;Shocktroop devils fly really fast and can’t be dismounted since they don’t
+&lt;em&gt;have&lt;/em&gt; mounts, but much like mortal cavalry they can end up losing momentum if
+they stay mired in the melee for too long. If that happens they’ll attempt to
+retreat, and will be back to fight once they’ve recovered.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;These are Level 16 Soldiers with 155 HP. They have darkvision, a ground speed of
+6, and a fly speed of 8. They lack any elemental resistances, which I think must
+be an error of some sort. I’d expect them to have 15 or 20 fire resistance. They
+wear plate and wield a sword and shield.&lt;/p&gt;
+
+&lt;p&gt;In any case, they’re protected by &lt;strong&gt;Asmodeus’s Shield&lt;/strong&gt;, a passive trait that
+gives them +2 to all defenses against divine powers while they’re unbloodied,
+and a -2 penalty to the same while bloodied. “Divine powers” means anything
+that’s not a basic weapon attack from any of the classes with the divine power
+source: clerics, paladins, avengers, invokers… I’d say it also covers any
+attacks by angels and the like.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;sword and shield&lt;/strong&gt; combination which, as a basic
+attack, can be used in a charge. It deals physical damage and triggers a
+secondary attack vs. Fortitude. A hit on that one pushes the target 2 squares
+and dazes them for a turn.&lt;/p&gt;
+
+&lt;p&gt;Once in the fray, they can increase their rythm and perform a &lt;strong&gt;Shocktroop
+Attack&lt;/strong&gt;, which allows them to make three Sword and Shield attacks in a single
+action, each against a different target. This encounter power recharges whenever
+the shocktroop devil has full HP, which means they can use this every turn until
+they’re damaged.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions-2&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is level 16: 1 bone devil, 1 misfortune devil, and 3
+shocktroop devils. A command squad of sorts.&lt;/p&gt;
+
+&lt;p&gt;I’ll admit, the basic concept behind shocktroop devils seemed so bland when I
+first read through this book that I never took a good look at its stat block
+until now. It turns out they can be a lot of fun, and the designers managed to
+really capture that “cavalry” feeling with them.&lt;/p&gt;
+
+&lt;p&gt;The recharge condition on Shocktroop Attack means these monsters are more
+dangerous when deployed in groups as part of an encounter. The natural instinct
+of 4e players to focus-fire on a single monster at a time will work against them
+here, because it might keep the shocktroops they ignore at full HP for longer,
+allowing them to attack lots and lots and lots of times.&lt;/p&gt;
+
+&lt;p&gt;For extra Fun(TM), add a unit of leveled-up Infernal Armor Animi to your
+shock-troop devil vanguard.&lt;/p&gt;
+
+&lt;h2 id=&quot;withering-devil&quot;&gt;Withering Devil&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-withering.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Like Misfortune Devils, Withering Devils are soul collectors and members of the
+acquisitions department. However, they use a different strategy: their powers
+bend mortal minds towards apathy and depression, eroding their ability to care
+for their fellow sapients or for much of anything else.&lt;/p&gt;
+
+&lt;p&gt;In combat this translates into spells that slow enemies down and make them less
+effective, but these fiends are much more dangerous on a narrative scale. They
+can cause entire societies to succumb to plague, famine, and strife by
+targetting the people whose job was to prevent this and turning them into
+lazy shadows of their former selves. “Just open the economy up already, fighting
+this plague is too hard, I’m sure everything will work out”.&lt;/p&gt;
+
+&lt;p&gt;Though their natural appearance is horrible, they are adept at disguising
+themselves as mortals, either with magic or with heavy cloaks in dark rooms.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;These Medium devils are Level 14 Controllers with 138 HP. They have Darkvision,
+Resist Fire 15, and a ground speed of 6. The illustration gives them wings but
+they don’t fly, presumably because it’s too much of a bother.&lt;/p&gt;
+
+&lt;p&gt;Withering devils project an &lt;strong&gt;Aura of Weariness&lt;/strong&gt; (3) that weakens all enemies
+inside. Their basic melee attack is with the &lt;strong&gt;Staff of Weariness&lt;/strong&gt;, which has
+no funky riders despite the awesome name. At range they shoot &lt;strong&gt;Draining Rays&lt;/strong&gt;
+(ranged 20 vs. Reflex) that do psychic damage and immobilize for a turn. As a
+minor action they can use a &lt;strong&gt;Gaze of Apathy&lt;/strong&gt; (ranged 10 vs. Will; recharge
+5-6) which does no damage but slows (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounters-and-impressions&quot;&gt;Sample Encounters and Impressions&lt;/h3&gt;
+
+&lt;p&gt;Wow, I bet these things are really annoying to fight if positioned just behind a
+line of beefy front-liners so that their weakness aura affects the PCs.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters do just that, either using bearded and legion devils as
+the front-line, or attaching the devil to a mixed-party of yuan-ti.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;That’s it for the devils in this book, but we’re not out of the D’s yet.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Devils, Part 01</title>
+        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;This book includes a whole bunch of demons, and it was inevitable that it was
+also going to include a whole bunch of devils. Their base lore remains unchanged
+from what it was in my &lt;a href=&quot;https://bira.github.io/octopus-carnival/2019/11/21/devils.html&quot;&gt;original introduction&lt;/a&gt; in the Monster Manual Let’s
+Read, so I recommend re-reading that article.&lt;/p&gt;
+
+&lt;p&gt;This entry includes a whole bunch of devils that are new to 4th edition, though
+some of them also appeared in earlier editions. As I mention in the original
+intro, devils tend to be more “humanoid” in appearance and use weapons to
+fight. I’m also really fond of making jokes about devils being corporate
+employees and/or fascists, so get ready for those.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, all devils have the Immortal origin, and the Devil keyword. Nearly
+all of the ones we’ll look at in this book are Humanoids, with one exception who
+is an Animate. All of the devils in the first MM had really high fire
+resistance, and some of the ones here do as well, but a surprising number of
+them lacks resistances entirely. They all still have darkvision, but their
+remaining traits vary a lot per stat block.&lt;/p&gt;
+
+&lt;p&gt;As usual, I’ll cover enough individual monsters to hit the size limit I’ve set
+on each post, and will have as many parts as it takes to cover the entire
+“Devil” entry.&lt;/p&gt;
+
+&lt;h2 id=&quot;assassin-devil&quot;&gt;Assassin Devil&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-assassin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As every servant of Asmodeus knows, you can’t make it in this economy without a
+little murder. Assassin devils are specialized service providers that cater to
+that particular need of successful businessmen everywhere. Their magic allows
+them to manipulate shadows to hide themselves and to kill.&lt;/p&gt;
+
+&lt;p&gt;That “service provider” crack isn’t just a joke: assassin devils are always
+found assisting the plots of some other infernal muckety-muck, never
+masterminding their own. The hidden truth is that many of them report directly
+to Asmodeus, snitching on those same plots to keep the CEO abreast of what his
+scheming underlings are up to. If the underlings in question discover this, they
+rarely make public accusations or reprisals, and instead try to feed the
+assassin misinformation to make themselves look good in the eyes of the boss.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Assassin Devils are Medium Level 24 Lurkers with 167 HP. They have darkvision
+and Resist 25 Fire, as well as an amazing ground speed of 12. They wear light
+armor and fight with shadows.&lt;/p&gt;
+
+&lt;p&gt;They can use magic to form a &lt;strong&gt;Shadow Sword&lt;/strong&gt; which does necrotic damage and
+ongoing 5 physical damage (save ends). It also deals a lot of extra necrotic
+damage against targets granting combat advantage to the assassin.&lt;/p&gt;
+
+&lt;p&gt;Assassin devils can wrap themselves in a &lt;strong&gt;Shadow Cloak&lt;/strong&gt; that makes them
+invisible until they make an attack, or they can cast those same shadows as a
+&lt;strong&gt;Shadow Net&lt;/strong&gt; (Area Burst 2 Within 10 vs. Reflex) that restrains all it hits
+and inflicts 10 ongoing necrotic damage. These abilities can’t be used at the
+same time. The Cloak recharges when the devil uses the Net, and vice-versa.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;This seems like the type of devil PCs from the world would rarely see because
+they’re almost always employed in the internecine struggles of Hell itself. The
+book notes they like to work alone, but if circumstances mandate a team they
+prefer to partner up with strong soldier-types like war devils who are good at
+keeping the enemy distracted and setting up flanks.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 22 and has 2 assassins, a high-level human
+diabolist, and 2 war devils.&lt;/p&gt;
+
+&lt;h2 id=&quot;erinyes&quot;&gt;Erinyes&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-erinyes.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Erinyes are inspired by the Furies of Greek myth, and have been in the game
+since at least 1st Edition. I think it was 3.x that tried to present them as
+devilish counterparts to succubi (who were demons in that edition), but 4e leans
+more into the “Fury” aspect.&lt;/p&gt;
+
+&lt;p&gt;In Fourth Edition, Erinyes act as arbiters and enforcers of infernal law, which
+of course also implies they’re pretty good in a fight because this is Hell we’re
+talking about. Their skills with sword and shield are so renowned that certain
+mortal warriors have been known to sell their souls in order to train under
+them. This implies there’s an official erinyes school of arms with their own
+signature style, and maybe its own trademark enforcement arm.&lt;/p&gt;
+
+&lt;p&gt;In battle, Erinyes are elite infantry of the sort that gets deployed to untangle
+tricky situations and inspire the rank and file around them to fight
+harder. They’re more or less equivalent to fighty warlords. They can also be
+found leading hunting parties whose purpose is to find those who skipped out on
+infernal contracts and drag them to Hell.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Erinyes are Medium Level 13 Soldiers with the Leader keyword and 131 HP. They’re
+clad in high-quality infernal plate (which is a lot more than they wore in other
+editions), and wield a shield and a bastard sword. Their speed is 5, and they
+mostly fight using showy but lethal martial techniques.&lt;/p&gt;
+
+&lt;p&gt;They’re very good at holding the line due to the &lt;strong&gt;Devastating Opportunist&lt;/strong&gt;
+trait, which gives them a +3 bonus to opportunity attacks and allows them to
+shift 1 square if they hit with such an attack.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Compelling Strike&lt;/strong&gt; that does standard physical damage
+and allows one ally within 5 squares to gain 8 temporary HP. They can also use
+the &lt;strong&gt;Flitting Blade&lt;/strong&gt; technique to make attacks dealing light physical damage
+against up to three different targets, at-will.&lt;/p&gt;
+
+&lt;p&gt;When first bloodied, they can use &lt;strong&gt;Bloody Spiral&lt;/strong&gt; (close burst 1 vs. Reflex)
+as a reaction. This does a tiny bit of physical damage and knocks prone on a
+hit, and if two or more enemies are knocked down it bestows 10 temporary HP to
+every ally within 5 squares.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions-1&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is level 12 and has 3 erinyes, 2 chain devils and 5 legion
+devil hellguards. It’s likely one of those hunting parties.&lt;/p&gt;
+
+&lt;p&gt;I think I like these new erinyes a lot more than I did the “naked winged woman,
+but a devil” that I remember them being in 3e.&lt;/p&gt;
+
+&lt;h2 id=&quot;gorechain-devil&quot;&gt;Gorechain Devil&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-gorechain.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Like a chain devil, but bigger. Where standard chain devils are jailers,
+gorechain devils are more like bounty hunters. They’re named like this because
+their chains are often encrusted in gore.&lt;/p&gt;
+
+&lt;p&gt;Their fighting style is a lot less acrobatic than that of their smaller
+counterparts, but they turn out to have a lot more mental control over their
+chains. So much, in fact, that they can use those chains to manipulate ensnared
+victims and make them into puppets. They’re also a lot smarter than they look.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;These Large devils are Level 12 Elite Brutes with 298 HP. They have resist 10
+fire but seem to lack darkvision. Their speed is 5.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Grasping Chains&lt;/strong&gt; of a gorechain devil act as an aura (3) that forces
+enemies to make a DC 21 Athletics or Acrobatics check if they attempt to leave
+its bounds. Their basic &lt;strong&gt;Gorechain Strike&lt;/strong&gt; is reach 3, and the &lt;strong&gt;Gorechain
+Flail&lt;/strong&gt; ability (recharge 6) allows them to make one of these attacks against
+every target in range with a single action.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gorechain Takeover&lt;/strong&gt; (reach 3 vs. Fortitude; recharge 5-6) does about the same
+damage as the basic strike, and also dominates (save ends). The domination also
+ends if the target is more than 3 squares away from the devil when the target’s
+turn starts. A lucky enough series of recharge rolls could see multiple PCs
+dominated in this way.&lt;/p&gt;
+
+&lt;p&gt;The tactics here are clear: bring all the PCs in for a group hug, and never let
+them get away.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounter-and-impressions-2&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
+
+&lt;p&gt;The sample encounter is Level 12 and has two of these, a skeletal tomb guardian,
+and a skull lord. I imagine they might also take part in those erinyes-led
+debtor-hunting parties.&lt;/p&gt;
+
+&lt;p&gt;I like that the look of gorechain devils is a bit deceptive at first. A PC who
+sees one of these things might expect a big dumb brute, but they can fight smart
+and the Takeover power will come as a surprise.&lt;/p&gt;
+
+&lt;p&gt;It’s not quite enough to make me like them as enemies, since I’m not really that
+fond of kytons either, but that’s on me and not on this stat block.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/11/devils-01.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/11/devils-01.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Deva</title>
@@ -1535,363 +1963,6 @@ an adventure hook.&lt;/p&gt;
         <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/14/demogorgon.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/14/demogorgon.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Popcorn Initiative in GURPS</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/pop-corn.jpeg&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;GURPS uses a fairly traditional initiative system to determine who goes first in
-combat. Like all such systems, it works well for “real-time” gaming, but it
-tends to get in the way of good “flow” for a Play-by-Post or other asynchronous
-game.&lt;/p&gt;
-
-&lt;p&gt;In the past I tried to solve that by having players declare 3-5 turns’ worth of
-actions in advance and resolving those on my side, but that ended up being a lot
-of work and after a while I burned out on it.&lt;/p&gt;
-
-&lt;p&gt;It was at about this time that I first read Lancer, and noticed it used an
-interesting initiative system. One of the PCs always acts first in a turn,
-followed by an enemy. We alternate that way until all people on one side have
-acted, and then the remaining combatants on the other side act one after the
-other. The players themselves decide who acts during each “player activation”,
-and the GM decides who acts during each enemy activation. The order in which
-characters act can therefore vary from turn to turn, but the order of
-&lt;em&gt;activations&lt;/em&gt; always remains the same.&lt;/p&gt;
-
-&lt;p&gt;I’d later find out this model was known as “Popcorn Initiative”. It worked well
-for me in the couple of sessions of real-time Lancer I ran, and I’d get a lot
-more experience with it when I joined a forum game of Zeitgeist using D&amp;amp;D 4th
-Edition rules.&lt;/p&gt;
-
-&lt;p&gt;Popcorn Initiative works extremely well in that game. Post flow during combat is
-pretty much uninterrupted as long as there’s anyone available to post. We get
-through a whole combat round in a single day if everyone is on point, a
-formidable pace for an asynchronous game.&lt;/p&gt;
-
-&lt;p&gt;It worked so well, it made me think I’d only run an async GURPS game if I could
-use popcorn initiative in it. And it turns out adding popcorn initiative to
-GURPS is not hard at all!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-rule&quot;&gt;The Rule&lt;/h2&gt;
-
-&lt;p&gt;Instead of using Basic Speed values to determine turn order, use the system
-described at the start of this post, and repeated here for ease of reference:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A PC always goes first, followed by an enemy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The two sides then alternate taking their turns until all members of one side
-have finished.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The remaining combatants then take their turns one after the other.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Repeat the above procedure for each 1-second round in the combat.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Players decide which PC acts on each player turn. The GM decides who acts on
-each enemy turn. The order doesn’t have to remain constant from second to
-second.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Traits and maneuvers that give extra actions or extra attacks all affect the
-character’s &lt;em&gt;own&lt;/em&gt; turn, as normal. A character’s defenses “reset” at the start
-of their turn as usual. Surprise still works the same, and limits your actions
-in the same way. All this rule change is how to determine the order in which
-turns happen in a 1-second round.&lt;/p&gt;
-
-&lt;p&gt;If the battle involves one or more characters with Enhanced Time Sense, then
-all of them get to go before the less enhanced combatants, using the rules above
-among themselves. It effectively splits the second into two “sub-rounds”.&lt;/p&gt;
-
-&lt;p&gt;Having a high Speed here is still useful because it gives you more Dodge and
-more Move. Changes to Basic Speed cost the same as under the standard rules.&lt;/p&gt;
-
-&lt;h2 id=&quot;popcorn-examples&quot;&gt;Popcorn Examples&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;: A party of four fantasy adventurers fights a group of 6 orcs. The
-heavily armored warrior PC goes first and positions himself to protect his
-squishier buddies. An orc goes next, then a PC, and so on until all PCs have
-acted. The final two orcs act one after the other.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 2&lt;/strong&gt;: Two of the orcs in the battle above attack the warrior, who
-blocks once and parries once. This leaves him with penalties for further
-defenses. If he is not the first to act next round, the penalties will stay with
-him until he does take his turn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 3&lt;/strong&gt;: The same four adventurers meet a Giant Enemy Crab who has Extra
-Attack 1. Again one of the PCs goes first. The crab goes next, and he can make 2
-attacks during his turn as in the normal rules. Then the remaining PCs act.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 4&lt;/strong&gt;: A group of 6 WW2 British Commandos ambushes a patrol squad of 8
-Nazi soldiers. The Nazis are surprised and are considered Mentally Stunned as
-per the standard rules. Though the GM gets to choose the order in which the
-enemy soldiers act, all they can do on their turns is attempt to recover from
-the stun.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example 5&lt;/strong&gt;: A 6-person squad of the Solar Patrol runs into a pack of three
-homicidal robots while exploring a ghost spaceship! All of the robots have
-Enhanced Time Sense, and so does one of the PCs who is a robot themselves. So
-the PC robot acts first, then the three enemy robots, and then the rest of the
-PCs.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;This is definitely a system I want to try out when I next GM an async GURPS
-game. I tried to change the standard rules as little as possible. Lancer does a
-few more things, like giving certain powerful enemies multiple activations per
-round, but I want to experiment with this base version before I try doing that
-in GURPS.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/12/popcorn-initiative.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/12/popcorn-initiative.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Demogorgon (Part 1)</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Art by Jesper Ejsing. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;We got to the Big Cheese of this book quite early, for his name starts with D:
-it’s Demogorgon! He’s been in the game since the days of AD&amp;amp;D 1st Edition. The
-name became quite famous when Stranger Things aired, though I don’t think it
-refers to the same creature.&lt;/p&gt;
-
-&lt;p&gt;This entry is like the Orcus entry in the MM1: It includes not only the stats
-for the titular demon lord but also its associates, aspects, exarchs, and even
-cultists. I’m going to go through them in reverse order, starting with the
-cultists and moving up the levels.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Demogorgon is a demon lord’s demon lord. His credo is quite simple: through
-strength, cruelty and slaughter the strong prosper and the weak die. Be strong,
-be cruel, and slaughter the weak. That doesn’t mean he’s stupid, though! Each
-head has its own personality and highly developed intellect: Aameul is cunning
-but brutal and Hethradiah brutal but cunning. They hate each other and argue a
-lot but generally end up working towards compatible goals.&lt;/p&gt;
-
-&lt;p&gt;Demogorgon also has another business partner who is not himself, which makes him
-a bit unique among demon lords: Dagon, a Demon Lord inspired by the fishy entity
-of Lovecraftian fame. A keeper of secrets and cosmic mysteries, he shares these
-secrets with Demogorgon, but only whispers a given secret to one of the
-heads. This keeps their mutual hatred and jealousy going strong, and furthers
-Dagon’s own goals. Their servants and cults can be found cooperating some times.&lt;/p&gt;
-
-&lt;p&gt;We’ll eventually discuss the big bosses in more detail, but for now let’s begin
-by looking at their cults.&lt;/p&gt;
-
-&lt;h3 id=&quot;cults-of-demogorgon&quot;&gt;Cults of Demogorgon&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demogorgon-cultists.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2008 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Demogorgon’s cults gain prominence when war or other wide-ranging disasters
-ravage the land, as people turn to him in a desperate attempt to survive and end
-up becoming murderous marauders themselves. I imagine this tends to prolong the
-problem that caused the cult to rise in the first place. These cultists wander
-around like berserking pirates, pillaging and destroying everything in their
-path. What makes them different from, say, gnolls? Well, they’re more interested
-in taking your stuff than in eating you, and unlike gnolls or orcs they’re a
-very diverse crowd.&lt;/p&gt;
-
-&lt;p&gt;Members include individuals from any of the “civilized” species as well as
-troglodytes, kuo-toa and other aggressive humanoids. Note that none of them
-“naturally” worship Demogorgon: even troglodytes and kuo-toa typically venerate
-other deities. This means that every cultist of Demogorgon is a heretic to their
-own people. A lof of them were probably press-ganged into the cult during one of
-those raids I mentioned in the previous paragraph.&lt;/p&gt;
-
-&lt;p&gt;There are also some cultists who go deeper into the demon lord’s mysticism,
-believing that like their boss they are of two minds: a civilized mind who acts
-as a shackle to a an instinctive, destructive second self. Some try to explore
-this duality, while others try to cast of these shackles entirely, worshipping
-only Hethradiah, the most aggressive of the two heads.&lt;/p&gt;
-
-&lt;p&gt;Whatever their individual views, these cultists are all Chaotic Evil by any
-reasonable definition of the alignment.&lt;/p&gt;
-
-&lt;h3 id=&quot;cults-of-dagon&quot;&gt;Cults of Dagon&lt;/h3&gt;
-
-&lt;p&gt;Dagon has his own cults too, and these are as Innsmouthy as you’d expect. His
-temples are undewater, though they include air-filled rooms to accommodate
-visiting terrestrial worshippers. These tend to congregate in coastal
-communities, and to sacrifice sapients to their master. Dagon’s demands grow
-with time, forcing his cultists to perform ever greater sacrifices in order to
-avoid being swallowed by tidal waves or other disasters sent by their overlord.&lt;/p&gt;
-
-&lt;p&gt;His worshippers also frequently include wizards and sages willing to bargain
-with him for some of those cosmic secrets. These tend to rise to the position of
-cult leaders. The most powerful among them might be able to visit Dagon
-personally in his doubly-abyssal domains, and barter legendary artifacts for the
-lore they seek.&lt;/p&gt;
-
-&lt;p&gt;Yeah, Vecna hates Dagon and their cults fight a lot. How did you guess?&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get quite a few cultist stat blocks here, all human. You can easily combine
-them with standard stat blocks from other humanoid species to get the diversity
-hinted at in the lore, or add the signature traits of those humanoids to the
-Demogorgon-flavored stat blocks from this entry.&lt;/p&gt;
-
-&lt;h3 id=&quot;abyssal-marauder&quot;&gt;Abyssal Marauder&lt;/h3&gt;
-
-&lt;p&gt;Abyssal marauders roam the land in loose warbands, and the sea in rickety
-warships they barely know how to sail. When they see a village or ship, they
-attack, kill everyone, take what they can and burn what they can’t. In doing
-this they honor their demonic overlord.&lt;/p&gt;
-
-&lt;p&gt;Some pirate captains or land-bound warlords manage to hire bands of abyssal
-marauders to bolster their ranks for big raids, paying them mostly with the
-promise of plentiful loot and chances to kill people. Unless they can keep
-providing that loot between battles, though, it’s very hard to keep the
-marauders in line.&lt;/p&gt;
-
-&lt;p&gt;Marauders are Level 6 Skirmishers with 69 HP and a speed of 6. Their piecemeal
-protections are equivalent to leather armor, and they carry a long spear and a
-pair of throwing axes to battle.&lt;/p&gt;
-
-&lt;p&gt;Both the &lt;strong&gt;spear&lt;/strong&gt; (reach 2 vs. AC) and the &lt;strong&gt;throwing axes&lt;/strong&gt; (Ranged 5/10
-vs. AC) count as basic attacks, and both allow the marauder to shift 1 square on
-a hit. They’ll usually open the fight with a &lt;strong&gt;Howling Charge&lt;/strong&gt;, which allows
-them to throw an axe at someone and immediately charge them with the spear.&lt;/p&gt;
-
-&lt;p&gt;When bloodied, marauders are taken over by a &lt;strong&gt;Death Fury&lt;/strong&gt;, which allows them
-to make two basic melee attacks per standard action at a -2 penalty to each. It
-also forbids them from using any of their other attacks!&lt;/p&gt;
-
-&lt;p&gt;Reach weapons and plentiful shifting make marauders work well when paired with a
-“wall” of sturdier allies, like the shrieking cultists we’ll see below.&lt;/p&gt;
-
-&lt;h3 id=&quot;berserker-prelate-of-demogorgon&quot;&gt;Berserker Prelate of Demogorgon&lt;/h3&gt;
-
-&lt;p&gt;Prelates are priest-types, preaching the credo of Demogorgon to their fellow
-cultists as their leader or (in the book’s words) their “spiritual pet”. Unlike
-the cultist priests of other demon lords, berserker prelates lead from the front
-and join the fight alongside their flock.&lt;/p&gt;
-
-&lt;p&gt;Prelates are Level 8 Controllers with the Leader keyword and 86 HP. Their speed
-is 5, they wear hide, and carry a big club into battle.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;greatclub&lt;/strong&gt; is their basic melee attack, and allows them to push the
-target 1 square on a hit. At range they fling &lt;strong&gt;Abyssal Bolts&lt;/strong&gt; (ranged 10
-vs. Will) that do physical damage and slide the target 2 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;Their leadery skill is &lt;strong&gt;Bloodletter’s Call&lt;/strong&gt; (Close Burst 3). Against enemies,
-this is an attack vs. Will that does psychic damage and dazes for a turn. On
-allies, it instead acts as a buff giving them +2 to attack for a turn.&lt;/p&gt;
-
-&lt;p&gt;As the name might imply, berserker prelates are gripped by the same &lt;strong&gt;Death
-Fury&lt;/strong&gt; as their marauder buddies when bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;shrieking-cultist-of-demogorgon&quot;&gt;Shrieking Cultist of Demogorgon&lt;/h3&gt;
-
-&lt;p&gt;These psychos have given up on any semblance of restraint and rationality,
-seeking to emulate Hethradiah, the most violent of Demogorgon’s heads. When a
-lot of them gather, people who are themselves on the path to madness might
-discern the demonic hymn hidden in their collective shrieking.&lt;/p&gt;
-
-&lt;p&gt;These cultists are Level 7 Brutes with 94 HP. They wear mail, so their speed
-is 5. They wield a &lt;strong&gt;greataxe&lt;/strong&gt; and carry a brace of &lt;strong&gt;javelins&lt;/strong&gt;, which are
-basic attacks doing heavy damage as expected of a Brute. Once per encounter they
-can intensify their incoherent screaming into a &lt;strong&gt;Howl of Fury&lt;/strong&gt; (close blast 3
-vs. Will) that does psychic damage and immobilizes the targets for a turn on a
-hit.&lt;/p&gt;
-
-&lt;p&gt;They can also make their fury &lt;em&gt;solid&lt;/em&gt; with &lt;strong&gt;Death Wrath&lt;/strong&gt; (close burst 1
-vs. AC; encounter), which does physical damage and creates a zone of horrible
-noise that moves with the cultist, in effect working like an aura 1. Anyone
-caught inside takes 5 physical damage.&lt;/p&gt;
-
-&lt;p&gt;Shrieking Cultists lack the &lt;strong&gt;Death Fury&lt;/strong&gt; trait from their other two
-correligionists: for all practical purposes, they’re &lt;em&gt;always&lt;/em&gt; in this state
-already.&lt;/p&gt;
-
-&lt;h3 id=&quot;doom-flayer&quot;&gt;Doom Flayer&lt;/h3&gt;
-
-&lt;p&gt;Doom Flayers are wizards who worship Dagon to gain access to his secrets,
-offering sacrifices to him and helping further his plots. They will likely tell
-you they are perfectly rational and can stop the demon worship any time they
-want.&lt;/p&gt;
-
-&lt;p&gt;They’re Level 8 Artillery with 65 HP, wielding a &lt;strong&gt;dagger&lt;/strong&gt; for emergencies and
-otherwise using a large collection of Dagon-themed spells to fight:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Force Lash&lt;/strong&gt; (Ranged 10 vs. Reflex) does force damage and slows the target for
-a turn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Grasping Tentacles&lt;/strong&gt; (Ranged 10 vs. Fortitude; recharge 5-6) does physical
-damage and immobilizes (save ends). Until the target saves, any enemy starting
-its turn adjacent to the target is slowed (save ends).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Doom Foretold&lt;/strong&gt; (Ranged 10; minor; encounter) auto-hits and makes the target
-grant combat advantage for a turn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Churning Vortex&lt;/strong&gt; (area burst 1 within 10 vs. Reflex; encounter) does physical
-damage, slides 1 square, and knocks the targets prone on a hit. It does half
-damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;The encounter powers work as a good fight-opener, and you should use them that
-way or you might miss the chance to do so if the party decides to focus fire on
-the flayer.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;This entry has a bunch of sample encounters but only two are cultist-themed:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: 1 abyssal marauder, 2 shrieking cultists, 1 berserker prelate, and 1
-tiefling darkblade. Remember what I said about using other stat blocks as
-cultists?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: 1 doom flayer, 2 troglodyte thrashers, 2 abyssal marauders, 1 gnaw
-demon. And here’s that Dagon/Demogorgon partnership at work.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;D&amp;amp;D has a lot of hordes of murderous raiding cultists, and making them different
-from each other can be a tough job for a writer. I feel they succeeded here,
-though. Demogorgon’s cultists are the only ones with a diverse membership by the
-book, and the Death Fury trait makes them look properly “two-faced”, going from
-canny fighters to frothing nutjobs as the fight progresses.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/11/demogorgon.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/11/demogorgon.html</guid>
         
         <category>dnd4</category>
         
