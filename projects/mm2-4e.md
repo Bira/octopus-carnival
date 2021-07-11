@@ -54,6 +54,9 @@ variants here. Here they are, from A to Z:
     - [Part 3][24]
     - [Part 4][25]
   - [Deva][26]
+  - Devil
+    - [Part 1][27]
+    - [Part 2][28]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -82,3 +85,5 @@ variants here. Here they are, from A to Z:
 [25]: {{ "/2021/06/24/demons-03.html" | relative_url }}
 [25]: {{ "/2021/06/24/demons-04.html" | relative_url }}
 [26]: {{ "/2021/06/27/deva.html" | relative_url }}
+[27]: {{ "/2021/07/11/devils-01.html" | relative_url }}
+[28]: {{ "/2021/07/11/devils-02.html" | relative_url }}
