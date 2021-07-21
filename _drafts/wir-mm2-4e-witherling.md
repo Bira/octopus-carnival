@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-witherling.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 Witherlings feel like a new monster to me. They're certainly new to 4e, making
 their debut in this book.
 
@@ -97,3 +108,5 @@ for me personally.
 
 The sample encounters are different groups of gnolls with witherling
 support. One of them also has a cambion.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
