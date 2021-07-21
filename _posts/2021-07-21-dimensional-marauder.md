@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual: Vault"
+title: "Let's Read the 4e Monster Manual 2: Dimensional Marauder"
 tags:
     - dnd4
     - lets-read
