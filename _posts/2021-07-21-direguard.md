@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-direguard.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 I had never heard of direguards before, but some quick googling tells me they
 first appeared in the Forgotten Realms Campaign Setting for AD&D 2nd Edition.
 
@@ -67,3 +79,5 @@ direguards, so there was no room.
 I don't care for the FR bits of their lore, but Deathbringers work nicely as
 commanders of mindless undead, and Assassins are good elite troops for someone
 like a skull lord to order around.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

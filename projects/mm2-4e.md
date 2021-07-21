@@ -57,6 +57,9 @@ variants here. Here they are, from A to Z:
   - Devil
     - [Part 1][27]
     - [Part 2][28]
+  - [Dimensional Marauder][29]
+  - [Direguard][30]
+  - [Djinn][31]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -87,3 +90,6 @@ variants here. Here they are, from A to Z:
 [26]: {{ "/2021/06/27/deva.html" | relative_url }}
 [27]: {{ "/2021/07/11/devils-01.html" | relative_url }}
 [28]: {{ "/2021/07/11/devils-02.html" | relative_url }}
+[29]: {{ "/2021/07/21/dimensional-marauder.html" | relative_url }}
+[30]: {{ "/2021/07/21/direguard.html" | relative_url }}
+[31]: {{ "/2021/07/21/djinn.html" | relative_url }}

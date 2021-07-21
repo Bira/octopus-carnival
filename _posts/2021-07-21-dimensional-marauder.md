@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 Dimensional marauders are a 3.x creation. I definitely remember that image,
 though I don't remember if they had a different name back then. It was probably
 something like "Ethereal Marauder", but 4e doesn't have an ethereal plane
@@ -81,3 +83,5 @@ in this post. Mechanically, I almost think it would work better as a Controller,
 since its abilities are more about knocking PCs out of position than dealing
 increased damage. If you give it some bonus sneak attack damage, it does work as
 a Lurker.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
