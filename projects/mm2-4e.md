@@ -60,6 +60,8 @@ variants here. Here they are, from A to Z:
   - [Dimensional Marauder][29]
   - [Direguard][30]
   - [Djinn][31]
+  - Dragon
+    - [Introduction][32]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -93,3 +95,4 @@ variants here. Here they are, from A to Z:
 [29]: {{ "/2021/07/21/dimensional-marauder.html" | relative_url }}
 [30]: {{ "/2021/07/21/direguard.html" | relative_url }}
 [31]: {{ "/2021/07/21/djinn.html" | relative_url }}
+[32]: {{ "/2021/07/28/dragon.html" | relative_url }}
