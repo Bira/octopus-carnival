@@ -6,9 +6,84 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jul 2021 16:07:15 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jul 2021 16:07:15 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jul 2021 16:13:54 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jul 2021 16:13:54 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Dragons</title>
+        <description>&lt;p&gt;Woohoo, more dragons. The first Monster Manual (and the Vault) focused on
+chromatic dragons, which are the classic draconic opponents, and now the second
+one talks about the metallics.&lt;/p&gt;
+
+&lt;p&gt;The earliest metallic dragons were the Golds, who appeared alongside the
+chromatic set in AD&amp;amp;D 1st Edition and might have been around even earlier than
+that. Here, we’re going to look at a slightly different set. This is an
+introductory post, with the next handful of them each covering a different
+“color” of dragon.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;In editions past, metallic dragons used to be various shades of Good, something
+which settings like Dragonlance really leaned into. Things are a bit more
+complex here.&lt;/p&gt;
+
+&lt;p&gt;Metallics still venerate Bahamut in his role as the Platinum Dragon. They’re
+more likely to interact peacefully with PCs and other sapients, but they can
+still be quite full of themselves and are very protective of their territory and
+treasure. If they perceive someone as a threat, they won’t hesitate to crush
+that someone. And just like you can have friendly chromatics, you can also have
+villainous metallics.&lt;/p&gt;
+
+&lt;p&gt;In either case they tend to have a scholarly temperament. They prefer lairs that
+have some cultural or academic significance in addition to the usual
+requirements of isolation and defensibility and their treasure hoards are
+curated like museum collections. The typical metallic dragon loves engaging in
+learned discourse, and has a keen ability to sense lies. They deal very harshly
+with people who try to fool or, gods forbid, steal from them.&lt;/p&gt;
+
+&lt;p&gt;Like all dragons they see very few other creatures as their peers, but will
+allow a group of “lessers” to gather around themselves. They tend to see these
+as students and wards, instead of slaves and worshippers. A metallic dragon is
+not going to set itself up as a god, but as a &lt;em&gt;university professor&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;This entry has five dragon types: Adamantine, Copper, Gold, Iron and
+Silver. From what I gather, Adamantine and Iron dragons made it into the main
+metallic lineup in 4e to replace bronze and brass dragons, which weren’t
+distinct enough from Copper dragons at a glance. I think I agree with that
+reasoning. While I’m sure these dragons have their own mechanical distinctions,
+I sure can’t recall what they were just from looking at their names.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As usual for dragons, the ones we get here are all solos, and each has several
+stat blocks representing different age categories: Young, Adult, Elder and
+Ancient. Young dragons only have the most basic versions of their powers, and
+both improve them and gain new ones as they age. Their mechanical design is
+closer to that of the first Monster Manual than to the one from the Vault.&lt;/p&gt;
+
+&lt;p&gt;All dragons have darkvision, resistance to the same element they breathe, and
+both combat and overland flight speeds. All of them get a different &lt;strong&gt;Breath
+Weapon&lt;/strong&gt;, as well as the &lt;strong&gt;Bloodied Breath&lt;/strong&gt; trait and the &lt;strong&gt;Frightful
+Presence&lt;/strong&gt; attack.&lt;/p&gt;
+
+&lt;p&gt;Bloodied Breath works as usual: when the dragon is first bloodied, its breath
+weapon recharges and it uses it immediately as a free action. Frightful Presence
+is a Close Burst 10 vs. Will encounter power that does no damage but stuns for a
+turn and has a -2 attack penalty (save ends) as an after-effect.&lt;/p&gt;
+
+&lt;p&gt;We’ll begin discussing the dragon types individually in the next few posts.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/28/dragon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/28/dragon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Djinn</title>
@@ -1549,215 +1624,6 @@ isolating a victim and bringing it to its allies.&lt;/p&gt;
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Demons, part 1</title>
-        <description>&lt;p&gt;This is part of a series! Go [here][1] to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;You thought getting out of the Abyss was going to be easy? Right after finishing
-all nine pages of Demogorgon’s entry, it’s time to proceed to eleven more pages
-of assorted demons. Each individual demon entry comes with a bit of lore and a
-sample encounter group, so it’s better for me to do “Lore” and “Numbers”
-subsections for each of them instead of the other way around. Since each
-individual entry seems fairly simple, I’ll keep adding them to this post until I
-hit my “usual” post size, and split it into subsequent parts as needed.&lt;/p&gt;
-
-&lt;p&gt;First, though, we get a small paragraph of extra Abyss lore. It says demons are
-among the oldest creatures in the universe, which places the creation of the
-Abyss waaaaay back at the literal dawn of time. At first there were only a few
-of them: the book implies these were the original demon lords (or “demon
-princes”, as written), who initially served the Chained God and had orders to
-bring the universe under his heel.&lt;/p&gt;
-
-&lt;p&gt;I guess they were either the primordials caught in the “blast” that created the
-Abyss, or the first ones to enter the place. Plus Dagon, who was already
-there. Anyway, as the corruption of the Abyss spread, it infected other
-elemental creatures and turned them into the types of “lesser” demon we know
-today.&lt;/p&gt;
-
-&lt;h2 id=&quot;abyssal-eviscerator&quot;&gt;Abyssal Eviscerator&lt;/h2&gt;
-
-&lt;p&gt;These creatures made it to the Monster Vault, and I covered them &lt;a href=&quot;/octopus-carnival/2019/11/05/abyssal-eviscerator.html&quot;&gt;here&lt;/a&gt;. My
-impression of them hasn’t changed.&lt;/p&gt;
-
-&lt;h2 id=&quot;abyssal-rotfiend&quot;&gt;Abyssal Rotfiend&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-abyssal-rotfiend.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;An abyssal rotfiend is what you get when you take the undead spirit of an evil
-creature and stuff it inside a meat puppet made of stitched-together bits of
-demons and devils. The spirit is usually a demon soul, but any evil creature
-will do in a pinch. With that description you’d think they’re mindless, but
-they’re actually quite intelligent.&lt;/p&gt;
-
-&lt;p&gt;As undead demons, rotfiends are an Orcus specialty. Many inhabit the halls of
-his fortress of Everlost, put there as a defense against teleporting
-enemies. Despite their hulking appearance they rely more on damaging mind magic
-than on brute force.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Rotfiends are Large Elemental Humanoids (demons) and Level 26 Controllers with
-245 HP. They have Truesight, ground and fly speeds of 6, and a whole bunch of
-resistances! They’re immune to fear, have Resist Fire 20, Resist Necrotic 10,
-and Variable Resistance 20 (3/encounter). They are surrounded by &lt;strong&gt;Abyssal
-Fields&lt;/strong&gt; (aura 5) that prevent anyone inside from teleporting.&lt;/p&gt;
-
-&lt;p&gt;They’re attacks are all related to madness and body horror. The basic attack is
-&lt;strong&gt;Skullsplitter&lt;/strong&gt; (melee 2 vs. Reflex), which does psychic damage and is
-stronger against &lt;em&gt;unbloodied&lt;/em&gt; targets. &lt;strong&gt;Conjure Abscess&lt;/strong&gt; (ranged 10
-vs. Fortitude) also does psychic damage, and does a bit of delayed damage if the
-target moves more than 2 squares in its next turn. If the rotfiend is bloodied,
-that delayed damage happens when the target moves 1 or more squares.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;Floating Despair&lt;/strong&gt; (area burst 2 within 10; encounter) creates a zone
-of miasma that last for a turn but can be sustained and moved with a minor
-action. Anyone caught inside takes 10 psychic damage and grants combat advantage
-to the rotfiend.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is Level 24 and has a rotfiend, a glabrezu, and a
-marilith. Due to the math bug its damage is low enough that I think a lot of PCs
-will just take the extra hit from the abscess instead of limiting their
-movement. If you fix that, though, the rotfiend becomes a better controller.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;“Ghosts clothed in dead demon flesh” is a nice, creepy concept, though I think
-they lack a bit of mechanical oomph. After increasing their damage, I’d probably
-tag them with the Leader keyword and make the Floating Despair zone make victims
-grant combat advantage to any enemy, not just that single rotfiend.&lt;/p&gt;
-
-&lt;h2 id=&quot;bebilith&quot;&gt;Bebilith&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-bebilith.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Look, let’s face the truth here: Lolth is a demon lord. She’s Chaotic Evil,
-lives in the Abyss, and has lineages of demons aspected to her. It’s likely the
-only reason she’s classified as a “Goddess” is that she was one before in the
-same way Graz’zt was a devil. And maybe due to Drow publicity campaigns.&lt;/p&gt;
-
-&lt;p&gt;Bebiliths are one of those Lolth-aspected demon lineages. They’re huge
-spiderlike monsters, whose forms diverge from a spider’s only in ways that make
-them scarier. Sapient but not very smart, they prowl the Demonweb Pits and other
-planes eternally hunting and killing for the joy of it. Drow often use them as
-heavy summoned muscle, which is the largest role their limited intellect allows
-them to play in drow intrigue. They’re what your typical drow queen is going to
-call up when she’s ready to start an open war.&lt;/p&gt;
-
-&lt;p&gt;Bebiliths are super-fast, have wicked claws, venomous bites, and shoot webs that
-are on fire. They’re near the top of the spider-monster hierarchy, of which
-Lolth is the undisputed leader.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;These are Huge Elemental Magical Beasts (demons) and Level 18 Solo Brutes with
-696 HP. They have darkvision and Tremorsense 20, and are surrounded by a
-&lt;strong&gt;Spectral Death Web&lt;/strong&gt; (aura 3). Enemies caught inside that lose all their
-resistances for a turn when they’re hit by an attack. It doesn’t have to be an
-attack by the bebilith!&lt;/p&gt;
-
-&lt;p&gt;They have ridiculous ground and climb speeds of 12, obviously with Spider
-Climb. They also don’t roll initiative: their &lt;strong&gt;Dangersense&lt;/strong&gt; makes them act at
-initiatives 20 and 10, with a full set of actions in each of these
-turns. Additionally, their &lt;strong&gt;Hunter’s Reflexes&lt;/strong&gt; (reaction; recharge 5-6) allow
-them to shift 4 squares when someone moves adjacent to them.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Reaving Claw&lt;/strong&gt; (melee 3 vs. AC) which does damage and
-inflicts a cumulative -1 AC penalty on the target, which clears at the end of
-the encounter. &lt;strong&gt;Flashing Claws&lt;/strong&gt; allows bebiliths to make this attack twice in
-the same action, against different targets. There’s also a &lt;strong&gt;Venomous Bite&lt;/strong&gt;
-(melee 1 vs. AC; recharge 6) which does more or less the same damage as a claw
-plus ongoing poison damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Flaming Web&lt;/strong&gt; (close blast 5 vs. Reflex; recharge 5-6) does fire damage,
-slows, and does ongoing fire damage (save ends both). The first failed save
-causes the ongoing damage to increase and worsens the “slowed” condition to
-“restrained” (save still ends both).&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 20, and has a Bebilith, 3 drider shadowspinners,
-and 1 drow priest. The demon is this team’s heavy, but the others can be
-dangerous too, particularly against a level 15-16 party.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;I have “fond” memories of bebiliths because one of them featured prominently in
-Hordes of the Underdark (the epic-level campaign in Neverwinter Nights). Though
-they’re mostly “even giant-er” spiders, I like the mechanical “feel” on this
-version. It has plenty of options.&lt;/p&gt;
-
-&lt;h2 id=&quot;bloodseep-demon&quot;&gt;Bloodseep Demon&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-bloodseep.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These things are covered in thin, translucid skin that constantly cracks and
-weeps poisonous blood. They coat their claws in this foulness and spray it at
-their victims. They’re also clever enough to use it in subtler ways, tainting
-the food supplies of their intended targets in order to weaken them for the
-final attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Bloodseep demons are Medium Elemental Humanoids (demons) and Level 7 Skirmishers
-with the Leader keyword and 79 HP. They have darkvision, a ground speed of 7 and
-a teleport speed of 3. Their Variable Resistance is 10 (1/encounter), and they
-project a &lt;strong&gt;Weeping Poison&lt;/strong&gt; aura (2) that deals 5 poison damage to enemies
-caught inside. If the demon is bloodied the aura also heals any demons inside
-for 5 HP at the start of their turns.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; also do ongoing poison damage (save ends), and once per
-encounter they can squeeze out a &lt;strong&gt;Poison Blast&lt;/strong&gt; (close blast 5 vs. Fortitude)
-which does light poison damage. Demons caught in the blast instead heal the
-rolled amount of HP.&lt;/p&gt;
-
-&lt;p&gt;Their final trick is the &lt;strong&gt;Poison Portal Strike&lt;/strong&gt; (recharge 4-6), which allows
-them to teleport 5 squares, attack someone with a claw, and teleport another 5
-squares. If used well this can cause some havoc in the party’s back line and
-force some defenders to turn away from the front.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 7 and has one of these, 2 barlguras and 2
-evistros.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;“Bloodseep demon” is a horrible name, but the actual monster seems a bit more
-interesting than I thought at first.&lt;/p&gt;
-
-&lt;h2 id=&quot;dretch&quot;&gt;Dretch&lt;/h2&gt;
-
-&lt;p&gt;The lowest of the low, dretches were covered in &lt;a href=&quot;/octopus-carnival/2019/11/12/dretch.html&quot;&gt;this post&lt;/a&gt; of the Monster
-Manual/Vault Let’s Read.&lt;/p&gt;
-
-&lt;h2 id=&quot;end-of-part-1&quot;&gt;End of Part 1&lt;/h2&gt;
-
-&lt;p&gt;That’s about it for this post. I estimate it will take two more of about the
-same size to go through all this book’s demons.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-01.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-01.html</guid>
         
         <category>dnd4</category>
         
