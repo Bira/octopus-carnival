@@ -73,7 +73,7 @@ We get two sample encounters:
   guess the gnome is a actually a druid using the entropist stat block.
 
 I like the feel of the mechanics on this one, but the lore is once again a bit
-uninspiring. It's another homanoid fey plant that's fanatical about protecting
+uninspiring. It's another humanoid fey plant that's fanatical about protecting
 nature, just like dryads and treants. I guess they can round out the cast when
 you want to focus a game on a faction of such beings, but we already have a lot
 of other possible creatures that belong there as well (satyrs, centaurs, elven

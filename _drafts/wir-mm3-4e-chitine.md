@@ -13,7 +13,7 @@ different lore back then.
 
 Chitines are an artificially engineered people. The first of their kind were
 produced in drow laboratories in an attempt to create the perfect slaves. The
-techniques and materials user were a mixture of arcane magic, prayers to Lolth
+techniques and materials used were a mixture of arcane magic, prayers to Lolth
 and both souls and genetic material from elves, spiders, and demons.
 
 It did not work out. Soon after the first batch of chitines was created, _Lolth
@@ -73,7 +73,7 @@ is an untyped penalty, so I _think_ it might stack. I'm not sure, though.
 
 These chitines have a combination of extra training and experience that makes
 them a much greater threat in combat. They're Level 5 Brutes with 72 HP. They
-carry _eight_ daggers, four in hand and four ready to replace any thrown
+carry eight daggers, four in hand and four ready to replace any thrown
 blades. Like their minion counterparts, they can use **daggers** for melee and
 ranged basic attacks, and they can also make a **Four Blade Strike** that
 consists of four slightly weaker dagger attacks.
@@ -100,11 +100,90 @@ poison damage. That's a lot for level 5!
 Chitine custom says that any offspring beyond the first eight in a clutch must
 be cast out to fend for themselves in the Underdark. If these outcasts manage to
 survive a year out there, they're welcomed back. Most who survive don't bother
-trying to return, and instead form their own outcast communities.
+trying to return, and instead form their own outcast communities. They set up
+ambush spots by building camouflaged web doors over niches in narrow tunnels,
+from which they emerge to surround victims.
 
 Marauders are Level 6 Skirmishers with 72 HP. They're armed with paired **short
-swords**, and can make two attacks per action with them. They deal extra damage
-if they have combat advantage.
+swords**, and the **Quick Jabs** ability allows them to make two attacks per
+action with them, shifting 2 squares after each one. They deal extra damage if
+they have combat advantage.
+
+The same stat block can of course be used for non-marauder chitine skirmishers
+if you need some.
+
+### Chitine Web Crafter
+
+Web crafters are those chitines specialized in producing webs and building stuff
+with them. They're responsible for architecting and building those suspended
+fortresses, as well as the traps and mechanisms that go into them. The web
+crafter's guild is usually the second most influential organization in a chitine
+society - if you anger them, your home might come crashing down with you
+inside.
+
+The choldrith priests are the only group above them, and one way they keep the
+web crafters in check is to demand they participate in combat. Chitine patrols
+or raiding parties probably include a web crafter or two, who might act as the
+officer in charge. If the crafters had time to prepare before the fight, the
+battle map certain to include web-based hazards and traps.
+
+Web crafters are Level 6 Controllers with 72 HP. They fight in melee with
+lightly-poisoned **speads** that do physical damage and slow for a turn. They
+can throw **poisoned web orbs** that do poison damage and also slow for a turn,
+or **web balls** (recharge 4+) that do physical damage and restrain (save ends).
+
+They can also create a **Web Wall** once per encounter. The wall is 6 squares
+long and counts as destructible blocking terrain. Each square as the same
+defenses as the crafter and 10 HP. They're vulnerable to fire, but attacking
+them in melee causes immobilization (save ends) as the webs stick to the PC.
+
+Clever crafters might use walls to separate defenders from squishies, and then
+bombard the squishies with poison and the defenders with web balls while their
+melee buddies move freely between the two groups.
+
+### Choldrith
+
+Choldriths are the special priestly caste created by Lolth's intervention in the
+original chitine production process. They're visibly different from common
+chitines, resembling pale driders. They're invariably at the top of chitine
+social hierarchies, and their flocks are so devoted to them that there are
+stories of chitines who collapsed their whole colonies while resisting a
+troglodyte raid, killing themselves so their choldrith leaders might survive.
+
+Choldriths are Large Natural Humanoids with the Spider keyword, and Level 8
+Controllers (Leaders) with 90 HP. In combat they use a mix of natural weapons
+and Lolth-themed magic.
+
+Their basic melee attack is a **Claw** that does poison damage and immobilizes
+for a turn. Their basic ranged attack is a **Web** that does physical damage and
+restrains for a turn. They can also use a **Shadow Spider Curse** that deals
+poison damage and makes the target grant combat advantage to spiders (save
+ends). "Spiders" here means anything with the Spider keyword: actual spiders,
+chitines, driders, ettercaps...
+
+Once per encounter choldriths can summon a cloud of **Choking Vapors**, which
+deal immediate and ongoing poison damage over an area. They remain as a zone
+that deals 5 poison damage to anyone who enters or ends their turn there.
+
+The choldriths "leaderly" skills are both triggered actions. **Spider Queen's
+Enforcer** is an interrupt that triggers when an ally within 5 squares misses an
+attack. It deals 5 damage to the ally and makes them reroll the attack. **For
+the Spider Queen** is an interrupt that triggers when the choldrith is hit with
+a melee or ranged attack, and redirects the damage to an adjacent ally.
+
+## Final Impressions
+
+I think I actually remember seeing that chitine illustration in a book for a
+previous edition, and pretty much glancing right past the entry. The 4e strategy
+of including several variant stat blocks for each monster certainly paid off
+here. With this entry plus a few spiders from the other books you have enough
+monsters for a whole themed dungeon, covering all roles.
+
+Still, I can understand why they waited until the MM3 to do a chitine
+writeup. They have a lot of thematic overlap with drow, and there would be
+little reason to include both in a campaign that wasn't entirely about Lolth. In
+such a campaign they would make good heroic tier opponents for GMs who dislike
+manually adjusting monster levels, since drow are by default paragon tier.
 
 
 [2]: {{ "/2021/06/24/demons-04.html" | relative_url }}
