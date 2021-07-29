@@ -62,6 +62,7 @@ variants here. Here they are, from A to Z:
   - [Djinn][31]
   - Dragon
     - [Introduction][32]
+    - [Adamantine][33]
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -96,3 +97,4 @@ variants here. Here they are, from A to Z:
 [30]: {{ "/2021/07/21/direguard.html" | relative_url }}
 [31]: {{ "/2021/07/21/djinn.html" | relative_url }}
 [32]: {{ "/2021/07/28/dragon.html" | relative_url }}
+[33]: {{ "/2021/07/29/dragon-adamantine.html" | relative_url }}
