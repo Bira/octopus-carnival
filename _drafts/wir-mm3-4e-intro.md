@@ -27,7 +27,7 @@ longer have sample encounters.
 
 The stat blocks themselves also changed a lot, with monster abilities separated
 and listed according to the type of action they use (passive traits, standard,
-move, minor, immediate/free, always in that order).
+move, minor, triggered, always in that order).
 
 Last but not least, the math for basic monster numbers has finally reached its
 final, fully fixed form. Attacks, defenses, HP and average damage all follow the
@@ -58,6 +58,6 @@ buffs than to heal their allies.
 
 
 
-[1]: {{ "/projects/mm-4e/" | relative_url }}
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: http://blogofholding.com/?p=512
 [3]: {{ "/projects/mm-4e/" | relative_url }}

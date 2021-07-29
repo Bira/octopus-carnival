@@ -116,3 +116,5 @@ party composition in these terms, since they're tacticians.
 
 The sample encounter is level 15, an adult adamantine dragon and 2 banshrae
 warriors.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

@@ -15,14 +15,15 @@ more complete versions.
 The three writeups and their notable traits are listed below.
 
 - **Bullywugs** have Swamp Walk and get Primordial as a bonus language. Their
-  racial power is the Rancid Air aura from their monster writeups.
+  racial power is the Rancid Air aura from their monster writeups. +2 to CON and
+  DEX.
 
 - **Duergar** are predictably similar to dwarves, but they get Deep Speech as a
-  bonus language and the Infernal Quills racial power.
+  bonus language and the Infernal Quills racial power. +2 to CON and WIS.
 
 - **Kenku** get the Flock Effect and Mimicry abilities from their monster
   writeups, but don't have any bonus languages. Flock Effect is a pretty awesome
-  ability for a rogue.
+  ability for a rogue. +2 to DEX and CHA.
 
 And with this we can finally close the MM2, and move on to the next book in my
 planned series. See you on the Monster Manual 3 Let's Read!
