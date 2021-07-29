@@ -6,9 +6,131 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jul 2021 16:13:54 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jul 2021 16:13:54 +0000</lastBuildDate>
+    <pubDate>Thu, 29 Jul 2021 14:16:30 +0000</pubDate>
+    <lastBuildDate>Thu, 29 Jul 2021 14:16:30 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Dragon, Adamantine</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-dragon-adamantine.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go [here][1] to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Adamantine dragons are the first metallics we’ll cover. I finally found a wiki
+with publication histories for monsters, so I can say that that they first
+appeared in a Monstrous Compendium for AD&amp;amp;D 2nd Edition, and in a Dragon article
+for 3.x. This means they had a minor presence in the game until their first
+proper Monster Manual appearance here.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Adamantine dragons like to lair in huge underground caverns, and can be found in
+any sort of climate. They consider everyone else living in their claimed
+territory to be their subjects, from whom they demand loyalty, respect, and
+tribute. The flip-side of this is that adamantine dragons feel a genuine sense
+of &lt;em&gt;noblesse oblige&lt;/em&gt; towards these subjects, and will protect them with all
+their might.&lt;/p&gt;
+
+&lt;p&gt;Their claws and fangs are made of their titular metal, so their attacks slice
+through armor as if it wasn’t there. Their roars are powerful, and their breath
+weapon is a focused sonic attack. In combat, they’re cool-headed and
+tactical. If alone, they try to isolate weaker foes and focus fire on them. If
+accompanied by allies, they’ll charge to the front line and attract the brunt of
+enemy attacks to allow their allies more opportunities to damage the
+opposition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As usual, we get stat blocks representing four age categories: Young, Adult,
+Elder, and Ancient. All are Natural Magical Beasts with the Dragon keyword. All
+stat blocks are Unaligned.&lt;/p&gt;
+
+&lt;p&gt;Adamantine dragons start at size Large, growing to Huge at Elder and Gargantuan
+at Ancient. They have trained Perception, Darkvision, and Thunder Resistance
+that starts at 15 and goes up by 5 on each subsequent age category. Their ground
+speed starts at 6 and rises to 8 on Adult and older. Their flight speed starts
+at 8 and rises to 10 on Adult and 12 on Ancient. They also have Overland
+Flight 15, which is the speed you use when calculating how much distance they
+cover over extended times.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-adamantine-dragon&quot;&gt;Young Adamantine Dragon&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 7 Solo Soldier with 332 HP and the traits described above. Its
+basic attacks are a &lt;strong&gt;bite&lt;/strong&gt; and a &lt;strong&gt;claw&lt;/strong&gt;, both of which target Reflex instead
+of AC because they’re adamantine. The bite is a little stronger, &lt;strong&gt;Double
+Attack&lt;/strong&gt; allows the dragon to claw twice in a single action.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Breath Weapon&lt;/strong&gt; (close blast 5 vs. Fortitude; recharge 5-6) does thunder
+damage and knocks the targets prone on a hit. It replaces the usual “half damage
+on a miss” with a much more interesting Effect: at the start of the dragon’s
+next turn, it gives a thunderous roar that deals automatic thunder damage to
+everyone in a close burst 3.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bloodied Breath&lt;/strong&gt; and &lt;strong&gt;Frightful Presence&lt;/strong&gt; are here, and they work as
+outlined in the intro.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wing Buffet&lt;/strong&gt; (melee 2 vs. Fortitude) is a reaction that triggers when an
+enemy enters or leaves an adjacent square. On a hit it deals light physical
+damage and knocks prone. This is better than a standard opportunity attack
+because it also triggers on a shift or other forms or movement.&lt;/p&gt;
+
+&lt;h3 id=&quot;adult-adamantine-dragon&quot;&gt;Adult Adamantine Dragon&lt;/h3&gt;
+
+&lt;p&gt;Adults are Level 14 Solo Soldiers with 564 HP. Their numbers are of course all
+larger, but they are almost identical to young dragons in what they can do.&lt;/p&gt;
+
+&lt;p&gt;There have been a few additions: the bite now also inflicts ongoing damage (save
+ends), and Double Attack is replaced by &lt;strong&gt;Draconic Fury&lt;/strong&gt;, which allows them to
+make three claw attacks &lt;em&gt;and&lt;/em&gt; bite a different target in a single action.&lt;/p&gt;
+
+&lt;h3 id=&quot;elder-adamantine-dragon&quot;&gt;Elder Adamantine Dragon&lt;/h3&gt;
+
+&lt;p&gt;Elders are Level 21 Solo Soldiers with 796 HP. They have everything adults have,
+with a few additions:&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Draconic Fury&lt;/strong&gt; gains another claw attack, for a total of four claws and
+a bite. They also gain a new attack named &lt;strong&gt;Painful Resonance&lt;/strong&gt; (Ranged 20
+vs. Fortitude; minor action; recharge 6) that inflicts ongoing thunder damage
+and dazes (save ends). Since this is a minor action, it can be used in the same
+turn as Draconic Fury.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancient-adamantine-dragon&quot;&gt;Ancient Adamantine Dragon&lt;/h3&gt;
+
+&lt;p&gt;Ancients are Level 28 Solo Soldiers with 1020 HP. This puts makes them a match
+for a pair of primordial colossi. They have everything elders have, plus their
+melee reach increases to 4 and the area of their Breath Weapon’s follow-up roar
+increases to 5.&lt;/p&gt;
+
+&lt;p&gt;They also gain a new trait named &lt;strong&gt;Bloodied Resilience&lt;/strong&gt;, which gives them
+Resist 10 to all damage while they are bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The book doesn’t even pretend you’re going to fight these solos by themselves,
+though that of course is an option depending on what you want. Since adamantine
+dragons place themselves in the front line, they favor allies who can benefit
+from the distraction to rain ranged damage or control upon the enemy, or give
+the PCs the run-around and hit their squishies. And they’re going to think of
+party composition in these terms, since they’re tacticians.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 15, an adult adamantine dragon and 2 banshrae
+warriors.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/29/dragon-adamantine.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/29/dragon-adamantine.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Dragons</title>
@@ -1403,227 +1525,6 @@ opposition, since you want them to die fast and provide that damage bonus.&lt;/p
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Demons, Part 2</title>
-        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Continuing with the “Demon” entry of the Monster Manual 2, let’s look at a few
-more abyssal greeblies.&lt;/p&gt;
-
-&lt;h2 id=&quot;gnaw-demon&quot;&gt;Gnaw Demon&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-gnaw.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These round boys live to eat. Their hunger is insatiable and they’re always
-gnawing on and eating everything around them. That sentence is quite literal
-too: they can eat &lt;em&gt;anything&lt;/em&gt;, so they eat &lt;em&gt;everything&lt;/em&gt;, all the time. Being
-demons, of course, they prefer living flesh above all else.&lt;/p&gt;
-
-&lt;p&gt;Despite this, gnaw demons are also quite cowardly and will run away if they see
-they’ve bitten off more than they can chew. Tracking them down isn’t too
-difficult, though, since they’ll soon become distracted by some other
-weak-looking target.&lt;/p&gt;
-
-&lt;p&gt;Gnaw demons can teleport, but it’s apparently a reflex not under their conscious
-control. Though they’ll likely avoid the thick of the fight at first, the smell
-of blood drives them into a frenzy.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Gnaw Demons are Small Elemental Humanoids, and Level 5 Skirmishers with 66
-HP. They have Darkvision and are slow and blobby with a ground speed of 3 and a
-flight speed of 5 (clumsy). They have Variable Resistance 10 (1/encounter).&lt;/p&gt;
-
-&lt;p&gt;In combat they’re all about biting, since they’re pretty much trying to eat
-you. Their &lt;strong&gt;Ankle Biter&lt;/strong&gt; aura (1) inflicts a -2 penalty to the speed of any
-enemy caught inside. Their basic attack is the obvious &lt;strong&gt;bite&lt;/strong&gt;, which deals
-extra damage to bloodied enemies.&lt;/p&gt;
-
-&lt;p&gt;That reflexive teleport is modeled with two different abilities: &lt;strong&gt;Hungry
-Teleport&lt;/strong&gt; (move action) allows the demon to teleport 10 squares into a square
-adjacent to a bloodied enemy. &lt;strong&gt;Pain-Induced Teleport&lt;/strong&gt; (free action when first
-bloodied) is an unrestricted 10-square teleport, which it will likely use to
-flee.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;I kinda like these critters. They’re more flavorful than evistros (which
-smoulder with generic rage), though they also pair really well with them or
-other front-liners that can get the enemy bloodied so they can teleport in.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is Level 6 and has three of these spherical terrors
-accompanying a pair of gnolls.&lt;/p&gt;
-
-&lt;h2 id=&quot;kazrith&quot;&gt;Kazrith&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-kazrith.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Kazriths are barracuda-like aquatic demons that prowl the watery bodies of the
-abyss and might be summoned to do so elsewhere. Despite their preference for
-water they’re also perfectly capable of operating on land, so you don’t have to
-build an underwater dungeon in order to use them.&lt;/p&gt;
-
-&lt;p&gt;Though sapient, kazriths prefer to act as ambush predators, burying themselves
-in the ground and jumping out to attack anything that looks like it would be fun
-to kill. Their pores secrete strong acid, which helps both with the burrowing
-and with the killing.&lt;/p&gt;
-
-&lt;p&gt;They burrow as fast as they can run and leave stable tunnels behind, which means
-all bodies of water in kazrith territory are linked by networks of flooded
-tunnels. So if you &lt;em&gt;do&lt;/em&gt; want to make an underwater dungeon, you have the perfect
-excuse.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Kazriths are Medium Elemental Magical Beasts with the Demon and Water
-keywords. Note that they &lt;em&gt;don’t&lt;/em&gt; have Aquatic, so they don’t gain that +2 attack
-bonus when fighting underwater. They’re Level 20 Lurkers with 146 HP, an
-immunity to acid, and Variable Resistance 20 (2/encounter). They have a ground
-speed of 6, a burrow speed of 6 with Tunneling, and a swim speed of 8.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that also deals 5 ongoing acid damage (save
-ends). They can also burrow back into the ground while spraying acid behind
-them: this &lt;strong&gt;Acidic Retreat&lt;/strong&gt; (recharge 5-6) is a close burst 2 vs. Refles,
-deals light physical damage, and 10 ongoing acid damage (save ends). It also
-allow the demon to burrow its speed as an effect.&lt;/p&gt;
-
-&lt;p&gt;When bloodied, its &lt;strong&gt;Acidic Seepage&lt;/strong&gt; increases, causing it to gain +4 burrow
-speed and deal 10 acid damage to enemies that start their turn adjacent to the
-kazrith. Its &lt;strong&gt;Slippery&lt;/strong&gt; trait allows it to make extra saves against the
-immobilized, slowed and restrained conditions at the start of its turn.&lt;/p&gt;
-
-&lt;p&gt;Fighting a kazrith is like playing a corrosive game of whack-a-mole, as it will
-keep burrowing back and popping up to bite you, and it’s hard to pin down.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounters-and-impressions&quot;&gt;Sample Encounters and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is Level 18 and features an Evil Party of aboleths, their
-minion servitors, and a pair of kazriths.&lt;/p&gt;
-
-&lt;p&gt;Kazriths sound like something that should logically exist, but by themselves
-they don’t really stoke my imagination. They do make decent additions to
-adventures featuring varied demons as opposition, and they work well with
-Aboleths.&lt;/p&gt;
-
-&lt;h2 id=&quot;needle-demon&quot;&gt;Needle Demon&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-needle.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These prickly assholes love seeing former friends and allies turn on each other
-with murderous intent, particularly when they were the ones who instigated
-it. They’re much smarter than they look and often end up as advisors to more
-powerful villains, sometimes even as the power behind the throne. However, their
-lust for infighting often gets the better of them, so these deceptions never
-last long and cause terrible damage when they collapse.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Needle demons are Medium Elemental Humanoids (demons), and Level 12 Controllers
-with 123 HP. They have darkvision and Variable Resistance 15 (2/encounter). They
-run with speed 6.&lt;/p&gt;
-
-&lt;p&gt;They fight with their pincers and spiked tail. The &lt;strong&gt;claw&lt;/strong&gt; attack is pretty
-standard, and &lt;strong&gt;Claws of Betrayal&lt;/strong&gt; allows them to attack twice with them. If
-both attacks hit the same target, that target takes 10 ongoing damage (save
-ends). The &lt;strong&gt;Tail&lt;/strong&gt; is a reaction attack that does light physical damage and is
-triggered by an enemy moving to a square adjacent to the demon.&lt;/p&gt;
-
-&lt;p&gt;Their most thematic power is &lt;strong&gt;Rage of the Betrayed&lt;/strong&gt; (close blast 5 vs. Will;
-enemies only; recharge 6), which does no damage but dominates (save ends). Yes,
-it’s a mass dominate. It works by convincing the affected target that their
-allies have betrayed them, so I guess the demon is going to use it to make the
-PCs focus on fighting each other instead of itself.&lt;/p&gt;
-
-&lt;p&gt;The sample encounters have them working alongside gnolls and drow, but repeat
-that it never takes long for them to turn on their own allies.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;Simple, but quite effective due to that mass dominate. I’m guessing you could
-use a recurring needle demon NPC as a source of lots of drama, having it appear
-somewhere in every villainous group the PCs oppose only to always run away.&lt;/p&gt;
-
-&lt;h2 id=&quot;neldrazu&quot;&gt;Neldrazu&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-neldrazu.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These demons are into kidnapping, for which they use their four hooked
-claws. During a battle they like to hide around the edges and jump out to snatch
-an enemy and drag it either to an isolated spot or into the midst of the
-neldrazu’s allies. They’re often summoned by slavers who don’t mind if the goods
-are slightly damaged.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Neldrazu are Large Elemental Humanoids (demons) and Level 8 Lurkers with 71
-HP. They have darkvision and Variable Resistance 10 (1/encounter). They have a
-ground speed of 8 and a climb speed of 6 with Spider Climb.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a standard &lt;strong&gt;Claw&lt;/strong&gt;, but when only one enemy is within 5
-squares of the neldrazu they can really stretch and use &lt;strong&gt;Flaying Claws&lt;/strong&gt;, which
-do double damage plus ongoing 5 damage (save ends). This means they’ll lurk
-until they can catch a PC alone, and then move in with this attack.&lt;/p&gt;
-
-&lt;p&gt;After using Flaying Claws, a neldrazu will likely follow it up with &lt;strong&gt;Abduct&lt;/strong&gt;
-(recharge 5-6), a move action attack that targets Reflex and can only be used
-against enemies. It does no damage, but teleports the target 10 squares to a
-place of the demon’s choice on a hit. The demon teleports 10 squares right after
-this, either adjacent to the target on a hit, or to anywhere it chooses on a
-miss.&lt;/p&gt;
-
-&lt;p&gt;I think the best way to use this is to drop an enemy right in the middle of the
-neldrazu’s allies. If a lurker isolates itself with a PC, things tend to go
-poorly for the lurker.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;The Monster Manual 3 and later on the Monster Vault would include the Babau, a
-level 13 Skirmisher demon that’s quite similar, and which we covered
-&lt;a href=&quot;/octopus-carnival/2019/11/07/babau.html&quot;&gt;here&lt;/a&gt;. At the time I remember poo-pooing the babau’s abduction tactics
-because I assumed it would always take the victim to an isolated place, but now
-I see it can also take them to its allies instead.&lt;/p&gt;
-
-&lt;p&gt;Compared to the babau, the neldrazu is a better team player, since it can abduct
-more often in a fight. Its special attack is quite situational, but it can be
-used &lt;em&gt;before&lt;/em&gt; the abduction, which means it doesn’t have to choose between
-isolating a victim and bringing it to its allies.&lt;/p&gt;
-
-&lt;h2 id=&quot;end-of-part-2&quot;&gt;End of Part 2&lt;/h2&gt;
-
-&lt;p&gt;There’s at least one more post’s worth of demons to cover.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-02.html</guid>
         
         <category>dnd4</category>
         
