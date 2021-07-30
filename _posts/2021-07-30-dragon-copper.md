@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-dragon-copper.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Copper dragons are part of the classic set and have been in the game at least
 since the AD&D 1st Edition Monster Manual. Here, they are the only remaining
 members of the "sorta orange-ish metal trio", which used to feature bronze and
@@ -98,3 +109,5 @@ when you stick to their written description. It all depends on which part of the
 "sociable but greedy" stereotype you want to emphasize. I also like that most of
 their illustrations in this book have their coppery hides shot through with
 veins of verdigris.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
