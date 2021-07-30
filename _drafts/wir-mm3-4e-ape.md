@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-ape.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Great apes are real world animals, and they've also been in D&D pretty much
 since the beginning. This MM3 entry is the first I've seen them in 4e, though by
 this point in the edition we might have gotten stats for them in some other
@@ -107,3 +118,5 @@ them in the first place.
 
 Normal great apes have too much of a "pulp gorilla" vibe for me to enjoy them as
 monsters. I kinda like the lore of temple guardians, though.
+
+[1]: {{ "/projects/mm3-4e/" | relative_url }}

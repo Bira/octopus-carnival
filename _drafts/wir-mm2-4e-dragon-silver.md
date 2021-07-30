@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-dragon-silver.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Silver dragons have been in the game since the days of AD&D 1st Edition, as part
 of the classic metallic dragon set.
 
@@ -108,3 +119,5 @@ you want monsters that can benefit from being shielded by a big brute.
 
 Outrageous! I now totally want to include Arthur the Boisterous Heroic Silver
 Dragon in my next game.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

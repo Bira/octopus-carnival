@@ -6,29 +6,40 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-dragon-gold.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Gold dragons are the original metallics and have been around since the beginning
 of D&D.
 
 ## The Lore
 
-Gold dragons are among the most powerful children of Io, with the oldest of them
-being among the most dangerous creatures in existence. And yet they're among the
+Gold dragons are among the most powerful children of Io, with the oldest being
+among the most dangerous creatures in existence. And yet they're among the
 dragons who most enjoy the company of mortals. I guess a lot of the "scholarly
 metallic dragon" stereotype comes from them.
 
 Their preferred terrain are plains or rolling hills, but that's a secondary
 concern. Proximity to a sapient society, or to some great source of magic, are
 much more important. Gold dragons like to rule, but it seems they don't need to
-make much of a fuss about it like the other dragons. It just _happens_. Any
+make much of a fuss about it like the other dragons. It just happens! Any
 community or society located in gold dragon territory will soon find itself
 being heavily influenced or ruled outright by that dragon.
 
 Gold dragons are usually honest and fortright in their dealings, but the more
-selfish ones don't really care about the concerns of "lesser beings". "I'm going
-to eat you now" is still an honest statement! These individuals tend to shape
-the societies under their influence to suit their own long-term plans regardless
-of what the actual people who live there might want. And of course, you can
-still find more traditionally "Good" gold dragons out there as well.
+selfish ones don't really care about the concerns of "lesser beings". These
+individuals tend to shape the societies under their influence to suit their own
+long-term plans regardless of what the actual people who live there might
+want. And of course, you can still find more traditionally "Good" gold dragons
+out there as well.
 
 Gold dragons breathe fire, and as they age they gain more affinity with radiant
 energy as well.
@@ -121,3 +132,5 @@ condition mitigation powers - that +5 to saves from being a solo might not be
 enough to prevent stun-locking by an epic party. They also wouldn't do so well
 on their own against Demogorgon, so if you want to have a kaiju fight you might
 want to use the dragon as an ally of the PCs instead of sending it in alone.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

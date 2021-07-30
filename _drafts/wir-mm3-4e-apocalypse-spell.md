@@ -17,10 +17,8 @@ most metal of magics.
 
 Every once in a great while, someone manages to cast a truly epic spell. We're
 talking the sort of thing that can slay a god, bind a primordial, instantly
-destroy an empire, create an astral dominion from nothing, and so on. These are
-all examples in the book, by the way.
-
-These spells are so powerful the residual energy left in their wake can attain
+destroy an empire, create an astral dominion from nothing, and so on. These
+spells are so powerful the residual energy left in their wake can attain
 sentience and become a construct of pure magic whose powers and personality are
 modeled after the effects of their progenitor spell.
 
@@ -51,7 +49,7 @@ They do have a common signature trait, however: **Unfettered Apocalypse** is a
 reaction that triggers when they are first bloodied or when they take a critical
 hit, once per encounter. It creates a perfect duplicate of the spell that lasts
 for a turn. During this turn, it has the same HP and abilities as the original,
-and can act right after the original's action. The duplicate can't creater
+and can act right after the original's action. The duplicate can't create
 another duplicate itself, however, so no infinitely spawning epic monsters for
 you.
 
@@ -78,7 +76,7 @@ the target tries to make an attack that doesn't target the Prison in its next
 action, the Prison pulls it up to 10 squares to a square adjacent to itself. It
 can make this attack twice per action against different targets, thanks to
 **Double Attack**. When the Prison is subject to forced movement, it can use
-**Reactive Coils** to pull the triggering enemy adjacento itself.
+**Reactive Coils** to pull the triggering enemy adjacent to itself.
 
 The Prison's divine origin makes it a bit reluctant to attack divine characters,
 and it might be convinced to lend its aid against elementals and demons.
@@ -130,7 +128,7 @@ Rodielle devised a spell of ice and death, and cast it upon the eladrin city of
 Uralinda, the place which his former beloved liked the most in all the
 worlds. Ice shards rained upon the city and ripped it apart, killing
 thousands. That part was on purpose. Then the shards were animated by the souls
-of the slain and began wandering all the worlds. That part was on
+of the slain and began wandering all the worlds. That part was an
 accident. Whoops!
 
 The tormented souls inside the shards seek the release of final death, but they
@@ -159,7 +157,7 @@ From the description, it seems that this was one of the few "apocalyptic" spells
 that was used repeatedly as a weapon of war, so I'd guess there's a higher
 population of Godslayer Infernos than of the other monsters in this entry. Yay?
 
-Godslayer Infernos are Medium Elemental Animates (construct, fire), and Level 8
+Godslayer Infernos are Medium Elemental Animates (construct, fire), and Level 28
 Artillery with 194 HP. They have Resist Fire 15 and a ground speed of 6.
 
 Both their **Fiery Claws** and the **Fire Bolts** they shoot inflict a large

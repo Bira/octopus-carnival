@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-dragon-iron.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Iron Dragons were bit players in 3e, appearing in Dragon Magazine #356 seemingly
 as part of an effort to make a dragon for each element in the periodic table. In
 4e, they are promoted to the Monster Manual 2 alongside adamantine dragons to
@@ -116,3 +127,5 @@ as fuck.
 
 Still, I like that they're here. That shadiness is one point in favor of them as
 far as their utility in a story goes.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
