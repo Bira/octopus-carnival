@@ -6,9 +6,125 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 29 Jul 2021 19:19:16 +0000</pubDate>
-    <lastBuildDate>Thu, 29 Jul 2021 19:19:16 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Jul 2021 12:45:42 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Jul 2021 12:45:42 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Dragon, Copper</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-dragon-copper.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Copper dragons are part of the classic set and have been in the game at least
+since the AD&amp;amp;D 1st Edition Monster Manual. Here, they are the only remaining
+members of the “sorta orange-ish metal trio”, which used to feature bronze and
+brass dragons as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Copper dragons are highly sociable creatures, but they’re also among the
+greediest metallic dragons. They’re not likely to resort to outright robbery
+like your typical red dragon, but they’re almost always looking for a way to
+profit from their interactions with others. PCs can usually walk up to a copper
+dragon and ask it for information or instruction. The dragon will be most happy
+to give it to them… for a price.&lt;/p&gt;
+
+&lt;p&gt;Copper dragons are quite protective of their hoards. They like to make their
+lairs in rocky terrain like hilly badlands or mountains, which they can easily
+patrol from the air but which restrict the mobility of land-bound intruders. If
+they see the need to fight, they’ll do so by harassing their enemies with highly
+mobile aerial attacks over an extended period of time. They breathe acid, and
+prefer to recruit allies that can keep up with their high mobility.&lt;/p&gt;
+
+&lt;p&gt;I really like it that the illustrations for copper dragons give then verdigris
+streaks.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Copper dragons are Unaligned, Natural Magical Beasts with the Dragon Keyword. We
+get stat blocks for the usual four age categories.&lt;/p&gt;
+
+&lt;p&gt;Their size starts at Large when young, and increases to Huge at Elder. They
+never reach Gargantuan size, which I guess means they’re a bit smaller than the
+others in general. They have trained Perception, Darkvision, and Acid Resistance
+that starts at 15 when Young and increases by 5 per age category. Their speed is
+quite high, starting at 8 (fly 12) and reaching 10 (fly 14) at Elder and
+older. They also have Overland Flight 15.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-copper-dragon&quot;&gt;Young Copper Dragon&lt;/h3&gt;
+
+&lt;p&gt;Young copper dragons are Level 6 Solo Skirmishers with 296 HP. Their &lt;strong&gt;bite&lt;/strong&gt;
+allows them to shift 2 squares both before and after the attack, and deals a mix
+of physical and acid damage. Their &lt;strong&gt;claws&lt;/strong&gt; are a simple basic attack, but
+&lt;strong&gt;Double Attack&lt;/strong&gt; allows them to claw twice and then shift 2 squares. Looks like
+choosing between a bite and a double attack is a meaningful tactical decision!&lt;/p&gt;
+
+&lt;p&gt;The dragon’s most frequent attack is likely to be a &lt;strong&gt;Flyby Attack&lt;/strong&gt;, where it
+flies its speed and makes a melee basic attack at any point during the
+movement. This does not provoke opportunity attacks from the target of the
+attack. The bite is the clear best choice here, since it’s stronger and has
+built-in shifts which I think would happen even in the midst of the Flyby
+Attack.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Breath Weapon&lt;/strong&gt; (close blast 5 vs. Reflex; recharge 5-6) does acid damage
+and slows (save ends). &lt;strong&gt;Bloodied Breath&lt;/strong&gt; and &lt;strong&gt;Frightful Presence&lt;/strong&gt; are also
+here and work as described in earlier posts.&lt;/p&gt;
+
+&lt;p&gt;And finally, &lt;strong&gt;Cutwing Step&lt;/strong&gt; is a reaction that triggers when someone moves to
+a position that flanks the dragon. It’s an attack vs. AC that does light
+physical damage and allows the dragon to shift 2 squares.&lt;/p&gt;
+
+&lt;h3 id=&quot;adult-copper-dragon&quot;&gt;Adult Copper Dragon&lt;/h3&gt;
+
+&lt;p&gt;Adult Copper Dragons are Level 13 Solo Skirmishers with 528 HP. They have all
+the abilities of a young specimen with correspondingly bigger numbers. All
+attacks that allowed shifts other than the bite have the shift amount increased
+to 3.&lt;/p&gt;
+
+&lt;p&gt;They also add a new passive trait: &lt;strong&gt;Unfettered Wings&lt;/strong&gt; allows them to roll
+saves against the Immobilized, Slowrd and Restrained conditions at the start of
+their turns in addition to the normal end-of-turn rolls.&lt;/p&gt;
+
+&lt;h3 id=&quot;elder-and-ancient-copper-dragons&quot;&gt;Elder and Ancient Copper Dragons&lt;/h3&gt;
+
+&lt;p&gt;The Elder grows to size Huge as previously mentioned, and is a Level 20 Solo
+Skirmisher with 760 HP. It has bigger numbers than the Adult due to its higher
+level, but its suite of abilities is otherwise identical.&lt;/p&gt;
+
+&lt;p&gt;The Ancient is a Level 27 Solo Skirmisher with an even 1000 HP. It has all of
+the Elder’s abilities, and its &lt;strong&gt;Flyby Attack&lt;/strong&gt; upgrades to a &lt;strong&gt;Double Flyby
+Attack&lt;/strong&gt;, which allows it to attack two different targets during its strafing
+run.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounters are against all-skimmisher teams. There’s a Level 8 one
+with a young copper dragon and 3 hippogriffs, and a level 14 one with an adult
+and 2 dragonborn raiders.&lt;/p&gt;
+
+&lt;p&gt;Copper dragons are really flexible in the dramatic roles they can occupy even
+when you stick to their written description. It all depends on which part of the
+“sociable but greedy” stereotype you want to emphasize. I also like that most of
+their illustrations in this book have their coppery hides shot through with
+veins of verdigris.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/30/dragon-copper.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/30/dragon-copper.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Dragon, Adamantine</title>
@@ -1299,233 +1415,6 @@ on her, Lolth doesn’t trust them.&lt;/p&gt;
         <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Demons, Part 3</title>
-        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;We continue looking at the many monsters in the Demons entry of the Monster
-Manual 2.&lt;/p&gt;
-
-&lt;h2 id=&quot;nycademon&quot;&gt;Nycademon&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-nycademon.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I’m pretty sure these winged, four-armed creatures used to be classified as
-Yugoloths in previous editions, where their name was written as
-“Nycadaemon”. Yugoloths, or daemons, were the Neutral Evil Fiends, created
-because the writers of AD&amp;amp;D decided every alignment needed its own
-representative outsider. Fourth Edition uses a different cosmology and a
-different alignment system, so its authors elected to turn daemons into demons.&lt;/p&gt;
-
-&lt;p&gt;Nycademons spend their days flying over the open expanses of the Abyss in search
-of creatures to snatch and drop from a great height, which they think is hella
-funny. This has given them the nickname of “sky demons”. They place great value
-in physical strength, and so have a tendency to underestimate beings whose power
-is less obvious (“Do you even lift, bro?”). They’re also hesitant to attack
-someone who seems big and strong, for the same reason.&lt;/p&gt;
-
-&lt;p&gt;Like many former daemons, nycademons have a mercenary temperament and will work
-for anyone who pays them. These contracts tend to be short-lived though, as
-their superiority complex tends to infuriate most allies. All that flexing can
-get annoying really fast.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Nycademons are Large Elemental Humanoids (demons) and Level 22 Skirmishers with
-210 HP. They have Variable Resistance 20 (2/encounter), as well as ground and
-fly speeds of 6. The one in this book fights with a pair of greataxes it wields
-one-handed, leaving it with two free hands to snatch victims.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Wicked Axe&lt;/strong&gt; attacks are Reach 2 and High-Crit, and also cause ongoing 5
-damage (save ends). &lt;strong&gt;Wicked Edges&lt;/strong&gt; allows it to make two such attacks in one
-action, putting its damage near where it should be even without the math fix.&lt;/p&gt;
-
-&lt;p&gt;Instead of axing someone, the nycademon can &lt;strong&gt;Snatch&lt;/strong&gt; them (Reach 2
-vs. Fortitude). It can fly 6 squares before or after making the attack, which
-does no damage but grabs the target. The &lt;strong&gt;Strong Flyer&lt;/strong&gt; trait exempts it from
-the usual obstacles to moving a grabbed target, so it can travel its full speed
-with the grabbed victim without needing to make additional tests to do so.&lt;/p&gt;
-
-&lt;p&gt;All of these traits lend themselves well to the “snatch and drop” tactics
-described in the lore. Grab someone, fly up for a few rounds while attacking
-them with the axes, drop them for a bunch of d10s of fall damage.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter has three nycademons, a goristro and a rot harbinger. It’s
-Level 21, and likely affiliated with Orcus.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;While mechanically simple, I kinda like the whole “snatch and drop” thing. It’s
-also fun to imagine these creatures as condescending gym bros.&lt;/p&gt;
-
-&lt;h2 id=&quot;pod-demons&quot;&gt;Pod Demons&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-pod.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Particularly disgusting examples of demonkind, these slimy creatures can spawn
-miniatures of themselves from their blistered bodies, using them to corner and
-terrorize their victims.&lt;/p&gt;
-
-&lt;p&gt;The spawn have no mind of their own, being extensions of the demon’s main
-body. In fact, the pod demon can transfer its conscience to a podling, causing
-it to grow to full size while the original body shrinks.&lt;/p&gt;
-
-&lt;p&gt;These creatures have some connection to the mysterious Chained God (AKA
-Tharizdun, but no one in-setting rememebers that name). Some of them wrap
-themselves in chains to show their allegiance.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Pod Demons are Large Elemental Humanoids (demons), and Level 15 Elite Artillery
-with 176 HP. They have darkvision and Variable Resistance 15
-(2/encounter). Their ground speed is 8.&lt;/p&gt;
-
-&lt;p&gt;They fight by using their half-formed spawn as ammo. They can either throw a
-spawn so it explodes on impact using &lt;strong&gt;Fling Podspawn&lt;/strong&gt; (area burst 1 within 10
-vs. Reflex), or squeeze it to spray nearby enemies with &lt;strong&gt;Spew Podspawn&lt;/strong&gt; (close
-blast 3 vs. Reflex). In either case, targets take acid damage on a hit.&lt;/p&gt;
-
-&lt;p&gt;Fully formed podspawn constantly pop free of the parent body: one appears within
-2 squares of the original at the start of its turn as long as there are fewer
-than 4 podspawn in play. The parent can also force them out with &lt;strong&gt;Generate
-Podspawn&lt;/strong&gt; (close burst 2 vs. Reflex), which does poison damage and fills
-unoccupied squares with enough podspawn to reach the limit of 4.&lt;/p&gt;
-
-&lt;p&gt;As a move action the pod demon can &lt;strong&gt;Transfer Essence&lt;/strong&gt;, effectively swapping
-positions with a podspawn within 10 squares. As a minor action it can use
-&lt;strong&gt;Detonate Minion&lt;/strong&gt; (ranged 10), causing a podspawn in range to explode and deal
-a bit of automatic poison damage to adjacent creatures.&lt;/p&gt;
-
-&lt;p&gt;If forced into melee, they attack with a weak &lt;strong&gt;Claw&lt;/strong&gt; that also does ongoing
-poison damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;I’m guessing that if you have multiple pod demons in play, each of them will be
-able to have its own set of four minions.&lt;/p&gt;
-
-&lt;p&gt;The podspawn themselves also have a little stat block. They’re Level 15 Minion
-Skirmishers whose resistances always match the parent’s, and who attack with a
-&lt;strong&gt;corroding slime&lt;/strong&gt; that’s slightly stronger than the parent’s claw. Their
-&lt;strong&gt;dangerous proximity&lt;/strong&gt; trait gives them combat advantage against any adjacent
-enemy, no flanking required.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 16: 1 immolith, 1 pod demon, 4 podspawn and 2 red
-slaads.&lt;/p&gt;
-
-&lt;h2 id=&quot;runespiral-demon&quot;&gt;Runespiral Demon&lt;/h2&gt;
-
-&lt;p&gt;These turtle-beetle things have complex patterns of arcane runes etched into
-their shells, which channel arcane energies from deeper within the Abyss. The
-specimens depicted here turn this energy into lightning, but there are others
-with variant runic patterns that use other elements.&lt;/p&gt;
-
-&lt;p&gt;Runespiral demons are sapient, but they don’t have hands and are nowhere near
-smart enough to be good at arcane magic. The runes are either natural or etched
-by some unseen patron. In combat, they rely on the magic of these runes to
-attack at range.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-runespiral.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We actually get two varieties here: common Runespiral Demons are Small Elemental
-Magical Beasts, and Level 5 Artillery with 51 HP. Arctide Runespiral Demons are
-Large, and Level 12 Artillery with 97 HP. They have Variable Resistances of 10
-and 15 respectively, and a ground speed of 7. Their attacks are almost
-identical.&lt;/p&gt;
-
-&lt;p&gt;They can attack distant opponents with either a &lt;strong&gt;Focused Strike&lt;/strong&gt; (ranged 10
-vs. Reflex) that does standard lightning damage, or a &lt;strong&gt;Lightning Burst&lt;/strong&gt; (Area
-Burst 2 Within 10 vs. Reflex), which does bit less lightning damage as a
-baseline, but has that damage increase by 1 for each creature caught in the
-blast. That’s &lt;em&gt;creature&lt;/em&gt;, not &lt;em&gt;enemy&lt;/em&gt;: allies caught in the blast will increase
-its damage, but will also be damaged by it since it’s not a selective burst. The
-Arctide Demon’s burst is also &lt;strong&gt;Charged&lt;/strong&gt;: it does all of the above and
-additionally gives allies damaged by it a +1 bonus to their next recharge rolls.&lt;/p&gt;
-
-&lt;p&gt;When an enemy moves adjacent to one of these demons they release an &lt;strong&gt;Arcane
-Arc&lt;/strong&gt; (melee 1 vs. Reflex) as an interrupt, dealing lightning damage. In melee
-they’ll &lt;strong&gt;bite&lt;/strong&gt; for very little physical damage, and when bloodied they release
-a &lt;strong&gt;Bloodied Shock&lt;/strong&gt; (close burst 1 vs. Reflex) that deals lightning damage and
-dazes.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter has 2 basic runespiral remons, 2 evistros, and the human
-hexer who summoned them all.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-1&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;More demon artillery support. They have some mechanical weaknesses: all of their
-good attacks deal the same type of damage and target the same defense. Some GMs
-might want to pull a Gygax and say that runespiral demons with other elements
-look identical save for their different runes and that it takes an Arcana test
-to distinguish them.&lt;/p&gt;
-
-&lt;h2 id=&quot;rupture-demon&quot;&gt;Rupture Demon&lt;/h2&gt;
-
-&lt;p&gt;These demonic amoeboids are the least spawn of Juiblex, and they act as abyssal
-scavengers, following more powerful demons around and eating the remains of
-their kills. When they die their own remains can infest those more powerful
-demons and make them even stronger. Does that serve some plan of Juiblex? No one
-knows.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Rupture Demons are Level 5 Minion Soldiers, with low-light vision, a ground
-speed of 6 and a climb speed of 3 with Spider Climb. They lack any elemental
-resistance.&lt;/p&gt;
-
-&lt;p&gt;They can attack directly with a &lt;strong&gt;Slimy Extrusion&lt;/strong&gt; for minor physical damage,
-or they can use an &lt;strong&gt;Enveloping Embrace&lt;/strong&gt;. This hits automatically, does no
-damage and restrains the target (save ends). It also kills the demon, presumably
-because it has to rupture to envelop someone.&lt;/p&gt;
-
-&lt;p&gt;When a rupture demon dies, either due to an attack or from using the Embrace, it
-explodes into a mass of ichor and pseudopods that latches onto another demon
-within 5 squares. This infestation heals 5 HP and gives it a +2 damage
-bonus. Multiple infestations stack, up to a maximum of +10 damage. For this to
-work the infested demon must be level 10 or less.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter has 1 Black Pudding, 1 Evistro, and 6 rupture demons. An
-interesting contrast, because the pudding is going to split into smaller enemies
-and the rupture demons will join with the Evistro as the fight goes on.&lt;/p&gt;
-
-&lt;h3 id=&quot;impressions-2&quot;&gt;Impressions&lt;/h3&gt;
-
-&lt;p&gt;I like their concept! The level limitation is a bit strange. Presumably you
-could have higher level minions that could affect more powerful demons. In that
-case you should make sure they’re still a few levels behind the “real”
-opposition, since you want them to die fast and provide that damage bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;end-of-part-3&quot;&gt;End of Part 3&lt;/h2&gt;
-
-&lt;p&gt;There’s one more to go, with the last remaining demon.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-03.html</guid>
         
         <category>dnd4</category>
         
