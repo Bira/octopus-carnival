@@ -6,9 +6,153 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Jul 2021 18:40:27 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Jul 2021 18:40:27 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Jul 2021 14:37:51 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Jul 2021 14:37:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Dragon, Gold</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-dragon-gold.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Gold dragons are the original metallics and have been around since the beginning
+of D&amp;amp;D.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Gold dragons are among the most powerful children of Io, with the oldest being
+among the most dangerous creatures in existence. And yet they’re among the
+dragons who most enjoy the company of mortals. I guess a lot of the “scholarly
+metallic dragon” stereotype comes from them.&lt;/p&gt;
+
+&lt;p&gt;Their preferred terrain are plains or rolling hills, but that’s a secondary
+concern. Proximity to a sapient society, or to some great source of magic, are
+much more important. Gold dragons like to rule, but it seems they don’t need to
+make much of a fuss about it like the other dragons. It just happens! Any
+community or society located in gold dragon territory will soon find itself
+being heavily influenced or ruled outright by that dragon.&lt;/p&gt;
+
+&lt;p&gt;Gold dragons are usually honest and fortright in their dealings, but the more
+selfish ones don’t really care about the concerns of “lesser beings”. These
+individuals tend to shape the societies under their influence to suit their own
+long-term plans regardless of what the actual people who live there might
+want. And of course, you can still find more traditionally “Good” gold dragons
+out there as well.&lt;/p&gt;
+
+&lt;p&gt;Gold dragons breathe fire, and as they age they gain more affinity with radiant
+energy as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As usual, we get a stat block for each significant age category of gold
+dragon. They’re all Solo Controllers, and have Darkvision.&lt;/p&gt;
+
+&lt;p&gt;Young dragons start at size Large, with 15 fire resistance, a ground speed of 8,
+and a flight speed of 10 with Hover. They gain another 5 fire resistance with
+each subsequent age category, and their flight speed increases to 12 at
+Elder. They grow to size Huge at Elder, and Gargantuan at Ancient.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-gold-dragon&quot;&gt;Young Gold Dragon&lt;/h3&gt;
+
+&lt;p&gt;Young Golds are Level 9 Solo Controllers with 380 HP. Their melee reach is 2,
+and their basic attacks are a &lt;strong&gt;bite&lt;/strong&gt; that does a mix of physical and fire
+damage, and a weaker &lt;strong&gt;claw&lt;/strong&gt;. &lt;strong&gt;Double Attack&lt;/strong&gt; allows them to claw twice in a
+single action, bringing claw damage almost to parity with the bite. I guess it’s
+good if they want to spread damage around rather than concentrate it.&lt;/p&gt;
+
+&lt;p&gt;If an adjacent creature hits the dragon, it can hit back with a &lt;strong&gt;Fiery Wing
+Riposte&lt;/strong&gt; (melee 1 vs. Fortitude), which pushes the impudent mortal 5 squares
+and inflicts 5 ongoing fire damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Breath Weapon&lt;/strong&gt; (close blast 5 vs. Reflex; recharge 5-6) does fire
+damage and weakens (save ends), or half damage on a miss. &lt;strong&gt;Bloodied Breath&lt;/strong&gt;
+and &lt;strong&gt;Frightful Presence&lt;/strong&gt; work as usual.&lt;/p&gt;
+
+&lt;h3 id=&quot;adult-gold-dragon&quot;&gt;Adult Gold Dragon&lt;/h3&gt;
+
+&lt;p&gt;Adults are Level 17 with 652 HP. As usual they have all the attacks of a
+youngster with bigger numbers. This includes the ongoing damage from the
+Riposte, which is now 10.&lt;/p&gt;
+
+&lt;p&gt;They also gain a new ability: &lt;strong&gt;Burning Tomb&lt;/strong&gt; (area burst 1 within 20
+vs. Reflex; recharge 6) is a spell that does the same fire damage as the breath
+weapon, immobilizes (save ends), and creates a zone that does 15 fire damage to
+anyone who starts their turn inside and can be sustained with minor actions.&lt;/p&gt;
+
+&lt;h3 id=&quot;elder-gold-dragon&quot;&gt;Elder Gold Dragon&lt;/h3&gt;
+
+&lt;p&gt;Elders are Level 24 with a cool 888 HP. They have all the abilities of adults
+with bigger numbers. Their Melee Reach increases to 3 due to their Huge size.&lt;/p&gt;
+
+&lt;p&gt;This is at the age where their radiance begins to have a game effect, giving
+them a new ability: &lt;strong&gt;Beguiling Glow&lt;/strong&gt; (close burst 8 vs. Will; enemies only;
+recharge 5-6) is a minor-action attack that does no damage and pulls targets 5
+squares on a hit, nicely setting them up for Burning Tomb or the breath weapon.&lt;/p&gt;
+
+&lt;p&gt;They also project an aura (2) of &lt;strong&gt;Weakening Flames&lt;/strong&gt;, which forces enemies
+caught inside to choose between taking 15 fire damage or being weakened for a
+turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancient-gold-dragon&quot;&gt;Ancient Gold Dragon&lt;/h3&gt;
+
+&lt;p&gt;Ancient Gold Dragons are Gargantuan Level 30 Solo Controllers with 1088 HP. This
+puts them on par with the friggin’ Tarrasque both in size and danger level. The
+Tarrasque has more HP, but that’s before you apply the MM2 Solo HP fixes. And
+the dragon is much smarter.&lt;/p&gt;
+
+&lt;p&gt;They have all the abilities of Elders with bigger numbers, including in reach,
+aura size and damage, and ongoing damage from Riposte. Double Attack becomes
+&lt;strong&gt;Triple Attack&lt;/strong&gt;, allowing three claw swipes in one action. Their new
+“capstone” skill is &lt;strong&gt;Ancient Radiance&lt;/strong&gt; (close burst 4 vs. Fortitude; enemies
+only; recharge 6) which does radiant damage and dazes for a turn. After the daze
+clears, the target gains Vulnerable 10 Radiant (save ends). This is important
+because the dragon’s &lt;strong&gt;Breath Weapon&lt;/strong&gt; now does “fire and radiant” damage!&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Gold dragons surround themselves with allies and subjects that match their
+individual dispositions. The evil ones employ beings such as evil minotaurs,
+ogres and trolls as dumb disposable muscle. The good ones have a variety of
+willing allies acting as guards.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 10: a young gold dragon and 2 angels of valor.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 19: an adult gold dragon and 3 savage minotaurs.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Level-wise, these are certainly the most powerful of dragons. The Ancient is a
+match for the Tarrasque and could put up a decent fight against beings such as
+demon lords or other “campaign end bosses”.&lt;/p&gt;
+
+&lt;p&gt;They do have the same problem as the Tarrasque in that they lack strong
+condition mitigation powers - that +5 to saves from being a solo might not be
+enough to prevent stun-locking by an epic party. They also wouldn’t do so well
+on their own against Demogorgon, so if you want to have a kaiju fight you might
+want to use the dragon as an ally of the PCs instead of sending it in alone.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/07/31/dragon-gold.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/31/dragon-gold.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Dragon, Copper</title>
@@ -1305,116 +1449,6 @@ fall) of a single individual over three lifetimes.&lt;/p&gt;
         <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/06/27/deva.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/27/deva.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Vault 2: Demons, Part 04</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-demon-yochlol.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;This is the last post covering the “Demons” entry in the Monster Manual 2, and
-it features a lone demon: the Yochlol, who has been in the game since at least
-AD&amp;amp;D 1st Edition.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Yochlols are the handmaidens of Lolth, being some of her most favored
-servants. This a fact which those not initiated in Her mysteries will find
-baffling because yochlols don’t resemble spiders in any way. In their natural
-form these demons look like pillars of snot with a baleful red eye embedded near
-the top. They can also take the shape of beautiful drow women.&lt;/p&gt;
-
-&lt;p&gt;Yochlols might be assigned by their mistress to assist mortal priests that have
-also earned her favor, but they mainly works as spies. They’re so good at
-passing for mortal drow that they can remain undetected for years at a time and
-attain positions of great power in their society. I’ll write more about the
-implications of this in the Impressions section.&lt;/p&gt;
-
-&lt;p&gt;The existence of yochlols is one more point in favor of my pet theory that Lolth
-is actually a demon lord.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get a single stat block here, named Yochlol Tempter, which I guess is
-representative of most of them.&lt;/p&gt;
-
-&lt;p&gt;Yochlols are Medium Elemental Humanoids with the Demon and Shapechanger
-keywords. They’re Level 17 Controllers with 158 HP. Despite being demons, they
-lack Variable Resistance and have Resist 10 Poison instead. They have
-darkvision, a ground speed of 6, and a climb speed of 8 with Spider Climb.&lt;/p&gt;
-
-&lt;p&gt;Yochlols have two sets of attack powers, one for when they’re in demon form, the
-other for when they’re in drow form. They can &lt;strong&gt;switch forms&lt;/strong&gt; with a minor
-action, but I guess an infiltrated yochlol will stick to drow form to avoid
-blowing its cover. Once that happens, though, it will change shape as often as
-it needs to assemble the best combos it can.&lt;/p&gt;
-
-&lt;p&gt;In demon form, the Tempter fights with its Reach 2 &lt;strong&gt;Tentacles&lt;/strong&gt;. A basic
-tentacle attack is quite weak, but the demon can make four of them with its
-&lt;strong&gt;Amorphous Flurry&lt;/strong&gt;. If two or more flurry attacks hit the same target, that
-target takes a -4 penalty to Will (save ends).&lt;/p&gt;
-
-&lt;p&gt;At range, it can project a &lt;strong&gt;Maddening Web&lt;/strong&gt; (area burst 2 within 10
-vs. Reflex). It does no immediate damage, but immobilizes and deals 5 ongoing
-damage (save ends). It recharges on a 4-6, but only while the yochlol is
-bloodied. So it’s less of a web and more of flung ball of runny snot.&lt;/p&gt;
-
-&lt;p&gt;In drow form, this demon’s attacks are all what you would expect out of a
-priestess of Lolth: a &lt;strong&gt;spider touch&lt;/strong&gt; in melee that also deals ongoing 10
-poison damage (save ends); a &lt;strong&gt;venom bolt&lt;/strong&gt; (ranged 10 vs. Reflex) that deals
-physical and ongoing 5 poison damage (save ends); and a minor-action &lt;strong&gt;Seductive
-Glare&lt;/strong&gt; which despite the horrible name is a slow-acting mind control spell
-(ranged 10 vs. Will). On a hit the target is dazed (save ends); the first failed
-save worsens that to Stunned, and the second to Dominated. In all cases a
-successful save ends the effect.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 16 and as you would expect involves a lot of drow:
-2 arachnomancers, 1 blademaster and a priest, accompanied by 2 yochlol
-tempters. Your call as to whether the drow know about the demons or not.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Mechanically, I find yochlols quite interesting with their two forms that have
-complimentary powers. A lone yochlol can set up some interesting combos by
-itself, by using Amorphous Flurry to weaken someone’s Will and then the mind
-control attack in the next round. If you have two of them, they can do that a
-lot faster.&lt;/p&gt;
-
-&lt;p&gt;I remember seeing complains in Let’s Reads for older editions about how these
-demons don’t seem to have much to do with Lolth thematically speaking. After
-all, spiders are officially Her Thing and yochlols are not spiders. And despite
-them being described as the ultimate shape-shifting spies, they can only turn
-into drow, so they can’t be used to spy on the drow’s enemies.&lt;/p&gt;
-
-&lt;p&gt;The bits of lore here help make sense of all that. Lolth is also the goddess of
-lies, and treachery is among her commandments. How much do you think such a
-deity would trust their followers? No, Yochlols aren’t made to spy on the
-enemies of the drow. They’re made to spy &lt;em&gt;on the drow&lt;/em&gt;. Their un-spider-like
-nature gives Lolth some plausible deniability. It is, perhaps, a hint that these
-demons are the product of another side of Lolth’s personality, one rarely known
-to her worshippers. Because despite all the dedication the drow people lavishes
-on her, Lolth doesn’t trust them.&lt;/p&gt;
-
-&lt;p&gt;That’s kinda tragic, for both the Drow and for Lolth.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/06/24/demons-04.html</guid>
         
         <category>dnd4</category>
         
