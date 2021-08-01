@@ -65,6 +65,7 @@ variants here. Here they are, from A to Z:
     - [Adamantine][33]
     - [Copper][34]
     - [Gold][35]
+    - [Iron][36]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -103,3 +104,4 @@ variants here. Here they are, from A to Z:
 [33]: {{ "/2021/07/29/dragon-adamantine.html" | relative_url }}
 [34]: {{ "/2021/07/30/dragon-copper.html" | relative_url }}
 [35]: {{ "/2021/07/31/dragon-gold.html" | relative_url }}
+[36]: {{ "/2021/08/01/dragon-iron.html" | relative_url }}
