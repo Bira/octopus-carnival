@@ -41,6 +41,15 @@ only cast once. Killing one of them permanently reduces that population.
 
 ## The Numbers
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm34e-apocalypse-spell-01.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 All Apocalypse Spells are Animates with the Construct keyword, but that's where
 their similarity ends. Each stat block described here represents the progeny of
 a different epic spell.
@@ -79,7 +88,9 @@ can make this attack twice per action against different targets, thanks to
 **Reactive Coils** to pull the triggering enemy adjacent to itself.
 
 The Prison's divine origin makes it a bit reluctant to attack divine characters,
-and it might be convinced to lend its aid against elementals and demons.
+and it might be convinced to lend its aid against elementals and demons. Their
+Double Attack ability makes them heavy hitters, and all the long-range pulling
+they can do makes them excellent at isolating PCs from each other.
 
 ### Herald of Colorless Fire
 
@@ -145,6 +156,15 @@ after you kill them.
 
 ### Godslayer Inferno
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-apocalypse-spell-02.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 These are the product of one of the many spells wielded by the primordials
 themselves during the Dawn War. It created a torrent of white and violet flames
 that prevented deities from discorporating and suppressed their immortal
@@ -178,9 +198,9 @@ fire damage!
 
 I don't think ongoing fire damage stacks, so it's unlikely the inferno itself
 can inflict more than the 25 its fire bolts cause. But Cloying Flames makes them
-pair _extremely_ well with other fire monsters such as epic demons. If nothing
-else fits, you could add multiple infernos in an encounter. Not too many,
-though. Their danger level grows very fast in proportion to their numbers.
+pair _extremely_ well with other epic fire monsters. If nothing else fits, you
+could add multiple infernos in an encounter, but their danger level grows very
+fast in proportion to their numbers.
 
 ### Light of Amoth
 
