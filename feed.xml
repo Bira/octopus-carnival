@@ -6,9 +6,135 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Aug 2021 13:00:55 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Aug 2021 13:00:55 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 13:05:30 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Aug 2021 13:05:30 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Dragon, Silver</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-dragon-silver.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Silver dragons have been in the game since the days of AD&amp;amp;D 1st Edition, as part
+of the classic metallic dragon set.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Silver dragons are described by the book as “the knights-errant” of
+dragonkind. They like to travel the world looking for “interesting conflicts”,
+and then throwing themselves at the center of those. When not doing that, they
+chill in their lairs, which are usually in cold mountain-tops or in cloud
+castles.&lt;/p&gt;
+
+&lt;p&gt;Silver dragons are highly susceptible to flattery, but get angry when the people
+talking to them behave in an arrogant or aggressive manner. They breathe ice,
+but they prefer to mix it up in melee. They can fly, but their flight is slower
+than that of most other dragons.&lt;/p&gt;
+
+&lt;p&gt;All of this kinda make me think of the “Outrageous!” incarnation of Aquaman from
+the “Batman: The Brave and The Bold” cartoon. A silver dragon patterned after
+him would be a true ally of justice who travels in search of wrongs to make
+right, and who is also really loud and boisterous about it.&lt;/p&gt;
+
+&lt;p&gt;You can still have ambiguous or evil silver dragons without changing the written
+text, though. Note that it doesn’t make any mention of which side in those
+interesting conflicts a silver dragon prefers to join. So a villainous one could
+be a mercenary who’s interested in chances to inflict violence and who joins
+whoever pays him the most (and the villains almost always have more money in
+these scenarios).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Generally speaking, a silver dragon will want to be where the fighting is
+thickest. They’re all about beating people up in melee, and the more surrounded
+they are the better their offense becomes. Their cold breath weapon isn’t their
+most damaging attack, but it makes enemies vulnerable to damage from other
+sources.&lt;/p&gt;
+
+&lt;p&gt;Silver dragons are Solo Brutes. They have darkvision, and cold resistance that
+starts at 15 and increases by 5 in each subsequent age category. Their ground
+speed starts at 6, increases to 8 at Adult, and to 10 at Ancient. Their flight
+speed is always equal to the ground speed, making them indeed slower than other
+dragons.&lt;/p&gt;
+
+&lt;p&gt;Their size progression is pretty standard: starts at Large, grows to Huge at
+Elder and Gargantuan at Ancient.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-silver-dragon&quot;&gt;Young Silver Dragon&lt;/h3&gt;
+
+&lt;p&gt;These are Level 8 with 376 HP. They have the usual Reach 2 &lt;strong&gt;bite&lt;/strong&gt; and
+&lt;strong&gt;claws&lt;/strong&gt; as basic attacks, doing Brute-level damage. &lt;strong&gt;Dragon Onslaught&lt;/strong&gt;
+allows them to make a claw attack against every enemy in range in a single
+action.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Breath Weapon&lt;/strong&gt; (close blast 5 vs. Fortitude; Recharge 5-6) does light
+cold damage and makes targets vulnerable 5 to all damage (save ends). &lt;strong&gt;Bloodied
+Breath&lt;/strong&gt; and &lt;strong&gt;Frightful Presence&lt;/strong&gt; work as usual.&lt;/p&gt;
+
+&lt;p&gt;The dragon’s reaction skill is &lt;strong&gt;Wing Slice&lt;/strong&gt;, which triggers when it’s hit by
+an attack from an enemy flanking it. It makes an attack vs. AC dealing light
+physical damage to both the attacker and the other enemy flanking the dragon.&lt;/p&gt;
+
+&lt;h3 id=&quot;adult-silver-dragon&quot;&gt;Adult Silver Dragon&lt;/h3&gt;
+
+&lt;p&gt;Adults are level 15 with 608 HP. They have all the abilities of youngsters with
+some upgrades and additions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dragon Onslaught&lt;/strong&gt; adds an extra bite attack, so it’s a claw against everyone
+in reach and a bite against a target of the dragon’s choice. They also gain
+&lt;strong&gt;Threatening Reach&lt;/strong&gt;, allowing them to make opportunity attacks against anyone
+they can reach.&lt;/p&gt;
+
+&lt;h3 id=&quot;elders-silver-dragon&quot;&gt;Elders Silver Dragon&lt;/h3&gt;
+
+&lt;p&gt;Elders are Level 22 with 840 HP. They’re Huge, but their melee reach remains
+at 2. They have bigger numbers and all the abilities of adults, with the
+following two additions:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tail Slam&lt;/strong&gt; (close blast 5 vs. AC) does high physical damage and dazes (save
+ends). It’s also an at-will action!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unstoppable&lt;/strong&gt; is a passive trait that allows the dragon to roll extra saves
+against ongoing damage at the start of its turns.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancient-silver-dragon&quot;&gt;Ancient Silver Dragon&lt;/h3&gt;
+
+&lt;p&gt;Ancients are Level 29 with 1072 HP. It has all the abilities of an Elder, with
+bigger numbers. It doesn’t gain new abilities, but its bite reach increases to
+3, which benefits from Threatening Reach and also improves Dragon Onslaught.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
+
+&lt;p&gt;The sample encounters play up the goodly tendencies of a silver dragon, pairing
+it up with similarly “righteous” creatures. There’s a Level 8 encounter with a
+young’un and 2 eladrin twilight incanters, and a level 17 one with an adult and
+2 daeva zealots.&lt;/p&gt;
+
+&lt;p&gt;Other likely companions include dwarves, dragonborn, and angels. Mechanically,
+you want monsters that can benefit from being shielded by a big brute.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Outrageous! I now totally want to include Arthur the Boisterous Heroic Silver
+Dragon in my next game.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/02/dragon-silver.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/02/dragon-silver.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Iron Dragon</title>
@@ -1201,200 +1327,6 @@ the front-line, or attaching the devil to a mixed-party of yuan-ti.&lt;/p&gt;
         <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Devils, Part 01</title>
-        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;This book includes a whole bunch of demons, and it was inevitable that it was
-also going to include a whole bunch of devils. Their base lore remains unchanged
-from what it was in my &lt;a href=&quot;https://bira.github.io/octopus-carnival/2019/11/21/devils.html&quot;&gt;original introduction&lt;/a&gt; in the Monster Manual Let’s
-Read, so I recommend re-reading that article.&lt;/p&gt;
-
-&lt;p&gt;This entry includes a whole bunch of devils that are new to 4th edition, though
-some of them also appeared in earlier editions. As I mention in the original
-intro, devils tend to be more “humanoid” in appearance and use weapons to
-fight. I’m also really fond of making jokes about devils being corporate
-employees and/or fascists, so get ready for those.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, all devils have the Immortal origin, and the Devil keyword. Nearly
-all of the ones we’ll look at in this book are Humanoids, with one exception who
-is an Animate. All of the devils in the first MM had really high fire
-resistance, and some of the ones here do as well, but a surprising number of
-them lacks resistances entirely. They all still have darkvision, but their
-remaining traits vary a lot per stat block.&lt;/p&gt;
-
-&lt;p&gt;As usual, I’ll cover enough individual monsters to hit the size limit I’ve set
-on each post, and will have as many parts as it takes to cover the entire
-“Devil” entry.&lt;/p&gt;
-
-&lt;h2 id=&quot;assassin-devil&quot;&gt;Assassin Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-assassin.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;As every servant of Asmodeus knows, you can’t make it in this economy without a
-little murder. Assassin devils are specialized service providers that cater to
-that particular need of successful businessmen everywhere. Their magic allows
-them to manipulate shadows to hide themselves and to kill.&lt;/p&gt;
-
-&lt;p&gt;That “service provider” crack isn’t just a joke: assassin devils are always
-found assisting the plots of some other infernal muckety-muck, never
-masterminding their own. The hidden truth is that many of them report directly
-to Asmodeus, snitching on those same plots to keep the CEO abreast of what his
-scheming underlings are up to. If the underlings in question discover this, they
-rarely make public accusations or reprisals, and instead try to feed the
-assassin misinformation to make themselves look good in the eyes of the boss.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Assassin Devils are Medium Level 24 Lurkers with 167 HP. They have darkvision
-and Resist 25 Fire, as well as an amazing ground speed of 12. They wear light
-armor and fight with shadows.&lt;/p&gt;
-
-&lt;p&gt;They can use magic to form a &lt;strong&gt;Shadow Sword&lt;/strong&gt; which does necrotic damage and
-ongoing 5 physical damage (save ends). It also deals a lot of extra necrotic
-damage against targets granting combat advantage to the assassin.&lt;/p&gt;
-
-&lt;p&gt;Assassin devils can wrap themselves in a &lt;strong&gt;Shadow Cloak&lt;/strong&gt; that makes them
-invisible until they make an attack, or they can cast those same shadows as a
-&lt;strong&gt;Shadow Net&lt;/strong&gt; (Area Burst 2 Within 10 vs. Reflex) that restrains all it hits
-and inflicts 10 ongoing necrotic damage. These abilities can’t be used at the
-same time. The Cloak recharges when the devil uses the Net, and vice-versa.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;This seems like the type of devil PCs from the world would rarely see because
-they’re almost always employed in the internecine struggles of Hell itself. The
-book notes they like to work alone, but if circumstances mandate a team they
-prefer to partner up with strong soldier-types like war devils who are good at
-keeping the enemy distracted and setting up flanks.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 22 and has 2 assassins, a high-level human
-diabolist, and 2 war devils.&lt;/p&gt;
-
-&lt;h2 id=&quot;erinyes&quot;&gt;Erinyes&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-erinyes.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Erinyes are inspired by the Furies of Greek myth, and have been in the game
-since at least 1st Edition. I think it was 3.x that tried to present them as
-devilish counterparts to succubi (who were demons in that edition), but 4e leans
-more into the “Fury” aspect.&lt;/p&gt;
-
-&lt;p&gt;In Fourth Edition, Erinyes act as arbiters and enforcers of infernal law, which
-of course also implies they’re pretty good in a fight because this is Hell we’re
-talking about. Their skills with sword and shield are so renowned that certain
-mortal warriors have been known to sell their souls in order to train under
-them. This implies there’s an official erinyes school of arms with their own
-signature style, and maybe its own trademark enforcement arm.&lt;/p&gt;
-
-&lt;p&gt;In battle, Erinyes are elite infantry of the sort that gets deployed to untangle
-tricky situations and inspire the rank and file around them to fight
-harder. They’re more or less equivalent to fighty warlords. They can also be
-found leading hunting parties whose purpose is to find those who skipped out on
-infernal contracts and drag them to Hell.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Erinyes are Medium Level 13 Soldiers with the Leader keyword and 131 HP. They’re
-clad in high-quality infernal plate (which is a lot more than they wore in other
-editions), and wield a shield and a bastard sword. Their speed is 5, and they
-mostly fight using showy but lethal martial techniques.&lt;/p&gt;
-
-&lt;p&gt;They’re very good at holding the line due to the &lt;strong&gt;Devastating Opportunist&lt;/strong&gt;
-trait, which gives them a +3 bonus to opportunity attacks and allows them to
-shift 1 square if they hit with such an attack.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Compelling Strike&lt;/strong&gt; that does standard physical damage
-and allows one ally within 5 squares to gain 8 temporary HP. They can also use
-the &lt;strong&gt;Flitting Blade&lt;/strong&gt; technique to make attacks dealing light physical damage
-against up to three different targets, at-will.&lt;/p&gt;
-
-&lt;p&gt;When first bloodied, they can use &lt;strong&gt;Bloody Spiral&lt;/strong&gt; (close burst 1 vs. Reflex)
-as a reaction. This does a tiny bit of physical damage and knocks prone on a
-hit, and if two or more enemies are knocked down it bestows 10 temporary HP to
-every ally within 5 squares.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions-1&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is level 12 and has 3 erinyes, 2 chain devils and 5 legion
-devil hellguards. It’s likely one of those hunting parties.&lt;/p&gt;
-
-&lt;p&gt;I think I like these new erinyes a lot more than I did the “naked winged woman,
-but a devil” that I remember them being in 3e.&lt;/p&gt;
-
-&lt;h2 id=&quot;gorechain-devil&quot;&gt;Gorechain Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-gorechain.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Like a chain devil, but bigger. Where standard chain devils are jailers,
-gorechain devils are more like bounty hunters. They’re named like this because
-their chains are often encrusted in gore.&lt;/p&gt;
-
-&lt;p&gt;Their fighting style is a lot less acrobatic than that of their smaller
-counterparts, but they turn out to have a lot more mental control over their
-chains. So much, in fact, that they can use those chains to manipulate ensnared
-victims and make them into puppets. They’re also a lot smarter than they look.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;These Large devils are Level 12 Elite Brutes with 298 HP. They have resist 10
-fire but seem to lack darkvision. Their speed is 5.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Grasping Chains&lt;/strong&gt; of a gorechain devil act as an aura (3) that forces
-enemies to make a DC 21 Athletics or Acrobatics check if they attempt to leave
-its bounds. Their basic &lt;strong&gt;Gorechain Strike&lt;/strong&gt; is reach 3, and the &lt;strong&gt;Gorechain
-Flail&lt;/strong&gt; ability (recharge 6) allows them to make one of these attacks against
-every target in range with a single action.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gorechain Takeover&lt;/strong&gt; (reach 3 vs. Fortitude; recharge 5-6) does about the same
-damage as the basic strike, and also dominates (save ends). The domination also
-ends if the target is more than 3 squares away from the devil when the target’s
-turn starts. A lucky enough series of recharge rolls could see multiple PCs
-dominated in this way.&lt;/p&gt;
-
-&lt;p&gt;The tactics here are clear: bring all the PCs in for a group hug, and never let
-them get away.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions-2&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is Level 12 and has two of these, a skeletal tomb guardian,
-and a skull lord. I imagine they might also take part in those erinyes-led
-debtor-hunting parties.&lt;/p&gt;
-
-&lt;p&gt;I like that the look of gorechain devils is a bit deceptive at first. A PC who
-sees one of these things might expect a big dumb brute, but they can fight smart
-and the Takeover power will come as a surprise.&lt;/p&gt;
-
-&lt;p&gt;It’s not quite enough to make me like them as enemies, since I’m not really that
-fond of kytons either, but that’s on me and not on this stat block.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/07/11/devils-01.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/11/devils-01.html</guid>
         
         <category>dnd4</category>
         
