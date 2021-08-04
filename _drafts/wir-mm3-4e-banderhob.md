@@ -104,3 +104,6 @@ Bandehobbs are spooky and evocative. The book text really lays the purple prose
 on thick for them, but I think that works rather well. They're also a shadow
 creature _without_ a death theme. They're neither goth nor undead, which is kind
 of a rarity.
+
+They pair well with evil fey that have a "nightmare" theme, and that Shadowfell
+tower sounds like a good final dungeon for a Paragon Tier campaign.
