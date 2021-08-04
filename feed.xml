@@ -6,9 +6,146 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Aug 2021 14:03:53 +0000</pubDate>
-    <lastBuildDate>Wed, 04 Aug 2021 14:03:53 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Aug 2021 16:13:08 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Aug 2021 16:13:08 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Drakes</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-drakes.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Drakes make their debut on the first 4e Monster Manual, and this entry brings us
+a few more of them. They remain a popular choice of animal for domestication but
+the intro text mentions they retain a wild side.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloodseeker-drake&quot;&gt;Bloodseeker Drake&lt;/h2&gt;
+
+&lt;p&gt;These expert trackers were included in the Monster Vault, so we already looked
+at them &lt;a href=&quot;/octopus-carnival/2020/02/01/drakes.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;horned-drake&quot;&gt;Horned Drake&lt;/h2&gt;
+
+&lt;p&gt;In the wild, horned drakes are pack predators who spend most of the day sleeping
+and basking in the sun, going out to hunt at night. They have an excellent
+instinct for teamwork, and a pack of them is able to take down much larger prey.&lt;/p&gt;
+
+&lt;p&gt;I imagine that, when domesticated, they make stronger alternatives to the
+bog-standard guard drake, treating their handlers as part of the pack.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Horned Drakes are Medium Natural Beasts and Level 5 Skirmishers with 63 HP. They
+have low-light vision and a speed of 6.&lt;/p&gt;
+
+&lt;p&gt;This drake’s basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that does standard physical damage and
+allows the creature to shift 2 squares on a hit. The &lt;strong&gt;Pack Movement&lt;/strong&gt; reaction
+also allows them to shift 2 squares when an enemy adjacent to them is hit by a
+melee attack. This makes them great a setting up flanks with their fellow drakes
+or with their handlers.&lt;/p&gt;
+
+&lt;p&gt;The drake can also make a &lt;strong&gt;Goring Horns&lt;/strong&gt; attack, which does high physical
+damage and knocks prone on a hit. It also has a +1 attack bonus over the basic
+attack, which indicates to me that it’s meant to be a charge.&lt;/p&gt;
+
+&lt;p&gt;So, these drakes are set up charge an enemy, then surround and run circles
+around it.&lt;/p&gt;
+
+&lt;h2 id=&quot;scytheclaw-drake&quot;&gt;Scytheclaw Drake&lt;/h2&gt;
+
+&lt;p&gt;Another species of pack predator, scytheclaws inhabit forests and
+grasslands. They are known for their cunning and for their devious tactics. If
+you see one scytheclaw, odds are there are two or three others approaching you
+from behind.&lt;/p&gt;
+
+&lt;p&gt;In other words, they’re Jurassic Park raptors!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Scytheclaws are Medium Natural Beasts and Level 10 Skirmishers with 105 HP,
+which explains why the Jurassic Park protagonists had such trouble with
+them. Their ground speed is an amazing 10.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is the titular &lt;strong&gt;Scytheclaw&lt;/strong&gt;, which deals physical damage
+and knocks the target prone. If used against an already prone target, it hits
+harder and inflicts 5 ongoing damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;When the drake hits with its basic attack, it can immediately use &lt;strong&gt;Springing
+Step&lt;/strong&gt; (free action; recharge 4-6), which allows it to jump 8 squares and attack
+someone else at the end of the jump. This doesn’t provoke opportunity attacks
+from the target of the original attack, making it safe to move away from most
+PCs.&lt;/p&gt;
+
+&lt;p&gt;If a prone enemy within reach tries to get up, its &lt;strong&gt;Overwhelming Attacker&lt;/strong&gt;
+trait allows it to make an opportunity attack against that enemy. If this hits,
+the target remains prone.&lt;/p&gt;
+
+&lt;p&gt;Scytheclaws are therefore set up to bounce between PCs while knocking them
+prone, and they will absolutely kick you when you’re down.&lt;/p&gt;
+
+&lt;h2 id=&quot;fang-titan-drake&quot;&gt;Fang Titan Drake&lt;/h2&gt;
+
+&lt;p&gt;If you include the Raptors, you almost certainly have to include the T-Rex as
+well. And sure enough, here it is. The largest species of drake, few creatures
+other than dragons can pose much of a treat to them. Mostly solitary, they claim
+large territories and chase away all other big predators, so ironically
+creatures beneath the fang titan’s notice end up enjoying a measure of
+protection.&lt;/p&gt;
+
+&lt;p&gt;In most settings, such a creature would be impossible to domesticate, but in
+D&amp;amp;D’s implied setting some sapients such as giants can manage it due to not
+being that much smaller than them.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Fang Titans are Huge Natural Animals and Level 18 Elite Controllers with 348
+HP. Their ground speed is 8.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a humongous &lt;strong&gt;bite&lt;/strong&gt; that can target one or two creatures,
+dealing physical damage and dazing them (save ends). They can also grab one of
+the targets on a hit.&lt;/p&gt;
+
+&lt;p&gt;They can also attack with a &lt;strong&gt;Tail Sweep&lt;/strong&gt; (close burst 2 vs. Reflex; recharge
+4-6) that does high physical damage and knocks prone. Their &lt;strong&gt;Furious Roar&lt;/strong&gt;
+works exactly like a dragon’s Frightful Presence, and when they’re bloodied they
+recharge it and use it immediately as a free action.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters And Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Two sample drake encounters in this entry:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 3: A lizardfolk hunting party with a pair of bloodseeker drakes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 19: A quartet of fire giants and their pet fang titan.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As I mentioned during my reading of the MM/MV, I love drakes and more of them
+are always welcome. For many of them, it’s also easy to “de-skin” them as
+dinosaurs if you’re so inclined, but making them a distinct type of creature
+also frees the authors (and you!) from having to adhere to best paleontological
+practices.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/04/drakes.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/04/drakes.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Dragon, Silver</title>
@@ -1093,240 +1230,6 @@ a Lurker.&lt;/p&gt;
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/07/21/dimensional-marauder.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/21/dimensional-marauder.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Devils, Part 2</title>
-        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Continuing our slog through the Devils entry, let’s look at the next batch.&lt;/p&gt;
-
-&lt;h2 id=&quot;infernal-armor-animus&quot;&gt;Infernal Armor Animus&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-animus.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;We’ve talked a lot about devils always trying to acquire souls by hook or by
-crook, but what do they use them &lt;em&gt;for&lt;/em&gt;? Here we have a concrete example of one
-of the many products in Hell’s catalogs.&lt;/p&gt;
-
-&lt;p&gt;These monsters are made by binding the soul of a mortal within a suit of
-infernal armor, which is animated by the process. The animated armor has its own
-mind - the soul is just the power source. The animus understands Common and
-Supernal, and at Int 8 it’s smart enough to understand the orders of its
-infernal masters. When it’s destroyed in combat, it releases the trapped soul,
-which will usually be consumed by a nearby devil for a quick performance boost.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Animi are Medium Elemental Animates with the Devil and Undead keywords - the
-only non-humanoid devils in the MM2. They’re also Level 3 Minion Soldiers, which
-means they appear in the “bargain bin” section of the catalog and will be found
-fairly early in a zero-to-hero campaign with devils as the main
-antagonists. They have darkvision, Resist Fire 5, and a ground speed of 6.&lt;/p&gt;
-
-&lt;p&gt;These things project a &lt;strong&gt;Bloodlust&lt;/strong&gt; aura (2) that gives nonminion devils within
-a +1 to damage rolls. Multiple auras are cumulative, so I imagine animi keep a
-tight formation around their boss.&lt;/p&gt;
-
-&lt;p&gt;They wield shields and shortswords in combat, and the &lt;strong&gt;sword&lt;/strong&gt; attack is
-nothing special. When they’re destroyed, &lt;strong&gt;Essence Transference&lt;/strong&gt; triggers and
-heals the nearest non-minion devil within 15 squares for 15 HP.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is Level 5: 8 animi, 2 spined devils, 1 tiefling heretic.&lt;/p&gt;
-
-&lt;p&gt;Look at that healing value for Essence Transference! This tells me infernal
-animi aren’t used as dumb muscle - that’s the job of legion devils. Instead
-they’re ambulatory &lt;em&gt;snacks&lt;/em&gt; just waiting for the PCs to unwrap them and feed
-them to their master. They might be able to get a hit or two in before that
-happens, but that’s just a bonus. Kill them before damaging their masters.&lt;/p&gt;
-
-&lt;h2 id=&quot;misfortune-devil&quot;&gt;Misfortune Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-misfortune.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Valued members of the acquisitions department, misfortune devils collect souls
-by tempting mortals into taking ever-larger risks, which ultimately culminate in
-the mortal dying and the devil owning their soul. It helps that they know a lot
-of probability-warping magic to speed the process along.&lt;/p&gt;
-
-&lt;p&gt;I imagine that there are many strategically-placed tomes out in the world that
-teach a ritual to summon one of these and describe it as a “wise advisor” who
-will always have the summoner’s best interest at heart. Satisfaction guaranteed
-(and never mind the fine print)!&lt;/p&gt;
-
-&lt;p&gt;Misfortune devils can also choose prospective victims on their own inititive. If
-the victim in question is someone who knows better than to listen to a devil,
-they can use innocuous-looking underlings to make contact, or disguise
-themselves with magic rituals. And finally, they can also be attached as support
-spellcasters to a unit of devils out on some mission of a more military nature.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;These Medium devils are Level 15 Artillery with 115 HP. They have darkvision and
-truesight 10, ground and fly speeds of 6, and interestingly enough no elemental
-resistances.&lt;/p&gt;
-
-&lt;p&gt;They attack at range with a &lt;strong&gt;Ray of Distortion&lt;/strong&gt; (ranged 20 vs. Reflex), which
-does high physical damage - unusual for an at-will attack. The catch is that the
-target of this attack can choose to take only 5 damage instead, and have the
-original damage re-rolled and applied to their ally with the most HP. How
-close-knit is your party, really?&lt;/p&gt;
-
-&lt;p&gt;If an enemy manages to get close, they can fight back with a &lt;strong&gt;Lucky Maneuver&lt;/strong&gt;
-(melee 1 vs. Will; basic) that does light psychic damage and allows the
-misfortune devil to teleport 4 squares. If someone does manage to hit them with
-a melee or ranged attack, they ran react with &lt;strong&gt;Roll the Bones&lt;/strong&gt; (interrupt;
-encounter) to have the attack target another creature of their choice that’s
-within 5 squares.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions-1&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is one of those “attached to a unit” situations: Level 13,
-2 erinyes, 5 legion devils, and 2 misfortune devils. Almost identical to the one
-listed for erinyes, only it’s misfortune instead of chain devils following
-along.&lt;/p&gt;
-
-&lt;p&gt;These creatures are surprisingly fun, and might cause some intra-party friction
-among the PCs. With the interrupt ability it’s clear that it’s the misfortune
-devil causing a friendly fire incident, but the Ray of Distortion requires a
-conscious decision by the first target to work its special magic. Do you want to
-betray your beefy friend in order to avoid pain? C’mon, do it! What’s the worst
-thing that could happen?&lt;/p&gt;
-
-&lt;h2 id=&quot;shocktroop-devil&quot;&gt;Shocktroop Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-shocktroop.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For when a phalanx of bearded devils just isn’t shock-troop enough for the
-job. These Large winged devils perform a function a lot like that of mortal
-cavalry: units of them charge into enemy lines to break up tough formations,
-cause havoc, and slay as many as they can.&lt;/p&gt;
-
-&lt;p&gt;Shocktroop devils fly really fast and can’t be dismounted since they don’t
-&lt;em&gt;have&lt;/em&gt; mounts, but much like mortal cavalry they can end up losing momentum if
-they stay mired in the melee for too long. If that happens they’ll attempt to
-retreat, and will be back to fight once they’ve recovered.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;These are Level 16 Soldiers with 155 HP. They have darkvision, a ground speed of
-6, and a fly speed of 8. They lack any elemental resistances, which I think must
-be an error of some sort. I’d expect them to have 15 or 20 fire resistance. They
-wear plate and wield a sword and shield.&lt;/p&gt;
-
-&lt;p&gt;In any case, they’re protected by &lt;strong&gt;Asmodeus’s Shield&lt;/strong&gt;, a passive trait that
-gives them +2 to all defenses against divine powers while they’re unbloodied,
-and a -2 penalty to the same while bloodied. “Divine powers” means anything
-that’s not a basic weapon attack from any of the classes with the divine power
-source: clerics, paladins, avengers, invokers… I’d say it also covers any
-attacks by angels and the like.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;sword and shield&lt;/strong&gt; combination which, as a basic
-attack, can be used in a charge. It deals physical damage and triggers a
-secondary attack vs. Fortitude. A hit on that one pushes the target 2 squares
-and dazes them for a turn.&lt;/p&gt;
-
-&lt;p&gt;Once in the fray, they can increase their rythm and perform a &lt;strong&gt;Shocktroop
-Attack&lt;/strong&gt;, which allows them to make three Sword and Shield attacks in a single
-action, each against a different target. This encounter power recharges whenever
-the shocktroop devil has full HP, which means they can use this every turn until
-they’re damaged.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-impressions-2&quot;&gt;Sample Encounter and Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is level 16: 1 bone devil, 1 misfortune devil, and 3
-shocktroop devils. A command squad of sorts.&lt;/p&gt;
-
-&lt;p&gt;I’ll admit, the basic concept behind shocktroop devils seemed so bland when I
-first read through this book that I never took a good look at its stat block
-until now. It turns out they can be a lot of fun, and the designers managed to
-really capture that “cavalry” feeling with them.&lt;/p&gt;
-
-&lt;p&gt;The recharge condition on Shocktroop Attack means these monsters are more
-dangerous when deployed in groups as part of an encounter. The natural instinct
-of 4e players to focus-fire on a single monster at a time will work against them
-here, because it might keep the shocktroops they ignore at full HP for longer,
-allowing them to attack lots and lots and lots of times.&lt;/p&gt;
-
-&lt;p&gt;For extra Fun(TM), add a unit of leveled-up Infernal Armor Animi to your
-shock-troop devil vanguard.&lt;/p&gt;
-
-&lt;h2 id=&quot;withering-devil&quot;&gt;Withering Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-devil-withering.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Like Misfortune Devils, Withering Devils are soul collectors and members of the
-acquisitions department. However, they use a different strategy: their powers
-bend mortal minds towards apathy and depression, eroding their ability to care
-for their fellow sapients or for much of anything else.&lt;/p&gt;
-
-&lt;p&gt;In combat this translates into spells that slow enemies down and make them less
-effective, but these fiends are much more dangerous on a narrative scale. They
-can cause entire societies to succumb to plague, famine, and strife by
-targetting the people whose job was to prevent this and turning them into
-lazy shadows of their former selves. “Just open the economy up already, fighting
-this plague is too hard, I’m sure everything will work out”.&lt;/p&gt;
-
-&lt;p&gt;Though their natural appearance is horrible, they are adept at disguising
-themselves as mortals, either with magic or with heavy cloaks in dark rooms.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;These Medium devils are Level 14 Controllers with 138 HP. They have Darkvision,
-Resist Fire 15, and a ground speed of 6. The illustration gives them wings but
-they don’t fly, presumably because it’s too much of a bother.&lt;/p&gt;
-
-&lt;p&gt;Withering devils project an &lt;strong&gt;Aura of Weariness&lt;/strong&gt; (3) that weakens all enemies
-inside. Their basic melee attack is with the &lt;strong&gt;Staff of Weariness&lt;/strong&gt;, which has
-no funky riders despite the awesome name. At range they shoot &lt;strong&gt;Draining Rays&lt;/strong&gt;
-(ranged 20 vs. Reflex) that do psychic damage and immobilize for a turn. As a
-minor action they can use a &lt;strong&gt;Gaze of Apathy&lt;/strong&gt; (ranged 10 vs. Will; recharge
-5-6) which does no damage but slows (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounters-and-impressions&quot;&gt;Sample Encounters and Impressions&lt;/h3&gt;
-
-&lt;p&gt;Wow, I bet these things are really annoying to fight if positioned just behind a
-line of beefy front-liners so that their weakness aura affects the PCs.&lt;/p&gt;
-
-&lt;p&gt;The sample encounters do just that, either using bearded and legion devils as
-the front-line, or attaching the devil to a mixed-party of yuan-ti.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;That’s it for the devils in this book, but we’re not out of the D’s yet.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/11/devils-02.html</guid>
         
         <category>dnd4</category>
         
