@@ -67,6 +67,7 @@ variants here. Here they are, from A to Z:
     - [Gold][35]
     - [Iron][36]
     - [Silver][37]
+  - [Drakes][38]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -107,3 +108,4 @@ variants here. Here they are, from A to Z:
 [35]: {{ "/2021/07/31/dragon-gold.html" | relative_url }}
 [36]: {{ "/2021/08/01/dragon-iron.html" | relative_url }}
 [37]: {{ "/2021/08/02/dragon-silver.html" | relative_url }}
+[38]: {{ "/2021/08/04/drakes.html" | relative_url }}
