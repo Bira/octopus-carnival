@@ -68,6 +68,7 @@ variants here. Here they are, from A to Z:
     - [Iron][36]
     - [Silver][37]
   - [Drakes][38]
+  - [Drakkoth][39]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -109,3 +110,4 @@ variants here. Here they are, from A to Z:
 [36]: {{ "/2021/08/01/dragon-iron.html" | relative_url }}
 [37]: {{ "/2021/08/02/dragon-silver.html" | relative_url }}
 [38]: {{ "/2021/08/04/drakes.html" | relative_url }}
+[39]: {{ "/2021/08/05/drakkoth.html" | relative_url }}
