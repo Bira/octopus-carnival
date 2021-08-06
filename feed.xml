@@ -6,9 +6,208 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Aug 2021 10:48:56 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Aug 2021 10:48:56 +0000</lastBuildDate>
+    <pubDate>Fri, 06 Aug 2021 12:13:46 +0000</pubDate>
+    <lastBuildDate>Fri, 06 Aug 2021 12:13:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Duergar</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm-4e-duergar.webp&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Chronologically, the first appearance of Duergar in 4e is in the Monster Manual
+2, but they were also in the Monster Vault so we covered their basic lore
+&lt;a href=&quot;/octopus-carnival/2020/02/10/duergar.html&quot;&gt;here&lt;/a&gt;. In this post, we’ll covered the duergar that appeared in the MM2 but
+weren’t updated in the MV.&lt;/p&gt;
+
+&lt;h2 id=&quot;previously-on-octopus-carnival&quot;&gt;Previously on Octopus Carnival…&lt;/h2&gt;
+
+&lt;p&gt;For your information, these are the duergar entries we covered &lt;a href=&quot;/octopus-carnival/2020/02/10/duergar.html&quot;&gt;previously&lt;/a&gt;:
+Scout, Guard, Thug, Raid Leader, Infernal Consort, and Devil-Bred Duergar.&lt;/p&gt;
+
+&lt;p&gt;This still leaves us with a sizable selection of stat blocks that didn’t make it
+into the Monster Vault. They include some elite warrior types, and several
+Hell-themed spellcasters that resemble either warlocks or clerics.&lt;/p&gt;
+
+&lt;p&gt;As we saw in that earlier post, all duergar share two signature traits:
+resistance to fire and poison that increases with their level, and the ability
+to shoot out their Infernal Quills at someone, once per fight as a minor
+action. This has a Range of 3, does light physical damage and a tiny bit of
+ongoing poison damage. It also inflicts a -2 penalty to attack rolls. A single
+save ends both the ongoing damage and the attack penalty.&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-theurge&quot;&gt;Duergar Theurge&lt;/h2&gt;
+
+&lt;p&gt;The weakest of the spellcasters we’re going to look at here. Theurges wear robes
+and wield warhammers in melee. At range they fight with a number of spells
+themed around fire, smoke, and despair.&lt;/p&gt;
+
+&lt;p&gt;Despite the name they feel a bit more wizardly than the others, who are more
+clearly priests of some kind.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Theurges are Level 5 Controllers with 63 HP. They wear robes and fight with
+&lt;strong&gt;warhammers&lt;/strong&gt; in melee. Their basic ranged attacks are &lt;strong&gt;Hellbolts&lt;/strong&gt; (ranged 10
+vs. Reflex) that do fire damage.&lt;/p&gt;
+
+&lt;p&gt;They also have a few more powerful spells. &lt;strong&gt;Brimstone Hail&lt;/strong&gt; (recharge 5-6)
+does fire damage over a fireball-sized area and knocks targets prone on a
+hit. &lt;strong&gt;Vile Fumes&lt;/strong&gt; (recharges when first bloodied) does poison damage over the
+same area and blinds for a turn on a hit. And &lt;strong&gt;Wave of Despair&lt;/strong&gt; is a daily
+blast 5 vs. Will and does psychic damage, slows, and dazes (save ends both).&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-shock-trooper&quot;&gt;Duergar Shock Trooper&lt;/h2&gt;
+
+&lt;p&gt;Shock troopers are somewhat similar to the guards we saw in &lt;a href=&quot;/octopus-carnival/2020/02/10/duergar.html&quot;&gt;the first
+article&lt;/a&gt;, but stronger and more suited to open warfare. They wield mauls
+instead of puny warhammers and have the ability to grow bigger when the fight
+grows more intense!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Troopers are Level 6 Brutes with 84 HP. Their &lt;strong&gt;mauls&lt;/strong&gt; have no special effects
+aside from hitting hard, and their &lt;strong&gt;Infernal Quills&lt;/strong&gt; attack works as usual.&lt;/p&gt;
+
+&lt;p&gt;When first bloodied, they can &lt;strong&gt;Expand&lt;/strong&gt; as a free action, growing to size
+Large. This makes them take up 4 squares and pushes anyone who was adjacent to
+make room for their new bulk. It also gives them a +2 attack bonus and a +5
+damage bonus.&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-fleshtearer&quot;&gt;Duergar Fleshtearer&lt;/h2&gt;
+
+&lt;p&gt;With a name “Fleshtearer”, you’d expect this duergar to be a mindless berserker,
+but it’s actually a sneaky magical assassin that fights with claws made of smoke
+and can become invisible to better slice you with them and make your wounds
+bleed faster.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-number&quot;&gt;The Number&lt;/h3&gt;
+
+&lt;p&gt;Fleshtearers are Level 11 Lurkers with 89 HP. Their &lt;strong&gt;claws&lt;/strong&gt; also do ongoing
+damage. If they have combat advantage they can instead attack with a &lt;strong&gt;Quill
+Stab&lt;/strong&gt; that has the same effect as the signature Infernal Quills power as a
+melee attack. This one recharges whenever the duergar hits with the basic claw.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Underdark Sneak&lt;/strong&gt; (minor action) requires them to be in dim light or darkness,
+or adjacent to some cover. It makes them invisible for a turn or until right
+after they attack. &lt;strong&gt;Shadow Scourge&lt;/strong&gt; is a passive trait that builds on this by
+doubling the ongoing damage the duergar causes if it attacks from invisibility.&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-hellcaller&quot;&gt;Duergar Hellcaller&lt;/h2&gt;
+
+&lt;p&gt;This caster-type has focused their infernal magic on having the most fabulous
+set of quills in the Underdark. They can fire quills all day long, unlike their
+less well-endowed compatriots. Rounding out their arsenal is a small set of
+diabolic curses and summoning spells.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Hellcallers are Level 12 Artillery with 96 HP. They wield &lt;strong&gt;maces&lt;/strong&gt; for
+emergency, but as usual for artillery monsters the real interesting bits are the
+ranged attacks.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Infernal Quills&lt;/strong&gt; are an at-will Ranged 10 attack, and have the same
+effects as the encounter version for other duergar. They can momentarily
+increase their rate of fire to make this attack as a minor action, and to fire
+off a &lt;strong&gt;Quill Storm&lt;/strong&gt; (area 2 within 10 vs. Reflex) that covers an area and
+deals more ongoing damage than usual. Both of these special uses are encounter
+powers.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can also conjure &lt;strong&gt;Asmodeus’s Ruby Curse&lt;/strong&gt; (close blast
+5 vs. Will; enemies only) that deals psychic damage and slides those hits to the
+outside of the affected area. This movement &lt;em&gt;does&lt;/em&gt; provoke opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;If someone manages to get close enough to make a melee attack against the
+hellcaller, it can use &lt;strong&gt;Devilish Sacrifice&lt;/strong&gt; as an interrupt. This causes the
+duergar to shift beyond the attack’s reach, and to summon a legion devil
+hellguard into its former position. The attack targets the new minion, and if it
+misses the devil gets to act right after the hellcaller in the initiative order
+from now on.&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-blackguard&quot;&gt;Duergar Blackguard&lt;/h2&gt;
+
+&lt;p&gt;This evil paladin-type uses its martial skills and magic powers to isolate and
+pursue individual PCs across the battlefield. It wears plate and wields both a
+shield and a warhammer.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-3&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 13 Elite Soldier with 260 HP. Its basic attack is a &lt;strong&gt;Blighted
+Warhammer&lt;/strong&gt; that deals damage as usual and triggers a secondary attack against
+Fortitude with similar effects to the standard Infernal Quills power.&lt;/p&gt;
+
+&lt;p&gt;The blackguard’s own quills are a bit stronger than usual, replacing the
+standard power with a &lt;strong&gt;Quill Burst&lt;/strong&gt; that does the same damage in a Close Burst
+3 around the duergar.&lt;/p&gt;
+
+&lt;p&gt;The “isolate and pursue” part comes from a pair of abilities: &lt;strong&gt;Darkfire Mark&lt;/strong&gt;
+(minor action 1/round) marks an enemy and compels it to approach and attack the
+blackguard - if the enemy fails to do both in its next turn, it takes 10 fire
+and necrotic damage. &lt;strong&gt;Infernal Footwork&lt;/strong&gt; is a reaction that allows the
+blackguard to shift 2 squares in pursuit of an adjacent enemy who tries to get
+away from it. If that enemy is marked, the blackguard also gets to make a hammer
+attack against it.&lt;/p&gt;
+
+&lt;h2 id=&quot;duergar-blasphemer&quot;&gt;Duergar Blasphemer&lt;/h2&gt;
+
+&lt;p&gt;The strongest priest-type we’ll see here, weaker only than the Infernal Consort
+from the &lt;a href=&quot;/octopus-carnival/2020/02/10/duergar.html&quot;&gt;Monster Vault article&lt;/a&gt;. Like the Hellcaller, the Blasphemer also
+has Big Quill Energy, though its other magic is more focused on disruptive mind
+control effects.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-4&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Blasphemers are Level 14 Controllers (Leaders) with 140 HP who wield
+&lt;strong&gt;greatclubs&lt;/strong&gt; in battle. Like Hellcallers, they can fire &lt;strong&gt;Infernal Quills&lt;/strong&gt; at
+will and use a Quick Quill Strike once per encounter.&lt;/p&gt;
+
+&lt;p&gt;Aside from the quills, they have three spells:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Preach Submission&lt;/strong&gt; (Close burst 10 vs. Will; minor action 1/round) does no
+damage but marks on a hit (save ends). An already-marked target is instead
+knocked prone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Eyes of Asmodeus&lt;/strong&gt; (Ranged 10 vs. Fortitude) also does no damage, but
+weakens and marks for a turn on a hit. On a miss, or as an after-effect on a
+hit, the target is slowed (save ends). This combos nicely with Preach
+Submission to knock someone prone immediately.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sinner’s Slip&lt;/strong&gt; is an interrupt that redirects an attack made against the
+blasphemer to the attacker’s closest ally. If no allies can be targeted in
+this way the attacker is instead knocked prone and takes some psychic damage.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sample-encounter-and-final-impressions&quot;&gt;Sample Encounter and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;There’s one sample encounter here. It’s Level 4, consisting of 2 guards, 1
+scout, 1 theurge, and 4 orc drudges that are probably their slaves.&lt;/p&gt;
+
+&lt;p&gt;That sure is a lot of duergar, and it further increases the variety and level
+range of the available opposition if you want your PCs to go up against a whole
+fortress full of them.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/06/duergar.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/06/duergar.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Drakkoth</title>
@@ -1178,91 +1377,6 @@ the gods.&lt;/p&gt;
         <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/07/21/djinn.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/21/djinn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Direguard</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-direguard.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I had never heard of direguards before, but some quick googling tells me they
-first appeared in the Forgotten Realms Campaign Setting for AD&amp;amp;D 2nd Edition.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A direguard is a skeletal undead created by a specific ritual often known by
-liches and death knights. The ritual requires willing subjects, who retain their
-minds, combat skills, and powers. This comes at a price, however: in the book’s
-own words, they must “meet a quota of killing”, or they’ll be destroyed. I don’t
-know if this is a one time thing or if it’s more like “kill X people every
-month”. And of course they’re bound to the will of their creator.&lt;/p&gt;
-
-&lt;p&gt;Their FR lore is all tangled up with the whole Bane/Cyric situation.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Direguards are Medium Natural Humanoids with the Undead keyword. They have
-darkvision and truesight 10, and are immune to disease and poison. The rest of
-their traits varies per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;direguard-deathbringer&quot;&gt;Direguard Deathbringer&lt;/h3&gt;
-
-&lt;p&gt;Deathbringers are Level 8 Elite Artillery with the Leader keyword and 134
-HP. They have a ground speed of 7 and project a &lt;strong&gt;Command Aura&lt;/strong&gt; (4) that grants
-a +2 attack bonus to all allies inside. They can also issue a &lt;strong&gt;Vile Command&lt;/strong&gt;
-(close blast 3; recharge 5-6) that allows all affected allies to shift 2 squares
-and make a basic attack as a free action.&lt;/p&gt;
-
-&lt;p&gt;They fire &lt;strong&gt;Force Blasts&lt;/strong&gt; (Ranged 15 vs. Reflex) that do force damage and push
-the target 3 squares. On a miss, they do no damage but slow the target for a
-turn. &lt;strong&gt;Frightful Force&lt;/strong&gt; (recharge 4-6) allows them to fire three such blasts
-against different targets in a single action.&lt;/p&gt;
-
-&lt;p&gt;If forced into melee, the deathbringer’s &lt;strong&gt;Blazing Bone Claws&lt;/strong&gt; do force damage
-as well. And when they’re first bloodied, they summon some &lt;strong&gt;Force Armor&lt;/strong&gt;
-around themselves that grants a +4 bonus to AC and Reflex until they’re hit by
-an attack.&lt;/p&gt;
-
-&lt;p&gt;I’d say deathbringers are at home just behind the front line, or further back
-along with a cluster of artillery enemies with ranged basic attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;direguard-assassin&quot;&gt;Direguard Assassin&lt;/h3&gt;
-
-&lt;p&gt;Assassins are Level 11 Skirmishers with 111 HP. They’re made of shadow as much
-as they are made of bone, and fight with swords made of force magic. Their
-ground speed is 8.&lt;/p&gt;
-
-&lt;p&gt;That &lt;strong&gt;Force Blade&lt;/strong&gt; deals force damage, as expected, and once per encounter
-they can fling &lt;strong&gt;Dire Blades&lt;/strong&gt; to do the same amount of damage in a Close
-Burst 1. &lt;strong&gt;Mobile Assault&lt;/strong&gt; gives them a +2 attack bonus if they move at least 4
-squares before attacking, and &lt;strong&gt;Mist Walk&lt;/strong&gt; allows them to shift 2 squares and
-gain Insubstantial and Phasing for a turn when missed by a melee attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;There are no sample encounters here! I guess they could only spare one page for
-direguards, so there was no room.&lt;/p&gt;
-
-&lt;p&gt;I don’t care for the FR bits of their lore, but Deathbringers work nicely as
-commanders of mindless undead, and Assassins are good elite troops for someone
-like a skull lord to order around.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/07/21/direguard.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/21/direguard.html</guid>
         
         <category>dnd4</category>
         
