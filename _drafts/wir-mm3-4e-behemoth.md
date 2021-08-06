@@ -6,8 +6,19 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-behemoth.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 Behemoths were introduced in the first Monster Manual. As you can see
-[there][1], they're basically fantasy dinosaurs. Most of them resemble the
+[there][2], they're basically fantasy dinosaurs. Most of them resemble the
 dinosaurs we learned about as kids, but the "official" association is tenuous
 enough that behemoths don't have to change to conform to newer scientific
 developments.
@@ -23,10 +34,10 @@ not easy though, because mommy behemoths fight their hardest when protecting
 their nests and their young. Some of them also live in really hard to reach
 places.
 
-Even "tamed" behemoths aren't 100% safe. There's always a chance they'll flip
-out and turn on their handlers, and then escape to the wild after killing
-them. This _could_ happen in the middle of a battle, in which case the behemoth
-will attack enemy and former ally alike until it can run off.
+Even "tame" behemoths aren't 100% safe. There's always a chance they'll flip out
+and turn on their handlers, and then escape to the wild after killing them. This
+_could_ happen in the middle of a battle, in which case the behemoth will attack
+enemy and former ally alike until it can run off.
 
 
 ## The Monsters
@@ -62,16 +73,15 @@ charge attacks.
 
 Use pseudo-cavalry tactics for these: charge in from a distance, crash into the
 PCs, and then stay around to step on them and pin them down while your
-skirmishers and atrillery go to town on them. It's better if the charge comes in
-from a flank and hits the squishies, but since the PCs aren't an army that's
-difficult to arrange.
+skirmishers and atrillery have fun. It's better if the charge comes in from a
+flank and hits the squishies, but since the PCs aren't an army that's difficult
+to arrange.
 
 ### Skinwing Behemoth
 
 One of those giant pterodactyls. They nest in craggy mountains, and thieves
-often try to steal their eggs to seel to militiaries looking to start or
-maintain an air force. A lot of these thieves get killed by enraged skinwing
-parents.
+often try to steal their eggs to sell to kingdoms looking to start or maintain
+an air force. A lot of these thieves get killed by enraged skinwing parents.
 
 These Large behemoths are Level 7 Skirmishers with 79 HP. Their ground speed is
 a pitiful 2 (clumsy), but they fly at speed 8 (hover). That clumsiness means a
@@ -97,11 +107,11 @@ from taking off again.
 
 ### Spirehorn Behemoth
 
-I don't think this Huge creature has an analog in the real world. They're so big
-they can mount platforms transporting up to a dozen people, and they have big
-horns. They are the perfect vanity ride for your typical barbarian chieftain or
-hobgoblin general, so there is high demand for eggs and even for healthy
-adults. Lots of people die trying to get those.
+I don't think this Huge creature has an analog in the real world. At size Huge,
+they're so big they can mount platforms transporting up to a dozen people, and
+they have big horns. They are the perfect vanity ride for your typical barbarian
+chieftain or hobgoblin general, so there is high demand for eggs and even for
+healthy adults. Lots of people die trying to get those.
 
 Their actual battlefield use depends on the personality of their owners. Some
 are used like thrones and sit in a palace somewhere. Others are mobile
@@ -118,16 +128,15 @@ make **Double Attacks**. Once per encounter it can build up some speed and
 **Trample**, moving twice its speed. It can enter enemy spaces during this move
 and makes a free attack on each enemy whose space it enters.
 
-You're likely to see these in battles where you need to defend a fort or
-something similar, or when fighting enemy leaders. This makes them priority
-targets.
+You're likely to see these used in battle as living siege towers, or as carriers
+for enemy leaders. In either case they're going to be priority targets.
 
 ## Final Impressions
 
 Dinosaurs are awesome even when they're called Behemoths, and with the ones in
-this entry plus the others we've seen before you have enough build assemble a
-full force organization table for a fantasy army that uses most of them in
-different roles.
+this entry plus the others we've seen before you have enough assemble a full
+force organization table for a fantasy army that uses most of them in different
+roles.
 
 I think we even have enough "war beasts" at this point to make _themed_
 armies. Here's an example:
@@ -146,4 +155,5 @@ armies. Here's an example:
 
 And everyone uses drakes because most of them are so common and easily tamed.
 
-[1]: {{ "/2019/05/13/behemoth.html" | relative_url }}
+[1]: {{ "/projects/mm2-4e" | relative_url }}
+[2]: {{ "/2019/05/13/behemoth.html" | relative_url }}
