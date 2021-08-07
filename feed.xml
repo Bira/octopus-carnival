@@ -6,9 +6,180 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Aug 2021 12:13:46 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Aug 2021 12:13:46 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Aug 2021 19:23:33 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Aug 2021 19:23:33 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Eladrin</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-eladrin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;We already discussed the lore of the Eladrin &lt;a href=&quot;/octopus-carnival/2020/02/13/eladrin.html&quot;&gt;over here&lt;/a&gt;, along with how they
+differ from your standard elves and from the celestials of 3e. I recommend
+reading that post again for those basics.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual 2 contains three more eladrin stat blocks, along with a bit
+of additional lore on their society. I find it very funny that two of them
+correspond to very popular elfy classes of editions past, debuting in 4e in the
+form of monster entries. It would be some time before playable versions of them
+were published, which I imagine must have made their fans quite anxious.&lt;/p&gt;
+
+&lt;h2 id=&quot;eladrin-arcane-archer&quot;&gt;Eladrin Arcane Archer&lt;/h2&gt;
+
+&lt;p&gt;Arcane Archers are more than just wizards who can shoot a bow. They practice an
+art that’s seamless fusion of the two disciplines, and whose secrets are
+jealously kept by certain eladrin societies. The Bow Mage minions we saw in the
+MM1 are likely to practice the same style. This entry would represent a more
+advanced, experienced, or narratively important practitioner.&lt;/p&gt;
+
+&lt;p&gt;I don’t think we ever explicitly got an Arcane Archer class in 4e. The Seeker
+tries to implement the concept using primal magic but ends up not being very
+effective. I think there’s also a way to build a Bard specializing in magic
+ranged attacks with a bow.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Arcane Archers are Level 5 Artillery with 51 HP. Their speed is 6 and they have
+low-light vision, along with the standard Fey Step power all eladrin get.&lt;/p&gt;
+
+&lt;p&gt;In a fight, they stay at range and repeatedly fire &lt;strong&gt;Scorching Arrows&lt;/strong&gt; from
+their bows. This ability is kinda like a better version of the PC Ranger’s Twin
+Strike, allowing them to make two attacks that target the lower of AC and
+Reflex. The arrows have the same range as mundane ones, and individually deal a
+low-ish mix of physical and fire damage. This adds up, though: an arcane archer
+that consistently hits with both attacks punches a fair bit above its weight
+class.&lt;/p&gt;
+
+&lt;p&gt;They can also fire an arrow that explodes into an &lt;strong&gt;Eldricht Burst&lt;/strong&gt; (area burst
+1 within 20 vs Fortitude; recharge 4+). This deals force damage and knocks
+enemies prone on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;eladrin-bladesingers&quot;&gt;Eladrin Bladesingers&lt;/h2&gt;
+
+&lt;p&gt;Ah, bladesingers. I first heard of them in 2e and I can’t remember a more
+controversial class from that edition, at least here in the Brazilian fan
+community. People either really loved them or really hated them. While I was
+eventually convinced that their highly cinematic combat style was cool, I never
+liked that they were an elf-only option.&lt;/p&gt;
+
+&lt;p&gt;Anyway, 4e bladesingers are eladrin practitioners of an ancient martial art that
+joins swordplay and magic. The resulting style resembles something a Jedi knight
+or wuxia hero might use, employing lots of empowered sword strikes and
+magic-assisted acrobatic maneuvers. Their code of conduct has elegance as an
+important principle, so they put real effort into making their combat techniques
+both graceful and effective.&lt;/p&gt;
+
+&lt;p&gt;The same code also compels them to behave honorably, so they tend to treat
+opponents with respect and despise those who slaughter the weak and
+defenseless. Despite this, there are many possible reasons for even a party of
+good-aligned PCs to come into conflict with bladesingers: they might have
+offended the eladrin’s liege, or a given group of bladesingers might have fallen
+to the Dark Side of the Force.&lt;/p&gt;
+
+&lt;p&gt;You can get pretty close to a playable bladesinger by playing a Swordmage, and
+apparently there was also a “bladesinger” class published late in the
+edition. More obliquely, a Blade Pact Fey Warlock could also fit the concept.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;The MM2 bladesinger is a Level 11 Skirmisher with 114 HP. They have a very nice
+ground speed of 8, in addition to the low-light vision and Fey Step power all
+eladrin get.&lt;/p&gt;
+
+&lt;p&gt;They wear mail and wield a longsword, both of which are probably magical or at
+least very high quality. Their basic attack is a &lt;strong&gt;Brilliant Blade&lt;/strong&gt; strike,
+which deals radiant damage and gives the target a -3 penalty to attack the
+bladesinger during the target’s next turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dance of Brilliance&lt;/strong&gt; is an at-will combination that allows them to make an
+attack dealing light radiant damage, shift 3 squares, and make a basic Brilliant
+Blade attack against another target.&lt;/p&gt;
+
+&lt;p&gt;They have two encounter powers. &lt;strong&gt;Crippling Strike&lt;/strong&gt; targets Fortitude and deals
+no damage, but is guaranteed to slow the target even on a miss. On a hit it also
+weakens them. In both cases the conditions are “save ends”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wyvern Strike&lt;/strong&gt; is much better, allowing the bladesinger to fly 8 squares
+without provoking opportunity attacks and perform a strike at any poing along
+the movement. This targets Fortitude, deals light physical damage, and 10
+ongoing poison damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Finally there’s &lt;strong&gt;Combat Shift&lt;/strong&gt;. This allows them to shift 1 square as a minor
+action, ending up adjacent to an enemy against which they have combat advantage.&lt;/p&gt;
+
+&lt;h2 id=&quot;coure-of-mischief-and-strife&quot;&gt;Coure of Mischief and Strife&lt;/h2&gt;
+
+&lt;p&gt;Time for more surreal fey nobility! Like “bralani” and “ghaele”, “coure” is a
+noble title whose meaning can be a little confusing to mortals. One of the
+reasons for this is that while most eladrin societies use the same names for the
+titles, the actual rank they confer, and the amount of influence attached to
+them, varies from culture to culture. So in this city state ghaeles might be the
+rulers, but on that kingdom over there they’re just minor provincial nobles and
+it’s the coures who call the shots. Attaining a noble title is rarely a matter
+of inheritance - there’s a lot of mystery and mystycism involved.&lt;/p&gt;
+
+&lt;p&gt;Whatever their rank, though, these titles always have some natural phenomenon or
+abstract concept attached to them, like “autumn winds”, “winter”, or “mischef
+and strife” in this entry. The noble in question will always have powers
+relating to this area of influence.&lt;/p&gt;
+
+&lt;p&gt;So yeah, a coure of mischief and strife is a pointy-eared Loki.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;This coure is a Level 17 Lurker with 129 HP. It has the usual low-light vision
+and Fey Step ability, which in this case is completely redundant because the
+coure also has a teleport speed of 6 to complement its ground speed of 6. It
+wears leathers and fights with a &lt;strong&gt;rapier&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The coure can become &lt;strong&gt;invisible&lt;/strong&gt; at will as a standard action, and this lasts
+until it takes damage or &lt;em&gt;misses&lt;/em&gt; with an attack. If it attacks and hits, it
+stays invisible! If for some reason the eladrin doesn’t already starts the fight
+invisible, this is going to be its very first action.&lt;/p&gt;
+
+&lt;p&gt;Once the invisible trickster is close to the party, &lt;strong&gt;Winds of Luck’s Mischief&lt;/strong&gt;
+is a good fight opener: a Close Burst 3 vs. Will that does no damage, but makes
+everyone it affects miss all attacks whose attack rolls were odd. This is a
+“save ends” condition, so it might stick around for a while! Good luck trying to
+damage an invisible enemy when half of your blows veer off course.&lt;/p&gt;
+
+&lt;p&gt;While invisible the coure can also use &lt;strong&gt;Spark of Strife&lt;/strong&gt;, a Ranged 10 attack
+vs. Will that deals psychic damage and is stronger than the rapier. A hit also
+forces the target to charge its nearest ally, or make a melee basic attack if
+it’s already close. This compelled attack is a free action, so it doesn’t eat
+into the PC’s turn. However, if the compelled attack hits, the coure gets to use
+Spark of Strife against the ally that was hit by it as a free action as well! A
+series of lucky rolls is going to rapidly turn the party’s well-tuned battle
+formation into a Three Stooges skit.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter here is level 10: 3 bladesingers, an eladrin twilight
+incanter from the first MM, and a will-o’-wisp which I guess might be the
+incanter’s familiar.&lt;/p&gt;
+
+&lt;p&gt;I love how the different eladrin celestial types from 3e became a bizarre system
+of nobility ranks with a lot of that good faerie flavor. As one rises in rank,
+one becomes less tied to the mortal world.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/07/eladrin.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/07/eladrin.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Duergar</title>
@@ -1184,199 +1355,6 @@ turn and has a -2 attack penalty (save ends) as an after-effect.&lt;/p&gt;
         <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/07/28/dragon.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/28/dragon.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Djinn</title>
-        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Djinns are inspired by the same real world Arabic folklore that inspired
-efreets, and they’ve been in the game since at least BECMI.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Djinns are some of the most ancient sapient elementals, on par with efreets
-(which we saw in the &lt;a href=&quot;/octopus-carnival/2020/02/11/efreet.html&quot;&gt;first Monster Manual/Vault Let’s Read&lt;/a&gt;). They’re
-aspected to Air, and in the book’s own words, are “Ingenious Engineers of the
-Fabulous”.&lt;/p&gt;
-
-&lt;p&gt;Back in the day, the djinn built entire civilizations in the Elemental
-Chaos. Theirs were shining palaces filled with treasure beyond mortal
-comprehension, and great gleaming cities built on mobile floating
-platforms.&lt;/p&gt;
-
-&lt;p&gt;When the Dawn War came, the djinns chose to side with the primordials, which I
-suppose they saw as the pragmatic choice. After all, their own empire was
-outside the world, and the stronger primordials looked like they had a better
-chance of winning. In the end, though, they chose wrong.&lt;/p&gt;
-
-&lt;p&gt;The gods scattered the djinns as punishment for their deeds in the war, and
-imprisoned many of them in objects such as rings, lamps, or other artifacts. The
-ones that remained free had their powers severely reduced. Over the ages a lot
-of those artifacts and a lot of djinn relics made their way to other planes and
-to the world.&lt;/p&gt;
-
-&lt;p&gt;So yeah, it’s totally possible for a PC to find the proverbial magic lamp. It’s
-up to the GM whether the magic that binds the djinn inside forces it to serve
-the bearer, though. If it does, then these relics are super-powerful! Even if
-the djinn can’t grant wishes like in the stories, it’s still an epic-level
-creature full of magic powers.&lt;/p&gt;
-
-&lt;p&gt;The djinns who remained free, and those who freed themselves over the ages,
-mostly busy themselves with roaming the planes looking for the remains of their
-ancient civilization, with the goal of rebuilding it. I would guess they had
-some success in that, but that it’s still nowhere up to its former heights of
-glory.&lt;/p&gt;
-
-&lt;p&gt;The djinns presented here are all Unaligned, which implies that as a people they
-are mostly interested in picking up the pieces of their civilization than in
-going a-conquering or enslaving others. They can still get into conflict with
-PCs who (knowingly or not) keep those pieces from returning to their original
-owners. Hold on to that lamp for too long and its inhabitant’s friends will show
-up at your door with some very pointed questions. I can’t say they’d be wrong to
-do so.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Djinns are Large Elemental Humanoids with the Air keyword. They have Blindsight
-10, an immunity to disease and poison, Resist 15 Thunder, a ground speed of 6
-and a flight speed of 8. The least intelligent djinn in this entry nas an Int of
-19, so the ingenious engineers are also geniuses. Their level range covers the
-early-to-mid Epic tier, making them only slightly weaker than efreets.&lt;/p&gt;
-
-&lt;p&gt;Most djinn powers have an air or storm theme, but they vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;djinn-thunderer&quot;&gt;Djinn Thunderer&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-djinn-thunderer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Thunderers are Level 20 Artillery with 146 HP and all djinn traits. They wield
-jeweled scepters and strong air magic in combat.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Scepter&lt;/strong&gt; mostly acts as an implement, but can be used as a Reach 2 basic
-melee attack in a pinch. Their main ranged attack is a &lt;strong&gt;Thunderburst&lt;/strong&gt; (area
-burst 2 within 20 vs. Fortitude), which does thunder damage and dazes for a
-turn. Once per encounter they can use &lt;strong&gt;Imperious Thunder&lt;/strong&gt;, which targets
-Reflex and which has the same area and damage but instead of dazing causes 10
-ongoing thunder damage (save ends) &lt;em&gt;even when it misses&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The thunderer can avoid getting boxed in with &lt;strong&gt;Zephyr Step&lt;/strong&gt; (minor; recharge
-6), which allows it to teleport 20 squares. If it takes damage from a critical
-hit, it will respond with &lt;strong&gt;Rage of Storms&lt;/strong&gt; (close burst 2 vs. Reflex; free
-action, encounter). This does high thunder damage, pushes hit targets 5 squares,
-and gives the djinn 1 action point as an effect, which it can use normally later
-on.&lt;/p&gt;
-
-&lt;h3 id=&quot;djinn-windbow&quot;&gt;Djinn Windbow&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-djinn-windbow.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Windbows are Level 22 Skirmishers with 204 HP and all standard djinn
-traits. They wield bows that fire arrows made out of wind, and this might lead
-PCs to think they’re artillery. However, they’re equally good at melee and
-ranged combat.&lt;/p&gt;
-
-&lt;p&gt;Their basic ranged attack is the &lt;strong&gt;Windbow&lt;/strong&gt; (Ranged 10/20), and their basic
-melee attack the &lt;strong&gt;Slash of Thunder&lt;/strong&gt;. Both do about the same amount of damage,
-which is thunder for the Slash and physical for the bow.&lt;/p&gt;
-
-&lt;p&gt;The djinn can cause one of their arrows to turn into a &lt;strong&gt;Brutal Zephyr&lt;/strong&gt; (Ranged
-30 vs. Reflex), which does thunder damage and is a bit stronger than the usual
-attack. If this misses, the windbow gets to choose a different target within 10
-squares of the original one and re-roll the attack against them.&lt;/p&gt;
-
-&lt;p&gt;If damaged by a critical hit they can use &lt;strong&gt;Blowback&lt;/strong&gt;, which works exactly like
-the Thunderer’s Rage of Storms.&lt;/p&gt;
-
-&lt;h3 id=&quot;djinn-stormsword&quot;&gt;Djinn Stormsword&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-djinn-stormsword.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Stormswords fight with scimitars and train to form whirlwinds that pull enemies
-towards their blades. They’re Level 24 Soldiers with 222 HP and all standard
-djinn traits, plus Resist 15 Lightning.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Scimitars&lt;/strong&gt; are Reach 2, high-crit weapons that mark for a turn on a
-hit. Their printed critical damage is 9d10+33, and it would be even higher with
-a math fix. They can also use a technique named &lt;strong&gt;Whirlwind Dervish&lt;/strong&gt; (close burst 2
-vs. AC; encounter) which does heavy thunder and lightning damage and recharges
-when they’re critically hit.&lt;/p&gt;
-
-&lt;p&gt;Stormswords can drag targets into range with &lt;strong&gt;Come To Me&lt;/strong&gt; (Ranged 5
-vs. Fortitude; minor action), which does no damage but pulls the targets 5
-squares. They can sometimes intensify that into a &lt;strong&gt;Spinning Vortex&lt;/strong&gt; (Ranged 5
-vs. Reflex; recharge 6), which does heavy cold and thunder damage, and
-immobilizes (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;djinn-skylord&quot;&gt;Djinn Skylord&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-djinn-skylord.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Skylords are djinn spell-casters, specializing in sky- and weather-themed
-magic. They’re Level 25 Controllers with the Leader keyword and 236 HP along
-with all standard djinn traits.&lt;/p&gt;
-
-&lt;p&gt;Their main weapon/implement is the &lt;strong&gt;Storm Staff&lt;/strong&gt; (reach 2 vs. AC), which does
-physical damage and allows the djinn to shift 2 squares or make an extra
-recharge roll for &lt;strong&gt;Storm Shout&lt;/strong&gt;. This, in turn, is a Close Blast 5 vs. Will
-that does heavy thunder damage, pushes 3 squares, and knocks prone. It recharges
-on a 5-6.&lt;/p&gt;
-
-&lt;p&gt;The skylord’s main ranged attack is &lt;strong&gt;Mystic Hail&lt;/strong&gt; (ranged 20 vs. Will), which
-does psychic damage and makes the target grant combat advantage to the
-djinn. This lasts until the target spends a standard action clearing their head,
-which is a heavier cost than having to roll a save. This works as a nice setup
-for &lt;strong&gt;Sandstorm&lt;/strong&gt; (Close Burst 5 vs. Will), which does heavy physical damage and
-creates a zone. Allies inside the zone gain concealment, and enemies starting
-their turns inside are dazed for a turn. This can be sustained with a minor
-action. And finally, the djinn can also use a minor action (1/round) to use
-&lt;strong&gt;Elemental Command&lt;/strong&gt; (ranged 10), which always hits, does no damage, and slides
-the target 1 square.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Djinns are said to mostly hang out with their own kind, and the two sample
-encounters (level 22 and 26) bear this out. They’re assorted djinn parties,
-likely journeying after relics of their old empire. The first one has a couple
-of rimefire griffon pets, the second has 2 storm gorgons.&lt;/p&gt;
-
-&lt;p&gt;Djinns are cool, and I like that they’re presented as not necessarily
-hostile. Unlike in previous edition they’re not in an eternal war against the
-efreets, though I imagine they don’t often have friendly interactions all that
-often either. It might also be interesting to take a page from Middle Eastern
-folklore here and say that many djinn in the present are devout worshippers of
-the gods.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/07/21/djinn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/07/21/djinn.html</guid>
         
         <category>dnd4</category>
         
