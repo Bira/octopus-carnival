@@ -71,6 +71,9 @@ variants here. Here they are, from A to Z:
   - [Drakkoth][39]
   - [Duergar][40]
 
+- E
+  - [Eladrin][41]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -113,3 +116,4 @@ variants here. Here they are, from A to Z:
 [38]: {{ "/2021/08/04/drakes.html" | relative_url }}
 [39]: {{ "/2021/08/05/drakkoth.html" | relative_url }}
 [40]: {{ "/2021/08/06/duergar.html" | relative_url }}
+[41]: {{ "/2021/08/07/eladrin.html" | relative_url }}
