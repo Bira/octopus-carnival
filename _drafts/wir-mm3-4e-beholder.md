@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 Beholders appear in every 4e Monster Manual and also in the Monster
 Vault. They're apparently too iconic to leave out! In this entry, we get spooky.
 
@@ -91,6 +93,15 @@ three rays.
 
 ## Ghost Beholder
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-beholder.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 While the Eye of Shadow is merely goth, this one is actually undead. Beholders
 are stubborn and hateful creatures at the best of times, so it's natural that
 some of them will linger on as ghosts after they die or are killed. This usually
@@ -150,3 +161,5 @@ As for the spawn, I'd probably reskin them into something else. The idea of
 mobile flying artillery minions is sound, but the thought of fighting beholder
 "children" is a bit disturbing and I'm partial to the idea that beholders spawn
 as fully-grown nightmares given form.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
