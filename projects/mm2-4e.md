@@ -117,3 +117,4 @@ variants here. Here they are, from A to Z:
 [39]: {{ "/2021/08/05/drakkoth.html" | relative_url }}
 [40]: {{ "/2021/08/06/duergar.html" | relative_url }}
 [41]: {{ "/2021/08/07/eladrin.html" | relative_url }}
+[42]: {{ "/2021/08/10/elemental.html" | relative_url }}

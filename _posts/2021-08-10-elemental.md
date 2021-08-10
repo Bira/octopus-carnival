@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 Technically, any creature with the "elemental" origin is an elemental, but as we
 saw in the [Elemental][2] entry from the first monster manual the name is also
 used for a particularly wild subset of that plane's denizens.
@@ -346,4 +348,5 @@ all kinda started blurring together by the end. I almost wish we had gotten an
 elemental "plug-in" module for the 4e monster design system rather than this
 long list full of angry rock giants and angry living tornadoes.
 
+[1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2020/02/16/elemental.html" | relative_url }}
