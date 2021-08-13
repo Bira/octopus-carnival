@@ -73,6 +73,10 @@ variants here. Here they are, from A to Z:
 
 - E
   - [Eladrin][41]
+  - [Elemental][42]
+
+- F
+  - [Fell Taint][43]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -118,3 +122,4 @@ variants here. Here they are, from A to Z:
 [40]: {{ "/2021/08/06/duergar.html" | relative_url }}
 [41]: {{ "/2021/08/07/eladrin.html" | relative_url }}
 [42]: {{ "/2021/08/10/elemental.html" | relative_url }}
+[43]: {{ "/2021/08/13/fell-taint.html" | relative_url }}
