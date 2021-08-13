@@ -69,6 +69,15 @@ surrounded.
 
 ### Chained Cambion
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm3-4e-cambion-chained.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Chained cambions are exactly what it says on the tin: cambions bound up in
 chains, with iron masks affixed to their faces. I'm guessing this is what
 happens when someone tries to imprison a cambion and it kinda-sorta breaks
@@ -135,4 +144,5 @@ Cambions are... okay I guess? The mechanics in this entry are interesting, but
 the lore doesn't quite get me going. I feel I can make some use of the infernal
 scion, but the others don't make stories jump to my mind just from reading them.
 
+[1]: {{ "/projects/mm3-4e.html" | relative_url }}
 [2]: {{ "/2019/07/25/cambion.html" | relative_url }}
