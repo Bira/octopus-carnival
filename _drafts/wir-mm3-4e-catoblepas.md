@@ -24,7 +24,7 @@ be. Their long necks are always bent down due to the great weight of their
 heads, which is where their name comes from.
 
 D&D catoblepones are creatures of shadow and death. They are native to the
-Shadowfell but has a natural ability to wander between worlds. People believe
+Shadowfell but have a natural ability to wander between worlds. People believe
 they appear in places that are about to be stuck by tragedy, which is kinda true
 since the beast's breath and gaze are deadly. They're associated with the Raven
 Queen and sometimes show up as part of her entourage.
@@ -71,11 +71,9 @@ damage and inflicts ongoing poison damage.
 
 If someone within 5 squares of the harbinger willingly tries to move away from
 it, they're subject to the beast's **Final Glance**, an opportunity action that
-targets Will and has complicated effects.
-
-A victim hit by the glance takes 5 necrotic damage and becomes Vulnerable 5 to
-all damage (save ends). When they pass that save, they take another 10 necrotic
-damage.
+targets Will. A victim hit by the glance takes 5 necrotic damage and becomes
+Vulnerable 5 to all damage (save ends). When they pass that save, they take
+another 10 necrotic damage.
 
 ### Catoblepas Tragedian
 
