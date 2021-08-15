@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-fey-lingerer.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 I think it's fair to say that eladrins can be overachievers. Their societies
 produce a lot of gallant knights and powerful spellcasters, who go on to
 accumulate glory and renown to their name. They'll be the first to say the world
@@ -144,3 +155,5 @@ I think fey lingerers are really interesting! Though I described them as "Lich
 Lite", I actually think they're a bit more flavorful than standard liches, what
 with the whole "become a vengeful ghost" mechanic. I always felt D&D 4 could
 have done a lot more with such multi-stage enemies.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}

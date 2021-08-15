@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This article is part of a series! Click [here][1] to see the other entries.
+
 I _think_ fell taints are new to 4e - at least, this book is where I first heard
 of them. If they showed up in previous editions, it was probably in 3e.
 
@@ -97,3 +99,5 @@ such might also know how to bind them.
 As a party's first contact with the Far Realm, I think these creatures are quite
 nifty. They look weird enough to unsettle, and each has a single distinctive
 mechanical trick.
+
+[1]: {{ "/projects/mm-4e/" | relative_url }}
