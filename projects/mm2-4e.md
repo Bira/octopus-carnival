@@ -78,6 +78,7 @@ variants here. Here they are, from A to Z:
 - F
   - [Fell Taint][43]
   - [Fey Lingerer][44]
+  - [Firbolg][45]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -125,3 +126,4 @@ variants here. Here they are, from A to Z:
 [42]: {{ "/2021/08/10/elemental.html" | relative_url }}
 [43]: {{ "/2021/08/13/fell-taint.html" | relative_url }}
 [44]: {{ "/2021/08/15/fey-lingerer.html" | relative_url }}
+[45]: {{ "/2021/08/17/firbolg.html" | relative_url }}
