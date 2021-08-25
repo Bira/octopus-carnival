@@ -6,9 +6,201 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Aug 2021 10:35:50 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Aug 2021 10:35:50 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Aug 2021 18:45:18 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Aug 2021 18:45:18 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Fomorian</title>
+        <description>&lt;p&gt;Fomorians first appeared in the first Monster Manual, and we covered them
+&lt;a href=&quot;/octopus-carnival/2020/03/07/fomorian.html&quot;&gt;here&lt;/a&gt;. This entry gives us more fomorian stat blocks, and a few more bits of
+lore.&lt;/p&gt;
+
+&lt;p&gt;First, we have a bit of general lore, which is really a logical extension of the
+fact that Fomorians believe themselves the most important creatures in the
+universe. They hate all other fey, but that hate manifests as a desire to
+subjugate rather than exterminate them. Their perfect world is one where
+fomorians rule absolute over the Feywild and have all its other inhabitants
+forever toiling to please their masters.&lt;/p&gt;
+
+&lt;p&gt;Because of this obsession, fomorians are eternally at war with the other fey
+civilizations. It’s likely they’ll never succeed in conquering all of the
+Feywild, but they’ll never stop trying either. I suppose there must also be some
+level of internecine strife among them, because it seems to be they’re very
+likely to fight over who gets to be supreme ruler.&lt;/p&gt;
+
+&lt;p&gt;The remaining bits of lore concern the individual stat blocks here, and so will
+be covered in those stat blocks.&lt;/p&gt;
+
+&lt;p&gt;Numbers-wise, fomorians still retain their common traits from the &lt;a href=&quot;/octopus-carnival/2020/03/07/fomorian.html&quot;&gt;first
+article&lt;/a&gt;: they’re Huge Fey Humanoids with the Giant keyword; they’re
+extremely perceptive (trained Perception, Truesight 6); and they have some sort
+of “evil eye” ability that varies per stat block.&lt;/p&gt;
+
+&lt;h2 id=&quot;fomorian-ghost-shaman&quot;&gt;Fomorian Ghost Shaman&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-ghost-shaman.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Ghost shamans are necromancers who enslave the spirits of those they kill. They
+command these spirits as if they were puppets, enacting sadistic plays for their
+own amusement. They also use enslaved spirits as weapons in combat.&lt;/p&gt;
+
+&lt;p&gt;Ghost shamans are Level 16 Elite Controllers with 312 HP. They have darkvision
+in addition to the other fomorian traits. All of their attacks are magical in
+nature and, except for the Evil Eye, target Fortitude. Their basic melee attack
+is &lt;strong&gt;Death’s Touch&lt;/strong&gt;, which deals necrotic damage and slows (save ends). Their
+&lt;strong&gt;Evil Eye&lt;/strong&gt; is a minor-action ranged attack that inflicts ongoing necrotic
+damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;At will, they can use &lt;strong&gt;Spirits of Possession&lt;/strong&gt; (close blast 3), which targets
+people taking ongoing necrotic damage and dominates them on a hit (save ends). A
+bit less often they can use &lt;strong&gt;Darksoul Mist&lt;/strong&gt;, which is like a necrotic fireball
+that leaves a zone of darkness in the affected area. This blocks line of sight
+for anyone without darkvision.&lt;/p&gt;
+
+&lt;h2 id=&quot;fomorian-cackler&quot;&gt;Fomorian Cackler&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-cackler.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cacklers are sly but unhinged assassins who get their name because they
+constantly laugh a disturbing laugh. They can be silent when they want to be,
+though, and are amazingly stealthy for someone the size of a house. They can
+also use magic to shrink down to Medium size, which helps a lot.&lt;/p&gt;
+
+&lt;p&gt;Cacklers are also excellent at disguising themselves, since their minds can
+easily construct entire fake personalities to aid in that. It’s possible for
+previously discarded personalities to momentarily come to the fore again,
+though, which is part of why they’re so unstable.&lt;/p&gt;
+
+&lt;p&gt;They fight with &lt;strong&gt;daggers&lt;/strong&gt; bigger than the average human greatsword, which they
+can use in melee or throw out to range 10. The thrown dagger attack can target
+one or two enemies, and they return after it resolves.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Evil Eye&lt;/strong&gt; makes them invisible to the affected enemy, and they get a
+big bonus to damage against targets that can’t see them. &lt;strong&gt;Size Alteration&lt;/strong&gt;
+lets them switch between Huge and Medium as a minor action.&lt;/p&gt;
+
+&lt;h2 id=&quot;fomorian-totemist&quot;&gt;Fomorian Totemist&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-totemist.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Totemists are fomorian spellcasters that collect the heads of those they kill
+and build chains out of them. Each head in the chain is imbued with necromantic
+power, and can channel a different curse. Most totemists have a preference for a
+particular type of head - one might favor eladrin heads, another dwarves, and so
+on. Some of them select prospective additions to their chains year in advance,
+following the lives of their future victims until the time is right for the
+“harvest”.&lt;/p&gt;
+
+&lt;p&gt;Totemists are Level 18 Elite Skirmishers with 352 HP. They fight with the
+afore-mentioned &lt;strong&gt;Chain of Heads&lt;/strong&gt;, which is Reach 4, does physical damage and
+inflicts ongoing necrotic damage. They can also channel curses through the chain
+as a minor action, with an ability with the very unfortunate name of
+&lt;strong&gt;Voodoo&lt;/strong&gt;. There are three possible effects: the &lt;strong&gt;Glorious Head&lt;/strong&gt; blinds, the
+&lt;strong&gt;Wasting Head&lt;/strong&gt; weakens, and the &lt;strong&gt;Bewildering Head&lt;/strong&gt; forces the target to make
+a melee basic attack against an ally in reach. After attacking, the totemist can
+shift 1 square.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Evil Eye&lt;/strong&gt; does light necrotic damage and inflicts a -2 penalty to
+saves, which helps that blindness or weakness last longer. And finally we have
+&lt;strong&gt;Fresh Rage&lt;/strong&gt;, a passive trait that makes their first succesfful attack in
+their turn deal extra damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;fomorian-blinder&quot;&gt;Fomorian Blinder&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-blinder.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Blinders have more specialized and discerning tastes than totemists. They
+collect &lt;em&gt;eyes&lt;/em&gt; instead of lugging whole heads around. Blinders are the scholars
+and sages of fomorian-kind, acting as repositories of their civilization’s
+lore. They’re also very good at eye-based magic - if anyone knows how to make a
+defense against the Evil Eye, it’s them.&lt;/p&gt;
+
+&lt;p&gt;Blinders are Level 20 Elite Artillery with 296 HP. They use &lt;strong&gt;quarterstaffs&lt;/strong&gt;
+for melee combat but their forte is eye magic. &lt;strong&gt;Acid Eye&lt;/strong&gt; is a ranged attack
+that deals acid and necrotic damage, and whose enervating properties prevent the
+use of encounter or daily powers for a turn. &lt;strong&gt;Shower of Ichor&lt;/strong&gt; (encounter)
+deals the same damage over a wider area, and also inflicts ongoing acid and
+necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;The blinder’s actual &lt;strong&gt;Evil Eye&lt;/strong&gt; is quite powerful: it does no damage by
+itself, but someone cursed by it will take the same damage the fomorian inflicts
+on other enemies with their other attacks. It ends when the victim saves
+successfully, or when the fomorian uses this on someone else.&lt;/p&gt;
+
+&lt;p&gt;Ironically, blinders have no abilities that actually blind people.&lt;/p&gt;
+
+&lt;h2 id=&quot;fomorian-butcher&quot;&gt;Fomorian Butcher&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-butcher.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Butchers are big fomorians with big blades who like to cut people up for
+fun. Such simplicity is a bit disappointing after we saw all those esoterically
+evil fomorian casters and assassins, but they’re still very dangerous and just
+as ambitious. In fact, they go to absurd lengths to fulfill their serial-killer
+urges, and will often trade their souls to devils and make other dangerous deals
+in exchange for more power.&lt;/p&gt;
+
+&lt;p&gt;Butchers are Level 22 Elite Brutes with 514 HP. They use titan-sized
+&lt;strong&gt;falchions&lt;/strong&gt;, which are High-Crit weapons. They’re all about focusing on a
+single victim and hacking them apart with repeated strikes: when they score a
+critical, they can make another free attack with the falchion against the same
+victim, and their attacks deal a bunch of extra damage against a victim they
+already hit earlier in the same turn. Their &lt;strong&gt;Evil Eye&lt;/strong&gt; restrains (save ends).&lt;/p&gt;
+
+&lt;p&gt;There are several ways they can get that extra damage from a “subsequent” hit:
+the bonus attack from a critical, spending an action point to attack again, and
+I’d say hitting with the Evil Eye also counts for this. So they’ll always try
+that before swinging their blades.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Most of the sample encounters here are “Assorted Fomorians” from this book and
+the MM. One of them also involves drow and Lolthbound Goblins. Generally
+speaking you can also frequently find fomorians accompanied by cyclops slaves,
+or by other evil fey they’ve enslaved or allied with. Devils could also make an
+appearance, since it seems Fomorian diabolists are somewhat common.&lt;/p&gt;
+
+&lt;p&gt;This lot is quite a bit more flavorful than the fomorians in the MM, and the
+extra lore does justice to the basics laid down by the first book. “Voodoo” is a
+very unfortunate name for an ability, but it’s easy enough to change.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Firbolg</title>
@@ -1599,145 +1791,6 @@ Dragon in my next game.&lt;/p&gt;
         <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/02/dragon-silver.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/02/dragon-silver.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Iron Dragon</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-dragon-iron.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Iron Dragons were bit players in 3e, appearing in Dragon Magazine #356 seemingly
-as part of an effort to make a dragon for each element in the periodic table. In
-4e, they are promoted to the Monster Manual 2 alongside adamantine dragons to
-replace the bronze &amp;amp; brass duo that was removed.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Iron dragons are kind of the black sheep of the metallic family, since unlike
-most of their relatives they’re surly, anti-social, and underhanded. They lair
-in isolated places and prefer terrain that contains plenty of hills, forests,
-and other features that provide plenty of hiding spots for large predators such
-as themselves.&lt;/p&gt;
-
-&lt;p&gt;They still gather followers and henchthings with the promise of generous pay
-and/or loot, but they see those as expendable dupes. They’ll send those
-followers first to intercept any intruders, and will only join the fight
-themselves if doing so looks like it will bring victory. If the hench-people are
-severely outmatched, the dragon will get away and leave them to their fate.&lt;/p&gt;
-
-&lt;p&gt;As you might have gathered, iron dragons are sneaky and prefer to attack from
-ambush. They breathe lightning, and their metallic scales become tougher the
-older they get.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Iron dragons are Solo Lurkers, and have Darkvision like all other
-dragons. They’re not actually very lurkery aside from a basic level of
-sneakiness (Stealth training). Their abilities focus on damage mitigation with a
-side order of control, all on top of the standard dragon loadout.&lt;/p&gt;
-
-&lt;p&gt;Young’uns start out Large, growing to Huge at Elder and Gargantuan at
-Ancient. They have Resist Lightning 15, increasing by 5 per age category beyond
-Young. Their speed starts out at 8 both in the ground and in the air, growing to
-9/9 at Elder and 9/10 at Gargantuan.&lt;/p&gt;
-
-&lt;h3 id=&quot;young-iron-dragon&quot;&gt;Young Iron Dragon&lt;/h3&gt;
-
-&lt;p&gt;Young iron dragons are Level 5 with 268 HP. They have a &lt;strong&gt;bite&lt;/strong&gt; that does a mix
-of lightning and physical damage, and a &lt;strong&gt;claw&lt;/strong&gt; that does about half that in
-physical damage. The usual &lt;strong&gt;Double Attack&lt;/strong&gt; allows them to claw twice, allowing
-them to spread some damage around.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Breath Weapon&lt;/strong&gt; does lightning damage, as described earlier, and also
-pulls 3 squares on a hit. Maybe it magnetizes the dragon for a moment?
-&lt;strong&gt;Bloodied Breath&lt;/strong&gt; and &lt;strong&gt;Frightful Presence&lt;/strong&gt; are here and work as usual.&lt;/p&gt;
-
-&lt;p&gt;There’s also &lt;strong&gt;Wing Block&lt;/strong&gt;, an interrupt with triggers when the dragon is hit
-by a melee attack. This gives the dragon Resist 5 against that attack, and
-allows it to make a melee attack dealing light physical damage against the
-attacker.&lt;/p&gt;
-
-&lt;h3 id=&quot;adult-iron-dragon&quot;&gt;Adult Iron Dragon&lt;/h3&gt;
-
-&lt;p&gt;This one is Level 11 with 472 HP and all the traits of a youngster with bigger
-numbers. No new abilities appear at this level.&lt;/p&gt;
-
-&lt;h3 id=&quot;elder-iron-dragon&quot;&gt;Elder Iron Dragon&lt;/h3&gt;
-
-&lt;p&gt;Elders are Level 19 and have 740 HP. They have all of the adult’s abilities,
-again with bigger numbers all around. Their Double Attack turns into a &lt;strong&gt;Triple
-Attack&lt;/strong&gt;, allowing for three claw swipes with a single action.&lt;/p&gt;
-
-&lt;p&gt;They also gain &lt;strong&gt;Wing Defense&lt;/strong&gt; (minor action; recharge 5-6), which grants the
-dragon a +2 bonus to all defenses for a turn. As long as it keep recharging,
-they can keep using it every turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;ancient-iron-dragon&quot;&gt;Ancient Iron Dragon&lt;/h3&gt;
-
-&lt;p&gt;Ancients are Level 26 with 992 HP. They have all of the elder’s abilities and
-gain two new ones:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Predator’s Response&lt;/strong&gt; is a reaction that triggers when the dragon is hit by a
-melee or close attack. It allows the dragon to make a claw attack against the
-triggering enemy and shift 2 squares. I now notice the dragon’s reach remains 2
-even though it’s now Gargantuan. Either their limbs and neck are comparatively
-tiny, or you should increase the reach for the Elder to 3 and the Ancient to 4.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Iron Wing Shroud&lt;/strong&gt; (minor action; recharge 6) allows them to make a close
-burst 3 vs. AC attack dealing physical damage, and gain resist 15 to all damage
-until the start of its next turn. While the damage resistance is active, the
-dragon can’t make any attacks. I guess this represents the dragon hiding behind
-its wings and catching surrounding enemies in the movement.&lt;/p&gt;
-
-&lt;p&gt;The Shroud’s “can’t make attacks” clause is less of a disadvantage than it
-seems - an ancient iron dragon can make all of its attacks for the turn and use
-the Shroud ability as its last minor action. It will lose access to opportunity
-attacks and Predator’s Response, but will be able to act normally when its next
-turn rolls around.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
-
-&lt;p&gt;We have two encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: A young iron dragon and 3 dwarf hammerers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: 1 adult iron dragon and 2 minotaur warriors.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Both of them would follow the standard pattern I described in the Lore section,
-with the lackeys being mercenaries lured by the promise of treasure, only to be
-abandoned by their boss when the fight begins to go sideways.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Iron dragons are the ones who least fit the classic metallic dragon stereotype,
-which makes sense given their origins as an obscure magazine-only 3.x
-dragon. Also I guess it’s hard to make a draconic Lurker who doesn’t sound shady
-as fuck.&lt;/p&gt;
-
-&lt;p&gt;Still, I like that they’re here. That shadiness is one point in favor of them as
-far as their utility in a story goes.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/01/dragon-iron.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/01/dragon-iron.html</guid>
         
         <category>dnd4</category>
         
