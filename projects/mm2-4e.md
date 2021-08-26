@@ -81,6 +81,9 @@ variants here. Here they are, from A to Z:
   - [Firbolg][45]
   - [Fomorian][46]
 
+- G
+  - [Genasi][47]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -129,3 +132,4 @@ variants here. Here they are, from A to Z:
 [44]: {{ "/2021/08/15/fey-lingerer.html" | relative_url }}
 [45]: {{ "/2021/08/17/firbolg.html" | relative_url }}
 [46]: {{ "/2021/08/25/fomorian.html" | relative_url }}
+[47]: {{ "/2021/08/26/genasi.html" | relative_url }}
