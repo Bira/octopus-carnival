@@ -6,9 +6,105 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Aug 2021 12:30:16 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Aug 2021 12:30:16 +0000</lastBuildDate>
+    <pubDate>Sun, 29 Aug 2021 15:21:59 +0000</pubDate>
+    <lastBuildDate>Sun, 29 Aug 2021 15:21:59 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Ghost Legionnaire</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ghost-legionnaire.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The first Monster Manual already includes a bunch of &lt;a href=&quot;/octopus-carnival/2020/03/18/ghost.html&quot;&gt;ghosts&lt;/a&gt;, and it even
+has a basic Phantom Warrior. Here we have a more specific implementation of that
+concept.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;These creatures are the ghosts of soldiers who died in battle more or less at
+the same time as the entire rest of their units. The emotional bonds between
+them and the trauma of their violent massed deaths causes their spirits to fuse
+and to rise as undead.&lt;/p&gt;
+
+&lt;p&gt;Legionnaires always appear as a unit, and they look like individuals acting in
+concert, but they’re all part of the same collective ghost. So it might have
+been more accurate to title this entry “Ghost &lt;em&gt;Legion&lt;/em&gt;”. Members of the legion
+can possess the living and make them experience the soldiers’ last moments.&lt;/p&gt;
+
+&lt;p&gt;When a ghost legionnaire is damaged, it always displays the wounds it suffered
+in its final battle rather than the ones that were actually inflicted on it. So
+a squad killed by some wizard’s acid-infused fireball would grow progressively
+more burned and melted as the PC paladin stabs them.&lt;/p&gt;
+
+&lt;p&gt;A ghost legion might be endlessly reliving its last battle when found, seeing
+any living intruders as their enemies. It might also be following the orders of
+a more powerful undead being, particularly if that being was one of its
+commanders in life.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;An individual legionnaire is a Medium Natural Humanoid with the Undead keyword,
+and a Level 13 Soldier with 100 HP. Despite being a ghost, it’s not considered
+insubstantial, but it has 10 necrotic resistance and isn’t especially vulnerable
+to radiant damage.&lt;/p&gt;
+
+&lt;p&gt;Legionnaires fight with the same weapons they had in life, making &lt;strong&gt;devastating
+cuts&lt;/strong&gt; with their melee weapons or shooting &lt;strong&gt;ghost arrows&lt;/strong&gt; that do necrotic
+damage. They can also use their &lt;strong&gt;Battle Visions&lt;/strong&gt; power to possess a
+target. This has range 20, targets Will and deals psychic damage with a Dominate
+(save ends) rider. While the target is dominated, the ghost is removed from the
+map. When the target finally makes their save, the ghost reappears in an
+adjacent space.&lt;/p&gt;
+
+&lt;p&gt;This ghost’s main weakness takes the form of a trait named &lt;strong&gt;Call to
+History&lt;/strong&gt;. It allows a PC to make a DC 25 History check as a minor action to
+recall details about the legionnaire’s original unit. A success here makes the
+PC’s next attack against that ghost deal 10 extra damage. I don’t think you can
+stack multiple checks in a single attack, but you &lt;em&gt;can&lt;/em&gt; make a check every turn
+before you attack. Someone who was possessed and made their save has a +5 bonus
+to these tests for the rest of the fight, as those horrifying battle visions act
+as extra reference material.&lt;/p&gt;
+
+&lt;p&gt;The collective nature of a ghost legion is expressed by the &lt;strong&gt;Soul Link&lt;/strong&gt;
+trait. Basically, you combine the HP totals of all legionnaires present in the
+fight into a single pool. Damage to any individual legionnaire is subtracted
+from this combined pool. The whole unit is destroyed when this pool is reduced
+to 0, but until that happens all legionnaires remain in the fight! This makes
+the usual “focus fire” strategy considerably less effective against them.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is Level 15, and quite straightforward: a 5-ghost unit and
+a human lich wizard from the MM. A Nerathi squad plus their former commanding
+officer.&lt;/p&gt;
+
+&lt;p&gt;I really like the “collective HP” gimmick! It shouldn’t be too hard to add or
+subtract levels from the stat block given here, either, meaning you can bring
+the Fun (TM) of ghost legions to the party no matter what their
+level.&lt;/p&gt;
+
+&lt;p&gt;There isn’t much of a story difference between a ghost legionnaire and a phantom
+warrior, as you can see by their names. This suggests that one way to get a
+level 4 legionnaire would be to remove Insubstantial from the warrior and add
+Soul Link in its place. You can likely do the same with any other thesaurus
+buddies that might come along (banshee battlers, figment fighters, spectral
+soldiers, wraith warriors…).&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Genasi</title>
@@ -1708,143 +1804,6 @@ drakkoths and vice-versa.&lt;/p&gt;
         <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/05/drakkoth.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/05/drakkoth.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Drakes</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-drakes.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Drakes make their debut on the first 4e Monster Manual, and this entry brings us
-a few more of them. They remain a popular choice of animal for domestication but
-the intro text mentions they retain a wild side.&lt;/p&gt;
-
-&lt;h2 id=&quot;bloodseeker-drake&quot;&gt;Bloodseeker Drake&lt;/h2&gt;
-
-&lt;p&gt;These expert trackers were included in the Monster Vault, so we already looked
-at them &lt;a href=&quot;/octopus-carnival/2020/02/01/drakes.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;horned-drake&quot;&gt;Horned Drake&lt;/h2&gt;
-
-&lt;p&gt;In the wild, horned drakes are pack predators who spend most of the day sleeping
-and basking in the sun, going out to hunt at night. They have an excellent
-instinct for teamwork, and a pack of them is able to take down much larger prey.&lt;/p&gt;
-
-&lt;p&gt;I imagine that, when domesticated, they make stronger alternatives to the
-bog-standard guard drake, treating their handlers as part of the pack.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Horned Drakes are Medium Natural Beasts and Level 5 Skirmishers with 63 HP. They
-have low-light vision and a speed of 6.&lt;/p&gt;
-
-&lt;p&gt;This drake’s basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that does standard physical damage and
-allows the creature to shift 2 squares on a hit. The &lt;strong&gt;Pack Movement&lt;/strong&gt; reaction
-also allows them to shift 2 squares when an enemy adjacent to them is hit by a
-melee attack. This makes them great a setting up flanks with their fellow drakes
-or with their handlers.&lt;/p&gt;
-
-&lt;p&gt;The drake can also make a &lt;strong&gt;Goring Horns&lt;/strong&gt; attack, which does high physical
-damage and knocks prone on a hit. It also has a +1 attack bonus over the basic
-attack, which indicates to me that it’s meant to be a charge.&lt;/p&gt;
-
-&lt;p&gt;So, these drakes are set up charge an enemy, then surround and run circles
-around it.&lt;/p&gt;
-
-&lt;h2 id=&quot;scytheclaw-drake&quot;&gt;Scytheclaw Drake&lt;/h2&gt;
-
-&lt;p&gt;Another species of pack predator, scytheclaws inhabit forests and
-grasslands. They are known for their cunning and for their devious tactics. If
-you see one scytheclaw, odds are there are two or three others approaching you
-from behind.&lt;/p&gt;
-
-&lt;p&gt;In other words, they’re Jurassic Park raptors!&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Scytheclaws are Medium Natural Beasts and Level 10 Skirmishers with 105 HP,
-which explains why the Jurassic Park protagonists had such trouble with
-them. Their ground speed is an amazing 10.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is the titular &lt;strong&gt;Scytheclaw&lt;/strong&gt;, which deals physical damage
-and knocks the target prone. If used against an already prone target, it hits
-harder and inflicts 5 ongoing damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;When the drake hits with its basic attack, it can immediately use &lt;strong&gt;Springing
-Step&lt;/strong&gt; (free action; recharge 4-6), which allows it to jump 8 squares and attack
-someone else at the end of the jump. This doesn’t provoke opportunity attacks
-from the target of the original attack, making it safe to move away from most
-PCs.&lt;/p&gt;
-
-&lt;p&gt;If a prone enemy within reach tries to get up, its &lt;strong&gt;Overwhelming Attacker&lt;/strong&gt;
-trait allows it to make an opportunity attack against that enemy. If this hits,
-the target remains prone.&lt;/p&gt;
-
-&lt;p&gt;Scytheclaws are therefore set up to bounce between PCs while knocking them
-prone, and they will absolutely kick you when you’re down.&lt;/p&gt;
-
-&lt;h2 id=&quot;fang-titan-drake&quot;&gt;Fang Titan Drake&lt;/h2&gt;
-
-&lt;p&gt;If you include the Raptors, you almost certainly have to include the T-Rex as
-well. And sure enough, here it is. The largest species of drake, few creatures
-other than dragons can pose much of a treat to them. Mostly solitary, they claim
-large territories and chase away all other big predators, so ironically
-creatures beneath the fang titan’s notice end up enjoying a measure of
-protection.&lt;/p&gt;
-
-&lt;p&gt;In most settings, such a creature would be impossible to domesticate, but in
-D&amp;amp;D’s implied setting some sapients such as giants can manage it due to not
-being that much smaller than them.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Fang Titans are Huge Natural Animals and Level 18 Elite Controllers with 348
-HP. Their ground speed is 8.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a humongous &lt;strong&gt;bite&lt;/strong&gt; that can target one or two creatures,
-dealing physical damage and dazing them (save ends). They can also grab one of
-the targets on a hit.&lt;/p&gt;
-
-&lt;p&gt;They can also attack with a &lt;strong&gt;Tail Sweep&lt;/strong&gt; (close burst 2 vs. Reflex; recharge
-4-6) that does high physical damage and knocks prone. Their &lt;strong&gt;Furious Roar&lt;/strong&gt;
-works exactly like a dragon’s Frightful Presence, and when they’re bloodied they
-recharge it and use it immediately as a free action.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters And Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Two sample drake encounters in this entry:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 3: A lizardfolk hunting party with a pair of bloodseeker drakes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 19: A quartet of fire giants and their pet fang titan.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As I mentioned during my reading of the MM/MV, I love drakes and more of them
-are always welcome. For many of them, it’s also easy to “de-skin” them as
-dinosaurs if you’re so inclined, but making them a distinct type of creature
-also frees the authors (and you!) from having to adhere to best paleontological
-practices.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/04/drakes.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/04/drakes.html</guid>
         
         <category>dnd4</category>
         
