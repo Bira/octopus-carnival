@@ -83,6 +83,7 @@ variants here. Here they are, from A to Z:
 
 - G
   - [Genasi][47]
+  - [Ghost Legionnaire][48]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -133,3 +134,4 @@ variants here. Here they are, from A to Z:
 [45]: {{ "/2021/08/17/firbolg.html" | relative_url }}
 [46]: {{ "/2021/08/25/fomorian.html" | relative_url }}
 [47]: {{ "/2021/08/26/genasi.html" | relative_url }}
+[48]: {{ "/2021/08/29/ghost-legionnaire.html" | relative_url }}
