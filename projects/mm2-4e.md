@@ -36,6 +36,7 @@ variants here. Here they are, from A to Z:
 
 - C
   - [Centaur][12]
+
   - [Centipede][13]
   - [Chaos Shard][14]
   - [Cockatrice][15]
@@ -87,6 +88,8 @@ variants here. Here they are, from A to Z:
   - [Giants][49]
   - [Gnolls][50]
   - [Gnome][51]
+  - [Goblin][52]
+  - [Golem][53]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -141,3 +144,5 @@ variants here. Here they are, from A to Z:
 [49]: {{ "/2021/08/31/giants.html" | relative_url }}
 [50]: {{ "/2021/09/01/gnolls.html" | relative_url }}
 [51]: {{ "/2021/09/01/gnome.html" | relative_url }}
+[52]: {{ "/2021/09/16/goblin.html" | relative_url }}
+[53]: {{ "/2021/09/16/golem.html" | relative_url }}
