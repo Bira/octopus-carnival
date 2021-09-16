@@ -6,9 +6,359 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Sep 2021 20:06:41 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Sep 2021 20:06:41 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Sep 2021 11:07:44 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Sep 2021 11:07:44 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Golem</title>
+        <description>&lt;p&gt;Golems showed up in the first MM and were iconic enough to later make it to the
+Monster Vault. I covered those &lt;a href=&quot;/octopus-carnival/2020/04/30/golem.html&quot;&gt;here&lt;/a&gt;, and you can check that same post to
+see their basic lore. The Monster Manual 2 brings us yet more golems, which
+share the same basic lore.&lt;/p&gt;
+
+&lt;p&gt;As before, golems are Natural Animates with the Construct keyword. They’re
+immune to disease, poison, and sleep. They have darkvision, and though their
+ground speed tends to be high they cannot shift. Most are Large, but one of the
+examples here is Huge.&lt;/p&gt;
+
+&lt;h2 id=&quot;bone-golem&quot;&gt;Bone Golem&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-bone.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Bone golems are made from the skeletons of several creatures, whose bones are
+sharpened and fitted together to form the construct’s body. Despite being made
+of bones and beloved of necromancers, it’s a construct animated through
+elemental magic and not an undead monster. Throw this one into an encounter that
+does have undead skeletons in it, and it should be good to surprise your PCs a
+bit.&lt;/p&gt;
+
+&lt;p&gt;Bone Golems are Level 12 Elite Brutes with 302 HP. It’s so spiky the pointy bits
+count as a &lt;strong&gt;Bone Spikes&lt;/strong&gt; aura (1) that deals 5 damage to any enemy that enters
+it. The pointy bits also justify the &lt;strong&gt;Osseous Retaliation&lt;/strong&gt; trait, which deals
+a bit of automatic damage to anyone who hits the golem with an opportunity
+attack.&lt;/p&gt;
+
+&lt;p&gt;This construct fights with Reach 2 &lt;strong&gt;Bone Spurs&lt;/strong&gt;, and can attack twice per
+action with them. It can also fire a &lt;strong&gt;Bone Volley&lt;/strong&gt; (burst 3 vs. Reflex,
+recharge 6+) that deals heavy physical damage and dazes (save ends).&lt;/p&gt;
+
+&lt;p&gt;When the golem is destroyed &lt;strong&gt;Bone Death&lt;/strong&gt; allows it to make one last
+attack. If Bone Spurs is charged then it uses that, otherwise it makes a basic
+bone spur attack.&lt;/p&gt;
+
+&lt;h2 id=&quot;chain-golem&quot;&gt;Chain Golem&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-chain.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These Huge golems are modeled after chain devils, and are often tasked to guard
+prisons and Actual Dungeons instead of the usual tombs or treasure vaults. As
+you might have guessed, their fighting style is very grapple-intensive.&lt;/p&gt;
+
+&lt;p&gt;Chain Golems are Level 22 Elite Soldiers with 418 HP, a speed of 8, and all
+standard golem traits. Their &lt;strong&gt;Entangling Chains&lt;/strong&gt; act as an aura (3) that slows
+everyone caught inside.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a Reach 3 &lt;strong&gt;Chain&lt;/strong&gt; that does physical damage and pulls
+the target 2 squares. &lt;strong&gt;Chain Smash&lt;/strong&gt; is their double attack power, allowing it
+to attack two different targets in one action. While they’re bloodied, &lt;strong&gt;Berserk
+Attack&lt;/strong&gt; allows them to make a chain strike against anyone who damages them as a
+reaction.&lt;/p&gt;
+
+&lt;p&gt;All that and we didn’t even use the grappling rules yet! We have to do that for
+&lt;strong&gt;Chain Grab&lt;/strong&gt;, though. This at-will attack is a Close Burst 2 that does the
+same damage as the basic strike, pulls targets 1 square, and grabs them. The
+escape DC is 32 or 35 depending on the skill you use. The golem can move away
+from the grabbed victims without ending the grab because chains. Once it
+finishes moving it can either slide the victims next to itself or let them go.&lt;/p&gt;
+
+&lt;p&gt;So your typical chain golem will try to keep the whole party grabbed while it
+smacks them around with its chains. PCs who aren’t grabbed will still be slowed,
+and the golem’s strikes will pull them back if they try to run away. Staying far
+away and using ranged attacks is a good tactic against them, but that speed of 8
+will make keeping away a real chore.&lt;/p&gt;
+
+&lt;h2 id=&quot;clay-golem&quot;&gt;Clay Golem&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-clay.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Clay Golems were one of the original golem types described in the first entries
+back in AD&amp;amp;D or in the nebulous times before it. They were originally inspired
+by the legend of the golem of Prague, and so were the only golem that required
+divine magic to make (all the others were arcane).&lt;/p&gt;
+
+&lt;p&gt;In Fourth Edition, &lt;a href=&quot;/octopus-carnival/2020/02/12/eidolon.html&quot;&gt;eidolons&lt;/a&gt; are used to represent divine constructs, so
+clay golems have the same arcane/elemental origin as the other types. They have
+a somewhat “runny” appearance, but are surprisingly fast and retain a slightly
+less harsh version of the ability to inflict unhealing wounds that they had in
+previous incarnations.&lt;/p&gt;
+
+&lt;p&gt;Stat-wise, they’re Level 15 Elite Brutes with 368 HP, Large size, a speed of 6,
+and all common golem traits. Their basic attack is a Reach 2 &lt;strong&gt;Slam&lt;/strong&gt; that does
+heavy physical damage and curses the target, making it unable to regain HP. This
+is a (save ends) condition, but it’s still quite dangerous, since it makes
+wounds inflicted by &lt;em&gt;all&lt;/em&gt; enemies unhealing, not just the golem’s. &lt;strong&gt;Clay
+Smash&lt;/strong&gt; allows it to slam two different targets in one action, and they have the
+same Berserk Attack reaction as the chain golem above.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Hasty Reaction&lt;/strong&gt; passive trait allows them to roll initiative twice and
+take the highest result, and &lt;strong&gt;Unstoppable&lt;/strong&gt; is a move-action encounter power
+that allows them to move 8 squares and pass through enemy spaces. They draw
+opportunity attacks when doing this, but reduce their damage by 10. This isn’t
+worded like a resistance, so I guess powers that bypass or reduce resistances
+don’t work against it.&lt;/p&gt;
+
+&lt;h2 id=&quot;iron-golem&quot;&gt;Iron Golem&lt;/h2&gt;
+
+&lt;p&gt;These made it into the MV, so we already covered them. The MM2 has two versions,
+the Level 20 one that we saw, and a Level 26 “Iron Golem Juggernaut” that’s
+basically the same aside from being size Huge and having bigger numbers.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Each kind of golem presented here gets a sample encounter. I guess there was
+something of an editing snafu here, because most golems have their encounter
+listed right after their stats, but the one for chain golems is all by its
+lonesome in an “Encounter Groups” section at the end of the overall entry. I
+guess it must be there because it has two golem types in it.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 13: 1 bone golem, 4 horde ghouls (minions), 1 human wizard lich. So
+that’s the kind of caster who makes bone golems.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 15: 1 clay golem, 1 shadar-kai gloom lord, 2 shadow snakes. A Zehiri
+operation, if you still want to associate clay golems with clerics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 21: 1 chain golem, 1 dark naga, 1 iron golem. Someone &lt;em&gt;really&lt;/em&gt; wanted
+this place guarded.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 24: 1 iron golem juggernaut, 1 storm gorgon, 1 djinn skylord. A noble,
+his pet, and his mechanical manservant.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s a point past which adding more golem types feels a bit redundant. There
+are also so many non-golem constructs out there that I almost think “golem”
+should be a singular monster type with very specific characteristics, rather
+than a whole family of them. Otherwise it would be best to do away with the term
+entirely.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/09/16/golem.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/16/golem.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Goblin</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-goblin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;D&amp;amp;D Fourth Edition uses “Goblins” to describe a set of closely related species
+of humanoids: actual goblins, hobgoblins, and bugbears. They’re a very
+traditional component of the game and we looked at lots of them in the
+MM1/Monster Vault Let’s Read. The post covering their basic lore is &lt;a href=&quot;/octopus-carnival/2020/04/22/goblinoids.md&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since the first Manual covered them so well, the second brings us a small number
+of more specialized stat blocks for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;bugbear-wardancer&quot;&gt;Bugbear Wardancer&lt;/h2&gt;
+
+&lt;p&gt;Wardancers are specialized martial artists. Their weapon of choice is a
+two-handed heavy flail, which they swing in wide arcs while moving through enemy
+forces in the battlefield. The end result looks something like a dance, thus the
+name. There’s a religious element to the art: there are different schools
+organized around the worship of different exarchs of Bane, who compete among
+each other to see whose war dance is the best.&lt;/p&gt;
+
+&lt;p&gt;The wardancer presented here is a Level 6 Skirmisher with 70 HP, low-light
+vision, and Speed 7. Its basic attack is a &lt;strong&gt;Flail Dance&lt;/strong&gt; that does physical
+damage and has a lot of stacked riders: it pushes the target 2 square and knocks
+it prone, and also allows the bugbear to shift 1 square. Yes, this is an at-will
+basic attack.&lt;/p&gt;
+
+&lt;p&gt;The wardancer also has a couple of special attacks. &lt;strong&gt;Flail Barrier&lt;/strong&gt; (recharge
+5+) does a bit of automatic damage in a burst 2 around the bugbear, and makes it
+take half damage from weapon attacks until the end of its next turn. &lt;strong&gt;Flail
+Assault&lt;/strong&gt; (close burst 2 vs Reflex; encounter) does a bit more damage and knocks
+those it hits prone.&lt;/p&gt;
+
+&lt;p&gt;All the wardancer’s attacks deal extra damage if it has combat advantage against
+the target.&lt;/p&gt;
+
+&lt;h2 id=&quot;goblin-acolyte-of-maglubyet&quot;&gt;Goblin Acolyte of Maglubyet&lt;/h2&gt;
+
+&lt;p&gt;Another martial artist, this one a goblin from a sect devoted to Maglubyet. In
+previous editions (and again on 5th), Maglubyet is the main goblinoid deity, but
+here he’s one of Bane’s Exarchs. His acolytes seek to make themselves in his
+image.&lt;/p&gt;
+
+&lt;p&gt;The Acolyte is a Level 1 Controller with 29 HP, Speed 6, and low-light
+vision. They wield a battleaxe in combat, and back it up with a bit of divine
+magic.&lt;/p&gt;
+
+&lt;p&gt;Acolytes are surrounded by a &lt;strong&gt;Life Scourge&lt;/strong&gt; aura (2) that prevents enemies
+inside from recovering hit points. Their basic attack is a &lt;strong&gt;Slashing Shroud&lt;/strong&gt;
+that consists of an axe strike that also makes the acolyte invisible to the
+target until the end if the acolyte’s next turn. A good option against PC
+defenders.&lt;/p&gt;
+
+&lt;p&gt;They can attack at range with the &lt;strong&gt;Hand of Maglubyet&lt;/strong&gt; (ranged 10
+vs. Fortitude), a telekinetic attack that deals force damage and either slides
+the target 3 squares or immobilizes it for a turn. &lt;strong&gt;Maglubyet’s Fists&lt;/strong&gt;
+(recharge 5+) allows them to use this attack twice in a single action. So as far
+as martial artists go, this is one of those annoying hadouken spammers.&lt;/p&gt;
+
+&lt;p&gt;The acolyte also has the standard &lt;strong&gt;Goblin Tactics&lt;/strong&gt; power that allows it to
+shift 1 square as a reaction when missed by a melee attack. This is what you
+would change if you were making acolytes of other species.&lt;/p&gt;
+
+&lt;h2 id=&quot;lolthbound-goblin&quot;&gt;Lolthbound Goblin&lt;/h2&gt;
+
+&lt;p&gt;Goblins are generally big on Bane worship, but that’s not universal among
+them. This is a goblin whose people have been slaves to the drow for
+generations. Their training, and even their physiology, have some important
+differences from your usual goblins. They’re clearly meant to be encountered
+alongside drow, though for that to work out you’ll need to make those drow lower
+level or the goblin higher level.&lt;/p&gt;
+
+&lt;p&gt;As written, the Lolthbound Goblin is a Level 3 Soldier with 45 HP. They have
+speed 6, and replace the usual low-light vision with full darkvision. They wear
+light armor and fight with a war pick.&lt;/p&gt;
+
+&lt;p&gt;When Lolthbound Goblins are within 5 squares of a drow, they gain a +2 bonus to
+all their attacks and defenses. That &lt;strong&gt;pick&lt;/strong&gt; is a high-crit weapon and marks
+targets for a turn on a hit. Once per encounter they can use a &lt;strong&gt;Stinging Blow&lt;/strong&gt;
+that deals poison damage and instead of marking increases any ongoing poison
+damage the target is taking by 5. This synergizes with the poisoned weapons drow
+so often carry.&lt;/p&gt;
+
+&lt;p&gt;Also once per encounter they can use a &lt;strong&gt;Lolthbound Shriek&lt;/strong&gt; (close blast 5
+vs. Fortitude), which deals light thunder damage to anyone in the area who is
+not a drow or spider.&lt;/p&gt;
+
+&lt;p&gt;Aside from the usual Goblin Tactics reaction, they also have &lt;strong&gt;Drow Protector&lt;/strong&gt;,
+an interrupt where the goblin throws himself in front of a drow that’s just been
+targetted by an attack, becoming the target instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;lolthbound-goblin-slave&quot;&gt;Lolthbound Goblin Slave&lt;/h2&gt;
+
+&lt;p&gt;This is a Level 12 Minion Skirmisher version of the lolthbound goblin above,
+which makes it appropriate for use with drow without the need for level
+adjustments. They’re also armed with war picks, and add a hand crossbow to their
+loadout.&lt;/p&gt;
+
+&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Stinging Pick&lt;/strong&gt;, which works just like the
+Stinging Blow from the regular version. Their basic &lt;strong&gt;crossbow&lt;/strong&gt; attack deals a
+bit more damage if they’ve moved 3 or more squares before making it.&lt;/p&gt;
+
+&lt;p&gt;They also gain the attack and defense bonus from being near drow, and have
+Goblin Tactics.&lt;/p&gt;
+
+&lt;h2 id=&quot;hobgoblin-fleshcarver&quot;&gt;Hobgoblin Fleshcarver&lt;/h2&gt;
+
+&lt;p&gt;This is the hobgoblin specialized martial artist. Unlike the bugbear and goblin
+examples, fleshcarvers don’t seem to have a religious component to their
+training. It’s all about hard work and crafting your own custom-fitted
+weapons. Their weapons of choice are a polearm and a set of poisoned throwing
+darts, whose poison is harvested from serpents they hunt as part of their
+training. Fleshcarvers never refuse a challenge to combat, though they’re smart
+enough to not let such a challenge distract them in the middle of an ongoing
+battle.&lt;/p&gt;
+
+&lt;p&gt;Fleshcarvers are Level 6 Elite Controllers with 146 HP. They have Speed 6 and
+low-light vision, wear heavy armor, and are armed with the afore-mentioned
+specialized weapons.&lt;/p&gt;
+
+&lt;p&gt;Their stance and movements act as an aura (2) named &lt;strong&gt;Fleshcarver’s Trap&lt;/strong&gt;,
+dealing 5 damage to any enemy inside the first time they move during their
+turn. Their &lt;strong&gt;glaive&lt;/strong&gt; is reach 2 and is used both for basic attacks and for an
+at-will &lt;strong&gt;Glaive Flurry&lt;/strong&gt; that targets all enemies in a close burst 2, does more
+damage than the basic attack, and slides targets 2 squares.&lt;/p&gt;
+
+&lt;p&gt;At range they can throw those &lt;strong&gt;Toxic Darts&lt;/strong&gt; to do a bit of poison damage and
+slow the target (save ends). If the target was already slowed, it’s immobilized
+instead. When they’re hit by a melee attack, they can use their reaction to
+shift 2 squares and make a dart attack. And finally, fleshcarvers have the same
+Hobgoblin Resilience and Phalanx Soldier powers from MM1 hobgoblins.&lt;/p&gt;
+
+&lt;p&gt;These hobgoblins are more effective when lots of enemies are in reach, but the
+selective targetting on their area attack means they engage all those enemies
+while fighting in formation for that sweet defense bonus from Phanlanx Soldier.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
+
+&lt;p&gt;These new goblinoid specialists can be inserted into any goblin encounter, and
+being goblins themselves also work well with any of their typically allied
+creatures. These are the encounters we get on the book:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 1: 1 goblin acolyte, 3 goblin warriors, 1 Lolthbound Goblin. It’s likely
+the whole group are drow slaves, with the LBG being their leader. The level
+math works out, but the LBG’s drow-related skills are wasted here.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 2 bugbear wardancers, 2 bugbear warriors, 1 barghest battle lord. A
+warlord and their bodyguards.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 1 fleshcarver, 3 hobgoblin soldiers, 2 dire wolves. A patrol with a
+little extra kick to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 13: 4 lolthbound goblin slaves, 1 drow priest, 2 blade spiders, 2 drow
+warriors. Lots of poison being thrown around on this one, which makes the
+minions more dangerous than their level would indicate.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I like these new additions, because their stat blocks are interesting and their
+associated lore fleshes goblin culture out a bit more. I like that they’re
+complex enough to have multiple martial styles.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/09/16/goblin.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/16/goblin.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Gnome</title>
@@ -1195,446 +1545,6 @@ have done a lot more with such multi-stage enemies.&lt;/p&gt;
         <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/15/fey-lingerer.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/15/fey-lingerer.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Fell Taint</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fell-taint.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I &lt;em&gt;think&lt;/em&gt; fell taints are new to 4e - at least, this book is where I first heard
-of them. If they showed up in previous editions, it was probably in 3e.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;I confess the name made me think of something you might find staining an ogre’s
-underwear, but that’s not the case. Fell Taints are small predators from the Far
-Realm, where they occupy a niche more or less equivalent to that of our
-foxes. However, they’re quite a bit more dangerous when they cross into the
-world, which they can do rather easily in places where the border between it and
-the Far Realm is even a little bit thinner than usual.&lt;/p&gt;
-
-&lt;p&gt;Their presence acts as a beacon for more powerful and dangerous Far Realm
-denizens, and slowly erodes the barrier between dimensions. So if you have fell
-taints in a place, you’ll soon get bigger horrors from beyond popping up.&lt;/p&gt;
-
-&lt;p&gt;The taints themselves are also dangerous on their own, since they hunt by
-destroying the mind of their intended prey with their psychic powers. This is
-not exactly something most mortal creatures have a strong defense against.&lt;/p&gt;
-
-&lt;p&gt;One of the bizarre things about Fell Taints is that they’re only half real. The
-other half is formed by the minds of those who see them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Fell Taints are Baby’s First Elder Things, with levels in the early-to-mid
-Heroic tier. If you’re starting an aberrant-themed campaign from Level 1,
-they’re going to be the first genuine Far Realm denizens your party meets.&lt;/p&gt;
-
-&lt;p&gt;Fell Taints can fly quite well with a speed of 6 and hover capability, or crawl
-along the ground at speed 1 if they must. They’re insubstantial due to that
-half-real thing, but vulnerable to psychic damage. The touch of their
-&lt;strong&gt;tendrils&lt;/strong&gt; causes psychic damage, and they usually have mind-affecting special
-attacks as well. They’re all Aberrant Magical Beasts, and most are Small.&lt;/p&gt;
-
-&lt;p&gt;An ability they all share is &lt;strong&gt;Fell Taint Feeding&lt;/strong&gt;: when they manage to get a
-victim helpless or unconscious, they can begin to feed. This causes them to lose
-their fly speed and become substantial until the end of their next turn, but
-allows them to perform a &lt;em&gt;coup de grace&lt;/em&gt; against the victim. If this kills the
-victim, the fell taint immediately recovers all of its hit points. Yeah, they’ll
-absolutely attempt to kill any PC that drops to 0 HP during the fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;fell-taint-lasher&quot;&gt;Fell Taint Lasher&lt;/h3&gt;
-
-&lt;p&gt;Lashers are Level 1 Soldiers with 20 HP and all standard traits outlined
-above. Their special attack is &lt;strong&gt;Tendrils of Stasis&lt;/strong&gt;, which does a bit less
-damage than the basic tendril slap and immobilizes the target for a turn. When
-making an opportunity attack, they can shift as a free action.&lt;/p&gt;
-
-&lt;h3 id=&quot;fell-taint-pulsar&quot;&gt;Fell Taint Pulsar&lt;/h3&gt;
-
-&lt;p&gt;Pulsars are Level 1 Artillery with 18 HP and all common traits. Their special
-attacks are a Range 20 &lt;strong&gt;tendril pulse&lt;/strong&gt; that does psychic damage, and a Ranged
-10 &lt;strong&gt;tendril flurry&lt;/strong&gt; that makes a slightly weaker attack against up to three
-targets.&lt;/p&gt;
-
-&lt;h3 id=&quot;fell-taint-tought-eater&quot;&gt;Fell Taint Tought Eater&lt;/h3&gt;
-
-&lt;p&gt;These are Level 2 Controllers with 26 HP and all standard traits. They have two
-special attacks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spirit Haze&lt;/strong&gt; is a Range 10 attack that does psychic damage and dazes for a
-turn. &lt;strong&gt;Tought Fog&lt;/strong&gt; (recharge 5+) is a Close Burst 5 that only targets enemies,
-does no damage, and slows. This worsens to immobilization after the first failed
-save.&lt;/p&gt;
-
-&lt;h3 id=&quot;fell-taint-warp-wender&quot;&gt;Fell Taint Warp Wender&lt;/h3&gt;
-
-&lt;p&gt;This Level 4 Controller is Medium, and has 38 HP. Its single special attack is
-&lt;strong&gt;Psychic Transposition&lt;/strong&gt;, which does light psychic damage, dazes (save ends)
-and makes the taint and the victim teleport to exchange places.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounters are mostly mixed fell taint groups, because they rarely
-work with anyone else. Still, they might be coincidentally found alongside
-undead or oozes, creatures they find unapettizing. I imagine some cultists and
-such might also know how to bind them.&lt;/p&gt;
-
-&lt;p&gt;As a party’s first contact with the Far Realm, I think these creatures are quite
-nifty. They look weird enough to unsettle, and each has a single distinctive
-mechanical trick.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/13/fell-taint.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/13/fell-taint.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Elemental</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Technically, any creature with the “elemental” origin is an elemental, but as we
-saw in the &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;Elemental&lt;/a&gt; entry from the first monster manual the name is also
-used for a particularly wild subset of that plane’s denizens.&lt;/p&gt;
-
-&lt;p&gt;As you can see in that earlier post, Elementals proper are some of the “basest”
-life forms of the Elemental Chaos, with bodies that share a lot more with their
-constituent elements than with any sort of living organism. Unlike demons
-they’re not actively malicious, but they’re mercurial and easy to provoke into a
-rampage.&lt;/p&gt;
-
-&lt;p&gt;As magical beasts, they’re technically sapient, but their intellects tend to be
-rather limited. These creatures are also often bound by elementally-inclined
-ritual casters such as mortal wizards, efreets, and others.&lt;/p&gt;
-
-&lt;p&gt;The MM2 presents us with more elementals ranging from the mid-Heroic to the
-early Epic tier.&lt;/p&gt;
-
-&lt;h2 id=&quot;chillfire-destroyer&quot;&gt;Chillfire Destroyer&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-chillfire-destroyer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A Large humanoid made of ice wrapped around a fiery core, which means it has
-zero chill. It’s a Level 14 Brute with 173 HP, lumbering about at Speed 5. It
-has 10 resistance to cold and fire, and is immune to disease and poison. Its
-&lt;strong&gt;fists&lt;/strong&gt; do a mix of fire and cold damage, and it can also move its speed and
-&lt;strong&gt;trample&lt;/strong&gt; anyone it comes into contact with during this movement.&lt;/p&gt;
-
-&lt;p&gt;As this elemental gets damaged, its shell begins to crack. Once it’s bloodied,
-its &lt;strong&gt;Leaking Firecore&lt;/strong&gt; acts as an aura (radius 2) that deals fire damage to
-anyone caught inside. Once it reaches 0 HP, a &lt;strong&gt;Firecore Breach&lt;/strong&gt; causes it to
-explode! This explosion is a Close Burst 3 vs. Reflex, dealing heavy fire
-damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;dust-devil&quot;&gt;Dust Devil&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-dust-devil.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A being or air and earth, this capricious living whirlwind has a tendency to
-sandblast anyone who makes it angry. It’s Small, and a Level 3 Skirmisher with
-47 HP and a ground speed of 8. No, they can’t fly. It’s immune to disease and
-poison, and it suffers a -2 penalty to all of its defenses if slowed or
-immobilized.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is &lt;strong&gt;Grasping Winds&lt;/strong&gt;, which targets Reflex, does some physical
-damage and slides the target 3 squares. &lt;strong&gt;Gale Blast&lt;/strong&gt; allows it to shift 5
-squares by moving really fast, and try to knock anyone in the way prone (attack
-vs. Fortitude).&lt;/p&gt;
-
-&lt;p&gt;Once per encounter it can do that sandblasting trick with &lt;strong&gt;Stinging Sands&lt;/strong&gt;
-(close burst 3 vs. Fortitude), which does heavy damage and blinds for a turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;flamespiker&quot;&gt;Flamespiker&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-flamespiker.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These are a triple combination of air, earth, and fire, taking the form of a
-Medium stony humanoid who can use high-pressure air to fire red-hot spikes from
-its fiery core. They’re more like people than wildlife, and often end up hired
-as front-line muscle by other sapient elementals.&lt;/p&gt;
-
-&lt;p&gt;Flamespikers are level 5 soldiers with 66 HP and a ground speed of 7. Their
-immunities include disease, poison, and petrification, and they also have 10
-fire resistance.&lt;/p&gt;
-
-&lt;p&gt;The flamespiker fights with its Reach 2 &lt;strong&gt;Stonespikes&lt;/strong&gt; in melee, and can also
-fire them at out to range 10 as &lt;strong&gt;Spikebolts&lt;/strong&gt;. Both attacks do physical damage,
-and the melee one also makes the target vulnerable to fire damage until the end
-of the spiker’s next turn. So it pairs really well with fire elementals.&lt;/p&gt;
-
-&lt;p&gt;If an enemy within reach shifts, the stonespiker can react with a &lt;strong&gt;Thunderfire
-Thrust&lt;/strong&gt; (recharge 5+), which is a basic melee attack with an extra follow-up
-against Fortitude that does 5 thunder damage and stuns (save ends). This makes
-slipping past them a difficult proposition.&lt;/p&gt;
-
-&lt;h2 id=&quot;geonid&quot;&gt;Geonid&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-geonid.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This Large creature has more of a metabolism than most elementals, and needs to
-hunt. A stony oyster-like creature, the geonid is extremely hard to tell apart
-from a boulder when its shell is closed. When it reveals itself, we can see that
-it’s yet another tentacular ambush predator that lives in the shallow Underdark.&lt;/p&gt;
-
-&lt;p&gt;They were initially created to guard the secret pathways of the world, and the
-secret caches of weapons, dormant war-beasts, and treasure hidden there by the
-forces of the primordials. Some of those caches are still out there, as are
-their guardians.&lt;/p&gt;
-
-&lt;p&gt;Geonids are Level 6 Lurkers with 56 HP. They’re immune to disease, petrification
-and poison, and cal roll around at speed 4. With its shell closed, potential
-victims must pass a DC 28 Perception check to realize it’s not a harmless
-boulder. At level 6, this is hard even for the party’s “radar”.&lt;/p&gt;
-
-&lt;p&gt;Once the geonid strikes, it fights with &lt;strong&gt;tentacle&lt;/strong&gt; slaps that do standard
-physical damage. It can also use a &lt;strong&gt;capturing grab&lt;/strong&gt; that consists of two
-weaker tentacle attacks. If both hit, it grabs the target (escape DC 17).&lt;/p&gt;
-
-&lt;p&gt;Once it’s grabbed someone, the geonid will close itself with &lt;strong&gt;Shell Slam&lt;/strong&gt;,
-which does a lot of things at once. It slides a grabbed victim to the geonid’s
-space, and it tries to knock everyone in a close burst 2 prone (vs. Fortitude).&lt;/p&gt;
-
-&lt;p&gt;While the shell is closed, the geonid has a ground speed of 0 and a +5 to all of
-its defenses, and it can’t target anyone other than the grabbed victim it pulled
-inside its shell. The victim can also only target the geonid, but on the bright
-side it won’t have to contend with the defense bonus. If the victim escapes, it
-gets spit out and appears adjacent to the geonid, who can open its shell with a
-minor action.&lt;/p&gt;
-
-&lt;h2 id=&quot;mudlasher&quot;&gt;Mudlasher&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-mudlasher.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Another sapient elemental predator, mudlashers are made of well, mud. They slam
-and drown their victims, and then sit atop the corpse as a puddle to slowly
-digest it. They’re Medium Level 4 Brutes with 63 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;Slams&lt;/strong&gt; do physical damage, and once per fight they can upgrade
-that to a &lt;strong&gt;Drowning Slam&lt;/strong&gt; that targets Fortitude and adds an ongoing damage
-follow-up (save ends).&lt;/p&gt;
-
-&lt;p&gt;They can also fling &lt;strong&gt;mud balls&lt;/strong&gt; at range (vs. Reflex), which do no damage but
-slow their targets. If a target is already slowed, it’s immobilized
-instead. This is good because the mudlasher gets a +2 to attacks against slowed
-or immobilized targets. A save will end either condition.&lt;/p&gt;
-
-&lt;h2 id=&quot;rockfist-smasher&quot;&gt;Rockfist Smasher&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-rockfist-smasher.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The name says it all: they’re humanoid rocks that like to smash with their
-fists. Smashers don’t need to eat, so they do that for fun. People who build
-elemental themed dungeons like to gather a bunch of these and lock them in
-chambers and at the bottom of pits as living traps.&lt;/p&gt;
-
-&lt;p&gt;These hooligans are Large, Level 10 Brutes with 125 HP, the standard suite of
-earth-creature immunities, and a speed of 5. Their &lt;strong&gt;Granite Punches&lt;/strong&gt; do good
-damage and knock bloodied targets prone.&lt;/p&gt;
-
-&lt;p&gt;When a smasher gets bloodied itself, its &lt;strong&gt;Internal Avalanche&lt;/strong&gt; triggers and
-begins accumulating kinetic energy. This gives the smasher 20 temporary HP. If
-it still has any temp HP at the start of its next turn, it gains an action point
-that must be used in that turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;shardstorm-vortex&quot;&gt;Shardstorm Vortex&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-rockfist-smasher.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These are living blizzards made of stone instead of ice. Despite this impressive
-description, they’re just Medium in size and are the scavengers of the Elemental
-Chaos. Shardstorms follow in the wake of more impressive beings and feed on what
-remains of their battles. In battle they work like slightly stronger dust
-devils.&lt;/p&gt;
-
-&lt;p&gt;They’re level 7 skirmishers with 80 HP. Their ground speed is 0, but they fly at
-speed 8 with hover capability and project a &lt;strong&gt;Sandblast&lt;/strong&gt; aura (radius 1) that
-inflicts a -2 to all defenses of anyone caught inside.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Abrasive Slam&lt;/strong&gt; that targets Fortitude and does
-physical damage. They can also perform &lt;strong&gt;Whirling Blasts&lt;/strong&gt; (recharge 5+) that
-allow them to shift 4 squares and an attack at the end. This does heavy damage
-and pushes 1 square on a hit. It does half damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;We also get two variant stat blocks for them as minions at levels 13
-and 23. They still have the aura and the basic attack, but instead of the Blast
-they get a &lt;strong&gt;Vortex Step&lt;/strong&gt;, an at-will 4-square shift with no built-in attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;stormstone-fury&quot;&gt;Stormstone Fury&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-stormstone-fury.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is a Medium stone humanoid infused with the power of a storm. It can throw
-explosive stones, cause shrapnel to fly outward from its body, and meld into the
-ground for a quick escape. When fighting as part of a team they don’t really
-care about catching allies in their blasts, so if you find yourself on the same
-side as one of these, bring some thunder protection.&lt;/p&gt;
-
-&lt;p&gt;Furies are Level 14 Artillery with 113 HP and Speed 6. They have the usual
-immunity suite, and 10 thunder resistance. Its &lt;strong&gt;Grinding Stones&lt;/strong&gt; melee basic
-attack is terrible, but its &lt;strong&gt;Hurtling Thunderstones&lt;/strong&gt; have Range 20 and do half
-damage on a miss. Hit or miss, they also cause a follow-up explosion (burst 2
-vs. Fortitude) that does thunder damage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shrapnel Burst&lt;/strong&gt; is their “keep away from me” power, sending shrapnel that
-pushes 2 squares and does physical and thunder damage in a close burst 2
-(vs. AC). If that fails, &lt;strong&gt;Meld to Ground&lt;/strong&gt; removes them from the map for a
-turn, after which they reappear up to 10 squares away.&lt;/p&gt;
-
-&lt;h2 id=&quot;tempest-wisp&quot;&gt;Tempest Wisp&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-tempest-wisp.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This gaseous creature is a bit smarter than your average elemental, and actively
-seeks to either ally with or coerce other creatures to form groups that
-cooperate against threats. It uses its wind powers to push enemies around the
-battlefield, and hides behind its allies to avoid damage.&lt;/p&gt;
-
-&lt;p&gt;Tempest Wisps are Level 13 Controllers with 134 HP. They’re immune to disease
-and poison, and are insubstantial while not bloodied (i.e, while at over 50%
-HP). They have a flight speed of 7 with hover capability.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is an &lt;strong&gt;Air Slash&lt;/strong&gt; (vs. Reflex) that does physical damage,
-and they can attack at range with &lt;strong&gt;Whistling Wind&lt;/strong&gt; (ranged 10 vs. Reflex) for
-about the same damage and a 1-square slide.&lt;/p&gt;
-
-&lt;p&gt;Their limited special attack is hilarious! Named &lt;strong&gt;Tumbling Updraft&lt;/strong&gt; (ranged 10
-vs. Fortitude; recharge 5+), it does no immediate damage but instead lifts the
-target 20 feet up on a hit and restrains them (save ends). Each failed save
-causes the victim to be tossed up another 20 feet. On a successful save, the
-victim falls! That’s a minimum of 2d10 fall damage, plus another 2d10 for every
-failed save. It’s all subject to the standard rules for falls, though, so you
-might be able to reduce or avoid this damage in the usual ways.&lt;/p&gt;
-
-&lt;h2 id=&quot;windfiend-fury&quot;&gt;Windfiend Fury&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-windfiend-fury.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Yet another Angry Tornado, this one more purely “stormy” than the others. These
-Large beings like to hang around elemental storms, and so tend to get swept away
-into other planes. Sometimes archons will capture them and bind them to their
-flying ships as a power source and as a means to travel to other planes. You can
-also say these are the beings trapped at the core of those Eberron flying ships.&lt;/p&gt;
-
-&lt;p&gt;These are Level 12 Controllers with 123 HP and a flight speed of 8. Aside from
-the usual immunities to disease and poison they have 15 resistance to lightning
-and thunder.&lt;/p&gt;
-
-&lt;p&gt;They attack in melee with &lt;strong&gt;Flying Debris&lt;/strong&gt;, and toss &lt;strong&gt;Lightning Strikes&lt;/strong&gt; at
-range that do lightning damage and daze for a turn. Their “keep away!” power is
-a &lt;strong&gt;Storm Burst&lt;/strong&gt; that does thunder damage and teleports them to just outside
-the area of effect.&lt;/p&gt;
-
-&lt;h2 id=&quot;windstriker&quot;&gt;Windstriker&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-elemental-windstriker.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Our final Angry Tornado is Medium, and a Level 9 Lurker with 56 HP. They have
-the usual immunities and full-time insubstantiality, along with a flight speed
-of 8. It attacks unpredictably, though apparently not to feed.&lt;/p&gt;
-
-&lt;p&gt;All of their attacks do “cold and thunder” damage. They’re probably going to
-open up with &lt;strong&gt;Searching Wind&lt;/strong&gt; (ranged 10 vs. Will), which knocks prone on a
-hit and marks the target as the windstriker’s quarry as an effect. Then they’ll
-follow that up with &lt;strong&gt;Lethal Windstrike&lt;/strong&gt; (melee 2 vs. AC), which hits hard but
-only works against the quarry. Their basic &lt;strong&gt;Windstrike&lt;/strong&gt; is a lot weaker, so
-it’s for emergencies only.&lt;/p&gt;
-
-&lt;p&gt;If the windstriker takes damage, it activates &lt;strong&gt;Shifting Wind&lt;/strong&gt; as a reaction,
-which gives it the ability to ignore opportunity attacks and pass through enemy
-spaces during its next turn. So it’s going to be flitting back and forth to
-alternate marking someone as a quarry and attempting to assassinate them.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;There’s a whole bunch of sample encounters here, but they’re all easily to
-described: assorted elementals of similar level, occasionally with someone who
-might be the spellcaster binding them, like a tiefling heretic or a beholder.&lt;/p&gt;
-
-&lt;p&gt;I like the lore of elementals in 4e on principle, and we have lots of
-mechanically varied stat blocks here… but there’s &lt;em&gt;so many&lt;/em&gt; of them that they
-all kinda started blurring together by the end. I almost wish we had gotten an
-elemental “plug-in” module for the 4e monster design system rather than this
-long list full of angry rock giants and angry living tornadoes.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/10/elemental.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/10/elemental.html</guid>
         
         <category>dnd4</category>
         
