@@ -38,9 +38,9 @@ unnatural fear in those who hear it.
 
 Cloakers are Large Aberrant Magical Beasts with Darkvision. Their ground speed
 is a pitiful 2 (clumsy), but their flight speed is 8. Despite being aberrant
-there's nothing in their lore linking them to the Far Realm - you could make
-them Natural or give them another more appropriate origin without changing
-anything else.
+there's nothing in their lore linking them to the Far Realm. If you wanted, you
+could make them Natural or give them another any other origin without changing
+anything about their stats.
 
 ### Cloaker Ambusher
 
@@ -57,7 +57,7 @@ do half damage to the monster and half to the victim.
 
 Since this is a grab, escaping requires an Athletic test against the cloaker's
 Fortitude (24) or Acrobatics against its Reflex (23). I guess explicit escape
-DCs are a Monste Vault innovation.
+DCs are a Monster Vault innovation.
 
 As a minor action, the cloaker ambusher can use **Shadow Shift** to gain
 concealment for a turn. If it was already concealed by the environment, it gains
