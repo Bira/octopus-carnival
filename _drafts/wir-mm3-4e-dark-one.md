@@ -12,6 +12,15 @@ fill in the lore gaps.
 
 ## The Lore
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-dark-one.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 If you read the post linked above, you'll see that the MM1 contained little in
 the way of Dark One Lore. I speculated that most of them would be peaceful
 civilians like halflings are, but it seems that the Monster Manual 3 is moving
@@ -34,15 +43,16 @@ isolated from those same societies.
 In other worlds, your typical team of Dark One acquisition experts is in direct
 competition with adventuring parties for the XP and treasure contained in
 dungeons, bandit lairs, and cultist strongholds. The PCs could arrive at one of
-these places only to discover a group of Dark Ones got there first and taken all
+these places only to discover a group of Dark Ones got there first and took all
 the stuff.
 
 Some of them prefer to work as mercenaries instead of thieves, and they'll join
 forces with anyone who pays them. Often their clients end up being cults of
 Vecna and other appreciators of the sneaky-stabby arts.
 
-And of course, if you want to tone down the speciesism here, you can also say
-your typical Dark One settlement relies on _trade_ more than it does on theft or
+And of course, if you want to tone down the speciesism here, you can just remove
+the divine curse bit. If you still want a Dark One community to be dependent on
+goods from outside, you can say they on _trade_ more instead of on theft and
 mercenary work.
 
 ## The Monsters
