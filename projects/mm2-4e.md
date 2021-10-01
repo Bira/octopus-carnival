@@ -90,6 +90,8 @@ variants here. Here they are, from A to Z:
   - [Gnome][51]
   - [Goblin][52]
   - [Golem][53]
+  - [Goliath][54]
+  - [Gray Render][55]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -146,3 +148,5 @@ variants here. Here they are, from A to Z:
 [51]: {{ "/2021/09/01/gnome.html" | relative_url }}
 [52]: {{ "/2021/09/16/goblin.html" | relative_url }}
 [53]: {{ "/2021/09/16/golem.html" | relative_url }}
+[54]: {{ "/2021/09/28/goliath.html" | relative_url }}
+[55]: {{ "/2021/01/10/gray-render.html" | relative_url }}

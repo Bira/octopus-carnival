@@ -19,9 +19,9 @@ and somewhat problematic "outsiders to both parent cultures" narrative from
 previous editions! In fact, everyone likes them!
 
 You see, half-elves aren't just an "average" of their two parents. Yes, they're
-sturdier than elves and more slender than humans, but they also have a lot of
-traits that are uniquely their own. Chief among those is a noticeable facility
-with social interaction and cultural adaptability.
+sturdier than elves and pointier than humans, but they also have a lot of traits
+that are uniquely their own. Chief among those is a noticeable facility with
+social interaction and cultural adaptability.
 
 Half-elves whose parents are a human and an elf can spend their early years in
 either of the two cultures, depending on their specific family
