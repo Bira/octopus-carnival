@@ -6,9 +6,87 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Sep 2021 17:10:28 +0000</pubDate>
-    <lastBuildDate>Tue, 28 Sep 2021 17:10:28 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Oct 2021 18:24:26 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Oct 2021 18:24:26 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Gray Render</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-gray-render.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Here we see something of a rarity in this series: a monster whose 4e incarnation
+I find &lt;em&gt;strictly worse&lt;/em&gt; than its previous ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Gray Renders first appeared in 3e, where they were these big, clawed,
+carnivorous brutes with an oddly endearing trait: they would sometimes imprint
+on another creature and basically dedicate their lives to protect it and take
+care of it. This creature could be a sapient, or even a PC if the GM was feeling
+cute.&lt;/p&gt;
+
+&lt;p&gt;Fourth Edition gray renders lose the imprinting, and replace it with a constant
+urge to destroy and feed. Some sages theorize they’re somehow tied to the
+metaphysical concept of entropy despite being natural beasts, since they seem
+particularly fond of targetting sapient settlements.&lt;/p&gt;
+
+&lt;p&gt;I don’t like this change because, as you might have surmised by now, I’m not
+fond of always-hostile, attacks-on-sight-and-fights-to-the-death monsters. I
+literally never saw anyone mention grey renders online without also mentioning
+and praising the imprinting. Remove that and you’re left with something that’s
+virtually indistinguishable from, say, a goristro demon.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Gray Renders are Large Natural Humanoids with a Chaotic Evil alignment and
+Int 2. They’re Level 19 Elite Brutes with 452 HP and blindsight, who fight using
+claws, bites, and sheer brutality. In other words, almost like slightly smaller,
+slightly dumber goristros with blindsight. They have Speed 8.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a Reach 2 &lt;strong&gt;Claw&lt;/strong&gt; that also grabs on a hit. They can make
+two claw attacks per action, and if both hit the same target they also inflict
+ongoing damage on account of the rending. They can use a grabbed victim as a
+club, inflicting more damage than the claw, pushing the target of the attack 4
+squares from the impact, and dealing half the rolled damage to the “weapon”. Or
+they can bite the grabbed victim for massive damage, with a Daze rider.&lt;/p&gt;
+
+&lt;p&gt;While bloodied, their claw attack also knocks a target prone on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Gray renders are said to be too destructive to cooperate with anyone, but some
+predators and scavengers have taken to following them from safe distance to
+exploit their rampages. So we get these encounter groups:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 18: 1 gray render, 1 bodak skulk, 2 guulvorgs. Opportunistic followers
+can be sapient too.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 20: 1 dire bullette, 1 gray render, 3 nabassu gargoyles. The gargoyles
+are watching the kaiju battle and waiting to feast on the loser’s remains.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The stat block is cool, but the lore is “meh” at best. Reskin this into a demon
+and/or add the imprinting back to make it more interesting.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/01/gray-render.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/01/gray-render.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Goliath</title>
@@ -1272,245 +1350,6 @@ very unfortunate name for an ability, but it’s easy enough to change.&lt;/p&gt
         <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Firbolg</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-firbolg.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Firbolgs are inspired by Celtic myth, and I’m sure they must have appeared in
-earlier editions in some form. I think their 4e presentation in this book is
-new, though.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Firbolgs are giants (not Giants) native to the Feywild. Their culture values
-independence and courage, and their religion is a variant of the
-Maiden-Mother-Crone triumvirate. This variant has a different goddess in each
-role: Sehanine is the Maiden, Melora is the Mother, and the Raven Queen is the
-Crone. This generally results in a religion that’s themed around the night, the
-moon, autumn and winter, instead of the more balanced “classical” version.&lt;/p&gt;
-
-&lt;p&gt;Firbolgs live in and protect the deep wilderness of the Feywild, building their
-settlements on precarious peaks, floating earth motes, and other such hazardous
-heights. Leadership positions are occupied by their mightiest warriors and their
-moon seers (priestesses), both of whom wear masks or helmets styled after one of
-their deities. They place great value on clan and family ties.&lt;/p&gt;
-
-&lt;p&gt;Back when I discussed the &lt;a href=&quot;/octopus-carnival/2020/05/30/hound.html&quot;&gt;Hounds of the Wild Hunt&lt;/a&gt;, I speculated that the
-hunters would be high-powered eladrin. Well, I was wrong! Turns out the Wild
-Hunt is a Firbolg tradition.&lt;/p&gt;
-
-&lt;p&gt;You see, while firbolgs are fond of treasure, they place even greater value in
-oaths and promises. And when someone breaks an oath made to the firbolgs, they
-convene a Wild Hunt to track and punish the infractor. Even people who didn’t
-betray the firbolgs directly still have reason to fear them, as there’s a ritual
-that allows someone to sic a Wild Hunt on an oathbreaker. And I imagine they
-might also ride out to fulfill sacred missions revealed in the moon seers’
-visions.&lt;/p&gt;
-
-&lt;p&gt;Wild Hunts vary in size and composition, and might include allied sapients whose
-goals and temperament are close to those of the firbolgs themselves. The
-mightiest and scariest hunts are led by firbolgs with the oficial title of
-Master of the Wild Hunt, who usually act as community leaders while not
-fulfilling that role.&lt;/p&gt;
-
-&lt;p&gt;PCs might find themselves fighting firbolgs when they stumble on their
-territory, since a firbolg attack will likely be the first sign that they did
-it. They could also find themselves on the path of a Wild Hunt, or even as their
-main target if they manage to piss off someone who can convince the Hunt the PCs
-are oathbreakers.&lt;/p&gt;
-
-&lt;p&gt;Still, it’s possible to negotiate with firbolgs and even approach them
-peacefully. The Wild Hunt is harder to parley with, but it’s still not
-impossible unless the PCs really are oathbreakers. Of course, should their
-interests align, the PCs might find themselves riding alongside the hunters.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Firbolgs are Large Fey Humanoids, and all the ones we see here are
-Unaligned. They all have low-light vision and a natural ground speed of 8. They
-also have Regeneration 5 (10 at Epic tier), which can be shut down for a turn by
-necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;They also have a +2 bonus on saves against charm effects, and the immobilized,
-slowed and restrained conditions. For elite firbolgs, this stacks with the +2 on
-all saves elites get.&lt;/p&gt;
-
-&lt;p&gt;Their signature power is &lt;strong&gt;Moonfire&lt;/strong&gt; (Ranged 10 vs. Will; minor action;
-recharge 4+), which prevents the target from benefitting from cover or
-concealment for a turn. It also has additional effects that vary per stat block,
-but all generally make the target more vulnerable to that firbolg’s attacks. All
-of their other powers come from martial or magic training, and their magic has
-the same themes as their religion.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-hounder&quot;&gt;Firbolg Hounder&lt;/h3&gt;
-
-&lt;p&gt;Hounders are members of firbolg hunting parties whose job is to attack and drive
-prey into a position that makes them vulnerable to the other hunters. They wear
-scale and wield axes and shields. They’re Level 11 Soldiers with 113 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a Reach 2 &lt;strong&gt;Battleaxe&lt;/strong&gt;, and they can use it in a
-&lt;strong&gt;Hounding Strike&lt;/strong&gt; maneuver that has the same basic stats and also slides the
-target 2 squares on a hit. &lt;strong&gt;Drive Prey&lt;/strong&gt; is an even more powerful version of
-that, doing more damage and allowing a secondary attack vs. Will. If that hits,
-the target must move or shift away from the hounder with its first action on its
-next turn, or become dazed until the end of that turn. This ability recharges
-when the hounder is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;At range, the hounder can throw &lt;strong&gt;Handaxes&lt;/strong&gt;, which do light physical damage and
-knock the target prone. Their &lt;strong&gt;Moonfire&lt;/strong&gt; power also marks the target for a
-turn. Finally, the &lt;strong&gt;Hunter’s Leap&lt;/strong&gt; passive trait makes them immune to
-opportunity attacks while jumping. They use the standard jumping rules for that.&lt;/p&gt;
-
-&lt;p&gt;So it looks like these firbolgs will use Hounding Strike and Drive Prey to slide
-enemies into a vulnerable position, and then either stay away and throw
-handaxes, or move into melee to try and keep the enemy pinned in place while the
-other hunters do their jobs.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-hunter&quot;&gt;Firbolg Hunter&lt;/h3&gt;
-
-&lt;p&gt;These are the people the hounder (above) works with. They’re level 12
-Skirmishers with 123 HP, wear light armor and bring &lt;strong&gt;spears&lt;/strong&gt; and &lt;strong&gt;javelins&lt;/strong&gt;
-to bear agains their prey.&lt;/p&gt;
-
-&lt;p&gt;All of their powers enhance their weapon attacks. &lt;strong&gt;Crippling Strike&lt;/strong&gt;
-(recharges when first bloodied) adds extra damage to an attack and makes it
-immobilize the target (save ends) with a Slow after-effect. &lt;strong&gt;Mobile Attack&lt;/strong&gt;
-allows them to move 8 squares and make a basic attack without provoking
-opportunity attacks from the target, or from making ranged attacks. Their
-&lt;strong&gt;Moonfire&lt;/strong&gt; also makes their weapon attacks do +1d6 damage to the affected
-target for a turn.&lt;/p&gt;
-
-&lt;p&gt;And finally, they also have Hunter’s Leap. It’s really hard to run from them,
-particularly when there hounders pinning you down.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-moon-seer&quot;&gt;Firbolg Moon Seer&lt;/h3&gt;
-
-&lt;p&gt;Moon Seers are those priestesses I talked about. They’re Level 14 Controllers
-with 141 HP. They wear masks and light armor, and fight with moon- and
-fate-themed magic.&lt;/p&gt;
-
-&lt;p&gt;A seer’s basic melee attack is a &lt;strong&gt;Moon Mace&lt;/strong&gt; that targets Reflex, deals
-Radiant damage, and blinds the target until the start of its next turn. Their
-&lt;strong&gt;Moonfire&lt;/strong&gt; has the additional effect of making targets grand combat advantage
-to the seer for a turn. After hitting someone with Moonfire, the seer can use
-&lt;strong&gt;Moonstrike&lt;/strong&gt; (vs. Will) to deal psychic damage to that victim and dominate
-them until the end of the seer’s next turn.&lt;/p&gt;
-
-&lt;p&gt;There’s two other spells &lt;strong&gt;Spirit Hounds&lt;/strong&gt; and &lt;strong&gt;Ban of the Raven&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Spirit Hounds is a blast that targets Reflex and only affects enemies. It deals
-psychic damage, slows, and prevents the target from teleporting (save ends),
-which is handy when hunting down eladrin or other fey.&lt;/p&gt;
-
-&lt;p&gt;Ban of the Raven is the big gun, an encounter power that’s a Ranged 10
-vs. Fortitude attack. It deals heavy necrotic damage and worsens critical hits!
-The affected victim takes critical hits on a natural 18-20 instead of only a 20,
-and each such hit deals an extra 10 necrotic damage on top of whatever it would
-normally deal. Once the victim saves against that there’s still a weaker
-aftereffect that makes the victim suffer crits on a 19-20.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-bloodbear&quot;&gt;Firbolg Bloodbear&lt;/h3&gt;
-
-&lt;p&gt;Bloodbears mix in a bit of viking into their Celtic trappings, being able to
-turn into bear hybrids. They’re Level 15 Elite Brutes with 240 HP.&lt;/p&gt;
-
-&lt;p&gt;They fight unarmed, and start out in firbolg form. Once bloodied, they assume
-&lt;strong&gt;Bloodbear Form&lt;/strong&gt;, recover &lt;em&gt;all of their HP&lt;/em&gt;, and double their
-regeneration. This also upgrades all of their attacks. This transformation lasts
-until they’re bloodied again, and then it reverts. So in effect they have 360
-HP, and will become bears for the middle third of that health bar.&lt;/p&gt;
-
-&lt;p&gt;In firbolg form, they fight unarmed with &lt;strong&gt;slams&lt;/strong&gt;, and they can slam twice with
-&lt;strong&gt;Double Attack&lt;/strong&gt;. If they hit both attacks, they can also try to grab the
-target. &lt;strong&gt;Bloodbear Maul&lt;/strong&gt; allows them to automatically deal heavy physical
-damage against the grabbed victim. They have Moonfire, but it’s only the basic
-version.&lt;/p&gt;
-
-&lt;p&gt;In bloodbear form their slams turn into &lt;strong&gt;claw&lt;/strong&gt; attacks that gain increased
-damage, they gain a &lt;strong&gt;bite&lt;/strong&gt; that does even more damage and deals ongoing damage
-if the target is granting AC, and Bloodbear Maul also allows them to make a free
-bite attack against the grabbed target.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-ghostraven&quot;&gt;Firbolg Ghostraven&lt;/h3&gt;
-
-&lt;p&gt;These are Raven Queen themed assassins. They fight with heavy war picks, which
-are not the kind of weapon you’d expect an assassin to use. They can assume the
-form of a ghostly raven, which allows them to better hide in shadows and ambush
-their intended victims.&lt;/p&gt;
-
-&lt;p&gt;Ghostravens are Level 16 Elite Lurkers with 238 HP. Their &lt;strong&gt;picks&lt;/strong&gt; are
-High-Crit weapons, and they can attack twice with them. If both attacks hit the
-victim is blinded (save ends). Assuming &lt;strong&gt;Ghostraven Form&lt;/strong&gt; is a minor action
-that makes them intangible, gives them a fly speed of 8, and gives them
-concealment while in dim light or darkness. When a ghostraven attacks someone
-who can’t see it, it deals increased damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;firbolg-master-of-the-wild-hunt&quot;&gt;Firbolg Master of The Wild Hunt&lt;/h3&gt;
-
-&lt;p&gt;What it says on the tin. These hunt masters usually serve as leaders of firbolg
-communities when they’re not heading a Wild Hunt.&lt;/p&gt;
-
-&lt;p&gt;Hunt Masters are Level 22 Elite Skirmishers with 404 HP. They wear the classic
-stag helmet and fight with a &lt;strong&gt;Spear of the Hunt&lt;/strong&gt; that can make both melee and
-ranged attacks (it returns when thrown). Being elites, they can attack twice per
-action.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Moonfire&lt;/strong&gt; also marks and makes the target grant combat advantage until
-the end of the master’s next turn. They deal increased damage to targets
-affected by Moonfire (from &lt;em&gt;any&lt;/em&gt; firbolg, not just their own).&lt;/p&gt;
-
-&lt;p&gt;Their special attack is a &lt;strong&gt;Mortal Strike&lt;/strong&gt;, which allows them to make a basic
-attack against a bloodied enemy that’s an automatic critical and deals 6d6
-additional damage. If this reduces the target to 0 HP, it gives an extra action
-point to the huntmaster. Action Points, as a reminder, can be spent to give
-their owner a whole extra standard action on their turn. All elites start out
-with one, and the hunt master is one of the few who can gain more during a
-fight.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get two encounters:&lt;/p&gt;
-
-&lt;p&gt;The first is Level 13, a moon seer, a hunter and two hounders plus 2 centaur
-hunters. This is either a “lesser” Wild Hunt or just a normal hunting
-party/patrol. It hints that there’s likely a joint Centaur/Firbolg culture out
-there somehwer.&lt;/p&gt;
-
-&lt;p&gt;The second is a proper scary Wild Hunt: the Master of the Wild Hunt along with
-two Wild Hunt hounds, a bloodbear, and 2 ghostravens. It’s level 22, which means
-relatively few things in the setting can really stand up to it.&lt;/p&gt;
-
-&lt;p&gt;I like firbolgs more than I though I would! There’s plenty of information on
-them here, and it does plenty to differentiate them from the more standard
-giants.&lt;/p&gt;
-
-&lt;p&gt;One thing I found a bit awkward are the bits of text in the book that say they
-value “the middle path between good and evil”. This is derived from one of
-Sehanine’s commandments, which is equally awkward. What does this mean? Are they
-supposed to feed a puppy one day and kick it on the next to keep things
-balanced? A more charitable interpretation might be that they’re not any more
-inclined to trust people who claim to be champions of good than they are anyone
-else, and try to stay out of those particular cosmic struggles.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/17/firbolg.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/17/firbolg.html</guid>
         
         <category>dnd4</category>
         
