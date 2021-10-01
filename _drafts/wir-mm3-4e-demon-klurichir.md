@@ -6,9 +6,18 @@ tags
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-demon-klurichir.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The Abyss is home to several powerful demon lords, each of whom has their own
 ruinous designs on the rest of the universe and is building an army to enact
-those designs. Yet these armies never seem to leave the Abyss to start their
+those designs. Yet these armies rarely seem to leave the Abyss to start their
 invasions. One of the reasons for this is that the demon lords hate each other
 as much as they hate everything else, and spend much of their time locked in
 eternal bloody warfare. Another one is that you have huge hordes of "unclaimed
