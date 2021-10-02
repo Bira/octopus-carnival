@@ -6,9 +6,153 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Oct 2021 19:49:41 +0000</pubDate>
-    <lastBuildDate>Fri, 01 Oct 2021 19:49:41 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Oct 2021 14:27:27 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Oct 2021 14:27:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Half-Elf</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-half-elf.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Half-elves have been a part of D&amp;amp;D since races were first separated from classes
+back in AD&amp;amp;D 1st Edition. I guess they might have been inspired by Elrond from
+Lord of the Rings, who was said to be a half-elf. They appeared as a playable
+option right in the first PHB, but they’re only getting their monster/NPC
+entries here.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;I’m happy to report that Fourth Edition half-elves no longer follow the tired
+and somewhat problematic “outsiders to both parent cultures” narrative from
+previous editions! In fact, everyone likes them!&lt;/p&gt;
+
+&lt;p&gt;You see, half-elves aren’t just an “average” of their two parents. Yes, they’re
+sturdier than elves and pointier than humans, but they also have a lot of traits
+that are uniquely their own. Chief among those is a noticeable facility with
+social interaction and cultural adaptability.&lt;/p&gt;
+
+&lt;p&gt;Half-elves whose parents are a human and an elf can spend their early years in
+either of the two cultures, depending on their specific family
+circumstances. Their names and mannerisms tend to be taken from that
+culture. You can also have all-half-elf cultures and communities whose
+human and elven ancestors are several generations behind them. In all cases it’s
+very common for individuals to journey abroad for a while out of a sense of
+curiosity and wanderlust, and they tend to fit in well in any place where they
+linger for a while.&lt;/p&gt;
+
+&lt;p&gt;Of course, “Nice” doesn’t necessarily mean “Good”, and you can also find
+villainous half-elves who become bandit leaders or fall in with dark
+forces. They’re technically better-suited to be infernal warlocks than
+&lt;em&gt;tieflings&lt;/em&gt;, given their stat adjustments.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three stat blocks here, more suitable for use as opposition than as
+allies, though they could also fill that role in a more morally ambiguous
+adventure.&lt;/p&gt;
+
+&lt;p&gt;Half-elves are Medium Natural humanoids, with a native speed of 6 and low-light
+vision. Everything else about their stat blocks comes from training.&lt;/p&gt;
+
+&lt;h3 id=&quot;half-elf-bandit-captain&quot;&gt;Half-Elf Bandit Captain&lt;/h3&gt;
+
+&lt;p&gt;This could be a murderous marauder or a Robin Hood figure. They’re a level 6
+Skirmisher with the Leader keyword and 69 HP. They wear light armor, wield a
+sword, and carry a bunch of throwing daggers.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;sword&lt;/strong&gt; is a basic melee attack that allows the captain to shift 1 square
+on a hit. Their basic ranged attack is a thrown &lt;strong&gt;dagger&lt;/strong&gt;. A maneuver named
+&lt;strong&gt;Slash and Dash&lt;/strong&gt; (recharge 4+) allows them to make a sword attack, shift 2
+squares and throw a dagger. Their leaderly move is named &lt;strong&gt;Triggering Slash&lt;/strong&gt;
+(recharge 5+), a sword attack that on a hit allows an ally to shift 1 square and
+make a melee basic attack of their own.&lt;/p&gt;
+
+&lt;h3 id=&quot;half-elf-con-artist&quot;&gt;Half-Elf Con Artist&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 7 Controller with 77 HP. Whether they’re a lovable rogue or a
+dastardly deceiver depends on which side of the con you’re on. The con artist
+goes unarmored and clad in fine clothes, with a dagger hidden somewhere for
+protection. They’re trained in all the skills you’d expect them to have:
+Stealth, Bluff, Thievery, and Insight.&lt;/p&gt;
+
+&lt;p&gt;That &lt;strong&gt;dagger&lt;/strong&gt; isn’t anything special, but it deals extra sneak attack damage
+if the con artist has combat advantage against the target. Their real weapon is
+&lt;em&gt;manipulation&lt;/em&gt;, though. This is implemented as a trio of charm powers that
+target Will. It’s up to you whether they’re actual magic or just the con artist
+being very sly and convincing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deceptive Maneuver&lt;/strong&gt; is an at-will melee power that causes the target to make
+a melee basic attack against an ally of the half-elf’s choice. The classic
+“getting between two enemies to make them hit each other”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Silver Deception&lt;/strong&gt; (ranged 10; recharge 5+) does no damage, but dominates the
+target until the end of the con artist’s next turn.&lt;/p&gt;
+
+&lt;p&gt;And &lt;strong&gt;Pathetic Appeal&lt;/strong&gt; is an encounter power that targets every enemy in a
+close burst 5 and, on a hit, prevents them from attacking the con artist until
+they pass a save. If the con artist makes an attack roll against an affected
+target, they get an immediate extra save against this effect. “I’ve seen the
+error of my ways, honest!”&lt;/p&gt;
+
+&lt;p&gt;To close things out, &lt;strong&gt;Grifter’s Flight&lt;/strong&gt; is another encounter power that allows
+the con artist to shift 6 squares and make an unpenalized Stealth check at the
+end&lt;/p&gt;
+
+&lt;h3 id=&quot;half-elf-baleful-thaumaturge&quot;&gt;Half-Elf Baleful Thaumaturge&lt;/h3&gt;
+
+&lt;p&gt;An epic-level evil wizard for all of your epic-level evil wizard needs. The stat
+block itself is Unaligned, so you could also use it to represent a wizard that’s
+merely edgy. No reason it has to be a half-elf either, the stats could apply to
+any Medium sapient. Their magic has a “blood and teeth” theme, which gives you a
+hint as to what kind of entity they learned it from.&lt;/p&gt;
+
+&lt;p&gt;The thaumaturge is Level 24 Artillery with 169 HP. They go unarmored, and wield
+a wand as an implement. Their basic melee attack is an &lt;strong&gt;Infernal Slam&lt;/strong&gt; that
+targets Will. A hit damages the target, pushes it 3 squares, and allows the
+thaumaturge to teleport 3 squares. Their basic ranged attack is a &lt;strong&gt;Soul Bite&lt;/strong&gt;
+spell (ranged 10 vs. Reflex) that does physical damage and gives the thaumaturge
+10 temporary HP on a hit.&lt;/p&gt;
+
+&lt;p&gt;The “bitey” theme continues with their two special attacks. &lt;strong&gt;Wall of Shadow
+Teeth&lt;/strong&gt; (recharge 5+) creates wall 2 squares high and 8 squares long within 10
+squares of the caster. This wall bites, attacking anyone adjacent to it. A hit
+deals necrotic damage and immobilizes the target (save ends). It lasts for a
+turn but can be sustained with minor actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mouths of Hell&lt;/strong&gt; (close blast 5 vs. Will; encounter) deals heavy psychic
+damage and also gives the thaumaturge 10 temporary HP. This creates a zone of
+ghostly maws that lasts until the end of the encounter, deals 15 psychic damage
+to anyone caught inside, and gives the caster 5 temporary HP when it damages
+someone in this way.&lt;/p&gt;
+
+&lt;p&gt;The thaumaturge can also spend 5 temporary HP if it has them to teleport 8
+squares as a minor action, with a spell called &lt;strong&gt;Bloody Step&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;There isn’t much of a theme to the half-elves in this entry, but I guess that’s
+the point. They’re as varied as humanity. Each individual entry has their own
+thing going.&lt;/p&gt;
+
+&lt;p&gt;The two sample encounters we get are a Level 7 one with a bandit captain leading
+a gang of humans and halflings, and a Level 25 one with an epic lich and its
+entourage of 2 thaumaturges and 2 slaughterstone hammerers.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/02/half-elf.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/02/half-elf.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Gray Render</title>
@@ -1158,198 +1302,6 @@ settlement is a githzerai monastery or the City of Brass.&lt;/p&gt;
         <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/26/genasi.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/26/genasi.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Fomorian</title>
-        <description>&lt;p&gt;Fomorians first appeared in the first Monster Manual, and we covered them
-&lt;a href=&quot;/octopus-carnival/2020/03/07/fomorian.html&quot;&gt;here&lt;/a&gt;. This entry gives us more fomorian stat blocks, and a few more bits of
-lore.&lt;/p&gt;
-
-&lt;p&gt;First, we have a bit of general lore, which is really a logical extension of the
-fact that Fomorians believe themselves the most important creatures in the
-universe. They hate all other fey, but that hate manifests as a desire to
-subjugate rather than exterminate them. Their perfect world is one where
-fomorians rule absolute over the Feywild and have all its other inhabitants
-forever toiling to please their masters.&lt;/p&gt;
-
-&lt;p&gt;Because of this obsession, fomorians are eternally at war with the other fey
-civilizations. It’s likely they’ll never succeed in conquering all of the
-Feywild, but they’ll never stop trying either. I suppose there must also be some
-level of internecine strife among them, because it seems to be they’re very
-likely to fight over who gets to be supreme ruler.&lt;/p&gt;
-
-&lt;p&gt;The remaining bits of lore concern the individual stat blocks here, and so will
-be covered in those stat blocks.&lt;/p&gt;
-
-&lt;p&gt;Numbers-wise, fomorians still retain their common traits from the &lt;a href=&quot;/octopus-carnival/2020/03/07/fomorian.html&quot;&gt;first
-article&lt;/a&gt;: they’re Huge Fey Humanoids with the Giant keyword; they’re
-extremely perceptive (trained Perception, Truesight 6); and they have some sort
-of “evil eye” ability that varies per stat block.&lt;/p&gt;
-
-&lt;h2 id=&quot;fomorian-ghost-shaman&quot;&gt;Fomorian Ghost Shaman&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-ghost-shaman.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Ghost shamans are necromancers who enslave the spirits of those they kill. They
-command these spirits as if they were puppets, enacting sadistic plays for their
-own amusement. They also use enslaved spirits as weapons in combat.&lt;/p&gt;
-
-&lt;p&gt;Ghost shamans are Level 16 Elite Controllers with 312 HP. They have darkvision
-in addition to the other fomorian traits. All of their attacks are magical in
-nature and, except for the Evil Eye, target Fortitude. Their basic melee attack
-is &lt;strong&gt;Death’s Touch&lt;/strong&gt;, which deals necrotic damage and slows (save ends). Their
-&lt;strong&gt;Evil Eye&lt;/strong&gt; is a minor-action ranged attack that inflicts ongoing necrotic
-damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;At will, they can use &lt;strong&gt;Spirits of Possession&lt;/strong&gt; (close blast 3), which targets
-people taking ongoing necrotic damage and dominates them on a hit (save ends). A
-bit less often they can use &lt;strong&gt;Darksoul Mist&lt;/strong&gt;, which is like a necrotic fireball
-that leaves a zone of darkness in the affected area. This blocks line of sight
-for anyone without darkvision.&lt;/p&gt;
-
-&lt;h2 id=&quot;fomorian-cackler&quot;&gt;Fomorian Cackler&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-cackler.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Cacklers are sly but unhinged assassins who get their name because they
-constantly laugh a disturbing laugh. They can be silent when they want to be,
-though, and are amazingly stealthy for someone the size of a house. They can
-also use magic to shrink down to Medium size, which helps a lot.&lt;/p&gt;
-
-&lt;p&gt;Cacklers are also excellent at disguising themselves, since their minds can
-easily construct entire fake personalities to aid in that. It’s possible for
-previously discarded personalities to momentarily come to the fore again,
-though, which is part of why they’re so unstable.&lt;/p&gt;
-
-&lt;p&gt;They fight with &lt;strong&gt;daggers&lt;/strong&gt; bigger than the average human greatsword, which they
-can use in melee or throw out to range 10. The thrown dagger attack can target
-one or two enemies, and they return after it resolves.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Evil Eye&lt;/strong&gt; makes them invisible to the affected enemy, and they get a
-big bonus to damage against targets that can’t see them. &lt;strong&gt;Size Alteration&lt;/strong&gt;
-lets them switch between Huge and Medium as a minor action.&lt;/p&gt;
-
-&lt;h2 id=&quot;fomorian-totemist&quot;&gt;Fomorian Totemist&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-totemist.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Totemists are fomorian spellcasters that collect the heads of those they kill
-and build chains out of them. Each head in the chain is imbued with necromantic
-power, and can channel a different curse. Most totemists have a preference for a
-particular type of head - one might favor eladrin heads, another dwarves, and so
-on. Some of them select prospective additions to their chains year in advance,
-following the lives of their future victims until the time is right for the
-“harvest”.&lt;/p&gt;
-
-&lt;p&gt;Totemists are Level 18 Elite Skirmishers with 352 HP. They fight with the
-afore-mentioned &lt;strong&gt;Chain of Heads&lt;/strong&gt;, which is Reach 4, does physical damage and
-inflicts ongoing necrotic damage. They can also channel curses through the chain
-as a minor action, with an ability with the very unfortunate name of
-&lt;strong&gt;Voodoo&lt;/strong&gt;. There are three possible effects: the &lt;strong&gt;Glorious Head&lt;/strong&gt; blinds, the
-&lt;strong&gt;Wasting Head&lt;/strong&gt; weakens, and the &lt;strong&gt;Bewildering Head&lt;/strong&gt; forces the target to make
-a melee basic attack against an ally in reach. After attacking, the totemist can
-shift 1 square.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Evil Eye&lt;/strong&gt; does light necrotic damage and inflicts a -2 penalty to
-saves, which helps that blindness or weakness last longer. And finally we have
-&lt;strong&gt;Fresh Rage&lt;/strong&gt;, a passive trait that makes their first succesfful attack in
-their turn deal extra damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;fomorian-blinder&quot;&gt;Fomorian Blinder&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-blinder.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Blinders have more specialized and discerning tastes than totemists. They
-collect &lt;em&gt;eyes&lt;/em&gt; instead of lugging whole heads around. Blinders are the scholars
-and sages of fomorian-kind, acting as repositories of their civilization’s
-lore. They’re also very good at eye-based magic - if anyone knows how to make a
-defense against the Evil Eye, it’s them.&lt;/p&gt;
-
-&lt;p&gt;Blinders are Level 20 Elite Artillery with 296 HP. They use &lt;strong&gt;quarterstaffs&lt;/strong&gt;
-for melee combat but their forte is eye magic. &lt;strong&gt;Acid Eye&lt;/strong&gt; is a ranged attack
-that deals acid and necrotic damage, and whose enervating properties prevent the
-use of encounter or daily powers for a turn. &lt;strong&gt;Shower of Ichor&lt;/strong&gt; (encounter)
-deals the same damage over a wider area, and also inflicts ongoing acid and
-necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;The blinder’s actual &lt;strong&gt;Evil Eye&lt;/strong&gt; is quite powerful: it does no damage by
-itself, but someone cursed by it will take the same damage the fomorian inflicts
-on other enemies with their other attacks. It ends when the victim saves
-successfully, or when the fomorian uses this on someone else.&lt;/p&gt;
-
-&lt;p&gt;Ironically, blinders have no abilities that actually blind people.&lt;/p&gt;
-
-&lt;h2 id=&quot;fomorian-butcher&quot;&gt;Fomorian Butcher&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-fomorian-butcher.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Butchers are big fomorians with big blades who like to cut people up for
-fun. Such simplicity is a bit disappointing after we saw all those esoterically
-evil fomorian casters and assassins, but they’re still very dangerous and just
-as ambitious. In fact, they go to absurd lengths to fulfill their serial-killer
-urges, and will often trade their souls to devils and make other dangerous deals
-in exchange for more power.&lt;/p&gt;
-
-&lt;p&gt;Butchers are Level 22 Elite Brutes with 514 HP. They use titan-sized
-&lt;strong&gt;falchions&lt;/strong&gt;, which are High-Crit weapons. They’re all about focusing on a
-single victim and hacking them apart with repeated strikes: when they score a
-critical, they can make another free attack with the falchion against the same
-victim, and their attacks deal a bunch of extra damage against a victim they
-already hit earlier in the same turn. Their &lt;strong&gt;Evil Eye&lt;/strong&gt; restrains (save ends).&lt;/p&gt;
-
-&lt;p&gt;There are several ways they can get that extra damage from a “subsequent” hit:
-the bonus attack from a critical, spending an action point to attack again, and
-I’d say hitting with the Evil Eye also counts for this. So they’ll always try
-that before swinging their blades.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Most of the sample encounters here are “Assorted Fomorians” from this book and
-the MM. One of them also involves drow and Lolthbound Goblins. Generally
-speaking you can also frequently find fomorians accompanied by cyclops slaves,
-or by other evil fey they’ve enslaved or allied with. Devils could also make an
-appearance, since it seems Fomorian diabolists are somewhat common.&lt;/p&gt;
-
-&lt;p&gt;This lot is quite a bit more flavorful than the fomorians in the MM, and the
-extra lore does justice to the basics laid down by the first book. “Voodoo” is a
-very unfortunate name for an ability, but it’s easy enough to change.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/25/fomorian.html</guid>
         
         <category>dnd4</category>
         
