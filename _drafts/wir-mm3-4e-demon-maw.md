@@ -13,8 +13,8 @@ eat. They're a bit like sharks, drawn to the smell of blood, and will prioritize
 an easy meal over a fight.
 
 Maw demons are still demons, so they prefer their meals bloody and still
-twitching. If there are none like that, they have no trouble advancing on the
-closest living creature.
+twitching. If there are none like that, they'll advance on the nearest living
+creature.
 
 The typical maw demon is rather weak as far as demons go, though it still
 presents a big threat to non-combatants. Those who manage to live longer become
