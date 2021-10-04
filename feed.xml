@@ -6,9 +6,161 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Oct 2021 22:23:17 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Oct 2021 22:23:17 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Oct 2021 22:27:45 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Oct 2021 22:27:45 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Half-Orc</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-half-orc.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Half-Orcs have been in the game since the days of AD&amp;amp;D, where they appeared as a
+playable option in the Player’s Handbook. Historically, they were one of the
+first “edgy” options for players, but they’ve always been a bit controversial
+and surrounded by Unfortunate Implications. The main one being that most
+versions of them implied that there was only one very unpleasant way in which an
+orc and a human could have a child.&lt;/p&gt;
+
+&lt;p&gt;In more recent years, several different solutions to this have been
+proposed. Some remove half-orcs from the game, others say they’re full orcs and
+that’s what a full orc looks like. Fourth Edition went with a third common
+option, which is to diversify the origins of half-orcs.&lt;/p&gt;
+
+&lt;p&gt;They appear as a playable option in the PHB 2, and have their NPC/enemy-style
+entries here.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Half-Orcs as a people tend to combine the daring and ambition of humans with the
+strength and ferocity of orcs. Their build and features are orcish, but their
+hair and skin tones resemble those of humans rather than the greens and blues
+this edition uses for orcs.&lt;/p&gt;
+
+&lt;p&gt;Half-orcs are as numerous as any other people without “half-“ in their
+name. They have their own communities and cultures, and also live in more
+cosmopolitan settlements along with other sapients. You could play a half-orc
+who has neither humans nor orcs anywhere in their family tree, or at least none
+in living memory. In fact, they’ve been around in this state for so long that no
+one knows their true origins.&lt;/p&gt;
+
+&lt;p&gt;There are several competing theories. A more mythical version says that they
+arose when Gruumsh lost his eye and his spilled blood hit the world. Another
+myth says Kord created them by copying the best elements from his two favorite
+species. Others say they started out as a super-soldier experiment by an evil
+wizard, or when human and orc barbarian tribes joined in alliance in ancient
+times. Another still says they were engineered by the ancient goblin empire to
+act as orc wranglers.&lt;/p&gt;
+
+&lt;p&gt;And of course, you can still have a half-orc who’s the product of a happy
+marriage between a human and an orc. If you really want to you could also make a
+half-orc PC with the classic “Unfortunate” origin, but now it’s no longer
+exclusive to them. If you really want to play an edgy character, there are
+better options around these days.&lt;/p&gt;
+
+&lt;p&gt;Another thing that has been removed this edition is the “caught between two
+worlds, hated by both” cliche that used to plague both half-elves and
+half-orcs. And to that I say good riddance.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;NPC Half-Orcs have the same signature traits as their playable version:
+low-light vision, a +2 bonus to speed when charging, and the &lt;strong&gt;Furious Assault&lt;/strong&gt;
+encounter power. This can be used as a free action right after the half-orc hits
+an enemy, and increases the damage of the attack by 1d10. It’s a bit better than
+the PC version, which only increases it by 1d8.&lt;/p&gt;
+
+&lt;h3 id=&quot;half-orc-hunter&quot;&gt;Half-Orc Hunter&lt;/h3&gt;
+
+&lt;p&gt;A ranger-type who really likes to jump into melee combat, fighting in a reckless
+manner. Wearing light armor, they carry a battleaxe and a longbow into combat.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;axe&lt;/strong&gt; and the &lt;strong&gt;bow&lt;/strong&gt; are basic attacks, and &lt;strong&gt;Evasive Chop&lt;/strong&gt; allows the
+hunter to shift 1 square before making an axe attack. &lt;strong&gt;Draw First Blood&lt;/strong&gt; is a
+passive trait that increases their damage against any enemy who hasn’t yet taken
+damage in this fight. Combining it with Furious Assault makes for a good “alpha
+strike”.&lt;/p&gt;
+
+&lt;h3 id=&quot;half-orc-death-mage&quot;&gt;Half-Orc Death Mage&lt;/h3&gt;
+
+&lt;p&gt;The death mage is more of a priest-type, serving an exarch of Gruumsh named
+Yurtrus. Yurtrus presides over disease, misery, and death, so their magic
+follows the same themes. Death Mages are always Evil, unlike the others here who
+are presented as Unaligned. They wear robes and carry quarterstaffs that work
+more as implements than as weapons.&lt;/p&gt;
+
+&lt;p&gt;Though they can attack with that &lt;strong&gt;staff&lt;/strong&gt;, their main melee attack is a
+&lt;strong&gt;rotting touch&lt;/strong&gt; that targets Fortitude and does both immediate and ongoing
+necrotic damage (save ends). The touch also strips any necrotic resistance or
+immunity the target might have! This opens it up to necrotic attacks from
+others, and allows that ongoing damage to have an effect. Saving against the
+damage also ends this condition.&lt;/p&gt;
+
+&lt;p&gt;At range, they can shoot &lt;strong&gt;Bolts of Putrescence&lt;/strong&gt; vs. Reflex that deal physical
+damage and inflict a -5 penalty to all the target’s defenses for a turn. Their
+area attack is a &lt;strong&gt;Swarm of Flies&lt;/strong&gt; that deals physical damage and creates a
+zone over the affected area. Anyone caught inside takes damage from fly bites,
+and has their visibility restricted to 3 squares. The death mage can move the
+zone 2 squares as a minor action.&lt;/p&gt;
+
+&lt;p&gt;The death mage has the racial Furious Assault power, and it’s worth remembering
+that it can enhance &lt;em&gt;any&lt;/em&gt; attack, not just physical ones. Its final power is
+&lt;strong&gt;Death Mark&lt;/strong&gt;, which automatically deals heavy physical damage to whoever
+reduces the mage to 0 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;half-orc-scarthane&quot;&gt;Half-Orc Scarthane&lt;/h3&gt;
+
+&lt;p&gt;Scarthanes are veteran warriors that eschew armor and proudly display the
+tapestry of scars covering their skin. The more wounded they are, the more
+dangerous they become, and either ferocity or blood magic allows them to keep
+fighting even through all those wounds.&lt;/p&gt;
+
+&lt;p&gt;A Scarthane is a Level 7 Brute with 96 HP, wielding a greataxe and fighting
+unarmored. The &lt;strong&gt;axe&lt;/strong&gt; is a High-Crit weapon, and they’re limited to basic
+attacks and Furious Assault at first.&lt;/p&gt;
+
+&lt;p&gt;When the scarthane hits a bloodied target, &lt;strong&gt;Blood for Blood&lt;/strong&gt; makes the attack
+deal +1d6 damage and heals them for 5 HP.&lt;/p&gt;
+
+&lt;p&gt;Once the scarthane becomes bloodied, &lt;strong&gt;Wounded Retaliation&lt;/strong&gt; allows them to make
+a basic attack against whoever bloodied them. They also gain &lt;strong&gt;Bloodfury
+Attack&lt;/strong&gt;, an axe attack that lacks the High-Crit property but deals more base
+damage and heals the scarthane for 10 HP when it hits. This does stack with
+Blood for Blood!&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Half-orcs can be found among humans, orcs, or other creatures that associate
+with them. They can easily be reskinned by replacing their signature traits with
+those of the target species.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 2 half-orc hunters, 1 human hexer, 4 human berserkers. A barbarian
+hunting party.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 9: 4 scarthanes, 1 orc chieftain, 1 orc eye of Gruumsh. The scarthanes
+make an excellent honor guard.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/04/half-orc.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/04/half-orc.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Half-Elf</title>
@@ -1122,186 +1274,6 @@ soldiers, wraith warriors…).&lt;/p&gt;
         <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Genasi</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-genasi.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The concept of “people touched by the elements” is a 3e thing, but genasi as
-presented in Fourth Edition are slightly different than what came before
-them. They debuted in the Forgotten Realm Player’s Guide as a playable option,
-and would later appear in the MM2 in “monster” format.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;In previous editions genasi were humans with “genie blood”, but in Fourth
-they’re simply humanoid sapients from the Elemental Chaos. They’re given no
-cosmically significant origin story like tieflings or daeva, so I must assume
-they simply evolved naturally in that plane.&lt;/p&gt;
-
-&lt;p&gt;Genasi look more or less human and have human proportions, but each of them also
-has an &lt;em&gt;elemental manifestation&lt;/em&gt;. The five known manifestations are “firesoul”,
-“watersoul”, “windsoul”, “stormsoul”, and “earthsoul”. Each genasi is born with
-one of these and an individual’s manifestation has more to do with their
-environment than with genetics. A genasi community built inside a volcano is
-going to have a lot of firesouls, and so on.&lt;/p&gt;
-
-&lt;p&gt;A genasi’s manifestation accents their physical appearance and defines some of
-their inborn powers and resistances. It’s an always active part of their being,
-not something they can turn off. Some of them train to acquire additional
-manifestations. PCs can have two at most, but some NPCs can have more.&lt;/p&gt;
-
-&lt;p&gt;Genasi live primarily in the Elemental Chaos. They have an easier time of it
-than most other mortals but still must step lightly around efreeti and the
-like. They can also be found in the world or in the Feywild, since they don’t
-have any more difficulty living there than a human would.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Genasi are Medium Elemental Humanoids, with a ground speed of 6. They tend to
-have keywords corresponding to their elemental manifestations: a fire genasi
-will have the Fire keyword, and so on. Their manifestation also determines what
-elements they are resistant to, if any, and the themes of their powers. What
-those powers are is mostly a function of training, so varies per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;genasi-elemental-dervish&quot;&gt;Genasi Elemental Dervish&lt;/h3&gt;
-
-&lt;p&gt;“I’m the Avatar, and you’re gonna have to deal with it!” This is a genasi
-warrior who has learned to manifest multiple elements, and trained extensively
-with the double sword. They can move equally well on the ground, in the water,
-or in the air. Their sword attacks can cause several different types of
-elemental damage, as can their magic.&lt;/p&gt;
-
-&lt;p&gt;Elemental dervishes are Level 18 Elite Controllers with 344 HP and keywords for
-the four “classic” elements (air, earth, fire, water). They have ground, swim,
-and fly speeds of 6, and 10 resistance to cold, fire, and lightning damage.&lt;/p&gt;
-
-&lt;p&gt;At the start of its turn, the Dervish chooses an between fire, lightning and
-thunder. Their &lt;strong&gt;double sword&lt;/strong&gt; attacks will deal both immediate and ongoing
-damage of that type. They can make two of those per action, being elites.&lt;/p&gt;
-
-&lt;p&gt;When a dervish is hit by an adjacent enemy, it can use its reaction to respond
-with a &lt;strong&gt;Fiery Riposte&lt;/strong&gt;, which targets Reflex and inflicts 10 ongoing fire
-damage (save ends). If the enemy was already on fire, their existing ongoing
-fire damage increases by 10 instead.&lt;/p&gt;
-
-&lt;p&gt;Their special attack is &lt;strong&gt;Primordial Storm&lt;/strong&gt; (recharge 5+), which allows them to
-shift 6 squares and perform three attacks in order against different targets at
-any point along the movement. The first is &lt;strong&gt;Promise of Storm&lt;/strong&gt;, which deals
-thunder damage and makes the target Vulnerable 5 to thunder (save ends). The
-second is &lt;strong&gt;Earth Shock&lt;/strong&gt;, which deals physical damage and stuns for a turn. The
-third and last one is &lt;strong&gt;Lightning Cut&lt;/strong&gt;, which deals lightning damage and
-inflicts 10 ongoing lightning damage.&lt;/p&gt;
-
-&lt;p&gt;The elemental dervish is flashy and awesome, and given enough time or
-well-selected comrades they can set up some interesting elemental damage combos.&lt;/p&gt;
-
-&lt;h3 id=&quot;genasi-fireblade&quot;&gt;Genasi Fireblade&lt;/h3&gt;
-
-&lt;p&gt;A very straightfoward hot-headed warrior who charges into combat with a flaming
-falchion. It’s a Level 11 Brute with 139 HP.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;falchion&lt;/strong&gt; it wields is a High-Crit weapon and inflicts ongoing fire
-damage. It has the same Fiery Riposte as the dervish, dealing 5 ongoing damage
-instead of 10. Its other power is &lt;strong&gt;Fan The Flames&lt;/strong&gt; (Close Burst 1 vs. Reflex;
-recharge 5+), which sets people on fire and gives them a -2 penalty to saves
-against ongoing fire damage.&lt;/p&gt;
-
-&lt;p&gt;Fireblades are going to charge into combat, Fan the Flames, and then get to work
-on cutting people up and setting them on fire at the same time.&lt;/p&gt;
-
-&lt;h3 id=&quot;genasy-hydromancer&quot;&gt;Genasy Hydromancer&lt;/h3&gt;
-
-&lt;p&gt;AKA, a waterbender that’s also partially made of water. This Level 8 Controller
-has 91 HP, a swim speed of 8, and fights with a high-crit &lt;strong&gt;Scimitar&lt;/strong&gt; and lots
-of water powers.&lt;/p&gt;
-
-&lt;p&gt;The basic &lt;strong&gt;Wave Bolt&lt;/strong&gt; (ranged 5) deals physical damage and slides targets 3
-squares; &lt;strong&gt;Whirling Vortex&lt;/strong&gt; (recharge 5+) does the same in a burst around the
-hydromancer that affects only enemies; &lt;strong&gt;Drowning Touch&lt;/strong&gt; inflicts ongoing
-damage on a single target (save ends), but only recharges once the target saves
-or drops to 0 HP.&lt;/p&gt;
-
-&lt;p&gt;The “partially made of water” bit is expressed by two other abilities: &lt;strong&gt;Liquid
-Body&lt;/strong&gt; is a reaction that allows them to take half damage from the triggering
-attack, and &lt;strong&gt;Swift Current&lt;/strong&gt; (encounter) allows them to shift their speed with
-the ability to move through enemy spaces and basically ignore all terrain
-effects while doing so.&lt;/p&gt;
-
-&lt;h3 id=&quot;genasi-skyspy&quot;&gt;Genasi Skyspy&lt;/h3&gt;
-
-&lt;p&gt;A windsoul genasi that fights with paired shortswords and uses their mobility
-powers to enhance their hit and run tactics. They’re a Level 7 Skirmisher with
-78 HP and 5 cold resistance.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;short sword&lt;/strong&gt; attack allows them to shift 1 square on a hit, and
-they can make two of those against an opponent granting them combat
-advantage. &lt;strong&gt;Feather-Footed&lt;/strong&gt; gives them an AC bonus against opportunity
-attacks, and &lt;strong&gt;Sky Jaunt&lt;/strong&gt; (recharge 4+) allows them to fly until the end of
-their current turn.&lt;/p&gt;
-
-&lt;p&gt;Should the PCs manage to surround the skyspy, the genasi can use &lt;strong&gt;Manifest
-Whirlwind&lt;/strong&gt; (close burst 2; encounter) to do some damage, push them 1 square,
-and knock them prone. This should help clear some space.&lt;/p&gt;
-
-&lt;h3 id=&quot;genasi-stoneshield&quot;&gt;Genasi Stoneshield&lt;/h3&gt;
-
-&lt;p&gt;A heavily armored earthsoul warrior wielding a heavy pick in battle. It’s a
-Level 10 Soldier with 106 HP. Stoneshields are difficult to push around - any
-forced movement applied to them is reduced by 1 square.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;war pick&lt;/strong&gt; is a High Crit weapon, and it also marks on a hit. This mark is
-remarkable for being (save ends) instead of only lasting a turn. Marked targets
-take a -5 penalty to damage against the stoneshield’s allies. They can also
-attack with a &lt;strong&gt;Mighty Bull Rush&lt;/strong&gt; that does the same damage as the pick and
-pushes the target 1 square. It also allows the stoneshield to move into the
-target’s previous position.&lt;/p&gt;
-
-&lt;p&gt;Finally, they can stomp really hard and cause a non-damaging &lt;strong&gt;Earth Shock&lt;/strong&gt;
-(minor action; encounter) that covers a Close Burst 2 and knocks enemies prone
-on a hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Genasi can be found alongside a large variety of other creatures, particularly
-elementals. They’re as morally varied as humans, so a villain could certainly
-employ genasi henchpeople. We have three example encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 8: 3 genasi skyspies riding hipogriff dreadmounts, accompanied by their
-pet shardstorm vortex elemental.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 10: 2 fireblades, 2 stoneshields, and a trained magma strider.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 19: Two storm archons (a squallshield and a tempest weaver) and two
-elemental dervish mercs.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Reading about genasi doesn’t give me the sort of instant adventure inspiration
-that some of the other monsters do, but I like that they exist. Their presence
-in the Elemental Chaos gives you an excuse to place “normal everyday
-communities” in that plane for your PCs to interact with. Not every EC
-settlement is a githzerai monastery or the City of Brass.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/26/genasi.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/26/genasi.html</guid>
         
         <category>dnd4</category>
         
