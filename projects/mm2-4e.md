@@ -92,6 +92,8 @@ variants here. Here they are, from A to Z:
   - [Golem][53]
   - [Goliath][54]
   - [Gray Render][55]
+  - [Half-Elf][56]
+  - [Half-Orc][57]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -149,4 +151,6 @@ variants here. Here they are, from A to Z:
 [52]: {{ "/2021/09/16/goblin.html" | relative_url }}
 [53]: {{ "/2021/09/16/golem.html" | relative_url }}
 [54]: {{ "/2021/09/28/goliath.html" | relative_url }}
-[55]: {{ "/2021/01/10/gray-render.html" | relative_url }}
+[55]: {{ "/2021/10/01/gray-render.html" | relative_url }}
+[56]: {{ "/2021/10/02/half-elf.html" | relative_url }}
+[57]: {{ "/2021/10/04/half-orc.html" | relative_url }}
