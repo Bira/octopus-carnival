@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-demon-molydeus.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 When Tharizdun first planted the cosmic Seed of Evil in the Elemental Chaos, he
 ordered his seven most powerful angels to stand guard over it. The angels' oaths
 and sense of duty compelled them to obey. However, they all had some serious
@@ -65,4 +74,5 @@ if a few times to set the party up for the Dread Word.
 
 Now _here's_ some proper epic demon lore! Mechanically, it has a suite of
 attacks that's both thematic and varied, and indeed pairs well with mariliths
-and klurichirs.
+and klurichirs. The klurichir stat block works better as a demon created to
+serve the molydeus than as a demon lord contender itself.
