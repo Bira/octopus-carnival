@@ -94,6 +94,7 @@ variants here. Here they are, from A to Z:
   - [Gray Render][55]
   - [Half-Elf][56]
   - [Half-Orc][57]
+  - [Hawk][58]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -154,3 +155,4 @@ variants here. Here they are, from A to Z:
 [55]: {{ "/2021/10/01/gray-render.html" | relative_url }}
 [56]: {{ "/2021/10/02/half-elf.html" | relative_url }}
 [57]: {{ "/2021/10/04/half-orc.html" | relative_url }}
+[58]: {{ "/2021/10/08/hawk.html" | relative_url }}
