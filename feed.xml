@@ -6,9 +6,91 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Oct 2021 22:27:45 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Oct 2021 22:27:45 +0000</lastBuildDate>
+    <pubDate>Fri, 08 Oct 2021 12:40:04 +0000</pubDate>
+    <lastBuildDate>Fri, 08 Oct 2021 12:40:04 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Hawk</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-hawk.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Hawks are real world animals, and though they are birds of prey they’re fairly
+small and don’t usually attack people. For these reasons, 4e doesn’t consider
+them “monster material”, and this entry focuses on supernatural hawks that can
+pose a bigger threat to adventurers.&lt;/p&gt;
+
+&lt;h2 id=&quot;blood-hawks&quot;&gt;Blood Hawks&lt;/h2&gt;
+
+&lt;p&gt;As Small Natural Beasts, Blood Hawks are bloody enormous for hawks. They’re also
+a lot more aggressive than usual, and their claws deal wounds that bleed
+profusely. This, and their reddish coloration, gives them their name.&lt;/p&gt;
+
+&lt;p&gt;A blood hawk is a Level 1 Skirmisher with 27 HP. It has a flight speed of 6, and
+a ground speed of only 2 (and it’s Clumsy while walking). Its basic attack is a
+&lt;strong&gt;Claw Rake&lt;/strong&gt; that deals standard physical damage and inflicts 2 ongoing damage
+(save ends). This ongoing damage raises to 5 if the hawk is bloodied.&lt;/p&gt;
+
+&lt;p&gt;The blood hawk can also make &lt;strong&gt;Flyby Attacks&lt;/strong&gt; at will. This follows the
+standard rules seen in other monsters: it flies its speed, makes a basic attack
+at any point, and doesn’t provoke opportunity attacks when moving away from the
+target.&lt;/p&gt;
+
+&lt;h2 id=&quot;frost-hawk&quot;&gt;Frost Hawk&lt;/h2&gt;
+
+&lt;p&gt;A Small Elemental Beast native to certain ice-aspected regions of the Elemental
+Chaos, the Frost Hawk can also be found in mountaintops and other cold places of
+the world. It’s a Level 7 Skirmisher with 80 HP, making it a lot more formidable
+than any mundane hawk. Its flight speed is 8, and its ground speed a
+clumsy 2. It has Resist Cold 10.&lt;/p&gt;
+
+&lt;p&gt;The hawk’s &lt;strong&gt;Ice Talons&lt;/strong&gt; serve as its basic attack, dealing a mix of physical
+and cold damage. It has the same Flyby Attack as the blood hawk, and it adds a
+couple elemental powers to its arsenal. &lt;strong&gt;Freezing Screech&lt;/strong&gt; is a Close Blast 3
+vs. Fortitude that deals cold damage and slows (save ends). &lt;strong&gt;Shattering
+Strike&lt;/strong&gt; is a passive trait that make all its attacks deal extra damage against
+slowed targets.&lt;/p&gt;
+
+&lt;p&gt;So a frost hawk is going to start a fight with the Screech, and will then focus
+its flyby attacks on one of the targets it managed to slow. It pairs really well
+with controllers and other monsters with the ability to slow enemies.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;In addition to being found in the wild, hawks might also be found in the service
+of many sapients. Falconry is a real-world sport with roots in the Middle Ages,
+so of course it’s extensively practiced in the medieval-ish setting of 4e. The
+sample encounters are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 2: 3 blood hawks, 2 bloodseeker drakes, 2 elf archers. A hunting party
+going after dangerous game?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 2 frost hawks, 1 orc bloodrager, 1 orc eye of gruumsh. Orcs also know
+falconry.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don’t think these supernatural hawks would make for an exciting encounter by
+themselves, but the falconry angle has promise. Lots of enemies become 20%
+cooler if you give them a badass hawk friend.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/08/hawk.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/08/hawk.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Half-Orc</title>
@@ -1178,102 +1260,6 @@ written.&lt;/p&gt;
         <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/08/31/giants.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/31/giants.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Ghost Legionnaire</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-ghost-legionnaire.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The first Monster Manual already includes a bunch of &lt;a href=&quot;/octopus-carnival/2020/03/18/ghost.html&quot;&gt;ghosts&lt;/a&gt;, and it even
-has a basic Phantom Warrior. Here we have a more specific implementation of that
-concept.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;These creatures are the ghosts of soldiers who died in battle more or less at
-the same time as the entire rest of their units. The emotional bonds between
-them and the trauma of their violent massed deaths causes their spirits to fuse
-and to rise as undead.&lt;/p&gt;
-
-&lt;p&gt;Legionnaires always appear as a unit, and they look like individuals acting in
-concert, but they’re all part of the same collective ghost. So it might have
-been more accurate to title this entry “Ghost &lt;em&gt;Legion&lt;/em&gt;”. Members of the legion
-can possess the living and make them experience the soldiers’ last moments.&lt;/p&gt;
-
-&lt;p&gt;When a ghost legionnaire is damaged, it always displays the wounds it suffered
-in its final battle rather than the ones that were actually inflicted on it. So
-a squad killed by some wizard’s acid-infused fireball would grow progressively
-more burned and melted as the PC paladin stabs them.&lt;/p&gt;
-
-&lt;p&gt;A ghost legion might be endlessly reliving its last battle when found, seeing
-any living intruders as their enemies. It might also be following the orders of
-a more powerful undead being, particularly if that being was one of its
-commanders in life.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;An individual legionnaire is a Medium Natural Humanoid with the Undead keyword,
-and a Level 13 Soldier with 100 HP. Despite being a ghost, it’s not considered
-insubstantial, but it has 10 necrotic resistance and isn’t especially vulnerable
-to radiant damage.&lt;/p&gt;
-
-&lt;p&gt;Legionnaires fight with the same weapons they had in life, making &lt;strong&gt;devastating
-cuts&lt;/strong&gt; with their melee weapons or shooting &lt;strong&gt;ghost arrows&lt;/strong&gt; that do necrotic
-damage. They can also use their &lt;strong&gt;Battle Visions&lt;/strong&gt; power to possess a
-target. This has range 20, targets Will and deals psychic damage with a Dominate
-(save ends) rider. While the target is dominated, the ghost is removed from the
-map. When the target finally makes their save, the ghost reappears in an
-adjacent space.&lt;/p&gt;
-
-&lt;p&gt;This ghost’s main weakness takes the form of a trait named &lt;strong&gt;Call to
-History&lt;/strong&gt;. It allows a PC to make a DC 25 History check as a minor action to
-recall details about the legionnaire’s original unit. A success here makes the
-PC’s next attack against that ghost deal 10 extra damage. I don’t think you can
-stack multiple checks in a single attack, but you &lt;em&gt;can&lt;/em&gt; make a check every turn
-before you attack. Someone who was possessed and made their save has a +5 bonus
-to these tests for the rest of the fight, as those horrifying battle visions act
-as extra reference material.&lt;/p&gt;
-
-&lt;p&gt;The collective nature of a ghost legion is expressed by the &lt;strong&gt;Soul Link&lt;/strong&gt;
-trait. Basically, you combine the HP totals of all legionnaires present in the
-fight into a single pool. Damage to any individual legionnaire is subtracted
-from this combined pool. The whole unit is destroyed when this pool is reduced
-to 0, but until that happens all legionnaires remain in the fight! This makes
-the usual “focus fire” strategy considerably less effective against them.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is Level 15, and quite straightforward: a 5-ghost unit and
-a human lich wizard from the MM. A Nerathi squad plus their former commanding
-officer.&lt;/p&gt;
-
-&lt;p&gt;I really like the “collective HP” gimmick! It shouldn’t be too hard to add or
-subtract levels from the stat block given here, either, meaning you can bring
-the Fun (TM) of ghost legions to the party no matter what their
-level.&lt;/p&gt;
-
-&lt;p&gt;There isn’t much of a story difference between a ghost legionnaire and a phantom
-warrior, as you can see by their names. This suggests that one way to get a
-level 4 legionnaire would be to remove Insubstantial from the warrior and add
-Soul Link in its place. You can likely do the same with any other thesaurus
-buddies that might come along (banshee battlers, figment fighters, spectral
-soldiers, wraith warriors…).&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/29/ghost-legionnaire.html</guid>
         
         <category>dnd4</category>
         
