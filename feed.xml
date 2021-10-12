@@ -6,9 +6,93 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Oct 2021 12:44:09 +0000</pubDate>
-    <lastBuildDate>Fri, 08 Oct 2021 12:44:09 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Oct 2021 19:07:35 +0000</pubDate>
+    <lastBuildDate>Tue, 12 Oct 2021 19:07:35 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Homunculus</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-homunculus.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The first Monster Manual included an Homunculus entry. The MM2 has a few more,
+which we’ll look at now.&lt;/p&gt;
+
+&lt;p&gt;As mentioned in the &lt;a href=&quot;/octopus-carnival/2020/05/22/homunculus.html&quot;&gt;original post&lt;/a&gt;, homunculi are relatively simple
+constructs distantly related to golems, the model rocket to the golem’s Saturn
+V. They’re much weaker but also much simpler to make, and their construction
+includes some programming shortcuts that make them good at being guards. There
+are specific shortcuts to guard an object, a creature, or an area. Homunculi are
+quite intelligent and clever when fulfilling the tasks they were designed for,
+but are not good for anything else.&lt;/p&gt;
+
+&lt;p&gt;In this entry we meet two new homunculus models.&lt;/p&gt;
+
+&lt;h2 id=&quot;stonefist-defender&quot;&gt;Stonefist Defender&lt;/h2&gt;
+
+&lt;p&gt;This Small, spiky animated statue is built to act as a bodyguard and combat
+buddy to a living creature. Its programming makes it very good a coordinating
+with its “client” during a fight. I imagine a society with plenty of access to
+magic would build mass quantities of them for use as “combat drones”,
+supplementing infantry or scouts.&lt;/p&gt;
+
+&lt;p&gt;The defender is a Level 2 Skirmisher with 38 HP. It has darkvision, runs at a
+nice speed of 8, and is immune to disease and poison. It’s surprisingly
+acrobatic: it can &lt;strong&gt;Tumble&lt;/strong&gt; as an at-will move action to shift 3 squares
+instead of the usual 1.&lt;/p&gt;
+
+&lt;p&gt;The defender’s only attack is a &lt;strong&gt;Spiked Fist&lt;/strong&gt; that’s pretty average on its
+own, but gains all sorts of situational bonuses when the creature fights
+according to its programming: by using its high mobility to flank enemies
+engaged with its “client”. It has a +2 bonus to hit enemies adjacent to the
+client, and gains +1d6 bonus damage when flanking those enemies.&lt;/p&gt;
+
+&lt;h2 id=&quot;arbalester&quot;&gt;Arbalester&lt;/h2&gt;
+
+&lt;p&gt;Arbalesters are animated ballistas! They can move around using wheels or legs,
+and reload themselves. They’re used as mobile turrets, and can be ordered to
+watch over a specific area. That same magic-rich society that makes defenders
+could have arbalesters helping defend fortresses or following patrols around as
+mobile artillery pieces.&lt;/p&gt;
+
+&lt;p&gt;Arbalesters are Level 4 Artillery with 43 HP. They move around at Speed 6, and
+have the standard traits of darkvision and immunity to disease and
+poison. They’ll attack with improvised &lt;strong&gt;slams&lt;/strong&gt; if pressed into melee, but
+their &lt;strong&gt;Bolts&lt;/strong&gt; are of course a much better option. They can temporarily
+increase their rate of fire to make a &lt;strong&gt;Double Shot&lt;/strong&gt; (recharge 4+), firing
+bolts at two targets within 5 squares of each other.&lt;/p&gt;
+
+&lt;p&gt;They can be set to &lt;strong&gt;Guard an Area&lt;/strong&gt; 5 squares on a side. If any enemy is within
+this area when the arbalester starts its turn, Double Shot recharges
+automatically. Their use as defensive turrets is obvious, but they can also be
+used offensively if transported within range of enemy positions and ordered to
+“guard” those positions. This will cause them to rain bolts upon those areas
+until no enemies remain.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Our sample encounter is Level 3: 3 stonefist defenders, 1 arbalester, and a
+dwarf hammerer. This is obviously a military squad from that magic-rich civ - an
+organic officer, and his drone complement.&lt;/p&gt;
+
+&lt;p&gt;Thinking of these two homunculus models as military drones makes them seem quite
+interesting as opposition.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/12/homunculus.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/12/homunculus.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Hawk</title>
@@ -1048,218 +1132,6 @@ about 4e gnolls.&lt;/p&gt;
         <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/09/01/gnolls.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/01/gnolls.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Giants</title>
-        <description>&lt;p&gt;The first Monster Manual and the Monster Vault contained plenty of giants, whose
-lore in 4e is pretty awesome. I covered their basic lore &lt;a href=&quot;/octopus-carnival/2020/03/30/giants.html&quot;&gt;here&lt;/a&gt;, and also had
-individual posts for &lt;a href=&quot;/octopus-carnival/2020/04/01/earth-giants.html&quot;&gt;hill&lt;/a&gt;, &lt;a href=&quot;/octopus-carnival/2020/04/04/frost-giants.html&quot;&gt;frost&lt;/a&gt;, &lt;a href=&quot;/octopus-carnival/2020/04/06/fire-giants.html&quot;&gt;fire&lt;/a&gt;, &lt;a href=&quot;/octopus-carnival/2020/04/07/death-giants.html&quot;&gt;death&lt;/a&gt; and &lt;a href=&quot;/octopus-carnival/2020/04/10/storm-giants.html&quot;&gt;storm&lt;/a&gt;
-giants.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 2 added more giants, and it’s actually where Frost Giants
-made their first appearance in this edition. We already covered them in the
-corresponding post linked above. In this one, we’ll cover the two other
-varieties introduced in the same entry: Eldritch and Stone giants. The latter
-are old standbys, and I had never heard of the former until now. If they existed
-in a previous edition, it was in one of the more out-of-the-way supplements or
-Dragon articles for 3e.&lt;/p&gt;
-
-&lt;h2 id=&quot;eldritch-giants&quot;&gt;Eldritch Giants&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-giant-eldritch.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;As mentioned in the basic lore post, the primordials made the first Giants from
-the same elements they used in the world, to help them shape and understand
-it. Well, it turns out &lt;em&gt;raw magic&lt;/em&gt; is as much a basic building block of the
-world as the more classical elements of earth, fire, air, and water. Therefore,
-it got its own Giant type.&lt;/p&gt;
-
-&lt;p&gt;Eldritch giants were among the most powerful creations of the Primordials, and
-they helped a lot with shaping the flow of magical energies in the still-cooling
-world. Today their power is much diminished from what it was at the dawn of
-time, and most of them dedicate their lives to accumulating magical power and
-knowledge in hopes of returning to those lofty heights.&lt;/p&gt;
-
-&lt;p&gt;Both eldritch giants and titans are still well-versed in magic. They know how to
-form weapons out of pure force, and they tattoo their bodies with symbols that
-allow them to absorb the magic of others and teleport at will. They live near
-sources of arcane power, and jealously hoard knowledge and artifacts. Eldritch
-giant social hierarchy is based on how much power individuals managed to
-accumulate - Eldritch Titans tend to be at the top. An individual eldritch giant
-or titan might have more abilities than what is depicted in the “typical” stat
-blocks of this entry, and they’ll certainly have access to lots and lots of
-magic rituals.&lt;/p&gt;
-
-&lt;p&gt;Most interactions between mortals and eldritch giants as written here are likely
-to be hostile, since the giants don’t have much reason to be friendly. They love
-binding and enslaving other creatures with magic, though, so they might be
-encountered alongside powerful elementals, slaads, and other such creatures. A
-more reasonable group of them would make valuable allies against powerful
-incorporeal enemies, though, since they specialize in force magic.&lt;/p&gt;
-
-&lt;h3 id=&quot;eldritch-giant&quot;&gt;Eldritch Giant&lt;/h3&gt;
-
-&lt;p&gt;“Standard” eldritch giants are Large Fey Humanoids with the “giant”
-keyword, and Level 18 Skirmishers with 171 HP. They have low-light vision, 10
-force resistance, and a +5 bonus to saves vs. charm effects. Their ground speed
-is 8 and they also have a teleport speed of 6.&lt;/p&gt;
-
-&lt;p&gt;These giants fight in melee with Reach 2 &lt;strong&gt;Eldritch Blades&lt;/strong&gt; that target Reflex
-and deal force damage, and at range with Range 20 &lt;strong&gt;Force Missiles&lt;/strong&gt; that do the
-same. Being so large, they can also use &lt;strong&gt;Sweeping Sword&lt;/strong&gt; attacks to target
-everyone in a Close Blast 2 instead of a single victim, and they can do that
-even when charging.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, they can deploy an &lt;strong&gt;Eldritch Field&lt;/strong&gt; (close blast 5; recharge
-5+) that counts as difficult terrain and makes enemies inside take extra damage
-from the their attacks. Also as a minor action, they can use &lt;strong&gt;Consume Magic&lt;/strong&gt;
-to absorb a magic zone created by a PC. This requires them to hit the caster’s
-Will with an attack, and if they succeed their own attacks get a big damage
-boost until the end of their next turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;eldritch-titan&quot;&gt;Eldritch Titan&lt;/h3&gt;
-
-&lt;p&gt;Eldritch Titans are Huge, and Level 21 Elite Skirmishers with 394 HP. They have
-the same passive traits as their smaller cousins.&lt;/p&gt;
-
-&lt;p&gt;Their Reach 3 &lt;strong&gt;Eldritch Hammers&lt;/strong&gt; deal more damage, and they can make two
-attacks per action, even on a charge. Their ranged force attack is also stronger
-and pushes the target 5 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can cast a &lt;strong&gt;Force Hammer&lt;/strong&gt; that damages everyone on a
-close blast 3, pushes then 3 squares and knocks them prone. On a miss the
-targets still take half damage and are pushed. They have the same Consume Magic
-and Eldritch Field abilities as eldritch giants.&lt;/p&gt;
-
-&lt;h2 id=&quot;stone-giants&quot;&gt;Stone Giants&lt;/h2&gt;
-
-&lt;p&gt;The other type of classic earth giant, Stone Giants are among the most
-reasonable people among all giantkind. They usually don’t care about raiding or
-conquest, and just want to be left alone in their mountain homes. Discrete and
-contemplative sorts, they can stay immobile for years while lost in thought, and
-are surprisingly adept at hiding themselves in their home terrain.&lt;/p&gt;
-
-&lt;p&gt;Someone passing throug stone giant territory might never spot them at all, and
-ill-intentioned travelers might find themselves ambushed before they can do any
-harm. The exception to all of this is when the giants are feeling rowdy and want
-to have some fun: their favorite game is basically dodgeball with enormous
-boulders, and when they’re in the middle of it they don’t usually pay attention
-to any smaller creatures who might be in the path of those boulders.&lt;/p&gt;
-
-&lt;p&gt;Stone giants are one of the few Giants who are actually on friendly terms with
-communities of galeb duhrs and azers. They have a long and proud tradition of
-stone carving, and their magic is based on carved runes. It’s possible the
-dwarves originally learned their own rune-magic from stone giants, though modern
-dwarf scholars dispute this notion.&lt;/p&gt;
-
-&lt;p&gt;Friendly giants of other types, unable to stand their generally unpleasant
-societies, often move in with stone giants. Conversely, evil stone giants tend
-to move out of their ancestral homes and throw their lot with their more
-villainous relatives.&lt;/p&gt;
-
-&lt;h3 id=&quot;stone-giant&quot;&gt;Stone Giant&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-giant-stone.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Stone Giants are Large Elemental Humanoids with the Earth and Giant
-keywords. They’re Level 14 Soldiers with 140 HP, immune to petrification, and
-have a ground speed of 8 with Earth Walk. This lets them ignore difficult
-terrain with a “geological” origin.&lt;/p&gt;
-
-&lt;p&gt;They use giant-sized &lt;strong&gt;stone greatclubs&lt;/strong&gt;. As usual for soldiers, their basic
-attacks mark on a hit and they can make opportunity attacks marked creatures in
-reach that move or shift. They can also make a &lt;strong&gt;Staggering Sweep&lt;/strong&gt; that works
-like an area attack, pushes targets 2 squares, and marks them. At range, they
-can &lt;strong&gt;hurl rocks&lt;/strong&gt; like you’d expect out of an old-school giant.&lt;/p&gt;
-
-&lt;p&gt;While they’re unbloodied, they can use &lt;strong&gt;Stone Bones&lt;/strong&gt; as an interrupt when hit
-by an attack, gaining 5 resistance do its damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;stone-giant-runecarver&quot;&gt;Stone Giant Runecarver&lt;/h3&gt;
-
-&lt;p&gt;This spellcaster is a Level 16 Controller with 155 HP and the Leader
-keyword. Their magic is partly about slowing and immobilizing enemies, and
-partly about doing unpleasant things to enemies suffering from those conditions.&lt;/p&gt;
-
-&lt;p&gt;They fight in melee with &lt;strong&gt;Enruned Picks&lt;/strong&gt;, which are High-Crit weapons and have
-a slow (save ends) rider. &lt;strong&gt;Grasping Stone&lt;/strong&gt; ensures that any enemy slowed by
-the giant is also immobilized for a turn.&lt;/p&gt;
-
-&lt;p&gt;Magic-wise, their &lt;strong&gt;Rune of Thundering Echo&lt;/strong&gt; (recharge 5+) deals thunder damage
-over an area and inflicts ongoing thunder damage (save ends) on targets who are
-slowed or immobilized. The &lt;strong&gt;Rune of Stony Sleep&lt;/strong&gt; (recharge 6+) affects a
-similar area, deals physical damage and slows (save ends). After the first
-failed save, slowed enemies become petrified instead (save still ends). That
-rune also creates a zone within its affected area that inflicts a -2 penalty
-against saves vs. slowness or immobilization effects.&lt;/p&gt;
-
-&lt;p&gt;“Save ends” petrification might not sound so bad, but runecarvers also have a
-&lt;strong&gt;Hardened Focus&lt;/strong&gt; aura (5) that makes all petrified enemies inside lose any
-damage resistance they have &lt;em&gt;and&lt;/em&gt; gain Vulnerable 5 to all damage. An evil
-runecarver is a good counter to a group of PCs who thought a fight against frost
-or fire giants was going to be easy just because they packed the right elemental
-resistances.&lt;/p&gt;
-
-&lt;h3 id=&quot;stone-titan&quot;&gt;Stone Titan&lt;/h3&gt;
-
-&lt;p&gt;Stone Titans are basically Stone Giants Plus, being Huge in size and Level 18
-Elite Soldiers with 348 HP. They fight unarmed and throw rocks, but there are
-some important differences.&lt;/p&gt;
-
-&lt;p&gt;First, their marking ability is a &lt;strong&gt;Slipstone Distortion&lt;/strong&gt; aura (1) that marks
-any enemy who starts their turn inside. Their &lt;strong&gt;slams&lt;/strong&gt; deal extra damage to
-marked enemies, and they can make opportunity attacks against marked enemies
-like stone giants can.&lt;/p&gt;
-
-&lt;p&gt;Second, they can use an &lt;strong&gt;Avalanche Stomp&lt;/strong&gt; (encounter) to attack everyone in a
-Close Burst 3, with a hit doing heavy damage and causing the very earth to grab
-the targets. The escape DC is 28, and the giant doesn’t need to spend actions to
-sustain the grab. A miss still does half damage.&lt;/p&gt;
-
-&lt;p&gt;And third, they can “charge” a thrown rock and turn it into a &lt;strong&gt;Quakestone&lt;/strong&gt;
-(recharge 5+), making it into an area attack that does light damage, knocks
-prone, and dazes (save ends) on a hit. A miss does half damage and knocks prone
-without the daze.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Eldritch giants have a somewhat unusual name and appearance when compared to the
-traditional types, but they’re a lot closer to them than it seems at first. I
-guess calling them “Force Giants” would have been a little too on the nose, but
-this is basically what they are. They use Force attacks in the same way a frost
-giant would use Cold, or a fire giant would use Fire. Their fighting style is
-similar, aside from the “I eat magic!” thing.&lt;/p&gt;
-
-&lt;p&gt;Stone giants on the other hand are one of the traditional types that have been
-there since the beginning. I’m happy to see them here because your average stone
-giant fits the “Earth Giant” mold a lot more readily than a hill giant, who’s
-just a big human-looking person. I also like that the book doesn’t consider all
-of them evil, and even mentioned that they partner up with non-evil individuals
-of the other giant types. I often ponder how to make sapient monsters less evil
-and hostile when I discuss them, so it’s nice to see an entry that does that as
-written.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/08/31/giants.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/08/31/giants.html</guid>
         
         <category>dnd4</category>
         
