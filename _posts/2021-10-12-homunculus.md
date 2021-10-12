@@ -6,6 +6,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-homunculus.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 The first Monster Manual included an Homunculus entry. The MM2 has a few more,
 which we'll look at now.
 

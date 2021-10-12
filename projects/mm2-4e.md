@@ -156,3 +156,4 @@ variants here. Here they are, from A to Z:
 [56]: {{ "/2021/10/02/half-elf.html" | relative_url }}
 [57]: {{ "/2021/10/04/half-orc.html" | relative_url }}
 [58]: {{ "/2021/10/08/hawk.html" | relative_url }}
+[59]: {{ "/2021/10/12/homunculus.html" | relative_url }}

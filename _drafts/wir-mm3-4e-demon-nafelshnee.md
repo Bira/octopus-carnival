@@ -31,7 +31,7 @@ This of course resulted in a long and bloody demon civil war, which in turn
 ended when six of the most powerful nafelshnees got together and named
 themselves the rulers of the 400th layer. Known as the Lords of Woe, they carved
 the layer into a sprawling feudal realm, each of them sitting at the top of a
-large hierarchy of lesse "nobles" that rule their own fiefs as they see fit.
+large hierarchy of vassals that rule their own fiefs as they see fit.
 
 Eventually, these lords and ladies exhausted all the resources of their abyssal
 layer, because demons might be able to build a society but they can't make it
