@@ -6,9 +6,383 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Oct 2021 17:44:31 +0000</pubDate>
-    <lastBuildDate>Fri, 15 Oct 2021 17:44:31 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Oct 2021 18:05:36 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Oct 2021 18:05:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual/Vault: Human</title>
+        <description>&lt;p&gt;As we saw in the Monster Manual Let’s Read, Fourth Edition makes the usual D&amp;amp;D
+human description a little more specific. They’re the mortal people without a
+patron deity, which makes their outlooks on life very varied and leaves extra
+room in their hearts that can be filled with extreme dedication to any number of
+causes. Therefore, humans can produce some of the world’s greatest heroes as
+well as its most depraved villains.&lt;/p&gt;
+
+&lt;p&gt;This MM2 entry brings us a huge grab bag of human stat blocks. Most of them are
+the usual Unaligned people that can be repurposed as either allies or enemies,
+but a few are Evil or Chaotic Evil and meant to always be used as threats.&lt;/p&gt;
+
+&lt;p&gt;Numbers-wise, they have absolutely no common traits beyond being Medium Natural
+Humanoids with a ground speed of 6. You can easily take a human stat block and
+make it into a member of another species by adding the relevant signature
+ability to them (Goblin Tactics, Elven Accuracy, Savage Demise, Fey Step…).&lt;/p&gt;
+
+&lt;h2 id=&quot;human-cavalier&quot;&gt;Human Cavalier&lt;/h2&gt;
+
+&lt;p&gt;An armored knight that fights with lance and sword. It’s highly recommended that
+you give them a mount when building your encounters, though they can give a good
+account of themselves on foot as well. Horses and griffons are the most common
+cavalier mounts.&lt;/p&gt;
+
+&lt;p&gt;The Cavalier is a Level 7 Soldier (Leader) with 78 HP. Their basic attack is a
+&lt;strong&gt;sword&lt;/strong&gt; strike that damages and marks on a hit, and they can exploit the mark
+with two different interrupt abilities. &lt;strong&gt;Champion’s Retort&lt;/strong&gt; is at-will and
+allows the knight to make a slightly weaker attack against a marked enemy who
+decides to ignore the mark. &lt;strong&gt;Hasty Parry&lt;/strong&gt; is an encounter power that forces
+the enemy to target the knight instead, and gives the knight a +3 AC bonus
+against that attack.&lt;/p&gt;
+
+&lt;p&gt;When mounted, the knight can also attack with a &lt;strong&gt;Lance&lt;/strong&gt; that damages and
+knocks prone on a hit. The text doesn’t say it can be used as part of a charge,
+but it really should have this ability.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-diabolist&quot;&gt;Human Diabolist&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-human-diabolist.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A warlock-type who’s in tight with the forces of Hell, and wields
+fire-and-brimstone themed magic to achieve their Evil ends.&lt;/p&gt;
+
+&lt;p&gt;The diabolist is Level 20 Artillery with 147 HP, powerful enough to be
+encountered alongside groups of high-end devils. Their main weapon and implement
+is a &lt;strong&gt;kukri&lt;/strong&gt; that does a mix of physical and fire damage. Like all attacks in
+this book it needs a damage boost, but make sure its roll is still a fistful of
+d6s because this attack has the Brutal property. This means you re-roll any dice
+that show a 1 until they show something else.&lt;/p&gt;
+
+&lt;p&gt;Their attack magic is all about &lt;strong&gt;Darkfire&lt;/strong&gt;, in an “at-will single-target” and
+“area encounter power” versions. It does fire and necrotic damage, and the area
+version also does ongoing fire and necrotic damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;For enemies who get a bit closer, the diabolist can use a &lt;strong&gt;Sulfurous Flash&lt;/strong&gt;
+attack that deals fire damage and gives the caster concealment against the
+target until the end of the caster’s next turn. If attacked, the diabolist can
+use &lt;strong&gt;Infernal Deflection&lt;/strong&gt; (recharge 5+) as an interrupt to take half damage
+from the attack and deal an automatic 15 fire damage to the attacker.&lt;/p&gt;
+
+&lt;p&gt;All of these attacks can be enhanced by &lt;strong&gt;Hell Blight&lt;/strong&gt;, a minor action that
+automatically makes an enemy in sight “blighted”. If a blighted enemy takes fire
+damage from the diabolist, they can’t recover HP until the end of the
+diabolist’s next turn. The blight ends when the fight does, or when the
+diabolist blights someone else. This makes focusing their fire on a sincle PC at
+a time a very effective tactic.&lt;/p&gt;
+
+&lt;p&gt;Finally, the &lt;strong&gt;Life From Fire&lt;/strong&gt; passive trait gives the diabolist 10 temporary
+HP whenever they take fire damage from any source.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-dire-beast-hunter&quot;&gt;Human Dire Beast Hunter&lt;/h2&gt;
+
+&lt;p&gt;Someone has to protect all those scattered villages if no PCs are around to
+help! This hunter is Level 9 Artillery with 76 HP, wielding a spear, a crossbow
+with poisoned bolts, and a net.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;net&lt;/strong&gt; is a Ranged 3 attack that does no damage and restrains (save
+ends). The &lt;strong&gt;crossbow&lt;/strong&gt; has good range and its bolts have an ongoing poison
+damage (save ends) rider. The &lt;strong&gt;spear&lt;/strong&gt; is there for emergencies, because its
+best to hunt dire beasts from a distance.&lt;/p&gt;
+
+&lt;p&gt;The hunter is not meant to be alone. It should be encountered either as part of
+a sizable NPC hunting party, or attached to the PCs as an ally for a
+particularly tough hunt.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-dread-assassin&quot;&gt;Human Dread Assassin&lt;/h2&gt;
+
+&lt;p&gt;An epic-level assassin armed with a dreadful sword and with spells of poison and
+darkness. The perfect person for the job when that job is to kill a king or
+emperor. Though they’re unaligned, their clientele is unlikely to be very nice.&lt;/p&gt;
+
+&lt;p&gt;The assassin is a Level 22 Lurker with 161 HP and a speed of 7. Their &lt;strong&gt;Zealot’s
+Scimitar&lt;/strong&gt; is a High-Crit weapon that also deals ongoing poison and necrotic
+damage (save ends). They can use a power named &lt;strong&gt;Cloak of Zeal&lt;/strong&gt; as a move
+action to shift 3 squares and gain concealment until the end of their next
+turn.&lt;/p&gt;
+
+&lt;p&gt;While the assassin has cover or concealment, they can use &lt;strong&gt;Deadly Blade&lt;/strong&gt;
+(recharge 5+) as a minor action to make is so their next attack has combat
+advantage and deals 5d6 extra damage on a hit. And finally, &lt;strong&gt;Assassin’s
+Determination&lt;/strong&gt; triggers when they’re bloodied and either immediately recharges
+Deadly Blade or (if it’s charged already) heals them for 20 HP.&lt;/p&gt;
+
+&lt;p&gt;I guess the idea is that this is a deadly foe that will never stop trying to
+kill you until they succeed, but you should really boost their damage for that
+to be true. Also, since they’re regulars you should expect these epic ninjas to
+team up with either other assassins, or with some distracting heavies.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-gladiator&quot;&gt;Human Gladiator&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-human-gladiator.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This gladiator is described by the book as a “consumate athlete”, which isn’t
+really the term I’d use to refer to someone forced to fight in deathmatches for
+the amusement of a bloodthirsty crowd. Still, some of them might end up
+becomming bloodsport celebrities, and this one is powerful enough to fit that
+role.&lt;/p&gt;
+
+&lt;p&gt;This particular individual is a Level 14 Elite Soldier with 276 HP, so we’re
+either looking at a Spartacus in the making or at the reigning champion of the
+arena that must be taken down before the revolt can start. He wears armor
+equivalent to scale and carries a light shield and a gladius.&lt;/p&gt;
+
+&lt;p&gt;The gladiator has a &lt;strong&gt;Fighting Focus&lt;/strong&gt; aura (1) that marks enemies who start
+their turns inside, lasting until the start of their next turns. It’s a lot like
+the Essential Knight’s Defender Aura, with a bit more stickiness.&lt;/p&gt;
+
+&lt;p&gt;That &lt;strong&gt;gladius&lt;/strong&gt; can be used to make melee basic attacks, and in a &lt;strong&gt;Gladius
+Display&lt;/strong&gt; that attacks a Close Burst 1 and does the same damage. This is
+supplemented by a variety of dirty tricks. They’re all minor actions, and though
+none of them do damage they inflict a variety of conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Knock to the Dirt&lt;/strong&gt; is an encounter power that targets Fortitude and knocks
+prone; &lt;strong&gt;Sand in the Eyes&lt;/strong&gt; is another encounter power that targets fortitude,
+and causes blindness (save ends). &lt;strong&gt;Well-Placed Kick&lt;/strong&gt; is recharge 5+, targets
+Reflex, and both slows and dazes the target (save ends). I bet it targets
+the… knee. Yeah, that’d do it.&lt;/p&gt;
+
+&lt;p&gt;That’s the sort of fighting style that’d mark you as a heel in wrestling, but
+since the gladiator fights in actual life or death matches I’d say it’s just
+good sense.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-hexer&quot;&gt;Human Hexer&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-human-hexer.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Perfect for playing the part of a sinister witch or a seer whose dire prophecies
+go unheard. The hexer is a Level 7 Controller with 77 HP, wearing robes and
+wielding a staff.&lt;/p&gt;
+
+&lt;p&gt;The hexer is extremely weak in terms of damage, and is meant to be used
+alongside monsters who are better in that area. They have some interesting
+control options, though.&lt;/p&gt;
+
+&lt;p&gt;Their only melee attack is a weak bonk with the &lt;strong&gt;staff&lt;/strong&gt;, but insted of
+bothering with it they’re going to stay away and open up with &lt;strong&gt;Hex&lt;/strong&gt;, a minor
+action that targets all enemies in a Close Burst 10. That’s guaranteed to cover
+all PCs unless one of them is a sniper ranger or something. It’s an attack
+against Will, and a hit means the target is &lt;em&gt;hexed&lt;/em&gt;. Hexed targets have a -2
+penalty to damage the hexer, and become valid targets for the hexer’s other
+spells.&lt;/p&gt;
+
+&lt;p&gt;One of them is &lt;strong&gt;Capricious Earth&lt;/strong&gt; (encounter), a big area burst that targets
+Will, does a bit of damage, slides targets 3 squares, and knocks them prone.&lt;/p&gt;
+
+&lt;p&gt;The other one is &lt;strong&gt;Beast Curse&lt;/strong&gt; (recharge 4+), a ranged spell that targets
+Fortitude and turns the target into a Tiny creature until the end of the hexer’s
+next turn. While in this state the target cannot use powers. Yes, this &lt;em&gt;does&lt;/em&gt;
+include basic attacks, so your Slayer won’t turn into a surprisingly deadly
+frog.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-insane-noble&quot;&gt;Human Insane Noble&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-human-insane-noble.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Not to be confused with the standard Human Noble, shown later. The picture is
+pretty much a caricature of Carlota Joaquina, a historical figure who was rather
+unpleasant but not epic-level.&lt;/p&gt;
+
+&lt;p&gt;The Insane Noble wears finery and wields a scepter, but as a Level 23 Elite
+Skirmisher it doesn’t need much more than that to ruin your day. &lt;strong&gt;Sheer
+Madness&lt;/strong&gt; makes them immune to opportunity attacks. The &lt;strong&gt;scepter&lt;/strong&gt; is a basic
+attack, and &lt;strong&gt;Flurry of Madness&lt;/strong&gt; allows the noble to shift 6 squares and make a
+scepter attack against every enemy they pass by during the shift. These traits
+and abilities combine to make them a combatant that never stands still,
+scuttling about the battlefield with alarming alacrity.&lt;/p&gt;
+
+&lt;p&gt;When the noble is first bloodied, &lt;strong&gt;Ignoble Fury&lt;/strong&gt; triggers and lets them bonk
+everyone in a Close Burst 1 with a scepter attack that also knocks targets prone
+on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-javelin-dancer&quot;&gt;Human Javelin Dancer&lt;/h2&gt;
+
+&lt;p&gt;A specialized martial artist, lightly armored and wielding a spear for close
+combat and a brace of javelins for range. Their &lt;strong&gt;Skirmisher&lt;/strong&gt; trait allows them
+to do increased damage if they move at least 4 squares before attacking, and
+&lt;strong&gt;Adept Retreat&lt;/strong&gt; makes them not grant combat advantage when running. “Running”
+is something everyone can do, greatly increasing their Move at the cost of
+granting combat advantage. That’s what the dancer ignores.&lt;/p&gt;
+
+&lt;p&gt;In addition to basic attacks with the &lt;strong&gt;spear&lt;/strong&gt; or a &lt;strong&gt;thrown javelin&lt;/strong&gt;, the
+dancer can also make a &lt;strong&gt;Mobile Attack&lt;/strong&gt; at will, shifting 3 squares and
+attacking with the spear.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-knife-fighter&quot;&gt;Human Knife Fighter&lt;/h2&gt;
+
+&lt;p&gt;Knife fighters are rogue-types that are much more focused on acrobatic stabbing
+than on other types of crime, which makes them quite similar to PC rogues when
+you think about it. They also do well in the role of a knife-focused martial
+artist, or the classic super-dangerous lieutenant for a criminal gang whose
+actual boss isn’t a fighter.&lt;/p&gt;
+
+&lt;p&gt;This knife fighter is a Level 7 Elite Skirmisher with 162 HP. They go unarmored
+(which doesn’t affect their defenses, since they’re all based on level), and are
+equipped with a dagger and a net.&lt;/p&gt;
+
+&lt;p&gt;The net is probably a typo, since none of the fighter’s abilities use it, but
+the knife is a &lt;strong&gt;Wounding Dagger&lt;/strong&gt; with an ongoing damage rider and the
+High-Crit property. It can also be used in an attack named &lt;strong&gt;Dance of the
+Knife&lt;/strong&gt;, where the knife fighter makes two dagger attacks and shifts 2 squares
+between them.&lt;/p&gt;
+
+&lt;p&gt;All of these attacks deal extra damage when they have combat advantage, and they
+can also use &lt;strong&gt;Peerless Tumbler&lt;/strong&gt; (recharge 5+) to shift 4 squares while
+ignoring difficult terrain.&lt;/p&gt;
+
+&lt;p&gt;Very skirmishery, and goes very well with a pack of soldier monsters with
+marking and punishing abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-mystagogue&quot;&gt;Human Mystagogue&lt;/h2&gt;
+
+&lt;p&gt;A divine spellcaster who delves into divine mysteries few mortals can
+understand. Their magic focuses a lot on mind- and perception-affecting
+effects.&lt;/p&gt;
+
+&lt;p&gt;Mystagogues are Level 20 Controllers with the Leader keyword and 188 HP. They
+wear robes and carry a holy symbol - all of their attacks are magic.&lt;/p&gt;
+
+&lt;p&gt;The basic melee attack is &lt;strong&gt;Mystery’s Touch&lt;/strong&gt; (vs. Reflex), which deals psychic
+damage and inflicts a -2 penalty to attack the mystagogue until the end if their
+next turn. At range they use &lt;strong&gt;Bend Perception&lt;/strong&gt; (ranged 20 vs. Will), which
+deals psychic damage, slows, and inflicts a -2 penalty to all attacks and saves
+until the end of the mystagogue’s next turn.&lt;/p&gt;
+
+&lt;p&gt;Their special attack is &lt;strong&gt;Awestrike&lt;/strong&gt; (close burst 5 vs will), which does the
+same damage as Bend Perception to all it hits, and also slides the targets 6
+squares and dazes them (save ends). The mystagogue also chooses one ally in the
+area to slide 6 squares and heal for 10 HP.&lt;/p&gt;
+
+&lt;p&gt;Finally, the mystagogue can use a &lt;strong&gt;Veil of Inscrutability&lt;/strong&gt; as a reaction to
+being hit by a melee or ranged attack. This allows them to shift 2 squares and
+gain a +2 bonus to AC and Reflex for a turn.&lt;/p&gt;
+
+&lt;p&gt;As opposition, mystagogues pair well with enemies who can exploit combat
+advantage or (save ends) effects.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-noble&quot;&gt;Human Noble&lt;/h2&gt;
+
+&lt;p&gt;Not to be confused with the Insane Noble from a few entries ago. This type of
+noble can still be pretty horrible, but not the “epic-level scuttling nightmare”
+kind of horrible. They’re Level 5 Controllers with the Leader keyword and 60 HP.&lt;/p&gt;
+
+&lt;p&gt;The Noble wears mail and wields a longsword and a light shield. Their &lt;strong&gt;sword&lt;/strong&gt;
+strikes are nothing special, and their actual superpower is ordering people
+around. It’s very much meant to be encountered alongside its bodyguard detail,
+which will be made up of more competent fighters. In other words, this is the
+NPC version of the Lazy Warlord.&lt;/p&gt;
+
+&lt;p&gt;The noble is &lt;strong&gt;Protected&lt;/strong&gt; by their allies, and gains a +2 to all defenses when
+adjacent to at least one of them. &lt;strong&gt;Appoint Champion&lt;/strong&gt; is an at-will order that
+allows an ally to make a basic attack and shift 1 square before or after
+it. &lt;strong&gt;Inspirational Authority&lt;/strong&gt; is an encounter power that allows one of those
+allies to use any of their attacks as a free action.&lt;/p&gt;
+
+&lt;p&gt;The noble can also order &lt;em&gt;enemies&lt;/em&gt; around. &lt;strong&gt;Urge Hesitation&lt;/strong&gt; is an attack
+against Will that, on a hit, prevents the target from using a standard action in
+its next turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-pirate&quot;&gt;Human Pirate&lt;/h2&gt;
+
+&lt;p&gt;Yarrr! Pirates are Level 9 Skirmishers with 95 HP, armed with cutlasses. They’re
+pretty fast, with a Speed of 7 and a &lt;strong&gt;Rigging Monkey&lt;/strong&gt; ability that gives them
+a climb speed of 7 for a turn once per encounter.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Cutlass&lt;/strong&gt; strike with no additional riders, but
+they’re extra-good at flanking: &lt;strong&gt;Scurvy Dog’s Flank&lt;/strong&gt; gives them an extra +1 to
+hit and +2d6 bonus damage to all attacks against a flanked target. This stacks
+with combat advantage for a total of +3 to hit.&lt;/p&gt;
+
+&lt;p&gt;Their tactics section says they like to stay near the water or near the edge of
+the boat if this is a boarding action, but I see no reason for this.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-pirate-captain&quot;&gt;Human Pirate Captain&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-human-pirate-captain.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Double Yarrr! The captain is a Level 10 Soldier with the Leader keyword and 104
+HP. It’s clearly meant to be used alongside a bunch of Pirates and perhaps a
+small horde of minions.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Cutlass&lt;/strong&gt; attacks have a slow (save ends) rider, and they have the same
+Rigging Monkey and Scurvy Dog’s Flank abilities as the rest of the
+crew. Captains complement their swordplay with occasional bouts of &lt;strong&gt;Vicious
+Mockery&lt;/strong&gt; (minor action; recharge 6+). This doesn’t require an attack roll and
+causes a nearby enemy to provoke an opportunity attack from one of the captain’s
+allies. When first bloodied, they shout out a &lt;strong&gt;Call to Arms&lt;/strong&gt; that allows all
+allies within 10 squares to make a basic melee attack or shift 3 squares as a
+free action.&lt;/p&gt;
+
+&lt;h2 id=&quot;human-slaver&quot;&gt;Human Slaver&lt;/h2&gt;
+
+&lt;p&gt;One of the few explicitly Evil stat blocks in this entry, the slaver is an
+unpleasant villain that fights with a mace and a scourge. Their focus is on
+immobilizing enemies for capture, and on inflicting pain. They’re level 8 Brutes
+with 102 HP.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is &lt;strong&gt;Thump and Lash&lt;/strong&gt;, which deals damage and inflicts a -2
+attack penalty for a turn. They can also use the scourge to perform a &lt;strong&gt;Slaver’s
+Tangle&lt;/strong&gt; maneuver (recharge 4+) that does all of the above and also immobilizes
+for a turn.&lt;/p&gt;
+
+&lt;p&gt;Slavers are meant to be use as part of larger capture teams featuring one or
+more of them plus an assortment of other goons.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Between the first Monster Manual, the Vault, and the MM2, you have enough human
+stat blocks that you can include one or more of them in any encounter that
+demands sapient humanoid opposition. The PCs themselves are proof that humans
+work well with members of any other sapient species that share their individual
+goals.&lt;/p&gt;
+
+&lt;p&gt;These “generic” stat blocks also work as seasoning for more specialized groups,
+like cultists. It might surprise the PCs a bit if the guy holding the
+sacrificial dagger is an elite knife-fighter instead of a squishy caster, for
+example.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/15/human.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/15/human.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Homunculus</title>
@@ -1111,27 +1485,6 @@ fun, because it goes so hard against type.&lt;/p&gt;
         <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/09/01/gnome.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/01/gnome.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Gnolls</title>
-        <description>&lt;p&gt;The absolutely best thing about the Monster Manual 2 gnolls is that I don’t have
-to talk about them! It turns out I’ve already covered them all in the
-&lt;a href=&quot;/octopus-carnival/2020/04/20/gnoll.html&quot;&gt;MM1/Monster Vault gnoll post&lt;/a&gt;. The Deathpledged Gnoll, Fang of Yeenoghu, and
-Gnoll Gorger that appeared in the Monster Vault all had their first appearances
-here in the MM2. Just read the original article for everything you need to know
-about 4e gnolls.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/09/01/gnolls.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/01/gnolls.html</guid>
         
         <category>dnd4</category>
         
