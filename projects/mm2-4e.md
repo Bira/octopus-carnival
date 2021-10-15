@@ -95,6 +95,8 @@ variants here. Here they are, from A to Z:
   - [Half-Elf][56]
   - [Half-Orc][57]
   - [Hawk][58]
+  - [Homunculus][59]
+  - [Human][60]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -157,3 +159,4 @@ variants here. Here they are, from A to Z:
 [57]: {{ "/2021/10/04/half-orc.html" | relative_url }}
 [58]: {{ "/2021/10/08/hawk.html" | relative_url }}
 [59]: {{ "/2021/10/12/homunculus.html" | relative_url }}
+[60]: {{ "/2021/10/15/human.html" | relative_url }}
