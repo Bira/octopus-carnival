@@ -92,11 +92,14 @@ variants here. Here they are, from A to Z:
   - [Golem][53]
   - [Goliath][54]
   - [Gray Render][55]
+
+- H
   - [Half-Elf][56]
   - [Half-Orc][57]
   - [Hawk][58]
   - [Homunculus][59]
   - [Human][60]
+  - [Hydra][61]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -160,3 +163,4 @@ variants here. Here they are, from A to Z:
 [58]: {{ "/2021/10/08/hawk.html" | relative_url }}
 [59]: {{ "/2021/10/12/homunculus.html" | relative_url }}
 [60]: {{ "/2021/10/15/human.html" | relative_url }}
+[61]: {{ "/2021/10/17/hydra.html" | relative_url }}

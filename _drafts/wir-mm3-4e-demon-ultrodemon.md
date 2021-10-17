@@ -52,7 +52,7 @@ turn.
 As its triggered actions, the schemer has a middling version of Variable
 Resistance, which gives Resistance 20 but only works once per encounter. It also
 has **Self-Preservation**, which triggers when an enemy bloodies it. It causes
-the schemed to teleport and swap places with an ally within 10 squares, and
+the schemer to teleport and swap places with an ally within 10 squares, and
 gives the ally a chance to make a free basic attack against the triggering
 enemy.
 
