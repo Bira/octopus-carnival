@@ -101,6 +101,10 @@ variants here. Here they are, from A to Z:
   - [Human][60]
   - [Hydra][61]
 
+- K
+  - [Kenku][62]
+  - [Krenshar][63]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -164,3 +168,5 @@ variants here. Here they are, from A to Z:
 [59]: {{ "/2021/10/12/homunculus.html" | relative_url }}
 [60]: {{ "/2021/10/15/human.html" | relative_url }}
 [61]: {{ "/2021/10/17/hydra.html" | relative_url }}
+[62]: {{ "/2021/10/24/kenku.html" | relative_url }}
+[63]: {{ "/2021/10/24/krenshar.html" | relative_url }}
