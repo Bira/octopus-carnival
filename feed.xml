@@ -6,9 +6,282 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Oct 2021 22:28:45 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Oct 2021 22:28:45 +0000</lastBuildDate>
+    <pubDate>Sun, 24 Oct 2021 21:24:31 +0000</pubDate>
+    <lastBuildDate>Sun, 24 Oct 2021 21:24:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Krenshar</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-krenshar.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I first saw a krenshar in the 3e Monster Manual, though it’s possible they
+originated a bit earlier than that.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Krenshars are large carnivorous felines somewhat similar in size and behavior to
+lions. They live in groups called prides, and use teamwork to hunt. Some
+individuals within the pride grow to a larger size than the rest and possess a
+pattern of blood red spots on their fur. These seem to have a higher social
+position within the pride, and focus on protecting it from threats rather than
+on everyday hunting.&lt;/p&gt;
+
+&lt;p&gt;The thing that makes krenshars fantastical is their ability to peel back the
+skin on their faces and expose their skulls in order to intimidate their enemies
+and frighten their prey.&lt;/p&gt;
+
+&lt;p&gt;While I agree a krenshar’s display must be quite a striking sight, your typical
+PC is likely to have met quite a few things that are scarier than that even if
+they’re relatively low level. This leads me to believe their threat display
+might be augmented by natural fear magic, since it’s meant to be effective even
+against adventurers.&lt;/p&gt;
+
+&lt;p&gt;Gnolls, hobgoblins and humans frequently try to domesticate krenshars for all
+the usual reasons. This is a difficult process because it’s hard to suppress
+their threat display, so lots of trainers end up paralyzed by fear and killed.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We’re given two krenshar stat blocks here. Both are Medium Natural Beasts with a
+land speed of 8 and low-light vision. They also have two signature abilities:&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Fearsome Visage&lt;/strong&gt; is an aura (5) that inflicts a -2 penalty to saves
+against fear effects to all enemies caught inside. &lt;strong&gt;Unnerving Skull&lt;/strong&gt; is a
+minor action usable once per round. It’s a close burst 5 that targets the Will
+of one enemy and inflicts a -2 attack penalty on a hit (save ends). This is
+a fear power, so it’s enhanced by the aura.&lt;/p&gt;
+
+&lt;h3 id=&quot;krenshar&quot;&gt;Krenshar&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 4 Controller with 55 HP and all standard traits. Its
+basic attack is a &lt;strong&gt;hooking swipe&lt;/strong&gt; that damages and knocks prone on a hit. It
+can combine its threat display with a roar to perform the &lt;strong&gt;Roaring Skull&lt;/strong&gt;
+attack, a Close Blast 5 that targets Will and dazes (save ends). A target who is
+already dazed is instead weakened for the duration of the daze, so there’s
+benefit in several krenshars roaring at once. This recharges on a 5+, so it will
+likely happen more than once in the fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;krenshar-blood-slayer&quot;&gt;Krenshar Blood Slayer&lt;/h3&gt;
+
+&lt;p&gt;The red-spotted variety, focusing more on physical power than on scary
+roars. It’s a Level 5 Brute with 75 HP and all standard traits. Its basic attack
+is a &lt;strong&gt;claw&lt;/strong&gt; that is somewhat weak, but can be used twice per action. If both
+attacks hit, the target is grabbed and the slayer can &lt;strong&gt;bite&lt;/strong&gt; it. Bites hit
+automatically and do double the damage of a claw strike.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I guess your typical krenshar pack will include a mix of blood slayers and
+standard krenshars. The krenshars open up with a “volley” of Roaring Skull
+attacks, and then the blood slayers focus on grabbing dazed/weakened individuals
+and biting them to death. Grabbing a squishy is always a good move, but it’s
+also worth their while to try it with the defenders, since their bites don’t
+care about AC.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters are a pair of deathpledged gnolls wrangling a pack of
+krenshars (level 5), and a human slaver with a pair of javelin dancer goons and
+a trio of blood slayers (level 6).&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/24/krenshar.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/24/krenshar.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Vault 2: Kenku</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-kenku.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Kenku are raven-people, humanoid and human-sized but covered in feathers and
+with raven heads. They organize themselves into clan-like groups called
+flocks. Your typical kenku flock is tightly knit but very distrustful of
+outsiders, including kenku from other flocks. Each flock follows no laws but
+their own. Despite this, most of them live on or near major cities, and engage
+in a variety of illegal activities to survive.&lt;/p&gt;
+
+&lt;p&gt;So yeah. Crime birbs.&lt;/p&gt;
+
+&lt;p&gt;Kenku criminals tend to prefer non-violent activities such as grifts and cons,
+where their natural ability to mimic sounds and voices comes in handy. They can
+still fight pretty well if forced to. And despite the stereotyping they’re
+typically Unaligned, which means it’s definitely possible to find nicer
+individuals and flocks out there. Rural kenku can easily fill the same
+“isolationist but ultimately nice” role as cliche elven villages, and an urban
+flock could be predominantly performers or even a legitimate company for a nice
+change of pace.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Kenku are Medium Natural Humanoids. They have low-light vision, a ground speed
+of 6, and no innate flight speed despite being birds. They possess two
+interesting signature abilities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flock Effect&lt;/strong&gt; makes them good at teamwork: they gain a +3 attack bonus when
+flanking and grant a +3 when using Aid Another, instead of the usual +2 to both
+activities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mimicry&lt;/strong&gt; allows them to mimic any sound or voice. You have to win an opposed
+roll of your Insight vs. their Bluff to realize the sound is fake. Not all kenku
+in this entry are trained in Bluff, but the sneakier ones are.&lt;/p&gt;
+
+&lt;p&gt;Their levels are all in the early-to-mid Heroic tier, which in my mind means
+they’d be about as common as elves or halflings. They get playable stats at the
+end of this book, but I’m not sure if they ever got a full writeup later on.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-ruffian&quot;&gt;Kenku Ruffian&lt;/h3&gt;
+
+&lt;p&gt;Your typical crime-birb-on-the-street is a Level 3 Minion Skirmisher. They only
+have a basic &lt;strong&gt;club&lt;/strong&gt; attack and the universal signature abilities, so they’re
+pretty much civilians despite the name “Ruffian”. If forced to fight they rely
+on numbers to hold the line while one or two of them go get help.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-warrior&quot;&gt;Kenku Warrior&lt;/h3&gt;
+
+&lt;p&gt;Formally trained in a mobile fighting style, the warrior uses paired daggers and
+moves in a seemingly random pattern about the battlefield. Warriors are Level 3
+Skirmishers with 44 HP.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;daggers&lt;/strong&gt; can be used as melee or ranged attacks (they carry 6). The
+&lt;strong&gt;Fluttering Attack&lt;/strong&gt; maneuver allows them to shift 4 squares and make a dagger
+attack during the movement, and &lt;strong&gt;Combat Advantage&lt;/strong&gt; gives them a damage
+bonus. They also have the universal traits, so combat advantage is even better
+for them and they have an easy time acquiring it.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-ringleader&quot;&gt;Kenku Ringleader&lt;/h3&gt;
+
+&lt;p&gt;Ringleaders lead small gangs of kenku in heists or raids, though they have
+enough sense to sound a retreat if guards or rivals show up in force. They’re
+Level 4 Soldiers with the Leader tag and 54 HP. They’re trained in Bluff and
+and Intimidate.&lt;/p&gt;
+
+&lt;p&gt;They use a &lt;strong&gt;spiked chain&lt;/strong&gt; in melee and a &lt;strong&gt;sling&lt;/strong&gt; at range. The chain attack
+is Reach 2 and marks on a hit. They &lt;strong&gt;Press the Attack&lt;/strong&gt; maneuver is a chain
+strike that targets a marked enemy, does the usual damage, and knocks them prone
+on a hit.&lt;/p&gt;
+
+&lt;p&gt;They have the two standard kenku traits, and they can use &lt;strong&gt;Flock Reaction&lt;/strong&gt;
+(minor; recharge 4+) to allow every ally in a close burst 3 to shift 1
+square. Perfect for allowing them to disengage and retreat, or finish setting up
+a flanking maneuver.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-sneak&quot;&gt;Kenku Sneak&lt;/h3&gt;
+
+&lt;p&gt;The first actual rogue in the crime birb entry, Sneaks are Level 4 Lurkers with
+42 HP. They have a higher than usual speed of 7, and they fight with &lt;strong&gt;daggers&lt;/strong&gt;
+both in melee and at range. They’re trained in Bluff, Stealth, and Thievery.&lt;/p&gt;
+
+&lt;p&gt;As the name implies, the Sneak engages with 4e’s Stealth rules, which dictate
+when someone can make a Stealth check to become “hidden” during combat and how
+fast they can move while hidden. I think that by default your speed is limited
+to 2 in that case - move faster and you’re detected.&lt;/p&gt;
+
+&lt;p&gt;Kenku sneaks have an advantage here in that they can move at speed 4 while
+hidden. Their &lt;strong&gt;Disappear into the Flock&lt;/strong&gt; trait allows them to make those
+Stealth checks while they have cover from other kenkus, &lt;strong&gt;Hidden Strike&lt;/strong&gt; gives
+them a hefty chunk of extra damage if they attack from hiding, and &lt;strong&gt;Sniper&lt;/strong&gt;
+allows them to remain hidden if they miss with a ranged attack.&lt;/p&gt;
+
+&lt;p&gt;The tactics outlined by these traits are nifty. A sneak will always appear
+accompanied by a number of warriors or a huge band of ruffians. They’ll hide
+among the crowd and move it with, throwing daggers at the squishier PCs for big
+damage from a safe distance.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-wing-mage&quot;&gt;Kenku Wing Mage&lt;/h3&gt;
+
+&lt;p&gt;Though kenku are flightless, it seems they have a magic tradition that seeks to
+correct that injustice. Wing mages practice this tradition, and as a result they
+know a lot of air and force magic as well. They’re Level 5 Artillery with 50
+HP. Wielding &lt;strong&gt;daggers&lt;/strong&gt; as weapons and implements, wing mages fight with spells
+that create wind and summon flocks of crows made of pure force.&lt;/p&gt;
+
+&lt;p&gt;Those force crows can be used in the &lt;strong&gt;Murder of Crows&lt;/strong&gt; at-will attack (Ranged
+20 vs. Reflex) which does force damage and makes the target grant combat
+advantage to the wing mage (save ends). They can also be used in the &lt;strong&gt;Death
+Flock&lt;/strong&gt; encounter power (area burst 1 within 20 vs. Reflex) which does force
+damage and dazes (save ends).&lt;/p&gt;
+
+&lt;p&gt;Their main keep-away spell is &lt;strong&gt;Hurricane Blast&lt;/strong&gt; (close burst 3 vs. Fortitude;
+recharge 5+), which does force damage and slides targets 3 squares. And finally,
+&lt;strong&gt;Wings of the Flock&lt;/strong&gt; (minor; encounter) gives them a flight speed of 6 until
+the end of the encounter.&lt;/p&gt;
+
+&lt;p&gt;The wing mage is going to take off as soon as the fight starts, and will rain
+force crows upon the PCs from a safe elevation. Most ranged magic has a range
+smaller than 20, so the party better have some archers with them.&lt;/p&gt;
+
+&lt;h3 id=&quot;kenku-assassin&quot;&gt;Kenku Assassin&lt;/h3&gt;
+
+&lt;p&gt;Either an actual killer-for-hire or an elite combatant. Assassins love poison
+and unlike most other kenku they rarely surrender. They’re Level 5 Elite
+Skirmishers with 126 HP. They fight with envenomed &lt;strong&gt;daggers&lt;/strong&gt; and a
+&lt;strong&gt;shortbow&lt;/strong&gt; with envenomed arrows, both of which slow the enemy on a hit (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;They have the same Fluttering Attack as the warriors, and when attacked they can
+use &lt;strong&gt;Gouging Talons&lt;/strong&gt; as a reaction to hit back. If surrounded, &lt;strong&gt;Feather
+Burst&lt;/strong&gt; (close burst 2; encounter) can automatically blind every enemy in the
+area for a turn, allowing them to escape.&lt;/p&gt;
+
+&lt;p&gt;Assassins prefer to stay at range, but once in melee they fight much like
+warriors. Their “elite extra attack” is a reaction, so they have an incentive to
+stay in the thick of it. Two of them, or one of them plus a squad of warriors,
+makes for an interesting encounter where no one stands still. They also go well
+with monsters that can exploit the “slowed” status, since they cause that at
+will.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We have quite a few kenku encounters here, showcasing the sort of monster they
+keep as pets and the sort of allies they make into honorary flock members.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 2: 2 kenku warriors, 2 bloodseeker drakes, 1 pseudodragon. Hunters… or
+bounty hunters.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 3: 1 kenku ringleader, 8 ruffians, and 2 warriors. The whole gang’s
+here!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 4: 1 human berserker, 1 ringleader, 6 ruffians, 2 sneaks. Another gang,
+this one with an adopted member.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 5: 1 half-elf bandit captain, 2 human berserkers, 1 kenku assassin, 1
+kenku wing mage. And this one works the other way around.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I like these kenku, though as usual I’d make their description as dastardly
+criminals less universal than the book seems to imply. A setting where they’re
+as common as the more traditional haflings and elves would be a cool place.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/24/kenku.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/24/kenku.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Hydra</title>
@@ -1197,356 +1470,6 @@ blocks are interesting from a mechanics standpoint as well.&lt;/p&gt;
         <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/09/28/goliath.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/28/goliath.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Golem</title>
-        <description>&lt;p&gt;Golems showed up in the first MM and were iconic enough to later make it to the
-Monster Vault. I covered those &lt;a href=&quot;/octopus-carnival/2020/04/30/golem.html&quot;&gt;here&lt;/a&gt;, and you can check that same post to
-see their basic lore. The Monster Manual 2 brings us yet more golems, which
-share the same basic lore.&lt;/p&gt;
-
-&lt;p&gt;As before, golems are Natural Animates with the Construct keyword. They’re
-immune to disease, poison, and sleep. They have darkvision, and though their
-ground speed tends to be high they cannot shift. Most are Large, but one of the
-examples here is Huge.&lt;/p&gt;
-
-&lt;h2 id=&quot;bone-golem&quot;&gt;Bone Golem&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-bone.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Bone golems are made from the skeletons of several creatures, whose bones are
-sharpened and fitted together to form the construct’s body. Despite being made
-of bones and beloved of necromancers, it’s a construct animated through
-elemental magic and not an undead monster. Throw this one into an encounter that
-does have undead skeletons in it, and it should be good to surprise your PCs a
-bit.&lt;/p&gt;
-
-&lt;p&gt;Bone Golems are Level 12 Elite Brutes with 302 HP. It’s so spiky the pointy bits
-count as a &lt;strong&gt;Bone Spikes&lt;/strong&gt; aura (1) that deals 5 damage to any enemy that enters
-it. The pointy bits also justify the &lt;strong&gt;Osseous Retaliation&lt;/strong&gt; trait, which deals
-a bit of automatic damage to anyone who hits the golem with an opportunity
-attack.&lt;/p&gt;
-
-&lt;p&gt;This construct fights with Reach 2 &lt;strong&gt;Bone Spurs&lt;/strong&gt;, and can attack twice per
-action with them. It can also fire a &lt;strong&gt;Bone Volley&lt;/strong&gt; (burst 3 vs. Reflex,
-recharge 6+) that deals heavy physical damage and dazes (save ends).&lt;/p&gt;
-
-&lt;p&gt;When the golem is destroyed &lt;strong&gt;Bone Death&lt;/strong&gt; allows it to make one last
-attack. If Bone Spurs is charged then it uses that, otherwise it makes a basic
-bone spur attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;chain-golem&quot;&gt;Chain Golem&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-chain.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These Huge golems are modeled after chain devils, and are often tasked to guard
-prisons and Actual Dungeons instead of the usual tombs or treasure vaults. As
-you might have guessed, their fighting style is very grapple-intensive.&lt;/p&gt;
-
-&lt;p&gt;Chain Golems are Level 22 Elite Soldiers with 418 HP, a speed of 8, and all
-standard golem traits. Their &lt;strong&gt;Entangling Chains&lt;/strong&gt; act as an aura (3) that slows
-everyone caught inside.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a Reach 3 &lt;strong&gt;Chain&lt;/strong&gt; that does physical damage and pulls
-the target 2 squares. &lt;strong&gt;Chain Smash&lt;/strong&gt; is their double attack power, allowing it
-to attack two different targets in one action. While they’re bloodied, &lt;strong&gt;Berserk
-Attack&lt;/strong&gt; allows them to make a chain strike against anyone who damages them as a
-reaction.&lt;/p&gt;
-
-&lt;p&gt;All that and we didn’t even use the grappling rules yet! We have to do that for
-&lt;strong&gt;Chain Grab&lt;/strong&gt;, though. This at-will attack is a Close Burst 2 that does the
-same damage as the basic strike, pulls targets 1 square, and grabs them. The
-escape DC is 32 or 35 depending on the skill you use. The golem can move away
-from the grabbed victims without ending the grab because chains. Once it
-finishes moving it can either slide the victims next to itself or let them go.&lt;/p&gt;
-
-&lt;p&gt;So your typical chain golem will try to keep the whole party grabbed while it
-smacks them around with its chains. PCs who aren’t grabbed will still be slowed,
-and the golem’s strikes will pull them back if they try to run away. Staying far
-away and using ranged attacks is a good tactic against them, but that speed of 8
-will make keeping away a real chore.&lt;/p&gt;
-
-&lt;h2 id=&quot;clay-golem&quot;&gt;Clay Golem&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-golem-clay.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Clay Golems were one of the original golem types described in the first entries
-back in AD&amp;amp;D or in the nebulous times before it. They were originally inspired
-by the legend of the golem of Prague, and so were the only golem that required
-divine magic to make (all the others were arcane).&lt;/p&gt;
-
-&lt;p&gt;In Fourth Edition, &lt;a href=&quot;/octopus-carnival/2020/02/12/eidolon.html&quot;&gt;eidolons&lt;/a&gt; are used to represent divine constructs, so
-clay golems have the same arcane/elemental origin as the other types. They have
-a somewhat “runny” appearance, but are surprisingly fast and retain a slightly
-less harsh version of the ability to inflict unhealing wounds that they had in
-previous incarnations.&lt;/p&gt;
-
-&lt;p&gt;Stat-wise, they’re Level 15 Elite Brutes with 368 HP, Large size, a speed of 6,
-and all common golem traits. Their basic attack is a Reach 2 &lt;strong&gt;Slam&lt;/strong&gt; that does
-heavy physical damage and curses the target, making it unable to regain HP. This
-is a (save ends) condition, but it’s still quite dangerous, since it makes
-wounds inflicted by &lt;em&gt;all&lt;/em&gt; enemies unhealing, not just the golem’s. &lt;strong&gt;Clay
-Smash&lt;/strong&gt; allows it to slam two different targets in one action, and they have the
-same Berserk Attack reaction as the chain golem above.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Hasty Reaction&lt;/strong&gt; passive trait allows them to roll initiative twice and
-take the highest result, and &lt;strong&gt;Unstoppable&lt;/strong&gt; is a move-action encounter power
-that allows them to move 8 squares and pass through enemy spaces. They draw
-opportunity attacks when doing this, but reduce their damage by 10. This isn’t
-worded like a resistance, so I guess powers that bypass or reduce resistances
-don’t work against it.&lt;/p&gt;
-
-&lt;h2 id=&quot;iron-golem&quot;&gt;Iron Golem&lt;/h2&gt;
-
-&lt;p&gt;These made it into the MV, so we already covered them. The MM2 has two versions,
-the Level 20 one that we saw, and a Level 26 “Iron Golem Juggernaut” that’s
-basically the same aside from being size Huge and having bigger numbers.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Each kind of golem presented here gets a sample encounter. I guess there was
-something of an editing snafu here, because most golems have their encounter
-listed right after their stats, but the one for chain golems is all by its
-lonesome in an “Encounter Groups” section at the end of the overall entry. I
-guess it must be there because it has two golem types in it.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: 1 bone golem, 4 horde ghouls (minions), 1 human wizard lich. So
-that’s the kind of caster who makes bone golems.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 15: 1 clay golem, 1 shadar-kai gloom lord, 2 shadow snakes. A Zehiri
-operation, if you still want to associate clay golems with clerics.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 21: 1 chain golem, 1 dark naga, 1 iron golem. Someone &lt;em&gt;really&lt;/em&gt; wanted
-this place guarded.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 24: 1 iron golem juggernaut, 1 storm gorgon, 1 djinn skylord. A noble,
-his pet, and his mechanical manservant.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There’s a point past which adding more golem types feels a bit redundant. There
-are also so many non-golem constructs out there that I almost think “golem”
-should be a singular monster type with very specific characteristics, rather
-than a whole family of them. Otherwise it would be best to do away with the term
-entirely.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/09/16/golem.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/16/golem.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Goblin</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-goblin.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;D&amp;amp;D Fourth Edition uses “Goblins” to describe a set of closely related species
-of humanoids: actual goblins, hobgoblins, and bugbears. They’re a very
-traditional component of the game and we looked at lots of them in the
-MM1/Monster Vault Let’s Read. The post covering their basic lore is &lt;a href=&quot;/octopus-carnival/2020/04/22/goblinoids.md&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Since the first Manual covered them so well, the second brings us a small number
-of more specialized stat blocks for them.&lt;/p&gt;
-
-&lt;h2 id=&quot;bugbear-wardancer&quot;&gt;Bugbear Wardancer&lt;/h2&gt;
-
-&lt;p&gt;Wardancers are specialized martial artists. Their weapon of choice is a
-two-handed heavy flail, which they swing in wide arcs while moving through enemy
-forces in the battlefield. The end result looks something like a dance, thus the
-name. There’s a religious element to the art: there are different schools
-organized around the worship of different exarchs of Bane, who compete among
-each other to see whose war dance is the best.&lt;/p&gt;
-
-&lt;p&gt;The wardancer presented here is a Level 6 Skirmisher with 70 HP, low-light
-vision, and Speed 7. Its basic attack is a &lt;strong&gt;Flail Dance&lt;/strong&gt; that does physical
-damage and has a lot of stacked riders: it pushes the target 2 square and knocks
-it prone, and also allows the bugbear to shift 1 square. Yes, this is an at-will
-basic attack.&lt;/p&gt;
-
-&lt;p&gt;The wardancer also has a couple of special attacks. &lt;strong&gt;Flail Barrier&lt;/strong&gt; (recharge
-5+) does a bit of automatic damage in a burst 2 around the bugbear, and makes it
-take half damage from weapon attacks until the end of its next turn. &lt;strong&gt;Flail
-Assault&lt;/strong&gt; (close burst 2 vs Reflex; encounter) does a bit more damage and knocks
-those it hits prone.&lt;/p&gt;
-
-&lt;p&gt;All the wardancer’s attacks deal extra damage if it has combat advantage against
-the target.&lt;/p&gt;
-
-&lt;h2 id=&quot;goblin-acolyte-of-maglubyet&quot;&gt;Goblin Acolyte of Maglubyet&lt;/h2&gt;
-
-&lt;p&gt;Another martial artist, this one a goblin from a sect devoted to Maglubyet. In
-previous editions (and again on 5th), Maglubyet is the main goblinoid deity, but
-here he’s one of Bane’s Exarchs. His acolytes seek to make themselves in his
-image.&lt;/p&gt;
-
-&lt;p&gt;The Acolyte is a Level 1 Controller with 29 HP, Speed 6, and low-light
-vision. They wield a battleaxe in combat, and back it up with a bit of divine
-magic.&lt;/p&gt;
-
-&lt;p&gt;Acolytes are surrounded by a &lt;strong&gt;Life Scourge&lt;/strong&gt; aura (2) that prevents enemies
-inside from recovering hit points. Their basic attack is a &lt;strong&gt;Slashing Shroud&lt;/strong&gt;
-that consists of an axe strike that also makes the acolyte invisible to the
-target until the end if the acolyte’s next turn. A good option against PC
-defenders.&lt;/p&gt;
-
-&lt;p&gt;They can attack at range with the &lt;strong&gt;Hand of Maglubyet&lt;/strong&gt; (ranged 10
-vs. Fortitude), a telekinetic attack that deals force damage and either slides
-the target 3 squares or immobilizes it for a turn. &lt;strong&gt;Maglubyet’s Fists&lt;/strong&gt;
-(recharge 5+) allows them to use this attack twice in a single action. So as far
-as martial artists go, this is one of those annoying hadouken spammers.&lt;/p&gt;
-
-&lt;p&gt;The acolyte also has the standard &lt;strong&gt;Goblin Tactics&lt;/strong&gt; power that allows it to
-shift 1 square as a reaction when missed by a melee attack. This is what you
-would change if you were making acolytes of other species.&lt;/p&gt;
-
-&lt;h2 id=&quot;lolthbound-goblin&quot;&gt;Lolthbound Goblin&lt;/h2&gt;
-
-&lt;p&gt;Goblins are generally big on Bane worship, but that’s not universal among
-them. This is a goblin whose people have been slaves to the drow for
-generations. Their training, and even their physiology, have some important
-differences from your usual goblins. They’re clearly meant to be encountered
-alongside drow, though for that to work out you’ll need to make those drow lower
-level or the goblin higher level.&lt;/p&gt;
-
-&lt;p&gt;As written, the Lolthbound Goblin is a Level 3 Soldier with 45 HP. They have
-speed 6, and replace the usual low-light vision with full darkvision. They wear
-light armor and fight with a war pick.&lt;/p&gt;
-
-&lt;p&gt;When Lolthbound Goblins are within 5 squares of a drow, they gain a +2 bonus to
-all their attacks and defenses. That &lt;strong&gt;pick&lt;/strong&gt; is a high-crit weapon and marks
-targets for a turn on a hit. Once per encounter they can use a &lt;strong&gt;Stinging Blow&lt;/strong&gt;
-that deals poison damage and instead of marking increases any ongoing poison
-damage the target is taking by 5. This synergizes with the poisoned weapons drow
-so often carry.&lt;/p&gt;
-
-&lt;p&gt;Also once per encounter they can use a &lt;strong&gt;Lolthbound Shriek&lt;/strong&gt; (close blast 5
-vs. Fortitude), which deals light thunder damage to anyone in the area who is
-not a drow or spider.&lt;/p&gt;
-
-&lt;p&gt;Aside from the usual Goblin Tactics reaction, they also have &lt;strong&gt;Drow Protector&lt;/strong&gt;,
-an interrupt where the goblin throws himself in front of a drow that’s just been
-targetted by an attack, becoming the target instead.&lt;/p&gt;
-
-&lt;h2 id=&quot;lolthbound-goblin-slave&quot;&gt;Lolthbound Goblin Slave&lt;/h2&gt;
-
-&lt;p&gt;This is a Level 12 Minion Skirmisher version of the lolthbound goblin above,
-which makes it appropriate for use with drow without the need for level
-adjustments. They’re also armed with war picks, and add a hand crossbow to their
-loadout.&lt;/p&gt;
-
-&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Stinging Pick&lt;/strong&gt;, which works just like the
-Stinging Blow from the regular version. Their basic &lt;strong&gt;crossbow&lt;/strong&gt; attack deals a
-bit more damage if they’ve moved 3 or more squares before making it.&lt;/p&gt;
-
-&lt;p&gt;They also gain the attack and defense bonus from being near drow, and have
-Goblin Tactics.&lt;/p&gt;
-
-&lt;h2 id=&quot;hobgoblin-fleshcarver&quot;&gt;Hobgoblin Fleshcarver&lt;/h2&gt;
-
-&lt;p&gt;This is the hobgoblin specialized martial artist. Unlike the bugbear and goblin
-examples, fleshcarvers don’t seem to have a religious component to their
-training. It’s all about hard work and crafting your own custom-fitted
-weapons. Their weapons of choice are a polearm and a set of poisoned throwing
-darts, whose poison is harvested from serpents they hunt as part of their
-training. Fleshcarvers never refuse a challenge to combat, though they’re smart
-enough to not let such a challenge distract them in the middle of an ongoing
-battle.&lt;/p&gt;
-
-&lt;p&gt;Fleshcarvers are Level 6 Elite Controllers with 146 HP. They have Speed 6 and
-low-light vision, wear heavy armor, and are armed with the afore-mentioned
-specialized weapons.&lt;/p&gt;
-
-&lt;p&gt;Their stance and movements act as an aura (2) named &lt;strong&gt;Fleshcarver’s Trap&lt;/strong&gt;,
-dealing 5 damage to any enemy inside the first time they move during their
-turn. Their &lt;strong&gt;glaive&lt;/strong&gt; is reach 2 and is used both for basic attacks and for an
-at-will &lt;strong&gt;Glaive Flurry&lt;/strong&gt; that targets all enemies in a close burst 2, does more
-damage than the basic attack, and slides targets 2 squares.&lt;/p&gt;
-
-&lt;p&gt;At range they can throw those &lt;strong&gt;Toxic Darts&lt;/strong&gt; to do a bit of poison damage and
-slow the target (save ends). If the target was already slowed, it’s immobilized
-instead. When they’re hit by a melee attack, they can use their reaction to
-shift 2 squares and make a dart attack. And finally, fleshcarvers have the same
-Hobgoblin Resilience and Phalanx Soldier powers from MM1 hobgoblins.&lt;/p&gt;
-
-&lt;p&gt;These hobgoblins are more effective when lots of enemies are in reach, but the
-selective targetting on their area attack means they engage all those enemies
-while fighting in formation for that sweet defense bonus from Phanlanx Soldier.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters&quot;&gt;Sample Encounters&lt;/h2&gt;
-
-&lt;p&gt;These new goblinoid specialists can be inserted into any goblin encounter, and
-being goblins themselves also work well with any of their typically allied
-creatures. These are the encounters we get on the book:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 1: 1 goblin acolyte, 3 goblin warriors, 1 Lolthbound Goblin. It’s likely
-the whole group are drow slaves, with the LBG being their leader. The level
-math works out, but the LBG’s drow-related skills are wasted here.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 6: 2 bugbear wardancers, 2 bugbear warriors, 1 barghest battle lord. A
-warlord and their bodyguards.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 6: 1 fleshcarver, 3 hobgoblin soldiers, 2 dire wolves. A patrol with a
-little extra kick to it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: 4 lolthbound goblin slaves, 1 drow priest, 2 blade spiders, 2 drow
-warriors. Lots of poison being thrown around on this one, which makes the
-minions more dangerous than their level would indicate.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I like these new additions, because their stat blocks are interesting and their
-associated lore fleshes goblin culture out a bit more. I like that they’re
-complex enough to have multiple martial styles.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/09/16/goblin.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/09/16/goblin.html</guid>
         
         <category>dnd4</category>
         
