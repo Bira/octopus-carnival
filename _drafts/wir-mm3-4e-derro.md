@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-derro.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Derro have been in the game since AD&D 1st Edition, where they appeared in the
 Monster Manual II. They're based on the writings of an American author named
 Richard Sharpe Shaver, who wrote a lot about a civilization of psychic and
@@ -18,8 +27,8 @@ D&D Derro have a different origin from Shaver's dero, though the flavor is quite
 similar in 4e. When the world was still young, it gave rise to an advanced and
 power-hungry civilization. Its people, the derro, craved power like that of the
 primordials, but they wanted to bow to no master. So derro scholars came up with
-an alternate solution: open a portal to this other unoccupied dimension they
-found. There would be no one to contest their claim! Free unlimited power!
+an alternate solution: open a portal to this unoccupied magic-rich dimension
+they found. There would be no one to contest their claim! Free unlimited power!
 
 They succeeded in opening their portals, but found out this new dimension was
 far from unoccupied. It was the place known today as the Far Realm. After the
