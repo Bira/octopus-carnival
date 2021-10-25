@@ -5,9 +5,60 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Oct 2021 21:32:46 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Oct 2021 21:32:46 +0000</lastBuildDate>
+    <pubDate>Mon, 25 Oct 2021 18:29:18 +0000</pubDate>
+    <lastBuildDate>Mon, 25 Oct 2021 18:29:18 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Thoughts on LANCER Against the Giants</title>
+        <description>&lt;p&gt;I remember reading a few play reports about a campaign titled “Mecha Against the
+Giants” a few years ago. It was run by Mark Langsdorf, using GURPS as a rule
+system, and it was vaguely inspired by the Agains the Giants modules for AD&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;One of these days, I really want to run something like that using LANCER. As of
+this writing I definitely don’t have the bandwidth for it, but I just thought it
+would be nice to write it down.&lt;/p&gt;
+
+&lt;h2 id=&quot;lancer-agains-the-giants&quot;&gt;LANCER: Agains the Giants&lt;/h2&gt;
+
+&lt;p&gt;Armies of Giants invade, out of nowhere and for seemingly no reason!&lt;/p&gt;
+
+&lt;p&gt;Their relentless assaults threaten to destroy “smallfolk” civilization!&lt;/p&gt;
+
+&lt;p&gt;The realm’s bravest heroes have fallen against their foe’s overwhelming strength
+and numbers!&lt;/p&gt;
+
+&lt;p&gt;Desperate, the King’s wizards and priests spend the last of their power in a
+rituat. It purpose: to summon someone, &lt;em&gt;anyone&lt;/em&gt; from across the vastness of
+existance that has the power to stop the destruction!&lt;/p&gt;
+
+&lt;p&gt;They succeed in bringing the 2021st Union Auxiliary Squadron. Your squadron.&lt;/p&gt;
+
+&lt;p&gt;Mount up, Lancer, and end this war!&lt;/p&gt;
+
+&lt;p&gt;Fight off attacking giants and their pet giant monsters!&lt;/p&gt;
+
+&lt;p&gt;Discover the mystery behind these invasions!&lt;/p&gt;
+
+&lt;p&gt;Find a way to end this war that &lt;em&gt;doesn’t&lt;/em&gt; involve genocide, because we’re better
+than Gygax!&lt;/p&gt;
+
+&lt;p&gt;And finally, at the end of it all…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ATTACK AND DETHRONE LOLTH&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/25/musings.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/25/musings.html</guid>
+        
+        <category>lancer</category>
+        
+        <category>gurps</category>
+        
+        <category>opinion</category>
+        
+        
+      </item>
     
       <item>
         <title>De-monk-ifying Dungeon Fantasy</title>
@@ -1083,57 +1134,6 @@ such a thing, and it sounds too bleak even for a 90’s-style dystopia.&lt;/p&gt
         <category>gurps</category>
         
         <category>opinion</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dungeoncrawl Procedures at Nature Kills</title>
-        <description>&lt;p&gt;Earlier this year I published a post on “&lt;a href=&quot;/octopus-carnival/2020/01/24/old-school-movement.html&quot;&gt;Old School Movement&lt;/a&gt;” with a simple
-set of rules I could use when GMing converted old-school D&amp;amp;D and AD&amp;amp;D dungeons
-in Dungeon Fantasy. Recently, the Nature Kills blog has also published &lt;a href=&quot;https://gurpshexytime.blogspot.com/2020/06/dungeoncrawl-procedures.html&quot;&gt;their
-own take&lt;/a&gt; on the same subject in a post titled “Dungeoncrawl Procedures”.&lt;/p&gt;
-
-&lt;p&gt;What I find most interesting on that post, and on the sources it links, is that
-they see the lack of this detailed procedure in recent D&amp;amp;D editions as a grave
-omission in that system. Having a canonical procedure to crawl a dungeon or to
-perform any other sort of exploration is a vital pre-requisite for properly
-designing these dungeons and other places.&lt;/p&gt;
-
-&lt;p&gt;The actual procedure outlined there is similar to mine in nature, but differs in
-some details and adds others I didn’t cover. The ones I found most interesting
-are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;This procedure should apply to all dungeon exploration, not just to AD&amp;amp;D
-adaptations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Default movement speed is double what I guessed (encumbered Move x 20m per
-turn).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Traps are only sprung 2 out of 6 times. A direct translation of an old-school
-mechanic that’s perfect for use when you’re not constantly using a map and
-miniatures.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;They have convinced me to apply this mechanic to all dungeon crawls, but I
-disagree with enough of their details that I feel I have to revise my own
-procedure. That will happen some other time.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/06/09/exploration-procedures.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/06/09/exploration-procedures.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>link</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
