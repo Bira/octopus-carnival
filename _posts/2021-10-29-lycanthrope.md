@@ -38,6 +38,15 @@ exposed to a disease specified alongside their stat block.
 
 ### Wereboar
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-lycanthrope-wereboar.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Wereboars are described as brutish and easily angered. Some of them like to hang
 out in places where a fight is likely to break out, such as in rowdy taverns and
 underground fight clubs. They love to fight in their animal form, and getting
@@ -63,6 +72,15 @@ common saves are in this game. I imagine the actual level of the disease and its
 DCs should be equal to the level of the wereboar, if you're changing them.
 
 ### Weretiger
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-lycanthrope-weretiger.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Weretigers are a marked contrast to their porcine relatives, being much sneakier
 and more opportunistic than them in a fight. If they become convinced they need

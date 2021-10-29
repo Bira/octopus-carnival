@@ -105,6 +105,10 @@ variants here. Here they are, from A to Z:
   - [Kenku][62]
   - [Krenshar][63]
 
+- L
+  - [Lizardfolk][64]
+  - [Lycanthrope][65]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -170,3 +174,5 @@ variants here. Here they are, from A to Z:
 [61]: {{ "/2021/10/17/hydra.html" | relative_url }}
 [62]: {{ "/2021/10/24/kenku.html" | relative_url }}
 [63]: {{ "/2021/10/24/krenshar.html" | relative_url }}
+[64]: {{ "/2021/10/29/lizardfolk.html" | relative_url }}
+[65]: {{ "/2021/10/29/lycanthrope.html" | relative_url }}

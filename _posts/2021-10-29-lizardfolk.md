@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-lizardfolk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 We already looked at [lizardfolk][2] during our reading of the first Monster
 Manual and the Monster Vault. As we saw before, there are several different
 ethnicities of lizardfolk. The first MM had the human-sized "greenscales" and
