@@ -6,9 +6,311 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Oct 2021 03:29:20 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Oct 2021 03:29:20 +0000</lastBuildDate>
+    <pubDate>Fri, 29 Oct 2021 11:42:48 +0000</pubDate>
+    <lastBuildDate>Fri, 29 Oct 2021 11:42:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Lycanthrope</title>
+        <description>&lt;p&gt;The first Monster Manual had a Lycanthrope entry containing wererats and
+werewolves. Here in the second one we get stats for more types, as well as a bit
+of additional lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;I’ve covered a lot of the basic lore of lycanthropes in the [original
+article][2], so please read that. This entry adds a couple of other tidbits. The
+first one says that a lycanthrope’s natural form is the “beast-person” one. The
+other says that lycanthropes are Melora’s creations, and that the reason they’re
+affected by silver and the full moon is because of an ancient feud between
+Melora and Sehanine.&lt;/p&gt;
+
+&lt;p&gt;4e lycanthropes aren’t really forced to change in the full moon, so that’s not a
+big deal, but silver can shut down their regeneration. Like in the first MM, all
+the stat blocks we get here have “Evil” in their alignment, though there’s no
+real lore reason for all of lycanthropes to be evil.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Lycanthropes are natural humanoids, and the two we see here are
+Large. Obviously, they have the Shapechanger keyword. They have low light vision
+and a ground speed of 6 in either humanoid form or 8 in animal form. Switching
+forms is a minor action for them, giving them plenty of flexibility in a
+fight. They have regeneration, which shuts down for a turn when they’re wounded
+by silver weapons.&lt;/p&gt;
+
+&lt;p&gt;Victims damaged by a lycanthrope’s natural attacks while it’s in animal form are
+exposed to a disease specified alongside their stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;wereboar&quot;&gt;Wereboar&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-lycanthrope-wereboar.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wereboars are described as brutish and easily angered. Some of them like to hang
+out in places where a fight is likely to break out, such as in rowdy taverns and
+underground fight clubs. They love to fight in their animal form, and getting
+wounded only makes them angrier.&lt;/p&gt;
+
+&lt;p&gt;The stat block presented here is a Level 6 Brute with 61 HP and all traits
+listed above. Its regeneration is 5. He fights with a &lt;strong&gt;maul&lt;/strong&gt; in human form and
+&lt;strong&gt;gores&lt;/strong&gt; with his tusks in boar form. The tusks also inflict ongoing damage and
+transmit moontusk fever, the wereboar disease.&lt;/p&gt;
+
+&lt;p&gt;When bloodied, the wereboar gains a +2 to all defenses and doubles the amount of
+ongoing damage its tusks deal. And when it hits 0 HP, it can make one last basic
+attack before dying.&lt;/p&gt;
+
+&lt;p&gt;Moontusk fever is a level 6 disease with an “Improve” DC of 17 and a “maintain”
+DC of 12, and it fucks you up while you’re bloodied. Stage 1 inflicts a -2
+penalty so taves while the victim is bloodied. Stage 2 limits them to one save
+at the end of their turn even if they’re affected by multiple save-ends
+effects. And the final stage gives you 5e disadvantage on that single save.&lt;/p&gt;
+
+&lt;p&gt;The disease isn’t directly lethal, but it’s a major inconvenience given how
+common saves are in this game. I imagine the actual level of the disease and its
+DCs should be equal to the level of the wereboar, if you’re changing them.&lt;/p&gt;
+
+&lt;h3 id=&quot;weretiger&quot;&gt;Weretiger&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-lycanthrope-weretiger.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Weretigers are a marked contrast to their porcine relatives, being much sneakier
+and more opportunistic than them in a fight. If they become convinced they need
+to fight, they’ll stalk their adversary and strike in the most opportune
+moment. Their fighting style is highly mobile and cautious in any of their
+forms.&lt;/p&gt;
+
+&lt;p&gt;Weretigers are Level 11 Elite Skirmishers with 172 HP and Regeneration 10. They
+fight with paired &lt;strong&gt;katars&lt;/strong&gt; in humanoid form, and with &lt;strong&gt;bites&lt;/strong&gt; in tiger
+form. The katars are high-crit weapons and do more damage, but the bite
+transmits a disease called moon rage.&lt;/p&gt;
+
+&lt;p&gt;The weretiger can &lt;strong&gt;pounce&lt;/strong&gt; when it charges, dealing more damage than a basic
+attack and knocking the target prone on a hit. &lt;strong&gt;Feline Fury&lt;/strong&gt; allows it to make
+two basic attacks with a shift between them, and &lt;strong&gt;Slashing Recoil&lt;/strong&gt; allows them
+to make a free basic attack when someone misses them in melee.&lt;/p&gt;
+
+&lt;p&gt;While this lycanthrope is stronger in humanoid form, there’s still some
+incentive to bite the PCs and expose as many of them as possible to moon
+rage. This is a disease that turns the victim’s hands into tiger paws! At stage
+1 the partial change inflicts a -2 penalty on all attacks. At Stage 2 they gain
+a Strength-based claw attack that deals 1d6+STR bonus damage, but can no longer
+hold any weapons or implements. And at the final stage their mind is saddled
+with predatory instincts that prevent them from switching targets in combat
+until their current target is dead. At level 11, the Improve DC is 21 and the
+Maintain DC is 16.&lt;/p&gt;
+
+&lt;h3 id=&quot;werewolf-lord&quot;&gt;Werewolf Lord&lt;/h3&gt;
+
+&lt;p&gt;This is a bigger, stronger, smarter werewolf, usually found leading a whole clan
+of lycanthropes. They’re also known as “pack lords”. They’re mostly werewolves
+with bigger numbers, but they also have some useful leadership powers.&lt;/p&gt;
+
+&lt;p&gt;The lord is a Level 13 Elite Brute with 264 HP and Regeneration 10. They project
+a Blood Moon aura (5) that gives allies inside +2 to attacks and +5 to damage
+against bloodied targets. They fight with a &lt;strong&gt;falchion&lt;/strong&gt; in humanoid form and
+with &lt;strong&gt;bites&lt;/strong&gt; in wolf form.&lt;/p&gt;
+
+&lt;p&gt;The sword is a High-Crit weapon, and the bite transmits an enhnaced form of moon
+frenzy. &lt;strong&gt;Canine Fury&lt;/strong&gt; allows them to make 2 basic attacks per action, and
+&lt;strong&gt;Speed of the Wolf&lt;/strong&gt; allows them to shift 6 squares and bite when in wolf
+form. Finally, &lt;strong&gt;Savage Howl&lt;/strong&gt; grants 15 temporary HP to every ally within 10
+squares and allows them to make free bite attacks if they have any to make.&lt;/p&gt;
+
+&lt;p&gt;Greater Moon Frenzy is pretty much werewolf rabies, attacking the nervous
+system. Stage 1 is a -2 penalty to Will. Stage 2 has the victim make a save at
+the end of each turn to retain control of their actions. A failure means they
+must attack a random target within 5 squares or move in a random direction if
+there are no targets available. Stage 3 removes the save: the victim must attack
+the closest creature in sight or move in random directions until it finds
+any. As presented the disease is level 13, with an Improve DC of 23 and a
+Maintain DC of 18.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I like that the lycanthrope diseases for the wereboar and weretiger are more
+inconvenient than lethal. A common complaint about 4e diseases is that they’re
+not very dangerous once the party gets access to the Remove Affliction ritual,
+which can happen from level 6 onwards. This is true, but curing afflictions can
+still spend time, money, and healing surges that would be useful elsewhere.&lt;/p&gt;
+
+&lt;p&gt;By having somewhat less dangerous diseases, wereboars and tigers paradoxically
+incentivize players to put up with them for a little longer and try to recover
+from them using the standard disease rules. So what if your saves suck when
+you’re bloodied? Just don’t get bloodied until you can return to town and
+recover!&lt;/p&gt;
+
+&lt;p&gt;We get three sample encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 7: A human hexer, 2 half-orc hunters, and 2 wereboars. It’s either a big
+brawl in progress, or a group of rowdies looking to start one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 12: An eladrin bladesinger, a will-o’-wisp, and 2 weretigers. Fey of a
+dark disposition who enjoy playing boogeymen and waylaying travelers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 13: A werewolf lord, 3 standard werewolves, and 2 worgs. A powered-up
+version of the typical werewolf-led bandit gang.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/29/lycanthrope.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/29/lycanthrope.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Lizardfolk</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-lizardfolk.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;We already looked at &lt;a href=&quot;/octopus-carnival/2020/06/23/lizardfolk.html&quot;&gt;lizardfolk&lt;/a&gt; during our reading of the first Monster
+Manual and the Monster Vault. As we saw before, there are several different
+ethnicities of lizardfolk. The first MM had the human-sized “greenscales” and
+the larger “blackscales”. The Vault also contained a “poisonscale” type, which
+turns out to have debuted here in the MM2.&lt;/p&gt;
+
+&lt;p&gt;Poisonscale lizardfolk have a smaller and slighter build than greenscales,
+though they’re still Medium. To make up for their lack of brute strength, they
+developed a kind of internal alchemy: by eating certain specific plants, they
+can sweat poison. They usually apply this poison to their weapons, but some
+poisonscales like to apply it directly to their enemies by wrestling with them.&lt;/p&gt;
+
+&lt;p&gt;The lore in this entry is more focused on the individual stat blocks than on
+overall lizardfolk culture, so presumably everything that was said in the first
+Monster Manual still applies here. The stat blocks themselves are different
+enough from what we got in the MV to be worth discussing.&lt;/p&gt;
+
+&lt;p&gt;All lizardfolk in this entry are Medium Natural Humanoids with the Swamp Walk
+ability, allowing them to ignore swampy difficult terrain. They also usually do
+something poison-related, though the specifics vary per stat block.&lt;/p&gt;
+
+&lt;h2 id=&quot;poisonscale-magus&quot;&gt;Poisonscale Magus&lt;/h2&gt;
+
+&lt;p&gt;These spellcasters specialize in toxic magic. They occupy positions as honored
+advisers in poisonscale communities, but this power and respect comes at a
+cost. Their own magic poisons them, and shortens their lives.&lt;/p&gt;
+
+&lt;p&gt;Magi are Level 2 Artillery with 32 HP and speed 6, carrying &lt;strong&gt;daggers&lt;/strong&gt; into
+battle for use as implements and in emergencies. All of their spells target
+Fortitude, so they’re a threat to your squishies.&lt;/p&gt;
+
+&lt;p&gt;In a fight a magus is likely to open up with a &lt;strong&gt;Poison Barrage&lt;/strong&gt; (encounter) an
+area burst attack that deals poison damage and inflicts Vulnerable 5 Poison on
+thise it hits (save ends). A miss does half damage and inflicts the
+vulnerability for a turn.&lt;/p&gt;
+
+&lt;p&gt;Then they’ll target individual vulnerable enemies with &lt;strong&gt;Poison Blood&lt;/strong&gt;, a
+ranged spell that deals immediate and ongoing poison damage (save ends). As a
+minor action it can also use &lt;strong&gt;Corrupt Poison&lt;/strong&gt;, a ranged spell that slides
+someone suffering from ongoing poison damage 3 squares and slows them (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;There are enough interesting interactions here that the magus works more like a
+fragile Controller than as Artillery.&lt;/p&gt;
+
+&lt;h2 id=&quot;poisonscale-slitherer&quot;&gt;Poisonscale Slitherer&lt;/h2&gt;
+
+&lt;p&gt;This represents your typical poisonscale warrior. Their slight build makes them
+a bit cowardly, but they have good teamwork and their somewhat oversized tails
+make them very stable.&lt;/p&gt;
+
+&lt;p&gt;Slitherers are Level 2 Soldiers with 36 HP and speed 5. They carry &lt;strong&gt;spears&lt;/strong&gt;
+for melee combat, and &lt;strong&gt;javelins&lt;/strong&gt; for fighting at range. They prefer that last
+one because it’s safer, and because their javelins are poisoned! This manifests
+as a secondary attack against Fortitude, which does about double the damage of
+the initial hit.&lt;/p&gt;
+
+&lt;p&gt;Their ironically named &lt;strong&gt;slitherer bravery&lt;/strong&gt; trait gives them a +2 attack bonus
+when adjacent to at least one ally, and &lt;strong&gt;slitherer stability&lt;/strong&gt; makes them
+immune to knockdowns and forced movement. That’s surprisingly powerful for a
+level 2 soldier, and makes them an excellent wizard counter-measure.&lt;/p&gt;
+
+&lt;h2 id=&quot;poisonscale-savage&quot;&gt;Poisonscale Savage&lt;/h2&gt;
+
+&lt;p&gt;This warrior doesn’t bother with fiddly stuff like poisoning weapons or personal
+hygiene. It slaps enemies with its tail to cover them in poisoned sweat, and
+them clubs them to death while they’re weakened.&lt;/p&gt;
+
+&lt;p&gt;The savage is a Level 2 Brute with 45 HP and speed 6. It will probably start the
+fight with the single &lt;strong&gt;javelin&lt;/strong&gt; it carries, which damages and inflicts ongoing
+poison damage because it’s all sweaty. After that it attacks with a
+&lt;strong&gt;greatclub&lt;/strong&gt;, and can slap with its &lt;strong&gt;tail&lt;/strong&gt; as a minor action. The tail does
+no damage, but inflicts ongoing 5 poison damage on a hit (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;poisonscale-collector&quot;&gt;Poisonscale Collector&lt;/h2&gt;
+
+&lt;p&gt;Collectors are responsible for gathering the special plants that allow
+poisonscales to produce their poison. This means they’re also trained
+herbalists and alchemists. They’re Level 3 Lurkers with 36 HP and speed 6.&lt;/p&gt;
+
+&lt;p&gt;Collectors are armed with &lt;strong&gt;Daggers&lt;/strong&gt;, which do physical and ongoing poison
+damage. Once an enemy is taking ongoing poison damage from this or any other
+source, the collector can do several unpleasant things to them.&lt;/p&gt;
+
+&lt;p&gt;First of all, the &lt;strong&gt;Poison Strike&lt;/strong&gt; passive trait gives them a +2 damage bonus
+against poisoned targets. &lt;strong&gt;Blinding Poison&lt;/strong&gt; is a spell that targets a poisoned
+creature’s Fortitude, dealing damage and blinding them on a hit (save ends). And
+&lt;strong&gt;End Strike&lt;/strong&gt; is a stab that targets someone who can’t see the collector and
+does a bunch of physical damage.&lt;/p&gt;
+
+&lt;p&gt;So this is one of those lurkers who can do something harmful to the PCs every
+turn, though it takes a bit longer to activate its ultimate attack. That process
+can be sped up if it has additional buddies who can inflict ongoing poison
+damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;poisonscale-myrmidon&quot;&gt;Poisonscale Myrmidon&lt;/h2&gt;
+
+&lt;p&gt;A veteran warrior, fighting in a more disciplined manner with a club and a
+shield. It’s a Level 3 Soldier with 47 HP and speed 6. Its only attack is a
+&lt;strong&gt;club&lt;/strong&gt; that damages and marks on a hit, but it also has the collector’s
+&lt;strong&gt;Poison Strike&lt;/strong&gt; trait.&lt;/p&gt;
+
+&lt;p&gt;Myrmidons can’t poison enemies themselves, so they rely on the support of other
+allies who can. They’re good to pad the ranks of an all-poisonscale force,
+though you’re probably better off using lizardfolk from the other books if you
+have a mixed force or want more interesting mechanics.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The poison theming here is interesting, and several of these stat blocks don’t
+get repeated in the Vault, so it’s worth it to update them. As long as you avoid
+the extra-xenophobic lore in the Vault, its stat blocks are good.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/10/29/lizardfolk.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/29/lizardfolk.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Thoughts on LANCER Against the Giants</title>
@@ -1171,228 +1473,6 @@ make an excellent honor guard.&lt;/p&gt;
         <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/10/04/half-orc.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/04/half-orc.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Half-Elf</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-half-elf.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Half-elves have been a part of D&amp;amp;D since races were first separated from classes
-back in AD&amp;amp;D 1st Edition. I guess they might have been inspired by Elrond from
-Lord of the Rings, who was said to be a half-elf. They appeared as a playable
-option right in the first PHB, but they’re only getting their monster/NPC
-entries here.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;I’m happy to report that Fourth Edition half-elves no longer follow the tired
-and somewhat problematic “outsiders to both parent cultures” narrative from
-previous editions! In fact, everyone likes them!&lt;/p&gt;
-
-&lt;p&gt;You see, half-elves aren’t just an “average” of their two parents. Yes, they’re
-sturdier than elves and pointier than humans, but they also have a lot of traits
-that are uniquely their own. Chief among those is a noticeable facility with
-social interaction and cultural adaptability.&lt;/p&gt;
-
-&lt;p&gt;Half-elves whose parents are a human and an elf can spend their early years in
-either of the two cultures, depending on their specific family
-circumstances. Their names and mannerisms tend to be taken from that
-culture. You can also have all-half-elf cultures and communities whose
-human and elven ancestors are several generations behind them. In all cases it’s
-very common for individuals to journey abroad for a while out of a sense of
-curiosity and wanderlust, and they tend to fit in well in any place where they
-linger for a while.&lt;/p&gt;
-
-&lt;p&gt;Of course, “Nice” doesn’t necessarily mean “Good”, and you can also find
-villainous half-elves who become bandit leaders or fall in with dark
-forces. They’re technically better-suited to be infernal warlocks than
-&lt;em&gt;tieflings&lt;/em&gt;, given their stat adjustments.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three stat blocks here, more suitable for use as opposition than as
-allies, though they could also fill that role in a more morally ambiguous
-adventure.&lt;/p&gt;
-
-&lt;p&gt;Half-elves are Medium Natural humanoids, with a native speed of 6 and low-light
-vision. Everything else about their stat blocks comes from training.&lt;/p&gt;
-
-&lt;h3 id=&quot;half-elf-bandit-captain&quot;&gt;Half-Elf Bandit Captain&lt;/h3&gt;
-
-&lt;p&gt;This could be a murderous marauder or a Robin Hood figure. They’re a level 6
-Skirmisher with the Leader keyword and 69 HP. They wear light armor, wield a
-sword, and carry a bunch of throwing daggers.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;sword&lt;/strong&gt; is a basic melee attack that allows the captain to shift 1 square
-on a hit. Their basic ranged attack is a thrown &lt;strong&gt;dagger&lt;/strong&gt;. A maneuver named
-&lt;strong&gt;Slash and Dash&lt;/strong&gt; (recharge 4+) allows them to make a sword attack, shift 2
-squares and throw a dagger. Their leaderly move is named &lt;strong&gt;Triggering Slash&lt;/strong&gt;
-(recharge 5+), a sword attack that on a hit allows an ally to shift 1 square and
-make a melee basic attack of their own.&lt;/p&gt;
-
-&lt;h3 id=&quot;half-elf-con-artist&quot;&gt;Half-Elf Con Artist&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 7 Controller with 77 HP. Whether they’re a lovable rogue or a
-dastardly deceiver depends on which side of the con you’re on. The con artist
-goes unarmored and clad in fine clothes, with a dagger hidden somewhere for
-protection. They’re trained in all the skills you’d expect them to have:
-Stealth, Bluff, Thievery, and Insight.&lt;/p&gt;
-
-&lt;p&gt;That &lt;strong&gt;dagger&lt;/strong&gt; isn’t anything special, but it deals extra sneak attack damage
-if the con artist has combat advantage against the target. Their real weapon is
-&lt;em&gt;manipulation&lt;/em&gt;, though. This is implemented as a trio of charm powers that
-target Will. It’s up to you whether they’re actual magic or just the con artist
-being very sly and convincing.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Deceptive Maneuver&lt;/strong&gt; is an at-will melee power that causes the target to make
-a melee basic attack against an ally of the half-elf’s choice. The classic
-“getting between two enemies to make them hit each other”.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Silver Deception&lt;/strong&gt; (ranged 10; recharge 5+) does no damage, but dominates the
-target until the end of the con artist’s next turn.&lt;/p&gt;
-
-&lt;p&gt;And &lt;strong&gt;Pathetic Appeal&lt;/strong&gt; is an encounter power that targets every enemy in a
-close burst 5 and, on a hit, prevents them from attacking the con artist until
-they pass a save. If the con artist makes an attack roll against an affected
-target, they get an immediate extra save against this effect. “I’ve seen the
-error of my ways, honest!”&lt;/p&gt;
-
-&lt;p&gt;To close things out, &lt;strong&gt;Grifter’s Flight&lt;/strong&gt; is another encounter power that allows
-the con artist to shift 6 squares and make an unpenalized Stealth check at the
-end&lt;/p&gt;
-
-&lt;h3 id=&quot;half-elf-baleful-thaumaturge&quot;&gt;Half-Elf Baleful Thaumaturge&lt;/h3&gt;
-
-&lt;p&gt;An epic-level evil wizard for all of your epic-level evil wizard needs. The stat
-block itself is Unaligned, so you could also use it to represent a wizard that’s
-merely edgy. No reason it has to be a half-elf either, the stats could apply to
-any Medium sapient. Their magic has a “blood and teeth” theme, which gives you a
-hint as to what kind of entity they learned it from.&lt;/p&gt;
-
-&lt;p&gt;The thaumaturge is Level 24 Artillery with 169 HP. They go unarmored, and wield
-a wand as an implement. Their basic melee attack is an &lt;strong&gt;Infernal Slam&lt;/strong&gt; that
-targets Will. A hit damages the target, pushes it 3 squares, and allows the
-thaumaturge to teleport 3 squares. Their basic ranged attack is a &lt;strong&gt;Soul Bite&lt;/strong&gt;
-spell (ranged 10 vs. Reflex) that does physical damage and gives the thaumaturge
-10 temporary HP on a hit.&lt;/p&gt;
-
-&lt;p&gt;The “bitey” theme continues with their two special attacks. &lt;strong&gt;Wall of Shadow
-Teeth&lt;/strong&gt; (recharge 5+) creates wall 2 squares high and 8 squares long within 10
-squares of the caster. This wall bites, attacking anyone adjacent to it. A hit
-deals necrotic damage and immobilizes the target (save ends). It lasts for a
-turn but can be sustained with minor actions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mouths of Hell&lt;/strong&gt; (close blast 5 vs. Will; encounter) deals heavy psychic
-damage and also gives the thaumaturge 10 temporary HP. This creates a zone of
-ghostly maws that lasts until the end of the encounter, deals 15 psychic damage
-to anyone caught inside, and gives the caster 5 temporary HP when it damages
-someone in this way.&lt;/p&gt;
-
-&lt;p&gt;The thaumaturge can also spend 5 temporary HP if it has them to teleport 8
-squares as a minor action, with a spell called &lt;strong&gt;Bloody Step&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;There isn’t much of a theme to the half-elves in this entry, but I guess that’s
-the point. They’re as varied as humanity. Each individual entry has their own
-thing going.&lt;/p&gt;
-
-&lt;p&gt;The two sample encounters we get are a Level 7 one with a bandit captain leading
-a gang of humans and halflings, and a Level 25 one with an epic lich and its
-entourage of 2 thaumaturges and 2 slaughterstone hammerers.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/10/02/half-elf.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/02/half-elf.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Gray Render</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-gray-render.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Here we see something of a rarity in this series: a monster whose 4e incarnation
-I find &lt;em&gt;strictly worse&lt;/em&gt; than its previous ones.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Gray Renders first appeared in 3e, where they were these big, clawed,
-carnivorous brutes with an oddly endearing trait: they would sometimes imprint
-on another creature and basically dedicate their lives to protect it and take
-care of it. This creature could be a sapient, or even a PC if the GM was feeling
-cute.&lt;/p&gt;
-
-&lt;p&gt;Fourth Edition gray renders lose the imprinting, and replace it with a constant
-urge to destroy and feed. Some sages theorize they’re somehow tied to the
-metaphysical concept of entropy despite being natural beasts, since they seem
-particularly fond of targetting sapient settlements.&lt;/p&gt;
-
-&lt;p&gt;I don’t like this change because, as you might have surmised by now, I’m not
-fond of always-hostile, attacks-on-sight-and-fights-to-the-death monsters. I
-literally never saw anyone mention grey renders online without also mentioning
-and praising the imprinting. Remove that and you’re left with something that’s
-virtually indistinguishable from, say, a goristro demon.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Gray Renders are Large Natural Humanoids with a Chaotic Evil alignment and
-Int 2. They’re Level 19 Elite Brutes with 452 HP and blindsight, who fight using
-claws, bites, and sheer brutality. In other words, almost like slightly smaller,
-slightly dumber goristros with blindsight. They have Speed 8.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a Reach 2 &lt;strong&gt;Claw&lt;/strong&gt; that also grabs on a hit. They can make
-two claw attacks per action, and if both hit the same target they also inflict
-ongoing damage on account of the rending. They can use a grabbed victim as a
-club, inflicting more damage than the claw, pushing the target of the attack 4
-squares from the impact, and dealing half the rolled damage to the “weapon”. Or
-they can bite the grabbed victim for massive damage, with a Daze rider.&lt;/p&gt;
-
-&lt;p&gt;While bloodied, their claw attack also knocks a target prone on a hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Gray renders are said to be too destructive to cooperate with anyone, but some
-predators and scavengers have taken to following them from safe distance to
-exploit their rampages. So we get these encounter groups:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 18: 1 gray render, 1 bodak skulk, 2 guulvorgs. Opportunistic followers
-can be sapient too.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 20: 1 dire bullette, 1 gray render, 3 nabassu gargoyles. The gargoyles
-are watching the kaiju battle and waiting to feast on the loser’s remains.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The stat block is cool, but the lore is “meh” at best. Reskin this into a demon
-and/or add the imprinting back to make it more interesting.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/10/01/gray-render.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/01/gray-render.html</guid>
         
         <category>dnd4</category>
         
