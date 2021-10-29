@@ -13,8 +13,9 @@ for a single type of devil.
 
 Corruption Devils, or Paeliryons, first appeared in one of the later Monster
 Manuals for 3rd Edition. I remember they were not very well-received because
-their lore and appearance had some quite unfortunate implications. Let's see if
-that improved in any way.
+their lore and appearance had some quite unfortunate implications. This book is
+still making an effort to make them a big part of the game, so let's see if the
+lore improved in any way.
 
 ## The Lore
 
