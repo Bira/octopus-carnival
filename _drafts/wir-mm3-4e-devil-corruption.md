@@ -40,6 +40,15 @@ cosplay with a big suit and an orange wig.
 
 ### Corruption Devil
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm32-4e-devil-corruption.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The basic model, depicted in the illustration. These are most likely to be found
 running the city of Dis, but can also go out into the other planes to perform
 specific missions. Though physically imposing, the creatures prefer to avoid
@@ -128,6 +137,33 @@ These things are nasty, and unlike basic corruption devils they want to get
 right into the fray while surrounded by their corrupted servants.
 
 ### Corrupted Followers
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-glutton.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-lunatic.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-monger.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These are mortals who were prey to some vice in life, and who were offered a
 very specific kind of infernal contract in their moment of greatest despair or
