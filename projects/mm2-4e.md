@@ -109,6 +109,11 @@ variants here. Here they are, from A to Z:
   - [Lizardfolk][64]
   - [Lycanthrope][65]
 
+- M
+  - [Mammoth][66]
+  - [Marut][67]
+  - [Myconid][68]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -176,3 +181,6 @@ variants here. Here they are, from A to Z:
 [63]: {{ "/2021/10/24/krenshar.html" | relative_url }}
 [64]: {{ "/2021/10/29/lizardfolk.html" | relative_url }}
 [65]: {{ "/2021/10/29/lycanthrope.html" | relative_url }}
+[66]: {{ "/2021/11/11/mammoth.html" | relative_url }}
+[67]: {{ "/2021/11/11/marut.html" | relative_url }}
+[68]: {{ "/2021/11/11/myconid.html" | relative_url }}
