@@ -11,16 +11,16 @@ vibes.
 
 ## The Lore
 
-Do you want to employ seductive and manipulative minions in your villainous
+Do you want to employ seductive and manipulative devils in your villainous
 schemes, but feel that succubi are too nice? Fierna, archdevil ruler of
 Phlegethos, sure did! In order to fulfill her very specific needs, she created
 Passion Devils.
 
 The reason these creatures give me a strong 3e-or-earlier vibe is that they feel
 like the sort of grid-filling exercise that was very common in those
-games. Succubi were considered demons in those editions, so when they needed to
-fill the "seductive manipulator" niche on the devil side they created a
-completely new creature.
+games. Succubi were considered demons back then, so when they needed to fill the
+"seductive manipulator" niche on the devil side they created a completely new
+creature.
 
 In 4e, passion devils are kinda like a specialized succubus variant tied to
 Fierna. As incarnations of her vanity, they're made in her image but always have
