@@ -6,9 +6,278 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Nov 2021 18:37:40 +0000</pubDate>
-    <lastBuildDate>Thu, 11 Nov 2021 18:37:40 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Nov 2021 10:49:00 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Nov 2021 10:49:00 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Nothic</title>
+        <description>&lt;p&gt;Nothics first appeared in the Miniatures Handbook for 3e, and make their 4e
+debut in the MM2.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Nothics are aberrant creatures that first arrived in the world aboard drifting
+fragments of the Far Realm. Their minds are even more alien than those of slaads
+to us poor mortals. Their huge eyes are capable of inflicting a variety of
+afflictions, and they tend to be found in the service of other powerful
+creatures. Nothics constantly cackle and cavort about, which their masters often
+find amusing, but they also fight at their command, doing double duty as jesters
+and bodyguards.&lt;/p&gt;
+
+&lt;p&gt;Their masters aren’t necessarily aberrant! Nothics are often found in the
+company of undead, for example. A few get adopted by cults of Vecna and receive
+numerous blessings from the lich god, becoming even more dangerous.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Nothics are Medium Aberrant Humanoids. Those dinner plate eyes give them
+Truesight out to 10 squares and Darkvision. They also act as the focus for a
+variety of gaze attacks and psychic powers, which vary per stat block. Nothics
+have a ground speed of 6.&lt;/p&gt;
+
+&lt;p&gt;The stat blocks in this entry range from the mid-Paragon to the early Epic
+tiers. I believe the Neverwinter Campaign Setting, published much later, would
+include a heroic-tier nothic as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;nothic-cackler&quot;&gt;Nothic Cackler&lt;/h3&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-nothic-cackler.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Cacklers are some of the most “jester-like” in behavior. They caper about even
+during a battle, seemingly oblivious to the opposition even as they
+fight. They’re level 15 Artillery with 116 HP.&lt;/p&gt;
+
+&lt;p&gt;Their basic melee attack is an anemic &lt;strong&gt;claw&lt;/strong&gt; - it’s all about the mind
+powers with them. They can choose between two at-will ranged attacks.&lt;/p&gt;
+
+&lt;p&gt;The first, &lt;strong&gt;Mind Rot&lt;/strong&gt; targets Will and does psychic damage. On a hit, it also
+slides the target 6 squares and forces them to make a melee basic attack against
+someone else (nothic’s choice). The other, &lt;strong&gt;Rotting Gaze&lt;/strong&gt;, targets Fortitude,
+does necrotic damage, and inflicts a -2 penalty to all defenses (save ends).&lt;/p&gt;
+
+&lt;p&gt;Tactics are clear: rot the body, rot the mind, laugh, repeat.&lt;/p&gt;
+
+&lt;p&gt;If surrounded, the cackler can use a &lt;strong&gt;Maddening Cackle&lt;/strong&gt; (close burst 3
+vs. Will; enemies only; recharge 5+). This deals psychic damage, pushes 2
+squares, and slides the hit targets 2 additional squares at the start of their
+next turns.&lt;/p&gt;
+
+&lt;h3 id=&quot;nothic-mindblight&quot;&gt;Nothic Mindblight&lt;/h3&gt;
+
+&lt;p&gt;Behavior-wise, mindblights are the complete opposite of cacklers, appearing
+sleepy and morose even while staring you to death. They’re level 19 Controllers
+with 180 HP. They project an &lt;strong&gt;Eye Lure&lt;/strong&gt; aura (3) that slides enemies inside 2
+squares at the start of the enemies’ turns. Their &lt;strong&gt;claws&lt;/strong&gt; are a little
+stronger and also deal ongoing necrotic damage (save ends), but the eye powers
+are still the main event.&lt;/p&gt;
+
+&lt;p&gt;A mindblight will likely open up with &lt;strong&gt;Mesmerizing Visage&lt;/strong&gt; (recharge 5+), a
+fireball-sized area attack that targets Will, does psychic damage, and inflicts
+a -1 penalty to saves (save ends). The penalty worsens to -3 after the first
+failed save.&lt;/p&gt;
+
+&lt;p&gt;Then it will move on to its at-will powers, which deal no damage but have “save
+ends” riders that capitalize on the Visage’s effect. &lt;strong&gt;Eye of Insanity&lt;/strong&gt; is a
+Ranged 5 attack that targets will and dominates with an after-effect that dazes
+the target for an additionall turn after they make their save. &lt;strong&gt;Necrotic Eye&lt;/strong&gt;
+is a Close Blast 5 that targets Fortitude and inflicts 10 ongoing necrotic
+damage (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;nothic-eye-of-vecna&quot;&gt;Nothic Eye of Vecna&lt;/h3&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-nothic-eye-of-vecna.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For some reason, Vecna likes this nothic sub-species and heaps blessings upon
+them. They often hang around his cults. They’re Level 22 Lurkers with 162 HP,
+and project a &lt;strong&gt;Soul Decay&lt;/strong&gt; aura (3) that allows allied undead inside to make
+free melee basic attacks at the start of the nothic’s turn. So yeah, the best
+place for this lurker to lurk is amid a crowd of undead melee bruisers.&lt;/p&gt;
+
+&lt;p&gt;The Eye of Vecna is going to constantly emit pulses of &lt;strong&gt;Eye Rot&lt;/strong&gt; (minor
+action), which targets the fortitude of every enemy within 10 squares and makes
+the nothic invisible to them on a hit (save ends). This recharges when the
+monster isn’t invisible to anyone.&lt;/p&gt;
+
+&lt;p&gt;After it does that, it skitters among the enemies who can’t see it using
+&lt;strong&gt;Mobile Melee Attack&lt;/strong&gt;, which allows it to move its speed and make a basic claw
+attack at any point during the move, drawing no opportunity attacks from the
+target. That &lt;strong&gt;Claw&lt;/strong&gt; is pretty nasty on its own as well, dealing necrotic
+damage, immobilizing, and inflicting a -2 to all saving throws. &lt;strong&gt;Invisible
+Advantage&lt;/strong&gt; gives it an additional effect against targets who can’t see the
+nothic, opening the target up to an opportunity attack from another adjacent
+monster.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think the basic visual design of the nothic is quite striking, but their
+mechanics don’t quite do it for me just from reading them. I guess they might
+feel differently in play.&lt;/p&gt;
+
+&lt;p&gt;Encounters with nothics are also likely to involve the powerful villains they
+serve. The book gives us three:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 14: A mind flayer infiltrator with an entourage of 2 nothic cacklers and
+2 war trolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 18: 2 aboleth lashers and their 2 pet mindblights in cahoots with a
+death hag.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 21: A dark naga with an honor guard of 3 bodak reavers and an Eye of
+Vecna pet.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Vault 2: Neogi</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-neogi.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I believe the Neogi first appeared as an element of 2e’s Spelljammer setting. In
+4e, they make their debut here in the MM2.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Neogi are bizarre-looking spider-centipede people who originally hail from the
+Far Realm. Their culture is a particularly cruel and pitiless variety of
+imperialist capitalism. Ownership is all - the strong rule and own the
+weak. They organize themselves in clans with slavery-based internal
+hierarchies. A given neogi literally owns their immediate underlings and is in
+turn a slave to its immediate superior. This goes up all the way to the Great
+Old Master of the clan, who is no one’s slave. Neogi are a single-gendered
+species without any concept of family. All of the clan’s eggs are carried and
+gestated by the Great Old Master.&lt;/p&gt;
+
+&lt;p&gt;Neogi are renowned both as traders and slavers, following the same school of
+commerce made famous during Earth’s Age of “Discovery”. If the other party is
+weaker than you, rob and enslave them. If they’re equivalent or stronger,
+negotiate and trade. They just love trading with similarly unsavory people like
+devils, duergar, and drow. The only ones they avoid are the mind flayers, since
+the entire neogi people was once enslaved by entities similar to flayers back in
+the Far Realm.&lt;/p&gt;
+
+&lt;p&gt;For some reason, the MM2 doesn’t mention any of their nautical proclivities. I
+guess this part of the Astral Sea wasn’t quite as fixed in the authors’ minds
+back them. But since later descriptions would reveal you can pretty much
+transplant all of Spelljammer directly into the Astral Sea, you can bet you have
+Neogi trade/slave/warships roaming that plane.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Neogi are Aberrant Magical Beasts. Most are Medium, but Masters are Large. Their
+levels cover the first half of Paragon Tier, making them appropriate encounters
+for the Underdark or Astral Sea. Like all monsters, their level can be adjusted
+if you want to feature them earlier or later. They usually have climb speeds and
+darkvision, and a degree of telepathy. They also speak Common and Deep
+Speech.&lt;/p&gt;
+
+&lt;p&gt;All Neogi are immune to the Dazed condition. Their attacks are usually some sort
+of psychic power, though the exact effects vary per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;neogi-slaver&quot;&gt;Neogi Slaver&lt;/h3&gt;
+
+&lt;p&gt;A relatively “typical” individual, likely found as crew in an astral vessel or
+as troops in raiding party. In either case, they’re likely to be accompanied by
+plenty of non-neogi slaves. These are some of the few monsters in the book who
+would make use of the “non-lethal takedown” rule, where you can decide someone
+you took to 0 HP is not dead, just unconscious. After all, dead slaves are worth
+nothing.&lt;/p&gt;
+
+&lt;p&gt;Slavers are Level 10 Controllers with the Leader keyword and 106 HP. They have a
+ground speed of 8 and a climb speed of 6 with Spider Climb. Their basic melee
+attack is a weak &lt;strong&gt;bite&lt;/strong&gt; with an ongoing poison damage rider. The first failed
+save against this poison also slows the victim (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Their main ranged attack is a &lt;strong&gt;Charm Bolt&lt;/strong&gt; that targets Will. Instead of
+dealing damage, it inflicts a -2 penalty on any attacks that don’t include the
+slaver as a target (save ends). After the first failed save, the slaver
+also becomes invisible to the target of the bolt!&lt;/p&gt;
+
+&lt;p&gt;Their other attack is &lt;strong&gt;Psychic Shackle&lt;/strong&gt; (Recharge 5+), a Close Blast 3 that
+targets Will, deals psychic damage, and dazes those it hits for a turn.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, they can also use &lt;strong&gt;Thrall Goad&lt;/strong&gt; as a minor action. This
+allows all allies within 6 squares of the slaver to make a saving thrown with a
++5 bonus.&lt;/p&gt;
+
+&lt;h3 id=&quot;neogi-spawn-swarm&quot;&gt;Neogi Spawn Swarm&lt;/h3&gt;
+
+&lt;p&gt;Neogi larvae are tiny and sub-sapient. Their only desire is to eat all nearby
+available meat, living or not. They can be dangerous in large numbers, which is
+what this stat block represents.&lt;/p&gt;
+
+&lt;p&gt;The Swarm counts as a Medium Level 10 Brute with 131 HP. They have the standard
+swarm resistance to melee and ranged attacks, and a vulnerability to close and
+area attacks. Their ground and climb speeds are both 6.&lt;/p&gt;
+
+&lt;p&gt;Their Swarm Attack aura (1) deals automatic poison damage, and their &lt;strong&gt;bites&lt;/strong&gt;
+are similar to that of the neogi slaver but deal more damage. When first
+bloodied or when slain, the swarm lets out a collective &lt;strong&gt;psychic scream&lt;/strong&gt; that
+attacls a close burst 1 and deals psychic damage with a Daze rider.&lt;/p&gt;
+
+&lt;h3 id=&quot;neogi-great-old-master&quot;&gt;Neogi Great Old Master&lt;/h3&gt;
+
+&lt;p&gt;These Large individuals rule over entire clans, and carry all of the clan’s eggs
+and larval broods in their immense abdomens. They’re Level 16 Controllers with
+157 HP, a ground speed of 6, and a climb speed of 4.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a Reach 3 &lt;strong&gt;Scythe Claw&lt;/strong&gt; that damages targets and knocks
+them prone. Their main ranged attack is an &lt;strong&gt;Enslaving Bolt&lt;/strong&gt; that targets Will,
+deals psychic damage and inflicts one of those progressively worsening
+conditions. The immediate effect is that the target gets a -2 penalty to any
+attacks that target the Master; after the first failed save, that worsens to a
+Dominate effect; and after the second the domination lasts until the target’s
+next extended rest. Yes, this does mean that an unlucky PC could find themselves
+trying to avenge the Master even after it’s been killed by the party.&lt;/p&gt;
+
+&lt;p&gt;When the Master is first bloodied, its abdomen ruptures and releases a Larva
+Burst. This works as a Close Burst 2 against Reflex that deals physical damage
+and creates a zone of difficult terrain that lasts until the end of the
+encounter. This could also be a good opportunity to introduce a Spawn Swarm to
+the fight if the GM is feeling sadistic.&lt;/p&gt;
+
+&lt;p&gt;Finally, they can use a version of the Slaver’s Psychic Shackle that deals more
+damage and has a wider area.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/11/19/neogi.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/19/neogi.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Myconids</title>
@@ -809,344 +1078,6 @@ a trio of blood slayers (level 6).&lt;/p&gt;
         <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/10/24/krenshar.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/24/krenshar.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Vault 2: Kenku</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-kenku.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Kenku are raven-people, humanoid and human-sized but covered in feathers and
-with raven heads. They organize themselves into clan-like groups called
-flocks. Your typical kenku flock is tightly knit but very distrustful of
-outsiders, including kenku from other flocks. Each flock follows no laws but
-their own. Despite this, most of them live on or near major cities, and engage
-in a variety of illegal activities to survive.&lt;/p&gt;
-
-&lt;p&gt;So yeah. Crime birbs.&lt;/p&gt;
-
-&lt;p&gt;Kenku criminals tend to prefer non-violent activities such as grifts and cons,
-where their natural ability to mimic sounds and voices comes in handy. They can
-still fight pretty well if forced to. And despite the stereotyping they’re
-typically Unaligned, which means it’s definitely possible to find nicer
-individuals and flocks out there. Rural kenku can easily fill the same
-“isolationist but ultimately nice” role as cliche elven villages, and an urban
-flock could be predominantly performers or even a legitimate company for a nice
-change of pace.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Kenku are Medium Natural Humanoids. They have low-light vision, a ground speed
-of 6, and no innate flight speed despite being birds. They possess two
-interesting signature abilities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Flock Effect&lt;/strong&gt; makes them good at teamwork: they gain a +3 attack bonus when
-flanking and grant a +3 when using Aid Another, instead of the usual +2 to both
-activities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mimicry&lt;/strong&gt; allows them to mimic any sound or voice. You have to win an opposed
-roll of your Insight vs. their Bluff to realize the sound is fake. Not all kenku
-in this entry are trained in Bluff, but the sneakier ones are.&lt;/p&gt;
-
-&lt;p&gt;Their levels are all in the early-to-mid Heroic tier, which in my mind means
-they’d be about as common as elves or halflings. They get playable stats at the
-end of this book, but I’m not sure if they ever got a full writeup later on.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-ruffian&quot;&gt;Kenku Ruffian&lt;/h3&gt;
-
-&lt;p&gt;Your typical crime-birb-on-the-street is a Level 3 Minion Skirmisher. They only
-have a basic &lt;strong&gt;club&lt;/strong&gt; attack and the universal signature abilities, so they’re
-pretty much civilians despite the name “Ruffian”. If forced to fight they rely
-on numbers to hold the line while one or two of them go get help.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-warrior&quot;&gt;Kenku Warrior&lt;/h3&gt;
-
-&lt;p&gt;Formally trained in a mobile fighting style, the warrior uses paired daggers and
-moves in a seemingly random pattern about the battlefield. Warriors are Level 3
-Skirmishers with 44 HP.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;daggers&lt;/strong&gt; can be used as melee or ranged attacks (they carry 6). The
-&lt;strong&gt;Fluttering Attack&lt;/strong&gt; maneuver allows them to shift 4 squares and make a dagger
-attack during the movement, and &lt;strong&gt;Combat Advantage&lt;/strong&gt; gives them a damage
-bonus. They also have the universal traits, so combat advantage is even better
-for them and they have an easy time acquiring it.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-ringleader&quot;&gt;Kenku Ringleader&lt;/h3&gt;
-
-&lt;p&gt;Ringleaders lead small gangs of kenku in heists or raids, though they have
-enough sense to sound a retreat if guards or rivals show up in force. They’re
-Level 4 Soldiers with the Leader tag and 54 HP. They’re trained in Bluff and
-and Intimidate.&lt;/p&gt;
-
-&lt;p&gt;They use a &lt;strong&gt;spiked chain&lt;/strong&gt; in melee and a &lt;strong&gt;sling&lt;/strong&gt; at range. The chain attack
-is Reach 2 and marks on a hit. They &lt;strong&gt;Press the Attack&lt;/strong&gt; maneuver is a chain
-strike that targets a marked enemy, does the usual damage, and knocks them prone
-on a hit.&lt;/p&gt;
-
-&lt;p&gt;They have the two standard kenku traits, and they can use &lt;strong&gt;Flock Reaction&lt;/strong&gt;
-(minor; recharge 4+) to allow every ally in a close burst 3 to shift 1
-square. Perfect for allowing them to disengage and retreat, or finish setting up
-a flanking maneuver.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-sneak&quot;&gt;Kenku Sneak&lt;/h3&gt;
-
-&lt;p&gt;The first actual rogue in the crime birb entry, Sneaks are Level 4 Lurkers with
-42 HP. They have a higher than usual speed of 7, and they fight with &lt;strong&gt;daggers&lt;/strong&gt;
-both in melee and at range. They’re trained in Bluff, Stealth, and Thievery.&lt;/p&gt;
-
-&lt;p&gt;As the name implies, the Sneak engages with 4e’s Stealth rules, which dictate
-when someone can make a Stealth check to become “hidden” during combat and how
-fast they can move while hidden. I think that by default your speed is limited
-to 2 in that case - move faster and you’re detected.&lt;/p&gt;
-
-&lt;p&gt;Kenku sneaks have an advantage here in that they can move at speed 4 while
-hidden. Their &lt;strong&gt;Disappear into the Flock&lt;/strong&gt; trait allows them to make those
-Stealth checks while they have cover from other kenkus, &lt;strong&gt;Hidden Strike&lt;/strong&gt; gives
-them a hefty chunk of extra damage if they attack from hiding, and &lt;strong&gt;Sniper&lt;/strong&gt;
-allows them to remain hidden if they miss with a ranged attack.&lt;/p&gt;
-
-&lt;p&gt;The tactics outlined by these traits are nifty. A sneak will always appear
-accompanied by a number of warriors or a huge band of ruffians. They’ll hide
-among the crowd and move it with, throwing daggers at the squishier PCs for big
-damage from a safe distance.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-wing-mage&quot;&gt;Kenku Wing Mage&lt;/h3&gt;
-
-&lt;p&gt;Though kenku are flightless, it seems they have a magic tradition that seeks to
-correct that injustice. Wing mages practice this tradition, and as a result they
-know a lot of air and force magic as well. They’re Level 5 Artillery with 50
-HP. Wielding &lt;strong&gt;daggers&lt;/strong&gt; as weapons and implements, wing mages fight with spells
-that create wind and summon flocks of crows made of pure force.&lt;/p&gt;
-
-&lt;p&gt;Those force crows can be used in the &lt;strong&gt;Murder of Crows&lt;/strong&gt; at-will attack (Ranged
-20 vs. Reflex) which does force damage and makes the target grant combat
-advantage to the wing mage (save ends). They can also be used in the &lt;strong&gt;Death
-Flock&lt;/strong&gt; encounter power (area burst 1 within 20 vs. Reflex) which does force
-damage and dazes (save ends).&lt;/p&gt;
-
-&lt;p&gt;Their main keep-away spell is &lt;strong&gt;Hurricane Blast&lt;/strong&gt; (close burst 3 vs. Fortitude;
-recharge 5+), which does force damage and slides targets 3 squares. And finally,
-&lt;strong&gt;Wings of the Flock&lt;/strong&gt; (minor; encounter) gives them a flight speed of 6 until
-the end of the encounter.&lt;/p&gt;
-
-&lt;p&gt;The wing mage is going to take off as soon as the fight starts, and will rain
-force crows upon the PCs from a safe elevation. Most ranged magic has a range
-smaller than 20, so the party better have some archers with them.&lt;/p&gt;
-
-&lt;h3 id=&quot;kenku-assassin&quot;&gt;Kenku Assassin&lt;/h3&gt;
-
-&lt;p&gt;Either an actual killer-for-hire or an elite combatant. Assassins love poison
-and unlike most other kenku they rarely surrender. They’re Level 5 Elite
-Skirmishers with 126 HP. They fight with envenomed &lt;strong&gt;daggers&lt;/strong&gt; and a
-&lt;strong&gt;shortbow&lt;/strong&gt; with envenomed arrows, both of which slow the enemy on a hit (save
-ends).&lt;/p&gt;
-
-&lt;p&gt;They have the same Fluttering Attack as the warriors, and when attacked they can
-use &lt;strong&gt;Gouging Talons&lt;/strong&gt; as a reaction to hit back. If surrounded, &lt;strong&gt;Feather
-Burst&lt;/strong&gt; (close burst 2; encounter) can automatically blind every enemy in the
-area for a turn, allowing them to escape.&lt;/p&gt;
-
-&lt;p&gt;Assassins prefer to stay at range, but once in melee they fight much like
-warriors. Their “elite extra attack” is a reaction, so they have an incentive to
-stay in the thick of it. Two of them, or one of them plus a squad of warriors,
-makes for an interesting encounter where no one stands still. They also go well
-with monsters that can exploit the “slowed” status, since they cause that at
-will.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We have quite a few kenku encounters here, showcasing the sort of monster they
-keep as pets and the sort of allies they make into honorary flock members.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 2: 2 kenku warriors, 2 bloodseeker drakes, 1 pseudodragon. Hunters… or
-bounty hunters.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 3: 1 kenku ringleader, 8 ruffians, and 2 warriors. The whole gang’s
-here!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 4: 1 human berserker, 1 ringleader, 6 ruffians, 2 sneaks. Another gang,
-this one with an adopted member.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 5: 1 half-elf bandit captain, 2 human berserkers, 1 kenku assassin, 1
-kenku wing mage. And this one works the other way around.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I like these kenku, though as usual I’d make their description as dastardly
-criminals less universal than the book seems to imply. A setting where they’re
-as common as the more traditional haflings and elves would be a cool place.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/10/24/kenku.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/24/kenku.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Hydra</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-hydra.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Hydras made their 4e debut in the first Monster Manual, and here we get a few
-more of them. Their basic lore remains the same and you can check it out on the
-&lt;a href=&quot;/octopus-carnival/2020/06/06/hydra.html&quot;&gt;original post&lt;/a&gt; I made on the subject.&lt;/p&gt;
-
-&lt;p&gt;The hydras on this entry have several passive traits in common: &lt;strong&gt;Threatening
-Reach&lt;/strong&gt; allows them to make opportunity attacks out to their full melee reach,
-instead of only against adjacent enemies. &lt;strong&gt;Many-Headed&lt;/strong&gt; makes it resistant to
-being dazed on stunning. These conditions only disable one of its heads for a
-turn. And &lt;strong&gt;Regenerating Heads&lt;/strong&gt; causes the hydra to lose a head at 75%, 50%,
-and 25%, regrowing two others at the start of its next turn.&lt;/p&gt;
-
-&lt;p&gt;The number of heads an hyda has is important because of &lt;strong&gt;Hydra Fury&lt;/strong&gt;, an
-at-will power that allows them to make a bite attack for each active head they
-have. The effect of an individual bite, and the starting number of heads, vary
-per hydra.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, MM2 hydras are kind halfway between the ones we saw on the first
-Monster Manual, and the ones from the Monster Vault. Most of their mechanics
-still work like in the MM1, but Regenerating Heads debuts here and reappears in
-a slightly weaker form in the Monster Vault. With the MV version you can prevent
-head regrowth by dealing fire or acid damage to the hydra before the start of
-its next turn, but nothing can stop it in this version.&lt;/p&gt;
-
-&lt;p&gt;These hydras are also lacking the Darkvision and Swim Speed of their relatives
-from the other two books, though they still have trained Perception and
-&lt;strong&gt;All-Around Vision&lt;/strong&gt; that prevents them from being flanked.&lt;/p&gt;
-
-&lt;h2 id=&quot;razor-hydra&quot;&gt;Razor Hydra&lt;/h2&gt;
-
-&lt;p&gt;This species of hydra is covered in gleaming metal scales and has extra-sharp
-serrated teeth. It’s drawn to the scent of blood in much the same way a shark
-is, and one head bites a victim the others get into a frenzy. Because of this,
-it’s also known as the Blood Hydra. They are Large Natural Beasts, and Level 16
-Solo Brutes with 640 HP and a ground speed of 7. They start with four heads,
-gaining extras at 480, 320, and 160.&lt;/p&gt;
-
-&lt;p&gt;A razor hydra’s &lt;strong&gt;bite&lt;/strong&gt; has Reach 2 and inflicts &lt;em&gt;stackable&lt;/em&gt; ongoing physical
-damage. A healthy target would take ongoing 5 damage (save ends), but if the
-target was already taking ongoing physical&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; damage, then that damage would
-increase by 5 instead.&lt;/p&gt;
-
-&lt;p&gt;A poor sod on the receiving end of a razor hydra’s Fury attack would have
-ongoing &lt;em&gt;20&lt;/em&gt; damage (save ends) to deal with, assuming all four bites hit. A
-single save will clear it all, but if that save fails and the hydra bites again,
-the total will increase even further. There’s no cap!&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Blood Frenzy&lt;/strong&gt; trait makes it so the hydra gains a +2 bonus to attack
-targets who are bloodied, or who are taking ongoing physical damage. That’s
-one more incentive for it to focus fire on a single PC.&lt;/p&gt;
-
-&lt;p&gt;Once the hydra drops to 0 HP, its &lt;strong&gt;Ferocity&lt;/strong&gt; allows it to make one last Hydra
-Fury attack. At this point it will have seven heads, for a potential 7d8+28
-damage plus 35 ongoing damage against a single PC.&lt;/p&gt;
-
-&lt;h2 id=&quot;heroslayer-hydra&quot;&gt;Heroslayer Hydra&lt;/h2&gt;
-
-&lt;p&gt;This interestingly-named hydra occupies the same narrative niche as the one
-Hercules faced in his labors. As a Huge Natural Beast and a Level 20 Solo Brute,
-it’s likely the most powerful hydra in the natural world, and is stronger than
-any PC who isn’t an actual demi-god or equivalent. There are stronger specimens,
-but you have to travel to the Elemental Chaos to find them.&lt;/p&gt;
-
-&lt;p&gt;Heroslayer hydras have 776 HP and five heads at the start of the fight, gaining
-new ones at 582, 388, and 194. Its &lt;strong&gt;bites&lt;/strong&gt; are Reach 3 and have no riders,
-though its &lt;strong&gt;Hydra Fury&lt;/strong&gt; deals 10 extra damage to any target hit by two or more
-bites. &lt;strong&gt;Rampage&lt;/strong&gt; allows it to bite every target in reach and inflict 10
-ongoing damage to every target it hits. It recharges whenever the hydra suffers
-a critical hit.&lt;/p&gt;
-
-&lt;p&gt;The titular &lt;strong&gt;Heroslayer&lt;/strong&gt; trait is a big “Fuck You” to defenders everywhere:
-while the hydra is marked, it gains a +2 bonus to attack and a +5 bonus to
-damage against the creature that marked it. Yes, this applies to every
-individual bite in a Fury combo.&lt;/p&gt;
-
-&lt;p&gt;So here we have a hydra with a decent incentive to spread its bites around until
-a defender marks it, when it will instead focus exclusively on the defender
-until they’re good and dead.&lt;/p&gt;
-
-&lt;h2 id=&quot;chaos-hydra&quot;&gt;Chaos Hydra&lt;/h2&gt;
-
-&lt;p&gt;This is one of those stronger species native to the Elemental Chaos. Chaos
-Hydras start out with only two heads, but their bites are very strong and
-infused with deadly elemental energies. The new heads it grows when wounded also
-gain new random elemental abilities.&lt;/p&gt;
-
-&lt;p&gt;The Chaos Hydra is a Huge Elemental Beast and a Level 22 Solo Brute with 848
-HP. It has two Reach 3 basic bite attacks, one for each head: &lt;strong&gt;Frostfire Bite&lt;/strong&gt;
-deals fire and cold damage, and &lt;strong&gt;Storm Bite&lt;/strong&gt; deals lightning and thunder
-damage.&lt;/p&gt;
-
-&lt;p&gt;Whenever the hydra grows a new head (at 636, 424, and 212 HP), it gains a new
-bite attack chosen by a d4 roll. It can gain multiple copies of the same
-attack. Its &lt;strong&gt;Hydra Fury&lt;/strong&gt; allows it to bite with the two original attacks and
-any new ones it might have gained.&lt;/p&gt;
-
-&lt;p&gt;The four additional bites deal less base damage but have “save ends”
-riders. They are: &lt;strong&gt;Crushing Maw&lt;/strong&gt;, which slows and deals ongoing 10 damage;
-&lt;strong&gt;Mind bite&lt;/strong&gt;, which dazes; &lt;strong&gt;Paralyzing Fang&lt;/strong&gt;, which immobilizes and inflicts
-a -2 penalty to all defenses; and &lt;strong&gt;Venom Tooth&lt;/strong&gt;, which inflicts ongoing 10
-poison damage.&lt;/p&gt;
-
-&lt;p&gt;Thematically this hydra is all over the place, but that’s the point. It’s hard
-for PCs to protect themselves from everything it can do.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Hydras are solitary, so you will usually only find one of them at a
-time. However, they’re also frequently followed by opportunistic scavengers who
-feed on the remains of their meals and who might be impatient enough to give
-them a bit of help with killing those meals. Examples given are carrion crawlers
-and shardstorm vortex elementals.&lt;/p&gt;
-
-&lt;p&gt;Occasionally, a powerful character might be able to capture a hydra for use as a
-guardian. The example encounter given is for this scenario, with a razor hydra
-and its minotaur cabalist master.&lt;/p&gt;
-
-&lt;p&gt;Hydras are cool, particularly those with the regenerating heads
-mechanic. However, I think they should be used sparingly to prevent the novelty
-from wearing off.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I say “physical”, but the strictly correct term would be
-“untyped”. Untyped damage is almost always dealt by physical attacks, but
-you could have magic powers that also did it. It’s written like “1d8+5
-damage” or “ongoing 5 damage” instead of “1d8+5 fire damage” or “ongoing 5
-fire damage”. Very few monsters resist it, but none are particularly
-vulnerable to it. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/10/17/hydra.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/10/17/hydra.html</guid>
         
         <category>dnd4</category>
         
