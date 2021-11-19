@@ -114,6 +114,10 @@ variants here. Here they are, from A to Z:
   - [Marut][67]
   - [Myconid][68]
 
+- N
+  - [Neogi][69]
+  - [Nothic][70]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -184,3 +188,5 @@ variants here. Here they are, from A to Z:
 [66]: {{ "/2021/11/11/mammoth.html" | relative_url }}
 [67]: {{ "/2021/11/11/marut.html" | relative_url }}
 [68]: {{ "/2021/11/11/myconid.html" | relative_url }}
+[69]: {{ "/2021/11/19/neogi.md" | relative_url }}
+[70]: {{ "/2021/11/19/nothic.md" | relative_url }}
