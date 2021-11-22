@@ -404,7 +404,7 @@ Appendix][188] in the Monster Manual.
 [133]: {{ "/2020/07/08/medusa.html" | relative_url }}
 [134]: {{ "/2020/07/13/mind-flayers.html" | relative_url }}
 [135]: {{ "/2020/07/23/minotaur.html" | relative_url }}
-[136]: {{ "2020/07/31/mummy.html" | relative_url }}
+[136]: {{ "/2020/07/31/mummy.html" | relative_url }}
 [137]: {{ "/2020/08/05/naga.html" | relative_url }}
 [138]: {{ "/2020/08/09/nightmare.html" | relative_url }}
 [139]: {{ "/2020/08/11/nightwalker.html" | relative_url }}
