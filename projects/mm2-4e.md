@@ -120,6 +120,7 @@ variants here. Here they are, from A to Z:
 
 - O
   - [Oni][71]
+  - [Ooze][72]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -194,3 +195,4 @@ variants here. Here they are, from A to Z:
 [69]: {{ "/2021/11/19/neogi.md" | relative_url }}
 [70]: {{ "/2021/11/19/nothic.md" | relative_url }}
 [71]: {{ "/2021/11/22/oni.md" | relative_url }}
+[72]: {{ "/2021/11/24/ooze.md" | relative_url }}
