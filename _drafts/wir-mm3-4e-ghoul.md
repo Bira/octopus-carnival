@@ -1,0 +1,134 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Ghoul"
+tags:
+    - dnd4
+    - lets-read
+---
+
+As classic monsters, Ghouls had their 4e debut on the first Monster Manual, and
+would end up making it into the Monster Vault as well. Here, the Monster Manual
+3 gives us a few specialized ghoul variants that can compliment the ones on the
+MV.
+
+## The Lore
+
+The basic lore for ghouls remains the same. You can check out a description of
+it on my post about [ghouls in the MM/MV][2].
+
+The MM3 emphasizes that ghouls are creatures of pure evil, since they used to be
+individuals who practiced cannibalism or did other equally horrible things in
+life. It adds that they are not only driven by a hunger for flesh, but are also
+drawn to places where evil is powerful.
+
+Ghouls will spontaneously show up at the home bases of evil cults, especially
+those who worship Orcus or one of his exarchs. These villains often secure the
+ghouls' services by paying in live captives.
+
+Ghouls will also seek out ruins and dungeons where great evil is entombed,
+sometimes digging for miles to reach these places if they happen to be deep
+underground. This attraction handily explains why the ghouls that live in these
+places prefer to hang out there rather than terrorizing the countryside.
+
+Some adventurers like to use these ghoul tunnels and warrens as a way to reach
+their dungeons or the Underdark, but this is a risky proposition as any ghouls
+living in the tunnels will have a terrain advantage against the interlopers.
+
+## The Monsters
+
+We get three different varieties of Ghoul here, none of which seem to be
+reprinted in the MV. They're all Medium Natural Humanoids with the Undead
+tag. They have Darkvision, Immunity to disease and poison, Resist 10 Necrotic,
+and Vulnerable 5 Radiant.
+
+### Ghoul Flesh Seeker
+
+This is a cultist of Orcus who has undergone a voluntary transformation into a
+ghoul. I guess the origin could be applied to any stat block, but this specific
+entry describes a stealthy bastitch. They sometimes hunt in civilized
+settlements, disguising themselves with heavy robes. When accompanying other
+monsters, they like to strike from ambush while the PCs are busy with their less
+stealthy buddies.
+
+Flesh Seekers are Level 4 Lurkers with 45 HP. Their ground speed is an excellent
+8, and their **Shadow Skulk** trait allows them to roll Stealth to hide in
+combat when they have partial cover or concealment (normally you need full cover
+or concealment).
+
+Their basic attack is a **Claw** that damages and immobilizes (save ends) on a
+hit. They don't have abilities to exploit this directly, but "standard" ghouls
+do.
+
+They have two "lurker"-y special attacks. The first is **Prepare For
+Sacrifice**, which they can use against a creature from which they were hidden
+at the start of their turn. It does more damage than the claw attack, and on a
+hit the flesh seeker knocks the target prone and grabs it. The target can escape
+using the normal rules (Athletics DC 14 or Acrobatics DC 16) but takes a -2
+penalty on the escape test and can't stand up until the grab ends.
+
+The second special attack is **Render Unto Orcus**, and it can only be used on a
+target grabbed by the flesh seeker. No special riders here, just a massive chunk
+of damage.
+
+Tactics write themselves: Ambush -> Prepare For Sacrifice -> Render Unto
+Orcus. If someone pries you off your victim, hide and repeat.
+
+### Adept of Orcus
+
+A cannibal priest of Orcus who died and returned as a ghoul. This one retains
+its memories, but since it already behaved like a ghoul in life the only way you
+can tell it's because it can use magic.
+
+Adepts are Level 6 Controllers with the Leader tag and 71 HP. Their speed
+is 8. They project an **Uneasy Grave** aura (5). Any non-minion ghoul ally that
+dies inside this aura comes back as a zombie rotter (a minion) at the start of
+its next turn.
+
+The adept's **Claw** damages and immobilizes, as typical for ghouls. It also has
+three spells, all ranged attacks. **Grave Grasp** (at-will) does no damage and
+restrains (save ends). **Call to Feast** (recharge 5+) immobilizes (save ends)
+and allows a ghoul ally adjacent to the target to make a free basic attack
+against them. And **Grave Dust Cloud** (encounter) is an area spell that does
+necrotic damage and creates a zone that does 5 necrotic damage to any enemy who
+enters it or ends their turn inside.
+
+These things are extremely dangerous when paired with traditional ghouls, since
+they can paralyze from a distance and allow their buddies to do huge damage
+right away.
+
+### Ghast
+
+Ghasts are a monster as traditional as the ghoul. Basically, they're stronger
+and stinkier ghouls. The MM and MV had Abyssal Ghouls to fill this role, but
+they were level 16. This official Ghast entry is appropriate for mixing in with
+standard ghouls.
+
+Ghasts are what happens when a ghoul goes for too long without eating the flesh
+of the living. Instead of starving, they rot from the inside and become even
+more desperate and voracious. This rot is what gives them their horrible stench.
+
+Ghasts are Level 6 Brutes with 85 HP. They're a bit slower at speed 6, and their
+**Stench of Death** aura (1) slows any living creatures that start their turns
+inside.
+
+Their basic attack is a **bite** that damages and immobilizes for a turn. They
+can use a **Devouring Bite** against an immobilized creature, which does huge
+damage and keeps recharging until they hit with it. After the bite hits and is
+spent, they can use their **Rabid Claws**, to make two melee attacks against
+immobilized creatures. Each one does slightly less damage than the basic bite,
+but if the two hit they hurt more overall.
+
+## Encounters and Final Impressions
+
+These new ghoul types can fit into the same types of encounter group as the ones
+from the MM/MV, which means they pair well with Orcus cultists and other
+undead. And now you have enough ghoul stat blocks to make a large variety of
+all-ghoul encounters.
+
+As for my impressions... I like ghouls as opponents, and I would like to repeat
+my warning from the original article to prefer the MV ghouls over the MM1 ones.
+
+
+
+
+[2]: {{ "/2020/03/20/ghoul.html" | relative_url }}

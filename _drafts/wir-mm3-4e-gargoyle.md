@@ -1,0 +1,141 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Gargoyle"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Gargoyles made their 4e debut in the first Monster Manual. I wrote about them
+[here][2]. Though that article includes a whole bunch of gargoyles, most of them
+are from the Monster Vault. When the MM3 was published, we still only had the
+two originals from the MM1.
+
+This entry adds a lot more variety, and it doesn't actually overlap with the
+later MV gargoyles, so we're going to be looking at all of them.
+
+## The Lore
+
+Gargoyle lore remains basically the same, and you can read it [here][2]. We get
+two new bits in this entry:
+
+The first is that efreets love to train packs of gargoyles to hunt sapients for
+sport. The elemental lords are endlessly amused by their pets' penchant for
+sadism when hunting. In the world, cultists of the Elder Elemental Eye
+frequently recruit and train gargoyles to guard their temples.
+
+The second is that while gargoyles have a fearsome reputation in the world, they
+tend to be viewed as weak in their native Elemental Chaos. There, they are more
+often the prey than the hunter. Gargoyle packs skulk in caves and other secluded
+locations, and only attack when they greatly outnumber their target.
+
+## The Numbers
+
+All gargoyles in this entry are Medium Elemental Humanoids with the Earth
+keyword. They have Darkvision, a ground speed of 6, and a flight speed
+of 8. They're immune to petrification, and all but one of them have a passive
+trait called **Lurking Presence**, which gives them a +10 bonus to Stealth
+against enemies' passive Perception.
+
+It's also interesting to note that none of the gargoyles in this entry have the
+Lurker role - with these and the ones from the MV, you can build varied
+all-gargoyle encounters.
+
+### Ironstone Gargoyle
+
+Identified by the rust-red streaks covering their bodies, Ironstone Gargoyles
+behave like their "default" cousins, hanging out in mountain passes and ruins
+waiting to raid unsuspecting passers-by. They wait in ambush but fight in a more
+aggressive and mobile way than usual once combat starts.
+
+Ironstone Gargoyles are Level 7 Skirmishers with 80 HP and the traits outlined
+above. They use **claws** to fight, and have a special attack named **Crashing
+Stride** (recharge 5+). This allows them to shift 4 squares and make claw
+attacks against two targets at any point along the shift. If they hit, they also
+slide the target 1 square and knock it prone.
+
+When surrounded, a **Leaping Glide** (at-will move action) allows them to fly 4
+squares without provoking opportunity attacks.
+
+### Hornstone Gargoyle
+
+This robust specimen is distinguished by its large horns, which it uses to gore,
+impale and drag victims in combat. It's a Level 8 Brute with 107 HP and all
+standard traits.
+
+Those horns can be used in an **Impaling Charge**, an attack which can (and
+must!) be used as part of a charge. It does heavy damage and grabs the
+target by impaling them in the gargoyle's horns. The target takes 5 ongoing
+damage while the grab lasts. Escaping uses the standard rules (Athletics DC 22
+or Acrobatics DC 19).
+
+The gargoyle can use **Skewering Drag** as a move action to move half its speed
+and automatically pull the grabbed victim along with it. Neither provokes
+opportunity attacks from the other during this movement.
+
+I left the basic **Claw** attack for last because it interacts with the above
+abilities: aside from doing the usual heavy damage of a Brute, it allows the
+monster to use Skewering Drag as a free action.
+
+In combat they'll do their best to impale and drag an enemy away. If the charge
+fails they prefer to fly away and try again rather than stand and fight with
+basic attacks.
+
+### Obsidian Gargoyle
+
+Obsidian gargoyles are kinda brittle, but also covered in sharp edges. Massive
+flocks of these things darken the skies of the Elemental Chaos, and they're the
+preferred variant of Elemental Eye cultists. They're Level 8 Minion Soldiers.
+
+Their **claw** attacks are nothing special, but they also have a **Cruel Claws**
+passive that deals 4 damage to an enemy who leaves a square adjacent to the
+gargoyle. That's not a lot, but it triggers on a shift and _stacks_. Surround a
+PC with these beasts leave only one way out. Dare them to take it.
+
+### Runic Gargoyle
+
+This is an _artificial_ gargoyle variant, originally created to serve the Elder
+Elemental Eye. Their skin looks like white marble covered in arcane runes, and
+they are a lot smarter than your average gargoyle. Some of them have since
+broken out of their servitude and found jobs with different groups.
+
+Runic Gargoyles are Level 8 Soldiers with 87 HP and all standard traits _except_
+for Lurking Presence, since they don't really have natural camouflage. They were
+made to be bodyguards, and their runes can be configured to bind them to a
+designated "master". I guess "client" might be a better word for free runic
+gargoyles.
+
+Their **claw** attack marks the target for a turn. They can also use an
+**Avenging Claws** maneuver that dazes instead of marking. This recharges when
+they're first bloodied.
+
+As a move action, they can teleport **To the Master**, appearing in a space
+within 2 squares of the client. There is _no range limit_ on this, and it allows
+you to have a cool scene where the boss snaps his fingers and a gang of gargoyle
+guards teleports in.
+
+If the gargoyle is adjacent to its client and the client takes damage, it can
+use **Shielding Wings** as an interrupt to take the damage instead.
+
+## Encounters
+
+The same encounter building tips for MM1/MV gargoyles also apply here. The
+efreet and Elder Eye angles are new and just as valid.
+
+Inter-gargoyle synergy is highest between the gargoyles from this entry. You
+have a couple of variants who are excellent at inflicting forced movement, and a
+minion who deals damage to enemies who move away from it. And since all of them
+fly, they also pair well with pits and other floor-based hazards.
+
+## Final Impressions
+
+The stat blocks in this entry don't really change my general opinion of
+gargoyles. They're might be _too_ iconic, as the exceptional case in a D&D
+adventure is meeting an inanimate gargoyle statue who _won't_ come to life and
+try to kill you. For this reason, you don't want to use them too much in your
+actual game. Still, by combining the MM3 and the MV you have enough variants to
+make that one gargoyle encounter truly memorable.
+
+
+
+[2]: {{ "/2020/03/12/gargoyle.html" | relative_url }}
