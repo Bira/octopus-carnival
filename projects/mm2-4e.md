@@ -122,6 +122,9 @@ variants here. Here they are, from A to Z:
   - [Oni][71]
   - [Ooze][72]
 
+- P
+  - [Phoelarch][73]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -196,3 +199,4 @@ variants here. Here they are, from A to Z:
 [70]: {{ "/2021/11/19/nothic.md" | relative_url }}
 [71]: {{ "/2021/11/22/oni.md" | relative_url }}
 [72]: {{ "/2021/11/24/ooze.md" | relative_url }}
+[73]: {{ "/2021/12/06/phoelarch.md" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-phoelarch.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see them all.
+
 I seem to remember phoelarches appearing in one of the late Monster Manuals for
 3e. I don't know if they appeared before that. Their 4e debut is here in the
 MM2.
@@ -113,3 +124,5 @@ one, as all of the phoelarch's allies are very flammable.
 
 I like the phoelarch/phoera gimmick! Without it, they'd be just another "generic
 fire guy" alongside azers, genasi and salamanders.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
