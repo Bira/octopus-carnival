@@ -84,47 +84,9 @@ instead of Elites. Young'uns and Adults are Large, and the last two are Huge. I
 guess a wyrmling isn't quite a "baby dragon", but I'd still be a bit wary of
 placing them as enemies, as I commented earlier.
 
-Generally speaking catastrophic dragons are clumsy fliers, so they prefer to
-fight on the ground. Though their looks and abilities tend to be tied to a
-specific element, they usually lack resistance to that element. Instead, they
-have special abilities that trigger in response to being hit by attacks that
-match their element. They're also surrounded by miniature natural disasters that
-occasionally explode!
-
 Despite their thematic link to natural disasters and their destructive demeanor,
 catastrophic dragons are typically Unaligned, which says interesting things
 about their mindset.
-
-### Blizzard Dragons
-
-Blizzard Dragons were created by Umboras, Lord of the Rimefire. The dragon
-petitioners who approached these primordial were the coldest-hearted among their
-number. Umboras took them to the coldest reaches of the Elemental Chaos and
-entombed them there for a year and a day while he worked his magic on them. When
-they emerged, they were blizzard dragons.
-
-Umboras had a specific goal in mind when he did this. He had been an ally of the
-winter goddess Khala, who shared with him the goal of freezing the world
-solid. However, the Raven Queen had just usurped Khala and claimed the domain of
-winter from her, so Umboras was out for revenge. He created blizzard dragons to
-help transport his troops to the Raven Queen's new home of Letherna.
-
-The Queen, however, was smarter than him. She retreated to the labyrinthine
-astral domain of Pandemonium, and used its twisty little passages (all alike) to
-separate Umboras from his main forces and lock him in one of the domain's empty
-vaults. He's still there!
-
-The blizzard dragons scattered after their master was imprisoned. Some stayed in
-Pandemonium, some returned to the Elemental Chaos, some even went to the coldest
-places of the world.
-
-Blizzard dragons don't usually have grand plans of their own, and are usually
-content to freeze and sculpt their territories. However, they're surprisingly
-good team players and can often be found allied to other creatures of compatible
-disposition, helping them achieve their goals. This varies from the usual frost
-giants and ice archons to liches or winter fey, depending on the
-individual. They're always down for breaking a primordial out of prison.
-
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}

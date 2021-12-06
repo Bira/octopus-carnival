@@ -43,9 +43,9 @@ their attacks do cold damage, even the bites and claws.
 
 ### Blizzard Dragon Wyrmling
 
-Wyrmlings are Medium, making them the smaller dragons I've seen in my Let's Read
-so far. They're Level 2 Controllers with 38 HP. They have ground and air speeds
-of 6.
+Wyrmlings are Medium, making them the smallest dragons I've seen in my Let's
+Read so far. They're Level 2 Controllers with 38 HP. They have ground and air
+speeds of 6.
 
 Yeah, that's right, wyrmlings are _regulars_. This means they'll almost always
 be found cooperating with a sizable group of other monsters. The most obvious
