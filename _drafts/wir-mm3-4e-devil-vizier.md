@@ -37,7 +37,7 @@ evil and sinful paths with the goal of making them go to Hell after they die.
 If you prefer the standard 4e lore, then the main difference is that vizier
 devils will try to get their masters to sign a soul contract either as a
 pre-condition to their service, or as an "upsell" in exchange for greater power
-or greather hellish support at some point after they begin their work as
+or greater hellish support at some point after they begin their work as
 advisors.
 
 A 4e-style, contract-based vizier devil is ironically less treacherous than the
