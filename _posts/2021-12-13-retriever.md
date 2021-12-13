@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This article is part of a series! Click [here][1] to see the rest.
+
 Retrievers first appeared in the Fiend Folio for AD&D 1st Edition. They make
 their 4e debut here in the Monster Manual 2.
 
@@ -92,3 +94,5 @@ straightforward combat scenario.
 
 The sample encounter could belong to either type: a marilith with an entourage
 composed of an abyssal rotfiend and 2 retrievers (level 26).
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
