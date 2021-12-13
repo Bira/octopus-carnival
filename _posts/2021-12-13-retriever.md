@@ -11,6 +11,15 @@ their 4e debut here in the Monster Manual 2.
 
 ## The Lore
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-retriever.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Retrievers are powerful constructs shaped like giant spiders, built by the
 primordials themselves during the Dawn War to carry out kidnappings, thefts, and
 assassinations. They're not smart enough to do anything outside their intended

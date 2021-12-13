@@ -125,6 +125,10 @@ variants here. Here they are, from A to Z:
 - P
   - [Phoelarch][73]
 
+- R
+  - [Remorhaz][74]
+  - [Retriever][75]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -200,3 +204,5 @@ variants here. Here they are, from A to Z:
 [71]: {{ "/2021/11/22/oni.md" | relative_url }}
 [72]: {{ "/2021/11/24/ooze.md" | relative_url }}
 [73]: {{ "/2021/12/06/phoelarch.md" | relative_url }}
+[74]: {{ "/2021/12/13/remorhaz.md" | relative_url }}
+[75]: {{ "/2021/12/13/retriever.md" | relative_url }}
