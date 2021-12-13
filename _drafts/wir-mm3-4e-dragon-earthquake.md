@@ -62,7 +62,8 @@ aura prone.
 
 Young dragons are Large Level 9 Elite Soldiers with 206 HP. Their ground speed
 increases to 8, their burrow and flight speeds to 4. They have all the same
-abilities as a wyrmling, with bigger numbers, plus two new powers.
+abilities as a wyrmling, with bigger numbers. They replace Wyrmling Fury with a
+proper **Double Attack** and add two new powers.
 
 **Earthen Maw** (recharge 6+) is a melee attack that does more damage than a
 basic bite and restains the target (save ends). After the first save the target
@@ -79,11 +80,11 @@ resets and this power recharges.
 
 ### Other Age Categories
 
-**Adults** are Level 14 Elite Soldiers with 288 HP, and have all the same abilities
-with bigger numbers.
-
-**Elders** are Huge Level 19 Elite Soldiers with 374 HP, and again have all the same
+**Adults** are Level 14 Elite Soldiers with 288 HP, and have all the same
 abilities with bigger numbers.
+
+**Elders** are Huge Level 19 Elite Soldiers with 374 HP, and again have all the
+same abilities with bigger numbers.
 
 **Ancients** are Level 24 Elite Soldiers with 456 HP, and gain Threatening
 Reach 3. They once again have all the same abilities as younger dragons with

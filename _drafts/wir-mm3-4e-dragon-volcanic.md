@@ -29,9 +29,9 @@ A typical volcanic dragon's temperament is like that of a red, but worse. They
 make a show of craving treasure and rulership over a territory, but what they
 truly crave is destruction. In other words, volcanic dragons love burning stuff,
 especially flesh. It makes them feel good. They like the company of other
-fire-elemental beings with similar dispositions, but as mentioned above any
-alliance they make with other types of creature is likely to be temporary at
-best. They live inside volcanoes and on other similar burning landscapes.
+fire-elemental beings with similar dispositions, but any alliance they make is
+temporary at best. They live inside volcanoes and on other similar burning
+landscapes.
 
 ## The Numbers
 
@@ -97,6 +97,7 @@ _poison_ damage and it can remove fire resistance with its claws. Also, the bulk
 of the damage from its basic attacks is untyped, further limiting the usefulness
 of fire resistance.
 
-Lore-wise, they're not that different from reds in outward behavior. You want to
-use a volcanic instead of a red when you want to subvert your player's
-expectations, or emphasize your campaign's links to the Primordials.
+Lore-wise, paranoia and entitlement seem to be their strongest personality
+traits. They're hard to deal with because they always feel they're not getting
+their due. Even when a deal is fair and happens as promised, they'll probably
+feel the other party got one over on them.
