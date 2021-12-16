@@ -27,7 +27,8 @@ Dread Warriors are Medium Natural Animates with the Undead keyword. They have
 low-light vision and a natural speed of 6, modified by armor. They have a
 signature traits: **Eyes of Undeath** allows the warrior's master to see and
 hear anything the creature sees and hears. It also allows the master to speak
-through it. There's no range limit!
+through it. There's no range limit! This makes them excellent emissaries,
+decoys, or security "cameras".
 
 Individual warriors have additional traits related to their training and
 intended function.
@@ -51,7 +52,7 @@ The greataxe marks on a hit, and though the protector doesn't have any other
 abilities that make use of the mark it does make it harder to attack the
 master. Instead of moving normally they can use **Protector's Call** to teleport
 their speed to square adjacent to the master. This makes it very hard for PCs to
-isolate them from their master.
+isolate them.
 
 Dread Protectors will seek to always stay adjacent to their master and keep the
 most dangerous melee opponent marked. The best tactic for dealing with them is
@@ -98,7 +99,7 @@ Undeath, but I'd definitely allow them so see the archer through a telescope!
 ### Dread Guardian
 
 This is a more powerful version of the dread protector, a Level 7 Soldier with
-79 HP.. It's equipped with heavy armor, a shield, a sword, and a bow.
+79 HP. It's equipped with heavy armor, a shield, a sword, and a bow.
 
 Both the **bow** and **sword** attacks mark on a hit, and this time the
 protector _can_ make a sword attack as an opportunity action when a marked enemy

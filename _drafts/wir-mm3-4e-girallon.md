@@ -1,0 +1,94 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Girallon"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Remember how, way back in the "Ape" entry, I commented that I wasn't fond of the
+"pulp fiction carnivorous gorilla" cliches some of them were leaning on? Then
+you might imagine how I feel about this particular monster. I first saw them in
+the 3e Monster Manual, but they might have appeared in a supplement for an
+earlier edition.
+
+A girallon is what happens when you take every single one of those cliches, lump
+them together, and double the result. It's an evil carnivorous gorilla that has
+twice the size, twice the appetite for human flesh, and twice the number of arms
+as the standard version of the trope. To complete the cliche bingo card,
+girallons have white fur and are frequently worshipped as gods by "savage
+jungle-dwelling tribes". So yeah, not a great look so far.
+
+Girallons are voracious carnivores and messy eaters that have the habit of
+leaving viscera and entrails lying around their territories. They can climb and
+move through the treetops with practiced ease, but their large size means they
+need to sleep on the ground. Their lairs are usually in caves or ruins. Though
+not sapient, some of them learn to make trails in their territory's vegetation
+that lead to prime ambush spots, which can act as an effective lure for sapient
+prey.
+
+Girallons are usually the most badass predators in their region. They're either
+solitary or organized in small bands, and do not willingly seek out allies of
+other species. Still, they're sometimes "tamed" by giants, trolls, fomorians and
+other such sapients. Prospective girallon keepers must be either big and strong
+enough to physically beat the creatures into submission, or have the knowledge
+of magic necessary to keep them dominated.
+
+## The Monsters
+
+### Girallon
+
+The basic model and the template used for the others. This is a Large Natural
+Beast and a Level 12 Brute with 145 HP. It has a ground speed of 8 and a climb
+speed of 6. Its four arms act as a **Threatening Claws** aura (1) that makes all
+enemies inside grant combat advantage, and a **Combat Climber** trait that make
+it not provoke opportunity attacks when climbing.
+
+The basic **claw** attack is Reach 2 and does the heavy damage expected of a
+brute, and the **Claw Flurry** special (recharge 5+) allows it to make four
+half-damage claw attacks.
+
+### Girallon Alpha
+
+This specimen is much bigger and stronger than a typical girallon. It has all
+the same traits as the basic model but is level 17 with 195 HP. It has two new
+abilities as well.
+
+The first is a positioning thing: **Whirling Claws** is a free action triggered
+when an enemy starts its turn within 2 squares of the alpha. The alpha slides
+that enemy 1 square, which is perfect for breaking flanking maneuvers.
+
+The other is a special attack: **Rend and Tear** targets enemies in a Close
+Blast 3, does heavy damage, and slides the targets 3 squares on a hit.
+
+### Infernal Girallon
+
+A long time ago some devils decided infusing packs of girallons with the power
+of Hell for use as bioweapons in the Blood War would be a swell idea. Now there
+are packs of Infernal Girallons roaming and hunting through both the Elemental
+Chaos and the Nine Hells.
+
+These have all the same traits as a basic girallon but are Immortal instead of
+Natural, and have the Devil keyword and Darkvision. They're Level 22 Brutes with
+249 HP and all the same abilities as a basic girallon.
+
+Their first new power is a trait named **Burning Soul**. This aura (2) causes 10
+fire damage to enemies caught inside, or 20 if the girallon is bloodied. Better
+give your defenders some protection from fire.
+
+Their other new power is an attack named **Burning Ichor**, a Close Blast 3 that
+does immediate and ongoing fire damage (save ends).
+
+So yeah, an even bigger girallon that is on fire.
+
+## Final Impressions
+
+You already know my opinion of their lore. I'm tempted to reskin these things
+into demons or some other type of monster. I guess the exception is the lore for
+Infernal Girallons. "Devils tried to do science, it did not go as planned" is a
+good hook.
+
+Mechanically, the Girallon is a basic paragon-tier brute, serviceable but not
+spectacular. The enhanced versions add more interesting special attacks, so
+depending on your needs you might want to down-level an alpha instead of using
+the basic version.
