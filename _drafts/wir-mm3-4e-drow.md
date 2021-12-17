@@ -13,12 +13,12 @@ epic-tier drow enemies.
 
 ## The Lore
 
-Mainstream drow society is a nightmare of intrigue and backstabbing, as we have
-already seen. Every drow is plotting to backstab their superiors while keeping
-an eye out for similar plots coming from their subordinates and peers. The
-higher they rise, the more favor they have in the eyes of Lolth. Where does it
-end, though? What reward awaits those followers who become such tracherous
-vermin they become one of Lolth's favorite children?
+Mainstream Lolth-worshipping drow society is a nightmare of intrigue and
+backstabbing, as we have already seen. Every drow is plotting to backstab their
+superiors while keeping an eye out for similar plots coming from their
+subordinates and peers. The higher they rise, the more favor they have in the
+eyes of Lolth. Where does it end, though? What reward awaits those followers who
+become such tracherous vermin they become one of Lolth's favorite children?
 
 Why, they get to go live in the Demonweb and do it all over again!
 
@@ -37,8 +37,8 @@ their allies down here.
 
 The leaders of these factions are usually Lolth's Exarchs, and they occupy the
 highest position any mortal worshiper of Lolth can aspire to. When in the Abyss,
-they spend their time leading managing their faction and its intrigues against
-the others. When outside the Demonweb, they tend to infiltrate other sapient
+they spend their time managing their faction and its intrigues against the
+others. When outside the Demonweb, they tend to infiltrate other sapient
 cultures or even act as overt ambassadors of Lolth within them. Examples of such
 culture includes the giants and efreets of the Elemental Chaos or the devils of
 Hell.
@@ -95,8 +95,8 @@ bonus given by a missed attack more than once.
 ## Draegloth Abomination
 
 Abyssal drow often summon, bind, and otherwise ally with demons, but some
-priestesses go further and make their own. Draegloths are created from a mix of
-demon and drider DNA in a process that involves a lot of foul rituals.
+priestesses go further and make their own. Draegloths are created by abyssal
+magic from a mix of demon and drider DNA.
 
 Draegloths are pretty much impossible to control, which isn't usually a very
 desired trait in lab-bred monsters. Because of this their creation is usually
@@ -104,12 +104,12 @@ done as an act of devotion to Lolth, and they're gifted directly to the goddess,
 to whom they are quite loyal. They can be found patrolling the Demonweb
 alongside other Lolth-favored demons.
 
-Draegloth Abominations are Huge Elemental Humanoids Magical Beasts with the
-Demon tag. They look like elephant-sized driders, or like the dapper fellow here
-in the illustration. They're Level 24 Lurkers with 174 HP, ground and climb
-speeds of 8, Darkvision, and Tremorsense 10.
+Draegloth Abominations are Huge Elemental Magical Beasts with the Demon
+tag. They look like elephant-sized driders, or like the dapper fellow here in
+the illustration. They're Level 24 Lurkers with 174 HP, ground and climb speeds
+of 8, Darkvision, and Tremorsense 10.
 
-Their basic attack is a **Claw** that does roughly double damage against a dazed
+Their basic attack is a **Claw** that does double damage against a dazed
 creature. The **Slashing Claws** ability allows them to make two claw attacks
 with the same action. Their other attack is a **Tethering Web** (ranged 5
 vs. Reflex). A hit does a small bit of poison damage and tethers the target
