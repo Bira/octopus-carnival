@@ -206,3 +206,5 @@ variants here. Here they are, from A to Z:
 [73]: {{ "/2021/12/06/phoelarch.md" | relative_url }}
 [74]: {{ "/2021/12/13/remorhaz.md" | relative_url }}
 [75]: {{ "/2021/12/13/retriever.md" | relative_url }}
+[76]: {{ "/2021/12/17/shadar-kai.md" | relative_url }}
+[77]: {{ "/2021/12/17/shark.md" | relative_url }}

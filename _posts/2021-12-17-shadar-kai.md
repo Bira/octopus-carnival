@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-shadar-kai.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the rest.
+
 We already saw the basic lore of shadar-kai back in [Let's Read the  Monster
 Manual][2], and the Monster Manual 2 brings a few more stat blocks for them.
 
@@ -99,3 +110,5 @@ We get two sample encounters here:
 
 - Level 14: A blacksoul, 2 gloom lords and 2 painbearers. A team where every
   member is a brooding loner, Kamen Rider-style.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
