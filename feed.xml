@@ -6,9 +6,92 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Dec 2021 16:58:14 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Dec 2021 16:58:14 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Dec 2021 17:15:09 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Dec 2021 17:15:09 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Skeleton</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-skeleton.png&quot;/&gt;
+  &lt;figcaption&gt;
+     Illustration by Adam Gilespie. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The first Monster Manual already included &lt;a href=&quot;/octopus-carnival/2020/12/13/skeleton.html&quot;&gt;plenty of skeletons&lt;/a&gt;, so this time
+we just get a couple more of them. The basic lore remains the same and you can
+see it in the link above.&lt;/p&gt;
+
+&lt;h2 id=&quot;bonecrusher-skeleton&quot;&gt;Bonecrusher Skeleton&lt;/h2&gt;
+
+&lt;p&gt;A Large-sized skeleton that used to belong to an ogre, minotaur, oni, or similar
+creature. Not having to haul all that flesh around makes it surprisingly fast
+for its size.&lt;/p&gt;
+
+&lt;p&gt;This is a Large Natural Animate with the Undead keyword, and a Level 7 Soldier
+with 80 HP. It has all usual skeleton traits: darkvision, immunity to disease
+and poison, resist 10 necrotic, vulnerable 5 radiant. It runs at speed 8.&lt;/p&gt;
+
+&lt;p&gt;The skeleton wields a Reach 2 &lt;strong&gt;greatclub&lt;/strong&gt;, and it can use it to perform a
+&lt;strong&gt;Crushing Blow&lt;/strong&gt; (reach 2; recharge 6+) that does more damage and knocks the
+target prone. Its superb agility is expressed as &lt;strong&gt;Threatening Reach 2&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;skeletal-steed&quot;&gt;Skeletal Steed&lt;/h2&gt;
+
+&lt;p&gt;A horse skeleton that can act as a fearless and tireless mount, proving that
+mundane horses truly suck in 4e. Even a dead horse is better mount than a live
+one.&lt;/p&gt;
+
+&lt;p&gt;Skeletal horses are Level 3 Skirmishers with 47 HP, darkvision, and immunity to
+disease and poison. They don’t have resistance to necrotic damage or
+vulnerability to radiant damage. Their ground speed of 8 and their fearless,
+untiring nature make them highly desired as mounts by people who don’t mind the
+whole skeleton thing.&lt;/p&gt;
+
+&lt;p&gt;If forced to fight the skeletal steed uses &lt;strong&gt;kicks&lt;/strong&gt; like a normal horse, and
+they can also perform them as part of a &lt;strong&gt;Mobile Melee Attack&lt;/strong&gt;. You know the
+drill on this one: the steed moves its speed, makes an attack at any point along
+the way, and doesn’t draw opportunity attacks. It can also emit a &lt;strong&gt;Death
+Shriek&lt;/strong&gt; (fear; close burst 3; recharge 5+) that does no damage and inflicts a
+-2 attack penalty (save ends).&lt;/p&gt;
+
+&lt;p&gt;When used as a mount, the steed allows its rider to join in on the Mobile Melee
+Attack. Either the rider makes a basic attack while still allowing the steed to
+kick, or the steed gives up its attack to allow the rider to use a non-basic
+power.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These new skeleton types rise in much the same way as the other ones. Most often
+it’s because a necromancer intentionally animates them, but sometimes a freak
+accident with necrotic energy can cause them to rise up as well. In such cases,
+skeletal steeds tend to rise along with their former riders.&lt;/p&gt;
+
+&lt;p&gt;We get two sample encounters here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 5: 1 deathlock wight and 2 standard wights riding skeletal
+steeds. Ancient horsemen riding again.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 6: 1 orc eye of Gruumsh plus a zombie hulk and three bonecrusher
+skeletons. Orc necromancer and his undead ogres.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2021/12/23/skeleton.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/23/skeleton.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Shark</title>
@@ -986,132 +1069,6 @@ Vecna pet.&lt;/p&gt;
         <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Vault 2: Neogi</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-neogi.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I believe the Neogi first appeared as an element of 2e’s Spelljammer setting. In
-4e, they make their debut here in the MM2.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Neogi are bizarre-looking spider-centipede people who originally hail from the
-Far Realm. Their culture is a particularly cruel and pitiless variety of
-imperialist capitalism. Ownership is all - the strong rule and own the
-weak. They organize themselves in clans with slavery-based internal
-hierarchies. A given neogi literally owns their immediate underlings and is in
-turn a slave to its immediate superior. This goes up all the way to the Great
-Old Master of the clan, who is no one’s slave. Neogi are a single-gendered
-species without any concept of family. All of the clan’s eggs are carried and
-gestated by the Great Old Master.&lt;/p&gt;
-
-&lt;p&gt;Neogi are renowned both as traders and slavers, following the same school of
-commerce made famous during Earth’s Age of “Discovery”. If the other party is
-weaker than you, rob and enslave them. If they’re equivalent or stronger,
-negotiate and trade. They just love trading with similarly unsavory people like
-devils, duergar, and drow. The only ones they avoid are the mind flayers, since
-the entire neogi people was once enslaved by entities similar to flayers back in
-the Far Realm.&lt;/p&gt;
-
-&lt;p&gt;For some reason, the MM2 doesn’t mention any of their nautical proclivities. I
-guess this part of the Astral Sea wasn’t quite as fixed in the authors’ minds
-back them. But since later descriptions would reveal you can pretty much
-transplant all of Spelljammer directly into the Astral Sea, you can bet you have
-Neogi trade/slave/warships roaming that plane.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Neogi are Aberrant Magical Beasts. Most are Medium, but Masters are Large. Their
-levels cover the first half of Paragon Tier, making them appropriate encounters
-for the Underdark or Astral Sea. Like all monsters, their level can be adjusted
-if you want to feature them earlier or later. They usually have climb speeds and
-darkvision, and a degree of telepathy. They also speak Common and Deep
-Speech.&lt;/p&gt;
-
-&lt;p&gt;All Neogi are immune to the Dazed condition. Their attacks are usually some sort
-of psychic power, though the exact effects vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;neogi-slaver&quot;&gt;Neogi Slaver&lt;/h3&gt;
-
-&lt;p&gt;A relatively “typical” individual, likely found as crew in an astral vessel or
-as troops in raiding party. In either case, they’re likely to be accompanied by
-plenty of non-neogi slaves. These are some of the few monsters in the book who
-would make use of the “non-lethal takedown” rule, where you can decide someone
-you took to 0 HP is not dead, just unconscious. After all, dead slaves are worth
-nothing.&lt;/p&gt;
-
-&lt;p&gt;Slavers are Level 10 Controllers with the Leader keyword and 106 HP. They have a
-ground speed of 8 and a climb speed of 6 with Spider Climb. Their basic melee
-attack is a weak &lt;strong&gt;bite&lt;/strong&gt; with an ongoing poison damage rider. The first failed
-save against this poison also slows the victim (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Their main ranged attack is a &lt;strong&gt;Charm Bolt&lt;/strong&gt; that targets Will. Instead of
-dealing damage, it inflicts a -2 penalty on any attacks that don’t include the
-slaver as a target (save ends). After the first failed save, the slaver
-also becomes invisible to the target of the bolt!&lt;/p&gt;
-
-&lt;p&gt;Their other attack is &lt;strong&gt;Psychic Shackle&lt;/strong&gt; (Recharge 5+), a Close Blast 3 that
-targets Will, deals psychic damage, and dazes those it hits for a turn.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, they can also use &lt;strong&gt;Thrall Goad&lt;/strong&gt; as a minor action. This
-allows all allies within 6 squares of the slaver to make a saving thrown with a
-+5 bonus.&lt;/p&gt;
-
-&lt;h3 id=&quot;neogi-spawn-swarm&quot;&gt;Neogi Spawn Swarm&lt;/h3&gt;
-
-&lt;p&gt;Neogi larvae are tiny and sub-sapient. Their only desire is to eat all nearby
-available meat, living or not. They can be dangerous in large numbers, which is
-what this stat block represents.&lt;/p&gt;
-
-&lt;p&gt;The Swarm counts as a Medium Level 10 Brute with 131 HP. They have the standard
-swarm resistance to melee and ranged attacks, and a vulnerability to close and
-area attacks. Their ground and climb speeds are both 6.&lt;/p&gt;
-
-&lt;p&gt;Their Swarm Attack aura (1) deals automatic poison damage, and their &lt;strong&gt;bites&lt;/strong&gt;
-are similar to that of the neogi slaver but deal more damage. When first
-bloodied or when slain, the swarm lets out a collective &lt;strong&gt;psychic scream&lt;/strong&gt; that
-attacls a close burst 1 and deals psychic damage with a Daze rider.&lt;/p&gt;
-
-&lt;h3 id=&quot;neogi-great-old-master&quot;&gt;Neogi Great Old Master&lt;/h3&gt;
-
-&lt;p&gt;These Large individuals rule over entire clans, and carry all of the clan’s eggs
-and larval broods in their immense abdomens. They’re Level 16 Controllers with
-157 HP, a ground speed of 6, and a climb speed of 4.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a Reach 3 &lt;strong&gt;Scythe Claw&lt;/strong&gt; that damages targets and knocks
-them prone. Their main ranged attack is an &lt;strong&gt;Enslaving Bolt&lt;/strong&gt; that targets Will,
-deals psychic damage and inflicts one of those progressively worsening
-conditions. The immediate effect is that the target gets a -2 penalty to any
-attacks that target the Master; after the first failed save, that worsens to a
-Dominate effect; and after the second the domination lasts until the target’s
-next extended rest. Yes, this does mean that an unlucky PC could find themselves
-trying to avenge the Master even after it’s been killed by the party.&lt;/p&gt;
-
-&lt;p&gt;When the Master is first bloodied, its abdomen ruptures and releases a Larva
-Burst. This works as a Close Burst 2 against Reflex that deals physical damage
-and creates a zone of difficult terrain that lasts until the end of the
-encounter. This could also be a good opportunity to introduce a Spawn Swarm to
-the fight if the GM is feeling sadistic.&lt;/p&gt;
-
-&lt;p&gt;Finally, they can use a version of the Slaver’s Psychic Shackle that deals more
-damage and has a wider area.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/11/19/neogi.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/19/neogi.html</guid>
         
         <category>dnd4</category>
         
