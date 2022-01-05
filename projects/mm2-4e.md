@@ -129,6 +129,11 @@ variants here. Here they are, from A to Z:
   - [Remorhaz][74]
   - [Retriever][75]
 
+- S
+  - [Shadar-kai][76]
+  - [Shark][77]
+  - [Skeleton][78]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -208,3 +213,4 @@ variants here. Here they are, from A to Z:
 [75]: {{ "/2021/12/13/retriever.md" | relative_url }}
 [76]: {{ "/2021/12/17/shadar-kai.md" | relative_url }}
 [77]: {{ "/2021/12/17/shark.md" | relative_url }}
+[78]: {{ "/2021/12/23/skeleton.md" | relative_url }}
