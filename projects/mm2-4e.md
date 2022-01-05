@@ -133,6 +133,7 @@ variants here. Here they are, from A to Z:
   - [Shadar-kai][76]
   - [Shark][77]
   - [Skeleton][78]
+  - [Slaad][79]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -204,13 +205,14 @@ variants here. Here they are, from A to Z:
 [66]: {{ "/2021/11/11/mammoth.html" | relative_url }}
 [67]: {{ "/2021/11/11/marut.html" | relative_url }}
 [68]: {{ "/2021/11/11/myconid.html" | relative_url }}
-[69]: {{ "/2021/11/19/neogi.md" | relative_url }}
-[70]: {{ "/2021/11/19/nothic.md" | relative_url }}
-[71]: {{ "/2021/11/22/oni.md" | relative_url }}
-[72]: {{ "/2021/11/24/ooze.md" | relative_url }}
-[73]: {{ "/2021/12/06/phoelarch.md" | relative_url }}
-[74]: {{ "/2021/12/13/remorhaz.md" | relative_url }}
-[75]: {{ "/2021/12/13/retriever.md" | relative_url }}
-[76]: {{ "/2021/12/17/shadar-kai.md" | relative_url }}
-[77]: {{ "/2021/12/17/shark.md" | relative_url }}
-[78]: {{ "/2021/12/23/skeleton.md" | relative_url }}
+[69]: {{ "/2021/11/19/neogi.html" | relative_url }}
+[70]: {{ "/2021/11/19/nothic.html" | relative_url }}
+[71]: {{ "/2021/11/22/oni.html" | relative_url }}
+[72]: {{ "/2021/11/24/ooze.html" | relative_url }}
+[73]: {{ "/2021/12/06/phoelarch.html" | relative_url }}
+[74]: {{ "/2021/12/13/remorhaz.html" | relative_url }}
+[75]: {{ "/2021/12/13/retriever.html" | relative_url }}
+[76]: {{ "/2021/12/17/shadar-kai.html" | relative_url }}
+[77]: {{ "/2021/12/17/shark.html" | relative_url }}
+[78]: {{ "/2021/12/23/skeleton.html" | relative_url }}
+[79]: {{ "/2022/01/05/slaad.html" | relative_url }}
