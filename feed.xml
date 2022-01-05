@@ -6,9 +6,144 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 05 Jan 2022 19:18:33 +0000</pubDate>
-    <lastBuildDate>Wed, 05 Jan 2022 19:18:33 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Jan 2022 19:26:15 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Jan 2022 19:26:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Slaad</title>
+        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Slaads already made their 4e debut in the first Monster Manual, and you can
+check out the post I wrote on them &lt;a href=&quot;/octopus-carnival/2020/12/23/slaad.html&quot;&gt;here&lt;/a&gt;. This MM2 entry brings us a
+lower-level, less-popular slaad type and an alternate mechanic for the horrific
+slaad spawning cycle.&lt;/p&gt;
+
+&lt;h2 id=&quot;flux-slaad&quot;&gt;Flux Slaad&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaad-flux.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Flux slaads seem to be the runts of the slaad family. They’re weaker and
+stupider than their relatives, they can’t spawn, and their chaotic mutations are
+at best a mixed blessing. Still, being weaker actually means they might have an
+easier time slipping through a dimensional crack into the world, which they love
+because it allows them to lord it over creatures even weaker than them.&lt;/p&gt;
+
+&lt;p&gt;Flux slaads who slip into the world often end up conquering bullywug tribes and
+setting themselves up as their god-kings. Finding one of these on the throne
+instead of the usual “slightly stronger frog-dude” can be an interesting
+experience for cocky PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Flux Slaads are Medium Elemental Humanoids, and Level 9 Skirmishers with 98
+HP. They have low-light vision, a ground speed of 7, and a teleport speed
+of 2.&lt;/p&gt;
+
+&lt;p&gt;They fight with their &lt;strong&gt;claws&lt;/strong&gt;. They can use those in a &lt;strong&gt;Flux Rage&lt;/strong&gt; maneuver
+that allows them to shift 2 squares and attack everyone they pass by during this
+movement. This recharges when they’re first bloodied. When they take damage from
+an attack, they can shift 1 square as a reaction.&lt;/p&gt;
+
+&lt;p&gt;Nothing special so far, but now we come to the part that gives these slaads
+their names. &lt;strong&gt;Slaad Vulnerability Shift&lt;/strong&gt; should really have a name that
+includes the word “flux” in it. This trait makes the slaad start out with random
+vulnerability determined by a d6 roll: (1) cold, (2) fire, (3) lightning, (4)
+necrotic, (5) psychic, (6) thunder. The slaad has Vulnerability 10 to that
+damage type, but Resistance 5 to all the other table entries. Every time the
+slaad takes damage from its current weakness, you roll the die again and
+determine a new weakness.&lt;/p&gt;
+
+&lt;h2 id=&quot;slaad-spawn&quot;&gt;Slaad Spawn&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaad-spawner.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Most slaads reproduce by infecting victims with a disease called Chaos Phage,
+which causes slad tadpoles to gestate within the victim’s flesh. The tadpole
+grows and eventually erupts from its host, running away to mature
+elsewhere. This was covered in the &lt;a href=&quot;/octopus-carnival/2020/12/23/slaad.html&quot;&gt;MM entry&lt;/a&gt; for Slaads.&lt;/p&gt;
+
+&lt;p&gt;A few of them are instead infected with a mutant strain of chaos phage, which
+produces embryos in their &lt;em&gt;own&lt;/em&gt; flesh. These slaads are covered in gross giant
+boils that pop when they’re wounded, spawning miniature versions of
+themselves. These spawn are both almost mindless and extremely aggressive, so
+they often get used as weapons by their “parents”. Should they survive the
+circumstances of their birth, the spawn develop quickly and begin exhibiting
+powers similar to those of an adult within days.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Spawn are Small Elemental Humanoids, and Level 17 Minion Skirmishers. They have
+low-light vision, a running speed of 5, and a teleport speed of 3. They attack
+with &lt;strong&gt;bites&lt;/strong&gt; and can also pounce using a &lt;strong&gt;Chaotic Slam&lt;/strong&gt;. On a hit, they
+damage and knock down the target. On a miss, they explode, dealing a bit of
+damage in a Close Burst 1.&lt;/p&gt;
+
+&lt;p&gt;We also get stats for an elite template named &lt;strong&gt;Slaad Spawner&lt;/strong&gt;, which can be
+applied to any Large-sized regular slaad. This is turns the slaad into an elite
+monster, and adds a &lt;strong&gt;Spawn Slaad&lt;/strong&gt; reaction power that creates a new slaad
+spawn whenever the spawner is hit by an attack. The new spawn appears adjacent
+to the spawner, and acts right after the spawner’s action. The template is
+unusual in that it doesn’t add additional HP to the regular monster. It does
+bring a new minion into play every round, so maybe they thought this was enough
+to make up for their lower HP. The spawner is worth double the experience of the
+original slaad, but the spawned minions aren’t worth any.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The flux slaad is kinda meh aside from its “weakness roulette” mechanic. The
+roulette is interesting, but your party needs a lot of damage types (or a lot of
+lucky d6 rolls) to keep it spinning. Otherwise it’s going to stop on a type they
+can’t use, which means the slaad becomes resistant to the types they can. At
+least you can always beat it up using physical damage, which means martial types
+can end up being more effective against it than the casters.&lt;/p&gt;
+
+&lt;p&gt;Perhaps you could build a “puzzle boss” that had the same mechanic, plus some
+way for the party to influence the result of the d6 roll.&lt;/p&gt;
+
+&lt;p&gt;Slaad spawn and the Spawner template bring another flavor of body horror to a
+slaad fight. Since it seems spawn mature even faster than tadpoles, a spawner
+presents an even nastier apocalyptic scenario than a normal slaad. It also
+presents the GM with an excuse to throw lots of de-leveled slaads against a
+heroic tier party, since those could be “immature” slaads that have grown past
+the spawn stage but not developer all the way yet.&lt;/p&gt;
+
+&lt;p&gt;Our two sample encounters are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 8: A death shard, 3 flux slaads, and 2 slaad tadpoles. Likely brought to
+the world by a small Elemental or Abyssal rift.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 17: 2 blue slaads, 1 green slaad, 8 slaad spawn. The blues and green are
+likely minding their little siblings and doing a typical slaad job of it. Note
+that the spawn are worth XP in this encounter, since they’re not “produced” by
+an on-site spawner.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/01/05/slaad.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/05/slaad.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Skeleton</title>
@@ -926,149 +1061,6 @@ lots of different stat blocks covering different aspects of it.&lt;/p&gt;
         <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/11/22/oni.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/22/oni.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Nothic</title>
-        <description>&lt;p&gt;Nothics first appeared in the Miniatures Handbook for 3e, and make their 4e
-debut in the MM2.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Nothics are aberrant creatures that first arrived in the world aboard drifting
-fragments of the Far Realm. Their minds are even more alien than those of slaads
-to us poor mortals. Their huge eyes are capable of inflicting a variety of
-afflictions, and they tend to be found in the service of other powerful
-creatures. Nothics constantly cackle and cavort about, which their masters often
-find amusing, but they also fight at their command, doing double duty as jesters
-and bodyguards.&lt;/p&gt;
-
-&lt;p&gt;Their masters aren’t necessarily aberrant! Nothics are often found in the
-company of undead, for example. A few get adopted by cults of Vecna and receive
-numerous blessings from the lich god, becoming even more dangerous.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Nothics are Medium Aberrant Humanoids. Those dinner plate eyes give them
-Truesight out to 10 squares and Darkvision. They also act as the focus for a
-variety of gaze attacks and psychic powers, which vary per stat block. Nothics
-have a ground speed of 6.&lt;/p&gt;
-
-&lt;p&gt;The stat blocks in this entry range from the mid-Paragon to the early Epic
-tiers. I believe the Neverwinter Campaign Setting, published much later, would
-include a heroic-tier nothic as well.&lt;/p&gt;
-
-&lt;h3 id=&quot;nothic-cackler&quot;&gt;Nothic Cackler&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-nothic-cackler.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Cacklers are some of the most “jester-like” in behavior. They caper about even
-during a battle, seemingly oblivious to the opposition even as they
-fight. They’re level 15 Artillery with 116 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic melee attack is an anemic &lt;strong&gt;claw&lt;/strong&gt; - it’s all about the mind
-powers with them. They can choose between two at-will ranged attacks.&lt;/p&gt;
-
-&lt;p&gt;The first, &lt;strong&gt;Mind Rot&lt;/strong&gt; targets Will and does psychic damage. On a hit, it also
-slides the target 6 squares and forces them to make a melee basic attack against
-someone else (nothic’s choice). The other, &lt;strong&gt;Rotting Gaze&lt;/strong&gt;, targets Fortitude,
-does necrotic damage, and inflicts a -2 penalty to all defenses (save ends).&lt;/p&gt;
-
-&lt;p&gt;Tactics are clear: rot the body, rot the mind, laugh, repeat.&lt;/p&gt;
-
-&lt;p&gt;If surrounded, the cackler can use a &lt;strong&gt;Maddening Cackle&lt;/strong&gt; (close burst 3
-vs. Will; enemies only; recharge 5+). This deals psychic damage, pushes 2
-squares, and slides the hit targets 2 additional squares at the start of their
-next turns.&lt;/p&gt;
-
-&lt;h3 id=&quot;nothic-mindblight&quot;&gt;Nothic Mindblight&lt;/h3&gt;
-
-&lt;p&gt;Behavior-wise, mindblights are the complete opposite of cacklers, appearing
-sleepy and morose even while staring you to death. They’re level 19 Controllers
-with 180 HP. They project an &lt;strong&gt;Eye Lure&lt;/strong&gt; aura (3) that slides enemies inside 2
-squares at the start of the enemies’ turns. Their &lt;strong&gt;claws&lt;/strong&gt; are a little
-stronger and also deal ongoing necrotic damage (save ends), but the eye powers
-are still the main event.&lt;/p&gt;
-
-&lt;p&gt;A mindblight will likely open up with &lt;strong&gt;Mesmerizing Visage&lt;/strong&gt; (recharge 5+), a
-fireball-sized area attack that targets Will, does psychic damage, and inflicts
-a -1 penalty to saves (save ends). The penalty worsens to -3 after the first
-failed save.&lt;/p&gt;
-
-&lt;p&gt;Then it will move on to its at-will powers, which deal no damage but have “save
-ends” riders that capitalize on the Visage’s effect. &lt;strong&gt;Eye of Insanity&lt;/strong&gt; is a
-Ranged 5 attack that targets will and dominates with an after-effect that dazes
-the target for an additionall turn after they make their save. &lt;strong&gt;Necrotic Eye&lt;/strong&gt;
-is a Close Blast 5 that targets Fortitude and inflicts 10 ongoing necrotic
-damage (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;nothic-eye-of-vecna&quot;&gt;Nothic Eye of Vecna&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-nothic-eye-of-vecna.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For some reason, Vecna likes this nothic sub-species and heaps blessings upon
-them. They often hang around his cults. They’re Level 22 Lurkers with 162 HP,
-and project a &lt;strong&gt;Soul Decay&lt;/strong&gt; aura (3) that allows allied undead inside to make
-free melee basic attacks at the start of the nothic’s turn. So yeah, the best
-place for this lurker to lurk is amid a crowd of undead melee bruisers.&lt;/p&gt;
-
-&lt;p&gt;The Eye of Vecna is going to constantly emit pulses of &lt;strong&gt;Eye Rot&lt;/strong&gt; (minor
-action), which targets the fortitude of every enemy within 10 squares and makes
-the nothic invisible to them on a hit (save ends). This recharges when the
-monster isn’t invisible to anyone.&lt;/p&gt;
-
-&lt;p&gt;After it does that, it skitters among the enemies who can’t see it using
-&lt;strong&gt;Mobile Melee Attack&lt;/strong&gt;, which allows it to move its speed and make a basic claw
-attack at any point during the move, drawing no opportunity attacks from the
-target. That &lt;strong&gt;Claw&lt;/strong&gt; is pretty nasty on its own as well, dealing necrotic
-damage, immobilizing, and inflicting a -2 to all saving throws. &lt;strong&gt;Invisible
-Advantage&lt;/strong&gt; gives it an additional effect against targets who can’t see the
-nothic, opening the target up to an opportunity attack from another adjacent
-monster.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I think the basic visual design of the nothic is quite striking, but their
-mechanics don’t quite do it for me just from reading them. I guess they might
-feel differently in play.&lt;/p&gt;
-
-&lt;p&gt;Encounters with nothics are also likely to involve the powerful villains they
-serve. The book gives us three:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 14: A mind flayer infiltrator with an entourage of 2 nothic cacklers and
-2 war trolls.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 18: 2 aboleth lashers and their 2 pet mindblights in cahoots with a
-death hag.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 21: A dark naga with an honor guard of 3 bodak reavers and an Eye of
-Vecna pet.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/19/nothic.html</guid>
         
         <category>dnd4</category>
         
