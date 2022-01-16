@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-foulspawn.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Foulspawn had their 4e debut in the first Monster Manual. If you read the
 [post I wrote][2] about them, you'll see that MM1 Foulspawn were plagued by some
 design flaws, but you could speculate from their lore that they were the end
@@ -35,7 +44,7 @@ minds.
 ### Foulspawn Wretch
 
 Most unwilling victims probably turn into these. Wretches are Small Level 7
-Minion Skirmishers with low-light visions and the standard traits listed above.
+Minion Skirmishers with low-light vision and the standard traits listed above.
 
 They have a **Ceaseless Murmurs** passive trait that inflicts a -2 penalty to
 the Will of any PC adjacent to two or more wretches. Their basic **Claw** attack
@@ -93,7 +102,7 @@ move the zone up to 4 squares.
 Warpmind Field is an excellent fight opener if you drop it on the party's
 archers. If they move outside the zone to fire on their turn, Twisted Dismissal
 can push them back inside and keep them there, possibly combined with a move
-action spend moving the zone closer. And Warped Sending is another handy way to
+action spent moving the zone closer. And Warped Sending is another handy way to
 teleport your brutes past the PC's defenders.
 
 ## Friends and Final Impressions
@@ -107,6 +116,6 @@ but doesn't care how it happens.
 
 The lore remains the same, but the mechanics on these foulspawn are quite a bit
 better. I'm not just talking raw numbers either - the MM1 foulspawn rarely did
-more than spam basic melee attacks.
+more than spam basic melee attacks. These have a lot more variety.
 
 [2]: {{ "/2020/03/09/foulspawn.html" | relative_url }}
