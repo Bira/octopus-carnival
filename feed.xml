@@ -6,9 +6,160 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Jan 2022 13:28:48 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Jan 2022 13:28:48 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Jan 2022 15:08:51 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Jan 2022 15:08:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Slaughterstone Construct</title>
+        <description>&lt;p&gt;I think Slaughterstone Constructs first appeared on the D&amp;amp;D Miniatures game in
+late 3e. Their naming style marks them as a construct created after the
+“(Material) Golem” namespace had been mostly exhausted.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The approach to an underground dwarf fortress usually consists of a number of
+narrow tunnels, and that’s where most of the fighting happens when these places
+are attacked. Tunnel fighting is a nasty affair, particularly when it’s two
+large armies going at it. No place to run, no place to hide. Each inch of ground
+is bought with lives, and when you advance you step on the bodies of foe and
+friend alike.&lt;/p&gt;
+
+&lt;p&gt;Slaughterstone Constructs are the dwarven answer to this problem. They’re
+defensive siege engines built for the singular purpose of making sure the only
+ones who die are the invaders. Their intended usage is that you set them loose
+on a tunel and watch them run through it while turning everyone inside into
+chunky salsa. Their extreme toughness and strength means not many armies can
+stand up to them even in a more open field.&lt;/p&gt;
+
+&lt;p&gt;Creating a proper slaughterstone construct is quite difficult. To sculpt the
+body, you need a solid block of stone upon which the blood of a hero has been
+shed. Even if you have that stone, only the very best dwarf artificers can turn
+it into a construct. You’ll only find these things defending the largest and
+wealthiest dwarven kingdoms, or other places that have good relationships with
+them.&lt;/p&gt;
+
+&lt;p&gt;Note that the blood requirement doesn’t mean you need to &lt;em&gt;sacrifice&lt;/em&gt; a hero on
+the stone block. You could cut the stone from a cave or tunnel where that hero
+has fought. Alternatively, if your GM likes this sort of technically correct
+solution you could get yourself a brand new stone block and ask a certified war
+hero to prick their finger and let a drop of blood fall on it. Neither of these
+methods is easy (heroes don’t grow on trees!) but they’re far more ethical than
+sapient sacrifice.&lt;/p&gt;
+
+&lt;p&gt;If you have neither a master artisan nor a source of heroic blood but you still
+want your blender tank, you can pay a middling craftsdwarf for a knockoff that’s
+less reliable but still pretty strong.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three varieties of slaughterstone constructs here. Two “genuine” models
+and a knockoff. All of them are Large Natural Animates with the Construct
+keyword. They have darkvision, a ground speed of 6, and the ability to squeeze
+into Medium passages without any penalties and without granting combat
+advantage. They’re immune to poison, disease, and sleep.&lt;/p&gt;
+
+&lt;p&gt;Their Int is 1, the worst possible score, but you don’t need more than that when
+your only two functions are “walk forward” and “kill”. They probably respond to
+commands of equivalent complexity like “stop killing” and “go back to your
+garage”.&lt;/p&gt;
+
+&lt;h3 id=&quot;slaughterstone-eviscerator&quot;&gt;Slaughterstone Eviscerator&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaughterstone-eviscerator.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Eviscerators are armed with a large number of whirling scythe blades, and look
+a bit like super-edgy stone mantids. They’re Level 18 Brutes with 212 HP. The
+blades never stop moving, and to model that they have a &lt;strong&gt;Whirling Blades&lt;/strong&gt; aura
+(2) that deals 10 damage to anyone caught inside.&lt;/p&gt;
+
+&lt;p&gt;As weapons, those blades are are Reach 2 and have the High Crit property. Their
+basic attack deals heavy damage to a single target, and they can also be used in
+a &lt;strong&gt;Whirling Bladestorm&lt;/strong&gt; (recharge 6+) that hits everyone in a Close Burst 2
+for average damage. This makes them as dangerous in the open as in a tunnel.&lt;/p&gt;
+
+&lt;h3 id=&quot;slaughterstone-hammerer&quot;&gt;Slaughterstone Hammerer&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaughterstone-hammerer.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These are more robust than eviscerators and mount stone hammers instead of
+blades. Once they reach you, it’s really hard to get away from them. Hammerers
+are Level 25 Soldiers with 233 HP.&lt;/p&gt;
+
+&lt;p&gt;They project a &lt;strong&gt;Thunder Step&lt;/strong&gt; aura (2) that slows those caught inside. The
+hammers can be used in two different attacks: a basic &lt;strong&gt;Slam&lt;/strong&gt; that deals
+average damage and knocks prone, and a &lt;strong&gt;Hammerstrike&lt;/strong&gt; that deals the same
+damage and dazes (save ends).&lt;/p&gt;
+
+&lt;p&gt;None of the hammerer’s skills mark enemies, but if you use them properly enemies
+will have no option but to attack the hammerer anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;slaughterstone-slicer&quot;&gt;Slaughterstone Slicer&lt;/h3&gt;
+
+&lt;p&gt;This is our “knockoff”, described as a less powerful version of a genuine
+eviscerator. It’s a Level 11 Elite Brute with 276 HP.&lt;/p&gt;
+
+&lt;p&gt;Slicers have pretty much the same attacks and traits as eviscerators, with
+smaller numbers due to the level difference. Their Bladestorm is supposed to be
+an encounter power that recharges when the slicer is first bloodied, despite the
+“at-will” tag on it.&lt;/p&gt;
+
+&lt;p&gt;They also have a tendency to malfunction, becoming dazed for a turn after they
+either deal or take a critical hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Fourth Edition’s combat rules make these constructs even more dangerous than the
+lore indicates. Both the lore and the rules say a construct “plugs” a tunnel and
+prevents enemies from passing through. The rules also say that allies may freely
+move and attack through each others’ spaces.&lt;/p&gt;
+
+&lt;p&gt;This means slaughterstone constructs pair really well with artillery monsters,
+and with controllers that have good ranged attacks. They’re also pretty good
+with skirmishers who can dart forward, attack, and move behind the construct
+again. Even if they can’t do all that in the same turn, their exposure to the
+PCs is still reduced.&lt;/p&gt;
+
+&lt;p&gt;Our example encounters are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 11: 1 duergar blasphemer, 2 duergar fleshtearers, 1 slaughterstone
+slicers. Looks like it’s not just dwarves who build these.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 18: 2 Eldritch Giants, 1 Nothic Mindblight, 2 Slaughterstone
+Eviscerators. Maybe they conquered a dwarf fortress and stole the constructs?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 25: 1 Beholder Eye of Chaos, 1 Oni Thunderer, 3 Slaughterstone
+Hammerers. This is the “strong artillery”, “mobile skirmisher” setup I
+mentioned, in its epic incarnation. You think you’re safe because the corridor
+is 6 squares wide, and then you see three constructs side by side blocking all
+of it.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Slaad</title>
@@ -24,7 +175,7 @@ slaad spawning cycle.&lt;/p&gt;
 &lt;figure class=&quot;left&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaad-flux.png&quot;/&gt;
   &lt;figcaption&gt;
-    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
+    Copyright 2009 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -923,144 +1074,6 @@ skum. This is that packed room I told you about.&lt;/p&gt;
         <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/11/24/ooze.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/24/ooze.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Oni</title>
-        <description>&lt;p&gt;As mentioned in my post about &lt;a href=&quot;/octopus-carnival/2020/08/17/oni.html&quot;&gt;Monster Manual oni&lt;/a&gt;, oni have been in D&amp;amp;D
-since the beginning, but were only called by this name starting in 4e. Before,
-they were called by the more generic name of “ogre mage”.&lt;/p&gt;
-
-&lt;p&gt;There are many different stories about oni in Japanese folklore. The entries
-here in the MM2 are inspired by by some of them.&lt;/p&gt;
-
-&lt;p&gt;All oni in this entry are Natural Humanoids, and all but one are Large. They
-have darkvision and a signature trait named &lt;strong&gt;Deceptive Veil&lt;/strong&gt; that allows them
-to appear as any Medium or Large humanoid. Those trying to spot the disguise
-need to win an opposed Insight test against the monster’s Bluff.&lt;/p&gt;
-
-&lt;h2 id=&quot;oni-devourer&quot;&gt;Oni Devourer&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/wir-mm2-4e-oni-devourer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Oni Devourer. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These oni are sorcerous tricksters. By day they take the shape of ascetics,
-beggars and priests. By night they go out hunting for people to eat. Some
-stories tell of a large group of oni devourers that took over an entire isolated
-monastery, replacing all the monks and using the disguise to terrorize the
-neighboring regions. Devourers can also be found in the service of more powerful
-villains as advisors or “court magicians”.&lt;/p&gt;
-
-&lt;p&gt;Devourers are the only Medium oni in this entry, and are Level 7 Soldiers with
-78 HP. An Oni Devourer likely approaches its target in disguise using its
-&lt;strong&gt;Deceptive Veil&lt;/strong&gt; (which only lets them take Medium forms since they’re
-Medium). Then it uses &lt;strong&gt;Hypnotic Glare&lt;/strong&gt; (Ranged 10 vs. Will) that pulls the
-target 5 squares and dazes it (save ends). Once in melee range it’s going to use
-&lt;strong&gt;Devour&lt;/strong&gt; to deal heavy damage and inflict a -5 penalty to the target’s saves,
-and its basic &lt;strong&gt;claw&lt;/strong&gt; attack to damage and slow, preventing the victim from
-escaping.&lt;/p&gt;
-
-&lt;p&gt;An open fight will likely see the oni in its natural form from the start, but
-the general tactic will be the same. Despite not having a marking mechanic like
-other Soldiers they end up being quite sticky with their daze/slow/save penalty
-combination.&lt;/p&gt;
-
-&lt;h2 id=&quot;oni-overlord&quot;&gt;Oni Overlord&lt;/h2&gt;
-
-&lt;p&gt;In some stories oni aren’t subtle at all and instead lead gangs of monstrous
-bandits that try to rob and devour any hapless protagonists they come
-across. Oni Overlords are an attempt to translate those individuals to
-D&amp;amp;D. They’re Level 12 Elite Brutes with the Leader keyword and 296 HP.&lt;/p&gt;
-
-&lt;p&gt;Oni Overlords lead through fear: their &lt;strong&gt;Threatening Leader&lt;/strong&gt; aura (5) gives a
-+5 damage bonus to all allies inside, but also deals 5 psychic damage to them
-when they miss all targets with an attack. If you want to mitigate that downside
-you should give them allies capable of making area attacks. Conversely, if an
-ally damages an enemy, the overlord can use its reaction for a &lt;strong&gt;Violent
-Reward&lt;/strong&gt; that gives that ally 5 temporary HP.&lt;/p&gt;
-
-&lt;p&gt;While closing to melee range, the overlord can use &lt;strong&gt;Overlord’s Blast&lt;/strong&gt; (close
-blast 5 vs. Fortitude; recharges when first bloodied) to deal necrotic and
-poison damage to enemies, and also make them vulnerable to those two damage
-types (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;oni-thunderer&quot;&gt;Oni Thunderer&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/wir-mm2-4e-oni-thunderer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Oni Thunderer. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Oni Thunderers seem to be inspired by the myth of &lt;a href=&quot;https://www.japan-talk.com/jt/new/raijin-and-fujin&quot;&gt;Raijin&lt;/a&gt;, the god of
-thunder and storms, who according to the link looked kinda oni-ish and caused
-trouble as often as he helped.&lt;/p&gt;
-
-&lt;p&gt;These oni are extremely strong but not divine. There’s usually nothing good
-about them, either. They love a fight, and when they get into one they
-complement their weapon attacks with thunder magic and teleportation. Their
-weapon of choice seems to be a spiked chain, likely inspired by Raijin’s
-drum-aura thing. I imagine they usually hang out with other rowdy epic
-storm-based creatures.&lt;/p&gt;
-
-&lt;p&gt;Thunderers are Large Natural Humanoids, and Level 22 Skirmishers with 206
-HP. They have dark vision, a ground speed of 8, and a teleport speed of 8
-(meaning they can teleport at-will with a move action).&lt;/p&gt;
-
-&lt;p&gt;Their oversized &lt;strong&gt;spiked chains&lt;/strong&gt; are Reach 3, do a mix of physical and thunder
-damage, and pull the target adjacent to the oni on a hit.&lt;/p&gt;
-
-&lt;p&gt;Their teleport speed already makes them hard to pin down, and they can use them
-as part of a &lt;strong&gt;Thunderclap Portal&lt;/strong&gt; maneuver (recharge 4+). This lets them
-teleport their speed and perform a special attack either before or after that
-teleport. This is a close burst 2 that heavy thunder damage and pushes all
-enemies in the area. An enemy who was grabbed by the oni’s chain takes even more
-damage, though this ends the grab.&lt;/p&gt;
-
-&lt;p&gt;When hit by an attack, the thunderer can react with &lt;strong&gt;Chain Dance&lt;/strong&gt; and teleport
-3 squares. Finally, they have the same Deceptive Veil power as all the other
-oni, though they’re unlikely to use it often.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get a mix of encounters here illustrting the sort of monsters oni might see
-as servants, equals, or masters depending on their relative power levels.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: 2 oni devourers, 1 oni night haunter, 1 troll. Your typical cannibal
-giant gang.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 12: 1 oni overlord, 3 minotaur warriors, 2 scytheclaw drakes. These look
-more like a bandit leader and his lieutenants, likely running a gang of humans
-or other smaller humanoids.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 22: 2 death giants, 3 oni thunderers. Funny, I’d have expected storm
-giants. But this does prevent the PCs from totally nerfing the encounter with
-a single damage resistance power.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I like the variety of oni we’re getting here. A large body of legend demands
-lots of different stat blocks covering different aspects of it.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/11/22/oni.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/11/22/oni.html</guid>
         
         <category>dnd4</category>
         
