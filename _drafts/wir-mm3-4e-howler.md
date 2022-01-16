@@ -101,3 +101,12 @@ immediate psychic damage and dazes (save ends) on a hit.
 **Shadow Lope** (recharge 4+) provides the ability to set up for a Shadow of
 Terror attack: it allows the howler to become invisible for a turn and move its
 speed.
+
+## Final Impression
+
+Howlers are far from the first dog monsters to show up in D&D. They're not even
+the first dog monsters with fear powers. Still, you can use them in your
+campaign in place of wargs and other similarly-leveled canine menaces for added
+variety. The Doom Mastiff's ability to act as a mount also makes it an possible
+replacement for a Nightmare. Anyone who would ride an Evil Fire Horse would also
+certainly ride an Evil Fear Dog.
