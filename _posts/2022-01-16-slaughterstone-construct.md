@@ -24,7 +24,7 @@ defensive siege engines built for the singular purpose of making sure the only
 ones who die are the invaders. Their intended usage is that you set them loose
 on a tunel and watch them run through it while turning everyone inside into
 chunky salsa. Their extreme toughness and strength means not many armies can
-stand up to them even in more open field.
+stand up to them even in a more open field.
 
 Creating a proper slaughterstone construct is quite difficult. To sculpt the
 body, you need a solid block of stone upon which the blood of a hero has been
@@ -37,7 +37,7 @@ Note that the blood requirement doesn't mean you need to _sacrifice_ a hero on
 the stone block. You could cut the stone from a cave or tunnel where that hero
 has fought. Alternatively, if your GM likes this sort of technically correct
 solution you could get yourself a brand new stone block and ask a certified war
-hero to prick his finger and let a drop of blood fall on it. Neither of these
+hero to prick their finger and let a drop of blood fall on it. Neither of these
 methods is easy (heroes don't grow on trees!) but they're far more ethical than
 sapient sacrifice.
 
@@ -60,6 +60,15 @@ garage".
 
 ### Slaughterstone Eviscerator
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-slaughterstone-eviscerator.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Eviscerators are armed with a large number of whirling scythe blades, and look
 a bit like super-edgy stone mantids. They're Level 18 Brutes with 212 HP. The
 blades never stop moving, and to model that they have a **Whirling Blades** aura
@@ -71,6 +80,15 @@ a **Whirling Bladestorm** (recharge 6+) that hits everyone in a Close Burst 2
 for average damage. This makes them as dangerous in the open as in a tunnel.
 
 ### Slaughterstone Hammerer
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-slaughterstone-hammerer.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 These are more robust than eviscerators and mount stone hammers instead of
 blades. Once they reach you, it's really hard to get away from them. Hammerers
@@ -90,7 +108,7 @@ This is our "knockoff", described as a less powerful version of a genuine
 eviscerator. It's a Level 11 Elite Brute with 276 HP.
 
 Slicers have pretty much the same attacks and traits as eviscerators, with
-smaller numbers due to the leve difference. Their Bladestorm is supposed to be
+smaller numbers due to the level difference. Their Bladestorm is supposed to be
 an encounter power that recharges when the slicer is first bloodied, despite the
 "at-will" tag on it.
 
