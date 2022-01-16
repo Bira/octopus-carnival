@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual 3: Imix"
+title: "Let's Read the 4e Monster Manual 3: Imix, Part 1"
 tags:
     - dnd4
     - lets-read
@@ -62,7 +62,7 @@ wish is to do Imix's bidding and help free the Eye.
 They usually hide out among sapient communities and sow division and discord,
 encouraging its inhabitants to rebel and fight among themselves. Their temples
 tend to be built inside ruins and other scary places. The cultists protect them
-vigilantly and burn anyone who gets too close to death.
+vigilantly and burn to death anyone who gets too close.
 
 More important temples are usually dedicated to the Elder Elemental Eye and
 protected by two or more Elemental Prince cults, who spend as much time
@@ -74,46 +74,10 @@ mercenaries and servants they manage to recruit.
 ## The Monsters
 
 This entry contains stats both for Imix himself and for a wide range of cultists
-and servitors that go from mid-Heroic to late Epic. I'm going to list them in
-order of increasing level with Imix at the end, which is not exactly how the
-book does it.
+and servitors that go from mid-Heroic to late Epic. Describing them all in one
+post would make it into a formidable wall of text, so I'm breaking them up a
+bit. This introduction post ends here. The next one will have the cultists in
+order of level, and the final one will have Imix himself. See you there!
 
-The cultist lineup here is pretty diverse, species-wise, for the Fire Lord isn't
-picky like those posers Yeenoghu and Baphomet. He'll find a use for anyone
-willing to swear the oaths, even if that use is "walking bomb". You can always
-mix these stat blocks with more typical stat blocks for humans and other
-humanoid opposition, reskinned or not.
-
-### Fire Lord Cultist
-
-This Level 5 Minion Brute represents the bulk of the cult's low-ranking
-followers. They have a speed of 6 and fight with torches and **clubs**. Their
-melee attacks deal extra damage if they're adjacent to an ally, so they have an
-incentive to cluster around a PC.
-
-They can also use that torch in the **Ignite** ability. This encounter power is
-a melee attack that targets Reflex and deals ongoing 5 fire damage (save
-ends). Make sure this is their first attack, because they might not get a chance
-to use it otherwise.
-
-### Servant of the Fire Lord
-
-A more senior and better-trained cultist. Servants of the Fire Lord tend to hide
-out in sapient communities disguised as clerics of more benign deities. They use
-this cover to undermine the community and spread Imix's influence over it.
-
-The Servant stat block depicts a half-elf. It's a Level 6 Skirmisher with the
-Leader tag and 73 HP. Their ground speed is 6 and they have low-light vision.
-
-Servants try to always keep moving in order to benefit from their **Wildfire
-Stride** passive trait: if they move at least 3 squares, their attacks deal +5
-fire damage for a turn.
-
-They wield **scimitars** that can performa a standard basic attack and an
-**Immolating Strike**, which is a bit weaker but deals ongoing 5 fire damage
-(save ends). The basic strike itself is also kinda weak - it's the Wildfire
-Stride damage bonus that brings it to the expected level of damage.
-
-Their "leaderly" skill is the **Gift of Fire** (recharge 5+), a minor action
-that gives every ally within 5 squares a +5 fire damage bonus that lasts for a
-turn.
+I'm going to list them in order of increasing level with Imix at the end, which
+is not exactly how the book does it.
