@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-frog.png" | absolute_url }}" width=800/>
+  <figcaption>
+    Not a D&D illustration.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Every individual roleplayer has a set of D&D monsters they consider "iconic",
 regardless of what the publisher has to say about it. Years ago, I remember one
 such player saying that to him "giant fucking frogs" were the most iconic D&D
@@ -16,9 +25,9 @@ when 4e finally becomes D&D.
 
 ## The Lore
 
-Real-world frogs are usually quite useful creatures. They're harmless to humans
-and eat disease-spreading insects. Some consider them cute and, if nothing else,
-they can be tasty when properly prepared.
+Real-world frogs are usually quite useful creatures. Most species are harmless
+to humans and eat disease-spreading insects. Some consider them cute and, if
+nothing else, they can be tasty when properly prepared.
 
 In typical D&D fashion, this book calls such creatures "pests" because they're
 not fuzzy wabbits. And then it moves on to focus on monstrous frogs, who are big
@@ -56,6 +65,15 @@ In short, these critters do everything you could expect from a classic giant
 frog.
 
 ### Sporeback Frog
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-sporeback.png" | absolute_url }}" width=800/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Sporebacks are the laziest hunters imaginable. They pick a spot and wait there
 for prey to wander into the reach of their barbed tongues. They move so little
