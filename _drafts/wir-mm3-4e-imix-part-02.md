@@ -127,3 +127,78 @@ ends).
 Flameborn pair well with skirmishers that possess sneak-attack-like
 abilities. They can also grant fire resistance to their front-line without
 having to stand right behind it.
+
+## Conflagration Orb
+
+This is not a cultist, but rather something they might summon with high-level
+rituals. Conflagration Orbs are avatars of Imix, and look like miniature suns.
+They contain a fragment of Imix's power and are loyal only to him. They'll work
+alongside the cultists that summon them, because the cult's goals usually
+coincide with the primordial's, but they are totally unconcerned with the safety
+of the cultists and will happily include them in their area attacks if it means
+hitting the PCs as well.
+
+It's interesting that the book uses the word avatar here. It appears to be a
+primordial-specific term, since the equivalent entity for a god or demon lord is
+called an "Aspect". Then again it could also be just an editorial oversight.
+
+Anyway, Conflagration Orbs are Level 20 Artillery with 143 HP. They can roll
+around at speed 6, but prefer to use their flight speed of 8 (hover)
+instead. They're immune to disease and have Resist 20 Fire. Its basic melee
+attack is named **Rolling Frame**, and consists of bumping into people. The
+attack allows the orb to shift 1 square as an effect, targets Reflex, and deals
+immediate and ongoing fire damage. Its ranged **Scorching Bolts** have much the
+same effects but are stronger, and the orb can fire two of them against
+different targets in a single action.
+
+The orb complements this with occasional **Fire Tempests** (recharge 5+) which
+allow them to make three area attacks that deal fire damage and increase any
+ongoing fire damage the targets are suffering by 5. The three areas can't have
+any squares in common.
+
+If the orb is surrounded it can release **Waves of Flame** to get some
+space. This deals fire damage in a Close Burst 3, and pushes any targets it hits
+3 squares. It also creates a zone that lasts for a turn, partially obscures the
+orb, and deals 10 fire damage to enemies caught inside.
+
+Scorching Bolt and Fire Tempest are very strong powers, because they're
+multi-attacks that each do the full expected damage amount for a monster of this
+level. The orb can't target the same enemy multiple times, but it's still very
+good at spreading the hurt around.
+
+## Chosen of Imix
+
+The Chosen are the highest ranking priests in the cult. Each of them is in
+charge of a major temple and commands a sizable force of mortal followers,
+mercenaries, and elemental servants. They commune directly with Imix and
+transmit his orders to the other members of the court.
+
+Chosen rarely leave their temple's inner sanctum, as this is where their power
+is greatest. The book recommends making these sanctums into Fonts of Power, a
+special terrain type described in the DMG that enhances the damage of attacks
+that have a matching elemental keyword (fire, in this case). Since the Chosen is
+an epic tier enemy, they'll be fighting in terrain that gives their fire attacks
+a whopping +15 bonus damage! PCs planning to attack a temple of Imix would do
+well to figure out a way to engage the Chosen outsid this sanctum.
+
+Chosen are Level 22 Controllers with the Leader keyword. They have a stronger
+version of the Flameborn's Fire Within aura, granting 10 fire resistance to all
+allies within 5 squares. Their basic melee attack is a **dagger** that damages
+targets and makes them vulnerable 10 to fire for a turn. Pretty much ever other
+attack they know  has the Fire keyword, so they're going to benefit from this
+vulnerability _and_ from that Font of Power bonus damage.
+
+Their basic ranged attack is a **Fire Orb** that deals fire damage to the
+target, and 5 damage to each enemy adjacent to the target. Before they resort to
+that, though, they'll fill the map with **Servants of Elemental Fire**. This
+power is a standard action that summons a "fire grue" to a space within 10
+squares of the Chosen. Fire grues are minions with the same defenses as the
+Chosen. They can't make attacks, but each enemy that starts their turn adjacent
+to one or more grues takes 10 fire damage (subject to those situational bonuses
+I mentioned earlier). The Chosen can spend a minor action to move all grues on
+the map up to 6 squares. They can have up to four grues summoned, or six when
+they're bloodied.
+
+Once per encounter they can use **Fire's Fury** to detonate a fire grue,
+attacking a Close Burst 1 around it. The explosion deals fire damage and dazes
+(save ends) on a hit.
