@@ -135,6 +135,7 @@ variants here. Here they are, from A to Z:
   - [Skeleton][78]
   - [Slaad][79]
   - [Slaughterstone Construct][80]
+  - [Sphinx][81]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -218,3 +219,4 @@ variants here. Here they are, from A to Z:
 [78]: {{ "/2021/12/23/skeleton.html" | relative_url }}
 [79]: {{ "/2022/01/05/slaad.html" | relative_url }}
 [80]: {{ "/2022/01/16/slaughterstone-construct.html" | relative_url }}
+[81]: {{ "/2022/01/19/sphinx.html" | relative_url }}
