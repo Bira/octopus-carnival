@@ -6,9 +6,189 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jan 2022 20:46:38 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Jan 2022 20:46:38 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Jan 2022 18:07:00 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Jan 2022 18:07:00 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Spider</title>
+        <description>&lt;p&gt;If there’s one thing that D&amp;amp;D doesn’t lack, it’s monstrous spiders. The Monster
+Manual gave us a bunch of them; the Monster Vault would update some of these and
+add new ones. The Monster Manual 2, published between those two books, adds a
+whole new batch that doesn’t overlap with either of the other books.&lt;/p&gt;
+
+&lt;p&gt;All of the spiders here have Tremorsense 10 and a climb speed enhanced by the
+Spider Climb trait, which allows them to walk on ceilings. They also have a Web
+Walker trait that allows them to ignore difficult terrain caused by
+webs. Finally, they have the very obvious Spider keyword, which allows them to
+be affected by all those drow and ettercap abilities that benefit “spider
+allies”.&lt;/p&gt;
+
+&lt;h2 id=&quot;bristle-spider&quot;&gt;Bristle Spider&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-bristle.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These elephant-sized arachnids were originally bred by oni to serve as their
+mounts. In our narrative present, several other peoples have adopted them as
+well. Their biggest fans are the ettercap and the drow, neither of which have
+ever met a spider monster they didn’t like.&lt;/p&gt;
+
+&lt;p&gt;Bristle spiders can also be found in the wild, where they inhabit dense jungles
+and caves. These environments tend to have enough cover to allow even these huge
+monsters to hide effectively and ambush their prey.&lt;/p&gt;
+
+&lt;p&gt;Bristle Spiders are Huge Natural Beasts, and Level 15 Elite Lurkers with 232
+HP. They have a ground speed of 8 and a climb speed of 6. I don’t know if they
+make webs themselves, but they still have Web Walker. As lurkers, they’re
+trained in Stealth.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a venomous &lt;strong&gt;Bite&lt;/strong&gt; that deals damage with slow and
+ongoing poison damage riders. They can also spit an &lt;strong&gt;Acidic Poison Spray&lt;/strong&gt; in a
+Close Blast 5. This targets reflex and deals both instant and ongoing “acid and
+poison” damage, and also slows.&lt;/p&gt;
+
+&lt;p&gt;Those bristles are also useful in combat as part of the &lt;strong&gt;Bristle Blast&lt;/strong&gt; attack
+(recharge 4+). This is a minor action, Close Blast 5 attack against
+Fortitude. It deals no damage, but a hit blinds and dazes the target for a turn.&lt;/p&gt;
+
+&lt;p&gt;Despite being an elite, the bristle spider lacks a double attack
+ability. Instead it relies on its at-will acidic poison blast to hit multiple
+PCs per attack, with a side order of bristles to keep them vulnerable. It would
+probably work better as an elite controller than an elite lurker, with more HP
+and better AC.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 14 and has a bristle spider acting as a palanquin
+for a drow priestess and her drow blademaster bodyguard.&lt;/p&gt;
+
+&lt;h2 id=&quot;phase-spider&quot;&gt;Phase Spider&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-phase.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A returning classic, Phase Spiders have undergone some changes to account for
+the absence of an Ethereal plane in 4e. Here, they’re fey spiders with innate
+teleportation powers. They were originally created by the eladrin as biological
+weapons meant to infiltrate the halls of the drow and wreak havoc inside. It’s a
+spider arms race!&lt;/p&gt;
+
+&lt;p&gt;These spiders can survive nearly anywhere as long as they have prey to
+hunt. Their favorite targets are fey creatures, to the extent that they’ll go
+after the fey members of a mixed-origin party even if a non-fey target would be
+more advantageous. This behavior was probably an attempt by eladrin wizards to
+get them to go after drow. You can imagine how that turned out.&lt;/p&gt;
+
+&lt;p&gt;Phase Spiders are Large Fey Beasts, and Level 8 Skirmishers with 87 HP. They
+have ground, climb, and &lt;em&gt;teleport&lt;/em&gt; speeds of 6. Good luck pinning them down.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; deal somewhat low damage, but have a dangerous rider: targets
+are initially slowed, but after the first failed save they become
+unconscious. This is also a (save ends) condition, but the victim is completely
+unable to act while it lasts &lt;em&gt;and&lt;/em&gt; is even more vulnerable to attack than if
+they were “just” stunned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ethereal Bite&lt;/strong&gt; allows the spider to teleport 10 squares and make a bite
+attack, working as a good ambush starter. &lt;strong&gt;Ethereal Repulsion&lt;/strong&gt; is an interrupt
+that triggers when an enemy moves adjacent to the spider: it attacks their Will
+and teleports them 4 squares on a hit.&lt;/p&gt;
+
+&lt;p&gt;This makes ranged attacks the best way to deal with phase spiders. They, in
+turn, will eagerly teleport to the party’s back line and munch on the squishies,
+relying on Ethereal Repulsion to delay any rescue by the melee defenders.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 7 and features two eladrin fey knights leading a
+pack of three trained phase spiders.&lt;/p&gt;
+
+&lt;h2 id=&quot;tomb-spider&quot;&gt;Tomb Spider&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-tomb.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These rotund arachnids are a Shadowfell species that has particularly strong
+incentives to seek out passages into the world. Their lifecycle requires them to
+lay eggs inside corpses, so they seek out crypts and graveyards for use as
+breeding grounds.&lt;/p&gt;
+
+&lt;p&gt;When the eggs hatch they animate the corpse, which acts as ambulatory shelter
+for the hatchlings until it finally splits open and lets them out. Orcus
+cultists just looove tomb spiders, as do all other types of death-themed
+villain.&lt;/p&gt;
+
+&lt;p&gt;Tomb Spiders are Large Shadow Beasts, and Level 11 Elite Controllers with 226
+HP. They have Resist 10 Necrotic, along with ground and climb speeds of 6. Their
+&lt;strong&gt;bites&lt;/strong&gt; damage, daze, and inflict ongoing necrotic damage (save ends
+both). Someone bitten by the spider can’t use the Second Wind action until the
+end of the encounter, though they can still be healed by other means.&lt;/p&gt;
+
+&lt;p&gt;These spiders definitely to spin webs: they can shoot &lt;strong&gt;Web Nets&lt;/strong&gt; at single
+targets as a minor action (Ranged 10 vs. Reflex). A hit restrains the target and
+makes them vulnerable to necrotic damage until they pass a save. Less often,
+they can squeeze out a glob of &lt;strong&gt;Webbed Terrain&lt;/strong&gt; (recharge 5+), which affects a
+large area and immobilizes on a hit. Hit or miss, the webs remain as difficult
+terrain until the end of the encounter.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 11 and features a deatphriest of orcus leading 2
+battle wights and 3 cultists to battle, using the tomb spider as armored
+support.&lt;/p&gt;
+
+&lt;h2 id=&quot;tomb-spider-broodswarm&quot;&gt;Tomb Spider Broodswarm&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-tomb-broodswarm.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is a swarm of tiny tomb spiders that has just burst out of their corpse
+nest. It’s a Medium Shadow Beast (Swarm), and counts as a Level 10 Lurker with
+84 HP. It has the standard spider traits from this entry, and the standard swarm
+traits of being resistant to melee and ranged attacks, and vulnerable to area
+attacks.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows those caught inside. Its &lt;strong&gt;Swarm of Bites&lt;/strong&gt;
+attack is a lesser version of mommy’s bite, and instead of attacking it can use
+&lt;strong&gt;Shadow Drift&lt;/strong&gt; (recharge 5+) to shift shift 5 squares and gain +4 to all
+defenses for a turn.&lt;/p&gt;
+
+&lt;p&gt;There are no stats for the undead corpse that houses the spiders, but you can
+probably use something like a non-royal mummy described as being wrapped in webs
+instead of linen wraps. Depending on your tastes, it could be a minion that
+disgorges a Broodswarm when killed, a &lt;em&gt;regular&lt;/em&gt; that does the same (and thus
+counts as an elite two-stage monster), or a regular reskinned mummy if you want
+the young swarm to die when it dies instead of bursting out.&lt;/p&gt;
+
+&lt;p&gt;No sample encounter here, as the adult tomb spider used the space for it.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I kinda like the phase and tomb spider mechanics… but in the end, it’s more
+spiders. By the end of the edition we’ll end up with enough spider variants that
+you’ll have one for every situation, but you should definitely not use all of
+them in the same campaign.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/01/20/spider.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/20/spider.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Sphinx</title>
@@ -1019,46 +1199,6 @@ fire guy” alongside azers, genasi and salamanders.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nordlond Bestiary Kickstarter Campaign</title>
-        <description>&lt;p&gt;I’m a bit late to the promotion bandwagon for the &lt;a href=&quot;https://www.kickstarter.com/projects/gamingballistic/nordlond-bestiary-and-enemies-book&quot;&gt;Nordlond Bestiary&lt;/a&gt;, since
-there’s only a few days left in the project. But I’m still going to say it: go
-back the &lt;a href=&quot;https://www.kickstarter.com/projects/gamingballistic/nordlond-bestiary-and-enemies-book&quot;&gt;Nordlond Bestiary&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The book is already funded. If you back the project, you &lt;em&gt;will&lt;/em&gt; get your
-reward, and you’ll be contributing to possibly making it &lt;em&gt;bigger&lt;/em&gt;. There’s a
-chance it might make the first stretch goal, which means 16 extra pages full of
-undead abominations for use in any GURPS campaign that needs monsters.&lt;/p&gt;
-
-&lt;p&gt;One of the classic complaints of many new and veteran GURPS players is the lack
-of a “proper monster book” for GURPS 4th Edition. Lots of books include a small
-sample selection and tips on making more yourself, but there’s no official
-“one-stop-shop” for ready-made critter stat blocks. And of course, this being
-GURPS it’s kinda hard to make a truly generic monster book, since whether a
-given monster is an impossible challenge or a mere speedbump depends on who your
-PCs are.&lt;/p&gt;
-
-&lt;p&gt;The Nordlond Bestiary is probably the closest we can get to that mythic book - a
-chunky selection of creatures suitable for Dungeon Fantasy campaigns. DF has a
-well-known starting point total and a known set of PC templates, you can easily
-know how the monsters are callibrated. And it’s also the genre that’s more
-likely to need a “monster book” anyway.&lt;/p&gt;
-
-&lt;p&gt;The book will be made for use with the DFRPG boxed set, but it’s also perfectly
-usable with the GURPS core books if that’s what you have. And since you know
-what sort of PC these monsters were made to fight, you can also adjust them for
-your specific campaign more easily.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/02/nordlond-bestiary.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/02/nordlond-bestiary.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
