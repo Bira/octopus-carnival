@@ -75,7 +75,8 @@ opportunity attacks from the other during this movement.
 
 I left the basic **Claw** attack for last because it interacts with the above
 abilities: aside from doing the usual heavy damage of a Brute, it allows the
-monster to use Skewering Drag as a free action.
+monster to use Skewering Drag as a free action. Attacking the grabbed victim is
+a perfectly valid choice, mind you.
 
 In combat they'll do their best to impale and drag an enemy away. If the charge
 fails they prefer to fly away and try again rather than stand and fight with
@@ -90,7 +91,7 @@ preferred variant of Elemental Eye cultists. They're Level 8 Minion Soldiers.
 Their **claw** attacks are nothing special, but they also have a **Cruel Claws**
 passive that deals 4 damage to an enemy who leaves a square adjacent to the
 gargoyle. That's not a lot, but it triggers on a shift and _stacks_. Surround a
-PC with these beasts leave only one way out. Dare them to take it.
+PC with these beasts. Leave only one way out. Dare them to take it.
 
 ### Runic Gargoyle
 
@@ -130,7 +131,7 @@ fly, they also pair well with pits and other floor-based hazards.
 ## Final Impressions
 
 The stat blocks in this entry don't really change my general opinion of
-gargoyles. They're might be _too_ iconic, as the exceptional case in a D&D
+gargoyles. They might be _too_ iconic, as the exceptional case in a D&D
 adventure is meeting an inanimate gargoyle statue who _won't_ come to life and
 try to kill you. For this reason, you don't want to use them too much in your
 actual game. Still, by combining the MM3 and the MV you have enough variants to
