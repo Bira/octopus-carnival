@@ -6,9 +6,259 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jan 2022 01:58:01 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Jan 2022 01:58:01 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Feb 2022 13:14:14 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Feb 2022 13:14:14 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Sprite Swarm</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-sprite-swarm.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Sprites are super-tiny humanoid fey, tinier even than the pixies that would show
+up as a playable option in &lt;em&gt;Heroes of the Feywild&lt;/em&gt;. I think they’ve been in the
+game since at least AD&amp;amp;D 1st Edition in some for or another.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Sprites in earlier editions tended to be described as just tiny fairy folk who
+liked all the usual Victorian Fairy things like song and dance and pastoral
+nature. They might have a propensity for pranks, but normally didn’t get more
+aggressive than that unless the PCs were out to exterminate them. A single
+sprite was pretty much harmless, but they often came in large numbers.&lt;/p&gt;
+
+&lt;p&gt;These aren’t the sprites from earlier editions. These are Umbral Sprites.&lt;/p&gt;
+
+&lt;p&gt;Umbral Sprites are just as tiny as the nice variety, but they’re cruel,
+violent, and territorial. Interactions between them and the PCs skip right past
+the talky and pranky stages and go right to combat as swarms of these things
+descend upon them. A single umbral sprite is still harmless to an adventurer,
+but a swarm of them is dangerous enough to get monster stats.&lt;/p&gt;
+
+&lt;p&gt;Though these tiny terrors are native to the Feywild, they tend to seek out areas
+that contain crossings to the Shadowfell to claim as territory. Spriggans and
+ill-intentioned gnomes tend to ally with them and use them as diversions for
+subtler schemes. It’s hard to notice gnomes sneaking into your vaults when you
+have a cloud of angry sprites poking out your eyes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;This entry gives us stats for a fairly small swarm of umbral sprites. This is a
+Medium swarm composed of Fey Humanoids, and counts as a Level 4 Controller with
+55 HP. It has blindsight with range 6, a ground speed of 4, and a flight speed
+of 6 with Hover.&lt;/p&gt;
+
+&lt;p&gt;It also has the standard swarm traits: it takes half damage from single-target
+attacks, and extra damage from area attacks. Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals
+3 damage to creatures caught inside.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Swarm of Fangs and Blades&lt;/strong&gt;, but aside from the name
+it’s nothing spectacular. Their special &lt;strong&gt;Darkwave&lt;/strong&gt; attack (recharge 5+) is
+more impressive. It’s a Close Burst 3 that targets Reflex, does necrotic damage,
+and creates a zone of darkness that lasts for a durn.&lt;/p&gt;
+
+&lt;p&gt;They also have the gnome’s &lt;strong&gt;Fade Away&lt;/strong&gt; power, becoming invisible as a reaction
+to taking damage once per encounter. This invisibility lasts for a turn, or
+until they hit or miss with an attack.&lt;/p&gt;
+
+&lt;p&gt;When fighting a group of PCs, they’re going to rely on Darkwave to keep them in
+the dark and will use basic attacks and the swarm aura to deal damage while that
+power recharges. The sprites are unaffected by their own darkness due to their
+blindsight.&lt;/p&gt;
+
+&lt;h3 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions.&lt;/h3&gt;
+
+&lt;p&gt;You can model a larger group of umbral sprites by using several swarms in an
+encounter, or by increasing the level and size of a single one. They also make
+me think about adapting &lt;a href=&quot;https://www.drivethrurpg.com/product/152691/The-Dreams-of-Ruin&quot;&gt;The Dreams of Ruin&lt;/a&gt; to 4e, because they look like
+they are the base creature for Murdersprites. A murdersprite swarm is probably
+more like a Colossal Level 14-18 Brute, though.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is Level 5, and is a grab-bag of Feywild hazards: 2
+ettercap fang guards working with 2 sprite swarms and 2 fey panthers.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/01/sprite.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/01/sprite.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Spriggan</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spriggan.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;I can’t find spriggans in my 2nd edition and earlier books, but I know they’re
+in Pathfinder, so they were probably introduced in D&amp;amp;D 3.x. This entry is their
+4e debut. It feels like there’s been some condensing here because this entry
+also uses several other names that I’m sure belonged to separate “small evil
+fey” enemies, like “redcap” and “powrie”.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Back in the &lt;a href=&quot;/octopus-carnival/2020/04/21/gnome.html&quot;&gt;post on gnomes&lt;/a&gt;, we already saw that the gnome people used to be
+enslaved by the fomorians in the ancient past, but that they managed to
+escape. Here, we learn that not all of them managed to get away. Those
+unfortunates were eventually twisted into spriggans by fomorian magic. It’s
+unclear whether this happened as punishment for the escape attempt, or during
+some subsequent experiment.&lt;/p&gt;
+
+&lt;p&gt;The book doesn’t describe present-day spriggans as fomorian slaves, so maybe
+they were discarded by their former masters as failures. They live in
+underground settlements excavated under rugged terrain.&lt;/p&gt;
+
+&lt;p&gt;Fomorian magic warped spriggan hearts as much as it did their bodies. Soaking
+stuff in the blood of enemies seems to be a big deal to them. Their habit of
+doing that to their hats caused them to also be known as redcaps by other
+sapients. Spriggan communities delight in raiding, tormenting and extracting
+tribute from their weaker neighbors, behaving pretty much like bandit gangs.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Spriggans are Small Fey Humanoids with low-light vision and a ground speed
+of 6. Their signature ability is &lt;strong&gt;Redcap Zeal&lt;/strong&gt;, a free-action encounter power
+that grants them temporary HP when they bloody or defeat an enemy.&lt;/p&gt;
+
+&lt;h3 id=&quot;spriggan-giantsoul&quot;&gt;Spriggan Giantsoul&lt;/h3&gt;
+
+&lt;p&gt;Giantsouls tap into the fomorian magic in their blood, which gives them enhanced
+strength and the ability to stretch their arms to gain a giant’s reach. They’re
+Level 8 Brutes with 106 HP.&lt;/p&gt;
+
+&lt;p&gt;These spriggans fight unarmed, using &lt;strong&gt;slams&lt;/strong&gt; as their basic attack. The
+stretch-arm thing comes into play in the &lt;strong&gt;Giantsoul Slam&lt;/strong&gt; special attack
+(recharge 4+), which is Reach 2, does the same damage as the slam, and knocks
+prone on a hit. Both attacks deal bonus damage when the spriggan is bloodied.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, the giantsoul can use a &lt;strong&gt;Surprise Slam&lt;/strong&gt;, an interrupt that
+triggers when an enemy within 2 squares of them attacks an ally. This allows it
+to use Giantsoul Slam against the triggering enemy, recharging the ability if
+necessary.&lt;/p&gt;
+
+&lt;p&gt;They’re good frontliners, with a limited ability to protect squishier allies
+when the PCs try to get around them.&lt;/p&gt;
+
+&lt;h3 id=&quot;spriggan-powrie&quot;&gt;Spriggan Powrie&lt;/h3&gt;
+
+&lt;p&gt;All spriggans use iron-shod boots as part of their combat gear, but powries have
+a particular dedication to the fine art of stomping. They’re Level 7 Skirmishers
+with 79 HP.&lt;/p&gt;
+
+&lt;p&gt;The powrie fights with a &lt;strong&gt;sickle&lt;/strong&gt; that does light physical damage and inflicts
+ongoing damage. It can also be used in a &lt;strong&gt;Hamstring&lt;/strong&gt; special attack that has
+the same effects and also knocks prone and slows for a turn. This recharges when
+the powrie is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Against prone enemies it can use the amusing &lt;strong&gt;Punt The Fallen&lt;/strong&gt; attack, which
+deals the same damage as the sickle and pushes 3 squares. The best thing about
+this attack is that it’s an at-will minor action!&lt;/p&gt;
+
+&lt;p&gt;If the powrie has combat advantage against a creature taking ongoing damage,
+attacking that creature with any of the above will also increase their ongoing
+damage by 5.&lt;/p&gt;
+
+&lt;p&gt;Finally, the &lt;strong&gt;Blood Slide&lt;/strong&gt; passive trait prevents the powrie from provoking
+opportunity attacks when leaving a square adjacent to a creature who’s bloodied
+or taking ongoing damage.&lt;/p&gt;
+
+&lt;p&gt;So most of the time a powrie will be attacking enemies with the sickle and
+moving around the battlefield with the aid of Blood Slide in order to spread as
+much ongoing damage around as possible, and will then seek combat advantgae
+against a single target. Hamstring and Punt the Fallen is an hilarious
+combination, and the latter means powries pair really well with other enemies
+who can drop targets prone more often. Multiple powries in a fight mean you can
+begin an impromptu soccer match with a prone PC as the ball.&lt;/p&gt;
+
+&lt;h3 id=&quot;spriggan-thorn&quot;&gt;Spriggan Thorn&lt;/h3&gt;
+
+&lt;p&gt;The spriggan thorn is armed with a short sword and a light shield, which are
+imbued with a curse of thorns. The sword itself is enveloped in them, and the
+spriggan can curse an enemy and cause thorns to spring from under their
+skin. It’s a Level 6 Soldier with 71 HP.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Short Sword&lt;/strong&gt; damages and inflicts ongoing damage (thorns!). It can be
+enhanced with the &lt;strong&gt;Drowsing Puncture&lt;/strong&gt; power as a minor action. This makes the
+next attack daze the target for a turn and knock them prone, if it hits. It
+recharges when the thorn is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;The curse is called &lt;strong&gt;Mark of Thorns&lt;/strong&gt;, and it’s an encounter power that
+automatically hits a target in a Close Burst 5. A cursed target can’t make
+opportunity attacks against the thorn, and takes 4 damage at the end of any turn
+in which it didn’t attack the thorn. Any allies of the target that start the
+turn adjacent to them also take 4 damage.&lt;/p&gt;
+
+&lt;p&gt;Drowsing Puncture is a fine skill to use against PC defenders, and the Mark is
+quite versatile. When used against a defender, it allows the thorn to slip past
+the PC front-line unmolested. It also works to diver the attention of any PC who
+would normally gain more by attacking one of the spriggan’s more fragile
+allies. They pair really well with powries, who can end up increasing the
+ongoing damage caused by the swords.&lt;/p&gt;
+
+&lt;h3 id=&quot;spriggan-witherer&quot;&gt;Spriggan Witherer&lt;/h3&gt;
+
+&lt;p&gt;Witherers are spriggan spellcasters who specialize in harmful weather control
+magic. They can probably cause serious trouble to agrarian communities with
+rituals, and they can also create more localized effects useful in
+combat. They have an obsession with soaking the earth in blood, so they pair
+well with enemies with a similar imagery. They’re Level 8 Artillery with 70 HP
+and the Leader keyword.&lt;/p&gt;
+
+&lt;p&gt;Their melee attack is a &lt;strong&gt;whithering touch&lt;/strong&gt; vs. Reflex that deals necrotic
+damage. Their main single-target ranged attack is &lt;strong&gt;Sun Scorch&lt;/strong&gt; (Ranged 10
+vs. Reflex) dealing fire and radiant damage. They can use a spell named
+&lt;strong&gt;Flattening Wind&lt;/strong&gt; either as a close blast 3 or as an area 3/range 10 attack
+vs. Fortitude. This deals physical damage, pushes 2 squares, and knocks
+prone. It recharges when they’re first bloodied.&lt;/p&gt;
+
+&lt;p&gt;After they’re bloodied, they can use &lt;strong&gt;Blood For the Earth&lt;/strong&gt; at will. This is an
+area 2/range 10 attack that deals light physical damage, inflicts ongoing
+damage, and gives 5 temporary HP to any allies caught in the area.&lt;/p&gt;
+
+&lt;p&gt;This makes for an artillery threat that starts off fairly aggressive and
+switches to more of a support role as the fight proceeds.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Spriggans are fairly good at fulfilling the “small evil fey” niche, and I love
+the ties to fomorian lore. There are some good synergies between the stat blocks
+presented here,&lt;/p&gt;
+
+&lt;p&gt;Spriggans can still be found working for fomorians, but some also work for evil
+eladrin or run their own rackets. They keep dangerous plants and animals around
+their settlements for protection.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 9: an evil eladrin twilight incanter with a pet
+shambling mound and a quartet of spriggan goons (2 giantsouls, 2 witherers).&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/01/spriggan.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/01/spriggan.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Spider</title>
@@ -970,231 +1220,6 @@ composed of an abyssal rotfiend and 2 retrievers (level 26).&lt;/p&gt;
         <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/12/13/retriever.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/13/retriever.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Remorhaz</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;I first encountered remorhazes in the 3e Monster Manual, though I guess they’ve
-been around since AD&amp;amp;D.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Remorhazes are yet another example of the dangerous megafauna that plagues D&amp;amp;D
-worlds: gigantic predators with a somewhat centipede-like appearance that
-inhabit the colder reaches of the world. They’re also one of those gotcha
-monsters, because despite living in cold biomes their powers are heat-based. A
-remorhaz can heat its carapace up to an extremely high temperature, which really
-ruins the day of the usually-weak-to-fire creatures it feeds on.&lt;/p&gt;
-
-&lt;p&gt;A remorhaz is big enough to swallow a frost giant or adult dragon whole, and
-while it use that as a combat maneuver it prefers to do it when the prey in
-question is no longer fighting back.&lt;/p&gt;
-
-&lt;p&gt;Frost giants sometimes risk training these creatures. A few of them even
-succeed.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-remorhaz.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Remorhazes are Huge Elemental Beasts, and Level 21 Elite Brutes with 480 HP. It
-has low-light vision and projects an aura (2) of &lt;strong&gt;Blistering Heat&lt;/strong&gt; that does
-10 fire damage to any creature caught inside. It runs at speed 6 and burrows at
-speed 4 with Tunneling.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a Reach 2 &lt;strong&gt;Bite&lt;/strong&gt; that damages and grabs on a hit. After
-grabbing a creature they can spend a minor action to try to &lt;strong&gt;Swallow&lt;/strong&gt; it (an
-attack vs. Fortitude). The beast’s insides deal 10 physical and 10 fire damage
-to swallowed victims at the start of its turn. The victim is considered
-restrained, with line of sight and effect only to the remorhaz itself. It can
-use only melee or close attacks (with penalties from the Restrained condition),
-and if it manages to deal 30 damage the remorhaz will spit them out. Killing the
-creature also allows the victim to escape, of course.&lt;/p&gt;
-
-&lt;p&gt;There’s an oversight here, I think, because the ability doesn’t list a size
-limit for which creatures can be swallowed. I’d say Large or smaller is a good
-value for that.&lt;/p&gt;
-
-&lt;p&gt;The remorhaz can also &lt;strong&gt;Trample&lt;/strong&gt;, moving its speed, crossing enemy spaces, and
-making a physical attack that damages and knocks prone against each enemy whose
-space it moves through.&lt;/p&gt;
-
-&lt;p&gt;That heated carapace can do more than project an aura, too. It can flare up in
-an &lt;strong&gt;Immolating Carapace&lt;/strong&gt; attack (close burst 1 vs. Reflex; recharge 6) that
-deals fire damage and inflicts ongoing fire damage that lasts while the targets
-are adjacent to the beast. Yes, this stacks with the aura.&lt;/p&gt;
-
-&lt;p&gt;While the remorhaz is bloodied, it can also use &lt;strong&gt;Enraged Heat&lt;/strong&gt; to deal
-automatic fire damage to someone who hits it in melee.&lt;/p&gt;
-
-&lt;p&gt;A good tactic for them seems to be to bite and swallow a PC who can’t put up
-much of a fight from the inside, and then run around trampling and roasting the
-rest with Immolating Carapace to prevent them from surrounding the remorhaz. An
-individual who’s only interested in a quick meal might even try to swallow a PC
-and run away to digest them.&lt;/p&gt;
-
-&lt;p&gt;Remorhazes being used as attack beasts by giants will be more ready to fight a
-battle to the end, and in that case they might wait to swallow a PC who falls to
-0 HP. The others would need to kill the creature in order to heal their
-buddy. Welcome to epic level!&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounter-and-final-impressions&quot;&gt;Sample Encounter and Final Impressions&lt;/h3&gt;
-
-&lt;p&gt;The sample encounter is level 18: A frost giant acting as a beastmaster of
-sorts, accompanied by a remorhaz and a rime hound.&lt;/p&gt;
-
-&lt;p&gt;I confess that I had a bit of a hard time distinguishing between a remorhaz and
-a behir in earlier editions. The distinction is clearer to me now, but only
-because I spent some time studying their entries in detail.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/13/remorhaz.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/13/remorhaz.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Phoelarch</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-phoelarch.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see them all.&lt;/p&gt;
-
-&lt;p&gt;I seem to remember phoelarches appearing in one of the late Monster Manuals for
-3e. I don’t know if they appeared before that. Their 4e debut is here in the
-MM2.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A Phoelarch is a fiery humanoid native to the Elemental Chaos. Their orange skin
-and fiery hair makes them look kinda like a human-like version of the azer, or a
-slightly differerent fire genasi. They’re typically nomadic and adventurous, and
-so could be found wandering anywhere in the universe. But when you see a
-phoelarch you’re seeing just half the picture.&lt;/p&gt;
-
-&lt;p&gt;The soul of every phoelarch is connected to that of a &lt;em&gt;phoera&lt;/em&gt;, a fire bird
-that’s pretty much a mini-phoenix. Phoeras soar through the skies of the
-Elemental Chaos, living their bird lives. Though smaller than phoenixes, they’re
-still giant territorial birds of prey and have quite a temper, so they can end
-up attacking passing adventurers.&lt;/p&gt;
-
-&lt;p&gt;Typically, a phoelarch doesn’t have a lot to do with their phoera and
-vice-versa. They have a vague sense of each others’ personality and emotions,
-but each lives their own life, and has thoughts and concerns that are utterly
-alien to the other. It’s quite possible for them to never meet.&lt;/p&gt;
-
-&lt;p&gt;However, when one member of the pair is killed, the connection instantly summons
-the other one, which will arrive knowing what happened and will be
-understandably very angry at the perpetrators. Since phoelarches are more
-widespread, the most common scenario likely has the PCs fighting them first and
-then the phoera, but I suppose it could happen the other way around. As long as
-one member of the pair survives, the other will eventually return to life.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Phoeras are Medium Elemental Magical Beasts with the Fire keyword. The two
-phoelarches we get here are tagged as Medium Natural Humanoids, but I really
-think they should be Elemental as well and have the Fire keyword. As sapient
-humanoids, a lot of their abilities come from training, so we get two stat
-blocks for them. They still tend to use a lot of fire, though.&lt;/p&gt;
-
-&lt;p&gt;All the individual stat blocks here are regulars, but they’re really “disguised”
-elites when you think about it.&lt;/p&gt;
-
-&lt;h3 id=&quot;phoelarch-mage&quot;&gt;Phoelarch Mage&lt;/h3&gt;
-
-&lt;p&gt;Phoelarch mages love fire magic, and travel the world looking for adventuresome
-mentors who can teach them using practical lessons instead of classroom
-work. Some seek out their linked phoeras in order to gain a deeper understanding
-of their link and of fire magic in general.&lt;/p&gt;
-
-&lt;p&gt;This Phoelarch Mage is Level 12 Artillery with 93 HP. They have Resist 10 Fire,
-Vulnerable 5 Cold, and project an aura (1) of &lt;strong&gt;Phoenix Heat&lt;/strong&gt;, which deals 5
-damage to any creatures caught inside. That means you should be careful with
-their formation if they’re partnering up with flammable allies. Their ground
-speed is 6.&lt;/p&gt;
-
-&lt;p&gt;The mage’s basic attacks are a &lt;strong&gt;burning dagger&lt;/strong&gt; and a Range 20 &lt;strong&gt;phoenix
-ray&lt;/strong&gt;, both of which deal fire damage. They also know a spell named &lt;strong&gt;Flames of
-the Phoenix&lt;/strong&gt; (recharge 5+), which is pretty much your typical fireball: area
-effect, fire damage, plus ongoing fire damage. Presumably they also know plenty
-of non-combat rituals, but those don’t appear in stat blocks.&lt;/p&gt;
-
-&lt;p&gt;When the mage drops to 0 HP their &lt;strong&gt;Rise from the Ashes&lt;/strong&gt; ability triggers and
-they explode. This deals heavy fire damage (vs. Reflex) in a Close Burst 2. It
-also creates a zone of fire that lasts until the end of the encounter and
-damages anyone caught inside. Finally, when the mage’s next turn comes up, a
-phoera appears within the zone and joins the fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;phoelarch-warrior&quot;&gt;Phoelarch Warrior&lt;/h3&gt;
-
-&lt;p&gt;Phoelarch warriors are usually wandering mercenaries that seek to get hired as
-independent skirmishers and special forces. While their moral outlook is as
-varied as that of any sapient, even a dastardly warrior will usually refuse to
-work for slavers.&lt;/p&gt;
-
-&lt;p&gt;This Warrior is a Level 12 Skirmisher with 114 HP. They have the same
-resistances and aura as the mage, and a Speed of 7. Their main attack is a
-&lt;strong&gt;burning falchion&lt;/strong&gt; that deals fire damage and is a High-Crit weapon. They also
-have a &lt;strong&gt;Burning Step&lt;/strong&gt; trait that deals automatic fire damage to anyone who
-hits them with an opportunity attack.&lt;/p&gt;
-
-&lt;p&gt;Like the mage, the warrior also explodes when dead, creating a fiery zone and
-being replaced by their phoera in the next turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;phoera&quot;&gt;Phoera&lt;/h3&gt;
-
-&lt;p&gt;Phoeras are level 12 Skirmishers with 114 HP. As magical beasts they’re sapient
-and can talk, but their toughts are usually a bit alien to your typical humanoid
-and even to their linked phoelarch. They have Resist 15 Fire and Vulnerable 5
-Cold, and a damaging fire aura (2) similar to that of the phoelarch, but
-larger. They run at speed 6 and fly at speed 10.&lt;/p&gt;
-
-&lt;p&gt;Phoeras fight with &lt;strong&gt;claws&lt;/strong&gt; that do physical and ongoing fire damage, and can
-shoot &lt;strong&gt;feathers of flame&lt;/strong&gt; in a close blast 4 pattern. They can perform either
-of those as part of a &lt;strong&gt;Flyby Attack&lt;/strong&gt; as well, flying their speed without
-provoking opportunity attacks and making the attack at any point in the move.&lt;/p&gt;
-
-&lt;p&gt;When they die, they explode and leave a fiery zone just like a phoelarch. If
-their phoelarch is already dead, that’s the end of it. If not, it’d make sense
-for the phoelarch to appear in this zone next turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 12: a phoelarch warrior who fell in with a briar
-witch dryad and a few snaketongue cultists. Do mind your positioning on this
-one, as all of the phoelarch’s allies are very flammable.&lt;/p&gt;
-
-&lt;p&gt;I like the phoelarch/phoera gimmick! Without it, they’d be just another “generic
-fire guy” alongside azers, genasi and salamanders.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/06/phoelarch.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/06/phoelarch.html</guid>
         
         <category>dnd4</category>
         
