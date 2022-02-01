@@ -222,4 +222,5 @@ variants here. Here they are, from A to Z:
 [80]: {{ "/2022/01/16/slaughterstone-construct.html" | relative_url }}
 [81]: {{ "/2022/01/19/sphinx.html" | relative_url }}
 [82]: {{ "/2022/01/20/spider.html" | relative_url }}
-[83]: {{ "/2021/02/01/spriggan.html" | realtive_url }}
+[83]: {{ "/2022/02/01/spriggan.html" | realtive_url }}
+[84]: {{ "/2022/02/01/sprite.html" | relative_url }}
