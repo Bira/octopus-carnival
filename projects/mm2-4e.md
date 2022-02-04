@@ -137,6 +137,9 @@ variants here. Here they are, from A to Z:
   - [Slaughterstone Construct][80]
   - [Sphinx][81]
   - [Spider][82]
+  - [Spriggan][83]
+  - [Sprite][84]
+  - [Star Spawn][85]
 
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
@@ -224,3 +227,4 @@ variants here. Here they are, from A to Z:
 [82]: {{ "/2022/01/20/spider.html" | relative_url }}
 [83]: {{ "/2022/02/01/spriggan.html" | realtive_url }}
 [84]: {{ "/2022/02/01/sprite.html" | relative_url }}
+[85]: {{ "/2022/02/03/star-spawn.html" | relative_url }}

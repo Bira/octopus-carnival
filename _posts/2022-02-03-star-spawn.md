@@ -57,7 +57,7 @@ reveal an eye staring at them.
 
 Most of the information on the known eldritch stars comes from a scroll known as
 _The Revelations of Melech_, which is the sort of rare sanity-blasting tome that
-should be very familiar to Call of Cthuly players. It has the same in-world
+should be very familiar to Call of Cthulhu players. It has the same in-world
 status the Demonomicon of Iggwilv (which lists demons) or the Codex of Betrayal
 (devils).
 
@@ -95,15 +95,24 @@ them varies per stat block.
 
 ### Herald of Hadar
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-star-spawn-herald.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Morinbund Hadar used to be the brightest star in the sky. During the
 tribulations that led to the fall of Bael Turath, it flared up into a burning
 brand visible even during the day. Afterwards, it faded to a barely visible red
 ember. Hadar's dying gasps send its heralds into the world so they can harvest
 life energy and delay its inevitable end.
 
-The only Medium star spawn in this entry, heralds of hadar look almost human
-save for their glowing eyes and hostility to all forms of life, which it
-attempts to drain. They're Level 15 Brutes with 180 HP.
+The only Medium star spawn in this entry, heralds of Hadar look almost human
+save for their glowing eyes and hostility to all forms of life, which they
+attempt to drain. They're Level 15 Brutes with 180 HP.
 
 Heralds use their **Hungry Claws** to fight, and they can make two basic attacks
 with a single action. Once per encounter they can step it up and use **Feeding
@@ -126,6 +135,15 @@ fighting style, heralds are still sapient and capable of making alliances of
 convenience with other creatures.
 
 ### Maw of Acamar
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm2-4e-star-spawn-maw.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 If Hadar is dying, Acamar is already dead. This corpse-star is a black void that
 devours everything that passes by it, even other stars and their light. Its
@@ -161,6 +179,15 @@ sucked in. If you pair them with other monsters, they would do well to stay away
 from their "buddy".
 
 ### Scion of Gibbeth
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm2-4e-star-spawn-scion.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Gibbeth is a cursed green sun which gestates at its core an unknowable
 being. Warlocks and the like say that this being will only show its true face at
