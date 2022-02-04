@@ -6,9 +6,287 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Feb 2022 13:14:14 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Feb 2022 13:14:14 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Feb 2022 00:58:20 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Feb 2022 00:58:20 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Star Spawn</title>
+        <description>&lt;p&gt;Though the Warlock class was introduced late in D&amp;amp;D 3.x, it was Fourth Edition
+that really made it shine. In addition to the infernal warlocks of the previous
+edition, the Player’s Handbook also gave us fey and star pact
+warlocks. Different pacts provided different mechanical and lore flavor, and
+made the class approachable to people who didn’t want to play someone who had
+literally sold their soul to the devil.&lt;/p&gt;
+
+&lt;p&gt;Fey warlocks were an immediate hit because they tied to the lore of the Feywild,
+which was awesome from the start. You get your powers from David Bowie’s Goblin
+King, what’s not to love about that?&lt;/p&gt;
+
+&lt;p&gt;While I personally loved star warlocks, their lore required a certain previous
+familiarity with “cthulhoid” narratives that was by no means universal among D&amp;amp;D
+players. I mean, in this one-shot I GMed shortly after acquiring the books I had
+a player who honestly believed they were supposed to be New Agey
+astrologers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reason I’m talking about PC warlocks in a Monster Manual reading is that
+those paragraphs provide the context you need to understand why the &lt;em&gt;Wish Upon a
+Star&lt;/em&gt; article from Dragon #366 was such a big deal. While it was mostly focused
+on adding more options for star warlocks, it also included the first concrete
+bit of lore on the “pact entities” for star warlocks. More information about
+them would be added in subsequent books, and in the Monster Manual 2 they get an
+entry for monsters themed after them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Most people in 4e’s implied setting don’t think too hard about the stars in the
+night sky. To many they’re just pretty lights. Amateur astronomers can point out
+constellations and identify a few specific stars by name.&lt;/p&gt;
+
+&lt;p&gt;True scholars of the stars know about the &lt;em&gt;other&lt;/em&gt; constellations. They know that
+some of those stars have fallen under the influence of certain powerful
+entities, who use them to gaze at the world from across the infinite void. Their
+gazes might be filled with fury, with hunger, or with emotions unfathomable to
+feeble mortal minds. When you speak their true names, they listen, and might
+even answer. Opinions differ as to whether that is a good or a bad thing.&lt;/p&gt;
+
+&lt;p&gt;These stellar entities are usually associated with the Far Realm. Traditional
+lore about the Far Realm says it’s a separate plane of existence, so according
+to that it could be that these entities are using their stars as windows to our
+plane. But this also raises an alternate, scarier possibility: maybe the “Far
+Realm” isn’t a separate plane at all. Maybe it’s just what you find if you
+travel far enough into the void.&lt;/p&gt;
+
+&lt;p&gt;Not every star is the avatar of an eldritch alien being, though some star
+warlocks have recurring nightmares where every star in the sky opens up to
+reveal an eye staring at them.&lt;/p&gt;
+
+&lt;p&gt;Most of the information on the known eldritch stars comes from a scroll known as
+&lt;em&gt;The Revelations of Melech&lt;/em&gt;, which is the sort of rare sanity-blasting tome that
+should be very familiar to Call of Cthulhu players. It has the same in-world
+status the Demonomicon of Iggwilv (which lists demons) or the Codex of Betrayal
+(devils).&lt;/p&gt;
+
+&lt;p&gt;And now we get into the lore contained in the MM2. The most learned students of
+the sky know of an orange star named Allabar, The Opener of the Way. Allabar
+only appears when the world is about to enter a time of great turmoil, be it a
+great war, a mighty ritual, or something similar. It races across the sky in a
+seemingly random trajectory that passes by one or more of the other “special”
+stars. When this happens, the way is opened for that star to release a Star
+Spawn into the world.&lt;/p&gt;
+
+&lt;p&gt;Star Spawn are the anthropomorphic personifications of a specific star’s
+will. Once they enter the world, they seek to enact that will. Some stay for
+only as long as the conjunction with Allabar lasts, other can remain
+indefinitely or until defeated. Some are solitary, others gather cults and
+minions around themselves. Regardless of their specific MOs, star spawn tend to
+be pretty evil from a mortal’s point of view.&lt;/p&gt;
+
+&lt;p&gt;No one knows for sure how or why this whole process happens. Is Allabar a
+natural phenomenon of the void, or a sapient being with designs of its own? Is
+there a rhyme or reason to its wanderings? The warlock Thulzar claimed to have
+charted every star spawn incursion since the fall of Bael Turath and found a
+pattern, but he vanished along with his tower and all his notes after a starless
+night, leaving only a glassy crater behind.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual 2 contains three Star Spawn in this entry, and we’ll look a
+bit more into their specific lore and the lore of their star in their sections.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Star Spawn are Aberrant Humanoids. The first one in this entry is Medium, all
+others are Large. All of them have Darkvision, a ground speed of 6, and
+communicate using telepathy with a range of 10 squares. Everything else about
+them varies per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;herald-of-hadar&quot;&gt;Herald of Hadar&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-herald.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Morinbund Hadar used to be the brightest star in the sky. During the
+tribulations that led to the fall of Bael Turath, it flared up into a burning
+brand visible even during the day. Afterwards, it faded to a barely visible red
+ember. Hadar’s dying gasps send its heralds into the world so they can harvest
+life energy and delay its inevitable end.&lt;/p&gt;
+
+&lt;p&gt;The only Medium star spawn in this entry, heralds of Hadar look almost human
+save for their glowing eyes and hostility to all forms of life, which they
+attempt to drain. They’re Level 15 Brutes with 180 HP.&lt;/p&gt;
+
+&lt;p&gt;Heralds use their &lt;strong&gt;Hungry Claws&lt;/strong&gt; to fight, and they can make two basic attacks
+with a single action. Once per encounter they can step it up and use &lt;strong&gt;Feeding
+Frenzy&lt;/strong&gt; to make up to three attacks (though no more than two on the same
+target). Their life-force drain is the &lt;strong&gt;Breath of a Dying Star&lt;/strong&gt;, a Close Blast
+5 encounter power that targets Reflex, does good damage, and prevents targets
+from regaining HP and spending healing surges (save ends). I imagine the claw
+attacks drain life as well, but that’s probably just represented as part of
+their damage.&lt;/p&gt;
+
+&lt;p&gt;Whenever someone spends a healing surge within 5 squares of the herald,
+&lt;strong&gt;Hadar’s Hunger&lt;/strong&gt; allows it to react in a variety of ways. Choose one whenever
+this triggers: shift 3 squares closer to the triggering creature; make a basic
+attack; regain the use of an encounter power; gain +2 to attacks for a turn.&lt;/p&gt;
+
+&lt;p&gt;It looks like the Herald will want to focus most of its attacks on a single PC,
+but will use the Breath on the others. That way it will leave someone still able
+to spend healing surges so it can recharge its powers. Despite their “berserk”
+fighting style, heralds are still sapient and capable of making alliances of
+convenience with other creatures.&lt;/p&gt;
+
+&lt;h3 id=&quot;maw-of-acamar&quot;&gt;Maw of Acamar&lt;/h3&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-maw.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If Hadar is dying, Acamar is already dead. This corpse-star is a black void that
+devours everything that passes by it, even other stars and their light. Its
+hunger is endless and without a purpose other than consumption itself. The Maws
+of Acamar are avatars of that hunger, living gateways through which the dead
+star can extend its ruinous grasp to the world. Unlike the other Spawn, they
+come to the world under their own power, for even The Opener of the Way avoids
+passing too close to Acamar.&lt;/p&gt;
+
+&lt;p&gt;Maws are Level 15 Controllers with 145 HP. Where Heralds of Hadar fight with
+berserk intensity, Maws of Acamar just kinda stroll around the battlefield and
+let the constant effects of their presence do the work for them.&lt;/p&gt;
+
+&lt;p&gt;The gravitational field of their black hole progenitor is expressed as an aura
+(5) named &lt;strong&gt;Hungry Star&lt;/strong&gt;. Anyone inside who wishes to move away from the Maw
+must pay 3 movement points per square instead of the usual 1. Even if they do
+it’s futile because the Maw can use &lt;strong&gt;Corpse Star’s Grip&lt;/strong&gt; (Close Burst 5
+vs. Fortitude; minor action) to pull them 3 squares.&lt;/p&gt;
+
+&lt;p&gt;The destructive part of that gravitational pull is expressed as 2 different
+attacks, both of which inflict ongoing damage instead of instant
+wounds. &lt;strong&gt;Devouring Star&lt;/strong&gt; is a Close Burst 3 attack targetting Fortitude that
+inflicts 10 ongoing damage; &lt;strong&gt;Devouring Touch&lt;/strong&gt; is a focused Reach 2 version
+that inflicts 15 ongoing damage on a single target. In both cases the
+&lt;strong&gt;Destroyer of Life&lt;/strong&gt; passive trait prevents adjacent enemies from shedding all
+of that damage with a single save. The save only reduces the total damage by 5.&lt;/p&gt;
+
+&lt;p&gt;Yes, it’s possible to meet multiple Maws at once. They love to surround foes and
+tear them apart by pulling them in several directions at once. I’d probably make
+them immune to each other’s attacks, but that’s wouldn’t be the case for any
+other ally. Anything and anyone who stands too close to a Maw is going to be
+sucked in. If you pair them with other monsters, they would do well to stay away
+from their “buddy”.&lt;/p&gt;
+
+&lt;h3 id=&quot;scion-of-gibbeth&quot;&gt;Scion of Gibbeth&lt;/h3&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-scion.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Gibbeth is a cursed green sun which gestates at its core an unknowable
+being. Warlocks and the like say that this being will only show its true face at
+the end of the world, and this will send the tattered remains of the universe
+into inescapable madness.&lt;/p&gt;
+
+&lt;p&gt;Scions of Gibbeth are shards of this green star, providing a little taste of
+what is to come. No two people who see one can agree on its appearance, save to
+say it is horrible. Perhaps its true form is literally incomprehensible to
+mortal minds, and the varied appearances described are a result of the people in
+question instinctively trying to cope with this.&lt;/p&gt;
+
+&lt;p&gt;These abominations wander the world pursuing their enigmatic goals. They tend to
+attack any living creature that draws too close, but they tolerate the presence
+of worshippers and cultists.&lt;/p&gt;
+
+&lt;p&gt;Scions are Level 17 Controllers with 163 HP. Their abilities work at range and
+are designed to keep PCs away. They’re surrounded by an &lt;strong&gt;Aura of Revulsion&lt;/strong&gt;
+with size &lt;em&gt;10&lt;/em&gt;, enough to cover most of the battlefield. Creatures inside can’t
+target the Scion with melee or ranged attacks unless it’s the enemy nearest to
+them.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack are vanilla &lt;strong&gt;Slams&lt;/strong&gt;, but the others make up for
+it. &lt;strong&gt;Mind-Splintering Gaze&lt;/strong&gt; (range 20) deals light psychic damage and
+dominates (save ends); &lt;strong&gt;Gibbeth’s Baleful Glare&lt;/strong&gt; does the same damage and
+slides the target 2 squares.&lt;/p&gt;
+
+&lt;p&gt;That sets up the Scion’s basic tactics: stay well away from the PCs and dominate
+them, gently nudging them away when they attempt to close. If they do manage to
+close, there’s a couple more tricks available to the creature. &lt;strong&gt;Offering to
+Gibbeth&lt;/strong&gt; gives it a +2 attack bonus for a turn whenever a PC spends a healing
+surge within 2 squares of it; and &lt;strong&gt;Revelation of Gibbeth&lt;/strong&gt; is a burst 5 that
+triggers when the Scion dies. This glimpse of its true form acts as an attack
+against Will. Affected targets are Dazed, and must spend their sole action
+charging or making a basic attack against their nearest ally. This is a &lt;em&gt;save
+ends&lt;/em&gt; condition, so even if the dead Scion was the last monster on the board,
+the party might still need to contend with the effect for a few rounds until
+everyone makes their save.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I love all of this star lore! It feels so new, you know? It’s “cthulhoid”
+without actually involving the Cthulhu Mythos and this is a big entry about
+aberrant monsters that doesn’t contain a single tentacle anywhere in it. It’s
+also scarier in places than even the traditional fiend lore. “There’s a place in
+a different plane that’s full of evil fire” doesn’t quite have the same visceral
+kick as “each star opens to reveal an eye and they’re all looking at you”.&lt;/p&gt;
+
+&lt;p&gt;I even think it’s cool that Hadar’s and Acamar’s basic descriptions are the
+result of taking a real astronomical entity and running it through a Lovecraft
+and/or Death Metal translator filter. A red supergiant is “ancient and dying,
+gasping for breath as it tries to prolong its doomed existence”. A black hole is
+a Corpse Star!&lt;/p&gt;
+
+&lt;p&gt;I don’t think they ever officially added Atropus from Elder Evils to the star
+“pantheon”, but he’s a perfect fit. “The World Born Dead orbits The Corpse
+Star!”, cries the mad warlock as invisible star spawn tear him limb from limb in
+broad daylight.&lt;/p&gt;
+
+&lt;p&gt;The only place where I think this entry stumbles a bit is the sample
+encounters. The lore of the star spawn is cool but it makes them stand a bit
+apart from the more traditional D&amp;amp;D monsters, so it feels strange to see them
+paired with those same monsters. You might need to reskin some of those monsters
+to make them more star-aspected.&lt;/p&gt;
+
+&lt;p&gt;We have two encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 13: A Herald of Hadar teams up with a Beholder Eye of Flame and 2 Battle
+Wight Commanders. A classic front-line and artillery formation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 13: A Maw of Acamar is accompanied by 2 hook horrors and 2 mind flayer
+infiltrators. Here you want the others to form a perimeter around the Maw and
+try to keep the PCs boxed in.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;There were also mechanical reasons for why they didn’t become as popular,
+  but these have been more extensively discussed elsewhere and don’t quite
+  fit a monster-focused post. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/03/star-spawn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/03/star-spawn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Sprite Swarm</title>
@@ -1119,107 +1397,6 @@ member is a brooding loner, Kamen Rider-style.&lt;/p&gt;
         <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/12/17/shadar-kai.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/17/shadar-kai.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Retriever</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Retrievers first appeared in the Fiend Folio for AD&amp;amp;D 1st Edition. They make
-their 4e debut here in the Monster Manual 2.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-retriever.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Retrievers are powerful constructs shaped like giant spiders, built by the
-primordials themselves during the Dawn War to carry out kidnappings, thefts, and
-assassinations. They’re not smart enough to do anything outside their intended
-function, but when it comes to their mission there’s no one better in existence.&lt;/p&gt;
-
-&lt;p&gt;Once given a target, a retriever can track it from anywhere in the multiverse
-and teleport to its location instantly. If they’re retrieving, they can grab the
-target and skedaddle. If they’re assassinating, they can count on their huge
-size, bladed legs, and multi-directional eye rays to flatten almost any
-opposition.&lt;/p&gt;
-
-&lt;p&gt;The primordials can really build things to last when they care to. A significant
-number of retrievers survived the War and is still active today, which is very
-bad news for the world because some demons have learned how to command
-them. Back in the days of AD&amp;amp;D, retrievers were linked to Demogorgon in
-particular, but now they could be found in the service of any demon lord or
-other entity of similar power. Perhaps some of them still act at the behest of a
-primordial, and Lolth is spidery enough to want a bunch of them working for
-her. Make any of them angry enough and a few retrievers might show up at your
-home.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Retrievers are Huge Elemental Animates, but though they are described as
-constructs they lack the Construct keyword. They’re Level 27 Soldiers with 248
-HP, immunity to Charm and Fear, and Resist 5 to all damage. They run at speed 8,
-but have no climb speed despite looking like spiders. Their special senses
-include darkvision and truesight 10.&lt;/p&gt;
-
-&lt;p&gt;A retriever has Reach 3 and two basic attacks: a standard &lt;strong&gt;Claw&lt;/strong&gt; strike and
-&lt;strong&gt;Retrieve&lt;/strong&gt;, which targets Fortitude, deals claw damage and grabs the
-target. A retriever can move its grabbed victim without needing to make Strength
-tests, so they can easily “grab and go”.&lt;/p&gt;
-
-&lt;p&gt;It also has access to four different &lt;strong&gt;eye rays&lt;/strong&gt;, each pairing a type of
-elemental damage with a different rider: acid and blindness, cold and
-immobilization, fire and ongoing damage, thunder and stun. The creature can fire
-all four in the same action, but must target a different creature with each. At
-the start of each turn, a random ray recharges. This means a second full blast
-takes a while, but it can fire a partial one if needed.&lt;/p&gt;
-
-&lt;p&gt;If the retriever is hard-pressed it can take an action to engage in
-&lt;strong&gt;Self-Repair&lt;/strong&gt;, recovering 20 HP and gaining a +4 bonus to AC for a turn. This
-recharges once it’s first bloodied. Might be a good thing to do when it manages
-to run away with its victim.&lt;/p&gt;
-
-&lt;p&gt;And finally we have the power that makes it truly fearsome: &lt;strong&gt;Unerring
-Accuracy&lt;/strong&gt;, which allows it to sense the approximate location of its target and
-teleport to within 10 squares of it &lt;em&gt;from anywhere in the
-multiverse&lt;/em&gt;. Demogorgon is pissed at you, gives your name to a retriever in his
-throne room and bam, giant spider mech bursting through your bedroom wall. This
-is a daily power, so I guess a retriever on a kidnapping mission needs at least
-a few hours before it can return to its master. That’s your window to rescue
-them.&lt;/p&gt;
-
-&lt;p&gt;The order doesn’t even have to be very specific. “Bring me an elf” will allow it
-to teleport to the location of the nearest elf, and so on.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Despite being an epic spider mech, the retriever is a Regular, which means it
-will usually be found as part of a group. This can mean “multiple retrievers”,
-or it can mean other epic assassin-types who hitch a ride on the teleport. Maybe
-they’re riding a howdah atop the spider body - it’d be the perfect place for
-some epic artillery or controller monsters.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, they might be found under the command of a less sophisticated
-type of demon who prefers to use them as bodyguards and extra muscle in a more
-straightforward combat scenario.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter could belong to either type: a marilith with an entourage
-composed of an abyssal rotfiend and 2 retrievers (level 26).&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/13/retriever.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/13/retriever.html</guid>
         
         <category>dnd4</category>
         
