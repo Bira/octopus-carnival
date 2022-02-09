@@ -6,13 +6,107 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 04 Feb 2022 01:01:27 +0000</pubDate>
-    <lastBuildDate>Fri, 04 Feb 2022 01:01:27 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Feb 2022 13:30:39 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Feb 2022 13:30:39 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
+        <title>Let's Read the 4e Monster Manual 2: Steel Predator</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-steel-predator.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;I think I first saw this monster in one of the “late” Monster Manuals for 3.x,
+which makes it fairly recent.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Designed by Bane himself (“Original Design: Do Not Steal”), these living
+constructs are designed as long-ranging assassination engines. They seem to be
+his take on the “Retriever” concept pioneered by the primordials, with the main
+difference being that the god of war is not interested in taking prisoners.&lt;/p&gt;
+
+&lt;p&gt;Steel Predators are a little weaker individually, but unlike the retrievers
+they’re still in production. They can travel the planes in search of their
+target, though their means of travel is not quick enough to be a combat
+ability. These things just love eating magic items: the more loaded the victim,
+the more vigorous the pursuit. Once a steel predator kills its target it will
+usually devour them, items and all. They also have a bit of golem-like magical
+resistance that means they get stronger when they take thunder or lightning
+damage.&lt;/p&gt;
+
+&lt;p&gt;As a side effect of this refined palate, steel predator bodies are rich in
+residuum, which can ironically make them a target for powerful, brave or
+foolhardy hunters looking for a big score. When not on a mission, most steel
+predators hang out in Bane’s native plane of Chernoggar, patrolling it alongside
+platoons of bladelings.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Steel Predators are Large Immortal Animates with the Living Construct
+keyword. They’re Level 20 Elite Soldiers with 388 HP, darkvision, and a ground
+speed of 8. As mentioned above, they can cross planar boundaries but this
+ability doesn’t make it into their combat stat block. They have a +2 bonus to
+saves against ongoing damage (for a total of +4 when combined with their elite
+save bonus).&lt;/p&gt;
+
+&lt;p&gt;These creatures have the body structure of a big cat, and they fight
+accordingly, pouncing and biting with their metal jaws. Their basic &lt;strong&gt;bite&lt;/strong&gt;
+attack marks for a turn on a hit. They can also make a &lt;strong&gt;Vicious Pounce&lt;/strong&gt; that
+works as a charge against Fortitude, does the same damage as a bite, and knocks
+prone. Their multiattack ability is a bit weaker than a standard double attack,
+but it’s still flavorful: &lt;strong&gt;Snap Jaw&lt;/strong&gt; allows the steel predator to make a bite
+attack. If that hits it also knocks the target prone, and the creature can make
+another bite attack against a different target.&lt;/p&gt;
+
+&lt;p&gt;Their most overtly supernatural attack is a &lt;strong&gt;Resonating Roar&lt;/strong&gt;, a Close Burst 3
+attack that deals heavy thunder damage, dazes, and deafens (save ends
+both). This is a “recharge 5+” attack, but it also recharges automatically when
+the predator takes thunder or lightning damage.&lt;/p&gt;
+
+&lt;p&gt;Finally, when an adjacent creature shifts, they can use &lt;strong&gt;Shifting Steel&lt;/strong&gt; as a
+reaction to shift into the vacated square.&lt;/p&gt;
+
+&lt;p&gt;Tactics are fairly simple: pounce, roar, then keep biting with Snap Jaw until
+the roar recharges. This should keep the PCs quite busy while the other monsters
+attack them.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These things look enough like xenomorphs from &lt;em&gt;Aliens&lt;/em&gt; that I’m surprised they
+don’t have acid blood. Maybe that would be too on the nose.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, Bane often sends steel predators on remote missions. They
+end up working alongisde other servants of the god, or with other creatures that
+share the same immediate goals. In that latter case, they’re known for turning
+on their allies of convenience if those allies behave in a way that displeases
+Bane.&lt;/p&gt;
+
+&lt;p&gt;The example encounter is Level 21, and has 2 steel predators accompanying 2
+marut castigators. The maruts are likely mercenaries hired by an agent of Bane.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/09/steel-predator.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/09/steel-predator.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Let's Read the 4e Monster Manual 2: Star Spawn</title>
-        <description>&lt;p&gt;Though the Warlock class was introduced late in D&amp;amp;D 3.x, it was Fourth Edition
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Though the Warlock class was introduced late in D&amp;amp;D 3.x, it was Fourth Edition
 that really made it shine. In addition to the infernal warlocks of the previous
 edition, the Player’s Handbook also gave us fey and star pact
 warlocks. Different pacts provided different mechanical and lore flavor, and
@@ -1275,128 +1369,6 @@ them might be necessary to end the raid.&lt;/li&gt;
         <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2021/12/17/shark.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/17/shark.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Shadar-kai</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-shadar-kai.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;We already saw the basic lore of shadar-kai back in [Let’s Read the  Monster
-Manual][2], and the Monster Manual 2 brings a few more stat blocks for them.&lt;/p&gt;
-
-&lt;p&gt;This is where they add the lore about Shadar-kai seeking extreme sensations to
-stave off the soul-draining malaise of the Shadowfell. As I said in the original
-post, I prefer to ignore this bit. If you want to add it in, the book also
-mentions that offers of novel and/or intense experiences tend to be
-well-received when one negotiates with shadar-kai.&lt;/p&gt;
-
-&lt;p&gt;In this book we get paragon-tier Shadar-kai, which one can usually meet in the
-Shadowfell proper. They retain the MM1 signature traits (low-light vision and
-the Shadow Jaunt ability), and get a new gimmick in the form of a new status
-effect they can inflict: &lt;em&gt;shrouded in gloom&lt;/em&gt;. A victim who is shrouded in gloom
-takes a -2 penalty to attacks and gains only half the benefit from healing
-effects. This seems to always be a “save ends” condition. Their ground speed is
-7.&lt;/p&gt;
-
-&lt;p&gt;Lastly, the new stat blocks presented here were named by someone who decided
-that simple descriptive names like the “Warrior” and “Witch” of the first book
-weren’t nearly goth enough. Let’s check them out.&lt;/p&gt;
-
-&lt;h2 id=&quot;shadar-kai-blacksoul&quot;&gt;Shadar-kai Blacksoul&lt;/h2&gt;
-
-&lt;p&gt;Blacksouls are spellcasters specializing in harmful shadow-based magic. They’re
-level 14 Controllers with 138 HP, and all their attacks are spells. &lt;strong&gt;Corrupting
-Blackfire&lt;/strong&gt; is a basic melee attack that deals fire and necrotic damage;
-&lt;strong&gt;Shadowbolt&lt;/strong&gt; is a basic ranged attack that deals necrotic damage; and
-&lt;strong&gt;Shadowburst&lt;/strong&gt; (recharge 6+) deals necrotic damage over a wide area. All three
-also shroud the target in gloom on a hit.&lt;/p&gt;
-
-&lt;p&gt;The blacksoul’s ultimate attack is &lt;strong&gt;Corrupt Soul&lt;/strong&gt;, which targets Will and
-dominates (save ends). It can only target victims who are shrouded in gloom.&lt;/p&gt;
-
-&lt;h2 id=&quot;shadar-kai-dawnkiller&quot;&gt;Shadar-kai Dawnkiller&lt;/h2&gt;
-
-&lt;p&gt;This absurd edgelord is a Level 14 Lurker with 106 HP. They carry a pair of
-&lt;strong&gt;kukris&lt;/strong&gt; whose strikes shroud the target in gloom and can also be used to
-perform a &lt;strong&gt;shade strike&lt;/strong&gt; that does the same damage and blinds instead. Their
-&lt;strong&gt;Shadows of the Raven Queen&lt;/strong&gt; trait gives them bonus damage against targets who
-can’t see them.&lt;/p&gt;
-
-&lt;p&gt;Dawnkillers likely alternate shade strikes and basic attacks, focusing on a
-single PC. They pair really well with the spellcasters from this entry,
-providing an extra source of “shrouded in gloom” so their buddies can use their
-ultimate attacks earlier.&lt;/p&gt;
-
-&lt;h2 id=&quot;shadar-kai-gloom-lord&quot;&gt;Shadar-kai Gloom Lord&lt;/h2&gt;
-
-&lt;p&gt;Gloom Lords are spellcasters of the same tradition as blacksouls, with a
-slightly different spell selection. They’re Level 14 Artillery with 108 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic attacks are the same, and their special technique is named
-&lt;strong&gt;Shadowcage&lt;/strong&gt;. This is an at-will ranged attack that targets the Reflex of a
-creature shrouded in gloom. It deals necrotic damage, restrains the target, and
-prevents it from moving more than 2 squares away from its original position
-until it passes a save to clear all of these effects.&lt;/p&gt;
-
-&lt;h2 id=&quot;sharar-kai-painbearer&quot;&gt;Sharar-kai Painbearer&lt;/h2&gt;
-
-&lt;p&gt;They’re not in pain, they bring the pain to you. Painbearers are Level 15
-Skirmishers with the Leader keyword and 144 hP. They wear leather and wield
-spiked chains.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is named &lt;strong&gt;shadow chain&lt;/strong&gt;, which does damage and shrouds in
-gloom as usual. They can also perform a &lt;strong&gt;Shadow Dance&lt;/strong&gt; that allows them to
-shift their speed and make three shadow chain attacks against different targets
-along the way. Each attack after the first deals an extra 2d6 damage for every
-previous attack that hit.&lt;/p&gt;
-
-&lt;p&gt;That’s the Skirmisher part. The Leader part comes from two other abilities. The
-first is a &lt;strong&gt;Shadow Weft&lt;/strong&gt; aura (5) that allows shadar-kai allies within to
-shift 1 square after they hit with a melee attack. The second is &lt;strong&gt;Shadow
-Boon&lt;/strong&gt;, a reaction that allows an ally within 10 squares to re-roll an attack
-they just missed.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m surprised we didn’t get a stat block that was literally named Shadar-kai
-Edgelord.&lt;/p&gt;
-
-&lt;p&gt;Typical shadar-kai combat encounters will be either agains the villainous sort
-that consorts with undead, or the morally ambigious yet antagonistic sort that
-swears fealty to the Raven Queen. A more complex encounter might find the PCs
-aiding the latter against the former. Either sort of shadar-kai might be riding
-nightmares, because of course they would.&lt;/p&gt;
-
-&lt;p&gt;We get two sample encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: two dawnkillers and a painbearer accompanied by a
-bodak. Undead-loving villains.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 14: A blacksoul, 2 gloom lords and 2 painbearers. A team where every
-member is a brooding loner, Kamen Rider-style.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/17/shadar-kai.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/17/shadar-kai.html</guid>
         
         <category>dnd4</category>
         
