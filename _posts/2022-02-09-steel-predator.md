@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-steel-predator.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 I think I first saw this monster in one of the "late" Monster Manuals for 3.x,
 which makes it fairly recent.
 
@@ -74,3 +85,5 @@ Bane.
 
 The example encounter is Level 21, and has 2 steel predators accompanying 2
 marut castigators. The maruts are likely mercenaries hired by an agent of Bane.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

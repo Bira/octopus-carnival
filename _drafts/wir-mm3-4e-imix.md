@@ -13,7 +13,7 @@ Princes. His writeup here also melds two classic stories from the 1e era.
 ## The Lore
 
 So, as it's been mentioned a few times before, the god Tharizdun is probably the
-most evil asshole in all of 4e's implied setting. Before even the Dawn War, he
+biggest asshole in all of 4e's implied setting. Before even the Dawn War, he
 came across a shard of cosmic evil, and decided to use that in a bid to conquer
 the universe. He planted this shard in the Elemental Chaos as if it was a seed,
 and from this seed sprouted the Abyss. Tharizdun used the Abyss to generate an
@@ -41,7 +41,7 @@ freedom. They're still out there, in the Elemental Chaos, plotting to overthrow
 the gods and free their master.
 
 Spoiler alert: The Elder Elemental Eye is a pseudonym for Tharizdun. Serving and
-worshipping the Eye funnels power to the Chained God so that he might one day
+worshiping the Eye funnels power to the Chained God so that he might one day
 break free of his prison.
 
 This entry concerns Imix, the Evil Elemental Prince of Fire. As the name
@@ -66,18 +66,63 @@ vigilantly and burn to death anyone who gets too close.
 
 More important temples are usually dedicated to the Elder Elemental Eye and
 protected by two or more Elemental Prince cults, who spend as much time
-sabotating and upstating one another as they do actually advancing the Eye's
+sabotaging and upstaging one another as they do actually advancing the Eye's
 cause. The cult's greatest seat of power is the legendary Temple of Elemental
 Evil, protected and operated by all the Elemental Prince cults and any
 mercenaries and servants they manage to recruit.
 
-## The Monsters
+## The Numbers
 
-This entry contains stats both for Imix himself and for a wide range of cultists
-and servitors that go from mid-Heroic to late Epic. Describing them all in one
-post would make it into a formidable wall of text, so I'm breaking them up a
-bit. This introduction post ends here. The next one will have the cultists in
-order of level, and the final one will have Imix himself. See you there!
+This entry concerns Imix himself. We'll take a look at his cultists in the next
+one.
 
-I'm going to list them in order of increasing level with Imix at the end, which
-is not exactly how the book does it.
+Imix is a Huge Elemental Humanoid with the Fire and Primordial keywords. I think
+he's the first monster to carry that last one, but he won't be the last. He's a
+Level 32 Solo Controller with 1140 HP. He has darkvision, a ground speed of 10,
+and a flight speed of 8 with Hover. He is immune to disease and fire.
+
+The heat from Imix's **Withering Flames** acts as an aura (5) that _strips all
+fire resistance_ from any enemies inside. His basic attack is a Reach 3
+**Blazing Blade** that deals immediate and ongoing fire damage, and the
+**Blazing Arc** maneuver allows him to attack every enemy in reach with a single
+action.
+
+Imix can call up **Servants of Elemental Fire**, summoning four Fire Grues, or
+six if he's bloodied. Fire Grues are minions with the same defenses as
+Imix. Grues don't attack, but any enemy that ends their turn adjacent to one or
+more grues takes 15 fire damage. Imix can move all of them up to 6 squares with
+a single minor action, and the summoning power recharges if there are no grues
+in the field.
+
+He can also use **Volcanic Circle** to detonate a grue, dealing heavy fire
+damage in a Close Burst 1 around the minion. This creates a zone that lasts
+until the end of the encounter and deals 20 fire damage to enemies that enter it
+or end their turns there. Yes, this is at-will. Once the battle against Imix
+starts, the entire battlefield will very soon be on fire.
+
+**Blinding Flare** is a minor action that attacks all enemies adjacent to grues
+in a Close Burst 10, dealing fire damage and blinding (save ends). A miss deals
+half damage and imposes a -2 penalty to attack rolls for a turn. This recharges
+when Imix is first bloodied.
+
+**Hungry Flames** is another minor action that targets every enemy taking ongoing
+fire damage within 10 squares. It weakens them (save ends) and deals 10 fire
+damage to any creature adjacent to them.
+
+If an enemy tries to move away from a grue, Imix can use **Demand Focus** to
+attack their Will and daze them for a turn. If an enemy misses him with a melee
+attack, **Formed of Fire** deals 10 damage to that enemy and any ally adjacent
+to them. And if Imix is affected by a save-ends effect, **Eternal Resilience**
+allows him to roll a save against that effect immediately in addition to the
+normal saves everyone gets.
+
+I guess Imix will use grues to surround the party, and the grue-based attacks to
+blind the PCs and prevent them from getting away. He will detonate enough grues
+to light the battlefield on fire, and will strive to keep the PCs within his
+aura as he attacks them with his blazing sword. Once enough PCs are taking
+ongoing damage, he will use Hungry Flames and keep attacking.
+
+For extra pain, you can set the battle in a Font of Power aligned to Fire. This
+is a special terrain type listed in the DMG that gives damage bonus to attacks
+with the appropriate damage type. An epic one gives +15 damage, and it certainly
+makes sense for Imix's own seat of power to qualify as a Font.

@@ -179,7 +179,7 @@ special terrain type described in the DMG that enhances the damage of attacks
 that have a matching elemental keyword (fire, in this case). Since the Chosen is
 an epic tier enemy, they'll be fighting in terrain that gives their fire attacks
 a whopping +15 bonus damage! PCs planning to attack a temple of Imix would do
-well to figure out a way to engage the Chosen outsid this sanctum.
+well to figure out a way to engage the Chosen outside this sanctum.
 
 Chosen are Level 22 Controllers with the Leader keyword. They have a stronger
 version of the Flameborn's Fire Within aura, granting 10 fire resistance to all
@@ -202,3 +202,26 @@ they're bloodied.
 Once per encounter they can use **Fire's Fury** to detonate a fire grue,
 attacking a Close Burst 1 around it. The explosion deals fire damage and dazes
 (save ends) on a hit.
+
+To cap it off we have a few triggered actions. **Demand Focus** triggers when an
+enemy willingly moves away from a fire grue without shifting. It attacks the
+enemy's Will and slows them on a hit. **Firepulse** is an encounter power that
+triggers when the chosen is hit in melee, and it's basically a Close Burst 1
+fire attack. Finally, when the Chosen is reduced to 0 HP, they're **Claimed by
+Imix**, and explode in a Close Burst 3 dealing fire damage and dazing (save
+ends) on a hit.
+
+## Encounter Groups and Final Impressions
+
+These cultists weren't all made to be used together. They're too far apart in
+terms of level for that. Instead, they're made to be added as "spice" to a group
+of other non-themed opponents of similar levels. These would represent
+mercenaries, or lower-ranking cultists that don't necessarily have all these
+fire-based blessings. Good candidates include the many Human stat blocks,
+elementals, the occasional demon, and even some undead if you want to replicate
+the spread found in the Temple of Elemental Evil.
+
+There are plenty of fire-themed monsters in all of those categories, but it's
+more interesting if you vary the composition of Team Monster and include some
+members who rely on untyped damage or other damage types. It will prevent your
+PCs from trivializing these encounters by stacking fire protection.

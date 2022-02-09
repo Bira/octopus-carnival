@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the rest.
+
 Though the Warlock class was introduced late in D&D 3.x, it was Fourth Edition
 that really made it shine. In addition to the infernal warlocks of the previous
 edition, the Player's Handbook also gave us fey and star pact
@@ -265,3 +267,5 @@ We have two encounters:
 [^1]: There were also mechanical reasons for why they didn't become as popular,
       but these have been more extensively discussed elsewhere and don't quite
       fit a monster-focused post.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
