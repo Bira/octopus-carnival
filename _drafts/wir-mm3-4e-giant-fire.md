@@ -7,8 +7,8 @@ tags:
 ---
 
 Like the ghouls we just covered, fire giants are classic monsters that appeared
-both in the original Monster Manual, and who were slated to appear in the
-upcoming Monster Vault. The MM3 gives a selection of fire giant stat blocks that
+both in the original Monster Manual, and who would appear again in the upcoming
+Monster Vault. The MM3 gives a selection of fire giant stat blocks that
 complements that of the MV.
 
 ## The Lore
