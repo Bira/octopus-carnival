@@ -6,9 +6,366 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Feb 2022 01:18:46 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Feb 2022 01:18:46 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Feb 2022 22:20:17 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Feb 2022 22:20:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Trolls</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-troll.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;In a situation that has been common in this reading, we’re in a halfway place
+when it comes to trolls. The Monster Manual marks their debut in this edition,
+and the Monster Vault gives us a final selection of updated stat blocks. Here in
+the Monster Manual 2, published between those two books, we have a selection of
+trolls that expands the options from the MM, but is not yet updated for the MV’s
+math.&lt;/p&gt;
+
+&lt;h2 id=&quot;ice-troll&quot;&gt;Ice Troll&lt;/h2&gt;
+
+&lt;p&gt;It’s unclear from the text whether ice trolls are a variant troll species or
+just a variant culture. They inhabit the Frostfell, one of the world’s coldest
+regions, but occasionally make their way to slightly warmer climates. Ice trolls
+have a more complex and technically advanced culture than that of “typical”
+trolls. They know how to make weapons, and prefer to use them in combat instead
+of their claws. They also emanate a cold aura.&lt;/p&gt;
+
+&lt;p&gt;If you want to portray your trolls less universally hostile, ice troll
+communities could make good trading partners in cold regions, trading their
+weapons and crafts for other products they need. Ice troll mercenaries might
+also be found among the forces of anyone who sets up shop in the frozen regions
+of your campaign world.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Ice trolls are Large Natural Humanoids and Level 10 Soldiers with 109 HP. Their
+&lt;strong&gt;Emanating Cold&lt;/strong&gt; aura (1) slows any enemies caught inside for a turn. They
+have a ground speed of 8.&lt;/p&gt;
+
+&lt;p&gt;Ice troll regeneration works exactly like that of standard trolls: Regeneration
+10 plus Troll Healing that allows them to keep regaining HP after
+hitting 0. Both are shut down for a turn if the troll takes acid or fire damage.&lt;/p&gt;
+
+&lt;p&gt;This troll wears scale armor and fights with a &lt;strong&gt;maul&lt;/strong&gt;. If their maul attack
+bloodies an enemy, &lt;strong&gt;Frenzied Strike&lt;/strong&gt; allows them to make another free
+attack. This &lt;em&gt;could&lt;/em&gt; lead to a big chain combo if the ice troll manages to hit
+several near-bloodied PCs, but most likely you’ll be looking at one extra attack
+when this triggers.&lt;/p&gt;
+
+&lt;p&gt;Weapon use would make ice trolls a lot more dangerous than standard ones in a
+“realistic” system like GURPS, but here it’s mostly for color since damage is
+entirely level-based. It does allow you to place magic weapons and armor as
+treasure by saying the troll was using them.&lt;/p&gt;
+
+&lt;h2 id=&quot;bladerager-troll&quot;&gt;Bladerager Troll&lt;/h2&gt;
+
+&lt;p&gt;This troll was updated for the Monster Vault, so we already saw its numbers on
+the &lt;a href=&quot;/octopus-carnival/2021/01/09/troll.html&quot;&gt;MM/MV reading&lt;/a&gt;. A new bit of lore in this entry says that some of the
+weapons and armor implanted on a bladerager are magic, which gives GMs an excuse
+to place magic items as treasure in bladerager encounters. This makes them the
+only monster in the game to have literal loot drops.&lt;/p&gt;
+
+&lt;h2 id=&quot;troll-vinespeaker&quot;&gt;Troll Vinespeaker&lt;/h2&gt;
+
+&lt;p&gt;Here’s something you don’t see every day: a troll spellcaster with genius-level
+intellect! You go, vinespeaker! Break those stereotypes! Unfortunately the
+vinespeaker doesn’t break &lt;em&gt;every&lt;/em&gt; troll stereotype, so it’s still Chaotic
+Evil. You’ll have to break that one yourself if your campaign calls for it.&lt;/p&gt;
+
+&lt;p&gt;Vinespeakers use a style of primal nature magic that involves wrapping
+themselves in thorny vines and letting their blood soak the plants to gain
+control over them. This would be lethal for any other practitioner, but for a
+troll it’s no trouble at all. With their magic power and high intelligence,
+vinespeakers tend to become leaders or revered advisors of larger troll
+communities.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Vinespeakers are Level 14 Controllers with 142 HP. They have Regeneration 10,
+Troll Healing, and the usual vulnerabilities, as well as the usual Speed 8.&lt;/p&gt;
+
+&lt;p&gt;They can use their &lt;strong&gt;claws&lt;/strong&gt; to fight like a typical troll, but their vines give
+them many more options. They have a ranged attack named &lt;strong&gt;Ray of Thorns&lt;/strong&gt; that
+deals physical damage, and an area burst attack named &lt;strong&gt;Thorny Burst&lt;/strong&gt; that
+deals light physical damage and immobilizes (save ends). This also creates a
+zone of thorny difficult terrain that deals damage to those caught inside, and
+lasts until the end of the encounter. If any of these attacks bloodies a target,
+the vinespeaker gets to make a free claw attack. No target is specified, so any
+PC within reach will do fine.&lt;/p&gt;
+
+&lt;p&gt;Note: Thorny Burst is at-will. Vinespeakers can turn the entire battlefield into
+a spiky mess in no time at all. A good tactic for the is to spam this attack
+until there’s no more ground to cover or until the PCs are all immobilized, then
+target the most vulnerable foes with the single-target Ray.&lt;/p&gt;
+
+&lt;p&gt;Finally, they have an encounter ability named &lt;strong&gt;Chant of Power&lt;/strong&gt;, which gives
+allies in within 5 squares 10 temporary HP and a +4 damage bonus while the
+temporary HP lasts. This works wonderfully as either a fight opener or a
+mid-fight boost.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I like these MM2 trolls, they do a good job of subverting the troll stereotype.&lt;/p&gt;
+
+&lt;p&gt;We get three encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 10: 2 ice trolls, 2 worgs, and 1 manticore. Lots of raw melee power in
+this one, with a maneuverable skirmisher thrown in.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 12: 3 bladeragers, 1 duergar blasphemer, 1 duergar hellcaller. Duergar
+diabolists are exactly the sort of person who’d make bladerager trolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 15: 4 war trolls, 1 destrachan far voice, 1 vinespeaker. The war trolls
+can more or less ignore the thorns. They’ll be slowed by the difficult
+terrain, but so will everyone else. The destrachan offers some artillery
+support and can stay far away from the thorn zones.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/18/troll.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/troll.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Troglodyte</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-troglodyte.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;We already saw troglodytes in our reading of the &lt;a href=&quot;/octopus-carnival/2021/01/08/troglodyte.html&quot;&gt;Monster Manual and Vault&lt;/a&gt;,
+and their basic lore remains the same. We get a few additional entries with
+their own lore here.&lt;/p&gt;
+
+&lt;p&gt;Like before, these troglodytes are Medium Natural Humanoids with the Reptile
+keyword, and their signature ability is the &lt;strong&gt;Troglodyte Stench&lt;/strong&gt;, an aura that
+inflicts a -2 penalty to attacks. They have Darkvision and a speed of 5.&lt;/p&gt;
+
+&lt;h2 id=&quot;troglodyte-thrasher&quot;&gt;Troglodyte Thrasher&lt;/h2&gt;
+
+&lt;p&gt;We already discussed their lore in the &lt;a href=&quot;/octopus-carnival/2021/01/08/troglodyte.html&quot;&gt;MM/MV post&lt;/a&gt;, so I’m not going to
+repeat that discussion here. However we do get a bit of additional lore. It
+seems thrashers are actually &lt;em&gt;nonsapient&lt;/em&gt;, and their fellow troglodytes keep
+them in cages when not using them as attack beasts. I wouldn’t use this
+“charming” bit of lore in my own campaigns.&lt;/p&gt;
+
+&lt;h2 id=&quot;troglodyte-deepscourge&quot;&gt;Troglodyte Deepscourge&lt;/h2&gt;
+
+&lt;p&gt;Deepscourges are spellcasters. Like some poisonscale lizardmen, they follow a
+tradition based on internal alchemy. The specific variant practiced by
+deepscourges centers around manipulating and empowering their natural malodorous
+secretions to turn them into damaging and debilitating spells. Like Curse
+Chanters from the &lt;a href=&quot;/octopus-carnival/2021/01/08/troglodyte.html&quot;&gt;MM/MV post&lt;/a&gt;, deepscourges act as priests and leaders of
+troglodyte tribes, or as advisors to those leaders.&lt;/p&gt;
+
+&lt;p&gt;Deepscourges are Level 9 Artillery with the Leader keyword and 78 HP. Their
+slime is turbocharged: it projects the same Troglodyte Stench aura as the
+others, but it also projects an aura of &lt;strong&gt;Dizzying Stench&lt;/strong&gt; out to 10 squares!
+Despite the name this is actually a “buffing” effect, increasing the radius of
+the stench of any troglodytes inside by 1 square. I wonder if the auras of
+multiple deepscourges stack.&lt;/p&gt;
+
+&lt;p&gt;Their main ranged attacks are an at-will &lt;strong&gt;Debilitating Ray&lt;/strong&gt; that deals
+physical damage and weakens the target for a turn if it’s inside a stench
+aura. The stat block doesn’t list an attack roll, but I guess this is an
+editorial error and it should target AC.&lt;/p&gt;
+
+&lt;p&gt;They can also attack with an area-effect &lt;strong&gt;Rancid Cloud&lt;/strong&gt; (recharge 5+), which
+only affects “non-reptiles”, targets Fortitude, does more damage than the ray
+attack, and weakens for a turn.&lt;/p&gt;
+
+&lt;p&gt;When hit by an attack the deepscourge can project a &lt;strong&gt;Blinding Stench&lt;/strong&gt; in a
+burst around itself, targeting Fortitude and blinding (save ends) with no
+damage. If that doesn’t give it space to move away, it will be forced to use its
+weak &lt;strong&gt;claws&lt;/strong&gt; in melee.&lt;/p&gt;
+
+&lt;h2 id=&quot;troglodyte-temple-champion&quot;&gt;Troglodyte Temple Champion&lt;/h2&gt;
+
+&lt;p&gt;As the name implies, these are troglodyte holy warriors, usually tasked with
+guarding their temples. These temples usually honor Torog, but some are
+dedicated to even worse entities like Demogorgon or other demons.&lt;/p&gt;
+
+&lt;p&gt;The blessings they receive tend to be subtle, of the type that makes them
+smarter and more disciplined. They use a highly technical fighting style and
+carry much better equipment than the rank and file. Though champions can be most
+often found guarding a temple, they’re also sometimes sent on divine missions at
+the head of troglodyte expeditionary forces.&lt;/p&gt;
+
+&lt;p&gt;The Troglodyte Temple Champion is a Level 9 Soldier with 101 HP. It wears scale,
+wields a flail, and also carries 2 javelins into battle. The &lt;strong&gt;flail&lt;/strong&gt; and
+&lt;strong&gt;javelins&lt;/strong&gt; make up their basic attacks, and they also have a couple of special
+techniques. &lt;strong&gt;Sweeping Trip&lt;/strong&gt; is an at-will maneuver that does a bit less damage
+than an attack and knocks prone. &lt;strong&gt;Whirlwind Attack&lt;/strong&gt; is an encounter power that
+does basic attack damage in a Close Burst 1.&lt;/p&gt;
+
+&lt;p&gt;No marking mechanic here - the champion’s stickiness comes from their liberal
+use of Sweeping Trips to keep opponents prone at their feet.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I find the Deepscourge notable for being the first troglodytew stat block that
+can’t be easily re-skinned into another humanoid opponent. Its abilities are all
+about the stench, both its own and that of its allies. It’s a uniquely
+troglodytic monster.&lt;/p&gt;
+
+&lt;p&gt;Other than that, my opinion on troglodytes hasn’t changed much.&lt;/p&gt;
+
+&lt;p&gt;There’s four sample encounters between levels 7 and 12, and they’re all assorted
+bands of troglodytes. Sometimes they’re accompanied by drakes, and one of them
+has a balhannoth that likely appears as an opportunistic predator during the
+fight.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/18/troglodyte.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/troglodyte.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Tiger</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-tiger.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Tigers are real animals and have been part of the game since its
+beginnings. They’re some of the only animals whose “mundane” version was
+considered worthy of a monster stat block at this point in the edition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The book describes tigers as powerful and cunning predators that can be found in
+“rugged natural environments”. Let’s elaborate on that a bit, shall we?&lt;/p&gt;
+
+&lt;p&gt;According to Wikipedia “rugged natural environments” means mostly flat or hilly
+forests, but those can range from cold Siberian taigas to temperate forests to
+tropical jungles. A tiger requires a large amount of territory, which allows it
+to range far and hunt its prey (usually large herbivores). Tigers are “solitary
+but social”: they hunt alone but might nest together, with their range areas
+overlapping.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual 2 does add a bit of interesting fantastic lore by saying
+tigers are sometimes domesticated by &lt;em&gt;ogres&lt;/em&gt; of all people to serve as guard and
+hunting animals.&lt;/p&gt;
+
+&lt;p&gt;A wild D&amp;amp;D tiger is not shy about including adventurers in its menu. If they run
+across a battle while hunting, they might stalk its edges and pounce on any
+combatant that gets separated from the rest.&lt;/p&gt;
+
+&lt;p&gt;Dire tigers are as usual larger, stronger and spikier. They’re bolder and less
+opportunistic, directly stalking prey that seems to be alone and weaker than
+them. Their behavior is a lot closer to that of the tiger in &lt;em&gt;The Jungle Book&lt;/em&gt;
+than that of a real-world animal.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Both mundane and dire tigers are Large Natural Beasts with low-light vision, a
+ground speed of 8, and a climb speed of 4. Their signature ability is &lt;strong&gt;Feral
+Surge&lt;/strong&gt;, an encounter power that allows them to take a move action as a minor
+action.&lt;/p&gt;
+
+&lt;h3 id=&quot;tiger&quot;&gt;Tiger&lt;/h3&gt;
+
+&lt;p&gt;“Mundane” tigers are Level 6 Skirmishers with 73 HP. Their basic attack is a
+&lt;strong&gt;bite&lt;/strong&gt; that does immediate and ongoing damage.&lt;/p&gt;
+
+&lt;p&gt;During a fight, the tiger always wants to be moving and charging, as being on
+the move makes it much more dangerous. If forced to choose between a static
+fight and running away, it will likely take the second option every time.&lt;/p&gt;
+
+&lt;p&gt;The traits that make it want to move are &lt;strong&gt;Blur of Fur&lt;/strong&gt;, which gives it +4 AC
+against opportunity attacks in any turn where it moves 2 or more squares; and
+&lt;strong&gt;Charging Pounce&lt;/strong&gt;, which gives it bonus damage on charge attacks and makes it
+so charging &lt;em&gt;doesn’t&lt;/em&gt; end its turn. So it could use its standard action to
+charge, and then either a move action or Feral Surge to move away immediately.&lt;/p&gt;
+
+&lt;h3 id=&quot;dire-tiger&quot;&gt;Dire Tiger&lt;/h3&gt;
+
+&lt;p&gt;Dire Tigers are Level 8 Soldiers with 89 HP. Their &lt;strong&gt;bites&lt;/strong&gt; are stronger, and
+they’re much more likely to accept the challenge of a stand-up fight. Even then
+they’ll try to single out the weakest available target and kill it first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hunter’s Instinct&lt;/strong&gt; is an ability that helps then with that. It works exactly
+like the Hunter’s Quarry ability of a PC ranger. The tiger spends a minor action
+to make the nearest enemy its quarry, which lasts until the end of the encounter
+or until it uses this ability again. The quarry takes extra damage from all of
+the tiger’s attacks.&lt;/p&gt;
+
+&lt;p&gt;The dire tiger can also use a &lt;strong&gt;Leaping Pounce&lt;/strong&gt; as a reaction whenever its
+quarry is within 5 squares. It allows the creature to shift to a space adjacent
+to the quarry and bite it. Since this is a leap, the tiger can cross enemy
+spaces during the shift.&lt;/p&gt;
+
+&lt;p&gt;Marking the right quarry requires some clever positioning, but once that happens
+it will be hard for the other players to protect the victim from the tiger’s
+leaps.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These tigers have some cool mechanics to them, which is better than the generic
+bags of HP I remember them being in previous editions. They also feel pretty
+different from each other! I still would hesitate a bit before placing wild
+tigers as opposition to my PCs, what with them being endangered in reality and
+all.&lt;/p&gt;
+
+&lt;p&gt;We have two sample encounters here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 7: A couple of ogre savages taking their two pet tigers and their pet
+macetail behemoth out for a stroll. Shrek and Fiona?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A weretiger running with a pack/harem of three dire tigers. The fact that you
+have tigers running in packs should be a hint that there’s something unnatural
+going on.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/02/18/tiger.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/tiger.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Steel Predator</title>
@@ -1047,328 +1404,6 @@ of it.&lt;/p&gt;
         <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Slaad</title>
-        <description>&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Slaads already made their 4e debut in the first Monster Manual, and you can
-check out the post I wrote on them &lt;a href=&quot;/octopus-carnival/2020/12/23/slaad.html&quot;&gt;here&lt;/a&gt;. This MM2 entry brings us a
-lower-level, less-popular slaad type and an alternate mechanic for the horrific
-slaad spawning cycle.&lt;/p&gt;
-
-&lt;h2 id=&quot;flux-slaad&quot;&gt;Flux Slaad&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaad-flux.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Flux slaads seem to be the runts of the slaad family. They’re weaker and
-stupider than their relatives, they can’t spawn, and their chaotic mutations are
-at best a mixed blessing. Still, being weaker actually means they might have an
-easier time slipping through a dimensional crack into the world, which they love
-because it allows them to lord it over creatures even weaker than them.&lt;/p&gt;
-
-&lt;p&gt;Flux slaads who slip into the world often end up conquering bullywug tribes and
-setting themselves up as their god-kings. Finding one of these on the throne
-instead of the usual “slightly stronger frog-dude” can be an interesting
-experience for cocky PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Flux Slaads are Medium Elemental Humanoids, and Level 9 Skirmishers with 98
-HP. They have low-light vision, a ground speed of 7, and a teleport speed
-of 2.&lt;/p&gt;
-
-&lt;p&gt;They fight with their &lt;strong&gt;claws&lt;/strong&gt;. They can use those in a &lt;strong&gt;Flux Rage&lt;/strong&gt; maneuver
-that allows them to shift 2 squares and attack everyone they pass by during this
-movement. This recharges when they’re first bloodied. When they take damage from
-an attack, they can shift 1 square as a reaction.&lt;/p&gt;
-
-&lt;p&gt;Nothing special so far, but now we come to the part that gives these slaads
-their names. &lt;strong&gt;Slaad Vulnerability Shift&lt;/strong&gt; should really have a name that
-includes the word “flux” in it. This trait makes the slaad start out with random
-vulnerability determined by a d6 roll: (1) cold, (2) fire, (3) lightning, (4)
-necrotic, (5) psychic, (6) thunder. The slaad has Vulnerability 10 to that
-damage type, but Resistance 5 to all the other table entries. Every time the
-slaad takes damage from its current weakness, you roll the die again and
-determine a new weakness.&lt;/p&gt;
-
-&lt;h2 id=&quot;slaad-spawn&quot;&gt;Slaad Spawn&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaad-spawner.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Illustration by Wayne England. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Most slaads reproduce by infecting victims with a disease called Chaos Phage,
-which causes slad tadpoles to gestate within the victim’s flesh. The tadpole
-grows and eventually erupts from its host, running away to mature
-elsewhere. This was covered in the &lt;a href=&quot;/octopus-carnival/2020/12/23/slaad.html&quot;&gt;MM entry&lt;/a&gt; for Slaads.&lt;/p&gt;
-
-&lt;p&gt;A few of them are instead infected with a mutant strain of chaos phage, which
-produces embryos in their &lt;em&gt;own&lt;/em&gt; flesh. These slaads are covered in gross giant
-boils that pop when they’re wounded, spawning miniature versions of
-themselves. These spawn are both almost mindless and extremely aggressive, so
-they often get used as weapons by their “parents”. Should they survive the
-circumstances of their birth, the spawn develop quickly and begin exhibiting
-powers similar to those of an adult within days.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Spawn are Small Elemental Humanoids, and Level 17 Minion Skirmishers. They have
-low-light vision, a running speed of 5, and a teleport speed of 3. They attack
-with &lt;strong&gt;bites&lt;/strong&gt; and can also pounce using a &lt;strong&gt;Chaotic Slam&lt;/strong&gt;. On a hit, they
-damage and knock down the target. On a miss, they explode, dealing a bit of
-damage in a Close Burst 1.&lt;/p&gt;
-
-&lt;p&gt;We also get stats for an elite template named &lt;strong&gt;Slaad Spawner&lt;/strong&gt;, which can be
-applied to any Large-sized regular slaad. This is turns the slaad into an elite
-monster, and adds a &lt;strong&gt;Spawn Slaad&lt;/strong&gt; reaction power that creates a new slaad
-spawn whenever the spawner is hit by an attack. The new spawn appears adjacent
-to the spawner, and acts right after the spawner’s action. The template is
-unusual in that it doesn’t add additional HP to the regular monster. It does
-bring a new minion into play every round, so maybe they thought this was enough
-to make up for their lower HP. The spawner is worth double the experience of the
-original slaad, but the spawned minions aren’t worth any.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The flux slaad is kinda meh aside from its “weakness roulette” mechanic. The
-roulette is interesting, but your party needs a lot of damage types (or a lot of
-lucky d6 rolls) to keep it spinning. Otherwise it’s going to stop on a type they
-can’t use, which means the slaad becomes resistant to the types they can. At
-least you can always beat it up using physical damage, which means martial types
-can end up being more effective against it than the casters.&lt;/p&gt;
-
-&lt;p&gt;Perhaps you could build a “puzzle boss” that had the same mechanic, plus some
-way for the party to influence the result of the d6 roll.&lt;/p&gt;
-
-&lt;p&gt;Slaad spawn and the Spawner template bring another flavor of body horror to a
-slaad fight. Since it seems spawn mature even faster than tadpoles, a spawner
-presents an even nastier apocalyptic scenario than a normal slaad. It also
-presents the GM with an excuse to throw lots of de-leveled slaads against a
-heroic tier party, since those could be “immature” slaads that have grown past
-the spawn stage but not developer all the way yet.&lt;/p&gt;
-
-&lt;p&gt;Our two sample encounters are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 8: A death shard, 3 flux slaads, and 2 slaad tadpoles. Likely brought to
-the world by a small Elemental or Abyssal rift.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 17: 2 blue slaads, 1 green slaad, 8 slaad spawn. The blues and green are
-likely minding their little siblings and doing a typical slaad job of it. Note
-that the spawn are worth XP in this encounter, since they’re not “produced” by
-an on-site spawner.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/01/05/slaad.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/05/slaad.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Skeleton</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-skeleton.png&quot;/&gt;
-  &lt;figcaption&gt;
-     Illustration by Adam Gilespie. Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The first Monster Manual already included &lt;a href=&quot;/octopus-carnival/2020/12/13/skeleton.html&quot;&gt;plenty of skeletons&lt;/a&gt;, so this time
-we just get a couple more of them. The basic lore remains the same and you can
-see it in the link above.&lt;/p&gt;
-
-&lt;h2 id=&quot;bonecrusher-skeleton&quot;&gt;Bonecrusher Skeleton&lt;/h2&gt;
-
-&lt;p&gt;A Large-sized skeleton that used to belong to an ogre, minotaur, oni, or similar
-creature. Not having to haul all that flesh around makes it surprisingly fast
-for its size.&lt;/p&gt;
-
-&lt;p&gt;This is a Large Natural Animate with the Undead keyword, and a Level 7 Soldier
-with 80 HP. It has all usual skeleton traits: darkvision, immunity to disease
-and poison, resist 10 necrotic, vulnerable 5 radiant. It runs at speed 8.&lt;/p&gt;
-
-&lt;p&gt;The skeleton wields a Reach 2 &lt;strong&gt;greatclub&lt;/strong&gt;, and it can use it to perform a
-&lt;strong&gt;Crushing Blow&lt;/strong&gt; (reach 2; recharge 6+) that does more damage and knocks the
-target prone. Its superb agility is expressed as &lt;strong&gt;Threatening Reach 2&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;skeletal-steed&quot;&gt;Skeletal Steed&lt;/h2&gt;
-
-&lt;p&gt;A horse skeleton that can act as a fearless and tireless mount, proving that
-mundane horses truly suck in 4e. Even a dead horse is better mount than a live
-one.&lt;/p&gt;
-
-&lt;p&gt;Skeletal horses are Level 3 Skirmishers with 47 HP, darkvision, and immunity to
-disease and poison. They don’t have resistance to necrotic damage or
-vulnerability to radiant damage. Their ground speed of 8 and their fearless,
-untiring nature make them highly desired as mounts by people who don’t mind the
-whole skeleton thing.&lt;/p&gt;
-
-&lt;p&gt;If forced to fight the skeletal steed uses &lt;strong&gt;kicks&lt;/strong&gt; like a normal horse, and
-they can also perform them as part of a &lt;strong&gt;Mobile Melee Attack&lt;/strong&gt;. You know the
-drill on this one: the steed moves its speed, makes an attack at any point along
-the way, and doesn’t draw opportunity attacks. It can also emit a &lt;strong&gt;Death
-Shriek&lt;/strong&gt; (fear; close burst 3; recharge 5+) that does no damage and inflicts a
--2 attack penalty (save ends).&lt;/p&gt;
-
-&lt;p&gt;When used as a mount, the steed allows its rider to join in on the Mobile Melee
-Attack. Either the rider makes a basic attack while still allowing the steed to
-kick, or the steed gives up its attack to allow the rider to use a non-basic
-power.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These new skeleton types rise in much the same way as the other ones. Most often
-it’s because a necromancer intentionally animates them, but sometimes a freak
-accident with necrotic energy can cause them to rise up as well. In such cases,
-skeletal steeds tend to rise along with their former riders.&lt;/p&gt;
-
-&lt;p&gt;We get two sample encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 5: 1 deathlock wight and 2 standard wights riding skeletal
-steeds. Ancient horsemen riding again.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 6: 1 orc eye of Gruumsh plus a zombie hulk and three bonecrusher
-skeletons. Orc necromancer and his undead ogres.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/23/skeleton.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/23/skeleton.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Shark</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-shark.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Illustration by Jim Nelson. Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Sharks are are real-world animals, and this Monster Manual 2 entry is their
-debut on D&amp;amp;D Fourth Edition. The &lt;a href=&quot;/octopus-carnival/2020/11/11/sahuagin.html&quot;&gt;Sahuagin&lt;/a&gt; entry from the first Monster
-Manual mentioned them a lot but that book didn’t have shark stats. The Monster
-Vault did have them, and we already looked at its take on sharks in the post
-linked above.&lt;/p&gt;
-
-&lt;p&gt;There are many species of real-world sharks, with very varied looks and
-behavior. Rather than worry about any of that, the Monster Manual 2 gives us a
-fantastic species based on our worst fears about sharks. Witness the horrible
-might of the Fleshtearer Shark, the bullete of the sea!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Fleshtearer sharks seem to be kinda modeled on the shark from Jaws. They’re big,
-they’re stupid, they’ll try to eat anything they can bite, and that can include
-boats. These sharks can thrive anywhere, I do mean anywhere: not only can you
-find them in oceans of any temperature, they sometimes live in rivers and lakes
-and even swim in the Underdark.&lt;/p&gt;
-
-&lt;p&gt;Fleshtearers can live for hundreds of years and never stop growing, which can
-make those subterranean sharks even larger and stronger than the typical
-specimen presented in this entry.&lt;/p&gt;
-
-&lt;p&gt;Sahuagin and kuo-toa usually steer clear of fleshtearer sharks because they’re
-too dangerous to tame, but sometimes a heroic trainer among them will manage the
-feat. In this case, the “tame” flesh-tearer is used in raids against large
-ships, eating anyone who falls overboard and biting holes in the hull.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Fleshtearer sharks are Large Natural Beasts with the Aquatic keyword. They’re
-Level 10 Brutes with 128 HP and low-light vision. They swim at speed 8, but can
-only flop around at speed 1 on land.&lt;/p&gt;
-
-&lt;p&gt;The Aquatic keyword gives the shark a +2 attack bonus against non-aquatic
-opponents when both are in water, and it also has a custom &lt;strong&gt;Waterborne&lt;/strong&gt; trait
-that stacks a +2 damage bonus on top of that.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is of course a &lt;strong&gt;Bite&lt;/strong&gt;, but they also have several special
-maneuvers. &lt;strong&gt;Lockjaw Charge&lt;/strong&gt; is a charge attack that also grabs the
-target. Grabbed targets are vulnerable to the shark’s &lt;strong&gt;shredding teeth&lt;/strong&gt;, which
-always hit and deal heavy damage.&lt;/p&gt;
-
-&lt;p&gt;The shark has no special ability to pull a grabbed victim along when it moves,
-so it must use the standard rules for doing that (opposed Strength tests). It
-can also choose to stay in place while it chews into the victim with Shredding
-Teeth.&lt;/p&gt;
-
-&lt;p&gt;A fleshtearer shark will lurk out of detection range until it picks a target
-(the tastiest-looking PC). It will then use Lockjaw charge on them, relying on
-its toughness to weather any opportunity attacks. It will probably release the
-grab and swim away for another pass rather than getting pinned down by the other
-PCs, but it’s too obstinate to run and usually fights to the death.&lt;/p&gt;
-
-&lt;p&gt;The shark’s bloodlust often gets in the way of those tactics, which is
-represented by a trait named &lt;strong&gt;Feeding Frenzy&lt;/strong&gt;. When the shark starts its turn
-within 5 squares of a bloodied creature, it must make a bite attack against a
-creature adjacent to itself, which will also make it release a grabbed victim if
-it has one. “Creature” here means both allies and enemies can trigger the effect
-and be valid targets for the bite attack. Even a “tame” shark is dangerous to
-its allies.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;It’s a movie shark, doing movie shark things. If you’re adventuring on or under
-water, you might run into it, otherwise it won’t usually impact your adventuring
-life.&lt;/p&gt;
-
-&lt;p&gt;You can make them Huge and level them up to represent Underdark sharks, in which
-case they might make good thralls for Aboleths and for Mind Flayers who want to
-fight Aboleths.&lt;/p&gt;
-
-&lt;p&gt;We get one sample encounter here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Level 10: 2 fleshtearer sharks, 1 sahuagin baron, 2 sahuagin priests. This is
-likely the “command squad” for a bigger raid against a large ship or coastal
-village. They’d stay a bit further away from the front lines, and engaging
-them might be necessary to end the raid.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/12/17/shark.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/12/17/shark.html</guid>
         
         <category>dnd4</category>
         
