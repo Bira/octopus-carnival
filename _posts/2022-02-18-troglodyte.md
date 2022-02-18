@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-troglodyte.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 We already saw troglodytes in our reading of the [Monster Manual and Vault][2],
 and their basic lore remains the same. We get a few additional entries with
 their own lore here.
@@ -19,8 +30,8 @@ inflicts a -2 penalty to attacks. They have Darkvision and a speed of 5.
 We already discussed their lore in the [MM/MV post][2], so I'm not going to
 repeat that discussion here. However we do get a bit of additional lore. It
 seems thrashers are actually _nonsapient_, and their fellow troglodytes keep
-them in cages when not using them as attack beasts. I wouldn't use this charming
-bit of lore in my own campaigns.
+them in cages when not using them as attack beasts. I wouldn't use this
+"charming" bit of lore in my own campaigns.
 
 ## Troglodyte Deepscourge
 
@@ -88,4 +99,5 @@ bands of troglodytes. Sometimes they're accompanied by drakes, and one of them
 has a balhannoth that likely appears as an opportunistic predator during the
 fight.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2021/01/08/troglodyte.html" | relative_url }}
