@@ -142,6 +142,9 @@ variants here. Here they are, from A to Z:
   - [Star Spawn][85]
   - [Steel Predator][86]
 
+- T
+  - [Tiger][87]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -230,3 +233,4 @@ variants here. Here they are, from A to Z:
 [84]: {{ "/2022/02/01/sprite.html" | relative_url }}
 [85]: {{ "/2022/02/03/star-spawn.html" | relative_url }}
 [86]: {{ "/2022/02/09/steel-predator.html" | relative_url }}
+[87]: {{ "/2021/02/19/tiger.html" | relative_url }}
