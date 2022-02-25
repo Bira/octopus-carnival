@@ -6,6 +6,28 @@ tags:
     - dungeon-fantasy
 ---
 
+
+I've been meaning to write something like this for a while now, and now that
+there are rumors of actual Dark Souls-based RPGs I feel like it's become
+topical.
+
+There's an official Dark Souls game in Japan that might get an English
+translation, and there's someone else planning to write a D&D 5 adaptation. And
+here I'd like to talk about how I would write an adaptation of my own.
+
+## What Makes a "Soulsborne" Game?
+
+The video game genre known as "Soulsborne" takes its name from two of its most
+famous representatives: Dark Souls and Bloodborne. It's a genre notable for
+being mostly made up of games from a single company, From Software. They've
+released the first game in the genre (Demons' Souls), and kept on improving and
+varying the formula ever since.
+
+There are many different factors that come together to make a game feel like
+it's part of this genre.
+
+#===============================================================================
+
 Dungeon Fantasy campaigns traditionally rely on two main types of reward to keep
 those delvers coming back: treasure and experience. Experience means character
 points, and we all know what those do. As for treasure, it's usually further

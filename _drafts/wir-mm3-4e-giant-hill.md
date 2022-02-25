@@ -46,9 +46,9 @@ they hit.
 
 ### Hill Giant Rockthrower
 
-The MM1 and MV give us an artillery giant that uses big javelins, but if you're
-a purist you want your giants to throw rocks and nothing but rocks. If that's
-the case, the Rockthrower is for you.
+The MM1 and MV give us an artillery giant that uses big javelins. But if you
+want your giants to throw rocks and nothing but rocks, the Rockthrower is for
+you.
 
 Rockthrowers are Level 12 Artillery with 97 HP. As artillery monsters, their
 **Greatclub** attacks are kinda weak, but their basic ranged attack is a
