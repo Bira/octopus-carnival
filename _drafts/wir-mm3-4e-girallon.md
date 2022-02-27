@@ -69,8 +69,8 @@ are packs of Infernal Girallons roaming and hunting through both the Elemental
 Chaos and the Nine Hells.
 
 These have all the same traits as a basic girallon but are Immortal instead of
-Natural, and have the Devil keyword and Darkvision. They're Level 22 Brutes with
-249 HP and all the same abilities as a basic girallon.
+Natural. They have the Devil keyword and Darkvision. They're Level 22 Brutes
+with 249 HP and all the same abilities as a basic girallon.
 
 Their first new power is a trait named **Burning Soul**. This aura (2) causes 10
 fire damage to enemies caught inside, or 20 if the girallon is bloodied. Better
