@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Go [here][1] to see the other entries.
+
 Will-O'-Wisps in D&D are inspired by folklore, and their legend is in turn
 inspired by the natural phenomena that make swamp gas glow at night. I think
 they've been in the game since AD&D, though their exact lore might have changed
@@ -72,3 +74,5 @@ those dazed characters.
 
 Our sample encounter is level 9: two wisps and a quartet of spriggans (two
 powries, 2 thorns). Evil fairies all around.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
