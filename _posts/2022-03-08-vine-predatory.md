@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-vine-predatory.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 That's the actual title of the entry, so we have another case of Old School
 Titling here. Dangerous plants have been a part of the game since its
 beginnings, and I bet a lot of the individual monsters collected in this entry
@@ -101,6 +112,15 @@ time... but you _can_ have multiple bloodtorn vines on the same encounter group.
 
 ## Greenvise Vine
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-vine-greenvise.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 So named because "Piranha Plant" is already taken. This is a Large Natural
 plant, and a Level 7 Soldier with 83 HP. Its speed is only 4, so it relies on
 grabbing targets to prevent them from running away.
@@ -131,3 +151,5 @@ We have three encounters here:
 
 - Level 17: 1 ambush vine, 1 lingerer fell incanter, 1 lingerer fell
   knight. Sinister vestiges of lost Cendriane.
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

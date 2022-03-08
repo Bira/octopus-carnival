@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-warforged.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 Warforged were originally introduced with the Eberron setting in 3e, as a
 playable option. They made their 4e debut in the [first Monster Manual][2],
 which a couple of "monster" stat blocks for warforged and some abbreviated rules
@@ -75,7 +86,7 @@ Like the resounder, this spellcaster retains a bit of the power of its creation
 forge and uses that as a source of magic. The main difference is that the
 anvilpriest focuses on the searing heat of forge-fire. Despite the name, many
 anvilpriests aren't all that religious. Some are real clerics, though, and a
-small number of them actually worships the creation forges themselves. I guess
+small number of them actually worship the creation forges themselves. I guess
 the latter are mostly found amid the Lord of Blades' forces.
 
 Anvilpriests are Level 8 Controllers with the Leader keyword and 89 HP. They
@@ -98,6 +109,15 @@ burst 5 temporary HP. If those allies are Warforged, they can also use their
 Warforged Resolve power as an immediate reaction to this power.
 
 ## Warforged Titan
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-warforged-titan.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Titans were some of the earliest models of warforged developed by Cannith
 engineers. They're as big and as powerful as their name implies, but they're
@@ -128,7 +148,10 @@ hammer follow-up.
 ## Sample Encounters and Final Impressions
 
 Warforged are people. You can find them fighting for any cause people tend to
-fight for. Good, evil, or just plain selfish.
+fight for. Good, evil, or just plain selfish. They're relatively recent
+creations in Eberron, but other settings might have then as ancient
+survivors/relics of a fallen empire. Titans work well as McGuffins in that role,
+since they'll obey anyone who displays the mark of their creator.
 
 We have two sample encounters:
 
@@ -137,4 +160,5 @@ We have two sample encounters:
 - Level 19: A cambion hellfire magus, a steel predator, and a warforged
   titan. Someone found themselves a few control amulets.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2021/02/07/warforged.html" | relative_url }}

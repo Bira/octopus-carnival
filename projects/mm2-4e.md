@@ -147,6 +147,16 @@ variants here. Here they are, from A to Z:
   - [Troglodyte][88]
   - [Troll][89]
 
+- V
+  - [Vine, Predatory][90]
+
+- W
+  - [Warforged][91]
+  - [Will-O'-Wisp][92]
+  - [Witherling][93]
+  - [Wolf, Winter][94]
+  - [Wood Woad][95]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -238,3 +248,9 @@ variants here. Here they are, from A to Z:
 [87]: {{ "/2022/02/18/tiger.html" | relative_url }}
 [88]: {{ "/2022/02/18/troglodyte.html" | relative_url }}
 [89]: {{ "/2022/02/18/troll.html" | relative_url }}
+[90]: {{ "/2022/03/08/vine-predatory.html" | relative_url }}
+[91]: {{ "/2022/03/08/warforged.html" | relative_url }}
+[92]: {{ "/2022/03/08/will-o-wisp.html" | relative_url }}
+[93]: {{ "/2022/03/08/witherling.html" | relative_url }}
+[94]: {{ "/2022/03/08/wolf-winter.html" | relative_url }}
+[95]: {{ "/2022/03/08/wood-woad.html" | relative_url }}

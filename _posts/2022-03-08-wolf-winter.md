@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm2-4e-wolf-winter.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2009 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Go [here][1] to see the other entries.
+
 The Monster Manual already gave us [wolves normal and dire][2], and it also gave
 us [worgs][3]. Now the Monster Manual 2 continues to climb the wolf power
 ladder. I first remember seeing Winter Wolves in the 3e monster books, but I'm
@@ -140,5 +151,6 @@ stat blocks have good mechanics, though.
 The sample encounter is level 14: a Chillfire Destroyer elemental and a pair of
 winter wolves being bossed around by a Beholder Eye of Frost.
 
+[1]: {{ "/projects/mm2-4e/" | relative_url }}
 [2]: {{ "/2021/02/13/wolves.html" | relative_url }}
 [3]: {{ "/2021/02/19/worg.html" | relative_url }}
