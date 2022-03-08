@@ -6,9 +6,777 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Mar 2022 17:19:43 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Mar 2022 17:19:43 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Mar 2022 18:15:13 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Mar 2022 18:15:13 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-will-o-wisp.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Will-O’-Wisps in D&amp;amp;D are inspired by folklore, and their legend is in turn
+inspired by the natural phenomena that make swamp gas glow at night. I think
+they’ve been in the game since AD&amp;amp;D, though their exact lore might have changed
+a bit over the years.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Will-o’-wisps are cruel fey spirits who feed on the fear and despair of other
+sapients. They like to hang out in swamps and marshes, whose natural mists and
+swamp lights provide them with hiding places. Their bodies are orbs of gauzy
+material, and they glow with an otherwordly light that has the power to lure
+unwary victims. It can also burn their flesh and drain their spirit.&lt;/p&gt;
+
+&lt;p&gt;Their tactics are pretty much iconic - lure victims to an isolated place full of
+hindering terrain and kill them in a way that produces maximum horror.&lt;/p&gt;
+
+&lt;p&gt;These creatures can communicate in Elven, and when they speak they have that
+cool effect where they brighten and dim in compass with their speech. They can
+also douse their light for better stealth, but this also prevents them from
+using it as a weapon.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Will-o’-Wisps are Small Fey Magical Beasts, and Level 10 Lurkers with 57
+HP. They count as Insubstantial, taking only half damage from non-force
+attacks. They have low-light vision and a flight speed of 6 with Hover, and an
+altitude limit of 2 squares.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, wisps can turn their light on or off using the &lt;strong&gt;Fey Light&lt;/strong&gt;
+ability (minor action 1/round). A darkened wisp has concealment and can make
+Stealth checks to become hidden, but it cannot attack. If a wisp is missed by an
+attack, it can &lt;strong&gt;Blink Out&lt;/strong&gt; as a reaction. When this happens, the wisp darkens
+and teleports 5 squares. I guess it can make that Stealth check as part of this
+action too.&lt;/p&gt;
+
+&lt;p&gt;The wisp’s attacks are all light-based. The most classic one is of course
+&lt;strong&gt;Luring Glow&lt;/strong&gt;. This is a Close Burst 20 that targets one non-blinded creature,
+which is another way to say it’s a ranged attack that doesn’t draw opportunity
+attacks. It targets Will, does no damage, pulls the victim 3 squares, and dazes
+it (save ends).&lt;/p&gt;
+
+&lt;p&gt;Once the victim is in range and vulnerable, the wisp is going to hit it with its
+basic &lt;strong&gt;Glimmer Wisp&lt;/strong&gt; attack, which is Reach 2, targets Reflex, and does
+radiant damage. Once per encounter it can also use &lt;strong&gt;Spirit Drain&lt;/strong&gt; on a
+bloodied target. This is a Reach 3 attack that targets Fortitude, deals psychic
+damage, weakens (save ends) and heals the wisp for 14 HP.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Wisps are lurkers and have a couple of good stealth powers, but they don’t
+seem to have a lot of ability to take advantage of this stealth. Their best
+power is the very controller-y Luring Glow. When building wisp fights, you
+should pair them with other opportunistic monsters that can bring the hurt to
+those dazed characters.&lt;/p&gt;
+
+&lt;p&gt;Our sample encounter is level 9: two wisps and a quartet of spriggans (two
+powries, 2 thorns). Evil fairies all around.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Mar 2022 18:15:13 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/2022-03-08-will-o-wisp.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/2022-03-08-will-o-wisp.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Wood Woad</title>
+        <description>&lt;p&gt;I think I remember seeing mention of Wood Woads in AD&amp;amp;D somewhere, but I
+couldn’t find them in my books. This is their 4e debut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Wood Woads are fey creatures distantly related to dryads. Like dryads, they
+devoutly protect the natural environment of their home region. Unlike dryads,
+they all look male and have absolutely zero chill.&lt;/p&gt;
+
+&lt;p&gt;Not only do wood woads attack would-be despoilers of nature with murderous
+intent, they tend to blame each new intruder for the crimes of all the previous
+ones. So even if you’re careful with the environment and try to approach them
+peacefully, they’ll still try to kill you because some fool cut a tree down
+years ago and managed to run away.&lt;/p&gt;
+
+&lt;p&gt;Wood woads tend to ally with other sworn protectors of nature, like dryads,
+centaurs and some elves or other fey. So I guess you could still deal with them
+peacefully if you manage to approach those allies first and get them to vouch
+for you, or have them act as intermediaries.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get a single Wood Woad stat block. It’s a Medium Fey Humanoid with the Plant
+keyword, and a Level 8 Soldier with 92 HP. It has trained Perception, and a
+ground speed of 5.&lt;/p&gt;
+
+&lt;p&gt;Wood Woads wield wooden shields and clubs. Their basic attack is the &lt;strong&gt;club&lt;/strong&gt;,
+which does average damage and has no special effects. They can channel magic
+through it to inflict &lt;strong&gt;Nature’s Judgment&lt;/strong&gt; (recharge 6+, Reliable) on a
+target. This is an attack that does more damage than the basic club,
+immobilizes, and inflicts ongoing physical damage on the target. When the target
+takes this ongoing damage, the closest fey or plant ally of the wood woad heals
+the same amount of HP.&lt;/p&gt;
+
+&lt;p&gt;The Reliable keyword means this power isn’t used up if the attack misses. The
+wood woad can keep trying to use it until it hits someone, and only them will it
+need to make recharge rolls. This attack becomes more useful if all of the wood
+woad’s allies are either plants or fey.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter it can also curse someone with &lt;strong&gt;Nature’s Mystery&lt;/strong&gt; as a
+minor action. This inflicts a -2 penalty on all of the target’s attacks,
+defenses, and saves. The save to end this effect has an &lt;em&gt;additional&lt;/em&gt; -5 penalty
+unless the target can succeed at a DC 20 Nature check before rolling it. Guess
+this spell has a loophole somewhere.&lt;/p&gt;
+
+&lt;p&gt;This is different from the sphinx ability we saw earlier in this Let’s Read,
+because no one else can make the Nature test in the target’s place. This makes
+Nature’s Mystery an excellent ability to use on most defenders, since they tend
+to have low-to-middling Wisdom and no training in Nature. Wardens are the big
+exception to this.&lt;/p&gt;
+
+&lt;p&gt;Targets affected by this Nature’s Mystery are also prime targets for Nature’s
+Judgment. Make sure to surround them with plant and fey monsters after they get
+hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;We get two sample encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 8: Two dryads, two vine horror spellfiends, 2 wood woads. Did the vine
+horror manage to convince the fey it’s part of the local natural environment?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 9: 1 Gnome Entropist, 1 Satyr Piper, 1 Shambling Mound, 3 Wood Woads. I
+guess the gnome is a actually a druid using the entropist stat block.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I like the feel of the mechanics on this one, but the lore is once again a bit
+uninspiring. It’s another humanoid fey plant that’s fanatical about protecting
+nature, just like dryads and treants. I guess they can round out the cast when
+you want to focus a game on a faction of such beings, but we already have a lot
+of other possible creatures that belong there as well (satyrs, centaurs, elven
+druids, and so on).&lt;/p&gt;
+
+&lt;p&gt;If you want to use the wood woad stat block but don’t want to say they’re a
+completely separate species, just say they’re small treants instead.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/wood-woad.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/wood-woad.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Winter Wolf</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-wolf-winter.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual already gave us &lt;a href=&quot;/octopus-carnival/2021/02/13/wolves.html&quot;&gt;wolves normal and dire&lt;/a&gt;, and it also gave
+us &lt;a href=&quot;/octopus-carnival/2021/02/19/worg.html&quot;&gt;worgs&lt;/a&gt;. Now the Monster Manual 2 continues to climb the wolf power
+ladder. I first remember seeing Winter Wolves in the 3e monster books, but I’m
+pretty sure they’ve been around longer than that.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;If I tried to explain how all of these monsters fit together I suppose I’d say
+it all starts with the Sons of the Spirit Wolf. The Great Spirit Wolf is a
+godlike primal spirit, and his progeny wander the world forever trying to
+satisfy their endless hunger. I guess they’re more or less equivalent to the
+various wolf spirits worshipped by the Uratha from Werewolf: The Forsaken, only
+not nearly as nice.&lt;/p&gt;
+
+&lt;p&gt;These primal spirits probably had descendants themselves, which would be your
+“standard” winter wolves. These fit above worgs in the Wolf Power
+Ladder. They’re a bit smaller than worgs, but are much deadlier, much smarter,
+and just as evil. They also have ice powers.&lt;/p&gt;
+
+&lt;p&gt;At some point a primordial entity of ice and cold might have taken a look at
+the Sons of the Spirit Wolf and thought hey, I want me some of that. So it
+developed a process where it takes the living heart of an elemental blizzard and
+fashions a Rime Hound out of it. Unlike the creatures they are modeled after,
+Rime Hounds are entirely made of ice. Their creators give them as gifts to loyal
+servants and worshippers.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All the creatures in this entry are Magical Beasts. Winter wolves are Natural,
+and the others are Elemental. They all have low-light vision and a ground speed
+of 8 with Ice Walk, which means they ignore cold-themed difficult terrain. Sons
+of the Spirit Wolf have Resist Cold 30, all the others have Resist Cold 20.&lt;/p&gt;
+
+&lt;p&gt;Their powers are a combination of the usual wolfy bites and takedowns with a
+suite of frost breath weapons and the like, but the specifics vary with each
+stat block. Their Int scores are in the average human range. We’ll look at them
+by order of level.&lt;/p&gt;
+
+&lt;h3 id=&quot;winter-wolf&quot;&gt;Winter Wolf&lt;/h3&gt;
+
+&lt;p&gt;Winter Wolves are Medium, and are Level 14 Skirmishers with 141 HP. They attack
+with &lt;strong&gt;bites&lt;/strong&gt; that deal bonus cold damage, and deal about double damage to
+prone targets. They can get people prone with a &lt;strong&gt;Takedown&lt;/strong&gt;, a charge attack
+that’s stronger than the basic bite and knocks the target prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;If a winter wolf is adjacent to a prone target it can use &lt;strong&gt;Drag&lt;/strong&gt;, an at-will
+minor action that allows the wolf to shift 1 square and pull the prone victim
+along with it. It’s more than smart enough to use this to put the victim in a
+position to be surrounded by its wolf buddies.&lt;/p&gt;
+
+&lt;p&gt;Finally, winter wolves can use a &lt;strong&gt;Freezing Breath&lt;/strong&gt; (recharge 5+), a Close
+Blast 5 that targets Reflex and deals cold damage (half on a miss). This
+attack’s damage is smaller than the wolf’s cold resistance, so a pack of winter
+wolves is going to try to get the party all bunched up and then hit them with
+multiple blasts.&lt;/p&gt;
+
+&lt;h3 id=&quot;winter-wolf-snowfang&quot;&gt;Winter Wolf Snowfang&lt;/h3&gt;
+
+&lt;p&gt;Snowfangs are Level 16 Lurkers with 124 HP, representing the sort of wily wolf
+that keeps out of sight and nips at your heels until you’re too weak to fight
+back. Rather than relying on takedowns, it tries to freeze its victims.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; do bonus cold damage, and are stronger against victims who are
+taking ongoing cold damage. Their &lt;strong&gt;Frigid Breath&lt;/strong&gt; works like that of the
+standard winter wolf with an added ongoing cold damage rider.&lt;/p&gt;
+
+&lt;p&gt;The snowfang’s lurker-y ability is &lt;strong&gt;Snow Zephyr&lt;/strong&gt;, a reaction that triggers
+when it gets damaged and turns it into a whirlwind of snow. This causes the
+snowfang to become insubstantial, and to gain the ability to shift its speed as
+a move action. In this form it can only attack with Frigid Breath, which also
+causes it to revert to wolf form. It can also revert voluntarily as a minor
+action.&lt;/p&gt;
+
+&lt;p&gt;These powers allow snowfangs to act as very effective harriers: they charge in,
+use Freezing Breath, and fight until damaged. Then they shift away in Snow
+Zephyr form, and vanish for a while. Then they come back, perhaps even still in
+zephyr form, use Freezing Breath again, and repeat the process. You could use
+them like this as persistent foes who refuse to have a stand-up fight to the
+last, and who pop up to make opportunistic attacks in the middle of other
+encounters.&lt;/p&gt;
+
+&lt;h3 id=&quot;rime-hounds&quot;&gt;Rime Hounds&lt;/h3&gt;
+
+&lt;p&gt;These knockoff winter wolves are quite well-made! They’re Huge in size, and are
+Level 17 Elite Skirmishers with 332 HP. They have the Earth, Cold, and Mount
+keywords, so they’re appropriate mounts for ice giants!&lt;/p&gt;
+
+&lt;p&gt;They have Reach 2 Bite and Takedown attacks identical to those of a winter wolf,
+with bigger numbers. They have the same Drag ability as well. Instead of a
+Freezing Breath, they have &lt;strong&gt;Frost Storm&lt;/strong&gt;, a Close Burst 3 that targets
+Fortitude and deals cold damage (half on a miss). This creates a zone of frozen
+difficult terrain that lasts for a turn.&lt;/p&gt;
+
+&lt;p&gt;Finally, their “elite multi-attack” power is actually a reaction: &lt;strong&gt;Ice
+Spikes&lt;/strong&gt; which extend whenever the hound or its rider are missed by an enemy
+melee attack. This acts as a free attack on the triggering enemy.&lt;/p&gt;
+
+&lt;h3 id=&quot;son-of-the-spirit-wolf&quot;&gt;Son of the Spirit Wolf&lt;/h3&gt;
+
+&lt;p&gt;These Large wolfy demigods are Level 26 Elite Skirmishers with 486 HP. Their
+surrounded by an aura (1) named &lt;strong&gt;Everfrost Coat&lt;/strong&gt;, which deals 10 cold damage
+to enemies who enter it. Enemies damaged by the aura can’t make opportunity
+attacks for a turn, which allows this wolf to freely disengage from most PCs.&lt;/p&gt;
+
+&lt;p&gt;Their Reach 2 &lt;strong&gt;bites&lt;/strong&gt; do the usual physical/cold damage mix and grab the
+target on a hit. They can then use &lt;strong&gt;Drag Away&lt;/strong&gt; to either shift 1 square or
+move their speed while pulling the victim along. They can also use &lt;strong&gt;Rending
+Jaws&lt;/strong&gt; (recharge 5+) against the grabbed victim, a much stronger attack than the
+basic bite that also pushes the target 5 squares and knocks them prone as the
+wolf ends the grab and flings the victim away.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing in the text forbidding the wolf from using normal bites on other
+enemies while it has a victim grabbed. You are of course free to forbid it since
+it only has one mouth… but what if it doesn’t? What if this is a vaguely
+wolf-shaped ball of dark spirit stuff instead of being just a big wolf? What if
+it can grow extra mouths to bite people with? Maybe it’s not canon, but it’s
+metal as fuck.&lt;/p&gt;
+
+&lt;p&gt;Anyway, the thing’s last attack is a &lt;strong&gt;Black Ice Breath&lt;/strong&gt; which is kind of a
+hybrid between the breaths of the other two varieties: big cold damage in a
+Close Blast 5, and it leaves a zone of frozen difficult terrain that lasts for
+the whole encounter. This is an encounter power that recharges when the wolf is
+first bloodied, just like dragon breath.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;All the links between the different monsters here are purely my
+invention. Judging from the descriptions of the book alone, they don’t have
+anything in common other than being generally wintery and wolfy. The individual
+stat blocks have good mechanics, though.&lt;/p&gt;
+
+&lt;p&gt;The sample encounter is level 14: a Chillfire Destroyer elemental and a pair of
+winter wolves being bossed around by a Beholder Eye of Frost.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/wolf-winter.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/wolf-winter.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Witherling</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-witherling.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Witherlings feel like a new monster to me. They’re certainly new to 4e, making
+their debut in this book.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Contrary to popular belief, those deranged cannibals who worship Yeenoghu don’t
+actually eat everyone they kill. Sometimes they raise their victims as undead
+abominations. This is a relatively new development, as the technique was only
+recently handed down from the demon lord to its cultists. They are both a new
+weapon in the war brewing between Yeenoghu and Orcus, and a way for the former
+to muscle in on the latter’s territory.&lt;/p&gt;
+
+&lt;p&gt;The process to create a witherling involves replacing the corpse’s head with
+that of a hyena, and summoning the essence of a demon into the resulting piece
+of “art”. Gnolls and other Yeenoghu cultists prefer to do this to the corpses of
+their slain foes, not those of their own side. The result tends to be a lot
+faster, smarter and more versatile than that of your typical zombie.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All witherlings are Natural Animates with the Undead keyword. They have no
+particular resistances or vulnerabilities. Their signature trait is a lesser
+form of the gnoll &lt;strong&gt;Pack Attack&lt;/strong&gt;, giving them a +2 damage bonus when two or
+more of their allies are adjacent to the target.&lt;/p&gt;
+
+&lt;h3 id=&quot;witherling&quot;&gt;Witherling&lt;/h3&gt;
+
+&lt;p&gt;The basic model is usually made from the corpse of a Small humanoid like a
+goblin, kobold, or halfling. It’s a Level 4 Skirmisher with 56 HP and a Speed of
+8 (Climb 6).&lt;/p&gt;
+
+&lt;p&gt;Witherling &lt;strong&gt;claws&lt;/strong&gt; are a bit weak, but they slow on a hit (save ends) and the
+creature can make a &lt;strong&gt;Double Attack&lt;/strong&gt; with them. It also deals extra damage when
+it has combat advantage. While bloodied, it can use &lt;strong&gt;Blood Dance&lt;/strong&gt; to shift 2
+squares instead of 1.&lt;/p&gt;
+
+&lt;p&gt;Its final ability is a &lt;strong&gt;Sudden Leap&lt;/strong&gt; that allows it to jump 4 squares and gain
+a +5 to AC against opportunity attacks during the jump. If an enemy misses the
+witherling with an opportunity attack while it’s jumping, the witherling gains
+combat advantage against that enemy.&lt;/p&gt;
+
+&lt;p&gt;So these things will come at you en masse from the walls and the bottoms of
+pits, and use Sudden Leap to jump juuust a bit past the PCs and attack them from
+behind.&lt;/p&gt;
+
+&lt;h3 id=&quot;witherling-death-shrieker&quot;&gt;Witherling Death Shrieker&lt;/h3&gt;
+
+&lt;p&gt;Made from the corpse of a Medium creature, the Death Shrieker is a Level 5
+Controller with 65 HP and the Leader keyword. Its a bit slower with a ground
+speed of 6 and no climbing ability.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;claws&lt;/strong&gt; are just a typical basic attack, but it shrieks do damage over a
+wide area (close blast 5). The most common one is the &lt;strong&gt;Thunder Shriek&lt;/strong&gt;, which
+targets only enemies, does thunder damage, and pushes 2 squares. There’s also
+the &lt;strong&gt;Death Shriek&lt;/strong&gt; (recharge 5+), which also targets only enemies and does
+untyped damage. Any undead ally adjacent to an enemy hit by this recovers 5
+HP. There’s a note saying allies can only benefit from this once per round, so
+if you have multiple shriekers they should coordinate and stagger their screams.&lt;/p&gt;
+
+&lt;h3 id=&quot;witherling-horned-terror&quot;&gt;Witherling Horned Terror&lt;/h3&gt;
+
+&lt;p&gt;This one is Large, and made from a minotaur. Since Yeenoghu is &lt;em&gt;also&lt;/em&gt; locked in
+eternal battle against Baphomet, they’re more common than you think. Minotaurs
+of all alignments hate these things, which is perfectly understandable.&lt;/p&gt;
+
+&lt;p&gt;Horned Terrors are Level 8 Brutes with 107 HP and a ground speed of 7. They have
+a decent &lt;strong&gt;Claw&lt;/strong&gt; attack, and can use their &lt;strong&gt;Horns&lt;/strong&gt; to the same amount of
+damage and push the target 2 squares. They can also perform a &lt;strong&gt;Rampaging
+Charge&lt;/strong&gt; (recharge 5+), which uses the horns to attack and allows them to make
+up to three additional attacks against different targets who happen to be in
+reach at the end point of the charge.&lt;/p&gt;
+
+&lt;h3 id=&quot;witherling-rabble&quot;&gt;Witherling Rabble&lt;/h3&gt;
+
+&lt;p&gt;This is a witherling whose creation process glitched out, producing an inferior
+specimen. I guess they’re stockpiled and sent out as a huge mob against
+enemies.&lt;/p&gt;
+
+&lt;p&gt;This defective undead has the exact same attacks as a standard witherling, but
+is a Level 9 Minion Skirmisher.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Eh… I guess witherlings are okay mechanically, and they’re a nice addition to
+a campaign focused on battling Yeenoghu and evil gnolls, but they don’t do much
+for me personally.&lt;/p&gt;
+
+&lt;p&gt;The sample encounters are different groups of gnolls with witherling
+support. One of them also has a cambion.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/witherling.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/witherling.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Warforged</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-warforged.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Warforged were originally introduced with the Eberron setting in 3e, as a
+playable option. They made their 4e debut in the &lt;a href=&quot;/octopus-carnival/2021/02/07/warforged.html&quot;&gt;first Monster Manual&lt;/a&gt;,
+which a couple of “monster” stat blocks for warforged and some abbreviated rules
+for using them as PCs.&lt;/p&gt;
+
+&lt;p&gt;Full support for playable warforged in 4e would arrive with the Eberron Player’s
+Guide, published in June 2009. However, just before that happened we’d get a few
+more NPC stat blocks here in the MM2, which was published in May 2009.&lt;/p&gt;
+
+&lt;p&gt;The basic lore for warforged remains the same as in &lt;a href=&quot;/octopus-carnival/2021/02/07/warforged.html&quot;&gt;the Monster Manual&lt;/a&gt;. The
+Eberron-specific info would only appear on the Eberron Player’s Guide, but I
+guess the two books were developed in parallel because the extra stat blocks we
+get here seem like a particularly good fit for that setting.&lt;/p&gt;
+
+&lt;p&gt;Their signature traits remain the same: the Living Construct keyword, a +2 to
+saves against ongoing damage and the &lt;strong&gt;Warforged Resolve&lt;/strong&gt; encounter power (see
+the link above to read about what this does).&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-resounder&quot;&gt;Warforged Resounder&lt;/h2&gt;
+
+&lt;p&gt;These are warforged spellcasters whose power derives from a retained echo of the
+ringing sound of their creation forges. Their spells tend to have themes of
+sound and impact, dealing a mix of thunder and force damage. They wear robes and
+wield staffs, so I guess they’re meant to come across as “arcane”, but you could
+easily use their lore for a more priestly type since it’s so close to that of
+the Anvilpriest (below).&lt;/p&gt;
+
+&lt;p&gt;Resounders are Level 6 Artillery with 57 HP and the common traits described
+above. Their &lt;strong&gt;quarterstaves&lt;/strong&gt; are weak melee attacks, so they prefer to stay
+away and cast &lt;strong&gt;thunder orbs&lt;/strong&gt; (ranged 10 vs. Fortitude) that do good thunder
+damage and push 2 squares.&lt;/p&gt;
+
+&lt;p&gt;They also have a couple of encounter spells: &lt;strong&gt;Resounding Sphere&lt;/strong&gt; is an area
+version of Thunder Orb that knocks prone instead of pushing, making it a good
+fight opener; and &lt;strong&gt;Rumble Staff&lt;/strong&gt; is a “keep-away” melee power that does
+thunder damage, pushes 1 square, and knocks prone.&lt;/p&gt;
+
+&lt;p&gt;Their final encounter spell is the amusing &lt;strong&gt;Collision Bolt&lt;/strong&gt;, a ranged attack
+that targets two enemies and slams them together. It works by dealing force
+damage to both targets, and sliding the second one 3 squares towards the
+first. If the slide ends with both targets adjacent to each other, they’re both
+knocked prone.&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-savage&quot;&gt;Warforged Savage&lt;/h2&gt;
+
+&lt;p&gt;With an unfortunate name and a somewhat unfortunate illustration, this is a
+warforged who feels emotions more intensely than most of its kin, and channels
+all of that extra intensity into anger. It was likely produced in a forge
+belonging to the Lord of Blades, since the Cannith smiths tend to go for
+cool-headed discipline instead. It’s a Level 7 Brute with 98 HP.&lt;/p&gt;
+
+&lt;p&gt;This warforged has the &lt;strong&gt;Battlefield Tactics&lt;/strong&gt; trait that was common in the MM1
+entries, gaining a +1 to melee attacks when an ally is adjacent to their
+target. It also gains 4 temporary HP whenever it hits with an attack.&lt;/p&gt;
+
+&lt;p&gt;The warforged savage uses a &lt;strong&gt;scimitar&lt;/strong&gt; to fight. This is a High-Crit weapon,
+and when it hits it deals a bit of automatic damage to another enemy adjacent to
+its target. It can use the weapon to attack in a Close Burst 1 (recharge 5+),
+and to perform a &lt;strong&gt;Wild Charge&lt;/strong&gt; that deals heavy damage, and gives it a +3 AC
+bonus during the movement part of the charge. This recharges whenever the
+warforged hits two or more enemies with the burst attack. All of these maneuvers
+benefit from the scimitar’s High-Crit property.&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-anvilpriest&quot;&gt;Warforged Anvilpriest&lt;/h2&gt;
+
+&lt;p&gt;Like the resounder, this spellcaster retains a bit of the power of its creation
+forge and uses that as a source of magic. The main difference is that the
+anvilpriest focuses on the searing heat of forge-fire. Despite the name, many
+anvilpriests aren’t all that religious. Some are real clerics, though, and a
+small number of them actually worship the creation forges themselves. I guess
+the latter are mostly found amid the Lord of Blades’ forces.&lt;/p&gt;
+
+&lt;p&gt;Anvilpriests are Level 8 Controllers with the Leader keyword and 89 HP. They
+wield a &lt;strong&gt;fiery warhammer&lt;/strong&gt; that does bonus fire damage and inflicts a -2 AC
+penalty for a turn. They can use that to perform a &lt;strong&gt;Heat of Battle&lt;/strong&gt; maneuver
+(recharge 4+), which is like a basic attack but replaces the AC penalty with
+ongoing fire damage.&lt;/p&gt;
+
+&lt;p&gt;In addition to this they have two encounter spells.&lt;/p&gt;
+
+&lt;p&gt;The first is &lt;strong&gt;Blunted Mind&lt;/strong&gt;, an area burst that targets Will and inflicts
+psychic damage. It also inflicts a -2 penalty to attacks and a -4 penalty to
+damage on a hit - the first save improves this to a -2 damage penalty, and only
+the second removes it entirely. This only targets enemies, so it’s safe to cast
+into a messy melee.&lt;/p&gt;
+
+&lt;p&gt;The other is &lt;strong&gt;Mending Flash Fire&lt;/strong&gt;, a close burst that deals fire damage to all
+enemies inside (vs. Reflex) and gives both the caster and any allies in the
+burst 5 temporary HP. If those allies are Warforged, they can also use their
+Warforged Resolve power as an immediate reaction to this power.&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-titan&quot;&gt;Warforged Titan&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-warforged-titan.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Titans were some of the earliest models of warforged developed by Cannith
+engineers. They’re as big and as powerful as their name implies, but they’re
+also only barely sapient. In a battle, they fulfill the same role as tanks or
+siege engines, but they need to be accompanied by smarter infantry or at least
+by a minder who can direct them. They’re loyal to whoever holds or displays a
+symbol of the titan’s creator, regardless of whom it may be or how long it’s
+been since their creation.&lt;/p&gt;
+
+&lt;p&gt;Warforged Titans are Huge Natural Humanoids with the Living Construct
+Keyword. They’re also Level 19 Elite Soldiers with 362 HP, which makes them
+plausible counters to Slaughterstone Constructs and other near-epic giant
+monsters.&lt;/p&gt;
+
+&lt;p&gt;These towering creatures fight with their built-in weapons. Their basic attack
+is a Reach 3 &lt;strong&gt;Axe&lt;/strong&gt; with the same “splash damage” effect as the Savage’
+scimitar above, and that also marks on a hit. As a minor action they can also
+use a Reach 3 &lt;strong&gt;Hammer&lt;/strong&gt; that does more or less the same damage, slides the
+target 2 squares, and knocks it prone. It does a bit of damage even on a miss,
+likely from the shockwave. Both of these weapons enjoy the benefits of
+&lt;strong&gt;Threatening Reach&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, the titan’s &lt;strong&gt;Unstoppable Charger&lt;/strong&gt; trait makes it so a charge attack
+&lt;em&gt;doesn’t&lt;/em&gt; end its turn. It can perform any actions it still has after charging,
+such as using a Move to shift or reposition, or a Minor action to perform a
+hammer follow-up.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Warforged are people. You can find them fighting for any cause people tend to
+fight for. Good, evil, or just plain selfish. They’re relatively recent
+creations in Eberron, but other settings might have then as ancient
+survivors/relics of a fallen empire. Titans work well as McGuffins in that role,
+since they’ll obey anyone who displays the mark of their creator.&lt;/p&gt;
+
+&lt;p&gt;We have two sample encounters:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 7: A resounder, an anvilpriest, and 3 savages. Lord of Blades patrol?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 19: A cambion hellfire magus, a steel predator, and a warforged
+titan. Someone found themselves a few control amulets.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/warforged.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/warforged.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Moster Manual 2: Vine, Predatory</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-vine-predatory.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;That’s the actual title of the entry, so we have another case of Old School
+Titling here. Dangerous plants have been a part of the game since its
+beginnings, and I bet a lot of the individual monsters collected in this entry
+appeared before in some form or another.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, there isn’t much on these other than “they exist”. They don’t have
+strange magical origins like some of the other plant creatures we saw before,
+they’re just ambulatory carnivorous plants with enough strength and mobility to
+hunt people. D&amp;amp;D worlds are already filled with impossibly lethal predators, so
+it’s not such a stretch to say some of those are plants.&lt;/p&gt;
+
+&lt;p&gt;All of the monsters in this entry are Beasts, which in rules terms means they
+behave like “animals” rather than like people. They also have the Plant keyword
+(obviously). Their Int score is 2, so their behaviors are all
+instinctive. Everything else varies per stat block.&lt;/p&gt;
+
+&lt;h2 id=&quot;ambush-vine&quot;&gt;Ambush Vine&lt;/h2&gt;
+
+&lt;p&gt;The apex predator of the plant kingdom, ambush vines can hunt anywhere: on the
+surface, underground, and even in water. Wherever they are, they’re always
+hunting, and using the tasty nutrients of their victims to fuel their explosive
+growth rate. Ambush vines can form blights so vast they threaten civilization,
+and its rumored that this contributed to the fall of the old eladrin empire of
+Cendriane.&lt;/p&gt;
+
+&lt;p&gt;As their name implies, ambush vines are a lot more cunning than your average
+plant. They can burrow just under the surface or blend into the surrounding
+normal vegetation to wait for victims, and then launch surprise attacks against
+them.&lt;/p&gt;
+
+&lt;p&gt;Ambush Vines are Large Fey plants, and Level 16 Elite Controllers with 308
+HP. They have tremorsense 20, and nothing in their stat block says they’re blind
+so I guess they can see as well even without eyes. Their speed is 6 in almost
+any mode of movement other than flight. They can move over the ground with
+Forest Walk, climb, burrow and swim.&lt;/p&gt;
+
+&lt;p&gt;A vine’s most basic attack is a Reach 2 &lt;strong&gt;Poison Lash&lt;/strong&gt; that targets Reflex,
+deals physical damage, and inflicts ongoing poison damage. It can also attack
+with &lt;strong&gt;Lashing Vines&lt;/strong&gt; in a Close Burst 4 pattern, which does more damage than
+the basic attack. It’s also super-effective against immobilized targets, dealing
+extra damage and healing the vine for 5 HP. As a minor action, the vine can use
+a Reach 4 &lt;strong&gt;Foot Snare&lt;/strong&gt; to deal the same damage as the basic attack and knock a
+target prone.&lt;/p&gt;
+
+&lt;p&gt;Though ambush vines deal extra damage to immobilized foes, they can’t do the
+immobilizing themselves, so they must be paired with other monsters capable of
+it. Fortunately, they can make their own!&lt;/p&gt;
+
+&lt;p&gt;When the vine is first bloodied, it undergoes &lt;strong&gt;Rapid Growth&lt;/strong&gt; as an emergency
+response, producing two Ambush Vine Shoot minions (see below). It can also make
+a minion voluntarily using &lt;strong&gt;Sprout Vine&lt;/strong&gt;, a minor action which costs 10 of its
+own HP and produces a single minion.&lt;/p&gt;
+
+&lt;h2 id=&quot;ambush-vine-shoot&quot;&gt;Ambush Vine Shoot&lt;/h2&gt;
+
+&lt;p&gt;This is the juvenile form of the ambush vine. It’s a Medium Fey plant, and a
+Level 15 Minion Controller. Their senses are the same as those of an adult
+specimen, though their only special movement mode is burrowing.&lt;/p&gt;
+
+&lt;p&gt;These minions have a single attack, &lt;strong&gt;Wrapping Vines&lt;/strong&gt;, which deals minion-tier
+damage and restrains (save ends). “Restrained” is one step worse than
+“immobilized”: it roots the victim in place and inflicts a -2 penalty to
+attacks. A restrained target also counts as immobilized, so the shoot’s “parent”
+vine can deal extra damage against them.&lt;/p&gt;
+
+&lt;p&gt;The shoot also has a passive trait named &lt;strong&gt;Enwrap&lt;/strong&gt;, which affects adjacent
+enemies and inflicts a -2 penalty to their saves against being immobilized or
+restrained.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloodthorn-vine&quot;&gt;Bloodthorn Vine&lt;/h2&gt;
+
+&lt;p&gt;This is a vine with pale leaves and one single large thorn. It feeds by impaling
+victims on that thorn, which is hollow and capable of draining blood. As it does
+so, the vine’s leaves take on a reddish coloration.&lt;/p&gt;
+
+&lt;p&gt;Bloodthorn vines are Medium Natural plants, and Level 2 Soldiers with 41 HP. By
+the logic I’ve been using, them being low-level means they might occur near the
+archetypical Starting Village. This means they’re one more threat common
+civilians must be wary of in their daily lives, along with stirges, anhkegs, and
+giant ants. Bloodthorns are much less lively than Ambush Vines, having only a
+ground speed of 5 with Forest Walk and no special movement modes. They have
+Blindsight 10 but again are not blind themselves.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Striking Vine&lt;/strong&gt; with no riders on its physical
+damage. The real danger here is the &lt;strong&gt;Impaling Thorn&lt;/strong&gt;, which does the same
+damage and grabs the target. The vine can sustain the grab with a standard
+action to deal heavy automatic damage to the victim and heal 5 HP. It can use
+&lt;strong&gt;Pulling Vines&lt;/strong&gt; as a minor action to shift 1 square and pull a grabbed victim
+along with it.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, the bloodthorn vine can only impale a single victim at a
+time… but you &lt;em&gt;can&lt;/em&gt; have multiple bloodtorn vines on the same encounter group.&lt;/p&gt;
+
+&lt;h2 id=&quot;greenvise-vine&quot;&gt;Greenvise Vine&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-vine-greenvise.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;So named because “Piranha Plant” is already taken. This is a Large Natural
+plant, and a Level 7 Soldier with 83 HP. Its speed is only 4, so it relies on
+grabbing targets to prevent them from running away.&lt;/p&gt;
+
+&lt;p&gt;The greenvise’s basic attack is a &lt;strong&gt;Striking Vine&lt;/strong&gt;, and they can also use an
+&lt;strong&gt;Ensnaring Vine&lt;/strong&gt; vs. Reflex to do the same damage and grab the target. That’s
+when the big chomper comes into play: &lt;strong&gt;Vise Bite&lt;/strong&gt; targets a grabbed victim’s
+Fortitude, deals a bit of initial damage, restrains, and inflicts ongoing
+physical damage. A save ends both the restrained condition and the ongoing
+damage &lt;em&gt;but does not end the grab&lt;/em&gt;. You have to escape from that using the
+default rules.&lt;/p&gt;
+
+&lt;p&gt;The Greenvise also has the same Pulling Vines trait as the Bloodthorn.&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I actually have an easier time distinguishing between killer plants when I see
+them all together than when I see them in separate entries over multiple books.&lt;/p&gt;
+
+&lt;p&gt;We have three encounters here:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 2: 3 bloodthorn vines and 3 stirges. Probably competing to see who can
+drain the party dry first.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 9: 2 greenvise vines, 1 spectral panther, 3 quickling runners. The
+quicklings and the panther can be used to herd the party towards the
+slow-moving plants.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Level 17: 1 ambush vine, 1 lingerer fell incanter, 1 lingerer fell
+knight. Sinister vestiges of lost Cendriane.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Trolls</title>
@@ -451,959 +1219,6 @@ marut castigators. The maruts are likely mercenaries hired by an agent of Bane.&
         <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/02/09/steel-predator.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/09/steel-predator.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Star Spawn</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Though the Warlock class was introduced late in D&amp;amp;D 3.x, it was Fourth Edition
-that really made it shine. In addition to the infernal warlocks of the previous
-edition, the Player’s Handbook also gave us fey and star pact
-warlocks. Different pacts provided different mechanical and lore flavor, and
-made the class approachable to people who didn’t want to play someone who had
-literally sold their soul to the devil.&lt;/p&gt;
-
-&lt;p&gt;Fey warlocks were an immediate hit because they tied to the lore of the Feywild,
-which was awesome from the start. You get your powers from David Bowie’s Goblin
-King, what’s not to love about that?&lt;/p&gt;
-
-&lt;p&gt;While I personally loved star warlocks, their lore required a certain previous
-familiarity with “cthulhoid” narratives that was by no means universal among D&amp;amp;D
-players. I mean, in this one-shot I GMed shortly after acquiring the books I had
-a player who honestly believed they were supposed to be New Agey
-astrologers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;The reason I’m talking about PC warlocks in a Monster Manual reading is that
-those paragraphs provide the context you need to understand why the &lt;em&gt;Wish Upon a
-Star&lt;/em&gt; article from Dragon #366 was such a big deal. While it was mostly focused
-on adding more options for star warlocks, it also included the first concrete
-bit of lore on the “pact entities” for star warlocks. More information about
-them would be added in subsequent books, and in the Monster Manual 2 they get an
-entry for monsters themed after them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Most people in 4e’s implied setting don’t think too hard about the stars in the
-night sky. To many they’re just pretty lights. Amateur astronomers can point out
-constellations and identify a few specific stars by name.&lt;/p&gt;
-
-&lt;p&gt;True scholars of the stars know about the &lt;em&gt;other&lt;/em&gt; constellations. They know that
-some of those stars have fallen under the influence of certain powerful
-entities, who use them to gaze at the world from across the infinite void. Their
-gazes might be filled with fury, with hunger, or with emotions unfathomable to
-feeble mortal minds. When you speak their true names, they listen, and might
-even answer. Opinions differ as to whether that is a good or a bad thing.&lt;/p&gt;
-
-&lt;p&gt;These stellar entities are usually associated with the Far Realm. Traditional
-lore about the Far Realm says it’s a separate plane of existence, so according
-to that it could be that these entities are using their stars as windows to our
-plane. But this also raises an alternate, scarier possibility: maybe the “Far
-Realm” isn’t a separate plane at all. Maybe it’s just what you find if you
-travel far enough into the void.&lt;/p&gt;
-
-&lt;p&gt;Not every star is the avatar of an eldritch alien being, though some star
-warlocks have recurring nightmares where every star in the sky opens up to
-reveal an eye staring at them.&lt;/p&gt;
-
-&lt;p&gt;Most of the information on the known eldritch stars comes from a scroll known as
-&lt;em&gt;The Revelations of Melech&lt;/em&gt;, which is the sort of rare sanity-blasting tome that
-should be very familiar to Call of Cthulhu players. It has the same in-world
-status the Demonomicon of Iggwilv (which lists demons) or the Codex of Betrayal
-(devils).&lt;/p&gt;
-
-&lt;p&gt;And now we get into the lore contained in the MM2. The most learned students of
-the sky know of an orange star named Allabar, The Opener of the Way. Allabar
-only appears when the world is about to enter a time of great turmoil, be it a
-great war, a mighty ritual, or something similar. It races across the sky in a
-seemingly random trajectory that passes by one or more of the other “special”
-stars. When this happens, the way is opened for that star to release a Star
-Spawn into the world.&lt;/p&gt;
-
-&lt;p&gt;Star Spawn are the anthropomorphic personifications of a specific star’s
-will. Once they enter the world, they seek to enact that will. Some stay for
-only as long as the conjunction with Allabar lasts, other can remain
-indefinitely or until defeated. Some are solitary, others gather cults and
-minions around themselves. Regardless of their specific MOs, star spawn tend to
-be pretty evil from a mortal’s point of view.&lt;/p&gt;
-
-&lt;p&gt;No one knows for sure how or why this whole process happens. Is Allabar a
-natural phenomenon of the void, or a sapient being with designs of its own? Is
-there a rhyme or reason to its wanderings? The warlock Thulzar claimed to have
-charted every star spawn incursion since the fall of Bael Turath and found a
-pattern, but he vanished along with his tower and all his notes after a starless
-night, leaving only a glassy crater behind.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 2 contains three Star Spawn in this entry, and we’ll look a
-bit more into their specific lore and the lore of their star in their sections.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Star Spawn are Aberrant Humanoids. The first one in this entry is Medium, all
-others are Large. All of them have Darkvision, a ground speed of 6, and
-communicate using telepathy with a range of 10 squares. Everything else about
-them varies per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;herald-of-hadar&quot;&gt;Herald of Hadar&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-herald.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Morinbund Hadar used to be the brightest star in the sky. During the
-tribulations that led to the fall of Bael Turath, it flared up into a burning
-brand visible even during the day. Afterwards, it faded to a barely visible red
-ember. Hadar’s dying gasps send its heralds into the world so they can harvest
-life energy and delay its inevitable end.&lt;/p&gt;
-
-&lt;p&gt;The only Medium star spawn in this entry, heralds of Hadar look almost human
-save for their glowing eyes and hostility to all forms of life, which they
-attempt to drain. They’re Level 15 Brutes with 180 HP.&lt;/p&gt;
-
-&lt;p&gt;Heralds use their &lt;strong&gt;Hungry Claws&lt;/strong&gt; to fight, and they can make two basic attacks
-with a single action. Once per encounter they can step it up and use &lt;strong&gt;Feeding
-Frenzy&lt;/strong&gt; to make up to three attacks (though no more than two on the same
-target). Their life-force drain is the &lt;strong&gt;Breath of a Dying Star&lt;/strong&gt;, a Close Blast
-5 encounter power that targets Reflex, does good damage, and prevents targets
-from regaining HP and spending healing surges (save ends). I imagine the claw
-attacks drain life as well, but that’s probably just represented as part of
-their damage.&lt;/p&gt;
-
-&lt;p&gt;Whenever someone spends a healing surge within 5 squares of the herald,
-&lt;strong&gt;Hadar’s Hunger&lt;/strong&gt; allows it to react in a variety of ways. Choose one whenever
-this triggers: shift 3 squares closer to the triggering creature; make a basic
-attack; regain the use of an encounter power; gain +2 to attacks for a turn.&lt;/p&gt;
-
-&lt;p&gt;It looks like the Herald will want to focus most of its attacks on a single PC,
-but will use the Breath on the others. That way it will leave someone still able
-to spend healing surges so it can recharge its powers. Despite their “berserk”
-fighting style, heralds are still sapient and capable of making alliances of
-convenience with other creatures.&lt;/p&gt;
-
-&lt;h3 id=&quot;maw-of-acamar&quot;&gt;Maw of Acamar&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-maw.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;If Hadar is dying, Acamar is already dead. This corpse-star is a black void that
-devours everything that passes by it, even other stars and their light. Its
-hunger is endless and without a purpose other than consumption itself. The Maws
-of Acamar are avatars of that hunger, living gateways through which the dead
-star can extend its ruinous grasp to the world. Unlike the other Spawn, they
-come to the world under their own power, for even The Opener of the Way avoids
-passing too close to Acamar.&lt;/p&gt;
-
-&lt;p&gt;Maws are Level 15 Controllers with 145 HP. Where Heralds of Hadar fight with
-berserk intensity, Maws of Acamar just kinda stroll around the battlefield and
-let the constant effects of their presence do the work for them.&lt;/p&gt;
-
-&lt;p&gt;The gravitational field of their black hole progenitor is expressed as an aura
-(5) named &lt;strong&gt;Hungry Star&lt;/strong&gt;. Anyone inside who wishes to move away from the Maw
-must pay 3 movement points per square instead of the usual 1. Even if they do
-it’s futile because the Maw can use &lt;strong&gt;Corpse Star’s Grip&lt;/strong&gt; (Close Burst 5
-vs. Fortitude; minor action) to pull them 3 squares.&lt;/p&gt;
-
-&lt;p&gt;The destructive part of that gravitational pull is expressed as 2 different
-attacks, both of which inflict ongoing damage instead of instant
-wounds. &lt;strong&gt;Devouring Star&lt;/strong&gt; is a Close Burst 3 attack targetting Fortitude that
-inflicts 10 ongoing damage; &lt;strong&gt;Devouring Touch&lt;/strong&gt; is a focused Reach 2 version
-that inflicts 15 ongoing damage on a single target. In both cases the
-&lt;strong&gt;Destroyer of Life&lt;/strong&gt; passive trait prevents adjacent enemies from shedding all
-of that damage with a single save. The save only reduces the total damage by 5.&lt;/p&gt;
-
-&lt;p&gt;Yes, it’s possible to meet multiple Maws at once. They love to surround foes and
-tear them apart by pulling them in several directions at once. I’d probably make
-them immune to each other’s attacks, but that’s wouldn’t be the case for any
-other ally. Anything and anyone who stands too close to a Maw is going to be
-sucked in. If you pair them with other monsters, they would do well to stay away
-from their “buddy”.&lt;/p&gt;
-
-&lt;h3 id=&quot;scion-of-gibbeth&quot;&gt;Scion of Gibbeth&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-star-spawn-scion.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Gibbeth is a cursed green sun which gestates at its core an unknowable
-being. Warlocks and the like say that this being will only show its true face at
-the end of the world, and this will send the tattered remains of the universe
-into inescapable madness.&lt;/p&gt;
-
-&lt;p&gt;Scions of Gibbeth are shards of this green star, providing a little taste of
-what is to come. No two people who see one can agree on its appearance, save to
-say it is horrible. Perhaps its true form is literally incomprehensible to
-mortal minds, and the varied appearances described are a result of the people in
-question instinctively trying to cope with this.&lt;/p&gt;
-
-&lt;p&gt;These abominations wander the world pursuing their enigmatic goals. They tend to
-attack any living creature that draws too close, but they tolerate the presence
-of worshippers and cultists.&lt;/p&gt;
-
-&lt;p&gt;Scions are Level 17 Controllers with 163 HP. Their abilities work at range and
-are designed to keep PCs away. They’re surrounded by an &lt;strong&gt;Aura of Revulsion&lt;/strong&gt;
-with size &lt;em&gt;10&lt;/em&gt;, enough to cover most of the battlefield. Creatures inside can’t
-target the Scion with melee or ranged attacks unless it’s the enemy nearest to
-them.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack are vanilla &lt;strong&gt;Slams&lt;/strong&gt;, but the others make up for
-it. &lt;strong&gt;Mind-Splintering Gaze&lt;/strong&gt; (range 20) deals light psychic damage and
-dominates (save ends); &lt;strong&gt;Gibbeth’s Baleful Glare&lt;/strong&gt; does the same damage and
-slides the target 2 squares.&lt;/p&gt;
-
-&lt;p&gt;That sets up the Scion’s basic tactics: stay well away from the PCs and dominate
-them, gently nudging them away when they attempt to close. If they do manage to
-close, there’s a couple more tricks available to the creature. &lt;strong&gt;Offering to
-Gibbeth&lt;/strong&gt; gives it a +2 attack bonus for a turn whenever a PC spends a healing
-surge within 2 squares of it; and &lt;strong&gt;Revelation of Gibbeth&lt;/strong&gt; is a burst 5 that
-triggers when the Scion dies. This glimpse of its true form acts as an attack
-against Will. Affected targets are Dazed, and must spend their sole action
-charging or making a basic attack against their nearest ally. This is a &lt;em&gt;save
-ends&lt;/em&gt; condition, so even if the dead Scion was the last monster on the board,
-the party might still need to contend with the effect for a few rounds until
-everyone makes their save.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I love all of this star lore! It feels so new, you know? It’s “cthulhoid”
-without actually involving the Cthulhu Mythos and this is a big entry about
-aberrant monsters that doesn’t contain a single tentacle anywhere in it. It’s
-also scarier in places than even the traditional fiend lore. “There’s a place in
-a different plane that’s full of evil fire” doesn’t quite have the same visceral
-kick as “each star opens to reveal an eye and they’re all looking at you”.&lt;/p&gt;
-
-&lt;p&gt;I even think it’s cool that Hadar’s and Acamar’s basic descriptions are the
-result of taking a real astronomical entity and running it through a Lovecraft
-and/or Death Metal translator filter. A red supergiant is “ancient and dying,
-gasping for breath as it tries to prolong its doomed existence”. A black hole is
-a Corpse Star!&lt;/p&gt;
-
-&lt;p&gt;I don’t think they ever officially added Atropus from Elder Evils to the star
-“pantheon”, but he’s a perfect fit. “The World Born Dead orbits The Corpse
-Star!”, cries the mad warlock as invisible star spawn tear him limb from limb in
-broad daylight.&lt;/p&gt;
-
-&lt;p&gt;The only place where I think this entry stumbles a bit is the sample
-encounters. The lore of the star spawn is cool but it makes them stand a bit
-apart from the more traditional D&amp;amp;D monsters, so it feels strange to see them
-paired with those same monsters. You might need to reskin some of those monsters
-to make them more star-aspected.&lt;/p&gt;
-
-&lt;p&gt;We have two encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: A Herald of Hadar teams up with a Beholder Eye of Flame and 2 Battle
-Wight Commanders. A classic front-line and artillery formation.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 13: A Maw of Acamar is accompanied by 2 hook horrors and 2 mind flayer
-infiltrators. Here you want the others to form a perimeter around the Maw and
-try to keep the PCs boxed in.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;There were also mechanical reasons for why they didn’t become as popular,
-  but these have been more extensively discussed elsewhere and don’t quite
-  fit a monster-focused post. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/02/03/star-spawn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/03/star-spawn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Sprite Swarm</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-sprite-swarm.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Sprites are super-tiny humanoid fey, tinier even than the pixies that would show
-up as a playable option in &lt;em&gt;Heroes of the Feywild&lt;/em&gt;. I think they’ve been in the
-game since at least AD&amp;amp;D 1st Edition in some for or another.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Sprites in earlier editions tended to be described as just tiny fairy folk who
-liked all the usual Victorian Fairy things like song and dance and pastoral
-nature. They might have a propensity for pranks, but normally didn’t get more
-aggressive than that unless the PCs were out to exterminate them. A single
-sprite was pretty much harmless, but they often came in large numbers.&lt;/p&gt;
-
-&lt;p&gt;These aren’t the sprites from earlier editions. These are Umbral Sprites.&lt;/p&gt;
-
-&lt;p&gt;Umbral Sprites are just as tiny as the nice variety, but they’re cruel,
-violent, and territorial. Interactions between them and the PCs skip right past
-the talky and pranky stages and go right to combat as swarms of these things
-descend upon them. A single umbral sprite is still harmless to an adventurer,
-but a swarm of them is dangerous enough to get monster stats.&lt;/p&gt;
-
-&lt;p&gt;Though these tiny terrors are native to the Feywild, they tend to seek out areas
-that contain crossings to the Shadowfell to claim as territory. Spriggans and
-ill-intentioned gnomes tend to ally with them and use them as diversions for
-subtler schemes. It’s hard to notice gnomes sneaking into your vaults when you
-have a cloud of angry sprites poking out your eyes.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;This entry gives us stats for a fairly small swarm of umbral sprites. This is a
-Medium swarm composed of Fey Humanoids, and counts as a Level 4 Controller with
-55 HP. It has blindsight with range 6, a ground speed of 4, and a flight speed
-of 6 with Hover.&lt;/p&gt;
-
-&lt;p&gt;It also has the standard swarm traits: it takes half damage from single-target
-attacks, and extra damage from area attacks. Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals
-3 damage to creatures caught inside.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is a &lt;strong&gt;Swarm of Fangs and Blades&lt;/strong&gt;, but aside from the name
-it’s nothing spectacular. Their special &lt;strong&gt;Darkwave&lt;/strong&gt; attack (recharge 5+) is
-more impressive. It’s a Close Burst 3 that targets Reflex, does necrotic damage,
-and creates a zone of darkness that lasts for a durn.&lt;/p&gt;
-
-&lt;p&gt;They also have the gnome’s &lt;strong&gt;Fade Away&lt;/strong&gt; power, becoming invisible as a reaction
-to taking damage once per encounter. This invisibility lasts for a turn, or
-until they hit or miss with an attack.&lt;/p&gt;
-
-&lt;p&gt;When fighting a group of PCs, they’re going to rely on Darkwave to keep them in
-the dark and will use basic attacks and the swarm aura to deal damage while that
-power recharges. The sprites are unaffected by their own darkness due to their
-blindsight.&lt;/p&gt;
-
-&lt;h3 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions.&lt;/h3&gt;
-
-&lt;p&gt;You can model a larger group of umbral sprites by using several swarms in an
-encounter, or by increasing the level and size of a single one. They also make
-me think about adapting &lt;a href=&quot;https://www.drivethrurpg.com/product/152691/The-Dreams-of-Ruin&quot;&gt;The Dreams of Ruin&lt;/a&gt; to 4e, because they look like
-they are the base creature for Murdersprites. A murdersprite swarm is probably
-more like a Colossal Level 14-18 Brute, though.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is Level 5, and is a grab-bag of Feywild hazards: 2
-ettercap fang guards working with 2 sprite swarms and 2 fey panthers.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/02/01/sprite.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/01/sprite.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Spriggan</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spriggan.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;I can’t find spriggans in my 2nd edition and earlier books, but I know they’re
-in Pathfinder, so they were probably introduced in D&amp;amp;D 3.x. This entry is their
-4e debut. It feels like there’s been some condensing here because this entry
-also uses several other names that I’m sure belonged to separate “small evil
-fey” enemies, like “redcap” and “powrie”.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Back in the &lt;a href=&quot;/octopus-carnival/2020/04/21/gnome.html&quot;&gt;post on gnomes&lt;/a&gt;, we already saw that the gnome people used to be
-enslaved by the fomorians in the ancient past, but that they managed to
-escape. Here, we learn that not all of them managed to get away. Those
-unfortunates were eventually twisted into spriggans by fomorian magic. It’s
-unclear whether this happened as punishment for the escape attempt, or during
-some subsequent experiment.&lt;/p&gt;
-
-&lt;p&gt;The book doesn’t describe present-day spriggans as fomorian slaves, so maybe
-they were discarded by their former masters as failures. They live in
-underground settlements excavated under rugged terrain.&lt;/p&gt;
-
-&lt;p&gt;Fomorian magic warped spriggan hearts as much as it did their bodies. Soaking
-stuff in the blood of enemies seems to be a big deal to them. Their habit of
-doing that to their hats caused them to also be known as redcaps by other
-sapients. Spriggan communities delight in raiding, tormenting and extracting
-tribute from their weaker neighbors, behaving pretty much like bandit gangs.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Spriggans are Small Fey Humanoids with low-light vision and a ground speed
-of 6. Their signature ability is &lt;strong&gt;Redcap Zeal&lt;/strong&gt;, a free-action encounter power
-that grants them temporary HP when they bloody or defeat an enemy.&lt;/p&gt;
-
-&lt;h3 id=&quot;spriggan-giantsoul&quot;&gt;Spriggan Giantsoul&lt;/h3&gt;
-
-&lt;p&gt;Giantsouls tap into the fomorian magic in their blood, which gives them enhanced
-strength and the ability to stretch their arms to gain a giant’s reach. They’re
-Level 8 Brutes with 106 HP.&lt;/p&gt;
-
-&lt;p&gt;These spriggans fight unarmed, using &lt;strong&gt;slams&lt;/strong&gt; as their basic attack. The
-stretch-arm thing comes into play in the &lt;strong&gt;Giantsoul Slam&lt;/strong&gt; special attack
-(recharge 4+), which is Reach 2, does the same damage as the slam, and knocks
-prone on a hit. Both attacks deal bonus damage when the spriggan is bloodied.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, the giantsoul can use a &lt;strong&gt;Surprise Slam&lt;/strong&gt;, an interrupt that
-triggers when an enemy within 2 squares of them attacks an ally. This allows it
-to use Giantsoul Slam against the triggering enemy, recharging the ability if
-necessary.&lt;/p&gt;
-
-&lt;p&gt;They’re good frontliners, with a limited ability to protect squishier allies
-when the PCs try to get around them.&lt;/p&gt;
-
-&lt;h3 id=&quot;spriggan-powrie&quot;&gt;Spriggan Powrie&lt;/h3&gt;
-
-&lt;p&gt;All spriggans use iron-shod boots as part of their combat gear, but powries have
-a particular dedication to the fine art of stomping. They’re Level 7 Skirmishers
-with 79 HP.&lt;/p&gt;
-
-&lt;p&gt;The powrie fights with a &lt;strong&gt;sickle&lt;/strong&gt; that does light physical damage and inflicts
-ongoing damage. It can also be used in a &lt;strong&gt;Hamstring&lt;/strong&gt; special attack that has
-the same effects and also knocks prone and slows for a turn. This recharges when
-the powrie is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Against prone enemies it can use the amusing &lt;strong&gt;Punt The Fallen&lt;/strong&gt; attack, which
-deals the same damage as the sickle and pushes 3 squares. The best thing about
-this attack is that it’s an at-will minor action!&lt;/p&gt;
-
-&lt;p&gt;If the powrie has combat advantage against a creature taking ongoing damage,
-attacking that creature with any of the above will also increase their ongoing
-damage by 5.&lt;/p&gt;
-
-&lt;p&gt;Finally, the &lt;strong&gt;Blood Slide&lt;/strong&gt; passive trait prevents the powrie from provoking
-opportunity attacks when leaving a square adjacent to a creature who’s bloodied
-or taking ongoing damage.&lt;/p&gt;
-
-&lt;p&gt;So most of the time a powrie will be attacking enemies with the sickle and
-moving around the battlefield with the aid of Blood Slide in order to spread as
-much ongoing damage around as possible, and will then seek combat advantgae
-against a single target. Hamstring and Punt the Fallen is an hilarious
-combination, and the latter means powries pair really well with other enemies
-who can drop targets prone more often. Multiple powries in a fight mean you can
-begin an impromptu soccer match with a prone PC as the ball.&lt;/p&gt;
-
-&lt;h3 id=&quot;spriggan-thorn&quot;&gt;Spriggan Thorn&lt;/h3&gt;
-
-&lt;p&gt;The spriggan thorn is armed with a short sword and a light shield, which are
-imbued with a curse of thorns. The sword itself is enveloped in them, and the
-spriggan can curse an enemy and cause thorns to spring from under their
-skin. It’s a Level 6 Soldier with 71 HP.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Short Sword&lt;/strong&gt; damages and inflicts ongoing damage (thorns!). It can be
-enhanced with the &lt;strong&gt;Drowsing Puncture&lt;/strong&gt; power as a minor action. This makes the
-next attack daze the target for a turn and knock them prone, if it hits. It
-recharges when the thorn is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;The curse is called &lt;strong&gt;Mark of Thorns&lt;/strong&gt;, and it’s an encounter power that
-automatically hits a target in a Close Burst 5. A cursed target can’t make
-opportunity attacks against the thorn, and takes 4 damage at the end of any turn
-in which it didn’t attack the thorn. Any allies of the target that start the
-turn adjacent to them also take 4 damage.&lt;/p&gt;
-
-&lt;p&gt;Drowsing Puncture is a fine skill to use against PC defenders, and the Mark is
-quite versatile. When used against a defender, it allows the thorn to slip past
-the PC front-line unmolested. It also works to diver the attention of any PC who
-would normally gain more by attacking one of the spriggan’s more fragile
-allies. They pair really well with powries, who can end up increasing the
-ongoing damage caused by the swords.&lt;/p&gt;
-
-&lt;h3 id=&quot;spriggan-witherer&quot;&gt;Spriggan Witherer&lt;/h3&gt;
-
-&lt;p&gt;Witherers are spriggan spellcasters who specialize in harmful weather control
-magic. They can probably cause serious trouble to agrarian communities with
-rituals, and they can also create more localized effects useful in
-combat. They have an obsession with soaking the earth in blood, so they pair
-well with enemies with a similar imagery. They’re Level 8 Artillery with 70 HP
-and the Leader keyword.&lt;/p&gt;
-
-&lt;p&gt;Their melee attack is a &lt;strong&gt;whithering touch&lt;/strong&gt; vs. Reflex that deals necrotic
-damage. Their main single-target ranged attack is &lt;strong&gt;Sun Scorch&lt;/strong&gt; (Ranged 10
-vs. Reflex) dealing fire and radiant damage. They can use a spell named
-&lt;strong&gt;Flattening Wind&lt;/strong&gt; either as a close blast 3 or as an area 3/range 10 attack
-vs. Fortitude. This deals physical damage, pushes 2 squares, and knocks
-prone. It recharges when they’re first bloodied.&lt;/p&gt;
-
-&lt;p&gt;After they’re bloodied, they can use &lt;strong&gt;Blood For the Earth&lt;/strong&gt; at will. This is an
-area 2/range 10 attack that deals light physical damage, inflicts ongoing
-damage, and gives 5 temporary HP to any allies caught in the area.&lt;/p&gt;
-
-&lt;p&gt;This makes for an artillery threat that starts off fairly aggressive and
-switches to more of a support role as the fight proceeds.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Spriggans are fairly good at fulfilling the “small evil fey” niche, and I love
-the ties to fomorian lore. There are some good synergies between the stat blocks
-presented here,&lt;/p&gt;
-
-&lt;p&gt;Spriggans can still be found working for fomorians, but some also work for evil
-eladrin or run their own rackets. They keep dangerous plants and animals around
-their settlements for protection.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 9: an evil eladrin twilight incanter with a pet
-shambling mound and a quartet of spriggan goons (2 giantsouls, 2 witherers).&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/02/01/spriggan.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/01/spriggan.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Spider</title>
-        <description>&lt;p&gt;If there’s one thing that D&amp;amp;D doesn’t lack, it’s monstrous spiders. The Monster
-Manual gave us a bunch of them; the Monster Vault would update some of these and
-add new ones. The Monster Manual 2, published between those two books, adds a
-whole new batch that doesn’t overlap with either of the other books.&lt;/p&gt;
-
-&lt;p&gt;All of the spiders here have Tremorsense 10 and a climb speed enhanced by the
-Spider Climb trait, which allows them to walk on ceilings. They also have a Web
-Walker trait that allows them to ignore difficult terrain caused by
-webs. Finally, they have the very obvious Spider keyword, which allows them to
-be affected by all those drow and ettercap abilities that benefit “spider
-allies”.&lt;/p&gt;
-
-&lt;h2 id=&quot;bristle-spider&quot;&gt;Bristle Spider&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-bristle.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These elephant-sized arachnids were originally bred by oni to serve as their
-mounts. In our narrative present, several other peoples have adopted them as
-well. Their biggest fans are the ettercap and the drow, neither of which have
-ever met a spider monster they didn’t like.&lt;/p&gt;
-
-&lt;p&gt;Bristle spiders can also be found in the wild, where they inhabit dense jungles
-and caves. These environments tend to have enough cover to allow even these huge
-monsters to hide effectively and ambush their prey.&lt;/p&gt;
-
-&lt;p&gt;Bristle Spiders are Huge Natural Beasts, and Level 15 Elite Lurkers with 232
-HP. They have a ground speed of 8 and a climb speed of 6. I don’t know if they
-make webs themselves, but they still have Web Walker. As lurkers, they’re
-trained in Stealth.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a venomous &lt;strong&gt;Bite&lt;/strong&gt; that deals damage with slow and
-ongoing poison damage riders. They can also spit an &lt;strong&gt;Acidic Poison Spray&lt;/strong&gt; in a
-Close Blast 5. This targets reflex and deals both instant and ongoing “acid and
-poison” damage, and also slows.&lt;/p&gt;
-
-&lt;p&gt;Those bristles are also useful in combat as part of the &lt;strong&gt;Bristle Blast&lt;/strong&gt; attack
-(recharge 4+). This is a minor action, Close Blast 5 attack against
-Fortitude. It deals no damage, but a hit blinds and dazes the target for a turn.&lt;/p&gt;
-
-&lt;p&gt;Despite being an elite, the bristle spider lacks a double attack
-ability. Instead it relies on its at-will acidic poison blast to hit multiple
-PCs per attack, with a side order of bristles to keep them vulnerable. It would
-probably work better as an elite controller than an elite lurker, with more HP
-and better AC.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 14 and has a bristle spider acting as a palanquin
-for a drow priestess and her drow blademaster bodyguard.&lt;/p&gt;
-
-&lt;h2 id=&quot;phase-spider&quot;&gt;Phase Spider&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-phase.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A returning classic, Phase Spiders have undergone some changes to account for
-the absence of an Ethereal plane in 4e. Here, they’re fey spiders with innate
-teleportation powers. They were originally created by the eladrin as biological
-weapons meant to infiltrate the halls of the drow and wreak havoc inside. It’s a
-spider arms race!&lt;/p&gt;
-
-&lt;p&gt;These spiders can survive nearly anywhere as long as they have prey to
-hunt. Their favorite targets are fey creatures, to the extent that they’ll go
-after the fey members of a mixed-origin party even if a non-fey target would be
-more advantageous. This behavior was probably an attempt by eladrin wizards to
-get them to go after drow. You can imagine how that turned out.&lt;/p&gt;
-
-&lt;p&gt;Phase Spiders are Large Fey Beasts, and Level 8 Skirmishers with 87 HP. They
-have ground, climb, and &lt;em&gt;teleport&lt;/em&gt; speeds of 6. Good luck pinning them down.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; deal somewhat low damage, but have a dangerous rider: targets
-are initially slowed, but after the first failed save they become
-unconscious. This is also a (save ends) condition, but the victim is completely
-unable to act while it lasts &lt;em&gt;and&lt;/em&gt; is even more vulnerable to attack than if
-they were “just” stunned.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ethereal Bite&lt;/strong&gt; allows the spider to teleport 10 squares and make a bite
-attack, working as a good ambush starter. &lt;strong&gt;Ethereal Repulsion&lt;/strong&gt; is an interrupt
-that triggers when an enemy moves adjacent to the spider: it attacks their Will
-and teleports them 4 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;This makes ranged attacks the best way to deal with phase spiders. They, in
-turn, will eagerly teleport to the party’s back line and munch on the squishies,
-relying on Ethereal Repulsion to delay any rescue by the melee defenders.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 7 and features two eladrin fey knights leading a
-pack of three trained phase spiders.&lt;/p&gt;
-
-&lt;h2 id=&quot;tomb-spider&quot;&gt;Tomb Spider&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-tomb.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These rotund arachnids are a Shadowfell species that has particularly strong
-incentives to seek out passages into the world. Their lifecycle requires them to
-lay eggs inside corpses, so they seek out crypts and graveyards for use as
-breeding grounds.&lt;/p&gt;
-
-&lt;p&gt;When the eggs hatch they animate the corpse, which acts as ambulatory shelter
-for the hatchlings until it finally splits open and lets them out. Orcus
-cultists just looove tomb spiders, as do all other types of death-themed
-villain.&lt;/p&gt;
-
-&lt;p&gt;Tomb Spiders are Large Shadow Beasts, and Level 11 Elite Controllers with 226
-HP. They have Resist 10 Necrotic, along with ground and climb speeds of 6. Their
-&lt;strong&gt;bites&lt;/strong&gt; damage, daze, and inflict ongoing necrotic damage (save ends
-both). Someone bitten by the spider can’t use the Second Wind action until the
-end of the encounter, though they can still be healed by other means.&lt;/p&gt;
-
-&lt;p&gt;These spiders definitely to spin webs: they can shoot &lt;strong&gt;Web Nets&lt;/strong&gt; at single
-targets as a minor action (Ranged 10 vs. Reflex). A hit restrains the target and
-makes them vulnerable to necrotic damage until they pass a save. Less often,
-they can squeeze out a glob of &lt;strong&gt;Webbed Terrain&lt;/strong&gt; (recharge 5+), which affects a
-large area and immobilizes on a hit. Hit or miss, the webs remain as difficult
-terrain until the end of the encounter.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 11 and features a deatphriest of orcus leading 2
-battle wights and 3 cultists to battle, using the tomb spider as armored
-support.&lt;/p&gt;
-
-&lt;h2 id=&quot;tomb-spider-broodswarm&quot;&gt;Tomb Spider Broodswarm&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-spider-tomb-broodswarm.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is a swarm of tiny tomb spiders that has just burst out of their corpse
-nest. It’s a Medium Shadow Beast (Swarm), and counts as a Level 10 Lurker with
-84 HP. It has the standard spider traits from this entry, and the standard swarm
-traits of being resistant to melee and ranged attacks, and vulnerable to area
-attacks.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows those caught inside. Its &lt;strong&gt;Swarm of Bites&lt;/strong&gt;
-attack is a lesser version of mommy’s bite, and instead of attacking it can use
-&lt;strong&gt;Shadow Drift&lt;/strong&gt; (recharge 5+) to shift shift 5 squares and gain +4 to all
-defenses for a turn.&lt;/p&gt;
-
-&lt;p&gt;There are no stats for the undead corpse that houses the spiders, but you can
-probably use something like a non-royal mummy described as being wrapped in webs
-instead of linen wraps. Depending on your tastes, it could be a minion that
-disgorges a Broodswarm when killed, a &lt;em&gt;regular&lt;/em&gt; that does the same (and thus
-counts as an elite two-stage monster), or a regular reskinned mummy if you want
-the young swarm to die when it dies instead of bursting out.&lt;/p&gt;
-
-&lt;p&gt;No sample encounter here, as the adult tomb spider used the space for it.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I kinda like the phase and tomb spider mechanics… but in the end, it’s more
-spiders. By the end of the edition we’ll end up with enough spider variants that
-you’ll have one for every situation, but you should definitely not use all of
-them in the same campaign.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/01/20/spider.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/20/spider.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Sphinx</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-sphinx.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Sphinxes already made their 4e debut on the &lt;a href=&quot;/octopus-carnival/2020/12/27/sphinx.html&quot;&gt;Monster Manual&lt;/a&gt;, and the MM2
-gives us an additional variant.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore-of-the-sphinx-mystery&quot;&gt;The Lore of the Sphinx Mystery&lt;/h2&gt;
-
-&lt;p&gt;All sphinxes have a common origin as sacred guardian beasts, as described in the
-&lt;a href=&quot;/octopus-carnival/2020/12/27/sphinx.html&quot;&gt;Monster Manual entry&lt;/a&gt;, but not all of them are exactly alike. This stat
-block represents an individual with preferences and abilities different from
-those of the typical MM1 sphinx.&lt;/p&gt;
-
-&lt;p&gt;All sphinxes have the ability to propose challenges that help separate intruders
-from visitors who have a right to be at the places they guard. Riddles are a
-classic but are far from the only option, and the MM1 entry made some effort to
-stress that part. Here, though, we go the other way.&lt;/p&gt;
-
-&lt;p&gt;The Sphinx Mystery is an individual who’s &lt;em&gt;way&lt;/em&gt; into riddles. She doesn’t just
-use them as her basic authentication scheme: she also uses them as weapons in
-the middle of an actual fight. She likes riddle games so much that she might
-just choose to keep playing rather than fighting with lethal intent, if her
-opponents can keep the game fun for her.&lt;/p&gt;
-
-&lt;p&gt;Intruders who can’t answer those riddles are in real trouble, though, because
-they do real damage and are as sticky as warlock curses.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Sphinx Mystery is a Level 19 Brute with 224 HP. Despite being a regular, she
-still has an action point. This might be an editorial error, but it’s fun so I’d
-keep it. She also has low-light vision, and moves at ground and air speeds of 6.&lt;/p&gt;
-
-&lt;p&gt;Most of her attacks are part of the standard lion beast arsenal. The likely
-fight-opener is a a &lt;strong&gt;Terrifying Roar&lt;/strong&gt; (encounter) that targets Fortitude,
-deals thunder damage, pushes 5 squares, and knocks prone. Her basic attack are
-&lt;strong&gt;Ancient Claws&lt;/strong&gt; that do heavy damage, and she can also use a &lt;strong&gt;Bite
-of Ages&lt;/strong&gt; that deals light damage, knocks prone, and immobilizes with the weight
-of history (save ends).&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the Mystery can use &lt;strong&gt;Riddle Me This&lt;/strong&gt; (Ranged 10). This is
-an at-will ability that represents the sphinx compelling someone to solve a
-riddle. This “hits” automatically, and dazes the target until the riddle is
-answered or until the encounter ends. Answering the riddle requires spending a
-minor action and succeeding at a DC 25 History check. Anyone can attempt the
-test on their turn, not just the affected PC.&lt;/p&gt;
-
-&lt;p&gt;If the targetted PC doesn’t attempt to solve the riddle on their turn, they take
-2d8 psychic damage at the end of that turn. They also take this damage if
-someone else answers the riddle for them. This damage is light, but about in
-line with the amount of “traditional” ongoing damage an effect at this level
-would cause.&lt;/p&gt;
-
-&lt;p&gt;Note that the target will be dazed, which means that if they attempt to answer
-the riddle, that’s the only thing they can do on their turn. So it might be
-better to let an unaffected buddy answer it and eat a single instance of that
-psychic damage.&lt;/p&gt;
-
-&lt;p&gt;The Mystery’s last attack is the amusingly named &lt;strong&gt;Corrective Maul&lt;/strong&gt;, which is a
-claw attack that does even more damage and recharges whenever anyone fails to
-answer one of her riddles.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The riddle mechanic is awesome! It makes the sphinx very controllery despite her
-being a Brute. Since the riddle is ranged, you’ll want to delay her entry into
-melee combat a bit until she can apply it to every PC. As a regular monster, the
-sphinx will always be found alongside a few buddies, so they can help with that.&lt;/p&gt;
-
-&lt;p&gt;The sample encounter is level 16: 2 nothic cacklers, 2 savage minotaurs, and a
-sphinx mystery. This is either an evil sphinx running with other assorted
-marauders, or a more traditional guardian who has managed to recruit several
-would-be intruders to her service through riddles and bets.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/01/19/sphinx.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/19/sphinx.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Slaughterstone Construct</title>
-        <description>&lt;p&gt;I think Slaughterstone Constructs first appeared on the D&amp;amp;D Miniatures game in
-late 3e. Their naming style marks them as a construct created after the
-“(Material) Golem” namespace had been mostly exhausted.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The approach to an underground dwarf fortress usually consists of a number of
-narrow tunnels, and that’s where most of the fighting happens when these places
-are attacked. Tunnel fighting is a nasty affair, particularly when it’s two
-large armies going at it. No place to run, no place to hide. Each inch of ground
-is bought with lives, and when you advance you step on the bodies of foe and
-friend alike.&lt;/p&gt;
-
-&lt;p&gt;Slaughterstone Constructs are the dwarven answer to this problem. They’re
-defensive siege engines built for the singular purpose of making sure the only
-ones who die are the invaders. Their intended usage is that you set them loose
-on a tunel and watch them run through it while turning everyone inside into
-chunky salsa. Their extreme toughness and strength means not many armies can
-stand up to them even in a more open field.&lt;/p&gt;
-
-&lt;p&gt;Creating a proper slaughterstone construct is quite difficult. To sculpt the
-body, you need a solid block of stone upon which the blood of a hero has been
-shed. Even if you have that stone, only the very best dwarf artificers can turn
-it into a construct. You’ll only find these things defending the largest and
-wealthiest dwarven kingdoms, or other places that have good relationships with
-them.&lt;/p&gt;
-
-&lt;p&gt;Note that the blood requirement doesn’t mean you need to &lt;em&gt;sacrifice&lt;/em&gt; a hero on
-the stone block. You could cut the stone from a cave or tunnel where that hero
-has fought. Alternatively, if your GM likes this sort of technically correct
-solution you could get yourself a brand new stone block and ask a certified war
-hero to prick their finger and let a drop of blood fall on it. Neither of these
-methods is easy (heroes don’t grow on trees!) but they’re far more ethical than
-sapient sacrifice.&lt;/p&gt;
-
-&lt;p&gt;If you have neither a master artisan nor a source of heroic blood but you still
-want your blender tank, you can pay a middling craftsdwarf for a knockoff that’s
-less reliable but still pretty strong.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three varieties of slaughterstone constructs here. Two “genuine” models
-and a knockoff. All of them are Large Natural Animates with the Construct
-keyword. They have darkvision, a ground speed of 6, and the ability to squeeze
-into Medium passages without any penalties and without granting combat
-advantage. They’re immune to poison, disease, and sleep.&lt;/p&gt;
-
-&lt;p&gt;Their Int is 1, the worst possible score, but you don’t need more than that when
-your only two functions are “walk forward” and “kill”. They probably respond to
-commands of equivalent complexity like “stop killing” and “go back to your
-garage”.&lt;/p&gt;
-
-&lt;h3 id=&quot;slaughterstone-eviscerator&quot;&gt;Slaughterstone Eviscerator&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaughterstone-eviscerator.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Eviscerators are armed with a large number of whirling scythe blades, and look
-a bit like super-edgy stone mantids. They’re Level 18 Brutes with 212 HP. The
-blades never stop moving, and to model that they have a &lt;strong&gt;Whirling Blades&lt;/strong&gt; aura
-(2) that deals 10 damage to anyone caught inside.&lt;/p&gt;
-
-&lt;p&gt;As weapons, those blades are are Reach 2 and have the High Crit property. Their
-basic attack deals heavy damage to a single target, and they can also be used in
-a &lt;strong&gt;Whirling Bladestorm&lt;/strong&gt; (recharge 6+) that hits everyone in a Close Burst 2
-for average damage. This makes them as dangerous in the open as in a tunnel.&lt;/p&gt;
-
-&lt;h3 id=&quot;slaughterstone-hammerer&quot;&gt;Slaughterstone Hammerer&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-slaughterstone-hammerer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These are more robust than eviscerators and mount stone hammers instead of
-blades. Once they reach you, it’s really hard to get away from them. Hammerers
-are Level 25 Soldiers with 233 HP.&lt;/p&gt;
-
-&lt;p&gt;They project a &lt;strong&gt;Thunder Step&lt;/strong&gt; aura (2) that slows those caught inside. The
-hammers can be used in two different attacks: a basic &lt;strong&gt;Slam&lt;/strong&gt; that deals
-average damage and knocks prone, and a &lt;strong&gt;Hammerstrike&lt;/strong&gt; that deals the same
-damage and dazes (save ends).&lt;/p&gt;
-
-&lt;p&gt;None of the hammerer’s skills mark enemies, but if you use them properly enemies
-will have no option but to attack the hammerer anyway.&lt;/p&gt;
-
-&lt;h3 id=&quot;slaughterstone-slicer&quot;&gt;Slaughterstone Slicer&lt;/h3&gt;
-
-&lt;p&gt;This is our “knockoff”, described as a less powerful version of a genuine
-eviscerator. It’s a Level 11 Elite Brute with 276 HP.&lt;/p&gt;
-
-&lt;p&gt;Slicers have pretty much the same attacks and traits as eviscerators, with
-smaller numbers due to the level difference. Their Bladestorm is supposed to be
-an encounter power that recharges when the slicer is first bloodied, despite the
-“at-will” tag on it.&lt;/p&gt;
-
-&lt;p&gt;They also have a tendency to malfunction, becoming dazed for a turn after they
-either deal or take a critical hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Fourth Edition’s combat rules make these constructs even more dangerous than the
-lore indicates. Both the lore and the rules say a construct “plugs” a tunnel and
-prevents enemies from passing through. The rules also say that allies may freely
-move and attack through each others’ spaces.&lt;/p&gt;
-
-&lt;p&gt;This means slaughterstone constructs pair really well with artillery monsters,
-and with controllers that have good ranged attacks. They’re also pretty good
-with skirmishers who can dart forward, attack, and move behind the construct
-again. Even if they can’t do all that in the same turn, their exposure to the
-PCs is still reduced.&lt;/p&gt;
-
-&lt;p&gt;Our example encounters are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 11: 1 duergar blasphemer, 2 duergar fleshtearers, 1 slaughterstone
-slicers. Looks like it’s not just dwarves who build these.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 18: 2 Eldritch Giants, 1 Nothic Mindblight, 2 Slaughterstone
-Eviscerators. Maybe they conquered a dwarf fortress and stole the constructs?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 25: 1 Beholder Eye of Chaos, 1 Oni Thunderer, 3 Slaughterstone
-Hammerers. This is the “strong artillery”, “mobile skirmisher” setup I
-mentioned, in its epic incarnation. You think you’re safe because the corridor
-is 6 squares wide, and then you see three constructs side by side blocking all
-of it.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/01/16/slaughterstone-construct.html</guid>
         
         <category>dnd4</category>
         
