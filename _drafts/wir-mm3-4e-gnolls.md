@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-gnoll.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Oh boy, more gnolls. They've been in every Monster Manual for this edition. I
 skipped the MM2 entry because it turned out to fully overlap the Monster Vault,
 but the one in this book is specifically meant to complement the MV instead of
@@ -61,7 +70,8 @@ allows an ally adjacent to that enemy to make a melee basic attack against them.
 
 War Fangs work very well when positioned in the second row of the enemy front
 line, because they'll improve the front-liners' defenses and mark the PCs from a
-place where they can't be easily attacked.
+place where they can't be easily attacked. They also do very well on the front
+line when surrounded by their allies.
 
 ### Chosen of Yeenoghu
 
