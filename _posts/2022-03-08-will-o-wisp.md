@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual 2: Will-O'-Wisp
+title: "Let's Read the 4e Monster Manual 2: Will-O'-Wisp"
 tags:
     - dnd4
     - lets-read
