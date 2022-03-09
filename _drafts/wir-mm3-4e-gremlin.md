@@ -21,9 +21,9 @@ sabotage, and an engineered predilection for it. These were the first gremlins.
 
 They did their job wonderfully, disrupting the alliance of eladrin city states
 arrayed against Thrumbolg by altering the correspondence between them, murdering
-key officials, and such deeds. However, they also ended up doing the same sort
-of thing to Thumbolg's own court, causing great damage to it. Gremlins gonna
-gremlin.
+key officials, and other such deeds. However, they also ended up doing the same
+sort of thing to Thumbolg's own court, causing great damage to it. Gremlins
+gotta gremlin.
 
 The little rascals were cast out, and over the ages spread through the Feywild
 and the middle world. Though they sometimes live openly in the communities of
