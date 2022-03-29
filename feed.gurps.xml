@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Mar 2022 14:07:35 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2022 14:07:35 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2022 14:33:38 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 14:33:38 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -72,6 +72,8 @@ doubled down on the original position and made it so each style had its own
 separate skill, thus coming full circle on the ‘martial arts cost more because
 they are exotic and special’ trope.&lt;/p&gt;
 
+&lt;h2 id=&quot;how-id-do-it&quot;&gt;How I’d Do It&lt;/h2&gt;
+
 &lt;p&gt;Had I been writing these rules, I’d probably take them in a different direction
 entirely, and more towards the way GURPS sees things. There would be no Martial
 Arts skill. Each style is associated with a single standard combat skill, and
@@ -92,7 +94,7 @@ by learning from as many sources as possible and keeping what works for
 them. And you can certainly describe the way your kung-fu looks as being a
 certain style even if you don’t have the Charms.&lt;/p&gt;
 
-&lt;h2 id=&quot;example-snake-style&quot;&gt;Example: Snake Style&lt;/h2&gt;
+&lt;h3 id=&quot;example-snake-style&quot;&gt;Example: Snake Style&lt;/h3&gt;
 
 &lt;p&gt;I didn’t originally plan on doing this, but what the heck, let’s go! Snake Style
 has traditionally been the main corebook style, so let’s see how it would look
