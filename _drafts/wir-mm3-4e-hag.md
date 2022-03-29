@@ -14,8 +14,8 @@ greedy schemes.
 Their basic lore remains the same in the MM3, which also adds that hags are
 keepers of secrets. They're always after new treasure and new secrets, generally
 of the type that increases their power. They use divination magic, pacts with
-mortals,  and a network of portals that weaves through the Feywild and the
-middle world, which they also use to keep connected to each other.
+mortals, and a network of portals that weaves through the Feywild and the middle
+world, which they also use to keep connected to each other.
 
 Hags are of course loathe to part with any of their secrets for
 free. Adventurers seeking information from a hag must usually agree to do them a
