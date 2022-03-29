@@ -5,9 +5,135 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Mar 2022 17:44:27 +0000</pubDate>
-    <lastBuildDate>Wed, 09 Mar 2022 17:44:27 +0000</lastBuildDate>
+    <pubDate>Tue, 29 Mar 2022 14:07:35 +0000</pubDate>
+    <lastBuildDate>Tue, 29 Mar 2022 14:07:35 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>On Exalted Martial Arts</title>
+        <description>&lt;p&gt;There’s this post on Mailanka’s Musings that talks about two different ways of
+modeling martial arts in RPGs. The first is something he calls “Move-Based”, and
+the second “Skill-Based”.&lt;/p&gt;
+
+&lt;p&gt;Move-based martial arts is how most RPGs in the 90’s did it. You bought a style,
+and that gave you access to a series of “moves” that were essentially special
+powers with individual rules for what they did. Some systems made you buy each
+individual move as well, usually as a way to model your progression in the
+style - advanced practitioners know more moves. Your move set is as or more
+important than your raw skill level.&lt;/p&gt;
+
+&lt;p&gt;Skill-based martial arts are what GURPS does. Everyone uses the same skills to
+fight, and knowing one style or another is mostly a matter of flavor with a few
+minor mechanical bonuses thrown in. What really matters are your skill levels:
+people with different style familiarities but similar skill levels are equally
+effective. The same applies to someone who “knows” a style and someone who just
+has the combat skills.&lt;/p&gt;
+
+&lt;p&gt;Move-based rules might allow you to emulate some classic kung-fu stories that
+are all about how some styles are objectively superior to others, or how there’s
+a secret style or ultimate technique that’s jealously guarded by a cranky old
+master. Skill-based rules are closer to Bruce Lee’s philosophy, or modern views
+of martial arts in general, where individual skill is more important and the
+“ultimate power” is learning from multiple sources and combining everything into
+something that works for you.&lt;/p&gt;
+
+&lt;p&gt;Personally, I prefer skill-based rules, largely due to my exposure to GURPS
+Martial Arts for Fourth edition. Everything it introduces can be done by someone
+who isn’t using the style rules. It covers styles from the whole world without
+treating any of them as inherently superior, and it acknowledges that basically
+any organized system of fighting counts as a “style”. The “generic swings” other
+systems describe as the standard form of fighting only happen if you’re
+completely untrained.&lt;/p&gt;
+
+&lt;p&gt;Given this preference, it comes as no surprise that I have a few weirdly
+specific hangups about how Exalted handles its martial arts. Let’s talk about
+them!&lt;/p&gt;
+
+&lt;h2 id=&quot;exalteds-martial-arts&quot;&gt;Exalted’s Martial Arts&lt;/h2&gt;
+
+&lt;p&gt;Exalted’s &lt;em&gt;whole system&lt;/em&gt; is entirely move-based. Every PC has a large set
+of “Charms” that are usually linked to skills, and represent magic techniques
+they can use to enhance uses of that skill. Getting to the maximum possible
+skill level is trivial, and it’s your Charms that make the difference when going
+against similarly supernatural opposition. This goes even for non-combat skills,
+though the fighty bits tend to take up a lot of attention.&lt;/p&gt;
+
+&lt;p&gt;Martial Arts are part of this system, but the game still takes pains to make
+them extra-special, even as it struggles to explain what makes them different
+from standard combat powers. Exalted First Edition had a separate Martial Arts
+skill, whose associated Charms were structured as “Martial Arts Styles”. They
+didn’t really “mix” with charms of other skills. As a result, a lot of each
+style’s Charms end up duplicating the effect of basic combat Charms in different
+ways.&lt;/p&gt;
+
+&lt;p&gt;Second Edition merged “standard” unarmed combat and Martial Arts, and made it a
+little easier to mix and match charms from a few different styles. Third Edition
+doubled down on the original position and made it so each style had its own
+separate skill, thus coming full circle on the ‘martial arts cost more because
+they are exotic and special’ trope.&lt;/p&gt;
+
+&lt;p&gt;Had I been writing these rules, I’d probably take them in a different direction
+entirely, and more towards the way GURPS sees things. There would be no Martial
+Arts skill. Each style is associated with a single standard combat skill, and
+consists of exactly three Charms representing its advanced or iconic
+techniques. The basic stuff is already covered by the standard skill and
+standard Charms.&lt;/p&gt;
+
+&lt;p&gt;For the Charms I’d reuse the “lotus” metaphor, so they would be the Root, Bulb
+and Blossom Charms. You learn them in this order. Each has the previous one as a
+prerequisite, and probably an increasing Essence score. They’re meant to be
+combined with the standard Charms for that skill, relying on them for the basic
+dice-adding mechanics and such. If you know Charms of multiple styles you can
+explicitly combine them as long as the combination is otherwise rules-legal.&lt;/p&gt;
+
+&lt;p&gt;Everyone who learns to fight is a martial artist, even if they never pick up
+style Charms. Every martial artist ultimately develops their own personal style
+by learning from as many sources as possible and keeping what works for
+them. And you can certainly describe the way your kung-fu looks as being a
+certain style even if you don’t have the Charms.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-snake-style&quot;&gt;Example: Snake Style&lt;/h2&gt;
+
+&lt;p&gt;I didn’t originally plan on doing this, but what the heck, let’s go! Snake Style
+has traditionally been the main corebook style, so let’s see how it would look
+in this format.&lt;/p&gt;
+
+&lt;p&gt;Let’s see what the lore says about it: it’s a style focused on speed and
+precision, aiming to take down better armed and armored opponents before they
+have time to act. It uses two-fingered strikes to hit pressure points and
+exposed tendons. Masters of the style can “pierce through armor”, “paralyze
+opponents with pressure point strikes”, and “deliver poisonous Essence through
+their fingertips”.&lt;/p&gt;
+
+&lt;p&gt;The choice of what to keep in our new format is pretty easy - each of the things
+masters of the style can do references a specific Charm. We want those. All the
+others increase basic numbers in different ways and can be replaced by standard
+charms from Brawl and other trees. Want to dodge like a snake? Take Dodge
+Charms. Want the “tough scales” effect? Take Resistance.&lt;/p&gt;
+
+&lt;p&gt;So our new Snake Style is an unarmed style linked to Brawl. Our Root Charm is
+&lt;strong&gt;Crippling Pressure Point Strike&lt;/strong&gt; (Ex3 p. 428). Our Bulb Charm is
+&lt;strong&gt;Armor-Penetrating Fang Strike&lt;/strong&gt;. Our Blossom Charm is &lt;strong&gt;Essence Venom
+Strike&lt;/strong&gt;. Their skill level and Essence prerequisites remain the same, but read
+Brawl in place of Martial Arts.&lt;/p&gt;
+
+&lt;p&gt;This is a quick and dirty sketch, and some additional work would be
+required. Essence Venom Strike needs to be rewritten a bit, since half of its
+effects reference Charms we’ve eliminated. We might also want to rewrite some of
+the base Brawl charms, though I haven’t looked at them in much depth.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>exalted</category>
+        
+        <category>martial-arts</category>
+        
+        
+      </item>
     
       <item>
         <title>Nordlond Bestiary Kickstarter Campaign</title>
@@ -873,73 +999,6 @@ trope.&lt;/p&gt;
         <category>gurps</category>
         
         <category>lancer</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Stormtrooper Armor Conundrum</title>
-        <description>&lt;p&gt;Do you know what is the second hardest thing to convert when adapting Star Wars
-to the tabletop? Stormtroopers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. From an in-character perspective they vastly
-outnumber and outgun the scrappy rebel protagonists, with deadly blaster
-carbines and that iconic heavy armor. Yet in the actual narrative they almost
-never hit a shot and always get taken out in one hit from one of the heroes.&lt;/p&gt;
-
-&lt;p&gt;Their poor aim has actually made it into GURPS as an optional cinematic rule
-named “Imperial Stormtrooper Marksmanship Academy”, which reduces the deadliness
-of enemy shooters. But the armor thing has tied people’s brain in knots, because
-it can’t be explained away with a joke. Why does their armor do nothing?&lt;/p&gt;
-
-&lt;p&gt;There are almost as many explanations and solutions to this as there are Star
-Wars adaptations. Some say “all armor is bad, actually” and have PCs rely on
-plot protection. Some have an armor system but go out of their way to explain
-why trooper suits specifically are actually bad. And some have an armor system
-that rates trooper armor highly but then go on to state that fun shootouts from
-the movies are lies and legends.&lt;/p&gt;
-
-&lt;p&gt;Me, I think I hit on a solution that allows me to keep those fun fights while
-still having armor be cool.&lt;/p&gt;
-
-&lt;h2 id=&quot;imperial-stormtrooper-armor-drills&quot;&gt;Imperial Stormtrooper Armor Drills&lt;/h2&gt;
-
-&lt;p&gt;This is a cinematic rule meant for science fiction settings where highly
-effective armor is common, but you want the PCs to have fun battles against
-armies of heavily-armored mooks. Star Wars and stormtroopers are the most
-obvious examples, but it also works for settings such as Waframe’s with its
-Grineer soldiers.&lt;/p&gt;
-
-&lt;p&gt;Under this rule, armor worn by “mook” or “fodder” enemies has no protective
-value, and is mostly a cosmetic detail! Any solid hit will take them down,
-regardless of whether it would have penetrated their DR under standard
-rules. Armor worn by PCs and other important characters still uses all the
-default rules.&lt;/p&gt;
-
-&lt;p&gt;This allows you to frame a particularly badass trooper as a real threat and have
-them survive several attacks without giving them different protective gear. It
-also allows PCs to loot armor from a fallen mook and have it actually provide
-benefit beyond a temporary disguise.&lt;/p&gt;
-
-&lt;p&gt;Optionally, you could perhaps take this a bit further and subject certain
-stormtroopers to the Inverse Ninja Rule. See a full platoon of troopers gunning
-for you? Easy. See &lt;em&gt;one&lt;/em&gt; trooper approaching? Danger!&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The first is the Force, but we all know that. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2020/10/27/stormtrooper-armor.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2020/10/27/stormtrooper-armor.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>star-wars</category>
-        
-        <category>science-fiction</category>
         
         
       </item>
