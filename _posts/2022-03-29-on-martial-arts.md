@@ -68,6 +68,8 @@ doubled down on the original position and made it so each style had its own
 separate skill, thus coming full circle on the 'martial arts cost more because
 they are exotic and special' trope.
 
+## How I'd Do It
+
 Had I been writing these rules, I'd probably take them in a different direction
 entirely, and more towards the way GURPS sees things. There would be no Martial
 Arts skill. Each style is associated with a single standard combat skill, and
@@ -88,7 +90,7 @@ by learning from as many sources as possible and keeping what works for
 them. And you can certainly describe the way your kung-fu looks as being a
 certain style even if you don't have the Charms.
 
-## Example: Snake Style
+### Example: Snake Style
 
 I didn't originally plan on doing this, but what the heck, let's go! Snake Style
 has traditionally been the main corebook style, so let's see how it would look
