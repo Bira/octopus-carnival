@@ -157,6 +157,9 @@ variants here. Here they are, from A to Z:
   - [Wolf, Winter][94]
   - [Wood Woad][95]
 
+- X
+  - [Xorn][96]
+
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -254,3 +257,4 @@ variants here. Here they are, from A to Z:
 [93]: {{ "/2022/03/08/witherling.html" | relative_url }}
 [94]: {{ "/2022/03/08/wolf-winter.html" | relative_url }}
 [95]: {{ "/2022/03/08/wood-woad.html" | relative_url }}
+[96]: {{ "/2022/04/05/xorn.html" | relative_url }}
