@@ -6,9 +6,104 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Mar 2022 14:33:38 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Mar 2022 14:33:38 +0000</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2022 18:45:47 +0000</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2022 18:45:47 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 2: Xorn</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-xorn.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2009 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I see xorns in my copy of the AD&amp;amp;D 1st Edition monster manual, so they date from
+at least that far back. This is their 4e debut, and they’re the last monster in
+the book.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Xorns are earth elementals native to the Elemental Chaos, but they long ago
+spread to the deep subterranean tunnels and caverns of the world. Their
+three-lobed radial symmetry makes them seem quite bizarre to natives of the
+world.&lt;/p&gt;
+
+&lt;p&gt;Xorns can swim through rock and earth as if it was water, and must feed on
+certain rare metals and gems. They’re sapient, and will often bargain with other
+people, aiding in their mining or smelting efforts in exchange for their
+“food”. It seems they’re not very concerned with much beyond their own survival,
+so they’ll happily ally with creatures of all dispositions, from dwarves and
+galeb dhur to duergar and fire giants.&lt;/p&gt;
+
+&lt;p&gt;Xorns found in the wild are likely to be drawn to the gems and magic items
+carried by PCs. The PCs might be able to negotiate with them and avoid a
+fight… but some less scrupulous xorns tend to use these negotiations to help
+set ambushes.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get two stat blocks here, but they’re very similar, so I’ll discuss the first
+one and then note how the second one differs from it.&lt;/p&gt;
+
+&lt;h3 id=&quot;xorn&quot;&gt;Xorn&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Medium Elemental Magical Beast (Earth), and a Level 9
+Skirmisher with 102 HP. Its senses include darkvision and all-around vision,
+which prevents it from being flanked. It has a relatively low ground speed of 5,
+and a burrow speed of 5 that’s enhanced by the &lt;strong&gt;Earth Glide&lt;/strong&gt; ability. It
+allows the xorn to burrow through solid rock as if it was loose earth, using its
+full burrow speed at all times.&lt;/p&gt;
+
+&lt;p&gt;The xorn’s basic attack is a &lt;strong&gt;Claw&lt;/strong&gt;, and &lt;strong&gt;Triple Strike&lt;/strong&gt; allows it to make
+three of those against different targets. If there’s only one foe in range, it
+will use its &lt;strong&gt;Earthy Maw&lt;/strong&gt; instead since it does about double the damage of a
+claw strike.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, the xorn can &lt;strong&gt;Submerge&lt;/strong&gt;, partially burying itself and
+gaining a +2 bonus to AC until it moves. When it’s missed by a melee attack, it
+can &lt;strong&gt;retreat&lt;/strong&gt;, burrowing its speed as a reaction.&lt;/p&gt;
+
+&lt;p&gt;In a fight, a xorn will jump from inside a wall or floor, submerge for the AC
+bonus, and claw or bite the party’s squishies. If a missed attack doesn’t make
+the creature retreat automatically, it will do so on its next turn so it can
+repeat this pattern. Earth Glide makes it extremely mobile despite its poor
+speed, particularly in an underground environment.&lt;/p&gt;
+
+&lt;h2 id=&quot;diadmondhide-xorn&quot;&gt;Diadmondhide Xorn&lt;/h2&gt;
+
+&lt;p&gt;This is an older or simply well-fed specimen, who lives in a place of the
+Elemental Chaos where its preferred food is more plentiful. Its hide glitters
+with the minerals it has ingested.&lt;/p&gt;
+
+&lt;p&gt;Diamondhide xorns are Large in size, and are Level 16 Skirmishers with 160
+HP. They have all the same attacks and abilties as the basic xorn, with bigger
+numbers. They also have a new attack named &lt;strong&gt;Undermine&lt;/strong&gt; (recharge 5+) in which
+the xorn burrows its speed and attacks a creature it passes under. This targets
+Reflex, does heavy damage, and restrains the target (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The sample encounter is level 9, and consists of a pair of xorns in cahoots with
+a troop of duergar.&lt;/p&gt;
+
+&lt;p&gt;I’m happy to see xorns here. Their weird looks make them an iconic D&amp;amp;D monster
+in my mind. A nice way to close the book.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>On Exalted Martial Arts</title>
@@ -1155,123 +1250,6 @@ fight.&lt;/p&gt;
         <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/02/18/troglodyte.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/troglodyte.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Tiger</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-tiger.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Tigers are real animals and have been part of the game since its
-beginnings. They’re some of the only animals whose “mundane” version was
-considered worthy of a monster stat block at this point in the edition.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The book describes tigers as powerful and cunning predators that can be found in
-“rugged natural environments”. Let’s elaborate on that a bit, shall we?&lt;/p&gt;
-
-&lt;p&gt;According to Wikipedia “rugged natural environments” means mostly flat or hilly
-forests, but those can range from cold Siberian taigas to temperate forests to
-tropical jungles. A tiger requires a large amount of territory, which allows it
-to range far and hunt its prey (usually large herbivores). Tigers are “solitary
-but social”: they hunt alone but might nest together, with their range areas
-overlapping.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 2 does add a bit of interesting fantastic lore by saying
-tigers are sometimes domesticated by &lt;em&gt;ogres&lt;/em&gt; of all people to serve as guard and
-hunting animals.&lt;/p&gt;
-
-&lt;p&gt;A wild D&amp;amp;D tiger is not shy about including adventurers in its menu. If they run
-across a battle while hunting, they might stalk its edges and pounce on any
-combatant that gets separated from the rest.&lt;/p&gt;
-
-&lt;p&gt;Dire tigers are as usual larger, stronger and spikier. They’re bolder and less
-opportunistic, directly stalking prey that seems to be alone and weaker than
-them. Their behavior is a lot closer to that of the tiger in &lt;em&gt;The Jungle Book&lt;/em&gt;
-than that of a real-world animal.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Both mundane and dire tigers are Large Natural Beasts with low-light vision, a
-ground speed of 8, and a climb speed of 4. Their signature ability is &lt;strong&gt;Feral
-Surge&lt;/strong&gt;, an encounter power that allows them to take a move action as a minor
-action.&lt;/p&gt;
-
-&lt;h3 id=&quot;tiger&quot;&gt;Tiger&lt;/h3&gt;
-
-&lt;p&gt;“Mundane” tigers are Level 6 Skirmishers with 73 HP. Their basic attack is a
-&lt;strong&gt;bite&lt;/strong&gt; that does immediate and ongoing damage.&lt;/p&gt;
-
-&lt;p&gt;During a fight, the tiger always wants to be moving and charging, as being on
-the move makes it much more dangerous. If forced to choose between a static
-fight and running away, it will likely take the second option every time.&lt;/p&gt;
-
-&lt;p&gt;The traits that make it want to move are &lt;strong&gt;Blur of Fur&lt;/strong&gt;, which gives it +4 AC
-against opportunity attacks in any turn where it moves 2 or more squares; and
-&lt;strong&gt;Charging Pounce&lt;/strong&gt;, which gives it bonus damage on charge attacks and makes it
-so charging &lt;em&gt;doesn’t&lt;/em&gt; end its turn. So it could use its standard action to
-charge, and then either a move action or Feral Surge to move away immediately.&lt;/p&gt;
-
-&lt;h3 id=&quot;dire-tiger&quot;&gt;Dire Tiger&lt;/h3&gt;
-
-&lt;p&gt;Dire Tigers are Level 8 Soldiers with 89 HP. Their &lt;strong&gt;bites&lt;/strong&gt; are stronger, and
-they’re much more likely to accept the challenge of a stand-up fight. Even then
-they’ll try to single out the weakest available target and kill it first.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hunter’s Instinct&lt;/strong&gt; is an ability that helps then with that. It works exactly
-like the Hunter’s Quarry ability of a PC ranger. The tiger spends a minor action
-to make the nearest enemy its quarry, which lasts until the end of the encounter
-or until it uses this ability again. The quarry takes extra damage from all of
-the tiger’s attacks.&lt;/p&gt;
-
-&lt;p&gt;The dire tiger can also use a &lt;strong&gt;Leaping Pounce&lt;/strong&gt; as a reaction whenever its
-quarry is within 5 squares. It allows the creature to shift to a space adjacent
-to the quarry and bite it. Since this is a leap, the tiger can cross enemy
-spaces during the shift.&lt;/p&gt;
-
-&lt;p&gt;Marking the right quarry requires some clever positioning, but once that happens
-it will be hard for the other players to protect the victim from the tiger’s
-leaps.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These tigers have some cool mechanics to them, which is better than the generic
-bags of HP I remember them being in previous editions. They also feel pretty
-different from each other! I still would hesitate a bit before placing wild
-tigers as opposition to my PCs, what with them being endangered in reality and
-all.&lt;/p&gt;
-
-&lt;p&gt;We have two sample encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: A couple of ogre savages taking their two pet tigers and their pet
-macetail behemoth out for a stroll. Shrek and Fiona?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A weretiger running with a pack/harem of three dire tigers. The fact that you
-have tigers running in packs should be a hint that there’s something unnatural
-going on.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/02/18/tiger.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/tiger.html</guid>
         
         <category>dnd4</category>
         
