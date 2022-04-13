@@ -26,7 +26,8 @@ inherited its powers.
 There's some fuzzy edges in their lore. It mentions howlers attacking people in
 the middle world and in the Underdark, mentions associations with shadar-kai,
 but gives the creature an Elemental origin. I think they might fit better as
-either Natural or Shadow. Fortunately origin doesn't influence stats.
+either Natural or Shadow. Fortunately origin doesn't influence
+stats. Alternatively you might go the other way and make them a type of demon.
 
 ## The Numbers
 
@@ -71,7 +72,7 @@ ongoing psychic damage to those it hits, and makes them grant combat advantage
 this is a (recharge 6+) power instead of an encounter power. So it might happen
 more than once!
 
-Bing all about that delicious fear, the mastiff will open with a howl and then
+Being all about that delicious fear, the mastiff will open with a howl and then
 will do its best to stick to one of the affected PCs, using move actions and
 Loping Bites to do so. It's smart enough to prefer a squishy victim over a
 defender, too.

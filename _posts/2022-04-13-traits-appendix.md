@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is the last in a series! Go [here][1] to see the other entries.
+
 Like the first Monster Manual before it, the Monster Manual 2 ends with a short
 appendix containing rules for using some of the humanoids from the book as
 playable characters. This one is a lot smaller than the MM's appendix, and I
@@ -27,3 +29,6 @@ The three writeups and their notable traits are listed below.
 
 And with this we can finally close the MM2, and move on to the next book in my
 planned series. See you on the Monster Manual 3 Let's Read!
+
+
+[1]: {{ "/projects/mm2-4e/" | relative_url }}

@@ -160,6 +160,8 @@ variants here. Here they are, from A to Z:
 - X
   - [Xorn][96]
 
+After the monster listings, the book ends with a [traits appendix][97] with
+playable stats for a small number of the humanoid species introduced here.
 
 [1]: {{ "/projects/mm-4e/" | relative_url }}
 [2]: {{ "/2021/03/27/angel.html" | relative_url }}
@@ -258,3 +260,4 @@ variants here. Here they are, from A to Z:
 [94]: {{ "/2022/03/08/wolf-winter.html" | relative_url }}
 [95]: {{ "/2022/03/08/wood-woad.html" | relative_url }}
 [96]: {{ "/2022/04/05/xorn.html" | relative_url }}
+[97]: {{ "/2022/04/13/traits-appendix.html" | relative_url }}
