@@ -1,0 +1,157 @@
+---
+layout: post
+tags: "Let's Read the 4e Monster Manual 3: Kraken"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Krakens have been in the game since AD&D, but here they get some extra lore.
+
+## The Lore
+
+At the beginning of time, long before the creation of the first mortals, the
+Krakens escaped from the Far Realm and entered the middle world and the Astral
+Sea, trailing the debris of other broken worlds behind them.
+
+They had a good time for a while, but then a great cataclysm (perhaps the Dawn
+War) scattered them. In our narrative present most of the surviving krakens are
+hidden in the deepest trenches of the middle world's oceans, or slumbering in
+forgotten corners of the Astral. Every once in a while, though, one of them will
+leave these dark holes and once again wreak havoc.
+
+These creatures are extremely intelligent, though their mentalities are very
+alien to mortals. They're hostile to mortal sapients for incomprehensible
+reasons, and are drawn to wherever large groups of sapient minds can be
+found. When they emerge, groups of cultists soon gather around them, composed
+both of mortal worshippers and aberrant creatures. Krakens are more than smart
+enough to command and use these cults to help fulfill their destructive goals.
+
+So yeah, Krakens are Great Old Ones. You know how some people worship Aboleths
+as god-like beings older than time? I bet Aboleths worship krakens in the same
+way.
+
+## The Monsters
+
+We have two varieties of kraken here. One is more geared towards the classic
+"giant squid attacks ship" scenario, and the other leans more on the Great Old
+One aesthetic. Both are Gargantuan Aberrant Magical Beasts.
+
+### Sea Kraken
+
+A kraken that lives in the seas of the middle world. It is said that terrible
+storms follow in their wake. They love to attack ships, and any vessel grabbed
+by a Sea Kraken is likely doomed unless it happens to be transporting a party of
+particularly badass adventurers.
+
+Sea Krakens are Level 10 Solo Soldiers with 432 HP, which makes them a bit
+lower-level than I anticipated given their general lore. They have darkvision, a
+ground speed of 6, and a swim speed of 10. I think this makes them faster in
+water than most ships.
+
+Sea Krakens are obviously **Aquatic**, which means they can breathe underwater
+and gain a +2 attack bonus against non-aquatic creatures fighting them in the
+water. They also have **Threatening Reach** 3. As you might guess, this is a
+grabby monster. Escaping its grabs requires a DC 26 Athletics or DC 22 Acrobatis
+check.
+
+The kraken's basic attack involves its **Crushing Tentacles**, which are
+Reach 3. They damage and grab on a hit, and the kraken can have up to 8
+creatures grabbed by this attack. The monster can spend a minor action to
+sustain all of its grabs and deal an automatic 5 damage to all victims.
+
+**Devourer of Ships** is a literal anti-vehicle attack - it can only target
+vehicles, and it's what the beast uses to coil around a ship. It deals heavy
+damage to the target ship and restrains it while the kraken remains within 3
+squares of it. While restrained, the ship takes 20 damage at the start of the
+target's turn. Its pilot can spend a Standard action to give the ship a saving
+throw, and if it passes it escapes the grab.
+
+And don't worry, krakens don't have to split their attention between a ship and
+its crew. **Coils of Doom** is an at-will power that allows them to use Crushing
+Tentacles twice and Devourer of Ships once with a single action.
+
+Once per encounter they can also use an ability named **Wavewrack** to create a
+zone in a Close Burst 3 around themselves. This zone is difficult terrain. When
+an enemy starts their turn inside, they take 5 damage and are slid 2
+squares. The Kraken can spend a minor action to slide this zone up to 3
+squares. Do note that a Close Burst 3 around a Gargantuan creature is _much_
+larger than one around a Medium creature.
+
+Aside from moving the zone, the kraken can spend minor actions to activate any
+of the following abilities. **Fatal Plunge** is an attack against a grabbed
+creature that deals light damage and slides the target 3 squares. As the name
+implies, this can allow the kraken to drag them _underwater_. It can also
+**Fling** a grabbed creature, sliding them adjacent to another creature and
+making a lightly-damaging attack against both. This ends the grab. And finally,
+it can shoot **Venom Bolts** that deal poison damage and blind (save ends).
+
+We're not done yet! If a grabbed creature damages the kraken, the monster can
+use **Vengeful Constriction** as a reaction to deal 5 automatic damage to every
+creature it's grabbing.
+
+### Astral Kraken
+
+Astral Krakens are "sea monsters" in the same way the Astral is a "sea". Their
+bodies are made of stars and shadow, their eyes two black lightless
+voids. Madness precedes them and follows in their wake. You might say they're
+closer to their original forms than the sea kraken, as they never had to
+acclimate to the middle world.
+
+Astral Krakens are Level 25 Solo Controllers with 925 HP, putting them in the
+same "weight class" as godforged and primordial colossi, divine and demonic
+exarchs, and most ancient dragons. It takes the sea kraken chassis and adds
+madness-themed abilities on top. It has a flight speed of 10, and
+Blindsight 20. Invisibility won't save you.
+
+The kraken's melee attacks have Threatening Reach 4. Its **Tentacles From
+Beyond** work like the sea kraken's, damaging and grabbing. The escape DC is 41
+for Athletics, and 37 for Acrobatics. Sustaining the grab deals 15 psychic
+damage to all victims.
+
+**Absorb Psyche** targets all grabbed victims at once, attacking Will and
+dealing psychic damage. A hit also grants the Kraken a +5 bonus to attack with
+Touch of Madness (below) _for the rest of the encounter_.
+
+**Touch of Madness** targets a single creature's Will. It does no damage, but it
+forces the target to use its highest-level encounter power against another
+target of the Kraken's choice. This happens even if the power was already
+expended, and doesn't expend the power if it hasn't.
+
+**Devourer of Ships** is here too, and works much like the Sea Kraken
+version. Despite its higher accuracy, it deals exactly the same damage. I guess
+this makes sense, since a ship's HP varies less than a PC's as level goes up.
+
+As a minor action, the astral kraken can release a **Nullifying Pulse** in a
+Close Blast 4. This non-damaging attack targets Will and dazes (save ends) on a
+hit. There are no other minor action attacks, but it doesn't _need_ any more
+with such a powerful multi-daze at its disposal.
+
+Its triggered actions are pretty scary too! When someone misses the kraken,
+they're forced to **Behold the Horror**. This is a reaction attack that targets
+Will, deals psychic damage, and dominates for a turn. Luckily it can only happen
+at most once per round, since it's a reaction.
+
+Once per encounter, when the kraken is first bloodied, it lets out a **Psychic
+Scream**, which covers a large enough area (Close Burst 10!) that it's likely
+to target every enemy. This attacks Will, and on a hit it deals psychic damage
+and stuns (save ends).
+
+## Final Impressions
+
+When it's time to release the kraken, these two will not disappoint.
+
+Sea krakens have a lot of straightforward multi-attack capability, and they're
+really hard to shake from your ship once they grab on. If the ship manages to
+escape, they don't have to divert their attention from the crew to grab the
+vessel again.
+
+The astral kraken's multi-attack capability is less straightforward than the sea
+kraken's, but it has excellent action denial, and can be terrifying if you give
+it time to set things up properly.
+
+Both monsters don't seem to have much defense against being dazed or stunned
+other than the standard +5 solo bonus to saves, so doing that is a good way to
+neutralize their firepower. If your party is heavy on the action denial powers,
+you can make things harder for them by adding a sprinkling of cultist minions
+and a leader-type that can grant them extra saves.

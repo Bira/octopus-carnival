@@ -1,0 +1,119 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Meenlock"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I don't remember seeing these things in earlier editions. Their lore is almost
+certainly new.
+
+## The Lore
+
+A monster is considered "aberrant" in 4e when their origins or workings are
+heavily tied to the Far Realm. Usually this means they come from the Far Realm,
+but that's not the case with meenlocks. Meenlocks are the victims of an alien
+disease, and it's this disease that comes from that horrible place.
+
+Known as Meenlock Corruption, it eventually changes its victims into naked mole
+rat/crab hybrids like those in the illustration. Meenlocks gather together in
+subterranean lairs built in caves, ruins, or in the shallow Underdark.
+
+These lairs usually have relatively easy access to the surface, with at most an
+easily-rolled boulder blocking their main entrance. The creatures themselves
+scatter and hide when their lairs are invaded, fighting only when cornered. All
+of this is because their main defense is Meenlock Corruption itself. Anyone who
+enters their lairs is exposed to the disease.
+
+As the corruption progresses, it dominates the victim's mind and compels them to
+return to the lair where they were infected. If such a victim spends more than
+two days in there, they turn into a new meenlock.
+
+Meenlocks are driven to seek new victims as well - that's how they increase
+their numbers. To that end they can ally with other creatures who are themselves
+resistant to their infection, in exchange for victims who are not. Potential
+allies include foulspawn, or powerful evil wizards and psions.
+
+The text of the book is a bit confusing but it looks like it's possible to
+restore someone who was turned into a meenlock. You need to kill the creature,
+burn its body, and then apply the Remove Affliction and Raise Dead rituals to
+the remains.
+
+## The Numbers
+
+Let's start by detailing the **Meenlock Corruption** disease. It's a Level 9
+Disease, with an improve DC of 20, and a Maintain DC of 15. Unlike most other
+diseases, its resistance rolls use Insight instead of Endurance. Stage One
+inflicts a -4 Will penalty. Stage Two makes the victim grant combat
+advantage. Stage Three makes the victim become dominated by the meenlocks who
+infected it, and driven to return to their lair.
+
+As usual for 4e diseases, when you reach Stage Three you stop making resistance
+rolls to improve. A Remove Affiction ritual might be able to save the victim if
+performed before the transformation is complete. Otherwise you need the more
+drastic procedure described above (kill them, burn the body, Remove Affliction,
+Raise Dead).
+
+Meenlocks themselves are Small Aberrant Humanoids with Speed 5 and
+Darkvision. Their signature ability is Dimension Step (recharge 4+), a move
+action that allows them to teleport 8 squares. All of them fight with their
+claws and with a suite of mental powers blending fey magic and aberrant
+psionics. The specifics vary per individual stat block.
+
+### Meenlock Stalker
+
+Stalkers possess powers that make them particularly suitable for the gathering
+of new victims. They're Level 9 Controllers with 97 HP.
+
+In combat, a Stalker will first and foremost try to forge a **Horrid Link**
+(minor action, recharge 4+) with a victim. It has a range of 10 squares and
+happens automatically. Whenever the stalker takes damage, the linked victim
+takes 1d10+5 damage. The link lasts for a turn or until the stalker uses the
+power again.
+
+The Stalker can then use two powers against the linked victim. Both are ranged
+attacks targetting Will and inflicting light psychic damage, with different
+rider effects. **Maddening Whispers** dazes (save ends). And **Twisting
+Whispers** force the victim to make a basic attack against a creature of the
+stalker's choice. It also exposes the victim to Meenlock Corruption.
+
+Their **Claws** are simple basic attacks with average damage, so stalkers have
+an incentive to stay away from the PCs and work solely through the Horrid Link.
+
+### Meenlock Corruptor
+
+This one trades damage potential for increased control. It's devastating to
+party cohesion in both defensive and offensive ambushes.
+
+Once again, its **claws** are simple basic attacks. The star of the show here is
+**Corrupting Mind**, a very complex at-will ranged attack. It deals no damage
+itself, but does a lot of other things. First, it exposes the target to meenlock
+corruption. Then, it inflicts a custom condition named Mental Disarray (save
+ends). A target affected by this is considered dominated, gains 2d6 bonus damage
+to all attacks, and is unable to see the corruptor.
+
+Failing the first save against mental disarray makes the condition last until
+the end of the encounter! Whenever victim in this state takes more than 10
+damage, the meenlock corruptor takes the same amount, and the victim can make a
+saving throw.
+
+Once per encounter the corruptor can also use a **Psychic Shriek** to hit a
+close blast 5, dealing psychic damage and knocking targets prone.
+
+So yeah, another dominator that's worse than a succubus. Since Corrupting Mind
+is at-will, it's possible that the whole party would get dominated at once when
+fighting a corruptor. The more of them you add to a single encounter, the bigger
+the chance of this happening.
+
+## Final Impressions
+
+Another disease-themed monster that tackles its theme in a creative
+manner. Not many diseases use Insight instead of Endurance. Your beefy
+Endurance-trained defenders will get a nasty shock if the party doesn't figure
+this out before exposure.
+
+Mechanically, both of them are quite dangerous. PCs fighting an all-meenlock
+encounter group will spend as much time attacking each other as they will
+fighting the monsters. The corruptor is particularly terrifying in this
+regard.

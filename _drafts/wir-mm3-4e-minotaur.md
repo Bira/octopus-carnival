@@ -1,0 +1,119 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Minotaur"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Minotaurs made their 4e debut right in the [first Monster Manual][2]. They'd
+also appear in the Monster Vault. As it happens with a lot of other monsters in
+the same situation, the MM3 gives us a set of minotaur stat blocks that
+complements the ones from the MV.
+
+## The Lore
+
+Minotaurs are a playable option as of the PHB 3, so their [basic lore][2] is
+quite a bit more lenient with them than that of other "monstrous humanoids". The
+MM3 innovates here by presenting us with a _specific organization_ of evil
+minotaurs rather than trying to describe the whole species again.
+
+This organization is called the Blood League. Its members have invented rituals
+that allow them to steal the power of another creature by eating its
+still-beating heart. They like to capture potential targets and release them
+into a special labyrinth they control, hunting the victim to the limits of its
+endurance and only then making the kill. They often work with worshippers of
+Torog and Baphomet, who share aspects of their worldview and tastes. They also
+work with mind flayers, who get to eat the victims' brains after the Blood
+League is done with them.
+
+## The Numbers
+
+This entry presents several Blood League minotaurs that take their powers from a
+variety of creatures. They're all early Paragon threats. All of them are Medium
+Natural Humanoids and have a **Goring Charge** attack that does heavy physical
+damage and knocks prone on a hit. They also have a **Ferocity** trait that gives
+them one final basic attack when they're dropped to 0 HP, with an additional
+rider that varies per stat block.
+
+The novel thing here is the **Heart** ability each minotaur gets. This is
+something thematic to the creature they killed to gain their powers. It's
+usually an encounter or recharge power.
+
+### Pale Bloodfiend
+
+This one has eaten the heart of a vampire, proving that "still-beating" is a
+poetic flourish and not a requirement. It's a Level 12 Brute with 140 HP.
+
+The bloodfiend gained most of a vampire's cool powers without any of the
+disadvantages, much like Blade. It has a Speed of 8, Darkvision, claws, and a
+blood-draining bite.
+
+The **Claws** are a basic attack, and can be used twice in a **Double Claw**
+maneuver. If both attacks hit, the bloodfiend grabs the target. It can then use
+**Heart of the Vampire** against the grabbed victim, an attack vs. Fortitude
+that deals a light physical damage, dazes and weakens (save ends both). A hit
+also heals the bloodfiend for 20 HP. This is an encounter power that recharges
+on a miss.
+
+The **Bloodfiend's Ferocity** makes its final attack daze for a turn on a hit.
+
+### Cinderhoof Trampler
+
+This one has eaten the heart of a nightmare. It's a Level 13 Skirmisher with 132
+HP. It smells of brimstone and burnt hair. It runs very fast, and gains a few
+fire- and trample- based powers.
+
+Its speed is 8, and it has Resist 10 Fire. When it hits a target granting combat
+advantage to it, it inflicts ongoing 10 fire damage (save ends). It's basic
+attack is a **Gore**, and its special ability is **Heart of the Nightmare**
+(recharge 6+). This allows it to move its speed and enter enemy spaces during
+this move. Anyone that hits the trampler with an opportunity attack during the
+move takes 10 fire damage, and any creatures whose space it moves through are
+targeted by an attack vs. Reflex that deals heavy physical damage and knocks
+them prone.
+
+The **Trampler's Ferocity** pushes the target 2 squares and knocks it prone on a
+hit.
+
+### Ironskin Warrior
+
+This elite Blood Leaguer has eaten the heart of a gorgon, one of the
+metal-skinned gas-breathing bulls of D&D. It's a Level 14 Soldier with 140 HP,
+and has Resist 10 Poison.
+
+As the name implies, the ironskin warrior has metal skin, but that's rolled into
+its Soldierly high AC. It fights with a **greataxe** that damages, slows and
+prevents shifting (save ends both). The **Heart of the Gorgon** encounter bility
+is a poison breath attack (close burst 5 vs. Fortitude). A hit deals poison
+damage and slows (save ends). This worsens to immobilization on the first failed
+save, and to full petrification after the second failure. Petrification is
+permanent and requires magic to reverse. It's a good fight opener, because it
+has the chance to take an unlucky PC out of the fight completely.
+
+The **Ironskin's Ferocity** immobilizes the target for a turn on a hit.
+
+### Shardhorn Hunter
+
+This fearsome assassin has eaten the heart of a unicorn and made a dagger out of
+its horn. Just in case you doubted the Blood League was evil. It's a Level 15
+Lurker with 116 HP.
+
+Its **horn dagger** can be used for basic attacks, and it can also **backstab**
+an enemy granting combat advantage to the hunter. This deals the same damage as
+the basic attack, plus ongoing 10 damage (save ends). **Heart of the Unicorn**
+helps with this: it allows the hunter to teleport 6 squares and turn invisible
+for a turn or until it attacks. It recharges when the hunter uses Backstab (hit
+or miss).
+
+The **Shardhorn's Ferocity** dazes for a turn on a hit.
+
+## Final Impressions
+
+Here's a specific evil organization with specific methods and goals, and a nice
+set of thematic powers. It's not something that would have flown in the first
+Monster Manual (which needs to be more generic), but it's very welcome in a
+subsequent supplement like this one. I want more of this!
+
+
+[2]: https://bira.github.io/octopus-carnival/2020/07/23/minotaur.html
