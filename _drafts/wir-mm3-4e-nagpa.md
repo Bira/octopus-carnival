@@ -87,6 +87,34 @@ turn.
 
 ### Nagpa Carrion Lord
 
-This one is a gourmand who loved good food and drink, but who can only taste
-ashes and filth now. It still likes holding feasts, but its inability to enjoy
-them fill it with rage and frustration.
+This one is a gourmand who loved good food and drink, but who is cursed to only
+taste ashes and filth when it eats. It still likes holding feasts, but its
+inability to enjoy them fill it with rage and frustration, which it takes out on
+any nearby PCs.
+
+The Carrion Lord is a Level 14 Artillery monster with 111 HP. All of its
+abilities have a "rot" theme, starting with the **Rotting Staff** basic melee
+attack that targets Fortitude and does necrotic damage. Its basic ranged attack
+is the **Bolt of Putrescence**, targetting Reflex and doing, you guessed it,
+necrotic damage.
+
+**Hand of Ruin** (recharge 5+) is a ranged attack that changes things up a
+little and does acid damage. **Consuming Shadows** (encounter) is a ranged area
+attack that deals immediate and ongoing necrotic damage, and creates a zone that
+blocks line of sight to the carrion lord's enemies. Its allies can see through
+it just fine, though. It lasts for a turn and can be sustained with a minor
+action. The lord's last encounter power is **Ghostly Escape**, a minor action
+that gives it insubstantial and phasing for a turn.
+
+The Carrion Lord likely opens the fight with Consuming Shadows, and then keeps
+using its two ranged attacks from beyond the sight of the PCs while its
+melee-oriented bodyguards keep them pinned in place. Ghostly escape is reserved
+for doing what its name says, and letting the nagpa get away after it sees the
+fight is lost.
+
+## Final Impressions
+
+I'm going to say the same thing everyone who has reviewed a Nagpa entry always
+says: they're skeksis. The way in which they're skeksis tends to vary with the
+edition, though. I think the ones from the source material were pursuing
+immortality. These ones achieved it, but found that it brings them no joy.
