@@ -6,9 +6,73 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Apr 2022 14:40:08 +0000</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2022 14:40:08 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 14:41:12 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 14:41:12 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Introduction</title>
+        <description>&lt;p&gt;As I write this, I’ve just finished writing all of the articles of my &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;Let’s
+Read series on the Monster Manual 2&lt;/a&gt;. So now I’m going to start on the
+Monster Manual 3!&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual 3 is obviously the third big monster book for Dungeons &amp;amp;
+Dragons 4th Edition, and it was published in June 2010, about a year after the
+MM2.&lt;/p&gt;
+
+&lt;p&gt;A lot of the stuff I’ve written on the intro to the MM2 linked above also
+applies to the MM3. Monster roles remain the same, as does the gradation that
+goes from Minion to Regular to Elite to Solo. The encounter design system is the
+same as well.&lt;/p&gt;
+
+&lt;p&gt;Some things have changed dramatically, though! While you still have the lore
+tables with skill DCs, the surrounding flavor text has gotten a lot bigger,
+replacing the minimalist sentences of past books with larger paragraphs written
+in a more dramatic tone. The extra space taken up by this text means we no
+longer have sample encounters.&lt;/p&gt;
+
+&lt;p&gt;The stat blocks themselves also changed a lot, with monster abilities separated
+and listed according to the type of action they use (passive traits, standard,
+move, minor, triggered, always in that order).&lt;/p&gt;
+
+&lt;p&gt;Last but not least, the math for basic monster numbers has finally reached its
+final, fully fixed form. Attacks, defenses, HP and average damage all follow the
+basic formula in the legendary &lt;a href=&quot;http://blogofholding.com/?p=512&quot;&gt;Monster Manual 3 in a Business Card&lt;/a&gt;
+post. This updated math was also published as an errata update to the Dungeon
+Master’s Guide, but the Business Card has it in even more condensed
+form. Chronologically, this is the first book where you wouldn’t need to apply
+any blanket fixes to monster damage.&lt;/p&gt;
+
+&lt;p&gt;If you were following my Let’s Read posts while reading the actual books, you’ll
+be familiar with all of these changes from the Monster Vault, which I read in
+parallel with the first MM &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt;. The MV would be published in November
+2010, updating the most “iconic” monsters from the first two books to the new
+format and collecting some from this one as well.&lt;/p&gt;
+
+&lt;p&gt;The Monster Vault would in turn be followed by “Monster Vault: Threats to the
+Nentir Vale”, the final monster book I intend to cover in my readings. But
+that’s still a ways away. For now, we look to the MM3.&lt;/p&gt;
+
+&lt;p&gt;This book has monsters of all levels, but focuses a bit more on the higher
+end. The index in my PDF copy is a little wonky because it lists each individual
+stat block in alphabetic order, but I’ll still read them in the order in which
+the larger entries appear.&lt;/p&gt;
+
+&lt;p&gt;The changes in math also mean that monsters are much less likely to have healing
+powers. Leader monsters from the MM3 are much more likely to provide combat
+buffs than to heal their allies.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 2: Traits Appendix</title>
@@ -1054,141 +1118,6 @@ knight. Sinister vestiges of lost Cendriane.&lt;/p&gt;
         <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Trolls</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-troll.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;In a situation that has been common in this reading, we’re in a halfway place
-when it comes to trolls. The Monster Manual marks their debut in this edition,
-and the Monster Vault gives us a final selection of updated stat blocks. Here in
-the Monster Manual 2, published between those two books, we have a selection of
-trolls that expands the options from the MM, but is not yet updated for the MV’s
-math.&lt;/p&gt;
-
-&lt;h2 id=&quot;ice-troll&quot;&gt;Ice Troll&lt;/h2&gt;
-
-&lt;p&gt;It’s unclear from the text whether ice trolls are a variant troll species or
-just a variant culture. They inhabit the Frostfell, one of the world’s coldest
-regions, but occasionally make their way to slightly warmer climates. Ice trolls
-have a more complex and technically advanced culture than that of “typical”
-trolls. They know how to make weapons, and prefer to use them in combat instead
-of their claws. They also emanate a cold aura.&lt;/p&gt;
-
-&lt;p&gt;If you want to portray your trolls less universally hostile, ice troll
-communities could make good trading partners in cold regions, trading their
-weapons and crafts for other products they need. Ice troll mercenaries might
-also be found among the forces of anyone who sets up shop in the frozen regions
-of your campaign world.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Ice trolls are Large Natural Humanoids and Level 10 Soldiers with 109 HP. Their
-&lt;strong&gt;Emanating Cold&lt;/strong&gt; aura (1) slows any enemies caught inside for a turn. They
-have a ground speed of 8.&lt;/p&gt;
-
-&lt;p&gt;Ice troll regeneration works exactly like that of standard trolls: Regeneration
-10 plus Troll Healing that allows them to keep regaining HP after
-hitting 0. Both are shut down for a turn if the troll takes acid or fire damage.&lt;/p&gt;
-
-&lt;p&gt;This troll wears scale armor and fights with a &lt;strong&gt;maul&lt;/strong&gt;. If their maul attack
-bloodies an enemy, &lt;strong&gt;Frenzied Strike&lt;/strong&gt; allows them to make another free
-attack. This &lt;em&gt;could&lt;/em&gt; lead to a big chain combo if the ice troll manages to hit
-several near-bloodied PCs, but most likely you’ll be looking at one extra attack
-when this triggers.&lt;/p&gt;
-
-&lt;p&gt;Weapon use would make ice trolls a lot more dangerous than standard ones in a
-“realistic” system like GURPS, but here it’s mostly for color since damage is
-entirely level-based. It does allow you to place magic weapons and armor as
-treasure by saying the troll was using them.&lt;/p&gt;
-
-&lt;h2 id=&quot;bladerager-troll&quot;&gt;Bladerager Troll&lt;/h2&gt;
-
-&lt;p&gt;This troll was updated for the Monster Vault, so we already saw its numbers on
-the &lt;a href=&quot;/octopus-carnival/2021/01/09/troll.html&quot;&gt;MM/MV reading&lt;/a&gt;. A new bit of lore in this entry says that some of the
-weapons and armor implanted on a bladerager are magic, which gives GMs an excuse
-to place magic items as treasure in bladerager encounters. This makes them the
-only monster in the game to have literal loot drops.&lt;/p&gt;
-
-&lt;h2 id=&quot;troll-vinespeaker&quot;&gt;Troll Vinespeaker&lt;/h2&gt;
-
-&lt;p&gt;Here’s something you don’t see every day: a troll spellcaster with genius-level
-intellect! You go, vinespeaker! Break those stereotypes! Unfortunately the
-vinespeaker doesn’t break &lt;em&gt;every&lt;/em&gt; troll stereotype, so it’s still Chaotic
-Evil. You’ll have to break that one yourself if your campaign calls for it.&lt;/p&gt;
-
-&lt;p&gt;Vinespeakers use a style of primal nature magic that involves wrapping
-themselves in thorny vines and letting their blood soak the plants to gain
-control over them. This would be lethal for any other practitioner, but for a
-troll it’s no trouble at all. With their magic power and high intelligence,
-vinespeakers tend to become leaders or revered advisors of larger troll
-communities.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;Vinespeakers are Level 14 Controllers with 142 HP. They have Regeneration 10,
-Troll Healing, and the usual vulnerabilities, as well as the usual Speed 8.&lt;/p&gt;
-
-&lt;p&gt;They can use their &lt;strong&gt;claws&lt;/strong&gt; to fight like a typical troll, but their vines give
-them many more options. They have a ranged attack named &lt;strong&gt;Ray of Thorns&lt;/strong&gt; that
-deals physical damage, and an area burst attack named &lt;strong&gt;Thorny Burst&lt;/strong&gt; that
-deals light physical damage and immobilizes (save ends). This also creates a
-zone of thorny difficult terrain that deals damage to those caught inside, and
-lasts until the end of the encounter. If any of these attacks bloodies a target,
-the vinespeaker gets to make a free claw attack. No target is specified, so any
-PC within reach will do fine.&lt;/p&gt;
-
-&lt;p&gt;Note: Thorny Burst is at-will. Vinespeakers can turn the entire battlefield into
-a spiky mess in no time at all. A good tactic for the is to spam this attack
-until there’s no more ground to cover or until the PCs are all immobilized, then
-target the most vulnerable foes with the single-target Ray.&lt;/p&gt;
-
-&lt;p&gt;Finally, they have an encounter ability named &lt;strong&gt;Chant of Power&lt;/strong&gt;, which gives
-allies in within 5 squares 10 temporary HP and a +4 damage bonus while the
-temporary HP lasts. This works wonderfully as either a fight opener or a
-mid-fight boost.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I like these MM2 trolls, they do a good job of subverting the troll stereotype.&lt;/p&gt;
-
-&lt;p&gt;We get three encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 10: 2 ice trolls, 2 worgs, and 1 manticore. Lots of raw melee power in
-this one, with a maneuverable skirmisher thrown in.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 12: 3 bladeragers, 1 duergar blasphemer, 1 duergar hellcaller. Duergar
-diabolists are exactly the sort of person who’d make bladerager trolls.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 15: 4 war trolls, 1 destrachan far voice, 1 vinespeaker. The war trolls
-can more or less ignore the thorns. They’ll be slowed by the difficult
-terrain, but so will everyone else. The destrachan offers some artillery
-support and can stay far away from the thorn zones.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/02/18/troll.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/02/18/troll.html</guid>
         
         <category>dnd4</category>
         
