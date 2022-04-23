@@ -67,9 +67,9 @@ vigilantly and burn to death anyone who gets too close.
 More important temples are usually dedicated to the Elder Elemental Eye and
 protected by two or more Elemental Prince cults, who spend as much time
 sabotaging and upstaging one another as they do actually advancing the Eye's
-cause. The cult's greatest seat of power is the legendary Temple of Elemental
-Evil, protected and operated by all the Elemental Prince cults and any
-mercenaries and servants they manage to recruit.
+cause. The cult's greatest seat of power in the middle world is the legendary
+Temple of Elemental Evil, protected and operated by all the Elemental Prince
+cults and any mercenaries and servants they manage to recruit.
 
 ## The Numbers
 
