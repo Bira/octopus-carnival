@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This is part of a series! Go [here][1] to see the other entries.
+
 If I remember correctly, some monster books from 3e introduced the notion of
 living spells, creatures made from pure magic and patterned after one of the
 commonly available spells in the game. I guess Apocalypse Spells take some
@@ -250,3 +252,5 @@ magical disasters feel like they're about the right scale for it.
 Mechanically, I find them fairly interesting. They're not mind-blowing but they
 display the consistently higher level of quality that would become standard from
 this point on.
+
+[1]: {{ "/projects/mm3-4e/" | relative_url }}

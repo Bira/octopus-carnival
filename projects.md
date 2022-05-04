@@ -37,6 +37,8 @@ In which I read a book or series of books and commentate on their content.
 - [Let's Read the 4e Monster Manual 2][7]: After finishing the first MM/MV
   reading, I move on to the MM2.
 
+- [Let's Read the 4e Monster Manual 3][7]: And then I move to the MM3.
+
 ## Ready-to-Play Characters
 
 - [Pathfinder Iconics in Dungeon Fantasy][2]: A group of Pathfinder's Iconics
@@ -55,3 +57,4 @@ posts in order. Enjoy!
 [5]: {{ "/projects/mm-4e/" | relative_url }}
 [6]: {{ "/projects/df-characters/" | relative_url }}
 [7]: {{ "/projects/mm2-4e/" | relative_url }}
+[8]: {{ "/projects/mm3-4e/" | relative_url }}
