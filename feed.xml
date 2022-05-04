@@ -6,9 +6,391 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 May 2022 16:12:58 +0000</pubDate>
-    <lastBuildDate>Wed, 04 May 2022 16:12:58 +0000</lastBuildDate>
+    <pubDate>Wed, 04 May 2022 16:26:17 +0000</pubDate>
+    <lastBuildDate>Wed, 04 May 2022 16:26:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Apocalypse Spell</title>
+        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;If I remember correctly, some monster books from 3e introduced the notion of
+living spells, creatures made from pure magic and patterned after one of the
+commonly available spells in the game. I guess Apocalypse Spells take some
+inspiration from those, but the end result is very different. The classificaion
+of Apocalypse Spell is only applied to those living spells that arise from the
+most metal of magics.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Every once in a great while, someone manages to cast a truly epic spell. We’re
+talking the sort of thing that can slay a god, bind a primordial, instantly
+destroy an empire, create an astral dominion from nothing, and so on. These
+spells are so powerful the residual energy left in their wake can attain
+sentience and become a construct of pure magic whose powers and personality are
+modeled after the effects of their progenitor spell.&lt;/p&gt;
+
+&lt;p&gt;Despite their godlike power, apocalypse spells are simple creatures at
+heart. The kind of magic that gives birth to them is usually destructive and
+indiscriminate, and so are they at their cration. The passage of years allows
+them to develop distinct personalities and goals. Thus they can end up allying
+with other creatures who share those goals, or who manage to persuade them to
+help.&lt;/p&gt;
+
+&lt;p&gt;If all else fails, there are certain rituals that allow a powerful enough caster
+to assume full control of an apocalypse spell. They’re most commonly cast by the
+Forsaken, a society of epic villains who get an entry further into this
+book. Angels, devils and demons also frequently try to influence these living
+spells.&lt;/p&gt;
+
+&lt;p&gt;The book doesn’t say it, but I would guess the population of each type of
+apocalypse spell is fixed. The spells that generated them were unique, and were
+only cast once. Killing one of them permanently reduces that population.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm34e-apocalypse-spell-01.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;All Apocalypse Spells are Animates with the Construct keyword, but that’s where
+their similarity ends. Each stat block described here represents the progeny of
+a different epic spell.&lt;/p&gt;
+
+&lt;p&gt;They do have a common signature trait, however: &lt;strong&gt;Unfettered Apocalypse&lt;/strong&gt; is a
+reaction that triggers when they are first bloodied or when they take a critical
+hit, once per encounter. It creates a perfect duplicate of the spell that lasts
+for a turn. During this turn, it has the same HP and abilities as the original,
+and can act right after the original’s action. The duplicate can’t create
+another duplicate itself, however, so no infinitely spawning epic monsters for
+you.&lt;/p&gt;
+
+&lt;h3 id=&quot;prison-of-mual-tar&quot;&gt;Prison of Mual-Tar&lt;/h3&gt;
+
+&lt;p&gt;The primordial Mual-Tar was defeated by the gods in the Dawn War, but couldn’t
+be killed. So it was bound in chains forged by Moradin himself and enchanted
+with a unique binding ritual. As Mual-Tar strained against these chains, shards
+of them broke off and fell into the Astral Sea, where they gained life. Prisons
+of Mual-Tar are born with opposing impulses to imprison and destroy, and their
+individual goals are related to one of these.&lt;/p&gt;
+
+&lt;p&gt;These apocalypse spells are Large Immortal Animates with the Construct
+keyword, and Level 26 Soldiers with 242 HP. They have a ground speed of 6 and
+Resist Force 15. Very few creatures have resistance to force damage!&lt;/p&gt;
+
+&lt;p&gt;The Prison is surrounded by an aura (5) of &lt;strong&gt;Cloying Chains&lt;/strong&gt;, who marks all
+enemies caught inside. As an &lt;strong&gt;Agent of Divine Will&lt;/strong&gt;, it ignores
+insubstantiality, concealment and partial cover (but not full cover or
+concealment).&lt;/p&gt;
+
+&lt;p&gt;It attacks with a Reach 4 &lt;strong&gt;Fettering Lash&lt;/strong&gt;, which deals physical damage. If
+the target tries to make an attack that doesn’t target the Prison in its next
+action, the Prison pulls it up to 10 squares to a square adjacent to itself. It
+can make this attack twice per action against different targets, thanks to
+&lt;strong&gt;Double Attack&lt;/strong&gt;. When the Prison is subject to forced movement, it can use
+&lt;strong&gt;Reactive Coils&lt;/strong&gt; to pull the triggering enemy adjacent to itself.&lt;/p&gt;
+
+&lt;p&gt;The Prison’s divine origin makes it a bit reluctant to attack divine characters,
+and it might be convinced to lend its aid against elementals and demons. Their
+Double Attack ability makes them heavy hitters, and all the long-range pulling
+they can do makes them excellent at isolating PCs from each other.&lt;/p&gt;
+
+&lt;h3 id=&quot;herald-of-colorless-fire&quot;&gt;Herald of Colorless Fire&lt;/h3&gt;
+
+&lt;p&gt;In the ancient history of the Greyhawk setting, there were two great empires who
+were at war with each other, and who ended up using apocalyptic spells to erase
+each other from the world. The Rain of Colorless Fire was the more spectacular
+of the two, so it’s the one that gets mentioned most often in other
+publications. It turned the entire territory of the empire of Suel into a desert
+of ash and dust that was still a big feature of Oerth’s geography in its
+narrative present.&lt;/p&gt;
+
+&lt;p&gt;Heralds of Colorless Fire arose from the ashes of that desert and began
+wandering the planes. They are made from that same fire, and their innate
+motivation is simple: burn everything. They are, however, smart enough to toy
+with their victims and to lure powerful targets into favorable terrain.&lt;/p&gt;
+
+&lt;p&gt;Heralds are Medium Natural Animates (construct, fire) and Level 27 Skirmishers
+with 244 HP. They have a Speed of 8 (fly 6), and 15 fire resistance.&lt;/p&gt;
+
+&lt;p&gt;All of their attacks deal damage of the “fire and force” combined type, meaning
+you need resistance to both types to stop it. Fire or Force Resistance alone
+do nothing. This is a pretty good way of modeling supernatural fire that burns
+anything.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Caress of Flame&lt;/strong&gt;, and they can also use a &lt;strong&gt;Storm of
+Colorless Fire&lt;/strong&gt; (recharge 5+) that allows them attack a Close Burst 1, shift
+half their speed, and repeat the attack. Each of these bursts does more damage
+than the basic melee attack.&lt;/p&gt;
+
+&lt;p&gt;The Herald can use &lt;strong&gt;Flickering Flame&lt;/strong&gt; to shift 4 squares as a minor action,
+but this ability gets shut down for a turn if it takes cold damage. I do notice
+it doesn’t have the usual 1/round limitation of minor-action movement abilities.&lt;/p&gt;
+
+&lt;p&gt;In combat, these are zippy fraggers, well-equipped for constant hit and run
+tactics. They should never stay still, and should never use a move action while
+Flickering Flame is active.&lt;/p&gt;
+
+&lt;h3 id=&quot;shard-of-uralinda&quot;&gt;Shard of Uralinda&lt;/h3&gt;
+
+&lt;p&gt;Once upon a time, there was a Winter Fey named Rodielle who was a member of the
+Winter Court. Rodielle tried to woo a member of the Summer Court and was
+spurned. He became so angry at this that, instead of resorting to the usual fey
+courtly intrigue, he did something truly terrible instead.&lt;/p&gt;
+
+&lt;p&gt;Rodielle devised a spell of ice and death, and cast it upon the eladrin city of
+Uralinda, the place which his former beloved liked the most in all the
+worlds. Ice shards rained upon the city and ripped it apart, killing
+thousands. That part was on purpose. Then the shards were animated by the souls
+of the slain and began wandering all the worlds. That part was an
+accident. Whoops!&lt;/p&gt;
+
+&lt;p&gt;The tormented souls inside the shards seek the release of final death, but they
+only have limited control over their icy cages. So they throw themselves at
+anyone who seems like they can put up a fight, hoping to be slain and
+released. Sometimes they also get controlled by spellcasters to do their
+bidding, which I imagine must be even less pleasant than their baseline state.&lt;/p&gt;
+
+&lt;p&gt;Shards of Uralinda are Medium Fey Animates (construct, cold), and Level 28
+Minion Soldiers. Their basic attacks deal damage of the “cold and psychic”
+combined type, and despite being minions they also have the Unfettered
+Apocalypse ability. In practice, this means they last for an additional turn
+after you kill them.&lt;/p&gt;
+
+&lt;h3 id=&quot;godslayer-inferno&quot;&gt;Godslayer Inferno&lt;/h3&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-apocalypse-spell-02.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These are the product of one of the many spells wielded by the primordials
+themselves during the Dawn War. It created a torrent of white and violet flames
+that prevented deities from discorporating and suppressed their immortal
+natures. As an unintended side effect, the flames also ended up absorbing some
+of the divine essence they burned away and became imbued with the spark of
+life. They remain steadfast in their original purpose of murdering the gods and
+their servants.&lt;/p&gt;
+
+&lt;p&gt;From the description, it seems that this was one of the few “apocalyptic” spells
+that was used repeatedly as a weapon of war, so I’d guess there’s a higher
+population of Godslayer Infernos than of the other monsters in this entry. Yay?&lt;/p&gt;
+
+&lt;p&gt;Godslayer Infernos are Medium Elemental Animates (construct, fire), and Level 28
+Artillery with 194 HP. They have Resist Fire 15 and a ground speed of 6.&lt;/p&gt;
+
+&lt;p&gt;Both their &lt;strong&gt;Fiery Claws&lt;/strong&gt; and the &lt;strong&gt;Fire Bolts&lt;/strong&gt; they shoot inflict a large
+chunk of ongoing fire damage (20 aned 25, respectively) without dealing any
+immediate damage. They can also use a special attack named &lt;strong&gt;Godsbane Inferno&lt;/strong&gt;
+(area burst 2, range 10) which does deal immediate damage as well as inflicting
+more ongoing fire damage. This ongoing damage is more presistent - it’s reduced
+from 15 to 10 with the first save, and only disappears after the second.&lt;/p&gt;
+
+&lt;p&gt;The inferno’s main source of immediate damage is &lt;strong&gt;Cloying Flames&lt;/strong&gt;, which
+causes all targets taking ongoing fire damage within 10 squares to immediately
+take an amount of fire damage equal to that of ongoing damage.&lt;/p&gt;
+
+&lt;p&gt;Despite being artillery, the inferno also has good cause to stick close to the
+PCs. Its Elemental Inferno aura (2) strips all enemies inside of any fire
+resistance they might have and prevents them from rolling saves against ongoing
+fire damage!&lt;/p&gt;
+
+&lt;p&gt;I don’t think ongoing fire damage stacks, so it’s unlikely the inferno itself
+can inflict more than the 25 its fire bolts cause. But Cloying Flames makes them
+pair &lt;em&gt;extremely&lt;/em&gt; well with other epic fire monsters. If nothing else fits, you
+could add multiple infernos in an encounter, but their danger level grows very
+fast in proportion to their numbers.&lt;/p&gt;
+
+&lt;h3 id=&quot;light-of-amoth&quot;&gt;Light of Amoth&lt;/h3&gt;
+
+&lt;p&gt;We already heard of the dead god Amoth during Demogorgon’s entry. He was
+responsible for splitting Demogorgon’s original head in two, just before being
+himself slain by the demon. Here we learn that there’s more to this story.&lt;/p&gt;
+
+&lt;p&gt;No less than three demon princes stormed Amoth’s domain to kill him: Orcus,
+Demogorgon, and Rimmon. They all fought Amoth at the same time, and while
+Demogorgon did strike the final blow in the fight, it didn’t kill Amoth
+immediately either. The god had time to unleash a death curse, one so powerful
+it consumed his remaining life force in order to take the three demon lords
+along with him in a universe-shaking explosion.&lt;/p&gt;
+
+&lt;p&gt;The three tried to get clear of the blast, but didn’t manage in time. Orcus and
+Demogorgon were a little quicker on the uptake than Rimmon, so they betrayed
+Rimmon first and used him as a shield to protect themselves from Amoth’s
+curse. Rimmon was disintegrated, which is why we never heard of him before.&lt;/p&gt;
+
+&lt;p&gt;As you might imagine, that curse generated living spells of its own. These
+crystalline giants also incorporate fragments of essence from both Amoth and
+Rimmon, so they’re compelled to hunt down demonic and divine creatures in equal
+measure.&lt;/p&gt;
+
+&lt;p&gt;Lights of Ammoth are Large Immortal Animates (construct), and Level 30 Brutes
+with 341 HP. They’re almost gods themselves! They have a ground speed of 6, but
+no special resistances.&lt;/p&gt;
+
+&lt;p&gt;They fight with their Reach 2 &lt;strong&gt;Fists of Wrath&lt;/strong&gt;, which do a lot of
+damage. &lt;strong&gt;Fury of the Dead&lt;/strong&gt; (recharge 6+) allows them to attack every creature
+in range with their fists. They can also use an ability called &lt;strong&gt;Legacy of
+Kalandurren&lt;/strong&gt; that targets everyone in a Close Burst 2 for cold damage equal to
+that of a punch, and immobilizes them. Kalandurren was Amoth’s domain.&lt;/p&gt;
+
+&lt;p&gt;When a Light of Amoth takes damage, it releases a &lt;strong&gt;Wave of Retribution&lt;/strong&gt; that
+does an automatic 5 damage to everyone within 2 squares of it.&lt;/p&gt;
+
+&lt;p&gt;All of this means you &lt;em&gt;want&lt;/em&gt; to let them get surrounded by the PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think these monsters are really cool! I don’t know if any more apocalypse
+spells were ever published, but I really like the basic idea behind them. I
+wonder if there is one for Karsus’ Avatar (FR) or the Mourning (Eberron). These
+magical disasters feel like they’re about the right scale for it.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, I find them fairly interesting. They’re not mind-blowing but they
+display the consistently higher level of quality that would become standard from
+this point on.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/04/apocalypse-spell.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/04/apocalypse-spell.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Apes</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-ape.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Great apes are real world animals, and they’ve also been in D&amp;amp;D pretty much
+since the beginning. This MM3 entry is the first I’ve seen them in 4e, though by
+this point in the edition we might have gotten stats for them in some other
+non-Monster Manual publication.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The MM3 doesn’t really try to model real-world great apes. Their depiction seems
+more inspired by pulp stories and the Jungle Book.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D great apes are natural animals, and have inhabited the world’s jungles since
+the dawn of time. Some revere them as manifestations of the primal spirits,
+others enslave them as laborers and gladiators. Goblins kidnap young apes and
+raise them as guardians. Other humanoids might use them as slave labor, and some
+spellcasters enslave them with magic to use as bodyguards or gladiators.&lt;/p&gt;
+
+&lt;p&gt;In the wild, great apes are very territorial and fiercely defend their homes
+from intruders using surprisingly sophisticated teamwork. Groups of apes are
+usually led by a “silverback”, a larger and older male who fights even more
+fiercely than the others to protect his family.&lt;/p&gt;
+
+&lt;p&gt;PCs might meet a group of apes when traveling through jungle terrain,
+particularly mountainous jungle. Communication is likely to be difficult unless
+they have a druid or another primal character with them. If they do, it might be
+possible to convince the apes to stand down. If they don’t it’s a fight, though
+I guess the apes in this case will be trying to drive the PCs off rather than
+kill them. Apes being used as attack beasts by sapient villains will usually
+fight to kill, though.&lt;/p&gt;
+
+&lt;p&gt;You also have the slightly less natural Ape Temple Guardians, who a long time
+ago used to be sapient humanoids but were twisted into their current form by
+some ancient curse. Now they make their homes in certain ruined temples,
+compelled to guard their treasures. Unlike natural apes, temple guardians are
+carnivorous. They fight to kill and will usually eat dead intruders, leaving
+their bones lying around as warnings.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All the apes depicted here are Medium Natural Beasts. They have low-light
+vision, and a climb speed (whose value varies per stat block). Their signature
+trait is &lt;strong&gt;Swift Climber&lt;/strong&gt;, which makes them immune to opportunity attacks when
+climbing. Needless to say, be sure to include plenty of climbing opportunities
+in combat encounters against apes.&lt;/p&gt;
+
+&lt;h3 id=&quot;great-ape&quot;&gt;Great Ape&lt;/h3&gt;
+
+&lt;p&gt;This “basic model” is a Level 4 Skirmisher with 55 HP. It has a ground speed of
+7 and a climb speed of 6. They don’t have Spider Climb, but I’d be amenable to
+letting them use their climb speed to brachiate through the forest canopy.&lt;/p&gt;
+
+&lt;p&gt;Great apes fight with &lt;strong&gt;Slams&lt;/strong&gt; and they can also attack &lt;strong&gt;On The Run&lt;/strong&gt;, which
+allows them to shift or climb half their speed and make a slam attack at any
+point during the movement.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Felling Blow&lt;/strong&gt; (recharge 6+), which allows them to make
+two slam attacks against the same target. If both hit, the target also falls
+prone.&lt;/p&gt;
+
+&lt;p&gt;Great apes should rarely stand still when fighting - it’s On The Run all the way
+with them. The exception is when they stop a bit to use Felling Blow.&lt;/p&gt;
+
+&lt;h3 id=&quot;silverback-ape&quot;&gt;Silverback Ape&lt;/h3&gt;
+
+&lt;p&gt;Silverbacks don’t run around. Their goal is to be a very visible and very
+intimidating threat, drawing all the attention and allowing their non-combatant
+family members to escape, and give their fellow combatants room to
+maneuver. They’re larger than regular ape but still Medium, and are Level 5
+Brutes with the Leader keyword. Their speed is 6 on the ground or 4 while
+climbing.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Slams&lt;/strong&gt; do heavy damage and make the target grant combat advantage for a
+turn. They can sometimes &lt;strong&gt;Fling&lt;/strong&gt; (recharge 6+) a creature away, dealing even
+more damage than the slam, pushing them 3 squares, and knocking them prone.&lt;/p&gt;
+
+&lt;p&gt;Finally, once per encounter silverbacks can use &lt;strong&gt;Chest Beat&lt;/strong&gt; as a minor
+action, which gives all beast allies within 5 squares a +2 bonus to attacks for
+a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;ape-temple-guardian&quot;&gt;Ape Temple Guardian&lt;/h3&gt;
+
+&lt;p&gt;Temple Guardians are Level 6 Soldiers with 75 HP, a ground speed of 7, and a
+Climb Speed of 5.&lt;/p&gt;
+
+&lt;p&gt;They fight with &lt;strong&gt;Clubs&lt;/strong&gt;, which deals average damage and knocks the target
+prone on a hit. &lt;strong&gt;Swaying Strike&lt;/strong&gt; allows them to make a club attack and shift 3
+squares. And then can also &lt;strong&gt;Feast&lt;/strong&gt; on a prone target, dealing light damage but
+gaining 10 temporary HP.&lt;/p&gt;
+
+&lt;p&gt;Not only do these apes use weapons, they also coordinate really well. They’ll
+try to surround the PCs and avoid becoming isolated from each other. If a PC
+gets too close to whatever they are protecting, they’ll focus fire on that PC.&lt;/p&gt;
+
+&lt;p&gt;You can combine them with regular great ape stat blocks for a bit more
+variety. Story-wise they’d all be temple guardians. They might also be under
+control of a naga or another eternal guardian who was responsible for cursing
+them in the first place.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Normal great apes have too much of a “pulp gorilla” vibe for me to enjoy them as
+monsters. I kinda like the lore of temple guardians, though.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/04/ape.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/04/ape.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Introduction</title>
@@ -787,337 +1169,6 @@ powries, 2 thorns). Evil fairies all around.&lt;/p&gt;
         <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/03/08/will-o-wisp.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/will-o-wisp.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Warforged</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-warforged.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Warforged were originally introduced with the Eberron setting in 3e, as a
-playable option. They made their 4e debut in the &lt;a href=&quot;/octopus-carnival/2021/02/07/warforged.html&quot;&gt;first Monster Manual&lt;/a&gt;,
-which a couple of “monster” stat blocks for warforged and some abbreviated rules
-for using them as PCs.&lt;/p&gt;
-
-&lt;p&gt;Full support for playable warforged in 4e would arrive with the Eberron Player’s
-Guide, published in June 2009. However, just before that happened we’d get a few
-more NPC stat blocks here in the MM2, which was published in May 2009.&lt;/p&gt;
-
-&lt;p&gt;The basic lore for warforged remains the same as in &lt;a href=&quot;/octopus-carnival/2021/02/07/warforged.html&quot;&gt;the Monster Manual&lt;/a&gt;. The
-Eberron-specific info would only appear on the Eberron Player’s Guide, but I
-guess the two books were developed in parallel because the extra stat blocks we
-get here seem like a particularly good fit for that setting.&lt;/p&gt;
-
-&lt;p&gt;Their signature traits remain the same: the Living Construct keyword, a +2 to
-saves against ongoing damage and the &lt;strong&gt;Warforged Resolve&lt;/strong&gt; encounter power (see
-the link above to read about what this does).&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-resounder&quot;&gt;Warforged Resounder&lt;/h2&gt;
-
-&lt;p&gt;These are warforged spellcasters whose power derives from a retained echo of the
-ringing sound of their creation forges. Their spells tend to have themes of
-sound and impact, dealing a mix of thunder and force damage. They wear robes and
-wield staffs, so I guess they’re meant to come across as “arcane”, but you could
-easily use their lore for a more priestly type since it’s so close to that of
-the Anvilpriest (below).&lt;/p&gt;
-
-&lt;p&gt;Resounders are Level 6 Artillery with 57 HP and the common traits described
-above. Their &lt;strong&gt;quarterstaves&lt;/strong&gt; are weak melee attacks, so they prefer to stay
-away and cast &lt;strong&gt;thunder orbs&lt;/strong&gt; (ranged 10 vs. Fortitude) that do good thunder
-damage and push 2 squares.&lt;/p&gt;
-
-&lt;p&gt;They also have a couple of encounter spells: &lt;strong&gt;Resounding Sphere&lt;/strong&gt; is an area
-version of Thunder Orb that knocks prone instead of pushing, making it a good
-fight opener; and &lt;strong&gt;Rumble Staff&lt;/strong&gt; is a “keep-away” melee power that does
-thunder damage, pushes 1 square, and knocks prone.&lt;/p&gt;
-
-&lt;p&gt;Their final encounter spell is the amusing &lt;strong&gt;Collision Bolt&lt;/strong&gt;, a ranged attack
-that targets two enemies and slams them together. It works by dealing force
-damage to both targets, and sliding the second one 3 squares towards the
-first. If the slide ends with both targets adjacent to each other, they’re both
-knocked prone.&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-savage&quot;&gt;Warforged Savage&lt;/h2&gt;
-
-&lt;p&gt;With an unfortunate name and a somewhat unfortunate illustration, this is a
-warforged who feels emotions more intensely than most of its kin, and channels
-all of that extra intensity into anger. It was likely produced in a forge
-belonging to the Lord of Blades, since the Cannith smiths tend to go for
-cool-headed discipline instead. It’s a Level 7 Brute with 98 HP.&lt;/p&gt;
-
-&lt;p&gt;This warforged has the &lt;strong&gt;Battlefield Tactics&lt;/strong&gt; trait that was common in the MM1
-entries, gaining a +1 to melee attacks when an ally is adjacent to their
-target. It also gains 4 temporary HP whenever it hits with an attack.&lt;/p&gt;
-
-&lt;p&gt;The warforged savage uses a &lt;strong&gt;scimitar&lt;/strong&gt; to fight. This is a High-Crit weapon,
-and when it hits it deals a bit of automatic damage to another enemy adjacent to
-its target. It can use the weapon to attack in a Close Burst 1 (recharge 5+),
-and to perform a &lt;strong&gt;Wild Charge&lt;/strong&gt; that deals heavy damage, and gives it a +3 AC
-bonus during the movement part of the charge. This recharges whenever the
-warforged hits two or more enemies with the burst attack. All of these maneuvers
-benefit from the scimitar’s High-Crit property.&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-anvilpriest&quot;&gt;Warforged Anvilpriest&lt;/h2&gt;
-
-&lt;p&gt;Like the resounder, this spellcaster retains a bit of the power of its creation
-forge and uses that as a source of magic. The main difference is that the
-anvilpriest focuses on the searing heat of forge-fire. Despite the name, many
-anvilpriests aren’t all that religious. Some are real clerics, though, and a
-small number of them actually worship the creation forges themselves. I guess
-the latter are mostly found amid the Lord of Blades’ forces.&lt;/p&gt;
-
-&lt;p&gt;Anvilpriests are Level 8 Controllers with the Leader keyword and 89 HP. They
-wield a &lt;strong&gt;fiery warhammer&lt;/strong&gt; that does bonus fire damage and inflicts a -2 AC
-penalty for a turn. They can use that to perform a &lt;strong&gt;Heat of Battle&lt;/strong&gt; maneuver
-(recharge 4+), which is like a basic attack but replaces the AC penalty with
-ongoing fire damage.&lt;/p&gt;
-
-&lt;p&gt;In addition to this they have two encounter spells.&lt;/p&gt;
-
-&lt;p&gt;The first is &lt;strong&gt;Blunted Mind&lt;/strong&gt;, an area burst that targets Will and inflicts
-psychic damage. It also inflicts a -2 penalty to attacks and a -4 penalty to
-damage on a hit - the first save improves this to a -2 damage penalty, and only
-the second removes it entirely. This only targets enemies, so it’s safe to cast
-into a messy melee.&lt;/p&gt;
-
-&lt;p&gt;The other is &lt;strong&gt;Mending Flash Fire&lt;/strong&gt;, a close burst that deals fire damage to all
-enemies inside (vs. Reflex) and gives both the caster and any allies in the
-burst 5 temporary HP. If those allies are Warforged, they can also use their
-Warforged Resolve power as an immediate reaction to this power.&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-titan&quot;&gt;Warforged Titan&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-warforged-titan.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Titans were some of the earliest models of warforged developed by Cannith
-engineers. They’re as big and as powerful as their name implies, but they’re
-also only barely sapient. In a battle, they fulfill the same role as tanks or
-siege engines, but they need to be accompanied by smarter infantry or at least
-by a minder who can direct them. They’re loyal to whoever holds or displays a
-symbol of the titan’s creator, regardless of whom it may be or how long it’s
-been since their creation.&lt;/p&gt;
-
-&lt;p&gt;Warforged Titans are Huge Natural Humanoids with the Living Construct
-Keyword. They’re also Level 19 Elite Soldiers with 362 HP, which makes them
-plausible counters to Slaughterstone Constructs and other near-epic giant
-monsters.&lt;/p&gt;
-
-&lt;p&gt;These towering creatures fight with their built-in weapons. Their basic attack
-is a Reach 3 &lt;strong&gt;Axe&lt;/strong&gt; with the same “splash damage” effect as the Savage’
-scimitar above, and that also marks on a hit. As a minor action they can also
-use a Reach 3 &lt;strong&gt;Hammer&lt;/strong&gt; that does more or less the same damage, slides the
-target 2 squares, and knocks it prone. It does a bit of damage even on a miss,
-likely from the shockwave. Both of these weapons enjoy the benefits of
-&lt;strong&gt;Threatening Reach&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, the titan’s &lt;strong&gt;Unstoppable Charger&lt;/strong&gt; trait makes it so a charge attack
-&lt;em&gt;doesn’t&lt;/em&gt; end its turn. It can perform any actions it still has after charging,
-such as using a Move to shift or reposition, or a Minor action to perform a
-hammer follow-up.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Warforged are people. You can find them fighting for any cause people tend to
-fight for. Good, evil, or just plain selfish. They’re relatively recent
-creations in Eberron, but other settings might have then as ancient
-survivors/relics of a fallen empire. Titans work well as McGuffins in that role,
-since they’ll obey anyone who displays the mark of their creator.&lt;/p&gt;
-
-&lt;p&gt;We have two sample encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 7: A resounder, an anvilpriest, and 3 savages. Lord of Blades patrol?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 19: A cambion hellfire magus, a steel predator, and a warforged
-titan. Someone found themselves a few control amulets.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/08/warforged.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/warforged.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Moster Manual 2: Vine, Predatory</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-vine-predatory.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;That’s the actual title of the entry, so we have another case of Old School
-Titling here. Dangerous plants have been a part of the game since its
-beginnings, and I bet a lot of the individual monsters collected in this entry
-appeared before in some form or another.&lt;/p&gt;
-
-&lt;p&gt;Lore-wise, there isn’t much on these other than “they exist”. They don’t have
-strange magical origins like some of the other plant creatures we saw before,
-they’re just ambulatory carnivorous plants with enough strength and mobility to
-hunt people. D&amp;amp;D worlds are already filled with impossibly lethal predators, so
-it’s not such a stretch to say some of those are plants.&lt;/p&gt;
-
-&lt;p&gt;All of the monsters in this entry are Beasts, which in rules terms means they
-behave like “animals” rather than like people. They also have the Plant keyword
-(obviously). Their Int score is 2, so their behaviors are all
-instinctive. Everything else varies per stat block.&lt;/p&gt;
-
-&lt;h2 id=&quot;ambush-vine&quot;&gt;Ambush Vine&lt;/h2&gt;
-
-&lt;p&gt;The apex predator of the plant kingdom, ambush vines can hunt anywhere: on the
-surface, underground, and even in water. Wherever they are, they’re always
-hunting, and using the tasty nutrients of their victims to fuel their explosive
-growth rate. Ambush vines can form blights so vast they threaten civilization,
-and its rumored that this contributed to the fall of the old eladrin empire of
-Cendriane.&lt;/p&gt;
-
-&lt;p&gt;As their name implies, ambush vines are a lot more cunning than your average
-plant. They can burrow just under the surface or blend into the surrounding
-normal vegetation to wait for victims, and then launch surprise attacks against
-them.&lt;/p&gt;
-
-&lt;p&gt;Ambush Vines are Large Fey plants, and Level 16 Elite Controllers with 308
-HP. They have tremorsense 20, and nothing in their stat block says they’re blind
-so I guess they can see as well even without eyes. Their speed is 6 in almost
-any mode of movement other than flight. They can move over the ground with
-Forest Walk, climb, burrow and swim.&lt;/p&gt;
-
-&lt;p&gt;A vine’s most basic attack is a Reach 2 &lt;strong&gt;Poison Lash&lt;/strong&gt; that targets Reflex,
-deals physical damage, and inflicts ongoing poison damage. It can also attack
-with &lt;strong&gt;Lashing Vines&lt;/strong&gt; in a Close Burst 4 pattern, which does more damage than
-the basic attack. It’s also super-effective against immobilized targets, dealing
-extra damage and healing the vine for 5 HP. As a minor action, the vine can use
-a Reach 4 &lt;strong&gt;Foot Snare&lt;/strong&gt; to deal the same damage as the basic attack and knock a
-target prone.&lt;/p&gt;
-
-&lt;p&gt;Though ambush vines deal extra damage to immobilized foes, they can’t do the
-immobilizing themselves, so they must be paired with other monsters capable of
-it. Fortunately, they can make their own!&lt;/p&gt;
-
-&lt;p&gt;When the vine is first bloodied, it undergoes &lt;strong&gt;Rapid Growth&lt;/strong&gt; as an emergency
-response, producing two Ambush Vine Shoot minions (see below). It can also make
-a minion voluntarily using &lt;strong&gt;Sprout Vine&lt;/strong&gt;, a minor action which costs 10 of its
-own HP and produces a single minion.&lt;/p&gt;
-
-&lt;h2 id=&quot;ambush-vine-shoot&quot;&gt;Ambush Vine Shoot&lt;/h2&gt;
-
-&lt;p&gt;This is the juvenile form of the ambush vine. It’s a Medium Fey plant, and a
-Level 15 Minion Controller. Their senses are the same as those of an adult
-specimen, though their only special movement mode is burrowing.&lt;/p&gt;
-
-&lt;p&gt;These minions have a single attack, &lt;strong&gt;Wrapping Vines&lt;/strong&gt;, which deals minion-tier
-damage and restrains (save ends). “Restrained” is one step worse than
-“immobilized”: it roots the victim in place and inflicts a -2 penalty to
-attacks. A restrained target also counts as immobilized, so the shoot’s “parent”
-vine can deal extra damage against them.&lt;/p&gt;
-
-&lt;p&gt;The shoot also has a passive trait named &lt;strong&gt;Enwrap&lt;/strong&gt;, which affects adjacent
-enemies and inflicts a -2 penalty to their saves against being immobilized or
-restrained.&lt;/p&gt;
-
-&lt;h2 id=&quot;bloodthorn-vine&quot;&gt;Bloodthorn Vine&lt;/h2&gt;
-
-&lt;p&gt;This is a vine with pale leaves and one single large thorn. It feeds by impaling
-victims on that thorn, which is hollow and capable of draining blood. As it does
-so, the vine’s leaves take on a reddish coloration.&lt;/p&gt;
-
-&lt;p&gt;Bloodthorn vines are Medium Natural plants, and Level 2 Soldiers with 41 HP. By
-the logic I’ve been using, them being low-level means they might occur near the
-archetypical Starting Village. This means they’re one more threat common
-civilians must be wary of in their daily lives, along with stirges, anhkegs, and
-giant ants. Bloodthorns are much less lively than Ambush Vines, having only a
-ground speed of 5 with Forest Walk and no special movement modes. They have
-Blindsight 10 but again are not blind themselves.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Striking Vine&lt;/strong&gt; with no riders on its physical
-damage. The real danger here is the &lt;strong&gt;Impaling Thorn&lt;/strong&gt;, which does the same
-damage and grabs the target. The vine can sustain the grab with a standard
-action to deal heavy automatic damage to the victim and heal 5 HP. It can use
-&lt;strong&gt;Pulling Vines&lt;/strong&gt; as a minor action to shift 1 square and pull a grabbed victim
-along with it.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, the bloodthorn vine can only impale a single victim at a
-time… but you &lt;em&gt;can&lt;/em&gt; have multiple bloodtorn vines on the same encounter group.&lt;/p&gt;
-
-&lt;h2 id=&quot;greenvise-vine&quot;&gt;Greenvise Vine&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-vine-greenvise.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;So named because “Piranha Plant” is already taken. This is a Large Natural
-plant, and a Level 7 Soldier with 83 HP. Its speed is only 4, so it relies on
-grabbing targets to prevent them from running away.&lt;/p&gt;
-
-&lt;p&gt;The greenvise’s basic attack is a &lt;strong&gt;Striking Vine&lt;/strong&gt;, and they can also use an
-&lt;strong&gt;Ensnaring Vine&lt;/strong&gt; vs. Reflex to do the same damage and grab the target. That’s
-when the big chomper comes into play: &lt;strong&gt;Vise Bite&lt;/strong&gt; targets a grabbed victim’s
-Fortitude, deals a bit of initial damage, restrains, and inflicts ongoing
-physical damage. A save ends both the restrained condition and the ongoing
-damage &lt;em&gt;but does not end the grab&lt;/em&gt;. You have to escape from that using the
-default rules.&lt;/p&gt;
-
-&lt;p&gt;The Greenvise also has the same Pulling Vines trait as the Bloodthorn.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I actually have an easier time distinguishing between killer plants when I see
-them all together than when I see them in separate entries over multiple books.&lt;/p&gt;
-
-&lt;p&gt;We have three encounters here:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 2: 3 bloodthorn vines and 3 stirges. Probably competing to see who can
-drain the party dry first.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 9: 2 greenvise vines, 1 spectral panther, 3 quickling runners. The
-quicklings and the panther can be used to herd the party towards the
-slow-moving plants.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 17: 1 ambush vine, 1 lingerer fell incanter, 1 lingerer fell
-knight. Sinister vestiges of lost Cendriane.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/vine-predatory.html</guid>
         
         <category>dnd4</category>
         
