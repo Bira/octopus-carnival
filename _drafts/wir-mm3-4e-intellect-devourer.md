@@ -41,7 +41,7 @@ under an effect a save can end, they can roll a save immediately.
 ### Ustilagor
 
 Ustilagors are Small devourer larvae. They're individually weaker than an adult,
-but they hunt in packs and are small enough to coordinate. And as Level 7
+but they hunt in packs and are smart enough to coordinate. And as Level 7
 Lurkers with 59 HP, they're still pretty deadly. They have a ground speed of 6.
 
 Ustilagors will first try to secure combat advantage against their chosen
@@ -80,8 +80,8 @@ considered dazed, so they can only take a single action on their turn. However,
 the predator can grant them an extra move or minor action with the **Puppet
 Master** ability, which costs the monster only a minor action. So for all
 intents and purposes the dominated target moves normally. They have a -2 to the
-save against this, and when the possession finally ends the predator appears in
-an adjacent space.
+save against this possesion, and when it finally ends the predator appears in an
+adjacent space.
 
 If the predator is surrounded it can use **Mind Shock** to attack every enemy in
 a close burst 5. On a hit this deals a bit of psychic damage and slides the
@@ -113,9 +113,9 @@ ends). The dominated target takes 10 ongoing psychic damage as the glutton
 feasts on its thoughts, and the monster itself is insubstantial while this
 effect lasts. **Mockery of Life** allows it to control a dead creature. It hits
 automatically (the target is dead!), and makes the creature regain 20 HP and
-become dominate. This lasts until the end of the encounter or until the creature
-drops to 0 HP again. Both abilities recharge whenever the monster is not
-dominating a target with either of them.
+become dominated. This lasts until the end of the encounter or until the
+creature drops to 0 HP again. Both abilities recharge whenever the monster is
+not dominating a target with either of them.
 
 The glutton also has a simpler ability named **Mind Rend**, a ranged attack that
 deals psychic damage and slides the target 1 square. Its main advantage is that
@@ -133,8 +133,8 @@ other monsters in the encounter when it dies.
 
 Puppet Master makes the Intellect Devourer into one of the scarier dominator
 monsters I've seen, because the victim gets full turns and the monster is not
-targetable while this lasts. Make sure you don't use more than one or maaaybe
-two of them in a single fight, or things are going to get very annoying very
+targetable while this lasts. Make sure you don't use more than one or two of
+them in a single fight, or things are going to get very annoying very
 fast. Save-granting powers and items are a vital tool when fighting them.
 
 Gluttons are actually a bit less annoying to handle since you can still attack
@@ -147,4 +147,5 @@ sapient. Considering their level and preferred environments, I think it's
 plausible to meet a pack of Ustilagors in the same caves where you'd find
 troglodytes. Adult devourers might be allied with a balhannoth or with mind
 flayers, since they eat _thoughts_, not _brains_. And I could see a glutton
-making deals with a colony of swordwings: "I kill them, you take their stuff".
+making deals with a colony of swordwings: "I get their brains, you take their
+stuff".

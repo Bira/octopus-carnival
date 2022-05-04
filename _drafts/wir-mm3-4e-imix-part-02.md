@@ -171,7 +171,8 @@ good at spreading the hurt around.
 The Chosen are the highest ranking priests in the cult. Each of them is in
 charge of a major temple and commands a sizable force of mortal followers,
 mercenaries, and elemental servants. They commune directly with Imix and
-transmit his orders to the other members of the court.
+transmit his orders to the other members of the court. This particular Chosen is
+a firesoul genasi.
 
 Chosen rarely leave their temple's inner sanctum, as this is where their power
 is greatest. The book recommends making these sanctums into Fonts of Power, a
