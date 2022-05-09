@@ -45,7 +45,7 @@ only cast once. Killing one of them permanently reduces that population.
 
 {::nomarkdown}
 <figure class="right">
-  <img src="{{ "/assets/wir-mm34e-apocalypse-spell-01.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm3-4e-apocalypse-spell-01.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
