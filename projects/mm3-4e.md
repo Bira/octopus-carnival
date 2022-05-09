@@ -21,8 +21,12 @@ entries.
   - [Apocalypse Spell][3]
   - [Arcanian][4]
 
+- B
+  - [Banderhobb][5]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
 [3]: {{ "/2022/05/04/apocalypse-spell.html" | relative_url }}
 [4]: {{ "/2022/05/09/arcanian.html" | relative_url }}
+[5]: {{ "/2022/05/09/banderhob.html" | relative_url }}

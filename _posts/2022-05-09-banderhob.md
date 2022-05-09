@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-banderhob.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go [here][1] to see the other entries.
+
 I'm fairly sure Banderhobbs are a new monster. If they appeared before, it was
 in a book I don't own.
 
@@ -107,3 +118,5 @@ of a rarity.
 
 They pair well with evil fey that have a "nightmare" theme, and that Shadowfell
 tower sounds like a good final dungeon for a Paragon Tier campaign.
+
+[1]: {{ "/projects/mm3-4e/" | relative_url }}
