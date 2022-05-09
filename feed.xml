@@ -6,9 +6,133 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 May 2022 16:26:17 +0000</pubDate>
-    <lastBuildDate>Wed, 04 May 2022 16:26:17 +0000</lastBuildDate>
+    <pubDate>Mon, 09 May 2022 18:50:43 +0000</pubDate>
+    <lastBuildDate>Mon, 09 May 2022 18:50:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Arcanian</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-ape.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I don’t remember seeing arcanians anywhere else before, though they do have that
+“late-3e feeling” to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Wizardry is a craft that demands great patience and care. While a warlock
+“cheats” by making shady deals with dubious entities, a wizard earns every bit
+of power they have. But some wizards have less than great patience and care, and
+try to reach a bit too far beyond their current ability.&lt;/p&gt;
+
+&lt;p&gt;In the vast majority of cases that just results in an embarrassing fizzle, but
+sometimes the magic goes out of control and causes a major accident. Most of
+&lt;em&gt;those&lt;/em&gt; end up turning the caster into a messy stain on the floor, but some are
+worse.&lt;/p&gt;
+
+&lt;p&gt;In these rare cases, the wizard absorbs most of the runaway magic, which kills
+them and animates the corpse. The resulting entity is known as an Arcanian. Its
+sapient and highly intelligent, but utterly consumed by whatever strong emotion
+the wizard felt as they died, further warped by the nature of the magic that
+killed them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Arcanians are Medium Natural Humanoids (Undead). Each is themed around an
+element and an emotion, though ironically they have no particular resistance
+against their own theme element. They have a ground speed of 6 and no special
+senses. They also carry wizardly implements that give them abilities similar to
+that of a PC wizard.&lt;/p&gt;
+
+&lt;p&gt;Their signature ability is &lt;strong&gt;Arcane Surge&lt;/strong&gt;, an encounter power that triggers
+when they hit an enemy with an implement power (anything but their basic melee
+attack). It makes that power deal maximum damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;green-arcanian&quot;&gt;Green Arcanian&lt;/h3&gt;
+
+&lt;p&gt;Green Arcanians are half-melted monstrosities. Acid seeps from their pores, and
+their footsteps leave seared footprints. Their driven by envy and a hatred of
+beauty, which they use acid magic to destroy.&lt;/p&gt;
+
+&lt;p&gt;Green Arcanians are Level 8 Artillery with 67 HP. All of their attacks deal acid
+damage. Their basic melee attack is an &lt;strong&gt;Acid Touch&lt;/strong&gt;, and their basic ranged
+attack an &lt;strong&gt;Acid Bolt&lt;/strong&gt; that also deals a bit of splash damage to enemies
+adjacent to the target. Less often they can cast a &lt;strong&gt;Stream of Acid&lt;/strong&gt; (recharge
+5+) that does heavy damage and inflicts a -2 AC penalty and 5 ongoing acid
+damage (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Their implement power is &lt;strong&gt;Orb of Denial&lt;/strong&gt;, an interrupt which triggers when an
+enemy succeeds on a save and makes them fail the save instead. Thankfully this
+is an encounter power.&lt;/p&gt;
+
+&lt;h3 id=&quot;blue-arcanian&quot;&gt;Blue Arcanian&lt;/h3&gt;
+
+&lt;p&gt;This shivering corpse despises warmth, and believes that people and things can
+remain forever perfect if they’re frozen. As you might imagine, it goes around
+attempting to preserve everything it likes.&lt;/p&gt;
+
+&lt;p&gt;Blue Arcanians are Level 10 Controllers with 105 HP. They move slightly slower
+than normal at Speed 5, and all of their powers deal cold damage.&lt;/p&gt;
+
+&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Frost Staff&lt;/strong&gt; that also pushes 2 squares and
+immobilizes for a turn. They fight at range with at-will &lt;strong&gt;Bolts of Frost&lt;/strong&gt; that
+turn the area surrounding the target into difficult terrain for a turn, and once
+per encounter they can summon a &lt;strong&gt;Swirling Blizzard&lt;/strong&gt; to deal damage over an
+area (half on a miss).&lt;/p&gt;
+
+&lt;p&gt;Their implement power is &lt;strong&gt;Staff of Shielding&lt;/strong&gt;, which once per encounter gives
+them +4 to all defenses against an attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;red-arcanian&quot;&gt;Red Arcanian&lt;/h3&gt;
+
+&lt;p&gt;These eternally burning undead are gripped in the throes of fiery passion or
+red-hot wrath. They want to burn the world and take great pleasure in doing so.&lt;/p&gt;
+
+&lt;p&gt;Red Arcanians are considerably more powerful than the rest: Level 19 Artillery
+with 131 HP. All of their attacks deal fire damage, and they carry wands.&lt;/p&gt;
+
+&lt;p&gt;Their melee basic attack is a &lt;strong&gt;Fiery Touch&lt;/strong&gt;, and their ranged spells will be
+familiar to PC wizards: &lt;strong&gt;Scorching Burst&lt;/strong&gt; is an at-will area attack, and
+&lt;strong&gt;Burning Hands&lt;/strong&gt; is an encounter power that hits a close blast 5 that deals
+heavy damage and pushes 3 squares.&lt;/p&gt;
+
+&lt;p&gt;Their implement encounter power is &lt;strong&gt;Wand of Accuracy&lt;/strong&gt;, which gives them a +4
+bonus to their next attack.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;Just because liches are the most iconic undead wizards, it doesn’t mean they’re
+the only ones. Arcanians seem like a good monster to use when you want to make
+an adventure themed around wizards who dug too deep.&lt;/p&gt;
+
+&lt;p&gt;You could have a whole ruined academy filled with a variety of them and with
+other supporting undead or summoned extra-planar monsters. It’s easy enough to
+change the ruling element of the stat blocks presented here, or to adjust their
+level so you can have all three in the same dungeon. Maybe there’s a tome or
+artifact in its vaults that the party must recover, or maybe it’s just a place
+they need to pass through on their perilous journey.&lt;/p&gt;
+
+&lt;p&gt;Sprinkle in journal entries that hint at the disaster that destroyed the place,
+and add a big lich with multiple elemental attacks as the “end boss”. And there
+you have it, an instant Dark Souls level for your 4e table.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/09/arcanian.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/09/arcanian.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Apocalypse Spell</title>
@@ -1088,87 +1212,6 @@ support. One of them also has a cambion.&lt;/p&gt;
         <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/03/08/witherling.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/witherling.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Will-O'-Wisp</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-will-o-wisp.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Will-O’-Wisps in D&amp;amp;D are inspired by folklore, and their legend is in turn
-inspired by the natural phenomena that make swamp gas glow at night. I think
-they’ve been in the game since AD&amp;amp;D, though their exact lore might have changed
-a bit over the years.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Will-o’-wisps are cruel fey spirits who feed on the fear and despair of other
-sapients. They like to hang out in swamps and marshes, whose natural mists and
-swamp lights provide them with hiding places. Their bodies are orbs of gauzy
-material, and they glow with an otherwordly light that has the power to lure
-unwary victims. It can also burn their flesh and drain their spirit.&lt;/p&gt;
-
-&lt;p&gt;Their tactics are pretty much iconic - lure victims to an isolated place full of
-hindering terrain and kill them in a way that produces maximum horror.&lt;/p&gt;
-
-&lt;p&gt;These creatures can communicate in Elven, and when they speak they have that
-cool effect where they brighten and dim in compass with their speech. They can
-also douse their light for better stealth, but this also prevents them from
-using it as a weapon.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Will-o’-Wisps are Small Fey Magical Beasts, and Level 10 Lurkers with 57
-HP. They count as Insubstantial, taking only half damage from non-force
-attacks. They have low-light vision and a flight speed of 6 with Hover, and an
-altitude limit of 2 squares.&lt;/p&gt;
-
-&lt;p&gt;As mentioned above, wisps can turn their light on or off using the &lt;strong&gt;Fey Light&lt;/strong&gt;
-ability (minor action 1/round). A darkened wisp has concealment and can make
-Stealth checks to become hidden, but it cannot attack. If a wisp is missed by an
-attack, it can &lt;strong&gt;Blink Out&lt;/strong&gt; as a reaction. When this happens, the wisp darkens
-and teleports 5 squares. I guess it can make that Stealth check as part of this
-action too.&lt;/p&gt;
-
-&lt;p&gt;The wisp’s attacks are all light-based. The most classic one is of course
-&lt;strong&gt;Luring Glow&lt;/strong&gt;. This is a Close Burst 20 that targets one non-blinded creature,
-which is another way to say it’s a ranged attack that doesn’t draw opportunity
-attacks. It targets Will, does no damage, pulls the victim 3 squares, and dazes
-it (save ends).&lt;/p&gt;
-
-&lt;p&gt;Once the victim is in range and vulnerable, the wisp is going to hit it with its
-basic &lt;strong&gt;Glimmer Wisp&lt;/strong&gt; attack, which is Reach 2, targets Reflex, and does
-radiant damage. Once per encounter it can also use &lt;strong&gt;Spirit Drain&lt;/strong&gt; on a
-bloodied target. This is a Reach 3 attack that targets Fortitude, deals psychic
-damage, weakens (save ends) and heals the wisp for 14 HP.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Wisps are lurkers and have a couple of good stealth powers, but they don’t
-seem to have a lot of ability to take advantage of this stealth. Their best
-power is the very controller-y Luring Glow. When building wisp fights, you
-should pair them with other opportunistic monsters that can bring the hurt to
-those dazed characters.&lt;/p&gt;
-
-&lt;p&gt;Our sample encounter is level 9: two wisps and a quartet of spriggans (two
-powries, 2 thorns). Evil fairies all around.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/08/will-o-wisp.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/will-o-wisp.html</guid>
         
         <category>dnd4</category>
         
