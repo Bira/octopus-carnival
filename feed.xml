@@ -6,9 +6,357 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 May 2022 14:10:48 +0000</pubDate>
-    <lastBuildDate>Thu, 19 May 2022 14:10:48 +0000</lastBuildDate>
+    <pubDate>Fri, 20 May 2022 14:44:02 +0000</pubDate>
+    <lastBuildDate>Fri, 20 May 2022 14:44:02 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Beholder</title>
+        <description>&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Beholders appear in every 4e Monster Manual and also in the Monster
+Vault. They’re apparently too iconic to leave out! In this entry, we get spooky.&lt;/p&gt;
+
+&lt;p&gt;There’s no new “general” lore in this entry. Everything it introduces would be
+packaged into the Monster Vault as well and we already looked at that lore here.&lt;/p&gt;
+
+&lt;h2 id=&quot;beholder-spawn&quot;&gt;Beholder Spawn&lt;/h2&gt;
+
+&lt;p&gt;D&amp;amp;D 5th Edition would introduce that cool bit where beholders reproduce
+asexually through nightmares. The MM3 just says that the means of beholder
+reproduction are best left unknown. In either case, the result of that process
+could be represented by this Beholder Spawn stat block.&lt;/p&gt;
+
+&lt;p&gt;These are beholders at the start of their life-cycle, very young and
+comparatively weak but already quite smart and evil. You might find them
+alongside their parents. Or perhaps they’re banding together for survival,
+hoping to last long enough to be the first to reach full size and devour the
+rest of their siblings.&lt;/p&gt;
+
+&lt;p&gt;In either case they’d be very aware of their fragility and would try to stay
+mobile, spread out, and away from the reach of the PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Beholder spawn are Medium Aberrant Magical Beasts, and Level 15 Minion
+Artillery. They have a flight speed of 6, darkvision, and all-around vision
+(which means they can’t be flanked).&lt;/p&gt;
+
+&lt;p&gt;Like all beholders, they &lt;strong&gt;bite&lt;/strong&gt; in melee and fire &lt;strong&gt;eye rays&lt;/strong&gt; with a maximum
+range of 10. Their rays are a lot simpler than that of a “full” beholder, and do
+elemental damage of the same type as one of the types used by their parent.&lt;/p&gt;
+
+&lt;p&gt;If a spawn is hit or missed by a close or area attack, they can use &lt;strong&gt;Desperate
+Flight&lt;/strong&gt; as an interrupt to shift 2 squares. This means they can try to get out
+of the area of effect before they suffer damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;beholder-eye-of-shadow&quot;&gt;Beholder Eye of Shadow&lt;/h2&gt;
+
+&lt;p&gt;In past articles we already established that beholders mutate when they cross
+over from the Far Realm, taking characteristics that match their new
+environment. Eyes of Shadow are beholders that hung out in the Shadowfell too
+long, acquiring powers compatible with that bleak place.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-1&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;We’re back in familiar territory here: this beholder is Large and a Level 12
+Elite Lurker with 194 HP. It has the same speed and senses as the spawn above,
+deals extra damage when it has combat advantage, and heals 20 HP at the end of a
+turn if it has remained invisible since the start of that turn.&lt;/p&gt;
+
+&lt;p&gt;It capitalizes on those passive traits through a couple of auxiliary abilities:
+its &lt;strong&gt;Central Eye&lt;/strong&gt; (minor action 1/round) projects a fear attack that targets
+Will and makes the target grant combat advantage; and it can &lt;strong&gt;Vanish Into
+Shadow&lt;/strong&gt; (recharge 5+) as a move action, teleporting up to 20 squares and
+becoming invisible until it attacks or until the end of its next turn.&lt;/p&gt;
+
+&lt;p&gt;As for its actual attacks, there’s the usual &lt;strong&gt;bite&lt;/strong&gt; and a set of 3 &lt;strong&gt;eye
+rays&lt;/strong&gt;. These are ranged attacks but don’t provoke opportunity attacks. The
+beholder can fire two of them in the same action but must aim each at a
+different target. They are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;a &lt;strong&gt;Blinding Ray&lt;/strong&gt; (vs. Reflex) that deals radiant damage and blinds for a
+turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a &lt;strong&gt;Thundering Ray&lt;/strong&gt; (vs. Fortitude) which deals heavy thunder damage and
+deafens for a turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;a &lt;strong&gt;Shadowbond Ray&lt;/strong&gt; (vs. Will) that deals necrotic damage and immobilizes
+(save ends). While this condition lasts, the beholder and any shadow creatures
+in play have concealment while within 5 squares of the target.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This beholder wants to attack from ambush and use its central eye and blinding
+ray to make the PCs grant it combat advantage from a distance. Then it’s going
+to hit them with thundering rays and bites while enjoying the extra
+damage. Shadowbond is for melee defenders, and Vanish Into Shadow is a good
+escape hatch. The teleport range on that is so large it could allow the beholder
+to escape combat entirely, though an overconfident or angry individual might
+still return to the fight as soon as it finishes healing those 20 HP.&lt;/p&gt;
+
+&lt;p&gt;Its ability to target any defense makes it quite versatile, even if it only has
+three rays.&lt;/p&gt;
+
+&lt;h2 id=&quot;ghost-beholder&quot;&gt;Ghost Beholder&lt;/h2&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-beholder.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;While the Eye of Shadow is merely goth, this one is actually undead. Beholders
+are stubborn and hateful creatures at the best of times, so it’s natural that
+some of them will linger on as ghosts after they die or are killed. This usually
+suits them just fine, but it also makes the more cautious since they know they
+won’t get a third chance at existence.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers-2&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;Ghost beholders are Large Level 18 Elite Controllers with 254 HP. It combines
+common beholder traits (as seen on the two previous monsters) with undead
+ones. It’s immune to disease and poison, and Vulnerable 10 to radiant damage. As
+a ghost, it’s insubstantial and has phasing.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;bite&lt;/strong&gt; is a ghostly attack that targets Reflex and does necrotic
+damage. Its &lt;strong&gt;Central Eye&lt;/strong&gt; has a minor-action poltergeist effect that targets
+Will, slides the target 5 squares, and gives if 5 vulnerability to necrotic and
+psychic damage for a turn. All of its eye rays deal one of these damage types.&lt;/p&gt;
+
+&lt;p&gt;The ghost beholder has three &lt;strong&gt;eye rays&lt;/strong&gt; to choose from. It can only fire one
+on its own turn, but it also has the &lt;strong&gt;Eyes of the Beholder&lt;/strong&gt; trait that gives
+it a free random ray attack against enemies that start their turn within 5
+squares of it.&lt;/p&gt;
+
+&lt;p&gt;The rays are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Chill of the Grave&lt;/strong&gt; (vs. Fortitude) does cold and necrotic damage, and
+slows (save ends).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ghostly Possession&lt;/strong&gt; (vs. Will) inflicts 15 ongoing psychic damage (save
+ends)e. The first failed save also dazes the target; the second one completes
+the possession. Possessed targets are dominated, and the beholder disappears
+from play until the effect ends. This happens on a sucessful save, or the
+beholder can end it voluntarily.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Killing Thought&lt;/strong&gt; (vs. Will) does psychic damage and forces the target to
+make a melee basic attack against themselves! Targets who are not holding a
+weapon will drop what they’re holding, draw a weapon, and make that attack
+anyway, all as part of the same free action. Creepy.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ghost beholders are fond of phasing into the floor or walls to protect
+themselves from attack, emerging from unexpected angles to shoot against the
+characters. Fighting them without access to force and/or radiant damage is an
+exercise in suffering.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;More Beholders! Even though the Eye of Shadow follows the same naming convention
+as the Eyes of Flame and Frost, I think it has a better stat block. It does a
+variety of unexpected damage types and can target any defense!&lt;/p&gt;
+
+&lt;p&gt;The Ghost Beholder also has interesting abilities, but its defenses make it a
+nightmare to fight for an unprepared party. Even well-prepared undead hunters
+might boggle a bit when they find one of those instead of more standard monster
+like a vampire or banshee.&lt;/p&gt;
+
+&lt;p&gt;As for the spawn, I’d probably reskin them into something else. The idea of
+mobile flying artillery minions is sound, but the thought of fighting beholder
+“children” is a bit disturbing and I’m partial to the idea that beholders spawn
+as fully-grown nightmares given form.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/20/beholder.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/20/beholder.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Behemoth</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-behemoth.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Behemoths were introduced in the first Monster Manual. As you can see
+&lt;a href=&quot;/octopus-carnival/2019/05/13/behemoth.html&quot;&gt;there&lt;/a&gt;, they’re basically fantasy dinosaurs. Most of them resemble the
+dinosaurs we learned about as kids, but the “official” association is tenuous
+enough that behemoths don’t have to change to conform to newer scientific
+developments.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The book gives us a couple of poetic paragraphs about how behemoth steps thunder
+through the landscape and so on. They’re nice.&lt;/p&gt;
+
+&lt;p&gt;The new information here is that behemoths are always in demand for use as war
+beasts, so specimens young enough to train are a hot commodity. Capturing one is
+not easy though, because mommy behemoths fight their hardest when protecting
+their nests and their young. Some of them also live in really hard to reach
+places.&lt;/p&gt;
+
+&lt;p&gt;Even “tame” behemoths aren’t 100% safe. There’s always a chance they’ll flip out
+and turn on their handlers, and then escape to the wild after killing them. This
+&lt;em&gt;could&lt;/em&gt; happen in the middle of a battle, in which case the behemoth will attack
+enemy and former ally alike until it can run off.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;We get three new behemoth species here. They’re Natural Beasts as usual, and
+since we have a focus on behemoths that can be used as weapons they all have the
+Mount keyword in addition to the usual Reptile keyword. Their other traits vary
+per stat block, and their levels range from mid- to late- Heroic.&lt;/p&gt;
+
+&lt;h3 id=&quot;bone-crown-behemoths&quot;&gt;Bone Crown Behemoths&lt;/h3&gt;
+
+&lt;p&gt;This is an old-school triceratops. I understand the science on those has moved
+on by now, but this is one of the advantages of behemoths over realistic
+dinosaurs. Their size is Large.&lt;/p&gt;
+
+&lt;p&gt;Bone crowns are herbivorous but extremely aggressive and ill-tempered. They’re a
+favorite of hobgoblins and troglodytes, who train them for use as unstoppable,
+tank-like cavalry. The “poetic” imagery in the text describes these things
+charging through infantry formations and coming out the other side adorned in
+soldier guts hanging from their crowns as if they were pennants. As you might
+have guessed, they have a relatively high chance to flip out and turn on their
+riders in the heat of battle.&lt;/p&gt;
+
+&lt;p&gt;Bone crowns are Level 6 Soldiers with 71 HP and Speed 7. Their basic (and only)
+attack action is a &lt;strong&gt;Head Butt&lt;/strong&gt; that damages and marks for a turn. When used in
+a charge it also pushes 1 square, and when used in an opportunity attack it
+knocks prone.&lt;/p&gt;
+
+&lt;p&gt;They also have a couple of triggered actions: &lt;strong&gt;Threatening Bash&lt;/strong&gt; allows them
+to attack a marked enemy that shifts as an interrupt. &lt;strong&gt;Insult to Injury&lt;/strong&gt; is
+their mount power, and adds their “push 1 square” effect to their rider’s
+charge attacks.&lt;/p&gt;
+
+&lt;p&gt;Use pseudo-cavalry tactics for these: charge in from a distance, crash into the
+PCs, and then stay around to step on them and pin them down while your
+skirmishers and atrillery have fun. It’s better if the charge comes in from a
+flank and hits the squishies, but since the PCs aren’t an army that’s difficult
+to arrange.&lt;/p&gt;
+
+&lt;h3 id=&quot;skinwing-behemoth&quot;&gt;Skinwing Behemoth&lt;/h3&gt;
+
+&lt;p&gt;One of those giant pterodactyls. They nest in craggy mountains, and thieves
+often try to steal their eggs to sell to kingdoms looking to start or maintain
+an air force. A lot of these thieves get killed by enraged skinwing parents.&lt;/p&gt;
+
+&lt;p&gt;These Large behemoths are Level 7 Skirmishers with 79 HP. Their ground speed is
+a pitiful 2 (clumsy), but they fly at speed 8 (hover). That clumsiness means a
+downed skinwing will do everything in its power to take flight again as soon as
+possible… even abandon its rider.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; with no special effects, but they have the
+famous &lt;strong&gt;Flyby Attack&lt;/strong&gt; power that allows them to fly their speed, make an
+attack at any point, and not provoke opportunity attacks from their target. The
+&lt;strong&gt;Strafe&lt;/strong&gt; trait allows the rider to make a basic attack in place of their
+mount’s bite during this maneuver.&lt;/p&gt;
+
+&lt;p&gt;The skinwing can also enhance a flyby attack with its &lt;strong&gt;Grasping Talons&lt;/strong&gt;
+(recharge 5+), which allow it to grab the target if the main attack hits. They
+can then &lt;strong&gt;Drag Off&lt;/strong&gt; the victim, carrying it with them while the grab
+lasts.&lt;/p&gt;
+
+&lt;p&gt;Skinwings fight by doing constant flyby attacks, and carrying victims off to be
+dropped from a great height when they can. Skinwing &lt;em&gt;cavalry&lt;/em&gt; will coordinate
+with ground forces to do the same thing in a maximally inconvenient way. PCs
+would do well to knock them off the air as soon as possible and prevent them
+from taking off again.&lt;/p&gt;
+
+&lt;h3 id=&quot;spirehorn-behemoth&quot;&gt;Spirehorn Behemoth&lt;/h3&gt;
+
+&lt;p&gt;I don’t think this Huge creature has an analog in the real world. At size Huge,
+they’re so big they can mount platforms transporting up to a dozen people, and
+they have big horns. They are the perfect vanity ride for your typical barbarian
+chieftain or hobgoblin general, so there is high demand for eggs and even for
+healthy adults. Lots of people die trying to get those.&lt;/p&gt;
+
+&lt;p&gt;Their actual battlefield use depends on the personality of their owners. Some
+are used like thrones and sit in a palace somewhere. Others are mobile
+fortified command centers that hang at the back of a fighting army. And others
+are siege engines at the front lines, transporting troops instead of a single
+big ego or command staff.&lt;/p&gt;
+
+&lt;p&gt;Spirehorns are Level 9 Elite Brutes with 234 HP. They confer the &lt;strong&gt;Beastmaster&lt;/strong&gt;
+trait to their rider, giving them a +1 to AC and Reflex. I guess only the person
+actually directing the spirehorn gets the bonus. Their speed is 6.&lt;/p&gt;
+
+&lt;p&gt;A spirehorn’s basic attack is a &lt;strong&gt;gore&lt;/strong&gt; with no special effects, and it can
+make &lt;strong&gt;Double Attacks&lt;/strong&gt;. Once per encounter it can build up some speed and
+&lt;strong&gt;Trample&lt;/strong&gt;, moving twice its speed. It can enter enemy spaces during this move
+and makes a free attack on each enemy whose space it enters.&lt;/p&gt;
+
+&lt;p&gt;You’re likely to see these used in battle as living siege towers, or as carriers
+for enemy leaders. In either case they’re going to be priority targets.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Dinosaurs are awesome even when they’re called Behemoths, and with the ones in
+this entry plus the others we’ve seen before you have enough assemble a full
+force organization table for a fantasy army that uses most of them in different
+roles.&lt;/p&gt;
+
+&lt;p&gt;I think we even have enough “war beasts” at this point to make &lt;em&gt;themed&lt;/em&gt;
+armies. Here’s an example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dragonborn use behemoths!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hobgoblins use mammalian megafauna, dire wolves, and giant bats!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Elves use fey panthers and griffons!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dwarves ride dire boars!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Kobolds use giant bugs!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Humans use horses and hippogriffs!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And everyone uses drakes because most of them are so common and easily tamed.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/20/behemoth.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/20/behemoth.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>A Short Review: Cyberpunk RED</title>
@@ -978,237 +1326,6 @@ in my mind. A nice way to close the book.&lt;/p&gt;
         <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>On Exalted Martial Arts</title>
-        <description>&lt;p&gt;There’s this post on Mailanka’s Musings that talks about two different ways of
-modeling martial arts in RPGs. The first is something he calls “Move-Based”, and
-the second “Skill-Based”.&lt;/p&gt;
-
-&lt;p&gt;Move-based martial arts is how most RPGs in the 90’s did it. You bought a style,
-and that gave you access to a series of “moves” that were essentially special
-powers with individual rules for what they did. Some systems made you buy each
-individual move as well, usually as a way to model your progression in the
-style - advanced practitioners know more moves. Your move set is as or more
-important than your raw skill level.&lt;/p&gt;
-
-&lt;p&gt;Skill-based martial arts are what GURPS does. Everyone uses the same skills to
-fight, and knowing one style or another is mostly a matter of flavor with a few
-minor mechanical bonuses thrown in. What really matters are your skill levels:
-people with different style familiarities but similar skill levels are equally
-effective. The same applies to someone who “knows” a style and someone who just
-has the combat skills.&lt;/p&gt;
-
-&lt;p&gt;Move-based rules might allow you to emulate some classic kung-fu stories that
-are all about how some styles are objectively superior to others, or how there’s
-a secret style or ultimate technique that’s jealously guarded by a cranky old
-master. Skill-based rules are closer to Bruce Lee’s philosophy, or modern views
-of martial arts in general, where individual skill is more important and the
-“ultimate power” is learning from multiple sources and combining everything into
-something that works for you.&lt;/p&gt;
-
-&lt;p&gt;Personally, I prefer skill-based rules, largely due to my exposure to GURPS
-Martial Arts for Fourth edition. Everything it introduces can be done by someone
-who isn’t using the style rules. It covers styles from the whole world without
-treating any of them as inherently superior, and it acknowledges that basically
-any organized system of fighting counts as a “style”. The “generic swings” other
-systems describe as the standard form of fighting only happen if you’re
-completely untrained.&lt;/p&gt;
-
-&lt;p&gt;Given this preference, it comes as no surprise that I have a few weirdly
-specific hangups about how Exalted handles its martial arts. Let’s talk about
-them!&lt;/p&gt;
-
-&lt;h2 id=&quot;exalteds-martial-arts&quot;&gt;Exalted’s Martial Arts&lt;/h2&gt;
-
-&lt;p&gt;Exalted’s &lt;em&gt;whole system&lt;/em&gt; is entirely move-based. Every PC has a large set
-of “Charms” that are usually linked to skills, and represent magic techniques
-they can use to enhance uses of that skill. Getting to the maximum possible
-skill level is trivial, and it’s your Charms that make the difference when going
-against similarly supernatural opposition. This goes even for non-combat skills,
-though the fighty bits tend to take up a lot of attention.&lt;/p&gt;
-
-&lt;p&gt;Martial Arts are part of this system, but the game still takes pains to make
-them extra-special, even as it struggles to explain what makes them different
-from standard combat powers. Exalted First Edition had a separate Martial Arts
-skill, whose associated Charms were structured as “Martial Arts Styles”. They
-didn’t really “mix” with charms of other skills. As a result, a lot of each
-style’s Charms end up duplicating the effect of basic combat Charms in different
-ways.&lt;/p&gt;
-
-&lt;p&gt;Second Edition merged “standard” unarmed combat and Martial Arts, and made it a
-little easier to mix and match charms from a few different styles. Third Edition
-doubled down on the original position and made it so each style had its own
-separate skill, thus coming full circle on the ‘martial arts cost more because
-they are exotic and special’ trope.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-id-do-it&quot;&gt;How I’d Do It&lt;/h2&gt;
-
-&lt;p&gt;Had I been writing these rules, I’d probably take them in a different direction
-entirely, and more towards the way GURPS sees things. There would be no Martial
-Arts skill. Each style is associated with a single standard combat skill, and
-consists of exactly three Charms representing its advanced or iconic
-techniques. The basic stuff is already covered by the standard skill and
-standard Charms.&lt;/p&gt;
-
-&lt;p&gt;For the Charms I’d reuse the “lotus” metaphor, so they would be the Root, Bulb
-and Blossom Charms. You learn them in this order. Each has the previous one as a
-prerequisite, and probably an increasing Essence score. They’re meant to be
-combined with the standard Charms for that skill, relying on them for the basic
-dice-adding mechanics and such. If you know Charms of multiple styles you can
-explicitly combine them as long as the combination is otherwise rules-legal.&lt;/p&gt;
-
-&lt;p&gt;Everyone who learns to fight is a martial artist, even if they never pick up
-style Charms. Every martial artist ultimately develops their own personal style
-by learning from as many sources as possible and keeping what works for
-them. And you can certainly describe the way your kung-fu looks as being a
-certain style even if you don’t have the Charms.&lt;/p&gt;
-
-&lt;h3 id=&quot;example-snake-style&quot;&gt;Example: Snake Style&lt;/h3&gt;
-
-&lt;p&gt;I didn’t originally plan on doing this, but what the heck, let’s go! Snake Style
-has traditionally been the main corebook style, so let’s see how it would look
-in this format.&lt;/p&gt;
-
-&lt;p&gt;Let’s see what the lore says about it: it’s a style focused on speed and
-precision, aiming to take down better armed and armored opponents before they
-have time to act. It uses two-fingered strikes to hit pressure points and
-exposed tendons. Masters of the style can “pierce through armor”, “paralyze
-opponents with pressure point strikes”, and “deliver poisonous Essence through
-their fingertips”.&lt;/p&gt;
-
-&lt;p&gt;The choice of what to keep in our new format is pretty easy - each of the things
-masters of the style can do references a specific Charm. We want those. All the
-others increase basic numbers in different ways and can be replaced by standard
-charms from Brawl and other trees. Want to dodge like a snake? Take Dodge
-Charms. Want the “tough scales” effect? Take Resistance.&lt;/p&gt;
-
-&lt;p&gt;So our new Snake Style is an unarmed style linked to Brawl. Our Root Charm is
-&lt;strong&gt;Crippling Pressure Point Strike&lt;/strong&gt; (Ex3 p. 428). Our Bulb Charm is
-&lt;strong&gt;Armor-Penetrating Fang Strike&lt;/strong&gt;. Our Blossom Charm is &lt;strong&gt;Essence Venom
-Strike&lt;/strong&gt;. Their skill level and Essence prerequisites remain the same, but read
-Brawl in place of Martial Arts.&lt;/p&gt;
-
-&lt;p&gt;This is a quick and dirty sketch, and some additional work would be
-required. Essence Venom Strike needs to be rewritten a bit, since half of its
-effects reference Charms we’ve eliminated. We might also want to rewrite some of
-the base Brawl charms, though I haven’t looked at them in much depth.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>exalted</category>
-        
-        <category>martial-arts</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Wood Woad</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-wood-woad.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I think I remember seeing mention of Wood Woads in AD&amp;amp;D somewhere, but I
-couldn’t find them in my books. This is their 4e debut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Wood Woads are fey creatures distantly related to dryads. Like dryads, they
-devoutly protect the natural environment of their home region. Unlike dryads,
-they all look male and have absolutely zero chill.&lt;/p&gt;
-
-&lt;p&gt;Not only do wood woads attack would-be despoilers of nature with murderous
-intent, they tend to blame each new intruder for the crimes of all the previous
-ones. So even if you’re careful with the environment and try to approach them
-peacefully, they’ll still try to kill you because some fool cut a tree down
-years ago and managed to run away.&lt;/p&gt;
-
-&lt;p&gt;Wood woads tend to ally with other sworn protectors of nature, like dryads,
-centaurs and some elves or other fey. So I guess you could still deal with them
-peacefully if you manage to approach those allies first and get them to vouch
-for you, or have them act as intermediaries.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get a single Wood Woad stat block. It’s a Medium Fey Humanoid with the Plant
-keyword, and a Level 8 Soldier with 92 HP. It has trained Perception, and a
-ground speed of 5.&lt;/p&gt;
-
-&lt;p&gt;Wood Woads wield wooden shields and clubs. Their basic attack is the &lt;strong&gt;club&lt;/strong&gt;,
-which does average damage and has no special effects. They can channel magic
-through it to inflict &lt;strong&gt;Nature’s Judgment&lt;/strong&gt; (recharge 6+, Reliable) on a
-target. This is an attack that does more damage than the basic club,
-immobilizes, and inflicts ongoing physical damage on the target. When the target
-takes this ongoing damage, the closest fey or plant ally of the wood woad heals
-the same amount of HP.&lt;/p&gt;
-
-&lt;p&gt;The Reliable keyword means this power isn’t used up if the attack misses. The
-wood woad can keep trying to use it until it hits someone, and only them will it
-need to make recharge rolls. This attack becomes more useful if all of the wood
-woad’s allies are either plants or fey.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter it can also curse someone with &lt;strong&gt;Nature’s Mystery&lt;/strong&gt; as a
-minor action. This inflicts a -2 penalty on all of the target’s attacks,
-defenses, and saves. The save to end this effect has an &lt;em&gt;additional&lt;/em&gt; -5 penalty
-unless the target can succeed at a DC 20 Nature check before rolling it. Guess
-this spell has a loophole somewhere.&lt;/p&gt;
-
-&lt;p&gt;This is different from the sphinx ability we saw earlier in this Let’s Read,
-because no one else can make the Nature test in the target’s place. This makes
-Nature’s Mystery an excellent ability to use on most defenders, since they tend
-to have low-to-middling Wisdom and no training in Nature. Wardens are the big
-exception to this.&lt;/p&gt;
-
-&lt;p&gt;Targets affected by this Nature’s Mystery are also prime targets for Nature’s
-Judgment. Make sure to surround them with plant and fey monsters after they get
-hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We get two sample encounters:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 8: Two dryads, two vine horror spellfiends, 2 wood woads. Did the vine
-horror manage to convince the fey it’s part of the local natural environment?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Level 9: 1 Gnome Entropist, 1 Satyr Piper, 1 Shambling Mound, 3 Wood Woads. I
-guess the gnome is a actually a druid using the entropist stat block.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I like the feel of the mechanics on this one, but the lore is once again a bit
-uninspiring. It’s another humanoid fey plant that’s fanatical about protecting
-nature, just like dryads and treants. I guess they can round out the cast when
-you want to focus a game on a faction of such beings, but we already have a lot
-of other possible creatures that belong there as well (satyrs, centaurs, elven
-druids, and so on).&lt;/p&gt;
-
-&lt;p&gt;If you want to use the wood woad stat block but don’t want to say they’re a
-completely separate species, just say they’re small treants instead.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/08/wood-woad.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/08/wood-woad.html</guid>
         
         <category>dnd4</category>
         
