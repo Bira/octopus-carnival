@@ -23,6 +23,8 @@ entries.
 
 - B
   - [Banderhobb][5]
+  - [Behemoth][6]
+  - [Beholder][7]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -30,3 +32,5 @@ entries.
 [3]: {{ "/2022/05/04/apocalypse-spell.html" | relative_url }}
 [4]: {{ "/2022/05/09/arcanian.html" | relative_url }}
 [5]: {{ "/2022/05/09/banderhob.html" | relative_url }}
+[6]: {{ "/2022/05/20/behemoth.html" | relative_url }}
+[7]: {{ "/2022/05/20/beholder.html" | relative_url }}
