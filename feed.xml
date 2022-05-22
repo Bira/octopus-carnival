@@ -6,9 +6,286 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 May 2022 14:44:02 +0000</pubDate>
-    <lastBuildDate>Fri, 20 May 2022 14:44:02 +0000</lastBuildDate>
+    <pubDate>Sun, 22 May 2022 18:01:49 +0000</pubDate>
+    <lastBuildDate>Sun, 22 May 2022 18:01:49 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Catoblepas</title>
+        <description>&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-catoblepas.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I first saw the Catoblepas in the AD&amp;amp;D 2nd Edition Monster Manual, and I was
+very surprised to learn it’s not a “lolrandom” original monster. It’s a
+legendary creature from Ethiopia, described by Roman historians Pliny the Elder
+and Claudius Aelianus. I can’t tell whether that makes it part of Ethiopian or
+Roman folklore - I’m sure someone more qualified than me can make that
+distinction. Their name is derived from a Greek word meaning “to look
+downwards”. The plural of catoblepas is &lt;em&gt;catoblepones&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Wikipedia speculates that the original descriptions of the catoblepas might be
+referring to a wildebeest or gnu, and you need only look at Wayne England’s
+illustration above to know he’s really done his homework. A D&amp;amp;D catoblepas looks
+like a wildebeest with a horrible nightmare where its neck and head should
+be. Their long necks are always bent down due to the great weight of their
+heads, which is where their name comes from.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D catoblepones are creatures of shadow and death. They are native to the
+Shadowfell but have a natural ability to wander between worlds. People believe
+they appear in places that are about to be stuck by tragedy, which is kinda true
+since the beast’s breath and gaze are deadly. They’re associated with the Raven
+Queen and sometimes show up as part of her entourage.&lt;/p&gt;
+
+&lt;p&gt;Despite their reputation as beasts of ill omen, catoblepones are often the
+targets of hunting expeditions. Knights hunt them because defeating such a
+dangerous beast brings great glory; others perform ritual hunts in honor of the
+Raven Queen. Success in these ritual hunts might please the goddess enough that
+she grants a blessing to the hunters. A catoblepas can be tracked by the trail
+of destruction it leaves, and the Raven Queen is particularly pleased by hunters
+who make an effort to mend this damage as they pursue their quarry. To them, she
+might grand a mighty boon such as returning someone to life or giving a living
+person the ability to foresse their own death and avoid it.&lt;/p&gt;
+
+&lt;p&gt;A slain catoblepas reforms in the Shadowfell after a while, and begins wandering
+again. Their arrival in a region is often preceded by supernatural phenomena
+such as hauntings.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;We get two varieties of catoblepas here.&lt;/p&gt;
+
+&lt;h3 id=&quot;catoblepas-harbinger&quot;&gt;Catoblepas Harbinger&lt;/h3&gt;
+
+&lt;p&gt;A classic beast of ill omen, the catoblepas harbinger appears in places full of
+hubris to announce they’re about to be hit by famine, war, or other
+tragedies. It feeds on pride, anger, despair and other negative emotions,
+growing ever larger over time. The poisonous gases it exhales are a byproduct of
+this vitriolic diet. I wonder if one of these showed up in the throne room of
+the Nerathi emperor before the empire fell.&lt;/p&gt;
+
+&lt;p&gt;The Harbinger is a Large Shadow Beast, and a Level 10 Elite Controller with 220
+HP. It lumbers along at speed 6 and has Resist Necrotic 5 and Blindsight 5.&lt;/p&gt;
+
+&lt;p&gt;Like all catoblepones, the Harbinger emanates the &lt;strong&gt;Raven Queen’s presence&lt;/strong&gt;, an
+aura (5) that causes anyone inside who fails a death saving throw to lose HP
+equal to half their bloodied value. By the standard rules, any creature who hits
+their bloodied value in negative HP dies automatically, so this aura makes PCs
+die after &lt;em&gt;at most&lt;/em&gt; two failed saves instead of the usual three.&lt;/p&gt;
+
+&lt;p&gt;When drawn into a fight the harbinger &lt;strong&gt;gores&lt;/strong&gt; with its horns and uses its
+&lt;strong&gt;poison breath&lt;/strong&gt; (close blast 5, recharge 5+), which obviously does poison
+damage and inflicts ongoing poison damage.&lt;/p&gt;
+
+&lt;p&gt;If someone within 5 squares of the harbinger willingly tries to move away from
+it, they’re subject to the beast’s &lt;strong&gt;Final Glance&lt;/strong&gt;, an opportunity action that
+targets Will. A victim hit by the glance takes 5 necrotic damage and becomes
+Vulnerable 5 to all damage (save ends). When they pass that save, they take
+another 10 necrotic damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;catoblepas-tragedian&quot;&gt;Catoblepas Tragedian&lt;/h3&gt;
+
+&lt;p&gt;This is an older specimen that usually hangs out in places where dead souls
+cross over into the Shadowfell, absorbing all the negative emotions that
+accompany them. This steady diet has made it grow much larger, and reshaped its
+face so it looks like a tragedy mask.&lt;/p&gt;
+
+&lt;p&gt;Tragedians are Huge Shadow Beasts, and Level 18 Elite Controllers with 360
+HP. They’re mostly identical to harbingers, with larger numbers. They also have
+a couple of new abilities.&lt;/p&gt;
+
+&lt;p&gt;The first is a &lt;strong&gt;Withering Gaze&lt;/strong&gt; used as an active attack against a bloodied
+enemy. It targets Will, does a tiny bit of necrotic damage, and weakens (save
+ends). After the first failed save, the target is also blinded. After the
+second, the target’s hit points drop to -1. And yeah, this does mean they need
+to make death saves and it does subject them to the Raven Queen’s Presence
+aura. This power recharges whenever no enemy is affected by it.&lt;/p&gt;
+
+&lt;p&gt;The second new ability is &lt;strong&gt;Inevitable Call&lt;/strong&gt;, a minor action that automatically
+hits an enemy within 20 squares and pulls them 3 squares closer to the
+Tragedian.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Catoblepones are sticky melee controllers. The basic Harbinger has good powers
+to prevent PCs from getting away from them, opening them up from attack from the
+other monsters in the fight. It pairs really well with monsters that can do
+heavy damage, like brutes and some artillery, because you want to force the PCs
+to roll death saves as soon as possible. The Tragedian is all that and more. It
+has powers to draw PCs closer to itself and perhaps even force them into
+negative HP early.&lt;/p&gt;
+
+&lt;p&gt;I used to dismiss these monsters outright because I found the name “catoblepas”
+ridiculous, but their 4e incarnation has really evocative lore! I’m a fan now.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Cambion</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Cambions made their 4e debut in the Monster Manual and were covered
+&lt;a href=&quot;/octopus-carnival/2019/07/25/cambion.html&quot;&gt;here&lt;/a&gt;. This MM3 entry brings us a few more cambion stat blocks, and an extra
+helping of lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The basic lore hasn’t changed: cambions are the direct offspring of a mortal and
+a devil. The first Monster Manual just described the mortal parent as “depraved
+or foolish”, but MM3 gets into a little bit more detail on how that
+happens. It’s about as horrific as you’d imagine.&lt;/p&gt;
+
+&lt;p&gt;The “foolish” mortals are the ones who sign infernal contracts. Many of them
+include “make a baby” as part of the price. The “depraved” ones are cultists,
+but that doesn’t mean the process is enjoyable for them either. The highly
+hierarchical nature of Hell means mortal cultists and lesser devils must
+conceive cambions as commanded by their superiors.&lt;/p&gt;
+
+&lt;p&gt;Whatever their origin story, cambions mature quickly and are soon put to work
+furthering the schemes of their masters. Most of them swear loyalty to Asmodeus
+directly and are set loose upon the world to enact various schemes. Fierna and
+Belial also walk around with a cambion honor guard.&lt;/p&gt;
+
+&lt;p&gt;Cambions associate with lesser devils and mortal diabolists. Those who style
+themselves as leaders might have a retinue of guards and advisors. The advisors
+are sometimes oni or rakshasa, and in that case they’ll be the true power behind
+the throne.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Cambions are Medium Immortal Humanoids with the Devil keyword. They have
+darkvision and fire resistance (which is 10 in all stat blocks in this
+entry). Their wings give them a flight speed of 8 (clumsy), which means they
+fight with their feet on the ground.&lt;/p&gt;
+
+&lt;h3 id=&quot;cambion-wrathborn&quot;&gt;Cambion Wrathborn&lt;/h3&gt;
+
+&lt;p&gt;Despite the name, wrathborn are fairly subtle. They can use magic to appear as a
+mortal version of their natural appearance, and they use this ability to
+infiltrate mortal societies and attain positions of power through intrigue and
+violence. They &lt;em&gt;do&lt;/em&gt; have a short temper, though, and tend to interpret even the
+smallest slight as a grave insult.&lt;/p&gt;
+
+&lt;p&gt;Wrathborn are Level 9 Skirmishers with 100 HP. Their disguise ability is named
+&lt;strong&gt;Wicked Guise&lt;/strong&gt;, and it remains on while the wrathborn is unbloodied. When that
+happens, they assume their true form and project an aura (1) of &lt;strong&gt;Burning
+Anger&lt;/strong&gt;, which deals 5 fire damage to those caught inside.&lt;/p&gt;
+
+&lt;p&gt;They fight a bit like extra-mobile infernal warlocks, using a shortsword and a
+wand. The basic sword attack is &lt;strong&gt;Pain Blade&lt;/strong&gt;, which damages and makes the
+target grant combat advantage for a turn on a hit. They can use a maneuver named
+&lt;strong&gt;Path of Pain&lt;/strong&gt; to shift 4 squares and make a Pain Blade attack at any point
+during the shift. The wand shoots &lt;strong&gt;fire bolts&lt;/strong&gt; that target Reflex and do fire
+damage.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, while bloodied, the wrathborn can also use &lt;strong&gt;Burst Skyward&lt;/strong&gt;
+to deal fire damage around themselves (Close burst 2 vs. Reflex) and fly 8
+squares without provoking opportunity attacks. This is good to avoid getting
+surrounded.&lt;/p&gt;
+
+&lt;h3 id=&quot;chained-cambion&quot;&gt;Chained Cambion&lt;/h3&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-cambion-chained.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Chained cambions are exactly what it says on the tin: cambions bound up in
+chains, with iron masks affixed to their faces. I’m guessing this is what
+happens when someone tries to imprison a cambion and it kinda-sorta breaks
+free. Their bodies are completely bound, but they can move and fight by
+controllng the chains that bind them. Their chief emotion is hate. The only
+sound from behind the mask is a hoarse scream of rage. Zero subtlety. Zero
+chill.&lt;/p&gt;
+
+&lt;p&gt;Chained cambions are Level 10 Controllers with 110 HP. Since they walk around by
+moving their chains like spider legs, they lack a flight speed. They’re
+surrounded by a &lt;strong&gt;Blinding Field&lt;/strong&gt; (aura 3) that makes its covered squares count
+as difficult terrain for enemies. Their &lt;strong&gt;Child of Chains&lt;/strong&gt; trait makes them get
+a +2 attack bonus when immobilized or restrained, as well as a +2 bonus on saves
+to end those conditions.&lt;/p&gt;
+
+&lt;p&gt;These monsters attack by hitting people with their enchanted chains and
+screaming into their minds. Their basic &lt;strong&gt;Chain Lash&lt;/strong&gt; attack has a reach of 3,
+and if it hits a dazed enemy it also immobilizes them.&lt;/p&gt;
+
+&lt;p&gt;The psychic screaming is expressed as two different attacks. &lt;strong&gt;Vile Fetters&lt;/strong&gt; is
+a reach 5 melee attack that targets Will and does psychic damage. If the target
+ends it next turn closer to the cambion than it started, it becomes dazed (save
+ends). &lt;strong&gt;Unfettered Scream&lt;/strong&gt; (recharge 5+) is a close blast 3 that targets
+Fortitude, does psychic damage, pushes 2 squares, and dazes (save ends).&lt;/p&gt;
+
+&lt;p&gt;As a minor action the chained cambion can use a &lt;strong&gt;Mind Shackles&lt;/strong&gt; spell. It
+automatically hits 2 enemies within 5 squares of the cambion. Shackled enemies
+take 10 psychic damage at the start &lt;em&gt;and&lt;/em&gt; at the end of their turns if they’re
+not adjacent to the other shackled enemy at that moment. Each enemy saves
+independently from the other, so it’s possible for one of them to be free and
+the other still shackled. The first successful save reduces the damage to 5, the
+second eliminates it. This power recharges when the cambion is bloodied.&lt;/p&gt;
+
+&lt;p&gt;Looks like a chained cambion will want to shackle a pair of enemies and then
+keep them apart by interposing himself between then and using Unfettered Scream
+to push them away, or Vile Fetters to prevent them from going around.&lt;/p&gt;
+
+&lt;h3 id=&quot;cambion-infernal-scion&quot;&gt;Cambion Infernal Scion&lt;/h3&gt;
+
+&lt;p&gt;Sometimes the unfortunate mortal forced to be a cambion parent is a noble or
+even a monarch. Infernal scions are an object lesson on why hereditary
+government is a bad idea. This one covets Asmodeus’ positition as the ruler of
+Hell and is working to supplant him. I guess he’s still a ways away from doing
+that.&lt;/p&gt;
+
+&lt;p&gt;He’s a Level 12 Elite Soldier with 250 HP, wearing mail and wielding a magic
+sword. This &lt;strong&gt;Burning Longsword&lt;/strong&gt; does fire damage and marks for a turn. If a
+marked enemy tries to ignore the mark, the scion can use &lt;strong&gt;Majestic Stride&lt;/strong&gt; to
+teleport adjacent to them and hit them with the sword.&lt;/p&gt;
+
+&lt;p&gt;In addition to using the sword to mark people, the scion can use &lt;strong&gt;Oath of the
+Nine&lt;/strong&gt; (minor action, 1/round) to do so. This automatically marks an enemy
+within 3 squares and gives them Vulnerable 10 Fire for a turn.&lt;/p&gt;
+
+&lt;p&gt;When not bloodied, the scion can use &lt;strong&gt;Dread Command&lt;/strong&gt; (Ranged 5 vs. Will, minor
+action, 1/round) to dominate an enemy for a turn. Once bloodied he flips out,
+losing this ability and replacing it with &lt;strong&gt;Fiend Razor&lt;/strong&gt;, which allows it to
+make 2 sword attacks with an action. This is an interesting way to implement an
+elite’s multi-attack ability.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Cambions are… okay I guess? The mechanics in this entry are interesting, but
+the lore doesn’t quite get me going. I feel I can make some use of the infernal
+scion, but the others don’t make stories jump to my mind just from reading them.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/22/cambion.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/22/cambion.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Beholder</title>
@@ -1187,145 +1464,6 @@ buffs than to heal their allies.&lt;/p&gt;
         <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Traits Appendix</title>
-        <description>&lt;p&gt;This post is the last in a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Like the first Monster Manual before it, the Monster Manual 2 ends with a short
-appendix containing rules for using some of the humanoids from the book as
-playable characters. This one is a lot smaller than the MM’s appendix, and I
-don’t think any of the races in it got much in the way of subsequent support or
-more complete versions.&lt;/p&gt;
-
-&lt;p&gt;The three writeups and their notable traits are listed below.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bullywugs&lt;/strong&gt; have Swamp Walk and get Primordial as a bonus language. Their
-racial power is the Rancid Air aura from their monster writeups. +2 to CON and
-DEX.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Duergar&lt;/strong&gt; are predictably similar to dwarves, but they get Deep Speech as a
-bonus language and the Infernal Quills racial power. +2 to CON and WIS.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Kenku&lt;/strong&gt; get the Flock Effect and Mimicry abilities from their monster
-writeups, but don’t have any bonus languages. Flock Effect is a pretty awesome
-ability for a rogue. +2 to DEX and CHA.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And with this we can finally close the MM2, and move on to the next book in my
-planned series. See you on the Monster Manual 3 Let’s Read!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/04/13/traits-appendix.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/13/traits-appendix.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 2: Xorn</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm2-4e-xorn.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2009 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I see xorns in my copy of the AD&amp;amp;D 1st Edition monster manual, so they date from
-at least that far back. This is their 4e debut, and they’re the last monster in
-the book.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Xorns are earth elementals native to the Elemental Chaos, but they long ago
-spread to the deep subterranean tunnels and caverns of the world. Their
-three-lobed radial symmetry makes them seem quite bizarre to natives of the
-world.&lt;/p&gt;
-
-&lt;p&gt;Xorns can swim through rock and earth as if it was water, and must feed on
-certain rare metals and gems. They’re sapient, and will often bargain with other
-people, aiding in their mining or smelting efforts in exchange for their
-“food”. It seems they’re not very concerned with much beyond their own survival,
-so they’ll happily ally with creatures of all dispositions, from dwarves and
-galeb dhur to duergar and fire giants.&lt;/p&gt;
-
-&lt;p&gt;Xorns found in the wild are likely to be drawn to the gems and magic items
-carried by PCs. The PCs might be able to negotiate with them and avoid a
-fight… but some less scrupulous xorns tend to use these negotiations to help
-set ambushes.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get two stat blocks here, but they’re very similar, so I’ll discuss the first
-one and then note how the second one differs from it.&lt;/p&gt;
-
-&lt;h3 id=&quot;xorn&quot;&gt;Xorn&lt;/h3&gt;
-
-&lt;p&gt;The basic model is a Medium Elemental Magical Beast (Earth), and a Level 9
-Skirmisher with 102 HP. Its senses include darkvision and all-around vision,
-which prevents it from being flanked. It has a relatively low ground speed of 5,
-and a burrow speed of 5 that’s enhanced by the &lt;strong&gt;Earth Glide&lt;/strong&gt; ability. It
-allows the xorn to burrow through solid rock as if it was loose earth, using its
-full burrow speed at all times.&lt;/p&gt;
-
-&lt;p&gt;The xorn’s basic attack is a &lt;strong&gt;Claw&lt;/strong&gt;, and &lt;strong&gt;Triple Strike&lt;/strong&gt; allows it to make
-three of those against different targets. If there’s only one foe in range, it
-will use its &lt;strong&gt;Earthy Maw&lt;/strong&gt; instead since it does about double the damage of a
-claw strike.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the xorn can &lt;strong&gt;Submerge&lt;/strong&gt;, partially burying itself and
-gaining a +2 bonus to AC until it moves. When it’s missed by a melee attack, it
-can &lt;strong&gt;retreat&lt;/strong&gt;, burrowing its speed as a reaction.&lt;/p&gt;
-
-&lt;p&gt;In a fight, a xorn will jump from inside a wall or floor, submerge for the AC
-bonus, and claw or bite the party’s squishies. If a missed attack doesn’t make
-the creature retreat automatically, it will do so on its next turn so it can
-repeat this pattern. Earth Glide makes it extremely mobile despite its poor
-speed, particularly in an underground environment.&lt;/p&gt;
-
-&lt;h2 id=&quot;diadmondhide-xorn&quot;&gt;Diadmondhide Xorn&lt;/h2&gt;
-
-&lt;p&gt;This is an older or simply well-fed specimen, who lives in a place of the
-Elemental Chaos where its preferred food is more plentiful. Its hide glitters
-with the minerals it has ingested.&lt;/p&gt;
-
-&lt;p&gt;Diamondhide xorns are Large in size, and are Level 16 Skirmishers with 160
-HP. They have all the same attacks and abilties as the basic xorn, with bigger
-numbers. They also have a new attack named &lt;strong&gt;Undermine&lt;/strong&gt; (recharge 5+) in which
-the xorn burrows its speed and attacks a creature it passes under. This targets
-Reflex, does heavy damage, and restrains the target (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;sample-encounters-and-final-impressions&quot;&gt;Sample Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The sample encounter is level 9, and consists of a pair of xorns in cahoots with
-a troop of duergar.&lt;/p&gt;
-
-&lt;p&gt;I’m happy to see xorns here. Their weird looks make them an iconic D&amp;amp;D monster
-in my mind. A nice way to close the book.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/05/xorn.html</guid>
         
         <category>dnd4</category>
         
