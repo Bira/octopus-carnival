@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-mm3-4e-catoblepas.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I first saw the Catoblepas in the AD&D 2nd Edition Monster Manual, and I was
 very surprised to learn it's not a "lolrandom" original monster. It's a
 legendary creature from Ethiopia, described by Roman historians Pliny the Elder
@@ -109,3 +120,5 @@ negative HP early.
 
 I used to dismiss these monsters outright because I found the name "catoblepas"
 ridiculous, but their 4e incarnation has really evocative lore! I'm a fan now.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
