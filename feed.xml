@@ -6,9 +6,234 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 May 2022 18:01:49 +0000</pubDate>
-    <lastBuildDate>Sun, 22 May 2022 18:01:49 +0000</lastBuildDate>
+    <pubDate>Mon, 23 May 2022 20:23:06 +0000</pubDate>
+    <lastBuildDate>Mon, 23 May 2022 20:23:06 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>One Post Cyberpunk!</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/800517c403ee40194b3e22356dfe823a.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    &lt;a href=https://www.deviantart.com/hidrico/art/Style-Over-Substance-Cyberpunk-2077-802599843&gt;
+      By Hidrico on DeviantArt
+    &lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As I mentioned back in my &lt;a href=&quot;/octopus-carnival/2022/05/19/cp-red-review.html&quot;&gt;Cyberpunk RED review&lt;/a&gt;, I felt the game didn’t
+quite clear my “Threshold of GURPS”. This particular term is new but the idea
+itself is almost exactly 5 years old now. I first mentioned it in &lt;a href=&quot;/octopus-carnival/2017/05/21/to-gurps-or-not-to-gurps.html&quot;&gt;this
+post&lt;/a&gt;, where I discussed what makes me want to reach for GURPS in an
+adaptation and what makes me look for other systems.&lt;/p&gt;
+
+&lt;p&gt;CP RED’s native system is fine! The reason I say it didn’t “clear the threshold”
+is that it’s exactly the sort of system and setting described in the “When to
+GURPS” section of that 2017 post. It worries about modeling specific concrete
+actions, and it worries about the details of how they’re executed. In addition
+to this, the system itself doesn’t have any mechanical novelties that aren’t
+reproducible in GURPS.&lt;/p&gt;
+
+&lt;p&gt;So yeah, while I’d happily play the native system in a one-shot or something
+like that, given enough time to prepare I’d prefer to adapt its setting to
+GURPS. Talking about how I’d do it is an excellent excuse for an Octopus
+Carnival post. It helps that “Cyberpunk” has been one of the genres GURPS set
+out to support since its beginnings.&lt;/p&gt;
+
+&lt;h2 id=&quot;part-1-high-concept&quot;&gt;Part 1: High Concept&lt;/h2&gt;
+
+&lt;p&gt;Cyberpunk-the-setting is actually a fairly broad place that supports a large
+variety of campaigns… but most people seem to be fans of that fairly narrow
+slice of stylish street mercs pulling heists for money and/or personal
+reasons. I’m not gonna lie, I’m like most people in that regard and so I’m going
+to focus on that.&lt;/p&gt;
+
+&lt;p&gt;Though the setting has three distinct “eras” now, they all look and feel mostly
+the same. The main changes are to the map of Night City and the specific reason
+why Johnny Silverhand is raiding Arasaka Tower this time. I think we might be
+able to condense that long timeline down a bit.&lt;/p&gt;
+
+&lt;p&gt;I’m also going to mix in my personal preferences: I believe cyberpunk doesn’t
+&lt;em&gt;have&lt;/em&gt; to be a dystopia. This is something you might have gathered from my
+previous posts on the subject. I find a lot of cyberpunk settings tend to
+confuse “things are bad” with “things can never get better”, and I don’t want to
+do that here. For Cyberpunk Red specifically, this ends up resulting into a game
+that tells players simple survival is the most they can expect in the same book
+where it touts the epic exploits of Bartmoss and Silverhand. I want to treat
+them as “iconic” characters in the modern sense, which means that if those
+clowns can do all this, so can the PCs.&lt;/p&gt;
+
+&lt;p&gt;So here we are: a game about stylish street mercs in the neon-lit future, living
+in the fictional Night City. They get into noir-ish situations for money, and
+see them through for personal reasons. Hostile factions are mostly corporations,
+crime syndicates, or violent themed gangs with corporate ties.&lt;/p&gt;
+
+&lt;p&gt;Though PCs often fight for personal stakes they can still end up having a big
+impact in the setting&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. PCs who are smart about it and make use of collective
+action can make big, lasting, positive change, but even more traditional “band
+of badasses” actions will still do something. Not every campaign has to be about
+this, but the play style should be possible and supported.&lt;/p&gt;
+
+&lt;h2 id=&quot;part-2-time-and-place&quot;&gt;Part 2: Time and Place&lt;/h2&gt;
+
+&lt;p&gt;As mentioned above, it’s Night City in the neon-lit cyber future. Feel free to
+use the present date that suits you best. Set it in one of the official dates of
+the original game. Set it in 2100 just to spite Transhuman Space. Make it 20XX,
+21XX, 22XX, whatever. Or be like William Gibson and never even mention calendar
+years. The backstory follows the same general lines of the original, using
+relative dates.&lt;/p&gt;
+
+&lt;p&gt;Fifty-something years ago the US government descended further into fascist
+stupidity than ever before&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. Over the next few decades its economy and
+environment crashed big time, the entire West Coast seceded, and the government
+was either powerless to stop the rise of the megacorps or was actively helping
+them along.&lt;/p&gt;
+
+&lt;p&gt;Twenty-something years ago Johhny Silverhand performed his one and only raid on
+Arasaka Tower, which is more or less a combination of the events from the 2013
+and 2023 raids in the original chronology. Arasaka’s nuke blows up, and the
+political and literal fallout from this causes heavy backlash against megacorps
+in general all over the world. Though many are still around, they can no longer
+do whatever the fuck they want without fear of consequence.&lt;/p&gt;
+
+&lt;p&gt;Our narrative present is a blend of CP RED and 2077. Night city rebuilt enough
+to leave “survival mode”, but it’s still something of a crime capital where the
+corps have lots of influence and habitually pay those themed gangs to do their
+dirty work. It also has a relatively large “edgerunner” culture with its own
+honor codes and a surprisingly large propensity to take jobs from people who are
+neither corp- nor gang- affiliated.&lt;/p&gt;
+
+&lt;p&gt;There is no shortage of past wars to be a veteran of. The most recent one was
+the Corp War that finally died down let’s say 5 years ago. It featured lots of
+big corps going at each other, and lots of governments cracking down on them for
+it.&lt;/p&gt;
+
+&lt;p&gt;Cyberware is common enough that most people sport at least a bit of
+“fashionware” from their late teens onwards. Most people won’t cut off healthy
+limbs in order to replace them, but there are plenty of maimed veterans and
+victims of disease for whom cybernetic replacements are an appealing
+prospect. Implanted augmentations are somewhat more common, with the most
+popular by far being a GitS-style “cyberbrain” implanted computer.&lt;/p&gt;
+
+&lt;p&gt;Guns and armored clothing are common and relatively easy to get in Night
+City. This is not generally a &lt;em&gt;good&lt;/em&gt; thing, and contributes to the city’s still
+dismal violence statistics.&lt;/p&gt;
+
+&lt;p&gt;Advertisements are nowhere near as aggressive and explicit as they are in
+CP 2077. The real world is bad enough on that front that you don’t need to
+further “enhance” it to make a point.&lt;/p&gt;
+
+&lt;p&gt;Rache Bartmoss did not “destroy” the NET, because we don’t need to justify rules
+changes with an in-setting event. Feral AI gods running on mutated data centers
+is too good an image to pass up, though, so those are still there.&lt;/p&gt;
+
+&lt;h2 id=&quot;part-3-characters-and-their-stuff&quot;&gt;Part 3: Characters and Their Stuff&lt;/h2&gt;
+
+&lt;p&gt;The core of our rules is going to be GURPS Action, because this is a game about
+action heroes. The default is that players get to build their PCs using the
+250-point archetypes from GURPS Action 1. This makes them experienced
+edgerunners. Greenhorns would use the lower-point templates from Specialists.&lt;/p&gt;
+
+&lt;p&gt;Our default ruleset is the one from GURPS Action 2, with the main changes to
+that being due to the science fiction elements we’re introducing.&lt;/p&gt;
+
+&lt;h3 id=&quot;gear-and-cyberware&quot;&gt;Gear and Cyberware&lt;/h3&gt;
+
+&lt;p&gt;The base tech level is 9, though TL8 gear is still widely available. We’re
+either not that far into the future or it’s simply easier to print at home than
+the more advanced stuff.&lt;/p&gt;
+
+&lt;p&gt;Computers and biotech are at TL10. You can run a mind emulation from a
+portable system, and miraculous speed-healing drugs are available. Implants are
+drawn from Ultra-Tech and Bio-Tech and are mostly TL9, though some TL10 things
+that appear in the CP books would also be available.&lt;/p&gt;
+
+&lt;p&gt;Cyberware &lt;em&gt;does not&lt;/em&gt; inherently erode your humanity. Not even if you replace
+your healthy bits with chrome that’s better than human standard. We use the
+usual GURPS mechanics of making implants cost character points at character
+creation and both points and money afterwards.&lt;/p&gt;
+
+&lt;p&gt;Any template can spend its discretionary points on cyberware from Ultra-Tech or
+implants from Bio-Tech. This means most PCs might have one or two implants to
+start with, though having none is also a valid choice. Campaigns where the PCs
+are meant to start out chromed to the gills might give them 25 or 50 extra
+points to spend on starting cyberware.&lt;/p&gt;
+
+&lt;h3 id=&quot;netrunning&quot;&gt;Netrunning&lt;/h3&gt;
+
+&lt;p&gt;For hacking, I want a streamlined system. The one from Pyramid #3/21 is a good
+start, since one of its goals is to prevent the isolation from the classic
+“dungeon crawl” system of CP 2020. However, I want to rely even less on virtual
+reality and be more like Ghost in the Shell or CP 2077.&lt;/p&gt;
+
+&lt;p&gt;A prospective hacker needs a Neural Interface Implant of some sort (UT,
+p. 216). A &lt;em&gt;cyberdeck&lt;/em&gt; is either a Computer Implant (Complexity 5, UT p. 215) or
+a small computer (Complexity 6, UT p. 22) with a cable jack and a tiny radio
+communicator, but without any built-in terminal. The “default” interface tier is
+“Augmented Reality”, where the hacker sees the necessary interfaces alongside
+the physical world. It’s possible to go “Full Immersion”, which is faster but
+leaves the character effectively unconscious in the real world.&lt;/p&gt;
+
+&lt;p&gt;Characters running AR have a -2 penalty in opposed tests against characters
+running Full Immersion. This is the only game effect, so it’s only worth giving
+up your physical senses when you run into an immersed enemy hacker or an enemy
+AI (which always counts as immersed). Programs and skills are the same as in the
+Pyramid article.&lt;/p&gt;
+
+&lt;p&gt;The biggest change from the Pyramid article is in level design. Generally
+speaking, “interesting” hackable servers and networks are not directly connected
+to the public Internet, and the hacker PC must be on-site to access them. The
+smallest and most common target is a single device with a basic firewall,
+usually something like a security camera or an automatic door.&lt;/p&gt;
+
+&lt;p&gt;Sites with better security link their devices into a slightly larger
+network. This is a bit more similar to the design examples of the Pyramid
+article, but remember not to make them too large. Such a network might encompass
+all security devices in a given floor. No connecting through a megacorp’s
+top-secret research server through the vending machines in the lobby!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;People&lt;/em&gt; might also be a valid target for hacking, if they have those
+nearly-ubiquitous computer implants. The implant can have any defenses that
+could be installed in a computer of the same Complexity and usually contains at
+least a basic firewall. Overcoming those defenses might allow netrunners to
+“jam” the target’s senses with spurious sensory data or even run the Damage
+program. Savvier opposition might link their internal computers into a more
+secure network overseen by a friendly hacker, or just turn the their wi-fi off
+entirely if it doesn’t confer any combat benefit to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;And there you have it. That’s enough to play your classic edgerunners in the
+Cyberpunk 2020/RED/2077 setting. Any of the Screamsheets from 2020 or RED should
+be readily adaptable, since they have little in the way of stats to begin
+with. The gigs and side jobs from 2077 also provide plentiful inspiration and
+material for tabletop adventures, and that game’s main plot gives you an idea of
+what the sort of “high impact” adventure that leaves a crater looks like. You
+might need a bit more thought to devise adventures about organizing collective
+action, but they’re also quite possible.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Possibly leaving a big crater. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;If you’re using a 2077 date, that’s Trump’s thankfully fictional second
+mandate starting in 2020. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/23/one-post-cyberpunk.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/23/one-post-cyberpunk.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk-red</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Catoblepas</title>
@@ -1400,70 +1625,6 @@ monsters. I kinda like the lore of temple guardians, though.&lt;/p&gt;
         <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/05/04/ape.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/04/ape.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Introduction</title>
-        <description>&lt;p&gt;As I write this, I’ve just finished writing all of the articles of my &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;Let’s
-Read series on the Monster Manual 2&lt;/a&gt;. So now I’m going to start on the
-Monster Manual 3!&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 3 is obviously the third big monster book for Dungeons &amp;amp;
-Dragons 4th Edition, and it was published in June 2010, about a year after the
-MM2.&lt;/p&gt;
-
-&lt;p&gt;A lot of the stuff I’ve written on the intro to the MM2 linked above also
-applies to the MM3. Monster roles remain the same, as does the gradation that
-goes from Minion to Regular to Elite to Solo. The encounter design system is the
-same as well.&lt;/p&gt;
-
-&lt;p&gt;Some things have changed dramatically, though! While you still have the lore
-tables with skill DCs, the surrounding flavor text has gotten a lot bigger,
-replacing the minimalist sentences of past books with larger paragraphs written
-in a more dramatic tone. The extra space taken up by this text means we no
-longer have sample encounters.&lt;/p&gt;
-
-&lt;p&gt;The stat blocks themselves also changed a lot, with monster abilities separated
-and listed according to the type of action they use (passive traits, standard,
-move, minor, triggered, always in that order).&lt;/p&gt;
-
-&lt;p&gt;Last but not least, the math for basic monster numbers has finally reached its
-final, fully fixed form. Attacks, defenses, HP and average damage all follow the
-basic formula in the legendary &lt;a href=&quot;http://blogofholding.com/?p=512&quot;&gt;Monster Manual 3 in a Business Card&lt;/a&gt;
-post. This updated math was also published as an errata update to the Dungeon
-Master’s Guide, but the Business Card has it in even more condensed
-form. Chronologically, this is the first book where you wouldn’t need to apply
-any blanket fixes to monster damage.&lt;/p&gt;
-
-&lt;p&gt;If you were following my Let’s Read posts while reading the actual books, you’ll
-be familiar with all of these changes from the Monster Vault, which I read in
-parallel with the first MM &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt;. The MV would be published in November
-2010, updating the most “iconic” monsters from the first two books to the new
-format and collecting some from this one as well.&lt;/p&gt;
-
-&lt;p&gt;The Monster Vault would in turn be followed by “Monster Vault: Threats to the
-Nentir Vale”, the final monster book I intend to cover in my readings. But
-that’s still a ways away. For now, we look to the MM3.&lt;/p&gt;
-
-&lt;p&gt;This book has monsters of all levels, but focuses a bit more on the higher
-end. The index in my PDF copy is a little wonky because it lists each individual
-stat block in alphabetic order, but I’ll still read them in the order in which
-the larger entries appear.&lt;/p&gt;
-
-&lt;p&gt;The changes in math also mean that monsters are much less likely to have healing
-powers. Leader monsters from the MM3 are much more likely to provide combat
-buffs than to heal their allies.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/04/23/mm3-intro.html</guid>
         
         <category>dnd4</category>
         
