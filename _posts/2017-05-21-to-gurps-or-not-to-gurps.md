@@ -89,10 +89,10 @@ that they have a different focus.
 
 GURPS bases all of its numbers in real-world measurements. Powers have ranges in
 yards or meters, an attack's damage is based on the force behind it, and so
-on. Therefore, stories where characters have fuzzily-defined skills and powers
-are hard to pin down. If your character's specific capabilities are defined more
-by the needs of the story rather than by anything measurable in-world, it would
-be best to use a system that supports this.
+on. Therefore, it has trouble modeling tories where characters have
+fuzzily-defined skills and powers. If your character's specific capabilities are
+defined more by the needs of the story rather than by anything measurable
+in-world, it would be best to use a system that supports this.
 
 The sort of science fiction that has characters switch bodies a lot is also hard
 to model in GURPS, whose rules assume its characters will usually not undergo
