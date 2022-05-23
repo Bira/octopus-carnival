@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "One Post Cyberpunk!"
+image: /assets/800517c403ee40194b3e22356dfe823a.jpg
+description: Adapting Cyberpunk RED / 2077 to GURPS in one post
 tags:
     - gurps
     - cyberpunk-red
