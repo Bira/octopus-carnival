@@ -6,9 +6,151 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 May 2022 21:01:25 +0000</pubDate>
-    <lastBuildDate>Mon, 23 May 2022 21:01:25 +0000</lastBuildDate>
+    <pubDate>Tue, 24 May 2022 14:38:36 +0000</pubDate>
+    <lastBuildDate>Tue, 24 May 2022 14:38:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Cave Fisher</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-cambion-chained.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I believe Cave Fishers originated in AD&amp;amp;D, one of the many examples of “cave
+ceiling fauna” in that edition. Your group might be on the lookout for
+darkmantles, spiders and piercers, but they’ll never see the cave fisher
+coming. This is their 4e debut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Cave fishers are nonsapient predatory arthropods about the size of an adult
+human. They’re entirely natural and mundane, by the standards of D&amp;amp;D. They hunt
+by hiding in cave ceilings, and pulling prey from the ground using either sticky
+strands or spear-like appendages.&lt;/p&gt;
+
+&lt;p&gt;As the name implies, cave fishers hang out underground. They prefer caves with
+high ceilings and plenty of ledges, where they make their nests. They organize
+themselves in loose collectives, and newly-mated pairs fly out to look for an
+empty ledge to nest in.&lt;/p&gt;
+
+&lt;p&gt;The two varieties of cave fisher presented here aren’t different species,
+they’re different sexes: anglers are female, and spikers are male. Anglers lay
+eggs and watch the nest, hunting only when prey wanders nearby. Spikers range
+farther out to look for food.&lt;/p&gt;
+
+&lt;p&gt;Cave fishers can’t usually be tamed, but people tend to use meat-based bait to
+lure them to caves they want protected and to distract them when passing through
+those caves. Hobgoblins sometimes capture fisher eggs and train them from
+hatching to serve as living artillery.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Adult cave fishers are Medium Natural Beasts. Spawn old enough to be a threat
+are Small. They have darkvision, a ground speed of 6 and a climb speed of 5 with
+Spider Climb (5 and 4 for the spawn).&lt;/p&gt;
+
+&lt;h3 id=&quot;cave-fisher-spawn&quot;&gt;Cave Fisher Spawn&lt;/h3&gt;
+
+&lt;p&gt;Fisher spawn lead a stressful existence from very early on. A weak individual is
+likely to be devoured by its siblings if they get hungry enough.&lt;/p&gt;
+
+&lt;p&gt;These Small spawn are Level 2 Minion Brutes. They attack with their &lt;strong&gt;pincers&lt;/strong&gt;
+and do extra damage against immobilized, restrained, or helpless targets.&lt;/p&gt;
+
+&lt;h3 id=&quot;cave-fisher-angler&quot;&gt;Cave Fisher Angler&lt;/h3&gt;
+
+&lt;p&gt;This adult female tends to stick close to the nest, and rely on its ledge for
+concealment. To hunt, she lowers a sticky filament to just above head height of
+the passing prey, and snaps it around the prey’s neck when they pass
+underneath.&lt;/p&gt;
+
+&lt;p&gt;Anglers are Level 3 Lurkers with 37 HP. They have the &lt;strong&gt;Sniper&lt;/strong&gt; trait, which
+ensures they stay hidden if they make a ranged attack from concealment and miss.&lt;/p&gt;
+
+&lt;p&gt;This is useful because their &lt;strong&gt;Filament Strangle&lt;/strong&gt; counts as a ranged attack! It
+has range 5, targets Reflex, and though its initial damage is weak it pulls the
+target 3 squares and restrains them (save ends). The pull can be vertical, and
+the target can end that movement suspended in midair. This effect can be
+sustained with standard actions in subsequent rounds, dealing automatic damage
+to the target and pulling them again.&lt;/p&gt;
+
+&lt;p&gt;Aside from passing the save, there are few options from escaping the
+filament. The victim can teleport or be teleported, which frees them
+automatically; or one of their allies can target the filament with an
+attack. The filament has the same defenses as the angler, and hitting it frees
+the victim but deals no damage to the beast itself.&lt;/p&gt;
+
+&lt;p&gt;If an angler does get into melee range of a PC, it can also use its basic
+&lt;strong&gt;pincer&lt;/strong&gt; attack, which does average damage and has no special effects.&lt;/p&gt;
+
+&lt;p&gt;It’s likely that the PCs will only realize an angler is hunting them when the
+first victim gets grabbed by a filament. And once that happens it can stay in
+full cover atop that ceiling ledge until it has to peek out to try and grab
+someone else!&lt;/p&gt;
+
+&lt;h3 id=&quot;cave-fisher-spiker&quot;&gt;Cave Fisher Spiker&lt;/h3&gt;
+
+&lt;p&gt;Spikers are the males of the species. Instead of producing a single strand of
+filament, they can spit small tangles of it at greater ranges. These either
+harden into spikes, or envelop a victim and begin contracting. The creature uses
+these techniques to kill its prey and drag the carcass back to its nest.&lt;/p&gt;
+
+&lt;p&gt;Spikers are Level 3 Artillery with 37 HP. They have the same Sniper trait as the
+angler, and a &lt;strong&gt;Camouflage&lt;/strong&gt; trait that gives them +2 to defenses against ranged
+and area attacks.&lt;/p&gt;
+
+&lt;p&gt;Their basic attacks are a &lt;strong&gt;pincer&lt;/strong&gt; in melee, and a &lt;strong&gt;filament spike&lt;/strong&gt; at
+range. Those contracting filaments are represented by the &lt;strong&gt;Filament Wrap&lt;/strong&gt;
+attack (recharge 5+), which does no immediate damage but immobilizes the target
+and inflicts 5 ongoing damage (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Spikers tend to focus their fire on a single victim, since their instinct is to
+kill it quickly and make off with the body.&lt;/p&gt;
+
+&lt;h3 id=&quot;cave-fisher-line-spiker&quot;&gt;Cave Fisher Line Spiker&lt;/h3&gt;
+
+&lt;p&gt;Hobgoblins that manage to capture a batch of cave fisher eggs like to use a
+combination of magic and their ancient beast-taming techniques to turn them into
+weapons of war. This results in a specimen that’s less robust than a wild
+spiker, but which can follow commands and fire in formation to support the
+troops.&lt;/p&gt;
+
+&lt;p&gt;Like Spikers are Level 4 Minion Artillery. They have the usual &lt;strong&gt;pincer&lt;/strong&gt; melee
+attack, and their basic ranged attack is a &lt;strong&gt;slowing spike&lt;/strong&gt; that does a bit of
+damage and slows for a turn. Once per encounter they can use a &lt;strong&gt;Toppling
+Spike&lt;/strong&gt; that deals a bit more damage and knocks prone. Since they’re minions,
+this should be their first attack. Line spikers want to stay far away from the
+front lines and will likely run away rather than engage the PCs in melee.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These cave fishers have enough unique mechanics to distinguish themselves from
+other “ceiling fauna”. Their low level makes it likely they’ll be the first such
+fauna the PCs meet. They can also inhabit the Underdark, but you might want to
+boost their levels if you want to place them there.&lt;/p&gt;
+
+&lt;p&gt;Since they’re regulars, your PCs shouldn’t run into lone fishers, at least not
+as a full combat encounter. You can make an “all-wildlife” encounter with 2-3
+mated pairs at once, or with 1 mated pair and other opportunistic underground
+predators. Line spikers, of course, will always be accompanied by squads of
+goblinoids including at least one beast tamer.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/24/cave-fisher.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/24/cave-fisher.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>One Post Cyberpunk!</title>
@@ -1500,131 +1642,6 @@ this point on.&lt;/p&gt;
         <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/05/04/apocalypse-spell.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/04/apocalypse-spell.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Apes</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-ape.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Great apes are real world animals, and they’ve also been in D&amp;amp;D pretty much
-since the beginning. This MM3 entry is the first I’ve seen them in 4e, though by
-this point in the edition we might have gotten stats for them in some other
-non-Monster Manual publication.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The MM3 doesn’t really try to model real-world great apes. Their depiction seems
-more inspired by pulp stories and the Jungle Book.&lt;/p&gt;
-
-&lt;p&gt;D&amp;amp;D great apes are natural animals, and have inhabited the world’s jungles since
-the dawn of time. Some revere them as manifestations of the primal spirits,
-others enslave them as laborers and gladiators. Goblins kidnap young apes and
-raise them as guardians. Other humanoids might use them as slave labor, and some
-spellcasters enslave them with magic to use as bodyguards or gladiators.&lt;/p&gt;
-
-&lt;p&gt;In the wild, great apes are very territorial and fiercely defend their homes
-from intruders using surprisingly sophisticated teamwork. Groups of apes are
-usually led by a “silverback”, a larger and older male who fights even more
-fiercely than the others to protect his family.&lt;/p&gt;
-
-&lt;p&gt;PCs might meet a group of apes when traveling through jungle terrain,
-particularly mountainous jungle. Communication is likely to be difficult unless
-they have a druid or another primal character with them. If they do, it might be
-possible to convince the apes to stand down. If they don’t it’s a fight, though
-I guess the apes in this case will be trying to drive the PCs off rather than
-kill them. Apes being used as attack beasts by sapient villains will usually
-fight to kill, though.&lt;/p&gt;
-
-&lt;p&gt;You also have the slightly less natural Ape Temple Guardians, who a long time
-ago used to be sapient humanoids but were twisted into their current form by
-some ancient curse. Now they make their homes in certain ruined temples,
-compelled to guard their treasures. Unlike natural apes, temple guardians are
-carnivorous. They fight to kill and will usually eat dead intruders, leaving
-their bones lying around as warnings.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;All the apes depicted here are Medium Natural Beasts. They have low-light
-vision, and a climb speed (whose value varies per stat block). Their signature
-trait is &lt;strong&gt;Swift Climber&lt;/strong&gt;, which makes them immune to opportunity attacks when
-climbing. Needless to say, be sure to include plenty of climbing opportunities
-in combat encounters against apes.&lt;/p&gt;
-
-&lt;h3 id=&quot;great-ape&quot;&gt;Great Ape&lt;/h3&gt;
-
-&lt;p&gt;This “basic model” is a Level 4 Skirmisher with 55 HP. It has a ground speed of
-7 and a climb speed of 6. They don’t have Spider Climb, but I’d be amenable to
-letting them use their climb speed to brachiate through the forest canopy.&lt;/p&gt;
-
-&lt;p&gt;Great apes fight with &lt;strong&gt;Slams&lt;/strong&gt; and they can also attack &lt;strong&gt;On The Run&lt;/strong&gt;, which
-allows them to shift or climb half their speed and make a slam attack at any
-point during the movement.&lt;/p&gt;
-
-&lt;p&gt;They can also use a &lt;strong&gt;Felling Blow&lt;/strong&gt; (recharge 6+), which allows them to make
-two slam attacks against the same target. If both hit, the target also falls
-prone.&lt;/p&gt;
-
-&lt;p&gt;Great apes should rarely stand still when fighting - it’s On The Run all the way
-with them. The exception is when they stop a bit to use Felling Blow.&lt;/p&gt;
-
-&lt;h3 id=&quot;silverback-ape&quot;&gt;Silverback Ape&lt;/h3&gt;
-
-&lt;p&gt;Silverbacks don’t run around. Their goal is to be a very visible and very
-intimidating threat, drawing all the attention and allowing their non-combatant
-family members to escape, and give their fellow combatants room to
-maneuver. They’re larger than regular ape but still Medium, and are Level 5
-Brutes with the Leader keyword. Their speed is 6 on the ground or 4 while
-climbing.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Slams&lt;/strong&gt; do heavy damage and make the target grant combat advantage for a
-turn. They can sometimes &lt;strong&gt;Fling&lt;/strong&gt; (recharge 6+) a creature away, dealing even
-more damage than the slam, pushing them 3 squares, and knocking them prone.&lt;/p&gt;
-
-&lt;p&gt;Finally, once per encounter silverbacks can use &lt;strong&gt;Chest Beat&lt;/strong&gt; as a minor
-action, which gives all beast allies within 5 squares a +2 bonus to attacks for
-a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;ape-temple-guardian&quot;&gt;Ape Temple Guardian&lt;/h3&gt;
-
-&lt;p&gt;Temple Guardians are Level 6 Soldiers with 75 HP, a ground speed of 7, and a
-Climb Speed of 5.&lt;/p&gt;
-
-&lt;p&gt;They fight with &lt;strong&gt;Clubs&lt;/strong&gt;, which deals average damage and knocks the target
-prone on a hit. &lt;strong&gt;Swaying Strike&lt;/strong&gt; allows them to make a club attack and shift 3
-squares. And then can also &lt;strong&gt;Feast&lt;/strong&gt; on a prone target, dealing light damage but
-gaining 10 temporary HP.&lt;/p&gt;
-
-&lt;p&gt;Not only do these apes use weapons, they also coordinate really well. They’ll
-try to surround the PCs and avoid becoming isolated from each other. If a PC
-gets too close to whatever they are protecting, they’ll focus fire on that PC.&lt;/p&gt;
-
-&lt;p&gt;You can combine them with regular great ape stat blocks for a bit more
-variety. Story-wise they’d all be temple guardians. They might also be under
-control of a naga or another eternal guardian who was responsible for cursing
-them in the first place.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Normal great apes have too much of a “pulp gorilla” vibe for me to enjoy them as
-monsters. I kinda like the lore of temple guardians, though.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/05/04/ape.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/04/ape.html</guid>
         
         <category>dnd4</category>
         
