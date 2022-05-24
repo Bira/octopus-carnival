@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-cambion-chained.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I believe Cave Fishers originated in AD&D, one of the many examples of "cave
 ceiling fauna" in that edition. Your group might be on the lookout for
 darkmantles, spiders and piercers, but they'll never see the cave fisher
@@ -66,9 +77,9 @@ to the target and pulling them again.
 
 Aside from passing the save, there are few options from escaping the
 filament. The victim can teleport or be teleported, which frees them
-automatically; or one of their allies can the filament with an attack. The
-filament has the same defenses as the angler, and hitting it frees the victim
-but deals no damage to the beast itself.
+automatically; or one of their allies can target the filament with an
+attack. The filament has the same defenses as the angler, and hitting it frees
+the victim but deals no damage to the beast itself.
 
 If an angler does get into melee range of a PC, it can also use its basic
 **pincer** attack, which does average damage and has no special effects.
@@ -117,10 +128,12 @@ front lines and will likely run away rather than engage the PCs in melee.
 These cave fishers have enough unique mechanics to distinguish themselves from
 other "ceiling fauna". Their low level makes it likely they'll be the first such
 fauna the PCs meet. They can also inhabit the Underdark, but you might want to
-give them a slight level boost if you want to place them there.
+boost their levels if you want to place them there.
 
 Since they're regulars, your PCs shouldn't run into lone fishers, at least not
 as a full combat encounter. You can make an "all-wildlife" encounter with 2-3
 mated pairs at once, or with 1 mated pair and other opportunistic underground
 predators. Line spikers, of course, will always be accompanied by squads of
 goblinoids including at least one beast tamer.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

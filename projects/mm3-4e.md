@@ -29,6 +29,7 @@ entries.
 - C
   - [Cambion][8]
   - [Catoblepas][9]
+  - [Cave Fisher][10]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -40,3 +41,4 @@ entries.
 [7]: {{ "/2022/05/20/beholder.html" | relative_url }}
 [8]: {{ "/2022/05/22/cambion.html" | relative_url }}
 [9]: {{ "/2022/05/22/catoblepas.html" | relative_url }}
+[10]: {{ "/2022/05/24/cave-fisher.html" | relative_url }}
