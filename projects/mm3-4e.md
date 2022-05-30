@@ -31,6 +31,8 @@ entries.
   - [Catoblepas][9]
   - [Cave Fisher][10]
   - [Chitine][11]
+  - [Cloaker][12]
+  - [Craud][13]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -44,3 +46,5 @@ entries.
 [9]: {{ "/2022/05/22/catoblepas.html" | relative_url }}
 [10]: {{ "/2022/05/24/cave-fisher.html" | relative_url }}
 [11]: {{ "/2022/05/26/chitine.html" | relative_url }}
+[12]: {{ "/2022/05/30/cloaker.html" | relative_url }}
+[13]: {{ "/2022/05/30/craud.html" | relative_url }}
