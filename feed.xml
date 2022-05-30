@@ -6,9 +6,251 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2022 16:07:27 +0000</pubDate>
-    <lastBuildDate>Thu, 26 May 2022 16:07:27 +0000</lastBuildDate>
+    <pubDate>Mon, 30 May 2022 21:39:43 +0000</pubDate>
+    <lastBuildDate>Mon, 30 May 2022 21:39:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Craud</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-craud.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I think crauds are a new monster. At the very least they’re one I haven’t met
+before.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Crauds are giant crawdads! These crustaceans are about the same height as a
+halfling, but bulkier. They tend to show up in large numbers in maritime and
+coastal areas that have suffered extensive environmental damage such as from
+pollution or overfishing.&lt;/p&gt;
+
+&lt;p&gt;In these circumstances they’re very aggressive and voracious man-eaters, raiding
+ships and villages with terrifying frequency. If a craud “army” shows up at your
+village or town, they’ll keep showing up every few days until either all of them
+or all of you are dead.&lt;/p&gt;
+
+&lt;p&gt;This causes some scholars to speculate that crauds are the vengeance of Melora
+made manifest and sent against those who despoil her coasts. Others defend the
+more mundane explanation that crauds attack sapients because their usual food
+sources have been driven to extiction by the environmental damage. In a world
+where the goddess of nature is real, though, is there any difference?&lt;/p&gt;
+
+&lt;p&gt;I guess non-distressed crauds normally stay mostly underwater and feed on fish
+and such. They’re non-sapient but have good teamwork instincts and a somewhat
+“hive-like” social organization where certain individuals known as Kings can
+direct other crauds via patterns of flashing colors and lights in their
+carapaces.&lt;/p&gt;
+
+&lt;p&gt;Sometimes an unscrupulous sea-borne villain like a pirate captain will manage to
+catch a craud king, torturing it in specific ways to direct its “subjects” to
+attack interesting targets. Coastal druids and clerics of Melora know gentler
+ways to secure the cooperation of these crustaceans.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Crauds are Medium Natural Beasts with the Aquatic keyword. They have darkvision,
+and move at speed 6 on land or in water. The effects of the Aquatic keyword
+haven’t changed, but in this book they’re written down on all the stat blocks as
+a trait: aquatic creatures can breathe underwater, and when fighting underwater
+gain a +2 attack bonus against non-aquatic opponents.&lt;/p&gt;
+
+&lt;h3 id=&quot;craud-impaler&quot;&gt;Craud Impaler&lt;/h3&gt;
+
+&lt;p&gt;Impalers are lithe and quick on their feet, usually arriving at the head of a
+craud “army”. Their job is to tie up the opposition until their stronger cousins
+can arrive. They’re cautious, and become more so after being bloodied,
+preferring to focus on already weakened opponents.&lt;/p&gt;
+
+&lt;p&gt;Impalers are Level 3 Skirmishers with 51 HP. They fight using &lt;strong&gt;claws&lt;/strong&gt; and some
+sort of pointy appendage that allows them to make an &lt;strong&gt;Impale&lt;/strong&gt; attack. It has
+Reach 2, deals light physical damage, and inflicts ongoing 5 damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Impale is an encounter power, and the claws are a bit underpowered too. But the
+&lt;strong&gt;Scissor Claws&lt;/strong&gt; at-will ability allows the impaler to make two claw attacks,
+and if both hit the creature immediately recharges Impale and uses it as a free
+action. That’s a lot of damage if everything hits.&lt;/p&gt;
+
+&lt;p&gt;And when the impaler misses with an attack, &lt;strong&gt;Scuttle&lt;/strong&gt; allows it to shift 2
+squares as a free action. So if that any component of that claw/claw/impale
+combo fails to hit, the beast can try to get away safely.&lt;/p&gt;
+
+&lt;h3 id=&quot;craud-crusher&quot;&gt;Craud Crusher&lt;/h3&gt;
+
+&lt;p&gt;These are the “stronger cousins” the impalers are waiting for. Their claws are
+so huge they can crush a human torso, or bludgeon that human with enough force
+to send them flying. When they arrive, they engage the impalers’ opponents and
+free the impalers up to scuttle around and be skirmishers.&lt;/p&gt;
+
+&lt;p&gt;Crushers are Level 4 Brutes with 70 HP. Their &lt;strong&gt;claws&lt;/strong&gt; do surprisingly little
+basic damage, but a hit with them also grabs the target. Crushers can grab one
+victim at a time, and can inflict automatic damage to them with a minor
+action. Once per encounter they can also use &lt;strong&gt;Hammerclaw&lt;/strong&gt; to backhand a fool,
+dealing heavy damage, pushing 1 square, and knocking them prone.&lt;/p&gt;
+
+&lt;p&gt;If the crusher reduces anyone to 0 HP by any means, &lt;strong&gt;Red Tide&lt;/strong&gt; gives them a +5
+bonus to their next damage roll. This is an incentive for them to target enemies
+previously softened by impalers.&lt;/p&gt;
+
+&lt;h3 id=&quot;craud-king&quot;&gt;Craud King&lt;/h3&gt;
+
+&lt;p&gt;Craud Kings are imposing specimens whose shells are covered in bio-luminescent
+organs. Signals from these organs direct other crauds and boost their morale in
+a fight. There might be some magic involved here, as some of their light
+patterns have an effect on humanoids too. The creature is also a pretty good
+fighter itself, so its ideal location is at the forefront of the melee
+surrounded by loyal subjects. The best way to influence a craud force is to
+influence its king, as discussed in the Lore section.&lt;/p&gt;
+
+&lt;p&gt;Kings are Level 5 Soldiers with the Leader tag and 67 HP. Their lights project
+an aura (3) named &lt;strong&gt;Blood in the Water&lt;/strong&gt;, giving allies a +2 bonus to attack
+bloodied targets.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; do good damage and slide the target 1 square. &lt;strong&gt;Claw Flurry&lt;/strong&gt;
+(recharge 5+) allows them to attack twice, and if a slid enemy ends up adjacent
+to one of the king’s allies, the ally gets to make a free attack too.&lt;/p&gt;
+
+&lt;p&gt;By changing the pattern of its lights, the King can use the &lt;strong&gt;Angler’s Lure&lt;/strong&gt;
+ability as a minor action. This is a charm attack that does no damage, pulls
+the victim 3 squares, and marks it for a turn.&lt;/p&gt;
+
+&lt;p&gt;Finally, when the king is bloodied it prompts all of its allies to act &lt;strong&gt;For The
+King&lt;/strong&gt;. All allies within 5 squares of the wounded sovereign immediately shifts
+4 squares closer to the king and make free attacks against any enemy they end up
+next to.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;If this had been a 3e-style entry, I’d probably have glossed over it
+entirely. Giant crawdads, yawn. The varied stat blocks to make them more
+interesting, as does the “nature’s vengeance” aspect of their lore. That’s a
+handy adventure hook built right into the monster entry.&lt;/p&gt;
+
+&lt;p&gt;I’m sure you could complete the lineup seen here with custom-made artillery
+crauds that fire high-pressure water jets. Or maybe you could use the
+“controlled by pirates” angle to pair them up with pirate musketeers.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/30/craud.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/30/craud.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Cloaker</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-cloaker.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Cloakers are an old D&amp;amp;D standby, originating back in the days of AD&amp;amp;D 1st
+Edition where they belonged to a category of monsters that looked like
+furniture.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The lore introduction for cloakers in this book actually references their
+“gygaxian gotcha” origins! It tells the story of a thief who had the bad habit
+of looting the room while his buddies were still fighting the monsters, and who
+died when the “fine leather cloak” he found in Tsojcanth turned out to be a
+cloaker.&lt;/p&gt;
+
+&lt;p&gt;Aside from that easter egg, though, the “disguised cloak” thing is
+gone. Cloakers are still sneaky, but they prever to fly silently and swoop on
+from above. They’re sapient but profoundly anti-social, and their preferred
+“team-up” method is to follow group of other monsters unnoticed, from a safe
+distance. When those other monsters find tasty prey, the cloaker swoops in to
+grab some of it.&lt;/p&gt;
+
+&lt;p&gt;Cloakers tend to avoid each other except in rare “conclaves”, where a whole
+bunch of them huddle up in a big sphere and exchange news and gossip. Outside of
+that you’ll only find cloakers cooperating if their lives are in imminent risk.&lt;/p&gt;
+
+&lt;p&gt;Whether hunting or defending themselves, cloakers fight by slapping with their
+barbed tails and by enveloping victims with their flexible wings that can choke
+and crush someone to death. They also emit a strange moaning sound that causes
+unnatural fear in those who hear it.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Cloakers are Large Aberrant Magical Beasts with Darkvision. Their ground speed
+is a pitiful 2 (clumsy), but their flight speed is 8. Despite being aberrant
+there’s nothing in their lore linking them to the Far Realm. If you wanted, you
+could make them Natural or give them another any other origin without changing
+anything about their stats.&lt;/p&gt;
+
+&lt;h3 id=&quot;cloaker-ambusher&quot;&gt;Cloaker Ambusher&lt;/h3&gt;
+
+&lt;p&gt;These are your common specimens. They’re Level 12 Lurkers with 95 HP. Those
+&lt;strong&gt;Unnerving Moans&lt;/strong&gt; count as an aura (2) with the Fear keyword, inflicting a -2
+attack penalty on non-deafened enemies caught inside.&lt;/p&gt;
+
+&lt;p&gt;The afore-mentioned &lt;strong&gt;Tail Slap&lt;/strong&gt; is a basic attack doing standard physical
+damage, but the &lt;strong&gt;Envelop&lt;/strong&gt; ability gets lots of text. It’s an attack that
+targets Reflex and does no immediate damage. On a hit the target is grabbed,
+pulled to the cloaker’s space, and becomes blinded, dazed, restrained and takes
+10 ongoing damage. While enveloping a victim, any attacks that hit the cloaker
+do half damage to the monster and half to the victim.&lt;/p&gt;
+
+&lt;p&gt;Since this is a grab, escaping requires an Athletic test against the cloaker’s
+Fortitude (24) or Acrobatics against its Reflex (23). I guess explicit escape
+DCs are a Monster Vault innovation.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, the cloaker ambusher can use &lt;strong&gt;Shadow Shift&lt;/strong&gt; to gain
+concealment for a turn. If it was already concealed by the environment, it gains
+total concealment instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;cloaker-lord&quot;&gt;Cloaker Lord&lt;/h3&gt;
+
+&lt;p&gt;This is a cloaker that managed to live to a more advanced age than most of its
+peers, and has mastered the natural magic that powers its moan. It’s a Level 18
+Controller with 172 HP and all the same abilities as a basic cloaker plus a few
+more moaning-related ones.&lt;/p&gt;
+
+&lt;p&gt;The first one is &lt;strong&gt;Terrifying Moan&lt;/strong&gt; (recharge 4+), a Close Burst 2 targetting
+Will. It does psychic damage and forces the target to move its speed away from
+the monster. This isn’t a push, it’s a move, so the victim could trigger
+opportunity attacks from other monsters during it.&lt;/p&gt;
+
+&lt;p&gt;The second one is &lt;strong&gt;Hypnotic Moan&lt;/strong&gt;. It affects the same area but instead of
+doing damage it stuns for a turn on a hit and dazes for a turn on a
+miss. Thankfully it’s an encounter power, so this will only happen once.&lt;/p&gt;
+
+&lt;p&gt;Both the cloaker’s Unnerving Moan aura and the area covered by its attacks
+increase from 2 to 5 when the creature is bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The Envelop ability is kinda frightening, but I guess my impression of cloakers
+remains the same it’s always been: meh.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/05/30/cloaker.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/30/cloaker.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Chitine</title>
@@ -1342,255 +1584,6 @@ this sort of game.&lt;/p&gt;
         <category>review</category>
         
         <category>cyberpunk-red</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Banderhobb</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-banderhob.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I’m fairly sure Banderhobbs are a new monster. If they appeared before, it was
-in a book I don’t own.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Banderhobbs stuck in my memory as a notable monster when I first read this book,
-and now that I’m here again I can see why. They’re D&amp;amp;D’s take on the Boogeyman,
-the monsters parents use to scare their children. Be good, or a banderhobb will
-come to you in your sleep and take you away.&lt;/p&gt;
-
-&lt;p&gt;This isn’t just a fairy tale, though. Banderhobbs really exist. On moonless
-nights, they set forth from their home in the Shadowfell, cross into the world,
-and look for victims. Once a banderhobb has chosen a victim, it will chase and
-swallow them.&lt;/p&gt;
-
-&lt;p&gt;All banderhobbs live in the same sinister tower in the Shadowfell, under the
-command of an ancient master the book doesn’t describe beyond saying he
-exists. Banderhobbs who catch their victims return there to regurgitate them,
-intact, in front of their master. No one knows what the inside of the tower is
-like, or what happens to the abductees.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three Banderhobb stat blocks here. They’re all Shadow Magical Beasts with
-darkvision and ground/swim speeds of 6. Their levels place them in the
-mid-to-late paragon tier.&lt;/p&gt;
-
-&lt;h3 id=&quot;banderhobb-warder&quot;&gt;Banderhobb Warder&lt;/h3&gt;
-
-&lt;p&gt;This Large monster is a Level 16 Soldier with 160 HP. Warders are the ones that
-most closely resemble a classic horror movie monster or boogeyman. They have an
-uncanny ability to chase their chosen victims, appearing from under beds and
-inside closets, always a step ahead.&lt;/p&gt;
-
-&lt;p&gt;They strike with a Reach 2 &lt;strong&gt;Lonfinger Claw&lt;/strong&gt; or with a &lt;strong&gt;Longfinger Clutch&lt;/strong&gt;
-that’s a little weaker but can target two creatures. Both attacks mark on a hit,
-and the mark lasts for a turn. They can also make a a Range 5 &lt;strong&gt;Lightning
-Tongue&lt;/strong&gt; attack that deals lightning damage and knocks prone on a hit.&lt;/p&gt;
-
-&lt;p&gt;Marked enemies are in for a bad time. When they end their move, the warder can
-teleport up to 10 squares to appear next to them. If they try to make an attack
-that doesn’t target the warder, the warder can &lt;strong&gt;Swallow&lt;/strong&gt; them! This is an
-attack against Fortitude, and the warder can shift 3 squares before making it. A
-hit means the victim is removed from the map, as they’re now inside the warder.&lt;/p&gt;
-
-&lt;p&gt;While in the warder’s gullet, they take ongoing 10 damage. They can make melee
-and close attacks against the warder, or take other non-attack actions. The
-effect lasts until the warder hits 0 HP, or until it spits the victim out as a
-free action.&lt;/p&gt;
-
-&lt;p&gt;There is no save or test that allows an early escape. The warder must die or
-regurgitate for the victim to leave its gullet. I guess the warder could also
-opt not to damage the victim if we want something like what happens in the lore
-story.&lt;/p&gt;
-
-&lt;h3 id=&quot;banderhobb-filch&quot;&gt;Banderhobb Filch&lt;/h3&gt;
-
-&lt;p&gt;Instead of being a big frog thing that swallows people, the filch is a Small
-lizard thing that puts people in a sack and drags them away. It’s a Level 17
-Skirmisher with the Leader keyword and 164 HP.&lt;/p&gt;
-
-&lt;p&gt;Filches fight with their claws, using &lt;strong&gt;Quick Claw&lt;/strong&gt; basic attacks that allow
-them to shift on a hit and weaker &lt;strong&gt;Hook Strikes&lt;/strong&gt; that grab the target. Once
-per encounter they go on a &lt;strong&gt;Distracting Frenzy&lt;/strong&gt;, attacking every enemy in a
-Close Burst 1 and allowing an ally within 5 squares to make a free standard
-action.&lt;/p&gt;
-
-&lt;p&gt;They can attack from further away by hocking &lt;strong&gt;Stinking Gobs&lt;/strong&gt; (Ranged 5) at
-their enemies, or by teleporting with &lt;strong&gt;Shadow Blink&lt;/strong&gt; and making a strong claw
-attack at either end of the movement.&lt;/p&gt;
-
-&lt;p&gt;I would guess being grabbed by a banderhobb filch means being stuffed into the
-sack. It’s a normal grab, so you can still fight back and try to escape, but
-there’s no limit to the number of greabbed creatures. The filch can use &lt;strong&gt;Drag
-Away&lt;/strong&gt; to move its speed and pull all grabbed creatures along with it.&lt;/p&gt;
-
-&lt;h3 id=&quot;banderhobb-abductor&quot;&gt;Banderhobb Abductor&lt;/h3&gt;
-
-&lt;p&gt;We’re back to the “big frog thing” form factor. Abductors are Level 18 Brutes
-with 211 HP. They’re all about swallowing victims as quickly as possible.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Bite&lt;/strong&gt; and they can fling their &lt;strong&gt;Grasping Tongues&lt;/strong&gt;
-out to Range 5. A hit does damage and pulls the victim adjacent to the
-banderhobb, grabbing it. It can use &lt;strong&gt;Swallow&lt;/strong&gt; (recharge 5+) on a grabbed
-victim, which works like the Warder power but as a standard action attack
-instead of a reaction.&lt;/p&gt;
-
-&lt;p&gt;When the abductor is first bloodied, it &lt;strong&gt;Crosses into Shadow&lt;/strong&gt;, disappearing
-from play for a turn and re-appearing 10 squares away. A bloodied abductor can
-use &lt;strong&gt;Gobble&lt;/strong&gt;, which is a stronger bite that also grabs the target &lt;em&gt;and&lt;/em&gt; allows
-an immediate Swallow follow-up, recharging the ability as needed.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Bandehobbs are spooky and evocative. The book text really lays the purple prose
-on thick for them, but I think that works rather well. They’re also a shadow
-creature &lt;em&gt;without&lt;/em&gt; a death theme. They’re neither goth nor undead, which is kind
-of a rarity.&lt;/p&gt;
-
-&lt;p&gt;They pair well with evil fey that have a “nightmare” theme, and that Shadowfell
-tower sounds like a good final dungeon for a Paragon Tier campaign.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/05/09/banderhob.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/09/banderhob.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Arcanian</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-arcanian.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go &lt;a href=&quot;/octopus-carnival/projects/mm3-4e/&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;I don’t remember seeing arcanians anywhere else before, though they do have that
-“late-3e feeling” to them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Wizardry is a craft that demands great patience and care. While a warlock
-“cheats” by making shady deals with dubious entities, a wizard earns every bit
-of power they have. But some wizards have less than great patience and care, and
-try to reach a bit too far beyond their current ability.&lt;/p&gt;
-
-&lt;p&gt;In the vast majority of cases that just results in an embarrassing fizzle, but
-sometimes the magic goes out of control and causes a major accident. Most of
-&lt;em&gt;those&lt;/em&gt; end up turning the caster into a messy stain on the floor, but some are
-worse.&lt;/p&gt;
-
-&lt;p&gt;In these rare cases, the wizard absorbs most of the runaway magic, which kills
-them and animates the corpse. The resulting entity is known as an Arcanian. Its
-sapient and highly intelligent, but utterly consumed by whatever strong emotion
-the wizard felt as they died, further warped by the nature of the magic that
-killed them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Arcanians are Medium Natural Humanoids (Undead). Each is themed around an
-element and an emotion, though ironically they have no particular resistance
-against their own theme element. They have a ground speed of 6 and no special
-senses. They also carry wizardly implements that give them abilities similar to
-that of a PC wizard.&lt;/p&gt;
-
-&lt;p&gt;Their signature ability is &lt;strong&gt;Arcane Surge&lt;/strong&gt;, an encounter power that triggers
-when they hit an enemy with an implement power (anything but their basic melee
-attack). It makes that power deal maximum damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;green-arcanian&quot;&gt;Green Arcanian&lt;/h3&gt;
-
-&lt;p&gt;Green Arcanians are half-melted monstrosities. Acid seeps from their pores, and
-their footsteps leave seared footprints. Their driven by envy and a hatred of
-beauty, which they use acid magic to destroy.&lt;/p&gt;
-
-&lt;p&gt;Green Arcanians are Level 8 Artillery with 67 HP. All of their attacks deal acid
-damage. Their basic melee attack is an &lt;strong&gt;Acid Touch&lt;/strong&gt;, and their basic ranged
-attack an &lt;strong&gt;Acid Bolt&lt;/strong&gt; that also deals a bit of splash damage to enemies
-adjacent to the target. Less often they can cast a &lt;strong&gt;Stream of Acid&lt;/strong&gt; (recharge
-5+) that does heavy damage and inflicts a -2 AC penalty and 5 ongoing acid
-damage (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Their implement power is &lt;strong&gt;Orb of Denial&lt;/strong&gt;, an interrupt which triggers when an
-enemy succeeds on a save and makes them fail the save instead. Thankfully this
-is an encounter power.&lt;/p&gt;
-
-&lt;h3 id=&quot;blue-arcanian&quot;&gt;Blue Arcanian&lt;/h3&gt;
-
-&lt;p&gt;This shivering corpse despises warmth, and believes that people and things can
-remain forever perfect if they’re frozen. As you might imagine, it goes around
-attempting to preserve everything it likes.&lt;/p&gt;
-
-&lt;p&gt;Blue Arcanians are Level 10 Controllers with 105 HP. They move slightly slower
-than normal at Speed 5, and all of their powers deal cold damage.&lt;/p&gt;
-
-&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Frost Staff&lt;/strong&gt; that also pushes 2 squares and
-immobilizes for a turn. They fight at range with at-will &lt;strong&gt;Bolts of Frost&lt;/strong&gt; that
-turn the area surrounding the target into difficult terrain for a turn, and once
-per encounter they can summon a &lt;strong&gt;Swirling Blizzard&lt;/strong&gt; to deal damage over an
-area (half on a miss).&lt;/p&gt;
-
-&lt;p&gt;Their implement power is &lt;strong&gt;Staff of Shielding&lt;/strong&gt;, which once per encounter gives
-them +4 to all defenses against an attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;red-arcanian&quot;&gt;Red Arcanian&lt;/h3&gt;
-
-&lt;p&gt;These eternally burning undead are gripped in the throes of fiery passion or
-red-hot wrath. They want to burn the world and take great pleasure in doing so.&lt;/p&gt;
-
-&lt;p&gt;Red Arcanians are considerably more powerful than the rest: Level 19 Artillery
-with 131 HP. All of their attacks deal fire damage, and they carry wands.&lt;/p&gt;
-
-&lt;p&gt;Their melee basic attack is a &lt;strong&gt;Fiery Touch&lt;/strong&gt;, and their ranged spells will be
-familiar to PC wizards: &lt;strong&gt;Scorching Burst&lt;/strong&gt; is an at-will area attack, and
-&lt;strong&gt;Burning Hands&lt;/strong&gt; is an encounter power that hits a close blast 5 that deals
-heavy damage and pushes 3 squares.&lt;/p&gt;
-
-&lt;p&gt;Their implement encounter power is &lt;strong&gt;Wand of Accuracy&lt;/strong&gt;, which gives them a +4
-bonus to their next attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
-
-&lt;p&gt;Just because liches are the most iconic undead wizards, it doesn’t mean they’re
-the only ones. Arcanians seem like a good monster to use when you want to make
-an adventure themed around wizards who dug too deep.&lt;/p&gt;
-
-&lt;p&gt;You could have a whole ruined academy filled with a variety of them and with
-other supporting undead or summoned extra-planar monsters. It’s easy enough to
-change the ruling element of the stat blocks presented here, or to adjust their
-level so you can have all three in the same dungeon. Maybe there’s a tome or
-artifact in its vaults that the party must recover, or maybe it’s just a place
-they need to pass through on their perilous journey.&lt;/p&gt;
-
-&lt;p&gt;Sprinkle in journal entries that hint at the disaster that destroyed the place,
-and add a big lich with multiple elemental attacks as the “end boss”. And there
-you have it, an instant Dark Souls level for your 4e table.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/05/09/arcanian.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/09/arcanian.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
