@@ -34,6 +34,9 @@ entries.
   - [Cloaker][12]
   - [Craud][13]
 
+- D
+  - [Dark One][14]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -48,3 +51,4 @@ entries.
 [11]: {{ "/2022/05/26/chitine.html" | relative_url }}
 [12]: {{ "/2022/05/30/cloaker.html" | relative_url }}
 [13]: {{ "/2022/05/30/craud.html" | relative_url }}
+[14]: {{ "/2022/06/01/dark-one.html" | relative_url }}
