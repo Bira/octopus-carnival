@@ -17,7 +17,7 @@ It's what happens when a player comes into the roleplaying hobby through a
 specific system and never really considers trying anything else for whatever
 reason. Over time the player's needs change and evolve, but since they always
 stay within the same system they might either end up completely changing it
-through hourse rules, or becoming chronically unhappy with their gaming. What
+through house rules, or becoming chronically unhappy with their gaming. What
 these players never quite get around to doing is adopting a different
 system. I've most often seen this behavior tied to some iteration of D&D, but it
 was also really frequent in Shadowrun.
@@ -43,4 +43,13 @@ game. The 2nd Edition corebook got a very shoddy translation in '94, and I was
 privileged enough to be able to buy and read the English supplements for the
 game. I got a big bunch of them when I went into this UK student exchange thingy
 for a month in '96. And I got into mailing lists and such for the
-English-speaking fan community.
+English-speaking online fan community.
+
+I loved Shadowrun because it broke many of AD&D's default assumptions. No
+classes, no levels, no equipment restrictions[^1]! I soon found out that this
+joy at "breaking free" from D&D was one of the online community's foundational
+pillars. Other players and GMs on those mailing lists just loved to talk about
+
+
+[^1]: Aside from the whole cyberware/magic thing, which I'm going to talk about
+    in another post.
