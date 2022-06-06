@@ -6,12 +6,53 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jun 2022 14:24:02 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jun 2022 14:24:02 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jun 2022 19:44:16 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jun 2022 19:44:16 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title></title>
+        <title>Let's Read the 4e Monster Manual 3: A Note on Fiends</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;This post doesn’t correspond to an entry in the book, but I figured I’d write it
+to explain a few important differences in organization between the MM3 and its
+predecessors.&lt;/p&gt;
+
+&lt;p&gt;The first two Monster Manuals had huge multi-monster entries for the “Three
+Dees”: Demons, Devils, and Dragons. These entries included some general lore
+that applied to all of them, and a huge number of individual stat blocks with
+their own bits of lore. They were a real chore to cover!&lt;/p&gt;
+
+&lt;p&gt;Dragons are still like that, because we’re going to be looking at a whole new
+dragon sub-category here. But the fiends (demons and devils) are organized
+differently.&lt;/p&gt;
+
+&lt;p&gt;This is the third main monster book in the edition. Pretty much everything that
+needed to be said about general demon and devil lore has already been said in
+the previous books, and likely on a few extra supplements that came out
+alongside them. So the demons and devils in this book are all in their own
+individual entries labeled as “Demon, X” and “Devil, Y”. That’s going to make
+them much easier to cover!&lt;/p&gt;
+
+&lt;p&gt;There’s one demon we already covered in the past, the Babau, and for that one
+I’m just going to refer you to the &lt;a href=&quot;/octopus-carnival/2019/11/07/babau.html&quot;&gt;original post&lt;/a&gt; I made a while back. I
+believe every other demon and devil here is new to the Let’s Read project, so
+I’ll cover one entry per post on them.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/06/06/demons-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/06/demons-intro.html</guid>
+        
+        <category>dnd</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Demon, Klurichir</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-demon-klurichir.png&quot;/&gt;
   &lt;figcaption&gt;
@@ -82,48 +123,11 @@ grabbed PCs in a very unfortunate situation. Damaging a grabbed PC is a minor
 action and the demon can still attack them with that high-damage axe.&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 06 Jun 2022 14:24:02 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/06/06/2022-06-06-demon-klurichir.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/06/2022-06-06-demon-klurichir.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: A Note on Fiends</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;This post doesn’t correspond to an entry in the book, but I figured I’d write it
-to explain a few important differences in organization between the MM3 and its
-predecessors.&lt;/p&gt;
-
-&lt;p&gt;The first two Monster Manuals had huge multi-monster entries for the “Three
-Dees”: Demons, Devils, and Dragons. These entries included some general lore
-that applied to all of them, and a huge number of individual stat blocks with
-their own bits of lore. They were a real chore to cover!&lt;/p&gt;
-
-&lt;p&gt;Dragons are still like that, because we’re going to be looking at a whole new
-dragon sub-category here. But the fiends (demons and devils) are organized
-differently.&lt;/p&gt;
-
-&lt;p&gt;This is the third main monster book in the edition. Pretty much everything that
-needed to be said about general demon and devil lore has already been said in
-the previous books, and likely on a few extra supplements that came out
-alongside them. So the demons and devils in this book are all in their own
-individual entries labeled as “Demon, X” and “Devil, Y”. That’s going to make
-them much easier to cover!&lt;/p&gt;
-
-&lt;p&gt;There’s one demon we already covered in the past, the Babau, and for that one
-I’m just going to refer you to the &lt;a href=&quot;/octopus-carnival/2019/11/07/babau.html&quot;&gt;original post&lt;/a&gt; I made a while back. I
-believe every other demon and devil here is new to the Let’s Read project, so
-I’ll cover one entry per post on them.&lt;/p&gt;
-
-</description>
         <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/06/06/demons-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/06/demons-intro.html</guid>
+        <link>https://bira.github.io/octopus-carnival/2022/06/06/demon-klurichir.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/06/demon-klurichir.html</guid>
         
-        <category>dnd</category>
+        <category>dnd4</category>
         
         <category>lets-read</category>
         
