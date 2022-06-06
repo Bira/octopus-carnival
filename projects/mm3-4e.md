@@ -36,6 +36,10 @@ entries.
 
 - D
   - [Dark One][14]
+  - Demons
+    - [Introduction][15]
+    - [Babau][16] (In the Monster Vault Let's Read)
+    - [Klurichir][17]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -52,3 +56,6 @@ entries.
 [12]: {{ "/2022/05/30/cloaker.html" | relative_url }}
 [13]: {{ "/2022/05/30/craud.html" | relative_url }}
 [14]: {{ "/2022/06/01/dark-one.html" | relative_url }}
+[15]: {{ "/2022/06/06/demons-intro.html" | relative_url }}
+[16]: {{ "/2019/11/07/babau.html" | relative_url }}
+[17]: {{ "/2022/06/06/demon-klurichir.html" | relative_url }}

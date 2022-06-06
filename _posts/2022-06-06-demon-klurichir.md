@@ -15,14 +15,16 @@ tags
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the others.
+
 The Abyss is home to several powerful demon lords, each of whom has their own
 ruinous designs on the rest of the universe and is building an army to enact
 those designs. Yet these armies rarely seem to leave the Abyss to start their
 invasions. One of the reasons for this is that the demon lords hate each other
 as much as they hate everything else, and spend much of their time locked in
 eternal bloody warfare. Another one is that you have huge hordes of "unclaimed
-demons" who sit around and smoulder with generic rage, focusing on their own
-immediate concerns instead of larger schemes.
+demons" who prefer to pursue their own personal goals instead of organizing into
+a large force.
 
 Well, it looks like the seed of cosmic evil at the bottom of the Abyss has had
 enough of this lack of focus, so it started producing a special brand of demon
@@ -74,3 +76,5 @@ relatively easy to make klurichirs into elites via the usual rules.
 Mechanically, I like the "no healz" aura and the pincers, which combine to put
 grabbed PCs in a very unfortunate situation. Damaging a grabbed PC is a minor
 action and the demon can still attack them with that high-damage axe.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

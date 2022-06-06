@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][2] to see the rest.
+
 This post doesn't correspond to an entry in the book, but I figured I'd write it
 to explain a few important differences in organization between the MM3 and its
 predecessors.
@@ -32,3 +34,4 @@ believe every other demon and devil here is new to the Let's Read project, so
 I'll cover one entry per post on them.
 
 [1]: {{ "/2019/11/07/babau.html" | relative_url }}
+[2]: {{ "/projects/mm3-4e" | relative_url }}
