@@ -40,6 +40,7 @@ entries.
     - [Introduction][15]
     - [Babau][16] (In the Monster Vault Let's Read)
     - [Klurichir][17]
+    - [Maw Demon][18]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -59,3 +60,4 @@ entries.
 [15]: {{ "/2022/06/06/demons-intro.html" | relative_url }}
 [16]: {{ "/2019/11/07/babau.html" | relative_url }}
 [17]: {{ "/2022/06/06/demon-klurichir.html" | relative_url }}
+[18]: {{ "/2022/06/07/demon-maw.md" | relative_url }}
