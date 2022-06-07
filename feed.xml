@@ -6,9 +6,81 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jun 2022 19:48:47 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jun 2022 19:48:47 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jun 2022 21:29:10 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2022 21:29:10 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Demon, Maw</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-demon-maw.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;There isn’t much to a maw demon. It’s a huge fanged mouth with some extra bits
+attached so it can move to wherever the food is. While most other demons are
+motivated by rage, hatred, or ruinous ambition, these things just want to
+eat. They’re a bit like sharks, drawn to the smell of blood, and will prioritize
+an easy meal over a fight.&lt;/p&gt;
+
+&lt;p&gt;Maw demons are still demons, so they prefer their meals bloody and still
+twitching. If there are none already in that state, they’ll advance on the
+nearest living creature.&lt;/p&gt;
+
+&lt;p&gt;The typical maw demon is rather weak as far as demons go, though it still
+presents a big threat to non-combatants. Those who manage to live longer become
+much stronger and hungrier.&lt;/p&gt;
+
+&lt;p&gt;Maw demons are sapient, but just barely. They don’t really form alliances, but
+stronger demons can bully them into servitude, and even amateur demonologists
+might be able to summon and bind one.&lt;/p&gt;
+
+&lt;h2 id=&quot;maw-demon&quot;&gt;Maw Demon&lt;/h2&gt;
+
+&lt;p&gt;This is a Medium Elemental Humanoid with the Demon tag. It’s a Level 2 Brute
+with 42 HP, darkvision, and a speed of 6.&lt;/p&gt;
+
+&lt;p&gt;The demon’s &lt;strong&gt;snapping jaws&lt;/strong&gt; act like an aura (1) that make all enemies inside
+grant combat advantage. Its basic attack is obviously a &lt;strong&gt;bite&lt;/strong&gt;. It can use a
+move action to perform a &lt;strong&gt;Ravenous Advance&lt;/strong&gt; and shift 5 squares to end
+adjacent to a bloodied enemy.&lt;/p&gt;
+
+&lt;p&gt;Finally, as a demon, it has &lt;strong&gt;Variable Resistance&lt;/strong&gt; and can switch it once per
+encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;greater-maw-demon&quot;&gt;Greater Maw Demon&lt;/h2&gt;
+
+&lt;p&gt;This is mostly just a leveled-up maw demon. It’s a Level 16 Brute with 187 HP
+and correspondingly bigger numbers. Its variable resistance works twice per
+encounter, and  it has a new hability: &lt;strong&gt;Howling Hunger&lt;/strong&gt; targets Will, hits a
+Close Burst 3, does thunder damage, and knocks targets prone. It can only be
+used when the demon is bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Just another demonic brute. Its low level makes it an interesting variation on
+the MM2 dretches, with better math. Their most interesting power is actually the
+Snapping Jaws aura, which makes them pair really well with ranged monsters that
+benefit from combat advantage.&lt;/p&gt;
+
+&lt;p&gt;During the MM2 reading on the RPG.net forum, someone mentioned that these things
+could be abyssal xorns, and it fits really well with their mechanics.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/06/07/demon-maw.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/07/demon-maw.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: A Note on Fiends</title>
@@ -1212,156 +1284,6 @@ ridiculous, but their 4e incarnation has really evocative lore! I’m a fan now.
         <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Cambion</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Cambions made their 4e debut in the Monster Manual and were covered
-&lt;a href=&quot;/octopus-carnival/2019/07/25/cambion.html&quot;&gt;here&lt;/a&gt;. This MM3 entry brings us a few more cambion stat blocks, and an extra
-helping of lore.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The basic lore hasn’t changed: cambions are the direct offspring of a mortal and
-a devil. The first Monster Manual just described the mortal parent as “depraved
-or foolish”, but MM3 gets into a little bit more detail on how that
-happens. It’s about as horrific as you’d imagine.&lt;/p&gt;
-
-&lt;p&gt;The “foolish” mortals are the ones who sign infernal contracts. Many of them
-include “make a baby” as part of the price. The “depraved” ones are cultists,
-but that doesn’t mean the process is enjoyable for them either. The highly
-hierarchical nature of Hell means mortal cultists and lesser devils must
-conceive cambions as commanded by their superiors.&lt;/p&gt;
-
-&lt;p&gt;Whatever their origin story, cambions mature quickly and are soon put to work
-furthering the schemes of their masters. Most of them swear loyalty to Asmodeus
-directly and are set loose upon the world to enact various schemes. Fierna and
-Belial also walk around with a cambion honor guard.&lt;/p&gt;
-
-&lt;p&gt;Cambions associate with lesser devils and mortal diabolists. Those who style
-themselves as leaders might have a retinue of guards and advisors. The advisors
-are sometimes oni or rakshasa, and in that case they’ll be the true power behind
-the throne.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Cambions are Medium Immortal Humanoids with the Devil keyword. They have
-darkvision and fire resistance (which is 10 in all stat blocks in this
-entry). Their wings give them a flight speed of 8 (clumsy), which means they
-fight with their feet on the ground.&lt;/p&gt;
-
-&lt;h3 id=&quot;cambion-wrathborn&quot;&gt;Cambion Wrathborn&lt;/h3&gt;
-
-&lt;p&gt;Despite the name, wrathborn are fairly subtle. They can use magic to appear as a
-mortal version of their natural appearance, and they use this ability to
-infiltrate mortal societies and attain positions of power through intrigue and
-violence. They &lt;em&gt;do&lt;/em&gt; have a short temper, though, and tend to interpret even the
-smallest slight as a grave insult.&lt;/p&gt;
-
-&lt;p&gt;Wrathborn are Level 9 Skirmishers with 100 HP. Their disguise ability is named
-&lt;strong&gt;Wicked Guise&lt;/strong&gt;, and it remains on while the wrathborn is unbloodied. When that
-happens, they assume their true form and project an aura (1) of &lt;strong&gt;Burning
-Anger&lt;/strong&gt;, which deals 5 fire damage to those caught inside.&lt;/p&gt;
-
-&lt;p&gt;They fight a bit like extra-mobile infernal warlocks, using a shortsword and a
-wand. The basic sword attack is &lt;strong&gt;Pain Blade&lt;/strong&gt;, which damages and makes the
-target grant combat advantage for a turn on a hit. They can use a maneuver named
-&lt;strong&gt;Path of Pain&lt;/strong&gt; to shift 4 squares and make a Pain Blade attack at any point
-during the shift. The wand shoots &lt;strong&gt;fire bolts&lt;/strong&gt; that target Reflex and do fire
-damage.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, while bloodied, the wrathborn can also use &lt;strong&gt;Burst Skyward&lt;/strong&gt;
-to deal fire damage around themselves (Close burst 2 vs. Reflex) and fly 8
-squares without provoking opportunity attacks. This is good to avoid getting
-surrounded.&lt;/p&gt;
-
-&lt;h3 id=&quot;chained-cambion&quot;&gt;Chained Cambion&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-cambion-chained.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Chained cambions are exactly what it says on the tin: cambions bound up in
-chains, with iron masks affixed to their faces. I’m guessing this is what
-happens when someone tries to imprison a cambion and it kinda-sorta breaks
-free. Their bodies are completely bound, but they can move and fight by
-controllng the chains that bind them. Their chief emotion is hate. The only
-sound from behind the mask is a hoarse scream of rage. Zero subtlety. Zero
-chill.&lt;/p&gt;
-
-&lt;p&gt;Chained cambions are Level 10 Controllers with 110 HP. Since they walk around by
-moving their chains like spider legs, they lack a flight speed. They’re
-surrounded by a &lt;strong&gt;Blinding Field&lt;/strong&gt; (aura 3) that makes its covered squares count
-as difficult terrain for enemies. Their &lt;strong&gt;Child of Chains&lt;/strong&gt; trait makes them get
-a +2 attack bonus when immobilized or restrained, as well as a +2 bonus on saves
-to end those conditions.&lt;/p&gt;
-
-&lt;p&gt;These monsters attack by hitting people with their enchanted chains and
-screaming into their minds. Their basic &lt;strong&gt;Chain Lash&lt;/strong&gt; attack has a reach of 3,
-and if it hits a dazed enemy it also immobilizes them.&lt;/p&gt;
-
-&lt;p&gt;The psychic screaming is expressed as two different attacks. &lt;strong&gt;Vile Fetters&lt;/strong&gt; is
-a reach 5 melee attack that targets Will and does psychic damage. If the target
-ends it next turn closer to the cambion than it started, it becomes dazed (save
-ends). &lt;strong&gt;Unfettered Scream&lt;/strong&gt; (recharge 5+) is a close blast 3 that targets
-Fortitude, does psychic damage, pushes 2 squares, and dazes (save ends).&lt;/p&gt;
-
-&lt;p&gt;As a minor action the chained cambion can use a &lt;strong&gt;Mind Shackles&lt;/strong&gt; spell. It
-automatically hits 2 enemies within 5 squares of the cambion. Shackled enemies
-take 10 psychic damage at the start &lt;em&gt;and&lt;/em&gt; at the end of their turns if they’re
-not adjacent to the other shackled enemy at that moment. Each enemy saves
-independently from the other, so it’s possible for one of them to be free and
-the other still shackled. The first successful save reduces the damage to 5, the
-second eliminates it. This power recharges when the cambion is bloodied.&lt;/p&gt;
-
-&lt;p&gt;Looks like a chained cambion will want to shackle a pair of enemies and then
-keep them apart by interposing himself between then and using Unfettered Scream
-to push them away, or Vile Fetters to prevent them from going around.&lt;/p&gt;
-
-&lt;h3 id=&quot;cambion-infernal-scion&quot;&gt;Cambion Infernal Scion&lt;/h3&gt;
-
-&lt;p&gt;Sometimes the unfortunate mortal forced to be a cambion parent is a noble or
-even a monarch. Infernal scions are an object lesson on why hereditary
-government is a bad idea. This one covets Asmodeus’ positition as the ruler of
-Hell and is working to supplant him. I guess he’s still a ways away from doing
-that.&lt;/p&gt;
-
-&lt;p&gt;He’s a Level 12 Elite Soldier with 250 HP, wearing mail and wielding a magic
-sword. This &lt;strong&gt;Burning Longsword&lt;/strong&gt; does fire damage and marks for a turn. If a
-marked enemy tries to ignore the mark, the scion can use &lt;strong&gt;Majestic Stride&lt;/strong&gt; to
-teleport adjacent to them and hit them with the sword.&lt;/p&gt;
-
-&lt;p&gt;In addition to using the sword to mark people, the scion can use &lt;strong&gt;Oath of the
-Nine&lt;/strong&gt; (minor action, 1/round) to do so. This automatically marks an enemy
-within 3 squares and gives them Vulnerable 10 Fire for a turn.&lt;/p&gt;
-
-&lt;p&gt;When not bloodied, the scion can use &lt;strong&gt;Dread Command&lt;/strong&gt; (Ranged 5 vs. Will, minor
-action, 1/round) to dominate an enemy for a turn. Once bloodied he flips out,
-losing this ability and replacing it with &lt;strong&gt;Fiend Razor&lt;/strong&gt;, which allows it to
-make 2 sword attacks with an action. This is an interesting way to implement an
-elite’s multi-attack ability.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Cambions are… okay I guess? The mechanics in this entry are interesting, but
-the lore doesn’t quite get me going. I feel I can make some use of the infernal
-scion, but the others don’t make stories jump to my mind just from reading them.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/05/22/cambion.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/22/cambion.html</guid>
         
         <category>dnd4</category>
         
