@@ -6,9 +6,94 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Jun 2022 21:29:10 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Jun 2022 21:29:10 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jun 2022 12:20:49 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jun 2022 12:20:49 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Demon, Molydeus</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-demon-molydeus.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;When Tharizdun first planted the cosmic Seed of Evil in the Elemental Chaos, he
+ordered his seven most powerful angels to stand guard over it. The angels’ oaths
+and sense of duty compelled them to obey. However, they all had some serious
+personal misgivings about this whole “corrupt and destroy the universe”
+business, so they were reluctant guardians.&lt;/p&gt;
+
+&lt;p&gt;When the seed inevitably corrupted them, it seized on this reluctance and turned
+the seven into two-headed Molydeus demons. They have a wolf’s head symbolizing
+their fierceness, and a snake’s head symbolizing their uncertain loyalty. They
+also carry the same axes they wielded as angels, which in a surprising twist
+contain a bit of the unspoiled light of creation. The demons are bound to their
+weapons - when one dies, the axe dissolves into sludge. If it’s stolen or lost,
+the molydeus will not rest until it has been recovered.&lt;/p&gt;
+
+&lt;p&gt;The seed of evil hasn’t needed guarding for a long time now, and the molydeus
+have scattered. They wander the Abyss alone, or followed by small retinues of
+other epic-level demons. They usually prefer Mariliths, but will also work with
+Balors or Klurichirs. Very rarely you’ll find one of them doing a demon lord’s
+dirty work, but these relationships rarely last long. I mean, if anyone is
+really at an “almost demon lord” level of power it’s the molydeus, so I guess
+they don’t like being the junior partner.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;There’s only one stat block in this entry, which is okay because there are only
+seven molydeus demons in all the universe. They’re Large Elemental Humanoids
+with the Demon tag, and Level 29 Elite Soldiers with 544 HP. Stronger than
+balors and pit fiends, and on par with primordial colossi. They have Blindsight
+5, a ground speed of 8, and are immune to fear.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, molydeus share some similarities with Ettins, due to their two
+heads. They have &lt;strong&gt;All-Around Vision&lt;/strong&gt; and therefore can’t be flanked; &lt;strong&gt;Double
+Actions&lt;/strong&gt; allows them to roll Initiative twice and take two full turns per
+round; and &lt;strong&gt;Dual Brain&lt;/strong&gt; allows them to automatically save against dazing,
+stunning or charm effects at the beginning of each of their turns.&lt;/p&gt;
+
+&lt;p&gt;Like all demons, the molydeus has &lt;strong&gt;Variable Resistance&lt;/strong&gt;, and since it’s epic
+the trait is at its most powerful: 30 resistance to an element, switchable 3
+times per encounter.&lt;/p&gt;
+
+&lt;p&gt;In a fight, it’ll probably open up with its &lt;strong&gt;Dread Word&lt;/strong&gt; encounter power, a
+fear attack that targets Will in a Close Burst 5, affecting only enemies. A hit
+dazes them (save ends); a miss slows them and inflicts a -2 attack penalty (save
+ends both). If it needs to mark someone, it will attack with its Reach 2
+&lt;strong&gt;axe&lt;/strong&gt;, which is a pretty beefy attack already. Otherwise it will alternate
+between &lt;strong&gt;Wolf Bites&lt;/strong&gt; and &lt;strong&gt;Snake Bites&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wolf bites are Reach 2 do about as much damage as the axe and slide the target 6
+squares to a square adjacent to the demon. Snake Bites are weaker, but have
+Reach 3, make the target grant combat advantage, and inflict 20 ongoing poison
+damage (save ends both). Both the axe and the bites count as basic attacks.&lt;/p&gt;
+
+&lt;p&gt;The wolf bite is an excellent positioning tool, so I guess the demon might use
+if a few times to set the party up for the Dread Word.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Now &lt;em&gt;here’s&lt;/em&gt; some proper epic demon lore! Mechanically, it has a suite of
+attacks that’s both thematic and varied, and indeed pairs well with mariliths
+and klurichirs. The klurichir stat block works better as a demon created to
+serve the molydeus than as a demon lord contender itself.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/06/10/demon-molydeus.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/10/demon-molydeus.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Demon, Maw</title>
@@ -1161,133 +1246,6 @@ mandate starting in 2020. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefo
         <category>gurps</category>
         
         <category>cyberpunk-red</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Catoblepas</title>
-        <description>&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-catoblepas.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;I first saw the Catoblepas in the AD&amp;amp;D 2nd Edition Monster Manual, and I was
-very surprised to learn it’s not a “lolrandom” original monster. It’s a
-legendary creature from Ethiopia, described by Roman historians Pliny the Elder
-and Claudius Aelianus. I can’t tell whether that makes it part of Ethiopian or
-Roman folklore - I’m sure someone more qualified than me can make that
-distinction. Their name is derived from a Greek word meaning “to look
-downwards”. The plural of catoblepas is &lt;em&gt;catoblepones&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Wikipedia speculates that the original descriptions of the catoblepas might be
-referring to a wildebeest or gnu, and you need only look at Wayne England’s
-illustration above to know he’s really done his homework. A D&amp;amp;D catoblepas looks
-like a wildebeest with a horrible nightmare where its neck and head should
-be. Their long necks are always bent down due to the great weight of their
-heads, which is where their name comes from.&lt;/p&gt;
-
-&lt;p&gt;D&amp;amp;D catoblepones are creatures of shadow and death. They are native to the
-Shadowfell but have a natural ability to wander between worlds. People believe
-they appear in places that are about to be stuck by tragedy, which is kinda true
-since the beast’s breath and gaze are deadly. They’re associated with the Raven
-Queen and sometimes show up as part of her entourage.&lt;/p&gt;
-
-&lt;p&gt;Despite their reputation as beasts of ill omen, catoblepones are often the
-targets of hunting expeditions. Knights hunt them because defeating such a
-dangerous beast brings great glory; others perform ritual hunts in honor of the
-Raven Queen. Success in these ritual hunts might please the goddess enough that
-she grants a blessing to the hunters. A catoblepas can be tracked by the trail
-of destruction it leaves, and the Raven Queen is particularly pleased by hunters
-who make an effort to mend this damage as they pursue their quarry. To them, she
-might grand a mighty boon such as returning someone to life or giving a living
-person the ability to foresse their own death and avoid it.&lt;/p&gt;
-
-&lt;p&gt;A slain catoblepas reforms in the Shadowfell after a while, and begins wandering
-again. Their arrival in a region is often preceded by supernatural phenomena
-such as hauntings.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;We get two varieties of catoblepas here.&lt;/p&gt;
-
-&lt;h3 id=&quot;catoblepas-harbinger&quot;&gt;Catoblepas Harbinger&lt;/h3&gt;
-
-&lt;p&gt;A classic beast of ill omen, the catoblepas harbinger appears in places full of
-hubris to announce they’re about to be hit by famine, war, or other
-tragedies. It feeds on pride, anger, despair and other negative emotions,
-growing ever larger over time. The poisonous gases it exhales are a byproduct of
-this vitriolic diet. I wonder if one of these showed up in the throne room of
-the Nerathi emperor before the empire fell.&lt;/p&gt;
-
-&lt;p&gt;The Harbinger is a Large Shadow Beast, and a Level 10 Elite Controller with 220
-HP. It lumbers along at speed 6 and has Resist Necrotic 5 and Blindsight 5.&lt;/p&gt;
-
-&lt;p&gt;Like all catoblepones, the Harbinger emanates the &lt;strong&gt;Raven Queen’s presence&lt;/strong&gt;, an
-aura (5) that causes anyone inside who fails a death saving throw to lose HP
-equal to half their bloodied value. By the standard rules, any creature who hits
-their bloodied value in negative HP dies automatically, so this aura makes PCs
-die after &lt;em&gt;at most&lt;/em&gt; two failed saves instead of the usual three.&lt;/p&gt;
-
-&lt;p&gt;When drawn into a fight the harbinger &lt;strong&gt;gores&lt;/strong&gt; with its horns and uses its
-&lt;strong&gt;poison breath&lt;/strong&gt; (close blast 5, recharge 5+), which obviously does poison
-damage and inflicts ongoing poison damage.&lt;/p&gt;
-
-&lt;p&gt;If someone within 5 squares of the harbinger willingly tries to move away from
-it, they’re subject to the beast’s &lt;strong&gt;Final Glance&lt;/strong&gt;, an opportunity action that
-targets Will. A victim hit by the glance takes 5 necrotic damage and becomes
-Vulnerable 5 to all damage (save ends). When they pass that save, they take
-another 10 necrotic damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;catoblepas-tragedian&quot;&gt;Catoblepas Tragedian&lt;/h3&gt;
-
-&lt;p&gt;This is an older specimen that usually hangs out in places where dead souls
-cross over into the Shadowfell, absorbing all the negative emotions that
-accompany them. This steady diet has made it grow much larger, and reshaped its
-face so it looks like a tragedy mask.&lt;/p&gt;
-
-&lt;p&gt;Tragedians are Huge Shadow Beasts, and Level 18 Elite Controllers with 360
-HP. They’re mostly identical to harbingers, with larger numbers. They also have
-a couple of new abilities.&lt;/p&gt;
-
-&lt;p&gt;The first is a &lt;strong&gt;Withering Gaze&lt;/strong&gt; used as an active attack against a bloodied
-enemy. It targets Will, does a tiny bit of necrotic damage, and weakens (save
-ends). After the first failed save, the target is also blinded. After the
-second, the target’s hit points drop to -1. And yeah, this does mean they need
-to make death saves and it does subject them to the Raven Queen’s Presence
-aura. This power recharges whenever no enemy is affected by it.&lt;/p&gt;
-
-&lt;p&gt;The second new ability is &lt;strong&gt;Inevitable Call&lt;/strong&gt;, a minor action that automatically
-hits an enemy within 20 squares and pulls them 3 squares closer to the
-Tragedian.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Catoblepones are sticky melee controllers. The basic Harbinger has good powers
-to prevent PCs from getting away from them, opening them up from attack from the
-other monsters in the fight. It pairs really well with monsters that can do
-heavy damage, like brutes and some artillery, because you want to force the PCs
-to roll death saves as soon as possible. The Tragedian is all that and more. It
-has powers to draw PCs closer to itself and perhaps even force them into
-negative HP early.&lt;/p&gt;
-
-&lt;p&gt;I used to dismiss these monsters outright because I found the name “catoblepas”
-ridiculous, but their 4e incarnation has really evocative lore! I’m a fan now.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/05/22/catoblepas.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
