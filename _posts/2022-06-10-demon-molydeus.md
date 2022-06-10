@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the others.
+
 When Tharizdun first planted the cosmic Seed of Evil in the Elemental Chaos, he
 ordered his seven most powerful angels to stand guard over it. The angels' oaths
 and sense of duty compelled them to obey. However, they all had some serious
@@ -76,3 +78,5 @@ Now _here's_ some proper epic demon lore! Mechanically, it has a suite of
 attacks that's both thematic and varied, and indeed pairs well with mariliths
 and klurichirs. The klurichir stat block works better as a demon created to
 serve the molydeus than as a demon lord contender itself.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
