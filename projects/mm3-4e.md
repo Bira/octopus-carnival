@@ -42,6 +42,7 @@ entries.
     - [Klurichir][17]
     - [Maw Demon][18]
     - [Molydeus][19]
+    - [Nafelshnee][20]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -63,3 +64,4 @@ entries.
 [17]: {{ "/2022/06/06/demon-klurichir.html" | relative_url }}
 [18]: {{ "/2022/06/07/demon-maw.md" | relative_url }}
 [19]: {{ "/2022/06/10/demon-molydeus.md" | relative_url }}
+[20]: {{ "/2022/06/12/demon-nafelshnee.md" | relative_url }}

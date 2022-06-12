@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-demon-nafelshnee.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I remember seeing these things in 3e, and they probably date from earlier. My
 memory of them is not very detailed because I had no patience for reading
 page-long lists of spell-like abilities, which were the style of the time for
@@ -116,3 +127,5 @@ Tyrants obviously pair really well with other monsters that can deal psychic
 damage. A simple but flavorful and effective encounter might be a pair of
 happily married nafelshnee tyrants and their swine guard retinue. Two tyrants
 means you can assemble the Black Lightning + Unholy Whispers combo much quicker.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
