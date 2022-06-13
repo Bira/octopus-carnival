@@ -17,10 +17,10 @@ struggle between gods and primordials. It was not unusual for ancient mortals to
 go to war with each other and with the wildlife to secure shelter and food.
 
 One of these wars was between an ancient human people and a nation of primal
-jackals - sapient magical beasts that looked like animals. The jackals lost
-badly and were almost driven to extinction. The few survivors howled their rage
-and grief to the skies, and to their surprise something answered. The primal
-spirit known as the Dark Sister hear their cries and gave them her gifts,
+jackals - sapient magical beasts that looked like mundane animals. The jackals
+lost badly and were almost driven to extinction. The few survivors howled their
+rage and grief to the skies, and to their surprise something answered. The
+primal spirit known as the Dark Sister hear their cries and gave them her gifts,
 turning them into the first jackalweres. These gifts give jackalweres the
 ability to assume human form. Not a single specific human form, like a
 lycanthrope, but _any_ human form, like a doppelganger.

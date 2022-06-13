@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-demon-nafelshnee.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I believe quasits have been around since AD&D 1st Edition, and they've
 re-appeared in every edition since. This is where they enter 4e.
 
@@ -17,11 +28,11 @@ at all is was because of the game's insistence that demons and devils are
 completely different creature types.
 
 In Dungeons & Dragons Fourth Edition, quasits are... the demon equivalent of
-[Imps][2]. Still tiny, still tricksy, they're extremely easy to summon as familiars
-and live to tempt their masters into committing ever more horrible acts of
-destruction. When one of these masters die, the quasit captures their soul and
-takes it to its _true_ master, usually a demon lord. Demons don't need souls,
-but I guess they're tasty.
+[Imps][2]. Still tiny, still tricksy, they're extremely easy to summon as
+familiars and live to tempt their masters into committing ever more horrible
+acts of destruction. When one of these masters die, the quasit captures their
+soul and takes it to its _true_ master, usually a demon lord. Demons don't need
+souls, but I guess they're tasty.
 
 Quasits are usually encountered with whatever dupes they've managed to tempt
 this time or with other, bigger, demons. Minions might include people of any
@@ -75,6 +86,7 @@ PC tactics when fighting a group containing a quasit are very clear: crush it
 _as soon as possible_. Have your party's scouts use their high Perception to
 find the invisible little bugger and smite him with close or area attacks.
 
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2019/11/30/imp.html" | relative_url }}
 [3]: {{ "/2021/07/11/devils-02.html" | relative_url }}
 [4]: {{ "/2019/12/15/succubus.html" | relative_url }}
