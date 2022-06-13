@@ -8,7 +8,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-mm3-4e-demon-nafelshnee.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm3-4e-demon-quasit.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
