@@ -27,9 +27,7 @@ found. When they emerge, groups of cultists soon gather around them, composed
 both of mortal worshippers and aberrant creatures. Krakens are more than smart
 enough to command and use these cults to help fulfill their destructive goals.
 
-So yeah, Krakens are Great Old Ones. You know how some people worship Aboleths
-as god-like beings older than time? I bet Aboleths worship krakens in the same
-way.
+So yeah, Krakens are Great Old Ones.
 
 ## The Monsters
 
@@ -96,7 +94,9 @@ Astral Krakens are "sea monsters" in the same way the Astral is a "sea". Their
 bodies are made of stars and shadow, their eyes two black lightless
 voids. Madness precedes them and follows in their wake. You might say they're
 closer to their original forms than the sea kraken, as they never had to
-acclimate to the middle world.
+acclimate to the middle world. You know how some people worship Aboleths as
+god-like beings older than time? I bet Aboleths worship astral krakens in the
+same way.
 
 Astral Krakens are Level 25 Solo Controllers with 925 HP, putting them in the
 same "weight class" as godforged and primordial colossi, divine and demonic
