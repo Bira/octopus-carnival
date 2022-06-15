@@ -44,6 +44,7 @@ entries.
     - [Molydeus][19]
     - [Nafelshnee][20]
     - [Quasit][21]
+    - [Ultrodemon][22]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -67,3 +68,4 @@ entries.
 [19]: {{ "/2022/06/10/demon-molydeus.md" | relative_url }}
 [20]: {{ "/2022/06/12/demon-nafelshnee.md" | relative_url }}
 [21]: {{ "/2022/06/13/demon-quasit.md" | relative_url }}
+[22]: {{ "/2022/06/15/ultrodemon.md" | relative_url }}
