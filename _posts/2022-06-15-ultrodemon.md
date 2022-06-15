@@ -6,17 +6,28 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-demon-ultrodemon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This creature first appeared as an "Ultrodaemon" in AD&D, as part of the effort
 to give every alignment its own brand of outsider. In 4e, daemons lost an "a"
 and became demons. We already saw some of them in the readings of earlier books.
 
 ## The Lore
 
-Ultrodemons are somewhat atypical among demons because they're greedy
-schemers. They enjoy indiscriminate carnage as much as the next demon, but their
-real passion is material wealth. They command armies of mezzodemons and
-nycademons, sell their mercenary services for ruinous prices, and loot as much
-as they can during these operations.
+Ultrodemons are somewhat atypical among demons because they're more about greed
+than about cruelty for cruelty's sake. They enjoy carnage and torture as much as
+the next demon, but their real passion is material wealth. They command armies
+of mezzodemons and nycademons, sell their mercenary services for ruinous prices,
+and loot as much as they can during these operations.
 
 Ultrodemons and their underlings can be found in a wide variety of places,
 either under contract to some other villain, or working independently. They're
@@ -65,3 +76,5 @@ brute from its own front line to spice things up while it flees to safety.
 
 I remain a big fan of folding daemons into demons! Mechanically, ultros work
 well as "sneaky leaders", which isn't a combination you see very often.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
