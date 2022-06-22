@@ -6,9 +6,258 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jun 2022 00:46:05 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Jun 2022 00:46:05 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2022 04:12:40 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2022 04:12:40 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Devil, Corruption</title>
+        <description>&lt;p&gt;Remember when I told you the MM3 had the very good idea of giving each devil and
+demon its own entry rather than lumping them all together? Here’s where they
+kinda toss that out the window and make a big entry full of diverse stat blocks
+for a single type of devil.&lt;/p&gt;
+
+&lt;p&gt;Corruption Devils, or Paeliryons, first appeared in one of the later Monster
+Manuals for 3rd Edition. I remember they were not very well-received because
+their lore and appearance had some quite unfortunate implications. This book is
+still making an effort to make them a big part of the game, so let’s see if the
+lore improved in any way.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The book describes these devils as “bloated infernal masterminds of graft,
+sleaze, and vice”. They’re better at politics and intrigue than almost anyone
+else in Hell, and they put that skill to use in subverting mortal societies to
+their benefit, turning them into decadent kleptocracies via a network of agents
+and dupes. Most paeliryons work for Dispater, lord of the second layer of Hell,
+acting as the civil administration of that wretched city.&lt;/p&gt;
+
+&lt;p&gt;A corruption devil’s agent network is somewhat inverted from what you’d
+expect. Its most powerful members are kept at a safe remove from the devil,
+while those that work directly with it are ignorant sycophants and expendable
+muscle.&lt;/p&gt;
+
+&lt;p&gt;I see that they kept the Paeliryion illustration from the previous edition, but
+if I’m remembering it correctly the lore was changed to something a little less
+problematic. With an extra decade of hindsight, I’d probably replace the Ursula
+cosplay with a big suit and an orange wig.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;h3 id=&quot;corruption-devil&quot;&gt;Corruption Devil&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-corruption.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The basic model, depicted in the illustration. These are most likely to be found
+running the city of Dis, but can also go out into the other planes to perform
+specific missions. Though physically imposing, the creatures prefer to avoid
+direct conflicts, and will try to negotiate their way out of trouble. If forced
+into combat they fight like PC bards, staying away from the melee and hurling
+magically-charged insults and mind control spells at their enemies.&lt;/p&gt;
+
+&lt;p&gt;They pal around with other manipulative devils such as succubi, vizier devils,
+and cambions, though these are almost always pawns rather than full allies. If
+things see to be going bad for it, the paeliryion will definitely fly away and
+abandon its “friends”.&lt;/p&gt;
+
+&lt;p&gt;Corruption Devils are Large Immortal Humanoids (Devils), and Level 22
+Controllers (Leaders) with 208 HP. They have Darkvision and a +5 to save against
+fear and charm effects. Their ground speed is only 4, but they’re excellent
+fliers with speed 6 (hover).&lt;/p&gt;
+
+&lt;p&gt;These devils project a &lt;strong&gt;Corruptive Presence&lt;/strong&gt; that works as an aura (5) and
+inflicts a -2 penalty to saves on all enemies inside its radius. It fights in
+melee with &lt;strong&gt;Corrupting Claws&lt;/strong&gt; and at range with &lt;strong&gt;Words of Corruption&lt;/strong&gt;, both
+of which deal no immediate damage and instead inflict ongoing psychic damage
+(save ends).&lt;/p&gt;
+
+&lt;p&gt;Their mind control magic takes the form of two minor-action spells. &lt;strong&gt;Sway the
+Corrupt&lt;/strong&gt; (at-will) targets an enemy that’s taking ongoing psychic damage. It
+hits automatically, and dominates them for a turn. &lt;strong&gt;Doom the Corrupt&lt;/strong&gt;
+(recharge 5+) targets an ally or a dominated creature, forcing them to make a
+melee basic attack against an enemy of the devil’s choice. If that attack hits,
+its target is also immobilized (save ends).&lt;/p&gt;
+
+&lt;p&gt;Finally, it can use &lt;strong&gt;Desperate Measures&lt;/strong&gt; as a minor action to allow an ally to
+make a basic attack that crits on 19-20, in exchange for the ally granting
+combat advantage for a turn. This recharges when the devil is first bloodied,
+and if used while it’s bloodied it applies to every ally within 5 squares
+instead of just one.&lt;/p&gt;
+
+&lt;h3 id=&quot;sire-of-corruption&quot;&gt;Sire of Corruption&lt;/h3&gt;
+
+&lt;p&gt;These are the most powerful corruption devils, and among some of the most
+powerful devils in Hell. They’re the ones who run long term projects of the
+“turn a whole kingdom to evil” variety, and have a particular strong hatred of
+“incorruptible” people or institutions, working extra-hard to prove that
+assertion wrong or destroy these offenders if they can’t. Sires of Corruption
+can make a particular kind of infernal contract that can make the signing mortal
+gain power from utterly embracing their vices, thought they still remain pawns
+of the devil in the end.&lt;/p&gt;
+
+&lt;p&gt;These creatures are Medium Immortal Humanoids (devils), and Level 29 Elite
+Controllers (leaders) with 530 HP. They have 15 fire resistance and a ground
+speed of 6, but no special senses.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Lasting Corruption&lt;/strong&gt; aura is actually a bit worse than that of a basic
+corruption devil, since the save penalty only applies to charm effects. All of
+their non-basic attacks are charm effects, so it doesn’t make a difference to
+the sire itself, but it’s less helpful to its allies.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Corrupting Touch&lt;/strong&gt; that does a sizable amount of
+psychic damage and inflicts a -2 penalty to defenses against charm effects for a
+turn, so you want to alternate it with the other attack: &lt;strong&gt;Touch of Vice&lt;/strong&gt;
+(recharge 4+), which deals the same amount of psychic damage and inflicts one of
+&lt;em&gt;six&lt;/em&gt; possible effects named after different vices or sins. They’re all (save
+ends), and have the following effects:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lust&lt;/strong&gt; causes the target to be marked by another enemy within 5 squares.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Excess&lt;/strong&gt; dazes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Greed&lt;/strong&gt; slides the target 5 squares to a space adjacent to one of its
+allies, and forces it to make opportunity attacks against allies whose actions
+would provoke them.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fear&lt;/strong&gt; pushes the target 5 squares and forbids it from moving closer to the
+sire of corruption.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sloth&lt;/strong&gt; immobilizes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vengeance&lt;/strong&gt; auto-damages the target whenever they use an attack power.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The sire chooses which effect happens whenever it hits with Touch of Vice.&lt;/p&gt;
+
+&lt;p&gt;But that’s not all! At the start of the fight it can issue a &lt;strong&gt;Call to
+Corruption&lt;/strong&gt; to summon six Corrupted Followers into the fight, and it can do
+that again after it’s bloodied! As a minor action it can use &lt;strong&gt;Spread
+Depravity&lt;/strong&gt; to give one of these servants a free attack.&lt;/p&gt;
+
+&lt;p&gt;And finally, when the sire is reduced to 0 HP, it uses a final attack named
+&lt;strong&gt;Lasting Vice&lt;/strong&gt;, which targets everyone in a Close Burst 5 with a Touch of
+Vice (same damage, same choice of effects).&lt;/p&gt;
+
+&lt;p&gt;These things are nasty, and unlike basic corruption devils they want to get
+right into the fray while surrounded by their corrupted servants.&lt;/p&gt;
+
+&lt;h3 id=&quot;corrupted-followers&quot;&gt;Corrupted Followers&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-corruption-glutton.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-corruption-lunatic.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-corruption-monger.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These are mortals who were prey to some vice in life, and who were offered a
+very specific kind of infernal contract in their moment of greatest despair or
+misery. The contract gives them what they desire, and immediately afterwards
+turns them into monsters made of the same vice that controlled their mortal
+lives.&lt;/p&gt;
+
+&lt;p&gt;Followers retain no memory of those lives. Left to their own devices, they
+contrive to spread their ruling vice among the surrounding population. Most
+often, though, they’re found in the service of their devil master. Usually this
+is a Sire of Corruption, but it can also be some other powerful devil, or some
+mortal villain to whom the fiend has loaned them.&lt;/p&gt;
+
+&lt;p&gt;Corrupted Followers are epic-tier minions, and there’s a different variety for
+every vice a Sire of Corruption can generate. It’s entirely appropriate for the
+Sire’s Call to Corruption power to summon a full sentai team with the six
+varieties, but you can vary its composition to have simpler combats.&lt;/p&gt;
+
+&lt;p&gt;Each Follower type has a touch attack that targets Will and does a bit of damage
+with a rider, an effect that happens when it dies, and sometimes an aura or
+passive trait. All of those will be related to each Follower’s Thematic
+Vice. Here they are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lust&lt;/strong&gt;: Corrupted Lechers are Level 24 Minion Lurkers. They can’t be
+targeted unless they’re the closest enemy to the attacker; their attacks can
+be melee or ranged, and make the target be marked by another enemy for a turn;
+when they die, they make their killer move its speed towards another enemy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Excess&lt;/strong&gt;: Corrupted Gluttons are Level 25 Minion Soldiers that attack with
+bites that also grab the target. Once they have a target grabbed they can chew
+on them for automatic damage. When they die, they curse their killer to take
+damage next turn unless the PC recovers HP in the intervening time.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Greed&lt;/strong&gt;: Corrupted Mongers are Level 26 Minion Artillery. Their melee
+attacks slide the target adjacent to one of their allies; their ranged attack
+drain daily or encounter powers from magic items until the end of the
+encounter! When they die, they cause any daily or encounter powers from the
+item that killed them to become spent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sloth&lt;/strong&gt;: Corrupted Idlers are Level 27 Minion Soldiers. They have a small
+slowing aura, and their attacks prevent the target from taking move actions
+for a turn. When they die, they make an attack against the killer’s Will that
+will knock the PC unconscious for a turn on a hit.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Vengeance&lt;/strong&gt;: Corrupted Lunatics are Level 28 Minion Brutes. Their attacks
+are weak even for a minion, but force the target to make a basic attack
+against its nearest ally. If someone misses then with an attack, they can make
+a free attack against that PC, with the same rider as above. When they die,
+their killer must again make an attack against an ally. They’re walking Three
+Stooges skits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Fear&lt;/strong&gt;: Corrupted Cravens are Level 29 Minion Controllers. When they hit
+with an attack, they force the target to move its speed away from them. The
+same happens to their killer when they die.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I guess I’m still not entirely sold on the whole “Corruption Devil” lore. It
+feels kinda redundant because this sort of thing was already supposed to be one
+of the central themes for Hell as a whole. And the stat blocks use the word
+“Corruption” so much it kinda starts to lose its meaning. The Sire of Corruption
+seems like it was an entirely different monster that got retrofitted into this
+entry. It’s obviously inspired by the Seven Deadly Sins, which I feel is kinda
+played out. But at least it’s all seven in one monster, and it &lt;em&gt;is&lt;/em&gt; in-theme for
+Hell.&lt;/p&gt;
+
+&lt;p&gt;Mechanics-wise, the Corruption Devil stat block might work quite well for any
+bard-type enemies, with a few minor adjustments. The Sire of Corruption is a
+scary combatant, but its mechanics are extremely tied to the concept of sin so
+it might be harder to reskin. It would make an excellent basis for an Aspect of
+Asmodeus, though!&lt;/p&gt;
+
+&lt;p&gt;The minions are flavorful, but fiddly. I wouldn’t recommend using the full
+spread in the same encounter.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/06/22/devil-corruption.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/22/devil-corruption.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Derro</title>
@@ -875,154 +1124,6 @@ action and the demon can still attack them with that high-damage axe.&lt;/p&gt;
         <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/06/06/demon-klurichir.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/06/demon-klurichir.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Dark One</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Dark Ones appeared in the first 4e Monster Manual, and you can read my take on
-that book’s entry &lt;a href=&quot;/octopus-carnival/2019/09/16/dark-one.html&quot;&gt;here&lt;/a&gt;. This entry adds a few more stat blocks and tries to
-fill in the lore gaps.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dark-one.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;If you read the post linked above, you’ll see that the MM1 contained little in
-the way of Dark One Lore. I speculated that most of them would be peaceful
-civilians like halflings are, but it seems that the Monster Manual 3 is moving
-in the opposite direction by saying they’re &lt;em&gt;all&lt;/em&gt; thieving murderers. I guess
-this is a prelude for some of the even more egregious stuff you could find on
-the Monster Vault and on some early 5e supplements.&lt;/p&gt;
-
-&lt;p&gt;This book says Dark Ones are “incapable” of crafting beautiful or useful
-objects. This is described more like a divine curse than some sort of
-neurological limitation. Everything they make is destined to be ugly, fragile,
-and useless. Their armor crumples, their weapons shatter. So instead of making
-their own stuff, they steal other people’s.&lt;/p&gt;
-
-&lt;p&gt;As the MM1 said, most Dark Ones live in the Shadowfell. This one says that they
-tend to see the middle world as a, well, “loot pinãta”, full of stuff just
-waiting to be taken. They tend to go for “loot caches” that are relatively
-hidden from the larger societies of the middle world, and target groups that are
-isolated from those same societies.&lt;/p&gt;
-
-&lt;p&gt;In other worlds, your typical team of Dark One acquisition experts is in direct
-competition with adventuring parties for the XP and treasure contained in
-dungeons, bandit lairs, and cultist strongholds. The PCs could arrive at one of
-these places only to discover a group of Dark Ones got there first and took all
-the stuff.&lt;/p&gt;
-
-&lt;p&gt;Some of them prefer to work as mercenaries instead of thieves, and they’ll join
-forces with anyone who pays them. Often their clients end up being cults of
-Vecna and other appreciators of the sneaky-stabby arts.&lt;/p&gt;
-
-&lt;p&gt;And of course, if you want to tone down the speciesism here, you can just remove
-the divine curse bit. If you still want a Dark One community to be dependent on
-goods from outside, you can say they rely on &lt;em&gt;trade&lt;/em&gt; more than on theft and
-mercenary work.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Most of the basic Dark One information remains identical to what it was on the
-MM1. They’re Small Shadow Humanoids with Darkvision, a Speed of 6, and two
-signature abilities.&lt;/p&gt;
-
-&lt;p&gt;The first is &lt;strong&gt;Dark Step&lt;/strong&gt;, an at-will move action that lets them move 4 squares
-with a +4 AC bonus against opportunity attacks, and gain combat advantage
-against any enemies it ends up adjacent to.&lt;/p&gt;
-
-&lt;p&gt;The second is &lt;strong&gt;Killing Dark&lt;/strong&gt;, which causes them to explode in a cloud of inky
-darkness when reduced to 0 HP, blinding any enemies adjacent to them for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;hex-knight&quot;&gt;Hex Knight&lt;/h3&gt;
-
-&lt;p&gt;Hex Knights are the closest thing Dark Ones have to noble warriors, though their
-codes of conduct apply only to members of their own society. Their gear is very
-similar to that of a common sneaky-stabby Dark One: leather or hide armor, short
-sword, hand crossbow. Their fighting style, however is much more direct.&lt;/p&gt;
-
-&lt;p&gt;Hex Knights are Level 4 Soldiers with 54 HP. They mark enemies using the
-&lt;strong&gt;Shadow Hex&lt;/strong&gt; minor action, which lasts until the fight ends or the knight uses
-it on someone else. Enemies who ignore the mark grant combat advantage to all
-enemies for a turn.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;hand crossbow&lt;/strong&gt; is a basic ranged attack and it’s merely okay. Knights are
-better in melee, where their basic &lt;strong&gt;short sword&lt;/strong&gt; can attack twice with one
-action, and each hit slows the target. Knights can also use their swords in a
-&lt;strong&gt;Vicious Flurry&lt;/strong&gt; (recharge 5+), which targets 1 or 2 enemies with a sword
-attack that also does ongoing damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-bolters&quot;&gt;Shadow Bolters&lt;/h3&gt;
-
-&lt;p&gt;These spellcasters are usually on some secret mission to acquire a treasure or a
-valuable bit of information, and will prioritize that mission over whatever else
-might be going on. They might pose as mercenaries or allies to some other
-faction as a cover. Once they have what they seek, they’ll abscond, leaving
-enemies and allies alike behind.&lt;/p&gt;
-
-&lt;p&gt;Bolters are Level 5 Artillery with 50 HP. They fight with &lt;strong&gt;daggers&lt;/strong&gt; in melee
-and with &lt;strong&gt;black bolt&lt;/strong&gt; spells at range, and they’re all about gaining combat
-advantage. The &lt;strong&gt;Deadly Precision&lt;/strong&gt; trait gives them combat advantage against
-any enemy flanked by two allies, even if the bolter themselves are far
-away. When they hit someone with combat advantage, they deal 5 extra necrotic
-damage to the target and to any of the target’s allies adjacent to it.&lt;/p&gt;
-
-&lt;p&gt;The black bolts also make a hit target take 5 necrotic damage whenever they
-provoke an opportunity attack (save ends), which is very situational but might
-be useful to punish mobile PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-speakers&quot;&gt;Shadow Speakers&lt;/h3&gt;
-
-&lt;p&gt;Shadow Speakers are the Dark Ones that know the necessary rituals for crossing
-between the middle world and the Shadowfell. They lead “acquisition” expeditions
-into the middle world, and are responsible for bringing them back home. They
-carry little clay jugs filled with soil from the Shadowfell as a focus for their
-powers.&lt;/p&gt;
-
-&lt;p&gt;Shadow speakers are Level 6 Controllers with 70 HP. They fight with &lt;strong&gt;short
-swords&lt;/strong&gt; and shadow magic.&lt;/p&gt;
-
-&lt;p&gt;Their basic ranged attack is a &lt;strong&gt;Shadow Curse&lt;/strong&gt; that deals necrotic damage,
-makes the target grant combat advantage, and inflicts 5 necrotic damage when the
-target provokes an opportunity attack (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Less often, they can cast a &lt;strong&gt;Choking Shadow&lt;/strong&gt; spell (recharge 5+), which deals
-heavy necrotic damage and immobilizes for a turn.&lt;/p&gt;
-
-&lt;p&gt;Even one of these is an excellent force multiplier for a Dark One party, or
-really for any encounter group whose members deal extra damage with combat
-advantage. Just have then stay at the range limit for Shadow Curse and spam it
-on the PCs to make them all grant combat advantage.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, Shadow Speakers tend to be “load-bearing monsters” for Dark
-One encounter groups, since they’re the group’s only way home. If the Shadow
-Speaker is in too much danger, the entire group might try to make a run for it.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I like the greater encounter variety, but I dislike the extra emphasis on a
-species-wide negative stereotype (“they’re all thieves, every last one of
-them”). I’ll stick to my initial assumptions that these stat blocks represent
-the Dark One equivalent of adventurers and other combatants rather than typical
-members of the culture.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/06/01/dark-one.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/01/dark-one.html</guid>
         
         <category>dnd4</category>
         
