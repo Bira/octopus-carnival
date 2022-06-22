@@ -42,7 +42,7 @@ cosplay with a big suit and an orange wig.
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-mm32-4e-devil-corruption.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm3-4e-devil-corruption.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
@@ -139,8 +139,8 @@ right into the fray while surrounded by their corrupted servants.
 ### Corrupted Followers
 
 {::nomarkdown}
-<figure class="left">
-  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-glutton.png" | absolute_url }}"/>
+<figure>
+  <img src="{{ "/assets/wir-mm3-4e-devil-corruption-glutton.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
@@ -148,8 +148,8 @@ right into the fray while surrounded by their corrupted servants.
 {:/nomarkdown}
 
 {::nomarkdown}
-<figure class="center">
-  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-lunatic.png" | absolute_url }}"/>
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-devil-corruption-lunatic.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
@@ -158,12 +158,15 @@ right into the fray while surrounded by their corrupted servants.
 
 {::nomarkdown}
 <figure class="right">
-  <img src="{{ "/assets/wir-mm32-4e-devil-corruption-monger.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-mm3-4e-devil-corruption-monger.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2010 Wizards of the Coast
   </figcaption>
 </figure>
 {:/nomarkdown}
+
+
+
 
 These are mortals who were prey to some vice in life, and who were offered a
 very specific kind of infernal contract in their moment of greatest despair or
@@ -208,21 +211,18 @@ Vice. Here they are:
   for a turn. When they die, they make an attack against the killer's Will that
   will knock the PC unconscious for a turn on a hit.
 
-- **Vengeance**: Corrupted Lunatics are Level 28 Minion Brute. Their attacks are
-  weak even for a minion, but force the target to make a basic attack against
-  its nearest ally. If someone misses then with an attack, they can make a
-  free attack against that PC, with the same rider as above. When they die,
-  their killer must again make an attack against an ally. They're walking
-  Three Stooges skits.
+- **Vengeance**: Corrupted Lunatics are Level 28 Minion Brutes. Their attacks
+  are weak even for a minion, but force the target to make a basic attack
+  against its nearest ally. If someone misses then with an attack, they can make
+  a free attack against that PC, with the same rider as above. When they die,
+  their killer must again make an attack against an ally. They're walking Three
+  Stooges skits.
 
 - **Fear**: Corrupted Cravens are Level 29 Minion Controllers. When they hit
   with an attack, they force the target to move its speed away from them. The
   same happens to their killer when they die.
 
 ## Final Impressions
-
-This entry is not yet done. There are so many types of Corrupted Followers I'm
-going to dedicate a post just to them.
 
 I guess I'm still not entirely sold on the whole "Corruption Devil" lore. It
 feels kinda redundant because this sort of thing was already supposed to be one

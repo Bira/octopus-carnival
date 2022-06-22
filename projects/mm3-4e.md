@@ -46,6 +46,8 @@ entries.
     - [Quasit][21]
     - [Ultrodemon][22]
   - [Derro][23]
+  - Devils
+    - [Devil, Corruption][24]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -71,3 +73,4 @@ entries.
 [21]: {{ "/2022/06/13/demon-quasit.md" | relative_url }}
 [22]: {{ "/2022/06/15/ultrodemon.md" | relative_url }}
 [23]: {{ "/2022/06/19/derro.html" | relative_url }}
+[24]: {{ "/2022/06/22/devil-corruption.html" | relative_url }}
