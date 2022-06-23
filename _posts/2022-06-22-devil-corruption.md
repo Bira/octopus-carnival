@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the others.
+
 Remember when I told you the MM3 had the very good idea of giving each devil and
 demon its own entry rather than lumping them all together? Here's where they
 kinda toss that out the window and make a big entry full of diverse stat blocks
@@ -241,3 +243,5 @@ Asmodeus, though!
 
 The minions are flavorful, but fiddly. I wouldn't recommend using the full
 spread in the same encounter.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

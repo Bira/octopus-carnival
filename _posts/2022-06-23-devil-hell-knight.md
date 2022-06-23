@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-hell-knight.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 [Death Knights][3] have a long and storied existence in D&D, but this is the
 first time I hear of Hell Knights.
 
@@ -71,5 +82,6 @@ three nightmares, using classic medieval cavalry tactics (charge early, charge
 often). This group's lack of ranged attacks would be compensated by the
 nightmare's high teleport speed.
 
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2020/08/09/nightmare.html" | relative_url }}
 [3]: {{ "/2019/09/20/death-knight.html" | relative_url }}

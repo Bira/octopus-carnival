@@ -48,6 +48,7 @@ entries.
   - [Derro][23]
   - Devils
     - [Devil, Corruption][24]
+    - [Devil, Hell Knight][25]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -74,3 +75,4 @@ entries.
 [22]: {{ "/2022/06/15/ultrodemon.md" | relative_url }}
 [23]: {{ "/2022/06/19/derro.html" | relative_url }}
 [24]: {{ "/2022/06/22/devil-corruption.html" | relative_url }}
+[25]: {{ "/2022/06/23/devil-hell-knight.html" | relative_url }}
