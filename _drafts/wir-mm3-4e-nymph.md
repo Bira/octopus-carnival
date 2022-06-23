@@ -1,0 +1,241 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Nymph"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Nymphs have been in the game since the beginning, and they were always one of
+its many, many "seductress" monsters. The only reason I can think for there
+being so many of them is that Gygax had issues.
+
+## The Lore
+
+In Fourth Edition, Nymphs are fey descended from some of the oldest primal
+spirits: the Sisters of the Four Seasons, and the Brothers of the Four
+Winds. Thus they combine their mothers' beauty with their fathers' impulsive and
+fickle personality.
+
+After the Dawn War ended and the Four Seasons took upon themselves the work of
+maintaining the world's natural cycles, the nymphs withdrew into the Feywild and
+spent a long time living there in harmony with nature. However, they're not
+content with just staying quiet forever, so they eventually began to range
+further afield in search of fun.
+
+Nymphs just love mortals. They make such wonderful toys, you see. It's very easy
+to convince them to do stuff, and to swear eternal loyalty and love. Toys
+sometimes break, but that's just how things are.
+
+Nymphs are divided into subtypes corresponding to the four seasons, each with a
+different basic personality but sharing the same disdain for mortals. There's
+also a fifth type that explains where dryads come from.
+
+## The Monsters
+
+Nymphs are Medium Fey Humanoids with Low Light Vision and Forest Walk (meaning
+they ignore forest-themed difficult terrain). All of their other abilities vary
+per stat block.
+
+### Spring Nymph
+
+Spring nymphs are always seeing new life appear everywhere to replace the
+old. They have power over flowers, and adorn themselves with them. They are the
+most childish and romantic of the bunch, so they enjoy seducing mortals and
+playing mind games with them to get those mortals to chase her and to fight each
+other for her favor. Spring nymphs will often ensure the prettiest mortal
+survives these contests, and will then permanently dominate them through
+constant exposure to the nymph's psychotropic scent.
+
+Spring Nymphs are Level 5 Controllers with 63 HP and Speed 6. Their powers are
+all seduction and flower-themed, making them some of the most stereotypical
+nymphs.
+
+They have a **Charmed Defense** passive that gives them +3 to all defenses while
+adjacent to a creature dominated by them. Their basic melee attack is
+**Passion's Kiss**, which targets Will, does low psychic damage, and dazes (save
+ends). Their basic ranged attack is **Song of Spring**, which is similar but
+does a bit more damage and slows instead of dazing.
+
+When she doesn't have anyone dominated, the spring nymph can use **Floral
+Perfume** to rectify this situation. This is a ranged attack vs. Will that must
+target a dazed or slowed creature, and on a hit pulls the target 3 squares and
+dominates them (save ends).
+
+Finally, once per encounter, the nymph can use **Cloud of Blossoms**, a ranged
+area attack that targets non-dominated enemies, attacks Will, and slows on a hit
+(save ends). After the first failed save, the target becomes unconscious
+instead. So this is more of an emergency escape hatch than an opening strike.
+
+When building an encounter with spring nymphs, you can add any number of sapient
+humanoids of any species to Team Monster. These are her permanently dominated
+pawns, and they should definitely count as "dominated" for the purposes of
+Charmed Defense even if they act normally otherwise. Lacking any of these, the
+nymph will do her best to keep a PC dominated and stick close to them. Spring
+nymphs don't do a lot of damage on their own, so they need the help of their
+pawns. An encounter against _multiple_ spring nymphs is very dangerous, though,
+since they'll be able to dominate multiple PCs.
+
+### Autumn Nymphs
+
+These are the most melancholic members of the family. Autumn is the season when
+leaves are reaching the end of their lives and remembering their pasts. Autumn
+nymphs are always in that mood, and love collecting and remembering the stories
+of mortals' lives. Autumn nymphs trade in secrets, one for one. This makes them
+good sources of information, but you have to be willing to share your own
+secrets in exchange. If you don't, their vengeance can be terrible and
+persistent as they turn their secret-themed abilities against you.
+
+Autumn Nymphs are Level 8 Skirmishers with 89 HP, a ground speed of 6 and a
+flight speed of 6 (clumsy, like a leaf in the wind). Their basic attack is a
+strike with their **Oaken Strength**, which damages and pushes the target 1
+square. Their other abilities are all secret-themed spells.
+
+**Dark Revelation** (recharge 6+) is a melee attack that causes light psychic
+damage and stuns (save ends). It represents the nymph using contact telepathy to
+fill the victim's head with, well, fake news.
+
+**Whisper Game** is an interesting ranged attack. It inflicts immediate and
+ongoing psychic damage (save ends). Until the end of the encounter, or until the
+nymph drops to 0 HP, any time a creature saves against the ongoing damage the
+condition "jumps" to the nearest of the victim's allies within 10 squares. When
+the nymph drops to 0 HP, whoever is suffering from this ongoing damage takes 15
+psychic damage. This psychic hot potato recharges if the nymph misses with it.
+
+As a move action, the nymph can use **Autumn Winds** to either shift 1 square or
+move her speed, and then use Oaken Strength for free. And when an enemy misses
+her with a melee attack, she can use **Secret of Autumn Leaves** as a reaction
+to shift 3 squares.
+
+The nymph's first priority should be to get the Whisper Game going, then stun
+someone with Dark Revelation whenever it's available. After that she wants to
+move around and herd the PCs using Oaken Strength so all of them remain close
+enough to catch the Whisper Game damage. Autumn Nymphs don't go for domination,
+but they can still have willing fey allies to help with all that. Multiple
+autumn nymphs in the same encounter means multiple Whisper Games and multiple
+save-ends stuns in a round, so only do that if you really want to make your PCs
+suffer.
+
+### Wood Nymphs
+
+Sometimes, an autumn nymph's melancholy gets the better of her. She grows tired
+of her games, or discovers she had actual fondness for a mortal that escaped her
+clutches. These nymphs cast off their humanoid guises and give themselves over
+to their wild natures, slowly transforming into trees. They stay for a long time
+in this in-between state, and some go on to become dryads. The Wood Nymph stat
+block represents the in-between state, where the nymph can leave its tree body
+to attack trespassers or despoilers, but can't move too far away from it. This
+is actually closer to a mythological dryad than the D&D dryad is.
+
+Wood Nymphs are Level 10 Soldiers with 104 HP and speed 6. They are
+**Treebound**, which means they'll be always encountered close to their
+tree. This tree occupies 1 square on the battle map. The nymph can enter it and
+gains full cover while inside. It also counts as an ally for the purposes of
+flanking. While adjacent to or inside the tree, the nymph has **Regeneration**
+5.
+
+The nymph's first priority in battle is to tag someone with **Trapped in the
+Wood**, which does no damage but teleports the target inside the nymph's
+tree. This removes the victim from play (save ends). The nymph can teleport 8
+squares to a space adjacent ot the tree as an effect. A successful save places
+the victim back on the map, adjacent to the tree.
+
+She can also hit a PC with her **Lonely Keening**, an encounter ranged attack
+that deals psychic damage on a hit. The interesting thing about it is its
+effect, though, which happens even on a miss. Until the end of the encounter, or
+until the nymph drops to 0 HP, the victim takes 5 damage at the end of any turn
+in which it's not either adjacent to the nymph or closer to her than they were
+at the start of the turn. An excellent attack to use on those ranged PCs.
+
+Finally, the nymph can teleport up to 6 squares to a space adjacent to the tree
+as a move action.
+
+Not that the victim of Trapped in the Wood is not considered to be in the tree's
+space for game purposes! They're _removed from play_. Which means the Nymph can
+hit them with Lonely Keening, trap them in the tree, and stay adjacent to the
+tree to keep her regeneration while damaging the victim at the same time.
+
+Appropriate buddies for wood nymphs include full dryads, wood woads, and other
+treelike fey who are hanging around their new sister.
+
+### Winter Nymph
+
+Winter nymphs live in cold and remote regions, and like their linked season
+they're cruel and harsh. Winter nymphs are all about reveling in the survival of
+the strongest. They run ahead of the Wild Hunt, dressed in buckskin, their
+nettle hair spreading out behind them in the wind. They seek the toughest and
+most cunning opponents as their prey.
+
+Winter Nymphs are Level 15 Artillery with 116 HP, a ground speed of 7, and a fly
+speed of 10. Unlike their sisters, they fight with weapons. Their basic melee
+attack is a **Hunter's Knife** that damages and allows them to shift 1 square on
+a hit. Their basic ranged attack is a longbow that shoots arrows laced with
+**Winter's Wind**, doing cold damage and slowing on a hit.
+
+If too many enemies crowd their space, they can use a **Nettling Wind**
+(recharge 5+) to target up to 3 creatures in a Close Blast 5. On a hit, this
+does physical damage and immobilizes (save ends). And once per encounter they
+can fire a **Hail of Arrows** that works like like Area burst 3, Range 20
+attack. It targets enemies, does physical damage, and inflicts ongoing physical
+damage (save ends). That's a good opening strike.
+
+Appropriate companions for winter nymphs are, of course, the Wild
+Hunt. Paragon-tier fey hounds and perhaps some eladrin or firbolg hunters.
+
+### Summer Nymph
+
+Spring is about the potential of the future; autumn about reflecting on the
+past; and summer is the present. Summer nymphs are among the eldest and wisest
+of the seasons' children, for they see everything as it comes to pass. Though
+they love to play games with mortals just as much as their sisters, their own
+games are much more complex, some times spanning multiple worlds and vast
+stretches of time. They are the nymph's equivalent of board game geeks, and they
+love playing live-action Twilight Imperium and Diplomacy. Their motivations and
+goals are always hidden from those she uses as playing pieces, and might look
+inscrutable.
+
+The nymph portrayed here is a legit demigodess, a Level 25 Controller with 233
+HP and the Leader keyword. She is peer to elder dragons and to the greatest
+among angels and devils, and she could end up interacting with gods or exarchs
+directly. Not being an elite or solo, she's not as individually powerful as some
+of those dragons and immortals, but she can command nature itself in the form of
+large hosts of animals, fey, and plant creatures.
+
+The summer nymph projects an aura of **Renewing Growth** (5) that makes its
+covered area into difficult terrain for enemies. Any enemy inside the aura who
+doesn't move during their turn is slowed until the end of their next turn.
+
+Her attacks do below-average damage, but have powerful control effects. Her
+melee basic attack is **Wisdom's Touch**, which damages and dazes for a
+turn. Her basic ranged attack is **Eyes of Summer**,  which deals radiant
+damage and blinds (save ends). She can also **Call Storm Winds** (recharge 5+),
+a ranged area attack that deals lighting and thunder damage to enemies, and
+slides them 3 squares on a hit. The storm persists for a turn and can be
+sustained with a minor action, which also allows the nymph to slide anyone
+inside it 3 squares.
+
+As an at-will move action, the nymph can employ her **Omniscient Strategy** to
+shift 1 square and allow one of her allies to move their speed.
+
+The summer nymph is a mastermind, so PCs will likely come into contact with her
+minions and with the edges of her scheme long before they fight her in
+person. If that happens, she will certainly be accompanied by a bodyguard of
+similarly epic fey, including elder treants, mythical beasts, and eladrin
+nobles.
+
+She can also be used in a more ambiguous role, as a dangerous source of
+information. She is guaranteed to know the answer to any question about the
+present state of the universe, but the favors she asks in return are also
+guaranteed to advance some obscure scheme of hers and make pawns of the PCs.
+
+## Final Impressions
+
+I'm pleasantly surprised that out of the five nymph variants we saw here, only
+one of them is actually a seductress. And even that one is more about
+floral-scented mind control than the "she's just that sexy" trope of old D&D
+nymphs. As a bonus, the text never mentions the gender of the hapless mortal
+victims, so this is equal-opportunity mind control.
+
+My favorites are the winter and summer nymphs, who do the most to break that old
+stereotype. The wood nymph comes next for her tree-based shenanigans, though
+narratively she's very redundant with 4e dryads.

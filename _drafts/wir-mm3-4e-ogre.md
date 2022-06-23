@@ -1,0 +1,115 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Ogre"
+tags:
+    - dnd4
+    - lets-read
+---
+
+The ogre situation in the Monster Manual 3 is the same as the giant situation:
+they first appeared in the Monster Manual 1, and are about to get new and
+improved versions of those entries in the Monster Vault. The MM3 contains more
+"exotic" variants that will nicely complement the rewritten "basic" ones from
+the MV.
+
+## The Lore
+
+Classic ogres, such as the ones that will show up on the Monster Vault, are
+comically stupid brutes. The ones contained in this entry break that stereotype
+by being significantly smarter, and capable of sophisticated tactics on the
+level of any other humanoid opposition. In other words, the Monster Vault will
+Ogre Harder while the Monster Manual 3 will Ogre Smarter.
+
+The extra brainpower of these ogres doesn't necessarily make them _nice_ - the
+entries here are still all Chaotic Evil, they're just smarter about it. Nothing
+prevents you from Shreking it up and having ogres that are both smart and
+non-evil at your table, of course.
+
+## The Monsters
+
+As usual, Ogres are Large Natural Humanoids with a ground speed of 8. Everything
+else about them varies per stat block, though their abilities tend to be styled
+as big smashy strikes.
+
+### Ogre Cave Hunter
+
+This one is _sneaky_. The Cave Hunter has learned to perform stealthy raids,
+evade pursuers, and lure them to ambush spots disguised to look like the ogre's
+home cave.
+
+Cave Hunters are Level 8 Lurkers with 70 HP. Like typical ogres, they wear hide
+and fight with ogre-sized **Clubs** that have Reach 2. However they can use
+these weapons in more creative ways beyond the usual basic attack.
+
+**Smash and Swing** does half the damage of a basic attack, but dazes for a turn
+and allows the ogre to slide the target up to 5 squares on a hit. It's excellent
+for herding PCs together so other monsters can use area attacks, and for opening
+them up for the truly damaging attacks from the cave hunter itself.
+
+The first of these is **Skull Bash**, which requires a dazed target and does
+roughly double the damage of a basic attack. The second is **Victim Shield**, an
+interrupt that requires a dazed enemy within 2 squares and triggers when it's
+targeted by a melee or ranged attack. It gives the ogre +4 to defenses against
+that attack, and if the attack misses the chosen victim takes its damage
+instead. In that case the cave hunter can also slide the victim 4 squares to
+another space within 2 squares of it.
+
+Note that the hunter doesn't need to have dazed the victims itself in order to
+use these abilities, so if there are other monsters who can daze in the fight,
+they'll be able to use these abilities more often.
+
+### Ogre Ironclad
+
+Ogre Ironclads are smart enough to wear piecemeal metal armor instead of the
+more usual raw hides, and to fight using tactics that resemble cavalry, with
+closed ranks and powerful charges. Since their armor is still kind of
+improvised, being looted from smaller victims, it tends to fall off if it takes
+too many hits.
+
+Ironclads are Level 9 Soldiers with 96 HP. They wield big **Mauls** whose basic
+attacks mark for a turn on a hit. Their **Ironclad Reaction** gives them a free
+attack against a marked enemy that ignores the mark, and this attack also pushes
+the enemy 1 square and knocks them prone.
+
+While the ironclad is bloodied they take a -2 penalty to AC, but their charges
+allow them to make basic attacks against up to 2 targets instead of the usual
+single attack.
+
+### Ogre Storm Shaman
+
+Storm Shamans are perhaps the only ogres in the books that have no negative
+modifiers in any of their mental attributes. They worship the primal spirits
+that symbolize the fury of the storm, and their magic can bring that fury down
+on their enemies.
+
+Storm Shamans are Level 11 Controllers with 114 HP. All of their attacks have a
+storm magic theme. They can cast **Thunder Blasts** to deal thunder damage and
+deafen (save ends), or **Call Lightning** to deal lightning damage and blind
+(save ends). Their melee attack is a **Thunder Staff** that deals thunder damage
+and can daze (save ends) if it hits a blinded or deafened enemy. Those ranged
+spells are also area attacks, so there's a big chance that they'll leave
+_someone_ vulnerable to a daze from the staff. A second shaman in the encounter
+will make them both even more annoying.
+
+### Ogre Dreadnought
+
+Conceptually, this is pretty much an upgraded version of the Ogre Ironclad
+above. Unlike the Ironclad, the Dreadnought actually uses custom-fitted gear,
+wearing a full suit of plate and wielding a greatsword.
+
+Dreadnoughts are Level 14 Soldiers with 140 HP. Their **greatsword** has a
+Threatening Reach 2, and its basic attack also immobilizes for a turn on a
+hit. If the dreadnought fails a saving throw, it can use **Dreadnought Resolve**
+(recharge 4+) as a reaction to immediately reroll it with a +2 bonus.
+
+They're almost Brutes, in other words, since they lack a marking power. Still,
+Threatening Reach and immobilizing attacks make them effective at halting the
+PCs' advance, so the Soldier role still fits.
+
+## Final Impressions
+
+A pretty varied lineup, especially when combined with the [Monster Vault
+ogres][2]. It should easily allow you to build all-ogre encounters for use as
+the inhabitants of a lair or as a special unit in some other villainous force.
+
+[2]: {{ "/2020/08/13/ogre.html" | relative_url }}
