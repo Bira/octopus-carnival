@@ -29,7 +29,7 @@ second "epic end boss" to make an appearance in this book, but not the last.
 
 Lolth is described by the DMG as the goddess of shadows, lies, and spiders. As
 we saw in the various Drow entries, back in mythic times she led a major
-uprising against the other elven gods. Her defeat in her civil war saw her and
+uprising against the other elven gods. Her defeat in that civil war saw her and
 her proto-elf fey followers banished from the Feywild. Her followers moved to
 the Underdark, where over time they evolved into the drow. Lolth herself took up
 residence in the Abyss, crafting a whole layer of it into her personal domain.
@@ -42,12 +42,12 @@ either the trauma of this first betrayal or a few aeons of living in the Abyss
 that made her so.
 
 Regardless of her past history, the Lolth of _today_ is certainly Chaotic
-Evil. Her followers organize themselves in strict hierarchies where the powerful
-are free to abuse the weak, and the weak are encouraged to rise in power by
-betraying and murdering their rivals and superiors. Lolth herself doesn't much
-trust her followers as we've seen in past entries: she created at least two
-monsters whose main purpose is to infiltrate their hierarchies and keep an eye
-on them.
+Evil. Her followers organize themselves into strict hierarchies whose goal is to
+enable an endless cycle of bloody betrayal: the powerful are free to abuse the
+weak, and the weak are encouraged to rise in power by murdering their rivals and
+superiors. Lolth herself doesn't much trust her followers as we've seen in past
+entries: she created at least two monsters whose main purpose is to infiltrate
+those hierarchies and keep an eye on their members.
 
 So, in a way, you could say Lolth is the goddess of the cycle of abuse. She
 inflicts on her followers the same suffering she went through long ago, and
@@ -69,6 +69,11 @@ have such a large reach.
 This entry contains stats not only for Lolth, but also for her Aspect and her
 Exarch. We'll describe them in order of level, like we've been doing for the
 other big shots in this series.
+
+There are no entries for Lolth's cultists. Most of them are the drow described
+in the other monster books, as well as the Abyssal Drow and the Chitine from
+this one. Like the other big bads, Lolth can certainly have cultists from other
+species as well, using "generic" stat blocks.
 
 ### Aspect of Lolth
 
@@ -98,7 +103,7 @@ Blindsight 5. They have Resist 30 Poison.
 
 When an aspect hits a creature granting **Combat Advantage** to it, that
 creature is weakened and takes 20 ongoing poison damage (save ends both) in
-addition to sufferint all the standard effects of the attack.
+addition to suffering all the standard effects of the attack.
 
 Its basic attack is a **bite**. It can also shoot **Acid Webs** (recharge 5+) in
 a Clost Blast 5. This deals acid damage and slows (save ends). On the first
@@ -106,16 +111,17 @@ failed save, the target also begins taking 20 ongoing acid damage until they
 pass a save.
 
 They also have a nasty power named **Worthy Sacrifice**, an area burst attack
-centered on a non-minion drow, spider, or demon ally. This reduces the ally to 0
-HP, and attacks the Reflex of every enemy in the blast area. This attack is
-non-damaging but immobilizes all those it hits (save ends). It also creates a
-zone of webbed gore that lasts until the end of the encounter and immobilizes
-any non-spider who ends their move inside (save ends). This recharges when the
-Aspect is first bloodied.
+centered on a non-minion drow, spider, or demon ally. This causes the ally to
+explode into gory webs, reducing it 0 HP, and attacks the Reflex of every enemy
+in the blast area. This attack doesn't damage enemies, but immobilizes all those
+it hits (save ends). It also creates a zone of webbed gore that lasts until the
+end of the encounter and immobilizes any non-spider who ends their move inside
+(save ends). This recharges when the Aspect is first bloodied.
 
 As minor actions, the aspect can create a **Cloud of Darkness** that blinds and
 blocks line of sight for anyone but itself; and **Change Shape** to appear as a
-Medium drow. The Insight DC to pierce the disguise is 43.
+Medium drow. The Insight DC to pierce the disguise is 43, hard even for someone
+who min-maxed their Insight.
 
 If anyone moves adjacent to the aspect, it can use its **Impaling Legs** as an
 interrupt. This is an attack that deals physical damage and grabs the
@@ -141,8 +147,8 @@ Lolth's greatest ally and her most dangerous enemy.
 
 Eclavdra has tried to betray Lolth not once, but _twice_. The first time she
 worked with the Elder Elemental Eye (that's the GDQ adventures), and the second
-she worked with Graz'zt. She still carries the a relic of the Eye, the Tentacle
-Rod, and uses it as her main weapon and implement.
+she worked with Graz'zt. She still carries a relic of the Eye, the Tentacle Rod,
+and uses it as her main weapon and implement.
 
 Despite these previous betrayals, Eclavdra has not only remained in Lolth's good
 graces, but her standing seems to have _improved_. Maybe the Lady of Spiders
@@ -155,8 +161,8 @@ has no special resistances, even to poison, because Lolth is not stupid.
 
 As she is the **Spider Queen's Emissary**, any demon, drow, and spider allies
 within 5 squares of Eclavdra have a +2 bonus to attack and can shift 1 square as
-a minor action. Her **Tentacle Rod** has Reach 3, and can be used in a few
-special maneuvers in addition to giving her a basic attack.
+a minor action. Her **Tentacle Rod** is stretchy and has Reach 3. It can be used
+in a few special maneuvers in addition to giving her a basic attack.
 
 **Tentacle Lash** has the same reach and damage as a basic attack, but on a hit
 it also strips all poison resistance or immunity from the target _for the rest
@@ -265,15 +271,15 @@ The example quests are:
 - **The Loom of Fate**, an artifact hidden deep within Corellon's palace in
   Arvandor. It was once used by Lolth, and it can be used by the PCs to
   rearrange the threads of her fate and make her defeatable. Corellon knows this
-  but fears to use it.
+  but fears to use it. What doesn't he want you to know?
 
 - **The Egg of Lolth**, a mysterious artifact that can be destroyed to seal the
-  gates going out of the Demonweb Pits and thus prevent Lolth's escape. How are
-  you going to get out, though?
+  gates going out of the Demonweb Pits and thus prevent Lolth's escape. But
+  then how do you get out?
 
 - **Lolth's Prison**, a demiplane beyond even the Demonweb Pits, where a dread
   Bone Colossus guards the Pendant of Truth. Brandishing the Pendant before the
-  goddess of lies prevents her from discorporating.
+  goddess of lies prevents her from discorporating. How will you get there?
 
 ## Final Impressions
 
