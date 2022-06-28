@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-hellwasp.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I don't remember seeing hell wasps before, but they sound like the sort of
 monster that might have debuted in 3e.
 
@@ -95,3 +106,5 @@ building more hellwasp varieties.
 
 Mechanically, they're interesting without overstaying their welcome. It's always
 fun to see a monster who can carry PCs off and drop them into lava pits.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
