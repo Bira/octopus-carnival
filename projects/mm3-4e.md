@@ -50,6 +50,7 @@ entries.
     - [Devil, Corruption][24]
     - [Devil, Hell Knight][25]
     - [Devil, Hell Wasp][26]
+    - [Devil, Passion][27]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -78,3 +79,4 @@ entries.
 [24]: {{ "/2022/06/22/devil-corruption.html" | relative_url }}
 [25]: {{ "/2022/06/23/devil-hell-knight.html" | relative_url }}
 [26]: {{ "/2022/06/28/devil-hell-wasp.html" | relative_url }}
+[27]: {{ "/2022/06/29/devil-passion.html" | relative_url }}

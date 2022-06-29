@@ -186,7 +186,22 @@ free will taken away.
 
 The Stoneshaper depicted here is a human who has undergone this process. It's
 basically a powered-up Earth Weird, with more damaging spells. It's Level 24
-Artillery with 175 HP.
+Artillery with 175 HP. They fight with **Warhammers**, and have several
+spells. First there's **Stony Embrace** (Ranged 10), a basic attack that
+damages, restrains and inflicts 10 ongoing damage on a hit (save ends). Then
+there's **Rending Earth** (Ranged 20), which targets enemies restrained by Stony
+Embrace, deals slightly more damage, and stuns then (save ends). Finally there's
+**Unruly Earth**, a close burst 2 that damages, pushes 3 squares, and knocks
+prone on a hit. This only targets enemies, too, so it can be used safely in a
+melee.
+
+A "save ends" stun is extremely powerful, and though the targetting condition
+for Rending Earth is fairly restrictive a focused and lucky stoneshaper might be
+able to use it every other turn. When fighting an enemy group including a
+stoneshaper, follow the old Shadowrun adage and geek the mage first. The
+stoneshaper will make this hard because the ranges involved make it easy for the
+stoneshaper to stay far away and play hit-and-run.
+
 
 
 

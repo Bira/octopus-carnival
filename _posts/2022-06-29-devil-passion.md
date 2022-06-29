@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-passion.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is the first time I come across passion devils, but they give me strong 3e
 vibes.
 
@@ -67,3 +78,5 @@ It's a Succubus Plus with a temper. Lore-wise they're Fierna's trademark
 servants, so they fit into any adventure where she's the main enemy. Otherwise
 you might want to use leveled-up succubi from the Monster Vault, or reskin these
 into succubi as appropriate.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
