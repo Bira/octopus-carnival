@@ -24,10 +24,10 @@ don't come from sinners, and they get their souls either by having mortals sign
 contracts or through force. Those souls get used as currency, fuel, and magic
 item ingredients, not to make new devils.
 
-This makes them members of Hell's sales department, just like imps, but they're
-stronger, smarter, and bolder in their suggestions. I imagine having a bound
-vizier devil instead of a mere bound imp is a major status symbol among deluded
-diabolists.
+This makes these creatures members of Hell's sales department, just like
+imps. The main difference is that viziers are stronger, smarter, and bolder in
+their suggestions. I imagine having a bound vizier devil instead of a mere bound
+imp is a major status symbol among deluded diabolists.
 
 If you're into the sin thing (which was the standard in 3e and maybe earlier),
 they you can go with the lore in this entry that says that vizier devils are

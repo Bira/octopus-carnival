@@ -51,6 +51,8 @@ entries.
     - [Devil, Hell Knight][25]
     - [Devil, Hell Wasp][26]
     - [Devil, Passion][27]
+    - [Devil, Rage][28]
+    - [Devil, Slime][29]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -80,3 +82,5 @@ entries.
 [25]: {{ "/2022/06/23/devil-hell-knight.html" | relative_url }}
 [26]: {{ "/2022/06/28/devil-hell-wasp.html" | relative_url }}
 [27]: {{ "/2022/06/29/devil-passion.html" | relative_url }}
+[28]: {{ "/2022/07/03/devil-rage.html" | relative_url }}
+[29]: {{ "/2022/07/03/devil-slime.html" | relative_url }}

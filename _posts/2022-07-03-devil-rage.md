@@ -6,7 +6,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-rage.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the others.
 
 Looks like the Monster Manual 3 is all about blurring the lines between
 fiends. We have a devil who became a demon lord, demons who became devils, and
@@ -24,8 +33,9 @@ in the right direction.
 
 These creatures are the result of an infernal experiment to create more powerful
 shock troops to throw into the meatgrinder of the Blood War. They're actually a
-little weaker than a standard hell knight, so we should probably say that they
-adapted the process to work on legion devils instead.
+little weaker than a standard hell knight, making them a bit of a failed
+experiment. Maybe they adapted the process for the mass-produced version so it
+works on legion devils instead.
 
 Rage devils are used as heavy elements attached to legion devil forces, and are
 often placed under the command of hell knights. In their free time, these things
@@ -59,4 +69,6 @@ their devilish masters.
 
 As I said above, I'd probably say most rage devils are modified legion devils,
 because baseline Hell Knights are both stronger and smarter than these things,
-so turning a Hell Knight into a Rage Devil is a net strategic loss.
+so turning a Hell Knight into a Rage Devil is a bit of a waste.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

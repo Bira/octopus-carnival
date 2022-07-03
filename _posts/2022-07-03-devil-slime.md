@@ -6,8 +6,19 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-slime.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is another one of those monsters that's all about blurring the lines
-between fiends. These monsters are devls, but they break the design rule that
+between fiends. These monsters are devils, but they break the design rule that
 says devils have a human-like appearance.
 
 Slime Devils are amorphous oozes, though unlike most "true" oozes they're
@@ -60,3 +71,5 @@ fight off the victim's friends.
 Lore-wise, kinda meh. I'm not a fan of bringing the old "fiends come from the
 souls of sinners" cliches back into D&D. They're more interesting mechanically,
 because I love attack powers that force PCs to choose between two bad outcomes.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
