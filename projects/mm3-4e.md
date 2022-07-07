@@ -53,6 +53,7 @@ entries.
     - [Devil, Passion][27]
     - [Devil, Rage][28]
     - [Devil, Slime][29]
+    - [Devil, Swarm][30]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -84,3 +85,4 @@ entries.
 [27]: {{ "/2022/06/29/devil-passion.html" | relative_url }}
 [28]: {{ "/2022/07/03/devil-rage.html" | relative_url }}
 [29]: {{ "/2022/07/03/devil-slime.html" | relative_url }}
+[30]: {{ "/2022/07/07/devil-swarm.html" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-swarm.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is another devil that breaks the "morphology" guidelines, but it's kind of
 unavoidable this time. After all, they're associated with Baalzebul, Lord of the
 Flies.
@@ -60,3 +71,5 @@ who's melting. Reapply the acid as necessary.
 
 Fly-themed fiends for the Lord of the Flies, nothing unexpected. The
 acid/psychic damage mechanic is mildly interesting.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
