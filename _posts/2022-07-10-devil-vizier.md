@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-devil-vizier.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I don't remember seeing these specific devils in earlier editions, but that
 might just mean they were from a late 3e book.
 
@@ -97,3 +108,5 @@ That said, a vizier devil's stats make it an interesting monster to fight and
 they can easily be reskinned into infernal warlord types. They go really well
 with melee bruiser monsters that can make multiple attacks. Those can be part of
 the entourage of their mortal bosses, or other devils.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
