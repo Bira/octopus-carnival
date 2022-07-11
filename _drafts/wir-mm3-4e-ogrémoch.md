@@ -202,6 +202,37 @@ stoneshaper, follow the old Shadowrun adage and geek the mage first. The
 stoneshaper will make this hard because the ranges involved make it easy for the
 stoneshaper to stay far away and play hit-and-run.
 
+### Ogrémoch
+
+After looking at the cultists, it's time to look at the Big Rock
+himself. Ogrémoch's domain is a flat-topped mountain in the depths of the
+Elemental Chaos. He's bound there by chains forged by Moradin from the whipping
+winds that used to scoured that mountain. Though Ogrémoch is unable to leave his
+domain, his confinement does not prevent him from affecting the mortal world
+indirectly, and empowering his cultists.
+
+Unlike the cowardly Imix, Ogrémoch prefers to fight alone. His preferred
+battlefields are vast rocky plains and enormous caverns where his powers can
+easily shape the terrain. PCs will mostly likely fight him as a campaign end
+boss, either in his own domain or in another similar battlefield after he
+escapes his prison.
+
+Ogrémoch is a Gargantuan Elemental Humanoid with the Earth and Primordial
+keywords, and a Level 34 Solo Soldier with 1244 HP. He has a ground speed of 8
+with Earth Walk, and can also burrow and climb at the same speed. His special
+senses include Darkvision and Tremorsense 20, and he is immune to poison, sleep
+and disease.
+
+He has three passive traits that explain why he likes stony or earthy
+battlefields. The first is **Jagged Earth** is an aura (5) that turns its area
+into difficult terrain. The first time a creature enters this aura on their
+turn, they must pass a DC 32 Athletics or Acrobatics check or take 20
+damage. Creatures with Earth Walk ignore the aura.
+
+The second trait is **Earthbound**, which allows Big O to ignore any forced
+movement or knockdown effects as long as he's standing on a solid surface. And
+finally we have **Earth Glide**, allowing him to pass through earth and stone
+as if he had phasing.
 
 
 
