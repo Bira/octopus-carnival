@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-dragon-blizzard.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Blizzard Dragons were created by Umboras, Lord of the Rimefire. The dragon
 petitioners who approached this primordial were the coldest-hearted among their
 number. Umboras took them to the coldest reaches of the Elemental Chaos and
@@ -119,3 +130,5 @@ Mechanically, they _feel_ like dragons and like cold themed creatures without
 actually using any of the signature mechanics for either! This is a dragon that
 does not have a breath attack or a fear aura, and a cold creature that is not
 immune to cold. It's fascinating!
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

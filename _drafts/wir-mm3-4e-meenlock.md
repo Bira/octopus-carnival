@@ -6,8 +6,8 @@ tags:
     - lets-read
 ---
 
-I don't remember seeing these things in earlier editions. Their lore is almost
-certainly new.
+I don't remember seeing these things in earlier editions. Their lore feels new
+to me.
 
 ## The Lore
 
@@ -38,7 +38,7 @@ allies include foulspawn, or powerful evil wizards and psions.
 The text of the book is a bit confusing but it looks like it's possible to
 restore someone who was turned into a meenlock. You need to kill the creature,
 burn its body, and then apply the Remove Affliction and Raise Dead rituals to
-the remains.
+the remains. How's that for an extreme treatment?
 
 ## The Numbers
 
@@ -79,7 +79,10 @@ Whispers** force the victim to make a basic attack against a creature of the
 stalker's choice. It also exposes the victim to Meenlock Corruption.
 
 Their **Claws** are simple basic attacks with average damage, so stalkers have
-an incentive to stay away from the PCs and work solely through the Horrid Link.
+an incentive to stay away from the PCs and work solely through the Horrid
+Link. Their default goal in a fight is to infect as many PCs as possible with
+Meenlock Corruption, though they might have others depending on who they're
+allied with.
 
 ### Meenlock Corruptor
 
@@ -94,7 +97,7 @@ ends). A target affected by this is considered dominated, gains 2d6 bonus damage
 to all attacks, and is unable to see the corruptor.
 
 Failing the first save against mental disarray makes the condition last until
-the end of the encounter! Whenever victim in this state takes more than 10
+the end of the encounter! Whenever a victim in this state takes more than 10
 damage, the meenlock corruptor takes the same amount, and the victim can make a
 saving throw.
 
@@ -104,7 +107,9 @@ close blast 5, dealing psychic damage and knocking targets prone.
 So yeah, another dominator that's worse than a succubus. Since Corrupting Mind
 is at-will, it's possible that the whole party would get dominated at once when
 fighting a corruptor. The more of them you add to a single encounter, the bigger
-the chance of this happening.
+the chance of this happening. Once a target is dominated for the encounter, Team
+Monster should avoid attacking them. It's up to the PCs to do those 10+ damage
+to their mind-controlled friends.
 
 ## Final Impressions
 
@@ -116,4 +121,5 @@ this out before exposure.
 Mechanically, both of them are quite dangerous. PCs fighting an all-meenlock
 encounter group will spend as much time attacking each other as they will
 fighting the monsters. The corruptor is particularly terrifying in this
-regard.
+regard. If possible, avoid using more than one of those in an encounter group
+unless you want your PCs to really suffer.

@@ -55,6 +55,9 @@ entries.
     - [Devil, Slime][29]
     - [Devil, Swarm][30]
     - [Devil, Vizier][31]
+  - Dragons
+    - [Introduction][32]
+    - [Dragon, Blizzard][33]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -88,3 +91,5 @@ entries.
 [29]: {{ "/2022/07/03/devil-slime.html" | relative_url }}
 [30]: {{ "/2022/07/07/devil-swarm.html" | relative_url }}
 [31]: {{ "/2022/07/10/devil-vizier.html" | relative_url }}
+[32]: {{ "/2022/07/11/dragon-intro.html" | relative_url }}
+[33]: {{ "/2022/07/13/dragon-blizzard.html" | relative_url }}
