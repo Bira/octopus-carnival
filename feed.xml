@@ -6,9 +6,146 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Jul 2022 19:12:36 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Jul 2022 19:12:36 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Jul 2022 14:08:21 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Jul 2022 14:08:21 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Dragon, Blizzard</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dragon-blizzard.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Blizzard Dragons were created by Umboras, Lord of the Rimefire. The dragon
+petitioners who approached this primordial were the coldest-hearted among their
+number. Umboras took them to the coldest reaches of the Elemental Chaos and
+entombed them there for a year and a day while he worked his magic on them. When
+they emerged, they were blizzard dragons.&lt;/p&gt;
+
+&lt;p&gt;Umboras had a specific goal in mind when he did this. He had been an ally of the
+winter goddess Khala, who shared with him the goal of freezing the world
+solid. However, the Raven Queen had just usurped Khala and claimed the domain of
+winter from her, so Umboras was out for revenge. He created blizzard dragons to
+help transport his troops to the Raven Queen’s new home of Letherna.&lt;/p&gt;
+
+&lt;p&gt;The Queen, however, was smarter than him. She retreated to the labyrinthine
+astral domain of Pandemonium, and used its twisty little passages (all alike) to
+separate Umboras from his main forces and lock him in one of the domain’s empty
+vaults. He’s still there!&lt;/p&gt;
+
+&lt;p&gt;The blizzard dragons scattered after their master was imprisoned. Some stayed in
+Pandemonium, some returned to the Elemental Chaos, some even went to the coldest
+places of the world. For obvious reasons, though, you’ll rarely find one of them
+in the Shadowfell.&lt;/p&gt;
+
+&lt;p&gt;Blizzard dragons don’t usually have grand plans of their own, and are usually
+content to freeze and sculpt their territories. However, they’re surprisingly
+good team players and can often be found allied to other creatures of compatible
+disposition, helping them achieve their goals. This varies from the usual frost
+giants and ice archons to liches or winter fey, depending on the individual. And
+they’re always down for breaking a primordial out of prison.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Blizzard dragons are Elemental Magical Beasts with the Cold and Dragon
+keywords. They have Darkvision, Ice Walk, and a clumsy flight speed. All of
+their attacks do cold damage, even the bites and claws.&lt;/p&gt;
+
+&lt;h3 id=&quot;blizzard-dragon-wyrmling&quot;&gt;Blizzard Dragon Wyrmling&lt;/h3&gt;
+
+&lt;p&gt;Wyrmlings are Medium, making them the smallest dragons I’ve seen in my Let’s
+Read so far. They’re Level 2 Controllers with 38 HP. They have ground and air
+speeds of 6.&lt;/p&gt;
+
+&lt;p&gt;Yeah, that’s right, wyrmlings are &lt;em&gt;regulars&lt;/em&gt;. This means they’ll almost always
+be found cooperating with a sizable group of other monsters. The most obvious
+candidates are their clutch-siblings, but they’re smart enough to strike an
+alliance with lots of other people.&lt;/p&gt;
+
+&lt;p&gt;They are surrounded by an aura (1) of &lt;strong&gt;Freezing Wind&lt;/strong&gt;. Enemies that end their
+turn inside are slid 1 square. When hit by a cold attack, the wyrmling reacts
+with &lt;strong&gt;Sudden Flurry&lt;/strong&gt;, immediately sliding all enemies inside its aura 1
+square.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; immobilizes, and their &lt;strong&gt;claws&lt;/strong&gt; slide the target 1 square on a
+hit. While they’re bloodied, &lt;strong&gt;Wyrmling Fury&lt;/strong&gt; allows them to spend an action to
+attack with both.&lt;/p&gt;
+
+&lt;h3 id=&quot;young-blizzard-dragon&quot;&gt;Young Blizzard Dragon&lt;/h3&gt;
+
+&lt;p&gt;Young’uns grow to size Large, and become Level 7 Elite Controllers with 166
+HP. Their speed increases to 8.&lt;/p&gt;
+
+&lt;p&gt;They have all of the wyrmling’s abilities with a few differences and
+additions. The simplest one is that Wyrmling Flurry is replaced by a standard
+Double Attack ability, and their claws slide 2 squares.&lt;/p&gt;
+
+&lt;p&gt;Unlike other dragons, blizzards don’t have a breath weapon. Instead, when
+they’re hit by a melee attack, a high-pressure blast of frozen liquid bursts
+forth from the wound. This is written as a reaction named &lt;strong&gt;Chill Rebuke&lt;/strong&gt;, a
+Close Blast 5 vs. Fortitude. It deals cold damage and slows on a hit (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;This is also where the “living disaster” mechanic kicks in. Here it’s an ability
+named &lt;strong&gt;Rising Winds&lt;/strong&gt;. Once this is activated as a minor action, it causes the
+size of the dragon’s Freezing Wind aura to grow to 3. At the start of the
+dragon’s next turn, it automatically expands again, to 5. And at the start of
+the following turn, the dragon makes a Close Burst 5 attack vs. Fortitude, with
+a hit dealing cold damage, slowing, and blinding the targets. Once the attack is
+resolved, the aura returns to is initial size of 1 and Rising Winds recharges.&lt;/p&gt;
+
+&lt;h3 id=&quot;adultelder-blizzard-dragon&quot;&gt;Adult/Elder Blizzard Dragon&lt;/h3&gt;
+
+&lt;p&gt;Adults and elders are identical to young’uns, with bigger numbers. Adults are
+Level 12 Elite Controllers with 252 HP, and Elders are Level 17 with 338
+HP.&lt;/p&gt;
+
+&lt;p&gt;Elders are Huge and can move at speed 10. They can slide enemies 3 squares with
+their claws and 2 squares with their auras. Their Rising Winds attack restrains
+instead of immobilizing.&lt;/p&gt;
+
+&lt;h3 id=&quot;ancient-blizzard-dragon&quot;&gt;Ancient Blizzard Dragon&lt;/h3&gt;
+
+&lt;p&gt;Ancients are Huge in size, and are Level 22 Elite Controllers with 422
+HP. They’re almost idendical to elders, with bigger numbers. They also have a
+new encounter power named &lt;strong&gt;Deep Freeze&lt;/strong&gt; that works kinda like a breath weapon,
+though I guess it’s more of a high-pressure blood ejection, since the dragon
+must be bloodied to use it.&lt;/p&gt;
+
+&lt;p&gt;This ability attacks enemies in a Close Burst 5, targetting Fortitude. A hit
+deals cold damage, immobilizes, and imposes a -5 penalty to Fortitude (save ends
+both). A miss deals half damage and imposes the same penalty for a single
+turn. All of the dragon’s non-basic attacks target Fortitude, so this penalty
+makes it a lot more dangerous while it lasts.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Blizzard dragons feel like they slide into the exact same niche as white
+dragons, with a similar cold theme and a similarly unpleasant
+personality. Blizzards are smarter and not technically evil, but they still make
+for terrible neighbors.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, they &lt;em&gt;feel&lt;/em&gt; like dragons and like cold themed creatures without
+actually using any of the signature mechanics for either! This is a dragon that
+does not have a breath attack or a fear aura, and a cold creature that is not
+immune to cold. It’s fascinating!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Dragon, Catastrophic</title>
@@ -983,233 +1120,6 @@ spread in the same encounter.&lt;/p&gt;
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/06/22/devil-corruption.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/22/devil-corruption.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Derro</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-derro.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Derro have been in the game since AD&amp;amp;D 1st Edition, where they appeared in the
-Monster Manual II. They’re based on the writings of an American author named
-Richard Sharpe Shaver, who wrote a lot about a civilization of psychic and
-torture-obsessed underground humanoids he named the dero (from “Detrimental
-Robots”).&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;D&amp;amp;D Derro have a different origin from Shaver’s dero, though the flavor is quite
-similar in 4e. When the world was still young, it gave rise to an advanced and
-power-hungry civilization. Its people, the derro, craved power like that of the
-primordials, but they wanted to bow to no master. So derro scholars came up with
-an alternate solution: open a portal to this unoccupied magic-rich dimension
-they found. There would be no one to contest their claim! Free unlimited power!&lt;/p&gt;
-
-&lt;p&gt;They succeeded in opening their portals, but found out this new dimension was
-far from unoccupied. It was the place known today as the Far Realm. After the
-derro beheld what came through to greet them, they suddenly realized they had
-finally found a master worth worshiping. In other words, their sanity was
-blasted to dust.&lt;/p&gt;
-
-&lt;p&gt;Derro civilization became so horrifying in its depravity that the World Serpent,
-one of the most powerful primal spirits, coiled around it and dragged the entire
-thing underground. This stopped their grand machinations but did not destroy
-them. Many centuries later, a drow expedition found the ruins of the derro
-empire, and what the derro became in the dark. Only one of their number made it
-home… mostly. Her report convinced the drow these maniacs must be
-eradicated, but this is harder than it looks.&lt;/p&gt;
-
-&lt;p&gt;In our narrative present, derro live in small groups that crawl around the ruins
-of their old cities, and worship the energies and beings of the Far
-Realm. They’re enthusiastic slavers, going on frequent raids to the surface or
-to other Underdark communities to find new captives. They treat these slaves
-badly, torturing them for fun and killing them for the smallest of offenses. The
-slaves, in turn, will turn on their captors as soon as the smallest chance to
-escape presents itself.&lt;/p&gt;
-
-&lt;p&gt;Derro are only capable of making true alliances with beings from the Far Realm,
-suck as grells, mind flayers, and aboleths (whom they sometimes
-worship). They despise everyone else, and everyone else hates them right
-back.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Derro are statted up as mid-Paragon threats, suitable for inclusion in encounter
-groups that feature their preferred allies listed above. The entry also gives
-enough Derro stat blocks to make decent all-Derro encounters.&lt;/p&gt;
-
-&lt;p&gt;Derro are Small Aberrant Humanoids. They have Darkvision, and their signature
-ability is named &lt;strong&gt;Strength of Madness&lt;/strong&gt;. It’s an encounter power that lets them
-roll a d6 and add the result to all of their attack rolls until the end of their
-next turn, but also makes them grant combat advantage during this time.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-warrior&quot;&gt;Derro Warrior&lt;/h3&gt;
-
-&lt;p&gt;Combatants like these typically make up the patrols that keep derro territory
-“secure” by engaging in preemptive attacks against its neighbors. Gotta keep
-them guessing, y’know.&lt;/p&gt;
-
-&lt;p&gt;Warriors are Level 13 Artillery with 101 HP and all standard Derro traits. Their
-speed is 5, and they have a +2 to saves against fear effects. They carry daggers
-and a repeating hand crossbows with several magazines.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;dagger&lt;/strong&gt; is their default melee attack, and they can fire the &lt;strong&gt;Repeating
-Hand Crossbow&lt;/strong&gt; as a minor action, or use a standard action to let loose a
-&lt;strong&gt;Bolt Spray&lt;/strong&gt; (recharge 5+) that hits a Close Blast 5 for heavy damage and
-pushes 1 square on a hit. Any of these will deal extra damage against targets
-granting combat advantage.&lt;/p&gt;
-
-&lt;p&gt;Bolt Spray is not selective, and most derro warriors don’t particularly care if
-their allies are caught in its area of effect. They’ll use it whenever possible.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-thug&quot;&gt;Derro Thug&lt;/h3&gt;
-
-&lt;p&gt;This can be a less capable warrior, or just your average civilian
-psychopath. Derro thugs are Level 14 Minion Brutes and they fight with
-clubs. Their only special ability is &lt;strong&gt;Mad Sacrifice&lt;/strong&gt;: when the thug misses an
-attack, it can sacrifice itself to turn the miss into a hit.&lt;/p&gt;
-
-&lt;p&gt;Using them in combat is simple: get a whole bunch of them to charge the PCs and
-hit whoever’s closest, using Mad Sacrifice liberally.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-fanatic&quot;&gt;Derro Fanatic&lt;/h3&gt;
-
-&lt;p&gt;Warriors that display notable skill and potential are invited by Derro savants
-to peer directly into the Far Realm. Those who remain functional after the
-experience use this stat block.&lt;/p&gt;
-
-&lt;p&gt;Fanatics are Level 14 Skirmishers with 140 HP. They carry battleaxes into
-combat. Their basic &lt;strong&gt;axe&lt;/strong&gt; attack has an attached effect that allows them to
-end any mark on themselves and shift 2 squares before making the attack roll.&lt;/p&gt;
-
-&lt;p&gt;If they bloody an enemy, their &lt;strong&gt;Insane Bloodlust&lt;/strong&gt; allows them to immediately
-make another attack against that same enemy. And while a fanatic is themselves
-bloodied, &lt;strong&gt;Unleashed Madness&lt;/strong&gt; gives them a -2 attack penalty and 2d6 bonus
-damage.&lt;/p&gt;
-
-&lt;p&gt;That effect on their basic attack allows them to slip right past the party’s
-front line and go for the squishies, and by the time they get there they might
-even have turned into mini-brutes. Fanatics always fight to the death.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-harvester&quot;&gt;Derro Harvester&lt;/h3&gt;
-
-&lt;p&gt;This derro is specialized in capturing slaves, a very important function in
-derro society. They always need more people to do the labor derro consider
-beneath themselves, and to act as experimental subjects.&lt;/p&gt;
-
-&lt;p&gt;Harvesters are Level 15 Lurkers with 116 HP. They wield war picks and carry a
-set of shackles. Their attacks do bonus damage if the target is granting them
-combat advantage.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a strike with the &lt;strong&gt;pick&lt;/strong&gt; and has no special effects, but
-they have a frightening power named &lt;strong&gt;Harvest&lt;/strong&gt;. To use it, the derro must have
-started its turn hidden from the target. It’s an attack against Fortitude, which
-does no damage but &lt;em&gt;knocks the target unconscious&lt;/em&gt; (save ends).&lt;/p&gt;
-
-&lt;p&gt;The harvester can them use its &lt;strong&gt;shackles&lt;/strong&gt; to bind the helpless victim, which
-from that point on is restrained and falls prone whenever it’s hit with a melee
-attack. The victim can try to escape by succeeding in an escape action against
-the harvester (Athletics vs. Fort 27, or Acrobatics vs. Ref 28).&lt;/p&gt;
-
-&lt;p&gt;If Harvest fails or a victim gets loose, the derro can use &lt;strong&gt;Flee to the
-Shadows&lt;/strong&gt;, which allows it to move its full speed and make a Stealth test to
-hide if it has concealment at the end of the movement.&lt;/p&gt;
-
-&lt;p&gt;The shackles can only be used once per encounter, but Harvest is at-will. So a
-harvester could knock someone out, shackle them, and have its buddies drag the
-victim to their base, keeping them unconscious with multiple applications of
-Harvest. I guess that once they’re no longer using combat turns, the victim just
-stays down until they wake up in a cell.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-ironguard&quot;&gt;Derro Ironguard&lt;/h3&gt;
-
-&lt;p&gt;Ironguards are more disciplined than your typical derro warrior, which
-admittedly is not a high bar to clear. They are proficient in the use of hooked
-spears, and are often employed to catch runaway slaves or guard them so they
-don’t run away in the first place. Paranoid derro bigwigs (i.e, all of them)
-also hire ironguards to watch their stuff.&lt;/p&gt;
-
-&lt;p&gt;Ironguards are Level 15 Soldiers with 150 HP. Their &lt;strong&gt;hooked spears&lt;/strong&gt; deal extra
-damage against prone targets, so they love stabbing people when they’re
-down. The weapons are also used in &lt;strong&gt;hooking jabs&lt;/strong&gt; attacks, which deal damage
-and grab on a hit, and on non-damaging &lt;strong&gt;unbalancing thrusts&lt;/strong&gt; (minor actions)
-which target a grabbed creature and knock them prone on a hit.&lt;/p&gt;
-
-&lt;p&gt;Their tactics are obvious from the ability descriptions: Hooking Jab;
-Unbalancing Thrust; stabstabstabstab. Send your beefy defenders to fight them,
-because Unbalancing Thrust targets Fortitude.&lt;/p&gt;
-
-&lt;h3 id=&quot;derro-savant&quot;&gt;Derro Savant&lt;/h3&gt;
-
-&lt;p&gt;Our spellcasters, or more precisely psions. They preserve the old lore that gave
-the original derro access to the Far Realm, and spend their time deep inside the
-ruins of their empire trying to find ways to reopen the old portals. They wield
-scourges in combat, and use orbs as their implements.&lt;/p&gt;
-
-&lt;p&gt;Savants are Level 16 Controllers with 154 HP. They have a ground speed of 5 and
-a teleport speed of 3. Their &lt;strong&gt;scourges&lt;/strong&gt; damage and inflict a -2 attack penalty
-for a turn. Their basic ranged attack is &lt;strong&gt;Mind Scourge&lt;/strong&gt;, which deals psychic
-damage and forces the target to choose between taking 10 ongoing psychic damage
-or being dazed. The chosen condition is (save ends) either way.&lt;/p&gt;
-
-&lt;p&gt;The savant can also open a mini-portal to the Far Realm with the &lt;strong&gt;Window to
-Madness&lt;/strong&gt; power. This creates a small zone (area burst 1) centered on an ally
-within 10 squares. The zone lasts until the end of the encounter, and any
-non-derro that enter the zone or ends their turn there take 10 psychic
-damage. The savant can end the zone early with a minor action, in which case the
-power recharges. It can also slide every creature inside the zone 2 squares as a
-minor action.&lt;/p&gt;
-
-&lt;h3 id=&quot;warped-slave&quot;&gt;Warped Slave&lt;/h3&gt;
-
-&lt;p&gt;This is not a derro, but a slave that was subject to their experiments and
-warped into a tentacled abomination. The stats could also be used for a generic
-Thing From Beyond summoned from a derro portal or other Far Realm opening.&lt;/p&gt;
-
-&lt;p&gt;These unfortunates are Large Aberrant Humanoids and Level 16 Brutes with 193
-HP. They have Speed 6 but can’t shift, and they have Darkvision.&lt;/p&gt;
-
-&lt;p&gt;The warped slave’s &lt;strong&gt;Disintegrating Mind&lt;/strong&gt; works as an aura (1), which deals
-psychic damage to enemies caught inside. If a derro inside the aura uses its
-Strength of Madness ability, the slave gets to make a free tentacle attack.&lt;/p&gt;
-
-&lt;p&gt;This thing can &lt;strong&gt;Bite&lt;/strong&gt; or use &lt;strong&gt;Tentacles&lt;/strong&gt; to fight. The tentacles grab and
-pull the target 1 square in addition to dealing damage. When bloodied, it gets
-desperate and gains a &lt;strong&gt;Flailing Tentacles&lt;/strong&gt; attack that affects all enemies in
-a Close Burst 2, damaging and pulling them 1 square on a hit.&lt;/p&gt;
-
-&lt;p&gt;Warped Slaves follow the orders of their derro masters, or rampage about the
-battlefield trying to attack the nearest enemies. It often amounts to the same
-thing.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The whole “Shaver Mysteries” horrific underground humanoid vibe is quite
-evocative, and judged on that merit alone I’d rate the derro very highly as RPG
-monsters. However, in the context of D&amp;amp;D they end up being just one more species
-of evil Underdark dwellers who like slavery and torture, this time in size
-Small. If I include derro in a game, I’m probably removing at least one of the
-others, and maybe more.&lt;/p&gt;
-
-&lt;p&gt;Mechanically they’re okay, and you have enough here to make a whole derro-themed
-dungeon. For spice, you could add aboleth leaders and mind flayer allies.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/06/19/derro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/19/derro.html</guid>
         
         <category>dnd4</category>
         
