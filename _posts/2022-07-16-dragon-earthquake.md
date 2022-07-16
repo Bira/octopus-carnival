@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-dragon-earthquake.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Earthquake dragons were created by Balcoth, the Groaning King. The petitioners
 who approached this Earth primordial were terrified by the death of Io, and were
 willing to swear loyalty to anyone who could protect them. Balcoth agreed, and
@@ -102,3 +113,5 @@ flexible personalities and more varied motivations.
 Mechanically, earthquake dragons are very good at knocking people down and
 _keeping_ them down, so they pair really well with melee lurkers and skirmishers
 whose attacks are more powerful when they have combat advantage.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

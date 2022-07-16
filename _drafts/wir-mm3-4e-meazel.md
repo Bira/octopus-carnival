@@ -6,7 +6,8 @@ tags:
     - lets-read
 ---
 
-This is the first time I'm seeing this monster, so it might be an original.
+This is the first time I'm seeing this monster, but it's been around since the
+1e Fiend Folio. Most iterations kept the same haircut.
 
 ## The Lore
 
