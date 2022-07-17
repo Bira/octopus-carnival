@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-dragon-volcanic.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Volcanic dragons were created by Vezzuvu, the Living Mountain. The petitioners
 who approached this primordial were _angry_. You see, dragons were made in Io's
 image, but Io's demise proved he was weak. Therefore, these dragons thought,
@@ -43,8 +54,8 @@ Clumsy Flight speed equal to their ground speed.
 ## Volcanic Dragon Wyrmling
 
 Wyrmlings are Medium Level 5 Brutes with 77 HP and Speed 6. They're surrounded
-by an aura (1) of Noxious Fumes that deals 3 poison damage to enemies who end
-their turns inside.
+by an aura (1) of **Noxious Fumes** that deals 3 poison damage to enemies who
+end their turns inside.
 
 The dragon's basic **bite** and **claw** are weaker than those of most brutes,
 but the bite inflicts ongoing fire damage and the claws strip the target of all
@@ -101,3 +112,5 @@ Lore-wise, paranoia and entitlement seem to be their strongest personality
 traits. They're hard to deal with because they always feel they're not getting
 their due. Even when a deal is fair and happens as promised, they'll probably
 feel the other party got one over on them.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

@@ -59,6 +59,7 @@ entries.
     - [Introduction][32]
     - [Dragon, Blizzard][33]
     - [Dragon, Earthquake][34]
+    - [Dragon, Volcanic][35]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -95,3 +96,4 @@ entries.
 [32]: {{ "/2022/07/11/dragon-intro.html" | relative_url }}
 [33]: {{ "/2022/07/13/dragon-blizzard.html" | relative_url }}
 [34]: {{ "/2022/07/16/dragon-earthquake.html" | relative_url }}
+[35]: {{ "/2022/07/17/dragon-volcanic.html" | relative_url }}
