@@ -221,11 +221,12 @@ Ogrémoch is a Gargantuan Elemental Humanoid with the Earth and Primordial
 keywords, and a Level 34 Solo Soldier with 1244 HP. He has a ground speed of 8
 with Earth Walk, and can also burrow and climb at the same speed. His special
 senses include Darkvision and Tremorsense 20, and he is immune to poison, sleep
-and disease.
+and disease. He also has the best version of demon-style Variable Resistance,
+with a value of 20 switchable 3 times per encounter.
 
-He has three passive traits that explain why he likes stony or earthy
-battlefields. The first is **Jagged Earth** is an aura (5) that turns its area
-into difficult terrain. The first time a creature enters this aura on their
+The primordial has three passive traits that explain why he likes stony or
+earthy battlefields. The first is **Jagged Earth** is an aura (5) that turns its
+area into difficult terrain. The first time a creature enters this aura on their
 turn, they must pass a DC 32 Athletics or Acrobatics check or take 20
 damage. Creatures with Earth Walk ignore the aura.
 
@@ -234,6 +235,43 @@ movement or knockdown effects as long as he's standing on a solid surface. And
 finally we have **Earth Glide**, allowing him to pass through earth and stone
 as if he had phasing.
 
+His attacks of course include a lot of punches and their shockwaves, but before
+we get to that, let's look at the parallel minigame he's got going with his
+minor actions. **Encasing Shards** (recharge 5+) is a Close Blast 5 that targets
+the Fortitude of everyone caught inside. It does no immediate damage, but is one
+of those very fun gradual petrification effects. On a hit the victims are
+immobilized (save ends), and this worsens to stunned and finally to petrified as
+they fail their saves. They can still roll saves to end the petrification, but
+those have a -5 penalty. Once Ogrémoch is bloodied, he can detonate those stony
+cocoons with **Earthshatter**. This ends the petrification and makes a Close
+Burst 3 attack centered on and including the victim. It deals a good bit of
+physical damage for a minor action.
+
+Ogrémoch's basic attack is a **Slam** that does a big chunk of damage and
+automatically dazes all of the target's adjacent targets for a
+turn. **Ogrémoch's Fury** allows the primordial to make two slam attacks with
+the same action, or three if bloodied. If more than one of these hits the same
+target, it pushes that target 10 squares and worsens the Encasing Shards
+condition if they're currently affected by it.
+
+**Earth Smash** is a Close Blast 5 attack that does about half the damage of a
+direct slam hit, but causes targets to fall prone and become dazed (save
+ends). It does half damage on a miss. And then there's **Tremendous Quake**,
+which is a Close Burst 10 and so is likely to affect every PC. It's an attack
+vs. Fortitude that does a amazing damage, slides 4 squares, knocks prone, dazes
+and prevents the target from getting up (save ends for these last two). Even on
+a miss it does half damage, slides 1 square and knocks prone.
+
+And he still has triggered actions! **Jagged Eruption** is a Close Blast 3
+attack that happens as a reaction to Ogrémoch getting hit with a melee
+attack. **Eternal Resilience** is the similar to Lolth's ability, allowing him
+to immediately roll a save when hit by an effect a save can end. This means such
+effects only have a 25% chance of happening at all.
+
+In summary: good luck keeping your balance or even acting at all when fighting a
+living earthquake that's also trying to petrify you. This much action denial on
+a single monster is usually a design no-no, but we're talking about a solo
+endgame boss here, so I feel it's more than justified.
 
 
 [2]: {{ "/2020/06/05/human.html" | relative_url }}

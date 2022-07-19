@@ -24,7 +24,7 @@ them.
 
 Fourth edition mimics also take over the "murderous alien shapeshifter" role
 from doppelgangers, which as we saw before are now mostly just people. You see,
-the classic chest mimic is actually a juvenile indivitual. As it matures, it
+the classic chest mimic is actually a juvenile individual. As it matures, it
 gains the ability to absorb the memories of the people they devour and to take
 their shapes. These impersonator mimics infiltrate mortal society, moving around
 and taking different shapes as they feed. They reproduce by budding. Their spawn
@@ -91,7 +91,7 @@ non-damaging ranged power that also attacks Will. On a hit, it slides the target
 4 squares and makes it grant combat advantage for a turn. Finally, as a free
 action, they can **Absorb** a mimic spawn that's adjacent to them or occupying
 their space. This kills the spawn and gives them 1 Action Point. This does make
-it one of the few non-elite monsters with access to action points.
+it one of the few regular monsters with access to action points.
 
 Note that only the object form forbids the mimic from attacking - they can use
 all of these abilities in humanoid form without having to shapeshift, and they
