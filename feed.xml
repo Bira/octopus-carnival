@@ -6,9 +6,137 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Jul 2022 00:01:52 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2022 00:01:52 +0000</lastBuildDate>
+    <pubDate>Wed, 20 Jul 2022 14:09:17 +0000</pubDate>
+    <lastBuildDate>Wed, 20 Jul 2022 14:09:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Dread Warrior</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dread-warrior.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Common zombies are mindless beasts who fight in a clumsy, instinctual way. Dread
+warriors are… still mindless, but the ritual that creates them also imbues
+them with more refined combat skills.&lt;/p&gt;
+
+&lt;p&gt;The main purpose of a dread warrior is to act as a guard and protector. Their
+creation binds them to their master, whom they are compelled to protect and
+obey. When a dread warrior’s master dies, their reaction is a bit
+unpredictable. Some lose their animating force and drop lifelessly to the
+ground, others go berserk.&lt;/p&gt;
+
+&lt;p&gt;Instead of being bound to a person, they can be bound to an item instead,
+protecting it from theft and damage even after their creator passes away. Liches
+might use this to bind a troop of dread warriors to their soul receptacle, for
+example.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Dread Warriors are Medium Natural Animates with the Undead keyword. They have
+low-light vision and a natural speed of 6, modified by armor. They have a
+signature traits: &lt;strong&gt;Eyes of Undeath&lt;/strong&gt; allows the warrior’s master to see and
+hear anything the creature sees and hears. It also allows the master to speak
+through it. There’s no range limit! This makes them excellent emissaries,
+decoys, or security “cameras”.&lt;/p&gt;
+
+&lt;p&gt;Individual warriors have additional traits related to their training and
+intended function.&lt;/p&gt;
+
+&lt;h3 id=&quot;dread-protector&quot;&gt;Dread Protector&lt;/h3&gt;
+
+&lt;p&gt;Your basic security model. Some necromancers like to fill their lairs with these
+things so that they always have the reassuring presence of a bodyguard no matter
+which room they are in. One does get used to the smell eventually.&lt;/p&gt;
+
+&lt;p&gt;Dread Protectors are Level 3 Soldiers with 47 HP. They wear heavy armor and
+wield greataxes. Their speed is 5.&lt;/p&gt;
+
+&lt;p&gt;Aside from Eyes Undeath, they also have a &lt;strong&gt;Shield of Undeath&lt;/strong&gt; aura (1). If
+their master is inside this aura, they only take half damage from melee and
+ranged attacks. The protector &lt;em&gt;does not&lt;/em&gt; take the other half of this damage,
+making this a very good power.&lt;/p&gt;
+
+&lt;p&gt;The greataxe marks on a hit, and though the protector doesn’t have any other
+abilities that make use of the mark it does make it harder to attack the
+master. Instead of moving normally they can use &lt;strong&gt;Protector’s Call&lt;/strong&gt; to teleport
+their speed to square adjacent to the master. This makes it very hard for PCs to
+isolate them.&lt;/p&gt;
+
+&lt;p&gt;Dread Protectors will seek to always stay adjacent to their master and keep the
+most dangerous melee opponent marked. The best tactic for dealing with them is
+to hit them with close or area attacks. These will target both them and their
+master, ignoring both the mark penalty and Shield of Undeath.&lt;/p&gt;
+
+&lt;h3 id=&quot;dread-marauder&quot;&gt;Dread Marauder&lt;/h3&gt;
+
+&lt;p&gt;This lightly armored warrior wields a short sword and a bow. It’s not any
+smarter than the other dread warriors, but Eyes of Undeath still makes it a
+superb scout since the master can see what it sees and order it from afar. If
+they die out there, it’s no great loss - the master knows what they need to know
+by that point.&lt;/p&gt;
+
+&lt;p&gt;Dread Marauders are Level 5 Skirmishers with 53 HP and speed 6. They deal extra
+damage when they have &lt;strong&gt;Combat Advantage&lt;/strong&gt;, and &lt;strong&gt;In the Master’s Defense&lt;/strong&gt;
+gives them combat advantage against anyone adjacent to their master.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;sword&lt;/strong&gt; and &lt;strong&gt;bow&lt;/strong&gt; give them both melee and ranged basic attacks, and
+&lt;strong&gt;Skirmish Strike&lt;/strong&gt; allows them to shift 3 squares before making either one.&lt;/p&gt;
+
+&lt;p&gt;So aside from being good scouts, dread marauders also serve as good deterrents
+against melee PCs, since those PCs will be exposed to stronger attacks from the
+marauder as long as they remain adjacent to the master.&lt;/p&gt;
+
+&lt;h3 id=&quot;dread-archers&quot;&gt;Dread Archers&lt;/h3&gt;
+
+&lt;p&gt;These warriors are meant to act as sniper platforms and fire support for the
+master, and to man the ramparts of the master’s fortress. They’re Level 6
+Artillery with 57 HP and speed 6. Their gear is similar to the marauder’s.&lt;/p&gt;
+
+&lt;p&gt;As artillery monsters, their &lt;strong&gt;bow&lt;/strong&gt; attack is more accurate than the
+&lt;strong&gt;sword&lt;/strong&gt;. Once per encounter they can make an &lt;strong&gt;arcing volley&lt;/strong&gt; area attack.&lt;/p&gt;
+
+&lt;p&gt;Their greatest powers are their custom passive trait and reaction, however!
+&lt;strong&gt;Channel of Undeath&lt;/strong&gt; allows the master to make implement attacks as if they
+occupied the archer’s square, as long as they can see the archer. And when the
+master hits with an attack, the archer can use the &lt;strong&gt;Sustained Attack&lt;/strong&gt; reaction
+to make an immediate bow attack.&lt;/p&gt;
+
+&lt;p&gt;I am unsure whether I’d allow the master to “see” the archer through Eyes of
+Undeath, but I’d definitely allow them so see the archer through a telescope!&lt;/p&gt;
+
+&lt;h3 id=&quot;dread-guardian&quot;&gt;Dread Guardian&lt;/h3&gt;
+
+&lt;p&gt;This is a more powerful version of the dread protector, a Level 7 Soldier with
+79 HP. It’s equipped with heavy armor, a shield, a sword, and a bow.&lt;/p&gt;
+
+&lt;p&gt;Both the &lt;strong&gt;bow&lt;/strong&gt; and &lt;strong&gt;sword&lt;/strong&gt; attacks mark on a hit, and this time the
+protector &lt;em&gt;can&lt;/em&gt; make a sword attack as an opportunity action when a marked enemy
+attacks the master.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;“Zombie warriors” are almost as classic as “skeleton warriors” in the dungeon
+fantasy genre, so I think these are pretty nifty. They’re also awesome
+mechanically, because Eyes of Undeath and the other passives allow for a lot if
+interesting underhanded tricks.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/07/20/dread-warrior.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/20/dread-warrior.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Dragon, Volcanic</title>
@@ -905,119 +1033,6 @@ into succubi as appropriate.&lt;/p&gt;
         <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/06/29/devil-passion.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/29/devil-passion.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Devil, Hellwasp</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-hellwasp.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;I don’t remember seeing hell wasps before, but they sound like the sort of
-monster that might have debuted in 3e.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;In past editions the Blood War was this eternal alignment-based conflict, but
-here it’s part of Asmodeus’ safety net. You see, the other gods don’t
-like Asmodeus very much, both because he’s an evil asshole and because he got
-his position by murdering a popular non-evil deity.&lt;/p&gt;
-
-&lt;p&gt;One of the measures he took to prevent them from ganging up on him was to commit
-the considerable armies of Hell to the task of containing the demons of the
-Abyss. As we mentioned before, demons are too busy with infighting to launch
-regular invasions on the rest of the universe, but when they do manage to
-briefly get their shit together and spill out, they find a few legions of devils
-waiting to fight them. Hell also launches occasional raids into the Abyss to
-prevent demons from organizing.&lt;/p&gt;
-
-&lt;p&gt;This isn’t a war that rages on eternally, but a series of sporadic conflicts
-that flare up whenever one of the two sides feels a bit stronger. The gods lets
-Asmodeus be because he provides a valuable service, and because providing that
-service also serves as a check on his power. Asmodeus and his underlings in the
-meantime keep enacting diabolic schemes to acquire more power in an attempt to
-dominate the other gods.&lt;/p&gt;
-
-&lt;p&gt;One of the most enthusiastic participants in the Blood Wars seems to be Glasya,
-Asmodeus’ daughter. Because of this she tends to be involved in stories where
-demons and devils switch sides, corresponding to her failures and successes. We
-already heard about Graz’zt the devil who became a demon lord. And now we get to
-hear about a whole species of demon who became devils.&lt;/p&gt;
-
-&lt;p&gt;Hellwasps were once a species of demon related to the insectile mezzodemons,
-servants of a wasp-like demon lord whose name was lost to time. Glasya fought
-and killed this demon in one of her raids, and its spawn immediately swore
-allegiance to her. She took the lot of them to Hell and converted them into
-devils. Now they inhabit the Garden of Delights, a region of Malbolge. As loyal
-servants of Glasya, they can be found alongside any of her other servants or
-allies.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Hellwasps are Medium Immortal Magical Beasts (devils). They have Darkvision and
-a Flight Speed of 8 (hover), but their ground speed of 0 means they can’t
-actually &lt;em&gt;walk&lt;/em&gt;. They fight with their natural weapons: a pair of sword-like
-talons, and a huge venomous sting.&lt;/p&gt;
-
-&lt;h3 id=&quot;hellwasp-colony-guard&quot;&gt;Hellwasp Colony Guard&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 19 Minion Skirmisher of the kind you can find by the score in
-hellwasp hives. Their &lt;strong&gt;Sword Talon&lt;/strong&gt; attack allows them to shift 1 square
-before or after the attack, and their &lt;strong&gt;Sting&lt;/strong&gt; deals poison damage, slows, and
-prevents the target from shifting for a turn.&lt;/p&gt;
-
-&lt;p&gt;They’re good for slowing the PCs down and setting them up to be surrounded by
-sturdier allies. The ability to shift away after a talon attack makes them
-slightly less vulnerable to melee-centric PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;hellwasp-devil&quot;&gt;Hellwasp Devil&lt;/h3&gt;
-
-&lt;p&gt;The regular version is a Level 23 Skirmisher with 212 HP. Since it’s higher
-level it probably represents an exceptional individual within a hive, of the
-kind that gets loaned out to allies and sent on away missions.&lt;/p&gt;
-
-&lt;p&gt;Aside from a somewhat weak &lt;strong&gt;Sword Talon&lt;/strong&gt; attack, the hellwasp can also perform
-a &lt;strong&gt;Talon Skewer&lt;/strong&gt;. This also counts as a basic attack. It allows the wasp to
-fly its speed and make two talon attacks at any point along the movement. The
-wasp doesn’t draw opportunity attacks when moving away from the target of these
-attacks. If both attacks hit the same target, the wasp grabs them, and the
-&lt;strong&gt;Drag Off&lt;/strong&gt; trait allows it to pull the grabbed victim when it moves without
-drawing opportunity attacks from them.&lt;/p&gt;
-
-&lt;p&gt;Yes, this is another one of those fliers that allows you to have fun with
-cliffs. And at epic level we’re probably taking the cliffs of Hell itself, which
-have lava pools or other layer-appropriate hazards at the bottom.&lt;/p&gt;
-
-&lt;p&gt;Hellwasp regulars also have a stronger &lt;strong&gt;Sting&lt;/strong&gt;. It deals more poison damage,
-slows, prohibits shifts and deals ongoing 15 fire damage (save ends all). This
-is a “recharge 5+” attack, and a good one to use on a PC that was dragged off to
-an isolated position.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Bugs with sword-arms that slot neatly into the same slot as Swordwings. Perfect
-for those players who dislike monsters that lack ties to AD&amp;amp;D lore. You can
-reskin these into swordwings, or take inspiration in swordwing abilities when
-building more hellwasp varieties.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, they’re interesting without overstaying their welcome. It’s always
-fun to see a monster who can carry PCs off and drop them into lava pits.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/06/28/devil-hell-wasp.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/06/28/devil-hell-wasp.html</guid>
         
         <category>dnd4</category>
         
