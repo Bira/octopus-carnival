@@ -6,8 +6,7 @@ tags:
     - lets-read
 ---
 
-I don't remember seeing these things in earlier editions. Their lore feels new
-to me.
+Another one from the 1e Fiend Folio, though its lore is new for this edition.
 
 ## The Lore
 

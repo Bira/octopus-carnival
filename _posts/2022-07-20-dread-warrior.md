@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-dread-warrior.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Common zombies are mindless beasts who fight in a clumsy, instinctual way. Dread
 warriors are... still mindless, but the ritual that creates them also imbues
 them with more refined combat skills.
@@ -18,7 +29,7 @@ ground, others go berserk.
 
 Instead of being bound to a person, they can be bound to an item instead,
 protecting it from theft and damage even after their creator passes away. Liches
-might use this to bind a troop of dread warriors to their philactery, for
+might use this to bind a troop of dread warriors to their soul receptacle, for
 example.
 
 ## The Numbers
@@ -111,3 +122,5 @@ attacks the master.
 fantasy genre, so I think these are pretty nifty. They're also awesome
 mechanically, because Eyes of Undeath and the other passives allow for a lot if
 interesting underhanded tricks.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
