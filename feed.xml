@@ -6,9 +6,138 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Jul 2022 02:12:09 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Jul 2022 02:12:09 +0000</lastBuildDate>
+    <pubDate>Sat, 23 Jul 2022 23:58:05 +0000</pubDate>
+    <lastBuildDate>Sat, 23 Jul 2022 23:58:05 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Elemental</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-elemental.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Elementals are a pretty iconic part of D&amp;amp;D, since they’ve shown up on every book
+we’ve covered so far. The MM1 and MM2 elementals were built to showcase the
+mixed nature of the Elemental Chaos, so they were always a different combination
+of two or more elements.&lt;/p&gt;
+
+&lt;p&gt;This was pretty cool, but it also caused some edition warriors complain that
+they missed the traditional single-element quartet from editions past.&lt;/p&gt;
+
+&lt;p&gt;The Monster Manual 3 brings the “singlementals” back, with heroic, paragon and
+epic variants of all four classic types. The Lesser (heroic) variants would be
+reprinted in the Monster Vault, and we already covered them &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;here&lt;/a&gt;. We’ll
+look at the standards and greaters now.&lt;/p&gt;
+
+&lt;h2 id=&quot;air-elemental&quot;&gt;Air Elemental&lt;/h2&gt;
+
+&lt;p&gt;Air Elementals are Lurkers. They have a ground speed of 0, but very high air
+speeds with Hover. They also have some degree of vulnerability to Fire.&lt;/p&gt;
+
+&lt;p&gt;The Lesser Air Elemental is Level 1 and covered &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;air-elemental-1&quot;&gt;Air Elemental&lt;/h3&gt;
+
+&lt;p&gt;This Level 10 Lurker has 81 HP and a flight speed of 8. It has the same
+&lt;strong&gt;Phantom on the Wind&lt;/strong&gt; trait as the lesser version, which makes it become
+invisible when it starts the turn not adjacent to any enemies. This lasts until
+the end of its next turn or until it attacks, so it will remain invisible until
+it does close in to attack.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;slam&lt;/strong&gt; with no riders, and it can use a &lt;strong&gt;Rampant
+Storm&lt;/strong&gt; that does more damage over a Close Burst 3 area and dazes targets that
+couldn’t see the elemental before it attacked.&lt;/p&gt;
+
+&lt;p&gt;Classic lurker tactics: start invisible, Rampant Storm, move away to become
+invisible again.&lt;/p&gt;
+
+&lt;h3 id=&quot;greater-air-elemental&quot;&gt;Greater Air Elemental&lt;/h3&gt;
+
+&lt;p&gt;This one is Large and Level 20 with 143 HP and a speed of 10. It has most of the
+same traits of the standard air elemental with bigger numbers, and it replaces
+Rampant Storm with &lt;strong&gt;Engulfing Winds&lt;/strong&gt;. This melee attack pulls and grabs the
+target. The elemental can move freely with a grabbed victim, which takes 20
+ongoing damage until they escape.&lt;/p&gt;
+
+&lt;p&gt;This one wants to grab someone and play keep-away.&lt;/p&gt;
+
+&lt;h2 id=&quot;earth-elementals&quot;&gt;Earth Elementals&lt;/h2&gt;
+
+&lt;p&gt;Earth Elementals are Soldiers. They have a burrow speed equal to their walking
+speed. &lt;strong&gt;Earth Glide&lt;/strong&gt; allows them to pass through earth and stone as if it had
+phasing, and their &lt;strong&gt;Brittle Skin&lt;/strong&gt; means they take a -2 penalty to all defenses
+for a turn when hit with thunder damage. They attack with &lt;strong&gt;slams&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As usual, the Lesser Air Elemental is covered in the &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;MM/MV article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The standard &lt;strong&gt;Earth Elemental&lt;/strong&gt; is level 11 with 119 HP and Speed 7. It gains a
+&lt;strong&gt;Quake Stomp&lt;/strong&gt; attack that covers a selective Close Burst 2 and targets
+Fortitude, damaging those it hits, sliding them 2 squares, and knocking them
+prone.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Greater Earth Elemental&lt;/strong&gt; is Large, Level 22 with 212 HP, and replaces
+Quake Stomp with &lt;strong&gt;Flattening Stomp&lt;/strong&gt;, which targets a single creature for heavy
+physical damage and automatically knocks all enemies within 2 squares of the
+target prone.&lt;/p&gt;
+
+&lt;h2 id=&quot;fire-elementals&quot;&gt;Fire Elementals&lt;/h2&gt;
+
+&lt;p&gt;Fire Elementals are skirmishers. They run very fast and can fly, though not as
+well as an air elemental. Their &lt;strong&gt;slams&lt;/strong&gt; deal only ongoing fire damage, and
+&lt;strong&gt;Flickering Flame&lt;/strong&gt; allows them to shift a number of squares as a minor
+action. If they’re hit with cold damage, though, they’re &lt;strong&gt;Frozen in Place&lt;/strong&gt; and
+can’t shift for a turn.&lt;/p&gt;
+
+&lt;p&gt;All elementals have a reaction ability that deals some sort of fire damage
+around them when they’re hit by an attack. This gets more powerful as the
+elemental gets bigger. Lessers are level 1, standards Level 11, and Greaters
+level 21.&lt;/p&gt;
+
+&lt;h2 id=&quot;water-elementals&quot;&gt;Water Elementals&lt;/h2&gt;
+
+&lt;p&gt;Water elementals are controllers. They have a swim speed equal to their ground
+speed, and are &lt;strong&gt;Aquatic&lt;/strong&gt;. This gives them attack bonuses against non-aquatic
+enemies when fighting underwater. They’re &lt;strong&gt;Sensitive to Cold&lt;/strong&gt;, and after
+taking cold damage they gain Vulnerable 5 against the &lt;em&gt;next&lt;/em&gt; attack to hit them
+before the end of their next turn.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;slams&lt;/strong&gt; do some physical damage and inflict ongoing physical damage from
+the water that gets into people’s lungs.  &lt;strong&gt;Drowning Essence&lt;/strong&gt; allows them to
+slide victims taking this ongoing damage as a minor action.&lt;/p&gt;
+
+&lt;p&gt;Their special attack seems to be surging like a wave, dealing damage and pushing
+or sliding people around. It gets more damaging, more frequent, and pushier the
+bigger the elemental gets. It has different names for each elemental: &lt;strong&gt;Whelm&lt;/strong&gt;
+for Lessers, &lt;strong&gt;Whirlpool&lt;/strong&gt; for standards, and &lt;strong&gt;Surging Waves&lt;/strong&gt; for Greaters.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I guess you can notice me getting gradually more bored with classic elementals
+as I wrote the above post. These ones are better than they used to be in earlier
+editions, but I can understand why the Monster Vault only reprinted the
+lessers. The more powerful versions are pretty much the kind of thing you can
+write yourself using the standard monster leveling rules.&lt;/p&gt;
+
+&lt;p&gt;Like all other elementals, they fit easily into any adventure or encounter that
+also features someone who could conceivably summon and bind them. They also work
+well as “widlife” in the Elemental Chaos.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/07/23/elemental.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/23/elemental.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Drow</title>
@@ -1200,83 +1329,6 @@ because I love attack powers that force PCs to choose between two bad outcomes.&
         <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/03/devil-slime.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/03/devil-slime.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Devil, Rage</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-rage.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Looks like the Monster Manual 3 is all about blurring the lines between
-fiends. We have a devil who became a demon lord, demons who became devils, and
-now a devil who behaves like a demon. I haven’t run into rage devils before. If
-they appeared in previous editions, it must have been in a late MM or a
-specialized supplement.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A Rage Devil is what happens when you take a standard Hell Knight and inject
-demon ichor into it. They’re hulking brutes who are constantly angry and delight
-in carnage. In other words, they’re pretty much demons, or they would be if
-their flesh wasn’t bound with empowered Supernal sigils that keep them pointed
-in the right direction.&lt;/p&gt;
-
-&lt;p&gt;These creatures are the result of an infernal experiment to create more powerful
-shock troops to throw into the meatgrinder of the Blood War. They’re actually a
-little weaker than a standard hell knight, making them a bit of a failed
-experiment. Maybe they adapted the process for the mass-produced version so it
-works on legion devils instead.&lt;/p&gt;
-
-&lt;p&gt;Rage devils are used as heavy elements attached to legion devil forces, and are
-often placed under the command of hell knights. In their free time, these things
-roam Avernus in search of demon stragglers or anyone else they can get away with
-smashing.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Rage Devils are Large Immortal Humanoids (Devils), and Level 11 Brutes with 138
-HP. They have Darkvision and Resist Fire 20, but they can’t fly. Their ground
-speed is 6.&lt;/p&gt;
-
-&lt;p&gt;These devils are heavily armored and fight with &lt;strong&gt;Disrupting Mauls&lt;/strong&gt; whose basic
-attacks strip all of the target’s resistances for a turn! They have a special
-technique named &lt;strong&gt;Demonscourge Crush&lt;/strong&gt; (recharge 4+), which deals the same
-damage as a basic attack, weakens, and strips all resistances (save ends
-both). Another maneuver is &lt;strong&gt;Maul Storm&lt;/strong&gt; an at-will Close Burst 2 that deals
-some damage and pushes targets 3 squares. If they’re bloodied, they’re also
-knocked prone.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Blood Rage&lt;/strong&gt; passive trait makes them deal extra damage on all attacks
-against bloodied opponents.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Rage devils are indeed an excellent weapon both against demons and against other
-devils, as well as any creature type that relies on high elemental
-resistances. Behavior-wise they tend to be on the shallower end of the &lt;em&gt;demon&lt;/em&gt;
-cliche pool, with only their binding rituals preventing them from turning on
-their devilish masters.&lt;/p&gt;
-
-&lt;p&gt;As I said above, I’d probably say most rage devils are modified legion devils,
-because baseline Hell Knights are both stronger and smarter than these things,
-so turning a Hell Knight into a Rage Devil is a bit of a waste.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/03/devil-rage.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/03/devil-rage.html</guid>
         
         <category>dnd4</category>
         
