@@ -60,8 +60,11 @@ entries.
     - [Dragon, Blizzard][33]
     - [Dragon, Earthquake][34]
     - [Dragon, Volcanic][35]
-  - [Dread Warrior][36]
-  - [Drow][37]
+    - [Dread Warrior][36]
+    - [Drow][37]
+
+- E
+  - [Elemental][38]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -101,3 +104,4 @@ entries.
 [35]: {{ "/2022/07/17/dragon-volcanic.html" | relative_url }}
 [36]: {{ "/2022/07/20/dread-warrior.html" | relative_url }}
 [37]: {{ "/2022/07/21/drow.html" | relative_url }}
+[38]: {{ "/2022/07/23/elemental.html" | relative_url }}

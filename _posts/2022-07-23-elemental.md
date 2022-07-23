@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-elemental.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Elementals are a pretty iconic part of D&D, since they've shown up on every book
 we've covered so far. The MM1 and MM2 elementals were built to showcase the
 mixed nature of the Elemental Chaos, so they were always a different combination
@@ -18,9 +29,6 @@ The Monster Manual 3 brings the "singlementals" back, with heroic, paragon and
 epic variants of all four classic types. The Lesser (heroic) variants would be
 reprinted in the Monster Vault, and we already covered them [here][2]. We'll
 look at the standards and greaters now.
-
-
-[2]: {{ "/2020/02/16/elemental.html" | relative_url }}
 
 ## Air Elemental
 
@@ -111,4 +119,9 @@ editions, but I can understand why the Monster Vault only reprinted the
 lessers. The more powerful versions are pretty much the kind of thing you can
 write yourself using the standard monster leveling rules.
 
+Like all other elementals, they fit easily into any adventure or encounter that
+also features someone who could conceivably summon and bind them. They also work
+well as "widlife" in the Elemental Chaos.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2020/02/16/elemental.html" | relative_url }}
