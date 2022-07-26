@@ -46,15 +46,15 @@ This one has eaten the heart of a vampire, proving that "still-beating" is a
 poetic flourish and not a requirement. It's a Level 12 Brute with 140 HP.
 
 The bloodfiend gained most of a vampire's cool powers without any of the
-disadvantages, much like Blade. It has a Speed of 8, Darkvision, claws, and a
-blood-draining bite.
+disadvantages, much like Marvel's Blade. It has a Speed of 8, Darkvision, claws,
+and a blood-draining bite.
 
 The **Claws** are a basic attack, and can be used twice in a **Double Claw**
 maneuver. If both attacks hit, the bloodfiend grabs the target. It can then use
 **Heart of the Vampire** against the grabbed victim, an attack vs. Fortitude
 that deals a light physical damage, dazes and weakens (save ends both). A hit
 also heals the bloodfiend for 20 HP. This is an encounter power that recharges
-on a miss.
+on a miss, and likely represents some sort of blood-draining bite.
 
 The **Bloodfiend's Ferocity** makes its final attack daze for a turn on a hit.
 
