@@ -6,9 +6,135 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Jul 2022 02:19:24 +0000</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2022 02:19:24 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Jul 2022 21:31:07 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Jul 2022 21:31:07 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Foulspawn</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-foulspawn.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Foulspawn had their 4e debut in the first Monster Manual. If you read the
+&lt;a href=&quot;/octopus-carnival/2020/03/09/foulspawn.html&quot;&gt;post I wrote&lt;/a&gt; about them, you’ll see that MM1 Foulspawn were plagued by some
+design flaws, but you could speculate from their lore that they were the end
+state of mortal Far Realm cultists.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The lore in this entry is mostly a re-statement of the original foulspawn
+lore. They’re more actively inimical to the natural world than most other Far
+Realm denizens, and cross over where the barrier between dimensions is thin to
+attack mortal settlements. They drag some of their victims back with them, and
+those unfortunates eventually become foulspawn themselves after having their
+bodies and minds warped by the Far Realm.&lt;/p&gt;
+
+&lt;p&gt;There’s still plenty of room for you to portray foulspawn as the “end state” for
+a lot of mortal cultists who worship cthulhoid entities - they’re the ones who
+step into the portal willingly. If all you had to go with were the MM1 entries,
+this was kind of an ironic fate, as the foulspawn there were kinda weak. Let’s
+see if this is still true.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Foulspawn are Aberrant Humanoids with a ground speed of 6 and a teleport speed
+of 3. They mix physical attacks with powers that warp space and damage enemy
+minds.&lt;/p&gt;
+
+&lt;h3 id=&quot;foulspawn-wretch&quot;&gt;Foulspawn Wretch&lt;/h3&gt;
+
+&lt;p&gt;Most unwilling victims probably turn into these. Wretches are Small Level 7
+Minion Skirmishers with low-light vision and the standard traits listed above.&lt;/p&gt;
+
+&lt;p&gt;They have a &lt;strong&gt;Ceaseless Murmurs&lt;/strong&gt; passive trait that inflicts a -2 penalty to
+the Will of any PC adjacent to two or more wretches. Their basic &lt;strong&gt;Claw&lt;/strong&gt; attack
+deals a bit of damage and allows another wretch within 6 squares to teleport
+adjacent to the target. And when they die, their &lt;strong&gt;Screaming Echo&lt;/strong&gt; ability
+teleports a non-minion ally within 6 squares to the position previously
+occupied by the dead wretch!&lt;/p&gt;
+
+&lt;p&gt;Wretches are made to use standard “monster wave” tactics - use a lot of them and
+have them crowd around the PCs. Try to get them adjacent to the PC’s squishies
+on the back line, so that when they die they teleport your front-line bruisers
+there.&lt;/p&gt;
+
+&lt;h3 id=&quot;foulspawn-mockery&quot;&gt;Foulspawn Mockery&lt;/h3&gt;
+
+&lt;p&gt;A spellcaster with a raven skull for a head. Mockeries use mind-bending magic to
+force the PCs close together and then hit them with area attacks. They’re Medium
+Level 10 Controllers with 104 HP, low-light vision, and the standard traits
+outlined above.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; which is actually stronger than almost any
+attack from a MM1 fouslpawn simply because it uses the correct math. They attack
+at range with a &lt;strong&gt;Mind Harrier&lt;/strong&gt; spell that deals psychic damage and imposes one
+of those interesting custom effects. If a target hit by Mind Harrier is not
+adjacent to any of its allies by the end of its next turn, it takes an extra 10
+psychic damage and 10 ongoing psychic damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Once the mockery has used Mind Harrier to push the PCs together, it can hit them
+all with a &lt;strong&gt;Maddening Burst&lt;/strong&gt; (recharge 5+), which deals psychic damage and
+dazes (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;foulspawn-warpcaller&quot;&gt;Foulspawn Warpcaller&lt;/h3&gt;
+
+&lt;p&gt;These are like aberrant bards, or those things that keep dancing around Azatoth
+playing flutes and pipes. They’re Medium Level 12 Controllers (Leaders) with 126
+HP, Darkvision, and the standard traits outlined above.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Droning Pipes&lt;/strong&gt; act as an aura (3) that makes enemies inside Vulnerable
+5 to Psychic damage. This is important because Psychic is pretty much the
+signature damage type for foulspawn and other aberrants.&lt;/p&gt;
+
+&lt;p&gt;Warpcallers can &lt;strong&gt;bite&lt;/strong&gt; in melee for good damage, but their magic is the star
+of the show here. &lt;strong&gt;Warped Sending&lt;/strong&gt; is an at-will ranged attack that deals
+psychic damage and teleports a foulspawn ally within 5 squares of the target to
+a space adjacent to the target. &lt;strong&gt;Twisted Dismissal&lt;/strong&gt; does the same damage,
+immobilizes the target (save ends) and teleports it 2 squares.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;Warpmind Field&lt;/strong&gt; (encounter) is a fireball-sized area attack that
+deals psychic damage and creates a zone that lasts for a turn and can be
+sustained with a minor action. Enemies who enter the zone or end their turns
+there take 10 psychic damage. An enemy inside the zone can’t target anyone
+further than 5 squares away. And the warpcaller can spend its move action to
+move the zone up to 4 squares.&lt;/p&gt;
+
+&lt;p&gt;Warpmind Field is an excellent fight opener if you drop it on the party’s
+archers. If they move outside the zone to fire on their turn, Twisted Dismissal
+can push them back inside and keep them there, possibly combined with a move
+action spent moving the zone closer. And Warped Sending is another handy way to
+teleport your brutes past the PC’s defenders.&lt;/p&gt;
+
+&lt;h2 id=&quot;friends-and-final-impressions&quot;&gt;Friends and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Foulspawn usually only work with other foulspawn, though if you’re using the
+ones from the MM1 you really, really need to fix their math. Other appropriate
+company includes gibbering mouthers and other aberrant creatures that deal
+psychic damage. And according to the book they also sometimes work with cultists
+of Tharizdun and Demogorgon - the kind of person who wants to wreck the world
+but doesn’t care how it happens.&lt;/p&gt;
+
+&lt;p&gt;The lore remains the same, but the mechanics on these foulspawn are quite a bit
+better. I’m not just talking raw numbers either - the MM1 foulspawn rarely did
+more than spam basic melee attacks. These have a lot more variety.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/07/28/foulspawn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/28/foulspawn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Forsaken</title>
@@ -1437,84 +1563,6 @@ the entourage of their mortal bosses, or other devils.&lt;/p&gt;
         <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/10/devil-vizier.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/10/devil-vizier.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Devil, Swarm</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-devil-swarm.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is another devil that breaks the “morphology” guidelines, but it’s kind of
-unavoidable this time. After all, they’re associated with Baalzebul, Lord of the
-Flies.&lt;/p&gt;
-
-&lt;p&gt;Each swarm devil is a singular mind controlling the bodies of an entire swarm of
-acidic fiendish flies. According to the book, they’re formed when an angel is
-caught lying to its divine master and is torn apart as punishment. The angel’s
-soul falls to the Hells and the bits of its body become flies. They roam the
-stagnant pools of Maladomni, the Seventh Hell, eternally starving but unable to
-die. They can only leave when their master orders them on a mission, which makes
-them very happy because it allows them to fly free and eat people for the
-duration. It helps that “eating people” usually &lt;em&gt;is&lt;/em&gt; the mission. It’s what
-swarm devils do best, after all.&lt;/p&gt;
-
-&lt;p&gt;Swarm Devils fight by just kinda walking into enemies’ spaces and letting their
-flies do the work, and by spewing flies at people they can’t easily reach that
-way. As swarms, they’re hard to fight unless you have area-effect weapons and
-spells.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;These creatures are Large Immortal Magical Beasts (Devil, Swarm) and Level 18
-Skirmishers with 174 HP. They have Darkvision and a flight speed of 10 (hover),
-and 20 acid resistance.&lt;/p&gt;
-
-&lt;p&gt;They also have the standard swarm traits on top of that: half damage and
-immunity to forced movement from melee and ranged attacks; Vulnerable 10 to
-close and area attacks; a swarm aura; the ability to occupy the same space as
-other characters; and the ability to squeeze through small openings without
-slowing down.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals 10 acid damage to enemies caught inside. I
-think being in the same space as the swarm also counts as being inside the
-aura. Their basic &lt;strong&gt;Slams&lt;/strong&gt; do no immediate damage, and inflict 10 ongoing acid
-damage.&lt;/p&gt;
-
-&lt;p&gt;They can channel &lt;strong&gt;Acidic Curses&lt;/strong&gt; through their acid, targetting someone taking
-ongoing acid damage with a ranged attack that deals psychic damage and inflicts
-a -2 penalty to attacks for a turn. Twice per encounter they can &lt;strong&gt;Spew Flies&lt;/strong&gt;
-in a Close Burst 3, inflicting ongoing acid damage and forcing targets to grant
-combat advantage (save ends both).&lt;/p&gt;
-
-&lt;p&gt;The “just walking into people” tactic is represented by &lt;strong&gt;Swarm Shift&lt;/strong&gt;
-(recharge 5+), in which it shifts its speed and deals 15 acid damage to anyone
-they pass through.&lt;/p&gt;
-
-&lt;p&gt;A good tactic for them is to move in, hit a few people with the slam or spew,
-use Swarm Shift to move out of the scrum and keep flinging curses at anyone
-who’s melting. Reapply the acid as necessary.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Fly-themed fiends for the Lord of the Flies, nothing unexpected. The
-acid/psychic damage mechanic is mildly interesting.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/07/devil-swarm.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/07/devil-swarm.html</guid>
         
         <category>dnd4</category>
         
