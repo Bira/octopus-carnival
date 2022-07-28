@@ -68,6 +68,7 @@ entries.
 
 - F
   - [Forsaken][39]
+  - [Foulspawn][40]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -109,3 +110,4 @@ entries.
 [37]: {{ "/2022/07/21/drow.html" | relative_url }}
 [38]: {{ "/2022/07/23/elemental.html" | relative_url }}
 [39]: {{ "/2022/07/25/forsaken.html" | relative_url }}
+[40]: {{ "/2022/07/28/foulspawn.html" | relative_url }}

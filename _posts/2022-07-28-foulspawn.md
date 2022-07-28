@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the others.
+
 Foulspawn had their 4e debut in the first Monster Manual. If you read the
 [post I wrote][2] about them, you'll see that MM1 Foulspawn were plagued by some
 design flaws, but you could speculate from their lore that they were the end
@@ -118,4 +120,5 @@ The lore remains the same, but the mechanics on these foulspawn are quite a bit
 better. I'm not just talking raw numbers either - the MM1 foulspawn rarely did
 more than spam basic melee attacks. These have a lot more variety.
 
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2020/03/09/foulspawn.html" | relative_url }}
