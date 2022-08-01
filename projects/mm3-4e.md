@@ -69,6 +69,7 @@ entries.
 - F
   - [Forsaken][39]
   - [Foulspawn][40]
+  - [Frog][41]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -111,3 +112,4 @@ entries.
 [38]: {{ "/2022/07/23/elemental.html" | relative_url }}
 [39]: {{ "/2022/07/25/forsaken.html" | relative_url }}
 [40]: {{ "/2022/07/28/foulspawn.html" | relative_url }}
+[41]: {{ "/2022/08/01/frog.html" | relative_url }}
