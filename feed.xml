@@ -6,9 +6,162 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Aug 2022 21:06:16 +0000</pubDate>
-    <lastBuildDate>Mon, 01 Aug 2022 21:06:16 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Aug 2022 18:01:37 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2022 18:01:37 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Gargoyle</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-gargoyle.png&quot; width=800/&gt;
+  &lt;figcaption&gt;
+    Not a D&amp;D illustration.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Gargoyles made their 4e debut in the first Monster Manual. I wrote about them
+&lt;a href=&quot;/octopus-carnival/2020/03/12/gargoyle.html&quot;&gt;here&lt;/a&gt;. Though that article includes a whole bunch of gargoyles, most of them
+are from the Monster Vault. When the MM3 was published, we still only had the
+two originals from the MM1.&lt;/p&gt;
+
+&lt;p&gt;This entry adds a lot more variety, and it doesn’t actually overlap with the
+later MV gargoyles, so we’re going to be looking at all of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Gargoyle lore remains basically the same, and you can read it &lt;a href=&quot;/octopus-carnival/2020/03/12/gargoyle.html&quot;&gt;here&lt;/a&gt;. We get
+two new bits in this entry:&lt;/p&gt;
+
+&lt;p&gt;The first is that efreets love to train packs of gargoyles to hunt sapients for
+sport. The elemental lords are endlessly amused by their pets’ penchant for
+sadism when hunting. In the world, cultists of the Elder Elemental Eye
+frequently recruit and train gargoyles to guard their temples.&lt;/p&gt;
+
+&lt;p&gt;The second is that while gargoyles have a fearsome reputation in the world, they
+tend to be viewed as weak in their native Elemental Chaos. There, they are more
+often the prey than the hunter. Gargoyle packs skulk in caves and other secluded
+locations, and only attack when they greatly outnumber their target.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All gargoyles in this entry are Medium Elemental Humanoids with the Earth
+keyword. They have Darkvision, a ground speed of 6, and a flight speed
+of 8. They’re immune to petrification, and all but one of them have a passive
+trait called &lt;strong&gt;Lurking Presence&lt;/strong&gt;, which gives them a +10 bonus to Stealth
+against enemies’ passive Perception.&lt;/p&gt;
+
+&lt;p&gt;It’s also interesting to note that none of the gargoyles in this entry have the
+Lurker role - with these and the ones from the MV, you can build varied
+all-gargoyle encounters.&lt;/p&gt;
+
+&lt;h3 id=&quot;ironstone-gargoyle&quot;&gt;Ironstone Gargoyle&lt;/h3&gt;
+
+&lt;p&gt;Identified by the rust-red streaks covering their bodies, Ironstone Gargoyles
+behave like their “default” cousins, hanging out in mountain passes and ruins
+waiting to raid unsuspecting passers-by. They wait in ambush but fight in a more
+aggressive and mobile way than usual once combat starts.&lt;/p&gt;
+
+&lt;p&gt;Ironstone Gargoyles are Level 7 Skirmishers with 80 HP and the traits outlined
+above. They use &lt;strong&gt;claws&lt;/strong&gt; to fight, and have a special attack named &lt;strong&gt;Crashing
+Stride&lt;/strong&gt; (recharge 5+). This allows them to shift 4 squares and make claw
+attacks against two targets at any point along the shift. If they hit, they also
+slide the target 1 square and knock it prone.&lt;/p&gt;
+
+&lt;p&gt;When surrounded, a &lt;strong&gt;Leaping Glide&lt;/strong&gt; (at-will move action) allows them to fly 4
+squares without provoking opportunity attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;hornstone-gargoyle&quot;&gt;Hornstone Gargoyle&lt;/h3&gt;
+
+&lt;p&gt;This robust specimen is distinguished by its large horns, which it uses to gore,
+impale and drag victims in combat. It’s a Level 8 Brute with 107 HP and all
+standard traits.&lt;/p&gt;
+
+&lt;p&gt;Those horns can be used in an &lt;strong&gt;Impaling Charge&lt;/strong&gt;, an attack which must be used
+as part of a charge. It does heavy damage and grabs the target by impaling them
+in the gargoyle’s horns. The target takes 5 ongoing damage while the grab
+lasts. Escaping uses the standard rules (Athletics DC 22 or Acrobatics DC 19).&lt;/p&gt;
+
+&lt;p&gt;The gargoyle can use &lt;strong&gt;Skewering Drag&lt;/strong&gt; as a move action to move half its speed
+and automatically pull the grabbed victim along with it. Neither provokes
+opportunity attacks from the other during this movement.&lt;/p&gt;
+
+&lt;p&gt;I left the basic &lt;strong&gt;Claw&lt;/strong&gt; attack for last because it interacts with the above
+abilities: aside from doing the usual heavy damage of a Brute, it allows the
+monster to use Skewering Drag as a free action. Attacking the grabbed victim is
+a perfectly valid choice, mind you.&lt;/p&gt;
+
+&lt;p&gt;In combat they’ll do their best to impale and drag an enemy away. If the charge
+fails they prefer to fly away and try again rather than stand and fight with
+basic attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;obsidian-gargoyle&quot;&gt;Obsidian Gargoyle&lt;/h3&gt;
+
+&lt;p&gt;Obsidian gargoyles are kinda brittle, but also covered in sharp edges. Massive
+flocks of these things darken the skies of the Elemental Chaos, and they’re the
+preferred variant of Elemental Eye cultists. They’re Level 8 Minion Soldiers.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attacks are nothing special, but they also have a &lt;strong&gt;Cruel Claws&lt;/strong&gt;
+passive that deals 4 damage to an enemy who leaves a square adjacent to the
+gargoyle. That’s not a lot, but it triggers on a shift and &lt;em&gt;stacks&lt;/em&gt;. Surround a
+PC with these beasts. Leave only one way out. Dare them to take it.&lt;/p&gt;
+
+&lt;h3 id=&quot;runic-gargoyle&quot;&gt;Runic Gargoyle&lt;/h3&gt;
+
+&lt;p&gt;This is an &lt;em&gt;artificial&lt;/em&gt; gargoyle variant, originally created to serve the Elder
+Elemental Eye. Their skin looks like white marble covered in arcane runes, and
+they are a lot smarter than your average gargoyle. Some of them have since
+broken out of their servitude and found jobs with different groups.&lt;/p&gt;
+
+&lt;p&gt;Runic Gargoyles are Level 8 Soldiers with 87 HP and all standard traits &lt;em&gt;except&lt;/em&gt;
+for Lurking Presence, since they don’t really have natural camouflage. They were
+made to be bodyguards, and their runes can be configured to bind them to a
+designated “master”. I guess “client” might be a better word for free runic
+gargoyles.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attack marks the target for a turn. They can also use an
+&lt;strong&gt;Avenging Claws&lt;/strong&gt; maneuver that dazes instead of marking. This recharges when
+they’re first bloodied.&lt;/p&gt;
+
+&lt;p&gt;As a move action, they can teleport &lt;strong&gt;To the Master&lt;/strong&gt;, appearing in a space
+within 2 squares of the client. There is &lt;em&gt;no range limit&lt;/em&gt; on this, and it allows
+you to have a cool scene where the boss snaps his fingers and a gang of gargoyle
+guards teleports in.&lt;/p&gt;
+
+&lt;p&gt;If the gargoyle is adjacent to its client and the client takes damage, it can
+use &lt;strong&gt;Shielding Wings&lt;/strong&gt; as an interrupt to take the damage instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters&quot;&gt;Encounters&lt;/h2&gt;
+
+&lt;p&gt;The same encounter building tips for MM1/MV gargoyles also apply here. The
+efreet and Elder Eye angles are new and just as valid.&lt;/p&gt;
+
+&lt;p&gt;Inter-gargoyle synergy is highest between the gargoyles from this entry. You
+have a couple of variants who are excellent at inflicting forced movement, and a
+minion who deals damage to enemies who move away from it. And since all of them
+fly, they also pair well with pits and other floor-based hazards.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The stat blocks in this entry don’t really change my general opinion of
+gargoyles. They might be &lt;em&gt;too&lt;/em&gt; iconic, as the exceptional case in a D&amp;amp;D
+adventure is meeting an inanimate gargoyle statue who &lt;em&gt;won’t&lt;/em&gt; come to life and
+try to kill you. For this reason, you don’t want to use them too much in your
+actual game. Still, by combining the MM3 and the MV you have enough variants to
+make that one gargoyle encounter truly memorable.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Frog</title>
@@ -1497,102 +1650,6 @@ immune to cold. It’s fascinating!&lt;/p&gt;
         <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Dragon, Catastrophic</title>
-        <description>&lt;p&gt;I’ve talked a lot about dragons, and why I like their 4e implementation, over
-the course of these book readings. Sometimes it feels like no big D&amp;amp;D bestiary
-is complete without introducing a new dragon subtype.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual talked about the classic chromatics, which were then updated
-on the Monster Vault. You can see what I wrote about them &lt;a href=&quot;/octopus-carnival/projects/mm-4e/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 2 talked about the equally classic metallics, and you can
-read what I wrote about them &lt;a href=&quot;/octopus-carnival/projects/mm2-4e/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 3 introduces the much less famous and much newer Catastrophic
-Dragons. I believe they are new to 4e, though they might also have shown up in
-some late supplement for a previous edition. You might already have noticed I’m
-a bit lazy when it comes to researching monster publication histories.&lt;/p&gt;
-
-&lt;p&gt;What I’m sure about is that these are the first 4e dragons that have the
-“correct” math from the start. They’re also notable for being generally &lt;em&gt;weaker&lt;/em&gt;
-than chromatics and metallics despite the impressive name. Your typical
-catastrophic dragon is an Elite monster rather than a Solo.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As we saw in previous articles about dragons, when the god Io was split in two
-during the Dawn War his followers also split along ideological lines based on
-which of the two new deities they preferred: Tiamat the greedy or Bahamut the
-just. I imagine the initial decision was easy for most of them.&lt;/p&gt;
-
-&lt;p&gt;For most, but not for all. Some of Io’s orphaned followers were gripped by fear
-when they saw how easily their lord had been slain, and they decided that the
-best way to survive would be to beseech the Primordials for protection and join
-their side of the Dawn War. These turncoats were transformed by the “blessings”
-of the Primordials into the first catastrophic dragons.&lt;/p&gt;
-
-&lt;p&gt;When the Primordials were defeated most surviving catastrophics scattered across
-the multiverse and turned to their own selfish purposes. The typical
-catastrophic in the present day is somewhat less formidable than a chromatic,
-but more outwardly destructive. They tend to live in extremely hostile
-environments that befit their individual natures, and from the point of view of
-surrounding civilians their behavior looks a lot like that of a natural
-disaster: they occasionally emerge to wreak havoc and destruction on people and
-their environment, and then return to their lairs for an unknown amount of time.&lt;/p&gt;
-
-&lt;p&gt;Legends and myths dating back to the Dawn War tell of catastrophic dragons of
-immense size and power, capable of sinking continents and destroying entire
-astral domains. No one knows whether these stories are true, and even the gods
-refuse to tell.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-dragons&quot;&gt;The Dragons&lt;/h2&gt;
-
-&lt;p&gt;This entry is structured a lot like previous dragon entries, with each type of
-dragon presented getting stat blocks for all of its age categories. That’s about
-where it stops, though. Catastrophic dragons are more like personified natural
-disasters than like the traditional dragons we saw in previous books.&lt;/p&gt;
-
-&lt;p&gt;The ones we see here are clumsy fliers, and even lack the traditional breath
-weapon! Instead, they’re surrounded by an aura that’s like a miniature version
-of the disaster they embody. During a fight, this aura grows in size as time
-passes and then explodes in a, well, catastrophic manner before returning to its
-initial size and beginning the cycle anew.&lt;/p&gt;
-
-&lt;p&gt;Despite having bodies largely made up of elemental matter, these dragons lack
-any elemental resistances. Instead, damage of their associated type triggers a
-reaction ability that punishes the attacker in some form. I would however say
-that they are immune to &lt;em&gt;environmental&lt;/em&gt; damage of their associated type even
-though that’s not made explicit in their stat blocks, because it just wouldn’t
-do for a blizzard dragon to die of frostbite.&lt;/p&gt;
-
-&lt;p&gt;The last major mechanical difference between these dragons and their
-predecessors is that catastrophics are Elites instead of Solos. Whether this is
-just bad luck or a punishment from the gods, it means that fights against them
-will include a bigger supporting cast of other monsters.&lt;/p&gt;
-
-&lt;p&gt;There are more age categories here than in the previous books: Wyrmling, Young,
-Adult, Elder and Ancient. Wyrmlings are Medium in size, and are regular monsters
-instead of Elites. Young’uns and Adults are Large, and the last two are Huge. I
-guess a wyrmling isn’t quite a “baby dragon”, but I’d still be a bit wary of
-placing them as enemies, as I commented earlier.&lt;/p&gt;
-
-&lt;p&gt;Despite their thematic link to natural disasters and their destructive demeanor,
-catastrophic dragons are typically Unaligned, which says interesting things
-about their mindset.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/11/dragon-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/11/dragon-intro.html</guid>
         
         <category>dnd4</category>
         
