@@ -6,9 +6,151 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Aug 2022 19:48:30 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Aug 2022 19:48:30 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Aug 2022 18:55:46 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Aug 2022 18:55:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Merging GURPS Weapon Skills</title>
+        <description>&lt;p&gt;Recently, Peter V. Dell’Orto made a post in his blog Dungeon Fantastic about
+&lt;a href=&quot;https://dungeonfantastic.blogspot.com/2022/07/possible-weapon-skill-mergers-for-gurps.html&quot;&gt;merging GURPS weapon skills&lt;/a&gt;. I really, really like the idea, so I thought
+about writing about how I’d do it.&lt;/p&gt;
+
+&lt;p&gt;Mr. Dell’Orto’s post is specific to Dungeon Fantasy and to his own Felltower
+campaign. Mine is a bit more generic since I don’t have an active campaign
+going, and I tend to kind of mix up Dungeon Fantasy and default GURPS rules in
+my head. Consider it an addition to my &lt;a href=&quot;/octopus-carnival/2018/12/18/house-style.html&quot;&gt;House Style&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The reason for doing this is also pretty well-covered by this [follow-up Dungeon
+Fantastic Post][3]: having too many fine distinctions between spells and skills
+in a cinematic campaign can serve as a bit of a damper on the pacing and
+excitement of the campaign. My usual players tend to have a certain resistance
+to trying stuff that’s not on their character sheets, especially in a complex
+system like GURPS, so having broader traits would allow them to experiment a bit
+more.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-skills&quot;&gt;The Skills&lt;/h2&gt;
+
+&lt;p&gt;In campaigns where this post is in effect, I’m going to use the following list
+of weapon skills.&lt;/p&gt;
+
+&lt;h3 id=&quot;axemace-dxaverage&quot;&gt;Axe/Mace (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Two-Handed Axe/Mace-3&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This skill is a combination of the original &lt;strong&gt;Axe/Mace&lt;/strong&gt; with &lt;strong&gt;Flail&lt;/strong&gt;. When
+using a flail, the character suffers a -1 skill penalty.&lt;/p&gt;
+
+&lt;p&gt;In games that use Techniques, &lt;strong&gt;Flail&lt;/strong&gt; is a new Hard technique that defaults to
+Skill-1 and has a maximum level equal to Skill. This means you can buy the -1
+penalty off for 2 points.&lt;/p&gt;
+
+&lt;h3 id=&quot;fencing-dxaverage&quot;&gt;Fencing (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, One-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This new skill merges &lt;strong&gt;Rapier&lt;/strong&gt;, &lt;strong&gt;Saber&lt;/strong&gt; and &lt;strong&gt;Smallsword&lt;/strong&gt;. It allows you to
+use not only these three “titular” weapons, but also any other weapon that would
+fall under those skills, such as the jian (Rapier) or the light stick
+(Smallsword).&lt;/p&gt;
+
+&lt;p&gt;All the normal rules for fencing weapons apply.&lt;/p&gt;
+
+&lt;h3 id=&quot;force-sword-dxaverage&quot;&gt;Force Sword (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-3, One-Handed Sword-3, Two-handed Sword-3&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Should I ever play a science fiction game with force swords, this gets merged
+with &lt;strong&gt;Force Saber&lt;/strong&gt;. Whether you get fencing parries or not depends on the stat
+line of the weapon you’re using. The “Fencing parries for everyone!” option is
+also valid in a more explicitly Star Warsy game.&lt;/p&gt;
+
+&lt;h3 id=&quot;knife-dxaverage&quot;&gt;Knife (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-4&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This merges the original &lt;strong&gt;Knife&lt;/strong&gt; skill with &lt;strong&gt;Jitte/Sai&lt;/strong&gt; and
+&lt;strong&gt;Main-Gauche&lt;/strong&gt;. Any weapon that could be used with either of these can be used
+with the new skill. Weapons use their Main-Gauche profiles for this, meaning
+there’s no penalty for using the off hand and the user gets fencing parries.&lt;/p&gt;
+
+&lt;p&gt;In my experience, “knife expert” PCs always went for Main-Gauche anyway. People
+who dropped a point in Knife as a back-up skill almost never ende up using it,
+so they can just drop a point in this one instead.&lt;/p&gt;
+
+&lt;p&gt;The Jutte and the Sai get both a +2 for disarm attempts and fencing parries
+without any special stance switches required. They are rare enough in my games
+that I don’t believe it will be a problem. And by “rare” I mean no one has taken
+these weapons and no one has tried a disarm yet.&lt;/p&gt;
+
+&lt;h3 id=&quot;one-handed-sword-dxaverage&quot;&gt;One-Handed Sword (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-4, Two-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the skill used for all one-handed swords, merging both &lt;strong&gt;Broadsword&lt;/strong&gt;
+and &lt;strong&gt;Shortsword&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Blade length is an important consideration in real life, but it’s below the
+level of granularity I prefer. This also broadens the range of really cool magic
+swords your sword-wielding players can find and immediately use.&lt;/p&gt;
+
+&lt;h3 id=&quot;pole-weapons-dxaverage&quot;&gt;Pole Weapons (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Two-Handed Sword-5&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This merges &lt;strong&gt;Polearm&lt;/strong&gt;, &lt;strong&gt;Spear&lt;/strong&gt;, and &lt;strong&gt;Staff&lt;/strong&gt;. The Form Mastery perk is
+redundant for these weapons.&lt;/p&gt;
+
+&lt;p&gt;What about that sweet Staff parry bonus? If it’s in your weapon’s stat line
+under Staff, you get it. If it’s not, you don’t. The only are balanced
+two-handed spears, which I feel should have the bonus.&lt;/p&gt;
+
+&lt;h3 id=&quot;two-handed-axemace-dxaverage&quot;&gt;Two-Handed Axe/Mace (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, Axe-Mace-3&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Like Axe/Mace, but for two-handed weapons. The same rules apply for two-handed
+flails, including the existence of a Hard technique to buy the -1 penalty off.&lt;/p&gt;
+
+&lt;h3 id=&quot;two-handed-sword-dxaverage&quot;&gt;Two-Handed Sword (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Defaults: DX-5, One-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is pretty much the same skill as the original, with a suitably altered list
+of defaults.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-all-the-other-skills&quot;&gt;What about all the other skills?&lt;/h2&gt;
+
+&lt;p&gt;All of the more exotic weapon skills, like Whip, Kusari, and Tonfa, remain the
+same. I might change my mind in the future and come back to this, but I haven’t
+actually used any of them in my games, so it makes no difference for them to
+stay as-is.&lt;/p&gt;
+
+&lt;h2 id=&quot;optional-rule-weapon-familiarity&quot;&gt;Optional Rule: Weapon Familiarity&lt;/h2&gt;
+
+&lt;p&gt;If you like how these skills are merged, but still feel a staff user shouldn’t
+be able to pick up a halberd and wield it just as proficiently right away, then
+you can use a version of the Familiarity rules from the GURPS core book.&lt;/p&gt;
+
+&lt;p&gt;PCs are considered familiar with any weapons they acquire during character
+creation. If they pick up a weapon that would be used with a different skill
+under the standard rules, they have a -2 penalty to use that weapon until they
+can spend a few hours practicing with it. This takes time but costs no money or
+points. In effect, it can only happen when the PCs have a significant amount of
+downtime (such as when returning to town from a dungeon in DF). After this, the
+PC is considered familiar with that weapon type.&lt;/p&gt;
+
+&lt;p&gt;I’m writing this up as an option, but it’s not one I’ll use myself.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/03/merging-weapon-skills.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/03/merging-weapon-skills.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Gargoyle</title>
@@ -1513,143 +1655,6 @@ whose attacks are more powerful when they have combat advantage.&lt;/p&gt;
         <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/16/dragon-earthquake.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/16/dragon-earthquake.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Dragon, Blizzard</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dragon-blizzard.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Blizzard Dragons were created by Umboras, Lord of the Rimefire. The dragon
-petitioners who approached this primordial were the coldest-hearted among their
-number. Umboras took them to the coldest reaches of the Elemental Chaos and
-entombed them there for a year and a day while he worked his magic on them. When
-they emerged, they were blizzard dragons.&lt;/p&gt;
-
-&lt;p&gt;Umboras had a specific goal in mind when he did this. He had been an ally of the
-winter goddess Khala, who shared with him the goal of freezing the world
-solid. However, the Raven Queen had just usurped Khala and claimed the domain of
-winter from her, so Umboras was out for revenge. He created blizzard dragons to
-help transport his troops to the Raven Queen’s new home of Letherna.&lt;/p&gt;
-
-&lt;p&gt;The Queen, however, was smarter than him. She retreated to the labyrinthine
-astral domain of Pandemonium, and used its twisty little passages (all alike) to
-separate Umboras from his main forces and lock him in one of the domain’s empty
-vaults. He’s still there!&lt;/p&gt;
-
-&lt;p&gt;The blizzard dragons scattered after their master was imprisoned. Some stayed in
-Pandemonium, some returned to the Elemental Chaos, some even went to the coldest
-places of the world. For obvious reasons, though, you’ll rarely find one of them
-in the Shadowfell.&lt;/p&gt;
-
-&lt;p&gt;Blizzard dragons don’t usually have grand plans of their own, and are usually
-content to freeze and sculpt their territories. However, they’re surprisingly
-good team players and can often be found allied to other creatures of compatible
-disposition, helping them achieve their goals. This varies from the usual frost
-giants and ice archons to liches or winter fey, depending on the individual. And
-they’re always down for breaking a primordial out of prison.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Blizzard dragons are Elemental Magical Beasts with the Cold and Dragon
-keywords. They have Darkvision, Ice Walk, and a clumsy flight speed. All of
-their attacks do cold damage, even the bites and claws.&lt;/p&gt;
-
-&lt;h3 id=&quot;blizzard-dragon-wyrmling&quot;&gt;Blizzard Dragon Wyrmling&lt;/h3&gt;
-
-&lt;p&gt;Wyrmlings are Medium, making them the smallest dragons I’ve seen in my Let’s
-Read so far. They’re Level 2 Controllers with 38 HP. They have ground and air
-speeds of 6.&lt;/p&gt;
-
-&lt;p&gt;Yeah, that’s right, wyrmlings are &lt;em&gt;regulars&lt;/em&gt;. This means they’ll almost always
-be found cooperating with a sizable group of other monsters. The most obvious
-candidates are their clutch-siblings, but they’re smart enough to strike an
-alliance with lots of other people.&lt;/p&gt;
-
-&lt;p&gt;They are surrounded by an aura (1) of &lt;strong&gt;Freezing Wind&lt;/strong&gt;. Enemies that end their
-turn inside are slid 1 square. When hit by a cold attack, the wyrmling reacts
-with &lt;strong&gt;Sudden Flurry&lt;/strong&gt;, immediately sliding all enemies inside its aura 1
-square.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; immobilizes, and their &lt;strong&gt;claws&lt;/strong&gt; slide the target 1 square on a
-hit. While they’re bloodied, &lt;strong&gt;Wyrmling Fury&lt;/strong&gt; allows them to spend an action to
-attack with both.&lt;/p&gt;
-
-&lt;h3 id=&quot;young-blizzard-dragon&quot;&gt;Young Blizzard Dragon&lt;/h3&gt;
-
-&lt;p&gt;Young’uns grow to size Large, and become Level 7 Elite Controllers with 166
-HP. Their speed increases to 8.&lt;/p&gt;
-
-&lt;p&gt;They have all of the wyrmling’s abilities with a few differences and
-additions. The simplest one is that Wyrmling Flurry is replaced by a standard
-Double Attack ability, and their claws slide 2 squares.&lt;/p&gt;
-
-&lt;p&gt;Unlike other dragons, blizzards don’t have a breath weapon. Instead, when
-they’re hit by a melee attack, a high-pressure blast of frozen liquid bursts
-forth from the wound. This is written as a reaction named &lt;strong&gt;Chill Rebuke&lt;/strong&gt;, a
-Close Blast 5 vs. Fortitude. It deals cold damage and slows on a hit (save
-ends).&lt;/p&gt;
-
-&lt;p&gt;This is also where the “living disaster” mechanic kicks in. Here it’s an ability
-named &lt;strong&gt;Rising Winds&lt;/strong&gt;. Once this is activated as a minor action, it causes the
-size of the dragon’s Freezing Wind aura to grow to 3. At the start of the
-dragon’s next turn, it automatically expands again, to 5. And at the start of
-the following turn, the dragon makes a Close Burst 5 attack vs. Fortitude, with
-a hit dealing cold damage, slowing, and blinding the targets. Once the attack is
-resolved, the aura returns to is initial size of 1 and Rising Winds recharges.&lt;/p&gt;
-
-&lt;h3 id=&quot;adultelder-blizzard-dragon&quot;&gt;Adult/Elder Blizzard Dragon&lt;/h3&gt;
-
-&lt;p&gt;Adults and elders are identical to young’uns, with bigger numbers. Adults are
-Level 12 Elite Controllers with 252 HP, and Elders are Level 17 with 338
-HP.&lt;/p&gt;
-
-&lt;p&gt;Elders are Huge and can move at speed 10. They can slide enemies 3 squares with
-their claws and 2 squares with their auras. Their Rising Winds attack restrains
-instead of immobilizing.&lt;/p&gt;
-
-&lt;h3 id=&quot;ancient-blizzard-dragon&quot;&gt;Ancient Blizzard Dragon&lt;/h3&gt;
-
-&lt;p&gt;Ancients are Huge in size, and are Level 22 Elite Controllers with 422
-HP. They’re almost idendical to elders, with bigger numbers. They also have a
-new encounter power named &lt;strong&gt;Deep Freeze&lt;/strong&gt; that works kinda like a breath weapon,
-though I guess it’s more of a high-pressure blood ejection, since the dragon
-must be bloodied to use it.&lt;/p&gt;
-
-&lt;p&gt;This ability attacks enemies in a Close Burst 5, targetting Fortitude. A hit
-deals cold damage, immobilizes, and imposes a -5 penalty to Fortitude (save ends
-both). A miss deals half damage and imposes the same penalty for a single
-turn. All of the dragon’s non-basic attacks target Fortitude, so this penalty
-makes it a lot more dangerous while it lasts.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Blizzard dragons feel like they slide into the exact same niche as white
-dragons, with a similar cold theme and a similarly unpleasant
-personality. Blizzards are smarter and not technically evil, but they still make
-for terrible neighbors.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, they &lt;em&gt;feel&lt;/em&gt; like dragons and like cold themed creatures without
-actually using any of the signature mechanics for either! This is a dragon that
-does not have a breath attack or a fear aura, and a cold creature that is not
-immune to cold. It’s fascinating!&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/13/dragon-blizzard.html</guid>
         
         <category>dnd4</category>
         
