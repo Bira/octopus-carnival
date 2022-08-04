@@ -136,5 +136,5 @@ PC is considered familiar with that weapon type.
 I'm writing this up as an option, but it's not one I'll use myself.
 
 [1]: https://dungeonfantastic.blogspot.com/2022/07/possible-weapon-skill-mergers-for-gurps.html
-[2]: {{ "/2018/12/18/house-style.html" | relative_url }}
+[2]: {{ "/2018/12/18/df-house-style.html" | relative_url }}
 [3]: https://dungeonfantastic.blogspot.com/2022/08/why-all-merging.html
