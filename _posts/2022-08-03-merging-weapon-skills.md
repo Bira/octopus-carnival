@@ -68,7 +68,7 @@ with the new skill. Weapons use their Main-Gauche profiles for this, meaning
 there's no penalty for using the off hand and the user gets fencing parries.
 
 In my experience, "knife expert" PCs always went for Main-Gauche anyway. People
-who dropped a point in Knife as a back-up skill almost never ende up using it,
+who dropped a point in Knife as a back-up skill almost never ended up using it,
 so they can just drop a point in this one instead.
 
 The Jutte and the Sai get both a +2 for disarm attempts and fencing parries
@@ -134,6 +134,7 @@ downtime (such as when returning to town from a dungeon in DF). After this, the
 PC is considered familiar with that weapon type.
 
 I'm writing this up as an option, but it's not one I'll use myself.
+
 
 [1]: https://dungeonfantastic.blogspot.com/2022/07/possible-weapon-skill-mergers-for-gurps.html
 [2]: {{ "/2018/12/18/df-house-style.html" | relative_url }}
