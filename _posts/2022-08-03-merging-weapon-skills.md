@@ -95,8 +95,8 @@ This merges **Polearm**, **Spear**, and **Staff**. The Form Mastery perk is
 redundant for these weapons.
 
 What about that sweet Staff parry bonus? If it's in your weapon's stat line
-under Staff, you get it. If it's not, you don't. The only are balanced
-two-handed spears, which I feel should have the bonus.
+under Staff, you get it. If it's not, you don't. The only exception to this are
+balanced two-handed spears, which I feel should have the bonus.
 
 ### Two-Handed Axe/Mace (DX/Average)
 
@@ -137,3 +137,4 @@ I'm writing this up as an option, but it's not one I'll use myself.
 
 [1]: https://dungeonfantastic.blogspot.com/2022/07/possible-weapon-skill-mergers-for-gurps.html
 [2]: {{ "/2018/12/18/house-style.html" | relative_url }}
+[3]: https://dungeonfantastic.blogspot.com/2022/08/why-all-merging.html
