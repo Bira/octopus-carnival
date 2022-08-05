@@ -71,6 +71,10 @@ entries.
   - [Foulspawn][40]
   - [Frog][41]
 
+- G
+  - [Gargoyle][42]
+  - [Ghoul][43]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -113,3 +117,5 @@ entries.
 [39]: {{ "/2022/07/25/forsaken.html" | relative_url }}
 [40]: {{ "/2022/07/28/foulspawn.html" | relative_url }}
 [41]: {{ "/2022/08/01/frog.html" | relative_url }}
+[42]: {{ "/2022/08/02/gargoyle.html" | relative_url }}
+[43]: {{ "/2022/08/05/ghoul.html" | relative_url }}
