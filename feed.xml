@@ -6,9 +6,155 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Aug 2022 01:33:24 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Aug 2022 01:33:24 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Aug 2022 13:57:19 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Aug 2022 13:57:19 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Ghoul</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-ghoul.png&quot; width=800/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;As classic monsters, Ghouls had their 4e debut on the first Monster Manual, and
+would end up making it into the Monster Vault as well. Here, the Monster Manual
+3 gives us a few specialized ghoul variants that can compliment the ones on the
+MV.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The basic lore for ghouls remains the same. You can check out a description of
+it on my post about &lt;a href=&quot;/octopus-carnival/2020/03/20/ghoul.html&quot;&gt;ghouls in the MM/MV&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The MM3 emphasizes that ghouls are creatures of pure evil, since they used to be
+individuals who practiced cannibalism or did other equally horrible things in
+life. It adds that they are not only driven by a hunger for flesh, but are also
+drawn to places where evil is powerful.&lt;/p&gt;
+
+&lt;p&gt;Ghouls will spontaneously show up at the home bases of evil cults, especially
+those who worship Orcus or one of his exarchs. These villains often secure the
+ghouls’ services by paying in live captives.&lt;/p&gt;
+
+&lt;p&gt;Ghouls will also seek out ruins and dungeons where great evil is entombed,
+sometimes digging for miles to reach these places if they happen to be deep
+underground. This attraction handily explains why the ghouls that live in these
+places prefer to hang out there rather than terrorizing the countryside.&lt;/p&gt;
+
+&lt;p&gt;Some adventurers like to use these ghoul tunnels and warrens as a way to reach
+their dungeons or the Underdark, but this is a risky proposition as any ghouls
+living in the tunnels will have a terrain advantage against the interlopers.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;We get three different varieties of Ghoul here, none of which seem to be
+reprinted in the MV. They’re all Medium Natural Humanoids with the Undead
+tag. They have Darkvision, Immunity to disease and poison, Resist 10 Necrotic,
+and Vulnerable 5 Radiant.&lt;/p&gt;
+
+&lt;h3 id=&quot;ghoul-flesh-seeker&quot;&gt;Ghoul Flesh Seeker&lt;/h3&gt;
+
+&lt;p&gt;This is a cultist of Orcus who has undergone a voluntary transformation into a
+ghoul. I guess the origin could be applied to any stat block, but this specific
+entry describes a stealthy bastitch. They sometimes hunt in civilized
+settlements, disguising themselves with heavy robes. When accompanying other
+monsters, they like to strike from ambush while the PCs are busy with their less
+stealthy buddies.&lt;/p&gt;
+
+&lt;p&gt;Flesh Seekers are Level 4 Lurkers with 45 HP. Their ground speed is an excellent
+8, and their &lt;strong&gt;Shadow Skulk&lt;/strong&gt; trait allows them to roll Stealth to hide in
+combat when they have partial cover or concealment (normally you need full cover
+or concealment).&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Claw&lt;/strong&gt; that damages and immobilizes (save ends) on a
+hit. They don’t have abilities to exploit this directly, but “standard” ghouls
+do.&lt;/p&gt;
+
+&lt;p&gt;They have two “lurker”-y special attacks. The first is &lt;strong&gt;Prepare For
+Sacrifice&lt;/strong&gt;, which they can use against a creature from which they were hidden
+at the start of their turn. It does more damage than the claw attack, and on a
+hit the flesh seeker knocks the target prone and grabs it. The target can escape
+using the normal rules (Athletics DC 14 or Acrobatics DC 16) but takes a -2
+penalty on the escape test and can’t stand up until the grab ends.&lt;/p&gt;
+
+&lt;p&gt;The second special attack is &lt;strong&gt;Render Unto Orcus&lt;/strong&gt;, and it can only be used on a
+target grabbed by the flesh seeker. No special riders here, just a massive chunk
+of damage.&lt;/p&gt;
+
+&lt;p&gt;Tactics write themselves: Ambush -&amp;gt; Prepare For Sacrifice -&amp;gt; Render Unto
+Orcus. If someone pries you off your victim, hide and repeat.&lt;/p&gt;
+
+&lt;h3 id=&quot;adept-of-orcus&quot;&gt;Adept of Orcus&lt;/h3&gt;
+
+&lt;p&gt;A cannibal priest of Orcus who died and returned as a ghoul. This one retains
+its memories, but since it already behaved like a ghoul in life the only way you
+can tell it’s because it can use magic.&lt;/p&gt;
+
+&lt;p&gt;Adepts are Level 6 Controllers with the Leader tag and 71 HP. Their speed
+is 8. They project an &lt;strong&gt;Uneasy Grave&lt;/strong&gt; aura (5). Any non-minion ghoul ally that
+dies inside this aura comes back as a zombie rotter (a minion) at the start of
+its next turn.&lt;/p&gt;
+
+&lt;p&gt;The adept’s &lt;strong&gt;Claw&lt;/strong&gt; damages and immobilizes, as typical for ghouls. It also has
+three spells, all ranged attacks. &lt;strong&gt;Grave Grasp&lt;/strong&gt; (at-will) does no damage and
+restrains (save ends). &lt;strong&gt;Call to Feast&lt;/strong&gt; (recharge 5+) immobilizes (save ends)
+and allows a ghoul ally adjacent to the target to make a free basic attack
+against them. And &lt;strong&gt;Grave Dust Cloud&lt;/strong&gt; (encounter) is an area spell that does
+necrotic damage and creates a zone that does 5 necrotic damage to any enemy who
+enters it or ends their turn inside.&lt;/p&gt;
+
+&lt;p&gt;These things are extremely dangerous when paired with traditional ghouls, since
+they can paralyze from a distance and allow their buddies to do huge damage
+right away.&lt;/p&gt;
+
+&lt;h3 id=&quot;ghast&quot;&gt;Ghast&lt;/h3&gt;
+
+&lt;p&gt;Ghasts are a monster as traditional as the ghoul. Basically, they’re stronger
+and stinkier ghouls. The MM and MV had Abyssal Ghouls to fill this role, but
+they were level 16. This official Ghast entry is appropriate for mixing in with
+standard ghouls.&lt;/p&gt;
+
+&lt;p&gt;Ghasts are what happens when a ghoul goes for too long without eating the flesh
+of the living. Instead of starving, they rot from the inside and become even
+more desperate and voracious. This rot is what gives them their horrible stench.&lt;/p&gt;
+
+&lt;p&gt;Ghasts are Level 6 Brutes with 85 HP. They’re a bit slower at speed 6, and their
+&lt;strong&gt;Stench of Death&lt;/strong&gt; aura (1) slows any living creatures that start their turns
+inside.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that damages and immobilizes for a turn. They
+can use a &lt;strong&gt;Devouring Bite&lt;/strong&gt; against an immobilized creature, which does huge
+damage and keeps recharging until they hit with it. After the bite hits and is
+spent, they can use their &lt;strong&gt;Rabid Claws&lt;/strong&gt;, to make two melee attacks against
+immobilized creatures. Each one does slightly less damage than the basic bite,
+but if the two hit they hurt more overall.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These new ghoul types can fit into the same types of encounter group as the ones
+from the MM/MV, which means they pair well with Orcus cultists and other
+undead. And now you have enough ghoul stat blocks to make a large variety of
+all-ghoul encounters.&lt;/p&gt;
+
+&lt;p&gt;As for my impressions… I like ghouls as opponents, and I would like to repeat
+my warning from the original article to prefer the MV ghouls over the MM1
+ones. The ones from this book pair well with the MV versions.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/05/ghoul.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/05/ghoul.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Merging GURPS Weapon Skills</title>
@@ -75,7 +221,7 @@ with the new skill. Weapons use their Main-Gauche profiles for this, meaning
 there’s no penalty for using the off hand and the user gets fencing parries.&lt;/p&gt;
 
 &lt;p&gt;In my experience, “knife expert” PCs always went for Main-Gauche anyway. People
-who dropped a point in Knife as a back-up skill almost never ende up using it,
+who dropped a point in Knife as a back-up skill almost never ended up using it,
 so they can just drop a point in this one instead.&lt;/p&gt;
 
 &lt;p&gt;The Jutte and the Sai get both a +2 for disarm attempts and fencing parries
@@ -1536,125 +1682,6 @@ feel the other party got one over on them.&lt;/p&gt;
         <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/17/dragon-volcanic.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/17/dragon-volcanic.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Dragon, Earthquake</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dragon-earthquake.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Earthquake dragons were created by Balcoth, the Groaning King. The petitioners
-who approached this Earth primordial were terrified by the death of Io, and were
-willing to swear loyalty to anyone who could protect them. Balcoth agreed, and
-fulfilled his promise by swallowing the dragons up and keeping them inside his
-furnace-like belly, where they “cooked” and were changed by his essence.&lt;/p&gt;
-
-&lt;p&gt;Balcoth would vomit up a few earthquake dragons when he needed their
-service. When the primordial was beheaded and slain during the Dawn War, the
-rest of his dragons escaped through the wound and into the world.&lt;/p&gt;
-
-&lt;p&gt;Generally speaking, Earthquake dragons are extremely into the whole “living
-disaster” thing. When they settle down somewhere, the surrounding region is soon
-wracked by tremors of increasing intensity and duration. The dragon feeds on the
-people killed by these tremors, and will sometimes destroy a city on purpose
-just because they can. They lair in the ruins for months, digesting their prey
-and enjoying the view of the ruins until they grow tired of them and fly away to
-look for another place to devastate.&lt;/p&gt;
-
-&lt;p&gt;Unlike their blizzard cousins, earthquakes are &lt;em&gt;not&lt;/em&gt; team players. They’ll form
-temporary alliances with inedible creatures (mostly earth-themed), and can
-sometimes be bribed into service by mortals, but these arrangements never last
-long.&lt;/p&gt;
-
-&lt;p&gt;These dragons aren’t great fliers, but they can swim through earth and rock as
-if it was water. They hunt by suppressing their earthquake aura and stalking
-their prey from underground. When they attack, they make a spectacular entry and
-fight with all of their powers, though they usually retreat back underground
-rather than fighting to the death.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Earthquake Dragons follow the same general plan as Blizzards. They’re Elemental
-Magical Beasts with the Dragon and Earth keywords. They have Darkvision,
-Tremorsense, and both burrow and clumsy flight speeds that are about half of
-their ground speed.&lt;/p&gt;
-
-&lt;h3 id=&quot;earthquake-dragon-wyrmling&quot;&gt;Earthquake Dragon Wyrmling&lt;/h3&gt;
-
-&lt;p&gt;This is a Medium Level 4 Soldier with 58 HP, representing the youngest dragon
-that can be a threat in combat. Their speed is 6 (burrow 2, clumsy flight
-2). They project a Quaking Earth aura (1) with a very “soldierly” effect: if an
-enemy inside the aura makes an attack that doesn’t include the dragon as a
-target, the enemy falls prone and takes 5 damage.&lt;/p&gt;
-
-&lt;p&gt;The wyrmling’s &lt;strong&gt;bite&lt;/strong&gt; and &lt;strong&gt;claw&lt;/strong&gt; basic attacks do physical damage without
-riders, and &lt;strong&gt;Wyrmling Fury&lt;/strong&gt; allows it to make both attacks in the same action
-while it’s bloodied.&lt;/p&gt;
-
-&lt;p&gt;Finally, they have a &lt;strong&gt;Sudden Quake&lt;/strong&gt; ability that triggers when they’re knocked
-prone or subjected to forced movement. It knocks all enemies inside the dragon’s
-aura prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;young-earthquake-dragon&quot;&gt;Young Earthquake Dragon&lt;/h3&gt;
-
-&lt;p&gt;Young dragons are Large Level 9 Elite Soldiers with 206 HP. Their ground speed
-increases to 8, their burrow and flight speeds to 4. They have all the same
-abilities as a wyrmling, with bigger numbers. They replace Wyrmling Fury with a
-proper &lt;strong&gt;Double Attack&lt;/strong&gt; and add two new powers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Earthen Maw&lt;/strong&gt; (recharge 6+) is a melee attack that does more damage than a
-basic bite and restains the target (save ends). After the first save the target
-is instead petrified! A save still ends this, but the target is entirely unable
-to act until they make that save.&lt;/p&gt;
-
-&lt;p&gt;Their “disaster” power is &lt;strong&gt;Rising Tremors&lt;/strong&gt;, which follows the same pattern
-seen for blizzard dragons. When it’s activated with a minor action, it increases
-the dragon’s aura size to 3. At the end of the next turn, the aura increases
-again to 5. And at the end of the turn after that, the dragon makes a Close
-Burst 5 attack vs. Reflex. This one deals physical damage, knocks targets prone,
-and prevents them from standing back up (save ends). After the attack, the aura
-resets and this power recharges.&lt;/p&gt;
-
-&lt;h3 id=&quot;other-age-categories&quot;&gt;Other Age Categories&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Adults&lt;/strong&gt; are Level 14 Elite Soldiers with 288 HP, and have all the same
-abilities with bigger numbers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Elders&lt;/strong&gt; are Huge Level 19 Elite Soldiers with 374 HP, and again have all the
-same abilities with bigger numbers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ancients&lt;/strong&gt; are Level 24 Elite Soldiers with 456 HP, and gain Threatening
-Reach 3. They once again have all the same abilities as younger dragons with
-bigger numbers.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m surprised the dragons in this entry are still marked as Unaligned despite
-being a lot more actively destructive and cruel than blizzard dragons. I’d have
-thought “I exist to satisfy my twin urges to destroy and devour” would rate a
-Chaotic Evil alignment. Of course, you can go the other way and give them more
-flexible personalities and more varied motivations.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, earthquake dragons are very good at knocking people down and
-&lt;em&gt;keeping&lt;/em&gt; them down, so they pair really well with melee lurkers and skirmishers
-whose attacks are more powerful when they have combat advantage.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/16/dragon-earthquake.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/16/dragon-earthquake.html</guid>
         
         <category>dnd4</category>
         
