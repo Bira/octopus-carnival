@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Read the 4e Monster Manual 3: Giant, Fire
+title: "Let's Read the 4e Monster Manual 3: Giant, Fire"
 tags:
     - dnd4
     - lets-read
