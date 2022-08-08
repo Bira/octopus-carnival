@@ -6,9 +6,136 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Aug 2022 13:57:19 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Aug 2022 13:57:19 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Aug 2022 04:12:13 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Aug 2022 04:12:13 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-giant-fire.png&quot; width=800/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Like the ghouls we just covered, fire giants are classic monsters that appeared
+both in the original Monster Manual, and who would appear again in the upcoming
+Monster Vault. The MM3 gives a selection of fire giant stat blocks that
+complements that of the MV.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The lore for fire giants remains pretty much the same as it was &lt;a href=&quot;/octopus-carnival/2020/04/06/fire-giants.html&quot;&gt;in the
+MM/MV&lt;/a&gt;. The new bits here add that the ancient fire giant empire had close
+contact with the efreets of the Elemental chaos, and that their many volcano
+fortresses were linked to each other and to the City of Brass via teleportation
+circles and portals. Most of these portals are deactivated in the present day,
+though the giants labor to reignite them wherever they find one.&lt;/p&gt;
+
+&lt;p&gt;As usual, fire giants love to team up with other fire creatures, preferrably
+ones they can dominate and command. Some of them end up in the service of more
+powerful masters like efreets or the older red dragons, but since fire giants
+always think they should be the ones in charge they make for untrustworthy
+subordinates.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Fire Giants are Large Elemental Humanoids with the Giant keyword. They have a
+ground speed of 8 and Resist 15 Fire.&lt;/p&gt;
+
+&lt;h3 id=&quot;fire-giant-lavamaster&quot;&gt;Fire Giant Lavamaster&lt;/h3&gt;
+
+&lt;p&gt;Here’s a name that looks like it came from the writer’s 8-year-old
+child. Lavamasters are… masters of lava! Their magic allows them to control
+magma and use it both as a weapon, and to heal their allies. Lavamasters are
+Level 17 Controllers with 164 HP and the Leader tag.&lt;/p&gt;
+
+&lt;p&gt;They project an aura (2) of &lt;strong&gt;Hearthflames&lt;/strong&gt; that hurts enemies and bolsters
+allies. Enemies caught inside take 10 fire damage; bloodied allies recover 10 HP
+when they start their turns inside the aura. This is not any kind of “drain”
+effect. Allies recover HP regardless of whether there are enemies to damage or
+not.&lt;/p&gt;
+
+&lt;p&gt;The lavamaster attacks with a &lt;strong&gt;Molten Sword&lt;/strong&gt; that deals fire damage, and can
+also use several spells. &lt;strong&gt;Magma Lash&lt;/strong&gt; is a ranged attack that deals a bit more
+fire damage than the sword, and pulls the target 4 squares. If the target ends
+up adjacent to the lavamaster, the giant grabs them. The spell recharges when
+the giant has no target grabbed. &lt;strong&gt;Magma Burst&lt;/strong&gt; is like an at-will
+mini-fireball that leaves a fiery zone in its affected area. The zone lasts for
+a turn, counts as difficult terrain, and deals fire damage to enemies inside.&lt;/p&gt;
+
+&lt;p&gt;If the lavamaster has an enemy grabbed, &lt;strong&gt;Fiery Vendetta&lt;/strong&gt; allows the lavamaster
+itself or one of its allies to make a free attack against that enemy whenever
+the enemy attacks the lavamaster.&lt;/p&gt;
+
+&lt;p&gt;A good tactic here is to keep away and repeatedly fireball the enemy, grabbing
+anyone who gets too close. Keep a Brute or two nearby as bodyguards so they can
+make free attacks against the grabbed victim and benefit from that healing aura.&lt;/p&gt;
+
+&lt;h3 id=&quot;fire-giant-flamedancer&quot;&gt;Fire Giant Flamedancer&lt;/h3&gt;
+
+&lt;p&gt;This martial artist is trained in an ancient style developed by the efreets. It
+combines mobile spear fighting with fire-based teleportation magic. Flamedancers
+are Level 18 Skirmishers with 174 HP.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait gives them +4 to AC vs. Opportunity Attacks, and
+their &lt;strong&gt;Whirling Spear&lt;/strong&gt; basic attack deals fire damage and allows them to shift
+2 squares on a hit. They can also make at-will &lt;strong&gt;double attacks&lt;/strong&gt;, which must be
+against different targets.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can make a &lt;strong&gt;Flameburst Leap&lt;/strong&gt; as a move action,
+teleporting 8 squares and dealing automatic fire damage to any enemies adjacent
+to them at the starting point.&lt;/p&gt;
+
+&lt;p&gt;You wouldn’t expect a giant to be this agile! The same stat block can be used
+for a slightly lower-level efreet without much issue.&lt;/p&gt;
+
+&lt;h3 id=&quot;fire-giant-smokecaller&quot;&gt;Fire Giant Smokecaller&lt;/h3&gt;
+
+&lt;p&gt;Smokecallers are what passes for a “subtle” fire giant spellcaster. They
+surround themselves in clouds of volcanic smoke, and attack by turning that
+smoke into a pyroclastic cloud aimed at their enemies. It’s “subtle” without
+necessarily being “stealthy”, unless you’re already in an environment naturally
+choked with sulphurous smoke. Which is… actually a common situation when
+you’re fighting fire giants.&lt;/p&gt;
+
+&lt;p&gt;Smokecallers are Level 19 Lurkers with 140 HP and a nice speed of 10. They fight
+with a &lt;strong&gt;Smoldering Whip&lt;/strong&gt; that has a fantastic reach of 5. It targets Reflex,
+does fire damage, and pulls up to 3 squares on a hit.&lt;/p&gt;
+
+&lt;p&gt;Its main tactic consists of two abilities: &lt;strong&gt;Smokecloud&lt;/strong&gt; creates a zone of
+smoke in a Close Burst 3 that lasts for a turn. It blocks line of sight for all
+creatures except the smokecaller. While inside this zone, the smokecaller can
+use &lt;strong&gt;Cindersmoke&lt;/strong&gt; to attack all enemies in a Close Blast 5. This deals fire
+damage on a hit, and it ends the smokecloud immediately.&lt;/p&gt;
+
+&lt;p&gt;Both are standard actions, which means the lurkery routine here is Smokecloud
+followed by Cindersmoke on the next turn. Cindersmoke does the same damage as a
+whip attack to each target. This means the whip is only worth it if its forced
+movement component would synergize with something. An example is when you have
+multiple smokecallers and one of them wants to pull a PC into its buddy’s
+upcoming Cindersmoke area.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Like the ghoul entry, this one feels like it was designed to fit together with
+the (upcoming, at the time) Monster Vault. The giants here all use the same
+improved math as the ones that would appear on the MV, and they fill roles which
+the more “classic” MV lineup does not. Combining the two gives you enough
+ready-made stat blocks to make a dungeon inhabited solely by fire giants, though
+you might also want to sprinkle in some hell hounds, elementals, and enslaved
+azer that just need that final push to revolt.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Aug 2022 04:12:13 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/08/2022-08-08-giant-fire.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/08/2022-08-08-giant-fire.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Ghoul</title>
@@ -1563,125 +1690,6 @@ interesting underhanded tricks.&lt;/p&gt;
         <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/20/dread-warrior.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/20/dread-warrior.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Dragon, Volcanic</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-dragon-volcanic.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Volcanic dragons were created by Vezzuvu, the Living Mountain. The petitioners
-who approached this primordial were &lt;em&gt;angry&lt;/em&gt;. You see, dragons were made in Io’s
-image, but Io’s demise proved he was weak. Therefore, these dragons thought,
-&lt;em&gt;they&lt;/em&gt; were weak, and this realization felt like an insult to them.&lt;/p&gt;
-
-&lt;p&gt;Vezzuvu promised that if the dragons bathed in the boiling magma of his domain,
-their weak flesh would be burned away and replaced with a truly strong body. His
-petitioners obeyed and dove in. The survivors became volcanic dragons.&lt;/p&gt;
-
-&lt;p&gt;All was well with the volcanics for a time, but then their old pride and sense
-of entitlement began to gnaw at them again. Where their new bodies truly
-stronger? Had they been given all the power they were promised, all the power
-they surely deserved? When they concluded they hadn’t, they turned on their
-former master and went their own way. Their history from this point on is filled
-with instances of volcanic dragons allying with servants of either the gods or
-the primordials for a time, only to betray them a short time later. In our
-narrative present, everyone knows an alliance with these beasts is likely to end
-in sudden but inevitable betrayal.&lt;/p&gt;
-
-&lt;p&gt;A typical volcanic dragon’s temperament is like that of a red, but worse. They
-make a show of craving treasure and rulership over a territory, but what they
-truly crave is destruction. In other words, volcanic dragons love burning stuff,
-especially flesh. It makes them feel good. They like the company of other
-fire-elemental beings with similar dispositions, but any alliance they make is
-temporary at best. They live inside volcanoes and on other similar burning
-landscapes.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Since Volcanic Dragons follow the same general format of the other catastrophics
-you could argue they are right about getting a bad deal from Vezzuvus. They’re
-Elemental Magical Beasts with the Dragon and Fire keywords, Darkvision, and a
-Clumsy Flight speed equal to their ground speed.&lt;/p&gt;
-
-&lt;h2 id=&quot;volcanic-dragon-wyrmling&quot;&gt;Volcanic Dragon Wyrmling&lt;/h2&gt;
-
-&lt;p&gt;Wyrmlings are Medium Level 5 Brutes with 77 HP and Speed 6. They’re surrounded
-by an aura (1) of &lt;strong&gt;Noxious Fumes&lt;/strong&gt; that deals 3 poison damage to enemies who
-end their turns inside.&lt;/p&gt;
-
-&lt;p&gt;The dragon’s basic &lt;strong&gt;bite&lt;/strong&gt; and &lt;strong&gt;claw&lt;/strong&gt; are weaker than those of most brutes,
-but the bite inflicts ongoing fire damage and the claws strip the target of all
-fire resistance until the start of the dragon’s next turn. As usual &lt;strong&gt;wyrmling
-fury&lt;/strong&gt; allows it to use both attacks in the same action while bloodied. Use the
-claw first!&lt;/p&gt;
-
-&lt;p&gt;When hit by a fire attack, the wyrmling uses a &lt;strong&gt;Sudden Flare&lt;/strong&gt; as a reaction,
-causing each enemy inside the dragon’s aura to take 5 fire damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;young-volcanic-dragon&quot;&gt;Young Volcanic Dragon&lt;/h2&gt;
-
-&lt;p&gt;Young’uns are Large Level 10 Elite Brutes with 264 HP and speed 8. They have all
-the same attacks as the wyrmling, but their Wyrmling Fury upgrades to a full
-&lt;strong&gt;Double Attack&lt;/strong&gt;. Their numbers are also bigger, of course, and they gain two
-new attacks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Growing Heat&lt;/strong&gt; is their “disaster” ability. When activated with a minor
-action, it makes their Noxious Fumes aura grow to size 3, then to size 5 on the
-next turn, and then explode in the turn after that. This explosion targets
-Reflex and deals both immediate and ongoing fire damage. After it resolves the
-dragon’s aura shrinks to its original size and the power recharges.&lt;/p&gt;
-
-&lt;p&gt;The dragon can also create a &lt;strong&gt;Lava Vent&lt;/strong&gt;, an Area Burst 1 zone that lasts
-until the end of the encounter and deals 5 fire damage to anyone who enters or
-starts their turn there. This recharges once the dragon is first bloodied, so
-each dragon in the fight can create 2 vents total.&lt;/p&gt;
-
-&lt;h2 id=&quot;other-age-categories&quot;&gt;Other Age Categories&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Adults&lt;/strong&gt; are Level 15 Elite Brutes with 363 HP, and have all the same
-abilities of a young dragon with bigger numbers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Elders&lt;/strong&gt; are Huge Level 20 Elite Brutes with 468 HP, and likewise have all the
-same abilities.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ancients&lt;/strong&gt; are Huge Level 25 Elite Brutes with 574 HP. They have all the same
-abilities as elders and are also able to create a &lt;strong&gt;Fiery Fissure&lt;/strong&gt; in addition
-to the lava vents. This works like a temporary wall of fire (and it’s a wall 6
-pattern) that deals 20 fire damage to anyone who tries to touch or cross it. It
-only lasts for a turn but it’s a minor action and a recharge 5+ attack instead
-of an encounter power.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Volcanic dragons might be weaker than traditional ones, but they’re much better
-at subverting expectations. Typical PCs might see that it’s a fire monster and
-load up on fire resistance effects, only to realize the dragon’s aura deals
-&lt;em&gt;poison&lt;/em&gt; damage and it can remove fire resistance with its claws. Also, the bulk
-of the damage from its basic attacks is untyped, further limiting the usefulness
-of fire resistance.&lt;/p&gt;
-
-&lt;p&gt;Lore-wise, paranoia and entitlement seem to be their strongest personality
-traits. They’re hard to deal with because they always feel they’re not getting
-their due. Even when a deal is fair and happens as promised, they’ll probably
-feel the other party got one over on them.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/17/dragon-volcanic.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/17/dragon-volcanic.html</guid>
         
         <category>dnd4</category>
         
