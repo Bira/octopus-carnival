@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-giant-fire.png" | absolute_url }}" width=800/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Like the ghouls we just covered, fire giants are classic monsters that appeared
 both in the original Monster Manual, and who would appear again in the upcoming
 Monster Vault. The MM3 gives a selection of fire giant stat blocks that
@@ -114,4 +125,5 @@ ready-made stat blocks to make a dungeon inhabited solely by fire giants, though
 you might also want to sprinkle in some hell hounds, elementals, and enslaved
 azer that just need that final push to revolt.
 
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2020/04/06/fire-giants.html" | relative_url }}

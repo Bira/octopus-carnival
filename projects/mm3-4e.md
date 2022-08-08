@@ -119,3 +119,4 @@ entries.
 [41]: {{ "/2022/08/01/frog.html" | relative_url }}
 [42]: {{ "/2022/08/02/gargoyle.html" | relative_url }}
 [43]: {{ "/2022/08/05/ghoul.html" | relative_url }}
+[44]: {{ "/2022/08/08/giant-fire.html" | relative_url }}
