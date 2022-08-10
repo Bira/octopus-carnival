@@ -31,11 +31,12 @@ too.
 I come at this from a different direction. At the core of my thinking about
 Warhammer 40.000 is the fact that this setting is _utterly ridiculous_, and any
 material I write about it will hold that idea within its heart. The Imperium are
-a bunch of spaze nazis whose outlook, equipment, and strategies are entirely
+a bunch of space nazis whose outlook, equipment, and strategies are entirely
 oriented towards what would make the best heavy metal album cover. Their claims
-to be the only alternative to the end of humanity or even of the universe are
-entirely bunk. I will _never, ever_ take them the least bit seriously or picture
-them in a sympathetic light. They will never be better than a joke in my book.
+that they are the only alternative to the end of humanity or even of the
+universe are entirely bunk. I will _never, ever_ take them the least bit
+seriously or picture them in a sympathetic light. They will never be better than
+a joke in my book.
 
 The same goes for pretty much everyone else, though they likely prefer to pose
 for album covers in different music genres[^3].

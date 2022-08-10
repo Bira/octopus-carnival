@@ -6,9 +6,21 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-giant-frost.png" | absolute_url }}" width=800/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 You know the drill by now - Frost Giants appeared in the MM1 and were about to
 get rewritten with new math on the Monster Vault. The MM3 brings in an
-assortment of them that can complement the "basic" entries in the MV.
+assortment of them that can complement the "basic" entries in the MV. You can
+look at those basic entries [here][2].
 
 ## The Lore
 
@@ -103,3 +115,6 @@ release the berserkers to step over all that and hit the PC's back ranks.
 I like giants in general, so I like these MM3 giant entries even though they
 don't include much new lore. The trio presented here has nice mechanical synergy
 and should also be fun to use with the frost giants from the MV.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
+[2]: {{ "/2020/04/04/frost-giants.html" | relative_url }}
