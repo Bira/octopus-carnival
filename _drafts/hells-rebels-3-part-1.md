@@ -15,9 +15,9 @@ probably wasn't as helpful as I thought and it left me kinda burned out on
 Hell's Rebels.
 
 I'm going to take a more condensed approach on Adventure 03, **Dance of the
-Damned**, and leave the conversion bits for their own post. This one feels even
-bigger than Adventure 02, as it has three "dungeons" and a number of social
-encounters as well. I'll try to cover them all with one post.
+Damned**, and leave the detailed conversion bits for their own post. This one
+feels even bigger than Adventure 02, as it has three "dungeons" and a number of
+social encounters as well. I'll try to cover them all with one post.
 
 One of the things that happened over the hiatus is that I ran the first
 adventure and most of the second for a group of my friends, over roll20 and
@@ -29,8 +29,8 @@ By the end of the previous adventure, the PCs had secured a permanent
 headquarters under the ruins of the Lucky Bones casino and completed several
 high profile missions that increased their fame and notoriety within the city of
 Kintargo. Even Barzilai Thrune, ruler of Kintargo and the campaign's Big Bad,
-was forced to congratulate them on their "civic-mindedness" after get rid of a
-dangerous serial killer.
+was forced to congratulate them on their "civic-mindedness" after they get rid
+of a dangerous serial killer.
 
 Thrune unwittingly helps them further by increasing the Bleakbridge toll to 2gp
 per crossing (or 10 for a day pass). This a trivial amount for the PCs by this
@@ -57,7 +57,7 @@ adventure, but there's a high chance that will happen in the future.
 
 If the PCs aren't yet regularly meeting with the key NPC allies they've been
 making along the way, then one of these allies will suggest they begin doing so
-now. The book calls this group the Silver Council. It will at the ver least be
+now. The book calls this group the Silver Council. It will at the very least be
 composed of Laria Longroad and Rexus from Adventure 01 plus Hetamon Haace from
 Adventure 02, and will also contain any other such allies the group makes in
 your game.
@@ -82,7 +82,7 @@ Kintargo's eight remaining noble houses are a bit more similar to Renaissance
 families than to feudal ones. Their fortunes come from varied commercial
 interests in the duchy. We get a list of houses, a short stat line for their
 leaders, their political allegiance, the requirement for an alliance, and its
-mechanical benefits.
+mechanical benefits to the rebellion.
 
 Political allegiance can be either to Kintargo or to Thrune. Houses whose
 allegiance lies with Kintargo can be persuaded to support the rebellion if the
@@ -90,7 +90,7 @@ PCs can impress their leaders and convince them the city would be better off if
 it declares independence from Cheliax. Failure to do so results in them staying
 neutral. Thrune-aligned houses can't be convinced to ally with the
 Ravens. They're also a bunch of evil slave traders, so we don't want then on
-side anyway.
+our side anyway.
 
 Four of the houses are Kintargo-aligned, three are Thrune-aligned, and one is
 undecided. This last one is House Aulorian, which will only ally with the Ravens
@@ -123,22 +123,22 @@ support in Ravounel:
   province. They'd have to take the long way around and march through
   neighboring nations, which will be at the very least much harder.
 
-Each of these is its own chapter.
+Each of these is its own chapter (or "Part") in the book.
 
 ### Rumors
 
 We close with a round of rumors where the GM can insert the ones they like. The
 book notes two important ones: a reminder that the former Mayor of Kintargo is
-still missing, and the news that Barzilay Thrune is organizing a grand gala to
+still missing, and the news that Barzilai Thrune is organizing a grand gala to
 assure the city everything is fine.
 
 The gala, named the Ruby Masquerade, will be the adventure's climax.
 
-### Notes and Impressions.
+### Notes and Impressions
 
 I think this is where the Adventure Path format hurt the actual adventure a
 bit. Both Lady Docur and the noble houses feel like things that could have been
-introduced way back at Aventure 01.
+introduced way back in Aventure 01.
 
 An early introduction to Lady Docur give the PCs a good starting bonus on the
 "strategic layer" of the campaign, and allows her to act as the "face" of
@@ -151,8 +151,8 @@ with them requires a lot of personal interactions with their leaders, so PCs who
 like the tradecraft and roleplaying aspects could have a good time researching
 their habits, arranging meetings, and negotiating with them. It also gives a
 little more weight to the decision of whether to rescue Marquel in the first
-place or not. It's still the right thing to do, IMHO, but it feels more
-organic to have it inserted into a political context from the beginning.
+place or not. Rescuing him still the right thing to do, IMHO, but it feels more
+organic to have it be inserted in a political context from the beginning.
 
 ## Chapter 2: Dead In the Deep
 
@@ -247,8 +247,8 @@ deal with the draugr, claiming to be the ghost of a druid named "Menotha" who
 needs a cleansing ritual performed by a living druid so she can finally rest.
 
 If the PCs don't fall for the illusion, the aboleth fights them immediately. If
-they _do_, he will wait for them to bring Athannah down here and will first
-dominate her and _then_ fight the PCs.
+they _do_, he will wait for them to bring Athannah down here, dominate her and
+_then_ fight the PCs.
 
 Menotheguro himself only has 3 levels of Necromancer, but those are stacked on
 top of an aboleth stat block so he's certainly boss material. If Nerrenn escaped
@@ -256,13 +256,12 @@ the surface he will be here at full health ready to fight alongside his
 master. He's considerably more dangerous here because he has terrain advantage
 and has his shark animal companion with him.
 
-The cave's wall is covered in etched runes, part of the aboleth's great
-working. After the fight the PCs can find the "anchor" rune for the whole thing
-and destroy it, cleansing the Eye for good. And after that, they can loot the
-pile of treasure in the corner.
+After the fight the PCs can destroy the runes etched in the cave's wall to ruin
+Menotheguro's ritual and cleanse the Eye. Then they can loot the pile of
+treasure in the corner.
 
 With the aboleth destroyed and the curse lifted, the PCs secure an alliance from
-the elves of Acisazi.
+Acisazi.
 
 ### Notes and Impressions
 
@@ -277,6 +276,8 @@ decision. In that case you can say Acisazi is actually fine, that Aava was a
 relative of the Speaker, and that rescuing her back in Adventure 02 is enough to
 secure the alliance. Escorting her back home is something one of the rebellion's
 NPC teams might do, freeing the PCs up for the other scenes.
+
+Next up: a feast and a fort.
 
 
 [1]: https://en.wikipedia.org/wiki/Umib%C5%8Dzu
