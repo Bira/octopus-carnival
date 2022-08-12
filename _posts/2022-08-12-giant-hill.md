@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-giant-hill.png" | absolute_url }}" width=800/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Another entry that that adds extra stat blocks to complement the existing MM1
 and upcoming Monster Vault monsters. This one is for hill giants.
 
@@ -88,8 +99,10 @@ formations and to return fire against ranged attackers they can't charge.
 It's more hill giants, which it's okay because I like hill giants. I like that
 the Smasher is explicitly meant to be included as the "surprise bruiser" in a
 lower-leveled humanoid group. A smasher and its humanoid employers work well as
-a boss battle for a group of level 8-10 PCs, depending on who how many other
+a boss battle for a group of level 8-10 PCs, depending on how many other
 monsters you add.
 
 The Avalancher gives you an interesting option for a leader type who is not a
 titan.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
