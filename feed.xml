@@ -6,9 +6,120 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Aug 2022 17:50:57 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Aug 2022 17:50:57 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Aug 2022 19:46:32 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Aug 2022 19:46:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Giant, Hill</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-giant-hill.png&quot; width=800/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Another entry that that adds extra stat blocks to complement the existing MM1
+and upcoming Monster Vault monsters. This one is for hill giants.&lt;/p&gt;
+
+&lt;p&gt;The new lore here is minimal or restates things we saw elsewhere. Hill Giant
+bands are usually small and consist of a single family group - they’re too
+anti-social to form more complex organizations. Every once in a while a larger
+group will manage to hold together for an extented period of time. Their leaders
+style themselves kings, and the log fortresses they build are known as
+steadings. You might have heard about a famous adventure with the words
+“Steading”, “Hill Giant” and “King” in its title, wink wink.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As usual, Hill Giants are Large Natural Humanoids (Giants), with a basic speed
+of 8. All of the ones here look like the iconic club-swinging D&amp;amp;D giant, with
+the big difference being in how they fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;hill-giant-smashers&quot;&gt;Hill Giant Smashers&lt;/h3&gt;
+
+&lt;p&gt;A Smasher is pretty much a “Hill Giant Lite”. It’s slightly weaker than a
+standard MV giant, and doesn’t throw rocks. To compensate, it’s more mobile and
+has a few more tricks in melee. This is the stat block you use for those lone
+mercenary giants that get hired as living tanks by smaller evil humanoids like
+hobgoblins, bugbears, or gnolls.&lt;/p&gt;
+
+&lt;p&gt;Smashers are Level 11 Brutes with 137 HP. They have a passive &lt;strong&gt;Mobility&lt;/strong&gt; trait
+which allows them to roll saves against being slowed, immobilized, or restrained
+at the start of their turns instead of at the end. This also works for any
+save-ends effect that includes these conditions, like “ongoing 5 damage and
+slowed (save ends both)”.&lt;/p&gt;
+
+&lt;p&gt;Like all giants in this entry they wield Reach 2 &lt;strong&gt;Greatclubs&lt;/strong&gt;, and their basic
+attack deals a bit of automatic splash damage to a secondary target on a
+hit. Once per encounter they can perform a &lt;strong&gt;Whirling Crush&lt;/strong&gt; to attack everyone
+in a close burst 2, and they can also perform a &lt;strong&gt;Brutal Smash&lt;/strong&gt; that deals
+double damage and recharges on a miss. So they’ll keep trying that one until
+they hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;hill-giant-rockthrower&quot;&gt;Hill Giant Rockthrower&lt;/h3&gt;
+
+&lt;p&gt;The MM1 and MV give us an artillery giant that uses big javelins. But if you
+want your giants to throw rocks and nothing but rocks, the Rockthrower is for
+you.&lt;/p&gt;
+
+&lt;p&gt;Rockthrowers are Level 12 Artillery with 97 HP. As artillery monsters, their
+&lt;strong&gt;Greatclub&lt;/strong&gt; attacks are kinda weak, but their basic ranged attack is a
+&lt;strong&gt;Knockdown Throw&lt;/strong&gt; that does a bit more damage, pushes the target 2 squares,
+and knocks them prone. They can also throw with a bit more force for a
+&lt;strong&gt;Shattering Rockburst&lt;/strong&gt; (recharge 5+), which deals damage in an area and dazes
+on a hit.&lt;/p&gt;
+
+&lt;p&gt;They use the same tactics as a catapult: seek high ground, rain death from
+above. I imagine hiring a bunch of rockthrowers is quite a bit cheaper than
+maintaining your own siege engines.&lt;/p&gt;
+
+&lt;h3 id=&quot;hill-giant-avalancher&quot;&gt;Hill Giant Avalancher&lt;/h3&gt;
+
+&lt;p&gt;Avalanchers are the heroic prodigies of their people. They’re much smarter than
+your typical hill giant, and often end up as leaders or kings. They get their
+name from their clever rock-throwing tricks and from their brutal charges.&lt;/p&gt;
+
+&lt;p&gt;An Avalancher is a Level 14 Skirmisher with 139 HP. They can make basic
+&lt;strong&gt;Greatclub&lt;/strong&gt; attacks and perform &lt;strong&gt;Crushing Charges&lt;/strong&gt; that do the same amount
+of damage and knock targets prone. From a distance they can throw &lt;strong&gt;Rolling
+Rocks&lt;/strong&gt;, which in addition to doing damage on a hit slide the target 4 squares,
+knock them prone, and gather no moss.&lt;/p&gt;
+
+&lt;p&gt;After they knocked a bunch of PCs prone, Avalanchers will move using &lt;strong&gt;Stomping
+Shifts&lt;/strong&gt;, which allow them to shift 4 squares and pass through prone enemies’
+spaces. They deal an automatic 8 damage to a prone enemy when they pass through
+their spaces.&lt;/p&gt;
+
+&lt;p&gt;Avalanchers will always try to use their Crushing Charge if possible, and will
+make use of Stomping Shift to position themselves for a new charge and to deal
+additional damage to prone enemies. They use Rolling Rocks to break up tricky PC
+formations and to return fire against ranged attackers they can’t charge.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;It’s more hill giants, which it’s okay because I like hill giants. I like that
+the Smasher is explicitly meant to be included as the “surprise bruiser” in a
+lower-leveled humanoid group. A smasher and its humanoid employers work well as
+a boss battle for a group of level 8-10 PCs, depending on how many other
+monsters you add.&lt;/p&gt;
+
+&lt;p&gt;The Avalancher gives you an interesting option for a leader type who is not a
+titan.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/12/giant-hill.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/12/giant-hill.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Giant, Frost</title>
@@ -1329,135 +1440,6 @@ in a new form Go’auld style.&lt;/p&gt;
         <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/07/25/forsaken.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/25/forsaken.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Elemental</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-elemental.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Elementals are a pretty iconic part of D&amp;amp;D, since they’ve shown up on every book
-we’ve covered so far. The MM1 and MM2 elementals were built to showcase the
-mixed nature of the Elemental Chaos, so they were always a different combination
-of two or more elements.&lt;/p&gt;
-
-&lt;p&gt;This was pretty cool, but it also caused some edition warriors complain that
-they missed the traditional single-element quartet from editions past.&lt;/p&gt;
-
-&lt;p&gt;The Monster Manual 3 brings the “singlementals” back, with heroic, paragon and
-epic variants of all four classic types. The Lesser (heroic) variants would be
-reprinted in the Monster Vault, and we already covered them &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;here&lt;/a&gt;. We’ll
-look at the standards and greaters now.&lt;/p&gt;
-
-&lt;h2 id=&quot;air-elemental&quot;&gt;Air Elemental&lt;/h2&gt;
-
-&lt;p&gt;Air Elementals are Lurkers. They have a ground speed of 0, but very high air
-speeds with Hover. They also have some degree of vulnerability to Fire.&lt;/p&gt;
-
-&lt;p&gt;The Lesser Air Elemental is Level 1 and covered &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;air-elemental-1&quot;&gt;Air Elemental&lt;/h3&gt;
-
-&lt;p&gt;This Level 10 Lurker has 81 HP and a flight speed of 8. It has the same
-&lt;strong&gt;Phantom on the Wind&lt;/strong&gt; trait as the lesser version, which makes it become
-invisible when it starts the turn not adjacent to any enemies. This lasts until
-the end of its next turn or until it attacks, so it will remain invisible until
-it does close in to attack.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is a &lt;strong&gt;slam&lt;/strong&gt; with no riders, and it can use a &lt;strong&gt;Rampant
-Storm&lt;/strong&gt; that does more damage over a Close Burst 3 area and dazes targets that
-couldn’t see the elemental before it attacked.&lt;/p&gt;
-
-&lt;p&gt;Classic lurker tactics: start invisible, Rampant Storm, move away to become
-invisible again.&lt;/p&gt;
-
-&lt;h3 id=&quot;greater-air-elemental&quot;&gt;Greater Air Elemental&lt;/h3&gt;
-
-&lt;p&gt;This one is Large and Level 20 with 143 HP and a speed of 10. It has most of the
-same traits of the standard air elemental with bigger numbers, and it replaces
-Rampant Storm with &lt;strong&gt;Engulfing Winds&lt;/strong&gt;. This melee attack pulls and grabs the
-target. The elemental can move freely with a grabbed victim, which takes 20
-ongoing damage until they escape.&lt;/p&gt;
-
-&lt;p&gt;This one wants to grab someone and play keep-away.&lt;/p&gt;
-
-&lt;h2 id=&quot;earth-elementals&quot;&gt;Earth Elementals&lt;/h2&gt;
-
-&lt;p&gt;Earth Elementals are Soldiers. They have a burrow speed equal to their walking
-speed. &lt;strong&gt;Earth Glide&lt;/strong&gt; allows them to pass through earth and stone as if it had
-phasing, and their &lt;strong&gt;Brittle Skin&lt;/strong&gt; means they take a -2 penalty to all defenses
-for a turn when hit with thunder damage. They attack with &lt;strong&gt;slams&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;As usual, the Lesser Air Elemental is covered in the &lt;a href=&quot;/octopus-carnival/2020/02/16/elemental.html&quot;&gt;MM/MV article&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The standard &lt;strong&gt;Earth Elemental&lt;/strong&gt; is level 11 with 119 HP and Speed 7. It gains a
-&lt;strong&gt;Quake Stomp&lt;/strong&gt; attack that covers a selective Close Burst 2 and targets
-Fortitude, damaging those it hits, sliding them 2 squares, and knocking them
-prone.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Greater Earth Elemental&lt;/strong&gt; is Large, Level 22 with 212 HP, and replaces
-Quake Stomp with &lt;strong&gt;Flattening Stomp&lt;/strong&gt;, which targets a single creature for heavy
-physical damage and automatically knocks all enemies within 2 squares of the
-target prone.&lt;/p&gt;
-
-&lt;h2 id=&quot;fire-elementals&quot;&gt;Fire Elementals&lt;/h2&gt;
-
-&lt;p&gt;Fire Elementals are skirmishers. They run very fast and can fly, though not as
-well as an air elemental. Their &lt;strong&gt;slams&lt;/strong&gt; deal only ongoing fire damage, and
-&lt;strong&gt;Flickering Flame&lt;/strong&gt; allows them to shift a number of squares as a minor
-action. If they’re hit with cold damage, though, they’re &lt;strong&gt;Frozen in Place&lt;/strong&gt; and
-can’t shift for a turn.&lt;/p&gt;
-
-&lt;p&gt;All elementals have a reaction ability that deals some sort of fire damage
-around them when they’re hit by an attack. This gets more powerful as the
-elemental gets bigger. Lessers are level 1, standards Level 11, and Greaters
-level 21.&lt;/p&gt;
-
-&lt;h2 id=&quot;water-elementals&quot;&gt;Water Elementals&lt;/h2&gt;
-
-&lt;p&gt;Water elementals are controllers. They have a swim speed equal to their ground
-speed, and are &lt;strong&gt;Aquatic&lt;/strong&gt;. This gives them attack bonuses against non-aquatic
-enemies when fighting underwater. They’re &lt;strong&gt;Sensitive to Cold&lt;/strong&gt;, and after
-taking cold damage they gain Vulnerable 5 against the &lt;em&gt;next&lt;/em&gt; attack to hit them
-before the end of their next turn.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;slams&lt;/strong&gt; do some physical damage and inflict ongoing physical damage from
-the water that gets into people’s lungs.  &lt;strong&gt;Drowning Essence&lt;/strong&gt; allows them to
-slide victims taking this ongoing damage as a minor action.&lt;/p&gt;
-
-&lt;p&gt;Their special attack seems to be surging like a wave, dealing damage and pushing
-or sliding people around. It gets more damaging, more frequent, and pushier the
-bigger the elemental gets. It has different names for each elemental: &lt;strong&gt;Whelm&lt;/strong&gt;
-for Lessers, &lt;strong&gt;Whirlpool&lt;/strong&gt; for standards, and &lt;strong&gt;Surging Waves&lt;/strong&gt; for Greaters.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I guess you can notice me getting gradually more bored with classic elementals
-as I wrote the above post. These ones are better than they used to be in earlier
-editions, but I can understand why the Monster Vault only reprinted the
-lessers. The more powerful versions are pretty much the kind of thing you can
-write yourself using the standard monster leveling rules.&lt;/p&gt;
-
-&lt;p&gt;Like all other elementals, they fit easily into any adventure or encounter that
-also features someone who could conceivably summon and bind them. They also work
-well as “widlife” in the Elemental Chaos.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/07/23/elemental.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/07/23/elemental.html</guid>
         
         <category>dnd4</category>
         
