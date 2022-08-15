@@ -77,6 +77,7 @@ entries.
   - [Giant, Fire][44]
   - [Giant, Frost][45]
   - [Giant, Hill][46]
+  - [Girallon][47]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -125,3 +126,4 @@ entries.
 [44]: {{ "/2022/08/08/giant-fire.html" | relative_url }}
 [45]: {{ "/2022/08/10/giant-frost.html" | relative_url }}
 [46]: {{ "/2022/08/12/giant-hill.html" | relative_url }}
+[47]: {{ "/2022/08/14/girallon.html" | relative_url }}
