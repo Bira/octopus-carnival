@@ -6,9 +6,162 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Aug 2022 15:39:00 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Aug 2022 15:39:00 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Aug 2022 12:36:57 +0000</pubDate>
+    <lastBuildDate>Fri, 19 Aug 2022 12:36:57 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Gremlin</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-gremlin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Just look at this pointy boy. They’re not even trying to hide the inspiration
+for him.&lt;/p&gt;
+
+&lt;p&gt;Anyway, D&amp;amp;D has had monsters named “gremlin” since almost its beginning, but the
+lore for them its new to this edition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;A long time ago, the fomorians under King Thrumbolg took a large group of goblin
+captives, transformed them into bioweapons, and released them into the cities of
+their eladrin enemies. The new creatures had a great aptitude for deception and
+sabotage, and an engineered predilection for it. These were the first gremlins.&lt;/p&gt;
+
+&lt;p&gt;They did their job wonderfully, disrupting the alliance of eladrin city states
+arrayed against Thrumbolg by altering the correspondence between them, murdering
+key officials, and other such deeds. However, they also ended up doing the same
+sort of thing to Thumbolg’s own court, causing great damage to it. Gremlins
+gotta gremlin.&lt;/p&gt;
+
+&lt;p&gt;The little rascals were cast out, and over the ages spread through the Feywild
+and the middle world. Though they sometimes live openly in the communities of
+other sapients, many gremlins follow their engineered calling and hide out among
+their chosen victims, taming vermin to do their bidding and engaging in the same
+ghastly shenanigans their ancestors did back in the day, basically for the
+lulz. The worst among them find natural allies in demons, who have the same
+appetite for chaos.&lt;/p&gt;
+
+&lt;p&gt;Examples of things gremlins do, taken from the stat block descriptions: stealing
+documents and heirlooms from a royal court and stashing them to be found in the
+quarters of visiting nobles; intercepting and altering important correspondence
+so that a call for peace becomes a declaration of war; and plain old serial
+murder.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Gremlins are Small Fey Humanoids with low-light vision and a speed of 6. They
+have two signature abilities present in almost all stat blocks. The first is
+&lt;strong&gt;Sabotaging Presence&lt;/strong&gt;, an large aura (size 5) that gives enemies inside a -5
+penalty to skill checks. The second is &lt;strong&gt;Gremlin Tactics&lt;/strong&gt;, a reaction that
+allows them to swap spaces with an enemy that misses them with a melee attack.&lt;/p&gt;
+
+&lt;p&gt;Skill-wise, training in Stealth and Thievery is nearly universal, and they
+occasionally know other “thiefy” skills like Bluff as well.&lt;/p&gt;
+
+&lt;h3 id=&quot;gremlin-deceiver&quot;&gt;Gremlin Deceiver&lt;/h3&gt;
+
+&lt;p&gt;Deceivers are Level 5 Controllers with 63 HP, which makes them the earliest
+gremlin the PCs are likely to find. Like other gremlins, their presence is going
+to be hidden at first, and they only fight when found out.&lt;/p&gt;
+
+&lt;p&gt;Deceivers fight with their &lt;strong&gt;claws&lt;/strong&gt;, but their magic is a lot more
+interesting. They can cast a fireball-sized &lt;strong&gt;Befuddling Burst&lt;/strong&gt; that targets
+Will and, on a hit, deals psychic damage and prevents targets from shifting or
+standing up (save ends). The burst itself doesn’t knock them prone - that’s what
+the &lt;strong&gt;Slip Up&lt;/strong&gt; minor-action attack does. This is a ranged attack that targets
+Will and does no damage.&lt;/p&gt;
+
+&lt;p&gt;For added lulz, pair them with other monsters that can knock people prone, such
+as other gremlins, or wolves reskinned as dire rats.&lt;/p&gt;
+
+&lt;h3 id=&quot;gremlin-skulker&quot;&gt;Gremlin Skulker&lt;/h3&gt;
+
+&lt;p&gt;Skulkers are Level 7 Lurkers with 64 HP, and they’re surprisingly sticky. Aside
+from the standard gremlin traits, they have a &lt;strong&gt;Shadow Sneak&lt;/strong&gt; passive that
+makes them invisible while adjacent to an enemy, and &lt;strong&gt;Opportunistic Advantage&lt;/strong&gt;
+that gives them extra damage in opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attacks do okay damage and “curse” the target: if the target
+moves away from the gremlin, they fall prone at the end of their movement. And
+when an enemy adjacent to the skulker moves, the &lt;strong&gt;Shadow Skulk&lt;/strong&gt; encounter
+power allows them to shift up to 6 squares &lt;em&gt;simultaneously&lt;/em&gt;, following the enemy
+as it moves so it stays adjacent.&lt;/p&gt;
+
+&lt;p&gt;You want this one right in the middle of the PCs, preferrably starting the fight
+already there with some of those strong opportunity attcks after sneaking in
+undetected.&lt;/p&gt;
+
+&lt;h3 id=&quot;gremlin-conniver&quot;&gt;Gremlin Conniver&lt;/h3&gt;
+
+&lt;p&gt;Connivers are Level 17 Controllers with 162 HP. That’s quite a jump in power!
+They’re probably similar to the OG gremlins that destroyed the eladrin alliance.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;claw&lt;/strong&gt; attack also teleports the target 5 squares on a hit. Their
+&lt;strong&gt;Connive&lt;/strong&gt; spell is a non-damaging, at-will ranged attack that dominates on a
+hit (&lt;em&gt;save ends&lt;/em&gt;!). Fortunately only one creature can be dominated at a time.&lt;/p&gt;
+
+&lt;p&gt;As a minor action it can also create a &lt;strong&gt;Beguiling Fog&lt;/strong&gt; (recharge 6+), a
+fireball-sized area attack against Will that does no damage. It always dazes the
+enemy - a hit means it’s a (save ends) effect, a miss means it only lasts a
+turn.&lt;/p&gt;
+
+&lt;p&gt;While connivers have little direct damage potential, they can dole out some of
+the game’s most annoying status effects at-will. The teleport effect on their
+basic claw attack is also particularly wonderful in battlefields with dangerous
+terrain or other hazards.&lt;/p&gt;
+
+&lt;h3 id=&quot;gremlin-prankster&quot;&gt;Gremlin Prankster&lt;/h3&gt;
+
+&lt;p&gt;Pranksters are Level 17 Minion Controllers, perfect for when you want to
+re-enact a certain 80s movie. They’re not particularly hardy, but they like to
+run around in huge crowds and try to cause as much chaos as possible before
+vanishing. They have a basic &lt;strong&gt;claw&lt;/strong&gt; attack and a &lt;strong&gt;Slip Up&lt;/strong&gt; ranged attack
+that’s similar to the Deceiver’s, but also slides the target 3 squares before
+knocking them prone.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The teme for the Gremlins 2 movie was playing through my head the entire time I
+was writing this. I love these critters.&lt;/p&gt;
+
+&lt;p&gt;They’re also very interesting mechanically and can end up making your PCs pull
+their own hair out in frustration. That can lead to memorable sessions if you do
+it properly, but can also be frustrating for the &lt;em&gt;players&lt;/em&gt;, so consider the
+examples below cautiously.&lt;/p&gt;
+
+&lt;p&gt;If you really want the PCs to have a bad time, make sure your gremlin encounter
+takes place in a site full of traps and other hazards that require skill checks
+to disable. Or even have the PCs deal with a gremlin battle and a skill
+challenge at the same time. The skill penalty from Sabotaging Presence is
+&lt;em&gt;untyped&lt;/em&gt;, meaning it technically stacks, but if you’re feeling merciful you can
+say it caps out at the -5 a single gremlin would provide.&lt;/p&gt;
+
+&lt;p&gt;That skill penalty also aids grappling-centered monsters! The roll to escape a
+grapple is a skill check, after all.&lt;/p&gt;
+
+&lt;p&gt;Since a lot of gremlins can knock PCs prone, they also go really well with
+monsters that can do ugly things to prone PCs. Especially evil GMs might want to
+keep in mind that 2 Gremlin Deceivers and 2 Needlefang Drake Swarms make up a
+valid Level 3 encounter.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Gnoll</title>
@@ -1126,150 +1279,6 @@ make that one gargoyle encounter truly memorable.&lt;/p&gt;
         <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Frog</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-frog.jpg&quot; width=800/&gt;
-  &lt;figcaption&gt;
-    Not a D&amp;D illustration.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Every individual roleplayer has a set of D&amp;amp;D monsters they consider “iconic”,
-regardless of what the publisher has to say about it. Years ago, I remember one
-such player saying that to him “giant fucking frogs” were the most iconic D&amp;amp;D
-monster. It’s not D&amp;amp;D if you don’t fight a huge-ass frog at some point.&lt;/p&gt;
-
-&lt;p&gt;By that criterion we can shut the grognards up for good now. Here is the moment
-when 4e finally becomes D&amp;amp;D.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Real-world frogs are usually quite useful creatures. Most species are harmless
-to humans and eat disease-spreading insects. Some consider them cute and, if
-nothing else, they can be tasty when properly prepared.&lt;/p&gt;
-
-&lt;p&gt;In typical D&amp;amp;D fashion, this book calls such creatures “pests” because they’re
-not fuzzy wabbits. And then it moves on to focus on monstrous frogs, who are big
-and aggressive enough to eat people. They live in surface swamps and on
-underground lakes in “natural” caves or in the shallow Underdark. There are
-several different species, and the book implies they’re atavistic survivors from
-the world’s prehistory, like sharks and crocodiles in the real world.&lt;/p&gt;
-
-&lt;p&gt;A monstrous frog won’t usually leave its home territory to hunt people, but it
-will eat anyone foolish enough to wander through that territory. “Beware of
-Frog” signs are a common sight in villages close to the borders of their
-habitat. Frog attacks are a potential hazard for PCs traveling through marshy
-terrain, and the book suggests they could be hired by a wealthy family to
-retrieve some heirloom from the belly of a frog who ate its former bearer.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;All frogs shown here are Medium Natural Beasts, though you could probably
-home-brew larger specimens if you want. They’re Aquatic, which lets them breathe
-underwater and gives them bonuses against non-aquatic enemies in underwater
-combat. They also have good Swim speeds and low-light vision.&lt;/p&gt;
-
-&lt;h3 id=&quot;thornskin-frog&quot;&gt;Thornskin Frog&lt;/h3&gt;
-
-&lt;p&gt;These frogs have brown skin covered in thick spines. The spines are not
-effective in combat but give them a distinctive look.&lt;/p&gt;
-
-&lt;p&gt;Thornskins are Level 1 Brutes with 35 HP. They have a ground speed of 4 and a
-swim speed of 6. Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; and they can also &lt;strong&gt;pounce&lt;/strong&gt;
-(recharge 5+). This lets them shift their speed, deald more damage than a bite
-and knocks the target prone. As a minor action they can use a Reach 3 &lt;strong&gt;Tongue
-Grab&lt;/strong&gt; that pulls a target 2 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;In short, these critters do everything you could expect from a classic giant
-frog.&lt;/p&gt;
-
-&lt;h3 id=&quot;sporeback-frog&quot;&gt;Sporeback Frog&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-sporeback.png&quot; width=800/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Sporebacks are the laziest hunters imaginable. They pick a spot and wait there
-for prey to wander into the reach of their barbed tongues. They move so little
-that mushrooms often grow on their backs.&lt;/p&gt;
-
-&lt;p&gt;Most creatures smart enough to pose a threat to these monsters have long since
-learned to avoid them. As a result, sporebacks never expect their chosen prey to
-put up a fight, and don’t usually run away unless they’re very close to death.&lt;/p&gt;
-
-&lt;p&gt;Sporebacks are Level 2 Controllers with 42 HP. Their ground speed is a pitiful
-3, and their swim speed is 5. Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that damages and
-slows, and their Reach 3 &lt;strong&gt;Barbed Tongues&lt;/strong&gt; damage, pull the target 2 squares,
-and knock it prone.&lt;/p&gt;
-
-&lt;p&gt;When they die, the mushrooms on their back burst and perform a &lt;strong&gt;Spore
-Release&lt;/strong&gt;, a close burst 2 attack that deals poison damage and inflicts a -2
-attack penalty (save ends).&lt;/p&gt;
-
-&lt;p&gt;For extra nastiness, have the sporebacks in your encounter group stay
-&lt;em&gt;underwater&lt;/em&gt; and use their tongues to drag PCs there. This works even better if
-all of Team Monster has the Aquatic keyword.&lt;/p&gt;
-
-&lt;h3 id=&quot;murklord-frog&quot;&gt;Murklord Frog&lt;/h3&gt;
-
-&lt;p&gt;Murklords are entirely black, and have two parallel bio-luminescent stripes
-running down their backs. These flare up when the frog is startled or feels
-threatened.&lt;/p&gt;
-
-&lt;p&gt;These beautiful creatures are the opposite of sporebacks when it comes to
-attacking prey. They perform darting strikes from the muddy margins of their
-watery homes, and grow even more frantic and ferocious when wounded.&lt;/p&gt;
-
-&lt;p&gt;Murklords are Level 2 Skirmishers with 39 HP. They have ground and swim speeds
-of 6. Their basic melee attack is a &lt;strong&gt;bite&lt;/strong&gt; and they can also perform a
-&lt;strong&gt;Leapfrog&lt;/strong&gt; attack (recharge 4+) that deals more damage and allows them to
-shift 3 squares both before and after making the attack. Perfect for leaping out
-of the water, taking a bite, and returning before the PCs can react.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, it can also perform a Reach 2 &lt;strong&gt;Tongue Lash&lt;/strong&gt; that does no
-damage but slides the target 1 square on a hit.&lt;/p&gt;
-
-&lt;p&gt;The murklord’s attacks use d6s as their damage dice: 1d6+4 for the bite, 2d6+4
-for the limited-use Leapfrog. After the frog is first bloodied, though, those
-d6s become d12s, significantly increasing its damage potential.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters&quot;&gt;Encounters&lt;/h2&gt;
-
-&lt;p&gt;Goblins, kobolds and bullywugs commonly employ trained monstrous frogs as mounts
-and war beasts. Only the bullywugs have succeeded in &lt;em&gt;domesticating&lt;/em&gt; them,
-though - the others must capture wild frogs and train those. When bullywugs make
-alliances or trade agreements, they commonly make a gift of trained war frogs to
-their new partners.&lt;/p&gt;
-
-&lt;p&gt;People with no access to trained frogs can still use them by keeping them
-captive and releasing a bunch of angry half-starved frogs in the general
-direction of the enemy.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m not sure if I’d go as far as calling huge-ass frogs “iconic D&amp;amp;D monsters”,
-but they &lt;em&gt;are&lt;/em&gt; cool. These ones are properly froggy in their mechanics, and you
-can probably extend their usefulness by giving them additional levels,
-increasing their size, and giving them a Swallow attack.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/01/frog.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/01/frog.html</guid>
         
         <category>dnd4</category>
         
