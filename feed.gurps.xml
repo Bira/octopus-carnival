@@ -5,9 +5,41 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Aug 2022 20:55:16 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2022 20:55:16 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Aug 2022 21:00:48 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2022 21:00:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Merging Shield Skills in GURPS</title>
+        <description>&lt;p&gt;This is kind of an addendum to my earlier post on &lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;Merging Weapon Skills in
+GURPS&lt;/a&gt;, which occurred to me after reading this other post in &lt;a href=&quot;https://aftertheogre.blogspot.com/2022/08/df-novices-merging-weapon-skills.html&quot;&gt;After the
+Ogre&lt;/a&gt;. I realized I hadn’t mentioned Shield skills, but I had been merging
+them for so long I had forgotten that wasn’t the standard.&lt;/p&gt;
+
+&lt;p&gt;In my GURPS games, there is only one shield skill:&lt;/p&gt;
+
+&lt;h3 id=&quot;shield-dxe&quot;&gt;Shield (DX/E)&lt;/h3&gt;
+
+&lt;p&gt;This skill merges &lt;strong&gt;Shield&lt;/strong&gt;, &lt;strong&gt;Shield (Buckler)&lt;/strong&gt; and &lt;strong&gt;Force
+Shield&lt;/strong&gt;. There is still a mechanical difference between a shield that’s held in
+the hand and one that’s strapped to the arm, but both of them use the same
+skill and there is no familiarity penalty from switching between them.&lt;/p&gt;
+
+&lt;p&gt;If you’re using the optional rules for Familiarity Penalties in the previous
+post, such a penalty would definitely apply when someone used to traditional
+shields wields a weightless force shield, and vice-versa. As a reminder, that’s
+a -2 penalty to Shield that goes away after a few hours of practice during
+downtime, at no point cost.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 20 Aug 2022 20:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Magic Item: The Coffee Machine From Hell</title>
@@ -934,108 +966,6 @@ breaking a sweat. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&q
         <category>dungeon-fantasy</category>
         
         <category>dnd</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Streamlined Melee Mastery for GURPS</title>
-        <description>&lt;p&gt;In GURPS, the Trained by a Master advantage allows a character to perform
-martial feats on par with those seen in kung fu movies and other similar
-stories. The Weapon Master advantage does basically the same in a slightly
-different way. They overlap so much that I’m not sure if they were meant to
-exist in the same campaign!&lt;/p&gt;
-
-&lt;p&gt;I think both advantages are fairly priced on their own, but I don’t think both
-of them combined are worth 75 points. Choosing to only allow one of them in your
-campaign is a fairly simple matter, but what if you want to allow both,
-potentially on the same character?&lt;/p&gt;
-
-&lt;p&gt;Most of the differences between the two traits are fiddly matters of skill
-coverage. Sweeping those aside leaves us with the remaining elephant in the
-room, the Weapon Master damage bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;elephant-examination-the-damage-bonus&quot;&gt;Elephant Examination: The Damage Bonus&lt;/h2&gt;
-
-&lt;p&gt;In my experience, the damage bonus is the biggest game changer in the entire WM
-package. Even if a Weapon Master never learns a supernatural skill and never
-attacks or parries more than once per turn, they’re still going to feel like an
-entirely different character from someone who has the exact same stats but lacks
-the advantage. It feels a bit unfair to me that this bonus is not available to
-characters that focus on unarmed strikes.&lt;/p&gt;
-
-&lt;p&gt;GURPS uses realistic assumptions as a base for its rules, and under those
-assumptions a combatant with a weapon always has a big advantage over one
-without. The unarmed fighter risks limb injury on every parry and strike. The
-armed one has greater reach and much better damage from using swing attacks or
-simply from doing a better damage type than crushing.&lt;/p&gt;
-
-&lt;p&gt;An unarmed fighter with Trained By a Master can approach that by taking other
-traits… But then they’ve spent 60 points and bought a Hard combat skill to be
-on par with someone who bought an Average skill and took Weapon Master (single
-weapon) for 20 points.&lt;/p&gt;
-
-&lt;p&gt;I don’t feel a need to keep this “effectiveness gap” between armed and unarmed
-skills when we’re dealing with a campaign that allows “mastery” advantages in
-the first place.&lt;/p&gt;
-
-&lt;h2 id=&quot;new-traits&quot;&gt;New Traits&lt;/h2&gt;
-
-&lt;p&gt;My solution to the above situation is to rejigger the existing traits. The new
-and altered traits below are available in any campaign that also allows both
-Trained by a Master and Weapon Master.&lt;/p&gt;
-
-&lt;h3 id=&quot;true-master-50-points&quot;&gt;True Master (50 points)&lt;/h3&gt;
-
-&lt;p&gt;Through either decades of dedication or being some sort of war god, you have
-mastered all forms of “archaic” combat. You gain &lt;em&gt;all&lt;/em&gt; the benefits from having
-both Trained by a Master and the full version of Weapon Master. Your unarmed
-strikes enjoy the same damage bonus described under Weapon Master. This bonus
-&lt;em&gt;does&lt;/em&gt; stack with other bonuses from high striking skills and from traits like
-Claws.&lt;/p&gt;
-
-&lt;p&gt;Those two advantages still exist, and represent a slightly less comprehensive
-form of mastery. You can upgrade from any of them to True Master by spending the
-difference between their point value and 50.&lt;/p&gt;
-
-&lt;h3 id=&quot;iron-limbs-10-points&quot;&gt;Iron Limbs (10 points)&lt;/h3&gt;
-
-&lt;p&gt;Your limbs are immune to incidental injury during unarmed combat. Enemies can’t
-damage your limbs when they parry your unarmed attacks with a weapon, nor can
-they switch targets and damage your limbs when you fail to parry their
-attacks. You also don’t hurt yourself when hitting armored opponents with
-unarmed strikes. Your limbs can still be deliberately targeted by enemy attacks,
-however.&lt;/p&gt;
-
-&lt;p&gt;This trait replaces Unarmed Master, as it is basically Unarmed Master without
-the damage bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;I like those two traits, though as of this writing I still need to actually
-field-test them.&lt;/p&gt;
-
-&lt;p&gt;In campaigns that use these two new advantages, an unarmed specialist &lt;em&gt;can’t&lt;/em&gt;
-turn their limbs into Strikers. That’s what Unarmed Master did, and we did away
-with it. IF the specialist in question happens to belong to a non-human species
-that has natural Strikers, though, &lt;em&gt;those&lt;/em&gt; would stack with True Master. Beware
-of boxing crab-people!&lt;/p&gt;
-
-&lt;p&gt;Iron Limbs doesn’t have any prerequisites: you could buy it without having any
-of the “mastery” advantages. This allows it to be used to represent an extremely
-focused blessing, or a creature whose limbs are naturally hard to hurt or even
-naturally made of metal.&lt;/p&gt;
-
-&lt;p&gt;Finally, if you feel 10 points for Iron Limbs is too expensive for someone who
-is already a True Master, you could try rolling it into True Master at no extra
-cost, and eliminating the separate Iron Limbs advantage.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2021/05/27/masterful-combat.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>

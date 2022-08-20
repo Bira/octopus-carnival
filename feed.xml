@@ -6,9 +6,41 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 20 Aug 2022 20:55:16 +0000</pubDate>
-    <lastBuildDate>Sat, 20 Aug 2022 20:55:16 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Aug 2022 21:00:48 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2022 21:00:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Merging Shield Skills in GURPS</title>
+        <description>&lt;p&gt;This is kind of an addendum to my earlier post on &lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;Merging Weapon Skills in
+GURPS&lt;/a&gt;, which occurred to me after reading this other post in &lt;a href=&quot;https://aftertheogre.blogspot.com/2022/08/df-novices-merging-weapon-skills.html&quot;&gt;After the
+Ogre&lt;/a&gt;. I realized I hadn’t mentioned Shield skills, but I had been merging
+them for so long I had forgotten that wasn’t the standard.&lt;/p&gt;
+
+&lt;p&gt;In my GURPS games, there is only one shield skill:&lt;/p&gt;
+
+&lt;h3 id=&quot;shield-dxe&quot;&gt;Shield (DX/E)&lt;/h3&gt;
+
+&lt;p&gt;This skill merges &lt;strong&gt;Shield&lt;/strong&gt;, &lt;strong&gt;Shield (Buckler)&lt;/strong&gt; and &lt;strong&gt;Force
+Shield&lt;/strong&gt;. There is still a mechanical difference between a shield that’s held in
+the hand and one that’s strapped to the arm, but both of them use the same
+skill and there is no familiarity penalty from switching between them.&lt;/p&gt;
+
+&lt;p&gt;If you’re using the optional rules for Familiarity Penalties in the previous
+post, such a penalty would definitely apply when someone used to traditional
+shields wields a weightless force shield, and vice-versa. As a reminder, that’s
+a -2 penalty to Shield that goes away after a few hours of practice during
+downtime, at no point cost.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 20 Aug 2022 20:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Hag</title>
@@ -1164,148 +1196,6 @@ ones. The ones from this book pair well with the MV versions.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Merging GURPS Weapon Skills</title>
-        <description>&lt;p&gt;Recently, Peter V. Dell’Orto made a post in his blog Dungeon Fantastic about
-&lt;a href=&quot;https://dungeonfantastic.blogspot.com/2022/07/possible-weapon-skill-mergers-for-gurps.html&quot;&gt;merging GURPS weapon skills&lt;/a&gt;. I really, really like the idea, so I thought
-about writing about how I’d do it.&lt;/p&gt;
-
-&lt;p&gt;Mr. Dell’Orto’s post is specific to Dungeon Fantasy and to his own Felltower
-campaign. Mine is a bit more generic since I don’t have an active campaign
-going, and I tend to kind of mix up Dungeon Fantasy and default GURPS rules in
-my head. Consider it an addition to my &lt;a href=&quot;/octopus-carnival/2018/12/18/df-house-style.html&quot;&gt;House Style&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The reason for doing this is also pretty well-covered by this &lt;a href=&quot;https://dungeonfantastic.blogspot.com/2022/08/why-all-merging.html&quot;&gt;follow-up Dungeon
-Fantastic Post&lt;/a&gt;: having too many fine distinctions between spells and skills
-in a cinematic campaign can serve as a bit of a damper on the pacing and
-excitement of the campaign. My usual players tend to have a certain resistance
-to trying stuff that’s not on their character sheets, especially in a complex
-system like GURPS, so having broader traits would allow them to experiment a bit
-more.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-skills&quot;&gt;The Skills&lt;/h2&gt;
-
-&lt;p&gt;In campaigns where this post is in effect, I’m going to use the following list
-of weapon skills.&lt;/p&gt;
-
-&lt;h3 id=&quot;axemace-dxaverage&quot;&gt;Axe/Mace (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Two-Handed Axe/Mace-3&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This skill is a combination of the original &lt;strong&gt;Axe/Mace&lt;/strong&gt; with &lt;strong&gt;Flail&lt;/strong&gt;. When
-using a flail, the character suffers a -1 skill penalty.&lt;/p&gt;
-
-&lt;p&gt;In games that use Techniques, &lt;strong&gt;Flail&lt;/strong&gt; is a new Hard technique that defaults to
-Skill-1 and has a maximum level equal to Skill. This means you can buy the -1
-penalty off for 2 points.&lt;/p&gt;
-
-&lt;h3 id=&quot;fencing-dxaverage&quot;&gt;Fencing (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, One-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This new skill merges &lt;strong&gt;Rapier&lt;/strong&gt;, &lt;strong&gt;Saber&lt;/strong&gt; and &lt;strong&gt;Smallsword&lt;/strong&gt;. It allows you to
-use not only these three “titular” weapons, but also any other weapon that would
-fall under those skills, such as the jian (Rapier) or the light stick
-(Smallsword).&lt;/p&gt;
-
-&lt;p&gt;All the normal rules for fencing weapons apply.&lt;/p&gt;
-
-&lt;h3 id=&quot;force-sword-dxaverage&quot;&gt;Force Sword (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-3, One-Handed Sword-3, Two-handed Sword-3&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Should I ever play a science fiction game with force swords, this gets merged
-with &lt;strong&gt;Force Saber&lt;/strong&gt;. Whether you get fencing parries or not depends on the stat
-line of the weapon you’re using. The “Fencing parries for everyone!” option is
-also valid in a more explicitly Star Warsy game.&lt;/p&gt;
-
-&lt;h3 id=&quot;knife-dxaverage&quot;&gt;Knife (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-4&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This merges the original &lt;strong&gt;Knife&lt;/strong&gt; skill with &lt;strong&gt;Jitte/Sai&lt;/strong&gt; and
-&lt;strong&gt;Main-Gauche&lt;/strong&gt;. Any weapon that could be used with either of these can be used
-with the new skill. Weapons use their Main-Gauche profiles for this, meaning
-there’s no penalty for using the off hand and the user gets fencing parries.&lt;/p&gt;
-
-&lt;p&gt;In my experience, “knife expert” PCs always went for Main-Gauche anyway. People
-who dropped a point in Knife as a back-up skill almost never ended up using it,
-so they can just drop a point in this one instead.&lt;/p&gt;
-
-&lt;p&gt;The Jutte and the Sai get both a +2 for disarm attempts and fencing parries
-without any special stance switches required. They are rare enough in my games
-that I don’t believe it will be a problem. And by “rare” I mean no one has taken
-these weapons and no one has tried a disarm yet.&lt;/p&gt;
-
-&lt;h3 id=&quot;one-handed-sword-dxaverage&quot;&gt;One-Handed Sword (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Fencing-4, Two-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the skill used for all one-handed swords, merging both &lt;strong&gt;Broadsword&lt;/strong&gt;
-and &lt;strong&gt;Shortsword&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Blade length is an important consideration in real life, but it’s below the
-level of granularity I prefer. This also broadens the range of really cool magic
-swords your sword-wielding players can find and immediately use.&lt;/p&gt;
-
-&lt;h3 id=&quot;pole-weapons-dxaverage&quot;&gt;Pole Weapons (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Two-Handed Sword-5&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This merges &lt;strong&gt;Polearm&lt;/strong&gt;, &lt;strong&gt;Spear&lt;/strong&gt;, and &lt;strong&gt;Staff&lt;/strong&gt;. The Form Mastery perk is
-redundant for these weapons.&lt;/p&gt;
-
-&lt;p&gt;What about that sweet Staff parry bonus? If it’s in your weapon’s stat line
-under Staff, you get it. If it’s not, you don’t. The only exception to this are
-balanced two-handed spears, which I feel should have the bonus.&lt;/p&gt;
-
-&lt;h3 id=&quot;two-handed-axemace-dxaverage&quot;&gt;Two-Handed Axe/Mace (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, Axe-Mace-3&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Like Axe/Mace, but for two-handed weapons. The same rules apply for two-handed
-flails, including the existence of a Hard technique to buy the -1 penalty off.&lt;/p&gt;
-
-&lt;h3 id=&quot;two-handed-sword-dxaverage&quot;&gt;Two-Handed Sword (DX/Average)&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Defaults: DX-5, One-Handed Sword-4&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This is pretty much the same skill as the original, with a suitably altered list
-of defaults.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-about-all-the-other-skills&quot;&gt;What about all the other skills?&lt;/h2&gt;
-
-&lt;p&gt;All of the more exotic weapon skills, like Whip, Kusari, and Tonfa, remain the
-same. I might change my mind in the future and come back to this, but I haven’t
-actually used any of them in my games, so it makes no difference for them to
-stay as-is.&lt;/p&gt;
-
-&lt;h2 id=&quot;optional-rule-weapon-familiarity&quot;&gt;Optional Rule: Weapon Familiarity&lt;/h2&gt;
-
-&lt;p&gt;If you like how these skills are merged, but still feel a staff user shouldn’t
-be able to pick up a halberd and wield it just as proficiently right away, then
-you can use a version of the Familiarity rules from the GURPS core book.&lt;/p&gt;
-
-&lt;p&gt;PCs are considered familiar with any weapons they acquire during character
-creation. If they pick up a weapon that would be used with a different skill
-under the standard rules, they have a -2 penalty to use that weapon until they
-can spend a few hours practicing with it. This takes time but costs no money or
-points. In effect, it can only happen when the PCs have a significant amount of
-downtime (such as when returning to town from a dungeon in DF). After this, the
-PC is considered familiar with that weapon type.&lt;/p&gt;
-
-&lt;p&gt;I’m writing this up as an option, but it’s not one I’ll use myself.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/03/merging-weapon-skills.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/03/merging-weapon-skills.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
