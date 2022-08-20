@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Merging Shield Skills in GURPS"
-date: 2022-08-20 18:00:00 -03:00
+date: 2022-08-20 17:00:00 -03:00
 tags:
     - gurps
 ---
