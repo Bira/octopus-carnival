@@ -81,6 +81,9 @@ entries.
   - [Gnoll][48]
   - [Gremlin][49]
 
+- H
+  - [Hag][50]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -131,3 +134,4 @@ entries.
 [47]: {{ "/2022/08/14/girallon.html" | relative_url }}
 [48]: {{ "/2022/08/16/gnoll.html" | relative_url }}
 [49]: {{ "/2022/08/19/gremlin.html" | relative_url }}
+[50]: {{ "/2022/08/20/hag.html" | relative_url }}
