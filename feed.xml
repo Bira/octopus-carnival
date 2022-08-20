@@ -6,9 +6,185 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Aug 2022 12:36:57 +0000</pubDate>
-    <lastBuildDate>Fri, 19 Aug 2022 12:36:57 +0000</lastBuildDate>
+    <pubDate>Sat, 20 Aug 2022 20:04:10 +0000</pubDate>
+    <lastBuildDate>Sat, 20 Aug 2022 20:04:10 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Hag</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-hag.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned way back in the MM/MV post about &lt;a href=&quot;/octopus-carnival/2020/05/16/hag.html&quot;&gt;Hags&lt;/a&gt;, they’re a species of
+fey that resemble fairytale witches in appearance and behavior. They tend to
+have great knowledge of magic, but also tend use it to further selfish and
+greedy schemes.&lt;/p&gt;
+
+&lt;p&gt;Their basic lore remains the same in the MM3, which also adds that hags are
+keepers of secrets. They’re always after new treasure and new secrets, generally
+of the type that increases their power. They use divination magic, pacts with
+mortals, and a network of portals that weaves through the Feywild and the middle
+world, which they also use to keep connected to each other.&lt;/p&gt;
+
+&lt;p&gt;Hags are of course loathe to part with any of their secrets for
+free. Adventurers seeking information from a hag must usually agree to do them a
+favor, which commonly means doing something nasty to one of the hag’s many
+enemies. These enemies might include archfey, demons, devils, other hags…&lt;/p&gt;
+
+&lt;p&gt;Hags are Medium Fey Humanoids and have Low-Light Vision. Everything else varies
+with stat blocks, which are usually split along the lines of which type of magic
+a hag uses in combat. I don’t think they’re supposed to be different sub-species
+or anything of the sort.&lt;/p&gt;
+
+&lt;h2 id=&quot;pact-hag&quot;&gt;Pact Hag&lt;/h2&gt;
+
+&lt;p&gt;This is your typical “sinister village witch”, living in a hut out of sight of
+the village itself. This location is far enough away to deter curious casuals,
+but still close enough that someone who really wants to make a deal with the hag
+can easily reach it.&lt;/p&gt;
+
+&lt;p&gt;A pact hag is much more willing to negotiate with these visitors than most of
+her relatives, though she’s still just as prone to seeking deals that benefit
+her more than they do the petitioner. She usually keep ogres, trolls, and
+dangerous fey fauna as bodyguards. They’re initially out of sight, but can
+arrive quickly if a fight breaks out.&lt;/p&gt;
+
+&lt;p&gt;Pact hags are Level 11 Controllers with the Leader tag and 115 HP. In a fight,
+they use all sorts of fun mind control magic, starting with a &lt;strong&gt;Pact of
+Obedience&lt;/strong&gt; aura (5) that allows allies inside to spend 5 HP to reroll a missed
+attack roll with a +2 bonus to the reroll.&lt;/p&gt;
+
+&lt;p&gt;Her basic melee attack is a &lt;strong&gt;Compelling Staff&lt;/strong&gt; that deals light damage but
+forces the target to make a melee basic attack against a target of the hag’s
+choice.&lt;/p&gt;
+
+&lt;p&gt;Her basic ranged attack is named &lt;strong&gt;Pact of Compelled Obedience&lt;/strong&gt; and does no
+damage at all, but it dominates the target for a turn instead. Fun (TM) for the
+whole party.&lt;/p&gt;
+
+&lt;p&gt;Her special attacks follow along the same lines. &lt;strong&gt;Pact of Choked Aggression&lt;/strong&gt;
+also doesn’t do immediate damage and inflicts a nasty curse on the target:
+they take 10 psychic damage the first time they hit a creature during one of
+their turns. This lasts until the end of the encounter, or until one of the
+target’s allies attacks the target. And it recharges when no enemy is affected
+by the curse!&lt;/p&gt;
+
+&lt;p&gt;The other special attack is &lt;strong&gt;Pact of Shared Agony&lt;/strong&gt;, which the hag can only
+use while bloodied. It’s another curse: until the end of the encounter, if the
+target is within 10 squares of the hag, they take 10 psychic damage whenever the
+hag takes any amount of damage. This power recharges whenever the hag misses
+with it, so she can keep using it until she hits.&lt;/p&gt;
+
+&lt;p&gt;This big emphasis on indirect damage means pact hags work best when surrounded
+by those beefy bodyguards, and will probably try to flee the fight once they
+become bloodied. Pact of Shared Agony is good for discouraging pursuit by melee
+strikers. Their “Pact” theme makes them a good patron for a heroic-tier fey
+warlock! This patron hag might either level up as the PC does, or you can have a
+story where the PC “trades up” to a better teacher Sith-style once the hag’s
+demands become untenable.&lt;/p&gt;
+
+&lt;h2 id=&quot;dream-hag&quot;&gt;Dream Hag&lt;/h2&gt;
+
+&lt;p&gt;These hags, as you might imagine, focus on dream magic. They can send dream
+visions to people, a power they use to lure their (or their paying customer’s)
+enemies to traps. However, the constraints of dream magic mean the hag doesn’t
+have full control over the content of the visions, so genuinely useful
+information tends to slip through.&lt;/p&gt;
+
+&lt;p&gt;Dream Hags are Level 19 Controllers with 179 HP. They project a &lt;strong&gt;Nightmare
+Weaver&lt;/strong&gt; aura (3) that causes unconscious enemies inside to become dominated for
+a turn. They stand up and perform one action of the hag’s choice while still
+remaining unconscious. The wording here makes it clear that this puppetry
+continues while the enemies remain inside the aura.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Staff of Mindless Reverie&lt;/strong&gt;, which damages and dazes
+for a turn on a hit. Their at-will ranged attack are weaponized &lt;strong&gt;Nightmare
+Visions&lt;/strong&gt; that deal psychic damage and slide the target 5 squares.&lt;/p&gt;
+
+&lt;p&gt;And then we have the powers that make people unconscious so the hag can exploit
+her aura. Both affect a Close Blast 5! &lt;strong&gt;Dust of Dreams&lt;/strong&gt; (recharge 5+) dazes on
+a hit (save ends), and this worsens to unconsciousness after the first failed
+save. &lt;strong&gt;Sleep’s Undeniable Grasp&lt;/strong&gt; (Encounter) makes its targets unconscious
+right away. It’s a (save ends) effect and it also ends if the target is
+attacked.&lt;/p&gt;
+
+&lt;p&gt;Yes, it’s possible for the hag to put the whole party to sleep at once if she’s
+really lucky. This &lt;em&gt;shouldn’t&lt;/em&gt; be an automatic total party kill if you run the
+abilities as written, though - sleeping PCs can still roll saves to end the
+effect, and in the case of the encounter power they also wake up if attacked. Of
+course, this attack will probably be an auto-crit if it comes from an enemy, so
+it’s still a problem.&lt;/p&gt;
+
+&lt;p&gt;I also think it’s acceptable to fudge things a little if Team Monster’s goal is
+something other than killing the PCs. If the goal is capturing them, or taking
+them somewhere else, then you can fade to black if the whole party falls asleep
+and have them wake up at that place.&lt;/p&gt;
+
+&lt;h2 id=&quot;mist-hag&quot;&gt;Mist Hag&lt;/h2&gt;
+
+&lt;p&gt;These are among the most powerful of hags. They’ve been accumulating secrets,
+artifacts and power for ages, and they dwell in the deepest forests of the
+Feywild. Their dwellings are surrounded by a thick mist that they have full
+control over. If the Death Hag from the MM1 was a “Baba Yaga wannabe”, this one
+is closest to the real deal. She’s pretty much an arch-fey herself. The Mist Hag
+does not deal with devils - devils deal with &lt;em&gt;her&lt;/em&gt;. A few of them probably have
+been pressed into service as her bodyguards. Other possible allies include epic
+undead, fomorians, and so on.&lt;/p&gt;
+
+&lt;p&gt;A Mist Hag is a Level 27 Controller with the Leader tag and 247 HP. She has a
+zippy ground speed of 8, instead of the standard 6 for a medium humanoid. Her
+aura is a &lt;strong&gt;Mist Shroud&lt;/strong&gt; that makes allies within 1 square insubstantial.&lt;/p&gt;
+
+&lt;p&gt;The hag’s &lt;strong&gt;Mist Staff&lt;/strong&gt; damages and pushes targets 5 squares. During the push,
+targets act as if they had the Phasing trait, which means the hag can push them
+through walls and other creatures. The final destination square must still be
+empty, but the hag doesn’t need to have a line of effect to it or the other
+squares of the push. If you want to get cute with this ability, include a piece
+of hazardous terrain surrounded by walls in your battle map.&lt;/p&gt;
+
+&lt;p&gt;Her basic attack is &lt;strong&gt;Mist on the Wind&lt;/strong&gt;, which damages and removes the
+target from play for a turn! The target returns to play in a square of the hag’s
+choice within 4 squares of its original position.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;Choking Mist&lt;/strong&gt; (recharge 5+) is a ranged attack serves as a reminder
+that the PCs are breathing the same mist the hag can control. It deals heavy
+physical damage and ongoing 20 damage (save ends). Every time the target fails a
+save, the hag can slide them 3 squares.&lt;/p&gt;
+
+&lt;p&gt;When an enemy gets to within 2 squares of the hag, the hag can use &lt;strong&gt;Maze of
+Mist&lt;/strong&gt; to mess with them. This is a triggered effect that doesn’t require an
+action, so it can happen every time the trigger happens. When it does, the hag
+can roll a d20. On a 10 or higher, she slides the triggering enemy 1
+square. This makes closing to melee reach a lot harder than usual.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;As I said back in the original article, I like hags when they are portrayed as
+their own species of fey being that don’t necessarily need to obey natural
+laws. They’re fairytale witches, with a penchant for doing the things fairytale
+witches do.&lt;/p&gt;
+
+&lt;p&gt;That said, I think treating each hag stat block as an entirely different species
+is going a bit too far. I prefer to treat those as differences of skill and
+training.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/20/hag.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/hag.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Gremlin</title>
@@ -1130,159 +1306,6 @@ PC is considered familiar with that weapon type.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/03/merging-weapon-skills.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Gargoyle</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-gargoyle.png&quot; width=800/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Gargoyles made their 4e debut in the first Monster Manual. I wrote about them
-&lt;a href=&quot;/octopus-carnival/2020/03/12/gargoyle.html&quot;&gt;here&lt;/a&gt;. Though that article includes a whole bunch of gargoyles, most of them
-are from the Monster Vault. When the MM3 was published, we still only had the
-two originals from the MM1.&lt;/p&gt;
-
-&lt;p&gt;This entry adds a lot more variety, and it doesn’t actually overlap with the
-later MV gargoyles, so we’re going to be looking at all of them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Gargoyle lore remains basically the same, and you can read it &lt;a href=&quot;/octopus-carnival/2020/03/12/gargoyle.html&quot;&gt;here&lt;/a&gt;. We get
-two new bits in this entry:&lt;/p&gt;
-
-&lt;p&gt;The first is that efreets love to train packs of gargoyles to hunt sapients for
-sport. The elemental lords are endlessly amused by their pets’ penchant for
-sadism when hunting. In the world, cultists of the Elder Elemental Eye
-frequently recruit and train gargoyles to guard their temples.&lt;/p&gt;
-
-&lt;p&gt;The second is that while gargoyles have a fearsome reputation in the world, they
-tend to be viewed as weak in their native Elemental Chaos. There, they are more
-often the prey than the hunter. Gargoyle packs skulk in caves and other secluded
-locations, and only attack when they greatly outnumber their target.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;All gargoyles in this entry are Medium Elemental Humanoids with the Earth
-keyword. They have Darkvision, a ground speed of 6, and a flight speed
-of 8. They’re immune to petrification, and all but one of them have a passive
-trait called &lt;strong&gt;Lurking Presence&lt;/strong&gt;, which gives them a +10 bonus to Stealth
-against enemies’ passive Perception.&lt;/p&gt;
-
-&lt;p&gt;It’s also interesting to note that none of the gargoyles in this entry have the
-Lurker role - with these and the ones from the MV, you can build varied
-all-gargoyle encounters.&lt;/p&gt;
-
-&lt;h3 id=&quot;ironstone-gargoyle&quot;&gt;Ironstone Gargoyle&lt;/h3&gt;
-
-&lt;p&gt;Identified by the rust-red streaks covering their bodies, Ironstone Gargoyles
-behave like their “default” cousins, hanging out in mountain passes and ruins
-waiting to raid unsuspecting passers-by. They wait in ambush but fight in a more
-aggressive and mobile way than usual once combat starts.&lt;/p&gt;
-
-&lt;p&gt;Ironstone Gargoyles are Level 7 Skirmishers with 80 HP and the traits outlined
-above. They use &lt;strong&gt;claws&lt;/strong&gt; to fight, and have a special attack named &lt;strong&gt;Crashing
-Stride&lt;/strong&gt; (recharge 5+). This allows them to shift 4 squares and make claw
-attacks against two targets at any point along the shift. If they hit, they also
-slide the target 1 square and knock it prone.&lt;/p&gt;
-
-&lt;p&gt;When surrounded, a &lt;strong&gt;Leaping Glide&lt;/strong&gt; (at-will move action) allows them to fly 4
-squares without provoking opportunity attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;hornstone-gargoyle&quot;&gt;Hornstone Gargoyle&lt;/h3&gt;
-
-&lt;p&gt;This robust specimen is distinguished by its large horns, which it uses to gore,
-impale and drag victims in combat. It’s a Level 8 Brute with 107 HP and all
-standard traits.&lt;/p&gt;
-
-&lt;p&gt;Those horns can be used in an &lt;strong&gt;Impaling Charge&lt;/strong&gt;, an attack which must be used
-as part of a charge. It does heavy damage and grabs the target by impaling them
-in the gargoyle’s horns. The target takes 5 ongoing damage while the grab
-lasts. Escaping uses the standard rules (Athletics DC 22 or Acrobatics DC 19).&lt;/p&gt;
-
-&lt;p&gt;The gargoyle can use &lt;strong&gt;Skewering Drag&lt;/strong&gt; as a move action to move half its speed
-and automatically pull the grabbed victim along with it. Neither provokes
-opportunity attacks from the other during this movement.&lt;/p&gt;
-
-&lt;p&gt;I left the basic &lt;strong&gt;Claw&lt;/strong&gt; attack for last because it interacts with the above
-abilities: aside from doing the usual heavy damage of a Brute, it allows the
-monster to use Skewering Drag as a free action. Attacking the grabbed victim is
-a perfectly valid choice, mind you.&lt;/p&gt;
-
-&lt;p&gt;In combat they’ll do their best to impale and drag an enemy away. If the charge
-fails they prefer to fly away and try again rather than stand and fight with
-basic attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;obsidian-gargoyle&quot;&gt;Obsidian Gargoyle&lt;/h3&gt;
-
-&lt;p&gt;Obsidian gargoyles are kinda brittle, but also covered in sharp edges. Massive
-flocks of these things darken the skies of the Elemental Chaos, and they’re the
-preferred variant of Elemental Eye cultists. They’re Level 8 Minion Soldiers.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attacks are nothing special, but they also have a &lt;strong&gt;Cruel Claws&lt;/strong&gt;
-passive that deals 4 damage to an enemy who leaves a square adjacent to the
-gargoyle. That’s not a lot, but it triggers on a shift and &lt;em&gt;stacks&lt;/em&gt;. Surround a
-PC with these beasts. Leave only one way out. Dare them to take it.&lt;/p&gt;
-
-&lt;h3 id=&quot;runic-gargoyle&quot;&gt;Runic Gargoyle&lt;/h3&gt;
-
-&lt;p&gt;This is an &lt;em&gt;artificial&lt;/em&gt; gargoyle variant, originally created to serve the Elder
-Elemental Eye. Their skin looks like white marble covered in arcane runes, and
-they are a lot smarter than your average gargoyle. Some of them have since
-broken out of their servitude and found jobs with different groups.&lt;/p&gt;
-
-&lt;p&gt;Runic Gargoyles are Level 8 Soldiers with 87 HP and all standard traits &lt;em&gt;except&lt;/em&gt;
-for Lurking Presence, since they don’t really have natural camouflage. They were
-made to be bodyguards, and their runes can be configured to bind them to a
-designated “master”. I guess “client” might be a better word for free runic
-gargoyles.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attack marks the target for a turn. They can also use an
-&lt;strong&gt;Avenging Claws&lt;/strong&gt; maneuver that dazes instead of marking. This recharges when
-they’re first bloodied.&lt;/p&gt;
-
-&lt;p&gt;As a move action, they can teleport &lt;strong&gt;To the Master&lt;/strong&gt;, appearing in a space
-within 2 squares of the client. There is &lt;em&gt;no range limit&lt;/em&gt; on this, and it allows
-you to have a cool scene where the boss snaps his fingers and a gang of gargoyle
-guards teleports in.&lt;/p&gt;
-
-&lt;p&gt;If the gargoyle is adjacent to its client and the client takes damage, it can
-use &lt;strong&gt;Shielding Wings&lt;/strong&gt; as an interrupt to take the damage instead.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters&quot;&gt;Encounters&lt;/h2&gt;
-
-&lt;p&gt;The same encounter building tips for MM1/MV gargoyles also apply here. The
-efreet and Elder Eye angles are new and just as valid.&lt;/p&gt;
-
-&lt;p&gt;Inter-gargoyle synergy is highest between the gargoyles from this entry. You
-have a couple of variants who are excellent at inflicting forced movement, and a
-minion who deals damage to enemies who move away from it. And since all of them
-fly, they also pair well with pits and other floor-based hazards.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The stat blocks in this entry don’t really change my general opinion of
-gargoyles. They might be &lt;em&gt;too&lt;/em&gt; iconic, as the exceptional case in a D&amp;amp;D
-adventure is meeting an inanimate gargoyle statue who &lt;em&gt;won’t&lt;/em&gt; come to life and
-try to kill you. For this reason, you don’t want to use them too much in your
-actual game. Still, by combining the MM3 and the MV you have enough variants to
-make that one gargoyle encounter truly memorable.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/02/gargoyle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
