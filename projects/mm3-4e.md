@@ -83,6 +83,7 @@ entries.
 
 - H
   - [Hag][50]
+  - [Howler][51]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -135,3 +136,4 @@ entries.
 [48]: {{ "/2022/08/16/gnoll.html" | relative_url }}
 [49]: {{ "/2022/08/19/gremlin.html" | relative_url }}
 [50]: {{ "/2022/08/20/hag.html" | relative_url }}
+[51]: {{ "/2022/08/22/howler.html" | relative_url }}
