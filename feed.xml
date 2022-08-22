@@ -6,9 +6,138 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2022 16:27:19 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2022 16:27:19 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2022 17:12:20 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2022 17:12:20 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Howler</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-howler.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.s&lt;/p&gt;
+
+&lt;p&gt;Howlers totally feel like a 3e monster, probably because of the art. I suppose
+they might have shown up in AD&amp;amp;D too, it’s not like the game was ever shy about
+adding one more dog monster to the pile.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Howlers are spiky, sapient quadrupedal predators that feed on fear. They’ve
+evolved to hunt in a way that’s as terrifying as possible. Younger howlers are
+quick to kill because they enjoy the spike of fear the victim feels when it
+dies, but older specimens are sophisticated enough to hold whole villages
+hostage with the &lt;em&gt;threat&lt;/em&gt; of death-by-howler and feed off the ambient terror.&lt;/p&gt;
+
+&lt;p&gt;The most legendary howler of all is known as Terror Incarnate. This creature
+managed to devour the fear felt by an entire army as it died, and this excess
+power turned it into something like a demigod of terror. Its eventual progeny
+inherited its powers.&lt;/p&gt;
+
+&lt;p&gt;There’s some fuzzy edges in their lore. It mentions howlers attacking people in
+the middle world and in the Underdark, mentions associations with shadar-kai,
+but gives the creature an Elemental origin. I think they might fit better as
+either Natural or Shadow. Fortunately origin doesn’t influence
+stats. Alternatively you might go the other way and make them a type of demon.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As mentioned above, Howlers are Elemental Magical Beasts. They have Darkvision
+and a Speed of 8. They understand Abyssal but can’t speak.&lt;/p&gt;
+
+&lt;h3 id=&quot;howler-dread-hound&quot;&gt;Howler Dread Hound&lt;/h3&gt;
+
+&lt;p&gt;One of those young specimens that kills too quickly. They gather in huge packs
+to massacre whole villages at once. They are Medium Level 9 Minion Controllers
+with a speed of 8. At Int 5, they’re sapient but dim.&lt;/p&gt;
+
+&lt;p&gt;As with all “dog monsters”, their basic attack is a &lt;strong&gt;bite&lt;/strong&gt;. This one does a
+bit of damage and slides the target 1 square on a hit. They also have a
+&lt;strong&gt;Piercing Spines&lt;/strong&gt; trait that deals the same damage as the bite to anyone who
+misses them with a melee attack. The ability that gives them their name is the
+&lt;strong&gt;Dread Howl&lt;/strong&gt; encounter power, a fear attack that catches every enemy in a
+Close Blast 5 and targets Will. A hit does a bit of psychic damage and makes the
+target grant combat advantage for a turn.&lt;/p&gt;
+
+&lt;p&gt;These are minions, so there will always be a lot of them when they appear. A bit
+of orchestration could ensure PCs grant combat advantage for most of the fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;howler-doom-mastiff&quot;&gt;Howler Doom Mastiff&lt;/h3&gt;
+
+&lt;p&gt;An older, fully developed howler who has learned the value of prolonged
+psychological torture. They roam ruins and tunnels in small packs, looking for
+victims to terrify. They are Large Level 13 Skirmishers with 129 HP and a speed
+of 8.&lt;/p&gt;
+
+&lt;p&gt;Doom Mastiffs are large enough to ride, and they have the Mount keyword. As they
+have Int 9, I think this is more of an equal partnership thing than the rider
+“keeping” the howler as a mount or pet. The &lt;strong&gt;Guarding Spines&lt;/strong&gt; trait gives the
+mastiff’s rider a +2 bonus to AC. Its &lt;strong&gt;Piercing Spines&lt;/strong&gt; does 10 damage to
+anyone who misses the howler &lt;em&gt;or its rider&lt;/em&gt; with a melee attack.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;Bites&lt;/strong&gt; are a little weak but can be used as part of a &lt;strong&gt;Loping
+Bite&lt;/strong&gt; attack that allows the mastiff to shift half its speed and bite. Their
+&lt;strong&gt;Terrifying Howl&lt;/strong&gt; is a lot stronger than the dread hound’s: it deals 10
+ongoing psychic damage to those it hits, and makes them grant combat advantage
+(save ends). Targets adjacent to the mastiff &lt;em&gt;can’t save agains this&lt;/em&gt;. Finally,
+this is a (recharge 6+) power instead of an encounter power. So it might happen
+more than once!&lt;/p&gt;
+
+&lt;p&gt;Being all about that delicious fear, the mastiff will open with a howl and then
+will do its best to stick to one of the affected PCs, using move actions and
+Loping Bites to do so. It’s smart enough to prefer a squishy victim over a
+defender, too.&lt;/p&gt;
+
+&lt;h3 id=&quot;howler-terror-incarnate&quot;&gt;Howler Terror Incarnate&lt;/h3&gt;
+
+&lt;p&gt;The one that devoured an army’s collective fear and became a demigod of
+terror. It’s a Large Level 22 Lurker with 155 HP.&lt;/p&gt;
+
+&lt;p&gt;The terror’s &lt;strong&gt;Shadow Spines&lt;/strong&gt; work a lot like that of its lesser relatives, but
+deal necrotic damage. It also has a &lt;strong&gt;Terror Incarnate&lt;/strong&gt; aura (3) that deals 10
+psychic damage per turn to any enemies inside.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;bite&lt;/strong&gt; deals the same damage as that of the level 13 doom mastiff,
+which I’m almost sure is a typo. It can also possess people with the &lt;strong&gt;Shadow of
+Terror&lt;/strong&gt; power. This is a melee attack that can only be used against people who
+can’t see the howler, and who haven’t been possessed during the fight yet. On a
+hit, the howler is removed from play and the target is dominated (save
+ends). The target’s at-will attacks deal an extra 1d8 psychic damage and target
+Will instead of their original defenses. The posession ends when the target
+passes a save or takes radiant damage - when this happens, the howler reappears
+adjacen to them. The target is then dazed (save ends).&lt;/p&gt;
+
+&lt;p&gt;Their final attack is the &lt;strong&gt;Death Howl&lt;/strong&gt;, another blast attack. This one does
+immediate psychic damage and dazes (save ends) on a hit.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shadow Lope&lt;/strong&gt; (recharge 4+) provides the ability to set up for a Shadow of
+Terror attack: it allows the howler to become invisible for a turn and move its
+speed.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;Howlers are far from the first dog monsters to show up in D&amp;amp;D. They’re not even
+the first dog monsters with fear powers. Still, you can use them in your
+campaign in place of wargs and other similarly-leveled canine menaces for added
+variety. The Doom Mastiff’s ability to act as a mount also makes it an possible
+replacement for a Nightmare. Anyone who would ride an Evil Fire Horse would also
+certainly ride an Evil Fear Dog.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/22/howler.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/22/howler.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Merging Shield Skills in GURPS</title>
@@ -1050,152 +1179,6 @@ cleanse it.&lt;/p&gt;
         <category>gurps</category>
         
         <category>items</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Ghoul</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-ghoul.png&quot; width=800/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;As classic monsters, Ghouls had their 4e debut on the first Monster Manual, and
-would end up making it into the Monster Vault as well. Here, the Monster Manual
-3 gives us a few specialized ghoul variants that can compliment the ones on the
-MV.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The basic lore for ghouls remains the same. You can check out a description of
-it on my post about &lt;a href=&quot;/octopus-carnival/2020/03/20/ghoul.html&quot;&gt;ghouls in the MM/MV&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The MM3 emphasizes that ghouls are creatures of pure evil, since they used to be
-individuals who practiced cannibalism or did other equally horrible things in
-life. It adds that they are not only driven by a hunger for flesh, but are also
-drawn to places where evil is powerful.&lt;/p&gt;
-
-&lt;p&gt;Ghouls will spontaneously show up at the home bases of evil cults, especially
-those who worship Orcus or one of his exarchs. These villains often secure the
-ghouls’ services by paying in live captives.&lt;/p&gt;
-
-&lt;p&gt;Ghouls will also seek out ruins and dungeons where great evil is entombed,
-sometimes digging for miles to reach these places if they happen to be deep
-underground. This attraction handily explains why the ghouls that live in these
-places prefer to hang out there rather than terrorizing the countryside.&lt;/p&gt;
-
-&lt;p&gt;Some adventurers like to use these ghoul tunnels and warrens as a way to reach
-their dungeons or the Underdark, but this is a risky proposition as any ghouls
-living in the tunnels will have a terrain advantage against the interlopers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;We get three different varieties of Ghoul here, none of which seem to be
-reprinted in the MV. They’re all Medium Natural Humanoids with the Undead
-tag. They have Darkvision, Immunity to disease and poison, Resist 10 Necrotic,
-and Vulnerable 5 Radiant.&lt;/p&gt;
-
-&lt;h3 id=&quot;ghoul-flesh-seeker&quot;&gt;Ghoul Flesh Seeker&lt;/h3&gt;
-
-&lt;p&gt;This is a cultist of Orcus who has undergone a voluntary transformation into a
-ghoul. I guess the origin could be applied to any stat block, but this specific
-entry describes a stealthy bastitch. They sometimes hunt in civilized
-settlements, disguising themselves with heavy robes. When accompanying other
-monsters, they like to strike from ambush while the PCs are busy with their less
-stealthy buddies.&lt;/p&gt;
-
-&lt;p&gt;Flesh Seekers are Level 4 Lurkers with 45 HP. Their ground speed is an excellent
-8, and their &lt;strong&gt;Shadow Skulk&lt;/strong&gt; trait allows them to roll Stealth to hide in
-combat when they have partial cover or concealment (normally you need full cover
-or concealment).&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Claw&lt;/strong&gt; that damages and immobilizes (save ends) on a
-hit. They don’t have abilities to exploit this directly, but “standard” ghouls
-do.&lt;/p&gt;
-
-&lt;p&gt;They have two “lurker”-y special attacks. The first is &lt;strong&gt;Prepare For
-Sacrifice&lt;/strong&gt;, which they can use against a creature from which they were hidden
-at the start of their turn. It does more damage than the claw attack, and on a
-hit the flesh seeker knocks the target prone and grabs it. The target can escape
-using the normal rules (Athletics DC 14 or Acrobatics DC 16) but takes a -2
-penalty on the escape test and can’t stand up until the grab ends.&lt;/p&gt;
-
-&lt;p&gt;The second special attack is &lt;strong&gt;Render Unto Orcus&lt;/strong&gt;, and it can only be used on a
-target grabbed by the flesh seeker. No special riders here, just a massive chunk
-of damage.&lt;/p&gt;
-
-&lt;p&gt;Tactics write themselves: Ambush -&amp;gt; Prepare For Sacrifice -&amp;gt; Render Unto
-Orcus. If someone pries you off your victim, hide and repeat.&lt;/p&gt;
-
-&lt;h3 id=&quot;adept-of-orcus&quot;&gt;Adept of Orcus&lt;/h3&gt;
-
-&lt;p&gt;A cannibal priest of Orcus who died and returned as a ghoul. This one retains
-its memories, but since it already behaved like a ghoul in life the only way you
-can tell it’s because it can use magic.&lt;/p&gt;
-
-&lt;p&gt;Adepts are Level 6 Controllers with the Leader tag and 71 HP. Their speed
-is 8. They project an &lt;strong&gt;Uneasy Grave&lt;/strong&gt; aura (5). Any non-minion ghoul ally that
-dies inside this aura comes back as a zombie rotter (a minion) at the start of
-its next turn.&lt;/p&gt;
-
-&lt;p&gt;The adept’s &lt;strong&gt;Claw&lt;/strong&gt; damages and immobilizes, as typical for ghouls. It also has
-three spells, all ranged attacks. &lt;strong&gt;Grave Grasp&lt;/strong&gt; (at-will) does no damage and
-restrains (save ends). &lt;strong&gt;Call to Feast&lt;/strong&gt; (recharge 5+) immobilizes (save ends)
-and allows a ghoul ally adjacent to the target to make a free basic attack
-against them. And &lt;strong&gt;Grave Dust Cloud&lt;/strong&gt; (encounter) is an area spell that does
-necrotic damage and creates a zone that does 5 necrotic damage to any enemy who
-enters it or ends their turn inside.&lt;/p&gt;
-
-&lt;p&gt;These things are extremely dangerous when paired with traditional ghouls, since
-they can paralyze from a distance and allow their buddies to do huge damage
-right away.&lt;/p&gt;
-
-&lt;h3 id=&quot;ghast&quot;&gt;Ghast&lt;/h3&gt;
-
-&lt;p&gt;Ghasts are a monster as traditional as the ghoul. Basically, they’re stronger
-and stinkier ghouls. The MM and MV had Abyssal Ghouls to fill this role, but
-they were level 16. This official Ghast entry is appropriate for mixing in with
-standard ghouls.&lt;/p&gt;
-
-&lt;p&gt;Ghasts are what happens when a ghoul goes for too long without eating the flesh
-of the living. Instead of starving, they rot from the inside and become even
-more desperate and voracious. This rot is what gives them their horrible stench.&lt;/p&gt;
-
-&lt;p&gt;Ghasts are Level 6 Brutes with 85 HP. They’re a bit slower at speed 6, and their
-&lt;strong&gt;Stench of Death&lt;/strong&gt; aura (1) slows any living creatures that start their turns
-inside.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that damages and immobilizes for a turn. They
-can use a &lt;strong&gt;Devouring Bite&lt;/strong&gt; against an immobilized creature, which does huge
-damage and keeps recharging until they hit with it. After the bite hits and is
-spent, they can use their &lt;strong&gt;Rabid Claws&lt;/strong&gt;, to make two melee attacks against
-immobilized creatures. Each one does slightly less damage than the basic bite,
-but if the two hit they hurt more overall.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These new ghoul types can fit into the same types of encounter group as the ones
-from the MM/MV, which means they pair well with Orcus cultists and other
-undead. And now you have enough ghoul stat blocks to make a large variety of
-all-ghoul encounters.&lt;/p&gt;
-
-&lt;p&gt;As for my impressions… I like ghouls as opponents, and I would like to repeat
-my warning from the original article to prefer the MV ghouls over the MM1
-ones. The ones from this book pair well with the MV versions.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/05/ghoul.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/05/ghoul.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
