@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-nerra.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is the first I've heard of Nerras, though it's possible they originated in
 a previous edition. If they did, their lore was completely different.
 
@@ -231,3 +242,5 @@ nerra buddies, so you're going to meet them alone at the start of a
 nerra-focused story arc. They might be accompanied by local agents or
 mecernaries. The others are all of a level range where you can use them to build
 all-nerra encounter groups.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
