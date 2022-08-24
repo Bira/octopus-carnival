@@ -85,6 +85,9 @@ entries.
   - [Hag][50]
   - [Howler][51]
 
+- I
+  - [Imix][52]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -137,3 +140,4 @@ entries.
 [49]: {{ "/2022/08/19/gremlin.html" | relative_url }}
 [50]: {{ "/2022/08/20/hag.html" | relative_url }}
 [51]: {{ "/2022/08/22/howler.html" | relative_url }}
+[52]: {{ "/2022/08/24/imix.html" | relative_url }}
