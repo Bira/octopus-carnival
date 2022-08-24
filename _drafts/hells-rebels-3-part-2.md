@@ -15,13 +15,13 @@ chapters of the book. Let's aim for two more here.
 
 Vyre is a city located in the same province as Kintargo. There's a whole
 mini-guide on it attached to the book, but the only thing we really need to know
-is that it's pretty much Fucked-Up Venice.
+is that it's pretty much Fucked-Up Fantasy Venice.
 
 Though technically part of Cheliax, Vyre is almost entirely independent. Cheliax
-tolerates this because Fucked-Up Venice is a prime vacation destination for
-Chelish elites. On the other hand, Vyre's slice of coast makes for a shitty
-port, so they're almost entirely reliant on nearby Kintargo for the sea trade
-that gets them most of their food and luxuries.
+tolerates this because the city is a prime vacation destination for Chelish
+elites. On the other hand, Vyre's slice of coast makes for a shitty port, so
+they're almost entirely reliant on nearby Kintargo for the sea trade that gets
+them most of their food and luxuries.
 
 Vyre's government is extremely self-interested, but Cheliax has good reasons to
 maintain good relations with them, and they have good reasons to maintain good
@@ -46,10 +46,11 @@ back to her, and will provide a lot of insider information and help.
 
 Vyre is ruled by five monarchs, each tasked with an aspect of government. The
 one they want to meet is the Queen of Delights, who runs the city's economy and
-is its main diplomat. Its laws are simple yet baroque, creating an environment
-where non-lethal duels and eternal feuds are common, all sales are final, but
-prejudice of any sort is frowned upon. However, you can get away with anything
-if you follow the last and most important rule: don't get caught doing it.
+is its main diplomat. Vyre's laws are simple yet baroque, creating an
+environment where non-lethal duels and eternal feuds are common, all sales are
+final, but prejudice of any sort is frowned upon. However, you can get away with
+anything if you follow the last and most important rule: don't get caught doing
+it.
 
 The Queen of Delights is set to host a banquet in the near future, and that will
 be the PCs' opportunity to talk to her. The GM determines how long the PCs have
@@ -91,9 +92,10 @@ dress, what gifts they bring, and whether or not they participate in a standing
 ovation when the Queen appears (they should!). After that they must pass skill
 tests to correctly eat each bizarre dish in the banquet, or to make a good
 impression during the conversation that accompanies each dish. The GM can have a
-lot of fun emphasizing the weirdness of the dishes, which are described in
-detail in the book. Each successful test brings banquet points. Bad failures can
-subtract them. PCs can excuse themselves from some of the tests, but not all.
+lot of fun emphasizing the weirdness or horribleness of the dishes, which are
+described in detail in the book. Each successful test brings banquet points. Bad
+failures can subtract them. PCs can excuse themselves from some of the tests,
+but not all.
 
 Whether Vyre allies with the Silver Ravens or not depends entirely on how many
 banquet points the characters manage to get. They need at least 20. A party of 5
@@ -116,14 +118,14 @@ keeping it.
 The downside when using GURPS is that if your PCs are overly focused on dungeon
 delving they might not have the skills necessary to cause a good impression
 here. In this case I suggest being generous and using the same tactic as the
-original module: asking for tests from skills at least one delver would have at
-a good level, even when GURPS recommends another skill none of them have.
+original module: if none of the delvers has the most appropriate skill, ask for
+a roll on the closest skill one of them does have.
 
 ## Part 4: Breaking the Menador Gap
 
 
 The Menador Gap is a mountain pass in the mountains separating Ravounel from
-central Cheliax. It's the only workable route for marching an army through those
+central Cheliax. It's the only viable route for marching an army through those
 mountains, so it must be closed. The PCs start the adventure at level 7, and the
 book says they should be level 8 before tackling this chapter.
 
@@ -135,7 +137,7 @@ is to get to that mechanism, activate it, and get out. This will demolish the
 fort in a way that ensures the pass is completely closed.
 
 It's theoretically possible to demolish the fort from a distance using spells
-like Earthquare, but a) this might not block the pass completely and b) it will
+like Earthquake, but a) this might not block the pass completely and b) it will
 bury all the sweet loot located inside the fortress.
 
 ### Dungeon: Menador Gap
@@ -147,19 +149,24 @@ utility/storage rooms, and a couple of monster pens.
 
 The fort is defended by a garrison of 23 soldiers, commanded by Lucien Thrune, a
 wyvern-riding cavalier. He also has a bound erinyes devil with him, and a very
-unhappy bound jann servant. The soldiers are somewhat weak individually, but
-dangerous in large groups. They wear mail and are armed with halberds and
-crossbows, favoring ranged attacks over melee.
+unhappy bound jann servant. Another devil acts as a stationary sentry at the
+entrance to the treasury. The soldiers are weak individually, but dangerous in
+large groups. They wear mail and are armed with halberds and crossbows, favoring
+ranged attacks over melee.
 
 The best way to handle this might be as a Metal Gear-like stealth mission. The
-PCs are very likely to have the necessary magic to invisibly levitate to the top
-of the fort's battlements and being their infiltration from there. Even a more
-obvious assault would benefit from using that as an opening move, since it makes
-it harder for the guards to snipe the delvers with ballistas. Clever PCs might
-also find the entrance to the wyvern's den down on the cliffside and use the
-Flight+Invisibility combo to enter through there. The third-best option is for
-them to disguise themselves as someone authorized to cross the Gap and ride into
-the courtyard, from which they can force their way into the fort.
+PCs are very likely to have the necessary magic to turn the whole party
+invisible and levitate them for a short time. Clever PCs might find the entrnce
+to the wyvern's stable down on the cliffside and enter through there, bypassing
+a lot of the security measures on the surface. The same technique might allow
+them to land atop the fort's battlements and begin from there, bypassing the
+courtyard kill box. Even if they immediately go loud and begin a frontal
+assault, they'll begin doing that from a hugely advantageous position.
+
+The third-best option is for them to disguise themselves as someone authorized
+to cross the Gap and ride into the courtyard, from which they can force their
+way into the fort. It's less than ideal because they can be targetted by
+crossbow and ballista fire from the battlements.
 
 Starting an overt assault will sound a general alert and have every soldier
 converge on the party's position. It's easier to deal with them piecemeal,
@@ -168,7 +175,7 @@ out. Stealth might also allow the party to fight the "elites" (Lucien, his
 wyvern, the erinyes) while they're alone and isolated. The jann servant,
 Zorumar, is a potential ally here. He can't do anything against his master
 directly, but he can give all sorts of information about enemy locations and the
-layout of the fort, including any secret doors. Killing Lucien will set him
+layout of the fort, including any secret doors. Killing Lucien will set Zorumar
 free, and he will return in the future to gift the party with magic items in
 thanks.
 
@@ -176,10 +183,11 @@ There's a secret door in the fort's armory leading to the ancient dwarven
 mechanism in the "basement" level. The only one of its current inhabitants who
 knows about this is Zorumar.  The device, called the Anvil of Unmaking, is
 protected by ancient guardians and traps, some of which can be bypassed by
-proper prayers to the dwarf god Torag and by diplomacy. Activating it will cause
-it to completely destroy the fortress in 10 minutes. The PCs have that long to
-run away and get clear. Also the tremors and rumbling will definitely put every
-remaining enemy in the place on high alert, if they weren't already.
+proper prayers to the dwarf god Torag and by diplomacy. Activating the
+contraption will cause it to completely destroy the fortress in 10 minutes. The
+PCs have that long to run away and get clear. Also the tremors and rumbling will
+definitely put every remaining enemy in the place on high alert, if they weren't
+already.
 
 Loot-wise, the most valuable places to hit here are the treasury (obviously),
 the war room, and Lucien Thrune's person. Lucien has a sweet flaming sword, lots

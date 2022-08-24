@@ -7,6 +7,15 @@ tags
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is the start of a series! Go to the [project page][2] to see all entries.
+
+
 It's been quite a while since I posted an article on this series! There are
 several reasons for this, both real-world and blog-related. One of the latter
 ones was that these adventures were getting _bigger_. The detailed approach I
@@ -281,3 +290,4 @@ Next up: a feast and a fort.
 
 
 [1]: https://en.wikipedia.org/wiki/Umib%C5%8Dzu
+[2]: {{ "/projects/hells-rebels/" | relative_url }}
