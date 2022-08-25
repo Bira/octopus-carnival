@@ -49,6 +49,10 @@ This is an ongoing project. These are the posts that comprise it:
     - [Part 4: Conclusion][12] covers the final "cutscene" and the main ways in
       which it can go off the rails due to unforeseen PC badassitude.
 
+- **Dance of the Damned**: The third adventure.
+
+    - [Part 1][13]: A council and a fish.
+
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
@@ -61,3 +65,4 @@ This is an ongoing project. These are the posts that comprise it:
 [10]: {{ "/2019/01/28/hells-rebels-2-part-3-part-1.html" | relative_url }}
 [11]: {{ "/2019/06/05/hells-rebels.html" | relative_url }}
 [12]: {{ "/2019/08/01/hells-rebels.html" | relative_url }}
+[13]: {{ "/2022/08/25/hells-rebels-3-part-1.html" | relative_url }}
