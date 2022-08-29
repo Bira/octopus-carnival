@@ -45,8 +45,8 @@ back to her, and will provide a lot of insider information and help.
 ### The Basics
 
 Vyre is ruled by five monarchs, each tasked with an aspect of government. The
-one they want to meet is the Queen of Delights, who runs the city's economy and
-is its main diplomat. Vyre's laws are simple yet baroque, creating an
+one they want to meet is the Queen of Delights, who is in charge of the city's
+economy and foreign relations. Vyre's laws are simple yet baroque, creating an
 environment where non-lethal duels and eternal feuds are common, all sales are
 final, but prejudice of any sort is frowned upon. However, you can get away with
 anything if you follow the last and most important rule: don't get caught doing
@@ -83,7 +83,7 @@ the PCs for stealing "her home". She's here to size them up for future reprisal.
 
 The other "special" guest, not counted among those nine, is the Queen's long
 dead husband, whose skeleton adorns one of the table's chairs. The correct move
-here is to not acknowledge poor Gomez in any way.
+here is to not acknowledge poor Gomez in any way. To do so is considered crass.
 
 While roleplaying should be first and foremost in this scene it also has a
 mechanical component. The banquet is effectivelly a long and colorful skill
@@ -92,7 +92,7 @@ dress, what gifts they bring, and whether or not they participate in a standing
 ovation when the Queen appears (they should!). After that they must pass skill
 tests to correctly eat each bizarre dish in the banquet, or to make a good
 impression during the conversation that accompanies each dish. The GM can have a
-lot of fun emphasizing the weirdness or horribleness of the dishes, which are
+lot of fun emphasizing the weird and sometimes horrible of the dishes, which are
 described in detail in the book. Each successful test brings banquet points. Bad
 failures can subtract them. PCs can excuse themselves from some of the tests,
 but not all.
@@ -119,7 +119,10 @@ The downside when using GURPS is that if your PCs are overly focused on dungeon
 delving they might not have the skills necessary to cause a good impression
 here. In this case I suggest being generous and using the same tactic as the
 original module: if none of the delvers has the most appropriate skill, ask for
-a roll on the closest skill one of them does have.
+a roll on the closest skill one of them does have. That said, characters who
+followed the tips from the [Player's Guide][2] or who used earned points to
+become a bit sneakier and more social shouldn't have too much trouble covering
+their bases.
 
 ## Part 4: Breaking the Menador Gap
 
@@ -207,3 +210,5 @@ that raising the alarm is not an automatic action. It a single guard spots the
 PCs, the rest of the fortress won't automatically know they're there. An alarm
 must be raised, which takes time and is susceptible to disruption from the
 PCs.
+
+[2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
