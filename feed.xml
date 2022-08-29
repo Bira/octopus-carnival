@@ -6,12 +6,256 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Aug 2022 23:04:28 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Aug 2022 23:04:28 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2022 14:49:26 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2022 14:49:26 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title></title>
+        <title>Let's Read the 4e Monster Manual 3: Imix, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-imix-cultists.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;In this post we’ll take a look at the kind of people who make up Imix’s cult in
+the middle world. As mentioned in &lt;a href=&quot;/2022/08/24/imix.html&quot;&gt;Part 1&lt;/a&gt;, the cult promises to give its
+adherents the power to burn all that angers them, so it draws in all sorts of
+misanthropes, murderers, and people with all-consuming grudges. Rising through
+the cult’s ranks means allowing your free will to be burned out piece by
+piece. No matter your reasons for joining, soon all you’ll care about is serving
+your primordial master.&lt;/p&gt;
+
+&lt;p&gt;Cultists of Imix can act covertly, infiltrating peaceful communities to sow
+sedition and discord. They can also act more openly, establishing strongholds
+and calling out to both recruits and mercenaries to help conquer the surrounding
+regions, immolating anyone who opposes them.&lt;/p&gt;
+
+&lt;p&gt;The cultist lineup here is pretty diverse, species-wise, for the Fire Lord isn’t
+picky like those posers Yeenoghu and Baphomet. He’ll find a use for anyone
+willing to swear the oaths, even if that use is “walking bomb”. These stat
+blocks should be mixed with more “generic” stat blocks for humans and other
+humanoid or elemental opposition to build Imix-themed encounter groups. They’re
+not enough to do so on their own.&lt;/p&gt;
+
+&lt;h2 id=&quot;fire-lord-cultist&quot;&gt;Fire Lord Cultist&lt;/h2&gt;
+
+&lt;p&gt;This Level 5 Minion Brute represents the bulk of the cult’s low-ranking
+followers. They have a speed of 6 and fight with torches and &lt;strong&gt;clubs&lt;/strong&gt;. Their
+melee attacks deal extra damage if they’re adjacent to an ally, so they have an
+incentive to cluster around a PC.&lt;/p&gt;
+
+&lt;p&gt;They can also use that torch in the &lt;strong&gt;Ignite&lt;/strong&gt; ability. This encounter power is
+a melee attack that targets Reflex and deals ongoing 5 fire damage (save
+ends). Make sure this is their first attack, because they might not get a chance
+to use it otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;servant-of-the-fire-lord&quot;&gt;Servant of the Fire Lord&lt;/h2&gt;
+
+&lt;p&gt;A more senior and better-trained cultist. Servants of the Fire Lord tend to hide
+out in sapient communities disguised as clerics of more benign deities. They use
+this cover to undermine the community and spread Imix’s influence over it.&lt;/p&gt;
+
+&lt;p&gt;The Servant stat block depicts a half-elf. It’s a Level 6 Skirmisher with the
+Leader tag and 73 HP. Their ground speed is 6 and they have low-light vision.&lt;/p&gt;
+
+&lt;p&gt;Servants try to always keep moving in order to benefit from their &lt;strong&gt;Wildfire
+Stride&lt;/strong&gt; passive trait: if they move at least 3 squares, their attacks deal +5
+fire damage for a turn.&lt;/p&gt;
+
+&lt;p&gt;They wield &lt;strong&gt;scimitars&lt;/strong&gt; that can perform a standard basic attack and an
+&lt;strong&gt;Immolating Strike&lt;/strong&gt;, which is a bit weaker but deals ongoing 5 fire damage
+(save ends). The basic strike itself is also kinda weak - it’s the Wildfire
+Stride damage bonus that brings it to the expected level of damage.&lt;/p&gt;
+
+&lt;p&gt;Their “leaderly” skill is the &lt;strong&gt;Gift of Fire&lt;/strong&gt; (recharge 5+), a minor action
+that gives every ally within 5 squares a +5 fire damage bonus that lasts for a
+turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;fire-temple-elect&quot;&gt;Fire Temple Elect&lt;/h2&gt;
+
+&lt;p&gt;The name sounds important, but that’s a lie. Fire Temple Elects are cultists who
+had all of their will burned away but didn’t have the potential to master Imix’s
+mysteries. They proudly serve their master as walking bombs.&lt;/p&gt;
+
+&lt;p&gt;Elects are Level 7 Minion Skirmishers with an excellent ground speed of 7. They
+employ human wave tactics, charging enemies with their &lt;strong&gt;shortwswords&lt;/strong&gt;. When an
+elect drops to 0 HP, they trigger the &lt;strong&gt;Self-Immolation&lt;/strong&gt; ability. When this
+happens the elect can move its speed as a free action, and then explode. This is
+a Close Burst 1 attack that targets Reflex and deals a bit of fire damage. It’s
+not selective, so if you have a bunch of elects close together the first one to
+get hit might trigger a chain reaction.&lt;/p&gt;
+
+&lt;h2 id=&quot;fire-temple-champion&quot;&gt;Fire Temple Champion&lt;/h2&gt;
+
+&lt;p&gt;This one’s actually important. Champions also have little of their free will
+left, but unlike the Elects they were tough enough to handle a more substantial
+blessing. They’re tasked with protecting key locations and important
+individuals. I can also see them leading mercenary squads in operations
+important to the cult.&lt;/p&gt;
+
+&lt;p&gt;The stat block in the book is for a dragonborn Champion, a Level 8 Soldier with
+88 HP. She wears plate and wields a Fullblade (a big two-handed sword).&lt;/p&gt;
+
+&lt;p&gt;The Champion has the same &lt;strong&gt;Wildfire Stride&lt;/strong&gt; ability seen in the Servant of the
+Fire Lord, above. Her &lt;strong&gt;fullblade&lt;/strong&gt; attacks mark for a turn, and do damage
+that’s only a couple of points below the expected average - Wildfire Stride
+makes them stronger than that average. If a marked enemy within reach moves on
+their turn, the Champion can use a &lt;strong&gt;Fiery Attack&lt;/strong&gt; against them, dealing the
+same damage as a basic attack and inflicting ongoing 5 fire damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;If that marked enemy instead makes an attack that doesn’t include the champion
+as a target, she can use a &lt;strong&gt;Fiery Rebuke&lt;/strong&gt;, a Close Blast 3 attack that targets
+only the triggering enemy, attacks Reflex and deals fire damage.&lt;/p&gt;
+
+&lt;p&gt;And as a dragonborn, this particular champion also has one use of &lt;strong&gt;Dragon
+Breath&lt;/strong&gt; per encounter. It works like the power for Dragonborn PCs, a Close
+Blast 3 that targets Reflex. It obviously deals fire damage, and marks those it
+hits.&lt;/p&gt;
+
+&lt;h2 id=&quot;flameborn&quot;&gt;Flameborn&lt;/h2&gt;
+
+&lt;p&gt;Flameborn are priests who have attained sufficient rank to run a small
+temple/stronghold, with the goal of making it grow larger and more
+important. They’re ultimately in charge of those recruitment drives and raiding
+campaigns I mentioned earlier. In other words they’re accomplished middle
+managers.&lt;/p&gt;
+
+&lt;p&gt;The stat block we get is a human priest, who is Level 15 Artillery with 111 HP
+and the Leader keyword. They have Speed 6 and Resist 10 Fire, the first Imix
+cultists actually resistant to their thematic element. They project an aura (5)
+named &lt;strong&gt;Fire Within&lt;/strong&gt;, which grants Resist 5 Fire to all allies inside.&lt;/p&gt;
+
+&lt;p&gt;Flameborn with with &lt;strong&gt;flails&lt;/strong&gt; in melee and with &lt;strong&gt;fire bolts&lt;/strong&gt; at range. The
+bolts also inflict ongoing fire damage. Once per encounter they can call down
+the &lt;strong&gt;Blessing of Imix&lt;/strong&gt;, which covers a Close Burst 3. It acts as an attack
+dealing fire damage to enemies, and grands allies 10 temporary HP.&lt;/p&gt;
+
+&lt;p&gt;Their final power is a minor action, &lt;strong&gt;Fiery Eye&lt;/strong&gt;, which can target targets
+taking ongoing fire damage. It’s a rangged attack against Will that does no
+damage, slides the target 2 squares, and makes them grant combat advantage (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;Flameborn pair well with skirmishers that possess sneak-attack-like
+abilities. They can also grant fire resistance to their front-line without
+having to stand right behind it.&lt;/p&gt;
+
+&lt;h2 id=&quot;conflagration-orb&quot;&gt;Conflagration Orb&lt;/h2&gt;
+
+&lt;p&gt;This is not a cultist, but rather something they might summon with high-level
+rituals. Conflagration Orbs are avatars of Imix, and look like miniature suns.
+They contain a fragment of Imix’s power and are loyal only to him. They’ll work
+alongside the cultists that summon them, because the cult’s goals usually
+coincide with the primordial’s, but they are totally unconcerned with the safety
+of the cultists and will happily include them in their area attacks if it means
+hitting the PCs as well.&lt;/p&gt;
+
+&lt;p&gt;It’s interesting that the book uses the word avatar here. It appears to be a
+primordial-specific term, since the equivalent entity for a god or demon lord is
+called an “Aspect”. Then again it could also be just an editorial oversight.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Conflagration Orbs are Level 20 Artillery with 143 HP. They can roll
+around at speed 6, but prefer to use their flight speed of 8 (hover)
+instead. They’re immune to disease and have Resist 20 Fire. Its basic melee
+attack is named &lt;strong&gt;Rolling Frame&lt;/strong&gt;, and consists of bumping into people. The
+attack allows the orb to shift 1 square as an effect, targets Reflex, and deals
+immediate and ongoing fire damage. Its ranged &lt;strong&gt;Scorching Bolts&lt;/strong&gt; have much the
+same effects but are stronger, and the orb can fire two of them against
+different targets in a single action.&lt;/p&gt;
+
+&lt;p&gt;The orb complements this with occasional &lt;strong&gt;Fire Tempests&lt;/strong&gt; (recharge 5+) which
+allow them to make three area attacks that deal fire damage and increase any
+ongoing fire damage the targets are suffering by 5. The three areas can’t have
+any squares in common.&lt;/p&gt;
+
+&lt;p&gt;If the orb is surrounded it can release &lt;strong&gt;Waves of Flame&lt;/strong&gt; to get some
+space. This deals fire damage in a Close Burst 3, and pushes any targets it hits
+3 squares. It also creates a zone that lasts for a turn, partially obscures the
+orb, and deals 10 fire damage to enemies caught inside.&lt;/p&gt;
+
+&lt;p&gt;Scorching Bolt and Fire Tempest are very strong powers, because they’re
+multi-attacks that each do the full expected damage amount for a monster of this
+level. The orb can’t target the same enemy multiple times, but it’s still very
+good at spreading the hurt around.&lt;/p&gt;
+
+&lt;h2 id=&quot;chosen-of-imix&quot;&gt;Chosen of Imix&lt;/h2&gt;
+
+&lt;p&gt;The Chosen are the highest ranking priests in the cult. Each of them is in
+charge of a major temple and commands a sizable force of mortal followers,
+mercenaries, and elemental servants. They commune directly with Imix and
+transmit his orders to the other members of the court. This particular Chosen is
+a firesoul genasi.&lt;/p&gt;
+
+&lt;p&gt;Chosen rarely leave their temple’s inner sanctum, as this is where their power
+is greatest. The book recommends making these sanctums into Fonts of Power, a
+special terrain type described in the DMG that enhances the damage of attacks
+that have a matching elemental keyword (fire, in this case). Since the Chosen is
+an epic tier enemy, they’ll be fighting in terrain that gives their fire attacks
+a whopping +15 bonus damage! PCs planning to attack a temple of Imix would do
+well to figure out a way to engage the Chosen outside this sanctum.&lt;/p&gt;
+
+&lt;p&gt;Chosen are Level 22 Controllers with the Leader keyword. They have a stronger
+version of the Flameborn’s Fire Within aura, granting 10 fire resistance to all
+allies within 5 squares. Their basic melee attack is a &lt;strong&gt;dagger&lt;/strong&gt; that damages
+targets and makes them vulnerable 10 to fire for a turn. Pretty much ever other
+attack they know  has the Fire keyword, so they’re going to benefit from this
+vulnerability &lt;em&gt;and&lt;/em&gt; from that Font of Power bonus damage.&lt;/p&gt;
+
+&lt;p&gt;Their basic ranged attack is a &lt;strong&gt;Fire Orb&lt;/strong&gt; that deals fire damage to the
+target, and 5 damage to each enemy adjacent to the target. Before they resort to
+that, though, they’ll fill the map with &lt;strong&gt;Servants of Elemental Fire&lt;/strong&gt;. This
+power is a standard action that summons a “fire grue” to a space within 10
+squares of the Chosen. Fire grues are minions with the same defenses as the
+Chosen. They can’t make attacks, but each enemy that starts their turn adjacent
+to one or more grues takes 10 fire damage (subject to those situational bonuses
+I mentioned earlier). The Chosen can spend a minor action to move all grues on
+the map up to 6 squares. They can have up to four grues summoned, or six when
+they’re bloodied.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can use &lt;strong&gt;Fire’s Fury&lt;/strong&gt; to detonate a fire grue,
+attacking a Close Burst 1 around it. The explosion deals fire damage and dazes
+(save ends) on a hit.&lt;/p&gt;
+
+&lt;p&gt;To cap it off we have a few triggered actions. &lt;strong&gt;Demand Focus&lt;/strong&gt; triggers when an
+enemy willingly moves away from a fire grue without shifting. It attacks the
+enemy’s Will and slows them on a hit. &lt;strong&gt;Firepulse&lt;/strong&gt; is an encounter power that
+triggers when the chosen is hit in melee, and it’s basically a Close Burst 1
+fire attack. Finally, when the Chosen is reduced to 0 HP, they’re &lt;strong&gt;Claimed by
+Imix&lt;/strong&gt;, and explode in a Close Burst 3 dealing fire damage and dazing (save
+ends) on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounter-groups-and-final-impressions&quot;&gt;Encounter Groups and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These cultists weren’t all made to be used together. They’re too far apart in
+terms of level for that. Instead, they’re made to be added as “spice” to a group
+of other non-themed opponents of similar levels. These would represent
+mercenaries, or lower-ranking cultists that don’t necessarily have all these
+fire-based blessings. Good candidates include the many Human stat blocks,
+elementals, the occasional demon, and even some undead if you want to replicate
+the spread found in the Temple of Elemental Evil.&lt;/p&gt;
+
+&lt;p&gt;There are plenty of fire-themed monsters in all of those categories, but it’s
+more interesting if you vary the composition of Team Monster and include some
+members who rely on untyped damage or other damage types. It will prevent your
+PCs from trivializing these encounters by stacking fire protection.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/29/imix-part-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/29/imix-part-02.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Hell's Rebels Adventure 03, Part 01</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
 &lt;/figure&gt;
@@ -297,9 +541,15 @@ NPC teams might do, freeing the PCs up for the other scenes.&lt;/p&gt;
 &lt;p&gt;Next up: a feast and a fort.&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 25 Aug 2022 23:04:28 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/25/2022-08-25-hells-rebels-3-part-1.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/25/2022-08-25-hells-rebels-3-part-1.html</guid>
+        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/08/25/hells-rebels-3-part-1.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/25/hells-rebels-3-part-1.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
         
         
       </item>
@@ -1261,128 +1511,6 @@ titan.&lt;/p&gt;
         <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/08/12/giant-hill.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/12/giant-hill.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Giant, Frost</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-giant-frost.png&quot; width=800/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;You know the drill by now - Frost Giants appeared in the MM1 and were about to
-get rewritten with new math on the Monster Vault. The MM3 brings in an
-assortment of them that can complement the “basic” entries in the MV. You can
-look at those basic entries &lt;a href=&quot;/octopus-carnival/2020/04/04/frost-giants.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Frost giant lore remains the same. They’re plus-sized asshole vikings who like
-to live in cold regions, fight with a variety of axes, and use lots of ice
-magic. Some think this behavior is in service of a greater plan laid down by
-their primordial masters, but that might be reaching a bit.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Frost Giants are Large Elemental Humanoids with the Cold and Giant
-keywords. Their signature trait remains &lt;strong&gt;Icebound Footing&lt;/strong&gt;, which reduces any
-forced movement imposed on them by 2 squares and can reduce it to 0. They can
-also roll a save to avoid being knocked prone. They have Resist 15 Cold, and
-their ground speed is 8 with Ice Walk, which allows them to ignore ice or
-snow-based difficult terrain.&lt;/p&gt;
-
-&lt;h3 id=&quot;frost-giant-berserker&quot;&gt;Frost Giant Berserker&lt;/h3&gt;
-
-&lt;p&gt;You’d expect someone with “Berserker” in its name to be a Brute, but these are
-Level 16 Skirmishers with 157 HP. The book describes them as those hot-headed
-youngsters who are too undisciplined to fight like proper brutes and instead
-keep running around the battlefield.&lt;/p&gt;
-
-&lt;p&gt;They fight with &lt;strong&gt;Freezing Greataxes&lt;/strong&gt;, which do a mix of physical and cold
-damage. They can also make a &lt;strong&gt;Storm Charge&lt;/strong&gt; that doesn’t provoke opportunity
-attacks from its movement and deals heavy physical damage. Once per encounter,
-the berserker can use its &lt;strong&gt;Primordial Rage&lt;/strong&gt; to shift its speed and make three
-basic attacks along the way, each against a different target. A bit more often
-(recharge 4+) they can take a &lt;strong&gt;Giant Stride&lt;/strong&gt; to shift 6 squares and move
-through enemy spaces while doing so.&lt;/p&gt;
-
-&lt;p&gt;These giants are perfect for running right past the party’s defenders and
-harassing their squishies. For extra annoyance, stage the fight in a map full of
-ice-based difficult terrain, which doesn’t affect frost giants but makes it
-harder for those defenders to reposition.&lt;/p&gt;
-
-&lt;h3 id=&quot;frost-giant-shield-bearer&quot;&gt;Frost Giant Shield Bearer&lt;/h3&gt;
-
-&lt;p&gt;Shield bearers are the opposite of berserkers. They’re the hardened veterans who
-get the best gear and the best training. This makes them suitable to form the
-core of a raiding party, or a lord’s honor guard. They’re huscarls.&lt;/p&gt;
-
-&lt;p&gt;Shield bearers are Level 18 Soldiers with 174 HP. They’re heavily armored and,
-as the name implies, are just about the only frost giants who carry
-shields. They still wield axes, though.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Coordinated Attack&lt;/strong&gt; ability gives them combat advantage against any
-enemy that has another shield bearer adjacent to them, no flanking
-required. Their &lt;strong&gt;Icy Battleaxes&lt;/strong&gt; do cold damage and mark for a turn. Once per
-encounter they can enhance an attack and turn it into a &lt;strong&gt;Protective Strike&lt;/strong&gt;,
-which deals 10 extra cold damage and grants 25 temporary HP to an ally within 10
-squares.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;Defensive Stand&lt;/strong&gt; allows them spend a minor action to choose an enemy
-within 10 squares. If that enemy moves within reach before the end of the shield
-bearer’s next turn, the shield bearer gets a free attack against that
-enemy. It’s not an opportunity attack, so it should work with shifts or other
-forms of movement too.&lt;/p&gt;
-
-&lt;p&gt;They’re all set up to fight in tight formations and hold ground, which means
-they go well with artillery and ranged controllers.&lt;/p&gt;
-
-&lt;h3 id=&quot;frost-giant-chieftain&quot;&gt;Frost Giant Chieftain&lt;/h3&gt;
-
-&lt;p&gt;Any frost giant community not led by a titan will likely be led by one of
-these. This chieftain is a Level 20 Controller with 190 HP. He has an
-&lt;strong&gt;Emanating Cold&lt;/strong&gt; aura (2) that makes enemies inside grant combat advantage to
-cold creatures (i.e, frost giants and any monsters that are likely to tag along
-with them).&lt;/p&gt;
-
-&lt;p&gt;The chieftain fights with an &lt;strong&gt;Icy Greataxe&lt;/strong&gt; that does cold damage, and can
-attack at range with a &lt;strong&gt;Eye of the Storm&lt;/strong&gt; spell that does immediate and
-ongoing cold damage in addition to slowing the target.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the chieftan can create a Medium or Large &lt;strong&gt;Pillar of Ice&lt;/strong&gt;
-within ten squares. The pillar lasts for a turn and “occupies” its space,
-meaning no one can move through. It blocks line of sight and slows anyone who
-starts their turn next to it.&lt;/p&gt;
-
-&lt;p&gt;The chieftain can also cast a spell named &lt;strong&gt;Grip of Winter&lt;/strong&gt; that creates a zone
-that slows and deals cold damage to those inside. The zone lasts for the whole
-encounter and the power recharges once the chieftain is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Here’s your ranged controller to go with the shield bearers. Chieftains should
-stay behind a line of their bodyguards, making the already difficult terrain of
-the icy battlefield even worse with ice pillars and slowing attacks. Then you
-release the berserkers to step over all that and hit the PC’s back ranks.&lt;/p&gt;
-
-&lt;h3 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h3&gt;
-
-&lt;p&gt;I like giants in general, so I like these MM3 giant entries even though they
-don’t include much new lore. The trio presented here has nice mechanical synergy
-and should also be fun to use with the frost giants from the MV.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/10/giant-frost.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/10/giant-frost.html</guid>
         
         <category>dnd4</category>
         
