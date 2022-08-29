@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's Read Hell's Rebels Adventure 03, Part 01"
-tags
+tags:
     - pathfinder
     - gurps
     - lets-read
