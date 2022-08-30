@@ -25,10 +25,10 @@ the end of the dungeon on volume 2, where it originally was.
 I've seen blog posts in the past "condensing" these adventure paths by removing
 all the filler and making them as direct as possible. This is very useful when
 you're running them in a different system like GURPS Dungeon Fantasy, where
-XP comes exclusively from fulfilling goals instead of from fights. It's also
-excellent when you're using the native system with milestone advancement instead
-of a XP tally. That way you just advance the PCs to the proper level at the
-right times, so it doesn't matter if you take the filler out.
+characters start out powerful and don't necessarily gain XP from fights. It's
+also excellent when you're using the native system with milestone advancement
+instead of a XP tally. That way you just advance the PCs to the proper level at
+the right times, so it doesn't matter if you take the filler out.
 
 In this post, I'll try to do this with with the first volume of Hell's Rebels,
 the one with the ridiculous title of "In Hell's Bright Shadow".
@@ -66,10 +66,11 @@ speed.
   after the salt works. Alternatively, the underground level is just empty apart
   from Blosodriette, and the PCs can recover the loot here unopposed.
 
-- Blosodriette hitches a ride like in the original, though it's quite possible a
-  holy warrior's detect evil ability or some other magic might reveal her
-  presence early. If this happens, roll with it and have her try to fight or
-  bargain with the PCs immediately.
+- Blosodriette hitches a ride like in the original. If you don't want to deal
+  with her extended sabotage later on, you can ensure the PCs find her here,
+  which will cause her to immediately try to bargain with or kill the PCs. This
+  early detection might even happen by itself if the party has PCs with
+  abilities like Detect (Evil) or Detect (Demons).
 
 ## Part 2
 

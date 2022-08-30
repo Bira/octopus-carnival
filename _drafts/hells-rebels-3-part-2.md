@@ -99,8 +99,10 @@ but not all.
 
 Whether Vyre allies with the Silver Ravens or not depends entirely on how many
 banquet points the characters manage to get. They need at least 20. A party of 5
-who arrives properly dressed will start out with 10, so some risk-taking might
-be necessary during the proceedings.
+who arrives properly dressed will start out with 10, and might get a few more
+from bringing optimal gifts. Even so, they will still need to take active part
+in the banquet and the attending skill challenge in order to succeed at the
+mission.
 
 If the party succeeds, the Queen might invite the individual who gained them the
 most points for an intimate night. Ties go to the prettiest or most charismatic
@@ -111,9 +113,9 @@ to the strategic rebellion layer.
 
 ### Notes and Impressions
 
-This part is quite fun and very different than what you would expect from a
-standard dungeon fantasy adventure. Even in a condensed approach I'd recommend
-keeping it.
+This part is very different than what you would expect from a standard dungeon
+fantasy adventure. It can be really fun for PCs who like role-playing, so even
+in a condensed approach I'd recommend keeping it.
 
 The downside when using GURPS is that if your PCs are overly focused on dungeon
 delving they might not have the skills necessary to cause a good impression
@@ -175,12 +177,11 @@ Starting an overt assault will sound a general alert and have every soldier
 converge on the party's position. It's easier to deal with them piecemeal,
 though that might require magic to prevent the sounds of fighting from spilling
 out. Stealth might also allow the party to fight the "elites" (Lucien, his
-wyvern, the erinyes) while they're alone and isolated. The jann servant,
-Zorumar, is a potential ally here. He can't do anything against his master
-directly, but he can give all sorts of information about enemy locations and the
-layout of the fort, including any secret doors. Killing Lucien will set Zorumar
-free, and he will return in the future to gift the party with magic items in
-thanks.
+wyvern, the devils) while they're alone and isolated. The jann servant, Zorumar,
+is a potential ally here. He can't do anything against his master directly, but
+he can give all sorts of information about enemy locations and the layout of the
+fort, including all secret doors. Killing Lucien will set Zorumar free, and he
+will return in the future to gift the party with magic items in thanks.
 
 There's a secret door in the fort's armory leading to the ancient dwarven
 mechanism in the "basement" level. The only one of its current inhabitants who
@@ -206,9 +207,8 @@ wonderfully chaotic battle if the PCs trip the alarm. It's likely to be the most
 time-consuming scene in the entire adventure.
 
 I suggest playing the enemies with a modicum of intelligence here, but remember
-that raising the alarm is not an automatic action. It a single guard spots the
+that raising the alarm is not an automatic action. If a single guard spots the
 PCs, the rest of the fortress won't automatically know they're there. An alarm
-must be raised, which takes time and is susceptible to disruption from the
-PCs.
+must be raised, which takes time and is susceptible to disruption from the PCs.
 
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}

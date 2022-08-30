@@ -86,7 +86,10 @@ entries.
   - [Howler][51]
 
 - I
-  - [Imix][52]
+  - Imix
+    - [Part 01][52]
+    - [Part 02][53]
+  - [Intellect Devourer][54]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -141,3 +144,5 @@ entries.
 [50]: {{ "/2022/08/20/hag.html" | relative_url }}
 [51]: {{ "/2022/08/22/howler.html" | relative_url }}
 [52]: {{ "/2022/08/24/imix.html" | relative_url }}
+[53]: {{ "/2022/08/29/imix-part-02.html" | relative_url }}
+[54]: {{ "/2022/08/30/intellect-devourer.html" | relative_url }}

@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-intellect-devourer.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 These brain-dog-looking things first appeared in the original AD&D Monster
 Manual. This is their 4e debut.
 
@@ -23,7 +34,7 @@ Predators. Predators who manage to feed well and survive long enough undergo a
 second metamorphosis into a larger and more powerful form, known as an Intellect
 Glutton or Brain Collector.
 
-Each for is smarter than the last, though even ustilagors are dimly
+Each form is smarter than the last, though even ustilagors are dimly
 sapient. Intellect devourers can communicate via telepathy, but they don't
 appear to have much in the way of a culture. They see other sapients as food,
 not as conversation partners.
@@ -138,7 +149,7 @@ them in a single fight, or things are going to get very annoying very
 fast. Save-granting powers and items are a vital tool when fighting them.
 
 Gluttons are actually a bit less annoying to handle since you can still attack
-then while they dominate someone. Mockery of Life is a wonderful power to use on
+them while they dominate someone. Mockery of Life is a wonderful power to use on
 dead artillery enemies after the PCs have moved away from the corpse.
 
 Intellect Devourers aren't exactly geniuses despite all the brain theming. They
@@ -149,3 +160,5 @@ troglodytes. Adult devourers might be allied with a balhannoth or with mind
 flayers, since they eat _thoughts_, not _brains_. And I could see a glutton
 making deals with a colony of swordwings: "I get their brains, you take their
 stuff".
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
