@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-jackalwere.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I believe jackalweres are another monster from the AD&D days, but this time
 around they get a new backstory.
 
@@ -110,3 +121,5 @@ in disguise, they'll hire mercenaries to provide additional protection and
 firepower. They prefer to hire half-orcs, goliaths and warforged for these jobs
 since they dislike the flesh of these species. This implies they find everyone
 else tasty.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
