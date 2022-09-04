@@ -6,9 +6,182 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 02 Sep 2022 01:04:30 +0000</pubDate>
-    <lastBuildDate>Fri, 02 Sep 2022 01:04:30 +0000</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2022 01:33:08 +0000</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2022 01:33:08 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Kraken</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-kraken.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Krakens have been in the game since AD&amp;amp;D, but here they get some extra lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;At the beginning of time, long before the creation of the first mortals, the
+Krakens escaped from the Far Realm and entered the middle world and the Astral
+Sea, trailing the debris of other broken worlds behind them.&lt;/p&gt;
+
+&lt;p&gt;They had a good time for a while, but then a great cataclysm (perhaps the Dawn
+War) scattered them. In our narrative present most of the surviving krakens are
+hidden in the deepest trenches of the middle world’s oceans, or slumbering in
+forgotten corners of the Astral. Every once in a while, though, one of them will
+leave these dark holes and once again wreak havoc.&lt;/p&gt;
+
+&lt;p&gt;These creatures are extremely intelligent, though their mentalities are very
+alien to mortals. They’re hostile to mortal sapients for incomprehensible
+reasons, and are drawn to wherever large groups of sapient minds can be
+found. When they emerge, groups of cultists soon gather around them, composed
+both of mortal worshippers and aberrant creatures. Krakens are more than smart
+enough to command and use these cults to help fulfill their destructive goals.&lt;/p&gt;
+
+&lt;p&gt;So yeah, Krakens are Great Old Ones.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;We have two varieties of kraken here. One is more geared towards the classic
+“giant squid attacks ship” scenario, and the other leans more on the Great Old
+One aesthetic. Both are Gargantuan Aberrant Magical Beasts.&lt;/p&gt;
+
+&lt;h3 id=&quot;sea-kraken&quot;&gt;Sea Kraken&lt;/h3&gt;
+
+&lt;p&gt;A kraken that lives in the seas of the middle world. It is said that terrible
+storms follow in their wake. They love to attack ships, and any vessel grabbed
+by a Sea Kraken is likely doomed unless it happens to be transporting a party of
+particularly badass adventurers.&lt;/p&gt;
+
+&lt;p&gt;Sea Krakens are Level 10 Solo Soldiers with 432 HP, which makes them a bit
+lower-level than I anticipated given their general lore. They have darkvision, a
+ground speed of 6, and a swim speed of 10. I think this makes them faster in
+water than most ships.&lt;/p&gt;
+
+&lt;p&gt;Sea Krakens are obviously &lt;strong&gt;Aquatic&lt;/strong&gt;, which means they can breathe underwater
+and gain a +2 attack bonus against non-aquatic creatures fighting them in the
+water. They also have &lt;strong&gt;Threatening Reach&lt;/strong&gt; 3. As you might guess, this is a
+grabby monster. Escaping its grabs requires a DC 26 Athletics or DC 22 Acrobatis
+check.&lt;/p&gt;
+
+&lt;p&gt;The kraken’s basic attack involves its &lt;strong&gt;Crushing Tentacles&lt;/strong&gt;, which are
+Reach 3. They damage and grab on a hit, and the kraken can have up to 8
+creatures grabbed by this attack. The monster can spend a minor action to
+sustain all of its grabs and deal an automatic 5 damage to all victims.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Devourer of Ships&lt;/strong&gt; is a literal anti-vehicle attack - it can only target
+vehicles, and it’s what the beast uses to coil around a ship. It deals heavy
+damage to the target ship and restrains it while the kraken remains within 3
+squares of it. While restrained, the ship takes 20 damage at the start of the
+target’s turn. Its pilot can spend a Standard action to give the ship a saving
+throw, and if it passes it escapes the grab.&lt;/p&gt;
+
+&lt;p&gt;And don’t worry, krakens don’t have to split their attention between a ship and
+its crew. &lt;strong&gt;Coils of Doom&lt;/strong&gt; is an at-will power that allows them to use Crushing
+Tentacles twice and Devourer of Ships once with a single action.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can also use an ability named &lt;strong&gt;Wavewrack&lt;/strong&gt; to create a
+zone in a Close Burst 3 around themselves. This zone is difficult terrain. When
+an enemy starts their turn inside, they take 5 damage and are slid 2
+squares. The Kraken can spend a minor action to slide this zone up to 3
+squares. Do note that a Close Burst 3 around a Gargantuan creature is &lt;em&gt;much&lt;/em&gt;
+larger than one around a Medium creature.&lt;/p&gt;
+
+&lt;p&gt;Aside from moving the zone, the kraken can spend minor actions to activate any
+of the following abilities. &lt;strong&gt;Fatal Plunge&lt;/strong&gt; is an attack against a grabbed
+creature that deals light damage and slides the target 3 squares. As the name
+implies, this can allow the kraken to drag them &lt;em&gt;underwater&lt;/em&gt;. It can also
+&lt;strong&gt;Fling&lt;/strong&gt; a grabbed creature, sliding them adjacent to another creature and
+making a lightly-damaging attack against both. This ends the grab. And finally,
+it can shoot &lt;strong&gt;Venom Bolts&lt;/strong&gt; that deal poison damage and blind (save ends).&lt;/p&gt;
+
+&lt;p&gt;We’re not done yet! If a grabbed creature damages the kraken, the monster can
+use &lt;strong&gt;Vengeful Constriction&lt;/strong&gt; as a reaction to deal 5 automatic damage to every
+creature it’s grabbing.&lt;/p&gt;
+
+&lt;h3 id=&quot;astral-kraken&quot;&gt;Astral Kraken&lt;/h3&gt;
+
+&lt;p&gt;Astral Krakens are “sea monsters” in the same way the Astral is a “sea”. Their
+bodies are made of stars and shadow, their eyes two black lightless
+voids. Madness precedes them and follows in their wake. You might say they’re
+closer to their original forms than the sea kraken, as they never had to
+acclimate to the middle world. You know how some people worship Aboleths as
+god-like beings older than time? I bet Aboleths worship astral krakens in the
+same way.&lt;/p&gt;
+
+&lt;p&gt;Astral Krakens are Level 25 Solo Controllers with 925 HP, putting them in the
+same “weight class” as godforged and primordial colossi, divine and demonic
+exarchs, and most ancient dragons. It takes the sea kraken chassis and adds
+madness-themed abilities on top. It has a flight speed of 10, and
+Blindsight 20. Invisibility won’t save you.&lt;/p&gt;
+
+&lt;p&gt;The kraken’s melee attacks have Threatening Reach 4. Its &lt;strong&gt;Tentacles From
+Beyond&lt;/strong&gt; work like the sea kraken’s, damaging and grabbing. The escape DC is 41
+for Athletics, and 37 for Acrobatics. Sustaining the grab deals 15 psychic
+damage to all victims.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Absorb Psyche&lt;/strong&gt; targets all grabbed victims at once, attacking Will and
+dealing psychic damage. A hit also grants the Kraken a +5 bonus to attack with
+Touch of Madness (below) &lt;em&gt;for the rest of the encounter&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Touch of Madness&lt;/strong&gt; targets a single creature’s Will. It does no damage, but it
+forces the target to use its highest-level encounter power against another
+target of the Kraken’s choice. This happens even if the power was already
+expended, and doesn’t expend the power if it hasn’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Devourer of Ships&lt;/strong&gt; is here too, and works much like the Sea Kraken
+version. Despite its higher accuracy, it deals exactly the same damage. I guess
+this makes sense, since a ship’s HP varies less than a PC’s as level goes up.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, the astral kraken can release a &lt;strong&gt;Nullifying Pulse&lt;/strong&gt; in a
+Close Blast 4. This non-damaging attack targets Will and dazes (save ends) on a
+hit. There are no other minor action attacks, but it doesn’t &lt;em&gt;need&lt;/em&gt; any more
+with such a powerful multi-daze at its disposal.&lt;/p&gt;
+
+&lt;p&gt;Its triggered actions are pretty scary too! When someone misses the kraken,
+they’re forced to &lt;strong&gt;Behold the Horror&lt;/strong&gt;. This is a reaction attack that targets
+Will, deals psychic damage, and dominates for a turn. Luckily it can only happen
+at most once per round, since it’s a reaction.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, when the kraken is first bloodied, it lets out a &lt;strong&gt;Psychic
+Scream&lt;/strong&gt;, which covers a large enough area (Close Burst 10!) that it’s likely
+to target every enemy. This attacks Will, and on a hit it deals psychic damage
+and stuns (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;When it’s time to release the kraken, these two will not disappoint.&lt;/p&gt;
+
+&lt;p&gt;Sea krakens have a lot of straightforward multi-attack capability, and they’re
+really hard to shake from your ship once they grab on. If the ship manages to
+escape, they don’t have to divert their attention from the crew to grab the
+vessel again.&lt;/p&gt;
+
+&lt;p&gt;The astral kraken’s multi-attack capability is less straightforward than the sea
+kraken’s, but it has excellent action denial, and can be terrifying if you give
+it time to set things up properly.&lt;/p&gt;
+
+&lt;p&gt;Both monsters don’t seem to have much defense against being dazed or stunned
+other than the standard +5 solo bonus to saves, so doing that is a good way to
+neutralize their firepower. If your party is heavy on the action denial powers,
+you can make things harder for them by adding a sprinkling of cultist minions
+and a leader-type that can grant them extra saves.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/03/kraken.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/03/kraken.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Jackalwere</title>
@@ -1475,116 +1648,6 @@ valid Level 3 encounter.&lt;/p&gt;
         <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Gnoll</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-gnoll.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Oh boy, more gnolls. They’ve been in every Monster Manual for this edition. I
-skipped the MM2 entry because it turned out to fully overlap the Monster Vault,
-but the one in this book is specifically meant to complement the MV instead of
-overlapping with it. We don’t get much in the way of new lore, but we get a few
-new stat blocks.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;As usual, gnolls are Medium Natural Humanoids. They have low-light vision and
-their ground speed is 7. Their signature ability remains &lt;strong&gt;Pack Attack&lt;/strong&gt;,
-giving them a +5 damage bonus on melee and ranged attacks against an enemy that
-has two or more gnoll allies adjacent to it.&lt;/p&gt;
-
-&lt;h3 id=&quot;gnoll-skulker&quot;&gt;Gnoll Skulker&lt;/h3&gt;
-
-&lt;p&gt;Our first gnoll, however, is a bit of an exception. These runty buggers are too
-cowardly to employ the usual brutish gnoll tactics, so they usually keep to the
-edges of the fight and wait for opportunities to strike isolated enemies from
-surprise. They’re good at this, but it’s not a fighting style that’s valued in
-“mainstream” demon-worshipping gnoll society.&lt;/p&gt;
-
-&lt;p&gt;Skulkers are Level 5 Lurkers with 51 HP. Their &lt;strong&gt;Peerless Camouflage&lt;/strong&gt; allows
-them to make Stealth checks to hide even when they only have partial cover or
-concealment, and to stay hidden for an additional turn after leaving
-cover. They lack Pack Attack but have &lt;strong&gt;Something to Prove&lt;/strong&gt;, gaining a +5
-damage bonus against enemies that have &lt;em&gt;no&lt;/em&gt; allies adjacent to them.&lt;/p&gt;
-
-&lt;p&gt;They fight with a &lt;strong&gt;dagger&lt;/strong&gt; and a &lt;strong&gt;shortbow&lt;/strong&gt;, and have a &lt;strong&gt;Hit and Run&lt;/strong&gt;
-maneuver that allows them to shift 2 squares after hitting with the bow if they
-attack from hiding.&lt;/p&gt;
-
-&lt;p&gt;A band of gnolls with some skulkers in it is a lot harder to fight. If you
-spread out a bit to make it harder for the standard gnolls to use Pack Attack,
-the skulkers get you with Something to Prove, and vice-versa.&lt;/p&gt;
-
-&lt;h3 id=&quot;gnoll-war-fang&quot;&gt;Gnoll War Fang&lt;/h3&gt;
-
-&lt;p&gt;War Fangs are heavily armored commander-types that also make use of demonic
-powers. They’re anti-paladins of Yeenoghu, basically. War Fangs are Level 6
-Soldiers with 72 HP and the Leader tag.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;War Fang Defense&lt;/strong&gt; aura (1) grants allies a +2 bonus to AC, and they
-fight with a Longsword that deals extra damage when they’re bloodied (this
-stacks with Pack Attack).&lt;/p&gt;
-
-&lt;p&gt;Once per round as a minor action, they can issue a &lt;strong&gt;Demonic Challenge&lt;/strong&gt; that
-works a lot like the paladin version - it marks an enemy within 3 squares, and
-whenever the marked enemy makes an attack that doesn’t target the war fang they
-suffer 10 fire damage.&lt;/p&gt;
-
-&lt;p&gt;If any enemy misses the war fang with a melee attack, the &lt;strong&gt;No Mercy&lt;/strong&gt; ability
-allows an ally adjacent to that enemy to make a melee basic attack against them.&lt;/p&gt;
-
-&lt;p&gt;War Fangs work very well when positioned in the second row of the enemy front
-line, because they’ll improve the front-liners’ defenses and mark the PCs from a
-place where they can’t be easily attacked. They also do very well on the front
-line when surrounded by their allies.&lt;/p&gt;
-
-&lt;h3 id=&quot;chosen-of-yeenoghu&quot;&gt;Chosen of Yeenoghu&lt;/h3&gt;
-
-&lt;p&gt;This is a gnoll necromancer, a Level 7 Elite Controller with 156 HP. It fights
-with a &lt;strong&gt;staff&lt;/strong&gt; in melee and fires &lt;strong&gt;bolts of ruination&lt;/strong&gt; that deal necrotic
-damage at range, but its main schtick is filling the battlefield with ghostly
-hyenas.&lt;/p&gt;
-
-&lt;p&gt;The Chosen can summon a single &lt;strong&gt;Hyena Spirit&lt;/strong&gt; as a minor action, or four of
-them at once with the &lt;strong&gt;Call Beyond the Grave&lt;/strong&gt; encounter power. &lt;strong&gt;Spirit
-Strike&lt;/strong&gt; is a 1/round minor action that allows a spirit to make a free basic
-attack with a +2 bonus. Finally, &lt;strong&gt;To the Front&lt;/strong&gt; is a power that teleports
-every adjacent ally 10 squares.&lt;/p&gt;
-
-&lt;p&gt;This is a monster, not a PC, so it doesn’t use PC summoning rules. Hyena Spirits
-are Level 7 Minion Soldiers and each one has their own full set of actions in
-the initiative order. They have a &lt;strong&gt;Spectral Jaws&lt;/strong&gt; aura (1) that slows enemies
-caught inside, and a standard basic bite attack. When one of them dies, the
-Chosen takes 5 damage. Depending on how the Chosen is positioned, killing the
-hyenas might be the only way the PCs can damage it.&lt;/p&gt;
-
-&lt;p&gt;The spirits are worth 0 XP if they’re summoned by a Chosen, but you can include
-them in a fight by themselves and have them work as normal minions.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I continue to mourn the fact that they never expanded playable non-evil gnolls
-beyond that single Dragon article, while remarking that the mechanics for these
-gnolls are pretty interesting.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/16/gnolls.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/16/gnolls.html</guid>
         
         <category>dnd4</category>
         
