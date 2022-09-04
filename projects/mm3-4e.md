@@ -91,6 +91,12 @@ entries.
     - [Part 02][53]
   - [Intellect Devourer][54]
 
+- J
+  - [Jackalwere][55]
+
+- K
+  - [Kraken][56]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -146,3 +152,5 @@ entries.
 [52]: {{ "/2022/08/24/imix.html" | relative_url }}
 [53]: {{ "/2022/08/29/imix-part-02.html" | relative_url }}
 [54]: {{ "/2022/08/30/intellect-devourer.html" | relative_url }}
+[55]: {{ "/2022/09/01/jackalwere.html" | relative_url }}
+[56]: {{ "/2022/09/03/kraken.html" | relative_url }}
