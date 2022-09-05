@@ -96,6 +96,7 @@ entries.
 
 - K
   - [Kraken][56]
+  - [Kuo-toa][57]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -154,3 +155,4 @@ entries.
 [54]: {{ "/2022/08/30/intellect-devourer.html" | relative_url }}
 [55]: {{ "/2022/09/01/jackalwere.html" | relative_url }}
 [56]: {{ "/2022/09/03/kraken.html" | relative_url }}
+[57]: {{ "/2022/09/05/kuo-toa.html" | relative_url }}
