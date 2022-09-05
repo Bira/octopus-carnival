@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-norker.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Norkers have been around since the days of AD&D, where their major mechanical
 distinction was that they were stronger goblins with AC 3. They play a
 significant role in The Forgotten Temple or Tharizdun as the rank and file of
@@ -95,3 +106,5 @@ Tough norkers still fill more or less the same narrative role as before, they do
 so in a very different way. I think my favorites are the grunts; the damage
 bonus they grant is both very distinctive and terrifying to players. When
 scaling their level, I'd probably make it +1/tier instead of a flat +2.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
