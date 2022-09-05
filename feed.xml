@@ -6,12 +6,125 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2022 01:33:08 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2022 01:33:08 +0000</lastBuildDate>
+    <pubDate>Mon, 05 Sep 2022 10:55:59 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Sep 2022 10:55:59 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
-        <title>Kraken</title>
+        <title>Let's Read the 4e Monster Manual 3: Kuo-Toa</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-kuo-toa.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Kuo-toa made their 4e debut in the Monster Manual, and would get a MV style
+upgrade in Dungeon 193. This entry gives us extra stat blocks that don’t overlap
+with either, even though it came out months before the Dungeon update.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Kuo-Toa basic lore remains the same. They’re the spear-wielding fish people that
+live in the Underdark and worship aboleths and other aberrant entities. Their
+priests, known as whips, are their absolute rulers, and discipline is enforced
+by individuals known as monitors.&lt;/p&gt;
+
+&lt;p&gt;This entry adds that whips and monitors are able to force their underlings to
+follow a coherent combat strategy even though those underlings tend to be very
+mentally unstable. If these leaders fall before their underlings, the group’s
+tactics will become a lot more erratic. Some will run, some will go berserk, and
+so on.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;All kuo-toa in this entry have ground and swim speeds of 6. They are Aquatic and
+have Darkvision. Their signature ability is Slick Maneuver, a move action that
+can be used when they’re adjacent to an enemy and allows them to shift 3
+squares, though they must end the move still adjacent to the enemy.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuo-toa-mad-one&quot;&gt;Kuo-Toa Mad One&lt;/h3&gt;
+
+&lt;p&gt;As you can guess from the name, Mad Ones are unstable even by the standards of
+other kuo-toa. They’re afflicted by a form of supernatural insanity that
+originates in the Far Realm and is contagious. They hang around old ruins and
+temples, worshipping and guarding ancient artifacts far away from the rest of
+their society. If one of these is stolen, they’ll give chase to punish the
+thieves and recover the relic.&lt;/p&gt;
+
+&lt;p&gt;Mad Ones are Level 12 Minion Skirmishers, and notably lack Slick
+Maneuver. Instead, they have an aura (1) of &lt;strong&gt;Spreading Madness&lt;/strong&gt; that gives all
+enemies inside 5 Vulnerability to psychic damage. Their &lt;strong&gt;Claw&lt;/strong&gt; attacks damage
+and allow them to shift 1 square on a hit. They can also release a &lt;strong&gt;Psychic
+Scream&lt;/strong&gt; in a Close Blast 3. It deals a small amount of psychic damage, though
+that gets a boost from Spreading Madness.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuo-toa-drowner&quot;&gt;Kuo-Toa Drowner&lt;/h3&gt;
+
+&lt;p&gt;Drowners specialize on raiding ships and dragging their crews to a watery
+doom. They wield hooks and barbed nets in combat.&lt;/p&gt;
+
+&lt;p&gt;Drowners are Level 14 Soldiers with 137 HP. Their &lt;strong&gt;hooks&lt;/strong&gt; can be used for
+basic attacks and for a &lt;strong&gt;Dredging Hook&lt;/strong&gt; maneuver that does the same damage as
+a basic attack and slides the target 3 squares to another square adjacent to the
+kuo-toa. Combined with Slick Maneuver, this makes the process of dragging a
+victim overboard into a sort of spiral dance.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Barbed Net&lt;/strong&gt; can be thrown as a ranged attack vs. Reflex. It deals a bit
+less damage than the hook, and if the target willingly moves in their next turn
+they take extra damage. Drowners carry 4 of these nets each.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuo-toa-lash&quot;&gt;Kuo-Toa Lash&lt;/h3&gt;
+
+&lt;p&gt;Lashes are a caste of lesser priests, subservient to the whips and responsible
+for overseeing sacrifices. This includes leading raids to acquire victims. They
+fight with tridents and a combination of lightning and water-based magic.&lt;/p&gt;
+
+&lt;p&gt;Lashes are Level 15 Artillery with 115 HP. They can use their &lt;strong&gt;tridents&lt;/strong&gt; in
+melee or throw them in a &lt;strong&gt;Lightning Trident&lt;/strong&gt; attack that’s stronger, deals
+lightning damage, and causes the weapon to return to the lash. Its main
+disadvantage is that the range on this attack is only 3/6.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Fill Lungs&lt;/strong&gt; spell reaches a lot farther. It targets Fortitude, does
+physical damage, and inflicts ongoing 5 damage. It’s also very scary.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Forked Lightning&lt;/strong&gt; spell that works as a lightning-based
+fireball that also blinds on a hit. This recharges whey they’re first bloodied,
+or when they reduce an enemy to 0 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;kuo-toa-cutter&quot;&gt;Kuo-Toa Cutter&lt;/h3&gt;
+
+&lt;p&gt;Cutters are classic skirmishers, trained to slip through enemy frontlines and
+stab their squishies with serrated daggers. They’re Level 16 Skirmishers with
+151 HP.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;barbed dagger&lt;/strong&gt; does standard damage for their level, and they can also
+use it in a &lt;strong&gt;Crippling Strike&lt;/strong&gt; that does less damage but inflicts slowness and
+ongoing 10 damage (save ends). If someone misses them with a melee attack, the
+cutter can shift 4 squares and use Barbed Dagger as a reaction.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These go well with the Dungeon 193 updated kuo-toa, and if you’re already using
+those then you’ll like these ones. No big lore changes here, but the stat blocks
+are cool enough.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/05/kuo-toa.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/05/kuo-toa.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Kraken</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-kraken.png&quot;/&gt;
   &lt;figcaption&gt;
@@ -1495,159 +1608,6 @@ training.&lt;/p&gt;
         <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/08/20/hag.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/hag.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Gremlin</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-gremlin.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Just look at this pointy boy. They’re not even trying to hide the inspiration
-for him.&lt;/p&gt;
-
-&lt;p&gt;Anyway, D&amp;amp;D has had monsters named “gremlin” since almost its beginning, but the
-lore for them its new to this edition.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A long time ago, the fomorians under King Thrumbolg took a large group of goblin
-captives, transformed them into bioweapons, and released them into the cities of
-their eladrin enemies. The new creatures had a great aptitude for deception and
-sabotage, and an engineered predilection for it. These were the first gremlins.&lt;/p&gt;
-
-&lt;p&gt;They did their job wonderfully, disrupting the alliance of eladrin city states
-arrayed against Thrumbolg by altering the correspondence between them, murdering
-key officials, and other such deeds. However, they also ended up doing the same
-sort of thing to Thumbolg’s own court, causing great damage to it. Gremlins
-gotta gremlin.&lt;/p&gt;
-
-&lt;p&gt;The little rascals were cast out, and over the ages spread through the Feywild
-and the middle world. Though they sometimes live openly in the communities of
-other sapients, many gremlins follow their engineered calling and hide out among
-their chosen victims, taming vermin to do their bidding and engaging in the same
-ghastly shenanigans their ancestors did back in the day, basically for the
-lulz. The worst among them find natural allies in demons, who have the same
-appetite for chaos.&lt;/p&gt;
-
-&lt;p&gt;Examples of things gremlins do, taken from the stat block descriptions: stealing
-documents and heirlooms from a royal court and stashing them to be found in the
-quarters of visiting nobles; intercepting and altering important correspondence
-so that a call for peace becomes a declaration of war; and plain old serial
-murder.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Gremlins are Small Fey Humanoids with low-light vision and a speed of 6. They
-have two signature abilities present in almost all stat blocks. The first is
-&lt;strong&gt;Sabotaging Presence&lt;/strong&gt;, an large aura (size 5) that gives enemies inside a -5
-penalty to skill checks. The second is &lt;strong&gt;Gremlin Tactics&lt;/strong&gt;, a reaction that
-allows them to swap spaces with an enemy that misses them with a melee attack.&lt;/p&gt;
-
-&lt;p&gt;Skill-wise, training in Stealth and Thievery is nearly universal, and they
-occasionally know other “thiefy” skills like Bluff as well.&lt;/p&gt;
-
-&lt;h3 id=&quot;gremlin-deceiver&quot;&gt;Gremlin Deceiver&lt;/h3&gt;
-
-&lt;p&gt;Deceivers are Level 5 Controllers with 63 HP, which makes them the earliest
-gremlin the PCs are likely to find. Like other gremlins, their presence is going
-to be hidden at first, and they only fight when found out.&lt;/p&gt;
-
-&lt;p&gt;Deceivers fight with their &lt;strong&gt;claws&lt;/strong&gt;, but their magic is a lot more
-interesting. They can cast a fireball-sized &lt;strong&gt;Befuddling Burst&lt;/strong&gt; that targets
-Will and, on a hit, deals psychic damage and prevents targets from shifting or
-standing up (save ends). The burst itself doesn’t knock them prone - that’s what
-the &lt;strong&gt;Slip Up&lt;/strong&gt; minor-action attack does. This is a ranged attack that targets
-Will and does no damage.&lt;/p&gt;
-
-&lt;p&gt;For added lulz, pair them with other monsters that can knock people prone, such
-as other gremlins, or wolves reskinned as dire rats.&lt;/p&gt;
-
-&lt;h3 id=&quot;gremlin-skulker&quot;&gt;Gremlin Skulker&lt;/h3&gt;
-
-&lt;p&gt;Skulkers are Level 7 Lurkers with 64 HP, and they’re surprisingly sticky. Aside
-from the standard gremlin traits, they have a &lt;strong&gt;Shadow Sneak&lt;/strong&gt; passive that
-makes them invisible while adjacent to an enemy, and &lt;strong&gt;Opportunistic Advantage&lt;/strong&gt;
-that gives them extra damage in opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claw&lt;/strong&gt; attacks do okay damage and “curse” the target: if the target
-moves away from the gremlin, they fall prone at the end of their movement. And
-when an enemy adjacent to the skulker moves, the &lt;strong&gt;Shadow Skulk&lt;/strong&gt; encounter
-power allows them to shift up to 6 squares &lt;em&gt;simultaneously&lt;/em&gt;, following the enemy
-as it moves so it stays adjacent.&lt;/p&gt;
-
-&lt;p&gt;You want this one right in the middle of the PCs, preferrably starting the fight
-already there with some of those strong opportunity attcks after sneaking in
-undetected.&lt;/p&gt;
-
-&lt;h3 id=&quot;gremlin-conniver&quot;&gt;Gremlin Conniver&lt;/h3&gt;
-
-&lt;p&gt;Connivers are Level 17 Controllers with 162 HP. That’s quite a jump in power!
-They’re probably similar to the OG gremlins that destroyed the eladrin alliance.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;claw&lt;/strong&gt; attack also teleports the target 5 squares on a hit. Their
-&lt;strong&gt;Connive&lt;/strong&gt; spell is a non-damaging, at-will ranged attack that dominates on a
-hit (&lt;em&gt;save ends&lt;/em&gt;!). Fortunately only one creature can be dominated at a time.&lt;/p&gt;
-
-&lt;p&gt;As a minor action it can also create a &lt;strong&gt;Beguiling Fog&lt;/strong&gt; (recharge 6+), a
-fireball-sized area attack against Will that does no damage. It always dazes the
-enemy - a hit means it’s a (save ends) effect, a miss means it only lasts a
-turn.&lt;/p&gt;
-
-&lt;p&gt;While connivers have little direct damage potential, they can dole out some of
-the game’s most annoying status effects at-will. The teleport effect on their
-basic claw attack is also particularly wonderful in battlefields with dangerous
-terrain or other hazards.&lt;/p&gt;
-
-&lt;h3 id=&quot;gremlin-prankster&quot;&gt;Gremlin Prankster&lt;/h3&gt;
-
-&lt;p&gt;Pranksters are Level 17 Minion Controllers, perfect for when you want to
-re-enact a certain 80s movie. They’re not particularly hardy, but they like to
-run around in huge crowds and try to cause as much chaos as possible before
-vanishing. They have a basic &lt;strong&gt;claw&lt;/strong&gt; attack and a &lt;strong&gt;Slip Up&lt;/strong&gt; ranged attack
-that’s similar to the Deceiver’s, but also slides the target 3 squares before
-knocking them prone.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The teme for the Gremlins 2 movie was playing through my head the entire time I
-was writing this. I love these critters.&lt;/p&gt;
-
-&lt;p&gt;They’re also very interesting mechanically and can end up making your PCs pull
-their own hair out in frustration. That can lead to memorable sessions if you do
-it properly, but can also be frustrating for the &lt;em&gt;players&lt;/em&gt;, so consider the
-examples below cautiously.&lt;/p&gt;
-
-&lt;p&gt;If you really want the PCs to have a bad time, make sure your gremlin encounter
-takes place in a site full of traps and other hazards that require skill checks
-to disable. Or even have the PCs deal with a gremlin battle and a skill
-challenge at the same time. The skill penalty from Sabotaging Presence is
-&lt;em&gt;untyped&lt;/em&gt;, meaning it technically stacks, but if you’re feeling merciful you can
-say it caps out at the -5 a single gremlin would provide.&lt;/p&gt;
-
-&lt;p&gt;That skill penalty also aids grappling-centered monsters! The roll to escape a
-grapple is a skill check, after all.&lt;/p&gt;
-
-&lt;p&gt;Since a lot of gremlins can knock PCs prone, they also go really well with
-monsters that can do ugly things to prone PCs. Especially evil GMs might want to
-keep in mind that 2 Gremlin Deceivers and 2 Needlefang Drake Swarms make up a
-valid Level 3 encounter.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/19/gremlin.html</guid>
         
         <category>dnd4</category>
         
