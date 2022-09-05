@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Let's Read the 4e Monster Vault 3"
+title: "Let's Read the 4e Monster Manual 3"
 permalink: "/projects/mm3-4e/"
 ---
 
