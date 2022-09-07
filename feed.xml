@@ -6,9 +6,338 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Sep 2022 10:55:59 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Sep 2022 10:55:59 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2022 22:58:22 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2022 22:58:22 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Lolth</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-lolth.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Lolth is likely to be among the very first Big Bads of D&amp;amp;D. I think her first
+officially published mention was in The Village of Hommlet, an adventure
+published in 1979 featuring one of her priests as the final antagonist. Since
+that adventure and the Temple of Elemental Evil that follows it were all based
+on Gary Gygax’s original campaign, there’s a chance Lolth was was a thing for a
+few years before that even though she doesn’t appear in the first Monster
+Manual.&lt;/p&gt;
+
+&lt;p&gt;She would make a personal appearance in 1980’s Queen of the Demonweb Pits, where
+she officially became the patron goddess of the drow and started getting a lot
+more publicity. The drow and their goddess would get plenty of spotlight time in
+that edition and all subsequent ones, for good and ill.&lt;/p&gt;
+
+&lt;p&gt;By the time we get to this entry in the MM3, we’ve already seen most
+Lolth-associated monster make their appearances, populating the entire range
+from heroic to epic tier. We also heard a lot about Lolth herself as a goddess
+in other supplements. This is where we finally get her stats. She is the second
+“epic end boss” to make an appearance in this book, but not the last.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Lolth is described by the DMG as the goddess of shadows, lies, and spiders. As
+we saw in the various Drow entries, back in mythic times she led a major
+uprising against the other elven gods. Her defeat in that civil war saw her and
+her proto-elf fey followers banished from the Feywild. Her followers moved to
+the Underdark, where over time they evolved into the drow. Lolth herself took up
+residence in the Abyss, crafting a whole layer of it into her personal domain.&lt;/p&gt;
+
+&lt;p&gt;If I remember correctly, some of the divine-oriented supplements hint that
+Corellon wasn’t entirely innocent in all of this, and that the reason Lolth rose
+up against him is that he committed a great injustice against her. It wouldn’t
+be too far off the mark to say that she wasn’t evil back then, and that it was
+either the trauma of this first betrayal or a few aeons of living in the Abyss
+that made her so.&lt;/p&gt;
+
+&lt;p&gt;Regardless of her past history, the Lolth of &lt;em&gt;today&lt;/em&gt; is certainly Chaotic
+Evil. Her followers organize themselves into strict hierarchies whose goal is to
+enable an endless cycle of bloody betrayal: the powerful are free to abuse the
+weak, and the weak are encouraged to rise in power by murdering their rivals and
+superiors. Lolth herself doesn’t much trust her followers as we’ve seen in past
+entries: she created at least two monsters whose main purpose is to infiltrate
+those hierarchies and keep an eye on their members.&lt;/p&gt;
+
+&lt;p&gt;So, in a way, you could say Lolth is the goddess of the cycle of abuse. She
+inflicts on her followers the same suffering she went through long ago, and
+encourages them to do the same to their subordinates.&lt;/p&gt;
+
+&lt;p&gt;Her dominion is the sixty-sixth layer of the Abyss, a place known as the
+Demonweb. As the name implies it’s a gigantic web strung across a series of
+titanic pillars. On its strands rest many relics stolen from other worlds,
+ranging from standard magic items all the way up to entire ruined
+cities. Beneath the Web is a black void, and at the bottom of this void are the
+Demonweb Pits, Lolth’s true headquarters. Here is where she holds court.&lt;/p&gt;
+
+&lt;p&gt;The Pits contain a multitude of portals to other layers of the Abyss and to
+other planes entirely, and they’re one of the reasons why Lolth’s machinations
+have such a large reach.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h3&gt;
+
+&lt;p&gt;This entry contains stats not only for Lolth, but also for her Aspect and her
+Exarch. We’ll describe them in order of level, like we’ve been doing for the
+other big shots in this series.&lt;/p&gt;
+
+&lt;p&gt;There are no entries for Lolth’s cultists. Most of them are the drow described
+in the other monster books, as well as the Abyssal Drow and the Chitine from
+this one. Like the other big bads, Lolth can certainly have cultists from other
+species as well, using “generic” stat blocks.&lt;/p&gt;
+
+&lt;h3 id=&quot;aspect-of-lolth&quot;&gt;Aspect of Lolth&lt;/h3&gt;
+
+&lt;p&gt;Aspects are fragments of a deity’s power and mind. They share the original
+deity’s personality and goals, but their existence is independent. Though
+they’re never as powerful as the original deity, they’re still epic-tier. These
+used to be called “avatars” in previous editions.&lt;/p&gt;
+
+&lt;p&gt;Most gods send their aspects to aid their most favored mortal servants, usually
+in response to a ritual requesting this aid. Lolth is an exception. Anyone who
+would have the power to call an aspect of Lolth is sufficiently initiated into
+her mysteries to know that this is a &lt;em&gt;very bad idea&lt;/em&gt;. Instead, they spend their
+effort making sure she never has cause to send one.&lt;/p&gt;
+
+&lt;p&gt;The reason for this is what Lolth sends her aspects as infiltrators whose goal
+is to influence drow society in ways that align with her goals. The aspect’s
+natural form is that of a giant demonic spider, but it can assume the form of a
+drow. It’s usual MO is to kill and replace an authority figure, and use the
+victim’s power and influence to fulfill its mission. When forced to fight, it
+reverts to its true form and “generously” spends the lives of its underlings to
+buy victory, or at least survival.&lt;/p&gt;
+
+&lt;p&gt;Aspects of Lolth are Level 25 Elite Lurkers with 368 HP. They’re Large Immortal
+Magical Beasts in their natural forms, but shrink to Medium size when disguised
+as drow. They have ground and Spider Climb speeds of 6, Darkvision, and
+Blindsight 5. They have Resist 30 Poison.&lt;/p&gt;
+
+&lt;p&gt;When an aspect hits a creature granting &lt;strong&gt;Combat Advantage&lt;/strong&gt; to it, that
+creature is weakened and takes 20 ongoing poison damage (save ends both) in
+addition to suffering all the standard effects of the attack.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;bite&lt;/strong&gt;. It can also shoot &lt;strong&gt;Acid Webs&lt;/strong&gt; (recharge 5+) in
+a Clost Blast 5. This deals acid damage and slows (save ends). On the first
+failed save, the target also begins taking 20 ongoing acid damage until they
+pass a save.&lt;/p&gt;
+
+&lt;p&gt;They also have a nasty power named &lt;strong&gt;Worthy Sacrifice&lt;/strong&gt;, an area burst attack
+centered on a non-minion drow, spider, or demon ally. This causes the ally to
+explode into gory webs, reducing it to 0 HP, and attacks the Reflex of every
+enemy in the blast area. This attack doesn’t damage enemies, but immobilizes all
+those it hits (save ends). It also creates a zone of webbed gore that lasts
+until the end of the encounter and immobilizes any non-spider who ends their
+move inside (save ends). This recharges when the Aspect is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;As minor actions, the aspect can create a &lt;strong&gt;Cloud of Darkness&lt;/strong&gt; that blinds and
+blocks line of sight for anyone but itself; and &lt;strong&gt;Change Shape&lt;/strong&gt; to appear as a
+Medium drow. The Insight DC to pierce the disguise is 43, hard even for someone
+who min-maxed their Insight.&lt;/p&gt;
+
+&lt;p&gt;If anyone moves adjacent to the aspect, it can use its &lt;strong&gt;Impaling Legs&lt;/strong&gt; as an
+interrupt. This is an attack that deals physical damage and grabs the
+target. Grabbed targets take 10 ongoing poison damage until they escape.&lt;/p&gt;
+
+&lt;p&gt;Being immobilized doesn’t actually make you grant combat advantage, but being
+blinded does. The Aspect should fight alongside allies who can flank the
+immobilized PCs. Worthy Sacrifice should be reserved to use on an ally who’s
+about to die anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;eclavdra-exarch-of-lolth&quot;&gt;Eclavdra, Exarch of Lolth&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-lolth-eclavdra.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Eclavdra has an interesting publication history. Turns out &lt;em&gt;she&lt;/em&gt; is the actual
+final boss of the GDQ series, the one who used to be behind the giant attacks
+and everything. And she’s not even a Lolth worshipper there! Facing Lolth in
+those modules is more of a weird detour than the actual thing that solves the
+problem. A reference to this makes it into her description here.&lt;/p&gt;
+
+&lt;p&gt;Eclavdra is described by the book as the “quintessential drow”. Another way of
+putting it might be that no one in the universe has a deeper understanding of
+Lolth’s mysteries aside from the goddess herself. This means Eclavdra is both
+Lolth’s greatest ally and her most dangerous enemy.&lt;/p&gt;
+
+&lt;p&gt;Eclavdra has tried to betray Lolth not once, but &lt;em&gt;twice&lt;/em&gt;. The first time she
+worked with the Elder Elemental Eye (that’s the GDQ adventures), and the second
+she worked with Graz’zt. She still carries a relic of the Eye, the Tentacle Rod,
+and uses it as her main weapon and implement.&lt;/p&gt;
+
+&lt;p&gt;Despite these previous betrayals, Eclavdra has not only remained in Lolth’s good
+graces, but her standing seems to have &lt;em&gt;improved&lt;/em&gt;. Maybe the Lady of Spiders
+admires her audacity. When roleplaying Eclavdra, it would not be out of place to
+take your cues from Vriska and Starscream.&lt;/p&gt;
+
+&lt;p&gt;Eclavdra is a drow, and thus a Medium Fey Humanoid. She’s also a Level 28 Elite
+Soldier with the Leader keyword. She has the drow’s Speed 7 and Darkvision. She
+has no special resistances, even to poison, because Lolth is not stupid.&lt;/p&gt;
+
+&lt;p&gt;As she is the &lt;strong&gt;Spider Queen’s Emissary&lt;/strong&gt;, any demon, drow, and spider allies
+within 5 squares of Eclavdra have a +2 bonus to attack and can shift 1 square as
+a minor action. Her &lt;strong&gt;Tentacle Rod&lt;/strong&gt; is stretchy and has Reach 3. It can be used
+in a few special maneuvers in addition to giving her a basic attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tentacle Lash&lt;/strong&gt; has the same reach and damage as a basic attack, but on a hit
+it also strips all poison resistance or immunity from the target &lt;em&gt;for the rest
+of the encounter&lt;/em&gt;. The target is also slowed (save ends). This is an at-will
+power!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Insidious Offer&lt;/strong&gt; is a ranged spell that deals very weak psychic damage for
+its level… but on a hit it forces one of those interesting choices I like so
+much. The target must choose between taking an extra 30 psychic damage from the
+attack, or becoming dominated (save ends). That’s very in theme - it’s not
+“real” betrayal if it’s not a choice.&lt;/p&gt;
+
+&lt;p&gt;Eclavdra’s minor-action attacks are an unfortunate throwback to the “sexy
+dominatrix drow” days. &lt;strong&gt;Entrancing Beauty&lt;/strong&gt; is a Close Burst 5 that targets all
+enemies, deals light psychic damage, and pulls then 2 squares on a hit. &lt;strong&gt;On
+Your Knees&lt;/strong&gt; is a non-damaging attack with the tentacle rod that makes the
+target fall prone and prevents them from standing up (save ends).&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;Blinking Escape&lt;/strong&gt; allows Eclavdra to teleport 6 squares and gain
+concealment as a reaction when she’s hit by a close or area attack.&lt;/p&gt;
+
+&lt;p&gt;Eclavdra is loathe to risk her own life. She will make use of guile and
+manipulation to prevent hostilities from initiating, and when they do she will
+use her underlings as shields. When the tide of battle turns against her, she
+will attempt to run away.&lt;/p&gt;
+
+&lt;h3 id=&quot;lolth-the-demon-queen-of-spiders&quot;&gt;Lolth, The Demon Queen of Spiders&lt;/h3&gt;
+
+&lt;p&gt;There’s no need to repeat the lore of Lolth here - it’s all up at the start of
+the article. Mechanically, she is notable for being the first official two-stage
+boss I’ve seen. I believe she’s also the first actual god to get stats in this
+edition, and the most powerful endgame boss so far.&lt;/p&gt;
+
+&lt;p&gt;This means she has two stat blocks! The first is her drow form, in which she is
+a Level 35 Solo Lurker with 634 HP. When she hits 0 HP in this form, she becomes
+a Huge demonic spider who is a Level 35 Solo Brute with another 634 HP.&lt;/p&gt;
+
+&lt;p&gt;In both forms Lolth has ground, climb, and teleport speeds of 8. She also has
+Darkvision, Blindsight 20, and is immune to poison. Her remaining abilities are
+entirely different in both forms.&lt;/p&gt;
+
+&lt;p&gt;In her &lt;strong&gt;drow form&lt;/strong&gt;, Lolth fights with a &lt;strong&gt;Scourge&lt;/strong&gt;, a multi-tailed whip. Its
+attacks are Reach 3, do some light physical damage, and slide the target 3
+squares. They also inflict ongoing 20 poison damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;She can use the &lt;strong&gt;Insidious Poison&lt;/strong&gt; ability (recharge 4+) to automatically
+force an enemy that’s taking ongoing poison damage to attack an ally. That
+attack deals a lot of extra poison damage as well.&lt;/p&gt;
+
+&lt;p&gt;She has three minor-action attacks. &lt;strong&gt;Lolth’s Kiss&lt;/strong&gt; is a Reach 1 melee attack
+that deals a bit less damage than the scourge, but inflicts the same amount of
+ongoing poison damage. &lt;strong&gt;Poison Strands&lt;/strong&gt; is a ranged attack that deals no
+immediate damage but immobilizes (save ends). After the first saved throw, this
+worsens to Restrained. After the second the target begins taking &lt;em&gt;50 ongoing
+poison damage&lt;/em&gt; until they pass a save to end all of this at once. That’s the
+deadliest poison in existence! And yeah, both of these are at will.&lt;/p&gt;
+
+&lt;p&gt;The third is an encounter power: &lt;strong&gt;Impenetrable Darkfire&lt;/strong&gt; is a Close Burst 5
+that targets enemies. It blinds, inflicts 20 ongoing fire damage, and makes
+it impossible for them to benefit from cover or concealment (save ends all). It
+also creates a zone that lasts for a turn, blocks line of sight for everyone
+but Lolth, and blinds anyone inside who is not Lolth.&lt;/p&gt;
+
+&lt;p&gt;When an enemy hits Lolth, she can use a &lt;strong&gt;Dominating Rebuke&lt;/strong&gt; as a reaction to
+&lt;em&gt;automatically&lt;/em&gt; dominate them for a turn. And as a deity, her &lt;strong&gt;Immortal
+Resilience&lt;/strong&gt; allows her to immediately roll a save when she is inflicted by any
+effect a save can end. This is a “No Action” effect, meaning it &lt;em&gt;always
+happens&lt;/em&gt;, giving her a 75% chance of ignoring all save ends effects outright.&lt;/p&gt;
+
+&lt;p&gt;The transformation that happens when Drow Lolth hits 0 HP is also an attack. It
+targets all enemies in a Close Burst 10. On a hit they become vulnerable 20 to
+all damage, and are stunned (save ends both). As an aftereffect after passing
+the save, they’re pushed their speed away from her and are dazed for a
+turn. After this resolves, Lolth assumes her spider shape, and uses that stat
+block going forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lolth the Spider Queen&lt;/strong&gt; is, as mentioned, a Huge spider and a Level 35
+Brute. Her basic attack is now a &lt;strong&gt;Bite&lt;/strong&gt; that deals much stronger base damage
+and still inflicts 20 ongoing poison damage. &lt;strong&gt;Insidious Poison&lt;/strong&gt; is still here
+and work the same, but the damage bonus is bigger.&lt;/p&gt;
+
+&lt;p&gt;As a minor action she can spray &lt;strong&gt;Burning Webs&lt;/strong&gt; in a Close Burst 5 that deal acid
+damage and immobilize (save ends). After failing the first saving throw, victims
+are restrained instead and take 30 ongoing acid damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Immortal Resilience&lt;/strong&gt; is still here and works the same. She also has
+&lt;strong&gt;Impaling Legs&lt;/strong&gt; like those of her Aspect, but they’re Reach 3 and trigger when
+an enemy moves into reach. A target hit by the attack is restrained and begins
+taking ongoing 20 poison damage (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Finally, when Spider Lolth is first bloodied, she uses &lt;strong&gt;Divine Discorporation&lt;/strong&gt;
+to escape. This works automatically, and causes her mind to leave her body and
+be unable to assume physical shape for a while. This period can last several
+years, and while Lolth’s power will be greatly diminished during this time she’s
+still alive and can direct her forces. A bit like Sauron in Lord of the Rings.&lt;/p&gt;
+
+&lt;p&gt;To truly kill Lolth, the PCs must fulfill a condition or complete a quest that’s
+specific to her. If this happens, then she’s prevented from discorporating and
+can be fought until truly killed. The book presents three example quests, and
+the GM is encouraged to come up with something that fits their specific world
+and campaign.&lt;/p&gt;
+
+&lt;p&gt;The example quests are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The Loom of Fate&lt;/strong&gt;, an artifact hidden deep within Corellon’s palace in
+Arvandor. It was once used by Lolth, and it can be used by the PCs to
+rearrange the threads of her fate and make her defeatable. Corellon knows this
+but fears to use it. What doesn’t he want you to know?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;The Egg of Lolth&lt;/strong&gt;, a mysterious artifact that can be destroyed to seal the
+gates going out of the Demonweb Pits and thus prevent Lolth’s escape. But
+then how do you get out?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lolth’s Prison&lt;/strong&gt;, a demiplane beyond even the Demonweb Pits, where a dread
+Bone Colossus guards the Pendant of Truth. Brandishing the Pendant before the
+goddess of lies prevents her from discorporating. How will you get there, and
+what truths will you find within?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;All of these enemies are quite interesting mechanically. I particularly like
+Lolth’s two-stage-boss design. Her drow form is all about the insidious
+poisoning of mind and body. Her attacks deal little immediate damage, and the
+riders are what kills you. The spider form is a lot more direct.&lt;/p&gt;
+
+&lt;p&gt;As a Level 35 monster, a max-level party is going to have some trouble hitting
+Lolth and avoiding her strikes. This fortunately doesn’t affect saves, but even
+so the PC’s leaders should have plenty of save-granting abilities and items on
+hand, because failing those saves has dreadful consequences. Conversely, offense
+should focus on abilities that deal direct non-poison damage and whose riders
+are either immediate or last a turn, because she’s almost immune to anything
+that requires a save.&lt;/p&gt;
+
+&lt;p&gt;I also love Eclavdra’s description as a Starscream figure. That even works as a
+proper elven surname if you want it to be really on the nose.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/07/lolth.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/07/lolth.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Kuo-Toa</title>
@@ -1436,182 +1765,6 @@ downtime, at no point cost.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Hag</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-hag.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;As I mentioned way back in the MM/MV post about &lt;a href=&quot;/octopus-carnival/2020/05/16/hag.html&quot;&gt;Hags&lt;/a&gt;, they’re a species of
-fey that resemble fairytale witches in appearance and behavior. They tend to
-have great knowledge of magic, but also tend use it to further selfish and
-greedy schemes.&lt;/p&gt;
-
-&lt;p&gt;Their basic lore remains the same in the MM3, which also adds that hags are
-keepers of secrets. They’re always after new treasure and new secrets, generally
-of the type that increases their power. They use divination magic, pacts with
-mortals, and a network of portals that weaves through the Feywild and the middle
-world, which they also use to keep connected to each other.&lt;/p&gt;
-
-&lt;p&gt;Hags are of course loathe to part with any of their secrets for
-free. Adventurers seeking information from a hag must usually agree to do them a
-favor, which commonly means doing something nasty to one of the hag’s many
-enemies. These enemies might include archfey, demons, devils, other hags…&lt;/p&gt;
-
-&lt;p&gt;Hags are Medium Fey Humanoids and have Low-Light Vision. Everything else varies
-with stat blocks, which are usually split along the lines of which type of magic
-a hag uses in combat. I don’t think they’re supposed to be different sub-species
-or anything of the sort.&lt;/p&gt;
-
-&lt;h2 id=&quot;pact-hag&quot;&gt;Pact Hag&lt;/h2&gt;
-
-&lt;p&gt;This is your typical “sinister village witch”, living in a hut out of sight of
-the village itself. This location is far enough away to deter curious casuals,
-but still close enough that someone who really wants to make a deal with the hag
-can easily reach it.&lt;/p&gt;
-
-&lt;p&gt;A pact hag is much more willing to negotiate with these visitors than most of
-her relatives, though she’s still just as prone to seeking deals that benefit
-her more than they do the petitioner. She usually keep ogres, trolls, and
-dangerous fey fauna as bodyguards. They’re initially out of sight, but can
-arrive quickly if a fight breaks out.&lt;/p&gt;
-
-&lt;p&gt;Pact hags are Level 11 Controllers with the Leader tag and 115 HP. In a fight,
-they use all sorts of fun mind control magic, starting with a &lt;strong&gt;Pact of
-Obedience&lt;/strong&gt; aura (5) that allows allies inside to spend 5 HP to reroll a missed
-attack roll with a +2 bonus to the reroll.&lt;/p&gt;
-
-&lt;p&gt;Her basic melee attack is a &lt;strong&gt;Compelling Staff&lt;/strong&gt; that deals light damage but
-forces the target to make a melee basic attack against a target of the hag’s
-choice.&lt;/p&gt;
-
-&lt;p&gt;Her basic ranged attack is named &lt;strong&gt;Pact of Compelled Obedience&lt;/strong&gt; and does no
-damage at all, but it dominates the target for a turn instead. Fun (TM) for the
-whole party.&lt;/p&gt;
-
-&lt;p&gt;Her special attacks follow along the same lines. &lt;strong&gt;Pact of Choked Aggression&lt;/strong&gt;
-also doesn’t do immediate damage and inflicts a nasty curse on the target:
-they take 10 psychic damage the first time they hit a creature during one of
-their turns. This lasts until the end of the encounter, or until one of the
-target’s allies attacks the target. And it recharges when no enemy is affected
-by the curse!&lt;/p&gt;
-
-&lt;p&gt;The other special attack is &lt;strong&gt;Pact of Shared Agony&lt;/strong&gt;, which the hag can only
-use while bloodied. It’s another curse: until the end of the encounter, if the
-target is within 10 squares of the hag, they take 10 psychic damage whenever the
-hag takes any amount of damage. This power recharges whenever the hag misses
-with it, so she can keep using it until she hits.&lt;/p&gt;
-
-&lt;p&gt;This big emphasis on indirect damage means pact hags work best when surrounded
-by those beefy bodyguards, and will probably try to flee the fight once they
-become bloodied. Pact of Shared Agony is good for discouraging pursuit by melee
-strikers. Their “Pact” theme makes them a good patron for a heroic-tier fey
-warlock! This patron hag might either level up as the PC does, or you can have a
-story where the PC “trades up” to a better teacher Sith-style once the hag’s
-demands become untenable.&lt;/p&gt;
-
-&lt;h2 id=&quot;dream-hag&quot;&gt;Dream Hag&lt;/h2&gt;
-
-&lt;p&gt;These hags, as you might imagine, focus on dream magic. They can send dream
-visions to people, a power they use to lure their (or their paying customer’s)
-enemies to traps. However, the constraints of dream magic mean the hag doesn’t
-have full control over the content of the visions, so genuinely useful
-information tends to slip through.&lt;/p&gt;
-
-&lt;p&gt;Dream Hags are Level 19 Controllers with 179 HP. They project a &lt;strong&gt;Nightmare
-Weaver&lt;/strong&gt; aura (3) that causes unconscious enemies inside to become dominated for
-a turn. They stand up and perform one action of the hag’s choice while still
-remaining unconscious. The wording here makes it clear that this puppetry
-continues while the enemies remain inside the aura.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Staff of Mindless Reverie&lt;/strong&gt;, which damages and dazes
-for a turn on a hit. Their at-will ranged attack are weaponized &lt;strong&gt;Nightmare
-Visions&lt;/strong&gt; that deal psychic damage and slide the target 5 squares.&lt;/p&gt;
-
-&lt;p&gt;And then we have the powers that make people unconscious so the hag can exploit
-her aura. Both affect a Close Blast 5! &lt;strong&gt;Dust of Dreams&lt;/strong&gt; (recharge 5+) dazes on
-a hit (save ends), and this worsens to unconsciousness after the first failed
-save. &lt;strong&gt;Sleep’s Undeniable Grasp&lt;/strong&gt; (Encounter) makes its targets unconscious
-right away. It’s a (save ends) effect and it also ends if the target is
-attacked.&lt;/p&gt;
-
-&lt;p&gt;Yes, it’s possible for the hag to put the whole party to sleep at once if she’s
-really lucky. This &lt;em&gt;shouldn’t&lt;/em&gt; be an automatic total party kill if you run the
-abilities as written, though - sleeping PCs can still roll saves to end the
-effect, and in the case of the encounter power they also wake up if attacked. Of
-course, this attack will probably be an auto-crit if it comes from an enemy, so
-it’s still a problem.&lt;/p&gt;
-
-&lt;p&gt;I also think it’s acceptable to fudge things a little if Team Monster’s goal is
-something other than killing the PCs. If the goal is capturing them, or taking
-them somewhere else, then you can fade to black if the whole party falls asleep
-and have them wake up at that place.&lt;/p&gt;
-
-&lt;h2 id=&quot;mist-hag&quot;&gt;Mist Hag&lt;/h2&gt;
-
-&lt;p&gt;These are among the most powerful of hags. They’ve been accumulating secrets,
-artifacts and power for ages, and they dwell in the deepest forests of the
-Feywild. Their dwellings are surrounded by a thick mist that they have full
-control over. If the Death Hag from the MM1 was a “Baba Yaga wannabe”, this one
-is closest to the real deal. She’s pretty much an arch-fey herself. The Mist Hag
-does not deal with devils - devils deal with &lt;em&gt;her&lt;/em&gt;. A few of them probably have
-been pressed into service as her bodyguards. Other possible allies include epic
-undead, fomorians, and so on.&lt;/p&gt;
-
-&lt;p&gt;A Mist Hag is a Level 27 Controller with the Leader tag and 247 HP. She has a
-zippy ground speed of 8, instead of the standard 6 for a medium humanoid. Her
-aura is a &lt;strong&gt;Mist Shroud&lt;/strong&gt; that makes allies within 1 square insubstantial.&lt;/p&gt;
-
-&lt;p&gt;The hag’s &lt;strong&gt;Mist Staff&lt;/strong&gt; damages and pushes targets 5 squares. During the push,
-targets act as if they had the Phasing trait, which means the hag can push them
-through walls and other creatures. The final destination square must still be
-empty, but the hag doesn’t need to have a line of effect to it or the other
-squares of the push. If you want to get cute with this ability, include a piece
-of hazardous terrain surrounded by walls in your battle map.&lt;/p&gt;
-
-&lt;p&gt;Her basic attack is &lt;strong&gt;Mist on the Wind&lt;/strong&gt;, which damages and removes the
-target from play for a turn! The target returns to play in a square of the hag’s
-choice within 4 squares of its original position.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;Choking Mist&lt;/strong&gt; (recharge 5+) is a ranged attack serves as a reminder
-that the PCs are breathing the same mist the hag can control. It deals heavy
-physical damage and ongoing 20 damage (save ends). Every time the target fails a
-save, the hag can slide them 3 squares.&lt;/p&gt;
-
-&lt;p&gt;When an enemy gets to within 2 squares of the hag, the hag can use &lt;strong&gt;Maze of
-Mist&lt;/strong&gt; to mess with them. This is a triggered effect that doesn’t require an
-action, so it can happen every time the trigger happens. When it does, the hag
-can roll a d20. On a 10 or higher, she slides the triggering enemy 1
-square. This makes closing to melee reach a lot harder than usual.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;As I said back in the original article, I like hags when they are portrayed as
-their own species of fey being that don’t necessarily need to obey natural
-laws. They’re fairytale witches, with a penchant for doing the things fairytale
-witches do.&lt;/p&gt;
-
-&lt;p&gt;That said, I think treating each hag stat block as an entirely different species
-is going a bit too far. I prefer to treat those as differences of skill and
-training.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/20/hag.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/hag.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
