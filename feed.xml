@@ -6,9 +6,150 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Sep 2022 23:05:15 +0000</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2022 23:05:15 +0000</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2022 18:38:57 +0000</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2022 18:38:57 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Meazels</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-meazel.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This is the first time I’m seeing this monster, but it’s been around since the
+1e Fiend Folio. Most iterations kept the same haircut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;A long time ago, a certain city was ravaged by a plague. Many died from both the
+disease itself and from the violence that erupted as starvation, terror and rage
+gripped the citizens. When everything seemed to be lost, those that were still
+alive heard a soothing voice in their ears. It said:&lt;/p&gt;
+
+&lt;p&gt;“Your gods have fled this place. The spirits of the world no longer walk with
+you. Your mages’ spells have failed you. In your hour of need, I alone hear your
+pleas.” This entity proposed a simple bargain. The people of this city would
+swear fealty to it, and in exchange the plague would cause no more deaths and
+they would enjoy limitless food forever more. Out of carelessness or
+desperation, the people accepted.&lt;/p&gt;
+
+&lt;p&gt;Turns out the soothing voice belonged to Baalzebul, the archdevil ruler of the
+seventh hell. And as in any devil’s bargain, he fulfilled his promises to the
+letter. His new servants no longer died from the plague, but they still caught
+it and suffered from the weeping sores and endless hunger that were its hallmark
+symptoms. The only thing that could nourish them and quell this hunger was the
+flesh of other sapient beings, which technically counts as a “limitless” source
+of food if you tally the world’s population.&lt;/p&gt;
+
+&lt;p&gt;These wretched creatures soon left their original city and spread through the
+world, to fulfill the will of their new master and to look for new food
+sources. They became known as Meazels.&lt;/p&gt;
+
+&lt;p&gt;Meazels rarely work with other sapients, because they can’t resist their hunger
+for long. They prefer to work with trained or magically controlled beasts, and
+their spellcasters can also summon and bind elementals. Some groups of Meazels
+leave Baalzebul’s service and pledge allegiance to others who promise to rid
+them of their curse. Most of these end up being Baalzebul’s rival devils.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Meazels are Medium Natural Humanoids, usually former humans. They have a ground
+speed of 6 and Darkvision. They’re immune to disease, but suffer from an
+infernal curse that mimics the symptoms of that original plague. This manifests
+as the &lt;strong&gt;Wretched Curse of Baalzebul&lt;/strong&gt;, their signature ability. It’s an aura
+(1) that inflicts the same symptoms on any enemy inside.&lt;/p&gt;
+
+&lt;p&gt;Afflicted enemies take a -2 penalty to all defenses and become vulnerable 5 to
+all damage while inside the aura. They also inflict the same effects on any of
+their allies who are adjacent to them but outside the aura. Auras from multiple
+meazels don’t stack.&lt;/p&gt;
+
+&lt;p&gt;Their other abilities all come from training, and vary per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;meazel-bravo&quot;&gt;Meazel Bravo&lt;/h3&gt;
+
+&lt;p&gt;These are rank-and-file frontline fighters. Their tactics are straightforward -
+charge in and hit the enemy until it stops moving. Their curse aura makes them
+extra-effective in close quarters, and they love narrow terrain that leaves
+their enemies little room to maneuver.&lt;/p&gt;
+
+&lt;p&gt;Bravos are Level 11 Brutes with 136 HP. Their basic attack is a &lt;strong&gt;Morningstar&lt;/strong&gt;.
+They can also use a &lt;strong&gt;Gut Shot&lt;/strong&gt; maneuver (recharge 5+), which does slightly
+less damage but weakens the enemy for a turn.&lt;/p&gt;
+
+&lt;p&gt;Note that neither attack takes the aura into account in their damage formulas,
+which means they hit even harder than standard Brute of their level. Anyone in
+reach of either attack is also inside the aura!&lt;/p&gt;
+
+&lt;h3 id=&quot;meazel-hunter&quot;&gt;Meazel Hunter&lt;/h3&gt;
+
+&lt;p&gt;Hunters are archers that like to coat their arrows in their own cursed
+blood. Their preferred tactic is to snipe at their targets from behind a wall of
+bravos.&lt;/p&gt;
+
+&lt;p&gt;Hunters are Level 12 Artillery with 88 HP. They fight in melee with &lt;strong&gt;Spears&lt;/strong&gt;
+that benefit from their aura, but prefer to stay back and use their
+&lt;strong&gt;Longbows&lt;/strong&gt;. Their basic ranged attack damages and slows for a turn on a
+hit. They can use a &lt;strong&gt;Distracting Shot&lt;/strong&gt; instead, doing the same amount of
+damage and forcing the target to grant combat advantage for a turn. Once per
+encounter they can do the blood-dipping thing and fire a &lt;strong&gt;Plague-Tainted Shot&lt;/strong&gt;
+that does the same damage and inflicts 10 ongoing necrotic damage (save
+ends). While this effect remains, any of the target’s allies that starts their
+turn adjacent to them takes 10 necrotic damage as well.&lt;/p&gt;
+
+&lt;p&gt;The plague shot is an interesting way to disrupt PC formations, since anyone
+adjacent to a stricken victim will have an incentive to move away.&lt;/p&gt;
+
+&lt;h3 id=&quot;meazel-strangler&quot;&gt;Meazel Strangler&lt;/h3&gt;
+
+&lt;p&gt;While bravos and hunters do the obvious battling, stranglers sneak around the
+edges of the fight looking for isolated enemies they can drag away. They’re
+Level 13 Controllers with 125 HP.&lt;/p&gt;
+
+&lt;p&gt;All of their attacks are Reach 1, so they all benefit from the aura. The basic
+attack is a &lt;strong&gt;short sword&lt;/strong&gt;, but the real star of the show is the
+&lt;strong&gt;Garrote&lt;/strong&gt;. Its intiial attack is weaker, but it grabs the target on a
+hit. (Athletics DC 24 or Acrobatics DC 26 to escape). In subsequent rounds the
+Strangler can spend a standard action to sustain the grab and deal a heavy chunk
+of physical damage to the target.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can use a &lt;strong&gt;Plage Touch&lt;/strong&gt; that targets Fortitude, does
+immediate and ongoing necrotic damage, and blinds (save ends both). It’s a good
+opener to make that wizard easier to strangle.&lt;/p&gt;
+
+&lt;p&gt;As a move action, the strangler can use &lt;strong&gt;Drag to the Feast&lt;/strong&gt;, which allows it
+to move its speed and pull the grabbed victim along without provoking
+opportunity attacks from them. Other PCs can still make OAs against the meazel,
+but any that miss damage the grabbed victim instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The history of the meazels is the story of a bunch of people who, when faced
+with the spread of a dangerous disease, chose to abandon science and put their
+faith in an instant cure sold by a charlatan. They suffered the consequences and
+still decided to double down.&lt;/p&gt;
+
+&lt;p&gt;I will note that this entry was written way back in 2010. Any similarity between
+meazels and anti-maskers, anti-vaxxers, and chloroquine/ivermectin enthusiasts
+is mere coincidence. Mechanically, they’re okay. The aura makes for some nice
+synergies with their other abilities.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Lolth</title>
@@ -1733,38 +1874,6 @@ certainly ride an Evil Fear Dog.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Merging Shield Skills in GURPS</title>
-        <description>&lt;p&gt;This is kind of an addendum to my earlier post on &lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;Merging Weapon Skills in
-GURPS&lt;/a&gt;, which occurred to me after reading this other post in &lt;a href=&quot;https://aftertheogre.blogspot.com/2022/08/df-novices-merging-weapon-skills.html&quot;&gt;After the
-Ogre&lt;/a&gt;. I realized I hadn’t mentioned Shield skills, but I had been merging
-them for so long I had forgotten that wasn’t the standard.&lt;/p&gt;
-
-&lt;p&gt;In my GURPS games, there is only one shield skill:&lt;/p&gt;
-
-&lt;h3 id=&quot;shield-dxe&quot;&gt;Shield (DX/E)&lt;/h3&gt;
-
-&lt;p&gt;This skill merges &lt;strong&gt;Shield&lt;/strong&gt;, &lt;strong&gt;Shield (Buckler)&lt;/strong&gt; and &lt;strong&gt;Force
-Shield&lt;/strong&gt;. There is still a mechanical difference between a shield that’s held in
-the hand and one that’s strapped to the arm, but both of them use the same
-skill and there is no familiarity penalty from switching between them.&lt;/p&gt;
-
-&lt;p&gt;If you’re using the optional rules for Familiarity Penalties in the previous
-post, such a penalty would definitely apply when someone used to traditional
-shields wields a weightless force shield, and vice-versa. As a reminder, that’s
-a -2 penalty to Shield that goes away after a few hours of practice during
-downtime, at no point cost.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 20 Aug 2022 20:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/20/merging-shield-skills.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
