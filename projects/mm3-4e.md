@@ -101,6 +101,9 @@ entries.
 - L
   - [Lolth][58]
 
+- M
+  - [Meazel][59]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -160,3 +163,4 @@ entries.
 [56]: {{ "/2022/09/03/kraken.html" | relative_url }}
 [57]: {{ "/2022/09/05/kuo-toa.html" | relative_url }}
 [58]: {{ "/2022/09/07/lolth.html" | relative_url }}
+[59]: {{ "/2022/09/10/meazel.html" | relative_url }}
