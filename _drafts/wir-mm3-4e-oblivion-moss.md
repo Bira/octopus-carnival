@@ -40,8 +40,9 @@ oblivion moss retain memory fragments from its past victims, and if someone eats
 those bits they can acquire those memories. While the fragmentary memories of a
 bandit might not give you their entire guard rotation or the map of their
 stronghold, they might give you the combination to their main vault or to a
-secret door. That can be useful, if you're willing to look past the ethical
-implications of eating a sapient being.
+secret door.  That can be useful, though eating a sapient being presents obvious
+ethical problems.
+
 
 ## The Numbers
 
@@ -81,7 +82,8 @@ mossling.
 
 So a moss mindmaster would only be able to keep a single mossling around at a
 time. If you want there to be more of them, add some as part of the initial
-encounter makeup.
+encounter makeup. Those don't count as "created", so the moss doesn't have to
+wait to use Absorb Memories.
 
 ### Mosslings
 
@@ -91,7 +93,7 @@ the oblivion moss - the creature is smart enough to seek out competent
 combatants for this purpose, since they make for more powerful mosslings.
 
 Their signature passive trait is **Mindmaster's Thrall** - if the mossling in
-question was created by an oblivion moss mindmaster, it adds immediately after
+question was created by an oblivion moss mindmaster, it acts immediately after
 its creator's turn. They all have Forest Walk too, and a basic tendril attack
 that does minion-tier damage and has a rider compatible with their role. But the
 real star of the show here is the **Simulacrum Attack**, which allows them to
@@ -124,7 +126,7 @@ Here are the different varieties:
 
 - **Mossling Hurler**: Artillery, speed 6. Explodes on death, dealing a bit of
   psychic damage and inflicting Daze (save ends) on a Close Burst 2. No riders
-  on tendril attack. Steals a melee power. Use to copy ranged strikers.
+  on tendril attack. Steals a ranged power. Use to copy ranged strikers.
 
 - **Mossling Grower**: Controller (Leader). Has an aura (1) that grants +2
   defense to plant allies. Tendril attack slows for a turn. Gives 20 temporary

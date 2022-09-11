@@ -103,6 +103,7 @@ entries.
 
 - M
   - [Meazel][59]
+  - [Meenlock][60]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -164,3 +165,4 @@ entries.
 [57]: {{ "/2022/09/05/kuo-toa.html" | relative_url }}
 [58]: {{ "/2022/09/07/lolth.html" | relative_url }}
 [59]: {{ "/2022/09/10/meazel.html" | relative_url }}
+[60]: {{ "/2022/09/11/meenlock.html" | relative_url }}
