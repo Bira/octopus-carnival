@@ -6,9 +6,150 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Sep 2022 18:38:57 +0000</pubDate>
-    <lastBuildDate>Sat, 10 Sep 2022 18:38:57 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2022 14:37:26 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2022 14:37:26 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Meenlock</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-meenlock.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Another one from the 1e Fiend Folio, though its lore is new for this edition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;A monster is considered “aberrant” in 4e when their origins or workings are
+heavily tied to the Far Realm. Usually this means they come from the Far Realm,
+but that’s not the case with meenlocks. Meenlocks are the victims of an alien
+disease, and it’s this disease that comes from that horrible place.&lt;/p&gt;
+
+&lt;p&gt;Known as Meenlock Corruption, it eventually changes its victims into naked mole
+rat/crab hybrids like those in the illustration. Meenlocks gather together in
+subterranean lairs built in caves, ruins, or in the shallow Underdark.&lt;/p&gt;
+
+&lt;p&gt;These lairs usually have relatively easy access to the surface, with at most an
+easily-rolled boulder blocking their main entrance. The creatures themselves
+scatter and hide when their lairs are invaded, fighting only when cornered. All
+of this is because their main defense is Meenlock Corruption itself. Anyone who
+enters their lairs is exposed to the disease.&lt;/p&gt;
+
+&lt;p&gt;As the corruption progresses, it dominates the victim’s mind and compels them to
+return to the lair where they were infected. If such a victim spends more than
+two days in there, they turn into a new meenlock.&lt;/p&gt;
+
+&lt;p&gt;Meenlocks are driven to seek new victims as well - that’s how they increase
+their numbers. To that end they can ally with other creatures who are themselves
+resistant to their infection, in exchange for victims who are not. Potential
+allies include foulspawn, or powerful evil wizards and psions.&lt;/p&gt;
+
+&lt;p&gt;The text of the book is a bit confusing but it looks like it’s possible to
+restore someone who was turned into a meenlock. You need to kill the creature,
+burn its body, and then apply the Remove Affliction and Raise Dead rituals to
+the remains. How’s that for an extreme treatment?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Let’s start by detailing the &lt;strong&gt;Meenlock Corruption&lt;/strong&gt; disease. It’s a Level 9
+Disease, with an improve DC of 20, and a Maintain DC of 15. Unlike most other
+diseases, its resistance rolls use Insight instead of Endurance. Stage One
+inflicts a -4 Will penalty. Stage Two makes the victim grant combat
+advantage. Stage Three makes the victim become dominated by the meenlocks who
+infected it, and driven to return to their lair.&lt;/p&gt;
+
+&lt;p&gt;As usual for 4e diseases, when you reach Stage Three you stop making resistance
+rolls to improve. A Remove Affiction ritual might be able to save the victim if
+performed before the transformation is complete. Otherwise you need the more
+drastic procedure described above (kill them, burn the body, Remove Affliction,
+Raise Dead).&lt;/p&gt;
+
+&lt;p&gt;Meenlocks themselves are Small Aberrant Humanoids with Speed 5 and
+Darkvision. Their signature ability is Dimension Step (recharge 4+), a move
+action that allows them to teleport 8 squares. All of them fight with their
+claws and with a suite of mental powers blending fey magic and aberrant
+psionics. The specifics vary per individual stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;meenlock-stalker&quot;&gt;Meenlock Stalker&lt;/h3&gt;
+
+&lt;p&gt;Stalkers possess powers that make them particularly suitable for the gathering
+of new victims. They’re Level 9 Controllers with 97 HP.&lt;/p&gt;
+
+&lt;p&gt;In combat, a Stalker will first and foremost try to forge a &lt;strong&gt;Horrid Link&lt;/strong&gt;
+(minor action, recharge 4+) with a victim. It has a range of 10 squares and
+happens automatically. Whenever the stalker takes damage, the linked victim
+takes 1d10+5 damage. The link lasts for a turn or until the stalker uses the
+power again.&lt;/p&gt;
+
+&lt;p&gt;The Stalker can then use two powers against the linked victim. Both are ranged
+attacks targetting Will and inflicting light psychic damage, with different
+rider effects. &lt;strong&gt;Maddening Whispers&lt;/strong&gt; dazes (save ends). And &lt;strong&gt;Twisting
+Whispers&lt;/strong&gt; force the victim to make a basic attack against a creature of the
+stalker’s choice. It also exposes the victim to Meenlock Corruption.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Claws&lt;/strong&gt; are simple basic attacks with average damage, so stalkers have
+an incentive to stay away from the PCs and work solely through the Horrid
+Link. Their default goal in a fight is to infect as many PCs as possible with
+Meenlock Corruption, though they might have others depending on who they’re
+allied with.&lt;/p&gt;
+
+&lt;h3 id=&quot;meenlock-corruptor&quot;&gt;Meenlock Corruptor&lt;/h3&gt;
+
+&lt;p&gt;This one trades damage potential for increased control. It’s devastating to
+party cohesion in both defensive and offensive ambushes. It’s a Level 11 Lurker
+with 89 HP.&lt;/p&gt;
+
+&lt;p&gt;Once again, its &lt;strong&gt;claws&lt;/strong&gt; are simple basic attacks. The star of the show here is
+&lt;strong&gt;Corrupting Mind&lt;/strong&gt;, a very complex at-will ranged attack. It deals no damage
+itself, but does a lot of other things. First, it exposes the target to meenlock
+corruption. Then, it inflicts a custom condition named Mental Disarray (save
+ends). A target affected by this is considered dominated, gains 2d6 bonus damage
+to all attacks, and is unable to see the corruptor.&lt;/p&gt;
+
+&lt;p&gt;Failing the first save against mental disarray makes the condition last until
+the end of the encounter! Whenever a victim in this state takes more than 10
+damage, the meenlock corruptor takes the same amount, and the victim can make a
+saving throw.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the corruptor can also use a &lt;strong&gt;Psychic Shriek&lt;/strong&gt; to hit a
+close blast 5, dealing psychic damage and knocking targets prone.&lt;/p&gt;
+
+&lt;p&gt;So yeah, another dominator that’s worse than a succubus. Since Corrupting Mind
+is at-will, it’s possible that the whole party would get dominated at once when
+fighting a corruptor. The more of them you add to a single encounter, the bigger
+the chance of this happening. Once a target is dominated for the encounter, Team
+Monster should avoid attacking them. It’s up to the PCs to do those 10+ damage
+to their mind-controlled friends.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Another disease-themed monster that tackles its theme in a creative
+manner. Not many diseases use Insight instead of Endurance. Your beefy
+Endurance-trained defenders will get a nasty shock if the party doesn’t figure
+this out before exposure.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, both of them are quite dangerous. PCs fighting an all-meenlock
+encounter group will spend as much time attacking each other as they will
+fighting the monsters. The corruptor is particularly terrifying in this
+regard. If possible, avoid using more than one of those in an encounter group
+unless you want your PCs to really suffer.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/11/meenlock.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/11/meenlock.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Meazels</title>
@@ -1741,135 +1882,6 @@ makes sense for Imix’s own seat of power to qualify as a Font.&lt;/p&gt;
         <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/08/24/imix.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/24/imix.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Howler</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-howler.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Howlers totally feel like a 3e monster, probably because of the art. I suppose
-they might have shown up in AD&amp;amp;D too, it’s not like the game was ever shy about
-adding one more dog monster to the pile.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Howlers are spiky, sapient quadrupedal predators that feed on fear. They’ve
-evolved to hunt in a way that’s as terrifying as possible. Younger howlers are
-quick to kill because they enjoy the spike of fear the victim feels when it
-dies, but older specimens are sophisticated enough to hold whole villages
-hostage with the &lt;em&gt;threat&lt;/em&gt; of death-by-howler and feed off the ambient terror.&lt;/p&gt;
-
-&lt;p&gt;The most legendary howler of all is known as Terror Incarnate. This creature
-managed to devour the fear felt by an entire army as it died, and this excess
-power turned it into something like a demigod of terror. Its eventual progeny
-inherited its powers.&lt;/p&gt;
-
-&lt;p&gt;There’s some fuzzy edges in their lore. It mentions howlers attacking people in
-the middle world and in the Underdark, mentions associations with shadar-kai,
-but gives the creature an Elemental origin. I think they might fit better as
-either Natural or Shadow. Fortunately origin doesn’t influence
-stats. Alternatively you might go the other way and make them a type of demon.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;As mentioned above, Howlers are Elemental Magical Beasts. They have Darkvision
-and a Speed of 8. They understand Abyssal but can’t speak.&lt;/p&gt;
-
-&lt;h3 id=&quot;howler-dread-hound&quot;&gt;Howler Dread Hound&lt;/h3&gt;
-
-&lt;p&gt;One of those young specimens that kills too quickly. They gather in huge packs
-to massacre whole villages at once. They are Medium Level 9 Minion Controllers
-with a speed of 8. At Int 5, they’re sapient but dim.&lt;/p&gt;
-
-&lt;p&gt;As with all “dog monsters”, their basic attack is a &lt;strong&gt;bite&lt;/strong&gt;. This one does a
-bit of damage and slides the target 1 square on a hit. They also have a
-&lt;strong&gt;Piercing Spines&lt;/strong&gt; trait that deals the same damage as the bite to anyone who
-misses them with a melee attack. The ability that gives them their name is the
-&lt;strong&gt;Dread Howl&lt;/strong&gt; encounter power, a fear attack that catches every enemy in a
-Close Blast 5 and targets Will. A hit does a bit of psychic damage and makes the
-target grant combat advantage for a turn.&lt;/p&gt;
-
-&lt;p&gt;These are minions, so there will always be a lot of them when they appear. A bit
-of orchestration could ensure PCs grant combat advantage for most of the fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;howler-doom-mastiff&quot;&gt;Howler Doom Mastiff&lt;/h3&gt;
-
-&lt;p&gt;An older, fully developed howler who has learned the value of prolonged
-psychological torture. They roam ruins and tunnels in small packs, looking for
-victims to terrify. They are Large Level 13 Skirmishers with 129 HP and a speed
-of 8.&lt;/p&gt;
-
-&lt;p&gt;Doom Mastiffs are large enough to ride, and they have the Mount keyword. As they
-have Int 9, I think this is more of an equal partnership thing than the rider
-“keeping” the howler as a mount or pet. The &lt;strong&gt;Guarding Spines&lt;/strong&gt; trait gives the
-mastiff’s rider a +2 bonus to AC. Its &lt;strong&gt;Piercing Spines&lt;/strong&gt; does 10 damage to
-anyone who misses the howler &lt;em&gt;or its rider&lt;/em&gt; with a melee attack.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;Bites&lt;/strong&gt; are a little weak but can be used as part of a &lt;strong&gt;Loping
-Bite&lt;/strong&gt; attack that allows the mastiff to shift half its speed and bite. Their
-&lt;strong&gt;Terrifying Howl&lt;/strong&gt; is a lot stronger than the dread hound’s: it deals 10
-ongoing psychic damage to those it hits, and makes them grant combat advantage
-(save ends). Targets adjacent to the mastiff &lt;em&gt;can’t save agains this&lt;/em&gt;. Finally,
-this is a (recharge 6+) power instead of an encounter power. So it might happen
-more than once!&lt;/p&gt;
-
-&lt;p&gt;Being all about that delicious fear, the mastiff will open with a howl and then
-will do its best to stick to one of the affected PCs, using move actions and
-Loping Bites to do so. It’s smart enough to prefer a squishy victim over a
-defender, too.&lt;/p&gt;
-
-&lt;h3 id=&quot;howler-terror-incarnate&quot;&gt;Howler Terror Incarnate&lt;/h3&gt;
-
-&lt;p&gt;The one that devoured an army’s collective fear and became a demigod of
-terror. It’s a Large Level 22 Lurker with 155 HP.&lt;/p&gt;
-
-&lt;p&gt;The terror’s &lt;strong&gt;Shadow Spines&lt;/strong&gt; work a lot like that of its lesser relatives, but
-deal necrotic damage. It also has a &lt;strong&gt;Terror Incarnate&lt;/strong&gt; aura (3) that deals 10
-psychic damage per turn to any enemies inside.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;bite&lt;/strong&gt; deals the same damage as that of the level 13 doom mastiff,
-which I’m almost sure is a typo. It can also possess people with the &lt;strong&gt;Shadow of
-Terror&lt;/strong&gt; power. This is a melee attack that can only be used against people who
-can’t see the howler, and who haven’t been possessed during the fight yet. On a
-hit, the howler is removed from play and the target is dominated (save
-ends). The target’s at-will attacks deal an extra 1d8 psychic damage and target
-Will instead of their original defenses. The posession ends when the target
-passes a save or takes radiant damage - when this happens, the howler reappears
-adjacen to them. The target is then dazed (save ends).&lt;/p&gt;
-
-&lt;p&gt;Their final attack is the &lt;strong&gt;Death Howl&lt;/strong&gt;, another blast attack. This one does
-immediate psychic damage and dazes (save ends) on a hit.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shadow Lope&lt;/strong&gt; (recharge 4+) provides the ability to set up for a Shadow of
-Terror attack: it allows the howler to become invisible for a turn and move its
-speed.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
-
-&lt;p&gt;Howlers are far from the first dog monsters to show up in D&amp;amp;D. They’re not even
-the first dog monsters with fear powers. Still, you can use them in your
-campaign in place of wargs and other similarly-leveled canine menaces for added
-variety. The Doom Mastiff’s ability to act as a mount also makes it an possible
-replacement for a Nightmare. Anyone who would ride an Evil Fire Horse would also
-certainly ride an Evil Fear Dog.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/22/howler.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/22/howler.html</guid>
         
         <category>dnd4</category>
         
