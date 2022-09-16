@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-mimic.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Mind flayers made their 4e debut back in the first Monster Manual. This entry
 adds more lore to them, and more stat blocks.
 
@@ -19,13 +30,14 @@ of permanently mind-controlled thralls from every other sapient species in the
 Underdark, supporting a small collective of illithid masters, who in turn might
 be led by an Elder Brain.
 
-Elder Brains live in special life support vats, and despite being stationary are
-psionic powerhouses. Third Edition had Elder Brains as deceivers who absorbed
-the knowledge and power of deceased illithids. Fifth Edition would make mind
-flayers into a full-on hive mind centered on the brains. Here in Fourth they're
-neither of those things. Instead, they are revered leaders and masterminds. They
-form the center of a telepathic network linking all the illithids in the
-collective, who can communicate and share information instantly through it.
+Elder Brains live in special life support vats, and are psionic
+powerhouses. Third Edition had Elder Brains as deceivers who absorbed the
+knowledge and power of deceased illithids. Fifth Edition would make mind flayers
+into a full-on hive mind centered on the brains. Here in Fourth they're neither
+of those things. Instead, they are revered leaders and masterminds. They form
+the center of a telepathic network linking all the illithids in the collective,
+who can communicate and share information instantly through it while retaining
+their individuality.
 
 When an illithid collective passes a certain threshold of size and combined
 power, it performs a specific procedure on its wisest and most respected
@@ -198,3 +210,12 @@ close range. It will probably try to teleport to be near the PC's squishier back
 line, using Tentacle Warps to keep them close and to keep defenders away. It
 also has enough melee reach to fight from behind a wall of soldiers or brutes,
 and pairs well with other enemies that inflict forced teleports.
+
+## Final Impressions
+
+All the mind flayers here have interesting mechanics, and I particularly like
+this edition's take on the elder brain as a highly mobile close-range
+combatant. It's probably the last thing your players will expect if they're used
+to the more static depiction from other editions.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
