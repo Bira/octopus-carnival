@@ -105,6 +105,8 @@ entries.
   - [Meazel][59]
   - [Meenlock][60]
   - [Mimic][61]
+  - [Mind Flayer][62]
+  - [Minotaur][63]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -169,3 +171,4 @@ entries.
 [60]: {{ "/2022/09/11/meenlock.html" | relative_url }}
 [61]: {{ "/2022/09/13/mimic.html" | relative_url }}
 [62]: {{ "/2022/09/16/mind-flayer.html" | relative_url }}
+[63]: {{ "/2022/09/20/minotaur.html" | relative_url }}
