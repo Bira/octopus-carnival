@@ -108,6 +108,9 @@ entries.
   - [Mind Flayer][62]
   - [Minotaur][63]
 
+- N
+  [Nagpa][64]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -172,3 +175,4 @@ entries.
 [61]: {{ "/2022/09/13/mimic.html" | relative_url }}
 [62]: {{ "/2022/09/16/mind-flayer.html" | relative_url }}
 [63]: {{ "/2022/09/20/minotaur.html" | relative_url }}
+[64]: {{ "/2022/09/22/nagpa.html" | relative_url }}
