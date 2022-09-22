@@ -1,0 +1,128 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Spider"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Not only have monstrous spiders been in the game since the beginning, they've
+been on every monster book we read so far. The MM3 is no exception in this
+case.
+
+## The Monsters
+
+Looks like the Web Walk trait was a Monster Vault innovation. The spiders in the
+MM3 don't yet have it, but it would make sense for them to do so. They do
+already use fixed math, like the other monsters in this book.
+
+All spiders here have a climb speed equal to their ground speed, with the Spider
+Climb keyword to signal that they can also walk on ceilings. They also have
+Tremorsense 5.
+
+## Ambush Spider
+
+Sometimes you have to go back to basics, and you can't get any more basic than
+this. These Medium natural spiders behave much like mundane trapdoor spiders,
+using webs to camouflage their hidey-holes and charging out of them to bite and
+inject venom into their prey. As Level 2 Lurkers with 28 HP, they're likely the
+first giant spider any group of adventures is going to face. I'm surprised
+something like this only showed up in the MM3. Their speed is a breezy 8.
+
+The spider's **Camouflage** trait allows it to hide when it has only partial
+cover or concealment. Its basic attack is a **bite**, but it turns into a
+**Venomous Bite** if made against a creature the spider is hidden from. This
+does the same damage and can be used in a charge. It also slows the target and
+inflicts 5 ongoing poison damage (save ends). This worsens to immobilized after
+the first failed save.
+
+## Spiderling
+
+Spiderlings are immature giant spiders, merely Small in size. This is a generic
+stat block that can be used to represent youngsters of any of the spider species
+presented here or elsewhere. They're Level 4 Minion Skirmishers with Speed 6 and
+a basic bite attack.
+
+The attack deals only 2 poison damage, but it also gives poison vulnerability 5
+to the target for a turn. If the target is already vulnerable to poison their
+vulnerability increases by 2 instead. This means that multiple spiderling bites
+on the same victim add up very fast, particularly if the adults join in at the
+end. You can vary their level based on the expected level of the adult
+specimens.
+
+## Feyspitter Spider
+
+This spider native to the Feywild produces a venom laced with psychedelic
+fairy-tale qualities. Aside from the usual physiological damage, it also forces
+its victims to dance uncontrolably! Over time, feyspitter hunting grounds come
+to look like clearings where the vegetation has been stomped flat by all the
+dancers.
+
+Feyspitters are Medium Fey Beasts and Level 7 Controllers with 80 HP and a Speed
+of 6. Their **bite** deals physical damage and inflicts 5 ongoing poison damage
+(save ends). Each time the victim fails a save, the spider can slide them 3
+squares.
+
+They can also use **Poison Spittle** to spray their venom in a Close
+Blast 3. This deams 10 ongoing poison damage on everyone it hits, with the same
+sliding effect on each failed save. Finally, if hit in melee, feyspitters can
+use a **Fey Leap** (recharge 5+) to teleport 3 squares as an interrupt. Yes,
+this means they can jump out of melee range and negate any damage.
+
+### Lolth's Reaver
+
+Another epic level spider directly associated with Lolth. These spiders don't
+exist in the wild. Instead, they're bred by Lolth's worshippers and fed the
+blood of elves, eladrin and angels from an early age. Their upbringing makes
+them sapient and Chaotic Evil. They commonly serve as mounts for Abyssal Drow,
+and can also be found as pets and guardians in Lolth's mightiest temples
+elsewhere in the universe.
+
+Reavers are Large Elemental Beasts with the Mount and Spider keywords. They're
+Level 25 Brutes with 287 HP. They have a ground speed of 8, but their Climb
+speed is only 6. Their mount trait is **Web Saddle**, which prevents their rider
+from being involuntarily dismounted by forced movement. I never even knew this
+was a possibility for anyone else, so I find this very interesting. Enough PCs
+have easy access to forced movement that staying mounted might very well be a
+problem for an enemy rider in most situations. Not here, though.
+
+Reavers fight with their extremely venomous **bites**, which deal light physical
+damage and inflict 20 ongoing poison damage (save ends). They can shoot
+**Grasping Threads** at range, which deal no damage but pull the target 5
+squares and restrain them (save ends). Each failed saving throw causes the
+reaver to pull the target an additional 5 squares. There is no hard limit on the
+number of targets that can be restrained in this way.
+
+Once per encounter the reaver can perform a **Web Leap**, jumping 8 squares
+without provoking opportunity attacks and spreaying a Close Blast 3 with sticky
+webs when they land. This does heavy physical damage, knocks its targets prone,
+and prevents them from standing up (save ends).
+
+### Spider Webs
+
+This is not a monster, but a side box with example terrain features based on
+spider webs. All of the spiders in this entry and most of the ones in previous
+books are web-spinners, so these should see heavy usage in arachnid-themed
+dungeons.
+
+These hazards have variable DCs and attack rolls based on their level, which
+should be similar to that of the overall encounter. The more badass the spider,
+the more badass its webs.
+
+**Web Sheets** are nearly invisible vertical webs, usually placed across
+passages and corridors. Spotting them requires a Perception test against the
+hard DC for their level. When someone enters their space, they attack the
+victim's Reflex and immobilize them (save ends). A close or area fire attack
+destroys the whole web, a melee fire attack destroys one square of it.
+
+**Cobwebs** are thick and opaque sheets of webbing covering walls, floors, and
+ceilings. Spiders use these for concealment, hiding behind them until it's time
+to burst out and strike. They provide total concealment, and spiders can usually
+perceive enemies through them using tremorsense. They might also count as
+difficult terrain.
+
+## Final Impressions
+
+We're starting to repeat ourselves a bit with all these spiders, but it's nice
+to see a low-level example. I also really liked the Feyspitter for its dancing
+venom.

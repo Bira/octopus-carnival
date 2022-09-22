@@ -1,0 +1,151 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Tulgar"
+tags:
+    - dnd4
+    - lets-read
+---
+
+This is the first time I'm seeing this monster. If they appeared in previous
+editions, it was with a different lore.
+
+## The Lore
+
+Once upon a time, during the days of the Dawn War, there was a certain place in
+the world that was a major nexus of primal power, connected to a great number of
+spirits. This place was annihilated by one of the many cataclysms being thrown
+around as weapons during that war. It was not the target - it was collateral
+damage. And it was a god who pulled the trigger.
+
+The spirits of that sacred site were cast into the world, rootless and
+homeless. Spirits of place without a place, their rage against the gods knew no
+bounds. In order to survive, they cast part of their spiritual nature aside and
+took on material forms made of flesh, becoming the first tulgars. And then they
+swore to destroy the gods and their servants in revenge for what was done today.
+
+The tulgars would soon find out that attaining their revenge was much harder
+than they thought. After the Dawn War ended, the gods retreated to their domains
+and no longer stepped into the world. Their followers grew very quickly grew in
+number and built large complex societies that were much harder to destroy than
+the fleeting villages of the War. Many of the tulgars gave on their oath over
+the ages, and now live as bitter mercenaries. Some of them, though, still keep
+that flame of hate going and try to find ways to accomplish their original goal.
+
+Metaphysically, a tulgar is more or less the primal equivalent of a daeva or
+rakshasa. When they die, they are immediately reincarnated elsewhere in the
+world in a new adult body, with intact memories of their previous lives. I don't
+think they can reproduce by natural means, but they have been increasing their
+numbers. They can sense when a primal spirit loses its home or becomes hateful
+of sapient mortals or their gods, and converge to the spirit's location to
+convince it to join their numbers.
+
+## The Numbers
+
+Tulgars are Medium Natural Humanoids with a ground Speed of 7 and the Forest
+Walk trait. Their signature ability is **Unbroken Spirit**, which triggers when
+they hit 0 HP and gives their nearest ally a "parting gift" of 10 temporary HP
+and a +2 to attacks, defenses, and damage that lasts for a turn.
+
+All the stat blocks here present us with early-epic threats, which is
+appropriate for a people who swore vengeance on the gods and has a real shot at
+achieving this. It's possible they would make good allies for the Forsaken,
+since they have similar goals.
+
+### Tulgar Flesh Hunter
+
+A hunter of sapient prey, with centuries of accumulated experience. This is a
+Level 22 Skirmisher with 209 HP. It fights with a **Spear** and a **Handaxe** it
+uses as a thrown weapon. Its **On the Hunt** trait makes it not provoke
+opportunity attacks when it moves for a turn after hitting an enemy.
+
+The flesh hunter can use **Hunter's Onslaught** to make both a spear and a
+handaxe attack against different targets on its turn. The ranged attack doesn't
+provoke opportunity attacks when used as part of this power, and the power can
+be used in place of a basic attack during a charge! In other words, no reason to
+use a single basic attack when this is available.
+
+Additionally, flesh hunters can use a **Rotting Strike** (recharge 5+) to deal
+light damage and inflict ongoing necrotic damage on the target (save ends).
+
+### Tulgar Savage
+
+This unfortunately named enemy is a Level 22 Minion Brute. They have a **spear**
+and a **handaxe** like the flesh hunter, though it does minion-scale
+damage. Their **Critical Threat** ability allows them to crit on a 19-20, and
+when they do they grant a free melee basic attack to an ally within 2 squares.
+
+Oh, and they have Unbroken Spirit too, so they make a powerful contribution to
+their allies by dying.
+
+### Tulgar Half-Spirit
+
+A tulgar that keeps more of its spirit side than most others. It's a Level 23
+Lurker with 116 HP, and it's Insubstantial.
+
+Its basic attack is a **Claw** that deals minor necrotic damage and immobilizes
+for a turn. It also turns the tulgar invisible for a turn as an effect. If it
+hits someone who can't see it, the half-spirit also dazes the target for a turn,
+so there's your lurker loop right there. It can also throw **handaxes** if no
+one is at hand.
+
+When the half-spirit becomes bloodied for the first time, it **Unleashes the
+Inner Spirit** (close burst 3 vs. Fortitude), dealing necrotic damage and
+stunning those it hits for a turn. The half-spirit then becomes invisible for a
+turn and teleports 5 squares.
+
+### Tulgar Warrior
+
+This elite combatant doesn't care about ranged attacks, and is all about
+charging to melee and laying waste to armies. It's a Level 23 Brute with 265
+HP. Its **Inveterate Warrior** trait makes it crit on a 19-20, and deal 3d12
+extra damage on a crit. That last bit might just be a codification of its
+**greataxe's** High Crit trait, since MM3 stat blocks don't include PC-style
+weapon rules any more.
+
+The warrior's basic axe attacks also inflict a -2 AC penalty for a turn. Its
+**Whirling Frenzy** maneuver is an encounter power that allows it to attack
+everyone in a Close Burst 1, shift 3 squares and repeat the burst attack once
+more against anyone who wasn't hit by the first one.
+
+### Tulgar Spirit Talker
+
+Some tulgars retain a stronger connection to their former spirit nature and can
+use that to cast spells. However, the other side of that connection is still
+_broken_, and this slowly erodes their mental stability. Over time, a spirit
+talker might become unable to live in its community, and the others consider it
+a mercy to kill them so that their minds might be mended by the process of
+reincarnation.
+
+Spirit Talkers are Level 24 Controllers with 225 HP. They project a **Primal
+Barrier** aura (2) that makes all spaces inside difficult terrain for creatures
+without phasing or forest walk. It fights with a **Spear** whose attacks make
+the target be marked by one of the tulgar's allies within 10 squares. Its ranged
+basic attack is the **Incite Savagery** spell, which deals psychic damage and
+has an interesting rider. If the target doesn't make a melee attack on its next
+turn, it grants combat advantage until the end of its following turn. A great
+power to use on primarily _ranged_ attackers!
+
+As a minor action the spirit talker can cast **Dismissal** (recharge 4+), which
+targets a conjuration, summoned creature, or zone within 10 squares. It attacks
+the Will of its creator, and on a hit it causes the target effect to end! If
+there's nothing to dispel, the spirit talker can use **Call Spirit Warrior** to
+summon a tulgar minion to its side, acting right after it in initiative order.
+
+Instead of Unbroken Spirit, the Spirit Talker has **Death's Embrace**, which
+works the same but makes its aura stick around as a zone with the same effects
+until the end of the encounter.
+
+## Final Impressions
+
+I like the lore of the tulgars here, because you can see how they might have a
+reason for being bitter and angry. I'll note that the stat blocks here are all
+Unaligned, which means the book might agree with me. The only thing I dislike
+here is the use of the word "savage" in both the minion's name and the spirit
+talker's ranged attack.
+
+You can play some tulgar groups as being vengeful against the gods and perhaps
+leaning more towards Evil, but you can also portray them as people who gave up
+on that vengeance but still can never go back to what they were, which is a very
+different story. Maybe some of them might be looking for a way to become full
+spirits again, and it might be something that brings them into alliance with the
+PCs or with sympathetic NPCs.
