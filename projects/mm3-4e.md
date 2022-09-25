@@ -110,6 +110,7 @@ entries.
 
 - N
   [Nagpa][64]
+  [Nerra][65]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -176,3 +177,4 @@ entries.
 [62]: {{ "/2022/09/16/mind-flayer.html" | relative_url }}
 [63]: {{ "/2022/09/20/minotaur.html" | relative_url }}
 [64]: {{ "/2022/09/22/nagpa.html" | relative_url }}
+[65]: {{ "/2022/09/25/nerra.html" | relative_url }}
