@@ -111,6 +111,7 @@ entries.
 - N
   [Nagpa][64]
   [Nerra][65]
+  [Norker][66]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -178,3 +179,4 @@ entries.
 [63]: {{ "/2022/09/20/minotaur.html" | relative_url }}
 [64]: {{ "/2022/09/22/nagpa.html" | relative_url }}
 [65]: {{ "/2022/09/25/nerra.html" | relative_url }}
+[66]: {{ "/2022/09/26/norker.html" | relative_url }}
