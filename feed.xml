@@ -6,9 +6,122 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 25 Sep 2022 22:03:50 +0000</pubDate>
-    <lastBuildDate>Sun, 25 Sep 2022 22:03:50 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2022 13:33:01 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2022 13:33:01 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Norker</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-norker.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Norkers have been around since the days of AD&amp;amp;D, where their major mechanical
+distinction was that they were stronger goblins with AC 3. They play a
+significant role in The Forgotten Temple or Tharizdun as the rank and file of
+the occupying force the PCs need to clear out before they can delve the temple.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Norkers in 4e are descendants of goblins who emigrated to the Elemental Chaos
+and sought shelter in deep caves in order to survive the harsh conditions of
+that plane. The earth-aspected ambient energy of their chosen habitat mutated
+them over generations, granting them stony skin and minor earth-based powers.&lt;/p&gt;
+
+&lt;p&gt;Norker populations have since crossed back into the middle world, where they
+live in mountainous regions, in the Underdark, and near fonts of earth-aspected
+elemental power. Some sages speculate that the original norkers lived near sites
+of power related to Ogrémoch, the Evil Elemental Prince of Earth, because modern
+norkers are often found working for his cultists or those of the Elder Elemental
+Eye, guarding his forgotten temples in another very obvious historical
+reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Norkers retain their conceptual role as rank-and-file opposition for
+paragon-tier (AKA “name level”) characters, which in 4e means they’re much
+stronger than they ever were. Their levels range from around 12 to 15 here.&lt;/p&gt;
+
+&lt;p&gt;They’re Small Elemental Humanoids with Low-Light Vision and Speed 6, with
+abilities combining martial training and minor earth magic.&lt;/p&gt;
+
+&lt;h3 id=&quot;norker-stone-shield&quot;&gt;Norker Stone Shield&lt;/h3&gt;
+
+&lt;p&gt;Stone Shields look like an unruly mob at first glance, but they’re professional
+soldiers trained by those elemental cults and other earth-themed villains. Their
+training and equipment allows them to fight a bit like a roman legion, keeping
+tight formations, throwing javelins and them closing in to batter enemies with
+their short clubs and shields.&lt;/p&gt;
+
+&lt;p&gt;Stone Shields are Level 12 Soldiers with 124 HP, which means a sizable group of
+them can eat most typical human military units for breakfast. Their basic
+attacks are a &lt;em&gt;club&lt;/em&gt; and a &lt;em&gt;javelin&lt;/em&gt;, both of which mark for a turn on a hit. If
+a marked enemy adjacent to the norker shifts, it can attack them with a &lt;strong&gt;Shield
+Slam&lt;/strong&gt; vs. Fortitude that damages and knocks prone on a hit. And if someone hits
+them in melee they can respond with an &lt;strong&gt;Elemental Rebuke&lt;/strong&gt;, a reaction that
+attacks AC and does some minor damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;norker-grunt&quot;&gt;Norker Grunt&lt;/h3&gt;
+
+&lt;p&gt;Fortunately, it seems stone shields are rarified elites. The actual rank and
+file of a norker force will be made of of these guys, who are far less organized
+and prefer to use “charging horde” tactics with their clubs. Their natural
+strength and toughness still makes them a very hard problem for human
+militaries, and even PCs don’t want to get surrounded by them.&lt;/p&gt;
+
+&lt;p&gt;Grunts are Level 15 Minion Brutes, and their only active ability is their
+&lt;strong&gt;Club&lt;/strong&gt; attack. Their &lt;strong&gt;Harrassing Brute&lt;/strong&gt; trait is what makes them truly
+dangerous. All of the grunt’s allies get a damage bonus against enemies equal to
+twice the number of grunts adjacent to that enemy.&lt;/p&gt;
+
+&lt;p&gt;Let’s unpack that for a moment. Let’s say 4 grunts are adjacent to the party’s
+fighter. Each of those grunts will get a +8 damage bonus when they attack the
+fighter. So will the grunt’s artillery and controller bosses who are 5 squares
+away from this scrum. And so on.&lt;/p&gt;
+
+&lt;p&gt;Ideally, grunts want to slip past the front line and harrass the enemy
+squishies, but as we can see from the example above they can still do pretty
+well against defenders if Team Monster decides to focus fire.&lt;/p&gt;
+
+&lt;h3 id=&quot;norker-stone-walker&quot;&gt;Norker Stone Walker&lt;/h3&gt;
+
+&lt;p&gt;Stone Walkers norkers who received proper training in earth magic, and who
+combine that with a mobile fighting style. They’re Level 15 Skirmishers with 150
+HP. They can attack with &lt;strong&gt;handaxes&lt;/strong&gt; in melee or at range, doing extra damage
+if they have combat advantage. They also have a +4 AC bonus against opportunity
+attacks.&lt;/p&gt;
+
+&lt;p&gt;Magic-wise, they have the same &lt;strong&gt;Elemental Rebuke&lt;/strong&gt; reaction as the Stone
+Shield, and they can also use &lt;strong&gt;Earth Glide&lt;/strong&gt; as a move action to move their
+speed and phase through earth and rock during this movement.&lt;/p&gt;
+
+&lt;p&gt;That last one makes them excellent additions to an underground encounter. Place
+a couple of them behind a thin rock wall and have them flank the PCs after the
+stone shields and grunts begin their frontal assault.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Tough norkers still fill more or less the same narrative role as before, they do
+so in a very different way. I think my favorites are the grunts; the damage
+bonus they grant is both very distinctive and terrifying to players. When
+scaling their level, I’d probably make it +1/tier instead of a flat +2.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/26/norker.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/26/norker.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Nerra</title>
@@ -1610,179 +1723,6 @@ are cool enough.&lt;/p&gt;
         <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/05/kuo-toa.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/05/kuo-toa.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Kraken</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-kraken.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Krakens have been in the game since AD&amp;amp;D, but here they get some extra lore.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;At the beginning of time, long before the creation of the first mortals, the
-Krakens escaped from the Far Realm and entered the middle world and the Astral
-Sea, trailing the debris of other broken worlds behind them.&lt;/p&gt;
-
-&lt;p&gt;They had a good time for a while, but then a great cataclysm (perhaps the Dawn
-War) scattered them. In our narrative present most of the surviving krakens are
-hidden in the deepest trenches of the middle world’s oceans, or slumbering in
-forgotten corners of the Astral. Every once in a while, though, one of them will
-leave these dark holes and once again wreak havoc.&lt;/p&gt;
-
-&lt;p&gt;These creatures are extremely intelligent, though their mentalities are very
-alien to mortals. They’re hostile to mortal sapients for incomprehensible
-reasons, and are drawn to wherever large groups of sapient minds can be
-found. When they emerge, groups of cultists soon gather around them, composed
-both of mortal worshippers and aberrant creatures. Krakens are more than smart
-enough to command and use these cults to help fulfill their destructive goals.&lt;/p&gt;
-
-&lt;p&gt;So yeah, Krakens are Great Old Ones.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;We have two varieties of kraken here. One is more geared towards the classic
-“giant squid attacks ship” scenario, and the other leans more on the Great Old
-One aesthetic. Both are Gargantuan Aberrant Magical Beasts.&lt;/p&gt;
-
-&lt;h3 id=&quot;sea-kraken&quot;&gt;Sea Kraken&lt;/h3&gt;
-
-&lt;p&gt;A kraken that lives in the seas of the middle world. It is said that terrible
-storms follow in their wake. They love to attack ships, and any vessel grabbed
-by a Sea Kraken is likely doomed unless it happens to be transporting a party of
-particularly badass adventurers.&lt;/p&gt;
-
-&lt;p&gt;Sea Krakens are Level 10 Solo Soldiers with 432 HP, which makes them a bit
-lower-level than I anticipated given their general lore. They have darkvision, a
-ground speed of 6, and a swim speed of 10. I think this makes them faster in
-water than most ships.&lt;/p&gt;
-
-&lt;p&gt;Sea Krakens are obviously &lt;strong&gt;Aquatic&lt;/strong&gt;, which means they can breathe underwater
-and gain a +2 attack bonus against non-aquatic creatures fighting them in the
-water. They also have &lt;strong&gt;Threatening Reach&lt;/strong&gt; 3. As you might guess, this is a
-grabby monster. Escaping its grabs requires a DC 26 Athletics or DC 22 Acrobatis
-check.&lt;/p&gt;
-
-&lt;p&gt;The kraken’s basic attack involves its &lt;strong&gt;Crushing Tentacles&lt;/strong&gt;, which are
-Reach 3. They damage and grab on a hit, and the kraken can have up to 8
-creatures grabbed by this attack. The monster can spend a minor action to
-sustain all of its grabs and deal an automatic 5 damage to all victims.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Devourer of Ships&lt;/strong&gt; is a literal anti-vehicle attack - it can only target
-vehicles, and it’s what the beast uses to coil around a ship. It deals heavy
-damage to the target ship and restrains it while the kraken remains within 3
-squares of it. While restrained, the ship takes 20 damage at the start of the
-target’s turn. Its pilot can spend a Standard action to give the ship a saving
-throw, and if it passes it escapes the grab.&lt;/p&gt;
-
-&lt;p&gt;And don’t worry, krakens don’t have to split their attention between a ship and
-its crew. &lt;strong&gt;Coils of Doom&lt;/strong&gt; is an at-will power that allows them to use Crushing
-Tentacles twice and Devourer of Ships once with a single action.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can also use an ability named &lt;strong&gt;Wavewrack&lt;/strong&gt; to create a
-zone in a Close Burst 3 around themselves. This zone is difficult terrain. When
-an enemy starts their turn inside, they take 5 damage and are slid 2
-squares. The Kraken can spend a minor action to slide this zone up to 3
-squares. Do note that a Close Burst 3 around a Gargantuan creature is &lt;em&gt;much&lt;/em&gt;
-larger than one around a Medium creature.&lt;/p&gt;
-
-&lt;p&gt;Aside from moving the zone, the kraken can spend minor actions to activate any
-of the following abilities. &lt;strong&gt;Fatal Plunge&lt;/strong&gt; is an attack against a grabbed
-creature that deals light damage and slides the target 3 squares. As the name
-implies, this can allow the kraken to drag them &lt;em&gt;underwater&lt;/em&gt;. It can also
-&lt;strong&gt;Fling&lt;/strong&gt; a grabbed creature, sliding them adjacent to another creature and
-making a lightly-damaging attack against both. This ends the grab. And finally,
-it can shoot &lt;strong&gt;Venom Bolts&lt;/strong&gt; that deal poison damage and blind (save ends).&lt;/p&gt;
-
-&lt;p&gt;We’re not done yet! If a grabbed creature damages the kraken, the monster can
-use &lt;strong&gt;Vengeful Constriction&lt;/strong&gt; as a reaction to deal 5 automatic damage to every
-creature it’s grabbing.&lt;/p&gt;
-
-&lt;h3 id=&quot;astral-kraken&quot;&gt;Astral Kraken&lt;/h3&gt;
-
-&lt;p&gt;Astral Krakens are “sea monsters” in the same way the Astral is a “sea”. Their
-bodies are made of stars and shadow, their eyes two black lightless
-voids. Madness precedes them and follows in their wake. You might say they’re
-closer to their original forms than the sea kraken, as they never had to
-acclimate to the middle world. You know how some people worship Aboleths as
-god-like beings older than time? I bet Aboleths worship astral krakens in the
-same way.&lt;/p&gt;
-
-&lt;p&gt;Astral Krakens are Level 25 Solo Controllers with 925 HP, putting them in the
-same “weight class” as godforged and primordial colossi, divine and demonic
-exarchs, and most ancient dragons. It takes the sea kraken chassis and adds
-madness-themed abilities on top. It has a flight speed of 10, and
-Blindsight 20. Invisibility won’t save you.&lt;/p&gt;
-
-&lt;p&gt;The kraken’s melee attacks have Threatening Reach 4. Its &lt;strong&gt;Tentacles From
-Beyond&lt;/strong&gt; work like the sea kraken’s, damaging and grabbing. The escape DC is 41
-for Athletics, and 37 for Acrobatics. Sustaining the grab deals 15 psychic
-damage to all victims.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Absorb Psyche&lt;/strong&gt; targets all grabbed victims at once, attacking Will and
-dealing psychic damage. A hit also grants the Kraken a +5 bonus to attack with
-Touch of Madness (below) &lt;em&gt;for the rest of the encounter&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Touch of Madness&lt;/strong&gt; targets a single creature’s Will. It does no damage, but it
-forces the target to use its highest-level encounter power against another
-target of the Kraken’s choice. This happens even if the power was already
-expended, and doesn’t expend the power if it hasn’t.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Devourer of Ships&lt;/strong&gt; is here too, and works much like the Sea Kraken
-version. Despite its higher accuracy, it deals exactly the same damage. I guess
-this makes sense, since a ship’s HP varies less than a PC’s as level goes up.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the astral kraken can release a &lt;strong&gt;Nullifying Pulse&lt;/strong&gt; in a
-Close Blast 4. This non-damaging attack targets Will and dazes (save ends) on a
-hit. There are no other minor action attacks, but it doesn’t &lt;em&gt;need&lt;/em&gt; any more
-with such a powerful multi-daze at its disposal.&lt;/p&gt;
-
-&lt;p&gt;Its triggered actions are pretty scary too! When someone misses the kraken,
-they’re forced to &lt;strong&gt;Behold the Horror&lt;/strong&gt;. This is a reaction attack that targets
-Will, deals psychic damage, and dominates for a turn. Luckily it can only happen
-at most once per round, since it’s a reaction.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, when the kraken is first bloodied, it lets out a &lt;strong&gt;Psychic
-Scream&lt;/strong&gt;, which covers a large enough area (Close Burst 10!) that it’s likely
-to target every enemy. This attacks Will, and on a hit it deals psychic damage
-and stuns (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;When it’s time to release the kraken, these two will not disappoint.&lt;/p&gt;
-
-&lt;p&gt;Sea krakens have a lot of straightforward multi-attack capability, and they’re
-really hard to shake from your ship once they grab on. If the ship manages to
-escape, they don’t have to divert their attention from the crew to grab the
-vessel again.&lt;/p&gt;
-
-&lt;p&gt;The astral kraken’s multi-attack capability is less straightforward than the sea
-kraken’s, but it has excellent action denial, and can be terrifying if you give
-it time to set things up properly.&lt;/p&gt;
-
-&lt;p&gt;Both monsters don’t seem to have much defense against being dazed or stunned
-other than the standard +5 solo bonus to saves, so doing that is a good way to
-neutralize their firepower. If your party is heavy on the action denial powers,
-you can make things harder for them by adding a sprinkling of cultist minions
-and a leader-type that can grant them extra saves.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/03/kraken.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/03/kraken.html</guid>
         
         <category>dnd4</category>
         
