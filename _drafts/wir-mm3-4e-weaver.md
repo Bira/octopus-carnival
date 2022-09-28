@@ -169,3 +169,49 @@ attack against the triggering enemy.
 Tought weavers can also choose to spend a standard, move, or minor action
 directing a **Coordinated Strike**, which essentially gifts the spent action to
 an ally within 5 squares and allows the ally to immediately take that action.
+
+### Hex Weaver
+
+This is the weaver attuned to the Shadow power source. And what is the Shadow
+power source? As far as I know it's basically "Arcane in a Halloween
+costume". It started getting mentions as something distinctaround this time, and
+would get a supplement all to itself named Heroes of Shadow the next year.  To
+my knowledge it never got very popular due to this conceptual confusion with
+arcane magic and due to most of its associated classes not being very
+good. Anyway, it got a weaver here.
+
+As you might have imagined, Hex Weavers are the ones associated with
+Shadow. They're too cool to hang out with other weavers, and instead oversee
+portals into the Shadowfell from which they launch expeditions to pursue
+mysterious goals that may or may not be related to the overall plan of the
+weaver civilization.
+
+A Hex Weaver is a Level 27 Elite Lurker with 382 HP, and it's also too cool to
+follow the same rules as the other weavers. Its minor action attacks are
+**Extract Shadow Soul**, which has the usual effects but only targets creatures
+with shadow powers, and **Shrouded Eye**, a ranged attack that deals psychic
+damage and makes the weaver invisible to the target for a turn. The latter can
+only be used once per round, which breaks from the pattern.
+
+This is also the weaver with the highest number of standard action powers:
+**Shadow Grasp** is a stronger, melee version of Shrouded Eye; **Stinging
+Shroud** is a close burst 1 that deals necrotic damage and is much stronger
+against creatures granting combat advantage to the weaver. And **Shadow Mask**
+is an encounter power that makes it invisible for a turn.
+
+Finally, if the weaver is damaged, it can **Step Into Shadow** (recharge 4+) to
+become insubstantial for a turn and teleport its speed as a reaction.
+
+Hex weavers are a bit disappointing. They'd be a lot more dangerous if Shadow
+Mask was a recharge or at-will power, or if Shadow Grasp was a minor
+action. They also had the problem that there weren't a lot of shadow-based PCs
+around when they were published, because Heroes of Shadow was like six months
+away from its release.
+
+## Final Impressions
+
+I'm not familiar with weavers from previous editions but I really like their
+lore here. The targetting restrictions on their Extract Soul attack do feel a
+little artificial, but are easily removed. I don't like the shadow power source
+very much, so I didn't like Hex Weavers, but the others are quite flavorful and
+powerful.
