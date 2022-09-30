@@ -114,6 +114,9 @@ entries.
   - [Norker][66]
   - [Nymph][67]
 
+- O
+  - [Oblivion Moss][68]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -182,3 +185,4 @@ entries.
 [65]: {{ "/2022/09/25/nerra.html" | relative_url }}
 [66]: {{ "/2022/09/26/norker.html" | relative_url }}
 [67]: {{ "/2022/09/28/nymph.html" | relative_url }}
+[68]: {{ "/2022/09/30/oblivion-moss.html" | relative_url }}

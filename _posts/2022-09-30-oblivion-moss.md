@@ -6,8 +6,19 @@ tags:
     - lets-read
 ---
 
-I don't remember seeing this on earlier editions of the game, though it might
-have shown on some supplement.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-oblivion-moss.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the other.
+
+This based on the Obliviax, a monster that showed up in the 1e MM2. It's
+completely changed for this edition, though.
 
 ## The Lore
 
@@ -155,3 +166,5 @@ Another option might be to turn the Mindmaster into a solo! Aside from the usual
 adjustments, you would want to make Absorb Memories at-will and remove the limit
 on the number of created mosslings in play. Maybe also turn Absorb Damage into a
 Free or No Action to make it usable as many times per turn as the moss wants.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
