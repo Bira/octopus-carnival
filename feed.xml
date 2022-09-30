@@ -6,9 +6,189 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Sep 2022 14:47:00 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Sep 2022 14:47:00 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Sep 2022 21:24:18 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Sep 2022 21:24:18 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Oblivion Moss</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-oblivion-moss.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;This based on the Obliviax, a monster that showed up in the 1e MM2. It’s
+completely changed for this edition, though.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Oblivion moss, sometimes also known as memory moss, is a sapient predatory plant
+that lives in the depths of old forests. It looks like a carpet of moss, but it
+can perceive its surroundings and move around slowly in search of prey. The
+creature feeds on memories, which it strips from the brains of its victims. It
+derives sustenance from those stolen thoughts, and can also use them to spawn
+humanoid simulacra that help it defend itself and find more food.&lt;/p&gt;
+
+&lt;p&gt;The memory stripping process is not actually fatal or permanent, but it’s still
+very traumatic. Stolen memories return at different rates. An adventurer’s
+knowledge of combat spells and maneuvers might come back after mere seconds,
+still in the middle of the fight. Important personal memories (“who am I?”) come
+back after a day or two, but smaller details (“what does my mother look like?”)
+can take weeks to be restored. Of course, the moss and its constructs are quite
+capable of fighting to kill, and might choose to kill a victim anyway after
+stealing their memories.&lt;/p&gt;
+
+&lt;p&gt;Dryads and Treants cultivate patches of oblivion moss close to their own
+territories, as a security measure. Invaders who stumble upon them have their
+memories ripped away and end up turned around, leaving the forest without
+knowing what they were doing or where they went while inside. Even if the
+knowledge comes back later, very few people are keen on repeating the
+experience. As the book says, in places where oblivion moss grows, lost ruins
+tend to stay lost.&lt;/p&gt;
+
+&lt;p&gt;You can turn the memory stealing around, too. The remains of a slain patch of
+oblivion moss retain memory fragments from its past victims, and if someone eats
+those bits they can acquire those memories. While the fragmentary memories of a
+bandit might not give you their entire guard rotation or the map of their
+stronghold, they might give you the combination to their main vault or to a
+secret door.  That can be useful, though eating a sapient being presents obvious
+ethical problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get a bunch of different stat blocks here, one for the moss itself and five
+for the humanoid minions it can build from stolen memories. The minions can be
+generated mid-fight by the moss, or they might be placed as normal monsters in
+an encounter with or without their master.&lt;/p&gt;
+
+&lt;h3 id=&quot;oblivion-moss-mindmaster&quot;&gt;Oblivion Moss Mindmaster&lt;/h3&gt;
+
+&lt;p&gt;This is the moss itself, a Large Fey Magical Beast (plant) and a Level 12 Elite
+Controller with 250 HP. It perceives the world with Blindsight 20, and moves
+around at a glacial ground and climb speeds of 2. It does have Forest Walk,
+though, so it’s not further slowed down by difficult terrain in its natural
+habitat.&lt;/p&gt;
+
+&lt;p&gt;The moss projects a &lt;strong&gt;Mind Blindness Aura&lt;/strong&gt; (1) that makes it invisible to
+enemies that start their turns inside until the end of the enemy’s next turn. It
+can defend itself in melee with a &lt;strong&gt;Corriding Touch&lt;/strong&gt; that does immediate and
+ongoing acid damage, but it really wants to use its psychic powers instead.&lt;/p&gt;
+
+&lt;p&gt;It has two basic ranged attacks: &lt;strong&gt;Scramble the Mind&lt;/strong&gt; and &lt;strong&gt;Scour the
+Mind&lt;/strong&gt;. Both to the same amount of psychic damage. Additionally, Scramble slides
+the target 5 squares and Scour makes the moss or one of its allies invisible to
+the target for a turn.&lt;/p&gt;
+
+&lt;p&gt;Its ultimate attack is &lt;strong&gt;Absorb Memories&lt;/strong&gt;, a ranged attack vs. Will that does
+no damage. A hit prevents the target from using encounter or daily attack powers
+(save ends). Hit or miss, the moss then creates a mossling duplicate of the
+target, which uses the most closely matching mossling stat block (see
+below). This recharges when there are no created mosslings in the field.&lt;/p&gt;
+
+&lt;p&gt;The mindmaster can spend a minor action to &lt;strong&gt;Direct&lt;/strong&gt; a mossling, allowing it to
+move its speed as a free action. And it can also &lt;strong&gt;Absorb Damage&lt;/strong&gt; as an
+interrupt, taking into itself the damage from an attack that would hit a
+mossling.&lt;/p&gt;
+
+&lt;p&gt;So a moss mindmaster would only be able to keep a single mossling around at a
+time. If you want there to be more of them, add some as part of the initial
+encounter makeup. Those don’t count as “created”, so the moss doesn’t have to
+wait to use Absorb Memories.&lt;/p&gt;
+
+&lt;h3 id=&quot;mosslings&quot;&gt;Mosslings&lt;/h3&gt;
+
+&lt;p&gt;Mosslings are Medium Fey Humanoids, and all of them are Level 12
+Minions. They’re meant to be copies of people whose memories were absorbed by
+the oblivion moss - the creature is smart enough to seek out competent
+combatants for this purpose, since they make for more powerful mosslings.&lt;/p&gt;
+
+&lt;p&gt;Their signature passive trait is &lt;strong&gt;Mindmaster’s Thrall&lt;/strong&gt; - if the mossling in
+question was created by an oblivion moss mindmaster, it acts immediately after
+its creator’s turn. They all have Forest Walk too, and a basic tendril attack
+that does minion-tier damage and has a rider compatible with their role. But the
+real star of the show here is the &lt;strong&gt;Simulacrum Attack&lt;/strong&gt;, which allows them to
+copy an at-will power from a PC!&lt;/p&gt;
+
+&lt;p&gt;If the mossling was created by Absorb Memories during this fight, it will be a
+power from the PC that attack targeted. If you’re adding the mossling as part of
+the encounter, pick a PC whose class is similar to the mossling’s role and give
+them one of that PC’s powers. The attack targets AC and its bonus is based on
+the mossling’s level as normal, but the damage and all other effects are
+identical to the PC’s, as if it was the PC who hit. Some of them copy melee
+attacks, others copy ranged attacks, but the match-up is not a problem because
+you always use a mossling archetype compatible with the power you want to
+replicate, not the other way around.&lt;/p&gt;
+
+&lt;p&gt;The book recommends having &lt;em&gt;the players themselves&lt;/em&gt; roll and resolve the
+mossling’s attacks, to reinforce the feeling that they’re fighting
+themselves. That’s clever!&lt;/p&gt;
+
+&lt;p&gt;Here are the different varieties:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mossling Guardian&lt;/strong&gt;: Soldier, speed 6. Has an aura (1) that slows
+enemies. Tendril attack allows it to shift 1 square and pull an enemy into the
+vacated space. Copies a melee power. Use to copy PC defenders.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mossling Creeper&lt;/strong&gt;: Skirmisher, speed 8. Deals extra damage with combat
+advantage. Tendril strike allows it to shift 2 squares. Shifts 2 squares when
+missed by a melee attack. Copies a melee power. Use to copy rogues and other
+melee strikers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mossling Hurler&lt;/strong&gt;: Artillery, speed 6. Explodes on death, dealing a bit of
+psychic damage and inflicting Daze (save ends) on a Close Burst 2. No riders
+on tendril attack. Steals a ranged power. Use to copy ranged strikers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mossling Grower&lt;/strong&gt;: Controller (Leader). Has an aura (1) that grants +2
+defense to plant allies. Tendril attack slows for a turn. Gives 20 temporary
+hit points to every nonminion plant ally within 3 squares on death. Copies a
+melee power. Use to copy warlords and other leaders.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mossling Vinecaller&lt;/strong&gt;: Controller. Has an aura (1) that makes the covered
+spaces difficult terrain. Makes a Close Burst 1 in to difficult terrain for
+the rest of the encounter on death. Tendril strike slides target 2
+squares. Copies a ranged power. Use to copy wizards and other controllers.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think the mossling mechanic is really clever, particularly the bit where
+players roll and resolve their duplicate’s attacks. It helps ease the GM’s
+cognitive load a bit since mosslings are kinda finnicky even before you factor
+the copied attack in.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned above, a moss mindmaster can only keep one mossling around at a
+time. If you want to have more of them in play, the easiest way is to add more
+of them as standard minions to the encounter. In this case I guess they would
+have their own Initiative rolls, and would be worth XP as normal, but the
+mindmaster could still target them with Direct Mossling and Absorb Damage.&lt;/p&gt;
+
+&lt;p&gt;Another option might be to turn the Mindmaster into a solo! Aside from the usual
+adjustments, you would want to make Absorb Memories at-will and remove the limit
+on the number of created mosslings in play. Maybe also turn Absorb Damage into a
+Free or No Action to make it usable as many times per turn as the moss wants.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Nymph</title>
@@ -1559,335 +1739,6 @@ synergies with their other abilities.&lt;/p&gt;
         <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Lolth</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-lolth.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Lolth is likely to be among the very first Big Bads of D&amp;amp;D. I think her first
-officially published mention was in The Village of Hommlet, an adventure
-published in 1979 featuring one of her priests as the final antagonist. Since
-that adventure and the Temple of Elemental Evil that follows it were all based
-on Gary Gygax’s original campaign, there’s a chance Lolth was was a thing for a
-few years before that even though she doesn’t appear in the first Monster
-Manual.&lt;/p&gt;
-
-&lt;p&gt;She would make a personal appearance in 1980’s Queen of the Demonweb Pits, where
-she officially became the patron goddess of the drow and started getting a lot
-more publicity. The drow and their goddess would get plenty of spotlight time in
-that edition and all subsequent ones, for good and ill.&lt;/p&gt;
-
-&lt;p&gt;By the time we get to this entry in the MM3, we’ve already seen most
-Lolth-associated monster make their appearances, populating the entire range
-from heroic to epic tier. We also heard a lot about Lolth herself as a goddess
-in other supplements. This is where we finally get her stats. She is the second
-“epic end boss” to make an appearance in this book, but not the last.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Lolth is described by the DMG as the goddess of shadows, lies, and spiders. As
-we saw in the various Drow entries, back in mythic times she led a major
-uprising against the other elven gods. Her defeat in that civil war saw her and
-her proto-elf fey followers banished from the Feywild. Her followers moved to
-the Underdark, where over time they evolved into the drow. Lolth herself took up
-residence in the Abyss, crafting a whole layer of it into her personal domain.&lt;/p&gt;
-
-&lt;p&gt;If I remember correctly, some of the divine-oriented supplements hint that
-Corellon wasn’t entirely innocent in all of this, and that the reason Lolth rose
-up against him is that he committed a great injustice against her. It wouldn’t
-be too far off the mark to say that she wasn’t evil back then, and that it was
-either the trauma of this first betrayal or a few aeons of living in the Abyss
-that made her so.&lt;/p&gt;
-
-&lt;p&gt;Regardless of her past history, the Lolth of &lt;em&gt;today&lt;/em&gt; is certainly Chaotic
-Evil. Her followers organize themselves into strict hierarchies whose goal is to
-enable an endless cycle of bloody betrayal: the powerful are free to abuse the
-weak, and the weak are encouraged to rise in power by murdering their rivals and
-superiors. Lolth herself doesn’t much trust her followers as we’ve seen in past
-entries: she created at least two monsters whose main purpose is to infiltrate
-those hierarchies and keep an eye on their members.&lt;/p&gt;
-
-&lt;p&gt;So, in a way, you could say Lolth is the goddess of the cycle of abuse. She
-inflicts on her followers the same suffering she went through long ago, and
-encourages them to do the same to their subordinates.&lt;/p&gt;
-
-&lt;p&gt;Her dominion is the sixty-sixth layer of the Abyss, a place known as the
-Demonweb. As the name implies it’s a gigantic web strung across a series of
-titanic pillars. On its strands rest many relics stolen from other worlds,
-ranging from standard magic items all the way up to entire ruined
-cities. Beneath the Web is a black void, and at the bottom of this void are the
-Demonweb Pits, Lolth’s true headquarters. Here is where she holds court.&lt;/p&gt;
-
-&lt;p&gt;The Pits contain a multitude of portals to other layers of the Abyss and to
-other planes entirely, and they’re one of the reasons why Lolth’s machinations
-have such a large reach.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h3&gt;
-
-&lt;p&gt;This entry contains stats not only for Lolth, but also for her Aspect and her
-Exarch. We’ll describe them in order of level, like we’ve been doing for the
-other big shots in this series.&lt;/p&gt;
-
-&lt;p&gt;There are no entries for Lolth’s cultists. Most of them are the drow described
-in the other monster books, as well as the Abyssal Drow and the Chitine from
-this one. Like the other big bads, Lolth can certainly have cultists from other
-species as well, using “generic” stat blocks.&lt;/p&gt;
-
-&lt;h3 id=&quot;aspect-of-lolth&quot;&gt;Aspect of Lolth&lt;/h3&gt;
-
-&lt;p&gt;Aspects are fragments of a deity’s power and mind. They share the original
-deity’s personality and goals, but their existence is independent. Though
-they’re never as powerful as the original deity, they’re still epic-tier. These
-used to be called “avatars” in previous editions.&lt;/p&gt;
-
-&lt;p&gt;Most gods send their aspects to aid their most favored mortal servants, usually
-in response to a ritual requesting this aid. Lolth is an exception. Anyone who
-would have the power to call an aspect of Lolth is sufficiently initiated into
-her mysteries to know that this is a &lt;em&gt;very bad idea&lt;/em&gt;. Instead, they spend their
-effort making sure she never has cause to send one.&lt;/p&gt;
-
-&lt;p&gt;The reason for this is what Lolth sends her aspects as infiltrators whose goal
-is to influence drow society in ways that align with her goals. The aspect’s
-natural form is that of a giant demonic spider, but it can assume the form of a
-drow. It’s usual MO is to kill and replace an authority figure, and use the
-victim’s power and influence to fulfill its mission. When forced to fight, it
-reverts to its true form and “generously” spends the lives of its underlings to
-buy victory, or at least survival.&lt;/p&gt;
-
-&lt;p&gt;Aspects of Lolth are Level 25 Elite Lurkers with 368 HP. They’re Large Immortal
-Magical Beasts in their natural forms, but shrink to Medium size when disguised
-as drow. They have ground and Spider Climb speeds of 6, Darkvision, and
-Blindsight 5. They have Resist 30 Poison.&lt;/p&gt;
-
-&lt;p&gt;When an aspect hits a creature granting &lt;strong&gt;Combat Advantage&lt;/strong&gt; to it, that
-creature is weakened and takes 20 ongoing poison damage (save ends both) in
-addition to suffering all the standard effects of the attack.&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is a &lt;strong&gt;bite&lt;/strong&gt;. It can also shoot &lt;strong&gt;Acid Webs&lt;/strong&gt; (recharge 5+) in
-a Clost Blast 5. This deals acid damage and slows (save ends). On the first
-failed save, the target also begins taking 20 ongoing acid damage until they
-pass a save.&lt;/p&gt;
-
-&lt;p&gt;They also have a nasty power named &lt;strong&gt;Worthy Sacrifice&lt;/strong&gt;, an area burst attack
-centered on a non-minion drow, spider, or demon ally. This causes the ally to
-explode into gory webs, reducing it to 0 HP, and attacks the Reflex of every
-enemy in the blast area. This attack doesn’t damage enemies, but immobilizes all
-those it hits (save ends). It also creates a zone of webbed gore that lasts
-until the end of the encounter and immobilizes any non-spider who ends their
-move inside (save ends). This recharges when the Aspect is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;As minor actions, the aspect can create a &lt;strong&gt;Cloud of Darkness&lt;/strong&gt; that blinds and
-blocks line of sight for anyone but itself; and &lt;strong&gt;Change Shape&lt;/strong&gt; to appear as a
-Medium drow. The Insight DC to pierce the disguise is 43, hard even for someone
-who min-maxed their Insight.&lt;/p&gt;
-
-&lt;p&gt;If anyone moves adjacent to the aspect, it can use its &lt;strong&gt;Impaling Legs&lt;/strong&gt; as an
-interrupt. This is an attack that deals physical damage and grabs the
-target. Grabbed targets take 10 ongoing poison damage until they escape.&lt;/p&gt;
-
-&lt;p&gt;Being immobilized doesn’t actually make you grant combat advantage, but being
-blinded does. The Aspect should fight alongside allies who can flank the
-immobilized PCs. Worthy Sacrifice should be reserved to use on an ally who’s
-about to die anyway.&lt;/p&gt;
-
-&lt;h3 id=&quot;eclavdra-exarch-of-lolth&quot;&gt;Eclavdra, Exarch of Lolth&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-lolth-eclavdra.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Eclavdra has an interesting publication history. Turns out &lt;em&gt;she&lt;/em&gt; is the actual
-final boss of the GDQ series, the one who used to be behind the giant attacks
-and everything. And she’s not even a Lolth worshipper there! Facing Lolth in
-those modules is more of a weird detour than the actual thing that solves the
-problem. A reference to this makes it into her description here.&lt;/p&gt;
-
-&lt;p&gt;Eclavdra is described by the book as the “quintessential drow”. Another way of
-putting it might be that no one in the universe has a deeper understanding of
-Lolth’s mysteries aside from the goddess herself. This means Eclavdra is both
-Lolth’s greatest ally and her most dangerous enemy.&lt;/p&gt;
-
-&lt;p&gt;Eclavdra has tried to betray Lolth not once, but &lt;em&gt;twice&lt;/em&gt;. The first time she
-worked with the Elder Elemental Eye (that’s the GDQ adventures), and the second
-she worked with Graz’zt. She still carries a relic of the Eye, the Tentacle Rod,
-and uses it as her main weapon and implement.&lt;/p&gt;
-
-&lt;p&gt;Despite these previous betrayals, Eclavdra has not only remained in Lolth’s good
-graces, but her standing seems to have &lt;em&gt;improved&lt;/em&gt;. Maybe the Lady of Spiders
-admires her audacity. When roleplaying Eclavdra, it would not be out of place to
-take your cues from Vriska and Starscream.&lt;/p&gt;
-
-&lt;p&gt;Eclavdra is a drow, and thus a Medium Fey Humanoid. She’s also a Level 28 Elite
-Soldier with the Leader keyword. She has the drow’s Speed 7 and Darkvision. She
-has no special resistances, even to poison, because Lolth is not stupid.&lt;/p&gt;
-
-&lt;p&gt;As she is the &lt;strong&gt;Spider Queen’s Emissary&lt;/strong&gt;, any demon, drow, and spider allies
-within 5 squares of Eclavdra have a +2 bonus to attack and can shift 1 square as
-a minor action. Her &lt;strong&gt;Tentacle Rod&lt;/strong&gt; is stretchy and has Reach 3. It can be used
-in a few special maneuvers in addition to giving her a basic attack.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tentacle Lash&lt;/strong&gt; has the same reach and damage as a basic attack, but on a hit
-it also strips all poison resistance or immunity from the target &lt;em&gt;for the rest
-of the encounter&lt;/em&gt;. The target is also slowed (save ends). This is an at-will
-power!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Insidious Offer&lt;/strong&gt; is a ranged spell that deals very weak psychic damage for
-its level… but on a hit it forces one of those interesting choices I like so
-much. The target must choose between taking an extra 30 psychic damage from the
-attack, or becoming dominated (save ends). That’s very in theme - it’s not
-“real” betrayal if it’s not a choice.&lt;/p&gt;
-
-&lt;p&gt;Eclavdra’s minor-action attacks are an unfortunate throwback to the “sexy
-dominatrix drow” days. &lt;strong&gt;Entrancing Beauty&lt;/strong&gt; is a Close Burst 5 that targets all
-enemies, deals light psychic damage, and pulls then 2 squares on a hit. &lt;strong&gt;On
-Your Knees&lt;/strong&gt; is a non-damaging attack with the tentacle rod that makes the
-target fall prone and prevents them from standing up (save ends).&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;Blinking Escape&lt;/strong&gt; allows Eclavdra to teleport 6 squares and gain
-concealment as a reaction when she’s hit by a close or area attack.&lt;/p&gt;
-
-&lt;p&gt;Eclavdra is loathe to risk her own life. She will make use of guile and
-manipulation to prevent hostilities from initiating, and when they do she will
-use her underlings as shields. When the tide of battle turns against her, she
-will attempt to run away.&lt;/p&gt;
-
-&lt;h3 id=&quot;lolth-the-demon-queen-of-spiders&quot;&gt;Lolth, The Demon Queen of Spiders&lt;/h3&gt;
-
-&lt;p&gt;There’s no need to repeat the lore of Lolth here - it’s all up at the start of
-the article. Mechanically, she is notable for being the first official two-stage
-boss I’ve seen. I believe she’s also the first actual god to get stats in this
-edition, and the most powerful endgame boss so far.&lt;/p&gt;
-
-&lt;p&gt;This means she has two stat blocks! The first is her drow form, in which she is
-a Level 35 Solo Lurker with 634 HP. When she hits 0 HP in this form, she becomes
-a Huge demonic spider who is a Level 35 Solo Brute with another 634 HP.&lt;/p&gt;
-
-&lt;p&gt;In both forms Lolth has ground, climb, and teleport speeds of 8. She also has
-Darkvision, Blindsight 20, and is immune to poison. Her remaining abilities are
-entirely different in both forms.&lt;/p&gt;
-
-&lt;p&gt;In her &lt;strong&gt;drow form&lt;/strong&gt;, Lolth fights with a &lt;strong&gt;Scourge&lt;/strong&gt;, a multi-tailed whip. Its
-attacks are Reach 3, do some light physical damage, and slide the target 3
-squares. They also inflict ongoing 20 poison damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;She can use the &lt;strong&gt;Insidious Poison&lt;/strong&gt; ability (recharge 4+) to automatically
-force an enemy that’s taking ongoing poison damage to attack an ally. That
-attack deals a lot of extra poison damage as well.&lt;/p&gt;
-
-&lt;p&gt;She has three minor-action attacks. &lt;strong&gt;Lolth’s Kiss&lt;/strong&gt; is a Reach 1 melee attack
-that deals a bit less damage than the scourge, but inflicts the same amount of
-ongoing poison damage. &lt;strong&gt;Poison Strands&lt;/strong&gt; is a ranged attack that deals no
-immediate damage but immobilizes (save ends). After the first saved throw, this
-worsens to Restrained. After the second the target begins taking &lt;em&gt;50 ongoing
-poison damage&lt;/em&gt; until they pass a save to end all of this at once. That’s the
-deadliest poison in existence! And yeah, both of these are at will.&lt;/p&gt;
-
-&lt;p&gt;The third is an encounter power: &lt;strong&gt;Impenetrable Darkfire&lt;/strong&gt; is a Close Burst 5
-that targets enemies. It blinds, inflicts 20 ongoing fire damage, and makes
-it impossible for them to benefit from cover or concealment (save ends all). It
-also creates a zone that lasts for a turn, blocks line of sight for everyone
-but Lolth, and blinds anyone inside who is not Lolth.&lt;/p&gt;
-
-&lt;p&gt;When an enemy hits Lolth, she can use a &lt;strong&gt;Dominating Rebuke&lt;/strong&gt; as a reaction to
-&lt;em&gt;automatically&lt;/em&gt; dominate them for a turn. And as a deity, her &lt;strong&gt;Immortal
-Resilience&lt;/strong&gt; allows her to immediately roll a save when she is inflicted by any
-effect a save can end. This is a “No Action” effect, meaning it &lt;em&gt;always
-happens&lt;/em&gt;, giving her a 75% chance of ignoring all save ends effects outright.&lt;/p&gt;
-
-&lt;p&gt;The transformation that happens when Drow Lolth hits 0 HP is also an attack. It
-targets all enemies in a Close Burst 10. On a hit they become vulnerable 20 to
-all damage, and are stunned (save ends both). As an aftereffect after passing
-the save, they’re pushed their speed away from her and are dazed for a
-turn. After this resolves, Lolth assumes her spider shape, and uses that stat
-block going forward.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lolth the Spider Queen&lt;/strong&gt; is, as mentioned, a Huge spider and a Level 35
-Brute. Her basic attack is now a &lt;strong&gt;Bite&lt;/strong&gt; that deals much stronger base damage
-and still inflicts 20 ongoing poison damage. &lt;strong&gt;Insidious Poison&lt;/strong&gt; is still here
-and work the same, but the damage bonus is bigger.&lt;/p&gt;
-
-&lt;p&gt;As a minor action she can spray &lt;strong&gt;Burning Webs&lt;/strong&gt; in a Close Burst 5 that deal acid
-damage and immobilize (save ends). After failing the first saving throw, victims
-are restrained instead and take 30 ongoing acid damage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Immortal Resilience&lt;/strong&gt; is still here and works the same. She also has
-&lt;strong&gt;Impaling Legs&lt;/strong&gt; like those of her Aspect, but they’re Reach 3 and trigger when
-an enemy moves into reach. A target hit by the attack is restrained and begins
-taking ongoing 20 poison damage (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Finally, when Spider Lolth is first bloodied, she uses &lt;strong&gt;Divine Discorporation&lt;/strong&gt;
-to escape. This works automatically, and causes her mind to leave her body and
-be unable to assume physical shape for a while. This period can last several
-years, and while Lolth’s power will be greatly diminished during this time she’s
-still alive and can direct her forces. A bit like Sauron in Lord of the Rings.&lt;/p&gt;
-
-&lt;p&gt;To truly kill Lolth, the PCs must fulfill a condition or complete a quest that’s
-specific to her. If this happens, then she’s prevented from discorporating and
-can be fought until truly killed. The book presents three example quests, and
-the GM is encouraged to come up with something that fits their specific world
-and campaign.&lt;/p&gt;
-
-&lt;p&gt;The example quests are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The Loom of Fate&lt;/strong&gt;, an artifact hidden deep within Corellon’s palace in
-Arvandor. It was once used by Lolth, and it can be used by the PCs to
-rearrange the threads of her fate and make her defeatable. Corellon knows this
-but fears to use it. What doesn’t he want you to know?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The Egg of Lolth&lt;/strong&gt;, a mysterious artifact that can be destroyed to seal the
-gates going out of the Demonweb Pits and thus prevent Lolth’s escape. But
-then how do you get out?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Lolth’s Prison&lt;/strong&gt;, a demiplane beyond even the Demonweb Pits, where a dread
-Bone Colossus guards the Pendant of Truth. Brandishing the Pendant before the
-goddess of lies prevents her from discorporating. How will you get there, and
-what truths will you find within?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;All of these enemies are quite interesting mechanically. I particularly like
-Lolth’s two-stage-boss design. Her drow form is all about the insidious
-poisoning of mind and body. Her attacks deal little immediate damage, and the
-riders are what kills you. The spider form is a lot more direct.&lt;/p&gt;
-
-&lt;p&gt;As a Level 35 monster, a max-level party is going to have some trouble hitting
-Lolth and avoiding her strikes. This fortunately doesn’t affect saves, but even
-so the PC’s leaders should have plenty of save-granting abilities and items on
-hand, because failing those saves has dreadful consequences. Conversely, offense
-should focus on abilities that deal direct non-poison damage and whose riders
-are either immediate or last a turn, because she’s almost immune to anything
-that requires a save.&lt;/p&gt;
-
-&lt;p&gt;I also love Eclavdra’s description as a Starscream figure. That even works as a
-proper elven surname if you want it to be really on the nose.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/07/lolth.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/07/lolth.html</guid>
         
         <category>dnd4</category>
         
