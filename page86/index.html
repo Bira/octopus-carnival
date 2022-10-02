@@ -67,6 +67,43 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
   <ul class="post-list">
     
       <li>
+        <span class="post-meta">Jun 25, 2018</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2018/06/25/hall-of-judgement.html">New Kickstarter: Hall of Judgement</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <p>I thought Gaming Ballistic’s Lost Hall of Tyr<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> looked like an interesting
+adventure when it came out, but I didn’t buy it because it was for D&amp;D 5th
+Edition. I did think at the time that it would be really nifty if it ever came
+out for GURPS… and now I’m about to get my wish.</p>
+
+<p>Gaming Ballistic has recently starter another kickstarter campaign for <a href="https://www.kickstarter.com/projects/2101297466/hall-of-judgment-a-dungeon-fantasy-rpg-supplement">Hall of
+Judgement</a>, which is a version of the same adventure for the Dungeon Fantasy
+Roleplaying Game.</p>
+
+<p>It’s not a direct conversion. The setting part has been made a bit more generic
+so it can fit into ongoing DFRPG campaigns, and the adventure itself has been
+expanded to be more sandboxy, with more wilderness travel and a few sidequests
+added in. It’s also the first ever licensed third-party supplement for the
+DFRPG, so I’m backing this not just for the book itself but to send a message to
+Steve Jackson games that I want to see more of this type of deal.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p><a href="https://www.drivethrurpg.com/product/226510/Lost-Hall-of-Tyr?affiliate_id=21823">Affiliate Link</a>, <a href="https://www.drivethrurpg.com/product/226510/Lost-Hall-of-Tyr">Non-Affiliate Link</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
         <span class="post-meta">Jun 20, 2018</span>
 
         <h1 class="post-title" itemprop="name headline">
@@ -773,98 +810,6 @@ oil. $100, 1kg.</li>
     </li>
   </ol>
 </div>
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Apr 16, 2018</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2018/04/16/deterministic-heroic-feats.html">Deterministic Heroic Feats</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <figure>
-  <img src="https://bira.github.io/octopus-carnival/assets/Lucky-Paladin.jpg"/>
-  <figcaption>
-    This should be easier, too.
-    <a href="http://esoacademy.com/builds/lucky-paladin/">
-      (image source)
-    </a>
-  </figcaption>
-</figure>
-
-<p>As I mentioned in my recent <a href="/octopus-carnival/2018/04/06/quick-and-dirty-technical-grappling.md">Quick and Dirty Technical Grappling</a> post, the
-biggest GURPS showstopper in my experience has been recalculating ST scores on
-the fly, and this wasn’t only a Technical Grappling issue. Today I’ll try to
-tackle the other rule where this issue has bit me: The Blessed (Heroic Feats)
-advantage.</p>
-
-<p>This is one of the most powerful Holy Warrior abilities in both versions of
-Dungeon Fantasy, and it allows you to temporarily increase your ST, DX, or
-HT. The problem here is that the increase is <em>variable</em>, expressed in dice (+1d
-or +2d). It’s also an increase that applies to the <em>full</em> attribute, which means
-the following:</p>
-
-<ul>
-  <li>
-    <p>Increasing ST changes your HP, Basic Lift and base damage.</p>
-  </li>
-  <li>
-    <p>Increasing DX changes your Basic Speed and potentially Move.</p>
-  </li>
-  <li>
-    <p>Increasing HT changes your FP, your Basic Speed and potentially your Move.</p>
-  </li>
-</ul>
-
-<p>Of these, the HP and FP changes are pretty straightforward. Basic Speed changes
-are the next easiest to calculate on the fly, since each extra point of DX or HT
-changes it by 0.25. Basic Lift is not too bad, since the formula for it is easy
-to memorize (ST * ST/10 kg, or twice that in pounds).</p>
-
-<p>But then you get to base damage, and the gears of your game grind to a halt
-while you look it up in a table. Now, I’ve been dealing with GURPS for a number
-of years now so I know that this table is in page 16 of the Basic Set, but
-people who are new to the system won’t have that memorized. And knowing that
-didn’t help me in the event that prompted me to write these articles, as I was
-using the Dungeon Fantasy RPG and had to look up the table like anyone else who
-is new to those books.</p>
-
-<p>There is actually a specific algorithm for figuring out your change in basic
-damage, but it’s fiddly enough that finding and consulting the table is usually
-quicker. And whether you calculate or look up your new basic damage, you still
-have use that to figure out the damage of your actual attacks, with things like
-weapon modifiers, Weapon Master, or high Karate bonuses.</p>
-
-<h2 id="my-solution-deterministic-heroic-feats">My Solution: Deterministic Heroic Feats</h2>
-
-<p>The Heroic Feats advantage now increases your attribute by a fixed amount: 4 per
-level. This still lasts for 3d seconds, to still keep the favor of the gods
-<em>somewhat</em> fickle. GMs who want to get rid of that remaining bit of randomness
-can just have it last 10 seconds instead.</p>
-
-<p>When you take the Heroic Feats advantage, write down your new total stats
-somewhere, and use those when the power is active.</p>
-
-<p><strong>Example</strong>: Our friend <a href="/octopus-carnival/2017/10/13/pathfinder-dfrpg-holy-warrior.html">Seelah</a> has ST 13 and Heroic Might 1, so in a
-separate space in her character sheet we record her stats with ST 17: Basic Lift
-28.9kg and Damage 1d+2/3d-1. We also pre-calculate her enhanced sword damage (3d
-cut or 1d+4 imp). When Seelah uses Heroic Might, we refer to those stats instead
-of her usual ones.</p>
-
-<p>If she later increases Heroic Might to its maximum level of 2, her enhanced
-strength becomes 21, so we recalculate her secondary stats: Basic Lift 44.1kg
-and Damage 2d/4d-1. Her sword damage becomes 4d cut or 2d+2 imp.</p>
-
-<p>If later still she buys Weapon Master, we apply the damage bonuses from that
-advantage to both sets of stats. Her normal sword damage becomes 2d+4 cut/1d+4
-imp, and her enhanced sword damage becomes 4d+8 cut/2d+6 imp. Now that’s what I
-call a smite!</p>
-
 
           </div>
         </article>

@@ -6,9 +6,138 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Sep 2022 21:32:25 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Sep 2022 21:32:25 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Oct 2022 22:00:50 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Oct 2022 22:00:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Ogre</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-oblivion-moss.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;The ogre situation in the Monster Manual 3 is the same as the giant situation:
+they first appeared in the Monster Manual 1, and are about to get new and
+improved versions of those entries in the Monster Vault. The MM3 contains more
+“exotic” variants that will nicely complement the rewritten “basic” ones from
+the MV.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Classic ogres, such as the ones that will show up on the Monster Vault, are
+comically stupid brutes. The ones contained in this entry break that stereotype
+by being significantly smarter, and capable of sophisticated tactics on the
+level of any other humanoid opposition. In other words, the Monster Vault will
+Ogre Harder while the Monster Manual 3 will Ogre Smarter.&lt;/p&gt;
+
+&lt;p&gt;The extra brainpower of these ogres doesn’t necessarily make them &lt;em&gt;nice&lt;/em&gt; - the
+entries here are still all Chaotic Evil, they’re just smarter about it. Nothing
+prevents you from Shreking it up and having ogres that are both smart and
+non-evil at your table, of course.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;As usual, Ogres are Large Natural Humanoids with a ground speed of 8. Everything
+else about them varies per stat block, though their abilities tend to be styled
+as big smashy strikes.&lt;/p&gt;
+
+&lt;h3 id=&quot;ogre-cave-hunter&quot;&gt;Ogre Cave Hunter&lt;/h3&gt;
+
+&lt;p&gt;This one is &lt;em&gt;sneaky&lt;/em&gt;. The Cave Hunter has learned to perform stealthy raids,
+evade pursuers, and lure them to ambush spots disguised to look like the ogre’s
+home cave.&lt;/p&gt;
+
+&lt;p&gt;Cave Hunters are Level 8 Lurkers with 70 HP. Like typical ogres, they wear hide
+and fight with ogre-sized &lt;strong&gt;Clubs&lt;/strong&gt; that have Reach 2. However they can use
+these weapons in more creative ways beyond the usual basic attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Smash and Swing&lt;/strong&gt; does half the damage of a basic attack, but dazes for a turn
+and allows the ogre to slide the target up to 5 squares on a hit. It’s excellent
+for herding PCs together so other monsters can use area attacks, and for opening
+them up for the truly damaging attacks from the cave hunter itself.&lt;/p&gt;
+
+&lt;p&gt;The first of these is &lt;strong&gt;Skull Bash&lt;/strong&gt;, which requires a dazed target and does
+roughly double the damage of a basic attack. The second is &lt;strong&gt;Victim Shield&lt;/strong&gt;, an
+interrupt that requires a dazed enemy within 2 squares and triggers when it’s
+targeted by a melee or ranged attack. It gives the ogre +4 to defenses against
+that attack, and if the attack misses the chosen victim takes its damage
+instead. In that case the cave hunter can also slide the victim 4 squares to
+another space within 2 squares of it.&lt;/p&gt;
+
+&lt;p&gt;Note that the hunter doesn’t need to have dazed the victims itself in order to
+use these abilities, so if there are other monsters who can daze in the fight,
+they’ll be able to use these abilities more often.&lt;/p&gt;
+
+&lt;h3 id=&quot;ogre-ironclad&quot;&gt;Ogre Ironclad&lt;/h3&gt;
+
+&lt;p&gt;Ogre Ironclads are smart enough to wear piecemeal metal armor instead of the
+more usual raw hides, and to fight using tactics that resemble cavalry, with
+closed ranks and powerful charges. Since their armor is still kind of
+improvised, being looted from smaller victims, it tends to fall off if it takes
+too many hits.&lt;/p&gt;
+
+&lt;p&gt;Ironclads are Level 9 Soldiers with 96 HP. They wield big &lt;strong&gt;Mauls&lt;/strong&gt; whose basic
+attacks mark for a turn on a hit. Their &lt;strong&gt;Ironclad Reaction&lt;/strong&gt; gives them a free
+attack against a marked enemy that ignores the mark, and this attack also pushes
+the enemy 1 square and knocks them prone.&lt;/p&gt;
+
+&lt;p&gt;While the ironclad is bloodied they take a -2 penalty to AC, but their charges
+allow them to make basic attacks against up to 2 targets instead of the usual
+single attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;ogre-storm-shaman&quot;&gt;Ogre Storm Shaman&lt;/h3&gt;
+
+&lt;p&gt;Storm Shamans are perhaps the only ogres in the books that have no negative
+modifiers in any of their mental attributes. They worship the primal spirits
+that symbolize the fury of the storm, and their magic can bring that fury down
+on their enemies.&lt;/p&gt;
+
+&lt;p&gt;Storm Shamans are Level 11 Controllers with 114 HP. All of their attacks have a
+storm magic theme. They can cast &lt;strong&gt;Thunder Blasts&lt;/strong&gt; to deal thunder damage and
+deafen (save ends), or &lt;strong&gt;Call Lightning&lt;/strong&gt; to deal lightning damage and blind
+(save ends). Their melee attack is a &lt;strong&gt;Thunder Staff&lt;/strong&gt; that deals thunder damage
+and can daze (save ends) if it hits a blinded or deafened enemy. Those ranged
+spells are also area attacks, so there’s a big chance that they’ll leave
+&lt;em&gt;someone&lt;/em&gt; vulnerable to a daze from the staff. A second shaman in the encounter
+will make them both even more annoying.&lt;/p&gt;
+
+&lt;h3 id=&quot;ogre-dreadnought&quot;&gt;Ogre Dreadnought&lt;/h3&gt;
+
+&lt;p&gt;Conceptually, this is pretty much an upgraded version of the Ogre Ironclad
+above. Unlike the Ironclad, the Dreadnought actually uses custom-fitted gear,
+wearing a full suit of plate and wielding a greatsword.&lt;/p&gt;
+
+&lt;p&gt;Dreadnoughts are Level 14 Soldiers with 140 HP. Their &lt;strong&gt;greatsword&lt;/strong&gt; has a
+Threatening Reach 2, and its basic attack also immobilizes for a turn on a
+hit. If the dreadnought fails a saving throw, it can use &lt;strong&gt;Dreadnought Resolve&lt;/strong&gt;
+(recharge 4+) as a reaction to immediately reroll it with a +2 bonus.&lt;/p&gt;
+
+&lt;p&gt;They’re almost Brutes, in other words, since they lack a marking power. Still,
+Threatening Reach and immobilizing attacks make them effective at halting the
+PCs’ advance, so the Soldier role still fits.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;A pretty varied lineup, especially when combined with the &lt;a href=&quot;/octopus-carnival/2020/08/13/ogre.html&quot;&gt;Monster Vault
+ogres&lt;/a&gt;. It should easily allow you to build all-ogre encounters for use as
+the inhabitants of a lair or as a special unit in some other villainous force.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/02/ogre.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/02/ogre.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Oblivion Moss</title>
@@ -1598,147 +1727,6 @@ unless you want your PCs to really suffer.&lt;/p&gt;
         <pubDate>Sun, 11 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/11/meenlock.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/11/meenlock.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Meazels</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-meazel.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is the first time I’m seeing this monster, but it’s been around since the
-1e Fiend Folio. Most iterations kept the same haircut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;A long time ago, a certain city was ravaged by a plague. Many died from both the
-disease itself and from the violence that erupted as starvation, terror and rage
-gripped the citizens. When everything seemed to be lost, those that were still
-alive heard a soothing voice in their ears. It said:&lt;/p&gt;
-
-&lt;p&gt;“Your gods have fled this place. The spirits of the world no longer walk with
-you. Your mages’ spells have failed you. In your hour of need, I alone hear your
-pleas.” This entity proposed a simple bargain. The people of this city would
-swear fealty to it, and in exchange the plague would cause no more deaths and
-they would enjoy limitless food forever more. Out of carelessness or
-desperation, the people accepted.&lt;/p&gt;
-
-&lt;p&gt;Turns out the soothing voice belonged to Baalzebul, the archdevil ruler of the
-seventh hell. And as in any devil’s bargain, he fulfilled his promises to the
-letter. His new servants no longer died from the plague, but they still caught
-it and suffered from the weeping sores and endless hunger that were its hallmark
-symptoms. The only thing that could nourish them and quell this hunger was the
-flesh of other sapient beings, which technically counts as a “limitless” source
-of food if you tally the world’s population.&lt;/p&gt;
-
-&lt;p&gt;These wretched creatures soon left their original city and spread through the
-world, to fulfill the will of their new master and to look for new food
-sources. They became known as Meazels.&lt;/p&gt;
-
-&lt;p&gt;Meazels rarely work with other sapients, because they can’t resist their hunger
-for long. They prefer to work with trained or magically controlled beasts, and
-their spellcasters can also summon and bind elementals. Some groups of Meazels
-leave Baalzebul’s service and pledge allegiance to others who promise to rid
-them of their curse. Most of these end up being Baalzebul’s rival devils.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Meazels are Medium Natural Humanoids, usually former humans. They have a ground
-speed of 6 and Darkvision. They’re immune to disease, but suffer from an
-infernal curse that mimics the symptoms of that original plague. This manifests
-as the &lt;strong&gt;Wretched Curse of Baalzebul&lt;/strong&gt;, their signature ability. It’s an aura
-(1) that inflicts the same symptoms on any enemy inside.&lt;/p&gt;
-
-&lt;p&gt;Afflicted enemies take a -2 penalty to all defenses and become vulnerable 5 to
-all damage while inside the aura. They also inflict the same effects on any of
-their allies who are adjacent to them but outside the aura. Auras from multiple
-meazels don’t stack.&lt;/p&gt;
-
-&lt;p&gt;Their other abilities all come from training, and vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;meazel-bravo&quot;&gt;Meazel Bravo&lt;/h3&gt;
-
-&lt;p&gt;These are rank-and-file frontline fighters. Their tactics are straightforward -
-charge in and hit the enemy until it stops moving. Their curse aura makes them
-extra-effective in close quarters, and they love narrow terrain that leaves
-their enemies little room to maneuver.&lt;/p&gt;
-
-&lt;p&gt;Bravos are Level 11 Brutes with 136 HP. Their basic attack is a &lt;strong&gt;Morningstar&lt;/strong&gt;.
-They can also use a &lt;strong&gt;Gut Shot&lt;/strong&gt; maneuver (recharge 5+), which does slightly
-less damage but weakens the enemy for a turn.&lt;/p&gt;
-
-&lt;p&gt;Note that neither attack takes the aura into account in their damage formulas,
-which means they hit even harder than standard Brute of their level. Anyone in
-reach of either attack is also inside the aura!&lt;/p&gt;
-
-&lt;h3 id=&quot;meazel-hunter&quot;&gt;Meazel Hunter&lt;/h3&gt;
-
-&lt;p&gt;Hunters are archers that like to coat their arrows in their own cursed
-blood. Their preferred tactic is to snipe at their targets from behind a wall of
-bravos.&lt;/p&gt;
-
-&lt;p&gt;Hunters are Level 12 Artillery with 88 HP. They fight in melee with &lt;strong&gt;Spears&lt;/strong&gt;
-that benefit from their aura, but prefer to stay back and use their
-&lt;strong&gt;Longbows&lt;/strong&gt;. Their basic ranged attack damages and slows for a turn on a
-hit. They can use a &lt;strong&gt;Distracting Shot&lt;/strong&gt; instead, doing the same amount of
-damage and forcing the target to grant combat advantage for a turn. Once per
-encounter they can do the blood-dipping thing and fire a &lt;strong&gt;Plague-Tainted Shot&lt;/strong&gt;
-that does the same damage and inflicts 10 ongoing necrotic damage (save
-ends). While this effect remains, any of the target’s allies that starts their
-turn adjacent to them takes 10 necrotic damage as well.&lt;/p&gt;
-
-&lt;p&gt;The plague shot is an interesting way to disrupt PC formations, since anyone
-adjacent to a stricken victim will have an incentive to move away.&lt;/p&gt;
-
-&lt;h3 id=&quot;meazel-strangler&quot;&gt;Meazel Strangler&lt;/h3&gt;
-
-&lt;p&gt;While bravos and hunters do the obvious battling, stranglers sneak around the
-edges of the fight looking for isolated enemies they can drag away. They’re
-Level 13 Controllers with 125 HP.&lt;/p&gt;
-
-&lt;p&gt;All of their attacks are Reach 1, so they all benefit from the aura. The basic
-attack is a &lt;strong&gt;short sword&lt;/strong&gt;, but the real star of the show is the
-&lt;strong&gt;Garrote&lt;/strong&gt;. Its intiial attack is weaker, but it grabs the target on a
-hit. (Athletics DC 24 or Acrobatics DC 26 to escape). In subsequent rounds the
-Strangler can spend a standard action to sustain the grab and deal a heavy chunk
-of physical damage to the target.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can use a &lt;strong&gt;Plage Touch&lt;/strong&gt; that targets Fortitude, does
-immediate and ongoing necrotic damage, and blinds (save ends both). It’s a good
-opener to make that wizard easier to strangle.&lt;/p&gt;
-
-&lt;p&gt;As a move action, the strangler can use &lt;strong&gt;Drag to the Feast&lt;/strong&gt;, which allows it
-to move its speed and pull the grabbed victim along without provoking
-opportunity attacks from them. Other PCs can still make OAs against the meazel,
-but any that miss damage the grabbed victim instead.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The history of the meazels is the story of a bunch of people who, when faced
-with the spread of a dangerous disease, chose to abandon science and put their
-faith in an instant cure sold by a charlatan. They suffered the consequences and
-still decided to double down.&lt;/p&gt;
-
-&lt;p&gt;I will note that this entry was written way back in 2010. Any similarity between
-meazels and anti-maskers, anti-vaxxers, and chloroquine/ivermectin enthusiasts
-is mere coincidence. Mechanically, they’re okay. The aura makes for some nice
-synergies with their other abilities.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/10/meazel.html</guid>
         
         <category>dnd4</category>
         
