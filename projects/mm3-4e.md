@@ -119,6 +119,9 @@ entries.
   - [Ogre][69]
   - [Ogrémoch][70]
 
+- R
+  - [Rot Grub][71]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -190,3 +193,4 @@ entries.
 [68]: {{ "/2022/09/30/oblivion-moss.html" | relative_url }}
 [69]: {{ "/2022/10/02/ogre.html" | relative_url }}
 [70]: {{ "/2022/10/04/ogremoch.html" | relative_url }}
+[71]: {{ "/2022/10/06/rot-grub.html" | relative_url }}
