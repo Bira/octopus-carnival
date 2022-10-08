@@ -22,11 +22,11 @@ but they prefer to use their smarts and trickery to get what they want. Even
 when the con is harder than plain robbery, it's also often more fun for them.
 
 An example tale here is that of a verbeeg who set up at a river bridge and began
-charging a toll. The toll was expensive, but the giant promised to collect it
-when the traveller came back to their side of the river. Travellers would
-promise to pay when they came back, and when they were in the middle of crossing
-the bridge the verbeeg would lift the entire thing and tilt it towards himself,
-causing the victim to slide back. "You promised, now pay up!"
+charging a toll. The toll was expensive, but the giant promised to only collect
+it when the traveller came back to their side of the river. Travellers would lie
+and promise they'd pay, and when they were in the middle of crossing the bridge
+the verbeeg would lift the entire thing and tilt it towards himself, causing the
+victim to slide back. "You promised, now pay up!"
 
 A strong verbeeg leader might be able to form a gang with several of his
 fellows, increasing the scale of their racket. Verbeegs also find it easy to
@@ -125,3 +125,8 @@ entire species fit the stereotype, but verbeeg bandits are a nice surprise to
 spring on players who expect the giants plaguing the land to be dumb brutes
 incapable of subtlety. Add 4 levels or so to the stat blocks present here and
 you can upgrade their underlings from ogres to hill giants.
+
+You can have lots of fun as a GM if you have your party fight a verbeeg bandit
+gang on a series of hilltops crowned by standing stones. It's both a very
+fey-themed arena, and gives them plenty of hiding places. "These guys are ten
+feet tall, how could they sneak up on us like that?!"

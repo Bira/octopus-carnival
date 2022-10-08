@@ -21,7 +21,7 @@ Thri-Kreen tradition says they were created by the great primal spirit known to
 them as Sand Father, and to other species as Old Grandfather. Sand Father looked
 at the deserts of the world and found them too empty for his taste. So he
 plucked a species of sand beetle from the world and made them into the first
-thri-kreen. Realizing that size and strenght would not be enough to guarantee
+thri-kreen. Realizing that size and strength would not be enough to guarantee
 their survival, Sand Father also gave them the wisdom of the lizard and the
 cunning of the desert fox.
 
@@ -101,7 +101,7 @@ company.
 This is a primal spellcaster with powers over the desert sands. They tend to act
 as judges in thri-kreen communities, trying those who break their laws and
 customs and punishing the guilty. The most severe punishments are execution and
-exile to the desert, but I imagine there are smaller ones for lesser offences.
+exile to the desert, but I imagine there are smaller ones for lesser offenses.
 
 Sand Talkers fight with their bare **claws** and throw **shurikens**, but they
 also have a couple of sand-bending spells for use in combat. **Shifting Dune
