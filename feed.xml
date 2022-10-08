@@ -6,9 +6,152 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Oct 2022 13:08:32 +0000</pubDate>
-    <lastBuildDate>Thu, 06 Oct 2022 13:08:32 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Oct 2022 13:30:07 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Oct 2022 13:30:07 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Scarecrow</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-scarecrow.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;The concept of scary animated scarecrows is a classic, so I’m sure they popped
+up in earlier editions. This is their 4e debut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Scarecrows in the middle world are straw mannequins placed on fields to keep
+birds away. Scarecrows in the Feywild are terrifying constructs built to keep
+&lt;em&gt;people&lt;/em&gt; away, and to tear them to pieces if they get too close. Both look the
+same, so never forget which plane you’re in.&lt;/p&gt;
+
+&lt;p&gt;The first animated scarecrows were created by a hag with straw stolen from a
+farmer at the stroke of midnight, clothes from a freshly slain corpse, and
+thread made from the hair of a nightmare. The idea spread quickly, and now lots
+of different people use them. I imagine the recipes used by less evil creators
+are not as macabre, though the construction of a scarecrow still involves a lot
+of work.&lt;/p&gt;
+
+&lt;p&gt;Scarecrows are a bit less sturdy than golems, but they’re much smarter. They can
+understand more complex instructions and have a link to their master that allows
+for long-distance, two-way communication. When a scarecrow spots an intruder, it
+transmits what it sees to its master. They’re alarm and surveillance systems in
+addition to being guardians.&lt;/p&gt;
+
+&lt;p&gt;If the master dies, any surviving scarecrows will keep following their last
+orders. This means you could find an ancient ruin guarded by masterless
+scarecrows in the Feywild.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Scarecrows are Medium Fey Animates (Constructs). They’re immune to disease,
+poison and sleep, though non-minion variants are also vulnerable 10 to
+fire. They have low-light vision and a speed of 6.&lt;/p&gt;
+
+&lt;h3 id=&quot;scarecrow-shambler&quot;&gt;Scarecrow Shambler&lt;/h3&gt;
+
+&lt;p&gt;A proper scarecrow takes months of careful work, with each stitch and each bit
+of straw placed precisely in the configuration that will allow it to hold the
+most magic reinforcement and power. A skilled enough ritual caster, however, can
+cut a bunch of corners and and produce a small army of these crude models.&lt;/p&gt;
+
+&lt;p&gt;Shamblers are not much tougher than a mundane scarecrow, as their magic barely
+holds them together. They are still strong enough to kill someone with their
+bare hands, and are filled with toxic mold that spreads through the air when
+they are destroyed.&lt;/p&gt;
+
+&lt;p&gt;These creatures are Level 10 Minion Brutes. Their basic attack is &lt;strong&gt;claw&lt;/strong&gt; that
+does physical damage with no special riders. When destroyed, they disintegrate
+in a puff of moldy straw, creating a zone in a Close Burst 1 that lasts until
+the end of the encounter. The zone is a poison cloud: it’s lightly obscured and
+deals 10 poison damage to anyone who starts their turn inside.&lt;/p&gt;
+
+&lt;p&gt;Clearly, shamblers are meant to die en masse and blanket the battlefield in a
+giant poison cloud. An ignorant wizard might inadvertently help them along by
+popping an entire group with an area attack. I guess they still act as cameras
+for their master too.&lt;/p&gt;
+
+&lt;h3 id=&quot;scarecrow-guardian&quot;&gt;Scarecrow Guardian&lt;/h3&gt;
+
+&lt;p&gt;The “baseline” model discussed in the lore section, painstakingly crafted to act
+as a guardian. They’re Level 13 Soldiers with 107 HP.&lt;/p&gt;
+
+&lt;p&gt;Guardians fight with their &lt;strong&gt;Claws&lt;/strong&gt;, which damage and mark on a hit. They also
+have a couple of gaze attacks: &lt;strong&gt;Luring Gaze&lt;/strong&gt; (at-will) is a ranged attack that
+deals psychic damage and pulls the target 5 squares; and &lt;strong&gt;Horrid Gaze&lt;/strong&gt;
+(minor action, encounter) is a Close Blast 3 that deals no damage and
+immobilizes for a turn. These are tailored to allow the monster to prevent
+intruders from escaping.&lt;/p&gt;
+
+&lt;p&gt;They’re also deceptively hard to kill - the &lt;strong&gt;Malleable Straw&lt;/strong&gt; interrupt kicks
+in when they’re damaged, and causes them to take half damage from the
+attack. Since it’s an interrupt, it only works once per round, but still makes
+them more durable than their HP would indicate.&lt;/p&gt;
+
+&lt;h3 id=&quot;scarecrow-haunter&quot;&gt;Scarecrow Haunter&lt;/h3&gt;
+
+&lt;p&gt;Haunters are created by adding an extra ingredient to the original scarecrow
+recipe: the heart of someone who was killed by another scarecrow. It gets sewn
+into the construct’s body, from which it irradiates the fear its former owner
+felt before dying. The haunter twists this raw emotion into frightening
+illusions when hunting down intruders.&lt;/p&gt;
+
+&lt;p&gt;Haunters are Level 13 Lurkers with 99 HP. They fight with &lt;strong&gt;Claws&lt;/strong&gt; and have
+several interesting special attacks. The first one we must mention is the
+&lt;strong&gt;Lurking Horror&lt;/strong&gt; passive trait. It makes it so all of their attacks deal 5
+extra damage and have their forced movement increased by 2 squares.&lt;/p&gt;
+
+&lt;p&gt;As lurkers, haunters can begin harrassing the party from a distance, while
+safely hidden. &lt;strong&gt;Haunting Echoes&lt;/strong&gt; an area burst 2 within 10 attack that targets
+the Will of all enemies inside. A hit slides the target 2 squares and forces
+them to make a basic attack against a creature of the haunter’s choice as they
+try to fight the imaginary ghosts conjured within their minds. With Lurking
+Horror, this slide could be as large as 4 squares.&lt;/p&gt;
+
+&lt;p&gt;Once spotted, they can use &lt;strong&gt;Terrifying Gaze&lt;/strong&gt; (recharge 5+) as a minor action
+to keep the PCs at bay. This is a Close Blast 3 that targets Will, deals light
+psychic damage, and pushes 2 squares.&lt;/p&gt;
+
+&lt;p&gt;Their “hiding” ability is &lt;strong&gt;Fluttering Straw&lt;/strong&gt;, which allows them to seemingly
+burst into a cloud of rotten straw and rags while teleporting 6 squares and
+becoming invisible and insubstantial for a turn. They’ll use it to avoid being
+surrounded and to resume their stealthy “grenading” with Haunting Echoes.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Quite interesting! Animated scarecrows are always good for a bit of scary fun,
+and these don’t disappoint. I like the contrast with golems: the creation of a
+D&amp;amp;D golem is described like a highly technical process that involves trapping
+elemental spirits. The creation of a scarecrow is the telling of a scary fairy
+tale, relying on the inherent narrative power of its ingredients.&lt;/p&gt;
+
+&lt;p&gt;Unless you choose to make less evil scarecrow recipes a thing in your setting,
+they’re probably the domain of hags, lamias and other paragon-tier evil fey. A
+particularly ancient hag is going to have a small army of Guardians and Haunters
+protecting her territory, and the realization that each of these represents at
+least one of her previous victims will add to the horror of the situation.&lt;/p&gt;
+
+&lt;p&gt;If you want your Heroic-tier players to meet scarecrows without having to trek
+to the Feywild, I would suggest statting the Shambler as a Level 3 Regular, and
+knocking the other two down to level 6 or so.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Rot Grub</title>
@@ -1657,230 +1800,6 @@ subsequent supplement like this one. I want more of this!&lt;/p&gt;
         <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/20/minotaur.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/20/minotaur.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Mind Flayer</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-mimic.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Mind flayers made their 4e debut back in the first Monster Manual. This entry
-adds more lore to them, and more stat blocks.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Mind flayers maintain one of the most evil civilizations in the Underdark, and
-that’s saying something. Illithids are aggressive supremacists who prefer to
-engage with even drow and duergar through slave-taking raids rather than
-anything resembling diplomacy. Their settlements consist of a large population
-of permanently mind-controlled thralls from every other sapient species in the
-Underdark, supporting a small collective of illithid masters, who in turn might
-be led by an Elder Brain.&lt;/p&gt;
-
-&lt;p&gt;Elder Brains live in special life support vats, and are psionic
-powerhouses. Third Edition had Elder Brains as deceivers who absorbed the
-knowledge and power of deceased illithids. Fifth Edition would make mind flayers
-into a full-on hive mind centered on the brains. Here in Fourth they’re neither
-of those things. Instead, they are revered leaders and masterminds. They form
-the center of a telepathic network linking all the illithids in the collective,
-who can communicate and share information instantly through it while retaining
-their individuality.&lt;/p&gt;
-
-&lt;p&gt;When an illithid collective passes a certain threshold of size and combined
-power, it performs a specific procedure on its wisest and most respected
-member. The volunteer’s head is severed and placed in the support tank, where it
-is kept alive. The other mind flayers then focus their psionic energy on the
-head over an extended period of time, causing it to grow in size and power until
-it becomes an Elder Brain.&lt;/p&gt;
-
-&lt;p&gt;As mentioned before, mind flayers don’t really “do” diplomacy. Their
-non-illithid allies are almost all slaves and mind-controlled thralls. They
-usually come from some of the other sapient people of the Underdark, though a
-mind flayer with access to the surface will happily enthrall surfacers as
-well. Occasionally you’ll find other aberrant monsters working alongside them,
-either as thralls or as allies of convenience in a symbiotic relationship.&lt;/p&gt;
-
-&lt;p&gt;Lone illithids might end up making actual alliances with other villains, though
-they only cooperate on their own terms even then.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;As before, mind flayers are Medium Aberrant Humanoids with Darkvision and
-Speed 7. All of them have psychic powers and something that lets them mess with
-other people’s brains, but the specifics vary per stat block. The entries in the
-MM1 and Monster Vault focus on the mid Paragon tier. These show stronger
-individuals in the early Epic tier.&lt;/p&gt;
-
-&lt;h3 id=&quot;mind-flayer-inquisitor&quot;&gt;Mind Flayer Inquisitor&lt;/h3&gt;
-
-&lt;p&gt;As the name implies, inquisitors are strong telepaths. The flavor text describes
-one of them hiding in abandoned tunnels and kidnapping nobles and sages to feast
-on their brains and memories.&lt;/p&gt;
-
-&lt;p&gt;Inquisitors are Level 20 Controllers with 190 HP. Their basic melee attack are
-the classic grabby &lt;strong&gt;tentacles&lt;/strong&gt;, which target Reflex. A hit damages and grabs
-the victim (Athletics DC 31 or Acrobatics DC 33 to escape). Once the inquisitor
-has grabbed a victim, it can use &lt;strong&gt;Implant Delusions&lt;/strong&gt; on them. This targets
-Will, does psychic damage, and inflicts the custom “delusions” condition (save
-ends). Victims suffering from delusions inflict a -2 penalty to all attacks and
-defenses of adjacent allies.&lt;/p&gt;
-
-&lt;p&gt;Their ranged powers start with the classic &lt;strong&gt;mind blast&lt;/strong&gt; (recharge 5+) that
-inflicts psychic damage and dazes (save ends). A miss does half damage. Their
-&lt;strong&gt;Own Worst Enemy&lt;/strong&gt; ability is an Area Burst 2 with a range of 10 squares. It
-hits &lt;em&gt;automatically&lt;/em&gt; and forces every enemy in the area to use an at-will power
-of the inquisitor’s choice against themselves! Thankfully it’s an encounter
-power that recharges when the inquisitor is first bloodied, but it’s still rough
-on those Essentials martials.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the inquisitor can force an &lt;strong&gt;Unwilling Confession&lt;/strong&gt; from an
-enemy within 10 squares. This is an attack against Will, and though it does no
-damage it prevents the victim from being affected by healing and by powers that
-grant saves (save ends).&lt;/p&gt;
-
-&lt;p&gt;And finally, when the inquisitor sees an enemy succeed at a saving throw, they
-can use &lt;strong&gt;Forceful Submission&lt;/strong&gt; to force them to re-roll that save with a -2
-penalty.&lt;/p&gt;
-
-&lt;p&gt;Inquisitors work well with a solid frontline of brutes or soldiers who can keep
-them safe and isolate possible victims for melee attacks. They also pair well
-with other monsters loaded with save-ends powers.&lt;/p&gt;
-
-&lt;h3 id=&quot;mind-flayer-scourge&quot;&gt;Mind Flayer Scourge&lt;/h3&gt;
-
-&lt;p&gt;The flavor text here tells the story of how early surface psionics honed their
-abilities by raiding mind flayer lairs and trying to steal their secrets. The
-discipline of the mind flayer scourge was developed in response to these
-raids.&lt;/p&gt;
-
-&lt;p&gt;Scourges are Level 21 Skirmishers with 199 HP. They have Resist 10 Psychic,
-which does help a lot against most psionic PCs.&lt;/p&gt;
-
-&lt;p&gt;They have the usual grabby &lt;strong&gt;tentacles&lt;/strong&gt; and dazing &lt;strong&gt;mind blast&lt;/strong&gt; (recharge
-5+). Their tentacles also daze the grabbed victim while the grab lasts, and
-the &lt;strong&gt;Mind Leech&lt;/strong&gt; passive trait allows them to make an extra saving throw or
-recharge roll while grabbing a victim. They can even recharge their &lt;strong&gt;Psychic
-Assault&lt;/strong&gt; encounter power with a roll of 6+.&lt;/p&gt;
-
-&lt;p&gt;Psychic Assault targets the grabbed victim’s Will. On a hit it deals a bit of
-psychic damage and dominates the victim (save ends, but with a -4 penalty). On a
-miss, it deals half damage and &lt;em&gt;still&lt;/em&gt; dominates the victim (save ends). As
-mentioned above this is an encounter power but the scourge can recharge it with
-Mind Leech. It’s extremely bad news for the PCs. Scourges prefer to use it on
-spellcasters or psionics.&lt;/p&gt;
-
-&lt;p&gt;If surrounded, they can use &lt;strong&gt;Alter Reality&lt;/strong&gt; as a minor action to teleport an
-adjacent enemy 2 squares, allowing them to potentially disengage from a defender
-without triggering any reactions.&lt;/p&gt;
-
-&lt;h3 id=&quot;thoon-hulk&quot;&gt;Thoon Hulk&lt;/h3&gt;
-
-&lt;p&gt;Mind flayers aren’t a very religious lot, but there is at least one entity they
-speak of with the reverence others would reserve for a god. Its name is Thoon,
-and that’s pretty much all non-illithids know about the subject. Whatever
-relationship Thoon might have with these brutish monstrosities remains a
-mystery, but they do show us that mind flayers have no problem performing
-horrific experiments on their own.&lt;/p&gt;
-
-&lt;p&gt;Thoon Hulks are much stronger and less intelligent than a typical mind flayer,
-but they still retain their psionic powers. They’re found as servants to
-“baseline” mind flayers and to other powerful aberrants like aboleths. They’re
-Level 22 Brutes with 255 HP.&lt;/p&gt;
-
-&lt;p&gt;The hulk’s basic attack is named &lt;strong&gt;Eviscerate&lt;/strong&gt;, and uses its giant axe
-hands. This deals extra damage against creatures grabbed by the hulk. It can
-still grab using &lt;strong&gt;tentacles&lt;/strong&gt;, which do no damage but are a minor action. This
-means it can grab and eviscerate on the same turn. Its &lt;strong&gt;mind blast&lt;/strong&gt; is the
-usual psychic damage + daze combo, but it happens a little less often (recharge
-6+). Once per encounter it can focus its powers and issue the &lt;strong&gt;Call of Thoon&lt;/strong&gt;
-(ranged 10 vs. Will), which does heavy psychic damage and pulls the target up to
-10 squares so it ends up adjacent to the hulk.&lt;/p&gt;
-
-&lt;p&gt;When the hulk dies, it triggers a &lt;strong&gt;Psychic Explosion&lt;/strong&gt;, which covers a Close
-Burst 2 and inflicts ongoing 15 psychic damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;Hulks are excellent front-liners, and the Call of Thoon also allows them to pull
-a PC squishy into Eviscerate range.&lt;/p&gt;
-
-&lt;h3 id=&quot;elder-brain&quot;&gt;Elder Brain&lt;/h3&gt;
-
-&lt;p&gt;As mentioned above, Elder Brains are the big bosses of a medium-to-large
-illithid enclave. They rule with absolute authority and live in ooze vats that
-amplify their powers and allow them to communicate with their subjects over vast
-distances.&lt;/p&gt;
-
-&lt;p&gt;Getting to an elder brain’s vat is an adventure in itself, since it will
-inevitably be in the most secure and heavily guarded part of a sizable illithid
-enclave. Once there, the PCs will have to contend with the brain itself and with
-whatever bodyguards are in the chamber with it. Elder Brains are usually too
-arrogant to run away from a fight, though they may change their tunes after
-their bodyguards are taken down and they’re reduced to low HP. However, getting
-there is harder than it looks, because not only can the brain fight, it can also
-&lt;em&gt;move&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Elder Brains are Large Aberrant Magical Beasts with the Blind keyword. They have
-Blindsight 10 and are immune to the blinded condition and to gaze attacks. They
-have a ground speed of 2 and a teleport speed of 6, which I think is a first in
-the game - earlier edition brains were pretty much confined to their vats.&lt;/p&gt;
-
-&lt;p&gt;Brains are Level 23 Elite Controllers with 436 HP. They start off with a host of
-passive traits. The first, &lt;strong&gt;Warp Reality&lt;/strong&gt; is an aura (5) that deals 10 damage
-to any enemy that teleports while inside. The second, &lt;strong&gt;Absorb Thoughts&lt;/strong&gt;,
-grants the brain a saving throw or recharge roll whenever a non-minion ally
-drops to 0 HP within 10 squares. And the third, &lt;strong&gt;Unseeing Telepathy&lt;/strong&gt;, allows
-it to communicate telepathically even when it doesn’t have line of effect to the
-other creature.&lt;/p&gt;
-
-&lt;p&gt;Warp Reality’s effect doesn’t care whether it was the enemy who initiated the
-teleport, or if someone else teleported the enemy. Damage happens either
-way. This is important because most of the elder brain’s attacks teleport the
-target.&lt;/p&gt;
-
-&lt;p&gt;The basic melee attack is a Reach 3 &lt;strong&gt;Tentacle Warp&lt;/strong&gt;, which does light physical
-damage, teleports the target 3 squares, and immobilizes them for a
-turn. &lt;strong&gt;Flailing Warp&lt;/strong&gt; allows them to make three such attacks in a single
-action, each against a different target. Instead of a mind blast, they have a
-&lt;strong&gt;mind burst&lt;/strong&gt; (recharge 5+), which targets all enemies in a Close Burst 5 with
-the usual effects.&lt;/p&gt;
-
-&lt;p&gt;They can also use &lt;strong&gt;Sensory Overload&lt;/strong&gt; as a minor action, which works almost
-identically to the mind burst. It does a little less damage, and instead of
-dazing it blinds and deafens for a turn &lt;em&gt;and&lt;/em&gt; teleports the target 3 squares.&lt;/p&gt;
-
-&lt;p&gt;Finally, every time the elder brain successfully saves against an effect,
-&lt;strong&gt;Baleful Transfer&lt;/strong&gt; automatically afflicts an enemy within 5 squares with the
-effect the brain just saved against.&lt;/p&gt;
-
-&lt;p&gt;These stats seem to reward aggressive tactics. All of the brain’s attacks have a
-range that’s equal or less than that of its aura, so it wants to fight from
-close range. It will probably try to teleport to be near the PC’s squishier back
-line, using Tentacle Warps to keep them close and to keep defenders away. It
-also has enough melee reach to fight from behind a wall of soldiers or brutes,
-and pairs well with other enemies that inflict forced teleports.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;All the mind flayers here have interesting mechanics, and I particularly like
-this edition’s take on the elder brain as a highly mobile close-range
-combatant. It’s probably the last thing your players will expect if they’re used
-to the more static depiction from other editions.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/16/mind-flayer.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/16/mind-flayer.html</guid>
         
         <category>dnd4</category>
         
