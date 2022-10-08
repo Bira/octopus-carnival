@@ -122,6 +122,9 @@ entries.
 - R
   - [Rot Grub][71]
 
+- S
+  - [Scarecrow][72]
+
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -194,3 +197,4 @@ entries.
 [69]: {{ "/2022/10/02/ogre.html" | relative_url }}
 [70]: {{ "/2022/10/04/ogremoch.html" | relative_url }}
 [71]: {{ "/2022/10/06/rot-grub.html" | relative_url }}
+[72]: {{ "/2022/10/08/scarecrow.html" | relative_url }}

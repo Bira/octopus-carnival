@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-rot-scarecrow.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the other.
+
 The concept of scary animated scarecrows is a classic, so I'm sure they popped
 up in earlier editions. This is their 4e debut.
 
@@ -121,3 +132,9 @@ they're probably the domain of hags, lamias and other paragon-tier evil fey. A
 particularly ancient hag is going to have a small army of Guardians and Haunters
 protecting her territory, and the realization that each of these represents at
 least one of her previous victims will add to the horror of the situation.
+
+If you want your Heroic-tier players to meet scarecrows without having to trek
+to the Feywild, I would suggest statting the Shambler as a Level 3 Regular, and
+knocking the other two down to level 6 or so.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
