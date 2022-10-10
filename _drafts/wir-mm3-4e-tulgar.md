@@ -21,15 +21,17 @@ The spirits of that sacred site were cast into the world, rootless and
 homeless. Spirits of place without a place, their rage against the gods knew no
 bounds. In order to survive, they cast part of their spiritual nature aside and
 took on material forms made of flesh, becoming the first tulgars. And then they
-swore to destroy the gods and their servants in revenge for what was done today.
+swore to destroy the gods and their servants in revenge for what was done that
+day.
 
 The tulgars would soon find out that attaining their revenge was much harder
 than they thought. After the Dawn War ended, the gods retreated to their domains
-and no longer stepped into the world. Their followers grew very quickly grew in
-number and built large complex societies that were much harder to destroy than
-the fleeting villages of the War. Many of the tulgars gave on their oath over
-the ages, and now live as bitter mercenaries. Some of them, though, still keep
-that flame of hate going and try to find ways to accomplish their original goal.
+and no longer stepped into the world. Their followers very quickly grew in
+number and built complex societies that were much harder to destroy than the
+scattered fleeting villages of the War. Many of the tulgars gave up on their
+oath over the ages, and now live as bitter mercenaries. Some of them, though,
+still keep that flame of hate going and try to find ways to accomplish their
+original goal.
 
 Metaphysically, a tulgar is more or less the primal equivalent of a daeva or
 rakshasa. When they die, they are immediately reincarnated elsewhere in the
@@ -99,8 +101,7 @@ This elite combatant doesn't care about ranged attacks, and is all about
 charging to melee and laying waste to armies. It's a Level 23 Brute with 265
 HP. Its **Inveterate Warrior** trait makes it crit on a 19-20, and deal 3d12
 extra damage on a crit. That last bit might just be a codification of its
-**greataxe's** High Crit trait, since MM3 stat blocks don't include PC-style
-weapon rules any more.
+**greataxe's** High Crit trait, since it's not spelled out in this stat block.
 
 The warrior's basic axe attacks also inflict a -2 AC penalty for a turn. Its
 **Whirling Frenzy** maneuver is an encounter power that allows it to attack

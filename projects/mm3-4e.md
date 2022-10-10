@@ -198,3 +198,4 @@ entries.
 [70]: {{ "/2022/10/04/ogremoch.html" | relative_url }}
 [71]: {{ "/2022/10/06/rot-grub.html" | relative_url }}
 [72]: {{ "/2022/10/08/scarecrow.html" | relative_url }}
+[73]: {{ "/2022/10/10/secret-of-vecna.html" | relative_url }}

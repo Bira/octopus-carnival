@@ -6,9 +6,13 @@ tags:
     - lets-read
 ---
 
-I'm just gonna let y'all tell me where this one first appeared :). I first saw a
-stat block for them in Thunderspire Labyrinth, the second heroic-tier module
-published for 4e. They appear here in revised form.
+(The book has an illustrated Secret of Vecna. I did not include the image here
+because it's gross.)
+
+This post is part of a series! Click [here][1] to see the other.
+
+I first saw a stat block for these in Thunderspire Labyrinth, the second
+heroic-tier module published for 4e. They appear here in revised form.
 
 ## The Lore
 
@@ -22,11 +26,11 @@ Vecna.
 These creatures resemble bald humans with plain features, usually wearing robes
 and wielding daggers or staffs. When they get seriously wounded, their skin
 sloughs off and they turn into an horrific living ghoul with wickedly sharp
-fangs and claws. Their minds are shattered and they lack any will of their own,
-living to do the bidding of their divine patron. They get sent to guard sites
-important to Vecna, or to aid the plans of his priests. A Secret's ultimate aim
-is always to advance Vecna's goals, though, even to the detriment of his
-followers. Smart followers know never to trust a Secret completely.
+fangs and claws. Secrets lack any will of their own, living to do the bidding of
+their divine patron. They get sent to guard sites important to Vecna, or to aid
+the plans of his priests. A Secret's ultimate aim is always to advance Vecna's
+goals, though, even to the detriment of his followers. Smart followers know
+never to trust a Secret completely.
 
 Legend says there is a ritual capable of mending a Secret and turning them back
 into the person they used to be. This could be done for altruistic reasons, or
@@ -113,3 +117,5 @@ Lingerers.
 
 As the lore mentions, these are Vecna's specialty divine servitors, so they'll
 be found wherever the god's cultists and temples are.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
