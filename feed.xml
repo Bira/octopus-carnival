@@ -6,9 +6,135 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Oct 2022 13:30:07 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Oct 2022 13:30:07 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2022 13:19:49 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2022 13:19:49 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Secret of Vecna</title>
+        <description>&lt;p&gt;(The book has an illustrated Secret of Vecna. I did not include the image here
+because it’s gross.)&lt;/p&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;I first saw a stat block for these in Thunderspire Labyrinth, the second
+heroic-tier module published for 4e. They appear here in revised form.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Vecna is an ascended lich, the evil god of secrets and magic. He teaches that
+secret knowledge is the path to power, encouraging and rewarding his followers
+to learn all they can by whatever means necessary. He also punishes his
+followers for willingly &lt;em&gt;sharing&lt;/em&gt; these secrets, an act that is anathema to
+him. The most common punishment is to transform the heretic into a Secret of
+Vecna.&lt;/p&gt;
+
+&lt;p&gt;These creatures resemble bald humans with plain features, usually wearing robes
+and wielding daggers or staffs. When they get seriously wounded, their skin
+sloughs off and they turn into an horrific living ghoul with wickedly sharp
+fangs and claws. Secrets lack any will of their own, living to do the bidding of
+their divine patron. They get sent to guard sites important to Vecna, or to aid
+the plans of his priests. A Secret’s ultimate aim is always to advance Vecna’s
+goals, though, even to the detriment of his followers. Smart followers know
+never to trust a Secret completely.&lt;/p&gt;
+
+&lt;p&gt;Legend says there is a ritual capable of mending a Secret and turning them back
+into the person they used to be. This could be done for altruistic reasons, or
+as a means of getting access to the information that person knows.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;Secrets are Medium Natural Humanoids with a speed of 6. They are &lt;em&gt;not&lt;/em&gt; undead
+and have no special resistances.&lt;/p&gt;
+
+&lt;p&gt;Their signature ability is &lt;strong&gt;Horrific Visage&lt;/strong&gt;, which triggers as soon as
+they’re bloodied. It works as a Close Burst 3 attack vs. Will. On a hit it does
+light psychic damage and pushes the target 3 squares. This is the transformation
+into a ghoul-like horror.&lt;/p&gt;
+
+&lt;p&gt;Some of the monster’s abilities can only be used before it transforms, while
+others can only be used afterwards. So in practice each Secret has two distinct
+attack profiles. The human one is usually some degree of tricksy, while the
+“monster” one is simpler but stronger.&lt;/p&gt;
+
+&lt;h3 id=&quot;enigma-of-vecna&quot;&gt;Enigma of Vecna&lt;/h3&gt;
+
+&lt;p&gt;A spellcaster who grew too greedy and offered to sell or barter the secrets they
+learned in service to Vecna. They retain some of their magic, and gain the
+ability to temporarily strip a victim of its memories. They’re Level 6
+Controllers with 68 HP.&lt;/p&gt;
+
+&lt;p&gt;When human, they fight with &lt;strong&gt;daggers&lt;/strong&gt; and magic. &lt;strong&gt;Shock Bolt&lt;/strong&gt; is a ranged
+attack that targets Reflex and does lightning damage, also slowing the target
+for a turn. And &lt;strong&gt;Memory Ripper&lt;/strong&gt; is another ranged attack targetting Will and
+doing light psychic damage with an awesome rider. Targets hit by this spell are
+prevented from using encounter or daily attack powers, and any utility powers
+(save ends).&lt;/p&gt;
+
+&lt;p&gt;After the Enigma is bloodied, &lt;strong&gt;Horrific Visage&lt;/strong&gt; triggers and it transforms
+into a straightforward melee combatant. Its only attack from that point on is
+&lt;strong&gt;Rend Flesh&lt;/strong&gt;, which does heavy physical damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;spell-howler-of-vecna&quot;&gt;Spell Howler of Vecna&lt;/h3&gt;
+
+&lt;p&gt;This is a more powerful caster who failed Vecna in some way. Maybe they failed
+on a mission given to them by the god, or failed to share a secret with Vecna
+after discovering it. Or maybe they just dug too deep and looked into matters
+forbidden to one of their rank. They’re Level 18 Artillery with 130 HP.&lt;/p&gt;
+
+&lt;p&gt;Spell Howlers are powerful enough to not need weapons. Their basic attack is a
+&lt;strong&gt;Maddening Touch&lt;/strong&gt; that deals psychic damage. Their basic ranged attack is a
+&lt;strong&gt;Word of Force&lt;/strong&gt; that targets Fortitude and does force damage. They can use a
+&lt;strong&gt;Word of Madness&lt;/strong&gt; to deal psychic damage, slide the target 3 squares and have
+it make a free attack against another target of the howler’s choice. This
+recharges on a miss, so they can keep trying it. And finally they can say a
+&lt;strong&gt;Word of Pain&lt;/strong&gt; once per encounter to deal heavy necrotic damage to a target,
+half on a miss.&lt;/p&gt;
+
+&lt;p&gt;Most of this stops after the transformation. Maddening Touch remains an option,
+but their only ranged attack is now the &lt;strong&gt;Word of Doom&lt;/strong&gt;, which deals psychic
+damage and dazes for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;secret-of-vecna&quot;&gt;Secret of Vecna&lt;/h3&gt;
+
+&lt;p&gt;The titular monster of the entry used to be a high priest of Vecna who allowed
+some of the god’s secrets to fall into the hands of a non-believer. Vecna
+appears to them personally to shatter their minds and transform their bodies.&lt;/p&gt;
+
+&lt;p&gt;Secrets are Level 19 Skirmishers with 176 HP. Faster than average, they have a
+Speed of 8 and a Teleport speed of 4.&lt;/p&gt;
+
+&lt;p&gt;In human form, they use a &lt;strong&gt;Cloak of Ignorance&lt;/strong&gt; spell that covers a Close Burst
+3, deals psychic damage, and makes them invisible to the target (save
+ends). Then they move in with &lt;strong&gt;Shocking Grasp&lt;/strong&gt;, a basic attack that deals
+lightning damage and has a big damage bonus when the target can’t see the
+monster.&lt;/p&gt;
+
+&lt;p&gt;After transforming, their only attack is &lt;strong&gt;Thundering Claws&lt;/strong&gt;, which deals heavy
+thunder damage, knocks prone, and slides 1 square.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;This is exactly the sort of odd monster that you can typically find in Monster
+Manuals numbered 3 or above. Fortunately they had enough space for a nicely
+evocative bit of lore. Their mechanics are an interesting take on the
+“two-stage” monster, and a different one from both the MM2’s Phoeras and Fey
+Lingerers.&lt;/p&gt;
+
+&lt;p&gt;As the lore mentions, these are Vecna’s specialty divine servitors, so they’ll
+be found wherever the god’s cultists and temples are.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Scarecrow</title>
@@ -1668,138 +1794,6 @@ immortality. These ones achieved it, but found that it brings them no joy.&lt;/p
         <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/22/nagpa.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/22/nagpa.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Minotaur</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-minotaur.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Minotaurs made their 4e debut right in the &lt;a href=&quot;https://bira.github.io/octopus-carnival/2020/07/23/minotaur.html&quot;&gt;first Monster Manual&lt;/a&gt;. They’d
-also appear in the Monster Vault. As it happens with a lot of other monsters in
-the same situation, the MM3 gives us a set of minotaur stat blocks that
-complements the ones from the MV.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Minotaurs are a playable option as of the PHB 3, so their &lt;a href=&quot;https://bira.github.io/octopus-carnival/2020/07/23/minotaur.html&quot;&gt;basic lore&lt;/a&gt; is
-quite a bit more lenient with them than that of other “monstrous humanoids”. The
-MM3 innovates here by presenting us with a &lt;em&gt;specific organization&lt;/em&gt; of evil
-minotaurs rather than trying to describe the whole species again.&lt;/p&gt;
-
-&lt;p&gt;This organization is called the Blood League. Its members have invented rituals
-that allow them to steal the power of another creature by eating its
-still-beating heart. They like to capture potential targets and release them
-into a special labyrinth they control, hunting the victim to the limits of its
-endurance and only then making the kill. They often work with worshippers of
-Torog and Baphomet, who share aspects of their worldview and tastes. They also
-work with mind flayers, who get to eat the victims’ brains after the Blood
-League is done with them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;This entry presents several Blood League minotaurs that take their powers from a
-variety of creatures. They’re all early Paragon threats. All of them are Medium
-Natural Humanoids and have a &lt;strong&gt;Goring Charge&lt;/strong&gt; attack that does heavy physical
-damage and knocks prone on a hit. They also have a &lt;strong&gt;Ferocity&lt;/strong&gt; trait that gives
-them one final basic attack when they’re dropped to 0 HP, with an additional
-rider that varies per stat block.&lt;/p&gt;
-
-&lt;p&gt;The novel thing here is the &lt;strong&gt;Heart&lt;/strong&gt; ability each minotaur gets. This is
-something thematic to the creature they killed to gain their powers. It’s
-usually an encounter or recharge power.&lt;/p&gt;
-
-&lt;h3 id=&quot;pale-bloodfiend&quot;&gt;Pale Bloodfiend&lt;/h3&gt;
-
-&lt;p&gt;This one has eaten the heart of a vampire, proving that “still-beating” is a
-poetic flourish and not a requirement. It’s a Level 12 Brute with 140 HP.&lt;/p&gt;
-
-&lt;p&gt;The bloodfiend gained most of a vampire’s cool powers without any of the
-disadvantages, much like Marvel’s Blade. It has a Speed of 8, Darkvision, claws,
-and a blood-draining bite.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Claws&lt;/strong&gt; are a basic attack, and can be used twice in a &lt;strong&gt;Double Claw&lt;/strong&gt;
-maneuver. If both attacks hit, the bloodfiend grabs the target. It can then use
-&lt;strong&gt;Heart of the Vampire&lt;/strong&gt; against the grabbed victim, an attack vs. Fortitude
-that deals a light physical damage, dazes and weakens (save ends both). A hit
-also heals the bloodfiend for 20 HP. This is an encounter power that recharges
-on a miss, and likely represents some sort of blood-draining bite.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Bloodfiend’s Ferocity&lt;/strong&gt; makes its final attack daze for a turn on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;cinderhoof-trampler&quot;&gt;Cinderhoof Trampler&lt;/h3&gt;
-
-&lt;p&gt;This one has eaten the heart of a nightmare. It’s a Level 13 Skirmisher with 132
-HP. It smells of brimstone and burnt hair. It runs very fast, and gains a few
-fire- and trample- based powers.&lt;/p&gt;
-
-&lt;p&gt;Its speed is 8, and it has Resist 10 Fire. When it hits a target granting combat
-advantage to it, it inflicts ongoing 10 fire damage (save ends). It’s basic
-attack is a &lt;strong&gt;Gore&lt;/strong&gt;, and its special ability is &lt;strong&gt;Heart of the Nightmare&lt;/strong&gt;
-(recharge 6+). This allows it to move its speed and enter enemy spaces during
-this move. Anyone that hits the trampler with an opportunity attack during the
-move takes 10 fire damage, and any creatures whose space it moves through are
-targeted by an attack vs. Reflex that deals heavy physical damage and knocks
-them prone.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Trampler’s Ferocity&lt;/strong&gt; pushes the target 2 squares and knocks it prone on a
-hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;ironskin-warrior&quot;&gt;Ironskin Warrior&lt;/h3&gt;
-
-&lt;p&gt;This elite Blood Leaguer has eaten the heart of a gorgon, one of the
-metal-skinned gas-breathing bulls of D&amp;amp;D. It’s a Level 14 Soldier with 140 HP,
-and has Resist 10 Poison.&lt;/p&gt;
-
-&lt;p&gt;As the name implies, the ironskin warrior has metal skin, but that’s rolled into
-its Soldierly high AC. It fights with a &lt;strong&gt;greataxe&lt;/strong&gt; that damages, slows and
-prevents shifting (save ends both). The &lt;strong&gt;Heart of the Gorgon&lt;/strong&gt; encounter bility
-is a poison breath attack (close burst 5 vs. Fortitude). A hit deals poison
-damage and slows (save ends). This worsens to immobilization on the first failed
-save, and to full petrification after the second failure. Petrification is
-permanent and requires magic to reverse. It’s a good fight opener, because it
-has the chance to take an unlucky PC out of the fight completely.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Ironskin’s Ferocity&lt;/strong&gt; immobilizes the target for a turn on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;shardhorn-hunter&quot;&gt;Shardhorn Hunter&lt;/h3&gt;
-
-&lt;p&gt;This fearsome assassin has eaten the heart of a unicorn and made a dagger out of
-its horn. Just in case you doubted the Blood League was evil. It’s a Level 15
-Lurker with 116 HP.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;horn dagger&lt;/strong&gt; can be used for basic attacks, and it can also &lt;strong&gt;backstab&lt;/strong&gt;
-an enemy granting combat advantage to the hunter. This deals the same damage as
-the basic attack, plus ongoing 10 damage (save ends). &lt;strong&gt;Heart of the Unicorn&lt;/strong&gt;
-helps with this: it allows the hunter to teleport 6 squares and turn invisible
-for a turn or until it attacks. It recharges when the hunter uses Backstab (hit
-or miss).&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Shardhorn’s Ferocity&lt;/strong&gt; dazes for a turn on a hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Here’s a specific evil organization with specific methods and goals, and a nice
-set of thematic powers. It’s not something that would have flown in the first
-Monster Manual (which needs to be more generic), but it’s very welcome in a
-subsequent supplement like this one. I want more of this!&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/20/minotaur.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/20/minotaur.html</guid>
         
         <category>dnd4</category>
         
