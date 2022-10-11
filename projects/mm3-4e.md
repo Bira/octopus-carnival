@@ -124,6 +124,8 @@ entries.
 
 - S
   - [Scarecrow][72]
+  - [Secret of Vecna][73]
+  - [Shadow][74]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -199,3 +201,4 @@ entries.
 [71]: {{ "/2022/10/06/rot-grub.html" | relative_url }}
 [72]: {{ "/2022/10/08/scarecrow.html" | relative_url }}
 [73]: {{ "/2022/10/10/secret-of-vecna.html" | relative_url }}
+[74]: {{ "/2022/10/11/shadow.html" | relative_url }}
