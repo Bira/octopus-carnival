@@ -6,9 +6,149 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Oct 2022 15:52:42 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2022 15:52:42 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Oct 2022 16:28:14 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Oct 2022 16:28:14 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Shadow</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shadow.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;Shadows have been in the game since the beginning. They were usually undead in
+previous editions, but here they get a bit of new lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;It’s understandable that someone would think shadows are undead, but the truth
+is that they are a species of creature native to the Shadowfell. They’re
+sapient but they perceive the world in a way that makes then inimical to most
+other living creatures. They hate light, and believe the shadows cast by living
+creatures to be prisoners in cages of flesh. Many seek to rescue these prisoners
+by destroying their cages.&lt;/p&gt;
+
+&lt;p&gt;Shadows might form alliances of convenience with other people that would offer
+them the chance to “liberate” lots of living creatures, but they rarely care for
+the causes or gods of us fleshlings. The exception seems to be spellcasters
+versed in shadow magic, who can summon them very easily and always find them to
+be obsequious and eager servants. It’s almost like the shadows know something
+that these mortal masters don’t.&lt;/p&gt;
+
+&lt;p&gt;Shadows slip into the world via these summonings or at natural contact points
+between the world and the Shadowfell. Their number has increased in recent
+years, but no one knows why yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Shadows are Medium Shadow Humanoids with a ground speed of 8 and
+Darkvision. They’re insubstantial but vulnerable to radiant damage. Exposure to
+ambient light doesn’t damage them, but reveals their position and leaves them
+with less places to hide.&lt;/p&gt;
+
+&lt;p&gt;Their signature trait is &lt;strong&gt;Born of Shadows&lt;/strong&gt;, which allows them to make Stealth
+checks to hide mid-combat when they have any amount of concealment, instead of
+needing total concealment. All of the variants here are trained in Stealth.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadow-stalker&quot;&gt;Shadow Stalker&lt;/h3&gt;
+
+&lt;p&gt;This one is equivalent to the classic shadows of editions past. It’s a Level 3
+Lurker with 25 HP.&lt;/p&gt;
+
+&lt;p&gt;The stalker attacks with a &lt;strong&gt;shadowy touch&lt;/strong&gt; that does necrotic damage, and it
+has a &lt;strong&gt;Shadow Stalk&lt;/strong&gt; power that deals necrotic damage and allows it to meld
+with an enemy’s shadow (save ends). While melded, the shadow moves in lockstep
+with its victim, without provoking opportunity attacks. It gains a +4 to all
+defenses and a +5 to attack the victim. When the victim saves, the shadow
+appears on an adjacent square.&lt;/p&gt;
+
+&lt;p&gt;Its triggered action is &lt;strong&gt;Shadow Step&lt;/strong&gt;: when a nearby creature drops to 0 HP,
+the stalked teleports to an adjacent square and gains a +2 bonus to attacks for
+a turn (from eating the victim’s shadow). This also recharges Shadow Stalk.&lt;/p&gt;
+
+&lt;p&gt;Shadow Stalkers become major threats if they manage to land their Shadow Stalk
+attack. Its buddies should focus fire on the stricken PC, which increases the
+chances of the PC dropping to 0 HP and recharging the power. Note that it’s
+possible for multiple stalkers to meld with the same PC’s shadow, and that the
+attack also recharges if an &lt;em&gt;enemy&lt;/em&gt; hits 0 HP.&lt;/p&gt;
+
+&lt;p&gt;PCs should focus their fire on any shadow stalkers in Team Monster, preferrably
+with radiant and force attacks to kill them quicker.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadow-strangler&quot;&gt;Shadow Strangler&lt;/h3&gt;
+
+&lt;p&gt;This is a spellcaster specializing in remote shadow control. It uses the shadows
+it devours to fuel its magic, so it must feed more frequently than its
+fellows. Stranglers are Level 9 Artillery with 53 HP.&lt;/p&gt;
+
+&lt;p&gt;The Strangler’s &lt;strong&gt;shadowy touch&lt;/strong&gt; deals necrotic damage and makes invisible to
+the target for a turn. Its basic ranged attack is a spell namd &lt;strong&gt;Blinding
+Shadows&lt;/strong&gt; that deals the same amount of necrotic damage and makes the target
+unable to see further than 3 squares for a turn. Its special attack is
+&lt;strong&gt;Strangling Darkness&lt;/strong&gt; (recharge 5+) which restrains and deals ongoing 15
+damage (save ends). And finally it has an encounter power named &lt;strong&gt;Devouring
+Dark&lt;/strong&gt; that’s basically a “shadow fireball” that deals light necrotic damage and
+blinds everyone it hits for a turn.&lt;/p&gt;
+
+&lt;p&gt;Despite being artillery, stranglers are very controllery. They pair well with
+lurkers whose increased damage depends on combat advantage or on being unseen by
+their targets.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadow-puppeteer&quot;&gt;Shadow Puppeteer&lt;/h3&gt;
+
+&lt;p&gt;This powerful shadow has a more refined palate. It seeks to feed on the shadows
+cast by souls as they depart for the afterlife. So while the others might leave
+their victims a bit drained but alive, this one is definitely out for murder.&lt;/p&gt;
+
+&lt;p&gt;Puppeteers are Level 14 Lurkers with 74 HP. Their &lt;strong&gt;shadowy touch&lt;/strong&gt; deals extra
+damage against targets that cannot see it, and creates a zone of lightly
+obscured squares centered on the target’s space that lasts for a turn. Its
+special attak is &lt;strong&gt;Shadow Puppet&lt;/strong&gt;, which targets a creature that cannot see the
+puppeteer, deals light necrotic damage, and dominates them until they start
+their turn not adjacent to the shadow.&lt;/p&gt;
+
+&lt;p&gt;Puppeteers and stranglers have amazing synergy. If you want your PCs to sweat
+for their victory, it’s definitely worth it to adjust their levels so they’re
+closer to each other and can be included in the same encounter. Keep the
+strangler as the lower-level half of the pair to make things slightly less hard
+for them.&lt;/p&gt;
+
+&lt;p&gt;PCs fighting a puppeteer should remain mobile to avoid lingering in the darkness
+it creates, and should use forced movement powers to keep it away from potential
+domination targets. If they face the tag team described above, they should focus
+on killing the strangler first, since it frees the puppeteer from having to set
+up its lurker bonuses.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Shadows don’t usually work well with other monsters, so you’re most likely
+looking at all-shadow teams when building encounters. If you want more variety
+it might be possible to turn another monster into a shadow by changing its
+origin, halving its HP, making it insubstantial, and making its basic attack
+into a touch that targets Reflex and deals necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;The original reason shadows were scary was that they drained Strength, but here
+they’re scary because they’re &lt;em&gt;sticky&lt;/em&gt;. The basic stalker can enter your shadow
+and attack you from there until it kills you. The puppetter does the same but
+dominates you to attack your friends while it’s doing it. And the strangler
+makes it a lot easier for the other two to do their part.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Secret of Vecna</title>
@@ -1658,142 +1798,6 @@ all-nerra encounter groups.&lt;/p&gt;
         <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/25/nerra.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/25/nerra.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Nagpa</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nagpa.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Back in 1982, there was a movie named &lt;em&gt;The Dark Crystal&lt;/em&gt;. It introduced these
-cool villainous vulture people called the Skeksis, which became kind of
-iconic. D&amp;amp;D wanted in on some of that action, so it added a species called the
-Nagpa to Mystara. Nagpas are to Skeksis what Halflings are to Hobbits, which
-means that they started out just barely different enough to avoid a lawsuit and
-got significantly changed in each subsequent edition. This is their 4e debut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Once upon a time, during the Dawn War, the Primordials realized they needed
-servitors that could act as special forces. They already commanded uncountable
-hordes of elementals, but they were mostly dumb as rocks and only good as shock
-troops. Giants and djinns were smart and individually powerful, but too few in
-number.&lt;/p&gt;
-
-&lt;p&gt;So they decided to take a page from the playbook of the gods and create a
-servitor species they named the nagpas. Created to be as beautiful as nymphs and
-as clever as devils, the nagpas readily took to their new role and proceeded to
-wreak havoc on the armies of the gods for a time.&lt;/p&gt;
-
-&lt;p&gt;However, when the Dawn War was nearing its end, the nagpas were clever enough to
-realize that their side would lose. And so it was that they made a deal with the
-gods to betray their masters. However, they were caught, and the primordials
-cursed them.&lt;/p&gt;
-
-&lt;p&gt;The curse took away the beauty of the nagpas, turning them into horrid
-vulture-like beings. It also doomed them to never touch that which they desired
-the most. A nagpa who loved fine food and wine would always taste foulness when
-he tried to eat or drink. One who loved art would see it crumble at a touch.&lt;/p&gt;
-
-&lt;p&gt;Nagpas were either already immortal, or were made so by the curse. Even when
-slain, they reincarnate within a few decades with all memories of their previous
-lives and deaths. Every nagpa alive today remembers their life before the curse,
-and is obsessed with those things it cannot have. They tend to destroy mirrors
-or any other surface that can show them their own faces.&lt;/p&gt;
-
-&lt;p&gt;The primordial curse angle is interesting. Without it, you could argue that
-their vulture-like appearance is a subjective thing. Some people think they’re
-ugly, they themselves like it just fine. But a curse might make them
-“axiomatically” ugly: not only are others unable to see beauty in them, they are
-incapable of seeing it in themselves.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Nagpas are Medium Elemental Humanoids with Low-Light Vision and a speed
-of 6. Everything else comes from training and varies per stat block. The two
-stat blocks here have a wizardly bent, and use magic with a corruption and decay
-theme.&lt;/p&gt;
-
-&lt;h3 id=&quot;nagpa-corruptor&quot;&gt;Nagpa Corruptor&lt;/h3&gt;
-
-&lt;p&gt;The Nagpa Corruptor is given as an example of an art-loving nagpa. Its lair
-looks like a museum, with cordoned-off works of art on display (but no
-reflective surfaces!). It employs a large number with a similarly evil
-disposition to protect its collection and acquire more pieces for it.&lt;/p&gt;
-
-&lt;p&gt;Corruptors are Level 9 Controllers with 97 HP. Their basic attacks are a
-&lt;strong&gt;withering staff&lt;/strong&gt; that deals necrotic damage and pushes 2 squares, and a
-ranged &lt;strong&gt;Withering Blast&lt;/strong&gt; that deals necrotic damage and immobilizes (save
-ends).&lt;/p&gt;
-
-&lt;p&gt;They can also use a ranged &lt;strong&gt;Devouring Fire&lt;/strong&gt; (recharge 5+) spell that deals
-fire damage and ongoing fire damage (save ends). Each failed save also deals a
-bit of fire damage to up to 3 enemies adjacent to the target. The text says
-“each ally” but I’m interpreting that to mean “each ally of the target”.&lt;/p&gt;
-
-&lt;p&gt;Their strongest attack is an encounter power named &lt;strong&gt;Corrupting Curse&lt;/strong&gt;, a close
-blast 5 that deals necrotic damage and creates a zone that prevents enemies
-inside from regaining HP. It lasts until the end of the encounter. Their other
-encounter power is an &lt;strong&gt;Enervating Blast&lt;/strong&gt;. It’s another close blast 5 that can
-be cast as a minor action, deals no damage and weakens those it hits for a turn.&lt;/p&gt;
-
-&lt;p&gt;Corruptors let their hired muscle do most of the fighting, hitting their enemies
-with opportunistic spells from afar. They’re one of the rare monsters that
-include more specific “director’s notes” in their text, though: if the fight
-happens inside the corruptor’s lair/gallery, PCs should be able to its beloved
-art objects. The first time one is destroyed, the corruptor becomes dazed for a
-turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;nagpa-carrion-lord&quot;&gt;Nagpa Carrion Lord&lt;/h3&gt;
-
-&lt;p&gt;This one is a gourmand who loved good food and drink, but who is cursed to only
-taste ashes and filth when it eats. It still likes holding feasts, but its
-inability to enjoy them fill it with rage and frustration, which it takes out on
-any nearby PCs.&lt;/p&gt;
-
-&lt;p&gt;The Carrion Lord is a Level 14 Artillery monster with 111 HP. All of its
-abilities have a “rot” theme, starting with the &lt;strong&gt;Rotting Staff&lt;/strong&gt; basic melee
-attack that targets Fortitude and does necrotic damage. Its basic ranged attack
-is the &lt;strong&gt;Bolt of Putrescence&lt;/strong&gt;, targetting Reflex and doing, you guessed it,
-necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hand of Ruin&lt;/strong&gt; (recharge 5+) is a ranged attack that changes things up a
-little and does acid damage. &lt;strong&gt;Consuming Shadows&lt;/strong&gt; (encounter) is a ranged area
-attack that deals immediate and ongoing necrotic damage, and creates a zone that
-blocks line of sight to the carrion lord’s enemies. Its allies can see through
-it just fine, though. It lasts for a turn and can be sustained with a minor
-action. The lord’s last encounter power is &lt;strong&gt;Ghostly Escape&lt;/strong&gt;, a minor action
-that gives it insubstantial and phasing for a turn.&lt;/p&gt;
-
-&lt;p&gt;The Carrion Lord likely opens the fight with Consuming Shadows, and then keeps
-using its two ranged attacks from beyond the sight of the PCs while its
-melee-oriented bodyguards keep them pinned in place. Ghostly escape is reserved
-for doing what its name says, and letting the nagpa get away after it sees the
-fight is lost.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m going to say the same thing everyone who has reviewed a Nagpa entry always
-says: they’re skeksis. The way in which they’re skeksis tends to vary with the
-edition, though. I think the ones from the source material were pursuing
-immortality. These ones achieved it, but found that it brings them no joy.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/22/nagpa.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/22/nagpa.html</guid>
         
         <category>dnd4</category>
         
