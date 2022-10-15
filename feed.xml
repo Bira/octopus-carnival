@@ -6,9 +6,180 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Oct 2022 00:11:10 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Oct 2022 00:11:10 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Oct 2022 15:10:27 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Oct 2022 15:10:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Shardmind</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shardmind.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Shardminds made their debut as a playable option in the Player’s Handbook 3 for
+4e. They’re new to this edition and really lean into its background lore for
+psionics. They also have the honor of being the second living construct species
+presented in the game (after Warforged). This entry presents some shardmind stat
+blocks for use as NPCs or enemies.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;At the dawn of time there was a crystaline entity named the Living Gate. Neither
+god nor primordial, the Gate protected the border between the known planes and
+the Far Realm. It stood firm even during the Dawn War, but it was eventually
+sundered by the combined efforts of mind flayers, beholders and other Far Realm
+inhabitants who wanted to enter the world for reasons ranging from the
+inscrutable to the foul.&lt;/p&gt;
+
+&lt;p&gt;Though the Living Gate was shattered and its pieces spread through the cosmos,
+its will lived on, gifting the disparate shards with life and purpose. These are
+the shardminds, living constructs with a strong affinity for psionic power and
+ancestral memories that compel them to rebuild the Living Gate and once again
+seal the Far Realm away.&lt;/p&gt;
+
+&lt;p&gt;Despite that common ancestral memory shardminds as individuals are as varied in
+outlook and personality as any other sapient species. Over the ages they have
+formed three major schools of thought that propose different ways of continuing
+the mission of the Living Gate. The MM3 doesn’t describe all of them, but I will
+because they’re cool.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Thought Builders&lt;/strong&gt; believe the correct solution is to build a new Living
+Gate and imbue it with the psionic power necessary to seal the Far Realm. Their
+main goal is to acquire the knowledge necessary to do so. They tend to be Good
+and worship Ioun.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The God Shards&lt;/strong&gt; believe that the Shardminds now form a distributed network
+that carries on the duties of the Living Gate. It’s each individual’s duty to
+train and nurture their own power so that they can better contribute to this
+task. Once this network is strong enough, the Far Realm will be sealed. They
+tend to be Unaligned and worship no gods.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Shard Slayers&lt;/strong&gt; are the faction most likely to come into conflict with the
+PCs. They believe that the original Living Gate can rebuild itself if it’s
+psionic energy is allowed to return to its original site. However, this energy
+is “trapped” in the shardminds, and must be forcibly “released”. So yeah,
+adherents of this philosophy want to kill all other shardminds and then
+themselves. They are usually Evil and worship Vecna.&lt;/p&gt;
+
+&lt;p&gt;The stat blocks in this entry represent Shard Slayers suitable as mid-to-late
+Heroic opposition. If your group has one or more shardminds, they have a
+built-in reason to be hostile. Even if it doesn’t, most non-Evil PCs will be
+interested in stopping a bunch of genocidal maniacs.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Shardminds are Immortal Humanoids with the Living Construct keyword. They have
+Resist 5 Psychic and a ground speed of 6. Their signature power is the same one
+PCs get: &lt;strong&gt;Shardswarm&lt;/strong&gt;, an encounter power which allows them to break apart and
+reform a short distance away. This causes every adjacent enemy to grant combat
+advantage for a turn and lets the shardmind teleport half their speed.&lt;/p&gt;
+
+&lt;p&gt;Shardminds speak Common, Deep Speech, and have telepathy with range 5.&lt;/p&gt;
+
+&lt;h3 id=&quot;shardmind-warseeker&quot;&gt;Shardmind Warseeker&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shardmind-jasper.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Jasper, from Steven Universe.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This psychic warrior disguises its true nature beneath a suit of plate, and
+wanders about seeking shardminds to slay. Its outwardly calm demeanor hides a
+murderous rage, which reveals itself when it’s wounded in combat or when an
+innocent bystander fails to answer its questions.&lt;/p&gt;
+
+&lt;p&gt;The warseeker is a Level 6 Soldier with 70 HP. It wears plate and fights with a
+broadsword and a heavy crossbow. Heavy armor means its speed is only 5.&lt;/p&gt;
+
+&lt;p&gt;Both the &lt;strong&gt;sword&lt;/strong&gt; and the &lt;strong&gt;crossbow&lt;/strong&gt; are basic attacks that damage and mark
+for a turn. If a marked enemy within 5 squares of the warseeker targets makes an
+attack that doesn’t target it, the warseeker can deal 5 psychic damage to that
+enemy. Once the warseeker is bloodied, its &lt;strong&gt;Furious Mind&lt;/strong&gt; grants it 10
+temporary HP, a -2 penalty to AC, and a +4 bonus to damage for the rest of the
+fight.&lt;/p&gt;
+
+&lt;p&gt;This is a basic frontline fighter with some tricks borrowed from the paladin and
+the barbarian. It’s sticky and a good choice to form a solid “wall” with other
+soldiers and brutes.&lt;/p&gt;
+
+&lt;h3 id=&quot;shardmind-dominator&quot;&gt;Shardmind Dominator&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shardmind-white-diamond.jpeg&quot;/&gt;
+  &lt;figcaption&gt;
+    White Diamond, from Steven Universe.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A psion who is a big fan of mind control. It’s a Level 8 Controller with 86
+HP. It wields a &lt;strong&gt;dagger&lt;/strong&gt; as a basic melee attack, but the important bits are
+its powers geared towards brute-force mind control.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Overwhelming Mind&lt;/strong&gt; is an at-will power that only has an “Effect” line,
+meaning this always happens: it forces an enemy within 5 squares to make a melee
+or ranged basic attack against a target of the dominator’s choice. If the attack
+hits, the dominator slides the enemy 3 squares. &lt;strong&gt;Psionic Puppet&lt;/strong&gt; (recharge 5+)
+is a non-damaging ranged attck that dominates the target on a hit (save
+ends). And &lt;strong&gt;Mind Swarm&lt;/strong&gt; (encounter) is an area attack that deals psychic
+damage and creates a zone that lasts the rest of the encounter. Enemies who end
+their turn inside can be slid 3 squares by the dominator.&lt;/p&gt;
+
+&lt;p&gt;Dominators will be doing little damage on their own, but they’ll cause lots of
+friendly fire incidents and will make it very hard for the party to maintain any
+sort of coherent formation.&lt;/p&gt;
+
+&lt;h3 id=&quot;shardmind-executioner&quot;&gt;Shardmind Executioner&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shardmind-bort.jpeg&quot;/&gt;
+  &lt;figcaption&gt;
+    Bort, from Land of the Lustrous.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A skilled assassin dispatched to murder shardminds identified by its
+buddies. It’s a Level 10 Lurker with 81 HP, wielding a crystal greatsword called
+a &lt;strong&gt;Shardblade&lt;/strong&gt;. It does standard damage for its level, which can be increased
+by the &lt;strong&gt;Psychic Boost&lt;/strong&gt; (recharge 5+). This is a free-action power that
+triggers when the executioner hits with the sword, so it’s never wasted on a
+missed attack.&lt;/p&gt;
+
+&lt;p&gt;The executioner attacks a range with a &lt;strong&gt;Mind Shadows&lt;/strong&gt; power, which deals light
+psychic damage and blinds the target for a turn. It can also perform a &lt;strong&gt;Psychic
+Infiltration&lt;/strong&gt;, a melee attack vs. Will. On a hit this removes the executioner
+from play and causes the target to suffer 20 ongoing psychic damage and be dazed
+(save ends). When the target saves, the executioner appears adjacent to it. This
+is an at-will power.&lt;/p&gt;
+
+&lt;p&gt;A boosted sword strike actually deals more damage than a round of Infiltration,
+but the latter is an excellent move to use while Psychic Boost recharges, as it
+shields the shardmind from damage. So this lurker actually hides inside the
+enemy’s minds, and deals massive damage while doing so.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I love all the living constructs, and shardminds are no exception. Their default
+appearance is a bit meh, but as you can see by the illustrations I chose here
+this can be easily remedied.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/15/shardmind.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/15/shardmind.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Shadow</title>
@@ -1549,255 +1720,6 @@ scaling their level, I’d probably make it +1/tier instead of a flat +2.&lt;/p&
         <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/26/norker.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/26/norker.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Nerra</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nerra.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is the first I’ve heard of Nerras, though it’s possible they originated in
-a previous edition. If they did, their lore was completely different.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Many ages ago, a sect of mortal invokers called the Sect of Seventy came to
-believe that the gods had grown too detached from the middle world in the
-aftermath of the Dawn War. They had become incapable of defending it from the
-many threats and hazards that lingered from those terrible battles.&lt;/p&gt;
-
-&lt;p&gt;The Sect of Seventy decided to claim for themselves the role of protectors of
-the middle world, and set about building a grand work that would allow them to
-keep watch over all reality. They used their divine magic to build an astral
-dominion they named The Constellation of Eyes. Located far from all the other
-known dominions, it consisted of a central reflective crystal sphere around
-which orbited uncountable mirrors that reflected different parts of the universe
-and could be used as portals to reach those places.&lt;/p&gt;
-
-&lt;p&gt;In other words, the Constellation is the ultimate panopticon, capable of
-maintaining surveillance over the entire universe and allowing its owners to
-instantly deploy to places of interest. The Sect intended it to be the perfect
-“superhero base” from which they would keep watch over reality, but other
-interested parties had far more nefarious uses in mind.&lt;/p&gt;
-
-&lt;p&gt;The Sect was unknowingly infiltrated by a small group of priests of Asmodeus,
-who intended to seize it for themselves and use it to open a permanent portal to
-the Nine Hells that would give devils free access to the rest of the
-multiverse. The invokers only managed to discover this after the final ritual
-had already began. The ensuing battle was every bit as epic as you imagine, and
-the resulting flare of divine energy from both sides was strong enough for the
-other gods to notice and send their angels to investigate.&lt;/p&gt;
-
-&lt;p&gt;The angels would have been a great help, but they arrived too late. As far as
-they were able to determine, the invokers realized they were losing the battle,
-and enacted a desperate ritual of their own that would bring terrible ruin upon
-all that were in the Constellation of Eyes. The ritual worked. It turned both
-the invokers and the Asmodean priests into the creatures now known as Nerras.&lt;/p&gt;
-
-&lt;p&gt;These mirrored crystaline humanoids still dwell in the Constellation of
-Eyes. With no apparent memory of their previous lives, they spent the following
-eons acting as dispassionate observers of the multiverse. Their observations are
-recorded in specially constructed glass tablets that can only be read from a
-slanted angle, and their collected store of information is one of the greatest
-in existence.&lt;/p&gt;
-
-&lt;p&gt;Relatively recently, though, the nerras have changed their behavior and become
-more proactive. They’ve taken to crossing their mirror portals and kidnapping
-certain powerful and influential individuals. Back at the Constellation, the
-nerras use their magic to create a perfect duplicate of the subject, with a
-diametrically opposite moral outlook. Then they send both back home. This
-predictably causes a lot of problems.&lt;/p&gt;
-
-&lt;p&gt;Nerras target both terrible villains and virtuous heroes in equal measure. Those
-scholars aware of their history theorize that ancient memories of the nerras’
-former lives are resurfacing and causing divisions among them, and that their
-new activities are an experiment to see which between good and evil is stronger.&lt;/p&gt;
-
-&lt;p&gt;Nerras also travel to places they consider interesting to monitor things from up
-close, and sometime they interfere in local events for inscrutable
-reasons. Sometimes their interference ends up causing wars and disasters, some
-times they prevent them.&lt;/p&gt;
-
-&lt;p&gt;Nerras despise demons, devils, and creatures of the Far Realm, but they ally
-with other creatures when their goals happen to align. Even their occasional
-allies have little insight on their true motives, which they keep to themselves.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Nerra are Medium Immortal Humanoids, with Speed 6 and human-standard
-senses. Their signature ability is &lt;strong&gt;Mirror Step&lt;/strong&gt;, an at-will move action that
-allows them to teleport 5 squares to a space adjacent to a mirror or to another
-nerra. This means a group of nerras finds it very easy to maintain a cohesive
-formation, and that their preferred battlegrounds have lots of mirrors that they
-can use for extra mobility. All of the ones we see here are Unaligned, and they
-speak Supernal.&lt;/p&gt;
-
-&lt;p&gt;All of their other abilities vary per stat block, though they all tend to share
-a strong “mirror” theme. Their levels cover the mid-to-late Paragon tier.&lt;/p&gt;
-
-&lt;h3 id=&quot;varoot-nerra&quot;&gt;Varoot Nerra&lt;/h3&gt;
-
-&lt;p&gt;Varoots are elite scouts and spies. They’re the first to venture forth from the
-Constellation of Eyes to lay the groundwork for a nerra expedition. Their
-ability to copy the appearances of others makes them great infiltrators.&lt;/p&gt;
-
-&lt;p&gt;Varoot Nerras are Level 16 Lurkers with the Shapechanger keyword and 116
-HP. Their main weapon is a &lt;strong&gt;shard blade&lt;/strong&gt; similar to a longsword. Their
-&lt;strong&gt;Reflection Theft&lt;/strong&gt; ability allows them to perfectly duplicate an enemy within
-10 squares of it. The effect lasts until the end of the encounter, or until the
-varoot attacks. If the varoot is adjacent to the copying enemy, it gets to roll
-a save against any melee or ranged attack that targets it, with a success
-forcing the attack to target the copied enemy instead. It also gains a +2 bonus
-to attack and a +5 bonus to damage against the copied enemy.&lt;/p&gt;
-
-&lt;p&gt;Its last ability aside from Mirror Step is &lt;strong&gt;Mirrored Grasp&lt;/strong&gt;, a minor-action
-power that lets the nerra teleport an unattended object of up to 20 pounds /
-10kg that’s within 10 squares and line of sight to its hand.&lt;/p&gt;
-
-&lt;p&gt;In combat, the Varoot does it’s Lurker routine by “hiding” next to a PC it’s
-copying, attacking the copied PC with a damage bonus, and teleporting away using
-Mirror Step so it can transform and try again.&lt;/p&gt;
-
-&lt;p&gt;There’s no way to pierce the varoot’s disguise with a skill check, at least in
-the ability’s combat form. It would make sense to rule that outside of combat
-this works like a doppelganger’s transformation: it lasts a long time and can be
-contested with Insight vs. the nerra’s Bluff of +20.&lt;/p&gt;
-
-&lt;h3 id=&quot;meerak-nerra&quot;&gt;Meerak Nerra&lt;/h3&gt;
-
-&lt;p&gt;Meeraks are the rank and file of a Nerra strike force. They charge into the
-enemy to cut it up with their spiked, jagged bodies, softening them up for the
-more powerful individuals that always follow close behind them.&lt;/p&gt;
-
-&lt;p&gt;Meeraks are Level 18 Minion Soldiers. Their &lt;strong&gt;Mirror Slash&lt;/strong&gt; basic attacks mark
-on a hit, and their &lt;strong&gt;Mirror Defense&lt;/strong&gt; ability is an interrupt that triggers
-when they’re hit by a melee attack and deals 10 damage to a different enemy
-within 10 squares. The meerak is still going to die from the hit, but not before
-reflecting some damage to a PC.&lt;/p&gt;
-
-&lt;h3 id=&quot;kalareem-nerra&quot;&gt;Kalareem Nerra&lt;/h3&gt;
-
-&lt;p&gt;Kalareems are elite knights among the nerra. Unlike a lot of their crystalline
-relatives, they look like they’re made out of mirror-smooth liquid metal. This
-makes them hard to hurt, and they can also briefly solidify parts of their
-bodies to launch a spray of deadly metal shards.&lt;/p&gt;
-
-&lt;p&gt;Kalareem Nerras are Level 19 Soldiers with 175 HP. Their liquid metal
-construction doesn’t translate to specific abilities but it’s a nice
-in-character explanation for the high defenses and HP a level 19 Soldier
-has. Their basic attack is a &lt;strong&gt;Shard Blade&lt;/strong&gt; that damages and marks on a hit, as
-do the &lt;strong&gt;Shard Blasts&lt;/strong&gt; they can fire at-will in a Close Burst 3 pattern.&lt;/p&gt;
-
-&lt;p&gt;Aside from the standard nerra Mirror Step, they also have two other
-mirror-themed abilities that make them good bodyguards. &lt;strong&gt;Mirror Image&lt;/strong&gt; is an
-interrupt that triggers when a marked enemy makes a melee or ranged attack that
-doesn’t include the nerra as a target. It makes the enemy target the nerra
-instead. &lt;strong&gt;Mirror Defense&lt;/strong&gt; is another interrupt that triggers when the kalareem
-is hit by a melee attack. The creature can then make an attack against the Will
-of the triggering enemy, which on a hit deals the same damage inflicted by the
-triggering attack. This is an interrupt, so the attacker gets damaged &lt;em&gt;before&lt;/em&gt;
-the nerra, and if they get reduced to 0 HP the kalareem wouldn’t suffer the
-damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;sillit-nerra&quot;&gt;Sillit Nerra&lt;/h3&gt;
-
-&lt;p&gt;Sillits are nerra spellcasters, who often act as field agents and
-mystically-oriented scouts. Like other spellcasting monsters, out of combat they
-should have access to whatever rituals are required by the story. In combat,
-they use mirror-themed spells and specialize in forcibly teleporting enemies.&lt;/p&gt;
-
-&lt;p&gt;Sillits are Level 19 Controllers with 181 HP. Even their basic attack is a
-&lt;strong&gt;Mirror Portal&lt;/strong&gt; that targets Will, and on a hit damages and teleports the
-target adjacent to one of the sillit’s allies within 10 squares. Their basic
-ranged attack is &lt;strong&gt;Warped Image&lt;/strong&gt;, which targets Fortitude and on a hit damages
-and teleports the target 3 squares.&lt;/p&gt;
-
-&lt;p&gt;Their special attack is &lt;strong&gt;Captured Image&lt;/strong&gt; (recharge 5+), a ranged power that
-targets Will. On a hit it removes the target from play (save ends), trapping it
-within the mirrors that make up the sillit’s body. While the target is captured,
-it takes 20 damage whenever the sillit is damaged. The effect ends when the
-target successfully saves, or when the sillit is reduced to 0 HP. When this
-happens the target appears on a square of the sillit’s choice within 5 squares
-of the sillit itself. Yes, it’s entirely possible that a sillit who gets lucky
-with its recharge rolls will manage to capture multiple targets at the same
-time.&lt;/p&gt;
-
-&lt;p&gt;Sillits have the standard Mirror Step power, and the same Mirrored Grasp power
-of the Varoots.&lt;/p&gt;
-
-&lt;p&gt;Judging from their powers, Sillits love to fight in maps containing plenty of
-hazardous terrain, and accompanied by bruiser allies. They’ll use Captured Image
-as soon and as often as they can, and then move to the front lines to dare PCs
-to attack them. Inconveniently strong melee PCs can be teleported next to the
-bruisers with Mirror Portal, and Warped Image is good for disrupting the
-remaining PCs if no other opportunities arise. Hazardous terrain on the
-battlefield makes those forced teleports more dangerous.&lt;/p&gt;
-
-&lt;h3 id=&quot;delphar-nerra&quot;&gt;Delphar Nerra&lt;/h3&gt;
-
-&lt;p&gt;Delphars are the officers and commanders of nerra forces. They’re similar to
-kalareems in their training, but they’re much larger and their mere presence has
-bolstering effects on the abilities of their allies.&lt;/p&gt;
-
-&lt;p&gt;Unlike other nerra, delphars are Large and have Speed 8. They’re Level 20
-Soldiers with 187 HP and the Leader tag. They project a &lt;strong&gt;Mirrored Rampart&lt;/strong&gt;
-aura (5) that extends the range of other nerras’ Mirror Step to 10. They fight
-with a &lt;strong&gt;Shard Blade&lt;/strong&gt; and &lt;strong&gt;Shard Blasts&lt;/strong&gt; that have the same effects as those
-of kalareems, with slightly higher numbers.&lt;/p&gt;
-
-&lt;p&gt;They have a different way of punishing marked enemies, though: &lt;strong&gt;Mirrored
-Grasp&lt;/strong&gt; triggers when a marked enemy within 10 squares ignores the mark, and
-teleports the enemy adjacent to the delphar.&lt;/p&gt;
-
-&lt;h3 id=&quot;teltarym-nerra&quot;&gt;Teltarym Nerra&lt;/h3&gt;
-
-&lt;p&gt;You would expect the strongest monster in the entry to be some sort of dread
-overlord, but we’re talking about topsy-turvy mirror people here. Teltarym are
-the nerra’s manual laborers, joining the fight either because they must defend
-themselves or because they were ordered to. Despite not being formal combatants
-they’re very strong and aggressive, charging in to smash enemies with their huge
-fists, and reflecting their own wounds back at their attackers.&lt;/p&gt;
-
-&lt;p&gt;Teltarym are Level 21 Brutes with 237 HP. Like delphars, they’re Large and have
-Speed 8. Their basic attack is a &lt;strong&gt;Hammer Fist&lt;/strong&gt; that damages and pushes 1
-square, and they can use it twice in the same action. &lt;strong&gt;Reflected Pain&lt;/strong&gt; is a
-reaction that triggers when they’re hit by a melee attack, and which inflicts
-half the damage they suffered to the attacker. This recharges when they’re first
-bloodied. Their last ability is Mirror Step, so like most brutes they’re fairly
-simple to run.&lt;/p&gt;
-
-&lt;p&gt;These are the perfect bruiser allies for Sillits!&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I like the lore of the nerra quite a lot. It’s nice and epic and introduces a
-new and interesting location on the Astral Sea. I also like how they’re depicted
-as enigmatic instead of evil. A campaign against nerra is one where violence
-might be necessary to drive them off, but where true victory can only be
-achieved through unraveling their mysteries.&lt;/p&gt;
-
-&lt;p&gt;Mechanics wise it seems varoots are a bit too low level to hang out with their
-nerra buddies, so you’re going to meet them alone at the start of a
-nerra-focused story arc. They might be accompanied by local agents or
-mecernaries. The others are all of a level range where you can use them to build
-all-nerra encounter groups.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/25/nerra.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/25/nerra.html</guid>
         
         <category>dnd4</category>
         
