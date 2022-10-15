@@ -202,3 +202,4 @@ entries.
 [72]: {{ "/2022/10/08/scarecrow.html" | relative_url }}
 [73]: {{ "/2022/10/10/secret-of-vecna.html" | relative_url }}
 [74]: {{ "/2022/10/11/shadow.html" | relative_url }}
+[75]: {{ "/2022/10/15/shardmind.html" | relative_url }}
