@@ -40,7 +40,7 @@ wrong, it will be a bad time for absolutely everyone, including themselves.
 
 Their plan has two parts. The first is to restore and repair as many weaver
 ruins as possible. Within each one is a planar portal that links all active
-ruins into a single network, and a mystical furnace that the life force of
+ruins into a single network, and a mystical furnace that burns the life force of
 mortals and the enchantments that power magic items. By feeding these furnaces,
 weavers gather power for the series of rituals that will finally accomplish
 their goal.
@@ -71,7 +71,7 @@ from another monster would be. They're also all Elites.
 Each weaver statted below specializes in collecting the souls of characters who
 employ a different power source, using that same power source as its main
 weapon. There's one for every power source except divine, whom they consider
-beneat them even as fuel for their furnaces. Ironically, this means divine
+beneath them even as fuel for their furnaces. Ironically, this means divine
 characters have a bit of an advantage over weavers.
 
 ### Spell Weaver
@@ -82,7 +82,8 @@ particularly desirable souls. They're planned months in advance with intel from
 spies and divinations, and usually involve the opening of a long-distance portal
 as close to the target as possible. Once the spell weaver has what it wants, it
 teleports back to the portal and escapes. It's Level 28 Elite Artillery with 400
-HP. Yes, the typical weaver is equivalent to a demigod in power.
+HP. Yes, according to this entry the typical weaver is equivalent to a demigod
+in power.
 
 They have three basic attacks, all doable as minor actions: **Esoteric Touch**
 deals force damage and pushes 5 squares; **Dimensional Ray** allows the weaver
@@ -91,10 +92,10 @@ target 2 squares; and **Esoteric Blast** deals fire damage to its target and an
 automatic 10 fire damage to all enemies adjacent to it.
 
 Also as a minor action, it can wield its chromatic disk and cast **Extract
-Arcane Soul** (recharge 5+). This deals psychic damage and dazes (save ends). On
-a miss it deals half damage. Hit or miss, the weaver regains 20 HP. So this
-doesn't extract your whole soul, just a bit of your life force. It's still bad
-news!
+Arcane Soul** (recharge 5+). This can only target characters with arcane
+powers. It deals psychic damage and dazes (save ends). On a miss it deals half
+damage. Hit or miss, the weaver regains 20 HP. So this doesn't extract your
+whole soul, just a bit of your life force. It's still bad news!
 
 They also have a standard action attack: **Chilling Echo** can be used to
 automatically deal 15 cold damage to all creatures the spell weaver has damaged
@@ -102,6 +103,10 @@ since the start of its current turn.
 
 Once per encounter, when the weaver takes damage, it can use **Defensive Jaunt**
 as a reaction, becoming invisible and teleporting 20 squares.
+
+The spell weaver's minor action attacks deal about half the damage you would
+expect from the MM3 formula, but the addition of Chilling Echo brings them back
+up to their expected potential. Don't forget to use it!
 
 ### Battleweaver
 
@@ -114,13 +119,15 @@ It's imposssible to duel a battleweaver and come out unscathed, because their
 **Blade Mastery** acts as an aura (1) that deals 10 automatic damage to any
 enemies inside and marks them for a turn when this happens.
 
-They have a standard **longsword** basic attack, but they're not going to use
-that when they can use one of their two minor-action maneuvers, which also count
-as basic attacks. **Quick Jab** deals light physical damage and slides the
-target 3 squares to a space adjacent to the weaver; **sidestep jab** does the
-same damage and allows the weaver to shift 3 squares to a space adjacent to the
+They have a standard **longsword** basic attack, but they're usually going to
+open with one of their two minor-action maneuvers, which also count as basic
+attacks. **Quick Jab** deals light physical damage and slides the target 3
+squares to a space adjacent to the weaver; **sidestep jab** does the same damage
+and allows the weaver to shift 3 squares to a space adjacent to the
 target. Combined, they allow the creature to lead its foes on a merry dance
-across the field.
+across the field. The basic attack can then act as a "finisher" in the round,
+bringing their damage potential to a level a bit above the one expected by the
+formula.
 
 Battleweavers can use their chromatic disk to **Extract a Martial Soul**,
 targetting characters with martial powers. This is like the spellweaver's
@@ -129,14 +136,15 @@ about 5% of its total HP (24 in this case).
 
 If an enemy marked by the battleweaver within 10 squares makes an attack that
 doesn't include the weaver as a target, the weaver can teleport to the enemy and
-make a melee basic attack against it, as an interrupt. This is what it will use
-its stronger standard-action attack for.
+make a melee basic attack against it, as an interrupt. This is the other main
+use of their standard-action basic attack.
 
 Battleweavers will use their "jab" strikes to wander around the battlefield and
 disrupt PC formations while their aura damages and marks enemies. Like a
 swordmage, it will try to stay far away from enemies it has marked, to increase
 the chances of their mark triggering. It will use its stronger longsword attacks
-to punish mark-ignoring PCs.
+to punish mark-ignoring PCs or to pile on more damage on a target it wants to
+focus.
 
 ### Thought Weaver
 
@@ -174,14 +182,13 @@ an ally within 5 squares and allows the ally to immediately take that action.
 
 This is the weaver attuned to the Shadow power source. And what is the Shadow
 power source? As far as I know it's basically "Arcane in a Halloween
-costume". It started getting mentions as something distinctaround this time, and
-would get a supplement all to itself named Heroes of Shadow the next year.  To
-my knowledge it never got very popular due to this conceptual confusion with
+costume". It started getting mentions as something distinct around this time,
+and would get a supplement all to itself named Heroes of Shadow the next year.
+To my knowledge it never got very popular due to this conceptual confusion with
 arcane magic and due to most of its associated classes not being very
 good. Anyway, it got a weaver here.
 
-As you might have imagined, Hex Weavers are the ones associated with
-Shadow. They're too cool to hang out with other weavers, and instead oversee
+Hex Weavers are too cool to hang out with other weavers, and instead oversee
 portals into the Shadowfell from which they launch expeditions to pursue
 mysterious goals that may or may not be related to the overall plan of the
 weaver civilization.

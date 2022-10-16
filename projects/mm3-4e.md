@@ -126,6 +126,8 @@ entries.
   - [Scarecrow][72]
   - [Secret of Vecna][73]
   - [Shadow][74]
+  - [Shardmind][75]
+  - [Skulk][76]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -203,3 +205,4 @@ entries.
 [73]: {{ "/2022/10/10/secret-of-vecna.html" | relative_url }}
 [74]: {{ "/2022/10/11/shadow.html" | relative_url }}
 [75]: {{ "/2022/10/15/shardmind.html" | relative_url }}
+[76]: {{ "/2022/10/16/skulk.html" | relative_url }}
