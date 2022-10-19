@@ -6,9 +6,144 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Oct 2022 12:10:31 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Oct 2022 12:10:31 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Oct 2022 00:27:15 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Oct 2022 00:27:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Slaad</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Slaads have appeared in every 4e Monster Manual so far. This one gives us more
+exotic varieties.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Basic slaad lore remains the same: technically sapient frog-like monsters from
+the Elemental Chaos with lolrandom minds and a propensity to implant eggs into
+other creatures. You can see the lore specific to each new variety in their
+descriptions below.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
+
+&lt;p&gt;As a reminder, chaos phage is a level 16 disease that represents being implanted
+with a slaad egg. Stage 1 has no effect beyond this, stage 2 gives you a Will
+penalty and makes you attack randomly while bloodied, stage 3 means the embryo
+bursts out of your skull and kills you.&lt;/p&gt;
+
+&lt;p&gt;Like other diseases it’s not hard to remove with the right ritual, but the
+symptoms are severe enough that you’ll want to do it sooner rather than
+later. And as usual the ritual takes time and costs a bunch of healing surges,
+so it’s something that might add time pressure to a slaad focused adventure.&lt;/p&gt;
+
+&lt;h3 id=&quot;golden-slaad&quot;&gt;Golden Slaad&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-slaad-golden.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Slaads are mostly immune to the chaos storms that often rage through portions of
+the Elemental Chaos, which is why they like to follow these storms around. When
+one of these storms manages to affect a slaad, it can mutate it into a golden
+slaad. Golden Slaads are revered by their chromatic brethren, who follow them
+around as if they were a chaos storm themselves.&lt;/p&gt;
+
+&lt;p&gt;Golden slaads are even more chaos-infused than their relatives, and can inject
+that raw chaos in any victims they bite. Their gold-colored forms are unstable,
+and if they’re wounded they became unable to sustain those forms, becoming
+quivering (but still dangerous!) piles of ooze.&lt;/p&gt;
+
+&lt;p&gt;These creatures are Huge Elemental Humanoids and Level 20 Controllers with 193
+HP. They have a ground speed of 8 and a teleport speed of 6, as well as
+low-light vision and an immunity to chaos phage (like all slaads).&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; is reach 3 and deals physical damage, with a random rider
+depending on the result of the attack roll. If the roll is odd, it slides the
+target 3 squares. If it’s even, it dazes them for a turn.&lt;/p&gt;
+
+&lt;p&gt;They can also emit &lt;strong&gt;Chaos Croaks&lt;/strong&gt; in a Close Burst 5 (recharge 5+). This
+targets Will, does psychic damage, and has a random rider rolled on a d6 table:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target is teleported 1d6 squares in a random direction (rolled on a d8).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target makes a melee basic attack against a random creature adjacent to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target is stunned for a turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target is slowed (save ends).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target takes an extra 10 damage of a random elemental type rolled on a d10.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Target is exposed to chaos phage, and if it was dazed by the slad it becomes
+stunned instead (save ends).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;When the slaad is first bloodied it suffers an &lt;strong&gt;Amniotic Transformation&lt;/strong&gt; and
+becomes an ooze. It becomes unable to teleport and its speed drops to 4, but it
+gains a &lt;strong&gt;Corrosive Pseudopodia&lt;/strong&gt; attack that can be used as an opportunity
+action against any adjacent enemy who moves or makes an attack. It deals minor
+acid damage and grabs the target on a hit. With a minor action, the slaad can
+sustian all of its grabs, deal acid damage to the victims, and regain 5 HP per
+grabbed victim. So the loss of speed isn’t that crippling, because the slaad now
+&lt;em&gt;wants&lt;/em&gt; people to get adjacent to it. And it still retains the use of its other
+attacks!&lt;/p&gt;
+
+&lt;h3 id=&quot;putrid-slaad&quot;&gt;Putrid Slaad&lt;/h3&gt;
+
+&lt;p&gt;This is an undead slaad. While it’s most often created on purpose by powerful
+necromancers, it can also arise naturally when a slaad dies in the Abyss. These
+“natural” putrid slaads have a tendency to obey demon lords, so you bet Orcus
+loves them.&lt;/p&gt;
+
+&lt;p&gt;The putrid slaad loses its ability to spread chaos phage, but it still fights
+very similarly to a living one. It will even eat its victims. The remains rot
+inside its non-functional guts, and then the monster vomits them when it attacks
+its &lt;em&gt;next&lt;/em&gt; victims.&lt;/p&gt;
+
+&lt;p&gt;Putrid Slaads are Large Elemental Animates (Undead), and Level 19 Brutes with
+227 HP. Its basic &lt;strong&gt;Claw&lt;/strong&gt; attack pulls the target 1 square, and &lt;strong&gt;Graping
+Claws&lt;/strong&gt; allows it to make 2 of those with a single action. If both attacks hit,
+the slaad grabs the victim.&lt;/p&gt;
+
+&lt;p&gt;Once the putrid slaad has grabbed someone, it will hit them with its &lt;strong&gt;Horrific
+Spew&lt;/strong&gt; (recharge 6), which deals both immediate and ongoing acid and necrotic
+damage (save ends). The spew can also be used as a Close Blast 3 attack, but it
+has a +2 to-hit bonus when focused on the grabbed victim.&lt;/p&gt;
+
+&lt;p&gt;The slaad can also &lt;strong&gt;cast aside&lt;/strong&gt; its grabbed victim, pushing them 5 squares,
+dealing some automatic physical damage to the victim, and using it to make an
+area attack against anyone adjacent to the victim when it lands.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-impressions&quot;&gt;Personal Impressions&lt;/h2&gt;
+
+&lt;p&gt;More slaads. As far as late-edition slaads go, these are pretty cool
+mechanically. Golden Slaads finally deliver the promised dose of pure chaos
+people expect when they first read the slaad’s basic lore, and putrid slaads
+have this cool cycle of grabbing people and tossing them aside, with an
+occasional dose of disgusting barf.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/18/slaad.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/18/slaad.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Skulk</title>
@@ -1485,284 +1620,6 @@ Free or No Action to make it usable as many times per turn as the moss wants.&lt
         <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Nymph</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Nymphs have been in the game since the beginning, and they were always one of
-its many, many “seductress” monsters. The only reason I can think for there
-being so many of them is that Gygax had issues.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;In Fourth Edition, Nymphs are fey descended from some of the oldest primal
-spirits: the Sisters of the Four Seasons, and the Brothers of the Four
-Winds. Thus they combine their mothers’ beauty with their fathers’ impulsive and
-fickle personality.&lt;/p&gt;
-
-&lt;p&gt;After the Dawn War ended and the Four Seasons took upon themselves the work of
-maintaining the world’s natural cycles, the nymphs withdrew into the Feywild and
-spent a long time living there in harmony with nature. However, they’re not
-content with just staying quiet forever, so they eventually began to range
-further afield in search of fun.&lt;/p&gt;
-
-&lt;p&gt;Nymphs just love mortals. They make such wonderful toys, you see. It’s very easy
-to convince them to do stuff, and to swear eternal loyalty and love. Toys
-sometimes break, but that’s just how things are.&lt;/p&gt;
-
-&lt;p&gt;Nymphs are divided into subtypes corresponding to the four seasons, each with a
-different basic personality but sharing the same disdain for mortals. There’s
-also a fifth type that explains where dryads come from.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Nymphs are Medium Fey Humanoids with Low Light Vision and Forest Walk (meaning
-they ignore forest-themed difficult terrain). All of their other abilities vary
-per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;spring-nymph&quot;&gt;Spring Nymph&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nymph-spring.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Spring nymphs are always seeing new life appear everywhere to replace the
-old. They have power over flowers, and adorn themselves with them. They are the
-most childish and romantic of the bunch, so they enjoy seducing mortals and
-playing mind games with them to get those mortals to chase her and to fight each
-other for her favor. Spring nymphs will often ensure the prettiest mortal
-survives these contests, and will then permanently dominate them through
-constant exposure to the nymph’s psychotropic scent.&lt;/p&gt;
-
-&lt;p&gt;Spring Nymphs are Level 5 Controllers with 63 HP and Speed 6. Their powers are
-all seduction and flower-themed, making them some of the most stereotypical
-nymphs.&lt;/p&gt;
-
-&lt;p&gt;They have a &lt;strong&gt;Charmed Defense&lt;/strong&gt; passive that gives them +3 to all defenses while
-adjacent to a creature dominated by them. Their basic melee attack is
-&lt;strong&gt;Passion’s Kiss&lt;/strong&gt;, which targets Will, does low psychic damage, and dazes (save
-ends). Their basic ranged attack is &lt;strong&gt;Song of Spring&lt;/strong&gt;, which is similar but
-does a bit more damage and slows instead of dazing.&lt;/p&gt;
-
-&lt;p&gt;When she doesn’t have anyone dominated, the spring nymph can use &lt;strong&gt;Floral
-Perfume&lt;/strong&gt; to rectify this situation. This is a ranged attack vs. Will that must
-target a dazed or slowed creature, and on a hit pulls the target 3 squares and
-dominates them (save ends).&lt;/p&gt;
-
-&lt;p&gt;Finally, once per encounter, the nymph can use &lt;strong&gt;Cloud of Blossoms&lt;/strong&gt;, a ranged
-area attack that targets non-dominated enemies, attacks Will, and slows on a hit
-(save ends). After the first failed save, the target becomes unconscious
-instead. So this is more of an emergency escape hatch than an opening strike.&lt;/p&gt;
-
-&lt;p&gt;When building an encounter with spring nymphs, you can add any number of sapient
-humanoids of any species to Team Monster. These are her permanently dominated
-pawns, and they should definitely count as “dominated” for the purposes of
-Charmed Defense even if they act normally otherwise. Lacking any of these, the
-nymph will do her best to keep a PC dominated and stick close to them. Spring
-nymphs don’t do a lot of damage on their own, so they need the help of their
-pawns. An encounter against &lt;em&gt;multiple&lt;/em&gt; spring nymphs is very dangerous, though,
-since they’ll be able to dominate multiple PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;autumn-nymphs&quot;&gt;Autumn Nymphs&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nymph-autumn.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These are the most melancholic members of the family. Autumn is the season when
-leaves are reaching the end of their lives and remembering their pasts. Autumn
-nymphs are always in that mood, and love collecting and remembering the stories
-of mortals’ lives. Autumn nymphs trade in secrets, one for one. This makes them
-good sources of information, but you have to be willing to share your own
-secrets in exchange. If you don’t, their vengeance can be terrible and
-persistent as they turn their secret-themed abilities against you.&lt;/p&gt;
-
-&lt;p&gt;Autumn Nymphs are Level 8 Skirmishers with 89 HP, a ground speed of 6 and a
-flight speed of 6 (clumsy, like a leaf in the wind). Their basic attack is a
-strike with their &lt;strong&gt;Oaken Strength&lt;/strong&gt;, which damages and pushes the target 1
-square. Their other abilities are all secret-themed spells.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dark Revelation&lt;/strong&gt; (recharge 6+) is a melee attack that causes light psychic
-damage and stuns (save ends). It represents the nymph using contact telepathy to
-fill the victim’s head with, well, fake news.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Whisper Game&lt;/strong&gt; is an interesting ranged attack. It inflicts immediate and
-ongoing psychic damage (save ends). Until the end of the encounter, or until the
-nymph drops to 0 HP, any time a creature saves against the ongoing damage the
-condition “jumps” to the nearest of the victim’s allies within 10 squares. When
-the nymph drops to 0 HP, whoever is suffering from this ongoing damage takes 15
-psychic damage. This psychic hot potato recharges if the nymph misses with it.&lt;/p&gt;
-
-&lt;p&gt;As a move action, the nymph can use &lt;strong&gt;Autumn Winds&lt;/strong&gt; to either shift 1 square or
-move her speed, and then use Oaken Strength for free. And when an enemy misses
-her with a melee attack, she can use &lt;strong&gt;Secret of Autumn Leaves&lt;/strong&gt; as a reaction
-to shift 3 squares.&lt;/p&gt;
-
-&lt;p&gt;The nymph’s first priority should be to get the Whisper Game going, then stun
-someone with Dark Revelation whenever it’s available. After that she wants to
-move around and herd the PCs using Oaken Strength so all of them remain close
-enough to catch the Whisper Game damage. Autumn Nymphs don’t go for domination,
-but they can still have willing fey allies to help with all that. Multiple
-autumn nymphs in the same encounter means multiple Whisper Games and multiple
-save-ends stuns in a round, so only do that if you really want to make your PCs
-suffer.&lt;/p&gt;
-
-&lt;h3 id=&quot;wood-nymphs&quot;&gt;Wood Nymphs&lt;/h3&gt;
-
-&lt;p&gt;Sometimes, an autumn nymph’s melancholy gets the better of her. She grows tired
-of her games, or discovers she had actual fondness for a mortal that escaped her
-clutches. These nymphs cast off their humanoid guises and give themselves over
-to their wild natures, slowly transforming into trees. They stay for a long time
-in this in-between state, and some go on to become dryads. The Wood Nymph stat
-block represents the in-between state, where the nymph can leave its tree body
-to attack trespassers or despoilers, but can’t move too far away from it. This
-is actually closer to a mythological dryad than the D&amp;amp;D dryad is.&lt;/p&gt;
-
-&lt;p&gt;Wood Nymphs are Level 10 Soldiers with 104 HP and speed 6. They are
-&lt;strong&gt;Treebound&lt;/strong&gt;, which means they’ll be always encountered close to their
-tree. This tree occupies 1 square on the battle map. The nymph can enter it and
-gains full cover while inside. It also counts as an ally for the purposes of
-flanking. While adjacent to or inside the tree, the nymph has &lt;strong&gt;Regeneration&lt;/strong&gt;
-5.&lt;/p&gt;
-
-&lt;p&gt;The nymph’s first priority in battle is to tag someone with &lt;strong&gt;Trapped in the
-Wood&lt;/strong&gt;, which does no damage but teleports the target inside the nymph’s
-tree. This removes the victim from play (save ends). The nymph can teleport 8
-squares to a space adjacent ot the tree as an effect. A successful save places
-the victim back on the map, adjacent to the tree.&lt;/p&gt;
-
-&lt;p&gt;She can also hit a PC with her &lt;strong&gt;Lonely Keening&lt;/strong&gt;, an encounter ranged attack
-that deals psychic damage on a hit. The interesting thing about it is its
-effect, though, which happens even on a miss. Until the end of the encounter, or
-until the nymph drops to 0 HP, the victim takes 5 damage at the end of any turn
-in which it’s not either adjacent to the nymph or closer to her than they were
-at the start of the turn. An excellent attack to use on those ranged PCs.&lt;/p&gt;
-
-&lt;p&gt;Finally, the nymph can teleport up to 6 squares to a space adjacent to the tree
-as a move action.&lt;/p&gt;
-
-&lt;p&gt;Not that the victim of Trapped in the Wood is not considered to be in the tree’s
-space for game purposes! They’re &lt;em&gt;removed from play&lt;/em&gt;. Which means the Nymph can
-hit them with Lonely Keening, trap them in the tree, and stay adjacent to the
-tree to keep her regeneration while damaging the victim at the same time.&lt;/p&gt;
-
-&lt;p&gt;Appropriate buddies for wood nymphs include full dryads, wood woads, and other
-treelike fey who are hanging around their new sister.&lt;/p&gt;
-
-&lt;h3 id=&quot;winter-nymph&quot;&gt;Winter Nymph&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nymph-winter.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Winter nymphs live in cold and remote regions, and like their linked season
-they’re cruel and harsh. Winter nymphs are all about reveling in the survival of
-the strongest. They run ahead of the Wild Hunt, dressed in buckskin, their
-nettle hair spreading out behind them in the wind. They seek the toughest and
-most cunning opponents as their prey.&lt;/p&gt;
-
-&lt;p&gt;Winter Nymphs are Level 15 Artillery with 116 HP, a ground speed of 7, and a fly
-speed of 10. Unlike their sisters, they fight with weapons. Their basic melee
-attack is a &lt;strong&gt;Hunter’s Knife&lt;/strong&gt; that damages and allows them to shift 1 square on
-a hit. Their basic ranged attack is a longbow that shoots arrows laced with
-&lt;strong&gt;Winter’s Wind&lt;/strong&gt;, doing cold damage and slowing on a hit.&lt;/p&gt;
-
-&lt;p&gt;If too many enemies crowd their space, they can use a &lt;strong&gt;Nettling Wind&lt;/strong&gt;
-(recharge 5+) to target up to 3 creatures in a Close Blast 5. On a hit, this
-does physical damage and immobilizes (save ends). And once per encounter they
-can fire a &lt;strong&gt;Hail of Arrows&lt;/strong&gt; that works like like Area burst 3, Range 20
-attack. It targets enemies, does physical damage, and inflicts ongoing physical
-damage (save ends). That’s a good opening strike.&lt;/p&gt;
-
-&lt;p&gt;Appropriate companions for winter nymphs are, of course, the Wild
-Hunt. Paragon-tier fey hounds and perhaps some eladrin or firbolg hunters.&lt;/p&gt;
-
-&lt;h3 id=&quot;summer-nymph&quot;&gt;Summer Nymph&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-nymph-summer.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Spring is about the potential of the future; autumn about reflecting on the
-past; and summer is the present. Summer nymphs are among the eldest and wisest
-of the seasons’ children, for they see everything as it comes to pass. Though
-they love to play games with mortals just as much as their sisters, their own
-games are much more complex, some times spanning multiple worlds and vast
-stretches of time. They are the nymph’s equivalent of board game geeks, and they
-love playing live-action Twilight Imperium and Diplomacy. Their motivations and
-goals are always hidden from those she uses as playing pieces, and might look
-inscrutable.&lt;/p&gt;
-
-&lt;p&gt;The nymph portrayed here is a legit demigodess, a Level 25 Controller with 233
-HP and the Leader keyword. She is peer to elder dragons and to the greatest
-among angels and devils, and she could end up interacting with gods or exarchs
-directly. Not being an elite or solo, she’s not as individually powerful as some
-of those dragons and immortals, but she can command nature itself in the form of
-large hosts of animals, fey, and plant creatures.&lt;/p&gt;
-
-&lt;p&gt;The summer nymph projects an aura of &lt;strong&gt;Renewing Growth&lt;/strong&gt; (5) that makes its
-covered area into difficult terrain for enemies. Any enemy inside the aura who
-doesn’t move during their turn is slowed until the end of their next turn.&lt;/p&gt;
-
-&lt;p&gt;Her attacks do below-average damage, but have powerful control effects. Her
-melee basic attack is &lt;strong&gt;Wisdom’s Touch&lt;/strong&gt;, which damages and dazes for a
-turn. Her basic ranged attack is &lt;strong&gt;Eyes of Summer&lt;/strong&gt;,  which deals radiant
-damage and blinds (save ends). She can also &lt;strong&gt;Call Storm Winds&lt;/strong&gt; (recharge 5+),
-a ranged area attack that deals lighting and thunder damage to enemies, and
-slides them 3 squares on a hit. The storm persists for a turn and can be
-sustained with a minor action, which also allows the nymph to slide anyone
-inside it 3 squares.&lt;/p&gt;
-
-&lt;p&gt;As an at-will move action, the nymph can employ her &lt;strong&gt;Omniscient Strategy&lt;/strong&gt; to
-shift 1 square and allow one of her allies to move their speed.&lt;/p&gt;
-
-&lt;p&gt;The summer nymph is a mastermind, so PCs will likely come into contact with her
-minions and with the edges of her scheme long before they fight her in
-person. If that happens, she will certainly be accompanied by a bodyguard of
-similarly epic fey, including elder treants, mythical beasts, and eladrin
-nobles.&lt;/p&gt;
-
-&lt;p&gt;She can also be used in a more ambiguous role, as a dangerous source of
-information. She is guaranteed to know the answer to any question about the
-present state of the universe, but the favors she asks in return are also
-guaranteed to advance some obscure scheme of hers and make pawns of the PCs.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m pleasantly surprised that out of the five nymph variants we saw here, only
-one of them is actually a seductress. And even that one is more about
-floral-scented mind control than the “she’s just that sexy” trope of old D&amp;amp;D
-nymphs. As a bonus, the text never mentions the gender of the hapless mortal
-victims, so this is equal-opportunity mind control.&lt;/p&gt;
-
-&lt;p&gt;My favorites are the winter and summer nymphs, who do the most to break that old
-stereotype. The wood nymph comes next for her tree-based shenanigans, though
-narratively she’s very redundant with 4e dryads.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/28/nymph.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/28/nymph.html</guid>
         
         <category>dnd4</category>
         
