@@ -6,9 +6,131 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Oct 2022 00:27:15 +0000</pubDate>
-    <lastBuildDate>Wed, 19 Oct 2022 00:27:15 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Oct 2022 20:09:38 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Oct 2022 20:09:38 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the Monster Manual 3: Spawn of Kyuss</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;The Spawn of Kyuss were introduced in the Age of Worms adventure path,
+originally published in Dungeon Magazine in 2005-2006, when it was run by
+Paizo. Some of Kyuss’ most powerful servants were reprinted in the Elder Evils
+supplement for 3.5e, and later got conversion stats in an early 4th edition web
+enhancement file. This means this is technically not the Spawn’s 4e debut, but
+it is the first time we get complete lore and lower-than-epic stats for them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;In ancient times, Kyuss was a mortal magician and a charismatic cult leader, who
+led his followers to a remote jungle region in order to establish a base. There,
+he found ruins from an even more ancient pre-human civilization. With the
+knowledge he learned from those ruins, the cultist sacrificed his followers in a
+ritual to become a giant undead demigod whose body was made out of bright green
+worms. The Worm that Walks spent a long time imprisoned outside the world, but
+the prophecy of the Age of Worms foretells that he will return and devour the
+world in what is basically a worm-fueled zombie apocalypse.&lt;/p&gt;
+
+&lt;p&gt;The Spawn of Kyuss are undead created by infecting corpses with worms plucked
+from his own body. They’re easily distinguished by the wriggling mass of green
+worms crawling all over them, inside and outside. They’re Kyuss’ agents in the
+world and their presence presages his return. Even if the Worm’s return is not
+imminent, these creatures might still be found performing some task that
+furthers their patron’s interests, whether by themselves or allied with
+cultists.&lt;/p&gt;
+
+&lt;p&gt;The first Spawn were Kyuss’ original followers, sacrificed in that first
+ritual. Making new ones is a matter of performing a simple worm transplant from
+a spawn to an available body, living or dead. The ones listed here are not
+particularly smart, but it’s worth remembering that &lt;a href=&quot;/octopus-carnival/2020/06/21/larva-mage.html&quot;&gt;Larva Mages&lt;/a&gt; are also
+the spawn of Kyuss.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three varieties of Spawn here, all suitable as threats to Paragon-tier
+parties. They’re Medium Natural Animates with a Speed of 5 and Darkvision, plus
+the usual undead traits: immunity to disease and poison, a resistance to
+necrotic damage, and a vulnerability to radiant damage. They’re also vulnerable
+to fire - it burns the worms right up.&lt;/p&gt;
+
+&lt;p&gt;All of the spawn here can also transmit the Touch of Kyuss, which is basically
+an infestation of evil supernatural worms. It’s treated as a Level 16 disease
+resisted with Endurance (DC 25 to improve or 20 to maintain). Stage 1 makes the
+victim regain only half hit points from spending healing surges, and causes them
+to rise as wretches of Kyuss if they die. Stage 2 causes them to lose 2 healing
+surges, and if they ever reach 0 surges they die and rise as Sons of
+Kyuss. Stage 3 cuts to the chase and kills the victim right away so it can rise
+as a Son.&lt;/p&gt;
+
+&lt;h3 id=&quot;son-of-kyuss&quot;&gt;Son of Kyuss&lt;/h3&gt;
+
+&lt;p&gt;These things look like zombies at a first glance, but they’re sapient and much
+stronger. Their goal is to usually spread the “blessing” of Kyuss to as many
+living people as they can. Though they’re not exactly geniuses at Int 6, they
+can and will coordinate in order to accomplish it.&lt;/p&gt;
+
+&lt;p&gt;Sons of Kyuss are Level 13 Brutes with 158 HP. They project a &lt;strong&gt;Fear of Worms&lt;/strong&gt;
+aura which inflicts a -2 attack penalty to living creatures inside. Their basic
+attack is a &lt;strong&gt;Slam&lt;/strong&gt; that damages and exposes the target to the Touch of
+Kyuss. It can also “shoot” &lt;strong&gt;Burrowing Worms&lt;/strong&gt; in a Close Burst 1 (recharge
+5+). A hit inflicts 10 ongoing damage, increasing to 15 on the first failed save
+and to 20 plus stun on the second. If someone dies from this they immediately
+rise as a wretch of Kyuss (see below). The wretch must be destroyed before the
+victim can be raised.&lt;/p&gt;
+
+&lt;h3 id=&quot;wretch-of-kyuss&quot;&gt;Wretch of Kyuss&lt;/h3&gt;
+
+&lt;p&gt;An undead creature with a lower worm content than a full Son of Kyuss. It’s less
+sturdy but still quite dangerous and quite contagious, being a Level 13 Minion
+Brute. Its &lt;strong&gt;Slam&lt;/strong&gt; deals light necrotic damage, and when it dies it bursts,
+inflicting necrotic damage in a Close Burst 1 and exposing anyone hit by this
+attack to the Touch of Kyuss.&lt;/p&gt;
+
+&lt;h3 id=&quot;herald-of-kyuss&quot;&gt;Herald of Kyuss&lt;/h3&gt;
+
+&lt;p&gt;These undead abomination were created from the bodies of angels sent by the gods
+to stop the Worm that Walks. They’re Medium Immortal Animates (undead), and have
+all the same traits as the other spawn. Also, they can fly at speed 6.&lt;/p&gt;
+
+&lt;p&gt;The Herald is a Level 16 Artillery monster with 116 HP. They have the same Fear
+of Worms aura as the Son, plus a &lt;strong&gt;Writhing Host&lt;/strong&gt; aura of the same size that
+deals 10 necrotic damage to enemies caught inside. All of their attacks expose
+the target to the Touch of Kyuss on a hit, making them the most contagious spawn
+of all.&lt;/p&gt;
+
+&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Rotting Caress&lt;/strong&gt; that deals necrotic
+damage. They can attack at range by making &lt;strong&gt;Writhing Pronouncements&lt;/strong&gt; that deal
+immediate and ongoing 5 necrotic damage. This worsens to 10 and a daze on the
+first failed save, and to 15 and a stun on the second (save ends). People killed
+by this turn into wretches of Kyuss, which must be destroyed before the victims
+can be raised.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can call an &lt;strong&gt;Eruption of Maggots&lt;/strong&gt; that acts as a
+disgusting fireball-sized area attack. It deals immediate and ongoing necrotic
+damage, and also creates a damaging zone that lasts for the rest of the
+encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Ewwww. Kill these with fire as soon as possible. If your GM is re-enacting the
+Age of Worms campaign, you can expect to run into these things very often. Their
+main gimmick is all about infecting people with the Touch of Kyuss, so PCs can
+expect to stop and cast Remove Affliction more or less after every fight unless
+they’re under extreme time pressure. Stage 1 is already a major debuff, and
+staying at Stage 2 is a serious gamble.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/21/spawn-of-kyuss.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/21/spawn-of-kyuss.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Slaad</title>
@@ -1440,186 +1562,6 @@ the inhabitants of a lair or as a special unit in some other villainous force.&l
         <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/02/ogre.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/02/ogre.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Oblivion Moss</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-oblivion-moss.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;This based on the Obliviax, a monster that showed up in the 1e MM2. It’s
-completely changed for this edition, though.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Oblivion moss, sometimes also known as memory moss, is a sapient predatory plant
-that lives in the depths of old forests. It looks like a carpet of moss, but it
-can perceive its surroundings and move around slowly in search of prey. The
-creature feeds on memories, which it strips from the brains of its victims. It
-derives sustenance from those stolen thoughts, and can also use them to spawn
-humanoid simulacra that help it defend itself and find more food.&lt;/p&gt;
-
-&lt;p&gt;The memory stripping process is not actually fatal or permanent, but it’s still
-very traumatic. Stolen memories return at different rates. An adventurer’s
-knowledge of combat spells and maneuvers might come back after mere seconds,
-still in the middle of the fight. Important personal memories (“who am I?”) come
-back after a day or two, but smaller details (“what does my mother look like?”)
-can take weeks to be restored. Of course, the moss and its constructs are quite
-capable of fighting to kill, and might choose to kill a victim anyway after
-stealing their memories.&lt;/p&gt;
-
-&lt;p&gt;Dryads and Treants cultivate patches of oblivion moss close to their own
-territories, as a security measure. Invaders who stumble upon them have their
-memories ripped away and end up turned around, leaving the forest without
-knowing what they were doing or where they went while inside. Even if the
-knowledge comes back later, very few people are keen on repeating the
-experience. As the book says, in places where oblivion moss grows, lost ruins
-tend to stay lost.&lt;/p&gt;
-
-&lt;p&gt;You can turn the memory stealing around, too. The remains of a slain patch of
-oblivion moss retain memory fragments from its past victims, and if someone eats
-those bits they can acquire those memories. While the fragmentary memories of a
-bandit might not give you their entire guard rotation or the map of their
-stronghold, they might give you the combination to their main vault or to a
-secret door.  That can be useful, though eating a sapient being presents obvious
-ethical problems.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get a bunch of different stat blocks here, one for the moss itself and five
-for the humanoid minions it can build from stolen memories. The minions can be
-generated mid-fight by the moss, or they might be placed as normal monsters in
-an encounter with or without their master.&lt;/p&gt;
-
-&lt;h3 id=&quot;oblivion-moss-mindmaster&quot;&gt;Oblivion Moss Mindmaster&lt;/h3&gt;
-
-&lt;p&gt;This is the moss itself, a Large Fey Magical Beast (plant) and a Level 12 Elite
-Controller with 250 HP. It perceives the world with Blindsight 20, and moves
-around at a glacial ground and climb speeds of 2. It does have Forest Walk,
-though, so it’s not further slowed down by difficult terrain in its natural
-habitat.&lt;/p&gt;
-
-&lt;p&gt;The moss projects a &lt;strong&gt;Mind Blindness Aura&lt;/strong&gt; (1) that makes it invisible to
-enemies that start their turns inside until the end of the enemy’s next turn. It
-can defend itself in melee with a &lt;strong&gt;Corriding Touch&lt;/strong&gt; that does immediate and
-ongoing acid damage, but it really wants to use its psychic powers instead.&lt;/p&gt;
-
-&lt;p&gt;It has two basic ranged attacks: &lt;strong&gt;Scramble the Mind&lt;/strong&gt; and &lt;strong&gt;Scour the
-Mind&lt;/strong&gt;. Both to the same amount of psychic damage. Additionally, Scramble slides
-the target 5 squares and Scour makes the moss or one of its allies invisible to
-the target for a turn.&lt;/p&gt;
-
-&lt;p&gt;Its ultimate attack is &lt;strong&gt;Absorb Memories&lt;/strong&gt;, a ranged attack vs. Will that does
-no damage. A hit prevents the target from using encounter or daily attack powers
-(save ends). Hit or miss, the moss then creates a mossling duplicate of the
-target, which uses the most closely matching mossling stat block (see
-below). This recharges when there are no created mosslings in the field.&lt;/p&gt;
-
-&lt;p&gt;The mindmaster can spend a minor action to &lt;strong&gt;Direct&lt;/strong&gt; a mossling, allowing it to
-move its speed as a free action. And it can also &lt;strong&gt;Absorb Damage&lt;/strong&gt; as an
-interrupt, taking into itself the damage from an attack that would hit a
-mossling.&lt;/p&gt;
-
-&lt;p&gt;So a moss mindmaster would only be able to keep a single mossling around at a
-time. If you want there to be more of them, add some as part of the initial
-encounter makeup. Those don’t count as “created”, so the moss doesn’t have to
-wait to use Absorb Memories.&lt;/p&gt;
-
-&lt;h3 id=&quot;mosslings&quot;&gt;Mosslings&lt;/h3&gt;
-
-&lt;p&gt;Mosslings are Medium Fey Humanoids, and all of them are Level 12
-Minions. They’re meant to be copies of people whose memories were absorbed by
-the oblivion moss - the creature is smart enough to seek out competent
-combatants for this purpose, since they make for more powerful mosslings.&lt;/p&gt;
-
-&lt;p&gt;Their signature passive trait is &lt;strong&gt;Mindmaster’s Thrall&lt;/strong&gt; - if the mossling in
-question was created by an oblivion moss mindmaster, it acts immediately after
-its creator’s turn. They all have Forest Walk too, and a basic tendril attack
-that does minion-tier damage and has a rider compatible with their role. But the
-real star of the show here is the &lt;strong&gt;Simulacrum Attack&lt;/strong&gt;, which allows them to
-copy an at-will power from a PC!&lt;/p&gt;
-
-&lt;p&gt;If the mossling was created by Absorb Memories during this fight, it will be a
-power from the PC that attack targeted. If you’re adding the mossling as part of
-the encounter, pick a PC whose class is similar to the mossling’s role and give
-them one of that PC’s powers. The attack targets AC and its bonus is based on
-the mossling’s level as normal, but the damage and all other effects are
-identical to the PC’s, as if it was the PC who hit. Some of them copy melee
-attacks, others copy ranged attacks, but the match-up is not a problem because
-you always use a mossling archetype compatible with the power you want to
-replicate, not the other way around.&lt;/p&gt;
-
-&lt;p&gt;The book recommends having &lt;em&gt;the players themselves&lt;/em&gt; roll and resolve the
-mossling’s attacks, to reinforce the feeling that they’re fighting
-themselves. That’s clever!&lt;/p&gt;
-
-&lt;p&gt;Here are the different varieties:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mossling Guardian&lt;/strong&gt;: Soldier, speed 6. Has an aura (1) that slows
-enemies. Tendril attack allows it to shift 1 square and pull an enemy into the
-vacated space. Copies a melee power. Use to copy PC defenders.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mossling Creeper&lt;/strong&gt;: Skirmisher, speed 8. Deals extra damage with combat
-advantage. Tendril strike allows it to shift 2 squares. Shifts 2 squares when
-missed by a melee attack. Copies a melee power. Use to copy rogues and other
-melee strikers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mossling Hurler&lt;/strong&gt;: Artillery, speed 6. Explodes on death, dealing a bit of
-psychic damage and inflicting Daze (save ends) on a Close Burst 2. No riders
-on tendril attack. Steals a ranged power. Use to copy ranged strikers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mossling Grower&lt;/strong&gt;: Controller (Leader). Has an aura (1) that grants +2
-defense to plant allies. Tendril attack slows for a turn. Gives 20 temporary
-hit points to every nonminion plant ally within 3 squares on death. Copies a
-melee power. Use to copy warlords and other leaders.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mossling Vinecaller&lt;/strong&gt;: Controller. Has an aura (1) that makes the covered
-spaces difficult terrain. Makes a Close Burst 1 in to difficult terrain for
-the rest of the encounter on death. Tendril strike slides target 2
-squares. Copies a ranged power. Use to copy wizards and other controllers.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I think the mossling mechanic is really clever, particularly the bit where
-players roll and resolve their duplicate’s attacks. It helps ease the GM’s
-cognitive load a bit since mosslings are kinda finnicky even before you factor
-the copied attack in.&lt;/p&gt;
-
-&lt;p&gt;As I mentioned above, a moss mindmaster can only keep one mossling around at a
-time. If you want to have more of them in play, the easiest way is to add more
-of them as standard minions to the encounter. In this case I guess they would
-have their own Initiative rolls, and would be worth XP as normal, but the
-mindmaster could still target them with Direct Mossling and Absorb Damage.&lt;/p&gt;
-
-&lt;p&gt;Another option might be to turn the Mindmaster into a solo! Aside from the usual
-adjustments, you would want to make Absorb Memories at-will and remove the limit
-on the number of created mosslings in play. Maybe also turn Absorb Damage into a
-Free or No Action to make it usable as many times per turn as the moss wants.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/09/30/oblivion-moss.html</guid>
         
         <category>dnd4</category>
         
