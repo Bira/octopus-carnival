@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the others.
+
 The Spawn of Kyuss were introduced in the Age of Worms adventure path,
 originally published in Dungeon Magazine in 2005-2006, when it was run by
 Paizo. Some of Kyuss' most powerful servants were reprinted in the Elder Evils
@@ -112,5 +114,5 @@ expect to stop and cast Remove Affliction more or less after every fight unless
 they're under extreme time pressure. Stage 1 is already a major debuff, and
 staying at Stage 2 is a serious gamble.
 
-
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2020/06/21/larva-mage.html" | relative_url }}
