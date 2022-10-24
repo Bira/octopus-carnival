@@ -128,6 +128,9 @@ entries.
   - [Shadow][74]
   - [Shardmind][75]
   - [Skulk][76]
+  - [Slaad][77]
+  - [Spawn of Kyuss][78]
+  - [Spider][79]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -206,3 +209,6 @@ entries.
 [74]: {{ "/2022/10/11/shadow.html" | relative_url }}
 [75]: {{ "/2022/10/15/shardmind.html" | relative_url }}
 [76]: {{ "/2022/10/16/skulk.html" | relative_url }}
+[77]: {{ "/2022/10/18/slaad.html" | relative_url }}
+[78]: {{ "/2022/10/21/spawn-of-kyuss.html" | relative_url }}
+[79]: {{ "/2022/10/24/spider.html" | relative_url }}
