@@ -6,6 +6,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the other.
+
 Star Spawn made their debut in the [Monster Manual 2][2] along with a pretty
 awesome chunk of lore that's also tied to star pact warlocks and the Far
 Realm. You can see it all on the link. This entry adds a bit more lore, new star
@@ -34,6 +36,15 @@ aberrant origin and possess darkvision, but the specifics vary a lot between
 individual stat blocks.
 
 ### Spawn of Ulban
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-star-spawn-ulban.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Ulban is a blue-white star whose intense glow affects mortal minds, disrupting
 their cognition and robbing them of the ability to recognize danger. Ulban's
@@ -75,6 +86,15 @@ characters. The best way to fight it is to keep your distance and hit it with
 non-psychic, non-dominating attacks.
 
 ### Emissary of Caiphon
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-star-spawn-caiphon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Caiphon is a purple star that can always be found near the horizon, sometimes
 even during the day. It presents itself as a helpful guide star, but will
@@ -122,6 +142,15 @@ and inflicts a -5 penalty on all saves against it until one succeeds.
 
 ### Serpent of Nihal
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-star-spawn-nihal.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Nihal, the Serpent Star, is a reddish celestial body that can't stay still. It
 travels a random snaking route around the point it was supposed to occupy in the
 sky according to all standard calculations. That's why it received this
@@ -157,6 +186,15 @@ original location. It can also do this exact same thing when it rolls initiative
 with the **Sudden Reality Warp** ability.
 
 ### Allabar, Opener of the Way
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-star-spawn-allabar.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Yup, you read that right. This is not a star spawn, it's a _star_. Allabar is
 here to serve as the end boss for a campaign focused on the Forgotten War, which
@@ -236,5 +274,5 @@ The Opener of the Way is the fourth and last epic boss to be found in this
 book. The previous ones were Imix, Lolth, and Ogrémoch.
 
 
-
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2022/02/03/star-spawn.html" | relative_url }}
