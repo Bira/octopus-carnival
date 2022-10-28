@@ -6,9 +6,282 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Oct 2022 19:25:13 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Oct 2022 19:25:13 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Oct 2022 19:28:44 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Oct 2022 19:28:44 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Star Spawn</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;Star Spawn made their debut in the &lt;a href=&quot;/octopus-carnival/2022/02/03/star-spawn.html&quot;&gt;Monster Manual 2&lt;/a&gt; along with a pretty
+awesome chunk of lore that’s also tied to star pact warlocks and the Far
+Realm. You can see it all on the link. This entry adds a bit more lore, new star
+spawn, and a surprise epic boss!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The lore in this entry confirms some of the most terrible questions we had in
+the MM2. Yes, if you travel far enough in space you do end up in the Far
+Realm. Yes, there are things watching across this divide, and some of them are
+perceived by the people of the middle world as stars. And yes, some of them have
+hostile designs upon the world.&lt;/p&gt;
+
+&lt;p&gt;Allabar, the Opener of the Way, is one of these, and it travels across the
+universe inciting its fellow stars to send their spawn into the world. Its
+wanderings are not random, but filled with terrible purpose. Some warlocks claim
+Allabar and its allies are at war with the world itself, and they call this the
+Forgotten War because it’s much less noticeable than the Dawn War was but no
+less significant.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The star spawn presented here are all mid-to-high epic tier threats, making them
+a lot stronger than the paragon-tier spawn from the MM2. All of them have the
+aberrant origin and possess darkvision, but the specifics vary a lot between
+individual stat blocks.&lt;/p&gt;
+
+&lt;h3 id=&quot;spawn-of-ulban&quot;&gt;Spawn of Ulban&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-ulban.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Ulban is a blue-white star whose intense glow affects mortal minds, disrupting
+their cognition and robbing them of the ability to recognize danger. Ulban’s
+influence starts ill-thought rebellions and prevents divinations of any sort
+from working. Its spawn fall to the earth as meteors, and their presence makes
+mortals unable to distinguish friend from foe. They also break the “no
+tentacles” streak for this type of monster, as you can see in the illustration.&lt;/p&gt;
+
+&lt;p&gt;Spawn of Ulban are Medium Aberrant Humanoids, and Level 26 Controllers with 241
+HP. They have a speed of 8. They’re immune to domination, and every time they’re
+iht by a power that would dominate them, they dominate the attacker instead! And
+this is a (save ends) condition even if the one from the attack wasn’t.&lt;/p&gt;
+
+&lt;p&gt;The spawn’s basic attack is the &lt;strong&gt;Bluefire Strike&lt;/strong&gt; (vs. Reflex), which causes
+both cold and fire damage, and dazes for a turn. It can also use a &lt;strong&gt;Touch of
+Strife&lt;/strong&gt; (vs. Will) instead, dealing psychic damage and forcing the target to
+make a melee or ranged basic attack against a creature of the spawn’s
+choice. When it hits with either of these attacks, it can apply a &lt;strong&gt;Psychic
+Boost&lt;/strong&gt; as a free action, dealing an extra chunk of psychic damage. This
+recharges every time the spawn takes psychic damage, so while it’s not
+&lt;em&gt;resistant&lt;/em&gt; to this damage type you still don’t want to use it against the
+spawn.&lt;/p&gt;
+
+&lt;p&gt;Less often, the spawn can produce a &lt;strong&gt;Ripple of Betrayal&lt;/strong&gt; (close burst 1
+vs. Will, recharge 5+) which deals psychic damage and dominates those it hits
+(save ends).&lt;/p&gt;
+
+&lt;p&gt;As a minor action, the spawn can use &lt;strong&gt;Far Realm Reflection&lt;/strong&gt; to form an
+eldritch bond with a creature it can see. Whenever that creature shifts, the
+spawn can immediately shift an equal number of squares. This lasts until the end
+of the encounter, or until the spawn switches targets by using the power
+again. An excellent power to use on an ally that can shift long distances, or
+even on a PC that can do the same.&lt;/p&gt;
+
+&lt;p&gt;The Spawn of Ulban wants to get in close and stay there, since its attacks are
+all melee or close bursts. It’s extremely effective against parties with lots of
+psionic PCs, or against those that have lots of Essentials martial
+characters. The best way to fight it is to keep your distance and hit it with
+non-psychic, non-dominating attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;emissary-of-caiphon&quot;&gt;Emissary of Caiphon&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-caiphon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Caiphon is a purple star that can always be found near the horizon, sometimes
+even during the day. It presents itself as a helpful guide star, but will
+sometimes betray those who rely on it, leading them down tragic paths.&lt;/p&gt;
+
+&lt;p&gt;The Emissary of Caiphon is often employed in these betrayals. It’s the most
+human-looking of all star spawn, and it mimics the tactics of its patrons by
+posing as a guide or a prophet. Its “wise and helpful” advice usually leads to a
+lot suffering and death.&lt;/p&gt;
+
+&lt;p&gt;The Emissary is a Medium Aberrant Humanoid, and a Level 28 Controller with the
+Leader tag and 257 HP. It projects an &lt;strong&gt;Aura of Ruin&lt;/strong&gt; (2) that inflicts a -2
+penalty to saves, and whenever it’s hit by an attack that would blind it, it
+blinds the attacker instead (save ends).&lt;/p&gt;
+
+&lt;p&gt;Nearly all of the Emissary’s powers mess with the saving throw mechanic, but it
+lacks the ability to inflict (save ends) conditions by itself. Be sure to pair
+it with plenty of monsters who can do that!&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Touch of Despair&lt;/strong&gt; that deals light physical damage and
+inflicts an extra 20 damage the first time the target fails a save before the
+start of the emissary next turn. It’s nifty, but it’s for emercencies only. The
+creature prefers to stay far away and use its ranged attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blinded By Greed&lt;/strong&gt; (ranged 10 vs. Will) deals light psychic damage, slides the
+target 2 squares, and forces them to make a melee basic attack against a target
+of the emissary’s choice (“Give me that! It’s mine!”).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blinded By Need&lt;/strong&gt; (ranged 10 vs. Will) deals standard psychic damage, and
+allows the emissary to choose one of the target’s allies. For the next turn, the
+target is marked by that ally, and everyone except the chosen ally is invisible
+to the target. This doesn’t &lt;em&gt;force&lt;/em&gt; the target and the ally to fight each
+other, but it makes it hard for either of them to do anything else.&lt;/p&gt;
+
+&lt;p&gt;As minor actions, the emissary can use &lt;strong&gt;Deceptive Veil&lt;/strong&gt; to disguise itself as
+a Medium or Small humanoid, with a DC 40 for people to see through the
+illusion. It can also target someone with an &lt;strong&gt;Invocation of Calamity&lt;/strong&gt; (ranged
+5 vs. Will), which on a hit makes the target fail all of their saves during the
+next turn.&lt;/p&gt;
+
+&lt;p&gt;For triggered actions, it has the same &lt;strong&gt;Psionic Boost&lt;/strong&gt; as the Spawn of Ulban,
+this time applying to tis Blinded By Need/Greed powers. And when it dies,
+&lt;strong&gt;Foretelling the Doom&lt;/strong&gt; targets an enemy suffering from a (save ends) condition
+and inflicts a -5 penalty on all saves against it until one succeeds.&lt;/p&gt;
+
+&lt;h3 id=&quot;serpent-of-nihal&quot;&gt;Serpent of Nihal&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-nihal.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nihal, the Serpent Star, is a reddish celestial body that can’t stay still. It
+travels a random snaking route around the point it was supposed to occupy in the
+sky according to all standard calculations. That’s why it received this
+epithet.&lt;/p&gt;
+
+&lt;p&gt;The Serpents of Nihal first came through the world shortly before the fall of
+the ancient empire of Az-Kiral, which dedicated itself to the worship of
+Zehir. Its leaders grew ever more ambitious and soon they craved more power than
+the snake god was willing to offer. So they sought out a new source of Snek
+Power, and found it in Nihal. They opened a portal to the star thinking they
+would be able to access this power. What happened instead was that countless
+Serpents of Nihal poured through, and destroyed the empire in a matter of
+days. They still wander the known cosmos today, and I guess sometimes Allabar
+opens new rifts to let more through.&lt;/p&gt;
+
+&lt;p&gt;Serpents are Medium Aberrant Beasts, and Level 29 Minion Lurkers with a ground
+speed of 7. They’re only partially present in reality, and keep blinking in and
+out.&lt;/p&gt;
+
+&lt;p&gt;This means that, despite being minions, they have &lt;strong&gt;Resist 20 to all
+damage&lt;/strong&gt;. Yes, even untyped. You need to deal 21 or more damage with one strike
+to take them out. It’s not that hard for late epic PCs, but it’s also not 100%
+guaranteed, so they have more staying power than your typical minion.&lt;/p&gt;
+
+&lt;p&gt;Serpents attack with &lt;strong&gt;mindbites&lt;/strong&gt;, which deal psychic damage and can interfere
+with concentration and psionic power usage: if 2 or more of the serpent’s allies
+are adjacent to the target, the bite deals extra damage and prevents the target
+from spending action points or power points (save ends).&lt;/p&gt;
+
+&lt;p&gt;If an enemy misses the serpent, it can &lt;strong&gt;Depart Reality&lt;/strong&gt;, removing itself from
+play for a turn an re-appearing in adjacent to an enemy within 20 squares of its
+original location. It can also do this exact same thing when it rolls initiative
+with the &lt;strong&gt;Sudden Reality Warp&lt;/strong&gt; ability.&lt;/p&gt;
+
+&lt;h3 id=&quot;allabar-opener-of-the-way&quot;&gt;Allabar, Opener of the Way&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-allabar.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Yup, you read that right. This is not a star spawn, it’s a &lt;em&gt;star&lt;/em&gt;. Allabar is
+here to serve as the end boss for a campaign focused on the Forgotten War, which
+would likely feature the PCs facing and unraveling the plans of increasingly
+powerful aberrant creatures and star spawn until Allabar itself decides to
+personally kill them. As the lore implies, Allabar is not the only eldritch star
+who wants to mess with the world, but it’s the most consciously malicious one
+and it acts as instigator and enabler to the others. Eliminating Allabar would
+effectively end the threat posed by its fellows and their respective star spawn.&lt;/p&gt;
+
+&lt;p&gt;Putting the lore in astronomical terms would make Allabar similar to a rogue
+planet, a planet without a star that moves across the universe. The similarity
+is only superficial, of course, because pretty much nothing else about the
+Opener of the Way is in any way scientific.&lt;/p&gt;
+
+&lt;p&gt;Allabar is presented here as a Gargantuan Aberrant Animate. Those who feel even
+Gargantuan is too small for a planetary entity might instead say this is an
+avatar of Allabar, the thing it sends through a portal to personally fight the
+PCs. When it dies, the star winks out from the sky. Or you can take a page from
+Atropus in Elder Evils, and have the actual body of Allabar be the
+dungeon/battlefield on which you fight its avatar.&lt;/p&gt;
+
+&lt;p&gt;Anyway, Allabar is a Level 30 Solo Soldier with 1100 HP. It has ground and
+flight speeds of 6, with Hover. As a planet, it projects a &lt;strong&gt;Gravity Well&lt;/strong&gt; that
+acts as a 20-square wide aura. This plus its Gargantuan size pretty much mean it
+covers the entire battle map. Anyone who starts their turn inside the field gets
+pulled a variable number of squares depending on how much HP Allabar currently
+has. It starts at 1 square, and doubles for every 25% of its HP that are missing
+(at 25% or less total HP, it’s 8 squares).&lt;/p&gt;
+
+&lt;p&gt;Being covered with eyes, Allabar has &lt;strong&gt;All-Around Vision&lt;/strong&gt;, and can’t be
+flanked. Its &lt;strong&gt;Bloodied Fury&lt;/strong&gt; also gives it an extra standard action per turn
+while it’s bloodied, even when it’s dazed.&lt;/p&gt;
+
+&lt;p&gt;In combat, the Opener of the Way projects Reach 4 &lt;strong&gt;Tentacles&lt;/strong&gt; to attack, which
+deal light physical damage and restrain for a turn on a hit. It can use them in
+a &lt;strong&gt;Triple Attack&lt;/strong&gt; to strike three times in a standard action, and it can
+enhance a tentacle attack with a &lt;strong&gt;Psionic Boost&lt;/strong&gt; similar to that of the star
+spawn in this entry. Aside from the boost recharging when Allabar takes psychic
+damage, it also recharges when the star succeeds with its &lt;strong&gt;Devour Body&lt;/strong&gt;
+attack. This Close Burst 1 vs. Fortitude targets creatures who are at 0 HP or
+lower. On a hit, it kills the target and pulls it inside Allabar. It &lt;em&gt;can&lt;/em&gt;
+target dead allies, but it’s also excellent for making PCs exercise those “when
+you die” abilities they surely have by now.&lt;/p&gt;
+
+&lt;p&gt;Another very interesting attack is &lt;strong&gt;Wrath of the Forsaken World&lt;/strong&gt; (close blast
+5 vs. Fortitude, recharge 5+), which deals psychic damage and causes each target
+to sprout a hostile tentacle (save ends). While the tentacle is there, it deals
+an automatic 20 damage to any target that ends their turn within 2 squares of
+the victim.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, you know, no big deal, the Opener can use &lt;strong&gt;Unravel Essence&lt;/strong&gt;
+(melee 4 vs. Fortitude), which inflicts 20 ongoing damage on a hit (save
+ends). On the first failed save, this increases to 25. On the second, the target
+also becomes weakened and insubstantial. On the third, the target drops to 0 HP
+if its HP was still positive. A successful save at any point halts the process
+and clears all related conditions. This recharges whenever there are no
+creatures affected by it.&lt;/p&gt;
+
+&lt;p&gt;And finally, when someone hits Allabar with an attack, it can cause &lt;strong&gt;Psychic
+Feedback&lt;/strong&gt; as a reaction, automatically dazing the attacker (save ends).&lt;/p&gt;
+
+&lt;p&gt;Allabar is very intelligent and will work to maximize its advantages, abusing
+its flight and superior reach, and focusing fire make them drop to 0 HP quickly
+so they can be devoured. And if your level 30 PCs are cocky because this end
+boss is “only” level 30, add a few Emissaries of Caiphon to make it impossible
+for them to pass the many saves imposed by the Opener of the Way.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The awesome continues! This entry does return to the old standby of “tentacles”,
+but the monsters are still pretty evocative and their mechanics
+interesting. Allabar reminds me of Atropus, from Elder Evils, but it’s has more
+of an aberrant/psychic theme instead of Atropus’ undead/necrotic leanings.&lt;/p&gt;
+
+&lt;p&gt;The Opener of the Way is the fourth and last epic boss to be found in this
+book. The previous ones were Imix, Lolth, and Ogrémoch.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Spider</title>
@@ -1254,147 +1527,6 @@ knocking the other two down to level 6 or so.&lt;/p&gt;
         <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Rot Grub</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;Rog grubs have been around more or less since the beginning, though they used to
-be more of a trap than a monster in the past.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Rot grubs are voracious parasites with a life cycle so accelerated some scholars
-think they’re a divine curse sent by Torog to inflict suffering upon the
-world. They burrow into the bodies of larger creatures, eating their flesh and
-laying eggs inside. They don’t care if the body in question is alive or dead,
-either. A living being infested by a swarm of rot grubs will experience
-indescribable agony as they’re eaten alive, and this lasts until the grubs reach
-the heart and kill the host.&lt;/p&gt;
-
-&lt;p&gt;Rot grub infestations usually happen in underground dungeons, since they like
-the dark and humidity. Sapient creatures that like the same environments quickly
-learn to watch out for rot grubs, since an infestation can depopulate their
-homes in short order. Some, like orcs, just pull up stakes and move elsewhere
-when they find rot grubs. Others try to find uses for them. Kobolds stick them
-inside clay pots for use as special sling ammunition. Bugbears use them to
-enhance pit traps. Gnolls use them as instruments of torture.&lt;/p&gt;
-
-&lt;p&gt;These infestations tend to burn themselves out as the rot grubs eat through all
-available victims in the area and then die from starvation. Only a few hardy
-individuals remain, possibly in hibernation, waiting for the next unwary victim
-to approach their corpse host.&lt;/p&gt;
-
-&lt;p&gt;There are, however legends of entire &lt;em&gt;oceans&lt;/em&gt; of these horrible little things
-undulating in the depths of the underdark. Supposedly, they sustain themselves
-by feeding on the flesh of a dead god.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Rot Grubs are Natural Beasts, and a swarm large enough to count as a monster is
-Medium in size. These swarms have Speed 5 and Darkvision, so they’re far from
-the stationary hazards of earlier editions. If a swarm notices you, it’s going
-to pursue.&lt;/p&gt;
-
-&lt;h3 id=&quot;rot-grub-swarm&quot;&gt;Rot Grub Swarm&lt;/h3&gt;
-
-&lt;p&gt;The basic model. After killing their first few victims, they retreat inside the
-bodies and lay up to ten thousand eggs. These hatch into new swarms after a
-month or so. This is the classic “trap” scenario from earlier editions.&lt;/p&gt;
-
-&lt;p&gt;This swarm is a Level 4 Brute with 63 HP. It has the common traits mentioned
-above, and the usual Swarm traits: half damage and no forced movement from
-single-target attacks, vulnerable 10 to area attacks, can occupy the same space
-as other creatures and squeeze into any space big enough for a single grub.&lt;/p&gt;
-
-&lt;p&gt;It’s also a &lt;strong&gt;Clumsy Attacker&lt;/strong&gt;, which means it lacks a basic melee attack. It
-still has an attack ability, but it’s not considered “basic”. This means the
-swarm can’t charge or make opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Aura&lt;/strong&gt; has a size of 1 and deals 5 damage to any enemy that stars
-its turn inside. This damage increases by 2 for each extra swarm whose aura
-overlaps the target.&lt;/p&gt;
-
-&lt;p&gt;The swarm attacks with &lt;strong&gt;Infesting Bites&lt;/strong&gt;, which deal no immediate damage but
-inflict ongoing 5 damage on a hit (save ends). This worsens to 10 after the
-first failed save, and to 15 after the second. An unlucky level-appropriate
-adventurer will find themselves dead from this about as fast as a PC from the
-olden days. Save-boosting powers and items are a wise investment here.&lt;/p&gt;
-
-&lt;h3 id=&quot;rot-grub-zombies&quot;&gt;Rot Grub Zombies&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-rot-grub-zombie.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Even grub-infested corpses are a little more active than they used to be! This
-is such a horrible death that it’s not uncommon for the victim to rise as a
-zombie soon afterwards. These zombies are on the faster side, and some speculate
-they’re controlled by the swarm inside them, since they are drawn to victims
-with open wounds that make it easy for the grubs to leap into their bodies.&lt;/p&gt;
-
-&lt;p&gt;The zombie is a Level 8 Skirmisher with 86 HP and Speed 6. Its basic attack is a
-&lt;strong&gt;slam&lt;/strong&gt;, and it can also execute a &lt;strong&gt;flailing slam&lt;/strong&gt; that allows it to shift 1
-square before or after the attack. Their special attack is &lt;strong&gt;Rot Grub Hunger&lt;/strong&gt;
-(recharge 5+), which targets a bloodied enemy and deals slam damage plus 2d6
-necrotic damage. Hit or miss, it also exposes the target to rot grub
-infestation.&lt;/p&gt;
-
-&lt;p&gt;When the zombie hits 0 HP, &lt;strong&gt;Corpse Collapse&lt;/strong&gt; kicks in and spawns a rot grub
-swarm in its space.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Rot Grub Infestation&lt;/strong&gt; is a level 4 disease with an improve DC of 18 and a
-Maintain DC of 12. This makes it a slower version of the infestation implied by
-the basic swarm. Stage 1 eats a healing surge and makes the patient vulnerable 5
-to necrotic damage. Stage 2 eats a second healing surge and inflicts a -4
-penalty to all skill rolls. Stage 3 kills the victim and immediately turns them
-into a rot grub zombie.&lt;/p&gt;
-
-&lt;p&gt;If you dislike the way D&amp;amp;D 4 implements disease, you could replace the exposure
-effect and bonus necrotic damage of Rot Grub Hunger with the increasing ongoing
-damage from the basic swarm.&lt;/p&gt;
-
-&lt;h3 id=&quot;awakened-rot-grub-swarm&quot;&gt;Awakened Rot Grub Swarm&lt;/h3&gt;
-
-&lt;p&gt;Maybe this is a swarm that ate something very psionic, maybe it’s a duergar
-bioweapon run amok… whatever its origins, this is a rot grub swarm that became
-sapient. Its telepathic hive mind emits constant chatter with affirming phrases
-such as “Without us, within them, reap their flesh”. Sometimes bits and pieces
-of its victim’s minds also contribute to the noise.&lt;/p&gt;
-
-&lt;p&gt;The awakened swarm is mostly identical to the basic one, but it’s a Level 10
-Brute with 123 HP. All the numbers go up, including aura damage and the ongoing
-damage inflicted by their attack. They also get a couple of extra psychic
-powers. &lt;strong&gt;Psychic Shock&lt;/strong&gt; is a Close Burst 2 that deals no damage but
-immobilizes for a turn on a hit. And &lt;strong&gt;Telepathic Lure&lt;/strong&gt; is a ranged attack
-(minor action, 1/round) that pulls a target 4 squares.&lt;/p&gt;
-
-&lt;p&gt;And of course this swarm is &lt;em&gt;sapient&lt;/em&gt;, with Int 8, which is plenty to allow it
-to set up ambushes or even make conscious alliances with other beings it can’t
-eat.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Ewwww. Early D&amp;amp;D modules loved using rot grubs as a sort of lethal trap hidden
-inside corpses found in the dungeon, usually those of previous adventurers. It
-was not uncommon to also place some enticing loot on these corpses. They can
-still be used in this role here, and while they’re not as instantly lethal as
-their older versions, they’re still quite dangerous.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/06/rot-grub.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/06/rot-grub.html</guid>
         
         <category>dnd4</category>
         
