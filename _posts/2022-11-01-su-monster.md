@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-su-monster.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Su Monsters have been around at least since the AD&D Monster Manual. This is
 their 4e debut. It's likely their lore is new to this edition. They didn't seem
 to have any in the AD&D book.

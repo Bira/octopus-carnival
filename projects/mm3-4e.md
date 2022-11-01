@@ -132,6 +132,7 @@ entries.
   - [Spawn of Kyuss][78]
   - [Spider][79]
   - [Star Spawn][80]
+  - [Su Monster][81]
 
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
@@ -214,3 +215,4 @@ entries.
 [78]: {{ "/2022/10/21/spawn-of-kyuss.html" | relative_url }}
 [79]: {{ "/2022/10/24/spider.html" | relative_url }}
 [80]: {{ "/2022/10/28/star-spawn.html" | relative_url }}
+[81]: {{ "/2022/11/01/su-monster.html" | relative_url }}
