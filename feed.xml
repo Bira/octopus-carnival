@@ -6,9 +6,141 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2022 19:32:37 +0000</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2022 19:32:37 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2022 16:55:23 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2022 16:55:23 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Su Monster</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-su-monster.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Su Monsters have been around at least since the AD&amp;amp;D Monster Manual. This is
+their 4e debut. It’s likely their lore is new to this edition. They didn’t seem
+to have any in the AD&amp;amp;D book.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Su Monsters are an artificial species created by the wizard Halkith to guard his
+tower in the legendary Isle of Dread. In Fourth Edition, the Isle is a wandering
+island in the Feywild, and as usual it’s full of very dangerous
+creatures. Halkith created the first Su Monsters to guard his tower against the
+place’s other inhabitants.&lt;/p&gt;
+
+&lt;p&gt;Some time after that, a mysterious event caused a worldwide surge of psionic
+energy. This affected Halkith’s su monsters deeply and caused them to break from
+the wizard’s control. Halkith disappears from history after this - his most
+likely fate is that he was eaten by his creations.&lt;/p&gt;
+
+&lt;p&gt;The wizard combined traits from both great apes and fey panthers to make these
+creatures. In our narrative present they managed to spread beyond the Isle of
+Dread. Their preferred habitat are tropical jungles, particularly those that
+contain sources of psionic power.&lt;/p&gt;
+
+&lt;p&gt;Su Monsters are nonsapient but cunning, and complement their natural weapons
+with residual psychic powers received from the Event. Like cats, they hunt as
+much for fun as for food, and kill much more prey than they can eat at
+once. They bury the excess meat for later consumption, and mark these stashes
+with the prey’s inedible bits (such as its carried treasure). If you find
+shinies hanging off tree branches in the jungle, take care!&lt;/p&gt;
+
+&lt;p&gt;Spellcasters and psionicists often use their power to control these creatures,
+putting them to work as guard and attack animals. When free, they protect and
+hunt in their chosen territories with surprisingly sophisticated tactics.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Su Monsters are Medium Fey Beasts with ground and climb speeds of 7, as well as
+the Forest Walk special ability. They have darkvision, and one of both of the
+following signature abilities:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Psychic Boost&lt;/strong&gt; works like the Star Spawn ability we saw: when a su monster
+hits with one of its physical attacks, it can deal bonus psychic damage as a
+free action. This recharges when the creature takes psychic damage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tribal Fury&lt;/strong&gt; has a very unfortunate name and allows the monster to make a
+free claw attack when an ally within 3 squares is first bloodied.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;su-sentinel&quot;&gt;Su Sentinel&lt;/h3&gt;
+
+&lt;p&gt;Many members of a su monster group use this stat block. Each one keeps watch
+over a portion of the group’s territory, and calls the others if they spot any
+prey.&lt;/p&gt;
+
+&lt;p&gt;Su Sentinels are Level 10 Skirmishers with 107 HP. They have a &lt;strong&gt;Skirmish&lt;/strong&gt;
+trait that allows them to deal 5 extra damage with their attacks if they moved
+4 or more spaces this turn.&lt;/p&gt;
+
+&lt;p&gt;In addition to basic &lt;strong&gt;Claw&lt;/strong&gt; strikes, they can make a &lt;strong&gt;Flashing Talons&lt;/strong&gt;
+maneuver that deals a bit less damage and, as an effect, allows them to shift 2
+squares. If the targeted enemy moves to a space adjacent to the monster during
+their next turn, the creature gets to make this attack against them once more
+for free.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Mind-Rending Bite&lt;/strong&gt; (recharge 4+), which deals even less
+basic damage but inflicts ongoing 10 psychic damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Sentinels have both Su Monster signature abilities.&lt;/p&gt;
+
+&lt;h3 id=&quot;su-ambusher&quot;&gt;Su Ambusher&lt;/h3&gt;
+
+&lt;p&gt;Su Ambushers are less physicall imposing but they hunt together, hanging out
+near places that see frequent creature traffic and jumping out all at once to
+carry prey away. They’re Level 11 Minion Soldiers.&lt;/p&gt;
+
+&lt;p&gt;They have a basic &lt;strong&gt;Claw&lt;/strong&gt; attack that does minion-tier damage, but instead of
+using that they’re going to rely on &lt;strong&gt;Seize Prey&lt;/strong&gt;. This lets them move their
+speed and make a claw attack at any point along the move. If they hit, they pull
+the target alongside them the rest of the move, and do not provoke opportunity
+attacks from it. This is excellent for getting defenders out of the way or
+briging squishies closer to danger.&lt;/p&gt;
+
+&lt;p&gt;Ambushers have Fury, but they replace Psychic Boost with &lt;strong&gt;Grasping Claws&lt;/strong&gt;,
+which allow them to make one last claw attack when they hit 0 HP.&lt;/p&gt;
+
+&lt;h3 id=&quot;su-alpha&quot;&gt;Su Alpha&lt;/h3&gt;
+
+&lt;p&gt;Su Alphas are larger and more powerful specimens who gained some status within
+their group by repeatedly proving they can beat up their puny relatives. Smaller
+groups have only one alpha, but larger ones might have several. They are Level
+12 Brutes with 149 HP.&lt;/p&gt;
+
+&lt;p&gt;Alphas fight with &lt;strong&gt;Claws&lt;/strong&gt; and &lt;strong&gt;Backhand Slams&lt;/strong&gt;, the latter of which do less
+damage but target Fortitude and push the target 1 square. They can also emit a
+&lt;strong&gt;Su Howl&lt;/strong&gt; (close burst 3 vs. Will) which deals psychic damage and renders its
+targets vulnerable 5 to all damage (save ends). On a miss, the target takes half
+damage and is vulnerable for a turn. This recharges wherever the alpha takes
+psychic damage. They possess both signature abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;It’s another carnivorous ape monster in a book that already has too many of
+them. The lore and mechanics seem to disagree with each other on whether su
+monsters are sapient. The stats say they are Int 2 beasts, but the lore keeps
+saying they organize in “tribes”, a term I’ve avoided using here.&lt;/p&gt;
+
+&lt;p&gt;The mechanics themselves are mildly interesting, but I don’t like them enough to
+use them paired with this lore.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Star Spawn</title>
@@ -1384,149 +1516,6 @@ be found wherever the god’s cultists and temples are.&lt;/p&gt;
         <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Scarecrow</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-scarecrow.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;The concept of scary animated scarecrows is a classic, so I’m sure they popped
-up in earlier editions. This is their 4e debut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Scarecrows in the middle world are straw mannequins placed on fields to keep
-birds away. Scarecrows in the Feywild are terrifying constructs built to keep
-&lt;em&gt;people&lt;/em&gt; away, and to tear them to pieces if they get too close. Both look the
-same, so never forget which plane you’re in.&lt;/p&gt;
-
-&lt;p&gt;The first animated scarecrows were created by a hag with straw stolen from a
-farmer at the stroke of midnight, clothes from a freshly slain corpse, and
-thread made from the hair of a nightmare. The idea spread quickly, and now lots
-of different people use them. I imagine the recipes used by less evil creators
-are not as macabre, though the construction of a scarecrow still involves a lot
-of work.&lt;/p&gt;
-
-&lt;p&gt;Scarecrows are a bit less sturdy than golems, but they’re much smarter. They can
-understand more complex instructions and have a link to their master that allows
-for long-distance, two-way communication. When a scarecrow spots an intruder, it
-transmits what it sees to its master. They’re alarm and surveillance systems in
-addition to being guardians.&lt;/p&gt;
-
-&lt;p&gt;If the master dies, any surviving scarecrows will keep following their last
-orders. This means you could find an ancient ruin guarded by masterless
-scarecrows in the Feywild.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Scarecrows are Medium Fey Animates (Constructs). They’re immune to disease,
-poison and sleep, though non-minion variants are also vulnerable 10 to
-fire. They have low-light vision and a speed of 6.&lt;/p&gt;
-
-&lt;h3 id=&quot;scarecrow-shambler&quot;&gt;Scarecrow Shambler&lt;/h3&gt;
-
-&lt;p&gt;A proper scarecrow takes months of careful work, with each stitch and each bit
-of straw placed precisely in the configuration that will allow it to hold the
-most magic reinforcement and power. A skilled enough ritual caster, however, can
-cut a bunch of corners and and produce a small army of these crude models.&lt;/p&gt;
-
-&lt;p&gt;Shamblers are not much tougher than a mundane scarecrow, as their magic barely
-holds them together. They are still strong enough to kill someone with their
-bare hands, and are filled with toxic mold that spreads through the air when
-they are destroyed.&lt;/p&gt;
-
-&lt;p&gt;These creatures are Level 10 Minion Brutes. Their basic attack is &lt;strong&gt;claw&lt;/strong&gt; that
-does physical damage with no special riders. When destroyed, they disintegrate
-in a puff of moldy straw, creating a zone in a Close Burst 1 that lasts until
-the end of the encounter. The zone is a poison cloud: it’s lightly obscured and
-deals 10 poison damage to anyone who starts their turn inside.&lt;/p&gt;
-
-&lt;p&gt;Clearly, shamblers are meant to die en masse and blanket the battlefield in a
-giant poison cloud. An ignorant wizard might inadvertently help them along by
-popping an entire group with an area attack. I guess they still act as cameras
-for their master too.&lt;/p&gt;
-
-&lt;h3 id=&quot;scarecrow-guardian&quot;&gt;Scarecrow Guardian&lt;/h3&gt;
-
-&lt;p&gt;The “baseline” model discussed in the lore section, painstakingly crafted to act
-as a guardian. They’re Level 13 Soldiers with 107 HP.&lt;/p&gt;
-
-&lt;p&gt;Guardians fight with their &lt;strong&gt;Claws&lt;/strong&gt;, which damage and mark on a hit. They also
-have a couple of gaze attacks: &lt;strong&gt;Luring Gaze&lt;/strong&gt; (at-will) is a ranged attack that
-deals psychic damage and pulls the target 5 squares; and &lt;strong&gt;Horrid Gaze&lt;/strong&gt;
-(minor action, encounter) is a Close Blast 3 that deals no damage and
-immobilizes for a turn. These are tailored to allow the monster to prevent
-intruders from escaping.&lt;/p&gt;
-
-&lt;p&gt;They’re also deceptively hard to kill - the &lt;strong&gt;Malleable Straw&lt;/strong&gt; interrupt kicks
-in when they’re damaged, and causes them to take half damage from the
-attack. Since it’s an interrupt, it only works once per round, but still makes
-them more durable than their HP would indicate.&lt;/p&gt;
-
-&lt;h3 id=&quot;scarecrow-haunter&quot;&gt;Scarecrow Haunter&lt;/h3&gt;
-
-&lt;p&gt;Haunters are created by adding an extra ingredient to the original scarecrow
-recipe: the heart of someone who was killed by another scarecrow. It gets sewn
-into the construct’s body, from which it irradiates the fear its former owner
-felt before dying. The haunter twists this raw emotion into frightening
-illusions when hunting down intruders.&lt;/p&gt;
-
-&lt;p&gt;Haunters are Level 13 Lurkers with 99 HP. They fight with &lt;strong&gt;Claws&lt;/strong&gt; and have
-several interesting special attacks. The first one we must mention is the
-&lt;strong&gt;Lurking Horror&lt;/strong&gt; passive trait. It makes it so all of their attacks deal 5
-extra damage and have their forced movement increased by 2 squares.&lt;/p&gt;
-
-&lt;p&gt;As lurkers, haunters can begin harrassing the party from a distance, while
-safely hidden. &lt;strong&gt;Haunting Echoes&lt;/strong&gt; an area burst 2 within 10 attack that targets
-the Will of all enemies inside. A hit slides the target 2 squares and forces
-them to make a basic attack against a creature of the haunter’s choice as they
-try to fight the imaginary ghosts conjured within their minds. With Lurking
-Horror, this slide could be as large as 4 squares.&lt;/p&gt;
-
-&lt;p&gt;Once spotted, they can use &lt;strong&gt;Terrifying Gaze&lt;/strong&gt; (recharge 5+) as a minor action
-to keep the PCs at bay. This is a Close Blast 3 that targets Will, deals light
-psychic damage, and pushes 2 squares.&lt;/p&gt;
-
-&lt;p&gt;Their “hiding” ability is &lt;strong&gt;Fluttering Straw&lt;/strong&gt;, which allows them to seemingly
-burst into a cloud of rotten straw and rags while teleporting 6 squares and
-becoming invisible and insubstantial for a turn. They’ll use it to avoid being
-surrounded and to resume their stealthy “grenading” with Haunting Echoes.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Quite interesting! Animated scarecrows are always good for a bit of scary fun,
-and these don’t disappoint. I like the contrast with golems: the creation of a
-D&amp;amp;D golem is described like a highly technical process that involves trapping
-elemental spirits. The creation of a scarecrow is the telling of a scary fairy
-tale, relying on the inherent narrative power of its ingredients.&lt;/p&gt;
-
-&lt;p&gt;Unless you choose to make less evil scarecrow recipes a thing in your setting,
-they’re probably the domain of hags, lamias and other paragon-tier evil fey. A
-particularly ancient hag is going to have a small army of Guardians and Haunters
-protecting her territory, and the realization that each of these represents at
-least one of her previous victims will add to the horror of the situation.&lt;/p&gt;
-
-&lt;p&gt;If you want your Heroic-tier players to meet scarecrows without having to trek
-to the Feywild, I would suggest statting the Shambler as a Level 3 Regular, and
-knocking the other two down to level 6 or so.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/08/scarecrow.html</guid>
         
         <category>dnd4</category>
         
