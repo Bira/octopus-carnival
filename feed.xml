@@ -6,9 +6,115 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 01 Nov 2022 16:55:23 +0000</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2022 16:55:23 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Nov 2022 14:34:22 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Nov 2022 14:34:22 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Tannarukk</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-tannaruk.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one feels like an AD&amp;amp;D 2nd Edition creation, as that’s when they renamed
+demons as “ta’nari”.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Tannarukk are engineered hybrids of orc and demon DNA, the product of rituals
+performed by demon lords or ambitious mortal spellcasters. These rituals are
+effectively a mass-production process, as they involve pulsing vats and can
+create dozens of the creatures at once. In most cases they’re immediately put to
+work as soldiers and weapons of war, though they’re extremely difficult to keep
+under control unless they get “enough” opportunity to commit violence. As you
+might expect, that’s a tall order.&lt;/p&gt;
+
+&lt;p&gt;The few free tannarukk bands that exist tend to seek work as mercenaries. Free or
+not, they can most often be found in the Astral Sea or Elemental Chaos, usually
+fighting something. They do sometimes show up in the middle world, and they love
+it because few warriors there can match their skill and resilience in combat.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Tannarukks are Medium Elemental Humanoids with the Demon and Orc keywords. They
+have Darkvision and Speed 6, along with Resist Fire 5. Their signature trait is
+&lt;strong&gt;Indomitable Fury&lt;/strong&gt;, which kicks in when they drop for 0 HP for the first time
+in the fight. It makes them stay at 1 HP instead and gives them +2 to attacks
+and +4 to damage until the end of the encounter.&lt;/p&gt;
+
+&lt;p&gt;This means the PCs should make sure each Tannarukk in the encounter stays down by
+hitting it again before it can get a chance to take more actions. If they don’t,
+they’re going to take more damage; if they do, that’s one attack that didn’t go
+to a healthier monster.&lt;/p&gt;
+
+&lt;h3 id=&quot;tannarukk-marauder&quot;&gt;Tannarukk Marauder&lt;/h3&gt;
+
+&lt;p&gt;Most tannarukks conform to this stat block, which is your basic enthusiastic axe
+murderer. Marauders wear hide and wield a &lt;strong&gt;greataxe&lt;/strong&gt;, and can also thrown
+&lt;strong&gt;handaxes&lt;/strong&gt; at those they can’t quite reach.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait gives them +4 AC against opportunity attacks,
+which is good because their signature move relies on fishing for them: &lt;strong&gt;Brutal
+Rampage&lt;/strong&gt; allows them to move their speed and make a greataxe attack at any
+point during the move. This attack gains a +5 damage bonus for each opportunity
+attack made against the marauder during the move (but before the attack). The
+opportunity attacks don’t need to hit, they just need to happen.&lt;/p&gt;
+
+&lt;h3 id=&quot;tannarukk-steel-warrior&quot;&gt;Tannarukk Steel Warrior&lt;/h3&gt;
+
+&lt;p&gt;This is a bigger tannarukk that received better training and had armor riveted to
+its hide. It’s a Level 18 Soldier with 177 HP. Its armor counts as plate, and it
+wields a shield and a &lt;strong&gt;Longsword&lt;/strong&gt;, plus a &lt;strong&gt;Crossbow&lt;/strong&gt; for ranged attacks.&lt;/p&gt;
+
+&lt;p&gt;The sword marks for a turn, and the warrior can make free attacks against
+enemies that ignore the mark. It can also be used in a special attack named
+&lt;strong&gt;Burning Cage&lt;/strong&gt; (recharge 5+). This melee attack targets Reflex and does heavy
+fire damage. The target takes a further 5 fire damage every time it enters a
+square during its turn (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;tannarukk-flame-speaker&quot;&gt;Tannarukk Flame Speaker&lt;/h3&gt;
+
+&lt;p&gt;This is a tannarukk spellcaster whose power relies on a connection to the abyssal
+flames that go into their production ritual. It’s level 17 Artillery with 129
+HP and resist 10 fire, a bit higher than usual for them.&lt;/p&gt;
+
+&lt;p&gt;The flame speaker fights with a &lt;strong&gt;Staff&lt;/strong&gt; in melee, and with &lt;strong&gt;fire bolts&lt;/strong&gt; at
+range. It can also shoot a &lt;strong&gt;fire barrage&lt;/strong&gt; (recharge 5+) that targets up to
+three creatures but does a bit less damage than the basic bolt.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, the flame speaker can summon &lt;strong&gt;Winds of Fire&lt;/strong&gt;, an area
+burst attack that deals fire damage and creates a zone that lasts for the rest
+of the encounter. Anyone starting their turn inside takes 10 fire damage and is
+pulled 1 square towards the zone’s origin square.&lt;/p&gt;
+
+&lt;p&gt;In addition to Indomitable Fury, the flame speaker also has &lt;strong&gt;Avenging Fire&lt;/strong&gt;,
+which triggers when it hits 0 HP for the second time. It deals some automatic
+fire damage to the triggering enemy.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These stat blocks take up a lot of space on the book, but they’re simpler than
+they look. Each one has a solid gimmick and appropriate base stats. I guess
+tannarukks are meant to be regular enemies for upper paragon PCs - stronger than
+minions, but you’ll still meet a lot of them.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, I’m not sure I like them. They’re more or less D&amp;amp;D’s take on the
+Uruk-Hai, I guess, but there are a lot more opponents at this level range that
+feel cooler and less potentially problematic.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/03/tannarukk.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/03/tannarukk.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Su Monster</title>
@@ -1390,132 +1496,6 @@ makes it a lot easier for the other two to do their part.&lt;/p&gt;
         <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Secret of Vecna</title>
-        <description>&lt;p&gt;(The book has an illustrated Secret of Vecna. I did not include the image here
-because it’s gross.)&lt;/p&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;I first saw a stat block for these in Thunderspire Labyrinth, the second
-heroic-tier module published for 4e. They appear here in revised form.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Vecna is an ascended lich, the evil god of secrets and magic. He teaches that
-secret knowledge is the path to power, encouraging and rewarding his followers
-to learn all they can by whatever means necessary. He also punishes his
-followers for willingly &lt;em&gt;sharing&lt;/em&gt; these secrets, an act that is anathema to
-him. The most common punishment is to transform the heretic into a Secret of
-Vecna.&lt;/p&gt;
-
-&lt;p&gt;These creatures resemble bald humans with plain features, usually wearing robes
-and wielding daggers or staffs. When they get seriously wounded, their skin
-sloughs off and they turn into an horrific living ghoul with wickedly sharp
-fangs and claws. Secrets lack any will of their own, living to do the bidding of
-their divine patron. They get sent to guard sites important to Vecna, or to aid
-the plans of his priests. A Secret’s ultimate aim is always to advance Vecna’s
-goals, though, even to the detriment of his followers. Smart followers know
-never to trust a Secret completely.&lt;/p&gt;
-
-&lt;p&gt;Legend says there is a ritual capable of mending a Secret and turning them back
-into the person they used to be. This could be done for altruistic reasons, or
-as a means of getting access to the information that person knows.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Secrets are Medium Natural Humanoids with a speed of 6. They are &lt;em&gt;not&lt;/em&gt; undead
-and have no special resistances.&lt;/p&gt;
-
-&lt;p&gt;Their signature ability is &lt;strong&gt;Horrific Visage&lt;/strong&gt;, which triggers as soon as
-they’re bloodied. It works as a Close Burst 3 attack vs. Will. On a hit it does
-light psychic damage and pushes the target 3 squares. This is the transformation
-into a ghoul-like horror.&lt;/p&gt;
-
-&lt;p&gt;Some of the monster’s abilities can only be used before it transforms, while
-others can only be used afterwards. So in practice each Secret has two distinct
-attack profiles. The human one is usually some degree of tricksy, while the
-“monster” one is simpler but stronger.&lt;/p&gt;
-
-&lt;h3 id=&quot;enigma-of-vecna&quot;&gt;Enigma of Vecna&lt;/h3&gt;
-
-&lt;p&gt;A spellcaster who grew too greedy and offered to sell or barter the secrets they
-learned in service to Vecna. They retain some of their magic, and gain the
-ability to temporarily strip a victim of its memories. They’re Level 6
-Controllers with 68 HP.&lt;/p&gt;
-
-&lt;p&gt;When human, they fight with &lt;strong&gt;daggers&lt;/strong&gt; and magic. &lt;strong&gt;Shock Bolt&lt;/strong&gt; is a ranged
-attack that targets Reflex and does lightning damage, also slowing the target
-for a turn. And &lt;strong&gt;Memory Ripper&lt;/strong&gt; is another ranged attack targetting Will and
-doing light psychic damage with an awesome rider. Targets hit by this spell are
-prevented from using encounter or daily attack powers, and any utility powers
-(save ends).&lt;/p&gt;
-
-&lt;p&gt;After the Enigma is bloodied, &lt;strong&gt;Horrific Visage&lt;/strong&gt; triggers and it transforms
-into a straightforward melee combatant. Its only attack from that point on is
-&lt;strong&gt;Rend Flesh&lt;/strong&gt;, which does heavy physical damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;spell-howler-of-vecna&quot;&gt;Spell Howler of Vecna&lt;/h3&gt;
-
-&lt;p&gt;This is a more powerful caster who failed Vecna in some way. Maybe they failed
-on a mission given to them by the god, or failed to share a secret with Vecna
-after discovering it. Or maybe they just dug too deep and looked into matters
-forbidden to one of their rank. They’re Level 18 Artillery with 130 HP.&lt;/p&gt;
-
-&lt;p&gt;Spell Howlers are powerful enough to not need weapons. Their basic attack is a
-&lt;strong&gt;Maddening Touch&lt;/strong&gt; that deals psychic damage. Their basic ranged attack is a
-&lt;strong&gt;Word of Force&lt;/strong&gt; that targets Fortitude and does force damage. They can use a
-&lt;strong&gt;Word of Madness&lt;/strong&gt; to deal psychic damage, slide the target 3 squares and have
-it make a free attack against another target of the howler’s choice. This
-recharges on a miss, so they can keep trying it. And finally they can say a
-&lt;strong&gt;Word of Pain&lt;/strong&gt; once per encounter to deal heavy necrotic damage to a target,
-half on a miss.&lt;/p&gt;
-
-&lt;p&gt;Most of this stops after the transformation. Maddening Touch remains an option,
-but their only ranged attack is now the &lt;strong&gt;Word of Doom&lt;/strong&gt;, which deals psychic
-damage and dazes for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;secret-of-vecna&quot;&gt;Secret of Vecna&lt;/h3&gt;
-
-&lt;p&gt;The titular monster of the entry used to be a high priest of Vecna who allowed
-some of the god’s secrets to fall into the hands of a non-believer. Vecna
-appears to them personally to shatter their minds and transform their bodies.&lt;/p&gt;
-
-&lt;p&gt;Secrets are Level 19 Skirmishers with 176 HP. Faster than average, they have a
-Speed of 8 and a Teleport speed of 4.&lt;/p&gt;
-
-&lt;p&gt;In human form, they use a &lt;strong&gt;Cloak of Ignorance&lt;/strong&gt; spell that covers a Close Burst
-3, deals psychic damage, and makes them invisible to the target (save
-ends). Then they move in with &lt;strong&gt;Shocking Grasp&lt;/strong&gt;, a basic attack that deals
-lightning damage and has a big damage bonus when the target can’t see the
-monster.&lt;/p&gt;
-
-&lt;p&gt;After transforming, their only attack is &lt;strong&gt;Thundering Claws&lt;/strong&gt;, which deals heavy
-thunder damage, knocks prone, and slides 1 square.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;This is exactly the sort of odd monster that you can typically find in Monster
-Manuals numbered 3 or above. Fortunately they had enough space for a nicely
-evocative bit of lore. Their mechanics are an interesting take on the
-“two-stage” monster, and a different one from both the MM2’s Phoeras and Fey
-Lingerers.&lt;/p&gt;
-
-&lt;p&gt;As the lore mentions, these are Vecna’s specialty divine servitors, so they’ll
-be found wherever the god’s cultists and temples are.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/10/secret-of-vecna.html</guid>
         
         <category>dnd4</category>
         
