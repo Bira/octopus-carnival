@@ -6,9 +6,273 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Nov 2022 14:34:22 +0000</pubDate>
-    <lastBuildDate>Thu, 03 Nov 2022 14:34:22 +0000</lastBuildDate>
+    <pubDate>Fri, 04 Nov 2022 13:57:33 +0000</pubDate>
+    <lastBuildDate>Fri, 04 Nov 2022 13:57:33 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>The Guns of Wolfenstein, Part 01</title>
+        <description>&lt;p&gt;I’ve been playing a lot of Wolfenstein games these past few days. There’s
+something cathartic about unapologetically fighting Nazis. I first did it to
+de-stress, and then to celebrate the results of our most recent election (go
+Lula!).&lt;/p&gt;
+
+&lt;p&gt;And since I do occasionally want to post something here that’s not Let’s Read
+the Monster Manual, I decided to talk a bit about the various guns you use to
+kill Nazis in all of these games.&lt;/p&gt;
+
+&lt;p&gt;We’re dealing with two separate continuities here: one that starts with Return
+to Castle Wolfenstein (2001) and another that starts with Wolfenstein: The New
+Order (2014). You could, if you’re so inclined, include both of them in the
+GURPS Infinite Worlds framework. I’d call then Wolfenstein-1 and Wolfenstein-2
+respectively, though I guess Infinity might call the latter Reich-6 at first.&lt;/p&gt;
+
+&lt;p&gt;In this article, we’ll cover the stuff that appears in Return to Castle
+Wolfenstein (2001), AKA the Wolfenstein-1 setting.&lt;/p&gt;
+
+&lt;h2 id=&quot;game-overview&quot;&gt;Game Overview&lt;/h2&gt;
+
+&lt;p&gt;This is a flashier remake of Wolfenstein 3D, the game that more or less started
+the FPS genre back in 1992. It’s the first game in the franchise to have a more
+fleshed out story wrapped around its gameplay, with voiced dialogue and
+cutscenes elaborating on the simpler “you must escape the castle and kill Nazis”
+plot of the 1992 game.&lt;/p&gt;
+
+&lt;p&gt;The game takes place in a pulpier version of WWII, where the Nazis are working
+on a large variety of scary secret projects and the OSA (a joint Allied spy
+agency) is sending agents to stop them from hitting the field. The player
+character, as always, is William “B. J.” Blazkowicz. He gets sent along with a
+British agent to Castle Wolfenstein to find more about these projects, they get
+captured, and the game starts with Blazko’s escape attempt and moves on to
+thwarting those projects to the Allies can win the war.&lt;/p&gt;
+
+&lt;p&gt;There are two sinister things going on here: an attempt by the Thule society to
+resurrect ancient evil undead knights, and a mad science lab working to build
+cyborg supersoldiers. The final boss is, of course, a bunch of cyborg
+supersoldiers possessed by the spirits of ancient evil undead knights.&lt;/p&gt;
+
+&lt;h2 id=&quot;historical-weapons&quot;&gt;Historical Weapons&lt;/h2&gt;
+
+&lt;p&gt;Wolfenstein-1 is mostly a pulpier version of WWII, so a lot of the weapons we
+see are historical and present on GURPS High-Tech. Though sometimes you’ll start
+a level with some Allied weapons issued by the OSA, the vast majority of the
+time you’ll be using captured German hardware.&lt;/p&gt;
+
+&lt;p&gt;OSA-issue weapons include the &lt;strong&gt;Colt M1911A1&lt;/strong&gt; pistol (p. HT99), the &lt;strong&gt;Thompson
+M1&lt;/strong&gt; submachine gun (p. HT122), and the &lt;strong&gt;Enfield Sten Mk IIS&lt;/strong&gt; submachine gun
+(p. HT 125). The integral suppressor of the Sten works according to cinematic
+principles here, making it completely silent to enemies.&lt;/p&gt;
+
+&lt;p&gt;Interestingly enough, one of the “elite guard” units you face in the game also
+uses Stens, because they’re meant to be sneaky and the Sten is the only
+suppressed SMG in the game. The other OSA weapons are used exclusively by the
+player character.&lt;/p&gt;
+
+&lt;p&gt;German weapons include the &lt;strong&gt;Luger P08&lt;/strong&gt; pistol, (p. HT98), the &lt;strong&gt;ERMA MP40&lt;/strong&gt;
+SMG (p. HT 124), the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; rifle (p. HT111), the &lt;strong&gt;Rheinmetall
+FG42&lt;/strong&gt; battle rifle (p. HT 115) and the &lt;strong&gt;Panzerfaust&lt;/strong&gt; (p. HT147). The player
+also uses these extensively, since every enemy drops ammo for one of them.&lt;/p&gt;
+
+&lt;p&gt;The FG42 is the signature weapon of the other “elite guard” unit in the game,
+and has the scope described in its High-Tech entry. It’s also possible to find a
+suppressor for the Luger and a variable-power scope for the Mauser, which you
+can stat up using the generic rules in p. HT 156 and p. HT 158.&lt;/p&gt;
+
+&lt;p&gt;You can occasionally also find a few &lt;strong&gt;MG42&lt;/strong&gt; machine gun (p. HT 134)
+emplacements in the game. There is also a flamethrower similar to the &lt;strong&gt;M2-2&lt;/strong&gt;
+(p. HT179), though this is probably the German equivalent rather than the
+American version in the book.&lt;/p&gt;
+
+&lt;p&gt;Grenades also see use, with most of them being the German &lt;strong&gt;Stielhandgranate
+24&lt;/strong&gt;, and the rest American &lt;strong&gt;AMC Mk II&lt;/strong&gt; models. Both are on p. HT190-191.&lt;/p&gt;
+
+&lt;h2 id=&quot;fictional-weapons&quot;&gt;Fictional Weapons&lt;/h2&gt;
+
+&lt;p&gt;There’s a lot of pulpy arms research going on here on both sides, so we also get
+to see some weapons that don’t exist in reality. We’ll cover these in a bit more
+detail.&lt;/p&gt;
+
+&lt;h3 id=&quot;snooper-rifle&quot;&gt;Snooper Rifle&lt;/h3&gt;
+
+&lt;p&gt;This is a prototype sniper rifle issued to Blazkowicz by the OSA early in the
+second mission of the game. You also find captured rifles later on while
+breaking into one of the games’ many secret lab facilities.&lt;/p&gt;
+
+&lt;p&gt;The Snooper is the most down-to-earth of the experimental weapons here, being an
+exaggerated version of the &lt;strong&gt;M3 Carbine&lt;/strong&gt; (p. HT113). Even the fancy infrared
+sight is real! The biggest changes are the addition of a cinematic integral
+suppressor that makes the gun completely silent, and making the infrared sight
+more advanced than it really was. The one in the game has variable magnification
+and requires no external batteries.&lt;/p&gt;
+
+&lt;h3 id=&quot;venom-machine-gun&quot;&gt;Venom Machine Gun&lt;/h3&gt;
+
+&lt;p&gt;This is the first entirely fictional weapon we encounter in the game, and the
+second most unrealistic one. It’s a portable, six-barreled, belt-fed minigun. It
+has relatively short barrels, a shoulder stock and rifle-style grips. There’s an
+in-game document that describes it as firing 7.92mm saboted armor piercing
+rounds, but the ammo for it is labeled as “12.7mm” in game. You first find the
+Venom as a prototype in one of the secret labs that make up the game’s levels,
+and after that it starts appearing in the hands of some enemy human
+soldiers. Most of the cyborg supersoldiers you meet towards the end of the game
+also carry one.&lt;/p&gt;
+
+&lt;p&gt;We’ll need custom stats for this one! Let’s go with the assumption that it fires
+7.92mm ammo, to make it minimally plausible for it to be portable. To make it a
+little easier on the user, we can further say it fires the 7.92x33mm Kurz round,
+instead of the longer 7.92x57mm Mauser round from the Kar98K.&lt;/p&gt;
+
+&lt;p&gt;The in-game Venom takes up to 500 rounds. These would probably be in a
+disintegrating belt inside a metal can that can be worn as a backpack. The whole
+thing weights around 16kg, more than the weapon itself. More reasonable 200 and
+100 round belts with their smaller containers might weight in at 8 and 4kg
+respectively.&lt;/p&gt;
+
+&lt;p&gt;We’ll actually base the stats for it on the Minigun from page 138 of GURPS
+Ultra-Tech, making the Venom a TL 7+2 weapon. The one on the table fires APDS
+ammo, which is also TL 7+2 in this caliber, and has a 500-round belt.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7+2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Venom&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6d+2(2) pi-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1000/4000&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15kg/16kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;25!&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;500(5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15M&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The Venom requires Guns (LMG) to operate, or Guns (Longarm) with the Burst-Fire
+technique if using the alternate gun skill rules from Pyramid #3/65.&lt;/p&gt;
+
+&lt;h3 id=&quot;tesla-gun&quot;&gt;Tesla Gun&lt;/h3&gt;
+
+&lt;p&gt;The weapon used by the advanced cyborg supersoldiers you meet at the very end of
+the game. Unlike the Venom this doesn’t bear even the tiniest resemblance to any
+real gun. Pull the trigger and it fires a stream of lightning until you release
+it or until it runs out of charge.&lt;/p&gt;
+
+&lt;p&gt;The Tesla Gun draws power from a superscience backpack battery equivalent to a
+TL 9 D cell, but four times heavier. Its damage follows the same rules as the
+Lightning spell: metal armor only provides DR 1, and the target must make a HT
+roll with a penalty of -1 for every 2 points of injury taken from it. Failure
+means they’re stunned, and must attempt an HT roll every turn in order to
+recover.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7+2^&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4d+2 burn sur&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;600/1900&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;35kg/10kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50 (5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18M&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-8&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The Tesla Gun requires Gunner (Beam) to operate, even when carried.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-much-for-these-fancy-guns&quot;&gt;How much for these fancy guns?&lt;/h2&gt;
+
+&lt;p&gt;You’ll notice that I ommitted any price information for the Venom and the Tesla
+Gun above. That’s because in Wolfenstein-1 they’re secret prototypes with very
+limited production runs. You don’t buy them, you pry them from the hands of dead
+Nazi assholes.&lt;/p&gt;
+
+&lt;p&gt;If you want to use them on a different setting where they are available for
+purchase, use the following costs:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Name&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Cost&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Venom MG&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$12.500&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, APDS)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$180&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, solid)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$60&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$60.000&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Battery&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;$400&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;These are for a setting with a tech level of 7+2. If you’re in a “plain” TL9
+setting you might want to use the Minigun and Semi-Portable Electrolaser from
+Ultra-tech, which have slightly better stats.&lt;/p&gt;
+
+&lt;p&gt;If your setting is like Wolfenstein-1, where the overall TL is a plain 7 and
+these are secret superscience prototypes, multiply all prices by 4.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Tannarukk</title>
@@ -1356,146 +1620,6 @@ this can be easily remedied.&lt;/p&gt;
         <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/15/shardmind.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/15/shardmind.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Shadow</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-shadow.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;Shadows have been in the game since the beginning. They were usually undead in
-previous editions, but here they get a bit of new lore.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;It’s understandable that someone would think shadows are undead, but the truth
-is that they are a species of creature native to the Shadowfell. They’re
-sapient but they perceive the world in a way that makes then inimical to most
-other living creatures. They hate light, and believe the shadows cast by living
-creatures to be prisoners in cages of flesh. Many seek to rescue these prisoners
-by destroying their cages.&lt;/p&gt;
-
-&lt;p&gt;Shadows might form alliances of convenience with other people that would offer
-them the chance to “liberate” lots of living creatures, but they rarely care for
-the causes or gods of us fleshlings. The exception seems to be spellcasters
-versed in shadow magic, who can summon them very easily and always find them to
-be obsequious and eager servants. It’s almost like the shadows know something
-that these mortal masters don’t.&lt;/p&gt;
-
-&lt;p&gt;Shadows slip into the world via these summonings or at natural contact points
-between the world and the Shadowfell. Their number has increased in recent
-years, but no one knows why yet.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Shadows are Medium Shadow Humanoids with a ground speed of 8 and
-Darkvision. They’re insubstantial but vulnerable to radiant damage. Exposure to
-ambient light doesn’t damage them, but reveals their position and leaves them
-with less places to hide.&lt;/p&gt;
-
-&lt;p&gt;Their signature trait is &lt;strong&gt;Born of Shadows&lt;/strong&gt;, which allows them to make Stealth
-checks to hide mid-combat when they have any amount of concealment, instead of
-needing total concealment. All of the variants here are trained in Stealth.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-stalker&quot;&gt;Shadow Stalker&lt;/h3&gt;
-
-&lt;p&gt;This one is equivalent to the classic shadows of editions past. It’s a Level 3
-Lurker with 25 HP.&lt;/p&gt;
-
-&lt;p&gt;The stalker attacks with a &lt;strong&gt;shadowy touch&lt;/strong&gt; that does necrotic damage, and it
-has a &lt;strong&gt;Shadow Stalk&lt;/strong&gt; power that deals necrotic damage and allows it to meld
-with an enemy’s shadow (save ends). While melded, the shadow moves in lockstep
-with its victim, without provoking opportunity attacks. It gains a +4 to all
-defenses and a +5 to attack the victim. When the victim saves, the shadow
-appears on an adjacent square.&lt;/p&gt;
-
-&lt;p&gt;Its triggered action is &lt;strong&gt;Shadow Step&lt;/strong&gt;: when a nearby creature drops to 0 HP,
-the stalked teleports to an adjacent square and gains a +2 bonus to attacks for
-a turn (from eating the victim’s shadow). This also recharges Shadow Stalk.&lt;/p&gt;
-
-&lt;p&gt;Shadow Stalkers become major threats if they manage to land their Shadow Stalk
-attack. Its buddies should focus fire on the stricken PC, which increases the
-chances of the PC dropping to 0 HP and recharging the power. Note that it’s
-possible for multiple stalkers to meld with the same PC’s shadow, and that the
-attack also recharges if an &lt;em&gt;enemy&lt;/em&gt; hits 0 HP.&lt;/p&gt;
-
-&lt;p&gt;PCs should focus their fire on any shadow stalkers in Team Monster, preferrably
-with radiant and force attacks to kill them quicker.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-strangler&quot;&gt;Shadow Strangler&lt;/h3&gt;
-
-&lt;p&gt;This is a spellcaster specializing in remote shadow control. It uses the shadows
-it devours to fuel its magic, so it must feed more frequently than its
-fellows. Stranglers are Level 9 Artillery with 53 HP.&lt;/p&gt;
-
-&lt;p&gt;The Strangler’s &lt;strong&gt;shadowy touch&lt;/strong&gt; deals necrotic damage and makes invisible to
-the target for a turn. Its basic ranged attack is a spell namd &lt;strong&gt;Blinding
-Shadows&lt;/strong&gt; that deals the same amount of necrotic damage and makes the target
-unable to see further than 3 squares for a turn. Its special attack is
-&lt;strong&gt;Strangling Darkness&lt;/strong&gt; (recharge 5+) which restrains and deals ongoing 15
-damage (save ends). And finally it has an encounter power named &lt;strong&gt;Devouring
-Dark&lt;/strong&gt; that’s basically a “shadow fireball” that deals light necrotic damage and
-blinds everyone it hits for a turn.&lt;/p&gt;
-
-&lt;p&gt;Despite being artillery, stranglers are very controllery. They pair well with
-lurkers whose increased damage depends on combat advantage or on being unseen by
-their targets.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-puppeteer&quot;&gt;Shadow Puppeteer&lt;/h3&gt;
-
-&lt;p&gt;This powerful shadow has a more refined palate. It seeks to feed on the shadows
-cast by souls as they depart for the afterlife. So while the others might leave
-their victims a bit drained but alive, this one is definitely out for murder.&lt;/p&gt;
-
-&lt;p&gt;Puppeteers are Level 14 Lurkers with 74 HP. Their &lt;strong&gt;shadowy touch&lt;/strong&gt; deals extra
-damage against targets that cannot see it, and creates a zone of lightly
-obscured squares centered on the target’s space that lasts for a turn. Its
-special attak is &lt;strong&gt;Shadow Puppet&lt;/strong&gt;, which targets a creature that cannot see the
-puppeteer, deals light necrotic damage, and dominates them until they start
-their turn not adjacent to the shadow.&lt;/p&gt;
-
-&lt;p&gt;Puppeteers and stranglers have amazing synergy. If you want your PCs to sweat
-for their victory, it’s definitely worth it to adjust their levels so they’re
-closer to each other and can be included in the same encounter. Keep the
-strangler as the lower-level half of the pair to make things slightly less hard
-for them.&lt;/p&gt;
-
-&lt;p&gt;PCs fighting a puppeteer should remain mobile to avoid lingering in the darkness
-it creates, and should use forced movement powers to keep it away from potential
-domination targets. If they face the tag team described above, they should focus
-on killing the strangler first, since it frees the puppeteer from having to set
-up its lurker bonuses.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Shadows don’t usually work well with other monsters, so you’re most likely
-looking at all-shadow teams when building encounters. If you want more variety
-it might be possible to turn another monster into a shadow by changing its
-origin, halving its HP, making it insubstantial, and making its basic attack
-into a touch that targets Reflex and deals necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;The original reason shadows were scary was that they drained Strength, but here
-they’re scary because they’re &lt;em&gt;sticky&lt;/em&gt;. The basic stalker can enter your shadow
-and attack you from there until it kills you. The puppetter does the same but
-dominates you to attack your friends while it’s doing it. And the strangler
-makes it a lot easier for the other two to do their part.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/11/shadow.html</guid>
         
         <category>dnd4</category>
         
