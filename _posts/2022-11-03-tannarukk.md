@@ -37,7 +37,7 @@ it because few warriors there can match their skill and resilience in combat.
 
 Tannarukks are Medium Elemental Humanoids with the Demon and Orc keywords. They
 have Darkvision and Speed 6, along with Resist Fire 5. Their signature trait is
-**Indomitable Fury**, which kicks in when they drop for 0 HP for the first time
+**Indomitable Fury**, which kicks in when they drop to 0 HP for the first time
 in the fight. It makes them stay at 1 HP instead and gives them +2 to attacks
 and +4 to damage until the end of the encounter.
 
