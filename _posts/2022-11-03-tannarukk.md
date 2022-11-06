@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the other.
+
 This one feels like an AD&D 2nd Edition creation, as that's when they renamed
 demons as "ta'nari".
 
@@ -100,3 +102,5 @@ minions, but you'll still meet a lot of them.
 Lore-wise, I'm not sure I like them. They're more or less D&D's take on the
 Uruk-Hai, I guess, but there are a lot more opponents at this level range that
 feel cooler and less potentially problematic.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

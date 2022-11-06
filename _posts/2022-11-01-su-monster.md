@@ -15,6 +15,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the other.
+
 Su Monsters have been around at least since the AD&D Monster Manual. This is
 their 4e debut. It's likely their lore is new to this edition. They didn't seem
 to have any in the AD&D book.
@@ -121,3 +123,5 @@ saying they organize in "tribes", a term I've avoided using here.
 
 The mechanics themselves are mildly interesting, but I don't like them enough to
 use them paired with this lore.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}

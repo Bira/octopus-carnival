@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-thri-kreen.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the other.
+
 Thri-Kreen got famous as one of the playable options for AD&D's Dark Sun. This
 is their 4e debut. They would return as fully-supported playable characters in
 the 4e Dark Sun Campaign Setting, about 3 months after the publication of the
@@ -126,3 +137,5 @@ okay and a good choice once all the PCs are good and restrained.
 I love thri-kreen! Whether they're from Athas or not, I find their look
 extremely interesting, and I also liked that this generic version of their
 culture does not make them universally hostile.
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
