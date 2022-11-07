@@ -15,7 +15,7 @@ tags:
 </figure>
 {:/nomarkdown}
 
-This post is part of a series! Click [here][1] to see the other.
+This post is part of a series! Click [here][1] to see the others.
 
 Thri-Kreen got famous as one of the playable options for AD&D's Dark Sun. This
 is their 4e debut. They would return as fully-supported playable characters in

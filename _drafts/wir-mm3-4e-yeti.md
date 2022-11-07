@@ -1,0 +1,117 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Yeti"
+tags:
+    - dnd4
+    - lets-read
+---
+
+Yetis are inspired by real world folklore and I'm sure they showed up in a
+previous edition of D&D before. This seems to be their 4e debut.
+
+## The Lore
+
+D&D yeti are borderline-sapient predators adapted to live in permafrost covered
+mountains. While they usually feed on other mountain-dwelling animals, they're
+more than powerful and ferocious enough to attack people, and so everyone who
+lives near their habitat knows they exist. Learning how to recognize signs of
+yeti presence and avoid the creatures is probably a standard part of mountain
+survival training.
+
+Yetis have a well-developed sense of smell and can track prey across great
+distances. They hate the smell of rotting flesh, however, so leaving decomposed
+animal carcasses around an area can serve to keep them away. Herders also know
+to pay attention to their animals: if they grow too agitated for no apparent
+reason, it might be because they've sensed an approaching yeti.
+
+A yeti relies on its powerful muscles, sharp claws, and magic-enhanced howls to
+kill its prey. They don't really have any sort of technology or a complex
+society, but they live in bands and work very well together. They're smart
+enough to avoid large, well-armed expeditions, but they'll be on top of any
+isolated stragglers before you can say "Look out, a yeti!".
+
+## The Numbers
+
+Yeti are Medium Natural Beasts with Speed 6, Ice Walk, Resist 5 Cold and
+Low-Light Vision. Their signature encounter power is their **Fearsome Howl**, a
+Close Blast 4 vs. Will that deals psychic damage and pushes 3 squares.
+
+All of the entries here have **claws** as their basic attacks. These don't have
+any riders and are always underpowered for their level, which means they'll use
+their other attacks as much as possible. Their other attacks also tend to have
+low-ish damage, but have interesting riders. They have an Int between 9 and 11
+while still counting as Beasts, which is why I said "borderline sapient" above.
+
+Yeti encounters will most often be against an all-yeti group, as they don't
+really ally with anyone or keep pets. For variety, you can add other
+opportunistic predators, or maybe a wild cold elemental or two. Also, these
+encounters are all pretty much guaranteed to take place in treacherous frozen
+mountain paths full of ice-based difficult terrain and hazards like tall cliffs
+and snow-covered sinkholes. Every yeti has at least one forced-movement power
+available to it (Fearsome Howl), so they're likely to be more dangerous than
+their stats alone indicate.
+
+
+### Yeti Hunter
+
+Your typical roaming yeti, whose howls can be heard from miles away but don't
+really give away their position because of the way sound echoes in the
+mountains. It's a level 3 Soldier with 49 HP.
+
+The hunter's claw attack will probably only feature as part of a **Twin Claw
+Grab**, which lets it make two attacks and grab the target if both hit. It
+doesn't have any special abilities to exploit a grab, but the basic rules still
+apply. Its marking abilities are a ranged **How of Challenge** that deals
+psychic damage and marks for a turn, and a close burst **Call for Blood** that
+deals more psychic damage and marks everyone it hits (save ends).
+
+### Yeti Howler
+
+A yeti whose magic howls are more powerful than usual. Some stories say they're
+the embodiment of angry ghosts, howling against the injustice of their premature
+deaths. They're Level 4 Controllers with 58 HP.
+
+The howler's **Chilling Wail** acts as an aura (3) that deals 5 psychic damage
+and imposes a -2 defense penalty for a turn against any enemy who ends their
+turn inside. This actually brings its melee damage up to par, with a little
+extra aimed at the other PCs inside the aura. If you try to stay away from it,
+the howler will bombard you with **Hurled Boulders** that work like ranged area
+attacks dealing physical damage.
+
+In addition to their Fearsome Howl, howlers can also emit a **Piercing Shriek**
+once per encounter. This ranged attack deals thunder damage, and if the target
+ends their next turn within 5 squares of the yeti they take another 5 thunder
+damage.
+
+### Yeti Rampager
+
+This one is angrier than usual, with a more mobile fighting style. It's a Level
+5 Skirmisher with 67 HP. They have a Speed of 7.
+
+Rampagers love to charge, so they'll try to make space for those charges as
+often as possible. They'll pick a target and use their **Battle Howl** against
+it, a ranged attack that deals psychic damage and lets them charge as a free
+action on a hit. They can also just charge normally instead, if they're not
+confident of hitting the target with the howl. In either case their **Furious
+Charger** trait gives them +5 bonus damage on charges.
+
+If they're surrounded by melee PCs, howlers can use Furious Howl or **Trample**
+to get away. That last ability lets them shift their speed and make a melee
+attack that damages and knocks prone on a hit against any enemies whose spaces
+they move through during the shift.
+
+
+## Final Impressions
+
+Yeti are interesting mechanically, but they require a bit more thought on the
+part of the GM to ensure they're dealing level appropriate damage. None of them
+are the type to stand still and spam basic attacks.
+
+Lore-wise, I don't see much wrong with their lore. They're described as
+dangerous predators, and the word "savage" doesn't appear even once in this
+entry. The biggest criticism I can make is that yetis are so iconic outside D&D
+that facing one feels kinda "mundane" when compared to some of the other
+monsters available. That's just a personal taste thing, though.
+
+It wouldn't be hard to use these stat blocks for a sapient and friendlier yeti
+if that's how you want them to be in your campaign.

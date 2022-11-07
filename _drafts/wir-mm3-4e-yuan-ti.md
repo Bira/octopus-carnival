@@ -1,0 +1,204 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Yuan-ti"
+tags:
+    - dnd4
+    - lets-read
+---
+
+This post is part of a series! Click [here][1] to see the others.
+
+In a situation that's familiar to us by now, Yuan-ti would get a revamp and a
+lore infusion in the upcoming Monster Vault (and you can see how that looks like
+[here][2]), and this entry presents stat blocks that complement the ones that
+would come out in the MV.
+
+## The Lore
+
+The lore section of this page lacks the nifty creation myth from the MV entry,
+sticking to a more generic "perfidious infiltrators" profile for the yuan-ti. It
+does add a new bit, however: the snake god Zehir doesn't just want to see
+favorite people thrive in the world. His true goal to become the supreme
+authority in the cosmos. He's convinced that the universe can only withstand the
+return of the primordials if it's led by the strong hand of a single absolute
+ruler.
+
+So this means we have at least two authoritarian assholes in our current
+pantheon: Asmodeus and Zehir. Big Z's goals are not widely known in the world -
+only is most powerful and trusted servants are privy to this mystery. There are
+other gods who are aware of this but they're content to merely keep an eye on
+the snake god as long as his machinations continue to hurt their enemies. Things
+might get more heated should Zehir explicitly turn against his fellow deities.
+
+## The Numbers
+
+Yuan-ti are Medium Natural Humanoids with the Reptile keyword. They have a
+ground speed of 7, and 5/tier poison resistance.
+
+While the MM1 and Monster Vault gave us heroic and paragon stat blocks for
+snaketongue cultists and yuan-ti, the MM3 gives a bunch of high-epic stat blocks
+that apparently represent those individuals who are closest to Zehir and
+actively working towards his goal of complete world domination.
+
+There's plenty here for all sorts of all-yuan-ti encounters, but they also
+employ various sapient humanoid cultists, and make pets or allies of any
+creature who is even remotely similar to a snake.
+
+The individual stat blocks are relatively simple, making me think PCs are
+supposed to face them in large numbers. It would certainly be possible to
+downscale them to lower levels without changing much else about their stat
+blocks.
+
+### Coil of Zehir
+
+A Large yuan-ti who's almost completely snaky, its arms almost vestigial. It's a
+Level 26 Controller with 235 HP.
+
+The Coil's basic attack is a Reach 3 **Slam** that does light physical damage,
+pulls the target 2 squares, and grabs it on a hit. The Coil can only have one
+victim grabbed at a time, and it can hit them with **Crushing Coils** for an
+automatic 40 damage that also dazes them for a turn. As a minor action, it can
+use a Close Burst 3 **Tail Sweep** that does no damage and knocks targets prone.
+
+The Coil wants to grab hold of someone and squeeze them to death, using tail
+sweeps to keep would-be rescuers away. Dazed victims can still try to get away
+(Athletics DC 38 or Acrobatics DC 39), but their other options are sharply
+limited.
+
+### Yuan-ti Abomination Berserker
+
+Abominations are those 'snakier' yuan-ti with humanoid torsos but the lower
+body of a giant snake. Another Large variant, Berserkers know how to fight and
+know they shouldn't attack other yuan-ti or cultists. That's about it. The
+others treat them nicely to avoid accidents, and then point them at whoever they
+want dead. Berserkers are Level 27 Brutes with 293 HP.
+
+These creatures fight with Reach 2 **Slams** that do heavy physical
+damage. Every so often they'll spin and do a **Roundhouse Slam** (recharge 4+),
+making a basic attack against every adjacent enemy. If you hit them while
+they're bloodied, they can make a free slam against you as a reaction. Simple
+but effective.
+
+### Yuan-ti Malison Guard
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-yuan-ti-guard.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+Malisons are the more humanoid yuan-ti, still covered in scales and with snake
+heads, but otherwise humanoid. This is an elite front-line fighter who serves
+Zehir proudly despite the shame of having legs. It's a Level 27 Soldier (Leader)
+with 242 HP. It knows how to fight in formation and its **Overlapping Scales**
+aura (1) gives a +2 bonus to AC to all allies inside.
+
+Guards fight with **scimitars** and **longbows**, both of which deal decent
+damage and inflict ongoing poison damage (save ends). The scimitar marks for a
+turn on a hit.
+
+These creatures want to be in a tight formation with either other melee allies,
+or with an artillery detachment.
+
+### Yuan-ti Abomination Spitter
+
+An abomination with well-developed venom glands that produce a "blessed" venom
+far deadlier than that of a mundane snake. It's Level 27 Artillery with 186
+HP. It can **Spit Venom** out to Range 20, dealing immediate and ongoing poison
+damage on a hit. It can also **Spray Venom** (recharge 4+) on a close burst 5,
+dealing poison damage and dazing (save ends). If someone closes to melee, it can
+**bite** to deal physical damage and inflict ongoing poison damage.
+
+If an attack hits the spitter, it can flare its **Cobra Hood** as a reaction to
+gain +4 to AC for a turn.
+
+### Yuan-ti Malison Blessed
+
+An epic priest of Zehir, receiving blessings directly from the deity. It's a
+Level 28 Controller (Leader) with 250 HP.
+
+Most of the blessed's controllery effects are passive and always on. It projects
+an aura (3) of **Zehir's Favor** that allows allies inside to reroll failed
+recharge rolls. It also projects an aura (5) of **Zehir's Agony** that deals 15
+poison damage to any enemy starting their turn inside. While bloodied, the
+blessed can **Slither Away**, gaining a +2 bonus to speed and a +5 to all
+defenses.
+
+The blessed's active actions are few, but powerful. It fights with a
+**scimitar** whose strikes damage, strip poison resistance, and inflict a -2
+penalty to saves vs. poison effects (save ends both). And yes, about 90% of all
+attacks described in this MM3 entry are poison effects. Including this one.
+
+The blessed can also use **Zehir's Command** as a minor action, allowing two
+allies within 5 squares to either make a basic attack or shift their speed as a
+free action. If an enemy within 5 squares shifts, the blessed can use **Shifting
+Feet** as a reaction to slide them 2 squares.
+
+While these creatures are technically regulars, they have the action efficiency
+you'd expect from an elite.
+
+### Yuan-ti Malison Assassin
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-mm3-4e-yuan-ti-assassin.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This one has a sword and it very much wants to stab you with it so you can
+sample the many substances it put on the blade. It's sent after people who anger
+Zehir directly. It's a Level 28 Lurker with 194 HP.
+
+The assassin's basic **Longsword** deals very light damage and blinds for a turn
+on a hit. A victim who cannot see the assassin for any reason is subject to a
+**Death Strike** that deals standard physical damage, inflicts ongoing 15 poison
+damage, and imposes a -2 penalty to saves (save ends both). After the first
+failed save, the damage worsens by 5 and the save penalty by 1. Someone also
+targetted by the Blessed could be looking at a total -5 save penalty here!
+
+If a ranged or melee attack hits the assassin it can use **Shield of Zehir** to
+make sure a blind victim adjacent to it also suffers the attack's damage.
+
+### Yuan-ti Malison Stalker
+
+A relentless pursuer sent after victims who steal from Zehir's temples or commit
+other crimes against the yuan-ti people. They're Level 28 Skirmishers wtih 254
+HP. They're more or less equivalen to PC avengers.
+
+Stalkers use **greataxes** and have 5e advantage on their attacks if the target
+is the only creature adjacent to them. They can also teleport 3 squares as a
+minor action, which means they can move up to 13 squares a turn without spending
+their standard action, and they can charge someone from 20 squares away. It's
+impossible to outrun a stalker.
+
+### Molt of Zehir
+
+Literally a person-shaped bag of snakes, made from the cast-off skin of a
+yuan-ti. This apparently _just happens_ when an epic yuan-ti molts, it's not a
+conscious ritual or anything. The snakes just appear from somewhere and crawl
+inside the skin.
+
+Molts are Level 26 Minion Skirmishers. They have a basic **bite** attack and
+when they die the dispersing **Horde of Snakes** acts as a Close Burst 1 attack
+that damages and inflicts ongoing poison damage (save ends).
+
+## Final Impressions
+
+I'm not overly fond of classic yuan-ti lore these days, because it has too
+strong a whiff of "yellow peril" about it. I'd probably come up with something
+different for them if I had to.
+
+Mechanically, these creatures are kind of interesting, though each one is very
+simple. Mechanically, I think you can knock 10 or even 20 levels off them if you
+don't want your PCs to wait until the campaign's endgame to fight the snek
+people.
+
+
+[1]: {{ "/projects/mm3-4e" | relative_url }}
+[2]: {{ "/2021/02/27/yuan-ti.html" | relative_url }}

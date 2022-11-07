@@ -1,0 +1,123 @@
+---
+layout: post
+title: "Let's Read the 4e Monster Manual 3: Wilden"
+tags:
+    - dnd4
+    - lets-read
+---
+
+I believe wilden are new to 4e, first appearing in the Player's Handbook 3 as an
+option for PCs. This is their corresponding Monster Manual entry.
+
+## The Lore
+
+Wilden are the middle world's immune response to the Far Realm. They appeared
+very recently, emerging from the Feywild's deepest and most untouched natural
+environments. Theoretically, that's a reaction to an upsurge in Far Realm
+activity in the world, and it's worrying that the signs of that haven't been
+noticed by anyone else yet.
+
+Not even the wilden themselves have a clear idea of what caused them to
+emerge. The setting's youngest sapient people by far, they have an instinctual
+drive to protect nature and oppose aberrant creatures, but they have yet to form
+a unified culture and traditions of their own. Most individuals turn to other
+creatures around them for examples. For many, those come from more established
+fey peoples like elves, eladrin, and gnomes. Others turn to the beasts of the
+wild, or to more zealous spirits like dryads and treants, and end up much
+fiercer and much less sociable. Some even fall in with evil fey like fomorians,
+ending up as villainous as them.
+
+## The Numbers
+
+Wilden are Medium Fey Humanoids with a speed of 6 and low-light vision. As PCs,
+their gimmick is that they may assume one of three _aspects_ after an extended
+rest, each of which changes their appearance a bit and gives them a different
+racial power.
+
+Each of the three stat blocks in this entry belongs to a single aspect and
+carries that aspect's related power, in a version stronger than what's available
+to PCs. They're Unaligned and may represent allies, neutrals, or hostiles as
+your story requires.
+
+They're all in the low-heroic range, which means you can find NPC wilden in the
+same areas where you'd find NPC elves and gnomes. They often use wolves, spiders
+and drakes as pets, and there are many such creatures that would be
+level-appropriate for a wilden encounter.
+
+### Wilden Destroyer
+
+Wildens who adopt the aspect of the Destroyer are usually the designated
+warriors of their communities. They wield large carved wooden clubs, and every
+time they survive a battle they add a new carving to their weapons to celebrate
+it.
+
+Destroyers are Level 2 Soldiers with 39 HP. Their carved **greatclubs** damage
+and mark for a turn on a hit, and they can throw **handaxes** as basic ranged
+attacks. If an enemy marked by the destroyer tries to ignore the mark, the
+destroyer gains a +4 bonus to attack and damage that enemy during their next
+turn. If a bloodied enemy attacks the destroyer or one of the destroyer's
+adjacent allies, it can use the **Wrath of the Destroyer** encounter power to
+attack that enemy as a reaction. If this hits, the enemy becomes stunned for a
+turn.
+
+PC Wildens in Destroyer aspect can use that power too, though for them it dazes
+instead of stunning.
+
+### Wilden Hunter
+
+Wilden who adopt the Hunter aspect fulfill that role in their community, and
+also make for excellent scouts. They are Level 2 Lurkers with 33 HP. They fight
+with **shortswords** and **longbows** that just make basic attacks. All their
+interesting stuff is in their passive traits and their racial power.
+
+The passives are familiar to us by now: **Camouflage** allows them to make
+Stealth checks with only partial cover and concealment; **Sniper** lets them
+stay hidden when they miss with a ranged attack from hiding; and **Hidden Shot**
+lets them deal extra damage when they attack from hiding.
+
+Their encounter power is **Pursuit of the Hunter**, which triggers when an enemy
+ends their movement within 2 squares of the hunter. The hunter can react by
+shifting 3 squares, and for their next turn they will deal 5 extra damage with
+their attacks against that enemy, and will also ignore partial cover and
+concealment against them.
+
+PC Wilden in the Hunter aspect get a similar Pursuit power, except it deals 1d6
+extra damage instead of the fixed 5.
+
+### Wilden Ancient
+
+Wilden who adopt the aspect of the Ancients are their community's shamans and
+guides. They're called "Ancients" because their magic lets them cast their minds
+to the collective history of the Feywild and the world. When they go into these
+trances, their whole community stops to take care of them and await their
+awakening, which might bring important insights or prophecies with it.
+
+The Ancient depicted here is Level 4 Artillery with 45 HP and the Leader
+tag. It's a primal spellcaster who fights with a **spear** and with several
+combat spells. Their spear attacks are very weak but allow an ally adjacent to
+the target to make a free melee basic attack at +4 to hit.
+
+Their combat spells have varied effects: **Spectral Vine** is a basic ranged
+attack that deals physical damage and pulls 2 squares; **Rumbling Earth**
+(recharge 5+) is a ranged area attack that damages and immobilizes (save ends);
+and **Lightning Storm** (encounter) is a ranged area attack that does heavy
+lightning damage, half on a miss.
+
+Once per round as a minor action they can impart the **Wisdom of the Ancients**,
+granting them a +2 attack bonus for their next turn. And then they hit an enemy
+with an area attack, they can use their **Voyage of the Ancients** encounter
+power to teleport 3 squares and make one of the enemies they just hit grant
+combat advantage for a turn.
+
+Despite their many controllery effects, it makes sense for Ancients to be
+artillery. They want to stay safe behind a wall of bodyguards and bombard their
+enemies, not mix it up in melee like a controller might want to do.
+
+## Final Impressions
+
+I gotta say it feels a bit odd to find a low-heroic entry right after the
+high-epic Weavers, but that's just a product of the book being in alphabetic
+order.
+
+Wildens are serviceable enough as low-heroic enemies, about in line with what I
+expect from an entry dedicated to a creature that's also a PC option.
