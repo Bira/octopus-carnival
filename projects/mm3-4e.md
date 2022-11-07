@@ -137,6 +137,7 @@ entries.
 - T
   - [Tannarukk][82]
   - [Thri-kreen][83]
+  - [Tulgar][84]
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -221,3 +222,4 @@ entries.
 [81]: {{ "/2022/11/01/su-monster.html" | relative_url }}
 [82]: {{ "/2022/11/03/tannarukk.html" | relative_url }}
 [83]: {{ "/2022/11/06/thri-kreen.html" | relative_url }}
+[84]: {{ "/2022/11/07/tulgar.hml" | relative_url }}
