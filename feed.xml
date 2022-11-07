@@ -6,9 +6,177 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Nov 2022 17:56:52 +0000</pubDate>
-    <lastBuildDate>Sun, 06 Nov 2022 17:56:52 +0000</lastBuildDate>
+    <pubDate>Mon, 07 Nov 2022 21:40:50 +0000</pubDate>
+    <lastBuildDate>Mon, 07 Nov 2022 21:40:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Tulgar</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-tulgar.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
+
+&lt;p&gt;This is the first time I’m seeing this monster. If they appeared in previous
+editions, it was with a different lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Once upon a time, during the days of the Dawn War, there was a certain place in
+the world that was a major nexus of primal power, connected to a great number of
+spirits. This place was annihilated by one of the many cataclysms being thrown
+around as weapons during that war. It was not the target - it was collateral
+damage. And it was a god who pulled the trigger.&lt;/p&gt;
+
+&lt;p&gt;The spirits of that sacred site were cast into the world, rootless and
+homeless. Spirits of place without a place, their rage against the gods knew no
+bounds. In order to survive, they cast part of their spiritual nature aside and
+took on material forms made of flesh, becoming the first tulgars. And then they
+swore to destroy the gods and their servants in revenge for what was done that
+day.&lt;/p&gt;
+
+&lt;p&gt;The tulgars would soon find out that attaining their revenge was much harder
+than they thought. After the Dawn War ended, the gods retreated to their domains
+and no longer stepped into the world. Their followers very quickly grew in
+number and built complex societies that were much harder to destroy than the
+scattered fleeting villages of the War. Many of the tulgars gave up on their
+oath over the ages, and now live as bitter mercenaries. Some of them, though,
+still keep that flame of hate going and try to find ways to accomplish their
+original goal.&lt;/p&gt;
+
+&lt;p&gt;Metaphysically, a tulgar is more or less the primal equivalent of a daeva or
+rakshasa. When they die, they are immediately reincarnated elsewhere in the
+world in a new adult body, with intact memories of their previous lives. I don’t
+think they can reproduce by natural means, but they have been increasing their
+numbers. They can sense when a primal spirit loses its home or becomes hateful
+of sapient mortals or their gods, and converge to the spirit’s location to
+convince it to join their numbers.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Tulgars are Medium Natural Humanoids with a ground Speed of 7 and the Forest
+Walk trait. Their signature ability is &lt;strong&gt;Unbroken Spirit&lt;/strong&gt;, which triggers when
+they hit 0 HP and gives their nearest ally a “parting gift” of 10 temporary HP
+and a +2 to attacks, defenses, and damage that lasts for a turn.&lt;/p&gt;
+
+&lt;p&gt;All the stat blocks here present us with early-epic threats, which is
+appropriate for a people who swore vengeance on the gods and has a real shot at
+achieving this. It’s possible they would make good allies for the Forsaken,
+since they have similar goals.&lt;/p&gt;
+
+&lt;h3 id=&quot;tulgar-flesh-hunter&quot;&gt;Tulgar Flesh Hunter&lt;/h3&gt;
+
+&lt;p&gt;A hunter of sapient prey, with centuries of accumulated experience. This is a
+Level 22 Skirmisher with 209 HP. It fights with a &lt;strong&gt;Spear&lt;/strong&gt; and a &lt;strong&gt;Handaxe&lt;/strong&gt; it
+uses as a thrown weapon. Its &lt;strong&gt;On the Hunt&lt;/strong&gt; trait makes it not provoke
+opportunity attacks when it moves for a turn after hitting an enemy.&lt;/p&gt;
+
+&lt;p&gt;The flesh hunter can use &lt;strong&gt;Hunter’s Onslaught&lt;/strong&gt; to make both a spear and a
+handaxe attack against different targets on its turn. The ranged attack doesn’t
+provoke opportunity attacks when used as part of this power, and the power can
+be used in place of a basic attack during a charge! In other words, no reason to
+use a single basic attack when this is available.&lt;/p&gt;
+
+&lt;p&gt;Additionally, flesh hunters can use a &lt;strong&gt;Rotting Strike&lt;/strong&gt; (recharge 5+) to deal
+light damage and inflict ongoing necrotic damage on the target (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;tulgar-savage&quot;&gt;Tulgar Savage&lt;/h3&gt;
+
+&lt;p&gt;This unfortunately named enemy is a Level 22 Minion Brute. They have a &lt;strong&gt;spear&lt;/strong&gt;
+and a &lt;strong&gt;handaxe&lt;/strong&gt; like the flesh hunter, though it does minion-scale
+damage. Their &lt;strong&gt;Critical Threat&lt;/strong&gt; ability allows them to crit on a 19-20, and
+when they do they grant a free melee basic attack to an ally within 2 squares.&lt;/p&gt;
+
+&lt;p&gt;Oh, and they have Unbroken Spirit too, so they make a powerful contribution to
+their allies by dying.&lt;/p&gt;
+
+&lt;h3 id=&quot;tulgar-half-spirit&quot;&gt;Tulgar Half-Spirit&lt;/h3&gt;
+
+&lt;p&gt;A tulgar that keeps more of its spirit side than most others. It’s a Level 23
+Lurker with 116 HP, and it’s Insubstantial.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Claw&lt;/strong&gt; that deals minor necrotic damage and immobilizes
+for a turn. It also turns the tulgar invisible for a turn as an effect. If it
+hits someone who can’t see it, the half-spirit also dazes the target for a turn,
+so there’s your lurker loop right there. It can also throw &lt;strong&gt;handaxes&lt;/strong&gt; if no
+one is at hand.&lt;/p&gt;
+
+&lt;p&gt;When the half-spirit becomes bloodied for the first time, it &lt;strong&gt;Unleashes the
+Inner Spirit&lt;/strong&gt; (close burst 3 vs. Fortitude), dealing necrotic damage and
+stunning those it hits for a turn. The half-spirit then becomes invisible for a
+turn and teleports 5 squares.&lt;/p&gt;
+
+&lt;h3 id=&quot;tulgar-warrior&quot;&gt;Tulgar Warrior&lt;/h3&gt;
+
+&lt;p&gt;This elite combatant doesn’t care about ranged attacks, and is all about
+charging to melee and laying waste to armies. It’s a Level 23 Brute with 265
+HP. Its &lt;strong&gt;Inveterate Warrior&lt;/strong&gt; trait makes it crit on a 19-20, and deal 3d12
+extra damage on a crit. That last bit might just be a codification of its
+&lt;strong&gt;greataxe’s&lt;/strong&gt; High Crit trait, since it’s not spelled out in this stat block.&lt;/p&gt;
+
+&lt;p&gt;The warrior’s basic axe attacks also inflict a -2 AC penalty for a turn. Its
+&lt;strong&gt;Whirling Frenzy&lt;/strong&gt; maneuver is an encounter power that allows it to attack
+everyone in a Close Burst 1, shift 3 squares and repeat the burst attack once
+more against anyone who wasn’t hit by the first one.&lt;/p&gt;
+
+&lt;h3 id=&quot;tulgar-spirit-talker&quot;&gt;Tulgar Spirit Talker&lt;/h3&gt;
+
+&lt;p&gt;Some tulgars retain a stronger connection to their former spirit nature and can
+use that to cast spells. However, the other side of that connection is still
+&lt;em&gt;broken&lt;/em&gt;, and this slowly erodes their mental stability. Over time, a spirit
+talker might become unable to live in its community, and the others consider it
+a mercy to kill them so that their minds might be mended by the process of
+reincarnation.&lt;/p&gt;
+
+&lt;p&gt;Spirit Talkers are Level 24 Controllers with 225 HP. They project a &lt;strong&gt;Primal
+Barrier&lt;/strong&gt; aura (2) that makes all spaces inside difficult terrain for creatures
+without phasing or forest walk. It fights with a &lt;strong&gt;Spear&lt;/strong&gt; whose attacks make
+the target be marked by one of the tulgar’s allies within 10 squares. Its ranged
+basic attack is the &lt;strong&gt;Incite Savagery&lt;/strong&gt; spell, which deals psychic damage and
+has an interesting rider. If the target doesn’t make a melee attack on its next
+turn, it grants combat advantage until the end of its following turn. A great
+power to use on primarily &lt;em&gt;ranged&lt;/em&gt; attackers!&lt;/p&gt;
+
+&lt;p&gt;As a minor action the spirit talker can cast &lt;strong&gt;Dismissal&lt;/strong&gt; (recharge 4+), which
+targets a conjuration, summoned creature, or zone within 10 squares. It attacks
+the Will of its creator, and on a hit it causes the target effect to end! If
+there’s nothing to dispel, the spirit talker can use &lt;strong&gt;Call Spirit Warrior&lt;/strong&gt; to
+summon a tulgar minion to its side, acting right after it in initiative order.&lt;/p&gt;
+
+&lt;p&gt;Instead of Unbroken Spirit, the Spirit Talker has &lt;strong&gt;Death’s Embrace&lt;/strong&gt;, which
+works the same but makes its aura stick around as a zone with the same effects
+until the end of the encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I like the lore of the tulgars here, because you can see how they might have a
+reason for being bitter and angry. I’ll note that the stat blocks here are all
+Unaligned, which means the book might agree with me. The only thing I dislike
+here is the use of the word “savage” in both the minion’s name and the spirit
+talker’s ranged attack.&lt;/p&gt;
+
+&lt;p&gt;You can play some tulgar groups as being vengeful against the gods and perhaps
+leaning more towards Evil, but you can also portray them as people who gave up
+on that vengeance but still can never go back to what they were, which is a very
+different story. Maybe some of them might be looking for a way to become full
+spirits again, and it might be something that brings them into alliance with the
+PCs or with sympathetic NPCs.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/07/tulgar.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/07/tulgar.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Thri-Kreen</title>
@@ -1442,162 +1610,6 @@ occasional dose of disgusting barf.&lt;/p&gt;
         <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/18/slaad.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/18/slaad.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Skulk</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-skulk.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Skulks first appeared on the AD&amp;amp;D Fiend Folio. This is their 4e debut, with
-all-new lore.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Centuries ago, the human empire of Bael Turath fought a dreadful war against the
-dragonborn empire of Arkhosia. Bael Turath was never a nice place: its society
-was severely stratified, and its ruling nobles were slavers that spared little
-thought to those they enslaved. When it found itself losing the war against
-Arkhosia, those same ruling nobles did not hesitate to turn to Hell for help,
-and forged the diabolic pact that would see them and their descendants
-transformed into tieflings. We’ve seen all of this before, and we also know that
-the pact didn’t help them in the end. Bael Turath fell just the same, with the
-pact’s boon at most allowing them to take Arkhosia with them.&lt;/p&gt;
-
-&lt;p&gt;In this entry we see one of the reasons why it fell. The pact for infernal power
-excluded Bael Turath’s large enslaved population, even as it lowered the
-slavers’ guard. There was a huge rebellion where many of Bael Turath’s noble
-caste were murdered in their sleep. Some of the rebels did this to escape their
-bonds, but some did it because they were angry at being excluded from the
-infernal pact. The Demon Prince Graz’zt was impressed with the latter and
-reached out to them to offer his patronage. Those who accepted became the
-creatures known as skulks.&lt;/p&gt;
-
-&lt;p&gt;Skulks are sapient humanoids with a supernatural affinity for
-stealth. Ironically enough, they are much more indebted to their demon patron
-than modern-day tieflings are to whatever devil mutated their ancestors. This
-eternal debt is encoded in a document known as the &lt;em&gt;Book of the Blinded Eye&lt;/em&gt;,
-and it bids even present-day skulks to follow the orders of Graz’zt’s
-servants. They’re often sent out as assassins to eliminate threats to the cult
-or their demon master.&lt;/p&gt;
-
-&lt;p&gt;The skulks’ hatred of tieflings is equally eternal, and probably also enforced
-by the demonic pact. Skulks live as if Bael Turath never fell, and as if they’re
-still infiltrated behind enemy lines. Left to their own devices, they will
-pursue their original mission of murdering all tieflings. They spread along with
-the tiefling diaspora as the latter fled their fallen empire. Any present-day
-settlement that contains a sizable tiefling population is also likely to contain
-a skulk population preying on them.&lt;/p&gt;
-
-&lt;p&gt;The book paints all skulks with this demonic brush, but it would be simple to
-say only a small percentage of them are this horrible, just like only a small
-percentage of tieflings are diabolists. As with most other humanoid entries, you
-can treat this one describing the form skulk &lt;em&gt;villains&lt;/em&gt; usually take, and not as
-a species-wide portrayal.&lt;/p&gt;
-
-&lt;p&gt;I imagine non-evil skulks would simply be reclusive and wish to be left alone,
-either living in their own isolated communities or still “infiltrating” those of
-others but without trying to murder anyone.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Skulks are Medium Natural Humanoids with a ground speed of 6 and Low-Light
-Vision. Their signature trait is Stealthy Step, which exempts them from the
-Stealth penalty for moving more than 2 squares per turn or for running. All of
-the individual entries have additional stealth powers beyond that, appropriate
-to their role.&lt;/p&gt;
-
-&lt;p&gt;The entries here are appropriate threats for an early-to-mid-Heroic party. More
-powerful skulks up to epic tier certainly exist, but are left as an exercise to
-the GM.&lt;/p&gt;
-
-&lt;h3 id=&quot;skulk-mesmerist&quot;&gt;Skulk Mesmerist&lt;/h3&gt;
-
-&lt;p&gt;A spellcaster specializing in charm and illusion magic. It’s a Level 3
-Controller with 45 HP. Mesmerists fight with a &lt;strong&gt;short sword&lt;/strong&gt; and have a couple
-of active attack powers. The first is &lt;strong&gt;Luring Charm&lt;/strong&gt;, a non-damaging ranged
-attack that targets Will, slides the target 4 squares, and dazes then for a
-turn. The other is &lt;strong&gt;Mesmerize&lt;/strong&gt; (recharge 5+) a ranged attack that targets
-Will, deals psychic damage, and makes the target unable to see any enemies other
-than the mesmerist themselves (save ends).&lt;/p&gt;
-
-&lt;p&gt;As a minor action, they can also use &lt;strong&gt;Deceptive Veil&lt;/strong&gt; to look like any Medium
-or Small humanoid. Piercing the illusion requires a DC 26 Insight check, which
-is very hard even for a dedicated PC at this level. This is actually more
-powerful than the Changeling’s disguise ability, since it also allows the
-mesmerist to look like a Small humanoid.&lt;/p&gt;
-
-&lt;p&gt;Skulk Mesmerists like to kill two birds with one stone by murdering a target
-while looking like someone they want to frame for that murder. Their Veil also
-makes it possible for the GM to make an adventure where an innocent changeling
-is charged for a string of murders perpetrated by a skulk mesmerist.&lt;/p&gt;
-
-&lt;h3 id=&quot;skulk-murderer&quot;&gt;Skulk Murderer&lt;/h3&gt;
-
-&lt;p&gt;This one does what it says on the tin. Over and over and over. It’s a Level 3
-Lurker with 37 HP.&lt;/p&gt;
-
-&lt;p&gt;Aside from the standard Stealthy Step trait, the murderer also has &lt;strong&gt;Peerless
-Camouflage&lt;/strong&gt; that allows it to hide while it only has partial cover or
-concealment, and to remain hidden if it still has cover or concealment at the
-end of a movement. It also has &lt;strong&gt;Unseen Strike&lt;/strong&gt;, which lets it deal extra
-damage against targets that couldn’t see at the start of its turn.&lt;/p&gt;
-
-&lt;p&gt;The murderer fights with a &lt;strong&gt;Short sword&lt;/strong&gt; and can thrown a &lt;strong&gt;Shuriken Volley&lt;/strong&gt;
-once per encounter. This lets it make three ranged attacks, which deal a bit of
-damage and immobilize (save ends) on a hit. All of these can benefit from Unseen
-Strike.&lt;/p&gt;
-
-&lt;p&gt;When playing one of these, you want to start the fight hidden and open it with a
-Shuriken Volley. Then you alternate between re-establishing stealth and striking
-with the sword. A mesmerist in the same team as the murder makes it a lot more
-dangerous, because now the murderer doesn’t need to waste time hiding to benefit
-from Unseen Strike.&lt;/p&gt;
-
-&lt;h3 id=&quot;skulk-hunter&quot;&gt;Skulk Hunter&lt;/h3&gt;
-
-&lt;p&gt;Another stealthy killer, but this one is a Level 5 Soldier with 61 HP. It fights
-with a longsword, and even its basic attack is funny: it’s called &lt;strong&gt;Baffling
-Blade&lt;/strong&gt;, and it if hits it allows the hunter to stay hidden from the target. Its
-special attack is the &lt;strong&gt;Invisible Blade&lt;/strong&gt; (recharge 5+), which targets someone
-who can’t see the hunter, deals double damage, and inflicts ongoing 5 damage
-(save ends).&lt;/p&gt;
-
-&lt;p&gt;Both attacks mark the target as an effect, and if an enemy marked by the hunter
-shifts the hunter gets to use Baffling Blade against them.&lt;/p&gt;
-
-&lt;p&gt;Hunters also go very well with mesmerists: the mesmerist can make them invisible
-to a PC while they set up as the traditional front line preventing the PC from
-reaching the mesmerist. They can use Invisible Blade against the afflicted
-victim without having to hide, and they can also hide without having to leave
-formation.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;As I mentioned in the lore entry, I like this entry much better if I read it as
-describing the typical skulk &lt;em&gt;villain&lt;/em&gt; instead of describing the typical
-&lt;em&gt;skulk&lt;/em&gt;. Mechanically, I like how the three stat blocks synergize - they’re
-clearly meant to be used together.&lt;/p&gt;
-
-&lt;p&gt;Allied monsters might include Graz’zt cultists and minor demons. Anything that
-can make their monster buddies invisible also works really well with skulks.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/16/skulk.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/16/skulk.html</guid>
         
         <category>dnd4</category>
         
