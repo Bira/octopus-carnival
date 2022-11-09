@@ -1,10 +1,21 @@
 ---
 layout: post
-title: "Let's Read Threats to the Nentir Vale!"
+title: "Let's Read Threats to the Nentir Vale: Blackfang Gnolls"
 tags:
     - dnd4
     - lets-read
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-gnoll-bloodfang.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
 
 The Blackfang gnolls first appeared as one of the antagonist groups in the
 Thunderspire Labyrinth adventure. Here we get stats for Blackfang-specific
@@ -13,7 +24,7 @@ updated stats.
 
 ## Region: The Old Hills
 
-The Old Hills take up part of the central and northwest regions of the Vale, and
+The Old Hills take up part of the central and northeast regions of the Vale, and
 have this name because they were the first area settled by the Nerathi. Its main
 "points of light" are the dwarf hold of Hammerfast at its center and the human
 settlement of Nenlast way up in the northeast corner. The Fiveleague House inn
@@ -25,9 +36,9 @@ underground ruins that used to belong to the ancient minotaur empire of Saruun
 Khel. Go through that portal and a little ways into the underground, and you'll
 find the Seven-Pillared Hall, a community run by the Mages of Saruun, a cabal
 who's interested in profiting from trade between the people of the surface and
-the Underdark. They enforce diplomatic neutrality within the Hall, bu there's
+the Underdark. They enforce diplomatic neutrality within the Hall, but there's
 enough intrigue and backstabbing down here that it doesn't _quite_ count as a
-PoL.
+"point of light".
 
 The Hall is described in detail in the **Thunderspire Labyrinth**
 adventure. This book assumes it hasn't happened yet.
@@ -62,7 +73,7 @@ Thunderspire Labyrinth adventure, which is itself quite sandboxy.
 
 ## The Numbers
 
-The Blackfang are typical gnolls, so they're Medium Natural Humanoids and their
+The Blackfang are gnolls, so they're Medium Natural Humanoids and their
 signature ability is **Pack Attack**, giving them a +5 damage bonus against
 targets adjacent to two or more of their allies. We see several group-specific
 stat blocks below, and they combine well with the more generic gnoll stats
@@ -132,6 +143,15 @@ the pack is no longer adjacent to the target.
 
 ### Maldrick Scarmaker
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-gnoll-maldrick.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The leader of the Blackfang, fully enjoying the Butcher's Blessing. PCs will
 likely fight him inside the Well of Demons. If the GM decides to advance time
 and say he succeeded in rededicating the temple, he could also be found at the
@@ -163,3 +183,5 @@ against them.
 
 My final impression is the usual: a sarcastic "yay, more gnolls". They are very
 useful if you intend to run Thunderspire Labyrinth with updated rules.
+
+[1]: {{ "/projects/tnv" | relative_url }}

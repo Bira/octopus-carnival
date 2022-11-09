@@ -6,8 +6,20 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-bloodfire-ooze.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I'm not sure if these are from a specific adventure or if they're original. This
-is the first time I saw them.
+is the first time I saw them. They are mostly generic monsters, but there's a
+couple of Vale-specific hooks here.
 
 ## The Lore
 
@@ -56,3 +68,5 @@ a hazard or two in the battlefield.
 One more ooze type. They're thematic for infernal or abyssal cults, and might be
 a nice surprise to spring on players who load up on acid resistance when they
 hear the word "ooze".
+
+[1]: {{ "/projects/tnv" | relative_url }}

@@ -6,6 +6,20 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-tnv-boggle-hand.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
+Boggles have been in the game since 1st Edition, when they appeared on the
+Monster Manual II. This is their 4e debut.
+
 ## The Lore
 
 Boggles are mischievous humanoid fey. They've been around a very long time, and
@@ -115,6 +129,15 @@ encounter. Whenever a non-boggle enters a sweat-stained square, they
 automatically fall prone.
 
 ## Final Impressions
+
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-tnv-boggle-body.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 I like these creatures! Their lore gives them a proper fairy-tale monster feel,
 and their mechanics are flavorful and interesting. My favorite is the Reach 10
