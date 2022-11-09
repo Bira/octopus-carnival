@@ -1,0 +1,122 @@
+---
+layout: post
+title: "Let's Read Threats to the Nentir Vale: Boggle"
+tags:
+    - dnd4
+    - lets-read
+---
+
+## The Lore
+
+Boggles are mischievous humanoid fey. They've been around a very long time, and
+are actually the common ancestors to both banderhobbs and mundane goblins!
+They're sapient but not very sophisticated, and love nothing more than playing
+cruel pranks on others. They move from the Feywild to the world every time they
+find a fey crossing, because the world's mortals are so much more easily fooled.
+
+These creatures are naturally sneaky and have some capacity to bend space. It's
+common for a child to complain to their parents about a "bogeyman" who keeps
+lurking just out of sight and disappears when looked at. Parents dismiss that as
+a childhood fantasy right up until the boggle strikes. Common pranks include
+spoiling milk, tying shoelaces together, setting clothes on fire, and all the
+stuff you might have read in old real-world myths about the Fair Folk. At the
+most cruel end that does include switching infants for swaddled animals or just
+plain snatching children away. There are also some adventurer-specific pranks
+like disassembling armor and hiding the pieces, or swapping brand new weapons
+for old and rusty replacements.
+
+For all their cruelty, boggles are cowards, preferring to do their spying and
+sabotage through those mini-portals they can create. They get nervous and
+anxious when near other people, and this causes them to sweat profusely. Boggle
+sweat is a very distinctive substance, viscous and slippery like grease. It's
+resistant to fire, though. Traces of it are often confirmation that boggles are
+acting in a location.
+
+Sometimes, stronger or smarter creatures manage to coerce boggles into working
+for them. Left to their own devices, they associate only with each other.
+
+## The Numbers
+
+Boggles are an early-Heroic threat suitable for introducing PCs to the more
+fairy-tale side of fey opposition. They're Small Fey Humanoids with ground and
+climb speeds of 6, and darkvision. They also have Fire Resistance 5 from their
+weird sweat.
+
+Their signature traits are **Dimensional Window**, which allows them to make
+"remote" Thievery checks against creatures up to 10 squares away; and
+**Dimension Hop**, a move action that lets them teleport up to 3 squares. Even
+tough they're small, boggles have a long melee reach, because they hit you
+through a tiny portal. All of their individual powers are also based around this
+ability to create small dimensional windows.
+
+### Boggle Sight Stealer
+
+This is a Level 3 Lurker with 37 HP. Its basic attack is a Reach 2 **claw**, and
+its favorite move is the **Peek-a-Boo Trick** a Range 10 attack that targets
+Reflex. It does no damage, but it lets the boggle pull the target to a space
+within 2 squares of it and to grab them. The target is blinded until the grab
+ends, either by the target beating its escape DC of 13, or by the boggle being
+more than 2 squares away from the target.
+
+While the boggle is grabbing a victim, it can use a **Neck Bite** on them. This
+attacks Reflex and deals heavy physical damage, half on a miss. If the victim
+escapes the grab, the boggle can attack it with **Face Rip** as a reaction,
+automatically dealing a bit of physical damage and allowing the boggle to
+teleport 3 squares.
+
+Sight Stealers work very well against controllers and ranged strikers,
+particularly if they have buddies that can distract the other PCs from them.
+
+### Boggle Blink Trickster
+
+Blink Tricksters are Level 4 Artillery with 43 HP. They're the only artillery
+monster I've seen that lacks a ranged attack! Instead, their basic **claw** has
+a, well, boggling Reach of _10_. This is an interesting implementation because
+it means they're not actually weak in melee and need not fear opportunity
+attacks as much.
+
+In addition to the standard traits discussed above, blink tricksters can use a
+**Double Diversion Trick** to attack twice in one action. This recharges when
+they're first bloodied. And if they're damaged by a melee attack, they can
+dimension hop as a reaction once per encounter.
+
+### Boggle Chase Trickster
+
+Chase tricksters are Level 4 Skirmishers with 53 HP. Their **claws** have a more
+typical reach of 2, and they have a couple of interesting movement powers.
+
+**Foot-Snare Trick** is a minor action that can target an enemy flanked by the
+boggle. It has an automatic effect: if the target moves more than 3 squares on
+their next turn, they end that movement prone. This won't do much good against
+defenders, but it can ruin the plans of mobile strikers.
+
+**Chase Trick** is a reaction that triggers when the boggle is missed by a melee
+attack. It can shift up to 3 squares and pull the attacker along with it. This
+represents the creature tricking the attacker into chasing them, so the pull
+does provoke opportunity attacks! If the attacker ends this movement without
+taking damage, they can make a free attack against the boggle. The power
+recharges when the boggle is first bloodied. It's only worth using if the boggle
+has plenty of other buddles hanging out nearby.
+
+### Boggle Body Snatcher
+
+This is a Level 5 Controller with 61 HP. It has all standard boggle traits
+including a Reach 2 **claw** attack. Its special move is **Body Snatch**
+(recharge 4+). It's a non-damaging attacks that dominates on a hit (save ends)!
+Until the target saves against this, the boggle is removed from play, and the
+target gains a +2 bonus to hit and damage. When the effect ends the boggle
+returns to play within 5 squares of the target.
+
+In other words, this thing works exactly like a Jockey from Left 4 Dead 2,
+riding the victim and directing their movement. It's also a sweaty git: once per
+round as a minor action it can leave a **Boggle Sweat Stain** on the
+ground. Each stain occupies a square and lasts until the end of the
+encounter. Whenever a non-boggle enters a sweat-stained square, they
+automatically fall prone.
+
+## Final Impressions
+
+I like these creatures! Their lore gives them a proper fairy-tale monster feel,
+and their mechanics are flavorful and interesting. My favorite is the Reach 10
+melee attack from the blink trickster, with the body snatcher's sweat stains
+a close second.
