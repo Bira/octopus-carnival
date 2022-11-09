@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-mm3-4e-umber-hulk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2010 Wizards of the Coast
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][1] to see the other entries.
+
 MM3 Umber Hulks are in a similar situation to a lot of other monsters in the
 book. The Monster Vault would soon be released with an [updated selection of
 basic models][2], and so this one features a trio of more niche variants.
@@ -106,4 +117,5 @@ very focused in their design intent. There's one to introduce your players to
 the monster earlier, and two to make them despair after they thought they had
 left these things behind when they moved out of the middle world.
 
+[1]: {{ "/projects/mm3-4e" | relative_url }}
 [2]: {{ "/2021/01/20/umber-hulk.html" | relative_url }}

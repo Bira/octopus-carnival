@@ -139,6 +139,9 @@ entries.
   - [Thri-kreen][83]
   - [Tulgar][84]
 
+- U
+  - [Umber Hulk][85]
+
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
 [3]: {{ "/2022/05/04/apocalypse-spell.html" | relative_url }}
@@ -223,3 +226,4 @@ entries.
 [82]: {{ "/2022/11/03/tannarukk.html" | relative_url }}
 [83]: {{ "/2022/11/06/thri-kreen.html" | relative_url }}
 [84]: {{ "/2022/11/07/tulgar.hml" | relative_url }}
+[85]: {{ "/2022/11/09/umber-hulk.html" | relative_url }}

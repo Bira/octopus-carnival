@@ -6,7 +6,19 @@ tags:
     - lets-read
 ---
 
-This is an entirely original setting-specific entry!
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-barrowhaunts.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
+This is an entirely original setting-specific entry. Now this is what I'm here
+for!
 
 ## The Lore
 
@@ -36,18 +48,18 @@ binding them to the land for all eternity.
 This didn't have any obvious immediate effect, but the adventuring party did
 become more and more obsessed with the region as time went by. They kept coming
 back for more treasure, and attempted many delves into the Sword
-Barrow. Eventually their greed surpassed their skill, and they delved too deep
-into the Sword Barrow, meeting their deaths. After the ensuing TPK, they got
-back up, now fully under the effects of the curse.
+Barrow. Eventually their greed surpassed their skill. After the ensuing TPK,
+they got back up, now fully under the effects of the curse.
 
 As undead, the Barrowhaunts effectively became eternal guardians of the Grey
-Downs barrows, but they are still fully sapient and frame this duty in terms of
-their original greedy mentality. They spend their existence delving the barrows
-and moving loot around to protect it from "rivals" and "claim-jumpers", which
-means anyone wandering through their claimed territory. They savagely attack any
-intruders and add their loot to the pile. Somewhere in here is a big stash of
-all the treasure they've gathered over the ages, but no one has been able to
-find it and live to tell the tale yet.
+Downs barrows, but they frame this duty in terms of their original greedy
+mentality. They spend their existence delving the barrows and moving loot around
+to protect it from "rivals" and "claim-jumpers", which means anyone wandering
+through their claimed territory. They savagely attack any intruders and add
+their loot to the pile. Somewhere in the Downs is a big stash of all the
+treasure they've gathered over the ages, but no one has been able to find it and
+live to tell the tale yet. It might be inside the Sword Barrow, it might be
+somewhere else.
 
 The Barrowhaunts are aided in their duty by the spirits of the creatures and
 people they've killed over the ages. Many of these are hillfolk, but there are
@@ -58,7 +70,8 @@ fight hard to keep them from being destroyed.
 
 The Barrowhaunts are all specific individuals! They share in common a set of
 generic undead traits: immune to fear and disease, resist 10 necrotic,
-vulnerable 5 radiant, Darkvision. All of their other traits come from training.
+vulnerable 5 radiant, Darkvision. All of their other traits come from training
+or from their respective racial powers.
 
 The lingering spirits that accompany them are Shadow Humanoids and Beasts with
 undead traits. They're all minions but they have high damage resistance, making
@@ -171,3 +184,6 @@ Gray Downs, an area full of obscuring mist and hilly, boulder-strewn
 terrain. The Barrowhaunts have been there for centuries and are intimately
 familiar with it, and will definitely set up traps and ambushes when attacking
 intruders.
+
+
+[1]: {{ "/projects/tnv" | relative_url }}
