@@ -26,7 +26,8 @@ Boggles are mischievous humanoid fey. They've been around a very long time, and
 are actually the common ancestors to both banderhobbs and mundane goblins!
 They're sapient but not very sophisticated, and love nothing more than playing
 cruel pranks on others. They move from the Feywild to the world every time they
-find a fey crossing, because the world's mortals are so much more easily fooled.
+find a fey crossing, because the world's mortals are so much more easily fooled
+than the jaded fey of their home plane.
 
 These creatures are naturally sneaky and have some capacity to bend space. It's
 common for a child to complain to their parents about a "bogeyman" who keeps
@@ -85,9 +86,10 @@ particularly if they have buddies that can distract the other PCs from them.
 
 Blink Tricksters are Level 4 Artillery with 43 HP. They're the only artillery
 monster I've seen that lacks a ranged attack! Instead, their basic **claw** has
-a, well, boggling Reach of _10_. This is an interesting implementation because
-it means they're not actually weak in melee and need not fear opportunity
-attacks as much.
+a, well, boggling Reach of _10_, and enjoys the increased accuracy usually given
+to ranged attacks from artillery monsters. This is an interesting implementation
+because it means they're not actually weak in melee and need not fear
+opportunity attacks as much.
 
 In addition to the standard traits discussed above, blink tricksters can use a
 **Double Diversion Trick** to attack twice in one action. This recharges when
@@ -122,7 +124,7 @@ target gains a +2 bonus to hit and damage. When the effect ends the boggle
 returns to play within 5 squares of the target.
 
 In other words, this thing works exactly like a Jockey from Left 4 Dead 2,
-riding the victim and directing their movement. It's also a sweaty git: once per
+riding the victim and directing their movement. It's also extra-sweaty: once per
 round as a minor action it can leave a **Boggle Sweat Stain** on the
 ground. Each stain occupies a square and lasts until the end of the
 encounter. Whenever a non-boggle enters a sweat-stained square, they

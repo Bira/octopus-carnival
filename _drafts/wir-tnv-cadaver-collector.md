@@ -17,16 +17,16 @@ long spikes that they use to impale collected corpses for transport and
 delivery. They were commonly sent to "clear" battlefields after a battle had
 ended.
 
-Like all golems they're pretty good at performing the job they were designed for
-and at following instructions related to it, but they can't do anything else
-well. This is why no one sent them to fight in those battles. They only follow
-the orders of their current master, or those of a person who also serves that
-master.
+Like many other constructs they're pretty good at performing the job they were
+designed for and at following instructions related to it, but they can't do
+anything else well. This is why no one sent them to fight in those battles. They
+only follow the orders of their current master, or those of a person who also
+serves that master.
 
 The original recipe for cadaver collectors was repeatedly lost and rediscovered
-over the ages, and though no one in the Nentir Vale knows how to build one in
-our narrative present there are several old ones still around in the wild. Many
-of them are located somewhere within the Witchlight Fens, a swampy region in the
+over the ages. No one in the Nentir Vale knows how to build one in our narrative
+present, but there are several old ones still around in the wild. Many of them
+are located somewhere within the Witchlight Fens, a swampy region in the
 south-central Vale.
 
 When a collector's master dies it will usually fulfill the last order it was
