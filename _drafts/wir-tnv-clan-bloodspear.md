@@ -6,8 +6,9 @@ tags:
     - lets-read
 ---
 
-This is an original and Vale-specific entry using classic monsters (orcs, in
-this case).
+This post is part of a series! Click [here][1] to see the others.
+
+This is an original entry about a specific group of antagonists.
 
 ## The Lore
 
@@ -69,6 +70,15 @@ with that standard template a bit, and I'll point out when they do so.
 
 ### Bloodspear Grenadier
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-grenadier.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 The Bloodspear like their explosives! Grenadiers are Level 4 Artillery with 44
 HP. They carry 2 **handaxes** to fight in melee or to throw, and 4 **fire
 bombs** that act as area burst 1 attacks and deal fire damage. Once per
@@ -86,6 +96,15 @@ might want to add a feature like a supply cart to the battlefield that would
 allow them to reload, and would also be very flammable.
 
 ### Bloodspear Krull
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-krull.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Krulls are named after a famous 80s fantasy movie that featured a weapon called
 a Glaive, because they are Bloodspear martial artists who specialize in
@@ -108,6 +127,15 @@ Sweep one last time.
 
 ### Bloodspear Ogrillon
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-ogrillon.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Orgillons are half-orc/half-ogres. They're smaller and smarter than a full ogre,
 and almost as strong. These are Level 5 Elite Brutes with 156 HP.
 
@@ -115,7 +143,7 @@ Orgillons fight bare-handed. Their **slams** do strong physical damage, and do
 bonus damage against prone targets. On a critical hit, they knock the target
 prone as well. As elites they can make **Double Attacks**. They lack a Demise
 ability, but their **Brutish Retaliation** allows them to use a slam against an
-enemy in reach that hits them with a random or area attack as a reaction. This
+enemy in reach that hits them with a ranged or area attack as a reaction. This
 sounds a bit redundant when these attacks already provoke opportunity attacks,
 but it at least lets the ogrillon save their opportunity action to attack
 someone else. Or to hit the offender again when they try to move away after
@@ -132,6 +160,15 @@ second free attack against that target.
 They have the standard **Savage Demise** ability as well.
 
 ### Bloodspear Half-Troll
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-half-troll.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Like ogrillons, half-trolls are smaller and smarter than their troll parent, and
 almost as strong. They also retain the infamous trollish regeneration
@@ -171,6 +208,15 @@ damage and knocks prone.
 
 ### Queen Msuga
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-msuga.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Msuga is a Level 10 Elite Soldier with the Leader keyword and 212 HP. Her usual
 speed of 6 becomes 8 when she charges. If the PCs fight her, she will surely be
 alongside her sister Rohka and a sizable honor guard.
@@ -189,6 +235,15 @@ When Msuga drops to 0 HP, **Queen's Demise** allows her or an ally within 10
 squares to use a standard action for free.
 
 ### Rohka the Blood Witch
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-tnv-clan-bloodspear-rohka.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 As mentioned above, Rohka is most likely to be found alongside her sister Msuga,
 and accompanied by a sizable honor guard besides. She is a Level 10 Elite
@@ -218,3 +273,5 @@ the standard orc stats in the MV gives you enough opposition to last you the
 whole Heroic tier. The book still uses the word "savage" a little too often for
 my tastes, and there's the "vile half-breeds" thing, but I intend to change this
 if I ever use them in a game.
+
+[1]: {{ "/projects/tnv" | relative_url }}

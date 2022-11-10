@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-cadaver-collector.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I'm pretty sure I saw these in a 3e supplement somewhere, but there's a nifty
 bonus stat block here that ties them to the Nentir Vale.
 
@@ -111,3 +122,5 @@ I like the addition of Gokof to this entry. It helps establish a concrete
 situation where cadaver collectors appear in the Nentir Vale. It's more than
 even most other setting-specific monster books do. Those usually just say "these
 monsters exist in this setting".
+
+[1]: {{ "/projects/tnv" | relative_url }}

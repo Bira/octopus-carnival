@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-calastryx.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 When someone in the Nentir Vale points behind you and shouts "Look out, a
 three-headed dragon!" you should _always look_.
 
@@ -124,3 +135,5 @@ and get them onboard as allies against Calastryx when she finally awakens. I
 mean, your typical dragon already doesn't have a great track record of treating
 its kobold lackeys very well, and Calastryx is even less inclined to do so no
 matter the size of the tribute they present her with.
+
+[1]: {{ "/projects/tnv" | relative_url }}

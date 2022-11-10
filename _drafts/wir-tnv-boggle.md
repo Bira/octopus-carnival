@@ -145,3 +145,5 @@ I like these creatures! Their lore gives them a proper fairy-tale monster feel,
 and their mechanics are flavorful and interesting. My favorite is the Reach 10
 melee attack from the blink trickster, with the body snatcher's sweat stains
 a close second.
+
+[1]: {{ "/projects/tnv" | relative_url }}
