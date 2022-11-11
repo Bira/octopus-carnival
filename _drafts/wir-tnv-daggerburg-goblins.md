@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-daggerburg-goblins.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 Goblins have always been in the game, as we already know. This is a specific
 group of them operating in the southern regions of the Vale.
 
@@ -15,25 +26,24 @@ Between the Witchlight Fens and the Harken Forest, roughly on the south-central
 region of the Vale, there is a hidden fort named Daggerburg. It belongs to a
 large band of goblin brigands, who ride out of it to raid and pillage the
 surrounding area. Their operation is quite successful because they're far away
-from the "backyards" of more powerful monsters, and because their very diverse
+from the territories of more powerful monsters, and because their very diverse
 membership has been extensively trained in guerrilla tactics by their leader
 Delderosh.
 
 The band also includes a number of remarkable individuals beyond Delderosh
 himself. There's Kabo Bomble, a massive bruiser nearly twice the size of a
-typical goblin; and there are the Mistmane Bugbears, a group/cult who trains in
-a particular fighting style combining unarmed combat and necromantic magic.
+typical goblin; and there are the Mistmane Bugbears, a cult who trains in a
+particular fighting style combining unarmed combat and necromantic magic.
 
-Despite accepting the Mistmanes as members, Delderosh really hates enemy
-spellcasters and likes collecting their eyeballs as trophies. He probably has
-some of that hate saved for the necromancer Gokof (from the Cadaver Collector
-entry), which would explain why he keeps his distance. Delderosh seems to keep
-plenty of other mages in his band, though.
+Delderosh really hates enemy spellcasters and likes collecting their eyeballs as
+trophies. He likes spellcasters just fine when they're working for him, though,
+which is why he's allied to the necromancer Gokof (from the Cadaver Collector
+entry).
 
 The Daggerburg goblins have become more daring of late, and have been pushing
 deeper into the Harkenwold region north of the Harken forest, even going so far
-as to attack settlements. However they haven't yet worked up the courage to
-strike at the Woodsinger elves who also live in the same region.
+as to raid settlements. However they haven't yet worked up the courage to strike
+at the Woodsinger elves who also live in the same region.
 
 ## The Numbers
 
@@ -66,7 +76,7 @@ rider rolls initiative. Their reach 1 **Bite** damages and inflicts ongoing 5
 damage (save ends).
 
 A lot of the people who could use battle worgs as mounts in this entry are
-higher level than them, but it's a simple enough task to level the worgs up to
+higher level than them, but it's a simple enough task to level up the worgs to
 match their riders if you want them to last longer in the fight.
 
 ### Daggerburg Ruffian
@@ -191,9 +201,10 @@ once.
 ### Kabo Bomble
 
 One of the Daggerburg gang's champions, Kabo Bomble is a giant of a goblin,
-twice as tall as the typical member of the species and well into Medium size. He
-fights with a morningstar in one hand and a spiked gauntlet in the other. Kabo
-is a Level 9 Brute with 116 HP. He has both Combat Adept and Daggerburg Tactics.
+twice as tall as the typical member of the species. This puts him well into
+Medium size. He fights with a morningstar in one hand and a spiked gauntlet in
+the other. Kabo is a Level 9 Brute with 116 HP. He has both Combat Adept and
+Daggerburg Tactics.
 
 Kabo's **morningstar** and **gauntlet** do about the same damage, with the first
 being a basic attack and the second targetting Reflex and dazing for a turn on a
@@ -208,6 +219,15 @@ Will of all enemies in a Close Burst 2 and inflicting a -2 defense penalty on a
 hit (save ends).
 
 ### Warlord Delderosh
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-daggerburg-delderosh.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Delderosh is the leader of the Daggerburg Goblins, and is likely to be found
 leading their biggest raids or at the center of Daggerburg itself surrounded by
@@ -233,3 +253,13 @@ from the thing's traits, but you'll likely need to increase the level of his
 personal mount from the base 5. Everyone else in the encounter where he appears
 should have Combat Adept to maximize the benefit they get from his initiative
 bonus.
+
+## Final Impressions
+
+The Daggerburg goblins don't differ much in concept from the "generic" band of
+goblin brigands, but they're a very nice worked example of the trope, with
+several memorable named NPCs. They also show us how to stretch classic
+goblinoids into a threat that can keep PCs occupied for the whole of the heroic
+tier.
+
+[1]: {{ "/projects/tnv" | relative_url }}
