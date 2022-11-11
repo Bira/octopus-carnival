@@ -6,9 +6,159 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Nov 2022 11:47:40 +0000</pubDate>
-    <lastBuildDate>Fri, 11 Nov 2022 11:47:40 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Nov 2022 11:50:36 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Nov 2022 11:50:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Verbeeg</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-verbeeg.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;From what I’ve been able to find out, verbeegs have been in the game since the
+days of AD&amp;amp;D 1st Edition, first appearing in the Monster Manual II. This means
+the game had already run out of synonyms for “Giant” even back then, since their
+name is just a scrunched up form of “Very Big”. This is their 4e debut, with
+somewhat new lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Verbeegs are a species of small-g giants who live in the same places of the
+middle world and the Feywild where you might find hill giants and ogres. The
+typical verbeeg is a lazy and greedy trickster who wants to make others work to
+keep them in a life of luxury. Their great size and strength helps with this,
+but they prefer to use their smarts and trickery to get what they want. Even
+when the con is harder than plain robbery, it’s also often more fun for them.&lt;/p&gt;
+
+&lt;p&gt;An example tale here is that of a verbeeg who set up at a river bridge and began
+charging a toll. The toll was expensive, but the giant promised to only collect
+it when the traveller came back to their side of the river. Travellers would lie
+and promise they’d pay, and when they were in the middle of crossing the bridge
+the verbeeg would lift the entire thing and tilt it towards himself, causing the
+victim to slide back. “You promised, now pay up!”&lt;/p&gt;
+
+&lt;p&gt;A strong verbeeg leader might be able to form a gang with several of his
+fellows, increasing the scale of their racket. Verbeegs also find it easy to
+take control of nearby groups of ogres and even hill giants, since their
+intellectual limitations make them easy to fool. A verbeeg band in charge of a
+larger ogre or giant band can be a threat to their whole region.&lt;/p&gt;
+
+&lt;p&gt;Verbeegs aren’t very big on fighting, despite being giants. They’ll avoid it for
+as long as possible, preferring to throw minions at the problem or to use
+trickery to escape and misdirect. If a battle is unavoidable, they favor mobile
+and stealthy tactics and combat styles.&lt;/p&gt;
+
+&lt;p&gt;Contrary to all expectations, verbeegs do have a code of honor they always
+follow. It consists of two rules: 1) never give a sucker an even break and 2)
+always keep your word. They can try to twist the wording of a promise quite far
+and add all sorts of clauses before committing to it, but once they do they must
+keep it.&lt;/p&gt;
+
+&lt;p&gt;I imagine you can make groups of non-hostile verbeegs with the same ease you
+could make groups of other friendly giants. In that case, the description above
+would apply to the ones you fight, not to the species as a whole.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Verbeegs are Large Fey Humanoids with the Giant keyword, even though their
+origin has nothing to do with primordials or capital-G Giants. They have a Speed
+of 8 and Low-Light Vision. Their signature trait is the hilarious &lt;strong&gt;Verbeeg
+Stealth&lt;/strong&gt;, which allows them to hide and use the Stealth rules as long as even
+as single square they occupy counts as providing total cover or concealment.&lt;/p&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-verbeeg-elephant.png&quot;/&gt;
+  &lt;figcaption&gt;
+    It's surprisingly effective if you're not expecting it.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;verbeeg-rowdy&quot;&gt;Verbeeg Rowdy&lt;/h3&gt;
+
+&lt;p&gt;The typical verbeeg ne’er-do-well, of the kind you can find operating alone or
+in command of a gang of ogre patsies. In larger bands they make up the
+rank-and-file. It’s a Level 9 Skirmisher with 99 HP. It wears hide, carries a
+shield, and wields a Reach 2 &lt;strong&gt;spear&lt;/strong&gt; in battle.&lt;/p&gt;
+
+&lt;p&gt;The spear can be used for basic attacks and for a &lt;strong&gt;Skewering Strike&lt;/strong&gt; that
+deals more damage and slides the target 5 squares to a position within 2 squares
+of the verbeeg. Perfect for getting those pesky defenders out of the way. All of
+these deal bonus damage if the rowdy has combat advantage against the target.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Bounding Maneuver&lt;/strong&gt; as an at-will move action, which
+cancels any marks on them and allows them to shift 3 squares and to pass through
+enemy spaces while doing so.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Cunning Trick&lt;/strong&gt; minor action (recharge 5+) is a reach 3 attack vs. Will
+that does no damage and knocks the target prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;If a rowdy has to fight, it’s not gonna stay still, and it’s going to focus on
+knocking people down and skewering them with its spear before bounding away to
+safety.&lt;/p&gt;
+
+&lt;h3 id=&quot;verbeeg-ringleader&quot;&gt;Verbeeg Ringleader&lt;/h3&gt;
+
+&lt;p&gt;The sort of individual you might fight running a gang of other verbeegs and
+dumber lackeys, and the one responsible for coming up with their verbeeg
+plans. It’s Level 11 Artillery with the Leader tag and 91 HP.&lt;/p&gt;
+
+&lt;p&gt;Ringleaders are warlord-types and project an aura of &lt;strong&gt;Cunning Insight&lt;/strong&gt; (5)
+that gives bonus damage to an ally that has combat advantage against their
+target. They carry &lt;strong&gt;Spears&lt;/strong&gt; but prefer to stay away and use their
+&lt;strong&gt;Longbows&lt;/strong&gt;, whose basic attacks make the target grant combat advantage for a
+turn. &lt;strong&gt;Distracting Shot&lt;/strong&gt; (recharge 5+) and also gives an ally in reach a free
+melee attack against the target.&lt;/p&gt;
+
+&lt;p&gt;Finally, the very flavorful &lt;strong&gt;Get Them!&lt;/strong&gt; encounter power allows three allies
+within 5 squares of the ringleader to make a charge attack for free.&lt;/p&gt;
+
+&lt;h3 id=&quot;verbeeg-trickster&quot;&gt;Verbeeg Trickster&lt;/h3&gt;
+
+&lt;p&gt;This one manage to score a spellbook or two and learn some combat magic. It’s a
+Level 11 Controller with 115 HP. Their &lt;strong&gt;spear&lt;/strong&gt; strikes knock the target prone
+on a hit, and they have four spells:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Staggering Bolt&lt;/strong&gt; is a ranged attack that deals force damage and slides the
+target 1 square; &lt;strong&gt;Blinding Blast&lt;/strong&gt; (close blast 5 vs. Fort, recharge 5+) deals
+light radiant damage and blinds for a turn; &lt;strong&gt;Bewildering Bolt&lt;/strong&gt; (encounter)
+deals psychic damage and prevents the target from attacking (save ends); and
+&lt;strong&gt;Concealing Mist&lt;/strong&gt; (encounter) creates a zone of mist in a close burst 2. The
+zone is lightly obscured, and gives any verbeeg that starts their turn inside
+combat advantage against every enemy outside the zone.&lt;/p&gt;
+
+&lt;p&gt;Tricksters want to set their mist zone up and stay inside while they shoot at
+the PCs outside it with their spells. Staggering bolt helps keep them outside,
+and Bewildering Bolt is excellent to shut down controllers or ranged strikers
+for a while. IF there’s a ringleader in the same encounter they’ll also want to
+stay inside the mist.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Surprisingly personable and very big fey rascals. I wouldn’t want to make the
+entire species fit the stereotype, but verbeeg bandits are a nice surprise to
+spring on players who expect the giants plaguing the land to be dumb brutes
+incapable of subtlety. Add 4 levels or so to the stat blocks present here and
+you can upgrade their underlings from ogres to hill giants.&lt;/p&gt;
+
+&lt;p&gt;You can have lots of fun as a GM if you have your party fight a verbeeg bandit
+gang on a series of hilltops crowned by standing stones. It’s both a very
+fey-themed arena, and gives them plenty of hiding places. “These guys are ten
+feet tall, how could they sneak up on us like that?!”&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/11/verbeeg.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/11/verbeeg.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Umber Hulk</title>
@@ -1480,128 +1630,6 @@ carrying his staff around like that. Better talk fast!&lt;/p&gt;
         <category>dungeon-fantasy</category>
         
         <category>dnd</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the Monster Manual 3: Spawn of Kyuss</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;The Spawn of Kyuss were introduced in the Age of Worms adventure path,
-originally published in Dungeon Magazine in 2005-2006, when it was run by
-Paizo. Some of Kyuss’ most powerful servants were reprinted in the Elder Evils
-supplement for 3.5e, and later got conversion stats in an early 4th edition web
-enhancement file. This means this is technically not the Spawn’s 4e debut, but
-it is the first time we get complete lore and lower-than-epic stats for them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;In ancient times, Kyuss was a mortal magician and a charismatic cult leader, who
-led his followers to a remote jungle region in order to establish a base. There,
-he found ruins from an even more ancient pre-human civilization. With the
-knowledge he learned from those ruins, the cultist sacrificed his followers in a
-ritual to become a giant undead demigod whose body was made out of bright green
-worms. The Worm that Walks spent a long time imprisoned outside the world, but
-the prophecy of the Age of Worms foretells that he will return and devour the
-world in what is basically a worm-fueled zombie apocalypse.&lt;/p&gt;
-
-&lt;p&gt;The Spawn of Kyuss are undead created by infecting corpses with worms plucked
-from his own body. They’re easily distinguished by the wriggling mass of green
-worms crawling all over them, inside and outside. They’re Kyuss’ agents in the
-world and their presence presages his return. Even if the Worm’s return is not
-imminent, these creatures might still be found performing some task that
-furthers their patron’s interests, whether by themselves or allied with
-cultists.&lt;/p&gt;
-
-&lt;p&gt;The first Spawn were Kyuss’ original followers, sacrificed in that first
-ritual. Making new ones is a matter of performing a simple worm transplant from
-a spawn to an available body, living or dead. The ones listed here are not
-particularly smart, but it’s worth remembering that &lt;a href=&quot;/octopus-carnival/2020/06/21/larva-mage.html&quot;&gt;Larva Mages&lt;/a&gt; are also
-the spawn of Kyuss.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three varieties of Spawn here, all suitable as threats to Paragon-tier
-parties. They’re Medium Natural Animates with a Speed of 5 and Darkvision, plus
-the usual undead traits: immunity to disease and poison, a resistance to
-necrotic damage, and a vulnerability to radiant damage. They’re also vulnerable
-to fire - it burns the worms right up.&lt;/p&gt;
-
-&lt;p&gt;All of the spawn here can also transmit the Touch of Kyuss, which is basically
-an infestation of evil supernatural worms. It’s treated as a Level 16 disease
-resisted with Endurance (DC 25 to improve or 20 to maintain). Stage 1 makes the
-victim regain only half hit points from spending healing surges, and causes them
-to rise as wretches of Kyuss if they die. Stage 2 causes them to lose 2 healing
-surges, and if they ever reach 0 surges they die and rise as Sons of
-Kyuss. Stage 3 cuts to the chase and kills the victim right away so it can rise
-as a Son.&lt;/p&gt;
-
-&lt;h3 id=&quot;son-of-kyuss&quot;&gt;Son of Kyuss&lt;/h3&gt;
-
-&lt;p&gt;These things look like zombies at a first glance, but they’re sapient and much
-stronger. Their goal is to usually spread the “blessing” of Kyuss to as many
-living people as they can. Though they’re not exactly geniuses at Int 6, they
-can and will coordinate in order to accomplish it.&lt;/p&gt;
-
-&lt;p&gt;Sons of Kyuss are Level 13 Brutes with 158 HP. They project a &lt;strong&gt;Fear of Worms&lt;/strong&gt;
-aura which inflicts a -2 attack penalty to living creatures inside. Their basic
-attack is a &lt;strong&gt;Slam&lt;/strong&gt; that damages and exposes the target to the Touch of
-Kyuss. It can also “shoot” &lt;strong&gt;Burrowing Worms&lt;/strong&gt; in a Close Burst 1 (recharge
-5+). A hit inflicts 10 ongoing damage, increasing to 15 on the first failed save
-and to 20 plus stun on the second. If someone dies from this they immediately
-rise as a wretch of Kyuss (see below). The wretch must be destroyed before the
-victim can be raised.&lt;/p&gt;
-
-&lt;h3 id=&quot;wretch-of-kyuss&quot;&gt;Wretch of Kyuss&lt;/h3&gt;
-
-&lt;p&gt;An undead creature with a lower worm content than a full Son of Kyuss. It’s less
-sturdy but still quite dangerous and quite contagious, being a Level 13 Minion
-Brute. Its &lt;strong&gt;Slam&lt;/strong&gt; deals light necrotic damage, and when it dies it bursts,
-inflicting necrotic damage in a Close Burst 1 and exposing anyone hit by this
-attack to the Touch of Kyuss.&lt;/p&gt;
-
-&lt;h3 id=&quot;herald-of-kyuss&quot;&gt;Herald of Kyuss&lt;/h3&gt;
-
-&lt;p&gt;These undead abomination were created from the bodies of angels sent by the gods
-to stop the Worm that Walks. They’re Medium Immortal Animates (undead), and have
-all the same traits as the other spawn. Also, they can fly at speed 6.&lt;/p&gt;
-
-&lt;p&gt;The Herald is a Level 16 Artillery monster with 116 HP. They have the same Fear
-of Worms aura as the Son, plus a &lt;strong&gt;Writhing Host&lt;/strong&gt; aura of the same size that
-deals 10 necrotic damage to enemies caught inside. All of their attacks expose
-the target to the Touch of Kyuss on a hit, making them the most contagious spawn
-of all.&lt;/p&gt;
-
-&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Rotting Caress&lt;/strong&gt; that deals necrotic
-damage. They can attack at range by making &lt;strong&gt;Writhing Pronouncements&lt;/strong&gt; that deal
-immediate and ongoing 5 necrotic damage. This worsens to 10 and a daze on the
-first failed save, and to 15 and a stun on the second (save ends). People killed
-by this turn into wretches of Kyuss, which must be destroyed before the victims
-can be raised.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can call an &lt;strong&gt;Eruption of Maggots&lt;/strong&gt; that acts as a
-disgusting fireball-sized area attack. It deals immediate and ongoing necrotic
-damage, and also creates a damaging zone that lasts for the rest of the
-encounter.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Ewwww. Kill these with fire as soon as possible. If your GM is re-enacting the
-Age of Worms campaign, you can expect to run into these things very often. Their
-main gimmick is all about infecting people with the Touch of Kyuss, so PCs can
-expect to stop and cast Remove Affliction more or less after every fight unless
-they’re under extreme time pressure. Stage 1 is already a major debuff, and
-staying at Stage 2 is a serious gamble.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/21/spawn-of-kyuss.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/21/spawn-of-kyuss.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
