@@ -142,6 +142,9 @@ entries.
 - U
   - [Umber Hulk][85]
 
+- V
+  - [Verbeeg][86]
+
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
 [3]: {{ "/2022/05/04/apocalypse-spell.html" | relative_url }}
@@ -227,3 +230,4 @@ entries.
 [83]: {{ "/2022/11/06/thri-kreen.html" | relative_url }}
 [84]: {{ "/2022/11/07/tulgar.hml" | relative_url }}
 [85]: {{ "/2022/11/09/umber-hulk.html" | relative_url }}
+[86]: {{ "/2022/11/11/verbeeg.html" | relative_url }}
