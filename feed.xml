@@ -6,9 +6,145 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2022 15:04:07 +0000</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2022 15:04:07 +0000</lastBuildDate>
+    <pubDate>Fri, 18 Nov 2022 13:37:32 +0000</pubDate>
+    <lastBuildDate>Fri, 18 Nov 2022 13:37:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Wilden</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-wilden.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I believe wilden are new to 4e, first appearing in the Player’s Handbook 3 as an
+option for PCs. This is their corresponding Monster Manual entry.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Wilden are the middle world’s immune response to the Far Realm. They appeared
+very recently, emerging from the Feywild’s deepest and most untouched natural
+environments. Theoretically, that’s a reaction to an upsurge in Far Realm
+activity in the world, and it’s worrying that the signs of that haven’t been
+noticed by anyone else yet.&lt;/p&gt;
+
+&lt;p&gt;Not even the wilden themselves have a clear idea of what caused them to
+emerge. The setting’s youngest sapient people by far, they have an instinctual
+drive to protect nature and oppose aberrant creatures, but they have yet to form
+a unified culture and traditions of their own. Most individuals turn to other
+creatures around them for examples. For many, those come from more established
+fey peoples like elves, eladrin, and gnomes. Others turn to the beasts of the
+wild, or to more zealous spirits like dryads and treants, and end up much
+fiercer and much less sociable. Some even fall in with evil fey like fomorians,
+ending up as villainous as them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Wilden are Medium Fey Humanoids with a speed of 6 and low-light vision. As PCs,
+their gimmick is that they may assume one of three &lt;em&gt;aspects&lt;/em&gt; after an extended
+rest, each of which changes their appearance a bit and gives them a different
+racial power.&lt;/p&gt;
+
+&lt;p&gt;Each of the three stat blocks in this entry belongs to a single aspect and
+carries that aspect’s related power, in a version stronger than what’s available
+to PCs. They’re Unaligned and may represent allies, neutrals, or hostiles as
+your story requires.&lt;/p&gt;
+
+&lt;p&gt;They’re all in the low-heroic range, which means you can find NPC wilden in the
+same areas where you’d find NPC elves and gnomes. They often use wolves, spiders
+and drakes as pets, and there are many such creatures that would be
+level-appropriate for a wilden encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;wilden-destroyer&quot;&gt;Wilden Destroyer&lt;/h3&gt;
+
+&lt;p&gt;Wildens who adopt the aspect of the Destroyer are usually the designated
+warriors of their communities. They wield large carved wooden clubs, and every
+time they survive a battle they add a new carving to their weapons to celebrate
+it.&lt;/p&gt;
+
+&lt;p&gt;Destroyers are Level 2 Soldiers with 39 HP. Their carved &lt;strong&gt;greatclubs&lt;/strong&gt; damage
+and mark for a turn on a hit, and they can throw &lt;strong&gt;handaxes&lt;/strong&gt; as basic ranged
+attacks. If an enemy marked by the destroyer tries to ignore the mark, the
+destroyer gains a +4 bonus to attack and damage that enemy during their next
+turn. If a bloodied enemy attacks the destroyer or one of the destroyer’s
+adjacent allies, it can use the &lt;strong&gt;Wrath of the Destroyer&lt;/strong&gt; encounter power to
+attack that enemy as a reaction. If this hits, the enemy becomes stunned for a
+turn.&lt;/p&gt;
+
+&lt;p&gt;PC Wildens in Destroyer aspect can use that power too, though for them it dazes
+instead of stunning.&lt;/p&gt;
+
+&lt;h3 id=&quot;wilden-hunter&quot;&gt;Wilden Hunter&lt;/h3&gt;
+
+&lt;p&gt;Wilden who adopt the Hunter aspect fulfill that role in their community, and
+also make for excellent scouts. They are Level 2 Lurkers with 33 HP. They fight
+with &lt;strong&gt;shortswords&lt;/strong&gt; and &lt;strong&gt;longbows&lt;/strong&gt; that just make basic attacks. All their
+interesting stuff is in their passive traits and their racial power.&lt;/p&gt;
+
+&lt;p&gt;The passives are familiar to us by now: &lt;strong&gt;Camouflage&lt;/strong&gt; allows them to make
+Stealth checks with only partial cover and concealment; &lt;strong&gt;Sniper&lt;/strong&gt; lets them
+stay hidden when they miss with a ranged attack from hiding; and &lt;strong&gt;Hidden Shot&lt;/strong&gt;
+lets them deal extra damage when they attack from hiding.&lt;/p&gt;
+
+&lt;p&gt;Their encounter power is &lt;strong&gt;Pursuit of the Hunter&lt;/strong&gt;, which triggers when an enemy
+ends their movement within 2 squares of the hunter. The hunter can react by
+shifting 3 squares, and for their next turn they will deal 5 extra damage with
+their attacks against that enemy, and will also ignore partial cover and
+concealment against them.&lt;/p&gt;
+
+&lt;p&gt;PC Wilden in the Hunter aspect get a similar Pursuit power, except it deals 1d6
+extra damage instead of the fixed 5.&lt;/p&gt;
+
+&lt;h3 id=&quot;wilden-ancient&quot;&gt;Wilden Ancient&lt;/h3&gt;
+
+&lt;p&gt;Wilden who adopt the aspect of the Ancients are their community’s shamans and
+guides. They’re called “Ancients” because their magic lets them cast their minds
+to the collective history of the Feywild and the world. When they go into these
+trances, their whole community stops to take care of them and await their
+awakening, which might bring important insights or prophecies with it.&lt;/p&gt;
+
+&lt;p&gt;The Ancient depicted here is Level 4 Artillery with 45 HP and the Leader
+tag. It’s a primal spellcaster who fights with a &lt;strong&gt;spear&lt;/strong&gt; and with several
+combat spells. Their spear attacks are very weak but allow an ally adjacent to
+the target to make a free melee basic attack at +4 to hit.&lt;/p&gt;
+
+&lt;p&gt;Their combat spells have varied effects: &lt;strong&gt;Spectral Vine&lt;/strong&gt; is a basic ranged
+attack that deals physical damage and pulls 2 squares; &lt;strong&gt;Rumbling Earth&lt;/strong&gt;
+(recharge 5+) is a ranged area attack that damages and immobilizes (save ends);
+and &lt;strong&gt;Lightning Storm&lt;/strong&gt; (encounter) is a ranged area attack that does heavy
+lightning damage, half on a miss.&lt;/p&gt;
+
+&lt;p&gt;Once per round as a minor action they can impart the &lt;strong&gt;Wisdom of the Ancients&lt;/strong&gt;,
+granting them a +2 attack bonus for their next turn. And then they hit an enemy
+with an area attack, they can use their &lt;strong&gt;Voyage of the Ancients&lt;/strong&gt; encounter
+power to teleport 3 squares and make one of the enemies they just hit grant
+combat advantage for a turn.&lt;/p&gt;
+
+&lt;p&gt;Despite their many controllery effects, it makes sense for Ancients to be
+artillery. They want to stay safe behind a wall of bodyguards and bombard their
+enemies, not mix it up in melee like a controller might want to do.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I gotta say it feels a bit odd to find a low-heroic entry right after the
+high-epic Weavers, but that’s just a product of the book being in alphabetic
+order.&lt;/p&gt;
+
+&lt;p&gt;Wildens are serviceable enough as low-heroic enemies, about in line with what I
+expect from an entry dedicated to a creature that’s also a PC option.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/18/wilden.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/18/wilden.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Weaver</title>
@@ -1607,143 +1743,6 @@ book. The previous ones were Imix, Lolth, and Ogrémoch.&lt;/p&gt;
         <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Spider</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Not only have monstrous spiders been in the game since the beginning, they’ve
-been on every monster book we read so far. The MM3 is no exception in this
-case.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-monsters&quot;&gt;The Monsters&lt;/h2&gt;
-
-&lt;p&gt;Looks like the Web Walk trait was a &lt;a href=&quot;/octopus-carnival/2021/01/05/spider.html&quot;&gt;Monster Vault&lt;/a&gt; innovation. The spiders
-in the MM3 don’t have it, but it would make sense for them to do so. They do
-already use fixed math, like the other monsters in this book.&lt;/p&gt;
-
-&lt;p&gt;All spiders here have a climb speed equal to their ground speed, with the Spider
-Climb keyword to signal that they can also walk on ceilings. They also have
-Tremorsense 5.&lt;/p&gt;
-
-&lt;h2 id=&quot;ambush-spider&quot;&gt;Ambush Spider&lt;/h2&gt;
-
-&lt;p&gt;Sometimes you have to go back to basics, and you can’t get any more basic than
-this. These Medium natural spiders behave much like mundane trapdoor spiders,
-using webs to camouflage their hidey-holes and charging out of them to bite and
-inject venom into their prey. As Level 2 Lurkers with 28 HP, they’re likely the
-first giant spider any group of adventures is going to face. I’m surprised
-something like this only showed up in the MM3. Their speed is a breezy 8.&lt;/p&gt;
-
-&lt;p&gt;The spider’s &lt;strong&gt;Camouflage&lt;/strong&gt; trait allows it to hide when it has only partial
-cover or concealment. Its basic attack is a &lt;strong&gt;bite&lt;/strong&gt;, but it turns into a
-&lt;strong&gt;Venomous Bite&lt;/strong&gt; if made against a creature the spider is hidden from. This
-does the same damage and can be used in a charge. It also slows the target and
-inflicts 5 ongoing poison damage (save ends). This worsens to immobilized after
-the first failed save.&lt;/p&gt;
-
-&lt;h2 id=&quot;spiderling&quot;&gt;Spiderling&lt;/h2&gt;
-
-&lt;p&gt;Spiderlings are immature giant spiders, merely Small in size. This is a generic
-stat block that can be used to represent youngsters of any of the spider species
-presented here or elsewhere. They’re Level 4 Minion Skirmishers with Speed 6 and
-a basic bite attack.&lt;/p&gt;
-
-&lt;p&gt;The attack deals only 2 poison damage, but it also gives poison vulnerability 5
-to the target for a turn. If the target is already vulnerable to poison their
-vulnerability increases by 2 instead. This means that multiple spiderling bites
-on the same victim add up very fast, particularly if the adults join in at the
-end. You can vary their level based on the expected level of the adult
-specimens.&lt;/p&gt;
-
-&lt;h2 id=&quot;feyspitter-spider&quot;&gt;Feyspitter Spider&lt;/h2&gt;
-
-&lt;p&gt;This spider native to the Feywild produces a venom laced with psychedelic
-fairy-tale qualities. Aside from the usual physiological damage, it also forces
-its victims to dance uncontrolably! Over time, feyspitter hunting grounds come
-to look like clearings where the vegetation has been stomped flat by all the
-dancers.&lt;/p&gt;
-
-&lt;p&gt;Feyspitters are Medium Fey Beasts and Level 7 Controllers with 80 HP and a Speed
-of 6. Their &lt;strong&gt;bite&lt;/strong&gt; deals physical damage and inflicts 5 ongoing poison damage
-(save ends). Each time the victim fails a save, the spider can slide them 3
-squares.&lt;/p&gt;
-
-&lt;p&gt;They can also use &lt;strong&gt;Poison Spittle&lt;/strong&gt; to spray their venom in a Close
-Blast 3. This deams 10 ongoing poison damage on everyone it hits, with the same
-sliding effect on each failed save. Finally, if hit in melee, feyspitters can
-use a &lt;strong&gt;Fey Leap&lt;/strong&gt; (recharge 5+) to teleport 3 squares as an interrupt. Yes,
-this means they can jump out of melee range and negate any damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;lolths-reaver&quot;&gt;Lolth’s Reaver&lt;/h3&gt;
-
-&lt;p&gt;Another epic level spider directly associated with Lolth. These spiders don’t
-exist in the wild. Instead, they’re bred by Lolth’s worshippers and fed the
-blood of elves, eladrin and angels from an early age. Their upbringing makes
-them sapient and Chaotic Evil. They commonly serve as mounts for Abyssal Drow,
-and can also be found as pets and guardians in Lolth’s mightiest temples
-elsewhere in the universe.&lt;/p&gt;
-
-&lt;p&gt;Reavers are Large Elemental Beasts with the Mount and Spider keywords. They’re
-Level 25 Brutes with 287 HP. They have a ground speed of 8, but their Climb
-speed is only 6. Their mount trait is &lt;strong&gt;Web Saddle&lt;/strong&gt;, which prevents their rider
-from being involuntarily dismounted by forced movement. I never even knew this
-was a possibility for anyone else, so I find this very interesting. Enough PCs
-have easy access to forced movement that staying mounted might very well be a
-problem for an enemy rider in most situations. Not here, though.&lt;/p&gt;
-
-&lt;p&gt;Reavers fight with their extremely venomous &lt;strong&gt;bites&lt;/strong&gt;, which deal light physical
-damage and inflict 20 ongoing poison damage (save ends). They can shoot
-&lt;strong&gt;Grasping Threads&lt;/strong&gt; at range, which deal no damage but pull the target 5
-squares and restrain them (save ends). Each failed saving throw causes the
-reaver to pull the target an additional 5 squares. There is no hard limit on the
-number of targets that can be restrained in this way.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter the reaver can perform a &lt;strong&gt;Web Leap&lt;/strong&gt;, jumping 8 squares
-without provoking opportunity attacks and spreaying a Close Blast 3 with sticky
-webs when they land. This does heavy physical damage, knocks its targets prone,
-and prevents them from standing up (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;spider-webs&quot;&gt;Spider Webs&lt;/h3&gt;
-
-&lt;p&gt;This is not a monster, but a side box with example terrain features based on
-spider webs. All of the spiders in this entry and most of the ones in previous
-books are web-spinners, so these should see heavy usage in arachnid-themed
-dungeons.&lt;/p&gt;
-
-&lt;p&gt;These hazards have variable DCs and attack rolls based on their level, which
-should be similar to that of the overall encounter. The more badass the spider,
-the more badass its webs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Web Sheets&lt;/strong&gt; are nearly invisible vertical webs, usually placed across
-passages and corridors. Spotting them requires a Perception test against the
-hard DC for their level. When someone enters their space, they attack the
-victim’s Reflex and immobilize them (save ends). A close or area fire attack
-destroys the whole web, a melee fire attack destroys one square of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cobwebs&lt;/strong&gt; are thick and opaque sheets of webbing covering walls, floors, and
-ceilings. Spiders use these for concealment, hiding behind them until it’s time
-to burst out and strike. They provide total concealment, and spiders can usually
-perceive enemies through them using tremorsense. They might also count as
-difficult terrain.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;We’re starting to repeat ourselves a bit with all these spiders, but it’s nice
-to see a low-level example. I also really liked the Feyspitter for its dancing
-venom.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/24/spider.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/24/spider.html</guid>
         
         <category>dnd4</category>
         
