@@ -147,6 +147,7 @@ entries.
 
 - W
   - [Weaver][87]
+  - [Wilden][88]
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
@@ -235,3 +236,4 @@ entries.
 [85]: {{ "/2022/11/09/umber-hulk.html" | relative_url }}
 [86]: {{ "/2022/11/11/verbeeg.html" | relative_url }}
 [87]: {{ "/2022/11/17/weaver.html"| relative_url }}
+[88]: {{ "/2022/11/18/wilden.html" | relative_url }}
