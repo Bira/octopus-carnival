@@ -7,6 +7,14 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This is part of a series! Go to the [project page][1] to see all entries.
+
 Let's continue our reading of Dance of the Damned! I expect this to be the
 second of three posts for this adventure. In the last one, we covered two
 chapters of the book. Let's aim for two more here.
@@ -32,7 +40,7 @@ those Chelish elites to back off from the province.
 
 Advance information on the city comes from two sources. Captain Sargaeta (whom
 they befriended in Adventure 02) can tell them the basics, and give them a ride
-on his ship. Molly Mayapple can provide them with extensive and invaluable
+there on his ship. Molly Mayapple can provide them with extensive and invaluable
 advice on their actual goal in the city.
 
 The PCs haven't met Molly yet, but they should have recovered a bunch of
@@ -45,17 +53,18 @@ back to her, and will provide a lot of insider information and help.
 ### The Basics
 
 Vyre is ruled by five monarchs, each tasked with an aspect of government. The
-one they want to meet is the Queen of Delights, who is in charge of the city's
-economy and foreign relations. Vyre's laws are simple yet baroque, creating an
-environment where non-lethal duels and eternal feuds are common, all sales are
-final, but prejudice of any sort is frowned upon. However, you can get away with
-anything if you follow the last and most important rule: don't get caught doing
-it.
+one they want to meet is Manticce Kaleeki, the Queen of Delights, who is in
+charge of the city's economy and foreign relations. Vyre's laws are simple yet
+baroque, creating an environment where non-lethal duels and eternal feuds are
+common, all sales are final, but prejudice of any sort is frowned upon. However,
+you can get away with anything if you follow the last and most important rule:
+don't get caught.
 
 The Queen of Delights is set to host a banquet in the near future, and that will
 be the PCs' opportunity to talk to her. The GM determines how long the PCs have
-until the banquet. This would be the place to introduce side quests in Vyre or
-give the PCs the opportunity to shop and prepare.
+until the banquet. Most of this time is probably going to be spent looking for
+outfits, gifts, and information, but the GM can also introduce a few Vyre
+sidequests to spice things up.
 
 
 ### The Banquet
@@ -63,7 +72,7 @@ give the PCs the opportunity to shop and prepare.
 The Banquet might be an entirely non-violent scene, but it's as difficult to
 navigate as any dungeon. Vyre high-society etiquette is weird, and the Queen of
 Delights heaps even more weird on top of that because she's basically Morticia
-Addams.
+Addams as a Tiefling in Fucked-Up Fantasy Venice.
 
 Molly's help is absolutely vital here. The book doesn't even mention how the PCs
 get invited to the banquet, but I assume she's instrumental in arranging
@@ -89,13 +98,59 @@ While roleplaying should be first and foremost in this scene it also has a
 mechanical component. The banquet is effectivelly a long and colorful skill
 challenge. PCs get a number of starting "banquet points" depending on how they
 dress, what gifts they bring, and whether or not they participate in a standing
-ovation when the Queen appears (they should!). After that they must pass skill
-tests to correctly eat each bizarre dish in the banquet, or to make a good
-impression during the conversation that accompanies each dish. The GM can have a
-lot of fun emphasizing the weird and sometimes horrible of the dishes, which are
-described in detail in the book. Each successful test brings banquet points. Bad
-failures can subtract them. PCs can excuse themselves from some of the tests,
-but not all.
+ovation when the Queen appears (they should!). After that, each course in the
+banquet allows them several opportunities to learn more.
+
+The first is a knowledge skill test to identify the dish in question and how to
+eat it (probably **Area Knowledge**, **Current Affairs** or **Savoir-Faire** in
+GURPS). Careful PCs can just wait for one of the other guests so start eating
+and skip the skill test, but succeeding shows they know what they're doing and
+earns them a point.
+
+The second is a series of tests to actually eat the course, which varies with
+each dish. There's no way to skip this one, though the PCs doesn't need to
+succeed at them all to earn a point. If they do, they earn extra. If they fail
+badly enough or just decide to forgo rolling and eat the thing wrong on purpose,
+they lose points.
+
+The third is a social skill test to do well in the conversation that accompanies
+that dish. This would likely be **Fast-Talk**, **Diplomacy** or even **Public
+Speaking** in GURPs, modified by what the players actually say. Success makes
+them come off as smooth operators and earns points. Failure loses points and
+leaves them embarrassed. Again careful characters can just keep quiet and skip
+this part, but it earns them nothing.
+
+The dishes range from the merely bizarre to the horrific:
+
+- We start with **quicksoup**, a bowl of boiling hot soup accompanied by a water
+  bowl containing five small live fish and a set of peculiar utensils. This
+  requires tests involving manual dexterity to properly poach the fish in the
+  soup and eat them. Probably plain **DX** modified by **Manual Dexterity** in
+  GURPS, though I'd also let a daring PC test **Surgery** instead.
+
+- Next is **Galtan Squash**, which looks like a severed head but is just a
+  carved pumpkin full of extremely spicy red soup. This is a straight-up
+  Fortitude save/**HT** roll to endure the spice. Failing bad enough leaves your
+  face swollen and penalizes your talky rolls for the rest of the feast! I'd
+  probably let it be modified by **Resistant to Poison** and other advantages
+  that include it.
+
+- Then you get the **Unseen Feast**, meat pies made from the flesh of an
+  invisible stalker. I'm pretty sure invisible stalkers are sapient, which makes
+  this the most horrific dish of the lot. It's quite possible some PCs will
+  refuse to eat this one on moral grounds. Those who decide to forge ahead need
+  to be fast and perceptive. The meat is invisible and they have to eat it
+  before it turns visible and loses its flavor. PCs who can see invisibility can
+  pass this one automatically, though it's considered crass to cast a spell for
+  it while on the table. Others must succeed at a difficult **Perception**
+  check, which I guess I would modify for **Acute Smell/Taste**.
+
+- Finally, you get **Sweefats With Honey Sauce** for dessert. Sweetfats are
+  candied spiders - this is an Underdark dish. The most difficult thing here is
+  opening the honey sauce container, which is a mundane replica of a
+  Hellraiser-style puzzle box. Time to break out the **Thaumathology** and
+  **Hidden Lore (Demons)** skills, though I guess **Traps** or **Lockpicking**
+  might also work.
 
 Whether Vyre allies with the Silver Ravens or not depends entirely on how many
 banquet points the characters manage to get. They need at least 20. A party of 5
@@ -108,26 +163,29 @@ If the party succeeds, the Queen might invite the individual who gained them the
 most points for an intimate night. Ties go to the prettiest or most charismatic
 PC, and if they're still tied she invites all of the tied PCs. If the party has
 more than 30 points _and_ the propositioned PC(s) accept Manticce's invitation,
-she will also offer the group her personal alliance, providing mechanical boosts
-to the strategic rebellion layer.
+she will also offer the group her personal alliance, providing extra mechanical
+boosts to the strategic rebellion layer.
 
 ### Notes and Impressions
 
 This part is very different than what you would expect from a standard dungeon
 fantasy adventure. It can be really fun for PCs who like role-playing, so even
-in a condensed approach I'd recommend keeping it.
+in a condensed approach I'd recommend keeping it. If you want to make the Unseen
+Feast part less objectionable, you could perhaps say the "meat" is gelatinous
+cube jelly, which is almost as hard to see and doesn't come from something
+sapient. And if you don't want to feature sexual themes at all in the adventure,
+you could remove Manticce's invitation at the end and just say that the party
+gets her personal support if they get more than 30 points.
 
 The downside when using GURPS is that if your PCs are overly focused on dungeon
 delving they might not have the skills necessary to cause a good impression
-here. In this case I suggest being generous and using the same tactic as the
-original module: if none of the delvers has the most appropriate skill, ask for
-a roll on the closest skill one of them does have. That said, characters who
-followed the tips from the [Player's Guide][2] or who used earned points to
-become a bit sneakier and more social shouldn't have too much trouble covering
-their bases.
+here. In this case I suggest being generous: if none of the delvers has the most
+appropriate skill, ask for a roll on the closest skill one of them does have, or
+perhaps even roll against DX or IQ. That said, characters who followed the tips
+from the [Player's Guide][2] or who used earned points to become a bit sneakier
+and more social shouldn't have too much trouble covering their bases.
 
 ## Part 4: Breaking the Menador Gap
-
 
 The Menador Gap is a mountain pass in the mountains separating Ravounel from
 central Cheliax. It's the only viable route for marching an army through those
@@ -204,11 +262,13 @@ Chelish military info.
 
 A good old tactical espionage action romp, with the potential to turn into a
 wonderfully chaotic battle if the PCs trip the alarm. It's likely to be the most
-time-consuming scene in the entire adventure.
+time-consuming scene in the entire adventure, and could conceivably take more
+than one session to resolve.
 
 I suggest playing the enemies with a modicum of intelligence here, but remember
 that raising the alarm is not an automatic action. If a single guard spots the
 PCs, the rest of the fortress won't automatically know they're there. An alarm
 must be raised, which takes time and is susceptible to disruption from the PCs.
 
+[1]: {{ "/projects/hells-rebels/" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}

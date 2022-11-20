@@ -13,8 +13,7 @@ tags:
 </figure>
 {:/nomarkdown}
 
-This is the start of a series! Go to the [project page][2] to see all entries.
-
+This is part of a series! Go to the [project page][2] to see all entries.
 
 It's been quite a while since I posted an article on this series! There are
 several reasons for this, both real-world and blog-related. One of the latter
