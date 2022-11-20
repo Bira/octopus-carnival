@@ -6,9 +6,139 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 18 Nov 2022 13:37:32 +0000</pubDate>
-    <lastBuildDate>Fri, 18 Nov 2022 13:37:32 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Nov 2022 18:35:13 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Nov 2022 18:35:13 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Xivort</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-xivort.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;I’m sure xivorts appeared in a previous edition, but here they get some new
+4e-specific lore.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Xivorts are a tragic threat. They are descended from gnomes enslaved by
+fomorians and subjected to all sorts of tortures and experiments. Their long
+captivity in the Feydark caused them to mutate into their present cave-adapted
+state, which was further exacerbated when most of them were freed from their
+captors by a cabal of night hags and brought to the Shadowfell.&lt;/p&gt;
+
+&lt;p&gt;The hags were only interested in liberating the xivorts as a way to deal a blow
+to their fomorian masters, so they just left the former gnomes to their own
+devices in the Shadowfell. These newly freed xivorts had only known torment and
+suffering all their lives, so they set about dealing that to others.&lt;/p&gt;
+
+&lt;p&gt;As usual I’m not fond of painting a whole sapient species with such a broad
+negative brush, so I want to say xivorts are just people and you can find whole
+communities of non-evil individuals out there. The ones you end up fighting
+might still fit the description here, though.&lt;/p&gt;
+
+&lt;p&gt;For good or ill, xivorts tend to associate with dark ones and gnomes. They have
+a particular distrust of larger people, an echo of the hatred they hold for
+fomorians. Goliaths and half-orcs tend to be priority targets in combat
+encounters because of this.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Xivorts are Small Fey Humanoids with a Speed of 5 and Darkvison. Their signature
+ability is &lt;strong&gt;Shadow Step&lt;/strong&gt;, which triggers whenever an adjacent enemy hits
+them. It allows the xivort to teleport 2 squares to another space adjacent to
+the enemy.&lt;/p&gt;
+
+&lt;p&gt;All of the entries here are level 1 or 2, which makes me think they’re meant to
+be novel kobold and goblin replacements.&lt;/p&gt;
+
+&lt;h3 id=&quot;xivort-slasher&quot;&gt;Xivort Slasher&lt;/h3&gt;
+
+&lt;p&gt;This is a “slasher” in the horror movie sense. It fights because it likes to
+inflict pain. As a Level 1 Skirmisher with 26 HP, it’s not a big threat to a
+trained adventurer, but from the point of view of a non-combatant it could look
+like an unstoppable killer.&lt;/p&gt;
+
+&lt;p&gt;The slasher fights with a &lt;strong&gt;short sword&lt;/strong&gt; in melee and throws &lt;strong&gt;daggers&lt;/strong&gt; at
+range. Besides the standard Shadow Step it has &lt;strong&gt;Cunning Step&lt;/strong&gt;, which allows it
+to shift 1 square when an enemy adjacent to it is hit by an attack. This doesn’t
+have to be one of the slasher’s own attacks, it can be anything.&lt;/p&gt;
+
+&lt;p&gt;If several slashers gang up on a single enemy, that enemy will soon find
+themselves surrounded by them.&lt;/p&gt;
+
+&lt;h3 id=&quot;xivort-darter&quot;&gt;Xivort Darter&lt;/h3&gt;
+
+&lt;p&gt;This one fights using concealable thrown darts, a tradition dating back to the
+xivort’s time as Fomorian captives. It’s Level 1 Artillery with 22 HP.&lt;/p&gt;
+
+&lt;p&gt;Both the xivort’s &lt;strong&gt;Dagger&lt;/strong&gt; and its &lt;strong&gt;Darts&lt;/strong&gt; are a bit weak, but it can use
+&lt;strong&gt;Dart Volley&lt;/strong&gt; to make two ranged attacks in the same action. Once per
+encounter it can throw its special &lt;strong&gt;Dream Venom Dart&lt;/strong&gt;, which does the same
+damage as a basic one and dazes (save ends).&lt;/p&gt;
+
+&lt;p&gt;All of the darter’s ranged attacks target &lt;em&gt;Reflex&lt;/em&gt;, not AC, making it
+particularly effective against heavily armored defenders.&lt;/p&gt;
+
+&lt;p&gt;Instead of the usual Shadow Step, the darter has &lt;strong&gt;Darter’s Step&lt;/strong&gt;, which
+works the same but doesn’t restrict its teleport destination. It’s meant to let
+them get away from melee.&lt;/p&gt;
+
+&lt;h3 id=&quot;xivort-net-caster&quot;&gt;Xivort Net Caster&lt;/h3&gt;
+
+&lt;p&gt;This one is trained to bring larger foes down so they’re easier to kill. It’s a
+Level 1 Controller with 26 HP.&lt;/p&gt;
+
+&lt;p&gt;The net caster can use a non-damaging &lt;strong&gt;net&lt;/strong&gt; as a ranged area attack to
+restrain everyone it hits (save ends). If someone escapes the net it can throw a
+pair of non-damaging &lt;strong&gt;bolas&lt;/strong&gt; as a minor action to knock them prone and prevent
+them from getting up for a turn. Then it moves in with its &lt;strong&gt;short sword&lt;/strong&gt;,
+which deals bonus damage against prone, immobilized, restrained or sloweed
+enemies.&lt;/p&gt;
+
+&lt;p&gt;All of the status effects the net caster inflict make the target grant combat
+advantage, so they go really well with monsters that can exploit that.&lt;/p&gt;
+
+&lt;h3 id=&quot;xivort-shadow-caller&quot;&gt;Xivort Shadow Caller&lt;/h3&gt;
+
+&lt;p&gt;A spellcaster using the ‘mysteeeerious’ Shadow source, who apparently traded
+part of their soul to the Shadowfell itself in exchange for power. It’s Level 2
+Artillery with the Leader keyword.&lt;/p&gt;
+
+&lt;p&gt;Shadow callers user &lt;strong&gt;daggers&lt;/strong&gt; in melee, but like most artillery they want to
+stay further away and use their ranged spells. &lt;strong&gt;Shadow Phantoms&lt;/strong&gt; is their
+basic ranged attack, dealing psychic damage and making the target grant combat
+advantage for a turn. This has an extra +1 to hit for every creature adjacent to
+the target, be it ally or enemy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deathmark Bolt&lt;/strong&gt; (recharge 5+) deals necrotic damage and lets an ally of the
+caster make a free melee basic attack against the target. And &lt;strong&gt;Shadow
+Strangler&lt;/strong&gt; (encounter) is a “pseudo-summon” that immobilizes and inflicts
+ongoing 5 necrotic damage (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;As far as low-level enemies go, they’re… okay I guess? Fighting these guys
+instead of kobolds is a nice change of pace, but I’ll confess I lose a bit of
+enthusiasm for them when I realize they’re another attempt to hype up the Shadow
+power source.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/20/xivort.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/20/xivort.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Wilden</title>
@@ -1470,279 +1600,6 @@ use them paired with this lore.&lt;/p&gt;
         <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Star Spawn</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;Star Spawn made their debut in the &lt;a href=&quot;/octopus-carnival/2022/02/03/star-spawn.html&quot;&gt;Monster Manual 2&lt;/a&gt; along with a pretty
-awesome chunk of lore that’s also tied to star pact warlocks and the Far
-Realm. You can see it all on the link. This entry adds a bit more lore, new star
-spawn, and a surprise epic boss!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The lore in this entry confirms some of the most terrible questions we had in
-the MM2. Yes, if you travel far enough in space you do end up in the Far
-Realm. Yes, there are things watching across this divide, and some of them are
-perceived by the people of the middle world as stars. And yes, some of them have
-hostile designs upon the world.&lt;/p&gt;
-
-&lt;p&gt;Allabar, the Opener of the Way, is one of these, and it travels across the
-universe inciting its fellow stars to send their spawn into the world. Its
-wanderings are not random, but filled with terrible purpose. Some warlocks claim
-Allabar and its allies are at war with the world itself, and they call this the
-Forgotten War because it’s much less noticeable than the Dawn War was but no
-less significant.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The star spawn presented here are all mid-to-high epic tier threats, making them
-a lot stronger than the paragon-tier spawn from the MM2. All of them have the
-aberrant origin and possess darkvision, but the specifics vary a lot between
-individual stat blocks.&lt;/p&gt;
-
-&lt;h3 id=&quot;spawn-of-ulban&quot;&gt;Spawn of Ulban&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-ulban.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Ulban is a blue-white star whose intense glow affects mortal minds, disrupting
-their cognition and robbing them of the ability to recognize danger. Ulban’s
-influence starts ill-thought rebellions and prevents divinations of any sort
-from working. Its spawn fall to the earth as meteors, and their presence makes
-mortals unable to distinguish friend from foe. They also break the “no
-tentacles” streak for this type of monster, as you can see in the illustration.&lt;/p&gt;
-
-&lt;p&gt;Spawn of Ulban are Medium Aberrant Humanoids, and Level 26 Controllers with 241
-HP. They have a speed of 8. They’re immune to domination, and every time they’re
-iht by a power that would dominate them, they dominate the attacker instead! And
-this is a (save ends) condition even if the one from the attack wasn’t.&lt;/p&gt;
-
-&lt;p&gt;The spawn’s basic attack is the &lt;strong&gt;Bluefire Strike&lt;/strong&gt; (vs. Reflex), which causes
-both cold and fire damage, and dazes for a turn. It can also use a &lt;strong&gt;Touch of
-Strife&lt;/strong&gt; (vs. Will) instead, dealing psychic damage and forcing the target to
-make a melee or ranged basic attack against a creature of the spawn’s
-choice. When it hits with either of these attacks, it can apply a &lt;strong&gt;Psychic
-Boost&lt;/strong&gt; as a free action, dealing an extra chunk of psychic damage. This
-recharges every time the spawn takes psychic damage, so while it’s not
-&lt;em&gt;resistant&lt;/em&gt; to this damage type you still don’t want to use it against the
-spawn.&lt;/p&gt;
-
-&lt;p&gt;Less often, the spawn can produce a &lt;strong&gt;Ripple of Betrayal&lt;/strong&gt; (close burst 1
-vs. Will, recharge 5+) which deals psychic damage and dominates those it hits
-(save ends).&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the spawn can use &lt;strong&gt;Far Realm Reflection&lt;/strong&gt; to form an
-eldritch bond with a creature it can see. Whenever that creature shifts, the
-spawn can immediately shift an equal number of squares. This lasts until the end
-of the encounter, or until the spawn switches targets by using the power
-again. An excellent power to use on an ally that can shift long distances, or
-even on a PC that can do the same.&lt;/p&gt;
-
-&lt;p&gt;The Spawn of Ulban wants to get in close and stay there, since its attacks are
-all melee or close bursts. It’s extremely effective against parties with lots of
-psionic PCs, or against those that have lots of Essentials martial
-characters. The best way to fight it is to keep your distance and hit it with
-non-psychic, non-dominating attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;emissary-of-caiphon&quot;&gt;Emissary of Caiphon&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-caiphon.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Caiphon is a purple star that can always be found near the horizon, sometimes
-even during the day. It presents itself as a helpful guide star, but will
-sometimes betray those who rely on it, leading them down tragic paths.&lt;/p&gt;
-
-&lt;p&gt;The Emissary of Caiphon is often employed in these betrayals. It’s the most
-human-looking of all star spawn, and it mimics the tactics of its patrons by
-posing as a guide or a prophet. Its “wise and helpful” advice usually leads to a
-lot suffering and death.&lt;/p&gt;
-
-&lt;p&gt;The Emissary is a Medium Aberrant Humanoid, and a Level 28 Controller with the
-Leader tag and 257 HP. It projects an &lt;strong&gt;Aura of Ruin&lt;/strong&gt; (2) that inflicts a -2
-penalty to saves, and whenever it’s hit by an attack that would blind it, it
-blinds the attacker instead (save ends).&lt;/p&gt;
-
-&lt;p&gt;Nearly all of the Emissary’s powers mess with the saving throw mechanic, but it
-lacks the ability to inflict (save ends) conditions by itself. Be sure to pair
-it with plenty of monsters who can do that!&lt;/p&gt;
-
-&lt;p&gt;Its basic attack is a &lt;strong&gt;Touch of Despair&lt;/strong&gt; that deals light physical damage and
-inflicts an extra 20 damage the first time the target fails a save before the
-start of the emissary next turn. It’s nifty, but it’s for emercencies only. The
-creature prefers to stay far away and use its ranged attacks.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blinded By Greed&lt;/strong&gt; (ranged 10 vs. Will) deals light psychic damage, slides the
-target 2 squares, and forces them to make a melee basic attack against a target
-of the emissary’s choice (“Give me that! It’s mine!”).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blinded By Need&lt;/strong&gt; (ranged 10 vs. Will) deals standard psychic damage, and
-allows the emissary to choose one of the target’s allies. For the next turn, the
-target is marked by that ally, and everyone except the chosen ally is invisible
-to the target. This doesn’t &lt;em&gt;force&lt;/em&gt; the target and the ally to fight each
-other, but it makes it hard for either of them to do anything else.&lt;/p&gt;
-
-&lt;p&gt;As minor actions, the emissary can use &lt;strong&gt;Deceptive Veil&lt;/strong&gt; to disguise itself as
-a Medium or Small humanoid, with a DC 40 for people to see through the
-illusion. It can also target someone with an &lt;strong&gt;Invocation of Calamity&lt;/strong&gt; (ranged
-5 vs. Will), which on a hit makes the target fail all of their saves during the
-next turn.&lt;/p&gt;
-
-&lt;p&gt;For triggered actions, it has the same &lt;strong&gt;Psionic Boost&lt;/strong&gt; as the Spawn of Ulban,
-this time applying to tis Blinded By Need/Greed powers. And when it dies,
-&lt;strong&gt;Foretelling the Doom&lt;/strong&gt; targets an enemy suffering from a (save ends) condition
-and inflicts a -5 penalty on all saves against it until one succeeds.&lt;/p&gt;
-
-&lt;h3 id=&quot;serpent-of-nihal&quot;&gt;Serpent of Nihal&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-nihal.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Nihal, the Serpent Star, is a reddish celestial body that can’t stay still. It
-travels a random snaking route around the point it was supposed to occupy in the
-sky according to all standard calculations. That’s why it received this
-epithet.&lt;/p&gt;
-
-&lt;p&gt;The Serpents of Nihal first came through the world shortly before the fall of
-the ancient empire of Az-Kiral, which dedicated itself to the worship of
-Zehir. Its leaders grew ever more ambitious and soon they craved more power than
-the snake god was willing to offer. So they sought out a new source of Snek
-Power, and found it in Nihal. They opened a portal to the star thinking they
-would be able to access this power. What happened instead was that countless
-Serpents of Nihal poured through, and destroyed the empire in a matter of
-days. They still wander the known cosmos today, and I guess sometimes Allabar
-opens new rifts to let more through.&lt;/p&gt;
-
-&lt;p&gt;Serpents are Medium Aberrant Beasts, and Level 29 Minion Lurkers with a ground
-speed of 7. They’re only partially present in reality, and keep blinking in and
-out.&lt;/p&gt;
-
-&lt;p&gt;This means that, despite being minions, they have &lt;strong&gt;Resist 20 to all
-damage&lt;/strong&gt;. Yes, even untyped. You need to deal 21 or more damage with one strike
-to take them out. It’s not that hard for late epic PCs, but it’s also not 100%
-guaranteed, so they have more staying power than your typical minion.&lt;/p&gt;
-
-&lt;p&gt;Serpents attack with &lt;strong&gt;mindbites&lt;/strong&gt;, which deal psychic damage and can interfere
-with concentration and psionic power usage: if 2 or more of the serpent’s allies
-are adjacent to the target, the bite deals extra damage and prevents the target
-from spending action points or power points (save ends).&lt;/p&gt;
-
-&lt;p&gt;If an enemy misses the serpent, it can &lt;strong&gt;Depart Reality&lt;/strong&gt;, removing itself from
-play for a turn an re-appearing in adjacent to an enemy within 20 squares of its
-original location. It can also do this exact same thing when it rolls initiative
-with the &lt;strong&gt;Sudden Reality Warp&lt;/strong&gt; ability.&lt;/p&gt;
-
-&lt;h3 id=&quot;allabar-opener-of-the-way&quot;&gt;Allabar, Opener of the Way&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-star-spawn-allabar.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Yup, you read that right. This is not a star spawn, it’s a &lt;em&gt;star&lt;/em&gt;. Allabar is
-here to serve as the end boss for a campaign focused on the Forgotten War, which
-would likely feature the PCs facing and unraveling the plans of increasingly
-powerful aberrant creatures and star spawn until Allabar itself decides to
-personally kill them. As the lore implies, Allabar is not the only eldritch star
-who wants to mess with the world, but it’s the most consciously malicious one
-and it acts as instigator and enabler to the others. Eliminating Allabar would
-effectively end the threat posed by its fellows and their respective star spawn.&lt;/p&gt;
-
-&lt;p&gt;Putting the lore in astronomical terms would make Allabar similar to a rogue
-planet, a planet without a star that moves across the universe. The similarity
-is only superficial, of course, because pretty much nothing else about the
-Opener of the Way is in any way scientific.&lt;/p&gt;
-
-&lt;p&gt;Allabar is presented here as a Gargantuan Aberrant Animate. Those who feel even
-Gargantuan is too small for a planetary entity might instead say this is an
-avatar of Allabar, the thing it sends through a portal to personally fight the
-PCs. When it dies, the star winks out from the sky. Or you can take a page from
-Atropus in Elder Evils, and have the actual body of Allabar be the
-dungeon/battlefield on which you fight its avatar.&lt;/p&gt;
-
-&lt;p&gt;Anyway, Allabar is a Level 30 Solo Soldier with 1100 HP. It has ground and
-flight speeds of 6, with Hover. As a planet, it projects a &lt;strong&gt;Gravity Well&lt;/strong&gt; that
-acts as a 20-square wide aura. This plus its Gargantuan size pretty much mean it
-covers the entire battle map. Anyone who starts their turn inside the field gets
-pulled a variable number of squares depending on how much HP Allabar currently
-has. It starts at 1 square, and doubles for every 25% of its HP that are missing
-(at 25% or less total HP, it’s 8 squares).&lt;/p&gt;
-
-&lt;p&gt;Being covered with eyes, Allabar has &lt;strong&gt;All-Around Vision&lt;/strong&gt;, and can’t be
-flanked. Its &lt;strong&gt;Bloodied Fury&lt;/strong&gt; also gives it an extra standard action per turn
-while it’s bloodied, even when it’s dazed.&lt;/p&gt;
-
-&lt;p&gt;In combat, the Opener of the Way projects Reach 4 &lt;strong&gt;Tentacles&lt;/strong&gt; to attack, which
-deal light physical damage and restrain for a turn on a hit. It can use them in
-a &lt;strong&gt;Triple Attack&lt;/strong&gt; to strike three times in a standard action, and it can
-enhance a tentacle attack with a &lt;strong&gt;Psionic Boost&lt;/strong&gt; similar to that of the star
-spawn in this entry. Aside from the boost recharging when Allabar takes psychic
-damage, it also recharges when the star succeeds with its &lt;strong&gt;Devour Body&lt;/strong&gt;
-attack. This Close Burst 1 vs. Fortitude targets creatures who are at 0 HP or
-lower. On a hit, it kills the target and pulls it inside Allabar. It &lt;em&gt;can&lt;/em&gt;
-target dead allies, but it’s also excellent for making PCs exercise those “when
-you die” abilities they surely have by now.&lt;/p&gt;
-
-&lt;p&gt;Another very interesting attack is &lt;strong&gt;Wrath of the Forsaken World&lt;/strong&gt; (close blast
-5 vs. Fortitude, recharge 5+), which deals psychic damage and causes each target
-to sprout a hostile tentacle (save ends). While the tentacle is there, it deals
-an automatic 20 damage to any target that ends their turn within 2 squares of
-the victim.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, you know, no big deal, the Opener can use &lt;strong&gt;Unravel Essence&lt;/strong&gt;
-(melee 4 vs. Fortitude), which inflicts 20 ongoing damage on a hit (save
-ends). On the first failed save, this increases to 25. On the second, the target
-also becomes weakened and insubstantial. On the third, the target drops to 0 HP
-if its HP was still positive. A successful save at any point halts the process
-and clears all related conditions. This recharges whenever there are no
-creatures affected by it.&lt;/p&gt;
-
-&lt;p&gt;And finally, when someone hits Allabar with an attack, it can cause &lt;strong&gt;Psychic
-Feedback&lt;/strong&gt; as a reaction, automatically dazing the attacker (save ends).&lt;/p&gt;
-
-&lt;p&gt;Allabar is very intelligent and will work to maximize its advantages, abusing
-its flight and superior reach, and focusing fire make them drop to 0 HP quickly
-so they can be devoured. And if your level 30 PCs are cocky because this end
-boss is “only” level 30, add a few Emissaries of Caiphon to make it impossible
-for them to pass the many saves imposed by the Opener of the Way.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The awesome continues! This entry does return to the old standby of “tentacles”,
-but the monsters are still pretty evocative and their mechanics
-interesting. Allabar reminds me of Atropus, from Elder Evils, but it’s has more
-of an aberrant/psychic theme instead of Atropus’ undead/necrotic leanings.&lt;/p&gt;
-
-&lt;p&gt;The Opener of the Way is the fourth and last epic boss to be found in this
-book. The previous ones were Imix, Lolth, and Ogrémoch.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/28/star-spawn.html</guid>
         
         <category>dnd4</category>
         
