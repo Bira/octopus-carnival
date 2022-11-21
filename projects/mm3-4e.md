@@ -152,6 +152,9 @@ entries.
 - X
   - [Xivort][89]
 
+- Y
+  - [Yeti][90]
+
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}
 [3]: {{ "/2022/05/04/apocalypse-spell.html" | relative_url }}
@@ -241,3 +244,4 @@ entries.
 [87]: {{ "/2022/11/17/weaver.html"| relative_url }}
 [88]: {{ "/2022/11/18/wilden.html" | relative_url }}
 [89]: {{ "/2022/11/20/xivort.html" | relatvie_url }}
+[90]: {{ "/2022/11/21/yeti.html" | relative_url }}
