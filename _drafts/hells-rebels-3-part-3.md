@@ -19,9 +19,9 @@ But first, a party!
 
 Barzilai Thrune has been organizing a grand masquerade ball to be hosted at the
 Opera House ever since the start of this adventure. He advertises it as a way to
-show the city everything is fine, but of course it's a dastardly trap. After the
-PCs close the Menador Gap he steps up his time table and announces a date for
-the event.
+reconcile with his critics and to show everything is fine in Kintargo, but of
+course it's a dastardly trap. After the PCs close the Menador Gap he steps up
+his time table and announces a date for the event.
 
 His plan is to use a troop of dottari and disguised devils to massacre the
 ball's attendants during its unmasking ceremony, and doctor the evidence to
