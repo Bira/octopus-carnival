@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page 92 of 113 for Octopus Carnival | A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.</title>
+<title>Page 92 of 114 for Octopus Carnival | A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.</title>
 <meta name="generator" content="Jekyll v3.9.2" />
 <meta property="og:title" content="Octopus Carnival" />
 <meta property="og:locale" content="en_US" />
@@ -65,6 +65,341 @@ if(!(window.doNotTrack === "1" || navigator.doNotTrack === "1" || navigator.doNo
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Apr 16, 2018</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2018/04/16/deterministic-heroic-feats.html">Deterministic Heroic Feats</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure>
+  <img src="https://bira.github.io/octopus-carnival/assets/Lucky-Paladin.jpg"/>
+  <figcaption>
+    This should be easier, too.
+    <a href="http://esoacademy.com/builds/lucky-paladin/">
+      (image source)
+    </a>
+  </figcaption>
+</figure>
+
+<p>As I mentioned in my recent <a href="/octopus-carnival/2018/04/06/quick-and-dirty-technical-grappling.md">Quick and Dirty Technical Grappling</a> post, the
+biggest GURPS showstopper in my experience has been recalculating ST scores on
+the fly, and this wasn’t only a Technical Grappling issue. Today I’ll try to
+tackle the other rule where this issue has bit me: The Blessed (Heroic Feats)
+advantage.</p>
+
+<p>This is one of the most powerful Holy Warrior abilities in both versions of
+Dungeon Fantasy, and it allows you to temporarily increase your ST, DX, or
+HT. The problem here is that the increase is <em>variable</em>, expressed in dice (+1d
+or +2d). It’s also an increase that applies to the <em>full</em> attribute, which means
+the following:</p>
+
+<ul>
+  <li>
+    <p>Increasing ST changes your HP, Basic Lift and base damage.</p>
+  </li>
+  <li>
+    <p>Increasing DX changes your Basic Speed and potentially Move.</p>
+  </li>
+  <li>
+    <p>Increasing HT changes your FP, your Basic Speed and potentially your Move.</p>
+  </li>
+</ul>
+
+<p>Of these, the HP and FP changes are pretty straightforward. Basic Speed changes
+are the next easiest to calculate on the fly, since each extra point of DX or HT
+changes it by 0.25. Basic Lift is not too bad, since the formula for it is easy
+to memorize (ST * ST/10 kg, or twice that in pounds).</p>
+
+<p>But then you get to base damage, and the gears of your game grind to a halt
+while you look it up in a table. Now, I’ve been dealing with GURPS for a number
+of years now so I know that this table is in page 16 of the Basic Set, but
+people who are new to the system won’t have that memorized. And knowing that
+didn’t help me in the event that prompted me to write these articles, as I was
+using the Dungeon Fantasy RPG and had to look up the table like anyone else who
+is new to those books.</p>
+
+<p>There is actually a specific algorithm for figuring out your change in basic
+damage, but it’s fiddly enough that finding and consulting the table is usually
+quicker. And whether you calculate or look up your new basic damage, you still
+have use that to figure out the damage of your actual attacks, with things like
+weapon modifiers, Weapon Master, or high Karate bonuses.</p>
+
+<h2 id="my-solution-deterministic-heroic-feats">My Solution: Deterministic Heroic Feats</h2>
+
+<p>The Heroic Feats advantage now increases your attribute by a fixed amount: 4 per
+level. This still lasts for 3d seconds, to still keep the favor of the gods
+<em>somewhat</em> fickle. GMs who want to get rid of that remaining bit of randomness
+can just have it last 10 seconds instead.</p>
+
+<p>When you take the Heroic Feats advantage, write down your new total stats
+somewhere, and use those when the power is active.</p>
+
+<p><strong>Example</strong>: Our friend <a href="/octopus-carnival/2017/10/13/pathfinder-dfrpg-holy-warrior.html">Seelah</a> has ST 13 and Heroic Might 1, so in a
+separate space in her character sheet we record her stats with ST 17: Basic Lift
+28.9kg and Damage 1d+2/3d-1. We also pre-calculate her enhanced sword damage (3d
+cut or 1d+4 imp). When Seelah uses Heroic Might, we refer to those stats instead
+of her usual ones.</p>
+
+<p>If she later increases Heroic Might to its maximum level of 2, her enhanced
+strength becomes 21, so we recalculate her secondary stats: Basic Lift 44.1kg
+and Damage 2d/4d-1. Her sword damage becomes 4d cut or 2d+2 imp.</p>
+
+<p>If later still she buys Weapon Master, we apply the damage bonuses from that
+advantage to both sets of stats. Her normal sword damage becomes 2d+4 cut/1d+4
+imp, and her enhanced sword damage becomes 4d+8 cut/2d+6 imp. Now that’s what I
+call a smite!</p>
+
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
+        <span class="post-meta">Apr 6, 2018</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2018/04/06/quick-and-dirty-technical-grappling.html">Quick and Dirty Technical Grappling</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure>
+  <img src="https://bira.github.io/octopus-carnival/assets/oranzhereiny-fountain-in-peterhof.jpg"/>
+  <figcaption>
+    This should be easier!
+    <a href="http://www.saint-petersburg.com/peterhof/fountains-peterhof/">
+      (image source)
+    </a>
+  </figcaption>
+</figure>
+
+<p><strong>2018-04-09 Update</strong>: After receiving some feedback from Douglas Cole, who
+wrote the original Technical Grappling rules, I’ve updated this article to
+better handle people with wildly varying SMs and ST scores. I believe the
+resulting rules can still be considered “Quick and Dirty” :).</p>
+
+<p>As I mentioned in my <a href="/octopus-carnival/2018/04/02/my-gurps-house-rules.html">previous post</a>, I like the Technical Grappling rules on
+principle but find them way too detailed for most games in practice. Here’s my
+attempt to simplify them into something I can use.</p>
+
+<p>My main goal here is to completely eliminate on-the-fly ST adjustments from the
+game. In my experience, nothing has ever reduced the pacing of my games to a
+screeching halt like having to look up someone’s new damage dice and recalculate
+all their attacks. This is not just a Technical Grappling issue, but since that
+is the topic of the day let’s stick to it.</p>
+
+<p>Referred Control as written also has to go, because it involves a similar
+amount of “recalculate everything right now”.</p>
+
+<p>Any references to “the book” below refer to GURPS Technical Grappling, and the
+“core rules” are the ones from GURPS Characters and Campaigns.</p>
+
+<h2 id="trained-st">Trained ST</h2>
+
+<p>This is <em>gone</em>. It’s one more thing to track for each individual skill and it
+raises too slowly to make any difference for most games.</p>
+
+<p>Use the Wrestling bonus from the core rules for that skill and ignore the
+concept for the others. Buy Lifting ST instead.</p>
+
+<h2 id="grappling-attacks-and-damage">Grappling Attacks and Damage</h2>
+
+<p>Grappling still does Control Point damage, because that’s the core of the
+system! CP damage is annotated as “control” in attack stat lines.</p>
+
+<p>All unarmed grappling attacks inflict CP damage equal to the “thrust” value for
+your ST. Lifting ST improves your ST for this purpose and so does the Wrestling
+bonus when using that skill. Add +1 damage for each limb used beyond the first
+two. If attacker’s SM is larger than that of the target, apply the difference as
+a control damage bonus as well.</p>
+
+<p>Armed grappling works mostly like in the book, except you always use your full
+ST to calculate control damage. Entangling weapons use your <em>base</em> skill level
+instead (not the effective one for that specific attack). This allows you to
+write the control damage for your armed grapples <em>once</em> and not worry about it
+later on, similar to how normal attacks work.</p>
+
+<p>Any monster whose attacks “automatically count as a successful grapple” in
+things like Dungeon Fantasy do linked control damage equal to the basic damage
+of their attack. So if that Giant Enemy Crab has claws that do 2d+2 cut, they
+now also do 2d+2 control!</p>
+
+<p>Grapplers can still only maintain a maximum amount of CP equal to their ST.</p>
+
+<h2 id="control-threshold">Control Threshold</h2>
+
+<p>Every creature has a <em>Control Threshold</em> (CT) equal to their ST/5, rounded down
+to the nearest whole number. This determines how easy it is to impair that
+character’s movements via grappling. In relatively “realistic” games with
+human-scale characters, 99% of people will have a CT of 2, and the remaining
+slabs of pure muscle will have a CT of 3. Things can get quite a bit more varied
+in Dungeon Fantasy or other fantastical games.</p>
+
+<p>Write this down once during character creation, and only worry about changing it
+if your permanent ST changes.</p>
+
+<h2 id="effects-of-control-points">Effects of Control Points</h2>
+
+<p>Every (CT) Control Points applied to a target translate into a -1 penalty to
+DX<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>. If the target’s torso or head is being grappled this applies to all
+their actions. If a limb is being grappled, the full penalty applies to any
+actions involving that limb. Half the penalty applies to all other
+actions. Treat grapples to multiple locations as a single grapple to the torso
+with their combined CP.</p>
+
+<p>In the example from page 6 of Technical grappling, that would give our pal
+And’Rezik a total of 13 CP on his target. It’s only 2 CP less and you didn’t
+need to halt your fight for 5 minutes to figure that out!</p>
+
+<p>Control points can be spent in the same ways as in the book, and grappled
+targets can attempt to erode them with their own grapple attacks subject to the
+DX penalty, as usual.</p>
+
+<h2 id="thats-all-folks">That’s All, Folks!</h2>
+
+<p>That’s pretty much it. I haven’t actually <em>tested</em> this system in play, but it’s
+what I’m going to use in the next game I run where grappling is a thing. I’m
+sure I’ve missed some edge cases from the original book, but if those ever
+become a problem I’ll address them at that time.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Creatures whose CT rounds down to 0 take -2 DX per CP applied to them. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
+        <span class="post-meta">Apr 2, 2018</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2018/04/02/my-gurps-house-rules.html">My GURPS House Rules</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <p>As a way to get back into the habit of writing I thought I would expound a bit
+on my preferred GURPS house rules. These are the modifications I make on every
+campaign I GM. Some are tried-and-true, some are experimental, and one I haven’t
+really used yet but intend to.</p>
+
+<p>None of them are original creations, though. There’s so much stuff out there
+already that I don’t feel inclined to come up with my own stuff.</p>
+
+<h2 id="the-permanent-fixtures">The Permanent Fixtures</h2>
+
+<p>These rules should be in effect in pretty much any game I GM.</p>
+
+<h3 id="metric">Metric!</h3>
+
+<p>If I have one complaint about GURPS is that it uses Imperial measurements for
+everything. I don’t! I use metric instead. By now I’m pretty used to applying
+simple conversions for lengths and weights.</p>
+
+<p>Areas and volumes are more annoying, though I suspect <a href="http://bignose.whitetree.org/projects/gurps/house-rules.devel/gurps-metric.xhtml">this site</a> would help
+me there. I don’t agree with <em>everything</em> on it (for example, I’m not rounding
+Basic Lift to the nearest whole kilogram, that’s not granular enough), but it
+does a good job overall.</p>
+
+<h3 id="alternate-guns-specialties">Alternate Guns Specialties</h3>
+
+<p>These are from Pyramid #3/65. It greatly simplifies the existing Guns
+specialties, and I think it makes a lot of sense. I use it on any game that has
+guns at all.</p>
+
+<h2 id="occasional-appearances">Occasional Appearances</h2>
+
+<p>These don’t always appear, but I like them nonetheless.</p>
+
+<h3 id="complimentary-skills">Complimentary Skills</h3>
+
+<p>This rule originally appeared on GURPS Dungeon Fantasy 2 and GURPS Action 2, and
+was restated on Pyramid #3/70. It encourages teamwork, and gives heroes a bit of
+an extra edge in general. It hasn’t appeared in all of my games because people
+rarely think to invoke this rule, but if anyone asks whether they can use it the
+answer is always “yes”.</p>
+
+<h3 id="tactics-for-the-win">Tactics For the Win</h3>
+
+<p>This originally appeared in GURPS Martial Arts. It allows the Tactics skill to
+grant rerolls when not using tactical maps, or to enable tricky positioning
+shenanigans when using them. It makes playing “warlord” characters mechanically
+viable, and the only reason it’s not a permanent fixture is that people don’t
+always make those types of character.</p>
+
+<h3 id="team-efforts">Team Efforts</h3>
+
+<p>Another one from Action and Dungeon Fantasy. It simplifies group tests.</p>
+
+<h3 id="range-bands">Range Bands</h3>
+
+<p>This is from GURPS Action. It’s a lot easier to use than the Size/Speed range
+table for combats without a map! In practice it mostly means giving nearly
+everyone a -3 penalty for ranged attacks and calling it a day, since combats in
+my games rarely happen further away 20m that even when everyone has guns.</p>
+
+<h2 id="experiments-tried-and-untried">Experiments, Tried and Untried</h2>
+
+<p>These are rules I <em>want</em> to use more often, but I still don’t feel I’m good
+enough at applying them to so in every game.</p>
+
+<h3 id="technical-grappling-simplified">Technical Grappling, Simplified.</h3>
+
+<p>This is obviously from GURPS Technical Grappling. I like the basic idea of the
+Technical Grappling system, but as written it’s way too complex to use in any
+game that is not entirely about playing through an entire MMA tournament at a
+high level of detail.</p>
+
+<p>I would like to keep the central mechanic where grapplers to “control damage”
+according to their skill and strength, and where this damage makes it
+increasingly harder for the opponent to move. Referred Control has to <em>go</em>,
+however, and I strongly dislike the idea of adjusting people’s ST mid-fight. I’m
+also not too keep on calculating multiple ST scores for every possible
+combination of limbs you’re using for a grapple.</p>
+
+<p>Sometimes I’m strongly tempted to buy Douglas Cole’s Dungeon Grappling
+supplement for D&amp;D-alikes and port it back to GURPS, since it seems to do lot of
+what I described above already. However, now that I’ve discovered that the
+<a href="http://www.sjgames.com/ill/archive/April_01_2018/Announcing_Hall_of_Judgment_for_Dungeon_Fantasy_RPG">official GURPS conversion of his Hall of Tyr adventure</a> is real, I’ll
+probably wait for that instead. In the meantime I might work something out on my
+own.</p>
+
+<h3 id="hybrid-ritual-path-magic">Hybrid Ritual Path Magic</h3>
+
+<p>I’m a big fan of the Ritual Path Magic system as described in, well, GURPS
+Ritual Path Magic. I like the energy accumulation model and the flexibility it
+allows. That book is more geared towards settings where magic is rare and/or
+hidden, though, which means it tends to limit magic by what is “mundanely
+possible” in the setting in question. You can exceed those limits with Greater
+effects, but it’s expensive.</p>
+
+<p>GURPS Dungeon Fantasy 19: Incantation Magic describes a variant of this system
+meant to fit a D&amp;D-like setting, where magic is known and common. The limits it
+imposes are a lot less fuzzy (you can do <em>this</em> much damage, or give <em>this</em> big
+a bonus). The exact amounts are dependent on Magery and there are no Greater
+effects that allow you to exceed them. That’s good for my purposes, but
+unfortunately the system is based on an “effect shaping” model where spells give
+you more skill penalties the more powerful they are.</p>
+
+<p>What I want here is a hybrid system, one that’s based on energy but also geared
+towards obvious-magic settings. What I’d do here is basically use the system
+from RPM with the Magery-based limits from DF, and the removal of Greater
+effects. I haven’t tested this in actual play with real players, but I would
+like to.</p>
+
+
+          </div>
+        </article>
+      </li>
     
       <li>
         <span class="post-meta">Apr 1, 2018</span>
@@ -232,444 +567,6 @@ Basic Move 7.</p>
         </article>
       </li>
     
-      <li>
-        <span class="post-meta">Feb 17, 2018</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2018/02/17/pathfinder-dfrpg-martial-artist.html">Pathfinder Iconics in the DFRPG: Sajan</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>In this post I continue to write up the iconic characters from Pathfinder for
-use in the Dungeon Fantasy Roleplaying Game. Links to all of them will appear on
-the <a href="/octopus-carnival/projects/pathfinder-iconics">project page</a>, which also contains the links to the GURPS Dungeon
-Fantasy versions.</p>
-
-<p>Today’s template is the Martial Artist, which means today’s character is Sajan
-the Monk. Here he is:</p>
-
-<figure>
-  <img src="https://bira.github.io/octopus-carnival/assets/Sajan.jpg"/>
-  <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
-</figure>
-
-<p>I think he looks pretty cool! His <a href="http://pathfinder.wikia.com/wiki/Sajan_Gadadvara">bio</a> and <a href="http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/sajan.html">official stats</a> give us the
-following information:</p>
-
-<ul>
-  <li>
-    <p>He was born in Vudra, his world’s India analogue, where he was a member of the
-warrior caste along with his beloved twin sister Sajni. Even after they were
-posted to separate barracks at the age of 12 they still met regularly to spar
-and hang out.</p>
-  </li>
-  <li>
-    <p>Sajni was given away as part of a peace agreement, and Sajan ran after her. He
-tracked her down to Absalom, his world’s “big cosmopolitan city”, and has been
-looking for her since.</p>
-  </li>
-  <li>
-    <p>As a monk he’s quite acrobatic and prefers to rely on his flurry of blows in
-combat. He might also grapple or trip opponents with his hooked “temple
-sword” if that’s more tactically advantageous.</p>
-  </li>
-</ul>
-
-<p>The <a href="/octopus-carnival/gurps/2016/12/13/pathfinder-df-monk.html">GURPS Dungeon Fantasy version</a> used the stats for a khopesh from GURPS
-Low-Tech for the “temple sword”. Since this one is restricted only to the
-material in the DFRPG boxed set, we go with the Heavy Falchion stats and give up
-on the rules for weapon hooks. We also had to lose the gauntlets, as his light
-cloth armor is a bit heavier here. Sajan continues to be a very effective
-combatant either with his sword or with his fists, and has most of the abilities
-people have come to associate with monks in d20.</p>
-
-<h2 id="sajan-250-point-human-martial-artist">Sajan, 250-point Human Martial Artist</h2>
-
-<p><strong>ST</strong> 11 {10}; <strong>DX</strong> 16 {120}; <strong>IQ</strong> 10 {0}; <strong>HT</strong> 12 {20}</p>
-
-<p>Damage 1d/2d-1; BL 12.1kg; HP 11; Will 11 {5}; Per 10; FP 12; Basic Speed
-7.00; Basic Move 8 {5}</p>
-
-<p><strong>Advantages</strong></p>
-
-<ul>
-  <li>Chi Talent 2 {30}</li>
-  <li>Mantis Strike {9}</li>
-  <li>Tiger Sprint {9}</li>
-  <li>Trained by a Master {30}</li>
-  <li>Weapon Master (Heavy Falchion) {20}</li>
-</ul>
-
-<p><strong>Disadvantages</strong></p>
-
-<ul>
-  <li>Disciplines of Faith (Chi Rituals) {-10}</li>
-  <li>Honesty (12) {-10}</li>
-  <li>No Sense of Humor {-10}</li>
-  <li>Obsession (12) (Find my sister) {-10}</li>
-  <li>Sense of Duty (Adventuring Companions) {-5}</li>
-  <li>Vow (Vegetarianism) {-5}</li>
-</ul>
-
-<p><strong>Skills</strong></p>
-
-<ul>
-  <li>Acrobatics (H) DX-1 {2} - 15</li>
-  <li>Broadsword (A) DX+1 {4} - 17</li>
-  <li>Climbing (A) DX-1 {1} - 15</li>
-  <li>Fast-Draw (Shuriken) (E) {1} - 16</li>
-  <li>Hiking (A) HT-1 {1} - 11</li>
-  <li>Judo (H) DX {4} - 16</li>
-  <li>Jumping (E) DX {1} - 16</li>
-  <li>Karate (H) DX {4} - 16</li>
-  <li>Meditation (H) Will-1 {2} - 10</li>
-  <li>Running (A) HT-1 {1} - 11</li>
-  <li>Stealth (A) DX-1 {1} - 15</li>
-  <li>Tactics (H) IQ {4} - 10</li>
-</ul>
-
-<p><strong>Special Skills</strong></p>
-
-<p>All include +2 from Chi Talent.</p>
-
-<ul>
-  <li>Blind Fighting (VH) Per {2} - 10</li>
-  <li>Body Control (VH) HT {2} - 12</li>
-  <li>Immovable Stance (H) DX+1 {2} - 17</li>
-  <li>Light Walk (H) DX+1 {2} - 17</li>
-  <li>Parry Missile Weapons (H) DX+1 {2} - 17</li>
-  <li>Pressure Points (H) IQ+1 {2} - 11</li>
-  <li>Push (H) DX+1 {2} - 17</li>
-  <li>Throwing Art (H) DX+1 {2} - 17</li>
-</ul>
-
-<p><strong>Equipment</strong></p>
-
-<p>$802.0, 12.1kg. No Encumbrance, but only just.</p>
-
-<ul>
-  <li>Ordinary Clothing [Torso, Limbs]: Free, 1kg.</li>
-  <li>Light Cloth Armor [Body, Limbs]: DR 1. $137, 8.25kg.</li>
-  <li>Temple Sword [Torso]: As Large Falchion. Damage 2d+5 cut or 1d+1 imp. $625,
-2.25kg.</li>
-  <li>Pouch [Torso]: Holds 1.5kg of small items. $10, 0.1kg.</li>
-  <li>Star Shuriken x5 <strong>[Pouch]</strong>: Damage 1d+1 cut. $15, 0.25kg.</li>
-  <li>Spike Shuriken x5 <strong>[Pouch]</strong>: Damage 1d imp. $15, 0.25kg.</li>
-  <li>$198 in coin.</li>
-</ul>
-
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 9, 2018</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2018/02/09/hydra.html">Dragon&#39;s Dogma Bestiary: Hydras</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <figure>
-  <img src="https://bira.github.io/octopus-carnival/assets/DDENEMIES.jpg"/>
-  <figcaption>Copyright 2012 Capcom.</figcaption>
-</figure>
-
-<p>This is an entry in the Dragon’s Dogma bestiary. You thought I had droppped
-this, didn’t you? The remaining entries along with the full adaptation can be
-found <a href="/octopus-carnival/projects/dragons-dogma/">here</a>.</p>
-
-<p>Like gryphons and chimeras, hydras are a heraldic animal in Gransys, symbolizing
-endurance in battle. Hydra sightings are vanishingly rare, for not many of these
-monsters exist in Gransys and even fewer people who saw one up close lived to
-tell the tale.</p>
-
-<p>A Gransys hydra looks like a gigantic four-headed snake, covered in shiny black
-scales. Its four necks tower over the ground at the height of a cyclops, and its
-main body is even larger. Its four heads can spit a jet of numbing poison, and
-and swallow a grown man whole. Despite this, the creature lacks substantial
-fangs and its jaw muscles are more suited for immobilizing victims than for
-outright crushing them. Should the hydra have need of crushing someone, though,
-it can simply slam its heads, necks, or tail into the victim.</p>
-
-<p><strong>ST</strong> 50; <strong>DX</strong> 13; <strong>IQ</strong> 5; <strong>HT</strong> 15;</p>
-
-<p><strong>HP</strong> 60; <strong>Will</strong> 12; <strong>Per</strong> 12; <strong>FP</strong> 15;</p>
-
-<p><strong>Speed</strong> 7; <strong>Move</strong> 8 (Slithers); <strong>SM</strong> +5;</p>
-
-<p><strong>Dodge</strong> 10; <strong>DR</strong> 6 (neck); 9 (elsewhere).</p>
-
-<ul>
-  <li><strong>Head Slam (15)</strong>: 6d+3 crushing; Reach C-4; The hydra slams one of its heads
-into the target.</li>
-  <li><strong>Miasma Spit (15)</strong>: A 2 meter radius area of effect in front of the
-hydra. Targets exposed to the venom must roll HT. Success means 1d injury,
-failure means 2d. Targets also suffer a -1 penalty to DX for every 2 injury
-sustained, which lasts for 1 minute. Costs 2 FP per use.</li>
-  <li><strong>Bite (15)</strong>: The target is grappled with ST 52! In subsequent turns the
-hydra will attempt to swallow the target (treat it as an attempt to pin). See
-Notes below for how to rescue a swallowed target.</li>
-  <li><strong>Tail Sweep (15)</strong>: 6d+3 crushing with double knockback; Targets a 3 meter
-radius area of effect behind the hydra. Can only be dodged, not parried or
-blocked!</li>
-</ul>
-
-<p><strong>Traits</strong>: Extra Attack 3; High Pain Threshold; Horizontal; Hydra Regeneration
-(see below); No Legs (slithers); No Fine Manipulators; Nictitating Membrane 3;
-Night Vision 9; Peripheral Vision;</p>
-
-<p><strong>Skills</strong>: Brawling-15; Wrestling-15; Innate Attack-15;</p>
-
-<p><strong>Class</strong>: Mundane.</p>
-
-<h2 id="hydra-tactics">Hydra Tactics</h2>
-
-<p>The hydra can do <em>something</em> with each of its heads each turn, or give up one
-head’s action for a tail sweep. Each head counts as a separate individual for
-the purposes of being targetted with mind-affecting spells or the like.</p>
-
-<p>Despite its feasome size and prowess, a hydra has the mind of a beast. It will
-usually attack because it’s hungry! In these cases, its usual tactic is to
-impair one of more targets with its Miasma Spit, then bite and swallow them. It
-will retreat once it has had its fill or suffered significant injury.</p>
-
-<p>Hydras are also highly territorial and will fight any who trespass on their
-lairs to the death.</p>
-
-<h2 id="fighting-a-hydra">Fighting a Hydra</h2>
-
-<p>A cumulative 15 injury from cutting weapons to a neck will sever one of the
-hydra’s heads. 2d seconds later, the head will grow back, and the hydra will
-regain the lost HP. The stump must be burned with natural or magical fire to
-prevent this from happening! Severing and cauterizing the last head will of
-course kill the beast.</p>
-
-<p>Someone swallowed by a hydra can still be saved in the 10 seconds it takes for
-them to travel down the beast’s neck if the offending head is severed before
-then. If they reach the creature’s body they will automatically take 6d+2 cr
-damage per second from its innards, which practically guarantees a swift death.</p>
-
-<h3 id="giant-climbing">Giant Climbing</h3>
-
-<p>It’s possible for a brave or suicidal warrior to climb the neck of a hydra! It’s
-skin is mostly smooth but still provides some handholds, giving a -2 to any
-Climbing rolls. Someone clinging to the neck of a hydra can target the neck at
-no penalty with a one-handed melee weapon, but the beast can still attempt to
-crush the pest by slamming its neck against the ground. Treat this as a “Head
-Slam” attack. The target has a -2 penalty to Dodge it unless they let go of the
-hydra.</p>
-
-<h2 id="hydra-variants">Hydra Variants</h2>
-
-<h3 id="archydra">Archydra</h3>
-
-<p>The original game also features the “Archydra” in its most difficult dungeons,
-beyond the Rift. This variant is white instead of black, harder to hurt, and
-does have fangs. It has DR 9 in the neck and 12 elsewhere and can bite for 6d+2
-imp damage instead of grappling if it wishes.</p>
-
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Nov 21, 2017</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2017/11/21/pathfinder-dfrpg-scout.html">Harsk the Ranger in the DFRPG</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>In this post I continue to write up the Pathfinder iconic characters for use in
-the Dungeon Fantasy Roleplaying Game. Links to all of them will appear in the
-<a href="/octopus-carnival/projects/pathfinder-iconics">project page</a>, which also contains links to the GURPS Dungeon Fantasy
-versions.</p>
-
-<p>Today’s template is the Scout, not because it’s in order but because it’s the
-one I’ve written. This means today’s character is Harsk the Ranger. Here he is:</p>
-
-<figure>
-  <img src="https://bira.github.io/octopus-carnival/assets/Harsk.jpg"/>
-  <figcaption>By Wayne Reynolds, Copyright 2008 Paizo Publishing</figcaption>
-</figure>
-
-<p>Just Look at all that compressed rage! His <a href="http://pathfinder.wikia.com/wiki/Harsk">bio</a> does give him plenty to be
-angry about. Harsk’s official stats are <a href="http://paizo.com/pathfinderRPG/prd/npcCodex/iconic/harsk.html">here</a>. From these we can learn the
-following:</p>
-
-<ul>
-  <li>
-    <p>Harsk is a Dwarf from Varisia, a “wild frontier” region that doesn’t have any
-blatant ties to real-world cultures. He was a bit of an outsider to his own
-stereotypically Dwarven community, and appointed himself a keeper of justice
-in the wild places after his brother was killed by raiding giants.</p>
-  </li>
-  <li>
-    <p>He carries his brother’s axe with him, but his preferred weapon is a heavy
-crossbow he made himself. Understandably, he has giants as a favored enemy and
-gains bonuses to fight them.</p>
-  </li>
-  <li>
-    <p>He’s skilled in wilderness survival, particularly in mountains, and very
-perceptive.</p>
-  </li>
-</ul>
-
-<p>This puts us in something of a pickle. DF Scouts are excellent at shooting bows,
-but Harsk’s preferred weapon is the <em>crossbow</em>. While that’s much more in line
-with the dwarven idiom, it’s not supported by the standard Scout template in
-<strong>Adventurers</strong>. Fortunately, it’s possible for me to add new material to
-support him without copying anything printed in other GURPS books! Even in
-standard GURPS the traits below were only sort of <em>implied</em>, so I also had to do
-this for the <a href="https://bira.github.io/octopus-carnival/gurps/2016/12/05/pathfinder-df-ranger.html">previous version</a> of the character.</p>
-
-<h3 id="heroic-crossbowman-20-points">Heroic Crossbowman (20 points)</h3>
-
-<p>This is just like Heroic Archer, but for crossbows instead of bows. You can
-choose this version <em>instead</em> of Heroic Archer when making a Scout. It gives
-almost exactly the same bonuses: simply replace the Bow skill with Crossbow
-where applicable. The only difference is that there isn’t a corresponding Weapon
-Master specialty for crossbows. All other advantages described under Special
-Scout Traits are compatible with this one.</p>
-
-<h3 id="quick-reload-1-point">Quick Reload (1 point)</h3>
-
-<p>If you have Heroic Crossbowman, you can also purchase this advantage. It allows
-you to reload a crossbow of your ST or lower in a <em>single turn</em> with a
-successful Fast-Draw (Arrow) row, reducing the total ready time of the weapon
-from 4 to 2 seconds: one to reload, one bring the weapon into position. If you
-do this and use Heroic Crossbowman’s fast-firing technique, you can fire your
-crossbow every turn!</p>
-
-<h2 id="harsk-250-point-dwarf-scout">Harsk, 250-point Dwarf Scout</h2>
-
-<p>ST 13 {30}; DX 14 {80}; IQ 11 {20}; HT 13 {30}</p>
-
-<p>Damage 1d/2d-1; BL 22.5kg; HP 12; Will 11; Per 14 {15}; FP 16 {9}; Basic Speed
-7.00 {5}; Basic Move 6 {-5}.</p>
-
-<p>Dodge 10; Parry 12 (Axe).</p>
-
-<h3 id="advantages">Advantages</h3>
-
-<ul>
-  <li>Dwarven Gear {1}</li>
-  <li>Heroic Crossbowman {20}</li>
-  <li>Lifting ST 2 {6}</li>
-  <li>Night Vision 8 {8}</li>
-  <li>Outdoorsman 2 {20}</li>
-  <li>Pickaxe Penchant 1 {5}</li>
-  <li>Quick Reload (Crossbow) {1}</li>
-  <li>Resistant to Poison 6 {6}</li>
-  <li>Strongbow {1}</li>
-  <li>Tough Skin 1 {3}</li>
-</ul>
-
-<h3 id="disadvantages">Disadvantages</h3>
-
-<ul>
-  <li>Greed (12) {-15}</li>
-  <li>Honesty (12) {-10}</li>
-  <li>Intolerance (Giants) {-5}</li>
-  <li>Loner (12) {-5}</li>
-  <li>No Sense of Humor {-10}</li>
-  <li>Odious Personal Habit (Dour &amp; Gruff) {-5}</li>
-  <li>Sense of Duty (Adventuring Companions) {-5}</li>
-  <li>Stubborness (12) {-5}</li>
-  <li>Vow (Own no more than what can be carried) {-10}</li>
-</ul>
-
-<h3 id="skills">Skills</h3>
-
-<ul>
-  <li>Armory (Missile Weapons) (A) IQ-1 {1} - 10</li>
-  <li>Axe/Mace (A) DX+4 {12}<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> - 18</li>
-  <li>Brawling (E) DX {1} - 14</li>
-  <li>Camouflage (E) IQ+3 {2}<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> - 14</li>
-  <li>Cartography (A) IQ+1 {4} - 12</li>
-  <li>Climbing (A) DX-1 {1} - 13</li>
-  <li>Crossbow (E) DX+5 {16} - 19</li>
-  <li>Fast-Draw (Arrow) (E) DX+1 {2} - 15</li>
-  <li>First Aid (E) IQ {1} - 11</li>
-  <li>Gesture (E) IQ+1 {2} - 12</li>
-  <li>Hiking (A) HT {2} - 13</li>
-  <li>Jumping (E) DX {1} - 14</li>
-  <li>Mimicry (Bird Calls) (H) IQ+1 {2}<sup id="fnref:2:1" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> - 12</li>
-  <li>Navigation (A) IQ+1 {1}<sup id="fnref:2:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> - 12</li>
-  <li>Observation (A) Per {2} - 14</li>
-  <li>Prospecting (A) IQ {1}<sup id="fnref:1:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> - 11</li>
-  <li>Search (A) Per-1 {1} - 13</li>
-  <li>Shadowing (A) IQ+1 {4} - 12</li>
-  <li>Stealth (A) DX-1 {1} - 13</li>
-  <li>Survival (Mountain) (A) Per+1 {1}<sup id="fnref:2:3" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> - 15</li>
-  <li>Tracking (A) Per+2 {2}<sup id="fnref:2:4" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> - 16</li>
-  <li>Traps (A) IQ+1 {4} - 12</li>
-  <li>Wrestling (A) DX-1 {1} - 13</li>
-</ul>
-
-<h3 id="equipment">Equipment</h3>
-
-<p>$1000.0, 21.45kg. No Encumbrance!</p>
-
-<ul>
-  <li>Ordinary Clothing [Torso, Limbs]: Free, 1kg.</li>
-  <li>Light Leather Jacker [Torso, Arms]: DR 1. $78, 4.6kg.</li>
-  <li>Crossbow [Torso]: ST 17. Damage 1d+6 pi; Acc 4; Range 340/425. $150, 3kg.</li>
-  <li>Crossbow Sling [Crossbow]: $200, 1kg.</li>
-  <li>Hip Quiver [Torso]: Holds up to 20 bolts. $15, 0.5kg.</li>
-  <li>Bolts x 20 [Quiver]: $40, 0.6kg.</li>
-  <li>Dwarven Axe [Torso]: Damage 2d+1 cut. $225, 2kg.</li>
-  <li>Backpack, Small [Torso]: Holds 20kg of gear. $60, 1.5kg.</li>
-  <li>Blanket [Backpack]: $20, 1kg.</li>
-  <li>Canteen [Backpack]: $10, 1.5kg.</li>
-  <li>Personal Basics [Backpack]: $5, 0.5kg.</li>
-  <li>Rations x 4 [Backpack]: $8, 1kg.</li>
-  <li>Rope, 3/8” (10m) [Backpack]: Supports 150kg. $5, 0.75kg.</li>
-  <li>Torch x 2 [Backpack]: $6, 1kg.</li>
-  <li>Tea Set [Backpack]: $7, 1.5kg.</li>
-  <li>$171 in coin.</li>
-</ul>
-
-<h2 id="design-notes">Design Notes</h2>
-
-<p>Strongbow and Lifting ST 2 allow Harsk to fire a ST <em>17</em> crossbow despite only
-having ST 13. While he’s also a pretty good axe fighter in a pinch, his main
-focus is reaching out and touching people from very far away.</p>
-
-<h3 id="changes-from-the-first-iteration">Changes from the First Iteration</h3>
-
-<p>The dwarf racial template changed slightly, and following the <strong>DFRPG</strong>
-guidelines I just mixed its traits in with the professional template rather than
-taking the time to mark what belongs to the racial template and what
-doesn’t. And since there’s no general purpose Mortal Foe trait here, this
-version of Harsk doesn’t have it. Instead, he sees in the dark a lot better, and
-is able to shoot a bigger crossbow.</p>
-
-<p>His gear actually doesn’t change all that much, as he only had a DR 1 leather
-jacket before too. There’s no tea set listed in DFRPG, I believe, but I didn’t
-think there would be any harm in keeping it.</p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>+1 from Pickaxe Penchant. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:1:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>+2 from Outdoorsman. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:2:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:2:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a> <a href="#fnref:2:4" class="reversefootnote" role="doc-backlink">&#8617;<sup>5</sup></a></p>
-    </li>
-  </ol>
-</div>
-
-          </div>
-        </article>
-      </li>
-    
   </ul>
 
 <!-- Pagination links -->
@@ -677,7 +574,7 @@ think there would be any harm in keeping it.</p>
   
     <a href="/octopus-carnival/page91" class="previous">Previous</a>
   
-  | <span class="page_number ">Page: 92 of 113</span> |
+  | <span class="page_number ">Page: 92 of 114</span> |
   
     <a href="/octopus-carnival/page93" class="next">Next</a>
   

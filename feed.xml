@@ -6,9 +6,471 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Nov 2022 18:35:13 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Nov 2022 18:35:13 +0000</lastBuildDate>
+    <pubDate>Wed, 23 Nov 2022 13:12:50 +0000</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2022 13:12:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Yuan-ti</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;In a situation that’s familiar to us by now, Yuan-ti would get a revamp and a
+lore infusion in the upcoming Monster Vault (and you can see how that looks like
+&lt;a href=&quot;/octopus-carnival/2021/02/27/yuan-ti.html&quot;&gt;here&lt;/a&gt;), and this entry presents stat blocks that complement the ones that
+would come out in the MV.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The lore section of this page lacks the nifty creation myth from the MV entry,
+sticking to a more generic “perfidious infiltrators” profile for the yuan-ti. It
+does add a new bit, however: the snake god Zehir doesn’t just want to see his
+favorite people thrive in the world. His true goal is to become the supreme
+authority in the cosmos. Zehir is convinced that the universe can only withstand
+the return of the primordials if it’s led by the strong hand of a single
+absolute ruler.&lt;/p&gt;
+
+&lt;p&gt;So this means we have at least two authoritarian assholes in our current
+pantheon: Asmodeus and Zehir. Big Z’s goals are not widely known in the world -
+only his most powerful and trusted servants are privy to this mystery. There are
+other gods who are aware of this but they’re content to merely keep an eye on
+the snake god as long as his machinations continue to hurt their enemies. Things
+might get more heated should Zehir explicitly turn against his fellow deities.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Yuan-ti are Medium Natural Humanoids with the Reptile keyword. They have a
+ground speed of 7, and 5/tier poison resistance.&lt;/p&gt;
+
+&lt;p&gt;While the MM1 and Monster Vault gave us heroic and paragon stat blocks for
+snaketongue cultists and yuan-ti, the MM3 gives a bunch of high-epic stat blocks
+that apparently represent those individuals who are closest to Zehir and
+actively working towards his goal of complete world domination.&lt;/p&gt;
+
+&lt;p&gt;There’s plenty here for all sorts of all-yuan-ti encounters, but they also
+employ various sapient humanoid cultists, and make pets or allies of any
+creature who is even remotely similar to a snake.&lt;/p&gt;
+
+&lt;p&gt;The individual stat blocks are relatively simple, making me think PCs are
+supposed to face them in large numbers. It would certainly be possible to
+downscale them to lower levels without changing much else about their stat
+blocks.&lt;/p&gt;
+
+&lt;h3 id=&quot;coil-of-zehir&quot;&gt;Coil of Zehir&lt;/h3&gt;
+
+&lt;p&gt;A Large yuan-ti who’s almost completely snaky, its arms almost vestigial. It’s a
+Level 26 Controller with 235 HP.&lt;/p&gt;
+
+&lt;p&gt;The Coil’s basic attack is a Reach 3 &lt;strong&gt;Slam&lt;/strong&gt; that does light physical damage,
+pulls the target 2 squares, and grabs it on a hit. The Coil can only have one
+victim grabbed at a time, and it can hit them with &lt;strong&gt;Crushing Coils&lt;/strong&gt; for an
+automatic 40 damage that also dazes them for a turn. As a minor action, it can
+use a Close Burst 3 &lt;strong&gt;Tail Sweep&lt;/strong&gt; that does no damage and knocks targets prone.&lt;/p&gt;
+
+&lt;p&gt;The Coil wants to grab hold of someone and squeeze them to death, using tail
+sweeps to keep would-be rescuers away. Dazed victims can still try to get away
+(Athletics DC 38 or Acrobatics DC 39), but their other options are sharply
+limited.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-abomination-berserker&quot;&gt;Yuan-ti Abomination Berserker&lt;/h3&gt;
+
+&lt;p&gt;Abominations are those ‘snakier’ yuan-ti with humanoid torsos but the lower
+body of a giant snake. Another Large variant, Berserkers know how to fight and
+know they shouldn’t attack other yuan-ti or cultists. That’s about it. The
+others treat them nicely to avoid accidents, and then point them at whoever they
+want dead. Berserkers are Level 27 Brutes with 293 HP.&lt;/p&gt;
+
+&lt;p&gt;These creatures fight with Reach 2 &lt;strong&gt;Slams&lt;/strong&gt; that do heavy physical
+damage. Every so often they’ll spin and do a &lt;strong&gt;Roundhouse Slam&lt;/strong&gt; (recharge 4+),
+making a basic attack against every adjacent enemy. If you hit them while
+they’re bloodied, they can make a free slam against you as a reaction. Simple
+but effective.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-malison-guard&quot;&gt;Yuan-ti Malison Guard&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yuan-ti-guard.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Malisons are the more humanoid yuan-ti, still covered in scales and with snake
+heads, but otherwise humanoid. This is an elite front-line fighter who serves
+Zehir proudly despite the shame of having legs. It’s a Level 27 Soldier (Leader)
+with 242 HP. It knows how to fight in formation and its &lt;strong&gt;Overlapping Scales&lt;/strong&gt;
+aura (1) gives a +2 bonus to AC to all allies inside.&lt;/p&gt;
+
+&lt;p&gt;Guards fight with &lt;strong&gt;scimitars&lt;/strong&gt; and &lt;strong&gt;longbows&lt;/strong&gt;, both of which deal decent
+damage and inflict ongoing poison damage (save ends). The scimitar marks for a
+turn on a hit.&lt;/p&gt;
+
+&lt;p&gt;These creatures want to be in a tight formation with either other melee allies,
+or with an artillery detachment.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-abomination-spitter&quot;&gt;Yuan-ti Abomination Spitter&lt;/h3&gt;
+
+&lt;p&gt;An abomination with well-developed venom glands that produce a “blessed” venom
+far deadlier than that of a mundane snake. It’s Level 27 Artillery with 186
+HP. It can &lt;strong&gt;Spit Venom&lt;/strong&gt; out to Range 20, dealing immediate and ongoing poison
+damage on a hit. It can also &lt;strong&gt;Spray Venom&lt;/strong&gt; (recharge 4+) on a close burst 5,
+dealing poison damage and dazing (save ends). If someone closes to melee, it can
+&lt;strong&gt;bite&lt;/strong&gt; to deal physical damage and inflict ongoing poison damage.&lt;/p&gt;
+
+&lt;p&gt;If an attack hits the spitter, it can flare its &lt;strong&gt;Cobra Hood&lt;/strong&gt; as a reaction to
+gain +4 to AC for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-malison-blessed&quot;&gt;Yuan-ti Malison Blessed&lt;/h3&gt;
+
+&lt;p&gt;An epic priest of Zehir, receiving blessings directly from the deity. It’s a
+Level 28 Controller (Leader) with 250 HP.&lt;/p&gt;
+
+&lt;p&gt;Most of the blessed’s controllery effects are passive and always on. It projects
+an aura (3) of &lt;strong&gt;Zehir’s Favor&lt;/strong&gt; that allows allies inside to reroll failed
+recharge rolls. It also projects an aura (5) of &lt;strong&gt;Zehir’s Agony&lt;/strong&gt; that deals 15
+poison damage to any enemy starting their turn inside. While bloodied, the
+blessed can &lt;strong&gt;Slither Away&lt;/strong&gt;, gaining a +2 bonus to speed and a +5 to all
+defenses.&lt;/p&gt;
+
+&lt;p&gt;The blessed’s active actions are few, but powerful. It fights with a
+&lt;strong&gt;scimitar&lt;/strong&gt; whose strikes damage, strip poison resistance, and inflict a -2
+penalty to saves vs. poison effects (save ends both). And yes, about 90% of all
+attacks described in this MM3 entry are poison effects. Including this one.&lt;/p&gt;
+
+&lt;p&gt;The blessed can also use &lt;strong&gt;Zehir’s Command&lt;/strong&gt; as a minor action, allowing two
+allies within 5 squares to either make a basic attack or shift their speed as a
+free action. If an enemy within 5 squares shifts, the blessed can use &lt;strong&gt;Shifting
+Feet&lt;/strong&gt; as a reaction to slide them 2 squares.&lt;/p&gt;
+
+&lt;p&gt;While these creatures are technically regulars, they have the action efficiency
+you’d expect from an elite.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-malison-assassin&quot;&gt;Yuan-ti Malison Assassin&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yuan-ti-assassin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one has a sword and it very much wants to stab you with it so you can
+sample the many substances it put on the blade. It’s sent after people who anger
+Zehir directly. It’s a Level 28 Lurker with 194 HP.&lt;/p&gt;
+
+&lt;p&gt;The assassin’s basic &lt;strong&gt;Longsword&lt;/strong&gt; deals very light damage and blinds for a turn
+on a hit. A victim who cannot see the assassin for any reason is subject to a
+&lt;strong&gt;Death Strike&lt;/strong&gt; that deals standard physical damage, inflicts ongoing 15 poison
+damage, and imposes a -2 penalty to saves (save ends both). After the first
+failed save, the damage worsens by 5 and the save penalty by 1. Someone also
+targetted by the Blessed could be looking at a total -5 save penalty here!&lt;/p&gt;
+
+&lt;p&gt;If a ranged or melee attack hits the assassin it can use &lt;strong&gt;Shield of Zehir&lt;/strong&gt; to
+make sure a blind victim adjacent to it also suffers the attack’s damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;yuan-ti-malison-stalker&quot;&gt;Yuan-ti Malison Stalker&lt;/h3&gt;
+
+&lt;p&gt;A relentless pursuer sent after victims who steal from Zehir’s temples or commit
+other crimes against the yuan-ti people. They’re Level 28 Skirmishers wtih 254
+HP. They’re more or less equivalen to PC avengers.&lt;/p&gt;
+
+&lt;p&gt;Stalkers use &lt;strong&gt;greataxes&lt;/strong&gt; and have 5e advantage on their attacks if the target
+is the only creature adjacent to them. They can also teleport 3 squares as a
+minor action, which means they can move up to 13 squares a turn without spending
+their standard action, and they can charge someone from 20 squares away. It’s
+impossible to outrun a stalker.&lt;/p&gt;
+
+&lt;h3 id=&quot;molt-of-zehir&quot;&gt;Molt of Zehir&lt;/h3&gt;
+
+&lt;p&gt;Literally a person-shaped bag of snakes, made from the cast-off skin of a
+yuan-ti. This apparently &lt;em&gt;just happens&lt;/em&gt; when an epic yuan-ti molts, it’s not a
+conscious ritual or anything. The snakes just appear from somewhere and crawl
+inside the skin.&lt;/p&gt;
+
+&lt;p&gt;Molts are Level 26 Minion Skirmishers. They have a basic &lt;strong&gt;bite&lt;/strong&gt; attack and
+when they die the dispersing &lt;strong&gt;Horde of Snakes&lt;/strong&gt; acts as a Close Burst 1 attack
+that damages and inflicts ongoing poison damage (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I’m not overly fond of classic yuan-ti lore these days, because it has too
+strong a whiff of “yellow peril” about it. I’d probably come up with something
+different for them if I had to.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, these creatures are kind of interesting, though each one is very
+simple. Mechanically, I think you can knock 10 or even 20 levels off them if you
+don’t want your PCs to wait until the campaign’s endgame to fight the snek
+people.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/23/yuan-ti.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/23/yuan-ti.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Goncharov</title>
+        <description>&lt;p&gt;I’ve recently read about a fun Tumblr meme. It’s about Goncharov, a 1973 Martin
+Scorcese movie that never existed.&lt;/p&gt;
+
+&lt;p&gt;It began when someone posted a picture of these bootleg boots they bought
+somewhere. The brand label had one of those word salads copied from somewhere
+and edited by someone not too familiar with the target language. In this case,
+it was copied from a poster for Gomorrah, a real movie. And it read “Martin
+Scorcese presents Goncharov”.&lt;/p&gt;
+
+&lt;p&gt;Tumblr &lt;a href=&quot;https://www.tumblr.com/hussyknee/701454778540146688/im-so-confused-rn-can-you-explain-the-goncharov&quot;&gt;kinda ran with it&lt;/a&gt;, so now you have a lot of people making things up about
+the movie and fabricating screenshots, posters, bits of soundtrack, talking
+about all of this as if it was a real cinematic masterpiece.&lt;/p&gt;
+
+&lt;p&gt;Someone in a Discord server I frequent suggested Goncharov should become a
+standard name for someone who doesn’t exist, the opposite of John Doe. And this
+got me thinking about Shadowrun again. Here are two uses for the name Goncharov
+in a Shadowrun-like setting.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-mundane&quot;&gt;The Mundane&lt;/h2&gt;
+
+&lt;p&gt;In Shadowrun, “Mr. Johnson” is shadowrunner slang for a person who hires
+shadowrunners. The stereotypical Mr. Johnson is a shady fuck in a suit who talks
+in vague businesslike terms&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but it can be anyone who is willing to be the
+“client” for a runner group. That’s an established part of the game already.&lt;/p&gt;
+
+&lt;p&gt;So how about we say Goncharov is the “reverse” term? Goncharov is Johnson code
+for shadowrunners! Sure “shadowrunners” is canon and also works well, but you
+can’t really write “shadowrunner payoff” in your official corporate ledger, can
+you? So instead you write “payment to Goncharov for services rendered”.&lt;/p&gt;
+
+&lt;p&gt;And just like no self-respecting mysterious client calls themselves Mr. Johnson,
+no self-respecting runner calls themselves Goncharov. Someone who takes that as
+their handle or even as an alias is telling the whole world they’re a clueless
+poser.&lt;/p&gt;
+
+&lt;p&gt;This little bit of culture works well in the Shadowrun setting itself, and on
+any other setting that has stylish urban mercenaries as characters, including a
+lot of GURPS Action or GURPS Cyberpunk campaigns.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numinous&quot;&gt;The Numinous&lt;/h2&gt;
+
+&lt;p&gt;Let’s go a bit further, shall we? Here’s a mystical explanation that’s a bit
+more mystical than even Shadowrun’s default setting allows for&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and is a bit
+closer to Exalted’s take on spirits and magic.&lt;/p&gt;
+
+&lt;p&gt;Goncharov is the Small God of Shadowrunners. He started out as an abstraction,
+as above, but at some point became a real part of shadowrunning culture. Either
+an existing spirit took on the mantle, or folk belief made him real.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Real&lt;/em&gt; runners, those who are more than amoral assholes doing horrible things
+for money, they have an understanding with Goncharov. They never forget the
+corps and the big syndicates are the enemy even when circumstances force them to
+work for these groups. They never sell out. They know who their community and
+friends are, and they look out for them. And after every successful job, they
+give Goncharov his cut.&lt;/p&gt;
+
+&lt;p&gt;Goncharov looks like a fit but somewhat scuffed up man in a nice but somewhat
+scuffed up suit. The details vary, but he never looks overly fancy or
+arrogant. In other words, he might look like John Wick after a fight or three,
+but never like the Continental Hotel guy - that’s the god of Mr. Johnsons.&lt;/p&gt;
+
+&lt;p&gt;Magicians can take Goncharov as a mentor spirit. He provides bonuses to combat
+spells and Spirits of Man, whatever form those bonuses take in your edition of
+choice. Non-magicians can also have “an understanding” with him for a slightly
+cheaper price. This gives them access to the Goncharov’s Cut rule.&lt;/p&gt;
+
+&lt;h3 id=&quot;goncharovs-cut&quot;&gt;Goncharov’s Cut&lt;/h3&gt;
+
+&lt;p&gt;Those who have an understanding with the god of Shadowrunners, and keep to his
+code, can gain extra Karma for giving him his cut. This includes magicians who
+take him as a mentor spirit, or any character who spends points to buy a
+slightly cheaper Edge representing the covenant.&lt;/p&gt;
+
+&lt;p&gt;If you’re using the Karma for Cash rule in your game, such characters gain an
+extra point of Karma when using the rule, if they would already gain at least
+one point normally.&lt;/p&gt;
+
+&lt;p&gt;If that’s not a general campaign rule, such characters still gain access to it,
+becoming able to exchange money for a single point of Karma after every run.&lt;/p&gt;
+
+&lt;p&gt;In both cases the money goes to support and improve the runner’s community, or
+to help out fellow shadowrunners in need.&lt;/p&gt;
+
+&lt;h3 id=&quot;in-gurps&quot;&gt;In GURPS&lt;/h3&gt;
+
+&lt;p&gt;In a GURPS Action or Cyberpunk campaign with supernatural elements, The
+Understanding is a -10-point Code of Honor, since it’s informal but applies to
+people who are not your peers. Give Goncharov his cut and use it to support your
+community and fellow runners; hunt down and punish any who betray them[^3];
+never sell out; even if you need to do a job for a corp or a crime syndicate,
+never forget they’re the enemy.&lt;/p&gt;
+
+&lt;p&gt;This code can work as a “pact” limitation for supernatural or cinematic traits
+related to being stealthy, discreet, or good at combat (yes, even Gunslinger or
+a talent like Smooth Operator). It would provide a 10% discount on their price,
+as normal, and would make these abilities unavailable until atonement if the PC
+breaks the attached code. Goncharov’s cut is also 10%. Following the code might
+also lead to acquiring traits such as positive reputation among your community
+or fellow runners, or Enemies in the form of traitorous villains and amoral
+mercenaries who think you’re weak for having a conscience.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And who betrays you at the end. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Though I understand it was kinda moving in this direction in its latest
+editions.
+[^3]: Yes, you are totally following the code if you track Clockwork down and
+shoot him in the head after telling him “Goncharov says hi”. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read the 4e Monster Manual 3: Yeti</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yeti.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2010 Wizards of the Coast
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;Yetis are inspired by real world folklore and I’m sure they showed up in a
+previous edition of D&amp;amp;D before. This seems to be their 4e debut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;D&amp;amp;D yeti are borderline-sapient predators adapted to live in permafrost covered
+mountains. While they usually feed on other mountain-dwelling animals, they’re
+more than powerful and ferocious enough to attack people, and so everyone who
+lives near their habitat knows they exist. Learning how to recognize signs of
+yeti presence and avoid the creatures is probably a standard part of mountain
+survival training.&lt;/p&gt;
+
+&lt;p&gt;Yetis have a well-developed sense of smell and can track prey across great
+distances. They hate the smell of rotting flesh, however, so leaving decomposed
+animal carcasses around an area can serve to keep them away. Herders also know
+to pay attention to their animals: if they grow too agitated for no apparent
+reason, it might be because they’ve sensed an approaching yeti.&lt;/p&gt;
+
+&lt;p&gt;A yeti relies on its powerful muscles, sharp claws, and magic-enhanced howls to
+kill its prey. They don’t really have any sort of technology or a complex
+society, but they live in bands and work very well together. They’re smart
+enough to avoid large, well-armed expeditions, but they’ll be on top of any
+isolated stragglers before you can say “Look out, a yeti!”.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Yeti are Medium Natural Beasts with Speed 6, Ice Walk, Resist 5 Cold and
+Low-Light Vision. Their signature encounter power is their &lt;strong&gt;Fearsome Howl&lt;/strong&gt;, a
+Close Blast 4 vs. Will that deals psychic damage and pushes 3 squares.&lt;/p&gt;
+
+&lt;p&gt;All of the entries here have &lt;strong&gt;claws&lt;/strong&gt; as their basic attacks. These don’t have
+any riders and are always underpowered for their level, which means they’ll use
+their other attacks as much as possible. Their other attacks also tend to have
+low-ish damage, but have interesting riders. They have an Int between 9 and 11
+while still counting as Beasts, which is why I said “borderline sapient” above.&lt;/p&gt;
+
+&lt;p&gt;Yeti encounters will most often be against an all-yeti group, as they don’t
+really ally with anyone or keep pets. For variety, you can add other
+opportunistic predators, or maybe a wild cold elemental or two. Also, these
+encounters are all pretty much guaranteed to take place in treacherous frozen
+mountain paths full of ice-based difficult terrain and hazards like tall cliffs
+and snow-covered sinkholes. Every yeti has at least one forced-movement power
+available to it (Fearsome Howl), so they’re likely to be more dangerous than
+their stats alone indicate.&lt;/p&gt;
+
+&lt;h3 id=&quot;yeti-hunter&quot;&gt;Yeti Hunter&lt;/h3&gt;
+
+&lt;p&gt;Your typical roaming yeti, whose howls can be heard from miles away but don’t
+really give away their position because of the way sound echoes in the
+mountains. It’s a level 3 Soldier with 49 HP.&lt;/p&gt;
+
+&lt;p&gt;The hunter’s claw attack will probably only feature as part of a &lt;strong&gt;Twin Claw
+Grab&lt;/strong&gt;, which lets it make two attacks and grab the target if both hit. It
+doesn’t have any special abilities to exploit a grab, but the basic rules still
+apply. Its marking abilities are a ranged &lt;strong&gt;How of Challenge&lt;/strong&gt; that deals
+psychic damage and marks for a turn, and a close burst &lt;strong&gt;Call for Blood&lt;/strong&gt; that
+deals more psychic damage and marks everyone it hits (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;yeti-howler&quot;&gt;Yeti Howler&lt;/h3&gt;
+
+&lt;p&gt;A yeti whose magic howls are more powerful than usual. Some stories say they’re
+the embodiment of angry ghosts, howling against the injustice of their premature
+deaths. They’re Level 4 Controllers with 58 HP.&lt;/p&gt;
+
+&lt;p&gt;The howler’s &lt;strong&gt;Chilling Wail&lt;/strong&gt; acts as an aura (3) that deals 5 psychic damage
+and imposes a -2 defense penalty for a turn against any enemy who ends their
+turn inside. This actually brings its melee damage up to par, with a little
+extra aimed at the other PCs inside the aura. If you try to stay away from it,
+the howler will bombard you with &lt;strong&gt;Hurled Boulders&lt;/strong&gt; that work like ranged area
+attacks dealing physical damage.&lt;/p&gt;
+
+&lt;p&gt;In addition to their Fearsome Howl, howlers can also emit a &lt;strong&gt;Piercing Shriek&lt;/strong&gt;
+once per encounter. This ranged attack deals thunder damage, and if the target
+ends their next turn within 5 squares of the yeti they take another 5 thunder
+damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;yeti-rampager&quot;&gt;Yeti Rampager&lt;/h3&gt;
+
+&lt;p&gt;This one is angrier than usual, with a more mobile fighting style. It’s a Level
+5 Skirmisher with 67 HP. They have a Speed of 7.&lt;/p&gt;
+
+&lt;p&gt;Rampagers love to charge, so they’ll try to make space for those charges as
+often as possible. They’ll pick a target and use their &lt;strong&gt;Battle Howl&lt;/strong&gt; against
+it, a ranged attack that deals psychic damage and lets them charge as a free
+action on a hit. They can also just charge normally instead, if they’re not
+confident of hitting the target with the howl. In either case their &lt;strong&gt;Furious
+Charger&lt;/strong&gt; trait gives them +5 bonus damage on charges.&lt;/p&gt;
+
+&lt;p&gt;If they’re surrounded by melee PCs, howlers can use Furious Howl or &lt;strong&gt;Trample&lt;/strong&gt;
+to get away. That last ability lets them shift their speed and make a melee
+attack that damages and knocks prone on a hit against any enemies whose spaces
+they move through during the shift.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Yeti are interesting mechanically, but they require a bit more thought on the
+part of the GM to ensure they’re dealing level appropriate damage. None of them
+are the type to stand still and spam basic attacks.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, I don’t see much wrong with their lore. They’re described as
+dangerous predators, and the word “savage” doesn’t appear even once in this
+entry. The biggest criticism I can make is that yetis are so iconic outside D&amp;amp;D
+that facing one feels kinda “mundane” when compared to some of the other
+monsters available. That’s just a personal taste thing, though.&lt;/p&gt;
+
+&lt;p&gt;It wouldn’t be hard to use these stat blocks for a sapient and friendlier yeti
+if that’s how you want them to be in your campaign.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/21/yeti.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/21/yeti.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the 4e Monster Manual 3: Xivort</title>
@@ -1092,514 +1554,6 @@ culture does not make them universally hostile.&lt;/p&gt;
         <pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/11/06/thri-kreen.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/06/thri-kreen.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Guns of Wolfenstein, Part 01</title>
-        <description>&lt;p&gt;I’ve been playing a lot of Wolfenstein games these past few days. There’s
-something cathartic about unapologetically fighting Nazis. I first did it to
-de-stress, and then to celebrate the results of our most recent election (go
-Lula!).&lt;/p&gt;
-
-&lt;p&gt;And since I do occasionally want to post something here that’s not Let’s Read
-the Monster Manual, I decided to talk a bit about the various guns you use to
-kill Nazis in all of these games.&lt;/p&gt;
-
-&lt;p&gt;We’re dealing with two separate continuities here: one that starts with Return
-to Castle Wolfenstein (2001) and another that starts with Wolfenstein: The New
-Order (2014). You could, if you’re so inclined, include both of them in the
-GURPS Infinite Worlds framework. I’d call then Wolfenstein-1 and Wolfenstein-2
-respectively, though I guess Infinity might call the latter Reich-6 at first.&lt;/p&gt;
-
-&lt;p&gt;In this article, we’ll cover the stuff that appears in Return to Castle
-Wolfenstein (2001), AKA the Wolfenstein-1 setting.&lt;/p&gt;
-
-&lt;h2 id=&quot;game-overview&quot;&gt;Game Overview&lt;/h2&gt;
-
-&lt;p&gt;This is a flashier remake of Wolfenstein 3D, the game that more or less started
-the FPS genre back in 1992. It’s the first game in the franchise to have a more
-fleshed out story wrapped around its gameplay, with voiced dialogue and
-cutscenes elaborating on the simpler “you must escape the castle and kill Nazis”
-plot of the 1992 game.&lt;/p&gt;
-
-&lt;p&gt;The game takes place in a pulpier version of WWII, where the Nazis are working
-on a large variety of scary secret projects and the OSA (a joint Allied spy
-agency) is sending agents to stop them from hitting the field. The player
-character, as always, is William “B. J.” Blazkowicz. He gets sent along with a
-British agent to Castle Wolfenstein to find more about these projects, they get
-captured, and the game starts with Blazko’s escape attempt and moves on to
-thwarting those projects to the Allies can win the war.&lt;/p&gt;
-
-&lt;p&gt;There are two sinister things going on here: an attempt by the Thule society to
-resurrect ancient evil undead knights, and a mad science lab working to build
-cyborg supersoldiers. The final boss is, of course, a bunch of cyborg
-supersoldiers possessed by the spirits of ancient evil undead knights.&lt;/p&gt;
-
-&lt;h2 id=&quot;historical-weapons&quot;&gt;Historical Weapons&lt;/h2&gt;
-
-&lt;p&gt;Wolfenstein-1 is mostly a pulpier version of WWII, so a lot of the weapons we
-see are historical and present on GURPS High-Tech. Though sometimes you’ll start
-a level with some Allied weapons issued by the OSA, the vast majority of the
-time you’ll be using captured German hardware.&lt;/p&gt;
-
-&lt;p&gt;OSA-issue weapons include the &lt;strong&gt;Colt M1911A1&lt;/strong&gt; pistol (p. HT99), the &lt;strong&gt;Thompson
-M1&lt;/strong&gt; submachine gun (p. HT122), and the &lt;strong&gt;Enfield Sten Mk IIS&lt;/strong&gt; submachine gun
-(p. HT 125). The integral suppressor of the Sten works according to cinematic
-principles here, making it completely silent to enemies.&lt;/p&gt;
-
-&lt;p&gt;Interestingly enough, one of the “elite guard” units you face in the game also
-uses Stens, because they’re meant to be sneaky and the Sten is the only
-suppressed SMG in the game. The other OSA weapons are used exclusively by the
-player character.&lt;/p&gt;
-
-&lt;p&gt;German weapons include the &lt;strong&gt;Luger P08&lt;/strong&gt; pistol, (p. HT98), the &lt;strong&gt;ERMA MP40&lt;/strong&gt;
-SMG (p. HT 124), the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; rifle (p. HT111), the &lt;strong&gt;Rheinmetall
-FG42&lt;/strong&gt; battle rifle (p. HT 115) and the &lt;strong&gt;Panzerfaust&lt;/strong&gt; (p. HT147). The player
-also uses these extensively, since every enemy drops ammo for one of them.&lt;/p&gt;
-
-&lt;p&gt;The FG42 is the signature weapon of the other “elite guard” unit in the game,
-and has the scope described in its High-Tech entry. It’s also possible to find a
-suppressor for the Luger and a variable-power scope for the Mauser, which you
-can stat up using the generic rules in p. HT 156 and p. HT 158.&lt;/p&gt;
-
-&lt;p&gt;You can occasionally also find a few &lt;strong&gt;MG42&lt;/strong&gt; machine gun (p. HT 134)
-emplacements in the game. There is also a flamethrower similar to the &lt;strong&gt;M2-2&lt;/strong&gt;
-(p. HT179), though this is probably the German equivalent rather than the
-American version in the book.&lt;/p&gt;
-
-&lt;p&gt;Grenades also see use, with most of them being the German &lt;strong&gt;Stielhandgranate
-24&lt;/strong&gt;, and the rest American &lt;strong&gt;AMC Mk II&lt;/strong&gt; models. Both are on p. HT190-191.&lt;/p&gt;
-
-&lt;h2 id=&quot;fictional-weapons&quot;&gt;Fictional Weapons&lt;/h2&gt;
-
-&lt;p&gt;There’s a lot of pulpy arms research going on here on both sides, so we also get
-to see some weapons that don’t exist in reality. We’ll cover these in a bit more
-detail.&lt;/p&gt;
-
-&lt;h3 id=&quot;snooper-rifle&quot;&gt;Snooper Rifle&lt;/h3&gt;
-
-&lt;p&gt;This is a prototype sniper rifle issued to Blazkowicz by the OSA early in the
-second mission of the game. You also find captured rifles later on while
-breaking into one of the games’ many secret lab facilities.&lt;/p&gt;
-
-&lt;p&gt;The Snooper is the most down-to-earth of the experimental weapons here, being an
-exaggerated version of the &lt;strong&gt;M3 Carbine&lt;/strong&gt; (p. HT113). Even the fancy infrared
-sight is real! The biggest changes are the addition of a cinematic integral
-suppressor that makes the gun completely silent, and making the infrared sight
-more advanced than it really was. The one in the game has variable magnification
-and requires no external batteries.&lt;/p&gt;
-
-&lt;h3 id=&quot;venom-machine-gun&quot;&gt;Venom Machine Gun&lt;/h3&gt;
-
-&lt;p&gt;This is the first entirely fictional weapon we encounter in the game, and the
-second most unrealistic one. It’s a portable, six-barreled, belt-fed minigun. It
-has relatively short barrels, a shoulder stock and rifle-style grips. There’s an
-in-game document that describes it as firing 7.92mm saboted armor piercing
-rounds, but the ammo for it is labeled as “12.7mm” in game. You first find the
-Venom as a prototype in one of the secret labs that make up the game’s levels,
-and after that it starts appearing in the hands of some enemy human
-soldiers. Most of the cyborg supersoldiers you meet towards the end of the game
-also carry one.&lt;/p&gt;
-
-&lt;p&gt;We’ll need custom stats for this one! Let’s go with the assumption that it fires
-7.92mm ammo, to make it minimally plausible for it to be portable. To make it a
-little easier on the user, we can further say it fires the 7.92x33mm Kurz round,
-instead of the longer 7.92x57mm Mauser round from the Kar98K.&lt;/p&gt;
-
-&lt;p&gt;The in-game Venom takes up to 500 rounds. These would probably be in a
-disintegrating belt inside a metal can that can be worn as a backpack. The whole
-thing weights around 16kg, more than the weapon itself. More reasonable 200 and
-100 round belts with their smaller containers might weight in at 8 and 4kg
-respectively.&lt;/p&gt;
-
-&lt;p&gt;We’ll actually base the stats for it on the Minigun from page 138 of GURPS
-Ultra-Tech, making the Venom a TL 7+2 weapon. The one on the table fires APDS
-ammo, which is also TL 7+2 in this caliber, and has a 500-round belt.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6d+2(2) pi-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1000/4000&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15kg/16kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;25!&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;500(5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15M&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-7&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The Venom requires Guns (LMG) to operate, or Guns (Longarm) with the Burst-Fire
-technique if using the alternate gun skill rules from Pyramid #3/65.&lt;/p&gt;
-
-&lt;h3 id=&quot;tesla-gun&quot;&gt;Tesla Gun&lt;/h3&gt;
-
-&lt;p&gt;The weapon used by the advanced cyborg supersoldiers you meet at the very end of
-the game. Unlike the Venom this doesn’t bear even the tiniest resemblance to any
-real gun. Pull the trigger and it fires a stream of lightning until you release
-it or until it runs out of charge.&lt;/p&gt;
-
-&lt;p&gt;The Tesla Gun draws power from a superscience backpack battery equivalent to a
-TL 9 D cell, but four times heavier. Its damage follows the same rules as the
-Lightning spell: metal armor only provides DR 1, and the target must make a HT
-roll with a penalty of -1 for every 2 points of injury taken from it. Failure
-means they’re stunned, and must attempt an HT roll every turn in order to
-recover.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+2^&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4d+2 burn sur&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;600/1900&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;35kg/10kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;50 (5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;18M&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The Tesla Gun requires Gunner (Beam) to operate, even when carried.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-much-for-these-fancy-guns&quot;&gt;How much for these fancy guns?&lt;/h2&gt;
-
-&lt;p&gt;You’ll notice that I ommitted any price information for the Venom and the Tesla
-Gun above. That’s because in Wolfenstein-1 they’re secret prototypes with very
-limited production runs. You don’t buy them, you pry them from the hands of dead
-Nazi assholes.&lt;/p&gt;
-
-&lt;p&gt;If you want to use them on a different setting where they are available for
-purchase, use the following costs:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Name&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Cost&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom MG&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$12.500&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, APDS)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$180&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, solid)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$60&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$60.000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Battery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$400&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;These are for a setting with a tech level of 7+2. If you’re in a “plain” TL9
-setting you might want to use the Minigun and Semi-Portable Electrolaser from
-Ultra-tech, which have slightly better stats.&lt;/p&gt;
-
-&lt;p&gt;If your setting is like Wolfenstein-1, where the overall TL is a plain 7 and
-these are secret superscience prototypes, multiply all prices by 4.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</guid>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Tannarukk</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-tannaruk.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;This one feels like an AD&amp;amp;D 2nd Edition creation, as that’s when they renamed
-demons as “ta’nari”.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Tannarukk are engineered hybrids of orc and demon DNA, the product of rituals
-performed by demon lords or ambitious mortal spellcasters. These rituals are
-effectively a mass-production process, as they involve pulsing vats and can
-create dozens of the creatures at once. In most cases they’re immediately put to
-work as soldiers and weapons of war, though they’re extremely difficult to keep
-under control unless they get “enough” opportunity to commit violence. As you
-might expect, that’s a tall order.&lt;/p&gt;
-
-&lt;p&gt;The few free tannarukk bands that exist tend to seek work as mercenaries. Free or
-not, they can most often be found in the Astral Sea or Elemental Chaos, usually
-fighting something. They do sometimes show up in the middle world, and they love
-it because few warriors there can match their skill and resilience in combat.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Tannarukks are Medium Elemental Humanoids with the Demon and Orc keywords. They
-have Darkvision and Speed 6, along with Resist Fire 5. Their signature trait is
-&lt;strong&gt;Indomitable Fury&lt;/strong&gt;, which kicks in when they drop to 0 HP for the first time
-in the fight. It makes them stay at 1 HP instead and gives them +2 to attacks
-and +4 to damage until the end of the encounter.&lt;/p&gt;
-
-&lt;p&gt;This means the PCs should make sure each Tannarukk in the encounter stays down by
-hitting it again before it can get a chance to take more actions. If they don’t,
-they’re going to take more damage; if they do, that’s one attack that didn’t go
-to a healthier monster.&lt;/p&gt;
-
-&lt;h3 id=&quot;tannarukk-marauder&quot;&gt;Tannarukk Marauder&lt;/h3&gt;
-
-&lt;p&gt;Most tannarukks conform to this stat block, which is your basic enthusiastic axe
-murderer. Marauders wear hide and wield a &lt;strong&gt;greataxe&lt;/strong&gt;, and can also thrown
-&lt;strong&gt;handaxes&lt;/strong&gt; at those they can’t quite reach.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait gives them +4 AC against opportunity attacks,
-which is good because their signature move relies on fishing for them: &lt;strong&gt;Brutal
-Rampage&lt;/strong&gt; allows them to move their speed and make a greataxe attack at any
-point during the move. This attack gains a +5 damage bonus for each opportunity
-attack made against the marauder during the move (but before the attack). The
-opportunity attacks don’t need to hit, they just need to happen.&lt;/p&gt;
-
-&lt;h3 id=&quot;tannarukk-steel-warrior&quot;&gt;Tannarukk Steel Warrior&lt;/h3&gt;
-
-&lt;p&gt;This is a bigger tannarukk that received better training and had armor riveted to
-its hide. It’s a Level 18 Soldier with 177 HP. Its armor counts as plate, and it
-wields a shield and a &lt;strong&gt;Longsword&lt;/strong&gt;, plus a &lt;strong&gt;Crossbow&lt;/strong&gt; for ranged attacks.&lt;/p&gt;
-
-&lt;p&gt;The sword marks for a turn, and the warrior can make free attacks against
-enemies that ignore the mark. It can also be used in a special attack named
-&lt;strong&gt;Burning Cage&lt;/strong&gt; (recharge 5+). This melee attack targets Reflex and does heavy
-fire damage. The target takes a further 5 fire damage every time it enters a
-square during its turn (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;tannarukk-flame-speaker&quot;&gt;Tannarukk Flame Speaker&lt;/h3&gt;
-
-&lt;p&gt;This is a tannarukk spellcaster whose power relies on a connection to the abyssal
-flames that go into their production ritual. It’s level 17 Artillery with 129
-HP and resist 10 fire, a bit higher than usual for them.&lt;/p&gt;
-
-&lt;p&gt;The flame speaker fights with a &lt;strong&gt;Staff&lt;/strong&gt; in melee, and with &lt;strong&gt;fire bolts&lt;/strong&gt; at
-range. It can also shoot a &lt;strong&gt;fire barrage&lt;/strong&gt; (recharge 5+) that targets up to
-three creatures but does a bit less damage than the basic bolt.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, the flame speaker can summon &lt;strong&gt;Winds of Fire&lt;/strong&gt;, an area
-burst attack that deals fire damage and creates a zone that lasts for the rest
-of the encounter. Anyone starting their turn inside takes 10 fire damage and is
-pulled 1 square towards the zone’s origin square.&lt;/p&gt;
-
-&lt;p&gt;In addition to Indomitable Fury, the flame speaker also has &lt;strong&gt;Avenging Fire&lt;/strong&gt;,
-which triggers when it hits 0 HP for the second time. It deals some automatic
-fire damage to the triggering enemy.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These stat blocks take up a lot of space on the book, but they’re simpler than
-they look. Each one has a solid gimmick and appropriate base stats. I guess
-tannarukks are meant to be regular enemies for upper paragon PCs - stronger than
-minions, but you’ll still meet a lot of them.&lt;/p&gt;
-
-&lt;p&gt;Lore-wise, I’m not sure I like them. They’re more or less D&amp;amp;D’s take on the
-Uruk-Hai, I guess, but there are a lot more opponents at this level range that
-feel cooler and less potentially problematic.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/03/tannarukk.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/03/tannarukk.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Su Monster</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-su-monster.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other.&lt;/p&gt;
-
-&lt;p&gt;Su Monsters have been around at least since the AD&amp;amp;D Monster Manual. This is
-their 4e debut. It’s likely their lore is new to this edition. They didn’t seem
-to have any in the AD&amp;amp;D book.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Su Monsters are an artificial species created by the wizard Halkith to guard his
-tower in the legendary Isle of Dread. In Fourth Edition, the Isle is a wandering
-island in the Feywild, and as usual it’s full of very dangerous
-creatures. Halkith created the first Su Monsters to guard his tower against the
-place’s other inhabitants.&lt;/p&gt;
-
-&lt;p&gt;Some time after that, a mysterious event caused a worldwide surge of psionic
-energy. This affected Halkith’s su monsters deeply and caused them to break from
-the wizard’s control. Halkith disappears from history after this - his most
-likely fate is that he was eaten by his creations.&lt;/p&gt;
-
-&lt;p&gt;The wizard combined traits from both great apes and fey panthers to make these
-creatures. In our narrative present they managed to spread beyond the Isle of
-Dread. Their preferred habitat are tropical jungles, particularly those that
-contain sources of psionic power.&lt;/p&gt;
-
-&lt;p&gt;Su Monsters are nonsapient but cunning, and complement their natural weapons
-with residual psychic powers received from the Event. Like cats, they hunt as
-much for fun as for food, and kill much more prey than they can eat at
-once. They bury the excess meat for later consumption, and mark these stashes
-with the prey’s inedible bits (such as its carried treasure). If you find
-shinies hanging off tree branches in the jungle, take care!&lt;/p&gt;
-
-&lt;p&gt;Spellcasters and psionicists often use their power to control these creatures,
-putting them to work as guard and attack animals. When free, they protect and
-hunt in their chosen territories with surprisingly sophisticated tactics.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Su Monsters are Medium Fey Beasts with ground and climb speeds of 7, as well as
-the Forest Walk special ability. They have darkvision, and one of both of the
-following signature abilities:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Psychic Boost&lt;/strong&gt; works like the Star Spawn ability we saw: when a su monster
-hits with one of its physical attacks, it can deal bonus psychic damage as a
-free action. This recharges when the creature takes psychic damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tribal Fury&lt;/strong&gt; has a very unfortunate name and allows the monster to make a
-free claw attack when an ally within 3 squares is first bloodied.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;su-sentinel&quot;&gt;Su Sentinel&lt;/h3&gt;
-
-&lt;p&gt;Many members of a su monster group use this stat block. Each one keeps watch
-over a portion of the group’s territory, and calls the others if they spot any
-prey.&lt;/p&gt;
-
-&lt;p&gt;Su Sentinels are Level 10 Skirmishers with 107 HP. They have a &lt;strong&gt;Skirmish&lt;/strong&gt;
-trait that allows them to deal 5 extra damage with their attacks if they moved
-4 or more spaces this turn.&lt;/p&gt;
-
-&lt;p&gt;In addition to basic &lt;strong&gt;Claw&lt;/strong&gt; strikes, they can make a &lt;strong&gt;Flashing Talons&lt;/strong&gt;
-maneuver that deals a bit less damage and, as an effect, allows them to shift 2
-squares. If the targeted enemy moves to a space adjacent to the monster during
-their next turn, the creature gets to make this attack against them once more
-for free.&lt;/p&gt;
-
-&lt;p&gt;They can also use a &lt;strong&gt;Mind-Rending Bite&lt;/strong&gt; (recharge 4+), which deals even less
-basic damage but inflicts ongoing 10 psychic damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;Sentinels have both Su Monster signature abilities.&lt;/p&gt;
-
-&lt;h3 id=&quot;su-ambusher&quot;&gt;Su Ambusher&lt;/h3&gt;
-
-&lt;p&gt;Su Ambushers are less physicall imposing but they hunt together, hanging out
-near places that see frequent creature traffic and jumping out all at once to
-carry prey away. They’re Level 11 Minion Soldiers.&lt;/p&gt;
-
-&lt;p&gt;They have a basic &lt;strong&gt;Claw&lt;/strong&gt; attack that does minion-tier damage, but instead of
-using that they’re going to rely on &lt;strong&gt;Seize Prey&lt;/strong&gt;. This lets them move their
-speed and make a claw attack at any point along the move. If they hit, they pull
-the target alongside them the rest of the move, and do not provoke opportunity
-attacks from it. This is excellent for getting defenders out of the way or
-briging squishies closer to danger.&lt;/p&gt;
-
-&lt;p&gt;Ambushers have Fury, but they replace Psychic Boost with &lt;strong&gt;Grasping Claws&lt;/strong&gt;,
-which allow them to make one last claw attack when they hit 0 HP.&lt;/p&gt;
-
-&lt;h3 id=&quot;su-alpha&quot;&gt;Su Alpha&lt;/h3&gt;
-
-&lt;p&gt;Su Alphas are larger and more powerful specimens who gained some status within
-their group by repeatedly proving they can beat up their puny relatives. Smaller
-groups have only one alpha, but larger ones might have several. They are Level
-12 Brutes with 149 HP.&lt;/p&gt;
-
-&lt;p&gt;Alphas fight with &lt;strong&gt;Claws&lt;/strong&gt; and &lt;strong&gt;Backhand Slams&lt;/strong&gt;, the latter of which do less
-damage but target Fortitude and push the target 1 square. They can also emit a
-&lt;strong&gt;Su Howl&lt;/strong&gt; (close burst 3 vs. Will) which deals psychic damage and renders its
-targets vulnerable 5 to all damage (save ends). On a miss, the target takes half
-damage and is vulnerable for a turn. This recharges wherever the alpha takes
-psychic damage. They possess both signature abilities.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;It’s another carnivorous ape monster in a book that already has too many of
-them. The lore and mechanics seem to disagree with each other on whether su
-monsters are sapient. The stats say they are Int 2 beasts, but the lore keeps
-saying they organize in “tribes”, a term I’ve avoided using here.&lt;/p&gt;
-
-&lt;p&gt;The mechanics themselves are mildly interesting, but I don’t like them enough to
-use them paired with this lore.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/01/su-monster.html</guid>
         
         <category>dnd4</category>
         
