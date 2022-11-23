@@ -245,3 +245,4 @@ entries.
 [88]: {{ "/2022/11/18/wilden.html" | relative_url }}
 [89]: {{ "/2022/11/20/xivort.html" | relatvie_url }}
 [90]: {{ "/2022/11/21/yeti.html" | relative_url }}
+[91]: {{ "/2022/11/23/yuan-ti.html" | relative_url }}
