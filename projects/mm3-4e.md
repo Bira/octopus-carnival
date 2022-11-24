@@ -154,6 +154,7 @@ entries.
 
 - Y
   - [Yeti][90]
+  - [Yuan-ti][91]
 
 [1]: {{ "/2022/04/23/mm3-intro.html" | relative_url }}
 [2]: {{ "/2022/05/04/ape.html" | relative_url }}

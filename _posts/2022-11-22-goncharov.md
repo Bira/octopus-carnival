@@ -119,6 +119,9 @@ reputation among your community or fellow runners, or Enemies in the form of
 traitorous villains and amoral mercenaries who think you're weak for having a
 conscience.
 
+Atonement from breaking the code usually takes the form of a dangerous mission
+to aid an oppressed community or fellow runner in trouble.
+
 [^1]: And who betrays you at the end.
 
 [^2]: Though I understand it was kinda moving in this direction in its latest
