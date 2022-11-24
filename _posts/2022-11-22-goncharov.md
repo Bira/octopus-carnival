@@ -1,5 +1,6 @@
 ---
-layout: "Shadowrun: Goncharov"
+layout: post
+title: "Shadowrun: Goncharov"
 tags:
     - shadowrun
     - gurps
