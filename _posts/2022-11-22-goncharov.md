@@ -93,10 +93,10 @@ to help out fellow shadowrunners in need.
 
 In a GURPS Action or Cyberpunk campaign with supernatural elements, The
 Understanding is a -10-point Code of Honor, since it's informal but applies to
-people who are not your peers. Give Goncharov his cut and use it to support your
-community and fellow runners; hunt down and punish any who betray them[^3];
-never sell out; even if you need to do a job for a corp or a crime syndicate,
-never forget they're the enemy.
+interactions with people who are not your peers. Give Goncharov his cut and use
+it to support your community and fellow runners; hunt down and punish any who
+betray them[^3]; never sell out; even if you need to do a job for a corp or a
+crime syndicate, never forget they're the enemy.
 
 This code can work as a "pact" limitation for supernatural or cinematic traits
 related to being stealthy, discreet, or good at combat (yes, even Gunslinger or
@@ -108,8 +108,10 @@ or fellow runners, or Enemies in the form of traitorous villains and amoral
 mercenaries who think you're weak for having a conscience.
 
 [^1]: And who betrays you at the end.
+
 [^2]: Though I understand it was kinda moving in this direction in its latest
     editions.
+
 [^3]: Yes, you are totally following the code if you track Clockwork down and
     shoot him in the head after telling him "Goncharov says hi".
 
