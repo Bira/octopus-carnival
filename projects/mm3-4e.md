@@ -9,7 +9,8 @@ Like the previous Let's Reads, this one was started off-site a while ago: July
 this is the first D&D 4e monster book to include the celebrated "new math",
 though we already had a taste of it back when we read the Monster Vault.
 
-This page collects all the posts related to that project.
+This page collects all the posts related to that project, which is complete as
+of November 24th 2022.
 
 - [Introduction][1]: Talks a bit about the new math and the history of the book.
 
