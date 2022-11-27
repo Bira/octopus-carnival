@@ -168,7 +168,7 @@ central in eliminating the Plague.
 The mechanics are functional, but pretty simplistic since the demons' main
 gimmick is being carriers for the Abyssal Plague. There's tons of more
 interesting opposition in MV:TNV. So, overall, my inclination is to give these
-monsters a pass. The next entires are better, I promise!
+monsters a pass. The next entries are better, I promise!
 
 
 [1]: {{ "/projects/tnv" | relative_url }}
