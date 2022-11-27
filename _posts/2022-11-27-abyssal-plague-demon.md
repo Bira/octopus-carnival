@@ -1,5 +1,6 @@
 ---
-layout: "Let's Read Threats to the Nentir Vale: Abyssal Plague Demon"
+layout: post
+title: "Let's Read Threats to the Nentir Vale: Abyssal Plague Demon"
 tags:
     - dnd4
     - lets-read
@@ -23,11 +24,11 @@ Plague Demons are a monster new to 4e.
 ## The Lore
 
 Despite devoting a lot of text to the lore for abyssal plague demons, the entry
-is irritagingly vague. That's because these monsters are actually the main
+is irritatingly vague. That's because these monsters are actually the main
 featured threats of a series of novels published between 2010 and 2012. MV:TNV
 was published in 2011, right in the middle of the event.
 
-The Abyssal Plague novels were planned as a big multimedia, multiworld metaplot
+The Abyssal Plague novels were planned as a big multimedia, multi-world metaplot
 event. The novels would take place across multiple published settings, with the
 main action taking place in the implied one, and side stories taking place in
 Dark Sun and the Forgotten Realms.
@@ -35,16 +36,15 @@ Dark Sun and the Forgotten Realms.
 The entry here is very vague and avoids naming names, probably out of a fear of
 spoiling the event's plot. There's a demon lord who escaped into our universe
 from another one he destroyed. He was stopped by "the heroes of the age" and
-imprisoned, but recently one of his exarchs managed to escape either it or the
-demon lord himself "found a vessel in the world". This entity is responsible for
-spreading the Abyssal Plague, a disease that covers its victim's bodies in
-growths of alien crystal and either kills them or transforms them into Abyssal
-Plague Demons.
+imprisoned, but recently one of his exarchs managed to escape and it "found a
+vessel in the world". This entity is responsible for spreading the Abyssal
+Plague, a disease that covers its victim's bodies in growths of alien crystal
+and either kills them or transforms them into Abyssal Plague Demons.
 
 With a decade of hindsight, I can give you those spoilers: the "demon lord" is
 actually Tharizdun and the thing that came from a another universe that was
 destroyed by demons is the Shard of Evil that he used to make the Abyss. In the
-novels, one of his worshippers manages to pierce the walls of Tharizdun's prison
+novels, one of his worshipers manages to pierce the walls of Tharizdun's prison
 with a shard of the Living Gate (an entity described in the [Shardmind][5] post
 for the MM3), freeing one of his exarchs. This exarch is an entity known as the
 Voidharrow and it is the thing responsible for spreading the Abyssal Plague.
@@ -84,7 +84,7 @@ throw. If you fail, you contract the disease at Stage 1. At the end of every
 extended rest, you make an Endurance test. If you beat the disease's Maintain DC
 of 12, you stay as you are. If you beat its Improve DC of 16 your stage
 decreases by 1 (Stage 0 means you're cured). If you beat neither you progress to
-the next stage. Effects from each stage are cummulative. If you reach Stage 3,
+the next stage. Effects from each stage are cumulative. If you reach Stage 3,
 natural recovery is no longer possible and only a Remove Affliction ritual might
 save you.
 
@@ -172,7 +172,4 @@ monsters a pass. The next entires are better, I promise!
 
 
 [1]: {{ "/projects/tnv" | relative_url }}
-[2]: {{ "/2019/09/23/demon.html" | relative_url }}
-[3]: {{ "/2022/08/24/imix.html" | relative_url }}
-[4]: {{ "/2022/10/04/ogremoch.html" | relative_url }}
 [5]: {{ "/2022/10/15/shardmind.html" | relative_url }}
