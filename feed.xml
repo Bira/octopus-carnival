@@ -6,9 +6,183 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Nov 2022 20:50:26 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Nov 2022 20:50:26 +0000</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2022 13:58:24 +0000</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2022 13:58:24 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Abyssal Plague Demon</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-abyssal-plague-demons-01.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I made a big deal about how there were few “newer and weirder” monsters in this
+book, and now it turns out that the very first entry is one of those. Abyssal
+Plague Demons are a monster new to 4e.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Despite devoting a lot of text to the lore for abyssal plague demons, the entry
+is irritatingly vague. That’s because these monsters are actually the main
+featured threats of a series of novels published between 2010 and 2012. MV:TNV
+was published in 2011, right in the middle of the event.&lt;/p&gt;
+
+&lt;p&gt;The Abyssal Plague novels were planned as a big multimedia, multi-world metaplot
+event. The novels would take place across multiple published settings, with the
+main action taking place in the implied one, and side stories taking place in
+Dark Sun and the Forgotten Realms.&lt;/p&gt;
+
+&lt;p&gt;The entry here is very vague and avoids naming names, probably out of a fear of
+spoiling the event’s plot. There’s a demon lord who escaped into our universe
+from another one he destroyed. He was stopped by “the heroes of the age” and
+imprisoned, but recently one of his exarchs managed to escape and it “found a
+vessel in the world”. This entity is responsible for spreading the Abyssal
+Plague, a disease that covers its victim’s bodies in growths of alien crystal
+and either kills them or transforms them into Abyssal Plague Demons.&lt;/p&gt;
+
+&lt;p&gt;With a decade of hindsight, I can give you those spoilers: the “demon lord” is
+actually Tharizdun and the thing that came from a another universe that was
+destroyed by demons is the Shard of Evil that he used to make the Abyss. In the
+novels, one of his worshipers manages to pierce the walls of Tharizdun’s prison
+with a shard of the Living Gate (an entity described in the &lt;a href=&quot;/octopus-carnival/2022/10/15/shardmind.html&quot;&gt;Shardmind&lt;/a&gt; post
+for the MM3), freeing one of his exarchs. This exarch is an entity known as the
+Voidharrow and it is the thing responsible for spreading the Abyssal Plague.&lt;/p&gt;
+
+&lt;p&gt;The entry presents the Plague as a rising threat that only recently began to
+spread, but doesn’t make an effort to connect it to other plot hooks in MV:TNV
+or to the wider cosmic stuff at its root. I guess you’re supposed to read the
+novels to find out about that.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-abyssal-plague-demons-02.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Abyssal Plague Demons are creatures mutated by the plague. Some used to be
+animals, some used to be humanoids. Aside from a general “demonic” look, they
+have a common aesthetic element: red crystal, flecked with gold and silver. This
+is present as either visible veins of liquid crystal, or as solid plates of the
+stuff that might act as armor or weaponry.&lt;/p&gt;
+
+&lt;p&gt;Stat-wise, they’re demons: Elemental Beasts or Elemental Humanoids with the
+Demon keyword, Darkvision and Variable Resistance (5, switchable twice per
+encounter). All of them are also carriers of the Abyssal Plague, which they can
+spread via bites or via their natural crystal weaponry. They’re all mid-Heroic
+tier, making them appropriate for encounters in the middle world as your home
+grounds start to suffer from the Plague.&lt;/p&gt;
+
+&lt;p&gt;The Abyssal Plague is a Level 8 Disease that follows the standard rules for
+this. At the end of any fight where you’re exposed to it, you make a saving
+throw. If you fail, you contract the disease at Stage 1. At the end of every
+extended rest, you make an Endurance test. If you beat the disease’s Maintain DC
+of 12, you stay as you are. If you beat its Improve DC of 16 your stage
+decreases by 1 (Stage 0 means you’re cured). If you beat neither you progress to
+the next stage. Effects from each stage are cumulative. If you reach Stage 3,
+natural recovery is no longer possible and only a Remove Affliction ritual might
+save you.&lt;/p&gt;
+
+&lt;p&gt;Stage 1 is usually just a nuisance. In this case, 10% of your body is covered in
+alien growths and you lose a healing surge. Stage 2 is a major hindrance: here,
+it means a -2 to AC, Fortitude and Reflex plus a permanent Slowed condition as
+50% of your body is taken over by growths.&lt;/p&gt;
+
+&lt;p&gt;Stage 3 is often incapacitating or fatal. Unlike most other diseases, Abyssal
+Plague still makes you roll Endurance daily when you’re here, but the roll is
+not for recovery. If your total roll fails to beat a DC of 12, you die. If you
+roll between 12 and 23, you live another day in incredible pain. If you roll a
+24 or more, you turn into an Abyssal Plague Demon. So yeah, this plague kills
+the weak and turns the strong into demons. You need to apply Remove Affliction
+before either happens.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, multiple exposures during a fight still mean you only roll the save
+once, and if you’ve already contracted the disease further exposures do nothing
+to worsen your condition. So if your PC is tough and your party is on a
+tight time-table, you can gamble that you’ll be able to recover naturally from
+Stage 1. Remove Affliction is a big resource drain if you don’t have time for a
+long rest.&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-hound&quot;&gt;Plague Demon Chaos Hound&lt;/h3&gt;
+
+&lt;p&gt;A Medium Beast demon, this quadruped is a Level 5 Minion Skirmisher with Speed 8
+and darkvision. Its &lt;strong&gt;Pack Attack&lt;/strong&gt; trait gives it a small damage boost for each
+other plague demon that’s adjacent to their target.&lt;/p&gt;
+
+&lt;p&gt;Their sole attack is a &lt;strong&gt;bite&lt;/strong&gt; that allows them to shift 1 square on a hit and
+exposes the target to Abyssal Plague. As a minion, it lacks Variable Resistance.&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-footsoldier&quot;&gt;Plague Demon Chaos Footsoldier&lt;/h3&gt;
+
+&lt;p&gt;A Medium Humanoid with Speed 6. It’s a Level 5 Minion Soldier without Variable
+Resistance. Its basic attack is a &lt;strong&gt;Grabbing Claw&lt;/strong&gt; that does light damage and
+grabs on a hit. Once it has a grabbed victim, the footsoldier can &lt;strong&gt;bite&lt;/strong&gt; for a
+bit more damage and exposure to the Plague.&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-beast&quot;&gt;Plague Demon Chaos Beast&lt;/h3&gt;
+
+&lt;p&gt;The non-minion version of the Chaos Hound is a Level 6 Skirmisher with Speed 8
+and 76 HP. Its &lt;strong&gt;Chaotic Growl&lt;/strong&gt; acts as an aura (1) that inflicts a -2 attack
+penalty to enemies inside. Its basic &lt;strong&gt;bite&lt;/strong&gt; damages and exposes to the Plague,
+while its &lt;strong&gt;Claws&lt;/strong&gt; allow it to shift 1 square on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-bender&quot;&gt;Plague Demon Chaos Bender&lt;/h3&gt;
+
+&lt;p&gt;A Large Beast demon, this Level 6 Controller has 72 HP and some reality-warping
+powers. It projects a &lt;strong&gt;Chaotic Field&lt;/strong&gt; as an aura (2) that allows the demon to
+shift 2 squares if any enemy ends their turn inside. Its basic attack is a
+plague-infected &lt;strong&gt;bite&lt;/strong&gt;, and it can also use a &lt;strong&gt;Flurry of Claws&lt;/strong&gt; that attacks
+a Close Burst 1, slows, and inflicts ongoing physical damage (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-knight&quot;&gt;Plague Demon Chaos Knight&lt;/h3&gt;
+
+&lt;p&gt;This sapient Medium Humanoid is a Level 6 Soldier with 78 HP. It projects an
+aura of &lt;strong&gt;Crimson Retribution&lt;/strong&gt; (1) that automatically deals 5 damage to anyone
+inside who makes an attack that doesn’t target the chaos knight. Its &lt;strong&gt;slams&lt;/strong&gt;
+damage and knock prone on a hit, and its extruded &lt;strong&gt;Crystal Blade&lt;/strong&gt; (recharge
+4+) deals heavy damage and exposes to the Plague. Since it’s a recharge power,
+I’m guessing the blade shatters when used as a weapon.&lt;/p&gt;
+
+&lt;h3 id=&quot;plague-demon-chaos-vanguard&quot;&gt;Plague Demon Chaos Vanguard&lt;/h3&gt;
+
+&lt;p&gt;This sapient Large Humanoid is a Level 9 Soldier with speed 6 and 100 HP. It’s a
+powered-up version of the Knight, with nearly identical traits. Its aura is
+wider and deals 10 damage instead of 5; its &lt;strong&gt;slam&lt;/strong&gt; pushes 2 squares instead of
+knocking prone; and its &lt;strong&gt;Sweeping Crystal Blade&lt;/strong&gt; (recharge 4+) is a Close
+Burst 3 attack instead of a single-target melee power.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Would you believe that I even forgot these things were here? The combination of
+epic-sounding but vague lore and mid-Heroic mechanics smells very metaplotty to
+me, particularly after I learned about these novels. This is the outer edge of
+the plot and you’re not allowed to dig deeper, that’s what the novel heroes
+do. I don’t know if they ever released a book that allowed the PCs to be more
+central in eliminating the Plague.&lt;/p&gt;
+
+&lt;p&gt;The mechanics are functional, but pretty simplistic since the demons’ main
+gimmick is being carriers for the Abyssal Plague. There’s tons of more
+interesting opposition in MV:TNV. So, overall, my inclination is to give these
+monsters a pass. The next entires are better, I promise!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/11/27/abyssal-plague-demon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/27/abyssal-plague-demon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Introduction</title>
@@ -1282,129 +1456,6 @@ feet tall, how could they sneak up on us like that?!”&lt;/p&gt;
         <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/11/11/verbeeg.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/11/verbeeg.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Umber Hulk</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-umber-hulk.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;MM3 Umber Hulks are in a similar situation to a lot of other monsters in the
-book. The Monster Vault would soon be released with an &lt;a href=&quot;/octopus-carnival/2021/01/20/umber-hulk.html&quot;&gt;updated selection of
-basic models&lt;/a&gt;, and so this one features a trio of more niche variants.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As usual, the basic lore remains the same, but this entry adds some interesting
-new details.&lt;/p&gt;
-
-&lt;p&gt;The first new bit is that umber hulks are one of the oldest species in the
-world! The creatures are already mentioned in certain ancient records from
-before the Dawn War, which makes some sages think they emerged from the raw
-stuff of the world before the primordials had finished creating it.&lt;/p&gt;
-
-&lt;p&gt;The second is that their role as the world builders of the Underdark has a dark
-side. Their tunnels may end up linking places that were best left isolated, like
-two mutually hostile settlements. This is one of the reasons why underdark
-civilizations tend to hunt them down. Some dwarves are also fond of chasing
-umber hulks as they tunnel through the earth, for they commonly pass near veins
-of precious metals.&lt;/p&gt;
-
-&lt;p&gt;Finally, these creatures are not a middle world exclusive! In ages past, small
-populations of them found and walked through subterranean planar portals and
-spread to places such as the Astral Sea or even the Abyss, and proceeded to
-adapt to these new environments.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Umber Hulks are Magical Beasts and have a ground speed of 5 and a burrow speed
-of 2 with Tunneling, which means their digging creates stable tunnels. They have
-Darkvision and Tremorsense 5 as usual.&lt;/p&gt;
-
-&lt;h3 id=&quot;umber-ravager&quot;&gt;Umber Ravager&lt;/h3&gt;
-
-&lt;p&gt;This is a smaller and weaker relative of the basic umber hulk, so named because
-it’s Medium and so it’s not technically a “hulk”. They wander closer to the
-surface and are likely to be the first variant found by PCs who are not yet
-powerful enough to brave the true Underdark.&lt;/p&gt;
-
-&lt;p&gt;The ravager is a Level 7 Brute with 95 HP. It can attack with a &lt;strong&gt;claw&lt;/strong&gt; that
-does light physical damage, and can be used in a &lt;strong&gt;claw flurry&lt;/strong&gt; that allows it
-to make two attack with a single action. Its most basic psionic power is a
-&lt;strong&gt;Crushing Gaze&lt;/strong&gt; (close blast 3 vs. Will) that deals light psychic damage and
-knocks targets prone. Less often it can use a &lt;strong&gt;Disarming Gaze&lt;/strong&gt; (ranged 3
-vs. Will, recharge 6+) as a minor action that deals no damage but causes stun
-(save ends).&lt;/p&gt;
-
-&lt;p&gt;Umber Ravagers hunt in packs, so you might see encounter groups featuring
-several of them. Each one will target a different PC with its Disarming Gaze as
-an opening move, and then focus its attacks on the stunned target. Yikes!&lt;/p&gt;
-
-&lt;h3 id=&quot;abyssal-hulk&quot;&gt;Abyssal Hulk&lt;/h3&gt;
-
-&lt;p&gt;This hulk’s ancestors managed to dig their way to the Abyss, and then suffered
-mutations that allowed to survive there. Its bodily secretions became acidic,
-and its psionic powers changed to be more madness-themed. It’s also smarter and
-more consciously malevolent, with a Chaotic Evil alignment.&lt;/p&gt;
-
-&lt;p&gt;Abyssal Hulks are Level 15 Controllers with 152 HP. They fight up close with
-Reach 2 &lt;strong&gt;claws&lt;/strong&gt;, and with a &lt;strong&gt;Gaze of Chaos&lt;/strong&gt; (close blast 3 vs. Will) that
-deals light psychic damage and slides the targets 3 squares on a hit. After
-sliding, the targets make a melee basic attack against a target of the monster’s
-choice. It can also spray forth some &lt;strong&gt;Acidic Spew&lt;/strong&gt; (close blast 5 vs. Fort) to
-inflict 10 ongoing acid damage (save ends) on those it hits.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the abyssal hulk can use a &lt;strong&gt;Gaze of Crushed Will&lt;/strong&gt; (close
-blast 5 vs. Will) to slide targets 3 squares and inflict a -5 penalty on any
-saves they roll during this movement. You know when you roll a save during
-forced movement? When someone uses it to push you off a cliff.&lt;/p&gt;
-
-&lt;p&gt;So yeah, this cruel mutated almost-demon wants to alternate pushing people off
-cliffs with making them stab each other while singing “stop hitting
-yourselves!”.&lt;/p&gt;
-
-&lt;h3 id=&quot;astral-hulk&quot;&gt;Astral Hulk&lt;/h3&gt;
-
-&lt;p&gt;Despite going to the realm of shiny light, Astral Hulks aren’t any less
-unpleasant than their abyssal counterparts. There are signs that they may have
-been engineered on purpose by some primordial for use as a weapon, because they
-just love to dig into astral domains and tear them up until they become
-free-floating debris fields. Several such domains were destroyed by astral
-hulks, and the people of the Astral Sea are always on watch against astral hulk
-infestations. Their gaze causes a pronounced lethargy on victims, and lures them
-closer so the creature can use its natural weapons on them.&lt;/p&gt;
-
-&lt;p&gt;Astral Hulks are Level 17 Soldiers with 167 HP. Their &lt;strong&gt;Claws&lt;/strong&gt; damage and mark
-for a turn on a hit. If a marked enemy shifts, the hulk can use &lt;strong&gt;Entrapping
-Mandibles&lt;/strong&gt; on them as an interrupt, grabbing them on a hit. Their &lt;strong&gt;Gaze of
-Lassitude&lt;/strong&gt; (close blast 5 vs. Fortitude) deals untyped damage, pulls 4 squares,
-and slows (save ends). Their &lt;strong&gt;Gaze of Annihilation&lt;/strong&gt; (close blast 5
-vs. Fortitude) is an encounter power that does untyped damage, half on a hit,
-and marks everyone it hits for a turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;If you like umber hulks, you’ll find a use for these. I like that they’re all
-very focused in their design intent. There’s one to introduce your players to
-the monster earlier, and two to make them despair after they thought they had
-left these things behind when they moved out of the middle world.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/09/umber-hulk.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/09/umber-hulk.html</guid>
         
         <category>dnd4</category>
         
