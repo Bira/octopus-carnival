@@ -40,10 +40,10 @@ party in life.  They are themselves quite ancient, and no one knows why they
 became undead. The leading rumor is that they delved the Sword Barrow and
 attracted the ire of the warlord buried inside, whose spirit called out to the
 hill clans and told them to come take their revenge. They answered the call, and
-the Barrowhaunts preferred to slaughter them all rather than relinquishing their
-loot. So yeah, they're responsible for the final extinction of the hill
-clans. One of the hillfolk elders laid a dying curse upon the adventurers,
-binding them to the land for all eternity.
+the Barrowhaunts preferred to slaughter them all rather than relinquish their
+loot. So yeah, according to this story they're responsible for the final
+extinction of the hill clans. One of the hillfolk elders laid a dying curse upon
+the adventurers, binding them to the land for all eternity.
 
 This didn't have any obvious immediate effect, but the adventuring party did
 become more and more obsessed with the region as time went by. They kept coming
@@ -148,9 +148,9 @@ square or knock it prone.
 
 If Boldos is hit by an attack that would push, pull, or slide him, he can
 respond with the **Soldier of Fortune** interrupt, which gives him a free basic
-attack with a +5 damage bonus against the triggering enemy. I think this is
-calculated before the dwarven racial ability applies - if you push him 1 square,
-he stays put and hits you back.
+attack with a +5 damage bonus against the triggering enemy. He always hits you
+back before you push him, and since he's a dwarf he might end up staying put
+anyway.
 
 ### Cassian d'Cherevan
 
@@ -170,20 +170,19 @@ Assault** to automatically deal 12 damage to that enemy.
 
 ## Final Impression
 
-I love these dudes, because they're a very specific group tied to a specific
-spot on the map. They have a history, and a concrete reason for doing what they
-do. This is the sort of entry you can write when you don't have to be as generic
-as possible. I also really like that they're a party of murderhobos, a kind of
-dark mirror held up to the party, saying "take care or you'll end up like
-them".
+I love the Barrowhaunts, because they're a very specific group tied to a
+specific spot on the map. They have a history, and a concrete reason for doing
+what they do. This is the sort of entry you can write when you don't have to be
+as generic as possible. I also really like that they're a party of murderhobos,
+a kind of dark mirror held up to the PCs, saying "take care or you'll end up
+like them".
 
 Mechanically they're all set up to work like a typical adventuring party. Each
 member models a specific PC class or role, and their teamwork will take up a
-very smilar form. Any fight against the actual PCs is going to happen in the
-Gray Downs, an area full of obscuring mist and hilly, boulder-strewn
-terrain. The Barrowhaunts have been there for centuries and are intimately
-familiar with it, and will definitely set up traps and ambushes when attacking
-intruders.
+very smilar form. Any fight against the PCs is going to happen in the Gray
+Downs, an area full of obscuring mist and hilly, boulder-strewn terrain. The
+Barrowhaunts have been there for centuries, are intimately familiar with it, and
+will definitely set up traps and ambushes when attacking intruders.
 
 
-[1]: {{ "/projects/tnv" | relative_url }}
+[1]: {{ "/projects/tnv/" | relative_url }}

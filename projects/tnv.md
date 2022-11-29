@@ -19,6 +19,9 @@ As more monsters are added, they will be linked below.
 - A
   - [Abyssal Plague Demon][2]
 
+- B
+  - [Barrowhaunts][2]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
