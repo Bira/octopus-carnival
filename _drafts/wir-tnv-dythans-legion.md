@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-dythans-legion.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is another setting-specific group.
 
 ## The Lore
@@ -166,15 +177,25 @@ opponents.
 
 ### Arkhosian Siege Tower
 
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/wir-tnv-dythans-legion-tower.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 These are ancient constructs built by Arkhosia and salvaged by the Legion. They
 were either brought to the vale from the South, or salvaged from local Arkhosian
 ruins depending on how you want to play it in your campaign. They are 30-foot
-tall and 15-foot wide stone towers that move on 10-foot tall granite rollers. It
-can transport troops in its two internal floors, allowing them to disembark on
-enemy battlements. On top of it is a sculpted dragon head that can swivel in a
-360-degree arc and breathe fire on enemies. Being a construct, the tower is
-capable of driving and shooting by itself, though if it gets too damaged its
-occupants will dearly feel the lack of internal safety equipment.
+tall and 15-foot wide stone towers that move on 10-foot tall granite rollers.
+
+A tower can transport troops in its two internal floors, allowing them to
+disembark on enemy battlements. On top of it is a sculpted dragon head that can
+swivel in a 360-degree arc and shoot fireballs at enemies. Being a construct,
+the tower is capable of driving and shooting by itself, though if it gets too
+damaged its occupants will dearly feel the lack of internal safety equipment.
 
 Arkosian Siege Towers are Huge Natural Animates with the Construct keyword and
 336 HP. They're immune to charm, disease, and poison, and have Resist 15 to all
@@ -188,8 +209,8 @@ attacks, but it also can't squeeze, make OAs, or grab creatures. **Living
 Building** has a list of effects as long as my arm:
 
 - The tower can occupy other creature's spaces, and other creatures can end
-  their movement in its spaces. That's rules-talk for "it can fit people
-  inside". When it moves, creatures inside move along with it as if it was a
+  their movement in its spaces. That's rules-talk for "it can fit people inside
+  itself". When it moves, creatures inside move along with it as if it was a
   vehicle.
 
 - The tower is 30 feet tall and has two internal 15-foot tall levels. The
@@ -207,9 +228,9 @@ bloodied, the tower is slowed and inflicts a -2 penalty to attacks on all its
 occupants.
 
 As a construct, the tower has two attacks. The **Dragon's Head** shoots
-small fireballs (Area 1 within 20) that deal immediate and ongoing fire damage,
-half on a miss. And it can **Crush** with its move action, which allows it to
-make attacks against any creatures whose spaces it enters during the move.
+fireballs (Area 1 within 20) that deal immediate and ongoing fire damage, half
+on a miss. And it can **Crush** with its move action, which allows it to make
+attacks against any creatures whose spaces it enters during the move.
 
 When the tower drops to 0 HP, it **Collapses**, making an attack vs. the Reflex
 of every occupant that deals heavy damage and knocks them prone on a hit. The
@@ -260,3 +281,5 @@ bringing in their full numbers to the Vale looking to conquer it and make it
 their new base of operations. They might also work as uneasy allies against
 other Vale-wide threats, like a full-scale Bloodspear invasion or one of the big
 dragons.
+
+[1]: {{ "/projects/tnv" | relative_url }}
