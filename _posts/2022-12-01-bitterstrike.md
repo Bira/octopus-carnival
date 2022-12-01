@@ -199,3 +199,5 @@ deep into the Winterbole forest.
 
 Lore-wise, I like the dynamic of a somewhat stupid "queen" constantly
 manipulated by her much smarter vassals.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
