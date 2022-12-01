@@ -45,7 +45,7 @@ adventure. This book assumes it hasn't happened yet.
 
 ## The Lore
 
-The Blackfang are a tribe of Yeenoghu-worshipping gnolls who lair in the Old
+The Blackfang are a tribe of Yeenoghu-worshipping gnolls who live in the Old
 Hills area of the Vale. They get this name from their distinctive fangs, which
 are black and much longer than what is typical for gnolls. They frequently
 attack travelers going through the area, with the aim of capturing people to
@@ -183,5 +183,11 @@ against them.
 
 My final impression is the usual: a sarcastic "yay, more gnolls". They are very
 useful if you intend to run Thunderspire Labyrinth with updated rules.
+
+If you have already run that adventure, these stats can still work to represent
+Blackfang remnants, or gnolls from other tribes when combined with the more
+generic stat blocks. I'd probably say that after Maldrick's death at the hands
+of the PCs, the remaining Blackfangs splinter into several mutually hostile
+bands led by "blessed" gnolls who used to be his lieutenants.
 
 [1]: {{ "/projects/tnv" | relative_url }}

@@ -17,43 +17,42 @@ tags:
 
 This post is part of a series! Click [here][1] to see the others.
 
-This our first example of a "concrete" dragon, where they take the information
-from the Monster Manuals and use it to make a specific atypical individual.
+This our first example of a "concrete" dragon, where they take the generic
+information from the Monster Manuals and use it to make a specific atypical
+individual.
 
 ## The Lore
 
-Bitterstrike was a typical young white dragon when she came to the Nentir
-Vale. Making her lair inside the nothern Winterbole forest, she frequently flew
-out to hunt and to break things for fun, and eventually came to see the Vale as
-her own personal buffet and playground.
+Once upon a time, a young white dragon came to the Nentir Vale. Making her lair
+inside the nothern Winterbole forest, she frequently flew out to hunt and to
+break things for fun, and eventually came to see the Vale as her own personal
+buffet and playground.
 
 This lasted until the Tigerclaw barbarians who also lived in Winterbole decided
 to stand up to her. Their chief was the great hero Fangstrike, who dueled the
 dragon and manage to bury his war pick in her left eye. Wounded and humiliated,
-Bitterstrike flew away and spent the next thirty years sulking.
+the dragon flew away and spent the next thirty years sulking.
 
-The experience made her a lot more cautious and vindictive than your typical
-white dragon. About nine months after Fangstrike died of old age, she came back
-to wreak havoc on the tribe, killing the chief's surviving family and
-threatening the rest of the tribe with destruction unless they paid her an
-annual tribute of treasure and a high-status hostage. This how she came to be
-known by her current name.
+The experience made her a cautious and vindictive. About nine months after
+Fangstrike died of old age, she came back to wreak havoc on the tribe, killing
+the chief's surviving family and threatening the rest of the tribe with
+destruction unless they paid her an annual tribute of treasure and a high-status
+hostage. This how she came to be known by her current name of Bitterstrike.
 
 Bitterstrike made the same ultimatum to every other group of sapients who made
 Winterbole their home: the Frost Witches, the Winterbole Treants, and the satyrs
-who made the evergreen forest their home.
+who made the evergreen forest their home. Pay tribute and send hostages, or die.
 
 These days, Bitterstrike considers herself queen of Winterbole, and those annual
 hostages make up her court. She uses them as agents and servants, and has them
 keep an ear out for rumors and news from their original communities. If any of
-these news sounds like an insult to her, Bitterstrike becomes obsessed with
-taking revenge on the offender.
+these news sounds like an insult or threat to her, Bitterstrike becomes obsessed
+with taking revenge on the offender.
 
 Usually this takes the form of a direct strike by the dragon, but Bitterstrike
-is cautious enough to force her vassals to raise a posse if she feels a solo
-attack doesn't have good odds. Whether alone or at the head of a posse,
-Bitterstrike takes great pleasure in revenge and in the acquisition of more
-loot.
+is cautious enough to gather a posse of her vassals if she feels a solo attack
+doesn't have good odds. Whether alone or at the head of a posse, Bitterstrike
+takes great pleasure in revenge and in the acquisition of more loot.
 
 However, the dragon queen is nowhere near the genius she thinks she is, and her
 "vassals" view her more as a pawn than as a queen. Every single faction under
@@ -79,8 +78,8 @@ custom encounter power named **Bitter Vengeance**, which triggers when an enemy
 within 5 squares hits them with an attack. As a free action, they deal 10
 automatic cold damage to the enemy and push them 2 squares. Bitterstrike's
 vengeance is more forceful and yeets the offender 7 squares instead. This makes
-them all perfect to fight on maps that include hazardous cold based terrain like
-frozen bodies of water or snow-covered pits.
+them all perfect to fight on maps that include hazardous cold-based terrain like
+bodies of icy water or snow-covered pits.
 
 ### Bitterstrike
 
@@ -88,10 +87,10 @@ The White Wyrm of Winterbole is a Level 10 Solo Brute with 520 HP, Resist Cold
 10, a ground speed of 6 with Ice Walk, and a flight speed of 6. She's actually
 the first MM3/MV-compatible adult white dragon we ran across in our readings, as
 the MV only contained Young and Elder examples. Though she only has one eye,
-that doesn't affect her stats and she's mostly like a typical white dragon.
+that doesn't affect her stats.
 
-This means she has an **Action Recovery** trait that automatically ends any
-dazing, stunning, or dominating effects on her when her turn ends, and
+As a white dragon, she has an **Action Recovery** trait that automatically ends
+any dazing, stunning, or dominating effects on her when her turn ends, and
 **Instinctive Rampage** that gives her a free action at her initiative + 10
 where she can move her speed, go through enemy spaces, and use a claw attack on
 any enemy whose space she moves through. She gains Resist 5 to all damage during
@@ -114,7 +113,7 @@ below has higher mental stats than her.
 
 A Winterbole treant, patterned after a coniferous tree, serving as one of
 Bitterstrike's vassals. It's a Large Fey Magical Beast (plant) and a Level 8
-Elite Soldier with 182 HP and a speed of 8 with Forest and Ice walk.. It has
+Elite Soldier with 182 HP and a speed of 8 with Forest and Ice walk. It has
 Threatening Reach 2, and a **Wooden Body** trait that makes it take ongoing 5
 fire damage (save ends) whenever it takes fire damage.
 
@@ -145,7 +144,7 @@ for a quick escape to safer ranges.
 ### Tigerclaw Vassal
 
 This barbarian from the Tigerclaw tribe is a shifter who's pretty much always in
-"shifted" mode. It's a Level 8 Elite Skirmisher with 178 HP and Speed 6. His
+"shifted" mode. He's a Level 8 Elite Skirmisher with 178 HP and Speed 6. His
 **Charging Pounce** trait gives him a 1d6 damage bonus on charge attacks and
 allows him to use its normal actions after charging. Usually a character can
 only use free actions after charging on their turn.

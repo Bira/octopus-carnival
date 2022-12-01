@@ -26,10 +26,10 @@ couple of Vale-specific hooks here.
 Bloodfire oozes are created by evil rituals which mix the blood of sacrificial
 victims with the blood of demons. The resulting creatures emit dangerous levels
 of heat and like most oozes are always on the hunt for more organic material to
-burn and digest. They are able to recognize and avoid attacking their creator,
-and if fed regularly are tame enough to be used as guards. They're usually
-placed near stone and metal traps or paired with other creatures that have a
-high resistance to fire.
+digest. They are able to recognize and avoid attacking their creator, and if fed
+regularly are tame enough to be used as guards. They're usually placed near
+stone and metal traps or paired with other creatures that have a high resistance
+to fire.
 
 Bloodfire uses are rumored to prowl the Temple of the Yellow Skull in the
 Ogrefist Hills area, and some of them were also found by dwarven miners under
@@ -68,5 +68,9 @@ a hazard or two in the battlefield.
 One more ooze type. They're thematic for infernal or abyssal cults, and might be
 a nice surprise to spring on players who load up on acid resistance when they
 hear the word "ooze".
+
+For added fun, you should run with the demon statue idea and stick a pair of
+these things inside that one statue from the 1e PHB cover, making them jump out
+as soon as the PCs pry out its gemstone yes.
 
 [1]: {{ "/projects/tnv" | relative_url }}

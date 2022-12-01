@@ -268,10 +268,15 @@ also has the standard version of Savage Demise.
 
 Overall I like this portrayal of Clan Bloodspear. They make a solid choice for
 opposition because they're ambitious and highly militarized imperialists with a
-penchant for enslaving others. Combining the stat blocks from this entry with
-the standard orc stats in the MV gives you enough opposition to last you the
-whole Heroic tier. The book still uses the word "savage" a little too often for
-my tastes, and there's the "vile half-breeds" thing, but I intend to change this
-if I ever use them in a game.
+penchant for enslaving others. In fact, they make me think of Rome's mythical
+founding, since they're led by two divinely-chosen siblings who are setting out
+to build an empire where before there was "nothing" (i.e, a bunch of
+civilizations who were minding their own business and were made targets for
+invasion).
+
+Combining the stat blocks from this entry with the standard orc stats in the MV
+gives you enough opposition to last you the whole Heroic tier. The book still
+uses the word "savage" a little too often for my tastes, and there's the "vile
+half-breeds" thing, but I intend to change this if I ever use them in a game.
 
 [1]: {{ "/projects/tnv" | relative_url }}
