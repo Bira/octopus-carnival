@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 01 Dec 2022 17:27:43 +0000</pubDate>
-    <lastBuildDate>Thu, 01 Dec 2022 17:27:43 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2022 18:23:42 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2022 18:23:42 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -19,7 +19,7 @@
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This post is part of a series! Click [here][1] to see the others.&lt;/p&gt;
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
 
 &lt;p&gt;This our first example of a “concrete” dragon, where they take the generic
 information from the Monster Manuals and use it to make a specific atypical
@@ -203,6 +203,7 @@ deep into the Winterbole forest.&lt;/p&gt;
 
 &lt;p&gt;Lore-wise, I like the dynamic of a somewhat stupid “queen” constantly
 manipulated by her much smarter vassals.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/01/bitterstrike.html</link>
