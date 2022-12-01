@@ -6,9 +6,214 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Nov 2022 13:37:58 +0000</pubDate>
-    <lastBuildDate>Tue, 29 Nov 2022 13:37:58 +0000</lastBuildDate>
+    <pubDate>Thu, 01 Dec 2022 17:27:43 +0000</pubDate>
+    <lastBuildDate>Thu, 01 Dec 2022 17:27:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Bitterstrike</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-bitterstrike.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the others.&lt;/p&gt;
+
+&lt;p&gt;This our first example of a “concrete” dragon, where they take the generic
+information from the Monster Manuals and use it to make a specific atypical
+individual.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Once upon a time, a young white dragon came to the Nentir Vale. Making her lair
+inside the nothern Winterbole forest, she frequently flew out to hunt and to
+break things for fun, and eventually came to see the Vale as her own personal
+buffet and playground.&lt;/p&gt;
+
+&lt;p&gt;This lasted until the Tigerclaw barbarians who also lived in Winterbole decided
+to stand up to her. Their chief was the great hero Fangstrike, who dueled the
+dragon and manage to bury his war pick in her left eye. Wounded and humiliated,
+the dragon flew away and spent the next thirty years sulking.&lt;/p&gt;
+
+&lt;p&gt;The experience made her a cautious and vindictive. About nine months after
+Fangstrike died of old age, she came back to wreak havoc on the tribe, killing
+the chief’s surviving family and threatening the rest of the tribe with
+destruction unless they paid her an annual tribute of treasure and a high-status
+hostage. This how she came to be known by her current name of Bitterstrike.&lt;/p&gt;
+
+&lt;p&gt;Bitterstrike made the same ultimatum to every other group of sapients who made
+Winterbole their home: the Frost Witches, the Winterbole Treants, and the satyrs
+who made the evergreen forest their home. Pay tribute and send hostages, or die.&lt;/p&gt;
+
+&lt;p&gt;These days, Bitterstrike considers herself queen of Winterbole, and those annual
+hostages make up her court. She uses them as agents and servants, and has them
+keep an ear out for rumors and news from their original communities. If any of
+these news sounds like an insult or threat to her, Bitterstrike becomes obsessed
+with taking revenge on the offender.&lt;/p&gt;
+
+&lt;p&gt;Usually this takes the form of a direct strike by the dragon, but Bitterstrike
+is cautious enough to gather a posse of her vassals if she feels a solo attack
+doesn’t have good odds. Whether alone or at the head of a posse, Bitterstrike
+takes great pleasure in revenge and in the acquisition of more loot.&lt;/p&gt;
+
+&lt;p&gt;However, the dragon queen is nowhere near the genius she thinks she is, and her
+“vassals” view her more as a pawn than as a queen. Every single faction under
+her control manipulates her into advancing their own goals by telling her false
+information, and the Satyrs are in the habit of replacing the magic items in her
+hoard with cheap mundane copies.&lt;/p&gt;
+
+&lt;p&gt;PCs can come into conflict with Bitterstrike by trespassing into her hunting
+grounds or offending her directly. It might also happen that they piss off one
+of her “vassal” factions and they plant a few convenient rumors to sic her on
+the party. Depending on how powerful the party is, she might bring in a few
+elite vassals along for support.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We have stats for Bitterstrike herself and for the typical vassals or pets that
+might accompany her. A lot of these are based on other existing factions we’ll
+look at later, so you get a preview of what they can do right here.&lt;/p&gt;
+
+&lt;p&gt;All of the vassals have Resist Cold 5 and Ice Walk, both necessary for survival
+when hanging around Bitterstrike. All vassals and the dragon herself also have a
+custom encounter power named &lt;strong&gt;Bitter Vengeance&lt;/strong&gt;, which triggers when an enemy
+within 5 squares hits them with an attack. As a free action, they deal 10
+automatic cold damage to the enemy and push them 2 squares. Bitterstrike’s
+vengeance is more forceful and yeets the offender 7 squares instead. This makes
+them all perfect to fight on maps that include hazardous cold-based terrain like
+bodies of icy water or snow-covered pits.&lt;/p&gt;
+
+&lt;h3 id=&quot;bitterstrike&quot;&gt;Bitterstrike&lt;/h3&gt;
+
+&lt;p&gt;The White Wyrm of Winterbole is a Level 10 Solo Brute with 520 HP, Resist Cold
+10, a ground speed of 6 with Ice Walk, and a flight speed of 6. She’s actually
+the first MM3/MV-compatible adult white dragon we ran across in our readings, as
+the MV only contained Young and Elder examples. Though she only has one eye,
+that doesn’t affect her stats.&lt;/p&gt;
+
+&lt;p&gt;As a white dragon, she has an &lt;strong&gt;Action Recovery&lt;/strong&gt; trait that automatically ends
+any dazing, stunning, or dominating effects on her when her turn ends, and
+&lt;strong&gt;Instinctive Rampage&lt;/strong&gt; that gives her a free action at her initiative + 10
+where she can move her speed, go through enemy spaces, and use a claw attack on
+any enemy whose space she moves through. She gains Resist 5 to all damage during
+this action, to better tank opportunity attacks. She also has a &lt;strong&gt;Savage Blood&lt;/strong&gt;
+trait that makes her crit on a roll of 17-20 while bloodied.&lt;/p&gt;
+
+&lt;p&gt;Bitterstrike’s Reach 2 &lt;strong&gt;bite&lt;/strong&gt; deals cold damage, half on a miss. Her Reach 2
+&lt;strong&gt;claws&lt;/strong&gt; can attack two different creatures with one action. Her &lt;strong&gt;Breath
+Weapon&lt;/strong&gt; (recharge 5+) is a Close Blast 5 that deals cold damage and slows (save
+ends). On a miss it deals half damage and slows for a turn.&lt;/p&gt;
+
+&lt;p&gt;If a flanking enemy hits Bitterstrike she can react with a &lt;strong&gt;Tail Slap&lt;/strong&gt; to
+damage and push them 5 squares. The first time she’s bloodied, &lt;strong&gt;Bloodied
+Breath&lt;/strong&gt; allows her to recharge and immediately use her breath weapon.&lt;/p&gt;
+
+&lt;p&gt;Bitterstrike has Int 10, Wis 15, Cha 10. Every single one of her vassals listed
+below has higher mental stats than her.&lt;/p&gt;
+
+&lt;h3 id=&quot;treant-vassal&quot;&gt;Treant Vassal&lt;/h3&gt;
+
+&lt;p&gt;A Winterbole treant, patterned after a coniferous tree, serving as one of
+Bitterstrike’s vassals. It’s a Large Fey Magical Beast (plant) and a Level 8
+Elite Soldier with 182 HP and a speed of 8 with Forest and Ice walk. It has
+Threatening Reach 2, and a &lt;strong&gt;Wooden Body&lt;/strong&gt; trait that makes it take ongoing 5
+fire damage (save ends) whenever it takes fire damage.&lt;/p&gt;
+
+&lt;p&gt;The treant’s basic attack is a &lt;strong&gt;Slam&lt;/strong&gt; and it can &lt;strong&gt;Double Attack&lt;/strong&gt;. It can
+also use a &lt;strong&gt;Bitterwind Blast&lt;/strong&gt; that’s like a smaller version of Bitterstrike’s
+breath weapon. It recharges when the creature is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;As an Essentials-style soldier, the Treant doesn’t mess with marks and can
+instead use &lt;strong&gt;Pounding Branches&lt;/strong&gt; to attack any enemy in reach that makes an
+attack that doesn’t target it.&lt;/p&gt;
+
+&lt;h3 id=&quot;satyr-vassal&quot;&gt;Satyr Vassal&lt;/h3&gt;
+
+&lt;p&gt;This satyr is a Medium Fey Humanoid and Level 8 Elite Artillery with 136
+HP and a speed of 6 with Ice Walk. As a bard-type, it’s surrounded by an aura
+(5) of &lt;strong&gt;Cold Wind Song&lt;/strong&gt; that gives it +5 to defenses against attacks
+originating from &lt;em&gt;outside&lt;/em&gt; the aura.&lt;/p&gt;
+
+&lt;p&gt;The satyr wants to stay really far away from its enemies, so it uses a Range 20
+&lt;strong&gt;North Wind Bow&lt;/strong&gt; to attack. A hit deals cold damage and pushes the target 3
+squares. Once per encounter it can pull a Hanzo and fire a &lt;strong&gt;Diving Dragon
+Shot&lt;/strong&gt; that hits an Area Burst 2 within 20 squares. This deals cold damage, half
+on a miss, and creates a zone that deals cold damage to any who end their turn
+inside until the end of the encounter. If forced into melee, it can use its
+horns to &lt;strong&gt;Gore&lt;/strong&gt;, damaging the target and knocking it prone, which should allow
+for a quick escape to safer ranges.&lt;/p&gt;
+
+&lt;h3 id=&quot;tigerclaw-vassal&quot;&gt;Tigerclaw Vassal&lt;/h3&gt;
+
+&lt;p&gt;This barbarian from the Tigerclaw tribe is a shifter who’s pretty much always in
+“shifted” mode. He’s a Level 8 Elite Skirmisher with 178 HP and Speed 6. His
+&lt;strong&gt;Charging Pounce&lt;/strong&gt; trait gives him a 1d6 damage bonus on charge attacks and
+allows him to use its normal actions after charging. Usually a character can
+only use free actions after charging on their turn.&lt;/p&gt;
+
+&lt;p&gt;The barbarian fights with a &lt;strong&gt;Light Pick&lt;/strong&gt; and can use it to make &lt;strong&gt;Double
+Attacks&lt;/strong&gt;. Once per encounter he can make a special attack named
+&lt;strong&gt;Bitterstrike’s Slash&lt;/strong&gt; which deals heavy cold damage and ongoing cold damage
+(save ends) on a hit. On a miss it slows and still inflicts the ongoing damage
+(save ends). If an enemy ends their move flanking the vassal, he can use &lt;strong&gt;Wild
+Instinct&lt;/strong&gt; to shift 1 square or move its speed.&lt;/p&gt;
+
+&lt;h3 id=&quot;frost-witch-vassal&quot;&gt;Frost Witch Vassal&lt;/h3&gt;
+
+&lt;p&gt;This elf sent by the Frost Witches is the smartest vassal in the bunch. She’s a
+Level 10 Elite Controller with 204 HP and Speed 6. She emits a &lt;strong&gt;Chill Aura&lt;/strong&gt;
+(1) that slows enemies caught inside.&lt;/p&gt;
+
+&lt;p&gt;The witch fights in melee with a &lt;strong&gt;Frost Touch&lt;/strong&gt; that deals cold damage and
+slides 2 squares, and at range with an &lt;strong&gt;Icicle Shard&lt;/strong&gt; that deals cold damage
+and immobilizes for a turn.&lt;/p&gt;
+
+&lt;p&gt;Her big finisher is a &lt;strong&gt;Hailstone Hex&lt;/strong&gt; that deals cold and psychic damage. It
+also forces the target to grant combat advantage and inflicts ongoing cold
+damage (save ends both). While this effect persists, enemies of the witch that
+start their turn adjacent to the victim suffer 5 cold damage. In other words,
+it’s a miniature hailstone cloud following the victim around!  This recharges
+when the witch is bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;wild-coldscale-drake&quot;&gt;Wild Coldscale Drake&lt;/h3&gt;
+
+&lt;p&gt;This is more of a pet than a vassal, as it’s a Medium Natural Beast and not
+sapient. You can use these to fill out a vassal encounter. It’s a Level 8 Lurker
+with 70 HP and Speed 8.&lt;/p&gt;
+
+&lt;p&gt;Coldscale drakes have &lt;strong&gt;Snow Camouflage&lt;/strong&gt; that gives them partial concealment in
+any icy terrain, and deal an extra 4d6 damage to any target that cannot see
+them.&lt;/p&gt;
+
+&lt;p&gt;They need that boost because their &lt;strong&gt;bite&lt;/strong&gt; is a little weak without
+it. Fortunately they can use their &lt;strong&gt;Snow Stalker&lt;/strong&gt; ability when on icy terrain
+or within 10 squares of a white dragon to become invisible until after they make
+their next attack.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Bitterstrike is a dangerous solo boss fight for a level 6 or 7 party. When
+facing more powerful PCs she will bring enough elite vassals and coldscale
+drakes to keep that level advantage. Most encounters against her should happen
+in the Winterbole region, which will give her and her vassals a big terrain
+advantage. Anyone level 5 or lower is seriously risking their lives by going too
+deep into the Winterbole forest.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, I like the dynamic of a somewhat stupid “queen” constantly
+manipulated by her much smarter vassals.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/01/bitterstrike.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/01/bitterstrike.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Barrowhaunts</title>
@@ -1255,243 +1460,6 @@ expect from an entry dedicated to a creature that’s also a PC option.&lt;/p&gt
         <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/11/18/wilden.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/18/wilden.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Weaver</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-weaver.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Weavers have apparently been around since the days of AD&amp;amp;D, appearing in a
-Monstrous Compendium Annual there under the name “Spell Weavers”. Their 4e debut
-was actually in Dungeon #165, in the adventure titled “Secrets of the White
-Lotus Academy”. Here in the MM3 they get updated into a major cosmic threat.&lt;/p&gt;
-
-&lt;p&gt;As an aside, it was in a weaver ruin that Kyuss found the writings that let him
-become the Worm that Walks, back in the 3e adventure path.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Weaver civilization is incredibly ancient, and what little remains of it seems
-to have been somehow shattered and spread across the cosmos. Records recovered
-from these few ruins seem to describe a terrible Far Realm incursion that tried
-to inject a seed of chaos into our cosmos. The Weavers tried to stop this, and
-were only partially successful. This is what shattered them.&lt;/p&gt;
-
-&lt;p&gt;To hear the Weavers themselves tell it, their civilization predated even the
-gods and primordials, and the event that caused its destruction was in fact what
-caused the universe to separate into the Elemental Chaos and the Astral
-Sea. Contemporary sages don’t believe this to be true, but the surviving Weavers
-certainly do. This belief is at the root of their disdain for all things
-divine. To them, the gods are just annoying upstarts. Their own bodies and minds
-are the product of aeons of transhuman enhancement. They’re much stronger,
-faster, and smarter than your average mortal, and possess an unparalleled
-multitasking ability that lets them even cast multiple complex spells at once.&lt;/p&gt;
-
-&lt;p&gt;Present-day Weavers preserve as much of their ancient lore as they can, and work
-on a grand plan to rebuild their civilization by undoing the planar disjunction
-that broke it. Yes, they want to smush the planes back together. If they’re
-right, it will be a very bad time for everyone else in the universe. If they’re
-wrong, it will be a bad time for absolutely everyone, including themselves.&lt;/p&gt;
-
-&lt;p&gt;Their plan has two parts. The first is to restore and repair as many weaver
-ruins as possible. Within each one is a planar portal that links all active
-ruins into a single network, and a mystical furnace that burns the life force of
-mortals and the enchantments that power magic items. By feeding these furnaces,
-weavers gather power for the series of rituals that will finally accomplish
-their goal.&lt;/p&gt;
-
-&lt;p&gt;A weaver will be most likely be found masterminding some plan to gather powerful
-mortal souls and magic items. They drain this power through enchanted chromatic
-disks that only work for weavers. Every individual carries one of these, though
-they specialize in different “flavors” of soul.&lt;/p&gt;
-
-&lt;p&gt;Weavers easily form alliances with other powerful groups that have the same
-negative opinion of the gods and a nihilistic bent, like tulgars and the
-Forsaken. They also hold great influence over the Nerra, leading some scholars
-to say the creation story in that entry is wrong and the Nerra are actually
-creations of the Weavers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Weavers are Medium Immortal Humanoids. They have Darkvision, a ground speed of
-6, and a teleport speed of 6. Their signature trait is &lt;strong&gt;Multitasking Brain&lt;/strong&gt;,
-which limits the effect of the dazed condition on them: they only lose their
-move action, and can still take immediate actions (like interrupts and
-reactions).&lt;/p&gt;
-
-&lt;p&gt;The other signature trait is more of a design directive: most of a weaver’s
-attacks are minor actions, and they’re about as effective as a standard action
-from another monster would be. They’re also all Elites.&lt;/p&gt;
-
-&lt;p&gt;Each weaver statted below specializes in collecting the souls of characters who
-employ a different power source, using that same power source as its main
-weapon. There’s one for every power source except divine, whom they consider
-beneath them even as fuel for their furnaces. Ironically, this means divine
-characters have a bit of an advantage over weavers.&lt;/p&gt;
-
-&lt;h3 id=&quot;spell-weaver&quot;&gt;Spell Weaver&lt;/h3&gt;
-
-&lt;p&gt;The classic model, concerned with the collection of arcane power. Spell weavers
-usually lead raids into secure locations in order to steal magic itens and
-particularly desirable souls. They’re planned months in advance with intel from
-spies and divinations, and usually involve the opening of a long-distance portal
-as close to the target as possible. Once the spell weaver has what it wants, it
-teleports back to the portal and escapes. It’s Level 28 Elite Artillery with 400
-HP. Yes, according to this entry the typical weaver is equivalent to a demigod
-in power.&lt;/p&gt;
-
-&lt;p&gt;They have three basic attacks, all doable as minor actions: &lt;strong&gt;Esoteric Touch&lt;/strong&gt;
-deals force damage and pushes 5 squares; &lt;strong&gt;Dimensional Ray&lt;/strong&gt; allows the weaver
-to teleport 2 squares before rolling, deals untyped damage, and teleports the
-target 2 squares; and &lt;strong&gt;Esoteric Blast&lt;/strong&gt; deals fire damage to its target and an
-automatic 10 fire damage to all enemies adjacent to it.&lt;/p&gt;
-
-&lt;p&gt;Also as a minor action, it can wield its chromatic disk and cast &lt;strong&gt;Extract
-Arcane Soul&lt;/strong&gt; (recharge 5+). This can only target characters with arcane
-powers. It deals psychic damage and dazes (save ends). On a miss it deals half
-damage. Hit or miss, the weaver regains 20 HP. So this doesn’t extract your
-whole soul, just a bit of your life force. It’s still bad news!&lt;/p&gt;
-
-&lt;p&gt;They also have a standard action attack: &lt;strong&gt;Chilling Echo&lt;/strong&gt; can be used to
-automatically deal 15 cold damage to all creatures the spell weaver has damaged
-since the start of its current turn.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, when the weaver takes damage, it can use &lt;strong&gt;Defensive Jaunt&lt;/strong&gt;
-as a reaction, becoming invisible and teleporting 20 squares.&lt;/p&gt;
-
-&lt;p&gt;The spell weaver’s minor action attacks deal about half the damage you would
-expect from the MM3 formula, but the addition of Chilling Echo brings them back
-up to their expected potential. Don’t forget to use it!&lt;/p&gt;
-
-&lt;h3 id=&quot;battleweaver&quot;&gt;Battleweaver&lt;/h3&gt;
-
-&lt;p&gt;Possibly some of the best warriors in the universe, battleweavers wield 4
-exquisitely-crafted swords in combat, and hold their chromatic disk in their
-other two hands. They collect the life force of worthy warriors. Battleweavers
-are Level 26 Elite Soldiers with 488 HP.&lt;/p&gt;
-
-&lt;p&gt;It’s imposssible to duel a battleweaver and come out unscathed, because their
-&lt;strong&gt;Blade Mastery&lt;/strong&gt; acts as an aura (1) that deals 10 automatic damage to any
-enemies inside and marks them for a turn when this happens.&lt;/p&gt;
-
-&lt;p&gt;They have a standard &lt;strong&gt;longsword&lt;/strong&gt; basic attack, but they’re usually going to
-open with one of their two minor-action maneuvers, which also count as basic
-attacks. &lt;strong&gt;Quick Jab&lt;/strong&gt; deals light physical damage and slides the target 3
-squares to a space adjacent to the weaver; &lt;strong&gt;sidestep jab&lt;/strong&gt; does the same damage
-and allows the weaver to shift 3 squares to a space adjacent to the
-target. Combined, they allow the creature to lead its foes on a merry dance
-across the field. The basic attack can then act as a “finisher” in the round,
-bringing their damage potential to a level a bit above the one expected by the
-formula.&lt;/p&gt;
-
-&lt;p&gt;Battleweavers can use their chromatic disk to &lt;strong&gt;Extract a Martial Soul&lt;/strong&gt;,
-targetting characters with martial powers. This is like the spellweaver’s
-version: it deals psychic damage, dazes (save ends), and heals the weaver for
-about 5% of its total HP (24 in this case).&lt;/p&gt;
-
-&lt;p&gt;If an enemy marked by the battleweaver within 10 squares makes an attack that
-doesn’t include the weaver as a target, the weaver can teleport to the enemy and
-make a melee basic attack against it, as an interrupt. This is the other main
-use of their standard-action basic attack.&lt;/p&gt;
-
-&lt;p&gt;Battleweavers will use their “jab” strikes to wander around the battlefield and
-disrupt PC formations while their aura damages and marks enemies. Like a
-swordmage, it will try to stay far away from enemies it has marked, to increase
-the chances of their mark triggering. It will use its stronger longsword attacks
-to punish mark-ignoring PCs or to pile on more damage on a target it wants to
-focus.&lt;/p&gt;
-
-&lt;h3 id=&quot;thought-weaver&quot;&gt;Thought Weaver&lt;/h3&gt;
-
-&lt;p&gt;A weaver that specializes in the power of the mind. It usually doesn’t go out
-hunting like the others - instead it can be found in weaver ruins working to
-restore their gates and furnaces. If forced to fight, it will do so entirely
-through the use of psionic powers, barely moving unless absolutely necessary.&lt;/p&gt;
-
-&lt;p&gt;Thought weavers are Level 27 Controllers with the Leader keyword and 500
-HP. Their basic attacks are minor actions:: &lt;strong&gt;Quick Strike&lt;/strong&gt; is a standard melee
-attack, and &lt;strong&gt;Mind Spike&lt;/strong&gt; is a ranged attack that deals psychic damage,
-inflicts a -2 penalty to all defenses for a turn, and slides the target 3
-squares. They can also &lt;strong&gt;Extract A Psionic Soul&lt;/strong&gt;, targetting a PC with psionic
-powers with the same standard Extract Soul effects. As standard actions, it can
-use two powerful mind control techniques:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mental Puppet&lt;/strong&gt; is a non-damaging attack that slides the target 5 squares,
-forces them to make a basic attack against a target of the weaver’s choice, and
-then dominates it (save ends). It recharges when no one is dominated by the
-power.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Command the Puppet&lt;/strong&gt; automatically hits someone dominated by Mental Puppet. It
-deals psychic damage and has the same rider as the other power (slide 5 squares,
-make a basic attack).&lt;/p&gt;
-
-&lt;p&gt;If someone leaves a square adjacent to the dominated puppet, the weaver can use
-&lt;strong&gt;Guardian Puppet&lt;/strong&gt; as an interrupt to have the dominated character use a basic
-attack against the triggering enemy.&lt;/p&gt;
-
-&lt;p&gt;Tought weavers can also choose to spend a standard, move, or minor action
-directing a &lt;strong&gt;Coordinated Strike&lt;/strong&gt;, which essentially gifts the spent action to
-an ally within 5 squares and allows the ally to immediately take that action.&lt;/p&gt;
-
-&lt;h3 id=&quot;hex-weaver&quot;&gt;Hex Weaver&lt;/h3&gt;
-
-&lt;p&gt;This is the weaver attuned to the Shadow power source. And what is the Shadow
-power source? As far as I know it’s basically “Arcane in a Halloween
-costume”. It started getting mentions as something distinct around this time,
-and would get a supplement all to itself named Heroes of Shadow the next year.
-To my knowledge it never got very popular due to this conceptual confusion with
-arcane magic and due to most of its associated classes not being very
-good. Anyway, it got a weaver here.&lt;/p&gt;
-
-&lt;p&gt;Hex Weavers are too cool to hang out with other weavers, and instead oversee
-portals into the Shadowfell from which they launch expeditions to pursue
-mysterious goals that may or may not be related to the overall plan of the
-weaver civilization.&lt;/p&gt;
-
-&lt;p&gt;A Hex Weaver is a Level 27 Elite Lurker with 382 HP, and it’s also too cool to
-follow the same rules as the other weavers. Its minor action attacks are
-&lt;strong&gt;Extract Shadow Soul&lt;/strong&gt;, which has the usual effects but only targets creatures
-with shadow powers, and &lt;strong&gt;Shrouded Eye&lt;/strong&gt;, a ranged attack that deals psychic
-damage and makes the weaver invisible to the target for a turn. The latter can
-only be used once per round, which breaks from the pattern.&lt;/p&gt;
-
-&lt;p&gt;This is also the weaver with the highest number of standard action powers:
-&lt;strong&gt;Shadow Grasp&lt;/strong&gt; is a stronger, melee version of Shrouded Eye; &lt;strong&gt;Stinging
-Shroud&lt;/strong&gt; is a close burst 1 that deals necrotic damage and is much stronger
-against creatures granting combat advantage to the weaver. And &lt;strong&gt;Shadow Mask&lt;/strong&gt;
-is an encounter power that makes it invisible for a turn.&lt;/p&gt;
-
-&lt;p&gt;Finally, if the weaver is damaged, it can &lt;strong&gt;Step Into Shadow&lt;/strong&gt; (recharge 4+) to
-become insubstantial for a turn and teleport its speed as a reaction.&lt;/p&gt;
-
-&lt;p&gt;Hex weavers are a bit disappointing. They’d be a lot more dangerous if Shadow
-Mask was a recharge or at-will power, or if Shadow Grasp was a minor
-action. They also had the problem that there weren’t a lot of shadow-based PCs
-around when they were published, because Heroes of Shadow was like six months
-away from its release.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m not familiar with weavers from previous editions but I really like their
-lore here. The targetting restrictions on their Extract Soul attack do feel a
-little artificial, but are easily removed. I don’t like the shadow power source
-very much, so I didn’t like Hex Weavers, but the others are quite flavorful and
-powerful.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/17/weaver.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/17/weaver.html</guid>
         
         <category>dnd4</category>
         
