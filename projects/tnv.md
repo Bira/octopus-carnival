@@ -22,9 +22,11 @@ As more monsters are added, they will be linked below.
 - B
   - [Barrowhaunts][3]
   - [Bitterstrike][4]
+  - [Blackfang Gnolls][5]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
 [3]: {{ "/2022/11/29/barrowhaunts.html" | relative_url }}
 [4]: {{ "/2022/12/01/bitterstrike.html" | relative_url }}
+[5]: {{ "/2022/12/03/blackfang-gnolls.html" | relative_url }}

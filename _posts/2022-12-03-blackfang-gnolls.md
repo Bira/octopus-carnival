@@ -6,15 +6,6 @@ tags:
     - lets-read
 ---
 
-{::nomarkdown}
-<figure class="center">
-  <img src="{{ "/assets/wir-tnv-gnoll-bloodfang.png" | absolute_url }}"/>
-  <figcaption>
-    Copyright 2011 Wizards of the Coast.
-  </figcaption>
-</figure>
-{:/nomarkdown}
-
 This post is part of a series! Click [here][1] to see the others.
 
 The Blackfang gnolls first appeared as one of the antagonist groups in the
