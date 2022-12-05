@@ -23,6 +23,7 @@ As more monsters are added, they will be linked below.
   - [Barrowhaunts][3]
   - [Bitterstrike][4]
   - [Blackfang Gnolls][5]
+  - [Bloodfire Ooze][6]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -30,3 +31,4 @@ As more monsters are added, they will be linked below.
 [3]: {{ "/2022/11/29/barrowhaunts.html" | relative_url }}
 [4]: {{ "/2022/12/01/bitterstrike.html" | relative_url }}
 [5]: {{ "/2022/12/03/blackfang-gnolls.html" | relative_url }}
+[6]: {{ "/2022/12/05/bloodfire-ooze.html" | relative_url }}
