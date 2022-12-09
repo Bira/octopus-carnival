@@ -6,9 +6,158 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Dec 2022 16:44:20 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Dec 2022 16:44:20 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Dec 2022 18:03:09 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2022 18:03:09 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Boggle</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-boggle-body.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Boggles have been in the game since 1st Edition, when they appeared on the
+Monster Manual II. This is their 4e debut.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Boggles are mischievous humanoid fey. They’ve been around a very long time, and
+are actually the common ancestors to both banderhobbs and mundane goblins! They
+love playing cruel pranks on others, and move from the Feywild to the world
+every time they find a fey crossing. The world’s mortals are so much more easily
+fooled than the jaded fey of their home plane!&lt;/p&gt;
+
+&lt;p&gt;These creatures are naturally sneaky and have some capacity to bend space. It’s
+common for a child to complain to their parents about a “bogeyman” who keeps
+lurking just out of sight and disappears when looked at. Parents dismiss that as
+a childhood fantasy right up until the boggle strikes. Common pranks include
+spoiling milk, tying shoelaces together, setting clothes on fire, and all the
+stuff you might have read in old real-world myths about the Fair Folk. At the
+most cruel end that does include switching infants for swaddled animals or just
+plain snatching children away. There are also some adventurer-specific pranks
+like disassembling armor and hiding the pieces, or swapping brand new or magic
+weapons for old and rusty replacements.&lt;/p&gt;
+
+&lt;p&gt;For all their cruelty, boggles are cowards, preferring to do their spying and
+sabotage through those mini-portals they can create. They get nervous and
+anxious when near other people, and this causes them to sweat profusely. Boggle
+sweat is a very distinctive substance, viscous and slippery like grease. It’s
+resistant to fire, though. Traces of it are often confirmation that boggles are
+acting in a location.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, stronger or smarter creatures manage to coerce boggles into working
+for them. Left to their own devices, they associate only with each other.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Boggles are an early-Heroic threat suitable for introducing PCs to the more
+fairy-tale side of fey opposition. They’re Small Fey Humanoids with ground and
+climb speeds of 6, and darkvision. They also have Fire Resistance 5 from their
+weird sweat.&lt;/p&gt;
+
+&lt;p&gt;Their signature traits are &lt;strong&gt;Dimensional Window&lt;/strong&gt;, which allows them to make
+“remote” Thievery checks against creatures up to 10 squares away; and
+&lt;strong&gt;Dimension Hop&lt;/strong&gt;, a move action that lets them teleport up to 3 squares. Even
+tough they’re small, boggles have a long melee reach, because they hit you
+through a tiny portal. All of their individual powers are also based around this
+ability to create small dimensional windows.&lt;/p&gt;
+
+&lt;h3 id=&quot;boggle-sight-stealer&quot;&gt;Boggle Sight Stealer&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 3 Lurker with 37 HP. Its basic attack is a Reach 2 &lt;strong&gt;claw&lt;/strong&gt;, and
+its favorite move is the &lt;strong&gt;Peek-a-Boo Trick&lt;/strong&gt; a Range 10 attack that targets
+Reflex. It does no damage, but it lets the boggle pull the target to a space
+within 2 squares of it and to grab them. The target is blinded until the grab
+ends, either by the target beating its escape DC of 13, or by the boggle being
+more than 2 squares away from the target.&lt;/p&gt;
+
+&lt;p&gt;While the boggle is grabbing a victim, it can use a &lt;strong&gt;Neck Bite&lt;/strong&gt; on them. This
+attacks Reflex and deals heavy physical damage, half on a miss. If the victim
+escapes the grab, the boggle can attack it with &lt;strong&gt;Face Rip&lt;/strong&gt; as a reaction,
+automatically dealing a bit of physical damage and allowing the boggle to
+teleport 3 squares.&lt;/p&gt;
+
+&lt;p&gt;Sight Stealers work very well against controllers and ranged strikers,
+particularly if they have buddies that can keep the other PCs away from them.&lt;/p&gt;
+
+&lt;h3 id=&quot;boggle-blink-trickster&quot;&gt;Boggle Blink Trickster&lt;/h3&gt;
+
+&lt;p&gt;Blink Tricksters are Level 4 Artillery with 43 HP. They’re the only artillery
+monster I’ve seen that lacks a ranged attack! Instead, their basic &lt;strong&gt;claw&lt;/strong&gt; has
+a, well, boggling Reach of &lt;em&gt;10&lt;/em&gt;, and enjoys the increased accuracy usually given
+to ranged attacks from artillery monsters. This is an interesting implementation
+because it means they’re not actually weak in melee and need not fear
+opportunity attacks as much.&lt;/p&gt;
+
+&lt;p&gt;In addition to the standard traits discussed above, blink tricksters can use a
+&lt;strong&gt;Double Diversion Trick&lt;/strong&gt; to attack twice in one action. This recharges when
+they’re first bloodied. And if they’re damaged by a melee attack, they can
+dimension hop as a reaction once per encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;boggle-chase-trickster&quot;&gt;Boggle Chase Trickster&lt;/h3&gt;
+
+&lt;p&gt;Chase tricksters are Level 4 Skirmishers with 53 HP. Their &lt;strong&gt;claws&lt;/strong&gt; have a more
+typical reach of 2, and they have a couple of interesting movement powers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Foot-Snare Trick&lt;/strong&gt; is a minor action that can target an enemy flanked by the
+boggle. It has an automatic effect: if the target moves more than 3 squares on
+their next turn, they end that movement prone. This won’t do much good against
+defenders, but it can ruin the plans of mobile strikers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chase Trick&lt;/strong&gt; is a reaction that triggers when the boggle is missed by a melee
+attack. It can shift up to 3 squares and pull the attacker along with it. This
+represents the creature tricking the attacker into chasing them, so the pull
+does provoke opportunity attacks! If the attacker ends this movement without
+taking damage, they can make a free attack against the boggle. The power
+recharges when the boggle is first bloodied. It’s only worth using if the boggle
+has plenty of other buddles hanging out nearby.&lt;/p&gt;
+
+&lt;h3 id=&quot;boggle-body-snatcher&quot;&gt;Boggle Body Snatcher&lt;/h3&gt;
+
+&lt;p&gt;This is a Level 5 Controller with 61 HP. It has all standard boggle traits
+including a Reach 2 &lt;strong&gt;claw&lt;/strong&gt; attack. Its special move is &lt;strong&gt;Body Snatch&lt;/strong&gt;
+(recharge 4+). It’s a non-damaging attacks that dominates on a hit (save ends)!
+Until the target saves against this, the boggle is removed from play, and the
+target gains a +2 bonus to hit and damage. When the effect ends the boggle
+returns to play within 5 squares of the target.&lt;/p&gt;
+
+&lt;p&gt;In other words, this thing works exactly like a Jockey from Left 4 Dead 2,
+riding the victim and directing their movement. It’s also extra-sweaty: once per
+round as a minor action it can leave a &lt;strong&gt;Boggle Sweat Stain&lt;/strong&gt; on the
+ground. Each stain occupies a square and lasts until the end of the
+encounter. Whenever a non-boggle enters a sweat-stained square, they
+automatically fall prone.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-boggle-hand.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I like these creatures! Their lore gives them a proper fairy-tale monster feel,
+and their mechanics are flavorful and interesting. My favorite is the Reach 10
+melee attack from the blink trickster, with the body snatcher’s sweat stains
+a close second.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Bloodfire Ooze</title>
@@ -1334,137 +1483,6 @@ shoot him in the head after telling him “Goncharov says hi”. &lt;a href=&qu
         <category>shadowrun</category>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Yeti</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yeti.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Yetis are inspired by real world folklore and I’m sure they showed up in a
-previous edition of D&amp;amp;D before. This seems to be their 4e debut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;D&amp;amp;D yeti are borderline-sapient predators adapted to live in permafrost covered
-mountains. While they usually feed on other mountain-dwelling animals, they’re
-more than powerful and ferocious enough to attack people, and so everyone who
-lives near their habitat knows they exist. Learning how to recognize signs of
-yeti presence and avoid the creatures is probably a standard part of mountain
-survival training.&lt;/p&gt;
-
-&lt;p&gt;Yetis have a well-developed sense of smell and can track prey across great
-distances. They hate the smell of rotting flesh, however, so leaving decomposed
-animal carcasses around an area can serve to keep them away. Herders also know
-to pay attention to their animals: if they grow too agitated for no apparent
-reason, it might be because they’ve sensed an approaching yeti.&lt;/p&gt;
-
-&lt;p&gt;A yeti relies on its powerful muscles, sharp claws, and magic-enhanced howls to
-kill its prey. They don’t really have any sort of technology or a complex
-society, but they live in bands and work very well together. They’re smart
-enough to avoid large, well-armed expeditions, but they’ll be on top of any
-isolated stragglers before you can say “Look out, a yeti!”.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Yeti are Medium Natural Beasts with Speed 6, Ice Walk, Resist 5 Cold and
-Low-Light Vision. Their signature encounter power is their &lt;strong&gt;Fearsome Howl&lt;/strong&gt;, a
-Close Blast 4 vs. Will that deals psychic damage and pushes 3 squares.&lt;/p&gt;
-
-&lt;p&gt;All of the entries here have &lt;strong&gt;claws&lt;/strong&gt; as their basic attacks. These don’t have
-any riders and are always underpowered for their level, which means they’ll use
-their other attacks as much as possible. Their other attacks also tend to have
-low-ish damage, but have interesting riders. They have an Int between 9 and 11
-while still counting as Beasts, which is why I said “borderline sapient” above.&lt;/p&gt;
-
-&lt;p&gt;Yeti encounters will most often be against an all-yeti group, as they don’t
-really ally with anyone or keep pets. For variety, you can add other
-opportunistic predators, or maybe a wild cold elemental or two. Also, these
-encounters are all pretty much guaranteed to take place in treacherous frozen
-mountain paths full of ice-based difficult terrain and hazards like tall cliffs
-and snow-covered sinkholes. Every yeti has at least one forced-movement power
-available to it (Fearsome Howl), so they’re likely to be more dangerous than
-their stats alone indicate.&lt;/p&gt;
-
-&lt;h3 id=&quot;yeti-hunter&quot;&gt;Yeti Hunter&lt;/h3&gt;
-
-&lt;p&gt;Your typical roaming yeti, whose howls can be heard from miles away but don’t
-really give away their position because of the way sound echoes in the
-mountains. It’s a level 3 Soldier with 49 HP.&lt;/p&gt;
-
-&lt;p&gt;The hunter’s claw attack will probably only feature as part of a &lt;strong&gt;Twin Claw
-Grab&lt;/strong&gt;, which lets it make two attacks and grab the target if both hit. It
-doesn’t have any special abilities to exploit a grab, but the basic rules still
-apply. Its marking abilities are a ranged &lt;strong&gt;How of Challenge&lt;/strong&gt; that deals
-psychic damage and marks for a turn, and a close burst &lt;strong&gt;Call for Blood&lt;/strong&gt; that
-deals more psychic damage and marks everyone it hits (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;yeti-howler&quot;&gt;Yeti Howler&lt;/h3&gt;
-
-&lt;p&gt;A yeti whose magic howls are more powerful than usual. Some stories say they’re
-the embodiment of angry ghosts, howling against the injustice of their premature
-deaths. They’re Level 4 Controllers with 58 HP.&lt;/p&gt;
-
-&lt;p&gt;The howler’s &lt;strong&gt;Chilling Wail&lt;/strong&gt; acts as an aura (3) that deals 5 psychic damage
-and imposes a -2 defense penalty for a turn against any enemy who ends their
-turn inside. This actually brings its melee damage up to par, with a little
-extra aimed at the other PCs inside the aura. If you try to stay away from it,
-the howler will bombard you with &lt;strong&gt;Hurled Boulders&lt;/strong&gt; that work like ranged area
-attacks dealing physical damage.&lt;/p&gt;
-
-&lt;p&gt;In addition to their Fearsome Howl, howlers can also emit a &lt;strong&gt;Piercing Shriek&lt;/strong&gt;
-once per encounter. This ranged attack deals thunder damage, and if the target
-ends their next turn within 5 squares of the yeti they take another 5 thunder
-damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;yeti-rampager&quot;&gt;Yeti Rampager&lt;/h3&gt;
-
-&lt;p&gt;This one is angrier than usual, with a more mobile fighting style. It’s a Level
-5 Skirmisher with 67 HP. They have a Speed of 7.&lt;/p&gt;
-
-&lt;p&gt;Rampagers love to charge, so they’ll try to make space for those charges as
-often as possible. They’ll pick a target and use their &lt;strong&gt;Battle Howl&lt;/strong&gt; against
-it, a ranged attack that deals psychic damage and lets them charge as a free
-action on a hit. They can also just charge normally instead, if they’re not
-confident of hitting the target with the howl. In either case their &lt;strong&gt;Furious
-Charger&lt;/strong&gt; trait gives them +5 bonus damage on charges.&lt;/p&gt;
-
-&lt;p&gt;If they’re surrounded by melee PCs, howlers can use Furious Howl or &lt;strong&gt;Trample&lt;/strong&gt;
-to get away. That last ability lets them shift their speed and make a melee
-attack that damages and knocks prone on a hit against any enemies whose spaces
-they move through during the shift.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Yeti are interesting mechanically, but they require a bit more thought on the
-part of the GM to ensure they’re dealing level appropriate damage. None of them
-are the type to stand still and spam basic attacks.&lt;/p&gt;
-
-&lt;p&gt;Lore-wise, I don’t see much wrong with their lore. They’re described as
-dangerous predators, and the word “savage” doesn’t appear even once in this
-entry. The biggest criticism I can make is that yetis are so iconic outside D&amp;amp;D
-that facing one feels kinda “mundane” when compared to some of the other
-monsters available. That’s just a personal taste thing, though.&lt;/p&gt;
-
-&lt;p&gt;It wouldn’t be hard to use these stat blocks for a sapient and friendlier yeti
-if that’s how you want them to be in your campaign.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/21/yeti.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/21/yeti.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
