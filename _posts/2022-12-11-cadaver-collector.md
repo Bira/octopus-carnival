@@ -118,9 +118,17 @@ necrotic damage and recover 24 HP himself.
 
 ## Final Impressions
 
+If you think about it, the existence of cadaver collectors shows that necromancy
+in D&D requires an ideological commitment to the spread of undeath. These
+constructs are more powerful and have a less ethically questionable nature than
+most "servant" undead. They also take more skill to build, but their original
+builders clearly _had_ that skill. And yet chose to task their constructs with
+collecting corpses for turning into zombies.
+
 I like the addition of Gokof to this entry. It helps establish a concrete
-situation where cadaver collectors appear in the Nentir Vale. It's more than
-even most other setting-specific monster books do. Those usually just say "these
-monsters exist in this setting".
+situation where cadaver collectors appear in the Nentir Vale. It's also an
+example of how a less "ideological" necromancer would come to control these
+creatures. This is more than even most other setting-specific monster books
+do. Those usually just say "these monsters exist in this setting".
 
 [1]: {{ "/projects/tnv" | relative_url }}
