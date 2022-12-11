@@ -26,6 +26,9 @@ As more monsters are added, they will be linked below.
   - [Bloodfire Ooze][6]
   - [Boggle][7]
 
+- C
+  - [Cadaver Collector][8]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -34,3 +37,4 @@ As more monsters are added, they will be linked below.
 [5]: {{ "/2022/12/03/blackfang-gnolls.html" | relative_url }}
 [6]: {{ "/2022/12/05/bloodfire-ooze.html" | relative_url }}
 [7]: {{ "/2022/12/09/boggle.html" | relative_url }}
+[8]: {{ "/2022/12/11/cadaver-collector.html" | relative_url }}
