@@ -6,9 +6,146 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Dec 2022 18:03:09 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Dec 2022 18:03:09 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Dec 2022 14:21:31 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Dec 2022 14:21:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Cadaver Collector</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-cadaver-collector.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I’m pretty sure I saw these in a 3e supplement somewhere, but there’s a nifty
+bonus stat block here that ties them to the Nentir Vale.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Cadaver Collectors are specialized golems first built by ancient necromancers to
+provide them with a supply of corpses. Their metal-plated bodies are covered in
+long spikes that they use to impale collected corpses for transport and
+delivery. They were commonly sent to “clear” battlefields after a battle had
+ended.&lt;/p&gt;
+
+&lt;p&gt;Like many other constructs they’re pretty good at performing the job they were
+designed for and at following instructions related to it, but they can’t do
+anything else well. This is why no one sent them to fight in those battles. They
+only follow the orders of their current master, or those of a person who also
+serves that master.&lt;/p&gt;
+
+&lt;p&gt;The original recipe for cadaver collectors was repeatedly lost and rediscovered
+over the ages. No one in the Nentir Vale knows how to build one in our narrative
+present, but there are several old ones still around in the wild. Many of them
+are located somewhere within the Witchlight Fens, a swampy region in the
+south-central Vale.&lt;/p&gt;
+
+&lt;p&gt;When a collector’s master dies it will usually fulfill the last order it was
+given and then stand by waiting for more. If someone happens to die in their
+assigned area in the meantime, they will dutifully go out to collect the
+bodies. If someone manages to convince the collector they work for the
+collector’s master, the creature will obey their orders.&lt;/p&gt;
+
+&lt;p&gt;After enough time waiting for orders that never come, their programming might
+mutate a bit, giving them a bit more initiative. Some collectors decide to go
+looking for a new master to serve. Others decide to broaden their mission
+parameters and consider living creatures valid targets for collection.&lt;/p&gt;
+
+&lt;p&gt;There’s a hobgoblin necromancer named Gokof living in the Witchlight Fens who is
+unusually skilled at convincing ancient cadaver collectors to work for him. He’s
+nominally a member of the Daggerburg goblin tribe but spends most of his time
+away from them and in the company of his collectors and undead servants. He
+rarely has more than two collectors working for him at any one time, but never
+seems to have trouble finding more to replace them.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
+
+&lt;p&gt;We get two stat blocks here, one for a cadaver collector and one for Gokof.&lt;/p&gt;
+
+&lt;h3 id=&quot;cadaver-collector&quot;&gt;Cadaver Collector&lt;/h3&gt;
+
+&lt;p&gt;These constructs are Large Natural Animates and Level 9 Elite Soldiers with 200
+HP and a speed of 8. They’re immune to charm, disease, and poison, and have
+Resist Lightning 10. They are somewhat weak to thunder damage: whenever they
+take thunder damage, they become slowed (save ends).&lt;/p&gt;
+
+&lt;p&gt;Collectors attack with &lt;strong&gt;Slams&lt;/strong&gt; that deal physical damage and grab on a hit
+(escape DC 20). They can grab one Large creature or up to four Small creatures
+at once. As an elite it can perform &lt;strong&gt;Double Slams&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The collector can also spend its action to &lt;strong&gt;Impale&lt;/strong&gt; a grabbed creature. This
+deals massive damage, pulls them into the collector’s space, restrains them, and
+inflicts 10 ongoing damage (save ends all). When the collector moves, the
+creature is pulled along, and when the effect ends, the creature reappears in an
+adjacent space.&lt;/p&gt;
+
+&lt;p&gt;You might have noticed that there’s a limit to how many creatures a collector
+can &lt;em&gt;grab&lt;/em&gt;, but not to how many it can &lt;em&gt;impale&lt;/em&gt;. It’s not going to matter much
+in practice, because it’s highly unlikely a collector will impale the whole
+party at once. However, if it ever becomes relevant I’m inclined to say their
+impaling limit is the same as the one for grabs. A fully loaded collector would
+have four Medium cadavers impaled and another four grabbed. And would probably
+have more than the two arms depicted in the illustration.&lt;/p&gt;
+
+&lt;p&gt;Finally, the collector can &lt;strong&gt;Trample&lt;/strong&gt; once per encounter like the big chungus
+it is. The rules are as usual: it moves its speed and can cross enemy spaces
+while doing so, making an attack that deals heavy physical damage and knocks
+prone against every enemy whose space they cross.&lt;/p&gt;
+
+&lt;p&gt;Collectors fight by pretty much applying their programming to the PCs. Grab
+impale, repeat. When fully loaded, trample to retreat.&lt;/p&gt;
+
+&lt;h3 id=&quot;gokof-hobgoblin-necromancer&quot;&gt;Gokof, Hobgoblin Necromancer&lt;/h3&gt;
+
+&lt;p&gt;Gokof is a Level 9 Controller (Leader). He has speed 6 and low-light vision from
+being a hobgoblin. He wields a &lt;strong&gt;Staff&lt;/strong&gt; as both weapon and implement, and has
+an array of necromantic spells at his disposal.&lt;/p&gt;
+
+&lt;p&gt;His basic ranged attack is a &lt;strong&gt;Necrotic Ray&lt;/strong&gt; that deals necrotic damage on a
+hit and slows for a turn as an effect. Anything that happens “as an effect”
+always happens, regardless of whether the attack hits or not! Less often
+(recharge 5+) he can cast &lt;strong&gt;Sapping Tendrils&lt;/strong&gt; as a ranged area attack. This is
+not selective, and on a hit it deals necrotic damage, immobilizes, and inflicts
+ongoing necrotic damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Instead of casting a spell, Gokof can use &lt;strong&gt;Command Animate&lt;/strong&gt; to order an
+animate ally to make a melee basic attack as a free action. Cadaver collectors
+are animates, of course, and so are a lot of undead.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, when an enemy within 5 squares of Gokof regains HP, the
+necromancer can use &lt;strong&gt;Dark Healing&lt;/strong&gt; to automatically deal them a chunk of
+necrotic damage and recover 24 HP himself.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;If you think about it, the existence of cadaver collectors shows that necromancy
+in D&amp;amp;D requires an ideological commitment to the spread of undeath. These
+constructs are more powerful and have a less ethically questionable nature than
+most “servant” undead. They also take more skill to build, but their original
+builders clearly &lt;em&gt;had&lt;/em&gt; that skill. And yet chose to task their constructs with
+collecting corpses for turning into zombies.&lt;/p&gt;
+
+&lt;p&gt;I like the addition of Gokof to this entry. It helps establish a concrete
+situation where cadaver collectors appear in the Nentir Vale. It’s also an
+example of how a less “ideological” necromancer would come to control these
+creatures. This is more than even most other setting-specific monster books
+do. Those usually just say “these monsters exist in this setting”.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Boggle</title>
@@ -1338,151 +1475,6 @@ people.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Shadowrun: Goncharov</title>
-        <description>&lt;p&gt;I’ve recently read about a fun Tumblr meme. It’s about Goncharov, a 1973 Martin
-Scorcese movie that never existed.&lt;/p&gt;
-
-&lt;p&gt;It began when someone posted a picture of these bootleg boots they bought
-somewhere. The brand label had one of those word salads copied from somewhere
-and edited by someone not too familiar with the target language. In this case,
-it was copied from a poster for Gomorrah, a real movie. And it read “Martin
-Scorcese presents Goncharov”.&lt;/p&gt;
-
-&lt;p&gt;Tumblr &lt;a href=&quot;https://www.tumblr.com/hussyknee/701454778540146688/im-so-confused-rn-can-you-explain-the-goncharov&quot;&gt;kinda ran with it&lt;/a&gt;, so now you have a lot of people making things up about
-the movie and fabricating screenshots, posters, bits of soundtrack, talking
-about all of this as if it was a real cinematic masterpiece.&lt;/p&gt;
-
-&lt;p&gt;Someone in a Discord server I frequent suggested Goncharov should become a
-standard name for someone who doesn’t exist, the opposite of John Doe. And this
-got me thinking about Shadowrun again. Here are two uses for the name Goncharov
-in a Shadowrun-like setting.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-mundane&quot;&gt;The Mundane&lt;/h2&gt;
-
-&lt;p&gt;In Shadowrun, “Mr. Johnson” is shadowrunner slang for a person who hires
-shadowrunners. The stereotypical Mr. Johnson is a shady fuck in a suit who talks
-in vague businesslike terms&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but it can be anyone who is willing to be the
-“client” for a runner group. That’s an established part of the game already.&lt;/p&gt;
-
-&lt;p&gt;So how about we say Goncharov is the “reverse” term? Goncharov is Johnson code
-for shadowrunners! Sure “shadowrunners” is canon and also works well, but you
-can’t really write “shadowrunner payoff” in your official corporate ledger, can
-you? So instead you write “payment to Goncharov for services rendered”.&lt;/p&gt;
-
-&lt;p&gt;And just like no self-respecting mysterious client calls themselves Mr. Johnson,
-no self-respecting runner calls themselves Goncharov. Someone who takes that as
-their handle or even as an alias is telling the whole world they’re a clueless
-poser.&lt;/p&gt;
-
-&lt;p&gt;This little bit of culture works well in the Shadowrun setting itself, and on
-any other setting that has stylish urban mercenaries as characters, including a
-lot of GURPS Action or GURPS Cyberpunk campaigns.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numinous&quot;&gt;The Numinous&lt;/h2&gt;
-
-&lt;p&gt;Let’s go a bit further, shall we? Here’s a mystical explanation that’s a bit
-more mystical than even Shadowrun’s default setting allows for&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and is a bit
-closer to Exalted’s take on spirits and magic.&lt;/p&gt;
-
-&lt;p&gt;Goncharov is the Small God of Shadowrunners. He started out as an abstraction,
-as above, but at some point became a real part of shadowrunning culture. Either
-an existing spirit took on the mantle, or folk belief made him real.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Real&lt;/em&gt; runners, those who are more than amoral assholes doing horrible things
-for money, they have an understanding with Goncharov. They never forget the
-corps and the big syndicates are the enemy even when circumstances force them to
-work for these groups. They never sell out. They know who their community and
-friends are, and they look out for them. And after every successful job, they
-give Goncharov his cut.&lt;/p&gt;
-
-&lt;p&gt;Goncharov looks like a fit but somewhat scuffed up man in a nice but somewhat
-scuffed up suit. The details vary, but he never looks overly fancy or
-arrogant. In other words, he might look like John Wick after a fight or three,
-but never like the Continental Hotel guy - that’s the god of Mr. Johnsons.&lt;/p&gt;
-
-&lt;p&gt;Magicians can take Goncharov as a mentor spirit. He provides bonuses to combat
-spells and Spirits of Man, whatever form those bonuses take in your edition of
-choice. Non-magicians can also have “an understanding” with him for a slightly
-cheaper price. This gives them access to the Goncharov’s Cut rule.&lt;/p&gt;
-
-&lt;h3 id=&quot;goncharovs-cut&quot;&gt;Goncharov’s Cut&lt;/h3&gt;
-
-&lt;p&gt;Those who have an understanding with the god of Shadowrunners, and keep to his
-code, can gain extra Karma for giving him his cut. This includes magicians who
-take him as a mentor spirit, or any character who spends points to buy a
-slightly cheaper Edge representing the covenant.&lt;/p&gt;
-
-&lt;p&gt;If you’re using the Karma for Cash rule in your game, such characters gain an
-extra point of Karma when using the rule, if they would already gain at least
-one point normally.&lt;/p&gt;
-
-&lt;p&gt;If that’s not a general campaign rule, such characters still gain access to it,
-becoming able to exchange money for a single point of Karma after every run.&lt;/p&gt;
-
-&lt;p&gt;In both cases the money goes to support and improve the runner’s community, or
-to help out fellow shadowrunners in need.&lt;/p&gt;
-
-&lt;h3 id=&quot;in-gurps&quot;&gt;In GURPS&lt;/h3&gt;
-
-&lt;p&gt;In a GURPS Action or Cyberpunk campaign with supernatural elements, The
-Understanding is a -10-point Code of Honor, since it’s informal but applies to
-interactions with people who are not your peers. Give Goncharov his cut and use
-it to support your community and fellow runners; hunt down and punish any who
-betray them&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;; never sell out; even if you need to do a job for a corp or a
-crime syndicate, never forget they’re the enemy.&lt;/p&gt;
-
-&lt;p&gt;This code can work as a “pact” limitation for supernatural or cinematic traits
-related to being stealthy, discreet, or good at combat (yes, even Gunslinger or
-a talent like Smooth Operator). It would provide a 10% discount on their price,
-as normal, and would make these abilities unavailable until atonement if the PC
-breaks the attached code.&lt;/p&gt;
-
-&lt;p&gt;The monetary value of Goncharov’s cut is 10% of any earnings from
-“shadowrun”-like missions. GMs and players who don’t want to bother with
-accounting can just remove it from the PC when it’s given, and assume it gets
-spent properly. In games where more detailed tracking is important, the PC
-doesn’t need to spend the money immediately, just set it aside for use when
-necessary. Using it for personal benefit after it’s been set aside is a
-violation of the Code, though. If the protected community has its own
-organization stats, the player might want to consider transferring this money
-from the PC to the organization.&lt;/p&gt;
-
-&lt;p&gt;Following the code might also lead to acquiring traits such as positive
-reputation among your community or fellow runners, or Enemies in the form of
-traitorous villains and amoral mercenaries who think you’re weak for having a
-conscience.&lt;/p&gt;
-
-&lt;p&gt;Atonement from breaking the code usually takes the form of a dangerous mission
-to aid an oppressed community or fellow runner in trouble.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And who betrays you at the end. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Though I understand it was kinda moving in this direction in its latest
-editions. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Yes, you are totally following the code if you track Clockwork down and
-shoot him in the head after telling him “Goncharov says hi”. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>gurps</category>
         
         
       </item>
