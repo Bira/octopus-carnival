@@ -22,11 +22,11 @@ bonus stat block here that ties them to the Nentir Vale.
 
 ## The Lore
 
-Cadaver Collectors are specialized golems first built by ancient necromancers to
-provide them with a supply of corpses. Their metal-plated bodies are covered in
-long spikes that they use to impale collected corpses for transport and
-delivery. They were commonly sent to "clear" battlefields after a battle had
-ended.
+Cadaver Collectors are specialized constructs first built by ancient
+necromancers to provide them with a supply of corpses. Their metal-plated bodies
+are covered in long spikes that they use to impale collected corpses for
+transport and delivery. They were commonly sent to "clear" battlefields after a
+battle had ended.
 
 Like many other constructs they're pretty good at performing the job they were
 designed for and at following instructions related to it, but they can't do
