@@ -6,9 +6,154 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 11 Dec 2022 14:23:12 +0000</pubDate>
-    <lastBuildDate>Sun, 11 Dec 2022 14:23:12 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Dec 2022 17:37:27 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Dec 2022 17:37:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Calastryx</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-calastryx.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;When someone in the Nentir Vale points behind you and shouts “Look out, a
+three-headed dragon!” you should &lt;em&gt;always look&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;I mentioned in earlier posts that the Vale was first settled by people from
+Nerath about three hundred years ago, and that the first area they settled is
+now known as the Old Hills.&lt;/p&gt;
+
+&lt;p&gt;What we hadn’t learned yet was that this settlement process was far from
+peaceful. Back then, the Dawnforge mountains that make up the Vale’s eastern
+border were home to a small community of chromatic dragons who considered all
+they saw to be their domain. The first few attempts by human settlers to build
+villages in the Old Hills were thwarted by dragon attacks, with great loss of
+life and material.&lt;/p&gt;
+
+&lt;p&gt;It was only when the settlers asked the dwarves for help that they succeeded in
+establishing a foothold. The next wave came accompanied by a sizable dwarven
+military force, which was quick to build the fortress of Hammerfast and use it
+as a base to fight off the dragons. It didn’t take long for them to meet the
+creature that was ultimately behind these attacks: Calastryx, the three-headed
+red dragon.&lt;/p&gt;
+
+&lt;p&gt;Calastryx was too powerful for even the dwarven army to defeat, but they gave
+the wizard Starris enough time to cast a curse upon the dragon, placing her in a
+slumber that was supposed to be eternal. This allowed Nerath to finally settle
+the Vale, and Hammerfast to eventually grow into one of its major cities. To
+this day, no one knows the dragon’s history or why she has three heads. Does she
+suffer from a genetic or magical mutation? Is she the creation of a cruel god or
+of some other entity? Answers are thin on the ground, but your PCs just might
+get the chance to ask her.&lt;/p&gt;
+
+&lt;p&gt;You see, that curse held strong for three centuries but it’s starting to
+weaken. It’s possible Calastryx will awaken in the near future. The region of
+the Dawnforge mountains where her lair used to be is currently inhabited by the
+Emberdark kobold tribe, who have their own share of historical beefs with the
+Hammerfast dwarves. Their priests have begun receiving visions from Kurtulmak,
+one of Tiamat’s Exarchs, speaking of Calastryx’s imminent awakening. The kobolds
+have starting raiding nearby travelers and settlements with the aim of
+gathering a treasure trove they’ll use to bribe their future mistress into
+accepting their loyalty. You can already see some of their warriors wearing
+shoulder pads that mimic extra heads, in honor of Calastryx.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The star of the show here is clearly Calastryx, but we also get a stat block for
+an Emberdark-specific kobold that you can mix in with the standard kobold stat
+blocks.&lt;/p&gt;
+
+&lt;h3 id=&quot;emberdark-kobold-pillager&quot;&gt;Emberdark Kobold Pillager&lt;/h3&gt;
+
+&lt;p&gt;Apparently the Emberdark are pretty fond of fire, because this kobold here is
+something of a fire-themed paladin of Tiamat. It’s a Level 4 Soldier with 55 HP
+which, given the usual kobold level range, makes it one of their most powerful
+champions. It has Speed 6 and Darkvision.&lt;/p&gt;
+
+&lt;p&gt;The pillager fights with a &lt;strong&gt;Flamebiter Spear&lt;/strong&gt; that deals fire damage, marks
+for a turn, and makes it so targets that ignore the mark take 5 fire
+damage. They can also cast &lt;strong&gt;Fire Dart&lt;/strong&gt; spells that do fire damage and mark for
+a turn, though they don’t have a “punisher” rider attached to them.&lt;/p&gt;
+
+&lt;p&gt;When the pillager hits 0 HP, it goes out in a &lt;strong&gt;Blaze of Glory&lt;/strong&gt;, making one
+final spear attack as a free action.&lt;/p&gt;
+
+&lt;p&gt;I would probably turn the “take fire damage if you ignore the mark” rider from
+the spear into a trait that applies to both attacks, because things can get
+fiddly if you have to remember if a mark from the pillager has it or not.&lt;/p&gt;
+
+&lt;h3 id=&quot;calastryx&quot;&gt;Calastryx&lt;/h3&gt;
+
+&lt;p&gt;Our star is a Huge Natural Magical Beast (Dragon) and a Level 14 Solo Brute with
+684 HP. Level-wise she’s an adult red, but her actual stats differ quite heavily
+from the standard dragon template.&lt;/p&gt;
+
+&lt;p&gt;She still has the standard draconic &lt;strong&gt;Action Recovery&lt;/strong&gt; trait that ends any
+dazing, stunning or dominating effect on her at the end of her turn. The new bit
+here is that her &lt;strong&gt;Multiple Heads&lt;/strong&gt; give her &lt;em&gt;three&lt;/em&gt; turns per round, at fixed
+initiative counts of 30, 20, and 10. The only limitation here is that she cannot
+delay or ready actions (something monsters rarely do in my experience) and she
+only has one set of immediate actions between these turns.&lt;/p&gt;
+
+&lt;p&gt;Her Reach 3 &lt;strong&gt;bites&lt;/strong&gt; damage and slide 3 squares. Her &lt;strong&gt;Breath Weapon&lt;/strong&gt;
+(recharge 6+) does light fire damage, half on a miss, and creates a damaging
+fire zone for a turn. She can also fire single-target &lt;strong&gt;Inferno Shots&lt;/strong&gt; at will
+to deal heavy fire damage. Finally, &lt;strong&gt;Rip and Tear&lt;/strong&gt; is an encounter power that
+allows her to bite up to three targets for slightly less damage than the basic
+bite.&lt;/p&gt;
+
+&lt;p&gt;These actions seem a little weak, and they indeed are, fit more for a regular
+monster than a solo. But remember that Calastryx get three full turns per round
+to use them in. Each of her heads has a fully independent mind and they’re in
+perfect coordination. The &lt;strong&gt;Power of Three&lt;/strong&gt; means each of them tracks their
+Breath Weapon and Rip and Tear powers separately. So she actually gets three
+uses of Rip and Tear per encounter, and three independently recharging uses of
+her breath weapon.&lt;/p&gt;
+
+&lt;p&gt;Once she is first bloodied, Calastryx immediately grows a &lt;em&gt;fourth&lt;/em&gt; head, which
+from then on acts on initiative 40 with its own independently tracked breath
+weapon and encounter power.&lt;/p&gt;
+
+&lt;p&gt;Calastryx might be much more wrathful than your typical red dragon, but she’s
+still very smart. She will fight the PCs in places where she can herd them into
+tight spaces to ensure they’re all hit by her breath weapons and bites.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Calastryx shows us how far we can stretch the mechanics and still end up with
+something that feels like a dragon, and I love her for it. Story-wise she’s
+pretty much your standard slumbering kaiju. She could be an awesome final boss
+for a campaign that ends at level 10, or a memorable “welcoming gift” for PCs
+who just made it to paragon tier.&lt;/p&gt;
+
+&lt;p&gt;A lengthier campaign focusing on Calastryx could present the threat of her
+awakening early, and have its early conflicts be against the Emberdark
+kobolds. It might even be possible to reach a diplomatic resolution with them
+and get them onboard as allies against Calastryx when she finally awakens. I
+mean, your typical dragon already doesn’t have a great track record of treating
+its kobold lackeys very well, and Calastryx is even less inclined to do so no
+matter the size of the tribute they present her with.&lt;/p&gt;
+
+&lt;!--  LocalWords:  Starris
+ --&gt;
+</description>
+        <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Cadaver Collector</title>
@@ -1272,209 +1417,6 @@ muse strikes, as always.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/24/whats-next.html</guid>
         
         <category>meta</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read the 4e Monster Manual 3: Yuan-ti</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/mm3-4e&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;In a situation that’s familiar to us by now, Yuan-ti would get a revamp and a
-lore infusion in the upcoming Monster Vault (and you can see how that looks like
-&lt;a href=&quot;/octopus-carnival/2021/02/27/yuan-ti.html&quot;&gt;here&lt;/a&gt;), and this entry presents stat blocks that complement the ones that
-would come out in the MV.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The lore section of this page lacks the nifty creation myth from the MV entry,
-sticking to a more generic “perfidious infiltrators” profile for the yuan-ti. It
-does add a new bit, however: the snake god Zehir doesn’t just want to see his
-favorite people thrive in the world. His true goal is to become the supreme
-authority in the cosmos. Zehir is convinced that the universe can only withstand
-the return of the primordials if it’s led by the strong hand of a single
-absolute ruler.&lt;/p&gt;
-
-&lt;p&gt;So this means we have at least two authoritarian assholes in our current
-pantheon: Asmodeus and Zehir. Big Z’s goals are not widely known in the world -
-only his most powerful and trusted servants are privy to this mystery. There are
-other gods who are aware of this but they’re content to merely keep an eye on
-the snake god as long as his machinations continue to hurt their enemies. Things
-might get more heated should Zehir explicitly turn against his fellow deities.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Yuan-ti are Medium Natural Humanoids with the Reptile keyword. They have a
-ground speed of 7, and 5/tier poison resistance.&lt;/p&gt;
-
-&lt;p&gt;While the MM1 and Monster Vault gave us heroic and paragon stat blocks for
-snaketongue cultists and yuan-ti, the MM3 gives a bunch of high-epic stat blocks
-that apparently represent those individuals who are closest to Zehir and
-actively working towards his goal of complete world domination.&lt;/p&gt;
-
-&lt;p&gt;There’s plenty here for all sorts of all-yuan-ti encounters, but they also
-employ various sapient humanoid cultists, and make pets or allies of any
-creature who is even remotely similar to a snake.&lt;/p&gt;
-
-&lt;p&gt;The individual stat blocks are relatively simple, making me think PCs are
-supposed to face them in large numbers. It would certainly be possible to
-downscale them to lower levels without changing much else about their stat
-blocks.&lt;/p&gt;
-
-&lt;h3 id=&quot;coil-of-zehir&quot;&gt;Coil of Zehir&lt;/h3&gt;
-
-&lt;p&gt;A Large yuan-ti who’s almost completely snaky, its arms almost vestigial. It’s a
-Level 26 Controller with 235 HP.&lt;/p&gt;
-
-&lt;p&gt;The Coil’s basic attack is a Reach 3 &lt;strong&gt;Slam&lt;/strong&gt; that does light physical damage,
-pulls the target 2 squares, and grabs it on a hit. The Coil can only have one
-victim grabbed at a time, and it can hit them with &lt;strong&gt;Crushing Coils&lt;/strong&gt; for an
-automatic 40 damage that also dazes them for a turn. As a minor action, it can
-use a Close Burst 3 &lt;strong&gt;Tail Sweep&lt;/strong&gt; that does no damage and knocks targets prone.&lt;/p&gt;
-
-&lt;p&gt;The Coil wants to grab hold of someone and squeeze them to death, using tail
-sweeps to keep would-be rescuers away. Dazed victims can still try to get away
-(Athletics DC 38 or Acrobatics DC 39), but their other options are sharply
-limited.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-abomination-berserker&quot;&gt;Yuan-ti Abomination Berserker&lt;/h3&gt;
-
-&lt;p&gt;Abominations are those ‘snakier’ yuan-ti with humanoid torsos but the lower
-body of a giant snake. Another Large variant, Berserkers know how to fight and
-know they shouldn’t attack other yuan-ti or cultists. That’s about it. The
-others treat them nicely to avoid accidents, and then point them at whoever they
-want dead. Berserkers are Level 27 Brutes with 293 HP.&lt;/p&gt;
-
-&lt;p&gt;These creatures fight with Reach 2 &lt;strong&gt;Slams&lt;/strong&gt; that do heavy physical
-damage. Every so often they’ll spin and do a &lt;strong&gt;Roundhouse Slam&lt;/strong&gt; (recharge 4+),
-making a basic attack against every adjacent enemy. If you hit them while
-they’re bloodied, they can make a free slam against you as a reaction. Simple
-but effective.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-malison-guard&quot;&gt;Yuan-ti Malison Guard&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yuan-ti-guard.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Malisons are the more humanoid yuan-ti, still covered in scales and with snake
-heads, but otherwise humanoid. This is an elite front-line fighter who serves
-Zehir proudly despite the shame of having legs. It’s a Level 27 Soldier (Leader)
-with 242 HP. It knows how to fight in formation and its &lt;strong&gt;Overlapping Scales&lt;/strong&gt;
-aura (1) gives a +2 bonus to AC to all allies inside.&lt;/p&gt;
-
-&lt;p&gt;Guards fight with &lt;strong&gt;scimitars&lt;/strong&gt; and &lt;strong&gt;longbows&lt;/strong&gt;, both of which deal decent
-damage and inflict ongoing poison damage (save ends). The scimitar marks for a
-turn on a hit.&lt;/p&gt;
-
-&lt;p&gt;These creatures want to be in a tight formation with either other melee allies,
-or with an artillery detachment.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-abomination-spitter&quot;&gt;Yuan-ti Abomination Spitter&lt;/h3&gt;
-
-&lt;p&gt;An abomination with well-developed venom glands that produce a “blessed” venom
-far deadlier than that of a mundane snake. It’s Level 27 Artillery with 186
-HP. It can &lt;strong&gt;Spit Venom&lt;/strong&gt; out to Range 20, dealing immediate and ongoing poison
-damage on a hit. It can also &lt;strong&gt;Spray Venom&lt;/strong&gt; (recharge 4+) on a close burst 5,
-dealing poison damage and dazing (save ends). If someone closes to melee, it can
-&lt;strong&gt;bite&lt;/strong&gt; to deal physical damage and inflict ongoing poison damage.&lt;/p&gt;
-
-&lt;p&gt;If an attack hits the spitter, it can flare its &lt;strong&gt;Cobra Hood&lt;/strong&gt; as a reaction to
-gain +4 to AC for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-malison-blessed&quot;&gt;Yuan-ti Malison Blessed&lt;/h3&gt;
-
-&lt;p&gt;An epic priest of Zehir, receiving blessings directly from the deity. It’s a
-Level 28 Controller (Leader) with 250 HP.&lt;/p&gt;
-
-&lt;p&gt;Most of the blessed’s controllery effects are passive and always on. It projects
-an aura (3) of &lt;strong&gt;Zehir’s Favor&lt;/strong&gt; that allows allies inside to reroll failed
-recharge rolls. It also projects an aura (5) of &lt;strong&gt;Zehir’s Agony&lt;/strong&gt; that deals 15
-poison damage to any enemy starting their turn inside. While bloodied, the
-blessed can &lt;strong&gt;Slither Away&lt;/strong&gt;, gaining a +2 bonus to speed and a +5 to all
-defenses.&lt;/p&gt;
-
-&lt;p&gt;The blessed’s active actions are few, but powerful. It fights with a
-&lt;strong&gt;scimitar&lt;/strong&gt; whose strikes damage, strip poison resistance, and inflict a -2
-penalty to saves vs. poison effects (save ends both). And yes, about 90% of all
-attacks described in this MM3 entry are poison effects. Including this one.&lt;/p&gt;
-
-&lt;p&gt;The blessed can also use &lt;strong&gt;Zehir’s Command&lt;/strong&gt; as a minor action, allowing two
-allies within 5 squares to either make a basic attack or shift their speed as a
-free action. If an enemy within 5 squares shifts, the blessed can use &lt;strong&gt;Shifting
-Feet&lt;/strong&gt; as a reaction to slide them 2 squares.&lt;/p&gt;
-
-&lt;p&gt;While these creatures are technically regulars, they have the action efficiency
-you’d expect from an elite.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-malison-assassin&quot;&gt;Yuan-ti Malison Assassin&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-mm3-4e-yuan-ti-assassin.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This one has a sword and it very much wants to stab you with it so you can
-sample the many substances it put on the blade. It’s sent after people who anger
-Zehir directly. It’s a Level 28 Lurker with 194 HP.&lt;/p&gt;
-
-&lt;p&gt;The assassin’s basic &lt;strong&gt;Longsword&lt;/strong&gt; deals very light damage and blinds for a turn
-on a hit. A victim who cannot see the assassin for any reason is subject to a
-&lt;strong&gt;Death Strike&lt;/strong&gt; that deals standard physical damage, inflicts ongoing 15 poison
-damage, and imposes a -2 penalty to saves (save ends both). After the first
-failed save, the damage worsens by 5 and the save penalty by 1. Someone also
-targetted by the Blessed could be looking at a total -5 save penalty here!&lt;/p&gt;
-
-&lt;p&gt;If a ranged or melee attack hits the assassin it can use &lt;strong&gt;Shield of Zehir&lt;/strong&gt; to
-make sure a blind victim adjacent to it also suffers the attack’s damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;yuan-ti-malison-stalker&quot;&gt;Yuan-ti Malison Stalker&lt;/h3&gt;
-
-&lt;p&gt;A relentless pursuer sent after victims who steal from Zehir’s temples or commit
-other crimes against the yuan-ti people. They’re Level 28 Skirmishers wtih 254
-HP. They’re more or less equivalen to PC avengers.&lt;/p&gt;
-
-&lt;p&gt;Stalkers use &lt;strong&gt;greataxes&lt;/strong&gt; and have 5e advantage on their attacks if the target
-is the only creature adjacent to them. They can also teleport 3 squares as a
-minor action, which means they can move up to 13 squares a turn without spending
-their standard action, and they can charge someone from 20 squares away. It’s
-impossible to outrun a stalker.&lt;/p&gt;
-
-&lt;h3 id=&quot;molt-of-zehir&quot;&gt;Molt of Zehir&lt;/h3&gt;
-
-&lt;p&gt;Literally a person-shaped bag of snakes, made from the cast-off skin of a
-yuan-ti. This apparently &lt;em&gt;just happens&lt;/em&gt; when an epic yuan-ti molts, it’s not a
-conscious ritual or anything. The snakes just appear from somewhere and crawl
-inside the skin.&lt;/p&gt;
-
-&lt;p&gt;Molts are Level 26 Minion Skirmishers. They have a basic &lt;strong&gt;bite&lt;/strong&gt; attack and
-when they die the dispersing &lt;strong&gt;Horde of Snakes&lt;/strong&gt; acts as a Close Burst 1 attack
-that damages and inflicts ongoing poison damage (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m not overly fond of classic yuan-ti lore these days, because it has too
-strong a whiff of “yellow peril” about it. I’d probably come up with something
-different for them if I had to.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, these creatures are kind of interesting, though each one is very
-simple. Mechanically, I think you can knock 10 or even 20 levels off them if you
-don’t want your PCs to wait until the campaign’s endgame to fight the snek
-people.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/23/yuan-ti.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/23/yuan-ti.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
