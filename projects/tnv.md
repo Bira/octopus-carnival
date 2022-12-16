@@ -29,6 +29,7 @@ As more monsters are added, they will be linked below.
 - C
   - [Cadaver Collector][8]
   - [Calastryx][9]
+  - [Clan Bloodspear][10]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -40,3 +41,4 @@ As more monsters are added, they will be linked below.
 [7]: {{ "/2022/12/09/boggle.html" | relative_url }}
 [8]: {{ "/2022/12/11/cadaver-collector.html" | relative_url }}
 [9]: {{ "/2022/12/13/calastryx.html" | relative_url }}
+[10]: {{ "/2022/12/16/clan-bloodspear.html" | relative_url }}
