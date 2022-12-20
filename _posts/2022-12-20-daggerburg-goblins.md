@@ -33,12 +33,12 @@ Delderosh.
 The band also includes a number of remarkable individuals beyond Delderosh
 himself. There's Kabo Bomble, a massive bruiser nearly twice the size of a
 typical goblin; and there are the Mistmane Bugbears, a cult who trains in a
-particular fighting style combining unarmed combat and necromantic magic.
+fighting style that combines unarmed combat and necromantic magic.
 
 Delderosh really hates enemy spellcasters and likes collecting their eyeballs as
 trophies. He likes spellcasters just fine when they're working for him, though,
 which is why he's allied to the necromancer Gokof (from the Cadaver Collector
-entry).
+entry) and has several war mages on his payroll.
 
 The Daggerburg goblins have become more daring of late, and have been pushing
 deeper into the Harkenwold region north of the Harken forest, even going so far
@@ -58,8 +58,7 @@ initiative.
 
 **Daggerburg Tactics** replaces the generic Goblin Tactics trait. When a
 creature with this is missed by a melee attack, the attacker grants combat
-advantage to them in this next turn. Daggerburg goblins are more aggressive than
-usual.
+advantage to them in this next turn.
 
 ### Battle Worg
 
@@ -261,5 +260,10 @@ goblin brigands, but they're a very nice worked example of the trope, with
 several memorable named NPCs. They also show us how to stretch classic
 goblinoids into a threat that can keep PCs occupied for the whole of the heroic
 tier.
+
+The band might get involved in factional conflicts with the Iron Circle, a
+foreign mercenary army that has been moving into Harkenwold. And the druids of
+Harken's Heart would be among the groups they avoid. Both of these get their own
+entries later on.
 
 [1]: {{ "/projects/tnv" | relative_url }}
