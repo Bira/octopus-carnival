@@ -6,9 +6,148 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Dec 2022 23:28:37 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Dec 2022 23:28:37 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Dec 2022 13:42:45 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Dec 2022 13:42:45 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Dark Drake of the Moon Hills</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-dark-drake.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Another original monster!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The largest human settlement in the Vale in our narrative present is the city of
+Fallcrest, which is more or less exactly in its center and connected by roads to
+the other major towns. It’s a big point of light, but the darkness starts just
+beyond it. Those roads are dangerous, and even the areas just outside the city’s
+walls contain their own threats.&lt;/p&gt;
+
+&lt;p&gt;Take the Moon Hills, for example, which are just to the south of the city. On
+the blackest of nights, a fearsome beast is said to roam the hills and moors of
+that region, hunting the unwary. No one has ever seen the Dark Drake and lived
+to tell the tale - its existence is only known by the gruesome remains it leaves
+behind.&lt;/p&gt;
+
+&lt;p&gt;The Dark Drake is in some ways Fallcrest’s pet monster, as it features in many
+stories told in taverns or to children. These tales attribute all sorts of weird
+abilities to it, and also talk about its extensive brood. These “lesser” drakes
+&lt;em&gt;have&lt;/em&gt; been frequently spotted in the area, and they’re also clearly more
+dangerous and malignant than simple natural animals, but the Dark Drake itself
+has remained elusive for decades, evading even experienced monster
+hunters. Serious scholars dismiss it as just a myth. It doesn’t help that
+opportunists from Fallcrest sometimes stage hoaxes to make a buck or cover up a
+more mundane murder. Nevertheless, these smaller drakes and hoaxes can’t explain
+&lt;em&gt;all&lt;/em&gt; the bodies found on the Moon Hills.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The entries below assume that the Drake does indeed exist, and that it has some
+connection to its “brood”. You are likely to find them together. They’re all
+Natural Beasts with the Reptile keyword. As a reminder, “Natural” only means
+it’s native to the middle world, and “Beast” means it looks and behaves like an
+animal. We’re still dealing with a weird mystical creature here.&lt;/p&gt;
+
+&lt;h3 id=&quot;dark-drake-of-the-moon-hills&quot;&gt;Dark Drake of the Moon Hills&lt;/h3&gt;
+
+&lt;p&gt;The Drake itself is Large, and a Level 8 Elite Lurker with 148 HP. That’s a hell
+of a thing to meet just outside the Vale’s premier “starting town”. It has
+Darkvision and a speed of 6. Its basic &lt;strong&gt;Bite&lt;/strong&gt; is quite strong for a lurker,
+and it can use &lt;strong&gt;Double Attack&lt;/strong&gt; to bite twice in an action. Instead of biting,
+it can use the &lt;strong&gt;Ghost Drake&lt;/strong&gt; ability to gain insubstantial and phasing for a
+turn, move its speed, and then become invisible until the end of the encounter
+or until after it makes an attack.&lt;/p&gt;
+
+&lt;p&gt;Being invisible allows the Dark Drake to use its &lt;strong&gt;Unseen Killer&lt;/strong&gt; power, a
+melee attack that targets Will and does heavy psychic damage - about double that
+of a bite. It can also use its &lt;strong&gt;Terrible Aspect&lt;/strong&gt; as a weapon, a minor-action
+melee attack against Will that pushes the target 1 square and immobilizes them
+for a turn. This recharges whenever the drake hits with any of its other
+attacks.&lt;/p&gt;
+
+&lt;p&gt;The Dark Drake can sustain the same damage output whether it decides to stand
+and fight or to employ the more lurkerish tactic of alternating Ghost Drake and
+Unseen Killer. The latter is still a bit better since as a lurker its defenses
+and HP are a bit low for its level.&lt;/p&gt;
+
+&lt;h3 id=&quot;hellghost-dark-drake&quot;&gt;Hellghost Dark Drake&lt;/h3&gt;
+
+&lt;p&gt;One of the two “dark brood” stat blocks we get in this entry. Hellghosts are
+Large Natural Beasts and Level 6 Brutes with 85 HP. It has Darkvision, a Speed
+of 8, and Fire Resistance 5. It projects an aura of &lt;strong&gt;Ghostfire Radiance&lt;/strong&gt; (1)
+that makes creatures inside Vulnerable 5 to fire. I wonder how that interacts
+with a tiefling’s natural resistance.&lt;/p&gt;
+
+&lt;p&gt;The creature uses a &lt;strong&gt;Fiery Bite&lt;/strong&gt; as its basic attack, which deals heavy fire
+damage even before you account for the aura. Once per encounter it can use
+&lt;strong&gt;Ghostfire Rampage&lt;/strong&gt;, which is a standard “trample” ability: the drake moves
+its speed and can cross enemy spaces. Every time it does so, it makes an attack
+against that enemy. On a hit, it deals fire damage, knocks prone, and inflicts
+ongoing 5 fire damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;Also once per encounter, when the drake is immobilized, restrained, or stunned,
+it can use &lt;strong&gt;Pulsing Ghostfire&lt;/strong&gt; to attack a Close Burst 2. On a hit it deals
+fire damage and knocks the target prone, on a miss it still deals half damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;adderbrood-dark-drake&quot;&gt;Adderbrood Dark Drake&lt;/h3&gt;
+
+&lt;p&gt;This one is highly venomous. It’s a Medium Natural Beast, and a Level 7
+Skirmisher with 79 HP. Its &lt;strong&gt;bite&lt;/strong&gt; deals poison damage and slows for a turn.
+It can attack these slowed targets with a &lt;strong&gt;Venomous Strike&lt;/strong&gt; that deals the
+same amount of poison damage and inflicts ongoing poison damage (save
+ends). After the first failed save, the victim also becomes immobilized. A
+successful save clears both this and the ongoing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Adder’s Mobility&lt;/strong&gt; ensures that enemies slowed or immobilized by the drake
+cannot make opportunity attacks against it, and that the drake can enter their
+spaces. So it can, say, bite a defender and move through them to reach the
+squishies.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;The Drake’s lore sounds a bit commonplace at first, and its stats while
+mechanically interesting are far from the most powerful thing we’ll see even in
+this book… but the full impact of it all hits when you look at a map of the
+Nentir Vale.&lt;/p&gt;
+
+&lt;p&gt;If you’re starting a campaign in the Nentir Vale, there’s a very high chance
+that Fallcrest will be your PC’s starting home base. It’s big enough to offer
+all the standard services, and it’s centrally located so they have plenty of
+choice of where to adventure. The only reason not to start here is if the GM has
+a more specific campaign or module in mind.&lt;/p&gt;
+
+&lt;p&gt;And the Moon Hills are right beside it, to the south. The road connecting
+Fallcrest and the Harkenwold goes through them! If you still hold any notion of
+D&amp;amp;D being “like a MMO” that demands every fight be “fair” after reading this
+far, this is where you drop them. A MMO would surround the starting town with
+low-level trash enemies you can grind for levels. This book puts a level 8 elite
+newbie-killer where those would be.&lt;/p&gt;
+
+&lt;p&gt;If deployed by a cruel GM against Level 1-2 players, the Drake is a terrifying
+threat they must escape from. It can kill a PC in one round of attacks no matter
+which approach it chooses. Against a party of experienced monster hunters who
+are closer to it in level, you’ll want to deploy the Drake alongside some of its
+brood to make a proper boss fight.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/22/dark-drake.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/22/dark-drake.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Daggerburg Goblins</title>
@@ -1639,180 +1778,6 @@ will definitely set up traps and ambushes when attacking intruders.&lt;/p&gt;
         <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/11/29/barrowhaunts.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/29/barrowhaunts.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Abyssal Plague Demon</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-abyssal-plague-demons-01.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;I made a big deal about how there were few “newer and weirder” monsters in this
-book, and now it turns out that the very first entry is one of those. Abyssal
-Plague Demons are a monster new to 4e.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Despite devoting a lot of text to the lore for abyssal plague demons, the entry
-is irritatingly vague. That’s because these monsters are actually the main
-featured threats of a series of novels published between 2010 and 2012. MV:TNV
-was published in 2011, right in the middle of the event.&lt;/p&gt;
-
-&lt;p&gt;The Abyssal Plague novels were planned as a big multimedia, multi-world metaplot
-event. The novels would take place across multiple published settings, with the
-main action taking place in the implied one, and side stories taking place in
-Dark Sun and the Forgotten Realms.&lt;/p&gt;
-
-&lt;p&gt;The entry here is very vague and avoids naming names, probably out of a fear of
-spoiling the event’s plot. There’s a demon lord who escaped into our universe
-from another one he destroyed. He was stopped by “the heroes of the age” and
-imprisoned, but recently one of his exarchs managed to escape and it “found a
-vessel in the world”. This entity is responsible for spreading the Abyssal
-Plague, a disease that covers its victim’s bodies in growths of alien crystal
-and either kills them or transforms them into Abyssal Plague Demons.&lt;/p&gt;
-
-&lt;p&gt;With a decade of hindsight, I can give you those spoilers: the “demon lord” is
-actually Tharizdun and the thing that came from a another universe that was
-destroyed by demons is the Shard of Evil that he used to make the Abyss. In the
-novels, one of his worshipers manages to pierce the walls of Tharizdun’s prison
-with a shard of the Living Gate (an entity described in the &lt;a href=&quot;/octopus-carnival/2022/10/15/shardmind.html&quot;&gt;Shardmind&lt;/a&gt; post
-for the MM3), freeing one of his exarchs. This exarch is an entity known as the
-Voidharrow and it is the thing responsible for spreading the Abyssal Plague.&lt;/p&gt;
-
-&lt;p&gt;The entry presents the Plague as a rising threat that only recently began to
-spread, but doesn’t make an effort to connect it to other plot hooks in MV:TNV
-or to the wider cosmic stuff at its root. I guess you’re supposed to read the
-novels to find out about that.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-abyssal-plague-demons-02.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Abyssal Plague Demons are creatures mutated by the plague. Some used to be
-animals, some used to be humanoids. Aside from a general “demonic” look, they
-have a common aesthetic element: red crystal, flecked with gold and silver. This
-is present as either visible veins of liquid crystal, or as solid plates of the
-stuff that might act as armor or weaponry.&lt;/p&gt;
-
-&lt;p&gt;Stat-wise, they’re demons: Elemental Beasts or Elemental Humanoids with the
-Demon keyword, Darkvision and Variable Resistance (5, switchable twice per
-encounter). All of them are also carriers of the Abyssal Plague, which they can
-spread via bites or via their natural crystal weaponry. They’re all mid-Heroic
-tier, making them appropriate for encounters in the middle world as your home
-grounds start to suffer from the Plague.&lt;/p&gt;
-
-&lt;p&gt;The Abyssal Plague is a Level 8 Disease that follows the standard rules for
-this. At the end of any fight where you’re exposed to it, you make a saving
-throw. If you fail, you contract the disease at Stage 1. At the end of every
-extended rest, you make an Endurance test. If you beat the disease’s Maintain DC
-of 12, you stay as you are. If you beat its Improve DC of 16 your stage
-decreases by 1 (Stage 0 means you’re cured). If you beat neither you progress to
-the next stage. Effects from each stage are cumulative. If you reach Stage 3,
-natural recovery is no longer possible and only a Remove Affliction ritual might
-save you.&lt;/p&gt;
-
-&lt;p&gt;Stage 1 is usually just a nuisance. In this case, 10% of your body is covered in
-alien growths and you lose a healing surge. Stage 2 is a major hindrance: here,
-it means a -2 to AC, Fortitude and Reflex plus a permanent Slowed condition as
-50% of your body is taken over by growths.&lt;/p&gt;
-
-&lt;p&gt;Stage 3 is often incapacitating or fatal. Unlike most other diseases, Abyssal
-Plague still makes you roll Endurance daily when you’re here, but the roll is
-not for recovery. If your total roll fails to beat a DC of 12, you die. If you
-roll between 12 and 23, you live another day in incredible pain. If you roll a
-24 or more, you turn into an Abyssal Plague Demon. So yeah, this plague kills
-the weak and turns the strong into demons. You need to apply Remove Affliction
-before either happens.&lt;/p&gt;
-
-&lt;p&gt;Thankfully, multiple exposures during a fight still mean you only roll the save
-once, and if you’ve already contracted the disease further exposures do nothing
-to worsen your condition. So if your PC is tough and your party is on a
-tight time-table, you can gamble that you’ll be able to recover naturally from
-Stage 1. Remove Affliction is a big resource drain if you don’t have time for a
-long rest.&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-hound&quot;&gt;Plague Demon Chaos Hound&lt;/h3&gt;
-
-&lt;p&gt;A Medium Beast demon, this quadruped is a Level 5 Minion Skirmisher with Speed 8
-and darkvision. Its &lt;strong&gt;Pack Attack&lt;/strong&gt; trait gives it a small damage boost for each
-other plague demon that’s adjacent to their target.&lt;/p&gt;
-
-&lt;p&gt;Their sole attack is a &lt;strong&gt;bite&lt;/strong&gt; that allows them to shift 1 square on a hit and
-exposes the target to Abyssal Plague. As a minion, it lacks Variable Resistance.&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-footsoldier&quot;&gt;Plague Demon Chaos Footsoldier&lt;/h3&gt;
-
-&lt;p&gt;A Medium Humanoid with Speed 6. It’s a Level 5 Minion Soldier without Variable
-Resistance. Its basic attack is a &lt;strong&gt;Grabbing Claw&lt;/strong&gt; that does light damage and
-grabs on a hit. Once it has a grabbed victim, the footsoldier can &lt;strong&gt;bite&lt;/strong&gt; for a
-bit more damage and exposure to the Plague.&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-beast&quot;&gt;Plague Demon Chaos Beast&lt;/h3&gt;
-
-&lt;p&gt;The non-minion version of the Chaos Hound is a Level 6 Skirmisher with Speed 8
-and 76 HP. Its &lt;strong&gt;Chaotic Growl&lt;/strong&gt; acts as an aura (1) that inflicts a -2 attack
-penalty to enemies inside. Its basic &lt;strong&gt;bite&lt;/strong&gt; damages and exposes to the Plague,
-while its &lt;strong&gt;Claws&lt;/strong&gt; allow it to shift 1 square on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-bender&quot;&gt;Plague Demon Chaos Bender&lt;/h3&gt;
-
-&lt;p&gt;A Large Beast demon, this Level 6 Controller has 72 HP and some reality-warping
-powers. It projects a &lt;strong&gt;Chaotic Field&lt;/strong&gt; as an aura (2) that allows the demon to
-shift 2 squares if any enemy ends their turn inside. Its basic attack is a
-plague-infected &lt;strong&gt;bite&lt;/strong&gt;, and it can also use a &lt;strong&gt;Flurry of Claws&lt;/strong&gt; that attacks
-a Close Burst 1, slows, and inflicts ongoing physical damage (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-knight&quot;&gt;Plague Demon Chaos Knight&lt;/h3&gt;
-
-&lt;p&gt;This sapient Medium Humanoid is a Level 6 Soldier with 78 HP. It projects an
-aura of &lt;strong&gt;Crimson Retribution&lt;/strong&gt; (1) that automatically deals 5 damage to anyone
-inside who makes an attack that doesn’t target the chaos knight. Its &lt;strong&gt;slams&lt;/strong&gt;
-damage and knock prone on a hit, and its extruded &lt;strong&gt;Crystal Blade&lt;/strong&gt; (recharge
-4+) deals heavy damage and exposes to the Plague. Since it’s a recharge power,
-I’m guessing the blade shatters when used as a weapon.&lt;/p&gt;
-
-&lt;h3 id=&quot;plague-demon-chaos-vanguard&quot;&gt;Plague Demon Chaos Vanguard&lt;/h3&gt;
-
-&lt;p&gt;This sapient Large Humanoid is a Level 9 Soldier with speed 6 and 100 HP. It’s a
-powered-up version of the Knight, with nearly identical traits. Its aura is
-wider and deals 10 damage instead of 5; its &lt;strong&gt;slam&lt;/strong&gt; pushes 2 squares instead of
-knocking prone; and its &lt;strong&gt;Sweeping Crystal Blade&lt;/strong&gt; (recharge 4+) is a Close
-Burst 3 attack instead of a single-target melee power.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Would you believe that I even forgot these things were here? The combination of
-epic-sounding but vague lore and mid-Heroic mechanics smells very metaplotty to
-me, particularly after I learned about these novels. This is the outer edge of
-the plot and you’re not allowed to dig deeper, that’s what the novel heroes
-do. I don’t know if they ever released a book that allowed the PCs to be more
-central in eliminating the Plague.&lt;/p&gt;
-
-&lt;p&gt;The mechanics are functional, but pretty simplistic since the demons’ main
-gimmick is being carriers for the Abyssal Plague. There’s tons of more
-interesting opposition in MV:TNV. So, overall, my inclination is to give these
-monsters a pass. The next entries are better, I promise!&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/27/abyssal-plague-demon.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/27/abyssal-plague-demon.html</guid>
         
         <category>dnd4</category>
         
