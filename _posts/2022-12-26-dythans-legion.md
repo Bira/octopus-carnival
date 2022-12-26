@@ -107,7 +107,7 @@ These are battlefield archers, so they're trained to put a lot of arrows into a
 group of clustered targets. They're Level 10 Artillery with 84 HP. The **short
 sword** and **Longbow** basic attacks are solid, with the latter being the
 better option. They can also fire an **Arrow Volley** (recharge 4+) that targets
-enemies in an Area Burst 10 within 20 squares and does light physical damage to
+enemies in an Area Burst 1 within 20 squares and does light physical damage to
 each one it hits.
 
 Their **dragon breath** deals cold damage and also pushes 1 square on a hit,
@@ -204,9 +204,9 @@ stretches the format in an attempt to model all they can do, starting with a
 trio of very interesting traits:
 
 **All-Around Vision** means they don't grant combat advantage when flanked;
-**Juggernaut** means it ignores difficult terrain and doesn't provoke opportunity
-attacks, but it also can't squeeze, make OAs, or grab creatures. **Living
-Building** has a list of effects as long as my arm:
+**Juggernaut** means it ignores difficult terrain and doesn't provoke
+opportunity attacks, but it also can't squeeze, make OAs, or grab
+creatures. **Living Building** has a list of effects as long as my arm:
 
 - The tower can occupy other creature's spaces, and other creatures can end
   their movement in its spaces. That's rules-talk for "it can fit people inside

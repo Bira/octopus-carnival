@@ -34,6 +34,8 @@ As more monsters are added, they will be linked below.
 - D
   - [Daggerburg Goblins][11]
   - [Dark Drake of the Moon Hills][12]
+  - [Dythan's Legion][13]
+
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -48,3 +50,4 @@ As more monsters are added, they will be linked below.
 [10]: {{ "/2022/12/16/clan-bloodspear.html" | relative_url }}
 [11]: {{ "/2022/12/20/daggerburg-goblins.html" | relative_url }}
 [12]: {{ "/2022/12/22/dark-drake.html" | relative_url }}
+[13]: {{ "/2022/12/26/dythans-legion.html" | relative_url }}
