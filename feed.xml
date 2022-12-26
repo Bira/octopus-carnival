@@ -6,9 +6,302 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Dec 2022 13:42:45 +0000</pubDate>
-    <lastBuildDate>Fri, 23 Dec 2022 13:42:45 +0000</lastBuildDate>
+    <pubDate>Mon, 26 Dec 2022 23:17:20 +0000</pubDate>
+    <lastBuildDate>Mon, 26 Dec 2022 23:17:20 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Dythan's Legion</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-dythans-legion.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This is another setting-specific group.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Dythan’s Legion is a large all-dragonborn military organization. As the name
+implies, their leader is Legatus Dythan, an ambitious and charismatic leader who
+dreams of seeing Arkhosia restored to its ancient glory, presumably with him at
+the top.&lt;/p&gt;
+
+&lt;p&gt;The Legion uses the same ranks and organization as the ancient armies of
+Arkhosia, and numbers about 500 members in total, usually operating in platoons
+of 20 to 24 people. These are supported by war-trained drakes and behemoths, and
+sometimes even by salvaged Arkhosian battle constructs.&lt;/p&gt;
+
+&lt;p&gt;Upon admission into the Legion, every member is branded with a symbol that used
+to be a Turathi slave marking. Dythan’s ancestors in the Drakerider clan used to
+live in the border between Arkhosia and Bael Turath, and were taken captive in a
+Turathi raid. After they were freed or escaped their enslavement, they took the
+mark for their own as a reminder of what Arkhosia was fighting against, and
+passed it onto their descendants. Dythan himself bears such a mark, and makes
+sure his soldiers remember as he does.&lt;/p&gt;
+
+&lt;p&gt;Though the Legion usually operates far south of the Vale, a contingent of them
+arrived here recently looking for ruins of Arkhosian outposts that are said to
+have been here back in the old days. One of them, Rolaz-Gaar, is somewhere along
+the shores of Lake Nen (in the NE corner of the Vale). Another might be
+somewhere beneath the Ogrefist Hills near the Vale’s western border. The Legion
+detachments concentrate in these two locations.&lt;/p&gt;
+
+&lt;p&gt;Despite being fairly small when compared to those ancient imperial armies, the
+Legion is still a large force by the standards of our narrative present, and its
+members are well-trained and well-equipped professionals. They’re not interested
+in conquering the Vale, but they’re unlikely to be very nice to anyone who
+stands in the way of their search. It’s unclear from the text whether Dythan
+himself is in the Vale at the moment. If the GM judges the ruins contain
+something really important, then he’s likely to be here overseeing the searches
+personally. If he’s not, a sufficient challenge to the Legion’s operations in
+the area might result in him appearing with reinforcements.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The actual people who make up the legion are all dragonborn, and their elite
+training places them as early Paragon threats. We also get stats for their
+salvaged Arkhosian siege towers, and for the Liondrakes they use as mounts. They
+use other drakes and behemoths in various roles, but those use the base
+stats for these creatures, perhaps leveled-up to match their handlers.&lt;/p&gt;
+
+&lt;p&gt;As dragonborn, all members of Dythan’s Legion can use &lt;strong&gt;Dragon Breath&lt;/strong&gt;, which
+like the PC version is an encounter power that lets them breathe energy in a
+Close Burst 3 vs. Reflex. The damage type varies per stat block, and can be
+changed to match specific individuals. They also have Speed 6, and the
+non-minions have the PC trait that gives them +1 to hit while bloodied.&lt;/p&gt;
+
+&lt;p&gt;Alignment-wise, every dragonborn here including Dythan has the Evil alignment,
+which paints us an interesting picture combined with the slave marking story in
+the Lore section. You could perhaps see them as greedy and ruthless imperialists
+who are nevertheless vehemently against slavery in all its forms. It would also
+be relatively easy to say they focus on the less-bad parts of Arkhosia’s past
+and make them Unaligned. Making them actively heroic is more of a stretch, I
+feel, and would require bigger changes to their background.&lt;/p&gt;
+
+&lt;p&gt;Like we did with the Daggerburg goblins, we’ll look at them in order of
+increasing level.&lt;/p&gt;
+
+&lt;h3 id=&quot;dythans-legion-warrior&quot;&gt;Dythan’s Legion Warrior&lt;/h3&gt;
+
+&lt;p&gt;The rank and file of the Legion is made up of these veteran soldiers. They’re
+Level 10 Minion Skirmishers wearing leather armor and carrying heavy
+shields. They fight with spears in melee, and can throw javelins at range.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait gives them an extra +1 AC per adjacent ally,
+up to a maximum of +4. This would be a big no-no on a regular monster (remember
+MM1 hobgoblins?) but it’s OK to have on a minion since you only need to hit them
+once.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Spear&lt;/strong&gt; Attack deals a bit of extra damage when they have combat
+advantage, and allows the warrior to shift 1 square before or after the
+attack. The &lt;strong&gt;Javelin&lt;/strong&gt; is a standard ranged attack. Their breath is lightning.&lt;/p&gt;
+
+&lt;p&gt;PCs are unlikely to meet legionnaires in numbers smaller than a platoon, and
+this stat block helps fill out those numbers without making the encounter
+impossible. They can be easily made into regulars if you need more powerful
+infantry for an encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;dythans-legion-archer&quot;&gt;Dythan’s Legion Archer&lt;/h3&gt;
+
+&lt;p&gt;These are battlefield archers, so they’re trained to put a lot of arrows into a
+group of clustered targets. They’re Level 10 Artillery with 84 HP. The &lt;strong&gt;short
+sword&lt;/strong&gt; and &lt;strong&gt;Longbow&lt;/strong&gt; basic attacks are solid, with the latter being the
+better option. They can also fire an &lt;strong&gt;Arrow Volley&lt;/strong&gt; (recharge 4+) that targets
+enemies in an Area Burst 1 within 20 squares and does light physical damage to
+each one it hits.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;dragon breath&lt;/strong&gt; deals cold damage and also pushes 1 square on a hit,
+making it a good “keep-away” emergency power.&lt;/p&gt;
+
+&lt;h3 id=&quot;dythans-legion-vanguard&quot;&gt;Dythan’s Legion Vanguard&lt;/h3&gt;
+
+&lt;p&gt;Vanguards march into battle at the front of the Legion’s infantry formations,
+engaging the enemy directly to give space for the mobile Warriors to flank
+them. They’re Level 11 Soldiers with 111 HP, wear plate, and carry swords and
+heavy shields.&lt;/p&gt;
+
+&lt;p&gt;They have the same &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait as the Warriors, which means they
+punch above far above their weight as far as AC is concerned. If you can’t
+isolate them from their allies, hit them in the non-armor defenses!&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;Longsword&lt;/strong&gt; attack marks for a turn on a hit, and they can use
+minor actions to &lt;strong&gt;shield bash&lt;/strong&gt; marked targets. This does no damage, but dazes
+for a turn. &lt;strong&gt;Vanguard’s Mark&lt;/strong&gt; (recharge when first bloodied) allows them to
+mark a target that’s up to 5 squares away with a minor action. If the marked
+target doesn’t end their next turn adjacent to the vanguard, the vanguard can
+charge it as a free action that doesn’t provoke opportunity attacks. This makes
+the power an excellent way to hit the PC’s squishies.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; does poison damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;dythans-legion-dragoon&quot;&gt;Dythan’s Legion Dragoon&lt;/h3&gt;
+
+&lt;p&gt;Real-world dragoons were so named because they were cavalry that carried
+firearms (so their weapons “spat fire”). The dragoons of Dythan’s Legion got
+this name from the fact that they ride the next best thing to an actual dragon.&lt;/p&gt;
+
+&lt;p&gt;Dragoons are Level 12 Controllers with the Leader keyword and 119 HP. They wear
+leather like the infantry, and carry &lt;strong&gt;lances&lt;/strong&gt; into combat. Most of their
+abilities are related to mounted combat. The &lt;strong&gt;Masterful Rider&lt;/strong&gt; trait negates 1
+square of all forced movement imposed upon them if they’re mounted; the
+&lt;strong&gt;Incensed Mount&lt;/strong&gt; reaction allows their mount to make a free basic attack
+against an enemy who damages the rider; and even their basic lance attack knocks
+prone on a hit if the dragoon is mounted.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Battlefield Mastery&lt;/strong&gt; power (recharge 4+) is a minor action that allows
+every ally in a Close Burst 2 to shift 1 square. And yeah, the mount is an
+ally. Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; does acid damage.&lt;/p&gt;
+
+&lt;p&gt;Dragoons are quite dangerous when mounted! Canny PCs will seek to knock them
+down and prevent them from remounting again.&lt;/p&gt;
+
+&lt;h3 id=&quot;liondrake&quot;&gt;Liondrake&lt;/h3&gt;
+
+&lt;p&gt;Captured young in the distant deserts of the south, these Large Natural Beasts
+are the mount of choice for Dythan’s Dragoons. They look a lot like dragons, and
+have many of the same attacks, but are not sapient and lack breath weapons. The
+specimen statted up here has been trained as a war mount and is a Level 12
+Skirmisher with 122 HP. It has a ground speed of 7, a fly speed of 10, and
+Darkvision.&lt;/p&gt;
+
+&lt;p&gt;The drake’s &lt;strong&gt;Fierce Mount&lt;/strong&gt; trait gives both it and its rider a +4 bonus to
+defenses against opportunity attacks. It has both a &lt;strong&gt;bite&lt;/strong&gt; and a &lt;strong&gt;claw&lt;/strong&gt; as
+basic attacks, and can perform &lt;strong&gt;Battle Leaps&lt;/strong&gt; that allow it to shift up to 4
+squares and then either bite once or claw twice. It has a &lt;strong&gt;Terrifying Roar&lt;/strong&gt;
+encounter power that is kinda like dragon breath, targeting a Close Blast 5,
+doing thunder damage, and dazing (save ends).&lt;/p&gt;
+
+&lt;p&gt;Liondrakes are dangerous even on their own, but they synergize very well with
+Dragoons. They also make great mounts for other kinds of paragon-tier “rider”
+opponents.&lt;/p&gt;
+
+&lt;h3 id=&quot;arkhosian-siege-tower&quot;&gt;Arkhosian Siege Tower&lt;/h3&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-dythans-legion-tower.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These are ancient constructs built by Arkhosia and salvaged by the Legion. They
+were either brought to the vale from the South, or salvaged from local Arkhosian
+ruins depending on how you want to play it in your campaign. They are 30-foot
+tall and 15-foot wide stone towers that move on 10-foot tall granite rollers.&lt;/p&gt;
+
+&lt;p&gt;A tower can transport troops in its two internal floors, allowing them to
+disembark on enemy battlements. On top of it is a sculpted dragon head that can
+swivel in a 360-degree arc and shoot fireballs at enemies. Being a construct,
+the tower is capable of driving and shooting by itself, though if it gets too
+damaged its occupants will dearly feel the lack of internal safety equipment.&lt;/p&gt;
+
+&lt;p&gt;Arkosian Siege Towers are Huge Natural Animates with the Construct keyword and
+336 HP. They’re immune to charm, disease, and poison, and have Resist 15 to all
+damage originating from outside themselves. The rest of their stat block really
+stretches the format in an attempt to model all they can do, starting with a
+trio of very interesting traits:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;All-Around Vision&lt;/strong&gt; means they don’t grant combat advantage when flanked;
+&lt;strong&gt;Juggernaut&lt;/strong&gt; means it ignores difficult terrain and doesn’t provoke
+opportunity attacks, but it also can’t squeeze, make OAs, or grab
+creatures. &lt;strong&gt;Living Building&lt;/strong&gt; has a list of effects as long as my arm:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The tower can occupy other creature’s spaces, and other creatures can end
+their movement in its spaces. That’s rules-talk for “it can fit people inside
+itself”. When it moves, creatures inside move along with it as if it was a
+vehicle.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The tower is 30 feet tall and has two internal 15-foot tall levels. The
+Athletics DC for climbing it from the outside is 20.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The lower level has two iron double doors (break DC 25) that it can open and
+close as a free action. When the doors are closed, there is no line of sight
+or effect between the inside and outside.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The upper level has arrow slits that allow occupants to shoot outside. It’s
+linked to the lower level by 2 ladders.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Finally, the &lt;strong&gt;Rough Ride&lt;/strong&gt; trait models how damage impacts the tower. While
+bloodied, the tower is slowed and inflicts a -2 penalty to attacks on all its
+occupants.&lt;/p&gt;
+
+&lt;p&gt;As a construct, the tower has two attacks. The &lt;strong&gt;Dragon’s Head&lt;/strong&gt; shoots
+fireballs (Area 1 within 20) that deal immediate and ongoing fire damage, half
+on a miss. And it can &lt;strong&gt;Crush&lt;/strong&gt; with its move action, which allows it to make
+attacks against any creatures whose spaces it enters during the move.&lt;/p&gt;
+
+&lt;p&gt;When the tower drops to 0 HP, it &lt;strong&gt;Collapses&lt;/strong&gt;, making an attack vs. the Reflex
+of every occupant that deals heavy damage and knocks them prone on a hit. The
+tower’s space becomes difficult terrain (a giant pile of rubble!).&lt;/p&gt;
+
+&lt;p&gt;The stats make no mention of a disembarking ramp on the second level, but it’s
+easy to say there is one there. It’d be as sturdy as the ground floor doors, and
+controlled in the same way.&lt;/p&gt;
+
+&lt;p&gt;The best way to fight a siege tower is from inside, where you can bypass its DR
+and “only” have to contend with its occupants. These are likely to be a
+combination of vanguards and archers.&lt;/p&gt;
+
+&lt;h3 id=&quot;legatus-dythan&quot;&gt;Legatus Dythan&lt;/h3&gt;
+
+&lt;p&gt;Dythan is big and imposing even for a Dragonborn. He wears an ornate suit of
+plate adorned with Arkhosian heraldic devices done in gold inlay. He’s not just
+a competent general, but an extremely skilled combatant as well.&lt;/p&gt;
+
+&lt;p&gt;Dythan is a Level 15 Elite Soldier with 290 HP and the Leader keyword. He wears
+his nifty armor suit and carries a shield, a sword and a brace of javelins into
+battle. He has the same &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait as his vanguards, and
+projects a &lt;strong&gt;Last Stand&lt;/strong&gt; aura (5) that gives allies inside a +2 bonus to damage
+while they’re bloodied. He also gains at +2 to hit while bloodied himself,
+instead of the usual +1 for dragonborn.&lt;/p&gt;
+
+&lt;p&gt;Dythan might be a Soldier but he doesn’t mark anyone. Instead he wants the PCs
+to mark him! His &lt;strong&gt;longsword&lt;/strong&gt; deals bonus damage if the target is marking
+Dythan or has an active defender aura. If an enemy marks an ally within 5
+squares of Dythan, he can use &lt;strong&gt;Dythan’s Challenge&lt;/strong&gt; to transfer the mark to
+himself.&lt;/p&gt;
+
+&lt;p&gt;As a minor action he can perform a &lt;strong&gt;Shield Bash&lt;/strong&gt;, which damages, pushes 1
+square, and allows the legate to shift 1 square to follow. This is a full attack
+with standard damage because he’s an elite. Those javelins are &lt;strong&gt;Shock
+Javelins&lt;/strong&gt; that deal lightning damage. And finally, his &lt;strong&gt;Dragon Breath&lt;/strong&gt; is the
+traditional fire.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I really like Dythan’s Legion. They’re a major threat compared to almost
+everything else in the Vale, but they’re focused on doing their own thing and
+have no reason to be immediately hostile to the PCs.&lt;/p&gt;
+
+&lt;p&gt;Depending on how villainous you want to make them, they might make a good
+late-game antagonist faction when they find those ancient ruins and start
+bringing in their full numbers to the Vale looking to conquer it and make it
+their new base of operations. They might also work as uneasy allies against
+other Vale-wide threats, like a full-scale Bloodspear invasion or one of the big
+dragons.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/26/dythans-legion.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/26/dythans-legion.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Dark Drake of the Moon Hills</title>
@@ -1589,195 +1882,6 @@ manipulated by her much smarter vassals.&lt;/p&gt;
         <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/01/bitterstrike.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/01/bitterstrike.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Barrowhaunts</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-barrowhaunts.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is an entirely original setting-specific entry. Now this is what I’m here
-for!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The Gray Downs is a region of dreary fog-shrouded hills in the center-north of
-the Nentir Vale. It contains a great number of burial mounds built by ancient
-humans who lived here centuries before the arrival of the Nerathi. These hill
-clans are extinct, but their ruins remain as witnesses of their existence. The
-greatest of these mounds is the Sword Barrow, which sits prominently at the
-center of the Downs.&lt;/p&gt;
-
-&lt;p&gt;The Sword Barrow is exactly the sort of place that would be considered a prime
-delving spot: it reaches deep underground, its layout is complex, and it’s
-filled with traps and treasure belonging to the forgotten king or warlord that
-rests at its bottom. It’s also already “taken”. If you get too close to it, the
-Barrowhaunts will shank you for trying to move into their territory.&lt;/p&gt;
-
-&lt;p&gt;The Barrowhaunts are a group of undead revenants who used to be an adventuring
-party in life.  They are themselves quite ancient, and no one knows why they
-became undead. The leading rumor is that they delved the Sword Barrow and
-attracted the ire of the warlord buried inside, whose spirit called out to the
-hill clans and told them to come take their revenge. They answered the call, and
-the Barrowhaunts preferred to slaughter them all rather than relinquish their
-loot. So yeah, according to this story they’re responsible for the final
-extinction of the hill clans. One of the hillfolk elders laid a dying curse upon
-the adventurers, binding them to the land for all eternity.&lt;/p&gt;
-
-&lt;p&gt;This didn’t have any obvious immediate effect, but the adventuring party did
-become more and more obsessed with the region as time went by. They kept coming
-back for more treasure, and attempted many delves into the Sword
-Barrow. Eventually their greed surpassed their skill. After the ensuing TPK,
-they got back up, now fully under the effects of the curse.&lt;/p&gt;
-
-&lt;p&gt;As undead, the Barrowhaunts effectively became eternal guardians of the Grey
-Downs barrows, but they frame this duty in terms of their original greedy
-mentality. They spend their existence delving the barrows and moving loot around
-to protect it from “rivals” and “claim-jumpers”, which means anyone wandering
-through their claimed territory. They savagely attack any intruders and add
-their loot to the pile. Somewhere in the Downs is a big stash of all the
-treasure they’ve gathered over the ages, but no one has been able to find it and
-live to tell the tale yet. It might be inside the Sword Barrow, it might be
-somewhere else.&lt;/p&gt;
-
-&lt;p&gt;The Barrowhaunts are aided in their duty by the spirits of the creatures and
-people they’ve killed over the ages. Many of these are hillfolk, but there are
-also newer ghosts. None of them want to see the Barrowhaunts’ curse end, so they
-fight hard to keep them from being destroyed.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Barrowhaunts are all specific individuals! They share in common a set of
-generic undead traits: immune to fear and disease, resist 10 necrotic,
-vulnerable 5 radiant, Darkvision. All of their other traits come from training
-or from their respective racial powers.&lt;/p&gt;
-
-&lt;p&gt;The lingering spirits that accompany them are Shadow Humanoids and Beasts with
-undead traits. They’re all minions but they have high damage resistance, making
-them a lot more stubborn than most minions. Let’s look at them first.&lt;/p&gt;
-
-&lt;h3 id=&quot;lingering-warrior-spirit&quot;&gt;Lingering Warrior Spirit&lt;/h3&gt;
-
-&lt;p&gt;A humanoid spirit and a Level 7 Minion Soldier. It has immunity to disease and
-fear, and Resist 15 to all damage except radiant. Their &lt;strong&gt;Phantom Strikes&lt;/strong&gt; deal
-a bit of damage and immobilize for a turn.&lt;/p&gt;
-
-&lt;p&gt;That damage resistance at level 7 means that fighting these things pretty much
-requires someone who can deal radiant damage on demand, like a cleric, paladin
-or even a star warlock with the right powers. A PC striker might be able to
-brute-force them, but not consistently.&lt;/p&gt;
-
-&lt;h3 id=&quot;lingering-monster-spirit&quot;&gt;Lingering Monster Spirit&lt;/h3&gt;
-
-&lt;p&gt;The ghost of a non-humanoid monster. It’s a Large Level 9 Minion Brute, with a
-ground speed of 8 and a climb speed of 6. It attacks with Reach 2 &lt;strong&gt;Savage
-Strikes&lt;/strong&gt; that do good damage for a minion. The thing that makes it special is
-Resist 20 to all non-radiant damage, which means they’re almost impossible to
-brute-force. Bring a cleric!&lt;/p&gt;
-
-&lt;h3 id=&quot;uthelyn-the-mad&quot;&gt;Uthelyn the Mad&lt;/h3&gt;
-
-&lt;p&gt;This was the Barrowhaunts’ half-elf rogue. She’s a Level 8 Skirmisher with 86
-HP. Her &lt;strong&gt;Maniacal Laughter&lt;/strong&gt; acts like an aura (1) that inflicts a -2 attack
-penalty on enemies inside. She wields a &lt;strong&gt;short sword&lt;/strong&gt; and can do &lt;strong&gt;Mad
-Slashes&lt;/strong&gt; with it, which let her shift 2 squares before and after the attack as
-an effect, and deal bonus necrotic damage against targets that grant combat
-advantage to Uthelyn.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter she can react to an effect that would immobilize, slow, or
-restrain her with a &lt;strong&gt;Ghostly Escape&lt;/strong&gt;, which lets her end the effect and gain
-insubstantial and phasing for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;adrian-iceheart-reginold&quot;&gt;Adrian “Iceheart” Reginold&lt;/h3&gt;
-
-&lt;p&gt;This was their human wizard, specializing in cold spells. He’s a Level 8
-Controller with 86 HP, and is also resistant to cold and vulnerable to fire in
-addition to all the standard traits mentioned above.&lt;/p&gt;
-
-&lt;p&gt;Adrian uses a &lt;strong&gt;Frost Staff&lt;/strong&gt; that does cold damage in melee, and shoots tricky
-&lt;strong&gt;Ice Bolts&lt;/strong&gt; that do “cold and necrotic” damage and slow for a turn. As a
-reminder dual-typed damage uses the target’s smaller resistance value, so if a
-PC is only resistant to cold they’re going to take full damage from the
-bolts. The wizard can also cast &lt;strong&gt;Deep Freeze&lt;/strong&gt; (close blast 3 vs. Fortitude,
-recharge 5+) to deal cold damage and restrain for a turn, and &lt;strong&gt;Vortex of Ice&lt;/strong&gt;
-(area burst 1 within 10, encounter) to deal heavy cold damage, slide 3 squares,
-and knock prone. A miss here deals half damage and slides 1 square.&lt;/p&gt;
-
-&lt;h3 id=&quot;joplin-the-sly&quot;&gt;Joplin the Sly&lt;/h3&gt;
-
-&lt;p&gt;The party’s second rogue, this one a halfling. She’s a level 8 Lurker with 68
-HP. Joplin gets the halfling’s &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait, gaining +2 AC
-vs. opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;Her basic attack is a &lt;strong&gt;Vanishing Strike&lt;/strong&gt; with a short sword, which makes her
-invisible to the target for a turn on a hit, and deals increased damage when she
-has combat advantage. Once per encounter, when someone hits or misses her with a
-melee attack, she can use &lt;strong&gt;Swift Rebuke&lt;/strong&gt; as an &lt;em&gt;interrupt&lt;/em&gt;, making a free
-Vanishing Strike against the enemy with combat advantage. Since this is an
-interrupt, it can turn a hit into a miss with the full concealment bonus for
-being invisible!&lt;/p&gt;
-
-&lt;h3 id=&quot;boldos-grimehammer&quot;&gt;Boldos Grimehammer&lt;/h3&gt;
-
-&lt;p&gt;The party’s dwarf fighter is a Level 9 Brute with 122 HP. He gets the same
-resistance to forced movement and knockdowns given to PC dwarves, and fights
-with a battleaxe and shield. The &lt;strong&gt;axe&lt;/strong&gt; can be used for basic strikes or for
-&lt;strong&gt;Mighty Swings&lt;/strong&gt; that deal a little less damage and either push the target 1
-square or knock it prone.&lt;/p&gt;
-
-&lt;p&gt;If Boldos is hit by an attack that would push, pull, or slide him, he can
-respond with the &lt;strong&gt;Soldier of Fortune&lt;/strong&gt; interrupt, which gives him a free basic
-attack with a +5 damage bonus against the triggering enemy. He always hits you
-back before you push him, and since he’s a dwarf he might end up staying put
-anyway.&lt;/p&gt;
-
-&lt;h3 id=&quot;cassian-dcherevan&quot;&gt;Cassian d’Cherevan&lt;/h3&gt;
-
-&lt;p&gt;The party leader, this human warlord was probably some sort of noble in
-life. He’s a Level 9 Elite Soldier with the Leader keyword and 192 HP. He’s
-armored in plate and uses a &lt;strong&gt;greatsword&lt;/strong&gt; to fight.&lt;/p&gt;
-
-&lt;p&gt;As an elite, he can make &lt;strong&gt;Double Attacks&lt;/strong&gt; with the sword, and once per
-encounter he can make a &lt;strong&gt;Call to War&lt;/strong&gt;, which lets him attack once and allow
-every ally within 5 squares to shift up to 2 squares and make a basic attack.&lt;/p&gt;
-
-&lt;p&gt;As a minor action he can use his &lt;strong&gt;Bolstering Presence&lt;/strong&gt; (recharge 5+) to give
-every ally within 3 squares a +5 damage bonus for a turn. And if an adjacent
-enemy makes an attack that doesn’t target him, Cassian can use &lt;strong&gt;Relentless
-Assault&lt;/strong&gt; to automatically deal 12 damage to that enemy.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
-
-&lt;p&gt;I love the Barrowhaunts, because they’re a very specific group tied to a
-specific spot on the map. They have a history, and a concrete reason for doing
-what they do. This is the sort of entry you can write when you don’t have to be
-as generic as possible. I also really like that they’re a party of murderhobos,
-a kind of dark mirror held up to the PCs, saying “take care or you’ll end up
-like them”.&lt;/p&gt;
-
-&lt;p&gt;Mechanically they’re all set up to work like a typical adventuring party. Each
-member models a specific PC class or role, and their teamwork will take up a
-very smilar form. Any fight against the PCs is going to happen in the Gray
-Downs, an area full of obscuring mist and hilly, boulder-strewn terrain. The
-Barrowhaunts have been there for centuries, are intimately familiar with it, and
-will definitely set up traps and ambushes when attacking intruders.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/29/barrowhaunts.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/29/barrowhaunts.html</guid>
         
         <category>dnd4</category>
         
