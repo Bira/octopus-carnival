@@ -179,7 +179,7 @@ opponents.
 
 {::nomarkdown}
 <figure class="left">
-  <img src="{{ "/assets/wir-tnv-dythans-legion-tower.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wit-tnv-dythans-legion-tower.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2011 Wizards of the Coast.
   </figcaption>
