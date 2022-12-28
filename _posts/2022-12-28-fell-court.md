@@ -25,23 +25,21 @@ an example of their Turathi counterparts.
 Even long after the fall of Bael Turath, tieflings still have to contend with
 the suspicions and prejudice of others. You could argue such suspicion was
 warranted right after that fall, since the people who became the first tieflings
-had all been members of the Turathi elite who practiced diabolism and therefore
-were quite nasty. Their descendants however were just born that way and are as
-varied in their moral outlook as any sapient other sapient people. It is wrong
-to expect them to be scheming diabolists just because of their looks.
+had all been members of the Turathi elite, and therefore quite nasty
+slave-holding diabolists. Their descendants however were just born that way and
+are as varied in their moral outlook as any other sapient people. It is wrong to
+expect them to be scheming diabolists just because of their looks.
 
 And then you have people like the Fell Court. They're a group of tieflings based
-on Fallcrest who want to rebuild Bael Turath and make it great again. Yes, that
-phrasing is very deliberate on my part and is meant to say they're
-villains. Their leader is one Melech Ambrose, a self-proclaimed general and
-visionary who can probably trace his ancestry very precisely to a specific noble
-lineage.
+on Fallcrest who want to Make Bael Turath Great Again. Their leader is one
+Melech Ambrose, a self-proclaimed general and visionary who can trace his
+ancestry very precisely to a specific noble lineage.
 
 Despite all his claims, Ambrose acts more like a petty crime lord than as a
 would-be ruler. His group's current activities are all aimed at filling their
 "war chest" so the "real" takeover can begin. They have only recently stepped up
-their operations, and though the Lord Warden has heard rumors, his men have so
-far failed to turn up any concrete information about the Court.
+their operations, and though the Lord Warden of Fallcrest has heard rumors, his
+men have so far failed to turn up any concrete information about the Court.
 
 Ambrose himself has a public life as a successful trader and contacts among
 several members of Fallcrest's high society. He uses this as cover to run a
@@ -77,7 +75,7 @@ stage of "disposable tool".
 
 Melech has also heard of the Iron Circle, an Asmodeus-worshiping mercenary
 company from the south who is entering the Vale through the Harkenwold
-region. He believes he can enter an alliance with the circle, offering his Fell
+region. He believes he can enter an alliance with them, offering his Fell
 Court's services as spies and saboteurs and using the Circle's military might to
 conquer the Vale so they can rule together. Though he has yet to hear back from
 them after making his initial diplomatic overtures, he's absolutely sure they
