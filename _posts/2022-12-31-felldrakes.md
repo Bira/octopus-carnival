@@ -49,10 +49,10 @@ blue. They were used to protect homes and vaults from burglars, and those blue
 marks aided in tracking any culprits that escaped.
 
 Leaping Felldrakes are Level 1 Lurkers with 26 HP. They have ground and climb
-speeds of 6. Their basic **bites** are a little bit weak, but they can use
-**Neck Bites** against targets granting them combat advantage. This deals about
-double the damage of a basic bite and allow the drake to grab the target (escape
-DC 12), dealing them ongoing 5 damage while the grab lasts.
+speeds of 6. Their basic **bites** are a little weak, but they can use **Neck
+Bites** against targets granting them combat advantage. This deals about double
+the damage of a basic bite and allow the drake to grab the target (escape DC
+12), dealing them ongoing 5 damage while the grab lasts.
 
 The drake's **Flying Leaps** allow them to fly 3 squares without provoking
 opportunity attacks. If they have cover, concealment, or no enemies within 5
