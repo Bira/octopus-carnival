@@ -6,9 +6,128 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Dec 2022 16:31:08 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 16:31:08 +0000</lastBuildDate>
+    <pubDate>Sat, 31 Dec 2022 19:06:46 +0000</pubDate>
+    <lastBuildDate>Sat, 31 Dec 2022 19:06:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Felldrake</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-felldrake.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Felldrakes are a Vale-specific new addition to the game.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Shortly after signing the pact that transformed them, the ruling nobility of
+Bael Turath set about applying their newfound infernal power in several ways
+they felt would benefit the empire. One of the things they did was magically
+alter the many breeds of drake the Turathi already employed to make them
+stronger and more vicious. These magically altered breeds became known as
+felldrakes.&lt;/p&gt;
+
+&lt;p&gt;Though felldrakes are considered natural animals, they’re much more aggressive
+and territorial than other species and are susceptible to control via old
+Turathi techniques and infernal magic. The Fell Court from our previous entry
+was taught the secret of controlling these creatures by their diabolical
+patrons. It’s possible other groups have learned it as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Like other drakes, these are Natural Beasts. They’re a varied lot, though, and
+their abilities are specific to each stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;leaping-felldrake&quot;&gt;Leaping Felldrake&lt;/h3&gt;
+
+&lt;p&gt;This Small drake looks like a green-scaled lizard. As the name implies they’re
+capable of long flying leaps, but they’re also pretty good at lying in
+ambush. Their jaws are very efficient at biting the necks of their victims, and
+their saliva contains a weak venom that turns the flesh around the bite mark
+blue. They were used to protect homes and vaults from burglars, and those blue
+marks aided in tracking any culprits that escaped.&lt;/p&gt;
+
+&lt;p&gt;Leaping Felldrakes are Level 1 Lurkers with 26 HP. They have ground and climb
+speeds of 6. Their basic &lt;strong&gt;bites&lt;/strong&gt; are a little weak, but they can use &lt;strong&gt;Neck
+Bites&lt;/strong&gt; against targets granting them combat advantage. This deals about double
+the damage of a basic bite and allow the drake to grab the target (escape DC
+12), dealing them ongoing 5 damage while the grab lasts.&lt;/p&gt;
+
+&lt;p&gt;The drake’s &lt;strong&gt;Flying Leaps&lt;/strong&gt; allow them to fly 3 squares without provoking
+opportunity attacks. If they have cover, concealment, or no enemies within 5
+squares, they can use &lt;strong&gt;Instant Camouflage&lt;/strong&gt; to become effectively invisible
+until they attack or cancel the effect. That’s how it gains combat advantage in
+most situations, though flanking also works fine in a fight against multiple
+monsters.&lt;/p&gt;
+
+&lt;h3 id=&quot;crested-felldrakes&quot;&gt;Crested Felldrakes&lt;/h3&gt;
+
+&lt;p&gt;These Small drakes are kinda like a cross between a standard &lt;a href=&quot;/octopus-carnival/2020/01/27/drakes.html&quot;&gt;guard drake&lt;/a&gt;
+and a Jurassic Park raptor. They’re pack hunters like unmodified guard drakes,
+but they’re stronger and smarter than then. Crested felldrakes have been known
+to climb on top of one another to reach high places, or to open doors with their
+claws to get at victims on the other side.&lt;/p&gt;
+
+&lt;p&gt;Crested Felldrakes are Level 2 Skirmishers with 39 HP. They have a ground speed
+of 8 and their &lt;strong&gt;Pack Frenzy&lt;/strong&gt; trait gives them +1 to hit and +2 to damage when
+adjacent to a felldrake ally. Their &lt;strong&gt;bites&lt;/strong&gt; damage and allow a felldrake ally
+within 2 squares of the attacker to shift up to 2 squares as a reaction. When
+hit by an opportunity attack, they can automatically shift 2 squares. This
+doesn’t negate the damage from the attack, but it also doesn’t use up an action,
+so it can be done as often as you like. The more you hit them, the more mobile
+they are.&lt;/p&gt;
+
+&lt;h3 id=&quot;hissing-felldrake&quot;&gt;Hissing Felldrake&lt;/h3&gt;
+
+&lt;p&gt;Another Jurassic Park-inspired monstrosity, this is a Medium drake with a large
+folding frill around its neck and the ability to spit a corrosive venom laced
+with soporific chemicals. It’s Level 3 Artillery with 38 HP.&lt;/p&gt;
+
+&lt;p&gt;They can &lt;strong&gt;bite&lt;/strong&gt; but the star of the show is clearly their &lt;strong&gt;Fell Spit&lt;/strong&gt;, a
+ranged attack that targets Reflex and deals acid damage. If the target is
+bloodied, they become slowed for a turn. If they’re already slowed, they instead
+become dazed (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;tri-horned-felldrake&quot;&gt;Tri-Horned Felldrake&lt;/h3&gt;
+
+&lt;p&gt;The larger and most aggressive of the felldrake subspecies, but also oddly
+enough the easiest to domesticate. The Turathi enforced an instinctive pecking
+order with tri-horns at the top, so they have some ability to control other
+felldrake species.&lt;/p&gt;
+
+&lt;p&gt;Tri-horns are Medium Level 4 Soldiers with 58 HP. They have a speed of 5, are
+immmune to fear, and gain a +3 to damage when charging. They can &lt;strong&gt;bite&lt;/strong&gt; and
+also perform &lt;strong&gt;challenging gores&lt;/strong&gt; that deal about the same damage and mark for
+a turn. If a marked target makes an attack that doesn’t target the drake, it can
+use a melee reaction to automatically deal light damage and knock them prone.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The origin of the felldrakes gives you ample excuse to have a wild pack of them
+that attacks on sight and fights to the death, unlike most natural
+beasts. However they really come into their own as pets to the Fell Court or to
+other similar groups that know how to control and boost them in the same way.&lt;/p&gt;
+
+&lt;p&gt;They could also be used as additional Dark Drake species to go with the Dark
+Drake of the Moon Hills. Maybe the Dark Drake is a supernaturally powerful
+felldrake who survives since the days of Bael Turath?&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2022/12/31/felldrakes.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/31/felldrakes.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Fell Court</title>
@@ -1688,193 +1807,6 @@ as soon as the PCs pry out its gemstone yes.&lt;/p&gt;
         <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/05/bloodfire-ooze.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/05/bloodfire-ooze.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Blackfang Gnolls</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;The Blackfang gnolls first appeared as one of the antagonist groups in the
-Thunderspire Labyrinth adventure. Here we get stats for Blackfang-specific
-variants which combined with the MV could allow you to run that adventure with
-updated stats.&lt;/p&gt;
-
-&lt;h2 id=&quot;region-the-old-hills&quot;&gt;Region: The Old Hills&lt;/h2&gt;
-
-&lt;p&gt;The Old Hills take up part of the central and northeast regions of the Vale, and
-have this name because they were the first area settled by the Nerathi. Its main
-“points of light” are the dwarf hold of Hammerfast at its center and the human
-settlement of Nenlast way up in the northeast corner. The Fiveleague House inn
-near Hammerfast is a popular rest stop for travelers.&lt;/p&gt;
-
-&lt;p&gt;Also in this area is Thunderspire, a tall isolated mountain whose peaks are
-eternally shrouded in storms. It contains the entrance to a vast series of
-underground ruins that used to belong to the ancient minotaur empire of Saruun
-Khel. Go through that portal and a little ways into the underground, and you’ll
-find the Seven-Pillared Hall, a community run by the Mages of Saruun, a cabal
-who’s interested in profiting from trade between the people of the surface and
-the Underdark. They enforce diplomatic neutrality within the Hall, but there’s
-enough intrigue and backstabbing down here that it doesn’t &lt;em&gt;quite&lt;/em&gt; count as a
-“point of light”.&lt;/p&gt;
-
-&lt;p&gt;The Hall is described in detail in the &lt;strong&gt;Thunderspire Labyrinth&lt;/strong&gt;
-adventure. This book assumes it hasn’t happened yet.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The Blackfang are a tribe of Yeenoghu-worshipping gnolls who live in the Old
-Hills area of the Vale. They get this name from their distinctive fangs, which
-are black and much longer than what is typical for gnolls. They frequently
-attack travelers going through the area, with the aim of capturing people to
-enslave and/or eat.&lt;/p&gt;
-
-&lt;p&gt;Even Hammerfast fears them, because it’s already lost too many warriors trying
-to hunt them down. The Blackfang lair in complex tunnel warrens under the Old
-Hills and avoid traveling overland whenever they can, preferring to use the
-ancient tunnels of Saruun Khel to move about and to only emerge just before they
-strike.&lt;/p&gt;
-
-&lt;p&gt;Recently, Blackfang expeditions into the Saruun Khel ruins uncovered an ancient
-temple known as the Well of Demons. The Well was dedicated to Baphomet, but the
-Blackfang chieftain Maldrick Scarmaker locked himself inside in order to
-rededicate it to Yeennoghu. While he’s in there, the Blackfang are effectively
-leaderless and much less organized. However, it seems Scarmaker is close to
-finishing his task, as the Well has started spitting forth demonic spirits that
-possess certain members of the Blackfang. They call this the Butcher’s Blessing,
-and it basically makes them into demons, giving them mutations like wings and
-barbed tails. These “blessed” gnolls now seek to consume the souls of their
-victims, and not just their flesh.&lt;/p&gt;
-
-&lt;p&gt;Stopping the depredations of the Blackfang could be a good hook for the
-Thunderspire Labyrinth adventure, which is itself quite sandboxy.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Blackfang are gnolls, so they’re Medium Natural Humanoids and their
-signature ability is &lt;strong&gt;Pack Attack&lt;/strong&gt;, giving them a +5 damage bonus against
-targets adjacent to two or more of their allies. We see several group-specific
-stat blocks below, and they combine well with the more generic gnoll stats
-presented in other books.&lt;/p&gt;
-
-&lt;h3 id=&quot;blackfang-feaster&quot;&gt;Blackfang Feaster&lt;/h3&gt;
-
-&lt;p&gt;This one bites, and it doesn’t brush its teeth. Feasters are Level 6 Brutes with
-89 HP and Speed 7. Their basic attack is a &lt;strong&gt;Ravening Bite&lt;/strong&gt; that deals poison
-damage and slows (save ends). Against bloodied creatures they can skip straight
-to the &lt;strong&gt;Devour&lt;/strong&gt; part, dealing heavy physical damage and knocking prone on a
-hit.&lt;/p&gt;
-
-&lt;p&gt;Simple but effective, particularly if you take Pack Attack into account.&lt;/p&gt;
-
-&lt;h3 id=&quot;blackfang-gravedigger&quot;&gt;Blackfang Gravedigger&lt;/h3&gt;
-
-&lt;p&gt;Gravediggers illustrate the Blackfang preference for underground travel and
-tactics. They’re Level 5 Lurkers with 48 HP. Their ground speed is 6 with Earth
-Walk, and they have a burrow speed of 2.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;bite&lt;/strong&gt;, which they can use as part of a &lt;strong&gt;Snatch From
-Below&lt;/strong&gt; maneuver. To use this, they must be burrowing and have no creature
-grabbed. It lets them burst up from the ground and make a bite attack ignoring
-cover and concealment. On a hit, they grab the target (escape DC 15),
-restraining it and inflicting 5 ongoing damage until the grab ends.&lt;/p&gt;
-
-&lt;p&gt;They pair well with enemies that can keep the other PCs’ attention elsewhere
-while they gnaw on a squishy victim.&lt;/p&gt;
-
-&lt;h3 id=&quot;blackfang-howler&quot;&gt;Blackfang Howler&lt;/h3&gt;
-
-&lt;p&gt;Howlers fight with whips and can imbue their howls with a bit of fear
-magic. They’re Level 7 Skirmishers with 77 HP and speed 7. Instead of moving
-normally, they can choose to &lt;strong&gt;Skulk&lt;/strong&gt;, shifting up to 4 squares. This makes
-them hard to pin down.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Whip&lt;/strong&gt; is reach 2 and can be used in a &lt;strong&gt;Whip Trip&lt;/strong&gt; maneuver, which deals
-a bit less damage than a basic attack and knocks the target prone. Their &lt;strong&gt;Howl
-of Dread&lt;/strong&gt; is a minor action that attacks a Close Burst 3 and immobilizes on a
-hit. It recharges when they are first bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;blackfang-render&quot;&gt;Blackfang Render&lt;/h3&gt;
-
-&lt;p&gt;Renders specialize in fighting with their claws. They’re Level 8 Soldiers with
-87 HP and Speed 7. Their &lt;strong&gt;Claws&lt;/strong&gt; damage and mark for a turn on a hit. They can
-also use their &lt;strong&gt;Feral Grasp&lt;/strong&gt; to deal light physical damage and grab a target
-(escape DC 16). Once they have grabbed someone, they can use &lt;strong&gt;Blinding Fury&lt;/strong&gt;
-on the victim as a minor action, an attack dealing light physical damage and
-blinding (save ends) on a hit.&lt;/p&gt;
-
-&lt;p&gt;They have no specific abilities to punish someone who ignores the mark, so the
-default -2 attack penalty against other targets is the only deterrent there.&lt;/p&gt;
-
-&lt;h3 id=&quot;blackfang-hyena-pack&quot;&gt;Blackfang Hyena Pack&lt;/h3&gt;
-
-&lt;p&gt;A pack of hyenas! This is a Large Swarm made up of Medium creatures. It’s a
-Level 6 Brute with 85 HP. It has all the swarm traits: resistant to melee and
-ranged attacks, vulnerable to close and area attacks, can occupy other’s spaces
-and counts as difficult terrain for them, can squeeze into any opening wide
-enough for a single Medium creature.&lt;/p&gt;
-
-&lt;p&gt;The pack’s &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals 5 damage to enemies caught inside, or
-10 if there are at least two allies adjacent to the enemy. Their basic attack is
-a &lt;strong&gt;Bite&lt;/strong&gt; that damages and immobilizes (save ends). The condition also ends if
-the pack is no longer adjacent to the target.&lt;/p&gt;
-
-&lt;h3 id=&quot;maldrick-scarmaker&quot;&gt;Maldrick Scarmaker&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-gnoll-maldrick.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The leader of the Blackfang, fully enjoying the Butcher’s Blessing. PCs will
-likely fight him inside the Well of Demons. If the GM decides to advance time
-and say he succeeded in rededicating the temple, he could also be found at the
-head of a raiding party alongside his honor guard. The book also suggests using
-this stat block for his replacement if the group has already run through
-Thunderspire Labyrinth, but personally I’m not a fan of keeping the status quo
-the same in this way.&lt;/p&gt;
-
-&lt;p&gt;Anyway, Maldrick as presented here is Level 8 Elite Artillery with 148 HP. He’s
-more or less equivalent to a warlock, and though his powers have familiar names
-they’re all demonic in origin. He wields a &lt;strong&gt;mace&lt;/strong&gt; as a weapon and a &lt;strong&gt;rod&lt;/strong&gt; as
-an implement. The mace can make decent basic attacks, but like any warlock
-Maldrick will probably want to stay back and spam &lt;strong&gt;Eldritch Blast&lt;/strong&gt;. He can
-also cast &lt;strong&gt;Dire Radiance&lt;/strong&gt; to deal radiant damage and prevent enemies from
-closing (they take 10 extra radiant damage if they move closer to him in their
-next turn).&lt;/p&gt;
-
-&lt;p&gt;Once per encounter he can cast an &lt;strong&gt;Infernal Moon Curse&lt;/strong&gt; at one or two
-creatures, dealing heavy poison damage and keeping them immobilized 5 feet off
-the ground for a turn. On a miss, this still deals half damage.&lt;/p&gt;
-
-&lt;p&gt;Like a PC warlock, Maldrick can use a minor action to place a &lt;strong&gt;Curse&lt;/strong&gt; on an
-enemy, making all of this implement attacks deal 1d6 extra damage against it for
-a turn. This stacks with Pack Attack, obviously. If an enemy enters a square
-adjacent to him, he can use his &lt;strong&gt;Spined Tail&lt;/strong&gt; to make an opportunity attack
-against them.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
-
-&lt;p&gt;My final impression is the usual: a sarcastic “yay, more gnolls”. They are very
-useful if you intend to run Thunderspire Labyrinth with updated rules.&lt;/p&gt;
-
-&lt;p&gt;If you have already run that adventure, these stats can still work to represent
-Blackfang remnants, or gnolls from other tribes when combined with the more
-generic stat blocks. I’d probably say that after Maldrick’s death at the hands
-of the PCs, the remaining Blackfangs splinter into several mutually hostile
-bands led by “blessed” gnolls who used to be his lieutenants.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/03/blackfang-gnolls.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/03/blackfang-gnolls.html</guid>
         
         <category>dnd4</category>
         
