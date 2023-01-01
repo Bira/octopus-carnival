@@ -6,9 +6,190 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Dec 2022 19:08:07 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Dec 2022 19:08:07 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Jan 2023 20:26:58 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Jan 2023 20:26:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Frost Witches</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-frost-witches.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This is another Vale-specific faction, and a cool one.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Winterbole forest takes up nearly the entire northern edge of the Vale. This
+snowy conifer forest is home to several different factions that exist in uneasy
+equilibrium, and the Frost Witches are one of the most powerful.&lt;/p&gt;
+
+&lt;p&gt;The Witches worship the primordial Cryonax, one of the Evil Elemental Princes,
+but no one outside their group knows about this. To most other inhabitants of
+the Vale they’re “merely” scary forest witches who manipulate and terrify others
+for their own benefit.&lt;/p&gt;
+
+&lt;p&gt;The Frost Witches count elves, humans, harpies and gnomes among their
+number. Every one of them knows how to use magic, and the vast majority are
+female. They increase their numbers mostly through active recruiting, which
+might mean kidnapping children from communities bordering the woods as often as
+it means inducting consenting adults into the coven. Their leader is the elf
+witch Clenderi, which rules the group with absolute authority second only to
+Cryonax himself.&lt;/p&gt;
+
+&lt;p&gt;The Witches are spread out through the whole Winterbole forest, in scattered
+huts housing either lone individuals or small groups of less than half a
+dozen. Their central headquarters is known simply as “Cold Camp”, and it’s
+important not only because it’s Clenderi’s home but also because it houses the
+source of their power, an artifact known as the Cold Cauldron.&lt;/p&gt;
+
+&lt;p&gt;The Cauldron is entirely made of ice, and a frozen flame burns eternally
+underneath it. Standing too close to it is hazardous to anyone who’s not a
+Witch, and it causes a wide area around itself to be covered in frost.&lt;/p&gt;
+
+&lt;p&gt;The Witches have no true friends outside their own group. Any alliances they
+make with others are opportunistic and likely to be temporary. They are
+absolutely willing to turn on these allies if circumstances change.&lt;/p&gt;
+
+&lt;p&gt;The Tigerclaw barbarians who also live in the Winterbole forest have been burned
+by this enough times that they now attempt to kill any Frost Witches they meet
+on sight. The Witches are wary around their territory but don’t consider them a
+serious threat. They maintain much better relations with the Winterbole treants,
+and are engaging on a subtle campaign of manipulation against the dragon
+Bitterstrike, intending to eventually convert her to the worship of Cryonax.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We start off with stats for the Cauldron, which will be relevant to any battle
+that happens inside Cold Camp. It’s 6 feet in diameter, so you could say it’s
+Large. Rules-wise it counts as an indestructible terrain feature, emitting an
+aura of &lt;strong&gt;Icy Flames&lt;/strong&gt; (2) that deals cold damage to any enemy of the Witches
+who ends their turn inside. It also turns the terrain inside the whole of Cold
+Camp into &lt;strong&gt;Frozen Ground&lt;/strong&gt;, which is difficult terrain for anyone without Ice
+Walk.&lt;/p&gt;
+
+&lt;p&gt;As you might expect, all stat blocks in this entry have Ice Walk and a lot of
+cold magic powers, along with resistance to cold and a vulnerability to
+fire. They also retain their racial traits, if any.&lt;/p&gt;
+
+&lt;h3 id=&quot;icicle-swarm&quot;&gt;Icicle Swarm&lt;/h3&gt;
+
+&lt;p&gt;This is a Medium swarm of Tiny, sharp ice elementals that the Witches known how
+to summon and control. It’s a Level 6 Skirmisher with 68 HP and all the standard
+swarm traits. Their &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura deals 5 cold damage to enemies inside,
+and their basic attack is an &lt;strong&gt;Icicle Stab&lt;/strong&gt; that deals cold damage, allows them
+to shift 2 squares before or after the attack, and immobilizes on a critical hit
+(save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;frost-witch&quot;&gt;Frost Witch&lt;/h3&gt;
+
+&lt;p&gt;A typical member of the group. This one is human, but you can make her an elf or
+gnome by adding the proper traits. She’s a Level 8 Controller with 87 HP. She
+projects a &lt;strong&gt;Frost Aura&lt;/strong&gt; (1) that makes enemies inside vulnerable 5 to cold. If
+the enemy was resistant to cold, this reduces their resistance, otherwise it
+increases any cold damage they suffer as normal.&lt;/p&gt;
+
+&lt;p&gt;The witch fights in melee with a &lt;strong&gt;Frost Staff&lt;/strong&gt; that deals cold damage and
+slides 2 squares on a hit. At range she uses a &lt;strong&gt;Snow Blindness&lt;/strong&gt; spell that
+deals cold and radiant damage. Cold resistance alone won’t protect you from it!
+Targets hit by the spell can’t see anything further than 3 squares away (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;Once per encounter she can cast an &lt;strong&gt;Icy Blast&lt;/strong&gt; (close blast 5) which deals
+cold damage, half on a miss, and turns the affected area into a zone of
+difficult terrain. This lasts a turn but can be sustained with minor actions.&lt;/p&gt;
+
+&lt;h3 id=&quot;frost-witch-harpy&quot;&gt;Frost Witch Harpy&lt;/h3&gt;
+
+&lt;p&gt;Harpy members tend to be a little stronger than the others, and their cold magic
+is geared towards enhancing their natural powers. They’re Level 12 Controllers
+with 123 HP. They add thunder resistance to the standard Frost Witch traits, and
+can fly with a speed of 8 (clumsy). Their &lt;strong&gt;Frost Aura&lt;/strong&gt; has a radius of 2. They
+fight with &lt;strong&gt;Frost Claws&lt;/strong&gt; that do cold damage, ranged &lt;strong&gt;Icy Stares&lt;/strong&gt; that do
+cold damage and slow, and a &lt;strong&gt;Chilling Screech&lt;/strong&gt; encounter power that hits a
+Close Burst 2, does cold and thunder damage, and if the target was slowed or
+immobilized also inflicts ongoing 10 cold damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;They’re going to wait to use the screech once multiple players are slowed by
+their stare, or by their allies’ powers.&lt;/p&gt;
+
+&lt;h3 id=&quot;frozen-cauldron-guardian&quot;&gt;Frozen Cauldron Guardian&lt;/h3&gt;
+
+&lt;p&gt;These elementals are made of frozen mist, and as their name implies they hang
+around the Cauldron to protect it from thieves and intruders. They’re Level 15
+Brutes with 179 HP. Despite its misty look. Its diffuse nature makes it hard to
+hurt but that is represented by its high level and HP total - the creature is
+not insubstantial.&lt;/p&gt;
+
+&lt;p&gt;The guardian’s basic attack is called &lt;strong&gt;Cold Snap&lt;/strong&gt;. It deals cold damage and
+causes the target to fall prone. It can also expand itself temporarily for a
+&lt;strong&gt;Enveloping Chill&lt;/strong&gt; attack (recharge 4+), a Close Burst 1 that deals a bit less
+cold damage and knocks prone. It also has an extra rider: targets hit by the
+attack take ongoing 10 cold damage and are unable to stand up (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Anyone fighting these things will stay prone for most of the fight, which makes
+every PC’s job more difficult. They pair really well with melee monsters that
+can exploit combat advantage.&lt;/p&gt;
+
+&lt;h3 id=&quot;clenderi&quot;&gt;Clenderi&lt;/h3&gt;
+
+&lt;p&gt;The leader of the Frost Witches is probably one of the most powerful individuals
+in the Vale. Any fight against her will likely take place near the Frozen
+Cauldron, so she can expect help from a bunch of Guardians and any other
+high-ranking witches the GM cares to stat up.&lt;/p&gt;
+
+&lt;p&gt;Clenderi is an elf, and a Level 18 Elite Controller with the Leader tag and 344
+HP. She projects a &lt;strong&gt;Frost Aura&lt;/strong&gt; that inflicts Vulnerable 5 Cold on any enemies
+while they’re inside. She also has the usual elven &lt;strong&gt;Wild Step&lt;/strong&gt; that lets her
+ignore difficult terrain when she shifts. She already ignores ice-based terrain
+anyway due to Ice Walk, but it’s also hard to restrict her movement in other
+ways. She can also benefit from &lt;strong&gt;Elven Accuracy&lt;/strong&gt; once per encounter, which
+lets her reroll an attack roll that she dislikes and take the second
+result. In practical terms, she can reroll an attack she missed.&lt;/p&gt;
+
+&lt;p&gt;Clenderi’s &lt;strong&gt;Frost Staff&lt;/strong&gt; basic attack works like that of the typical frost
+witch, dealing cold damage and sliding 2 squares. Her &lt;strong&gt;Icy Glare&lt;/strong&gt; is an
+at-will ranged attack that deals cold damage and immobilizes. She can cast a
+&lt;strong&gt;Wind of Winter&lt;/strong&gt; spell (recharge 5+) that deals cold damage in a selectice
+Area Burst 2 and creates a zone of icy wind that lasts for a turn. This is
+difficult terrain to creatures without ice walk, and allows Clenderi’s allies
+who are inside to spend a move action to teleport 10 squares to a space outside
+the zone.&lt;/p&gt;
+
+&lt;p&gt;Her ultimate technique is the &lt;strong&gt;Frostfall&lt;/strong&gt; encounter power, a Close Blast 3
+that deals cold damage and turns victims to ice! This is equivalent to being
+petrified, and is a (save ends) condition. On a miss, the target takes half
+damage and is restrained for a turn.&lt;/p&gt;
+
+&lt;p&gt;All of her spells target Fortitude, so most of the party’s squishies are going
+to be especially vulnerable to them.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The greatest thing about the Frost Witches are their interactions with the other
+factions in the Winterbole Forest. The basic idea of an ice cult conspiring to
+take over the world really comes alive when you factor in those interactions and
+can see how they actually interact with the world around them.&lt;/p&gt;
+
+&lt;p&gt;If you need more Frost Witch stat blocks, there’s one back in the &lt;a href=&quot;/octopus-carnival/2022/12/01/bitterstrike.html&quot;&gt;Bitterstrike&lt;/a&gt;
+entry for a Level 12 witch.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/01/frost-witches.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/01/frost-witches.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Felldrake</title>
@@ -1728,85 +1909,6 @@ a close second.&lt;/p&gt;
         <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Bloodfire Ooze</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-bloodfire-ooze.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;I’m not sure if these are from a specific adventure or if they’re original. This
-is the first time I saw them. They are mostly generic monsters, but there’s a
-couple of Vale-specific hooks here.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Bloodfire oozes are created by evil rituals which mix the blood of sacrificial
-victims with the blood of demons. The resulting creatures emit dangerous levels
-of heat and like most oozes are always on the hunt for more organic material to
-digest. They are able to recognize and avoid attacking their creator, and if fed
-regularly are tame enough to be used as guards. They’re usually placed near
-stone and metal traps or paired with other creatures that have a high resistance
-to fire.&lt;/p&gt;
-
-&lt;p&gt;Bloodfire uses are rumored to prowl the Temple of the Yellow Skull in the
-Ogrefist Hills area, and some of them were also found by dwarven miners under
-Nenlast in the Old Hills. The latter were stored inside a giant iron statue of a
-demon, and spilled out when the miners began dismantling it.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Bloodfire Oozes are Large Elemental Beasts with the Ooze keyword, and level 7
-elite brutes with 196 HP. They project a &lt;strong&gt;Bloodfire Aura&lt;/strong&gt; (2) that deals 10
-fire damage to any creature caught inside, and their &lt;strong&gt;Demonic Fire&lt;/strong&gt; fire makes
-all of their fire damage ignore the first 10 points of fire resistance possessed
-by the target. As oozes, they suffer none of the usual penalties for squeezing
-through tiny spaces. They are immune to fire and vulnerable 10 to cold.&lt;/p&gt;
-
-&lt;p&gt;The oozes attacks are the traditional &lt;strong&gt;slam&lt;/strong&gt; (this time dealing fire damage) and
-a &lt;strong&gt;Fiery Eruption&lt;/strong&gt; (recharge 5+) that attacks all creatures in a Close Blast 3
-to deal light fire damage and ongoing 5 fire damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;The ooze can also form faces on its surface, usually the faces of the victims
-sacrificed to make it. These spew a &lt;strong&gt;Sulphuric Breath&lt;/strong&gt; as a minor action once
-per round, attacking all creatures in a Close Blast 3 and dealing poison damage.&lt;/p&gt;
-
-&lt;p&gt;When the ooze is first bloodied, it immediately recharges Fiery Eruption and
-uses it as a reaction.&lt;/p&gt;
-
-&lt;p&gt;Many of the monsters we saw through our readings have selective auras and area
-attacks. The bloodfire ooze does not, which limits the selection of allied
-monsters. Unless you want lots of, er, friendly fire to happen in your encounter
-you need something with more than 10 fire resistance, and immunity is
-preferred. As mentioned above, the most likely encounter is a pair of oozes plus
-a hazard or two in the battlefield.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
-
-&lt;p&gt;One more ooze type. They’re thematic for infernal or abyssal cults, and might be
-a nice surprise to spring on players who load up on acid resistance when they
-hear the word “ooze”.&lt;/p&gt;
-
-&lt;p&gt;For added fun, you should run with the demon statue idea and stick a pair of
-these things inside that one statue from the 1e PHB cover, making them jump out
-as soon as the PCs pry out its gemstone yes.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/05/bloodfire-ooze.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/05/bloodfire-ooze.html</guid>
         
         <category>dnd4</category>
         
