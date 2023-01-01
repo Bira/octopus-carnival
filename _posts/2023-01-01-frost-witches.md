@@ -54,17 +54,16 @@ absolutely willing to turn on these allies if circumstances change.
 
 The Tigerclaw barbarians who also live in the Winterbole forest have been burned
 by this enough times that they now attempt to kill any Frost Witches they meet
-on sight. The Witches are wary around their territory but don't take them
-seriously as an existential threat. They maintain much better relations with the
-Winterbole treants, and are engaging on a subtle campaign of manipulation
-against the dragon Bitterstrike, intending to eventually convert her to the
-worship of Cryonax.
+on sight. The Witches are wary around their territory but don't consider them a
+serious threat. They maintain much better relations with the Winterbole treants,
+and are engaging on a subtle campaign of manipulation against the dragon
+Bitterstrike, intending to eventually convert her to the worship of Cryonax.
 
 ## The Numbers
 
 We start off with stats for the Cauldron, which will be relevant to any battle
 that happens inside Cold Camp. It's 6 feet in diameter, so you could say it's
-Large. As an artifact, it's an indestructible terrain feature, and it emits an
+Large. Rules-wise it counts as an indestructible terrain feature, emitting an
 aura of **Icy Flames** (2) that deals cold damage to any enemy of the Witches
 who ends their turn inside. It also turns the terrain inside the whole of Cold
 Camp into **Frozen Ground**, which is difficult terrain for anyone without Ice
