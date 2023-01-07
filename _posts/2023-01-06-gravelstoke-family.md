@@ -189,3 +189,5 @@ regaining their own prestige and wealth. That could happen in a reborn Nerath,
 or it could happen in an empire by any other name. So they might consider any of
 the "revivalist" factions as prospective clients or as deluded upstarts
 depending on how deep their purses are.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
