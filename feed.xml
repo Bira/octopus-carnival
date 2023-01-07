@@ -6,9 +6,204 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Jan 2023 20:26:58 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Jan 2023 20:26:58 +0000</lastBuildDate>
+    <pubDate>Sat, 07 Jan 2023 01:06:25 +0000</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2023 01:06:25 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Gravelstoke Family</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-gravelstoke-family.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the others.&lt;/p&gt;
+
+&lt;p&gt;The Gravelstokes are a new threat with very specific ties to the Nentir Vale
+setting. They also serve as a reminder that Nerath wasn’t all sunshine and
+roses.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Gravelstokes used to be one of the most prominent noble families in old
+Nerath. They frequented the highest courts, had the ear of the royal family, and
+had holdings spread through all corners of the empire. The time of strife and
+backstabbing that followed the fall of Nerath’s government saw their fortunes
+and household greatly diminished. Despite paying such a heavy cost to end the
+family’s old rivalries, it managed to keep its deepest and darkest secret: all
+of that prestige and money they had during Nerath’s heyday came from their
+service to the Crown as assassins. One of the reasons they fell was because they
+no longer had a benefactor to support their work.&lt;/p&gt;
+
+&lt;p&gt;Their patriarch at the time, Lord Andrew Gravelstoke, retired to his last
+holdings in the remote Nentir Vale and took most of his surviving relatives with
+him. There he eventually passed and left his children to squander the last of
+the family fortune. All that remains is their bleak stone mansion in the Barony
+of Harkenwold, and a modest summer retreat just outside of Fallcrest.&lt;/p&gt;
+
+&lt;p&gt;The current patriarch is Andrew’s grandson Xander. After decades of bickering
+has managed to unite most of the family behind the singular purpose of
+recovering their old prestige and fortune. And they intend to do that by taking
+up the old family trade: murdering people.&lt;/p&gt;
+
+&lt;p&gt;Xander has been making contact with the family’s old business partners, former
+rivals, and anyone who is in need of a spot of murder to let them know the
+Gravelstokes are once again for hire. They’ve kept the old family techniques
+alive and even improved on them, so the quality of their service is assured.&lt;/p&gt;
+
+&lt;p&gt;The family’s main field operatives are Xander himself, his three younger
+siblings, and his son. Xander also takes counsel from his uncle Barin and his
+widowed sister-in-law Lenore. His young wife Regan is attractive, demure, and
+knows how to keep a secret, but doesn’t have any direct involvement in the
+“business”. She’s Xander’s third wife: the first two failed to meet his approval
+and suffered convenient accidents.&lt;/p&gt;
+
+&lt;p&gt;The siblings are named Mikus, Tovin, and Alesia. Mikus and Tovin are twins, and
+the trio is inseparable. They go everywhere together, whether on a job or just
+traveling for fun. There are dark rumors floating around about the carnality of
+their relationship and its “debased offspring”, but in a surprising twist for
+such a heavily Gothic Horror family, these rumors are all false. They are
+however competent and ruthless assassins.&lt;/p&gt;
+
+&lt;p&gt;Xander’s son Vincent is more of a serial killer than an assassin, an anti-social
+recluse who is very particular about whom he chooses to kill. Xander is at a bit
+of a loss about what to do with him, since this behavior is bad for business.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats for all combatant Gravelstokes here. They’re all early to
+mid-Paragon threats, which likely means their customers are the kind of people
+who have designs on the whole of the Vale.&lt;/p&gt;
+
+&lt;p&gt;The Gravelstokes’ special training gives them several advantages over typical
+humans. They all have Darkvision, and they all know their signature technique
+named &lt;strong&gt;Stone Cold Killer&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Any creature killed by a Gravelstoke-trained assassin is petrified and cannot be
+raised from the dead while they remain that way. The killer can end this
+petrification by touching the victim and willing them restored, or someone else
+can do it by sprinkling a few drops of the killer’s blood on the statue. A
+restored victim is still dead, of course, but now they can be returned to life
+with a Raise Dead ritual.&lt;/p&gt;
+
+&lt;h3 id=&quot;vincent-gravelstoke&quot;&gt;Vincent Gravelstoke&lt;/h3&gt;
+
+&lt;p&gt;Vincent’s tactics in a fight mirror his social behavior: he lurks at the edges
+and only steps in when a good opportunity for murder presents itself. He’s a
+Level 12 Lurker with 90 HP. His &lt;strong&gt;Poisoned Rapier&lt;/strong&gt; does necrotic and poison
+damage, and if the attack is made with combat advantage it also inflicts 10
+ongoing damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;He can also perform a &lt;strong&gt;Shadow Strike&lt;/strong&gt;, a standard action which removes him
+from play until the start of his next turn. At that time, he reappears within 10
+squares of his previous position and can perform a rapier attack that deals
+heavy physical damage and prevents the target from spending healing surges (save
+ends). It does half damage on a miss.&lt;/p&gt;
+
+&lt;p&gt;If pressed, Vincent can &lt;strong&gt;Fade Into the Shadows&lt;/strong&gt; as a minor action. This
+encounter power makes him insubstantial and grants partial concealment until the
+start of his next turn. The effect ends early if he attacks, or if he suffers
+radiant damage.&lt;/p&gt;
+
+&lt;p&gt;Finally, Vincent’s fencing skill lets him &lt;strong&gt;Parry&lt;/strong&gt; melee attacks as an at-will
+interrupt that grants him +4 to all defenses against the attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;tovin-gravelstoke&quot;&gt;Tovin Gravelstoke&lt;/h3&gt;
+
+&lt;p&gt;One of the twins, Tovin is a deadly sniper. He’s Level 13 Artillery with 96
+HP. He wields a &lt;strong&gt;Crossbow of Dread&lt;/strong&gt; whose basic attacks grant him a +4 damage
+bonus against the target until the end of his next turn. Some of his bolts are
+&lt;strong&gt;Poisoned Shot&lt;/strong&gt; (recharge 5+), doing the same damage as the basic attack and
+inflicting 10 ongoing necrotic and poison damage (save ends). The target also
+becomes immobilized after the first failed save, and after the second both
+effects are replaced with unconsciousness (save ends).&lt;/p&gt;
+
+&lt;p&gt;If hit in melee, Tovin can use &lt;strong&gt;Shadow Escape&lt;/strong&gt; (encounter) as a reaction to
+deal 5 necrotic damage to the attacker and teleport 5 squares. If he can’t
+escape, he’ll fight with his &lt;strong&gt;Dagger of Death&lt;/strong&gt;, whose attacks deal necrotic
+damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;mikus-gravelstoke&quot;&gt;Mikus Gravelstoke&lt;/h3&gt;
+
+&lt;p&gt;The other twin is much more fond of melee combat. He’s a Level 13 Soldier with
+128 HP. His &lt;strong&gt;greatsword&lt;/strong&gt; deals physical damage and marks for a turn. If a
+marked enemy within 5 squares of Mikus makes an attack that doesn’t include him
+as a target, he can use &lt;strong&gt;Shadow’s Curse&lt;/strong&gt; to deal an automatic 10 necrotic
+damage to them, ignoring all resistances and immunities.&lt;/p&gt;
+
+&lt;p&gt;He can also use a spell named &lt;strong&gt;Incite The Blood&lt;/strong&gt;, a selective Close Burst 3
+that pulls targets 2 squares towards him and lets him make a strong melee attack
+against each one. In other words, it’s a goth version of Come and Get It.&lt;/p&gt;
+
+&lt;h3 id=&quot;alesia-gravelstoke&quot;&gt;Alesia Gravelstoke&lt;/h3&gt;
+
+&lt;p&gt;Alesia is a bit older than the twins, but is still their steadfast sister and
+friend. She’s a Level 14 Controller with 140 HP. Her weapon of choice is a
+&lt;strong&gt;Bewildering Chakram&lt;/strong&gt; that can be used for both melee and ranged attacks. An
+enemy hit by either takes 5 extra psychic damage for each square they move
+during their next turn. When used as a thrown weapon, the chakram returns to
+Alesia’s hand after the attack.&lt;/p&gt;
+
+&lt;p&gt;She can also perform a &lt;strong&gt;Reeling Chakram&lt;/strong&gt; attack (recharges when first
+bloodied). This does about double damage, half on a miss, and also pushes the
+target 2 squares and knocks them prone as an effect. Plus she knows enough magic
+to cast a &lt;strong&gt;Toxic Tendrils&lt;/strong&gt; spell (Area 2 within 10, recharge 5+), which deals
+necrotic and poison damage and slows (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;xander-gravelstoke&quot;&gt;Xander Gravelstoke&lt;/h3&gt;
+
+&lt;p&gt;The patriarch of the family, and its most deadly combatant. Xander is a Level 16
+Elite Skirmisher with the Leader tag and 304 HP. He wields paired short swords
+in a fight. The basic &lt;strong&gt;sword&lt;/strong&gt; attack deals physical damage and slides the
+target 1 square. Xander can also &lt;strong&gt;Lunge&lt;/strong&gt; (recharge 5+) which lets him shift up
+to half his speed before the attack and deals increased damage. Both attacks
+ignore 10 points of resistance, which is only likely to come up against targets
+that have Resist All since what I call “physical” damage is actually untyped.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter Xander can use a &lt;strong&gt;Shadow Step&lt;/strong&gt; to teleport 5 squares and
+gain partial concealment for a turn.&lt;/p&gt;
+
+&lt;p&gt;Xander’s minor actions are where his Leaderly and Elite-y maneuvers
+are. &lt;strong&gt;Off-Hand Swipe&lt;/strong&gt; lets him shift 2 squares and then make a sword attack
+that deals slightly less damage than a basic one. Combining this with the basic
+attack lets Xander efficiently herd PCs. Once per encounter he can use &lt;strong&gt;Quick
+Rally&lt;/strong&gt; to affect all allies within 3 squares. Affected allies can shift 2
+squares and make a melee basic attack, though each of them must attack a
+different creature.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Like the Barrowhaunts, the Gravelstokes are a party of Evil NPCs that pair very
+well with each other. Having one of the PCs’ enemies hire them to kill the PCs
+is the most obvious way to include them in the adventure, though there are other
+ways that can be as or more fun.&lt;/p&gt;
+
+&lt;p&gt;You might, for example, add them to your campaign much earlier, still in the
+early Heroic Tier, as a source of ominous foreshadowing. They do have a summer
+estate in Fallcrest where they can go to pose as slightly eccentric nobles while
+Xander and Uncle Barin negotiate new contracts. It’s also possible to have a
+Heroic Tier murder mystery where the victim turned to stone after death. The PCs
+might not be able to determine the identity of the actual killer beyond “a
+mysterious hired assassin”, and then the goal becomes finding the mastermind.&lt;/p&gt;
+
+&lt;p&gt;The family is not really interested in Nerath as an ideal - they care only about
+regaining their own prestige and wealth. That could happen in a reborn Nerath,
+or it could happen in an empire by any other name. So they might consider any of
+the “revivalist” factions as prospective clients or as deluded upstarts
+depending on how deep their purses are.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/06/gravelstoke-family.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/06/gravelstoke-family.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Frost Witches</title>
@@ -1760,155 +1955,6 @@ do. Those usually just say “these monsters exist in this setting”.&lt;/p&gt;
         <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Boggle</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-boggle-body.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Boggles have been in the game since 1st Edition, when they appeared on the
-Monster Manual II. This is their 4e debut.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Boggles are mischievous humanoid fey. They’ve been around a very long time, and
-are actually the common ancestors to both banderhobbs and mundane goblins! They
-love playing cruel pranks on others, and move from the Feywild to the world
-every time they find a fey crossing. The world’s mortals are so much more easily
-fooled than the jaded fey of their home plane!&lt;/p&gt;
-
-&lt;p&gt;These creatures are naturally sneaky and have some capacity to bend space. It’s
-common for a child to complain to their parents about a “bogeyman” who keeps
-lurking just out of sight and disappears when looked at. Parents dismiss that as
-a childhood fantasy right up until the boggle strikes. Common pranks include
-spoiling milk, tying shoelaces together, setting clothes on fire, and all the
-stuff you might have read in old real-world myths about the Fair Folk. At the
-most cruel end that does include switching infants for swaddled animals or just
-plain snatching children away. There are also some adventurer-specific pranks
-like disassembling armor and hiding the pieces, or swapping brand new or magic
-weapons for old and rusty replacements.&lt;/p&gt;
-
-&lt;p&gt;For all their cruelty, boggles are cowards, preferring to do their spying and
-sabotage through those mini-portals they can create. They get nervous and
-anxious when near other people, and this causes them to sweat profusely. Boggle
-sweat is a very distinctive substance, viscous and slippery like grease. It’s
-resistant to fire, though. Traces of it are often confirmation that boggles are
-acting in a location.&lt;/p&gt;
-
-&lt;p&gt;Sometimes, stronger or smarter creatures manage to coerce boggles into working
-for them. Left to their own devices, they associate only with each other.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Boggles are an early-Heroic threat suitable for introducing PCs to the more
-fairy-tale side of fey opposition. They’re Small Fey Humanoids with ground and
-climb speeds of 6, and darkvision. They also have Fire Resistance 5 from their
-weird sweat.&lt;/p&gt;
-
-&lt;p&gt;Their signature traits are &lt;strong&gt;Dimensional Window&lt;/strong&gt;, which allows them to make
-“remote” Thievery checks against creatures up to 10 squares away; and
-&lt;strong&gt;Dimension Hop&lt;/strong&gt;, a move action that lets them teleport up to 3 squares. Even
-tough they’re small, boggles have a long melee reach, because they hit you
-through a tiny portal. All of their individual powers are also based around this
-ability to create small dimensional windows.&lt;/p&gt;
-
-&lt;h3 id=&quot;boggle-sight-stealer&quot;&gt;Boggle Sight Stealer&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 3 Lurker with 37 HP. Its basic attack is a Reach 2 &lt;strong&gt;claw&lt;/strong&gt;, and
-its favorite move is the &lt;strong&gt;Peek-a-Boo Trick&lt;/strong&gt; a Range 10 attack that targets
-Reflex. It does no damage, but it lets the boggle pull the target to a space
-within 2 squares of it and to grab them. The target is blinded until the grab
-ends, either by the target beating its escape DC of 13, or by the boggle being
-more than 2 squares away from the target.&lt;/p&gt;
-
-&lt;p&gt;While the boggle is grabbing a victim, it can use a &lt;strong&gt;Neck Bite&lt;/strong&gt; on them. This
-attacks Reflex and deals heavy physical damage, half on a miss. If the victim
-escapes the grab, the boggle can attack it with &lt;strong&gt;Face Rip&lt;/strong&gt; as a reaction,
-automatically dealing a bit of physical damage and allowing the boggle to
-teleport 3 squares.&lt;/p&gt;
-
-&lt;p&gt;Sight Stealers work very well against controllers and ranged strikers,
-particularly if they have buddies that can keep the other PCs away from them.&lt;/p&gt;
-
-&lt;h3 id=&quot;boggle-blink-trickster&quot;&gt;Boggle Blink Trickster&lt;/h3&gt;
-
-&lt;p&gt;Blink Tricksters are Level 4 Artillery with 43 HP. They’re the only artillery
-monster I’ve seen that lacks a ranged attack! Instead, their basic &lt;strong&gt;claw&lt;/strong&gt; has
-a, well, boggling Reach of &lt;em&gt;10&lt;/em&gt;, and enjoys the increased accuracy usually given
-to ranged attacks from artillery monsters. This is an interesting implementation
-because it means they’re not actually weak in melee and need not fear
-opportunity attacks as much.&lt;/p&gt;
-
-&lt;p&gt;In addition to the standard traits discussed above, blink tricksters can use a
-&lt;strong&gt;Double Diversion Trick&lt;/strong&gt; to attack twice in one action. This recharges when
-they’re first bloodied. And if they’re damaged by a melee attack, they can
-dimension hop as a reaction once per encounter.&lt;/p&gt;
-
-&lt;h3 id=&quot;boggle-chase-trickster&quot;&gt;Boggle Chase Trickster&lt;/h3&gt;
-
-&lt;p&gt;Chase tricksters are Level 4 Skirmishers with 53 HP. Their &lt;strong&gt;claws&lt;/strong&gt; have a more
-typical reach of 2, and they have a couple of interesting movement powers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Foot-Snare Trick&lt;/strong&gt; is a minor action that can target an enemy flanked by the
-boggle. It has an automatic effect: if the target moves more than 3 squares on
-their next turn, they end that movement prone. This won’t do much good against
-defenders, but it can ruin the plans of mobile strikers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chase Trick&lt;/strong&gt; is a reaction that triggers when the boggle is missed by a melee
-attack. It can shift up to 3 squares and pull the attacker along with it. This
-represents the creature tricking the attacker into chasing them, so the pull
-does provoke opportunity attacks! If the attacker ends this movement without
-taking damage, they can make a free attack against the boggle. The power
-recharges when the boggle is first bloodied. It’s only worth using if the boggle
-has plenty of other buddles hanging out nearby.&lt;/p&gt;
-
-&lt;h3 id=&quot;boggle-body-snatcher&quot;&gt;Boggle Body Snatcher&lt;/h3&gt;
-
-&lt;p&gt;This is a Level 5 Controller with 61 HP. It has all standard boggle traits
-including a Reach 2 &lt;strong&gt;claw&lt;/strong&gt; attack. Its special move is &lt;strong&gt;Body Snatch&lt;/strong&gt;
-(recharge 4+). It’s a non-damaging attacks that dominates on a hit (save ends)!
-Until the target saves against this, the boggle is removed from play, and the
-target gains a +2 bonus to hit and damage. When the effect ends the boggle
-returns to play within 5 squares of the target.&lt;/p&gt;
-
-&lt;p&gt;In other words, this thing works exactly like a Jockey from Left 4 Dead 2,
-riding the victim and directing their movement. It’s also extra-sweaty: once per
-round as a minor action it can leave a &lt;strong&gt;Boggle Sweat Stain&lt;/strong&gt; on the
-ground. Each stain occupies a square and lasts until the end of the
-encounter. Whenever a non-boggle enters a sweat-stained square, they
-automatically fall prone.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-boggle-hand.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I like these creatures! Their lore gives them a proper fairy-tale monster feel,
-and their mechanics are flavorful and interesting. My favorite is the Reach 10
-melee attack from the blink trickster, with the body snatcher’s sweat stains
-a close second.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/09/boggle.html</guid>
         
         <category>dnd4</category>
         
