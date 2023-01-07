@@ -25,35 +25,34 @@ roses.
 
 The Gravelstokes used to be one of the most prominent noble families in old
 Nerath. They frequented the highest courts, had the ear of the royal family, and
-had holdings spread through all corners of the empire. When that empire fell, so
-did their fortunes. The time of strife and backstabbing that followed saw their
-fortunes and household greatly diminished. Despite paying such a heavy cost to
-end the family's old rivalries, it managed to keep its deepest and darkest
-secret: all of that prestige and money they had during Nerath's heyday came from
-their service to the Crown as assassins. One of the reasons they fell was
-because they no longer had a benefactor to support their work.
+had holdings spread through all corners of the empire. The time of strife and
+backstabbing that followed the fall of Nerath's government saw their fortunes
+and household greatly diminished. Despite paying such a heavy cost to end the
+family's old rivalries, it managed to keep its deepest and darkest secret: all
+of that prestige and money they had during Nerath's heyday came from their
+service to the Crown as assassins. One of the reasons they fell was because they
+no longer had a benefactor to support their work.
 
-Their patriarch at the time, Lord Andrew Gravelstoke, retired to the family's
-last holdings in the remote Nentir Vale and took most of his surviving family
-with him. There he eventually passed and left his children to squander the last
-of the fortune. All that remains is their bleak stone mansion in the Barony of
-Harkenwold, and a modest summer retreat just outside of Fallcrest.
+Their patriarch at the time, Lord Andrew Gravelstoke, retired to his last
+holdings in the remote Nentir Vale and took most of his surviving relatives with
+him. There he eventually passed and left his children to squander the last of
+the family fortune. All that remains is their bleak stone mansion in the Barony
+of Harkenwold, and a modest summer retreat just outside of Fallcrest.
 
-The current patriarch is Andrew's grandson Xander, who after decades of
-bickering has managed to unite most of the family behind a singular purpose. Now
-they aim to recover their old prestige and fortune by doing what they do best:
-murdering people.
+The current patriarch is Andrew's grandson Xander. After decades of bickering
+has managed to unite most of the family behind the singular purpose of
+recovering their old prestige and fortune. And they intend to do that by taking
+up the old family trade: murdering people.
 
-Xander has been making or restoring contact with the family's old business
-partners, former rivals, and anyone who is in need of a spot of murder to let
-them know the Gravelstokes are once again for hire. They've kept the old family
-techniques alive and even improved on them, so the quality of their service is
-assured.
+Xander has been making contact with the family's old business partners, former
+rivals, and anyone who is in need of a spot of murder to let them know the
+Gravelstokes are once again for hire. They've kept the old family techniques
+alive and even improved on them, so the quality of their service is assured.
 
-The family's main operatives are Xander himself, his three younger siblings, and
-his son. Xander also takes counsel from his uncle Barin and his widowed
-sister-in-law Lenore. His young wife Regan is attractive, demure, and knows how
-to keep a secret, but doesn't have any direct involvement in the
+The family's main field operatives are Xander himself, his three younger
+siblings, and his son. Xander also takes counsel from his uncle Barin and his
+widowed sister-in-law Lenore. His young wife Regan is attractive, demure, and
+knows how to keep a secret, but doesn't have any direct involvement in the
 "business". She's Xander's third wife: the first two failed to meet his approval
 and suffered convenient accidents.
 
@@ -124,11 +123,11 @@ damage.
 
 ### Mikus Gravelstoke
 
-Tovin's twin is much more fond of melee combat. He's a Level 13 Soldier with 128
-HP. His **greatsword** deals physical damage and marks for a turn. If a marked
-enemy within 5 squares of Mikus makes an attack that doesn't include him as a
-target, he can use **Shadow's Curse** to deal an automatic 10 necrotic damage to
-them, ignoring all resistances and immunities.
+The other twin is much more fond of melee combat. He's a Level 13 Soldier with
+128 HP. His **greatsword** deals physical damage and marks for a turn. If a
+marked enemy within 5 squares of Mikus makes an attack that doesn't include him
+as a target, he can use **Shadow's Curse** to deal an automatic 10 necrotic
+damage to them, ignoring all resistances and immunities.
 
 He can also use a spell named **Incite The Blood**, a selective Close Burst 3
 that pulls targets 2 squares towards him and lets him make a strong melee attack
@@ -187,6 +186,6 @@ mysterious hired assassin", and then the goal becomes finding the mastermind.
 
 The family is not really interested in Nerath as an ideal - they care only about
 regaining their own prestige and wealth. That could happen in a reborn Nerath,
-or it could happen in an empire by any other name. So they might consider
-Nerathi revivalists as prospective clients or as deluded upstarts depending on
-how deep their purses are.
+or it could happen in an empire by any other name. So they might consider any of
+the "revivalist" factions as prospective clients or as deluded upstarts
+depending on how deep their purses are.

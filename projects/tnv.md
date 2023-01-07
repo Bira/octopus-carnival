@@ -38,7 +38,11 @@ As more monsters are added, they will be linked below.
 
 - F
   - [Fell Court][14]
+  - [Felldrakes][15]
+  - [Frost Witches][16]
 
+- G
+  - [Gravelstoke Family][17]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -55,3 +59,6 @@ As more monsters are added, they will be linked below.
 [12]: {{ "/2022/12/22/dark-drake.html" | relative_url }}
 [13]: {{ "/2022/12/26/dythans-legion.html" | relative_url }}
 [14]: {{ "/2022/12/28/fell-court.html" | relative_url }}
+[15]: {{ "/2022/12/31/felldrakes.html" | relative_url }}
+[16]: {{ "/2023/01/01/frost-witches.html" | relative_url }}
+[17]: {{ "/2023/01/06/gravelstoke-family.html" | relative_url }}
