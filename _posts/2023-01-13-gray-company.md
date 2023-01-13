@@ -117,6 +117,29 @@ The fallen hero's **Longsword** deals necrotic damage and inflicts Vulnerable 5
 Necrotic for a turn. It can invoke **Nerath's Vengeance** to make a sword attack
 against every adjacent enemy, and this recharges once it's bloodied.
 
+### Gray Company Mist Mage
+
+Mist mages are responsible for getting those old magical items (and Fallen
+Heroes) back into working order. In combat, they use spells with a cold and mist
+theme, which goes well with the environment of the Gray Downs.
+
+Mist mages are Level 9 Controllers with 95 HP. They have Resist Cold 5. They use
+**Ice Daggers** in melee, which deal cold damage and slow for a turn on a
+hit. They can also summon **Misty Tendrils** to attack enemies in a Close
+Blast 3 that deals cold damage on a hit and slides 1 square as an effect.
+
+Once per encounter they can create a zone of **Gray Mist** (area 2 within 10
+squares). Any creature that ends its turn in the mist takes a -2 penalty to
+attacks and is slowed for a turn.
+
+They can also use a **Freeze Mist** spell as a minor action, which targets a
+slowed creature and immobilizes them for a turn on a hit.
+
+Mist mages will likely start the fight by laying down Gray Mist, and then use
+Misty Tendrils to herd the PCs into the zone. They will then use Freeze Mist to
+keep these PCs immobilized as their buddies move in for the kill. Note that, as
+controller monsters, they're quite capable of bringing the damage themselves.
+
 ### Halvath Cormarrin
 
 The leader of the Gray Company is a Level 8 Elite Brute with the Leader tag and
