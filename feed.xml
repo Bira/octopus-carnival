@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 11:36:46 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 11:36:46 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2023 14:30:18 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2023 14:30:18 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -120,6 +120,29 @@ with 89 HP. It has Grim Solidarity, Darkvision and the standard undead traits
 &lt;p&gt;The fallen hero’s &lt;strong&gt;Longsword&lt;/strong&gt; deals necrotic damage and inflicts Vulnerable 5
 Necrotic for a turn. It can invoke &lt;strong&gt;Nerath’s Vengeance&lt;/strong&gt; to make a sword attack
 against every adjacent enemy, and this recharges once it’s bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;gray-company-mist-mage&quot;&gt;Gray Company Mist Mage&lt;/h3&gt;
+
+&lt;p&gt;Mist mages are responsible for getting those old magical items (and Fallen
+Heroes) back into working order. In combat, they use spells with a cold and mist
+theme, which goes well with the environment of the Gray Downs.&lt;/p&gt;
+
+&lt;p&gt;Mist mages are Level 9 Controllers with 95 HP. They have Resist Cold 5. They use
+&lt;strong&gt;Ice Daggers&lt;/strong&gt; in melee, which deal cold damage and slow for a turn on a
+hit. They can also summon &lt;strong&gt;Misty Tendrils&lt;/strong&gt; to attack enemies in a Close
+Blast 3 that deals cold damage on a hit and slides 1 square as an effect.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can create a zone of &lt;strong&gt;Gray Mist&lt;/strong&gt; (area 2 within 10
+squares). Any creature that ends its turn in the mist takes a -2 penalty to
+attacks and is slowed for a turn.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Freeze Mist&lt;/strong&gt; spell as a minor action, which targets a
+slowed creature and immobilizes them for a turn on a hit.&lt;/p&gt;
+
+&lt;p&gt;Mist mages will likely start the fight by laying down Gray Mist, and then use
+Misty Tendrils to herd the PCs into the zone. They will then use Freeze Mist to
+keep these PCs immobilized as their buddies move in for the kill. Note that, as
+controller monsters, they’re quite capable of bringing the damage themselves.&lt;/p&gt;
 
 &lt;h3 id=&quot;halvath-cormarrin&quot;&gt;Halvath Cormarrin&lt;/h3&gt;
 
