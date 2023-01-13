@@ -35,8 +35,10 @@ money here. An example is an average-quality mundane broadsword, which a typical
 delver can sell for $240 back in town. Why not take a brace of them back if you
 have the carrying capacity?
 
-A possible solution to the issue is to just lean into it and bring a Scavenger's
-Guild into your game.
+The most obvious solution to this problem is to have a talk with your players
+and explain that you don't want to bother with this stuff. Cheap bulk items are
+not treasure, and should not be treated as such. Another possible solution to
+the issue is to just lean into it and bring a Scavenger's Guild into your game.
 
 ## Origins of the Scavenger's Guild
 
@@ -58,7 +60,77 @@ into the now-safe dungeon with a full logistics train and cart away everything
 else. They sell it off through their contacts, take their percentages off the
 proceeds, and give you the rest as a finder's fee.
 
+## The Scavenger's Guild in GURPS
 
+It's easy to justify the Scavenger's Guild as being part of the support industry
+that such settings often grow around the delving profession. It fits right in
+next to Ye Olde Magick Shoppe and the Temple of Affordable Resurrection. A more
+fleshed-out campaign setting could also justify its existence with a more
+elaborate setup like Solasta's.
+
+The Guild works pretty much as described in the last paragraph of the previous
+section. After the PCs clear a dungeon and return to town, they can report its
+location to the Guild. They will send a caravan full of professional looters
+there, who will strip the place of all that cheap and/or bulky treasure and
+bring it back for sale in town. The party gets a cut of that sale as a finder's
+fee.
+
+### The Process
+
+During the delve, ask your players to write down all of the items they intend to
+have the Guild collect. Once they clear the dungeon and return to town, they can
+contact the Guild and begin the process.
+
+### Safety First
+
+The Scavenger's Guild only goes to dungeons that have been truly made
+safe. They'll refuse any jobs that would take the to dungeons that still contain
+large unexplored areas or monsters that can attack their personnel.
+
+### This Takes a While
+
+Turn-around time for the Guild is usually a week plus however long it takes to
+make go from town to the dungeon and back. If long-distance magical
+communication is common in your setting, you can cut the travel time by
+half. The Guild contacts scavengers who are closer to the dungeon, but they
+still have to make the return trip.
+
+That extra week is the time it takes for the Guild to sell everything and pay
+the PCs. It can't be reduced.
+
+### Scavengers, Not a Demolition Crew
+
+The Guild's scavengers have the same ability to loot the dungeon as the PCs,
+with more carrying capacity. They can collect those rusty skeleton swords and
+cheap wine barrels, and they can load their carts with that fancy bed, but they
+won't take anything that would require actual demolition work to loot, or which
+can't be transported by mundane means. No blowing up the dungeon to sell the
+wall stones, and no digging out that hundred-foot marble statue!
+
+### A Guild, Not a Charity
+
+The Scavenger's Guild has a large network of contacts that lets them find good
+buyers for its loot. However, they have to cover their operating costs and their
+members have to earn a living. Figure out their finder's fee using the Wealth of
+the PC who deals with them, as if that PC was selling the loot
+themselves. There's no way for the PCs to increase this further, unlike with a
+direct sale.
+
+The GM is free to further limit the maximum percentage of the fair value the PCs
+can get through the Guild, but there should be no need to do so. The value of
+the treasure in question will be fairly small to begin with, after all.
+
+### The Small Print
+
+It's important that the PCs make that list of treasure mentioned at the start of
+this section. That's the only loot for which the Guild will pay a finder's
+fee. If they find anything else in there, they might very well take it, but they
+won't share the spoils. This is both a bit of shrewd business on their part and
+an out-of-character "safety" measure to prevent the GM from having to account
+for all of the loot the delvers missed.
+
+Treasure that was hidden but which the players couldn't find won't be found by
+the Guild either.
 
 [1]: https://dungeonfantastic.blogspot.com/2021/10/gurps-dungeon-fantasy-session-159-cold.html
 

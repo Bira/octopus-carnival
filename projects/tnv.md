@@ -43,6 +43,7 @@ As more monsters are added, they will be linked below.
 
 - G
   - [Gravelstoke Family][17]
+  - [Gray Company][18]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}

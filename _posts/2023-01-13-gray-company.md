@@ -158,3 +158,5 @@ what you want for your campaign.
 A truly unified Gray Company would finally become the regional power they want
 to be, and this might merit bumping their levels up to the Paragon tier. Do the
 PCs accept this new order, or to they fight it?
+
+[1]: {{ "/projects/tnv/" | relative_url }}
