@@ -6,9 +6,174 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 07 Jan 2023 12:43:51 +0000</pubDate>
-    <lastBuildDate>Sat, 07 Jan 2023 12:43:51 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jan 2023 11:36:46 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jan 2023 11:36:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Gray Company</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-gray-company.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;The Gray Company are a new, setting-specific faction.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;As far as history goes, the fall of Nerath is still a relatively recent
+event. Many humans alive today likely have a great-grandparent who was alive
+during the final days of that empire. Members of longer-lived species like
+elves, dwarves and eladrin might even have witnessed those days
+themselves.&lt;/p&gt;
+
+&lt;p&gt;So it’s no wonder that Nerath has it own share of revivalists who want to
+rebuild it to fit the glorious image in their head. In the Nentir Vale, the most
+prominent of those groups is known as the Gray Company. Many people in the Vale
+consider them nothing more than a well-equipped gang of bandits, but its members
+believe themselves to be working towards the rebirth of their glorious
+empire. Their singular focus on this goal makes them a dour and humorless
+bunch, seemingly always covered with the dust of ages even when their equipment
+is new.&lt;/p&gt;
+
+&lt;p&gt;The Company is made up primarily of humans, who were the dominant people of
+Nerath. It is led by one Halvath Cormarrin, a man who claims to be a scion of
+Nerath’s royal line. It recruits people from across the Nentir Vale, spreading
+stories of the glories of the old empire and inviting those most fascinated by
+them to join up. Once a recruit joins up, they’re in for life. Deserters are
+hunted down, executed by hanging, and left on display on crossroads, as the old
+law dictates.&lt;/p&gt;
+
+&lt;p&gt;The Company’s HQ is located in the Gray Downs, a region thick with Nerathi ruins
+and artifacts. Much of their time and effort is spent exploring these ruins and
+recovering these artifacts which they consider theirs by right. Cormarrin is
+particularly interested in finding old pieces of regalia like the Sword of
+Nerath and the Threefold Crown, since possessing them would increase the
+legitimacy of his claim.&lt;/p&gt;
+
+&lt;p&gt;Anyone who steals these objects (whether from Company itself or from the ruins
+they consider their territory) is ruthlessly pursued. Particularly resourceful
+thieves are invited to join up and lend their skills to the Company’s
+cause. Others, including those who refuse the invitation, are executed in
+manners prescribed by old Nerathi law.&lt;/p&gt;
+
+&lt;p&gt;Company members are trained, equipped and organized to the standards of the
+Nerathi military, or as close as Cormarrin can manage those. This means they
+also count plenty of battle mages among their number. Their magic specializes in
+controlling the pervasive mist of the Gray Downs, with a large side order of
+artifice (to get those recovered magic items working again) and necromancy (to
+get those old fallen heroes of Nerath working again).&lt;/p&gt;
+
+&lt;p&gt;Other chapters of the Gray Company have begun appearing in other regions of the
+Vale, each of them led by a self-proclaimed prince of old Nerath. If these
+groups all got together under one banner, they could become a formidable army
+with a real chance of achieving their goal… but they feud with each other as
+much or more as they fight their actual enemies, so their overall progress
+remains minimal. As some jokers say, this too is a grand Nerathi tradition.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Gray Company members are all in the late Heroic Tier, meaning they haven’t quite
+broken through to “regional power” status. All of the stat blocks here represent
+humans, which make up the majority of their soldiers.&lt;/p&gt;
+
+&lt;p&gt;Their signature trait is &lt;strong&gt;Grim Solidarity&lt;/strong&gt;. If someone with this trait starts
+their turn adjacent to another creature with this trait, they can make a saving
+throw against one effect that a save can end. All Company members have this,
+which means they’re difficult to debuff when in formation.&lt;/p&gt;
+
+&lt;h3 id=&quot;gray-company-recruit&quot;&gt;Gray Company Recruit&lt;/h3&gt;
+
+&lt;p&gt;Recruits joined relatively recent, so their training and gear is not yet up to
+the standards of the Company. They already have Grim Solidarity, though. They’re
+Level 7 Minion Artillery armed with &lt;strong&gt;short swords&lt;/strong&gt; and &lt;strong&gt;short bows&lt;/strong&gt;. If they
+score a critical hit, &lt;strong&gt;Inspired Fervor&lt;/strong&gt; lets them make a free basic attack
+against the same enemy with a +2 bonus to hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;gray-company-soldier&quot;&gt;Gray Company Soldier&lt;/h3&gt;
+
+&lt;p&gt;A veteran who earned the right to carry a sword of genuine Nerathi make. Armored
+in plate, he’s a Level 7 Soldier with 80 HP. His basic attack with that
+&lt;strong&gt;Ancient Longsword&lt;/strong&gt; has no riders, but whenever an adjacent enemy makes an
+attack that doesn’t include the veteran as a target, he can use &lt;strong&gt;Strike of the
+Ancient Blade&lt;/strong&gt; to make a free sword attack against them that also pushes the
+enemy and knocks it prone.&lt;/p&gt;
+
+&lt;p&gt;If an ally of the soldier drops to 0 HP within 5 squares of him, he can react
+&lt;strong&gt;For the Glory of Old Nerath&lt;/strong&gt; (encounter) and make an attack in a Close Burst
+1 that deals more damage than a basic strike and inflicts 5 ongoing damage (save
+ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;gray-company-fallen-hero&quot;&gt;Gray Company Fallen Hero&lt;/h3&gt;
+
+&lt;p&gt;Either an actual Nerathi soldier whose body was exhumed and reanimated, or a
+modern day Gray Company veteran who died in combat and was “re-upped” for a
+second term of service. In either case, this results in a sapient undead
+revenant who likely has no memory of its previous self. It’s a Level 6 Brute
+with 89 HP. It has Grim Solidarity, Darkvision and the standard undead traits
+(immune to poison and disease, resistant to necrotic, vulnerable to radiant).&lt;/p&gt;
+
+&lt;p&gt;The fallen hero’s &lt;strong&gt;Longsword&lt;/strong&gt; deals necrotic damage and inflicts Vulnerable 5
+Necrotic for a turn. It can invoke &lt;strong&gt;Nerath’s Vengeance&lt;/strong&gt; to make a sword attack
+against every adjacent enemy, and this recharges once it’s bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;halvath-cormarrin&quot;&gt;Halvath Cormarrin&lt;/h3&gt;
+
+&lt;p&gt;The leader of the Gray Company is a Level 8 Elite Brute with the Leader tag and
+214 HP. In addition to having Grim Solidarity, he can exhort his underlings to
+fight &lt;strong&gt;Until the Last Breath&lt;/strong&gt;, which acts as an Aura 5 that allows allies
+inside to make one last free attack when they drop to 0 HP.&lt;/p&gt;
+
+&lt;p&gt;Cormarrin wields an &lt;strong&gt;Ancient Rune Flail&lt;/strong&gt; and can make &lt;strong&gt;Double Attacks&lt;/strong&gt; with
+it. He can also use swing it around and have the &lt;strong&gt;Rune Flail’s Arc&lt;/strong&gt; attack
+everyone in a Close Burst 1. A hit deals the same damage as a basic attack,
+pushes the target 1 square, and knocks it prone. A miss deals half damage and
+pushes 1 square. Good move to escape being surrounded.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter, Cormarrin can use &lt;strong&gt;Cry of Glory&lt;/strong&gt; to turn a normal hit by
+an ally within 10 squares into a critical.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Like Dythan’s Legion, the Gray Company is a faction modeled after the army of a
+fallen empire whose main goal lies in the restoration of that empire. The Legion
+can more than match them man-for-man, but the Company probably has more
+soldiers, particularly if you tally all the different chapters together. They
+might skirmish near the shores of Lake Nen.&lt;/p&gt;
+
+&lt;p&gt;Other possible sources of conflict for the Company include the Barrowhaunts, who
+probably were Nerathi when alive, and also claim the Gray Downs as their
+territory. Other interesting monsters also make their home there, as we’ll soon
+see.&lt;/p&gt;
+
+&lt;p&gt;Ironically, if Dythan’s Legion ever decides the Gray Company is a threat that
+must be eliminated, the resulting large-scale confrontation is probably going to
+unite the Company’s disparate chapters around a common enemy and make that
+assessment into a self-fulfilling prophecy. As it is, I’m sure many of the
+Company’s “princes”, Cormarrin chief among them, would just love to hire the
+Gravelstoke family to help secure their claim as the true heir to
+Nerath. Whether the Family ever takes one of them up on the offer will depend on
+what you want for your campaign.&lt;/p&gt;
+
+&lt;p&gt;A truly unified Gray Company would finally become the regional power they want
+to be, and this might merit bumping their levels up to the Paragon tier. Do the
+PCs accept this new order, or to they fight it?&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Gravelstoke Family</title>
@@ -1819,143 +1984,6 @@ matter the size of the tribute they present her with.&lt;/p&gt;
         <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Cadaver Collector</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-cadaver-collector.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;I’m pretty sure I saw these in a 3e supplement somewhere, but there’s a nifty
-bonus stat block here that ties them to the Nentir Vale.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Cadaver Collectors are specialized constructs first built by ancient
-necromancers to provide them with a supply of corpses. Their metal-plated bodies
-are covered in long spikes that they use to impale collected corpses for
-transport and delivery. They were commonly sent to “clear” battlefields after a
-battle had ended.&lt;/p&gt;
-
-&lt;p&gt;Like many other constructs they’re pretty good at performing the job they were
-designed for and at following instructions related to it, but they can’t do
-anything else well. This is why no one sent them to fight in those battles. They
-only follow the orders of their current master, or those of a person who also
-serves that master.&lt;/p&gt;
-
-&lt;p&gt;The original recipe for cadaver collectors was repeatedly lost and rediscovered
-over the ages. No one in the Nentir Vale knows how to build one in our narrative
-present, but there are several old ones still around in the wild. Many of them
-are located somewhere within the Witchlight Fens, a swampy region in the
-south-central Vale.&lt;/p&gt;
-
-&lt;p&gt;When a collector’s master dies it will usually fulfill the last order it was
-given and then stand by waiting for more. If someone happens to die in their
-assigned area in the meantime, they will dutifully go out to collect the
-bodies. If someone manages to convince the collector they work for the
-collector’s master, the creature will obey their orders.&lt;/p&gt;
-
-&lt;p&gt;After enough time waiting for orders that never come, their programming might
-mutate a bit, giving them a bit more initiative. Some collectors decide to go
-looking for a new master to serve. Others decide to broaden their mission
-parameters and consider living creatures valid targets for collection.&lt;/p&gt;
-
-&lt;p&gt;There’s a hobgoblin necromancer named Gokof living in the Witchlight Fens who is
-unusually skilled at convincing ancient cadaver collectors to work for him. He’s
-nominally a member of the Daggerburg goblin tribe but spends most of his time
-away from them and in the company of his collectors and undead servants. He
-rarely has more than two collectors working for him at any one time, but never
-seems to have trouble finding more to replace them.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h3&gt;
-
-&lt;p&gt;We get two stat blocks here, one for a cadaver collector and one for Gokof.&lt;/p&gt;
-
-&lt;h3 id=&quot;cadaver-collector&quot;&gt;Cadaver Collector&lt;/h3&gt;
-
-&lt;p&gt;These constructs are Large Natural Animates and Level 9 Elite Soldiers with 200
-HP and a speed of 8. They’re immune to charm, disease, and poison, and have
-Resist Lightning 10. They are somewhat weak to thunder damage: whenever they
-take thunder damage, they become slowed (save ends).&lt;/p&gt;
-
-&lt;p&gt;Collectors attack with &lt;strong&gt;Slams&lt;/strong&gt; that deal physical damage and grab on a hit
-(escape DC 20). They can grab one Large creature or up to four Small creatures
-at once. As an elite it can perform &lt;strong&gt;Double Slams&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The collector can also spend its action to &lt;strong&gt;Impale&lt;/strong&gt; a grabbed creature. This
-deals massive damage, pulls them into the collector’s space, restrains them, and
-inflicts 10 ongoing damage (save ends all). When the collector moves, the
-creature is pulled along, and when the effect ends, the creature reappears in an
-adjacent space.&lt;/p&gt;
-
-&lt;p&gt;You might have noticed that there’s a limit to how many creatures a collector
-can &lt;em&gt;grab&lt;/em&gt;, but not to how many it can &lt;em&gt;impale&lt;/em&gt;. It’s not going to matter much
-in practice, because it’s highly unlikely a collector will impale the whole
-party at once. However, if it ever becomes relevant I’m inclined to say their
-impaling limit is the same as the one for grabs. A fully loaded collector would
-have four Medium cadavers impaled and another four grabbed. And would probably
-have more than the two arms depicted in the illustration.&lt;/p&gt;
-
-&lt;p&gt;Finally, the collector can &lt;strong&gt;Trample&lt;/strong&gt; once per encounter like the big chungus
-it is. The rules are as usual: it moves its speed and can cross enemy spaces
-while doing so, making an attack that deals heavy physical damage and knocks
-prone against every enemy whose space they cross.&lt;/p&gt;
-
-&lt;p&gt;Collectors fight by pretty much applying their programming to the PCs. Grab
-impale, repeat. When fully loaded, trample to retreat.&lt;/p&gt;
-
-&lt;h3 id=&quot;gokof-hobgoblin-necromancer&quot;&gt;Gokof, Hobgoblin Necromancer&lt;/h3&gt;
-
-&lt;p&gt;Gokof is a Level 9 Controller (Leader). He has speed 6 and low-light vision from
-being a hobgoblin. He wields a &lt;strong&gt;Staff&lt;/strong&gt; as both weapon and implement, and has
-an array of necromantic spells at his disposal.&lt;/p&gt;
-
-&lt;p&gt;His basic ranged attack is a &lt;strong&gt;Necrotic Ray&lt;/strong&gt; that deals necrotic damage on a
-hit and slows for a turn as an effect. Anything that happens “as an effect”
-always happens, regardless of whether the attack hits or not! Less often
-(recharge 5+) he can cast &lt;strong&gt;Sapping Tendrils&lt;/strong&gt; as a ranged area attack. This is
-not selective, and on a hit it deals necrotic damage, immobilizes, and inflicts
-ongoing necrotic damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;Instead of casting a spell, Gokof can use &lt;strong&gt;Command Animate&lt;/strong&gt; to order an
-animate ally to make a melee basic attack as a free action. Cadaver collectors
-are animates, of course, and so are a lot of undead.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, when an enemy within 5 squares of Gokof regains HP, the
-necromancer can use &lt;strong&gt;Dark Healing&lt;/strong&gt; to automatically deal them a chunk of
-necrotic damage and recover 24 HP himself.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;If you think about it, the existence of cadaver collectors shows that necromancy
-in D&amp;amp;D requires an ideological commitment to the spread of undeath. These
-constructs are more powerful and have a less ethically questionable nature than
-most “servant” undead. They also take more skill to build, but their original
-builders clearly &lt;em&gt;had&lt;/em&gt; that skill. And yet chose to task their constructs with
-collecting corpses for turning into zombies.&lt;/p&gt;
-
-&lt;p&gt;I like the addition of Gokof to this entry. It helps establish a concrete
-situation where cadaver collectors appear in the Nentir Vale. It’s also an
-example of how a less “ideological” necromancer would come to control these
-creatures. This is more than even most other setting-specific monster books
-do. Those usually just say “these monsters exist in this setting”.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/11/cadaver-collector.html</guid>
         
         <category>dnd4</category>
         
