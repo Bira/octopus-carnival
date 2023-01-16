@@ -160,12 +160,16 @@ of it.
 ## Final Impressions
 
 A nice implementation of the classic concept of angry druids, with a
-surprisingly low amount of entangling vine effects in play. They're extremists
-even by typical guardian druid standards, so even nature-attuned PCs might get
-into conflict with them.
+surprisingly low amount of entangling vine effects in play. They're extremists,
+so even nature-attuned PCs might get into conflict with them. The identity of
+the Hierophant being left as an exercise for the reader makes it easy to play
+stories where a hard-liner Hierophant gets replaced by a moderate or vice-versa,
+causing a sudden switch in the circle's campaign role.
 
 The Winterbole-Harken treant war is an important setting element that will
 appear here again. It affects not only the treants themselves but also factions
 allied to both sides. On the Winterbole side, open war is certain to bring the
 Frost Witches into the conflict, and either them or the Winterbole treants
 themselves might contrive a way to bring Bitterstrike in.
+
+[1]: {{ "/projects/tnv/" | relative_url }}

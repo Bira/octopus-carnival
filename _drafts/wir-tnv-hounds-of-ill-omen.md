@@ -6,7 +6,7 @@ tags:
     - lets-read
 ---
 
- We've already seen a bit of the history of the region known as the Gray Downs
+We've already seen a bit of the history of the region known as the Gray Downs
 in other entries, for the [Barrowhaunts][2] and the [Gray Company][3]. The first
 tells us it was home to ancient hill clans, and the second tells us it's also
 full of Nerathi ruins. This entry provides the missing link.
@@ -32,24 +32,24 @@ hills looking to inflict revenge on their killers. This only stopped when the
 Nerathi built a great barrow to honor the fallen. When the last body was buried,
 the hounds vanished... mostly. In those those dark nights when the moon looms
 large in the sky and the gray fog rises over the hills, they emerge to hunt
-again. Present-day inhabitants of the Vale call them "Hounds of Ill Omen".
+again. Present-day inhabitants of the Vale call them "Hounds of Ill Omen",
+because of the manner in which they hunt.
 
-No one knows _why_ the hounds hunt, but the _how_ is what gave them their
-current name. A hound will appear to its intended victim and let loose a baleful
-howl before vanishing into the fog again. From that point onwards, misfortune
-will plague the victim in everything they do. As calamity follows calamity, the
-victim flees in search of anyone who can help. Some believe that begging the
-gods or even the hounds themselves can save one from death. Most end up caught
-by the hound after suffering enough, and dragged beneath the earth to the
-barrows where the hounds' masters can feast on the poor soul.
+A hound will appear to its intended victim and let loose a baleful howl before
+vanishing into the fog again. From that point onwards, misfortune will plague
+the victim in everything they do. As calamity follows calamity, the victim flees
+in search of anyone who can help. Some believe that begging the gods or even the
+hounds themselves can save one from death. Most end up caught by the hound after
+suffering enough, and dragged beneath the earth to the barrows where the hounds'
+masters can feast on the poor soul.
 
 Sometimes a howl will echo over the hills, louder and longer than any
 other. That's the voice of Bregga, their alpha female, an enormous hound who is
 rumored to have walked the hills even before the hill folk lived here. The same
 rumors and legends say she can see into the hearts of mortals, and sends her
 children to hunt the unjust, possibly seeking retribution for the sins of
-Nerath. When she hows, she calls her children to raise their masters so that all
-can hunt together.
+Nerath. When she howls, she calls her children to raise their masters so that
+all can hunt together.
 
 ## The Numbers
 
