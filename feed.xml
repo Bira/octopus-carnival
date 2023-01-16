@@ -6,9 +6,187 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jan 2023 14:30:18 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Jan 2023 14:30:18 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Jan 2023 19:07:56 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Jan 2023 19:07:56 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Harken's Heart</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-harkens-heart.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This vast Harken Forest takes up the entirety of the Vale’s southern border,
+and sprawls northward to completely enclose the barony of Harkenwold. It used to
+be even vaster, but successive waves of settlers cut it down some, just like it
+happened with the northern Winterbole forest.&lt;/p&gt;
+
+&lt;p&gt;This place is home to many creatures and dangers, though its temperate climate
+means their character is very different from the frost-aspected Winterbole. This
+article looks at one of its most important factions.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Vale’s first elves came to live here shortly after their people split from
+the Eladrin, settling in the Harken Forest. A group of these elves grew
+fascinated with the primal power of the forest, and formed a group they called
+Harken’s Heart to worship and protect it.&lt;/p&gt;
+
+&lt;p&gt;Harken’s Heart differs from a typical druidic circle in that they consider
+themselves to have a duty to &lt;em&gt;Harken Forest&lt;/em&gt; as opposed to a more general duty
+to the balance of nature. Their interpretation of what constitutes an attack on
+the forest is paradoxically much broader than that of a typical druid
+circle. When war broke out between the treants of Harken and Winterbole forests,
+Harken’s Heart eagerly joined battle on the side of their “home team”, and
+behaved in such a ruthless and violent manner during the war that it shocked the
+independent druids who also lived there. In response to the circle’s behavior, a
+powerful independent druid named Eyton cast a curse upon the whole circle. The
+curse severed their connection to the primal spirits and left them powerless.&lt;/p&gt;
+
+&lt;p&gt;The druids of Harken’s Heart were dismayed and enraged at this, but their
+weakened state and their fear of Eyton’s power prevented them from taking direct
+revenge. Instead, they appealed to Melora, goddess of nature, and asked her to
+restore their power.&lt;/p&gt;
+
+&lt;p&gt;The deity decided to only grant part of their request, for her own mysterious
+reasons. Today, the druids of Harken’s Heart enjoy the full extent of their
+power while inside the borders of the forest. This power quickly wanes and
+disappears once they leave its confines.&lt;/p&gt;
+
+&lt;p&gt;In our narrative present, Harken’s Heart is made up of several hundred members,
+most of which were born into the circle and raised within its culture. They live
+in small camps scattered all through the forest, with some of them choosing to
+live alone. Their important structures are made of trees woven together by
+magic, and are hidden behind natural obstacles and features in the forest.&lt;/p&gt;
+
+&lt;p&gt;The leader of Harken’s Heart is known as The Hierophant, and is the group’s top
+negotiator, judge, arbiter and policymaker. Hierophants rule for life, and
+appoint their chosen successors. If one dies without a successor, the remaining
+druids hold an election to choose the next Hierophant.&lt;/p&gt;
+
+&lt;p&gt;Some Harken’s Heart druids look for a way to end the curse, while others instead
+look for a way to expand the boundaries of the forest. The Harken treants are
+very interested in this as well, and it’s rumored that they’re planning a huge
+land grab in the near future.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get several stat blocks for different types of elven druids here. As elves,
+they all have low-light vision and the Wild Step ability, which lets them ignore
+difficult terrain when shifting. As druids, they all have Forest Walk and can
+&lt;strong&gt;Change Shape&lt;/strong&gt; as a minor action take the form of a beast until they use the
+power again or until they die. Some of their attacks can only be used in beast
+form, some only in elf form.&lt;/p&gt;
+
+&lt;h3 id=&quot;harkens-heart-acolyte&quot;&gt;Harken’s Heart Acolyte&lt;/h3&gt;
+
+&lt;p&gt;A young elf who is still undergoing basic training, the Acolyte is a Level 7
+Minion Skirmisher that already has all the common traits above. It fights with a
+&lt;strong&gt;Quarterstaff&lt;/strong&gt; in elf form, and with a &lt;strong&gt;Claw&lt;/strong&gt; in beast form. The claw attack
+is stronger and allows them to shift 1 square before or after the attack.&lt;/p&gt;
+
+&lt;p&gt;Acolytes have every reason to always fight as beasts.&lt;/p&gt;
+
+&lt;h3 id=&quot;harkens-heart-druid&quot;&gt;Harken’s Heart Druid&lt;/h3&gt;
+
+&lt;p&gt;A fully trained druid. This one’s a Level 7 Controller with 78 HP.&lt;/p&gt;
+
+&lt;p&gt;In elf form, the druid fights with a &lt;strong&gt;Quarterstaff&lt;/strong&gt; and can cast a &lt;strong&gt;Wall of
+Thorns&lt;/strong&gt; spell. As the name implies this is one of the very few monster attacks
+that uses the Wall rules. Creatures caught in the wall when it appears take some
+immediate and ongoing physical damage (save ends). The wall remains as a zone
+that counts as difficult terrain for creatures without Forest Walk. Any of these
+who enters the zone or ends their turn there also takes 5 damage. The spell
+recharges when the druid is bloodied.&lt;/p&gt;
+
+&lt;p&gt;In beast form the druid attacks with a &lt;strong&gt;Lunge&lt;/strong&gt; that deals the same damage as
+the quarterstaff and lets them slide the target 2 squares as an effect.&lt;/p&gt;
+
+&lt;p&gt;In either form the druid can use &lt;strong&gt;Entangle&lt;/strong&gt;, a non-damaging ranged spell that
+immobilizes (save ends).&lt;/p&gt;
+
+&lt;p&gt;Druids have more reason to change shape mid-fight. The beast form’s basic attack
+is better, but their big spell requires them to be in humanoid form.&lt;/p&gt;
+
+&lt;h3 id=&quot;harkens-heart-defender&quot;&gt;Harken’s Heart Defender&lt;/h3&gt;
+
+&lt;p&gt;Defenders are elite druids who are the first to confront any threats to the
+forest. They’re also responsible for training the acolytes. Defenders are Level
+9 Soldiers with 95 HP.&lt;/p&gt;
+
+&lt;p&gt;They have a &lt;strong&gt;Quarterstaff&lt;/strong&gt; basic attack when in humanoid form, but all of
+their cool maneuvers happen in beast form.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Mangle&lt;/strong&gt; basic attack damages and slows for a turn. They can use a
+&lt;strong&gt;Primal Flurry&lt;/strong&gt; that attacks enemies in a Close Burst 1 for the same amount of
+damage and knocks them prone on a hit. If those enemies try to stand up during
+their next turn, the defender gets to make a free basic attack against them. A
+miss deals half damage and knocks prone without the possibility of a free
+attack. This recharges once the defender is bloodied.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can use &lt;strong&gt;Beast’s Pursuit&lt;/strong&gt; as a move action, shifting
+their speed to a space adjacent to an enemy and gaining a +2 to hit until the
+end of their current turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;harkens-heart-hierophant&quot;&gt;Harken’s Heart Hierophant&lt;/h3&gt;
+
+&lt;p&gt;This entry doesn’t give a specific name and personality to the current
+Hierophant, so you’re free to do that yourself to fit your current
+campaign. These stats work whatever their personality is, and can also be
+repurposed to represent other high-ranking Harken’s Heart druids.&lt;/p&gt;
+
+&lt;p&gt;The Hierophant is Level 10 Elite Artillery with the Leader tag and 166
+HP. Unlike other druids, its best powers can only be used in humanoid form.&lt;/p&gt;
+
+&lt;p&gt;Their only basic attack is the &lt;strong&gt;Quarterstaff&lt;/strong&gt;. At range they can attack with
+&lt;strong&gt;Earth Slam&lt;/strong&gt; spells, which deal physical damage and can knock the target prone
+on a critical hit. They can also cast &lt;strong&gt;Lightning Storm&lt;/strong&gt; spells (recharge 5+)
+which attack an area, deal heavy lightning damage, inflict ongoing thunder
+damage, and create a zone that deals lightning damage to those caught
+inside. Quite powerful!&lt;/p&gt;
+
+&lt;p&gt;The beast form is reserved for when the Hierophant is surrounded and needs to
+make a &lt;strong&gt;Frenzied Escape&lt;/strong&gt;. This attacks enemies in a Close Burst 1, deals heavy
+immediate and ongoing physical damage, and lets the druid shift its speed to a
+space not adjacent to any enemies, gaining +4 to all defenses during this
+movement (in order to dodge PC defender attacks).&lt;/p&gt;
+
+&lt;p&gt;Finally, the &lt;strong&gt;Guardian of the Forest&lt;/strong&gt; minor action can be used in any
+form. This non-damaging attack has a range of 20 squares, and on a hit it makes
+the target be marked by an ally of the Hierophant that’s also within 20 squares
+of it.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;A nice implementation of the classic concept of angry druids, with a
+surprisingly low amount of entangling vine effects in play. They’re extremists,
+so even nature-attuned PCs might get into conflict with them. The identity of
+the Hierophant being left as an exercise for the reader makes it easy to play
+stories where a hard-liner Hierophant gets replaced by a moderate or vice-versa,
+causing a sudden switch in the circle’s campaign role.&lt;/p&gt;
+
+&lt;p&gt;The Winterbole-Harken treant war is an important setting element that will
+appear here again. It affects not only the treants themselves but also factions
+allied to both sides. On the Winterbole side, open war is certain to bring the
+Frost Witches into the conflict, and either them or the Winterbole treants
+themselves might contrive a way to bring Bitterstrike in.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/16/harkens-heart.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/16/harkens-heart.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Gray Company</title>
@@ -1862,151 +2040,6 @@ half-breeds” thing, but I intend to change this if I ever use them in a game.&
         <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/16/clan-bloodspear.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/16/clan-bloodspear.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Calastryx</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-calastryx.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;When someone in the Nentir Vale points behind you and shouts “Look out, a
-three-headed dragon!” you should &lt;em&gt;always look&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;I mentioned in earlier posts that the Vale was first settled by people from
-Nerath about three hundred years ago, and that the first area they settled is
-now known as the Old Hills.&lt;/p&gt;
-
-&lt;p&gt;What we hadn’t learned yet was that this settlement process was far from
-peaceful. Back then, the Dawnforge mountains that make up the Vale’s eastern
-border were home to a small community of chromatic dragons who considered all
-they saw to be their domain. The first few attempts by human settlers to build
-villages in the Old Hills were thwarted by dragon attacks, with great loss of
-life and material.&lt;/p&gt;
-
-&lt;p&gt;It was only when the settlers asked the dwarves for help that they succeeded in
-establishing a foothold. The next wave came accompanied by a sizable dwarven
-military force, which was quick to build the fortress of Hammerfast and use it
-as a base to fight off the dragons. It didn’t take long for them to meet the
-creature that was ultimately behind these attacks: Calastryx, the three-headed
-red dragon.&lt;/p&gt;
-
-&lt;p&gt;Calastryx was too powerful for even the dwarven army to defeat, but they gave
-the wizard Starris enough time to cast a curse upon the dragon, placing her in a
-slumber that was supposed to be eternal. This allowed Nerath to finally settle
-the Vale, and Hammerfast to eventually grow into one of its major cities. To
-this day, no one knows the dragon’s history or why she has three heads. Does she
-suffer from a genetic or magical mutation? Is she the creation of a cruel god or
-of some other entity? Answers are thin on the ground, but your PCs just might
-get the chance to ask her.&lt;/p&gt;
-
-&lt;p&gt;You see, that curse held strong for three centuries but it’s starting to
-weaken. It’s possible Calastryx will awaken in the near future. The region of
-the Dawnforge mountains where her lair used to be is currently inhabited by the
-Emberdark kobold tribe, who have their own share of historical beefs with the
-Hammerfast dwarves. Their priests have begun receiving visions from Kurtulmak,
-one of Tiamat’s Exarchs, speaking of Calastryx’s imminent awakening. The kobolds
-have starting raiding nearby travelers and settlements with the aim of
-gathering a treasure trove they’ll use to bribe their future mistress into
-accepting their loyalty. You can already see some of their warriors wearing
-shoulder pads that mimic extra heads, in honor of Calastryx.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The star of the show here is clearly Calastryx, but we also get a stat block for
-an Emberdark-specific kobold that you can mix in with the standard kobold stat
-blocks.&lt;/p&gt;
-
-&lt;h3 id=&quot;emberdark-kobold-pillager&quot;&gt;Emberdark Kobold Pillager&lt;/h3&gt;
-
-&lt;p&gt;Apparently the Emberdark are pretty fond of fire, because this kobold here is
-something of a fire-themed paladin of Tiamat. It’s a Level 4 Soldier with 55 HP
-which, given the usual kobold level range, makes it one of their most powerful
-champions. It has Speed 6 and Darkvision.&lt;/p&gt;
-
-&lt;p&gt;The pillager fights with a &lt;strong&gt;Flamebiter Spear&lt;/strong&gt; that deals fire damage, marks
-for a turn, and makes it so targets that ignore the mark take 5 fire
-damage. They can also cast &lt;strong&gt;Fire Dart&lt;/strong&gt; spells that do fire damage and mark for
-a turn, though they don’t have a “punisher” rider attached to them.&lt;/p&gt;
-
-&lt;p&gt;When the pillager hits 0 HP, it goes out in a &lt;strong&gt;Blaze of Glory&lt;/strong&gt;, making one
-final spear attack as a free action.&lt;/p&gt;
-
-&lt;p&gt;I would probably turn the “take fire damage if you ignore the mark” rider from
-the spear into a trait that applies to both attacks, because things can get
-fiddly if you have to remember if a mark from the pillager has it or not.&lt;/p&gt;
-
-&lt;h3 id=&quot;calastryx&quot;&gt;Calastryx&lt;/h3&gt;
-
-&lt;p&gt;Our star is a Huge Natural Magical Beast (Dragon) and a Level 14 Solo Brute with
-684 HP. Level-wise she’s an adult red, but her actual stats differ quite heavily
-from the standard dragon template.&lt;/p&gt;
-
-&lt;p&gt;She still has the standard draconic &lt;strong&gt;Action Recovery&lt;/strong&gt; trait that ends any
-dazing, stunning or dominating effect on her at the end of her turn. The new bit
-here is that her &lt;strong&gt;Multiple Heads&lt;/strong&gt; give her &lt;em&gt;three&lt;/em&gt; turns per round, at fixed
-initiative counts of 30, 20, and 10. The only limitation here is that she cannot
-delay or ready actions (something monsters rarely do in my experience) and she
-only has one set of immediate actions between these turns.&lt;/p&gt;
-
-&lt;p&gt;Her Reach 3 &lt;strong&gt;bites&lt;/strong&gt; damage and slide 3 squares. Her &lt;strong&gt;Breath Weapon&lt;/strong&gt;
-(recharge 6+) does light fire damage, half on a miss, and creates a damaging
-fire zone for a turn. She can also fire single-target &lt;strong&gt;Inferno Shots&lt;/strong&gt; at will
-to deal heavy fire damage. Finally, &lt;strong&gt;Rip and Tear&lt;/strong&gt; is an encounter power that
-allows her to bite up to three targets for slightly less damage than the basic
-bite.&lt;/p&gt;
-
-&lt;p&gt;These actions seem a little weak, and they indeed are, fit more for a regular
-monster than a solo. But remember that Calastryx get three full turns per round
-to use them in. Each of her heads has a fully independent mind and they’re in
-perfect coordination. The &lt;strong&gt;Power of Three&lt;/strong&gt; means each of them tracks their
-Breath Weapon and Rip and Tear powers separately. So she actually gets three
-uses of Rip and Tear per encounter, and three independently recharging uses of
-her breath weapon.&lt;/p&gt;
-
-&lt;p&gt;Once she is first bloodied, Calastryx immediately grows a &lt;em&gt;fourth&lt;/em&gt; head, which
-from then on acts on initiative 40 with its own independently tracked breath
-weapon and encounter power.&lt;/p&gt;
-
-&lt;p&gt;Calastryx might be much more wrathful than your typical red dragon, but she’s
-still very smart. She will fight the PCs in places where she can herd them into
-tight spaces to ensure they’re all hit by her breath weapons and bites.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Calastryx shows us how far we can stretch the mechanics and still end up with
-something that feels like a dragon, and I love her for it. Story-wise she’s
-pretty much your standard slumbering kaiju. She could be an awesome final boss
-for a campaign that ends at level 10, or a memorable “welcoming gift” for PCs
-who just made it to paragon tier.&lt;/p&gt;
-
-&lt;p&gt;A lengthier campaign focusing on Calastryx could present the threat of her
-awakening early, and have its early conflicts be against the Emberdark
-kobolds. It might even be possible to reach a diplomatic resolution with them
-and get them onboard as allies against Calastryx when she finally awakens. I
-mean, your typical dragon already doesn’t have a great track record of treating
-its kobold lackeys very well, and Calastryx is even less inclined to do so no
-matter the size of the tribute they present her with.&lt;/p&gt;
-
-&lt;!--  LocalWords:  Starris
- --&gt;
-</description>
-        <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/13/calastryx.html</guid>
         
         <category>dnd4</category>
         
