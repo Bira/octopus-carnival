@@ -29,9 +29,9 @@ article looks at one of its most important factions.
 ## The Lore
 
 The Vale's first elves came to live here shortly after their people split from
-the Eladrin, settling in the Harken Forest. A group of these elves grew
-fascinated with the primal power of the forest, and formed a group they called
-Harken's Heart to worship and protect it.
+the Eladrin, settling in the Harken Forest. Some of these elves grew fascinated
+with the primal power of the forest, and formed a group they called Harken's
+Heart to worship and protect it.
 
 Harken's Heart differs from a typical druidic circle in that they consider
 themselves to have a duty to _Harken Forest_ as opposed to a more general duty
