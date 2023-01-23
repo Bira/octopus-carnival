@@ -6,9 +6,173 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jan 2023 17:59:26 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2023 17:59:26 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Jan 2023 18:03:47 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2023 18:03:47 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Hounds of Ill Omen</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-hounds-of-ill-omen.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;We’ve already seen a bit of the history of the region known as the Gray Downs
+in other entries, for the [Barrowhaunts][2] and the [Gray Company][3]. The first
+tells us it was home to ancient hill clans, and the second tells us it’s also
+full of Nerathi ruins. This entry provides the missing link.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The hill folk who once lived in the Gray Downs were one of the Vale’s indigenous
+peoples, which means they’ve been here since before recorded history. Now,
+recorded history isn’t very expansive on our setting, but even if they’re not
+&lt;em&gt;that&lt;/em&gt; ancient, the fact is they were already living here when the first Nerathi
+expeditions arrived. In their heyday, these hill clans were famous for their
+formidable hounds, used in both hunting and warfare.&lt;/p&gt;
+
+&lt;p&gt;Nerath acted in the predictable manner of all empires, and waged war on the hill
+folk to annex their land. They soon found themselves fighting a determined
+opponent, who stayed and fought even after other people such as the Tigerclaw
+decided to flee to the frigid wilderness north of the Vale. In the end, though
+numbers won out and the hill folk where mostly annihilated.&lt;/p&gt;
+
+&lt;p&gt;Their hounds, however, were far too loyal to let a little thing like death stop
+them. They stood guard besides the corpses of their masters, and roamed the
+hills looking to inflict revenge on their killers. This only stopped when the
+Nerathi built a great barrow to honor the fallen. When the last body was buried,
+the hounds vanished… mostly. In those those dark nights when the moon looms
+large in the sky and the gray fog rises over the hills, they emerge to hunt
+again. Present-day inhabitants of the Vale call them “Hounds of Ill Omen”,
+because of the manner in which they hunt.&lt;/p&gt;
+
+&lt;p&gt;A hound will appear to its intended victim and let loose a baleful howl before
+vanishing into the fog again. From that point onwards, misfortune will plague
+the victim in everything they do. As calamity follows calamity, the victim flees
+in search of anyone who can help. Some believe that begging the gods or even the
+hounds themselves can save one from death. Most end up caught by the hound after
+suffering enough, and dragged beneath the earth to the barrows where the hounds’
+masters can feast on the poor soul.&lt;/p&gt;
+
+&lt;p&gt;Sometimes a howl will echo over the hills, louder and longer than any
+other. That’s the voice of Bregga, their alpha female, an enormous hound who is
+rumored to have walked the hills even before the hill folk lived here. The same
+rumors and legends say she can see into the hearts of mortals, and sends her
+children to hunt the unjust, possibly seeking retribution for the sins of
+Nerath. When she howls, she calls her children to raise their masters so that
+all can hunt together.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats for a typical hound, for Bregga, and for a sample hill folk shade
+of the sort the hounds can rouse.&lt;/p&gt;
+
+&lt;h3 id=&quot;hound-of-ill-omen&quot;&gt;Hound of Ill Omen&lt;/h3&gt;
+
+&lt;p&gt;The typical Hound is a Medium Shadow Beast (Undead) and a Level 7 Soldier with
+80 HP. It has Darkvision and a Speed of 8, which means it always catches
+you. It’s a ghost, so it’s immune to disease and poison and has both
+Insubstantial and Phasing.&lt;/p&gt;
+
+&lt;p&gt;The Hound’s version of &lt;strong&gt;Insubstantial&lt;/strong&gt; makes it take half damage from all
+attacks except those that deal force or radiant damage. And if it takes radiant
+damage, the trait shuts down until the end of its next turn. It also projects an
+&lt;strong&gt;Aura of Ill Omen&lt;/strong&gt; (2). If an enemy inside the aura spends a healing surge,
+they become slowed for a turn.&lt;/p&gt;
+
+&lt;p&gt;As with any dog monster, its primary attack is a &lt;strong&gt;Bite&lt;/strong&gt;, which damages and
+marks for a turn. It a marked enemy willingly moves away from the hound, it can
+use &lt;strong&gt;Howl of the Pack&lt;/strong&gt; as an interrupt. This targets the Fortitude of the
+triggering enemy. On a hit it deals thunder damage and makes the target grant
+combat advantage for a turn. Pretty nasty if you have other monsters in play who
+can exploit that.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the hound can use a &lt;strong&gt;Howl of Doom&lt;/strong&gt;, a selective Close Blast
+5 which targets Will, deals thunder damage, and inflicts the curse for which the
+hound is named. Cursed targets take 3 psychic damage whenever they miss every
+target with an attack. At the end of each extended rest the target can make a DC
+16 Religion check to get rid of the curse. After the first failed check, the
+damage increases to 6. After the second, it increases to 9. And after the third
+the target dies.&lt;/p&gt;
+
+&lt;p&gt;Now, this kinda reminds me of the disease mechanics, but it’s a different
+thing. Going with the strict reading most 4e monster powers demand, the Religion
+check must be made by the &lt;em&gt;target&lt;/em&gt; and no one else. I suppose allies can help
+using Aid Another, but they can’t make the check for the victim. Remove
+Affliction &lt;em&gt;does&lt;/em&gt; work on it, since its description says it works on curses, but
+there’s a chance the party might not have access to it yet since it’s a level 8
+ritual. This curse is particularly horrible to non-divine defenders and
+strikers, since most of their attacks are single-target and they are unlikely to
+be trained in Religion or have Int as their highest attribute.&lt;/p&gt;
+
+&lt;h3 id=&quot;bregga&quot;&gt;Bregga&lt;/h3&gt;
+
+&lt;p&gt;Some legends say Bregga lived in the Gray Downs since before even the hill folk
+arrived here. Her ghost is the leader of all the Hounds of Ill Omen, and some of
+those Religion checks are made as prayers to her to pretty please remove the
+curse, thank you very much.&lt;/p&gt;
+
+&lt;p&gt;Bregga is a Large Shadow Beast (Undead) and has all the same traits as a regular
+Hound, including her Insubstantial and Aura of Ill Omen. She is a Level 10 Elite
+Skirmisher with 212 HP.&lt;/p&gt;
+
+&lt;p&gt;Her basic &lt;strong&gt;bite&lt;/strong&gt; damages with no riders, and she can also use a &lt;strong&gt;Clamping
+Bite&lt;/strong&gt; that deals the same damage and allows her to shift half her speed while
+pulling the target along with her. &lt;strong&gt;Drag and Snap&lt;/strong&gt; lets her use Clamping Bite
+and Bite against the same target, in that order. Her &lt;strong&gt;How of Doom&lt;/strong&gt; works the
+same, but with higher base damage and a Religion DC of 18.&lt;/p&gt;
+
+&lt;p&gt;As a move action she can use &lt;strong&gt;Ghostly Travel&lt;/strong&gt; to become invisible and move her
+speed, remaining invisible until the end of her turn. This recharges when she is
+first bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;hill-clan-apparition&quot;&gt;Hill Clan Apparition&lt;/h3&gt;
+
+&lt;p&gt;The shade of a warrior from the ancient hill clans, raised from its grave by the
+howl of its faithful hounds. It’s a Level 8 Minion Soldier with ground and
+flight speeds of 6, immunity to disease and poison, and Resist 10 Necrotic.&lt;/p&gt;
+
+&lt;p&gt;The apparition is surrounded by the &lt;strong&gt;Chill of the Grave&lt;/strong&gt;, slowing any enemy
+that starts their turn adjacent to it. Its basic attack is a &lt;strong&gt;Shadow Blade&lt;/strong&gt;
+dealing physical damage, and it can shout a &lt;strong&gt;Call of the Dead&lt;/strong&gt; as a ranged
+attack to deal a bit of psychic damage and pull the target up to 4 squares.&lt;/p&gt;
+
+&lt;p&gt;They’re minions, so you’ll always run into a small army of them. Their main goal
+is to disrupt the PC’s formation and bring their squishies closer to the much
+more dangerous hounds.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;As far as dog monsters go, these are pretty nifty. The lore tying them to the
+Nentir Vale setting really makes them stand out from the pack, so to speak. The
+Gray Downs where these hounds live also contain other monsters that interact
+with them in interesting ways.&lt;/p&gt;
+
+&lt;p&gt;They might end up helping the Barrowhaunts, since the latter are cursed to
+protect the barrows from outsiders. The Barrowhaunts entry even contains a few
+more minion stat blocks that could represent variant hill folk shades.&lt;/p&gt;
+
+&lt;p&gt;Another group that calls the Downs home is Gray Company, which the hounds would
+&lt;em&gt;absolutely hate&lt;/em&gt;, since they claim a direct descent from the people responsible
+for slaying their masters. Hound and Barrowhaunt attacks might be one reason why
+Gray Company is having a hard time progressing towards their goal of rebuilding
+the empire of Nerath.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/23/hounds-of-ill-omen.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/23/hounds-of-ill-omen.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Harken's Heart</title>
@@ -1765,281 +1929,6 @@ entries later on.&lt;/p&gt;
         <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/20/daggerburg-goblins.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/20/daggerburg-goblins.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Clan Bloodspear</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is an original entry about a specific group of antagonists.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Clan Bloodspear is a large clan of orcs who make their home in the Stonemarch, a
-desolate region to the northwest of the Nentir Vale, separated from it by the
-Cairngorm Peaks. From what I understand, they’re pretty well adapted to it and
-don’t really need to raid their neighbors for resources. However, Gruumsh still
-exerts his divine influence to make sure they form a huge horde and ravage the
-surrounding lands about once every century.&lt;/p&gt;
-
-&lt;p&gt;The clan was founded by the eponymous King Bloodspear, who in the distant past
-slew the elder dragon Kulkozsar in single combat and made a throne of his
-skull. The glory from his deed attracted many followers, and they made the
-dragon’s former lair into an entire underground city that kept being expanded
-and improved over time. In our narrative present it includes multiple forges,
-arenas, and slave pens. Their technology and production base is significantly
-higher than that of other orc clans, though they still rely on slave labor to
-power a lot of it.&lt;/p&gt;
-
-&lt;p&gt;The last time the Bloodspear marched forth was ninety years ago, when they
-attacked Nentir Vale and practically erased the civilizations within it. The
-land and its inhabitants have yet to fully recover from that attack, and yet it
-seems they’re getting ready to do it again. Gruumsh has selected a new champion
-among the Bloodspear, and that champion is hard at work in forging them into an
-invading army.&lt;/p&gt;
-
-&lt;p&gt;In an uncharacteristic move for the patriarchal Bloodspear, this new champion is
-a woman: Queen Msuga. She’s an extremely formidable warrior and general, and has
-defeated enough challengers to her legitimacy that all of them now accept her
-rule. Msuga is always accompanied by her sister Rohka, who is also known as the
-Blood Witch. As a high priest of Gruumsh, she commands vast mystical powers
-despite her withered body. Some rumors say Rohka is the true power behind the
-throne and Msuga is just a puppet. Whatever the truth is, it’s clear the two
-sisters are united in purpose.&lt;/p&gt;
-
-&lt;p&gt;And this purpose is an ambitious one: the sisters are preparing not to simply
-raid the Nentir Vale, but to conquer and annex it as part of their nascent
-Bloodspear Empire.&lt;/p&gt;
-
-&lt;p&gt;In addition to their powerful leaders and their large numbers of combat-ready
-orcs, Clan Bloodspear also contains a small but significant percentage of
-individuals of mixed orc and troll or ogre descent. The book described this as a
-“breeding program” overseen by Rohka and calls the results “vile half-breeds”,
-but I don’t like this language at all and would probably explain it as a natural
-consequence of them sharing space with ogres and trolls over on the Stonemarch.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Clan Bloodspear would mostly be made up of orcs fitting the standard profiles
-listed on the Monster Vault, but they also have some combat traditions that are
-unique to them. We also get stat blocks for the half-troll and half-ogre
-(ogrillon) members of the clan. You could conceivably add full-blooded ogres and
-trolls to their numbers as well.&lt;/p&gt;
-
-&lt;p&gt;As a reminder, orcs are Medium Natural Humanoids with a speed of 6 and Low-light
-vision. Their signature trait is &lt;strong&gt;Savage Demise&lt;/strong&gt;, which lets them take a
-standard action for free when they hit 0 HP. Some of the stat blocks here play
-with that standard template a bit, and I’ll point out when they do so.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-grenadier&quot;&gt;Bloodspear Grenadier&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-grenadier.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The Bloodspear like their explosives! Grenadiers are Level 4 Artillery with 44
-HP. They carry 2 &lt;strong&gt;handaxes&lt;/strong&gt; to fight in melee or to throw, and 4 &lt;strong&gt;fire
-bombs&lt;/strong&gt; that act as area burst 1 attacks and deal fire damage. Once per
-encounter when an enemy ends their movement adjacent to the grenadier, they can
-shift 2 squares and drop a load of &lt;strong&gt;caltrops&lt;/strong&gt; in a close blast 3 pattern. This
-creates a zone that damages anyone who enters it or ends its turn inside.&lt;/p&gt;
-
-&lt;p&gt;Grenadiers replace Savage Demise with &lt;strong&gt;Blazing Fury&lt;/strong&gt;, which deals 5 fire
-damage to all adjacent creatures and lets them throw a fire bomb for free.&lt;/p&gt;
-
-&lt;p&gt;I guess if these grenadiers manage to use up all of their ammo, they’ll
-probably retreat from the fight, since the Bloodspear are supposed to be a
-well-coordinated and more disciplined force than your standard orc band. You
-might want to add a feature like a supply cart to the battlefield that would
-allow them to reload, and would also be very flammable.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-krull&quot;&gt;Bloodspear Krull&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-krull.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Krulls are named after a famous 80s fantasy movie that featured a weapon called
-a Glaive, because they are Bloodspear martial artists who specialize in
-glaives. That’s it. That’s the joke.&lt;/p&gt;
-
-&lt;p&gt;The “glaive” from the movie was a cool throwing star thing, but the weapon
-Bloodspear Krulls use is the equally cool &lt;em&gt;real&lt;/em&gt; glaive, a polearm with a
-single-edged sword blade at the end. They’re Level 5 Brutes with 78 HP.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;glaive&lt;/strong&gt; can be used to make strong Reach 2 basic attacks, and it can also
-be used in a &lt;strong&gt;Charging Sweep&lt;/strong&gt; (recharge 6+) maneuver. This is a Close Burst 2
-attack that deals the same damage as a basic attack, pushes targets it hits 1
-square, and knocks them prone. As the name implies, it can be used as part of a
-charge.&lt;/p&gt;
-
-&lt;p&gt;When the krull bloodies an enemy, its &lt;strong&gt;Frenzied Strike&lt;/strong&gt; ability allows it to
-make a free extra attack against that enemy. And when they drop to 0 HP, their
-&lt;strong&gt;Charging Demise&lt;/strong&gt; ability lets them recharge and immediately use Charging
-Sweep one last time.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-ogrillon&quot;&gt;Bloodspear Ogrillon&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-ogrillon.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Orgillons are half-orc/half-ogres. They’re smaller and smarter than a full ogre,
-and almost as strong. These are Level 5 Elite Brutes with 156 HP.&lt;/p&gt;
-
-&lt;p&gt;Orgillons fight bare-handed. Their &lt;strong&gt;slams&lt;/strong&gt; do strong physical damage, and do
-bonus damage against prone targets. On a critical hit, they knock the target
-prone as well. As elites they can make &lt;strong&gt;Double Attacks&lt;/strong&gt;. They lack a Demise
-ability, but their &lt;strong&gt;Brutish Retaliation&lt;/strong&gt; allows them to use a slam against an
-enemy in reach that hits them with a ranged or area attack as a reaction. This
-sounds a bit redundant when these attacks already provoke opportunity attacks,
-but it at least lets the ogrillon save their opportunity action to attack
-someone else. Or to hit the offender again when they try to move away after
-landing that attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-shiv&quot;&gt;Bloodspear Shiv&lt;/h3&gt;
-
-&lt;p&gt;Skilled knife-fighters, shivs are Level 6 Skirmishers with 75 HP. They carry no
-less than 12 &lt;strong&gt;daggers&lt;/strong&gt;, which can be used in melee or thrown. Their &lt;strong&gt;Shifting
-Shank&lt;/strong&gt; ability lets them shift their speed and make a dagger attack at any
-point during the movement. If this attack bloodies the target, they can make a
-second free attack against that target.&lt;/p&gt;
-
-&lt;p&gt;They have the standard &lt;strong&gt;Savage Demise&lt;/strong&gt; ability as well.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-half-troll&quot;&gt;Bloodspear Half-Troll&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-half-troll.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Like ogrillons, half-trolls are smaller and smarter than their troll parent, and
-almost as strong. They also retain the infamous trollish regeneration
-abilities. They are Level 8 Soldiers with 92 HP.&lt;/p&gt;
-
-&lt;p&gt;Half trolls have Regeneration 5 and Troll Healing, which lets them rise again
-with 11 HP a turn after they drop. Acid or fire damage can prevent them from
-healing for a turn, and can prevent them from rising.&lt;/p&gt;
-
-&lt;p&gt;The half-troll’s &lt;strong&gt;claws&lt;/strong&gt; damage and grab on a hit (escape DC 16), and it can
-grab up to two creatures at once. If a grabbed creature attacks the half-troll
-or escapes the grab, the half-troll can &lt;strong&gt;bite&lt;/strong&gt; them as a reaction, an attack
-that deals light physical damage. It also has the standard version of Savage
-Demise, which could potentially trigger several times during the battle if the
-PCs are too slow with their acid and fire.&lt;/p&gt;
-
-&lt;h3 id=&quot;bloodspear-savage-throng&quot;&gt;Bloodspear Savage Throng&lt;/h3&gt;
-
-&lt;p&gt;A large unit of orcs with an unfortunate name, for use during the late Heroic
-tier. It’s a Huge Swarm of Medium Natural Humanoids, and a Level 9 Brute with
-117 HP. It follows all the standard swarm rules: half damage from single-target
-attacks, 10 extra damage from area attacks, can occupy the same space as other
-characters, and can move through any opening big enough for a single Medium
-creature.&lt;/p&gt;
-
-&lt;p&gt;The throng’s &lt;strong&gt;swarm attack&lt;/strong&gt; aura (1) is relatively weak, inflicting only 4
-damage on anyone caught inside. As it also occupies the swarm’s own spaces,
-though, it covers plenty of squares. Its basic attack is a &lt;strong&gt;Mob of Swinging
-Axes&lt;/strong&gt;, and once per encounter it can pull off a &lt;strong&gt;Savage Frenzy&lt;/strong&gt; that attacks
-every enemy in a Clost Burst 1, doing half damage on a miss. As with the aura,
-the burst should also catch anyone who is inside the swarm.&lt;/p&gt;
-
-&lt;p&gt;Once at the start and once when first bloodied, the throng can make a
-&lt;strong&gt;Trample&lt;/strong&gt; maneuver, which works as usual: move their speed and make an attack
-against any enemy whose space they move through. The attack deals physical
-damage and knocks prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;queen-msuga&quot;&gt;Queen Msuga&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-msuga.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Msuga is a Level 10 Elite Soldier with the Leader keyword and 212 HP. Her usual
-speed of 6 becomes 8 when she charges. If the PCs fight her, she will surely be
-alongside her sister Rohka and a sizable honor guard.&lt;/p&gt;
-
-&lt;p&gt;Msuga’s &lt;strong&gt;greataxe&lt;/strong&gt; marks the target for a turn on a hit, and she can perform a
-&lt;strong&gt;Sweeping Blade&lt;/strong&gt; (recharge 5+) maneuver that attacks every enemy in a Close
-Burst 1 for more damage than a basic attack, and even more against bloodied
-enemies. This also marks everyone it hits for a turn.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, she can use &lt;strong&gt;Furious Onslaught&lt;/strong&gt; to order an ally within 10
-squares to charge or make a basic attack as a free action. If a marked enemy
-within 5 squares makes an attack that doesn’t target her, she can shift 5
-squares to make a greataxe attack aggainst the offender as a reaction.&lt;/p&gt;
-
-&lt;p&gt;When Msuga drops to 0 HP, &lt;strong&gt;Queen’s Demise&lt;/strong&gt; allows her or an ally within 10
-squares to use a standard action for free.&lt;/p&gt;
-
-&lt;h3 id=&quot;rohka-the-blood-witch&quot;&gt;Rohka the Blood Witch&lt;/h3&gt;
-
-&lt;figure class=&quot;right&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-clan-bloodspear-rohka.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;As mentioned above, Rohka is most likely to be found alongside her sister Msuga,
-and accompanied by a sizable honor guard besides. She is a Level 10 Elite
-Controller with 216 HP. She has the usual ground speed of 6 and an effective
-teleport speed of 10.&lt;/p&gt;
-
-&lt;p&gt;Rohka fights in melee with her &lt;strong&gt;claws&lt;/strong&gt;, but she prefers to stay at range and
-fling spells. Her go-to is &lt;strong&gt;Chaos Displacement&lt;/strong&gt;, an area burst attack that
-targets Fortitude, deals psychic damage, and slides targets 3 squares. Every so
-often she can use the &lt;strong&gt;Baleful Eye of Gruumsh&lt;/strong&gt; (recharge 5+), which targets 1
-or 2 creatures and attacks Will. A hit deals psychic damage and slows (save
-ends). After the first failed save this worsens to immobilization, and after the
-second failure the target is dominated instead.&lt;/p&gt;
-
-&lt;p&gt;If someone hits Rohka with a melee or ranged attack and an ally is nearby, she
-can use &lt;strong&gt;I Need a Volunteer&lt;/strong&gt; (encounter) to teleport and swap places with the
-ally as an interrupt, making the attack target the ally instead of her. This
-does mean the attack could &lt;em&gt;miss&lt;/em&gt; the ally if their defenses are higher. She
-also has the standard version of Savage Demise.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Overall I like this portrayal of Clan Bloodspear. They make a solid choice for
-opposition because they’re ambitious and highly militarized imperialists with a
-penchant for enslaving others. In fact, they make me think of Rome’s mythical
-founding, since they’re led by two divinely-chosen siblings who are setting out
-to build an empire where before there was “nothing” (i.e, a bunch of
-civilizations who were minding their own business and were made targets for
-invasion).&lt;/p&gt;
-
-&lt;p&gt;Combining the stat blocks from this entry with the standard orc stats in the MV
-gives you enough opposition to last you the whole Heroic tier. The book still
-uses the word “savage” a little too often for my tastes, and there’s the “vile
-half-breeds” thing, but I intend to change this if I ever use them in a game.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/16/clan-bloodspear.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/16/clan-bloodspear.html</guid>
         
         <category>dnd4</category>
         
