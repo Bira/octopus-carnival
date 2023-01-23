@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-hounds-of-ill-omen.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 We've already seen a bit of the history of the region known as the Gray Downs
 in other entries, for the [Barrowhaunts][2] and the [Gray Company][3]. The first
 tells us it was home to ancient hill clans, and the second tells us it's also
@@ -146,3 +157,5 @@ _absolutely hate_, since they claim a direct descent from the people responsible
 for slaying their masters. Hound and Barrowhaunt attacks might be one reason why
 Gray Company is having a hard time progressing towards their goal of rebuilding
 the empire of Nerath.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
