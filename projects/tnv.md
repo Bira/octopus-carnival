@@ -45,6 +45,10 @@ As more monsters are added, they will be linked below.
   - [Gravelstoke Family][17]
   - [Gray Company][18]
 
+- H
+  - [Harken's Heart][19]
+  - [Hounds of Ill Omen][20]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -63,3 +67,6 @@ As more monsters are added, they will be linked below.
 [15]: {{ "/2022/12/31/felldrakes.html" | relative_url }}
 [16]: {{ "/2023/01/01/frost-witches.html" | relative_url }}
 [17]: {{ "/2023/01/06/gravelstoke-family.html" | relative_url }}
+[18]: {{ "/2023/01/13/gray-company.html" | relative_url }}
+[19]: {{ "/2023/01/16/harkens-heart.html" | relative_url }}
+[20]: {{ "/2023/01/23/hounds-of-ill-omen.html | relative_url }}
