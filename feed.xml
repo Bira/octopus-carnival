@@ -6,9 +6,224 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jan 2023 18:03:47 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2023 18:03:47 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Jan 2023 13:12:14 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Jan 2023 13:12:14 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Hunter Spiders</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-hunter-spiders.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This is a vale-specific group, but it includes at least one deep-cut reference
+to early AD&amp;amp;D.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Deep beneath the Nentir Vale, lies the infamous drow city of
+Erelhei-Cinlu. Though forgotten by the people of the surface, it sends the
+occasional raiding party there to meddle in its affairs and capture
+slaves. The city was directly connected to the Vale by a tunnel that emerged in
+the Ogrefist Hills, but this tunnel collapsed three years ago. And when it did,
+it trapped one of those raiding parties on the surface.&lt;/p&gt;
+
+&lt;p&gt;This group, who calls themselves the Hunter Spiders, initially made camp in the
+Ogrefist Hills to await rescue, but for some reason the houses of Erelhei-Cinlu
+didn’t make any serious attempt to clear the blocked passage. This was
+especially concerning for the group’s leader Ti’irtha, who was the daughter of
+House Despana’s matron.&lt;/p&gt;
+
+&lt;p&gt;After a few months, and much thought, the group decided no rescue was coming and
+moved east into Harken Forest. They knew the forest had seem many skirmishes
+between elves, eladrin and drow in the past, and figured it might contain an
+entrance to another part of the Underdark named Torog’s Highway. From there
+they could journey home.&lt;/p&gt;
+
+&lt;p&gt;Ti’irtha asked for Lolth’s guidance and was directed to a bramble-choked region
+of the forest north of King’s Road, known as Spiderhaunt Thicket. The place
+turned out to contain many ancient elven and eladrin ruins, as well as large
+populations of giant spiders and undead fey. The Hunter Spiders soon put to work
+the many captives they had acquired in their raid searching for the Underdark
+entrance that surely had to be here. They’ve been there ever since.&lt;/p&gt;
+
+&lt;p&gt;The drow themselves focus their efforts in maintaining and increasing the
+numbers of their enslaved workforce. They mainly prey on the King’s Road to the
+south of the Thicket, linking Fallcrest to Harkenwold. When movement there grows
+too sparse, they prey on the Trade Road to the north, which links Fallcrest to
+Thunderspire. It’s a less ideal hunting ground for them because there’s fierce
+competition from the Raven Roost bandits. When pickings are slim on both roads,
+they get a bit more desperate and prowl the outlying farms of Fallcrest, giving
+rise to rumors of obsidian demons who snatch people from their beds.&lt;/p&gt;
+
+&lt;p&gt;Lolth’s guidance did not come without a price, of course. This is the goddess of
+betrayals and of the cycle of abuse, as we discussed in previous Let’s
+Reads. Shortly after the Hunter Spiders arrived on the Thicket, Ti’irtha and her
+consort Vhaelor found a hidden shrine to Lolth while exploring the region
+alone. Seeing that as the sign it was, Ti’irtha murdered Vhaelor and ofered his
+blood to Lolth on the altar. For her devotion, she was “rewarded” with
+transformation into a werespider.&lt;/p&gt;
+
+&lt;p&gt;As a band of elite raiders straight out of the original drow city-state, each of
+the Hunter Spiders is an extremely powerful and skilled individual. But there
+are only 24 of them left from the original party, and they have no way of
+replenishing their numbers. They’re not interested in conquest or in surface
+intrigue - their main goal is to return home. This makes them one of the rare
+evil factions in D&amp;amp;D that might be truly amenable to negotiation. If they party
+can offer them a way of returning to the Underdark, they really will pack up and
+leave, possibly even freeing their prisoners in the process if that’s part of
+the asked price for the information. However, they’re all wise in the ways of
+Lolth, which means that getting them to trust you is a challenge in itself (and
+almost impossible if you &lt;em&gt;do&lt;/em&gt; intend to betray them).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The Hunter Spiders are all drow, which means they all have Darkvision and their
+powers tend to be shadow and spider-themed. They’re placed at mid-Paragon tier,
+so they’re heaviweights in the Vale power scale, but as mentioned above they are
+few and have no way to bring in reinforcements. It should be possible for you to
+come up with a breakdown of how many of the 24 drow left use each of the three
+“generic” stat blocks below. And we also get stats for Ti’irtha.&lt;/p&gt;
+
+&lt;h3 id=&quot;drow-darklasher&quot;&gt;Drow Darklasher&lt;/h3&gt;
+
+&lt;p&gt;This is an assassin employing shadow-themed magic and a really sharp
+dagger. It’s a Level 15 Lurker with 114 HP.&lt;/p&gt;
+
+&lt;p&gt;All of the darklasher’s attacks deal 2d10 extra damage against targets granting
+combat advantage to it. The &lt;strong&gt;dagger&lt;/strong&gt; does solid damage but has no other
+riders. It can also attack at range using a &lt;strong&gt;Lashing Darkness&lt;/strong&gt; spell, which
+can only target a creature that can’t see the drow. This deals heavy force
+damage and slides the target 1 square.&lt;/p&gt;
+
+&lt;p&gt;Instead of attacking the darklasher can use &lt;strong&gt;Shadow Levitation&lt;/strong&gt; to shift 4
+squares into the air and gain total concealment plus a fly speed of 4 (hover)
+for a turn or until immediately after it attacks.&lt;/p&gt;
+
+&lt;p&gt;Another way it has to become unseen is its &lt;strong&gt;Cloud of Darkness&lt;/strong&gt; encounter
+power, a minor action that creates a zone of darkness in a Close Burst 1 around
+the caster. The zone lasts until the end of the encounter, blocks line of sight
+for everyone except the darklasher, and if any creature other than the
+darklasher enters the cloud completely, it becomes blinded while inside. The
+zone can be dismissed as a free action.&lt;/p&gt;
+
+&lt;p&gt;So it seems that Darklashers can behave kinda like artillery. Set up a cloud of
+darkness and stay inside, using Lashing Darkness to hit people from afar and
+either disrupt their maneuvers or pull them into the cloud for a stabbing
+boosted by combat advantage. If forced out, use Shadow Levitation to fly away
+and hide.&lt;/p&gt;
+
+&lt;h3 id=&quot;drow-spider-totemist&quot;&gt;Drow Spider Totemist&lt;/h3&gt;
+
+&lt;p&gt;Another drow spider-themed spellcaster to add to our ever expanding
+collection. This one is a Level 16 Controller (Leader) with 154 HP. It projects
+an aura named &lt;strong&gt;Dark Pact Mobility&lt;/strong&gt; (5) which allows bloodied allies inside to
+automatically succeed at saves against slowing or immobilizing effects.&lt;/p&gt;
+
+&lt;p&gt;The totemist has this name because their main weapon and implement is a handheld
+spider totem. Their basic melee attack is a &lt;strong&gt;Totem Bite&lt;/strong&gt; that deals light
+physical damage and inflicts 10 ongoing poison damage (save ends). Their ranged
+attack is a &lt;strong&gt;Venom Ray&lt;/strong&gt; that targets Reflex, deals poison damage, and
+immobilizes for a turn.&lt;/p&gt;
+
+&lt;p&gt;The totemist can also summon a &lt;strong&gt;Spider Swarm&lt;/strong&gt; (recharge 5+), creating a zone
+in a Close Burst 2 around themselves. Enemies grant combat advantage while
+inside, and if they end their turns there they take 10 poison damage. The zone
+lasts until the end of the encounter, or until the totemist casts the spell
+again.&lt;/p&gt;
+
+&lt;h3 id=&quot;drow-razorscourge&quot;&gt;Drow Razorscourge&lt;/h3&gt;
+
+&lt;p&gt;A drow soldier armed with a razor scourge, showing us that drow end up sounding
+edgy even when they try to come up with a practical descriptive name. They’re
+Level 17 Soldiers with 163 HP.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;scourge&lt;/strong&gt; has Reach 2 and marks for a turn on a hit. It can also be used
+for an &lt;strong&gt;Ensnaring Lash&lt;/strong&gt; that deals less damage but grabs on a hit (escape DC
+23). While the grab lasts, the target takes 20 ongoing damage. The drow can
+still make basic attacks while it has a victim grabbed, but the grab ends when
+automatically when it uses Ensnaring Lash again.&lt;/p&gt;
+
+&lt;p&gt;If an enemy marked by the razorscourge and within melee reach of it deals damage
+to one of its allies, the drow can react with a &lt;strong&gt;Retributive Flogging&lt;/strong&gt; and
+make a basic attack against the enemy.&lt;/p&gt;
+
+&lt;p&gt;And finally, razorscourges are the only stat block in this entry that have
+access to the traditional drow &lt;strong&gt;Darkfire&lt;/strong&gt; encounter power, a minor action
+attack that deals no damage and exposes the target, making it grant CA and
+nullifying its cover and concealment for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;tiirtha-drow-werespider&quot;&gt;Ti’irtha, Drow Werespider&lt;/h3&gt;
+
+&lt;p&gt;Ti’irtha is a Level 17 Elite Skirmisher with 288 HP. She has ground and Spider
+Climb speeds of 7, and Resist Poison 10. She follows a lot of the same rules for
+“mammal” lycanthropes.&lt;/p&gt;
+
+&lt;p&gt;This means she has Regeneration 10 that shuts down for a turn when damaged by
+silver, can change shape between a drow and a giant spider with a minor action,
+and has sets of attacks specific to each form.&lt;/p&gt;
+
+&lt;p&gt;In human form, her basic attack is &lt;strong&gt;Dark Caress&lt;/strong&gt;, a touch spell that deals
+physical damage and inflicts Poison Vulnerability 5 (save ends). If the target
+was granting her CA, that save is rolled at -5.&lt;/p&gt;
+
+&lt;p&gt;In spider form, her basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that deals poison damage and
+exposes the target to the Spider Queen’s Curse (see below). She can also shoot a
+whole frigging’ &lt;strong&gt;Spiderweb&lt;/strong&gt; in an instant, a minor action Area 1 Within 5
+attack that restrains those it hits until they escape (DC 23). The area becomes
+difficult terrain for the rest of the encounter. This recharges when she is
+first bloodied.&lt;/p&gt;
+
+&lt;p&gt;As an Elite, Ti’irtha can make &lt;strong&gt;Double Attacks&lt;/strong&gt;, and shift between attacks (1
+square in drow form, 3 in spider form).&lt;/p&gt;
+
+&lt;p&gt;Ti’irtha has an incentive to shapeshift constantly in a fight, setting enemies
+up with Dark Caress and knocking them down with Spider Bites. The Spiderweb is
+an excellent opener since restrained enemies make the whole process much easier.&lt;/p&gt;
+
+&lt;h3 id=&quot;spider-queens-curse&quot;&gt;Spider Queen’s Curse&lt;/h3&gt;
+
+&lt;p&gt;This isn’a monster, but it’s a Level 17 Disease that’s more treacherous than
+typical lycanthropy. It follows all the normal rules, but the effects are very
+on-brand for Lolth. The Maintain DC for your Endurance rolls is 16 and the
+Improve DC is 23.&lt;/p&gt;
+
+&lt;p&gt;If Ti’irtha or another werespider bites you, roll a save at the end of the
+encounter. If you fail, you contract the Curse at stage 1. This makes you feel
+really good! You gain +1 to Fort, Ref and Will, and makes you recover an extra
+2d6 HP whenever you spend a healing surge. Yes, even when this expenditure is
+from something like a cleric’s Healing Word.&lt;/p&gt;
+
+&lt;p&gt;If you progress to Stage 2, you feel even better! The defense bonus remains,
+that recovery bonus increases to 3d6, and you get a -2 penalty to your Endurance
+rolls. Someone else might find that concerning, but you don’t. I mean, it’s all
+good things so far, right?&lt;/p&gt;
+
+&lt;p&gt;If you progress to stage 3, you immediately die and a swarm of monstrous spiders
+bursts from your corpse.&lt;/p&gt;
+
+&lt;p&gt;By the time you’re fighting Ti’irtha or someone like her, you’ve had easy access
+to Remove Affliction for about ten levels, so here’s a disease that tempts you
+into letting it develop. You can spend all that money and those healing surges
+now for a bit of safety, or you can ride the high a bit longer to benefit from
+better defenses and healing. It’s okay, you can stop anytime you want.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Hounds of Ill Omen</title>
@@ -1659,276 +1874,6 @@ brood to make a proper boss fight.&lt;/p&gt;
         <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/22/dark-drake.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/22/dark-drake.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Daggerburg Goblins</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-daggerburg-goblins.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Goblins have always been in the game, as we already know. This is a specific
-group of them operating in the southern regions of the Vale.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Between the Witchlight Fens and the Harken Forest, roughly on the south-central
-region of the Vale, there is a hidden fort named Daggerburg. It belongs to a
-large band of goblin brigands, who ride out of it to raid and pillage the
-surrounding area. Their operation is quite successful because they’re far away
-from the territories of more powerful monsters, and because their very diverse
-membership has been extensively trained in guerrilla tactics by their leader
-Delderosh.&lt;/p&gt;
-
-&lt;p&gt;The band also includes a number of remarkable individuals beyond Delderosh
-himself. There’s Kabo Bomble, a massive bruiser nearly twice the size of a
-typical goblin; and there are the Mistmane Bugbears, a cult who trains in a
-fighting style that combines unarmed combat and necromantic magic.&lt;/p&gt;
-
-&lt;p&gt;Delderosh really hates enemy spellcasters and likes collecting their eyeballs as
-trophies. He likes spellcasters just fine when they’re working for him, though,
-which is why he’s allied to the necromancer Gokof (from the Cadaver Collector
-entry) and has several war mages on his payroll.&lt;/p&gt;
-
-&lt;p&gt;The Daggerburg goblins have become more daring of late, and have been pushing
-deeper into the Harkenwold region north of the Harken forest, even going so far
-as to raid settlements. However they haven’t yet worked up the courage to strike
-at the Woodsinger elves who also live in the same region.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Daggerburg gang tends to be a cut above your standard MM/MV goblins, their
-levels covering the latter half of the Heroic Tier instead of the earlier
-one. Most of them also have at least one of the following signature abilities
-representing their training:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat Adept&lt;/strong&gt; gives them a +1d10 damage bonus against enemies who haven’t yet
-acted this combat. Anyone with this trait really likes rolling high for
-initiative.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Daggerburg Tactics&lt;/strong&gt; replaces the generic Goblin Tactics trait. When a
-creature with this is missed by a melee attack, the attacker grants combat
-advantage to them in this next turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;battle-worg&quot;&gt;Battle Worg&lt;/h3&gt;
-
-&lt;p&gt;The Daggerburg goblins raise a distinctive breed of giant wolf for use as mounts
-in battle. Despite being called “battle worgs”, they’re not sapient like
-standard worgs, and are a little weaker. Their mechanics are still similar,
-though.&lt;/p&gt;
-
-&lt;p&gt;Battle Worgs are Large Natural Magical Beasts and Level 5 Brutes with 78 HP and
-a speed of 8. Their &lt;strong&gt;Frigthful Growls&lt;/strong&gt; acts as an aura (1) that inflicts a -1
-to-hit penalty on enemies caught inside. Their mount trait is &lt;strong&gt;Slavering
-Lunge&lt;/strong&gt;, which lets the worg move half its speed as a free action when their
-rider rolls initiative. Their reach 1 &lt;strong&gt;Bite&lt;/strong&gt; damages and inflicts ongoing 5
-damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;A lot of the people who could use battle worgs as mounts in this entry are
-higher level than them, but it’s a simple enough task to level up the worgs to
-match their riders if you want them to last longer in the fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-ruffian&quot;&gt;Daggerburg Ruffian&lt;/h3&gt;
-
-&lt;p&gt;An experienced raider, this goblin is a Level 4 Soldier with 58 HP and a speed
-of 5. It’s armored in mail, wields a light shield and spear combo in melee, and
-a light crossbow for ranged combat. It has both Combat Adept and Daggerburg
-Tactics.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;spear&lt;/strong&gt; and &lt;strong&gt;crossbow&lt;/strong&gt; are used in basic attacks, and the spear can also
-&lt;strong&gt;trip up&lt;/strong&gt; an enemy, doing the same damage as a basic attack and knocking the
-target prone.&lt;/p&gt;
-
-&lt;p&gt;Ruffians are perfect riders for the battle worgs we just saw.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-theurge&quot;&gt;Daggerburg Theurge&lt;/h3&gt;
-
-&lt;p&gt;Theurges seem to be goblin spellcasters with a witchy theme. They’re Level 5
-Controllers with 64 HP and both signature traits. They’re listed as Medium, but
-should be Small instead.&lt;/p&gt;
-
-&lt;p&gt;They fight in melee with &lt;strong&gt;spiked clubs&lt;/strong&gt;, and once per encounter they can call
-down a &lt;strong&gt;Brimstone Rain&lt;/strong&gt; that works as an area burst 2 attack. It deals
-immediate and ongoing fire damage (save ends), half on a miss.&lt;/p&gt;
-
-&lt;p&gt;Their most fun power, however, is the at-will &lt;strong&gt;Slimy Transformation&lt;/strong&gt;. Ranged 5
-vs. Fortitude, does no damage, but &lt;em&gt;turns the target into a frog&lt;/em&gt; (save ends)!
-This is a mundane Tiny frog, not a giant variety. Frogged targets are considered
-slowed, and can’t use powers - not even basic attacks. The only limitation here
-is that the theurge can’t cast this on someone who’s already transformed by it.&lt;/p&gt;
-
-&lt;p&gt;So yeah, they are sure to open up with Brimstone Rain and then stay away
-applying the Transformation to as many PCs as possible while their buddies do
-the actual damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-war-mage&quot;&gt;Daggerburg War Mage&lt;/h3&gt;
-
-&lt;p&gt;Another mage, this one a more straighforward hobgoblin elemental adept. It’s
-Level 6 Artillery with 58 HP. They have Combat Adept but not Daggerburg Tactics.&lt;/p&gt;
-
-&lt;p&gt;War mages fight with their &lt;strong&gt;staffs&lt;/strong&gt;, which also work as implements. At range
-they can hit you with an at-will &lt;strong&gt;Stabbing Flame&lt;/strong&gt; that does immediate and
-ongoing fire damage, or with a recharge 5+ &lt;strong&gt;Icy Stream&lt;/strong&gt; that does cold damage
-and slides the target 3 squares.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-slayer&quot;&gt;Daggerburg Slayer&lt;/h3&gt;
-
-&lt;p&gt;A beefy hobgoblin with a big axe. It’s a Level 6 Brute with 85 HP. It has Combat
-Adept but not Daggerburg Tactics. Their &lt;strong&gt;greataxe&lt;/strong&gt; is their sole attack, but
-it has some riders: it deals +5 damage while the slayer is bloodied, and it
-deals another +5 damage if the strike bloodies the target.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter the slayer can use its &lt;strong&gt;Hobgoblin Resilience&lt;/strong&gt; to
-immediately roll a save against an (save ends) effect as a reaction.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-zealot&quot;&gt;Daggerburg Zealot&lt;/h3&gt;
-
-&lt;p&gt;A bugbear trained with the glaive. Not one of the Mistmanes, those are
-below. Zealots are Level 7 Skirmishers with 78 HP. They have Combat Adept.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;glaive&lt;/strong&gt; is a solid Reach 2 basic attack and their &lt;strong&gt;Mobile Attack&lt;/strong&gt;
-ability allows them to shift half their speed and make a glaive attack at any
-point during the movement. Once per encounter, when an enemy within 5 squares of
-the zealot attacks one of its allies, the zealot can use &lt;strong&gt;Dagerburg Zealotry&lt;/strong&gt;
-shift up to 5 squares and hit the attacker with its glaive as a reaction.&lt;/p&gt;
-
-&lt;p&gt;A very mobile combatant with a reach weapon, who will use both of these things
-to get at the party’s back lines and mess up their squishies.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-captain&quot;&gt;Daggerburg Captain&lt;/h3&gt;
-
-&lt;p&gt;This hobgoblin officer probably serves directly under Delderosh. It’s a Level 7
-Soldier (Leader) with 78 HP. The captain is clad in mail and wields a bastard
-sword and a shield.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;bastard sword&lt;/strong&gt; makes attacks that damage and mark for a turn. While the
-mark persists, the target also grants combat advantage. Once per encounter, and
-once again after it’s first bloodied, the captain can yell &lt;strong&gt;Follow Me!&lt;/strong&gt; and
-charge an enemy. Two allies within 5 squares of its starting position can then
-make a free charge against different enemies.&lt;/p&gt;
-
-&lt;p&gt;The captain has none of the signature traits from the start of this
-section. Instead, it has an improved version of Hobgoblin Resilience named
-&lt;strong&gt;Daggerburg Resilience&lt;/strong&gt;, which works the same but can be applied either to the
-captain or to an ally within 5 squares of it.&lt;/p&gt;
-
-&lt;h3 id=&quot;daggerburg-reaper&quot;&gt;Daggerburg Reaper&lt;/h3&gt;
-
-&lt;p&gt;A hobgoblin who specializes in the use of the scythe. It’s a Level 7 Lurker with
-64 HP. The &lt;strong&gt;scythe&lt;/strong&gt; can make decent basic attacks, and once per encounter the
-reaper can use a &lt;strong&gt;Blinding Sweep&lt;/strong&gt; that targets a Close Burst 1, deals heavy
-damage, and blinds for a turn on a hit. A miss does half damage.&lt;/p&gt;
-
-&lt;p&gt;As a move action, the reaper can &lt;strong&gt;Stalk&lt;/strong&gt;, which allows it to shift 1 square
-and then move its speed. If it ends in a space at least three squares from any
-other creatures, it becomes invisible until the start of its next turn or until
-it makes an attack.&lt;/p&gt;
-
-&lt;p&gt;These abilities are interesting but the reaper has no powers that specifically
-exploit them. It’s a very skirmishery lurker.&lt;/p&gt;
-
-&lt;h3 id=&quot;mistmane-bugbear&quot;&gt;Mistmane Bugbear&lt;/h3&gt;
-
-&lt;p&gt;These bugbear adepts received their name from the constant misty aura they
-project, which disrupts teleportation and can confuse enemies’ minds. Their
-claws are laced with necromantic energy. They’re Large Natural Humanoids and
-Level 8 Elite Soldiers with 172 HP.&lt;/p&gt;
-
-&lt;p&gt;They have Combat Adept, and their &lt;strong&gt;Arcane Mist&lt;/strong&gt; aura (2) prevents creatures
-from teleporting as mentioned above. Their basic attack is a &lt;strong&gt;Rake&lt;/strong&gt; with their
-claws, which damages and marks for a turn. If a marked enemy makes an attack
-that doesn’t target the bugbear, they take 5 necrotic damage. As elites, they
-can use this for &lt;strong&gt;Double Attacks&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter as a minor action they can use the &lt;strong&gt;Bewildering Mist&lt;/strong&gt;
-ability, attacking the Will of every enemy in a Close Burst 1. A hit dazes the
-target for a turn.&lt;/p&gt;
-
-&lt;p&gt;Mistmanes are excellent front-line fighters, able to keep two PCs marked at
-once.&lt;/p&gt;
-
-&lt;h3 id=&quot;kabo-bomble&quot;&gt;Kabo Bomble&lt;/h3&gt;
-
-&lt;p&gt;One of the Daggerburg gang’s champions, Kabo Bomble is a giant of a goblin,
-twice as tall as the typical member of the species. This puts him well into
-Medium size. He fights with a morningstar in one hand and a spiked gauntlet in
-the other. Kabo is a Level 9 Brute with 116 HP. He has both Combat Adept and
-Daggerburg Tactics.&lt;/p&gt;
-
-&lt;p&gt;Kabo’s &lt;strong&gt;morningstar&lt;/strong&gt; and &lt;strong&gt;gauntlet&lt;/strong&gt; do about the same damage, with the first
-being a basic attack and the second targetting Reflex and dazing for a turn on a
-critical hit.&lt;/p&gt;
-
-&lt;p&gt;Twice per encounter, Kabo can use a &lt;strong&gt;Furious Attack&lt;/strong&gt; ability to attack with
-both weapons in a single action. If both hit the same target, it is dazed for a
-turn.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, Kabo Bomble can &lt;strong&gt;Roar&lt;/strong&gt; as a minor action, attacking the
-Will of all enemies in a Close Burst 2 and inflicting a -2 defense penalty on a
-hit (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;warlord-delderosh&quot;&gt;Warlord Delderosh&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-daggerburg-delderosh.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Delderosh is the leader of the Daggerburg Goblins, and is likely to be found
-leading their biggest raids or at the center of Daggerburg itself surrounded by
-his personal guard. This hobgoblin is a Level 10 Skirmisher (Leader) with 200
-HP.&lt;/p&gt;
-
-&lt;p&gt;Delderosh’s custom traits are &lt;strong&gt;Ambush Leader&lt;/strong&gt;, which gives a +5 to the
-Initiative rolls of every ally within 5 squares of him at the start of the
-fight; and &lt;strong&gt;Combat Advantage&lt;/strong&gt;, which gives him some bonus damage when he has
-that against a target.&lt;/p&gt;
-
-&lt;p&gt;Delderosh carries a &lt;strong&gt;spear&lt;/strong&gt; for fighting in melee and a &lt;strong&gt;shortbow&lt;/strong&gt; for
-ranged attacks. The spear attack allows him to shift 1 square as an effect and
-it can be used to &lt;strong&gt;Skewer&lt;/strong&gt; (recharge 5+), which deals the same damage as a
-basic attack and inflicts ongoing 10 damage (save ends). As an effect, it also
-makes the target grant combat advantage for a turn.&lt;/p&gt;
-
-&lt;p&gt;Finally, he has the same &lt;strong&gt;Daggerburg Resilience&lt;/strong&gt; reaction power as the
-Captains working under him.&lt;/p&gt;
-
-&lt;p&gt;The warlord is depicted riding a battle worg here and he would certainly benefit
-from the thing’s traits, but you’ll likely need to increase the level of his
-personal mount from the base 5. Everyone else in the encounter where he appears
-should have Combat Adept to maximize the benefit they get from his initiative
-bonus.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The Daggerburg goblins don’t differ much in concept from the “generic” band of
-goblin brigands, but they’re a very nice worked example of the trope, with
-several memorable named NPCs. They also show us how to stretch classic
-goblinoids into a threat that can keep PCs occupied for the whole of the heroic
-tier.&lt;/p&gt;
-
-&lt;p&gt;The band might get involved in factional conflicts with the Iron Circle, a
-foreign mercenary army that has been moving into Harkenwold. And the druids of
-Harken’s Heart would be among the groups they avoid. Both of these get their own
-entries later on.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/20/daggerburg-goblins.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/20/daggerburg-goblins.html</guid>
         
         <category>dnd4</category>
         
