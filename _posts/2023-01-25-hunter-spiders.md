@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-hunter-spiders.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is a vale-specific group, but it includes at least one deep-cut reference
 to early AD&D.
 
@@ -21,13 +32,13 @@ it trapped one of those raiding parties on the surface.
 This group, who calls themselves the Hunter Spiders, initially made camp in the
 Ogrefist Hills to await rescue, but for some reason the houses of Erelhei-Cinlu
 didn't make any serious attempt to clear the blocked passage. This was
-especially concerning for the group's leader Ti'irtha, who was the daughter one
-of House Despana's matron.
+especially concerning for the group's leader Ti'irtha, who was the daughter of
+House Despana's matron.
 
 After a few months, and much thought, the group decided no rescue was coming and
 moved east into Harken Forest. They knew the forest had seem many skirmishes
-between elves, eladrin and drow in the past, so it probably contained an
-entrance to another part of the Underdark named Torog's Highway, and from there
+between elves, eladrin and drow in the past, and figured it might contain an
+entrance to another part of the Underdark named Torog's Highway. From there
 they could journey home.
 
 Ti'irtha asked for Lolth's guidance and was directed to a bramble-choked region
@@ -59,12 +70,12 @@ the Hunter Spiders is an extremely powerful and skilled individual. But there
 are only 24 of them left from the original party, and they have no way of
 replenishing their numbers. They're not interested in conquest or in surface
 intrigue - their main goal is to return home. This makes them one of the rare
-evil factions in D&D that might be amenable to negotiation. If they party can
-offer them a way of returning to the Underdark, they really will pack up and
+evil factions in D&D that might be truly amenable to negotiation. If they party
+can offer them a way of returning to the Underdark, they really will pack up and
 leave, possibly even freeing their prisoners in the process if that's part of
 the asked price for the information. However, they're all wise in the ways of
-Lolth, which means that getting them to trust you is a challenge in itself
-(and almost impossible if you _do_ intend to betray them).
+Lolth, which means that getting them to trust you is a challenge in itself (and
+almost impossible if you _do_ intend to betray them).
 
 ## The Numbers
 
@@ -193,7 +204,9 @@ If you progress to stage 3, you immediately die and a swarm of monstrous spiders
 bursts from your corpse.
 
 By the time you're fighting Ti'irtha or someone like her, you've had easy access
-to Remove Affliction for ten levels, so here's a disease that tempts
-you. You can spend all that money and those healing surges now for a bit of
-safety, or you can ride the high a bit longer to benefit from better defenses
-and healing. It's okay, you can stop anytime you want.
+to Remove Affliction for about ten levels, so here's a disease that tempts you
+into letting it develop. You can spend all that money and those healing surges
+now for a bit of safety, or you can ride the high a bit longer to benefit from
+better defenses and healing. It's okay, you can stop anytime you want.
+
+[1]: {{ "/projects/tnv/" | relative_url }}

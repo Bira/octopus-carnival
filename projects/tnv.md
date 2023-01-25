@@ -48,6 +48,7 @@ As more monsters are added, they will be linked below.
 - H
   - [Harken's Heart][19]
   - [Hounds of Ill Omen][20]
+  - [Hunter Spiders][21]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -70,3 +71,4 @@ As more monsters are added, they will be linked below.
 [18]: {{ "/2023/01/13/gray-company.html" | relative_url }}
 [19]: {{ "/2023/01/16/harkens-heart.html" | relative_url }}
 [20]: {{ "/2023/01/23/hounds-of-ill-omen.html | relative_url }}
+[21]: {{ "/2023/01/25/hunter-spiders.html" | relative_url }}
