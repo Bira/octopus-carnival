@@ -49,6 +49,7 @@ As more monsters are added, they will be linked below.
   - [Harken's Heart][19]
   - [Hounds of Ill Omen][20]
   - [Hunter Spiders][21]
+  - [Hurly Burly Brothers][22]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -72,3 +73,4 @@ As more monsters are added, they will be linked below.
 [19]: {{ "/2023/01/16/harkens-heart.html" | relative_url }}
 [20]: {{ "/2023/01/23/hounds-of-ill-omen.html | relative_url }}
 [21]: {{ "/2023/01/25/hunter-spiders.html" | relative_url }}
+[22]: {{ "/2023/01/27/hurly-burly-brothers.html" | relative_url }}

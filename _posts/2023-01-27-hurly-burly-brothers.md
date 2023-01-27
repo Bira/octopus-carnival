@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-hurly-burly-brothers.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 This is such a simple entry, but I really like it.
 
 ## The Lore
@@ -36,12 +47,6 @@ meddlesome PCs to get involved with the two.
 Could one of the brothers move further away to end these altercations? Sure! But
 neither of them will give "that rotten git" the satisfaction of backing down.
 
-The brothers' blessing is _not_ general knowledge, but they of course know all
-about it. PCs might discover it by studying the trolls and succeeding at a DC 21
-Arcana or Nature check. This could be done through quiet observation, but it
-will most likely happen after the first time one of them fails to die to the
-usual troll countermeasures.
-
 ## The Numbers
 
 The brothers are so alike they share the same stat block! They're both Level 9
@@ -60,6 +65,11 @@ deals fire or acid damage _while within 5 squares of the other brother_. This
 can be either the attack that drops them, or an extra attack made while they're
 down, as usual.
 
+The brothers' blessing is _not_ general knowledge, but they of course know all
+about it. PCs might discover it by studying the trolls and succeeding at a DC 21
+Arcana or Nature check. This could be done through quiet observation, but it
+will most likely happen after the first time one of them fails to die to the
+usual troll countermeasures.
 
 
 ## Final Impressions
@@ -83,3 +93,5 @@ further apart. Or maybe the actual enemy is some more powerful threat, and the
 PCs must somehow enlist the brothers as hired muscle. And it has to be both of
 them. So now the controllers will find themselves trying to _prevent_ enemies
 from forcing the trolls together.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
