@@ -51,6 +51,9 @@ As more monsters are added, they will be linked below.
   - [Hunter Spiders][21]
   - [Hurly Burly Brothers][22]
 
+- I
+  - [Iron Circle][23]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -71,6 +74,7 @@ As more monsters are added, they will be linked below.
 [17]: {{ "/2023/01/06/gravelstoke-family.html" | relative_url }}
 [18]: {{ "/2023/01/13/gray-company.html" | relative_url }}
 [19]: {{ "/2023/01/16/harkens-heart.html" | relative_url }}
-[20]: {{ "/2023/01/23/hounds-of-ill-omen.html | relative_url }}
+[20]: {{ "/2023/01/23/hounds-of-ill-omen.html" | relative_url }}
 [21]: {{ "/2023/01/25/hunter-spiders.html" | relative_url }}
 [22]: {{ "/2023/01/27/hurly-burly-brothers.html" | relative_url }}
+[23]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
