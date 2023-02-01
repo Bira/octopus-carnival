@@ -6,9 +6,236 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 27 Jan 2023 16:41:33 +0000</pubDate>
-    <lastBuildDate>Fri, 27 Jan 2023 16:41:33 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Feb 2023 20:14:46 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Feb 2023 20:14:46 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Iron Circle</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;This is another Vale-specific faction, one with strong ties to a published
+adventure.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-iron-circle-tar-devil.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Iron Circle is a large band of evil mercenaries whose main base operation
+lies south of the Nentir Vale in the city of Sarthel. They’re led by a man named
+Lord Vhennyk and are faithful worshipers of Asmodeus. As an organization their
+ultimate goal is to conquer the world in the name of Hell. Given what we’ve read
+about devils and Hell in past projects, that likely makes them the militarized
+faction in the Vale most deserving of the label “fascist”.&lt;/p&gt;
+
+&lt;p&gt;Vhennyk wishes to conquer the Vale as part of his overall world domination goal,
+and has begun sending his forces to the barony of Harkenwold, near the Vale’s
+southern border, likely because he believes it to be especially vulnerable.&lt;/p&gt;
+
+&lt;p&gt;Vhennyk himself remains far away in Sarthel. He’s delegating this invasion to
+Nazin Redthorn, one of his captains. Redthorn is recently arrived at the Vale
+and has been tasked with stepping up operations and upgrading the espionage
+campaign the Circle has on Harkenwold into an overt invasion. Val Esed is the
+spymaster in charge of the current efforts, and she’s been feeding information
+on the Vale’s inhabitants and defenses to the Circle for a while now.&lt;/p&gt;
+
+&lt;p&gt;The Iron Circle is the major antagonist in the &lt;em&gt;Reavers of Harkenwold&lt;/em&gt; two-part
+adventure that comes with the Dungeon Master’s Kit boxed set. The Kit was the
+main GMing aid for the Essentials line, and was sold at the same time as
+Threats. This book really wants you to get that box, so it avoids spoilers for
+&lt;em&gt;Reavers&lt;/em&gt; and recommends you to leave the named leaders out of any home-grown
+adventures until you can buy and read it (cha-ching!).&lt;/p&gt;
+
+&lt;p&gt;The Iron Circle is shown here as it was shortly before the start of &lt;em&gt;Reavers&lt;/em&gt;,
+so they’re still mostly focused on spying and reconnaissance, moving discreetly
+in small groups and avoiding openly showing their symbols. Soldiers openly
+wearing their colors are known mostly as slightly creepy foreign
+mercenaries. Their spying does not restrict itself to Harkenwold, but also
+touches upon the elves of Harken forest (whether they belong to Harken’s Heart
+or not) and on the Daggerburg Goblins.&lt;/p&gt;
+
+&lt;p&gt;The Circle’s spellcasters all use infernal magic, and have a particular affinity
+for summoning Tar Devils. These creatures are so named because they constantly
+secrete tar from their skins, and they love acting as guards and extra muscle
+for Circle detachments. They usually wear little clothing and use exotic
+weapons.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats here for all the types of unit that make up the Iron Circle’s
+roster, but as mentioned before the book avoids statting up important named NPCs
+that have roles in &lt;em&gt;Reavers&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The majority of the Circle’s mortal agents are human, but sympathetic people
+from other races are also accepted as members. You can use any other stat blocks
+from the MMs (humans, elves, dwarves, other species) as members of the
+circle. Circle members have no common traits, so you don’t need to do much
+reskinning for them.&lt;/p&gt;
+
+&lt;p&gt;Tar Devils are Medium Immortal Humanoids with Fire Resistance 10 and Acid
+Vulnerability 5. Maybe acid interacts badly with the tar?&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-circle-brigand&quot;&gt;Iron Circle Brigand&lt;/h3&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-iron-circle-brigand.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The most basic and numerous soldier of the Circle uses this stat block. As the
+name implies, they’re definitely not above engaging in a little banditry. These
+are Level 1 Soldiers with 28 HP. They’re well-equipped with scale armor, shield
+mace, crossbow and a fancy black cloak with the Circle’s emblem (a circle made
+of chains) embroidered on it.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;mace&lt;/strong&gt; and &lt;strong&gt;crossbow&lt;/strong&gt; provide the soldier with basic melee and ranged
+attacks. They can also use the mace to &lt;strong&gt;Drive Back&lt;/strong&gt; an enemy, dealing the same
+damage as a basic attack, pushing the target 1 square, and shifting 1 square to
+follow. Their &lt;strong&gt;Relentless Assault&lt;/strong&gt; trait acts as an aura (1) that deals 3
+damage to any enemy inside that makes an attack that doesn’t target the brigand.&lt;/p&gt;
+
+&lt;p&gt;Brigands probably like to gang up on defenders and melee strikers, since most of
+those PCs’ attacks are single-target and will trigger Relentless Assault on all
+the other brigands not targeted.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-circle-dark-adept&quot;&gt;Iron Circle Dark Adept&lt;/h3&gt;
+
+&lt;p&gt;This infernalist spellcaster is a Level 3 Controller with the Leader keyword and
+46 HP. They fight in melee with a &lt;strong&gt;Dark Dagger&lt;/strong&gt; that deals fire damage and
+slides 3 squares on a hit. At range they can use an area attack named &lt;strong&gt;Dark
+Tendrils&lt;/strong&gt; that deals fire damage, slows, and makes targets grant combat
+advantage for a turn. It’s not selective, so it can cause friendly fire
+incidents.&lt;/p&gt;
+
+&lt;p&gt;The adept’s leaderly power is &lt;strong&gt;Dark Imperative&lt;/strong&gt;, a minor action that recharges
+when they’re first bloodied. It targets an ally and lets them slide that ally 3
+squares. The ally gains 10 temporary HP, and while those last their attacks all
+deal an extra 3 necrotic damage. Great to place skirmishers behind PC lines.&lt;/p&gt;
+
+&lt;h3 id=&quot;tar-devil-harrier&quot;&gt;Tar Devil Harrier&lt;/h3&gt;
+
+&lt;p&gt;These tar devils are Level 3 Artillery with 36 HP. They fight with a &lt;strong&gt;Kukri&lt;/strong&gt;
+up close but prefer to hang back and throw &lt;strong&gt;tar balls&lt;/strong&gt; that deal fire damage,
+slow and deal 2 ongoing damage (save ends both). If surrounded they can produce
+a &lt;strong&gt;Fuming Cloud&lt;/strong&gt; (encounter) that deals fire damage and creates a zone that
+lasts the rest of the encounter. The zone provides concealment and deals 2 fire
+damage to any creature ending their turn inside.&lt;/p&gt;
+
+&lt;h3 id=&quot;tar-devil-brawler&quot;&gt;Tar Devil Brawler&lt;/h3&gt;
+
+&lt;p&gt;This one likes to fight with using its secreted tar as a weapon. It’s a Level 3
+Brute with 53 HP. Its &lt;strong&gt;Tar Splatter&lt;/strong&gt; acts like an aura (1) that prevents
+enemies who start their turns inside from shifting that turn. It attacks with
+&lt;strong&gt;slams&lt;/strong&gt; that deal fire damage, and with &lt;strong&gt;Tar Strikes&lt;/strong&gt; (recharge 5+) that
+deals heavy fire damage, immobilizes, and inflicts ongoing 5 fire damage (save
+ends both).&lt;/p&gt;
+
+&lt;h3 id=&quot;tar-devil-guard&quot;&gt;Tar Devil Guard&lt;/h3&gt;
+
+&lt;p&gt;This Level 4 Soldier has 53 HP and wields a &lt;strong&gt;khopesh&lt;/strong&gt; in combat. The &lt;strong&gt;hot
+reek&lt;/strong&gt; of its tar acts as an aura (1) that deals 2 fire damage to any enemy that
+starts their turn inside, and also prevents them from shifting that turn. It can
+also toss a &lt;strong&gt;tar net&lt;/strong&gt; out to Range 5, targeting Reflex. A hit deals fire
+damage, restrains (save ends), and lets the devil pull the target up to 4
+squares to a square adjacent to it.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-circle-spy&quot;&gt;Iron Circle Spy&lt;/h3&gt;
+
+&lt;figure class=&quot;right&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-iron-circle-spy.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Spies are among the most well-trained mortal agents of the Circle current in the
+area. They wear no identifying marks, and pose as normal travelers or
+inhabitants of Harkenwold’s many small communities. Spies are Level 4 Lurkers
+with 44 HP. When pressed into a fight, they use &lt;strong&gt;short swords&lt;/strong&gt; in melee and
+blasts of &lt;strong&gt;infernal fire&lt;/strong&gt; at range. Both are basic attacks.&lt;/p&gt;
+
+&lt;p&gt;Spies can cloak themselves in a &lt;strong&gt;Veil of Shadows&lt;/strong&gt;, creating a zone that lasts
+for a turn and blocks line of sight for everyone except for the spy. They can
+also imbue their swords with flame for an &lt;strong&gt;Infernal Strike&lt;/strong&gt;. This is twice as
+strong as a basic strike and deals fire damage, half on a miss. Using one of
+these two powers recharges the other, so there’s your lurker loop.&lt;/p&gt;
+
+&lt;p&gt;If an enemy uses a power that inflicts forced movement on the spy while it’s
+inside the Veil of Shadows, the spy can use &lt;strong&gt;Diabolical Dodge&lt;/strong&gt; to make a free
+basic attack against that enemy and shift up to 2 squares to another square
+inside the zone, all as an interrupt.&lt;/p&gt;
+
+&lt;h3 id=&quot;iron-circle-commander&quot;&gt;Iron Circle Commander&lt;/h3&gt;
+
+&lt;p&gt;This &lt;em&gt;might&lt;/em&gt; apply to Nazin Redthorn, or it might be one of the officers under
+his command. I haven’t read Reavers yet! Anyway, commanders are Level 5 Elite
+Soldiers with the Leader tag and 126 HP. They wield &lt;strong&gt;flails&lt;/strong&gt; with great
+skill.&lt;/p&gt;
+
+&lt;p&gt;Aside from basic attacks, they can use a &lt;strong&gt;Devil’s Tactics&lt;/strong&gt; at-will maneuver
+that does the same damage, makes the target grant combat advantage for a turn on
+a hit, and lets an enemy within 5 squares make a free basic attack against the
+target as an effect. If an enemy leaves a square adjacent to the commander, it
+can use &lt;strong&gt;Tripping Flail&lt;/strong&gt; as an opportunity action to attack their Reflex and
+knock them prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the commander can unleash a selective blast of &lt;strong&gt;Infernal
+Flames&lt;/strong&gt;, which deal fire damage and daze on a hit (save ends). Allies in the
+blast gain 5 temporary HP.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;Unlike Dythan’s Legion or the Gray Company, which can take a while to become
+active, the Iron Circle is poised to be an immediate threat to starting
+characters and to the Vale, which is exactly what happens in Reavers of
+Harkenwold.&lt;/p&gt;
+
+&lt;p&gt;If left unopposed, they might end up pressganging the Daggerburg Goblins (as
+someone in the RPG.net thread mentioned shortly before I wrote this), and might
+even link up with the Shadow Court over in Fallcrest to grab information about
+the city before moving against it in force. The Shadow Court entry gave me the
+impression the Circle wouldn’t have a use for the tiefling gang, but it turns
+out they would neatly slot into each other’s plans.&lt;/p&gt;
+
+&lt;p&gt;It was pointed out to me that the Shadow Court could be seen as embodying
+several unfortunate anti-semitic tropes. One way to avoid that would be to not
+make them a spy ring working for the Iron Circle from the start, to have a
+more diverse membership than just tieflings, and to completely remove all the
+text about their recruiting practices.&lt;/p&gt;
+
+&lt;p&gt;Of the groups we saw so far, the druids of Harkens Heart would have cause to
+oppose the Circle’s advances into their woods, but would have little ability or
+desire to fight them outside. The Daggerburg goblins would of course resist
+being pressed into service to them, and might either have a good shot at
+succeeding, or might need PC help depending on your campaign goals.&lt;/p&gt;
+
+&lt;p&gt;The Gravelstokes might work for the Circle if the money is right, but if you
+keep the level disparity they’ll most likely adopt a wait and see approach
+before deigning to offer their services. PCs who can scrape together their
+ruinous fees might turn things around and hire the assassin family to strike the
+Iron Circle’s leadership instead!&lt;/p&gt;
+
+&lt;p&gt;The Hunter Spiders would ignore all of these surfacer conflicts unless they give
+them more opportunities to grab slaves to aid in their search.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/02/01/iron-circle.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/01/iron-circle.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Hurly-Burly Brothers</title>
@@ -1541,299 +1768,6 @@ class with bonuses to AC, damage, saves, and regeneration.&lt;/p&gt;
         <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2022/12/28/fell-court.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/28/fell-court.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Dythan's Legion</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-dythans-legion.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is another setting-specific group.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Dythan’s Legion is a large all-dragonborn military organization. As the name
-implies, their leader is Legatus Dythan, an ambitious and charismatic leader who
-dreams of seeing Arkhosia restored to its ancient glory, presumably with him at
-the top.&lt;/p&gt;
-
-&lt;p&gt;The Legion uses the same ranks and organization as the ancient armies of
-Arkhosia, and numbers about 500 members in total, usually operating in platoons
-of 20 to 24 people. These are supported by war-trained drakes and behemoths, and
-sometimes even by salvaged Arkhosian battle constructs.&lt;/p&gt;
-
-&lt;p&gt;Upon admission into the Legion, every member is branded with a symbol that used
-to be a Turathi slave marking. Dythan’s ancestors in the Drakerider clan used to
-live in the border between Arkhosia and Bael Turath, and were taken captive in a
-Turathi raid. After they were freed or escaped their enslavement, they took the
-mark for their own as a reminder of what Arkhosia was fighting against, and
-passed it onto their descendants. Dythan himself bears such a mark, and makes
-sure his soldiers remember as he does.&lt;/p&gt;
-
-&lt;p&gt;Though the Legion usually operates far south of the Vale, a contingent of them
-arrived here recently looking for ruins of Arkhosian outposts that are said to
-have been here back in the old days. One of them, Rolaz-Gaar, is somewhere along
-the shores of Lake Nen (in the NE corner of the Vale). Another might be
-somewhere beneath the Ogrefist Hills near the Vale’s western border. The Legion
-detachments concentrate in these two locations.&lt;/p&gt;
-
-&lt;p&gt;Despite being fairly small when compared to those ancient imperial armies, the
-Legion is still a large force by the standards of our narrative present, and its
-members are well-trained and well-equipped professionals. They’re not interested
-in conquering the Vale, but they’re unlikely to be very nice to anyone who
-stands in the way of their search. It’s unclear from the text whether Dythan
-himself is in the Vale at the moment. If the GM judges the ruins contain
-something really important, then he’s likely to be here overseeing the searches
-personally. If he’s not, a sufficient challenge to the Legion’s operations in
-the area might result in him appearing with reinforcements.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The actual people who make up the legion are all dragonborn, and their elite
-training places them as early Paragon threats. We also get stats for their
-salvaged Arkhosian siege towers, and for the Liondrakes they use as mounts. They
-use other drakes and behemoths in various roles, but those use the base
-stats for these creatures, perhaps leveled-up to match their handlers.&lt;/p&gt;
-
-&lt;p&gt;As dragonborn, all members of Dythan’s Legion can use &lt;strong&gt;Dragon Breath&lt;/strong&gt;, which
-like the PC version is an encounter power that lets them breathe energy in a
-Close Burst 3 vs. Reflex. The damage type varies per stat block, and can be
-changed to match specific individuals. They also have Speed 6, and the
-non-minions have the PC trait that gives them +1 to hit while bloodied.&lt;/p&gt;
-
-&lt;p&gt;Alignment-wise, every dragonborn here including Dythan has the Evil alignment,
-which paints us an interesting picture combined with the slave marking story in
-the Lore section. You could perhaps see them as greedy and ruthless imperialists
-who are nevertheless vehemently against slavery in all its forms. It would also
-be relatively easy to say they focus on the less-bad parts of Arkhosia’s past
-and make them Unaligned. Making them actively heroic is more of a stretch, I
-feel, and would require bigger changes to their background.&lt;/p&gt;
-
-&lt;p&gt;Like we did with the Daggerburg goblins, we’ll look at them in order of
-increasing level.&lt;/p&gt;
-
-&lt;h3 id=&quot;dythans-legion-warrior&quot;&gt;Dythan’s Legion Warrior&lt;/h3&gt;
-
-&lt;p&gt;The rank and file of the Legion is made up of these veteran soldiers. They’re
-Level 10 Minion Skirmishers wearing leather armor and carrying heavy
-shields. They fight with spears in melee, and can throw javelins at range.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait gives them an extra +1 AC per adjacent ally,
-up to a maximum of +4. This would be a big no-no on a regular monster (remember
-MM1 hobgoblins?) but it’s OK to have on a minion since you only need to hit them
-once.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Spear&lt;/strong&gt; Attack deals a bit of extra damage when they have combat
-advantage, and allows the warrior to shift 1 square before or after the
-attack. The &lt;strong&gt;Javelin&lt;/strong&gt; is a standard ranged attack. Their breath is lightning.&lt;/p&gt;
-
-&lt;p&gt;PCs are unlikely to meet legionnaires in numbers smaller than a platoon, and
-this stat block helps fill out those numbers without making the encounter
-impossible. They can be easily made into regulars if you need more powerful
-infantry for an encounter.&lt;/p&gt;
-
-&lt;h3 id=&quot;dythans-legion-archer&quot;&gt;Dythan’s Legion Archer&lt;/h3&gt;
-
-&lt;p&gt;These are battlefield archers, so they’re trained to put a lot of arrows into a
-group of clustered targets. They’re Level 10 Artillery with 84 HP. The &lt;strong&gt;short
-sword&lt;/strong&gt; and &lt;strong&gt;Longbow&lt;/strong&gt; basic attacks are solid, with the latter being the
-better option. They can also fire an &lt;strong&gt;Arrow Volley&lt;/strong&gt; (recharge 4+) that targets
-enemies in an Area Burst 1 within 20 squares and does light physical damage to
-each one it hits.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;dragon breath&lt;/strong&gt; deals cold damage and also pushes 1 square on a hit,
-making it a good “keep-away” emergency power.&lt;/p&gt;
-
-&lt;h3 id=&quot;dythans-legion-vanguard&quot;&gt;Dythan’s Legion Vanguard&lt;/h3&gt;
-
-&lt;p&gt;Vanguards march into battle at the front of the Legion’s infantry formations,
-engaging the enemy directly to give space for the mobile Warriors to flank
-them. They’re Level 11 Soldiers with 111 HP, wear plate, and carry swords and
-heavy shields.&lt;/p&gt;
-
-&lt;p&gt;They have the same &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait as the Warriors, which means they
-punch above far above their weight as far as AC is concerned. If you can’t
-isolate them from their allies, hit them in the non-armor defenses!&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;Longsword&lt;/strong&gt; attack marks for a turn on a hit, and they can use
-minor actions to &lt;strong&gt;shield bash&lt;/strong&gt; marked targets. This does no damage, but dazes
-for a turn. &lt;strong&gt;Vanguard’s Mark&lt;/strong&gt; (recharge when first bloodied) allows them to
-mark a target that’s up to 5 squares away with a minor action. If the marked
-target doesn’t end their next turn adjacent to the vanguard, the vanguard can
-charge it as a free action that doesn’t provoke opportunity attacks. This makes
-the power an excellent way to hit the PC’s squishies.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; does poison damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;dythans-legion-dragoon&quot;&gt;Dythan’s Legion Dragoon&lt;/h3&gt;
-
-&lt;p&gt;Real-world dragoons were so named because they were cavalry that carried
-firearms (so their weapons “spat fire”). The dragoons of Dythan’s Legion got
-this name from the fact that they ride the next best thing to an actual dragon.&lt;/p&gt;
-
-&lt;p&gt;Dragoons are Level 12 Controllers with the Leader keyword and 119 HP. They wear
-leather like the infantry, and carry &lt;strong&gt;lances&lt;/strong&gt; into combat. Most of their
-abilities are related to mounted combat. The &lt;strong&gt;Masterful Rider&lt;/strong&gt; trait negates 1
-square of all forced movement imposed upon them if they’re mounted; the
-&lt;strong&gt;Incensed Mount&lt;/strong&gt; reaction allows their mount to make a free basic attack
-against an enemy who damages the rider; and even their basic lance attack knocks
-prone on a hit if the dragoon is mounted.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Battlefield Mastery&lt;/strong&gt; power (recharge 4+) is a minor action that allows
-every ally in a Close Burst 2 to shift 1 square. And yeah, the mount is an
-ally. Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; does acid damage.&lt;/p&gt;
-
-&lt;p&gt;Dragoons are quite dangerous when mounted! Canny PCs will seek to knock them
-down and prevent them from remounting again.&lt;/p&gt;
-
-&lt;h3 id=&quot;liondrake&quot;&gt;Liondrake&lt;/h3&gt;
-
-&lt;p&gt;Captured young in the distant deserts of the south, these Large Natural Beasts
-are the mount of choice for Dythan’s Dragoons. They look a lot like dragons, and
-have many of the same attacks, but are not sapient and lack breath weapons. The
-specimen statted up here has been trained as a war mount and is a Level 12
-Skirmisher with 122 HP. It has a ground speed of 7, a fly speed of 10, and
-Darkvision.&lt;/p&gt;
-
-&lt;p&gt;The drake’s &lt;strong&gt;Fierce Mount&lt;/strong&gt; trait gives both it and its rider a +4 bonus to
-defenses against opportunity attacks. It has both a &lt;strong&gt;bite&lt;/strong&gt; and a &lt;strong&gt;claw&lt;/strong&gt; as
-basic attacks, and can perform &lt;strong&gt;Battle Leaps&lt;/strong&gt; that allow it to shift up to 4
-squares and then either bite once or claw twice. It has a &lt;strong&gt;Terrifying Roar&lt;/strong&gt;
-encounter power that is kinda like dragon breath, targeting a Close Blast 5,
-doing thunder damage, and dazing (save ends).&lt;/p&gt;
-
-&lt;p&gt;Liondrakes are dangerous even on their own, but they synergize very well with
-Dragoons. They also make great mounts for other kinds of paragon-tier “rider”
-opponents.&lt;/p&gt;
-
-&lt;h3 id=&quot;arkhosian-siege-tower&quot;&gt;Arkhosian Siege Tower&lt;/h3&gt;
-
-&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wit-tnv-dythans-legion-tower.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;These are ancient constructs built by Arkhosia and salvaged by the Legion. They
-were either brought to the vale from the South, or salvaged from local Arkhosian
-ruins depending on how you want to play it in your campaign. They are 30-foot
-tall and 15-foot wide stone towers that move on 10-foot tall granite rollers.&lt;/p&gt;
-
-&lt;p&gt;A tower can transport troops in its two internal floors, allowing them to
-disembark on enemy battlements. On top of it is a sculpted dragon head that can
-swivel in a 360-degree arc and shoot fireballs at enemies. Being a construct,
-the tower is capable of driving and shooting by itself, though if it gets too
-damaged its occupants will dearly feel the lack of internal safety equipment.&lt;/p&gt;
-
-&lt;p&gt;Arkosian Siege Towers are Huge Natural Animates with the Construct keyword and
-336 HP. They’re immune to charm, disease, and poison, and have Resist 15 to all
-damage originating from outside themselves. The rest of their stat block really
-stretches the format in an attempt to model all they can do, starting with a
-trio of very interesting traits:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;All-Around Vision&lt;/strong&gt; means they don’t grant combat advantage when flanked;
-&lt;strong&gt;Juggernaut&lt;/strong&gt; means it ignores difficult terrain and doesn’t provoke
-opportunity attacks, but it also can’t squeeze, make OAs, or grab
-creatures. &lt;strong&gt;Living Building&lt;/strong&gt; has a list of effects as long as my arm:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The tower can occupy other creature’s spaces, and other creatures can end
-their movement in its spaces. That’s rules-talk for “it can fit people inside
-itself”. When it moves, creatures inside move along with it as if it was a
-vehicle.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The tower is 30 feet tall and has two internal 15-foot tall levels. The
-Athletics DC for climbing it from the outside is 20.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The lower level has two iron double doors (break DC 25) that it can open and
-close as a free action. When the doors are closed, there is no line of sight
-or effect between the inside and outside.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The upper level has arrow slits that allow occupants to shoot outside. It’s
-linked to the lower level by 2 ladders.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Finally, the &lt;strong&gt;Rough Ride&lt;/strong&gt; trait models how damage impacts the tower. While
-bloodied, the tower is slowed and inflicts a -2 penalty to attacks on all its
-occupants.&lt;/p&gt;
-
-&lt;p&gt;As a construct, the tower has two attacks. The &lt;strong&gt;Dragon’s Head&lt;/strong&gt; shoots
-fireballs (Area 1 within 20) that deal immediate and ongoing fire damage, half
-on a miss. And it can &lt;strong&gt;Crush&lt;/strong&gt; with its move action, which allows it to make
-attacks against any creatures whose spaces it enters during the move.&lt;/p&gt;
-
-&lt;p&gt;When the tower drops to 0 HP, it &lt;strong&gt;Collapses&lt;/strong&gt;, making an attack vs. the Reflex
-of every occupant that deals heavy damage and knocks them prone on a hit. The
-tower’s space becomes difficult terrain (a giant pile of rubble!).&lt;/p&gt;
-
-&lt;p&gt;The stats make no mention of a disembarking ramp on the second level, but it’s
-easy to say there is one there. It’d be as sturdy as the ground floor doors, and
-controlled in the same way.&lt;/p&gt;
-
-&lt;p&gt;The best way to fight a siege tower is from inside, where you can bypass its DR
-and “only” have to contend with its occupants. These are likely to be a
-combination of vanguards and archers.&lt;/p&gt;
-
-&lt;h3 id=&quot;legatus-dythan&quot;&gt;Legatus Dythan&lt;/h3&gt;
-
-&lt;p&gt;Dythan is big and imposing even for a Dragonborn. He wears an ornate suit of
-plate adorned with Arkhosian heraldic devices done in gold inlay. He’s not just
-a competent general, but an extremely skilled combatant as well.&lt;/p&gt;
-
-&lt;p&gt;Dythan is a Level 15 Elite Soldier with 290 HP and the Leader keyword. He wears
-his nifty armor suit and carries a shield, a sword and a brace of javelins into
-battle. He has the same &lt;strong&gt;Phalanx Formation&lt;/strong&gt; trait as his vanguards, and
-projects a &lt;strong&gt;Last Stand&lt;/strong&gt; aura (5) that gives allies inside a +2 bonus to damage
-while they’re bloodied. He also gains at +2 to hit while bloodied himself,
-instead of the usual +1 for dragonborn.&lt;/p&gt;
-
-&lt;p&gt;Dythan might be a Soldier but he doesn’t mark anyone. Instead he wants the PCs
-to mark him! His &lt;strong&gt;longsword&lt;/strong&gt; deals bonus damage if the target is marking
-Dythan or has an active defender aura. If an enemy marks an ally within 5
-squares of Dythan, he can use &lt;strong&gt;Dythan’s Challenge&lt;/strong&gt; to transfer the mark to
-himself.&lt;/p&gt;
-
-&lt;p&gt;As a minor action he can perform a &lt;strong&gt;Shield Bash&lt;/strong&gt;, which damages, pushes 1
-square, and allows the legate to shift 1 square to follow. This is a full attack
-with standard damage because he’s an elite. Those javelins are &lt;strong&gt;Shock
-Javelins&lt;/strong&gt; that deal lightning damage. And finally, his &lt;strong&gt;Dragon Breath&lt;/strong&gt; is the
-traditional fire.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I really like Dythan’s Legion. They’re a major threat compared to almost
-everything else in the Vale, but they’re focused on doing their own thing and
-have no reason to be immediately hostile to the PCs.&lt;/p&gt;
-
-&lt;p&gt;Depending on how villainous you want to make them, they might make a good
-late-game antagonist faction when they find those ancient ruins and start
-bringing in their full numbers to the Vale looking to conquer it and make it
-their new base of operations. They might also work as uneasy allies against
-other Vale-wide threats, like a full-scale Bloodspear invasion or one of the big
-dragons.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/26/dythans-legion.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/26/dythans-legion.html</guid>
         
         <category>dnd4</category>
         
