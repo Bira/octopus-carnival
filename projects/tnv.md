@@ -54,6 +54,9 @@ As more monsters are added, they will be linked below.
 - I
   - [Iron Circle][23]
 
+- M
+  - [Mages of Saruun][24]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -78,3 +81,4 @@ As more monsters are added, they will be linked below.
 [21]: {{ "/2023/01/25/hunter-spiders.html" | relative_url }}
 [22]: {{ "/2023/01/27/hurly-burly-brothers.html" | relative_url }}
 [23]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
+[24]: {{ "/2023/02/03/mages-of-saruun.html" | relative_url }}
