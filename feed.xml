@@ -6,9 +6,173 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Feb 2023 18:51:19 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Feb 2023 18:51:19 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Feb 2023 11:59:40 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Feb 2023 11:59:40 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Mooncalf</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-mooncalf.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the others.&lt;/p&gt;
+
+&lt;p&gt;This was the first time I saw these monsters, and they feel new.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Mooncalves are creatures native to the Far Realm with innate dimensional travel
+powers. They look like giant bat-winged eyeless squids. Their life cycle is a
+mystery, but it seems to include regular trips to the middle world, where they
+spend a few weeks nesting at the top of a mountain or hill, hunting by night and
+resting by day. The Nentir Vale has a lot of mountains and hills, so they often
+end up there.&lt;/p&gt;
+
+&lt;p&gt;These creatures travel in groups of 2-5 individuals known as “grasps”, and
+arrive at the middle world roughly every 8 years. They’re not picky about their
+food and will hunt whatever is available. They do like the flesh of humanoids
+and their cattle, so if “what’s available” is a village that place will be in
+serious trouble while the incursion lasts, and might end up getting abandoned or
+decimated.&lt;/p&gt;
+
+&lt;p&gt;Nerathi sages knew how to predict mooncalf incursions with great accuracy, but
+the knowledge has been lost. All that’s left are the stories of past
+incursions. Of how Hammerfast was once tormented by a single individual of
+prodigious size and appetite, or how a hunter was accidentally saved from being
+eaten by a manticore when a mooncalf appeared and ate the beast instead.&lt;/p&gt;
+
+&lt;p&gt;The most popular mooncalf vacation spot, however, is Thunderspire. The things
+just love the permanent storm at its top, and descend from it to hunt in the
+surrounding region.&lt;/p&gt;
+
+&lt;p&gt;These creatures are intelligent but alien. They can communicate via telepathy
+but only those who know Deep Speech can even begin to understand their thought
+patterns. What they can understand ends up being mostly about killing and
+eating. They will definitely talk to each other and set up clever ambushes for
+prey, however, using psychic powers to lure their victims into the reach of
+their tentacles, or to conjure small localized storms.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Mooncalves are Large Aberrant Magical Beasts, with Resistance to Lightning and
+Thunder 10. They also have Darkvision, so I guess they’re not eyeless after
+all. Their ground speed is 6 and their flight speed is 8.&lt;/p&gt;
+
+&lt;p&gt;Their signature trait is &lt;strong&gt;Tentacle Snare&lt;/strong&gt;, which lets them pull all grabbed
+creatures with them when moving.&lt;/p&gt;
+
+&lt;h3 id=&quot;mooncalf&quot;&gt;Mooncalf&lt;/h3&gt;
+
+&lt;p&gt;The base model, who makes up those grasps of 2-5. It’s a Level 10 Controller
+with 112 HP.&lt;/p&gt;
+
+&lt;p&gt;The mooncalf’s basic attack is a Reach 4 &lt;strong&gt;tentacle rake&lt;/strong&gt;, and it can use
+&lt;strong&gt;Tentacle Grab&lt;/strong&gt; to do a little less damage and grab the victim. The monster
+can have up to 2 grabbed victims, and can release a victim as a free
+action. The escape DC is 18, and grabbed victims take 5 ongoing damage while the
+grab lasts.&lt;/p&gt;
+
+&lt;p&gt;These tentacle attacks can’t target victims who are already grabbed. Instead,
+the mooncalf can use &lt;strong&gt;Vile Bite&lt;/strong&gt; on them, which deal physical damage and
+prevent the target from spending healing surges for a turn.&lt;/p&gt;
+
+&lt;p&gt;The mooncalf’s psychic powers are both minor actions. &lt;strong&gt;Lure&lt;/strong&gt; is a ranged
+attack that targets Will and pulls the target up to 5 squares on a
+hit. &lt;strong&gt;Stormwrack&lt;/strong&gt; is an encounter power that creates a fireball-sized zone
+which deals 10 lightning and thunder damage to anyone caught inside. It lasts a
+turn but can be sustained with further minor actions.&lt;/p&gt;
+
+&lt;h3 id=&quot;mooncalf-harvester&quot;&gt;Mooncalf Harvester&lt;/h3&gt;
+
+&lt;p&gt;Rarely, a mooncalf will present a peculiar mutation that gives it teleportation
+powers instead of weather control. Harvesters are Level 10 Skirmishers with 107
+HP.&lt;/p&gt;
+
+&lt;p&gt;Their physical abilities are all identical to the base model, but instead of
+Lure and Stormwrack they have &lt;strong&gt;Teleport&lt;/strong&gt;, an encounter power that lets them
+teleport 10 squares and take all grabbed victims with them.&lt;/p&gt;
+
+&lt;h3 id=&quot;mooncalf-sire&quot;&gt;Mooncalf Sire&lt;/h3&gt;
+
+&lt;p&gt;A mooncalf that managed to grow to a prodigious size and spawn progeny. It will
+usually be found in the company of that progeny, a group of three or so standard
+mooncalves.&lt;/p&gt;
+
+&lt;p&gt;Sires are Huge in size, and are Level 12 Elite Controllers with 262 HP. They
+have the same physical attacks as a standard specimen: Tentacle Rake, Tentacle
+Grab, and Vile Bite. The main different is that they are Reach 6 instead of 4,
+and are generally more effective due to the beast’s higher level. The sire can
+use &lt;strong&gt;Double Attack&lt;/strong&gt; to perform any combination of two of these attacks with
+one standard action.&lt;/p&gt;
+
+&lt;p&gt;Sires also have Lure, and their weather control abilities take the form of two
+different encounter powers. &lt;strong&gt;Call Lightning&lt;/strong&gt; is an attack that targets enemies
+in a Close Blast 5, does lightning damage and slows for a turn. &lt;strong&gt;Fury of the
+Storm&lt;/strong&gt; is an interrupt that triggers when the sire is bloodied, and causes it
+to project an aura (1) that deals 10 lightning and thunder damage to enemies
+caught inside. This lasts for the rest of the encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;mooncalf-rogue&quot;&gt;Mooncalf Rogue&lt;/h3&gt;
+
+&lt;p&gt;Sometimes, a mooncalf is separated from its kin. These loners might team up with
+other creatures capable of understanding them, such other aberrant monsters or
+mortal spellcasters with strong connections to the Far Realm. These use standard
+stat blocks. A rogue is something else.&lt;/p&gt;
+
+&lt;p&gt;Mooncalf rogues are outcasts among their kind and are adamant in their desire to
+remain alone. They attack even other mooncalves who trespass upon their
+territories. The isolation, or perhaps something they do to themselves, causes
+them to grow far beyond the size of a standard mooncalf, and to develop powers
+not seen among those more gregarious individuals.&lt;/p&gt;
+
+&lt;p&gt;These creatures are also Huge in size, and are Level 15 Solo Soldiers with 620
+HP. They have two additional traits: &lt;strong&gt;Psychic Veil&lt;/strong&gt; makes them invisible to
+creatures more than 6 squares away from it, and &lt;strong&gt;Superior Brain&lt;/strong&gt; ends any
+dazing or stunning effects on them at the start of their turn.&lt;/p&gt;
+
+&lt;p&gt;Their Tentacle Rake is upgraded to a &lt;strong&gt;Tentacle Slam&lt;/strong&gt; that also knocks prone on
+a hit. The other two attacks are the same, with bigger damage and Reach 6
+instead of 4. &lt;strong&gt;Multiattack&lt;/strong&gt; lets the rogue perform three melee attacks against
+different targets with the same action.&lt;/p&gt;
+
+&lt;p&gt;They can call up a &lt;strong&gt;Windwrack&lt;/strong&gt; aura as a minor action (recharge 5+). This
+lasts a turn, prevents any creatures inside from shifting, and knocks them prone
+if they end their turns inside. If an enemy escapes the rogue’s grab, it can
+react with a &lt;strong&gt;Tentacle Flurry&lt;/strong&gt; that lets it attack every enemy in a Close
+Burst 1.&lt;/p&gt;
+
+&lt;p&gt;If you can see this thing at all, it can reach you with its tentacles. I guess
+they would typically try to grab a couple of PCs and fly away to eat in peace,
+but it’s also excellent at playing a more traditional soldier role and
+protecting squishy artillery from PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Delightfully weird and horrific, and an excellent out-of-context problem to
+throw at the PCs when they’re busy dealing with something else. They go
+somewhere to face a more mundane threat, and suddenly discover it’s mooncalf
+season.&lt;/p&gt;
+
+&lt;p&gt;Rogues work very well as the Thing From Beyond that a Far Realm cult might be
+trying to summon. They’re threats on par with an adult dragon or a titan, but
+are completely impervious to negotiation.&lt;/p&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the others.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/02/06/mooncalf.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/06/mooncalf.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Mages of Saruun</title>
@@ -1646,125 +1810,6 @@ entry for a Level 12 witch.&lt;/p&gt;
         <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/01/01/frost-witches.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/01/frost-witches.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Felldrake</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-felldrakes.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Felldrakes are a Vale-specific new addition to the game.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Shortly after signing the pact that transformed them, the ruling nobility of
-Bael Turath set about applying their newfound infernal power in several ways
-they felt would benefit the empire. One of the things they did was magically
-alter the many breeds of drake the Turathi already employed to make them
-stronger and more vicious. These magically altered breeds became known as
-felldrakes.&lt;/p&gt;
-
-&lt;p&gt;Though felldrakes are considered natural animals, they’re much more aggressive
-and territorial than other species and are susceptible to control via old
-Turathi techniques and infernal magic. The Fell Court from our previous entry
-was taught the secret of controlling these creatures by their diabolical
-patrons. It’s possible other groups have learned it as well.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Like other drakes, these are Natural Beasts. They’re a varied lot, though, and
-their abilities are specific to each stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;leaping-felldrake&quot;&gt;Leaping Felldrake&lt;/h3&gt;
-
-&lt;p&gt;This Small drake looks like a green-scaled lizard. As the name implies they’re
-capable of long flying leaps, but they’re also pretty good at lying in
-ambush. Their jaws are very efficient at biting the necks of their victims, and
-their saliva contains a weak venom that turns the flesh around the bite mark
-blue. They were used to protect homes and vaults from burglars, and those blue
-marks aided in tracking any culprits that escaped.&lt;/p&gt;
-
-&lt;p&gt;Leaping Felldrakes are Level 1 Lurkers with 26 HP. They have ground and climb
-speeds of 6. Their basic &lt;strong&gt;bites&lt;/strong&gt; are a little weak, but they can use &lt;strong&gt;Neck
-Bites&lt;/strong&gt; against targets granting them combat advantage. This deals about double
-the damage of a basic bite and allow the drake to grab the target (escape DC
-12), dealing them ongoing 5 damage while the grab lasts.&lt;/p&gt;
-
-&lt;p&gt;The drake’s &lt;strong&gt;Flying Leaps&lt;/strong&gt; allow them to fly 3 squares without provoking
-opportunity attacks. If they have cover, concealment, or no enemies within 5
-squares, they can use &lt;strong&gt;Instant Camouflage&lt;/strong&gt; to become effectively invisible
-until they attack or cancel the effect. That’s how it gains combat advantage in
-most situations, though flanking also works fine in a fight against multiple
-monsters.&lt;/p&gt;
-
-&lt;h3 id=&quot;crested-felldrakes&quot;&gt;Crested Felldrakes&lt;/h3&gt;
-
-&lt;p&gt;These Small drakes are kinda like a cross between a standard &lt;a href=&quot;/octopus-carnival/2020/01/27/drakes.html&quot;&gt;guard drake&lt;/a&gt;
-and a Jurassic Park raptor. They’re pack hunters like unmodified guard drakes,
-but they’re stronger and smarter than then. Crested felldrakes have been known
-to climb on top of one another to reach high places, or to open doors with their
-claws to get at victims on the other side.&lt;/p&gt;
-
-&lt;p&gt;Crested Felldrakes are Level 2 Skirmishers with 39 HP. They have a ground speed
-of 8 and their &lt;strong&gt;Pack Frenzy&lt;/strong&gt; trait gives them +1 to hit and +2 to damage when
-adjacent to a felldrake ally. Their &lt;strong&gt;bites&lt;/strong&gt; damage and allow a felldrake ally
-within 2 squares of the attacker to shift up to 2 squares as a reaction. When
-hit by an opportunity attack, they can automatically shift 2 squares. This
-doesn’t negate the damage from the attack, but it also doesn’t use up an action,
-so it can be done as often as you like. The more you hit them, the more mobile
-they are.&lt;/p&gt;
-
-&lt;h3 id=&quot;hissing-felldrake&quot;&gt;Hissing Felldrake&lt;/h3&gt;
-
-&lt;p&gt;Another Jurassic Park-inspired monstrosity, this is a Medium drake with a large
-folding frill around its neck and the ability to spit a corrosive venom laced
-with soporific chemicals. It’s Level 3 Artillery with 38 HP.&lt;/p&gt;
-
-&lt;p&gt;They can &lt;strong&gt;bite&lt;/strong&gt; but the star of the show is clearly their &lt;strong&gt;Fell Spit&lt;/strong&gt;, a
-ranged attack that targets Reflex and deals acid damage. If the target is
-bloodied, they become slowed for a turn. If they’re already slowed, they instead
-become dazed (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;tri-horned-felldrake&quot;&gt;Tri-Horned Felldrake&lt;/h3&gt;
-
-&lt;p&gt;The larger and most aggressive of the felldrake subspecies, but also oddly
-enough the easiest to domesticate. The Turathi enforced an instinctive pecking
-order with tri-horns at the top, so they have some ability to control other
-felldrake species.&lt;/p&gt;
-
-&lt;p&gt;Tri-horns are Medium Level 4 Soldiers with 58 HP. They have a speed of 5, are
-immmune to fear, and gain a +3 to damage when charging. They can &lt;strong&gt;bite&lt;/strong&gt; and
-also perform &lt;strong&gt;challenging gores&lt;/strong&gt; that deal about the same damage and mark for
-a turn. If a marked target makes an attack that doesn’t target the drake, it can
-use a melee reaction to automatically deal light damage and knock them prone.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The origin of the felldrakes gives you ample excuse to have a wild pack of them
-that attacks on sight and fights to the death, unlike most natural
-beasts. However they really come into their own as pets to the Fell Court or to
-other similar groups that know how to control and boost them in the same way.&lt;/p&gt;
-
-&lt;p&gt;They could also be used as additional Dark Drake species to go with the Dark
-Drake of the Moon Hills. Maybe the Dark Drake is a supernaturally powerful
-felldrake who survives since the days of Bael Turath?&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/12/31/felldrakes.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/12/31/felldrakes.html</guid>
         
         <category>dnd4</category>
         
