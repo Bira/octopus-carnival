@@ -56,6 +56,7 @@ As more monsters are added, they will be linked below.
 
 - M
   - [Mages of Saruun][24]
+  - [Mooncalf][25]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -82,3 +83,4 @@ As more monsters are added, they will be linked below.
 [22]: {{ "/2023/01/27/hurly-burly-brothers.html" | relative_url }}
 [23]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
 [24]: {{ "/2023/02/03/mages-of-saruun.html" | relative_url }}
+[25]: {{ "/2023/02/06/mooncalf.html" | relative_url }}
