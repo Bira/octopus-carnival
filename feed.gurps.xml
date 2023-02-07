@@ -5,9 +5,98 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Feb 2023 12:08:53 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Feb 2023 12:08:53 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2023 15:39:45 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Feb 2023 15:39:45 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Warforged Variants for Dungeon Fantasy</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/warforged_knight_by_will_e_h-d6ewj3b.png&quot;/&gt;
+  &lt;figcaption&gt;&lt;a
+  href=&quot;https://will-e-h.deviantart.com/art/Warforged-Knight-387829415&quot;&gt;Illustration
+  by Will-E-H&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Way back in the olden days of 2017, I published a post presenting the
+&lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;Warforged&lt;/a&gt; of D&amp;amp;D and Eberron fame as a racial template for the Dungeon
+Fantasy RPG. I’m still particularly proud of that post, and have used it in
+actual play, but I also think I can expand upon it a bit now. So here’s a couple
+variant warforged template.&lt;/p&gt;
+
+&lt;p&gt;In this &lt;a href=&quot;/octopus-carnival/2018/10/18/peoples-of-tamriel.html&quot;&gt;2018 post&lt;/a&gt; where I explained how I came up with the stats for the
+peoples of Tamriel, I mentioned that I’m no longer a fan of including attribute
+adjustments and mental or cultural disadvantages in GURPS racial templates. The
+original 2017 Warforged template still includes both, even though it’s a bit
+more restrained with them. So our first variant is an updated template that
+removes those adjustments. It ends up being cheaper! Our second variant adds a
+lens on top of that.&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-20-points&quot;&gt;Warforged (20 points)&lt;/h2&gt;
+
+&lt;p&gt;All of the story-related descriptions remain the same as in the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original
+post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Composite Plating 1 {5}; Doesn’t Breathe {20}; Doesn’t Eat or
+Drink {10}; Unsleeping Watcher {10}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Dependency (Mana, Constantly) {-25}.&lt;/p&gt;
+
+&lt;p&gt;As mentioned in the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original post&lt;/a&gt;, Composite Plating is simply DR 1 without
+the Though Skin limitation, and Unsleeping Watcher is Less Sleep 4 with a +25%
+enhancement that allows the character to remain conscious during their sleep
+period. Check out the link for more flavorful and detailed descriptions.&lt;/p&gt;
+
+&lt;h3 id=&quot;lens-dreaming-doll--2-points&quot;&gt;Lens: Dreaming Doll (-2 points)&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/plain-doll.jpg&quot;/&gt;
+  &lt;figcaption&gt;&lt;a
+  href=&quot;https://www.deviantart.com/enijoi/art/Plain-Doll-634134454&quot;&gt;
+  Illustration by Enijoi&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This lens represent living constructs that do require actual sleep, though they
+still require less of it than us fleshbags. This replaces Unsleeping Watcher {10}
+with standard Less Sleep 4 {8}. The character is not aware of their surroundings
+when sleeping, but they are capable of dreaming.&lt;/p&gt;
+
+&lt;p&gt;This is an interesting lens if you want a character who resembles the Doll from
+Bloodborne more than a standard Eberron warforged.&lt;/p&gt;
+
+&lt;h2 id=&quot;warforged-gifts&quot;&gt;Warforged Gifts&lt;/h2&gt;
+
+&lt;p&gt;These optional traits are available to any warforged. They are individual rather
+than racial traits.&lt;/p&gt;
+
+&lt;p&gt;The optional traits from the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original article&lt;/a&gt; remain options
+here, and are still good to represent the social awkwardness of recently
+activated individuals.&lt;/p&gt;
+
+&lt;p&gt;Warforged with access to the proper tools could spend 5 points/level to increase
+their innate DR up to 3. The same tools might allow them to change their outward
+appearance and presentation in ways that let them acquire levels in the
+Appearance advantage.&lt;/p&gt;
+
+&lt;p&gt;Characters wanting more protection might buy the Accessory (Armor Hardpoints)
+perk for 1 point. This lets them use custom armor that weights 25% less than the
+normal humanoid version, but can’t be used by others or removed on the
+fly. Attaching or removing this custom armor can only be done in town. It costs
+the same as the normal equivalent. Warforged with the perk can still choose to
+wear normal armor, but can’t wear normal and attached armor together on the same
+location.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/02/07/warforged-variants.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/07/warforged-variants.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
     
       <item>
         <title>Shadowrun: Goncharov</title>
@@ -1393,134 +1482,6 @@ mandate starting in 2020. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefo
         <category>gurps</category>
         
         <category>cyberpunk-red</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>On Exalted Martial Arts</title>
-        <description>&lt;p&gt;There’s this post on Mailanka’s Musings that talks about two different ways of
-modeling martial arts in RPGs. The first is something he calls “Move-Based”, and
-the second “Skill-Based”.&lt;/p&gt;
-
-&lt;p&gt;Move-based martial arts is how most RPGs in the 90’s did it. You bought a style,
-and that gave you access to a series of “moves” that were essentially special
-powers with individual rules for what they did. Some systems made you buy each
-individual move as well, usually as a way to model your progression in the
-style - advanced practitioners know more moves. Your move set is as or more
-important than your raw skill level.&lt;/p&gt;
-
-&lt;p&gt;Skill-based martial arts are what GURPS does. Everyone uses the same skills to
-fight, and knowing one style or another is mostly a matter of flavor with a few
-minor mechanical bonuses thrown in. What really matters are your skill levels:
-people with different style familiarities but similar skill levels are equally
-effective. The same applies to someone who “knows” a style and someone who just
-has the combat skills.&lt;/p&gt;
-
-&lt;p&gt;Move-based rules might allow you to emulate some classic kung-fu stories that
-are all about how some styles are objectively superior to others, or how there’s
-a secret style or ultimate technique that’s jealously guarded by a cranky old
-master. Skill-based rules are closer to Bruce Lee’s philosophy, or modern views
-of martial arts in general, where individual skill is more important and the
-“ultimate power” is learning from multiple sources and combining everything into
-something that works for you.&lt;/p&gt;
-
-&lt;p&gt;Personally, I prefer skill-based rules, largely due to my exposure to GURPS
-Martial Arts for Fourth edition. Everything it introduces can be done by someone
-who isn’t using the style rules. It covers styles from the whole world without
-treating any of them as inherently superior, and it acknowledges that basically
-any organized system of fighting counts as a “style”. The “generic swings” other
-systems describe as the standard form of fighting only happen if you’re
-completely untrained.&lt;/p&gt;
-
-&lt;p&gt;Given this preference, it comes as no surprise that I have a few weirdly
-specific hangups about how Exalted handles its martial arts. Let’s talk about
-them!&lt;/p&gt;
-
-&lt;h2 id=&quot;exalteds-martial-arts&quot;&gt;Exalted’s Martial Arts&lt;/h2&gt;
-
-&lt;p&gt;Exalted’s &lt;em&gt;whole system&lt;/em&gt; is entirely move-based. Every PC has a large set
-of “Charms” that are usually linked to skills, and represent magic techniques
-they can use to enhance uses of that skill. Getting to the maximum possible
-skill level is trivial, and it’s your Charms that make the difference when going
-against similarly supernatural opposition. This goes even for non-combat skills,
-though the fighty bits tend to take up a lot of attention.&lt;/p&gt;
-
-&lt;p&gt;Martial Arts are part of this system, but the game still takes pains to make
-them extra-special, even as it struggles to explain what makes them different
-from standard combat powers. Exalted First Edition had a separate Martial Arts
-skill, whose associated Charms were structured as “Martial Arts Styles”. They
-didn’t really “mix” with charms of other skills. As a result, a lot of each
-style’s Charms end up duplicating the effect of basic combat Charms in different
-ways.&lt;/p&gt;
-
-&lt;p&gt;Second Edition merged “standard” unarmed combat and Martial Arts, and made it a
-little easier to mix and match charms from a few different styles. Third Edition
-doubled down on the original position and made it so each style had its own
-separate skill, thus coming full circle on the ‘martial arts cost more because
-they are exotic and special’ trope.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-id-do-it&quot;&gt;How I’d Do It&lt;/h2&gt;
-
-&lt;p&gt;Had I been writing these rules, I’d probably take them in a different direction
-entirely, and more towards the way GURPS sees things. There would be no Martial
-Arts skill. Each style is associated with a single standard combat skill, and
-consists of exactly three Charms representing its advanced or iconic
-techniques. The basic stuff is already covered by the standard skill and
-standard Charms.&lt;/p&gt;
-
-&lt;p&gt;For the Charms I’d reuse the “lotus” metaphor, so they would be the Root, Bulb
-and Blossom Charms. You learn them in this order. Each has the previous one as a
-prerequisite, and probably an increasing Essence score. They’re meant to be
-combined with the standard Charms for that skill, relying on them for the basic
-dice-adding mechanics and such. If you know Charms of multiple styles you can
-explicitly combine them as long as the combination is otherwise rules-legal.&lt;/p&gt;
-
-&lt;p&gt;Everyone who learns to fight is a martial artist, even if they never pick up
-style Charms. Every martial artist ultimately develops their own personal style
-by learning from as many sources as possible and keeping what works for
-them. And you can certainly describe the way your kung-fu looks as being a
-certain style even if you don’t have the Charms.&lt;/p&gt;
-
-&lt;h3 id=&quot;example-snake-style&quot;&gt;Example: Snake Style&lt;/h3&gt;
-
-&lt;p&gt;I didn’t originally plan on doing this, but what the heck, let’s go! Snake Style
-has traditionally been the main corebook style, so let’s see how it would look
-in this format.&lt;/p&gt;
-
-&lt;p&gt;Let’s see what the lore says about it: it’s a style focused on speed and
-precision, aiming to take down better armed and armored opponents before they
-have time to act. It uses two-fingered strikes to hit pressure points and
-exposed tendons. Masters of the style can “pierce through armor”, “paralyze
-opponents with pressure point strikes”, and “deliver poisonous Essence through
-their fingertips”.&lt;/p&gt;
-
-&lt;p&gt;The choice of what to keep in our new format is pretty easy - each of the things
-masters of the style can do references a specific Charm. We want those. All the
-others increase basic numbers in different ways and can be replaced by standard
-charms from Brawl and other trees. Want to dodge like a snake? Take Dodge
-Charms. Want the “tough scales” effect? Take Resistance.&lt;/p&gt;
-
-&lt;p&gt;So our new Snake Style is an unarmed style linked to Brawl. Our Root Charm is
-&lt;strong&gt;Crippling Pressure Point Strike&lt;/strong&gt; (Ex3 p. 428). Our Bulb Charm is
-&lt;strong&gt;Armor-Penetrating Fang Strike&lt;/strong&gt;. Our Blossom Charm is &lt;strong&gt;Essence Venom
-Strike&lt;/strong&gt;. Their skill level and Essence prerequisites remain the same, but read
-Brawl in place of Martial Arts.&lt;/p&gt;
-
-&lt;p&gt;This is a quick and dirty sketch, and some additional work would be
-required. Essence Venom Strike needs to be rewritten a bit, since half of its
-effects reference Charms we’ve eliminated. We might also want to rewrite some of
-the base Brawl charms, though I haven’t looked at them in much depth.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/03/29/on-martial-arts.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>exalted</category>
-        
-        <category>martial-arts</category>
         
         
       </item>
