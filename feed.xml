@@ -6,9 +6,178 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2023 15:39:45 +0000</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2023 15:39:45 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Feb 2023 15:35:48 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Feb 2023 15:35:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Penanggalan</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;No illustration this time. The book has one, but it’s quite gross.&lt;/p&gt;
+
+&lt;p&gt;The Penanggalan is a monster from Southeast Asian folklore (the name used here
+is Malay). It was first statted up for D&amp;amp;D in the Fiend Folio, and this is its
+4e debut. This entry does make some effort to tie its lore to the Nentir Vale,
+but I still think it fits into the “generic monster” category.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Legend has it that the first penanggalan was a young baroness in Harkenwold, who
+was very smart but “plain of face and scant of suitors”. She found a cache of
+old diabolism texts from Bael Turath one day, and decided to use them to improve
+her situation. She conjured a devil using the Turathi rituals, and made a deal
+where the devil would make her forever young and beautiful in exchange for
+eternal servitude.&lt;/p&gt;
+
+&lt;p&gt;The lady did become beautiful, but it was the sort of beauty that comes from a
+devil’s bargain: so beautiful she was that armies clashed for her hand, and that
+her father eventually decided to lock her up in a tower for protection. Alone in
+her tower, the baroness prayed to the gods and begged for forgiveness, swearing
+to do penance before them.&lt;/p&gt;
+
+&lt;p&gt;The devil that made the deal with her did not like this one bit, and before she
+could start atoning for her sins, he whispered the secret of her beauty in the
+ear of Harkenwold’s high priest. The priest was one of those “zero tolerance”
+types, so he had the lady hanged as a diabolist. Her body remained in the
+gallows until midnight, and then her head and entrails separated from it and
+went hunting.&lt;/p&gt;
+
+&lt;p&gt;All penanggalans have a similar origin: women who make dark pacts for immortal
+beauty and try to renege, but who die before completing their penance and
+freeing their souls. The creatures share some superficial similarities to
+vampires, in that they’re undead monsters who feed on the living. Some embrace
+their new nature, some keep trying to complete their atonement to perhaps find a
+cure, but all of them are afflicted by a powerful hunger for the purity that
+once rain in their veins. Even a penitent penanggalan can only resist this
+hunger for about three days before going berserk, so atonement is really hard
+for them.&lt;/p&gt;
+
+&lt;p&gt;The book doesn’t go into details on how they feed, but from what I see in
+Wikipedia the original legend does say they drink blood. You could interpret the
+book’s information to say they eat flesh instead. In either case their attacks
+are quite fatal because even the traditional blood drinker version spreads a
+wasting disease to its victims.&lt;/p&gt;
+
+&lt;p&gt;As long as a penanggalan’s original body is in good condition, she can squeeze
+back into it and disguise herself as a mortal woman. The creatures often look
+for jobs as midwives or nursemaids, making victims of young kids and their
+mothers. Others prefer seduction as a means to get potential victims alone with
+them in a private spot. The original legend also has this really neat (and
+gross) detail that the creature bathes its dangling entrails in vinegar to
+shrink them up and fit them through the body’s neck, but that’s not necessary in
+the D&amp;amp;D version.&lt;/p&gt;
+
+&lt;p&gt;If a penanggalan’s body is destroyed, the creature is forever stuck as a
+floating head, and usually becomes a lot more desperate and obvious in its
+attacks.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Penanggalans are Natural Humanoids with the Undead tag. Individuals with bodies
+are Medium while in mortal form. The floating head with trailing guts is Small.&lt;/p&gt;
+
+&lt;p&gt;As undead they’re immune to disease and poison, resist necrotic damage, and are
+vulnerable to radiant damage. They have darkvision and a ground speed of 6, as
+well as a flight speed of 8 in head form.&lt;/p&gt;
+
+&lt;h3 id=&quot;penanggalan&quot;&gt;Penanggalan&lt;/h3&gt;
+
+&lt;p&gt;The basic model is a Level 10 Elite Lurker with 162 HP. It has the Shapechanger
+tag and can switch between woman and head forms.&lt;/p&gt;
+
+&lt;p&gt;In woman form, the penanggalan can defend herself with a &lt;strong&gt;dagger&lt;/strong&gt;, but she’s
+likely in disguise and will try to use her &lt;strong&gt;soothing voice&lt;/strong&gt; to literally lull
+her victims into a false sense of security. This is an encounter spell that
+attacks the Will of everyone in a Close Burst 1, and while it does no damage it
+slows on a hit (save ends). After the first failed save, this worsens to
+unconsciousness!&lt;/p&gt;
+
+&lt;p&gt;I would say that Soothing Voice can be disguised as a song or conversation,
+since it’s supposed to be subtle. Targets might not notice something is wrong at
+first.&lt;/p&gt;
+
+&lt;p&gt;Once the jig is up, the penanggalan undergoes her &lt;strong&gt;Horrific Transformation&lt;/strong&gt;,
+which is so gross it works as a Close Burst 2 attack vs. Will, dealing heavy
+psychic damage and dazing for a turn on a hit. This of course transforms the
+monster into its head form. The body is considered a corpse for game purposes,
+and the penanggalan can return to it with a standard action if it’s on the same
+space and the body is not completely destroyed.&lt;/p&gt;
+
+&lt;p&gt;In head form, the monster attacks with &lt;strong&gt;Bites&lt;/strong&gt; that do physical damage and
+ongoing poison damage (save ends). It can also use its &lt;strong&gt;Grasping Entrails&lt;/strong&gt;
+(recharge 4+) to attack up to two creatures at Reach 2. On a hit, this deals
+poison and necrotic damage and grabs the victim (escape DC 22). Targets grant
+combat advantage until they escape, and are exposed to Blistering Corruption
+(see below).&lt;/p&gt;
+
+&lt;p&gt;The penanggalan can use its &lt;strong&gt;Maleable Form&lt;/strong&gt; as a standard action to gain
+phasing for a turn and shift up to its speed. If it starts its next turn hidden
+from all enemies, Graping Entrails recharges, and the monster can use both it
+and Bite in the same action when it next attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;penanggalan-bodiless-head&quot;&gt;Penanggalan Bodiless Head&lt;/h3&gt;
+
+&lt;p&gt;A penanggalan who had its body destroyed a while ago and had to adapt to
+survive. It’s a Level 9 Skirmisher with 94 HP.&lt;/p&gt;
+
+&lt;p&gt;This monster attacks with &lt;strong&gt;bites&lt;/strong&gt; that do physical damage, and also slow (save
+ends) if the target is granting combat advantage. It can also use its &lt;strong&gt;flailing
+entrails&lt;/strong&gt; to deal poison damage and slide 1 square on a hit.&lt;/p&gt;
+
+&lt;p&gt;The penanggalan can perform a &lt;strong&gt;malleable rush&lt;/strong&gt; with its move action, gaining
+phasing for a turn and shifting its speed. This recharges after it’s first
+bloodied. When it dies, it explodes, and the resulting &lt;strong&gt;Death Burst&lt;/strong&gt; attacks a
+Close Burst 1, deals poison damage, and exposes victims to Blistering
+Corruption.&lt;/p&gt;
+
+&lt;h3 id=&quot;penanggalan-head-swarm&quot;&gt;Penanggalan Head Swarm&lt;/h3&gt;
+
+&lt;p&gt;Exactly what it sounds like, a pack of floating, starving penanggalan
+heads. It’s a Medium Swarm of Small creatures, and a Level 8 Soldier with 87 HP.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows enemies caught inside. Its basic attack is a
+&lt;strong&gt;Swarm of Entrails&lt;/strong&gt; that targets a Close Burst 2, deals light poison damage
+(or more if the target is slowed), and slides the target 1 square to a space
+adjacent to the monster.&lt;/p&gt;
+
+&lt;h3 id=&quot;blistering-corruption&quot;&gt;Blistering Corruption&lt;/h3&gt;
+
+&lt;p&gt;Turns out this version of the penanggalan also spreads a wasting
+disease. Blistering Corruption is like supernaturally-boosted measles or
+chickenpox, causing sores, blisters and boils to erupt all over the victim’s
+body. You get exposed to it through contact with penanggalan entrails, and must
+succeed on a save to avoid contracting it as usual.&lt;/p&gt;
+
+&lt;p&gt;This level 10 disease is resisted with Endurance, and has a Maintain DC of 13
+and an Improve DC of 18. Its effects are cumulative. At Stage 1, it inflicts a
+-2 penalty to Fortitude. At Stage 2 it also halves your maximum HP (making you
+permanently bloodied) and healing surge value. At Stage 3, you gain an aura 2
+that cannot be deactivated, and eats a healing surge from any creature that gets
+caught inside.&lt;/p&gt;
+
+&lt;p&gt;As with other diseases, you stop making recovery rolls once you hit
+stage 3. Blistering Corruption doesn’t kill you, but it makes you weak and
+unbearable to be around. Only Remove Affliction or equivalent powers can save
+you from this fate once you hit Stage 3.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;D&amp;amp;D’s penanggalan is surprisingly similar to the traditional story I saw on
+Wikipedia. The story has somewhat more varied origins for the creature, though
+the “woman who practiced evil magic and was cursed by it” is also there.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/02/08/penanggalan.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/08/penanggalan.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Warforged Variants for Dungeon Fantasy</title>
@@ -23,7 +192,7 @@
 &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;Warforged&lt;/a&gt; of D&amp;amp;D and Eberron fame as a racial template for the Dungeon
 Fantasy RPG. I’m still particularly proud of that post, and have used it in
 actual play, but I also think I can expand upon it a bit now. So here’s a couple
-variant warforged template.&lt;/p&gt;
+variant warforged templates.&lt;/p&gt;
 
 &lt;p&gt;In this &lt;a href=&quot;/octopus-carnival/2018/10/18/peoples-of-tamriel.html&quot;&gt;2018 post&lt;/a&gt; where I explained how I came up with the stats for the
 peoples of Tamriel, I mentioned that I’m no longer a fan of including attribute
@@ -1523,202 +1692,6 @@ PCs accept this new order, or to they fight it?&lt;/p&gt;
         <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Gravelstoke Family</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-gravelstoke-family.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;The Gravelstokes are a new threat with very specific ties to the Nentir Vale
-setting. They also serve as a reminder that Nerath wasn’t all sunshine and
-roses.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The Gravelstokes used to be one of the most prominent noble families in old
-Nerath. They frequented the highest courts, had the ear of the royal family, and
-had holdings spread through all corners of the empire. The time of strife and
-backstabbing that followed the fall of Nerath’s government saw their fortunes
-and household greatly diminished. Despite paying such a heavy cost to end the
-family’s old rivalries, it managed to keep its deepest and darkest secret: all
-of that prestige and money they had during Nerath’s heyday came from their
-service to the Crown as assassins. One of the reasons they fell was because they
-no longer had a benefactor to support their work.&lt;/p&gt;
-
-&lt;p&gt;Their patriarch at the time, Lord Andrew Gravelstoke, retired to his last
-holdings in the remote Nentir Vale and took most of his surviving relatives with
-him. There he eventually passed and left his children to squander the last of
-the family fortune. All that remains is their bleak stone mansion in the Barony
-of Harkenwold, and a modest summer retreat just outside of Fallcrest.&lt;/p&gt;
-
-&lt;p&gt;The current patriarch is Andrew’s grandson Xander. After decades of bickering
-has managed to unite most of the family behind the singular purpose of
-recovering their old prestige and fortune. And they intend to do that by taking
-up the old family trade: murdering people.&lt;/p&gt;
-
-&lt;p&gt;Xander has been making contact with the family’s old business partners, former
-rivals, and anyone who is in need of a spot of murder to let them know the
-Gravelstokes are once again for hire. They’ve kept the old family techniques
-alive and even improved on them, so the quality of their service is assured.&lt;/p&gt;
-
-&lt;p&gt;The family’s main field operatives are Xander himself, his three younger
-siblings, and his son. Xander also takes counsel from his uncle Barin and his
-widowed sister-in-law Lenore. His young wife Regan is attractive, demure, and
-knows how to keep a secret, but doesn’t have any direct involvement in the
-“business”. She’s Xander’s third wife: the first two failed to meet his approval
-and suffered convenient accidents.&lt;/p&gt;
-
-&lt;p&gt;The siblings are named Mikus, Tovin, and Alesia. Mikus and Tovin are twins, and
-the trio is inseparable. They go everywhere together, whether on a job or just
-traveling for fun. There are dark rumors floating around about the carnality of
-their relationship and its “debased offspring”, but in a surprising twist for
-such a heavily Gothic Horror family, these rumors are all false. They are
-however competent and ruthless assassins.&lt;/p&gt;
-
-&lt;p&gt;Xander’s son Vincent is more of a serial killer than an assassin, an anti-social
-recluse who is very particular about whom he chooses to kill. Xander is at a bit
-of a loss about what to do with him, since this behavior is bad for business.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get stats for all combatant Gravelstokes here. They’re all early to
-mid-Paragon threats, which likely means their customers are the kind of people
-who have designs on the whole of the Vale.&lt;/p&gt;
-
-&lt;p&gt;The Gravelstokes’ special training gives them several advantages over typical
-humans. They all have Darkvision, and they all know their signature technique
-named &lt;strong&gt;Stone Cold Killer&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Any creature killed by a Gravelstoke-trained assassin is petrified and cannot be
-raised from the dead while they remain that way. The killer can end this
-petrification by touching the victim and willing them restored, or someone else
-can do it by sprinkling a few drops of the killer’s blood on the statue. A
-restored victim is still dead, of course, but now they can be returned to life
-with a Raise Dead ritual.&lt;/p&gt;
-
-&lt;h3 id=&quot;vincent-gravelstoke&quot;&gt;Vincent Gravelstoke&lt;/h3&gt;
-
-&lt;p&gt;Vincent’s tactics in a fight mirror his social behavior: he lurks at the edges
-and only steps in when a good opportunity for murder presents itself. He’s a
-Level 12 Lurker with 90 HP. His &lt;strong&gt;Poisoned Rapier&lt;/strong&gt; does necrotic and poison
-damage, and if the attack is made with combat advantage it also inflicts 10
-ongoing damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;He can also perform a &lt;strong&gt;Shadow Strike&lt;/strong&gt;, a standard action which removes him
-from play until the start of his next turn. At that time, he reappears within 10
-squares of his previous position and can perform a rapier attack that deals
-heavy physical damage and prevents the target from spending healing surges (save
-ends). It does half damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;If pressed, Vincent can &lt;strong&gt;Fade Into the Shadows&lt;/strong&gt; as a minor action. This
-encounter power makes him insubstantial and grants partial concealment until the
-start of his next turn. The effect ends early if he attacks, or if he suffers
-radiant damage.&lt;/p&gt;
-
-&lt;p&gt;Finally, Vincent’s fencing skill lets him &lt;strong&gt;Parry&lt;/strong&gt; melee attacks as an at-will
-interrupt that grants him +4 to all defenses against the attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;tovin-gravelstoke&quot;&gt;Tovin Gravelstoke&lt;/h3&gt;
-
-&lt;p&gt;One of the twins, Tovin is a deadly sniper. He’s Level 13 Artillery with 96
-HP. He wields a &lt;strong&gt;Crossbow of Dread&lt;/strong&gt; whose basic attacks grant him a +4 damage
-bonus against the target until the end of his next turn. Some of his bolts are
-&lt;strong&gt;Poisoned Shot&lt;/strong&gt; (recharge 5+), doing the same damage as the basic attack and
-inflicting 10 ongoing necrotic and poison damage (save ends). The target also
-becomes immobilized after the first failed save, and after the second both
-effects are replaced with unconsciousness (save ends).&lt;/p&gt;
-
-&lt;p&gt;If hit in melee, Tovin can use &lt;strong&gt;Shadow Escape&lt;/strong&gt; (encounter) as a reaction to
-deal 5 necrotic damage to the attacker and teleport 5 squares. If he can’t
-escape, he’ll fight with his &lt;strong&gt;Dagger of Death&lt;/strong&gt;, whose attacks deal necrotic
-damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;mikus-gravelstoke&quot;&gt;Mikus Gravelstoke&lt;/h3&gt;
-
-&lt;p&gt;The other twin is much more fond of melee combat. He’s a Level 13 Soldier with
-128 HP. His &lt;strong&gt;greatsword&lt;/strong&gt; deals physical damage and marks for a turn. If a
-marked enemy within 5 squares of Mikus makes an attack that doesn’t include him
-as a target, he can use &lt;strong&gt;Shadow’s Curse&lt;/strong&gt; to deal an automatic 10 necrotic
-damage to them, ignoring all resistances and immunities.&lt;/p&gt;
-
-&lt;p&gt;He can also use a spell named &lt;strong&gt;Incite The Blood&lt;/strong&gt;, a selective Close Burst 3
-that pulls targets 2 squares towards him and lets him make a strong melee attack
-against each one. In other words, it’s a goth version of Come and Get It.&lt;/p&gt;
-
-&lt;h3 id=&quot;alesia-gravelstoke&quot;&gt;Alesia Gravelstoke&lt;/h3&gt;
-
-&lt;p&gt;Alesia is a bit older than the twins, but is still their steadfast sister and
-friend. She’s a Level 14 Controller with 140 HP. Her weapon of choice is a
-&lt;strong&gt;Bewildering Chakram&lt;/strong&gt; that can be used for both melee and ranged attacks. An
-enemy hit by either takes 5 extra psychic damage for each square they move
-during their next turn. When used as a thrown weapon, the chakram returns to
-Alesia’s hand after the attack.&lt;/p&gt;
-
-&lt;p&gt;She can also perform a &lt;strong&gt;Reeling Chakram&lt;/strong&gt; attack (recharges when first
-bloodied). This does about double damage, half on a miss, and also pushes the
-target 2 squares and knocks them prone as an effect. Plus she knows enough magic
-to cast a &lt;strong&gt;Toxic Tendrils&lt;/strong&gt; spell (Area 2 within 10, recharge 5+), which deals
-necrotic and poison damage and slows (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;xander-gravelstoke&quot;&gt;Xander Gravelstoke&lt;/h3&gt;
-
-&lt;p&gt;The patriarch of the family, and its most deadly combatant. Xander is a Level 16
-Elite Skirmisher with the Leader tag and 304 HP. He wields paired short swords
-in a fight. The basic &lt;strong&gt;sword&lt;/strong&gt; attack deals physical damage and slides the
-target 1 square. Xander can also &lt;strong&gt;Lunge&lt;/strong&gt; (recharge 5+) which lets him shift up
-to half his speed before the attack and deals increased damage. Both attacks
-ignore 10 points of resistance, which is only likely to come up against targets
-that have Resist All since what I call “physical” damage is actually untyped.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter Xander can use a &lt;strong&gt;Shadow Step&lt;/strong&gt; to teleport 5 squares and
-gain partial concealment for a turn.&lt;/p&gt;
-
-&lt;p&gt;Xander’s minor actions are where his Leaderly and Elite-y maneuvers
-are. &lt;strong&gt;Off-Hand Swipe&lt;/strong&gt; lets him shift 2 squares and then make a sword attack
-that deals slightly less damage than a basic one. Combining this with the basic
-attack lets Xander efficiently herd PCs. Once per encounter he can use &lt;strong&gt;Quick
-Rally&lt;/strong&gt; to affect all allies within 3 squares. Affected allies can shift 2
-squares and make a melee basic attack, though each of them must attack a
-different creature.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Like the Barrowhaunts, the Gravelstokes are a party of Evil NPCs that pair very
-well with each other. Having one of the PCs’ enemies hire them to kill the PCs
-is the most obvious way to include them in the adventure, though there are other
-ways that can be as or more fun.&lt;/p&gt;
-
-&lt;p&gt;You might, for example, add them to your campaign much earlier, still in the
-early Heroic Tier, as a source of ominous foreshadowing. They do have a summer
-estate in Fallcrest where they can go to pose as slightly eccentric nobles while
-Xander and Uncle Barin negotiate new contracts. It’s also possible to have a
-Heroic Tier murder mystery where the victim turned to stone after death. The PCs
-might not be able to determine the identity of the actual killer beyond “a
-mysterious hired assassin”, and then the goal becomes finding the mastermind.&lt;/p&gt;
-
-&lt;p&gt;The family is not really interested in Nerath as an ideal - they care only about
-regaining their own prestige and wealth. That could happen in a reborn Nerath,
-or it could happen in an empire by any other name. So they might consider any of
-the “revivalist” factions as prospective clients or as deluded upstarts
-depending on how deep their purses are.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/01/06/gravelstoke-family.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/06/gravelstoke-family.html</guid>
         
         <category>dnd4</category>
         
