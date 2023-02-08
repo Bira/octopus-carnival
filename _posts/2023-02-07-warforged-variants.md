@@ -19,7 +19,7 @@ Way back in the olden days of 2017, I published a post presenting the
 [Warforged][1] of D&D and Eberron fame as a racial template for the Dungeon
 Fantasy RPG. I'm still particularly proud of that post, and have used it in
 actual play, but I also think I can expand upon it a bit now. So here's a couple
-variant warforged template.
+variant warforged templates.
 
 In this [2018 post][2] where I explained how I came up with the stats for the
 peoples of Tamriel, I mentioned that I'm no longer a fan of including attribute

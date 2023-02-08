@@ -5,6 +5,10 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the others.
+
+No illustration this time. The book has one, but it's quite gross.
+
 The Penanggalan is a monster from Southeast Asian folklore (the name used here
 is Malay). It was first statted up for D&D in the Fiend Folio, and this is its
 4e debut. This entry does make some effort to tie its lore to the Nentir Vale,
@@ -49,16 +53,17 @@ are quite fatal because even the traditional blood drinker version spreads a
 wasting disease to its victims.
 
 As long as a penanggalan's original body is in good condition, she can squeeze
-back into it and disguise herself as mortal women. The creatures often look for
-jobs as midwives or nursemaids, making victims of young kids and their
+back into it and disguise herself as a mortal woman. The creatures often look
+for jobs as midwives or nursemaids, making victims of young kids and their
 mothers. Others prefer seduction as a means to get potential victims alone with
 them in a private spot. The original legend also has this really neat (and
 gross) detail that the creature bathes its dangling entrails in vinegar to
 shrink them up and fit them through the body's neck, but that's not necessary in
-the book version.
+the D&D version.
 
-If a penanggalan's body is destroyed, the creature is forever stuck as a floating
-head, and usually becomes a lot more desperate and obvious in its attacks.
+If a penanggalan's body is destroyed, the creature is forever stuck as a
+floating head, and usually becomes a lot more desperate and obvious in its
+attacks.
 
 ## The Numbers
 
@@ -132,8 +137,8 @@ adjacent to the monster.
 ### Blistering Corruption
 
 Turns out this version of the penanggalan also spreads a wasting
-disease. Blistering Corruption is like a supernaturally-boosted measles or
-smallpox, causing sores, blisters and boils to erupt all over the victim's
+disease. Blistering Corruption is like supernaturally-boosted measles or
+chickenpox, causing sores, blisters and boils to erupt all over the victim's
 body. You get exposed to it through contact with penanggalan entrails, and must
 succeed on a save to avoid contracting it as usual.
 
@@ -154,3 +159,5 @@ you from this fate once you hit Stage 3.
 D&D's penanggalan is surprisingly similar to the traditional story I saw on
 Wikipedia. The story has somewhat more varied origins for the creature, though
 the "woman who practiced evil magic and was cursed by it" is also there.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
