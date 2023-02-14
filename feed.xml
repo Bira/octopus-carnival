@@ -6,9 +6,134 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Feb 2023 16:07:02 +0000</pubDate>
-    <lastBuildDate>Tue, 14 Feb 2023 16:07:02 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Feb 2023 16:10:17 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Feb 2023 16:10:17 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Peryton</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-peryton.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;It’s possible perytons appeared in previous editions, but this is the first time
+I remember seeing them. I think they might be based in real-world folklore?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Perytons are large predators that resemble big raptor birds with antlered,
+sharp-fanged stag heads. The feathers on the bird part are typically dark green,
+and the stag’s fur is blue-black. Both males and females have antlers, but males
+also have distinctive light blue feathers on their chests. Their shadows,
+interestingly enough, don’t correspond to their physical shapes and are instead
+humanoid. Perytons like to nest in tall mountain ridges, which in the Vale means
+the Cairngorm peaks and Stonemarch to the northwest, or the Dawnforge range to
+the east.&lt;/p&gt;
+
+&lt;p&gt;Some sages speculate that the first perytons were elves changed by some horrible
+curse, and there are enough sinister details about their behavior and lifecycle
+to lend credence to this even if you ignore the “humanoid shadow” thing.&lt;/p&gt;
+
+&lt;p&gt;Travelers are advised to keep their eyes on the sky when going through these
+mountainous regions, because perytons are a fairly common hazard there. Not only
+are they unafraid to attack people, they specifically go after humanoid prey due
+to a very suspicious quirk of their reproductive cycle: peryton females need to
+consume the fresh heart of a humanoid in order to reproduce. This will cause
+their shadows to reflect their true forms for a number of hours, during which
+they are fertile.&lt;/p&gt;
+
+&lt;p&gt;Perytons are classed as beasts because they look and behave like animals, but
+they’re also clever enough to keep victims alive in their nests until it’s time
+to eat, to ensure the freshness of their hearts. They can carry off victims as
+big as themselves and won’t generally stick around to keep fighting if they can
+make a clean getaway with a victim. However, they’re extremely stubborn and
+obsessive - once a peryton chooses someone as their prey, they will pursue and
+hunt that victim until they manage to kill it or carry it away, heedless of the
+danger and ignoring easier prey.&lt;/p&gt;
+
+&lt;p&gt;Peryton nests usually have an area for “storing” its captured victims, who have
+a hard time leaving because the surrounding terrain isn’t easy for a non-flier
+to traverse. These areas tend to be full of treasure in the form of former
+victims’ belongings, and some captives can end up finding a way to escape by
+using these things.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Perytons are Natural Beasts. Their signature traits are &lt;strong&gt;Peryton’s Prey&lt;/strong&gt;,
+which allows them to designate a creature they can see at the start of their
+turn as their prey, and &lt;strong&gt;Unhindered&lt;/strong&gt;, which allows it to pull any creature it
+has grabbed along with it when moving.&lt;/p&gt;
+
+&lt;p&gt;A peryton’s choice of prey lasts a turn - they must make the choice again at the
+start of each of their turns. It’s totally possible to keep choosing the same
+creature, and most perytons will do that, but if the PCs contrive to make that
+creature too hard to reach, they can and will make a different choice. This has
+no inherent effects, but several of the creature’s powers work best on its
+chosen prey.&lt;/p&gt;
+
+&lt;h3 id=&quot;peryton&quot;&gt;Peryton&lt;/h3&gt;
+
+&lt;p&gt;The basic model is Medium in size, and is a Level 4 Skirmisher with 54 HP. Its
+ground speed is a laughable 2, but its flight speed is 8. The peryton’s basic
+attack is an &lt;strong&gt;Antler Bash&lt;/strong&gt; that knocks prone on a hit and deals extra damage
+to the peryton’s chosen prey. It can use it to make &lt;strong&gt;Flyby Attacks&lt;/strong&gt;, flying
+its speed, attacking a target along the path, and not provoking opportunity
+attacks when it moves away.&lt;/p&gt;
+
+&lt;p&gt;Its other special attack is &lt;strong&gt;Claw Snatch&lt;/strong&gt;, which can only target the peryton’s
+chosen prey, which must be Medium or smaller. The creature can fly half its
+speed before and after the attack. A hit deals damage and grabs the victim
+(escape DC 14). The grab automatically ends at the end of the peryton’s next
+turn, but that’s enough time for the beast to gain plenty of altitude or to fly
+over a convenient cliff drop. This recharges when the peryton is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Finally, the creature can use an encounter ability named &lt;strong&gt;Feast&lt;/strong&gt; against a
+dying humanoid to automatically kill it and heal 15 HP. I imagine this involves
+eating the target’s heart. Never let these things take you to negative HP!&lt;/p&gt;
+
+&lt;h3 id=&quot;peryton-elder&quot;&gt;Peryton Elder&lt;/h3&gt;
+
+&lt;p&gt;A larger, older, and stronger specimen, of the sort who ends up generating
+stories and legends about itself. It’s a Level 6 Elite Soldier with 144 HP.&lt;/p&gt;
+
+&lt;p&gt;The elder has upgraded versions of Claw Snatch and Feast. The first has a grab
+that &lt;em&gt;doesn’t&lt;/em&gt; end after a turn, allowing the monster to carry its victim clear
+out of the fight if they’re unlucky in their DC 15 escape rolls. The second
+heals 20 HP instead of 15. It also has Antler Bash, but that’s more or less the
+same.&lt;/p&gt;
+
+&lt;p&gt;The elder also has a couple of new powers to better perform its soldierly
+duties. &lt;strong&gt;Cursed Bite&lt;/strong&gt; is a minor action that deals physical damage and
+inflicts another 5 points if the target attacks a creature other than the elder
+on its next turn. Once per encounter, it can use &lt;strong&gt;Stealth Dive&lt;/strong&gt; to charge its
+chosen prey if that prey makes an attack that doesn’t include the elder as a
+target.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Despite their “natural” origin, these monsters are creepy and evocative. They’re
+much more threatening than their level indicates too, being one of the few
+creatures who will explicitly target and kill PCs who are down and out. Being
+carried off by an elder peryton sucks, too, but it could lead to a fun scene a
+captured PCs trying to improvise an escape route using the items found on the
+nest.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Penanggalan</title>
@@ -1504,194 +1629,6 @@ themselves might contrive a way to bring Bitterstrike in.&lt;/p&gt;
         <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/01/16/harkens-heart.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/16/harkens-heart.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Gray Company</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-gray-company.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;The Gray Company are a new, setting-specific faction.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As far as history goes, the fall of Nerath is still a relatively recent
-event. Many humans alive today likely have a great-grandparent who was alive
-during the final days of that empire. Members of longer-lived species like
-elves, dwarves and eladrin might even have witnessed those days
-themselves.&lt;/p&gt;
-
-&lt;p&gt;So it’s no wonder that Nerath has it own share of revivalists who want to
-rebuild it to fit the glorious image in their head. In the Nentir Vale, the most
-prominent of those groups is known as the Gray Company. Many people in the Vale
-consider them nothing more than a well-equipped gang of bandits, but its members
-believe themselves to be working towards the rebirth of their glorious
-empire. Their singular focus on this goal makes them a dour and humorless
-bunch, seemingly always covered with the dust of ages even when their equipment
-is new.&lt;/p&gt;
-
-&lt;p&gt;The Company is made up primarily of humans, who were the dominant people of
-Nerath. It is led by one Halvath Cormarrin, a man who claims to be a scion of
-Nerath’s royal line. It recruits people from across the Nentir Vale, spreading
-stories of the glories of the old empire and inviting those most fascinated by
-them to join up. Once a recruit joins up, they’re in for life. Deserters are
-hunted down, executed by hanging, and left on display on crossroads, as the old
-law dictates.&lt;/p&gt;
-
-&lt;p&gt;The Company’s HQ is located in the Gray Downs, a region thick with Nerathi ruins
-and artifacts. Much of their time and effort is spent exploring these ruins and
-recovering these artifacts which they consider theirs by right. Cormarrin is
-particularly interested in finding old pieces of regalia like the Sword of
-Nerath and the Threefold Crown, since possessing them would increase the
-legitimacy of his claim.&lt;/p&gt;
-
-&lt;p&gt;Anyone who steals these objects (whether from Company itself or from the ruins
-they consider their territory) is ruthlessly pursued. Particularly resourceful
-thieves are invited to join up and lend their skills to the Company’s
-cause. Others, including those who refuse the invitation, are executed in
-manners prescribed by old Nerathi law.&lt;/p&gt;
-
-&lt;p&gt;Company members are trained, equipped and organized to the standards of the
-Nerathi military, or as close as Cormarrin can manage those. This means they
-also count plenty of battle mages among their number. Their magic specializes in
-controlling the pervasive mist of the Gray Downs, with a large side order of
-artifice (to get those recovered magic items working again) and necromancy (to
-get those old fallen heroes of Nerath working again).&lt;/p&gt;
-
-&lt;p&gt;Other chapters of the Gray Company have begun appearing in other regions of the
-Vale, each of them led by a self-proclaimed prince of old Nerath. If these
-groups all got together under one banner, they could become a formidable army
-with a real chance of achieving their goal… but they feud with each other as
-much or more as they fight their actual enemies, so their overall progress
-remains minimal. As some jokers say, this too is a grand Nerathi tradition.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Gray Company members are all in the late Heroic Tier, meaning they haven’t quite
-broken through to “regional power” status. All of the stat blocks here represent
-humans, which make up the majority of their soldiers.&lt;/p&gt;
-
-&lt;p&gt;Their signature trait is &lt;strong&gt;Grim Solidarity&lt;/strong&gt;. If someone with this trait starts
-their turn adjacent to another creature with this trait, they can make a saving
-throw against one effect that a save can end. All Company members have this,
-which means they’re difficult to debuff when in formation.&lt;/p&gt;
-
-&lt;h3 id=&quot;gray-company-recruit&quot;&gt;Gray Company Recruit&lt;/h3&gt;
-
-&lt;p&gt;Recruits joined relatively recent, so their training and gear is not yet up to
-the standards of the Company. They already have Grim Solidarity, though. They’re
-Level 7 Minion Artillery armed with &lt;strong&gt;short swords&lt;/strong&gt; and &lt;strong&gt;short bows&lt;/strong&gt;. If they
-score a critical hit, &lt;strong&gt;Inspired Fervor&lt;/strong&gt; lets them make a free basic attack
-against the same enemy with a +2 bonus to hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;gray-company-soldier&quot;&gt;Gray Company Soldier&lt;/h3&gt;
-
-&lt;p&gt;A veteran who earned the right to carry a sword of genuine Nerathi make. Armored
-in plate, he’s a Level 7 Soldier with 80 HP. His basic attack with that
-&lt;strong&gt;Ancient Longsword&lt;/strong&gt; has no riders, but whenever an adjacent enemy makes an
-attack that doesn’t include the veteran as a target, he can use &lt;strong&gt;Strike of the
-Ancient Blade&lt;/strong&gt; to make a free sword attack against them that also pushes the
-enemy and knocks it prone.&lt;/p&gt;
-
-&lt;p&gt;If an ally of the soldier drops to 0 HP within 5 squares of him, he can react
-&lt;strong&gt;For the Glory of Old Nerath&lt;/strong&gt; (encounter) and make an attack in a Close Burst
-1 that deals more damage than a basic strike and inflicts 5 ongoing damage (save
-ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;gray-company-fallen-hero&quot;&gt;Gray Company Fallen Hero&lt;/h3&gt;
-
-&lt;p&gt;Either an actual Nerathi soldier whose body was exhumed and reanimated, or a
-modern day Gray Company veteran who died in combat and was “re-upped” for a
-second term of service. In either case, this results in a sapient undead
-revenant who likely has no memory of its previous self. It’s a Level 6 Brute
-with 89 HP. It has Grim Solidarity, Darkvision and the standard undead traits
-(immune to poison and disease, resistant to necrotic, vulnerable to radiant).&lt;/p&gt;
-
-&lt;p&gt;The fallen hero’s &lt;strong&gt;Longsword&lt;/strong&gt; deals necrotic damage and inflicts Vulnerable 5
-Necrotic for a turn. It can invoke &lt;strong&gt;Nerath’s Vengeance&lt;/strong&gt; to make a sword attack
-against every adjacent enemy, and this recharges once it’s bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;gray-company-mist-mage&quot;&gt;Gray Company Mist Mage&lt;/h3&gt;
-
-&lt;p&gt;Mist mages are responsible for getting those old magical items (and Fallen
-Heroes) back into working order. In combat, they use spells with a cold and mist
-theme, which goes well with the environment of the Gray Downs.&lt;/p&gt;
-
-&lt;p&gt;Mist mages are Level 9 Controllers with 95 HP. They have Resist Cold 5. They use
-&lt;strong&gt;Ice Daggers&lt;/strong&gt; in melee, which deal cold damage and slow for a turn on a
-hit. They can also summon &lt;strong&gt;Misty Tendrils&lt;/strong&gt; to attack enemies in a Close
-Blast 3 that deals cold damage on a hit and slides 1 square as an effect.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can create a zone of &lt;strong&gt;Gray Mist&lt;/strong&gt; (area 2 within 10
-squares). Any creature that ends its turn in the mist takes a -2 penalty to
-attacks and is slowed for a turn.&lt;/p&gt;
-
-&lt;p&gt;They can also use a &lt;strong&gt;Freeze Mist&lt;/strong&gt; spell as a minor action, which targets a
-slowed creature and immobilizes them for a turn on a hit.&lt;/p&gt;
-
-&lt;p&gt;Mist mages will likely start the fight by laying down Gray Mist, and then use
-Misty Tendrils to herd the PCs into the zone. They will then use Freeze Mist to
-keep these PCs immobilized as their buddies move in for the kill. Note that, as
-controller monsters, they’re quite capable of bringing the damage themselves.&lt;/p&gt;
-
-&lt;h3 id=&quot;halvath-cormarrin&quot;&gt;Halvath Cormarrin&lt;/h3&gt;
-
-&lt;p&gt;The leader of the Gray Company is a Level 8 Elite Brute with the Leader tag and
-214 HP. In addition to having Grim Solidarity, he can exhort his underlings to
-fight &lt;strong&gt;Until the Last Breath&lt;/strong&gt;, which acts as an Aura 5 that allows allies
-inside to make one last free attack when they drop to 0 HP.&lt;/p&gt;
-
-&lt;p&gt;Cormarrin wields an &lt;strong&gt;Ancient Rune Flail&lt;/strong&gt; and can make &lt;strong&gt;Double Attacks&lt;/strong&gt; with
-it. He can also use swing it around and have the &lt;strong&gt;Rune Flail’s Arc&lt;/strong&gt; attack
-everyone in a Close Burst 1. A hit deals the same damage as a basic attack,
-pushes the target 1 square, and knocks it prone. A miss deals half damage and
-pushes 1 square. Good move to escape being surrounded.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, Cormarrin can use &lt;strong&gt;Cry of Glory&lt;/strong&gt; to turn a normal hit by
-an ally within 10 squares into a critical.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Like Dythan’s Legion, the Gray Company is a faction modeled after the army of a
-fallen empire whose main goal lies in the restoration of that empire. The Legion
-can more than match them man-for-man, but the Company probably has more
-soldiers, particularly if you tally all the different chapters together. They
-might skirmish near the shores of Lake Nen.&lt;/p&gt;
-
-&lt;p&gt;Other possible sources of conflict for the Company include the Barrowhaunts, who
-probably were Nerathi when alive, and also claim the Gray Downs as their
-territory. Other interesting monsters also make their home there, as we’ll soon
-see.&lt;/p&gt;
-
-&lt;p&gt;Ironically, if Dythan’s Legion ever decides the Gray Company is a threat that
-must be eliminated, the resulting large-scale confrontation is probably going to
-unite the Company’s disparate chapters around a common enemy and make that
-assessment into a self-fulfilling prophecy. As it is, I’m sure many of the
-Company’s “princes”, Cormarrin chief among them, would just love to hire the
-Gravelstoke family to help secure their claim as the true heir to
-Nerath. Whether the Family ever takes one of them up on the offer will depend on
-what you want for your campaign.&lt;/p&gt;
-
-&lt;p&gt;A truly unified Gray Company would finally become the regional power they want
-to be, and this might merit bumping their levels up to the Paragon tier. Do the
-PCs accept this new order, or to they fight it?&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/13/gray-company.html</guid>
         
         <category>dnd4</category>
         
