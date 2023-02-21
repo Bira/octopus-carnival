@@ -36,12 +36,16 @@ proper Jedi. And yeah, even though Luke himself fit the "untrained sensitive"
 category, it would take around 10 years of weekly sessions for a starting PC
 with that archetype to reach Luke's official stats.
 
+I think a bit of this attitude might have ended up being inherited by subsequent
+games in the franchise, because the implementation they go with is very similar
+even when it's not as restrictive. Jedi are the best at using the Force. No
+other class or archetype can do it at all, save perhaps for the weaker "Force
+Adept" that acts as a consolation prize when Jedi aren't playable.
+
 Anyway, as you might have guessed from the rant above, I'd do things differently
-if I ever GMed a Star Wars game. My version of the setting would be a little
-more egalitarian with regards to the Force, since it's supposed to be so
-important. In short, the Force really does work as advertised in A New Hope: it
-connects everyone in the galaxy, and therefore it's present on everyone in the
-galaxy.
+if I ever GMed a Star Wars game. In short, the Force would really work as
+advertised in A New Hope: it connects everyone in the galaxy, and therefore it's
+present on everyone in the galaxy.
 
 ## How does this work?
 
@@ -128,7 +132,29 @@ just as bad.
 In our variant setting, where everyone has a connection to the Force and this is
 seen as a good thing, the Empire adds a strong "Force-elitist" streak to its
 long list of bad traits. In a galaxy where everyone is Force-sensitive, the
-Empire believes the Force should be the exclusive domain of the "chosen".
+Empire believes the Force should be the exclusive domain of a chosen few. And
+this elitist ideology is what distinguishes the Sith from all the other
+Force-using evil factions.
+
+The Empire seeks to suppress knowledge of traditional Force training methods
+among its occupied worlds, and it trains its soldiers in ways that limit their
+skill with the Force in several ways. Stormtroopers are completely blind to it,
+and the sort of villain who gets a name and a special uniform might have some
+skills that aid their primary function, but only "Proper Sith" get full training
+in a style descended from traditional Jedi techniques. That group is technically
+made up of only two people, but the Rule of Two exists to be broken and both of
+them are going to keep several secret apprentices around.
+
+Inquisitors are a bit of a special case. They're still limited, but the training
+they do get is focused on combat and sensing other Force users. They're going to
+lack the full range of esoteric techniques an unrestricted Force user might
+develop, but they're still pretty dangerous in a fight.
+
+The signature Sith technique, the one they developed themselves and forms the
+basis of their thinking, allows them to leech the Force from others to boost
+themselves. Everyone who serves them is taught to open themselves up to
+this. It's a twisted form of communion or battle meditation, in that it hurts
+the many to enhance the few.
 
 ### What about the Dark Side?
 
