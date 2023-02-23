@@ -61,6 +61,7 @@ As more monsters are added, they will be linked below.
 - P
   - [Penanggalan][26]
   - [Peryton][27]
+  - [Phantom Brigade][28]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -90,3 +91,4 @@ As more monsters are added, they will be linked below.
 [25]: {{ "/2023/02/06/mooncalf.html" | relative_url }}
 [26]: {{ "/2023/02/08/penanggalan.html" | relative_url }}
 [27]: {{ "/2023/02/14/peryton.html" | relative_url }}
+[28]: {{ "/2023/02/23/phantom-brigade.html" | relative_url }}

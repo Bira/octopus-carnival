@@ -6,15 +6,27 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-phantom-brigade.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 A new group, and a surprise lesson on Nerath's history!
 
 ## The Lore
 
 So far we've only got the bare minimum of information on the history and
 geography of Nerath as a whole. We mostly know that the Vale was part of its
-northern frontier and that it fell about a century ago. This entry gives lots of
-new information because while the history of the Phantom Brigade is intimately
-tied to that of the empire of Nerath.
+northern frontier, that it did a number on the Vale's native peoples when it
+moved in, and that it fell about a hundred years ago. This entry gives lots of
+new information because the history of the Phantom Brigade is intimately tied to
+that of the empire of Nerath.
 
 The Empire of Nerath was founded in the distant south around six hundred years
 ago, with the establishment its capital city of Nera. It quickly spread in all
@@ -26,12 +38,11 @@ stability. This peace lasted until the empire's abrupt fall about 100 years ago.
 No one knows exactly how the fall of Nerath happened (or, if they do, they're
 keeping it a secret). What is known is that a combination of traumatic events
 that might have included both monster attacks and natural disasters left the
-entire imperial family unaccounted for. The vast Nerathi armies were left
-leaderless and without direction, all the simmering conflicts between other
-noble families blew up with no one to keep them in line, and soon the complex
-infrastructure that united all regions of the empire stopped being maintained
-and crumbled, turning its cities and provinces into a scattered points of
-light.
+entire imperial family unaccounted for. Nerath's armies were left leaderless and
+without direction, and all the simmering conflicts between its noble houses blew
+up with no one to keep them in line. Soon the complex infrastructure that united
+all regions of the empire stopped being maintained and crumbled, turning its
+cities and provinces into the scattered points of light we know today.
 
 Nerath had several knightly orders at the time of its fall, and none where more
 prestigious than the Knights of the Empire. Imperial Knights were paladins and
@@ -40,29 +51,29 @@ answered directly to the Emperor, acting as his personal bodyguards and
 extensions of his will. When everything went to ruin, they were one of the few
 groups who remained committed to defending the empire and keeping it
 whole. Nearly all of them died in the decade between the initial catastrophe and
-when everyone finally acknowledged Nerath was no more.
+the day everyone finally acknowledged Nerath was no more.
 
-This did not stop them, however. The oaths that bound them to the order were
-more than just pretty words. They included a mysterious magical effect or curse
-that eventually made the dead Knights return as ghosts. This started happening
-decades after the fall. Though the Knighs know their empire has fallen, they are
-still compelled to seek the honor they could not gain in life, and fulfill their
-oaths as best they can. They are now known as the Phantom Brigade.
+This did not stop the Knights, however. The oaths that bound them to the order
+were more than just pretty words. They included a mysterious magical effect or
+curse that eventually made the dead Knights return as ghosts. This started
+happening decades after the fall. Though the Knights know their empire has
+fallen, they are still compelled to seek the honor they could not gain in life,
+and fulfill their oaths as best they can. They are now known as the Phantom
+Brigade.
 
 The first recorded appearance of the ghost knights was right here on the Vale,
 when three of them were spotted racing through the Gardbury Downs. In our
-narrative present they be seen anywhere the hand of Nera used to reach.
+narrative present they can be seen anywhere the hand of Nera used to reach.
 
-Knights look much as they did in life, though ghostly and translucent. They can
-be identified by their distinctive archaic armor and by the way the moonlight
-shines through them. Their weapons are bound to their souls, and are where those
-souls reside. All of them bear the emblem of the Threefold Crown of Nerath,
-marking their bearers as Knights of the Empire.
+Knights look much as they did in life, though ghostly and translucent. This
+means you have a very important decision to make. Is the Nazgul-looking fellow
+in the illustration a typical Knight, or is he Sir Georg Edgelord, who is an
+outlier and should not be counted? Your answer will say very interesting things
+about Nerath either way.
 
-If knights wear the same armor they did in life, you have a very important
-decision to make. Is the Nazgul-looking fellow in the illustration a typical
-Knight, or is he Sir Georg Edgelord, who is an outlier and should not be
-counted? Your answer will say very interesting things about Nerath either way.
+Their weapons bear the emblem of the Threefold Crown of Nerath, unmistakably
+marking their bearers as Knights of the Empire. Those weapons and also serve as
+the receptacle for their souls.
 
 Though we saw in previous entries that Nerath did some pretty horrible shit in
 the past, the Knights seem genuinely concerned about upholding its highest
@@ -73,8 +84,9 @@ for this alliance.
 
 However, they can still come into conflict with the PCs if they try to trespass
 upon the areas the Knights still protect (which are full of juicy
-treasure-filled ruins). In these cases a fight might be avoided if the PCs can
-present the Knights with a genuine writ of passage or Nerathi signet ring.
+treasure-filled Nerathi ruins). In these cases a fight might be avoided if the
+PCs can present the Knights with a genuine writ of passage or Nerathi signet
+ring.
 
 ## The Numbers
 
@@ -191,3 +203,11 @@ compel the Phantom Brigade to be loyal to him. This could be the thing that
 catapults the Gray Company into a paragon-tier threat. In that case, making the
 Knights turn against him would be a key step in defeating their imperialist
 aims.
+
+If you want the Phantom Brigade to be evil after all, you can use their stats
+exactly as they are presented and only change their alignment and behavior. You
+can also add some Death Knights to their number, since they are also evil undead
+knights with their souls bound to their weapons. You might say those are members
+of the order who managed to retain their physical bodies after all this time.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
