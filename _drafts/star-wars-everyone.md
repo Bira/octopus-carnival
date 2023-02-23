@@ -65,8 +65,7 @@ widespread. Pilots and gunslingers can benefit from enhanced reflexes and
 short-term precognition, artisans and engineers enter deep meditative states
 that let them create masterworks, hackers develop machine empathy, and so
 on. This is all normal and traditional. Everyone can develop basic sensing and
-intuition abilities. Jedi still exist but are distinguished more by their ideals
-than by their special powers.
+intuition abilities.
 
 In your typical cinematic action campaign, anyone who's badass enough to be a
 player character is also badass enough to be a Force user on par with a Jedi in
@@ -82,6 +81,15 @@ not conventional heroes. PCs might quest to find a powerful seer, or to have
 their equipment built or improved by a master crafter, or there might be a
 freighter pilot who isn't a conventional ace but can conceal their ship from
 enemy sensors and sneak past blockades.
+
+And yes, you can still choose to play a Jedi. Here they're distinguished more by
+their philosophy than by their powers, since a lot of what they can do is
+widespread knowledge among many other "schools" of the Force. Jedi in our
+version of the setting are still wandering protectors of the Galaxy but they are
+no longer the gatekeepers of the Force. They're happy to see people get in touch
+with it by whatever paths are most suited to them. Their signature technique is
+a form of communal mind-link or battle meditation that boosts their allies. The
+Jedi do not focus on being powerful, but on making those around them powerful.
 
 ### What about Droids?
 
@@ -119,7 +127,7 @@ things that wander Imperial installations. The second is to actively prevent the
 accumulation of meaningful experiences via regular memory wipes, which is the
 sort of thing bad guys do.
 
-### Speaking of bad guys... what about the Empire and the Sith?
+### Speaking of bad guys... what about the Empire?
 
 In standard Star Wars, the Empire is more or less the antithesis of everything
 that is good, and it would be so even if there were no Sith involved in running
@@ -132,41 +140,62 @@ just as bad.
 In our variant setting, where everyone has a connection to the Force and this is
 seen as a good thing, the Empire adds a strong "Force-elitist" streak to its
 long list of bad traits. In a galaxy where everyone is Force-sensitive, the
-Empire believes the Force should be the exclusive domain of a chosen few. And
-this elitist ideology is what distinguishes the Sith from all the other
-Force-using evil factions.
+Empire believes the Force should be the exclusive domain of a chosen few.
 
-The Empire seeks to suppress knowledge of traditional Force training methods
-among its occupied worlds, and it trains its soldiers in ways that limit their
-skill with the Force in several ways. Stormtroopers are completely blind to it,
-and the sort of villain who gets a name and a special uniform might have some
-skills that aid their primary function, but only "Proper Sith" get full training
-in a style descended from traditional Jedi techniques. That group is technically
-made up of only two people, but the Rule of Two exists to be broken and both of
-them are going to keep several secret apprentices around.
+The Empire seeks to recruit skilled people whose moral outlook is compatible
+with its own, while at the same time outlawing and suppressing traditional Force
+training in the areas it occupies. Of course, it also recruits plenty of people
+with no particular skill in the Force, since those stormtroopers and random crew
+members have to come from somewhere. The training given to these people
+_prevents_ them from learning Force techniques of their own, and is mixed with
+plenty of propaganda about how this is better than relying on "ancient
+religions" their superstitions.
 
-Inquisitors are a bit of a special case. They're still limited, but the training
-they do get is focused on combat and sensing other Force users. They're going to
-lack the full range of esoteric techniques an unrestricted Force user might
-develop, but they're still pretty dangerous in a fight.
+Just like it happens over on the Light Side, there are many villainous Force
+users in the setting. You can find them anywhere you can find other
+villains. Some are affiliated with the Empire, some are independent but still
+bad. Their powers tend to be very similar to those of heroic characters - the
+Dark Side is more of a moral parable and a metaphor than a separate set of
+powers. The Enemy Ace uses the same piloting-boosting powers as the Heroic Ace,
+but he uses it to bomb civilians and destroy refugee ships.
 
-The signature Sith technique, the one they developed themselves and forms the
-basis of their thinking, allows them to leech the Force from others to boost
-themselves. Everyone who serves them is taught to open themselves up to
-this. It's a twisted form of communion or battle meditation, in that it hurts
-the many to enhance the few.
+That elitist philosophy comes straight from the Sith who control the
+Empire. It's the complete opposite of the Jedi philosophy, which is fitting
+since the Sith are an evil offshoot of the Jedi. The Sith form the true "inner
+circle" of the Empire, lording over even its other named elites the same way
+those elites lord over the mooks. The number of "true" Sith is about as limited
+as it is in the movies, but they're fond of cultivating "lesser" orders of
+servants beholden to a specific individual, who learn combat techniques but
+little else.
 
-### What about the Dark Side?
+Their signature technique is the inverse of the one taught by the Jedi: they're
+Force vampires, able to drain the spirit of those around them to increase their
+own power.
 
-There are still plenty of villains, and a lot of them are certainly skilled
-enough to use the Force in their evil, and it's certainly appropriate for them
-to be commonly known as adepts of the dark side... But I'd say that a lot of the
-time the actual abilities they use are similar to those of the protagonists. The
-Enemy Ace uses the same powers as the Heroic Ace, only he chooses to use it to
-further the goals of a fascist empire or to bomb innocents and so on.
+## In GURPS
 
-Just as the Jedi are one tradition among many, the Sith can be another, but once
-again a lot of the stuff that used to be unique to them is more
-widespread. There's more than one villain our there who causes grievous
-imbalances in their own Force meridians in order to gain an increased ability to
-hurt people, and they don't necessarily call themselves Sith.
+The easiest way to do this in GURPS, I feel, is to say that every cinematic
+trait in the campaign is a form of Force power. Advantages like Gunslinger,
+Trained by a Master, Gadgeteer, and even skill-related Talents would receive the
+Force power modifier (-10%). Weapon Master doesn't exist, as TL 11 melee weapons
+are strong enough without that extra damage bonus.
+
+More mystical powers are also possible, using the rules from GURPS Psionic
+Powers with a renamed power modifier. Power Talents, if they are a thing here,
+do not get the power modifier.
+
+Every player character has access to all these abilities, even if they're
+droids. A quick way to do it would be to start with slightly modified Action
+templates. A lot of those _already have_ Force abilities under our new
+definition, but we might also want to add 50 extra points for the more mystical
+stuff and for paying for alien or droid templates.
+
+To make it even more clear, the powers usually ascribed to the Jedi in media
+(super jumps, telekinesis, ESP) are _all_ available to non-Jedi characters. All
+you need is something in your background description mentioning where you
+learned it.
+
+I think even lightsabers (also known as force swords in GURPS) would be
+available to other characters as well. They might not be very common outside of
+the groups who use them as their signature weapons, but there's nothing
+preventing a non-Jedi from picking up one of them and learning how to use it.
