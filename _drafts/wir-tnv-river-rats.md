@@ -200,3 +200,5 @@ behind for good. More complex than the usual "kill'em all" approach, but
 potentially much more satisfying. Of course, less scrupulous but still
 diplomatic PCs might end up just replacing Kelson as the boss instead of ending
 the Rats' criminal activities.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
