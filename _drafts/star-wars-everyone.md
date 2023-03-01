@@ -195,7 +195,15 @@ To make it even more clear, the powers usually ascribed to the Jedi in media
 you need is something in your background description mentioning where you
 learned it.
 
-I think even lightsabers (also known as force swords in GURPS) would be
-available to other characters as well. They might not be very common outside of
-the groups who use them as their signature weapons, but there's nothing
-preventing a non-Jedi from picking up one of them and learning how to use it.
+GMs who want to make the different schools more distinctive can add a few
+exclusive techniques to them, like the Jedi battle meditation or the Sith
+force-vampirism. They're not necessarily more powerful than the more widespread
+techniques, but they are distinctive.
+
+While lightsabers (also known as force swords in GURPS) are excellent melee
+weapons, making them an effective alternative to blasters requires a significant
+investment in points. So I think there's no problem in saying these weapons and
+the associated special techniques are widely available to non-Jedi. Not everyone
+will bother spending the points, but those who do will be rewarded with being
+badass saber-users. The decision is more about style or about making a
+statement than it is about raw power.
