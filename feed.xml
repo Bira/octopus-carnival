@@ -6,9 +6,100 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Mar 2023 20:50:09 +0000</pubDate>
-    <lastBuildDate>Wed, 01 Mar 2023 20:50:09 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Mar 2023 20:55:30 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Mar 2023 20:55:30 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Ragewind</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-phantom-brigade.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;Ragewinds first appeared in Third Edition, and make their Fourth Edition debut
+here. They’re mostly generic, with some added hooks for the Vale.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Also known as sword spirits, ragewinds are undead monsters that can form in
+battlefields. They’re made up of the spirits of despondent soldiers who believe
+they died for nothing. These shades are individually weak, but they have the
+ability to move the weapons they wielded in life. A ragewind arises when many of
+these indignant ghosts join to form a single composite entity.&lt;/p&gt;
+
+&lt;p&gt;Ragewinds can lie dormant to appear as a random pile of old weapons. When
+active, they assume the whirlwind form you can see in the illustration. They can
+understand Common and modulate their wind to speak it, but they’re true monsters
+and are only interested in killing living people who stray too close to
+them. When destroyed, they release the pent-up anger and hatred inside them,
+which might cause their enemies to turn against each other. These creatures
+carry no treasure save the weapons that make up their form. They might also be
+hanging around something worth digging up, acting as accidental guardians.&lt;/p&gt;
+
+&lt;p&gt;The Nentir Vale region doesn’t just contain the ruins of a number of old
+civilizations - it was also the site of many of their battles. Bloodspear Orcs
+against Nerathi, Nerathi against the Hill Folk or the dragons of the Dawnforges,
+Arkhosia against Bael Turath, elves vs. drow, and perhaps others that have been
+lost to time. Any of these places might house a number of very old ragewinds.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;A ragewind is a Large Natural Animate with the Undead tag, and a Level 18
+Skirmisher with 112 HP. It has an amazing ground speed of 10 and a flight speed
+of 5, and perceives the world through Blindsight 20.&lt;/p&gt;
+
+&lt;p&gt;As a literal weapon whirlwinds, a ragewind projects a &lt;strong&gt;Slashing Aura&lt;/strong&gt; (1) that
+inflicts 10 damage on enemies caught inside, or 15 when it’s bloodied. Its
+&lt;strong&gt;All-Around Defense&lt;/strong&gt; means it doesn’t provoke opportunity attacks when moving,
+and it’s under a permanent &lt;strong&gt;Freedom of Movement&lt;/strong&gt; effect that ends any slowing
+or immobilizing effects on the creature at the start of its turn.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is named &lt;strong&gt;Weapon Fury&lt;/strong&gt;, which does physical damage and also
+gives the ragewind 10 temporary HP if it’s bloodied. It can also use a &lt;strong&gt;Rush of
+Blades&lt;/strong&gt; maneuver to shift 5 squares and use Weapon Fury at any point during the
+movement.&lt;/p&gt;
+
+&lt;p&gt;By expanding itself a bit the ragewind can make a &lt;strong&gt;Steel Whirlwind&lt;/strong&gt; attack
+(recharge 5+), which attacks a Close Burst 1 and does more damage than a basic
+attack, half on a miss. If the creature is bloodied the area is a Close Burst 2
+instead.&lt;/p&gt;
+
+&lt;p&gt;When it dies, the ragewind triggers its &lt;strong&gt;Death’s Rage&lt;/strong&gt; ability, which attacks
+the Will of every enemy in a Close Burst 5 and, if it hits, forces the target to
+make a basic attack against its nearest ally.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;These are dangerous physical combatants who are hard to pin down and can really
+punish PC groups who like close formations.&lt;/p&gt;
+
+&lt;p&gt;If the location of any of the Vale’s ragewinds was known, they’d probably be the
+stuff of legends told all over. It’s quite likely that they’re unknown because
+no one who met one has lived to tell the tale. With a speed of 10, they’re
+almost impossible to outrun even on horseback.&lt;/p&gt;
+
+&lt;p&gt;A lot of the NPC factions we saw so far have a relatively high chance of running
+into these things, because they spend their time digging up old ruins and
+battlefields: Dythan’s Legion, the Gray Company, the Hunter Spiders. Y’know, our
+usual suspects. I imagine this would happen as the climax of their story arcs,
+as they’re just about to find what they’re looking for.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/03/01/ragewind.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/01/ragewind.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Phantom Brigade</title>
@@ -1503,170 +1594,6 @@ better defenses and healing. It’s okay, you can stop anytime you want.&lt;/p&g
         <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Hounds of Ill Omen</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-hounds-of-ill-omen.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;We’ve already seen a bit of the history of the region known as the Gray Downs
-in other entries, for the [Barrowhaunts][2] and the [Gray Company][3]. The first
-tells us it was home to ancient hill clans, and the second tells us it’s also
-full of Nerathi ruins. This entry provides the missing link.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The hill folk who once lived in the Gray Downs were one of the Vale’s indigenous
-peoples, which means they’ve been here since before recorded history. Now,
-recorded history isn’t very expansive on our setting, but even if they’re not
-&lt;em&gt;that&lt;/em&gt; ancient, the fact is they were already living here when the first Nerathi
-expeditions arrived. In their heyday, these hill clans were famous for their
-formidable hounds, used in both hunting and warfare.&lt;/p&gt;
-
-&lt;p&gt;Nerath acted in the predictable manner of all empires, and waged war on the hill
-folk to annex their land. They soon found themselves fighting a determined
-opponent, who stayed and fought even after other people such as the Tigerclaw
-decided to flee to the frigid wilderness north of the Vale. In the end, though
-numbers won out and the hill folk where mostly annihilated.&lt;/p&gt;
-
-&lt;p&gt;Their hounds, however, were far too loyal to let a little thing like death stop
-them. They stood guard besides the corpses of their masters, and roamed the
-hills looking to inflict revenge on their killers. This only stopped when the
-Nerathi built a great barrow to honor the fallen. When the last body was buried,
-the hounds vanished… mostly. In those those dark nights when the moon looms
-large in the sky and the gray fog rises over the hills, they emerge to hunt
-again. Present-day inhabitants of the Vale call them “Hounds of Ill Omen”,
-because of the manner in which they hunt.&lt;/p&gt;
-
-&lt;p&gt;A hound will appear to its intended victim and let loose a baleful howl before
-vanishing into the fog again. From that point onwards, misfortune will plague
-the victim in everything they do. As calamity follows calamity, the victim flees
-in search of anyone who can help. Some believe that begging the gods or even the
-hounds themselves can save one from death. Most end up caught by the hound after
-suffering enough, and dragged beneath the earth to the barrows where the hounds’
-masters can feast on the poor soul.&lt;/p&gt;
-
-&lt;p&gt;Sometimes a howl will echo over the hills, louder and longer than any
-other. That’s the voice of Bregga, their alpha female, an enormous hound who is
-rumored to have walked the hills even before the hill folk lived here. The same
-rumors and legends say she can see into the hearts of mortals, and sends her
-children to hunt the unjust, possibly seeking retribution for the sins of
-Nerath. When she howls, she calls her children to raise their masters so that
-all can hunt together.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get stats for a typical hound, for Bregga, and for a sample hill folk shade
-of the sort the hounds can rouse.&lt;/p&gt;
-
-&lt;h3 id=&quot;hound-of-ill-omen&quot;&gt;Hound of Ill Omen&lt;/h3&gt;
-
-&lt;p&gt;The typical Hound is a Medium Shadow Beast (Undead) and a Level 7 Soldier with
-80 HP. It has Darkvision and a Speed of 8, which means it always catches
-you. It’s a ghost, so it’s immune to disease and poison and has both
-Insubstantial and Phasing.&lt;/p&gt;
-
-&lt;p&gt;The Hound’s version of &lt;strong&gt;Insubstantial&lt;/strong&gt; makes it take half damage from all
-attacks except those that deal force or radiant damage. And if it takes radiant
-damage, the trait shuts down until the end of its next turn. It also projects an
-&lt;strong&gt;Aura of Ill Omen&lt;/strong&gt; (2). If an enemy inside the aura spends a healing surge,
-they become slowed for a turn.&lt;/p&gt;
-
-&lt;p&gt;As with any dog monster, its primary attack is a &lt;strong&gt;Bite&lt;/strong&gt;, which damages and
-marks for a turn. It a marked enemy willingly moves away from the hound, it can
-use &lt;strong&gt;Howl of the Pack&lt;/strong&gt; as an interrupt. This targets the Fortitude of the
-triggering enemy. On a hit it deals thunder damage and makes the target grant
-combat advantage for a turn. Pretty nasty if you have other monsters in play who
-can exploit that.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter the hound can use a &lt;strong&gt;Howl of Doom&lt;/strong&gt;, a selective Close Blast
-5 which targets Will, deals thunder damage, and inflicts the curse for which the
-hound is named. Cursed targets take 3 psychic damage whenever they miss every
-target with an attack. At the end of each extended rest the target can make a DC
-16 Religion check to get rid of the curse. After the first failed check, the
-damage increases to 6. After the second, it increases to 9. And after the third
-the target dies.&lt;/p&gt;
-
-&lt;p&gt;Now, this kinda reminds me of the disease mechanics, but it’s a different
-thing. Going with the strict reading most 4e monster powers demand, the Religion
-check must be made by the &lt;em&gt;target&lt;/em&gt; and no one else. I suppose allies can help
-using Aid Another, but they can’t make the check for the victim. Remove
-Affliction &lt;em&gt;does&lt;/em&gt; work on it, since its description says it works on curses, but
-there’s a chance the party might not have access to it yet since it’s a level 8
-ritual. This curse is particularly horrible to non-divine defenders and
-strikers, since most of their attacks are single-target and they are unlikely to
-be trained in Religion or have Int as their highest attribute.&lt;/p&gt;
-
-&lt;h3 id=&quot;bregga&quot;&gt;Bregga&lt;/h3&gt;
-
-&lt;p&gt;Some legends say Bregga lived in the Gray Downs since before even the hill folk
-arrived here. Her ghost is the leader of all the Hounds of Ill Omen, and some of
-those Religion checks are made as prayers to her to pretty please remove the
-curse, thank you very much.&lt;/p&gt;
-
-&lt;p&gt;Bregga is a Large Shadow Beast (Undead) and has all the same traits as a regular
-Hound, including her Insubstantial and Aura of Ill Omen. She is a Level 10 Elite
-Skirmisher with 212 HP.&lt;/p&gt;
-
-&lt;p&gt;Her basic &lt;strong&gt;bite&lt;/strong&gt; damages with no riders, and she can also use a &lt;strong&gt;Clamping
-Bite&lt;/strong&gt; that deals the same damage and allows her to shift half her speed while
-pulling the target along with her. &lt;strong&gt;Drag and Snap&lt;/strong&gt; lets her use Clamping Bite
-and Bite against the same target, in that order. Her &lt;strong&gt;How of Doom&lt;/strong&gt; works the
-same, but with higher base damage and a Religion DC of 18.&lt;/p&gt;
-
-&lt;p&gt;As a move action she can use &lt;strong&gt;Ghostly Travel&lt;/strong&gt; to become invisible and move her
-speed, remaining invisible until the end of her turn. This recharges when she is
-first bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;hill-clan-apparition&quot;&gt;Hill Clan Apparition&lt;/h3&gt;
-
-&lt;p&gt;The shade of a warrior from the ancient hill clans, raised from its grave by the
-howl of its faithful hounds. It’s a Level 8 Minion Soldier with ground and
-flight speeds of 6, immunity to disease and poison, and Resist 10 Necrotic.&lt;/p&gt;
-
-&lt;p&gt;The apparition is surrounded by the &lt;strong&gt;Chill of the Grave&lt;/strong&gt;, slowing any enemy
-that starts their turn adjacent to it. Its basic attack is a &lt;strong&gt;Shadow Blade&lt;/strong&gt;
-dealing physical damage, and it can shout a &lt;strong&gt;Call of the Dead&lt;/strong&gt; as a ranged
-attack to deal a bit of psychic damage and pull the target up to 4 squares.&lt;/p&gt;
-
-&lt;p&gt;They’re minions, so you’ll always run into a small army of them. Their main goal
-is to disrupt the PC’s formation and bring their squishies closer to the much
-more dangerous hounds.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;As far as dog monsters go, these are pretty nifty. The lore tying them to the
-Nentir Vale setting really makes them stand out from the pack, so to speak. The
-Gray Downs where these hounds live also contain other monsters that interact
-with them in interesting ways.&lt;/p&gt;
-
-&lt;p&gt;They might end up helping the Barrowhaunts, since the latter are cursed to
-protect the barrows from outsiders. The Barrowhaunts entry even contains a few
-more minion stat blocks that could represent variant hill folk shades.&lt;/p&gt;
-
-&lt;p&gt;Another group that calls the Downs home is Gray Company, which the hounds would
-&lt;em&gt;absolutely hate&lt;/em&gt;, since they claim a direct descent from the people responsible
-for slaying their masters. Hound and Barrowhaunt attacks might be one reason why
-Gray Company is having a hard time progressing towards their goal of rebuilding
-the empire of Nerath.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/01/23/hounds-of-ill-omen.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/23/hounds-of-ill-omen.html</guid>
         
         <category>dnd4</category>
         
