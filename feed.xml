@@ -6,9 +6,288 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Mar 2023 13:09:25 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Mar 2023 13:09:25 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Mar 2023 14:38:44 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Mar 2023 14:38:44 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Raven Roost Bandits</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-raven-roost-bandits.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This is a new Vale-specific faction.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Raven Roost is an old manor located about 10 miles to the southeast of
+Thunderspire. It used to be the home of a local lord back in Nerathi times, and
+got this name because the lord had a gallows assembled at a nearby hilltop and
+was in the habit of keeping the bodies of executed criminals on display
+there. This attracted a lot of ravens, and gave the property its name.&lt;/p&gt;
+
+&lt;p&gt;The lord and his household are long gone, and today Raven Roost is home to a
+fairly sophisticated bandit gang. Their proximity to the Trade Road allows them
+to regularly attack travelers and traders moving between Fallcrest, Thunderspire
+and Hammerfast. They’re helped in this enterprise by Barton, the cheerful owner
+of the Fiveleague House inn near Hammerfast, who sends them advance warning of
+juicy targets coming from that direction.&lt;/p&gt;
+
+&lt;p&gt;The book also mentions the bandits also attack the King’s Road to the south, but
+that’s pretty far from their home base and requires them to cut through a bit of
+Harken forest to reach it. Harken’s Heart or the Hunter Spiders might have
+something to say about that if they exist in your campaign.&lt;/p&gt;
+
+&lt;p&gt;Banditry was always common along that stretch of road, as the nearby Harken
+Forest seems to offer a nice source of shelter and concealment to the deserters,
+cutthroats and outlaws who tend to make up these gangs. None of them ever lasted
+for very long, though, eventually falling prey to infighting or incurring the
+displeasure of the forest’s inhabitants. This changed when the three shadar-kai,
+disgraced former servants of the Raven Queen, arrived on the scene.&lt;/p&gt;
+
+&lt;p&gt;Of the three, Samminel was a warlord, Erzoun his court witch, and Geriesh his
+chief spy. Erzoun once predicted that Samminel would never advance in prestige
+and station if he remained on his Shadowfell domain, so the trio crossed into
+the world. Their spectacular displays of violence unburdened by compassion
+earned the fear and respect of all the little bands that hid in the Forest, who
+decided to swear loyalty to them and beg for training and leadership. Thus were
+the Raven Roost bandits formed.&lt;/p&gt;
+
+&lt;p&gt;The three leaders don’t actually work together very well, since they have a
+tendency to undermine each other’s authority. They know this, however, and have
+arranged things so that each of them commands a separate force with little
+direct interaction.&lt;/p&gt;
+
+&lt;p&gt;Raven Roost itself is an excellent home base for them. It occupies a little
+hidden valley in the Old Hills that’s supremely defensible and cannot be seen
+from the road. It’s also out of Harken Forest proper, which makes the bandits
+much less vulnerable to attacks by angry druids. They hide in the edges of the
+forest while waiting in ambush, but Raven Roost is where they rest their heads.&lt;/p&gt;
+
+&lt;p&gt;The bandits’ initial attacks were shockingly violent, but they’ve toned it down
+after their reputation began to spread. They frequently spare the lives of their
+victims and accept surrenders, since they know that people fight back harder
+when their lives are at stake. Sometimes their reputation allows them to avoid a
+fight entirely. Eventually, they plan to capitalize on that reputation to move
+from banditry to warlordism, and try to conquer and rule their own stretch of
+the Vale.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats for the three shadar-kai leaders, and for the rank-and-file bandits
+they lead. Bandits are usually human, though you could certainly mix things a
+bit and add other ancestries here.&lt;/p&gt;
+
+&lt;p&gt;The three leaders have the Shadar-kai &lt;strong&gt;Shadow Jaunt&lt;/strong&gt; encounter power, which
+lets them teleport 3 squares and become insubstantial for a turn as a move
+action. The others have no common traits.&lt;/p&gt;
+
+&lt;p&gt;As usual, we’ll look at them in ascending order of level, with the leaders at
+the end.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-harrier&quot;&gt;Raven Roost Harrier&lt;/h3&gt;
+
+&lt;p&gt;Trained by Geriesh, harriers are Level 4 Skirmishers with 53 HP. Their &lt;strong&gt;short
+swords&lt;/strong&gt; deal physical damage and prevent the target from making opportunity
+attacks for a turn on a hit. Their &lt;strong&gt;Crossbows&lt;/strong&gt; have no raiders, but are decent
+basic ranged attacks. They can make &lt;strong&gt;Moving Attacks&lt;/strong&gt; that let them move their
+speed, attack with the sword at any point, and move away without provoking
+opportunity attacks from their target.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-cutthroat&quot;&gt;Raven Roost Cutthroat&lt;/h3&gt;
+
+&lt;p&gt;Also trained by Geriesh, cutthroats are Level 5 Lurkers with 49 HP. They fight
+with &lt;strong&gt;daggers&lt;/strong&gt; and &lt;strong&gt;garrotes&lt;/strong&gt;. Garrotes target Reflex and grab the target on
+a hit. The escape DC is a surprising 22! While the grab lasts, the cutthroat has
+superior cover and both it and the victim are immune to forced movement. The
+bandit can use an &lt;strong&gt;Aterial Cut&lt;/strong&gt; on its grabbed victim, an attack that deals
+both immediate and ongoing physical damage (save ends), and ends the grab on a
+hit.&lt;/p&gt;
+
+&lt;p&gt;If the victim escapes the cutthroat’s grab, it can use &lt;strong&gt;Quick Cut&lt;/strong&gt; to make a
+free dagger attack against them.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-grenadier&quot;&gt;Raven Roost Grenadier&lt;/h3&gt;
+
+&lt;p&gt;Trained by Erzoun, grenadiers are Level 5 Controllers with 61 HP. They’re armed
+with a &lt;strong&gt;Shortsword&lt;/strong&gt; and with a large assortment of grenades. They carry 8
+&lt;strong&gt;Fire Bombs&lt;/strong&gt; that deal fire damage in an Area Burst 1 and knock the targets
+prone on a hit. They deal half damage on a miss.&lt;/p&gt;
+
+&lt;p&gt;They also carry a single &lt;strong&gt;Smoke Bomb&lt;/strong&gt; laced with poison, which attacks an Area
+Burst 1 and causes the targets to become dazed and to take ongoing poison damage
+(save ends). This creates a zone that lightly obscures its space until the end
+of the encounter.&lt;/p&gt;
+
+&lt;p&gt;Finally, they carry a bomb that can produce an &lt;strong&gt;Oil Slick&lt;/strong&gt;, which can knock
+everyone in an Area Burst 1 prone and as an effect make them vulnerable to fire
+for a turn.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can also use &lt;strong&gt;Grenadier’s Rush&lt;/strong&gt; to move their speed
+with a minor action.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-sharpshooter&quot;&gt;Raven Roost Sharpshooter&lt;/h3&gt;
+
+&lt;p&gt;Another Erzoun special, sharpshooters are Level 6 Artillery with 55 HP. They
+fight with &lt;strong&gt;short swords&lt;/strong&gt; and &lt;strong&gt;crossbows&lt;/strong&gt;, and as expected of artillery the
+latter are more accurate and damaging.&lt;/p&gt;
+
+&lt;p&gt;Sharpshooters can spend their move action to perform a &lt;strong&gt;Careful Aim&lt;/strong&gt;
+maneuver. This lets them pick an enemy they can see. If they can still see that
+enemy at the start of their next turn, their crossbow attack will attack the
+target’s Reflex instead of their AC, and will deal 5 extra damage. So not only
+will the attack be more accurate than usual, it will also target a lower defense
+(often much lower for heavily armored characters).&lt;/p&gt;
+
+&lt;p&gt;Sharpshooters can also deploy an &lt;strong&gt;Archer’s Decoy&lt;/strong&gt; as a free action, which
+grants them a +2 bonus to AC and Reflex for a turn. This recharges when they’re
+first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Since Careful Aim is a move action, sharpshooters are quite powerful when they
+can remain stationary. You can help them with that by deploying them behind good
+cover.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-outlaw-veteran&quot;&gt;Raven Roost Outlaw Veteran&lt;/h3&gt;
+
+&lt;p&gt;Led by Samminel, veterans are Level 6 Brutes with 86 HP. They fight with
+&lt;strong&gt;bastard swordS&lt;/strong&gt; and can do a fair few things with them.&lt;/p&gt;
+
+&lt;p&gt;Aside from their basic attacks, they can use &lt;strong&gt;Mighty Blows&lt;/strong&gt;, which do the same
+damage, push the target 1 square, and let the veteran shift 1 square to
+follow. Their &lt;strong&gt;Swath of Death&lt;/strong&gt; maneuver lets them attack twice and keeps
+recharging as long as at least one of the attacks misses.&lt;/p&gt;
+
+&lt;p&gt;They can also use a &lt;strong&gt;Forceful Shove&lt;/strong&gt; as a minor action to attack a target’s
+Fortitude and push then 1 square on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;raven-roost-highwayman&quot;&gt;Raven Roost Highwayman&lt;/h3&gt;
+
+&lt;p&gt;Led by Samminel, highwaymen are Level 7 Soldiers with 77 HP. They wield the
+classy bandit’s choice, a &lt;strong&gt;rapier&lt;/strong&gt; and a &lt;strong&gt;hand crossbow&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Their basic rapier attack marks for a turn, and despite carrying 10 bolts for
+the crossbow they have no ranged basic attack! Instead, they have a special
+encounter power named &lt;strong&gt;Bolt to the Gut&lt;/strong&gt;. It’s a ranged attack but does not
+provoke opportunity attacks. It deals heavy physical damage, immobilizes, and
+inflicts ongoing physical damage (save ends). Even on a miss, it immobilizes for
+a turn.&lt;/p&gt;
+
+&lt;p&gt;What do highwaymen do with the other 9 bolts once they use this? They wait for a
+marked enemy to make an attack that doesn’t include them as a target. That lets
+them use &lt;strong&gt;Stand, You Coward&lt;/strong&gt; as a reaction, which lets them immediately
+recharge and use &lt;strong&gt;Bolt to the Gut&lt;/strong&gt; on the offending enemy!&lt;/p&gt;
+
+&lt;h3 id=&quot;geriesh&quot;&gt;Geriesh&lt;/h3&gt;
+
+&lt;p&gt;Geriesh is a Level 6 Elite Skirmisher (Leader) with 136 HP. His sneaky
+leadership takes the form of a &lt;strong&gt;Swiftshadow Master&lt;/strong&gt; aura (5), which gives all
+enemies inside a +4 to Initiative and to Stealth. &lt;strong&gt;Willing Prey&lt;/strong&gt; makes any
+enemy marking him grant combat advantage.&lt;/p&gt;
+
+&lt;p&gt;The spymaster fights with &lt;strong&gt;katars&lt;/strong&gt;, which deal extra damage against targets
+granting him combat advantage. If the attack does more than 20 damage, the
+target falls unconscious (save ends). This is possible if he attacks with combat
+advantage, since his damage is 3d6+7 in that case. That’s about a 40% chance of
+unconsciousness, which of course also happens if he crits because that causes
+max damage. His version of &lt;strong&gt;Double Attack&lt;/strong&gt; allows him to perform two attacks
+and move up to his full speed between them.&lt;/p&gt;
+
+&lt;p&gt;Geriesh replaces the standard Shadow Jaunt power with &lt;strong&gt;Shadow Leap&lt;/strong&gt;, which
+doesn’t grant insubstantial but lets him teleport his full speed of 6. Once per
+encounter, he can also use &lt;strong&gt;Dagger Flick&lt;/strong&gt; as a minor action, which deals
+physical damage, immobilizes, and inflicts ongoing poison damage. Even on a
+miss, this grazes the target and immobilizes them for a turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;erzoun&quot;&gt;Erzoun&lt;/h2&gt;
+
+&lt;p&gt;Erzoun is a Level 7 Elite Controller (Leader) with 152 HP. Her witchy leadership
+manifests as a &lt;strong&gt;Quickshadow Aura&lt;/strong&gt; (5). Any ally who shifts while inside the
+aura can shift 1 extra square. While the bandits under her are fairly martial
+sorts, she’s a proper witch and fights exclusively with magic.&lt;/p&gt;
+
+&lt;p&gt;Erzoun’s basic attack is a &lt;strong&gt;Blackfire Touch&lt;/strong&gt; that does fire and necrotic
+damage on a hit, and slides 1 square as an effect. She can attack at range with
+a spell named &lt;strong&gt;Beshadowed Mind&lt;/strong&gt; that deals necrotic and psychic damage, and
+makes the target unable to see anything further than 2 squares away (save ends).&lt;/p&gt;
+
+&lt;p&gt;She also has a host of limited spells, starting with a fun one. &lt;strong&gt;Witch’s
+Prophecy&lt;/strong&gt; is an attack against Will that does no damage, but has a very
+interesting effect. If Erzoun hits, she can choose an ally within 10
+squares. The target of the spell is weakened when attacking anyone other than
+the chosen ally. This lasts until the end of the encounter, and recharges
+whenever she misses with it! She’s going to use this to set up the worst match
+possible between a PC striker and a beefy ally who can resist their attacks.&lt;/p&gt;
+
+&lt;p&gt;Erzoun can also create a zone of &lt;strong&gt;Deep Shadow&lt;/strong&gt; in an area burst 1. This is
+difficult terrain to enemies inside, and deals 10 damage to those enemies when
+they enter the zone or end their turn in it. It lasts for a turn but can be
+sustained and moved 4 squares with a minor action. It recharges when bloodied,
+so Erzoun might have two of these zones in play at once.&lt;/p&gt;
+
+&lt;p&gt;Erzoun gets the standard Shadow Jaunt power, but she also gets a &lt;strong&gt;Shadow
+Augury&lt;/strong&gt; reaction that triggers when she’s hit in melee while bloodied. It
+recharges Shadow Jaunt and lets her use it immediately!&lt;/p&gt;
+
+&lt;p&gt;Erzoun is hard to pin down and will wreak havoc on the PC’s formations with a
+Deep Shadow zone and a prophecy right at the start. Once bloodied, she stays
+mostly stationary to sustain her two zones, relying on Shadow Augury to avoid
+being surrounded.&lt;/p&gt;
+
+&lt;h3 id=&quot;samminel&quot;&gt;Samminel&lt;/h3&gt;
+
+&lt;p&gt;The overall boss of the Raven Roost bandits is a Level 8 Elite Soldier (Leader)
+with 172 HP. He’s the more direct and martial of the trio, wielding a
+&lt;strong&gt;halberd&lt;/strong&gt; in combat. His leadership instills his underlings with a
+&lt;strong&gt;Deathshadow Fervor&lt;/strong&gt; (aura 5) that lets them daze any target against whom they
+score a critical hit (save ends).&lt;/p&gt;
+
+&lt;p&gt;The halberd marks for a turn, and he can also use it in a &lt;strong&gt;Double Attack&lt;/strong&gt; or
+in a &lt;strong&gt;Sundering Sweep&lt;/strong&gt;, which doesn’t mark but hits a Close Burst 2 and
+inflicts a -2 AC penalty (save ends).&lt;/p&gt;
+
+&lt;p&gt;If a marked enemy tries to ignore Samminel, he can make a basic attack against
+them as an interrupt, scoring a critical on a 17-20. He also gets the standard
+Shadow Jaunt power.&lt;/p&gt;
+
+&lt;p&gt;Samminel is less gimmicky than Erzoun, but is a good enabler for the sort of
+direct henchman he prefers to lead.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;It’s easy to see the word “bandits” and immediately think of the sort of generic
+opponent that tends to grace each edition’s first Monster Manual. Fortunately
+the ones we get here have fairly interesting mechanics that elevate them beyond
+the generic.&lt;/p&gt;
+
+&lt;p&gt;They all work very well together, but the structure described in the Lore
+encourages a story where you face each “sub-gang” in order, defeat its boss, and
+move up the ladder. The likely order is Geriesh, Erzoun, and Samminel. Depending
+on how tightly you couple the bandit stat blocks with the leaders who train
+them, you might need to insert some generics in here to pad out your encounters.&lt;/p&gt;
+
+&lt;p&gt;We don’t get an exact headcount of the Raven Roost bandits. There’s enough to
+give the Hunter Spiders pause and make them avoid “hunting” the same routes,
+which means you can use however many you need for your own story. Unlike the
+drow, these guys can get new recruits from the constant influx of assholes who
+arrive at their territory looking to join.&lt;/p&gt;
+
+&lt;p&gt;A final stand should definitely involve the three leaders at the same time. If
+anything would force them to work together again it’s a bunch of heroes who have
+systematically dismantled the rest of their gang.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/03/10/raven-roost-bandits.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/10/raven-roost-bandits.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Ragewind</title>
@@ -1379,221 +1658,6 @@ from forcing the trolls together.&lt;/p&gt;
         <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/01/27/hurly-burly-brothers.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/27/hurly-burly-brothers.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Hunter Spiders</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-hunter-spiders.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is a vale-specific group, but it includes at least one deep-cut reference
-to early AD&amp;amp;D.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Deep beneath the Nentir Vale, lies the infamous drow city of
-Erelhei-Cinlu. Though forgotten by the people of the surface, it sends the
-occasional raiding party there to meddle in its affairs and capture
-slaves. The city was directly connected to the Vale by a tunnel that emerged in
-the Ogrefist Hills, but this tunnel collapsed three years ago. And when it did,
-it trapped one of those raiding parties on the surface.&lt;/p&gt;
-
-&lt;p&gt;This group, who calls themselves the Hunter Spiders, initially made camp in the
-Ogrefist Hills to await rescue, but for some reason the houses of Erelhei-Cinlu
-didn’t make any serious attempt to clear the blocked passage. This was
-especially concerning for the group’s leader Ti’irtha, who was the daughter of
-House Despana’s matron.&lt;/p&gt;
-
-&lt;p&gt;After a few months, and much thought, the group decided no rescue was coming and
-moved east into Harken Forest. They knew the forest had seem many skirmishes
-between elves, eladrin and drow in the past, and figured it might contain an
-entrance to another part of the Underdark named Torog’s Highway. From there
-they could journey home.&lt;/p&gt;
-
-&lt;p&gt;Ti’irtha asked for Lolth’s guidance and was directed to a bramble-choked region
-of the forest north of King’s Road, known as Spiderhaunt Thicket. The place
-turned out to contain many ancient elven and eladrin ruins, as well as large
-populations of giant spiders and undead fey. The Hunter Spiders soon put to work
-the many captives they had acquired in their raid searching for the Underdark
-entrance that surely had to be here. They’ve been there ever since.&lt;/p&gt;
-
-&lt;p&gt;The drow themselves focus their efforts in maintaining and increasing the
-numbers of their enslaved workforce. They mainly prey on the King’s Road to the
-south of the Thicket, linking Fallcrest to Harkenwold. When movement there grows
-too sparse, they prey on the Trade Road to the north, which links Fallcrest to
-Thunderspire. It’s a less ideal hunting ground for them because there’s fierce
-competition from the Raven Roost bandits. When pickings are slim on both roads,
-they get a bit more desperate and prowl the outlying farms of Fallcrest, giving
-rise to rumors of obsidian demons who snatch people from their beds.&lt;/p&gt;
-
-&lt;p&gt;Lolth’s guidance did not come without a price, of course. This is the goddess of
-betrayals and of the cycle of abuse, as we discussed in previous Let’s
-Reads. Shortly after the Hunter Spiders arrived on the Thicket, Ti’irtha and her
-consort Vhaelor found a hidden shrine to Lolth while exploring the region
-alone. Seeing that as the sign it was, Ti’irtha murdered Vhaelor and ofered his
-blood to Lolth on the altar. For her devotion, she was “rewarded” with
-transformation into a werespider.&lt;/p&gt;
-
-&lt;p&gt;As a band of elite raiders straight out of the original drow city-state, each of
-the Hunter Spiders is an extremely powerful and skilled individual. But there
-are only 24 of them left from the original party, and they have no way of
-replenishing their numbers. They’re not interested in conquest or in surface
-intrigue - their main goal is to return home. This makes them one of the rare
-evil factions in D&amp;amp;D that might be truly amenable to negotiation. If they party
-can offer them a way of returning to the Underdark, they really will pack up and
-leave, possibly even freeing their prisoners in the process if that’s part of
-the asked price for the information. However, they’re all wise in the ways of
-Lolth, which means that getting them to trust you is a challenge in itself (and
-almost impossible if you &lt;em&gt;do&lt;/em&gt; intend to betray them).&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Hunter Spiders are all drow, which means they all have Darkvision and their
-powers tend to be shadow and spider-themed. They’re placed at mid-Paragon tier,
-so they’re heaviweights in the Vale power scale, but as mentioned above they are
-few and have no way to bring in reinforcements. It should be possible for you to
-come up with a breakdown of how many of the 24 drow left use each of the three
-“generic” stat blocks below. And we also get stats for Ti’irtha.&lt;/p&gt;
-
-&lt;h3 id=&quot;drow-darklasher&quot;&gt;Drow Darklasher&lt;/h3&gt;
-
-&lt;p&gt;This is an assassin employing shadow-themed magic and a really sharp
-dagger. It’s a Level 15 Lurker with 114 HP.&lt;/p&gt;
-
-&lt;p&gt;All of the darklasher’s attacks deal 2d10 extra damage against targets granting
-combat advantage to it. The &lt;strong&gt;dagger&lt;/strong&gt; does solid damage but has no other
-riders. It can also attack at range using a &lt;strong&gt;Lashing Darkness&lt;/strong&gt; spell, which
-can only target a creature that can’t see the drow. This deals heavy force
-damage and slides the target 1 square.&lt;/p&gt;
-
-&lt;p&gt;Instead of attacking the darklasher can use &lt;strong&gt;Shadow Levitation&lt;/strong&gt; to shift 4
-squares into the air and gain total concealment plus a fly speed of 4 (hover)
-for a turn or until immediately after it attacks.&lt;/p&gt;
-
-&lt;p&gt;Another way it has to become unseen is its &lt;strong&gt;Cloud of Darkness&lt;/strong&gt; encounter
-power, a minor action that creates a zone of darkness in a Close Burst 1 around
-the caster. The zone lasts until the end of the encounter, blocks line of sight
-for everyone except the darklasher, and if any creature other than the
-darklasher enters the cloud completely, it becomes blinded while inside. The
-zone can be dismissed as a free action.&lt;/p&gt;
-
-&lt;p&gt;So it seems that Darklashers can behave kinda like artillery. Set up a cloud of
-darkness and stay inside, using Lashing Darkness to hit people from afar and
-either disrupt their maneuvers or pull them into the cloud for a stabbing
-boosted by combat advantage. If forced out, use Shadow Levitation to fly away
-and hide.&lt;/p&gt;
-
-&lt;h3 id=&quot;drow-spider-totemist&quot;&gt;Drow Spider Totemist&lt;/h3&gt;
-
-&lt;p&gt;Another drow spider-themed spellcaster to add to our ever expanding
-collection. This one is a Level 16 Controller (Leader) with 154 HP. It projects
-an aura named &lt;strong&gt;Dark Pact Mobility&lt;/strong&gt; (5) which allows bloodied allies inside to
-automatically succeed at saves against slowing or immobilizing effects.&lt;/p&gt;
-
-&lt;p&gt;The totemist has this name because their main weapon and implement is a handheld
-spider totem. Their basic melee attack is a &lt;strong&gt;Totem Bite&lt;/strong&gt; that deals light
-physical damage and inflicts 10 ongoing poison damage (save ends). Their ranged
-attack is a &lt;strong&gt;Venom Ray&lt;/strong&gt; that targets Reflex, deals poison damage, and
-immobilizes for a turn.&lt;/p&gt;
-
-&lt;p&gt;The totemist can also summon a &lt;strong&gt;Spider Swarm&lt;/strong&gt; (recharge 5+), creating a zone
-in a Close Burst 2 around themselves. Enemies grant combat advantage while
-inside, and if they end their turns there they take 10 poison damage. The zone
-lasts until the end of the encounter, or until the totemist casts the spell
-again.&lt;/p&gt;
-
-&lt;h3 id=&quot;drow-razorscourge&quot;&gt;Drow Razorscourge&lt;/h3&gt;
-
-&lt;p&gt;A drow soldier armed with a razor scourge, showing us that drow end up sounding
-edgy even when they try to come up with a practical descriptive name. They’re
-Level 17 Soldiers with 163 HP.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;scourge&lt;/strong&gt; has Reach 2 and marks for a turn on a hit. It can also be used
-for an &lt;strong&gt;Ensnaring Lash&lt;/strong&gt; that deals less damage but grabs on a hit (escape DC
-23). While the grab lasts, the target takes 20 ongoing damage. The drow can
-still make basic attacks while it has a victim grabbed, but the grab ends when
-automatically when it uses Ensnaring Lash again.&lt;/p&gt;
-
-&lt;p&gt;If an enemy marked by the razorscourge and within melee reach of it deals damage
-to one of its allies, the drow can react with a &lt;strong&gt;Retributive Flogging&lt;/strong&gt; and
-make a basic attack against the enemy.&lt;/p&gt;
-
-&lt;p&gt;And finally, razorscourges are the only stat block in this entry that have
-access to the traditional drow &lt;strong&gt;Darkfire&lt;/strong&gt; encounter power, a minor action
-attack that deals no damage and exposes the target, making it grant CA and
-nullifying its cover and concealment for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;tiirtha-drow-werespider&quot;&gt;Ti’irtha, Drow Werespider&lt;/h3&gt;
-
-&lt;p&gt;Ti’irtha is a Level 17 Elite Skirmisher with 288 HP. She has ground and Spider
-Climb speeds of 7, and Resist Poison 10. She follows a lot of the same rules for
-“mammal” lycanthropes.&lt;/p&gt;
-
-&lt;p&gt;This means she has Regeneration 10 that shuts down for a turn when damaged by
-silver, can change shape between a drow and a giant spider with a minor action,
-and has sets of attacks specific to each form.&lt;/p&gt;
-
-&lt;p&gt;In human form, her basic attack is &lt;strong&gt;Dark Caress&lt;/strong&gt;, a touch spell that deals
-physical damage and inflicts Poison Vulnerability 5 (save ends). If the target
-was granting her CA, that save is rolled at -5.&lt;/p&gt;
-
-&lt;p&gt;In spider form, her basic attack is a &lt;strong&gt;bite&lt;/strong&gt; that deals poison damage and
-exposes the target to the Spider Queen’s Curse (see below). She can also shoot a
-whole frigging’ &lt;strong&gt;Spiderweb&lt;/strong&gt; in an instant, a minor action Area 1 Within 5
-attack that restrains those it hits until they escape (DC 23). The area becomes
-difficult terrain for the rest of the encounter. This recharges when she is
-first bloodied.&lt;/p&gt;
-
-&lt;p&gt;As an Elite, Ti’irtha can make &lt;strong&gt;Double Attacks&lt;/strong&gt;, and shift between attacks (1
-square in drow form, 3 in spider form).&lt;/p&gt;
-
-&lt;p&gt;Ti’irtha has an incentive to shapeshift constantly in a fight, setting enemies
-up with Dark Caress and knocking them down with Spider Bites. The Spiderweb is
-an excellent opener since restrained enemies make the whole process much easier.&lt;/p&gt;
-
-&lt;h3 id=&quot;spider-queens-curse&quot;&gt;Spider Queen’s Curse&lt;/h3&gt;
-
-&lt;p&gt;This isn’a monster, but it’s a Level 17 Disease that’s more treacherous than
-typical lycanthropy. It follows all the normal rules, but the effects are very
-on-brand for Lolth. The Maintain DC for your Endurance rolls is 16 and the
-Improve DC is 23.&lt;/p&gt;
-
-&lt;p&gt;If Ti’irtha or another werespider bites you, roll a save at the end of the
-encounter. If you fail, you contract the Curse at stage 1. This makes you feel
-really good! You gain +1 to Fort, Ref and Will, and makes you recover an extra
-2d6 HP whenever you spend a healing surge. Yes, even when this expenditure is
-from something like a cleric’s Healing Word.&lt;/p&gt;
-
-&lt;p&gt;If you progress to Stage 2, you feel even better! The defense bonus remains,
-that recovery bonus increases to 3d6, and you get a -2 penalty to your Endurance
-rolls. Someone else might find that concerning, but you don’t. I mean, it’s all
-good things so far, right?&lt;/p&gt;
-
-&lt;p&gt;If you progress to stage 3, you immediately die and a swarm of monstrous spiders
-bursts from your corpse.&lt;/p&gt;
-
-&lt;p&gt;By the time you’re fighting Ti’irtha or someone like her, you’ve had easy access
-to Remove Affliction for about ten levels, so here’s a disease that tempts you
-into letting it develop. You can spend all that money and those healing surges
-now for a bit of safety, or you can ride the high a bit longer to benefit from
-better defenses and healing. It’s okay, you can stop anytime you want.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/25/hunter-spiders.html</guid>
         
         <category>dnd4</category>
         
