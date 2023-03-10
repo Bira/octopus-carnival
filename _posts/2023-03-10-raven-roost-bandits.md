@@ -6,6 +6,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-raven-roost-bandits.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 This is a new Vale-specific faction.
 
 ## The Lore
@@ -35,8 +45,7 @@ for very long, though, eventually falling prey to infighting or incurring the
 displeasure of the forest's inhabitants. This changed when the three shadar-kai,
 disgraced former servants of the Raven Queen, arrived on the scene.
 
-Their names were Samminel, Erzoun, and Geriesh, and they were former servants of
-the Raven Queen. Samminel was a warlord, Erzoun his court witch, and Geriesh his
+Of the three, Samminel was a warlord, Erzoun his court witch, and Geriesh his
 chief spy. Erzoun once predicted that Samminel would never advance in prestige
 and station if he remained on his Shadowfell domain, so the trio crossed into
 the world. Their spectacular displays of violence unburdened by compassion
@@ -46,7 +55,8 @@ the Raven Roost bandits formed.
 
 The three leaders don't actually work together very well, since they have a
 tendency to undermine each other's authority. They know this, however, and have
-arranged things so that each of them commands a separate force.
+arranged things so that each of them commands a separate force with little
+direct interaction.
 
 Raven Roost itself is an excellent home base for them. It occupies a little
 hidden valley in the Old Hills that's supremely defensible and cannot be seen
@@ -125,8 +135,9 @@ latter are more accurate and damaging.
 Sharpshooters can spend their move action to perform a **Careful Aim**
 maneuver. This lets them pick an enemy they can see. If they can still see that
 enemy at the start of their next turn, their crossbow attack will attack the
-target's Reflex instead of their AC, and will deal 5 extra damage. Targeting
-Reflex with an attack whose bonus is calibrated against AC is a huge bonus!
+target's Reflex instead of their AC, and will deal 5 extra damage. So not only
+will the attack be more accurate than usual, it will also target a lower defense
+(often much lower for heavily armored characters).
 
 Sharpshooters can also deploy an **Archer's Decoy** as a free action, which
 grants them a +2 bonus to AC and Reflex for a turn. This recharges when they're
@@ -161,7 +172,7 @@ provoke opportunity attacks. It deals heavy physical damage, immobilizes, and
 inflicts ongoing physical damage (save ends). Even on a miss, it immobilizes for
 a turn.
 
-What do highwayman do with the other 9 bolts once they use this? They wait for a
+What do highwaymen do with the other 9 bolts once they use this? They wait for a
 marked enemy to make an attack that doesn't include them as a target. That lets
 them use **Stand, You Coward** as a reaction, which lets them immediately
 recharge and use **Bolt to the Gut** on the offending enemy!
@@ -250,9 +261,9 @@ the generic.
 
 They all work very well together, but the structure described in the Lore
 encourages a story where you face each "sub-gang" in order, defeat its boss, and
-move on. The likely order is Geriesh, Erzoun, and Samminel. Depending on how
-tightly you couple the bandit stat blocks with the leaders who train them, you
-might need to insert some generics in here to pad out your encounters.
+move up the ladder. The likely order is Geriesh, Erzoun, and Samminel. Depending
+on how tightly you couple the bandit stat blocks with the leaders who train
+them, you might need to insert some generics in here to pad out your encounters.
 
 We don't get an exact headcount of the Raven Roost bandits. There's enough to
 give the Hunter Spiders pause and make them avoid "hunting" the same routes,

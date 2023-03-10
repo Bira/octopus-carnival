@@ -63,6 +63,10 @@ As more monsters are added, they will be linked below.
   - [Peryton][27]
   - [Phantom Brigade][28]
 
+- R
+  - [Ragewind][29]
+  - [Raven Roost Bandits][30]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -92,3 +96,5 @@ As more monsters are added, they will be linked below.
 [26]: {{ "/2023/02/08/penanggalan.html" | relative_url }}
 [27]: {{ "/2023/02/14/peryton.html" | relative_url }}
 [28]: {{ "/2023/02/23/phantom-brigade.html" | relative_url }}
+[29]: {{ "/2023/03/01/ragewind.html" | relative_url }}
+[30]: {{ "/2023/03/10/raven-roost-bandits.html" | relative_url }}
