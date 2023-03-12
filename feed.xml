@@ -6,9 +6,227 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Mar 2023 14:38:44 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Mar 2023 14:38:44 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Mar 2023 17:20:25 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2023 17:20:25 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: River Rats</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-river-rats.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;A very specific group that makes the city of Fallcrest its home.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Before we talk about the River Rats, I figure it’s useful to talk a bit about
+Fallcrest itself. This is information from both the DMG and this book.&lt;/p&gt;
+
+&lt;p&gt;Fallcrest grew around a small fort (Moonstone Keep) originally built to guard a
+portage site around a big waterfall in the Nentir River. The entire rest of the
+river is perfectly navigable, but trade boats arriving at this point need to
+unload their cargo so that it can be hauled up or down the limestone cliffs
+around the waterfall that would eventually give the city its name. The loading
+points are known as the Upper and Lower Quays.&lt;/p&gt;
+
+&lt;p&gt;Fallcrest was a prosperous trade hub for many years, but it was hit hard by the
+Bloodspear invasion. It hasn’t recovered completely even after all these years,
+since the volume of foreign trade coming into the Vale was severely reduced by
+the fall of Nerath.&lt;/p&gt;
+
+&lt;p&gt;The cliffs split Fallcrest into two districts, Hightown and Lowtown. Hightown is
+located at the more defensible top of the cliff. It suffered relatively little
+during the sack of the city and was the first area to be rebuilt and resettled,
+making it the wealthier half of the city in our narrative present.&lt;/p&gt;
+
+&lt;p&gt;Lowtown is the poorer half, located at the foot of the cliff. It was almost
+completely razed back during the invasion, and only began to see new
+construction much later, as the city began growing again. There are still
+significant stretches of it that are abandoned or ruined, which make good
+hideouts for the city’s criminal element.&lt;/p&gt;
+
+&lt;p&gt;That finally brings us to the River Rats, which are a significant faction in
+that criminal element. This gang had a Dickensian start, with a band of orphans
+who got together for protection and were turned to crime by an unscrupulous
+adult. Most of its members are grownups in our narrative present, but they still
+recruit new members by taking in street urchins. These new recruits are provided
+with food, shelter, training, and a sense of camaraderie they have likely never
+experienced before, which makes the River Rats extremely loyal to each other.
+They also have something of a “us against the world” mentality, since the world
+never gave them any of the things the Rats did.&lt;/p&gt;
+
+&lt;p&gt;The gang’s current leader is Kelson, the halfling who owns the Lucky Gnome
+Taphouse and who despite rising from the ranks neatly fills the archetype of the
+exploitative leader. The Taphouse is the cheapest and rowdiest of Fallcrest’s
+taverns, catering to dockworkers and porters. Despite the unsavory reputations
+of the Taphouse and its owner, Kelson has not yet been linked to the activities
+of the River Rats.&lt;/p&gt;
+
+&lt;p&gt;The gang has a wide repertoire, but the most profitable of their activities
+consists of burglarizing the warehouses near the Lower Quays. Kelson chooses
+targets based on the information he overhears in the Taphouse, and his gang is
+very enthusiastic about following through. Merchants who make use of these
+warehouses must carefully weigh the risk of losing their merchandise against the
+abusive monopoly prices charged by the Porter’s Guild to haul the cargo to safer
+storage spaces in the Upper Quays. The Porter’s Guild is &lt;em&gt;not&lt;/em&gt; in collusion with
+the Rats, but the overall picture still adds up to quite a damper on Fallcrest’s
+economy.&lt;/p&gt;
+
+&lt;p&gt;Kelson dreams of expanding the River Rats into a true criminal syndicate with
+chapters on every city in the Vale, but before he focuses on that he wants to
+eliminate all his rivals in Fallcrest. If his plans succeed, Fallcrest could be
+the site of a bloody gang war, likely between the Rats and the Shadow Court plus
+whatever other groups the GM wants to add into the mix.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;As a hostile faction that resides in Fallcrest itself, the River Rats are early
+to mid-Heroic threats. They’re from a variety of “playable” species, and as
+mentioned in he Lore section are mostly Unaligned, since their loyalty to each
+other is their main motivation.&lt;/p&gt;
+
+&lt;p&gt;You can easily switch their races around for more variety through the usual
+tactic of changing and reassigning the relevant stats and abilities.&lt;/p&gt;
+
+&lt;p&gt;The gang’s signature trait is &lt;strong&gt;River Rat Tactics&lt;/strong&gt;, which lets its owner gain
+combat advantage against any enemy who has one of the owner’s allies adjacent to
+them.&lt;/p&gt;
+
+&lt;h3 id=&quot;lowtown-urchin&quot;&gt;Lowtown Urchin&lt;/h3&gt;
+
+&lt;p&gt;These halflings are actually around the age of a typical starting adventurer,
+but they disguise themselves as human children to avoid suspicion as they pick
+pockets and spy on people.&lt;/p&gt;
+
+&lt;p&gt;Our urchin is a Level 1 Skirmisher with 28 HP. As a halfling they have a Speed
+of 6 and a +5 bonus to saves vs. Fear effects. They fight with a &lt;strong&gt;dagger&lt;/strong&gt;, and
+will use the &lt;strong&gt;Cloak of Filth&lt;/strong&gt; that covers them to make themselves harder to
+hit. This is a move action that allows them to shift 3 squares and gain partial
+concealment for a turn. As a halfling, they can use the &lt;strong&gt;Second Chance&lt;/strong&gt; power
+once per encounter to force an enemy who hit them to reroll the attack and use
+the new result.&lt;/p&gt;
+
+&lt;p&gt;When bloodied, the Urchin will resort to the &lt;strong&gt;River Rat’s Gambit&lt;/strong&gt; special
+attack. This encounter power lets them make a basic attack and cause 2d6 bonus
+damage if that attack hits. If it misses, the urchin takes 1d6 damage instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;market-green-grifter&quot;&gt;Market Green Grifter&lt;/h3&gt;
+
+&lt;p&gt;Grifters usually pick pockets or run rigged gambling scams in Fallcrest’s Market
+Green area, but might be called in to do other work. They’re not very good at
+direct confrontations, but they can play dead like no one else. This one’s a
+half-elf.&lt;/p&gt;
+
+&lt;p&gt;The grifter fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; whose basic attack profile is nothing
+special. They’ll make a half-assed attempt at fighting until they first take
+damage, and then they’ll &lt;strong&gt;Play Dead&lt;/strong&gt;. This causes the grifter to fall
+prone. Until the start of the grifter’s next turn, they have a +5 to all
+defenses against close and area attacks, and enemies must spend a minor action
+to roll and pass a DC 20 Insight check to target them with melee or ranged
+attacks (otherwise, the enemy will believe the grifter is dead).&lt;/p&gt;
+
+&lt;p&gt;On their next turn, the grifter can come &lt;strong&gt;Back From the Dead&lt;/strong&gt;, which lets them
+stand up, shift 3 squares, and make 3 shortsword attacks against an enemy. The
+attacks use the basic profile, but also do half-damage on a miss.&lt;/p&gt;
+
+&lt;p&gt;Once the grifter hits 0 HP, they can use &lt;strong&gt;The Jig is Up&lt;/strong&gt; as an interrupt. They
+retain their last hit point and can shift 3 squares, likely as a prelude to
+running away at full speed.&lt;/p&gt;
+
+&lt;h3 id=&quot;lower-quays-guttersnipe&quot;&gt;Lower Quays Guttersnipe&lt;/h3&gt;
+
+&lt;p&gt;Guttersnipes usually act as lookouts and spies, but are not adverse to a spot of
+murder if needed. They’re Level 2 Artillery with 30 HP. This one’s a halfling.&lt;/p&gt;
+
+&lt;p&gt;It’s important to remember that the guttersnipe &lt;em&gt;doesn’t&lt;/em&gt; need to be adjacent to
+an enemy to benefit from River Rat tactics! As long as at least one ally is
+adjacent to that enemy, the guttersnipe can shoot them with combat advantage.&lt;/p&gt;
+
+&lt;p&gt;They also have the &lt;strong&gt;Sniper&lt;/strong&gt; trait, which lets them stay hidden if they miss
+with a ranged attack from hiding.&lt;/p&gt;
+
+&lt;p&gt;Those ranged attacks will be made with &lt;strong&gt;Slings&lt;/strong&gt;. If enemies get too close for
+comfort, the guttersnipe can toss a &lt;strong&gt;Hooked Net&lt;/strong&gt;, which acts as a Close Blast
+2 that restrains and deals 5 ongoing damage to those it hits (save ends). They
+only have one of these, though, and after it’s spent they’ll need to resort to
+weak-sauce &lt;strong&gt;Gut Punches&lt;/strong&gt; to discourage melee attackers.&lt;/p&gt;
+
+&lt;p&gt;They also have the halfling Second Chance power.&lt;/p&gt;
+
+&lt;h3 id=&quot;razorclaw-jack&quot;&gt;Razorclaw Jack&lt;/h3&gt;
+
+&lt;p&gt;Jacks are part of the Rat’s beefier contingent, and specialize in burglary and
+kidnapping. This one’s a Razorclaw shifter, and a Level 3 Skirmisher with 43
+HP. When they’re bloodied, &lt;strong&gt;Razorclaw Shifting&lt;/strong&gt; gives them a +2 bonus to
+Speed, taking it from 6 to 8.&lt;/p&gt;
+
+&lt;p&gt;The jack fights with their &lt;strong&gt;claws&lt;/strong&gt;, which deal extra damage if they have
+combat advantage. They can also use the River Rat’s Gambit technique. If
+conditions are right (recharge 4+) they can use &lt;strong&gt;Skulduggery&lt;/strong&gt; to shift half
+its speed as a move action and gain combat advantage against enemies adjacent to
+them at the end of the movement. This combat advantage lasts until the end of
+the current turn, so the movement must come before an attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;lowtown-kneebreaker&quot;&gt;Lowtown Kneebreaker&lt;/h3&gt;
+
+&lt;p&gt;Kneebreakers are pure muscle, sent to rough people up or kill them when the time
+for subtlety is past. This one’s a human, and a Level 3 Brute with 56 HP.&lt;/p&gt;
+
+&lt;p&gt;They fight with &lt;strong&gt;Clubs&lt;/strong&gt;, can use River Rat’s Gambit, and can do what their
+name says as part of a &lt;strong&gt;Crippling Strike&lt;/strong&gt; (recharge 6+), which deals extra
+damage and slows (save ends). It still does half damage on a miss.&lt;/p&gt;
+
+&lt;h3 id=&quot;kelson&quot;&gt;Kelson&lt;/h3&gt;
+
+&lt;p&gt;The leader of the River Rats has the only stat block in this entry with an Evil
+alignment. Everyone else is Unaligned. I take this to mean that the River Rats
+are motivated primarily by loyalty to each other, but that Kelson is exploiting
+that loyalty for his own profit. He’s a Level 5 Elite Skirmisher with the Leader
+tag and 120 HP.&lt;/p&gt;
+
+&lt;p&gt;Kelson’s skills as a &lt;strong&gt;Gang Leader&lt;/strong&gt; act as an aura (3) that gives allies inside
+a +2 bonus to saves. He fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; and throws poisoned
+&lt;strong&gt;Daggers&lt;/strong&gt; that deal damage and inflict 5 ongoing poison damage on a hit (save
+ends). The &lt;strong&gt;Flickering Blades&lt;/strong&gt; at-will maneuver lets him make a shortsword
+attack, shift 3 squares, and throw a dagger at someone else, all within the same
+standard action.&lt;/p&gt;
+
+&lt;p&gt;He can also use River Rat’s Gambit and Second Chance.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The River Rats are mostly a pretty standard thieves’ guild and are a good tool
+for GMs who want to add a bit of urban adventuring to 4e’s standard
+points-of-light setup. They’re more straightforward and less problematic than
+the Fell Court, and also a bit more morally ambiguous. Most of the River Rats
+are in this business simply to make a living and take care of their found
+family. This means it’s possible for diplomatic PCs to dismantle the gang using
+mostly non-violent means!&lt;/p&gt;
+
+&lt;p&gt;They’d need to befriend its rank-and-file members, make them turn against
+Kelson, and give them the material conditions to leaver their criminal careers
+behind for good. More complex than the usual “kill’em all” approach, but
+potentially much more satisfying. Of course, less scrupulous but still
+diplomatic PCs might end up just replacing Kelson as the boss instead of ending
+the Rats’ criminal activities.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Raven Roost Bandits</title>
@@ -18,6 +236,8 @@
     Copyright 2011 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
 
 &lt;p&gt;This is a new Vale-specific faction.&lt;/p&gt;
 
@@ -277,6 +497,7 @@ arrive at their territory looking to join.&lt;/p&gt;
 &lt;p&gt;A final stand should definitely involve the three leaders at the same time. If
 anything would force them to work together again it’s a bunch of heroes who have
 systematically dismantled the rest of their gang.&lt;/p&gt;
+
 </description>
         <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/03/10/raven-roost-bandits.html</link>
@@ -1559,105 +1780,6 @@ them more opportunities to grab slaves to aid in their search.&lt;/p&gt;
         <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/02/01/iron-circle.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/01/iron-circle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Hurly-Burly Brothers</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-hurly-burly-brothers.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is such a simple entry, but I really like it.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Once upon a time, many years ago, a powerful troll shaman bore two children,
-twin boys. Like any mother, she wanted her children to grow up safe and
-protected, so she cast a powerful ritual that bound their spirits together. From
-that point on, they could only be killed while in close proximity to each other.&lt;/p&gt;
-
-&lt;p&gt;This ended up making the brothers Hurly and Burly even more unkillable than your
-typical trolls, because they grew up to hate each other’s guts. Staying in close
-proximity is the last thing they want to do!&lt;/p&gt;
-
-&lt;p&gt;Nowadays, they live in two caves five miles apart, both north of Winterhaven
-near the foothills of the Cairngorm Peaks. One of them is close to the shores of
-Lake Wintermist, the other is to the west. The book doesn’t say which brother
-lives where, but as long as you remember your own decision it should be fine.&lt;/p&gt;
-
-&lt;p&gt;Hurly and Burly mostly keep to themselves, roaming the area around their
-respective caves and hunting the local wildlife. Every once in a while, though,
-one of them will end up encroaching on the other’s territory, and the two have a
-bitter and violent fight that can last for days. The brothers tear each other to
-pieces, but this does no lasting harm because they’re trolls. It does leave both
-of them angry enough to begin taking their frustrations out on surrounding
-settlements and passing travelers for a while, which is one possible reasons for
-meddlesome PCs to get involved with the two.&lt;/p&gt;
-
-&lt;p&gt;Could one of the brothers move further away to end these altercations? Sure! But
-neither of them will give “that rotten git” the satisfaction of backing down.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The brothers are so alike they share the same stat block! They’re both Level 9
-Elite Brutes with 240 HP and Speed 8. As trolls, they’re Large Natural
-Humanoids.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack uses a troll-sized &lt;strong&gt;battleaxe&lt;/strong&gt;, and they can use &lt;strong&gt;Cleave&lt;/strong&gt;
-to attack all enemies in a Close Burst 2 (that’s an area 2 squares on a
-side). This does a bit less damage to each target and pushes them 1 square.&lt;/p&gt;
-
-&lt;p&gt;The trolls have &lt;strong&gt;Regeneration 10&lt;/strong&gt;, which as usual shuts down for a turn if
-they take fire or acid damage. Instead of Troll Healing, they have &lt;strong&gt;Bound By
-Blood&lt;/strong&gt;. As with troll healing, once they drop to 0 HP the brothers get back up
-with 30 HP after a turn. To prevent this, they must be hit by an attack that
-deals fire or acid damage &lt;em&gt;while within 5 squares of the other brother&lt;/em&gt;. This
-can be either the attack that drops them, or an extra attack made while they’re
-down, as usual.&lt;/p&gt;
-
-&lt;p&gt;The brothers’ blessing is &lt;em&gt;not&lt;/em&gt; general knowledge, but they of course know all
-about it. PCs might discover it by studying the trolls and succeeding at a DC 21
-Arcana or Nature check. This could be done through quiet observation, but it
-will most likely happen after the first time one of them fails to die to the
-usual troll countermeasures.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I really like the fairy-tale quality of the brothers’ story. Presumably, the
-party will end up interacting with them when tasked to resolve their conflict in
-a way that stops their periodic rampages.&lt;/p&gt;
-
-&lt;p&gt;This could be resolved with murder, of course, even though that’s the boring
-solution. Regardless of the party’s level, they can never hope to defeat one of
-the brothers if they meet him alone. He’ll just keep getting back up! The PCs
-must discover the blessing and find a way to get them together, which could mean
-provoking another fight between them. In that case the brothers will try their
-best to stay further than 5 squares apart, so PC controllers have their work cut
-out for them.&lt;/p&gt;
-
-&lt;p&gt;But why restrict ourselves to violence when there are many more fun ways to
-handle this? If you spring the brothers on a party that’s way too weak to fight
-them, the PCs must engage in trickery or diplomacy to convince the pair to move
-further apart. Or maybe the actual enemy is some more powerful threat, and the
-PCs must somehow enlist the brothers as hired muscle. And it has to be both of
-them. So now the controllers will find themselves trying to &lt;em&gt;prevent&lt;/em&gt; enemies
-from forcing the trolls together.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/01/27/hurly-burly-brothers.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/01/27/hurly-burly-brothers.html</guid>
         
         <category>dnd4</category>
         
