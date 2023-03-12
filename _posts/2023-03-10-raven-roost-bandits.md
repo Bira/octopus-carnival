@@ -15,6 +15,7 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the others.
 
 This is a new Vale-specific faction.
 
@@ -274,3 +275,5 @@ arrive at their territory looking to join.
 A final stand should definitely involve the three leaders at the same time. If
 anything would force them to work together again it's a bunch of heroes who have
 systematically dismantled the rest of their gang.
+
+[1]: {{ "/projects/tnv/" | relative_url }}

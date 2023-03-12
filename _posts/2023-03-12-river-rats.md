@@ -6,6 +6,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-river-rats.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
+
 A very specific group that makes the city of Fallcrest its home.
 
 ## The Lore
@@ -146,7 +158,7 @@ They also have the halfling Second Chance power.
 
 ### Razorclaw Jack
 
-Jacks are part of the Rat's muscle contingent, and specialize in burglary and
+Jacks are part of the Rat's beefier contingent, and specialize in burglary and
 kidnapping. This one's a Razorclaw shifter, and a Level 3 Skirmisher with 43
 HP. When they're bloodied, **Razorclaw Shifting** gives them a +2 bonus to
 Speed, taking it from 6 to 8.

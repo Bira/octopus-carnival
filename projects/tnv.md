@@ -98,3 +98,4 @@ As more monsters are added, they will be linked below.
 [28]: {{ "/2023/02/23/phantom-brigade.html" | relative_url }}
 [29]: {{ "/2023/03/01/ragewind.html" | relative_url }}
 [30]: {{ "/2023/03/10/raven-roost-bandits.html" | relative_url }}
+[31]: {{ "/2023/03/12/river-rats.html" | relative_url }}
