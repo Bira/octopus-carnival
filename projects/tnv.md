@@ -67,6 +67,9 @@ As more monsters are added, they will be linked below.
   - [Ragewind][29]
   - [Raven Roost Bandits][30]
 
+- S
+  - [Scroll Mummy][32]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -99,3 +102,4 @@ As more monsters are added, they will be linked below.
 [29]: {{ "/2023/03/01/ragewind.html" | relative_url }}
 [30]: {{ "/2023/03/10/raven-roost-bandits.html" | relative_url }}
 [31]: {{ "/2023/03/12/river-rats.html" | relative_url }}
+[32]: {{ "/2023/03/18/scroll-mummy.html" | relative_url }}

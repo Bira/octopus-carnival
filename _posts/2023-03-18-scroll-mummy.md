@@ -6,9 +6,21 @@ tags:
     - lets-read
 ---
 
-Another more generic entry. I first remember seeing scroll mummies in 3e, though
-I wouldn't be surprised if they date from earlier editions than that. There's a
-bit of an AD&D 2nd Edition vibe to them.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-scroll-mummy.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
+Another more generic entry. I first remember seeing scroll mummies in 3e where
+they appeared in the Monster Manual III. I wouldn't be surprised if they date
+from earlier editions than that. There's a bit of an AD&D 2nd Edition vibe to
+them.
 
 ## The Lore
 
@@ -93,3 +105,5 @@ serve as a plausible source of treasure for an encounter. Maybe one of those
 broken magic items isn't so broken after all, and maybe you can bring combat
 scrolls back into 4e by giving them out as consumables that let PCs use one of
 the grisgol's spell attacks once.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
