@@ -62,16 +62,16 @@ touched by the sun. Without access to light, they become even more bloodthirsty
 than usual.
 
 Some powerful creatures try to make use of twig blights as unguided boundary
-guardians by seeding them along that boundary, but the cruel little things are
-fickle and are as likely to follow the wind to nearby settlements as they are to
-stay in place.
+guardians by seeding them along that boundary, but the creatures are fickle and
+as likely to follow the wind to nearby settlements as they are to stay in place.
 
 Twig Blights are monsters. They have some intelligence and can even speak Elven,
 but they only use that to set up smarter ambushes. They only see other
 creatures, sapient or not, as food sources, and only interact with them through
-violence. You might be able to keep them contained if you supply them with
-enough blood, like Fellis did, but the moment that blood is no longer enough
-they will turn on you.
+violence. You might be able to keep them contained for a while if you supply
+them with enough blood, like Fellis did, but their reproductive cycle will
+ensure their population quickly outstrips the supply and begin hunting for live
+prey (which means you).
 
 ## The Numbers
 
