@@ -6,7 +6,18 @@ tags:
     - lets-read
 ---
 
-Our third dragon!
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-shadowmire.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
+Here's our third dragon!
 
 ## The Lore
 

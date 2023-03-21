@@ -69,6 +69,7 @@ As more monsters are added, they will be linked below.
 
 - S
   - [Scroll Mummy][32]
+  - [Shadowmire][33]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -103,3 +104,4 @@ As more monsters are added, they will be linked below.
 [30]: {{ "/2023/03/10/raven-roost-bandits.html" | relative_url }}
 [31]: {{ "/2023/03/12/river-rats.html" | relative_url }}
 [32]: {{ "/2023/03/18/scroll-mummy.html" | relative_url }}
+[33]: {{ "/2023/03/21/shadowmire.html" | relative_url }}
