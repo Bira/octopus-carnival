@@ -102,3 +102,6 @@ Shadowmire is an interest mechanical variation on an elder black dragon, and his
 lore is workable enough, but I think he's a bit too high level to fit with that
 lore. I'd probably make him Level 12 or so. He's more dangerous and intelligent
 than Bitterstrike, but is not seen as a living calamity like Calastryx.
+
+
+[1]: {{ "/projects/tnv/" | relative_url }}
