@@ -71,6 +71,9 @@ As more monsters are added, they will be linked below.
   - [Scroll Mummy][32]
   - [Shadowmire][33]
 
+- T
+  - [Tigerclaw Barbarians][34]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -105,3 +108,4 @@ As more monsters are added, they will be linked below.
 [31]: {{ "/2023/03/12/river-rats.html" | relative_url }}
 [32]: {{ "/2023/03/18/scroll-mummy.html" | relative_url }}
 [33]: {{ "/2023/03/21/shadowmire.html" | relative_url }}
+[34]: {{ "/2023/03/25/tigerclaw-barbarians.html" | relative_url }}

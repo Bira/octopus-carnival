@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-tigerclaw.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 We've heard about these people in several previous entries, and now is the time
 to take a more detailed look at them.
 
@@ -29,7 +40,7 @@ of the first razorclaw shifters.
 
 All of Hota's descendants were shifters as well, so today the Tigerclaw are
 divided into two sub-groups. The Tigerbloods who occupy important roles such as
-chieftain, shaman, and several types of elite rarrior; and the Tamed,
+chieftain, shaman, and several types of elite warrior; and the Tamed,
 non-shifters who work as gatherers, artisans and rank-and-file warriors. These
 are not quite castes despite being called such by the book: there is a way for
 one of the Tamed to become a Tigerblood.
@@ -56,8 +67,8 @@ worthy adult outsiders instead of kidnapping them.
 That said, the Tigerclaw are usually distrustful of outsiders. They remember
 Nerath and the empires that came before, all of whom tried to impose their ways
 on their people only to eventually crumble to dust while the Tigerclaw
-endured. They consider "creatures" outside their tribe to be hunters competing
-for territory, whether those creatures are monsters or people. These
+endured. They consider all "creatures" outside their tribe to be hunters
+competing for territory, whether those creatures are monsters or people. These
 "competitors" can be negotiated and traded with, but never fully trusted. And if
 they threaten the tribe, the Tigerclaw think no more of raiding a human or elven
 settlement than they would of cleaning out a nest of snakes or culling an uppity
@@ -85,8 +96,8 @@ channels to the other sapient inhabitants of Winterbole: the Frost Witches, the
 Treants, and Bitterstrike. This appears to be working, but it has the more
 traditionalist of the Tigerblood worried because they fear this will make the
 Hunter of Winter see them as "soft" and withdraw its gifts. In other words,
-they're spoiling for a fight and successful diplomacy will give them less
-chances to do so.
+they're like fighting and know successful diplomacy will leave them with less
+excuses to pick fights.
 
 We already saw how Bitterstrike and the Frost Witches see these attempts, and
 we'll look at the treants in a bit.
@@ -168,9 +179,9 @@ miss it pushes 1 square instead, but in either case it does no damage.
 
 Yes, as implied in the lore the Tigerclaw make use of sabertooth tigers as
 pets. Tigerblood candidates have to tame a wild tiger as part of their
-initiation, and I imagine they also breed and raise tigers themselves to
-accompany hereditary Tigerbloods. An encounter involving Tigerclaw members is
-also likely to involve these beasties.
+initiation, and I imagine they also breed and raise tigers to accompany
+hereditary Tigerbloods. An encounter involving Tigerclaw members is also likely
+to involve these beasties.
 
 Sabertooth Tigers are Large Natural Beasts with the Mount keyword and Level 6
 Soldiers with 72 HP. They have a ground speed of 8 and a climb speed of 4. Their
@@ -246,8 +257,7 @@ The book uses the word "barbarian" a lot, but I've avoided doing it here. I
 suppose they're barbarians in the D&D class sense, but I wouldn't want to use
 the rest of that word's baggage with them. And if I included the Tigerclaw in a
 game, I'd definitely remove the bit where they raid other communities for
-"worthy mates". It's still a bad trope even when the victims belong to all
-genders.
+"worthy mates". It's still a bad trope no matter how you look at it.
 
 Removing that shitty trope leaves you with a fairly complex people as far as D&D
 cultures go. They're not likely to be very friendly to outsider PCs, but they
@@ -262,3 +272,10 @@ but most of the tribe would resent serving under the dragon and/or being
 manipulated by Frost Witches who would surely be the secret instigators of the
 whole thing. They're the first troops you fight, but they're also the weak link
 you work in order to dismantle the Army of Winter.
+
+Shadowfang's bunch makes for a much less ambiguous enemy faction, but PCs who
+like to go for the diplomatic solution would still have plenty to do in a
+scenario where the people of Winterhaven and Fallcrest had trouble telling them
+apart from other Tigerclaw and directed their enmity at all of them.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
