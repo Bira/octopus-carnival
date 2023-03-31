@@ -73,6 +73,7 @@ As more monsters are added, they will be linked below.
 
 - T
   - [Tigerclaw Barbarians][34]
+  - [Treants of the Vale][35]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -109,3 +110,4 @@ As more monsters are added, they will be linked below.
 [32]: {{ "/2023/03/18/scroll-mummy.html" | relative_url }}
 [33]: {{ "/2023/03/21/shadowmire.html" | relative_url }}
 [34]: {{ "/2023/03/25/tigerclaw-barbarians.html" | relative_url }}
+[35]: {{ "/2023/03/31/treants.html" | relative_url }}
