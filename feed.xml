@@ -6,9 +6,163 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Mar 2023 12:01:02 +0000</pubDate>
-    <lastBuildDate>Fri, 31 Mar 2023 12:01:02 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Apr 2023 14:30:19 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Apr 2023 14:30:19 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Twig Blight</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-twig-blight.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;D&amp;amp;D Third Edition made many attempts to create new monsters that would grow
+popular enough to become iconic, and I think these little critters were one of
+their greatest successes even though they weren’t an intentional attempt.&lt;/p&gt;
+
+&lt;p&gt;They first appeared as custom opposition in The Sunless Citadel, the very first
+official module for Third Edition. They had a very specific origin tied to the
+overall story arc of that campaign. That origin is mentioned in version, but we
+also see some lore that talks about them in the Vale.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Twig blights look like large woody shrubs or small trees with interlocking
+branches. They can change shape somewhat to blend in with the surrounding
+vegetation, and they can also uproot and twist themselves into roughly humanoid
+shapes in order to hunt or migrate.&lt;/p&gt;
+
+&lt;p&gt;Blights need fresh blood to reproduce and grow, using their roots to absorb it
+from the soil or directly from corpses. New seedlings sprout from their root
+systems, as many as a dozen at a time. They’re very fragile early on, but mature
+quickly and after a few days are big enough to start ambushing small creatures.&lt;/p&gt;
+
+&lt;p&gt;The first blights originated from the Gulthias Tree, which grew from the stake
+used to slay ancient vampire who went by that name. Some people speculate that
+repeating the process to create a similar tree could create new varieties of
+twig blight, though of course few are unbalanced or evil enough to try.&lt;/p&gt;
+
+&lt;p&gt;Our Vale-specific story is about a lonely pig farmer named Fellis, who was the
+first to discover these creatures in the Vale. A strange new bush appeared
+overnight in his slaughter shed, and soon it began sprouting seedlings. Fellis
+loved the little scamps, giving them names and playing them tunes on his
+flute. His neighbors were very worried about all of this weirdness, but still
+regularly went there to trade for pig meat.&lt;/p&gt;
+
+&lt;p&gt;During that winter, however, severe snow storms tore through the region and made
+regular travel impossible until the thaw. When Fellis’ neighbors managed to get
+to his farm again, they saw that the man, his family, his pigs, and even the cat
+had all been killed. All that was left was a number of pulsating bushes
+sprouting from their corpses. Several nearby villages banded together to burn
+out the infestation, but a few individuals managed to escape into the
+surrounding woods. So now we can add “twig blight infestation” to the list of
+everyday disasters that can fall upon the people of the Vale.&lt;/p&gt;
+
+&lt;p&gt;Twig blights can survive from normal soil nutrients and sunlight like mundane
+plants, but they vastly prefer to have access to a blood supply. Their numbers
+increase rapidly when they can find a big source like a slaughterhouse or
+battlefield, though even a single corpse is enough to let their reproduction
+cycle continue. When their current blood supply runs dry, they’ll uproot
+themselves to look for more. If can’t find a new victim or supply quickly,
+they’ll take root again and wait in ambush.&lt;/p&gt;
+
+&lt;p&gt;Twig blights can even be found in dungeons, ruins, caves, and other places never
+touched by the sun. Without access to light, they become even more bloodthirsty
+than usual.&lt;/p&gt;
+
+&lt;p&gt;Some powerful creatures try to make use of twig blights as unguided boundary
+guardians by seeding them along that boundary. However, the creatures are fickle
+and as likely to follow the wind to nearby settlements as they are to stay in
+place.&lt;/p&gt;
+
+&lt;p&gt;Twig Blights are monsters. They have some intelligence and can even speak Elven,
+but they only use that to set up smarter ambushes. They only see other
+creatures, sapient or not, as food sources, and only interact with them through
+violence. You might be able to keep them contained for a while if you supply
+them with enough blood, like Fellis did, but their reproductive cycle will
+ensure their population quickly outstrips the supply, at which point they’ll
+begin hunting for live prey (which means &lt;em&gt;you&lt;/em&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Twig Blights are Small Fey Humanoids with the Plant tag. They have ground and
+climb Speeds of 5 with Forest Walk, and Darkvision. They have Resist Poison 5
+and the non-minions have Vulnerable to Fire 5. Their signature trait is
+&lt;strong&gt;Rooted&lt;/strong&gt;, which reduces forced movement from pulls, pushes, or slides by 3
+squares.&lt;/p&gt;
+
+&lt;p&gt;Like their original 3e incarnation, they’re early Heroic opposition.&lt;/p&gt;
+
+&lt;h3 id=&quot;twig-blight-seedling&quot;&gt;Twig Blight Seedling&lt;/h3&gt;
+
+&lt;p&gt;A seedling who just grew big enough to hunt. It’s a Level 1 Minion
+Skirmisher. Their &lt;strong&gt;claw&lt;/strong&gt; attack lets them shift 2 squares before making the
+roll, deals poison damage, and has a small damage bonus when the target is
+granting them combat advantage.&lt;/p&gt;
+
+&lt;p&gt;Their tactics are simple: surround and kill.&lt;/p&gt;
+
+&lt;h3 id=&quot;twig-blight&quot;&gt;Twig Blight&lt;/h3&gt;
+
+&lt;p&gt;The classic model is a Level 2 Lurker with 28 HP. It can turn &lt;strong&gt;invisible&lt;/strong&gt; for
+a turn with a standard action, and surprise opponents with &lt;strong&gt;Blighted Claw&lt;/strong&gt;
+attacks that do heavy poison damage and weaken (save ends). Even a miss still
+does half damage and weakens for a turn.&lt;/p&gt;
+
+&lt;p&gt;If the blight can’t become invisible, it can still attack with basic &lt;strong&gt;claw&lt;/strong&gt;
+attacks that do a typical amount of poison damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;twig-blight-swampvine&quot;&gt;Twig Blight Swampvine&lt;/h3&gt;
+
+&lt;p&gt;This is a new variant! It could be that classic blights adapted themselves to a
+swampy environment… or it could be that someone out there did prove the
+stake-tree theorem. They’re particularly common in the Witchlight Fens along the
+Nentir River.&lt;/p&gt;
+
+&lt;p&gt;Swampvines are Level 3 Soldiers with 42 HP. They’ll use their minor actions to
+pull targets close using a &lt;strong&gt;Swamp Vine&lt;/strong&gt;, which also grabs them (escape DC
+13). If a grabbed target attacks someone other than the swampvine, they take an
+automatic 5 poison damage. They can also make basic &lt;strong&gt;claw&lt;/strong&gt; attacks that do
+poison damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;twig-blight-swarm&quot;&gt;Twig Blight Swarm&lt;/h3&gt;
+
+&lt;p&gt;A big bunch of classic twig blights that decided to stop being subtle. It’s a
+Large Swarm made up of Small creatures, and a Level 5 Brute with 74 HP. It’s
+Swarm Attack aura deals 3 damage to those inside, and while it looses its
+specific vulnerability to fire it’s still vulnerable to close and area attacks
+like any other swarm.&lt;/p&gt;
+
+&lt;p&gt;Its version of &lt;strong&gt;Rooted&lt;/strong&gt; makes it completely immune to being pushed, pulled, or
+slid, and its &lt;strong&gt;Swarm of Claws&lt;/strong&gt; basic attack deals poison damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I’m sure there are lots of people who will be happy to have official 4e stats
+for Twig Blights. Their explicitly unnatural origin and their monstrous
+disposition tends to make them better “guilt-free” low-level opponents than your
+usual selection of humanoids.&lt;/p&gt;
+
+&lt;p&gt;This incarnation of them is also quite tricky for low-level PCs to handle, since
+a lot of their early powers rely on forced movement for their more interesting
+effects.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/02/twig-blight.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/02/twig-blight.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Treants</title>
@@ -1711,175 +1865,6 @@ nest.&lt;/p&gt;
         <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Penanggalan</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;No illustration this time. The book has one, but it’s quite gross.&lt;/p&gt;
-
-&lt;p&gt;The Penanggalan is a monster from Southeast Asian folklore (the name used here
-is Malay). It was first statted up for D&amp;amp;D in the Fiend Folio, and this is its
-4e debut. This entry does make some effort to tie its lore to the Nentir Vale,
-but I still think it fits into the “generic monster” category.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Legend has it that the first penanggalan was a young baroness in Harkenwold, who
-was very smart but “plain of face and scant of suitors”. She found a cache of
-old diabolism texts from Bael Turath one day, and decided to use them to improve
-her situation. She conjured a devil using the Turathi rituals, and made a deal
-where the devil would make her forever young and beautiful in exchange for
-eternal servitude.&lt;/p&gt;
-
-&lt;p&gt;The lady did become beautiful, but it was the sort of beauty that comes from a
-devil’s bargain: so beautiful she was that armies clashed for her hand, and that
-her father eventually decided to lock her up in a tower for protection. Alone in
-her tower, the baroness prayed to the gods and begged for forgiveness, swearing
-to do penance before them.&lt;/p&gt;
-
-&lt;p&gt;The devil that made the deal with her did not like this one bit, and before she
-could start atoning for her sins, he whispered the secret of her beauty in the
-ear of Harkenwold’s high priest. The priest was one of those “zero tolerance”
-types, so he had the lady hanged as a diabolist. Her body remained in the
-gallows until midnight, and then her head and entrails separated from it and
-went hunting.&lt;/p&gt;
-
-&lt;p&gt;All penanggalans have a similar origin: women who make dark pacts for immortal
-beauty and try to renege, but who die before completing their penance and
-freeing their souls. The creatures share some superficial similarities to
-vampires, in that they’re undead monsters who feed on the living. Some embrace
-their new nature, some keep trying to complete their atonement to perhaps find a
-cure, but all of them are afflicted by a powerful hunger for the purity that
-once rain in their veins. Even a penitent penanggalan can only resist this
-hunger for about three days before going berserk, so atonement is really hard
-for them.&lt;/p&gt;
-
-&lt;p&gt;The book doesn’t go into details on how they feed, but from what I see in
-Wikipedia the original legend does say they drink blood. You could interpret the
-book’s information to say they eat flesh instead. In either case their attacks
-are quite fatal because even the traditional blood drinker version spreads a
-wasting disease to its victims.&lt;/p&gt;
-
-&lt;p&gt;As long as a penanggalan’s original body is in good condition, she can squeeze
-back into it and disguise herself as a mortal woman. The creatures often look
-for jobs as midwives or nursemaids, making victims of young kids and their
-mothers. Others prefer seduction as a means to get potential victims alone with
-them in a private spot. The original legend also has this really neat (and
-gross) detail that the creature bathes its dangling entrails in vinegar to
-shrink them up and fit them through the body’s neck, but that’s not necessary in
-the D&amp;amp;D version.&lt;/p&gt;
-
-&lt;p&gt;If a penanggalan’s body is destroyed, the creature is forever stuck as a
-floating head, and usually becomes a lot more desperate and obvious in its
-attacks.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Penanggalans are Natural Humanoids with the Undead tag. Individuals with bodies
-are Medium while in mortal form. The floating head with trailing guts is Small.&lt;/p&gt;
-
-&lt;p&gt;As undead they’re immune to disease and poison, resist necrotic damage, and are
-vulnerable to radiant damage. They have darkvision and a ground speed of 6, as
-well as a flight speed of 8 in head form.&lt;/p&gt;
-
-&lt;h3 id=&quot;penanggalan&quot;&gt;Penanggalan&lt;/h3&gt;
-
-&lt;p&gt;The basic model is a Level 10 Elite Lurker with 162 HP. It has the Shapechanger
-tag and can switch between woman and head forms.&lt;/p&gt;
-
-&lt;p&gt;In woman form, the penanggalan can defend herself with a &lt;strong&gt;dagger&lt;/strong&gt;, but she’s
-likely in disguise and will try to use her &lt;strong&gt;soothing voice&lt;/strong&gt; to literally lull
-her victims into a false sense of security. This is an encounter spell that
-attacks the Will of everyone in a Close Burst 1, and while it does no damage it
-slows on a hit (save ends). After the first failed save, this worsens to
-unconsciousness!&lt;/p&gt;
-
-&lt;p&gt;I would say that Soothing Voice can be disguised as a song or conversation,
-since it’s supposed to be subtle. Targets might not notice something is wrong at
-first.&lt;/p&gt;
-
-&lt;p&gt;Once the jig is up, the penanggalan undergoes her &lt;strong&gt;Horrific Transformation&lt;/strong&gt;,
-which is so gross it works as a Close Burst 2 attack vs. Will, dealing heavy
-psychic damage and dazing for a turn on a hit. This of course transforms the
-monster into its head form. The body is considered a corpse for game purposes,
-and the penanggalan can return to it with a standard action if it’s on the same
-space and the body is not completely destroyed.&lt;/p&gt;
-
-&lt;p&gt;In head form, the monster attacks with &lt;strong&gt;Bites&lt;/strong&gt; that do physical damage and
-ongoing poison damage (save ends). It can also use its &lt;strong&gt;Grasping Entrails&lt;/strong&gt;
-(recharge 4+) to attack up to two creatures at Reach 2. On a hit, this deals
-poison and necrotic damage and grabs the victim (escape DC 22). Targets grant
-combat advantage until they escape, and are exposed to Blistering Corruption
-(see below).&lt;/p&gt;
-
-&lt;p&gt;The penanggalan can use its &lt;strong&gt;Maleable Form&lt;/strong&gt; as a standard action to gain
-phasing for a turn and shift up to its speed. If it starts its next turn hidden
-from all enemies, Graping Entrails recharges, and the monster can use both it
-and Bite in the same action when it next attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;penanggalan-bodiless-head&quot;&gt;Penanggalan Bodiless Head&lt;/h3&gt;
-
-&lt;p&gt;A penanggalan who had its body destroyed a while ago and had to adapt to
-survive. It’s a Level 9 Skirmisher with 94 HP.&lt;/p&gt;
-
-&lt;p&gt;This monster attacks with &lt;strong&gt;bites&lt;/strong&gt; that do physical damage, and also slow (save
-ends) if the target is granting combat advantage. It can also use its &lt;strong&gt;flailing
-entrails&lt;/strong&gt; to deal poison damage and slide 1 square on a hit.&lt;/p&gt;
-
-&lt;p&gt;The penanggalan can perform a &lt;strong&gt;malleable rush&lt;/strong&gt; with its move action, gaining
-phasing for a turn and shifting its speed. This recharges after it’s first
-bloodied. When it dies, it explodes, and the resulting &lt;strong&gt;Death Burst&lt;/strong&gt; attacks a
-Close Burst 1, deals poison damage, and exposes victims to Blistering
-Corruption.&lt;/p&gt;
-
-&lt;h3 id=&quot;penanggalan-head-swarm&quot;&gt;Penanggalan Head Swarm&lt;/h3&gt;
-
-&lt;p&gt;Exactly what it sounds like, a pack of floating, starving penanggalan
-heads. It’s a Medium Swarm of Small creatures, and a Level 8 Soldier with 87 HP.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) slows enemies caught inside. Its basic attack is a
-&lt;strong&gt;Swarm of Entrails&lt;/strong&gt; that targets a Close Burst 2, deals light poison damage
-(or more if the target is slowed), and slides the target 1 square to a space
-adjacent to the monster.&lt;/p&gt;
-
-&lt;h3 id=&quot;blistering-corruption&quot;&gt;Blistering Corruption&lt;/h3&gt;
-
-&lt;p&gt;Turns out this version of the penanggalan also spreads a wasting
-disease. Blistering Corruption is like supernaturally-boosted measles or
-chickenpox, causing sores, blisters and boils to erupt all over the victim’s
-body. You get exposed to it through contact with penanggalan entrails, and must
-succeed on a save to avoid contracting it as usual.&lt;/p&gt;
-
-&lt;p&gt;This level 10 disease is resisted with Endurance, and has a Maintain DC of 13
-and an Improve DC of 18. Its effects are cumulative. At Stage 1, it inflicts a
--2 penalty to Fortitude. At Stage 2 it also halves your maximum HP (making you
-permanently bloodied) and healing surge value. At Stage 3, you gain an aura 2
-that cannot be deactivated, and eats a healing surge from any creature that gets
-caught inside.&lt;/p&gt;
-
-&lt;p&gt;As with other diseases, you stop making recovery rolls once you hit
-stage 3. Blistering Corruption doesn’t kill you, but it makes you weak and
-unbearable to be around. Only Remove Affliction or equivalent powers can save
-you from this fate once you hit Stage 3.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;D&amp;amp;D’s penanggalan is surprisingly similar to the traditional story I saw on
-Wikipedia. The story has somewhat more varied origins for the creature, though
-the “woman who practiced evil magic and was cursed by it” is also there.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/02/08/penanggalan.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/08/penanggalan.html</guid>
         
         <category>dnd4</category>
         
