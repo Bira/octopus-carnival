@@ -6,10 +6,20 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-twig-blight.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 D&D Third Edition made many attempts to create new monsters that would grow
-popular enough to become iconic, and out of all of those I think the greatest
-success were these little critters. And I'm pretty sure their popularity was
-accidental.
+popular enough to become iconic, and I think these little critters were one of
+their greatest successes even though they weren't an intentional attempt.
 
 They first appeared as custom opposition in The Sunless Citadel, the very first
 official module for Third Edition. They had a very specific origin tied to the
@@ -29,9 +39,9 @@ systems, as many as a dozen at a time. They're very fragile early on, but mature
 quickly and after a few days are big enough to start ambushing small creatures.
 
 The first blights originated from the Gulthias Tree, which grew from the stake
-used to slay an ancient vampire. Some people speculate that repeating the
-process to create a similar tree could create new varieties of twig blight,
-though of course few are unbalanced or evil enough to try.
+used to slay ancient vampire who went by that name. Some people speculate that
+repeating the process to create a similar tree could create new varieties of
+twig blight, though of course few are unbalanced or evil enough to try.
 
 Our Vale-specific story is about a lonely pig farmer named Fellis, who was the
 first to discover these creatures in the Vale. A strange new bush appeared
@@ -62,16 +72,17 @@ touched by the sun. Without access to light, they become even more bloodthirsty
 than usual.
 
 Some powerful creatures try to make use of twig blights as unguided boundary
-guardians by seeding them along that boundary, but the creatures are fickle and
-as likely to follow the wind to nearby settlements as they are to stay in place.
+guardians by seeding them along that boundary. However, the creatures are fickle
+and as likely to follow the wind to nearby settlements as they are to stay in
+place.
 
 Twig Blights are monsters. They have some intelligence and can even speak Elven,
 but they only use that to set up smarter ambushes. They only see other
 creatures, sapient or not, as food sources, and only interact with them through
 violence. You might be able to keep them contained for a while if you supply
 them with enough blood, like Fellis did, but their reproductive cycle will
-ensure their population quickly outstrips the supply and begin hunting for live
-prey (which means you).
+ensure their population quickly outstrips the supply, at which point they'll
+begin hunting for live prey (which means _you_).
 
 ## The Numbers
 
@@ -136,3 +147,5 @@ usual selection of humanoids.
 This incarnation of them is also quite tricky for low-level PCs to handle, since
 a lot of their early powers rely on forced movement for their more interesting
 effects.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
