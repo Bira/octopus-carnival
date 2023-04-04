@@ -27,9 +27,10 @@ there.
 
 In slightly-less-ancient times, a lich whose name has been lost to history
 established a lair in the Fens with the goal of finding the remains of this
-demon lord and reanimating them as super-powerful undead creature. Accompanying
-the lich was a coven of nine vampire lords, its loyal retainers. These vampires
-were tasked with hiding and guarding the lich's soul vessel.
+demon lord and reanimating them as a super-powerful undead
+creature. Accompanying the lich was a coven of nine vampire lords, its loyal
+retainers. These vampires were tasked with hiding and guarding the lich's soul
+vessel.
 
 Some time after that, one of the lich's enemies, a powerful hag, came to the
 fens in search of its soul vessel. She had created a custom ritual to destroy
