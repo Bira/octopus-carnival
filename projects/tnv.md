@@ -76,6 +76,9 @@ As more monsters are added, they will be linked below.
   - [Treants of the Vale][35]
   - [Twig Blight][36]
 
+- V
+  - [Vampiric Mist][37]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -113,3 +116,4 @@ As more monsters are added, they will be linked below.
 [34]: {{ "/2023/03/25/tigerclaw-barbarians.html" | relative_url }}
 [35]: {{ "/2023/03/31/treants.html" | relative_url }}
 [36]: {{ "/2023/04/02/twig-blight.html" | relative_url }}
+[37]: {{ "/2023/04/04/vampiric-mist.html" | relative_url }}

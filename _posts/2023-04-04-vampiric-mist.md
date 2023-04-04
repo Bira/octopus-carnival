@@ -6,6 +6,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-twig-blight.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 Vampiric Mists originally appeared back in AD&D 1e, in Dungeon Magazine 17. This
 is their 4e debut, with lore appropriate to the Nentir Vale.
 
@@ -45,7 +55,10 @@ variety appears when a vampire who is forced into mist form has its resting
 place destroyed before it can get there. To avoid permanent destruction, the
 vampire will sometimes shed its physical form by an act of will, becoming a
 vampiric mist. This causes it to lost most of its intellect and memories, and to
-become a creature of hunger and instinct.
+become a creature of hunger and instinct. They're still smart enough to team up
+with other evil or predatory swamp dwellers like hags, vine horrors, and outcast
+lizardfolk. There's always the danger the mist will turn on these allies if they
+have blood and victims become scarce.
 
 ## The Numbers
 
@@ -80,7 +93,7 @@ makes the target vulnerable to necrotic damage for a turn. It can also spread a
 **Wave of Lethargy** (recharge 5+) that attacks a Close Burst 2, deals a bit of
 psychic and necrotic damage, and slows for a turn.
 
-This thing is almost impossible to pin down. With multiple of them in the same
+This thing is almost impossible to pin down. With multiple mists in the same
 encounter, some can "prime" targets by hitting them with Life Drain to make them
 take increased damage from a Wave of Lethargy.
 
@@ -150,3 +163,5 @@ If that doesn't appeal, you'll notice that any party capable of defeating the
 Crimson Deathmist guarding the entrance is at about the right level to tackle
 the Tomb of Horrors... You'd need to change that clearing a bit to include the
 three entrances, but otherwise it's as good a place to put it as any.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
