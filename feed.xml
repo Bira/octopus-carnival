@@ -6,9 +6,178 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 02 Apr 2023 14:30:19 +0000</pubDate>
-    <lastBuildDate>Sun, 02 Apr 2023 14:30:19 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Apr 2023 13:26:12 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Apr 2023 13:26:12 +0000</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Vampiric Mist</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-twig-blight.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Vampiric Mists originally appeared back in AD&amp;amp;D 1e, in Dungeon Magazine 17. This
+is their 4e debut, with lore appropriate to the Nentir Vale.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Ancient legends tell that the Witchlight Fens mark the spot where a demon lord
+was slain at the dawn of time - the region became a swamp when its corpse fell
+there.&lt;/p&gt;
+
+&lt;p&gt;In slightly-less-ancient times, a lich whose name has been lost to history
+established a lair in the Fens with the goal of finding the remains of this
+demon lord and reanimating them as super-powerful undead creature. Accompanying
+the lich was a coven of nine vampire lords, its loyal retainers. These vampires
+were tasked with hiding and guarding the lich’s soul vessel.&lt;/p&gt;
+
+&lt;p&gt;Some time after that, one of the lich’s enemies, a powerful hag, came to the
+fens in search of its soul vessel. She had created a custom ritual to destroy
+the vampires, and she enacted it there, but it didn’t have the desired
+effect. Her magic succeeded at destroying the bodies of the vampires, but their
+essence remained and coalesced to form a new, more dangerous
+creature. The hag left without finding the artifact, which remains in the Fens
+protected by its gaseous guardian.&lt;/p&gt;
+
+&lt;p&gt;There’s a deserted clearing in the Fens that contains a single slab of stone in
+its middle. That is the territory of the monster known as the Crimson Deathmist,
+who endlessly roams it looking for new victims. It prefers the blood of elves
+and other fey, but it will kill anyone it can reach. It has been a very long
+time since anyone who encountered it has lived to tell the tale.&lt;/p&gt;
+
+&lt;p&gt;The stone slab conceals the entrance to a catacomb complex where the lich’s soul
+vessel is hidden. The fate of the lich itself is unknown. Maybe it’s still in
+the Fens somewhere, or maybe something peculiar happened to it to take it out of
+the picture without destroying its vessel.&lt;/p&gt;
+
+&lt;p&gt;Not all vampiric mists have such an epic origin. A more common and less powerful
+variety appears when a vampire who is forced into mist form has its resting
+place destroyed before it can get there. To avoid permanent destruction, the
+vampire will sometimes shed its physical form by an act of will, becoming a
+vampiric mist. This causes it to lost most of its intellect and memories, and to
+become a creature of hunger and instinct. They’re still smart enough to team up
+with other evil or predatory swamp dwellers like hags, vine horrors, and outcast
+lizardfolk. There’s always the danger the mist will turn on these allies if they
+have blood and victims become scarce.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get several varieties of vampiric mist here, which I guess come from
+different types of vampire, or vampires who met different ends. One of those is
+the late-Paragon Crimson Deathmist, but others hover hungrily around the late
+Heroic and early Paragon tiers.&lt;/p&gt;
+
+&lt;p&gt;All of them have Darkvision, immunity to disease, 10 Resistance to necrotic and
+poison damage, and 5 vulnerability to radiant damage. Their ground speed is 0,
+but their flight speed is a 5 with an altitude limit of 2. That means they never
+land, but also can’t fly beyond melee reach.&lt;/p&gt;
+
+&lt;p&gt;All of these creatures have the &lt;strong&gt;Mist Form&lt;/strong&gt; trait, which lets them move
+through openings of any size and occupy the same space as other creatures. They
+also count as &lt;strong&gt;Insubstantial&lt;/strong&gt;, taking half damage from everything but fire,
+force, or radiant damage. Fire or radiant damage additionally makes them lose
+this trait for a turn.&lt;/p&gt;
+
+&lt;p&gt;Lesser mists have an aura (1) named &lt;strong&gt;Siphoning Presence&lt;/strong&gt; that prevent enemies
+inside from spending healing surges, and deal 5/tier necrotic damage to enemies
+who end their turns inside. When the aura deals damage, the mist recovers 5
+HP. Being inside the mist does count as being inside its aura. They are Medium.&lt;/p&gt;
+
+&lt;h3 id=&quot;vampiric-mist&quot;&gt;Vampiric Mist&lt;/h3&gt;
+
+&lt;p&gt;Our basic model is a Level 9 Skirmisher with 85 HP and all the standard traits
+listed above. It can shift its speed as a move action using the &lt;strong&gt;Shifting
+Mists&lt;/strong&gt; ability, which ensures it will never move normally. Its basic attack is
+a contact &lt;strong&gt;Life Drain&lt;/strong&gt; that targets Fortitude, deals necrotic damage, and
+makes the target vulnerable to necrotic damage for a turn. It can also spread a
+&lt;strong&gt;Wave of Lethargy&lt;/strong&gt; (recharge 5+) that attacks a Close Burst 2, deals a bit of
+psychic and necrotic damage, and slows for a turn.&lt;/p&gt;
+
+&lt;p&gt;This thing is almost impossible to pin down. With multiple mists in the same
+encounter, some can “prime” targets by hitting them with Life Drain to make them
+take increased damage from a Wave of Lethargy.&lt;/p&gt;
+
+&lt;h3 id=&quot;vampiric-mist-corruptor&quot;&gt;Vampiric Mist Corruptor&lt;/h3&gt;
+
+&lt;p&gt;I guess this is what you get from a more traditional D&amp;amp;D vampire who was capable
+of using a dominating gaze and really leaned on this ability. Corruptors are
+Level 11 Controllers with 100 HP and all standard traits described above.&lt;/p&gt;
+
+&lt;p&gt;As soon as the fight starts they’ll try to hit someone with their &lt;strong&gt;Corrupting
+Gaze&lt;/strong&gt;, which dominates (save ends) on a hit and deals necrotic and psychic
+damage as an aftereffect. This recharges whenever the creature doesn’t have a
+dominated victim!&lt;/p&gt;
+
+&lt;p&gt;After dominating a PC, it will attack the others with its &lt;strong&gt;bite&lt;/strong&gt;, which deals
+necrotic damage and slides 2 squares on a hit. Perfect for dragging other PCs
+closer to the dominated one.&lt;/p&gt;
+
+&lt;p&gt;When the mist is first bloodied, it will let loose a &lt;strong&gt;Deathly Howl&lt;/strong&gt; that hits
+a Close Burst 5, pushes 3 squares on a hit and forbids targets from spending
+healing surges (save ends).&lt;/p&gt;
+
+&lt;p&gt;Don’t add more than one or two of these to an encounter group. It’s no fun for
+anyone if the whole party ends up dominated.&lt;/p&gt;
+
+&lt;h3 id=&quot;chillborn-vampiric-mist&quot;&gt;Chillborn Vampiric Mist&lt;/h3&gt;
+
+&lt;p&gt;This is a cold-themed mist. It’s a Level 9 Soldier with 85 HP and all standard
+traits described above. All of its attacks do cold and necrotic damage. There’s
+a &lt;strong&gt;bite&lt;/strong&gt; that slows for a turn and the &lt;strong&gt;Grasp of the Cold Grave&lt;/strong&gt; that
+immobilizes for a turn.&lt;/p&gt;
+
+&lt;p&gt;These mists lack marking capabilities, but their attacks are still very good at
+making movement difficult for PCs. It could easily be reskinned into some other
+frost-themed ghost without any changes to its stats.&lt;/p&gt;
+
+&lt;h3 id=&quot;crimson-deathmist&quot;&gt;Crimson Deathmist&lt;/h3&gt;
+
+&lt;p&gt;The legendary Crimson Deathmist is a Huge entity, and a Level 19 Elite Soldier
+with 328 HP. It’s faster with a flight speed of 6 and an altitude limit of 3. It
+is however slightly more vulnerable to radiant damage (10 instead of 5).&lt;/p&gt;
+
+&lt;p&gt;This monster has all the standard traits, but its Siphoning Presence is renamed
+to &lt;strong&gt;Impending Doom&lt;/strong&gt; and upgraded. I has a radius of 2 instead of 1, and
+restores 10 HP to the mist instead of 5.&lt;/p&gt;
+
+&lt;p&gt;The Deathmist can pull enemies 4 squares closer with its &lt;strong&gt;Hypnotic Lure&lt;/strong&gt;
+(at-will, minor action), and then &lt;strong&gt;Demand Obedience&lt;/strong&gt; from them. This is a
+melee attack that can target two creatures at the same time. It deals psychic
+and necrotic damage, with an additional 10 damage the next turn if the targets
+attack anyone other than the Deathmist.&lt;/p&gt;
+
+&lt;p&gt;Its basic attack is a &lt;strong&gt;Deathly Grasp&lt;/strong&gt; that deals necrotic and poison damage
+and also slows for a turn. It can also release a &lt;strong&gt;Terror Wave&lt;/strong&gt; that deals
+psychic damage in a Close Burst 2 and immobilizes for a turn. That last one
+recharges when it’s bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;The mists’ mechanics are cool, but what really drew my attention was the story
+about the lich. A lich whose name is unknown, who lived in ancestral times, who
+was interested in undead demon lords, and who is no longer around? That could be
+Vecna, whose deeds in this place let him ascend. And instead of a typical soul
+vessel you’d find his Eye at the bottom of this catacomb dungeon.&lt;/p&gt;
+
+&lt;p&gt;If that doesn’t appeal, you’ll notice that any party capable of defeating the
+Crimson Deathmist guarding the entrance is at about the right level to tackle
+the Tomb of Horrors… You’d need to change that clearing a bit to include the
+three entrances, but otherwise it’s as good a place to put it as any.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/04/vampiric-mist.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/04/vampiric-mist.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Twig Blight</title>
@@ -1740,131 +1909,6 @@ of the order who managed to retain their physical bodies after all this time.&lt
         <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/02/23/phantom-brigade.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/23/phantom-brigade.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Peryton</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-peryton.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;It’s possible perytons appeared in previous editions, but this is the first time
-I remember seeing them. I think they might be based in real-world folklore?&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Perytons are large predators that resemble big raptor birds with antlered,
-sharp-fanged stag heads. The feathers on the bird part are typically dark green,
-and the stag’s fur is blue-black. Both males and females have antlers, but males
-also have distinctive light blue feathers on their chests. Their shadows,
-interestingly enough, don’t correspond to their physical shapes and are instead
-humanoid. Perytons like to nest in tall mountain ridges, which in the Vale means
-the Cairngorm peaks and Stonemarch to the northwest, or the Dawnforge range to
-the east.&lt;/p&gt;
-
-&lt;p&gt;Some sages speculate that the first perytons were elves changed by some horrible
-curse, and there are enough sinister details about their behavior and lifecycle
-to lend credence to this even if you ignore the “humanoid shadow” thing.&lt;/p&gt;
-
-&lt;p&gt;Travelers are advised to keep their eyes on the sky when going through these
-mountainous regions, because perytons are a fairly common hazard there. Not only
-are they unafraid to attack people, they specifically go after humanoid prey due
-to a very suspicious quirk of their reproductive cycle: peryton females need to
-consume the fresh heart of a humanoid in order to reproduce. This will cause
-their shadows to reflect their true forms for a number of hours, during which
-they are fertile.&lt;/p&gt;
-
-&lt;p&gt;Perytons are classed as beasts because they look and behave like animals, but
-they’re also clever enough to keep victims alive in their nests until it’s time
-to eat, to ensure the freshness of their hearts. They can carry off victims as
-big as themselves and won’t generally stick around to keep fighting if they can
-make a clean getaway with a victim. However, they’re extremely stubborn and
-obsessive - once a peryton chooses someone as their prey, they will pursue and
-hunt that victim until they manage to kill it or carry it away, heedless of the
-danger and ignoring easier prey.&lt;/p&gt;
-
-&lt;p&gt;Peryton nests usually have an area for “storing” its captured victims, who have
-a hard time leaving because the surrounding terrain isn’t easy for a non-flier
-to traverse. These areas tend to be full of treasure in the form of former
-victims’ belongings, and some captives can end up finding a way to escape by
-using these things.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Perytons are Natural Beasts. Their signature traits are &lt;strong&gt;Peryton’s Prey&lt;/strong&gt;,
-which allows them to designate a creature they can see at the start of their
-turn as their prey, and &lt;strong&gt;Unhindered&lt;/strong&gt;, which allows it to pull any creature it
-has grabbed along with it when moving.&lt;/p&gt;
-
-&lt;p&gt;A peryton’s choice of prey lasts a turn - they must make the choice again at the
-start of each of their turns. It’s totally possible to keep choosing the same
-creature, and most perytons will do that, but if the PCs contrive to make that
-creature too hard to reach, they can and will make a different choice. This has
-no inherent effects, but several of the creature’s powers work best on its
-chosen prey.&lt;/p&gt;
-
-&lt;h3 id=&quot;peryton&quot;&gt;Peryton&lt;/h3&gt;
-
-&lt;p&gt;The basic model is Medium in size, and is a Level 4 Skirmisher with 54 HP. Its
-ground speed is a laughable 2, but its flight speed is 8. The peryton’s basic
-attack is an &lt;strong&gt;Antler Bash&lt;/strong&gt; that knocks prone on a hit and deals extra damage
-to the peryton’s chosen prey. It can use it to make &lt;strong&gt;Flyby Attacks&lt;/strong&gt;, flying
-its speed, attacking a target along the path, and not provoking opportunity
-attacks when it moves away.&lt;/p&gt;
-
-&lt;p&gt;Its other special attack is &lt;strong&gt;Claw Snatch&lt;/strong&gt;, which can only target the peryton’s
-chosen prey, which must be Medium or smaller. The creature can fly half its
-speed before and after the attack. A hit deals damage and grabs the victim
-(escape DC 14). The grab automatically ends at the end of the peryton’s next
-turn, but that’s enough time for the beast to gain plenty of altitude or to fly
-over a convenient cliff drop. This recharges when the peryton is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Finally, the creature can use an encounter ability named &lt;strong&gt;Feast&lt;/strong&gt; against a
-dying humanoid to automatically kill it and heal 15 HP. I imagine this involves
-eating the target’s heart. Never let these things take you to negative HP!&lt;/p&gt;
-
-&lt;h3 id=&quot;peryton-elder&quot;&gt;Peryton Elder&lt;/h3&gt;
-
-&lt;p&gt;A larger, older, and stronger specimen, of the sort who ends up generating
-stories and legends about itself. It’s a Level 6 Elite Soldier with 144 HP.&lt;/p&gt;
-
-&lt;p&gt;The elder has upgraded versions of Claw Snatch and Feast. The first has a grab
-that &lt;em&gt;doesn’t&lt;/em&gt; end after a turn, allowing the monster to carry its victim clear
-out of the fight if they’re unlucky in their DC 15 escape rolls. The second
-heals 20 HP instead of 15. It also has Antler Bash, but that’s more or less the
-same.&lt;/p&gt;
-
-&lt;p&gt;The elder also has a couple of new powers to better perform its soldierly
-duties. &lt;strong&gt;Cursed Bite&lt;/strong&gt; is a minor action that deals physical damage and
-inflicts another 5 points if the target attacks a creature other than the elder
-on its next turn. Once per encounter, it can use &lt;strong&gt;Stealth Dive&lt;/strong&gt; to charge its
-chosen prey if that prey makes an attack that doesn’t include the elder as a
-target.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Despite their “natural” origin, these monsters are creepy and evocative. They’re
-much more threatening than their level indicates too, being one of the few
-creatures who will explicitly target and kill PCs who are down and out. Being
-carried off by an elder peryton sucks, too, but it could lead to a fun scene a
-captured PCs trying to improvise an escape route using the items found on the
-nest.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/14/peryton.html</guid>
         
         <category>dnd4</category>
         
