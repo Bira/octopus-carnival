@@ -48,6 +48,36 @@ As more monsters are added, they will be linked below.
 - H
   - [Harken's Heart][19]
   - [Hounds of Ill Omen][20]
+  - [Hunter Spiders][21]
+  - [Hurly Burly Brothers][22]
+
+- I
+  - [Iron Circle][23]
+
+- M
+  - [Mages of Saruun][24]
+  - [Mooncalf][25]
+
+- P
+  - [Penanggalan][26]
+  - [Peryton][27]
+  - [Phantom Brigade][28]
+
+- R
+  - [Ragewind][29]
+  - [Raven Roost Bandits][30]
+
+- S
+  - [Scroll Mummy][32]
+  - [Shadowmire][33]
+
+- T
+  - [Tigerclaw Barbarians][34]
+  - [Treants of the Vale][35]
+  - [Twig Blight][36]
+
+- V
+  - [Vampiric Mist][37]
 
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
@@ -69,4 +99,21 @@ As more monsters are added, they will be linked below.
 [17]: {{ "/2023/01/06/gravelstoke-family.html" | relative_url }}
 [18]: {{ "/2023/01/13/gray-company.html" | relative_url }}
 [19]: {{ "/2023/01/16/harkens-heart.html" | relative_url }}
-[20]: {{ "/2023/01/23/hounds-of-ill-omen.html | relative_url }}
+[20]: {{ "/2023/01/23/hounds-of-ill-omen.html" | relative_url }}
+[21]: {{ "/2023/01/25/hunter-spiders.html" | relative_url }}
+[22]: {{ "/2023/01/27/hurly-burly-brothers.html" | relative_url }}
+[23]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
+[24]: {{ "/2023/02/03/mages-of-saruun.html" | relative_url }}
+[25]: {{ "/2023/02/06/mooncalf.html" | relative_url }}
+[26]: {{ "/2023/02/08/penanggalan.html" | relative_url }}
+[27]: {{ "/2023/02/14/peryton.html" | relative_url }}
+[28]: {{ "/2023/02/23/phantom-brigade.html" | relative_url }}
+[29]: {{ "/2023/03/01/ragewind.html" | relative_url }}
+[30]: {{ "/2023/03/10/raven-roost-bandits.html" | relative_url }}
+[31]: {{ "/2023/03/12/river-rats.html" | relative_url }}
+[32]: {{ "/2023/03/18/scroll-mummy.html" | relative_url }}
+[33]: {{ "/2023/03/21/shadowmire.html" | relative_url }}
+[34]: {{ "/2023/03/25/tigerclaw-barbarians.html" | relative_url }}
+[35]: {{ "/2023/03/31/treants.html" | relative_url }}
+[36]: {{ "/2023/04/02/twig-blight.html" | relative_url }}
+[37]: {{ "/2023/04/04/vampiric-mist.html" | relative_url }}
