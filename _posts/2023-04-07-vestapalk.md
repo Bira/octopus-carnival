@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-vestapalk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 The fourth and final dragon described in this book.
 
 ## The Lore
@@ -107,3 +118,5 @@ I would suggest either making them separate encounters at different times in the
 PC's career, or increasing Tiktag's level. Note that Vestapalk would actually be
 kind of reluctant to use Share the Mad Visions if the little kobold is around,
 since that ability is not selective.
+
+[1]: {{ "/projects/tnv/" | relative_url }}

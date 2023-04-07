@@ -8,7 +8,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-tnv-twig-blight.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-tnv-vampiric-mist.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2011 Wizards of the Coast.
   </figcaption>
