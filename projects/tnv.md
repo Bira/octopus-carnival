@@ -80,6 +80,9 @@ As more monsters are added, they will be linked below.
   - [Vampiric Mist][37]
   - [Vestapalk][38]
 
+- W
+  - [Wandering Tower][39]
+
 
 [1]: {{ "/2022/11/25/wir-tnv-intro.html" | relative_url }}
 [2]: {{ "/2022/11/27/abyssal-plague-demon.html" | relative_url }}
@@ -118,4 +121,5 @@ As more monsters are added, they will be linked below.
 [35]: {{ "/2023/03/31/treants.html" | relative_url }}
 [36]: {{ "/2023/04/02/twig-blight.html" | relative_url }}
 [37]: {{ "/2023/04/04/vampiric-mist.html" | relative_url }}
-[39]: {{ "/2023/04/07/vestapalk.html" | relative_url }}
+[38]: {{ "/2023/04/07/vestapalk.html" | relative_url }}
+[39]: {{ "/2023/04/09/wandering-tower.html" | relative_url }}

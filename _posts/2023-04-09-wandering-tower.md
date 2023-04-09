@@ -6,10 +6,22 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the others.
+
 I've been wanting to write this entry ever since I started doing the Let's Read
-of the first Monster Manual and Monster Vault, more than four years ago.
+of the first Monster Manual and Monster Vault, more than four years ago. It's my
+favorite entry in the entire book.
 
 ## The Lore
+
+{::nomarkdown}
+<figure class="right">
+  <img src="{{ "/assets/wir-tnv-wandering-tower.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 At the dawn of Nerath, a number of knights went a-questing for the fabled
 Sunspire, a tower sacred to Pelor that was said to house a beautiful maiden. The
@@ -159,7 +171,9 @@ the core is dazed or first bloodied, the wall is disabled for a turn.
 I love this! It really stretches the mechanics of the game to give you an
 encounter against an actual building who wants to kill you. The most likely
 fight against the Wandering Tower will involve every stat block in this entry:
-the Core itself, on a building interior map with a number of Living Wall
-squares and a mirror mimic servant, with the Blood Ravens ready to attack anyone
-who tries to get out. That's a very chaotic Level 20 Encounter for 5 characters,
-going into the epic levels if your party is smaller.
+the Core itself on a building interior map with a number of Living Wall squares,
+a mirror mimic servant, and the Blood Ravens ready to attack anyone who tries to
+get out. That's a very chaotic Level 20 Encounter for 5 characters, going into
+the epic levels if your party is smaller.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
