@@ -6,9 +6,20 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-witchlight-lizardfolk.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 I'll get this out of the way first: this entry fully buys into all the tired
 racist stereotypes for D&D humanoids. Already in its second sentence, it calls
-them "primitive, trival, cruel" and cannibalistic. I'm going to strip all of
+them "primitive, tribal, cruel" and cannibalistic. I'm going to strip all of
 this out and try to present a less bad version.
 
 ## The Lore
@@ -162,3 +173,5 @@ down for Team Monster's strikers.
 
 There's good mechanical variety here, but I am very unimpressed with the book's
 default portrayal of lizardfolk. This is a big let-down after the Wandering Tower.
+
+[1]: {{ "/projects/tnv/" | relative_url }}
