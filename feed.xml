@@ -6,9 +6,189 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Apr 2023 23:40:25 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Apr 2023 23:40:25 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Apr 2023 14:41:14 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Apr 2023 14:41:14 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Witchlight Lizardfolk</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-witchlight-lizardfolk.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;I’ll get this out of the way first: this entry fully buys into all the tired
+racist stereotypes for D&amp;amp;D humanoids. Already in its second sentence, it calls
+them “primitive, tribal, cruel” and cannibalistic. I’m going to strip all of
+this out and try to present a less bad version.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;There are several lizardfolk tribes living in the Witchlight Fens. A good number
+of them are under the rule of the dragon Shadowmire, but not all. All of them
+are territorial and tend to distrust outsiders, as mentioned in the Monster
+Manual 1 version of their writeups.&lt;/p&gt;
+
+&lt;p&gt;The Witchlight Fens got this name because the local fauna includes several
+different times of “witchlights”, mundane or magical creatures that are capable
+of producing spheres of glowing light visible in the distance. One species,
+known as “fastlights”, usually tries to flee from living creatures, but the
+lizardfolk of the Fens have learned to trap and tame them.&lt;/p&gt;
+
+&lt;p&gt;The three largest tribes in the area are the &lt;strong&gt;Brackmarshes&lt;/strong&gt;, who
+enthusiastically swore loyalty to Shadowmire and as a result have been able to
+conquer much of the northern and western portions of the Fens, driving their
+rivals out; the &lt;strong&gt;Mistkillers&lt;/strong&gt; who live in the eastern sector and feud with the
+Daggerburg goblins, only occasionally obeying the dragon; and the
+&lt;strong&gt;Crushwater&lt;/strong&gt;, who live in the fens’ central region and fiercely resist
+draconic dominance.&lt;/p&gt;
+
+&lt;p&gt;None of them are likely to receive PCs who don’t belong to the same tribe with
+open arms, but I think it should at least be possible to negotiate with
+them. The Brackmarshes or other tribes you add that are more directly controlled
+by Shadowmire are even less likely to be friendly to people who don’t also serve
+the dragon, and will probably make a good portion of his ground troops.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All of the tribes mentioned here have a mix of all three standard lizardfolk
+ethnicities, and can contain a mix of the standard stat blocks from the Monster
+Vault or other sources. We also get a new batch of stats that apply to them
+specifically and can be used elsewhere.&lt;/p&gt;
+
+&lt;p&gt;As usual, the lizardfolk here have a speed of 6 and Swamp Walk, and have no
+special senses or resistances.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-mire-scout&quot;&gt;Lizardfolk Mire Scout&lt;/h3&gt;
+
+&lt;p&gt;A quick but fragile scout with a pet fastlight. It’s a level 3 Minion
+Skirmisher. It fights in melee with &lt;strong&gt;claws&lt;/strong&gt; that let it shift 2 squares as an
+effect, but prefers to keep away and harass enemies with &lt;strong&gt;Fastlight Shots&lt;/strong&gt;
+that do radiant damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-bog-walker&quot;&gt;Lizardfolk Bog Walker&lt;/h3&gt;
+
+&lt;p&gt;A beefier warrior who’s more at home than usual in the water. This is a Level 3
+Soldier with 44 HP and a swim speed of 4 in addition to its normal movement
+described above. The bog walker can make basic &lt;strong&gt;claw&lt;/strong&gt; attacks, but it prefers
+to grab its does and drown them with &lt;strong&gt;Drag Down&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This can only be done if the bog walker is in water at least 1 square deep, and
+doesn’t already have a grabbed victim. It’s a melee attack vs. Reflex, and on a
+hit it damages and grabs the target (escape DC 13). Until the grab ends, the
+target must make a DC 13 Endurance check at the start of their turns, and take
+10 damage if that check fails. Even on a miss with the initial attack, the
+target is still immobilized for a turn.&lt;/p&gt;
+
+&lt;p&gt;10 damage per turn is a lot for the early Heroic tier. PCs are at a real risk of
+drowning if they have a run of bad luck on their rolls and don’t get help.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-fen-spy&quot;&gt;Lizardfolk Fen Spy&lt;/h3&gt;
+
+&lt;p&gt;This Level 4 Lurker is also proficient in the use of fastlights as a weapon.  It
+can use its &lt;strong&gt;Witchlight Mists&lt;/strong&gt; ability to become invisible as an at-will
+standard action, and from there it can use a ranged &lt;strong&gt;Fastlight Strike&lt;/strong&gt; to deal
+heavy radiant damage, inflict ongoing 5 radiant damage, and blind (save ends
+both). If it can’t become invisible again due to PC pressure, it will use basic
+attacks with its &lt;strong&gt;thorn dagger&lt;/strong&gt;, which deal poison damage and inflict a -2
+penalty to AC and Reflex.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-shocker&quot;&gt;Lizardfolk Shocker&lt;/h3&gt;
+
+&lt;p&gt;A spellcaster specializing in lightning magic, it’s Level 5 Artillery with 50
+HP. The shocker wields a &lt;strong&gt;Greatclub&lt;/strong&gt; in melee, and slings lightning spells at
+range. There’s the single-target at will &lt;strong&gt;Witch Lightning&lt;/strong&gt;, and there’s the
+encounter &lt;strong&gt;Ball of Lightning&lt;/strong&gt;, which is basically a fireball with a different
+element.&lt;/p&gt;
+
+&lt;p&gt;When someone hits then with a ranged or area attack, they can react with a
+&lt;strong&gt;sudden jolt&lt;/strong&gt; that deals automatic lightning damage to the attacker, which
+means you want to close on them fast instead of trading shots from afar.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-dreadtail&quot;&gt;Lizardfolk Dreadtail&lt;/h3&gt;
+
+&lt;p&gt;A warrior who believes you shouldn’t skip tail day at the gym. Dreadtails are
+Level 5 Soldiers with 52 HP. They fight with &lt;strong&gt;spears&lt;/strong&gt; that damage and mark for
+a turn, but they can also use Reach 2 &lt;strong&gt;tail slaps&lt;/strong&gt; that do less damage but
+target Reflex and knock prone on a hit. Their &lt;strong&gt;Slap Down&lt;/strong&gt; maneuver (recharge
+5+) allows them to use both in a single action. If someone marks the dreadtail,
+its &lt;strong&gt;Spirit Interference&lt;/strong&gt; reaction marks the offender right back.&lt;/p&gt;
+
+&lt;p&gt;Dreadtails want to mark dangerous PCs, and then keep them prone with repeated
+tail slaps. There’s no special ability to punish a PC who ignores the mark, but
+it’s hard to fight anyone while prone.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-dreadnought&quot;&gt;Lizardfolk Dreadnought&lt;/h3&gt;
+
+&lt;p&gt;A chieftain or lieutenant whose Large size ensures it’s a terrifying sight in
+battle. It’s a Level 7 Elite Brute with 190 HP and the Leader tag. The
+&lt;strong&gt;Dreadnought’s Wrath&lt;/strong&gt; is a palpable thing that acts as an aura (2) which
+gives allies inside a +2 bonus to hit and damage.&lt;/p&gt;
+
+&lt;p&gt;Like most brutes, dreadnoughts want to be right in the thick of the melee. Their
+skills make them excellent at disrupting the enemy front line and opening the
+way to the squishies at the back. Their basic &lt;strong&gt;Greatclub&lt;/strong&gt; attacks do heavy
+damage, push the target 2 squares, and let the dreadnought shift 2 squares to
+chase the enemy. As minor actions, they can distribute &lt;strong&gt;Low Blows&lt;/strong&gt; that target
+Fortitude, do the same damage, and knock prone.&lt;/p&gt;
+
+&lt;p&gt;Once the way is opened, they can the &lt;strong&gt;You Fight Now!&lt;/strong&gt; minor action to let an
+ally within 5 squares make a free charge attack. This ally and any others who
+make it through will then stick close to their boss to enjoy that attack bonus.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-chief&quot;&gt;Lizardfolk Chief&lt;/h3&gt;
+
+&lt;p&gt;A more sophisticated leader with a simpler stat block, the chief is a Level 7
+Soldier with 156 HP. It fights with a &lt;strong&gt;Battleaxe&lt;/strong&gt; whose blows slow for a turn
+on a hit, and can make &lt;strong&gt;Double Attacks&lt;/strong&gt; with it. If an enemy adjacent to the
+chief shifts, it can attack them with a &lt;strong&gt;Tail Lash&lt;/strong&gt; that does light physical
+damage and knocks prone. Once per encounter it can use &lt;strong&gt;Fighting Spirit&lt;/strong&gt; to
+allow every ally in a close burst 2 to make a free basic attack.&lt;/p&gt;
+
+&lt;p&gt;The chief works well as the core of the enemy front-line, using its slow and
+trip powers to keep PCs from reaching its squishier buddies.&lt;/p&gt;
+
+&lt;h3 id=&quot;lizardfolk-marsh-mystic&quot;&gt;Lizardfolk Marsh Mystic&lt;/h3&gt;
+
+&lt;p&gt;This is a variant of the Bog Mystic from the Monster Vault, of a lower level and
+with some abilities replaced by Witchlight-specific traits. It’s a Level 4
+Controller (Leader) with 53 HP.&lt;/p&gt;
+
+&lt;p&gt;Its first novel trait is &lt;strong&gt;Marsh Mist&lt;/strong&gt;, a very wide aura (10!) that prevents
+allies inside from being surprised and gives them a +5 to Perception and
+Stealth. Its &lt;strong&gt;spear&lt;/strong&gt; can damage and slide targets 2 squares on a hit, and its
+main ranged attack is a &lt;strong&gt;Fastlight Shock&lt;/strong&gt; that deals lightning and radiant
+damage, and immobilizes for a turn. If the target was already immobilized, it’s
+dazed instead. On a miss, it slows for a turn with no damage.&lt;/p&gt;
+
+&lt;p&gt;The mystic can also cast a &lt;strong&gt;Bog Cloud&lt;/strong&gt;, an encounter Area Burst 1 that deals
+poison damage and dazes (save ends) on a hit. On a miss, it deals half damage
+and forces targets to grant combat advantage (save ends).&lt;/p&gt;
+
+&lt;p&gt;These are excellent ambush leaders whose presence will all but guarantee the
+PCs are surprised, and whose riders on their many attacks will keep them locked
+down for Team Monster’s strikers.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impression&quot;&gt;Final Impression&lt;/h2&gt;
+
+&lt;p&gt;There’s good mechanical variety here, but I am very unimpressed with the book’s
+default portrayal of lizardfolk. This is a big let-down after the Wandering Tower.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/12/witchlight-lizardfolk.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/12/witchlight-lizardfolk.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Wandering Tower</title>
@@ -1628,288 +1808,6 @@ the Rats’ criminal activities.&lt;/p&gt;
         <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Raven Roost Bandits</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-raven-roost-bandits.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;This is a new Vale-specific faction.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Raven Roost is an old manor located about 10 miles to the southeast of
-Thunderspire. It used to be the home of a local lord back in Nerathi times, and
-got this name because the lord had a gallows assembled at a nearby hilltop and
-was in the habit of keeping the bodies of executed criminals on display
-there. This attracted a lot of ravens, and gave the property its name.&lt;/p&gt;
-
-&lt;p&gt;The lord and his household are long gone, and today Raven Roost is home to a
-fairly sophisticated bandit gang. Their proximity to the Trade Road allows them
-to regularly attack travelers and traders moving between Fallcrest, Thunderspire
-and Hammerfast. They’re helped in this enterprise by Barton, the cheerful owner
-of the Fiveleague House inn near Hammerfast, who sends them advance warning of
-juicy targets coming from that direction.&lt;/p&gt;
-
-&lt;p&gt;The book also mentions the bandits also attack the King’s Road to the south, but
-that’s pretty far from their home base and requires them to cut through a bit of
-Harken forest to reach it. Harken’s Heart or the Hunter Spiders might have
-something to say about that if they exist in your campaign.&lt;/p&gt;
-
-&lt;p&gt;Banditry was always common along that stretch of road, as the nearby Harken
-Forest seems to offer a nice source of shelter and concealment to the deserters,
-cutthroats and outlaws who tend to make up these gangs. None of them ever lasted
-for very long, though, eventually falling prey to infighting or incurring the
-displeasure of the forest’s inhabitants. This changed when the three shadar-kai,
-disgraced former servants of the Raven Queen, arrived on the scene.&lt;/p&gt;
-
-&lt;p&gt;Of the three, Samminel was a warlord, Erzoun his court witch, and Geriesh his
-chief spy. Erzoun once predicted that Samminel would never advance in prestige
-and station if he remained on his Shadowfell domain, so the trio crossed into
-the world. Their spectacular displays of violence unburdened by compassion
-earned the fear and respect of all the little bands that hid in the Forest, who
-decided to swear loyalty to them and beg for training and leadership. Thus were
-the Raven Roost bandits formed.&lt;/p&gt;
-
-&lt;p&gt;The three leaders don’t actually work together very well, since they have a
-tendency to undermine each other’s authority. They know this, however, and have
-arranged things so that each of them commands a separate force with little
-direct interaction.&lt;/p&gt;
-
-&lt;p&gt;Raven Roost itself is an excellent home base for them. It occupies a little
-hidden valley in the Old Hills that’s supremely defensible and cannot be seen
-from the road. It’s also out of Harken Forest proper, which makes the bandits
-much less vulnerable to attacks by angry druids. They hide in the edges of the
-forest while waiting in ambush, but Raven Roost is where they rest their heads.&lt;/p&gt;
-
-&lt;p&gt;The bandits’ initial attacks were shockingly violent, but they’ve toned it down
-after their reputation began to spread. They frequently spare the lives of their
-victims and accept surrenders, since they know that people fight back harder
-when their lives are at stake. Sometimes their reputation allows them to avoid a
-fight entirely. Eventually, they plan to capitalize on that reputation to move
-from banditry to warlordism, and try to conquer and rule their own stretch of
-the Vale.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get stats for the three shadar-kai leaders, and for the rank-and-file bandits
-they lead. Bandits are usually human, though you could certainly mix things a
-bit and add other ancestries here.&lt;/p&gt;
-
-&lt;p&gt;The three leaders have the Shadar-kai &lt;strong&gt;Shadow Jaunt&lt;/strong&gt; encounter power, which
-lets them teleport 3 squares and become insubstantial for a turn as a move
-action. The others have no common traits.&lt;/p&gt;
-
-&lt;p&gt;As usual, we’ll look at them in ascending order of level, with the leaders at
-the end.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-harrier&quot;&gt;Raven Roost Harrier&lt;/h3&gt;
-
-&lt;p&gt;Trained by Geriesh, harriers are Level 4 Skirmishers with 53 HP. Their &lt;strong&gt;short
-swords&lt;/strong&gt; deal physical damage and prevent the target from making opportunity
-attacks for a turn on a hit. Their &lt;strong&gt;Crossbows&lt;/strong&gt; have no raiders, but are decent
-basic ranged attacks. They can make &lt;strong&gt;Moving Attacks&lt;/strong&gt; that let them move their
-speed, attack with the sword at any point, and move away without provoking
-opportunity attacks from their target.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-cutthroat&quot;&gt;Raven Roost Cutthroat&lt;/h3&gt;
-
-&lt;p&gt;Also trained by Geriesh, cutthroats are Level 5 Lurkers with 49 HP. They fight
-with &lt;strong&gt;daggers&lt;/strong&gt; and &lt;strong&gt;garrotes&lt;/strong&gt;. Garrotes target Reflex and grab the target on
-a hit. The escape DC is a surprising 22! While the grab lasts, the cutthroat has
-superior cover and both it and the victim are immune to forced movement. The
-bandit can use an &lt;strong&gt;Aterial Cut&lt;/strong&gt; on its grabbed victim, an attack that deals
-both immediate and ongoing physical damage (save ends), and ends the grab on a
-hit.&lt;/p&gt;
-
-&lt;p&gt;If the victim escapes the cutthroat’s grab, it can use &lt;strong&gt;Quick Cut&lt;/strong&gt; to make a
-free dagger attack against them.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-grenadier&quot;&gt;Raven Roost Grenadier&lt;/h3&gt;
-
-&lt;p&gt;Trained by Erzoun, grenadiers are Level 5 Controllers with 61 HP. They’re armed
-with a &lt;strong&gt;Shortsword&lt;/strong&gt; and with a large assortment of grenades. They carry 8
-&lt;strong&gt;Fire Bombs&lt;/strong&gt; that deal fire damage in an Area Burst 1 and knock the targets
-prone on a hit. They deal half damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;They also carry a single &lt;strong&gt;Smoke Bomb&lt;/strong&gt; laced with poison, which attacks an Area
-Burst 1 and causes the targets to become dazed and to take ongoing poison damage
-(save ends). This creates a zone that lightly obscures its space until the end
-of the encounter.&lt;/p&gt;
-
-&lt;p&gt;Finally, they carry a bomb that can produce an &lt;strong&gt;Oil Slick&lt;/strong&gt;, which can knock
-everyone in an Area Burst 1 prone and as an effect make them vulnerable to fire
-for a turn.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can also use &lt;strong&gt;Grenadier’s Rush&lt;/strong&gt; to move their speed
-with a minor action.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-sharpshooter&quot;&gt;Raven Roost Sharpshooter&lt;/h3&gt;
-
-&lt;p&gt;Another Erzoun special, sharpshooters are Level 6 Artillery with 55 HP. They
-fight with &lt;strong&gt;short swords&lt;/strong&gt; and &lt;strong&gt;crossbows&lt;/strong&gt;, and as expected of artillery the
-latter are more accurate and damaging.&lt;/p&gt;
-
-&lt;p&gt;Sharpshooters can spend their move action to perform a &lt;strong&gt;Careful Aim&lt;/strong&gt;
-maneuver. This lets them pick an enemy they can see. If they can still see that
-enemy at the start of their next turn, their crossbow attack will attack the
-target’s Reflex instead of their AC, and will deal 5 extra damage. So not only
-will the attack be more accurate than usual, it will also target a lower defense
-(often much lower for heavily armored characters).&lt;/p&gt;
-
-&lt;p&gt;Sharpshooters can also deploy an &lt;strong&gt;Archer’s Decoy&lt;/strong&gt; as a free action, which
-grants them a +2 bonus to AC and Reflex for a turn. This recharges when they’re
-first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Since Careful Aim is a move action, sharpshooters are quite powerful when they
-can remain stationary. You can help them with that by deploying them behind good
-cover.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-outlaw-veteran&quot;&gt;Raven Roost Outlaw Veteran&lt;/h3&gt;
-
-&lt;p&gt;Led by Samminel, veterans are Level 6 Brutes with 86 HP. They fight with
-&lt;strong&gt;bastard swordS&lt;/strong&gt; and can do a fair few things with them.&lt;/p&gt;
-
-&lt;p&gt;Aside from their basic attacks, they can use &lt;strong&gt;Mighty Blows&lt;/strong&gt;, which do the same
-damage, push the target 1 square, and let the veteran shift 1 square to
-follow. Their &lt;strong&gt;Swath of Death&lt;/strong&gt; maneuver lets them attack twice and keeps
-recharging as long as at least one of the attacks misses.&lt;/p&gt;
-
-&lt;p&gt;They can also use a &lt;strong&gt;Forceful Shove&lt;/strong&gt; as a minor action to attack a target’s
-Fortitude and push then 1 square on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;raven-roost-highwayman&quot;&gt;Raven Roost Highwayman&lt;/h3&gt;
-
-&lt;p&gt;Led by Samminel, highwaymen are Level 7 Soldiers with 77 HP. They wield the
-classy bandit’s choice, a &lt;strong&gt;rapier&lt;/strong&gt; and a &lt;strong&gt;hand crossbow&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Their basic rapier attack marks for a turn, and despite carrying 10 bolts for
-the crossbow they have no ranged basic attack! Instead, they have a special
-encounter power named &lt;strong&gt;Bolt to the Gut&lt;/strong&gt;. It’s a ranged attack but does not
-provoke opportunity attacks. It deals heavy physical damage, immobilizes, and
-inflicts ongoing physical damage (save ends). Even on a miss, it immobilizes for
-a turn.&lt;/p&gt;
-
-&lt;p&gt;What do highwaymen do with the other 9 bolts once they use this? They wait for a
-marked enemy to make an attack that doesn’t include them as a target. That lets
-them use &lt;strong&gt;Stand, You Coward&lt;/strong&gt; as a reaction, which lets them immediately
-recharge and use &lt;strong&gt;Bolt to the Gut&lt;/strong&gt; on the offending enemy!&lt;/p&gt;
-
-&lt;h3 id=&quot;geriesh&quot;&gt;Geriesh&lt;/h3&gt;
-
-&lt;p&gt;Geriesh is a Level 6 Elite Skirmisher (Leader) with 136 HP. His sneaky
-leadership takes the form of a &lt;strong&gt;Swiftshadow Master&lt;/strong&gt; aura (5), which gives all
-enemies inside a +4 to Initiative and to Stealth. &lt;strong&gt;Willing Prey&lt;/strong&gt; makes any
-enemy marking him grant combat advantage.&lt;/p&gt;
-
-&lt;p&gt;The spymaster fights with &lt;strong&gt;katars&lt;/strong&gt;, which deal extra damage against targets
-granting him combat advantage. If the attack does more than 20 damage, the
-target falls unconscious (save ends). This is possible if he attacks with combat
-advantage, since his damage is 3d6+7 in that case. That’s about a 40% chance of
-unconsciousness, which of course also happens if he crits because that causes
-max damage. His version of &lt;strong&gt;Double Attack&lt;/strong&gt; allows him to perform two attacks
-and move up to his full speed between them.&lt;/p&gt;
-
-&lt;p&gt;Geriesh replaces the standard Shadow Jaunt power with &lt;strong&gt;Shadow Leap&lt;/strong&gt;, which
-doesn’t grant insubstantial but lets him teleport his full speed of 6. Once per
-encounter, he can also use &lt;strong&gt;Dagger Flick&lt;/strong&gt; as a minor action, which deals
-physical damage, immobilizes, and inflicts ongoing poison damage. Even on a
-miss, this grazes the target and immobilizes them for a turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;erzoun&quot;&gt;Erzoun&lt;/h2&gt;
-
-&lt;p&gt;Erzoun is a Level 7 Elite Controller (Leader) with 152 HP. Her witchy leadership
-manifests as a &lt;strong&gt;Quickshadow Aura&lt;/strong&gt; (5). Any ally who shifts while inside the
-aura can shift 1 extra square. While the bandits under her are fairly martial
-sorts, she’s a proper witch and fights exclusively with magic.&lt;/p&gt;
-
-&lt;p&gt;Erzoun’s basic attack is a &lt;strong&gt;Blackfire Touch&lt;/strong&gt; that does fire and necrotic
-damage on a hit, and slides 1 square as an effect. She can attack at range with
-a spell named &lt;strong&gt;Beshadowed Mind&lt;/strong&gt; that deals necrotic and psychic damage, and
-makes the target unable to see anything further than 2 squares away (save ends).&lt;/p&gt;
-
-&lt;p&gt;She also has a host of limited spells, starting with a fun one. &lt;strong&gt;Witch’s
-Prophecy&lt;/strong&gt; is an attack against Will that does no damage, but has a very
-interesting effect. If Erzoun hits, she can choose an ally within 10
-squares. The target of the spell is weakened when attacking anyone other than
-the chosen ally. This lasts until the end of the encounter, and recharges
-whenever she misses with it! She’s going to use this to set up the worst match
-possible between a PC striker and a beefy ally who can resist their attacks.&lt;/p&gt;
-
-&lt;p&gt;Erzoun can also create a zone of &lt;strong&gt;Deep Shadow&lt;/strong&gt; in an area burst 1. This is
-difficult terrain to enemies inside, and deals 10 damage to those enemies when
-they enter the zone or end their turn in it. It lasts for a turn but can be
-sustained and moved 4 squares with a minor action. It recharges when bloodied,
-so Erzoun might have two of these zones in play at once.&lt;/p&gt;
-
-&lt;p&gt;Erzoun gets the standard Shadow Jaunt power, but she also gets a &lt;strong&gt;Shadow
-Augury&lt;/strong&gt; reaction that triggers when she’s hit in melee while bloodied. It
-recharges Shadow Jaunt and lets her use it immediately!&lt;/p&gt;
-
-&lt;p&gt;Erzoun is hard to pin down and will wreak havoc on the PC’s formations with a
-Deep Shadow zone and a prophecy right at the start. Once bloodied, she stays
-mostly stationary to sustain her two zones, relying on Shadow Augury to avoid
-being surrounded.&lt;/p&gt;
-
-&lt;h3 id=&quot;samminel&quot;&gt;Samminel&lt;/h3&gt;
-
-&lt;p&gt;The overall boss of the Raven Roost bandits is a Level 8 Elite Soldier (Leader)
-with 172 HP. He’s the more direct and martial of the trio, wielding a
-&lt;strong&gt;halberd&lt;/strong&gt; in combat. His leadership instills his underlings with a
-&lt;strong&gt;Deathshadow Fervor&lt;/strong&gt; (aura 5) that lets them daze any target against whom they
-score a critical hit (save ends).&lt;/p&gt;
-
-&lt;p&gt;The halberd marks for a turn, and he can also use it in a &lt;strong&gt;Double Attack&lt;/strong&gt; or
-in a &lt;strong&gt;Sundering Sweep&lt;/strong&gt;, which doesn’t mark but hits a Close Burst 2 and
-inflicts a -2 AC penalty (save ends).&lt;/p&gt;
-
-&lt;p&gt;If a marked enemy tries to ignore Samminel, he can make a basic attack against
-them as an interrupt, scoring a critical on a 17-20. He also gets the standard
-Shadow Jaunt power.&lt;/p&gt;
-
-&lt;p&gt;Samminel is less gimmicky than Erzoun, but is a good enabler for the sort of
-direct henchman he prefers to lead.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;It’s easy to see the word “bandits” and immediately think of the sort of generic
-opponent that tends to grace each edition’s first Monster Manual. Fortunately
-the ones we get here have fairly interesting mechanics that elevate them beyond
-the generic.&lt;/p&gt;
-
-&lt;p&gt;They all work very well together, but the structure described in the Lore
-encourages a story where you face each “sub-gang” in order, defeat its boss, and
-move up the ladder. The likely order is Geriesh, Erzoun, and Samminel. Depending
-on how tightly you couple the bandit stat blocks with the leaders who train
-them, you might need to insert some generics in here to pad out your encounters.&lt;/p&gt;
-
-&lt;p&gt;We don’t get an exact headcount of the Raven Roost bandits. There’s enough to
-give the Hunter Spiders pause and make them avoid “hunting” the same routes,
-which means you can use however many you need for your own story. Unlike the
-drow, these guys can get new recruits from the constant influx of assholes who
-arrive at their territory looking to join.&lt;/p&gt;
-
-&lt;p&gt;A final stand should definitely involve the three leaders at the same time. If
-anything would force them to work together again it’s a bunch of heroes who have
-systematically dismantled the rest of their gang.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/03/10/raven-roost-bandits.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/10/raven-roost-bandits.html</guid>
         
         <category>dnd4</category>
         
