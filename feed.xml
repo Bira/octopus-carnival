@@ -6,9 +6,132 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 12 Apr 2023 14:41:14 +0000</pubDate>
-    <lastBuildDate>Wed, 12 Apr 2023 14:41:14 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Apr 2023 17:27:28 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Apr 2023 17:27:28 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Threats to the Nentir Vale: Wolf Runners</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-wolf-runners.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Copyright 2011 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
+
+&lt;p&gt;The last entry in the book.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Looks like the Raven Roost bandits have some competition! The Wolf Runners are
+another of the bandit gangs who prey on the Trade Road between Fallcrest and
+Hammerfast. They have this name because their leader, Sylish Kreed, has somehow
+gained the loyalty of a pack of grey and dire wolves, and has them aid the gang
+when they attack caravans.&lt;/p&gt;
+
+&lt;p&gt;Kreed presents himself as the dashing rogue type, and tries to be civil and
+good-humored when dealing with his victims. The gang vastly prefers to take its
+victims’ valuables without a fight, and to leave them alive and free to go. This
+both lessens the heat upon them and gives them the opportunity to rob the same
+people again in the future.&lt;/p&gt;
+
+&lt;p&gt;The counter-balance to this, however, is that Kreed is a terribly sore loser. If
+he ends up on the losing end of a battle, he’ll become sullen and obsessed with
+taking revenge on whoever beat him. He doesn’t necessarily want to kill the
+offender, but he won’t rest until he’s re-established his superiority.&lt;/p&gt;
+
+&lt;p&gt;This sort of alpha-asshole behavior and the wolves might have tipped you off to
+the gang’s big secret: Kreed is a werewolf, having caught lycanthropy from a
+bite a few years back. He can transform at will most of the time, but for three
+days on every full moon he loses control, changes into a wolf, and goes off to
+live with his pack until his rational mind returns. Kreed’s condition is not
+public knowledge, though I guess his gang-mates know of it.&lt;/p&gt;
+
+&lt;p&gt;His main lieutenant certainly does: that’s Eveni Redblade, a tiefling whom he
+rescued from the Dark Drake of the Moon Hills some time ago, and who as a result
+is completely loyal to him. Speaking of loyalty, the wolves are also loyal to
+Kreed personally, though they tolerate the gang and vice-versa.&lt;/p&gt;
+
+&lt;p&gt;Wolf Runner ambushes tend to consist of a troop of archers hidden in the woods
+off to both sides of the road, while Kreed and his wolf pack block the path and
+handle the intimidation plus melee fighting that proves necessary.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Other than the unusual nature of their leader and his “understanding” with those
+wolves, the Wolf Runners are a typical bandit gang that uses typical bandit stat
+blocks. The wolves are also typical, using standard stats for grey and dire
+wolves from the Monster Vault.&lt;/p&gt;
+
+&lt;p&gt;In this section, we get stats for Kreed, Eveni, and the Runners’ archers.&lt;/p&gt;
+
+&lt;h3 id=&quot;wolf-runner-swiftarrow&quot;&gt;Wolf Runner Swiftarrow&lt;/h3&gt;
+
+&lt;p&gt;With the wolves acting as melee muscle, many of the Runners focus on archery
+instead. Swiftarrows are Level 5 Artillery with 50 HP. They have decent melee
+and ranged attacks with a &lt;strong&gt;short swords&lt;/strong&gt; and a &lt;strong&gt;longbow&lt;/strong&gt;, and their &lt;strong&gt;Close
+Shot&lt;/strong&gt; maneuver lets them make a free bow attack whenever an enemy moves
+adjacent to them, without provoking attacks of opportunity.&lt;/p&gt;
+
+&lt;h3 id=&quot;eveni-redblade&quot;&gt;Eveni Redblade&lt;/h3&gt;
+
+&lt;p&gt;The tiefling lieutenant is a Level 5 Skirmisher with 60 HP. She’s always &lt;strong&gt;On
+The Move&lt;/strong&gt;, ending any slowing or immobilization effects on her at the start of
+her turns. She also does extra damage against targets granting combat advantage
+to her.&lt;/p&gt;
+
+&lt;p&gt;Eveni fights with a &lt;strong&gt;Longsword&lt;/strong&gt; whose basic strikes let her shift 1 square
+before or after the attack, and she can also use &lt;strong&gt;Dazing Strikes&lt;/strong&gt; (recharge
+6+) that as the name implies damage and daze for a turn. Rounding out her
+arsenal is the default &lt;strong&gt;Infernal Wrath&lt;/strong&gt; power tieflings get, which lets her do
+a bit of automatic fire damage to someone who hits her once per encounter.&lt;/p&gt;
+
+&lt;p&gt;This is a standard mobile combatant package. Eveni works best with plenty of
+people to set up flanks and other advantageous situations for her.&lt;/p&gt;
+
+&lt;h3 id=&quot;sylish-kreed&quot;&gt;Sylish Kreed&lt;/h3&gt;
+
+&lt;p&gt;The (wolf)man of the hour is a Level 6 Elite Skirmisher with 144 HP. He has all
+the werewolf signature traits, starting with &lt;strong&gt;Regeneration&lt;/strong&gt;, which as usual
+shuts down for a turn if he takes damage from silvered weapons.&lt;/p&gt;
+
+&lt;p&gt;He can also &lt;strong&gt;Change Shape&lt;/strong&gt; to assume human, wolf, or hybrid forms. In human or
+hybrid form he can use a &lt;strong&gt;Greatsword&lt;/strong&gt; that provides standard basic attacks. In
+wolf or hybrid form, he can &lt;strong&gt;Claw&lt;/strong&gt; and &lt;strong&gt;Bite&lt;/strong&gt;. The claw does more damage to
+bloodied targets and lets Kreed shift &lt;em&gt;4&lt;/em&gt; squares on a hit. The bite knocks
+targets prone and exposes them to werewolf moon frenzy as described in the
+Monster Vault. The &lt;strong&gt;Bloodmoon Fury&lt;/strong&gt; ability lets him either attack twice with
+the sword or make a claw and a bite attack on the same action.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I like the Wolf Runners a lot more than I like the lizardfolk, that’s for
+sure. I also think it’s interesting that the Wolf Runners have a lot of other
+factions to worry about even if the PCs never fight them directly.&lt;/p&gt;
+
+&lt;p&gt;If they really operate on the Trade Road, they’re in direct competition with the
+Raven Roost gang and/or the Blackfang Gnolls, both of which are a lot more
+murderous than themselves. If we instead move them to King’s Road, they’re going
+to contend with the Iron Circle in Harkenwold and possibly with the Daggerburg
+Goblins.&lt;/p&gt;
+
+&lt;p&gt;All of the Wolf Runners presented here are Unaligned, so you can easily play
+them as rogues with hearts of gold and have them as possible allies against an
+unjust lord or against some of the other factions, Robin Hood-style.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/16/wolf-runners.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/16/wolf-runners.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Threats to the Nentir Vale: Witchlight Lizardfolk</title>
@@ -39,7 +162,7 @@ of producing spheres of glowing light visible in the distance. One species,
 known as “fastlights”, usually tries to flee from living creatures, but the
 lizardfolk of the Fens have learned to trap and tame them.&lt;/p&gt;
 
-&lt;p&gt;The three largest tribes in the area are the &lt;strong&gt;Brackmarshes&lt;/strong&gt;, who
+&lt;p&gt;The three largest tribes in the area are the &lt;strong&gt;Brackmarsh&lt;/strong&gt;, who
 enthusiastically swore loyalty to Shadowmire and as a result have been able to
 conquer much of the northern and western portions of the Fens, driving their
 rivals out; the &lt;strong&gt;Mistkillers&lt;/strong&gt; who live in the eastern sector and feud with the
@@ -1590,224 +1713,6 @@ the grisgol’s spell attacks once.&lt;/p&gt;
         <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/03/18/scroll-mummy.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/18/scroll-mummy.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: River Rats</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-river-rats.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;A very specific group that makes the city of Fallcrest its home.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Before we talk about the River Rats, I figure it’s useful to talk a bit about
-Fallcrest itself. This is information from both the DMG and this book.&lt;/p&gt;
-
-&lt;p&gt;Fallcrest grew around a small fort (Moonstone Keep) originally built to guard a
-portage site around a big waterfall in the Nentir River. The entire rest of the
-river is perfectly navigable, but trade boats arriving at this point need to
-unload their cargo so that it can be hauled up or down the limestone cliffs
-around the waterfall that would eventually give the city its name. The loading
-points are known as the Upper and Lower Quays.&lt;/p&gt;
-
-&lt;p&gt;Fallcrest was a prosperous trade hub for many years, but it was hit hard by the
-Bloodspear invasion. It hasn’t recovered completely even after all these years,
-since the volume of foreign trade coming into the Vale was severely reduced by
-the fall of Nerath.&lt;/p&gt;
-
-&lt;p&gt;The cliffs split Fallcrest into two districts, Hightown and Lowtown. Hightown is
-located at the more defensible top of the cliff. It suffered relatively little
-during the sack of the city and was the first area to be rebuilt and resettled,
-making it the wealthier half of the city in our narrative present.&lt;/p&gt;
-
-&lt;p&gt;Lowtown is the poorer half, located at the foot of the cliff. It was almost
-completely razed back during the invasion, and only began to see new
-construction much later, as the city began growing again. There are still
-significant stretches of it that are abandoned or ruined, which make good
-hideouts for the city’s criminal element.&lt;/p&gt;
-
-&lt;p&gt;That finally brings us to the River Rats, which are a significant faction in
-that criminal element. This gang had a Dickensian start, with a band of orphans
-who got together for protection and were turned to crime by an unscrupulous
-adult. Most of its members are grownups in our narrative present, but they still
-recruit new members by taking in street urchins. These new recruits are provided
-with food, shelter, training, and a sense of camaraderie they have likely never
-experienced before, which makes the River Rats extremely loyal to each other.
-They also have something of a “us against the world” mentality, since the world
-never gave them any of the things the Rats did.&lt;/p&gt;
-
-&lt;p&gt;The gang’s current leader is Kelson, the halfling who owns the Lucky Gnome
-Taphouse and who despite rising from the ranks neatly fills the archetype of the
-exploitative leader. The Taphouse is the cheapest and rowdiest of Fallcrest’s
-taverns, catering to dockworkers and porters. Despite the unsavory reputations
-of the Taphouse and its owner, Kelson has not yet been linked to the activities
-of the River Rats.&lt;/p&gt;
-
-&lt;p&gt;The gang has a wide repertoire, but the most profitable of their activities
-consists of burglarizing the warehouses near the Lower Quays. Kelson chooses
-targets based on the information he overhears in the Taphouse, and his gang is
-very enthusiastic about following through. Merchants who make use of these
-warehouses must carefully weigh the risk of losing their merchandise against the
-abusive monopoly prices charged by the Porter’s Guild to haul the cargo to safer
-storage spaces in the Upper Quays. The Porter’s Guild is &lt;em&gt;not&lt;/em&gt; in collusion with
-the Rats, but the overall picture still adds up to quite a damper on Fallcrest’s
-economy.&lt;/p&gt;
-
-&lt;p&gt;Kelson dreams of expanding the River Rats into a true criminal syndicate with
-chapters on every city in the Vale, but before he focuses on that he wants to
-eliminate all his rivals in Fallcrest. If his plans succeed, Fallcrest could be
-the site of a bloody gang war, likely between the Rats and the Shadow Court plus
-whatever other groups the GM wants to add into the mix.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;As a hostile faction that resides in Fallcrest itself, the River Rats are early
-to mid-Heroic threats. They’re from a variety of “playable” species, and as
-mentioned in he Lore section are mostly Unaligned, since their loyalty to each
-other is their main motivation.&lt;/p&gt;
-
-&lt;p&gt;You can easily switch their races around for more variety through the usual
-tactic of changing and reassigning the relevant stats and abilities.&lt;/p&gt;
-
-&lt;p&gt;The gang’s signature trait is &lt;strong&gt;River Rat Tactics&lt;/strong&gt;, which lets its owner gain
-combat advantage against any enemy who has one of the owner’s allies adjacent to
-them.&lt;/p&gt;
-
-&lt;h3 id=&quot;lowtown-urchin&quot;&gt;Lowtown Urchin&lt;/h3&gt;
-
-&lt;p&gt;These halflings are actually around the age of a typical starting adventurer,
-but they disguise themselves as human children to avoid suspicion as they pick
-pockets and spy on people.&lt;/p&gt;
-
-&lt;p&gt;Our urchin is a Level 1 Skirmisher with 28 HP. As a halfling they have a Speed
-of 6 and a +5 bonus to saves vs. Fear effects. They fight with a &lt;strong&gt;dagger&lt;/strong&gt;, and
-will use the &lt;strong&gt;Cloak of Filth&lt;/strong&gt; that covers them to make themselves harder to
-hit. This is a move action that allows them to shift 3 squares and gain partial
-concealment for a turn. As a halfling, they can use the &lt;strong&gt;Second Chance&lt;/strong&gt; power
-once per encounter to force an enemy who hit them to reroll the attack and use
-the new result.&lt;/p&gt;
-
-&lt;p&gt;When bloodied, the Urchin will resort to the &lt;strong&gt;River Rat’s Gambit&lt;/strong&gt; special
-attack. This encounter power lets them make a basic attack and cause 2d6 bonus
-damage if that attack hits. If it misses, the urchin takes 1d6 damage instead.&lt;/p&gt;
-
-&lt;h3 id=&quot;market-green-grifter&quot;&gt;Market Green Grifter&lt;/h3&gt;
-
-&lt;p&gt;Grifters usually pick pockets or run rigged gambling scams in Fallcrest’s Market
-Green area, but might be called in to do other work. They’re not very good at
-direct confrontations, but they can play dead like no one else. This one’s a
-half-elf.&lt;/p&gt;
-
-&lt;p&gt;The grifter fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; whose basic attack profile is nothing
-special. They’ll make a half-assed attempt at fighting until they first take
-damage, and then they’ll &lt;strong&gt;Play Dead&lt;/strong&gt;. This causes the grifter to fall
-prone. Until the start of the grifter’s next turn, they have a +5 to all
-defenses against close and area attacks, and enemies must spend a minor action
-to roll and pass a DC 20 Insight check to target them with melee or ranged
-attacks (otherwise, the enemy will believe the grifter is dead).&lt;/p&gt;
-
-&lt;p&gt;On their next turn, the grifter can come &lt;strong&gt;Back From the Dead&lt;/strong&gt;, which lets them
-stand up, shift 3 squares, and make 3 shortsword attacks against an enemy. The
-attacks use the basic profile, but also do half-damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;Once the grifter hits 0 HP, they can use &lt;strong&gt;The Jig is Up&lt;/strong&gt; as an interrupt. They
-retain their last hit point and can shift 3 squares, likely as a prelude to
-running away at full speed.&lt;/p&gt;
-
-&lt;h3 id=&quot;lower-quays-guttersnipe&quot;&gt;Lower Quays Guttersnipe&lt;/h3&gt;
-
-&lt;p&gt;Guttersnipes usually act as lookouts and spies, but are not adverse to a spot of
-murder if needed. They’re Level 2 Artillery with 30 HP. This one’s a halfling.&lt;/p&gt;
-
-&lt;p&gt;It’s important to remember that the guttersnipe &lt;em&gt;doesn’t&lt;/em&gt; need to be adjacent to
-an enemy to benefit from River Rat tactics! As long as at least one ally is
-adjacent to that enemy, the guttersnipe can shoot them with combat advantage.&lt;/p&gt;
-
-&lt;p&gt;They also have the &lt;strong&gt;Sniper&lt;/strong&gt; trait, which lets them stay hidden if they miss
-with a ranged attack from hiding.&lt;/p&gt;
-
-&lt;p&gt;Those ranged attacks will be made with &lt;strong&gt;Slings&lt;/strong&gt;. If enemies get too close for
-comfort, the guttersnipe can toss a &lt;strong&gt;Hooked Net&lt;/strong&gt;, which acts as a Close Blast
-2 that restrains and deals 5 ongoing damage to those it hits (save ends). They
-only have one of these, though, and after it’s spent they’ll need to resort to
-weak-sauce &lt;strong&gt;Gut Punches&lt;/strong&gt; to discourage melee attackers.&lt;/p&gt;
-
-&lt;p&gt;They also have the halfling Second Chance power.&lt;/p&gt;
-
-&lt;h3 id=&quot;razorclaw-jack&quot;&gt;Razorclaw Jack&lt;/h3&gt;
-
-&lt;p&gt;Jacks are part of the Rat’s beefier contingent, and specialize in burglary and
-kidnapping. This one’s a Razorclaw shifter, and a Level 3 Skirmisher with 43
-HP. When they’re bloodied, &lt;strong&gt;Razorclaw Shifting&lt;/strong&gt; gives them a +2 bonus to
-Speed, taking it from 6 to 8.&lt;/p&gt;
-
-&lt;p&gt;The jack fights with their &lt;strong&gt;claws&lt;/strong&gt;, which deal extra damage if they have
-combat advantage. They can also use the River Rat’s Gambit technique. If
-conditions are right (recharge 4+) they can use &lt;strong&gt;Skulduggery&lt;/strong&gt; to shift half
-its speed as a move action and gain combat advantage against enemies adjacent to
-them at the end of the movement. This combat advantage lasts until the end of
-the current turn, so the movement must come before an attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;lowtown-kneebreaker&quot;&gt;Lowtown Kneebreaker&lt;/h3&gt;
-
-&lt;p&gt;Kneebreakers are pure muscle, sent to rough people up or kill them when the time
-for subtlety is past. This one’s a human, and a Level 3 Brute with 56 HP.&lt;/p&gt;
-
-&lt;p&gt;They fight with &lt;strong&gt;Clubs&lt;/strong&gt;, can use River Rat’s Gambit, and can do what their
-name says as part of a &lt;strong&gt;Crippling Strike&lt;/strong&gt; (recharge 6+), which deals extra
-damage and slows (save ends). It still does half damage on a miss.&lt;/p&gt;
-
-&lt;h3 id=&quot;kelson&quot;&gt;Kelson&lt;/h3&gt;
-
-&lt;p&gt;The leader of the River Rats has the only stat block in this entry with an Evil
-alignment. Everyone else is Unaligned. I take this to mean that the River Rats
-are motivated primarily by loyalty to each other, but that Kelson is exploiting
-that loyalty for his own profit. He’s a Level 5 Elite Skirmisher with the Leader
-tag and 120 HP.&lt;/p&gt;
-
-&lt;p&gt;Kelson’s skills as a &lt;strong&gt;Gang Leader&lt;/strong&gt; act as an aura (3) that gives allies inside
-a +2 bonus to saves. He fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; and throws poisoned
-&lt;strong&gt;Daggers&lt;/strong&gt; that deal damage and inflict 5 ongoing poison damage on a hit (save
-ends). The &lt;strong&gt;Flickering Blades&lt;/strong&gt; at-will maneuver lets him make a shortsword
-attack, shift 3 squares, and throw a dagger at someone else, all within the same
-standard action.&lt;/p&gt;
-
-&lt;p&gt;He can also use River Rat’s Gambit and Second Chance.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The River Rats are mostly a pretty standard thieves’ guild and are a good tool
-for GMs who want to add a bit of urban adventuring to 4e’s standard
-points-of-light setup. They’re more straightforward and less problematic than
-the Fell Court, and also a bit more morally ambiguous. Most of the River Rats
-are in this business simply to make a living and take care of their found
-family. This means it’s possible for diplomatic PCs to dismantle the gang using
-mostly non-violent means!&lt;/p&gt;
-
-&lt;p&gt;They’d need to befriend its rank-and-file members, make them turn against
-Kelson, and give them the material conditions to leaver their criminal careers
-behind for good. More complex than the usual “kill’em all” approach, but
-potentially much more satisfying. Of course, less scrupulous but still
-diplomatic PCs might end up just replacing Kelson as the boss instead of ending
-the Rats’ criminal activities.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 12 Mar 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/12/river-rats.html</guid>
         
         <category>dnd4</category>
         
