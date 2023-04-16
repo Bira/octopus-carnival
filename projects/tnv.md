@@ -14,7 +14,8 @@ This page collects all posts related to that project.
 - [Introduction][1]: Talks a bit about the history of the book and the setting
   it describes.
 
-As more monsters are added, they will be linked below.
+As more monsters are added, they will be linked below. As of April 16th 2023 the
+project is complete.
 
 - A
   - [Abyssal Plague Demon][2]
