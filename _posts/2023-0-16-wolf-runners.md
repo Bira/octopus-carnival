@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-tnv-wolf-runners.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the others.
+
 The last entry in the book.
 
 ## The Lore
@@ -41,14 +52,14 @@ Kreed personally, though they tolerate the gang and vice-versa.
 
 Wolf Runner ambushes tend to consist of a troop of archers hidden in the woods
 off to both sides of the road, while Kreed and his wolf pack block the path and
-do any melee fighting that proves necessary.
+handle the intimidation plus melee fighting that proves necessary.
 
 ## The Numbers
 
 Other than the unusual nature of their leader and his "understanding" with those
 wolves, the Wolf Runners are a typical bandit gang that uses typical bandit stat
 blocks. The wolves are also typical, using standard stats for grey and dire
-wolves from the MV.
+wolves from the Monster Vault.
 
 In this section, we get stats for Kreed, Eveni, and the Runners' archers.
 
@@ -105,3 +116,5 @@ Goblins.
 All of the Wolf Runners presented here are Unaligned, so you can easily play
 them as rogues with hearts of gold and have them as possible allies against an
 unjust lord or against some of the other factions, Robin Hood-style.
+
+[1]: {{ "/projects/tnv/" | relative_url }}

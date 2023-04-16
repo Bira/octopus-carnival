@@ -35,7 +35,7 @@ of producing spheres of glowing light visible in the distance. One species,
 known as "fastlights", usually tries to flee from living creatures, but the
 lizardfolk of the Fens have learned to trap and tame them.
 
-The three largest tribes in the area are the **Brackmarshes**, who
+The three largest tribes in the area are the **Brackmarsh**, who
 enthusiastically swore loyalty to Shadowmire and as a result have been able to
 conquer much of the northern and western portions of the Fens, driving their
 rivals out; the **Mistkillers** who live in the eastern sector and feud with the
