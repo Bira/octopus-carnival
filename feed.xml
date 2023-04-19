@@ -6,9 +6,108 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Apr 2023 15:38:11 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2023 15:38:11 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2023 18:31:32 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2023 18:31:32 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Fuzzy turns in GURPS Combat</title>
+        <description>&lt;p&gt;As you might know from reading here before, I hang out on the RPG.net forums a
+lot. Whenever a discussion about GURPS starts there, some people often complain
+they feel intimidated or annoyed by the 1-second combat turns.&lt;/p&gt;
+
+&lt;p&gt;Other games tend to have a less granular concept of turn duration and of what
+exactly constitutes an action, so players used to them usually expect to be able
+to do one “complete thing” in each turn without bothering with detailed setup
+steps. For example, a ranged attack with a bow in D&amp;amp;D takes a single action that
+includes aiming, shooting, drawing a new arrow, and nocking it, all of which are
+distinct steps in GURPS.&lt;/p&gt;
+
+&lt;p&gt;I actually like 1-second turns and will be keeping them in my games, but I
+present here a possible way to make them fuzzier for those groups who don’t
+enjoy them as much. This is a fairly fundamental change to the base GURPS
+system, probably lends itself better to games that used simplified combat rules
+instead of things like detailed hex maps and range measures.&lt;/p&gt;
+
+&lt;p&gt;This also helps combat feel a bit more like what you might see in action movies
+or similar media, which tend to slow down things to make them easier to follow.&lt;/p&gt;
+
+&lt;h2 id=&quot;fuzzy-combat-in-gurps&quot;&gt;Fuzzy Combat in GURPS&lt;/h2&gt;
+
+&lt;p&gt;Under this rule, a combat round is no longer exactly 1 second long. Now it takes
+an unspecified amount of time between 5 and 10 seconds long - enough for
+everyone to act once.&lt;/p&gt;
+
+&lt;p&gt;Single-maneuver actions that can be resolved in a 1-second turn under the
+original rules still take 1 turn to resolve here. This includes most melee and
+ranged attacks, movement, and the Aim and Evaluate maneuvers. Advantages such as
+Extra Attack and techniques like Rapid Strike work exactly as written, with the
+same limitations, but read “seconds” as “turns”. The RoF stat retains its value
+for all weapons that have it, but read it as “shots per turn” instead of “shots
+per second”.&lt;/p&gt;
+
+&lt;p&gt;Actions that would take multiple consecutive maneuvers over several turns to
+perform now take 1 turn per 10 seconds or fraction thereof they would originally
+take. Some examples:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Swapping magazines on a modern gun took 3 seconds, so now it takes 1 turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reloading a musket took 40 seconds, so it takes 4 turns now.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Any spell that would require less than 10 seconds to cast can be cast in a
+single turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Searching through your pack for an item took 2d seconds. As the average of
+that roll is less than 10, it only requires a turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Picking a lock takes a minute, which means 6 turns. Accepting a -5 penalty to
+do it in 30 seconds means it takes 3 turns. This makes it possible to do
+during a fight.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Fast-Draw skill now encompasses a series of actions taken to speed up a
+given process. It can reduce the time an appropriate action takes by 1 turn, to
+a minimum of 0. So you can still use it to draw a weapon and attack on the same
+turn, or to reload a pistol and keep firing on the same turn. That musket is
+still going to take 3 turns before it can fire again. You might want to make it
+Average instead of Easy since a single roll covers a larger set of actions.&lt;/p&gt;
+
+&lt;p&gt;These changes make characters such as archers and wizards more powerful in
+combat, since the number of things they can do over a given amount of turns has
+increased, while melee-focused character can still take more or less the same
+number of actions. Note that I have &lt;em&gt;not&lt;/em&gt; tested how these changes interact
+with the magic system, so I can’t measure how much of an impact it’s going to
+have on spellcasters.&lt;/p&gt;
+
+&lt;h2 id=&quot;things-we-avoided&quot;&gt;Things we Avoided&lt;/h2&gt;
+
+&lt;p&gt;Note that we didn’t attempt to increase the effective number of actions by the
+same multiplier as the turn duration. If a character could attack every second
+under the standard rules, they don’t get to make 5-10 attacks in a single turn
+here. Aiming or Evaluating for multiple seconds gave you extra bonuses, but you
+don’t get them automatically here - you must perform those maneuvers for the
+same number of turns. Our goal is to remove multi-step complex procedures, not
+to keep counting seconds.&lt;/p&gt;
+
+&lt;p&gt;Yes, this is more abstract and perhaps less realistic, and that is the point. If
+you want to keep tracking events second-by-second, stick with the standard
+rules.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/19/gurps-fuzzy-turns.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/19/gurps-fuzzy-turns.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>I'm done with Threats to the Nentir Vale! Now what?</title>
@@ -1552,114 +1651,6 @@ apart from other Tigerclaw and directed their enmity at all of them.&lt;/p&gt;
         <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/03/25/tigerclaw-barbarians.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/25/tigerclaw-barbarians.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Shadowmire</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-shadowmire.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;Here’s our third dragon!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The black dragon Shadowmire has made the Witchlight Fens his home for over two
-hundred years. He’s the more active and aggressive of the Vale’s current
-draconic inhabitants, and I guess also the one most like a typical dragon.&lt;/p&gt;
-
-&lt;p&gt;Shadowmire claims the entire extent of the Witchlight Fens as his dominion,
-but though his personal power is terrifying, his power &lt;em&gt;base&lt;/em&gt; is not quite up to
-the task of controlling all of that territory. The dragon rules many of the
-lizardfolk tribes who live on the area as a terrifying overlord, and while
-they’re not always capable of preventing others from encroaching into the fens,
-Shadowmire uses them to punish any groups foolish enough to do so. He likes to
-brag that the fall of Kalton Manor was his greatest victory, though he was not
-the sole factor involved in that tragedy.&lt;/p&gt;
-
-&lt;p&gt;The dragon’s main goal is to turn his claims into reality, and to grow ever
-wealthier and more powerful in the process. He patrols the Fens to make its
-inhabitants fear him, and can sometimes be seen flying over the Nentir River
-where it passes by the swamp. He can also move more stealthily, even swimming
-silently where the water is deep enough.&lt;/p&gt;
-
-&lt;p&gt;Shadowmire’s lair is under the Cairnwater river, accessible through an
-underwater entrance at the river bed. Its true location is known only to the
-dragon himself, but there’s much speculation about it and the treasures it
-contains. Shadowmire is entirely aware of this and keeps a number of fake lairs
-throughout the fens, which he uses to misdirect his enemies and lure greedy
-adventurers to their doom. The dragon increases his hoard by looting those
-greedy adventurers, and by raiding trade boats that pass through the Nentir
-river.&lt;/p&gt;
-
-&lt;p&gt;Since he’s lived in the Fens for so long, Shadowmire knows practically every one
-of its secrets, and a good deal about the story of the Vale besides. He also
-makes some effort to remain aware of the Vale’s current affairs through his
-network of spies.&lt;/p&gt;
-
-&lt;p&gt;Not every inhabitant of the Fens serves the dragon, and some even try to oppose
-him. I imagine there might be a hag coven or two who have objections to his
-rule, but the group the book calls out as the most persistent torn on
-Shadowmire’s side are the Daggerburg Goblins! They regularly venture into the
-fens and clash with Shadowmire’s lizardfolk servants. I imagine they might be in
-a true pickle if the dragon decides to retaliate personally, but he doesn’t like
-leaving the Fens.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Shadowmire’s stats make me think all three dragons were written by different
-authors, because he’s Huge and a Level 19 Solo Lurker with 712 HP. This makes
-him the most powerful dragon in the book, even stronger than slumbering
-Calastryx. I guess this is balanced by the fact that he has the weakest army, as
-his lizarfolk aren’t very organized and can’t operate very well outside the
-swamp. This limits how far he can expand.&lt;/p&gt;
-
-&lt;p&gt;Despite having a level comparable to that of a “stock” Elder Black Dragon,
-Shadowmire has a slightly less varied repertoire of attacks. His passive traits
-are all work the same, as do his &lt;strong&gt;bite&lt;/strong&gt;, &lt;strong&gt;Breath Weapon&lt;/strong&gt;, and &lt;strong&gt;Bloodied
-Breath&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Bite and Breath Weapon do less damage than the ones from the base elder
-dragon. The difference here is that the Threats writers considered the added
-ongoing acid damage from both the bite and the breath to be part of the damage
-formula, while the Monster Vault writers added them on top of that. Both bite
-and breath do half damage on a miss, too, so a fight against Shadowmire is a
-grueling battle of attrition.&lt;/p&gt;
-
-&lt;p&gt;Shadowmire’s &lt;strong&gt;Claw&lt;/strong&gt; attacks do the same damage as a base elder dragon’s, and
-pull the target 2 squares. His &lt;strong&gt;Tail Sweep&lt;/strong&gt; works the same but does more base
-damage.&lt;/p&gt;
-
-&lt;p&gt;And finally we get to the star of the show, his custom ability: &lt;strong&gt;Swamp
-Simulacrum&lt;/strong&gt;. When used, this makes Shadowmire turn invisible for a turn and
-summons 2 identical duplicates within 10 squares of the original. They last
-until the end of the encounter or until destroyed. The duplicates are
-effectively minions with Shadowmire’s defenses, and explode in a burst of acid
-when destroyed (Close Burst 2, acid damage, half on a miss). This recharges when
-the dragon is first bloodied.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Shadowmire is an interest mechanical variation on an elder black dragon, and his
-lore is workable enough, but I think he’s a bit too high level to fit with that
-lore. I’d probably make him Level 12 or so. He’s more dangerous and intelligent
-than Bitterstrike, but is not seen as a living calamity like Calastryx.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/03/21/shadowmire.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/03/21/shadowmire.html</guid>
         
         <category>dnd4</category>
         
