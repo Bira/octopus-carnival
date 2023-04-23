@@ -40,7 +40,7 @@ same name. It was developed concurrently with the book, something the book
 itself makes a point of advertising in a side box in its introduction. I think
 the book came out a little earlier than the game, because delays are a fact of
 life in video game development, but they're much more integrated than I thought
-at first. The MMO is still active as of this writing, over a decade after
+at first. The MMO is still active as of this writing, over a decade after its
 launch.
 
 Of course, the Neverwinter Campaign Setting is also perfectly capable of
@@ -90,10 +90,10 @@ PC in question the "main character" of that thread.
 
 As for required book, the core set is a given - that can either be the PHB+DMG
 duo or the equivalent Essentials set of Rules Compendium and "Heroes of..."
-books. In both cases the Monster Vault is recommended over the Monster Manual,
-and the Forgotten Realms books (Player's Guide and Campaign Setting) are
-nice-to-haves in order to flesh out the setting and give players a few more
-options.
+books, though it's going to place a bit more emphasis on the latter. In both
+cases the Monster Vault is recommended over the Monster Manual, and the
+Forgotten Realms books (Player's Guide and Campaign Setting) are nice-to-haves
+in order to flesh out the wider setting and give players a few more options.
 
 Over the next few posts, we'll be looking a the book chapter by chapter. Some
 chapters my take up more than one post. This should take a lot less time than
