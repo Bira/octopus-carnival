@@ -6,9 +6,68 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Apr 2023 19:22:44 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Apr 2023 19:22:44 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Apr 2023 09:55:34 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Apr 2023 09:55:34 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Neverwinter: Character Themes Introduction</title>
+        <description>&lt;p&gt;Chapter 2 - Character Options is the one players will be most interested in, and
+the reason the book strongly recommends creating new characters to play a
+Neverwinter campaign. It’s divided into four major sections: Character Themes,
+Racial Backgrounds, New Domains, and the Bladesinger class.&lt;/p&gt;
+
+&lt;p&gt;In this post, we’ll introduce the concept of character themes.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-theme&quot;&gt;What is a Theme?&lt;/h2&gt;
+
+&lt;p&gt;Character Themes are described here as the “third pillar” that defines your
+character alongside race and class. I also describe them as the “thing” you have
+in your Heroic Tier, just like Paragon Paths are the “thing” in Paragon and Epic
+Destinies are the “thing” in Epic. They were first introduced in Dark Sun, and I
+think we also got a few generic ones in Dragon before this point.&lt;/p&gt;
+
+&lt;p&gt;Here, themes are meant to give each character special knowledge and social ties
+that firmly ground them in the Neverwinter campaign. Unlike a character class, a
+theme is a thing that always exists and is acknowledged in the setting. People
+will never really call you “a fighter”, but they will definitely notice if you
+happen to be the lost heir to the throne of Neverwinter!&lt;/p&gt;
+
+&lt;p&gt;Aside from these narrative hooks, a theme also has several mechanical
+widgets. At levels 1, 5 and 10, you gain a &lt;strong&gt;Feature&lt;/strong&gt; specified by your theme,
+which gets added on top of everything you already gain from your class. It gives
+you access to a few optional &lt;strong&gt;utility powers&lt;/strong&gt; which you can take instead of a
+class power at levels 2, 6 and 10. And it also works like the &lt;strong&gt;backgrounds&lt;/strong&gt;
+from the Dungeon Master’s Guide 2: each theme lists a handful of skills, and you
+pick one. If it’s already a class skill you get a +2 bonus to it. If it’s not
+you can make it into a class skill, and become able to choose it during
+character creation.&lt;/p&gt;
+
+&lt;p&gt;These features and powers can act to reinforce a character’s mechanical roles,
+or to broaden it in ways that weren’t possible before. The narrative bits can
+provide excellent reasons for the party to work together beyond the usual “you
+all meet in a tavern”. They’re not exclusive either. Several PCs can pick the
+same theme, and you could theoretically have a party where everyone does
+that. Some of the themes are better for this than others.&lt;/p&gt;
+
+&lt;p&gt;Technically, themes are entirely optional. A heroic-tier character without a
+theme would be just as viable. In practice, I’ve never seen anyone refuse to
+choose a theme once they became widely available. A hypothethical edition that
+refined the concepts of 4e would probably include them right in the PHB.&lt;/p&gt;
+
+&lt;p&gt;The next few posts will be dedicated to looking at the Neverwinter Campaign
+Setting themes in detail, and we’ll start with the most spectacular one.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/04/28/character-options.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/28/character-options.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter! Chapter 01: Jewel of the North</title>
@@ -1278,160 +1337,6 @@ three entrances, but otherwise it’s as good a place to put it as any.&lt;/p&gt
         <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/04/04/vampiric-mist.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/04/vampiric-mist.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Threats to the Nentir Vale: Twig Blight</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-tnv-twig-blight.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/tnv/&quot;&gt;here&lt;/a&gt; to see the others.&lt;/p&gt;
-
-&lt;p&gt;D&amp;amp;D Third Edition made many attempts to create new monsters that would grow
-popular enough to become iconic, and I think these little critters were one of
-their greatest successes even though they weren’t an intentional attempt.&lt;/p&gt;
-
-&lt;p&gt;They first appeared as custom opposition in The Sunless Citadel, the very first
-official module for Third Edition. They had a very specific origin tied to the
-overall story arc of that campaign. That origin is mentioned in version, but we
-also see some lore that talks about them in the Vale.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Twig blights look like large woody shrubs or small trees with interlocking
-branches. They can change shape somewhat to blend in with the surrounding
-vegetation, and they can also uproot and twist themselves into roughly humanoid
-shapes in order to hunt or migrate.&lt;/p&gt;
-
-&lt;p&gt;Blights need fresh blood to reproduce and grow, using their roots to absorb it
-from the soil or directly from corpses. New seedlings sprout from their root
-systems, as many as a dozen at a time. They’re very fragile early on, but mature
-quickly and after a few days are big enough to start ambushing small creatures.&lt;/p&gt;
-
-&lt;p&gt;The first blights originated from the Gulthias Tree, which grew from the stake
-used to slay ancient vampire who went by that name. Some people speculate that
-repeating the process to create a similar tree could create new varieties of
-twig blight, though of course few are unbalanced or evil enough to try.&lt;/p&gt;
-
-&lt;p&gt;Our Vale-specific story is about a lonely pig farmer named Fellis, who was the
-first to discover these creatures in the Vale. A strange new bush appeared
-overnight in his slaughter shed, and soon it began sprouting seedlings. Fellis
-loved the little scamps, giving them names and playing them tunes on his
-flute. His neighbors were very worried about all of this weirdness, but still
-regularly went there to trade for pig meat.&lt;/p&gt;
-
-&lt;p&gt;During that winter, however, severe snow storms tore through the region and made
-regular travel impossible until the thaw. When Fellis’ neighbors managed to get
-to his farm again, they saw that the man, his family, his pigs, and even the cat
-had all been killed. All that was left was a number of pulsating bushes
-sprouting from their corpses. Several nearby villages banded together to burn
-out the infestation, but a few individuals managed to escape into the
-surrounding woods. So now we can add “twig blight infestation” to the list of
-everyday disasters that can fall upon the people of the Vale.&lt;/p&gt;
-
-&lt;p&gt;Twig blights can survive from normal soil nutrients and sunlight like mundane
-plants, but they vastly prefer to have access to a blood supply. Their numbers
-increase rapidly when they can find a big source like a slaughterhouse or
-battlefield, though even a single corpse is enough to let their reproduction
-cycle continue. When their current blood supply runs dry, they’ll uproot
-themselves to look for more. If can’t find a new victim or supply quickly,
-they’ll take root again and wait in ambush.&lt;/p&gt;
-
-&lt;p&gt;Twig blights can even be found in dungeons, ruins, caves, and other places never
-touched by the sun. Without access to light, they become even more bloodthirsty
-than usual.&lt;/p&gt;
-
-&lt;p&gt;Some powerful creatures try to make use of twig blights as unguided boundary
-guardians by seeding them along that boundary. However, the creatures are fickle
-and as likely to follow the wind to nearby settlements as they are to stay in
-place.&lt;/p&gt;
-
-&lt;p&gt;Twig Blights are monsters. They have some intelligence and can even speak Elven,
-but they only use that to set up smarter ambushes. They only see other
-creatures, sapient or not, as food sources, and only interact with them through
-violence. You might be able to keep them contained for a while if you supply
-them with enough blood, like Fellis did, but their reproductive cycle will
-ensure their population quickly outstrips the supply, at which point they’ll
-begin hunting for live prey (which means &lt;em&gt;you&lt;/em&gt;).&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Twig Blights are Small Fey Humanoids with the Plant tag. They have ground and
-climb Speeds of 5 with Forest Walk, and Darkvision. They have Resist Poison 5
-and the non-minions have Vulnerable to Fire 5. Their signature trait is
-&lt;strong&gt;Rooted&lt;/strong&gt;, which reduces forced movement from pulls, pushes, or slides by 3
-squares.&lt;/p&gt;
-
-&lt;p&gt;Like their original 3e incarnation, they’re early Heroic opposition.&lt;/p&gt;
-
-&lt;h3 id=&quot;twig-blight-seedling&quot;&gt;Twig Blight Seedling&lt;/h3&gt;
-
-&lt;p&gt;A seedling who just grew big enough to hunt. It’s a Level 1 Minion
-Skirmisher. Their &lt;strong&gt;claw&lt;/strong&gt; attack lets them shift 2 squares before making the
-roll, deals poison damage, and has a small damage bonus when the target is
-granting them combat advantage.&lt;/p&gt;
-
-&lt;p&gt;Their tactics are simple: surround and kill.&lt;/p&gt;
-
-&lt;h3 id=&quot;twig-blight&quot;&gt;Twig Blight&lt;/h3&gt;
-
-&lt;p&gt;The classic model is a Level 2 Lurker with 28 HP. It can turn &lt;strong&gt;invisible&lt;/strong&gt; for
-a turn with a standard action, and surprise opponents with &lt;strong&gt;Blighted Claw&lt;/strong&gt;
-attacks that do heavy poison damage and weaken (save ends). Even a miss still
-does half damage and weakens for a turn.&lt;/p&gt;
-
-&lt;p&gt;If the blight can’t become invisible, it can still attack with basic &lt;strong&gt;claw&lt;/strong&gt;
-attacks that do a typical amount of poison damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;twig-blight-swampvine&quot;&gt;Twig Blight Swampvine&lt;/h3&gt;
-
-&lt;p&gt;This is a new variant! It could be that classic blights adapted themselves to a
-swampy environment… or it could be that someone out there did prove the
-stake-tree theorem. They’re particularly common in the Witchlight Fens along the
-Nentir River.&lt;/p&gt;
-
-&lt;p&gt;Swampvines are Level 3 Soldiers with 42 HP. They’ll use their minor actions to
-pull targets close using a &lt;strong&gt;Swamp Vine&lt;/strong&gt;, which also grabs them (escape DC
-13). If a grabbed target attacks someone other than the swampvine, they take an
-automatic 5 poison damage. They can also make basic &lt;strong&gt;claw&lt;/strong&gt; attacks that do
-poison damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;twig-blight-swarm&quot;&gt;Twig Blight Swarm&lt;/h3&gt;
-
-&lt;p&gt;A big bunch of classic twig blights that decided to stop being subtle. It’s a
-Large Swarm made up of Small creatures, and a Level 5 Brute with 74 HP. It’s
-Swarm Attack aura deals 3 damage to those inside, and while it looses its
-specific vulnerability to fire it’s still vulnerable to close and area attacks
-like any other swarm.&lt;/p&gt;
-
-&lt;p&gt;Its version of &lt;strong&gt;Rooted&lt;/strong&gt; makes it completely immune to being pushed, pulled, or
-slid, and its &lt;strong&gt;Swarm of Claws&lt;/strong&gt; basic attack deals poison damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m sure there are lots of people who will be happy to have official 4e stats
-for Twig Blights. Their explicitly unnatural origin and their monstrous
-disposition tends to make them better “guilt-free” low-level opponents than your
-usual selection of humanoids.&lt;/p&gt;
-
-&lt;p&gt;This incarnation of them is also quite tricky for low-level PCs to handle, since
-a lot of their early powers rely on forced movement for their more interesting
-effects.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/04/02/twig-blight.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/02/twig-blight.html</guid>
         
         <category>dnd4</category>
         
