@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-noble.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Now that Neverwinter is on the way to being restored, Lord Dagult Neverember of
 Waterdeep has arrived to take control. He claims to be a distant relation of the
 old rulers of Neverwinter, and has declared himself Lord Protector of the city
@@ -20,13 +29,14 @@ Neverwinter.
 You are the child of a noblewoman who escaped the city as it was being
 destroyed, shortly before you were born. She would succumb to her wounds and her
 grief shortly after having you, and you would be adopted by the Thann noble
-house in Waterdeep. They tell you about your true heritage shortly after Dagult
-takes over Neverwinter, and by the time the campaign starts you have decided to
-seek your birthright there.
+house in Waterdeep. You were given a proper noble education and consumed a
+steady diet of heroic poems and epics. They told you about your true heritage
+shortly after Dagult took over Neverwinter, and by the time the campaign starts
+you have decided to seek your birthright there.
 
 This is a lofty goal, and a difficult one: you need strong allies, and the sort
-of conclusive evidence that can only be found in the ruins of the city. It's up
-to you whether the other PCs know of your heritage or not.
+of conclusive evidence for your claim that can only be found in the ruins of the
+city. It's up to you whether the other PCs know of your heritage or not.
 
 Neverwinter Nobles must be at least _part_ human, because the historical lords
 of the city were human. The powers suit melee defenders and give them a leaderly
