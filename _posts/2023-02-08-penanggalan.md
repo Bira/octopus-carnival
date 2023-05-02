@@ -1,5 +1,6 @@
 ---
-layout: "Let's Read Threats to the Nentir Vale: Penanggalan"
+layout: post
+title: "Let's Read Threats to the Nentir Vale: Penanggalan"
 tags:
     - dnd4
     - lets-read

@@ -6,6 +6,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-oghmas-faithful.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Oghma is the Forgotten Realms god of knowledge and thought, occupying the
 roughly the same position as Ioun does in the default 4e setting. This
 particular PC is one of his worshipers, and for a while now they've been
@@ -22,7 +31,7 @@ reconstruction immensely, and of course bring the worship of Oghma back to the
 region in a big way.
 
 This is about as lofty a goal as that of the Noble, though it's much less
-concerned with mundane politics. The Faithful is still going to need allies, and
+concerned with secular politics. The Faithful is still going to need allies, and
 so has a ready-made reason to work together with any other PCs interested in
 restoring the city.
 
@@ -56,7 +65,8 @@ utility powers.
 
 **Learned Response** is a level 2 daily power that lets the PC use the result of
 an Insight check as their initiative for that combat. Even to me this feels a
-little too narrow in scope.
+little too narrow in scope, but it does mean the low-Dex cleric will act much
+earlier once per day.
 
 **Bad Idea** is a Level 6 encounter power which can be used as an interrupt when
 an adjacent creature attacks the PC. The PC slides the attacker 2 squares to
@@ -75,9 +85,18 @@ This feels less spectacular to me than the Neverwinter Noble theme, as I'm not
 very enthusiastic about the FR pantheon. Mechanics-wise, it's mostly about
 improving your skill checks, which can be awesome in the sort of campaign
 suggested by this book where you can have plenty of non-combat investigative and
-intrigue scenarios. It's not going to do much for your combat effectiveness,
-though.
+intrigue scenarios. It's probably not going to do much for your combat
+effectiveness, though.
 
 Multiple PCs with this background are very easy to accommodate in the same
 party, as they would all share a common cause and would have every reason to
 work together.
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-blues-brothers.png" | absolute_url }}"/>
+  <figcaption>
+    See? It's quite easy.
+  </figcaption>
+</figure>
+{:/nomarkdown}
