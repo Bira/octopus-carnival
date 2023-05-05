@@ -4,7 +4,17 @@ title: "Let's Read Neverwinter: Harper Agent"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-harper.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 From what I remember, the Harpers used to be a "good conspiracy" back the "old
 days" of the Forgotten Realms. A secret society dedicated to doing good,
@@ -24,12 +34,12 @@ Cymril. Cymril was not only a fully-fledged Harper Agent but also the leader of
 the Sons of Alagondar. The Sons are a group of rebels who opposes Dagult
 Neverember, and who fight for an independent Neverwinter.
 
-The PC gets included in nigh-time recon mission led by Cymril herself, and their
-group gets ambushed by a force of Neverember's mercs. In panic, the PC hides,
-and then gets to witness as the rebels are massacred. The thing is, Cymril
-herself turned coat as soon as the fight started, and began killing her own
-underlings! In the end, the hidden PC is the only survivor on the rebel side:
-Cymril gets taken out by one of her lieutenants, who in turn dies to the
+The PC gets included in night-time recon mission led by Cymril herself, and
+their group gets ambushed by a force of Neverember's mercs. In panic, the PC
+hides, and then gets to witness as the rebels are massacred. The thing is,
+Cymril herself turned coat as soon as the fight started, and began killing her
+own underlings! In the end, the hidden PC is the only survivor on the rebel
+side: Cymril gets taken out by one of her lieutenants, who in turn dies to the
 mercenaries. They leave the rebels' bodies on the street as a warning. Our PC as
 the foresight to steal Cymril's Harper pin before absconding.
 
@@ -91,7 +101,7 @@ and more mobile.
 
 A criticism I'd make is that this one is a lot less generic than the other
 themes we saw so far. With a background like that, it's a bit hard to make the
-PC anything other than a Harper in the Neverwinter region of the Forgotten
+PC anything other than a rogue Harper in the Neverwinter region of the Forgotten
 Realms. It's also almost impossible to have more than one Harper Agent in a
 party unless you change that very detailed background and come up with another
 reason why they can't contact out-of-town Harpers for support.
