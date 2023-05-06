@@ -22,7 +22,8 @@ Feywild.
 
 Their new home was anything but safe, though, as a lot of the same beings who
 had driven the original elves away from the Feywild at the dawn of time were
-still there and they didn't like the arrival of these invaders one bit.
+still there and they didn't like the arrival of these invaders one bit. After a
+period of strife, though, the elves managed to re-establish their nation there.
 
 Iliyanbruen still exists in the modern day, its borders a ways away from the
 place where Shandarar used to be. With the coming of the Spellplague, the world
@@ -33,7 +34,8 @@ world.
 
 As a side note, I don't know if the people of Iliyanbruen became eladrin after
 millennia of living in the Feywild or if they were already a type of elf that
-got recast as eladrin when the editions changed.
+got recast as eladrin when the editions changed. We'll be looking into some of
+those later.
 
 Anyway, upon arriving at the world, the eladrin of Iliyanbruen were horrified to
 learn the old ruins of their empire were not only in a state of disrepair but
@@ -55,6 +57,11 @@ ruins and find the thieves. They belong to the moderate faction, and as the
 campaign starts they're getting desperate for results because the firebrands
 back home are about to win the debate. They need concrete results, and fast, if
 the world is to avoid an eladrin invasion.
+
+Even worse, the main obstacle to their investigation isn't the ludicrously large
+time scale. No, it seems there's someone out there actively trying to prevent
+eladrin investigators from finding anything out, usually by murdering them. It's
+dangerous to go alone.
 
 This theme is open to eladrin PCs of any class. Not all inhabitants of modern
 Iliyanbruen are eladrin, but all of the features and powers here are aimed at

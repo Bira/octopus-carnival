@@ -6,16 +6,17 @@ tags:
     - lets-read
 ---
 
-The Uthgardt are the barbarians of this Frozen North. They're one of the many
-people descended from the citizens of the human empire of Netheril, which
-scattered in a lot of different directions when that empire fell overnight. The
-ancestors of the Uthgardt stayed in the region when one of the Netherese flying
-islands fell here, and learned how to live off the land. They take their name
-from Uthgar, a mythical ancestor who was so badass he ascended to godhood and
-became one of the exarchs of Tempus, the FR god of war. There are many Uthgar
-tribes today, each one named after a different kind of animal they admire and
-try to emulate. All of them venerate Uthgar along with a series of
-tribe-specific primal spirits, and don't pay much attention to other gods.
+The Uthgardt are the barbarians of this Frozen North, more Conan-like than
+Viking-like. They're one of the many people descended from the citizens of the
+human empire of Netheril, which scattered in a lot of different directions when
+that empire fell overnight. The ancestors of the Uthgardt stayed in the region
+when one of the Netherese flying islands fell here, and learned how to live off
+the land. They take their name from Uthgar, a mythical ancestor who was so
+badass he ascended to godhood and became one of the exarchs of Tempus, the FR
+god of war. There are many Uthgar tribes today, each one named after a different
+kind of animal they admire and try to emulate. All of them venerate Uthgar along
+with a series of tribe-specific primal spirits, and don't pay much attention to
+other gods.
 
 A PC with this background belongs to the Thunderbeast tribe, who lives in the
 High Forest way to the east of our regional map. A bit before the campaign

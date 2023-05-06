@@ -4,7 +4,17 @@ title: "Let's Read Neverwinter: Dead Rat Deserter"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-dead-rat-deserter.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Luskan is a coastal city a ways north of Neverwinter. In the games, it was a
 pirate and thief-infested cesspool secretly ruled by a cabal of evil
@@ -45,7 +55,7 @@ power that lets the PC assume the form of a Tiny rat. The same power also lets
 them change back, and whenever they change shape they can also shift 1
 square. In rat form, the PC can't attack but gains a climb speed equal to half
 their ground speed and a +4 to Stealth checks. The PC's equipment melds into the
-rat form, and continues to receive all of its passive benefits. There are a few
+rat form, and continues to provide all of its passive benefits. There are a few
 exceptions: they don't get AC bonuses from shields, can't use active item
 powers, and can't access any containers (like bags or potion vials). On the
 other hand, their equipment can't be removed in any way while it's part of the
@@ -66,9 +76,9 @@ This attack is a little underwhelming, I think. If Strength or Dexterity is your
 main attack stat, it's going to be about on par with a +2 weapon with a +2
 proficiency bonus, which means it's less accurate than the characters's actual
 main weapon if any of those stats are better on it. Ongoing damage on an at-will
-is good, but also maybe not as good as the bonuses and powers of your main
-weapon. If you use anything other than STR or DEX to attack, this power is
-useless.
+is good, but also maybe not as good as the bonuses of a level 10's character
+main weapon and class powers. If you use anything other than STR or DEX to
+attack, this power is useless.
 
 ## Utility Powers
 
