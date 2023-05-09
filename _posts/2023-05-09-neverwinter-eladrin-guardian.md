@@ -7,6 +7,16 @@ tags:
     - neverwinter
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-dead-eladrin-guardian.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 Okay, so back in Olden Times there was an elven empire named Illefarn that
 reached as far as the North. Over the course of history this empire broke up
 into three successor states. The one that covered our current region of interest
