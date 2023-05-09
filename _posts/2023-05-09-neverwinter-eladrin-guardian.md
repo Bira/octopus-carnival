@@ -4,6 +4,7 @@ title: "Let's Read Neverwinter: Iliyanbruen Guardian"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
 
 Okay, so back in Olden Times there was an elven empire named Illefarn that
@@ -109,4 +110,6 @@ political woes, except where they intersect with their quest.
 
 If you want to optimize for the ability to do Teleport Shenanigans, this is the
 theme for you. Little could stop a whole party of them from getting to where
-they want to go.
+they want to go. For other campaigns, it would also be relatively easy to strip
+the standard Iliyanbruen backstory and just say a PC with this theme is a native
+of the Feywild who moved to the world.
