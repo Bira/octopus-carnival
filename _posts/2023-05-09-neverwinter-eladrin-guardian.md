@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-neverwinter-dead-eladrin-guardian.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-neverwinter-eladrin-guardian.png" | absolute_url }}"/>
   <figcaption>
     Copyright 2011 Wizards of the Coast.
   </figcaption>

@@ -13,7 +13,7 @@ culture, but also have several important differences. Namely, they're
 werewolves! The condition has been with them since they were Netherese refugees,
 and by now it's quite well-integrated into their culture. Until very recently,
 they behaved like your typical Uthgardt tribe: violent, yes, but turning that
-violence only towards those who invaded their territory.
+capacity for violence only towards those who invaded their territory.
 
 This changed with the latest generation of leaders, which have been taking the
 tribe in a more aggressive direction. They've become raiders, killing for
@@ -66,7 +66,8 @@ the equipment you wear" to say that they do work, giving you a spellcasting
 wolf.
 
 Starting at level 5, enemies adjacent to you grant combat advantage to you and
-to any allies who are also adjacent to those enemies. You get CA even if you're
+to _all_ allies who are also adjacent to those enemies. You don't need to be in
+a flanking position, any adjacent space will do. Also, you get CA even if you're
 the only PC adjacent to the enemy. This is super useful for melee combatants.
 
 At level 10, you gain a +2 power bonus to Athletics and Intimidate, which is
@@ -98,11 +99,12 @@ If there's a Dead Rat Deserter in the party, they're going to spend most of
 their time looking with envy at the Pack Outcast. This is a theme that greatly
 boosts melee weapon users and has a spectacular level 10 power. Even if such a
 character already has something equivalent to one of its features and powers,
-they're unlikely to have _all of them_, so there's something here for
+they're unlikely to have all of them, so there's something here for
 everyone. Plus, you get to say you're a werewolf!
 
 The Pack Outcast and the Uthgardt Barbarian are going to get along like a house
-on fire, and having both in the same party will let you "speedrun" the barbarian
-investigation plotline. And just like that other theme, this one can also be
-used for multiple PCs without any convoluted explanations. An all-Pack Outcast
-game is a Werewolf: The Forsaken campaign using 4e rules.
+on fire, and having both in the same party will let you "speedrun" the first
+couple of milestones of the barbarian investigation plotline. And just like that
+other theme, this one can also be used for multiple PCs without any convoluted
+explanations. An all-Pack Outcast game is a Werewolf: The Forsaken campaign
+using 4e rules.

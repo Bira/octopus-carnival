@@ -4,7 +4,17 @@ title: "Let's Read Neverwinter: Uthgardt Barbarian"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-uthgardt.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 The Uthgardt are the barbarians of this Frozen North, more Conan-like than
 Viking-like. They're one of the many people descended from the citizens of the
@@ -13,18 +23,19 @@ that empire fell overnight. The ancestors of the Uthgardt stayed in the region
 when one of the Netherese flying islands fell here, and learned how to live off
 the land. They take their name from Uthgar, a mythical ancestor who was so
 badass he ascended to godhood and became one of the exarchs of Tempus, the FR
-god of war. There are many Uthgar tribes today, each one named after a different
-kind of animal they admire and try to emulate. All of them venerate Uthgar along
-with a series of tribe-specific primal spirits, and don't pay much attention to
-other gods.
+god of war. There are many Uthgardt tribes today, each one named after a
+different kind of animal they admire and try to emulate. All of them venerate
+Uthgar along with a series of tribe-specific primal spirits, and don't pay much
+attention to other gods.
 
 A PC with this background belongs to the Thunderbeast tribe, who lives in the
 High Forest way to the east of our regional map. A bit before the campaign
 started, the tribe engaged in their annual custom of the Runemeet, when all of
-them travel to their ancestral holy site to worship the spirits. The
-Thunderbeast's site is a burial mound in Neverwinter Wood, the resting place of
-one of Uthgar's companions. The skeleton of a great thunderbeast (which I guess
-is a type of dinosaur?) rests atop this mound.
+them travel to their ancestral holy site to worship the spirits and perform
+several important rites. The Thunderbeast's site is a burial mound in
+Neverwinter Wood, the resting place of one of Uthgar's companions. The skeleton
+of a great thunderbeast (which I guess is a type of dinosaur?) rests atop this
+mound.
 
 Or at least it used to. This year, the tribe found the mound dug up - whoever
 did it carted off both the skeleton and the contents of the tomb beneath. The PC
@@ -46,7 +57,6 @@ Similarly, Thunderbeast Uthgardt are all human, and you need a good reason to be
 something else (i.e, you or one of your parents was adopted into the tribe).
 
 ## Features
-
 
 At Level 1, they gain the **Thunderbeast Stomp** encounter power. Stomping is a
 minor action, and the resulting shockwaves act as an aura (2) that prevents
@@ -85,8 +95,9 @@ Barbarians will be Barbarier-than-thou. There's little to aid in combat here,
 but the skill bonuses will go a long way in the appropriate campaign.
 
 Looks like the typical Uthgardt has a hard time relating peacefully to people
-outside their culture, so a PC in a mixed party should probably be somewhat
-atypical. Multiple PCs could easily take it in the same party with the simple
-explanation that the tribe left behind a team instead of an individual. A party
-where everyone has this theme would be extremely uninterested in the fate of
-Neverwinter, and would single-mindedly pursue their quest.
+outside their culture, so a PC in a mixed party is a somewhat atypical
+individual by definition. Multiple PCs could easily take it in the same party
+with the simple explanation that the tribe left behind a team instead of an
+individual. A party where everyone has this theme would be extremely
+uninterested in the fate of Neverwinter, and would single-mindedly pursue their
+quest.

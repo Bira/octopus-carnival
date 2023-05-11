@@ -15,7 +15,8 @@ it was ruled by archmages, and that it really liked building flying islands. We
 also know that it fell overnight due to Shenanigans that caused its signature
 magic to stop working and caused all of those islands to fall from the sky. And
 we've also seen (spoilers!) that one of these islands fell in the Neverwinter
-Wood.
+Wood. This island is named Xinlenal and it happens to be the first one ever
+built.
 
 Now, I think that either in the 4e FR book or somewhere near the end of third
 edition, you had this metaplot event where the survivors of ancient Netheril
@@ -27,7 +28,7 @@ engaged in sinister conspiracies the world over. These people consider
 themselves heirs to Netheril and call themselves Shadovar.
 
 And sure enough, there are Shadovar in the Neverwinter Wood, trying to repair
-the old Netherese flying city that crashed there.
+Xinlenal.
 
 If you're a PC with this theme, you used to be one of them. Your early education
 contained a lot of fascist drivel about how the Netherese were superior to all

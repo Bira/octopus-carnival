@@ -7,8 +7,8 @@ tags:
     - neverwinter
 ---
 
-Thay is an island nation located somewhere outside of regional map. It's ruled
-by wizards who like to wear red.
+Thay is an island nation located somewhere outside of our regional map. It's
+ruled by wizards who like to wear red.
 
 Now, if you're only familiar with them from the Neverwinter Nights games, like I
 am, you might have a somewhat ambiguous view of them. Sure, sometimes a Red
@@ -18,16 +18,16 @@ of the Betrayer who will praise the orderliness of her nation while helping you
 save the world.
 
 I'm here to tell you that this view is wrong. The Red Wizards of Thay are
-basically necromantic Nazis. Maybe this is something that changed between
-editions, or maybe it's just that the NWN games were trying to be the same sort
-of "clever" devil's advocate that says you can be a Chelish Hellknight in
-Pathfinder and not be evil.
+basically Nazis. Their mechanical "thing" in 3e was that they overspecialized in
+a single school of magic, but the edition change made the mask fall all the way
+off and now nearly all of them pick Necromancy as their special school. So
+they're _necromantic_ Nazis.
 
 Thayan society values magic power above all else, so the Red Wizards are at the
-top. Their schools focus heavily on necromancy, and the use of undead labor is
-widespread. Their rulers are a council of liches led by one Szass Tam, one of
-those annoying epic villains the Forgotten Realms are famous for. Most of the
-population thinks this state of things is natural. Dissidents get zombified.
+top. The use of undead labor is widespread. Their rulers are a council of liches
+led by one Szass Tam, one of those annoying epic villains the Forgotten Realms
+are famous for. Most of the population thinks this state of things is
+natural. Dissidents get zombified.
 
 If you are a PC with the Renegade Red Wizard theme, you too grew up thinking all
 of this was normal. You were pretty happy when your aptitude for magic was
@@ -95,7 +95,7 @@ bonus to Bluff and Intimidate. The bonus is untyped, which is the least they
 could to do compensate for the lack of another Expert magic feature.
 
 At level 10, you gain an extra +1 (untyped!) bonus to attack any Red Wizard or
-undead creature that grants comabt advantage to you.
+undead creature that grants combat advantage to you.
 
 ## Impressions
 
