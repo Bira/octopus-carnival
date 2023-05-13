@@ -4,7 +4,17 @@ title: "Let's Read Neverwinter: Pack Outcast"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-pack-outcast.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 This is the other half of the barbarian plotline!
 
