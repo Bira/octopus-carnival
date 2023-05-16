@@ -7,9 +7,18 @@ tags:
     - neverwinter
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-delzoun-heir.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Delzoun was the ancient dwarven empire that flourished at around the same time
-as the other ancient empires of the region. Being underground, it managed to go
-through the fall of Netheril relatively unscathed and last a few more centuries.
+as the other ancient empires of the region. Being underground, it managed to
+survive the fall of Netheril relatively unscathed and last a few more centuries.
 
 They had several underground cities in the area, but their grand capital of
 Gauntlgrym was the most majestic and famous. It started out as a mining
@@ -52,8 +61,8 @@ be a dwarf. The associated background skills are Dungeoneering and History.
 
 These generally make you dwarfier than your typical dwarf.
 
-Your starting feature makes you even more resistant to poison than the typical
-dwarf, granting you (5 + half level) poison resistance.
+Your starting feature makes you even more resistant to poison, granting you (5 +
+half level) poison resistance.
 
 At level 5, you gain an extra healing surge.
 
@@ -84,8 +93,8 @@ These powers and features are excellent for all types of defenders, but they can
 help a dwarf of any class become even more survivable. I know this is one of the
 themes that locks you into a single ancestry, but it would be quite funny to
 have a non-dwarf PC who is a true heir because they were adopted into a dwarven
-family. If I was trying to make Carrot Ironfoundersson as a 4e PC, I'd give him
-this theme.
+family that can trace their line to Delzoun. If I was trying to make Carrot
+Ironfoundersson as a 4e PC, I'd give him this theme.
 
 Story-wise, this is probably the best way to involve your party in the search
 for Gauntlgrym. It's easy to justify multiple PCs having it, and you could build
