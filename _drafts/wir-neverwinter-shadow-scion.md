@@ -20,12 +20,12 @@ built.
 
 Now, I think that either in the 4e FR book or somewhere near the end of third
 edition, you had this metaplot event where the survivors of ancient Netheril
-started coming back. Turns out one of their island cities survived the fall by
-crossing over into the Shadowfell, much like the eladrin did with the
+started coming back. Turns out another one of their island cities survived the
+fall by crossing over into the Shadowfell, much like the eladrin did with the
 Feywild. They spent all this time there, and were mutated by the plane's
 energies. Now they're returning to the world bent on ruling it again, and are
 engaged in sinister conspiracies the world over. These people consider
-themselves heirs to Netheril and call themselves Shadovar.
+themselves heirs to Netheril and call themselves Shadovar. They're fascists.
 
 And sure enough, there are Shadovar in the Neverwinter Wood, trying to repair
 Xinlenal.
@@ -42,18 +42,19 @@ into your head by the Shadovar leadership.
 You volunteered for a post at the location farthest from the center of Shadovar
 power - Neverwinter. You managed to vanish shortly after arriving here, and now
 live in the city, keeping your past a secret. But lately you've been seeing
-signs and hearing rumors that tell you the Shadovar presence here is only
+signs and hearing rumors that tell you the Shadovar presence here is
 increasing. The only thing that would get them this riled up is a repairable
 flying city. If there really is one here (spoiler: there is) and they manage to
 make it fly, then this could become a new major center for the Shadovar, and
-you'd never escape their shadow again. You need to stop them, if only to ensure
-you can live a peaceful life here.
+you'd never escape them again. You need to stop them, if only to ensure you can
+live a peaceful life here.
 
-There are no class restrictions for this theme, but Scions of Shadow can only
-be one of human, shadar-kai, or shade. Those last two represent whose bloodlines
+There are no class restrictions for this theme, but Scions of Shadow can only be
+one of human, shadar-kai, or shade. Those last two represent whose bloodlines
 were affected by the Shadowfell, or who were mutated directly. I think
 Shadar-kai get a full playable treatment in the Gloomwrougth supplement, and
-Shades appear in Heroes of Shadow. Even Shadovar humans are edgier than usual.
+Shades appear in Heroes of Shadow. Even if you're human, you're still edgier
+than usual.
 
 The associated background skills are Arcana, Bluff, and Stealth.
 
@@ -75,11 +76,12 @@ At level 10, you gain a +2 power bonus to Bluff and Stealth checks.
 More shadow magic!
 
 **Flitting Shadow** is a level 2 encounter power that can be used when you
-reappear at the end of a teleport. Shadar-kai get a racial teleport power, and
-warlocks can often teleport as tell. The power makes you assume a shadow form
-for a turn. This gives you Insubstantial, Phasing and Vulnerable 5 Radiant, and
-lets you make checks to hide when you have partial cover or concealment,
-including from your allies.
+reappear at the end of a teleport. The power makes you assume a shadow form for
+a turn. This gives you Insubstantial, Phasing and Vulnerable 5 Radiant, and lets
+you make checks to hide when you have partial cover or concealment from any
+source, including from standing behind your allies. Shadar-kai get a teleport
+encounter power, and classes like warlocks and swordmages can often teleport as
+well. If you can't teleport easily, this is worthless to you.
 
 **Binding Shade** is a level 6 encounter power that can be used after you hit
 with an attack. After the attack is fully resolved, you gain partial concealment
@@ -88,7 +90,7 @@ and combat advantage against its target until the end of your next turn.
 **Dancing Shadows** is a level 10 daily power that lets you teleport 6 squares
 when used. Until the end of the encounter, you can teleport 3 squares at will
 with a move action. In all cases, you must appear in a square of dim light or
-darkness.
+darkness. This also makes that level 2 power look a lot more attractive.
 
 ## Impression
 
