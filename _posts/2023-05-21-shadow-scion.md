@@ -7,6 +7,15 @@ tags:
     - neverwinter
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-shadow-scion.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 I've mentioned the Netherese several times already, and now it's time to view
 the theme most directly connected to them.
 
@@ -14,7 +23,7 @@ Okay, so we know that there was this ancient human empire named Netheril, that
 it was ruled by archmages, and that it really liked building flying islands. We
 also know that it fell overnight due to Shenanigans that caused its signature
 magic to stop working and caused all of those islands to fall from the sky. And
-we've also seen (spoilers!) that one of these islands fell in the Neverwinter
+we've also seen (spoilers!) that one of these islands fell on the Neverwinter
 Wood. This island is named Xinlenal and it happens to be the first one ever
 built.
 
@@ -99,4 +108,4 @@ doesn't need bright light to operate.
 
 The Shadovar/Netherese are a little less horrible than the Red Wizards, but only
 a little. I wonder if you can capture their restored flying island and use it to
-fight the finished Thayan fortress in a giant robot battle.
+fight the finished Thayan fortress in a giant ~~robot~~ magical structure battle.
