@@ -6,9 +6,65 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Jun 2023 18:12:11 +0000</pubDate>
-    <lastBuildDate>Sun, 04 Jun 2023 18:12:11 +0000</lastBuildDate>
+    <pubDate>Wed, 07 Jun 2023 14:57:35 +0000</pubDate>
+    <lastBuildDate>Wed, 07 Jun 2023 14:57:35 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Neverwinter: Warpriest Domains Introduction</title>
+        <description>&lt;p&gt;Before we launch into talking about domains, let’s talk about
+warpriests. “Warpriest” is the official name for the Essentials version of the
+Cleric class.&lt;/p&gt;
+
+&lt;p&gt;Classic PHB Clerics (also known as “Templars” post-Essentials) had a set of
+Strength-based melee weapon powers and another of Wisdom-based ranged implement
+powers. They were generally discouraged from mixing-and-matching, and over time
+the community decided that the Wisdom-based “laser cleric” build was the better
+of the two, particularly when you only had the core. There were certain levels
+that had no Strength powers in them, a situation that would only be remedied in
+supplements.&lt;/p&gt;
+
+&lt;p&gt;Warpriests are another attempt at a melee cleric - all of their attack abilities
+are are Wisdom-based &lt;em&gt;weapon&lt;/em&gt; powers. Warpriest Domains are the solution found
+by Essential’s designers to reduce the number of decisions a player must make in
+order to play a cleric. Your pick one at character creation, and that determines
+not only all of your level 1 powers bit also most of the encounter powers and
+features you get at higher levels all the way to the end of epic tier. They’re
+practically ready-made builds.&lt;/p&gt;
+
+&lt;p&gt;Technically, some of these belong to your paragon path, but Warpriests are in
+effect limited to a single choice there, which continues to provide powers from
+your chosen domain. Someone who is really into character optimization might pick
+a path from another source, but you can just stick to the default Devout
+Warpriest path and still be pretty effective.&lt;/p&gt;
+
+&lt;p&gt;Heroes of the Fallen Lands, the book that introduced Warpriests, also
+introduced the Sun and Storm domains. Heroes of Shadow added the Death
+domain for spooky clerics, and Dragon 392 included the Earth domain.&lt;/p&gt;
+
+&lt;p&gt;The Neverwinter campaign setting gives us four more domains, doubling the amount
+available in the game at the time of its publication. These are all dedicated to
+specific FR gods, but they can be used for similar deities from this or other
+settings. Though the Neverwinter campaign focuses on the heroic tier, the
+domains presented here include powers for the full 30 levels of a character’s
+career.&lt;/p&gt;
+
+&lt;p&gt;I’m going to talk about each domain in very general terms, as it would take an
+age to go through every power in detail. We’ll cover one domain per post, and
+they should each be fairly short.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/06/07/neverwinter-warpriest-domains.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/06/07/neverwinter-warpriest-domains.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: Elf and Eladrin Racial Variants</title>
@@ -1160,114 +1216,6 @@ using 4e rules.&lt;/p&gt;
         <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/05/13/pack-outcast.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/05/13/pack-outcast.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Uthgardt Barbarian</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-neverwinter-uthgardt.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The Uthgardt are the barbarians of this Frozen North, more Conan-like than
-Viking-like. They’re one of the many people descended from the citizens of the
-human empire of Netheril, which scattered in a lot of different directions when
-that empire fell overnight. The ancestors of the Uthgardt stayed in the region
-when one of the Netherese flying islands fell here, and learned how to live off
-the land. They take their name from Uthgar, a mythical ancestor who was so
-badass he ascended to godhood and became one of the exarchs of Tempus, the FR
-god of war. There are many Uthgardt tribes today, each one named after a
-different kind of animal they admire and try to emulate. All of them venerate
-Uthgar along with a series of tribe-specific primal spirits, and don’t pay much
-attention to other gods.&lt;/p&gt;
-
-&lt;p&gt;A PC with this background belongs to the Thunderbeast tribe, who lives in the
-High Forest way to the east of our regional map. A bit before the campaign
-started, the tribe engaged in their annual custom of the Runemeet, when all of
-them travel to their ancestral holy site to worship the spirits and perform
-several important rites. The Thunderbeast’s site is a burial mound in
-Neverwinter Wood, the resting place of one of Uthgar’s companions. The skeleton
-of a great thunderbeast (which I guess is a type of dinosaur?) rests atop this
-mound.&lt;/p&gt;
-
-&lt;p&gt;Or at least it used to. This year, the tribe found the mound dug up - whoever
-did it carted off both the skeleton and the contents of the tomb beneath. The PC
-was supposed to perform a sacred hunt as their coming-of-age ceremony, but the
-elders decide to change their plans and charge the PC with a different quest:
-find out who did this, make them pay, and restore the mound.&lt;/p&gt;
-
-&lt;p&gt;The tribe returns home, but the PC stays to await the return of the Grey Wolf
-tribe, who lives nearby and who left for their own Runemeet elsewhere. They
-should know who the desecrators are… and if it turns out &lt;em&gt;they&lt;/em&gt; are the
-desecrators, then the PC has another target for their hunt.&lt;/p&gt;
-
-&lt;p&gt;The Uthgardt disdain arcane magic, so most Uthgardt PCs will belong to martial,
-divine, or primal classes. Still, there are no hard restrictions and you could
-be a secret arcanist if you want added complications. The same goes for
-characters who worship anyone other than Uthgar and the primal spirits.&lt;/p&gt;
-
-&lt;p&gt;Similarly, Thunderbeast Uthgardt are all human, and you need a good reason to be
-something else (i.e, you or one of your parents was adopted into the tribe).&lt;/p&gt;
-
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
-
-&lt;p&gt;At Level 1, they gain the &lt;strong&gt;Thunderbeast Stomp&lt;/strong&gt; encounter power. Stomping is a
-minor action, and the resulting shockwaves act as an aura (2) that prevents
-enemies inside from making opportunity attacks. It lasts for a turn, which is
-enough to let the character run right past a defender line and charge the enemy
-squishies.&lt;/p&gt;
-
-&lt;p&gt;At level 5, the PC gains a +4 to Perception checks made to find tracks, and a +4
-to Insight when dealing with beasts and other Uthgardt. The bonuses are
-specific, but also untyped, which is good.&lt;/p&gt;
-
-&lt;p&gt;At level 10, the character’s reputation as a barbarian hero gives them a +3
-power bonus to Intimidate.&lt;/p&gt;
-
-&lt;h2 id=&quot;utility-powers&quot;&gt;Utility Powers&lt;/h2&gt;
-
-&lt;p&gt;These powers center on communion with primal spirits.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spiritual Guidance&lt;/strong&gt; is a level 2 daily power that lets the PC reroll a
-Nature, Religion, or History check they dislike with a +5 bonus. The spirits of
-the ancestors chime in to help you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Strength of the Beast&lt;/strong&gt; is a level 6 daily power that gives the PC a +4 power
-bonus to Athletics and Strength checks until the end of the encounter. Good for
-skill challenges or feats of strength during combat.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spirit Swarm&lt;/strong&gt; is a level 10 power that directly summons the PC’s ancestor
-spirits to help in combat. This minor action creates a zone in a Close
-Burst 2. Enemies inside the zone cannot regain HP or gain temporary HP. Allies
-who enter or end their turns in the zone gain 5 temporary HP.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;This theme can make characters of any class feel like Barbarians, and any actual
-Barbarians will be Barbarier-than-thou. There’s little to aid in combat here,
-but the skill bonuses will go a long way in the appropriate campaign.&lt;/p&gt;
-
-&lt;p&gt;Looks like the typical Uthgardt has a hard time relating peacefully to people
-outside their culture, so a PC in a mixed party is a somewhat atypical
-individual by definition. Multiple PCs could easily take it in the same party
-with the simple explanation that the tribe left behind a team instead of an
-individual. A party where everyone has this theme would be extremely
-uninterested in the fate of Neverwinter, and would single-mindedly pursue their
-quest.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/05/11/neverwinter-uthgardt.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/05/11/neverwinter-uthgardt.html</guid>
         
         <category>dnd4</category>
         
