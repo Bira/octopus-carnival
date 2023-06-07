@@ -23,7 +23,7 @@ Warpriests are another attempt at a melee cleric - all of their attack abilities
 are are Wisdom-based _weapon_ powers. Warpriest Domains are the solution found
 by Essential's designers to reduce the number of decisions a player must make in
 order to play a cleric. Your pick one at character creation, and that determines
-not only all of your level 1 powers bit also most of the encounter powers and
+not only all of your level 1 powers but also most of the encounter powers and
 features you get at higher levels all the way to the end of epic tier. They're
 practically ready-made builds.
 
