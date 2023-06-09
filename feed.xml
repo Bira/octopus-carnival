@@ -6,9 +6,73 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Jun 2023 00:01:17 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Jun 2023 00:01:17 +0000</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 15:52:48 +0000</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2023 15:52:48 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Neverwinter: Corellon Domain</title>
+        <description>&lt;p&gt;In the default 4e setting, Corellon is the universal god of spring, beauty and
+the arts, and also the patron of arcane magic. In Forgotten Realms, his original
+setting, he is the head of the elven pantheon. His portfolion includes all of
+the above plus nature, war, and most other things elves care about. All of his
+worshippers are elves or eladrin.&lt;/p&gt;
+
+&lt;p&gt;Warpriests of Corellon are known as Fey Wardens, and take it as their holy
+mission to both protect elves and their culture, and also promote and spread the
+greatness of that culture. I don’t think he wants non-elves to worship him, he
+just wants non-elves to know elves are better than them.&lt;/p&gt;
+
+&lt;p&gt;The stats for this domain can also be used for priests of other elven gods.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics&quot;&gt;Mechanics&lt;/h2&gt;
+
+&lt;p&gt;Most other Warpriest domains are melee-only, but Corellon’s weapon powers can be
+used with either melee or ranged weapons. This means the theme is designed to
+take advantage of the racial weapon proficiencies elves and eladrin get, and is
+particularly suited to moon or sun elves who replace Eladrin Education with Elf
+Weapon Proficiency. They get proficiency with both the long sword and the long
+bow.&lt;/p&gt;
+
+&lt;p&gt;In addition to its ranged attack emphasis, the domain’s powers also focus on
+granting extra mobility to the cleric’s allies, with a secondary focus on making
+enemies easier to hit by either nullifying cover or granting allies combat
+advantage.&lt;/p&gt;
+
+&lt;p&gt;The old character optimization forums say this is the domain that relies on
+Constitution the least, so players are free to put those points on Dexterity
+instead, particularly if they plan on favoring ranged combat or wearing light
+armor.&lt;/p&gt;
+
+&lt;p&gt;I’m not going to cover all of the powers in detail here, but I think the
+domain’s two at-wills are fun. Both are melee or ranged weapon attacks using
+Wisdom vs. AC and dealing 1W + Wis mod damage. &lt;strong&gt;Blessing of the Wild&lt;/strong&gt; lets the
+cleric or an ally within 5 squares shift 1 square as a free action, and
+&lt;strong&gt;Graceful Switch&lt;/strong&gt; lets them stow a weapon and draw another as a free action
+before making the attack. The latter also deals force and radiant damage, so the
+cleric is never without something that can put the hurt on incorporeal undead.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;I really like the mechanical aspect of this domain, though I’m not a big fan of
+the “elves are better than everyone else” mentality in its lore. It’s quite easy
+to remove, though.&lt;/p&gt;
+
+&lt;p&gt;This domain’s powers would be very well suited to a core deity like Avandra,
+with their flexibility and focus on mobility.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/06/09/neverwinter-domain-corellon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/06/09/neverwinter-domain-corellon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: Warpriest Domains Introduction</title>
@@ -1091,131 +1155,6 @@ a campaign around an all-Heir party.&lt;/p&gt;
         <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/05/16/neverwinter-delzoun-heir.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/05/16/neverwinter-delzoun-heir.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Pack Outcast</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-neverwinter-pack-outcast.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Copyright 2011 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is the other half of the barbarian plotline!&lt;/p&gt;
-
-&lt;p&gt;The Gray Wolf are another Uthgardt tribe. They share a lot of the same base
-culture, but also have several important differences. Namely, they’re
-werewolves! The condition has been with them since they were Netherese refugees,
-and by now it’s quite well-integrated into their culture. Until very recently,
-they behaved like your typical Uthgardt tribe: violent, yes, but turning that
-capacity for violence only towards those who invaded their territory.&lt;/p&gt;
-
-&lt;p&gt;This changed with the latest generation of leaders, which have been taking the
-tribe in a more aggressive direction. They’ve become raiders, killing for
-material gain and sometimes even for sport. This got worse when a bunch of
-mysterious shadow-people approached those leaders and filled their heads with
-dreams of glory and of becoming part of a reborn ancient empire. The Grey Wolf
-have stopped fighting for themselves and have begun fighting for lost
-Netheril. They’ve kind of become a neo-fascist gang.&lt;/p&gt;
-
-&lt;p&gt;A PC with this theme is a member of the Grey Wolves who took a stand against
-this early in the process, and was exiled. Rumors have reached them that the
-leaders of the Grey Wolves have switched to executing dissidents, and this has
-driven the PC to act. Their goal is now to drive the shadows of Netheril from
-the region and cleanse the tribe of their influence, getting them back on the
-right track. They see the other PCs as a “temporary pack” that will help them
-achieve this goal. Lone wolves are a myth, after all.&lt;/p&gt;
-
-&lt;p&gt;The Pack Outcast can belong to any class. The Gray Wolves also dislike arcane
-magic, but there was no one around to prevent the outcast from learning it if
-they so choose. Still, melee weapon users are going to benefit much more from
-it.&lt;/p&gt;
-
-&lt;p&gt;Most Grey Wolves are either humans or shifters.&lt;/p&gt;
-
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
-
-&lt;p&gt;You’re a werewolf!&lt;/p&gt;
-
-&lt;p&gt;At level 1, you gain &lt;strong&gt;Body of the Wolf&lt;/strong&gt;. This is an at-will power that lets
-you turn into a wolf (or back) with a minor action. When you transform, you can
-also shift 1 square. The character retains their stats, and gains a +1 bonus to
-Speed. All equipment melds into their form and provides its passive benefits
-(unless it’s a shield). The character can’t use item powers or access
-containers, but gains a wolf bite attack and becomes proficient with it. This
-counts as a melee weapon with a +3 proficiency bonus, 1d8 base damage, and the
-same magical enhancement as the character’s primary weapon.&lt;/p&gt;
-
-&lt;p&gt;This bite is &lt;em&gt;much&lt;/em&gt; better than the one the Dead Rat Deserter gets at level 10!
-Its main advantage is counting as a magical melee weapon instead of being a
-specific power. This lets the PC use any of their weapon powers while in wolf
-form, meaning anyone that relies on this type of power benefits from it. This
-means all melee martials both from the PHBs and from Essentials material, as
-well as characters like wardens, barbarians, paladins, and even the Warpriest
-(Essentials cleric).&lt;/p&gt;
-
-&lt;p&gt;The bite is still useless for characters who rely on implements, and the book
-doesn’t say anything specific about whether implements work while melded to the
-animal form. A generous GM might interpret “You continue to gain the benefits of
-the equipment you wear” to say that they do work, giving you a spellcasting
-wolf.&lt;/p&gt;
-
-&lt;p&gt;Starting at level 5, enemies adjacent to you grant combat advantage to you and
-to &lt;em&gt;all&lt;/em&gt; allies who are also adjacent to those enemies. You don’t need to be in
-a flanking position, any adjacent space will do. Also, you get CA even if you’re
-the only PC adjacent to the enemy. This is super useful for melee combatants.&lt;/p&gt;
-
-&lt;p&gt;At level 10, you gain a +2 power bonus to Athletics and Intimidate, which is
-kinda underwhelming after the two other skills but can still be useful.&lt;/p&gt;
-
-&lt;h2 id=&quot;optional-powers&quot;&gt;Optional Powers&lt;/h2&gt;
-
-&lt;p&gt;You can get even more werewolf-y!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bite of the Wolf&lt;/strong&gt; is a level 2 encounter power that can be used when you hit
-an enemy that grants combat advantage to you with a melee attack. This knocks
-the enemy prone. Despite the name, you don’t need to be in wolf form to use
-it. And remember that after level 5 every adjacent enemy will grant you CA.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blood of the Wolf&lt;/strong&gt; is a level 6 daily power that can be activated with a
-minor action and gives you regeneration equal to (1 + CON Mod) while you’re
-bloodied. Like a werewolf’s regeneration, it shuts down for a turn if you’re
-damaged by silver.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Soul of the Wolf&lt;/strong&gt; is a level 10 daily power that lets you assume a hybrid
-form. You retain all of your equipment, armor and weapons, and can use them
-normally. You also gain the same bite attack as in the level 1 power, temporary
-HP equal to (10 + CON Mod), and a +2 power bonus to Speed, Fortitude, Athletics,
-Intimidate, and damage!&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;If there’s a Dead Rat Deserter in the party, they’re going to spend most of
-their time looking with envy at the Pack Outcast. This is a theme that greatly
-boosts melee weapon users and has a spectacular level 10 power. Even if such a
-character already has something equivalent to one of its features and powers,
-they’re unlikely to have all of them, so there’s something here for
-everyone. Plus, you get to say you’re a werewolf!&lt;/p&gt;
-
-&lt;p&gt;The Pack Outcast and the Uthgardt Barbarian are going to get along like a house
-on fire, and having both in the same party will let you “speedrun” the first
-couple of milestones of the barbarian investigation plotline. And just like that
-other theme, this one can also be used for multiple PCs without any convoluted
-explanations. An all-Pack Outcast game is a Werewolf: The Forsaken campaign
-using 4e rules.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/05/13/pack-outcast.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/05/13/pack-outcast.html</guid>
         
         <category>dnd4</category>
         
