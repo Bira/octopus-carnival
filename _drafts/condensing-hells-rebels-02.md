@@ -16,9 +16,9 @@ story.
 ## Part 1
 
 We start with a bit of downtime during which the PCs learn about the city's
-noble houses from Lady Docur, and can start researching them to see which ones
-are amenable to supporting the rebellion. The main change here is that House
-Aulorian is still undecided, which should change soon.
+noble houses from Lady Docur and Rexus, and can start researching them to see
+which ones are amenable to supporting the rebellion. The main change here is
+that House Aulorian is still undecided, which should change soon.
 
 After a bit of "downtime" where the PCs busy themselves management and
 information gathering, they get contacted by Lictor Octavio directly. He sets up

@@ -80,9 +80,9 @@ Unless the PCs have been making an effort to ingratiate themselves with the
 noble houses during "strategic" play, this is their last real chance to do so
 before things heat up. The Kintargo-aligned house heads should all be here, so
 the party's socialites can identify them and chat them up. Having to do this now
-does add a layer of complication to the procedures, which is why I like to
-introduce this early in the campaign instead and let players make their own
-interaction opportunities.
+does add a layer of complication to the procedures, which is why I like the idea
+of introducing this element early in the campaign instead and let players make
+their own interaction opportunities.
 
 ### Opera House Layout and Security
 
@@ -93,7 +93,8 @@ they like to look down on commoners.
 
 The first two floors have a lot of backstage areas off to the sides, and the
 third floor and basement are all "backstage". Many of these areas were converted
-in living spaces for Barzilai and his staff.
+in living spaces for Barzilai and his staff. All backstage areas are off-limits
+to party guests, so PCs need to be sneaky when exploring them.
 
 There are a total of 22 dottari in the house, half of which attend to the guests
 while wearing smiley masks. The other half stands in reserve, waiting for the
@@ -109,7 +110,7 @@ other bone devil is in the orchestra pit, using his illusion magic to provide
 the music for the ball. The remaining monsters are scattered through several
 side rooms.
 
-One of the room also contains suspended cages for Barzilai's pet cockatrices,
+One of the rooms also contains suspended cages for Barzilai's pet cockatrices,
 which can be released at the press of a switch. Unless the PCs or an ally break
 the switch, these creatures will be released when the trap is sprung.
 
@@ -119,12 +120,12 @@ house his "prize" henchthings. Former Mayor Jilia Bailinus sleeps here as a
 vampire and might be called to fight the PCs. The long-missing singer Shensen is
 also here as a statue.
 
-Beyond even that there are a couple of secret chambers they haven't been able to
-find, and which contain valuable Silver Ravens stuff. This includes the crypts
-for the original Ravens, which confirm their fates and the fact that Jackdaw,
-the last remaining member, might still be alive. And it also includes the
-musical score for the Song of Silver, a potent ritual that will greatly help the
-PCs in the climax of the rebellion.
+There are a couple of additional secret chambers Thrune's lackeys haven't been
+able to find, and which contain valuable Silver Ravens stuff. This includes the
+crypts for the original Ravens, which confirm their fates and the fact that
+Jackdaw, the last remaining member, might still be alive. And it also includes
+the musical score for the Song of Silver, a potent ritual that will greatly help
+the PCs in the climax of the rebellion.
 
 Using rebellion actions the PCs can arm themselves with plenty of information
 before going in: a Covert Action can give them the map to the whole building,
@@ -150,7 +151,7 @@ ceremony happens and Crizmerkis springs the ambush with the aim of killing every
 single guest in the house.
 
 PCs should carefully manage their masque points, with some of the party making
-an effor to mingle and gain more while the rest spend them on exploration
+an effort to mingle and gain more while the rest spend them on exploration
 actions. It's important that the minglers manage to maintain the point total
 above 0, and that the explorers avoid raising a general alarm. Either of these
 things will cause Crizmerkis to spring the trap immediately.
@@ -167,8 +168,6 @@ the easier the final fight will be. Looting and detailed exploration of the
 basement should wait until after the main ambush force is defeated. There are a
 few extra monsters down there that will not take part in the ambush, so they can
 be safely ignored for the moment.
-
-If an alarm is raised, it will force Crizmerkis to spring the ambush early.
 
 ### The Stroke of Midnight
 
@@ -224,9 +223,9 @@ the bystanders. Dungeon Fantasy delvers should have it a bit easier because
 the GURPS version of these opponents won't have HP in the triple digits, but
 it's going to be tough even for them.
 
-The same odd emphasis on etiquette from the Vyre banquet is present here, but
-here it makes less sense given the surrounding context. The Silver Ravens only
-get diplomatic/strategic benefits from thwarting the ambush if they finish the
+The same emphasis on etiquette from the Vyre banquet is present here, but here
+it makes less sense given the surrounding context. The Silver Ravens only get
+diplomatic/strategic benefits from thwarting the ambush if they _finish_ the
 encounter with more than 20 Masque Points. I guess this is supposed to represent
 the final impression left on the survivors about who is to blame for the
 massacre, but it feels odd to have the party save these people in a very obvious

@@ -70,7 +70,7 @@ speed.
   with her extended sabotage later on, you can ensure the PCs find her here,
   which will cause her to immediately try to bargain with or kill the PCs. This
   early detection might even happen by itself if the party has PCs with
-  abilities like Detect (Evil) or Detect (Demons).
+  abilities like Detect (Evil), Detect (Demons) or spells like See Invisible.
 
 ## Part 2
 

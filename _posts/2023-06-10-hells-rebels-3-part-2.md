@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-06-10 16:00:00 -03:00
 title: "Let's Read Hells Rebels 3, Part 2"
 tags:
     - pathfinder

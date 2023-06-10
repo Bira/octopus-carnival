@@ -24,7 +24,8 @@ totally worth it.
 This is just the first Silver Council meeting. We already introduced much of its
 preliminary order of business in previous adventures: Lady Docur in adventure 1,
 noble hobnobbing in adventure 2. So all that would be left to talk about would
-be the matters of foreign support.
+be the matters of foreign support, along with any table-specific developments
+that might have happened due to previous PC efforts.
 
 ## Part 2
 
