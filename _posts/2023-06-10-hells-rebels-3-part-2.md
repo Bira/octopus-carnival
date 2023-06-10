@@ -38,17 +38,18 @@ those Chelish elites to back off from the province.
 
 ### Allies and Information
 
-Advance information on the city comes from two sources. Captain Sargaeta (whom
-they befriended in Adventure 02) can tell them the basics, and give them a ride
-there on his ship. Molly Mayapple can provide them with extensive and invaluable
-advice on their actual goal in the city.
+Advance information on the city comes from two sources. Captain Sargaeta, whom
+the PCs befriended in Adventure 02, can tell them the basics, and give them a
+ride there on his ship. Molly Mayapple can provide them with extensive and
+invaluable advice on their actual goal in the city.
 
 The PCs haven't met Molly yet, but they should have recovered a bunch of
 documents belonging to her from the Lucky Bones. These are deeds for a set of
 waterfront warehouses, which were stolen by the extinct Gray Spiders decades
 ago. Even though Molly has since rebuilt her fortune (she owns a successful
 hotel), she's still going to be extremely grateful when the PCs hand the deeds
-back to her, and will provide a lot of insider information and help.
+back to her, and will provide a lot of insider information and help. They can
+track her down from the information on the deeds.
 
 ### The Basics
 
@@ -79,9 +80,9 @@ get invited to the banquet, but I assume she's instrumental in arranging
 invitations for them and for herself. She's also an excellent source of
 information on the complex etiquette surrounding the event.
 
-This starts with what to wear and what gifts to bring, though PCs good at
-gathering information might learn about Queen ~~Morticia~~ Manticce's less
-well-known preferences.
+This starts with what to wear and what gifts to bring. Molly knows what the
+Queen likes, and PCs good at gathering information might learn about Manticce's
+less well-known preferences.
 
 There are nine other guests in the banquet aside from Molly and the PCs. We get
 personality notes for each one. Most are only sources of roleplaying color, but
@@ -103,7 +104,7 @@ banquet allows them several opportunities to learn more.
 
 The first is a knowledge skill test to identify the dish in question and how to
 eat it (probably **Area Knowledge**, **Current Affairs** or **Savoir-Faire** in
-GURPS). Careful PCs can just wait for one of the other guests so start eating
+GURPS). Careful PCs can just wait for one of the other guests to start eating
 and skip the skill test, but succeeding shows they know what they're doing and
 earns them a point.
 
@@ -115,7 +116,7 @@ they lose points.
 
 The third is a social skill test to do well in the conversation that accompanies
 that dish. This would likely be **Fast-Talk**, **Diplomacy** or even **Public
-Speaking** in GURPs, modified by what the players actually say. Success makes
+Speaking** in GURPS, modified by what the players actually say. Success makes
 them come off as smooth operators and earns points. Failure loses points and
 leaves them embarrassed. Again careful characters can just keep quiet and skip
 this part, but it earns them nothing.
@@ -130,20 +131,20 @@ The dishes range from the merely bizarre to the horrific:
 
 - Next is **Galtan Squash**, which looks like a severed head but is just a
   carved pumpkin full of extremely spicy red soup. This is a straight-up
-  Fortitude save/**HT** roll to endure the spice. Failing bad enough leaves your
-  face swollen and penalizes your talky rolls for the rest of the feast! I'd
-  probably let it be modified by **Resistant to Poison** and other advantages
-  that include it.
+  Fortitude save/**HT** roll to endure the spice. A bad enough failure leaves
+  your face swollen and penalizes your talky rolls for the rest of the feast!
+  I'd probably let it be modified by **Resistant to Poison** and other
+  advantages that include it.
 
 - Then you get the **Unseen Feast**, meat pies made from the flesh of an
   invisible stalker. I'm pretty sure invisible stalkers are sapient, which makes
   this the most horrific dish of the lot. It's quite possible some PCs will
   refuse to eat this one on moral grounds. Those who decide to forge ahead need
-  to be fast and perceptive. The meat is invisible and they have to eat it
-  before it turns visible and loses its flavor. PCs who can see invisibility can
-  pass this one automatically, though it's considered crass to cast a spell for
-  it while on the table. Others must succeed at a difficult **Perception**
-  check, which I guess I would modify for **Acute Smell/Taste**.
+  to be fast and perceptive. They have to eat the invisible meat before it turns
+  visible and loses its flavor. PCs who can see invisibility can pass this one
+  automatically, though it's considered crass to cast a spell for it while on
+  the table. Others must succeed at a difficult **Perception** check, which I
+  guess I would modify for **Acute Smell/Taste**.
 
 - Finally, you get **Sweefats With Honey Sauce** for dessert. Sweetfats are
   candied spiders - this is an Underdark dish. The most difficult thing here is
@@ -156,8 +157,8 @@ Whether Vyre allies with the Silver Ravens or not depends entirely on how many
 banquet points the characters manage to get. They need at least 20. A party of 5
 who arrives properly dressed will start out with 10, and might get a few more
 from bringing optimal gifts. Even so, they will still need to take active part
-in the banquet and the attending skill challenge in order to succeed at the
-mission.
+in at least some of the banquet in order to succeed at the mission. I'd probably
+give them a sign that they succeeded once they get enough points.
 
 If the party succeeds, the Queen might invite the individual who gained them the
 most points for an intimate night. Ties go to the prettiest or most charismatic

@@ -10,8 +10,9 @@ tags:
 New Neverwinter's hired goons can be represented by a variety of statblocks for
 characters or usually-playable ancestries extracted from the Monster Manual 2,
 Monster Vault, and Threats to the Nentir Vale. There's a table here with entries
-ranging from level 1 to level 8. As far as the PCs are concerned, he has a
-effectively limitless supply of these.
+ranging from level 1 to level 8. It includes a Doppelganger Sneak, every stat
+block from the [River Rats][1] entry in Threats plus a smattering of humans,
+gnomes, half-elves and dragonborn.
 
 We also get detailed writeups for Neverember himself and for Soman Galt, and
 some information on General Sabine, the faction's third big shot.
@@ -62,14 +63,14 @@ occupation by a foreign power. Sabine, however, is perfectly able and willing to
 command her army like the foreign invasion and occupation force it is. There's
 not to much nuance to her character - she's an uncomplicated brutal
 authoritarian. She uses the stats for the Human Cavalier from the MM2, making
-her a Level 8 Soldier.
+her a Level 7 Soldier (Leader).
 
 I imagine there are lots of complaints about the police brutality inflicted on
-the citizenry of Neverwinter by the mercenaries, and I also imagine they have
-not yet reached a level that will make Neverember care about them. If Neverember
-dies suddenly, General Sabine is the most likely character to replace him in the
-power struggle that will follow, and things will get a lot more brutal and
-authoritarian when that happens.
+the citizenry of Neverwinter by the mercenaries, though I guess Neverember
+manages to keep them at just below the level where he'd care. If Neverember dies
+suddenly, General Sabine is the most likely character to replace him in the
+internal power struggle that will follow, and she will turn the city into a
+violent police state.
 
 Mordai Vell, one of the leaders of the Ashmadai, is trying to recruit Sabine for
 the cult. As of the campaign's start, he hasn't succeeded yet - whether he will
@@ -112,3 +113,11 @@ targeting all enemies, dealing heavy psychic damage and dazing (save ends). Also
 once per encounter he can **Twist Space** to teleport 3 squares. If he chooses
 to appear in an enemy's space with this, they swap positions and the enemy
 grants combat advantage for a turn.
+
+## Impressions
+
+I think Galt is our most pleasant surprise here, in terms of both his lore and
+his mechanics. As for the other two, Sabine is more dangerous than Dagult if you
+give her a mount and fix the damage on her MM2 stat block. I think this makes
+sense, both in-setting and narratively. She's kind of his Dragon, in TVTropes
+parlance.

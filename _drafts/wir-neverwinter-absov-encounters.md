@@ -186,11 +186,11 @@ full details.
 
 The Prophet of Helm's Hold presents herself as an attractive and charismatic
 female human, but she's something fair weirder. Not long ago, she was a succubus
-tasked by the Nine Hells with infiltrating the spellscarred treatment center in
-Neverwinter's House of Knowledge. There, a priest corrupted by the Sovereignity
-exposed her to an artifact named the Hex Locus, a solidified chunk of
-Spellplague magic. This warped the devil and infused her with the same essence
-that turns humans into foulspawn.
+summoned by the Ashmadai and tasked with infiltrating the spellscarred treatment
+center in Neverwinter's House of Knowledge. There, a priest corrupted by the
+Sovereignity exposed her to an artifact named the Hex Locus, a solidified chunk
+of Spellplague magic. This warped the devil and infused her with the same
+essence that turns humans into foulspawn.
 
 Rohini's main mission is to safeguard the Locus, which she moved to Helm's
 Hold. Her secondary goal is to collect new Choir candidates from among the

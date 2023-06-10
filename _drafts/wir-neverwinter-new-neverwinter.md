@@ -65,10 +65,10 @@ increase his chances of being declared king by popular acclaim.
 ## Player Character Tie-Ins
 
 A PC with the Neverwinter Noble background is Dagult's greatest nightmare:
-someone with a stronger and more easily proved claim to the throne of the
-city. He will either try to deal with the obstacle by sending mercenaries to spy
-on or assassinate the character, or by trying to publicly discredit them once
-the subtle approach becomes impossible.
+someone with a stronger claim to the throne of the city. He will either try to
+deal with the obstacle by sending mercenaries to spy on or assassinate the
+character, or by trying to publicly discredit them once the discreet approach
+becomes impossible.
 
 The Harper Agent was also sent here to oppose Neverember, but as the campaign
 starts they've just realized nothing is as it seems. Are they proceeding with
@@ -119,7 +119,9 @@ Even if you decide to make the lord himself something other than a villainous
 asshole, there are a lot of events in motion that could lead him and his faction
 in that direction. They're heavily infiltrated by both diabolists and abolethic
 agents! PCs seeking to support or co-opt New Neverwinter are going to have a
-harder job ahead of them than those who try to destroy it.
+harder job ahead of them than those who try to destroy it. They're also in the
+dark about the Thayans and Netherese as the campaign starts, and might be
+blindsided by either of them.
 
 I still think Dagult and friends work better as villains, either by themselves
 or as an eventual tool of someone worse. Making them neutral or sympathetic

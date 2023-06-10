@@ -53,11 +53,13 @@ monsters regularly released upon the surface. Those who pass this test are then
 subject to a very specific series of tortures and procedures that turn them into
 near-mindless members of the Choir that sings the Symphony of Madness.
 
-This Symphony has been broadcasting nightmares all over the region, which
+This Symphony can channel the chaotic energies of the Spellplague in ways that
+the aboleths can control, and it's what they use to mutate their kidnapped
+victims. They also use it to broadcast nightmares all over the region, which
 afflict its more psychically sensitive individuals. The stronger it gets the
-more people are affected. This might be the tool that will be used to tame
-Maegera, or it could be a more general-purpose terror weapon, depending on the
-GM's designs.
+more people are affected. This could eventually be the tool they use to tame
+Maegera, or could lead to the development of that tool depending on the GM's
+designs.
 
 ## Player Tie-Ins
 
@@ -84,6 +86,13 @@ campaign will provide a very strong incentive for PCs to find the source of
 these dreams and shut it down, leading to a big confrontation against the AbSov
 in their home base.
 
+One way the PCs might protect themselves from the nightmares is to buy these
+creepy little dolls sold by Helm's Hold. If you place one of these Dreamthief
+Dolls under your pillow at night, you won't experience the nightmares. Rumor has
+it that the dolls send the nightmares they catch to the Hold's patients, but
+Rohini, who runs the hospice at the Hold, says they're just imbued with minor
+protective blessings (she's lying; the rumors are true).
+
 ## Relationships
 
 We already know the AbSov is busily infiltrating New Neverwinter. Here we also
@@ -95,10 +104,11 @@ they call on their far-away epic bosses.
 
 ## Impressions
 
-This is a comparatively huge entry, which leads me to think the Aboleths are
-usually intended to be one of the campaign's top antagonists. A campaign where
-you start opposing (or even working for) New Neverwinter and uncover the aboleth
-conspiracy seems to be an easy one to make with the book's setup.
+This is a comparatively huge entry with an extensive encounters section, as
+we'll see in the next post. This leads me to think the Aboleths are intended to
+be one of the campaign's top antagonists. A campaign where you start opposing
+(or even working for) New Neverwinter and uncover the aboleth conspiracy seems
+to be an easy one to make with the book's default setup.
 
 
 [1]: https://bira.github.io/octopus-carnival/2019/12/15/succubus.html

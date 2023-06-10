@@ -30,10 +30,10 @@ super-useful for setting up big attacks with encounter or daily powers.
 
 ## Impressions
 
-Just as in FR, this power set could fit a lot of different deities. The lore's
-focus on justice make it a good fit for Bahamut and Moradin, and the tactical
-nature of its powers could allow it to stand in for the domains of non-Good
-"strategist" gods like the unaligned Erathis or the evil Bane.
+Just as in FR, this power set could fit a lot of different core deities. The
+lore's focus on justice make it a good fit for Bahamut and Moradin, and the
+tactical nature of its powers could allow it to stand in for the domains of
+non-Good "strategist" gods like the unaligned Erathis or the evil Bane.
 
 That's it for domains. Next we'll look at a full class, the infamous
 bladesinger.

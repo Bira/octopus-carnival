@@ -15,17 +15,21 @@ information players won't know at the start of the campaign.
 There are five major factions operating in the Neverwinter region during this
 campaign:
 
-- **New Neverwinter**: Dagult Neverember and his mercenary army.
+- **New Neverwinter**: Dagult Neverember and his mercenary army, who want to
+  become the legitimate rulers of the city.
 
 - **Abolethic Sovereignity**: A sect from this aberrant empire is experimenting
-  with a pocket of the Spellplague beneath the city.
+  with a pocket of the Spellplague beneath the city with the eventual goal of
+  using it to control the sleeping primordial Maegera.
 
 - A cult of Asmodeus worshipers, also known as **Ashmadai**, is plotting to take
-  over the region for themselves.
+  over the region for themselves but is in for a whole bunch of nasty surprises.
 
-- The **Thayans** want to create an undead army.
+- The **Thayans** want to create an undead army and possibly complete their
+  genocidal plans from thirty years ago.
 
-- The **Netherese** want to repair the flying island of Xinlenal.
+- The **Netherese** want to repair the flying island of Xinlenal and use it as
+  the center of their new empire.
 
 Aside from these, there are many other smaller factions centered around either
 the city of Neverwinter, like the rebel remnants, or around the Neverwinter
@@ -52,3 +56,9 @@ alternate setups, or what happens if the faction's plots are seriously derailed.
 
 The minor factions get less space for themselves, but they still get some and
 we'll be looking at all of them in the order they appear on the book.
+
+Each major faction is going to be split into two posts here. The first will look
+at their general description, goals, relationships, PC tie-ins and my
+impressions of them. The second will deal with the Encounters section of their
+writeup, which tends to be pretty long and often includes new monster stat
+blocks.
