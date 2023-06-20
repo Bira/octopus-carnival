@@ -9,43 +9,45 @@ tags:
 
 Most of my experiences playing Star Wars RPGs were with the classic system from
 West End, years ago now. A few sessions under a couple of different GMs, both of
-whom were big fans of the setting and the system. I'm sure my impressions in the
-rest of this post are a mix from the actual game text and from the GMs in
-question. It's been a while.
+whom were big fans of the setting and the system. I've also read some of the
+books one of these friends had. I'm sure my impressions in the rest of this post
+are a mix from the actual game text and from the GMs in question. It's been a
+while.
 
 The memory that sticks with me the most is that the game put us players in a
 state of constant "Jedi tension". It both sold Jedi as the most awesome
 character type in the entire galaxy, and strictly forbid players from being
 one. As a game written in the late 80s/early 90s, it placed a lot of importance
-on Canon with a capital C. And since there wasn't much of an "extended universe"
-back then, Canon meant the original trilogy of movies.
+on the Official Stories. And since there wasn't much of an "extended universe"
+back then, that meant the original trilogy of movies.
 
 By default, campaigns in that game took place either shortly before Episode IV,
 or somewhere during the original trilogy. The authors had decided the only Jedi
 left in the Galaxy were those that appeared on-screen, and so therefore players
-couldn't make Jedi characters. Oh, there were rules for Jedi, because they had
-to show stats for the canonical characters, but you couldn't actually play one.
+couldn't make Jedi characters. Oh, there were rules for being a Jedi, because
+they had to show stats for the canonical characters, but you couldn't actually
+play one.
 
 Want to make a new, heretofore unknown Jedi survivor? You can't, there aren't
-any! Want to play one of the canonical characters? You can't, they're Canon NPCs
-and therefore both untouchable and much more awesome than you can ever hope to
-be. The closer you could get was to play a "Force-sensitive" character who was
-either completely untrained, or belonged to some quirky alien tradition that
-escape the Empire's purge by sheer luck. You were distinctly second-fiddle to a
+any! Want to play one of the canonical characters? You can't, they're Official
+NPCs and therefore both untouchable and much more awesome than you can ever hope
+to be. The closer you could get was to play a "Force-sensitive" character who
+was either completely untrained, or belonged to some quirky alien tradition that
+escaped the Empire's purge by sheer luck. You were distinctly second-fiddle to a
 proper Jedi. And yeah, even though Luke himself fit the "untrained sensitive"
-category, it would take around 10 years of weekly sessions for a starting PC
-with that archetype to reach Luke's official stats.
+category during Episode IV, it would take around 10 years of weekly sessions for
+a starting PC with that archetype to reach Luke's official stats.
 
 I think a bit of this attitude might have ended up being inherited by subsequent
 games in the franchise, because the implementation they go with is very similar
-even when it's not as restrictive. Jedi are the best at using the Force. No
-other class or archetype can do it at all, save perhaps for the weaker "Force
-Adept" that acts as a consolation prize when Jedi aren't playable.
+even when the setting is not as restrictive. Jedi are the best at using the
+Force. No other class or archetype can even attempt it, save perhaps for the
+weaker "Force Adept" that acts as a consolation prize when Jedi aren't playable.
 
 Anyway, as you might have guessed from the rant above, I'd do things differently
 if I ever GMed a Star Wars game. In short, the Force would really work as
 advertised in A New Hope: it connects everyone in the galaxy, and therefore it's
-present on everyone in the galaxy.
+present in everyone in the galaxy.
 
 ## How does this work?
 
@@ -62,10 +64,12 @@ tried to do.
 
 A lot of stuff that used to be exclusive to the Jedi becomes much more
 widespread. Pilots and gunslingers can benefit from enhanced reflexes and
-short-term precognition, artisans and engineers enter deep meditative states
-that let them create masterworks, hackers develop machine empathy, and so
-on. This is all normal and traditional. Everyone can develop basic sensing and
-intuition abilities.
+short-term precognition. Artisans and engineers enter deep meditative states
+that let them create masterworks or keep heaps of junk running way past the
+point they would have crumbled. Hackers develop machine empathy. Spies can do
+the Mind Trick or erase themselves from other's perceptions. Everyone can
+develop basic sensing and intuition abilities. This is all normal and
+traditional.
 
 In your typical cinematic action campaign, anyone who's badass enough to be a
 player character is also badass enough to be a Force user on par with a Jedi in
@@ -91,43 +95,7 @@ with it by whatever paths are most suited to them. Their signature technique is
 a form of communal mind-link or battle meditation that boosts their allies. The
 Jedi do not focus on being powerful, but on making those around them powerful.
 
-### What about Droids?
-
-One advantage of this variant setup is that it allows us to neatly resolve an
-issue which I've always considered kinda problematic in this setting: the issue
-of droid rights.
-
-In most Star Wars works, droids tend to be treated like property. Even by the
-protagonists, and even when everything else about the story shows them to be
-people with their own minds and emotions. Even characters who consider
-individual droids to be friends don't seem to have anything against their
-overall treatment.
-
-I've seen people online try to justify this by saying that droids aren't really
-people, they're just tools with convincing natural language interfaces, and
-therefore it's okay to buy, sell, and memory wipe them at will. But some stories
-go to such lengths to show otherwise that I'm not inclined to believe this holds
-true for every single droid in the galaxy.
-
-In my version of the setting, most droids start their existences as clever tools
-built for a specific purpose. However, their artificial brains are capable of
-learning and it's relatively common for them to cross the threshold of full
-sapience. This can happen quite quickly in models programmed to execute complex
-tasks - particularly astromech, protocol, and medical droids. Others might take
-longer, but they can still get there.
-
-Awakened droids are considered living people for all intents and purposes,
-_including in regards to the Force_. Anyone who's Force-sensitive can detect
-them as living beings, and the droid might itself become Force-sensitive without
-issue.
-
-There are only two ways to prevent a droid from awakening. The first is to build
-it with a processor too simple to be called a "brain", like those Roomba-like
-things that wander Imperial installations. The second is to actively prevent the
-accumulation of meaningful experiences via regular memory wipes, which is the
-sort of thing bad guys do.
-
-### Speaking of bad guys... what about the Empire?
+### What about the bad guys?
 
 In standard Star Wars, the Empire is more or less the antithesis of everything
 that is good, and it would be so even if there were no Sith involved in running
@@ -157,32 +125,31 @@ villains. Some are affiliated with the Empire, some are independent but still
 bad. Their powers tend to be very similar to those of heroic characters - the
 Dark Side is more of a moral parable and a metaphor than a separate set of
 powers. The Enemy Ace uses the same piloting-boosting powers as the Heroic Ace,
-but he uses it to bomb civilians and destroy refugee ships.
+but he uses it to bomb civilians and destroy refugee
 
-That elitist philosophy comes straight from the Sith who control the
-Empire. It's the complete opposite of the Jedi philosophy, which is fitting
-since the Sith are an evil offshoot of the Jedi. The Sith form the true "inner
-circle" of the Empire, lording over even its other named elites the same way
-those elites lord over the mooks. The number of "true" Sith is about as limited
-as it is in the movies, but they're fond of cultivating "lesser" orders of
-servants beholden to a specific individual, who learn combat techniques but
-little else.
+Our version of the Sith is the complete opposite of our Jedi, which is fitting
+since the Sith are still an evil offshoot of the Jedi. They are the ultimate
+elitists, believing only themselves worthy of wielding the power of the
+Force. The Sith form the true "inner circle" of the Empire, lording over even
+its other named elites the same way those elites lord over the mooks. The number
+of "true" Sith is about as limited as it is in the movies, but they're fond of
+cultivating "lesser" orders of servants beholden to a specific individual.
 
 Their signature technique is the inverse of the one taught by the Jedi: they're
-Force vampires, able to drain the spirit of those around them to increase their
-own power.
+Force vampires, weakening those around them to strengthen themselves. The
+training they give their servants opens them up to this drain.
 
 ## In GURPS
 
 The easiest way to do this in GURPS, I feel, is to say that every cinematic
-trait in the campaign is a form of Force power. Advantages like Gunslinger,
-Trained by a Master, Gadgeteer, and even skill-related Talents would receive the
-Force power modifier (-10%). Weapon Master doesn't exist, as TL 11 melee weapons
-are strong enough without that extra damage bonus.
+trait in the campaign is a form of Force power and gets the Force (-10%)
+modifier. This makes it possible for these traits to be disrupted or detected by
+outside means. Force Powers include advantages like Gunslinger, Trained by a
+Master, Gadgeteer, and even skill-related Talents. Weapon Master doesn't exist,
+as TL 11 melee weapons are strong enough without that extra damage bonus.
 
 More mystical powers are also possible, using the rules from GURPS Psionic
-Powers with a renamed power modifier. Power Talents, if they are a thing here,
-do not get the power modifier.
+Powers with the Force power modifier.
 
 Every player character has access to all these abilities, even if they're
 droids. A quick way to do it would be to start with slightly modified Action
@@ -197,8 +164,8 @@ learned it.
 
 GMs who want to make the different schools more distinctive can add a few
 exclusive techniques to them, like the Jedi battle meditation or the Sith
-force-vampirism. They're not necessarily more powerful than the more widespread
-techniques, but they are distinctive.
+force-vampirism. They're not necessarily more powerful or even necessarily
+exclusive, but they are distinctive.
 
 While lightsabers (also known as force swords in GURPS) are excellent melee
 weapons, making them an effective alternative to blasters requires a significant
