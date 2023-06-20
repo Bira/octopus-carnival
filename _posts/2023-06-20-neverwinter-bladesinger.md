@@ -7,6 +7,15 @@ tags:
     - neverwinter
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-neverwinter-eladrin-guardian.png" | absolute_url }}"/>
+  <figcaption>
+    Copyright 2011 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## TL; DR
 
 Play a swordmage or hexblade instead.
@@ -136,7 +145,7 @@ a different elemental type and has a different controller-y rider:
 
 - **Unseen Hand**: Force damage and you slide the target 3 squares.
 
-Because of the bonuses above, Bladespells doesn't provoke an opportunity attack.
+Because of the bonuses above, Bladespells don't provoke an opportunity attack.
 They also don't have to target the same creature you just hit, but you can only
 use one of them per attack. Their damage increases by 2 per tier past
 Heroic. Looks like Shadow Sever and Unseen Hand are more or less automatic picks
@@ -183,22 +192,20 @@ of these spells, detailed in another table. There is no mention of replacing
 spells with higher level ones as you level, so I guess they just accumulate in
 your spellbook. A level 1 bladesinger knows 2 encounter attack spells and can
 prepare 1. A level 30 character knows 14 encounter attack spells and 10
-utilities, and can prepare 3 and 5 of them respectively. The frequency with
-which you learn new spells is different from the frequency which nearly every
-other class gets new powers.
+utilities, and can prepare 3 and 5 of them respectively.
 
 I say "encounter attack spells", and they get presented in red boxes, but
 they're only encounter powers for standard wizards. A bladesinger treats them
 all as _dailies_, and even gets them when other characters would normally get
 daily powers. This means the level of the powers lags behind your character
-level. At level 5, you pick from a list of level 3 powers, and so on. So yeah,
-even "spell level differs from character level" makes a comeback here. Your
-reward for reaching level 20 is that you get to pick a single spell from a list
-of actual daily attack powers.
+level. At level 5, you pick from a list of level 3 wizard powers, and so on. So
+yeah, even "spell level differs from character level" makes a comeback
+here. Your reward for reaching level 20 is that you get to pick a single spell
+from a list of actual daily attack powers.
 
-Utility powers are less wonky. Their levels match your own at each point where
-you learn new ones, and their frequency of use actually matches the one in their
-descriptions - encounter powers are encounter powers for you.
+Utility powers are less wonky. You get them at the same levels as everyone else,
+their level matches yours when you get them, and their frequency of use actually
+matches the one in their descriptions.
 
 At the levels where other characters would get encounter powers, you gain new
 class features. These either make your bladespells a little better, or give you
