@@ -1,19 +1,27 @@
 ---
 layout: post
+date: 2023-06-24 15:07:00 -03:00
 title: "Let's Read Hell's Rebels Adventure 3, Part 3"
 tags:
     - lets-read
     - pathfinder
     - dnd
     - gurps
+    - hells-rebels
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
 
 Here we come to the final part of our Let's Read of the third Hell's Rebels
 adventure, "Dance of the Damned". With the "regional support" missions complete,
 the Rebellion's stats can grow to their maximum values. We're almost at the
 point where things get real serious in Kintargo.
 
-But first, a party!
+The revolution starts with a party.
 
 ## Part 5: The Ruby Masquerade
 
@@ -21,12 +29,13 @@ Barzilai Thrune has been organizing a grand masquerade ball to be hosted at the
 Opera House ever since the start of this adventure. He advertises it as a way to
 reconcile with his critics and to show everything is fine in Kintargo, but of
 course it's a dastardly trap. After the PCs close the Menador Gap he steps up
-his time table and announces a date for the event.
+his time table and announces a date for the event. He might also end up doing it
+on his original schedule if the PCs take too long to complete that key mission.
 
 His plan is to use a troop of dottari and disguised devils to massacre the
-ball's attendants during its unmasking ceremony, and doctor the evidence to
-blame the Silver Ravens. This will give him an official excuse to begin hunting
-them down in earnest.
+ball's attendants at the party's climax, and doctor the evidence to blame the
+Silver Ravens. This will give him an official excuse to begin hunting them down
+in earnest.
 
 Barzilai sends invitations to every noble or other prominent citizen he knows
 does not support him. He's not stupid enough to believe the PCs would attend if
@@ -87,7 +96,7 @@ their own interaction opportunities.
 ### Opera House Layout and Security
 
 The Opera House has three floors and an extensive basement. The main seating
-areas had all of their seat removed to host the ball. Most guests stay on the
+areas had all of their seats removed to host the ball. Most guests stay on the
 ground floor, but the nobles gravitate towards the second floor balcony because
 they like to look down on commoners.
 
@@ -117,8 +126,7 @@ the switch, these creatures will be released when the trap is sprung.
 Finally, there are a bunch of secret rooms in a sub-basement that used to belong
 to the original Silver Ravens. Barzilai is using them to stash his treasures and
 house his "prize" henchthings. Former Mayor Jilia Bailinus sleeps here as a
-vampire and might be called to fight the PCs. The long-missing singer Shensen is
-also here as a statue.
+vampire, and the long-missing singer Shensen is also here as a statue.
 
 There are a couple of additional secret chambers Thrune's lackeys haven't been
 able to find, and which contain valuable Silver Ravens stuff. This includes the
@@ -145,10 +153,10 @@ I would say those covert actions are so vital that the GM should push for them
 to happen if the players have been neglecting that aspect of the game. The PCs
 are on the clock here and every little advantage helps.
 
-As mentioned above, the party starts at 9PM. At 10PM, they have a special "Dance
-of the Damned" event that takes up half an hour. At midnight the unmasking
-ceremony happens and Crizmerkis springs the ambush with the aim of killing every
-single guest in the house.
+The party starts at 9PM. At 10PM, they have a special "Dance of the Damned"
+event that takes up half an hour. At midnight an unmasking ceremony happens and
+Crizmerkis springs the ambush with the aim of killing every single guest in the
+house.
 
 PCs should carefully manage their masque points, with some of the party making
 an effort to mingle and gain more while the rest spend them on exploration
@@ -225,13 +233,13 @@ it's going to be tough even for them.
 
 The same emphasis on etiquette from the Vyre banquet is present here, but here
 it makes less sense given the surrounding context. The Silver Ravens only get
-diplomatic/strategic benefits from thwarting the ambush if they _finish_ the
-encounter with more than 20 Masque Points. I guess this is supposed to represent
-the final impression left on the survivors about who is to blame for the
-massacre, but it feels odd to have the party save these people in a very obvious
-manner and not be recognized for it. I'd say that saving the heads of the noble
-houses at least should be more than enough to get them on-side for the next
-adventure, if that hasn't happened yet.
+diplomatic/strategic benefits from thwarting the ambush if they have more than
+20 Masque Points by the time the ambush starts. I guess this is supposed to
+represent the final impression left on the survivors about who is to blame for
+the massacre, but it feels odd to have the party save these people in a very
+obvious manner and not be recognized for it. I'd say that saving the heads of
+the noble houses at least should be more than enough to get them on-side for the
+next adventure, if that hasn't happened yet.
 
 If the PCs have been buttering up the nobles on their own initiative prior to
 this point, then the best strategic decision they can make is to break into the
