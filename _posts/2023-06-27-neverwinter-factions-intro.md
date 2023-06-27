@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-06-27 17:00:00 -03:00
 title: "Let's Read Neverwinter: Factions and Foes"
 tags:
     - dnd4
