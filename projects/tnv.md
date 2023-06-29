@@ -67,6 +67,7 @@ project is complete.
 - R
   - [Ragewind][29]
   - [Raven Roost Bandits][30]
+  - [River Rats][42]
 
 - S
   - [Scroll Mummy][32]
@@ -128,3 +129,4 @@ project is complete.
 [39]: {{ "/2023/04/09/wandering-tower.html" | relative_url }}
 [40]: {{ "/2023/04/12/witchlight-lizardfolk.html" | relative_url }}
 [41]: {{ "/2023/04/16/wolf-runners.html" | relative_url }}
+[42]: {{ "/2023/03/12/river-rats.html" | relative_url }}
