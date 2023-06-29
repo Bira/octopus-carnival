@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-06-29 08:00:00 -03:00
 title: "Let's Read Neverwinter: New Neverwinter"
 tags:
     - dnd4
