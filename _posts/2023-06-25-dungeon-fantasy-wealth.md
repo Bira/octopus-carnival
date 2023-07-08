@@ -154,7 +154,7 @@ warrant its own post.
 If an item can be replicated with the standard enchantments from DF, it has
 those enchantments and is priced accordingly. Items with unique functions might
 be a bit harder, but I always have the "easy escape" there of just not assigning
-a fixed price to these. Like DR Artifacts, they're either impossible to sell in
+a fixed price to these. Like DF Artifacts, they're either impossible to sell in
 the first place, or will be worth some arbitrary amount that matches what I want
 the PCs to have at that point.
 
