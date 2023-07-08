@@ -177,4 +177,5 @@ readers will get some use out of my premade PCs, and out of the enemy stat
 blocks I generate. Everything from those stats to the "actual play" reports and
 design commentary is going to be published here.
 
-[2]: {{ "/2018/12/18/df-house-style.html" | relative_url }}
+
+[1]: https://dungeonfantastic.blogspot.com/
