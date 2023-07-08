@@ -9,13 +9,19 @@ tags:
     - solo-rebels
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
 I started a Let's Read of Hell's Rebels way back when it was new, in 2017. I had
 gotten the campaign's first three volumes with alongside a huge pile of other
 Pathfinder PDFs in one of Humble Bundle's offerings.
 
-I managed to publish articles about the first two of those books here, and
-stalled out for a few years on the others. I will probably publish those in the
-future (the D&D monster book readings did take up a lot of my time).
+I managed to publish articles about the first three of those books here, though
+I kinda stalled out between volumes 2 and 3. I still want to "Let's Read" the
+rest one day.
 
 This post, and the series it starts, are about something a bit different. You
 see, ever since I got those books I also had a desire to _run_ this campaign,
@@ -40,8 +46,8 @@ me. Clearly, there was only one solution.
 ## Running this thing as a solo campaign
 
 I actually decided to run Hell's Rebels for myself as a solo campaign way back
-at the beginning of the year, but it took until the start of this month (June
-2023) for me to finally find the inspiration I was lacking.
+at the beginning of 2023, but it took until the start of June for me to finally
+find the inspiration I was lacking.
 
 This won't be my first "solo" campaign: I ran through the first two Zeitgeist
 adventures that way between 2015 and 2017, give or take a year. That attempt
@@ -70,8 +76,9 @@ different.
 The biggest difference between this game and one using the "best practice"
 approach outlined above is that I have a pre-defined module I want to run: the
 Hell's Rebels Adventure Path. Not only do I want to play that, I've already read
-the first four volumes quite closely, so it's not like I can just forget what I
-know about what's in them.
+the first four volumes quite closely. While I find it easy to "forget" this
+stuff when I'm just a player, here I'm also the GM, which makes separating this
+knowledge impossible.
 
 And of course, I have this weird desire to run it in a way that mirrors a
 standard party-based campaign with multiple players as closely as possible. I

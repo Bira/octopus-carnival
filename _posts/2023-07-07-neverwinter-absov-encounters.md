@@ -9,11 +9,11 @@ tags:
 
 
 The table of standard monsters that make up the AbSov's roster includes pretty
-much every heroic-tier aberrant creature, from Fell Taints (MM2) to Mooncalves
-(Threats to the Nentir Vale). It also includes Heroic-Tier versions of iconic
-aberrants usually found in Paragon, and non-aberrant creatures and humanoids
-that can act as covert agents or as the basis for mutated monstrosities with the
-Plaguechanged Monster theme described here.
+much every heroic-tier aberrant creature, from Fell Taints (MM2) to the weaker
+varieties of Mooncalf (Threats to the Nentir Vale). It also includes Heroic-Tier
+versions of iconic aberrants usually found in Paragon, and non-aberrant
+creatures and humanoids that can act as covert agents or as the basis for
+mutated monstrosities with the Plaguechanged Monster theme described here.
 
 We'll take a look at the new monsters, NPCs, and at the template here.
 
@@ -174,7 +174,7 @@ Utility powers include:
   and anyone making opportunity attacks against it during this movement takes
   fire damage equal to the creature's level.
 
-## Prophet of Helm's Hold
+## Rohini, The Prophet of Helm's Hold
 
 Here we have a surprise NPC big-shot belonging to the AbSov faction. Rohini is
 the person in charge of Helm's Hold, which as we saw before has been converted
@@ -226,4 +226,7 @@ Devourer of Flame power from the Plaguechanged theme.
 Chartilifax spends most of his days in the shape of a green-skinned elf in the
 basements under Helm's Hold, performing menial tasks. He's also pretty close to
 Rohini's seat of power, so he's gonna be there as a nasty surprise when the PCs
-manage to corner her there.
+manage to corner her.
+
+ [1]: https://bira.github.io/octopus-carnival/2019/12/15/succubus.html
+ [2]: https://bira.github.io/octopus-carnival/2020/01/16/green-dragon.html
