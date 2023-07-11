@@ -189,8 +189,8 @@ We might built this as a charged item instead, with each charge giving you 2
 minutes of Swim time and costing 9 energy. A non-rechargeable item would cost
 $1350 per charge, a rechargeable one $2700 (plus $180 per charge to reload).
 
-A Walk Through Water item  with the same duration per charge would be a tad
-cheaper: $910/$1820/$140. If the GM allows the spell, that is.
+If Walk Through Water is allowed in the campaign, an item with the same duration
+per charge would be a tad cheaper: $910/$1820/$140.
 
 In any of these cases, the item is best used sparingly, in the same manner as
 the spell. You activate it when it's time for a big fight or a crucial skill
@@ -233,12 +233,6 @@ it.
 
 Hell's Rebels in particular fits the second category, so I'll be using that
 solution.
-
-
-[^1]: Unless they've already increased their IQ and power stat enough that it's
-    a single-point purchase, but that takes a while to happen.
-
-
 
 
 [1]: https://dungeonfantastic.blogspot.com/2019/01/simplified-df-underwater-combat-revised.html
