@@ -5,9 +5,276 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 08 Jul 2023 18:18:42 +0000</pubDate>
-    <lastBuildDate>Sat, 08 Jul 2023 18:18:42 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Jul 2023 04:11:51 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2023 04:11:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Underwater Dungeon Fantasy</title>
+        <description>&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;/octopus-carnival/assets/geoffrey-ernault-skeletonpirateslq.jpg&quot;/&gt;
+  &lt;figcaption&gt;&lt;a
+  href=&quot;https://www.artstation.com/artwork/3dvodY&quot;&gt;Illustration by Geoffrey Ernault&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Underwater adventuring is one of those things that older editions of Dungeons
+and Dragons seemed to like more than their players did. Lots of monster books
+included a selection of monsters that could only be encountered under the sea,
+but every bit of commentary I read on those was always about how no one ever
+bothered to include submarine delves in their campaigns. If a sea monster
+couldn’t go up to the surface to attack a ship or climb on its deck, it was
+usually ignored by GMs.&lt;/p&gt;
+
+&lt;p&gt;The Dungeon Fantasy lines learned this lesson well, and don’t spend a lot of ink
+on support for underwater adventures. This was a big problem for me when I was
+GMing Hell’s Rebels to a group of friends. This particular adventure path
+follows the old tradition of making PCs spend a chunk of levels 5-8
+underwater. When I got to that part in my GURPS conversion, I had no idea what
+to do and got a bit stressed out trying to figure this out on the spot.&lt;/p&gt;
+
+&lt;p&gt;Frantically researching rules in real time is no fun at all even when I am the
+only player, so for the benefit of my solo Hell’s Rebels game and any future
+run-throughs with actual players, I’m going to collect everything I know about
+fighting underwater in GURPS right here in this post.&lt;/p&gt;
+
+&lt;p&gt;I admit I don’t have all the officially published primary sources that discuss
+underwater adventuring. The ones I’m using are &lt;strong&gt;DF: Exploits&lt;/strong&gt; and the
+simplified rules that can be found in &lt;a href=&quot;https://dungeonfantastic.blogspot.com/2019/01/simplified-df-underwater-combat-revised.html&quot;&gt;Dungeon Fantastic&lt;/a&gt;, which &lt;em&gt;do&lt;/em&gt;
+reference the sources I don’t have.&lt;/p&gt;
+
+&lt;h2 id=&quot;underwater-fighting-for-land-lubbers&quot;&gt;Underwater Fighting For Land-Lubbers&lt;/h2&gt;
+
+&lt;p&gt;If you’re not an aquatic creature, you use these rules when fighting underwater.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your Move is limited to your Swimming move: Basic Speed/5, minimum 1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All of your skills are capped at the level of your DX-based &lt;strong&gt;Swimming&lt;/strong&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Thrusting and unarmed strikes receive no penalties.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Some grappling techniques won’t work. Others work as normal. GM adjudicates.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Swinging attacks with Reach 1+ weapons are impossible. This does cover pretty
+much every weapon listed in DF: Adventurers, as even small knives have a Reach
+of “C, 1” when swung.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shield bashes are -2 x DB to hit and do half damage. Don’t bother trying.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Blocks are impossible but you still get your shield’s DB.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Parries with Reach 1+ weapons are impossible. Parries with close-combat-only
+weapons like daggers, and unarmed parries, are allowed and suffer no
+penalties.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dodge is possible and not penalized, but you can’t Retreat.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;No thrown ranged attacks, even from Missile spells. Special underwater ranged
+weapons exist and use specific stats.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ranged attacks into our out of water have -4 to hit, 1/10 range, and do half
+damage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;All through this, you’ll be holding your breath under Heavy Exertion (DF:
+Exploits p. 21)!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;underwater-fighting-for-fish-and-fish-people&quot;&gt;Underwater Fighting for Fish and Fish-People&lt;/h2&gt;
+
+&lt;p&gt;Water adaptation in GURPS has two main components. One is the ability to
+&lt;em&gt;breathe&lt;/em&gt; underwater. The other is the ability to &lt;em&gt;move freely&lt;/em&gt; while
+submerged.&lt;/p&gt;
+
+&lt;p&gt;In monsters, the first is handled by traits such as &lt;strong&gt;Gills&lt;/strong&gt;, some variety of
+&lt;strong&gt;Doesn’t Breathe&lt;/strong&gt;, or the ability to hold their breath for a really long time
+even in combat. A combatant with one of these traits doesn’t need to worry about
+the standard Breath Holding rules.&lt;/p&gt;
+
+&lt;p&gt;The second is handled by the &lt;strong&gt;Amphibious&lt;/strong&gt; or &lt;strong&gt;Aquatic&lt;/strong&gt; traits. If you have
+one of these traits, you get a lot of advantages over land-lubbers.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your get to use your full Move and skills, not limited by your Swimming.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You are exempt from most skill penalties from being underwater and from many
+Swimming tests.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can Retreat!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Your other attacks and defenses are limited as for land-lubbers. This is
+important for weapon users, not so much for aquatic beasts.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;from-delver-to-diver&quot;&gt;From Delver to Diver&lt;/h2&gt;
+
+&lt;p&gt;If you’re a typical delver belonging to one of DFRPG’s standard ancestries, then
+you fall squarely in the “land-lubber” category, and you have to solve a couple
+of problems before you can dive in.&lt;/p&gt;
+
+&lt;h3 id=&quot;breathing&quot;&gt;Breathing&lt;/h3&gt;
+
+&lt;p&gt;If you don’t want your underwater life expectancy to be measured in seconds, you
+need to find a way to breathe in there. In most typical DF settings, that means
+magic.&lt;/p&gt;
+
+&lt;h4 id=&quot;spells&quot;&gt;Spells&lt;/h4&gt;
+
+&lt;p&gt;The DFRPG boxed set includes two main drowning-prevention measures: the
+&lt;strong&gt;Breathe Water&lt;/strong&gt; and &lt;strong&gt;Hold Breath&lt;/strong&gt; spells. They have different
+prerequisite chains but work the same, letting you ignore that part of the rules
+for as long as they last. Both have a base duration of 1 minute and an energy
+cost of 4 to cast and 2 to maintain, reduced by skill as normal. Hold Breath
+is a little better because it also let you survive in non-watery environments.&lt;/p&gt;
+
+&lt;p&gt;Their main disadvantage is that their duration is relatively short. Unless the
+PC casting these spells has a skill of 20 or more with them, the affected
+character is only going to be able to remain underwater for a few minutes at a
+time. That’s nowhere near enough for a full delve, and it’s an even shorter time
+if you need to maintain this spell for multiple PCs. If the caster &lt;em&gt;does&lt;/em&gt; have
+skill 20 then things get a lot easier, but that costs a lot of points.&lt;/p&gt;
+
+&lt;h4 id=&quot;items&quot;&gt;Items&lt;/h4&gt;
+
+&lt;p&gt;If we expand our scope a little to look at DF supplements, then we see that
+Dungeon Fantasy Magic Items 1 has an alchemical &lt;strong&gt;Water-Breathing Amulet&lt;/strong&gt;. You
+can breathe underwater as long as you wear it… but it costs an amazing
+$23.400. Outfitting a party of 5 with that is a very expensive proposition,
+unless you find them as treasure.&lt;/p&gt;
+
+&lt;p&gt;A reusable casting item like a wand or ring with the Breathe Water spell would
+cost at least $8200. This basic version would be powered by the user, so it has
+the same duration limits as the spell. Doubling the price would halve the energy
+cost, which is better but not perfect.&lt;/p&gt;
+
+&lt;p&gt;However, if we expand our scope even further and break out of the DFRPG bubble,
+we can go to GURPS Magic and find an alchemical &lt;strong&gt;water-breathing elixir&lt;/strong&gt; that
+costs $600 in a setting with common magic and gives you the ability to breathe
+water for 1d hours! Even a minimal roll gives you a nice amount of time to
+explore, and per that book’s rules you’ll know the duration is about to expire 5
+minutes in advance, which is better than nothing.&lt;/p&gt;
+
+&lt;p&gt;That elixir is clearly the best approach for campaigns where underwater delves
+are a sometimes thing. They’re a little less convenient than the amulet, but the
+price can’t be beat. I’m definitely including this in my campaign.&lt;/p&gt;
+
+&lt;h3 id=&quot;moving&quot;&gt;Moving&lt;/h3&gt;
+
+&lt;p&gt;Unless your delvers are willing to spend the time and points to become
+better-than-Olympic swimmers, solving their underwater movement issues also
+means resorting to magic.&lt;/p&gt;
+
+&lt;h4 id=&quot;spells-1&quot;&gt;Spells&lt;/h4&gt;
+
+&lt;p&gt;DF: Spells gives us two options here: &lt;strong&gt;Swim&lt;/strong&gt; and &lt;strong&gt;Ethereal Body&lt;/strong&gt;. The first
+makes the subject effectively Amphibious, the second makes them intangible and
+thus able to ignore all that water. GURPS Magic additionally gives us &lt;strong&gt;Walk
+Through Water&lt;/strong&gt;, which makes the user intangible only to water and ice. This
+means you don’t enjoy 3D movement while underwater… but your maneuvers in
+combat are unrestricted! I think I can kinda see why this one didn’t make the
+cut to the DFRPG.&lt;/p&gt;
+
+&lt;p&gt;As with water-breathing, our biggest limitation here are spell maintenance
+costs, which limit our unimpeded movement to a few minutes at most. These are
+also harder to completely eliminate, since Ethereal Body costs 4 energy per
+minute to maintain and the others cost 3. Still, a caster could conceivably save
+these for when a fight is about to start, and only cast it on the group’s
+physical fighters.&lt;/p&gt;
+
+&lt;h4 id=&quot;magic-items&quot;&gt;Magic Items&lt;/h4&gt;
+
+&lt;p&gt;I couldn’t find an always-on item with a Swim enchantment in the books I own. A
+basic casting item for Swim will cost at least $20500, almost as expensive as
+the always-on water breathing amulet. Lowering its casting/maintenance cost from
+6/3 to 3/2 doubles the price, lowering it to 2/1 quadruples it.&lt;/p&gt;
+
+&lt;p&gt;We might built this as a charged item instead, with each charge giving you 2
+minutes of Swim time and costing 9 energy. A non-rechargeable item would cost
+$1350 per charge, a rechargeable one $2700 (plus $180 per charge to reload).&lt;/p&gt;
+
+&lt;p&gt;A Walk Through Water item  with the same duration per charge would be a tad
+cheaper: $910/$1820/$140. If the GM allows the spell, that is.&lt;/p&gt;
+
+&lt;p&gt;In any of these cases, the item is best used sparingly, in the same manner as
+the spell. You activate it when it’s time for a big fight or a crucial skill
+test, and rely on your Swimming lessons the rest of the time.&lt;/p&gt;
+
+&lt;h2 id=&quot;optimal-strategies&quot;&gt;Optimal Strategies&lt;/h2&gt;
+
+&lt;p&gt;Given all of the above, I think we can pretty easily arrive at an “optimal”
+strategy for underwater expeditions.&lt;/p&gt;
+
+&lt;p&gt;If your group is about to embark in a &lt;strong&gt;campaign centered around underwater
+delving&lt;/strong&gt;, your PC party should include a caster who can use Breathe Water at
+Skill-20, and also someone who can use Swim at Skill-15. A druid or wizard could
+do both, a cleric can use Breathe Water and leave Swim to someone else. This is
+a hefty investment, but worth it for the amount of use they’ll get out of
+it. Every PC, caster or not, should also consider investing points into the
+Swimming skill, because it can help conserve spell energy and is pretty useful
+in itself. You might want to give them extra points for these purposes depending
+on your desired power level.&lt;/p&gt;
+
+&lt;p&gt;An alternative here is for you to allow players to make PCs from ancestries that
+have an easy time underwater. Both Sea Elves from GURPS DF 3 and &lt;a href=&quot;/octopus-carnival/2018/10/10/elder-scrolls-others.html&quot;&gt;Argonians&lt;/a&gt;
+from this blog have Gills and are Amphibious. &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;Warforged&lt;/a&gt; are a bit less
+nimble but don’t need to breathe at all. Each delver who is a natural-born diver
+will make the rest of the party’s life that much easier. For those who aren’t,
+Water-Breathing Amulets make excellent treasure.&lt;/p&gt;
+
+&lt;p&gt;If you’re planning a standard campaign that features a &lt;strong&gt;one-off underwater
+dungeon&lt;/strong&gt;, Water-Breathing Elixirs are the way to go, possibly supplemented by
+one or two rechargeable Wands of Swimming. The elixirs should definitely be
+easily available in a nearby town (perhaps it’s a coastal fishing village?). The
+wands might be for sale as well, or might be found as treasure either before or
+during the delve. Proper safety procedure is to carry two elixirs per
+PC, saving the second one for the return trip if the first one wears off.&lt;/p&gt;
+
+&lt;p&gt;If you only have &lt;strong&gt;isolated underwater encounters&lt;/strong&gt;, we’re back to learned
+spells, but they don’t need to have high levels. The submerged environment
+becomes an additional challenge, but no one is going to spend too long inside
+it.&lt;/p&gt;
+
+&lt;p&gt;Hell’s Rebels in particular fits the second category, so I’ll be using that
+solution.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html</guid>
+        
+        <category>dnd</category>
+        
+        <category>pathfinder</category>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>gm-hat</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Play Hell's Rebels!</title>
@@ -1622,306 +1889,6 @@ carrying his staff around like that. Better talk fast!&lt;/p&gt;
         <category>dungeon-fantasy</category>
         
         <category>dnd</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Hell's Rebels Adventure 03, Part 01</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This is part of a series! Go to the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels/&quot;&gt;project page&lt;/a&gt; to see all entries.&lt;/p&gt;
-
-&lt;p&gt;It’s been quite a while since I posted an article on this series! There are
-several reasons for this, both real-world and blog-related. One of the latter
-ones was that these adventures were getting &lt;em&gt;bigger&lt;/em&gt;. The detailed approach I
-took on Adventure 02 was meant to kinda be a stealth GURPS adaptation, but it
-probably wasn’t as helpful as I thought and it left me kinda burned out on
-Hell’s Rebels.&lt;/p&gt;
-
-&lt;p&gt;I’m going to take a more condensed approach on Adventure 03, &lt;strong&gt;Dance of the
-Damned&lt;/strong&gt;, and leave the detailed conversion bits for their own post. This one
-feels even bigger than Adventure 02, as it has three “dungeons” and a number of
-social encounters as well. I’ll try to cover them all with one post.&lt;/p&gt;
-
-&lt;p&gt;One of the things that happened over the hiatus is that I ran the first
-adventure and most of the second for a group of my friends, over roll20 and
-using GURPS. So you can expect &lt;em&gt;real&lt;/em&gt; conversion notes in the future!&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;By the end of the previous adventure, the PCs had secured a permanent
-headquarters under the ruins of the Lucky Bones casino and completed several
-high profile missions that increased their fame and notoriety within the city of
-Kintargo. Even Barzilai Thrune, ruler of Kintargo and the campaign’s Big Bad,
-was forced to congratulate them on their “civic-mindedness” after they get rid
-of a dangerous serial killer.&lt;/p&gt;
-
-&lt;p&gt;Thrune unwittingly helps them further by increasing the Bleakbridge toll to 2gp
-per crossing (or 10 for a day pass). This a trivial amount for the PCs by this
-point, but it’s prohibitive for a lot of the civilian population. You see,
-Kintargo is split into northern and southern halves by a river, and this bridge
-is the only crossing. Plus D&amp;amp;D sets the daily wage of a common laborer at about
-1gp. So yeah, dick move on Barzilai’s part.&lt;/p&gt;
-
-&lt;p&gt;Some people set up illegal ferry operations in response to this, at first
-charging just a few coppers and then doing it for free just to stick it to the
-Man. It’s quite possible the Silver Raven PCs themselves have already done this
-after the first couple of increases in previous adventures (like my group
-did). If they did that, they’re sure to gain a massive reputation boost. Even if
-they didn’t anti-Thrune sentiment should still help them gather supporters.&lt;/p&gt;
-
-&lt;p&gt;With the rebellion poised to grow so much, it’s time to begin thinking bigger,
-and this is what Adventure 03 is about.&lt;/p&gt;
-
-&lt;p&gt;Ah, yes, the book also mentions that the PCs might want to begin thinking about
-improving the Lucky Bones’ defenses. It doesn’t get attacked during &lt;em&gt;this&lt;/em&gt;
-adventure, but there’s a high chance that will happen in the future.&lt;/p&gt;
-
-&lt;h2 id=&quot;chapter-1-the-silver-council&quot;&gt;Chapter 1: The Silver Council&lt;/h2&gt;
-
-&lt;p&gt;If the PCs aren’t yet regularly meeting with the key NPC allies they’ve been
-making along the way, then one of these allies will suggest they begin doing so
-now. The book calls this group the Silver Council. It will at the very least be
-composed of Laria Longroad and Rexus from Adventure 01 plus Hetamon Haace from
-Adventure 02, and will also contain any other such allies the group makes in
-your game.&lt;/p&gt;
-
-&lt;p&gt;The Silver Council’s first order of business in this adventure is an alliance
-proposal by Lady Mialari Docur, one of Haace’s good friends. She runs Lady
-Docur’s School for Girls, which is a real school but also a front for the
-closest thing Kintargo has to a functioning thieves’ guild. The offer is
-genuine, the numeric and political benefits are great, and the alliance is more
-or less automatic unless the PCs go out of their way to be assholes.&lt;/p&gt;
-
-&lt;p&gt;After these pleasantries are concluded it’s time to discuss the next big
-steps in the rebellion’s progression. They have plenty of citizen support, but
-they should still secure official alliances with Kintargo’s noble houses. And
-even beyond that, they should gather &lt;em&gt;regional&lt;/em&gt; support and prevent Thrune from
-doing the same. Kintargo is not the only city in the duchy of Ravounel, after
-all.&lt;/p&gt;
-
-&lt;h3 id=&quot;noble-alliances&quot;&gt;Noble Alliances&lt;/h3&gt;
-
-&lt;p&gt;Kintargo’s eight remaining noble houses are a bit more similar to Renaissance
-families than to feudal ones. Their fortunes come from varied commercial
-interests in the duchy. We get a list of houses, a short stat line for their
-leaders, their political allegiance, the requirement for an alliance, and its
-mechanical benefits to the rebellion.&lt;/p&gt;
-
-&lt;p&gt;Political allegiance can be either to Kintargo or to Thrune. Houses whose
-allegiance lies with Kintargo can be persuaded to support the rebellion if the
-PCs can impress their leaders and convince them the city would be better off if
-it declares independence from Cheliax. Failure to do so results in them staying
-neutral. Thrune-aligned houses can’t be convinced to ally with the
-Ravens. They’re also a bunch of evil slave traders, so we don’t want then on
-our side anyway.&lt;/p&gt;
-
-&lt;p&gt;Four of the houses are Kintargo-aligned, three are Thrune-aligned, and one is
-undecided. This last one is House Aulorian, which will only ally with the Ravens
-if the PCs undo their good deed from Adventure 02 and return Marquel to them. I
-don’t imagine many groups will go for this, but the option is there. Unless this
-happens, they flip to Thrune when the chips are down.&lt;/p&gt;
-
-&lt;h3 id=&quot;regional-hot-spots&quot;&gt;Regional Hot Spots&lt;/h3&gt;
-
-&lt;p&gt;Kintargo is the capital of the duchy of Ravounel, but it’s not its only
-city. The duchy is cut off from central Cheliax by an imposing mountain chain
-with a single pass through it. Most trade comes via sea.&lt;/p&gt;
-
-&lt;p&gt;There are three important places related to the goal of gathering regional
-support in Ravounel:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The aquatic elf village of Acisazi, whose inhabitants can do a lot to defend
-Kintargo from Chelish naval actions. The PCs rescued scouts from this
-community in the previous adventure, which should give them an “in” with the
-local rulers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The city of Vyre, a mostly independent “vice city” that’s a preferred vacation
-spot for the country’s nobility. The Chelish government wants to keep good
-relations to them because it loves its vacations; they want to keep good
-relations to Kintargo because they don’t have a decent sea port. Securing an
-alliance with Vyre would help with keeping Cheliax away.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Menador Gap, that one mountain pass to Central Cheliax.  If the pass is
-closed, it will prevent Chelish troops from marching directly into the
-province. They’d have to take the long way around and march through
-neighboring nations, which will be at the very least much harder.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each of these is its own chapter (or “Part”) in the book.&lt;/p&gt;
-
-&lt;h3 id=&quot;rumors&quot;&gt;Rumors&lt;/h3&gt;
-
-&lt;p&gt;We close with a round of rumors where the GM can insert the ones they like. The
-book notes two important ones: a reminder that the former Mayor of Kintargo is
-still missing, and the news that Barzilai Thrune is organizing a grand gala to
-assure the city everything is fine.&lt;/p&gt;
-
-&lt;p&gt;The gala, named the Ruby Masquerade, will be the adventure’s climax.&lt;/p&gt;
-
-&lt;h3 id=&quot;notes-and-impressions&quot;&gt;Notes and Impressions&lt;/h3&gt;
-
-&lt;p&gt;I think this is where the Adventure Path format hurt the actual adventure a
-bit. Both Lady Docur and the noble houses feel like things that could have been
-introduced way back in Aventure 01.&lt;/p&gt;
-
-&lt;p&gt;An early introduction to Lady Docur give the PCs a good starting bonus on the
-“strategic layer” of the campaign, and allows her to act as the “face” of
-Kintargo’s black market when the PCs need to buy gear. I did that when I GMed
-Adventure 01 and had a lot of fun inserting Little Witch Academia characters as
-students / guild members.&lt;/p&gt;
-
-&lt;p&gt;The noble houses also benefit from an early introduction. Securing alliances
-with them requires a lot of personal interactions with their leaders, so PCs who
-like the tradecraft and roleplaying aspects could have a good time researching
-their habits, arranging meetings, and negotiating with them. It also gives a
-little more weight to the decision of whether to rescue Marquel in the first
-place or not. Rescuing him still the right thing to do, IMHO, but it feels more
-organic to have it be inserted in a political context from the beginning.&lt;/p&gt;
-
-&lt;h2 id=&quot;chapter-2-dead-in-the-deep&quot;&gt;Chapter 2: Dead In the Deep&lt;/h2&gt;
-
-&lt;p&gt;Ravounel has a northern coast that’s mostly dominated by a huge tangle of reefs
-known as the Dismal Nitch. There are charted routes through this, but Kintargo
-is pretty much the only decent sea port in the region. The Acisazi village is
-located in the Nitch, and its sea elf inhabitants can easily swim all through
-it. They can do wonders to block those sea routes if they don’t like the people
-trying to sail through. The PCs should make sure they dislike Thrune.&lt;/p&gt;
-
-&lt;p&gt;If the PCs saved the sea elf scouts from Adventure 02, they’re going to have a
-&lt;em&gt;much&lt;/em&gt; easier time here.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-situation&quot;&gt;The Situation&lt;/h3&gt;
-
-&lt;p&gt;The Acisazi village has a submerged district and a coastal one, where its
-half-elf inhabitants live. It’s located near an underwater shaft called The
-Drowned Eye, a cursed place whose evil was contained by Acisazi wards. Back
-around the start of Adventure 01, though, these wards failed, and a strange
-malady began affecting the village’s inhabitants.&lt;/p&gt;
-
-&lt;p&gt;Here’s the spoilerific truth: the wards failed because they were destroyed by
-Menotheguro, an aboleth necromancer who moved in around the time Adventure 01
-was getting started. He’s working on focusing the Drowned Eye’s cursed energy
-into the creation of an epic undead creature called a “sea bonze” (i.e, an
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Umib%C5%8Dzu&quot;&gt;Umibozu&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;To protect himself, he’s raized an entire sunken ship’s crew as draugr, and a
-huge great white shark as a zombie. He also secretly placed Nerrenn, the
-village’s main protector, under long-term mental domination.&lt;/p&gt;
-
-&lt;p&gt;Menotheguro’s draugr have been raiding the village and taking prisoners below
-the waves to serve as sacrifices in his magical workings. The elf scouts came to
-Kintargo to ask for Shensen’s help - she was a long-time friend of theirs. With
-her missing, though, the PCs are their only hope. If the scouts survive
-Adventure 02, their leader Aava can tell the PCs about the malady, the draugr
-raids, and that they serve someone named “Menotheguro”. She doesn’t know the
-rest.&lt;/p&gt;
-
-&lt;h3 id=&quot;negotiation&quot;&gt;Negotiation&lt;/h3&gt;
-
-&lt;p&gt;Getting into the village is going to be hard even if the PCs bring the sea elf
-scouts with them. Nerrenn will receive them at the head of a crowd of hesitant
-half-elves. Acting as the village’s interim leader, he will deny then entry
-citing all sorts of paranoid reasons.&lt;/p&gt;
-
-&lt;p&gt;PCs good at Diplomacy or Intimidation might convince him to allow an audience
-with the village’s Speaker. Otherwise there’s going to be a fight. Whether he’s
-browbeaten or just plain beaten up, Nerrenn will rush to his master’s side after
-this encounter. Perceptive PCs might realize he’s dominated, and might think to
-restrain him and try to dispel or suppress the effect. If they succeed at it,
-Nerrenn will spill the whole truth outlined above.&lt;/p&gt;
-
-&lt;p&gt;Next is an audience with the village’s true leader, Speaker Athannah. This aged
-half-elf druid is close to death due to the curse. She will be an instant friend
-of the PCs if they brought the scouts back or revealed Nerrenn’s
-domination. Otherwise winning her over will require some more diplomacy on the
-PCs’ part. In either case, her condition for a formal alliance is the same:
-break the curse of the Drowned Eye and save the village.&lt;/p&gt;
-
-&lt;h3 id=&quot;dungeon-the-drowned-eye&quot;&gt;Dungeon: The Drowned Eye&lt;/h3&gt;
-
-&lt;p&gt;The Drowned Eye is a deep pit in the ocean floor near a particularly treacherous
-set of reefs. Its “curse” comes from the fact that a lot of ships sunk and fell
-into it over the years, saturating the place with a death aura. Menotheguro is
-at the bottom, protected by his guardians.&lt;/p&gt;
-
-&lt;p&gt;This is a “dungeon” only in the sense that it’s a location with monsters. The
-layout is entirely linear, and the PCs will run through every encounter in the
-order listed. The biggest environmental complication is that it’s all
-underwater. By this point the PCs should have some experience with underwater
-combat, since it was a good bit of Adventure 02’s final dungeon. Acisazi Village
-should have more than enough water-breathing magic available even if they didn’t
-come prepared for this.&lt;/p&gt;
-
-&lt;p&gt;When the PCs approach the vincinity of the hole, they’re going to be attacked by
-half of Menotheguro’s draugr contingent. If they haven’t yet dropped underwater,
-they’re going to have a surprise because the undead will surely try to sink
-their boat and/or drag then under.&lt;/p&gt;
-
-&lt;p&gt;Dropping down into the Eye itself, the PCs are going to fight the zombie white
-shark on the way down. There is no ground, and their opponent is aquatic, making
-this fight extra-tricky even though the shark’s numbers aren’t particularly
-scary against the whole party.&lt;/p&gt;
-
-&lt;p&gt;The bottom has the other half of the draugr, including their captain, and an
-entrance to Menotheguro’s cave.&lt;/p&gt;
-
-&lt;p&gt;It’s almost guaranteed that the aboleth will notice the fight just outside his
-door. If that happens he’ll try to trick the PCs with an illusion after they
-deal with the draugr, claiming to be the ghost of a druid named “Menotha” who
-needs a cleansing ritual performed by a living druid so she can finally rest.&lt;/p&gt;
-
-&lt;p&gt;If the PCs don’t fall for the illusion, the aboleth fights them immediately. If
-they &lt;em&gt;do&lt;/em&gt;, he will wait for them to bring Athannah down here, dominate her and
-&lt;em&gt;then&lt;/em&gt; fight the PCs.&lt;/p&gt;
-
-&lt;p&gt;Menotheguro himself only has 3 levels of Necromancer, but those are stacked on
-top of an aboleth stat block so he’s certainly boss material. If Nerrenn escaped
-the surface he will be here at full health ready to fight alongside his
-master. He’s considerably more dangerous here because he has terrain advantage
-and has his shark animal companion with him.&lt;/p&gt;
-
-&lt;p&gt;After the fight the PCs can destroy the runes etched in the cave’s wall to ruin
-Menotheguro’s ritual and cleanse the Eye. Then they can loot the pile of
-treasure in the corner.&lt;/p&gt;
-
-&lt;p&gt;With the aboleth destroyed and the curse lifted, the PCs secure an alliance from
-Acisazi.&lt;/p&gt;
-
-&lt;h3 id=&quot;notes-and-impressions-1&quot;&gt;Notes and Impressions&lt;/h3&gt;
-
-&lt;p&gt;This is by far the most “side-trekky” part of the adventure. It does have a
-connection to the overall campaign and its story is kinda interesting, which is
-good. On the other hand, its ends in an underwater “dungeon” featuring exactly a
-day’s worth of combat encounters placed in a straight line one after the
-other.&lt;/p&gt;
-
-&lt;p&gt;I think this is enough to make skipping this chapter altogether a reasonable
-decision. In that case you can say Acisazi is actually fine, that Aava was a
-relative of the Speaker, and that rescuing her back in Adventure 02 is enough to
-secure the alliance. Escorting her back home is something one of the rebellion’s
-NPC teams might do, freeing the PCs up for the other scenes.&lt;/p&gt;
-
-&lt;p&gt;Next up: a feast and a fort.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/08/25/hells-rebels-3-part-1.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/08/25/hells-rebels-3-part-1.html</guid>
-        
-        <category>pathfinder</category>
-        
-        <category>gurps</category>
-        
-        <category>lets-read</category>
         
         
       </item>
