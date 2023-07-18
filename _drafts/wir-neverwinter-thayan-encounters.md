@@ -48,7 +48,7 @@ target grant combat advantage and prevents them from spending healing surges
 
 Lorragauth was a particularly despicable elder black dragon who died in the
 process of destroying his own domain, which he started doing because he realized
-he was dying. If he couldn't have it, then no one else could! Dragons, amirite?
+he was dying. If he couldn't have it, then no one else could!
 
 If Valindra succeeds at reanimating him, he's going to use the stats for a
 dracolich from the Monster Vault or the Forgotten Realms Campaign

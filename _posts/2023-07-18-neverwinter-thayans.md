@@ -20,10 +20,10 @@ from these deaths would then be sent to Tam. The wizards were foiled at the last
 minute, yet Maegera still woke up a little and caused the eruption which
 _almost_ destroyed Neverwinter.
 
-Now they're back. There are little more than frightened whispers about their
-presence in the region, and no one knows they were responsible for destroying
-the city thirty years ago, but if left unchecked there's a good chance they'll
-finish the job, one way or another.
+Now the Thayans are back. There are little more than frightened whispers about
+their presence in the region, and no one knows they were responsible for
+destroying the city thirty years ago, but if left unchecked there's a good
+chance they'll finish the job, one way or another.
 
 ## Goals and Strategies
 
@@ -66,7 +66,7 @@ the Dread Ring. One of her theories is that it might be possible to drain power
 directly from Maegera to feed into the fortress. That would require finding a
 new path to Gauntlgrym (the one they used in the novel has collapsed). If the
 Netherese manage to fix Xinlenal, though, she might divert her efforts to
-capturing it in order to use it as that power source.
+capturing it in order to use its mythalar engine as that power source.
 
 A third goal they're working towards is building up an undead army. They've
 begun a mass grave-robbing operation in Neverwinter's cemetery to produce
@@ -93,8 +93,8 @@ a cool magic item for the PCs if they manage to acquire it. It's a Level 7 Rare
 item. Wearing it gives you the ability to speak, read, and write Draconic, and
 to communicate telepathically with dragons in your line of sight. It also has
 two active daily powers. One of them makes your location known to every evil
-dragon within a day's travel, which would theoretically work to summon allies
-but is likely to backfire for PCs. The other projects sustainable illusion of a
+dragon within a day's travel, which cultists use as a way to summon allies but
+is likely to backfire for PCs. The other projects sustainable illusion of a
 dragon of up to Gargantuan size within 40 squares of you. It can make sounds and
 move, and generally does a convincing job of looking like you summoned an elder
 dragon bodyguard. However it will pop like a soap bubble if it touches anything
