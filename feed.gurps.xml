@@ -5,9 +5,153 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 19:11:26 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 19:11:26 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2023 02:27:15 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2023 02:27:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Play Hell's Rebels: Devils and other Fiends</title>
+        <description>&lt;p&gt;My recent adaptation efforts for that Hell’s Rebels campaign had me going on a
+spelunking expedition about fiend stats in D&amp;amp;D. Here’s what I found out, and
+what I intend to do about it on this GURPS adaptation.&lt;/p&gt;
+
+&lt;p&gt;For our purposes here, “fiend” refers to all of the monsters that originate from
+the “evil planes” of the D&amp;amp;D universe: demons, devils, daemons, and
+others. “Fiend” was the only general term left, so we’re using it in this post.&lt;/p&gt;
+
+&lt;h2 id=&quot;fiends-in-dd&quot;&gt;Fiends in D&amp;amp;D&lt;/h2&gt;
+
+&lt;p&gt;D&amp;amp;D’s fiend situation is one of the most egregious examples of its tendency
+towards overly-complicated taxonomies&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Every synonym becomes the name of a
+distinct type of monster with stats that differ from those of the rest.&lt;/p&gt;
+
+&lt;p&gt;The real purpose of the divide here seems to be mechanical: in most editions
+each type has a different lengthy list of weaknesses and resistances that seems
+calculated to confuse players. Things that are good against devils are bad
+against demons and vice-versa - if the PCs guess wrong, they’re in trouble. The
+specifics here change from edition to edition.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, early editions made it the fact that devils were Lawful Evil and
+demons Chaotic Evil a big deal, and later ones tried to elaborate on it and find
+more ways to explain that the two alignments were different at a fundamental
+cosmic level. Pathfinder really doubles down on that, trying to find additional
+themes for every fiend type it presents.&lt;/p&gt;
+
+&lt;p&gt;Pathfinder 1e, which is what we’re interested in, has this configuration for the
+mechanical bits:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Demons are immune to lightning; Devils take normal damage from it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Devils are immune to fire; Most demons are merely resistant to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re equally resistant to acid and cold.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re both immune to poison.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re resistant to weapon attacks unless the weapon is Good-aligned &lt;em&gt;or&lt;/em&gt;
+made from a special material. For demons, that’s cold iron; for devils,
+silver. Powerful specimens have resistance that can only be bypassed by
+weapons fulfilling both the alignment and material requirements.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is about as complex to describe as it was in previous editions, but it’s
+actually much easier to completely bypass due to the combinatorial explosion in
+spells and magical effects available to players compared to AD&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;After the first couple of levels you can forget about the materials requirement
+entirely, because you’ll have access to Align Weapon or the Holy enchantment. By
+the time you’re fighting those stronger fiends, you’ll probably have a +3 weapon
+in hand, which also bypasses both material requirements. And as for elemental
+damage types, this is the edition that introduces sonic damage, which damages
+both demons and devils normally. It also makes it quite easy for a character to
+swap all of their spells’ damage to sonic&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fiends-in-dungeon-fantasy&quot;&gt;Fiends In Dungeon Fantasy&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Fantasy is a lot simpler. Demon is one of the big monster categories in
+the game, and all demons come from the area colloquially known as Hell. The
+specifics are left as an exercise to the GM.&lt;/p&gt;
+
+&lt;p&gt;Belonging to the Demon category makes them immune to magic that affects the
+minds of natural creatures and susceptible to magic that affects spirits in
+general or demons in particular. They don’t count as “alive” for spells that
+strictly require living targets but always count as “evil” for spells and
+abilities that affect evil creatures.&lt;/p&gt;
+
+&lt;p&gt;Most notably, they do not have any universal resistances to elemental damage or
+mundane weapons. Each demon “species”, other than the very weakest ones, does
+have additional defenses. Most take damage as normal but can only &lt;em&gt;die&lt;/em&gt; if a
+specific condition is met. They also often lack some or all of the weak points
+of natural creatures, such as blood and vital organs.&lt;/p&gt;
+
+&lt;p&gt;Gaming Ballistic’s &lt;em&gt;Nordlond Bestiary&lt;/em&gt; does include some demons that are direct
+adaptations of D&amp;amp;D fiends, but only the most powerful of them (the Balor and Pit
+Fiend equivalents) have resistances that resemble Pathfinder’s to any degree.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-i-do-in-hells-rebels&quot;&gt;What Will I Do in Hell’s Rebels?&lt;/h2&gt;
+
+&lt;p&gt;If I was starting this project way back in 2017, I’d probably be gearing up to
+convert every devil that appeared in Hell’s Rebels to GURPS. But since this is
+2023, I don’t have to!&lt;/p&gt;
+
+&lt;p&gt;I have &lt;em&gt;plenty&lt;/em&gt; of first- and third-party Dungeon Fantasy books now, and between
+them I have more than enough stat blocks available that I can just pick whatever
+looks closer to the original monster and use that.&lt;/p&gt;
+
+&lt;p&gt;This does mean that I’m going to end up ignoring a lot of the default D&amp;amp;D
+cosmology and lore when picking my monsters. “Demon” and “devil” are once again
+synonyms - there is no fundamental cosmic difference between them. They all come
+from the same place. Any differences, if they ever become relevant, are
+political rather than taxonomical.&lt;/p&gt;
+
+&lt;p&gt;We’re also ignoring the difference between Lawful Evil and Chaotic Evil because
+1) there is no alignment in GURPS DF and 2) it’s a bit nonsensical anyway. In
+fact, &lt;em&gt;Pathfinder itself&lt;/em&gt; is going to get rid of alignment in its upcoming
+revised second edition, which was motivated by an attempt to rid itself of all
+remaining ties to the OGL after this January’s brouhaha.&lt;/p&gt;
+
+&lt;p&gt;The game’s existing rules should suffice to determine whether something counts
+as “holy”/”good” or “unholy”/”evil” for game purposes. This is a similar
+approach to what I hear PF 2.5 is going to take.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Another famous one is incorporeal undead. Is that thing a wraith, a
+specter, a shade, or a ghost? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;That’s assuming they want to fight fair in the first place instead of
+casting one of this edition’s many instant fight-enders. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</guid>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>gm-hat</category>
+        
+        <category>gurps</category>
+        
+        <category>pathfinder</category>
+        
+        <category>dnd</category>
+        
+        
+      </item>
     
       <item>
         <title>Underwater Dungeon Fantasy</title>
@@ -1767,128 +1911,6 @@ these are secret superscience prototypes, multiply all prices by 4.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Orchard of Time</title>
-        <description>&lt;p&gt;I had an interesting dream recently that gave me what I think is a neat idea for
-a dungeon location: The Orchard of Time.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;It’s started out as your standard divine orchard, a bit like the Garden of the
-Hesperides. It was owned and operated by a powerful spirit or minor deity, and
-its trees gave fruit that ranged from “mundane but high-quality” to “outright
-miraculous” the further in you went. If you got to the very center, you could
-harvest the Peaches of Immortality or something equally awesome.&lt;/p&gt;
-
-&lt;p&gt;Something happened to the Orchard’s original owners and they left, abandoning
-the place. Monstrous fauna from the surrounding regions moved in and either
-overwhelmed the previous guardians or entered some sort of symbiosis with
-them. These new monsters found ample food in the trees of the Orchard, whose
-energies mutated them to be larger and stronger.&lt;/p&gt;
-
-&lt;p&gt;One day, a powerful arch-wizard found the Orchard’s location and decided to go
-for the Peaches. This extremely arrogant individual was sure he would succeed
-where all others have failed. After all, the others weren’t him! He armed
-himself with his best spells and his best magic items, and teleported to the
-Orchard’s entrance (can’t teleport into it from outside). Then he boldly strode
-past the gate, and cast his most powerful magic.&lt;/p&gt;
-
-&lt;p&gt;This was a custom spell that would stop time everywhere in the Orchard except
-for an area five meters or so in radius around the wizard himself. The idea was
-that, with time stoped, the archmage could just walk up to the really good trees
-in the center while dodging the place’s many inhabitants. If he needed to remove
-any of them, he could bring them into the “active time” circle and use his other
-magic to handle them one individual or small group at a time.&lt;/p&gt;
-
-&lt;p&gt;Of course, the wizard’s hubris got the better of him at exactly the worst
-time. Maybe he had miscalculated when creating the spell, or maybe he made a
-critical error when casting it. The fact is that our wizard just
-kinda… exploded, leaving behind only his ornate metal staff.&lt;/p&gt;
-
-&lt;p&gt;Ironically, the spell itself worked exactly as planned. Even better in fact, as
-the same error that deleted our wizard made it last forever. It’s centered on
-the wizard’s staff, which stands planted on the ground just inside the Orchard’s
-entrance gate.&lt;/p&gt;
-
-&lt;h2 id=&quot;layout-and-hazards&quot;&gt;Layout and Hazards&lt;/h2&gt;
-
-&lt;p&gt;The Orchard is located in a hidden valley and is bordered by tall forested
-mountains. The climate can range from temperate to tropical depending on what
-kind of fruit you want it to contain. As mentioned above, vestigial divine wards
-prevent people from finding it with divination or from teleporting into it from
-outside. It can still be found via good old-fashioned research, as its location
-is recorded in ancient religious texts and in the unfortunate wizard’s own
-notes. The wizard has also helpfully dispelled any magical defenses that
-prevented people from just walking through the main gate.&lt;/p&gt;
-
-&lt;p&gt;The Orchard of Time was a little overgrown from its period of abandonment, but
-still retains its characteristic layout. There are many trees but they’re spaced
-far apart. Cobbled paths wind their way among them. Grass and other wild plants
-reach up to a human’s knees between the trees and paths. This space used to be
-taken up by a lawn and flower beds, but these have been overwhelmed by native
-plants.&lt;/p&gt;
-
-&lt;p&gt;This means that despite covering a very large area, the Orchard has excellent
-sight lines and a clearly navigable layout. You can see a good deal of its
-significant landmarks from the entrance gate and it’s impossible to get lost
-inside. These excellent sight lines work against intruders such as the PCs,
-because they allow the many, many monsters and guardians that live here to see
-them from far away. These creatures are all hostile, territorial, and generally
-incapable of dialogue either because they have animal intellect or because
-they’re some sort of construct. In the dream I had these monsters definitely
-included a variety of Rodents of Unusual Size. There are almost more monsters
-than there are fruit, and they all more or less converge on the location of any
-intruders they can perceive.&lt;/p&gt;
-
-&lt;p&gt;Or they &lt;em&gt;would&lt;/em&gt;, if time hadn’t stopped inside. The wizard’s staff is just
-inside the entrance, and it projects a field of “normal time” in a 5-meter
-radius around itself. Everything outside this bubble and inside the orchard’s
-outer walls is frozen in time, and has been for a long time (decades?
-centuries?).&lt;/p&gt;
-
-&lt;p&gt;PCs who want to succeed where the arrogant wizard failed need to carry the staff
-with them. Getting close enough to a monster that it enters the “bubble” will
-unfreeze the creature, and it will imediately attack. There might be a route
-that allows them to avoid most of the creatures, but not all.&lt;/p&gt;
-
-&lt;p&gt;In addition to the copious monsters, the permanent time stop might have created
-hazardous areas inside the Orchard, where space or time itself behave in harmful
-ways. These might be almost impossible to detect until they’re inside the active
-time bubble, which would make them reveal themselves in a dramatic fashion.&lt;/p&gt;
-
-&lt;h2 id=&quot;why-go-there&quot;&gt;Why go there?&lt;/h2&gt;
-
-&lt;p&gt;The most obvious reason to delve the Orchard of Time is to get its most awesome
-fruits from the big trees at the center, like the wizard wanted to do. The
-Orchard might also contain buildings of interest (such as libraries or treasure
-vaults), along with the bodies of ancient adventurers who tried to delve the
-place before the ill-fated wizard. Some of these might be legendary themselves,
-and have died carrying their equally legendary gear.&lt;/p&gt;
-
-&lt;p&gt;A slightly alternate Orchard would have been invaded by the wizard while it was
-still operational! In this case it’s going to be in pristine condition, with all
-of its original guardians and security systems still in place. Even its &lt;em&gt;owners&lt;/em&gt;
-will still be around, frozen in time like flies in amber. Freeing them is an
-excellent goal for more heroic sorts, or at least for sorts who need the
-specific help whose divine entities are able to provide.&lt;/p&gt;
-
-&lt;p&gt;However, since those owners are frozen in time, they’re still going to be under
-the impression that they’re being invaded by a cheeky wizard. And look at you,
-carrying his staff around like that. Better talk fast!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/10/23/orchard-of-time.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/10/23/orchard-of-time.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>dnd</category>
         
         
       </item>

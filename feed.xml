@@ -6,9 +6,269 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 18 Jul 2023 19:11:26 +0000</pubDate>
-    <lastBuildDate>Tue, 18 Jul 2023 19:11:26 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2023 02:27:15 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2023 02:27:15 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Play Hell's Rebels: Devils and other Fiends</title>
+        <description>&lt;p&gt;My recent adaptation efforts for that Hell’s Rebels campaign had me going on a
+spelunking expedition about fiend stats in D&amp;amp;D. Here’s what I found out, and
+what I intend to do about it on this GURPS adaptation.&lt;/p&gt;
+
+&lt;p&gt;For our purposes here, “fiend” refers to all of the monsters that originate from
+the “evil planes” of the D&amp;amp;D universe: demons, devils, daemons, and
+others. “Fiend” was the only general term left, so we’re using it in this post.&lt;/p&gt;
+
+&lt;h2 id=&quot;fiends-in-dd&quot;&gt;Fiends in D&amp;amp;D&lt;/h2&gt;
+
+&lt;p&gt;D&amp;amp;D’s fiend situation is one of the most egregious examples of its tendency
+towards overly-complicated taxonomies&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Every synonym becomes the name of a
+distinct type of monster with stats that differ from those of the rest.&lt;/p&gt;
+
+&lt;p&gt;The real purpose of the divide here seems to be mechanical: in most editions
+each type has a different lengthy list of weaknesses and resistances that seems
+calculated to confuse players. Things that are good against devils are bad
+against demons and vice-versa - if the PCs guess wrong, they’re in trouble. The
+specifics here change from edition to edition.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise, early editions made it the fact that devils were Lawful Evil and
+demons Chaotic Evil a big deal, and later ones tried to elaborate on it and find
+more ways to explain that the two alignments were different at a fundamental
+cosmic level. Pathfinder really doubles down on that, trying to find additional
+themes for every fiend type it presents.&lt;/p&gt;
+
+&lt;p&gt;Pathfinder 1e, which is what we’re interested in, has this configuration for the
+mechanical bits:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Demons are immune to lightning; Devils take normal damage from it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Devils are immune to fire; Most demons are merely resistant to it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re equally resistant to acid and cold.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re both immune to poison.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;They’re resistant to weapon attacks unless the weapon is Good-aligned &lt;em&gt;or&lt;/em&gt;
+made from a special material. For demons, that’s cold iron; for devils,
+silver. Powerful specimens have resistance that can only be bypassed by
+weapons fulfilling both the alignment and material requirements.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is about as complex to describe as it was in previous editions, but it’s
+actually much easier to completely bypass due to the combinatorial explosion in
+spells and magical effects available to players compared to AD&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;After the first couple of levels you can forget about the materials requirement
+entirely, because you’ll have access to Align Weapon or the Holy enchantment. By
+the time you’re fighting those stronger fiends, you’ll probably have a +3 weapon
+in hand, which also bypasses both material requirements. And as for elemental
+damage types, this is the edition that introduces sonic damage, which damages
+both demons and devils normally. It also makes it quite easy for a character to
+swap all of their spells’ damage to sonic&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fiends-in-dungeon-fantasy&quot;&gt;Fiends In Dungeon Fantasy&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Fantasy is a lot simpler. Demon is one of the big monster categories in
+the game, and all demons come from the area colloquially known as Hell. The
+specifics are left as an exercise to the GM.&lt;/p&gt;
+
+&lt;p&gt;Belonging to the Demon category makes them immune to magic that affects the
+minds of natural creatures and susceptible to magic that affects spirits in
+general or demons in particular. They don’t count as “alive” for spells that
+strictly require living targets but always count as “evil” for spells and
+abilities that affect evil creatures.&lt;/p&gt;
+
+&lt;p&gt;Most notably, they do not have any universal resistances to elemental damage or
+mundane weapons. Each demon “species”, other than the very weakest ones, does
+have additional defenses. Most take damage as normal but can only &lt;em&gt;die&lt;/em&gt; if a
+specific condition is met. They also often lack some or all of the weak points
+of natural creatures, such as blood and vital organs.&lt;/p&gt;
+
+&lt;p&gt;Gaming Ballistic’s &lt;em&gt;Nordlond Bestiary&lt;/em&gt; does include some demons that are direct
+adaptations of D&amp;amp;D fiends, but only the most powerful of them (the Balor and Pit
+Fiend equivalents) have resistances that resemble Pathfinder’s to any degree.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-will-i-do-in-hells-rebels&quot;&gt;What Will I Do in Hell’s Rebels?&lt;/h2&gt;
+
+&lt;p&gt;If I was starting this project way back in 2017, I’d probably be gearing up to
+convert every devil that appeared in Hell’s Rebels to GURPS. But since this is
+2023, I don’t have to!&lt;/p&gt;
+
+&lt;p&gt;I have &lt;em&gt;plenty&lt;/em&gt; of first- and third-party Dungeon Fantasy books now, and between
+them I have more than enough stat blocks available that I can just pick whatever
+looks closer to the original monster and use that.&lt;/p&gt;
+
+&lt;p&gt;This does mean that I’m going to end up ignoring a lot of the default D&amp;amp;D
+cosmology and lore when picking my monsters. “Demon” and “devil” are once again
+synonyms - there is no fundamental cosmic difference between them. They all come
+from the same place. Any differences, if they ever become relevant, are
+political rather than taxonomical.&lt;/p&gt;
+
+&lt;p&gt;We’re also ignoring the difference between Lawful Evil and Chaotic Evil because
+1) there is no alignment in GURPS DF and 2) it’s a bit nonsensical anyway. In
+fact, &lt;em&gt;Pathfinder itself&lt;/em&gt; is going to get rid of alignment in its upcoming
+revised second edition, which was motivated by an attempt to rid itself of all
+remaining ties to the OGL after this January’s brouhaha.&lt;/p&gt;
+
+&lt;p&gt;The game’s existing rules should suffice to determine whether something counts
+as “holy”/”good” or “unholy”/”evil” for game purposes. This is a similar
+approach to what I hear PF 2.5 is going to take.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Another famous one is incorporeal undead. Is that thing a wraith, a
+specter, a shade, or a ghost? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;That’s assuming they want to fight fair in the first place instead of
+casting one of this edition’s many instant fight-enders. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</guid>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>gm-hat</category>
+        
+        <category>gurps</category>
+        
+        <category>pathfinder</category>
+        
+        <category>dnd</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Neverwinter: Thayan Encounters</title>
+        <description>&lt;p&gt;The encounter table includes a &lt;em&gt;lot&lt;/em&gt; of undead, and some spellcasters like the
+Human Transmuter from the MV to act as living Red Wizards. Valindra’s special
+projects also get some consideration here, and then we move on to the lich
+herself.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-neverwinter-nine&quot;&gt;The Neverwinter Nine&lt;/h2&gt;
+
+&lt;p&gt;These were the renowned bodyguards of Lord Nasher Alagondar a century ago. After
+their deaths, they were buried in the castle crypts in honor of their exemplary
+service. Should Valindra manage to animate them as undead, they’d have the stats
+of a Deathlock Wight from the MV or the stats for a Unhallowed Wight presented
+in this book (level 7 soldier, 80 hp, claws that immobilize and drain healing
+surges, auto-damage as an opportunity action on enemies who pass a saving
+throw). You can also use similar undead monstrosities if you want to.&lt;/p&gt;
+
+&lt;p&gt;Members of the Neverwinter Nine get two extra powers in addition to whatever
+their base stat block gives them. &lt;strong&gt;One in Nine&lt;/strong&gt; is an encounter power that
+lets the creature teleport and swap places with another of the Nine that’s
+within 20 squares. And &lt;strong&gt;Change Shape&lt;/strong&gt; lets them take the form of a Medium
+humanoid they killed during the last encounter, lasting until they use the power
+again or cancel the transformation.&lt;/p&gt;
+
+&lt;p&gt;That last one means the Nine can serve story roles as infiltrators. One might
+even manage to replace Lord Neverember or another big shot.&lt;/p&gt;
+
+&lt;h2 id=&quot;ash-zombie&quot;&gt;Ash Zombie&lt;/h2&gt;
+
+&lt;p&gt;These are zombies produced by the particular conditions of the eruption disaster
+area. They leave a trail of ash in their wake and are drawn to “fresh” life, the
+younger the better.&lt;/p&gt;
+
+&lt;p&gt;Any corporeal undead can be converted into the “Ash” equivalent with the
+addition of the &lt;strong&gt;Puff of Ash&lt;/strong&gt; encounter power. When the creature is first
+bloodied, this triggers and enemy Fortitude in a Close Burst 2. A hit makes the
+target grant combat advantage and prevents them from spending healing surges
+(save ends both).&lt;/p&gt;
+
+&lt;h2 id=&quot;lorragauth&quot;&gt;Lorragauth&lt;/h2&gt;
+
+&lt;p&gt;Lorragauth was a particularly despicable elder black dragon who died in the
+process of destroying his own domain, which he started doing because he realized
+he was dying. If he couldn’t have it, then no one else could!&lt;/p&gt;
+
+&lt;p&gt;If Valindra succeeds at reanimating him, he’s going to use the stats for a
+dracolich from the Monster Vault or the Forgotten Realms Campaign
+Setting. Either is going to make him a Level 12 Solo Controller and one the most
+powerful monsters in the entire campaign.&lt;/p&gt;
+
+&lt;h2 id=&quot;valinda-shadowmantle&quot;&gt;Valinda Shadowmantle&lt;/h2&gt;
+
+&lt;p&gt;Valindra is much like a typical lich in that she’s extremely arrogant,
+egotistical and ambitious. She serves Tam because it suits her for now and is a
+very competent lieutenant, but her arrogance makes her prone to underestimating
+her opposition.&lt;/p&gt;
+
+&lt;p&gt;She has complete confidence that her soul vessel is securely hidden and will
+never be found by any of her enemies, so she doesn’t fear destruction and fights
+with seemingly suicidal zeal to protect her plans.&lt;/p&gt;
+
+&lt;p&gt;How right she is depends on how the GM wishes to play her. If they want the PCs
+to defeat her after a single climatic battle, the vessel is right there in her
+inner sanctum at the Dread Ring. If they want to make her a recurring threat,
+it’s hidden in the far away Thayan city of Scorrus (which is covered later in
+the book).&lt;/p&gt;
+
+&lt;p&gt;Velindra’s stats shows us she was an eladrin in life, probably a sun elf. She’s
+a Level 9 Elite Controller with 188 HP. She has a ground speed of 6, a flight
+speed of 4, and darkvision.&lt;/p&gt;
+
+&lt;p&gt;Her basic melee attack is a &lt;strong&gt;Vampiric Touch&lt;/strong&gt; that deals necrotic damage and
+heals Valindra for the same amount. This will be quite annoying to PCs and
+greatly increase her staying power. Her basic ranged attack is a &lt;strong&gt;Phantom
+Claw&lt;/strong&gt; that targets one or two creatures, deals necrotic and psychic damage, and
+immobilizes (save ends). Each failed saving throw lets her slide the target 2
+squares. On a miss, the target is still slowed (save ends).&lt;/p&gt;
+
+&lt;p&gt;She has a &lt;strong&gt;Profane Fire&lt;/strong&gt; attack that’s pretty much a fireball that does
+necrotic and fire damage, and recharges when she’s bloodied. And she retains the
+&lt;strong&gt;Fey Step&lt;/strong&gt; she had in life.&lt;/p&gt;
+
+&lt;p&gt;As minor actions, she can use one of two encounter powers. &lt;strong&gt;Shadow Cloak&lt;/strong&gt;
+gives her insubstantial and phasing but prevents her from taking standard
+actions until she ends the whole effect as a free action. And &lt;strong&gt;Reanimate&lt;/strong&gt; lets
+her bring a dead non-minion ally back into the fight as an undead creature. The
+creature comes back with HP equal half its bloodied value and gains Resist
+Necrotic 10 and Vulnerable Radiant 5. The target must have been a living
+creature before dying - if it was undead already, this doesn’t work.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;Which of these is the Thayan’s most fearsome weapon depends on how you want to
+play them. If they’re an insidious and secretive threat in your campaign, then
+you’ll get a lot of mileage out of the Neverwinter Nine and their ability to
+replace key people in other organizations. If they’re a more direct and forceful
+enemy, facing Lorragauth is a distinct possibility in the PCs’ futures.&lt;/p&gt;
+
+&lt;p&gt;Either way, Valindra herself is a key player and should likely be there for the
+final fight. PCs might end up facing her a few times before then, depending on
+how secure you want her soul vessel to be. Finding it could be a neat series of
+adventures in itself.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/07/19/neverwinter-thayan-encounters.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/19/neverwinter-thayan-encounters.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        <category>dnd4</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: The Red Wizards of Thay</title>
@@ -1374,229 +1634,6 @@ parlance.&lt;/p&gt;
         <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/07/01/nn-encounters.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/01/nn-encounters.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: New Neverwinter</title>
-        <description>&lt;p&gt;As mentioned before, Lord Dagult Neverember of Waterdeep has recently arrived in
-Neverwinter at the head of a mercenary force with the intent of rebuilding the
-city and re-establishing order and trade. He claims descent from one of Nasher
-Alagondar’s bastard sons, saying this gives him the right to take over the
-city. Alagondar was the ruler of Neverwinter at the time depicted in the
-computer games.&lt;/p&gt;
-
-&lt;p&gt;“New Neverwinter” is a concept Neverember’s propaganda machine came up with to
-stir nationalistic sentiment among the populace and get them on-side. This, and
-the practical results of his rebuilding efforts, have worked on the majority of
-the city’s residents, but some of them consider the idea of a “new Neverwinter”
-to be an insult to the city’s memory. Chief among these dissenters are the Sons
-of Alagondar, militant rebels who oppose Neverember and have been clashing often
-with his forces.&lt;/p&gt;
-
-&lt;p&gt;Most of what we’ve seen so far points to Neverember being a villainous
-character, whose claim is fake and whose rule would be selfish and
-oppressive. But there’s a text box here that reminds us that not even this is
-set in stone. Lord Neverember’s role in a specific campaign is entirely up to
-the GM. His claim might be true or false, his intentions might be altruistic or
-selfish, and his rule could end up being good or bad for the region, and all of
-these “switches” are independent from each other. Also independent from all of
-this is the attitude of the PCs towards him - you still have a meaty campaign
-whether they want to support or topple the lord, and there are plenty of other
-things to occupy them if they’re indifferent.&lt;/p&gt;
-
-&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
-
-&lt;p&gt;Neverember’s main goal is of course to &lt;strong&gt;Claim the Throne&lt;/strong&gt;. He is effectively
-in charge of that portion of the city his faction controls, but running the city
-and wearing its crown are very different things. Neverember’s current plan is to
-make the people love him. He’s going to improve their lives so much that they’ll
-beg him to become their lord, claim or no claim. Mwa-ha-ha!&lt;/p&gt;
-
-&lt;p&gt;Of course, Dagult will still have a much easier time of it if he can &lt;strong&gt;Prove his
-Disputed Heritage&lt;/strong&gt;. He knows his word is not enough to prove his claim, so he’s
-been hiring scholars and explorers to look for documents that support it among
-the city’s ruined archives and libraries. He’s also not above hiring those same
-scholars to &lt;em&gt;fabricate&lt;/em&gt; such documents, and has burned more than one book that
-had a less-than-helpful stance on his ancestry.&lt;/p&gt;
-
-&lt;p&gt;While seeking the crown, Neverember still has to actually &lt;strong&gt;Run the City&lt;/strong&gt;, to
-&lt;strong&gt;Maintain His Position&lt;/strong&gt; as the Open Lord of Waterdeep, and he also never loses
-sight of the whole reason he’s doing all of this, which is to &lt;strong&gt;Make Hard
-Coin&lt;/strong&gt;. In order to juggle all of this, he delegates heavily. General Sabine,
-who commands the mercenary army, is in charge of policing and defending the
-territory he controls in the city. He appointed a dwarf named Soman Galt to act
-as mayor and oversee tax collection, grants of property, and other paperwork.&lt;/p&gt;
-
-&lt;p&gt;For the same reason, he loves to &lt;strong&gt;Hire Sellswords&lt;/strong&gt; to care care of problems
-that require more discreet solutions. This includes looking for proof of his
-claims and spying on the opposition as mentioned above, but it also includes
-&lt;strong&gt;Finding Gauntlgrym&lt;/strong&gt; because having that as a feather on his cap would
-increase his chances of being declared king by popular acclaim.&lt;/p&gt;
-
-&lt;h2 id=&quot;player-character-tie-ins&quot;&gt;Player Character Tie-Ins&lt;/h2&gt;
-
-&lt;p&gt;A PC with the Neverwinter Noble background is Dagult’s greatest nightmare:
-someone with a stronger claim to the throne of the city. He will either try to
-deal with the obstacle by sending mercenaries to spy on or assassinate the
-character, or by trying to publicly discredit them once the discreet approach
-becomes impossible.&lt;/p&gt;
-
-&lt;p&gt;The Harper Agent was also sent here to oppose Neverember, but as the campaign
-starts they’ve just realized nothing is as it seems. Are they proceeding with
-their original mission, or deviating from it now that the Harpers’ original
-intel proved to be woefully incomplete?&lt;/p&gt;
-
-&lt;p&gt;PCs with the Oghma’s Faithful theme would be eager to take part in any genuine
-fact-finding expedition about Dagult’s lineage (or that of his
-rivals!). However, their devotion is to the truth rather than to any mortal
-lord, and the truth they find can end up drawing the ire of either Dagult
-himself or his enemies, depending on whether it contradicts or supports his
-claim.&lt;/p&gt;
-
-&lt;p&gt;Depending on his exact moral disposition in the campaign, Neverember could be
-either a potential sponsor or a rival to the Heir of Delzoun in the search for
-Gauntlgrym.&lt;/p&gt;
-
-&lt;p&gt;PCs without direct connections to this storyline might still find New
-Neverwinter a ready source of miscellaneous mercenary jobs when they need some
-extra cash and XP. In addition to being the hired swords for the above plots,
-they could also bolster the faction’s efforts to evict the orcish army that has
-taken part of the city ruins, or get hired to investigate the numerous
-mysterious events in town that point to the other major factions, like
-spellplagued monster attacks or mysterious disappearances.&lt;/p&gt;
-
-&lt;h2 id=&quot;faction-relationships&quot;&gt;Faction Relationships&lt;/h2&gt;
-
-&lt;p&gt;New Neverwinter has no idea the &lt;strong&gt;Abolethic Sovereignity&lt;/strong&gt; is behind those
-monster attacks. They’re causing these to keep the surfacers distracted while
-they carry on their experiments.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Ashmadai&lt;/strong&gt; managed to secure a tenuous alliance of sorts with New
-Neverwinter. Dagult doesn’t know who they are beyond “a shady but influential
-cult”. He uses them as an occasional source of deniable muscle, and they’re hard
-at work subverting and corrupting his underlings with the goal of eventually
-inducting the man himself among their ranks. Their leader, Mordai Veil, is
-currently attempting to seduce General Sabine.&lt;/p&gt;
-
-&lt;p&gt;He was received a few reports of &lt;strong&gt;Thayans&lt;/strong&gt; in the region, and has tasked
-General Sabine with finding out more. She has yet to deliver her first report.&lt;/p&gt;
-
-&lt;p&gt;Dagult is completely ignorant of &lt;strong&gt;Netherese&lt;/strong&gt; operations in the region and has
-unwittingly hired Shadovar agents as assassins before.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Even if you decide to make the lord himself something other than a villainous
-asshole, there are a lot of events in motion that could lead him and his faction
-in that direction. They’re heavily infiltrated by both diabolists and abolethic
-agents! PCs seeking to support or co-opt New Neverwinter are going to have a
-harder job ahead of them than those who try to destroy it. They’re also in the
-dark about the Thayans and Netherese as the campaign starts, and might be
-blindsided by either of them.&lt;/p&gt;
-
-&lt;p&gt;I still think Dagult and friends work better as villains, either by themselves
-or as an eventual tool of someone worse. Making them neutral or sympathetic
-would however be a good way to take New Neverwinter out of consideration if the
-party is not interested in tangling with it, making it a part of the background
-noise.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 29 Jun 2023 11:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/06/29/new-neverwinter.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/06/29/new-neverwinter.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Factions and Foes</title>
-        <description>&lt;p&gt;This chapter starts the GM-focused part of the book. The factions presented here
-are the “other half” of all the plots hinted at in the character themes -
-they’re what the themes are hooking into. This chapter will contain a lot of
-information players won’t know at the start of the campaign.&lt;/p&gt;
-
-&lt;p&gt;There are five major factions operating in the Neverwinter region during this
-campaign:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;New Neverwinter&lt;/strong&gt;: Dagult Neverember and his mercenary army, who want to
-become the legitimate rulers of the city.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Abolethic Sovereignity&lt;/strong&gt;: A sect from this aberrant empire is experimenting
-with a pocket of the Spellplague beneath the city with the eventual goal of
-using it to control the sleeping primordial Maegera.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A cult of Asmodeus worshipers, also known as &lt;strong&gt;Ashmadai&lt;/strong&gt;, is plotting to take
-over the region for themselves but is in for a whole bunch of nasty surprises.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;Thayans&lt;/strong&gt; want to create an undead army and possibly complete their
-genocidal plans from thirty years ago.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;Netherese&lt;/strong&gt; want to repair the flying island of Xinlenal and use it as
-the center of their new empire.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Aside from these, there are many other smaller factions centered around either
-the city of Neverwinter, like the rebel remnants, or around the Neverwinter
-Wood, like the Uthgardt or the angry eladrin of Ilyianbruen.&lt;/p&gt;
-
-&lt;p&gt;Each major faction gets their own section consisting of:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A general overview of who they are.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A detailed explanation of their goals. This includes text boxes with Theme
-Tie-Ins that could lead the faction to interact with the PCs or
-vice-versa. Some are obvious, others less so.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A summary of their relationship to other major factions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A discussion of what encounters against them look like, complete with
-statistics for their important figures and any new monsters that might make up
-their rank-and-file.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As the introduction says, everybody’s levels are calibrated to fit in a
-Heroic-tier campaign, and none of the plots and goals detailed here are set in
-stone. Some of the faction descriptions include text boxes musing about
-alternate setups, or what happens if the faction’s plots are seriously derailed.&lt;/p&gt;
-
-&lt;p&gt;The minor factions get less space for themselves, but they still get some and
-we’ll be looking at all of them in the order they appear on the book.&lt;/p&gt;
-
-&lt;p&gt;Each major faction is going to be split into two posts here. The first will look
-at their general description, goals, relationships, PC tie-ins and my
-impressions of them. The second will deal with the Encounters section of their
-writeup, which tends to be pretty long and often includes new monster stat
-blocks.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 27 Jun 2023 20:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/06/27/neverwinter-factions-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/06/27/neverwinter-factions-intro.html</guid>
         
         <category>dnd4</category>
         
