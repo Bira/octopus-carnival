@@ -18,9 +18,10 @@ Toril's magic. This caused the vast majority of the flying islands where these
 archmages lived to plummet to the ground.
 
 One such island managed to avoid this fate when its inhabitants plane-shifted it
-into the Shadowfell. They stayed there until the end of Third Edition, when they
-started coming back into the world, mutated by their millenia in darkness and
-with a desire to rebuild their former empire.
+into the Shadowfell (known as the Plane of Shadow back then). They stayed there
+until the end of Third Edition, when they started coming back into the world,
+mutated by their millenia in darkness and with a desire to rebuild their former
+empire.
 
 These shadow-people are known as Shadovar, but they also consider themselves to
 be Netherese and the book uses the two terms interchangeably. There's a group of
@@ -52,8 +53,9 @@ enemy.
 
 Not even these ancient ruins might yield enough residuum for their purposes,
 though. They've started looking at less-old places too. As the campaign starts
-that's still mostly clashing with and looting the bodies of Thayan and Ashmadai
-goons, but they could soon move up to plundering Neverwinter itself.
+that's still mostly consists of clashing with and looting the bodies of Thayan
+and Ashmadai goons, but they could soon move up to plundering Neverwinter
+itself.
 
 One of Caliburnus' secondary goals include discovering the fate of Iolaum. Sure,
 the wizard lived thousands of years ago and was on Xinlenal when it fell, but
@@ -66,7 +68,7 @@ _one_ world-spanning fascist mage empire in this planet, after all. The Shadovar
 regularly attack the Thayan base in the Dread Ring, and they've also managed to
 park one of their flying fortresses above the Thayan city of Surcross, which
 they bombard regularly. In case you don't remember, that's one of the possible
-locations might have hidden her soul vessel.
+locations where Valindra might have hidden her soul vessel.
 
 And finally, further down the list, there's the handling of the Gray Wolf
 Uthgardt tribe. The Shadovar recruited them into their service with appeals to
@@ -75,7 +77,8 @@ eventually conquer Helm's Hold. So far the werewolves have managed to place
 several agents in the town, who are busy sowing unrest and generally making it
 ready for a takeover. Their progress is slow but in Caliburnus' view the tribe's
 main purpose is to act as a red herring when people start trying to investigate
-Netherese activities.
+Netherese activities. In the meantime, Gray Wolf warriors also get used as
+muscle when the need for it arises.
 
 ## Player Tie-Ins
 
@@ -91,7 +94,7 @@ Their rampant plundering of ancient ruins also places them in direct opposition
 to the Iliyanbruen Guardian, Heir of Delzoun, and the Uthgardt Barbarian. The
 book says they are definitely guilty of stealing those eladrin relics, but it's
 less definitive about their role in plundering the Uthgardt barrow - that could
-have been the Thayns depending on what the GM desires. Even so, their control of
+have been the Thayans depending on what the GM desires. Even so, their control of
 the Gray Wolves will still make them cross paths with both the Barbarian and the
 Pack Outcast.
 
