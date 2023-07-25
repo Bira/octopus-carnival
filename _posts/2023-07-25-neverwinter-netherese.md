@@ -19,7 +19,7 @@ archmages lived to plummet to the ground.
 
 One such island managed to avoid this fate when its inhabitants plane-shifted it
 into the Shadowfell (known as the Plane of Shadow back then). They stayed there
-until the end of Third Edition, when they started coming back into the world,
+until the end of Second Edition, when they started coming back into the world,
 mutated by their millenia in darkness and with a desire to rebuild their former
 empire.
 
@@ -94,9 +94,9 @@ Their rampant plundering of ancient ruins also places them in direct opposition
 to the Iliyanbruen Guardian, Heir of Delzoun, and the Uthgardt Barbarian. The
 book says they are definitely guilty of stealing those eladrin relics, but it's
 less definitive about their role in plundering the Uthgardt barrow - that could
-have been the Thayans depending on what the GM desires. Even so, their control of
-the Gray Wolves will still make them cross paths with both the Barbarian and the
-Pack Outcast.
+have been the Thayans depending on what the GM desires. Even so, their control
+of the Gray Wolves will still make them cross paths with both the Barbarian and
+the Pack Outcast.
 
 ## Relationships
 
