@@ -57,15 +57,15 @@ an effort to keep it at a level that's beneath his notice, occasionally blaming
 and punishing one of his underlings to get things to simmer back down for a
 while.
 
-The discontent aimed at New Neverwinter goes beyond just complaints about taxing
-or policing, too. Those brave holdouts and their descendants are upset at the
-"newcomer" who waltzed in and claimed credit for a lot of what they did over
-those decades. Before Neverember arrived, it was them who kept the city
-minimally habitable, and it was them who crewed the Wall that separates it from
-the Chasm and its endless outpour of monsters. The Sons of Alagondar see him as
-a foreign occupier and call him Lord Pretender. If your PCs want to brawl with a
-guard patrol, saying those words within earshot of them is the best way to do
-so.
+The discontent aimed at New Neverwinter goes beyond just complaints about taxes
+or policing. Those brave holdouts and their descendants are upset at the
+"newcomer" who waltzed in and claimed credit for a lot of what they did over the
+past decades. Before Neverember arrived, it was them who kept the city minimally
+habitable, and it was them who crewed the Wall that separates it from the Chasm
+and its endless outpour of monsters. The Sons of Alagondar in particular see him
+as a foreign occupier and call him Lord Pretender. If your PCs want to brawl
+with a guard patrol, saying those words within earshot of them is the best way
+to do so.
 
 ### The Hall of Justice
 
@@ -90,8 +90,6 @@ policies of his government from his throne-room-like office, though he leaves
 the day-to-day running of the city to Mayor Soman Galt and General Sabine (who
 also take the blame for failed policies).
 
-#### Player Tie-Ins
-
 A text box here says Neverember will make a big show of befriending almost all
 PCs when he first meets them. He will demonstrate interest in their goals but
 won't actually do anything concrete to help unless doing so also advances his
@@ -101,31 +99,41 @@ and that initial friendship will quickly sour if the PCs prove uncooperative.
 And of course, any PC with the Neverwinter Noble theme is very likely to enter
 his shit list immediately.
 
-### The Moonstone Mask
+### The Moonstone and Other Earthmotes
 
-Another location that was important in the computer games, the Moonstone Mask
-went through several changes in the intervening century. During the Spellplague,
-the land around this fancy inn got turned into a floating earthmote, detaching
-from the ground and floating away. The owners managed to lash it to the city's
-port using ropes and enormous chains, and reopened for business boasting of the
-new incredible view from its windows.
+There are three earthmotes in Neverwinter. These were created by the
+Spellplague, and became fixtures in the city's skyline long before the
+eruption.
 
-The place was mostly spared from the cataclysm but fell on hard times since
-there was no one left who both wanted and could afford to patronize it. It
-turned into a "festhall" (a brothel) in an attempt to draw more customers, but
-eventually had to shut its doors.
-
-A few years ago, a half-elf named Liset Cheldar arrived claiming to be a
-returning native of the city and heir to the earthmote where the inn is located
-(which was named the Moonstone). The claim was a little iffy but Neverember
-still gave her ownership of the place and funded its reopening. Now Liset repays
-the favor by housing a large number of Mintarn mercenaries. They take up most
-rooms and a bunch of them can be found in the tavern part at all hours, dragging
-the atmosphere down and picking fights with non-merc patrons.
+The first as the Moonstone, so called because it's the current site of the
+Moonstone Mask. Another familiar location from the computer games, this fancy
+inn fell on hard times and shut its doors after the cataclysm. About five years
+ago it reopened under new management, with some financial help from
+Neveremeber. Liset Cheldar, the current owner, repays him by housing a large
+number of Mintarn mercenaries in her establishment. They take up most rooms and
+a bunch of them can be found in the tavern part at all hours, dragging the
+atmosphere down and picking fights with non-merc patrons. The Moonstone is
+lashed to the docks with heavy chains, and connected by a bridge.
 
 The book suggests making Liset the puppet of one of the other factions, but I
 think that's a bit too cliche to make the pretty and flirty woman a secret
 monster. The inn is already dangerous enough with all the mercs in it.
+
+The southernmost earthmote is called Fisher's Float, and it's home and workplace
+to a small community of fishers that have lived there since before the
+cataclysm. Their catch provides a great deal of food to the city, though their
+isolated location often gives rise to rumors of sinister goings-on. They're
+_probably_ not true, unless the GM decides otherwise.
+
+The mote that flies the highest and furthest from town is the Pirate's
+Skyhold. A gang of sky pirates used it as a base because it's impossible to
+reach without flight. One night, though, the pirates apparently all killed each
+other in a frenzy of betrayal, leaving the island deserted. Their skyship, and
+all of their treasure, are rumored to have stayed there intact - though other
+rumors say that a dragon made the island its lair after a while. You can still
+see the ruins of wooden buildings poking out of this island's forested slopes,
+but it remains inaccessible to most. The GM is explicitly encouraged to make
+this place into a cool aerial dungeon of their own design.
 
 
 ### The Wall
@@ -147,9 +155,9 @@ fields several daily petitions for expanding the Wall further.
 
 Guarding the Wall and repelling plaguechanged assaults is one of the quickest
 ways to win the hearts and minds of the city's inhabitants. The increasing
-fiction between the mercs who make up most of the guard forces and the hardened
-native veterans who refuse to abandon their sacred duty can also be a source of
-many plot hooks.
+friction between the mercs who make up most of the guard forces and the hardened
+native veterans who refuse to abandon their posts can also be a source of many
+plot hooks.
 
 ### The House of Knowledge
 
@@ -170,8 +178,8 @@ By default, Atlavast is ornery but not evil. He'll be very happy to see Oghma's
 Faithful, for example, though he will insist on testing them and any other PCs
 to see if they're worthy of the archives. If they do manage to befriend him, he
 can be a great help when exploring the library. Optionally, he might be in
-thrall to the aboleths (like the rest of the priests over at Helm's Hold), but
-it should be possible to free and redeem him.
+thrall to the aboleths (like the rest of the priests over at Helm's Hold), and
+must be freed before he can become an ally.
 
 The surface levels of the temple, long abandoned, have been taken over by a
 group of squatters which decided to make themselves useful by serving as
@@ -185,36 +193,38 @@ devil.
 
 This huge graveyard was in use for centuries until the cataclysm, when the vast
 expanse of graves and mausoleums was wracked by tremors. Some sections of it
-sunk, others rose up as cliffs, and all of this exposed graves and underground
-crypts, causing coffins and bones to tumble about.
+sunk, others rose up, and these convulsions exposed graves and underground
+crypts, causing coffins and bones to tumble about the whole area.
 
 The current inhabitants of the city fear this place. The Mintarn mercs burn dead
 bodies outside the city walls instead of burying them here. It's not uncommon
 for unburied bodies on or near the cemetery to rise as undead of their own
 accord.
 
-It doesn't help that the Thayans have a major base in here, and are using it as
-major source of bodies for reanimation. The place also contains a shadow
-crossing into Evernight, and Valindra has built a teleportation circle here to
-make use of it.
+It doesn't help that the Thayans have a major secret base in here, and are using
+it as their main source of bodies for reanimation. The place also contains a
+shadow crossing into Evernight, and Valindra has built a teleportation circle
+here to make use of it.
 
 The Netherese are aware of the shadow crossing and one of their goals is to
 destroy it or otherwise deny it to Valindra. They want to be discreet about it,
 though, and don't want to jeopardize their project to raise Xinlenal.
 
-#### Waterclock Crypts
+### Waterclock Crypts
 
 Neverwinter was once known for the amazing quality of its water clocks. The
-guild responsible for making them built this crypt to inter its dead. It's
-filled with clever traps and engines using water clock technology and elemental
-magic. Hidden here is the laboratory of its founder, who first arrived in the
-city coming from Luskan with a cartload of stolen magic knowledge. Among that
-knowledge are notes on the original ritual that bound Maegera.
+guild responsible for making them built this crypt to inter its dead. Located
+somewhere inside Neverdeath, it's filled with clever traps and engines built
+using hydraulics and elemental magic. Hidden here is the laboratory of its
+founder, who first arrived in the city coming from Luskan with a cartload of
+stolen magic knowledge. Among that knowledge are notes on the original ritual
+that bound Maegera.
 
-A vein of elemental magic runs through the crypt and provides a link between
-Luskan and Gauntlgrym. Following it could be one way in which the PCs find the
-lost city. Of course, they need to get through all the undead and Thayans up
-above, as well as whatever defenses this place has.
+An underground vein of elemental magic that links Luskan and Gauntlgrym passes
+through the crypt - it's why the founder's lab was built here. Following the
+vein could be one way in which the PCs find the lost city. Of course, they need
+to get through all the undead and Thayans up above, as well as whatever defenses
+this place has.
 
 ### The Docks
 
@@ -225,7 +235,9 @@ feeling Neverember only cares about it to the extend that it impedes trade.
 
 Also here is the Tarmalune Trade House, belonging to a merchant guild from
 Returned Abeir (the new continent a ways off to the northwest of
-Neverwinter). They're in need of adventurers for all sorts of traditional quests
-without many ties to the campaign's larger plots, and would just love to
-befriend any PCs that have strong ties to Waterdeep, since that could give them
-an way into that city's markets.
+Neverwinter). In what might be an unexpected development, they're just a normal
+trading house who can offer supplies and filler quests to our
+protagonists. Their goal is entirely mundane: to form commercial ties with the
+very lucrative markets at Waterdeep. They'll be extra-friendly towards any PCs
+that have ties to the nobility of that city, like the Neverwinter Noble or the
+Devil's Pawn.

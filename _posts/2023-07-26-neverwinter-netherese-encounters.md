@@ -45,7 +45,7 @@ constructs known as Thaalud Tomb Trappers. The Constructor is a modern design
 based on those, weaker but easier to make.
 
 That's all the lore we get for this monsters. Since I don't know anything about
-tomb trappers I'm forced to speculate based on their stat. I'm thinking they're
+tomb trappers I'm forced to speculate based on their stats. I'm thinking they're
 huge eyeless humanoid statues, and quite a bit smarter than your typical
 mindless construct.
 
@@ -60,7 +60,8 @@ smaller creature grabbed, it can throw it at someone else with **Hurl Foe**, a
 ranged attack that damages both the target and the "ammunition". On a hit, the
 target is pushed 1 square and knocked prone, and the hurled PC falls prone on
 the target's former space. On a miss both take half damage and the thrown
-character falls prone adjacent to the target.
+character falls prone adjacent to the target. I gotta say "grab and yeet" sounds
+like a very fun combat style.
 
 When a constructor is destroyed it **Collapses into rubble**, attacking a Close
 Burst 1 around itself and turning that area into a zone of difficult terrain
@@ -108,6 +109,7 @@ once in a fight.
 This has less custom stat blocks than some of the other factions, so you'll be
 mostly relying on the encounter table and shade versions of natural
 critters. Still, the custom stat blocks we do get are fun, and it looks like
-Clariburnus is a genuine Forgotten Realms big shot who would normally get an
-epic-level stat block. This book does deliver on its promise of giving the PCs
-the chance to have an impact in the world during Heroic tier.
+Clariburnus is a genuine Forgotten Realms big shot who would probably get an
+epic-level stat block in a more traditional FR setting book. I love it that he's
+"within reach" of a heroic-tier party here. His stats make for a very
+interesting fight, though you should also give him an honor guard.
