@@ -6,9 +6,137 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Jul 2023 10:34:11 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Jul 2023 10:34:11 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Jul 2023 16:54:51 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2023 16:54:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Neverwinter: Netherese Encounters</title>
+        <description>&lt;p&gt;The encounter table for the Netherese is packed with shadow-themed
+opponents. There are a few humans here and there, but also a lot of shadar-kai,
+and Dark Ones, and a few new options to turn any of these into Shades. Since
+they’re a magic-heavy faction the table also includes a few constructs and bound
+incorporeal undead.&lt;/p&gt;
+
+&lt;h2 id=&quot;shades&quot;&gt;Shades&lt;/h2&gt;
+
+&lt;p&gt;Shades are creatures that absorbed so much of the Shadowfell’s ambient magic
+that they mutated. They can also be born from otherwise “mundane” creatures who
+absorbed that energy. As you might expect a lot of the Shadovar fit this
+description.&lt;/p&gt;
+
+&lt;p&gt;There are two ways to turn a monster stat block into a Shade. The Forgotten
+Realms’ campaign setting has a monster template that turns a regular monster
+into an elite shade. And this book presents a theme that adds appropriate powers
+to an existing creature without upgrading its “quality”.&lt;/p&gt;
+
+&lt;p&gt;The theme changes the base creature’s origin to Shadow, adds Darkvision and
+Vulnerable 5 radiant and also these three abilities:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Regeneration&lt;/strong&gt; 5, which shuts down for a turn when the creature takes
+radiant damage.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Coalescing Darkness&lt;/strong&gt;, a trait that gives the shade total concealment for a
+turn whenever it moves 3 or more squares by any means.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shadow Stride&lt;/strong&gt;, an encounter power that takes a move action and lets the
+shade teleport up to &lt;em&gt;20&lt;/em&gt; squares, but requires that the destination space be
+in dim light or darkness.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;thaalud-constructor&quot;&gt;Thaalud Constructor&lt;/h2&gt;
+
+&lt;p&gt;One of the most fearsome security measures in Netherese tombs and ruins are the
+constructs known as Thaalud Tomb Trappers. The Constructor is a modern design
+based on those, weaker but easier to make.&lt;/p&gt;
+
+&lt;p&gt;That’s all the lore we get for this monsters. Since I don’t know anything about
+tomb trappers I’m forced to speculate based on their stats. I’m thinking they’re
+huge eyeless humanoid statues, and quite a bit smarter than your typical
+mindless construct.&lt;/p&gt;
+
+&lt;p&gt;A constructor is a Huge Natural Animate with the Blind and Construct keywords,
+and a Level 5 Elite Brute with 154 HP. It’s immune to poison, blindness, and
+gaze attacks, and has Resist 5 to cold, fire, and lightning. It perceives the
+world with Blindsight 20.&lt;/p&gt;
+
+&lt;p&gt;It attacks with &lt;strong&gt;Mauling Fists&lt;/strong&gt; that damage and grab on a hit (escape DC 15),
+and can make &lt;strong&gt;double attacks&lt;/strong&gt; with them. If the constructor has a Large or
+smaller creature grabbed, it can throw it at someone else with &lt;strong&gt;Hurl Foe&lt;/strong&gt;, a
+ranged attack that damages both the target and the “ammunition”. On a hit, the
+target is pushed 1 square and knocked prone, and the hurled PC falls prone on
+the target’s former space. On a miss both take half damage and the thrown
+character falls prone adjacent to the target. I gotta say “grab and yeet” sounds
+like a very fun combat style.&lt;/p&gt;
+
+&lt;p&gt;When a constructor is destroyed it &lt;strong&gt;Collapses into rubble&lt;/strong&gt;, attacking a Close
+Burst 1 around itself and turning that area into a zone of difficult terrain
+that lasts until the end of the encounter. Note that the creature is Huge, so
+this zone is 4 squares on a side.&lt;/p&gt;
+
+&lt;h2 id=&quot;clariburnus-tanthul-prince-of-shade&quot;&gt;Clariburnus Tanthul, Prince of Shade&lt;/h2&gt;
+
+&lt;p&gt;The Shadovar are ruled by the Twelve Princes of Shade, Netherese mages who were
+witnesses to the fall of their empire and managed to stay alive(-ish) to the
+present day. Clariburnus Tanthul is one of these Twelve.&lt;/p&gt;
+
+&lt;p&gt;Contrary to all expectations, he’s not undead! Tanthul is an ancient living
+shade, and is described as retaining more of his original humanity than the
+other Princes. Still, he’s a merciless manipulator with no concept of honor,
+breaking his promises as casually as he breathes.&lt;/p&gt;
+
+&lt;p&gt;Clariburnus Tanthul is a Medium Shadow Humanoid and a Level 10 Elite Skirmisher
+with 158 HP. He has a Speed of 7 and both Blindsight 10 and Darkvision. His
+traits resemble those of the Shade theme above but they’re custom and more
+powerful.&lt;/p&gt;
+
+&lt;p&gt;His &lt;strong&gt;Benighted Presence&lt;/strong&gt; acts as an aura (5) that turns bright light dim, and
+his &lt;strong&gt;Regeneration&lt;/strong&gt; heals 15 HP per turn, though it’s still shut down for a
+turn by radiant damage.&lt;/p&gt;
+
+&lt;p&gt;He wields a scimitar named &lt;strong&gt;Gloom Crescent&lt;/strong&gt;, which can make basic attacks and
+is also used for the &lt;strong&gt;Severing Shadows&lt;/strong&gt; technique. This lets him make 2 basic
+attacks (3 if bloodied), teleporting 5 squares before each one. If he hits the
+same target twice that target also takes 5 ongoing force damage (save
+ends). This worsens to 10 ongoing force damage and blindness after the first
+failed save (save ends both).&lt;/p&gt;
+
+&lt;p&gt;Once per encounter he can use a ranged spell named &lt;strong&gt;By Night Consumed&lt;/strong&gt;, which
+deals necrotic damage and &lt;em&gt;removes the target from play&lt;/em&gt; (save ends). A miss
+deals half damage and dazes (save ends). Nasty!&lt;/p&gt;
+
+&lt;p&gt;His &lt;strong&gt;Shadow Stride&lt;/strong&gt; lets him teleport 5 squares regardless of light
+conditions, which increases to 10 if the destination is in darkness. It’s also a
+(Recharge 4+) ability instead of an encounter power, so he can use it more than
+once in a fight.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;This has less custom stat blocks than some of the other factions, so you’ll be
+mostly relying on the encounter table and shade versions of natural
+critters. Still, the custom stat blocks we do get are fun, and it looks like
+Clariburnus is a genuine Forgotten Realms big shot who would probably get an
+epic-level stat block in a more traditional FR setting book. I love it that he’s
+“within reach” of a heroic-tier party here. His stats make for a very
+interesting fight, though you should also give him an honor guard.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/07/26/neverwinter-netherese-encounters.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/26/neverwinter-netherese-encounters.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read the Neverwinter Campaign Setting: Netherese</title>
@@ -1512,132 +1640,6 @@ manage to corner her.&lt;/p&gt;
         <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/07/07/neverwinter-absov-encounters.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/07/neverwinter-absov-encounters.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dnd4</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Abolethic Sovereignity</title>
-        <description>&lt;p&gt;As mentioned before, one of the things the Spellplague did a century ago was to
-bring parts of the world of Abeir into Toril, and vice-versa. These transplanted
-chunks of geography also brought whoever happened to be living on them. And one
-of these whoevers was the Abolethic Sovereignity, a kingdom ruled by these
-aberrant creatures.&lt;/p&gt;
-
-&lt;p&gt;Shortly after arriving, the Sovereignity built a flying citadel named Xxiphu to
-act as their headquarters. Interested in studying the phenomenon that isekaied
-them, the aboleths started searching for pockets of the chaotic magic that makes
-up the Spellplague and sending in research teams to investigate them.&lt;/p&gt;
-
-&lt;p&gt;One of the pockets they found was in the Underdark beneath Neverwinter. A branch
-of the Sovereignity built a permanent base around it and have been studying it
-for the past few decades, occasionally kidnapping people from the surface to
-serve as test subjects.&lt;/p&gt;
-
-&lt;p&gt;When the eruption happened, it opened a chasm on the surface that went all the
-way down to the aboleth base, potentially exposing it to curious delvers from
-the surface. Moving the base was not an option, so they instead fortified it and
-began sending the results of their early experiments up the chasm as a way to
-discourage explorers. This worked for a long time, since the city was a mess.&lt;/p&gt;
-
-&lt;p&gt;When Neverember arrived and began rebuilding, the aboleths felt threatened and
-began taking more active steps to divert the lord’s attention elsewhere and to
-infiltrate his organization.&lt;/p&gt;
-
-&lt;h2 id=&quot;goals&quot;&gt;Goals&lt;/h2&gt;
-
-&lt;p&gt;After a century of research the aboleths have a pretty good handle on the
-properties of the Spellplague, and they have a planned use for it.&lt;/p&gt;
-
-&lt;p&gt;You see, they know where Maegera is. Their entry in the book off-handedly
-remarks that it was a brief awakening of the primordial that caused that
-city-destroying eruption. The AbSov’s ultimate plan is to expose the primordial
-to the Spellplague, using the techniques they developed to then dominate her
-mind or control her in some other fashion. With a genuine primordial under their
-command, the Sovereignity has a real shot at taking over the whole world.&lt;/p&gt;
-
-&lt;p&gt;In the meantime, they’re using that expertise on a steady stream of victims
-brought from the surface by their agents. These unfortunates are exposed to the
-Spellplague in a controlled manner. Those who fail to display the proper
-strength of mind and soul after initial exposure to the Plague become the
-monsters regularly released upon the surface. Those who pass this test are then
-subject to a very specific series of tortures and procedures that turn them into
-near-mindless members of the Choir that sings the Symphony of Madness.&lt;/p&gt;
-
-&lt;p&gt;This Symphony can channel the chaotic energies of the Spellplague in ways that
-the aboleths can control, and it’s what they use to mutate their kidnapped
-victims. They also use it to broadcast nightmares all over the region, which
-afflict its more psychically sensitive individuals. The stronger it gets the
-more people are affected. This could eventually be the tool they use to tame
-Maegera, or could lead to the development of that tool depending on the GM’s
-designs.&lt;/p&gt;
-
-&lt;h2 id=&quot;player-tie-ins&quot;&gt;Player Tie-Ins&lt;/h2&gt;
-
-&lt;p&gt;The nightmares mentioned in the descriptions of Oghma’s Faithful and the
-Spellscarred Harbinger come from the Symphony of Madness. The latter in
-particular has very strong thematic ties to the AbSov - their starting hook
-sends the PC right into their clutches, as we’ll see soon.&lt;/p&gt;
-
-&lt;p&gt;If the GM decides to make the AbSov a major antagonist in the campaign, then the
-Symphony’s nightmares will likely begin affecting more and more people. Its
-effects are not set in stone, but the book gives various suggestions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;They might make victims irritable and violent.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They might drain healing surges after a long rest.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They might impost long-lasting penalties from lack of sleep or psychological
-trauma.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They might provide hints about where to find their source.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Stepping up the frequency or severity of these effects over the course of the
-campaign will provide a very strong incentive for PCs to find the source of
-these dreams and shut it down, leading to a big confrontation against the AbSov
-in their home base.&lt;/p&gt;
-
-&lt;p&gt;One way the PCs might protect themselves from the nightmares is to buy these
-creepy little dolls sold by Helm’s Hold. If you place one of these Dreamthief
-Dolls under your pillow at night, you won’t experience the nightmares. Rumor has
-it that the dolls send the nightmares they catch to the Hold’s patients, but
-Rohini, who runs the hospice at the Hold, says they’re just imbued with minor
-protective blessings (she’s lying; the rumors are true).&lt;/p&gt;
-
-&lt;h2 id=&quot;relationships&quot;&gt;Relationships&lt;/h2&gt;
-
-&lt;p&gt;We already know the AbSov is busily infiltrating New Neverwinter. Here we also
-learn that they sort of disdain the Ashmadai, because all of the cult’s attempts
-to infiltrate them have only fed them more converts (including Rohini). They are
-however more circumspect when dealing with the Thayans or the Netherese, because
-they fear the powerful magic those factions might be able to bring to bear if
-they call on their far-away epic bosses.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;This is a comparatively huge entry with an extensive encounters section, as
-we’ll see in the next post. This leads me to think the Aboleths are intended to
-be one of the campaign’s top antagonists. A campaign where you start opposing
-(or even working for) New Neverwinter and uncover the aboleth conspiracy seems
-to be an easy one to make with the book’s default setup.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/05/neverwinter-abolethic-sovereignity.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/05/neverwinter-abolethic-sovereignity.html</guid>
         
         <category>lets-read</category>
         
