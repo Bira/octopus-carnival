@@ -12,24 +12,19 @@ several stories about how it got that name, but the most popular one is that it
 was from the warm waters of that river, which prevent the delta from freezing
 during winter and so keep its port viable year-round.
 
-A lot of present-day Neverwinter's national identity is based on the fabled
-reign of Nasher Alagondar, a former adventure who became the city's ruler around
-150 years ago. While some of the details were lost to time and to the
-Spellplague, he was said to be a devout follower of Tyr, who was god of justice
-in those days. Nasher never named himself king, though his descendants would
-eventually accept the title and continue to rule the city well. Their line was
-ostensibly unbroken until the cataclysm 27 years ago, when the last of them died
+Comparing the book and the computer games, I see present-day inhabitants of
+Neverwinter have a somewhat romanticized view of Nasher Alagondar, the former
+adventurer who ruled the city about 150 years before this campaign starts. He
+was an effective ruler, though, and his descendants formed a dynasty that
+remained unbroken until the cataclysm 27 years ago, when the last of them died
 or vanished.
 
-(Lord Nasher is the city's ruler during both Neverwinter Nights games, where
-he's depicted as a very pragmatic True Neutral individual, so the view above is
-somewhat romanticized.)
-
 The cataclysm wrecked the city, opening a huge chasm that destroyed its
-southeastern quadrant. Most of the citizens who didn't die left as refugees, and
-only a minority of holdouts decided to stay and protect their ancestral
-homes. They built a makeshift wall to isolate the Chasm and its monsters from
-the rest of the city, and soon began to see its defense as a sacred duty.
+southeastern quadrant and began to vomit forth mutated monstrosities. Most of
+the citizens who didn't die left as refugees, and only a minority of holdouts
+decided to stay and protect their ancestral homes. They built a makeshift wall
+to isolate the Chasm and its monsters from the rest of the city, and soon began
+to see its defense as a sacred duty.
 
 Lord Neverember arrived nearly ten years ago at the head of an army of
 carpenters and builders, protected by a mercenary force from Mintarn. Around
@@ -38,6 +33,10 @@ taking up the southwestern quadrant of the city, which he declared safe for
 occupation. There were already people living all over the city, but the
 establishment of the Enclave opened the way for refugees to return and for new
 immigrants to come seeking new opportunities.
+
+The people of Neverwinter, then, can be split into two demographic groups: the
+"holdouts" who never left the city, and the "newcomers" who arrived or returned
+after Neverember declared it once again open for business.
 
 ## The Enclave
 
@@ -57,31 +56,30 @@ an effort to keep it at a level that's beneath his notice, occasionally blaming
 and punishing one of his underlings to get things to simmer back down for a
 while.
 
-The discontent aimed at New Neverwinter goes beyond just complaints about taxes
-or policing. Those brave holdouts and their descendants are upset at the
-"newcomer" who waltzed in and claimed credit for a lot of what they did over the
-past decades. Before Neverember arrived, it was them who kept the city minimally
-habitable, and it was them who crewed the Wall that separates it from the Chasm
-and its endless outpour of monsters. The Sons of Alagondar in particular see him
-as a foreign occupier and call him Lord Pretender. If your PCs want to brawl
-with a guard patrol, saying those words within earshot of them is the best way
-to do so.
+There's discontent aimed at Neverember from a lot of sides. The holdout
+population dislikes him because he's taking credit for much of their work, and
+sidelining them in his new government. The newcomers see him in a better light
+but still dislike the heavy taxes and oppressive mercs. Those who like him
+usually also like the whole New Neverwinter rhetoric and say the harsh measures
+and heavy taxes are needed to keep the city's restoration going.
+
+The Sons of Alagondar in particular see him as a foreign occupier and call him
+Lord Pretender. If your PCs want to brawl with a guard patrol, saying those
+words within earshot of them is the best way to do so.
 
 ### The Hall of Justice
 
 This is a former temple of Tyr, the god of justice. Tyr was seen as the city's
 patron deity until his death during the Spellplague, and its inhabitants refused
-to convert the temple to serve another god even after that. If you played the
-first Neverwinter Nights game you might recognize this as your quest hub during
-Act 1. It sits atop a seaside bluff overlooking both the city and the sea.
+to convert the temple to serve another god. If you played the first Neverwinter
+Nights game you might recognize this as your quest hub during Act 1. It sits
+atop a seaside bluff overlooking both the city and the sea.
 
-Neverember chose it as his headquarters both because it had stayed mostly intact
-after the cataclysm, and because Neverwinter's citizens still see it as an
-important symbol of the city. He had it restored to its old splendor, and
-sponsors a group of priests of Torm who regularly perform rituals following the
-old Tyrran tradition here. While many people see this move in a positive light,
-the Sons of Alagondar claim Neverember's presence defiles the temple and call it
-the "Hall of Never-Justice".
+Neverember had it restored to its old splendor, and sponsors a group of priests
+of Torm who regularly perform rituals following the old Tyrran tradition
+here. While many people see this move in a positive light, the Sons of Alagondar
+claim Neverember's presence defiles the temple and call it the "Hall of
+Never-Justice".
 
 Neverember himself lives in the former high priest's quarters, which he
 decorated in the manner of Waterdeep while still taking care not to display that
@@ -122,8 +120,8 @@ monster. The inn is already dangerous enough with all the mercs in it.
 The southernmost earthmote is called Fisher's Float, and it's home and workplace
 to a small community of fishers that have lived there since before the
 cataclysm. Their catch provides a great deal of food to the city, though their
-isolated location often gives rise to rumors of sinister goings-on. They're
-_probably_ not true, unless the GM decides otherwise.
+isolated location often gives rise to rumors of sinister goings-on. They're just
+rumors unless the GM decides otherwise.
 
 The mote that flies the highest and furthest from town is the Pirate's
 Skyhold. A gang of sky pirates used it as a base because it's impossible to
@@ -217,8 +215,8 @@ guild responsible for making them built this crypt to inter its dead. Located
 somewhere inside Neverdeath, it's filled with clever traps and engines built
 using hydraulics and elemental magic. Hidden here is the laboratory of its
 founder, who first arrived in the city coming from Luskan with a cartload of
-stolen magic knowledge. Among that knowledge are notes on the original ritual
-that bound Maegera.
+stolen magic knowledge. Its library contains all of that knowledge and more,
+including notes on the original ritual that bound Maegera.
 
 An underground vein of elemental magic that links Luskan and Gauntlgrym passes
 through the crypt - it's why the founder's lab was built here. Following the
@@ -230,8 +228,9 @@ this place has.
 
 Rebuilding the docks was one of Neverember's greatest priorities. Trade with the
 rest of the world has resumed, and the lord makes a pretty penny charging
-tariffs on it. There's lots of crime and corruption here as well, but I get the
-feeling Neverember only cares about it to the extend that it impedes trade.
+tariffs on its cargo. There's lots of crime and corruption here as well, but I
+get the feeling Neverember only cares about it to the extend that it impedes
+trade.
 
 Also here is the Tarmalune Trade House, belonging to a merchant guild from
 Returned Abeir (the new continent a ways off to the northwest of

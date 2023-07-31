@@ -22,12 +22,12 @@ In the context of the Neverwinter campaign, this is kinda bad for the PCs
 because the Gray Wolves have been captivated by the Shadovar's honeyed words and
 recruited as their agents and shock troops. They expect to be citizens of their
 new world-spanning empire, and to be given dominion over all of the North's
-wilderness in exchange for this service.
+wilderness in exchange for their service.
 
 Fortunately, not all members of the tribe fell for this. Those that didn't were
 cast out and banded together into a group known as the Forsworn, who work to
 oppose the works of the Netherese. The Forsworn avoid fighting their own kin,
-but the Grey Wolves do not return the favor and kill them on sight now.
+but the Grey Wolves do not return the favor and try to kill them on sight.
 
 The book recommends using existing werewolf and shifter stat blocks when
 building encounters against Grey Wolves, and gives us stats for a Werewolf
@@ -38,12 +38,12 @@ for werewolves, with the ability to change shape and both weapon and infectious
 bite attacks. The stormcaller has ranged spells that do lightning or thunder
 damage.
 
-The Pack Outcast was among the first of the Gray Wolves to be exiled, since they
-didn't agree to join the Shadovar right at the start. The Forsworn were exiled
-after that, as the tribe's tactics became more and more violent. As the campaign
-start, dissidents are being executed instead of exiled. The Outcast has an easy
-in with the Forsworn as written, because the group as written will likely
-recognize the PC as being right all along.
+The Pack Outcast PC was among the first of the Gray Wolves to be exiled, since
+they didn't agree to join the Shadovar right at the start. The Forsworn were
+exiled after that, as the tribe's tactics became more and more violent. As the
+campaign start, dissidents are being executed instead of exiled. The Outcast has
+an easy in with the Forsworn as written, because the group will likely recognize
+the PC as being right all along.
 
 The book says the GM is free to make the Forsworn still be evil if they don't
 want the PCs allying with them, though I probably wouldn't do that. It leans too
@@ -87,7 +87,7 @@ city's priests of Corellon, and his influence is responsible for a lot of the
 recent upswing in violent sentiment among the eladrin.
 
 The encounter table for New Shandarar is made up of heroic-tier fey creatures:
-elves, eladrin, dryads, unicorns, treatns and lots of non-sapient fey
+elves, eladrin, dryads, unicorns, treants and lots of trained fey
 beasts. Addemios is statted up as Level 5 Artillery with ranged and area
 spells. He's far from the most powerful individual in this faction, so I'm
 guessing that getting them to back off would involve more than defeating

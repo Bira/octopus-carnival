@@ -33,13 +33,13 @@ actual Gauntlgrym factions, but they're not really organized enough to be called
 that. This is mostly a "new monster" entry. Looks like they made their debut in
 a Gauntlgrym-focused post in Dungeon 183.
 
-This entry says they're descended from a variety of predatory birds who were
-lost and trapped in the Underdark a long time ago. The evolutionary pressure and
-uncanny radiation of the Underdark changed them into these monstrous
-humanoids. Their wings have been changed into powerful clawed arms, and their
-coal-black feathers blend into the darkness. They're predatory and ravenous,
-pulling themselves through narrow underground tunnels and viciously attacking
-anything that looks even remotely edible.
+This entry says they're descended from predatory birds who were lost and trapped
+in the Underdark a long time ago. The evolutionary pressure and uncanny
+radiation of the Underdark changed them into these monstrous humanoids. Their
+wings have been changed into powerful clawed arms, and their coal-black feathers
+blend into the darkness. They're predatory and ravenous, pulling themselves
+through narrow underground tunnels and viciously attacking anything that looks
+even remotely edible.
 
 Dire Corbies are Medium Natural Humanoids and Level 7 Brutes with 96 HP. They
 attack with **Gashing Beaks** that do immediate and ongoing damage, and when
@@ -49,8 +49,10 @@ half damage with no riders.
 
 Since they're classified as Humanoids and have an Int of 11, it might be
 possible that they could form more complex communities and interact with PCs in
-non-violent ways... but as written the typical dire corby is Chaotic Evil. Even
-if they weren't, the other factions are probably fond of enslaving them.
+non-violent ways... but as written the typical dire corby is Chaotic Evil and an
+enthusiastic cannibal. Even if they weren't, the stronger factions are fond of
+enslaving them, so the PCs would still end up fighting dire corbies when facing
+those groups.
 
 ## Mind Flayers
 
@@ -72,9 +74,9 @@ the aboleths funnel more and more Spellplague radiation to them, both the Elder
 Brain and its subordinate illithids are becoming more mutated. The brain knows
 what's going on, but it's become addicted to these energies and will keep
 obeying the aboleths in exchange for its regular fix. The individual mind
-flayers' perceptions are clouded, and they are incapable of perceiving their own
-mutations. They believe their orders are coming from the Elder Brain and are
-unaware of the aboleths calling the shots.
+flayers' perceptions are clouded, however. They believe all is business as
+usual and are incapable of perceiving their own mutations or discovering their
+elder brain is working for someone else.
 
 We get stats here for a **Plaguechanged Mind Flayer** (Level 8 Controller) and
 the **Plaguechanged Elder Brain** (Level 9 Elite Controller). They work a lot
@@ -96,7 +98,7 @@ ghosts and undead that plague other areas of the ruins.
 
 Only Kholzourl knows the expedition's real goal, which is actually left for the
 GM to determine (the book gives several options later). Regardless of that true
-goal, they have been profiting from the ore extracted from the Delzoun mines,
+goal, they have been profiting from the ores extracted from the Delzoun mines,
 which include iron, mithral, and a metal known as Hellthorn which takes
 remarkably well to enchantments based on infernal magic.
 
@@ -106,12 +108,12 @@ directly ordered to do so by a devil emissary of Asmodeus. The default reaction
 of the duergar to outsiders is "kill or enslave on sight": they're not here to
 do diplomacy.
 
-There is one tiny exception here: a duergar named Nimor Ironvoice found a tunnel
-leading from Gauntlgrym to the surface. He disguised himself, explored a bit,
-and found out about the Ashmadai. Now he has a profitable side gig smuggling
-small quantities of hellthorn up the well and selling it to the cult. He knows
-Kholzourl would punish him if he found out, and soon he will have to decide
-between severing his ties to the surface or turning against his fellow
+There is one notable exception here: a duergar named Nimor Ironvoice found a
+tunnel leading from Gauntlgrym to the surface. He disguised himself, explored a
+bit, and found out about the Ashmadai. Now he has a profitable side gig
+smuggling small quantities of hellthorn up the well and selling it to the
+cult. He knows Kholzourl would punish him if he found out, and soon he will have
+to decide between severing his ties to the surface or turning against his fellow
 duergar. He's hoping an infernal sign will tell him the way. And as we saw
 earlier Mordai Vell is also interested in finding out where he gets all that
 hellthorn from.
@@ -142,25 +144,26 @@ Artillery mage that uses lightning-based spells.
 
 These drow feel like an optional addition, and work best if you have a Bregan
 D'Aerthe spy in your party. If that's the case, they work well to tie that PC
-more strongly to the campaign's plot, since the PC and their organization would
-be very interested in preventing them from gaining control of a primordial. For
-added drama, they could have been the ones responsible for destroying the PC's
-drow house, or that of one of their friends. They've sent their own spies to the
-surface, so that can provide the party with an initial lead to follow.
+more strongly to the campaign's plot, since the Bregan would want to prevent a
+Drow house from gaining control of a primordial. For added drama, the Xorlarrin
+could have been the ones responsible for destroying the PC's own house, or that
+of one of their friends. They've sent their own spies to the surface, so that
+can provide the party with an initial lead to follow.
 
 ## The Fires Below
 
-Once more, this is less of a faction and more of a grab-bag of thematically
-related monsters. These are the elemental creatures that live beneath Mount
-Hotenow and usually feed on slumbering Maegera's ambient magic. They got very
-happy with her awakening and the volcano's eruption and some of them want to
-find a way to awaken her for good.
+This is less of a faction and more of a grab-bag of thematically related
+monsters. These are the elemental creatures that live beneath Mount Hotenow and
+usually feed on slumbering Maegera's ambient magic. They got very happy with her
+awakening and the volcano's eruption and some of them want to find a way to
+awaken her for good.
 
 Unlike most other groups with a similar goal, they don't intend to control the
 primordial once she's awake, but to serve her instead. I don't think they are
-likely to succeed at this, since they've been at it for 30 years with nothing to
-show for it. They're more intended as a group of secondary antagonists that you
-find on your way to Maegera's resting place.
+likely to succeed on their own, since they've been at it for 30 years with
+nothing to show for it. They're more intended as a group of secondary
+antagonists that you find on your way to Maegera's resting place... or as an
+additional complication if someone else _does_ manage to wake her up.
 
 The encounter table here is all about fire and/or earth elementals, and it goes
 up to level 14. We also get a couple of new stat blocks for salamanders.

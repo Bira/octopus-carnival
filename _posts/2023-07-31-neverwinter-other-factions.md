@@ -7,6 +7,10 @@ tags:
     - neverwinter
 ---
 
+Looks like I accidentally skipped a few posts when making my last update! So
+instead of going to chapter 04 now, we'll finish out chapter 03 and look at the
+minor factions over this and the next two posts.
+
 These factions are considered "minor" because they're either simpler, less
 powerful, or less involved in the region than the majors. Most don't have custom
 stat blocks associated with them, and even if they do I'll only spend time on
@@ -27,7 +31,7 @@ image.
 Their roster features rats, dire rats, and any low-level thug-types you can fit
 in, the latter of which can be boosted by a wererat theme pack that gives them
 regeneration, an infectious bite, and the ability to assume hybrid form. Rrost
-ists the stats for a **Wererat Mugger** introduced here, a Level 4 Brute with a
+uses the stats for a **Wererat Mugger** introduced here, a Level 4 Brute with a
 poisoned morningstar and a stronger bite than what's in the theme.
 
 The gang would love to kill the Dead Rat Deserter PC, and their ties to the
@@ -44,48 +48,49 @@ of seeing them realized before the PCs end the Rats' ambitions for good.
 
 The Sons of Alagondar are die-hard Neverwinter nationalists who believe the city
 should be independent of foreign control so that it can once again be the Jewel
-of the North and a bastion of goodness. They never left it while it was in
-ruins, and it's reasonable to assume they did a lot of the early reconstruction
-work before Neverember marched in with his mercs. As you might imagine, they
-vehemently oppose him.
+of the North and a bastion of goodness. They draw most of their membership from
+the holdout population of Neverwinter: those people who never left the city and
+spent twenty years protecting and rebuilting it before Neverember arrived with
+his mercs. As you might imagine, they vehemently oppose him.
 
 Until very recently their overall leader was a Harper named Cymril, who was
 brutally murdered under mysterious circumstances shortly before the start of the
-campaign. Her death split the Sons into two sub-factions along generational
-lines.
+campaign (as seen in the Harper Agent theme). Her death split the Sons into two
+sub-factions along generational lines.
 
-On one side you have the Nashers, who take their name from a fondly remembered
-Alagondar lord. These young rebels are willing to pay any cost to see a free
-Neverwinter and readily resort to violent actions like rioting, assassination
-and sabotage. Their leader is a firebrand named Arlon Bladeshaper.
+On one side you have the Nashers, who take their name from the first Alagondar
+lord (the one from the computer games). These young rebels are willing to pay
+any cost to see a free Neverwinter and readily resort to violent actions like
+rioting, assassination and sabotage. Their leader is a firebrand named Arlon
+Bladeshaper.
 
 On the other you have the older Graycloaks, who take their name from the old
 city militia. They see themselves as focusing on the big picture, with the
 city's welfare as their highest priority. They focus on building support and
-alliances with the population and other groups. They also try to infiltrate and
-influence Neverember's organization through bribery, blackmail, and secret
-deals. Their leader is the human mage Madame Rosene.
+alliances with like-minded groups and the city's population in general. They
+also try to infiltrate and influence Neverember's organization through bribery,
+blackmail, and secret deals. Their leader is the human mage Madame Rosene.
 
 (The Nashers call the Graycloaks "greyhairs", and the Graycloaks call the Nasher
 "gnashers". Also, there's a subsection here titled "Fractured but Whole", which
-I can never take seriously after seeing the cover for that South Park game.)
+I can never take seriously after learning about that South Park game.)
 
 It's the Nashers who decided to partner with and accept help from the Dead Rat
 gang and the Thayans. Bladeshaper was a bit leery of this at first but he
 quickly changed his mind once he saw his faction start racking up bigger
-victories against Neverember's forces. The Rats, of course, plan to take over
-the Sons and make them into an extension of their planned crime syndicate. The
-Thayans are using them to distract New Neverwinter from their own shenanigans
-and are happy to push their own agents and the Sons to ever greater heights of
-violence to that purpose.
+victories against Neverember's forces. The Rats, as mentioned before, plan to
+take over the Sons and make them into an extension of their planned crime
+syndicate. The Thayans are using them to distract New Neverwinter from their own
+shenanigans and are happy to push their own agents and the Sons to ever greater
+heights of violence to that purpose.
 
 The encounter table for the Sons is entirely composed of stat blocks belonging
 to typically playable ancestries, matching Neverwinter's demographics. Players
 who oppose the Sons will do well to play on their divisions, those who want to
 support them should focus on healing that same rift. Cymril's death nearly broke
 them completely, and finding the truth behind it would be a big goal in a
-campaign centering on the rebellion. As we saw in the Harper Agent's background,
-there's room for a variety of sinister explanations.
+rebellion campaign. As we saw in the Harper Agent's background, there's room for
+a variety of sinister explanations.
 
 ### Impressions
 
@@ -101,30 +106,30 @@ Making Neverwinter into the bastion of good it once was is also part of the
 Harper's mission statement, and they are generally better at sticking to it than
 the Sons, but they were broken even more thoroughly by Cymril's death. She was
 their highest ranking member in the area. With her gone, there are about a dozen
-members left, with two of them being full agents.
+members left, and only two of them are full agents.
 
 These local Harpers are pretty focused on opposing Neverember at the moment and
 are completely ignorant of the machinations of the Thayans, Netherese, or
 Aboleths in the area. It's unlikely they will find out on their own, but if they
-do they will instantly shift their focus to opposing these greater threats.
+learn through other means they will instantly shift their focus to opposing
+these greater threats.
 
-If the PCs manage to acquire a reputation as local heroes the Harpers might
-approach them and ask them to help the Sons of Alagondar get back on track. If
-one of the PCs is the Harper Agent, the Sons are unlikely to give them a pretty
-hostile reception.
+If the PCs manage to acquire a reputation as local heroes, the Harpers might
+approach them and ask them to help the Sons of Alagondar get back on track.
 
 ### Impressions
 
 The Harper presence in the city is larger than I was led to believe from reading
 the Harper Agent theme. My inclination is to only include them as written if the
-party doesn't have one or more PCs with that theme. If it does, then _they_ are
-the entirety of the Harper presence in the region.
+party doesn't have one or more PCs with that theme. If it does, then the PC is
+the sole Harper left in the region.
 
 ## Many-Arrows Orcs
 
 The orcs of the North usually stayed away from the Neverwinter area, because the
 city was hostile to them and they had many stories about how the surrounding
-woods were haunted. The cataclysm made them dismiss these myths.
+woods were haunted. They have recently dismissed these stories as myths and
+grown a little bolder and more curious.
 
 King Obould XVII of the Kingdom of Many-Arrows recently sent a scout force here
 with the mission to find what was going on and report back, but the force's
@@ -132,14 +137,14 @@ power-hungry commander far exceeded her orders and decided to push into the city
 and take over the Cloak Tower, claiming the surrounding territory in
 Neverwinter's ruined northern half as her own.
 
-If I remember correctly, Obould was depicted as a reasonable king who had the
-capability to turn his people away from their universally hostile ways and forge
-more peaceful bonds with his neighbors. Commander Vansi is none of those
-things. After taking over the Cloak Tower, she was approached by the aboleths
-and gladly accepted a "blessing" of the Spellplague to get stronger. There's a
-stat block for her here. She's a Level 6 Soldier (Leader) that fights with a
-flail and a spiked gauntlet. The Spellplague covered her in fiery bone spurs, so
-she loves to grapple.
+If I remember correctly, Obould was depicted elsewhere as a reasonable king who
+had the capability to turn his people away from their universally hostile ways
+and forge more peaceful bonds with his neighbors. Commander Vansi is none of
+those things. After taking over the Cloak Tower, she was approached by the
+aboleths and gladly accepted a "blessing" of the Spellplague to get
+stronger. There's a stat block for her here. She's a Level 6 Soldier (Leader)
+that fights with a flail and a spiked gauntlet. The Spellplague covered her in
+fiery bone spurs, so she loves to grapple.
 
 The encounter table for them is obviously all orcs all the time, with the
 occasional ogre or half-orc thrown in for variety.
@@ -151,6 +156,10 @@ evil" for why this group of orcs are hostile occupiers. Neverember has an open
 call for adventurers willing to help drive them out of town, and their
 connection to the AbSov might be what clues the PCs in to the presence of that
 faction.
+
+It's even possible that King Obould would _reward_ the PCs for dealing with the
+rogue detachment if you want to play up the newer, less hostile orcish
+civilization.
 
 ## Bregan D'Aerthe
 
@@ -165,4 +174,5 @@ informants. They have no elaborate goals for the area yet.
 
 Again, this feels like a minor faction I would only use if there are no Bregan
 Spy PCs in the party. If there are, then the PC is their sole representative in
-the region.
+the region. They appear again in a slightly more fun form in the upcoming
+locations chapter.
