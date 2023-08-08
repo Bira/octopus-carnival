@@ -56,17 +56,15 @@ a result of 10 or higher the other power is not expended.
 
 ## Iliyanbruen Fey
 
-This is the group the Iliyanbruen Guardian PC belongs to, and we saw a lot about
-them already. Here's a recap:
-
-As we saw earlier, they're descendants of eladrin who fled to the Feywild to
-survive the destruction caused on their kingdom by the fall of Xinlenal. When
-the barriers between worlds started thinning, they sent expeditions back to the
-place where they crossed, and found it occupied by evil fey. They drove those
-out, and build an outpost named New Shandarar on both sides of the portal. Then
-they explored their old ruins in the middle world and discovered that they had
-been ravaged by more than time and disuse - many of their sacred relics and
-cultural treasures had been plundered.
+This is the group the Iliyanbruen Guardian PC belongs to. As we saw earlier,
+they're descendants of eladrin who fled to the Feywild to survive the
+destruction caused on their kingdom by the fall of Xinlenal. When the barriers
+between worlds started thinning, they sent expeditions back to the place where
+they crossed, and found it occupied by evil fey. They drove those out, and built
+an outpost named New Shandarar on both sides of the portal. Then they explored
+their old ruins in the middle world and discovered that they had been ravaged by
+more than time and disuse - many of their sacred relics and cultural treasures
+had been plundered.
 
 The expeditionary force made it their mission to recover what was stolen. All of
 them are pretty angry about this: the main difference is some of them are angry
