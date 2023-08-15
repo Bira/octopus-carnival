@@ -114,9 +114,8 @@ bit, and found out about the Ashmadai. Now he has a profitable side gig
 smuggling small quantities of hellthorn up the well and selling it to the
 cult. He knows Kholzourl would punish him if he found out, and soon he will have
 to decide between severing his ties to the surface or turning against his fellow
-duergar. He's hoping an infernal sign will tell him the way. And as we saw
-earlier Mordai Vell is also interested in finding out where he gets all that
-hellthorn from.
+duergar. He's hoping an infernal sign will tell him the way before either his
+boss or Mordai Vell discover the truth by themselves.
 
 The duergar get their own encounter table, which as expected is mostly made up
 of duergar from the MM2 and Monster Vault. Kholzourl gets a stat block, which is
@@ -135,20 +134,19 @@ male advisors. But it also has a full-on eugenics program where males are "bred
 for magical ability" and sacrificed if they turn out to lack it. So we're back
 on icky old-school drow territory here.
 
-The newest arrival to Gauntlgrym is a Xorlarrin expedition, and they're very
-specific after the sleeping primordial, with the eventual goal of getting
-control of it and using it to turn Gauntlgrym into a drow capital to rival
-Menzonberranzan. Their encounter table is all drow and unlike most others it
-goes up to level 14. We also get stats for a Drow Spellspinner, a Level 8
-Artillery mage that uses lightning-based spells.
+The newest arrival to Gauntlgrym is a Xorlarrin expedition. They're after the
+sleeping primordial, wanting to control it and use it to turn Gauntlgrym into a
+drow capital to rival Menzonberranzan. Their encounter table is all drow and
+unlike most others it goes up to level 14. We also get stats for a Drow
+Spellspinner, a Level 8 Artillery mage that uses lightning-based spells.
 
 These drow feel like an optional addition, and work best if you have a Bregan
 D'Aerthe spy in your party. If that's the case, they work well to tie that PC
-more strongly to the campaign's plot, since the Bregan would want to prevent a
-Drow house from gaining control of a primordial. For added drama, the Xorlarrin
-could have been the ones responsible for destroying the PC's own house, or that
-of one of their friends. They've sent their own spies to the surface, so that
-can provide the party with an initial lead to follow.
+more strongly to the campaign's "endgame", since the Bregan would want to
+prevent a Drow house from gaining control of a primordial. For added drama, the
+Xorlarrin could have been the ones responsible for destroying the PC's own
+house, or that of one of their friends. They've sent their own spies to the
+surface, so that can provide the party with an initial lead to follow.
 
 ## The Fires Below
 
@@ -163,7 +161,8 @@ primordial once she's awake, but to serve her instead. I don't think they are
 likely to succeed on their own, since they've been at it for 30 years with
 nothing to show for it. They're more intended as a group of secondary
 antagonists that you find on your way to Maegera's resting place... or as an
-additional complication if someone else _does_ manage to wake her up.
+additional complication if someone else _does_ manage to wake her up. Whoever
+ends up controlling Maegera will also get to order these creatures around.
 
 The encounter table here is all about fire and/or earth elementals, and it goes
 up to level 14. We also get a couple of new stat blocks for salamanders.
