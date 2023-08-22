@@ -79,7 +79,7 @@ funny face tattoos" to something that matches the description of DF Catfolk
 pretty much exactly.
 
 Khajit hail from the tropical region of Elsweyr (pronounced "Elsewhere"). This
-province is about equally split into an inland expanse or arid badlands, and a
+province is about equally split into an inland expanse of arid badlands, and a
 lush coastal region criss-crossed by extensive river basins. The former is
 inhabited by fierce nomadic warriors, the later by sugar cane plantation owners,
 farm workers, and urban merchants. Those plantations produce Moon Sugar, the
