@@ -7,11 +7,11 @@ tags:
     - neverwinter
 ---
 
-The Blacklake district, so named because it contains an actual lake, was also
-where most nobles of Neverwinter used to live. Pretty much all of them died in
-the fires of the cataclysm, but their very sturdy and well-built residences
-remained standing. They sheltered many of the city's survivors during the
-following decades, even though the lake became a fetid, ash-choked pool.
+The Blacklake district, named after the lake located here, was where most nobles
+of Neverwinter used to live. Pretty much all of them died in the fires of the
+cataclysm, but their very sturdy and well-built residences remained
+standing. They sheltered many of the city's survivors during the following
+decades, even though the lake became a fetid, ash-choked pool.
 
 Today, Blacklake is a rough-and-tumble place still largely outside of
 Neverember's control. His forces have begun moving in and attempting to extend
@@ -104,6 +104,6 @@ to talk to its owners or to raid them.
 
 Blacklake is not quite the "bad" part of town, but it definitely has a different
 atmosphere from the Enclave. I'd portray it with a more "frontier" feeling -
-it's a bit more dangerous, but also more free, and the residents' opinion of
-Neverember is significantly worse even when they aren't involved in organized
-resistance against him.
+it's a bit more dangerous and run-down, but also more free, and the residents'
+opinion of Neverember is significantly worse even when they aren't involved in
+organized resistance against him.
