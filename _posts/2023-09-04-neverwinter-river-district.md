@@ -58,11 +58,11 @@ when people walk under it their own shadows vanish as well. It does cast a
 shadow by the light of the moon, and even though no one was ever seen to enter
 or leave the place, eerie sounds sometimes echo from it.
 
-The tower used to be part of a temple of Selûne, but it was cut off and banished
-to the Shadowfell during a Netherese assault on that temple. After the battle,
-they found out they could control where the tower appeared in the world, so they
-sent it to Neverwinter during the Spellplague and left it there until the day
-when it was needed.
+The tower used to be part of a distant temple of Selûne, but it was cut off and
+banished to the Shadowfell during a Netherese assault on that temple. After the
+battle, they found out they could control where the tower appeared in the world,
+so they sent it to Neverwinter during the Spellplague and left it there until
+the day when it was needed.
 
 Now it is needed, and they're using it. The Shard's enchantments allow it to
 absorb shadows during the day and use them to power a teleportation circle
