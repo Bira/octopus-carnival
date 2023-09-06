@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-09-04 09:00:00 -03:00
 title: "Let's Read Neverwinter: River District"
 tags:
     - lets-read

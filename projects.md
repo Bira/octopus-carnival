@@ -42,6 +42,10 @@ In which I read a book or series of books and commentate on their content.
 - [Let's Read Threats to the Nentir Vale][9]: This is the last "proper" monster
   book published for 4e, and the last one I intend to cover for now.
 
+- [Let's Read the Neverwinter Campaign Setting!][10]: By popular demand, I began
+  a Let's Read of the Neverwinter Campaign setting, the last "proper" setting
+  for 4e and one that has quite a few interesting traits.
+
 ## Ready-to-Play Characters
 
 - [Pathfinder Iconics in Dungeon Fantasy][2]: A group of Pathfinder's Iconics
@@ -53,12 +57,13 @@ In which I read a book or series of books and commentate on their content.
 These links lead to project pages that in turn contain links to all relevant
 posts in order. Enjoy!
 
-[1]: {{ "/projects/dragons-dogma/" | absolute_url }}
-[2]: {{ "/projects/pathfinder-iconics/" | absolute_url }}
-[3]: {{ "/projects/gurps-xcom-reports/" | absolute_url }}
+[1]: {{ "/projects/dragons-dogma/" | relative_url }}
+[2]: {{ "/projects/pathfinder-iconics/" | relative_url }}
+[3]: {{ "/projects/gurps-xcom-reports/" | relative_url }}
 [4]: {{ "/projects/hells-rebels/" | relative_url }}
 [5]: {{ "/projects/mm-4e/" | relative_url }}
 [6]: {{ "/projects/df-characters/" | relative_url }}
 [7]: {{ "/projects/mm2-4e/" | relative_url }}
 [8]: {{ "/projects/mm3-4e/" | relative_url }}
 [9]: {{ "/projects/tnv/" | relative_url }}
+[10]: {{ "/projects/neverwinter/" | relative_url }}
