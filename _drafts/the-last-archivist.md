@@ -24,12 +24,10 @@ were everyday clothing, has a prominently displayed holy symbol attached to that
 armor.
 
 He does deviate from the stereotype in several ways which are not immediately
-obvious, though. He was born on the surface to parents who were themselves born
-on the surface, so a lot of his upbringing was influenced by the humans and
-elves and others he interacted with. He pays homage not to the usual dwarven
-gods, but to deities of luck and protectors of fools like Avandra and Cayden
-Cailean. His personality tends a lot more towards the jolly than the gruff,
-though you usually have to get to know him a bit to see that.
+obvious, though. He pays homage not to the usual dwarven gods, but to deities of
+luck and protectors of fools like Avandra and Cayden Cailean. His personality
+tends a lot more towards the jolly than the gruff, though you usually have to
+get to know him a bit to see that.
 
 Another thing about Urist that's not immediately obvious is that he was a member
 of the Sacred Order of Archivists, a secret society that was dedicated to
@@ -170,18 +168,19 @@ Basic Move 5 {-5};
 
 **Loadout**
 
-$1000, 44.63 lbs. Light encumbrance.
+$1000, 44.91 lbs. Light encumbrance.
 
 - Ordinary Clothing: $120; 2 lb.
 - Axe: $150; 4 lb.
 - Small Shield: $40; 8 lb.
+- Small Knife: Clan dagger. $30, 0.5 lb.
 - Light Cloth Armor Suit: Includes face protection. DR 1; $168, 20.1 lb.
 - Backpack, Small: $60; 3 lb.
   - First Aid Kit: $50; 2 lb.
   - Holy Symbol: $50; 1 lb.
   - 4 x Holy Water: $60; 4 lb.
 - Pouch: $10, 0.2 lb.
-  - Coins: half a gold piece, plus 4 silvers and 12 coppers. $292, 0.33 lb.
+  - Coins: half a gold piece, plus 3 silvers and 2 coppers. $262, 0.11 lb.
 
 **Combat**
 
