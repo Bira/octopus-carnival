@@ -14,6 +14,7 @@ ruby RUBY_VERSION
 gem 'nokogiri', '~> 1.14.3'
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
+gem 'webrick'
 gem 'rake'
 gem 'minima'
 

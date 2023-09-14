@@ -159,7 +159,7 @@ Basic Move 5 {-5};
 - **Healing**
   - Cleansing (H) IQ+1 {1} - 15
   - Cure Disease (H) IQ+1 {1} - 15
-  - Major Healing 14(IQ+0) {1}
+  - Major Healing (VH) IQ {1} - 14
   - Minor Healing (H) IQ+1 {1} - 15
   - Recover Energy (H) IQ+1 {1} - 15
   - Resist Disease (H) IQ+1 {1} - 15
