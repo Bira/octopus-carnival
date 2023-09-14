@@ -3402,6 +3402,265 @@
 			}
 		},
 		{
+			"id": "3c2b2f71-d00c-45fb-aa54-ce03e43aa5ab",
+			"type": "equipment",
+			"description": "Small Knife",
+			"reference": "DFA100",
+			"tags": [
+				"Melee Weapon",
+				"Missile Weapon"
+			],
+			"quantity": 1,
+			"value": 30,
+			"weight": "0.5 lb",
+			"weapons": [
+				{
+					"id": "02b9f1dd-8c01-4f29-8749-803bd65474c2",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-3"
+					},
+					"strength": "5",
+					"usage": "Swung",
+					"reach": "C,1",
+					"parry": "-1",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Sword!"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "7",
+						"block": "No",
+						"damage": "1d-1 cut"
+					}
+				},
+				{
+					"id": "18c44ca0-5219-4a62-9c05-8225fbe897ab",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr",
+						"base": "-1"
+					},
+					"strength": "5",
+					"usage": "Thrust",
+					"reach": "C",
+					"parry": "-1",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife"
+						},
+						{
+							"type": "skill",
+							"name": "Force Sword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Shortsword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Sword!"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"parry": "7",
+						"block": "No",
+						"damage": "1d-2 imp"
+					}
+				},
+				{
+					"id": "470df1ec-3d6a-4cce-b935-68f7778505e4",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "cut",
+						"st": "sw",
+						"base": "-3"
+					},
+					"strength": "5",
+					"usage": "Swung Main-Gauche",
+					"reach": "C,1",
+					"parry": "0F",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Main-Gauche"
+						},
+						{
+							"type": "dx",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Jitte/Sai",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Rapier",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Saber",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Smallsword",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Knife",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"level": 6,
+						"parry": "6F",
+						"block": "No",
+						"damage": "1d-1 cut"
+					}
+				},
+				{
+					"id": "ff384c78-38a5-4c86-a193-291071ffcd84",
+					"type": "melee_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr",
+						"base": "-1"
+					},
+					"strength": "5",
+					"usage": "Thrust Main-Gauche",
+					"reach": "C",
+					"parry": "0F",
+					"block": "No",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -5
+						},
+						{
+							"type": "skill",
+							"name": "Main-Gauche"
+						},
+						{
+							"type": "skill",
+							"name": "Jitte/Sai",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Knife",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Rapier",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Saber",
+							"modifier": -3
+						},
+						{
+							"type": "skill",
+							"name": "Smallsword",
+							"modifier": -3
+						}
+					],
+					"calc": {
+						"level": 6,
+						"parry": "6F",
+						"block": "No",
+						"damage": "1d-2 imp"
+					}
+				},
+				{
+					"id": "658b1f89-4a19-43ea-b52e-e10778ef4f6a",
+					"type": "ranged_weapon",
+					"damage": {
+						"type": "imp",
+						"st": "thr",
+						"base": "-1"
+					},
+					"strength": "5",
+					"usage": "Thrown",
+					"accuracy": "+0",
+					"range": "x0.5/x1",
+					"rate_of_fire": "1",
+					"shots": "T(1)",
+					"bulk": "-1",
+					"defaults": [
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Thrown Weapon",
+							"specialization": "Knife"
+						}
+					],
+					"calc": {
+						"level": 8,
+						"range": "6/12",
+						"damage": "1d-2 imp"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 30,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
 			"id": "e7062eb8-606f-4a9a-8ff2-cbb7751c278d",
 			"type": "equipment_container",
 			"open": true,
@@ -3732,13 +3991,13 @@
 					"tags": [
 						"Money"
 					],
-					"quantity": 4,
+					"quantity": 3,
 					"value": 20,
 					"weight": "0.02 lb",
 					"equipped": true,
 					"calc": {
-						"extended_value": 80,
-						"extended_weight": "0.08 lb"
+						"extended_value": 60,
+						"extended_weight": "0.06 lb"
 					}
 				},
 				{
@@ -3749,13 +4008,13 @@
 					"tags": [
 						"Money"
 					],
-					"quantity": 12,
+					"quantity": 2,
 					"value": 1,
 					"weight": "0.02 lb",
 					"equipped": true,
 					"calc": {
-						"extended_value": 12,
-						"extended_weight": "0.24 lb"
+						"extended_value": 2,
+						"extended_weight": "0.04 lb"
 					}
 				}
 			],
@@ -3784,13 +4043,13 @@
 			},
 			"equipped": true,
 			"calc": {
-				"extended_value": 302,
-				"extended_weight": "0.53 lb"
+				"extended_value": 272,
+				"extended_weight": "0.31 lb"
 			}
 		}
 	],
 	"created_date": "2023-05-26T16:21:14-03:00",
-	"modified_date": "2023-09-10T14:50:08-03:00",
+	"modified_date": "2023-09-10T22:24:31-03:00",
 	"calc": {
 		"swing": "1d+2",
 		"thrust": "1d-1",

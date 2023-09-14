@@ -6,9 +6,109 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Sep 2023 20:25:06 +0000</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2023 20:25:06 +0000</lastBuildDate>
+    <pubDate>Thu, 14 Sep 2023 11:01:27 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Sep 2023 11:01:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>New project page!</title>
+        <description>&lt;p&gt;If you’ve been reading this blog for a while you’ll know that I’ve been doing a
+Let’s Read of the Neverwinter Campaign Setting for D&amp;amp;D 4e. This has been
+generally less organized than the ones I did for the monster manuals, and it
+didn’t have a project page.&lt;/p&gt;
+
+&lt;p&gt;Well, now it does! If you want to see all the Let’s Read Neverwinter posts
+collected and neatly linked in one single place, then you can &lt;a href=&quot;/octopus-carnival/projects/neverwinter/&quot;&gt;head over
+there&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 14 Sep 2023 11:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/09/14/new-project-page.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/14/new-project-page.html</guid>
+        
+        <category>meta</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Neverwinter: The Underground</title>
+        <description>&lt;p&gt;We already saw several underground danger spots in the city. Neverdeath
+Cemetery, the dungeons of Castle Never, and of course the Chasm. But there are
+even more beyond those. The Mintarn mercs usually stay on the surface, so every
+one of these places can be considered “dungeon-like”.&lt;/p&gt;
+
+&lt;h2 id=&quot;shattered-sewers&quot;&gt;Shattered Sewers&lt;/h2&gt;
+
+&lt;p&gt;Neverwinter had an extensive sewer system that’s still largely ruined. It makes
+for a great way to move about the entire city undetected, but it’s hazardous to
+navigate and filled with both monsters and other people who don’t want to be
+discovered.&lt;/p&gt;
+
+&lt;h2 id=&quot;kraken-tunnels&quot;&gt;Kraken Tunnels&lt;/h2&gt;
+
+&lt;p&gt;This is an underground complex with a floor plan that vaguely resembles an
+octopus. It used to be the former headquarters of the Kraken Society, a criminal
+syndicate specializing in slavery. Now it’s the headquarters for the Nashers
+faction of the Sons of Alagondar.&lt;/p&gt;
+
+&lt;p&gt;The complex is build right above an underground canal that links to the sea, and
+this canal is the home of an actual kraken. The Spellplague reduced the monster
+to bestial intelligence. The Society used to feed it and keep it as a guardian
+beast, and the Nashers have continued the practice. The complex has several
+floor openings through which the creature can attack intruders.&lt;/p&gt;
+
+&lt;p&gt;The kraken was trained by the Society to recognize anyone bearing an amulet with
+its symbol as a friend - it attacks all who &lt;em&gt;don’t&lt;/em&gt; have this amulet on
+them. The Nashers know this and carry Kraken Society amulets with them when
+inside the complex.&lt;/p&gt;
+
+&lt;p&gt;There’s a tunnel here that links the Kraken Tunnels to the Dead Rats’ HQ through
+the sewers, which the Nashers use to talk and trade with them. The Rats don’t
+yet know the trick to avoiding the Kraken, but it’s just a matter of time until
+they find out and attempt to take over.&lt;/p&gt;
+
+&lt;p&gt;It’s possible the Nashers might end up releasing the kraken into the river or
+the docks as a sort of weapon of mass destruction if they become desperate
+enough. The aboleths could also try to get to it in order to search its mind for
+secrets from back when it was sapient.&lt;/p&gt;
+
+&lt;h2 id=&quot;dead-rat-hole&quot;&gt;Dead Rat Hole&lt;/h2&gt;
+
+&lt;p&gt;This is a section of the sewers that has been taken over by the Neverwinter
+chapter of the Dead Rats. It’s marked with gang signs gouged into the sewer
+walls, and packed with both loot and trash collected by the gangers. Their
+leader, Rsolk, holds court at a set of caves near the shores of
+Blacklake. There’s a trap here that can let the waters of the lake in and
+“flush” the whole complex.&lt;/p&gt;
+
+&lt;p&gt;These Dead Rats are &lt;em&gt;not&lt;/em&gt; familiar with the Dead Rat Deserter PC, contrary to
+what I thought before. Looks like word hasn’t got to them yet. A bold Deserter
+might try to infiltrate the gang and perhaps even challenge Rsolk for
+leadership. This starts as a one-on-one duel but turns into a standard mass
+fight once he’s bloodied. And of course he flushes the lair if it looks like his
+side will lose.&lt;/p&gt;
+
+&lt;h2 id=&quot;tunnels-and-trenches&quot;&gt;Tunnels and Trenches&lt;/h2&gt;
+
+&lt;p&gt;The sewers around the Chasm area are partly collapsed, forming trenches where
+the street above was destroyed and tunnels where it hasn’t. This and the influx
+of non-sapient monsters provides good cover for the AbSov’s smarter agents to
+infiltrate the River District or to escape the city and head to Helm’s Hold and
+other places.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Sep 2023 10:50:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/09/14/neverwinter-underground.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/14/neverwinter-underground.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: The Chasm</title>
@@ -1291,189 +1391,6 @@ locations chapter.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dnd4</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Chapter 4 Intro</title>
-        <description>&lt;p&gt;Here begins Chapter 4, the Gazeteer. This takes up the remaining half of the
-book and focuses on describing interesting places in the region and their
-associated plot hooks. It also talks about interesting NPCs that might get
-involved with the group. These locations and people aren’t fully mapped or
-statted out, but are intended to serve as starting points for individual GMs to
-customize. As promised in the book’s preface, a lot of plot hooks here are
-optional and/or multiple-choice, and GMs are free to change anything in here
-however they want.&lt;/p&gt;
-
-&lt;p&gt;The chapter covers several major areas, and we might need more than one post for
-each of them:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ruined Neverwinter&lt;/strong&gt; is the city proper, struggling to rebuild and deal with
-political intrigue, dangerous ruins, and plaguechanged monsters.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Helm’s Hold&lt;/strong&gt; is a stout-hearted village with a monastic community that
-hides a terrible threat to the region.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Neverwinter Wood&lt;/strong&gt;: You wouldn’t believe how many dangerous places and
-threatening factions can fit into this one forest!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Gauntlgrym&lt;/strong&gt;: the hidden dwarven city no longer has any dwarves in it, but
-it has pretty much everything else including that slumbering primordial.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Evernight&lt;/strong&gt; is Neverwinter’s reflection on the Shadowfell and the main
-battleground in the war between Thayans and Netherese.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Thay Through the Veil&lt;/strong&gt;: PCs who follow the plot threads from Evernight all
-the way to their end might find themselves needing to make some visits to Nazi
-Necromancer Central.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 30 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/30/neverwinter-chapter-04-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/30/neverwinter-chapter-04-intro.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Netherese Encounters</title>
-        <description>&lt;p&gt;The encounter table for the Netherese is packed with shadow-themed
-opponents. There are a few humans here and there, but also a lot of shadar-kai,
-and Dark Ones, and a few new options to turn any of these into Shades. Since
-they’re a magic-heavy faction the table also includes a few constructs and bound
-incorporeal undead.&lt;/p&gt;
-
-&lt;h2 id=&quot;shades&quot;&gt;Shades&lt;/h2&gt;
-
-&lt;p&gt;Shades are creatures that absorbed so much of the Shadowfell’s ambient magic
-that they mutated. They can also be born from otherwise “mundane” creatures who
-absorbed that energy. As you might expect a lot of the Shadovar fit this
-description.&lt;/p&gt;
-
-&lt;p&gt;There are two ways to turn a monster stat block into a Shade. The Forgotten
-Realms’ campaign setting has a monster template that turns a regular monster
-into an elite shade. And this book presents a theme that adds appropriate powers
-to an existing creature without upgrading its “quality”.&lt;/p&gt;
-
-&lt;p&gt;The theme changes the base creature’s origin to Shadow, adds Darkvision and
-Vulnerable 5 radiant and also these three abilities:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Regeneration&lt;/strong&gt; 5, which shuts down for a turn when the creature takes
-radiant damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Coalescing Darkness&lt;/strong&gt;, a trait that gives the shade total concealment for a
-turn whenever it moves 3 or more squares by any means.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Shadow Stride&lt;/strong&gt;, an encounter power that takes a move action and lets the
-shade teleport up to &lt;em&gt;20&lt;/em&gt; squares, but requires that the destination space be
-in dim light or darkness.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;thaalud-constructor&quot;&gt;Thaalud Constructor&lt;/h2&gt;
-
-&lt;p&gt;One of the most fearsome security measures in Netherese tombs and ruins are the
-constructs known as Thaalud Tomb Trappers. The Constructor is a modern design
-based on those, weaker but easier to make.&lt;/p&gt;
-
-&lt;p&gt;That’s all the lore we get for this monsters. Since I don’t know anything about
-tomb trappers I’m forced to speculate based on their stats. I’m thinking they’re
-huge eyeless humanoid statues, and quite a bit smarter than your typical
-mindless construct.&lt;/p&gt;
-
-&lt;p&gt;A constructor is a Huge Natural Animate with the Blind and Construct keywords,
-and a Level 5 Elite Brute with 154 HP. It’s immune to poison, blindness, and
-gaze attacks, and has Resist 5 to cold, fire, and lightning. It perceives the
-world with Blindsight 20.&lt;/p&gt;
-
-&lt;p&gt;It attacks with &lt;strong&gt;Mauling Fists&lt;/strong&gt; that damage and grab on a hit (escape DC 15),
-and can make &lt;strong&gt;double attacks&lt;/strong&gt; with them. If the constructor has a Large or
-smaller creature grabbed, it can throw it at someone else with &lt;strong&gt;Hurl Foe&lt;/strong&gt;, a
-ranged attack that damages both the target and the “ammunition”. On a hit, the
-target is pushed 1 square and knocked prone, and the hurled PC falls prone on
-the target’s former space. On a miss both take half damage and the thrown
-character falls prone adjacent to the target. I gotta say “grab and yeet” sounds
-like a very fun combat style.&lt;/p&gt;
-
-&lt;p&gt;When a constructor is destroyed it &lt;strong&gt;Collapses into rubble&lt;/strong&gt;, attacking a Close
-Burst 1 around itself and turning that area into a zone of difficult terrain
-that lasts until the end of the encounter. Note that the creature is Huge, so
-this zone is 4 squares on a side.&lt;/p&gt;
-
-&lt;h2 id=&quot;clariburnus-tanthul-prince-of-shade&quot;&gt;Clariburnus Tanthul, Prince of Shade&lt;/h2&gt;
-
-&lt;p&gt;The Shadovar are ruled by the Twelve Princes of Shade, Netherese mages who were
-witnesses to the fall of their empire and managed to stay alive(-ish) to the
-present day. Clariburnus Tanthul is one of these Twelve.&lt;/p&gt;
-
-&lt;p&gt;Contrary to all expectations, he’s not undead! Tanthul is an ancient living
-shade, and is described as retaining more of his original humanity than the
-other Princes. Still, he’s a merciless manipulator with no concept of honor,
-breaking his promises as casually as he breathes.&lt;/p&gt;
-
-&lt;p&gt;Clariburnus Tanthul is a Medium Shadow Humanoid and a Level 10 Elite Skirmisher
-with 158 HP. He has a Speed of 7 and both Blindsight 10 and Darkvision. His
-traits resemble those of the Shade theme above but they’re custom and more
-powerful.&lt;/p&gt;
-
-&lt;p&gt;His &lt;strong&gt;Benighted Presence&lt;/strong&gt; acts as an aura (5) that turns bright light dim, and
-his &lt;strong&gt;Regeneration&lt;/strong&gt; heals 15 HP per turn, though it’s still shut down for a
-turn by radiant damage.&lt;/p&gt;
-
-&lt;p&gt;He wields a scimitar named &lt;strong&gt;Gloom Crescent&lt;/strong&gt;, which can make basic attacks and
-is also used for the &lt;strong&gt;Severing Shadows&lt;/strong&gt; technique. This lets him make 2 basic
-attacks (3 if bloodied), teleporting 5 squares before each one. If he hits the
-same target twice that target also takes 5 ongoing force damage (save
-ends). This worsens to 10 ongoing force damage and blindness after the first
-failed save (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Once per encounter he can use a ranged spell named &lt;strong&gt;By Night Consumed&lt;/strong&gt;, which
-deals necrotic damage and &lt;em&gt;removes the target from play&lt;/em&gt; (save ends). A miss
-deals half damage and dazes (save ends). Nasty!&lt;/p&gt;
-
-&lt;p&gt;His &lt;strong&gt;Shadow Stride&lt;/strong&gt; lets him teleport 5 squares regardless of light
-conditions, which increases to 10 if the destination is in darkness. It’s also a
-(Recharge 4+) ability instead of an encounter power, so he can use it more than
-once in a fight.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;This has less custom stat blocks than some of the other factions, so you’ll be
-mostly relying on the encounter table and shade versions of natural
-critters. Still, the custom stat blocks we do get are fun, and it looks like
-Clariburnus is a genuine Forgotten Realms big shot who would probably get an
-epic-level stat block in a more traditional FR setting book. I love it that he’s
-“within reach” of a heroic-tier party here. His stats make for a very
-interesting fight, though you should also give him an honor guard.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/26/neverwinter-netherese-encounters.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/26/neverwinter-netherese-encounters.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         <category>neverwinter</category>
         
