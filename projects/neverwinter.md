@@ -94,6 +94,13 @@ a single post.
 
 - [Helm's Hold][41]
 
+### Neverwinter Woods
+
+Roughly half of the major and minor factions of the game have hideouts here, so
+the Woods are a pretty eventful place.
+
+- [Woods Overview][43]
+
 
 [0]: /octopus-carnival/2023/04/23/neverwinter.html
 [1]: /octopus-carnival/2023/04/24/neverwinter-chapter-01.html
@@ -138,3 +145,4 @@ a single post.
 [40]: /octopus-carnival/2023/09/14/neverwinter-underground.html
 [41]: /octopus-carnival/2023/09/18/neverwinter-helms-hold.html
 [42]: /octopus-carnival/2023/04/30/neverwinter-noble.html
+[43]: /octopus-carnival/2023/09/22/neverwinter-woods.html
