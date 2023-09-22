@@ -4,6 +4,7 @@ title: "Let's Read Neverwinter: Neverwinter Noble"
 tags:
     - dnd4
     - lets-read
+    - neverwinter
 ---
 
 {::nomarkdown}

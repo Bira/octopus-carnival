@@ -22,12 +22,13 @@ Character options!
 
 The highlight of the chapter!
 
+- [Neverwinter Noble][42]
 - [Harper Agent][2]
 - [Dead Rat Deserter][3]
 - [Iliyanbruen Guardian][4]
 - [Uthgardt Barbarian][5]
 - [Pack Outcast][6]
-- [Let’s Read Nevertwinter: Heir of Delzoun][7]
+- [Heir of Delzoun][7]
 - [Renegade Red Wizard][8]
 - [Scion of Shadow][9]
 - [Devil’s Pawn][10]
@@ -136,3 +137,4 @@ a single post.
 [39]: /octopus-carnival/2023/09/06/neverwinter-chasm.html
 [40]: /octopus-carnival/2023/09/14/neverwinter-underground.html
 [41]: /octopus-carnival/2023/09/18/neverwinter-helms-hold.html
+[42]: /octopus-carnival/2023/04/30/neverwinter-noble.html
