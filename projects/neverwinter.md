@@ -100,6 +100,7 @@ Roughly half of the major and minor factions of the game have hideouts here, so
 the Woods are a pretty eventful place.
 
 - [Woods Overview][43]
+- [Shandarar][44]
 
 
 [0]: /octopus-carnival/2023/04/23/neverwinter.html
@@ -146,3 +147,4 @@ the Woods are a pretty eventful place.
 [41]: /octopus-carnival/2023/09/18/neverwinter-helms-hold.html
 [42]: /octopus-carnival/2023/04/30/neverwinter-noble.html
 [43]: /octopus-carnival/2023/09/22/neverwinter-woods.html
+[44]: /octopus-carnival/2023/09/24/neverwinter-shandarar.html
