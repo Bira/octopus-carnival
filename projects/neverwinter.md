@@ -101,6 +101,7 @@ the Woods are a pretty eventful place.
 
 - [Woods Overview][43]
 - [Shandarar][44]
+- [Dread Ring][45]
 
 
 [0]: /octopus-carnival/2023/04/23/neverwinter.html
@@ -148,3 +149,4 @@ the Woods are a pretty eventful place.
 [42]: /octopus-carnival/2023/04/30/neverwinter-noble.html
 [43]: /octopus-carnival/2023/09/22/neverwinter-woods.html
 [44]: /octopus-carnival/2023/09/24/neverwinter-shandarar.html
+[45]: /octopus-carnival/2023/09/28/neverwinter-dread-ring.html

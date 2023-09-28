@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "Let's Read Neverwinter: Gauntlgrym"
+title: "Let's Read Neverwinter: Gauntlgrym, Part 01"
 tags:
     - dnd4
     - lets-read
     - neverwinter
 ---
+
+This part gives an overview of the fabled lost city of Gauntlgrym,and goes into
+detail about its "upper" strata.
 
 ## Historical Errata
 
@@ -61,11 +64,12 @@ Let's take a look at the city from the outside in.
 
 ### The Great Cavern
 
-This is kind of the antechamber to the lost city, a massive natural cavern
-filled with alien Underdark vegetation and labyrinthine formations of
-stone pillars and stalagmites. Small forts and balconies are carved into the
-walls and around the largest pillars - the remains of former guard posts. The
-bones of ancient battles litter the floor.
+This is kind of the antechamber to the lost city. Whatever the path to
+Gauntlgrym turns out to be in your campaign, it will end here. It's a massive
+natural cavern filled with alien Underdark vegetation and labyrinthine
+formations of stone pillars and stalagmites. Small forts and balconies are
+carved into the walls and around the largest pillars - the remains of former
+guard posts. The bones of ancient battles litter the floor.
 
 There's a small lake at the center of the cave, and on one of its walls stands
 the massive mithral gate that leads into Gauntlgrym proper. It's nearly
@@ -127,10 +131,44 @@ occupants carved on their stone.
 
 Unlike the upper levels, the crypts are intact. The many, many ghosts who roam
 the place attack any would-be vandals and thieves en masse, so the duergar stay
-away from here. In a way, this makes the crypts the true treasure of Gauntlgrym,
-as most post-Delzoun dwarves still keep detailed records of their lineage and
-those could easily connect to the records carved here.
+away from here.
 
 The ghosts will not bother the PCs at first, but will attack as above if they
 try to damage or steal from the crypts. The group should take care to remain on
 their best behavior while in this area.
+
+## Theme Tie-Ins and Impressions
+
+The PC theme that's most interested in Gauntlgrym is definitely the Heir of
+Delzoun. Finding this place is their life's goal, so if your party includes one
+or more Heirs Gauntlgrym is going to be a vitally important place for the
+campaign.
+
+For the Heir and most other characters who might be interested in finding the
+city, the true treasure here is all the historical and genealogical information
+contained in the crypt walls. It's a major archaeological finding all by itself,
+which is reason enough for Oghma's Faithful, but it's even more valuable to the
+Heir and perhaps even to the Neverwinter Noble. All dwarves, and a lot of human
+nobles, keep pretty detailed genealogies of their own clans and families and
+these would be easy to connect to the ones in display here.
+
+If the Noble could prove that their house is older than Neverwinter itself, then
+they might have an unassailable claim to the throne! And if the Heir is
+important enough, they might have a strong claim to _Gauntlgrym's_ throne,
+or perhaps to that of one of its successor states.
+
+Of course, not everyone would be happy with these findings. There are plenty of
+dwarven nobles out there who built their prestige on forged lineages, and who
+would not want the world to discover this fact. And many others who would be
+more than happy to pull a Beloq and kill the PCs before they can announce their
+findings to the world, so that they can claim the credit.
+
+The "default" way to arrive at Gauntlgrym is to navigate the river of flame
+beneath Mount Hotenow, but there could be other paths as well. One possibility
+mentioned by the book is a mystical road that starts at one of the many ancient
+Delzoun outposts and weaves into and out of the world as it makes several stops
+before ending in the Great Cavern. To follow this road, characters must begin at
+its start - entering it through some of the other outposts doesn't trigger the
+magic.
+
+In the next post, we dig too greedily and too deep.
