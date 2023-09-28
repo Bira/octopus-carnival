@@ -6,9 +6,119 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 24 Sep 2023 23:07:02 +0000</pubDate>
-    <lastBuildDate>Sun, 24 Sep 2023 23:07:02 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Sep 2023 15:05:38 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Sep 2023 15:05:38 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Let's Read Neverwinter: The Dread Ring</title>
+        <description>&lt;p&gt;In the gloomiest and darkest part of the Wood, there’s a perfectly circular
+clearing whose ground is ash. None of the Wood’s animals dare enter this
+place. This is where the Dread Ring was built. It was both a fortress and a
+ritual tool for a grand spell that would have turned Szass Tam into a
+god. Though the spell failed, the ruined fortress now serves as the main base
+for the Thayans in the region.&lt;/p&gt;
+
+&lt;p&gt;The entire area of the Ring, both indoors and outdoors, is &lt;em&gt;super cursed&lt;/em&gt;. Check
+it out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;It counts as both defiled and necrotic ground, the rules for which are found
+in the DMG 2. Basically, undead are boosted and HP gains from spending healing
+surges are halved.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Powers with either the arcane or necrotic keywords crit on 19-20. Powers with
+both keywords crit on 18-20. This is one of the only instances of “critical
+range” boosting in the entire game, it’s an extremely rare bonus.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Creatures take -1 to Will against powers or effects with the fear keyword.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since this is also Lorragauth’s grave, some smaller areas in here might also
+count as acid-based fonts of power or elemental spouts, making them even more
+hazardous.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-ring-from-the-outside-in&quot;&gt;The Ring from the Outside In&lt;/h3&gt;
+
+&lt;p&gt;Frequent clashes between Shadovar and Thayan forces have turned the outer areas
+of the clearing into a blood-soaked battlefield littered with corpses.&lt;/p&gt;
+
+&lt;p&gt;Inside the ruined outer walls is the &lt;strong&gt;Flesh Factory&lt;/strong&gt;, where corpses,
+body parts, and sometimes living victims are stored and used as materials for
+Thayan necromancy and flesh-shaping projects. The place’s design lets it raise
+undead at a much faster pace and a much larger scale than usual, effectively
+mass-producing them. This is where most of the Thayan undead are made, and also
+the facility in charge of repairing the fortress’ walls. Instead of bothering
+with the logistics of procuring and shipping stone, they decided to patch the
+walls with slabs of undead flesh. These walls get a stat block as a trap,
+because they can sprout grabby hands that deal damage.&lt;/p&gt;
+
+&lt;p&gt;Past the Factory are the &lt;strong&gt;halls of the fortress&lt;/strong&gt;, which follow no plan a
+living mind would consider sane since their main purpose was to act as a ritual
+tool.&lt;/p&gt;
+
+&lt;p&gt;The center is open, and it’s the current site of the &lt;strong&gt;Thayan excavation&lt;/strong&gt;
+that’s trying to reach Lorragauth’s resting place. They’ve managed to reach his
+bones and partially unearthed them already, but there’s plenty of work to do
+before they’re free of the soil. The excavation pit is deep and hazardous, and
+the book has rules for navigating it and for operating the many cranes installed
+here during combat to either drop rocks on enemies or slam the crane arm into
+them.&lt;/p&gt;
+
+&lt;p&gt;The undead workforce here doubles as the Dread Ring’s garrison, so they get
+depleted to a, er, skeleton crew when the Netherese attack. They’re overseen by
+Praddak, an battle wight (stats in DMG 2). Also here as protection is the sacred
+totem of the Thunderbeast tribe, which as we saw before was a fossilized
+thunderbeast skeleton. It’s been animated by necromancy, with the stats of a
+rotclaw (an undead monster from the Draconomicon). This of course is a horrible
+blasphemy, particularly to the Uthgardt Barbarian PC.&lt;/p&gt;
+
+&lt;p&gt;Somewhere near the pit is the &lt;strong&gt;Dread Spire&lt;/strong&gt;, the tallest surviving tower of
+the Ring. It houses the Thayan war room, the entrance to Valindra’s sanctum, and
+a perpetually dark room that contains a portal to the Shadowfell. It also
+contains the Chapel of the Dragon, where Kroskas’ cultists research how to raise
+Lorragauth as a dracolich.&lt;/p&gt;
+
+&lt;p&gt;The Shadowfell portal is what lets the Thayans bring corpses from Neverdeath
+Cemetery for reanimation, and to receive caravans that come from Surcross via
+the Shadowfell Road.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Valindra’s Sanctum&lt;/strong&gt; houses her library and an arcane observatory that lets
+someone scry remote locations and perform astrological divination. It’s operated
+by Lurrens, one of her lieutenants, who watches it 24/7. Lurrens is a former
+wizard who was turned into an undead Brain in an Armored Jar (from Open Grave).&lt;/p&gt;
+
+&lt;p&gt;The observatory’s grinding machinery is hazardous terrain, should a fight break
+out here. PCs might find information on Gauntlgrym and other campaign secrets by
+either researching Valindra’s library or learning how to operate the
+observatory.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;Contrary to my earlier expectations the Dread Ring cannot rise as a floating
+battlestation or giant undead mech, though the possibility of them raising a
+dracolich is a decent substitute. The place is perfectly usable as an endgame
+dungeon, though it could also end up being “just” an important stop on the way
+to Gauntlgrym depending on the campaign’s focus.&lt;/p&gt;
+
+&lt;p&gt;And I have to say “Brain in an Armored Jar” is the best monster name ever.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/09/28/neverwinter-dread-ring.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/28/neverwinter-dread-ring.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: The Ruins of Shandarar</title>
@@ -1090,239 +1200,6 @@ organized resistance against him.&lt;/p&gt;
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/08/25/neverwinter-blacklake.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/08/25/neverwinter-blacklake.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Overview and Protector's Enclave</title>
-        <description>&lt;p&gt;Neverwinter is a coastal city-state built at the mouth of a river. There are
-several stories about how it got that name, but the most popular one is that it
-was from the warm waters of that river, which prevent the delta from freezing
-during winter and so keep its port viable year-round.&lt;/p&gt;
-
-&lt;p&gt;Comparing the book and the computer games, I see present-day inhabitants of
-Neverwinter have a somewhat romanticized view of Nasher Alagondar, the former
-adventurer who ruled the city about 150 years before this campaign starts. He
-was an effective ruler, though, and his descendants formed a dynasty that
-remained unbroken until the cataclysm 27 years ago, when the last of them died
-or vanished.&lt;/p&gt;
-
-&lt;p&gt;The cataclysm wrecked the city, opening a huge chasm that destroyed its
-southeastern quadrant and began to vomit forth mutated monstrosities. Most of
-the citizens who didn’t die left as refugees, and only a minority of holdouts
-decided to stay and protect their ancestral homes. They built a makeshift wall
-to isolate the Chasm and its monsters from the rest of the city, and soon began
-to see its defense as a sacred duty.&lt;/p&gt;
-
-&lt;p&gt;Lord Neverember arrived nearly ten years ago at the head of an army of
-carpenters and builders, protected by a mercenary force from Mintarn. Around
-five years ago he established the Protector’s Enclave, a sort of “green zone”
-taking up the southwestern quadrant of the city, which he declared safe for
-occupation. There were already people living all over the city, but the
-establishment of the Enclave opened the way for refugees to return and for new
-immigrants to come seeking opportunities.&lt;/p&gt;
-
-&lt;p&gt;The people of Neverwinter, then, can be split into two demographic groups: the
-“holdouts” who never left the city, and the “newcomers” who arrived or returned
-after Neverember declared it once again open for business.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-enclave&quot;&gt;The Enclave&lt;/h2&gt;
-
-&lt;p&gt;The Enclave’s infrastructure has been restored to pre-cataclysm levels, more or
-less. This includes the port, which has once again begun to see trade from
-Waterdeep and elsewhere. The variety of goods in its markets does a lot to make
-life in Neverwinter easier.&lt;/p&gt;
-
-&lt;p&gt;Not all is roses in the Enclave, though. Neverember’s government imposes a steep
-tax on all commercial transactions, and the place is heavily policed by those
-Mintarn mercenaries. The taxes are something one can get used to, but those
-mercs have spies and goons stationed everywhere and love to employ all sorts of
-excessive force against any perceived sign of dissent.&lt;/p&gt;
-
-&lt;p&gt;Neverember doesn’t personally care about this police brutality, but he does make
-an effort to keep it at a level that’s beneath his notice, occasionally blaming
-and punishing one of his underlings to get things to simmer back down for a
-while.&lt;/p&gt;
-
-&lt;p&gt;There’s discontent aimed at Neverember from a lot of sides. The holdout
-population dislikes him because he’s taking credit for much of their work, and
-sidelining them in his new government. The newcomers see him in a better light
-but still dislike the heavy taxes and oppressive mercs. Those who like him
-usually also like the whole New Neverwinter rhetoric and say the harsh measures
-and heavy taxes are needed to keep the city’s restoration going.&lt;/p&gt;
-
-&lt;p&gt;The Sons of Alagondar in particular see him as a foreign occupier and call him
-Lord Pretender. If your PCs want to brawl with a guard patrol, saying those
-words within earshot of them is the best way to do so.&lt;/p&gt;
-
-&lt;p&gt;Neverember’s current headquarters is at the Hall of Justice, the former temple
-of Tyr. If you played the first Neverwinter Nights game you might recognize this
-as your quest hub during Act 1. Tyr died in the Spellplague, but the citizens
-refused to convert the temple to worship of another god. Neverember had it
-restored and sponsors a group Torm priests that perform rituals following the
-old Tyrran tradition in here. While many people see this move in a positive
-light, the Sons of Alagondar claim Neverember’s presence defiles the temple and
-call it the “Hall of Never-Justice”.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-moonstone-and-other-earthmotes&quot;&gt;The Moonstone and Other Earthmotes&lt;/h3&gt;
-
-&lt;p&gt;There are three earthmotes in Neverwinter. These were created by the
-Spellplague, and became fixtures in the city’s skyline long before the
-eruption.&lt;/p&gt;
-
-&lt;p&gt;The first as the Moonstone, so called because it’s the current site of the
-Moonstone Mask. Another familiar location from the computer games, this fancy
-inn fell on hard times and shut its doors after the cataclysm. About five years
-ago it reopened under new management, with some financial help from
-Neveremeber. Liset Cheldar, the current owner, repays him by housing a large
-number of Mintarn mercenaries in her establishment. They take up most rooms and
-a bunch of them can be found there at all hours, dragging the atmosphere down
-and picking fights with non-merc patrons. The Moonstone is lashed to the docks
-with heavy chains, and connected by a bridge.&lt;/p&gt;
-
-&lt;p&gt;The book suggests making Liset the puppet of one of the other factions, but I
-think that’s a bit too cliche to make the pretty and flirty woman a secret
-monster. The inn is already dangerous enough with all the mercs in it.&lt;/p&gt;
-
-&lt;p&gt;The southernmost earthmote is called Fisher’s Float, and it’s home and workplace
-to a small community of fishers that have lived there since before the
-cataclysm. Their catch provides a great deal of food to the city, though their
-isolated location often gives rise to rumors of sinister goings-on. They’re just
-rumors unless the GM decides otherwise.&lt;/p&gt;
-
-&lt;p&gt;The mote that flies the highest and furthest from town is the Pirate’s
-Skyhold. A gang of sky pirates used it as a base because it’s impossible to
-reach without flight. One night, though, the pirates apparently all killed each
-other in a frenzy of betrayal, leaving the island deserted. Their skyship, and
-all of their treasure, are rumored to have stayed there intact - though other
-rumors say that a dragon made the island its lair after a while. You can still
-see the ruins of wooden buildings poking out of this island’s forested slopes,
-but it remains inaccessible to most. The GM is explicitly encouraged to make
-this place into a cool aerial dungeon of their own design.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-wall&quot;&gt;The Wall&lt;/h3&gt;
-
-&lt;p&gt;The Wall was built by Neverwinter’s holdouts after the cataclysm. It separates
-the southwestern quadrant of the city from the Chasm in the SE quadrant. It was
-initially built from rubble and barricaded buildings, and manned by
-martially-inclined survivors. Neverember reinforced it with proper defensive
-architecture and assigned a significant chunk of his mercenaries to supplement
-the survivor garrison. Those survivors still guard the Wall alongside the mercs,
-because they see it as their sacred duty.&lt;/p&gt;
-
-&lt;p&gt;Together with Neverwinter River, the Wall has been effective at preventing any
-plaguechanged horrors from leaving the area of the Chasm, but recently some of
-them have been spotted north of the river and near sewer entrances. Mayor Galt
-fields several daily petitions for expanding the Wall further.&lt;/p&gt;
-
-&lt;p&gt;Guarding the Wall and repelling plaguechanged assaults is one of the quickest
-ways to win the hearts and minds of the city’s inhabitants. The increasing
-friction between the mercs who make up most of the guard forces and the hardened
-native veterans who refuse to abandon their posts can also be a source of many
-plot hooks.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-house-of-knowledge&quot;&gt;The House of Knowledge&lt;/h3&gt;
-
-&lt;p&gt;This used to be a great temple to Oghma, occupying what is now the northeast end
-of the Wall. After the cataclysm, the elderly Brother Anthus became its head
-priest for a while, and they dedicated themselves to studying the plaguechanged
-creatures that emerged from it. When Anthus died under mysterious circumstances,
-the priestess Rohini took over and moved their whole operation to Helm’s Hold.&lt;/p&gt;
-
-&lt;p&gt;(To know the truth about those mysterious circumstances, check Rohini’s bio).&lt;/p&gt;
-
-&lt;p&gt;A single volunteer priest remained behind to look after the temple’s extensive
-library and archive, Brother Atlavast. Long years of solitude and isolation have
-made the priest a paranoid eccentric. He keeps to the lower levels underground
-and I don’t think a lot of people even remember he’s there.&lt;/p&gt;
-
-&lt;p&gt;By default, Atlavast is ornery but not evil. He’ll be very happy to see Oghma’s
-Faithful, for example, though he will insist on testing them and any other PCs
-to see if they’re worthy of the archives. If they do manage to befriend him, he
-can be a great help when exploring the library. Optionally, he might be in
-thrall to the aboleths (like the rest of the priests over at Helm’s Hold), and
-must be freed before he can become an ally.&lt;/p&gt;
-
-&lt;p&gt;The surface levels of the temple, long abandoned, have been taken over by a
-group of squatters which decided to make themselves useful by serving as
-lookouts on the Wall and ringing the temple’s bells when they see monsters. The
-mercs often leave them gifts of food and clothing, and are becoming fast friends
-with them… unaware that the squatters are all undercover Ashmadai
-cultists. They already managed to get one of the Mintarn captains possessed by a
-devil.&lt;/p&gt;
-
-&lt;h3 id=&quot;neverdeath&quot;&gt;Neverdeath&lt;/h3&gt;
-
-&lt;p&gt;This huge graveyard was in use for centuries until the cataclysm, when the vast
-expanse of graves and mausoleums was wracked by tremors. Some sections of it
-sunk, others rose up, and these convulsions exposed graves and underground
-crypts, causing coffins and bones to tumble about the whole area.&lt;/p&gt;
-
-&lt;p&gt;The current inhabitants of the city fear this place. The Mintarn mercs burn dead
-bodies outside the city walls instead of burying them here. It’s not uncommon
-for unburied bodies on or near the cemetery to rise as undead of their own
-accord.&lt;/p&gt;
-
-&lt;p&gt;It doesn’t help that the Thayans have a major secret base in here, and are using
-it as their main source of bodies for reanimation. The place also contains a
-shadow crossing into Evernight, and Valindra has built a teleportation circle
-here to make use of it.&lt;/p&gt;
-
-&lt;p&gt;The Netherese are aware of the shadow crossing and one of their goals is to
-destroy it or otherwise deny it to Valindra. They want to be discreet about it,
-though, and don’t want to jeopardize their project to raise Xinlenal.&lt;/p&gt;
-
-&lt;h3 id=&quot;waterclock-crypts&quot;&gt;Waterclock Crypts&lt;/h3&gt;
-
-&lt;p&gt;Neverwinter was once known for the amazing quality of its water clocks. The
-guild responsible for making them built this crypt to inter its dead. Located
-somewhere inside Neverdeath, it’s filled with clever traps and engines built
-using hydraulics and elemental magic. Hidden here is the laboratory of its
-founder, who first arrived in the city coming from Luskan with a cartload of
-stolen magic knowledge. Its library contains all of that knowledge and more,
-including notes on the original ritual that bound Maegera.&lt;/p&gt;
-
-&lt;p&gt;An underground vein of elemental magic that links Luskan and Gauntlgrym passes
-through the crypt - it’s why the founder’s lab was built here. Following the
-vein could be one way in which the PCs find the lost city. Of course, they need
-to get through all the undead and Thayans up above, as well as whatever defenses
-this place has.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-docks&quot;&gt;The Docks&lt;/h3&gt;
-
-&lt;p&gt;Rebuilding the docks was one of Neverember’s greatest priorities. While there’s
-still plenty of work to be done here, the docks are already functional and able
-to receive ships. Trade with the rest of the world has resumed, and the lord
-makes a pretty penny charging tariffs on its cargo. There’s lots of crime and
-corruption here as well, but I get the feeling Neverember only cares about it to
-the extend that it impedes trade.&lt;/p&gt;
-
-&lt;p&gt;Also here is the Tarmalune Trade House, belonging to a merchant guild from
-Returned Abeir (the new continent a ways off to the west of Neverwinter). In
-what might be an unexpected development, they’re just a normal trading house who
-can offer supplies and filler quests to our protagonists. Their goal is entirely
-mundane: to form commercial ties with the very lucrative markets at
-Waterdeep. They’ll be extra-friendly towards any PCs that have ties to the
-nobility of that city, like the Neverwinter Noble or the Devil’s Pawn.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Even though this is the “safe” part of town there are still quite a few sources
-of danger in it. A lot of that danger comes from the mercs, who will mercilessly
-harass anyone who looks like they might start trouble, a description that fits
-most PCs. Neverdeath will be a major location in any campaign focused on either
-the Thayans or on Gauntlgrym.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/08/22/neverwinter-enclave.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/08/22/neverwinter-enclave.html</guid>
         
         <category>dnd4</category>
         
