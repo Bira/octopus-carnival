@@ -67,9 +67,10 @@ The city did suffer some changes during the cataclysm. A reflection of the
 Chasm, known locally as the Demon Pit, opened up in the corresponding Shadowfell
 coordinates. And while the eruption of mount Hotenow was a quick affair in the
 world, its shadowy counterpart continues to expel a slow and steady stream of
-lava that flows through the equivalent of the Neverwinter River's bed. All of
-the other horrific stuff we'll see in the following posts was already there
-before that.
+lava that flows through the equivalent of the Neverwinter River's bed. Sometimes
+you can see crew-less ghost ships sailing the lava, docking in abandoned piers,
+and leaving after a few days. All of the other horrific stuff we'll see in the
+following posts was already there before that.
 
 ## Impressions
 

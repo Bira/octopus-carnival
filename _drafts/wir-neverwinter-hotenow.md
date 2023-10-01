@@ -78,12 +78,13 @@ presumably you want PCs to choose a theme without seeing any spoilers. Whatever
 the case, we now run into the group that ties to the Heir of Delzoun, and it's a
 genuine Dwarf Fortress expedition!
 
-The Heir's theme description actively lied to the player: they're not one of the
-last dwarves who are still looking for the lost city. In reality there are so
-many that after their disparate teams and groups joined together to coordinate
-their efforts they had to elect a government to keep them organized. Their newly
+The Heir's description actively lied to the player: they're not one of the last
+dwarves who are still looking for the lost city. In reality there are so many
+that after their disparate teams and groups joined together to coordinate their
+efforts they had to elect a government to keep them organized. Their newly
 elected leader decided that Mount Hotenow was their best bet, since there were
-many stories and a few confirmed Delzoun outposts connecting it to Gauntlgrym.
+many stories connecting it to Gauntlgrym and a few confirmed Delzoun outposts on
+its slopes.
 
 This extremely large expedition set out from Neverwinter before the Heir got
 here, and the litany of setbacks and tragedies they experienced along the way is
@@ -94,10 +95,9 @@ through Many-Arrows territory unharmed, but the dwarves and orcs just couldn't
 resist provoking each other until hostilities broke out.
 
 Then they arrived at the Wood and lost yet more dwarves to eladrin arrows and
-miscellaneous dwarf-eating monsters.
+miscellaneous monsters.
 
-Then they got to the volcano and lost a bunch more dwarves to Gommoth's cultist
-elementals.
+Then they got to the volcano and lost a bunch more dwarves to Gommoth's cult.
 
 And now they're stuck at the river of flame. Can't forge ahead because no one
 packed a fireproof submersible, can't retreat because the survivors aren't sure
@@ -105,13 +105,13 @@ they can make it back to Neverwinter alive. To say that morale is low is a
 massive understatement.
 
 Morale would be even lower if the expedition's leader, Vandra Hillborn, revealed
-the terrible secret she's keeping from the troops: many of the dwarves "lost" to
-the elementals actually _defected_ to them, and now work together to bring about
-the volcano's next eruption. Hillborn believes they cracked under the strain of
-the trip and went insane, but the truth is even worse: they were intentionally
-driven insane by the Gauntlgrym mind-flayers through remote telepathy. The
-flayers believe that a volcanic eruption is just the thing to permanently block
-access to Gauntlgrym and prevent any meddlers from finding it.
+the terrible secret she's keeping. Many of the dwarves "lost" to the elementals
+actually _defected_ to them, and now work together to bring about the volcano's
+next eruption. Hillborn believes they cracked under the strain of the trip and
+went insane, but the truth is even worse: they were intentionally driven insane
+by the Gauntlgrym mind-flayers through remote telepathy. The flayers believe
+that a volcanic eruption is just the thing to permanently block access to
+Gauntlgrym and prevent any meddlers from finding it.
 
 As we already know, the mind flayers are themselves being controlled by the
 aboleths, so we have a true conspiracy onion here.
@@ -127,7 +127,7 @@ It's possible to have an entire party of PCs who would be more interested in
 pursuing this journey than dealing with the other hooks in the setting: not just
 one or more Heirs of Delzoun but also perhaps one of Oghma's Faithful who's
 really into archaeology, a Dead Rat Deserter who's after the score of the
-century, and perhaps even the Neverwinter Noble in a campaign where finding
-Gauntlgrym will give them the popular acclaim they need to take the throne. If
-there's an extended detour to deal with the eladrin, then perhaps the
-Iliyanbruen Guardian can get into the mix too.
+century, and even a Neverwinter Noble in a campaign where finding Gauntlgrym
+will give them the popular acclaim they need to take the throne. If there's an
+extended detour to deal with the eladrin, then perhaps the Iliyanbruen Guardian
+can get into the mix too.

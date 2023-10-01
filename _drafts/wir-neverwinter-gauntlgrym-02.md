@@ -69,13 +69,12 @@ The prison devised by the ancient mages if Illusk used bound water elementals
 fed by a continuous stream of sea water pumped here by magical means. The system
 could only be turned off by a true heir of Delzoun. The cataclysm happened when
 Valindra found one to pull the lever, causing Maegera to nearly awaken. Drizzt
-and his buddies prevented a full awakening back them, but the partial one was
+and his buddies prevented a full awakening back then, but the partial one was
 still enough to ruin Neverwinter.
 
-The problem with that novel's story, however, was that one of the channels had
-been permanently destroyed, and so was not reactivated when the rest were. This
-caused the binding to slowly weaken, and now Maegera is dangerously close to
-another awakening.
+Unfortunately one of the channels had been destroyed, and so was not reactivated
+when the rest of them were. This caused the binding to become imperfect and to
+slowly fade over time. Now Maegera is dangerously close to another awakening.
 
 Maegera is meant to be used as a looming threat - the bad guys want to wake her,
 the PCs want to stop that from happening. PCs could fix the broken arcane pump
@@ -96,7 +95,7 @@ city.
 
 The heat arrived at a great adamantine pyramid known as the Burning Heart, which
 collected it and distributed it to the various forges and manufactories in the
-sector. This heat could melt through any metal or ally in short order, making it
+sector. This heat could melt through any metal in short order, making it
 extremely easy to shape and ensuring the resulting products would carry a little
 of Maegera's power with them.
 
@@ -108,7 +107,7 @@ The Heart itself can also be investigated by characters competent in
 Arcana. Beating a DC of 11 reveals the obvious (lots of fire magic!); beating a
 16 reveals this fire magic is being moderated by water magic; and beating a 23
 reveals that the energy is being drained by a third party (the aboleths, which
-use in their research).
+use it in their research).
 
 "Normal" areas of the Forge are subject to the Unearthly Heat terrain effect,
 and since Maegera is partially unbound some terrain here can display more
@@ -154,13 +153,13 @@ Tier when the PCs do finish it, should the group be willing.
 The areas detailed in this post have a definite "endgame" feeling. Whatever your
 reasons for coming to Gauntlgrym, if you're here you'll need to deal with the
 mess of adversarial factions described in this post, finish what Drizzt and
-company couldn't do, and make sure Maegera stays asleep for good.
+company could not, and make sure Maegera stays asleep for good.
 
 This would be a fitting end to a campaign centered on the Heirs of Delzoun, but
 others might go from here to the bottom of the Chasm as they follow the clues
 left by the mind flayers to their real masters.
 
 Conversely, if the group doesn't include any heirs or anyone else who'd be
-interested in the lost city, it can be safely and entirely removed from the
-campaign. Just say that Maegera is in no danger of waking up, and focus on those
-elements that are relevant to your players.
+interested in the lost city, Gauntlgrym can be safely and entirely removed from
+the campaign. Just say that Maegera is in no danger of waking up, and focus on
+those elements that are relevant to your players.
