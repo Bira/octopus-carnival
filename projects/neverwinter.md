@@ -150,3 +150,4 @@ the Woods are a pretty eventful place.
 [43]: /octopus-carnival/2023/09/22/neverwinter-woods.html
 [44]: /octopus-carnival/2023/09/24/neverwinter-shandarar.html
 [45]: /octopus-carnival/2023/09/28/neverwinter-dread-ring.html
+[46]: /octopus-carnival/2023/10/01/neverwinter-xinlenal.html
