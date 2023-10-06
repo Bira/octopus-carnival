@@ -21,35 +21,140 @@ suggestion is to include a NPC hacker, and in this post we'll discuss a way to
 do so that keeps the rest of the group reasonably involved in the hacking. Rules
 are for GURPS, but the concepts can be easily translated to other systems.
 
+## Step One: Work From Home
+
+The current best practice in games that include hacker PCs is to devise ways to
+keep the hacker together with the rest of the party, so that they can fully
+participate in the game even when it's not hacking time. When your group's
+hacker is an NPC, however, the best thing to do is the opposite. Hacker NPCs
+should always do their thing remotely.
+
+Managing NPCs who constantly accompany the party is a tricky affair. A character
+who's much weaker than the party runs the risk of turning the adventure into a
+video-game-style escort quest, one of the most reviled types of mission in
+existence. One who is strong enough to protect themselves can end up becoming a
+GMPC, a label reserved for annoying characters who overshadow the players and
+make them feel like the support cast of someone else's story.
+
+All of this is subjective, which makes it even trickier. Your group's fun will
+be hurt if they _feel_ either of those scenarios is the case, even if it's not
+in terms of hard numbers.
+
+A remote hacker removes most of the risk. They're in communication with the
+group, and they can do the jobs covered by their niche, but any other challenge
+that can be handled by the PC's own skills _should_ be, even if it's
+technological in nature. And there are things the hacker can only do with
+on-site support from the PCs, which keeps them involved in the actual hack even
+if you're not engaging with those rules.
+
+The exact nature of these support tasks depends on how your specific setting
+handles computers and hacking. Most games either go the same Retro way of early
+Shadowrun and CP2020, or a more "Modern" way that uses more recent tropes such
+as the ones employed by Shadowrun 4th Edition or CP2077. We'll look at how you
+can accommodate a remote NPC hacker in both.
+
+## Kicking It Old School
+
 It's not immediately obvious to us here in 2023, but the earliest iterations of
-Shadowrun's Matrix and CP2020's Net were based on a pre-Internet model of
+Shadowrun's Matrix and CP2020's NET were based on a pre-Internet model of
 networked computing. Strip all the futuristic terms from their description and
-you'll find out you're dealing with 80s mainframes. When you keep that in mind,
-it actually makes sense that a hacker would be able to access them remotely.
-Finding the unlisted phone number for the mainframe's modem is half of the
-challenge to getting into it, and it's gonna contain the secret data you're
-after because it handles everything computer-related for its facility.
+you'll find out you're dealing with 80s mainframes. This lies at the root of a
+lot of things there that can look a bit weird or silly to modern
+readers[^1]. Here's a short and approximately correct explanation for how that
+works:
 
-But we _are_ in 2023, and we want to do things differently. Even small companies
-can afford to have completely separate servers for each important function, and
-the ones your group wants to hack are not usually not connected to any outside
-networks. That requires a physical break-in, and when there's a PC hacker it
-acts as an incentive for them to stick with the rest of the group. They need to
-be there for the actual hack, and they can contribute in other ways until then
-while being subject to the same risks as the other PCs.
+Mainframes are huge (and hugely expensive) computers that are usually
+responsible for handling all data processing for an entire company or
+organization. They were the dominant form of institutional computing from around
+the 1950s to at least the early 1990s, and never really went away.
 
-But we don't want our NPC hacker to stick with the group! NPCs who can't protect
-themselves turn the adventure into that most dreaded of slogs, the Escort Quest;
-those who _can_ run the risk of becoming the equally dreaded GMPCs. So our
-hacker has to work from home. How to square this with a target server that
-requires a physical presence, though?
+A mainframe is operated through remote terminals, which can be in the same
+building or even off-site. Therefore, it must be ready to receive connections
+and requests from these terminals. And the way you do that in the 80s is through
+phone lines and modems. They do have _internal_ security measures to
+authenticate users and prevent one user from seeing or changing other users'
+data, but there is no such thing as a firewall because permanent Internet
+connections are not yet a thing for mainframes. The most security you can add to
+the connection step is to keep the numbers for your mainframe's phone lines
+unlisted[^2].
 
-The answer, surprisingly, comes from the computer game _Warframe_.
+And this is why both Shadowrun's and CP2020's descriptions of their "global
+nets" are so concerned about splitting them into geographical regions and
+assigning codes to them and the servers within them. That net is not the
+_Internet_, but a world-spanning phone circuit. The first step to hacking
+into that corporate mainframe is to dial the unlisted number of its modem[^3].
 
-## The Datamass
+### Old-School Remote Hacking
 
-How do you hack an isolated internal network located in a building that blocks
-all outside radio signals? With quantum bullshit, that's how.
+When you have a PC hacker in these more "retro" games, the number of the
+target's modem line might be included with the mission briefing, letting them
+hack removely. It's more likely that no number is included, then the hacker has
+to go in with the group and find an terminal in the target facility through
+which they could connect.
+
+With a hacker NPC and they have the number, the reason the adventure is
+happening at all is because the mission objectives have a physical component
+that must happen at the same time. The typical setup is that you need to steal
+the physical prototype while the hacker grabs the research files.
+
+If they don't have the number, then _discovering_ the number becomes one of the
+physical mission objectives! The place the PCs are infiltrating might not even
+have any direct relation to the real, final objective, but it could be a place
+that also uses the same mainframe remotely. The number is going to be written
+down somewhere in there, either in an official manual, some employee's personal
+notes or even a scrap of paper that was carelessly thrown away[^4]. Some
+non-VR-dungeon hacking of a physical terminal to peek at its configuration might
+be necessary, which is still better than using the full rules for hacking the
+mainframe itself. Or you could end up finding a way to scam the info out of an
+employee of the place ("social engineering").
+
+This fact-finding expedition could be a whole adventure in itself, or it might
+just be an intermediate step in a more complex operation where the group must
+also infiltrate the final target facility at the same time as the hacker does
+their thing, as outlined above.
+
+## Ghosts in the Machine
+
+More recent cyberpunk games tend to base their networks on the real-world
+Internet and the technologies that support it. This means that every individual
+device attached to a network is effectively a full-feature computer, be it an
+employee's workstation, a security camera, or a guard's smartphone. Different
+departments have their own private servers and their own internal network that
+doesn't necessarily connect to the others or to the outside world.
+
+Less sensitive facilities might allow employees to work remotely from their
+homes or from other buildings by letting them connect via _virtual private
+networks_. These connections to happen over the Internet, but they're encrypted
+and protected from general snooping. Realistically, our dastardly hacker would
+need to steal valid credentials to be able to access a VPN.
+
+On the other extreme, a top-secret secure facility might be _air-gapped_, which
+means it's isolated and sealed in such a way that no signal can enter or leave
+the building. None of its internal networks are connected to the outside world,
+and they are not connected to each other either unless this is absolutely
+necessary. The servers controlling the security system are isolated from the
+servers housing sensitive data. Each has its own independent set of protections.
+
+This is both realistic according to our contemporary understanding of network
+security, and an excellent way to make sure PC hackers stick with the group and
+have plenty to do once inside. Individual hacking attempts tend to be shorter
+but more numerous, and made against devices that are within the hacker's line of
+sight. Shadowrun 4th Edition goes deep into this (5th and onwards make attempts
+to be retro), and it's also more or less how things work in Cyberpunk 2077.
+
+### New School-Remote Hacking
+
+In an environment so full of incentives for the hacker to stick with the party,
+how can you accommodate a remote NPC hacker?
+
+If the target facility has a VPN that contains the data you want, then many of
+the same "classic" techniques for acquiring those old-school mainframe phone
+numbers might also work to acquire valid VPN credentials, allowing the NPC to
+hack the place remotely.
+
+If it doesn't have a VPN or is completely isolated, then we need to resort to
+quantum bullshit. Below we'll see GURPS stats for the bullshit in question, but
+it's easily usable in other systems.
 
 A _datamass_ is an armored, briefcase-sized device that incorporates several
 kinds of data cable plus micro laser and IR communicators and a small radio
@@ -82,22 +187,12 @@ espionage. If the PCs are hired to do a hacking mission, they will usually be
 provided a datamass pair, but they can also buy their own from the usual illegal
 channels available to PCs if they want to be enterprising.
 
-Any world that has this kind of tech probably never developed "classic"
-cyberdecks, since you don't need to cram all that power into a portable form
-factor.
-
-## Take Your Decker To Work
-
 In a setting that has datamasses, hacking missions look a lot like the Warframe
 "mobile defense" missions these devices come from. The PCs need to sneak into
 the target facility carrying a datamass, and find a place where to connect it. A
-direct cable connection is best. An internal wi-fi network will do in a pinch,
-but will make everything that follows take longer.
-
-The NPC hacker sits at some remote location operating a high-tech hacking rig
-connected to the other datamass of the pair. They'll join the PCs comm network
-and help secure it. Once the party connects them to the target server, they
-begin the hacking session proper.
+direct cable connection to a machine in the target network is best. A wi-fi
+connection will do in a pinch, but will make everything that follows take
+longer.
 
 Since the hacker is an NPC, you don't need to roll anything for the actual
 hack - you just need to give the PCs a time frame for when it will be done. And
@@ -108,15 +203,22 @@ turns into a fight, but they still must stay until the hack is done or it will
 fail. For added Fun(TM), a difficult mission might require the party to do this
 several times from different access points.
 
-The remote hacker isn't a panacea - any obstacle that can be handled by the PC's
-own tech skills _should_ be. But they do save you from having to engage with
-your game's hacking rules. Success at the actual hack is entirely dependent on
-your group's ability to get the datamass where it needs to be and keep it there
-for the required amount of time. This is going to feel different from an escort
-quest, since an inanimate object can't get into trouble on its own.
-
 The self-destruct switch is useful for when the hack is done, as it allows the
 party to leave without having to lug the datamass back out. It can also prevent
 the hacker from being traced if the device is captured. Or it can be used in a
 double-cross that leaves the team stranded in enemy territory without network
 support. Use that last one sparingly!
+
+
+[^1]: Alas, it's not related to the whole VR Dungeon thing. That's weird and
+    silly for other reasons.
+
+[^2]: The real-world practice of _wardialing_ consisted of dialing every number
+    in a big list or an entire area code looking for accessible modems.
+
+[^3]: And you can absolutely go wardialiing there. The Genesis version of
+    Shadowrun even implements it.
+
+[^4]: The real world hacking practice of _dumpster diving_ consists in searching
+    a company's trash for discarded papers with valid passwords and credentials
+    written down on them.

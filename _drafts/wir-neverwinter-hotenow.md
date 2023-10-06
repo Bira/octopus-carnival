@@ -35,17 +35,18 @@ creature who lived here, and since then Gommoth started a cult dedicated to
 making it happen again.
 
 The ecstatic experience happened because it was Maegera's near-awakening that
-caused the eruption. Gommoth doesn't know this, but the cult's latest rising
-star probably does. This is Qualthus, the shadovar outcast. Remember him? He was
-banished from Xinlenal after being blamed for the accidental sabotage of their
-mythallar. True to the general disposition of his former buddies, Qualthus has
-decided that the best way to remedy this injustice is to cause Mount Hotenow to
-erupt again and bury Xinlenal in lava.
+caused the eruption, and her power tugged at the elementals' primordial
+nature. Gommoth doesn't know this, but the cult's latest rising star probably
+does. This is Qualthus, the shadovar outcast. Remember him? He was banished from
+Xinlenal after being blamed for the accidental sabotage of their mythallar. True
+to the general disposition of his former buddies, Qualthus has decided that the
+best way to remedy this injustice is to cause Mount Hotenow to erupt again and
+bury Xinlenal in lava.
 
 He's confident he can do it. After all he's an arcanist of the Netherese
 tradition (read: a megalomaniacal asshole). His actual chances are incredibly
-small, after all it took the whole Dread Ring to make it happen the first
-time. But he could get lucky.
+small, after all it took the full might of the Dread Ring to make it happen the
+first time. But he could get lucky, since Maegera's bonds are weakened.
 
 To represent Gommoth, the book suggests using an ogre mercenary stat block with
 added fire resistance, increased Charisma, and with attacks doing fire
@@ -55,9 +56,10 @@ fit with the campaign's level range.
 ## The River Of Flame
 
 Deep underground, beneath the territory of the fire cultists, there is a river
-of liquid flame. This isn't poetic language: it's not magma, it's literal liquid
-fire. It follows a winding subterranean path, and the important thing for player
-characters is that it passes by a tunnel that leads directly to Gauntlgrym.
+of liquid flame. This isn't poetic language or a metaphor for magma, but a
+literal description. The river follows a winding subterranean path, and the
+important thing for player characters is that it passes by a tunnel that leads
+directly to Gauntlgrym.
 
 PCs who know where to disembark could take some sort of fireproof boat or
 submersible through this river, and arrive at the lost city. Their main
@@ -74,9 +76,10 @@ be the first time we hear of these NPCs.
 
 This might be a disconnect between different authors, or it might be a sort of
 soft "Player's Guide/Campaign Setting" separation within the same book, since
-presumably you want PCs to choose a theme without seeing any spoilers. Whatever
-the case, we now run into the group that ties to the Heir of Delzoun, and it's a
-genuine Dwarf Fortress expedition!
+presumably you want PCs to choose a theme without seeing any spoilers about what
+they'll encounter during the campaign. Whatever the case, we now run into the
+group that ties to the Heir of Delzoun, and it's a genuine Dwarf Fortress
+expedition!
 
 The Heir's description actively lied to the player: they're not one of the last
 dwarves who are still looking for the lost city. In reality there are so many
@@ -95,7 +98,8 @@ through Many-Arrows territory unharmed, but the dwarves and orcs just couldn't
 resist provoking each other until hostilities broke out.
 
 Then they arrived at the Wood and lost yet more dwarves to eladrin arrows and
-miscellaneous monsters.
+miscellaneous monsters. Either Shandarar's guardians were particularly
+trigger-happy or it was those old rivalries flaring up again.
 
 Then they got to the volcano and lost a bunch more dwarves to Gommoth's cult.
 
