@@ -6,6 +6,16 @@ tags:
     - cyberpunk
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/lancer-horus.jpg" | absolute_url }}"/>
+  <figcaption>
+    NPC hackers waiting for the PCs to arrive at the jackpoint.
+    Illustration by Tom Parkinson Morgan.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Whether called a hacker, a decker, or a netrunner, the person who invades
 computer systems and makes them do things features prominently in the stories
 most cyberpunk RPGs take inspiration from, and so often ends up being a vitally
@@ -21,7 +31,7 @@ suggestion is to include a NPC hacker, and in this post we'll discuss a way to
 do so that keeps the rest of the group reasonably involved in the hacking. Rules
 are for GURPS, but the concepts can be easily translated to other systems.
 
-## Step One: Work From Home
+## Work From Home
 
 The current best practice in games that include hacker PCs is to devise ways to
 keep the hacker together with the rest of the party, so that they can fully
@@ -37,8 +47,8 @@ GMPC, a label reserved for annoying characters who overshadow the players and
 make them feel like the support cast of someone else's story.
 
 All of this is subjective, which makes it even trickier. Your group's fun will
-be hurt if they _feel_ either of those scenarios is the case, even if it's not
-in terms of hard numbers.
+be hurt if they _feel_ either of those scenarios is happening, even if the math
+is well-balanced.
 
 A remote hacker removes most of the risk. They're in communication with the
 group, and they can do the jobs covered by their niche, but any other challenge
@@ -53,7 +63,7 @@ Shadowrun and CP2020, or a more "Modern" way that uses more recent tropes such
 as the ones employed by Shadowrun 4th Edition or CP2077. We'll look at how you
 can accommodate a remote NPC hacker in both.
 
-## Kicking It Old School
+## The Future of Another Timeline
 
 It's not immediately obvious to us here in 2023, but the earliest iterations of
 Shadowrun's Matrix and CP2020's NET were based on a pre-Internet model of
@@ -104,16 +114,16 @@ that also uses the same mainframe remotely. The number is going to be written
 down somewhere in there, either in an official manual, some employee's personal
 notes or even a scrap of paper that was carelessly thrown away[^4]. Some
 non-VR-dungeon hacking of a physical terminal to peek at its configuration might
-be necessary, which is still better than using the full rules for hacking the
-mainframe itself. Or you could end up finding a way to scam the info out of an
-employee of the place ("social engineering").
+be necessary, which might be resolved by a couple of rolls since dumb terminals
+are less secure than the mainframe they talk to. Or you might need to find a way
+to scam the info out of an someone who works there ("social engineering").
 
 This fact-finding expedition could be a whole adventure in itself, or it might
 just be an intermediate step in a more complex operation where the group must
 also infiltrate the final target facility at the same time as the hacker does
 their thing, as outlined above.
 
-## Ghosts in the Machine
+## Twenty Minutes From Now
 
 More recent cyberpunk games tend to base their networks on the real-world
 Internet and the technologies that support it. This means that every individual
@@ -138,11 +148,12 @@ servers housing sensitive data. Each has its own independent set of protections.
 This is both realistic according to our contemporary understanding of network
 security, and an excellent way to make sure PC hackers stick with the group and
 have plenty to do once inside. Individual hacking attempts tend to be shorter
-but more numerous, and made against devices that are within the hacker's line of
-sight. Shadowrun 4th Edition goes deep into this (5th and onwards make attempts
-to be retro), and it's also more or less how things work in Cyberpunk 2077.
+but more numerous, and made against devices that are within the hacker's
+immediate reach[^5]. Shadowrun 4th Edition goes deep into this (5th and onwards
+go back to the retro model), and it's also more or less how things work in
+Cyberpunk 2077.
 
-### New School-Remote Hacking
+### New-School Remote Hacking
 
 In an environment so full of incentives for the hacker to stick with the party,
 how can you accommodate a remote NPC hacker?
@@ -153,21 +164,27 @@ numbers might also work to acquire valid VPN credentials, allowing the NPC to
 hack the place remotely.
 
 If it doesn't have a VPN or is completely isolated, then we need to resort to
-quantum bullshit. Below we'll see GURPS stats for the bullshit in question, but
-it's easily usable in other systems.
+quantum bullshit. Below we'll see GURPS stats for the bullshit in question,
+imported directly from Warframe. It's easily usable in other systems, though.
 
-A _datamass_ is an armored, briefcase-sized device that incorporates several
-kinds of data cable plus micro laser and IR communicators and a small radio
-(GURPS Ultratech pages 43-44). All of these are connected to a sizable amount of
-quantum-entangled matter. Datamasses are made in pairs, entangled with each
-other, and allow high-bandwidth communication and data transfer between elements
-of the pair through any amount of barriers or interference. They have DR 10, HP
-8, cost $5000 for the pair, weight 5kg (10 lb) each, and are LC1 (AKA _super
-illegal_). They also include an emergency self-destruct switch that melts the
-internals of both elements of the pair when
+{::nomarkdown}
+<figure class="left">
+  <img src="{{ "/assets/CorpusDatamass.webp" | absolute_url }}" width=200/>
+</figure>
+{:/nomarkdown}
 
-A datamass pair is similar in concept to the causality communicator in
-Ultra-Tech page 45, but _much_ cheaper.
+A **datamass** is a device similar in concept to the causality communicator in
+Ultra-Tech page 45, but _much_ cheaper. It consists of an armored,
+briefcase-sized device that incorporates several kinds of data cable plus laser
+and IR micro-communicators and a small radio (GURPS Ultratech pages 43-44). All
+of these are connected to a sizable amount of quantum-entangled matter.
+
+Datamasses are made in entangled pairs that allow high-bandwidth communication
+and data transfer between elements of the pair through any amount of barriers or
+interference. They have DR 10, HP 8, cost $5000 for the pair, weight 5kg (10 lb)
+each, and are LC1 (AKA _super illegal_). They also include an emergency
+self-destruct switch that melts the internals of both elements of the pair and
+can be triggered from either side.
 
 In your typical cyberpunk setting, datamasses were first invented as
 super-secret espionage tools by a major government or computer-focused megacorp,
@@ -184,8 +201,9 @@ invented in the distant future, but for now it's mostly used for its original
 purpose, and allows teams of plucky street mercs like the PCs to operate at the
 same level as crack corporate commandos when it comes to high-level
 espionage. If the PCs are hired to do a hacking mission, they will usually be
-provided a datamass pair, but they can also buy their own from the usual illegal
-channels available to PCs if they want to be enterprising.
+provided a datamass pair. PCs can also buy their own through the usual illegal
+channels available to PCs in these games. It should be difficult, but not
+impossible.
 
 In a setting that has datamasses, hacking missions look a lot like the Warframe
 "mobile defense" missions these devices come from. The PCs need to sneak into
@@ -222,3 +240,5 @@ support. Use that last one sparingly!
 [^4]: The real world hacking practice of _dumpster diving_ consists in searching
     a company's trash for discarded papers with valid passwords and credentials
     written down on them.
+
+[^5]: Anywhere from "directly plugged in" to "in the same local wi-fi network".
