@@ -170,6 +170,7 @@ imported directly from Warframe. It's easily usable in other systems, though.
 {::nomarkdown}
 <figure class="left">
   <img src="{{ "/assets/CorpusDatamass.webp" | absolute_url }}" width=200/>
+  <figcaption>A datamass.</figcaption>
 </figure>
 {:/nomarkdown}
 
