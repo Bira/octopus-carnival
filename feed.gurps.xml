@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Oct 2023 22:02:22 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Oct 2023 22:02:22 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 22:06:50 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 22:06:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -172,6 +172,7 @@ imported directly from Warframe. It’s easily usable in other systems, though.&
 
 &lt;figure class=&quot;left&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/CorpusDatamass.webp&quot; width=200/&gt;
+  &lt;figcaption&gt;A datamass.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;A &lt;strong&gt;datamass&lt;/strong&gt; is a device similar in concept to the causality communicator in
