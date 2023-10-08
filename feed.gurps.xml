@@ -5,9 +5,264 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 06 Oct 2023 14:14:01 +0000</pubDate>
-    <lastBuildDate>Fri, 06 Oct 2023 14:14:01 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 21:59:26 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 21:59:26 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Hacking Without a Hacker</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/lancer-horus.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    NPC hackers waiting for the PCs to arrive at the jackpoint.
+    Illustration by Tom Parkinson Morgan.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Whether called a hacker, a decker, or a netrunner, the person who invades
+computer systems and makes them do things features prominently in the stories
+most cyberpunk RPGs take inspiration from, and so often ends up being a vitally
+important archetype in those games. However, they tend to have a very mixed
+track record when it comes to actually presenting you with a hacking system
+that’s fun and bug-free.&lt;/p&gt;
+
+&lt;p&gt;This means there are many possible reasons for why you might find yourself
+planning a cyberpunk game but have no cause or wish to use its hacking
+rules. Maybe none of the players wants to be a hacker, or maybe the group just
+doesn’t like the rules of the game in question. In those cases, a popular
+suggestion is to include a NPC hacker, and in this post we’ll discuss a way to
+do so that keeps the rest of the group reasonably involved in the hacking. Rules
+are for GURPS, but the concepts can be easily translated to other systems.&lt;/p&gt;
+
+&lt;h2 id=&quot;work-from-home&quot;&gt;Work From Home&lt;/h2&gt;
+
+&lt;p&gt;The current best practice in games that include hacker PCs is to devise ways to
+keep the hacker together with the rest of the party, so that they can fully
+participate in the game even when it’s not hacking time. When your group’s
+hacker is an NPC, however, the best thing to do is the opposite. Hacker NPCs
+should always do their thing remotely.&lt;/p&gt;
+
+&lt;p&gt;Managing NPCs who constantly accompany the party is a tricky affair. A character
+who’s much weaker than the party runs the risk of turning the adventure into a
+video-game-style escort quest, one of the most reviled types of mission in
+existence. One who is strong enough to protect themselves can end up becoming a
+GMPC, a label reserved for annoying characters who overshadow the players and
+make them feel like the support cast of someone else’s story.&lt;/p&gt;
+
+&lt;p&gt;All of this is subjective, which makes it even trickier. Your group’s fun will
+be hurt if they &lt;em&gt;feel&lt;/em&gt; either of those scenarios is happening, even if the math
+is well-balanced.&lt;/p&gt;
+
+&lt;p&gt;A remote hacker removes most of the risk. They’re in communication with the
+group, and they can do the jobs covered by their niche, but any other challenge
+that can be handled by the PC’s own skills &lt;em&gt;should&lt;/em&gt; be, even if it’s
+technological in nature. And there are things the hacker can only do with
+on-site support from the PCs, which keeps them involved in the actual hack even
+if you’re not engaging with those rules.&lt;/p&gt;
+
+&lt;p&gt;The exact nature of these support tasks depends on how your specific setting
+handles computers and hacking. Most games either go the same Retro way of early
+Shadowrun and CP2020, or a more “Modern” way that uses more recent tropes such
+as the ones employed by Shadowrun 4th Edition or CP2077. We’ll look at how you
+can accommodate a remote NPC hacker in both.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-future-of-another-timeline&quot;&gt;The Future of Another Timeline&lt;/h2&gt;
+
+&lt;p&gt;It’s not immediately obvious to us here in 2023, but the earliest iterations of
+Shadowrun’s Matrix and CP2020’s NET were based on a pre-Internet model of
+networked computing. Strip all the futuristic terms from their description and
+you’ll find out you’re dealing with 80s mainframes. This lies at the root of a
+lot of things there that can look a bit weird or silly to modern
+readers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a short and approximately correct explanation for how that
+works:&lt;/p&gt;
+
+&lt;p&gt;Mainframes are huge (and hugely expensive) computers that are usually
+responsible for handling all data processing for an entire company or
+organization. They were the dominant form of institutional computing from around
+the 1950s to at least the early 1990s, and never really went away.&lt;/p&gt;
+
+&lt;p&gt;A mainframe is operated through remote terminals, which can be in the same
+building or even off-site. Therefore, it must be ready to receive connections
+and requests from these terminals. And the way you do that in the 80s is through
+phone lines and modems. They do have &lt;em&gt;internal&lt;/em&gt; security measures to
+authenticate users and prevent one user from seeing or changing other users’
+data, but there is no such thing as a firewall because permanent Internet
+connections are not yet a thing for mainframes. The most security you can add to
+the connection step is to keep the numbers for your mainframe’s phone lines
+unlisted&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this is why both Shadowrun’s and CP2020’s descriptions of their “global
+nets” are so concerned about splitting them into geographical regions and
+assigning codes to them and the servers within them. That net is not the
+&lt;em&gt;Internet&lt;/em&gt;, but a world-spanning phone circuit. The first step to hacking
+into that corporate mainframe is to dial the unlisted number of its modem&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;old-school-remote-hacking&quot;&gt;Old-School Remote Hacking&lt;/h3&gt;
+
+&lt;p&gt;When you have a PC hacker in these more “retro” games, the number of the
+target’s modem line might be included with the mission briefing, letting them
+hack removely. It’s more likely that no number is included, then the hacker has
+to go in with the group and find an terminal in the target facility through
+which they could connect.&lt;/p&gt;
+
+&lt;p&gt;With a hacker NPC and they have the number, the reason the adventure is
+happening at all is because the mission objectives have a physical component
+that must happen at the same time. The typical setup is that you need to steal
+the physical prototype while the hacker grabs the research files.&lt;/p&gt;
+
+&lt;p&gt;If they don’t have the number, then &lt;em&gt;discovering&lt;/em&gt; the number becomes one of the
+physical mission objectives! The place the PCs are infiltrating might not even
+have any direct relation to the real, final objective, but it could be a place
+that also uses the same mainframe remotely. The number is going to be written
+down somewhere in there, either in an official manual, some employee’s personal
+notes or even a scrap of paper that was carelessly thrown away&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. Some
+non-VR-dungeon hacking of a physical terminal to peek at its configuration might
+be necessary, which might be resolved by a couple of rolls since dumb terminals
+are less secure than the mainframe they talk to. Or you might need to find a way
+to scam the info out of an someone who works there (“social engineering”).&lt;/p&gt;
+
+&lt;p&gt;This fact-finding expedition could be a whole adventure in itself, or it might
+just be an intermediate step in a more complex operation where the group must
+also infiltrate the final target facility at the same time as the hacker does
+their thing, as outlined above.&lt;/p&gt;
+
+&lt;h2 id=&quot;twenty-minutes-from-now&quot;&gt;Twenty Minutes From Now&lt;/h2&gt;
+
+&lt;p&gt;More recent cyberpunk games tend to base their networks on the real-world
+Internet and the technologies that support it. This means that every individual
+device attached to a network is effectively a full-feature computer, be it an
+employee’s workstation, a security camera, or a guard’s smartphone. Different
+departments have their own private servers and their own internal network that
+doesn’t necessarily connect to the others or to the outside world.&lt;/p&gt;
+
+&lt;p&gt;Less sensitive facilities might allow employees to work remotely from their
+homes or from other buildings by letting them connect via &lt;em&gt;virtual private
+networks&lt;/em&gt;. These connections to happen over the Internet, but they’re encrypted
+and protected from general snooping. Realistically, our dastardly hacker would
+need to steal valid credentials to be able to access a VPN.&lt;/p&gt;
+
+&lt;p&gt;On the other extreme, a top-secret secure facility might be &lt;em&gt;air-gapped&lt;/em&gt;, which
+means it’s isolated and sealed in such a way that no signal can enter or leave
+the building. None of its internal networks are connected to the outside world,
+and they are not connected to each other either unless this is absolutely
+necessary. The servers controlling the security system are isolated from the
+servers housing sensitive data. Each has its own independent set of protections.&lt;/p&gt;
+
+&lt;p&gt;This is both realistic according to our contemporary understanding of network
+security, and an excellent way to make sure PC hackers stick with the group and
+have plenty to do once inside. Individual hacking attempts tend to be shorter
+but more numerous, and made against devices that are within the hacker’s
+immediate reach&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Shadowrun 4th Edition goes deep into this (5th and onwards
+go back to the retro model), and it’s also more or less how things work in
+Cyberpunk 2077.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-school-remote-hacking&quot;&gt;New-School Remote Hacking&lt;/h3&gt;
+
+&lt;p&gt;In an environment so full of incentives for the hacker to stick with the party,
+how can you accommodate a remote NPC hacker?&lt;/p&gt;
+
+&lt;p&gt;If the target facility has a VPN that contains the data you want, then many of
+the same “classic” techniques for acquiring those old-school mainframe phone
+numbers might also work to acquire valid VPN credentials, allowing the NPC to
+hack the place remotely.&lt;/p&gt;
+
+&lt;p&gt;If it doesn’t have a VPN or is completely isolated, then we need to resort to
+quantum bullshit. Below we’ll see GURPS stats for the bullshit in question,
+imported directly from Warframe. It’s easily usable in other systems, though.&lt;/p&gt;
+
+&lt;figure class=&quot;left&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/CorpusDatamass.webp&quot; width=200/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A &lt;strong&gt;datamass&lt;/strong&gt; is a device similar in concept to the causality communicator in
+Ultra-Tech page 45, but &lt;em&gt;much&lt;/em&gt; cheaper. It consists of an armored,
+briefcase-sized device that incorporates several kinds of data cable plus laser
+and IR micro-communicators and a small radio (GURPS Ultratech pages 43-44). All
+of these are connected to a sizable amount of quantum-entangled matter.&lt;/p&gt;
+
+&lt;p&gt;Datamasses are made in entangled pairs that allow high-bandwidth communication
+and data transfer between elements of the pair through any amount of barriers or
+interference. They have DR 10, HP 8, cost $5000 for the pair, weight 5kg (10 lb)
+each, and are LC1 (AKA &lt;em&gt;super illegal&lt;/em&gt;). They also include an emergency
+self-destruct switch that melts the internals of both elements of the pair and
+can be triggered from either side.&lt;/p&gt;
+
+&lt;p&gt;In your typical cyberpunk setting, datamasses were first invented as
+super-secret espionage tools by a major government or computer-focused megacorp,
+and initially gave them a major leg up in one of the many ongoing cold wars
+between such entities. The secret of their existence soon leaked, however, and
+an enterprising independent engineer figured out they were quite easy to make
+with a properly modified home 3d printer. Yes, even the entangled matter. The
+plans for a home-baked datamasses were soon made widely available on the Net,
+and they keep popping up no matter how much effort the corps spend to squash
+them. That’s why they’re relatively cheap.&lt;/p&gt;
+
+&lt;p&gt;Datamass technology is going to be really revolutionary when FTL travel is
+invented in the distant future, but for now it’s mostly used for its original
+purpose, and allows teams of plucky street mercs like the PCs to operate at the
+same level as crack corporate commandos when it comes to high-level
+espionage. If the PCs are hired to do a hacking mission, they will usually be
+provided a datamass pair. PCs can also buy their own through the usual illegal
+channels available to PCs in these games. It should be difficult, but not
+impossible.&lt;/p&gt;
+
+&lt;p&gt;In a setting that has datamasses, hacking missions look a lot like the Warframe
+“mobile defense” missions these devices come from. The PCs need to sneak into
+the target facility carrying a datamass, and find a place where to connect it. A
+direct cable connection to a machine in the target network is best. A wi-fi
+connection will do in a pinch, but will make everything that follows take
+longer.&lt;/p&gt;
+
+&lt;p&gt;Since the hacker is an NPC, you don’t need to roll anything for the actual
+hack - you just need to give the PCs a time frame for when it will be done. And
+then they must stay near the datamass and guard it until that much time has
+elapsed. If they snuck in, they need to find a way to maintain stealth and
+divert security attention from their access point. If they’re found out, it
+turns into a fight, but they still must stay until the hack is done or it will
+fail. For added Fun(TM), a difficult mission might require the party to do this
+several times from different access points.&lt;/p&gt;
+
+&lt;p&gt;The self-destruct switch is useful for when the hack is done, as it allows the
+party to leave without having to lug the datamass back out. It can also prevent
+the hacker from being traced if the device is captured. Or it can be used in a
+double-cross that leaves the team stranded in enemy territory without network
+support. Use that last one sparingly!&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Alas, it’s not related to the whole VR Dungeon thing. That’s weird and
+silly for other reasons. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The real-world practice of &lt;em&gt;wardialing&lt;/em&gt; consisted of dialing every number
+in a big list or an entire area code looking for accessible modems. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And you can absolutely go wardialiing there. The Genesis version of
+Shadowrun even implements it. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The real world hacking practice of &lt;em&gt;dumpster diving&lt;/em&gt; consists in searching
+a company’s trash for discarded papers with valid passwords and credentials
+written down on them. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Anywhere from “directly plugged in” to “in the same local wi-fi network”. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/08/hacking-without-hackers.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/08/hacking-without-hackers.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Play Hell's Rebels: Devils and other Fiends</title>
@@ -1645,270 +1900,6 @@ shoot him in the head after telling him “Goncharov says hi”. &lt;a href=&qu
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</guid>
         
         <category>shadowrun</category>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Guns of Wolfenstein, Part 01</title>
-        <description>&lt;p&gt;I’ve been playing a lot of Wolfenstein games these past few days. There’s
-something cathartic about unapologetically fighting Nazis. I first did it to
-de-stress, and then to celebrate the results of our most recent election (go
-Lula!).&lt;/p&gt;
-
-&lt;p&gt;And since I do occasionally want to post something here that’s not Let’s Read
-the Monster Manual, I decided to talk a bit about the various guns you use to
-kill Nazis in all of these games.&lt;/p&gt;
-
-&lt;p&gt;We’re dealing with two separate continuities here: one that starts with Return
-to Castle Wolfenstein (2001) and another that starts with Wolfenstein: The New
-Order (2014). You could, if you’re so inclined, include both of them in the
-GURPS Infinite Worlds framework. I’d call then Wolfenstein-1 and Wolfenstein-2
-respectively, though I guess Infinity might call the latter Reich-6 at first.&lt;/p&gt;
-
-&lt;p&gt;In this article, we’ll cover the stuff that appears in Return to Castle
-Wolfenstein (2001), AKA the Wolfenstein-1 setting.&lt;/p&gt;
-
-&lt;h2 id=&quot;game-overview&quot;&gt;Game Overview&lt;/h2&gt;
-
-&lt;p&gt;This is a flashier remake of Wolfenstein 3D, the game that more or less started
-the FPS genre back in 1992. It’s the first game in the franchise to have a more
-fleshed out story wrapped around its gameplay, with voiced dialogue and
-cutscenes elaborating on the simpler “you must escape the castle and kill Nazis”
-plot of the 1992 game.&lt;/p&gt;
-
-&lt;p&gt;The game takes place in a pulpier version of WWII, where the Nazis are working
-on a large variety of scary secret projects and the OSA (a joint Allied spy
-agency) is sending agents to stop them from hitting the field. The player
-character, as always, is William “B. J.” Blazkowicz. He gets sent along with a
-British agent to Castle Wolfenstein to find more about these projects, they get
-captured, and the game starts with Blazko’s escape attempt and moves on to
-thwarting those projects to the Allies can win the war.&lt;/p&gt;
-
-&lt;p&gt;There are two sinister things going on here: an attempt by the Thule society to
-resurrect ancient evil undead knights, and a mad science lab working to build
-cyborg supersoldiers. The final boss is, of course, a bunch of cyborg
-supersoldiers possessed by the spirits of ancient evil undead knights.&lt;/p&gt;
-
-&lt;h2 id=&quot;historical-weapons&quot;&gt;Historical Weapons&lt;/h2&gt;
-
-&lt;p&gt;Wolfenstein-1 is mostly a pulpier version of WWII, so a lot of the weapons we
-see are historical and present on GURPS High-Tech. Though sometimes you’ll start
-a level with some Allied weapons issued by the OSA, the vast majority of the
-time you’ll be using captured German hardware.&lt;/p&gt;
-
-&lt;p&gt;OSA-issue weapons include the &lt;strong&gt;Colt M1911A1&lt;/strong&gt; pistol (p. HT99), the &lt;strong&gt;Thompson
-M1&lt;/strong&gt; submachine gun (p. HT122), and the &lt;strong&gt;Enfield Sten Mk IIS&lt;/strong&gt; submachine gun
-(p. HT 125). The integral suppressor of the Sten works according to cinematic
-principles here, making it completely silent to enemies.&lt;/p&gt;
-
-&lt;p&gt;Interestingly enough, one of the “elite guard” units you face in the game also
-uses Stens, because they’re meant to be sneaky and the Sten is the only
-suppressed SMG in the game. The other OSA weapons are used exclusively by the
-player character.&lt;/p&gt;
-
-&lt;p&gt;German weapons include the &lt;strong&gt;Luger P08&lt;/strong&gt; pistol, (p. HT98), the &lt;strong&gt;ERMA MP40&lt;/strong&gt;
-SMG (p. HT 124), the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; rifle (p. HT111), the &lt;strong&gt;Rheinmetall
-FG42&lt;/strong&gt; battle rifle (p. HT 115) and the &lt;strong&gt;Panzerfaust&lt;/strong&gt; (p. HT147). The player
-also uses these extensively, since every enemy drops ammo for one of them.&lt;/p&gt;
-
-&lt;p&gt;The FG42 is the signature weapon of the other “elite guard” unit in the game,
-and has the scope described in its High-Tech entry. It’s also possible to find a
-suppressor for the Luger and a variable-power scope for the Mauser, which you
-can stat up using the generic rules in p. HT 156 and p. HT 158.&lt;/p&gt;
-
-&lt;p&gt;You can occasionally also find a few &lt;strong&gt;MG42&lt;/strong&gt; machine gun (p. HT 134)
-emplacements in the game. There is also a flamethrower similar to the &lt;strong&gt;M2-2&lt;/strong&gt;
-(p. HT179), though this is probably the German equivalent rather than the
-American version in the book.&lt;/p&gt;
-
-&lt;p&gt;Grenades also see use, with most of them being the German &lt;strong&gt;Stielhandgranate
-24&lt;/strong&gt;, and the rest American &lt;strong&gt;AMC Mk II&lt;/strong&gt; models. Both are on p. HT190-191.&lt;/p&gt;
-
-&lt;h2 id=&quot;fictional-weapons&quot;&gt;Fictional Weapons&lt;/h2&gt;
-
-&lt;p&gt;There’s a lot of pulpy arms research going on here on both sides, so we also get
-to see some weapons that don’t exist in reality. We’ll cover these in a bit more
-detail.&lt;/p&gt;
-
-&lt;h3 id=&quot;snooper-rifle&quot;&gt;Snooper Rifle&lt;/h3&gt;
-
-&lt;p&gt;This is a prototype sniper rifle issued to Blazkowicz by the OSA early in the
-second mission of the game. You also find captured rifles later on while
-breaking into one of the games’ many secret lab facilities.&lt;/p&gt;
-
-&lt;p&gt;The Snooper is the most down-to-earth of the experimental weapons here, being an
-exaggerated version of the &lt;strong&gt;M3 Carbine&lt;/strong&gt; (p. HT113). Even the fancy infrared
-sight is real! The biggest changes are the addition of a cinematic integral
-suppressor that makes the gun completely silent, and making the infrared sight
-more advanced than it really was. The one in the game has variable magnification
-and requires no external batteries.&lt;/p&gt;
-
-&lt;h3 id=&quot;venom-machine-gun&quot;&gt;Venom Machine Gun&lt;/h3&gt;
-
-&lt;p&gt;This is the first entirely fictional weapon we encounter in the game, and the
-second most unrealistic one. It’s a portable, six-barreled, belt-fed minigun. It
-has relatively short barrels, a shoulder stock and rifle-style grips. There’s an
-in-game document that describes it as firing 7.92mm saboted armor piercing
-rounds, but the ammo for it is labeled as “12.7mm” in game. You first find the
-Venom as a prototype in one of the secret labs that make up the game’s levels,
-and after that it starts appearing in the hands of some enemy human
-soldiers. Most of the cyborg supersoldiers you meet towards the end of the game
-also carry one.&lt;/p&gt;
-
-&lt;p&gt;We’ll need custom stats for this one! Let’s go with the assumption that it fires
-7.92mm ammo, to make it minimally plausible for it to be portable. To make it a
-little easier on the user, we can further say it fires the 7.92x33mm Kurz round,
-instead of the longer 7.92x57mm Mauser round from the Kar98K.&lt;/p&gt;
-
-&lt;p&gt;The in-game Venom takes up to 500 rounds. These would probably be in a
-disintegrating belt inside a metal can that can be worn as a backpack. The whole
-thing weights around 16kg, more than the weapon itself. More reasonable 200 and
-100 round belts with their smaller containers might weight in at 8 and 4kg
-respectively.&lt;/p&gt;
-
-&lt;p&gt;We’ll actually base the stats for it on the Minigun from page 138 of GURPS
-Ultra-Tech, making the Venom a TL 7+2 weapon. The one on the table fires APDS
-ammo, which is also TL 7+2 in this caliber, and has a 500-round belt.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6d+2(2) pi-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1000/4000&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15kg/16kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;25!&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;500(5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;15M&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-7&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The Venom requires Guns (LMG) to operate, or Guns (Longarm) with the Burst-Fire
-technique if using the alternate gun skill rules from Pyramid #3/65.&lt;/p&gt;
-
-&lt;h3 id=&quot;tesla-gun&quot;&gt;Tesla Gun&lt;/h3&gt;
-
-&lt;p&gt;The weapon used by the advanced cyborg supersoldiers you meet at the very end of
-the game. Unlike the Venom this doesn’t bear even the tiniest resemblance to any
-real gun. Pull the trigger and it fires a stream of lightning until you release
-it or until it runs out of charge.&lt;/p&gt;
-
-&lt;p&gt;The Tesla Gun draws power from a superscience backpack battery equivalent to a
-TL 9 D cell, but four times heavier. Its damage follows the same rules as the
-Lightning spell: metal armor only provides DR 1, and the target must make a HT
-roll with a penalty of -1 for every 2 points of injury taken from it. Failure
-means they’re stunned, and must attempt an HT roll every turn in order to
-recover.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+2^&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4d+2 burn sur&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;600/1900&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;35kg/10kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;50 (5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;18M&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-8&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;The Tesla Gun requires Gunner (Beam) to operate, even when carried.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-much-for-these-fancy-guns&quot;&gt;How much for these fancy guns?&lt;/h2&gt;
-
-&lt;p&gt;You’ll notice that I ommitted any price information for the Venom and the Tesla
-Gun above. That’s because in Wolfenstein-1 they’re secret prototypes with very
-limited production runs. You don’t buy them, you pry them from the hands of dead
-Nazi assholes.&lt;/p&gt;
-
-&lt;p&gt;If you want to use them on a different setting where they are available for
-purchase, use the following costs:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Name&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Cost&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom MG&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$12.500&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, APDS)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$180&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Venom Ammo (100-round belt, solid)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$60&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Gun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$60.000&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Tesla Battery&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;$400&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;These are for a setting with a tech level of 7+2. If you’re in a “plain” TL9
-setting you might want to use the Minigun and Semi-Portable Electrolaser from
-Ultra-tech, which have slightly better stats.&lt;/p&gt;
-
-&lt;p&gt;If your setting is like Wolfenstein-1, where the overall TL is a plain 7 and
-these are secret superscience prototypes, multiply all prices by 4.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/04/guns-of-wolfenstein.html</guid>
         
         <category>gurps</category>
         
