@@ -5,9 +5,79 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Oct 2023 22:06:50 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Oct 2023 22:06:50 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 19:41:53 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 19:41:53 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Coiled Spring</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/coiled-spring.png&quot;/&gt;
+  &lt;figcaption&gt;
+  Image source: &lt;a
+  href=&quot;https://www.deviantart.com/eveyd/art/Antique-Vintage-Pocket-Watch-png-268108244&quot;&gt;EveyD
+  on DeviantArt&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Coiled Spring is an amulet made of brass. It’s disc shaped and about an inch
+thick. On its front, there is a relief of a snake eating its own tail, the
+classic Ouroboros. The inside of the ring formed by the snake is a clear crystal
+panel, through which can be seen a spring like that of a watch.&lt;/p&gt;
+
+&lt;p&gt;That spring can store up to ten Fatigue Points which can be used to enable
+bursts of extra effort - most often &lt;em&gt;Extra Effort in Combat&lt;/em&gt; (p. B357), but also
+other athletic feats. The stored FP can only be used for those purposes, and is
+not affected by negative effects that would sap the user’s own FP. In other
+words, it works just like the Heroic Reserves advantage from &lt;strong&gt;GURPS Dungeon
+Fantasy 20: Slayers&lt;/strong&gt;, and &lt;em&gt;almost&lt;/em&gt; like a power item for martial characters.&lt;/p&gt;
+
+&lt;p&gt;The main difference between the Coiled Spring and a normal Power Item is that it
+hijacks the natural recovery processes of the wearer’s body in order to “wind”
+itself, and cannot be recharged by the usual methods for power items. While the
+Spring is not at full capacity, its wearer is unable to recover their own
+Fatigue Points, and the amulet gains 1 FP every 10 minutes. This is a constant
+rate - traits which speed up FP recovery for the wearer have no effect on the
+amulet. The wearer regains their usual ability to rest when the amulet is fully
+charged, or when it’s removed (which stops the charging process).&lt;/p&gt;
+
+&lt;p&gt;While this does mean recharging the Coiled Spring in town is effectively free,
+it can make dungeon delving more complicated for martial characters,
+particularly if the GM enforces rules like fatigue costs for fighting a battle
+(p. B426 or DF Exploits p. 60). Characters who normally can’t use Fatigue Points
+can wear the Coiled Spring and use it to benefit from the Extra Effort rules in
+and out of combat, though they can’t recharge it.&lt;/p&gt;
+
+&lt;p&gt;Scholars who know of the Spring speculate that it was originally meant  to allow
+golems and other constructs to surpass their limits. In an adventure, it will
+most likely be found worn by such a construct, or by an elite warrior who
+figured out it works just as well for organics. If found in a chest or hoard,
+though, it will always start out empty.&lt;/p&gt;
+
+&lt;p&gt;If the delvers try to sell the Coiled Spring, or if you decide it’s available in
+shops, its monetary value is twice that of a Power Item of the same
+capacity. That’s $3400 for the 10 FP version described here, though you could
+have versions with greater or smaller capacity. Note that you &lt;em&gt;can’t&lt;/em&gt; double-dip
+and use the Coiled Spring as a Power Item.&lt;/p&gt;
+
+&lt;p&gt;Variant Springs are possible. Maybe the Flywheel of Faith can power divine
+magic, the Arcane Array wizardly spells, and the Goddess Gyre druidic ones. The
+recharging mechanics and all other restrictions are the same. They could allow a
+construct who can’t normally cast spells or use casting magical items due to a
+lack of FP to do so.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/10/coiled-spring.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/10/coiled-spring.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>artifact</category>
+        
+        
+      </item>
     
       <item>
         <title>Hacking Without a Hacker</title>
@@ -1758,151 +1828,6 @@ location.&lt;/p&gt;
         <category>gurps</category>
         
         <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Shadowrun: Goncharov</title>
-        <description>&lt;p&gt;I’ve recently read about a fun Tumblr meme. It’s about Goncharov, a 1973 Martin
-Scorcese movie that never existed.&lt;/p&gt;
-
-&lt;p&gt;It began when someone posted a picture of these bootleg boots they bought
-somewhere. The brand label had one of those word salads copied from somewhere
-and edited by someone not too familiar with the target language. In this case,
-it was copied from a poster for Gomorrah, a real movie. And it read “Martin
-Scorcese presents Goncharov”.&lt;/p&gt;
-
-&lt;p&gt;Tumblr &lt;a href=&quot;https://www.tumblr.com/hussyknee/701454778540146688/im-so-confused-rn-can-you-explain-the-goncharov&quot;&gt;kinda ran with it&lt;/a&gt;, so now you have a lot of people making things up about
-the movie and fabricating screenshots, posters, bits of soundtrack, talking
-about all of this as if it was a real cinematic masterpiece.&lt;/p&gt;
-
-&lt;p&gt;Someone in a Discord server I frequent suggested Goncharov should become a
-standard name for someone who doesn’t exist, the opposite of John Doe. And this
-got me thinking about Shadowrun again. Here are two uses for the name Goncharov
-in a Shadowrun-like setting.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-mundane&quot;&gt;The Mundane&lt;/h2&gt;
-
-&lt;p&gt;In Shadowrun, “Mr. Johnson” is shadowrunner slang for a person who hires
-shadowrunners. The stereotypical Mr. Johnson is a shady fuck in a suit who talks
-in vague businesslike terms&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but it can be anyone who is willing to be the
-“client” for a runner group. That’s an established part of the game already.&lt;/p&gt;
-
-&lt;p&gt;So how about we say Goncharov is the “reverse” term? Goncharov is Johnson code
-for shadowrunners! Sure “shadowrunners” is canon and also works well, but you
-can’t really write “shadowrunner payoff” in your official corporate ledger, can
-you? So instead you write “payment to Goncharov for services rendered”.&lt;/p&gt;
-
-&lt;p&gt;And just like no self-respecting mysterious client calls themselves Mr. Johnson,
-no self-respecting runner calls themselves Goncharov. Someone who takes that as
-their handle or even as an alias is telling the whole world they’re a clueless
-poser.&lt;/p&gt;
-
-&lt;p&gt;This little bit of culture works well in the Shadowrun setting itself, and on
-any other setting that has stylish urban mercenaries as characters, including a
-lot of GURPS Action or GURPS Cyberpunk campaigns.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numinous&quot;&gt;The Numinous&lt;/h2&gt;
-
-&lt;p&gt;Let’s go a bit further, shall we? Here’s a mystical explanation that’s a bit
-more mystical than even Shadowrun’s default setting allows for&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and is a bit
-closer to Exalted’s take on spirits and magic.&lt;/p&gt;
-
-&lt;p&gt;Goncharov is the Small God of Shadowrunners. He started out as an abstraction,
-as above, but at some point became a real part of shadowrunning culture. Either
-an existing spirit took on the mantle, or folk belief made him real.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Real&lt;/em&gt; runners, those who are more than amoral assholes doing horrible things
-for money, they have an understanding with Goncharov. They never forget the
-corps and the big syndicates are the enemy even when circumstances force them to
-work for these groups. They never sell out. They know who their community and
-friends are, and they look out for them. And after every successful job, they
-give Goncharov his cut.&lt;/p&gt;
-
-&lt;p&gt;Goncharov looks like a fit but somewhat scuffed up man in a nice but somewhat
-scuffed up suit. The details vary, but he never looks overly fancy or
-arrogant. In other words, he might look like John Wick after a fight or three,
-but never like the Continental Hotel guy - that’s the god of Mr. Johnsons.&lt;/p&gt;
-
-&lt;p&gt;Magicians can take Goncharov as a mentor spirit. He provides bonuses to combat
-spells and Spirits of Man, whatever form those bonuses take in your edition of
-choice. Non-magicians can also have “an understanding” with him for a slightly
-cheaper price. This gives them access to the Goncharov’s Cut rule.&lt;/p&gt;
-
-&lt;h3 id=&quot;goncharovs-cut&quot;&gt;Goncharov’s Cut&lt;/h3&gt;
-
-&lt;p&gt;Those who have an understanding with the god of Shadowrunners, and keep to his
-code, can gain extra Karma for giving him his cut. This includes magicians who
-take him as a mentor spirit, or any character who spends points to buy a
-slightly cheaper Edge representing the covenant.&lt;/p&gt;
-
-&lt;p&gt;If you’re using the Karma for Cash rule in your game, such characters gain an
-extra point of Karma when using the rule, if they would already gain at least
-one point normally.&lt;/p&gt;
-
-&lt;p&gt;If that’s not a general campaign rule, such characters still gain access to it,
-becoming able to exchange money for a single point of Karma after every run.&lt;/p&gt;
-
-&lt;p&gt;In both cases the money goes to support and improve the runner’s community, or
-to help out fellow shadowrunners in need.&lt;/p&gt;
-
-&lt;h3 id=&quot;in-gurps&quot;&gt;In GURPS&lt;/h3&gt;
-
-&lt;p&gt;In a GURPS Action or Cyberpunk campaign with supernatural elements, The
-Understanding is a -10-point Code of Honor, since it’s informal but applies to
-interactions with people who are not your peers. Give Goncharov his cut and use
-it to support your community and fellow runners; hunt down and punish any who
-betray them&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;; never sell out; even if you need to do a job for a corp or a
-crime syndicate, never forget they’re the enemy.&lt;/p&gt;
-
-&lt;p&gt;This code can work as a “pact” limitation for supernatural or cinematic traits
-related to being stealthy, discreet, or good at combat (yes, even Gunslinger or
-a talent like Smooth Operator). It would provide a 10% discount on their price,
-as normal, and would make these abilities unavailable until atonement if the PC
-breaks the attached code.&lt;/p&gt;
-
-&lt;p&gt;The monetary value of Goncharov’s cut is 10% of any earnings from
-“shadowrun”-like missions. GMs and players who don’t want to bother with
-accounting can just remove it from the PC when it’s given, and assume it gets
-spent properly. In games where more detailed tracking is important, the PC
-doesn’t need to spend the money immediately, just set it aside for use when
-necessary. Using it for personal benefit after it’s been set aside is a
-violation of the Code, though. If the protected community has its own
-organization stats, the player might want to consider transferring this money
-from the PC to the organization.&lt;/p&gt;
-
-&lt;p&gt;Following the code might also lead to acquiring traits such as positive
-reputation among your community or fellow runners, or Enemies in the form of
-traitorous villains and amoral mercenaries who think you’re weak for having a
-conscience.&lt;/p&gt;
-
-&lt;p&gt;Atonement from breaking the code usually takes the form of a dangerous mission
-to aid an oppressed community or fellow runner in trouble.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And who betrays you at the end. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Though I understand it was kinda moving in this direction in its latest
-editions. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Yes, you are totally following the code if you track Clockwork down and
-shoot him in the head after telling him “Goncharov says hi”. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2022/11/22/goncharov.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>gurps</category>
         
         
       </item>

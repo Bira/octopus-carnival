@@ -6,9 +6,79 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Oct 2023 22:06:50 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Oct 2023 22:06:50 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Oct 2023 19:41:53 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Oct 2023 19:41:53 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Coiled Spring</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/coiled-spring.png&quot;/&gt;
+  &lt;figcaption&gt;
+  Image source: &lt;a
+  href=&quot;https://www.deviantart.com/eveyd/art/Antique-Vintage-Pocket-Watch-png-268108244&quot;&gt;EveyD
+  on DeviantArt&lt;/a&gt;
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The Coiled Spring is an amulet made of brass. It’s disc shaped and about an inch
+thick. On its front, there is a relief of a snake eating its own tail, the
+classic Ouroboros. The inside of the ring formed by the snake is a clear crystal
+panel, through which can be seen a spring like that of a watch.&lt;/p&gt;
+
+&lt;p&gt;That spring can store up to ten Fatigue Points which can be used to enable
+bursts of extra effort - most often &lt;em&gt;Extra Effort in Combat&lt;/em&gt; (p. B357), but also
+other athletic feats. The stored FP can only be used for those purposes, and is
+not affected by negative effects that would sap the user’s own FP. In other
+words, it works just like the Heroic Reserves advantage from &lt;strong&gt;GURPS Dungeon
+Fantasy 20: Slayers&lt;/strong&gt;, and &lt;em&gt;almost&lt;/em&gt; like a power item for martial characters.&lt;/p&gt;
+
+&lt;p&gt;The main difference between the Coiled Spring and a normal Power Item is that it
+hijacks the natural recovery processes of the wearer’s body in order to “wind”
+itself, and cannot be recharged by the usual methods for power items. While the
+Spring is not at full capacity, its wearer is unable to recover their own
+Fatigue Points, and the amulet gains 1 FP every 10 minutes. This is a constant
+rate - traits which speed up FP recovery for the wearer have no effect on the
+amulet. The wearer regains their usual ability to rest when the amulet is fully
+charged, or when it’s removed (which stops the charging process).&lt;/p&gt;
+
+&lt;p&gt;While this does mean recharging the Coiled Spring in town is effectively free,
+it can make dungeon delving more complicated for martial characters,
+particularly if the GM enforces rules like fatigue costs for fighting a battle
+(p. B426 or DF Exploits p. 60). Characters who normally can’t use Fatigue Points
+can wear the Coiled Spring and use it to benefit from the Extra Effort rules in
+and out of combat, though they can’t recharge it.&lt;/p&gt;
+
+&lt;p&gt;Scholars who know of the Spring speculate that it was originally meant  to allow
+golems and other constructs to surpass their limits. In an adventure, it will
+most likely be found worn by such a construct, or by an elite warrior who
+figured out it works just as well for organics. If found in a chest or hoard,
+though, it will always start out empty.&lt;/p&gt;
+
+&lt;p&gt;If the delvers try to sell the Coiled Spring, or if you decide it’s available in
+shops, its monetary value is twice that of a Power Item of the same
+capacity. That’s $3400 for the 10 FP version described here, though you could
+have versions with greater or smaller capacity. Note that you &lt;em&gt;can’t&lt;/em&gt; double-dip
+and use the Coiled Spring as a Power Item.&lt;/p&gt;
+
+&lt;p&gt;Variant Springs are possible. Maybe the Flywheel of Faith can power divine
+magic, the Arcane Array wizardly spells, and the Goddess Gyre druidic ones. The
+recharging mechanics and all other restrictions are the same. They could allow a
+construct who can’t normally cast spells or use casting magical items due to a
+lack of FP to do so.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/10/coiled-spring.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/10/coiled-spring.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>artifact</category>
+        
+        
+      </item>
     
       <item>
         <title>Hacking Without a Hacker</title>
@@ -1263,149 +1333,6 @@ other places.&lt;/p&gt;
         <pubDate>Thu, 14 Sep 2023 10:50:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/09/14/neverwinter-underground.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/14/neverwinter-underground.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: The Chasm</title>
-        <description>&lt;p&gt;The southeast quadrant of Neverwinter is where a huge chasm opened during the
-cataclysm, a chasm which has been disgorging a constant stream of mutant
-monsters ever since. As if that wasn’t enough, staying near the rift for too
-long also makes people go mad. The other quadrants of the city only survive
-because they managed to isolate themselves from this one somehow.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-ruined-city&quot;&gt;The Ruined City&lt;/h2&gt;
-
-&lt;p&gt;This isn’t a “bad part of town” like the River District. There’s nothing
-“town-like” about this expanse of ruined buildings and twisted streets. By
-setting foot in here you’re already on a proper dungeon delve. No one does this
-much any more, since few who try ever return and those who do come back changed.&lt;/p&gt;
-
-&lt;p&gt;PCs might be hired to search for someone who vanished here. Or they might end up
-sleepwalking here due to the Chasm’s influence and need to fight their way
-out. If they have a Spellscarred Harbinger, that character is going to feel an
-odd connection to the Chasm and a desire to explore it.&lt;/p&gt;
-
-&lt;p&gt;As we already learned from the faction descriptions, the Chasm goes all the way
-down to the Underdark, where it opens on an underground lake whose bottom houses
-a Spellplague pocket and the AbSov research base built around it. The
-Plaguechanged monsters are projects and rejects created by the aboleths - they
-have been growing more powerful and “efficient” as of late, as the creatures
-improve their designs.&lt;/p&gt;
-
-&lt;p&gt;Even if no other reason draws the characters to explore the Chasm region, they
-will eventually have to come here in a campaign where the AbSov is the greatest
-threat. Getting to them requires not only traversing the ruined city on the
-surface, but also going down the Chasm itself.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-upper-reach&quot;&gt;The Upper Reach&lt;/h2&gt;
-
-&lt;p&gt;When descending the Chasm, the first few hundred feet might seem fairly mundane,
-but after that the landscape starts resembling the Elemental Chaos or Abyss more
-and more. Elemental energies surge up from the depths at irregular
-intervals. The walls are harder to climb, with handholds appearing and vanishing
-at random and occasional blasts of fire or wind erupting from them. Earthmotes
-abound, some drifting slowly and others bashing against the walls.&lt;/p&gt;
-
-&lt;p&gt;Monsters can be found climbing the walls or flying from the depths. Even those
-who have no flying ability can be seen floating up in bolts of chaos magic,
-particularly if they were sent to attack the surface.&lt;/p&gt;
-
-&lt;h3 id=&quot;creeping-madness&quot;&gt;Creeping Madness&lt;/h3&gt;
-
-&lt;p&gt;At this point the Spellplague radiation is already so intense that characters
-are already at risk of contracting Creeping Madness, a magical disease
-similar to the plague itself. They must make a DC 10 Endurance check on every
-short or long rest to avoid contracting it. Further resistance rolls also use
-Endurance, with a Maintain DC of 10 and an Improve DC of 15.&lt;/p&gt;
-
-&lt;p&gt;Stage 1 inflicts a -2 penalty to Will and Initiative, and a +1 bonus to psychic
-attacks. Stage 2 eats a healing surge and inflicts -4 to Perception and
-Insight. Stage 3 inflicts a -2 penalty to all skill checks, and makes the
-victim’s attacks deal +1d6 psychic damage. Stage 4 drives you mad and makes you
-permanently dazed.&lt;/p&gt;
-
-&lt;p&gt;Unlike most diseases I think it’s possible to recover from the final stage
-through Endurance rolls. If a character fully recovers from stage 3 or later,
-they also gain a spellscar. The Spellscarred Harbinger has a +2 on all Endurance
-checks against this disease.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-twisted-fane&quot;&gt;The Twisted Fane&lt;/h2&gt;
-
-&lt;p&gt;This is the apparent bottom of the chasm, a broken wasteland whose rock pulses
-as if it was alive. There’s an alien-looking black fortress here, the Twisted
-Fane, which is built around an eerily shining crystal. The Fane is guarded by a
-colony of fouslpawn which will fight to repel any intruders they detect. The
-monsters attack on sight and fight to the death.&lt;/p&gt;
-
-&lt;p&gt;All of this is a ruse put in place by the Aboleths to stall any would-be
-heroes. They expect these interlopers to slay the disposable foulspawn, destroy
-the useless crystal, and go back home thinking they solved the problem of the
-Chasm. PCs can make several different skill tests to notice the crystal doesn’t
-have any actual power, the foulspawn are acting strangely because of mental
-domination, and that there are tunnels hidden in the area around the fortress,
-leading deeper underground.&lt;/p&gt;
-
-&lt;h2 id=&quot;plaguechanged-warrens&quot;&gt;Plaguechanged Warrens&lt;/h2&gt;
-
-&lt;p&gt;This is an enormous chunk of rock wedged between the two walls of the Chasm. It
-could be moved by sufficient force, but only has room to go up. The top surface
-is where the Twisted Fane was built, and the inside is a maze of twisty passages
-that end in gross “breeding pits” where creatures are stuffed into fleshy
-cocoons and mutated by Spellplague magic directed by the Symphony of
-Madness. This is where all the plaguechanged monsters that attack the surface
-come from.&lt;/p&gt;
-
-&lt;p&gt;This deep into the chasm, characters have a -2 penalty to Endurance to resist
-creeping madness. At the bottom levels of the rock, they also start to hear the
-physical sounds of the Symphony of Madness, which inflicts a -2 penalty to Will
-on all non-aberrant creatures.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-blue-cauldron&quot;&gt;The Blue Cauldron&lt;/h2&gt;
-
-&lt;p&gt;The underside of the Warrens opens into a large cavern mostly filled by an
-underground lake. The water glows blue and bubbles as if boiling due to the
-Spellplague pocket at the bottom.&lt;/p&gt;
-
-&lt;p&gt;There is no physical way to safely climb down to the water; characters must
-either fly or fall down the 60-foot drop. There is an “unfettered travel”
-magical effect put in place by the aboleths that lets them swim in the air
-inside this cave. Characters trained in Arcana might be able to hijack that and
-be able to swim through the air as if it was water.&lt;/p&gt;
-
-&lt;p&gt;At a depth of 20 feet, the PCs can find bubbles holding particularly interesting
-prisoners. At the bottom of the lake, is the research lab itself. Any characters
-who get to this cave will immediately draw the attention of the aboleths, both
-because they proved themselves a major threat and because they might make
-excellent research subjects. The aboleths themselves are quite powerful and
-might also be plaguechanged.&lt;/p&gt;
-
-&lt;p&gt;At this depth, characters have a -4 penalty to resist creeping madness.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;The surface of the Chasm could make for a decent hex- or point-crawling map as
-characters try to find a safe path to the rift itself. As described, it seems
-the Chasm itself is a very meaty dungeon delve. None of its separate areas
-described above get maps, so the GM can make maps that suit their
-purposes.&lt;/p&gt;
-
-&lt;p&gt;Sure, once you’re here you know you need to go &lt;em&gt;down&lt;/em&gt;, but depending on how long
-the GM wants you to spend inside each of the named areas could vary in
-complexity from the equivalent of a single “room” with a big battle in it to an
-entire labyrinthine dungeon level where finding the way down is a significant
-challenge in itself.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/09/10/neverwinter-chasm.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/10/neverwinter-chasm.html</guid>
         
         <category>dnd4</category>
         
