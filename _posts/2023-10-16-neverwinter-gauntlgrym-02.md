@@ -21,12 +21,12 @@ new ones under the direction of their leader Kholzourl.
 They've unearthed several veins of useful metal, including iron, silver, mithral
 and hellthorn (the one that likes infernal enchantments). Their work is
 ceaseless, grueling, and mostly done by slaves, which they replenish by
-capturing any non-duergar they lay eyes on down here. Tunnels built by original
-dwarves show their characteristic sloped walls and tend to be both safe and
-clean. Duergar tunnels are slapdash and hazardous, sometimes nearly vertical due
-to their leader's need to go ever deeper. Some of these shafts are so deep that
-they contain semi-permanent work camps where duergar and enslaved workers live
-instead of going back to the city at the end of every day.
+capturing any non-duergar they lay eyes on down here. Tunnels built by the
+original dwarves show their characteristic sloped walls and tend to be both safe
+and clean. Duergar tunnels are slapdash and hazardous, sometimes nearly vertical
+due to their leader's need to go ever deeper. Some of these shafts are so deep
+that they contain semi-permanent work camps where duergar and enslaved workers
+live instead of going back to the city at the end of every day.
 
 The duergar don't care about the big mithral gates. They got here from below,
 via tunnels that link their camps to the deep Underdark. Some of these tunnels
@@ -119,10 +119,10 @@ better at using fire attacks, but vulnerable to and worse at using some other
 element of the GM's choice. Also, they get a bonus to Diplomacy with elemental
 creatures and a corresponding penalty when dealing with immortal ones.
 
-The character loses three healing surges when this first happens, but the
-mutations are permanent until cured by Remove Affliction or an equivalent
-power. A cure removes all effects - there's no way to keep just the beneficial
-ones!
+The character loses three healing surges when this happens, and it wasn't clear
+to me whether they could be recovered normally. The mutations are permanent
+until cured by Remove Affliction or an equivalent power. A cure removes all
+effects - there's no way to keep just the beneficial ones!
 
 ## The Deepest Depths
 
@@ -133,14 +133,15 @@ passages, chief among them the plaguechanged mind flayers that are giving the
 duergar trouble. Their mission is to prevent anyone from messing with Maegera,
 and thus from getting in the way of the AbSov's remote experiment with her.
 
-Like most Underdark villains, mind flayers are fond of slavery and they keep
-their captives here as well.
+This means they fight the duergar, but they aren't any less evil than their
+foes. Like most Underdark villains mind flayers are fond of slavery, and they
+keep their captives here as well.
 
 This region is also where the dwarves built secure vaults to store a variety of
-horrors they found in their delves. Most are still secure, but you never know
-when someone might open one. One of the vaults that are already open is the one
+horrors they found in their delves. Most are still secure, but some have been
+opened over the centuries. One of the vaults that are already open is the one
 that housed the original population of dire corbies, and which has become their
-largest nest now. They keep a lot of treasure there that no other faction has
+largest nest. They keep a lot of treasure there that no other faction has
 managed to claim yet.
 
 Beneath even this, you get into tunnels that aren't part of Gauntlgrym, and
@@ -153,7 +154,7 @@ Tier when the PCs do finish it, should the group be willing.
 The areas detailed in this post have a definite "endgame" feeling. Whatever your
 reasons for coming to Gauntlgrym, if you're here you'll need to deal with the
 mess of adversarial factions described in this post, finish what Drizzt and
-company could not, and make sure Maegera stays asleep for good.
+company could not, and make sure Maegera stays asleep.
 
 This would be a fitting end to a campaign centered on the Heirs of Delzoun, but
 others might go from here to the bottom of the Chasm as they follow the clues
