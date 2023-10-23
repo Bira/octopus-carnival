@@ -6,9 +6,307 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Oct 2023 17:50:53 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Oct 2023 17:50:53 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Oct 2023 09:37:58 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Oct 2023 09:37:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>On Cyberpsychosis</title>
+        <description>&lt;p&gt;There are a number of tropes that are specific to Cyberpunk-the-game&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but
+which many people end up thinking are integral to cyberpunk-the-genre. And
+“cyberpsychosis” is the one that annoys me the most by far.&lt;/p&gt;
+
+&lt;p&gt;Cyberpsychosis is Cyberpunk’s term for the general concept that cybernetic
+implants make you less human. This concept made the way into the game because
+its author Mike Pondsmith used the AD Police anime as one of his sources of
+inspiration, and the anime goes heavily into it.&lt;/p&gt;
+
+&lt;p&gt;You probably already know how it works in the game, but here’s a refresher:
+characters have an Empathy stat that determines how well they relate to other
+people. This gives them a Humanity score that’s equal to Empathy x 10. Each
+implant has a “Humanity cost” that gets deducted from that score when installed,
+and for every 10 points of Humanity you lose you also lose 1 Empathy. This makes
+it harder to succeed at social tasks. When both Humanity and Empathy reach 0,
+you become a “cyberpsycho” and an NPC.&lt;/p&gt;
+
+&lt;p&gt;I agree with the &lt;em&gt;mechanical&lt;/em&gt; purpose of these rules, which is to limit how much
+cyberware a character can have. But this is heavily entangled with the “this
+stuff makes you less human” story concept, from the terms used to the in-fiction
+justification to the setting elements built around it.&lt;/p&gt;
+
+&lt;p&gt;Cyberpunk 2020 was particularly bad about this. Cyberpunk RED is much better
+about it due to thirty years of progress in popular thinking about mental
+health, but I still have issues with it.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-which-i-talk-about-my-issues&quot;&gt;In Which I Talk About My Issues&lt;/h2&gt;
+
+&lt;p&gt;In CP RED, Humanity loss is more or less equated with psychological trauma. You
+can lose Humanity by experiencing traumatic events, and modifications that are
+purely cosmetic or therapeutic in nature don’t cost Humanity. Therapy helps you
+recover and restores your Humanity. And I’m happy to report it’s “merely”
+difficult and expensive instead of the sinister tracker-injecting conspiracy it
+was in CP 2020.&lt;/p&gt;
+
+&lt;p&gt;However, the mechanics remain exactly the same as before for cyberware that has
+game benefits. The explanation given is that the act of “going beyond the human
+baseline” is traumatic. Cyberpsychosis is the dissociative disorder you get when
+you do it too much, and makes you start seeing yourself and others as
+collections of replaceable parts instead of living, thinking beings. You can use
+therapy to partially recover the Humanity lost to cyberware, but to recover
+those final points, you need to get rid of the implants.&lt;/p&gt;
+
+&lt;p&gt;The concept of “human baseline” isn’t examined very deeply here. You know it
+when you see it, and your Empathy reduces when you move away from it. It’s the
+act of implantation that causes harm.&lt;/p&gt;
+
+&lt;p&gt;This feels really backward to me, because a theme I often see in literature or
+media I like is that cybernetic implants are more like the &lt;em&gt;scars&lt;/em&gt; of trauma
+than its &lt;em&gt;cause&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Molly Millions from Neuromancer has implanted mirrorshades because her traumatic
+past made her wary of opening herself up emotionally. The windows to her soul
+are shuttered.&lt;/p&gt;
+
+&lt;p&gt;Burton and his ex-Haptic Recon buddies from The Peripheral have a number of
+twitchy combat implants that mostly serve as symbols for the PTSD they got from
+their time at war. Flynne, one of the main protagonists, has similar
+psychological scars from her time playing realistic military simulations for
+money, but she has no implants because her trauma comes through in her viewpoint
+narration.&lt;/p&gt;
+
+&lt;p&gt;David Martinez from Edgerunners was already a reckless putz with a hero
+complex&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; before getting his first implant. Each one he has installed is
+either a reminder of someone he feels he failed to protect, or a reflection of
+his desire to be strong enough to protect those who are left.&lt;/p&gt;
+
+&lt;p&gt;I’ve heard it said that someone who gets an implanted gun or blade is declaring
+themselves the kind of person who needs to be ready to kill someone at all
+times, and that erodes their humanity. But isn’t “feels the need to be ready to
+fight and kill at all times” a common trait to all Cyberpunk PCs, chromed or
+not? It’s a lot easier to find a PC with no implants than one with no weapons,
+armor, or combat skills.&lt;/p&gt;
+
+&lt;p&gt;It doesn’t really matter whether your gun is inside your coat or inside your
+arm. And since I don’t think a Cyberpunk character should lose Humanity for
+carrying a conventional gun, they also shouldn’t lose it for carrying an
+implanted one&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-id-do-instead&quot;&gt;What I’d Do Instead&lt;/h2&gt;
+
+&lt;p&gt;Like I said above, I still agree that there must be some sort of rule limiting
+the amount of cyberware Cyberpunk PCs can get. A lot of it gives powerful
+abilities and you don’t want them to be able to install the whole catalog at
+once. That would make the game less fun in a variety of ways.&lt;/p&gt;
+
+&lt;p&gt;I want to base it on some stat other than Empathy, though, and I’m going to pick
+Body for that. I find it much easier to imagine that cyberware has concrete
+impacts on your body than on your mind.&lt;/p&gt;
+
+&lt;p&gt;Under this new rule, your maximum Cyberware Capacity (CC) is your natural Body
+x 10. “Natural” here means the base stat value before any modifications from
+cyberware. Cyberware’s “humanity loss” stat now represents its “capacity cost”
+instead. Your current Cyberware Capacity is the cost of all your implants added
+together. This represents both minor health issues caused by the implant’s
+presence and the increased need for maintenance.&lt;/p&gt;
+
+&lt;p&gt;If you exceed your maximum Cyberware Capacity, you die. The good news is there
+are no other game penalties until you get to that point. Note that medical exams
+to measure your CC values are standard pre-op procedures even at mall clinics.
+No ethical ripperdoc will ever agree to perform an operation that would kill the
+patient. Not all of them are ethical, though.&lt;/p&gt;
+
+&lt;p&gt;Body-scultping (including full gender transition), medical-grade replacements,
+and cosmetic mods continue to have zero cost&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. The implants involved in all
+of these processes are designed to be minimally invasive and to require
+near-zero maintenance.&lt;/p&gt;
+
+&lt;h3 id=&quot;cyberware-maintenance-optional&quot;&gt;Cyberware Maintenance (Optional)&lt;/h3&gt;
+
+&lt;p&gt;GMs who wish to make a commentary on the cruelty of capitalism might institute
+this optional rule.&lt;/p&gt;
+
+&lt;p&gt;When it’s in effect, you need to pay a monthly cyberware maintenance cost equal
+to your current CC x 10eb. This represents anything from periodic check-ups and
+implant cleaning to a regime of targeted immunosuppressors at the high end.&lt;/p&gt;
+
+&lt;p&gt;If you skip a month, your current CC increases by 1d6. If you’re also living
+under harsh and unsanitary conditions during that time, such as from being lost
+in the desert or having to sleep in the gutter, it increases by 2d6 instead. If
+it goes over your maximum, you die as above. And yeah, this extra CC also
+increases your maintenance costs next month. Field-expedient maintenance and a
+Medicine roll might reduce the increase from 2d6 to 1d6, at the GM’s discretion,
+but there’s no reducing it to zero without making that monthly payment.&lt;/p&gt;
+
+&lt;p&gt;Excess CC from neglected maintenance can be removed through treatments that cost
+and work the same as the psychological therapies from page 229 of the core book:
+500eb (or 100eb and a DV15 Medicine roll) to restore 2d6, and 1000eb (or 500eb
+and a DV17 Medicine roll) to restore 4d6. These consist of extensive drug
+courses, therapeutic surgery, and physical rehabilitation.&lt;/p&gt;
+
+&lt;p&gt;As a further optional rule, the GM could also use these stats for “tune-up”
+treatments to reduce Cyberware Capacity to the minimum values described in the
+book: 2 per piece of cyberware, 4 per piece of borgware. Gotta spend money to
+save money.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-humanity&quot;&gt;What About Humanity?&lt;/h2&gt;
+
+&lt;p&gt;Empathy and Humanity continue to exist in a game where Cyberware Capacity rules
+are in play. Since we’re renaming things anyway, let’s rename Humanity to
+Stability because suffering from mental trauma doesn’t make you less human
+either.&lt;/p&gt;
+
+&lt;p&gt;You can still suffer Stability and Empathy loss when you suffer actual mental
+trauma, as described in the CP RED core book. The same therapy options are still
+available and they can help you as described there. Reaching 0 EMP will cause a
+breakdown that will leave the character unplayable until they can recover, but
+this will not necessarily be violent.&lt;/p&gt;
+
+&lt;p&gt;The one case where cyberware still causes Stability loss is when a victim is
+&lt;em&gt;forcibly implanted&lt;/em&gt;. The Maelstrom gang in CP 2077 loves doing that to random
+civilians, and it definitely qualifies as a traumatic experience. In that case,
+recovering from the trauma follows all standard core book rules, including the
+one where you need to remove the offending implants for a complete recovery.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-cyberpsychosis&quot;&gt;What About Cyberpsychosis?&lt;/h2&gt;
+
+&lt;p&gt;Again we follow CP 2077’s example here. Cyberpsychosis is a myth, a label
+without any science behind it that gets thrown around by corps and media as an
+easy explanation for a number of tragedies. Corporate strike team shoots an
+activist, well, that was a cyberpsycho who had it coming.&lt;/p&gt;
+
+&lt;p&gt;People can have real mental breakdowns, and these can get ugly when the victim
+has a predisposition towards violence and a few combat implants and/or some
+weapons on hand.&lt;/p&gt;
+
+&lt;p&gt;However, violent breakdowns are never &lt;em&gt;caused&lt;/em&gt; by implants. They’re always a
+consequence of the inherently traumatic nature of life in the shit future of
+Cyberpunk. I bet a lot of “cyberpsychos” turn out to have very few or even no
+implants. Just easy access to guns and no access to mental healthcare.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The original edition was named “Cyberpunk”, and it was followed by
+Cyberpunk 2020 and Cyberpunk RED, with a couple of extra editions that were
+considered “non-canon” between those last two. If I capitalize the word I’m
+talking about this game line. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A condition also known as “Shonen Protagonist Syndrome”. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A game where owning a weapon brings you closer to becoming a monster is a
+perfectly valid concept, but if that’s what you want to play you’re better
+off moving away from action-oriented systems like Cyberpunk RED. I suggest
+Wanderhome, which does implement that very concept in one of its archetypes
+and is otherwise a non-violent game. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This also applies to stuff that has no &lt;em&gt;tangible&lt;/em&gt; game benefits but still
+causes Humanity Loss in the core book, like the “sex booster” implants or
+the color shift cybereye option (which is purely cosmetic like shift-tacts
+but costs Humanity in the book). &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 23 Oct 2023 09:30:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/23/on-cyberpsychosis.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/23/on-cyberpsychosis.html</guid>
+        
+        <category>cyberpunk</category>
+        
+        <category>cyberpunk-red</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Neverwinter: Evernight Overview</title>
+        <description>&lt;p&gt;Evernight is Neverwinter’s reflection on the Shadowfell, but it’s also a city in
+its own right, inhabited by a large number of undead and undead-adjacent people
+(cultists, necromancers, and the like). This book doesn’t go too deep into its
+history, but it does give me the impression Evernight has existed for a long
+time. It was probably described in a previous edition when the Shadowfell was
+called “the plane of Shadow”.&lt;/p&gt;
+
+&lt;p&gt;Evernight is ruled by a Tribunal composed by its most influent citizens, all of
+whom are ghouls and ghasts who worship Orcus and his exarch Dorensain. The
+Tribunal makes the laws and settles disputes. It does the latter by deciding who
+is right and eating the loser.&lt;/p&gt;
+
+&lt;p&gt;The city is very dangerous for living mortals who aren’t citizens, though it’s a
+bit &lt;em&gt;less&lt;/em&gt; dangerous than you’d think. Only its vampire and ghoul inhabitants
+feel the need to feed on the living, and since the ambient energies of the
+Shadowfell help sustain them this happens much less often than it would in the
+world. Mortals and undead alike can apply for citizenship. Mortal citizens gain
+legal protection from random attacks on the street, though they should probably
+keep their token of citizenship within easy reach at all times. Living merchants
+who pass through the city on the way to other locations can also acquire tokens
+of safe passage.&lt;/p&gt;
+
+&lt;p&gt;The legal status of a mortal who doesn’t have any of that can best be summed up
+as “fresh meat”, but even that isn’t an automatic death sentence. Undead who see
+the living brazenly walking down the streets of Evernight tend to assume they
+belong there, and will only challenge that assumption if given reason to be
+suspicious. Such as when the “tourists” make horrified faces at the deeply
+fucked up stuff that happens in the city’s routine unlife.&lt;/p&gt;
+
+&lt;p&gt;There are no official portals between Evernight and Neverwinter, but the planar
+membrane separating the two is awfully thin and becomes fully permeable in
+certain places known as “dusk crevices”. These crossings link a place in
+Evernight to its corresponding worldly location, which is always in dim light or
+darkness. Some are fixed, some temporary or mobile. They’re the true cause of
+most spooky stories about disappearances in Neverwinter since before the
+Spellplague. Mortals who fall through these crevices into Evernight make up a
+significant portion of the diet of its ghoul and vampire population.&lt;/p&gt;
+
+&lt;p&gt;Despite its (literally!) ghoulish culture and society, Evernight is a major
+Shadowfell trade hub, so it often sees passing caravans that link it to other
+settlements in the plane. One of the trade routes passing through here is the
+Shadowfell Road, a mystical path that has a ritual component. It only exists if
+approached and traversed in a very specific way. The Thayans use it to supply
+the Dread Ring, and the Tribunal allows them to use it for that purpose because
+the Thayans pay them in &lt;em&gt;people&lt;/em&gt;. A similar arrangement allows the Netherese to
+maintain an embassy in the city and use their own share of trade and supply
+routes.&lt;/p&gt;
+
+&lt;p&gt;Part of the reason the Tribunal accepts these deals is that both factions
+represent powerful nations who are very adept at necromancy, but the ghouls
+still draw the line at permitting hostilities within city limits. Evernight is
+neutral territory, and violating this edict is one of the things that would
+cause the Tribunal to take drastic action against the rule-breaker. In practice
+that means conflict within the city takes the form of sordid spy stories of
+intrigue and assassination.&lt;/p&gt;
+
+&lt;p&gt;The city did suffer some changes during the cataclysm. A reflection of the
+Chasm, known locally as the Demon Pit, opened up in the corresponding Shadowfell
+coordinates. And while the eruption of mount Hotenow was a quick affair in the
+world, its shadowy counterpart continues to expel a slow and steady stream of
+lava that flows through the equivalent of the Neverwinter River’s bed. Sometimes
+you can see crew-less ghost ships sailing the lava, docking in abandoned piers,
+and leaving after a few days. All of the other horrific stuff we’ll see in the
+following posts was already there before that.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;Evernight comes as a bit of a surprise to me, since I think it was only
+mentioned in one place in the book before this section and that mention didn’t
+hint at the full scope of the thing. I’m guessing old FR hands already know all
+about it, though.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/23/neverwinter-evernight.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/23/neverwinter-evernight.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: Gauntlgrym, Part 02</title>
@@ -1291,312 +1589,6 @@ therein.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: The Neverwinter Woods</title>
-        <description>&lt;p&gt;The Neverwinter Wood dominates the northern half of our regional map and is much
-larger than the city that gives it its name. It’s a classic Creepy Forest, where
-the canopies block out all sunlight and even in the safer trails it seems like
-someone is always watching you from the shadows. And that’s just the baseline
-mood - the Wood is also currently full of ill-intentioned outsiders.&lt;/p&gt;
-
-&lt;p&gt;Characters in a Neverwinter campaign might need to trek through this place for
-any number of reasons. This section of the chapter covers some of the Wood’s
-most notable places, but it’s large enough that you could run a full
-hex-crawling campaign on it.&lt;/p&gt;
-
-&lt;p&gt;The book actually includes rules for a “Creepy Woods” hazardous terrain type
-that can be included in exploration or combat maps. Anyone on this terrain when
-a fight starts must roll a save before rolling Initiative - if they fail,
-they’re surprised during the first round. They also gain a -2 to Will while on
-Creepy spaces and when they fail a Perception check there they always think they
-heard something that’s not there.&lt;/p&gt;
-
-&lt;p&gt;This first post covers the “smaller” areas and “standard” geographical features
-of the Woods. It also contains several faction strongholds that will each get
-their own post.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-crags&quot;&gt;The Crags&lt;/h2&gt;
-
-&lt;p&gt;This is a large mountain range that splits the Wood in two, running from NE to
-SW. Mount Hotenow is the most notable place in the Crags, as it’s where the
-Neverwinter River starts and also the source of the eruption that caused the
-cataclysm.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot more besides the volcano though - this is a typical D&amp;amp;D mountain
-range full of monsters, caves, and hidden valleys and is also rumored to contain
-paths to lost Gauntlgrym. Whether those exist or not, the range does definitely
-contain a lot of old Delzoun outposts.&lt;/p&gt;
-
-&lt;p&gt;Those outposts will give the Heir of Delzoun something to marvel at even if they
-don’t find a path to the lost city here. They’re also targets for Netherese
-plundering in their unceasing quest for magic items to burn.&lt;/p&gt;
-
-&lt;h2 id=&quot;iceless-waterways&quot;&gt;Iceless Waterways&lt;/h2&gt;
-
-&lt;p&gt;All of the Wood’s rivers are warmed by Hotenow’s heat, so they never freeze even
-during winter, and generally act to keep the forest warm and untouched by the
-seasons. They teem with non-monstrous aquatic wildlife but never gave rise to
-monsters - except for the River Morgur, the northernmost tributary of the
-Neverwinter. It’s still iceless, but also has river monsters.&lt;/p&gt;
-
-&lt;h2 id=&quot;bones-of-thundertree&quot;&gt;Bones of Thundertree&lt;/h2&gt;
-
-&lt;p&gt;Thundertree used to be a logging village that produced a lot of quality
-timber. It was completely destroyed by the eruption, and all of its surviving
-inhabitants fled to never return. The place is now haunted by possessed plant
-monsters (take plant monster stat blocks of your choice and give them undead
-traits). Aside from them, only the dwarf Favria, leader of the more violent
-faction of the Ashmadai, calls this place home. She lives in an underground wine
-cellar.&lt;/p&gt;
-
-&lt;p&gt;I was given to understand her whole Ashmadai sub-faction used this place as a
-base, so it looks like there was a miscommunication between different authors
-here. I’d probably add them here if I ran a Neverwinter campaign. Maybe say
-those plant monsters are possessed by &lt;em&gt;devils&lt;/em&gt; instead of undead. How do you
-like evil treants with 20 fire resistance?&lt;/p&gt;
-
-&lt;h2 id=&quot;the-tower-of-twilight&quot;&gt;The Tower of Twilight&lt;/h2&gt;
-
-&lt;p&gt;There used to be a wizard’s tower built in the middle of a lake island. It, and
-the bridge leading to it, only appeared at night, becoming more solid as the sun
-set and fading out again when it rose. During the Spellplague, the tower
-vanished entirely and did not return until after the cataclysm. Now, it appears
-sporadically with no set schedule, and no one knows what goes on in there
-anymore.&lt;/p&gt;
-
-&lt;p&gt;One suggestion from the book is that the tower fades out of &lt;em&gt;time&lt;/em&gt; when it’s not
-visible in the physical world, and the people inside only experience the passage
-of time when it appears. This mean that the tower’s wizard and their apprentices
-and staff might still be there, either absorbed in their studies as if this was
-still 3e or struggling with what is to them a very recent bout of “original
-strain” Spellplague.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/09/22/neverwinter-woods.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/22/neverwinter-woods.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Helm's Hold</title>
-        <description>&lt;p&gt;We’re getting outside of the city proper now! Helm’s Hold is a small town
-located on the edge of the Neverwinter Wood, built around a monastery and
-cathedral dedicated to the god Helm. It’s about a day’s travel northeast of
-Neverwinter.&lt;/p&gt;
-
-&lt;p&gt;The town’s proximity to the Wood and its traditions of rugged individualism give
-it big “American frontier” vibes, tempered a bit by the monastery’s own
-culture. Helm used to be the god of guardians, and the monastery’s purpose since
-its ancient founding is to give sanctuary to those who have none. The monastery
-came first, and the town slowly grew around it.&lt;/p&gt;
-
-&lt;p&gt;About a year before the Spellplague, when the inhabitants had just laid the
-foundation for the cathedral, Helm died. The grieving priests and citizens
-finished the huge building as a monument in his honor, and kept its purpose as a
-sanctuary, welcoming people of all faiths.&lt;/p&gt;
-
-&lt;p&gt;My experience of Helm’s Hold from the computer games and reading this book is
-that the place’s narrative purpose is to be infiltrated and secretly taken over
-by the current campaign’s Big Bads. It happened in the first computer game
-(ancient underground civilization), it happened again shortly before the
-Spellplague (Netherese), and now it’s happening once more (the aboleths). We’re
-headed for a plot pileup here because the Netherese are also trying to
-infiltrate the town anew, via their werewolf minions.&lt;/p&gt;
-
-&lt;h2 id=&quot;lurking-threats&quot;&gt;Lurking Threats&lt;/h2&gt;
-
-&lt;p&gt;Those mysterious disappearances and murders are caused not by the spellscarred,
-but by the Grey Wolf Uthgardt, who have been ordered by their Netherese masters
-to infiltrate the town and cause chaos. They’re proficient at disguising
-themselves as locals or pilgrims, which lets them get into position to wolf out
-at night and go hunting. The core of their force hides out in the Wood. The
-Netherese don’t think the Hold is strategically valuable, they just want to keep
-the barbarians occupied until they’re needed in their true function as
-expendable muscle to throw against the Thayans.&lt;/p&gt;
-
-&lt;p&gt;The two barbarian-themed PCs are quite likely to end up here, and a peaceful
-resolution to the Grey Wolf plot would involve convincing them the Netherese are
-both evil and not interested in the tribe’s well-being. This has to be done
-subtly, though, as they are likely to attack the Pack Outcast on sight.&lt;/p&gt;
-
-&lt;p&gt;And of course there’s also the cathedral itself, which is currently being run by
-Rohini’s group and thus is a secret aboleth center of power. No one else knows
-about this currently, though ironically the AbSov is also interested in solving
-the murders because it will reduce the suspicion currently directed at them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-hold-and-environs&quot;&gt;The Hold and Environs&lt;/h2&gt;
-
-&lt;p&gt;The Hold’s mission as a sanctuary turned into the region’s premier treatment
-center for Spellplague victims, a duty which only became heavier about a year
-ago when Lord Neverember made it his official policy to send any such victims he
-finds in Neverwinter to the cathedral.&lt;/p&gt;
-
-&lt;p&gt;The rest of the region tends to see the spellscarred as dangerous freaks, but
-the inhabitants of the Hold see them as unfortunate victims affected by a
-horrible curse. Still, the overwhelming influx of new patients has been testing
-their open stance, as the city had to do a lot of rush construction to
-accommodate them all, with limited success. You can find newer buildings
-haphazardly constructed between older structures, their quality dubious due to
-the Hold’s chronic labor shortage. Most skilled builders are over on
-Neverwinter, where the work pays better.&lt;/p&gt;
-
-&lt;p&gt;The Hold’s citizens are further stressed out by the recent spate of mysterious
-murders and disappearances, which the more conservative among them have started
-blaming on the spellscarred. A group of spellscarred activists calling
-themselves the Heirs of Azure has sprung up to try to counter the distrust
-heaped upon their community. However, the Mintarn detachment sent by Neverember
-to help keep the peace isn’t having much success tracking down the real
-culprits, tensions keep increasing.&lt;/p&gt;
-
-&lt;p&gt;The city is governed by a council of elected Speakers who meet at a former
-tavern named The Dragon’s Gauntlet. They’re also split on the issue of the
-spellscarred, though the official stance is still receptive since current Chief
-Speaker is in that camp. The council’s collective power is waning, as there are
-enough mercs in town that they could declare martial law unopposed. Their
-commander, however, is uncharacteristically responsible and dutiful, so the
-order won’t come from him.&lt;/p&gt;
-
-&lt;h3 id=&quot;heartward&quot;&gt;Heartward&lt;/h3&gt;
-
-&lt;p&gt;The market plaza, so named because there’s a shrine to Sune here. Fights are
-frequent because resources are scarce and prices high. Every now and then, at
-night, a major haunting happens here and a bunch of ghosts goes through the
-motions of market life. Some crew the stalls, some walk around making purchase
-and talk to each other. Most of their words are gibberish, but some are
-prophetic.&lt;/p&gt;
-
-&lt;h3 id=&quot;old-dirty-dwarf&quot;&gt;Old Dirty Dwarf&lt;/h3&gt;
-
-&lt;p&gt;And old, respected, and dirty tavern, with a reputation as the place for new
-arrivals to go in order to get the lay of the land and hear the latest news from
-the Hold. The owner is friendly to the spellscarred, but some of the staff
-aren’t. Agents of the Prophet keep an eye here at all times and report news to
-their boss.&lt;/p&gt;
-
-&lt;h3 id=&quot;scar-alley&quot;&gt;Scar Alley&lt;/h3&gt;
-
-&lt;p&gt;The ground under this neighborhood softened during the Spellplague, causing many
-of its buildings to sink and crack. Nowadays it’s a barely-standing,
-precariously-patrolled slum that is home to the most deformed of the
-spellscarred, those even the Hold shuns. It’s also filled with shady characters
-and the occasional monster hiding out in an abandoned ruin.&lt;/p&gt;
-
-&lt;h2 id=&quot;helms-cathedral&quot;&gt;Helm’s Cathedral&lt;/h2&gt;
-
-&lt;p&gt;The aging faithful of Helm’s Cathedral now share it with a contingent of Oghma’s
-priests who arrived to set up a sanatorium for spellscarred patients. Brother
-Satarin commands the former: he’s a 160 year old dwarf who was an acolyte before
-Helm’s death. Rohini the Prophet officially commands the latter, and is the de
-facto boss of the whole place. As we learned a few posts ago, she’s a former
-succubus turned aberrant creature, and serves the Abolethic Sovereignity, as do
-all her subordinates. She holds the loyalty of Helm’s old priests because some
-of her (fake) prophecies hint at his return.&lt;/p&gt;
-
-&lt;p&gt;The surface levels of the cathedral are airy and well-lit. The underground is
-far less pleasant and houses the sanatorium for the most “severe” cases. Rohini
-spends a lot of time down there “treating” them (i.e, turning them into
-foulspawn). They go out for exercise every day, and the foulspawn among them are
-only detectable as such by people specifically looking for them.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-warrens&quot;&gt;The Warrens&lt;/h3&gt;
-
-&lt;p&gt;This was a failed attempt to expand the city’s drainage system, abandoned when
-the dig broke into the monastery’s old crypts and was overwhelmed by
-monsters. It became a kind of unofficial sanatorium for monstrous humanoids
-afflicted by the plague, who find no acceptance even in a tolerant city such as
-this. Goblins, kobolds and others venture into the city to steal food for
-themselves, and this has given rise to rumors of fey hauntings. I think it still
-connects to the rest of the crypts, described below, and would be a good
-alternate route for parties who want to sneak in. I’d probably run that as a
-negotiation focused adventure rather than a classic murdery crawl, at least
-until the PCs get to the crypts where the actual bad guys are.&lt;/p&gt;
-
-&lt;h3 id=&quot;crypts-of-the-vigilant-eye&quot;&gt;Crypts of the Vigilant Eye&lt;/h3&gt;
-
-&lt;p&gt;These crypts lie beneath the Cathedral, and predate its construction. Though the
-levels closer to the surface were clearly used by priests of Helm from the older
-monastery, things get more ancient and mysterious the deeper you go. There’s a
-big vertical pit full of side niches that could only be reached by flight or
-teleportation, and is now full of gargoyles. There’s a hallway full of gigantic
-robed skeleton statues that don’t resemble any sort of Helmite iconography.&lt;/p&gt;
-
-&lt;p&gt;And all that is without counting the twisting of the place by Spellplague
-energies and its current occupation by AbSov agents and foulspawn. Or the
-trapped Grey Wolf recon force that still hasn’t managed to find a way out
-through all of that.&lt;/p&gt;
-
-&lt;p&gt;The deepest levels turn into caverns that were excavated and mutated by the
-Symphony of Madness, turning into a fungal underground swamp. These are
-Chartilifax’s hunting grounds, so they probably contain all sorts of creatures
-that are tasty to dragons and dangerous to adventurers. From here you can enter
-a pulsating tunnel to the brain-like chamber containing the Hex Locus, a bronze
-coffer that acts as a repeater for the Symphony of Madness.&lt;/p&gt;
-
-&lt;p&gt;The Locus chamber can also be reached via a teleportation circle somewhere in
-the crypt levels, and Rohini will use that as soon as she learns someone is
-inside. She is linked to the artifact and can feel when someone enters its
-room. This is likely where any final confrontation against her and her pet
-dragon will occur.&lt;/p&gt;
-
-&lt;h2 id=&quot;plot-hooks&quot;&gt;Plot Hooks&lt;/h2&gt;
-
-&lt;p&gt;The Spellscarred Harbinger will most likely be told to go here soon after the
-campaign starts. The Pack Outcast and Uthgardt Barbarian’s pursuit of the Grey
-Wolf might also bring them here early.&lt;/p&gt;
-
-&lt;p&gt;The city’s werewolf problem and the creepy happenings at the cathedral should be
-obvious enough to get the PCs investigating, and the growing tension between
-locals and refugees would make a fine secondary plot line.&lt;/p&gt;
-
-&lt;p&gt;Rohini herself would not appear immediately villainous - she would instead
-attempt to coopt the PCs and get them to help with her goals. By default that’s
-serving the AbSov, but the book offers a few alternatives. Perhaps she wants to
-break free of them and would secretly help them destroy the Hex Locus instead of
-protecting it. She is of course still a devil, so she might double-cross the PCs
-once she has what she wants.&lt;/p&gt;
-
-&lt;p&gt;Independent of that, Mordai Vell is working hard to woo her, aware that she’s a
-devil in disguise but unaware of all the rest. So &lt;em&gt;he&lt;/em&gt; might hire the PCs as
-go-betweens in his courtship efforts. That’d be a fun way to introduce the AbSov
-and Ashmadai to the campaign.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;I tried to be fair and write a complete summary of the material in the book, but
-the truth is that I have a hard time caring about what’s going on in the town of
-Helm’s Hold proper. The original Neverwinter Nights computer game colors my
-perceptions here - it skipped the “town” bit entirely and placed you directly
-inside the monastery, which it treated as a dungeon. I only learned the Hold was
-an actual town once I read this book.&lt;/p&gt;
-
-&lt;p&gt;I feel like most campaigns will go a similar route, focusing all of their “urban
-intrigue” creative energy on Neverwinter itself and treating the Hold as a
-mostly-skipped prelude to the big delve into the cathedral and the crypts
-beneath. On the other hand, it would also be possible to do the reverse and
-ignore the big city depending on your party composition. There are several
-themes that have more reason to start at the Hold than at Neverwinter, like the
-Spellscarred Harbinger, the Uthgardt Barbarian, and the Pack Outcast.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/09/18/neverwinter-helms-hold.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/18/neverwinter-helms-hold.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>neverwinter</category>
-        
-        <category>lets-read</category>
         
         
       </item>
