@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2023-10-23 06:00:00 -03:00
 title: "Let's Read Neverwinter: Evernight Overview"
 tags:
      - dnd4
@@ -8,11 +9,11 @@ tags:
 ---
 
 Evernight is Neverwinter's reflection on the Shadowfell, but it's also a city in
-its own right, inhabited by a very large number of undead and undead-adjacent
-people (cultists, necromancers, and the like). This book doesn't go too deep
-into its history, but it does give me the impression Evernight has existed for a
-long time. It was probably described in a previous edition when the Shadowfell
-was just "the plane of Shadow".
+its own right, inhabited by a large number of undead and undead-adjacent people
+(cultists, necromancers, and the like). This book doesn't go too deep into its
+history, but it does give me the impression Evernight has existed for a long
+time. It was probably described in a previous edition when the Shadowfell was
+called "the plane of Shadow".
 
 Evernight is ruled by a Tribunal composed by its most influent citizens, all of
 whom are ghouls and ghasts who worship Orcus and his exarch Dorensain. The
