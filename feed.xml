@@ -6,9 +6,443 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Oct 2023 09:37:58 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Oct 2023 09:37:58 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 19:57:58 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 19:57:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon, part 00: Introduction</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackers-cast.jpg&quot;
+       alt=&quot;The protagonists of the 1995 movie Hackers.&quot;/&gt;
+  &lt;figcaption&gt;
+    Getting ready to hack the Gibson.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I recently got into a forum discussion about hacking in cyberpunk tabletop RPGs,
+as one does. This one was mostly centered around Shadowrun, and it touched on a
+lot of the reasons why one might want to &lt;a href=&quot;/octopus-carnival/2023/10/08/hacking-without-hackers.html&quot;&gt;play without a hacker PC&lt;/a&gt; even when
+you want to feature hacking in your game. It also got a bit into edition
+arguments, as it often does.&lt;/p&gt;
+
+&lt;p&gt;Shadowrun’s problems are more or less universal to the genre, as mentioned in
+the other post linked above. The first three editions go heavy into the whole
+Gibsonian VR Dungeon aesthetic and suffer from the classic problems from that
+approach. It’s also very inspired by how 80s mainframes worked, and rules aside
+it all made so much more sense to me once I realized that.&lt;/p&gt;
+
+&lt;p&gt;The fourth has something that visually resembles Ghost in the Shell or Cyberpunk
+2077, where the hacker follows along with the group and hacks a series of
+smaller devices using an augmented reality interface. My recollection is that
+this is supposed to be faster, but the discussion in question had people
+complaining it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;Cyberpunk-the-game is similar, with CP 2020 going in fully for VR dungeons, and
+CP RED going in for smaller localized servers that are also supposed to only
+take a small series of rolls to solve instead of an hours-long minigame. They’re
+are much less inspired by reality than Shadowrun’s (though this is of course not
+a knock on them, merely an observation).&lt;/p&gt;
+
+&lt;p&gt;There are also more recent games that try to either capture the nostalgic feel
+of old-school cyberpunk or to express the same themes in a more modern way. I’m
+thinking of Neon City Overdrive and Hard Wired Island, respectively. I’m not
+very familiar with them yet but I intend to change that.&lt;/p&gt;
+
+&lt;p&gt;And then you have GURPS, which has a few hacking systems of its own depending on
+which genre you’re talking about. The ones I’m interested in are the one from
+Pyramid #3/21, which emulates classic cyberdecks-and-mainframes hacking but
+could also work for GitS-style shenanigans, and the more streamlined one from
+GURPS Action.&lt;/p&gt;
+
+&lt;p&gt;And I kinda want to see if they all match the memories and impressions I have of
+them. Let’s try them all!&lt;/p&gt;
+
+&lt;h2 id=&quot;hackathon-scenario-and-rules&quot;&gt;Hackathon Scenario and Rules&lt;/h2&gt;
+
+&lt;p&gt;Picture a team of flawed but stylish urban mercenaries composed of a hacker, a
+sneaky talker, and a pair of sneaky bruisers. They’re on a mission to take down
+a corrupt and racist businessman, and they learned a company he owns stores the
+sort of evidence that can’t be ignored by the government: proof of rampant
+embezzling and tax evasion, in both digital and hardcopy forms.&lt;/p&gt;
+
+&lt;p&gt;Our mercenaries are going to infiltrate a small, single-office company, one of
+the many owned by the target. It does do legitimate business but also serves as
+a “stash” for records about the target’s illegal activities. Secret ledgers,
+blackmail material, and so on. Some of this lives in the company’s computer
+system, some of it is stored in hardcopy in a “records room” whose access is
+restricted to normal employees.&lt;/p&gt;
+
+&lt;p&gt;Employees and other authorized personnel can wander the legitimate business area
+of the office freely, but the “records room” can only be accessed by a small
+group of people who work directly for the target and drop by occasionally to use
+it. There’s a back entrance with an electronic lock so that these lieutenants
+can get in and out outside of business hours and/or without bringing too much
+employee attention to themselves.&lt;/p&gt;
+
+&lt;p&gt;The records room is watched by a camera and protected by an alarm that triggers
+if a stranger or even a normal employee tries to get close to it. There’s a
+small guard shift here during the day which increases at night. The guards know
+who the lieutenants are, and their duties involve keeping everyone else away
+from the room.&lt;/p&gt;
+
+&lt;p&gt;The office’s computer system will be different in every game. In all of them
+it’s supposed to be small but with tighter than expected security, because of
+what it hides.&lt;/p&gt;
+
+&lt;p&gt;The team’s mission is to infiltrate this office, steal all the evidence, and if
+possible drain the company’s accounts on the way out, because at the end of the
+day ya still gotta eat, chummer. Here’s how things are supposed to go, with a
+greater focus on the hacker’s part since this is what I’m interested in:&lt;/p&gt;
+
+&lt;p&gt;First, the team enters the building disguised as a maintenance crew. We’ll
+assume this part succeeds, giving them limited freedom of movement inside the
+office.&lt;/p&gt;
+
+&lt;p&gt;Next they must enter the records room. For them to be able to do this, the
+hacker must turn off a security camera and an alarm.&lt;/p&gt;
+
+&lt;p&gt;If the previous step succeeds, the hacker must locate and steal the target data
+from the office’s computer system. Technically, the best strategy would be to
+steal the evidence first and only then drain the accounts, but our hacker will
+do things in the order in which they run into the corresponding locations. The
+lure of money is strong when the account is right there.&lt;/p&gt;
+
+&lt;p&gt;Finally, the hacker must unlock the back door so the team can leave. Ideally
+they will do so quietly and with no one the wiser, but this could happen in the
+middle of a firefight. Possibly one caused by the hacker triggering an alert in
+the computer system.&lt;/p&gt;
+
+&lt;p&gt;For each of the following systems, I’m going to stat up a hacker character and a
+computer system that conforms to that game’s paradigm and rules. And then I’ll
+roll through the target session while timing how long it takes me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 1st Edition&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cyberpunk 2020&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 4th Edition, 20th Anniversary.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cyberpunk RED&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 5th Edition.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Neon City Overdrive&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hard Wired Island&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GURPS Action with the Pyramid #3/21 system, both in “classic” and “modern”
+modes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GURPS Action with its own system. Not sure this can accommodate the scenario,
+but we’ll see.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m using this particular list because those are the books I happen to own at
+present. I’m not sure if I want to spend money to acquire the hacking systems
+used in Shadowrun 2nd and 3rd Edition, though I do remember they are notably
+different from SR1.&lt;/p&gt;
+
+&lt;p&gt;The hacker and their equipment will be at roughly starting character level for
+each game, possibly with a slight tweak or two, and the challenges faced should
+be challenging but not impossible for the hacker. Whether the target devices are
+separate or part of the same single “target system”, and whether the hacker is
+even with the physical team, will depend on the system in question.&lt;/p&gt;
+
+&lt;p&gt;I have more practical experience with some of these systems than with others,
+but I will be studying all of them to ensure I do each run “right”. Preliminary
+study doesn’t count towards the timed session, but consultations that happen
+during the actual run &lt;em&gt;do&lt;/em&gt;, because I’ve never been in a session where people
+didn’t have to consult the books for something like this.&lt;/p&gt;
+
+&lt;p&gt;I’ll be writing a lot of stuff down during the actual run, but I’ll try to be as
+brief as possible there. It’s still going to take a bit more time than doing it
+verbally, but I think it evens out because there will be no table talk or extra
+player questions getting in the way. I’ll write wordier summaries after the run
+is done, and these are the ones that will see publication.&lt;/p&gt;
+
+&lt;p&gt;All rolls will be made on Orokos, but I’m not going to save them and will just
+report the results in the article.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Oct 2023 19:30:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/25/hackaton-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/25/hackaton-intro.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let's Read Neverwinter: Evernight, part 02</title>
+        <description>&lt;p&gt;This post concerns itself with specific landmarks in Evernight. A lot of them
+are “coterminous” with Neverwinter landmarks, occupying the corresponding
+location in space and having the exact same boundaries.&lt;/p&gt;
+
+&lt;h2 id=&quot;black-mound&quot;&gt;Black Mound&lt;/h2&gt;
+
+&lt;p&gt;The district of &lt;strong&gt;Black Mound&lt;/strong&gt; is named that because of the hill that dominates
+it. It’s coterminous with the Protector’s Enclave in Neverwinter. The houses and
+manors here are larger than in the rest of Evernight, but just as
+dilapidated. Undead are not known for their tidiness.&lt;/p&gt;
+
+&lt;p&gt;Most of the city’s relevant landmarks are here.&lt;/p&gt;
+
+&lt;h3 id=&quot;house-of-screams&quot;&gt;House of Screams&lt;/h3&gt;
+
+&lt;p&gt;Located in the same spot as Neverwinter’s Hall of Justice, the House of Screams
+is the oldest manor in the city and the closest thing Evernight has to a
+courthouse or city hall.&lt;/p&gt;
+
+&lt;p&gt;The Tribunal holds court in the upper levels. When it’s time to adjudicate a
+dispute, they slam iron portcullises over all exits until the session is done,
+because as mentioned in the previous post the ghouls eat the losers. They do
+find vampires to be a particular pain in the neck to deal with, as they can
+transform into mist and fly through the grates.&lt;/p&gt;
+
+&lt;p&gt;The House’s wide open cellar works as an arena where citizens can work out their
+problems without getting the Tribunal involved. There’s usually some bored
+ghouls, wights and vampires hanging around hoping to watch a fight or three, and
+they will gladly act as witnesses to confirm that the few rules of engagement
+were obeyed by both parties.&lt;/p&gt;
+
+&lt;h3 id=&quot;temple-of-filth&quot;&gt;Temple of Filth&lt;/h3&gt;
+
+&lt;p&gt;Coterminous with the House of Knowledge in Neverweinter, the Temple of Filth
+used to be dedicated to Bhaal and Myrkul, ancient gods of murder and death who
+died during the switch-over from AD&amp;amp;D 1e to AD&amp;amp;D 2e. Now it’s dedicated to Orcus
+and Dorensain.&lt;/p&gt;
+
+&lt;p&gt;All of the temple’s decorations, including its altar and holy symbols, are built
+from corpses an corpse bits. No special care is taken to &lt;em&gt;preserve&lt;/em&gt; these
+bits. They’re just replaced with new ones when they rot away. Ewwww.&lt;/p&gt;
+
+&lt;p&gt;The undead of Evernight sometimes ask the priests here to resolve their
+disputes, because they tend to demand services from both parties instead of
+eating one of them like the Tribunal does. The temple’s chief priest is
+Ursuntos, whose stats are those of an Adept of Orcus (Level 6 Controller, from
+the MM3). He has a bunch of ghoul and vampire underlings, and his political
+power in the city is second only to the Tribunal’s.&lt;/p&gt;
+
+&lt;p&gt;The grounds of the Temple are considered both defiled and necrotic ground as per
+the DMG2. Very cursed, but surprisingly not &lt;em&gt;quite&lt;/em&gt; as cursed as the Dread Ring,
+which has additional effects on top of that.&lt;/p&gt;
+
+&lt;h4 id=&quot;pool-of-daylight&quot;&gt;Pool of Daylight&lt;/h4&gt;
+
+&lt;p&gt;Deep within the temple, behind a bunch of locked doors, traps and magical
+darkness areas, is a literal pool of radiance (is this a name drop?) that shines
+as bright as the world’s mid-day sun. Any undead entering its chamber suffers
+terrible pain, and touching the pool can actually destroy the weaker among
+them. This is here as the ultimate security measure, for the pool is said to
+hide an artifact at its bottom that works as a weapon of mass destruction
+against undead. The Temple doesn’t want anyone else getting a hold of this.&lt;/p&gt;
+
+&lt;p&gt;Good thing living PCs don’t need to fear the light, huh? This could be just the
+thing to use against those pesky Thayans and Shadovar.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-graveyard&quot;&gt;The Graveyard&lt;/h3&gt;
+
+&lt;p&gt;Evernight’s Graveyard occupies the same area as the pauper section of
+Neverwinter’s own graveyard. Despite the name, and despite being absolutely
+filled with crypts and tombs and graves, from the point of view of the city’s
+ghouls this place is a &lt;em&gt;restaurant&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;You see, when an Evernight ghoul catches a living “tourist”, they don’t eat
+right away. Instead, they take the paralyzed victim to a place called Lamantha’s
+Mortuary, where the resident necromancer will inject them with longer-term
+paralytics. Then the ghoul arranges for a “funeral procession” for the
+still-living victim, who is buried alive in the Graveyard. Only after the victim
+has died and “ripened” a bit does the ghoul crack open the coffin and eat.&lt;/p&gt;
+
+&lt;h3 id=&quot;corpse-market&quot;&gt;Corpse Market&lt;/h3&gt;
+
+&lt;p&gt;Coterminous with the “rich” section of Neverdeath in the world, this is exactly
+what it says on the tin. A market where undead merchants sell meals to undead
+customers who are too busy to catch their own. From preserved blood for vampires
+to assorted corpse bits for ghouls to necromantic supplies, you can find all of
+that here for affordable prices.&lt;/p&gt;
+
+&lt;p&gt;This is also the place to go if you want to hire undead labor. Renting a zombie
+laborer costs 10gp per day and requires leaving a chunk of your flesh as
+collateral. The chunk is alchemically preserved, so it stays fresh and can be
+reattached later. While it’s missing, you lose a healing surge.&lt;/p&gt;
+
+&lt;p&gt;You might also be able to hire undead guides for about 100gp per day. Some of
+these guides might be able to smell specific “flavors” of death from a long
+distance away, so they might be useful to an Uthgardt Barbarian who wants to
+find their tribe’s missing thunderbeast skeleton, or to PCs looking for
+Gauntlgrym. Undead guides charge a premium for going into particularly dangerous
+places, refuse to fight for their clients and might in fact run away if a fight
+breaks out. Other than that, though, they’re reliable as long as they’re getting
+paid.&lt;/p&gt;
+
+&lt;p&gt;A creepy old man known as the Resurrectionist wanders the Market every day,
+looking for a piece of someone specific he wishes to bring back to life. He
+never finds the right one, so he keeps coming back to continue searching. He’s
+been at this long enough that most standard resurrection magic wouldn’t work any
+more, but the man guarantees he can bring anyone back no matter how long it’s
+been.&lt;/p&gt;
+
+&lt;p&gt;There’s a fenced off area here that contains warehouses and some of the
+merchant’s residences. While anyone can walk through the market, unauthorized
+people caught in this area are assumed to be prowling thieves and are killed on
+sight.&lt;/p&gt;
+
+&lt;h3 id=&quot;dark-creeper-enclave&quot;&gt;Dark Creeper Enclave&lt;/h3&gt;
+
+&lt;p&gt;This large manor close to the Graveyard is the Netherese consulate on
+Evernight. The Netherese pay a family of Dark Ones, the Glumguts, to mind the
+place. They don’t have any official authority - their job is to maintain the
+house, serve any actual dignitaries in the rare occasions they stay here, and
+receive any packages dropped off at the embassy.&lt;/p&gt;
+
+&lt;p&gt;Family members like to supplement their income with the occasional spot of
+burglary or robbery, though they are careful to restrict their activities to
+the living (who can do less about it). They also only target Thayans if they can
+get one of them alone, to avoid reprisals.&lt;/p&gt;
+
+&lt;p&gt;This is a proper gothic family too: their patriarch Blackclaw, a dark stalker
+(level 10 lurker), rules them through fear. The only ones who have the courage
+to defy him are his young cousins Thrax and Vinnia, and his son Blackcut. The
+trio believes they’re protected by Blackcut’s relation to his father, and free
+to do whatever they want. The truth is Blackclaw simply doesn’t know most of
+what they’ve been up to, and will be livid when he finds out. Their shenanigans
+have actually been quite detrimental to the family’s duties.&lt;/p&gt;
+
+&lt;h3 id=&quot;thayan-outpost&quot;&gt;Thayan Outpost&lt;/h3&gt;
+
+&lt;p&gt;The Thayans are based out of a warehouse near one of the city’s haunted piers in
+the Black Mound. They have a permanent garrison here commanded by Katrice Ansar
+(stats as a human hexer from the MM2, Level 7 Controller). She’s convinced they
+are being watched by Shadovar spies besides the obvious dark creepers, but has
+yet to find them.&lt;/p&gt;
+
+&lt;p&gt;Near the warehouse, in an abandoned neighborhood, is an iron gate that acts as a
+“dusk crevice” linked to Neverdeath cemetery. It’s guarded around the clock by a
+unit that includes undead loyal to the Thayans.&lt;/p&gt;
+
+&lt;h2 id=&quot;locations-outside-black-mound&quot;&gt;Locations Outside Black Mound&lt;/h2&gt;
+
+&lt;p&gt;There are only three of these described here.&lt;/p&gt;
+
+&lt;h3 id=&quot;lamanthas-mortuary&quot;&gt;Lamantha’s Mortuary&lt;/h3&gt;
+
+&lt;p&gt;Mentioned above in the Graveyard description, this is run by a living human
+necromancer named Lamantha who works as a mortician and taxidermist.&lt;/p&gt;
+
+&lt;p&gt;One of her main jobs is preparing mortal victims for burial in the Graveyard,
+which she does by injecting them with long-term paralytic drugs and dressing
+them up. She can also disguise undead so they look like living people through
+wardrobe and makeup adjustments, and she can turn bodies or bits of bodies into
+trophies and tools (or &lt;em&gt;sporting equipment&lt;/em&gt;, as the book makes sure to mention).&lt;/p&gt;
+
+&lt;p&gt;Since she provides valuable services, the rulers of Evernight gave Lamantha
+citizenship and allow her conduct her research in peace. Only the necromancer
+herself knows its precise nature - it’s something to do with observing the
+nature of growth and change among undead. Maybe she’s a necro-sociologist?&lt;/p&gt;
+
+&lt;p&gt;Despite being completely amoral and quite unhinged, Lamantha is happy to receive
+living visitors and get the latest gossip from the middle world. PCs who are
+polite to her might be able to use the mortuary as a safe place to rest for a
+couple of days, though she will become impatient with them if they overstay
+their welcome.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-demon-pit&quot;&gt;The Demon Pit&lt;/h3&gt;
+
+&lt;p&gt;Coterminous with Neverwinter’s Chasm, this opened up at the same time, though it
+did not disrupt “life” in the cursed undead city nearly as much as it did on the
+living one. Like in Neverwinter, the average civilian does not know why this
+rift opened up, nor what’s down there.&lt;/p&gt;
+
+&lt;p&gt;Evernight’s inhabitants call their rift the Demon Pit because rumor has it that
+it goes all the way down to Dorensain’s kingdom in the Abyss. No one tried to
+explore it, but they sometimes throw living mortals into the Pit as sacrifices
+to Orcus and Dorensain. That’s more of a folk ritual than established Temple
+practice, mind you.&lt;/p&gt;
+
+&lt;p&gt;Like the Temple of Filth, this area counts as both defiled and necrotic ground,
+and is still not as cursed as the Dread Ring.&lt;/p&gt;
+
+&lt;h3 id=&quot;castle-nowhere&quot;&gt;Castle Nowhere&lt;/h3&gt;
+
+&lt;p&gt;Coterminous with Castle Never. It looks much more intact and much creepier than
+its worldly counterpart, and not even the most ancient of Evernight’s undead
+citizens can tell when it was built. Like a few other places we’ve seen in
+previous posts, Castle Nowhere only exists &lt;em&gt;sometimes&lt;/em&gt;, vanishing and appearing
+in a ten-day cycle.&lt;/p&gt;
+
+&lt;p&gt;No one in Evernight knows much about what goes on inside the castle. They avoid
+going in because, get this, they think it’s haunted. This is hilarious, but it
+also makes you wonder what kind of haunting would scare an undead city.&lt;/p&gt;
+
+&lt;p&gt;Some of the legends about the place say that if you’re inside the castle when it
+vanishes, you don’t come back when it does. Others say that the ghosts inside it
+feed on &lt;em&gt;the hunger of others&lt;/em&gt;. This means they can cause the living to starve
+to death, but they can also cause a ghoul or vampire to become trapped in a
+state of eternal starvation and use them as permanent food sources. A fate worse
+than a second death!&lt;/p&gt;
+
+&lt;p&gt;There’s a box here with a power you can add to any incorporeal undead creature
+to make it into a ghost of Castle Nowhere. &lt;strong&gt;Consume&lt;/strong&gt; is a melee attack vs. AC
+that removes the target from play and inflicts 10 ongoing damage (save
+ends both). The target reappears adjacent to the monster when they make their
+save.&lt;/p&gt;
+
+&lt;p&gt;Living creatures reduced to 0 HP by this reappear normally and become immune to
+the power for the rest of the encounter. They make death saves and can be healed
+as normal. Undead reduced to 0 HP do not die, and remain trapped until willingly
+released by the ghost, or until the ghost is destroyed.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;That’s a proper creepy city, yes indeed. There’s more than enough material to
+fuel a whole horror-themed campaign, though I suspect most typical groups who
+are focused on other stories wouldn’t want to linger here too long.&lt;/p&gt;
+
+&lt;p&gt;Still, there are good reasons to visit the place. That artifact hidden in the
+Pool of Radiance would be extremely useful to wreck the Thayans, for example,
+and if the PCs want to follow the Shadowfell Road to their home base they would
+also need to start at the Thayan outpost in Evernight.&lt;/p&gt;
+
+&lt;p&gt;Castle Nowhere would make an awesome dungeon, but as written there’s barely any
+reason for PCs to enter the place. Perhaps they could use it to lure and trap a
+powerful undead foe like Valindra, or maybe the quickest way to access the Tomb
+of the Nine is by entering Castle Nowhere and crossing to the world through a
+dusk crevice.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Oct 2023 19:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/25/neverwinter-evernight-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/25/neverwinter-evernight-02.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        <category>dnd4</category>
+        
+        
+      </item>
     
       <item>
         <title>On Cyberpsychosis</title>
@@ -1360,229 +1794,6 @@ and made me stop writing new Let’s Read material for it for a while.&lt;/p&gt;
         <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/10/01/neverwinter-xinlenal.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/01/neverwinter-xinlenal.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: The Dread Ring</title>
-        <description>&lt;p&gt;In the gloomiest and darkest part of the Wood, there’s a perfectly circular
-clearing whose ground is ash. None of the Wood’s animals dare enter this
-place. This is where the Dread Ring was built. It was both a fortress and a
-ritual tool for a grand spell that would have turned Szass Tam into a
-god. Though the spell failed, the ruined fortress now serves as the main base
-for the Thayans in the region.&lt;/p&gt;
-
-&lt;p&gt;The entire area of the Ring, both indoors and outdoors, is &lt;em&gt;super cursed&lt;/em&gt;. Check
-it out:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;It counts as both defiled and necrotic ground, the rules for which are found
-in the DMG 2. Basically, undead are boosted and HP gains from spending healing
-surges are halved.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Powers with either the arcane or necrotic keywords crit on 19-20. Powers with
-both keywords crit on 18-20. This is one of the only instances of “critical
-range” boosting in the entire game, it’s an extremely rare bonus.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Creatures take -1 to Will against powers or effects with the fear keyword.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Since this is also Lorragauth’s grave, some smaller areas in here might also
-count as acid-based fonts of power or elemental spouts, making them even more
-hazardous.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-ring-from-the-outside-in&quot;&gt;The Ring from the Outside In&lt;/h3&gt;
-
-&lt;p&gt;Frequent clashes between Shadovar and Thayan forces have turned the outer areas
-of the clearing into a blood-soaked battlefield littered with corpses.&lt;/p&gt;
-
-&lt;p&gt;Inside the ruined outer walls is the &lt;strong&gt;Flesh Factory&lt;/strong&gt;, where corpses,
-body parts, and sometimes living victims are stored and used as materials for
-Thayan necromancy and flesh-shaping projects. The place’s design lets it raise
-undead at a much faster pace and a much larger scale than usual, effectively
-mass-producing them. This is where most of the Thayan undead are made, and also
-the facility in charge of repairing the fortress’ walls. Instead of bothering
-with the logistics of procuring and shipping stone, they decided to patch the
-walls with slabs of undead flesh. These walls get a stat block as a trap,
-because they can sprout grabby hands that deal damage.&lt;/p&gt;
-
-&lt;p&gt;Past the Factory are the &lt;strong&gt;halls of the fortress&lt;/strong&gt;, which follow no plan a
-living mind would consider sane since their main purpose was to act as a ritual
-tool.&lt;/p&gt;
-
-&lt;p&gt;The center is open, and it’s the current site of the &lt;strong&gt;Thayan excavation&lt;/strong&gt;
-that’s trying to reach Lorragauth’s resting place. They’ve managed to reach his
-bones and partially unearthed them already, but there’s plenty of work to do
-before they’re free of the soil. The excavation pit is deep and hazardous, and
-the book has rules for navigating it and for operating the many cranes installed
-here during combat to either drop rocks on enemies or slam the crane arm into
-them.&lt;/p&gt;
-
-&lt;p&gt;The undead workforce here doubles as the Dread Ring’s garrison, so they get
-depleted to a, er, skeleton crew when the Netherese attack. They’re overseen by
-Praddak, an battle wight (stats in DMG 2). Also here as protection is the sacred
-totem of the Thunderbeast tribe, which as we saw before was a fossilized
-thunderbeast skeleton. It’s been animated by necromancy, with the stats of a
-rotclaw (an undead monster from the Draconomicon). This of course is a horrible
-blasphemy, particularly to the Uthgardt Barbarian PC.&lt;/p&gt;
-
-&lt;p&gt;Somewhere near the pit is the &lt;strong&gt;Dread Spire&lt;/strong&gt;, the tallest surviving tower of
-the Ring. It houses the Thayan war room, the entrance to Valindra’s sanctum, and
-a perpetually dark room that contains a portal to the Shadowfell. It also
-contains the Chapel of the Dragon, where Kroskas’ cultists research how to raise
-Lorragauth as a dracolich.&lt;/p&gt;
-
-&lt;p&gt;The Shadowfell portal is what lets the Thayans bring corpses from Neverdeath
-Cemetery for reanimation, and to receive caravans that come from Surcross via
-the Shadowfell Road.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Valindra’s Sanctum&lt;/strong&gt; houses her library and an arcane observatory that lets
-someone scry remote locations and perform astrological divination. It’s operated
-by Lurrens, one of her lieutenants, who watches it 24/7. Lurrens is a former
-wizard who was turned into an undead Brain in an Armored Jar (from Open Grave).&lt;/p&gt;
-
-&lt;p&gt;The observatory’s grinding machinery is hazardous terrain, should a fight break
-out here. PCs might find information on Gauntlgrym and other campaign secrets by
-either researching Valindra’s library or learning how to operate the
-observatory.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Contrary to my earlier expectations the Dread Ring cannot rise as a floating
-battlestation or giant undead mech, though the possibility of them raising a
-dracolich is a decent substitute. The place is perfectly usable as an endgame
-dungeon, though it could also end up being “just” an important stop on the way
-to Gauntlgrym depending on the campaign’s focus.&lt;/p&gt;
-
-&lt;p&gt;And I have to say “Brain in an Armored Jar” is the best monster name ever.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/09/28/neverwinter-dread-ring.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/28/neverwinter-dread-ring.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: The Ruins of Shandarar</title>
-        <description>&lt;h2 id=&quot;historical-errata&quot;&gt;Historical Errata&lt;/h2&gt;
-
-&lt;p&gt;Before I continue, I feel a correction is in order. This one’s on me, not on the
-book, since it was a detail from that long and detailed timeline at the start
-that I missed. I’m correcting it here because it will be important later.&lt;/p&gt;
-
-&lt;p&gt;As we already know, Shandarar was the former capital of Iliyanbruen, an
-elven/eladrin empire that existed in this region thousands of years ago. It
-coexisted with the human empire of Netheril, and witnessed its fall when the
-flying city of Xinlenal fell on the Neverwinter Wood.&lt;/p&gt;
-
-&lt;p&gt;The bit I got wrong was this: the fall of Xinlenal did not also cause the end of
-Iliyanbruen. The crash site was far from the city, and though the elves explored
-it soon after the event they decided to declare it off-limits after the first
-few explosions and carried on with their lives.&lt;/p&gt;
-
-&lt;p&gt;Iliyanbruen would last for a few centuries longer. They’d manage to repel a
-massive orc invasion that covered the North, but their kingdom would collapse
-from the effort it spent to kick those same orcs out of the human city of Illusk
-(located where Luskan is today). From here on out things proceed as previously
-detailed, with the empire’s population scattering and some of them deciding to
-take refuge in the Feywild.&lt;/p&gt;
-
-&lt;h2 id=&quot;present-day-shandarar&quot;&gt;Present-Day Shandarar&lt;/h2&gt;
-
-&lt;p&gt;The middle world ruins of Shandarar cover a sizable area in the Wood but were
-mostly hidden by the passage of time and the growth of vegetation. Sometimes a
-farmer at the edges of the forest would find shards of pottery as they plowed a
-field, or some village builders would end up unearthing a ruined
-structure. These rumors helped the Netherese find the core of the ruins and
-steal a bunch of ancient relics from it, which has the eladrin in a tizzy as we
-already learned.&lt;/p&gt;
-
-&lt;p&gt;Most of the ruins are still, well, ruins. They’re overgrown and weathered enough
-to be hazardous. The oldest part of them, however, is being rebuilt and
-renovated by the eladrin, since that’s where they crossed over from the Feywild.&lt;/p&gt;
-
-&lt;p&gt;The biggest news here is that there are still several shielded vaults in the
-ruins that haven’t been found out by anyone yet. They contain extensive troves
-of ancient Iliyanbruen artifacts and works of art, of immense cultural value
-even when they aren’t magical, all protected against the ravages of time by
-stasis spells. The eladrin themselves don’t remember their locations, and this
-is the first time the book itself mentions them.&lt;/p&gt;
-
-&lt;p&gt;Here is also where it goes into a little more detail on the Feywild side of the
-crossing. That’s where the military outpost of New Shandarar is. It was also
-built on top of ruins, after the eladrin force kicked out the evil fey that had
-been living in them.&lt;/p&gt;
-
-&lt;p&gt;New Shandarar’s fortifications are living vegetation shaped by magic, and the
-portal opens into a courtyard kill zone. Aside from all the military defenses
-you expect, built of out living and magically reinforced wood, the fort also has
-plenty of facilities for long-term habitation. This includes a temple to
-Corellon.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-hidden-serpent&quot;&gt;The Hidden Serpent&lt;/h2&gt;
-
-&lt;p&gt;As we saw before, Merrisara Winterwhite, the force’s commanding officer, is part
-of their moderate faction. She spends most of her time in the middle world
-overseeing the restoration of the city. Her second-in-command is an extremist,
-and spends all of his time in the Feywild. Addemios Three-Dawn, the secret
-Asmodeus worshiper, also spends all his time in the Feywild. He has a hidden
-shrine to his god underneath Corellon’s temple. The evil fey who were
-supposedly kicked out of the area have a hidden camp not too far from the fort,
-and they cooperate with Three-Dawn because their interests align.&lt;/p&gt;
-
-&lt;p&gt;A side box here explains that Asmodeus presents himself in the Feywild as a
-trickster god of a “better class” than the usual archetypes found there. Instead
-of lying and cheating for the lulz, he encourages and teaches his followers to
-do so in order to advance their own power and influence.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-fey-and-the-pcs&quot;&gt;The Fey and the PCs&lt;/h2&gt;
-
-&lt;p&gt;Another box discusses the possible attitudes of the eladrin towards PCs. As we
-already known even the moderates are standoffish and aggressive to outsiders by
-default. However, they are likely have a more diplomatic stance towards a party
-which includes the Iliyanbruen Guardian.&lt;/p&gt;
-
-&lt;p&gt;Which of the two sub-factions wins out depends largely on the actions of the
-PCs. The moderates win and might become valuable allies if the PCs can offer
-them evidence that the Shadovar are responsible for the relic thefts, or if they
-can prove Addemios Three-Dawn is a traitor who is manipulating them.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, if the PCs steal from the ruins, fight the eladrin or attack
-Three-Dawn before proving his guilt, the Fey will adopt the extremist stance and
-launch a full-scale invasion of the region, likely starting a major open war
-with the other factions.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;How important the fey of New Shandarar are depends entirely on what the group
-wants for their campaign. They could be anywhere from isolated and irrelevant to
-a potential region-wide threat that needs to be defused as soon as
-possible. Even groups who aren’t interested in spending a lot of time dealing
-with these elves might still get an adventure or two out of a visit to their
-camp, perhaps as they’re traveling the Wood on the way to some other location
-therein.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/09/24/neverwinter-shandarar.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/09/24/neverwinter-shandarar.html</guid>
         
         <category>dnd4</category>
         

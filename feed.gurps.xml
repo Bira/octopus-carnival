@@ -5,9 +5,192 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Oct 2023 09:37:58 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Oct 2023 09:37:58 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Oct 2023 19:57:58 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Oct 2023 19:57:58 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon, part 00: Introduction</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackers-cast.jpg&quot;
+       alt=&quot;The protagonists of the 1995 movie Hackers.&quot;/&gt;
+  &lt;figcaption&gt;
+    Getting ready to hack the Gibson.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I recently got into a forum discussion about hacking in cyberpunk tabletop RPGs,
+as one does. This one was mostly centered around Shadowrun, and it touched on a
+lot of the reasons why one might want to &lt;a href=&quot;/octopus-carnival/2023/10/08/hacking-without-hackers.html&quot;&gt;play without a hacker PC&lt;/a&gt; even when
+you want to feature hacking in your game. It also got a bit into edition
+arguments, as it often does.&lt;/p&gt;
+
+&lt;p&gt;Shadowrun’s problems are more or less universal to the genre, as mentioned in
+the other post linked above. The first three editions go heavy into the whole
+Gibsonian VR Dungeon aesthetic and suffer from the classic problems from that
+approach. It’s also very inspired by how 80s mainframes worked, and rules aside
+it all made so much more sense to me once I realized that.&lt;/p&gt;
+
+&lt;p&gt;The fourth has something that visually resembles Ghost in the Shell or Cyberpunk
+2077, where the hacker follows along with the group and hacks a series of
+smaller devices using an augmented reality interface. My recollection is that
+this is supposed to be faster, but the discussion in question had people
+complaining it wasn’t.&lt;/p&gt;
+
+&lt;p&gt;Cyberpunk-the-game is similar, with CP 2020 going in fully for VR dungeons, and
+CP RED going in for smaller localized servers that are also supposed to only
+take a small series of rolls to solve instead of an hours-long minigame. They’re
+are much less inspired by reality than Shadowrun’s (though this is of course not
+a knock on them, merely an observation).&lt;/p&gt;
+
+&lt;p&gt;There are also more recent games that try to either capture the nostalgic feel
+of old-school cyberpunk or to express the same themes in a more modern way. I’m
+thinking of Neon City Overdrive and Hard Wired Island, respectively. I’m not
+very familiar with them yet but I intend to change that.&lt;/p&gt;
+
+&lt;p&gt;And then you have GURPS, which has a few hacking systems of its own depending on
+which genre you’re talking about. The ones I’m interested in are the one from
+Pyramid #3/21, which emulates classic cyberdecks-and-mainframes hacking but
+could also work for GitS-style shenanigans, and the more streamlined one from
+GURPS Action.&lt;/p&gt;
+
+&lt;p&gt;And I kinda want to see if they all match the memories and impressions I have of
+them. Let’s try them all!&lt;/p&gt;
+
+&lt;h2 id=&quot;hackathon-scenario-and-rules&quot;&gt;Hackathon Scenario and Rules&lt;/h2&gt;
+
+&lt;p&gt;Picture a team of flawed but stylish urban mercenaries composed of a hacker, a
+sneaky talker, and a pair of sneaky bruisers. They’re on a mission to take down
+a corrupt and racist businessman, and they learned a company he owns stores the
+sort of evidence that can’t be ignored by the government: proof of rampant
+embezzling and tax evasion, in both digital and hardcopy forms.&lt;/p&gt;
+
+&lt;p&gt;Our mercenaries are going to infiltrate a small, single-office company, one of
+the many owned by the target. It does do legitimate business but also serves as
+a “stash” for records about the target’s illegal activities. Secret ledgers,
+blackmail material, and so on. Some of this lives in the company’s computer
+system, some of it is stored in hardcopy in a “records room” whose access is
+restricted to normal employees.&lt;/p&gt;
+
+&lt;p&gt;Employees and other authorized personnel can wander the legitimate business area
+of the office freely, but the “records room” can only be accessed by a small
+group of people who work directly for the target and drop by occasionally to use
+it. There’s a back entrance with an electronic lock so that these lieutenants
+can get in and out outside of business hours and/or without bringing too much
+employee attention to themselves.&lt;/p&gt;
+
+&lt;p&gt;The records room is watched by a camera and protected by an alarm that triggers
+if a stranger or even a normal employee tries to get close to it. There’s a
+small guard shift here during the day which increases at night. The guards know
+who the lieutenants are, and their duties involve keeping everyone else away
+from the room.&lt;/p&gt;
+
+&lt;p&gt;The office’s computer system will be different in every game. In all of them
+it’s supposed to be small but with tighter than expected security, because of
+what it hides.&lt;/p&gt;
+
+&lt;p&gt;The team’s mission is to infiltrate this office, steal all the evidence, and if
+possible drain the company’s accounts on the way out, because at the end of the
+day ya still gotta eat, chummer. Here’s how things are supposed to go, with a
+greater focus on the hacker’s part since this is what I’m interested in:&lt;/p&gt;
+
+&lt;p&gt;First, the team enters the building disguised as a maintenance crew. We’ll
+assume this part succeeds, giving them limited freedom of movement inside the
+office.&lt;/p&gt;
+
+&lt;p&gt;Next they must enter the records room. For them to be able to do this, the
+hacker must turn off a security camera and an alarm.&lt;/p&gt;
+
+&lt;p&gt;If the previous step succeeds, the hacker must locate and steal the target data
+from the office’s computer system. Technically, the best strategy would be to
+steal the evidence first and only then drain the accounts, but our hacker will
+do things in the order in which they run into the corresponding locations. The
+lure of money is strong when the account is right there.&lt;/p&gt;
+
+&lt;p&gt;Finally, the hacker must unlock the back door so the team can leave. Ideally
+they will do so quietly and with no one the wiser, but this could happen in the
+middle of a firefight. Possibly one caused by the hacker triggering an alert in
+the computer system.&lt;/p&gt;
+
+&lt;p&gt;For each of the following systems, I’m going to stat up a hacker character and a
+computer system that conforms to that game’s paradigm and rules. And then I’ll
+roll through the target session while timing how long it takes me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 1st Edition&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cyberpunk 2020&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 4th Edition, 20th Anniversary.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Cyberpunk RED&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shadowrun 5th Edition.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Neon City Overdrive&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hard Wired Island&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GURPS Action with the Pyramid #3/21 system, both in “classic” and “modern”
+modes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;GURPS Action with its own system. Not sure this can accommodate the scenario,
+but we’ll see.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’m using this particular list because those are the books I happen to own at
+present. I’m not sure if I want to spend money to acquire the hacking systems
+used in Shadowrun 2nd and 3rd Edition, though I do remember they are notably
+different from SR1.&lt;/p&gt;
+
+&lt;p&gt;The hacker and their equipment will be at roughly starting character level for
+each game, possibly with a slight tweak or two, and the challenges faced should
+be challenging but not impossible for the hacker. Whether the target devices are
+separate or part of the same single “target system”, and whether the hacker is
+even with the physical team, will depend on the system in question.&lt;/p&gt;
+
+&lt;p&gt;I have more practical experience with some of these systems than with others,
+but I will be studying all of them to ensure I do each run “right”. Preliminary
+study doesn’t count towards the timed session, but consultations that happen
+during the actual run &lt;em&gt;do&lt;/em&gt;, because I’ve never been in a session where people
+didn’t have to consult the books for something like this.&lt;/p&gt;
+
+&lt;p&gt;I’ll be writing a lot of stuff down during the actual run, but I’ll try to be as
+brief as possible there. It’s still going to take a bit more time than doing it
+verbally, but I think it evens out because there will be no table talk or extra
+player questions getting in the way. I’ll write wordier summaries after the run
+is done, and these are the ones that will see publication.&lt;/p&gt;
+
+&lt;p&gt;All rolls will be made on Orokos, but I’m not going to save them and will just
+report the results in the article.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Oct 2023 19:30:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/25/hackaton-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/25/hackaton-intro.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Coiled Spring</title>
@@ -1739,95 +1922,6 @@ rules.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/19/gurps-fuzzy-turns.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Warforged Variants for Dungeon Fantasy</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/warforged_knight_by_will_e_h-d6ewj3b.png&quot;/&gt;
-  &lt;figcaption&gt;&lt;a
-  href=&quot;https://will-e-h.deviantart.com/art/Warforged-Knight-387829415&quot;&gt;Illustration
-  by Will-E-H&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Way back in the olden days of 2017, I published a post presenting the
-&lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;Warforged&lt;/a&gt; of D&amp;amp;D and Eberron fame as a racial template for the Dungeon
-Fantasy RPG. I’m still particularly proud of that post, and have used it in
-actual play, but I also think I can expand upon it a bit now. So here’s a couple
-variant warforged templates.&lt;/p&gt;
-
-&lt;p&gt;In this &lt;a href=&quot;/octopus-carnival/2018/10/18/peoples-of-tamriel.html&quot;&gt;2018 post&lt;/a&gt; where I explained how I came up with the stats for the
-peoples of Tamriel, I mentioned that I’m no longer a fan of including attribute
-adjustments and mental or cultural disadvantages in GURPS racial templates. The
-original 2017 Warforged template still includes both, even though it’s a bit
-more restrained with them. So our first variant is an updated template that
-removes those adjustments. It ends up being cheaper! Our second variant adds a
-lens on top of that.&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-20-points&quot;&gt;Warforged (20 points)&lt;/h2&gt;
-
-&lt;p&gt;All of the story-related descriptions remain the same as in the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original
-post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Composite Plating 1 {5}; Doesn’t Breathe {20}; Doesn’t Eat or
-Drink {10}; Unsleeping Watcher {10}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Dependency (Mana, Constantly) {-25}.&lt;/p&gt;
-
-&lt;p&gt;As mentioned in the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original post&lt;/a&gt;, Composite Plating is simply DR 1 without
-the Though Skin limitation, and Unsleeping Watcher is Less Sleep 4 with a +25%
-enhancement that allows the character to remain conscious during their sleep
-period. Check out the link for more flavorful and detailed descriptions.&lt;/p&gt;
-
-&lt;h3 id=&quot;lens-dreaming-doll--2-points&quot;&gt;Lens: Dreaming Doll (-2 points)&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/plain-doll.jpg&quot;/&gt;
-  &lt;figcaption&gt;&lt;a
-  href=&quot;https://www.deviantart.com/enijoi/art/Plain-Doll-634134454&quot;&gt;
-  Illustration by Enijoi&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This lens represent living constructs that do require actual sleep, though they
-still require less of it than us fleshbags. This replaces Unsleeping Watcher {10}
-with standard Less Sleep 4 {8}. The character is not aware of their surroundings
-when sleeping, but they are capable of dreaming.&lt;/p&gt;
-
-&lt;p&gt;This is an interesting lens if you want a character who resembles the Doll from
-Bloodborne more than a standard Eberron warforged.&lt;/p&gt;
-
-&lt;h2 id=&quot;warforged-gifts&quot;&gt;Warforged Gifts&lt;/h2&gt;
-
-&lt;p&gt;These optional traits are available to any warforged. They are individual rather
-than racial traits.&lt;/p&gt;
-
-&lt;p&gt;The optional traits from the &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;original article&lt;/a&gt; remain options
-here, and are still good to represent the social awkwardness of recently
-activated individuals.&lt;/p&gt;
-
-&lt;p&gt;Warforged with access to the proper tools could spend 5 points/level to increase
-their innate DR up to 3. The same tools might allow them to change their outward
-appearance and presentation in ways that let them acquire levels in the
-Appearance advantage.&lt;/p&gt;
-
-&lt;p&gt;Characters wanting more protection might buy the Accessory (Armor Hardpoints)
-perk for 1 point. This lets them use custom armor that weights 25% less than the
-normal humanoid version, but can’t be used by others or removed on the
-fly. Attaching or removing this custom armor can only be done in town. It costs
-the same as the normal equivalent. Warforged with the perk can still choose to
-wear normal armor, but can’t wear normal and attached armor together on the same
-location.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/02/07/warforged-variants.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/02/07/warforged-variants.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
