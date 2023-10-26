@@ -48,7 +48,7 @@ died during the switch-over from AD&D 1e to AD&D 2e. Now it's dedicated to Orcus
 and Dorensain.
 
 All of the temple's decorations, including its altar and holy symbols, are built
-from corpses an corpse bits. No special care is taken to _preserve_ these
+from corpses and corpse bits. No special care is taken to _preserve_ these
 bits. They're just replaced with new ones when they rot away. Ewwww.
 
 The undead of Evernight sometimes ask the priests here to resolve their
