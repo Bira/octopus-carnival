@@ -5,9 +5,174 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Oct 2023 19:47:54 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Oct 2023 19:47:54 +0000</lastBuildDate>
+    <pubDate>Thu, 26 Oct 2023 19:56:22 +0000</pubDate>
+    <lastBuildDate>Thu, 26 Oct 2023 19:56:22 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon: Shadowrun 1st Edition Design Phase</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr1-cover.jpg&quot;/&gt;
+   &lt;figcaption&gt;
+     Our target system
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For this run we’ll be using the original edition of Shadowrun, published
+in 1989. I started with second edition, but that’s not a problem because I’m
+equally unfamiliar with both edition’s hacking systems!&lt;/p&gt;
+
+&lt;p&gt;The writing and setting and even the rules of these two early editions give me a
+sort of cozy nostalgic feeling when I read them, but these days I am well aware
+of all their issues, mechanical and otherwise.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;The setting’s global network is called the Matrix. Hackers are called Deckers
+because they use &lt;em&gt;cyberdecks&lt;/em&gt;, devices the about the size of a full 104-key
+keyboard that have cable jacks for connecting directly to the decker’s neural
+interface and to either a computer terminal or a communications line.&lt;/p&gt;
+
+&lt;p&gt;Using a cyberdeck to access the Matrix takes you to the full Gibsonian VR
+Dungeon experience, where you zip through the infinite grid of the Matrix and
+then crawl through the low-poly simulated environments of a server, treating its
+security programs as monsters and its data as loot.&lt;/p&gt;
+
+&lt;p&gt;Beneath the chrome flash, we’re dealing with classic mainframes from the
+Eighties. The Matrix isn’t the Internet, it’s the global phone grid. You access
+your target mainframe by connecting to the phone grid yourself and dialing the
+number of the mainframe’s modem. There are even rules for making long-distance
+and international calls. Mainframe numbers are usually unlisted, but can be
+found with diligent research by deckers or provided by whoever’s hiring them for
+the run.&lt;/p&gt;
+
+&lt;p&gt;A cyberdeck is distinctly different from a mere “computer”, crammed full of
+specialized electronics that allow it to be used for operating in VR and hacking
+mainframes. Personal computers don’t do really do much other than letting you
+store and view data files, and perhaps acting as dumb terminals to mainframes.&lt;/p&gt;
+
+&lt;p&gt;Cyberdecks cost a fortune! The one used by the sample starting characters in the
+book costs more than a sports car. The most expensive one is about twice the
+price of a fighter jet. And that’s just for the base hardware. If you want your
+deck to be truly tubular, you’re probably going to spend around twice its base
+price on software and optional extras. Deckers tend to be highly specialized at
+character creation because they need to spend most of their points on money and
+most of their money on a deck - there isn’t any “room” to be anything else.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;A mainframe is composed of a set of Nodes representing its different parts,
+connected by Data Lines. The end result is a lot like a dungeon with rooms and
+corridors.&lt;/p&gt;
+
+&lt;p&gt;Each node allows users to perform a different set of System Operations related
+to its function. Authorized users can do this automatically. Our decker must
+perform a Computer skill test to beat the node’s Security Rating, a color and
+number combination that gives you both the difficulty of the roll and how many
+successes you need. If you fail at performing a system operation, you might
+trigger an alert.&lt;/p&gt;
+
+&lt;p&gt;Deckers can also run Utility Programs, which do things not listed in the system
+operations menu. There are four program categories, and each has a slightly
+different procedure that’s some variation of rolling the program rating against
+the node’s security. Some programs degrade, losing effectiveness each time
+they’re used. This resets when the decker jacks out. Failing at using a program
+doesn’t raise an alert, but might trigger IC.&lt;/p&gt;
+
+&lt;p&gt;The game is very concerned about how large programs are because there are rules
+for loading them from disk to RAM and managing your free memory. Not having
+enough RAM to run all you need at once is the quintessential 80s computing
+experience after all.&lt;/p&gt;
+
+&lt;p&gt;All Computer skill tests and Utility Programs can benefit from the decker’s
+Hacking Pool, which is equal to the sum of their Computer Skill and Reaction
+attribute, modified by stuff that increases Reaction. Like other dice pools in
+this system, it refreshes at the start of every action. You can allocate dice
+from it to benefit any Computer or Program tests while in the Matrix.&lt;/p&gt;
+
+&lt;p&gt;If you want to use a program you don’t have, you can improvise a single-use
+script version of it with your Hacking Pool. You can only improvise a degrading
+program once per Matrix run, but if I understand the book correctly you can
+improvise non-degrading programs multiple times. I’m interpreting the rules to
+mean that an improvised program must be used in the same action, otherwise there
+would be little reason to buy any programs.&lt;/p&gt;
+
+&lt;p&gt;Most nodes are going to have some IC (Intrusion Countermeasures, “ice”) in
+them. The mere presence of IC stops deckers from performing system operations or
+moving past the node, and they must either destroy or fool the IC before they
+can do these things. Most ice only triggers when it beats you in the opposed
+test to fool it. If you beat it but fail to beat the node’s base security, they
+remain inactive and still block your progress. Subsequent attempts are harder,
+increasing your chances of triggering the ice. Attacking IC directly also
+triggers it, of course.&lt;/p&gt;
+
+&lt;p&gt;White ice is completely passive. It tries to raise an alarm but you can block it
+with your Hacking Pool. Grey ice additionally tries to trace you or attack your
+deck. Black Ice attacks the &lt;em&gt;decker&lt;/em&gt; directly, and might kill them. There’s a
+little bestiary of different types within each category.&lt;/p&gt;
+
+&lt;p&gt;Matrix turns happen at the same speed as physical combat turns, using the same
+initiative rules. Both types of turn last around 3 seconds.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;In the Shadowrun 1st Edition version of our run, our decker is going to be
+remote, and we will assume the team discovered the mainframe’s unlisted phone
+number during their prep phase. I’m going to take a couple of shortcuts here
+because those are available to me.&lt;/p&gt;
+
+&lt;p&gt;For our decker, we’ll be using the &lt;strong&gt;Decker Archetype&lt;/strong&gt; from the SR1
+corebook. She has Computer 6, the Fuchi-4 deck with a decent spread of mods and
+programs, and a hacking pool of 15. I’m going to cheat a little bit and replace
+her Deception 4 utility with Sleaze 4, because from what I understood of the
+system there is no reason to ever take Deception when you can take Sleaze
+instead. Let’s assume she has one run under her belt and used the payout from
+that to upgrade her software a bit. Even with Sleaze’s larger size she can still
+fit all her programs in RAM at once.&lt;/p&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackaton-sr1-system.png&quot;/&gt;
+   &lt;figcaption&gt;
+     Our target system
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For our target system, we’ll be using the one from page 55 of the &lt;strong&gt;Mercurial&lt;/strong&gt;
+adventure. Here’s a list of the ICE present in the system:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Node 1: Trace and Dump-4.&lt;/li&gt;
+  &lt;li&gt;Node 2 Access-6.&lt;/li&gt;
+  &lt;li&gt;Node 3: Barrier-3.&lt;/li&gt;
+  &lt;li&gt;Node 4: no ICE.&lt;/li&gt;
+  &lt;li&gt;Node 5: no ICE.&lt;/li&gt;
+  &lt;li&gt;Node 6: Killer-4.&lt;/li&gt;
+  &lt;li&gt;Node 7: Access-5&lt;/li&gt;
+  &lt;li&gt;Node 8: Black Ice-5.&lt;/li&gt;
+  &lt;li&gt;Node 9: Trace and Burn-6, Black Ice-4.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Node 4 will be connected to our security camera, Node 5 to the alarm and
+door. Node 8 will contain the evidence we seek, and the CPU at Node 9 is where
+we can drain their accounts because that’s how it is in the original
+adventure. The other data store at Node 7 has nothing of value to our runners.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Oct 2023 19:30:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/26/hackaton-sr1-1.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/26/hackaton-sr1-1.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackathon, part 00: Introduction</title>
@@ -1823,105 +1988,6 @@ must be raised, which takes time and is susceptible to disruption from the PCs.&
         <category>gurps</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fuzzy turns in GURPS Combat</title>
-        <description>&lt;p&gt;As you might know from reading here before, I hang out on the RPG.net forums a
-lot. Whenever a discussion about GURPS starts there, some people often complain
-they feel intimidated or annoyed by the 1-second combat turns.&lt;/p&gt;
-
-&lt;p&gt;Other games tend to have a less granular concept of turn duration and of what
-exactly constitutes an action, so players used to them usually expect to be able
-to do one “complete thing” in each turn without bothering with detailed setup
-steps. For example, a ranged attack with a bow in D&amp;amp;D takes a single action that
-includes aiming, shooting, drawing a new arrow, and nocking it, all of which are
-distinct steps in GURPS.&lt;/p&gt;
-
-&lt;p&gt;I actually like 1-second turns and will be keeping them in my games, but I
-present here a possible way to make them fuzzier for those groups who don’t
-enjoy them as much. This is a fairly fundamental change to the base GURPS
-system, probably lends itself better to games that used simplified combat rules
-instead of things like detailed hex maps and range measures.&lt;/p&gt;
-
-&lt;p&gt;This also helps combat feel a bit more like what you might see in action movies
-or similar media, which tend to slow down things to make them easier to follow.&lt;/p&gt;
-
-&lt;h2 id=&quot;fuzzy-combat-in-gurps&quot;&gt;Fuzzy Combat in GURPS&lt;/h2&gt;
-
-&lt;p&gt;Under this rule, a combat round is no longer exactly 1 second long. Now it takes
-an unspecified amount of time between 5 and 10 seconds long - enough for
-everyone to act once.&lt;/p&gt;
-
-&lt;p&gt;Single-maneuver actions that can be resolved in a 1-second turn under the
-original rules still take 1 turn to resolve here. This includes most melee and
-ranged attacks, movement, and the Aim and Evaluate maneuvers. Advantages such as
-Extra Attack and techniques like Rapid Strike work exactly as written, with the
-same limitations, but read “seconds” as “turns”. The RoF stat retains its value
-for all weapons that have it, but read it as “shots per turn” instead of “shots
-per second”.&lt;/p&gt;
-
-&lt;p&gt;Actions that would take multiple consecutive maneuvers over several turns to
-perform now take 1 turn per 10 seconds or fraction thereof they would originally
-take. Some examples:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Swapping magazines on a modern gun took 3 seconds, so now it takes 1 turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Reloading a musket took 40 seconds, so it takes 4 turns now.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Any spell that would require less than 10 seconds to cast can be cast in a
-single turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Searching through your pack for an item took 2d seconds. As the average of
-that roll is less than 10, it only requires a turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Picking a lock takes a minute, which means 6 turns. Accepting a -5 penalty to
-do it in 30 seconds means it takes 3 turns. This makes it possible to do
-during a fight.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The Fast-Draw skill now encompasses a series of actions taken to speed up a
-given process. It can reduce the time an appropriate action takes by 1 turn, to
-a minimum of 0. So you can still use it to draw a weapon and attack on the same
-turn, or to reload a pistol and keep firing on the same turn. That musket is
-still going to take 3 turns before it can fire again. You might want to make it
-Average instead of Easy since a single roll covers a larger set of actions.&lt;/p&gt;
-
-&lt;p&gt;These changes make characters such as archers and wizards more powerful in
-combat, since the number of things they can do over a given amount of turns has
-increased, while melee-focused character can still take more or less the same
-number of actions. Note that I have &lt;em&gt;not&lt;/em&gt; tested how these changes interact
-with the magic system, so I can’t measure how much of an impact it’s going to
-have on spellcasters.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-we-avoided&quot;&gt;Things we Avoided&lt;/h2&gt;
-
-&lt;p&gt;Note that we didn’t attempt to increase the effective number of actions by the
-same multiplier as the turn duration. If a character could attack every second
-under the standard rules, they don’t get to make 5-10 attacks in a single turn
-here. Aiming or Evaluating for multiple seconds gave you extra bonuses, but you
-don’t get them automatically here - you must perform those maneuvers for the
-same number of turns. Our goal is to remove multi-step complex procedures, not
-to keep counting seconds.&lt;/p&gt;
-
-&lt;p&gt;Yes, this is more abstract and perhaps less realistic, and that is the point. If
-you want to keep tracking events second-by-second, stick with the standard
-rules.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/04/19/gurps-fuzzy-turns.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/04/19/gurps-fuzzy-turns.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
