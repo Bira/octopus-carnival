@@ -5,14 +5,206 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 28 Oct 2023 15:46:27 +0000</pubDate>
-    <lastBuildDate>Sat, 28 Oct 2023 15:46:27 +0000</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2023 21:38:49 +0000</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2023 21:38:49 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon: Shadowrun 4th Edition</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For this post we’ll be using Shadowrun 4th Edition, published in 2005. More
+specifically, we’ll be using the 20th Anniversary core book published in 2009,
+which uses the same base rules as 4th Edition but incorporates errata and some
+material that was previously published in supplements.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;If Shadowrun 1e’s Matrix was inspired by 80s mainframes, then 4th edition’s is
+inspired by the Internet as it was in 2005, plus some reasonable extrapolations
+of things that were in fashion among futurists then but didn’t necessarily pan
+out in the following decades. It does end up looking a lot like what we actually
+have here in 2023, with a few important differences.&lt;/p&gt;
+
+&lt;p&gt;Instead of being built around high-speed cell towers, the mobile Matrix is a
+ubiquitous wireless mesh network. Individual devices in a mesh cooperate to
+route its network traffic without the need for central coordination.&lt;/p&gt;
+
+&lt;p&gt;The Internet of Things was also in fashion, so every object that could possibly
+have a use for built-in computing and network capability has that
+capability. Most of those devices are fairly limited, but computer hardware is
+apparently so cheap and standardized that many of them have unused capacity that
+could be repurposed by a clever hacker. One example is someone converting cheap
+appliances into mesh routers to to bring connectivity to a “dead zone”. It’s
+also easy to turn off a device’s wireless capability with a simple command or in
+some cases a physical switch.&lt;/p&gt;
+
+&lt;p&gt;Almost everyone carries a &lt;em&gt;commlink&lt;/em&gt;, a device that’s equivalent to a real-world
+smartphone in form factor and usage. They often connect to a variety of
+&lt;em&gt;peripherals&lt;/em&gt;, more limited devices that are built to talk to commlinks and not
+to the wider Matrix. These range from augmented-reality glasses to that
+smartlinked gun your character owns. A big server of the sort that’s the target
+of a hacking run is called a &lt;em&gt;nexus&lt;/em&gt;. I will just say “server” instead.&lt;/p&gt;
+
+&lt;p&gt;Augmented Reality is a big deal here, with most things connected to a mesh
+having some sort of AR presence, and general interaction with your commlink and
+the Matrix happening through AR interfaces. If you can use AR to help with your
+current task you gain a bonus to the roll. Examples include finding your way
+around town with that handy videogame-style minimap, overlaying a blueprint and
+instructions over the thing you’re fixing, firing a smarlinked gun, finding
+someone in a crowd when you have a face-recognition database, and so on. One can
+also choose to go “full VR”, which more useful for certain applications (mainly
+hacking).&lt;/p&gt;
+
+&lt;p&gt;Secure facilities of the sort shadowrunners are hired to break into have
+internal mesh networks. They use tactics like limited signal ranges and
+radio-blocking paint to keep their signal contained to the physical space they
+service, and might not be connected to the wider Matrix at all. In some the
+paydata is going to be in a server that’s only accessible via wired connection
+or even via its own terminal. While sometimes it’s still possible for a hacker
+to work from home, they will most often have to hoof it alongside the rest of
+the team and take on devices and intranets as they come.&lt;/p&gt;
+
+&lt;p&gt;Just like it happens with Shadowrun 1e, a lot of criticism of this model comes
+from a mismatch between the person’s understanding of the modern (2023) Internet
+and the model they used to build the Matrix in the books. It’s a bit worse here
+both because of the usual edition warrior shenanigans, and because the
+differences are more obscure. On the bright side it’s a lot easier to change the
+explanation behind the Matrix to a 2023-current one here than it would be to do
+the same to Shadowrun 1e’s 80s extravaganza.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;Hacker characters are called, well, hackers. They use powerful commlinks and a
+suite of specialized software to hack mesh-connected devices. Most often this
+means some peripheral or commlink-level device like a camera, alarm, door or
+handy pieces of scenery like unattended cars and other things that can be used
+to ruin an enemy’s day. It can also mean hacking into a big nexus to steal data
+and generally do the same things you could do back in SR 1. All devices are
+described by the same set of attributes, and use the same types of programs.&lt;/p&gt;
+
+&lt;p&gt;Stuff like memory, storage, file sizes, and download speeds are still
+considerations in the fiction, but they don’t get detailed rules. Unless the GM
+judges a given chunk of data is too large, you can download it in one turn and
+store it in your commlink. Some really huge files might take multiple turns to
+download or might not fit your storage at all, and the GM decides when that’s
+the case based on common sense. You don’t need to worry about storing your run’s
+paydata, but you also can’t try to get cute and download the entire public
+Matrix into a talking teddy bear.&lt;/p&gt;
+
+&lt;p&gt;Hacking a device means obtaining illicit access to a user account inside it. If
+you have set of legitimate credentials for your target account then you don’t
+need to roll anything. Otherwise you can gain access by either &lt;em&gt;probing&lt;/em&gt; the
+device over a period of hours or days, or by &lt;em&gt;hacking on the fly&lt;/em&gt;. The latter is
+an aggressive approach that happens in combat time and carries a much higher
+risk of detection.&lt;/p&gt;
+
+&lt;p&gt;Hacking can be done in AR or VR. There are several advantages to doing it in VR,
+and even more for doing it with the safety limiters turned off (a condition
+known as “hot sim”). Hot sim is the preferred way to hack important nodes, but
+it also leaves you vulnerable to lethal damage from Black Ice.&lt;/p&gt;
+
+&lt;p&gt;There are three types of user account. Standard accounts can view and mess with
+their own data and perform basic functions of the device. Security accounts have
+access to more sensitive functions and thus are more protected. And
+administrator accounts are the most protected and have full control of
+everything. Individual nodes in adventure descriptions should also include a
+description of which account tiers they support and what those let users do.&lt;/p&gt;
+
+&lt;p&gt;It’s also possible to use a technique called “spoofing” to send single commands
+to nearby devices by pretending to be someone who’s authorized to do so. This is
+probably what you’re going to use for one-off environmental fuckery.&lt;/p&gt;
+
+&lt;p&gt;There is no Hacking Pool here, but all characters can spend Edge to boost any
+roll by doing things like rerolling failed dice.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;For the first time in this series our Hacker will be joining the physical team
+on-site. In this game, it’s common for a site to have more than one server, and
+for the really important ones to be isolated from the outside Matrix. This means
+the servers containing our main mission objectives can’t be hacked remotely.&lt;/p&gt;
+
+&lt;p&gt;As usual the core book provides us with a very handy sample Hacker which we can
+use for our run. This one’s an ork dude with an implanted commlink with all
+attributes at 5 and a full set of programs whose ratings vary between 2
+and 5. His skills vary between 4 and 5 too. He’s better at sneaking around than
+at cybercombat, so we should take care not to trigger any alerts.&lt;/p&gt;
+
+&lt;p&gt;I don’t have a ready-made target site for him to hack, but I found this &lt;a href=&quot;https://pavao.org/shadowrun/miscellany/example_matrix.pdf&quot;&gt;free
+document&lt;/a&gt; with some example sites and I’m going to take inspiration from
+this, from the SR1 mainframe, and from what little I know of real life to design
+a target network. Here it goes:&lt;/p&gt;
+
+&lt;p&gt;This company has a public site but that doesn’t get stats here because it’s
+hosted in some cloud provider elsewhere. It has an internal office network for
+its day to day business, separated from the Matrix by a beefy firewall. The
+firewall node is also not relevant to us because we’re hacking the site from the
+inside.&lt;/p&gt;
+
+&lt;p&gt;We’ll treat the entire office network as a single node: System 4, Response 4,
+Firewall 3, Analyze 2. User-level accounts allow each user to perform their
+daily work. The company’s accountant has a Security account that can access and
+manipulate the company’s money, and we need to breach it in order to steal that
+money. The network’s standard ice has Pilot 3, Analyze 3, Attack 3, Armor 3, and
+triggers when the node detects any unauthorized access. There’s another piece of
+ice here (Pilot 4, Analyze 4, Stealth 4, Track 4) that gets activated if the
+system detects unauthorized access to the security-tier account. It tries to
+trace the intruder’s connection and notifies the authorities when it succeeds.&lt;/p&gt;
+
+&lt;p&gt;Separate from the internal network, there is a security server in charge of
+alarms, cameras, badges and lockable doors. User accounts in this server let
+employee badges open some doors, but not the one that leads to the record
+room. Security accounts let their user operate alarms and cameras. The security
+server has its own wireless signal that covers the entire office, but it doesn’t
+connect to any other server and accounts on other hosts aren’t valid here. We
+want at least a Security account to perform most of our objectives. If the
+hacker is on site they might also try to spoof the individual devices.&lt;/p&gt;
+
+&lt;p&gt;The security server has System 4, Response 4, Firewall 4, Analyze 4. Its ice,
+which activates when an intruder is detected, has Pilot 4, Blackout 4,
+Armor 4. Any guards currently connected might also be alerted to the
+intruder. The server operates in hidden mode, so our hacker needs to find it
+before trying to hack it.&lt;/p&gt;
+
+&lt;p&gt;Cameras, alarms and doors attached to the security server all have Device
+Ratings of 3 and can be individually hacked or spoofed. Employee badges have
+Device Ratings of 2. All are subscribed to the security server.&lt;/p&gt;
+
+&lt;p&gt;The secret file server containing the evidence is located in the records
+room. It has no wireless interface at all, only a cable jack and a physical
+terminal. It has the same stats as the Security server: all stats at 4 plus
+Analyze 4. Its ice has Pilot 4, Black Hammer 4, and Armor 4, and is of course
+illegal for the target to possess. It has only security and admin accounts.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/30/hackaton-sr4-1.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/30/hackaton-sr4-1.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Cyberpunk 2020</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp2020-cover.jpg&quot;/&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp2020-cover.jpg&quot;
+        alt=&quot;The cover of Cyberpunk 2020&quot;/&gt;
    &lt;figcaption&gt;
      I used to think this guy on the cover was so cool.
    &lt;/figcaption&gt;
@@ -1857,177 +2049,6 @@ design commentary is going to be published here.&lt;/p&gt;
         <category>lets-play</category>
         
         <category>solo-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Wealth in D&amp;D and Dungeon Fantasy</title>
-        <description>&lt;p&gt;One thing I’ve done pretty often these past few years is converting D&amp;amp;D and
-Pathfinder adventures for use with Dungeon Fantasy (either version). These
-conversions didn’t have nowhere near the level of rigor of my &lt;a href=&quot;https://bira.github.io/octopus-carnival/projects/dragons-dogma/&quot;&gt;Dragon’s
-Dogma&lt;/a&gt; adaptation, but that larger project did give me a solid grounding on
-the basics.&lt;/p&gt;
-
-&lt;p&gt;Converting from one tabletop system to the other is fairly easy, for the most
-part, but there are some aspects of it that I found harder to do, especially on
-the fly. One of these is converting wealth between the two systems.&lt;/p&gt;
-
-&lt;p&gt;In this post I’ll be comparing the Dungeon Fantasy RPG and Pathfinder 1st
-Edition and trying to come up with a way to convert monetary amounts from the
-latter to the former. I chose the DFRPG because I use its monetary system in my
-games, and I chose Pathfinder 1e because I want to convert Hell’s
-Rebels. Pathfinder 1e, of course, shares most of its base assumptions with D&amp;amp;D
-3.5, the system from which it is derived.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-money-looks-like&quot;&gt;What Money Looks Like&lt;/h2&gt;
-
-&lt;p&gt;Dungeon Fantasy purposefully makes its coins have the exact same dimensions as
-those of D&amp;amp;D, and therefore Pathfinder. They both use chunky standardized coins
-that weight 1/50th of a pound (around 10 grams). These come in copper, silver,
-gold, and a few other exotic materials that we don’t need to look at right now.&lt;/p&gt;
-
-&lt;p&gt;These dimensions are apparently universal standards, and their value comes from
-their precious metal content. If you find a chest of thousand-year-old gold
-coins in an ancient dungeon, you can carry them back to town and spend them on
-the market right away. Finding “non-standard” coins is usually a rare special
-case.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, though their physical dimensions are identical, their values seem
-to be derived from completely different assumptions.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-money-buys&quot;&gt;What Money Buys&lt;/h2&gt;
-
-&lt;p&gt;Like all variants of GURPS, Dungeon Fantasy expresses its prices and values in
-“GURPS dollars”, or “$”. The exact value of this unit of currency varies with
-the setting. Here, $1 is the worth of a copper piece. Silver pieces are worth 20
-copper pieces each ($20). Gold pieces are worth 20 silver pieces each
-($400). This means GURPS is effectively on a copper standard. The vast majority
-of Dungeon Fantasy characters gets $1000 to buy their starting gear.&lt;/p&gt;
-
-&lt;p&gt;For Pathfinder we have the classic decimal setup where 1gp == 10sp == 100cp. The
-most common coin is the gold piece, and nearly everything in the core book’s
-gear chapter has its price expressed in gp. So here we’re on a &lt;em&gt;gold&lt;/em&gt;
-standard. Starting money is determined by a random roll that varies per
-class. Fighter-types start with an average of 175gp, others start with less.&lt;/p&gt;
-
-&lt;p&gt;In both cases, this starting money is meant to let you buy your main weapon,
-perhaps a backup or shield, a suit of armor, and the miscellaneous sundries that
-make up your typical adventurer’s kit: a pouch or pack, some camping supplies
-and rations, and maybe some tools like the thief’s lockpick set.&lt;/p&gt;
-
-&lt;p&gt;From there on out, things start to diverge quite sharply, and the way I see it
-it’s mainly the fault of Pathfinder’s Wealth By Level table. It subjects PCs to
-the tyranny of inflation. This plus the difference in base value means that
-while a haul of a thousand gold pieces is a fantastic fortune for even veteran
-Dungeon Fantasy delvers, it starts out at “pretty nice” for low-level Pathfinder
-adventurers and quickly becomes “pocket change” for high-level ones.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-whats-our-exchange-rate&quot;&gt;So What’s Our Exchange Rate?&lt;/h2&gt;
-
-&lt;p&gt;We can start with the guidelines presented in the Exploits book: an adventure
-should pay at least enough for the party to recoup their expenses with
-consumables, power item recharge, and the cost of staying in town during
-downtime. It’s perfectly OK for it to pay more than that, even &lt;em&gt;much&lt;/em&gt; more than
-that, because it’s relatively easy to get rid of “excess” money by giving them
-opportunities to spend it. Maybe a weird old man has a treasure map to sell, or
-a mystical artifact or something. Magic items don’t count as part of character
-wealth for this, as the game’s attitude to them is more similar to early D&amp;amp;D
-than modern Pathfinder.&lt;/p&gt;
-
-&lt;p&gt;So after all of that I think we can safely say that a Pathfinder 1e gold piece
-should be worth around &lt;strong&gt;$5&lt;/strong&gt; in Dungeon Fantasy. This leads to amounts of money
-that are sufficient to cover expenses with a little left over in low-level
-adventures, and to increasingly bigger hauls in higher-level ones, but as we
-established that’s OK. Some of those Pathfinder adventures even helpfully
-provide us with domain mini-games of their own that can soak up that extra cash.&lt;/p&gt;
-
-&lt;h2 id=&quot;performing-the-actual-conversion&quot;&gt;Performing the Actual Conversion&lt;/h2&gt;
-
-&lt;p&gt;With that basic exchange rate in mind, we can think about how that affects the
-actual treasure our delvers find in the adventure.&lt;/p&gt;
-
-&lt;h3 id=&quot;coins&quot;&gt;Coins&lt;/h3&gt;
-
-&lt;p&gt;Piles of coins change to reflect their new value. The two main approaches you
-could take here are to prioritize keeping the same value, or prioritize keeping
-the same weight (which means keeping the same number of coins). Getting &lt;em&gt;both&lt;/em&gt;
-value and weight to match is very hard, so I strongly recommend sticking to only
-one unless you like solving &lt;a href=&quot;https://en.wikipedia.org/wiki/Knapsack_problem&quot;&gt;multi-dimensional knapsack problems&lt;/a&gt; in your
-spare time.&lt;/p&gt;
-
-&lt;p&gt;Prioritizing &lt;strong&gt;value&lt;/strong&gt; means those coin piles will end up smaller and lighter
-than the originals. This will make hauling them off easier. I recommend against
-condensing the pile as much as possible, because you don’t want to make
-logistics &lt;em&gt;too&lt;/em&gt; easy. Also, finding a single gold coin can be a bit of a letdown
-even if it is worth a lot. This is the easiest approach to take on the fly.&lt;/p&gt;
-
-&lt;p&gt;Prioritizing &lt;strong&gt;the number of coins&lt;/strong&gt; means the pile will have exactly the same
-size and weight, but it will be made of a smaller denomination coins. Its actual
-value will probably be a little higher or lower than that of the original, but
-that’s OK as long as the value remains close. This could lead to a situation
-where the group only takes the most valuable portions of the pile, but I guess
-that’s true to how it was done in Old D&amp;amp;D too.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A chest containing 100gp in Pathfinder should contain $500 in coins
-when converted to DF.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Prioritizing value might give us a bag containing 25 silvers. That’s a
-satisfying number of coins that still has a non-negligible weight.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Prioritizing weight might give us a chest containing 80 coppers and 20
-silvers, with a total worth of $480.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gems-jewelry-and-art-objects&quot;&gt;Gems, Jewelry, and Art Objects&lt;/h3&gt;
-
-&lt;p&gt;These things tend to have pretty arbitrary values in both systems! The biggest
-difference in how they handle selling this stuff in town.&lt;/p&gt;
-
-&lt;p&gt;In Pathfinder, you can generally exchange them for their full listed value in
-cash, making them perfectly efficient forms of portable wealth. PF adventurers
-are quite likely to convert their coins into fancy jewelry when they need to
-travel long distances, since it’s much lighter for its value.&lt;/p&gt;
-
-&lt;p&gt;In Dungeon Fantasy, the only thing that fetches its full value is coin or bulk
-precious metals. Everything else, including gems, jewelry, and art objects, is
-subject to the rules for appraisal and haggling. This means typical delvers are
-likely to get less than full value for this stuff back in town.&lt;/p&gt;
-
-&lt;p&gt;My recommendation here is to use a doubled exchange rate: each gp of gems,
-jewelry and treasure is worth $10. That’s the treasure’s &lt;em&gt;real&lt;/em&gt; value, which
-means a typical party will get half of that on average when they sell it back in
-town. I feel this preserves the “original intention” of the adventure.&lt;/p&gt;
-
-&lt;h3 id=&quot;magic-items&quot;&gt;Magic Items&lt;/h3&gt;
-
-&lt;p&gt;Both systems have a lot to say about magic item pricing, so my strategy here is
-to not attempt a conversion of the price at all. I convert the &lt;em&gt;function&lt;/em&gt; of the
-item and figure out how much that would cost in Dungeon Fantasy if it was a new
-item. Saying it like this makes it sound easy, but this can be complex enough to
-warrant its own post.&lt;/p&gt;
-
-&lt;p&gt;If an item can be replicated with the standard enchantments from DF, it has
-those enchantments and is priced accordingly. Items with unique functions might
-be a bit harder, but I always have the “easy escape” there of just not assigning
-a fixed price to these. Like DF Artifacts, they’re either impossible to sell in
-the first place, or will be worth some arbitrary amount that matches what I want
-the PCs to have at that point.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 25 Jun 2023 19:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/06/25/dungeon-fantasy-wealth.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/06/25/dungeon-fantasy-wealth.html</guid>
-        
-        <category>dnd</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
         
         
       </item>
