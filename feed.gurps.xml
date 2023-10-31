@@ -5,9 +5,152 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Oct 2023 21:38:49 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2023 21:38:49 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Oct 2023 20:07:36 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Oct 2023 20:07:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After setting up our parameters in the previous post, we start the run here.&lt;/p&gt;
+
+&lt;p&gt;I actually ran this one a couple of times, because it took me a bit to fully
+internalize the rules. My main mistake was assuming I was familiar with them
+already and only reading them superficially to “refresh my memory”. This made me
+get some crucial basic facts wrong, causing my first run to be really fast but
+incorrect.&lt;/p&gt;
+
+&lt;p&gt;So I made an additional run where I tracked the die rolls accurately and got
+detected in one of the hacks. Then I read the rules outside of the Matrix
+chapter more closely and made another one where I spent Edge more wisely and
+accomplished all goals without being detected. I’m referring to these as the
+&lt;strong&gt;loud&lt;/strong&gt; and &lt;strong&gt;silent&lt;/strong&gt; runs. They are recorded below as a single account with
+notes on how they diverge.&lt;/p&gt;
+
+&lt;h2 id=&quot;diff-merging-timelines&quot;&gt;Diff-merging Timelines&lt;/h2&gt;
+
+&lt;p&gt;Our hacker enters the building with is team. They get past the reception as
+usual, receiving temporary badges. Once inside, he feels a “sudden” need to go
+to the bathroom, and locks himself inside a stall. He spends a couple of turns
+scanning for the badge’s wireless signal, and finds it.&lt;/p&gt;
+
+&lt;p&gt;He then tries to hack into the badge, still using AR because it’s a fragging’
+badge. He succeeds quickly. As expected the badge can’t do a lot, but it knows
+how to talk to the security server and now so does the hacker.&lt;/p&gt;
+
+&lt;p&gt;Our hacker then switches to VR and goes hot, after bracing himself so he doesn’t
+fall down in the stall. He tries to get himself security-level access because he
+knows from examining the badge that user-level accounts do nothing in this
+server.&lt;/p&gt;
+
+&lt;p&gt;This is where our timelines diverge. In the &lt;strong&gt;loud&lt;/strong&gt; run, he gets in but also
+gets detected. The server issues a restricted alert against his persona,
+triggers the Blackout ice, and pings the guards. Restricted alert means the
+server’s Firewall increases by +4 against the hacker.&lt;/p&gt;
+
+&lt;p&gt;The hacker and the IC go into cybercombat, with the hacker winning
+initiative. Cybercombat here resembles the SR1 version a bit, though the exact
+things you roll are different. With the expenditure of a couple points of Edge,
+our hacker manages to destroy the ice at the start of the second combat turn,
+without suffering any trauma to his brain meats. Still, in this timeline the
+guards are suspicious of the team.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;strong&gt;silent&lt;/strong&gt; run, luckier rolls let the hacker in without being detected.&lt;/p&gt;
+
+&lt;p&gt;In both, the hacker manages to disable the camera and alarm, letting the team
+move into the records room. While they perform a physical search for hard
+copies, our hacker jacks into the secret isolated server and goes into hot sim
+VR again. He manages to get in undetected, though in the &lt;strong&gt;silent&lt;/strong&gt; run he has
+to spend the Edge he didn’t spend in combat to do so.&lt;/p&gt;
+
+&lt;p&gt;I rule that finding the files requires no tests, as this is only a single node
+and the existing data search rules are for searching the Matrix.&lt;/p&gt;
+
+&lt;p&gt;Still in the records room, our hacker decides to be daring and hack the office
+network in search of those drainable accounts. This network has a wireless
+signal covering the whole office and is quite visible, so he gets right to it.&lt;/p&gt;
+
+&lt;p&gt;At first, our decker easily hacks himself a user account. From there he runs a
+data search on the network’s user directory to find the one who has access to
+the bank accounts, and then attempts to gain access to it. I give this a low
+Threshold because it’s a small intranet.&lt;/p&gt;
+
+&lt;p&gt;Finding the accountant’s profile, the hacker attempts to hack into it. That’s
+like starting from scratch, this time going for a security account. Again the
+hacker manages to get in undetected, and again in the &lt;strong&gt;silent&lt;/strong&gt; run he needs to
+spend Edge to do this.&lt;/p&gt;
+
+&lt;p&gt;Draining the account requires no additional rolls. And since our hacker retained
+his account at the security server, unlocking the back door requires no rolls
+either. Of course, in the &lt;strong&gt;loud&lt;/strong&gt; timeline there’s a very high chance that
+they’re doing this during a firefight, as the guards are extra-suspicious and
+would have known to check the records room…&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;loud&lt;/strong&gt; run that had cybercombat and an alert took 31 minutes. The
+&lt;strong&gt;silent&lt;/strong&gt; one took 17.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
+
+&lt;p&gt;This system is my personal favorite so far, and I had to actively keep myself
+from adding little cool bits that kept appearing in my imagination, because I’d
+otherwise would have found myself running an entire solo adventure, controlling
+the whole team and imagining dialogue in my head.&lt;/p&gt;
+
+&lt;p&gt;Having “my” character be present with the group certainly helped stir the
+imagination, because he wasn’t sitting pretty at home. I had to think about how
+he navigated the physical site with the rest of the group, and from where he’d
+jack into VR to avoid suspicion, and so on.&lt;/p&gt;
+
+&lt;p&gt;I do love that the system was very fast compared to the other ones so far, but I
+wonder how much of that is down to the design of the target nodes. I’d love to
+hear about how people design their own adventures.&lt;/p&gt;
+
+&lt;p&gt;We can see how Shadowrun’s system still favors silent runs here. Cybercombat
+against even a single instance of ICE takes a while to resolve, and the more of
+it there is the longer the run will take. Careless hackers could easily find
+themselves having to deal with multiple ICE cubes at once, perhaps even in
+different hosts, and that will drastically lower their chances of success. More
+advanced rules let hackers run their own agent programs, which helps fighting
+the icy hordes but makes things take more real time to solve.&lt;/p&gt;
+
+&lt;p&gt;That said, let’s see how our sample runs here fit with the physical team’s.&lt;/p&gt;
+
+&lt;p&gt;If we again assume the physical part of the run takes 50 minutes for a perfectly
+stealthy team and 90 minutes with a firefight on the way out, then it’s also
+possible to correlate our diverging runs to each of these scenarios. The
+perfectly sneaky run would mean a perfectly sneaky hack. The loud run would
+almost certainly be caused by that alert we got, unless our talker was &lt;em&gt;amazing&lt;/em&gt;
+at their job.&lt;/p&gt;
+
+&lt;p&gt;So, in the more common silent/silent and loud/loud scenarios, our hacker took up
+around 25% of the total session time, which is pretty close to ideal in a
+four-player party. In an anomalous loud hack/silent run scenario, they take up a
+little under half the run time. And in a silent hack/loud run situation, they
+take around 15% of the time hacking the objectives and can spend the rest of
+their spotlight time helping out in physical combat.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackathon: Shadowrun 4th Edition</title>
@@ -1863,192 +2006,6 @@ solution.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gm-hat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Play Hell's Rebels!</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell's_Rebels_Logo.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I started a Let’s Read of Hell’s Rebels way back when it was new, in 2017. I had
-gotten the campaign’s first three volumes with alongside a huge pile of other
-Pathfinder PDFs in one of Humble Bundle’s offerings.&lt;/p&gt;
-
-&lt;p&gt;I managed to publish articles about the first three of those books here, though
-I kinda stalled out between volumes 2 and 3. I still want to “Let’s Read” the
-rest one day.&lt;/p&gt;
-
-&lt;p&gt;This post, and the series it starts, are about something a bit different. You
-see, ever since I got those books I also had a desire to &lt;em&gt;run&lt;/em&gt; this campaign,
-but I didn’t want to do so using Pathfinder 1e’s default system. No, I wanted,
-and still want, to use the Dungeon Fantasy RPG for it.&lt;/p&gt;
-
-&lt;p&gt;I actually did it, too! This was during the thick of the pandemic here in
-Brazil, so I ran it on Roll20 with a group of friends. We got through the first
-two adventures, but I ended up stopping that campaign because the combined
-workload became a bit too heavy for me. I had to convert everything, prepare
-battle maps and tokens for Roll20, adjudicate setting developments in response
-to PC actions, and do all of that on time for the next session in two weeks
-while juggling all the other stress sources those interesting times produced for
-me and my family.&lt;/p&gt;
-
-&lt;p&gt;I still wanted to go through the whole thing, whether as a GM or as a player. As
-a GM, I no longer had any confidence I could prepare everything I needed on
-schedule. As a player, I had that peculiar problem where the only person I knew
-who wanted to run that adventure in the exact way I wanted to play it was
-me. Clearly, there was only one solution.&lt;/p&gt;
-
-&lt;h2 id=&quot;running-this-thing-as-a-solo-campaign&quot;&gt;Running this thing as a solo campaign&lt;/h2&gt;
-
-&lt;p&gt;I actually decided to run Hell’s Rebels for myself as a solo campaign way back
-at the beginning of 2023, but it took until the start of June for me to finally
-find the inspiration I was lacking.&lt;/p&gt;
-
-&lt;p&gt;This won’t be my first “solo” campaign: I ran through the first two Zeitgeist
-adventures that way between 2015 and 2017, give or take a year. That attempt
-lost steam due to the issues I’m about to discuss, but it was pretty fun while
-it lasted.&lt;/p&gt;
-
-&lt;p&gt;My solo campaign attempts don’t have much in common with others I’ve seen
-online. Those games tend to be quite minimalistic, with a single protagonist run
-by the solo player, a setting sketched in broad strokes, and some sort of
-“divination engine” taking the place of the GM. There is no pre-defined plot at
-all - it’s entirely decided by asking questions to the engine and interpreting
-its answers. The protagonist might have a starting goal, but how hard that is to
-reach and what happens on the way are determined randomly. Note-taking seems
-pretty minimal, unless the player in question wants to post actual play reports
-online.&lt;/p&gt;
-
-&lt;p&gt;To be clear, there is absolutely nothing wrong with that approach and it is in
-fact the one I would recommend to most people who want to do a solo game. All of
-the solo game products out there support it, and it is excellent at replicating
-the experience of being a player in a game and not knowing what will happen
-next.&lt;/p&gt;
-
-&lt;p&gt;It’s also not the approach I’m going to use for myself. I guess I’m built
-different.&lt;/p&gt;
-
-&lt;p&gt;The biggest difference between this game and one using the “best practice”
-approach outlined above is that I have a pre-defined module I want to run: the
-Hell’s Rebels Adventure Path. Not only do I want to play that, I’ve already read
-the first four volumes quite closely. While I find it easy to “forget” this
-stuff when I’m just a player, here I’m also the GM, which makes separating this
-knowledge impossible.&lt;/p&gt;
-
-&lt;p&gt;And of course, I have this weird desire to run it in a way that mirrors a
-standard party-based campaign with multiple players as closely as possible. I
-want a &lt;em&gt;party&lt;/em&gt; of heroes, and I want to be both player and GM at the same
-time. I want it to be GURPS, and I want to interact with the mechanical widgets
-of that system because I find them fun.&lt;/p&gt;
-
-&lt;p&gt;And of course, I don’t want to just keep a minimal set of notes. I’m not gonna
-write things as a novel or anything, but I kinda want to see the game’s events
-rendered as a reasonably comprehensive actual play report of the sort I see in
-the &lt;a href=&quot;https://dungeonfantastic.blogspot.com/&quot;&gt;Dungeon Fantastic&lt;/a&gt; blog. I’d do that even if I &lt;em&gt;didn’t&lt;/em&gt; intend to post
-them publicly - it’s what I did for Zeitgeist.&lt;/p&gt;
-
-&lt;h3 id=&quot;how-im-doing-this&quot;&gt;How I’m doing this&lt;/h3&gt;
-
-&lt;p&gt;My strange preferences bring two big risks to this endeavor.&lt;/p&gt;
-
-&lt;p&gt;The first one is the lack of an “information barrier” between player and
-GM. This barrier and the dramatic tension it brings do not exist when player and
-GM are the same person. The usual strategies for separating in-character
-knowledge from out-of-character information do not work here, at least for
-me. This gives me the strange simultaneous feeling that I’m “cheating” (as a
-player) and “going too easy on the PCs” (as a GM). This is obviously an obstacle
-to fun.&lt;/p&gt;
-
-&lt;p&gt;The other issue is with preparing maps and tokens. Sure, this would be much
-easier on me if I ran everything in the theater of the mind, but I like moving
-figures around on a battle map. The problem on my earlier attempts was that I
-would usually leave the &lt;em&gt;building&lt;/em&gt; of those battle maps to the very last second,
-when I’d be in a rush to get on with the action. This also means I never took
-the necessary time to familiarize myself with the software I was using. So I’d
-stall, and procrastinate, and take two months to finish something that could
-have been done in a couple of days.&lt;/p&gt;
-
-&lt;p&gt;To solve both of these issues, I’m going to make a resolution to never wear the
-GM and player hats at the same time. The GM hat is for preparation. The player
-hat is for “actual play”.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-gm-hat&quot;&gt;The GM Hat&lt;/h3&gt;
-
-&lt;p&gt;During preparation, I’m going to consider myself a mix of GM and designer and
-I’m going to lean on my newly-discovered feelings of Miniature Envy. You see, a
-lot of the online friends I’ve made in the past year and a half are very much
-into tabletop wargaming. They have extensive miniature collections and extremely
-well-organized workspaces for assembling and painting them. They often post the
-results of their work online and it always looks awesome.&lt;/p&gt;
-
-&lt;p&gt;I have neither the space, skill, nor the budget to do the same thing, but I
-&lt;em&gt;can&lt;/em&gt; look at the process of building battle maps and actor tokens in GCS,
-TokenTool and Foundry with the same sort of perspective. Learning how to use the
-software and actually building the things, then, becomes a hobby in itself. And
-there’s no time or schedule pressure, so there’s no problem if I take a bit
-longer in this part.&lt;/p&gt;
-
-&lt;p&gt;This will also be when I actually convert enemy stats, tests, and treasure from
-the adventure’s original Pathfinder 1e to GURPS Dungeon Fantasy. I’ll try to
-make them useful to others who want to try running the adventure in a more
-traditional manner, but I won’t bother converting rules material for those paths
-my PCs never take.&lt;/p&gt;
-
-&lt;p&gt;I will also perform some significant “condensation” in the campaign. Like all
-Pathfinder adventure paths, Hell’s Rebels includes a lot of filler fights
-placed to give your PCs enough XP for them to hit the expected character levels
-at the right times. It also features lots of elements that get added only on
-later books but which could be relevant from the start. Neither of these things
-are necessary in a Dungeon Fantasy campaign where the PCs already start out
-powerful and advance in a completely different manner.&lt;/p&gt;
-
-&lt;p&gt;As soon as I have a large enough chunk of unplayed material, I’m going to take
-off my GM hat and become a player.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-player-hat&quot;&gt;The Player Hat&lt;/h3&gt;
-
-&lt;p&gt;To solve the information barrier issue, I’m going to just learn to stop worrying
-and love the cheese. When I’m wearing my player hat, it will be like I’m playing
-a computer game with a walkthrough open. Sure, I might know what’s coming, and I
-might even have a party custom-tailored to overcome those challenges, but the
-&lt;em&gt;process&lt;/em&gt; of overcoming those challenges can still be quite fun. It can even
-still be surprising, depending on what the dice tell me.&lt;/p&gt;
-
-&lt;p&gt;It helps that this is the campaign whose main goal is punching fantasy
-Nazis. Even if I know what’s coming, the actual process of going through it can
-still be fun. Let us make awesome heroes tailored to the challenge and
-completely stomp those fascist fuckers into the fucking ground! Let’s kick their
-asses all the way to the Hell they came from! I want catharsis, dangit!&lt;/p&gt;
-
-&lt;p&gt;I will also try to pay special attention to my characters’ disadvantages and
-other traits, and obey the dictates of those self-control rolls. And when some
-kind of question appears during the “actual play” part, I’m going to use
-the Mythic GM Emulator to answer it.&lt;/p&gt;
-
-&lt;h2 id=&quot;whats-in-this-for-you&quot;&gt;What’s in this for you?&lt;/h2&gt;
-
-&lt;p&gt;This effort is going to generate a lot of material for this blog! I expect
-readers will get some use out of my premade PCs, and out of the enemy stat
-blocks I generate. Everything from those stats to the “actual play” reports and
-design commentary is going to be published here.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/08/lets-play-hells-rebels.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/08/lets-play-hells-rebels.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
-        
-        <category>solo-rebels</category>
         
         
       </item>

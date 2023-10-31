@@ -6,9 +6,152 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Oct 2023 21:38:49 +0000</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2023 21:38:49 +0000</lastBuildDate>
+    <pubDate>Tue, 31 Oct 2023 20:07:36 +0000</pubDate>
+    <lastBuildDate>Tue, 31 Oct 2023 20:07:36 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After setting up our parameters in the previous post, we start the run here.&lt;/p&gt;
+
+&lt;p&gt;I actually ran this one a couple of times, because it took me a bit to fully
+internalize the rules. My main mistake was assuming I was familiar with them
+already and only reading them superficially to “refresh my memory”. This made me
+get some crucial basic facts wrong, causing my first run to be really fast but
+incorrect.&lt;/p&gt;
+
+&lt;p&gt;So I made an additional run where I tracked the die rolls accurately and got
+detected in one of the hacks. Then I read the rules outside of the Matrix
+chapter more closely and made another one where I spent Edge more wisely and
+accomplished all goals without being detected. I’m referring to these as the
+&lt;strong&gt;loud&lt;/strong&gt; and &lt;strong&gt;silent&lt;/strong&gt; runs. They are recorded below as a single account with
+notes on how they diverge.&lt;/p&gt;
+
+&lt;h2 id=&quot;diff-merging-timelines&quot;&gt;Diff-merging Timelines&lt;/h2&gt;
+
+&lt;p&gt;Our hacker enters the building with is team. They get past the reception as
+usual, receiving temporary badges. Once inside, he feels a “sudden” need to go
+to the bathroom, and locks himself inside a stall. He spends a couple of turns
+scanning for the badge’s wireless signal, and finds it.&lt;/p&gt;
+
+&lt;p&gt;He then tries to hack into the badge, still using AR because it’s a fragging’
+badge. He succeeds quickly. As expected the badge can’t do a lot, but it knows
+how to talk to the security server and now so does the hacker.&lt;/p&gt;
+
+&lt;p&gt;Our hacker then switches to VR and goes hot, after bracing himself so he doesn’t
+fall down in the stall. He tries to get himself security-level access because he
+knows from examining the badge that user-level accounts do nothing in this
+server.&lt;/p&gt;
+
+&lt;p&gt;This is where our timelines diverge. In the &lt;strong&gt;loud&lt;/strong&gt; run, he gets in but also
+gets detected. The server issues a restricted alert against his persona,
+triggers the Blackout ice, and pings the guards. Restricted alert means the
+server’s Firewall increases by +4 against the hacker.&lt;/p&gt;
+
+&lt;p&gt;The hacker and the IC go into cybercombat, with the hacker winning
+initiative. Cybercombat here resembles the SR1 version a bit, though the exact
+things you roll are different. With the expenditure of a couple points of Edge,
+our hacker manages to destroy the ice at the start of the second combat turn,
+without suffering any trauma to his brain meats. Still, in this timeline the
+guards are suspicious of the team.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;strong&gt;silent&lt;/strong&gt; run, luckier rolls let the hacker in without being detected.&lt;/p&gt;
+
+&lt;p&gt;In both, the hacker manages to disable the camera and alarm, letting the team
+move into the records room. While they perform a physical search for hard
+copies, our hacker jacks into the secret isolated server and goes into hot sim
+VR again. He manages to get in undetected, though in the &lt;strong&gt;silent&lt;/strong&gt; run he has
+to spend the Edge he didn’t spend in combat to do so.&lt;/p&gt;
+
+&lt;p&gt;I rule that finding the files requires no tests, as this is only a single node
+and the existing data search rules are for searching the Matrix.&lt;/p&gt;
+
+&lt;p&gt;Still in the records room, our hacker decides to be daring and hack the office
+network in search of those drainable accounts. This network has a wireless
+signal covering the whole office and is quite visible, so he gets right to it.&lt;/p&gt;
+
+&lt;p&gt;At first, our decker easily hacks himself a user account. From there he runs a
+data search on the network’s user directory to find the one who has access to
+the bank accounts, and then attempts to gain access to it. I give this a low
+Threshold because it’s a small intranet.&lt;/p&gt;
+
+&lt;p&gt;Finding the accountant’s profile, the hacker attempts to hack into it. That’s
+like starting from scratch, this time going for a security account. Again the
+hacker manages to get in undetected, and again in the &lt;strong&gt;silent&lt;/strong&gt; run he needs to
+spend Edge to do this.&lt;/p&gt;
+
+&lt;p&gt;Draining the account requires no additional rolls. And since our hacker retained
+his account at the security server, unlocking the back door requires no rolls
+either. Of course, in the &lt;strong&gt;loud&lt;/strong&gt; timeline there’s a very high chance that
+they’re doing this during a firefight, as the guards are extra-suspicious and
+would have known to check the records room…&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;loud&lt;/strong&gt; run that had cybercombat and an alert took 31 minutes. The
+&lt;strong&gt;silent&lt;/strong&gt; one took 17.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
+
+&lt;p&gt;This system is my personal favorite so far, and I had to actively keep myself
+from adding little cool bits that kept appearing in my imagination, because I’d
+otherwise would have found myself running an entire solo adventure, controlling
+the whole team and imagining dialogue in my head.&lt;/p&gt;
+
+&lt;p&gt;Having “my” character be present with the group certainly helped stir the
+imagination, because he wasn’t sitting pretty at home. I had to think about how
+he navigated the physical site with the rest of the group, and from where he’d
+jack into VR to avoid suspicion, and so on.&lt;/p&gt;
+
+&lt;p&gt;I do love that the system was very fast compared to the other ones so far, but I
+wonder how much of that is down to the design of the target nodes. I’d love to
+hear about how people design their own adventures.&lt;/p&gt;
+
+&lt;p&gt;We can see how Shadowrun’s system still favors silent runs here. Cybercombat
+against even a single instance of ICE takes a while to resolve, and the more of
+it there is the longer the run will take. Careless hackers could easily find
+themselves having to deal with multiple ICE cubes at once, perhaps even in
+different hosts, and that will drastically lower their chances of success. More
+advanced rules let hackers run their own agent programs, which helps fighting
+the icy hordes but makes things take more real time to solve.&lt;/p&gt;
+
+&lt;p&gt;That said, let’s see how our sample runs here fit with the physical team’s.&lt;/p&gt;
+
+&lt;p&gt;If we again assume the physical part of the run takes 50 minutes for a perfectly
+stealthy team and 90 minutes with a firefight on the way out, then it’s also
+possible to correlate our diverging runs to each of these scenarios. The
+perfectly sneaky run would mean a perfectly sneaky hack. The loud run would
+almost certainly be caused by that alert we got, unless our talker was &lt;em&gt;amazing&lt;/em&gt;
+at their job.&lt;/p&gt;
+
+&lt;p&gt;So, in the more common silent/silent and loud/loud scenarios, our hacker took up
+around 25% of the total session time, which is pretty close to ideal in a
+four-player party. In an anomalous loud hack/silent run scenario, they take up a
+little under half the run time. And in a silent hack/loud run situation, they
+take around 15% of the time hacking the objectives and can spend the rest of
+their spotlight time helping out in physical combat.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackathon: Shadowrun 4th Edition</title>
@@ -1856,184 +1999,6 @@ those elements that are relevant to your players.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Gauntlgrym, Part 01</title>
-        <description>&lt;p&gt;This part gives an overview of the fabled lost city of Gauntlgrym,and goes into
-detail about its “upper” strata.&lt;/p&gt;
-
-&lt;h2 id=&quot;historical-errata&quot;&gt;Historical Errata&lt;/h2&gt;
-
-&lt;p&gt;There’s another bit I missed when I glossed over the big-ass timeline at the
-beginning of the book, and now I must correct that here.&lt;/p&gt;
-
-&lt;p&gt;The dwarves of Gauntlgrym found the primordial Maegera early in their habitation
-of the city, but they left her sealed up for a few hundred years before messing
-with her.&lt;/p&gt;
-
-&lt;p&gt;The massive project that bound her into a sort of arcane power generator was a
-three-way joint project between the dwarves, the mages of Illusk and the elves
-of Iliyanbruen. As we saw in the post about Shandarar, they were still around
-for a few centuries after the fall of Netheril, so they took part in this as
-well. The book describes this as a positive example of what the three peoples
-can do when they work together, though it outlived their friendship.&lt;/p&gt;
-
-&lt;p&gt;Maegera’s power allowed the dwarves of Delzoun to create inumerable wonders, in
-the form of both potent magical items and marvelous works of infrastructure for
-their capital and their empire. Gauntlgrym became a big center of trade and even
-saw numerous human families moving there.&lt;/p&gt;
-
-&lt;p&gt;The reason it fell was because of the Orc Marches, a massive region-wide
-invasion by an army of orcs larger than any seen before or since. By the time
-this happened, the three peoples were no longer on speaking terms, as each had
-grown more arrogant and mistrustful over time. They could have banded together
-to repel the invasion, but each thought they could go it alone. Illusk fell
-first, and Delzoun was next, and only at the gates of Shandarar was the
-already-weakened orc army repelled.&lt;/p&gt;
-
-&lt;p&gt;Iliyanbruen would end up dismantling anyway when it tried to take the fight to
-the orcs in Illusk, as we saw earlier. Gauntlgrym was left alone since no one
-seemed to be coming up from there. Its dwarven and humans refugees scattered all
-over the Realms, with many of the humans joining Uthgardt tribes on the surface
-and the dwarves ranging out further to move to their surviving nations.&lt;/p&gt;
-
-&lt;p&gt;The empire of Delzoun and its capital of Gauntlgrym are today kinda like the
-dwarven equivalent of the Roman Empire in that stupid meme. No dwarf living
-today has ever laid eyes on the lost city, but they think of it regularly and
-describe it as the height of their civilization.&lt;/p&gt;
-
-&lt;h2 id=&quot;gauntlgrym-today&quot;&gt;Gauntlgrym Today&lt;/h2&gt;
-
-&lt;p&gt;Despite being lost to the surface, Gauntlgrym did not remain static in all these
-millennia. The orcs were kicked out by mind flayers; the mind flayers by derro;
-and the derro by duergar. That last one happened fairly recently in historical
-terms, so the duergar still consider themselves masters of the place. However,
-they are not the only people living there. There are other groups seeking to
-control the city, and literal multitudes of ghosts belonging to its original
-inhabitants.&lt;/p&gt;
-
-&lt;p&gt;Let’s take a look at the city from the outside in.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-great-cavern&quot;&gt;The Great Cavern&lt;/h3&gt;
-
-&lt;p&gt;Whatever paths to Gauntlgrym exist in your campaign, they will always end
-here. This is a massive natural cavern filled with alien Underdark vegetation
-and labyrinthine formations of stone pillars and stalagmites. Small forts and
-balconies are carved into the walls and around the largest pillars - the remains
-of former guard posts. The bones of ancient battles litter the floor.&lt;/p&gt;
-
-&lt;p&gt;There’s a small lake at the center of the cave, and on one of its walls stands
-the massive mithral gate that leads into Gauntlgrym proper. It’s nearly
-impossible to open by mundane or magical means, but a true heir of Delzoun can
-open it with the slightest push. The cave is filled with your preferred
-selection of Underdark monsters, and also with two sapient factions.&lt;/p&gt;
-
-&lt;p&gt;The first is a group of old Ashmadai who came here with Valindra when she first
-tried to free the primordial in that Drizzt novel. The tunnels they used filled
-with magma at the end of that, so they became trapped here. Their first reaction
-to any strangers they spot is violence, though some of them might be prepared to
-surrender or betray the rest in exchange for a way back to the surface.&lt;/p&gt;
-
-&lt;p&gt;The second faction is the House Xorlarrin expedition, who arrived recently and
-built a hidden camp. They’re spying on the Ashmadai while looking for a way to
-open the gates. Their reaction to intruding PCs will be to remain hidden and spy
-on them as well, waiting to see if they can open the gates. If they can, the
-drow will follow them covertly, scattering if spotted, and will only attack if
-the PCs become distracted by some other enemy inside the city.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-iron-tabernacle&quot;&gt;The Iron Tabernacle&lt;/h3&gt;
-
-&lt;p&gt;The Iron Tabernacle was Gauntlgrym’s temple district, and was both the city’s
-physical and spiritual center. Its many temples and shrines were dedicated to
-Moradin and other good gods, and attended by a sizable contingent of dwarven and
-human priests. This enormous multi-leveled district was a marvelous sight to
-behold in its glory days, but now most of it lies ravaged by both time and by
-duergar impiety. The city’s new occupants have defaced every religious image and
-statue they could find, and stolen anything of value here, from precious relics
-to the mithral trim in the walls.&lt;/p&gt;
-
-&lt;p&gt;Still, the Tabernacle is so vast that some hidden shrines remain untouched and
-could be reconsecrated by PCs. There’s a text box here detailing the minor boons
-they can gain from doing so. An extended rest next to the restored shrine takes
-only three hours instead of six, and has no danger of being interrupted by
-wandering monsters. And if a member of the party is a non-evil dwarf or a
-worshiper of Moradin, they might gain the attention of one of the city’s ghosts,
-who will help them in battle the next time they fight (using a level-appropriate
-incorporeal undead stat block). Both benefits only happen once.&lt;/p&gt;
-
-&lt;p&gt;The Tabernacle is also the hub of Gaunglgrym’s ancient mine rail network. The
-rails connect directly or indirectly to every other district in the city, and
-are meant to be traveled by self-propelled mine carts that were used for bulk
-cargo transport back in the day. They still run according to their ancient
-schedules and could be commandeered by PCs. A big switching station in the
-Tabernacle can let them switch carts from one track to another. It’s an easy
-way to get around this vast city.&lt;/p&gt;
-
-&lt;p&gt;Or perhaps not so easy - there are some rules here that might come into play
-when a fight happens during a cart ride, or when a cart &lt;em&gt;derails&lt;/em&gt; during a
-fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;ancient-cemetery&quot;&gt;Ancient Cemetery&lt;/h3&gt;
-
-&lt;p&gt;The lowest level of the Tabernacle is a massive collection of crypts, laid out
-according to a now forgotten scheme or tradition. Some are simple, some very
-elaborate, but all of them have the names, titles, and lineage of their
-occupants carved on their stone.&lt;/p&gt;
-
-&lt;p&gt;Unlike the upper levels, the crypts are intact. The many, many ghosts who roam
-the place attack any would-be vandals and thieves en masse, so the duergar stay
-away from here.&lt;/p&gt;
-
-&lt;p&gt;The ghosts will not bother the PCs at first, but will attack as above if they
-try to damage or steal from the crypts. The group should take care to remain on
-their best behavior while in this area.&lt;/p&gt;
-
-&lt;h2 id=&quot;theme-tie-ins-and-impressions&quot;&gt;Theme Tie-Ins and Impressions&lt;/h2&gt;
-
-&lt;p&gt;The PC theme that’s most interested in Gauntlgrym is definitely the Heir of
-Delzoun. Finding this place is their life’s goal, so if your party includes one
-or more Heirs Gauntlgrym is going to be a vitally important place for the
-campaign.&lt;/p&gt;
-
-&lt;p&gt;For the Heir and most other characters who might be interested in finding the
-city, the true treasure here is all the historical and genealogical information
-contained in the crypt walls. It’s a major archaeological finding all by itself,
-which is reason enough for Oghma’s Faithful, but it’s even more valuable to the
-Heir and perhaps even to the Neverwinter Noble. All dwarves, and a lot of human
-nobles, keep pretty detailed genealogies of their own clans and families and
-these would be easy to connect to the ones in display here.&lt;/p&gt;
-
-&lt;p&gt;If the Noble could prove that their house is older than Neverwinter itself, then
-they might have an unassailable claim to the throne! And if the Heir’s ancestors
-are important enough, they might have a strong claim to &lt;em&gt;Gauntlgrym’s&lt;/em&gt; throne,
-or perhaps to that of one of its successor states.&lt;/p&gt;
-
-&lt;p&gt;Of course, not everyone would be happy with these findings. There are plenty of
-dwarven nobles out there who built their prestige on forged lineages, and who
-would not want the world to discover this fact. And many others who would be
-more than happy to pull a Beloq and kill the PCs before they can announce their
-findings to the world, so that they can claim the credit.&lt;/p&gt;
-
-&lt;p&gt;The “default” way to arrive at Gauntlgrym is to navigate the river of flame
-beneath Mount Hotenow, but there could be other paths as well. Maybe they could
-take a detour through Hotenow’s Shadowfell reflection, or maybe there’s a
-mystical path similar to Shadowfell Road that takes those who follow it properly
-to the mithral gates.&lt;/p&gt;
-
-&lt;p&gt;In the next post, we dig too greedily and too deep.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/14/neverwinter-gauntlgrym.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/14/neverwinter-gauntlgrym.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
         
         
       </item>
