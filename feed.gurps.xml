@@ -5,9 +5,270 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Oct 2023 20:07:36 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Oct 2023 20:07:36 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 20:46:21 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 20:46:21 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Cyberpunk RED</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp-red-cover.png&quot;
+        alt=&quot;The cover of Cyberpunk RED&quot;/&gt;
+   &lt;figcaption&gt;
+     I still think this cover is cool.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In this post we’ll take a look at Cyberpunk RED, the current edition of
+Cyberpunk-the-game. It’s meant to be the followup to Cyberpunk 2020, and in a
+nice bit of synchronicity it was published in 2020. It’s kind of a companion
+piece to the Cyberpunk 2077 computer game, since according to the foreword the
+two works started being made at around the same time.&lt;/p&gt;
+
+&lt;p&gt;CP RED provides what the critics of previously attempted 2020 sequels most
+wanted: more of the same. It takes the 2020 setting forward to 2045 by
+essentially doing a copy-and-paste on the timeline to extend it, so you have a
+&lt;em&gt;new and improved&lt;/em&gt; ecological collapse, a &lt;em&gt;new and improved&lt;/em&gt; corp war that
+leaves plenty of cybered-up veterans, and so on. Of course, it’s not an exact
+copy and a lot of things are different, but the tone is almost exactly the same
+as 2020.&lt;/p&gt;
+
+&lt;p&gt;One of the things that underwent a big change was the Net, which we’ll look at
+now.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;The Net of Cyberpunk RED contains about the same amount of space magic as its
+2020 ancestor, but it looks different. Somewhere around 2023 or so, iconic
+netrunner Rache Bartmoss releases a bunch of data-destroying rabid AIs into the
+old Net. They do so much damage that the authorities who oversee the old telecom
+grid decide to shut it down entirely, in the process undoing the spell that made
+the use of virtual reality possible.&lt;/p&gt;
+
+&lt;p&gt;Nowadays there’s still the notion that the Net is a parallel dimension, but it’s
+a dangerous and fractured one. Each city has their own small Net realm, isolated
+from the world by firewalls, and in between you have the wild and wooly domains
+of rogue AIs and demon programs. Why do we need firewalls to keep them at bay if
+there are no physical lines connecting them to us any more? Shut up, that’s
+why. Any similarity between this and Shadowrun’s deep astral planes is probably
+a coincidence, which is kind of a waste in my opinion.&lt;/p&gt;
+
+&lt;p&gt;Inside the city nets, someone came up with a new spell in 2035 that once again
+let people see the virtual aspect of the Net in a simplified form. Now you can
+put on a set of “Virtuality” goggles and see the parallel dimension of the Net
+overlaid over the physical world, with every connected object having a
+corresponding icon. The main difference here is that more things have icons, and
+you can no longer leave your body behind.&lt;/p&gt;
+
+&lt;p&gt;Standard users mostly use the city nets through devices called Agents, which are
+a bit like slightly smarter smartphones. They can use these for pretty much
+everything we’d use the Internet for, except that they’re just accessing the
+local city net.&lt;/p&gt;
+
+&lt;p&gt;Hackers are still called netrunners, and they still use cyberdecks. The servers
+they hack are named Architectures, and can represent any device complex enough
+to be the target of a netrun, not just mainframes. Due to the even stronger
+“parallel dimension” metaphor here, you can only hack an Architecture if you’re
+within about six meters of one of its physical access points. Netrunners can no
+longer work from home. Devices not complex enough to warrant an Architecture
+(including Agents) can be tampered with using electronics skills.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;Hackers are still named netrunners. To do their job they need the Interface
+skill, interface plugs, “Virtuality” glasses and a cyberdeck. Cyberdecks in RED
+look like their portable ancestors in 2020 and come in three generic tiers that
+differ by the number of Option Slots they have (5, 6 or 7). Each Option Slot
+lets you install a program or hardware expansion in your deck. Decks are not
+uniquely expensive - their prices are in line with other types of specialist
+gear in the book. Once you earn more money you can perhaps buy an armored
+jumpsuit with a deck compartment that gives it an extra slot.&lt;/p&gt;
+
+&lt;p&gt;Most actions you can perform in a netrun can be done with the Interface skill
+alone, including a basic attack. The roll is almost always 1d10 + Interface
+against a difficulty set by the Architecture you’re hacking. Programs come in
+three categories: “boosters” that can give bonuses to some of those basic rolls,
+“attackers” that act as better weapons than your basic attack, and “defenders”
+that reduce or negate damage while they’re active.&lt;/p&gt;
+
+&lt;p&gt;Netrunning happens faster than physical combat. Characters only get one “meat
+action” per turn, but netrunners get a number of “Net actions” proportional to
+their Interface skill. Some net tasks require meat actions, but you can’t use
+net actions to do physical tasks. Programs that need to be actively used take a
+net action to activate and can only be used once per turn, so there’s an
+advantage to having multiple copies of the same attack program
+loaded. Controlling a physical device takes a Net action, but each device can
+only perform one action per turn as well.&lt;/p&gt;
+
+&lt;p&gt;Architectures are relatively abstract and modeled as tables. Each row in the
+table is a level in the architecture, and it contains one thing. That thing
+could be a file, a controllable device, or a security program. Netrunners start
+at level 1 and can move down one level at a time. They don’t know what’s in a
+level until they get there for the first time, and possibly pass some tests to
+analyze the thing they find. If it’s a security program, it will prevent them
+from descending further until dealt with. The stuff they want to steal or
+sabotage tends to be in the middle or lower levels of an architecture, protected
+by a few security layers. They can move through already-explored layers freely.&lt;/p&gt;
+
+&lt;p&gt;Security programs range from password barriers to Black Ice, which is very
+dangerous and can move through the architecture to chase a netrunner. It’s
+pretty much a monster that you need to fight or die trying. Netrunners can also
+run Black Ice from their decks, and order them to kill other netrunners or
+programs in combat, but they take up 2 slots instead of 1. Black Ice tends to
+attack right away - forget stealth for the most part.&lt;/p&gt;
+
+&lt;p&gt;Another type of security program is the Demon, whose main purpose is to control
+physical devices like turrets, drones, and traps to fight intruders. They’re
+relatively weak at Net combat, but it’s hard to find and destroy a Demon that’s
+shooting at your meat with a pair of heavy machine gun turrets…&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;I don’t think there’s a ready-made sample netrunner in the book, but the book
+does include all we need to generate a quick-and-dirty one so let’s do that. I
+think I do have some supplements that might have suitable ready-made
+Architectures that fit our purposes, but if they do not then we can generate
+one.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-netrunner-g0blin-jr-daughter-of-g0blin&quot;&gt;Our Netrunner: G0blin Jr., daughter of G0blin.&lt;/h3&gt;
+
+&lt;p&gt;Proudly carrying on the family tradition. Lazy but lucky.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INT&lt;/strong&gt; 7  &lt;strong&gt;REF&lt;/strong&gt; 6  &lt;strong&gt;DEX&lt;/strong&gt; 7  &lt;strong&gt;TECH&lt;/strong&gt; 7 &lt;strong&gt;COOL&lt;/strong&gt; 6
+&lt;strong&gt;WILL&lt;/strong&gt; 3 &lt;strong&gt;LUCK&lt;/strong&gt; 6 &lt;strong&gt;MOVE&lt;/strong&gt; 5 &lt;strong&gt;BODY&lt;/strong&gt; 6 &lt;strong&gt;EMP&lt;/strong&gt; 5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt;: 35
+&lt;strong&gt;Death Save&lt;/strong&gt;: 6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cyberware Capacity&lt;/strong&gt;: 14/60&lt;/p&gt;
+
+&lt;h4 id=&quot;skills&quot;&gt;Skills&lt;/h4&gt;
+
+&lt;p&gt;Interface 4. Other stuff from the Netrunner Street Rat Pack as it becomes
+relevant.&lt;/p&gt;
+
+&lt;h3 id=&quot;cyberware&quot;&gt;Cyberware&lt;/h3&gt;
+
+&lt;p&gt;Neural Link, Interface Plugs, Shift Tacts.&lt;/p&gt;
+
+&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Very Heavy Pistol with 30 rounds&lt;/li&gt;
+  &lt;li&gt;whole-body Light Armorhack (SP 11)&lt;/li&gt;
+  &lt;li&gt;Agent&lt;/li&gt;
+  &lt;li&gt;Cyberdeck (7 slots)&lt;/li&gt;
+  &lt;li&gt;Virtuality Goggles&lt;/li&gt;
+  &lt;li&gt;Programs: Armor, Sword x 2, Worm, Eraser.&lt;/li&gt;
+  &lt;li&gt;Clothes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;our-target-systems&quot;&gt;Our Target Systems&lt;/h3&gt;
+
+&lt;p&gt;As for our target system, I could have made a single architecture for
+everything, and the examples I have here kinda point in that direction, but I
+really feel like this would benefit from the same approach as Shadowrun 4th
+Edition.&lt;/p&gt;
+
+&lt;p&gt;So we’ll have three Architectures here. One for the office network, one for the
+security server, and one for the secret server. All individually small, but the
+latter two with somewhat elevated security for their size. I’ll use the random
+generator to help me with this.&lt;/p&gt;
+
+&lt;p&gt;Office network is Basic and has 7 levels, Security server is Standard and has 9
+with a branch, the secret server is Standard and has 6.&lt;/p&gt;
+
+&lt;h4 id=&quot;office-network&quot;&gt;Office Network:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Password DV 6&lt;/li&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Asp&lt;/li&gt;
+  &lt;li&gt;File (DV6) - Worthless&lt;/li&gt;
+  &lt;li&gt;Password DV 6&lt;/li&gt;
+  &lt;li&gt;Wisp&lt;/li&gt;
+  &lt;li&gt;File (DV8) -&amp;gt; Accounts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;security-server&quot;&gt;Security Server&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Password DV 8&lt;/li&gt;
+  &lt;li&gt;File DV8 - logs, worthless&lt;/li&gt;
+  &lt;li&gt;Hellhound, Killer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Branch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Control DV8 - Camera&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Control DV8 - Alarm Sensors, as Camera.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Branch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Skunk&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Asp&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Control DV8 - Door&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Password DV8&lt;/li&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Wisp&lt;/li&gt;
+  &lt;li&gt;Hellhound&lt;/li&gt;
+  &lt;li&gt;File DV10 - The Evidence&lt;/li&gt;
+  &lt;li&gt;Killer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We’ll soon see how Junior manages these systems. I relied more on the random
+generator here than on my own judgment, it might be that this ends up being too
+hard.&lt;/p&gt;
+
+&lt;p&gt;My predictions are: since there is a lot of black ice in there, we’ll see plenty
+of combat, but I also expect this to go fast. Either Junior kills everything and
+completes the objective, or she dies fairly early while hacking the security
+server. Probably while fighting the Killer/Hellhound duo.&lt;/p&gt;
+
+&lt;p&gt;If the worst happens, I’ll adjust the difficulty down a bit and try for a
+successful run, timing how long that took.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
@@ -1739,273 +2000,6 @@ casting one of this edition’s many instant fight-enders. &lt;a href=&quot;#fn
         <category>pathfinder</category>
         
         <category>dnd</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Underwater Dungeon Fantasy</title>
-        <description>&lt;figure class=&quot;left&quot;&gt;
-  &lt;img src=&quot;/octopus-carnival/assets/geoffrey-ernault-skeletonpirateslq.jpg&quot;/&gt;
-  &lt;figcaption&gt;&lt;a
-  href=&quot;https://www.artstation.com/artwork/3dvodY&quot;&gt;Illustration by Geoffrey Ernault&lt;/a&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Underwater adventuring is one of those things that older editions of Dungeons
-and Dragons seemed to like more than their players did. Lots of monster books
-included a selection of monsters that could only be encountered under the sea,
-but every bit of commentary I read on those was always about how no one ever
-bothered to include submarine delves in their campaigns. If a sea monster
-couldn’t go up to the surface to attack a ship or climb on its deck, it was
-usually ignored by GMs.&lt;/p&gt;
-
-&lt;p&gt;The Dungeon Fantasy lines learned this lesson well, and don’t spend a lot of ink
-on support for underwater adventures. This was a big problem for me when I was
-GMing Hell’s Rebels to a group of friends. This particular adventure path
-follows the old tradition of making PCs spend a chunk of levels 5-8
-underwater. When I got to that part in my GURPS conversion, I had no idea what
-to do and got a bit stressed out trying to figure this out on the spot.&lt;/p&gt;
-
-&lt;p&gt;Frantically researching rules in real time is no fun at all even when I am the
-only player, so for the benefit of my solo Hell’s Rebels game and any future
-run-throughs with actual players, I’m going to collect everything I know about
-fighting underwater in GURPS right here in this post.&lt;/p&gt;
-
-&lt;p&gt;I admit I don’t have all the officially published primary sources that discuss
-underwater adventuring. The ones I’m using are &lt;strong&gt;DF: Exploits&lt;/strong&gt; and the
-simplified rules that can be found in &lt;a href=&quot;https://dungeonfantastic.blogspot.com/2019/01/simplified-df-underwater-combat-revised.html&quot;&gt;Dungeon Fantastic&lt;/a&gt;, which &lt;em&gt;do&lt;/em&gt;
-reference the sources I don’t have.&lt;/p&gt;
-
-&lt;h2 id=&quot;underwater-fighting-for-land-lubbers&quot;&gt;Underwater Fighting For Land-Lubbers&lt;/h2&gt;
-
-&lt;p&gt;If you’re not an aquatic creature, you use these rules when fighting underwater.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Your Move is limited to your Swimming move: Basic Speed/5, minimum 1.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;All of your skills are capped at the level of your DX-based &lt;strong&gt;Swimming&lt;/strong&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Thrusting and unarmed strikes receive no penalties.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Some grappling techniques won’t work. Others work as normal. GM adjudicates.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Swinging attacks with Reach 1+ weapons are impossible. This does cover pretty
-much every weapon listed in DF: Adventurers, as even small knives have a Reach
-of “C, 1” when swung.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Shield bashes are -2 x DB to hit and do half damage. Don’t bother trying.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Blocks are impossible but you still get your shield’s DB.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Parries with Reach 1+ weapons are impossible. Parries with close-combat-only
-weapons like daggers, and unarmed parries, are allowed and suffer no
-penalties.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Dodge is possible and not penalized, but you can’t Retreat.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;No thrown ranged attacks, even from Missile spells. Special underwater ranged
-weapons exist and use specific stats.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Ranged attacks into our out of water have -4 to hit, 1/10 range, and do half
-damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;All through this, you’ll be holding your breath under Heavy Exertion (DF:
-Exploits p. 21)!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;underwater-fighting-for-fish-and-fish-people&quot;&gt;Underwater Fighting for Fish and Fish-People&lt;/h2&gt;
-
-&lt;p&gt;Water adaptation in GURPS has two main components. One is the ability to
-&lt;em&gt;breathe&lt;/em&gt; underwater. The other is the ability to &lt;em&gt;move freely&lt;/em&gt; while
-submerged.&lt;/p&gt;
-
-&lt;p&gt;In monsters, the first is handled by traits such as &lt;strong&gt;Gills&lt;/strong&gt;, some variety of
-&lt;strong&gt;Doesn’t Breathe&lt;/strong&gt;, or the ability to hold their breath for a really long time
-even in combat. A combatant with one of these traits doesn’t need to worry about
-the standard Breath Holding rules.&lt;/p&gt;
-
-&lt;p&gt;The second is handled by the &lt;strong&gt;Amphibious&lt;/strong&gt; or &lt;strong&gt;Aquatic&lt;/strong&gt; traits. If you have
-one of these traits, you get a lot of advantages over land-lubbers.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Your get to use your full Move and skills, not limited by your Swimming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You are exempt from most skill penalties from being underwater and from many
-Swimming tests.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You can Retreat!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Your other attacks and defenses are limited as for land-lubbers. This is
-important for weapon users, not so much for aquatic beasts.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;from-delver-to-diver&quot;&gt;From Delver to Diver&lt;/h2&gt;
-
-&lt;p&gt;If you’re a typical delver belonging to one of DFRPG’s standard ancestries, then
-you fall squarely in the “land-lubber” category, and you have to solve a couple
-of problems before you can dive in.&lt;/p&gt;
-
-&lt;h3 id=&quot;breathing&quot;&gt;Breathing&lt;/h3&gt;
-
-&lt;p&gt;If you don’t want your underwater life expectancy to be measured in seconds, you
-need to find a way to breathe in there. In most typical DF settings, that means
-magic.&lt;/p&gt;
-
-&lt;h4 id=&quot;spells&quot;&gt;Spells&lt;/h4&gt;
-
-&lt;p&gt;The DFRPG boxed set includes two main drowning-prevention measures: the
-&lt;strong&gt;Breathe Water&lt;/strong&gt; and &lt;strong&gt;Hold Breath&lt;/strong&gt; spells. They have different
-prerequisite chains but work the same, letting you ignore that part of the rules
-for as long as they last. Both have a base duration of 1 minute and an energy
-cost of 4 to cast and 2 to maintain, reduced by skill as normal. Hold Breath
-is a little better because it also let you survive in non-watery environments.&lt;/p&gt;
-
-&lt;p&gt;Their main disadvantage is that their duration is relatively short. Unless the
-PC casting these spells has a skill of 20 or more with them, the affected
-character is only going to be able to remain underwater for a few minutes at a
-time. That’s nowhere near enough for a full delve, and it’s an even shorter time
-if you need to maintain this spell for multiple PCs. If the caster &lt;em&gt;does&lt;/em&gt; have
-skill 20 then things get a lot easier, but that costs a lot of points.&lt;/p&gt;
-
-&lt;h4 id=&quot;items&quot;&gt;Items&lt;/h4&gt;
-
-&lt;p&gt;If we expand our scope a little to look at DF supplements, then we see that
-Dungeon Fantasy Magic Items 1 has an alchemical &lt;strong&gt;Water-Breathing Amulet&lt;/strong&gt;. You
-can breathe underwater as long as you wear it… but it costs an amazing
-$23.400. Outfitting a party of 5 with that is a very expensive proposition,
-unless you find them as treasure.&lt;/p&gt;
-
-&lt;p&gt;A reusable casting item like a wand or ring with the Breathe Water spell would
-cost at least $8200. This basic version would be powered by the user, so it has
-the same duration limits as the spell. Doubling the price would halve the energy
-cost, which is better but not perfect.&lt;/p&gt;
-
-&lt;p&gt;However, if we expand our scope even further and break out of the DFRPG bubble,
-we can go to GURPS Magic and find an alchemical &lt;strong&gt;water-breathing elixir&lt;/strong&gt; that
-costs $600 in a setting with common magic and gives you the ability to breathe
-water for 1d hours! Even a minimal roll gives you a nice amount of time to
-explore, and per that book’s rules you’ll know the duration is about to expire 5
-minutes in advance, which is better than nothing.&lt;/p&gt;
-
-&lt;p&gt;That elixir is clearly the best approach for campaigns where underwater delves
-are a sometimes thing. They’re a little less convenient than the amulet, but the
-price can’t be beat. I’m definitely including this in my campaign.&lt;/p&gt;
-
-&lt;h3 id=&quot;moving&quot;&gt;Moving&lt;/h3&gt;
-
-&lt;p&gt;Unless your delvers are willing to spend the time and points to become
-better-than-Olympic swimmers, solving their underwater movement issues also
-means resorting to magic.&lt;/p&gt;
-
-&lt;h4 id=&quot;spells-1&quot;&gt;Spells&lt;/h4&gt;
-
-&lt;p&gt;DF: Spells gives us two options here: &lt;strong&gt;Swim&lt;/strong&gt; and &lt;strong&gt;Ethereal Body&lt;/strong&gt;. The first
-makes the subject effectively Amphibious, the second makes them intangible and
-thus able to ignore all that water. GURPS Magic additionally gives us &lt;strong&gt;Walk
-Through Water&lt;/strong&gt;, which makes the user intangible only to water and ice. This
-means you don’t enjoy 3D movement while underwater… but your maneuvers in
-combat are unrestricted! I think I can kinda see why this one didn’t make the
-cut to the DFRPG.&lt;/p&gt;
-
-&lt;p&gt;As with water-breathing, our biggest limitation here are spell maintenance
-costs, which limit our unimpeded movement to a few minutes at most. These are
-also harder to completely eliminate, since Ethereal Body costs 4 energy per
-minute to maintain and the others cost 3. Still, a caster could conceivably save
-these for when a fight is about to start, and only cast it on the group’s
-physical fighters.&lt;/p&gt;
-
-&lt;h4 id=&quot;magic-items&quot;&gt;Magic Items&lt;/h4&gt;
-
-&lt;p&gt;I couldn’t find an always-on item with a Swim enchantment in the books I own. A
-basic casting item for Swim will cost at least $20500, almost as expensive as
-the always-on water breathing amulet. Lowering its casting/maintenance cost from
-6/3 to 3/2 doubles the price, lowering it to 2/1 quadruples it.&lt;/p&gt;
-
-&lt;p&gt;We might built this as a charged item instead, with each charge giving you 2
-minutes of Swim time and costing 9 energy. A non-rechargeable item would cost
-$1350 per charge, a rechargeable one $2700 (plus $180 per charge to reload).&lt;/p&gt;
-
-&lt;p&gt;If Walk Through Water is allowed in the campaign, an item with the same duration
-per charge would be a tad cheaper: $910/$1820/$140.&lt;/p&gt;
-
-&lt;p&gt;In any of these cases, the item is best used sparingly, in the same manner as
-the spell. You activate it when it’s time for a big fight or a crucial skill
-test, and rely on your Swimming lessons the rest of the time.&lt;/p&gt;
-
-&lt;h2 id=&quot;optimal-strategies&quot;&gt;Optimal Strategies&lt;/h2&gt;
-
-&lt;p&gt;Given all of the above, I think we can pretty easily arrive at an “optimal”
-strategy for underwater expeditions.&lt;/p&gt;
-
-&lt;p&gt;If your group is about to embark in a &lt;strong&gt;campaign centered around underwater
-delving&lt;/strong&gt;, your PC party should include a caster who can use Breathe Water at
-Skill-20, and also someone who can use Swim at Skill-15. A druid or wizard could
-do both, a cleric can use Breathe Water and leave Swim to someone else. This is
-a hefty investment, but worth it for the amount of use they’ll get out of
-it. Every PC, caster or not, should also consider investing points into the
-Swimming skill, because it can help conserve spell energy and is pretty useful
-in itself. You might want to give them extra points for these purposes depending
-on your desired power level.&lt;/p&gt;
-
-&lt;p&gt;An alternative here is for you to allow players to make PCs from ancestries that
-have an easy time underwater. Both Sea Elves from GURPS DF 3 and &lt;a href=&quot;/octopus-carnival/2018/10/10/elder-scrolls-others.html&quot;&gt;Argonians&lt;/a&gt;
-from this blog have Gills and are Amphibious. &lt;a href=&quot;/octopus-carnival/2017/09/17/dfrpg-warforged.html&quot;&gt;Warforged&lt;/a&gt; are a bit less
-nimble but don’t need to breathe at all. Each delver who is a natural-born diver
-will make the rest of the party’s life that much easier. For those who aren’t,
-Water-Breathing Amulets make excellent treasure.&lt;/p&gt;
-
-&lt;p&gt;If you’re planning a standard campaign that features a &lt;strong&gt;one-off underwater
-dungeon&lt;/strong&gt;, Water-Breathing Elixirs are the way to go, possibly supplemented by
-one or two rechargeable Wands of Swimming. The elixirs should definitely be
-easily available in a nearby town (perhaps it’s a coastal fishing village?). The
-wands might be for sale as well, or might be found as treasure either before or
-during the delve. Proper safety procedure is to carry two elixirs per
-PC, saving the second one for the return trip if the first one wears off.&lt;/p&gt;
-
-&lt;p&gt;If you only have &lt;strong&gt;isolated underwater encounters&lt;/strong&gt;, we’re back to learned
-spells, but they don’t need to have high levels. The submerged environment
-becomes an additional challenge, but no one is going to spend too long inside
-it.&lt;/p&gt;
-
-&lt;p&gt;Hell’s Rebels in particular fits the second category, so I’ll be using that
-solution.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html</guid>
-        
-        <category>dnd</category>
-        
-        <category>pathfinder</category>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>gm-hat</category>
         
         
       </item>

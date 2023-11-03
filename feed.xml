@@ -6,9 +6,270 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 Oct 2023 20:07:36 +0000</pubDate>
-    <lastBuildDate>Tue, 31 Oct 2023 20:07:36 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 20:46:21 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 20:46:21 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Cyberpunk RED</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp-red-cover.png&quot;
+        alt=&quot;The cover of Cyberpunk RED&quot;/&gt;
+   &lt;figcaption&gt;
+     I still think this cover is cool.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In this post we’ll take a look at Cyberpunk RED, the current edition of
+Cyberpunk-the-game. It’s meant to be the followup to Cyberpunk 2020, and in a
+nice bit of synchronicity it was published in 2020. It’s kind of a companion
+piece to the Cyberpunk 2077 computer game, since according to the foreword the
+two works started being made at around the same time.&lt;/p&gt;
+
+&lt;p&gt;CP RED provides what the critics of previously attempted 2020 sequels most
+wanted: more of the same. It takes the 2020 setting forward to 2045 by
+essentially doing a copy-and-paste on the timeline to extend it, so you have a
+&lt;em&gt;new and improved&lt;/em&gt; ecological collapse, a &lt;em&gt;new and improved&lt;/em&gt; corp war that
+leaves plenty of cybered-up veterans, and so on. Of course, it’s not an exact
+copy and a lot of things are different, but the tone is almost exactly the same
+as 2020.&lt;/p&gt;
+
+&lt;p&gt;One of the things that underwent a big change was the Net, which we’ll look at
+now.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;The Net of Cyberpunk RED contains about the same amount of space magic as its
+2020 ancestor, but it looks different. Somewhere around 2023 or so, iconic
+netrunner Rache Bartmoss releases a bunch of data-destroying rabid AIs into the
+old Net. They do so much damage that the authorities who oversee the old telecom
+grid decide to shut it down entirely, in the process undoing the spell that made
+the use of virtual reality possible.&lt;/p&gt;
+
+&lt;p&gt;Nowadays there’s still the notion that the Net is a parallel dimension, but it’s
+a dangerous and fractured one. Each city has their own small Net realm, isolated
+from the world by firewalls, and in between you have the wild and wooly domains
+of rogue AIs and demon programs. Why do we need firewalls to keep them at bay if
+there are no physical lines connecting them to us any more? Shut up, that’s
+why. Any similarity between this and Shadowrun’s deep astral planes is probably
+a coincidence, which is kind of a waste in my opinion.&lt;/p&gt;
+
+&lt;p&gt;Inside the city nets, someone came up with a new spell in 2035 that once again
+let people see the virtual aspect of the Net in a simplified form. Now you can
+put on a set of “Virtuality” goggles and see the parallel dimension of the Net
+overlaid over the physical world, with every connected object having a
+corresponding icon. The main difference here is that more things have icons, and
+you can no longer leave your body behind.&lt;/p&gt;
+
+&lt;p&gt;Standard users mostly use the city nets through devices called Agents, which are
+a bit like slightly smarter smartphones. They can use these for pretty much
+everything we’d use the Internet for, except that they’re just accessing the
+local city net.&lt;/p&gt;
+
+&lt;p&gt;Hackers are still called netrunners, and they still use cyberdecks. The servers
+they hack are named Architectures, and can represent any device complex enough
+to be the target of a netrun, not just mainframes. Due to the even stronger
+“parallel dimension” metaphor here, you can only hack an Architecture if you’re
+within about six meters of one of its physical access points. Netrunners can no
+longer work from home. Devices not complex enough to warrant an Architecture
+(including Agents) can be tampered with using electronics skills.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;Hackers are still named netrunners. To do their job they need the Interface
+skill, interface plugs, “Virtuality” glasses and a cyberdeck. Cyberdecks in RED
+look like their portable ancestors in 2020 and come in three generic tiers that
+differ by the number of Option Slots they have (5, 6 or 7). Each Option Slot
+lets you install a program or hardware expansion in your deck. Decks are not
+uniquely expensive - their prices are in line with other types of specialist
+gear in the book. Once you earn more money you can perhaps buy an armored
+jumpsuit with a deck compartment that gives it an extra slot.&lt;/p&gt;
+
+&lt;p&gt;Most actions you can perform in a netrun can be done with the Interface skill
+alone, including a basic attack. The roll is almost always 1d10 + Interface
+against a difficulty set by the Architecture you’re hacking. Programs come in
+three categories: “boosters” that can give bonuses to some of those basic rolls,
+“attackers” that act as better weapons than your basic attack, and “defenders”
+that reduce or negate damage while they’re active.&lt;/p&gt;
+
+&lt;p&gt;Netrunning happens faster than physical combat. Characters only get one “meat
+action” per turn, but netrunners get a number of “Net actions” proportional to
+their Interface skill. Some net tasks require meat actions, but you can’t use
+net actions to do physical tasks. Programs that need to be actively used take a
+net action to activate and can only be used once per turn, so there’s an
+advantage to having multiple copies of the same attack program
+loaded. Controlling a physical device takes a Net action, but each device can
+only perform one action per turn as well.&lt;/p&gt;
+
+&lt;p&gt;Architectures are relatively abstract and modeled as tables. Each row in the
+table is a level in the architecture, and it contains one thing. That thing
+could be a file, a controllable device, or a security program. Netrunners start
+at level 1 and can move down one level at a time. They don’t know what’s in a
+level until they get there for the first time, and possibly pass some tests to
+analyze the thing they find. If it’s a security program, it will prevent them
+from descending further until dealt with. The stuff they want to steal or
+sabotage tends to be in the middle or lower levels of an architecture, protected
+by a few security layers. They can move through already-explored layers freely.&lt;/p&gt;
+
+&lt;p&gt;Security programs range from password barriers to Black Ice, which is very
+dangerous and can move through the architecture to chase a netrunner. It’s
+pretty much a monster that you need to fight or die trying. Netrunners can also
+run Black Ice from their decks, and order them to kill other netrunners or
+programs in combat, but they take up 2 slots instead of 1. Black Ice tends to
+attack right away - forget stealth for the most part.&lt;/p&gt;
+
+&lt;p&gt;Another type of security program is the Demon, whose main purpose is to control
+physical devices like turrets, drones, and traps to fight intruders. They’re
+relatively weak at Net combat, but it’s hard to find and destroy a Demon that’s
+shooting at your meat with a pair of heavy machine gun turrets…&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;I don’t think there’s a ready-made sample netrunner in the book, but the book
+does include all we need to generate a quick-and-dirty one so let’s do that. I
+think I do have some supplements that might have suitable ready-made
+Architectures that fit our purposes, but if they do not then we can generate
+one.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-netrunner-g0blin-jr-daughter-of-g0blin&quot;&gt;Our Netrunner: G0blin Jr., daughter of G0blin.&lt;/h3&gt;
+
+&lt;p&gt;Proudly carrying on the family tradition. Lazy but lucky.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;INT&lt;/strong&gt; 7  &lt;strong&gt;REF&lt;/strong&gt; 6  &lt;strong&gt;DEX&lt;/strong&gt; 7  &lt;strong&gt;TECH&lt;/strong&gt; 7 &lt;strong&gt;COOL&lt;/strong&gt; 6
+&lt;strong&gt;WILL&lt;/strong&gt; 3 &lt;strong&gt;LUCK&lt;/strong&gt; 6 &lt;strong&gt;MOVE&lt;/strong&gt; 5 &lt;strong&gt;BODY&lt;/strong&gt; 6 &lt;strong&gt;EMP&lt;/strong&gt; 5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt;: 35
+&lt;strong&gt;Death Save&lt;/strong&gt;: 6&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cyberware Capacity&lt;/strong&gt;: 14/60&lt;/p&gt;
+
+&lt;h4 id=&quot;skills&quot;&gt;Skills&lt;/h4&gt;
+
+&lt;p&gt;Interface 4. Other stuff from the Netrunner Street Rat Pack as it becomes
+relevant.&lt;/p&gt;
+
+&lt;h3 id=&quot;cyberware&quot;&gt;Cyberware&lt;/h3&gt;
+
+&lt;p&gt;Neural Link, Interface Plugs, Shift Tacts.&lt;/p&gt;
+
+&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Very Heavy Pistol with 30 rounds&lt;/li&gt;
+  &lt;li&gt;whole-body Light Armorhack (SP 11)&lt;/li&gt;
+  &lt;li&gt;Agent&lt;/li&gt;
+  &lt;li&gt;Cyberdeck (7 slots)&lt;/li&gt;
+  &lt;li&gt;Virtuality Goggles&lt;/li&gt;
+  &lt;li&gt;Programs: Armor, Sword x 2, Worm, Eraser.&lt;/li&gt;
+  &lt;li&gt;Clothes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;our-target-systems&quot;&gt;Our Target Systems&lt;/h3&gt;
+
+&lt;p&gt;As for our target system, I could have made a single architecture for
+everything, and the examples I have here kinda point in that direction, but I
+really feel like this would benefit from the same approach as Shadowrun 4th
+Edition.&lt;/p&gt;
+
+&lt;p&gt;So we’ll have three Architectures here. One for the office network, one for the
+security server, and one for the secret server. All individually small, but the
+latter two with somewhat elevated security for their size. I’ll use the random
+generator to help me with this.&lt;/p&gt;
+
+&lt;p&gt;Office network is Basic and has 7 levels, Security server is Standard and has 9
+with a branch, the secret server is Standard and has 6.&lt;/p&gt;
+
+&lt;h4 id=&quot;office-network&quot;&gt;Office Network:&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Password DV 6&lt;/li&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Asp&lt;/li&gt;
+  &lt;li&gt;File (DV6) - Worthless&lt;/li&gt;
+  &lt;li&gt;Password DV 6&lt;/li&gt;
+  &lt;li&gt;Wisp&lt;/li&gt;
+  &lt;li&gt;File (DV8) -&amp;gt; Accounts&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;security-server&quot;&gt;Security Server&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Password DV 8&lt;/li&gt;
+  &lt;li&gt;File DV8 - logs, worthless&lt;/li&gt;
+  &lt;li&gt;Hellhound, Killer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Left Branch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Control DV8 - Camera&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Control DV8 - Alarm Sensors, as Camera.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Right Branch&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Skunk&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Asp&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Control DV8 - Door&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h4&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Password DV8&lt;/li&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Wisp&lt;/li&gt;
+  &lt;li&gt;Hellhound&lt;/li&gt;
+  &lt;li&gt;File DV10 - The Evidence&lt;/li&gt;
+  &lt;li&gt;Killer&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We’ll soon see how Junior manages these systems. I relied more on the random
+generator here than on my own judgment, it might be that this ends up being too
+hard.&lt;/p&gt;
+
+&lt;p&gt;My predictions are: since there is a lot of black ice in there, we’ll see plenty
+of combat, but I also expect this to go fast. Either Junior kills everything and
+completes the objective, or she dies fairly early while hacking the security
+server. Probably while fighting the Killer/Hellhound duo.&lt;/p&gt;
+
+&lt;p&gt;If the worst happens, I’ll adjust the difficulty down a bit and try for a
+successful run, timing how long that took.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
@@ -1819,186 +2080,6 @@ about it, though.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>neverwinter</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Gauntlgrym, Part 02</title>
-        <description>&lt;p&gt;Here we cover the lower strata of Gauntlgrym, where the place’s greatest dangers
-live.&lt;/p&gt;
-
-&lt;h2 id=&quot;duergar-mines&quot;&gt;Duergar Mines&lt;/h2&gt;
-
-&lt;p&gt;The duergar of Gauntlgrym live in this sector, which lies deeper than most of
-Gauntlgrym. The book says they’ve been here for “a few generations”, which is a
-lot longer than I thought before even if these are human generations. Their
-situation, however, still matches: they’ve taken over old mining tunnels and dug
-new ones under the direction of their leader Kholzourl.&lt;/p&gt;
-
-&lt;p&gt;They’ve unearthed several veins of useful metal, including iron, silver, mithral
-and hellthorn (the one that likes infernal enchantments). Their work is
-ceaseless, grueling, and mostly done by slaves, which they replenish by
-capturing any non-duergar they lay eyes on down here. Tunnels built by the
-original dwarves show their characteristic sloped walls and tend to be both safe
-and clean. Duergar tunnels are slapdash and hazardous, sometimes nearly vertical
-due to their leader’s need to go ever deeper. Some of these shafts are so deep
-that they contain semi-permanent work camps where duergar and enslaved workers
-live instead of going back to the city at the end of every day.&lt;/p&gt;
-
-&lt;p&gt;The duergar don’t care about the big mithral gates. They got here from below,
-via tunnels that link their camps to the deep Underdark. Some of these tunnels
-have since been taken over by plaguechanged mind flayers, which are as much a
-cause of injury and death as the work itself.&lt;/p&gt;
-
-&lt;p&gt;Somewhere in the mines is also a temple to Asmodeus built from desecrated
-material taken from the Iron Tabernacle, which Kholzourl uses to commune with
-his god and summon the occasional devil.&lt;/p&gt;
-
-&lt;p&gt;And why exactly are the duergar so intent on digging ever deeper? Only Kholzourl
-and the GM really now. The book gives us several possible reasons - GMs can
-either pick one or use them as inspiration for a bespoke sinister plot.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Hellthorn comes from a meteorite that fell here in primeval times, and the
-main body of the thing contains far more power than the mere shards that have
-been found so far. Maybe it contains an alien diabolic entity, millions of
-years old, waiting for the moment when it is found and awakened.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The duergar want to drain the magma from Maegera’s resting place and transport
-her slumbering form to some place where she can wake up and destroy an enemy
-of Asmodeus.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The mining is just a cover and their actual goal is to observe the mind
-flayers and track down their aboleth masters. The duergar suspect they want to
-open a permanent portal to the Far Realm and want to hijack the procedure so
-the portal leads to Hell instead.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Or maybe the interaction of all the different types of bad magic that bathe
-this region (infernal, aberrant, necromantic, oh my!) has created something
-terrible underground that they wish to claim for themselves.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;the-fiery-pit&quot;&gt;The Fiery Pit&lt;/h2&gt;
-
-&lt;p&gt;The lowest halls of Gauntlgrym are occupied by this enormous lake of magma, at
-the center of which spins a white-hot whirlpool that marks Maegera’s resting
-place.&lt;/p&gt;
-
-&lt;p&gt;The prison devised by the ancient mages if Illusk used bound water elementals
-fed by a continuous stream of sea water pumped here by magical means. The system
-could only be turned off by a true heir of Delzoun. The cataclysm happened when
-Valindra found one to pull the lever, causing Maegera to nearly awaken. Drizzt
-and his buddies prevented a full awakening back then, but the partial one was
-still enough to ruin Neverwinter.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately one of the channels had been destroyed, and so was not reactivated
-when the rest of them were. This caused the binding to become imperfect and to
-slowly fade over time. Now Maegera is dangerously close to another awakening.&lt;/p&gt;
-
-&lt;p&gt;Maegera is meant to be used as a looming threat - the bad guys want to wake her,
-the PCs want to stop that from happening. PCs could fix the broken arcane pump
-by using the notes found in the Waterclock Crypt in Neverwinter, which would
-make the whole thing stable once more.&lt;/p&gt;
-
-&lt;p&gt;Unless of course the Heir of Delzoun PC is foolish enough to pull the “off”
-switch again, causing another cataclysm. Then the whole Sword Coast is due for a
-TPK.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-great-forge&quot;&gt;The Great Forge&lt;/h2&gt;
-
-&lt;p&gt;In addition to the water elemental-based restraints, the structure around
-Maegera also contains a complex network of pipes and wires made from all sorts
-of enchanted and rune-carved metal, from copper to adamantine. These act as
-conduits for the primordial’s power, which was siphoned to this sector of the
-city.&lt;/p&gt;
-
-&lt;p&gt;The heat arrived at a great adamantine pyramid known as the Burning Heart, which
-collected it and distributed it to the various forges and manufactories in the
-sector. This heat could melt through any metal in short order, making it
-extremely easy to shape and ensuring the resulting products would carry a little
-of Maegera’s power with them.&lt;/p&gt;
-
-&lt;p&gt;PCs investigating the Forge can find remains of an ancient battle here, and will
-find with the appropriate skill tests that the bones of the invading force
-belong to legion devils.&lt;/p&gt;
-
-&lt;p&gt;The Heart itself can also be investigated by characters competent in
-Arcana. Beating a DC of 11 reveals the obvious (lots of fire magic!); beating a
-16 reveals this fire magic is being moderated by water magic; and beating a 23
-reveals that the energy is being drained by a third party (the aboleths, which
-use it in their research).&lt;/p&gt;
-
-&lt;p&gt;“Normal” areas of the Forge are subject to the Unearthly Heat terrain effect,
-and since Maegera is partially unbound some terrain here can display more
-overtly supernatural fire features.&lt;/p&gt;
-
-&lt;p&gt;Breaching one of the conduits from the Heart or the Forge will bathe the
-offending character in primordial fire magic, making them resistant to fire and
-better at using fire attacks, but vulnerable to and worse at using some other
-element of the GM’s choice. Also, they get a bonus to Diplomacy with elemental
-creatures and a corresponding penalty when dealing with immortal ones.&lt;/p&gt;
-
-&lt;p&gt;The character loses three healing surges when this happens, and it wasn’t clear
-to me whether they could be recovered normally. The mutations are permanent
-until cured by Remove Affliction or an equivalent power. A cure removes all
-effects - there’s no way to keep just the beneficial ones!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-deepest-depths&quot;&gt;The Deepest Depths&lt;/h2&gt;
-
-&lt;p&gt;This is the part of Gauntlgrym that connects to the Underdark. The duergar
-originally came in through here, but the place has since become very
-inhospitable even to them. Many species of aberrant creature dwell in these dark
-passages, chief among them the plaguechanged mind flayers that are giving the
-duergar trouble. Their mission is to prevent anyone from messing with Maegera,
-and thus from getting in the way of the AbSov’s remote experiment with her.&lt;/p&gt;
-
-&lt;p&gt;This means they fight the duergar, but they aren’t any less evil than their
-foes. Like most Underdark villains mind flayers are fond of slavery, and they
-keep their captives here as well.&lt;/p&gt;
-
-&lt;p&gt;This region is also where the dwarves built secure vaults to store a variety of
-horrors they found in their delves. Most are still secure, but some have been
-opened over the centuries. One of the vaults that are already open is the one
-that housed the original population of dire corbies, and which has become their
-largest nest. They keep a lot of treasure there that no other faction has
-managed to claim yet.&lt;/p&gt;
-
-&lt;p&gt;Beneath even this, you get into tunnels that aren’t part of Gauntlgrym, and
-which snake their way downwards to the Underdark. Whatever is down there is out
-of scope of the campaign. It could perhaps be an interesting segue into Paragon
-Tier when the PCs do finish it, should the group be willing.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;The areas detailed in this post have a definite “endgame” feeling. Whatever your
-reasons for coming to Gauntlgrym, if you’re here you’ll need to deal with the
-mess of adversarial factions described in this post, finish what Drizzt and
-company could not, and make sure Maegera stays asleep.&lt;/p&gt;
-
-&lt;p&gt;This would be a fitting end to a campaign centered on the Heirs of Delzoun, but
-others might go from here to the bottom of the Chasm as they follow the clues
-left by the mind flayers to their real masters.&lt;/p&gt;
-
-&lt;p&gt;Conversely, if the group doesn’t include any heirs or anyone else who’d be
-interested in the lost city, Gauntlgrym can be safely and entirely removed from
-the campaign. Just say that Maegera is in no danger of waking up, and focus on
-those elements that are relevant to your players.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/16/neverwinter-gauntlgrym-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/16/neverwinter-gauntlgrym-02.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
