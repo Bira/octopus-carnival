@@ -197,13 +197,13 @@ with a branch, the secret server is Standard and has 6.
 **Left Branch**
 
 5. Control DV8 - Camera
-6. - Control DV8 - Alarm Sensors, as Camera.
+6. Control DV8 - Alarm Sensors, as Camera.
 
 **Right Branch**
 
-5. - Skunk
-6. - Asp
-7. - Control DV8 - Door
+5. Skunk
+6. Asp
+7. Control DV8 - Door
 
 #### Secret Server
 
