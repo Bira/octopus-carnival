@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2023 20:46:21 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 20:46:21 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Nov 2023 21:06:50 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Nov 2023 21:06:50 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -203,31 +203,15 @@ with a branch, the secret server is Standard and has 6.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;Control DV8 - Camera&lt;/li&gt;
-  &lt;li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Control DV8 - Alarm Sensors, as Camera.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Control DV8 - Alarm Sensors, as Camera.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;&lt;strong&gt;Right Branch&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Skunk&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Asp&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Control DV8 - Door&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Skunk&lt;/li&gt;
+  &lt;li&gt;Asp&lt;/li&gt;
+  &lt;li&gt;Control DV8 - Door&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h4 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h4&gt;
