@@ -5,9 +5,190 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2023 21:06:50 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 21:06:50 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Nov 2023 20:41:31 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Nov 2023 20:41:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Cyberpunk RED, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp-red-cover.png&quot;
+        alt=&quot;The cover of Cyberpunk RED&quot;/&gt;
+   &lt;figcaption&gt;
+     I still think this cover is cool.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After creating &lt;a href=&quot;/octopus-carnival/2023/11/03/hackaton-cp-red.html&quot;&gt;both our netrunner and the systems she needs to hack&lt;/a&gt;, we can
+start the actual run.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
+
+&lt;p&gt;G0blin Jr. goes in with the physical team, they get past the reception, and as
+the rest of the team locks herself in the bathroom to try and hack the security
+server.&lt;/p&gt;
+
+&lt;p&gt;We are cheating a bit here, because it turns out you need to be within six
+meters &lt;em&gt;and&lt;/em&gt; within line of sight of an access point to hack the corresponding
+architecture. I don’t want to actually map the whole office out like I would in
+a real adventure, so we’re kind of assuming the wireless networks here have the
+same coverage as in the SR 4 version. They want to track where all guards and
+guests are at all times so there are security server access points in each room,
+covering the whole office.&lt;/p&gt;
+
+&lt;p&gt;G0blin Junior’s strategy is to be meticulous and defeat each piece of ice as it
+comes up, to avoid having them pile up on her. Still, even a meticulous approach
+looks like a brutal all-out-assault here.&lt;/p&gt;
+
+&lt;h3 id=&quot;security-server&quot;&gt;Security Server&lt;/h3&gt;
+
+&lt;p&gt;Junior has no problem dealing with the Skunk ice at the top layer in the first
+turn. She then uses the Pathfinder net ability to see deeper into the server and
+rolls well enough to see the whole thing, even past the Password wall. She now
+knows the exact route she must take - down the left branch to disable the alarm
+and camera, and all the way down the right branch to unlock the back door and
+plant a Virus to keep these things disabled after she logs out.&lt;/p&gt;
+
+&lt;p&gt;A quick peek at the files on level 3 sees they’re worthless, and then it’s on to
+the main event: the fight against the Hellhound/Killer pair.&lt;/p&gt;
+
+&lt;p&gt;She beats the Hellhound in the contested roll, but loses to the Killer and so
+loses a program at random: the Eraser. It’s completely destroyed. We’ll be
+generous and assume she has backed-up copies at home, but they can’t be restored
+within this run.&lt;/p&gt;
+
+&lt;p&gt;Fearing for her software more than for her brain, Junior focuses her attacks
+this first turn on the Killer, destroying it after 2 Sword attacks.&lt;/p&gt;
+
+&lt;p&gt;After that we’re in for a slugging match with the Hellhound. It attacks once per
+turn but always goes first, with Junior spending her 3 net actions per turn on
+two Sword attacks and one Zap.&lt;/p&gt;
+
+&lt;p&gt;A good roll by the Hellhound in the following turn deals only 3 damage to Junior
+(thanks to her Armor program), but also sets her on fire. She will begin taking
+2 points of damage per turn until she spends a Meat Action to deal with
+that. And she can’t afford to spend any Meat Actions now.&lt;/p&gt;
+
+&lt;p&gt;A series of bad rolls on her part mean she misses her first turn of attacks, so
+has to take more burn damage next turn. Fortunately the Hellhound fails to
+damage her, and she can finish it off then. But she needs to wait for another
+turn and 2 more burn points to be able to put out the fire: you cannot spend a
+Meat Action in a turn where you spend Net Actions and vice-versa.&lt;/p&gt;
+
+&lt;p&gt;Junior is down a program and 20% of her HP so far. Fortunately she doesn’t have
+any problem going down the Architecture’s left branch and disabling the alarm
+and camera.&lt;/p&gt;
+
+&lt;p&gt;The Skunk at the top of the right branch doesn’t give her any trouble. Turns out
+Skunks are harmless when fought alone. The Asp in the next level beats the
+initiative contest and destroys her Armor program, though it goes down to the
+usual Sword, Sword, Zap combination.&lt;/p&gt;
+
+&lt;p&gt;Junior reaches the bottom of the security server, unlocks the door, and spends 2
+Net Actions creating a Virus that will keep the security devices off after she
+logs out. She then Cloaks her efforts and jacks out.&lt;/p&gt;
+
+&lt;p&gt;Total time taken for the security server: 19 minutes.&lt;/p&gt;
+
+&lt;h3 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h3&gt;
+
+&lt;p&gt;A slightly singed G0blin Jr. follows her teammates to the records room and jacks
+into the secret server she finds there.&lt;/p&gt;
+
+&lt;p&gt;The password is a breeze to blow through, and a good Pathfinder roll lets her
+see all the way to the bottom of the server. The Skunk is easily defeated by
+turn 3 of this hack. The Wisp loses initiative and goes down before it can
+act. The Hellhound wins initiative and further burns out poor netrunner’s brain,
+leaving her with 17 remaining HP since she has no more Armor program.&lt;/p&gt;
+
+&lt;p&gt;She manages to kill it with lucky Sword strikes before it can attack again, but
+has to take 2 burn damage and spend a Meat Action extinguishing the fire. She
+successfully IDs the evidence file and copies it. She knows there’s a Killer
+further down but she’s hurt and down 2 programs, so she doesn’t risk engaging it
+in order to cover her tracks. Junior jacks out.&lt;/p&gt;
+
+&lt;p&gt;Time for this hack: 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;The team has fulfilled their mission, but unlike the hackers of every other
+game, G0blin Jr. decides discretion is the better part of valor. She’s
+half-dead, down two very important programs, and that office net might have
+another Hellhound like the two others she jacked into today (it doesn’t, but the
+doesn’t know that). Plus there’s a chance that a firefight is ongoing in the
+meat world.&lt;/p&gt;
+
+&lt;p&gt;The team leaves with the evidence, but without the money.&lt;/p&gt;
+
+&lt;p&gt;Junior deciding to give on the money and just leave is the sensible roleplaying
+choice. All netrunners are brave folks by definition, but someone who names
+herself after a goblin would probably not be &lt;em&gt;suicidally&lt;/em&gt; brave.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-if-she-was&quot;&gt;But What If She Was?&lt;/h3&gt;
+
+&lt;p&gt;What if our Goblin had decided to brave the office network in her present state,
+after all? What if she had thrown caution to the wind, messaged WITNESS ME to
+her companions, and dove in?&lt;/p&gt;
+
+&lt;p&gt;She would have succeeded in 10 minutes, but just barely. The Asp takes out both
+her Sword programs, and two max damage rolls from the Wisp leave her with a
+measly 3 HP before she could derezz it and drain the office accounts.&lt;/p&gt;
+
+&lt;p&gt;Junior is probably not making it out of the office if any sort of fight
+erupts. And if she does a good chunk of that money is going to pay for her
+hospital bills. Her teammates will probably begin calling her “Crispy” if she
+survives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Total Time Elapsed&lt;/strong&gt;: 29 minutes if she doesn’t go for the money, 39 (and a
+lot of pain) if she does.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis-and-impressions&quot;&gt;Analysis and Impressions&lt;/h2&gt;
+
+&lt;p&gt;29 minutes is well within our tolerance for a manageable amount of time, so we
+can say that CP RED’s system remains fast. It took around 12 minutes for Junior
+to disable the camera and alarm, which is about what I consider the top limit
+for the rest of the team to be kept waiting. You could cut to the physical team
+at that time and go turn by turn to keep everyone moving.&lt;/p&gt;
+
+&lt;p&gt;Disabling the door has to happen in the same hack because the system resets when
+the netrunner jacks out, but that’s an additional 7 minutes so it’s OK. The
+secret server hack takes 10.&lt;/p&gt;
+
+&lt;p&gt;Going for the “easy” office server after being beaten up by the first two does
+indeed border on the suicidal. It’s fast at 10 minutes, but not worth
+it. Cutting your losses and leaving is a perfectly rational decision.&lt;/p&gt;
+
+&lt;p&gt;Because ye &lt;em&gt;gawds&lt;/em&gt; is this system brutal.&lt;/p&gt;
+
+&lt;p&gt;Stealth is not a thing in these rules. The closest thing is the Slide ability,
+but that apparently only works to escape combat, not to avoid it. Most ICE
+threatens to either permanently destroy your programs or directly damage your
+HP, and if I understood the rules directly they get a free and automatic hit
+against you if they beat that contested initiative roll.&lt;/p&gt;
+
+&lt;p&gt;So avoiding combat is impossible, and getting out unscathed is extremely
+unlikely. I feared I made the CP 2020 data fortress too easy, and here I think I
+made things too difficult by having three decent-sized Architectures generated
+with the random system. It looks like CP RED wants a single big Architecture per
+adventure instead of a bunch of scattered smaller ones. If there are smaller
+ones, they should be &lt;em&gt;tiny&lt;/em&gt; with at most a single piece of ICE or Demon, to help
+preserve the netrunner for the main event.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Cyberpunk RED</title>
@@ -1840,150 +2021,6 @@ written down on them. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootno
         <category>gurps</category>
         
         <category>cyberpunk</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Play Hell's Rebels: Devils and other Fiends</title>
-        <description>&lt;p&gt;My recent adaptation efforts for that Hell’s Rebels campaign had me going on a
-spelunking expedition about fiend stats in D&amp;amp;D. Here’s what I found out, and
-what I intend to do about it on this GURPS adaptation.&lt;/p&gt;
-
-&lt;p&gt;For our purposes here, “fiend” refers to all of the monsters that originate from
-the “evil planes” of the D&amp;amp;D universe: demons, devils, daemons, and
-others. “Fiend” was the only general term left, so we’re using it in this post.&lt;/p&gt;
-
-&lt;h2 id=&quot;fiends-in-dd&quot;&gt;Fiends in D&amp;amp;D&lt;/h2&gt;
-
-&lt;p&gt;D&amp;amp;D’s fiend situation is one of the most egregious examples of its tendency
-towards overly-complicated taxonomies&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Every synonym becomes the name of a
-distinct type of monster with stats that differ from those of the rest.&lt;/p&gt;
-
-&lt;p&gt;The real purpose of the divide here seems to be mechanical: in most editions
-each type has a different lengthy list of weaknesses and resistances that seems
-calculated to confuse players. Things that are good against devils are bad
-against demons and vice-versa - if the PCs guess wrong, they’re in trouble. The
-specifics here change from edition to edition.&lt;/p&gt;
-
-&lt;p&gt;Lore-wise, early editions made a big deal out of the fact that devils were
-Lawful Evil and demons Chaotic Evil. Later ones tried to elaborate on it and
-find more ways to explain that the two alignments were different at a
-fundamental cosmic level. Pathfinder really doubles down on that, trying to find
-additional themes for every fiend type it presents.&lt;/p&gt;
-
-&lt;p&gt;Pathfinder 1e, which is what we’re interested in, has this configuration for the
-mechanical bits:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Demons are immune to lightning; Devils take normal damage from it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Devils are immune to fire; Most demons are merely resistant to it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They’re equally resistant to acid and cold.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They’re both immune to poison.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They’re resistant to weapon attacks unless the weapon is Good-aligned &lt;em&gt;or&lt;/em&gt;
-made from a special material. For demons, that’s cold iron; for devils,
-silver. Powerful specimens have resistance that can only be bypassed by
-weapons fulfilling both the alignment and material requirements.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This is about as complex to describe as it was in previous editions, but it’s
-actually much easier to completely bypass due to the combinatorial explosion in
-spells and magical effects available to players compared to AD&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;After the first couple of levels you can forget about the materials requirement
-entirely, because you’ll have access to Align Weapon or the Holy enchantment. By
-the time you’re fighting those stronger fiends, you’ll probably have a +3 weapon
-in hand, which also bypasses both material requirements. And as for elemental
-damage types, this is the edition that introduces sonic damage, which damages
-both demons and devils normally. It also makes it quite easy for a character to
-swap all of their spells’ damage to sonic&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;fiends-in-dungeon-fantasy&quot;&gt;Fiends In Dungeon Fantasy&lt;/h2&gt;
-
-&lt;p&gt;Dungeon Fantasy is a lot simpler. Demon is one of the big monster categories in
-the game, and all demons come from the area colloquially known as Hell. The
-specifics are left as an exercise to the GM.&lt;/p&gt;
-
-&lt;p&gt;Belonging to the Demon category makes them immune to magic that affects the
-minds of natural creatures and susceptible to magic that affects spirits in
-general or demons in particular. They don’t count as “alive” for spells that
-strictly require living targets but always count as “evil” for spells and
-abilities that affect evil creatures.&lt;/p&gt;
-
-&lt;p&gt;Most notably, they do not have any universal resistances to elemental damage or
-mundane weapons. Each demon “species”, other than the very weakest ones, does
-have additional defenses. Most take damage as normal but can only &lt;em&gt;die&lt;/em&gt; if a
-specific condition is met. They also often lack some or all of the weak points
-of natural creatures, such as blood and vital organs.&lt;/p&gt;
-
-&lt;p&gt;Gaming Ballistic’s &lt;em&gt;Nordlond Bestiary&lt;/em&gt; does include some demons that are direct
-adaptations of D&amp;amp;D fiends, but only the most powerful of them (the Balor and Pit
-Fiend equivalents) have resistances that resemble Pathfinder’s to any degree.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-will-i-do-in-hells-rebels&quot;&gt;What Will I Do in Hell’s Rebels?&lt;/h2&gt;
-
-&lt;p&gt;If I was starting this project way back in 2017, I’d probably be gearing up to
-convert every devil that appeared in Hell’s Rebels to GURPS. But since this is
-2023, I don’t have to!&lt;/p&gt;
-
-&lt;p&gt;I have &lt;em&gt;plenty&lt;/em&gt; of first- and third-party Dungeon Fantasy books now, and between
-them I have more than enough stat blocks available that I can just pick whatever
-looks closer to the original monster and use that.&lt;/p&gt;
-
-&lt;p&gt;This does mean that I’m going to end up ignoring a lot of the default D&amp;amp;D
-cosmology and lore when picking my monsters. “Demon” and “devil” are once again
-synonyms - there is no fundamental cosmic difference between them. They all come
-from the same place. Any differences, if they ever become relevant, are
-political rather than taxonomical.&lt;/p&gt;
-
-&lt;p&gt;We’re also ignoring the difference between Lawful Evil and Chaotic Evil because
-1) there is no alignment in GURPS DF and 2) it’s a bit nonsensical anyway. In
-fact, &lt;em&gt;Pathfinder itself&lt;/em&gt; is going to get rid of alignment in its upcoming
-revised second edition, which was motivated by an attempt to rid itself of all
-remaining ties to the OGL after this January’s brouhaha.&lt;/p&gt;
-
-&lt;p&gt;The game’s existing rules should suffice to determine whether something counts
-as “holy”/”good” or “unholy”/”evil” for game purposes. This is a similar
-approach to what I hear PF 2.5 is going to take.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Another famous one is incorporeal undead. Is that thing a wraith, a
-specter, a shade, or a ghost? &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;That’s assuming they want to fight fair in the first place instead of
-casting one of this edition’s many instant fight-enders. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/07/22/lphr-fiends.html</guid>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>gm-hat</category>
-        
-        <category>gurps</category>
-        
-        <category>pathfinder</category>
-        
-        <category>dnd</category>
         
         
       </item>

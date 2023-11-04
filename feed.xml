@@ -6,9 +6,190 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Nov 2023 21:06:50 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Nov 2023 21:06:50 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Nov 2023 20:41:31 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Nov 2023 20:41:31 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackaton: Cyberpunk RED, Part 2</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp-red-cover.png&quot;
+        alt=&quot;The cover of Cyberpunk RED&quot;/&gt;
+   &lt;figcaption&gt;
+     I still think this cover is cool.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;After creating &lt;a href=&quot;/octopus-carnival/2023/11/03/hackaton-cp-red.html&quot;&gt;both our netrunner and the systems she needs to hack&lt;/a&gt;, we can
+start the actual run.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
+
+&lt;p&gt;G0blin Jr. goes in with the physical team, they get past the reception, and as
+the rest of the team locks herself in the bathroom to try and hack the security
+server.&lt;/p&gt;
+
+&lt;p&gt;We are cheating a bit here, because it turns out you need to be within six
+meters &lt;em&gt;and&lt;/em&gt; within line of sight of an access point to hack the corresponding
+architecture. I don’t want to actually map the whole office out like I would in
+a real adventure, so we’re kind of assuming the wireless networks here have the
+same coverage as in the SR 4 version. They want to track where all guards and
+guests are at all times so there are security server access points in each room,
+covering the whole office.&lt;/p&gt;
+
+&lt;p&gt;G0blin Junior’s strategy is to be meticulous and defeat each piece of ice as it
+comes up, to avoid having them pile up on her. Still, even a meticulous approach
+looks like a brutal all-out-assault here.&lt;/p&gt;
+
+&lt;h3 id=&quot;security-server&quot;&gt;Security Server&lt;/h3&gt;
+
+&lt;p&gt;Junior has no problem dealing with the Skunk ice at the top layer in the first
+turn. She then uses the Pathfinder net ability to see deeper into the server and
+rolls well enough to see the whole thing, even past the Password wall. She now
+knows the exact route she must take - down the left branch to disable the alarm
+and camera, and all the way down the right branch to unlock the back door and
+plant a Virus to keep these things disabled after she logs out.&lt;/p&gt;
+
+&lt;p&gt;A quick peek at the files on level 3 sees they’re worthless, and then it’s on to
+the main event: the fight against the Hellhound/Killer pair.&lt;/p&gt;
+
+&lt;p&gt;She beats the Hellhound in the contested roll, but loses to the Killer and so
+loses a program at random: the Eraser. It’s completely destroyed. We’ll be
+generous and assume she has backed-up copies at home, but they can’t be restored
+within this run.&lt;/p&gt;
+
+&lt;p&gt;Fearing for her software more than for her brain, Junior focuses her attacks
+this first turn on the Killer, destroying it after 2 Sword attacks.&lt;/p&gt;
+
+&lt;p&gt;After that we’re in for a slugging match with the Hellhound. It attacks once per
+turn but always goes first, with Junior spending her 3 net actions per turn on
+two Sword attacks and one Zap.&lt;/p&gt;
+
+&lt;p&gt;A good roll by the Hellhound in the following turn deals only 3 damage to Junior
+(thanks to her Armor program), but also sets her on fire. She will begin taking
+2 points of damage per turn until she spends a Meat Action to deal with
+that. And she can’t afford to spend any Meat Actions now.&lt;/p&gt;
+
+&lt;p&gt;A series of bad rolls on her part mean she misses her first turn of attacks, so
+has to take more burn damage next turn. Fortunately the Hellhound fails to
+damage her, and she can finish it off then. But she needs to wait for another
+turn and 2 more burn points to be able to put out the fire: you cannot spend a
+Meat Action in a turn where you spend Net Actions and vice-versa.&lt;/p&gt;
+
+&lt;p&gt;Junior is down a program and 20% of her HP so far. Fortunately she doesn’t have
+any problem going down the Architecture’s left branch and disabling the alarm
+and camera.&lt;/p&gt;
+
+&lt;p&gt;The Skunk at the top of the right branch doesn’t give her any trouble. Turns out
+Skunks are harmless when fought alone. The Asp in the next level beats the
+initiative contest and destroys her Armor program, though it goes down to the
+usual Sword, Sword, Zap combination.&lt;/p&gt;
+
+&lt;p&gt;Junior reaches the bottom of the security server, unlocks the door, and spends 2
+Net Actions creating a Virus that will keep the security devices off after she
+logs out. She then Cloaks her efforts and jacks out.&lt;/p&gt;
+
+&lt;p&gt;Total time taken for the security server: 19 minutes.&lt;/p&gt;
+
+&lt;h3 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h3&gt;
+
+&lt;p&gt;A slightly singed G0blin Jr. follows her teammates to the records room and jacks
+into the secret server she finds there.&lt;/p&gt;
+
+&lt;p&gt;The password is a breeze to blow through, and a good Pathfinder roll lets her
+see all the way to the bottom of the server. The Skunk is easily defeated by
+turn 3 of this hack. The Wisp loses initiative and goes down before it can
+act. The Hellhound wins initiative and further burns out poor netrunner’s brain,
+leaving her with 17 remaining HP since she has no more Armor program.&lt;/p&gt;
+
+&lt;p&gt;She manages to kill it with lucky Sword strikes before it can attack again, but
+has to take 2 burn damage and spend a Meat Action extinguishing the fire. She
+successfully IDs the evidence file and copies it. She knows there’s a Killer
+further down but she’s hurt and down 2 programs, so she doesn’t risk engaging it
+in order to cover her tracks. Junior jacks out.&lt;/p&gt;
+
+&lt;p&gt;Time for this hack: 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;The team has fulfilled their mission, but unlike the hackers of every other
+game, G0blin Jr. decides discretion is the better part of valor. She’s
+half-dead, down two very important programs, and that office net might have
+another Hellhound like the two others she jacked into today (it doesn’t, but the
+doesn’t know that). Plus there’s a chance that a firefight is ongoing in the
+meat world.&lt;/p&gt;
+
+&lt;p&gt;The team leaves with the evidence, but without the money.&lt;/p&gt;
+
+&lt;p&gt;Junior deciding to give on the money and just leave is the sensible roleplaying
+choice. All netrunners are brave folks by definition, but someone who names
+herself after a goblin would probably not be &lt;em&gt;suicidally&lt;/em&gt; brave.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-what-if-she-was&quot;&gt;But What If She Was?&lt;/h3&gt;
+
+&lt;p&gt;What if our Goblin had decided to brave the office network in her present state,
+after all? What if she had thrown caution to the wind, messaged WITNESS ME to
+her companions, and dove in?&lt;/p&gt;
+
+&lt;p&gt;She would have succeeded in 10 minutes, but just barely. The Asp takes out both
+her Sword programs, and two max damage rolls from the Wisp leave her with a
+measly 3 HP before she could derezz it and drain the office accounts.&lt;/p&gt;
+
+&lt;p&gt;Junior is probably not making it out of the office if any sort of fight
+erupts. And if she does a good chunk of that money is going to pay for her
+hospital bills. Her teammates will probably begin calling her “Crispy” if she
+survives.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Total Time Elapsed&lt;/strong&gt;: 29 minutes if she doesn’t go for the money, 39 (and a
+lot of pain) if she does.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis-and-impressions&quot;&gt;Analysis and Impressions&lt;/h2&gt;
+
+&lt;p&gt;29 minutes is well within our tolerance for a manageable amount of time, so we
+can say that CP RED’s system remains fast. It took around 12 minutes for Junior
+to disable the camera and alarm, which is about what I consider the top limit
+for the rest of the team to be kept waiting. You could cut to the physical team
+at that time and go turn by turn to keep everyone moving.&lt;/p&gt;
+
+&lt;p&gt;Disabling the door has to happen in the same hack because the system resets when
+the netrunner jacks out, but that’s an additional 7 minutes so it’s OK. The
+secret server hack takes 10.&lt;/p&gt;
+
+&lt;p&gt;Going for the “easy” office server after being beaten up by the first two does
+indeed border on the suicidal. It’s fast at 10 minutes, but not worth
+it. Cutting your losses and leaving is a perfectly rational decision.&lt;/p&gt;
+
+&lt;p&gt;Because ye &lt;em&gt;gawds&lt;/em&gt; is this system brutal.&lt;/p&gt;
+
+&lt;p&gt;Stealth is not a thing in these rules. The closest thing is the Slide ability,
+but that apparently only works to escape combat, not to avoid it. Most ICE
+threatens to either permanently destroy your programs or directly damage your
+HP, and if I understood the rules directly they get a free and automatic hit
+against you if they beat that contested initiative roll.&lt;/p&gt;
+
+&lt;p&gt;So avoiding combat is impossible, and getting out unscathed is extremely
+unlikely. I feared I made the CP 2020 data fortress too easy, and here I think I
+made things too difficult by having three decent-sized Architectures generated
+with the random system. It looks like CP RED wants a single big Architecture per
+adventure instead of a bunch of scattered smaller ones. If there are smaller
+ones, they should be &lt;em&gt;tiny&lt;/em&gt; with at most a single piece of ICE or Demon, to help
+preserve the netrunner for the main event.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Cyberpunk RED</title>
@@ -1977,93 +2158,6 @@ but costs Humanity in the book). &lt;a href=&quot;#fnref:4&quot; class=&quot;re
         <category>cyberpunk</category>
         
         <category>cyberpunk-red</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Evernight Overview</title>
-        <description>&lt;p&gt;Evernight is Neverwinter’s reflection on the Shadowfell, but it’s also a city in
-its own right, inhabited by a large number of undead and undead-adjacent people
-(cultists, necromancers, and the like). This book doesn’t go too deep into its
-history, but it does give me the impression Evernight has existed for a long
-time. It was probably described in a previous edition when the Shadowfell was
-called “the plane of Shadow”.&lt;/p&gt;
-
-&lt;p&gt;Evernight is ruled by a Tribunal composed by its most influent citizens, all of
-whom are ghouls and ghasts who worship Orcus and his exarch Dorensain. The
-Tribunal makes the laws and settles disputes. It does the latter by deciding who
-is right and eating the loser.&lt;/p&gt;
-
-&lt;p&gt;The city is very dangerous for living mortals who aren’t citizens, though it’s a
-bit &lt;em&gt;less&lt;/em&gt; dangerous than you’d think. Only its vampire and ghoul inhabitants
-feel the need to feed on the living, and since the ambient energies of the
-Shadowfell help sustain them this happens much less often than it would in the
-world. Mortals and undead alike can apply for citizenship. Mortal citizens gain
-legal protection from random attacks on the street, though they should probably
-keep their token of citizenship within easy reach at all times. Living merchants
-who pass through the city on the way to other locations can also acquire tokens
-of safe passage.&lt;/p&gt;
-
-&lt;p&gt;The legal status of a mortal who doesn’t have any of that can best be summed up
-as “fresh meat”, but even that isn’t an automatic death sentence. Undead who see
-the living brazenly walking down the streets of Evernight tend to assume they
-belong there, and will only challenge that assumption if given reason to be
-suspicious. Such as when the “tourists” make horrified faces at the deeply
-fucked up stuff that happens in the city’s routine unlife.&lt;/p&gt;
-
-&lt;p&gt;There are no official portals between Evernight and Neverwinter, but the planar
-membrane separating the two is awfully thin and becomes fully permeable in
-certain places known as “dusk crevices”. These crossings link a place in
-Evernight to its corresponding worldly location, which is always in dim light or
-darkness. Some are fixed, some temporary or mobile. They’re the true cause of
-most spooky stories about disappearances in Neverwinter since before the
-Spellplague. Mortals who fall through these crevices into Evernight make up a
-significant portion of the diet of its ghoul and vampire population.&lt;/p&gt;
-
-&lt;p&gt;Despite its (literally!) ghoulish culture and society, Evernight is a major
-Shadowfell trade hub, so it often sees passing caravans that link it to other
-settlements in the plane. One of the trade routes passing through here is the
-Shadowfell Road, a mystical path that has a ritual component. It only exists if
-approached and traversed in a very specific way. The Thayans use it to supply
-the Dread Ring, and the Tribunal allows them to use it for that purpose because
-the Thayans pay them in &lt;em&gt;people&lt;/em&gt;. A similar arrangement allows the Netherese to
-maintain an embassy in the city and use their own share of trade and supply
-routes.&lt;/p&gt;
-
-&lt;p&gt;Part of the reason the Tribunal accepts these deals is that both factions
-represent powerful nations who are very adept at necromancy, but the ghouls
-still draw the line at permitting hostilities within city limits. Evernight is
-neutral territory, and violating this edict is one of the things that would
-cause the Tribunal to take drastic action against the rule-breaker. In practice
-that means conflict within the city takes the form of sordid spy stories of
-intrigue and assassination.&lt;/p&gt;
-
-&lt;p&gt;The city did suffer some changes during the cataclysm. A reflection of the
-Chasm, known locally as the Demon Pit, opened up in the corresponding Shadowfell
-coordinates. And while the eruption of mount Hotenow was a quick affair in the
-world, its shadowy counterpart continues to expel a slow and steady stream of
-lava that flows through the equivalent of the Neverwinter River’s bed. Sometimes
-you can see crew-less ghost ships sailing the lava, docking in abandoned piers,
-and leaving after a few days. All of the other horrific stuff we’ll see in the
-following posts was already there before that.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Evernight comes as a bit of a surprise to me, since I think it was only
-mentioned in one place in the book before this section and that mention didn’t
-hint at the full scope of the thing. I’m guessing old FR hands already know all
-about it, though.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 23 Oct 2023 09:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/23/neverwinter-evernight.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/23/neverwinter-evernight.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
         
         
       </item>
