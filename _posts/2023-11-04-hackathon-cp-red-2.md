@@ -26,8 +26,8 @@ start the actual run.
 ## Run Summary
 
 G0blin Jr. goes in with the physical team, they get past the reception, and as
-the rest of the team locks herself in the bathroom to try and hack the security
-server.
+the rest of the team pretends to work she locks herself in the bathroom to try
+and hack the security server.
 
 We are cheating a bit here, because it turns out you need to be within six
 meters _and_ within line of sight of an access point to hack the corresponding
@@ -145,9 +145,9 @@ lot of pain) if she does.
 
 29 minutes is well within our tolerance for a manageable amount of time, so we
 can say that CP RED's system remains fast. It took around 12 minutes for Junior
-to disable the camera and alarm, which is about what I consider the top limit
-for the rest of the team to be kept waiting. You could cut to the physical team
-at that time and go turn by turn to keep everyone moving.
+to disable the camera and alarm, which is about what I consider the upper limit
+on the time you can keep the rest of the team waiting. You could cut to the
+physical team at that time and go turn by turn to keep everyone moving.
 
 Disabling the door has to happen in the same hack because the system resets when
 the netrunner jacks out, but that's an additional 7 minutes so it's OK. The
