@@ -156,3 +156,6 @@ the Woods are a pretty eventful place.
 [47]: /octopus-carnival/2023/10/06/neverwinter-hotenow.html
 [48]: /octopus-carnival/2023/10/14/neverwinter-gauntlgrym.html
 [49]: /octopus-carnival/2023/10/16/neverwinter-gauntlgrym-02.html
+[50]: /octopus-carnival/2023/10/23/neverwinter-evernight.html
+[51]: /octopus-carnival/2023/10/25/neverwinter-evernight-02.html
+[52]: /octopus-carnival/2023/11/08/neverwinter-beyond-evernight.html
