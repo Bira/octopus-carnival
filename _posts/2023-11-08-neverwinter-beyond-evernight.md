@@ -42,7 +42,7 @@ slam or grab passing PCs with its burning branches.
 
 Some sample opposition/dubious allies for the area. This band of erudite hunters
 has a temporary shelter in an earthen cave that's protected from the heat and
-cinder falls. They're made up of several mortal species, but their leader are
+cinder falls. They're made up of several mortal species, but their leaders are
 shadar-kai. They have a pack of "hounds" who are former humanoids corrupted by
 the Shadowfell, robbed of their sapience and reduced to walking on all fours.
 
