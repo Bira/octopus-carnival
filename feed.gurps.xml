@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 10 Nov 2023 00:30:44 +0000</pubDate>
-    <lastBuildDate>Fri, 10 Nov 2023 00:30:44 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2023 13:36:51 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 13:36:51 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -90,10 +90,11 @@ deck is once again the main thing making “decker” an exclusive specialist ni
 
 &lt;p&gt;Devices have Matrix Attributes that dictate their base capabilities. All of them
 have a Device Rating that represents their general robustness, a Firewall
-attribute that is used for defensive rolls, and a Data Processing test that gets
-used for searches and other generally lawful operations. Cyberdecks have two
-others, Attack and Sleaze, which are used for hacking. Hosts have also have
-these so that they can fight back against hackers.&lt;/p&gt;
+attribute that is used for defensive rolls, and a Data Processing attribute that
+gets used for searches and other generally lawful operations. Cyberdecks have
+two others, Attack and Sleaze, which are used for hacking. Hosts have also have
+these so that they can fight back against hackers. The full array is abbreviated
+as “ASDF”.&lt;/p&gt;
 
 &lt;p&gt;Most devices, including hosts, have “static” attributes, but cyberdecks have an
 “attribute array” of four numbers that can be allocated dynamically between
@@ -133,8 +134,8 @@ finished you’ll need to wait a bit longer if you still need those marks.&lt;/p
 
 &lt;p&gt;IC fights using the host’s rating and ASDF attributes. Some variants try to
 place additional marks on the hacker, while some attack either the hacker’s
-deck, their brain, or both at the same time. The more marks the hacker has on
-them, the greater the damage they do. It’s possible for the hacker to spend
+deck, their brain, or both at the same time. The more marks IC has on the
+hacker, the greater the damage they do. It’s possible for the hacker to spend
 actions removing these marks, but this ironically is also an illegal action and
 accrues Overwatch. It also doesn’t make the host or the IC forget about the
 hacker, it just makes enemy attacks less effective.&lt;/p&gt;
@@ -143,14 +144,16 @@ hacker, it just makes enemy attacks less effective.&lt;/p&gt;
 proximity (and there are several ways to define this) are automatically visible
 and identifiable unless they’re &lt;em&gt;running silent&lt;/em&gt;, which means they require a
 Matrix perception test to notice. Running silent gives a penalty to all of that
-icon’s rolls, so the hacker is usually the only one running silent during a run.&lt;/p&gt;
+icon’s rolls, so the hacker is usually the only one running silent during a run,
+and that only when necessary.&lt;/p&gt;
 
 &lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
 
 &lt;p&gt;We’ll be using the sample decker from the core book, a dwarf lady. She has a
-Hermes Chariot starter deck with a device rating of 2 and an ASDF of
-5-4-4-2. She has a few programs that help with cybercombat but her specialty is
-still stealth, with an effective skill of 9 for that approach.&lt;/p&gt;
+Hermes Chariot starter deck with a device rating of 2 and an ASDF of 5-4-4-2
+(which is dynamic, as mentioned before). She has a few programs that help with
+cybercombat but her specialty is still stealth, with an effective skill of 9 for
+that approach.&lt;/p&gt;
 
 &lt;p&gt;It looks like our host design philosophy is The Full Gibson once again. A given
 location will have a single host that takes care of all of its business and is
