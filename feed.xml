@@ -6,9 +6,208 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Nov 2023 10:02:22 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Nov 2023 10:02:22 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Nov 2023 00:30:44 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Nov 2023 00:30:44 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon: Shadowrun 5th Edition, Part 1</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr5-cover.png&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;For this post we’ll be taking a look at Shadowrun 5th Edition, originally
+published in 2013. The book we’re looking at is the Master Index Edition
+published in 2016, which is largely the same but incorporates some errata and
+includes an index of supplementary material.&lt;/p&gt;
+
+&lt;p&gt;I’ll confess I have some reluctance to tackle this specific system, because its
+return to expensive cyberdecks was part of what made me kinda stop paying
+attention to Shadowrun at all. But I’ll read it with as open a mind as I can
+manage and give its rules a fair shake just like I gave all the others.&lt;/p&gt;
+
+&lt;p&gt;One thing I notice is that they have switched back to the more “conversational”
+style employed by SR1, which makes it much harder for me to understand the
+rules. It’s more of a problem here than it was in SR 1 because there are a lot
+more rules and concepts they’re trying to get across.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;Visually, the Shadowrun 5th Edition Matrix is a complete return to The Full
+Gibson Experience. An infinite black plane criss-crossed by shimmering silver
+lines, upon which swim thousands and thousands of icons representing small
+connected devices and users. Way up above in the sky float the giant geometric
+shapes of corporate hosts.&lt;/p&gt;
+
+&lt;p&gt;Descriptions focus almost entirely on the visual, with the technical bits
+boiling down to “it’s everywhere” and “no one fully knows how it
+works”. “Civilians” still use commlinks like they did in 4th edition, and
+“smart” devices that are currently online around them show up as icons in
+augmented reality. The descriptions we get for the uses of augmented reality
+here are actually pretty good and evocative. However, it’s not the main
+event. It seems that any time someone would use a web browser for something in
+the real world, they go into full VR instead.&lt;/p&gt;
+
+&lt;p&gt;If this Matrix has any basis in reality, it would be on the popular perception
+people had of the Internet in 2013, and the fears they had for its future. Cloud
+computing is a concept that looms large here despite not being explicitly
+named. A Matrix host is a location that doesn’t have a 1-to-1 correspondence to
+a single physical device. In other words, the reason they’re all up in the sky
+and visible from anywhere in the world is because they’re all &lt;em&gt;in the
+cloud&lt;/em&gt;. Access to cloud services also tends to be the explanation for why
+certain devices gain mechanical bonuses when they’re online.&lt;/p&gt;
+
+&lt;p&gt;The Matrix is split into Grids. When you connect to the Matrix you are in
+whatever local grid services your physical location. Big Corps have private
+global grids where all their stuff lives. You can access stuff that’s in other
+grids without going there, but for the best connectivity you’ll want to
+grid-hop, which requires some hacking if you’re lacking credentials.&lt;/p&gt;
+
+&lt;p&gt;The “fears” part comes into play when the book says the Matrix is almost
+entirely locked down and under the control of the megacorps. Those everyday
+civilian uses are allowed, provided people pay their fees or consent to getting
+bombarded with ads. The entire Matrix is watched over by the Grid Overwatch
+Division, an organization composed of law enforcement and corporate specialists
+whose job is to sniff out and eliminate any and all hacker activity.&lt;/p&gt;
+
+&lt;p&gt;“Hacker” here is an umbrella term that covers both &lt;em&gt;deckers&lt;/em&gt; and
+&lt;em&gt;technomancers&lt;/em&gt;. Deckers use cyberdecks, devices which are a little bigger than
+commlinks and have extra hardware that lets them be used for
+hacking. Technomancers still use their quantum-bullshit-powered brains (and I
+still think they’re cool).&lt;/p&gt;
+
+&lt;p&gt;Cyberdecks are back to being super-expensive, with prices comparable to those of
+SR1. The cheapest deck costs the same as an armored cargo truck, the starter
+used by our sample character costs a bit more than a luxury sports car, and the
+best one costs the same as a couple of light military vehicles. Fortunately it
+appears they no longer require much in the way of optional hardware
+enhancements, and programs tend to be much cheaper, but still the price of a
+deck is once again the main thing making “decker” an exclusive specialist niche.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;Devices have Matrix Attributes that dictate their base capabilities. All of them
+have a Device Rating that represents their general robustness, a Firewall
+attribute that is used for defensive rolls, and a Data Processing test that gets
+used for searches and other generally lawful operations. Cyberdecks have two
+others, Attack and Sleaze, which are used for hacking. Hosts have also have
+these so that they can fight back against hackers.&lt;/p&gt;
+
+&lt;p&gt;Most devices, including hosts, have “static” attributes, but cyberdecks have an
+“attribute array” of four numbers that can be allocated dynamically between
+those last four values. Their device rating is still static and cannot be
+changed.&lt;/p&gt;
+
+&lt;p&gt;Instead of having user accounts, each icon, device or host has a single owner
+that has full control over it, and it might accept &lt;em&gt;marks&lt;/em&gt; from other users on
+to grant them more limited levels of access. An example is a social network host
+lets users register by placing a mark. More marks means more access, and the
+limit is three. The owner counts as having four.&lt;/p&gt;
+
+&lt;p&gt;Hacking a device means placing uninvited marks on it, and using the access those
+grant to perform Matrix actions that get you closer to your goal. Different
+actions require a different number of marks to attempt, and unless those marks
+are legitimate most of them still require hacking tests to perform and might
+fail. They’re opposed by the host’s rating and its ASDF attributes.&lt;/p&gt;
+
+&lt;p&gt;Hacking actions use either the Attack or Sleaze attributes. Attack actions are
+“loud” and alert the host that it’s being attacked when successful; when they
+fail, they cause Matrix damage to the hacker. Sleaze actions are “silent” and
+don’t increase the hacker’s visibility when successful; when they fail, the host
+becomes aware of the hacker, places a mark on them, usually triggers IC.&lt;/p&gt;
+
+&lt;p&gt;With both types of action, successes on the target’s resistance rolls increase
+the hacker’s Overwatch Tally, even when the hacker wins the contest. When this
+tally hits 40, GOD’s eye is upon the hacker. They take a boatload of damage, get
+forcibly ejected from the Matrix, and their physical location is instantly
+traced. In other words, game over&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. If inside a host when this happens,
+they’re “merely” instantly detected and have 3 marks placed on them at once,
+which makes all the host’s IC extra effective against them. And you bet all that
+IC will be activated at once.&lt;/p&gt;
+
+&lt;p&gt;Rebooting your cyberdeck resets Overwatch Tally to 0, but it also erases all
+marks you’ve placed, so while you’ll usually reboot right after a run is
+finished you’ll need to wait a bit longer if you still need those marks.&lt;/p&gt;
+
+&lt;p&gt;IC fights using the host’s rating and ASDF attributes. Some variants try to
+place additional marks on the hacker, while some attack either the hacker’s
+deck, their brain, or both at the same time. The more marks the hacker has on
+them, the greater the damage they do. It’s possible for the hacker to spend
+actions removing these marks, but this ironically is also an illegal action and
+accrues Overwatch. It also doesn’t make the host or the IC forget about the
+hacker, it just makes enemy attacks less effective.&lt;/p&gt;
+
+&lt;p&gt;Matrix perception works a bit differently than in the past. Most icons in close
+proximity (and there are several ways to define this) are automatically visible
+and identifiable unless they’re &lt;em&gt;running silent&lt;/em&gt;, which means they require a
+Matrix perception test to notice. Running silent gives a penalty to all of that
+icon’s rolls, so the hacker is usually the only one running silent during a run.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;We’ll be using the sample decker from the core book, a dwarf lady. She has a
+Hermes Chariot starter deck with a device rating of 2 and an ASDF of
+5-4-4-2. She has a few programs that help with cybercombat but her specialty is
+still stealth, with an effective skill of 9 for that approach.&lt;/p&gt;
+
+&lt;p&gt;It looks like our host design philosophy is The Full Gibson once again. A given
+location will have a single host that takes care of all of its business and is
+connected to the wider Matrix, only this time it represents a set of servers in
+the cloud instead of a mainframe. Nevertheless it is considered to be at the
+same physical location as the office.&lt;/p&gt;
+
+&lt;p&gt;There are rules incentives to being in close physical proximity to your target,
+and our hacker lacks the accessory that would let us ignore those rules (a
+Satellite Link), so she will be joining the physical team and hacking from the
+inside.&lt;/p&gt;
+
+&lt;p&gt;This is a private business, so we’ll give the host a rating of 4 according to
+the guidelines on page 247. Its ASDF ratings are 5-4-6-7, which gives us the
+“surprisingly high security” requirement. Cameras, alarms, and door locks are
+Rating 3. The alarm is running silent.&lt;/p&gt;
+
+&lt;p&gt;For IC, it runs Patrol at all times. When it detects an intruder it launches
+Killer, followed by Track. When it detects unauthorized access to the buried
+evidence it launches Sparky. As usual, whenever one of these is destroyed it’s
+immediately relaunched at the start of the next combat turn.&lt;/p&gt;
+
+&lt;p&gt;The file containing our target evidence would normally be &lt;em&gt;archived&lt;/em&gt; and thus
+impossible to access without some social engineering, but we can cheat a bit
+here and assume there’s a physical jack point in the records room that allows
+access to the files.&lt;/p&gt;
+
+&lt;p&gt;With all this in place, we’ll see how our decker does next post.&lt;/p&gt;
+
+&lt;p&gt;omnipotent organizations that stand ever ready to squash players, and I guess
+GOD made it in either because of their demands or because some of SR5’s writers
+were ascended GMs themselves.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Petty rant time: Many Shadowrun GMs love the idea of omniscient and &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/09/hackaton-sr5-1.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/09/hackaton-sr5-1.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: Beyond Evernight</title>
@@ -46,7 +245,7 @@ slam or grab passing PCs with its burning branches.&lt;/p&gt;
 
 &lt;p&gt;Some sample opposition/dubious allies for the area. This band of erudite hunters
 has a temporary shelter in an earthen cave that’s protected from the heat and
-cinder falls. They’re made up of several mortal species, but their leader are
+cinder falls. They’re made up of several mortal species, but their leaders are
 shadar-kai. They have a pack of “hounds” who are former humanoids corrupted by
 the Shadowfell, robbed of their sapience and reduced to walking on all fours.&lt;/p&gt;
 
@@ -1880,257 +2079,6 @@ report the results in the article.&lt;/p&gt;
         <category>cyberpunk</category>
         
         <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Evernight, part 02</title>
-        <description>&lt;p&gt;This post concerns itself with specific landmarks in Evernight. A lot of them
-are “coterminous” with Neverwinter landmarks, occupying the corresponding
-location in space and having the exact same boundaries.&lt;/p&gt;
-
-&lt;h2 id=&quot;black-mound&quot;&gt;Black Mound&lt;/h2&gt;
-
-&lt;p&gt;The district of &lt;strong&gt;Black Mound&lt;/strong&gt; is named that because of the hill that dominates
-it. It’s coterminous with the Protector’s Enclave in Neverwinter. The houses and
-manors here are larger than in the rest of Evernight, but just as
-dilapidated. Undead are not known for their tidiness.&lt;/p&gt;
-
-&lt;p&gt;Most of the city’s relevant landmarks are here.&lt;/p&gt;
-
-&lt;h3 id=&quot;house-of-screams&quot;&gt;House of Screams&lt;/h3&gt;
-
-&lt;p&gt;Located in the same spot as Neverwinter’s Hall of Justice, the House of Screams
-is the oldest manor in the city and the closest thing Evernight has to a
-courthouse or city hall.&lt;/p&gt;
-
-&lt;p&gt;The Tribunal holds court in the upper levels. When it’s time to adjudicate a
-dispute, they slam iron portcullises over all exits until the session is done,
-because as mentioned in the previous post the ghouls eat the losers. They do
-find vampires to be a particular pain in the neck to deal with, as they can
-transform into mist and fly through the grates.&lt;/p&gt;
-
-&lt;p&gt;The House’s wide open cellar works as an arena where citizens can work out their
-problems without getting the Tribunal involved. There’s usually some bored
-ghouls, wights and vampires hanging around hoping to watch a fight or three, and
-they will gladly act as witnesses to confirm that the few rules of engagement
-were obeyed by both parties.&lt;/p&gt;
-
-&lt;h3 id=&quot;temple-of-filth&quot;&gt;Temple of Filth&lt;/h3&gt;
-
-&lt;p&gt;Coterminous with the House of Knowledge in Neverweinter, the Temple of Filth
-used to be dedicated to Bhaal and Myrkul, ancient gods of murder and death who
-died during the switch-over from AD&amp;amp;D 1e to AD&amp;amp;D 2e. Now it’s dedicated to Orcus
-and Dorensain.&lt;/p&gt;
-
-&lt;p&gt;All of the temple’s decorations, including its altar and holy symbols, are built
-from corpses and corpse bits. No special care is taken to &lt;em&gt;preserve&lt;/em&gt; these
-bits. They’re just replaced with new ones when they rot away. Ewwww.&lt;/p&gt;
-
-&lt;p&gt;The undead of Evernight sometimes ask the priests here to resolve their
-disputes, because they tend to demand services from both parties instead of
-eating one of them like the Tribunal does. The temple’s chief priest is
-Ursuntos, whose stats are those of an Adept of Orcus (Level 6 Controller, from
-the MM3). He has a bunch of ghoul and vampire underlings, and his political
-power in the city is second only to the Tribunal’s.&lt;/p&gt;
-
-&lt;p&gt;The grounds of the Temple are considered both defiled and necrotic ground as per
-the DMG2. Very cursed, but surprisingly not &lt;em&gt;quite&lt;/em&gt; as cursed as the Dread Ring,
-which has additional effects on top of that.&lt;/p&gt;
-
-&lt;h4 id=&quot;pool-of-daylight&quot;&gt;Pool of Daylight&lt;/h4&gt;
-
-&lt;p&gt;Deep within the temple, behind a bunch of locked doors, traps and magical
-darkness areas, is a literal pool of radiance (is this a name drop?) that shines
-as bright as the world’s mid-day sun. Any undead entering its chamber suffers
-terrible pain, and touching the pool can actually destroy the weaker among
-them. This is here as the ultimate security measure, for the pool is said to
-hide an artifact at its bottom that works as a weapon of mass destruction
-against undead. The Temple doesn’t want anyone else getting a hold of this.&lt;/p&gt;
-
-&lt;p&gt;Good thing living PCs don’t need to fear the light, huh? This could be just the
-thing to use against those pesky Thayans and Shadovar.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-graveyard&quot;&gt;The Graveyard&lt;/h3&gt;
-
-&lt;p&gt;Evernight’s Graveyard occupies the same area as the pauper section of
-Neverwinter’s own graveyard. Despite the name, and despite being absolutely
-filled with crypts and tombs and graves, from the point of view of the city’s
-ghouls this place is a &lt;em&gt;restaurant&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;You see, when an Evernight ghoul catches a living “tourist”, they don’t eat
-right away. Instead, they take the paralyzed victim to a place called Lamantha’s
-Mortuary, where the resident necromancer will inject them with longer-term
-paralytics. Then the ghoul arranges for a “funeral procession” for the
-still-living victim, who is buried alive in the Graveyard. Only after the victim
-has died and “ripened” a bit does the ghoul crack open the coffin and eat.&lt;/p&gt;
-
-&lt;h3 id=&quot;corpse-market&quot;&gt;Corpse Market&lt;/h3&gt;
-
-&lt;p&gt;Coterminous with the “rich” section of Neverdeath in the world, this is exactly
-what it says on the tin. A market where undead merchants sell meals to undead
-customers who are too busy to catch their own. From preserved blood for vampires
-to assorted corpse bits for ghouls to necromantic supplies, you can find all of
-that here for affordable prices.&lt;/p&gt;
-
-&lt;p&gt;This is also the place to go if you want to hire undead labor. Renting a zombie
-laborer costs 10gp per day and requires leaving a chunk of your flesh as
-collateral. The chunk is alchemically preserved, so it stays fresh and can be
-reattached later. While it’s missing, you lose a healing surge.&lt;/p&gt;
-
-&lt;p&gt;You might also be able to hire undead guides for about 100gp per day. Some of
-these guides might be able to smell specific “flavors” of death from a long
-distance away, so they might be useful to an Uthgardt Barbarian who wants to
-find their tribe’s missing thunderbeast skeleton, or to PCs looking for
-Gauntlgrym. Undead guides charge a premium for going into particularly dangerous
-places, refuse to fight for their clients and might in fact run away if a fight
-breaks out. Other than that, though, they’re reliable as long as they’re getting
-paid.&lt;/p&gt;
-
-&lt;p&gt;A creepy old man known as the Resurrectionist wanders the Market every day,
-looking for a piece of someone specific he wishes to bring back to life. He
-never finds the right one, so he keeps coming back to continue searching. He’s
-been at this long enough that most standard resurrection magic wouldn’t work any
-more, but the man guarantees he can bring anyone back no matter how long it’s
-been.&lt;/p&gt;
-
-&lt;p&gt;There’s a fenced off area here that contains warehouses and some of the
-merchant’s residences. While anyone can walk through the market, unauthorized
-people caught in this area are assumed to be prowling thieves and are killed on
-sight.&lt;/p&gt;
-
-&lt;h3 id=&quot;dark-creeper-enclave&quot;&gt;Dark Creeper Enclave&lt;/h3&gt;
-
-&lt;p&gt;This large manor close to the Graveyard is the Netherese consulate on
-Evernight. The Netherese pay a family of Dark Ones, the Glumguts, to mind the
-place. They don’t have any official authority - their job is to maintain the
-house, serve any actual dignitaries in the rare occasions they stay here, and
-receive any packages dropped off at the embassy.&lt;/p&gt;
-
-&lt;p&gt;Family members like to supplement their income with the occasional spot of
-burglary or robbery, though they are careful to restrict their activities to
-the living (who can do less about it). They also only target Thayans if they can
-get one of them alone, to avoid reprisals.&lt;/p&gt;
-
-&lt;p&gt;This is a proper gothic family too: their patriarch Blackclaw, a dark stalker
-(level 10 lurker), rules them through fear. The only ones who have the courage
-to defy him are his young cousins Thrax and Vinnia, and his son Blackcut. The
-trio believes they’re protected by Blackcut’s relation to his father, and free
-to do whatever they want. The truth is Blackclaw simply doesn’t know most of
-what they’ve been up to, and will be livid when he finds out. Their shenanigans
-have actually been quite detrimental to the family’s duties.&lt;/p&gt;
-
-&lt;h3 id=&quot;thayan-outpost&quot;&gt;Thayan Outpost&lt;/h3&gt;
-
-&lt;p&gt;The Thayans are based out of a warehouse near one of the city’s haunted piers in
-the Black Mound. They have a permanent garrison here commanded by Katrice Ansar
-(stats as a human hexer from the MM2, Level 7 Controller). She’s convinced they
-are being watched by Shadovar spies besides the obvious dark creepers, but has
-yet to find them.&lt;/p&gt;
-
-&lt;p&gt;Near the warehouse, in an abandoned neighborhood, is an iron gate that acts as a
-“dusk crevice” linked to Neverdeath cemetery. It’s guarded around the clock by a
-unit that includes undead loyal to the Thayans.&lt;/p&gt;
-
-&lt;h2 id=&quot;locations-outside-black-mound&quot;&gt;Locations Outside Black Mound&lt;/h2&gt;
-
-&lt;p&gt;There are only three of these described here.&lt;/p&gt;
-
-&lt;h3 id=&quot;lamanthas-mortuary&quot;&gt;Lamantha’s Mortuary&lt;/h3&gt;
-
-&lt;p&gt;Mentioned above in the Graveyard description, this is run by a living human
-necromancer named Lamantha who works as a mortician and taxidermist.&lt;/p&gt;
-
-&lt;p&gt;One of her main jobs is preparing mortal victims for burial in the Graveyard,
-which she does by injecting them with long-term paralytic drugs and dressing
-them up. She can also disguise undead so they look like living people through
-wardrobe and makeup adjustments, and she can turn bodies or bits of bodies into
-trophies and tools (or &lt;em&gt;sporting equipment&lt;/em&gt;, as the book makes sure to mention).&lt;/p&gt;
-
-&lt;p&gt;Since she provides valuable services, the rulers of Evernight gave Lamantha
-citizenship and allow her conduct her research in peace. Only the necromancer
-herself knows its precise nature - it’s something to do with observing the
-nature of growth and change among undead. Maybe she’s a necro-sociologist?&lt;/p&gt;
-
-&lt;p&gt;Despite being completely amoral and quite unhinged, Lamantha is happy to receive
-living visitors and get the latest gossip from the middle world. PCs who are
-polite to her might be able to use the mortuary as a safe place to rest for a
-couple of days, though she will become impatient with them if they overstay
-their welcome.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-demon-pit&quot;&gt;The Demon Pit&lt;/h3&gt;
-
-&lt;p&gt;Coterminous with Neverwinter’s Chasm, this opened up at the same time, though it
-did not disrupt “life” in the cursed undead city nearly as much as it did on the
-living one. Like in Neverwinter, the average civilian does not know why this
-rift opened up, nor what’s down there.&lt;/p&gt;
-
-&lt;p&gt;Evernight’s inhabitants call their rift the Demon Pit because rumor has it that
-it goes all the way down to Dorensain’s kingdom in the Abyss. No one tried to
-explore it, but they sometimes throw living mortals into the Pit as sacrifices
-to Orcus and Dorensain. That’s more of a folk ritual than established Temple
-practice, mind you.&lt;/p&gt;
-
-&lt;p&gt;Like the Temple of Filth, this area counts as both defiled and necrotic ground,
-and is still not as cursed as the Dread Ring.&lt;/p&gt;
-
-&lt;h3 id=&quot;castle-nowhere&quot;&gt;Castle Nowhere&lt;/h3&gt;
-
-&lt;p&gt;Coterminous with Castle Never. It looks much more intact and much creepier than
-its worldly counterpart, and not even the most ancient of Evernight’s undead
-citizens can tell when it was built. Like a few other places we’ve seen in
-previous posts, Castle Nowhere only exists &lt;em&gt;sometimes&lt;/em&gt;, vanishing and appearing
-in a ten-day cycle.&lt;/p&gt;
-
-&lt;p&gt;No one in Evernight knows much about what goes on inside the castle. They avoid
-going in because, get this, they think it’s haunted. This is hilarious, but it
-also makes you wonder what kind of haunting would scare an undead city.&lt;/p&gt;
-
-&lt;p&gt;Some of the legends about the place say that if you’re inside the castle when it
-vanishes, you don’t come back when it does. Others say that the ghosts inside it
-feed on &lt;em&gt;the hunger of others&lt;/em&gt;. This means they can cause the living to starve
-to death, but they can also cause a ghoul or vampire to become trapped in a
-state of eternal starvation and use them as permanent food sources. A fate worse
-than a second death!&lt;/p&gt;
-
-&lt;p&gt;There’s a box here with a power you can add to any incorporeal undead creature
-to make it into a ghost of Castle Nowhere. &lt;strong&gt;Consume&lt;/strong&gt; is a melee attack vs. AC
-that removes the target from play and inflicts 10 ongoing damage (save
-ends both). The target reappears adjacent to the monster when they make their
-save.&lt;/p&gt;
-
-&lt;p&gt;Living creatures reduced to 0 HP by this reappear normally and become immune to
-the power for the rest of the encounter. They make death saves and can be healed
-as normal. Undead reduced to 0 HP do not die, and remain trapped until willingly
-released by the ghost, or until the ghost is destroyed.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;That’s a proper creepy city, yes indeed. There’s more than enough material to
-fuel a whole horror-themed campaign, though I suspect most typical groups who
-are focused on other stories wouldn’t want to linger here too long.&lt;/p&gt;
-
-&lt;p&gt;Still, there are good reasons to visit the place. That artifact hidden in the
-Pool of Radiance would be extremely useful to wreck the Thayans, for example,
-and if the PCs want to follow the Shadowfell Road to their home base they would
-also need to start at the Thayan outpost in Evernight.&lt;/p&gt;
-
-&lt;p&gt;Castle Nowhere would make an awesome dungeon, but as written there’s barely any
-reason for PCs to enter the place. Perhaps they could use it to lure and trap a
-powerful undead foe like Valindra, or maybe the quickest way to access the Tomb
-of the Nine is by entering Castle Nowhere and crossing to the world through a
-dusk crevice.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 25 Oct 2023 19:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/25/neverwinter-evernight-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/25/neverwinter-evernight-02.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
-        
-        <category>dnd4</category>
         
         
       </item>
