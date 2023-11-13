@@ -6,9 +6,126 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2023 12:59:55 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2023 12:59:55 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Nov 2023 17:24:09 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Nov 2023 17:24:09 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Underwater Dungeon Fantasy 2: Items and Artifacts</title>
+        <description>&lt;p&gt;A while ago I posted a compilation of methods and tools for &lt;a href=&quot;/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html&quot;&gt;underwater
+adventuring&lt;/a&gt;. In this post, I’ll add a few items and artifacts that further
+help with that or that make sense as possessions for underwater people. This is
+a grab-bag article without much direction, but I hope it will be useful
+nonetheless.&lt;/p&gt;
+
+&lt;h2 id=&quot;alchemical-pills&quot;&gt;Alchemical Pills&lt;/h2&gt;
+
+&lt;p&gt;Any drinkable concoction (including magic potions) might be made as a solid pill
+instead. Pills tend to be round, thumbnail sized, hard, and meant to be
+swallowed whole. Pills are popular with alchemists and herbalists who don’t have
+a line to a crystal vial supplier, and with underwater civilizations since
+liquid potions don’t really work there.&lt;/p&gt;
+
+&lt;p&gt;A pill costs the same as the equivalent liquid potion. It’s waterproof and not
+at risk of breaking from falls and the like, but it also can’t be put into
+bandoliers for easy access during combat. Dry-swallowing a pill during a fight
+requires either two Ready maneuvers or a single maneuver and a HT roll.&lt;/p&gt;
+
+&lt;p&gt;You &lt;em&gt;can&lt;/em&gt; put each of your pills into a separately-purchased crystal vial (DF1
+p. 111) in order to have them in your potion belt, but that does add an extra
+Ready maneuver to the process of ingesting it since you have to open the vial
+first.&lt;/p&gt;
+
+&lt;h2 id=&quot;elixir-of-water-breathing&quot;&gt;Elixir of Water Breathing&lt;/h2&gt;
+
+&lt;p&gt;This alchemical elixir can be found on GURPS Magic, and is “reprinted” here with
+additional options. It’s a drinkable potion that lets you breathe underwater as
+if you had Gills for 1d hours.&lt;/p&gt;
+
+&lt;p&gt;The GM rolls the die in secret when you drink it, and you remain unaware of how
+long you have… until 5 minutes before that time expires, when you get an
+instinctive mental warning that you only have 5 minutes left.&lt;/p&gt;
+
+&lt;p&gt;GMs who dislike the randomness can set a fixed duration based on how much they
+want their PCs to spend on these potions. I suggest from 1 to 3 hours.&lt;/p&gt;
+
+&lt;p&gt;Purely aquatic people can instead get Elixirs of &lt;em&gt;Air&lt;/em&gt; Breathing for the same
+price and with the equivalent effect for air. Both variants are very likely to
+be found in pill form (see above).&lt;/p&gt;
+
+&lt;p&gt;In all cases, the potion is $600, 0.25kg (0.5 lbs).&lt;/p&gt;
+
+&lt;h2 id=&quot;coral-items-4-cf&quot;&gt;Coral Items (+4 CF)&lt;/h2&gt;
+
+&lt;p&gt;Coral is a new implausible material: items made from it have a somewhat porous
+texture but are covered in intricate natural patterns of bright colors. Coral
+comes in rough or polished varieties, though both cost the same. Surfacers value
+it because it’s pretty, underwater civilizations value it for its incidental
+properties.&lt;/p&gt;
+
+&lt;p&gt;Coral items can be made without fire, though they do require special magic and
+techniques known to underwater armorers. They also have neutral buoyancy: their
+weight does not count towards Encumbrance when determining the user’s penalty to
+Swimming. Anything that’s usually made of metal or wood can be made of coral
+instead. Being made of coral adds +4 CF to the item’s total cost.&lt;/p&gt;
+
+&lt;h2 id=&quot;artifact-atlantean-armbands&quot;&gt;Artifact: Atlantean Armbands&lt;/h2&gt;
+
+&lt;p&gt;Origin: Divine.&lt;/p&gt;
+
+&lt;p&gt;This is a pair of gilded orichalcum armbands decorated with reliefs of sharks
+and other marine creatures. The Atlantean Armbands were said to be a gift of the
+gods to a human hero destined to become the queen of a great underwater
+nation. That did indeed happen, and since all of the queen’s descendants were
+born with the ability to live underwater the armbands became honored museum
+pieces.&lt;/p&gt;
+
+&lt;p&gt;That ancient empire has long since fallen to the tides of history, so who knows
+where these artifacts might surface next?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sell Price&lt;/strong&gt;: $50.000.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Weight&lt;/strong&gt;: 0.5kg (1 lb) for the pair.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Power Item Capacity&lt;/strong&gt;: 20 FP.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;properties&quot;&gt;Properties&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;When worn (one in each arm), they allow the wielder to freely breathe and move
+underwater as if they had the Gills and Amphibious traits.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If used as power items, any FP from the armbands that’s spent on the Swim and
+Breathe Water spells is worth double the energy.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;variations&quot;&gt;Variations&lt;/h3&gt;
+
+&lt;p&gt;Some legends tell of another pair of armbands, of silver-plated orichalcum and
+decorated with land-animal motifs, that would allow an aquatic wearer to breathe
+air and walk on land, assuming a humanoid form if necessary. These were created
+by an evil but powerful witch for a mermaid that wanted to walk among humans,
+and are Druidic in origin.&lt;/p&gt;
+
+&lt;p&gt;Instead of armbands, you could have rings, piercings, or amulets with the same
+enchantments.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 13 Nov 2023 17:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/13/underwater-items.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/13/underwater-items.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>items</category>
+        
+        
+      </item>
     
       <item>
         <title>Let's Read Neverwinter: Thay</title>
@@ -1709,303 +1826,6 @@ harder.&lt;/p&gt;
         <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/10/28/hackaton-cp2020.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/28/hackaton-cp2020.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackaton: Shadowrun 1st Edition Play Phase</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr1-cover.jpg&quot;/&gt;
-   &lt;figcaption&gt;
-     Our target system
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
-
-&lt;p&gt;After &lt;a href=&quot;/octopus-carnival/2023/10/26/hackaton-sr1-1.html&quot;&gt;deciding on the design parameters&lt;/a&gt; for our Shadowrun 1st Edition
-Matrix run, I got my stopwatch and jumped right into it. I stopped it at the end
-of every node to keep a running tally of the elapsed time.&lt;/p&gt;
-
-&lt;p&gt;Here’s the system map we’re using, for reference:&lt;/p&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackaton-sr1-system.png&quot;/&gt;
-   &lt;figcaption&gt;
-     Our target system
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Below is the account of events. As I mentioned before, the actual timed run was
-written in a brief shorthand and the account below was expanded for readability
-after the fact.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-1-san-red-3-trace-and-dump-4&quot;&gt;Node 1 (SAN): Red-3, Trace and Dump-4.&lt;/h3&gt;
-
-&lt;p&gt;The Decker enters through Node 1, dialing the mainframe’s modem. Security here
-is unusually tight for a Shadowrun system - the target really doesn’t want
-anyone sticking their noses in his business.&lt;/p&gt;
-
-&lt;p&gt;I hadn’t quite understood the rules here yet, thinking that you couldn’t use
-your Hacking Pool outside of cybercombat for anything but improvising programs.&lt;/p&gt;
-
-&lt;p&gt;So our decker arrives here at Sensor range, improvises Analyze-7 with her pool,
-and runs that against the ICE, seeing that it’s a potentially dangerous
-tracer. She moves into Contact range and I roll Initiative even though we’re not
-in combat, just to have a sense of the flow of the action.&lt;/p&gt;
-
-&lt;p&gt;She runs Sleaze against the Tracer using only the program rating, beating the
-ice but failing anyway because this is a Red node.&lt;/p&gt;
-
-&lt;p&gt;From that point on I learn that you can use Hacking Pool dice on any Computer or
-program test even outside of combat, so I use some on the second attempt and
-pass even though that has increased difficulty. Ice supressed, we get to whisper
-“I’m in” into our comms.&lt;/p&gt;
-
-&lt;p&gt;And here is where I realize there’s very little reason to be sparing with those
-pool dice, and that I can use pool dice even for tests with improvised
-programs. So my strategy for pretty much the rest of the run is to shout I AM
-SPEED and drop my entire Hacking Pool on any test that doesn’t happen during
-actual cybercombat.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed so far: 1 turn, 13 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-2-spu-orange-5-access-6&quot;&gt;Node 2 (SPU): Orange-5, Access-6&lt;/h3&gt;
-
-&lt;p&gt;Another beefy node, and our actual password prompt. Our Decker analyzes the Ice
-like before, and this fails with a tie. I rule a tie doesn’t activate the
-ICE. She decides not to try again and just tries Sleaze instead.&lt;/p&gt;
-
-&lt;p&gt;I AM SPEED gets us through this just fine - Sleaze works against everything, but
-Deception would have worked here too. We can see two other nodes from this one,
-but not what they are. I decide to flip a coin to see where we go next, and we
-go right towards Node 3.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed so far: 2 turns, 28 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-3-spu-green-4-barrier-3&quot;&gt;Node 3: SPU, Green-4, Barrier-3&lt;/h3&gt;
-
-&lt;p&gt;This is where I arrive at my final interpretation for improvised
-programs. Improvising them is part of the same action in which you run them, so
-while this takes only 1 action total, the pool dice you use for the script
-aren’t available for the test.&lt;/p&gt;
-
-&lt;p&gt;Luckily Analyze’s rating doesn’t actually limit what it can discover, so we’re
-better off improvising an Analyze-1 script and chucking our remaining 13 pool
-dice into the test than going for Analyze-7 with 1 extra die. Having an actual
-Analyze program would be even better, but this is pretty good still.&lt;/p&gt;
-
-&lt;p&gt;So our reckless Decker successfully analyzes the ICE and Sleazes past it using
-the same actions and approach as before. I AM SPEED wins again!&lt;/p&gt;
-
-&lt;p&gt;She sees there are two connected nodes, and it’s right here that I realize she’s
-not actually in any danger at Sensor range and can back out after
-reconnoitering. So Ms. Decker moves into Sensor range of the two connected nodes
-in order to scout them all and see they’re an I/O Port and a Control node
-without any ICE in them. She then decides to move on to Node 4.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 5 turns, 41 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-4-io-port-green-4&quot;&gt;Node 4: I/O Port, Green-4.&lt;/h3&gt;
-
-&lt;p&gt;This node and Node 5 don’t actually have a security rating of their own, so I
-gave them the same rating as the SPU that was linked to them.&lt;/p&gt;
-
-&lt;p&gt;We once again go with I AM SPEED, and our total of 21 dice easily takes care of
-the system operation needed to disable the camera. Per the rules, after either
-succeeding at a system operation or giving up after a number of failures, we
-need to roll a d6. If the result is less than or equal to the number of
-attempts, the system noticed something wrong and triggered an alert. We only had
-one attempt before succeeding, and we roll a 3, so no alert.&lt;/p&gt;
-
-&lt;p&gt;Camera is off. First goal accomplished!&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 6 turns, 47 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-5-control-green-4&quot;&gt;Node 5: Control, Green-4.&lt;/h3&gt;
-
-&lt;p&gt;Same deal as before, and same outcome. Alarm is off, second goal
-accomplished. And we took less time because I already knew what to do.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 7 turns, 50 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-6-spu-red-4-killer-4&quot;&gt;Node 6: SPU, Red-4, Killer-4.&lt;/h3&gt;
-
-&lt;p&gt;We still have data to steal, so we go to the only unexplored path so far and try
-to find data stores.&lt;/p&gt;
-
-&lt;p&gt;After scouting the node, we follow your usual procedure of Improvised Analyze -&amp;gt;
-close to Contact range -&amp;gt; Initiative -&amp;gt; Sleaze, always using our whole Hacking
-Pool for each individual test. We suppress the ICE without issue. If you noticed
-how reckless we’re being, take a cookie.&lt;/p&gt;
-
-&lt;p&gt;Further scouting reviews two data stores attached to this node. I flip another
-coin to decide where to go, and we go down to Node 8.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 10 turns, 58 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-8-data-store-red-4-black-ice-5&quot;&gt;Node 8: Data Store, Red-4, Black Ice-5.&lt;/h3&gt;
-
-&lt;p&gt;Our usual Improvised Analyze routine shows us this data store is protected by
-Black Ice! This is scary, but is also a very promising lead.&lt;/p&gt;
-
-&lt;p&gt;Disregarding the danger, our Decker goes all in and chucks her whole Hacking
-Pool into Sleaze again. She succeeds by exactly the needed amount and suppresses
-the ice.&lt;/p&gt;
-
-&lt;p&gt;She then uses Browse to find any drainable accounts, because she doesn’t know
-the full layout of the system like we do. The operation succeeds but she doesn’t
-find anything. Boo!&lt;/p&gt;
-
-&lt;p&gt;Remembering the actual mission, she Browses for incriminating evidence and finds
-it. She has enough disk space for the file, and no time pressure for the
-download, so we just wait a couple more turns. Third objective accomplished!&lt;/p&gt;
-
-&lt;p&gt;She still wants to find that money, though, so she moves to the other data store
-at Node 7.&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 13 turns, 1 hour, 9 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-7-data-store-red-4-access-5&quot;&gt;Node 7: Data Store, Red-4, Access-5&lt;/h3&gt;
-
-&lt;p&gt;Same deal as usual. Improv Analyze reveals the ICE, Sleaze gets past it, Browse
-confirms there’s nothing of value to the team in this node.&lt;/p&gt;
-
-&lt;p&gt;Here is where I begin to notice that despite the different types of nodes and
-the flowery descriptions of virtual dungeons, we’ve been performing more or less
-the same sequence of tests in the same order, in a loop. So I guess a long
-enough Matrix run might seem a bit boring for the decker as well. I’m still
-having fun &lt;em&gt;here&lt;/em&gt;, because lucky rolls have given me a string of successes, but
-I don’t feel like I’m in danger or having to make complex decisions.&lt;/p&gt;
-
-&lt;p&gt;Anyway, the only unexplored node left is the CPU. A cautious decker might decide
-to cut their losses, perform the single remaining system operation they need,
-and jack out. But we’ve already established our Decker is not cautious, SHE IS
-SPEED!&lt;/p&gt;
-
-&lt;p&gt;Total elapsed time: 14 turns, 1 hour, 20 minutes.&lt;/p&gt;
-
-&lt;h3 id=&quot;node-9-cpu-red-5-trace-and-burn-6-black-ice-4&quot;&gt;Node 9: CPU, Red-5, Trace and Burn-6, Black Ice-4&lt;/h3&gt;
-
-&lt;p&gt;The setup is a little unusual here. This CPU has all the standard system
-operations available, and the Trace and Burn-6 is protecting those. It also has
-a link to the target’s bank account, and draining it counts as a custom system
-operation. There’s a piece of Black Ice protecting that operation only.&lt;/p&gt;
-
-&lt;p&gt;So our Decker will have the run of the system if she neutralizes the Tracer, but
-to get the money she must also get past the Black Ice.&lt;/p&gt;
-
-&lt;p&gt;She comes within Sensor Range, Improv-Analyzes both pieces of Ice, and sees what
-they’re protecting. She decides to deal with the Tracer first. I roll Initiative
-for everyone as she gets into Contact Range, but the ICE will only act if it
-activates.&lt;/p&gt;
-
-&lt;p&gt;Despite the usual I AM SPEED approach giving us 19 dice to Sleaze past the
-Tracer, the node’s high security level prevents us from succeeding. We try again
-with increased difficulty, and this time a &lt;em&gt;very&lt;/em&gt; unlucky roll gives the ice
-more successes, meaning it activates!&lt;/p&gt;
-
-&lt;p&gt;The first thing Trace and Burn does upon activation is try to raise an Internal
-Alert in the system. This causes the ratings of all ICE to increase by 50%, so
-we’re actually dealing with Trace-and-Burn 9 now. The Black Ice also improves to
-Rating 6, but it remains inactive since it’s only protecting the bank account.&lt;/p&gt;
-
-&lt;p&gt;We could have allocated dice from our Hacking Pool to an opposed test to “jam”
-the ice and prevent the alert from going through… but we already used all of
-them on the Sleaze attempt, and the pool hasn’t refreshed yet. This is why our
-Decker has been very reckless so far, as every piece of ice she faced until now
-could have done this on a failed test.&lt;/p&gt;
-
-&lt;p&gt;On its first actual action, Trace and Burn rolls its rating to determine how
-long it will take to trace the Decker. We’re lucky here because this roll gets
-only 1 success, meaning it will take a total of 10 of the IC’s actions to do
-so. Once that time is up, though, her deck is toast.&lt;/p&gt;
-
-&lt;p&gt;Our Decker switches to using the Attack program to destroy the Tracer before
-that happens. This is proper cybercombat, which works a little differently. The
-“to-hit” roll is an unopposed test with only with your Hacking Pool against the
-Node’s security. The program’s rating is your base damage if you hit, and it
-increases by 1 for every extra success past the minimum required to hit. Actual
-damage is your net successes in an opposed test of the ICE’s rating versus your
-damage pool.&lt;/p&gt;
-
-&lt;p&gt;I end up using my entire pool in the to-hit roll, since any less than that means
-I won’t be beating the difficulty on average. It takes me 3 turns to destroy the
-Tracer this way, but since everyone acts multiple times per turn I only had 3
-actions left before the trace completed. This was still somewhat repetitive
-since it was the same set of rolls every time, but it was also exciting since
-this is the first time our Decker is in any actual danger.&lt;/p&gt;
-
-&lt;p&gt;With the tracer gone, she uses a system operation to cancel the alert and
-manages to Sleaze past the Black Ice and drain the target’s account. Bonus
-objective completed!&lt;/p&gt;
-
-&lt;p&gt;With that done, she moves normally to the Control Modules and opens the final
-door, completing the mission’s objective. She then jacks out. Mission Complete!&lt;/p&gt;
-
-&lt;p&gt;Total time elapsed: 19 turns, 2 hours and 4 minutes. This combat alone took 41
-minutes to resolve.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’m not gonna lie, I kinda feel like I completed an important life goal. I could
-never understand this hacking system when I was 12, but now not only did I grok
-it, I finished an entire Matrix run while using it. So I’m pretty happy, and I
-had fun.&lt;/p&gt;
-
-&lt;p&gt;However, I must also conclude that all the criticisms leveled at this system are
-valid.&lt;/p&gt;
-
-&lt;p&gt;As mentioned in the intro, we’re assuming our physical team has an easy time
-getting past the reception area. This would take some light roleplaying and a
-roll or two from our talker. That plus walking to the restricted area might take
-10 minutes of real time, but it takes the decker 50 minutes to complete the
-goals that let them move forward from there.&lt;/p&gt;
-
-&lt;p&gt;The next part of the physical mission will involve more tests and die rolls from
-the physical team. The Decker takes around half an hour of real time to find the
-electronic evidence, and it might be accurate to assume the physical team takes
-about the same or a little bit longer to sneak past the guards and find the
-physical documents. Let’s say 40 minutes for the physical team.&lt;/p&gt;
-
-&lt;p&gt;Then the Decker decides to loot the server, and that takes 41 minutes. Unless
-the physical team is having an epic shootout at the same time as they try to
-leave the building, all they have to do is sit and wait. Otherwise they take
-maybe 10 minutes total to reach the back door and walk out.&lt;/p&gt;
-
-&lt;p&gt;So a team that has a firefight on the way out might take up 90 minutes of real
-time, and a team that doesn’t will take perhaps 50 with their part of the
-mission. Our Decker is taking up &lt;em&gt;at best&lt;/em&gt; over half and at worst over
-two-thirds of the session with her solo VR dungeon crawl. And this is all
-assuming a 100% buttery smooth session with absolutely no digressions,
-distractions, or rule arguments to make it longer.&lt;/p&gt;
-
-&lt;p&gt;There was also a point where I kinda felt that the decking run itself was
-getting a little repetitive, because the “optimal” procedure to follow became
-obvious: Improv Analyze -&amp;gt; Sleaze, always dumping the entire Hacking Pool into
-each test. In actual cybercombat, I also ended up doing the same thing over and
-over until the enemy died. It was still enjoyable, but I could see it eventually
-overstaying its welcome even for the decker player.&lt;/p&gt;
-
-&lt;p&gt;Finally, if it turns out that my rules interpretations were overly generous and
-this was supposed to be way harder, then all the criticisms I made become even
-stronger, because everything would take more time and more rolls.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/27/hackaton-sr1-2.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/27/hackaton-sr1-2.html</guid>
         
         <category>shadowrun</category>
         
