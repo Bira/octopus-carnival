@@ -4,11 +4,13 @@ title: "Let's Read the Dugeon Fantasy RPG!"
 tags:
     - gurps
     - lets-read
+    - dungeon-fantasy
+    - dfrpg
 ---
 
 As I begin writing this, I have just finished writing all the posts for my
-"Let's Read" of Threats to the Nentir Vale, the final D&D monster book I
-intended to cover. After thinking about it for a bit, I've decided to do one for
+"Let's Read" of the Neverwinter Campaign Setting, the final D&D book I intend to
+cover for a while. After thinking about it for a bit, I've decided to do one for
 the Dungeon Fantasy RPG!
 
 This is going both here in the blog and on the RPG.net forums, as usual, and one
@@ -18,17 +20,17 @@ would benefit from knowing more about this game.
 ## What is Dungeon Fantasy?
 
 "Dungeon Fantasy" is the name Steve Jackson Games invented for the genre of
-fantasy pioneered by D&D: fantasy stories that are about a bunch of heroes going
-into dungeons, killing monsters, and looting treasure. Most of the works that
-fall within this genre are games, either tabletop or electronic. D&D is the most
-famous but by no means the only one. Most of the fiction entries in the genre
-are based on the games as well, with Amazon's Vox Machina being a particularly
-famous entry based on an actual tabletop campaign.
+fantasy pioneered by D&D: fantasy stories that are about a bunch of player
+characters going into dungeons, killing monsters, and looting treasure. Most of
+the works that fall within this genre are games, either tabletop or
+electronic. D&D is the most famous but by no means the only one. Most of the
+fiction entries in the genre are based on games as well, with Amazon's Vox
+Machina being a particularly famous entry based on an actual tabletop campaign.
 
 And sure, you can use these games to tell varied stories of intrigue, drama, and
 wonder, but their core gameplay loop remains dungeons, monsters, treasure. If
-you are using your game in its intended manner at all, these things will feature
-in your campaign at some point.
+you are using your dungeon fantasy game in its intended manner at all, these
+things will feature in your campaign at some point.
 
 ## What is the Dungeon Fantasy RPG?
 
@@ -42,7 +44,7 @@ _chunkiest_ Powered By GURPS game, because all the others were single-book
 affairs using GURPS Lite, and this one is a large boxed set using the full
 rules. It removes everything not immediately relevant to the dungeon fantasy
 genre, but there's still plenty of fun stuff left. It's about as crunchy as
-Pathfinder, if you want a d20-based benchmark.
+either edition of Pathfinder, if you want a d20-based benchmark.
 
 Part of the reason for this wealth of material is that the DFRPG is a second
 edition of sorts. Much of it had been released as a line of supplements for

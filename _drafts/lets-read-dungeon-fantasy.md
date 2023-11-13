@@ -7,9 +7,9 @@ tags:
 ---
 
 If you only read this blog through the GURPS Day feed, you might not know I've
-been doing an extensive "[Let's Read][1]" of the D&D 4th Edition Monster Manual
-and Monster Vault. I like that project! It's easy to write for and I have enough
-material on the backlog to keep going for weeks.
+been doing a series of extensive "Let's Read" projects of all the D&D 4th
+Edition Monster Manuals and the Neverwinter Campaign Setting. I like those
+project! They're easy to write for.
 
 However, since none of its posts are GURPS articles, they don't get into the
 feed and I don't announce them on the GURPS-only forums and social networks I
