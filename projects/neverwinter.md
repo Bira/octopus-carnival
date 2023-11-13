@@ -105,6 +105,28 @@ the Woods are a pretty eventful place.
 - [Xinlenal][46]
 - [Mount Hotenow][47]
 
+### Gauntlgrym
+
+The lost dwarven capital is no myth. Its dangers are very real.
+
+- [Part 1][48]
+- [Part 2][49]
+
+### Evernight
+
+Neverwinter's counterpart in the Shadowfell is central to the plots of both Thay
+and Netheril.
+
+- [Part 1][50]
+- [Part 2][51]
+- [Beyond Evernight][52]
+
+### Thay
+
+Player characters might find themselves having to visit Thay in order to stop
+the Red Wizards' evil plans in Neverwinter.
+
+- [Overview][53]
 
 [0]: /octopus-carnival/2023/04/23/neverwinter.html
 [1]: /octopus-carnival/2023/04/24/neverwinter-chapter-01.html
@@ -159,3 +181,4 @@ the Woods are a pretty eventful place.
 [50]: /octopus-carnival/2023/10/23/neverwinter-evernight.html
 [51]: /octopus-carnival/2023/10/25/neverwinter-evernight-02.html
 [52]: /octopus-carnival/2023/11/08/neverwinter-beyond-evernight.html
+[52]: /octopus-carnival/2023/11/13/neverwinter-thay.html
