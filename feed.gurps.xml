@@ -5,9 +5,256 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2023 17:24:09 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2023 17:24:09 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 22:31:27 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 22:31:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon: Neon City Overdrive</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/nco-cover.png&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Neon City Overdrive is a game written by Nathan Russel and published by Peril
+Planet Game Studio in 2020. This is the smallest core book of all the ones we’ve
+seen so far at 72 pages.&lt;/p&gt;
+
+&lt;p&gt;We’ll also be looking at a supplement named The Grid, which focuses on hacking
+and has another 60 pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;Most of those 132 pages are dedicated to the setting and to a set of adventure
+seeds, both of which are largely based on &lt;em&gt;vibes&lt;/em&gt; instead of relying on
+laboriously crafted timelines or detailed maps. This is the game of stylish
+cyberpunks running dangerous jobs in a neon-lit sprawl. The reader is expected
+to take it from there to add details as needed.&lt;/p&gt;
+
+&lt;p&gt;The setting as provided is just a basic sketch. The game takes place in The
+City, which is divided into dense residential and commercial zones called
+Metroplexes, equally dense hellish industrial blocks named Grinders, and the
+Streets that flow in between. The City and the world it’s in are covered by the
+Grid, a global computer network where nearly every device that can be described
+as “electronic” or “computerized” has a presence.&lt;/p&gt;
+
+&lt;p&gt;The Grid gets a somewhat more detailed description because I’m using material
+from the supplement here. Like the physical world it has several components. The
+Signal lets all those devices connect to the Grid. It’s maintained by an army of
+antennas, and repeater drones. The devices attuned to the Signal generate The
+Overlay, which is projected into the physical world as a combination of
+holograms and augmented reality. Most devices have an augmented reality
+interface instead of physical controls, and most signage exists in the Overlay
+only. Hubs are big static computers. Some of them help route and maintain the
+Signal and the Overlay, or host public virtual environments, but others are
+private servers used by the sort of organization your cyberpunks need to hack.&lt;/p&gt;
+
+&lt;p&gt;You can use the grid through an interface that resembles a real-world smartphone
+or desktop browser, but it’s also possible to go into full immersion VR. This
+works as you’d expect if you’re familiar with the genre (and if you’ve read the
+other entries in this series, you are). We have our Gibsonian matrix here, with
+wireframe or low-poly graphics by default, but with specific hubs represented as
+more realistic environments. The more powerful the owner, the more realistic
+their hubs’ presentation.&lt;/p&gt;
+
+&lt;p&gt;A lot of social events happen entirely in the Grid’s virtual reality, from
+important business conferences to sport tournaments and nightclub
+gatherings. Virtual reality ensures they feel mostly like physical events. That
+sure would have been handy during our real world pandemic.&lt;/p&gt;
+
+&lt;p&gt;The downside is that “common” grid users are constantly monitored and
+tracked. Player characters and other dirty criminals have their ways of evading
+this, and despite the efforts of law enforcement agencies and corporate
+security, grid crime is very common and not going away any time soon.&lt;/p&gt;
+
+&lt;p&gt;When you go into VR, you emerge at the Local Area Zone corresponding to your
+physical location but can move to any other LAZ you can access with a
+thought. Movement within a LAZ is restricted to the sort of thing a real person
+would be able to do in the physical world, and the landscape reflects this. Want
+to go to a site in your LAZ? You need to walk. The book recognizes this is
+inconvenient. Some area zones are private, either disconnected from the public
+Grid entirely or separated from it by virtual gates that admit only those with
+the proper credentials. A skilled enough hacker might be able to break through a
+gate. Totally isolated networks can only be accessed by physically jacking into
+their hubs.&lt;/p&gt;
+
+&lt;p&gt;People can access the grid using wearable computers, which are cheap and widely
+available. Serious hackers (called &lt;em&gt;codeslingers&lt;/em&gt; here) have an implanted
+interface chip that has all the same functions and allows diving into VR as
+well. Those who can’t or won’t use implants can make do with a “Grid-box”, a VR
+helmet that also covers the mouth and nose. And both can further benefit from a
+sensory deprivation chamber if they’re &lt;em&gt;really&lt;/em&gt; serious.&lt;/p&gt;
+
+&lt;p&gt;This default presentation is subject to change, as GMs are encouraged to tweak
+the arrangement to get the right vibe they want. By tweaking the list of
+available technologies and how common they are you could get anything from
+mainframes-and-telephones with a chrome veneer to a Ghost in the Shell-like
+ubiquitous net where everyone has implanted computers.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;From what I understand the rules of Neon City Overdrive belong to the lineage of
+Forged in the Dark games. There are &lt;em&gt;no&lt;/em&gt; specific mechanics for the Grid here,
+not even if you use the supplement. Hacking uses the exact same mechanics as
+everything else.&lt;/p&gt;
+
+&lt;p&gt;Tests use six-sided dice. You start with one Action Die, and gain more for each
+factor in your character sheet or the story that helps you succeed, and a Danger
+Die for each factor that gets in the way. Then you roll the resulting pool. Each
+Danger Die cancels an Action Die that rolled the same value. You take the
+highest value rolled in the remaining Action Dice, and use it to determine the
+result. A 3 or less is a failure, a 4 or 5 is a partial success with a cost
+attached, and a 6 is a complete success. The book goes into a bit more detail
+than this, but we don’t need it for this article.&lt;/p&gt;
+
+&lt;p&gt;Narration and the fiction it creates are &lt;em&gt;supremely&lt;/em&gt; important because they’ll
+set the stakes for the roll and inform you of which positive and negative
+factors are in play to build your die pool. Players are the only ones who roll
+dice. Enemies and obstacles are a source of Danger Dice but the GM never needs
+to roll for them.&lt;/p&gt;
+
+&lt;p&gt;Hacking also uses those rules. The additional rules material in the Grid
+supplement is just a clarification that purely physical traits and tags don’t
+apply to tests made in the Grid, and Grid-specific ones don’t apply to the meat
+world. Can´t use your muscle grafts to hack the Gibson, can’t use your fancy
+programs to lift a car. Mental traits might apply to either “reality”, though.
+The book encourages focusing on the imagery of the simulation and making it as
+close to the physical world as possible, to make it easier for the group to
+describe actions without needing to know a lot about computers.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;We’re supposed to set the exact shape of our Grid when we play, so let’s say
+it’s more or less the same as Shadowrun 4th Edition’s. It’s not a pure mesh
+network, there’s cell tower hubs and such, but it’s close enough for our
+purposes.&lt;/p&gt;
+
+&lt;p&gt;Our hacker will be going along with the physical team. The target office’s Grid
+layout is the same as in the SR4 version. The physical location surely has its
+own set of tags but the one that affects us is that our good disguises give us
+the &lt;em&gt;element of surprise&lt;/em&gt;. Losing this might be one of the consequences for a
+hacking complication here. In a real game that’d affect the rest of the team
+too.&lt;/p&gt;
+
+&lt;h3 id=&quot;target-systems&quot;&gt;Target Systems&lt;/h3&gt;
+
+&lt;p&gt;We have an office intranet that’s connected to the general Grid through a
+firewall, which we bypass by being inside the office. Its security from the
+inside is &lt;em&gt;nothing special&lt;/em&gt; except that access to the bank accounts is
+&lt;em&gt;well-guarded&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The internal security wireless network covers the office but not connected to
+the outside. It’s &lt;em&gt;hardened against intrusion&lt;/em&gt; and has a piece of Blue ICE
+that will trigger at the first complication.&lt;/p&gt;
+
+&lt;p&gt;Our secret server in the records room with no wireless network at all. Our
+hacker must physically jack into it. It’s also &lt;em&gt;hardened&lt;/em&gt;, and has Black ICE
+constantly watching over it.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-hacker&quot;&gt;Our Hacker&lt;/h3&gt;
+
+&lt;h4 id=&quot;pixie-non-binary-human&quot;&gt;Pixie (non-binary human)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Trademarks and Edges&lt;/strong&gt;: Metroplexer, Codeslinger (Hacking, Cyber Combat),
+Infiltrator (Alarms, Locks)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flaws&lt;/strong&gt;: Greedy, Socially Awkward&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Interface Chip (Fast, Advanced), Icebreaker (Silent, Deadly), Stealth
+Program Suite (Mimetic, Subtle), something else non-hacking related.&lt;/p&gt;
+
+&lt;p&gt;Pixie is kinda min-maxed to fit our scenario, to be honest, with lots of traits
+that would apply to hacking. They’re a passable sneak in the physical world but
+not very good at physical combat and bad at social interaction. That’s what the
+rest of the team is for.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
+
+&lt;p&gt;Our team gets into the office as usual - we always assume this part works
+out. Pixie hides in the bathroom to find the security network and hack into it
+via VR.&lt;/p&gt;
+
+&lt;p&gt;I decide to roll the security server hack as an extended task, since those
+require three successes and we have three goals in here. Pixie decides to use
+Infiltrator instead of Codeslinger for this, since it is an infiltration of
+sorts and that’s where they put put their Alarms and Locks edges. I’m being
+lenient towards my player (who is also me) here. Those traits plus all other
+relevant tags give Pixie a total of seven action dice.&lt;/p&gt;
+
+&lt;p&gt;Pixie is opposed by a single danger die, from the server being Hardened, but
+that die rolls a six and eats the one I rolled on the action dice. They’re left
+with a 5 and a 4, which count as successes towards our goal but apply
+consequences as well. So I rule we lost our Element of Surprise and that the
+Blue ICE on the server activated.&lt;/p&gt;
+
+&lt;p&gt;I rule that the ICE hasn’t found Pixie yet, but it does get to add its relevant
+tags as danger dice on the next roll as it looks for them. Fortunately none of
+those roll a six and the action dice do, allowing Pixie to unlock the final door
+ahead of time. Tests from this point on are made using Codeslinger as expected,
+since they deal purely with stuff that lives in the computer.&lt;/p&gt;
+
+&lt;p&gt;We get to the secret server and I rule that the Black Ice in there is already
+active but will only spot Pixie as a consequence - they start out stealthy. The
+ICE however does get to add its Counter-Intrusion and Scary tags as danger dice
+even so. Fortunately its rolls are crap and Pixie gets a 6, finding and
+downloading the evidence.&lt;/p&gt;
+
+&lt;p&gt;Finally, let’s go for the money! This means the office network’s Well-Guarded
+tag becomes a danger die, but as before the ice only comes online as a
+consequence. We roll a 5 here, so it does come online, but not before we
+transfer the money.&lt;/p&gt;
+
+&lt;p&gt;The physical team proceeds to try to leave the office, but as usual we stop our
+simulation here since the main hacking bits are done.&lt;/p&gt;
+
+&lt;p&gt;Total elapsed time: 15 minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-analysis&quot;&gt;Run Analysis&lt;/h2&gt;
+
+&lt;p&gt;I love engaging with crunchy mechanics but narrative systems do have their
+advantages! 15 minutes is the fastest time we have so far, beating the “silent
+run” from SR 4th Edition by 2 minutes. And this only took so long because I have
+absolutely no experience with Neon City Overdrive and had to keep looking at the
+books.&lt;/p&gt;
+
+&lt;p&gt;It’s possible this run was too easy, but it’s okay because it’s inserted into
+the larger context of the physical break-in. Pixie would have plenty to do in
+that part of the run. I might have made a mistake here in simply having
+“unaware” ICE add some of its tags to the hacking roll. The system is abstract
+enough that I could have ruled slipping past the ICE undetected would require
+“fighting” it and filling its Harm boxes while describing it as a sneaking
+attempt. Whatever form it took in the narrative, combat would have made things
+take longer, but not by much.&lt;/p&gt;
+
+&lt;p&gt;The mechanical bits of the run would probably be much faster than the 50/90
+minutes I’ve been assuming here, but this would be offset in all cases by the
+extended narration and roleplaying the game demands to frame those mechanics and
+establish all the influencing factors for each roll.&lt;/p&gt;
+
+&lt;p&gt;Our experiment however does allow us to conclude the obvious: when you use the
+exact same simple resolution mechanic for everything, everyone has more or less
+the same spotlight time and the classic “Decker problem” won’t manifest.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        <category>neon-city-overdrive</category>
+        
+        
+      </item>
     
       <item>
         <title>Underwater Dungeon Fantasy 2: Items and Artifacts</title>
@@ -1783,171 +2030,6 @@ stronger, because everything would take more time and more rolls.&lt;/p&gt;
         <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/10/27/hackaton-sr1-2.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/27/hackaton-sr1-2.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackathon: Shadowrun 1st Edition Design Phase</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr1-cover.jpg&quot;/&gt;
-   &lt;figcaption&gt;
-     Our target system
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For this run we’ll be using the original edition of Shadowrun, published
-in 1989. I started with second edition, but that’s not a problem because I’m
-equally unfamiliar with both edition’s hacking systems!&lt;/p&gt;
-
-&lt;p&gt;The writing and setting and even the rules of these two early editions give me a
-sort of cozy nostalgic feeling when I read them, but these days I am well aware
-of all their issues, mechanical and otherwise.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;The setting’s global network is called the Matrix. Hackers are called Deckers
-because they use &lt;em&gt;cyberdecks&lt;/em&gt;, devices the about the size of a full 104-key
-keyboard that have cable jacks for connecting directly to the decker’s neural
-interface and to either a computer terminal or a communications line.&lt;/p&gt;
-
-&lt;p&gt;Using a cyberdeck to access the Matrix takes you to the full Gibsonian VR
-Dungeon experience, where you zip through the infinite grid of the Matrix and
-then crawl through the low-poly simulated environments of a server, treating its
-security programs as monsters and its data as loot.&lt;/p&gt;
-
-&lt;p&gt;Beneath the chrome flash, we’re dealing with classic mainframes from the
-Eighties. The Matrix isn’t the Internet, it’s the global phone grid. You access
-your target mainframe by connecting to the phone grid yourself and dialing the
-number of the mainframe’s modem. There are even rules for making long-distance
-and international calls. Mainframe numbers are usually unlisted, but can be
-found with diligent research by deckers or provided by whoever’s hiring them for
-the run.&lt;/p&gt;
-
-&lt;p&gt;A cyberdeck is distinctly different from a mere “computer”, crammed full of
-specialized electronics that allow it to be used for operating in VR and hacking
-mainframes. Personal computers don’t do really do much other than letting you
-store and view data files, and perhaps acting as dumb terminals to mainframes.&lt;/p&gt;
-
-&lt;p&gt;Cyberdecks cost a fortune! The one used by the sample starting characters in the
-book costs more than a sports car. The most expensive one is about twice the
-price of a fighter jet. And that’s just for the base hardware. If you want your
-deck to be truly tubular, you’re probably going to spend around twice its base
-price on software and optional extras. Deckers tend to be highly specialized at
-character creation because they need to spend most of their points on money and
-most of their money on a deck - there isn’t any “room” to be anything else.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;A mainframe is composed of a set of Nodes representing its different parts,
-connected by Data Lines. The end result is a lot like a dungeon with rooms and
-corridors.&lt;/p&gt;
-
-&lt;p&gt;Each node allows users to perform a different set of System Operations related
-to its function. Authorized users can do this automatically. Our decker must
-perform a Computer skill test to beat the node’s Security Rating, a color and
-number combination that gives you both the difficulty of the roll and how many
-successes you need. If you fail at performing a system operation, you might
-trigger an alert.&lt;/p&gt;
-
-&lt;p&gt;Deckers can also run Utility Programs, which do things not listed in the system
-operations menu. There are four program categories, and each has a slightly
-different procedure that’s some variation of rolling the program rating against
-the node’s security. Some programs degrade, losing effectiveness each time
-they’re used. This resets when the decker jacks out. Failing at using a program
-doesn’t raise an alert, but might trigger IC.&lt;/p&gt;
-
-&lt;p&gt;The game is very concerned about how large programs are because there are rules
-for loading them from disk to RAM and managing your free memory. Not having
-enough RAM to run all you need at once is the quintessential 80s computing
-experience after all.&lt;/p&gt;
-
-&lt;p&gt;All Computer skill tests and Utility Programs can benefit from the decker’s
-Hacking Pool, which is equal to the sum of their Computer Skill and Reaction
-attribute, modified by stuff that increases Reaction. Like other dice pools in
-this system, it refreshes at the start of every action. You can allocate dice
-from it to benefit any Computer or Program tests while in the Matrix.&lt;/p&gt;
-
-&lt;p&gt;If you want to use a program you don’t have, you can improvise a single-use
-script version of it with your Hacking Pool. You can only improvise a degrading
-program once per Matrix run, but if I understand the book correctly you can
-improvise non-degrading programs multiple times. I’m interpreting the rules to
-mean that an improvised program must be used in the same action, otherwise there
-would be little reason to buy any programs.&lt;/p&gt;
-
-&lt;p&gt;Most nodes are going to have some IC (Intrusion Countermeasures, “ice”) in
-them. The mere presence of IC stops deckers from performing system operations or
-moving past the node, and they must either destroy or fool the IC before they
-can do these things. Most ice only triggers when it beats you in the opposed
-test to fool it. If you beat it but fail to beat the node’s base security, they
-remain inactive and still block your progress. Subsequent attempts are harder,
-increasing your chances of triggering the ice. Attacking IC directly also
-triggers it, of course.&lt;/p&gt;
-
-&lt;p&gt;White ice is completely passive. It tries to raise an alarm but you can block it
-with your Hacking Pool. Grey ice additionally tries to trace you or attack your
-deck. Black Ice attacks the &lt;em&gt;decker&lt;/em&gt; directly, and might kill them. There’s a
-little bestiary of different types within each category.&lt;/p&gt;
-
-&lt;p&gt;Matrix turns happen at the same speed as physical combat turns, using the same
-initiative rules. Both types of turn last around 3 seconds.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;In the Shadowrun 1st Edition version of our run, our decker is going to be
-remote, and we will assume the team discovered the mainframe’s unlisted phone
-number during their prep phase. I’m going to take a couple of shortcuts here
-because those are available to me.&lt;/p&gt;
-
-&lt;p&gt;For our decker, we’ll be using the &lt;strong&gt;Decker Archetype&lt;/strong&gt; from the SR1
-corebook. She has Computer 6, the Fuchi-4 deck with a decent spread of mods and
-programs, and a hacking pool of 15. I’m going to cheat a little bit and replace
-her Deception 4 utility with Sleaze 4, because from what I understood of the
-system there is no reason to ever take Deception when you can take Sleaze
-instead. Let’s assume she has one run under her belt and used the payout from
-that to upgrade her software a bit. Even with Sleaze’s larger size she can still
-fit all her programs in RAM at once.&lt;/p&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackaton-sr1-system.png&quot;/&gt;
-   &lt;figcaption&gt;
-     Our target system
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For our target system, we’ll be using the one from page 55 of the &lt;strong&gt;Mercurial&lt;/strong&gt;
-adventure. Here’s a list of the ICE present in the system:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Node 1: Trace and Dump-4.&lt;/li&gt;
-  &lt;li&gt;Node 2 Access-6.&lt;/li&gt;
-  &lt;li&gt;Node 3: Barrier-3.&lt;/li&gt;
-  &lt;li&gt;Node 4: no ICE.&lt;/li&gt;
-  &lt;li&gt;Node 5: no ICE.&lt;/li&gt;
-  &lt;li&gt;Node 6: Killer-4.&lt;/li&gt;
-  &lt;li&gt;Node 7: Access-5&lt;/li&gt;
-  &lt;li&gt;Node 8: Black Ice-5.&lt;/li&gt;
-  &lt;li&gt;Node 9: Trace and Burn-6, Black Ice-4.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Node 4 will be connected to our security camera, Node 5 to the alarm and
-door. Node 8 will contain the evidence we seek, and the CPU at Node 9 is where
-we can drain their accounts because that’s how it is in the original
-adventure. The other data store at Node 7 has nothing of value to our runners.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Oct 2023 19:30:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/26/hackaton-sr1-1.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/26/hackaton-sr1-1.html</guid>
         
         <category>shadowrun</category>
         

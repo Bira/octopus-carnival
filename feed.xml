@@ -6,9 +6,256 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Nov 2023 17:24:09 +0000</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2023 17:24:09 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2023 22:31:27 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2023 22:31:27 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>The Great Tabletop Hackathon: Neon City Overdrive</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/nco-cover.png&quot;/&gt;
+   &lt;figcaption&gt;
+     Shadowrun 20th Anniversary's cover.
+   &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Neon City Overdrive is a game written by Nathan Russel and published by Peril
+Planet Game Studio in 2020. This is the smallest core book of all the ones we’ve
+seen so far at 72 pages.&lt;/p&gt;
+
+&lt;p&gt;We’ll also be looking at a supplement named The Grid, which focuses on hacking
+and has another 60 pages.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
+
+&lt;p&gt;Most of those 132 pages are dedicated to the setting and to a set of adventure
+seeds, both of which are largely based on &lt;em&gt;vibes&lt;/em&gt; instead of relying on
+laboriously crafted timelines or detailed maps. This is the game of stylish
+cyberpunks running dangerous jobs in a neon-lit sprawl. The reader is expected
+to take it from there to add details as needed.&lt;/p&gt;
+
+&lt;p&gt;The setting as provided is just a basic sketch. The game takes place in The
+City, which is divided into dense residential and commercial zones called
+Metroplexes, equally dense hellish industrial blocks named Grinders, and the
+Streets that flow in between. The City and the world it’s in are covered by the
+Grid, a global computer network where nearly every device that can be described
+as “electronic” or “computerized” has a presence.&lt;/p&gt;
+
+&lt;p&gt;The Grid gets a somewhat more detailed description because I’m using material
+from the supplement here. Like the physical world it has several components. The
+Signal lets all those devices connect to the Grid. It’s maintained by an army of
+antennas, and repeater drones. The devices attuned to the Signal generate The
+Overlay, which is projected into the physical world as a combination of
+holograms and augmented reality. Most devices have an augmented reality
+interface instead of physical controls, and most signage exists in the Overlay
+only. Hubs are big static computers. Some of them help route and maintain the
+Signal and the Overlay, or host public virtual environments, but others are
+private servers used by the sort of organization your cyberpunks need to hack.&lt;/p&gt;
+
+&lt;p&gt;You can use the grid through an interface that resembles a real-world smartphone
+or desktop browser, but it’s also possible to go into full immersion VR. This
+works as you’d expect if you’re familiar with the genre (and if you’ve read the
+other entries in this series, you are). We have our Gibsonian matrix here, with
+wireframe or low-poly graphics by default, but with specific hubs represented as
+more realistic environments. The more powerful the owner, the more realistic
+their hubs’ presentation.&lt;/p&gt;
+
+&lt;p&gt;A lot of social events happen entirely in the Grid’s virtual reality, from
+important business conferences to sport tournaments and nightclub
+gatherings. Virtual reality ensures they feel mostly like physical events. That
+sure would have been handy during our real world pandemic.&lt;/p&gt;
+
+&lt;p&gt;The downside is that “common” grid users are constantly monitored and
+tracked. Player characters and other dirty criminals have their ways of evading
+this, and despite the efforts of law enforcement agencies and corporate
+security, grid crime is very common and not going away any time soon.&lt;/p&gt;
+
+&lt;p&gt;When you go into VR, you emerge at the Local Area Zone corresponding to your
+physical location but can move to any other LAZ you can access with a
+thought. Movement within a LAZ is restricted to the sort of thing a real person
+would be able to do in the physical world, and the landscape reflects this. Want
+to go to a site in your LAZ? You need to walk. The book recognizes this is
+inconvenient. Some area zones are private, either disconnected from the public
+Grid entirely or separated from it by virtual gates that admit only those with
+the proper credentials. A skilled enough hacker might be able to break through a
+gate. Totally isolated networks can only be accessed by physically jacking into
+their hubs.&lt;/p&gt;
+
+&lt;p&gt;People can access the grid using wearable computers, which are cheap and widely
+available. Serious hackers (called &lt;em&gt;codeslingers&lt;/em&gt; here) have an implanted
+interface chip that has all the same functions and allows diving into VR as
+well. Those who can’t or won’t use implants can make do with a “Grid-box”, a VR
+helmet that also covers the mouth and nose. And both can further benefit from a
+sensory deprivation chamber if they’re &lt;em&gt;really&lt;/em&gt; serious.&lt;/p&gt;
+
+&lt;p&gt;This default presentation is subject to change, as GMs are encouraged to tweak
+the arrangement to get the right vibe they want. By tweaking the list of
+available technologies and how common they are you could get anything from
+mainframes-and-telephones with a chrome veneer to a Ghost in the Shell-like
+ubiquitous net where everyone has implanted computers.&lt;/p&gt;
+
+&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
+
+&lt;p&gt;From what I understand the rules of Neon City Overdrive belong to the lineage of
+Forged in the Dark games. There are &lt;em&gt;no&lt;/em&gt; specific mechanics for the Grid here,
+not even if you use the supplement. Hacking uses the exact same mechanics as
+everything else.&lt;/p&gt;
+
+&lt;p&gt;Tests use six-sided dice. You start with one Action Die, and gain more for each
+factor in your character sheet or the story that helps you succeed, and a Danger
+Die for each factor that gets in the way. Then you roll the resulting pool. Each
+Danger Die cancels an Action Die that rolled the same value. You take the
+highest value rolled in the remaining Action Dice, and use it to determine the
+result. A 3 or less is a failure, a 4 or 5 is a partial success with a cost
+attached, and a 6 is a complete success. The book goes into a bit more detail
+than this, but we don’t need it for this article.&lt;/p&gt;
+
+&lt;p&gt;Narration and the fiction it creates are &lt;em&gt;supremely&lt;/em&gt; important because they’ll
+set the stakes for the roll and inform you of which positive and negative
+factors are in play to build your die pool. Players are the only ones who roll
+dice. Enemies and obstacles are a source of Danger Dice but the GM never needs
+to roll for them.&lt;/p&gt;
+
+&lt;p&gt;Hacking also uses those rules. The additional rules material in the Grid
+supplement is just a clarification that purely physical traits and tags don’t
+apply to tests made in the Grid, and Grid-specific ones don’t apply to the meat
+world. Can´t use your muscle grafts to hack the Gibson, can’t use your fancy
+programs to lift a car. Mental traits might apply to either “reality”, though.
+The book encourages focusing on the imagery of the simulation and making it as
+close to the physical world as possible, to make it easier for the group to
+describe actions without needing to know a lot about computers.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
+
+&lt;p&gt;We’re supposed to set the exact shape of our Grid when we play, so let’s say
+it’s more or less the same as Shadowrun 4th Edition’s. It’s not a pure mesh
+network, there’s cell tower hubs and such, but it’s close enough for our
+purposes.&lt;/p&gt;
+
+&lt;p&gt;Our hacker will be going along with the physical team. The target office’s Grid
+layout is the same as in the SR4 version. The physical location surely has its
+own set of tags but the one that affects us is that our good disguises give us
+the &lt;em&gt;element of surprise&lt;/em&gt;. Losing this might be one of the consequences for a
+hacking complication here. In a real game that’d affect the rest of the team
+too.&lt;/p&gt;
+
+&lt;h3 id=&quot;target-systems&quot;&gt;Target Systems&lt;/h3&gt;
+
+&lt;p&gt;We have an office intranet that’s connected to the general Grid through a
+firewall, which we bypass by being inside the office. Its security from the
+inside is &lt;em&gt;nothing special&lt;/em&gt; except that access to the bank accounts is
+&lt;em&gt;well-guarded&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The internal security wireless network covers the office but not connected to
+the outside. It’s &lt;em&gt;hardened against intrusion&lt;/em&gt; and has a piece of Blue ICE
+that will trigger at the first complication.&lt;/p&gt;
+
+&lt;p&gt;Our secret server in the records room with no wireless network at all. Our
+hacker must physically jack into it. It’s also &lt;em&gt;hardened&lt;/em&gt;, and has Black ICE
+constantly watching over it.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-hacker&quot;&gt;Our Hacker&lt;/h3&gt;
+
+&lt;h4 id=&quot;pixie-non-binary-human&quot;&gt;Pixie (non-binary human)&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Trademarks and Edges&lt;/strong&gt;: Metroplexer, Codeslinger (Hacking, Cyber Combat),
+Infiltrator (Alarms, Locks)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flaws&lt;/strong&gt;: Greedy, Socially Awkward&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Interface Chip (Fast, Advanced), Icebreaker (Silent, Deadly), Stealth
+Program Suite (Mimetic, Subtle), something else non-hacking related.&lt;/p&gt;
+
+&lt;p&gt;Pixie is kinda min-maxed to fit our scenario, to be honest, with lots of traits
+that would apply to hacking. They’re a passable sneak in the physical world but
+not very good at physical combat and bad at social interaction. That’s what the
+rest of the team is for.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
+
+&lt;p&gt;Our team gets into the office as usual - we always assume this part works
+out. Pixie hides in the bathroom to find the security network and hack into it
+via VR.&lt;/p&gt;
+
+&lt;p&gt;I decide to roll the security server hack as an extended task, since those
+require three successes and we have three goals in here. Pixie decides to use
+Infiltrator instead of Codeslinger for this, since it is an infiltration of
+sorts and that’s where they put put their Alarms and Locks edges. I’m being
+lenient towards my player (who is also me) here. Those traits plus all other
+relevant tags give Pixie a total of seven action dice.&lt;/p&gt;
+
+&lt;p&gt;Pixie is opposed by a single danger die, from the server being Hardened, but
+that die rolls a six and eats the one I rolled on the action dice. They’re left
+with a 5 and a 4, which count as successes towards our goal but apply
+consequences as well. So I rule we lost our Element of Surprise and that the
+Blue ICE on the server activated.&lt;/p&gt;
+
+&lt;p&gt;I rule that the ICE hasn’t found Pixie yet, but it does get to add its relevant
+tags as danger dice on the next roll as it looks for them. Fortunately none of
+those roll a six and the action dice do, allowing Pixie to unlock the final door
+ahead of time. Tests from this point on are made using Codeslinger as expected,
+since they deal purely with stuff that lives in the computer.&lt;/p&gt;
+
+&lt;p&gt;We get to the secret server and I rule that the Black Ice in there is already
+active but will only spot Pixie as a consequence - they start out stealthy. The
+ICE however does get to add its Counter-Intrusion and Scary tags as danger dice
+even so. Fortunately its rolls are crap and Pixie gets a 6, finding and
+downloading the evidence.&lt;/p&gt;
+
+&lt;p&gt;Finally, let’s go for the money! This means the office network’s Well-Guarded
+tag becomes a danger die, but as before the ice only comes online as a
+consequence. We roll a 5 here, so it does come online, but not before we
+transfer the money.&lt;/p&gt;
+
+&lt;p&gt;The physical team proceeds to try to leave the office, but as usual we stop our
+simulation here since the main hacking bits are done.&lt;/p&gt;
+
+&lt;p&gt;Total elapsed time: 15 minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;run-analysis&quot;&gt;Run Analysis&lt;/h2&gt;
+
+&lt;p&gt;I love engaging with crunchy mechanics but narrative systems do have their
+advantages! 15 minutes is the fastest time we have so far, beating the “silent
+run” from SR 4th Edition by 2 minutes. And this only took so long because I have
+absolutely no experience with Neon City Overdrive and had to keep looking at the
+books.&lt;/p&gt;
+
+&lt;p&gt;It’s possible this run was too easy, but it’s okay because it’s inserted into
+the larger context of the physical break-in. Pixie would have plenty to do in
+that part of the run. I might have made a mistake here in simply having
+“unaware” ICE add some of its tags to the hacking roll. The system is abstract
+enough that I could have ruled slipping past the ICE undetected would require
+“fighting” it and filling its Harm boxes while describing it as a sneaking
+attempt. Whatever form it took in the narrative, combat would have made things
+take longer, but not by much.&lt;/p&gt;
+
+&lt;p&gt;The mechanical bits of the run would probably be much faster than the 50/90
+minutes I’ve been assuming here, but this would be offset in all cases by the
+extended narration and roleplaying the game demands to frame those mechanics and
+establish all the influencing factors for each roll.&lt;/p&gt;
+
+&lt;p&gt;Our experiment however does allow us to conclude the obvious: when you use the
+exact same simple resolution mechanic for everything, everyone has more or less
+the same spotlight time and the classic “Decker problem” won’t manifest.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</guid>
+        
+        <category>shadowrun</category>
+        
+        <category>cyberpunk-red</category>
+        
+        <category>gurps</category>
+        
+        <category>cyberpunk</category>
+        
+        <category>hard-wired-island</category>
+        
+        <category>neon-city-overdrive</category>
+        
+        
+      </item>
     
       <item>
         <title>Underwater Dungeon Fantasy 2: Items and Artifacts</title>
@@ -1541,291 +1788,6 @@ illegal for the target to possess. It has only security and admin accounts.&lt;/
         <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/10/30/hackaton-sr4-1.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/30/hackaton-sr4-1.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackaton: Cyberpunk 2020</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp2020-cover.jpg&quot;
-        alt=&quot;The cover of Cyberpunk 2020&quot;/&gt;
-   &lt;figcaption&gt;
-     I used to think this guy on the cover was so cool.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For this post, we’ll be using Cyberpunk 2020 Version 2.01, published in 1993 if
-I understood the copyright notice correctly. The original edition of Cyberpunk
-was from 1988. Cyberpunk 2020 came out in 1990, and this version only adds minor
-corrections on top of that. I’m given to understand the rules themselves didn’t
-change much from the original edition.&lt;/p&gt;
-
-&lt;p&gt;I used to own a physical copy of this corebook back when I was a teenager, so I
-also get a bit of cozy nostalgia for looking at the PDF of it now, but I would
-definitely not play it as written today.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;The setting’s global network is called the Net, or sometimes the NET in all
-caps. I’ve heard claims that it doesn’t take inspiration from Neuromancer, but
-the description I’m reading here leans as much into Neuromancer imagery as
-Shadowrun’s.&lt;/p&gt;
-
-&lt;p&gt;Hacker characters are called Netrunners, and they use devices called cyberdecks
-that range from the size of a desktop workstation to the size of a paperback
-book, with a lot of plugs for neural interfaces and data lines but no built-in
-keyboard or monitor. Decks all have the same starting stats, but smaller and
-more portable models are more expensive. The most expensive deck is the only one
-that has a built-in cellular modem. All the others need to jack into landlines
-or directly into target devices.&lt;/p&gt;
-
-&lt;p&gt;The most expensive decks are cheaper than a subcompact car, and they get much
-more affordable if you give up that cellular modem. However netrunners are still
-a specialized niche because Cyberpunk 2020 is a class-based system. Netrunner is
-a specific class (or “Role”), and only they get the Interface skill that’s used
-for hacking.&lt;/p&gt;
-
-&lt;p&gt;While Shadowrun’s Matrix uses mainframes as the “backing” for its sci-fi chrome
-flash, behind CP 2020’s flash is yet more flash with a dash of space magic. The
-overall Net still works kinda like a phone grid, but the book works very hard to
-make the reader see it as, effectively, a parallel dimension. Back in 2014 some
-researchers effectively cast a spell over the telecom grid and turned it into a
-“conceptual space” where each phone line and connected device is located in a
-point analogous to its physical location. When you connect to the Net you form
-an “ICON” (all caps) representing yourself at the point of entry, and accessing
-other servers means making that ICON actually travel the distance between its
-entry point and the destination. If you’re in Night City and your destination is
-in Japan, there’s no way to reach it except hopping into a Long Distance Link
-and flying over the entire Pacific Ocean.&lt;/p&gt;
-
-&lt;p&gt;There are serious musings about how the “empty space” you fly over while
-traversing these links is teeming with unindentified greeblies because every
-computer is on the Net by simply being turned on. If it doesn’t have a
-connection, it’s still on the Net, it’s just unreachable from the telecom
-grid. Adding new connected systems “physically increases” the size of the Net,
-and you could extend it to space by launching a server in a spaceship.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;There is a lot of talk about local and regional telecom grids, much like in
-Shadowrun, and a big emphasis on paying your phone bill for your home landline
-or cellular modem, because CP 2020 never loses an opportunity to joke about
-militarized debt collection squads.&lt;/p&gt;
-
-&lt;p&gt;The main reasons to run the Net are to provide support to a physical team, and
-to recover data from a target server. We can surprisingly already see the image
-of the netrunner who stays together with their team here and hacks a series of
-remotely controlled devices, doing stuff like controlling robot cars or opening
-doors without having to do a full run. However only some PCs will be able to do
-this out of the gate, since they might not have the cash for that cellular
-portable deck. Oh, and this is an 80s cell, so moving too fast will break your
-link. No 5G for you!&lt;/p&gt;
-
-&lt;p&gt;For those who can, there’s a series of control programs designed for different
-types of device. Anything that can be described as “computer controlled” can be
-hacked this way if the PC has the appropriate program, since due to SPACE MAGIC,
-everything computerized is automatically in the Net. There are also programs for
-remaining hidden, getting past barriers, and attacking both other programs and
-other people. Everyone is going to want these even if they’re using a desktop.&lt;/p&gt;
-
-&lt;p&gt;The netrunner’s Interface class skill is required to run the Net at all, but is
-not used for all netrunning tasks. Its main use is in combat against security
-programs (IC, “ice”) or other netrunners. Due to the way the character creation
-system works it also determines your starting money.&lt;/p&gt;
-
-&lt;p&gt;The kind of server you expect a netrunner to hack is called a Data Fortress. It
-vaguely resembles a mainframe, but as the name implies it goes all in on the VR
-Dungeon aesthetic, even harder than Shadowrun did. You’re not moving through an
-abstract representation of a mainframe, you’re crawling an actual dungeon-like
-structure drawn on a 10x10 square grid. It has walls, gates, and security
-programs acting like wandering monsters, and memory banks that work like
-treasure chests. They have CPUs that act like brains, and give them an INT score
-and possibly skills that are useful both in its day-to-day operations and when
-fighting netrunners.  A Fortress with an INT of 12 or higher (which requires 4
-CPUs) is a sapient AI and has a personality.&lt;/p&gt;
-
-&lt;p&gt;Security programs are drawn from the same master list as netrunner
-programs. You place them like monsters in the dungeon.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;Sadly CP 2020 does not include sample characters, so we have to create
-one. We’ll also need to create our target system, because the example there is a
-bit too high level for us.&lt;/p&gt;
-
-&lt;h3 id=&quot;our-netrunner-g0blin&quot;&gt;Our Netrunner: G0blin&lt;/h3&gt;
-
-&lt;p&gt;So called because of his looks, he prefers to work from home.&lt;/p&gt;
-
-&lt;p&gt;I’m using &lt;a href=&quot;/octopus-carnival/2023/10/23/on-cyberpsychosis.html&quot;&gt;my Cyberware Capacity rules&lt;/a&gt; instead of Humanity, but that’s the only
-tweak I did here. I lucked out on the starting stat and cash rolls and decided
-to optimize my money by getting a desktop with expanded memory instead of a
-portable deck.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;INT&lt;/strong&gt; 10 &lt;strong&gt;REF&lt;/strong&gt; 9 &lt;strong&gt;TECH&lt;/strong&gt; 7 &lt;strong&gt;LUCK&lt;/strong&gt; 6
-&lt;strong&gt;EMP&lt;/strong&gt; 6  &lt;strong&gt;MA&lt;/strong&gt; 5  &lt;strong&gt;COOL&lt;/strong&gt; 4 &lt;strong&gt;BODY&lt;/strong&gt; 4
-&lt;strong&gt;ATTR&lt;/strong&gt; 3&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cyberware Capacity&lt;/strong&gt;: 11/40.&lt;/p&gt;
-
-&lt;h4 id=&quot;career-skills&quot;&gt;Career Skills&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Interface - 8&lt;/li&gt;
-  &lt;li&gt;Awareness/Notice - 5&lt;/li&gt;
-  &lt;li&gt;Basic Tech - 4&lt;/li&gt;
-  &lt;li&gt;Education - 3&lt;/li&gt;
-  &lt;li&gt;System Knowledge - 4&lt;/li&gt;
-  &lt;li&gt;CyberTech - 2&lt;/li&gt;
-  &lt;li&gt;Cyberdeck Design - 4&lt;/li&gt;
-  &lt;li&gt;Composition - 1&lt;/li&gt;
-  &lt;li&gt;Electronics - 4&lt;/li&gt;
-  &lt;li&gt;Programming - 5&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;pickup-skills&quot;&gt;Pickup Skills&lt;/h3&gt;
-
-&lt;p&gt;Handguns 6, Stealth 6, Persuasion 1&lt;/p&gt;
-
-&lt;h4 id=&quot;cyberware&quot;&gt;Cyberware&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Neural Processor (1k, CC 6),&lt;/li&gt;
-  &lt;li&gt;Cybermodem Link (100, CC 1),&lt;/li&gt;
-  &lt;li&gt;Interface Plugs (200, CC 4)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Desktop deck (20 MU, Speed 0, Data Wall 2, 6k)
-    &lt;ul&gt;
-      &lt;li&gt;Killer 6 (STR 6, 5 MU, 1480 eb),&lt;/li&gt;
-      &lt;li&gt;Stealth (STR 4, 3 MU, 480)&lt;/li&gt;
-      &lt;li&gt;Wizard’s Book (STR 6, 2 MU, 400 eb)&lt;/li&gt;
-      &lt;li&gt;Crystal Ball (STR 4, 1 MU, 140 eb)&lt;/li&gt;
-      &lt;li&gt;Genie (STR 5, 1 MU, 150 eb)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;our-system&quot;&gt;Our System&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hackaton-cp2020-system.png&quot;/&gt;
-   &lt;figcaption&gt;
-     Our target system
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;By following the rules in the CP2020 core book, and with a little help from its
-random generation system, I came up with the Data Fortress depicted above.&lt;/p&gt;
-
-&lt;p&gt;Here’s the key to the numbers and symbols in the file:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;1: Watchdog&lt;/li&gt;
-  &lt;li&gt;2: Bloodhound&lt;/li&gt;
-  &lt;li&gt;3: Stun&lt;/li&gt;
-  &lt;li&gt;4: Knockout&lt;/li&gt;
-  &lt;li&gt;M*: Financial File, where the money is.&lt;/li&gt;
-  &lt;li&gt;M**: Grey Ops file, where the evidence is.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That Knockout was a originally a Hellhound, but I thought that might be a bit
-excessive since the book keeps describing it as the scariest thing ever, only
-employed by the richest and nastiest corporations. Still, there’s not much
-difference for us, as one hit from the Knockout will still ensure a mission
-failure.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
-
-&lt;p&gt;G0blin arrived from the left side of the screen. The Watchdog next to the gate
-spotted him when he got close despite the running Stealth program. He destroyed
-it with one attack, and then proceeded to crack the gate. Inside, he first went
-right to the remotes and got spotted by another Watchdog. As before, he won
-initiative and destroyed it with one attack.&lt;/p&gt;
-
-&lt;p&gt;Then he moved down, clipping through the CPU. He managed to stay hidden from
-both the Bloodhound and the much more dangerous Stun, bushwhacking them with
-sneak attacks. He examined the data stores there and drained the company’s
-accounts.&lt;/p&gt;
-
-&lt;p&gt;Then he went into the little corner room for the final leg of the mission. The
-Knockout program didn’t spot him at first, but also didn’t go down with the
-sneak attack. They went to initiative, G0blin won, and finished the program
-off. This left him free to finish the mission, as both the door and evidence
-were right there.&lt;/p&gt;
-
-&lt;p&gt;The run succeeded and took a total of around 21 game turns and 32 minutes of
-real time.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
-
-&lt;p&gt;I found this less enjoyable than Shadowrun’s system, I guess, but it’s mostly
-because of me. I’m not a big fan of how this game views the Net, or of how much
-a net run resembles a roguelike dungeon crawl. Nevertheless it &lt;em&gt;was&lt;/em&gt; faster.&lt;/p&gt;
-
-&lt;p&gt;I do wonder if the quick runtime might have been because this host was too
-easy. How would it have gone if I used the Militech regional office that comes
-as an example as my system for this run? Or maybe I got something wrong when
-designing the fortress or running the session?&lt;/p&gt;
-
-&lt;p&gt;Let’s assume I got things right and the physical team takes the same amount of
-time from the SR1 post to do their part (50 minutes for a perfectly stealthy run
-or 90 for one with a firefight). This means the hacker takes up anywhere from a
-third to half the session. That’s still more than the theoretic “ideal” ratio of
-25%, but perhaps it could be alleviated with a bit of proper scene management.&lt;/p&gt;
-
-&lt;p&gt;As far as VR dungeon crawls go, CP 2020’s are much more like brutal raids than
-Shadowrun’s careful sneaking missions. Non-combat programs add only their
-Strength to the d10 roll, while attacks and defenses use the netrunner’s INT and
-Interface skill as well. Attacks are also much more devastating, since most
-programs have a Strength of less than 6, and that 1d6 damage Killer programs do
-reduces Strength directly. Even if the target survives, it’s greatly weakened.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, if any of those anti-personnel programs had managed to act
-and hit our runner, they’d instantly be put out of commission and the mission
-would fail. That’s another way in which it resembles a roguelike: the key to
-victory is to bump the monster before the monster bumps you.&lt;/p&gt;
-
-&lt;p&gt;There were several things that were unclear to me here:&lt;/p&gt;
-
-&lt;p&gt;Do detection rolls happen only once, or do they happen every turn? I went with
-“every turn”, and this ended up making things more violent. Most ICE that
-initially missed G0blin ended up spotting him on the second roll and forcing him
-to enter combat.&lt;/p&gt;
-
-&lt;p&gt;Do you need control programs to operate those remote icons from a data fortress?
-I went with “no” despite buying a couple of those for G0blin, because the
-examples were all about netrunners controlling physical objects close to them
-from meatspace. If I had went with “yes”, it would only have increased the
-amount of turns the run took by a bit, since G0blin only tried to control these
-remotes when all neighboring ICE had been killed.&lt;/p&gt;
-
-&lt;p&gt;I also didn’t know what happened when a Watchdog spotted G0blin. Text said it
-“alerts its owner”, but does that happen immediately or does the dog have to run
-to where the owner is? I judged the program had to travel to the owner since the
-setting places so much emphasis on the “physicality” of the Net. That would be
-the terminal icon here in our map, but no dog ever made it there. If any had, we
-might have seen an enemy netrunner here and the run would have perhaps been
-harder.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/28/hackaton-cp2020.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/28/hackaton-cp2020.html</guid>
         
         <category>shadowrun</category>
         
