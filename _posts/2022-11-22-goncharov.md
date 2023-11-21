@@ -15,9 +15,9 @@ and edited by someone not too familiar with the target language. In this case,
 it was copied from a poster for Gomorrah, a real movie. And it read "Martin
 Scorcese presents Goncharov".
 
-Tumblr [kinda ran with it][1], so now you have a lot of people making things up about
-the movie and fabricating screenshots, posters, bits of soundtrack, talking
-about all of this as if it was a real cinematic masterpiece.
+Tumblr [kinda ran with it][1], so now you have a lot of people making things up
+about the movie and fabricating screenshots, posters, bits of soundtrack,
+talking about all of this as if it was a real cinematic masterpiece.
 
 Someone in a Discord server I frequent suggested Goncharov should become a
 standard name for someone who doesn't exist, the opposite of John Doe. And this
