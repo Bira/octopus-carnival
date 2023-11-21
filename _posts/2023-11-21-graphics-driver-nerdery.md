@@ -12,7 +12,7 @@ tags:
 <figure class="center">
    <img src="{{ "/assets/firefox-logo.png" | absolute_url }}"/>
    <figcaption>
-     Shadowrun 20th Anniversary's cover.
+   The Firefox logo.
    </figcaption>
 </figure>
 {:/nomarkdown}
