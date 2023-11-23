@@ -127,6 +127,7 @@ Player characters might find themselves having to visit Thay in order to stop
 the Red Wizards' evil plans in Neverwinter.
 
 - [Overview][53]
+- [Kolthunral, the Flying Fortress][54]
 
 [0]: /octopus-carnival/2023/04/23/neverwinter.html
 [1]: /octopus-carnival/2023/04/24/neverwinter-chapter-01.html
@@ -181,4 +182,5 @@ the Red Wizards' evil plans in Neverwinter.
 [50]: /octopus-carnival/2023/10/23/neverwinter-evernight.html
 [51]: /octopus-carnival/2023/10/25/neverwinter-evernight-02.html
 [52]: /octopus-carnival/2023/11/08/neverwinter-beyond-evernight.html
-[52]: /octopus-carnival/2023/11/13/neverwinter-thay.html
+[53]: /octopus-carnival/2023/11/13/neverwinter-thay.html
+[54]: /octopus-carnival/2023/11/23/neverwinter-kolthunral.html

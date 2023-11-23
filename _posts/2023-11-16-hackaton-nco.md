@@ -14,7 +14,7 @@ tags:
 <figure class="center">
    <img src="{{ "/assets/nco-cover.png" | absolute_url }}"/>
    <figcaption>
-     Shadowrun 20th Anniversary's cover.
+     Neon City Overdrive's cover.
    </figcaption>
 </figure>
 {:/nomarkdown}
