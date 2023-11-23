@@ -6,9 +6,130 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Nov 2023 17:52:19 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Nov 2023 17:52:19 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Nov 2023 18:21:52 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Nov 2023 18:21:52 +0000</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>Neverwinter Kolthunral</title>
+        <description>&lt;p&gt;Kolthunral is the Netherese flying fortress currently besieging Surcross. We’ll
+look at it first because it kinda dominates the skyline and its goals are
+important to contextualize everything else that’s going on in this area.&lt;/p&gt;
+
+&lt;p&gt;The arrival of the fortress was a complete surprise even to Szass Tam, who
+considered the current conflict with the Netherese to be a distant and minor
+dispute over Shadowfell supply routes way off to the west in Neverwinter.&lt;/p&gt;
+
+&lt;p&gt;That conflict is happening because, as we already know, both sides have ongoing
+plots happening in the Neverwinter area and need a constant influx of material
+and personnel from home: Valindra’s group is at the Dread Ring, and Clariburnus’
+group is at Xinlenal. The Prince of Shade evidently disagreed with the lich
+about the importance of the dispute and dispatched the fortress to solve it once
+and for all.&lt;/p&gt;
+
+&lt;p&gt;There are many rumors and theories about why Szass Tam hasn’t gotten personally
+involved in this battle. Some say that if he did it would attract the collective
+attention of the other Princes of Shade and lead to one of those Realms-scouring
+epic level wars everyone wants to avoid. Others say he realized all of this is
+ultimately Valindra’s fault and he wants to see how she gets out of it.&lt;/p&gt;
+
+&lt;p&gt;Kolthunral is captained by Duchess Antheriss, one of Prince Caliburnus’
+subordinates. She was a shadar-kai in life, and is now a Spirit Devourer.&lt;/p&gt;
+
+&lt;h2 id=&quot;construction&quot;&gt;Construction&lt;/h2&gt;
+
+&lt;p&gt;Kolthunral uses the same principles as any Netherese flying enclave to stay in
+the air, with a &lt;em&gt;mythalar&lt;/em&gt; and everything. The thing that makes it atypical is
+that it’s thoroughly militarized. Most of the inhabitants are soldiers, and the
+rest are only here to work support jobs for the army.&lt;/p&gt;
+
+&lt;p&gt;The bottom of the flying island is encased in thick enchanted metal armor, and
+the city has towers jutting out at all angles (even from the bottom) festooned
+with siege and anti-air artillery similar to the engines used by Thay to defend
+its borders.&lt;/p&gt;
+
+&lt;h3 id=&quot;spatial-distortions&quot;&gt;Spatial Distortions&lt;/h3&gt;
+
+&lt;p&gt;The interior of the fortress is partly made of shadow-stuff that warps and
+distorts space, meaning it’s bigger on the inside and can actively misdirect and
+confuse intruders. The same techniques were used to build its ultimate weapons,
+the meteor tubes.&lt;/p&gt;
+
+&lt;p&gt;Meteor tubes are, well, straight metal tubes that connect the inside of the
+fortress to circular hatches in its bottom armor. Their enchantments make them
+“ritual paths” very similar to the Shadowfell Road. You drop a big rock through
+the entry hole of a meteor tube, and it falls an unfathomable distance through
+the weirdest and most inhospitable reaches of the Shadowfell, coming out the
+exit hatch at a speed many times greater than terminal velocity. They’re hard to
+aim precisely, but the kinetic energy of an impact is so big it can obliterate
+everything within a few dozen yards.&lt;/p&gt;
+
+&lt;p&gt;A meteor salvo could flatten Surcross or Veil if it hit directly, but the
+cities’ defenses have held so far. Surcross has a force field projected by its
+five defense towers, and Veil has the Veil of Shadow that gives it its
+name. This is the main cause of the current protracted siege.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-prison-of-night&quot;&gt;The Prison of Night&lt;/h3&gt;
+
+&lt;p&gt;Kolthurnal’s prison is a large empty chamber where prisoners are held in place
+by levitation magic near the center of the space. They’re stuck in place because
+they’re too far away from the walls to push off, and the magic is too strong to
+let them move by random thrashing. There’s only the one door, and it’s always
+guarded, just in case.&lt;/p&gt;
+
+&lt;p&gt;This room is reserved for those the Shadovar judge might be useful in a future
+hostage exchange, which to them means officers or members of “civilized
+races”. Lower-ranking orcs, gnolls and undead are instead killed outright.&lt;/p&gt;
+
+&lt;h3 id=&quot;movement-and-power&quot;&gt;Movement and Power&lt;/h3&gt;
+
+&lt;p&gt;Kolthunral can fly at a leisurely ten miles per hour, and the only thing
+limiting its maximum altitude is the fact that it’s not sealed against
+vacuum. It could easily have flown over the plateau to attack the Thayan
+heartland, but it’s actual goal is to stop the Thayans from using Shadowfell
+Road. To do that it needs to destroy Veil and/or Surcross.&lt;/p&gt;
+
+&lt;p&gt;The fortress contains doors that are enchanted to become portals to the
+Shadowfell when it passes over an area where the boundaries are
+weak. Ironically, this means that it hovers over Veil whenever it needs to take
+in new supplies.&lt;/p&gt;
+
+&lt;p&gt;The city’s mythalar power plant is stored in a nondescript tower near its
+center. It’s a standard piece of Netherese tech. Destroying it would make the
+city drop from the sky. There are actually rules for this!&lt;/p&gt;
+
+&lt;p&gt;Magical safety measures slow the city’s fall, but its mass is so high they can
+only do so much, and only for a short time. This gives occupants (and PCs!) time
+to evacuate, but they’re still in for a bad time if they fail to do so. And you
+&lt;em&gt;are&lt;/em&gt; supposed to give them a good chance to get out - the goal would be to
+scare them, not force a TPK.&lt;/p&gt;
+
+&lt;p&gt;When the city hits the ground, effects depend on what its initial altitude was
+when it started falling. If it was 100 feet or less, everyone inside takes
+damage as if they had fallen that distance - the slowed fall speed is
+counteracted by all the collapsing buildings. If it was higher, everyone inside
+will be automatically squished.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;It looks like this region presents the PCs with a sticky situation. Kolthunral’s
+goals align perfectly with their own, but both factions here are pretty
+terrible. The group can side with one to defeat the other, but the victor will
+get a significant boost back in Neverwinter. PCs who don’t want either of them
+to win will have to defeat them both here in Thay.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2023/11/23/neverwinter-kolthunral.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/23/neverwinter-kolthunral.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>neverwinter</category>
+        
+        
+      </item>
     
       <item>
         <title>Computering Interval: Fast Firefox Video the Hard Way</title>
@@ -1660,149 +1781,6 @@ successful run, timing how long that took.&lt;/p&gt;
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg&quot;/&gt;
-   &lt;figcaption&gt;
-     Shadowrun 20th Anniversary's cover.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;After setting up our parameters in the previous post, we start the run here.&lt;/p&gt;
-
-&lt;p&gt;I actually ran this one a couple of times, because it took me a bit to fully
-internalize the rules. My main mistake was assuming I was familiar with them
-already and only reading them superficially to “refresh my memory”. This made me
-get some crucial basic facts wrong, causing my first run to be really fast but
-incorrect.&lt;/p&gt;
-
-&lt;p&gt;So I made an additional run where I tracked the die rolls accurately and got
-detected in one of the hacks. Then I read the rules outside of the Matrix
-chapter more closely and made another one where I spent Edge more wisely and
-accomplished all goals without being detected. I’m referring to these as the
-&lt;strong&gt;loud&lt;/strong&gt; and &lt;strong&gt;silent&lt;/strong&gt; runs. They are recorded below as a single account with
-notes on how they diverge.&lt;/p&gt;
-
-&lt;h2 id=&quot;diff-merging-timelines&quot;&gt;Diff-merging Timelines&lt;/h2&gt;
-
-&lt;p&gt;Our hacker enters the building with is team. They get past the reception as
-usual, receiving temporary badges. Once inside, he feels a “sudden” need to go
-to the bathroom, and locks himself inside a stall. He spends a couple of turns
-scanning for the badge’s wireless signal, and finds it.&lt;/p&gt;
-
-&lt;p&gt;He then tries to hack into the badge, still using AR because it’s a fragging’
-badge. He succeeds quickly. As expected the badge can’t do a lot, but it knows
-how to talk to the security server and now so does the hacker.&lt;/p&gt;
-
-&lt;p&gt;Our hacker then switches to VR and goes hot, after bracing himself so he doesn’t
-fall down in the stall. He tries to get himself security-level access because he
-knows from examining the badge that user-level accounts do nothing in this
-server.&lt;/p&gt;
-
-&lt;p&gt;This is where our timelines diverge. In the &lt;strong&gt;loud&lt;/strong&gt; run, he gets in but also
-gets detected. The server issues a restricted alert against his persona,
-triggers the Blackout ice, and pings the guards. Restricted alert means the
-server’s Firewall increases by +4 against the hacker.&lt;/p&gt;
-
-&lt;p&gt;The hacker and the IC go into cybercombat, with the hacker winning
-initiative. Cybercombat here resembles the SR1 version a bit, though the exact
-things you roll are different. With the expenditure of a couple points of Edge,
-our hacker manages to destroy the ice at the start of the second combat turn,
-without suffering any trauma to his brain meats. Still, in this timeline the
-guards are suspicious of the team.&lt;/p&gt;
-
-&lt;p&gt;In the &lt;strong&gt;silent&lt;/strong&gt; run, luckier rolls let the hacker in without being detected.&lt;/p&gt;
-
-&lt;p&gt;In both, the hacker manages to disable the camera and alarm, letting the team
-move into the records room. While they perform a physical search for hard
-copies, our hacker jacks into the secret isolated server and goes into hot sim
-VR again. He manages to get in undetected, though in the &lt;strong&gt;silent&lt;/strong&gt; run he has
-to spend the Edge he didn’t spend in combat to do so.&lt;/p&gt;
-
-&lt;p&gt;I rule that finding the files requires no tests, as this is only a single node
-and the existing data search rules are for searching the Matrix.&lt;/p&gt;
-
-&lt;p&gt;Still in the records room, our hacker decides to be daring and hack the office
-network in search of those drainable accounts. This network has a wireless
-signal covering the whole office and is quite visible, so he gets right to it.&lt;/p&gt;
-
-&lt;p&gt;At first, our decker easily hacks himself a user account. From there he runs a
-data search on the network’s user directory to find the one who has access to
-the bank accounts, and then attempts to gain access to it. I give this a low
-Threshold because it’s a small intranet.&lt;/p&gt;
-
-&lt;p&gt;Finding the accountant’s profile, the hacker attempts to hack into it. That’s
-like starting from scratch, this time going for a security account. Again the
-hacker manages to get in undetected, and again in the &lt;strong&gt;silent&lt;/strong&gt; run he needs to
-spend Edge to do this.&lt;/p&gt;
-
-&lt;p&gt;Draining the account requires no additional rolls. And since our hacker retained
-his account at the security server, unlocking the back door requires no rolls
-either. Of course, in the &lt;strong&gt;loud&lt;/strong&gt; timeline there’s a very high chance that
-they’re doing this during a firefight, as the guards are extra-suspicious and
-would have known to check the records room…&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;loud&lt;/strong&gt; run that had cybercombat and an alert took 31 minutes. The
-&lt;strong&gt;silent&lt;/strong&gt; one took 17.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
-
-&lt;p&gt;This system is my personal favorite so far, and I had to actively keep myself
-from adding little cool bits that kept appearing in my imagination, because I’d
-otherwise would have found myself running an entire solo adventure, controlling
-the whole team and imagining dialogue in my head.&lt;/p&gt;
-
-&lt;p&gt;Having “my” character be present with the group certainly helped stir the
-imagination, because he wasn’t sitting pretty at home. I had to think about how
-he navigated the physical site with the rest of the group, and from where he’d
-jack into VR to avoid suspicion, and so on.&lt;/p&gt;
-
-&lt;p&gt;I do love that the system was very fast compared to the other ones so far, but I
-wonder how much of that is down to the design of the target nodes. I’d love to
-hear about how people design their own adventures.&lt;/p&gt;
-
-&lt;p&gt;We can see how Shadowrun’s system still favors silent runs here. Cybercombat
-against even a single instance of ICE takes a while to resolve, and the more of
-it there is the longer the run will take. Careless hackers could easily find
-themselves having to deal with multiple ICE cubes at once, perhaps even in
-different hosts, and that will drastically lower their chances of success. More
-advanced rules let hackers run their own agent programs, which helps fighting
-the icy hordes but makes things take more real time to solve.&lt;/p&gt;
-
-&lt;p&gt;That said, let’s see how our sample runs here fit with the physical team’s.&lt;/p&gt;
-
-&lt;p&gt;If we again assume the physical part of the run takes 50 minutes for a perfectly
-stealthy team and 90 minutes with a firefight on the way out, then it’s also
-possible to correlate our diverging runs to each of these scenarios. The
-perfectly sneaky run would mean a perfectly sneaky hack. The loud run would
-almost certainly be caused by that alert we got, unless our talker was &lt;em&gt;amazing&lt;/em&gt;
-at their job.&lt;/p&gt;
-
-&lt;p&gt;So, in the more common silent/silent and loud/loud scenarios, our hacker took up
-around 25% of the total session time, which is pretty close to ideal in a
-four-player party. In an anomalous loud hack/silent run scenario, they take up a
-little under half the run time. And in a silent hack/loud run situation, they
-take around 15% of the time hacking the objectives and can spend the rest of
-their spotlight time helping out in physical combat.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</guid>
         
         <category>shadowrun</category>
         
