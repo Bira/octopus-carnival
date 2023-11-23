@@ -1,5 +1,6 @@
 ---
-layout: "Let's Read Neverwinter: Kolthunral, the Flying Fortress"
+layout: post
+title: "Let's Read Neverwinter: Kolthunral, the Flying Fortress"
 tags:
     - dnd4
     - lets-read
