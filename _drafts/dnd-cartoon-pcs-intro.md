@@ -9,15 +9,13 @@ Yes, there was a D&D cartoon, and it was awesome. It aired in the US from 1983
 to 1985, and it ran in Brazil as part of a children's show kind of thing in the
 late 80s and early 90s. It had excellent production values for the time, which
 is no wonder given that it was animated by Toei. I can't tell you much about the
-original voice cast, but the Brazilian one was pretty awesome. This is probably
-the game's most successful foray into mainstream media properties, as the movies
-they'd make 15 years later were kind of disappointing. A whole generation of
-Brazilian roleplayers probably owes their interest in the hobby to this show. I
-know I do!
+original voice cast, but the Brazilian one was pretty awesome. A whole
+generation of Brazilian roleplayers probably owes their interest in the hobby to
+this show. I know I do!
 
 The plot synopsis for the show wouldn't be out of place in an isekai anime: a
-group of kids gets on a D&D ride in a theme part, a bizarre magical accident
-happens, and it transports them to a fantasy world. As soon as they arrive
+group of kids gets on a D&D ride in a theme park, the cart they're in goes into
+a portal, and they find themselves in a fantasy world. As soon as they arrive
 they're met by a powerful being who calls himself The Dungeon Master and given
 awesome magical weapons to help them survive.
 
@@ -43,8 +41,8 @@ those who are tend to be used in more indirect ways.
 
 The show had 27 official episodes divided into three seasons. Writer Michael
 Reaves scripted a finale for it, titled "Requiem", that explained a lot of
-things and finally gave the kids a clean shot at going home. The actual
-resolution was left in the air to leave room for a possible fourth season with a
+things and finally gave the kids a clean shot at going home. Whether they did or
+not was left in the air to leave room for a possible fourth season with a
 reworked formula. Unfortunately, the show was canceled before the script could
 be turned into an episode.
 
@@ -54,10 +52,7 @@ give us that sweet, sweet closure. You can watch that [here][1]. A group of
 Brazilian fans released a [fan dub][2] of it in 2021.
 
 Now that I'm done gushing about this awesome show, let's get to the reason for
-this article. RPG.net apparently has a "January Character Creation Challenge"
-going that expects participants to make a character every day. While I have no
-intention of fulfilling this requisite it did provide me with the motivation for
-trying to stat the D&D protagonists for use in Dungeon Fantasy.
+this article. I want to stat its protagonists for Dungeon Fantasy!
 
 This is a very interesting challenge, because our heroes are most certainly
 _not_ the typical DF powerhouses built on 250+ points. They are a bit stronger

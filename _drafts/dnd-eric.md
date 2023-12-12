@@ -16,8 +16,10 @@ with his magic shield. He's 15 years old when the show starts.
 According to Mark Evanier, the show's developer, Eric's difficult personality
 was mandated by parent's groups and consultants to push the then-dominant moral
 lesson that "the group is always right; the complainer is always wrong". Yikes!
-Stripped of this context, a lot of his concerns are quite reasonable for a
-modern-day Earthling transported to a dangerous fantasy world.
+Stripped of this context, a lot of his voiced concerns are quite reasonable for
+a modern-day Earthling transported to a dangerous fantasy world. His biggest
+problem then becomes his blindness to the flaws in his own plans to return home,
+which often land him in trouble.
 
 Our version of Eric is a 62-point character. We use the Apprentice Strong Delver
 template as a base. Visually it feels like he should be a Knight, but it turns
@@ -30,13 +32,9 @@ While Eric can bash enemies with his shield in a fight, most of his actions will
 be purely defensive. His top priority in any dangerous situation is to run away,
 which he can do remarkably well for someone wearing a lot of armor. Eric will
 only stand his ground when given no other option - this includes when his
-friends are in danger. In all cases this will only last until running away
-becomes an option again - when an exit opens up, or when his friends can retreat
-safely.
-
-If he does stand his ground, though, he's almost impossible to hurt, with a
-typical total Block of _18_ and all the abilities the Griffon Shield provides
-him.
+friends are in danger. If he does stand his ground, though, he's almost
+impossible to hurt, with an amazing Block score of _18_ and all the abilities
+the Griffon Shield provides him.
 
 ## Eric the Cavalier, 62 points
 
@@ -54,7 +52,7 @@ Basic Speed 5.50 {0}; Basic Move 5 {0}.
 
 ### Disadvantages
 
-P - Cowardice (12) {-10}
+- Cowardice (12) {-10}
 - Odious Personal Habit (Complainer) {-10}
 - Stubborness (12) {-5}
 - Obsession (Go home) (6) {-20}
@@ -86,11 +84,11 @@ also supernaturally handy and can be used to block multiple times per turn,
 which each block attempt after the first incurring a cumulative -2 penalty.
 
 Once per day the shield can project a force dome with a radius of 2 yards,
-centered on the wielder. This takes either a Concentrate maneuver, or a
-successful Block where the player declares they're activating the dome before
-rolling. The dome can be used to block large-area attacks and provide shelter to
-the wielder and their allies, but it draws on the wielder's energy to sustain
-itself. It costs 3 FP per minute to maintain, as if it was a spell.
+centered on the wielder. This ability can be activated as a free action after a
+successful block, or with a Concentrate maneuver. The dome can be used to block
+large-area attacks and provide shelter to the wielder and their allies, but it
+draws on the wielder's energy to sustain itself. It costs 3 FP per minute to
+maintain, as if it was a spell.
 
 The -2 cumulative penalty for multiple blocks cannot be further reduced by the
 Trained By a Master or Weapon Master advantages.

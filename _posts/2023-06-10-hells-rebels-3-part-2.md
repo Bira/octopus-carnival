@@ -143,11 +143,11 @@ The dishes range from the merely bizarre to the horrific:
   refuse to eat this one on moral grounds. Those who decide to forge ahead need
   to be fast and perceptive. They have to eat the invisible meat before it turns
   visible and loses its flavor. PCs who can see invisibility can pass this one
-  automatically, though it's considered crass to cast a spell for it while on
+  automatically, though it's considered crass to cast a spell for it while at
   the table. Others must succeed at a difficult **Perception** check, which I
   guess I would modify for **Acute Smell/Taste**.
 
-- Finally, you get **Sweefats With Honey Sauce** for dessert. Sweetfats are
+- Finally, you get **Sweetfats With Honey Sauce** for dessert. Sweetfats are
   candied spiders - this is an Underdark dish. The most difficult thing here is
   opening the honey sauce container, which is a mundane replica of a
   Hellraiser-style puzzle box. Time to break out the **Thaumathology** and

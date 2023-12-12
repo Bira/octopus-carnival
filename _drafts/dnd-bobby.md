@@ -19,20 +19,20 @@ starts.
 
 Our version of Bobby is a 62-point character using the Apprentice _Fast_ Delver
 template as a base. He's a Strong delver at heart, but he's also tiny. The
-Barbarian package would make him an expert at wilderness survival but that's not
-something the show usually bothers to cover. So instead of taking that template
-we're picking two upgrade modules: Fifth Level Fighter and Veteran, which do a
-good job of portraying Bobby's reckless bravery and his willingness to hit
-things lots and lots of times.
+Barbarian package would make him an expert at wilderness survival but that's out
+of character for him. So instead of taking that template we're picking two
+upgrade modules: Fifth Level Fighter and Veteran, which do a good job of
+portraying Bobby's reckless bravery and his willingness to hit things lots and
+lots of times.
 
 Bobby is a perfect fit for the Fortune's Fool disadvantage module, and I made
 custom picks for the other half.
 
-Out of all the party, Bobby is the one most willing to engage in "traditional"
-combat, but despite what his character sheet says he doesn't actually know how
-to fight and the others often have to stop him from doing something
-suicidal. His preferred tactic is to charge in and All-Out-Attack, and he's at
-his most effective when he does that to the surrounding architecture.
+Bobby is the protagonist most willing to engage in "traditional" combat, but
+despite what his character sheet says he doesn't actually know how to fight and
+the others often have to stop him from doing something suicidal. His preferred
+tactic is to charge in and All-Out-Attack, and he's at his most effective when
+he does that to the surrounding architecture.
 
 ## Bobby the Barbarian, 62 points
 
@@ -79,8 +79,11 @@ SM -1; Dodge 9; Parry 11U (club); Move 5.
 ## The Thunder Club
 
 This top-heavy wooden club is indestructible and impervious to magic. It counts
-as a light mace, but Bobby has to use it two-handed.
+as a light mace, but Bobby has to use it two-handed. It's a weapon capable of
+incredible violence but due to the traits and themes of the cartoon Bobby ends
+up using it almost exclusively using it against inanimate targets.
 
-The club does sw+2+8d crushing damage. Rolled damage counts double for
-knockback. The club's strikes automatically do maximum damage to unattended
-inanimate objects (such as walls, support columns, or the ground).
+The club does sw+2+8d crushing damage with double knockback. Rolled damage
+counts double for knockback. The club's strikes automatically do double maximum
+damage to unattended objects and structures (such as walls, support columns, or
+doors).

@@ -20,11 +20,10 @@ noble houses from Lady Docur and Rexus, and can start researching them to see
 which ones are amenable to supporting the rebellion. The main change here is
 that House Aulorian is still undecided, which should change soon.
 
-After a bit of "downtime" where the PCs busy themselves management and
-information gathering, they get contacted by Lictor Octavio directly. He sets up
-a meeting with them at his cousin's tavern, the Tooth and Nail, and asks the
-Silver Ravens to rescue his knights who have been made prisoner. We skip all the
-bits about tracking down Octavio.
+After the PCs busy themselves with management and information gathering for a
+while, they get contacted by Lictor Octavio directly. He sets up a meeting with
+them at his cousin's tavern, the Tooth and Nail, and asks the Silver Ravens to
+rescue his imprisoned knights. We skip all the bits about tracking down Octavio.
 
 The **Holding House** delve occurs as originally written. Posing as dottari with
 prisoner transfer orders is still the best solution here, and should allow them

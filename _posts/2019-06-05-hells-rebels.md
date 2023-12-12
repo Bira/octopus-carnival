@@ -51,7 +51,7 @@ Pathfinder potion.
 Opposition in this level is a band of skum spies sent here by an aboleth
 necromancer to spy on Kintargo. The aboleth doesn't have any designs on the
 city, it's just sending spies on general principle. The skum "foot soldiers" are
-led by the wizard Ungol-Pagh, and either brought of befriended a bunch of other
+led by the wizard Ungol-Pagh, and either brought or befriended a bunch of other
 sea monsters to act as guards down here. They've also captured a group of sea
 elf rangers who came in here to search for their missing ally, the opera singer
 Shensen (who vanished in the initial Thrune purges before Adventure 1 started).
@@ -174,7 +174,7 @@ binding.
 
 Drowning devils have this name because they like to drown others. They're Large,
 look like four-armed eels, are fully amphibious, and have all sorts of
-waterbending powers that maked them oodles of Fun (TM) to fight underwater.
+waterbending powers that make them oodles of Fun (TM) to fight underwater.
 
 ### The Loot
 
