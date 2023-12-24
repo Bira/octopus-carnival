@@ -1,6 +1,6 @@
 ---
 layout: post
-3:date: 2023-11-21 09:20:00 -03:00
+date: 2023-11-21 09:20:00 -03:00
 title: "Computering Interval: Fast Firefox Video the Hard Way"
 tags:
     - computering
