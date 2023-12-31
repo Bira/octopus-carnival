@@ -91,6 +91,13 @@ mill.
 They can work both of these cases while growing the rebellion in the strategic
 layer and possibly dealing with Blosodriette's sabotage in between.
 
+For a more abstracted experience you could also remove the strategic layer
+entirely. Have it be managed by allied NPCs, and before each big dungeon delve
+you can give PCs the option to apply the effect of one or more covert ops. These
+would usually require tests using rebellion stats, but they often eliminate the
+most tedious parts of the ensuing delve so applying them automatically is not a
+bad idea.
+
 ## Part 3
 
 Just before Rexus deciphers the Silver Raven documents, the PCs receive an

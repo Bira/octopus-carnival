@@ -13,18 +13,22 @@ Silver Ravens and their rebellion. Strikes against Thrune were indirect and
 targeted peripheral facilities, which prevented the enemy from mounting a big
 response.
 
-All of this changes at the very end of Adventure 03. At the start of this one,
-Barzilai Thrune makes his final three proclamations: he outlaws the Silver
-Ravens, he forbids worship of any god that's not Asmodeus, and he blockades the
-bridge that separates the two halves of the city. As soon as this happens, his
-forces begin a brutal series of reprisals against the Ravens and the population
-in general.
+All of this changes at the very end of Adventure 03, where Barzilai lays a
+deadly trap for the PCs and potentially kills a lot of innocents. At the start
+of this one, Barzilai Thrune makes his final three proclamations: he outlaws the
+Silver Ravens, he forbids worship of any god that's not Asmodeus, and he
+blockades the bridge that separates the two halves of the city. As soon as this
+happens, his forces begin a brutal series of reprisals against the Ravens and
+the population in general.
 
 The Silver Ravens immediately begin to fight back, since at this point their
 rebellion has reached its maximum power and anyone who was even a little
 sympathetic to them throws their full support behind the organization.
 
 In summary, [shit's going down][1].
+
+PCs start this adventure at level 10 and are expected to finish halfway into
+level 13.
 
 ## GMing the Rebellion
 
@@ -33,22 +37,23 @@ rebellion to topple Barzilai Thrune. While you might have been able to ignore
 the custom rebellion rules up until now, they're unavoidable here. If you didn't
 bother with them before the book suggests assigning a default set of stats for
 the organization (Notoriety 75%, focused stat +15, secondary stats +10). Those
-check bonuses are higher than what's on the Player Guide, probably to account
-for bonuses the PCs would have gotten if they kept track of things in
-detail. Even if you were using detailed rules before I recommend upgrading the
-org's stats to at least that level.
+numbers are higher than what's on the Player Guide, probably to account for
+bonuses the PCs would have gotten if they kept track of things in detail. Even
+if you were using detailed rules before I recommend upgrading the org's stats to
+at least that level.
 
 Now that Thrune's government can be "killed", it gets stats of its own. The
 important one is Authority, which must be brought down to 0 for the Ravens to
 win. When that happens, Thrune and his remaining lackeys lock themselves up in
-the Temple of Asmodeus and the PCs can get at them with a final assault.
+the Temple of Asmodeus for a last-ditch desperation move, and the PCs can get at
+them with a final assault.
 
 The PCs and the Silver Ravens fight the Thrune government by completing
 missions. These usually involve raids against important facilities controlled by
 named villains. Success at these usually removes whatever capabilities that
 villain brought into play, and gives the Silver Ravens control of the city
 district they're in. Districts under Raven control become safe from patrols and
-such, and lower both current and maximum Authority by a certain amoun (10 or 20
+such, and lower both current and maximum Authority by a certain amount (10 or 20
 points, depending on the district). This is why I linked the Assassin's Creed:
 Brotherhood trailer above.
 
@@ -88,7 +93,7 @@ the rebellion and explain the available district control missions.
 If on the other hand the PCs _lost_ the opera house battle, they wake up in a
 cell in Kintargo Keep, and must escape. They basically tackle the hardest
 mission first, from the inside out, and then add the Opera House to their to-do
-list later - it's still of stuff vital to their success.
+list later - it's still full of stuff vital to their success.
 
 Most of the missions consist of relatively short dungeon raids that are
 essentially big set-piece battles against the villain of the hour and their
@@ -109,8 +114,9 @@ This is the mission list:
 ### Rescue Hetamon (Jarvis End District)
 
 Hetamon Haace is the Rose of Kintargo, and one of the members of the Silver
-Ravens. He became an ally back in adventure 02 and is missing from that
-emergency meeting. Finding him is a priority.
+Ravens. He became an ally and a member of the Silver Council back in adventure
+02, but is missing from this adventure's emergency meeting. Finding him is a
+priority.
 
 Turns out he's been kidnapped by his evil half-succubus sorceress of a mother,
 who is holed up in the basement of Shensen's former home and plans to sell him
@@ -216,10 +222,10 @@ house allows the PCs to use the ritual.
 
 I did mention a dragon, didn't I? She's an adult blue dragon named Rivozair. She
 first attacked the city during the Chelish civil war, and was nearly killed by
-the original Silver Ravens. She returned shortly before the campaign started and
-agreed to join up with Barzilai for a chance to take revenge on the city. He
-invested her with additional infernal power, binding her to a horned devil in
-the same way Nox from Adventure 01 was bound to a bearded one.
+the original Silver Ravens. Rivozair returned shortly before the campaign
+started and agreed to join up with Barzilai for a chance to take revenge on the
+city. He invested her with additional infernal power, binding her to a horned
+devil in the same way Nox from Adventure 01 was bound to a bearded one.
 
 Rivozair is a powerhouse of a solo boss, and one of Barzilai's most powerful
 minions. In addition to her usual "I'm a dragon!" suite of abilities, her

@@ -40,7 +40,7 @@ other regional support goals. Those can be done in any order.
 The Vyre banquet happens as written, it's too fun to skip. One option might be
 to give the party a further boost at the banquet if they close the Menador Gap
 before coming here. The city will be more convinced of their ability to see the
-revolution through and will be less able to rely on Cheliax instead.
+revolution through.
 
 ## Part 4
 
