@@ -107,9 +107,9 @@ in secret at the beginning of each adventure or each session of an extended
 adventure. If the result is a 9 or less, a significantly powerful monster will
 appear somewhere along the coming adventure or session, inserting itself into
 one of the upcoming situations and making things more complicated and dangerous
-for you and your group. It's a different monster every time, usually something
-complicated to fight. This is _in addition_ to any pre-existing monsters in the
-adventure who recognize you and want you dead.
+for you and your group. It's usually something complicated to fight, and not
+necessarily the same monster every time. This is _in addition_ to any
+pre-existing monsters in the adventure who recognize you and want you dead.
 
 ## The Last Archivist
 
