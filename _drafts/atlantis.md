@@ -21,33 +21,30 @@ empire that ruled the waves in ancient times but no longer exists. The stories
 might differ but the name is always the same.
 
 That's because ancient Atlantis was the largest and most powerful underwater
-civilization to ever exist. Their skill at magic and engineering was unsurpassed
-beneath the waves, and the way in which they combined both disciplines even awed
-scholars from other powerful but land-bound empires. They even discovered the
-secret to traveling between worlds, and spread to these new frontiers with
-gusto.
+civilization to ever exist. They even discovered the secret to traveling between
+worlds, and spread to these new frontiers with gusto.
 
 Despite its power Atlantis eventually fell, as all empires do. The exact
 sequence of events is more or less impossible to piece together, and mostly
 irrelevant in the present day. The important bit is that their inter-world
-travel network was the first thing to go, leaving countless outposts and larger
-settlements isolated in different worlds. That's why each of them has a
-different story about how Atlantis fell - those stories talk only about the bits
-of it they knew about. In some, it happened overnight due to a cataclysm. In
-others, they eventually morphed into successor cultures that might still be
-extant in the present day.
+travel network was the first thing to go, instantly fragmenting the
+empire. That's why each of them has a different story about how Atlantis fell -
+those stories talk only about the bits of it they knew about. In some, it
+happened overnight due to a cataclysm. In others, they eventually morphed into
+successor cultures that might still be extant in the present day.
 
 Aside from giving rise to a whole bunch of legends and to fueling the occasional
 would-be despot's ambitions, the most enduring legacy of Atlantis was its
-engineering. They pioneered a lot of the techniques that are used today to make
+underwater engineering. They pioneered a lot of the techniques that used to make
 sturdy weapons and tools out of implausible aquatic materials like shell, coral,
-and mother-of-pearl. They were also the first civilization to successfully
-make and work orichalcum.
+and mother-of-pearl. They were also the first civilization to successfully make
+and work orichalcum.
 
 In many worlds, present-day techniques for working these materials are more
 advanced than Atlantean ones, but they can still trace their "lineage" back to
-the lost empire. In others Atlantean techniques remain the state of the art, of
-were even lost to time.
+the lost empire. In others Atlantean techniques remain the state of the art. In
+yet others they were lost to time, making caches of Atlantean items that much
+more valuable.
 
 Orichalcum is a material present in the core rules. Rules for shell and
 mother-of-pearl items can be found in GURPS Dungeon Fantasy 8: Treasure
@@ -74,26 +71,26 @@ of the new ancestries I present here might have equivalent official templates
 already, but since I don't have those I'm writing new ones for my own use.
 
 These templates assume that being Amphibious also makes you able to see and hear
-unimpeded while submerged, and being able to breathe underwater also makes you
+unimpeded while submerged, and the ability to breathe underwater also makes you
 able to speak there. I feel this is in line with the simpler feel of Dungeon
 Fantasy. If you want to follow Banestorm's assumptions instead, give all
 templates here one level of Nictitating Membrane {1} and Speak Underwater {5},
-increasing their costs by 6 each.
+increasing their costs by 6 points each.
 
 
 ### Atlantean (20 points)
 
 This template describes people who are a product of successive generations of
-intermarriage between the different species that made up the population of
-Atlantis, and possibly some surfacers too. They are known as "Atlanteans"
-because their general look became associated with that empire.
+intermarriage between the other species that made up the population of Atlantis,
+and possibly some surfacers too. They are known as "Atlanteans" because their
+general look became associated with that empire. Surprisingly, they look a lot
+like humans even when they have no humans among their ancestors.
 
-The vast majority of Atlanteans look a lot like humans, even when they have no
-humans in their ancestry. They're warm-blooded, have legs, can breathe both air
-and water, and exhibit the same wide ethnic variance as humans. Individuals can
-have a variable number of "fishy" traits like visible gills, fins, blue or gray
-skin, and so on. These might be visually striking but are never significant
-enough to count as more than 0-point features.
+Atlanteans are warm-blooded, have legs, can breathe both air and water, and
+exhibit the same wide ethnic variance as humans. Individuals can have a variable
+number of "fishy" traits like visible gills, fins, blue or gray skin, and so
+on. These might be visually striking but are never significant enough to count
+as more than 0-point features.
 
 A given world might have an Atlantean population that can trace their ancestry
 back to actual Atlantis. They could even appear in worlds that never had an
@@ -173,7 +170,7 @@ can use.
 **Optional Traits**: If your character's fish half mimics a particularly speedy
 species, they might have Enhanced Move 1 (Water) for an extra 20 points. At the
 GM's option, this might be a matter of training instead of biology, which means
-the character can buy this with earned points during a campaign.
+any merfolk character can buy this with earned points during a campaign.
 
 [1]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [2]: {{ "/2023/11/13/underwater-items.html" | relative_url }}
