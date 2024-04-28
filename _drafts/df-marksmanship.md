@@ -58,7 +58,7 @@ Flawless Nocking, bringing the improvement cost here to 11.
 ## Harsk
 
 Our old friend [Harsk][1] has Heroic Crossbowman, Crossbow-20, Fast-Draw
-(Arrow)-15, and the Quick-Reload perk. Quick-Reload is from **GURPS Gun-Fu**,
+(Arrow)-15, and the Quick-Reload perk. Quick Reload is from **GURPS Gun-Fu**,
 where it's described in terms of how fast you can reload guns based on their
 feeding mechanisms. The crossbow version is described alongside Harsk himself,
 requiring Heroic Crossbowman (unlike the gun versions, which are considered
@@ -82,21 +82,18 @@ extra paying for Crossbow-19.
 ## Layla
 
 Layla the Gun-Witch is built on the Gunner template from Pyramid #3/36. She has
-Gunslinger, Quick-Reload 3, Guns (Pistol)-19 and Fast-Draw (Ammo)-16, and is
+Gunslinger, Quick Reload 4, Guns (Pistol)-19 and Fast-Draw (Ammo)-16, and is
 firing the Pistol from the same Pyramid issue, which is a smoothbore flintlock
 with RoF 1 (20). This seems to make her the underdog in this competition. Can
 she catch up?
 
-If Layla uses paper cartridges, her reload time drops by half to 10
-seconds. Fast-Draw _without_ Quick-Reload would reduce this to 8. Each level of
-Quick-Reload would make a Fast-Draw success instead take 25% off the total
-reload time, to a minumum of 3 seconds.
-
-By the books, our gun-witch would lose the quick-firing competition by a wide
-margin. Even with sucess at Fast-Draw, she will only fire once every 4 seconds,
-allowing her to land 15 shots in that minute. There's not enough rolls in there
-for her to fail one in this time period, but if it did happen she'd take ten
-seconds to reload instead of 3, lowering her total by another 3 shots.
+Four levels of the Gun Fu version of Quick Reload means she can reload that gun
+in three seconds flat. Still, if we leave it at that, our gun-witch would lose
+the quick-firing competition by a wide margin. Even with sucess at Fast-Draw,
+she will only fire once every 4 seconds, allowing her to land 15 shots in that
+minute. There's not enough rolls in there for her to fail one in this time
+period, but if it did happen she'd take ten seconds to reload instead of 3,
+lowering her total by another 3 shots.
 
 Pyramid #3/36 doesn't include much that can make her fire any faster - its
 rationale is that Dungeon Fantasy guns make up for their lower fire-rate by
@@ -104,17 +101,28 @@ having higher damage and longer range. The article's suggestion for Gunners who
 want to fire every turn is to carry a brace of 10 or so derringers instead of a
 single pistol, with Fast-Draw allowing them to fire one each turn and discard it
 (and do slightly less damage than a bow). Doing this would improve Layla's score
-only until she ran out of loaded guns, so it wouldn't allow her to catch up to
-her fellow contestants.
+only until she ran out of loaded guns, so unless she brings 60 of them she catch
+up to her fellow contestants.
 
-All of this remains on the realistic side. Heroic Archer/Crossbowman give the
-other constestants acess to patently fantastical options to increase their rate
-of fire! Layla has Gunslinger, and that should help! How would our gun-witch
-fare if she had access to these options?
+### Helping Layla Out
 
-If we port the quick-ready rule for use with guns, Layla could make a Guns-3
-roll to ready the pistol instantly and fire every 3 seconds instead of 4. That
-would allow her to land 20 shots in that minute. Still not enough!
+What if we wanted guns to be more awesome in our campaign, at least when wielded
+by an ultra-skilled delver PC? What extra benefits could we give Layla to let
+her catch up?
+
+Perhaps we could take some inspiration from the crossbow version of Quick Reload
+that we gave Harsk. You see, the gun version is described by Gun Fu as
+_realistic_, which means we could make it even more awesome for
+Gunslingers. So let's say that for Gunslingers, the minimum reload time is 1
+second, not 3.
+
+Another option would be to also allow her to quick-ready her loaded gun, like
+the others can do with their own weapons. That would be a
+
+If we port the quick-ready rule for use with guns, Layla could
+make a Guns-3 roll to ready the pistol instantly and fire every 3 seconds
+instead of 4. That would allow her to land 20 shots in that minute. Still not
+enough!
 
 Harsk has a cinematic benefit to his Quick-Reload perk, allowing him to reload a
 crossbow instantly. We could do something similar for Layla, and say Gunslinger

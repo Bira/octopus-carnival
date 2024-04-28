@@ -31,7 +31,7 @@ makes her inclined to try some pickpocketing here.
 Everyone is going to spend their first couple of hours on Watch the Crowd and
 Listen for Rumors actions. Watching the crowd is a roll on the better of
 **Perception** and **Observation**. Listening for Rumors is either **Current
-Affairs** or again the best between **Perception and Observation**
+Affairs** or again the best between **Perception** and **Observation**
 
 Watching the Crowd:
 
@@ -143,8 +143,8 @@ attack using **Throwing Art**. I took into account the distance between
 Arcturus' position in the map and the balcony (behind and above Nox), as well as
 its elevation. And he hit!
 
-The horse apple veers off-course at the last minute because of course Barzilai
-has a **Missile Shield** on himself, but he still flinches and spills his wine,
+The horse apple veers off-course at the last minute because Barzilai has a
+**Missile Shield** on himself, but he still flinches and spills his wine,
 ordering Nox and the dottari to move against the crowd. The fight is on!
 
 Now, the original book recommends dealing with the crowd abstractly. It makes
@@ -183,7 +183,8 @@ The dottari will slowly march down the map, moving 1 hex at a time except if
 they need to turn their formation. If they move into reach of a bystander, they
 will attack, but they will prioritize keeping their formation over that. Nox and
 her hellhound pet will keep formation with them. Or at least, that's the
-plan. Dottari are regulars, Nox and her hellhound are elites.
+plan. Dottari are regulars, going down automatically at 0 HP. Nox and her
+hellhound are elites, and use the same rules as PCs.
 
 The PCs can do whatever they want, of course, and with my player hat on I decide
 that they will try to protect as many bystanders as they can and give them time
@@ -214,7 +215,7 @@ shield bash - he hasn't drawn his axe yet.
 
 I forgot to move the bystanders at the end of the first round, so in the second
 one the dottari began reaching them and taking down the upper row of the
-crowd. I let that stand when I realize my mistake - we can say the crow was
+crowd. I let that stand when I realize my mistake - we can say the crowd was
 collectively stunned for a round.
 
 Seeing this, Jade decides to up the ante and attack the dottari that's closing
@@ -265,4 +266,5 @@ managed to heal himself back to full in short order.
 The original Pathfinder encounter had the CCG Thugs appearing first, then a pair
 of dottari, and then the rest as a "you should run now" message. Putting
 everyone on the map from Round 1 and increasing the total number of dottari
-seems to be the right way to make this challenging for starting DF delvers.
+seems to be the right way to make this challenging and exciting for starting DF
+delvers.

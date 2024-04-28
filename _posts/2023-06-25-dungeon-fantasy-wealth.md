@@ -34,12 +34,12 @@ gold, and a few other exotic materials that we don't need to look at right now.
 
 These dimensions are apparently universal standards, and their value comes from
 their precious metal content. If you find a chest of thousand-year-old gold
-coins in an ancient dungeon, you can carry them back to town and spend them on
-the market right away. Finding "non-standard" coins is usually a rare special
-case.
+coins from an extinct civilization in a dungeon, you can carry them back to town
+and spend them on the market right away. Finding "non-standard" coins is usually
+a rare special case.
 
-Unfortunately, though their physical dimensions are identical, their values seem
-to be derived from completely different assumptions.
+Unfortunately, though their physical dimensions are identical across both
+systems, their values seem to be derived from completely different assumptions.
 
 ## What Money Buys
 

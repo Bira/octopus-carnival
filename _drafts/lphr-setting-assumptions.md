@@ -22,7 +22,7 @@ campaigns so we don't have any fundamental friction between it and the Dungeon
 Fantasy rules. Despite the many D&D-isms of Pathfinder's first edition we
 already know the setting can easily be used with other systems, since it has an
 official Savage Worlds port and Paizo itself is in the process of removing those
-D&D-isms from the latest iteration of their system.
+D&D-isms from the latest iteration of their house system.
 
 That being said, I do want to make a few changes to the version I'm going to
 use. The most obvious one is I'm going to drop the many different fiend
@@ -71,7 +71,7 @@ pace. It will provide us with some nice blogging material if nothing else.
 Monster conversions used to be a big problem back when I started the Let's Read,
 but now I have enough DF monster books that I can swipe appropriate stat blocks
 for nearly every one of them. If I need to create new ones for specific foes,
-you can be sure I'll post them here. I will however
+you can be sure I'll post them here.
 
 ## Coming Up Next
 
