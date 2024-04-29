@@ -7,15 +7,15 @@ on:
 
 jobs:
   jekyll:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: folder setup
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: setup ruby
         uses: actions/setup-ruby@v1
         with:
-          ruby-version: 2.7
+          ruby-version: 3.3.1
 
       - name: install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
@@ -23,7 +23,7 @@ jobs:
           enable_cache: true
 
       - name: deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
