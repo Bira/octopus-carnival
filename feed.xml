@@ -6,16 +6,189 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 31 Jan 2024 12:43:17 +0000</pubDate>
-    <lastBuildDate>Wed, 31 Jan 2024 12:43:17 +0000</lastBuildDate>
-    <generator>Jekyll v3.9.3</generator>
+    <pubDate>Mon, 29 Apr 2024 01:09:24 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2024 01:09:24 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Denizens of the Sea</title>
+        <description>&lt;p&gt;I’ve published an article about &lt;a href=&quot;/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html&quot;&gt;underwater adventuring&lt;/a&gt; in the past, in
+which I mentioned that “fish-people” had several advantages over “land-lubbers”
+when it came to mobility and fighting in an underwater environment. A later post
+included &lt;a href=&quot;/octopus-carnival/2023/11/13/underwater-items.html&quot;&gt;a few items&lt;/a&gt; that could help those land-lubbers close the
+gap… so how about we take a look at those fish-people now? As a bonus, you get
+a nice little bundle of setting info you can drop on your campaign if you want.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-fate-of-atlantis&quot;&gt;The Fate of Atlantis&lt;/h2&gt;
+
+&lt;p&gt;The name “Atlantis” figures in the myths and legends of many more places than it
+should. Cultures that have never heard of each other have stories about an
+empire that ruled the waves in ancient times but no longer exists. The stories
+might differ but the name is always the same.&lt;/p&gt;
+
+&lt;p&gt;That’s because ancient Atlantis was the largest and most powerful underwater
+civilization to ever exist. They discovered a means of traveling to other worlds
+and exploited it with gusto.&lt;/p&gt;
+
+&lt;p&gt;Despite its power Atlantis eventually fell, as all empires do. The exact
+sequence of events is more or less impossible to piece together, and mostly
+irrelevant in the present day. The important bit is that their inter-world
+travel network was the first thing to go, instantly fragmenting the
+empire. That’s why each of them has a different story about how Atlantis fell -
+those stories talk only about the bits of it they knew about. In some, it
+happened overnight due to a cataclysm. In others, they eventually morphed into
+successor cultures that might still be extant in the present day.&lt;/p&gt;
+
+&lt;p&gt;Aside from giving rise to a whole bunch of legends and to fueling the occasional
+would-be despot’s ambitions, the most enduring legacy of Atlantis was its
+underwater engineering. They pioneered a lot of the techniques that used to make
+sturdy weapons and tools out of implausible aquatic materials like bone, shell,
+coral, and mother-of-pearl. They were also the first civilization to
+successfully make and work orichalcum.&lt;/p&gt;
+
+&lt;p&gt;But we’re not here to talk about &lt;em&gt;stuff&lt;/em&gt;, we’re here to talk about &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;so-lets-talk-about-people&quot;&gt;So Let’s Talk About People&lt;/h2&gt;
+
+&lt;p&gt;Opinions differ on whether Atlantis was a Golden Age utopia or a despotic empire
+whose downfall was a blessing to the world, but everyone agrees it was pretty
+diverse. Unlike most typical dungeon fantasy kingdoms, its citizens belonged to
+many different species with none of them making up an overwhelming majority of
+the population.&lt;/p&gt;
+
+&lt;p&gt;Many of Atlantis’ citizens can be described using already-published stats. Sea
+Elves and Water-Infused from GURPS DF 3: The Next Level fit very well, as do the
+Argonians from &lt;a href=&quot;/octopus-carnival/2018/10/10/elder-scrolls-others.html&quot;&gt;this post&lt;/a&gt;. The octopus- and shark-folk from GURPS Banestorm
+are also good fits, though they’re a bit more complex and costly than the
+standard for DF racial templates.&lt;/p&gt;
+
+&lt;p&gt;Below are a few new templates, with the overall goal of allowing a diverse
+all-underwater party if the group wants to play that type of campaign. A couple
+of the new ancestries I present here might have equivalent official templates
+already, but since I don’t have those I’m writing new ones for my own use.&lt;/p&gt;
+
+&lt;p&gt;These templates assume that being Amphibious also makes you able to see and hear
+unimpeded while submerged, and the ability to breathe underwater also makes you
+able to speak there. I feel this is in line with the simpler feel of Dungeon
+Fantasy. If you want to follow Banestorm’s assumptions instead, give all
+templates here one level of Nictitating Membrane {1} and Speak Underwater {5},
+increasing their costs by 6 points each.&lt;/p&gt;
+
+&lt;h3 id=&quot;atlantean-20-points&quot;&gt;Atlantean (20 points)&lt;/h3&gt;
+
+&lt;p&gt;This template describes people who are a product of successive generations of
+intermarriage between the other species that made up the population of Atlantis,
+and possibly some surfacers too. They are known as “Atlanteans” because their
+general look became associated with that empire. Surprisingly, they look a lot
+like humans even when they have no humans among their ancestors.&lt;/p&gt;
+
+&lt;p&gt;Atlanteans are warm-blooded, have legs, and can breathe both water and
+air. Their human-looking bits exhibit the same ethnic variety as
+humans. Individuals can also have a variable number of “fishy” traits like visible
+gills, fins, blue or gray skin, and so on. These might be visually striking but
+are never significant enough to count as more than 0-point features.&lt;/p&gt;
+
+&lt;p&gt;Atlanteans can appear in worlds that had an Atlantis, or those whose underwater
+peoples are generally friendly with each other. The base stats could also be
+used as they are or modified a bit to represent any species of underwater
+humanoid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Amphibious {10}, Gills {10}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other Traits&lt;/strong&gt;: Those fishy bits might count as varying levels of Unnatural
+Features in a setting where almost everyone is human and the character is the
+only known Atlantean, but in all other situations they’re 0-point traits. If the
+character has something like rigid fins or a prominent tail growing out of their
+lower back, they might need adapted body armor. This doesn’t cost extra, but
+might restrict their usage of looted armor.&lt;/p&gt;
+
+&lt;h3 id=&quot;crab-folk-40-points&quot;&gt;Crab-Folk (40 points)&lt;/h3&gt;
+
+&lt;p&gt;Crab-folk are sapient humanoid crustaceans easily distinguished by their heavy
+segmented carapaces. Like crabs, they lack distinct heads and their eyes are
+located at the end of a pair of flexible, retractable stalks. Unlike crabs, they
+only have the usual complement of humanoid limbs, though these are still
+armored.&lt;/p&gt;
+
+&lt;p&gt;Crab-folk can operate normally on the surface, but their gills begin to dry out
+if they go more than a day without being immersed in sea water. This means they
+tend to stick close to the coast. Their voices sound strange and “bubbly”
+outside the water, which most surfacers find off-putting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: 360-degree Vision {25}; Amphibious {10}; Gills {10}; Damage
+Resistance 5 (Cannot Wear Armor) {15}; No Neck {5};&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Cold-Blooded {-5}; Disturbing Voice (In Air, -50%) {-5},
+Dependency (Sea water, Daily) {-15}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: If your campaign takes place far from a coastal area, the
+Dependency disadvantage is worth -30 points, and the template therefore costs
+only 25. Your local alchemist can prepare a solution close enough to seawater to
+satisfy the requirement, but it’s still not free.&lt;/p&gt;
+
+&lt;h3 id=&quot;deep-ones-50-points&quot;&gt;Deep Ones (50 points)&lt;/h3&gt;
+
+&lt;p&gt;These humanoids are much more obviously “fishy” than Atlanteans, with an anatomy
+closer to that of an abyssal fish than a human’s. They’re adapted to the
+lightless depths of the ocean and that’s where they prefer to make their
+homes. Deep Ones can swim up to the shallows without suffering ill effects, but
+can’t breathe air.&lt;/p&gt;
+
+&lt;p&gt;After Atlantis fell, it was not uncommon for its Deep One settlements to become
+more isolated and break contact with shallower or surface communities. This some
+times gave rise to sinister legends and rumors about what they got up to down
+there. These are mostly bunk: they are no more prone to worshiping Elder Things
+than any other species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Amphibious {10}, Dark Vision {25}, Fangs {2}, Gills {0},
+Pressure Support 3 {15}, Tough Skin 1 {3}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Cold-Blooded {-5}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: A variant that can operate on the surface would be closer
+to several classic D&amp;amp;D fish-people. They have the 10-point version of Gills and
+so cost that much more.&lt;/p&gt;
+
+&lt;h3 id=&quot;merfolk-20-points&quot;&gt;Merfolk (20 points)&lt;/h3&gt;
+
+&lt;p&gt;Merfolk are humanoid from the waist up and have fish bodies from the waist
+down. They can breathe both air and water and have naturally melodious voices in
+both mediums, but they require magic or assistive devices like wheelchairs to
+operate on land. Their human halves display the same variance as Atlanteans, and
+their fish halves can resemble a variety of species of fish, shark, or cetacean.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Gills {10}, Voice {10}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: No Legs (Aquatic) {0}.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;: The “Leg” and “Foot” hit locations on merfolk refer to their tail
+and lower fins instead. Armor for those locations must be specially
+constructed. As usual this doesn’t cost extra but limits which looted armor they
+can use.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: If your character’s fish half mimics a particularly speedy
+species, they might have Enhanced Move 1 (Water) for an extra 20 points. At the
+GM’s option, this might be a matter of training instead of biology, which means
+any merfolk character can buy this with earned points as a power-up.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/04/28/atlantis.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/04/28/atlantis.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
     
       <item>
         <title>The Great Tabletop Hackaton: Hard Wired Island</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
    &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/hard-wired-island-cover.png&quot;/&gt;
    &lt;figcaption&gt;
-     Hard Wired Island's cover.
+     Hard Wired Island&apos;s cover.
    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -212,7 +385,7 @@ brief.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Let's Read Neverwinter: Veil and Surcross</title>
+        <title>Let&apos;s Read Neverwinter: Veil and Surcross</title>
         <description>&lt;p&gt;And finally we get to look at the Thayan cities and the road between them.&lt;/p&gt;
 
 &lt;h2 id=&quot;veil&quot;&gt;Veil&lt;/h2&gt;
@@ -376,7 +549,7 @@ under Surcross’ Tombstone.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Let's Read Neverwinter: Kolthunral, the Flying Fortress</title>
+        <title>Let&apos;s Read Neverwinter: Kolthunral, the Flying Fortress</title>
         <description>&lt;p&gt;Kolthunral is the Netherese flying fortress currently besieging Surcross. We’ll
 look at it first because it kinda dominates the skyline and its goals are
 important to contextualize everything else that’s going on in this area.&lt;/p&gt;
@@ -638,7 +811,7 @@ remove the Snap and install the traditional package:&lt;/p&gt;
 
 &lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt remove firefox
 
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-t&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'o=LP-PPA-mozillateam'&lt;/span&gt; firefox
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-t&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;o=LP-PPA-mozillateam&apos;&lt;/span&gt; firefox
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Since my user profile is in my home directory this preserved all of my bookmarks
@@ -707,7 +880,7 @@ right, but they only have to do that once. &lt;a href=&quot;#fnref:2&quot; clas
         <description>&lt;figure class=&quot;center&quot;&gt;
    &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/nco-cover.png&quot;/&gt;
    &lt;figcaption&gt;
-     Neon City Overdrive's cover.
+     Neon City Overdrive&apos;s cover.
    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1067,7 +1240,7 @@ enchantments.&lt;/p&gt;
       </item>
     
       <item>
-        <title>Let's Read Neverwinter: Thay</title>
+        <title>Let&apos;s Read Neverwinter: Thay</title>
         <description>&lt;p&gt;The Shadowfell Road ends in Thay.&lt;/p&gt;
 
 &lt;p&gt;This is where the book technically breaks its promises. While every other place
@@ -1226,7 +1399,7 @@ Neverwinter.&lt;/p&gt;
         <description>&lt;figure class=&quot;center&quot;&gt;
    &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr5-cover.png&quot;/&gt;
    &lt;figcaption&gt;
-     Shadowrun 5th Edition's cover.
+     Shadowrun 5th Edition&apos;s cover.
    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1353,7 +1526,7 @@ definitely going to draw the ire of Overwatch.&lt;/p&gt;
         <description>&lt;figure class=&quot;center&quot;&gt;
    &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr5-cover.png&quot;/&gt;
    &lt;figcaption&gt;
-    Shadowrun 5th Edition's cover.
+    Shadowrun 5th Edition&apos;s cover.
    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1546,190 +1719,6 @@ SR5’s writers were ascended GMs themselves. &lt;a href=&quot;#fnref:1&quot; c
         <category>cyberpunk</category>
         
         <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let's Read Neverwinter: Beyond Evernight</title>
-        <description>&lt;p&gt;The last couple of posts have already covered all important locations inside
-Evernight, so now we leave town to look at its surroundings.&lt;/p&gt;
-
-&lt;h2 id=&quot;burning-woods&quot;&gt;Burning Woods&lt;/h2&gt;
-
-&lt;p&gt;Turns out the surroundings are mostly on fire!&lt;/p&gt;
-
-&lt;p&gt;The Shadow reflection of the Neverwinter Wood started burning when Mount Hotenow
-erupted and never stopped. The fire spread through the whole forest and the
-trees still smolder decades after any mundane plant would have been reduced to
-ash.&lt;/p&gt;
-
-&lt;p&gt;Travelers going from the city to the Wood first wade through a wasteland where
-they’re calf-deep in ash sprinkled with embers. The smoke in the air becomes
-thicker and thicker, with a color identical to that of the ash on the ground,
-resulting in very poor visibility all around. Sometimes they’ll get ambushed by
-burrowing undead jumping from the ash.&lt;/p&gt;
-
-&lt;p&gt;At the forest itself the road splits into several twisty forest trails that
-weave through the incandescent trees. Despite being a navigational hazard
-themselves, these trails are the only usable paths through the forest, and the
-many bandits and predators who somehow live here know this. Where the world has
-waterways, the Burning Wood has rivers of lava streaming from Hotenow.&lt;/p&gt;
-
-&lt;p&gt;Most of the Burning Wood has the extreme heat or pervasive smoke terrain
-features, often at the same time. There might also be some squares with more
-active fire-based hazards like cinder falls, caustic geysers, or the lava
-rivers. And there are stats for an Ash Tree hazard (har har) that will try to
-slam or grab passing PCs with its burning branches.&lt;/p&gt;
-
-&lt;h3 id=&quot;den-of-the-hunters&quot;&gt;Den of the Hunters&lt;/h3&gt;
-
-&lt;p&gt;Some sample opposition/dubious allies for the area. This band of erudite hunters
-has a temporary shelter in an earthen cave that’s protected from the heat and
-cinder falls. They’re made up of several mortal species, but their leaders are
-shadar-kai. They have a pack of “hounds” who are former humanoids corrupted by
-the Shadowfell, robbed of their sapience and reduced to walking on all fours.&lt;/p&gt;
-
-&lt;p&gt;The hunters welcome visitors, and would be happy to chat with the characters and
-provide them with shelter and a place to rest for a while. That peace is
-unlikely to last for very long, because soon it will be obvious that these
-hunters hunt &lt;em&gt;people&lt;/em&gt;, and they’ll either invite the characters along or decide
-to hunt them. Either situation is likely to lead to violence.&lt;/p&gt;
-
-&lt;h2 id=&quot;mount-hotenow&quot;&gt;Mount Hotenow&lt;/h2&gt;
-
-&lt;p&gt;This Mount Hotenow is still erupting, making it much more dangerous than the one
-in Toril. Some of its caves are still navigable, and might contain portals to
-the middle world or the Elemental Chaos. These portals are usually controlled by
-elemental creatures from the same group that inhabits the mountain in Toril, but
-some of them also contain fire-themed undead.&lt;/p&gt;
-
-&lt;p&gt;Characters who have already fought and killed some of the elementals over in
-Toril’s Hotenow might find themselves having to fight their ghosts here. There’s
-also a small table with fire-themed heroic undead that could be found in the
-place.&lt;/p&gt;
-
-&lt;p&gt;There doesn’t seem to be much of interest here, despite all that. Most parties
-will only come here via a detour from the Toril version of the mountain as they
-descend to Gauntlgrym. Perhaps this detour is the only path forward, as the
-corresponding passages in the world are blocked by a cave in or some such.&lt;/p&gt;
-
-&lt;h2 id=&quot;shadowfell-road&quot;&gt;Shadowfell Road&lt;/h2&gt;
-
-&lt;p&gt;The Shadowfell Road is a ritual path. If you start at either end and follow the
-proper boundary markers (alleys, tree arches, mountain passes), the
-space-warping properties of the Shadowfell will carry you for a much larger
-distance than the one you end up walking. The Road starts at the Thayan outpost
-in Evernight, and ends in the Thayan city of Surcross.&lt;/p&gt;
-
-&lt;p&gt;Supplies for the Dread Ring arrive from Surcross via the Road, and then are
-taken to another Shadowfell portal just outside Evernight that leads directly to
-the fortress over in Toril.&lt;/p&gt;
-
-&lt;p&gt;To follow the Road you &lt;em&gt;have&lt;/em&gt; so start at either Surcross or Evernight,
-otherwise the magic has no effect. Not all of the intermediate stops are in the
-Shadowfell either, or even located between the two physical ends. The Thayans
-usually travel in high enough number to discourage attack by monsters, but small
-parties of PCs won’t be so lucky.&lt;/p&gt;
-
-&lt;p&gt;The route along the road is not obvious. PCs who wish to follow it to Surcross
-will likely need to track a Thayan caravan that’s heading there to pick up
-supplies, or locate the next portal via applications of the Arcana skill.  If
-they can’t find their way, they might need to travel back to the campaign area
-the hard way. This is an excellent opportunity to include Shadowfell-based side
-adventures, though I imagine your players might not be as happy about that as
-you.&lt;/p&gt;
-
-&lt;p&gt;The book presents some of the stops along the way, in the order one would find
-them when going from Evernight to Surcross.&lt;/p&gt;
-
-&lt;h3 id=&quot;endless-alleys&quot;&gt;Endless Alleys&lt;/h3&gt;
-
-&lt;p&gt;The portals leading to this place are easy to spot, because there will be a
-bunch of empty Thayan wagons parked near them, probably guarded by undead. They
-keep them in reserve at both ends because this area has to be traveled on foot.&lt;/p&gt;
-
-&lt;p&gt;This is an endless series of alleys. The buildings on either side are tall and
-have no windows or doors. They go on forever - turning a corner leads only to
-more alleys. It’s possible to climb to the roofs, and the view from up there is
-an endless expanse of nondescript roofs with alleys between them.&lt;/p&gt;
-
-&lt;p&gt;After they’ve been here for a little bit, the PCs will start to see phantom
-children holding toys. Their faces are expressionless but they giggle in an
-unsettling manner. The ghosts will try to hug the characters, but their touch
-inflicts necrotic agony. When one is destroyed, the child vanishes and the
-toy drops to the ground, whining in disappointment as it dissolves. You can use
-any kind of level-appropriate incorporeal undead stat block for them.&lt;/p&gt;
-
-&lt;h3 id=&quot;still-waters&quot;&gt;Still Waters&lt;/h3&gt;
-
-&lt;p&gt;This stretch of the Road is a swamp that looks exactly like you’d expect a
-Shadowfell swamp to look. The road is made up of a bunch of logs lashed
-together, and it branches off at points, going to gods-know-where.&lt;/p&gt;
-
-&lt;p&gt;There are small communities living here in small villages that can be seen off
-in the distance. Their inhabitants move around on pole barges and keep to
-themselves, but if you look closely you’ll notice they all wear
-blindfolds. That’s because if you spot your own reflection in the water it will
-animate and try to drown you.&lt;/p&gt;
-
-&lt;h3 id=&quot;obsidian-ziggurat&quot;&gt;Obsidian Ziggurat&lt;/h3&gt;
-
-&lt;p&gt;This part of the Road goes through an abandoned village, cutting right through
-its center. The village itself is unremarkable, but the giant obsidian ziggurat
-looming just outside it is very noticeable. The platform at the top of the
-pyramid sometimes shows torchlight and moving shadows, though there are no
-shapes casting them. They dance to the beat of an unhread drum.&lt;/p&gt;
-
-&lt;p&gt;The shadows make an attack against the Will of anyone watching them. Those who
-are hit feel compelled to climb the steps of the ziggurat and join in their
-dancing. Those who end up dancing for a minute or more are teleported to a
-similar ziggurat in the world, in an area called the Lake of Salt. They’ll
-appear among the snaketongue cultists and were-snakes that were performing a
-ritual and are the ones actually casting those shadows in the
-Shadowfell. Hilarity will ensue.&lt;/p&gt;
-
-&lt;p&gt;Those who get trapped like this can return to the Shadowfell Road by destroying
-the altar in the Lake of Salt pyramid.&lt;/p&gt;
-
-&lt;h3 id=&quot;village-of-the-mad-druid&quot;&gt;Village of the Mad Druid&lt;/h3&gt;
-
-&lt;p&gt;This is a peaceful village full of people who are thriving as much as can be
-expected in the Shadowfell… except that they all wear hilariously bad undead
-disguises. You see, the village’s protector is an eladrin druid named Shalanka,
-with stats as a twilight incanter. She went insane and has come to believe that
-undeath is the natural order of things, therefore she must protect the undead
-and kill the living. She is aided in this by a menagerie of undead animals.&lt;/p&gt;
-
-&lt;p&gt;Shalanka’s grip on reality is tenuous enough that the amateur hour disguises of
-the citizens can fool her, and she does act as an effective protector for
-them. She lets the Thayans pass through unmolested because she doesn’t have the
-strength to oppose their large force, but she’ll feel pretty confident about her
-chances of killing the PCs. Shalanka isn’t really evil, tough, and PCs who don’t
-want to deprive the village of its protector might get bad disguises of their
-own to avoid a fight or perhaps even try to heal her mind.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;I love the idea of a ritual road, and I love that it seems to be a license to
-add surreal and bizarre locations to a campaign. While I wouldn’t call the other
-locations in the campaign “mundane”, the example ones here stand out for how
-evocative and weird they are.&lt;/p&gt;
-
-&lt;p&gt;I also really like the imagery of the ash-choked, eternally burning woods. The
-book really sells how dreary it is, and how hard it is to see anything. But
-there’s not much reason to go there unless the GM places an important objective
-somewhere in the woods. I wonder what Shandarar’s Shadow looks like.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Nov 2023 10:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/08/neverwinter-beyond-evernight.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/08/neverwinter-beyond-evernight.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>neverwinter</category>
-        
-        <category>lets-read</category>
         
         
       </item>
