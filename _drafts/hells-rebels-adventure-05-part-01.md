@@ -8,12 +8,12 @@ tags:
     - dungeon-fantasy
 ---
 
-In the first four adventures of this campaign our brave PCs managed to stage a
-successful uprising against the dastardly Barzilai Thrune, decimating his
-lackeys, running him out of town, and later killing him in a final
-confrontation. The city of Kintargo is once again free, and Lord Mayor Jilia
-Bailinus has been reinstated after the PCs helped her recover from a slight case
-of vampirism inflicted by Thrune's allies.
+If everything went right in the first four adventures of this campaign our brave
+PCs managed to stage a successful uprising against the dastardly Barzilai
+Thrune, decimating his lackeys, running him out of town, and later killing him
+in a final confrontation. The city of Kintargo is once again free, and Lord
+Mayor Jilia Bailinus has been reinstated after the PCs helped her recover from a
+slight case of vampirism inflicted by Thrune's allies.
 
 The Silver Ravens are still around as an organization, but many of its members
 either go back to their previous lives or accept legitimate jobs with the new
@@ -126,8 +126,8 @@ in Hell, he remains dead but is forever prevented from becoming a genius loci.
 
 This reveals our campaign's remaining _third_ big problem. Barzilai's plans have
 not been stopped, and we definitely don't want him to become Ravounel's genius
-loci. However, this is a "decades away" problem and we need to tackle a few more
-urgent ones before we do this one.
+loci. However, this is a "future us" problem and we need to tackle a few more
+urgent ones first.
 
 ### The Kintargo Contract
 
@@ -210,7 +210,7 @@ it to the receptionists, who will take them to a conference room and notify
 Oddie. He takes 3d6 hours to show up because his sense of time is a bit warped,
 but show up he does, and has a peaceful meeting with the PCs. Fortunately there
 is a bathroom with a working toilet and potable sink, and the room is furnished
-with a drink collection and a spoon that can generate magical means on demand
+with a drink collection and a spoon that can generate magical meals on demand
 (the food is harmless and tastes heavenly but looks like literal shit).
 
 Parties who don't know the password can try to be sneaky. The office has no

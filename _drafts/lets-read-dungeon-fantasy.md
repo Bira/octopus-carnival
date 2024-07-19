@@ -7,9 +7,9 @@ tags:
 ---
 
 If you only read this blog through the GURPS Day feed, you might not know I've
-been doing a series of extensive "Let's Read" projects of all the D&D 4th
-Edition Monster Manuals and the Neverwinter Campaign Setting. I like those
-project! They're easy to write for.
+done a series of extensive "Let's Read" projects of all the D&D 4th Edition
+Monster Manuals and the Neverwinter Campaign Setting. I like those projects!
+They were pretty easy to write for.
 
 However, since none of its posts are GURPS articles, they don't get into the
 feed and I don't announce them on the GURPS-only forums and social networks I
@@ -29,11 +29,11 @@ let's recap a bit.
 
 ## What Is Dungeon Fantasy?
 
-"Dungeon Fantasy" is the name of the very specific sub-genre of fantasy that
-Dungeons & Dragons arguably created. It's probably the most popular genre in the
-tabletop RPG hobby, though people tend lump it in with the broader "fantasy" or
-"medieval fantasy" because the "dungeon" aspect is usually so ubiquitous it's
-invisible[^1].
+"Dungeon Fantasy" is the name Steve Jackson Games invented to describe the very
+specific sub-genre of fantasy that Dungeons & Dragons arguably created. It's
+probably the most popular genre in the tabletop RPG hobby, though people tend
+lump it in with the broader "fantasy" or "medieval fantasy" because the
+"dungeon" aspect is usually so ubiquitous it's invisible[^1].
 
 At the core of it, dungeon fantasy is about a band of adventurers going into
 dungeons to kill monsters and loot treasure. It can certainly feature other
@@ -51,10 +51,29 @@ any GURPS books to play, and may have different _base assumptions_ from those in
 core GURPS.
 
 I wrote a review of the game back in 2017 when I acquired it. As I said in that
-review, [DFRPG is my second-favorite edition of D&D][2]. We will be reading
-through the boxed set in this series, and leaving our pre-conceived notions
-about GURPS behind as we do so. That'll let us look at it with fresh eyes.
+review, [DFRPG is my second-favorite edition of D&D][2]. It's by far the
+chunkiest Powered By GURPS title: while most others consist of a single book,
+this one is a boxed set with five hardcover books inside:
 
+- **Adventurers**, which is your Player's Handbook with nearly everything you
+  need to make a character.
+
+- **Spells** contains the magic system and all the spells used in the game. You
+  need this if you're playing a caster.
+
+- **Exploits**, which is your Game Master's Guide with everything you need to
+  run the game.
+
+- **Monsters**, which is your Monster Manual. We'll certainly be in familiar
+  territory when we get here!
+
+- **I Smell A Rat** is an introductory adventure for starting delvers, with some
+  twists since "starting delvers" means something quite different here than it
+  does in D&D.
+
+There's a lot to cover here, so some posts might end up being a bit light on
+detail. Hopefully, though, I'll manage to convey the gist of the system to
+someone who is not familiar with it.
 
 
 [^1]: There are plenty of "non-dungeon" fantasy games out there, of course, but

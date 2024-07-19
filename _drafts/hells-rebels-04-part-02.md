@@ -11,21 +11,11 @@ tags:
 Before I launch into a description of the final part of this adventure, I think
 it's useful to go over some background information.
 
-## Barzilai's Master Plan
+## Barzilai's Desperation Move
 
-As mentioned waaay back in the first parts of this series, Barzilai Thrune's
-master plan is to become a "genius loci", a powerful spirit tied to a specific
-place. This would make him epic-level and immortal, an eternal feature of the
-area where Kintargo now stands. He used a ritual given to him by Mephistopheles
-for the purpose - he enacted it somewhere in Adventure 02.
-
-The ritual had him remove his own heart and tie his life essence to the
-land. Barzilai will become a genius loci after he dies of natural causes, having
-lived the whole remainder of his natural life in the region. Those details are
-very important, as is typical on diabolical contracts. Should Barzilai die
-before his appointed time, he will spend the intervening years being tortured in
-Hell before he can become an epic level spirit. So you can see why he's very
-interested in preserving his life at this moment.
+As we say back in the background for Adventure 01, Barzilai's ritual to become a
+genius loci will only work as planned if he dies a natural death from old
+age. So he very much wants to keep on living.
 
 As soon as he sees he's lost the upper hand in the rebellion (at Authority 0),
 the dictator will turtle up in the Temple of Asmodeus, and will order its high
@@ -179,10 +169,10 @@ this dungeon, but he's definitely defeatable.
 
 The problem is he's nearly _unkillable_. The same infernal pact that lets him
 survive without a heart also make him supernaturally resilient to HP damage. He
-can keep operating normally until reduced to -24 HP, after which he becomes
-stunned. The stun only clears if he's healed to above -24 HP, but he does have
-access to a class ability that gives him fast healing and he uses that at the
-start of every fight.
+can keep operating normally until reduced from 206 all the way to -24 HP, after
+which he becomes stunned. The stun only clears if he's healed to above -24 HP,
+but he does have access to a class ability that gives him fast healing and he
+uses that at the start of every fight.
 
 There are two ways to kill him for real: total bodily destruction, or a certain
 set of insta-death or soul-trapping spells.

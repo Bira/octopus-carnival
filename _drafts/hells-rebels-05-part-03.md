@@ -148,7 +148,7 @@ game. The gang intends to capture as many people as they can and run away on an
 allied smuggler ship that's going to dock here in a couple of months. They come
 into the notice of the PCs when they kidnap one of their NPC allies. This should
 probably be someone important to the story, maybe someone they need to rescue in
-order to secure a board member's vote.  I suggest one of Geoff Tanessen's sons
+order to secure a board member's vote. I suggest one of Geoff Tanessen's sons
 for parties who don't really feel like negotiating trade deals to satisfy him,
 or Laria Longroad for cruel GMs.
 
@@ -174,8 +174,8 @@ out. Barzilai also used the Soul Anchor as part of his ritual - it's where his
 heart is. The artifact can also sometimes emit "flares" that can anchor people
 at a distance.
 
-His soul was hurled to the Abyss, where he reformed as a babau demon and
-proceeded to become a faithful worshiper of the demon lord of murder. When
+The Slasher's soul was hurled to the Abyss, where he reformed as a babau demon
+and proceeded to become a faithful worshiper of the demon lord of murder. When
 Barzilai died he got curious and came back to Kintargo with a posse of cambion
 followers. The Slasher occupied his old secret lair in an abandoned wing of the
 Alabaster Academy, which had never been discovered, and set out on another

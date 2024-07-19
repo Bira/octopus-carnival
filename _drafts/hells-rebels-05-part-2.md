@@ -72,7 +72,7 @@ invaded the place, or if they were imprisoned there themselves.
 
 While Mayhart is a convicted criminal, all of his rights and privileges are
 suspended, including the right to be a board member. This being infernal magic,
-the legalities are very important. He will gladly vote the PCs way, but they
+the legalities are very important. He will gladly vote to ratify Jilia, but they
 have to clear his name.
 
 Fortunately Lerish isn't actually dead. Mayhart did challenge him to a duel, but
@@ -95,14 +95,14 @@ board and retreated both from politics and from the aristocratic life. They live
 comfortably in Redroof now. Their matriarch, 85-year old Raenna Solstine,
 remembers her father's role as a board member, and is no supporter of
 Thrune. However, she also has a strong distaste for the Silver Ravens ever since
-her two grandchildren died fighting in their name during the campaign.
+her two grandchildren died fighting in their name during the rebellion.
 
 It's up to the GM whether the Solstine boys were active members of the Ravens or
-just enthusiastic supporters, but in either case she's still grieving. Trying to
-"compensate" her for the loss of her grandchildren will just enrage the old
-matron. Honest compassion will take the PCs much further, and allow to convince
-her to ratify Bainilus in order to prevent House Thrune from invading and
-killing more young people.
+just enthusiastic supporters, but in either case they died offscreen and their
+grandmother is still grieving. Trying to "compensate" her for the loss of her
+grandchildren will just enrage the old matron. Honest compassion will take the
+PCs much further, and allow to convince her to ratify Bainilus in order to
+prevent House Thrune from invading and killing more young people.
 
 ### Tanessen
 

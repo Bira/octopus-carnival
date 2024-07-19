@@ -25,9 +25,9 @@ not just Kintargo but the entire province of Ravounel.
 The next few days immediately after the PC's victory at the temple are a flurry
 of activity as the former rebel organization sets itself up as the new
 government. If Jilia Bailinus has been rescued and revived (a likely outcome),
-then she's immediately reinstated as the new Lord Mayor. Otherwise the job goes
-to a sympatethic noble or priestly NPC - the players should have some input on
-who gets the job.
+then she's immediately reinstated as Lord Mayor. Otherwise the job goes to a
+sympatethic noble or priestly NPC - the players should have some input on who
+gets the job.
 
 The new mayor will have several difficult issues to solve in the medium term,
 but for now it's time to celebrate!

@@ -8,23 +8,23 @@ dispersed by dottari or CCG thugs, and this is the largest one yet.
 
 Anyway, our heroes are all at the protest for their varied motives:
 
-Now that she's back in town Jade will never miss a protest against Thrune if she
-can help it. It's also a good way to catch up on the news and figure out what to
-do from here.
+- Now that she's back in town Jade will never miss a protest against Thrune if
+  she can help it. It's also a good way to catch up on the news and figure out
+  what to do from here.
 
-Arcturus is here for pretty much the same reason, though in this case he's
-looking for news about the missing sea elves.
+- Arcturus is here for pretty much the same reason, though in this case he's
+  looking for news about the missing sea elves.
 
-Rosalia is here due to rumors that the missing bard Shensen would be present,
-though they'd probably show up even if she hadn't gone missing.
+- Rosalia is here due to rumors that the missing bard Shensen would be present,
+  though they'd probably show up even if she hadn't gone missing.
 
-Urist is here to find Rexus Victocora. He was tipped off by Laria Longroad
-that the man would be here. He is the last surviving family member of some of
-his former colleagues, and he will save the boy if he can.
+- Urist is here to find Rexus Victocora. He was tipped off by Laria Longroad
+  that the man would be here. He is the last surviving family member of some of
+  his former colleagues, and he will save the boy if he can.
 
-Jania is also interested on the news, though in her case she's worried about how
-the current political climate might affect her school. Her disposition also
-makes her inclined to try some pickpocketing here.
+- Jania is also interested on the news, though in her case she's worried about
+  how the current political climate might affect her school. Her disposition
+  also makes her inclined to try some pickpocketing here.
 
 # Actions
 
@@ -49,7 +49,7 @@ Watching the Crowd:
 
 So everyone notices that the crowd is agitated and discontented, but not overly
 violent. Jade additionally notices a subtle undercurrent there as if there's a
-group trying to organize the crowd without being seen. There might be trouble
+group trying to rile up the crowd without being seen. There might be trouble
 brewing!
 
 Those who succeeded by any margin also perceive the general layout of the
@@ -137,11 +137,11 @@ Things happen more or less as described in the book at this point. Barzilai
 appears, makes his eighth proclamation forbidding foreign ship captains from
 leaving their vessels on pain of torture, and gets pelted with horse manure.
 
-I wanted Arcturus to be the one who throws it, since he's pretty enraged at
-Barzilai right now. This was actually the first roll I made in Foundry, an
-attack using **Throwing Art**. I took into account the distance between
-Arcturus' position in the map and the balcony (behind and above Nox), as well as
-its elevation. And he hit!
+I wanted Arcturus to be the one who throws it, since he's pretty annoyed at
+Barzilai right now and is impulsive enough to want to start something. This was
+actually the first roll I made in Foundry, an attack using **Throwing Art**. I
+took into account the distance between Arcturus' position in the map and the
+balcony (behind and above Nox), as well as its elevation. And he hit!
 
 The horse apple veers off-course at the last minute because Barzilai has a
 **Missile Shield** on himself, but he still flinches and spills his wine,
@@ -268,3 +268,9 @@ of dottari, and then the rest as a "you should run now" message. Putting
 everyone on the map from Round 1 and increasing the total number of dottari
 seems to be the right way to make this challenging and exciting for starting DF
 delvers.
+
+While they technically ran from this fight, that was the goal, so I can consider
+this a victory. I give them 1 point for it.
+
+This scene was definitely chaotic and though the characters acquitted themselves
+well, the Chaos Factor rises to 6.
