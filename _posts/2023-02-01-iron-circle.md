@@ -89,7 +89,7 @@ Vulnerability 5. Maybe acid interacts badly with the tar?
 
 The most basic and numerous soldier of the Circle uses this stat block. As the
 name implies, they're definitely not above engaging in a little banditry. These
-are Level 1 Soldiers with 28 HP. They're well-equipped with scale armor, shield
+are Level 1 Soldiers with 28 HP. They're well-equipped with scale armor, shield,
 mace, crossbow and a fancy black cloak with the Circle's emblem (a circle made
 of chains) embroidered on it.
 
@@ -205,7 +205,7 @@ impression the Circle wouldn't have a use for the tiefling gang, but it turns
 out they would neatly slot into each other's plans.
 
 It was pointed out to me that the Shadow Court could be seen as embodying
-several unfortunate anti-semitic tropes. One way to avoid that would be to not
+several unfortunate antisemitic tropes. One way to avoid that would be to not
 make them a spy ring working for the Iron Circle from the start, to have a
 more diverse membership than just tieflings, and to completely remove all the
 text about their recruiting practices.
