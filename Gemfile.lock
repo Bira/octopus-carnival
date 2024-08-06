@@ -225,7 +225,7 @@ GEM
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
-    nokogiri (1.15.6)
+    nokogiri (1.16.5)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -270,7 +270,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (>= 228)
   minima
-  nokogiri (~> 1.15.6)
+  nokogiri (~> 1.16.5)
   rake
   webrick
 
