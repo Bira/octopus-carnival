@@ -8,41 +8,26 @@ tags:
 ---
 
 Most of my experiences playing Star Wars RPGs were with the classic system from
-West End, years ago now. A few sessions under a couple of different GMs, both of
-whom were big fans of the setting and the system. I've also read some of the
+West End, decades ago now. A few sessions under a couple of different GMs, both
+of whom were big fans of the setting and the system. I've also read some of the
 books one of these friends had. I'm sure my impressions in the rest of this post
 are a mix from the actual game text and from the GMs in question. It's been a
-while.
+while, so please take my descriptions with a grain of salt.
 
-The memory that sticks with me the most is that the game put us players in a
-state of constant "Jedi tension". It both sold Jedi as the most awesome
-character type in the entire galaxy, and strictly forbid players from being
-one. As a game written in the late 80s/early 90s, it placed a lot of importance
-on the Official Stories. And since there wasn't much of an "extended universe"
-back then, that meant the original trilogy of movies.
+The memory that sticks with me the most was that WEG's take on playing a Jedi
+was "don't". As a game written in the late 80s/early 90s, it placed a lot of
+importance on the Official Stories. Since there wasn't much of an "extended
+universe" back then, that meant the original trilogy of movies. And those movies
+stated that the only Jedi left in the galaxy were those that appeared on
+screen. And you can't play _those_, they're much too awesome to become mere PCs.
 
-By default, campaigns in that game took place either shortly before Episode IV,
-or somewhere during the original trilogy. The authors had decided the only Jedi
-left in the Galaxy were those that appeared on-screen, and so therefore players
-couldn't make Jedi characters. Oh, there were rules for being a Jedi, because
-they had to show stats for the canonical characters, but you couldn't actually
-play one.
-
-Want to make a new, heretofore unknown Jedi survivor? You can't, there aren't
-any! Want to play one of the canonical characters? You can't, they're Official
-NPCs and therefore both untouchable and much more awesome than you can ever hope
-to be. The closer you could get was to play a "Force-sensitive" character who
-was either completely untrained, or belonged to some quirky alien tradition that
-escaped the Empire's purge by sheer luck. You were distinctly second-fiddle to a
-proper Jedi. And yeah, even though Luke himself fit the "untrained sensitive"
-category during Episode IV, it would take around 10 years of weekly sessions for
-a starting PC with that archetype to reach Luke's official stats.
-
-I think a bit of this attitude might have ended up being inherited by subsequent
-games in the franchise, because the implementation they go with is very similar
-even when the setting is not as restrictive. Jedi are the best at using the
-Force. No other class or archetype can even attempt it, save perhaps for the
-weaker "Force Adept" that acts as a consolation prize when Jedi aren't playable.
+While subsequent games became less restrictive about the ability to play a Jedi,
+they seem to have kinda inherited some of WEG's outlook when implementing
+them. Jedi are usually the best at using the Force. If there are rules for
+non-Jedi Force users, they're usually for some sort of "Force Adept" that's
+distinctly second fiddle to Jedi. You only play them when Jedi aren't available,
+or when your character concept demands it (the old "interesting or effective,
+pick one" dilemma).
 
 Anyway, as you might have guessed from the rant above, I'd do things differently
 if I ever GMed a Star Wars game. In short, the Force would really work as
@@ -97,47 +82,41 @@ Jedi do not focus on being powerful, but on making those around them powerful.
 
 ### What about the bad guys?
 
-In standard Star Wars, the Empire is more or less the antithesis of everything
-that is good, and it would be so even if there were no Sith involved in running
-it. It ticks all the fascism boxes, and the fact that it does so is a conscious
-decision on the part of the writers going back to George Lucas himself. Any
-portrayal that tries to say they maybe have a point is at best incorrect. The
-First Order from the sequel movies is pretty much a warmed-over Empire and so is
-just as bad.
+You can find villainous Force users anywhere you can find other villains. Some
+are affiliated with the Empire, some are independent. Generally, their powers
+tend to be very similar to those of heroic characters - the Dark Side is more of
+a moral parable and a metaphor than a separate set of powers. The Enemy Ace uses
+the same piloting-boosting powers as the Heroic Ace, but he uses it to bomb
+civilians and destroy fleeing refugee transports.
 
-In our variant setting, where everyone has a connection to the Force and this is
-seen as a good thing, the Empire adds a strong "Force-elitist" streak to its
-long list of bad traits. In a galaxy where everyone is Force-sensitive, the
-Empire believes the Force should be the exclusive domain of a chosen few.
+What about the Empire, then? In standard Star Wars, the Empire is more or less
+the antithesis of everything that is good, and it would be so even if there were
+no Sith involved in running it. In our variant setting, where everyone has a
+connection to the Force and this is seen as a good thing, the Empire adds a
+strong "Force-elitist" streak to its long list of bad traits. In a galaxy where
+everyone is Force-sensitive, the Empire believes the Force should be the
+exclusive domain of a chosen few. As you might expect, its propaganda accuses
+its own enemies of being elitist, and "lording over the common citizen" with
+their spooky powers. Projection all the way down.
 
-The Empire seeks to recruit skilled people whose moral outlook is compatible
-with its own, while at the same time outlawing and suppressing traditional Force
-training in the areas it occupies. Of course, it also recruits plenty of people
-with no particular skill in the Force, since those stormtroopers and random crew
-members have to come from somewhere. The training given to these people
-_prevents_ them from learning Force techniques of their own, and is mixed with
-plenty of propaganda about how this is better than relying on "ancient
-religions" their superstitions.
+The training regimen it applies to its rank-and-file soldiers _prevents_ them
+from learning Force techniques on their own, while making them susceptible to
+being used as "batteries" by the Sith, whose special technique is the exact
+opposite of the Jedi's: they're Force vampires, making themselves powerful at
+the expense of others.
 
-Just like it happens over on the Light Side, there are many villainous Force
-users in the setting. You can find them anywhere you can find other
-villains. Some are affiliated with the Empire, some are independent but still
-bad. Their powers tend to be very similar to those of heroic characters - the
-Dark Side is more of a moral parable and a metaphor than a separate set of
-powers. The Enemy Ace uses the same piloting-boosting powers as the Heroic Ace,
-but he uses it to bomb civilians and destroy refugee
+Of course, the Empire also seeks to recruit skilled Force users whose moral
+outlook is compatible with its own. These will be dangerous named opponents and
+might or might not employ Sith techniques.
 
-Our version of the Sith is the complete opposite of our Jedi, which is fitting
-since the Sith are still an evil offshoot of the Jedi. They are the ultimate
-elitists, believing only themselves worthy of wielding the power of the
-Force. The Sith form the true "inner circle" of the Empire, lording over even
-its other named elites the same way those elites lord over the mooks. The number
-of "true" Sith is about as limited as it is in the movies, but they're fond of
-cultivating "lesser" orders of servants beholden to a specific individual.
+### What about droids?
 
-Their signature technique is the inverse of the one taught by the Jedi: they're
-Force vampires, weakening those around them to strengthen themselves. The
-training they give their servants opens them up to this drain.
+The issue of droids in Star Wars is tangled enough that it merits its own
+post. For this one, I will just say the following: droids who are _named
+characters_ definitely count as people and they _can_ learn how to use the
+Force. That certainly applies to all droid PCs.
+
+
 
 ## In GURPS
 
@@ -164,13 +143,12 @@ learned it.
 
 GMs who want to make the different schools more distinctive can add a few
 exclusive techniques to them, like the Jedi battle meditation or the Sith
-force-vampirism. They're not necessarily more powerful or even necessarily
-exclusive, but they are distinctive.
+force-vampirism. They're not necessarily more powerful than "common" techniques,
+but they are distinctive.
 
 While lightsabers (also known as force swords in GURPS) are excellent melee
-weapons, making them an effective alternative to blasters requires a significant
-investment in points. So I think there's no problem in saying these weapons and
-the associated special techniques are widely available to non-Jedi. Not everyone
-will bother spending the points, but those who do will be rewarded with being
-badass saber-users. The decision is more about style or about making a
-statement than it is about raw power.
+weapons, making them an effective alternative to blasters requires a large
+amount of points. So I think there's no problem in saying these weapons and the
+associated special techniques are widely available to non-Jedi. There's probably
+several lightsaber schools out there. Studying the blade is a significant
+investment that pays off, but it's not the only path to badassitude.
