@@ -56,11 +56,11 @@ halfling wizard, Kyda the human bard, and Brakisi the human scout.
 
 These documents were wrong. There was one other: you.
 
-You were a small kid of uncertain parentage back then, adopted by the group as a
-kind of mascot somewhere along their career. You shared their love for Kintargo
-and its freedom, but you were too young to go on any actual adventures, so you
-mostly helped around the hideout and running small errands, and heard from their
-big battles when they returned to tell the tale.
+You were a small orphan child then, adopted by the group as a kind of mascot
+somewhere along their career. You shared their love for Kintargo and its
+freedom, but you were too young to go on any actual adventures, so you mostly
+helped around the hideout and running small errands, and heard from their big
+battles when they returned to tell the tale.
 
 This lasted until the last battle, the one against the massed armies of House
 Thrune. Jackdaw sent you away with many of her other non-combatant friends the
@@ -124,8 +124,8 @@ retrieve an important document in another city. That's why you survived. When
 you returned, you reached out to a few contacts and learned that some of your
 colleagues have surviving family. They were nobles and their family estate was
 razed during the Night of Ashes, but one of their sons is still at large. You
-are now trying to find this son and somehow get his help with getting revenge on
-Barzilai Thrune.
+are now trying to find this son, help him stay safe, and then get revenge on
+House Thrune.
 
 **Prerequisites**: None! While the Order is an excellent origin for Clerics,
 Wizards, and other big brains, it could easily have employed fightier or
@@ -140,8 +140,8 @@ the Sixth Raven if run into them.
 You can add the History and Research skills as an option to your template, and
 also all specialties of Hidden Lore if they aren't there already. You also add
 Wild Talent {20} as an optional advantage, representing a large trove of random
-knowledge. If you're using the Basic Set, Intelligence Analysis is also a good
-skill to take.
+knowledge. If you're using the Basic Set, add Intelligence Analysis to your
+template as well.
 
 **Drawbacks**: You're riven by grief and driven by revenge against Barzilai
 Thrune and his minions. This might manifest as Intolerance (Diabolists) {-5}, an
@@ -195,9 +195,9 @@ political climate is getting rather inhospitable to the school, and she hopes
 you will be able to help them survive these turbulent times.
 
 In other words: the school is currently the closest thing Kintargo has to a
-thieves' guild. They specialize in training the nicer sort of thief. Thrune
-prefers the _nasty_ sort of thief, so things might get difficult for the school
-and its students. That's where you come in.
+thieves' guild. They specialize in training secret couriers and the nicer sort
+of thief. Thrune prefers the _nasty_ sort of thief, so things might get
+difficult for the school and its students. That's where you come in.
 
 Of course, you're not here just to help your old school. You're also, er, taking
 a breather from some rather complex entanglements you left behind in the good
