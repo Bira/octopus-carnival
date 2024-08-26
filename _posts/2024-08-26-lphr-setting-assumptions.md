@@ -88,7 +88,7 @@ you can be sure I'll post them here.
 Character themes! Everybody loves character themes!
 
 
-[1]: {{ "/2023/07/08/lets-play-hells-rebels.html
+[1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 
 [2]: {{ "/2023/06/25/dungeon-fantasy-wealth.html" | relative_url }}
 
