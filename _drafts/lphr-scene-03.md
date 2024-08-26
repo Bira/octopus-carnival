@@ -81,6 +81,15 @@ eyes; Urist would too except he already knows; and Jania is a bit more
 calculating but mostly in a non-treacherous way. The Sixth Raven is just about
 the best asset you can have if your goal is to oppose Thrune.
 
+Everyone is now set to bring the Silver Ravens back. "That's a much better name
+than Justice League!", says Rosalia.
+
+Laria Longroad gave Rexus a box of valuables left to him by his mother, and he
+gifts most of them to the party. That's $750 in coins (1 gold, 17 silver, 10
+copper), a signet ring worth another $750, two sheets of Blessed Paper, and a
+folded silk undershirt enchanted with Fortify 1.
+
+If he had all of that on him, no wonder the CCG singled him out for a mugging!
 
 
 ## GM Hat: What next?
@@ -99,3 +108,32 @@ known to the assholes running the factory.
 
 So I'm gonna run the Livery now, with the same kind of changes I made in a PBP
 attempt, and Prisoners of Salt later on.
+
+I also need to talk about the treasure Rexus gives them. I imagine Pathfinder
+wants this to be the reward associated with the Aria Park riot and his rescue
+scene. The money and signed ring are fine, following the wealth conversion
+guidelines I wrote, but the knife and the Bracers of Armor are a bit weirder.
+
+All devils in Pathfinder 1 have a degree of supernatural resistance that can be
+bypassed with silver weapons. The dagger in the original reward is mean to be
+the first such weapon the PCs get in the campaign, and would let them fight the
+devils that appear under the Livery a bit more easily.
+
+In our game, that won't work, as there's no universal silver weakness. If I want
+to give them a short-term boost, I'll need something different. How about
+"Blessed Papers", Bloodborne-style? Rub this against your weapon's striking
+surface (a Ready action), and it gains the Holy property for a minute. $400,
+negligible weight, consumable. Of course, Fire Paper and Lightning Paper also
+exist and have the same stats. A large silver knife is $800, so we give them two
+sheets of Blessed Paper.
+
+The Bracers of Armor +1 are meant to give a small defensive boost to wizards,
+monks, and other unarmored characters. They give +1 to AC but don't stack with
+armor. As a player I'd want Jania to have them, as she's the least-armored party
+member.
+
+There's actually an equivalent item in GURPS DF6, the Bracers of Force, but
+they're a bit too heavy for Jania. So I'm going to replace them with a light
+silk undershirt enchanted with Fortify +1. So that's gonna provide 1 DR to the
+torso, and it can be worn under regular clothing. Total value $1120, weight
+0.4lbs/0.2kg.

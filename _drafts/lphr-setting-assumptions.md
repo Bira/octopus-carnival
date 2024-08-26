@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2024-08-26 11:50:00 -03:00
 title: "Let's Play Hell's Rebels: Adjusting Setting Assumptions"
 tags:
     - gurps
@@ -9,10 +10,22 @@ tags:
     - gm-hat
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
 It's time for me to put on my GM hat and begin preparing my solo Hell's Rebels
 campaign. As mentioned in the [previous post][1], I want to play this using the
 GURPS Dungeon Fantasy rule set instead of the campaign's native Pathfinder
 1e. Let's take a look at what this means.
+
+But wait a minute! Wasn't that previous most published more than a year ago?
+Well, turns out I started writing this one shortly after publishing it, but one
+thing and another got in the way and I'm only getting around to publishing it
+now. I'm actually a fair bit along in campaign preparation and even started
+playing, I'm just behind on documenting the process. Anyway, let's keep going.
 
 ## The Setting
 
@@ -55,28 +68,30 @@ wealthy, but I imagine the rebellion will prove to be a great money sink.
 
 The other difficulty concerns the only somewhat common part of the dungeon
 delving experience that's harder to do in Dungeon Fantasy than in D&D:
-underwater adventures. In Pathfinder, you can get potions or scrolls of Water
-Breathing for a relatively cheap price, and the effect lasts about 1 hour. In
-GURPS, the spell lasts for 1 minute before needing to be maintained, and there
-doesn't seem to be a potion or scroll version of it already statted up. Items
-that let you breathe water when worn are _extremely_ expensive despite their
-relatively limited usefulness.
+underwater adventures. There's a couple of extended underwater segments in the
+middle of the adventure path, and Pathfinder's default items and spells for it
+are a lot more accessible than Dungeon Fantasy's.
 
-So my challenge here, if I want to run the underwater portions of Adventure 02
-and 03, is to gather all the relevant GURPS rules in one place and come up with
-a way for our intrepid adventurers to spend a long time underwater. Again, doing
-this on a schedule stressed me out, but I might manage if I do it at my own
-pace. It will provide us with some nice blogging material if nothing else.
+But hey, it turns out I already solved that too! [This post][3] collects the
+underwater rules I'll be using, and [this one][4] has a nice set of more
+accessible items to let our PCs go for a swim and live to tell the tale. The
+truth is that I started writing this post before I wrote the underwater ones, so
+they were actually part of my effort to figure this campaign out.
 
 Monster conversions used to be a big problem back when I started the Let's Read,
 but now I have enough DF monster books that I can swipe appropriate stat blocks
 for nearly every one of them. If I need to create new ones for specific foes,
 you can be sure I'll post them here.
 
-## Coming Up Next
+## Coming up Next
 
-Let's see if we can solve that underwater conundrum.
+Character themes! Everybody loves character themes!
 
-[1]:
+
+[1]: {{ "/2023/07/08/lets-play-hells-rebels.html
 
 [2]: {{ "/2023/06/25/dungeon-fantasy-wealth.html" | relative_url }}
+
+[3]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
+
+[4]: {{ "/2023/11/13/underwater-items.html" | relative_url }}

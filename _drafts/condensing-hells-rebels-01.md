@@ -36,16 +36,24 @@ the one with the ridiculous title of "In Hell's Bright Shadow".
 ## Part 1
 
 In [Part 1 of the adventure][1] everything from the initial scene at the Aria
-Park protest to the talk with Rexus Victocora at the Long Roads Coffeehouse
-should remain as-is. These scenes open the adventure with a bang and set the
-early stakes of the campaign.
+Park protest to Rexus Victocora's rescue should remain as-is. These scenes open
+the adventure with a bang and set the early stakes of the campaign.
 
 We can tweak the events that follow this meeting for maximum story progression
 speed.
 
-- Rexus and Laria bring the PCs under their confidence immediately, telling them
-  about the potential hideout under the coffee house and about its tengu
-  situation.
+- The grimples in the old hideout under the Livery are not evil and will try to
+  parlay with the PCs. They will grant safe passage through their territory in
+  exchange for the PCs dealing with the "terrible demons" in the other half of
+  the dungeon. Alternatively, the underground level is just empty apart from
+  Blosodriette, and the PCs can recover the loot here unopposed.
+
+- If you don't want to deal with Blosodriette's extended sabotage later on, you
+  can ensure the PCs find her at the hideout, which will cause her to
+  immediately try to bargain with or kill the PCs. Depending on the system or
+  starting power level you're going with, they might already have the necessary
+  detection abilities. If they don't you could include an item that helpst with
+  this amongst the Raven stash.
 
 - The situation with the tengu sisters is different. Chough does not
   exist. Mr. Smuggler Buddy instead left saying he would return soon, and never
@@ -53,40 +61,22 @@ speed.
   fed, but they need Smuggler Buddy to leave town. Some legwork by the PCs will
   reveal that he's been captured by Thrune loyalists.
 
-- The old Silver Ravens hideout is under the **Salix Salt Works**, which is
-  being used as a forced labor camp just like in the original. The hired thugs
-  in control of it don't know about the hideout, plus it's an excellent starting
-  point to look for Smuggler Buddy. He is indeed here, which is awfully
-  convenient but is fast.
+- Smuggler Buddy has been taken to the **Salix Salt Works**, which is being used
+  as a forced labor camp just like in the original.
 
-- The grimples in the old hideout are not evil and will not act with immediate
-  hostility towards the PCs. They will grant safe passage through their
-  territory in exchange for the PCs dealing with the "terrible demons" in the
-  other half of the dungeon. The lemures in question should be a very easy fight
-  after the salt works. Alternatively, the underground level is just empty apart
-  from Blosodriette, and the PCs can recover the loot here unopposed.
-
-- Blosodriette hitches a ride like in the original. If you don't want to deal
-  with her extended sabotage later on, you can ensure the PCs find her here,
-  which will cause her to immediately try to bargain with or kill the PCs. This
-  early detection might even happen by itself if the party has PCs with
-  abilities like Detect (Evil), Detect (Demons) or spells like See
-  Invisible.
 
 ## Part 2
 
 This would be the [sandboxy part of the adventure][2] after the PCs recover the
-Silver Raven cache. We've already rolled some of its assorted encounters into a
-single storyline in Part 1. I'm only going to keep one of them: **Crackdown at
-Clenchjaw's**, which nets the PCs an awesome fairy dragon ally if they play
-things right.
+Silver Raven cache. We've already rolled Prisoners of Salt into Part 1. I'm only
+going to keep one other encounter: **Crackdown at Clenchjaw's**, which nets the
+PCs an awesome fairy dragon ally if they play things right.
 
-I'm also going to reach into Adventure 02 and pull in the **Temple Hill
-Slasher** storyline to replace the _other_ murder mystery that used to be
-here. Have the Slasher also target tieflings. DF PCs should be able to take care
-of him directly and it should provide the "combined" reputation boost from both
-mysteries. This is what gets the Silver Raven name back into the city's rumor
-mill.
+Having discarded the murder mystery from Adventure 01, I'm going to reach into
+Adventure 02 and pull in the **Temple Hill Slasher** storyline to replace it. DF
+PCs should be able to take care of him directly and it should provide the
+"combined" reputation boost from both mysteries. This is what gets the Silver
+Raven name back into the city's rumor mill.
 
 They can work both of these cases while growing the rebellion in the strategic
 layer and possibly dealing with Blosodriette's sabotage in between.
