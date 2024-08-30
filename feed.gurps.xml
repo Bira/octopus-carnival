@@ -5,9 +5,286 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Aug 2024 15:06:42 +0000</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2024 15:06:42 +0000</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2024 16:55:14 +0000</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2024 16:55:14 +0000</lastBuildDate>
     <generator>Jekyll v3.9.5</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Player Character Origins</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Hell’s Rebels includes some traits in its Player’s Guide that can be assigned to
+PCs to tie them to the campaign either by providing a motivation or by giving
+them additional ways to contribute. A PC could be a minor worker in the opera,
+or a fed-up citizen, or interested in the city’s history, and so on.&lt;/p&gt;
+
+&lt;p&gt;I don’t think those quite fit what I have in mind for my solo campaign. They are
+suitable as backgrounds for level 1 starting characters and their mechanics can
+be useful at the start, but pretty much cease to be a factor in the story once
+the “main plot” kicks in.&lt;/p&gt;
+
+&lt;p&gt;Despite being released six years earlier than Hell’s Rebels, the &lt;a href=&quot;/octopus-carnival/projects/neverwinter/&quot;&gt;Neverwinter
+Campaign Setting&lt;/a&gt; for D&amp;amp;D 4e does a much better job at allowing players to
+create characters who are &lt;em&gt;deeply&lt;/em&gt; involved with the campaign at hand. More than
+starting motivations, its character themes provide entire story arcs that will
+remain relevant throughout the entire campaign.&lt;/p&gt;
+
+&lt;p&gt;I want the same thing for my game, so I’m going to replace the relatively
+generic reasons given in the Hell’s Rebels player guide with something that’s
+narratively on par with Neverwinter’s themes. I want them to not only be more
+exciting, but also to reflect the increased starting power of Dungeon Fantasy
+characters. They’re going to be key players in the rebellion from minute one of
+the campaign. Why just be a random history buff when you can be The Last
+Archivist instead? This status might be reflected in some of their traits, but
+the story consequences are the main thing here.&lt;/p&gt;
+
+&lt;p&gt;Here are the “character themes” I intend to use. There are five, one for each of
+my intended PCs, but presenting them separately will help provide some
+inspiration to other GMs who want to do the same thing whether in GURPS or
+another system. I’m using Dungeon Fantasy archetype and ancestry names instead
+of those from Pathfinder, but the correlations should be pretty easy to
+deduce. Each of them also has plot ties to some of the game’s possible allied
+factions.&lt;/p&gt;
+
+&lt;p&gt;Each theme bellow includes a short background description, and paragraphs
+listing prerequisites, benefits, and drawbacks. These are mostly story-related,
+but they might also add optional mechanical traits to your character’s
+template. You can buy these right away with your starting points, or buy them
+later with earned points like any other template trait.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-sixth-raven&quot;&gt;The Sixth Raven&lt;/h2&gt;
+
+&lt;p&gt;Most surviving historical documents about the Silver Ravens say they were five
+in number: Jackdaw the elf swashbuckler, Amyreid the half-elf cleric, Ba the
+halfling wizard, Kyda the human bard, and Brakisi the human scout.&lt;/p&gt;
+
+&lt;p&gt;These documents were wrong. There was one other: you.&lt;/p&gt;
+
+&lt;p&gt;You were a small orphan child then, adopted by the group as a kind of mascot
+somewhere along their career. You shared their love for Kintargo and its
+freedom, but you were too young to go on any actual adventures, so you mostly
+helped by running small errands, and heard from their big battles when they
+returned to tell the tale.&lt;/p&gt;
+
+&lt;p&gt;This lasted until the last battle, the one against the massed armies of House
+Thrune. Jackdaw sent you away with many of her other non-combatant friends the
+day before that one, promising she’d call you back when the danger was past. She
+never did, because the Ravens lost. Jackdaw surrendered so that the demonic army
+would spare the city, and the others were either killed by Thrune agents over in
+subsequent years or disappeared forever.&lt;/p&gt;
+
+&lt;p&gt;Over the following decades you would finally reach adulthood and set out on your
+own, becoming an adventurer of some skill and renown elsewhere in the Inner Sea
+region. Now, you’re ready to return home and finish the work of your
+old friends. Your name has been struck from the history books, but your passion
+burns as brightly as it ever did.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: You must belong to a species long-lived enough that you could
+have been a child 70 years ago and still be of adventuring age in the
+present. Being a dwarf or some kind of elf is enough, but the Half-Spirit
+ancestries from DF 3 might also fit. Another alternative is to play a
+&lt;a href=&quot;/octopus-carnival/2023/02/07/warforged-variants.html&quot;&gt;Warforged&lt;/a&gt; who was an &lt;em&gt;active&lt;/em&gt; member of the Ravens and spent some of the
+intervening decades disabled and unconscious, but was recently repaired. You can
+belong to any profession.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: You remember things. The GM might occasionally give you hints and
+clues about old Silver Raven safehouses and stashes. You also knew the Ravens
+personally and they knew you - should any of them still be around, you will be
+able to recognize each other.&lt;/p&gt;
+
+&lt;p&gt;You can add the Serendipity {15} trait to your template if it’s not already
+present. This represents your memories of old Kintargo and Raven hangouts, and
+might let you find useful shortcuts, items, and passages that are not
+pre-written into the campaign.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Things remember you. Demons, vampires, and other similarly
+long-lived monsters who faced the original Ravens back in the day will recognize
+you just as readily, and will be extra-mean to you as a result. Once word
+spreads that you’re back, some of them might even travel to Kintargo for the
+sole purpose of killing you.&lt;/p&gt;
+
+&lt;p&gt;This can be represented by the Enemy (Monster of the Week, 9 or less) {-15}
+trait, which gets added as an optional disadvantage to your template.&lt;/p&gt;
+
+&lt;p&gt;If you only have the DFRPG, the disadvantage works like this: the GM rolls 3d6
+in secret at the beginning of each adventure or each session of an extended
+adventure. If the result is a 9 or less, a significantly powerful monster will
+appear somewhere along the coming adventure or session, inserting itself into
+one of the upcoming situations and making things more complicated and dangerous
+for you and your group. It’s usually something complicated to fight, and not
+necessarily the same monster every time. This is &lt;em&gt;in addition&lt;/em&gt; to any
+pre-existing monsters in the adventure who recognize you and want you dead.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-last-archivist&quot;&gt;The Last Archivist&lt;/h2&gt;
+
+&lt;p&gt;You were a member of the Sacred Order of Archivists, a secret society made up of
+worshipers of various deities of knowledge and wisdom. The Order was dedicated
+to preserving the true history of Kintargo and other such “forbidden” knowledge
+from Thrune redactors.&lt;/p&gt;
+
+&lt;p&gt;The Order is no more: its hideout was raided and ransacked by Thrune forces
+during the Night of Ashes. You were away when it happened, on a mission to
+retrieve an important document in another city. That’s why you survived. When
+you returned, you reached out to a few contacts and learned that some of your
+colleagues have surviving family. They were nobles and their family estate was
+razed during the Night of Ashes, but one of their sons is still at large. You
+are now trying to find this son, help him stay safe, and then get revenge on
+House Thrune.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: None! While the Order is an excellent origin for Clerics,
+Wizards, and other big brains, it could easily have employed fightier or
+sneakier types as security or retrieval specialists.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: It’s impossible to be a member of the Archivists and not learn
+&lt;em&gt;something&lt;/em&gt;. In addition to being familiar with the Order’s hideout and its
+procedures, you also know a bit of the region’s unredacted history and a few
+other tidbits of unrelated but potentially useful knowledge. You can recognize
+the Sixth Raven if run into them.&lt;/p&gt;
+
+&lt;p&gt;You can add the History and Research skills as an option to your template, and
+also all specialties of Hidden Lore if they aren’t there already. You also add
+Wild Talent {20} as an optional advantage, representing a large trove of random
+knowledge. If you’re using the Basic Set, add Intelligence Analysis to your
+template as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: You’re riven by grief and driven by revenge against Barzilai
+Thrune and his minions. This might manifest as Intolerance (Diabolists) {-5}, an
+Obsession (depose Thrune)(12) {-10}, or both! The Obsession might seem redundant
+since it’s also the overall campaign goal, but it also compels you to take
+potentially risky and unwise courses of action if they seem like they will yield
+quicker results. It could also prevent you from retreating from a fight against
+Thrune’s minions.&lt;/p&gt;
+
+&lt;h2 id=&quot;knight-of-the-deep&quot;&gt;Knight of the Deep&lt;/h2&gt;
+
+&lt;p&gt;You come from one of the subaquatic communities off the coast of Ravounel, where
+you enjoy an heroic reputation. You recently went to visit your friend Aava in
+the coastal village of Acisazi, only to find her missing and the village
+suffering under a strange malaise. The village’s elder told you Aava had led a
+small party of scouts into Kintargo to ask seek help breaking the curse, but she
+never reported back. She begged you to find Aava, and you accepted.&lt;/p&gt;
+
+&lt;p&gt;You arrive at this land-lubber town to find it embroiled in a lot more trouble
+than you thought possible. Aava is nowhere to be found and neither is her
+contact, the singer Shensen. You suspect both of them vanished into the prisons
+of the despotic Barzilai Thrune, and your queries have led you to the Aria Park
+protest. You suspect you might need to bloody this human despot’s nose to
+fulfill your mission, and that’s just fine with you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: You must belong to a species capable of breathing underwater!
+Dungeon Fantasy 3: The Next Level contains two possible choices here: the Sea
+Elf and the Water-Infused. From this blog, you might also pick the &lt;a href=&quot;/octopus-carnival/2018/10/10/elder-scrolls-others.html&quot;&gt;Argonian&lt;/a&gt;
+or perhaps a Warforged who has been modified to be hydrodynamic and Amphibious.&lt;/p&gt;
+
+&lt;p&gt;This theme is open to any profession, but martial types should probably keep in
+mind the rules for &lt;a href=&quot;/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html&quot;&gt;underwater combat for fish-people&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: The people of Acisazi know and trust you, and Aava is your good
+friend (or even a relative if you’re also a sea elf).&lt;/p&gt;
+
+&lt;p&gt;You can add Swimming, Aquabatics and Survival (Undersea) to your template as
+optional skills, and should probably put some points in them during character
+creation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Add Obsession (find Aava and her scouts) (12) {-5} to your
+template as an optional disadvantage. It’s what you already want to do anyway,
+but like the Last Archivist’s Obsession it might drive you to unwise actions.&lt;/p&gt;
+
+&lt;h2 id=&quot;phantom-thief&quot;&gt;Phantom Thief&lt;/h2&gt;
+
+&lt;p&gt;You are one of Lady Docur’s School for Girls’ most distinguished graduates. You
+had parted ways with your alma mater and set up shop in nearby Vyre, but a
+recent letter from Lady Docur herself brought you back to Kintargo. The city’s
+political climate is getting rather inhospitable to the school, and she hopes
+you will be able to help them survive these turbulent times.&lt;/p&gt;
+
+&lt;p&gt;In other words: the school is currently the closest thing Kintargo has to a
+thieves’ guild. They specialize in training secret couriers and the nicer sort
+of thief. Thrune prefers the &lt;em&gt;nasty&lt;/em&gt; sort of thief, so things might get
+difficult for the school and its students. That’s where you come in.&lt;/p&gt;
+
+&lt;p&gt;Of course, you’re not here just to help your old school. You’re also, er, taking
+a breather from some rather complex entanglements you left behind in the good
+city of Vyre. Hopefully it will be a long while before you have to set foot
+there again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: It’s a school for girls, which means you either are a woman
+or only discovered you &lt;em&gt;weren’t&lt;/em&gt; after graduation. You must also be some manner
+of Thief, either the base template or one of the variants from the corresponding
+Dungeon Fantasy Denizens book.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: You know Lady Docur and other characters associated with your alma
+mater, and have their trust. You also know Vyre’s customs, which might come in
+handy if you ever need to go back there.&lt;/p&gt;
+
+&lt;p&gt;Add Area Knowledge and Current Affairs for both Kintargo and Vyre to your
+template, as well as Connoisseur, Savoir-Faire and the Fashion Sense
+advantage. The School does give one a proper high society education.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Those Vyre entanglements will come back to haunt you if you ever
+return there during the campaign.&lt;/p&gt;
+
+&lt;p&gt;No extra disadvantages here: everything which could make a thief’s life harder
+is already part of the relevant templates.&lt;/p&gt;
+
+&lt;h2 id=&quot;mysterious-satirist&quot;&gt;Mysterious Satirist&lt;/h2&gt;
+
+&lt;p&gt;Even before Barzilai Thrune rolled in like he owned the place, you were already
+well-known among Kintargo’s rebels, malcontents, and antifascists. Whether you
+make poems, plays, essays, or songs, your work criticizing House Thrune was on
+everybody’s minds and the pseudonym you chose for yourself was spoken in the
+same tones as that of The Poison Pen and other such figures. Thrune’s opponents
+speak it with admiration; his supporters, with disgust. That’s how you like it.&lt;/p&gt;
+
+&lt;p&gt;While no one has figured who you are yet, Barzilai’s arrival and the Night of
+Ashes have made your life very difficult already. Most of your contacts among
+Kintargo’s several resistance organizations have vanished, left town, or gone to
+ground. While you still value your art, you also feel it’s time to engage in
+more direct action against this dictator.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: None! While Bards obviously have a head start in terms of the
+artistic skills implied by this theme, the Mysterious Satirist could be anyone.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: Choose one of the Bellflower Network, the Cult of Sarenrae, the
+Rose of Kintargo, or the Poison Pen. You’re indirectly acquainted with that
+group or individual. Though you have never met, you have corresponded and set up
+pre-arranged signs that will let you recognize each other when the meeting does
+happen.&lt;/p&gt;
+
+&lt;p&gt;Add the artistic or performance skills of your choice to your template, as well
+as an appropriate Talent covering them to your optional advantages. Writing,
+Poetry, and Musical Composition are appropriate if you share your work through
+in written form. Public Speaking, Singing, Acting and Musical Instrument are
+also good if you actually perform it. If you have the GURPS Basic Set, you can
+also add Artist to the list of possible artistic skills, and you also add
+Propaganda no matter what your medium is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Add a 10-point Secret (Mysterious Satirist), Selfless, and
+Trickster to your optional disadvantage list if they are not already there. The
+first represents the risk of bad things happening when the authorities discover
+who you are, above and beyond what being a Silver Raven would bring. The other
+two represent possible reasons for you to have chosen this path in the first
+place.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/08/30/lphr-player-characters.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/08/30/lphr-player-characters.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Adjusting Setting Assumptions</title>
@@ -1583,149 +1860,6 @@ successful run, timing how long that took.&lt;/p&gt;
         <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackaton: Shadowrun 4th Edition, Part 2</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg&quot;/&gt;
-   &lt;figcaption&gt;
-     Shadowrun 20th Anniversary&apos;s cover.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;After setting up our parameters in the previous post, we start the run here.&lt;/p&gt;
-
-&lt;p&gt;I actually ran this one a couple of times, because it took me a bit to fully
-internalize the rules. My main mistake was assuming I was familiar with them
-already and only reading them superficially to “refresh my memory”. This made me
-get some crucial basic facts wrong, causing my first run to be really fast but
-incorrect.&lt;/p&gt;
-
-&lt;p&gt;So I made an additional run where I tracked the die rolls accurately and got
-detected in one of the hacks. Then I read the rules outside of the Matrix
-chapter more closely and made another one where I spent Edge more wisely and
-accomplished all goals without being detected. I’m referring to these as the
-&lt;strong&gt;loud&lt;/strong&gt; and &lt;strong&gt;silent&lt;/strong&gt; runs. They are recorded below as a single account with
-notes on how they diverge.&lt;/p&gt;
-
-&lt;h2 id=&quot;diff-merging-timelines&quot;&gt;Diff-merging Timelines&lt;/h2&gt;
-
-&lt;p&gt;Our hacker enters the building with is team. They get past the reception as
-usual, receiving temporary badges. Once inside, he feels a “sudden” need to go
-to the bathroom, and locks himself inside a stall. He spends a couple of turns
-scanning for the badge’s wireless signal, and finds it.&lt;/p&gt;
-
-&lt;p&gt;He then tries to hack into the badge, still using AR because it’s a fragging’
-badge. He succeeds quickly. As expected the badge can’t do a lot, but it knows
-how to talk to the security server and now so does the hacker.&lt;/p&gt;
-
-&lt;p&gt;Our hacker then switches to VR and goes hot, after bracing himself so he doesn’t
-fall down in the stall. He tries to get himself security-level access because he
-knows from examining the badge that user-level accounts do nothing in this
-server.&lt;/p&gt;
-
-&lt;p&gt;This is where our timelines diverge. In the &lt;strong&gt;loud&lt;/strong&gt; run, he gets in but also
-gets detected. The server issues a restricted alert against his persona,
-triggers the Blackout ice, and pings the guards. Restricted alert means the
-server’s Firewall increases by +4 against the hacker.&lt;/p&gt;
-
-&lt;p&gt;The hacker and the IC go into cybercombat, with the hacker winning
-initiative. Cybercombat here resembles the SR1 version a bit, though the exact
-things you roll are different. With the expenditure of a couple points of Edge,
-our hacker manages to destroy the ice at the start of the second combat turn,
-without suffering any trauma to his brain meats. Still, in this timeline the
-guards are suspicious of the team.&lt;/p&gt;
-
-&lt;p&gt;In the &lt;strong&gt;silent&lt;/strong&gt; run, luckier rolls let the hacker in without being detected.&lt;/p&gt;
-
-&lt;p&gt;In both, the hacker manages to disable the camera and alarm, letting the team
-move into the records room. While they perform a physical search for hard
-copies, our hacker jacks into the secret isolated server and goes into hot sim
-VR again. He manages to get in undetected, though in the &lt;strong&gt;silent&lt;/strong&gt; run he has
-to spend the Edge he didn’t spend in combat to do so.&lt;/p&gt;
-
-&lt;p&gt;I rule that finding the files requires no tests, as this is only a single node
-and the existing data search rules are for searching the Matrix.&lt;/p&gt;
-
-&lt;p&gt;Still in the records room, our hacker decides to be daring and hack the office
-network in search of those drainable accounts. This network has a wireless
-signal covering the whole office and is quite visible, so he gets right to it.&lt;/p&gt;
-
-&lt;p&gt;At first, our decker easily hacks himself a user account. From there he runs a
-data search on the network’s user directory to find the one who has access to
-the bank accounts, and then attempts to gain access to it. I give this a low
-Threshold because it’s a small intranet.&lt;/p&gt;
-
-&lt;p&gt;Finding the accountant’s profile, the hacker attempts to hack into it. That’s
-like starting from scratch, this time going for a security account. Again the
-hacker manages to get in undetected, and again in the &lt;strong&gt;silent&lt;/strong&gt; run he needs to
-spend Edge to do this.&lt;/p&gt;
-
-&lt;p&gt;Draining the account requires no additional rolls. And since our hacker retained
-his account at the security server, unlocking the back door requires no rolls
-either. Of course, in the &lt;strong&gt;loud&lt;/strong&gt; timeline there’s a very high chance that
-they’re doing this during a firefight, as the guards are extra-suspicious and
-would have known to check the records room…&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;loud&lt;/strong&gt; run that had cybercombat and an alert took 31 minutes. The
-&lt;strong&gt;silent&lt;/strong&gt; one took 17.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis-and-impressions&quot;&gt;Run Analysis and Impressions&lt;/h2&gt;
-
-&lt;p&gt;This system is my personal favorite so far, and I had to actively keep myself
-from adding little cool bits that kept appearing in my imagination, because I’d
-otherwise would have found myself running an entire solo adventure, controlling
-the whole team and imagining dialogue in my head.&lt;/p&gt;
-
-&lt;p&gt;Having “my” character be present with the group certainly helped stir the
-imagination, because he wasn’t sitting pretty at home. I had to think about how
-he navigated the physical site with the rest of the group, and from where he’d
-jack into VR to avoid suspicion, and so on.&lt;/p&gt;
-
-&lt;p&gt;I do love that the system was very fast compared to the other ones so far, but I
-wonder how much of that is down to the design of the target nodes. I’d love to
-hear about how people design their own adventures.&lt;/p&gt;
-
-&lt;p&gt;We can see how Shadowrun’s system still favors silent runs here. Cybercombat
-against even a single instance of ICE takes a while to resolve, and the more of
-it there is the longer the run will take. Careless hackers could easily find
-themselves having to deal with multiple ICE cubes at once, perhaps even in
-different hosts, and that will drastically lower their chances of success. More
-advanced rules let hackers run their own agent programs, which helps fighting
-the icy hordes but makes things take more real time to solve.&lt;/p&gt;
-
-&lt;p&gt;That said, let’s see how our sample runs here fit with the physical team’s.&lt;/p&gt;
-
-&lt;p&gt;If we again assume the physical part of the run takes 50 minutes for a perfectly
-stealthy team and 90 minutes with a firefight on the way out, then it’s also
-possible to correlate our diverging runs to each of these scenarios. The
-perfectly sneaky run would mean a perfectly sneaky hack. The loud run would
-almost certainly be caused by that alert we got, unless our talker was &lt;em&gt;amazing&lt;/em&gt;
-at their job.&lt;/p&gt;
-
-&lt;p&gt;So, in the more common silent/silent and loud/loud scenarios, our hacker took up
-around 25% of the total session time, which is pretty close to ideal in a
-four-player party. In an anomalous loud hack/silent run scenario, they take up a
-little under half the run time. And in a silent hack/loud run situation, they
-take around 15% of the time hacking the objectives and can spend the rest of
-their spotlight time helping out in physical combat.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/10/31/hackaton-sr4-2.html</guid>
         
         <category>shadowrun</category>
         
