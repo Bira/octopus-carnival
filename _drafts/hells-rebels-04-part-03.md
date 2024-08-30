@@ -80,7 +80,7 @@ case to the best one, we have:
   previous confrontation.
 
 - **Barzilai OR a Fucking Dragon**: if either one of the pair is dead, the other
-  shows up. Rivozair shows up alone; Thrune appears accompanied by four
+  still attacks. Rivozair shows up alone; Thrune appears accompanied by four
   bone devils.
 
 - **The Dregs**: If both main baddies are dead, the GM should build a CR 13
@@ -131,13 +131,9 @@ really slacks off during the "hot war" portion of this adventure.
 
 This device, apparently a Hellraiser-style puzzle box, is also the plot coupon I
 mentioned earlier. It sits inside Barzilai Thrune's chest cavity - he replaced
-his heart with it back during adventure 2.
-
-The book mentions that retrieving this thing from Thrune's corpse and opening it
-up are vital steps to proceed with the remaining two adventures in the
-campaign. The exact reason for that is only detailed in Adventure 5,
-unfortunately, but I can speculate that it's the final clue that should make the
-PCs aware of Thrune's ultimate plans.
+his heart with it back during adventure 2. The book mentions that retrieving
+this thing from Thrune's corpse and opening it up are vital steps to proceed
+with the remaining two adventures in the campaign.
 
 ## What Happens Next
 
@@ -152,7 +148,7 @@ IF you do want to continue playing Hell's Rebels, though, then the Crux still
 exists and the situation is the following:
 
 Kintargo is free for now, and Cheliax is busy fighting the Glorious Reclamation
-in its heartland, but that situation won't last much longer. It _will_
+in its heartland, but that situation won't last much longer. Cheliax will
 eventually send an army to retake the city, which won't be able to hold against
 an all-out military assault. The key to solving that problem happens to be
 inside the Chelish Crux, and we'll deal with that in the next adventure.

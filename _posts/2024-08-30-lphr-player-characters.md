@@ -176,7 +176,9 @@ fulfill your mission, and that's just fine with you.
 **Prerequisites**: You must belong to a species capable of breathing underwater!
 Dungeon Fantasy 3: The Next Level contains two possible choices here: the Sea
 Elf and the Water-Infused. From this blog, you might also pick the [Argonian][2]
-or perhaps a Warforged who has been modified to be hydrodynamic and Amphibious.
+or perhaps a [Warforged][1] who has been modified to be hydrodynamic and
+Amphibious. And of course we also have a whole article about the [Denizens of
+the Sea][5] that also contains a few usable ancestries.
 
 This theme is open to any profession, but martial types should probably keep in
 mind the rules for [underwater combat for fish-people][3].
@@ -273,3 +275,4 @@ place.
 [2]: {{ "/2018/10/10/elder-scrolls-others.html" | relative_url }}
 [3]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [4]: {{ "/projects/neverwinter/" | relative_url }}
+[5]: {{ "/2024/04/28/atlantis.html" | relative_url }}

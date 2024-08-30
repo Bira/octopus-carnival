@@ -13,7 +13,7 @@ it's useful to go over some background information.
 
 ## Barzilai's Desperation Move
 
-As we say back in the background for Adventure 01, Barzilai's ritual to become a
+As we say back in the background for Adventure 01, Barzilai's scheme to become a
 genius loci will only work as planned if he dies a natural death from old
 age. So he very much wants to keep on living.
 
@@ -79,11 +79,11 @@ have to stop it. You should definitely inform them of this.
 PCs can use rebellion actions to make their assault on the temple easier. These
 require DC 30 Secrecy checks, so if you haven't been tracking the Rebellion
 rules so far, that's where the PCs should put their +15. Their actions during
-the missions will gain them allies that will further help with this. One of the
-actions gives them a nearly complete map of the temple. The other sabotages the
-ritual, making it take 6 days instead of 3, penalizing its divine spellcasters
-(they're demoralized!) and even reducing the frequency with which the temple
-bells ring (see below).
+the previous missions will gain them allies that will further help with
+this. One of the actions gives them a nearly complete map of the temple. The
+other sabotages the ritual, making it take 6 days instead of 3, penalizing its
+divine spellcasters (they're demoralized!) and even reducing the frequency with
+which the temple bells ring (see below).
 
 ### Raiding the Temple
 
@@ -98,7 +98,7 @@ the city.
 
 The first thing is to get inside. There are three double doors on the temple's
 ground floor and a balcony with another double door on the second floor. All
-three are protected by a magical trap that can teleport a PC straight to Hell
+four are protected by a magical trap that can teleport a PC straight to Hell
 unless it's disarmed or dispelled first by the usual means.
 
 The ground floor doors lead to empty foyer areas from which the PCs can either
@@ -150,7 +150,7 @@ a bit easier by the fact that the engines are already off.
 
 With the reinforcements neutralized and the engines disabled, it's finally time
 to assault the ritual. The team performing it can stop for long enough to put up
-a fight: that's High Priest Grivenner, five lower-level clerics, and five
+a fight: that's High Priest Grivenner, five lower-ranking clerics, and five
 summoned devils. Also in the room is a vampire high priestess of Zon-Kuthon (the
 shadow-and-torture god) acting as a bodyguard, and a fiendish-shadow-snake thing
 that will become a lot weaker with the infernal engines disabled.
@@ -183,18 +183,18 @@ him with Destruction or Disintegrate spells when he's below -24.
 
 The second consists of spells like _flesh to stone_, _soul jar_, and other such
 magic that bypasses damage reduction. This triggers a clause in his infernal
-contract that kills him instantly.
+contract that kills him instantly to prevent capture.
 
 Killing Barzilai here will prevent a later battle with him and will give the PCs
 early access to a vital plot coupon, but it's perfectly possible to bypass the
 guy entirely. Given what awaits the PCs in the belfry, avoiding Thrune to
-preserve resources is an equally valid choice.
+preserve resources is an equally valid choice as killing him early.
 
 ### Raiding the Profane Belfry
 
-This dungeon is set up so that this is the last thing you do regardless of the
-path you took through the Temple. This isn't an optional goal, and it's no
-simple victory lap either - it's the final boss fight for the Temple of
+The dungeon is set up so that this is the last thing you do regardless of the
+path you took through the Temple. It's not an optional goal, and it's no simple
+victory lap either - it's the _real_ final boss fight for the Temple of
 Asmodeus.
 
 The belfry can only be accessed via the hole on the roof of the nave, which only
@@ -206,7 +206,7 @@ of Aroden.
 
 The leader can and will ring one of the bells with his mind as a free action
 every round, causing an effect much more powerful than the ones the party has
-been experiencing so far. A Silence spell is excellent protection, but will
+been experiencing so far. A Silence spell will prevent this, but will also
 prevent the PCs from casting most spells too.
 
 ### Hell's Bells

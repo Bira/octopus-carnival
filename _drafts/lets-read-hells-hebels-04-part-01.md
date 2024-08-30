@@ -113,10 +113,9 @@ This is the mission list:
 
 ### Rescue Hetamon (Jarvis End District)
 
-Hetamon Haace is the Rose of Kintargo, and one of the members of the Silver
-Ravens. He became an ally and a member of the Silver Council back in adventure
-02, but is missing from this adventure's emergency meeting. Finding him is a
-priority.
+Hetamon Haace is the Rose of Kintargo. He became an ally and a member of the
+Silver Council back in adventure 02, but is missing from this adventure's
+emergency meeting. Finding him is a priority.
 
 Turns out he's been kidnapped by his evil half-succubus sorceress of a mother,
 who is holed up in the basement of Shensen's former home and plans to sell him
@@ -190,14 +189,14 @@ the Rack and their leader, Paralictor Kyrre Ekodyre. The knights should spot the
 PCs as soon as they make it past the door, so they will eventually need to deal
 with all of them and the paralictor in the same fight. There are some undead
 knights possessing suits of armor guarding a shrine, but they will not join the
-main fight.
+main fight unless disturbed.
 
 The keep's archives contain the contracts Barzilai made with the order of the
 Rack, to transfer all of the assets of the Order of the Torrent to them (back in
 adventure 02). Turns out there are a lot of irregularities in these contracts
-and the Hellknights, who are Lawful-Eviler-than-thou, will abandon Thrune once
-these documents are made public. This will remove them from all random and
-pre-arranged encounters!
+that make them illegal. The Hellknights, who are Lawful-Eviler-than-thou, will
+abandon Thrune once these documents are made public. This will remove them from
+all random and pre-arranged encounters!
 
 The archives also contain prisoner records showing that Jackdaw, the original
 leader of the Silver Ravens, is still here! House Thrune's redaction efforts
