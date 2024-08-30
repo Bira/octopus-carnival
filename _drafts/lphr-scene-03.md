@@ -109,10 +109,12 @@ known to the assholes running the factory.
 So I'm gonna run the Livery now, with the same kind of changes I made in a PBP
 attempt, and Prisoners of Salt later on.
 
-I also need to talk about the treasure Rexus gives them. I imagine Pathfinder
-wants this to be the reward associated with the Aria Park riot and his rescue
-scene. The money and signed ring are fine, following the wealth conversion
-guidelines I wrote, but the knife and the Bracers of Armor are a bit weirder.
+### Comversion Notes: Treasure
+
+I imagine Pathfinder wants this to be the reward associated with the Aria Park
+riot and his rescue scene. The money and signed ring are fine, following the
+wealth conversion guidelines I wrote, but the knife and the Bracers of Armor are
+a bit weirder.
 
 All devils in Pathfinder 1 have a degree of supernatural resistance that can be
 bypassed with silver weapons. The dagger in the original reward is mean to be
