@@ -9,6 +9,12 @@ tags:
     - hells-rebels
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
 Hell's Rebels includes some traits in its Player's Guide that can be assigned to
 PCs to tie them to the campaign either by providing a motivation or by giving
 them additional ways to contribute. A PC could be a minor worker in the opera,
@@ -16,14 +22,14 @@ or a fed-up citizen, or interested in the city's history, and so on.
 
 I don't think those quite fit what I have in mind for my solo campaign. They are
 suitable as backgrounds for level 1 starting characters and their mechanics can
-be useful, but pretty much cease to be a factor in the story once the "main
-plot" kicks in.
+be useful at the start, but pretty much cease to be a factor in the story once
+the "main plot" kicks in.
 
-Despite being released six years earlier than Hell's Rebels, Neverwinter does a
-much better job at allowing players to create characters who are _deeply_
-involved with the campaign at hand. More than starting motivations, its
-character themes provide entire story arcs that will remain relevant throughout
-the entire campaign.
+Despite being released six years earlier than Hell's Rebels, the [Neverwinter
+Campaign Setting][4] for D&D 4e does a much better job at allowing players to
+create characters who are _deeply_ involved with the campaign at hand. More than
+starting motivations, its character themes provide entire story arcs that will
+remain relevant throughout the entire campaign.
 
 I want the same thing for my game, so I'm going to replace the relatively
 generic reasons given in the Hell's Rebels player guide with something that's
@@ -44,9 +50,9 @@ factions.
 
 Each theme bellow includes a short background description, and paragraphs
 listing prerequisites, benefits, and drawbacks. These are mostly story-related,
-but they might also add optional traits to your character's template. You can
-buy them right away with your starting points, or buy them later with earned
-points like any other template trait.
+but they might also add optional mechanical traits to your character's
+template. You can buy these right away with your starting points, or buy them
+later with earned points like any other template trait.
 
 ## The Sixth Raven
 
@@ -59,8 +65,8 @@ These documents were wrong. There was one other: you.
 You were a small orphan child then, adopted by the group as a kind of mascot
 somewhere along their career. You shared their love for Kintargo and its
 freedom, but you were too young to go on any actual adventures, so you mostly
-helped around the hideout and running small errands, and heard from their big
-battles when they returned to tell the tale.
+helped by running small errands, and heard from their big battles when they
+returned to tell the tale.
 
 This lasted until the last battle, the one against the massed armies of House
 Thrune. Jackdaw sent you away with many of her other non-combatant friends the
@@ -266,3 +272,4 @@ place.
 [1]: {{ "/2023/02/07/warforged-variants.html" | relative_url }}
 [2]: {{ "/2018/10/10/elder-scrolls-others.html" | relative_url }}
 [3]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
+[4]: {{ "/projects/neverwinter/" | relative_url }}
