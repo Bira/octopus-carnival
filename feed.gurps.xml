@@ -5,9 +5,9 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Aug 2024 18:05:09 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2024 18:05:09 +0000</lastBuildDate>
-    <generator>Jekyll v3.9.5</generator>
+    <pubDate>Tue, 03 Sep 2024 19:42:16 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:42:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Player Character Origins</title>
@@ -379,6 +379,140 @@ you can be sure I’ll post them here.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gm-hat</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Abandoning Weapon Master</title>
+        <description>&lt;p&gt;A while back I made a post about &lt;a href=&quot;/octopus-carnival/2021/05/27/masterful-combat.html&quot;&gt;combining Weapon Master and Trained by a
+Master&lt;/a&gt; into a single advantage. After thinking about it for a while, I think
+I might have changed my mind about it. I not sure the two traits are really
+meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.&lt;/p&gt;
+
+&lt;p&gt;Dungeon Fantasy character creation rules are all about replicating a lot of
+D&amp;amp;D’s conventions in GURPS. And one of the D&amp;amp;D-isms it tries to replicate is
+that a combat centric character can be either strong or fast, but not both.&lt;/p&gt;
+
+&lt;h2 id=&quot;dd-combat-conventions&quot;&gt;D&amp;amp;D Combat Conventions&lt;/h2&gt;
+
+&lt;p&gt;In recent editions of D&amp;amp;D, that happens because characters have a very limited
+number of points to distribute at creation, and every class is meant to have
+only 1 or 2 attributes that are important to its abilities. Physical combatants
+end up having either STR or DEX as their main attribute, and the rules are
+usually set up so that the other member of the pair can be safely dumped.&lt;/p&gt;
+
+&lt;p&gt;STR-based combatants use the heaviest armor and weapons they can get. The vast
+majority are melee specialists. Some buy a single thrown weapon at creation and
+then promptly forget about it. All of these options are designed to make
+Dexterity not matter to them.&lt;/p&gt;
+
+&lt;p&gt;DEX-based combatants are the opposite: they wear light or no armor, and are
+evenly split between archers and melee skirmishers who rely on “finesse weapons”
+that use DEX instead of STR. Therefore Strength doesn’t matter to them.&lt;/p&gt;
+
+&lt;p&gt;Every physical combatant&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the last three editions of D&amp;amp;D is going to lean
+heavily towards one of these archetypes. A few classes incentivise players to
+try and be a bit of both, but for most of them that’s going to lead to a weaker
+character.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-gurps&quot;&gt;What about GURPS?&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;amp;D, so
+it ends up bringing this particular trope wholesale into GURPS. You have your
+Strong Delvers, and your Fast Delvers&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But we run into some issues because
+GURPS is much less abstract than D&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;Both in real life and in GURPS, combatants want to be &lt;em&gt;both strong and
+fast&lt;/em&gt;. You need speed and precision to hit, and you need to put some force
+behind your blows for them to be effective. Sure, an individual character might
+have ST or DX that’s a bit higher than the other, but they’ll never be 10+
+points apart like they are in their D&amp;amp;D equivalents.&lt;/p&gt;
+
+&lt;p&gt;Still, DF tries, and Weapon Master is a significant component of this
+attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
+other fast delvers. It more or less takes the place of D&amp;amp;D’s Weapon Finesse,
+since it allows these characters to do improved melee damage without investing
+many points into ST.&lt;/p&gt;
+
+&lt;p&gt;But it’s also an optional Knight trait. And it’s quite easy to take a starting
+Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
+weapon skill of 20. Such a character literally combines the best of both
+worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
+their strikes to a massive amount of damage when they land, due to the higher
+base number of damage dice and the per-die damage bonus.&lt;/p&gt;
+
+&lt;p&gt;As a player, this damage bonus seems so good to me that I’d feel bad about
+“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
+any enemy that can withstand a hit from the Knight will be impervious to attacks
+from the other PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-do-about-it&quot;&gt;What to do about it?&lt;/h2&gt;
+
+&lt;p&gt;The first option is of course to do nothing. This is admitedly a very niche
+concern and you might be okay with it in your game. But if you are having Weapon
+Master Problems at your table you might try one of these other possible
+solutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-1-flat-damage-bonus&quot;&gt;Solution 1: Flat Damage Bonus&lt;/h3&gt;
+
+&lt;p&gt;A “minimally invasive” solution is to change the damage bonus from +1 or +2 &lt;em&gt;per
+die&lt;/em&gt; to a flat +1 or +2. All advantage costs remain the same, as do all
+templates.&lt;/p&gt;
+
+&lt;p&gt;This means that the skinny swashbuckler who rolls a single die for damage still
+gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
+damage gets a much smaller relative benefit.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-2-no-more-weapon-master&quot;&gt;Solution 2: No More Weapon Master!&lt;/h3&gt;
+
+&lt;p&gt;Weapon Master no longer exists and Trained By a Master comes in categories
+similar to the removed advantage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;20 points makes you trained in One Weapon. This gives you improved parries,
+improved Rapid Strikes, and access to the same limited set of Chi Skills as
+Weapon Master did. No damage bonus, though!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;25 points gives you the same benefits for Two Related Weapons or all weapons
+covered by One Skill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;30 points works as printed, giving you the full set of Trained By a Master
+benefits for all muscle-powered weapons and unarmed attacks.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“All knives” counts as a single weapon for these purposes, like in the books. So
+do “all unarmed attacks”.&lt;/p&gt;
+
+&lt;p&gt;Everyone who had Weapon Master as an optional advantage gets the corresponding
+version of Trained by a Master instead, and has the option to upgrade to the
+full version.&lt;/p&gt;
+
+&lt;p&gt;This is a more drastic and slightly more complicated solution. No one gets a
+damage bonus any more, but no one overpays for the full Weapon Master package
+either.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And then you have spellcasters, who choose to be slow and weak so they can
+be good at magic. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And Smart Delvers, for which see Footnote 1. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</guid>
+        
+        <category>gurps</category>
         
         
       </item>
@@ -1617,251 +1751,6 @@ preserve the netrunner for the main event.&lt;/p&gt;
         <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/04/hackathon-cp-red-2.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackaton: Cyberpunk RED</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/cp-red-cover.png&quot;
-        alt=&quot;The cover of Cyberpunk RED&quot;/&gt;
-   &lt;figcaption&gt;
-     I still think this cover is cool.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;In this post we’ll take a look at Cyberpunk RED, the current edition of
-Cyberpunk-the-game. It’s meant to be the followup to Cyberpunk 2020, and in a
-nice bit of synchronicity it was published in 2020. It’s kind of a companion
-piece to the Cyberpunk 2077 computer game, since according to the foreword the
-two works started being made at around the same time.&lt;/p&gt;
-
-&lt;p&gt;CP RED provides what the critics of previously attempted 2020 sequels most
-wanted: more of the same. It takes the 2020 setting forward to 2045 by
-essentially doing a copy-and-paste on the timeline to extend it, so you have a
-&lt;em&gt;new and improved&lt;/em&gt; ecological collapse, a &lt;em&gt;new and improved&lt;/em&gt; corp war that
-leaves plenty of cybered-up veterans, and so on. Of course, it’s not an exact
-copy and a lot of things are different, but the tone is almost exactly the same
-as 2020.&lt;/p&gt;
-
-&lt;p&gt;One of the things that underwent a big change was the Net, which we’ll look at
-now.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;The Net of Cyberpunk RED contains about the same amount of space magic as its
-2020 ancestor, but it looks different. Somewhere around 2023 or so, iconic
-netrunner Rache Bartmoss releases a bunch of data-destroying rabid AIs into the
-old Net. They do so much damage that the authorities who oversee the old telecom
-grid decide to shut it down entirely, in the process undoing the spell that made
-the use of virtual reality possible.&lt;/p&gt;
-
-&lt;p&gt;Nowadays there’s still the notion that the Net is a parallel dimension, but it’s
-a dangerous and fractured one. Each city has their own small Net realm, isolated
-from the world by firewalls, and in between you have the wild and wooly domains
-of rogue AIs and demon programs. Why do we need firewalls to keep them at bay if
-there are no physical lines connecting them to us any more? Shut up, that’s
-why. Any similarity between this and Shadowrun’s deep astral planes is probably
-a coincidence, which is kind of a waste in my opinion.&lt;/p&gt;
-
-&lt;p&gt;Inside the city nets, someone came up with a new spell in 2035 that once again
-let people see the virtual aspect of the Net in a simplified form. Now you can
-put on a set of “Virtuality” goggles and see the parallel dimension of the Net
-overlaid over the physical world, with every connected object having a
-corresponding icon. The main difference here is that more things have icons, and
-you can no longer leave your body behind.&lt;/p&gt;
-
-&lt;p&gt;Standard users mostly use the city nets through devices called Agents, which are
-a bit like slightly smarter smartphones. They can use these for pretty much
-everything we’d use the Internet for, except that they’re just accessing the
-local city net.&lt;/p&gt;
-
-&lt;p&gt;Hackers are still called netrunners, and they still use cyberdecks. The servers
-they hack are named Architectures, and can represent any device complex enough
-to be the target of a netrun, not just mainframes. Due to the even stronger
-“parallel dimension” metaphor here, you can only hack an Architecture if you’re
-within about six meters of one of its physical access points. Netrunners can no
-longer work from home. Devices not complex enough to warrant an Architecture
-(including Agents) can be tampered with using electronics skills.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;Hackers are still named netrunners. To do their job they need the Interface
-skill, interface plugs, “Virtuality” glasses and a cyberdeck. Cyberdecks in RED
-look like their portable ancestors in 2020 and come in three generic tiers that
-differ by the number of Option Slots they have (5, 6 or 7). Each Option Slot
-lets you install a program or hardware expansion in your deck. Decks are not
-uniquely expensive - their prices are in line with other types of specialist
-gear in the book. Once you earn more money you can perhaps buy an armored
-jumpsuit with a deck compartment that gives it an extra slot.&lt;/p&gt;
-
-&lt;p&gt;Most actions you can perform in a netrun can be done with the Interface skill
-alone, including a basic attack. The roll is almost always 1d10 + Interface
-against a difficulty set by the Architecture you’re hacking. Programs come in
-three categories: “boosters” that can give bonuses to some of those basic rolls,
-“attackers” that act as better weapons than your basic attack, and “defenders”
-that reduce or negate damage while they’re active.&lt;/p&gt;
-
-&lt;p&gt;Netrunning happens faster than physical combat. Characters only get one “meat
-action” per turn, but netrunners get a number of “Net actions” proportional to
-their Interface skill. Some net tasks require meat actions, but you can’t use
-net actions to do physical tasks. Programs that need to be actively used take a
-net action to activate and can only be used once per turn, so there’s an
-advantage to having multiple copies of the same attack program
-loaded. Controlling a physical device takes a Net action, but each device can
-only perform one action per turn as well.&lt;/p&gt;
-
-&lt;p&gt;Architectures are relatively abstract and modeled as tables. Each row in the
-table is a level in the architecture, and it contains one thing. That thing
-could be a file, a controllable device, or a security program. Netrunners start
-at level 1 and can move down one level at a time. They don’t know what’s in a
-level until they get there for the first time, and possibly pass some tests to
-analyze the thing they find. If it’s a security program, it will prevent them
-from descending further until dealt with. The stuff they want to steal or
-sabotage tends to be in the middle or lower levels of an architecture, protected
-by a few security layers. They can move through already-explored layers freely.&lt;/p&gt;
-
-&lt;p&gt;Security programs range from password barriers to Black Ice, which is very
-dangerous and can move through the architecture to chase a netrunner. It’s
-pretty much a monster that you need to fight or die trying. Netrunners can also
-run Black Ice from their decks, and order them to kill other netrunners or
-programs in combat, but they take up 2 slots instead of 1. Black Ice tends to
-attack right away - forget stealth for the most part.&lt;/p&gt;
-
-&lt;p&gt;Another type of security program is the Demon, whose main purpose is to control
-physical devices like turrets, drones, and traps to fight intruders. They’re
-relatively weak at Net combat, but it’s hard to find and destroy a Demon that’s
-shooting at your meat with a pair of heavy machine gun turrets…&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;I don’t think there’s a ready-made sample netrunner in the book, but the book
-does include all we need to generate a quick-and-dirty one so let’s do that. I
-think I do have some supplements that might have suitable ready-made
-Architectures that fit our purposes, but if they do not then we can generate
-one.&lt;/p&gt;
-
-&lt;h3 id=&quot;our-netrunner-g0blin-jr-daughter-of-g0blin&quot;&gt;Our Netrunner: G0blin Jr., daughter of G0blin.&lt;/h3&gt;
-
-&lt;p&gt;Proudly carrying on the family tradition. Lazy but lucky.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;INT&lt;/strong&gt; 7  &lt;strong&gt;REF&lt;/strong&gt; 6  &lt;strong&gt;DEX&lt;/strong&gt; 7  &lt;strong&gt;TECH&lt;/strong&gt; 7 &lt;strong&gt;COOL&lt;/strong&gt; 6
-&lt;strong&gt;WILL&lt;/strong&gt; 3 &lt;strong&gt;LUCK&lt;/strong&gt; 6 &lt;strong&gt;MOVE&lt;/strong&gt; 5 &lt;strong&gt;BODY&lt;/strong&gt; 6 &lt;strong&gt;EMP&lt;/strong&gt; 5&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt;: 35
-&lt;strong&gt;Death Save&lt;/strong&gt;: 6&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cyberware Capacity&lt;/strong&gt;: 14/60&lt;/p&gt;
-
-&lt;h4 id=&quot;skills&quot;&gt;Skills&lt;/h4&gt;
-
-&lt;p&gt;Interface 4. Other stuff from the Netrunner Street Rat Pack as it becomes
-relevant.&lt;/p&gt;
-
-&lt;h3 id=&quot;cyberware&quot;&gt;Cyberware&lt;/h3&gt;
-
-&lt;p&gt;Neural Link, Interface Plugs, Shift Tacts.&lt;/p&gt;
-
-&lt;h4 id=&quot;equipment&quot;&gt;Equipment&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Very Heavy Pistol with 30 rounds&lt;/li&gt;
-  &lt;li&gt;whole-body Light Armorhack (SP 11)&lt;/li&gt;
-  &lt;li&gt;Agent&lt;/li&gt;
-  &lt;li&gt;Cyberdeck (7 slots)&lt;/li&gt;
-  &lt;li&gt;Virtuality Goggles&lt;/li&gt;
-  &lt;li&gt;Programs: Armor, Sword x 2, Worm, Eraser.&lt;/li&gt;
-  &lt;li&gt;Clothes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;our-target-systems&quot;&gt;Our Target Systems&lt;/h3&gt;
-
-&lt;p&gt;As for our target system, I could have made a single architecture for
-everything, and the examples I have here kinda point in that direction, but I
-really feel like this would benefit from the same approach as Shadowrun 4th
-Edition.&lt;/p&gt;
-
-&lt;p&gt;So we’ll have three Architectures here. One for the office network, one for the
-security server, and one for the secret server. All individually small, but the
-latter two with somewhat elevated security for their size. I’ll use the random
-generator to help me with this.&lt;/p&gt;
-
-&lt;p&gt;Office network is Basic and has 7 levels, Security server is Standard and has 9
-with a branch, the secret server is Standard and has 6.&lt;/p&gt;
-
-&lt;h4 id=&quot;office-network&quot;&gt;Office Network:&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Password DV 6&lt;/li&gt;
-  &lt;li&gt;Skunk&lt;/li&gt;
-  &lt;li&gt;Asp&lt;/li&gt;
-  &lt;li&gt;File (DV6) - Worthless&lt;/li&gt;
-  &lt;li&gt;Password DV 6&lt;/li&gt;
-  &lt;li&gt;Wisp&lt;/li&gt;
-  &lt;li&gt;File (DV8) -&amp;gt; Accounts&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;security-server&quot;&gt;Security Server&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Skunk&lt;/li&gt;
-  &lt;li&gt;Password DV 8&lt;/li&gt;
-  &lt;li&gt;File DV8 - logs, worthless&lt;/li&gt;
-  &lt;li&gt;Hellhound, Killer&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Left Branch&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Control DV8 - Camera&lt;/li&gt;
-  &lt;li&gt;Control DV8 - Alarm Sensors, as Camera.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Right Branch&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Skunk&lt;/li&gt;
-  &lt;li&gt;Asp&lt;/li&gt;
-  &lt;li&gt;Control DV8 - Door&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;secret-server&quot;&gt;Secret Server&lt;/h4&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Password DV8&lt;/li&gt;
-  &lt;li&gt;Skunk&lt;/li&gt;
-  &lt;li&gt;Wisp&lt;/li&gt;
-  &lt;li&gt;Hellhound&lt;/li&gt;
-  &lt;li&gt;File DV10 - The Evidence&lt;/li&gt;
-  &lt;li&gt;Killer&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We’ll soon see how Junior manages these systems. I relied more on the random
-generator here than on my own judgment, it might be that this ends up being too
-hard.&lt;/p&gt;
-
-&lt;p&gt;My predictions are: since there is a lot of black ice in there, we’ll see plenty
-of combat, but I also expect this to go fast. Either Junior kills everything and
-completes the objective, or she dies fairly early while hacking the security
-server. Probably while fighting the Killer/Hellhound duo.&lt;/p&gt;
-
-&lt;p&gt;If the worst happens, I’ll adjust the difficulty down a bit and try for a
-successful run, timing how long that took.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/03/hackathon-cp-red.html</guid>
         
         <category>shadowrun</category>
         

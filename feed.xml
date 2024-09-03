@@ -6,9 +6,9 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Aug 2024 18:05:09 +0000</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2024 18:05:09 +0000</lastBuildDate>
-    <generator>Jekyll v3.9.5</generator>
+    <pubDate>Tue, 03 Sep 2024 19:42:16 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:42:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Player Character Origins</title>
@@ -380,6 +380,140 @@ you can be sure I’ll post them here.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gm-hat</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Abandoning Weapon Master</title>
+        <description>&lt;p&gt;A while back I made a post about &lt;a href=&quot;/octopus-carnival/2021/05/27/masterful-combat.html&quot;&gt;combining Weapon Master and Trained by a
+Master&lt;/a&gt; into a single advantage. After thinking about it for a while, I think
+I might have changed my mind about it. I not sure the two traits are really
+meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.&lt;/p&gt;
+
+&lt;p&gt;Dungeon Fantasy character creation rules are all about replicating a lot of
+D&amp;amp;D’s conventions in GURPS. And one of the D&amp;amp;D-isms it tries to replicate is
+that a combat centric character can be either strong or fast, but not both.&lt;/p&gt;
+
+&lt;h2 id=&quot;dd-combat-conventions&quot;&gt;D&amp;amp;D Combat Conventions&lt;/h2&gt;
+
+&lt;p&gt;In recent editions of D&amp;amp;D, that happens because characters have a very limited
+number of points to distribute at creation, and every class is meant to have
+only 1 or 2 attributes that are important to its abilities. Physical combatants
+end up having either STR or DEX as their main attribute, and the rules are
+usually set up so that the other member of the pair can be safely dumped.&lt;/p&gt;
+
+&lt;p&gt;STR-based combatants use the heaviest armor and weapons they can get. The vast
+majority are melee specialists. Some buy a single thrown weapon at creation and
+then promptly forget about it. All of these options are designed to make
+Dexterity not matter to them.&lt;/p&gt;
+
+&lt;p&gt;DEX-based combatants are the opposite: they wear light or no armor, and are
+evenly split between archers and melee skirmishers who rely on “finesse weapons”
+that use DEX instead of STR. Therefore Strength doesn’t matter to them.&lt;/p&gt;
+
+&lt;p&gt;Every physical combatant&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the last three editions of D&amp;amp;D is going to lean
+heavily towards one of these archetypes. A few classes incentivise players to
+try and be a bit of both, but for most of them that’s going to lead to a weaker
+character.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-gurps&quot;&gt;What about GURPS?&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;amp;D, so
+it ends up bringing this particular trope wholesale into GURPS. You have your
+Strong Delvers, and your Fast Delvers&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But we run into some issues because
+GURPS is much less abstract than D&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;Both in real life and in GURPS, combatants want to be &lt;em&gt;both strong and
+fast&lt;/em&gt;. You need speed and precision to hit, and you need to put some force
+behind your blows for them to be effective. Sure, an individual character might
+have ST or DX that’s a bit higher than the other, but they’ll never be 10+
+points apart like they are in their D&amp;amp;D equivalents.&lt;/p&gt;
+
+&lt;p&gt;Still, DF tries, and Weapon Master is a significant component of this
+attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
+other fast delvers. It more or less takes the place of D&amp;amp;D’s Weapon Finesse,
+since it allows these characters to do improved melee damage without investing
+many points into ST.&lt;/p&gt;
+
+&lt;p&gt;But it’s also an optional Knight trait. And it’s quite easy to take a starting
+Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
+weapon skill of 20. Such a character literally combines the best of both
+worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
+their strikes to a massive amount of damage when they land, due to the higher
+base number of damage dice and the per-die damage bonus.&lt;/p&gt;
+
+&lt;p&gt;As a player, this damage bonus seems so good to me that I’d feel bad about
+“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
+any enemy that can withstand a hit from the Knight will be impervious to attacks
+from the other PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-do-about-it&quot;&gt;What to do about it?&lt;/h2&gt;
+
+&lt;p&gt;The first option is of course to do nothing. This is admitedly a very niche
+concern and you might be okay with it in your game. But if you are having Weapon
+Master Problems at your table you might try one of these other possible
+solutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-1-flat-damage-bonus&quot;&gt;Solution 1: Flat Damage Bonus&lt;/h3&gt;
+
+&lt;p&gt;A “minimally invasive” solution is to change the damage bonus from +1 or +2 &lt;em&gt;per
+die&lt;/em&gt; to a flat +1 or +2. All advantage costs remain the same, as do all
+templates.&lt;/p&gt;
+
+&lt;p&gt;This means that the skinny swashbuckler who rolls a single die for damage still
+gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
+damage gets a much smaller relative benefit.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-2-no-more-weapon-master&quot;&gt;Solution 2: No More Weapon Master!&lt;/h3&gt;
+
+&lt;p&gt;Weapon Master no longer exists and Trained By a Master comes in categories
+similar to the removed advantage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;20 points makes you trained in One Weapon. This gives you improved parries,
+improved Rapid Strikes, and access to the same limited set of Chi Skills as
+Weapon Master did. No damage bonus, though!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;25 points gives you the same benefits for Two Related Weapons or all weapons
+covered by One Skill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;30 points works as printed, giving you the full set of Trained By a Master
+benefits for all muscle-powered weapons and unarmed attacks.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“All knives” counts as a single weapon for these purposes, like in the books. So
+do “all unarmed attacks”.&lt;/p&gt;
+
+&lt;p&gt;Everyone who had Weapon Master as an optional advantage gets the corresponding
+version of Trained by a Master instead, and has the option to upgrade to the
+full version.&lt;/p&gt;
+
+&lt;p&gt;This is a more drastic and slightly more complicated solution. No one gets a
+damage bonus any more, but no one overpays for the full Weapon Master package
+either.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And then you have spellcasters, who choose to be slow and weak so they can
+be good at magic. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And Smart Delvers, for which see Footnote 1. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</guid>
+        
+        <category>gurps</category>
         
         
       </item>
@@ -1609,161 +1743,6 @@ enchantments.&lt;/p&gt;
         <category>dungeon-fantasy</category>
         
         <category>items</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Neverwinter: Thay</title>
-        <description>&lt;p&gt;The Shadowfell Road ends in Thay.&lt;/p&gt;
-
-&lt;p&gt;This is where the book technically breaks its promises. While every other place
-so far has been presented as somewhere the party could go, the text here sounds
-almost scared when it talks about the Thayan heartland because that’s where
-Szass Tam and all his epic-level wizard buddies live. It makes it very clear
-that the PCs should not go there.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, the bulk of this section is not actually talking about the massive
-plateau that makes up the Thayan heartland, but about the peripheral areas
-surrounding that plateau. Special attention is given to Surcross and Veil, a
-pair of fortified towns at its base, as well as to the Netherese flying fortress
-that’s currently besieging them.&lt;/p&gt;
-
-&lt;p&gt;Veil is where the Shadowfell Road ends. Surcross is a short distance away and is
-where all of Valindra’s supplies come from. The main reason the PCs would want
-to come here is to disrupt that supply network in order to defeat her back in
-Neverwinter. Depending on how the GM sets things up, it’s also possible her soul
-vessel is hidden somewhere in Surcross.&lt;/p&gt;
-
-&lt;p&gt;The area around these two cities is a horrifying wasteland of destroyed nature
-and abandoned villages whose ground is coated in bits of bone and flesh that
-were too broken up to animate. We’ll take a look at the general area here, and
-then zoom into the cities and fortress in future posts.&lt;/p&gt;
-
-&lt;h2 id=&quot;overview-of-thay&quot;&gt;Overview of Thay&lt;/h2&gt;
-
-&lt;p&gt;In editions past, Thay used to be a slave-holding nation of evil wizards whose
-schtick was over-specializing in one of D&amp;amp;D’s schools of magic. Their ideology
-was very similar to fascism with wizards at the top of the heap, but they tried
-to present a more “friendly” face to the outside world, setting up trade
-enclaves while keeping their dastardly schemes secret.&lt;/p&gt;
-
-&lt;p&gt;I believe the lich Szass Tam used to be a member of Thay’s ruling council, but
-now he’s taken over completely and became its supreme leader. He turned Thay
-into a “nation of undeath”, equally devoted to necromancy and conquest. Why
-pretend to be friendly to other nations when you can just invade them and take
-their stuff? The only deity whose worship Tam permits is Bane, the evil god of
-conquest, and he’s suspicious of even that. Yes, worship of Vecna is completely
-forbidden - I think Tam sees him as the competition.&lt;/p&gt;
-
-&lt;p&gt;Thay remains in this state when we switch to 5th Edition, by the way - it’s one
-of the things they didn’t change back.&lt;/p&gt;
-
-&lt;p&gt;Climbing to the top of the Thayan plateau is discouraged not only by the book’s
-scared tone, but by the many defenses placed around it. Its walls are almost
-vertical and the only ways up are a set of narrow switchbacks that leave
-characters exposed to artillery fire from both sides of the ongoing war.&lt;/p&gt;
-
-&lt;p&gt;Both Surcross and the Netherese fortress of Kolthunral have amazingly powerful
-weapons and defenses at their disposal. Kolthunral’s mission is to cut
-Valindra’s supply line by destroying Surcross and/or Veil, which is why it
-hasn’t moved away. The PCs arrive to find them locked in a prolonged siege, as
-neither is able to fully overcome the others’ defenses.&lt;/p&gt;
-
-&lt;p&gt;A significant portion of Thay’s forces are composed of undead, both at the grunt
-and officer levels. Their living soldiers are mostly humans, orcs, and gnolls,
-with plenty of spellcasters.&lt;/p&gt;
-
-&lt;p&gt;A character like the Renegade Red Wizard could be very helpful here if they
-still have friends in the region, but they’re also coming back to the lion’s den
-and if the Thayans realize the renegade is here they will be relentless in their
-pursuit.&lt;/p&gt;
-
-&lt;p&gt;In addition to any friends of the Red Wizard PC that might be here, the area
-also contains a bunch of spies and infiltrators sent by Dempharis Sibront, an
-elderly Red Wizard who escaped Tam’s conquest of the nation. Sibront considers
-himself nobility in exile and his network of infiltrated rebels is looking for
-any way to weaken’s Tam’s hold on the country. The PCs can form an alliance of
-convenience with him to fulfill their own goals, since they align, and his
-forces will be genuinely helpful in that situation.&lt;/p&gt;
-
-&lt;p&gt;However he is likely to interpret this situation as the PCs agreeing to serve
-him indefinitely, and could become an enemy in future adventures when he
-realizes that wasn’t the case. That seems like an interesting opportunity for
-continuing the campaign past the material in the book.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-charnel-fields&quot;&gt;The Charnel Fields&lt;/h2&gt;
-
-&lt;p&gt;The horrifying plains of death in the area surrounding the two Thayan towns are
-a product not just of the war, but also of Thayan fuckery. Since right after the
-first battles, the Thayans started hauling corpses from the battlefield for
-animation. But since some of those battles happened far away, they decided to
-enact a “little” ritual to make things more convenient, using the blood of the
-fallen as a focus.&lt;/p&gt;
-
-&lt;p&gt;Any corpse left on or under the earth within a hundred miles of Surcross will be
-sucked by the enchanted soil and transported to an area near the city, where it
-will be extruded to the surface. This makes it easy for Thayan necromancers to
-haul them back for reanimation, and it also attracts all sorts of natural and
-supernatural predators who want to feast on the remaining bits. The Netherese
-have also started hauling corpses away from the charnel fields, to deny the “raw
-material” to their enemies and maybe animate some of it themselves.&lt;/p&gt;
-
-&lt;h3 id=&quot;relsforin&quot;&gt;Relsforin&lt;/h3&gt;
-
-&lt;p&gt;The desperate inhabitants of this small village survived by making themselves
-useful to Thay. They make up the bulk of the labor force that hauls corpses from
-the Charnel Fields to Surcross, and in exchange receive some protection from
-Netherese attacks. They fear the Netherese more than they resent the Thayans,
-and if they think a group of strangers (such as the PCs) are likely to be
-enemies of their masters, they will turn them in.&lt;/p&gt;
-
-&lt;h3 id=&quot;echo-village&quot;&gt;Echo Village&lt;/h3&gt;
-
-&lt;p&gt;This village belonged to the neighboring nation of Thesk until a short while
-ago. The mercantile Theskans built it as a trade post near the Thayan border, to
-facilitate commerce with the wizard nation.&lt;/p&gt;
-
-&lt;p&gt;Shortly after the war started the Thayans invaded the village and slaughtered
-all of its inhabitants to turn them into more undead soldiers. They left the
-village behind as an empty husk, but the angry ghosts of the inhabitants soon
-appeared to haunt the place and wail about the hatred they felt for their
-murderers. This attracted the spirits of &lt;em&gt;other&lt;/em&gt; Thayan victims, turning Echo
-Village into a sort of gathering point for ghosts with a grudge against Thay.&lt;/p&gt;
-
-&lt;p&gt;The ghosts’ default reaction to any living people approaching their village is
-violence - they’ll attack while shouting rants against Thay. PC groups who are
-perceptive and diplomatic enough might be able to figure things out from these
-rants and convince the ghosts that they too are enemies of Thay.&lt;/p&gt;
-
-&lt;p&gt;This would ironically make Echo Village the safest refuge for the PCs in the
-entire region, as the ghosts would allow them to stay while still attacking any
-intruders. It’s an interesting contrast with Relsforin, which &lt;em&gt;seems&lt;/em&gt; safe but
-is not.&lt;/p&gt;
-
-&lt;p&gt;If the PCs then manage to lure the Thayan legion that contains the villagers’
-original bodies back to Echo, the ghosts will be able to “repossess” their
-bodies and turn against their commanders, potentially slaughtering the whole
-legion. This will finally let them rest, and they will inform the PCs of any
-sensitive information their bodies learned before moving on from the world.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Yikes! War crimes as far as the eye can see. It does put the events happening in
-Neverwinter into context. GMs and players might be used to thinking of
-heroic-tier campaigns as being “no big deal” in the grand scheme of things, but
-everything that’s happening here in Thay is a B plot for the events in
-Neverwinter.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/13/neverwinter-thay.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/13/neverwinter-thay.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
         
         
       </item>
