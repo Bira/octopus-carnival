@@ -70,8 +70,8 @@ The ritual requires him to rip his own heart out while standing in a place where
 the normal flow of the River of Souls is disrupted. There's a place like that
 underneath Kintargo, in the form of a non-portable artifact called the Soul
 Anchor. The Anchor was created by Mahathallah, a former servant of Pharasma
-turned goddess of undeath. Barzilai raided the place in Adventure Two, killed
-most of its defenders, and performed his ritual there.
+turned goddess of undeath. Barzilai raided the place during Adventure Two,
+killed most of its defenders, and performed his ritual there.
 
 You see, when you die in Golarion what usually happens is that your soul goes to
 Pharasma's domain, where the goddess of death will judge you, strip you of your
@@ -94,7 +94,8 @@ here. And Adventure Six retcons it and tells us he stays in Hell "until Ravounel
 becomes a free nation".
 
 That could potentially be _much longer_ than Barzilai's natural life... but hey,
-guess what the just did? They made Ravounel into a free nation!
+guess what the just did in the previous volume? They made Ravounel into a free
+nation!
 
 So as Adventure Six starts, Barzilai has begun his transformation, and the only
 way to stop it is to trigger the termination clause of his mephistophelic
@@ -160,7 +161,7 @@ failed to destroy it, by say selling it off instead of handing it to a proper
 disposal expert, then it makes an appearance here. The cult managed to acquire
 it and restore it to full power, and they give it to Bejakra as part of the
 payment for this job. If the PCs did destroy the weapon, then she will have a
-much less impressive (but still magic) kukri instead.
+much less impressive magic kukri instead.
 
 ### Negotiation Mechanics
 

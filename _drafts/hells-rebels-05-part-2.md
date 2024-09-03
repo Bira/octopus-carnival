@@ -76,7 +76,7 @@ the legalities are very important. He will gladly vote to ratify Jilia, but they
 have to clear his name.
 
 Fortunately Lerish isn't actually dead. Mayhart did challenge him to a duel, but
-he faked his own death by jumping off the bridge and swimming away using a
+Lerish faked his own death by jumping off the bridge and swimming away using a
 magical helmet that let him breathe underwater. He intended to frame Mayhart,
 get him executed, and then be "miraculously found alive" later. Of course, when
 Thrune took over the execution plans got put on hold and he's been hiding out in

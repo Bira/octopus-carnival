@@ -36,15 +36,14 @@ Jade's stats below are based on the Aristocrat archetype from GURPS Dungeon
 Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
 skills, though I removed some of the template's more classist traits. Her being
 a long-lived non-human is mostly a story thing for now, as I didn't take an
-official racial template.
+official racial template. You can use these stats for a charismatic human
+swashbuckler in some other campaign without changing any numbers. If you need
+one, consider her a Half-Spirit, and let her take the supernatural traits from
+that template with earned character points.
 
 Her name is taken from Chuubo's Marverlous Wish-Granting Engine, where it
 belonged to the Angel of the Sun. She's also partly inspired by Princess
-Celestia. I used her in Zeitgeist too, where she was an eladrin (also without a
-template). Here, the closest equivalent might be an elf with an azata celestial
-heritage, which is actually possible as a starting PC in Pathfinder 2. You can
-use these stats for a charismatic human swashbuckler in some other campaign
-without changing any numbers.
+Celestia.
 
 In terms of advancement, I'm hoping to spend earned points to max out her
 Charisma, Born War-Leader talent, and perhaps even Appearance. She's going to be

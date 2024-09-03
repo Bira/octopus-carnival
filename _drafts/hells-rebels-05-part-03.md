@@ -11,14 +11,14 @@ could happen afterwards.
 Most of these have a single unifying theme: uniting Ravounel. The Kintargo
 Contract works almost like a constitution in the way in which it defines the
 province. It divides it into five administrative regions, and specifies that the
-city of Kintargo must sign a treaty of alliance with the "leader" of that
-region. The definition of leader here is pretty vague, and fits any individual
-who is generally recognized as important and influential by most inhabitants of
-that region.
+city of Kintargo must sign a treaty of alliance with the "leader" of that region
+for it to count as part of the province. The definition of leader here is pretty
+vague, and fits any individual who is generally recognized as important and
+influential by most inhabitants of that region.
 
 This is good because none of these regions are the neatly administered areas the
 contract expects them to be. The PCs need to go to each one, find someone who
-can fit the definition of regional leader, and get them to sign a contract. Each
+can fit the definition of regional leader, and get them to sign a treaty. Each
 of these trips is presented as a different mission. Each region that doesn't
 sign a treaty will _not count as a part of Ravounel_ when House Thrune comes
 calling.
@@ -210,4 +210,8 @@ ambushing the PCs with death attacks.
 
 There's a whole bunch of notes he made on the Soul Anchor back when he was
 alive, and the narrative purpose of this mission seems to be to get them into
-the PC's hands.
+the PC's hands. This will probably be their first hint that the Anchor even
+exists, and it's going to be much more important in Adventure 6.
+
+If you intend to end the campaign in this volume, you can remove the Slasher
+mission entirely, as well as any mention of the Soul Anchor.

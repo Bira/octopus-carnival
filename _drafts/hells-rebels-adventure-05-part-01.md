@@ -132,8 +132,9 @@ urgent ones first.
 ### The Kintargo Contract
 
 This contract is more obfuscated than usual for its CR (also 15). You need
-Oddie's help to bring its stats down to the expected level of difficulty (though
-he'll just tell you all about it with minimal prompting).
+Oddie's help to bring its stats down to the expected level of difficulty, but
+that's a moot point. If you get Odie to help you, he'll tell you all about the
+contract's secrets with minimal prompting.
 
 **Plain Text**: This is a sub-contract of the wider Cheliax Covenant signed
 between Queen Abrogail I and Asmodeus. Like the Covenant, it allows House Thrune
@@ -183,12 +184,30 @@ are not written down in the contract. Someone who was alive and politically
 active back then would still remember, but only two individuals fit this
 description: Jackdaw and Oddie.
 
-## Choice 1: Strolling into the City of Dis
+The book _really_ _really_ wants you to visit Oddie.
 
-The book _really_, _really_ wants you to visit Oddie. Using the amulet summons a
-heavy metal worm-maw-thing that acts as a portal to Oddie's offices in the city
-of Dis. The portal is effectively one-way. They need to find their own way
-back once they're done.
+#### Choice 1: How about No?
+
+The "plaintext" of the Kintargo Contract contains all the context your PCs need
+to proceed with the adventure. They'll know that a properly ratified mayor can
+forbid Cheliax from invading, and they'll know they need to discover the names
+of the Board's families. Knowing that the penalty for a breach is the unmaking
+of Cheliax is fun, but not strictly necessary - the plaintext already mentions
+the penalty is "severe".
+
+So a party that has rescued Jackdaw can just ask her for the names of the Board
+families and proceed to the investigation without ever interacting with Oddie!
+
+You do technically miss out on that big chunk of XP, which I guess is the main
+reason why the book wants you to take the other choice. GMs can remedy this by
+just giving it to the PCs anyway, possibly later on as part of the story reward
+for ratifying a mayor.
+
+#### Choice 2: Strolling into the City of Dis
+
+Using the amulet summons a heavy metal worm-maw-thing that acts as a portal to
+Oddie's offices in the city of Dis. The portal is effectively one-way. They need
+to find their own way back once they're done.
 
 Oddie's office is located inside a much larger building, the library that holds
 all of Hell's contracts, but it's physically isolated from it. The decor is a
@@ -208,10 +227,11 @@ secretary in addition to Oddie himself (a contract devil, of course).
 There are several ways this can go down. Parties who know the password can speak
 it to the receptionists, who will take them to a conference room and notify
 Oddie. He takes 3d6 hours to show up because his sense of time is a bit warped,
-but show up he does, and has a peaceful meeting with the PCs. Fortunately there
-is a bathroom with a working toilet and potable sink, and the room is furnished
-with a drink collection and a spoon that can generate magical meals on demand
-(the food is harmless and tastes heavenly but looks like literal shit).
+but show up he does, and has a peaceful meeting with the PCs. Fortunately for
+the PCs, the wait is merely boring rather than hazardous: the conference room
+has a bathroom with a working toilet and a potable-water sink. It's also
+furnished with a drink selection and a magical spoon that can generate meals on
+demand (the food is harmless and tastes heavenly but looks like literal shit).
 
 Parties who don't know the password can try to be sneaky. The office has no
 invisibility countermeasures but they should apply that invisibility before
@@ -221,11 +241,9 @@ impressed if they manage to reach his office undetected.
 Another option is mind-controlling the receptionists and have them escort the
 PCs directly to Oddie's office.
 
-And, of course, the group can always go in with blades drawn and kill every
-devil in sight until they reach Oddie, who will be ready to fight them instead
-of talking. There's an opportunity for extra heroics here in rescuing the guy
-who's being tortured in the contract signing room, even though he's a bit of an
-asshole himself.
+Finally, the group can always go in with blades drawn and kill every devil in
+sight until they reach Oddie, who will be ready to fight them instead of
+talking.
 
 Peaceful routes still give you all the XP you would have gotten for defeating
 these devils in combat, even Oddie. You miss out on some loot, but there's
@@ -233,10 +251,11 @@ nothing spectacular in there.
 
 ### The Devil Advocate
 
-If the party manages to meet with Oddie, he'll be quite delighted to know they
-intend to exploit the Kintargo Contract and will actually struggle to disguise
-his excitement. He's as much of an evil asshole as any devil, but he's also
-obsessed with his craft and considers the Kintargo Contract to be a masterpiece.
+If the party manages a peaceful meeting with Oddie, he'll be quite delighted to
+know they intend to exploit the Kintargo Contract and will actually struggle to
+disguise his excitement. He's as much of an evil asshole as any devil, but he's
+also obsessed with his craft and considers the Kintargo Contract to be a
+masterpiece.
 
 Oddie _wants_ it hidden clause to be exploited, because once it becomes public
 it will impress both his peers and his superiors for managing to slip something
@@ -271,24 +290,6 @@ into ratifying a governor if he thinks they're taking too long.
 If they _kill_ Oddie in the course of breaking into his office, they should
 still be able to retrieve the names from his notes, but returning home becomes
 harder. It's Plane Shift or nothing.
-
-## Choice 2: How about No?
-
-Jackdaw, if she was rescued, still remembers the name of the five Board
-families, though she doesn't know any of the additional information. While the
-party is unlikely to decipher the Kintargo Contract on their own most of the
-information they absolutely must know to proceed can be had from the plain text
-reading. They don't really need to know the penalty for invading without
-permission will destroy Cheliax - they just need to know that it's severe, and
-that's in the plain text.
-
-So a party who absolutely refuses to deal with devils could just ask Jackdaw and
-proceed with the plan without knowing the whole context.
-
-You do technically miss out on that big chunk of XP, which I guess is the main
-reason why the book wants you to take the other choice. A generous GM might just
-give it to the PCs anyway, possibly later on as part of the story reward for
-ratifying a mayor.
 
 ## Next Time On "Let's Read Hell's Rebels!"
 

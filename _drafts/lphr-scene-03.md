@@ -91,25 +91,38 @@ folded silk undershirt enchanted with Fortify 1.
 
 If he had all of that on him, no wonder the CCG singled him out for a mugging!
 
+## OOC: Loot distribution
 
-## GM Hat: What next?
+The shirt gives DR 1 to the body, is worth $1120 and weights 0.1kg. Jania gets
+it because she needs armor. Only $120 of that is material worth, so she's not
+gonna turn it into a Power Item.
 
-Okay, so my original plan here was to transplant the underground level of the
-Fair Fortune Livery under the Salix Salt Works. The party would then go straight
-from the riot to the Long Roads Coffee House, and from there do both the
-Prisoners of Salt raid and the document recovery delve.
+
+## GM Notes
+
+Looks like the book named a bookstore with a secure backroom as the place where
+this discussion happened, but I wasn't looking closely when I played through
+this and moved the discussion to a tavern instead. I'll let it stand, as there
+wasn't much difference from the original. And this is indeed the authentic
+experience of having me as a GM!
+
+My original plan for the next scene was to transplant the underground level of
+the Fair Fortune Livery under the Salix Salt Works. The party would then go
+straight from the riot to the Long Roads Coffee House, and from there do both
+the Prisoners of Salt raid and the document recovery delve.
 
 Mechanically, it works, but story-wise there are a couple of wrinkles here. The
 Salt Works are located on the docks _outside_ the walls, which is a really bad
 place for a Silver Ravens hideout. And the livery ruins are locates all the way
 across Kintargo, in a place that's really inconvenient for a salt factory. Plus
 I think the demons in the basement would probably manage to make themselves
-known to the assholes running the factory.
+known to the assholes running the factory, even if said assholes are not
+competent enough to notice by themselves.
 
-So I'm gonna run the Livery now, with the same kind of changes I made in a PBP
+So I'm gonna run the Livery next, with the same kind of changes I made in a PBP
 attempt, and Prisoners of Salt later on.
 
-### Comversion Notes: Treasure
+### Conversion Notes: Treasure
 
 I imagine Pathfinder wants this to be the reward associated with the Aria Park
 riot and his rescue scene. The money and signed ring are fine, following the

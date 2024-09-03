@@ -19,7 +19,7 @@ above-board reputation as a powerful wizard and an "openly secret" one as a
 master thief for that extra thrill. It helps that creepy, unexplained events
 keep happening around her. Jania introduces herself as "The Great and Powerful",
 though some think a better title would be "The Two-Faced". Don't call her that
-where she can hear you, though, she has a bit of a temper.
+where she can hear you, though, she considers it insulting.
 
 Ms. Moonshadow's increasing boldness soon caused her to run afoul of an old
 wererat named Hei-Fen, a veteran of the same business who was enjoying a "quiet"
