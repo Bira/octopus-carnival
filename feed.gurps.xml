@@ -5,9 +5,143 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Sep 2024 19:42:16 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Sep 2024 19:42:16 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Sep 2024 19:49:25 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Sep 2024 19:49:25 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Abandoning Weapon Master</title>
+        <description>&lt;p&gt;A while back I made a post about &lt;a href=&quot;/octopus-carnival/2021/05/27/masterful-combat.html&quot;&gt;combining Weapon Master and Trained by a
+Master&lt;/a&gt; into a single advantage. After thinking about it for a while, I think
+I might have changed my mind about it. I not sure the two traits are really
+meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.&lt;/p&gt;
+
+&lt;p&gt;Dungeon Fantasy character creation rules are all about replicating a lot of
+D&amp;amp;D’s conventions in GURPS. And one of the D&amp;amp;D-isms it tries to replicate is
+that a combat centric character can be either strong or fast, but not both.&lt;/p&gt;
+
+&lt;h2 id=&quot;dd-combat-conventions&quot;&gt;D&amp;amp;D Combat Conventions&lt;/h2&gt;
+
+&lt;p&gt;In recent editions of D&amp;amp;D, that happens because characters have a very limited
+number of points to distribute at creation, and every class is meant to have
+only 1 or 2 attributes that are important to its abilities. Physical combatants
+end up having either STR or DEX as their main attribute, and the rules are
+usually set up so that the other member of the pair can be safely dumped.&lt;/p&gt;
+
+&lt;p&gt;STR-based combatants use the heaviest armor and weapons they can get. The vast
+majority are melee specialists. Some buy a single thrown weapon at creation and
+then promptly forget about it. All of these options are designed to make
+Dexterity not matter to them.&lt;/p&gt;
+
+&lt;p&gt;DEX-based combatants are the opposite: they wear light or no armor, and are
+evenly split between archers and melee skirmishers who rely on “finesse weapons”
+that use DEX instead of STR. Therefore Strength doesn’t matter to them.&lt;/p&gt;
+
+&lt;p&gt;Every physical combatant&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the last three editions of D&amp;amp;D is going to lean
+heavily towards one of these archetypes. A few classes incentivise players to
+try and be a bit of both, but for most of them that’s going to lead to a weaker
+character.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-about-gurps&quot;&gt;What about GURPS?&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;amp;D, so
+it ends up bringing this particular trope wholesale into GURPS. You have your
+Strong Delvers, and your Fast Delvers&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But we run into some issues because
+GURPS is much less abstract than D&amp;amp;D.&lt;/p&gt;
+
+&lt;p&gt;Both in real life and in GURPS, combatants want to be &lt;em&gt;both strong and
+fast&lt;/em&gt;. You need speed and precision to hit, and you need to put some force
+behind your blows for them to be effective. Sure, an individual character might
+have ST or DX that’s a bit higher than the other, but they’ll never be 10+
+points apart like they are in their D&amp;amp;D equivalents.&lt;/p&gt;
+
+&lt;p&gt;Still, DF tries, and Weapon Master is a significant component of this
+attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
+other fast delvers. It more or less takes the place of D&amp;amp;D’s Weapon Finesse,
+since it allows these characters to do improved melee damage without investing
+many points into ST.&lt;/p&gt;
+
+&lt;p&gt;But it’s also an optional Knight trait. And it’s quite easy to take a starting
+Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
+weapon skill of 20. Such a character literally combines the best of both
+worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
+their strikes to a massive amount of damage when they land, due to the higher
+base number of damage dice and the per-die damage bonus.&lt;/p&gt;
+
+&lt;p&gt;As a player, this damage bonus seems so good to me that I’d feel bad about
+“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
+any enemy that can withstand a hit from the Knight will be impervious to attacks
+from the other PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-to-do-about-it&quot;&gt;What to do about it?&lt;/h2&gt;
+
+&lt;p&gt;The first option is of course to do nothing. This is admitedly a very niche
+concern and you might be okay with it in your game. But if you are having Weapon
+Master Problems at your table you might try one of these other possible
+solutions.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-1-flat-damage-bonus&quot;&gt;Solution 1: Flat Damage Bonus&lt;/h3&gt;
+
+&lt;p&gt;A “minimally invasive” solution is to change the damage bonus from +1 or +2 &lt;em&gt;per
+die&lt;/em&gt; to a flat +1 or +2. All advantage costs remain the same, as do all
+templates.&lt;/p&gt;
+
+&lt;p&gt;This means that the skinny swashbuckler who rolls a single die for damage still
+gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
+damage gets a much smaller relative benefit.&lt;/p&gt;
+
+&lt;h3 id=&quot;solution-2-no-more-weapon-master&quot;&gt;Solution 2: No More Weapon Master!&lt;/h3&gt;
+
+&lt;p&gt;Weapon Master no longer exists and Trained By a Master comes in categories
+similar to the removed advantage:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;20 points makes you trained in One Weapon. This gives you improved parries,
+improved Rapid Strikes, and access to the same limited set of Chi Skills as
+Weapon Master did. No damage bonus, though!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;25 points gives you the same benefits for Two Related Weapons or all weapons
+covered by One Skill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;30 points works as printed, giving you the full set of Trained By a Master
+benefits for all muscle-powered weapons and unarmed attacks.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“All knives” counts as a single weapon for these purposes, like in the books. So
+do “all unarmed attacks”.&lt;/p&gt;
+
+&lt;p&gt;Everyone who had Weapon Master as an optional advantage gets the corresponding
+version of Trained by a Master instead, and has the option to upgrade to the
+full version.&lt;/p&gt;
+
+&lt;p&gt;This is a more drastic and slightly more complicated solution. No one gets a
+damage bonus any more, but no one overpays for the full Weapon Master package
+either.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And then you have spellcasters, who choose to be slow and weak so they can
+be good at magic. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;And Smart Delvers, for which see Footnote 1. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/09/03/no-weapon-master.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/09/03/no-weapon-master.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Player Character Origins</title>
@@ -379,140 +513,6 @@ you can be sure I’ll post them here.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gm-hat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Abandoning Weapon Master</title>
-        <description>&lt;p&gt;A while back I made a post about &lt;a href=&quot;/octopus-carnival/2021/05/27/masterful-combat.html&quot;&gt;combining Weapon Master and Trained by a
-Master&lt;/a&gt; into a single advantage. After thinking about it for a while, I think
-I might have changed my mind about it. I not sure the two traits are really
-meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.&lt;/p&gt;
-
-&lt;p&gt;Dungeon Fantasy character creation rules are all about replicating a lot of
-D&amp;amp;D’s conventions in GURPS. And one of the D&amp;amp;D-isms it tries to replicate is
-that a combat centric character can be either strong or fast, but not both.&lt;/p&gt;
-
-&lt;h2 id=&quot;dd-combat-conventions&quot;&gt;D&amp;amp;D Combat Conventions&lt;/h2&gt;
-
-&lt;p&gt;In recent editions of D&amp;amp;D, that happens because characters have a very limited
-number of points to distribute at creation, and every class is meant to have
-only 1 or 2 attributes that are important to its abilities. Physical combatants
-end up having either STR or DEX as their main attribute, and the rules are
-usually set up so that the other member of the pair can be safely dumped.&lt;/p&gt;
-
-&lt;p&gt;STR-based combatants use the heaviest armor and weapons they can get. The vast
-majority are melee specialists. Some buy a single thrown weapon at creation and
-then promptly forget about it. All of these options are designed to make
-Dexterity not matter to them.&lt;/p&gt;
-
-&lt;p&gt;DEX-based combatants are the opposite: they wear light or no armor, and are
-evenly split between archers and melee skirmishers who rely on “finesse weapons”
-that use DEX instead of STR. Therefore Strength doesn’t matter to them.&lt;/p&gt;
-
-&lt;p&gt;Every physical combatant&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the last three editions of D&amp;amp;D is going to lean
-heavily towards one of these archetypes. A few classes incentivise players to
-try and be a bit of both, but for most of them that’s going to lead to a weaker
-character.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-about-gurps&quot;&gt;What about GURPS?&lt;/h2&gt;
-
-&lt;p&gt;Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;amp;D, so
-it ends up bringing this particular trope wholesale into GURPS. You have your
-Strong Delvers, and your Fast Delvers&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But we run into some issues because
-GURPS is much less abstract than D&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;Both in real life and in GURPS, combatants want to be &lt;em&gt;both strong and
-fast&lt;/em&gt;. You need speed and precision to hit, and you need to put some force
-behind your blows for them to be effective. Sure, an individual character might
-have ST or DX that’s a bit higher than the other, but they’ll never be 10+
-points apart like they are in their D&amp;amp;D equivalents.&lt;/p&gt;
-
-&lt;p&gt;Still, DF tries, and Weapon Master is a significant component of this
-attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
-other fast delvers. It more or less takes the place of D&amp;amp;D’s Weapon Finesse,
-since it allows these characters to do improved melee damage without investing
-many points into ST.&lt;/p&gt;
-
-&lt;p&gt;But it’s also an optional Knight trait. And it’s quite easy to take a starting
-Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
-weapon skill of 20. Such a character literally combines the best of both
-worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
-their strikes to a massive amount of damage when they land, due to the higher
-base number of damage dice and the per-die damage bonus.&lt;/p&gt;
-
-&lt;p&gt;As a player, this damage bonus seems so good to me that I’d feel bad about
-“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
-any enemy that can withstand a hit from the Knight will be impervious to attacks
-from the other PCs.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-to-do-about-it&quot;&gt;What to do about it?&lt;/h2&gt;
-
-&lt;p&gt;The first option is of course to do nothing. This is admitedly a very niche
-concern and you might be okay with it in your game. But if you are having Weapon
-Master Problems at your table you might try one of these other possible
-solutions.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-1-flat-damage-bonus&quot;&gt;Solution 1: Flat Damage Bonus&lt;/h3&gt;
-
-&lt;p&gt;A “minimally invasive” solution is to change the damage bonus from +1 or +2 &lt;em&gt;per
-die&lt;/em&gt; to a flat +1 or +2. All advantage costs remain the same, as do all
-templates.&lt;/p&gt;
-
-&lt;p&gt;This means that the skinny swashbuckler who rolls a single die for damage still
-gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
-damage gets a much smaller relative benefit.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-2-no-more-weapon-master&quot;&gt;Solution 2: No More Weapon Master!&lt;/h3&gt;
-
-&lt;p&gt;Weapon Master no longer exists and Trained By a Master comes in categories
-similar to the removed advantage:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;20 points makes you trained in One Weapon. This gives you improved parries,
-improved Rapid Strikes, and access to the same limited set of Chi Skills as
-Weapon Master did. No damage bonus, though!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;25 points gives you the same benefits for Two Related Weapons or all weapons
-covered by One Skill.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;30 points works as printed, giving you the full set of Trained By a Master
-benefits for all muscle-powered weapons and unarmed attacks.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;“All knives” counts as a single weapon for these purposes, like in the books. So
-do “all unarmed attacks”.&lt;/p&gt;
-
-&lt;p&gt;Everyone who had Weapon Master as an optional advantage gets the corresponding
-version of Trained by a Master instead, and has the option to upgrade to the
-full version.&lt;/p&gt;
-
-&lt;p&gt;This is a more drastic and slightly more complicated solution. No one gets a
-damage bonus any more, but no one overpays for the full Weapon Master package
-either.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And then you have spellcasters, who choose to be slow and weak so they can
-be good at magic. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And Smart Delvers, for which see Footnote 1. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/08/03/no-weapon-master.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
