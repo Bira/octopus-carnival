@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tweaking Combat Turn Length in GURPS"
+title: "Tweaking Combat Flow in GURPS or, GURPS is Brutalist"
 tags:
     - gurps
 ---
