@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS | Octopus Carnival</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The Long Lines Building in New York" />
+<meta property="og:description" content="The Long Lines Building in New York" />
+<link rel="canonical" href="https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html" />
+<meta property="og:url" content="https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html" />
+<meta property="og:site_name" content="Octopus Carnival" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2024-09-17T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS" />
+<meta name="twitter:site" content="@mestre_bira" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2024-09-17T00:00:00+00:00","datePublished":"2024-09-17T00:00:00+00:00","description":"The Long Lines Building in New York","headline":"GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS","mainEntityOfPage":{"@type":"WebPage","@id":"https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html"},"url":"https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/octopus-carnival/css/main.css"><link type="application/atom+xml" rel="alternate" href="https://bira.github.io/octopus-carnival/feed.xml" title="Octopus Carnival" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" rel="author" href="/octopus-carnival/">Octopus Carnival</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        <a class="page-link" href="/octopus-carnival/projects/">Projects</a>
+        <a class="page-link" href="/octopus-carnival/about/">About</a>
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2024-09-17T00:00:00+00:00" itemprop="datePublished">
+        Sep 17, 2024
+      </time></p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <figure class="center">
+  <img src="https://bira.github.io/octopus-carnival/assets/long-lines-building.jpg"/>
+  <figcaption>
+    The Long Lines Building in New York
+  </figcaption>
+</figure>
+
+<p>A common complaint I hear about people who tried GURPS for the first time coming
+in from other systems is that the “flow” of combat feels odd. Mainly that those
+1-second turns are too short and don’t let you do enough. Sometimes also that
+these short turns lead to fights that end too quickly to be dramatic<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>I think this comes from a mismatch between the player’s learned expectations and
+the way GURPS actually does things. In this post I’ll try to describe this
+difference, and give a few suggestions on how to reduce the friction.</p>
+
+<h2 id="describing-the-difference">Describing the Difference</h2>
+
+<p>Let’s start with an example. You’re in a typical dungeon fantasy combat against
+a bunch of zombies, playing an archer character. You make an attack, and
+describe it like this:</p>
+
+<p>“I draw and nock an arrow, then I take aim at the closest zombie and shoot! As
+soon as the arrow flies, I’m already drawing another one from my quiver!”</p>
+
+<p>How do other systems<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> usually handle this, and what does GURPS do that’s so
+different?</p>
+
+<h3 id="abstract-action-economies">Abstract Action Economies</h3>
+
+<p>Most tabletop RPG systems are fairly abstract when it comes to combat. To the
+rules, it doesn’t matter what motions your PC is actually going through when
+they perform an action, nor does it matter how long a turn lasts. It is enough
+to know what the action is, and that a turn is long enough for you to do it.</p>
+
+<p>In systems that work this way, our archer’s narration is just a cool
+embellishment that adds some fun detail to a standard ranged attack roll. All
+the rules need to know is that it’s a ranged attack.</p>
+
+<p>However, the choice of which actions perform in your turn matters a lot. You get
+a certain number of them, all of which have an immediate effect in the current
+turn but don’t influence future ones. Therefore the system’s incentives gently
+push you to be maximally efficient on a turn-by-turn basis<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>. Attacks are good
+because they bring the fight closer to an end. If you use your main action for
+something else, it better bring as much benefit to you as attacking would, or
+you have just “wasted” your turn. This set of mechanics and incentives is
+usually called an “action economy”.</p>
+
+<h3 id="the-gurps-way">The GURPS Way</h3>
+
+<p>Where other systems are abstract, GURPS is so concrete it’s practically
+brutalist. Turns last one second and its combat maneuvers are a lot more
+fine-grained than combat actions in other games.</p>
+
+<p>In the Union of Generic Universal Republics our example description is not just
+a bit of flavor: it’s a five-turn plan. Ready (draw arrow), Ready (nock arrow),
+Aim, Attack, Ready (draw arrow)<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>.</p>
+
+<p>Only the actual blow from your weapon, press of the trigger, or release of the
+bowstring counts as an Attack. The other stuff in the plan above are maneuvers
+that make your Attack possible and set it up for success. In GURPS, you want to
+increase the <em>quality</em> of your attacks, not necessarily their <em>quantity</em>.</p>
+
+<p>For the same reason GURPS is a bit less amenable to “needless embellishment”
+than more abstract games. Combat goes much more smoothly when you keep your
+action declarations to short sentences that map to a single maneuver. The
+structure you build out of these simple blocks can end up looking every bit as
+beautiful as the freeform narrative, though. This too, is brutalism.</p>
+
+<figure class="center">
+  <img src="https://bira.github.io/octopus-carnival/assets/barbican-conservatory.jpg"/>
+  <figcaption>
+    The Barbican Conservatory in London
+  </figcaption>
+</figure>
+
+<h2 id="proposed-solutions">Proposed Solutions</h2>
+
+<p>“The GURPS way” is neither better nor worse than the action economies of other
+systems. It’s just different. But it’s different enough that it can trip up
+people coming in from other games.</p>
+
+<p>If the description above helped you smooth the friction between the rules and
+your expectations, then great! But it’s likely that it didn’t, and you still
+having trouble with it. In that case, here are a couple of suggestions on how to
+make your experience smoother.</p>
+
+<h3 id="solution-1-its-a-character-skill-issue">Solution 1: It’s a (Character) Skill Issue</h3>
+
+<p>One of the big reasons to use “setup” maneuvers like Evaluate, Feint, and Aim is
+that your character’s skill level might not be high enough to give you a decent
+chance of success. Without those maneuvers, you’ll end up missing more often, or
+will have trouble getting past your enemy’s defenses. This is common at the core
+books’ default 150 points.</p>
+
+<p>One way to make attacking every turn more feasible and fun is to raise the power
+level of your characters. This is the approach taken by Dungeon Fantasy and
+Action: not only do they use 250 point templates, they optimize them a fair bit.</p>
+
+<p>All the physical combatant templates in DF start with 16 in their main combat
+skill <em>at the very least</em>. Many have a 18, and a couple either start with a 20
+or can get there with a bit of point shuffling.</p>
+
+<p>This might sound excessive at first glance. Your base chance of success doesn’t
+increase past 16, and it’s unlikely anyone had more than a 18 in all of human
+history. Why allow PCs to <em>start</em> there, and possibly go even higher with earned
+points? Because this is what you need to be able to reliably attack every second
+without taking the time to perform setup maneuvers.</p>
+
+<p>With these “overpowered” skill levels you can absorb more penalties without
+having to Evaluate or Aim to offset them, and you can use Deceptive Attacks
+instead of Feints without affecting your chances of success. If you still have
+enough spare skill levels left, you can even thrown in a Rapid Strike to make
+two attacks in that second.</p>
+
+<h2 id="solution-2-mandatory-dramatic-pauses">Solution 2: Mandatory Dramatic Pauses</h2>
+
+<p>Fighters in real-world combat sports and action movies don’t spend every second
+of their fights furiously attacking each other. They’ll circle while looking for
+openings, stop to catch their breaths, and only go in for an exchange of actual
+blows every once in a while.</p>
+
+<p>The use of setup maneuvers helps stretch fights out to be more similar to these
+examples, but if you’re reading this it’s because you don’t think they’re a good
+solution. And even if you do, you might want to go further.</p>
+
+<p>One way to do this is to crib from the rules for tournament fights in GURPS
+Martial Arts. Under those rules, fights are composed of <em>lulls</em> and
+<em>flurries</em>. Combatants can only use the Attack maneuver<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup> during a
+flurry. During a lull, they cannot attack but can still use maneuvers like
+Change Posture, Evaluate, Move, Ready, Aim, or even just Do Nothing while
+waiting for an opening. In fantasy settings it would be a good time to cast
+those healing spells.</p>
+
+<p>GURPS Martial Arts has flurries last for 2d seconds and lulls for 4d seconds,
+rolled at the start of the corresponding period. You can tweak these durations
+to best suit your campaign. If the combatants’ actions look like they’re going
+to force an early change, you can end the current “period” early.</p>
+
+<p>The main purpose of introducing lulls is to extend a fight’s in-character
+duration to something like that of a real-world boxing or MMA round. They can
+also help change the mental “efficiency” calculation of someone who’s used to
+action economies. If there’s a part of the fight where you can’t attack,
+performing setup actions for when you can becomes the most efficient thing to
+do.</p>
+
+<p>Lulls work both in melee and ranged combat (when everyone might hunker down
+behind cover for a while), but they might get a bit hard to manage or look a bit
+silly when you have a large number of combatants in a fight.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>10 minutes to beat the bad guy and disarm the bomb is not a problem at all
+if you beat the bad guy in 5 seconds. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>“Other Systems” here means the last three editions of D&amp;D, Pathfinder 2E,
+most editions of Shadowrun, and any others that might be similar in outlook
+but which I’m not too familiar with. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>And if there are any obsessive optimizers in your group, they’ll push you
+much less gently. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:4" role="doc-endnote">
+      <p>I admit I tacked that extra Ready at the end to make the “five-second
+plan” joke work. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:5" role="doc-endnote">
+      <p>And its cousin All-Out-Attack. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+  </div>
+
+  <div class="page-nav"><a class="prev" href="/octopus-carnival/2024/09/03/no-weapon-master.html">&laquo; Abandoning Weapon Master</a></div><div id="disqus_thread"></div>
+  <script>
+    var disqus_config = function () {
+      this.page.url = 'https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html';
+      this.page.identifier = 'https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html';
+    };
+
+    (function() {
+      var d = document, s = d.createElement('script');
+
+      s.src = 'https://octopus-carnival.disqus.com/embed.js';
+
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript><a class="u-url" href="/octopus-carnival/2024/09/17/turn-length.html" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/octopus-carnival/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Octopus Carnival</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Octopus Carnival</li><li><a class="u-email" href="mailto:u.alberton@gmail.com">u.alberton@gmail.com</a></li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/Bira"><svg class="svg-icon"><use xlink:href="/octopus-carnival/assets/minima-social-icons.svg#github"></use></svg> <span class="username">Bira</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p>A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
