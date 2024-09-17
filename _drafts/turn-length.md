@@ -1,9 +1,18 @@
 ---
 layout: post
-title: "Tweaking Combat Flow in GURPS or, GURPS is Brutalist"
+title: "GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS"
 tags:
     - gurps
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/long-lines-building.jpg" | absolute_url }}"/>
+  <figcaption>
+    The Long Lines Building in New York
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 A common complaint I hear about people who tried GURPS for the first time coming
 in from other systems is that the "flow" of combat feels odd. Mainly that those
@@ -26,54 +35,55 @@ soon as the arrow flies, I'm already drawing another one from my quiver!"
 How do other systems[^2] usually handle this, and what does GURPS do that's so
 different?
 
-### Action Economies
+### Abstract Action Economies
 
-Most tabletop RPG systems are fairly abstract when it comes to combat. Turn
-length is however long you need to perform your action or actions. They might
-give a duration that sounds reasonable for that (like, say, six seconds), but
-the actual duration rarely matters.
+Most tabletop RPG systems are fairly abstract when it comes to combat. To the
+rules, it doesn't matter what motions your PC is actually going through when
+they perform an action, nor does it matter how long a turn lasts. It is enough
+to know what the action is, and that a turn is long enough for you to do it.
 
-At the same time, many of those systems also introduce an action economy. You
-get a certain amount of actions in your turn. The things you can do with them
-have an immediate effect and don't influence future actions in future turns. The
-"fine detail" of how you perform each action also rarely matters.
+In systems that work this way, our archer's narration is just a cool
+embellishment that adds some fun detail to a standard ranged attack roll. All
+the rules need to know is that it's a ranged attack.
 
-However, what actions you chose to do in your turn matter a lot. The system's
-incentives gently push you to be maximally efficient on a turn-by-turn
-basis[^3]. Attacks are good because they bring the fight closer to an end. If
-you use your main action for something else, it better bring as much benefit to
-you as attacking would, or you have just "wasted" your turn.
-
-In nearly all of the "other systems" we're concerned with, our archer's
-narration is just a cool embellishment that adds some fun detail to a standard
-ranged attack roll. All the rules need to know is that it's a ranged
-attack. From their point of view, "I shoot the closest zombie" does the job just
-as well.
-
+However, the choice of which actions perform in your turn matters a lot. You get
+a certain number of them, all of which have an immediate effect in the current
+turn but don't influence future ones. Therefore the system's incentives gently
+push you to be maximally efficient on a turn-by-turn basis[^3]. Attacks are good
+because they bring the fight closer to an end. If you use your main action for
+something else, it better bring as much benefit to you as attacking would, or
+you have just "wasted" your turn. This set of mechanics and incentives is
+usually called an "action economy".
 
 ### The GURPS Way
 
 Where other systems are abstract, GURPS is so concrete it's practically
-_brutalist_. Turns last a second and the actual physical motions your character
-makes during their turn are very relevant to the rules.
+brutalist. Turns last one second and its combat maneuvers are a lot more
+fine-grained than combat actions in other games.
 
 In the Union of Generic Universal Republics our example description is not just
 a bit of flavor: it's a five-turn plan. Ready (draw arrow), Ready (nock arrow),
 Aim, Attack, Ready (draw arrow)[^4].
 
-GURPS combat maneuvers are a lot more fine-grained than combat actions in other
-systems. Only the actual blow from your weapon, press of the trigger, or release
-of the bowstring counts as an Attack. The other stuff in the plan above are
-maneuvers that make your Attack possible and set it up for success. In GURPS,
-you want to increase the _quality_ of your attacks, not necessarily their
-_quantity_.
+Only the actual blow from your weapon, press of the trigger, or release of the
+bowstring counts as an Attack. The other stuff in the plan above are maneuvers
+that make your Attack possible and set it up for success. In GURPS, you want to
+increase the _quality_ of your attacks, not necessarily their _quantity_.
 
 For the same reason GURPS is a bit less amenable to "needless embellishment"
 than more abstract games. Combat goes much more smoothly when you keep your
 action declarations to short sentences that map to a single maneuver. The
 structure you build out of these simple blocks can end up looking every bit as
-cool and cinematic as the freeform narrative, though. All of this contributes to
-its brutalist aesthetic.
+beautiful as the freeform narrative, though. This too, is brutalism.
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/barbican-conservatory.jpg" | absolute_url }}"/>
+  <figcaption>
+    The Barbican Conservatory in London
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 
 ## Proposed Solutions
@@ -96,22 +106,19 @@ chance of success. Without those maneuvers, you'll end up missing more often, or
 will have trouble getting past your enemy's defenses. This is common at the core
 books' default 150 points.
 
-The simplest solution to the problem is to increase the campaign's power level
-so that the characters _are_ skilled enough to succeed without auxiliary
-maneuvers. This is the approach taken by Dungeon Fantasy and Action: not only do
-they use 250 point templates, they optimize them a fair bit.
+One way to make attacking every turn more feasible and fun is to raise the power
+level of your characters. This is the approach taken by Dungeon Fantasy and
+Action: not only do they use 250 point templates, they optimize them a fair bit.
 
 All the physical combatant templates in DF start with 16 in their main combat
 skill _at the very least_. Many have a 18, and a couple either start with a 20
-or can get there with a bit of point shuffling. If you want your PCs to Attack
-every turn without getting frustrated, you should follow DF's lead and do the
-same for your campaign.
+or can get there with a bit of point shuffling.
 
 This might sound excessive at first glance. Your base chance of success doesn't
-increase past 16, and it's unlikely any real person had more than a 18 in all of
-human history. Why allow PCs to _start_ there, and possibly go even higher with
-earned points? Because this is what you need to be able to reliably attack every
-second without taking the time to perform setup maneuvers.
+increase past 16, and it's unlikely anyone had more than a 18 in all of human
+history. Why allow PCs to _start_ there, and possibly go even higher with earned
+points? Because this is what you need to be able to reliably attack every second
+without taking the time to perform setup maneuvers.
 
 With these "overpowered" skill levels you can absorb more penalties without
 having to Evaluate or Aim to offset them, and you can use Deceptive Attacks
