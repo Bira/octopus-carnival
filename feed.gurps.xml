@@ -5,9 +5,282 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2024 20:17:52 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2024 20:17:52 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2024 19:48:57 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2024 19:48:57 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Hell&apos;s Rebels 04, Part 01</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/hells-rebels&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;The first three volumes of this adventure path were dedicated to building up the
+Silver Ravens and their rebellion. Strikes against Thrune were indirect and
+targeted peripheral facilities, which prevented the enemy from mounting a big
+response.&lt;/p&gt;
+
+&lt;p&gt;All of this changes at the very end of Adventure 03, where Barzilai lays a
+deadly trap for the PCs and potentially kills a lot of innocents. At the start
+of this one, Barzilai Thrune makes his final three proclamations: he outlaws the
+Silver Ravens, he forbids worship of any god that’s not Asmodeus, and he
+blockades the bridge that separates the two halves of the city. As soon as this
+happens, his forces begin a brutal series of reprisals against the Ravens and
+the population in general.&lt;/p&gt;
+
+&lt;p&gt;The Silver Ravens immediately begin to fight back, since at this point their
+rebellion has reached its maximum power and anyone who was even a little
+sympathetic to them throws their full support behind the organization.&lt;/p&gt;
+
+&lt;p&gt;In summary, &lt;a href=&quot;https://www.youtube.com/watch?v=zzNs4-kRLaE&quot;&gt;shit’s going down&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PCs start this adventure at level 10 and are expected to finish halfway into
+level 13.&lt;/p&gt;
+
+&lt;h2 id=&quot;gming-the-rebellion&quot;&gt;GMing the Rebellion&lt;/h2&gt;
+
+&lt;p&gt;The bulk of this adventure is dedicated to commanding the full might of the
+rebellion to topple Barzilai Thrune. While you might have been able to ignore
+the custom rebellion rules up until now, they’re unavoidable here. If you didn’t
+bother with them before the book suggests assigning a default set of stats for
+the organization (Notoriety 75%, focused stat +15, secondary stats +10). Those
+numbers are higher than what’s on the Player Guide, probably to account for
+bonuses the PCs would have gotten if they kept track of things in detail. Even
+if you were using detailed rules before I recommend upgrading the org’s stats to
+at least that level.&lt;/p&gt;
+
+&lt;p&gt;Now that Thrune’s government can be “killed”, it gets stats of its own. The
+important one is Authority, which must be brought down to 0 for the Ravens to
+win. When that happens, Thrune and his remaining lackeys lock themselves up in
+the Temple of Asmodeus for a last-ditch desperation move, and the PCs can get at
+them with a final assault.&lt;/p&gt;
+
+&lt;p&gt;The PCs and the Silver Ravens fight the Thrune government by completing
+missions. These usually involve raids against important facilities controlled by
+named villains. Success at these usually removes whatever capabilities that
+villain brought into play, and gives the Silver Ravens control of the city
+district they’re in. Districts under Raven control become safe from patrols and
+such, and lower both current and maximum Authority by a certain amount (10 or 20
+points, depending on the district). This is why I linked the Assassin’s Creed:
+Brotherhood trailer above.&lt;/p&gt;
+
+&lt;p&gt;Thrune’s government tries to resist the rebellion through brutal reprisals
+against the Ravens and the population in general. They can launch one such
+reprisal per day for every 25 Authority or fraction thereof they have. Specific
+reprisals are rolled out of a d100 table. The best possible result here is “No
+Reprisal”, an organizational snafu that actually decreases Thrune’s
+Authority. The other events result from mere defamation or increased patrols all
+the way to a dragon air strike, each one increasing Authority by an amount
+proportional to its badness. As Authority drops and named villains are killed,
+some of these entries will be removed and replaced with No Reprisal. Can’t have
+a dragon attack if the dragon is dead! Authority also increased by 1d6 at the
+start of every day, to represent the population’s and the Ravens’ war weariness.&lt;/p&gt;
+
+&lt;p&gt;The problem with those reprisal events is that they also kill some of the city’s
+population. While the chance that the PCs will lose the game at this stage is
+small, they must act quickly and forcefully to prevent Thrune from doing too
+much damage to the city they’re trying to protect.&lt;/p&gt;
+
+&lt;p&gt;Authority starts at 100 by default, but past Silver Raven victories in previous
+adventures can reduce this starting amount. A “perfect run” means allying with
+both the sea elves and Vyre; destroying Menador keep &lt;em&gt;and&lt;/em&gt; stealing the
+documents kept there; and finishing the Ruby Masquerade with 20 or more Masque
+Points. This would mean Thrune starts this adventure with Authority at 65/100,
+giving the PCs a major starting advantage.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-missions&quot;&gt;The Missions&lt;/h2&gt;
+
+&lt;p&gt;The default expectation here is that the PCs managed to win the battle at the
+opera house and fully explore it at the end of the last adventure. If this is
+the case, the adventure starts with an emergency meeting of the Silver Council
+taking place as soon as the PCs are recovered, to update them on the state of
+the rebellion and explain the available district control missions.&lt;/p&gt;
+
+&lt;p&gt;If on the other hand the PCs &lt;em&gt;lost&lt;/em&gt; the opera house battle, they wake up in a
+cell in Kintargo Keep, and must escape. They basically tackle the hardest
+mission first, from the inside out, and then add the Opera House to their to-do
+list later - it’s still full of stuff vital to their success.&lt;/p&gt;
+
+&lt;p&gt;Most of the missions consist of relatively short dungeon raids that are
+essentially big set-piece battles against the villain of the hour and their
+minions. These encounters tend to all be CR 13. This is where the game
+introduces a new monster type, the Troop, which works a lot like a 4e Swarm but
+occupies an area that’s more “malleable” than the standard square. There are
+Dottari and Inquisitor troops here, representing the fact that Thrune’s security
+forces are out in well, force.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned above, PCs can order the Ravens to perform support actions before
+every dungeon raid instead of just at the end of every week. If the named
+villains in each one manage to survive and escape, they’ll likely join Thrune at
+the Temple of Asmodeus. Even if this happens, they still count as defeated for
+district-taking purposes.&lt;/p&gt;
+
+&lt;p&gt;This is the mission list:&lt;/p&gt;
+
+&lt;h3 id=&quot;rescue-hetamon-jarvis-end-district&quot;&gt;Rescue Hetamon (Jarvis End District)&lt;/h3&gt;
+
+&lt;p&gt;Hetamon Haace is the Rose of Kintargo. He became an ally and a member of the
+Silver Council back in adventure 02, but is missing from this adventure’s
+emergency meeting. Finding him is a priority.&lt;/p&gt;
+
+&lt;p&gt;Turns out he’s been kidnapped by his evil half-succubus sorceress of a mother,
+who is holed up in the basement of Shensen’s former home and plans to sell him
+to Thrune in exchange for some sort of cushy job or at least a license to hunt
+people in Kintargo. She has a bevy of minions both voluntary and enslaved. The
+former consist of a covey of hags; some of the latter can be freed instead of
+fought.&lt;/p&gt;
+
+&lt;p&gt;Shensen can give the PCs the full layout of her own basement, of course. And if
+she comes along the PCs might also recruit her best friend who is hiding in
+there, a sapient dinosaur rogue!&lt;/p&gt;
+
+&lt;p&gt;Completing this one and reconsecrating the basement as a shrine to Sarenrae
+gives PCs control of Jarvis End.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-the-records-hall-the-greens-district&quot;&gt;Take the Records Hall (The Greens District)&lt;/h3&gt;
+
+&lt;p&gt;The Records Hall is full of important information about the city and its
+inhabitants, and denying this to Thrune will be a major blow to his forces. It’s
+also the current lair of Tiarise Izoni, the witch responsible for most
+atrocities of an arcane nature committed so far in the campaign. Opposition here
+consists of the witch, two inquisitor troops, and two invisible stalkers.&lt;/p&gt;
+
+&lt;p&gt;Tiarise’s notes can give the PCs clues about Thrune’s ultimate plan for
+immortality, and also alert them to the fact she has performed a ritual on
+herself that will turn her into a powerful undead creature when she dies. Unless
+she is killed under specific circumstances, Tiarise returns in the last
+adventure in undead form as one of its named villains.&lt;/p&gt;
+
+&lt;h3 id=&quot;bleakbridge-yolubilis-harbor-district&quot;&gt;Bleakbridge (Yolubilis Harbor District)&lt;/h3&gt;
+
+&lt;p&gt;The bridge is blockaded by a huge force of dottari (three troops, two captains,
+a named commander). They’re being helped by a gang of tengu named the River
+Talons, who are acting as lookouts. Fortunately, their alliance is shaky and the
+Talons’ leader is the brother of Silver Council Member Chok (a weapon shop owner
+who joins at the start of this adventure). If the PCs can arrange a meeting
+between Chok and his brother, the latter can be convinced to betray the
+dottari. In that case, the Talons will not raise the alarm when the PCs sneak
+into the bridge, and will take care of one of the dottari troops “offscreen”.&lt;/p&gt;
+
+&lt;p&gt;Sneaking into the bridge is possible at all because it’s huge - there are
+actually buildings on both sides, with plenty of space to cross in the middle.&lt;/p&gt;
+
+&lt;h3 id=&quot;skinsaw-assassins-villegre-or-redroof-districts&quot;&gt;Skinsaw Assassins (Villegre or Redroof Districts)&lt;/h3&gt;
+
+&lt;p&gt;These cultists are led by Hei-fen, the spiteful and vengeful wererat who has it
+in for the PCs. The PCs are warned about them by Molly Mayapple, the helpful and
+grateful wererat from Vyre.&lt;/p&gt;
+
+&lt;p&gt;The cultists will attack the PCs in three separate occasions, possibly while
+they’re busy with something else. The first strike is six cultists, the second
+one a jorogumo, and the final one another twelve cultists, another jorogumo, and
+Hei-fen herself. They’re also doing murders for Thrune on the side.&lt;/p&gt;
+
+&lt;p&gt;Eliminating all of them changes the corresponding reprisal table entry to “No
+Reprisal”, and gives the city enough breathing room for the PCs to take control
+of either Villegre or Redroof.&lt;/p&gt;
+
+&lt;h3 id=&quot;kintargo-keep-castle-district&quot;&gt;Kintargo Keep (Castle District)&lt;/h3&gt;
+
+&lt;p&gt;This is where Thrune’s most important political prisoners are being kept. If the
+PCs have been captured at the end of the last adventure, they start here and
+must escape. Otherwise, this will probably be the last place they hit. The keep
+and castle are much less guarded than usual because Barzilai ordered most of the
+troops stationed here to go out and hunt for the PCs, which ironically lets them
+approach the Keep.&lt;/p&gt;
+
+&lt;p&gt;While the tower has five levels, only the ground floor and basement are truly
+relevant. When the PCs attack the tower is being guarded by six Hellknights of
+the Rack and their leader, Paralictor Kyrre Ekodyre. The knights should spot the
+PCs as soon as they make it past the door, so they will eventually need to deal
+with all of them and the paralictor in the same fight. There are some undead
+knights possessing suits of armor guarding a shrine, but they will not join the
+main fight unless disturbed.&lt;/p&gt;
+
+&lt;p&gt;The keep’s archives contain the contracts Barzilai made with the order of the
+Rack, to transfer all of the assets of the Order of the Torrent to them (back in
+adventure 02). Turns out there are a lot of irregularities in these contracts
+that make them illegal. The Hellknights, who are Lawful-Eviler-than-thou, will
+abandon Thrune once these documents are made public. This will remove them from
+all random and pre-arranged encounters!&lt;/p&gt;
+
+&lt;p&gt;The archives also contain prisoner records showing that Jackdaw, the original
+leader of the Silver Ravens, is still here! House Thrune’s redaction efforts
+were so effective that not even Barzilai or the knights remember why she was
+important.&lt;/p&gt;
+
+&lt;p&gt;Jackdaw is being held in a special cell in the basement, behind a secret
+door. She’s guarded by a being known as the First Warden, a former warpriest of
+Asmodeus who was turned into a lich and bound to this prison as a punishment for
+some forgotten transgression. The Warden will at first attempt to talk to the
+PCs because it’s been a long time since she had a proper conversation, but will
+attack when she realizes they’re here to free Jackdaw. She has a lot of priestly
+abilities and the help of four more of those possessed armors.&lt;/p&gt;
+
+&lt;p&gt;Jackdaw is in a pretty sorry state - the lich has kept her from dying, but
+hasn’t done anything to make her comfortable. Once the PCs restore her health
+and sanity, she becomes a very valuable ally. She can also supply them with the
+lyrics for the Song of Silver, which combined with the score from the opera
+house allows the PCs to use the ritual.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-dragon-villegre-or-redroof-district&quot;&gt;The Dragon (Villegre or Redroof District)&lt;/h3&gt;
+
+&lt;p&gt;I did mention a dragon, didn’t I? She’s an adult blue dragon named Rivozair. She
+first attacked the city during the Chelish civil war, and was nearly killed by
+the original Silver Ravens. Rivozair returned shortly before the campaign
+started and agreed to join up with Barzilai for a chance to take revenge on the
+city. He invested her with additional infernal power, binding her to a horned
+devil in the same way Nox from Adventure 01 was bound to a bearded one.&lt;/p&gt;
+
+&lt;p&gt;Rivozair is a powerhouse of a solo boss, and one of Barzilai’s most powerful
+minions. In addition to her usual “I’m a dragon!” suite of abilities, her
+lightning breath has been replaced with hellfire, she can summon barbed devils,
+and she has Regeneration 5 that can only be overcome by Good-aligned spells and
+weapons (though that last bit shouldn’t be a problem at this point). After the
+PCs finish the other five missions, or after they reduce Barzilai’s Authority to
+0 (whatever happens first), the dragon will be unleashed to hunt down and kill
+the PCs directly.&lt;/p&gt;
+
+&lt;p&gt;If the GM wants to make this battle a bit easier, they can have some of the PC’s
+allies help in the fight. If on the other hand they want to make it harder, they
+can have the dragon begin its hunt earlier than scheduled. Rivozair will try to
+become invisible and run away when she’s badly wounded, but instead of rallying
+at the Temple she will flee the region. She might come back to disrupt the
+victory celebration, if the GM wishes. Otherwise she will remove herself from
+the campaign.&lt;/p&gt;
+
+&lt;p&gt;Defeating Rovizair removes her entry from the reprisal table… but more
+importantly it &lt;em&gt;instantly reduces Authority to 0&lt;/em&gt;. I guess any remaining minions
+will see that the PCs can handle the dragon and will immediately leave their
+posts as if they had been defeated, rallying at the Temple of Asmodeus. We now
+enter the final stage of the adventure.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;And that brings this post to a close. There’s actually little I would cut from
+this part of the adventure, since all of the fights here seem pretty cool. When
+playing in Pathfinder, they are also quite amenable to alpha-strike tactics.&lt;/p&gt;
+
+&lt;p&gt;In the next post, we’ll take a look at the effects of the Song of Silver and at
+the Temple of Asmodeus, which unlike these short raids is a huge grinding slog.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/10/03/hells-rebels-04-part-01.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/10/03/hells-rebels-04-part-01.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>lets-read</category>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS</title>
@@ -1554,208 +1827,6 @@ definitely going to draw the ire of Overwatch.&lt;/p&gt;
         <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2023/11/12/hackaton-sr5-2.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/12/hackaton-sr5-2.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackathon: Shadowrun 5th Edition, Part 1</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/sr5-cover.png&quot;/&gt;
-   &lt;figcaption&gt;
-    Shadowrun 5th Edition&apos;s cover.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;For this post we’ll be taking a look at Shadowrun 5th Edition, originally
-published in 2013. The book we’re looking at is the Master Index Edition
-published in 2016, which is largely the same but incorporates some errata and
-includes an index of supplementary material.&lt;/p&gt;
-
-&lt;p&gt;I’ll confess I have some reluctance to tackle this specific system, because its
-return to expensive cyberdecks was part of what made me kinda stop paying
-attention to Shadowrun at all. But I’ll read it with as open a mind as I can
-manage and give its rules a fair shake just like I gave all the others.&lt;/p&gt;
-
-&lt;p&gt;One thing I notice is that they have switched back to the more “conversational”
-style employed by SR1, which makes it much harder for me to understand the
-rules. It’s more of a problem here than it was in SR 1 because there are a lot
-more rules and concepts they’re trying to get across.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;Visually, the Shadowrun 5th Edition Matrix is a complete return to The Full
-Gibson Experience. An infinite black plane criss-crossed by shimmering silver
-lines, upon which swim thousands and thousands of icons representing small
-connected devices and users. Way up above in the sky float the giant geometric
-shapes of corporate hosts.&lt;/p&gt;
-
-&lt;p&gt;Descriptions focus almost entirely on the visual, with the technical bits
-boiling down to “it’s everywhere” and “no one fully knows how it
-works”. “Civilians” still use commlinks like they did in 4th edition, and
-“smart” devices that are currently online around them show up as icons in
-augmented reality. The descriptions we get for the uses of augmented reality
-here are actually pretty good and evocative. However, it’s not the main
-event. It seems that any time someone would use a web browser for something in
-the real world, they go into full VR instead.&lt;/p&gt;
-
-&lt;p&gt;If this Matrix has any basis in reality, it would be on the popular perception
-people had of the Internet in 2013, and the fears they had for its future. Cloud
-computing is a concept that looms large here despite not being explicitly
-named. A Matrix host is a location that doesn’t have a 1-to-1 correspondence to
-a single physical device. In other words, the reason they’re all up in the sky
-and visible from anywhere in the world is because they’re all &lt;em&gt;in the
-cloud&lt;/em&gt;. Access to cloud services also tends to be the explanation for why
-certain devices gain mechanical bonuses when they’re online.&lt;/p&gt;
-
-&lt;p&gt;The Matrix is split into Grids. When you connect to the Matrix you are in
-whatever local grid services your physical location. Big Corps have private
-global grids where all their stuff lives. You can access stuff that’s in other
-grids without going there, but for the best connectivity you’ll want to
-grid-hop, which requires some hacking if you’re lacking credentials.&lt;/p&gt;
-
-&lt;p&gt;The “fears” part comes into play when the book says the Matrix is almost
-entirely locked down and under the control of the megacorps. Those everyday
-civilian uses are allowed, provided people pay their fees or consent to getting
-bombarded with ads. The entire Matrix is watched over by the Grid Overwatch
-Division, an organization composed of law enforcement and corporate specialists
-whose job is to sniff out and eliminate any and all hacker activity.&lt;/p&gt;
-
-&lt;p&gt;“Hacker” here is an umbrella term that covers both &lt;em&gt;deckers&lt;/em&gt; and
-&lt;em&gt;technomancers&lt;/em&gt;. Deckers use cyberdecks, devices which are a little bigger than
-commlinks and have extra hardware that lets them be used for
-hacking. Technomancers still use their quantum-bullshit-powered brains (and I
-still think they’re cool).&lt;/p&gt;
-
-&lt;p&gt;Cyberdecks are back to being super-expensive, with prices comparable to those of
-SR1. The cheapest deck costs the same as an armored cargo truck, the starter
-used by our sample character costs a bit more than a luxury sports car, and the
-best one costs the same as a couple of light military vehicles. Fortunately it
-appears they no longer require much in the way of optional hardware
-enhancements, and programs tend to be much cheaper, but still the price of a
-deck is once again the main thing making “decker” an exclusive specialist niche.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;Devices have Matrix Attributes that dictate their base capabilities. All of them
-have a Device Rating that represents their general robustness, a Firewall
-attribute that is used for defensive rolls, and a Data Processing attribute that
-gets used for searches and other generally lawful operations. Cyberdecks have
-two others, Attack and Sleaze, which are used for hacking. Hosts have also have
-these so that they can fight back against hackers. The full array is abbreviated
-as “ASDF”.&lt;/p&gt;
-
-&lt;p&gt;Most devices, including hosts, have “static” attributes, but cyberdecks have an
-“attribute array” of four numbers that can be allocated dynamically between
-those last four values. Their device rating is still static and cannot be
-changed.&lt;/p&gt;
-
-&lt;p&gt;Instead of having user accounts, each icon, device or host has a single owner
-that has full control over it, and it might accept &lt;em&gt;marks&lt;/em&gt; from other users on
-to grant them more limited levels of access. An example is a social network host
-lets users register by placing a mark. More marks means more access, and the
-limit is three. The owner counts as having four.&lt;/p&gt;
-
-&lt;p&gt;Hacking a device means placing uninvited marks on it, and using the access those
-grant to perform Matrix actions that get you closer to your goal. Different
-actions require a different number of marks to attempt, and unless those marks
-are legitimate most of them still require hacking tests to perform and might
-fail. They’re opposed by the host’s rating and its ASDF attributes.&lt;/p&gt;
-
-&lt;p&gt;Hacking actions use either the Attack or Sleaze attributes. Attack actions are
-“loud” and alert the host that it’s being attacked when successful; when they
-fail, they cause Matrix damage to the hacker. Sleaze actions are “silent” and
-don’t increase the hacker’s visibility when successful; when they fail, the host
-becomes aware of the hacker, places a mark on them, usually triggers IC.&lt;/p&gt;
-
-&lt;p&gt;With both types of action, successes on the target’s resistance rolls increase
-the hacker’s Overwatch Tally, even when the hacker wins the contest. When this
-tally hits 40, GOD’s eye is upon the hacker. They take a boatload of damage, get
-forcibly ejected from the Matrix, and their physical location is instantly
-traced. In other words, game over&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. If inside a host when this happens,
-they’re “merely” instantly detected and have 3 marks placed on them at once,
-which makes all the host’s IC extra effective against them. And you bet all that
-IC will be activated at once.&lt;/p&gt;
-
-&lt;p&gt;Rebooting your cyberdeck resets Overwatch Tally to 0, but it also erases all
-marks you’ve placed, so while you’ll usually reboot right after a run is
-finished you’ll need to wait a bit longer if you still need those marks.&lt;/p&gt;
-
-&lt;p&gt;IC fights using the host’s rating and ASDF attributes. Some variants try to
-place additional marks on the hacker, while some attack either the hacker’s
-deck, their brain, or both at the same time. The more marks IC has on the
-hacker, the greater the damage they do. It’s possible for the hacker to spend
-actions removing these marks, but this ironically is also an illegal action and
-accrues Overwatch. It also doesn’t make the host or the IC forget about the
-hacker, it just makes enemy attacks less effective.&lt;/p&gt;
-
-&lt;p&gt;Matrix perception works a bit differently than in the past. Most icons in close
-proximity (and there are several ways to define this) are automatically visible
-and identifiable unless they’re &lt;em&gt;running silent&lt;/em&gt;, which means they require a
-Matrix perception test to notice. Running silent gives a penalty to all of that
-icon’s rolls, so the hacker is usually the only one running silent during a run,
-and that only when necessary.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;We’ll be using the sample decker from the core book, a dwarf lady. She has a
-Hermes Chariot starter deck with a device rating of 2 and an ASDF of 5-4-4-2
-(which is dynamic, as mentioned before). She has a few programs that help with
-cybercombat but her specialty is still stealth, with an effective skill of 9 for
-that approach.&lt;/p&gt;
-
-&lt;p&gt;It looks like our host design philosophy is The Full Gibson once again. A given
-location will have a single host that takes care of all of its business and is
-connected to the wider Matrix, only this time it represents a set of servers in
-the cloud instead of a mainframe. Nevertheless it is considered to be at the
-same physical location as the office.&lt;/p&gt;
-
-&lt;p&gt;There are rules incentives to being in close physical proximity to your target,
-and our hacker lacks the accessory that would let us ignore those rules (a
-Satellite Link), so she will be joining the physical team and hacking from the
-inside.&lt;/p&gt;
-
-&lt;p&gt;This is a private business, so we’ll give the host a rating of 4 according to
-the guidelines on page 247. Its ASDF ratings are 5-4-6-7, which gives us the
-“surprisingly high security” requirement. Cameras, alarms, and door locks are
-Rating 3. The alarm is running silent.&lt;/p&gt;
-
-&lt;p&gt;For IC, it runs Patrol at all times. When it detects an intruder it launches
-Killer, followed by Track. When it detects unauthorized access to the buried
-evidence it launches Sparky. As usual, whenever one of these is destroyed it’s
-immediately relaunched at the start of the next combat turn.&lt;/p&gt;
-
-&lt;p&gt;The file containing our target evidence would normally be &lt;em&gt;archived&lt;/em&gt; and thus
-impossible to access without some social engineering, but we can cheat a bit
-here and assume there’s a physical jack point in the records room that allows
-access to the files.&lt;/p&gt;
-
-&lt;p&gt;With all this in place, we’ll see how our decker does next post.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Petty rant time: Many Shadowrun GMs love the idea of omniscient and
-omnipotent organizations that stand ever ready to squash players, and I
-guess GOD made it in either because of their demands or because some of
-SR5’s writers were ascended GMs themselves. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/09/hackaton-sr5-1.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/09/hackaton-sr5-1.html</guid>
         
         <category>shadowrun</category>
         

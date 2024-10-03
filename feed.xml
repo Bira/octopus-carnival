@@ -6,9 +6,282 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Sep 2024 20:17:52 +0000</pubDate>
-    <lastBuildDate>Tue, 17 Sep 2024 20:17:52 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Oct 2024 19:48:57 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Oct 2024 19:48:57 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Hell&apos;s Rebels 04, Part 01</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/hells-rebels&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
+
+&lt;p&gt;The first three volumes of this adventure path were dedicated to building up the
+Silver Ravens and their rebellion. Strikes against Thrune were indirect and
+targeted peripheral facilities, which prevented the enemy from mounting a big
+response.&lt;/p&gt;
+
+&lt;p&gt;All of this changes at the very end of Adventure 03, where Barzilai lays a
+deadly trap for the PCs and potentially kills a lot of innocents. At the start
+of this one, Barzilai Thrune makes his final three proclamations: he outlaws the
+Silver Ravens, he forbids worship of any god that’s not Asmodeus, and he
+blockades the bridge that separates the two halves of the city. As soon as this
+happens, his forces begin a brutal series of reprisals against the Ravens and
+the population in general.&lt;/p&gt;
+
+&lt;p&gt;The Silver Ravens immediately begin to fight back, since at this point their
+rebellion has reached its maximum power and anyone who was even a little
+sympathetic to them throws their full support behind the organization.&lt;/p&gt;
+
+&lt;p&gt;In summary, &lt;a href=&quot;https://www.youtube.com/watch?v=zzNs4-kRLaE&quot;&gt;shit’s going down&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PCs start this adventure at level 10 and are expected to finish halfway into
+level 13.&lt;/p&gt;
+
+&lt;h2 id=&quot;gming-the-rebellion&quot;&gt;GMing the Rebellion&lt;/h2&gt;
+
+&lt;p&gt;The bulk of this adventure is dedicated to commanding the full might of the
+rebellion to topple Barzilai Thrune. While you might have been able to ignore
+the custom rebellion rules up until now, they’re unavoidable here. If you didn’t
+bother with them before the book suggests assigning a default set of stats for
+the organization (Notoriety 75%, focused stat +15, secondary stats +10). Those
+numbers are higher than what’s on the Player Guide, probably to account for
+bonuses the PCs would have gotten if they kept track of things in detail. Even
+if you were using detailed rules before I recommend upgrading the org’s stats to
+at least that level.&lt;/p&gt;
+
+&lt;p&gt;Now that Thrune’s government can be “killed”, it gets stats of its own. The
+important one is Authority, which must be brought down to 0 for the Ravens to
+win. When that happens, Thrune and his remaining lackeys lock themselves up in
+the Temple of Asmodeus for a last-ditch desperation move, and the PCs can get at
+them with a final assault.&lt;/p&gt;
+
+&lt;p&gt;The PCs and the Silver Ravens fight the Thrune government by completing
+missions. These usually involve raids against important facilities controlled by
+named villains. Success at these usually removes whatever capabilities that
+villain brought into play, and gives the Silver Ravens control of the city
+district they’re in. Districts under Raven control become safe from patrols and
+such, and lower both current and maximum Authority by a certain amount (10 or 20
+points, depending on the district). This is why I linked the Assassin’s Creed:
+Brotherhood trailer above.&lt;/p&gt;
+
+&lt;p&gt;Thrune’s government tries to resist the rebellion through brutal reprisals
+against the Ravens and the population in general. They can launch one such
+reprisal per day for every 25 Authority or fraction thereof they have. Specific
+reprisals are rolled out of a d100 table. The best possible result here is “No
+Reprisal”, an organizational snafu that actually decreases Thrune’s
+Authority. The other events result from mere defamation or increased patrols all
+the way to a dragon air strike, each one increasing Authority by an amount
+proportional to its badness. As Authority drops and named villains are killed,
+some of these entries will be removed and replaced with No Reprisal. Can’t have
+a dragon attack if the dragon is dead! Authority also increased by 1d6 at the
+start of every day, to represent the population’s and the Ravens’ war weariness.&lt;/p&gt;
+
+&lt;p&gt;The problem with those reprisal events is that they also kill some of the city’s
+population. While the chance that the PCs will lose the game at this stage is
+small, they must act quickly and forcefully to prevent Thrune from doing too
+much damage to the city they’re trying to protect.&lt;/p&gt;
+
+&lt;p&gt;Authority starts at 100 by default, but past Silver Raven victories in previous
+adventures can reduce this starting amount. A “perfect run” means allying with
+both the sea elves and Vyre; destroying Menador keep &lt;em&gt;and&lt;/em&gt; stealing the
+documents kept there; and finishing the Ruby Masquerade with 20 or more Masque
+Points. This would mean Thrune starts this adventure with Authority at 65/100,
+giving the PCs a major starting advantage.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-missions&quot;&gt;The Missions&lt;/h2&gt;
+
+&lt;p&gt;The default expectation here is that the PCs managed to win the battle at the
+opera house and fully explore it at the end of the last adventure. If this is
+the case, the adventure starts with an emergency meeting of the Silver Council
+taking place as soon as the PCs are recovered, to update them on the state of
+the rebellion and explain the available district control missions.&lt;/p&gt;
+
+&lt;p&gt;If on the other hand the PCs &lt;em&gt;lost&lt;/em&gt; the opera house battle, they wake up in a
+cell in Kintargo Keep, and must escape. They basically tackle the hardest
+mission first, from the inside out, and then add the Opera House to their to-do
+list later - it’s still full of stuff vital to their success.&lt;/p&gt;
+
+&lt;p&gt;Most of the missions consist of relatively short dungeon raids that are
+essentially big set-piece battles against the villain of the hour and their
+minions. These encounters tend to all be CR 13. This is where the game
+introduces a new monster type, the Troop, which works a lot like a 4e Swarm but
+occupies an area that’s more “malleable” than the standard square. There are
+Dottari and Inquisitor troops here, representing the fact that Thrune’s security
+forces are out in well, force.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned above, PCs can order the Ravens to perform support actions before
+every dungeon raid instead of just at the end of every week. If the named
+villains in each one manage to survive and escape, they’ll likely join Thrune at
+the Temple of Asmodeus. Even if this happens, they still count as defeated for
+district-taking purposes.&lt;/p&gt;
+
+&lt;p&gt;This is the mission list:&lt;/p&gt;
+
+&lt;h3 id=&quot;rescue-hetamon-jarvis-end-district&quot;&gt;Rescue Hetamon (Jarvis End District)&lt;/h3&gt;
+
+&lt;p&gt;Hetamon Haace is the Rose of Kintargo. He became an ally and a member of the
+Silver Council back in adventure 02, but is missing from this adventure’s
+emergency meeting. Finding him is a priority.&lt;/p&gt;
+
+&lt;p&gt;Turns out he’s been kidnapped by his evil half-succubus sorceress of a mother,
+who is holed up in the basement of Shensen’s former home and plans to sell him
+to Thrune in exchange for some sort of cushy job or at least a license to hunt
+people in Kintargo. She has a bevy of minions both voluntary and enslaved. The
+former consist of a covey of hags; some of the latter can be freed instead of
+fought.&lt;/p&gt;
+
+&lt;p&gt;Shensen can give the PCs the full layout of her own basement, of course. And if
+she comes along the PCs might also recruit her best friend who is hiding in
+there, a sapient dinosaur rogue!&lt;/p&gt;
+
+&lt;p&gt;Completing this one and reconsecrating the basement as a shrine to Sarenrae
+gives PCs control of Jarvis End.&lt;/p&gt;
+
+&lt;h3 id=&quot;take-the-records-hall-the-greens-district&quot;&gt;Take the Records Hall (The Greens District)&lt;/h3&gt;
+
+&lt;p&gt;The Records Hall is full of important information about the city and its
+inhabitants, and denying this to Thrune will be a major blow to his forces. It’s
+also the current lair of Tiarise Izoni, the witch responsible for most
+atrocities of an arcane nature committed so far in the campaign. Opposition here
+consists of the witch, two inquisitor troops, and two invisible stalkers.&lt;/p&gt;
+
+&lt;p&gt;Tiarise’s notes can give the PCs clues about Thrune’s ultimate plan for
+immortality, and also alert them to the fact she has performed a ritual on
+herself that will turn her into a powerful undead creature when she dies. Unless
+she is killed under specific circumstances, Tiarise returns in the last
+adventure in undead form as one of its named villains.&lt;/p&gt;
+
+&lt;h3 id=&quot;bleakbridge-yolubilis-harbor-district&quot;&gt;Bleakbridge (Yolubilis Harbor District)&lt;/h3&gt;
+
+&lt;p&gt;The bridge is blockaded by a huge force of dottari (three troops, two captains,
+a named commander). They’re being helped by a gang of tengu named the River
+Talons, who are acting as lookouts. Fortunately, their alliance is shaky and the
+Talons’ leader is the brother of Silver Council Member Chok (a weapon shop owner
+who joins at the start of this adventure). If the PCs can arrange a meeting
+between Chok and his brother, the latter can be convinced to betray the
+dottari. In that case, the Talons will not raise the alarm when the PCs sneak
+into the bridge, and will take care of one of the dottari troops “offscreen”.&lt;/p&gt;
+
+&lt;p&gt;Sneaking into the bridge is possible at all because it’s huge - there are
+actually buildings on both sides, with plenty of space to cross in the middle.&lt;/p&gt;
+
+&lt;h3 id=&quot;skinsaw-assassins-villegre-or-redroof-districts&quot;&gt;Skinsaw Assassins (Villegre or Redroof Districts)&lt;/h3&gt;
+
+&lt;p&gt;These cultists are led by Hei-fen, the spiteful and vengeful wererat who has it
+in for the PCs. The PCs are warned about them by Molly Mayapple, the helpful and
+grateful wererat from Vyre.&lt;/p&gt;
+
+&lt;p&gt;The cultists will attack the PCs in three separate occasions, possibly while
+they’re busy with something else. The first strike is six cultists, the second
+one a jorogumo, and the final one another twelve cultists, another jorogumo, and
+Hei-fen herself. They’re also doing murders for Thrune on the side.&lt;/p&gt;
+
+&lt;p&gt;Eliminating all of them changes the corresponding reprisal table entry to “No
+Reprisal”, and gives the city enough breathing room for the PCs to take control
+of either Villegre or Redroof.&lt;/p&gt;
+
+&lt;h3 id=&quot;kintargo-keep-castle-district&quot;&gt;Kintargo Keep (Castle District)&lt;/h3&gt;
+
+&lt;p&gt;This is where Thrune’s most important political prisoners are being kept. If the
+PCs have been captured at the end of the last adventure, they start here and
+must escape. Otherwise, this will probably be the last place they hit. The keep
+and castle are much less guarded than usual because Barzilai ordered most of the
+troops stationed here to go out and hunt for the PCs, which ironically lets them
+approach the Keep.&lt;/p&gt;
+
+&lt;p&gt;While the tower has five levels, only the ground floor and basement are truly
+relevant. When the PCs attack the tower is being guarded by six Hellknights of
+the Rack and their leader, Paralictor Kyrre Ekodyre. The knights should spot the
+PCs as soon as they make it past the door, so they will eventually need to deal
+with all of them and the paralictor in the same fight. There are some undead
+knights possessing suits of armor guarding a shrine, but they will not join the
+main fight unless disturbed.&lt;/p&gt;
+
+&lt;p&gt;The keep’s archives contain the contracts Barzilai made with the order of the
+Rack, to transfer all of the assets of the Order of the Torrent to them (back in
+adventure 02). Turns out there are a lot of irregularities in these contracts
+that make them illegal. The Hellknights, who are Lawful-Eviler-than-thou, will
+abandon Thrune once these documents are made public. This will remove them from
+all random and pre-arranged encounters!&lt;/p&gt;
+
+&lt;p&gt;The archives also contain prisoner records showing that Jackdaw, the original
+leader of the Silver Ravens, is still here! House Thrune’s redaction efforts
+were so effective that not even Barzilai or the knights remember why she was
+important.&lt;/p&gt;
+
+&lt;p&gt;Jackdaw is being held in a special cell in the basement, behind a secret
+door. She’s guarded by a being known as the First Warden, a former warpriest of
+Asmodeus who was turned into a lich and bound to this prison as a punishment for
+some forgotten transgression. The Warden will at first attempt to talk to the
+PCs because it’s been a long time since she had a proper conversation, but will
+attack when she realizes they’re here to free Jackdaw. She has a lot of priestly
+abilities and the help of four more of those possessed armors.&lt;/p&gt;
+
+&lt;p&gt;Jackdaw is in a pretty sorry state - the lich has kept her from dying, but
+hasn’t done anything to make her comfortable. Once the PCs restore her health
+and sanity, she becomes a very valuable ally. She can also supply them with the
+lyrics for the Song of Silver, which combined with the score from the opera
+house allows the PCs to use the ritual.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-dragon-villegre-or-redroof-district&quot;&gt;The Dragon (Villegre or Redroof District)&lt;/h3&gt;
+
+&lt;p&gt;I did mention a dragon, didn’t I? She’s an adult blue dragon named Rivozair. She
+first attacked the city during the Chelish civil war, and was nearly killed by
+the original Silver Ravens. Rivozair returned shortly before the campaign
+started and agreed to join up with Barzilai for a chance to take revenge on the
+city. He invested her with additional infernal power, binding her to a horned
+devil in the same way Nox from Adventure 01 was bound to a bearded one.&lt;/p&gt;
+
+&lt;p&gt;Rivozair is a powerhouse of a solo boss, and one of Barzilai’s most powerful
+minions. In addition to her usual “I’m a dragon!” suite of abilities, her
+lightning breath has been replaced with hellfire, she can summon barbed devils,
+and she has Regeneration 5 that can only be overcome by Good-aligned spells and
+weapons (though that last bit shouldn’t be a problem at this point). After the
+PCs finish the other five missions, or after they reduce Barzilai’s Authority to
+0 (whatever happens first), the dragon will be unleashed to hunt down and kill
+the PCs directly.&lt;/p&gt;
+
+&lt;p&gt;If the GM wants to make this battle a bit easier, they can have some of the PC’s
+allies help in the fight. If on the other hand they want to make it harder, they
+can have the dragon begin its hunt earlier than scheduled. Rivozair will try to
+become invisible and run away when she’s badly wounded, but instead of rallying
+at the Temple she will flee the region. She might come back to disrupt the
+victory celebration, if the GM wishes. Otherwise she will remove herself from
+the campaign.&lt;/p&gt;
+
+&lt;p&gt;Defeating Rovizair removes her entry from the reprisal table… but more
+importantly it &lt;em&gt;instantly reduces Authority to 0&lt;/em&gt;. I guess any remaining minions
+will see that the PCs can handle the dragon and will immediately leave their
+posts as if they had been defeated, rallying at the Temple of Asmodeus. We now
+enter the final stage of the adventure.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;And that brings this post to a close. There’s actually little I would cut from
+this part of the adventure, since all of the fights here seem pretty cool. When
+playing in Pathfinder, they are also quite amenable to alpha-strike tactics.&lt;/p&gt;
+
+&lt;p&gt;In the next post, we’ll take a look at the effects of the Song of Silver and at
+the Temple of Asmodeus, which unlike these short raids is a huge grinding slog.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2024/10/03/hells-rebels-04-part-01.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/10/03/hells-rebels-04-part-01.html</guid>
+        
+        <category>pathfinder</category>
+        
+        <category>lets-read</category>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS</title>
@@ -1565,253 +1838,6 @@ right, but they only have to do that once. &lt;a href=&quot;#fnref:2&quot; clas
         <category>linux</category>
         
         <category>nvidia</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackathon: Neon City Overdrive</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/nco-cover.png&quot;/&gt;
-   &lt;figcaption&gt;
-     Neon City Overdrive&apos;s cover.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Neon City Overdrive is a game written by Nathan Russel and published by Peril
-Planet Game Studio in 2020. This is the smallest core book of all the ones we’ve
-seen so far at 72 pages.&lt;/p&gt;
-
-&lt;p&gt;We’ll also be looking at a supplement named The Grid, which focuses on hacking
-and has another 60 pages.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;Most of those 132 pages are dedicated to the setting and to a set of adventure
-seeds, both of which are largely based on &lt;em&gt;vibes&lt;/em&gt; instead of relying on
-laboriously crafted timelines or detailed maps. This is the game of stylish
-cyberpunks running dangerous jobs in a neon-lit sprawl. The reader is expected
-to take it from there to add details as needed.&lt;/p&gt;
-
-&lt;p&gt;The setting as provided is just a basic sketch. The game takes place in The
-City, which is divided into dense residential and commercial zones called
-Metroplexes, equally dense hellish industrial blocks named Grinders, and the
-Streets that flow in between. The City and the world it’s in are covered by the
-Grid, a global computer network where nearly every device that can be described
-as “electronic” or “computerized” has a presence.&lt;/p&gt;
-
-&lt;p&gt;The Grid gets a somewhat more detailed description because I’m using material
-from the supplement here. Like the physical world it has several components. The
-Signal lets all those devices connect to the Grid. It’s maintained by an army of
-antennas, and repeater drones. The devices attuned to the Signal generate The
-Overlay, which is projected into the physical world as a combination of
-holograms and augmented reality. Most devices have an augmented reality
-interface instead of physical controls, and most signage exists in the Overlay
-only. Hubs are big static computers. Some of them help route and maintain the
-Signal and the Overlay, or host public virtual environments, but others are
-private servers used by the sort of organization your cyberpunks need to hack.&lt;/p&gt;
-
-&lt;p&gt;You can use the grid through an interface that resembles a real-world smartphone
-or desktop browser, but it’s also possible to go into full immersion VR. This
-works as you’d expect if you’re familiar with the genre (and if you’ve read the
-other entries in this series, you are). We have our Gibsonian matrix here, with
-wireframe or low-poly graphics by default, but with specific hubs represented as
-more realistic environments. The more powerful the owner, the more realistic
-their hubs’ presentation.&lt;/p&gt;
-
-&lt;p&gt;A lot of social events happen entirely in the Grid’s virtual reality, from
-important business conferences to sport tournaments and nightclub
-gatherings. Virtual reality ensures they feel mostly like physical events. That
-sure would have been handy during our real world pandemic.&lt;/p&gt;
-
-&lt;p&gt;The downside is that “common” grid users are constantly monitored and
-tracked. Player characters and other dirty criminals have their ways of evading
-this, and despite the efforts of law enforcement agencies and corporate
-security, grid crime is very common and not going away any time soon.&lt;/p&gt;
-
-&lt;p&gt;When you go into VR, you emerge at the Local Area Zone corresponding to your
-physical location but can move to any other LAZ you can access with a
-thought. Movement within a LAZ is restricted to the sort of thing a real person
-would be able to do in the physical world, and the landscape reflects this. Want
-to go to a site in your LAZ? You need to walk. The book recognizes this is
-inconvenient. Some area zones are private, either disconnected from the public
-Grid entirely or separated from it by virtual gates that admit only those with
-the proper credentials. A skilled enough hacker might be able to break through a
-gate. Totally isolated networks can only be accessed by physically jacking into
-their hubs.&lt;/p&gt;
-
-&lt;p&gt;People can access the grid using wearable computers, which are cheap and widely
-available. Serious hackers (called &lt;em&gt;codeslingers&lt;/em&gt; here) have an implanted
-interface chip that has all the same functions and allows diving into VR as
-well. Those who can’t or won’t use implants can make do with a “Grid-box”, a VR
-helmet that also covers the mouth and nose. And both can further benefit from a
-sensory deprivation chamber if they’re &lt;em&gt;really&lt;/em&gt; serious.&lt;/p&gt;
-
-&lt;p&gt;This default presentation is subject to change, as GMs are encouraged to tweak
-the arrangement to get the right vibe they want. By tweaking the list of
-available technologies and how common they are you could get anything from
-mainframes-and-telephones with a chrome veneer to a Ghost in the Shell-like
-ubiquitous net where everyone has implanted computers.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;From what I understand the rules of Neon City Overdrive belong to the lineage of
-Forged in the Dark games. There are &lt;em&gt;no&lt;/em&gt; specific mechanics for the Grid here,
-not even if you use the supplement. Hacking uses the exact same mechanics as
-everything else.&lt;/p&gt;
-
-&lt;p&gt;Tests use six-sided dice. You start with one Action Die, and gain more for each
-factor in your character sheet or the story that helps you succeed, and a Danger
-Die for each factor that gets in the way. Then you roll the resulting pool. Each
-Danger Die cancels an Action Die that rolled the same value. You take the
-highest value rolled in the remaining Action Dice, and use it to determine the
-result. A 3 or less is a failure, a 4 or 5 is a partial success with a cost
-attached, and a 6 is a complete success. The book goes into a bit more detail
-than this, but we don’t need it for this article.&lt;/p&gt;
-
-&lt;p&gt;Narration and the fiction it creates are &lt;em&gt;supremely&lt;/em&gt; important because they’ll
-set the stakes for the roll and inform you of which positive and negative
-factors are in play to build your die pool. Players are the only ones who roll
-dice. Enemies and obstacles are a source of Danger Dice but the GM never needs
-to roll for them.&lt;/p&gt;
-
-&lt;p&gt;Hacking also uses those rules. The additional rules material in the Grid
-supplement is just a clarification that purely physical traits and tags don’t
-apply to tests made in the Grid, and Grid-specific ones don’t apply to the meat
-world. Can´t use your muscle grafts to hack the Gibson, can’t use your fancy
-programs to lift a car. Mental traits might apply to either “reality”, though.
-The book encourages focusing on the imagery of the simulation and making it as
-close to the physical world as possible, to make it easier for the group to
-describe actions without needing to know a lot about computers.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;We’re supposed to set the exact shape of our Grid when we play, so let’s say
-it’s more or less the same as Shadowrun 4th Edition’s. It’s not a pure mesh
-network, there’s cell tower hubs and such, but it’s close enough for our
-purposes.&lt;/p&gt;
-
-&lt;p&gt;Our hacker will be going along with the physical team. The target office’s Grid
-layout is the same as in the SR4 version. The physical location surely has its
-own set of tags but the one that affects us is that our good disguises give us
-the &lt;em&gt;element of surprise&lt;/em&gt;. Losing this might be one of the consequences for a
-hacking complication here. In a real game that’d affect the rest of the team
-too.&lt;/p&gt;
-
-&lt;h3 id=&quot;target-systems&quot;&gt;Target Systems&lt;/h3&gt;
-
-&lt;p&gt;We have an office intranet that’s connected to the general Grid through a
-firewall, which we bypass by being inside the office. Its security from the
-inside is &lt;em&gt;nothing special&lt;/em&gt; except that access to the bank accounts is
-&lt;em&gt;well-guarded&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The internal security wireless network covers the office but not connected to
-the outside. It’s &lt;em&gt;hardened against intrusion&lt;/em&gt; and has a piece of Blue ICE
-that will trigger at the first complication.&lt;/p&gt;
-
-&lt;p&gt;Our secret server in the records room with no wireless network at all. Our
-hacker must physically jack into it. It’s also &lt;em&gt;hardened&lt;/em&gt;, and has Black ICE
-constantly watching over it.&lt;/p&gt;
-
-&lt;h3 id=&quot;our-hacker&quot;&gt;Our Hacker&lt;/h3&gt;
-
-&lt;h4 id=&quot;pixie-non-binary-human&quot;&gt;Pixie (non-binary human)&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Trademarks and Edges&lt;/strong&gt;: Metroplexer, Codeslinger (Hacking, Cyber Combat),
-Infiltrator (Alarms, Locks)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Flaws&lt;/strong&gt;: Greedy, Socially Awkward&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Interface Chip (Fast, Advanced), Icebreaker (Silent, Deadly), Stealth
-Program Suite (Mimetic, Subtle), something else non-hacking related.&lt;/p&gt;
-
-&lt;p&gt;Pixie is kinda min-maxed to fit our scenario, to be honest, with lots of traits
-that would apply to hacking. They’re a passable sneak in the physical world but
-not very good at physical combat and bad at social interaction. That’s what the
-rest of the team is for.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
-
-&lt;p&gt;Our team gets into the office as usual - we always assume this part works
-out. Pixie hides in the bathroom to find the security network and hack into it
-via VR.&lt;/p&gt;
-
-&lt;p&gt;I decide to roll the security server hack as an extended task, since those
-require three successes and we have three goals in here. Pixie decides to use
-Infiltrator instead of Codeslinger for this, since it is an infiltration of
-sorts and that’s where they put put their Alarms and Locks edges. I’m being
-lenient towards my player (who is also me) here. Those traits plus all other
-relevant tags give Pixie a total of seven action dice.&lt;/p&gt;
-
-&lt;p&gt;Pixie is opposed by a single danger die, from the server being Hardened, but
-that die rolls a six and eats the one I rolled on the action dice. They’re left
-with a 5 and a 4, which count as successes towards our goal but apply
-consequences as well. So I rule we lost our Element of Surprise and that the
-Blue ICE on the server activated.&lt;/p&gt;
-
-&lt;p&gt;I rule that the ICE hasn’t found Pixie yet, but it does get to add its relevant
-tags as danger dice on the next roll as it looks for them. Fortunately none of
-those roll a six and the action dice do, allowing Pixie to unlock the final door
-ahead of time. Tests from this point on are made using Codeslinger as expected,
-since they deal purely with stuff that lives in the computer.&lt;/p&gt;
-
-&lt;p&gt;We get to the secret server and I rule that the Black Ice in there is already
-active but will only spot Pixie as a consequence - they start out stealthy. The
-ICE however does get to add its Counter-Intrusion and Scary tags as danger dice
-even so. Fortunately its rolls are crap and Pixie gets a 6, finding and
-downloading the evidence.&lt;/p&gt;
-
-&lt;p&gt;Finally, let’s go for the money! This means the office network’s Well-Guarded
-tag becomes a danger die, but as before the ice only comes online as a
-consequence. We roll a 5 here, so it does come online, but not before we
-transfer the money.&lt;/p&gt;
-
-&lt;p&gt;The physical team proceeds to try to leave the office, but as usual we stop our
-simulation here since the main hacking bits are done.&lt;/p&gt;
-
-&lt;p&gt;Total elapsed time: 15 minutes.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis&quot;&gt;Run Analysis&lt;/h2&gt;
-
-&lt;p&gt;I love engaging with crunchy mechanics but narrative systems do have their
-advantages! 15 minutes is the fastest time we have so far, beating the “silent
-run” from SR 4th Edition by 2 minutes. And this only took so long because I have
-absolutely no experience with Neon City Overdrive and had to keep looking at the
-books.&lt;/p&gt;
-
-&lt;p&gt;It’s possible this run was too easy, but it’s okay because it’s inserted into
-the larger context of the physical break-in. Pixie would have plenty to do in
-that part of the run. I might have made a mistake here in simply having
-“unaware” ICE add some of its tags to the hacking roll. The system is abstract
-enough that I could have ruled slipping past the ICE undetected would require
-“fighting” it and filling its Harm boxes while describing it as a sneaking
-attempt. Whatever form it took in the narrative, combat would have made things
-take longer, but not by much.&lt;/p&gt;
-
-&lt;p&gt;The mechanical bits of the run would probably be much faster than the 50/90
-minutes I’ve been assuming here, but this would be offset in all cases by the
-extended narration and roleplaying the game demands to frame those mechanics and
-establish all the influencing factors for each roll.&lt;/p&gt;
-
-&lt;p&gt;Our experiment however does allow us to conclude the obvious: when you use the
-exact same simple resolution mechanic for everything, everyone has more or less
-the same spotlight time and the classic “Decker problem” won’t manifest.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        <category>neon-city-overdrive</category>
         
         
       </item>
