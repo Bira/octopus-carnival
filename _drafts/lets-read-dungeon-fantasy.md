@@ -59,7 +59,7 @@ this one is a boxed set with five hardcover books inside:
   need to make a character.
 
 - **Spells** contains the magic system and all the spells used in the game. You
-  need this if you're playing a caster.
+  need this if you're making a spellcaster.
 
 - **Exploits**, which is your Game Master's Guide with everything you need to
   run the game.

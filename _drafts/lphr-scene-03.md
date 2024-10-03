@@ -94,7 +94,7 @@ If he had all of that on him, no wonder the CCG singled him out for a mugging!
 ## OOC: Loot distribution
 
 The shirt gives DR 1 to the body, is worth $1120 and weights 0.1kg. Jania gets
-it because she needs armor. Only $120 of that is material worth, so she's not
+it because she needs armor. Only $120 of that is "mundane" value, so she's not
 gonna turn it into a Power Item.
 
 

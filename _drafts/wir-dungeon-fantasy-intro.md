@@ -41,22 +41,22 @@ campaign.
 Like the other entries in that project, it's a full standalone game using the
 rules of GURPS Fourth Edition as a base. I can confidently say it's the
 _chunkiest_ Powered By GURPS game, because all the others were single-book
-affairs using GURPS Lite, and this one is a large boxed set using the full
-rules. It removes everything not immediately relevant to the dungeon fantasy
-genre, but there's still plenty of fun stuff left. It's about as crunchy as
-either edition of Pathfinder, if you want a d20-based benchmark.
+affairs, and this one is a large boxed set using the full rules. It removes
+everything not immediately relevant to the dungeon fantasy genre, but there's
+still plenty of fun stuff left. It's about as crunchy as either edition of
+Pathfinder, if you want a d20-based benchmark.
 
 Part of the reason for this wealth of material is that the DFRPG is a second
 edition of sorts. Much of it had been released as a line of supplements for
 GURPS, named "GURPS Dungeon Fantasy". There's about 21 of them, and it's
-possible we might get more. The two lines are largely compatible, but there are
-key differences here and there.
+possible we might get more. The boxed set takes a good chunk of that material,
+revises it, and packages it the GURPS core rules you need. The two lines remain
+mostly compatible, but there are some important differences between them.
 
 If you're interested in buying the game, and are wondering which version to get,
 my recommendation in most cases is to get the DFRPG boxed set. The digital
-version costs 40 US dollars, which is slightly cheaper than the GURPS core books
-or than a single D&D core book. The physical box is about double that, which
-still makes it half the price of a D&D core set.
+version is slightly cheaper than a single D&D core book. The physical box is
+about double that, which still makes it half the price of a D&D core set.
 
 If you already have both GURPS core books and GURPS Magic, the first two PDFs in
 the GURPS Dungeon Fantasy line will be a slightly cheaper entryway. You'll be
