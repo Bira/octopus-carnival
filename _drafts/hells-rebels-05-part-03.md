@@ -4,15 +4,15 @@ title: "Let's Read Hell's Rebels: Adventure 05, Part 3"
 ---
 
 This third part of the adventure is the already familiar set of miscellaneous
-missions for the volume. It can happen either right after Part 2 (in which the
-PCs try to get the Board of Governors back together to ratify the mayor), or it
-could happen afterwards.
+missions for the volume. Each of them happen either during Part 2 (in which the
+PCs try to get the Board of Governors back together to ratify the mayor), or
+afterwards.
 
-Most of these have a single unifying theme: uniting Ravounel. The Kintargo
+Most missions have a single unifying theme: uniting Ravounel. The Kintargo
 Contract works almost like a constitution in the way in which it defines the
-province. It divides it into five administrative regions, and specifies that the
+duchy. It divides it into five administrative regions, and specifies that the
 city of Kintargo must sign a treaty of alliance with the "leader" of that region
-for it to count as part of the province. The definition of leader here is pretty
+for it to count as part of the duchy. The definition of leader here is pretty
 vague, and fits any individual who is generally recognized as important and
 influential by most inhabitants of that region.
 
@@ -74,11 +74,11 @@ fight, they can leave here in peace and with a new ally who owes them a favor.
 
 Getting this signature is easy. The PCs just have to make a brief trip to
 Acisazi and politely ask the elderly druid Athannah, who already hero-worships
-them because of Adventure 3. She will sign right away, but also has a side quest
-for the PCs.
+them because of Adventure 3. She will sign right away, but also has an optional
+side quest for the PCs.
 
 Even though this mission is not necessary to get the signature, it's still kinda
-necessary because it has to do with stopping a "plague" of deadly whirlpools
+mandatory because it has to do with stopping a "plague" of deadly whirlpools
 that have been popping up off the coast and sinking trade ships. This is the
 sort of thing the people of Kintargo expect the Silver Ravens to solve, and if
 they take too long their reputation will take a hit. The sea elves spotted the
@@ -95,8 +95,8 @@ whirlpools, a giant carnivorous aquatic bug called a "charybdis" (har har).
 
 This is the hardest signature to get by far. Common knowledge about Ravounel
 Forest says it's a dangerous wilderness full of monsters, which of course means
-there's at least two significant native settlements in here and one of their
-leaders needs to sign the treaty.
+there's at least two significant native settlements in here. The leader of
+either one is qualified to sign the treaty.
 
 The forest is frequently assailed by storms, giving rise to rumors that a cult
 of Rovagug hides there. Rovagug is the most Chaotic Evil deity in the whole
@@ -154,8 +154,8 @@ or Laria Longroad for cruel GMs.
 
 The mission's goal is to track the slavers down and end them. It's narrative
 purpose is to make the PCs feel badass, because tracking down the Fetters is not
-hard at all and while they're not exactly pushovers they're also a fair bit
-weaker than the PCs and there's not a lot of them.
+hard at all, they're a fair bit weaker than the PCs, and there's not a lot of
+them.
 
 ### They Did Not Go Gently
 
@@ -214,4 +214,7 @@ the PC's hands. This will probably be their first hint that the Anchor even
 exists, and it's going to be much more important in Adventure 6.
 
 If you intend to end the campaign in this volume, you can remove the Slasher
-mission entirely, as well as any mention of the Soul Anchor.
+mission entirely, as well as any mention of the Soul Anchor. As soon as they
+unify Ravounel and ratify a governor, you can declare the duchy to be truly free
+from Cheliax. It's what I recommend, actually, but I'm reading through
+Adventure 6 anyway.

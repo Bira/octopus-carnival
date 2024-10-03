@@ -73,7 +73,7 @@ Anchor. The Anchor was created by Mahathallah, a former servant of Pharasma
 turned goddess of undeath. Barzilai raided the place during Adventure Two,
 killed most of its defenders, and performed his ritual there.
 
-You see, when you die in Golarion what usually happens is that your soul goes to
+When you die in Golarion what usually happens is that your soul goes to
 Pharasma's domain, where the goddess of death will judge you, strip you of your
 memories, and send your blank-slate soul to the afterlife plane that matches her
 verdict. The Anchor lets those exposed to it bypass all of that and go directly
@@ -89,9 +89,8 @@ final transformation can happen.
 
 How long is "a while"? Adventure One tells us it's "the remainder of his natural
 life". Adventure Five avoids telling us anything at all even when the players
-read the full contract, which makes me think the retcon was already planned
-here. And Adventure Six retcons it and tells us he stays in Hell "until Ravounel
-becomes a free nation".
+read the full contract. And Adventure Six retcons all this and tells us he stays
+in Hell "until Ravounel becomes a free nation".
 
 That could potentially be _much longer_ than Barzilai's natural life... but hey,
 guess what the just did in the previous volume? They made Ravounel into a free
@@ -156,12 +155,12 @@ Vyre, they asked her for help in taking revenge on the PCs. Her mission is to
 infiltrate the talks, kill the Chelish ambassador, and frame the PCs for the
 murder.
 
-Back in Adventure Two, the PCs recovered an evil kukri named Balgorrah. If they
-failed to destroy it, by say selling it off instead of handing it to a proper
-disposal expert, then it makes an appearance here. The cult managed to acquire
-it and restore it to full power, and they give it to Bejakra as part of the
-payment for this job. If the PCs did destroy the weapon, then she will have a
-much less impressive magic kukri instead.
+Back in Adventure Two, the PCs recovered a sentient evil kukri named
+Balgorrah. If they failed to destroy it, by say selling it off instead of
+handing it to a proper disposal expert, then it makes an appearance here. The
+cult managed to acquire it and restore it to full power, and they give it to
+Bejakra as part of the payment for this job. If the PCs did destroy the weapon,
+then she will have a much less impressive magic kukri instead.
 
 ### Negotiation Mechanics
 
@@ -214,8 +213,9 @@ This is actually a Chelish tactic known as "testing the waters". The bribes are
 lies, and will never be delivered. Instead, Athtinia will report on the PCs'
 reactions to Nereza, who will use the information to shape her arguments in
 coming days. The key here is to be perceptive enough to realize this, which will
-throw Nereza off her game enough that the DC remains unchanged (or even gets
-reduced if the PCs tattle on Athtinia, as Nereza will respect them for it).
+throw Nereza off her game enough that the negotiation DCs remains unchanged (or
+even gets reduced if the PCs tattle on Athtinia, as Nereza will respect them for
+it).
 
 In the second night, at 3 AM, Bejakra makes her move. She uses magic items to
 summon three jorogumo and station then at key points as lookouts. Then she takes

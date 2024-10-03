@@ -8,6 +8,14 @@ tags:
     - hells-rebels
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
 The first three volumes of this adventure path were dedicated to building up the
 Silver Ravens and their rebellion. Strikes against Thrune were indirect and
 targeted peripheral facilities, which prevented the enemy from mounting a big
@@ -260,3 +268,4 @@ the Temple of Asmodeus, which unlike these short raids is a huge grinding slog.
 
 
 [1]: https://www.youtube.com/watch?v=zzNs4-kRLaE
+[2]: {{ "/projects/hells-rebels" | relative_url }}

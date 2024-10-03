@@ -144,7 +144,7 @@ chance to become a genius loci by dying. He's in Hell forever. Campaign
 complete, mission accomplished, let's leave nation-building to the government
 and retire as glorious heroes.
 
-IF you do want to continue playing Hell's Rebels, though, then the Crux still
+If you do want to continue playing Hell's Rebels, though, then the Crux still
 exists and the situation is the following:
 
 Kintargo is free for now, and Cheliax is busy fighting the Glorious Reclamation

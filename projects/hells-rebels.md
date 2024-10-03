@@ -55,6 +55,11 @@ This is an ongoing project. These are the posts that comprise it:
     - [Part 2][14]: A feast and a fort.
     - [Part 3][15]: A party for partisans
 
+- **A Song of Silver**: The fourth adventure, in which the final battle for the
+  city takes place.
+
+  - [Part 1][16]: Taking the city a district at a time, Assassin's Creed style.
+
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}

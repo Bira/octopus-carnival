@@ -109,7 +109,7 @@ prevent House Thrune from invading and killing more young people.
 This is another current noble house, so it's very easy to find. It also used to
 be one of Thrune's supporters, but its head Geoff Tanessen is having second
 thoughts after seeing how bad Barzilai was for the city and its economy. So
-yeah, he's in team Bolsoregrets now.
+yeah, he's a Repentant Centrist.
 
 Unfortunately Geoff is a bit wary to make his change of heart known, because
 most of his social circles are still very pro-Thrune and his twin sons in
@@ -143,8 +143,8 @@ bequeathed the family estate and all its titles, rights, and privileges to her
 halfling caretaker Peletera Taltallow.
 
 When Alveda died, a traitorous lawyer handed the material goods to House Thrune
-anyway and sold Peletera into slavery. He didn't care to transfer the
-"privileges", however, so the right to sit on the board now belongs to the
+anyway and sold Peletera into slavery. He didn't care to transfer the "rights
+and privileges", however, so the right to sit on the board now belongs to the
 Talltallow line.
 
 And our good friend Laria Longroad happens to be Peletera's granddaughter!

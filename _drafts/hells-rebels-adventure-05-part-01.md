@@ -137,29 +137,31 @@ that's a moot point. If you get Odie to help you, he'll tell you all about the
 contract's secrets with minimal prompting.
 
 **Plain Text**: This is a sub-contract of the wider Cheliax Covenant signed
-between Queen Abrogail I and Asmodeus. Like the Covenant, it allows House Thrune
-to receive military aid from Hell in order to acquire and maintain its control
-over Cheliax. Kintargo and all of Ravounel agree to be "defended" by House
-Thrune, and the contract goes on to define what "Ravounel" and "Kintargo" mean
-almost like a constitution.
+between Queen Abrogail I and Asmodeus. The Covenant allows House Thrune to
+receive military aid from Hell in order to acquire and maintain its control over
+Cheliax. This contract says that the duchy of Ravounel is not officially a
+province of Cheliax, but that it agrees to be "defended" by House Thrune. The
+contract goes on to define what "Ravounel" and "Kintargo" mean almost like a
+constitution.
 
-The interesting bit here is Ravounel is not officially a province of
-Cheliax. Cheliax can only send its armies here with the express permission of an
-officially appointed Lord Mayor! And an officially appointed Lord Mayor is one
-who has been ratified by a "Board of Governors" whose five members each belong
-to a specific familial lineage (known to the signatories but not written down in
-the contract).
+The Duchy of Ravounel is governed by the Lord Mayor of Kintargo. A Lord Mayor is
+appointed by a Board of Governors whose five members each belong to a specific
+familial lineage, known to the signatories but not written down in the contract.
 
-There is a severe penalty for marching armies into Ravounel without permission,
-but figuring it out requires a close reading.
+The reason all of this is important is because Cheliax can only send its armies
+into Ravounel with the express permission of the Lord Mayor. There is a severe
+penalty for doing that without permission, but figuring it out requires a close
+reading.
 
 **Hidden Clause**: If there is no officially appointed governor, Cheliax does
-not need permission to send armies into Ravounel. Neither Barzilai nor Jilia
-count as officially appointed, since they were not ratified by the Board.
+not need permission to send armies into Ravounel. The Board hasn't met in about
+70 years, and its existence is unknown to the general public. Therefore, neither
+Barzilai nor Jilia count as officially appointed.
 
 If Cheliax marches armies into the region after being denied permission, _the
 entire Cheliax Covenant_ is voided. Hell removes its backing, making Cheliax an
-easy target for its many antifascist neighbors and resentful protectorates.
+easy target for its many antifascist neighbors, resentful protectorates, and
+home-grown rebels.
 
 **Termination Clause**: The contract cannot be terminated while the Cheliax
 Covenant is active, but is immediately voided when the Covenant is
@@ -173,8 +175,8 @@ Plain Text quickly and without a roll, but they can't reliably hit the
 contract's inflated Complexity DC without Oddie's help. He's also the surest
 source of information on which lineages make up the Board of Governors.
 
-The Board's last meeting was around 65-70 years ago, shortly before Abrogail I's
-death. The practice fell in disuse after this, but the Board still retains its
+The Board's last meeting was shortly before Abrogail I's death, around 70 years
+ago. The practice fell in disuse after this, but the Board still retains its
 powers since the contract is still valid. If the PCs can get the descendants of
 its constituent lineages together they could officially ratify Jilia Bailinus
 and prevent a full-scale Chelish invasion.
@@ -207,7 +209,8 @@ for ratifying a mayor.
 
 Using the amulet summons a heavy metal worm-maw-thing that acts as a portal to
 Oddie's offices in the city of Dis. The portal is effectively one-way. They need
-to find their own way back once they're done.
+to find their own way back once they're done. It's a good idea to perform the
+Song of Silver before they go through.
 
 Oddie's office is located inside a much larger building, the library that holds
 all of Hell's contracts, but it's physically isolated from it. The decor is a
@@ -231,7 +234,7 @@ but show up he does, and has a peaceful meeting with the PCs. Fortunately for
 the PCs, the wait is merely boring rather than hazardous: the conference room
 has a bathroom with a working toilet and a potable-water sink. It's also
 furnished with a drink selection and a magical spoon that can generate meals on
-demand (the food is harmless and tastes heavenly but looks like literal shit).
+demand (the food is harmless and delicious but looks like literal shit).
 
 Parties who don't know the password can try to be sneaky. The office has no
 invisibility countermeasures but they should apply that invisibility before

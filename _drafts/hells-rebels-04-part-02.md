@@ -22,10 +22,9 @@ the dictator will turtle up in the Temple of Asmodeus, and will order its high
 priest to enact a ritual to contact Mephistopheles directly. The ritual takes
 three days and a lot of sacrifices to complete, and when it does Mephistopheles
 answers by sending _six pit fiends_ to serve Barzilai and by giving him and all
-his underlings a major boost in stats that's going to last for a whole
-month. Sou you can see why the PCs should be very interested in stopping this
-and driving Thrune out of town as fast as possible. This is why the final part
-of this adventure is an assault on the temple.
+his underlings a major boost in stats that's going to last for a whole month. So
+you can see why the PCs should be very interested in stopping this. This is why
+the final part of this adventure is an assault on the temple.
 
 ## The Song of Silver
 
@@ -42,25 +41,20 @@ now be trivial for any bard in the party. Shensen can also sing it if there are
 no PCs trained in Performance.
 
 As soon as it completes, the dome of the opera house shines with a bright light
-and the whole city is enveloped in a protective dome that has a whole bunch of
-interesting effects and lasts for seven days. While it's active, all weapons in
-the city count as being made of silver, and all evil outsiders must succeed at a
-moderately difficult caster level check to teleport or use similar
-abilities. The performer, every other PC, and up to four additional allies also
-gain a major bonus on saves against charm and compulsion effects, and become
-completely immune to fear. They can choose to end this blessing to automatically
-pass a save, or to gain the effects of the _breath of life_ spell (which yes,
-can return them to life if they die).
+and the whole city is enveloped in a protective field that lasts for seven
+days. While it's active, all weapons in the city count as being made of silver,
+and all evil outsiders must succeed at a moderately difficult caster level check
+to teleport or use similar abilities. The performer, every other PC, and up to
+four additional allies also gain a major bonus on saves against charm and
+compulsion effects, and become completely immune to fear. They can choose to end
+this blessing to automatically pass a save, or to gain the effects of the
+_breath of life_ spell (which yes, can return them to life if they die).
 
 The song can only be performed once a month - the PCs should ideally only need
 to perform it once in this adventure. When it's performed for the first time,
-Barzilai's Authority is reduced by 15 if that happens while that's still an
-issue. It would be optimal if the PCs went into the Temple while under the
-effects of the Song, as it makes the assault much easier.
-
-They can also use rebellion actions to obtain a full map of the temple, and to
-sabotage the evil ritual, making it take twice as long to complete and slightly
-penalizing the priests involved. This gives them more time.
+Barzilai's Authority is reduced by 15 if that's still an issue. It would be
+optimal if the PCs went into the Temple while under the effects of the Song, as
+it makes the assault much easier.
 
 ## The Temple of Asmodeus
 
@@ -110,16 +104,15 @@ defenses. There's an effect similar to the Unhallow spell which is powered by a
 pair of "infernal engines". These engines also maintain a series of more
 localized magical hazards inside the temple.
 
-After every fight in here, the bells gather 1d6 power points. When they reach 10
-they ring, which inflicts a random bad effect on the PCs. The Song of Silver can
-help resist some of them, but the only way to stop the bells is to reach the
-belfry and exorcise them.
+After every fight in here, the bells gather 1d6 power points (1d4 if the ritual
+was disrupted). When they reach 10 they ring, which inflicts a random bad effect
+on the PCs. The Song of Silver can help resist some of them, but the only way to
+stop the bells is to reach the belfry and exorcise them.
 
-The ritual is happening in the nave, but getting in on the ground floor and
-going directly there is suicidal. Not only is the enemy force there a
-significantly hard encounter, it can also issue a general alert that will draw
-many of the temple's other defenders here. Instead we want to eliminate all of
-their advantages first.
+The ritual is happening in the nave on the center of the ground floor, but going
+there directly is suicidal. The enemies at that location are not only a hard
+encounter, they can also issue a general alert that will draw many of the
+temple's other defenders there.
 
 The optimal route would be to enter through the balcony, which puts the PCs on
 the second floor loft where they can head more or less directly to the infernal
