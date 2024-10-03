@@ -148,8 +148,9 @@ is tough and summons barbed devil guardians when hit), cast spells that either
 sever its planar connection or banish it, or cast the _freedom_ spell. The
 latter is so antithetical to the prison it will destroy it instantly.
 
-Any victims transported to Hell remain there. At the GM's discretion, the PCs
-might get a chance to rescue them in the final part of the adventure.
+Any victims transported to Hell remain there after the prison is destroyed. At
+the GM's discretion, the PCs might get a chance to rescue them in the final part
+of the adventure.
 
 ## Part 2 Denouement
 
