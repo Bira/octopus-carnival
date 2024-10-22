@@ -21,9 +21,10 @@ which ones are amenable to supporting the rebellion. The main change here is
 that House Aulorian is still undecided, which should change soon.
 
 After the PCs busy themselves with management and information gathering for a
-while, they get contacted by Lictor Octavio directly. He sets up a meeting with
-them at his cousin's tavern, the Tooth and Nail, and asks the Silver Ravens to
-rescue his imprisoned knights. We skip all the bits about tracking down Octavio.
+while, they get contacted by Lictor Octavio via Lady Docur's couriers. He sets
+up a meeting with them at his cousin's tavern, the Tooth and Nail, and asks the
+Silver Ravens to rescue his imprisoned knights. We skip all the bits about
+tracking down Octavio.
 
 The **Holding House** delve occurs as originally written. Posing as dottari with
 prisoner transfer orders is still the best solution here, and should allow them
@@ -48,9 +49,8 @@ relation to each other.
 Personally, I'm not a big fan of underwater dungeon crawling, so I'm going to
 cut the delve into the flooded level. There is just the one skum encounter in
 the first flooded room, and after that's dealt with (possibly via tossing
-explosives into the water) you can narrate the exploration of the empty level
-and the rescue of the sea elves as a "cutscene". Everything else remains as it
-is.
+explosives into the water) you can handle exploration of the level and rescue of
+the elves via narrative play. Everything else remains as it is.
 
 For even more condensation, remove the cultists entirely and beef up the numbers
 and power of the undead in the haunted sublevel to compensate. We want to
@@ -59,4 +59,5 @@ streamline the adventure without making this final sequence too easy.
 ## Conclusion
 
 Though the volume 1 article still ended up a bit chunky, we are now moving at a
-fair clip!
+fair clip! I estimate 1 each for the first two parts, and around 2-3 for the
+Lucky Bones depending on how much you remove from it.

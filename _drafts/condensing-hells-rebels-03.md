@@ -46,8 +46,11 @@ revolution through.
 
 The Menador Gap delve also happens as written. Be sure to reward clever play by
 the PCs and allow them to bypass as much of the fort's security as it makes
-sense given their actions. They don't need to kill every last soldier in the
-place to succeed at the mission or earn extra XP.
+sense given their actions. Remember the soldiers aren't telepathically linked,
+and a group or individual who spots the PCs needs to raise an alarm before the
+rest become aware of them. The PCs are more than capable of preventing that if
+they try. Also, they don't need to kill every last soldier in the place to
+succeed at the mission.
 
 ## Part 5
 

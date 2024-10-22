@@ -22,7 +22,7 @@ system[^1]. From what I understand, back in the mists of D&D prehistory, before
 publication, the game had two classes: "Fighting Man" and "Magic User". The
 first was meant to depict any character who made physical combat their
 specialty. The second was meant to depict anyone who primarily used
-magic. Already here you can see some persistent D&D-isms cropping up.
+magic.
 
 As the game moved on to publication and then through successive commercial
 editions, more classes were added. Each one carved their niche from the big
@@ -41,6 +41,24 @@ that they can't belong to another class. This can lead to a certain sameness in
 D&D-like settings, and also to the perpetuation of some crummy stereotypes.
 
 Let's take a look at these assumptions, and at how to possibly remove them.
+
+## The "Original Sin"
+
+The very first D&D-ism is, of course, the idea that fighters and magic-users are
+entirely separate character types. "Martials cannot use magic" is a more
+important defining aspect than "martials are good at fighting". And while the
+image of a wizard as a weird person in a robe is older than D&D by a few
+decades, the idea that a wizard _must_ be a weird person in a robe is very much
+a D&D-ism.
+
+The surest way to tell whether a story or game is inspired or influenced by D&D
+is to look for this divide. Even Exalted does this: while every player character
+has access to actual frigging magical powers, it still makes a distinction
+between those and "Sorcery", which is what lets you cast real spells, and which
+incentivizes you to wear weird robes.
+
+Of course, D&D itself went on to establish "sub-divisions" of this in its
+subsequent editions.
 
 ## Strict Spellcaster Taxonomy
 

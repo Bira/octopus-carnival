@@ -135,7 +135,7 @@ his heart with it back during adventure 2. The book mentions that retrieving
 this thing from Thrune's corpse and opening it up are vital steps to proceed
 with the remaining two adventures in the campaign.
 
-## What Happens Next
+## Concluding the Adventure, and What Happens Next
 
 First of all, nothing _has_ to happen from this point on. This is an excellent
 stopping point for the campaign if the GM doesn't feel like spending money on

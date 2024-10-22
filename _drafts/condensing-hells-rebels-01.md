@@ -45,24 +45,24 @@ speed.
 - The grimples in the old hideout under the Livery are not evil and will try to
   parlay with the PCs. They will grant safe passage through their territory in
   exchange for the PCs dealing with the "terrible demons" in the other half of
-  the dungeon. Alternatively, the underground level is just empty apart from
-  Blosodriette, and the PCs can recover the loot here unopposed.
+  the dungeon.
 
 - If you don't want to deal with Blosodriette's extended sabotage later on, you
-  can ensure the PCs find her at the hideout, which will cause her to
-  immediately try to bargain with or kill the PCs. Depending on the system or
-  starting power level you're going with, they might already have the necessary
-  detection abilities. If they don't you could include an item that helpst with
-  this amongst the Raven stash.
+  can either remove her entirely or ensure the PCs detect her early. Depending
+  on their starting power level the PCs might already have the necessary
+  abilities in the Livery, or you might arrange for them to find an item that
+  will help them do it in one of the following missions.
 
-- The situation with the tengu sisters is different. Chough does not
-  exist. Mr. Smuggler Buddy instead left saying he would return soon, and never
-  came back. Laria knows the sisters are down there and has been keeping them
-  fed, but they need Smuggler Buddy to leave town. Some legwork by the PCs will
-  reveal that he's been captured by Thrune loyalists.
+- The situation with the tengu sisters is different. Chough does not exist. Nan
+  Comerivos brought them here as written, and then left saying he'd try to find
+  passage out of town for them. However, he never came back. Laria knows the
+  sisters are down there and has been keeping them fed, but they want to find
+  out what happened to Comerivos because he's their only way out.
 
-- Smuggler Buddy has been taken to the **Salix Salt Works**, which is being used
-  as a forced labor camp just like in the original.
+- Some legwork by the PCs will let them discover that Nan Comerivos has been
+  taken to the **Salix Salt Works**, which is being used as a forced labor camp
+  just like in the original. Comerivos and the sisters can join as NPC allies
+  once the former is rescued.
 
 
 ## Part 2
@@ -94,8 +94,15 @@ Just before Rexus deciphers the Silver Raven documents, the PCs receive an
 invitation for a meeting with Lady Mialari Docur, who originally only appeared
 in Adventure 03. She's an acquaintance of Laria's here, and makes the same offer
 of alliance she makes there. From this point on she provides her bonuses and
-acts as the "face" of Kintargo's black market. If the PCs need illegal gear,
-they can go to her for it.
+access to her school's services. That's mainly a network of couriers that can
+deliver secret messages and smuggled items, though she could also act as a
+source of illegal spy hear.
+
+You might also want to introduce Chok the tengu weapon shop owner here as
+another acquaintance of Laria's. He has a role to play in adventure 04, but
+that's also where I first saw his name mentioned at all, and that book expected
+him to be a long-time ally. Having him appear him as one of their weapon
+suppliers is more organic.
 
 After Rexus deciphers the documents, a process the PCs can help speed up, we go
 into **Hocus' Phantasmagorium** as the [big capstone delve][3] of the

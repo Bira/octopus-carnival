@@ -8,14 +8,22 @@ tags:
     - dungeon-fantasy
 ---
 
-Before I launch into a description of the final part of this adventure, I think
-it's useful to go over some background information.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
+Before I launch into a description of the big dungeon raid in this adventure, I
+think it's useful to go over some background information.
 
 ## Barzilai's Desperation Move
 
 As we say back in the background for Adventure 01, Barzilai's scheme to become a
-genius loci will only work as planned if he dies a natural death from old
-age. So he very much wants to keep on living.
+genius loci will only work exactly as planned if he dies a natural death from
+old age. So he very much wants to keep on living.
 
 As soon as he sees he's lost the upper hand in the rebellion (at Authority 0),
 the dictator will turtle up in the Temple of Asmodeus, and will order its high
@@ -239,7 +247,7 @@ the bell, failure deals ability drain and resets the procedure as above. The GM
 should tailor the vision to the PC. Here's a summary of the visions and their
 tests:
 
-**Bell of Torments**: The PC is being tormented in Hell by a past enemy that
+**Bell of Torments**: The PC is being tormented in Hell by an enemy that
 particularly vexed them in the past. After a while they realize they are holding
 their favorite weapon, and can strike at their tormentor. _Test_: Attack roll
 vs. AC 28.
@@ -279,3 +287,5 @@ banished back to hell if they were summoned creatures. The party has some time
 to finish looting the temple as well.
 
 We'll look at what happens after they leave in the next post.
+
+[2]: {{ "/projects/hells-rebels" | relative_url }}
