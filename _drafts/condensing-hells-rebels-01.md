@@ -62,7 +62,7 @@ speed.
 - Some legwork by the PCs will let them discover that Nan Comerivos has been
   taken to the **Salix Salt Works**, which is being used as a forced labor camp
   just like in the original. Comerivos and the sisters can join as NPC allies
-  once the former is rescued.
+  once the former is rescued, just as written in the book.
 
 
 ## Part 2
