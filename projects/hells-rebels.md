@@ -60,6 +60,7 @@ This is an ongoing project. These are the posts that comprise it:
 
   - [Part 1][16]: Taking the city a district at a time, Assassin's Creed style.
   - [Part 2][17]: This volume's big dungeon, the Temple of Asmodeus.
+  - [Part 3][18]: The finale!
 
 [1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
@@ -78,3 +79,4 @@ This is an ongoing project. These are the posts that comprise it:
 [15]: {{ "/2023/06/24/hells-rebels-3-part-3.html" | relative_url }}
 [16]: {{ "/2024/10/03/hells-rebels-04-part-01.html" | relative_url }}
 [17]: {{ "/2024/10/22/hells-rebels-04-part-02.html" | relative_url }}
+[18]: {{ "/2024/11/06/hells-rebels-04-part-03.html" | relative_url }}
