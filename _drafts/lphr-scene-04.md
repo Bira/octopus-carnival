@@ -158,7 +158,7 @@ tie one each to their wrists using the string that comes with the vials, holding
 them aloft like torches.
 
 From the storage cubicle they cross a doorway to a larger hall that seems to
-have been used to butcher recently slain animals. It's not a small village, with
+have been used to butcher recently slain animals. It's a small village, with
 many tiny tents pitched over the sawdust floor. There are about twenty grimples
 in here all told, though Godric's party seem to be the only combatants. The
 smell is not much better.
@@ -171,8 +171,8 @@ tallfolk, their hearts are as honorable as any grimple's!"
 
 After that, he opens the gate using the same key as before, and the delve is on.
 
-- GM: So far we've neatly skipped a lot of the filler, but now we get a delve
-  and a fight.
+- GM: So far we've neatly skipped a lot of the filler fights, but now we got to
+  the main event of this delve.
 
 ### Polluted Cistern
 
@@ -190,4 +190,7 @@ sinister. They don't look the talkative type - as soon as they spot the PC's
 lights, they turn and growl, looking like very angry human-sized balls of
 excrement.
 
-- GM: It's two lemures.
+- GM: It's two lemures. We also have three rats waiting in the wings for an
+  extra surprise. These would have been a separate, previous fight in the
+  original adventure. I'm throwing them in here, to bring the fight's challenge
+  closer to the PC's power level.

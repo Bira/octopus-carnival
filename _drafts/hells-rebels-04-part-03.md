@@ -8,6 +8,14 @@ tags:
     - dungeon-fantasy
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/350px-Hell's_Rebels_Logo.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
+This article is part of a series! Click [here][2] to see the other entries.
+
 We're firmly in the wrap-up stage now. If you're here, the PCs have succeeded at
 dismantling the powerful magical defenses of the Temple of Asmodeus and
 disrupted a dire summoning ritual that was Barzilai Thrune's last attempt at
@@ -37,14 +45,13 @@ but for now it's time to celebrate!
 All of the PC's heroics quickly become common knowledge, now that there is no
 more need for secrecy on their part. Soon after they recover from the temple
 raid, they and their allies are invited to a huge party in their honor. It takes
-place on Bleakbridge - the same spot where the PCs busted a blockade early in
-the adventure.
+place on Bleakbridge - the same spot where the PCs busted a blockade in Part 01
+of the adventure.
 
 The place is quite crowded now. A wooden stage has been erected right in the
 middle of the bridge, where a whole bunch of statues are covered with cloth
 awaiting for their unveiling. The PCs, every single member of the Silver Ravens,
-and anyone else whom they had significant interactions with will be at the
-party.
+and anyone else whom they had positive interactions with will be at the party.
 
 Some time after the party gets going, the mayor calls the PCs up to the stage,
 makes a speech renaming the bridge from Bleakbridge to the Silver Span, and
@@ -117,15 +124,15 @@ the Player's Guide. The GM is supposed to keep track of this number from the
 start of the campaign until now. There are several events in the strategic layer
 (Thrune reprisals, mostly) that kill a number of innocents and reduce this
 number. Deaths of innocents during the "tactical adventuring" portions also
-reduce the number - for example, when they fail to rescue a sacrifice victim or
-when the Ruby Masquerade trap is sprung.
+reduce the number - for example, the Ruby Masquerade trap, or if the PCs fail to
+rescue a sacrifice victim.
 
 If the city has at least 9000 surviving inhabitants at the end of this last
 party, the game considers the rebellion an Unmitigated Success. 7500 or more
 survivors makes for a Grim Success, and less than that is a pyrrhic victory
 marked by Tragic Loss. I think it's quite hard to end up with less than 9000
-citizens unless the group fails to prevent the Ruby Masquerade massacre and
-really slacks off during the "hot war" portion of this adventure.
+citizens unless the group completely fails to prevent the Ruby Masquerade
+massacre and really slacks off during the "hot war" portion of this adventure.
 
 ## The Chelish Crux
 
@@ -157,3 +164,5 @@ Barzilai himself isn't exactly out of the picture either. Even dead, he's still
 on track to become a genius loci, and solving the Cheliax issue will actually
 make that process much faster. Dealing with him once and for all is the subject
 of the last adventure in the campaign.
+
+[2]: {{ "/projects/hells-rebels" | relative_url }}
