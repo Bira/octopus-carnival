@@ -20,7 +20,7 @@ of it is going to be fights.
 That can result in a lot of filler! There's one famous example in the Iron Gods
 adventure path where its whole third volume (out of six) is basically a wild
 goose chase that could have been completely ommitted by placing its McGuffin at
-the end of the dungeon on volume 2, where it originally was.
+the end of the dungeon on volume 2, where logic says it should be.
 
 I've seen blog posts in the past "condensing" these adventure paths by removing
 all the filler and making them as direct as possible. This is very useful when
@@ -45,7 +45,7 @@ speed.
 - The grimples in the old hideout under the Livery are not evil and will try to
   parlay with the PCs. They will grant safe passage through their territory in
   exchange for the PCs dealing with the "terrible demons" in the other half of
-  the dungeon.
+  the dungeon (the lemures and dire rats).
 
 - If you don't want to deal with Blosodriette's extended sabotage later on, you
   can either remove her entirely or ensure the PCs detect her early. Depending
@@ -101,7 +101,7 @@ source of illegal spy hear.
 You might also want to introduce Chok the tengu weapon shop owner here as
 another acquaintance of Laria's. He has a role to play in adventure 04, but
 that's also where I first saw his name mentioned at all, and that book expected
-him to be a long-time ally. Having him appear him as one of their weapon
+him to be a long-time ally. Having him appear him as one of the Ravens' regular
 suppliers is more organic.
 
 After Rexus deciphers the documents, a process the PCs can help speed up, we go

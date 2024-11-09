@@ -19,11 +19,11 @@ The Silver Ravens are still around as an organization, but many of its members
 either go back to their previous lives or accept legitimate jobs with the new
 government.
 
-After last adventure's celebration is over, the city still has much to worry
-about, however. Barzilai left it a mess, and it needs to rebuild. And while the
-empire of Cheliax is currently busy suppressing another uprising in its
-heartlands, it's sure to send a huge army to Kintargo when it's done. The city
-cannot win against Cheliax in an all-out war.
+After the celebration is over, however, the city still has much to worry
+about. Barzilai left it a mess, and it needs to rebuild. And while the empire of
+Cheliax is currently busy suppressing another uprising in its heartlands, it's
+sure to send a huge army to Kintargo when it's done. The city cannot win against
+Cheliax in an all-out war.
 
 The strategy layer of the campaign is over and done with, tough the PCs still
 have access to pre-delve covert actions. Actual strategy and administration is
@@ -31,7 +31,8 @@ the government's job now. The PCs can't do a lot to help with the actual
 rebuilding efforts, but in this adventure they'll find out their help is still
 needed to keep Cheliax at bay and secure their newfound freedom.
 
-The party starts this adventure at level 13.
+The party starts this adventure at level 13 and will be level 15 when it
+finishes.
 
 ## Details in Distrust
 

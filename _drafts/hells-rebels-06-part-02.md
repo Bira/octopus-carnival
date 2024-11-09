@@ -30,10 +30,10 @@ city. Fun times, yeah? You really felt you made a difference when you finally
 took the last district and liberated the city.
 
 Well, guess what, now you get to do it all over again with bigger numbers! The
-long and short of it is that Barzilai's ongoing transformation has given him a
-measure of influence over Kintargo. Every district of the city is haunted by a
-different aspect of his awful personality. The PCs must investigate each one and
-find a way to exorcise the manifestation, or his influence will keep growing.
+premise here is that Barzilai's ongoing transformation has given him a measure
+of influence over Kintargo. Every district of the city is haunted by a different
+aspect of his awful personality. The PCs must investigate each one and find a
+way to exorcise the manifestation, or his influence will keep growing.
 
 Barzilai's influence over each district can be measured as "weak", "moderate" or
 "strong". Each level gives increasing bonuses to lawful evil outsiders in the
@@ -48,7 +48,7 @@ chosen district was already at "Strong", he gains 1 "Soul Point" instead. This
 is a custom mechanic that will affect how hard the final boss fight is.
 
 Every time the PCs resolve a haunting, Barzilai's spirit lashes out and they get
-a vision about the Soul Anchor - that's how they learn his heart is there, and
+a vision about the Soul Anchor. That's how they learn his heart is there, and
 how to get to the place.
 
 ### The Hounds of Old Kintargo
@@ -98,9 +98,9 @@ she had performed a ritual that would turn her into a powerful undead monster
 when she died. And here she is now, as something called a "nemhain". This seems
 to be a stronger, frost-themed banshee.
 
-Tiarise manifests at night, and loudly curses the PCs in several profane
+Tiarise manifests at night, and loudly calls the PCs names in several profane
 languages. To locate her, the PCs must only be in the district at night and
-follow the sounds.
+follow the sound of her voice.
 
 She's located in the same Hall of Records where the PCs first defeated her, and
 has managed to summon a bunch of starvation-themed ghosts as minions. Together

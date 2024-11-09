@@ -31,9 +31,10 @@ that might have happened due to previous PC efforts.
 
 As I mentioned in the last article, I'm not a big fan of underwater
 adventure. So the village of Acisazi is actually fine, and the reason they're
-joining up with the Ravens is that Aava was a big shot back home. A NPC Silver
-Raven team can escort her and the other scouts home, while the PCs pursue the
-other regional support goals. Those can be done in any order.
+joining up with the Ravens is that Aava was an important figure back home and
+they're grateful for her rescue. A NPC Silver Raven team can escort her and the
+other scouts home, while the PCs pursue the other regional support goals. Those
+can be done in any order.
 
 ## Part 3
 
