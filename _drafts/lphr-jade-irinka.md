@@ -9,6 +9,15 @@ tags:
     - hells-rebels
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/zheng-qu-knight-level-up.jpg" | relative_url }}"/>
+  <figcaption>Source: <a
+  href="https://www.artstation.com/artwork/4bn5Z2">Royal Guard by Zheng Qu</a>
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
 a sort of mascot by the original Silver Ravens during their early exploits. She
 was too young to go out with the Ravens on their missions, but she witnessed
@@ -98,7 +107,38 @@ Basic Move 7;
 - Tactics (H) IQ+2 {2}[^2] - 14
 - Wrestling (A) DX-1 {1} - 14
 
+**Loadout**
+
+$1000, 11.41kg. No encumbrance.
+
+- Ordinary Clothing: Free; 1kg.
+- Backsword: Basket hilt gives DR 4 to the hand and allows a Hilt Punch. $550,
+  1.5kg.
+- Pouch: Fits 1.5kg of small items. $10, 0.1kg.
+  - Coins: 8 silvers, 23 coppers. $183, 0.31kg.
+  - Minor Healing Potion: Heals 1d HP. $120, 0.25kg.
+- Light Cloth Armor Suit: DR 1 to all locations except the head. $137, 8.25kg.
+
+**Combat**
+
+Assumes no encumbrance.
+
+- **Defenses**
+  - Dodge: 11
+  - Parry: 14F (sword), 11 (Unarmed, DX)
+  - DR: 2 on skull, 0 on eyes, 5 in sword hand, 1 everywhere else.
+
+- **Attacks**
+  - Backsword (20): 1d+4 cut or 1d+2 imp, Reach 1.
+  - Hilt Punch (15): 1d-1 cr, Reach C.
+
+## Character Sheet
+
+If you use GURPS Character Sheet to manage PCs, you can download Jade's file
+[here][2].
 
 [^1]: +1 from Combat Reflexes
 [^2]: +3 from Born War Leader
 [^3]: +2 from Charisma
+
+[2]: {{ "/assets/Urist.gcs" | relative_url }}

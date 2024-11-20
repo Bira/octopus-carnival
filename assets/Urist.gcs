@@ -3850,22 +3850,6 @@
 			"equipped": true,
 			"children": [
 				{
-					"id": "ePhx-0EzwYioTzrzp",
-					"description": "Gold Coin (Halved)",
-					"reference": "DFA95",
-					"tags": [
-						"Money"
-					],
-					"value": 200,
-					"weight": "0.01 lb",
-					"quantity": 1,
-					"equipped": true,
-					"calc": {
-						"extended_value": 200,
-						"extended_weight": "0.01 lb"
-					}
-				},
-				{
 					"id": "eMVFXzgGhbNzaQ9Bl",
 					"description": "Silver Coin",
 					"reference": "DFX73",
@@ -3874,11 +3858,11 @@
 					],
 					"value": 20,
 					"weight": "0.02 lb",
-					"quantity": 3,
+					"quantity": 13,
 					"equipped": true,
 					"calc": {
-						"extended_value": 60,
-						"extended_weight": "0.06 lb"
+						"extended_value": 260,
+						"extended_weight": "0.26 lb"
 					}
 				},
 				{
@@ -3900,7 +3884,7 @@
 			],
 			"calc": {
 				"extended_value": 285,
-				"extended_weight": "0.57 lb"
+				"extended_weight": "0.76 lb"
 			}
 		}
 	],

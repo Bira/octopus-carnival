@@ -164,9 +164,9 @@ Basic Move 5 {-5};
 
 **Loadout**
 
-$1000, 21.835kg. Light encumbrance.
+$1000, 22.18kg. Light encumbrance.
 
-- Ordinary Clothing: $120; 1kg.
+- Ordinary Clothing: Free; 1kg.
 - Axe: $150; 2kg.
 - Small Shield: $40; 4kg.
 - Small Knife: Clan dagger. $30, 0.25kg.
@@ -176,7 +176,8 @@ $1000, 21.835kg. Light encumbrance.
   - Holy Symbol: $50; 0.5kg.
   - 4 x Holy Water: $60; 2kg..
 - Pouch: $10, 0.1kg.
-  - Coins: half a gold piece, plus 3 silvers and 15 coppers. $275, 0.185kg.
+  - Coins: 13 silvers and 15 coppers. $275, 0.38kg.
+  - Minor Healing Potion: Heals 1d HP. $120, 0.25kg.
 
 **Combat**
 
