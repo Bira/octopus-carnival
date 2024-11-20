@@ -38,16 +38,15 @@ diabolists. He was an active participant in those efforts and was often sent on
 missions to recover more documents and artifacts.
 
 He happened to be out in one of those missions both when Barzilai Thrune first
-infiltrated the Order, and when he later send a small army to raid and ransack
+infiltrated the Order, and when he later sent a small army to raid and ransack
 its hideout. He's the last remaining full member, and they don't know who he
 is. Luck does indeed favor the fool.
 
-Urist is not just going to lie low, however. Among his colleagues was a noble
-couple of the Victocora family, and he knows they had a son who escaped the
-horrible events of the Night of Ashes. He's going to start by tracking that boy
-down, and then he'll see if they can do something about this asshole in
-power. He maintains his jolly demeanor but beneath that is a core of good
-dwarven steel ready to split some fascist heads.
+Urist is not just going to lie low, however. He knows two of his dead colleagues
+had a son who escaped the horrible events of the Night of Ashes. He's going to
+start by tracking that boy down, and then he'll see if they can do something
+about this asshole in power. He maintains his jolly demeanor but beneath that is
+a core of good dwarven steel ready to split some fascist heads.
 
 ## Notes
 
@@ -73,15 +72,11 @@ we're home. His starting spells and powers do have a bit of that "player read a
 walkthrough before starting" theme to them, as they are all useful for Hell's
 Rebels.
 
-His stats are below, and after this there's a link to download the corresponding
-GURPS Character Sheet file. If operating in metric scale, simply divide his
-Basic Lift and the weight of all his gear by 2 to get the value in kilograms.
-
 ## Urist Störtebeker, 250-point Dwarf Cleric
 
 **ST** 12 {20}; **DX** 12 {40}; **IQ** 14 {80}; **HT**12 {20};
 
-Damage 1d-1/1d+2; Basic Lift 29 lbs.; Will 14; Per 14; FP 12; Basic Speed 6;
+Damage 1d-1/1d+2; Basic Lift 14.5kg lbs.; Will 14; Per 14; FP 12; Basic Speed 6;
 Basic Move 5 {-5};
 
 **Advantages**
@@ -170,17 +165,17 @@ Basic Move 5 {-5};
 
 $1000, 44.91 lbs. Light encumbrance.
 
-- Ordinary Clothing: $120; 2 lb.
-- Axe: $150; 4 lb.
-- Small Shield: $40; 8 lb.
-- Small Knife: Clan dagger. $30, 0.5 lb.
-- Light Cloth Armor Suit: Includes face protection. DR 1; $168, 20.1 lb.
-- Backpack, Small: $60; 3 lb.
-  - First Aid Kit: $50; 2 lb.
-  - Holy Symbol: $50; 1 lb.
-  - 4 x Holy Water: $60; 4 lb.
-- Pouch: $10, 0.2 lb.
-  - Coins: half a gold piece, plus 3 silvers and 2 coppers. $262, 0.11 lb.
+- Ordinary Clothing: $120; 1kg.
+- Axe: $150; 2kg.
+- Small Shield: $40; 4kg.
+- Small Knife: Clan dagger. $30, 0.25kg.
+- Light Cloth Armor Suit: Includes face protection. DR 1; $168, 10.5kg.
+- Backpack, Small: $60; 1.5kg.
+  - First Aid Kit: $50; 1kg.
+  - Holy Symbol: $50; 0.5kg.
+  - 4 x Holy Water: $60; 2kg..
+- Pouch: $10, 0.1kg.
+  - Coins: half a gold piece, plus 3 silvers and 2 coppers. $262, 0.055kg.
 
 **Combat**
 

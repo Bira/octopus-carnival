@@ -13,6 +13,12 @@ significant monster books for the 4th edition of that game.
 I figured it's about time I gave some love to other genres. There's more to life
 than dungeon fantasy, after all. There's also Action!
 
+GURPS Action's "bestiary" consists of a single entry: Man With Gun. All stats at
+10, an appropriate gun skill between 10 and 15, plus a gun and maybe some armor
+drawn from the book's short equipment list. For the nameless opponents that show
+up in most campaigns, this is enough. But some settings, particularly science
+fiction ones, like to get a bit more specific than that.
+
 Mooks of the Multiverse is going to be a series of indeterminate size where each
 post looks at the enemies from a modern or science fiction setting and tries to
 stat them and (more importantly) their gear for GURPS. In this initial post,
@@ -39,41 +45,42 @@ least 1 point of injury after armor. Depending on the setting we're talking
 about, we might need to be a bit more flexible than that. The following rules
 will come up very often:
 
+
 ### Imperial Stormtrooper Marksmanship Academy
 
-Also known as "Mook Marksmanship" in Action. When this rule is in effect,
-minions armed with guns (or beam weapons!) always miss with their first attack
-in the fight. Subsequent attacks are rolled normally.
+**The Rule**: Also known as "Mook Marksmanship" in Action. When this rule is in
+effect, minions armed with guns (or beam weapons!) always miss with their first
+attack in the fight. Subsequent attacks are rolled normally.
 
-The main difference here is that this isn't paired with the Gun Control Law rule
-that prevents minions from shooting at gun-less PCs and makes them easy to
-disarm. The sort of minion we'll look at usually has no trouble in these areas,
-but their aim still sucks even when the PCs _are_ armed.
-
-### Imperial Stormtrooper Armor Training
+**Additional Notes**: The main difference here is that this isn't paired with
+the Gun Control Law rule that prevents minions from shooting at gun-less PCs and
+makes them easy to disarm. The sort of minion we'll look at usually has no
+trouble in these areas, but their aim still sucks even when the PCs _are_ armed.
 
 
-This is a new one! When this rule is in effect, the mook counts as having DR 0
-no matter what kind of armor they might be wearing. Any other benefits the armor
-confers, like built-in communicators or environmental protection, still apply
-normally.
+### Imperial Stormtrooper Armor Drills
 
-This is mainly relevant for science fiction settings, which often feature mooks
-in cool sci-fi armor. The examples of this kind of gear in Ultra-Tech and
-related sources are pretty awesome for PCs, but then end up making minions
-unreasonably tough because getting even 1 point of damage past their DR might
-not be guaranteed.
+**The Rule**: When this rule is in effect, mooks count as having DR 0 no matter
+what kind of armor they might be wearing. Any other benefits the armor confers,
+like built-in communicators or environmental protection, still apply normally.
 
-The traditional solution to this problem usually involves inventing an
-especially crappy tier of armor that only mooks wear, but I think that's too
-much work. If you want your Ewoks to be able to poke your stormtroopers to death
-with pointy sticks, just implement this rule instead. As a bonus, it lets the
-PCs wear the minion's armor and be well-protected.
+**Additional Notes**: This new rule is mainly relevant for science fiction
+settings, which often feature mooks in cool sci-fi armor. It can also be useful
+in modern-day campaigns whose mooks dress in state of the art tacticool
+gear. This sort of protection is pretty awesome for PCs, but can end up making
+mooks too tough if getting that 1 point of damage past DR is no longer
+guaranteed.
 
-This also works well in modern settings where the PCs might frequently face
-mooks wearing state-of-the-art tactical gear. GMs who want to make things just a
-little more challenging might also assign a DR value higher than 0, but lower
-than the armor's real value.
+The traditional solution to this problem is to invent an extra-crappy tier of
+armor that only mooks wear, but that's too much work for a dubious result. Even
+"realistically bad" ultra-tech armor might still offer too much protection if
+you aim to replicate something like the Battle of Endor from Return of the
+Jedi. As a bonus, this rule allows PCs to wear mook armor and be well-protected,
+because it will work normally for them. It also allows the GM to upgrade a mook
+to a Worthy opponent on the spot and make it a bigger threat without changing
+any numbers.
+
+
 
 
 [1]: {{ "/gurps/2017/01/26/minions.html" | relative_url }}

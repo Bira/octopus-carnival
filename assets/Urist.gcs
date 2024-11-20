@@ -1,12 +1,16 @@
 {
-	"type": "character",
-	"version": 4,
-	"id": "768d6dca-8e9b-493f-aa1f-d0f77dbf1af9",
-	"total_points": 250,
+	"version": 5,
+	"id": "AlkrHg7xVUB9sA2x2",
+	"total_points": 259,
 	"points_record": [
 		{
+			"when": "2024-07-16T01:48:54-03:00",
+			"points": 4,
+			"reason": "For success at protest actions"
+		},
+		{
 			"when": "2023-05-26T16:21:14-03:00",
-			"points": 250,
+			"points": 255,
 			"reason": "Initial points"
 		}
 	],
@@ -18,7 +22,7 @@
 		"skin": "Brown",
 		"handedness": "Right",
 		"gender": "Male",
-		"height": "5'7\"",
+		"height": "4'6\"",
 		"weight": "152 lb",
 		"player_name": "Ubiratan Pires Alberton",
 		"tech_level": "3"
@@ -297,7 +301,7 @@
 					"calc": {
 						"roll_range": "3-4",
 						"dr": {
-							"all": 4
+							"all": 3
 						}
 					}
 				},
@@ -455,8 +459,8 @@
 			]
 		},
 		"damage_progression": "basic_set",
-		"default_length_units": "ft_in",
-		"default_weight_units": "lb",
+		"default_length_units": "m",
+		"default_weight_units": "kg",
 		"user_description_display": "tooltip",
 		"modifiers_display": "inline",
 		"notes_display": "inline",
@@ -590,14 +594,12 @@
 	],
 	"traits": [
 		{
-			"id": "b58ea7c6-a937-4796-bfca-ed7a1e394f83",
-			"type": "trait",
+			"id": "tz3W9A4YLJ44B5vUq",
 			"name": "Natural Attacks",
 			"reference": "B271",
 			"weapons": [
 				{
-					"id": "f996feb1-cb29-4ecc-a24d-42e5501460bd",
-					"type": "melee_weapon",
+					"id": "w79SoJbB-ZabwmPyp",
 					"damage": {
 						"type": "cr",
 						"st": "thr",
@@ -605,8 +607,6 @@
 					},
 					"usage": "Bite",
 					"reach": "C",
-					"parry": "No",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "dx"
@@ -618,14 +618,11 @@
 					],
 					"calc": {
 						"level": 12,
-						"parry": "No",
-						"block": "No",
 						"damage": "1d-2 cr"
 					}
 				},
 				{
-					"id": "8fb4937d-7384-475d-96fa-dfa84f0f532e",
-					"type": "melee_weapon",
+					"id": "wMZS9vYLIB2TkFEuh",
 					"damage": {
 						"type": "cr",
 						"st": "thr",
@@ -653,20 +650,18 @@
 					],
 					"calc": {
 						"level": 12,
-						"parry": "10",
-						"damage": "1d-2 cr"
+						"damage": "1d-2 cr",
+						"parry": "10"
 					}
 				},
 				{
-					"id": "6cfcc33e-0932-46fe-b7ed-19c1973bb4be",
-					"type": "melee_weapon",
+					"id": "wXJ6GdQ_71NeZhYaM",
 					"damage": {
 						"type": "cr",
 						"st": "thr"
 					},
 					"usage": "Kick",
 					"reach": "C,1",
-					"parry": "No",
 					"defaults": [
 						{
 							"type": "dx",
@@ -689,7 +684,6 @@
 					],
 					"calc": {
 						"level": 10,
-						"parry": "No",
 						"damage": "1d-1 cr"
 					}
 				}
@@ -699,8 +693,7 @@
 			}
 		},
 		{
-			"id": "1ea78ac1-9248-4ab6-b80b-7e7654294331",
-			"type": "trait",
+			"id": "t9ljkKNkecjrVZy7T",
 			"name": "Clerical Investment",
 			"reference": "DFA22",
 			"tags": [
@@ -713,8 +706,7 @@
 			}
 		},
 		{
-			"id": "c8a43c10-6c75-4278-a317-49361b0ac2ef",
-			"type": "trait",
+			"id": "tbUd5Toyln2_o82if",
 			"name": "Power Investiture",
 			"reference": "DFA20",
 			"tags": [
@@ -722,7 +714,6 @@
 				"Mental",
 				"Supernatural"
 			],
-			"levels": 3,
 			"points_per_level": 10,
 			"features": [
 				{
@@ -737,13 +728,13 @@
 				}
 			],
 			"can_level": true,
+			"levels": 3,
 			"calc": {
 				"points": 30
 			}
 		},
 		{
-			"id": "60726939-971c-47d3-a3fd-a4bca424d038",
-			"type": "trait",
+			"id": "tneE6XszqOFq6MKkx",
 			"name": "Detect Evil",
 			"reference": "DFA20",
 			"tags": [
@@ -758,8 +749,7 @@
 			}
 		},
 		{
-			"id": "69659f54-8309-465d-97bf-93383a974596",
-			"type": "trait",
+			"id": "tvcUeObmmMN7_YUWZ",
 			"name": "Unfazeable",
 			"reference": "DFA53",
 			"tags": [
@@ -772,8 +762,7 @@
 			}
 		},
 		{
-			"id": "67c70578-cf61-4b2d-977e-670d87140a42",
-			"type": "trait",
+			"id": "tKzcMDikcy91DgRMc",
 			"name": "Extra Fatigue Points",
 			"reference": "DFA10",
 			"tags": [
@@ -781,7 +770,6 @@
 				"Attribute",
 				"Physical"
 			],
-			"levels": 2,
 			"points_per_level": 3,
 			"features": [
 				{
@@ -792,20 +780,19 @@
 				}
 			],
 			"can_level": true,
+			"levels": 2,
 			"calc": {
 				"points": 6
 			}
 		},
 		{
-			"id": "445b73a0-551f-405b-85c4-734af6f6d96a",
-			"type": "trait",
+			"id": "tmZP_twC-bFa2xEeo",
 			"name": "Resistant to Poison",
 			"reference": "DFA52",
 			"tags": [
 				"Advantage",
 				"Physical"
 			],
-			"levels": 6,
 			"points_per_level": 1,
 			"features": [
 				{
@@ -816,29 +803,28 @@
 				}
 			],
 			"can_level": true,
+			"levels": 6,
 			"calc": {
 				"points": 6
 			}
 		},
 		{
-			"id": "29fc4c42-e3dc-44a2-a2aa-103e4adbe0c3",
-			"type": "trait",
+			"id": "tdjJ3zyDlfuNp-Xml",
 			"name": "Night Vision",
 			"reference": "DFA51",
 			"tags": [
 				"Advantage",
 				"Physical"
 			],
-			"levels": 5,
 			"points_per_level": 1,
 			"can_level": true,
+			"levels": 5,
 			"calc": {
 				"points": 5
 			}
 		},
 		{
-			"id": "8033c7a1-d067-449b-a550-f2610347bf10",
-			"type": "trait",
+			"id": "tvN94a-VYCNt8raOT",
 			"name": "Feature: Armor not interchangeable with that of humans",
 			"tags": [
 				"Physical"
@@ -848,23 +834,21 @@
 			}
 		},
 		{
-			"id": "1b5b8c6a-a9ef-421d-9099-9085eb0c6780",
-			"type": "trait",
+			"id": "tZ5sxhvHyz6LiVfWY",
 			"name": "Charitable",
 			"reference": "DFA58",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"base_points": -15,
 			"cr": 12,
+			"base_points": -15,
 			"calc": {
 				"points": -15
 			}
 		},
 		{
-			"id": "92e2386f-e37e-4f9d-b71e-cfa1c9a15ff3",
-			"type": "trait",
+			"id": "tYOVKKpwtJ_kPQXrV",
 			"name": "Sense of Duty",
 			"reference": "DFA65",
 			"tags": [
@@ -873,8 +857,7 @@
 			],
 			"modifiers": [
 				{
-					"id": "bf67d00d-db62-4032-8c2d-63f9640d9be1",
-					"type": "modifier",
+					"id": "mTcvgkTMRbQVeN0t0",
 					"name": "Adventuring Companions",
 					"reference": "DFA65",
 					"cost": -5,
@@ -882,8 +865,7 @@
 					"disabled": true
 				},
 				{
-					"id": "3ff23ec1-7b78-418c-a201-c6f44c0c5368",
-					"type": "modifier",
+					"id": "mEvn4Dgbj1ca-Iak0",
 					"name": "Nation",
 					"reference": "DFA65",
 					"cost": -10,
@@ -891,8 +873,7 @@
 					"disabled": true
 				},
 				{
-					"id": "dd089dc1-bcae-4d24-906b-2327304606f6",
-					"type": "modifier",
+					"id": "miiznIWje31GIbDaq",
 					"name": "Coreligionists",
 					"reference": "DFA65",
 					"cost": -10,
@@ -900,16 +881,14 @@
 					"disabled": true
 				},
 				{
-					"id": "b3b84334-3209-4741-bfb9-12533f34d954",
-					"type": "modifier",
+					"id": "mWJdV91_WXiiTM_H9",
 					"name": "Good Entities",
 					"reference": "DFA65",
 					"cost": -10,
 					"cost_type": "points"
 				},
 				{
-					"id": "713e66b9-83a0-47f1-8cf5-192c871f4cb2",
-					"type": "modifier",
+					"id": "mcW__KUC0IjXlAY5f",
 					"name": "Nature",
 					"reference": "DFA66",
 					"cost": -15,
@@ -922,15 +901,13 @@
 			}
 		},
 		{
-			"id": "a6e0cc4f-db6d-4270-9671-08cacaa9afa2",
-			"type": "trait",
+			"id": "tlqBKSSzE0ng1q9p5",
 			"name": "Compulsive Generosity",
 			"reference": "DFA59",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"base_points": -5,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": true,
@@ -946,13 +923,13 @@
 				]
 			},
 			"cr": 12,
+			"base_points": -5,
 			"calc": {
 				"points": -5
 			}
 		},
 		{
-			"id": "b2bed6db-d127-44d8-8991-5962975d9068",
-			"type": "trait",
+			"id": "tmo4Bpf6wDijrKEsq",
 			"name": "Intolerance (\"Evil\" Religions)",
 			"reference": "DFA61",
 			"tags": [
@@ -961,16 +938,14 @@
 			],
 			"modifiers": [
 				{
-					"id": "a357eb70-cbff-45c8-8400-5f42804670ae",
-					"type": "modifier",
+					"id": "mcNWf8XDOr2ucHQuL",
 					"name": "Scope: Targeted",
 					"reference": "DFA61",
 					"cost": -5,
 					"cost_type": "points"
 				},
 				{
-					"id": "0986fb0a-a540-4b15-bdc6-988e37341b04",
-					"type": "modifier",
+					"id": "m8Z5FZhBCrB-nWu9w",
 					"name": "Scope: Broad",
 					"reference": "DFA61",
 					"cost": -10,
@@ -983,53 +958,49 @@
 			}
 		},
 		{
-			"id": "37e400a4-fbdf-48af-b9df-308c774ae4df",
-			"type": "trait",
+			"id": "txaFN_3SlLIheilX_",
 			"name": "Overconfidence",
 			"reference": "DFA64",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"base_points": -5,
 			"cr": 12,
+			"base_points": -5,
 			"calc": {
 				"points": -5
 			}
 		},
 		{
-			"id": "5c17a3e3-daf1-4a4c-859e-f91a59140851",
-			"type": "trait",
+			"id": "t0IB0DxpcGDx3oBqg",
 			"name": "Compulsive Carousing",
 			"reference": "DFA59",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"base_points": -5,
 			"cr": 12,
+			"base_points": -5,
 			"calc": {
 				"points": -5
 			}
 		},
 		{
-			"id": "fded9292-f64a-4dcc-9701-ae791fe1f291",
-			"type": "trait",
+			"id": "tchBPfvXH1tE6pUVM",
 			"name": "Gluttony",
 			"reference": "DFA60",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"base_points": -5,
 			"cr": 12,
+			"base_points": -5,
 			"calc": {
 				"points": -5
 			}
 		},
 		{
-			"id": "4fd3c430-b6fd-4747-b612-346d87110fe5",
-			"type": "trait",
+			"id": "tqpKu4_XBfuUEFNJN",
 			"name": "Language: Common",
 			"reference": "DFA51",
 			"tags": [
@@ -1039,16 +1010,14 @@
 			],
 			"modifiers": [
 				{
-					"id": "f606db72-95c0-450d-ad7f-7b423de10f96",
-					"type": "modifier",
+					"id": "mF0yRQ2ZdAnAuRgCQ",
 					"name": "Native",
 					"reference": "B23",
 					"cost": -6,
 					"cost_type": "points"
 				},
 				{
-					"id": "d74bdce8-8392-46ea-af3a-3b3f7f6adddb",
-					"type": "modifier",
+					"id": "mb2x_-_9TFpldk3D9",
 					"name": "Spoken",
 					"reference": "B24",
 					"notes": "None",
@@ -1056,8 +1025,7 @@
 					"disabled": true
 				},
 				{
-					"id": "ea95e1e9-215f-4e77-89f3-a57a697ba951",
-					"type": "modifier",
+					"id": "mXMHfNXWdKk7H5Ua7",
 					"name": "Spoken",
 					"reference": "B24",
 					"notes": "Native",
@@ -1065,8 +1033,7 @@
 					"cost_type": "points"
 				},
 				{
-					"id": "19204a90-93ea-4e95-b18d-9e6648854330",
-					"type": "modifier",
+					"id": "mEVbfwGiLQRjXdmtP",
 					"name": "Written",
 					"reference": "B24",
 					"notes": "None",
@@ -1074,8 +1041,7 @@
 					"disabled": true
 				},
 				{
-					"id": "458ced2f-a0e3-404b-9708-ad30373ab40e",
-					"type": "modifier",
+					"id": "mre9zdADhX6giN0ZV",
 					"name": "Written",
 					"reference": "B24",
 					"notes": "Native",
@@ -1090,8 +1056,7 @@
 	],
 	"skills": [
 		{
-			"id": "50538f7c-087c-4010-b054-df05e6360050",
-			"type": "skill",
+			"id": "s7AldPkug5TMJccgk",
 			"name": "Axe/Mace",
 			"reference": "DFA81",
 			"tags": [
@@ -1100,14 +1065,6 @@
 				"Weapon"
 			],
 			"difficulty": "dx/a",
-			"points": 8,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -5,
-				"level": 7,
-				"adjusted_level": 7,
-				"points": -7
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -1124,28 +1081,27 @@
 					"modifier": -4
 				}
 			],
+			"points": 8,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -5,
+				"level": 7,
+				"adjusted_level": 7,
+				"points": -7
+			},
 			"calc": {
 				"level": 14,
 				"rsl": "DX+2"
 			}
 		},
 		{
-			"id": "2425f82c-51ae-4174-8c4b-6a872fb2679b",
-			"type": "skill",
+			"id": "sx0xPh7waTFEOzXJI",
 			"name": "Diagnosis",
 			"reference": "DFA75",
 			"tags": [
 				"Medical"
 			],
 			"difficulty": "iq/h",
-			"points": 1,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -6,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1167,14 +1123,21 @@
 					"modifier": -5
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "IQ-2"
 			}
 		},
 		{
-			"id": "9b9e1680-7217-4533-b393-1d49fbd11c8a",
-			"type": "skill",
+			"id": "sXlvkqm7owIoqhpWr",
 			"name": "Esoteric Medicine",
 			"reference": "DFA22",
 			"tags": [
@@ -1183,6 +1146,12 @@
 			],
 			"specialization": "Holy",
 			"difficulty": "per/h",
+			"defaults": [
+				{
+					"type": "per",
+					"modifier": -6
+				}
+			],
 			"points": 4,
 			"defaulted_from": {
 				"type": "per",
@@ -1191,20 +1160,13 @@
 				"adjusted_level": 8,
 				"points": -8
 			},
-			"defaults": [
-				{
-					"type": "per",
-					"modifier": -6
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "Per+0"
 			}
 		},
 		{
-			"id": "4ee3b5f8-abe4-4ca3-a0ed-b7218b4c8f4b",
-			"type": "skill",
+			"id": "sWJ7oqezF5H3mevnP",
 			"name": "Exorcism",
 			"reference": "DFA22",
 			"tags": [
@@ -1212,15 +1174,6 @@
 				"Occult"
 			],
 			"difficulty": "will/h",
-			"points": 4,
-			"defaulted_from": {
-				"type": "skill",
-				"name": "Religious Ritual",
-				"modifier": -3,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "will",
@@ -1242,14 +1195,22 @@
 					"modifier": -3
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Religious Ritual",
+				"modifier": -3,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 14,
 				"rsl": "Will+0"
 			}
 		},
 		{
-			"id": "790ead8c-b971-4bfc-a5ec-0bc61c63082a",
-			"type": "skill",
+			"id": "sBldNfORhOreb5pE5",
 			"name": "First Aid",
 			"reference": "DFA76",
 			"tags": [
@@ -1257,15 +1218,6 @@
 				"Medical"
 			],
 			"difficulty": "iq/e",
-			"points": 1,
-			"defaulted_from": {
-				"type": "skill",
-				"name": "Esoteric Medicine",
-				"specialization": "Holy",
-				"level": 14,
-				"adjusted_level": 14,
-				"points": 1
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1285,20 +1237,34 @@
 					"modifier": -4
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Esoteric Medicine",
+				"specialization": "Holy",
+				"level": 14,
+				"adjusted_level": 14,
+				"points": 1
+			},
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "b924279e-9467-4c7e-b03a-08923b3e457b",
-			"type": "skill",
+			"id": "s_msMN3ZRFqt1zP3r",
 			"name": "Gesture",
 			"reference": "DFA77",
 			"tags": [
 				"Social"
 			],
 			"difficulty": "iq/e",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "iq",
@@ -1307,20 +1273,13 @@
 				"adjusted_level": 10,
 				"points": -10
 			},
-			"defaults": [
-				{
-					"type": "iq",
-					"modifier": -4
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "IQ+0"
 			}
 		},
 		{
-			"id": "5a8f11a2-c2a2-449d-9803-d0821f4b07fa",
-			"type": "skill",
+			"id": "s9-XA2APoQSCzfTos",
 			"name": "Hidden Lore",
 			"reference": "DFA78",
 			"tags": [
@@ -1335,8 +1294,7 @@
 			}
 		},
 		{
-			"id": "e8057b50-efe7-4e2e-b17d-ccc6d9d9ae9f",
-			"type": "skill",
+			"id": "smiv_XS4IvXo4CVEJ",
 			"name": "Hiking",
 			"reference": "DFA78",
 			"tags": [
@@ -1345,6 +1303,12 @@
 				"Outdoor"
 			],
 			"difficulty": "ht/a",
+			"defaults": [
+				{
+					"type": "ht",
+					"modifier": -5
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "ht",
@@ -1353,20 +1317,13 @@
 				"adjusted_level": 7,
 				"points": -7
 			},
-			"defaults": [
-				{
-					"type": "ht",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 11,
 				"rsl": "HT-1"
 			}
 		},
 		{
-			"id": "23420aad-9174-41f6-93fd-44422d5f3670",
-			"type": "skill",
+			"id": "sKN5KFCqEyYkfr2lG",
 			"name": "Innate Attack",
 			"reference": "DFA79",
 			"tags": [
@@ -1376,14 +1333,6 @@
 			],
 			"specialization": "Projectile",
 			"difficulty": "dx/e",
-			"points": 4,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -4,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -1395,28 +1344,27 @@
 					"modifier": -2
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -4,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 14,
 				"rsl": "DX+2"
 			}
 		},
 		{
-			"id": "915cfefa-1db6-4e9a-b1d3-0e2873e8cc06",
-			"type": "skill",
+			"id": "s23-BlJXsQ7UDk5Nf",
 			"name": "Meditation",
 			"reference": "DFA80",
 			"tags": [
 				"Esoteric"
 			],
 			"difficulty": "will/h",
-			"points": 1,
-			"defaulted_from": {
-				"type": "will",
-				"modifier": -6,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "will",
@@ -1428,14 +1376,21 @@
 					"modifier": -4
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "will",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "Will-2"
 			}
 		},
 		{
-			"id": "ff71779c-5c4c-4dde-a527-88ed2491cdc8",
-			"type": "skill",
+			"id": "s8fej2FwF1GOmwlNt",
 			"name": "Observation",
 			"reference": "DFA84",
 			"tags": [
@@ -1446,14 +1401,6 @@
 				"Street"
 			],
 			"difficulty": "per/a",
-			"points": 1,
-			"defaulted_from": {
-				"type": "per",
-				"modifier": -5,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "per",
@@ -1465,14 +1412,21 @@
 					"modifier": -5
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "per",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 13,
 				"rsl": "Per-1"
 			}
 		},
 		{
-			"id": "df4930ec-0a75-41f2-8466-385924dca032",
-			"type": "skill",
+			"id": "svMhZt7bk6zL-L7ix",
 			"name": "Occultism",
 			"reference": "DFA84",
 			"tags": [
@@ -1480,6 +1434,12 @@
 				"Occult"
 			],
 			"difficulty": "iq/a",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "iq",
@@ -1488,20 +1448,13 @@
 				"adjusted_level": 9,
 				"points": -9
 			},
-			"defaults": [
-				{
-					"type": "iq",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 13,
 				"rsl": "IQ-1"
 			}
 		},
 		{
-			"id": "74bdb15e-0c33-42c7-af2b-92bb3a56d306",
-			"type": "skill",
+			"id": "sz0v_5XIYYv_KXwuj",
 			"name": "Public Speaking",
 			"reference": "DFA86",
 			"tags": [
@@ -1510,14 +1463,6 @@
 				"Social"
 			],
 			"difficulty": "iq/a",
-			"points": 1,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -5,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1539,14 +1484,21 @@
 					"modifier": -5
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 13,
 				"rsl": "IQ-1"
 			}
 		},
 		{
-			"id": "8c38f13f-366d-4312-a192-bc4306ea0108",
-			"type": "skill",
+			"id": "sA5p7bnLlz8aAXv2z",
 			"name": "Religious Ritual",
 			"reference": "DFA86",
 			"tags": [
@@ -1554,15 +1506,6 @@
 				"Occult"
 			],
 			"difficulty": "iq/h",
-			"points": 1,
-			"defaulted_from": {
-				"type": "skill",
-				"name": "Theology",
-				"modifier": -4,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "skill",
@@ -1575,14 +1518,22 @@
 					"modifier": -4
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "Theology",
+				"modifier": -4,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "IQ-2"
 			}
 		},
 		{
-			"id": "7dc02129-4785-4c90-8227-5b9ebb1f227d",
-			"type": "skill",
+			"id": "s4T8NNI8fFKYi-wmI",
 			"name": "Research",
 			"reference": "DFA86",
 			"tags": [
@@ -1590,14 +1541,6 @@
 				"Spy"
 			],
 			"difficulty": "iq/a",
-			"points": 1,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -5,
-				"level": 9,
-				"adjusted_level": 9,
-				"points": -9
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1675,14 +1618,21 @@
 					}
 				]
 			},
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -5,
+				"level": 9,
+				"adjusted_level": 9,
+				"points": -9
+			},
 			"calc": {
 				"level": 13,
 				"rsl": "IQ-1"
 			}
 		},
 		{
-			"id": "d9b24542-a676-4306-a28e-f93e7d4eba48",
-			"type": "skill",
+			"id": "s71o-G9SuLv5-ntxr",
 			"name": "Savoir-Faire",
 			"reference": "DFA87",
 			"tags": [
@@ -1691,6 +1641,12 @@
 				"Social"
 			],
 			"difficulty": "iq/e",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -4
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "iq",
@@ -1699,20 +1655,13 @@
 				"adjusted_level": 10,
 				"points": -10
 			},
-			"defaults": [
-				{
-					"type": "iq",
-					"modifier": -4
-				}
-			],
 			"calc": {
 				"level": 14,
 				"rsl": "IQ+0"
 			}
 		},
 		{
-			"id": "4e3df474-826f-4b12-a78d-2d105ef3f6c3",
-			"type": "skill",
+			"id": "s_gvcHybpabNQGuAi",
 			"name": "Shield",
 			"reference": "DFA88",
 			"tags": [
@@ -1722,14 +1671,6 @@
 			],
 			"specialization": "Shield",
 			"difficulty": "dx/e",
-			"points": 4,
-			"defaulted_from": {
-				"type": "dx",
-				"modifier": -4,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "dx",
@@ -1741,29 +1682,27 @@
 					"modifier": -2
 				}
 			],
+			"points": 4,
+			"defaulted_from": {
+				"type": "dx",
+				"modifier": -4,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 14,
 				"rsl": "DX+2"
 			}
 		},
 		{
-			"id": "4f0ca77e-b1f7-45ef-93fa-61e70645feec",
-			"type": "skill",
+			"id": "stJEyJaK9Vu1DMY2Z",
 			"name": "Surgery",
 			"reference": "DFA90",
 			"tags": [
 				"Medical"
 			],
 			"difficulty": "iq/vh",
-			"points": 2,
-			"defaulted_from": {
-				"type": "skill",
-				"name": "First Aid",
-				"modifier": -12,
-				"level": 3,
-				"adjusted_level": 3,
-				"points": -3
-			},
 			"defaults": [
 				{
 					"type": "skill",
@@ -1808,14 +1747,22 @@
 					}
 				]
 			},
+			"points": 2,
+			"defaulted_from": {
+				"type": "skill",
+				"name": "First Aid",
+				"modifier": -12,
+				"level": 3,
+				"adjusted_level": 3,
+				"points": -3
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "IQ-2"
 			}
 		},
 		{
-			"id": "75e9dacd-8302-4907-a395-669e594435dc",
-			"type": "skill",
+			"id": "s5yAg4hgQS8wsTSvy",
 			"name": "Teaching",
 			"reference": "DFA91",
 			"tags": [
@@ -1823,6 +1770,12 @@
 				"Social"
 			],
 			"difficulty": "iq/a",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
 			"points": 1,
 			"defaulted_from": {
 				"type": "iq",
@@ -1831,20 +1784,13 @@
 				"adjusted_level": 9,
 				"points": -9
 			},
-			"defaults": [
-				{
-					"type": "iq",
-					"modifier": -5
-				}
-			],
 			"calc": {
 				"level": 13,
 				"rsl": "IQ-1"
 			}
 		},
 		{
-			"id": "a60e52be-5093-4856-a3a9-75dc33fa0dde",
-			"type": "skill",
+			"id": "sUtHLbUOlLHPbqamo",
 			"name": "Theology",
 			"reference": "DFA91",
 			"tags": [
@@ -1852,14 +1798,6 @@
 				"Social Sciences"
 			],
 			"difficulty": "iq/h",
-			"points": 1,
-			"defaulted_from": {
-				"type": "iq",
-				"modifier": -6,
-				"level": 8,
-				"adjusted_level": 8,
-				"points": -8
-			},
 			"defaults": [
 				{
 					"type": "iq",
@@ -1871,6 +1809,14 @@
 					"modifier": -4
 				}
 			],
+			"points": 1,
+			"defaulted_from": {
+				"type": "iq",
+				"modifier": -6,
+				"level": 8,
+				"adjusted_level": 8,
+				"points": -8
+			},
 			"calc": {
 				"level": 12,
 				"rsl": "IQ-2"
@@ -1879,8 +1825,7 @@
 	],
 	"spells": [
 		{
-			"id": "cee97129-3f9c-4fe9-8138-5c3531295d50",
-			"type": "spell",
+			"id": "ptdh5bzyz7ahL6dQx",
 			"name": "Light",
 			"reference": "DFS47",
 			"tags": [
@@ -1898,7 +1843,6 @@
 			"maintenance_cost": "1",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -1925,14 +1869,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "46ec8b0a-ff9c-49a8-a564-fc36ac88c42e",
-			"type": "spell",
+			"id": "pV9YdOyGEDTjxRwUr",
 			"name": "Continual Light",
 			"reference": "DFS46",
 			"tags": [
@@ -1950,7 +1894,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "1 sec",
 			"duration": "2d days",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -1996,14 +1939,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "800cb989-eb91-41fa-9826-965b09cc03cd",
-			"type": "spell",
+			"id": "p4FEGJcv5FN51oM0Z",
 			"name": "Glow",
 			"reference": "DFS46",
 			"tags": [
@@ -2021,7 +1964,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "Varies",
 			"duration": "2d days",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2067,14 +2009,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "446fa6eb-c09b-4821-bffe-fb091b91c78e",
-			"type": "spell",
+			"id": "pOOXlncVXLeMyeE7M",
 			"name": "Sunlight",
 			"reference": "DFS48",
 			"tags": [
@@ -2093,7 +2035,6 @@
 			"maintenance_cost": "Half",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2168,14 +2109,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "bf1e7718-fe65-494b-9dce-b1b5a1ec66e5",
-			"type": "spell",
+			"id": "psCV7a-kdUo8HDRUx",
 			"name": "Sunbolt",
 			"reference": "DFS48",
 			"tags": [
@@ -2193,7 +2134,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "1-3 sec",
 			"duration": "Instant",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2254,8 +2194,7 @@
 			},
 			"weapons": [
 				{
-					"id": "39a4efea-84df-411e-a7cd-dbc6694a90e1",
-					"type": "ranged_weapon",
+					"id": "WJ_xSWiB1xGhnxQk2",
 					"damage": {
 						"type": "burn/point",
 						"base": "1d"
@@ -2275,19 +2214,18 @@
 					],
 					"calc": {
 						"level": 14,
-						"range": "75/150",
 						"damage": "1d burn/point"
 					}
 				}
 			],
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "b777eaa5-0199-42ab-bb40-7b58a9c982d1",
-			"type": "spell",
+			"id": "pM_Rc1mDyaTHG-d3w",
 			"name": "Armor",
 			"reference": "DFS63",
 			"tags": [
@@ -2305,7 +2243,6 @@
 			"maintenance_cost": "Half",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2351,14 +2288,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "2b64c508-c890-4a9c-8b3a-bd08ddc96a1c",
-			"type": "spell",
+			"id": "pKVJWfQi9caQQGGfg",
 			"name": "Shield",
 			"reference": "DFS65",
 			"tags": [
@@ -2376,7 +2313,6 @@
 			"maintenance_cost": "Half",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2407,14 +2343,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "fac7aedb-8eb0-43ba-9830-f51ecf1608b7",
-			"type": "spell",
+			"id": "pdgX6sybyys3USuyv",
 			"name": "Breathe Water",
 			"reference": "DFS68",
 			"tags": [
@@ -2435,7 +2371,6 @@
 			"maintenance_cost": "2",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2506,14 +2441,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "42d38243-ba8f-4e81-8e38-1f34dd1a746d",
-			"type": "spell",
+			"id": "pTBS_3wNQd3HiwrtI",
 			"name": "Affect Spirits",
 			"reference": "DFS59",
 			"tags": [
@@ -2530,7 +2465,6 @@
 			"maintenance_cost": "2",
 			"casting_time": "2 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2549,14 +2483,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "ac0816eb-4b0e-4ba5-ade0-083526534de0",
-			"type": "spell",
+			"id": "ppg7KnPZrSnYQDJ70",
 			"name": "See Secrets",
 			"reference": "DFS44",
 			"tags": [
@@ -2575,7 +2509,6 @@
 			"maintenance_cost": "2",
 			"casting_time": "5 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2648,14 +2581,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "31fa89b2-edd6-4167-bbaf-a89872f96bed",
-			"type": "spell",
+			"id": "p_X2CALYyz-PRw3Jy",
 			"name": "Resist Fire",
 			"reference": "DFS31",
 			"tags": [
@@ -2673,7 +2606,6 @@
 			"maintenance_cost": "Half",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2719,14 +2651,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "4bf014a3-aecc-4f1d-a619-b8b9b596f939",
-			"type": "spell",
+			"id": "pK5Fc0ynSBHw-tmkq",
 			"name": "Cleansing",
 			"reference": "DFS36",
 			"tags": [
@@ -2743,7 +2675,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "3 sec",
 			"duration": "Permanent",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2762,14 +2693,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "43556758-f5e2-46d9-aa4f-a3e551be9ebe",
-			"type": "spell",
+			"id": "p1YVQNz0fVitYe2UQ",
 			"name": "Cure Disease",
 			"reference": "DFS36",
 			"tags": [
@@ -2787,7 +2718,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "10 min",
 			"duration": "Permanent",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2818,14 +2748,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "3ffe1847-690c-4bf8-8ebd-aa2b4d728713",
-			"type": "spell",
+			"id": "pMEhdSlqwUFGTauDy",
 			"name": "Major Healing",
 			"reference": "DFS37",
 			"tags": [
@@ -2842,7 +2772,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "1 sec",
 			"duration": "Permanent",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2861,14 +2790,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 14,
 				"rsl": "IQ+0"
 			}
 		},
 		{
-			"id": "f912b132-5aae-44bd-81e0-2ddee508ebbb",
-			"type": "spell",
+			"id": "pwyYp4s6w65V18ZlX",
 			"name": "Minor Healing",
 			"reference": "DFS37",
 			"tags": [
@@ -2885,7 +2814,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "1 sec",
 			"duration": "Permanent",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2904,14 +2832,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "bcfd2b6f-6b97-407c-a953-b7ef046e1421",
-			"type": "spell",
+			"id": "p1Xo3_TNm5Ss5CGr1",
 			"name": "Recover Energy",
 			"reference": "DFS38",
 			"tags": [
@@ -2932,7 +2860,6 @@
 			"maintenance_cost": "0",
 			"casting_time": "1 sec",
 			"duration": "Special",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -2994,14 +2921,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "6c1ca7b9-a9eb-44f8-9da3-2763ecb39bc8",
-			"type": "spell",
+			"id": "prFBvsedpnbobx84u",
 			"name": "Resist Disease",
 			"reference": "DFS38",
 			"tags": [
@@ -3020,7 +2947,6 @@
 			"maintenance_cost": "3",
 			"casting_time": "10 sec",
 			"duration": "1 hr",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -3039,14 +2965,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "971a5544-9136-421d-9ab5-75d62b3813af",
-			"type": "spell",
+			"id": "p_NJhrEFB7t09cpXu",
 			"name": "Resist Poison",
 			"reference": "DFS38",
 			"tags": [
@@ -3065,7 +2991,6 @@
 			"maintenance_cost": "3",
 			"casting_time": "10 sec",
 			"duration": "1 Hour",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": true,
@@ -3084,14 +3009,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "42d76b5d-1746-468d-af1f-7a775b017e03",
-			"type": "spell",
+			"id": "pVr7SxjS3MpnpK2Nd",
 			"name": "Resist Lightning",
 			"reference": "DFS72",
 			"tags": [
@@ -3114,7 +3039,6 @@
 			"maintenance_cost": "1",
 			"casting_time": "1 sec",
 			"duration": "1 min",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -3172,14 +3096,14 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
 			}
 		},
 		{
-			"id": "aba1e2cc-f54f-4cf7-9053-5e449416eeb0",
-			"type": "spell",
+			"id": "pVLM3Rs0RKitUniDC",
 			"name": "Lend Energy",
 			"reference": "DFS37",
 			"tags": [
@@ -3199,7 +3123,6 @@
 			"maintenance_cost": "-",
 			"casting_time": "1 sec",
 			"duration": "Permanent",
-			"points": 1,
 			"prereqs": {
 				"type": "prereq_list",
 				"all": false,
@@ -3230,6 +3153,7 @@
 					}
 				]
 			},
+			"points": 1,
 			"calc": {
 				"level": 15,
 				"rsl": "IQ+1"
@@ -3238,16 +3162,15 @@
 	],
 	"equipment": [
 		{
-			"id": "938e4490-2dc3-4077-ab5a-01c57a17e42c",
-			"type": "equipment",
+			"id": "ejiItlWtWutr-5zVU",
 			"description": "Clothing",
 			"reference": "DFA110",
 			"tags": [
 				"Clothes"
 			],
-			"quantity": 1,
 			"value": 120,
 			"weight": "2 lb",
+			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"extended_value": 120,
@@ -3255,30 +3178,17 @@
 			}
 		},
 		{
-			"id": "7dc45275-8f71-4b03-9894-b88068750379",
-			"type": "equipment",
+			"id": "e9EjcC9f7Ooun0eh1",
 			"description": "Axe",
 			"reference": "DFA98",
 			"tags": [
 				"Melee Weapon"
 			],
-			"modifiers": [
-				{
-					"id": "528470d4-04a5-444a-892d-942a0c7b2cdf",
-					"type": "eqp_modifier",
-					"name": "Silver-Coated",
-					"reference": "DFA106",
-					"cost_type": "to_base_cost",
-					"cost": "+2 CF"
-				}
-			],
-			"quantity": 1,
 			"value": 50,
 			"weight": "4 lb",
 			"weapons": [
 				{
-					"id": "cc6fbbef-1590-4ee7-94a4-3ddb2de38560",
-					"type": "melee_weapon",
+					"id": "wnQxEci7dEhCJkkmb",
 					"damage": {
 						"type": "cut",
 						"st": "sw",
@@ -3288,7 +3198,6 @@
 					"usage": "Swung",
 					"reach": "1",
 					"parry": "0U",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "dx",
@@ -3311,12 +3220,21 @@
 					],
 					"calc": {
 						"level": 14,
-						"parry": "11U",
-						"block": "No",
-						"damage": "1d+4 cut"
+						"damage": "1d+4 cut",
+						"parry": "11U"
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fIFtO_JBceDKJavLC",
+					"name": "Silver-Coated",
+					"reference": "DFA106",
+					"cost_type": "to_base_cost",
+					"cost": "+2 CF"
+				}
+			],
+			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"extended_value": 150,
@@ -3324,29 +3242,24 @@
 			}
 		},
 		{
-			"id": "5086bbc5-b305-4a4b-a3e1-d195a35ffa78",
-			"type": "equipment",
+			"id": "eLO39PQLiCEFQAN5c",
 			"description": "Small Shield",
 			"reference": "DFA107",
 			"tags": [
 				"Shield"
 			],
-			"quantity": 1,
 			"value": 40,
 			"weight": "8 lb",
 			"weapons": [
 				{
-					"id": "5dbde943-eb88-4f82-a312-b4c4a9adf64d",
-					"type": "melee_weapon",
+					"id": "wg7bMI-J02bcyKHrb",
 					"damage": {
 						"type": "cr",
 						"st": "thr"
 					},
-					"strength": "0",
 					"usage": "Shield Bash",
 					"reach": "1",
-					"parry": "No",
-					"block": "+0",
+					"block": "0",
 					"defaults": [
 						{
 							"type": "dx",
@@ -3372,9 +3285,8 @@
 					],
 					"calc": {
 						"level": 14,
-						"parry": "No",
-						"block": "11",
-						"damage": "1d-1 cr"
+						"damage": "1d-1 cr",
+						"block": "11"
 					}
 				}
 			],
@@ -3395,6 +3307,7 @@
 					"amount": 1
 				}
 			],
+			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"extended_value": 40,
@@ -3402,21 +3315,18 @@
 			}
 		},
 		{
-			"id": "3c2b2f71-d00c-45fb-aa54-ce03e43aa5ab",
-			"type": "equipment",
+			"id": "eBnQYsDqoc4y8Ygep",
 			"description": "Small Knife",
 			"reference": "DFA100",
 			"tags": [
 				"Melee Weapon",
 				"Missile Weapon"
 			],
-			"quantity": 1,
 			"value": 30,
 			"weight": "0.5 lb",
 			"weapons": [
 				{
-					"id": "02b9f1dd-8c01-4f29-8749-803bd65474c2",
-					"type": "melee_weapon",
+					"id": "wHKtDXskuTMkAMCAK",
 					"damage": {
 						"type": "cut",
 						"st": "sw",
@@ -3426,7 +3336,6 @@
 					"usage": "Swung",
 					"reach": "C,1",
 					"parry": "-1",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "dx",
@@ -3458,14 +3367,12 @@
 					],
 					"calc": {
 						"level": 8,
-						"parry": "7",
-						"block": "No",
-						"damage": "1d-1 cut"
+						"damage": "1d-1 cut",
+						"parry": "7"
 					}
 				},
 				{
-					"id": "18c44ca0-5219-4a62-9c05-8225fbe897ab",
-					"type": "melee_weapon",
+					"id": "wA1XZKA9y73H3Iuol",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -3475,7 +3382,6 @@
 					"usage": "Thrust",
 					"reach": "C",
 					"parry": "-1",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "dx",
@@ -3507,14 +3413,12 @@
 					],
 					"calc": {
 						"level": 8,
-						"parry": "7",
-						"block": "No",
-						"damage": "1d-2 imp"
+						"damage": "1d-2 imp",
+						"parry": "7"
 					}
 				},
 				{
-					"id": "470df1ec-3d6a-4cce-b935-68f7778505e4",
-					"type": "melee_weapon",
+					"id": "w5LeHUPpLKAPKpefL",
 					"damage": {
 						"type": "cut",
 						"st": "sw",
@@ -3524,7 +3428,6 @@
 					"usage": "Swung Main-Gauche",
 					"reach": "C,1",
 					"parry": "0F",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "skill",
@@ -3562,14 +3465,12 @@
 					],
 					"calc": {
 						"level": 6,
-						"parry": "6F",
-						"block": "No",
-						"damage": "1d-1 cut"
+						"damage": "1d-1 cut",
+						"parry": "6F"
 					}
 				},
 				{
-					"id": "ff384c78-38a5-4c86-a193-291071ffcd84",
-					"type": "melee_weapon",
+					"id": "w-e04A1lChL9ycXwK",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -3579,7 +3480,6 @@
 					"usage": "Thrust Main-Gauche",
 					"reach": "C",
 					"parry": "0F",
-					"block": "No",
 					"defaults": [
 						{
 							"type": "dx",
@@ -3617,14 +3517,12 @@
 					],
 					"calc": {
 						"level": 6,
-						"parry": "6F",
-						"block": "No",
-						"damage": "1d-2 imp"
+						"damage": "1d-2 imp",
+						"parry": "6F"
 					}
 				},
 				{
-					"id": "658b1f89-4a19-43ea-b52e-e10778ef4f6a",
-					"type": "ranged_weapon",
+					"id": "WgHX4yU1RhBfHJD-l",
 					"damage": {
 						"type": "imp",
 						"st": "thr",
@@ -3632,10 +3530,9 @@
 					},
 					"strength": "5",
 					"usage": "Thrown",
-					"accuracy": "+0",
 					"range": "x0.5/x1",
 					"rate_of_fire": "1",
-					"shots": "T(1)",
+					"shots": "T",
 					"bulk": "-1",
 					"defaults": [
 						{
@@ -3650,217 +3547,19 @@
 					],
 					"calc": {
 						"level": 8,
-						"range": "6/12",
-						"damage": "1d-2 imp"
+						"damage": "1d-2 imp",
+						"range": "6/12"
 					}
 				}
 			],
+			"quantity": 1,
 			"calc": {
 				"extended_value": 30,
 				"extended_weight": "0.5 lb"
 			}
 		},
 		{
-			"id": "e7062eb8-606f-4a9a-8ff2-cbb7751c278d",
-			"type": "equipment_container",
-			"open": true,
-			"children": [
-				{
-					"id": "ba41eed6-dc45-4e2d-b703-5884cd3474b3",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Body Armor",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Body Armor"
-					],
-					"quantity": 1,
-					"value": 53,
-					"weight": "6.3 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "torso",
-							"amount": 1
-						},
-						{
-							"type": "dr_bonus",
-							"location": "vitals",
-							"amount": 1
-						},
-						{
-							"type": "dr_bonus",
-							"location": "neck",
-							"amount": 1
-						},
-						{
-							"type": "dr_bonus",
-							"location": "groin",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 53,
-						"extended_weight": "6.3 lb"
-					}
-				},
-				{
-					"id": "da9a0cf0-349c-42e0-9de2-8c257755cd6a",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Boots",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Footwear"
-					],
-					"quantity": 1,
-					"value": 17,
-					"weight": "2.1 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "foot",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 17,
-						"extended_weight": "2.1 lb"
-					}
-				},
-				{
-					"id": "5398da02-2319-49dd-acdc-52850b8cd6ff",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Gloves",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Gloves"
-					],
-					"quantity": 1,
-					"value": 5,
-					"weight": "0.6 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "hand",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 5,
-						"extended_weight": "0.6 lb"
-					}
-				},
-				{
-					"id": "2d6986f7-aa57-4db0-aea7-d40091c091b5",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Helmet",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Headgear"
-					],
-					"quantity": 1,
-					"value": 13,
-					"weight": "1.5 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "skull",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 13,
-						"extended_weight": "1.5 lb"
-					}
-				},
-				{
-					"id": "3a0a9bf3-615e-43cd-a4e1-2c136141acd7",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Helmet (Full Face)",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Headgear"
-					],
-					"quantity": 1,
-					"value": 18,
-					"weight": "2.1 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "skull",
-							"amount": 1
-						},
-						{
-							"type": "dr_bonus",
-							"location": "face",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 18,
-						"extended_weight": "2.1 lb"
-					}
-				},
-				{
-					"id": "aab45521-26dd-4530-ac71-b3c3d474def9",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Leggings",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Limb Armor"
-					],
-					"quantity": 1,
-					"value": 37,
-					"weight": "4.5 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "leg",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 37,
-						"extended_weight": "4.5 lb"
-					}
-				},
-				{
-					"id": "bc25212d-8ae3-45cc-a5ad-6de8a95cd61d",
-					"type": "equipment",
-					"description": "Light Cloth, Leather, or Fur Sleeves",
-					"reference": "DFA108",
-					"tags": [
-						"Armor",
-						"Limb Armor"
-					],
-					"quantity": 1,
-					"value": 25,
-					"weight": "3 lb",
-					"features": [
-						{
-							"type": "dr_bonus",
-							"location": "arm",
-							"amount": 1
-						}
-					],
-					"equipped": true,
-					"calc": {
-						"extended_value": 25,
-						"extended_weight": "3 lb"
-					}
-				}
-			],
+			"id": "Ejr_rthe85DBJSbMA",
 			"description": "Light Cloth, Leather, or Fur Suit",
 			"reference": "DFA108",
 			"tags": [
@@ -3868,77 +3567,205 @@
 			],
 			"quantity": 1,
 			"equipped": true,
-			"calc": {
-				"extended_value": 168,
-				"extended_weight": "20.1 lb"
-			}
-		},
-		{
-			"id": "f9e67cf9-2653-4e98-9ddf-47467b6a1611",
-			"type": "equipment_container",
-			"open": true,
 			"children": [
 				{
-					"id": "7a78019a-61ca-402a-b0c7-9c9a11bd8413",
-					"type": "equipment",
-					"description": "First Aid Kit",
-					"reference": "DFA111",
-					"notes": "+1 to First Aid",
+					"id": "e8DkRa7zd-0_oLjwt",
+					"description": "Light Cloth, Leather, or Fur Body Armor",
+					"reference": "DFA108",
 					"tags": [
-						"Medical Gear"
+						"Armor",
+						"Body Armor"
+					],
+					"value": 53,
+					"weight": "6.3 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 1
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 1
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"neck"
+							],
+							"amount": 1
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 1
+						}
 					],
 					"quantity": 1,
-					"value": 50,
-					"weight": "2 lb",
 					"equipped": true,
 					"calc": {
-						"extended_value": 50,
-						"extended_weight": "2 lb"
+						"extended_value": 53,
+						"extended_weight": "6.3 lb"
 					}
 				},
 				{
-					"id": "1cbcf618-5c7c-4d42-a43d-d2c43e4e7858",
-					"type": "equipment",
-					"description": "Holy Symbol",
-					"reference": "DFA114",
+					"id": "eAvzgCaG8vvhv_u9v",
+					"description": "Light Cloth, Leather, or Fur Boots",
+					"reference": "DFA108",
 					"tags": [
-						"Esoteric Supplies"
+						"Armor",
+						"Footwear"
+					],
+					"value": 17,
+					"weight": "2.1 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"foot"
+							],
+							"amount": 1
+						}
 					],
 					"quantity": 1,
-					"value": 50,
-					"weight": "1 lb",
 					"equipped": true,
 					"calc": {
-						"extended_value": 50,
-						"extended_weight": "1 lb"
+						"extended_value": 17,
+						"extended_weight": "2.1 lb"
 					}
 				},
 				{
-					"id": "a7668aed-1c61-419b-83b9-5021e946ee57",
-					"type": "equipment",
-					"description": "Holy Water",
-					"reference": "DFA114",
-					"notes": "\"Grenade\" bottle. 1 pt",
+					"id": "eXakP0e0GrmyT7qdW",
+					"description": "Light Cloth, Leather, or Fur Gloves",
+					"reference": "DFA108",
 					"tags": [
-						"Esoteric Supplies"
+						"Armor",
+						"Gloves"
 					],
-					"quantity": 4,
-					"value": 15,
-					"weight": "1 lb",
+					"value": 5,
+					"weight": "0.6 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"hand"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
 					"equipped": true,
 					"calc": {
-						"extended_value": 60,
-						"extended_weight": "4 lb"
+						"extended_value": 5,
+						"extended_weight": "0.6 lb"
+					}
+				},
+				{
+					"id": "ejmzn4pTr2nqJANCr",
+					"description": "Light Cloth, Leather, or Fur Helmet (Full Face)",
+					"reference": "DFA108",
+					"tags": [
+						"Armor",
+						"Headgear"
+					],
+					"value": 18,
+					"weight": "2.1 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 1
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"face"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 18,
+						"extended_weight": "2.1 lb"
+					}
+				},
+				{
+					"id": "eS2ujLvK_CTR_nkST",
+					"description": "Light Cloth, Leather, or Fur Leggings",
+					"reference": "DFA108",
+					"tags": [
+						"Armor",
+						"Limb Armor"
+					],
+					"value": 37,
+					"weight": "4.5 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"leg"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 37,
+						"extended_weight": "4.5 lb"
+					}
+				},
+				{
+					"id": "eYSd5Xyrnn17sErGw",
+					"description": "Light Cloth, Leather, or Fur Sleeves",
+					"reference": "DFA108",
+					"tags": [
+						"Armor",
+						"Limb Armor"
+					],
+					"value": 25,
+					"weight": "3 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 25,
+						"extended_weight": "3 lb"
 					}
 				}
 			],
+			"calc": {
+				"extended_value": 155,
+				"extended_weight": "18.6 lb"
+			}
+		},
+		{
+			"id": "EBZ-HpYAEQJiZFJEf",
 			"description": "Backpack, Small",
 			"reference": "DFA111",
 			"notes": "Holds 40 lbs of gear",
 			"tags": [
 				"Camping and Survival Gear"
 			],
-			"quantity": 1,
 			"value": 60,
 			"weight": "3 lb",
 			"prereqs": {
@@ -3955,76 +3782,73 @@
 					}
 				]
 			},
+			"quantity": 1,
 			"equipped": true,
+			"children": [
+				{
+					"id": "e-WPoqCE5DzUD3kur",
+					"description": "First Aid Kit",
+					"reference": "DFA111",
+					"notes": "+1 to First Aid",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 50,
+					"weight": "2 lb",
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "e6XMIHdnApr6rb4eo",
+					"description": "Holy Symbol",
+					"reference": "DFA114",
+					"tags": [
+						"Esoteric Supplies"
+					],
+					"value": 50,
+					"weight": "1 lb",
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "evrgmGkGmfhM52f9q",
+					"description": "Holy Water",
+					"reference": "DFA114",
+					"notes": "\"Grenade\" bottle. 1 pt",
+					"tags": [
+						"Esoteric Supplies"
+					],
+					"value": 15,
+					"weight": "1 lb",
+					"quantity": 4,
+					"equipped": true,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "4 lb"
+					}
+				}
+			],
 			"calc": {
 				"extended_value": 220,
 				"extended_weight": "10 lb"
 			}
 		},
 		{
-			"id": "61866f24-2630-4a47-8862-2a2bf232deef",
-			"type": "equipment_container",
-			"open": true,
-			"children": [
-				{
-					"id": "27a10419-8cd5-4faa-96eb-2fa79d946ee9",
-					"type": "equipment",
-					"description": "Gold Coin (Halved)",
-					"reference": "DFA95",
-					"tags": [
-						"Money"
-					],
-					"quantity": 1,
-					"value": 200,
-					"weight": "0.01 lb",
-					"equipped": true,
-					"calc": {
-						"extended_value": 200,
-						"extended_weight": "0.01 lb"
-					}
-				},
-				{
-					"id": "b682c950-ead4-4891-9d30-f44b89bbf255",
-					"type": "equipment",
-					"description": "Silver Coin",
-					"reference": "DFX73",
-					"tags": [
-						"Money"
-					],
-					"quantity": 3,
-					"value": 20,
-					"weight": "0.02 lb",
-					"equipped": true,
-					"calc": {
-						"extended_value": 60,
-						"extended_weight": "0.06 lb"
-					}
-				},
-				{
-					"id": "e4e58f07-9a3a-40b4-8ef1-d93d0b1c6709",
-					"type": "equipment",
-					"description": "Copper Coin",
-					"reference": "DFX73",
-					"tags": [
-						"Money"
-					],
-					"quantity": 2,
-					"value": 1,
-					"weight": "0.02 lb",
-					"equipped": true,
-					"calc": {
-						"extended_value": 2,
-						"extended_weight": "0.04 lb"
-					}
-				}
-			],
+			"id": "Eei1vy3G_V5O1vDko",
 			"description": "Pouch",
 			"reference": "DFA111",
 			"tags": [
 				"Camping and Survival Gear",
 				"Container"
 			],
-			"quantity": 1,
 			"value": 10,
 			"weight": "0.2 lb",
 			"prereqs": {
@@ -4041,7 +3865,58 @@
 					}
 				]
 			},
+			"quantity": 1,
 			"equipped": true,
+			"children": [
+				{
+					"id": "ePhx-0EzwYioTzrzp",
+					"description": "Gold Coin (Halved)",
+					"reference": "DFA95",
+					"tags": [
+						"Money"
+					],
+					"value": 200,
+					"weight": "0.01 lb",
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 200,
+						"extended_weight": "0.01 lb"
+					}
+				},
+				{
+					"id": "eMVFXzgGhbNzaQ9Bl",
+					"description": "Silver Coin",
+					"reference": "DFX73",
+					"tags": [
+						"Money"
+					],
+					"value": 20,
+					"weight": "0.02 lb",
+					"quantity": 3,
+					"equipped": true,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "0.06 lb"
+					}
+				},
+				{
+					"id": "eZJhN2PL84E5282Hg",
+					"description": "Copper Coin",
+					"reference": "DFX73",
+					"tags": [
+						"Money"
+					],
+					"value": 1,
+					"weight": "0.02 lb",
+					"quantity": 2,
+					"equipped": true,
+					"calc": {
+						"extended_value": 2,
+						"extended_weight": "0.04 lb"
+					}
+				}
+			],
 			"calc": {
 				"extended_value": 272,
 				"extended_weight": "0.31 lb"
@@ -4049,7 +3924,7 @@
 		}
 	],
 	"created_date": "2023-05-26T16:21:14-03:00",
-	"modified_date": "2023-09-10T22:24:31-03:00",
+	"modified_date": "2024-11-20T14:10:52-03:00",
 	"calc": {
 		"swing": "1d+2",
 		"thrust": "1d-1",
