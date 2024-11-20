@@ -19,9 +19,8 @@ come back once the fighting was over.
 
 Things didn't turn out well, and Jade never got the chance to return. She aged
 slowly but eventually reached maturity and set out to follow on the footsteps of
-her heroes. Her incredible natural charisma was soon supplemented by an almost
-supernatural skill with the sword and she achieved some small measure of renown
-around the Inner Sea as an heroic adventurer.
+her heroes. Her natural charisma and skill with the sword let her achieve some
+small measure of renown around the Inner Sea as an heroic adventurer.
 
 Recent news from Cheliax convinced Jade it's finally time to return home and
 take up the Ravens' fight. She doesn't remember many details about those days,
@@ -34,21 +33,72 @@ protest to learn more.
 
 Jade's stats below are based on the Aristocrat archetype from GURPS Dungeon
 Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
-skills, though I removed some of the template's more classist traits. Her being
-a long-lived non-human is mostly a story thing for now, as I didn't take an
-official racial template. You can use these stats for a charismatic human
-swashbuckler in some other campaign without changing any numbers. If you need
-one, consider her a Half-Spirit, and let her take the supernatural traits from
-that template with earned character points.
+skills, though I removed some of the template's more classist traits. Her name
+is taken from Chuubo's Marverlous Wish-Granting Engine, where it belonged to the
+Angel of the Sun.
 
-Her name is taken from Chuubo's Marverlous Wish-Granting Engine, where it
-belonged to the Angel of the Sun. She's also partly inspired by Princess
-Celestia.
+Her being a long-lived half-spirit is mostly a story thing for now, as I didn't
+take an official template. You can use these stats for a charismatic human
+swashbuckler in some other campaign without changing any numbers. If you do want
+to emphasize her supernatural side, you can let her take the Half-Spirit traits
+with earned character points.
 
-In terms of advancement, I'm hoping to spend earned points to max out her
-Charisma, Born War-Leader talent, and perhaps even Appearance. She's going to be
-the public face of the rebellion, after all. Holiness and its attendant powers
-are also not out of the question, as they'd make her even better at fighting
-demons.
+
+Jade already has a +5 reaction bonus from almost everyone and an extra +3 from
+professional fighters. I'm hoping to use earned points to increase that even
+further, maxing out her Charisma, Born War-Leader talent, and perhaps even
+Appearance. She's going to be the public face of the rebellion, after
+all. Holiness and its attendant powers are also not out of the question in the
+future, as they'd make her even better at fighting demons.
 
 ## Character Sheet
+
+**ST** 11 {10}; **DX** 15 {100}; **IQ** 12 {40}; **HT** 12 {20};
+
+Damage 1d-1/1d+1; Basic Lift 12.1kg; Will 12; Per 12; FP 12; Basic Speed 7;
+Basic Move 7;
+
+**Advantages**
+
+- Ambidexterity {5}
+- Appearance (Impressive) {12}
+- Born War Leader 3 {15}
+- Charisma 2 {10}
+- Combat Reflexes {15}
+- Luck {15}
+- Weapon Master (Backsword) {-20}
+- Weapon Adaptation (Broadsword to Saber) {1}
+
+**Disadvantages**
+
+- Code of Honor (Soldier's) {-10}
+- Enemies (Monster of the Week) (9-) {-15}
+- Pacifism: Cannot Harm Innocents {-10}
+- Sense of Duty (Adventuring Companions) {-5}
+- Vow (Never refuse a challenge to combat) {-10}
+
+**Quirks**
+
+- Define your own! {-5}
+
+**Skills**
+
+- Acrobatics (H) DX-1 {2} - 14
+- Diplomacy (H) IQ-2 {1} - 10
+- Fast-Draw (Sword) (E) DX+1 {1}[^1] - 16
+- Gesture (E) IQ {1} - 12
+- Guns (Pistol) (E) DX+1 {2} - 16
+- Jumping (E) DX {1} - 15
+- Leadership (A) IQ+4 {1}[^2][^3] - 16
+- Public Speaking (A) IQ+1 {1}[^3] - 13
+- Saber (A) DX+5 {20} - 20
+- Savoir-Faire (High Society) (E) IQ {1} - 12
+- Stealth (A) DX-1 {1} - 14
+- Strategy (H) IQ+2 {2}[^2] - 14
+- Tactics (H) IQ+2 {2}[^2] - 14
+- Wrestling (A) DX-1 {1} - 14
+
+
+[^1]: +1 from Combat Reflexes
+[^2]: +3 from Born War Leader
+[^3]: +2 from Charisma

@@ -76,30 +76,31 @@ Rebels.
 
 **ST** 12 {20}; **DX** 12 {40}; **IQ** 14 {80}; **HT**12 {20};
 
-Damage 1d-1/1d+2; Basic Lift 14.5kg lbs.; Will 14; Per 14; FP 12; Basic Speed 6;
+Damage 1d-1/1d+2; Basic Lift 14.5kg; Will 14; Per 14; FP 12; Basic Speed 6;
 Basic Move 5 {-5};
 
 **Advantages**
 
 - Clerical Investment {5}
-- Power Investiture 3 {30}
 - Detect Evil {18}
-- Unfazeable {15}
 - Extra Fatigue Points 2 {6}
-- Resistant to Poison 6 {6}
 - Night Vision 5 {5}
+- Power Investiture 3 {30}
+- Resistant to Poison 6 {6}
+- Unfazeable {15}
 
 **Disadvantages**
 
 - Charitable {-15}
-- Sense of Duty (Good entities) {-10}
+- Compulsive Carousing {-5}
 - Compulsive Generosity {-5}
 - Intolerance ("Evil" Religions) {-5}
 - Overconfidence {-5}
-- Compulsive Carousing {-5}
-- Gluttony {-5}
+- Sense of Duty (Good entities) {-10}
 
 **Quirks**
+
+- Define your own! {-5}
 
 **Skills**
 
@@ -163,7 +164,7 @@ Basic Move 5 {-5};
 
 **Loadout**
 
-$1000, 44.91 lbs. Light encumbrance.
+$1000, 21.835kg. Light encumbrance.
 
 - Ordinary Clothing: $120; 1kg.
 - Axe: $150; 2kg.
@@ -175,7 +176,7 @@ $1000, 44.91 lbs. Light encumbrance.
   - Holy Symbol: $50; 0.5kg.
   - 4 x Holy Water: $60; 2kg..
 - Pouch: $10, 0.1kg.
-  - Coins: half a gold piece, plus 3 silvers and 2 coppers. $262, 0.055kg.
+  - Coins: half a gold piece, plus 3 silvers and 15 coppers. $275, 0.185kg.
 
 **Combat**
 
