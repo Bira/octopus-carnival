@@ -6,9 +6,262 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Nov 2024 17:16:52 +0000</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2024 17:16:52 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jan 2025 20:10:17 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jan 2025 20:10:17 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Como Obter e Instalar um e-CPF ou e-CNPJ A3 no Ubuntu Linux em 2025</title>
+        <description>&lt;p&gt;Este post é completamente diferente do conteúdo usual do Octopus Carnival, mas
+obter a informação aqui foi tão complicado que eu me sinto compelido a deixar
+instruções para as gerações futuras (e para mim mesmo, caso eu esqueça). Ele
+está em português porque estas instruções são relevantes para quem está no
+Brasil.&lt;/p&gt;
+
+&lt;p&gt;Neste artigo, eu vou explicar todos os passos necessários para emitir e instalar
+um certificado digital A3 (e-CPF ou e-CNPJ) em uma máquina rodando Ubuntu 22.04
+ou 24.04.&lt;/p&gt;
+
+&lt;p&gt;O post foi originalmente escrito no meio de 2024, mas até onde eu sei suas
+instruções ainda são válidas.&lt;/p&gt;
+
+&lt;h2 id=&quot;background-e-introdução&quot;&gt;Background e Introdução&lt;/h2&gt;
+
+&lt;p&gt;Pode pular essa sessão inteira se você só quer as instruções. Vá direto aos
+Pré-Requisitos.&lt;/p&gt;
+
+&lt;p&gt;Apenas uma raríssima minoria das certificadoras brasileiras sequer apresenta
+instruções para emitir um utilizar um certificado A3 em Linux, e essas
+instruções são invariavelmente para uma versão mais antiga do Ubuntu, como a
+18.04 ou a 20.04. Se você tem uma versão mais recente, como provavelmente é o
+caso, você está por conta própria. O propósito deste artigo é remediar isso. Ele
+reúne informações de diversas fontes separadas.&lt;/p&gt;
+
+&lt;p&gt;Minha inspiração para escrever este post foi &lt;a href=&quot;https://linuxuniverse.com.br/linux/token-a3&quot;&gt;este outro excelente artigo&lt;/a&gt;
+que explica muitas das mesmas coisas. A diferença aqui é que ele usa uma versão
+um pouco mais antiga de alguns softwares, com instalação mais complicada.&lt;/p&gt;
+
+&lt;h2 id=&quot;pré-requisitos&quot;&gt;Pré-requisitos&lt;/h2&gt;
+
+&lt;p&gt;Você precisa de um computador rodando a versão mais atualizada do Ubuntu 22.04
+ou 24.04, ou um de seus derivados (como o Pop OS). Os passos a seguir em geral
+são válidos para as duas versões, com uma única excessão:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O Assinador SERPRO só pode ser instalado no Ubuntu 22.04 ou derivados!&lt;/strong&gt; A
+versão mais recente quando da autoria deste post é a 4.2.1, que depende da
+biblioteca &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libappindicator1&lt;/code&gt;, que por sua vez foi removida do Ubuntu 24.04.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-1-adquira-o-token&quot;&gt;Passo 1: Adquira o Token&lt;/h2&gt;
+
+&lt;p&gt;Escolher um dispositivo físico com bom suporte a Linux costumava ser uma dor de
+cabeça sem tamanho, mas isso agora está bem mais fácil: usaremos um token USB do
+modelo Safenet eToken 5110.&lt;/p&gt;
+
+&lt;p&gt;Se você conhecer uma certificadora que venda certificados A3 em tokens com esse
+modelo, pode pular este passo, o passo 3, e o passo 6. Caso contrário,
+precisamos de um token vazio para cada certificado que queremos obter. Cada
+token guarda apenas um único certificado. A &lt;a href=&quot;https://loja.digitalsecurity.com.br/&quot;&gt;Digital Security do Brasil&lt;/a&gt;
+vende tokens vazios, e ela não é a única. Se tiver outra loja de sua confiança,
+pode encomendar por lá.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-2-instale-o-driver-do-token&quot;&gt;Passo 2: Instale o Driver do Token&lt;/h2&gt;
+
+&lt;p&gt;Mesmo um token USB ainda precisa de um driver especializado para ser lido. O
+eToken 5110 utiliza o Safenet Authentication Client, e foi por isso que eu o
+escolhi - ele roda em ambas as versões do Ubuntu visadas por este artigo e tem
+uma interface um pouco mais agradável e completa.&lt;/p&gt;
+
+&lt;p&gt;Precisamos da versão 10.8 do cliente. A maioria dos lugares só tem até a 10.7
+para download, mas a GlobalSign tem a 10.8 &lt;a href=&quot;https://www.globalsign.com/en/safenet-drivers/USB/10.8/GlobalSign-SAC-Ubuntu-2204.zip&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Faça o download (é gratuito e não requer registro), extraia o arquivo zip, e
+ache o arquivo chamado &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;safenetauthenticationclient_10.8.1050_amd64.deb&lt;/code&gt; dentro
+da estrutura. Instale-o em seu sistema usando os seguintes comandos:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;dpkg &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; safenetauthenticationclient_10.8.1050_amd64.deb
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--fix-broken&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;O primeiro comando acima instala o pacote; o segundo instala quaisquer
+dependências dele que estejam faltando. Todas essas dependências existem nos
+repositórios padrão do Ubuntu 22.04 e 24.04.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-3-inicialize-o-token&quot;&gt;Passo 3: Inicialize o Token&lt;/h2&gt;
+
+&lt;p&gt;Cada token deve ter duas senhas associadas a ele. Uma senha “de usuário” (PIN)
+que é usada para acessar o conteúdo do token, e uma senha de administração (PUK)
+que é usada para modificar as informações dele. Neste passo vamos definir as
+duas para o(s) token(s) que você adquiriu no primeiro passo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.locasuporte.com.br/suporte_manuais/safenet/manual_etoken5110.pdf&quot;&gt;Este manual&lt;/a&gt; explica como inicializar um eToken 5110 vazio usando o Safenet
+Authentication Client que instalamos no passo anterior. As instruções relevantes
+começam na página 11. Lembre-se de anotar as senhas em um local seguro, como um
+gerenciador de senhas. Elas não podem ser recuperadas de outra maneira depois de
+definidas.&lt;/p&gt;
+
+&lt;p&gt;O processo basicamente consiste em mudar as senhas de um valor pré-defindo “de
+fábrica” para os valores que você deseja. Se você adquiriu o seu token de outra
+loja que não a Digital Security, pode ser que a senha default seja outra -
+cheque o manual que vier com ele. &lt;strong&gt;Jamais mantenha a senha de fábrica do
+token!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-4-compre-seu-certificado-a3&quot;&gt;Passo 4: Compre Seu Certificado A3&lt;/h2&gt;
+
+&lt;p&gt;Aqui eu tive uma boa experiência com a &lt;a href=&quot;https://www.soluti.com.br/&quot;&gt;Soluti&lt;/a&gt; e o &lt;a href=&quot;https://www.mafragrupo.com.br/&quot;&gt;Grupo Mafra&lt;/a&gt;. Em
+ambos os casos foi necessário falar com o canal de vendas por WhatsApp deles
+para especificar que eu precisava de um certificado digital A3 sem mídia. A
+Soluti vende e-CPF e e-CNPJ - eles têm loja virtual mas para adquirir sem mídia
+ainda é necessário falar com um representante. O Grupo Mafra vende direto por
+WhatsApp e representa a certificadora ABS, que no final das contas também emite
+certificado pela Soluti - mas o preço deles é bem menor.&lt;/p&gt;
+
+&lt;p&gt;Em ambos os casos o procedimento foi o mesmo. Após pagar o certificado, marquei
+uma videoconferência pelo sistema deles, na qual foi verificada minha identidade
+e obti uma &lt;em&gt;senha de emissão e revogação&lt;/em&gt;. No caso da Mafra/ABS, fui direcionado
+a uma página onde eu mesmo gerei a senha. No caso da Soluti, eles me passaram a
+senha durante a chamada de vídeo.&lt;/p&gt;
+
+&lt;p&gt;Após o sucesso da chamada, recebi um e-mail com um assunto parecido com
+“Solicitação de Certificado Digital aprovada”. No corpo desse e-mail, há um
+número de solicitação e um “Usuário de Emissão”. Esse é o nome de usuário que
+faz par com a senha obtida na chamada. Precisamos dos dois para os próximos
+passos.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-5-instale-o-java-8&quot;&gt;Passo 5: Instale o Java 8&lt;/h2&gt;
+
+&lt;p&gt;Sim, é o Java. Sim, é o oito. Vamos precisar dele para rodar o programa que
+realiza a emissão dos certificados. Felizmente, não precisa ser o java da
+Oracle. Use o seguinte comando:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;openjdk-8-jdk icedtea-netx
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Isso instala a mais recente versão do OpenJDK 8, que tem paridade com o da
+Oracle para os nossos propósitos. O &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;icedtea-netx&lt;/code&gt; nos dá a funcionalidade do
+Java Web Start porque sim, também precisamos disso.&lt;/p&gt;
+
+&lt;p&gt;Após instalar o JDK, configure seu sistema para que ele seja o
+padrão. Precisamos fazer isto de duas maneiras diferentes. A primeira é:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;update-alternatives &lt;span class=&quot;nt&quot;&gt;--config&lt;/span&gt; java
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Isso vai mostrar um menu com os diferentes executáveis Java no seu
+sistema. Mesmo que você não tenha instalado nenhum antes do 8, pode ser que o
+sistema tenha instalado o 11 junto. Pressione o número correspondente ao &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;java&lt;/code&gt;
+to JDK 8 e depois &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;enter&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Depois, use esta sequência de comandos para fazer o Java Web Start entender que
+queremos executá-lo com Java 8:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; /usr/lib/jvm/
+&lt;span class=&quot;nb&quot;&gt;sudo rm &lt;/span&gt;default-java
+&lt;span class=&quot;nb&quot;&gt;sudo ln&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; java-8-openjdk-amd64 default-java
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;passo-6-prepare-para-a-emissão&quot;&gt;Passo 6: Prepare para a Emissão&lt;/h2&gt;
+
+&lt;p&gt;Com o Safenet Authentication Client rodando, plugue o seu token vazio no
+computador. Tenha à mão a senha PIN gerada no passo 3, e também o usuário e
+senha obtidos no passo 4.&lt;/p&gt;
+
+&lt;p&gt;A Soluti possui um manual de emissão bem completo &lt;a href=&quot;https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf&quot;&gt;aqui&lt;/a&gt;. Note que já fizemos
+muito do que está lá: temos o driver certo do nosso token, e a versão correta do
+Java.&lt;/p&gt;
+
+&lt;p&gt;Seguindo o manual, o próximo passo é baixar o aplicativo emissor &lt;a href=&quot;https://emissor.ca.inf.br/prod/Emissor.jnlp&quot;&gt;aqui&lt;/a&gt;. Você
+vai notar que isso é um arquivo de extensão &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jnlp&lt;/code&gt;. É por isso que precisamos do
+Java Web Start.&lt;/p&gt;
+
+&lt;p&gt;Em um terminal, vá ao diretório onde você baixou o arquivo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Emissor.jnlp&lt;/code&gt; e
+execute o seguinte commando:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;javaws Emissor.jnlp
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Você pode a partir daqui seguir o &lt;a href=&quot;https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf&quot;&gt;manual da Soluti&lt;/a&gt;. Como já disse, vai
+precisar do nome de usuário e senha do Passo 4 para iniciar a emissão, e a senha
+do passo 3 para abrir seu token para a gravação das chaves e certificados.&lt;/p&gt;
+
+&lt;p&gt;Ao final deste passo, você já tem seu certificado digital emitido! Os próximos
+passos deixam seu sistema pronto para &lt;em&gt;usar&lt;/em&gt; o certificado.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-7-certifique-se-de-que-o-firefox-é-um-pacote-deb&quot;&gt;Passo 7: Certifique-se de que o Firefox é um pacote .deb&lt;/h2&gt;
+
+&lt;p&gt;Conforme é dito no &lt;a href=&quot;https://linuxuniverse.com.br/linux/token-a3&quot;&gt;post que me inspirou a inscrever este artigo&lt;/a&gt;, a versão
+Snap do Firefox, que vem com o Ubuntu, não reconhece o token, porque não tem
+acesso às portas USB. Precisamos instalar o browser como um pacote .deb
+tradicional.&lt;/p&gt;
+
+&lt;p&gt;É possível que você já tenha feito isso por algum outro motivo, ou esteja usando
+uma variante que já faz isso como o Pop_OS. Se esse for o caso, pode pular este
+passo.&lt;/p&gt;
+
+&lt;p&gt;Caso contrário, adicione o PPA da equipe Mozilla às suas fontes de software:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;add-apt-repository ppa:mozillateam/ppa
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt update
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Em seguida, crie um arquivo chamado &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/etc/preferences.d/mozilla-firefox&lt;/code&gt; com os
+seguintes conteúdos:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Package: firefox&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;
+Pin: release &lt;span class=&quot;nv&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;LP-PPA-mozillateam
+Pin-Priority: 1001
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Isso guarante que a versão do PPA tenha precedência sobre o Snap. A seguir,
+remova o Snap e instale a versão do PPA:&lt;/p&gt;
+
+&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;snap remove firefox
+
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt remove firefox
+
+&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-t&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;o=LP-PPA-mozillateam&apos;&lt;/span&gt; firefox
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;passo-8-adicione-suporte-ao-token-ao-firefox&quot;&gt;Passo 8: Adicione Suporte ao Token ao Firefox&lt;/h2&gt;
+
+&lt;p&gt;Vá em “Edit” -&amp;gt; “Settings” e procure por “Security Devices”. Clique o botão que
+aparece nos resultados.&lt;/p&gt;
+
+&lt;p&gt;Na janela que vai aparecer, clique em “NSS Internal PKCS #11 Module”, depois em
+“Load” no canto direito da tela. No diálogo que aparecer, dê o nome que quiser
+ao módulo e em “Module filename” entre &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/lib/libeToken.so&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;O módulo vai carregar e aparecer na lista do canto esquerdo desta mesma
+janela. A partir daí você pode plugar seu token, escolher “Log In”, e entrar com
+a senha PIN dele para ter acesso ao certificado.&lt;/p&gt;
+
+&lt;p&gt;Com isso, você já pode usar seu certificado para realizar login em serviços que
+o exijam. Ele também permite que procurações sejam assinadas pelo serviço e-CAC
+do Ministério da Fazenda.&lt;/p&gt;
+
+&lt;h2 id=&quot;passo-9-assinador-serpro&quot;&gt;Passo 9: Assinador SERPRO&lt;/h2&gt;
+
+&lt;p&gt;Conforme dito na introdução, &lt;strong&gt;o Assinador SERPRO só pode ser instalado em
+Ubuntu 22.04 ou derivados&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se o seu sistema se encaixa nessa categoria, basta seguir o &lt;a href=&quot;https://tutorial.assinadorserpro.estaleiro.serpro.gov.br/html/demo_4.html&quot;&gt;tutorial&lt;/a&gt; da
+própria SERPRO. Isso vai instalar a versão 4.2.1 do assinador, que é a mais
+recente quando da autoria deste post. O Assinador SERPRO é usado para assinar
+documentos em PDF ou XML em sua máquina local.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/01/07/certificado-digital.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/01/07/certificado-digital.html</guid>
+        
+        <category>computering</category>
+        
+        <category>linux</category>
+        
+        <category>pt-br</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Hell&apos;s Rebels: Adventure 04, Part 3</title>
@@ -1527,9 +1780,10 @@ like humans even when they have no humans among their ancestors.&lt;/p&gt;
 
 &lt;p&gt;Atlanteans are warm-blooded, have legs, and can breathe both water and
 air. Their human-looking bits exhibit the same ethnic variety as
-humans. Individuals can also have a variable number of “fishy” traits like visible
-gills, fins, blue or gray skin, and so on. These might be visually striking but
-are never significant enough to count as more than 0-point features.&lt;/p&gt;
+humans. Individuals can also have a variable number of “fishy” traits like
+visible gills, fins, blue or gray skin, and so on. These might be visually
+striking but are never significant enough to count as more than 0-point
+features.&lt;/p&gt;
 
 &lt;p&gt;Atlanteans can appear in worlds that had an Atlantis, or those whose underwater
 peoples are generally friendly with each other. The base stats could also be
@@ -1823,170 +2077,6 @@ brief.&lt;/p&gt;
         <category>hard-wired-island</category>
         
         <category>neon-city-overdrive</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Neverwinter: Veil and Surcross</title>
-        <description>&lt;p&gt;And finally we get to look at the Thayan cities and the road between them.&lt;/p&gt;
-
-&lt;h2 id=&quot;veil&quot;&gt;Veil&lt;/h2&gt;
-
-&lt;p&gt;The town of Veil is so named because it’s built atop a stable rift to the
-Shadowfell, which makes it look like it’s covered by a veil of shadows from
-afar. This is where Shadowfell Road ends. Valindra’s people are very aware of
-that, so they’re busy fortifying the town and bringing in undead defenders to
-gradually replace its living garrison. Should the down fall or the rift close,
-their Neverwinter contingent would be cut off.&lt;/p&gt;
-
-&lt;p&gt;The rift also protects Veil from direct bombardment by the flying fortress, as
-it makes its shadow-powered projectiles go astray. Its defenses cannot stand up
-to a Netherese ground assault, but the attacking army would risk getting caught
-between Veil’s defenders and a relief force sent from Surcross. The fortress
-therefore focuses on the bigger town, but sometimes comes here to float
-ominously over Veil and throw some rocks at it. As we saw before it does this
-when it needs to take in supplies, as its own Shadowfell portals require
-proximity to a rift to work.&lt;/p&gt;
-
-&lt;p&gt;The city’s defenses are led by a priest of Bane named Renault Abrecht, who
-coordinates everything from the local temple he took over. When not doing that,
-Abrecht spends his time ensuring the forces under his command are more loyal to
-him than to Thay, and acquiring more converts from the town’s stressed-out
-population. When he judges he has a big enough army of followers, he will cross
-into Shadowfell Road and collapse the rift behind him, hoping to conquer a
-kingdom for himself elsewhere in Faerûn. The Netherese would actually love that,
-as it would achieve their own goal of cutting off Valindra’s supply route.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-road&quot;&gt;The Road&lt;/h2&gt;
-
-&lt;p&gt;The road linking Veil and Surcross is warded and trapped to a frankly ridiculous
-level, because the Thayans rightly fear that if it got taken then Veil would
-fall soon after.&lt;/p&gt;
-
-&lt;p&gt;Both sides of the road are lined with stakes upon which are impaled
-bodies. These are enchanted to animate, jump from the stakes, and kill anyone
-who attacks the town of Veil or a Thayan national while on the road. Under the
-road itself are a series of deadly necromantic rune traps that activate when
-anyone living steps on them. They deactivate for five minutes if an &lt;em&gt;undead&lt;/em&gt;
-being steps on them, so caravans to and from Surcross use zombie guides to
-travel the road.&lt;/p&gt;
-
-&lt;p&gt;I guess it’s possible for the PCs to travel overland between the two cities
-without using the road, since by this point they should be able to navigate the
-area’s environmental hazards without much trouble. Armies, however, would prefer
-to use the road if they can, and supply caravans must use it.&lt;/p&gt;
-
-&lt;h2 id=&quot;surcross&quot;&gt;Surcross&lt;/h2&gt;
-
-&lt;p&gt;Tam was smart enough to foresee any serious attack against Thay would have to go
-through Surcross, so he had potent defenses installed in the city a long time
-ago. However he couldn’t imagine that the actual attack would come in the form
-of a whole Netherese flying fortress, and the particulars of that attack lead to
-the current stalemate.&lt;/p&gt;
-
-&lt;p&gt;Surcross is a town under permanent martial law. It’s governed by the military
-garrison stationed here to fight the Netherese. Its civilian population is
-suffering greatly because the soldiers requisition all the food for themselves,
-and don’t hesitate to kill any who complain about it or displease them in other
-ways. A dead Thayan is just an undead Thayan in waiting, after all.&lt;/p&gt;
-
-&lt;p&gt;Getting into the town is hard and will require some ingenuity from the
-party. Once inside, though, they can easily pass for residents, because who in
-their right mind would want to break &lt;em&gt;into&lt;/em&gt; the place?&lt;/p&gt;
-
-&lt;p&gt;The town’s governor is Ukulsid, an undead gnoll general who is entirely focused
-on the war effort, and therefore dislikes the fact that his town also became the
-center of Valindra’s schemes. His loyalty to Tam forces him to obey her, though,
-because she outranks him.&lt;/p&gt;
-
-&lt;h3 id=&quot;external-defenses&quot;&gt;External Defenses&lt;/h3&gt;
-
-&lt;p&gt;The gates of Surcross are made of necromantically animated bone. They open and
-close themselves at the orders of Thayan military necromancers, and will attack
-others who linger close to them for too long like the animated wall traps we saw
-earlier in the Dread Ring.&lt;/p&gt;
-
-&lt;p&gt;The wall surrounding Surcross is pretty solid, and also festooned with hundreds
-of hidden crypts. If the wall is breached or bypassed by enemy forces, a single
-command will trigger a selective zombie apocalypse. Every corpse within the wall
-will be animated and the shambling army will be sent into the town to kill every
-non-Thayan they find.&lt;/p&gt;
-
-&lt;h3 id=&quot;fingers-of-szass-tam&quot;&gt;Fingers of Szass Tam&lt;/h3&gt;
-
-&lt;p&gt;These five bone and marble towers are the reason Surcross hasn’t been flattened
-yet. Located at equidistant points around the perimeter of the city wall, they
-can project force fields over the city. They can’t cover the whole city for
-long, so the towers usually project stronger but smaller fields over whatever
-parts of it are being bombarded.&lt;/p&gt;
-
-&lt;p&gt;The towers have no windows, but their walls are enchanted to “not exist” to
-anyone inside them. They’re filled with arcane artillery pieces similar to those
-that defend the plateau, whose crews can see and fire through the walls just
-fine. They also have assault units ready to deploy to anywhere inside the city
-or to just outside its walls by marching on force field bridges.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-garrison&quot;&gt;The Garrison&lt;/h3&gt;
-
-&lt;p&gt;Another important structure in Surcross’ defense, the garrison houses all living
-Thayan troups stationed in town. It’s guarded around the clock by undead. Its
-barracks are not segregated by gender, but by species: human, orc/half-orc,
-gnoll, and “other”. It has short-range teleportation circles that can move
-soldiers instantly to the front gate or to any of the five Fingers.&lt;/p&gt;
-
-&lt;p&gt;A particularly luxurious section of the garrison is reserved for the Sunmasters,
-a contingent of Bane clerics and star warlocks who specialize in radiant
-attacks. They mostly work as a special strike force against the Shadovar, or
-when there’s an emergency and they need every soldier in the field.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-tombstone&quot;&gt;The Tombstone&lt;/h3&gt;
-
-&lt;p&gt;This squat fortress at the very center of town is where its leadership
-resides. Its windows and doors can be commanded to meld into the walls and
-disappear, allowing it to serve as a last redoubt if the wall is breached.&lt;/p&gt;
-
-&lt;p&gt;Ukulsid holds court here and lets people petition him for judgment on disputes
-or to make other requests and complaints, but since he tends to draft those who
-annoy him into the army, few people make use of the opportunity.&lt;/p&gt;
-
-&lt;p&gt;The building also contains an enchanted audience chamber that’s a perfect
-replica of the one Szass Tam uses in his palace. It’s one of many such chambers
-spread throughout Thay. The lich can sit in his throne in the original chamber
-and establish a link with any of the replicas, causing an illusion of him to
-appear on the corresponding throne. This lets him talk to anyone inside the
-replica chambers as if he was there, and lets him forcibly teleport people
-inside the replica chamber to the original one if he wants. Ukulsid occasionally
-uses this room to report to his boss. PCs should probably avoid lingering here.&lt;/p&gt;
-
-&lt;p&gt;Valindra has an area reserved for her use underneath the Tombstone as well. This
-currently stores a large and still growing collection of dragon bones, guarded
-by skeletal guardians hidden among them. Valindra is stocking up in preparation
-for the time when she learns the ritual to raise dracoliches.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;Surcross looks like an even worse place than Evernight, and that’s saying
-something. PCs who make it inside the walls will have some freedom of movement,
-but still their stay there will resemble a dungeon delve more than a city
-adventure. Nowhere is safe, no one can be trusted, and you ideally want to do
-what you came to do and leave as quickly as possible.&lt;/p&gt;
-
-&lt;p&gt;If the PCs main reason for coming to Thay is to disrupt the Thayan supply lines,
-then Veil is probably their best bet, since the portal can be closed without
-them needing to destroy either city. If the GM says Valindra’s Soul Vessel is
-here in Thay, though, then its most likely hiding place is her bone collection
-under Surcross’ Tombstone.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 27 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/27/neverwinter-surcross.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/27/neverwinter-surcross.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>neverwinter</category>
         
         
       </item>

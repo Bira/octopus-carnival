@@ -1,13 +1,8 @@
 {
 	"version": 5,
 	"id": "AlkrHg7xVUB9sA2x2",
-	"total_points": 259,
+	"total_points": 255,
 	"points_record": [
-		{
-			"when": "2024-07-16T01:48:54-03:00",
-			"points": 4,
-			"reason": "For success at protest actions"
-		},
 		{
 			"when": "2023-05-26T16:21:14-03:00",
 			"points": 255,
@@ -594,6 +589,201 @@
 	],
 	"traits": [
 		{
+			"id": "t9ljkKNkecjrVZy7T",
+			"name": "Clerical Investment",
+			"reference": "DFA22",
+			"tags": [
+				"Advantage",
+				"Social"
+			],
+			"base_points": 5,
+			"calc": {
+				"points": 5
+			}
+		},
+		{
+			"id": "tneE6XszqOFq6MKkx",
+			"name": "Detect Evil",
+			"reference": "DFA20",
+			"tags": [
+				"Advantage",
+				"Exotic",
+				"Mental",
+				"Physical"
+			],
+			"base_points": 18,
+			"calc": {
+				"points": 18
+			}
+		},
+		{
+			"id": "tKzcMDikcy91DgRMc",
+			"name": "Extra Fatigue Points",
+			"reference": "DFA10",
+			"tags": [
+				"Advantage",
+				"Attribute",
+				"Physical"
+			],
+			"points_per_level": 3,
+			"features": [
+				{
+					"type": "attribute_bonus",
+					"attribute": "fp",
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 2,
+			"calc": {
+				"points": 6
+			}
+		},
+		{
+			"id": "tdjJ3zyDlfuNp-Xml",
+			"name": "Night Vision",
+			"reference": "DFA51",
+			"tags": [
+				"Advantage",
+				"Physical"
+			],
+			"points_per_level": 1,
+			"can_level": true,
+			"levels": 5,
+			"calc": {
+				"points": 5
+			}
+		},
+		{
+			"id": "tbUd5Toyln2_o82if",
+			"name": "Power Investiture",
+			"reference": "DFA20",
+			"tags": [
+				"Advantage",
+				"Mental",
+				"Supernatural"
+			],
+			"points_per_level": 10,
+			"features": [
+				{
+					"type": "spell_bonus",
+					"match": "power_source_name",
+					"name": {
+						"compare": "is",
+						"qualifier": "Clerical"
+					},
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 3,
+			"calc": {
+				"points": 30
+			}
+		},
+		{
+			"id": "tmZP_twC-bFa2xEeo",
+			"name": "Resistant to Poison",
+			"reference": "DFA52",
+			"tags": [
+				"Advantage",
+				"Physical"
+			],
+			"points_per_level": 1,
+			"features": [
+				{
+					"type": "conditional_modifier",
+					"situation": "to HT rolls to resist poison",
+					"amount": 1,
+					"per_level": true
+				}
+			],
+			"can_level": true,
+			"levels": 6,
+			"calc": {
+				"points": 6
+			}
+		},
+		{
+			"id": "tvcUeObmmMN7_YUWZ",
+			"name": "Unfazeable",
+			"reference": "DFA53",
+			"tags": [
+				"Advantage",
+				"Mental"
+			],
+			"base_points": 15,
+			"calc": {
+				"points": 15
+			}
+		},
+		{
+			"id": "tvN94a-VYCNt8raOT",
+			"name": "Feature: Armor not interchangeable with that of humans",
+			"tags": [
+				"Physical"
+			],
+			"calc": {
+				"points": 0
+			}
+		},
+		{
+			"id": "tqpKu4_XBfuUEFNJN",
+			"name": "Language: Common",
+			"reference": "DFA51",
+			"tags": [
+				"Advantage",
+				"Language",
+				"Mental"
+			],
+			"modifiers": [
+				{
+					"id": "mF0yRQ2ZdAnAuRgCQ",
+					"name": "Native",
+					"reference": "B23",
+					"cost": -6,
+					"cost_type": "points"
+				},
+				{
+					"id": "mb2x_-_9TFpldk3D9",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "None",
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mXMHfNXWdKk7H5Ua7",
+					"name": "Spoken",
+					"reference": "B24",
+					"notes": "Native",
+					"cost": 3,
+					"cost_type": "points"
+				},
+				{
+					"id": "mEVbfwGiLQRjXdmtP",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "None",
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mre9zdADhX6giN0ZV",
+					"name": "Written",
+					"reference": "B24",
+					"notes": "Native",
+					"cost": 3,
+					"cost_type": "points"
+				}
+			],
+			"calc": {
+				"points": 0
+			}
+		},
+		{
 			"id": "tz3W9A4YLJ44B5vUq",
 			"name": "Natural Attacks",
 			"reference": "B271",
@@ -693,147 +883,6 @@
 			}
 		},
 		{
-			"id": "t9ljkKNkecjrVZy7T",
-			"name": "Clerical Investment",
-			"reference": "DFA22",
-			"tags": [
-				"Advantage",
-				"Social"
-			],
-			"base_points": 5,
-			"calc": {
-				"points": 5
-			}
-		},
-		{
-			"id": "tbUd5Toyln2_o82if",
-			"name": "Power Investiture",
-			"reference": "DFA20",
-			"tags": [
-				"Advantage",
-				"Mental",
-				"Supernatural"
-			],
-			"points_per_level": 10,
-			"features": [
-				{
-					"type": "spell_bonus",
-					"match": "power_source_name",
-					"name": {
-						"compare": "is",
-						"qualifier": "Clerical"
-					},
-					"amount": 1,
-					"per_level": true
-				}
-			],
-			"can_level": true,
-			"levels": 3,
-			"calc": {
-				"points": 30
-			}
-		},
-		{
-			"id": "tneE6XszqOFq6MKkx",
-			"name": "Detect Evil",
-			"reference": "DFA20",
-			"tags": [
-				"Advantage",
-				"Exotic",
-				"Mental",
-				"Physical"
-			],
-			"base_points": 18,
-			"calc": {
-				"points": 18
-			}
-		},
-		{
-			"id": "tvcUeObmmMN7_YUWZ",
-			"name": "Unfazeable",
-			"reference": "DFA53",
-			"tags": [
-				"Advantage",
-				"Mental"
-			],
-			"base_points": 15,
-			"calc": {
-				"points": 15
-			}
-		},
-		{
-			"id": "tKzcMDikcy91DgRMc",
-			"name": "Extra Fatigue Points",
-			"reference": "DFA10",
-			"tags": [
-				"Advantage",
-				"Attribute",
-				"Physical"
-			],
-			"points_per_level": 3,
-			"features": [
-				{
-					"type": "attribute_bonus",
-					"attribute": "fp",
-					"amount": 1,
-					"per_level": true
-				}
-			],
-			"can_level": true,
-			"levels": 2,
-			"calc": {
-				"points": 6
-			}
-		},
-		{
-			"id": "tmZP_twC-bFa2xEeo",
-			"name": "Resistant to Poison",
-			"reference": "DFA52",
-			"tags": [
-				"Advantage",
-				"Physical"
-			],
-			"points_per_level": 1,
-			"features": [
-				{
-					"type": "conditional_modifier",
-					"situation": "to HT rolls to resist poison",
-					"amount": 1,
-					"per_level": true
-				}
-			],
-			"can_level": true,
-			"levels": 6,
-			"calc": {
-				"points": 6
-			}
-		},
-		{
-			"id": "tdjJ3zyDlfuNp-Xml",
-			"name": "Night Vision",
-			"reference": "DFA51",
-			"tags": [
-				"Advantage",
-				"Physical"
-			],
-			"points_per_level": 1,
-			"can_level": true,
-			"levels": 5,
-			"calc": {
-				"points": 5
-			}
-		},
-		{
-			"id": "tvN94a-VYCNt8raOT",
-			"name": "Feature: Armor not interchangeable with that of humans",
-			"tags": [
-				"Physical"
-			],
-			"calc": {
-				"points": 0
-			}
-		},
-		{
 			"id": "tZ5sxhvHyz6LiVfWY",
 			"name": "Charitable",
 			"reference": "DFA58",
@@ -848,56 +897,17 @@
 			}
 		},
 		{
-			"id": "tYOVKKpwtJ_kPQXrV",
-			"name": "Sense of Duty",
-			"reference": "DFA65",
+			"id": "t0IB0DxpcGDx3oBqg",
+			"name": "Compulsive Carousing",
+			"reference": "DFA59",
 			"tags": [
 				"Disadvantage",
 				"Mental"
 			],
-			"modifiers": [
-				{
-					"id": "mTcvgkTMRbQVeN0t0",
-					"name": "Adventuring Companions",
-					"reference": "DFA65",
-					"cost": -5,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mEvn4Dgbj1ca-Iak0",
-					"name": "Nation",
-					"reference": "DFA65",
-					"cost": -10,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "miiznIWje31GIbDaq",
-					"name": "Coreligionists",
-					"reference": "DFA65",
-					"cost": -10,
-					"cost_type": "points",
-					"disabled": true
-				},
-				{
-					"id": "mWJdV91_WXiiTM_H9",
-					"name": "Good Entities",
-					"reference": "DFA65",
-					"cost": -10,
-					"cost_type": "points"
-				},
-				{
-					"id": "mcW__KUC0IjXlAY5f",
-					"name": "Nature",
-					"reference": "DFA66",
-					"cost": -15,
-					"cost_type": "points",
-					"disabled": true
-				}
-			],
+			"cr": 12,
+			"base_points": -5,
 			"calc": {
-				"points": -10
+				"points": -5
 			}
 		},
 		{
@@ -972,85 +982,56 @@
 			}
 		},
 		{
-			"id": "t0IB0DxpcGDx3oBqg",
-			"name": "Compulsive Carousing",
-			"reference": "DFA59",
+			"id": "tYOVKKpwtJ_kPQXrV",
+			"name": "Sense of Duty",
+			"reference": "DFA65",
 			"tags": [
 				"Disadvantage",
-				"Mental"
-			],
-			"cr": 12,
-			"base_points": -5,
-			"calc": {
-				"points": -5
-			}
-		},
-		{
-			"id": "tchBPfvXH1tE6pUVM",
-			"name": "Gluttony",
-			"reference": "DFA60",
-			"tags": [
-				"Disadvantage",
-				"Mental"
-			],
-			"cr": 12,
-			"base_points": -5,
-			"calc": {
-				"points": -5
-			}
-		},
-		{
-			"id": "tqpKu4_XBfuUEFNJN",
-			"name": "Language: Common",
-			"reference": "DFA51",
-			"tags": [
-				"Advantage",
-				"Language",
 				"Mental"
 			],
 			"modifiers": [
 				{
-					"id": "mF0yRQ2ZdAnAuRgCQ",
-					"name": "Native",
-					"reference": "B23",
-					"cost": -6,
-					"cost_type": "points"
-				},
-				{
-					"id": "mb2x_-_9TFpldk3D9",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "None",
+					"id": "mTcvgkTMRbQVeN0t0",
+					"name": "Adventuring Companions",
+					"reference": "DFA65",
+					"cost": -5,
 					"cost_type": "points",
 					"disabled": true
 				},
 				{
-					"id": "mXMHfNXWdKk7H5Ua7",
-					"name": "Spoken",
-					"reference": "B24",
-					"notes": "Native",
-					"cost": 3,
-					"cost_type": "points"
-				},
-				{
-					"id": "mEVbfwGiLQRjXdmtP",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "None",
+					"id": "mEvn4Dgbj1ca-Iak0",
+					"name": "Nation",
+					"reference": "DFA65",
+					"cost": -10,
 					"cost_type": "points",
 					"disabled": true
 				},
 				{
-					"id": "mre9zdADhX6giN0ZV",
-					"name": "Written",
-					"reference": "B24",
-					"notes": "Native",
-					"cost": 3,
+					"id": "miiznIWje31GIbDaq",
+					"name": "Coreligionists",
+					"reference": "DFA65",
+					"cost": -10,
+					"cost_type": "points",
+					"disabled": true
+				},
+				{
+					"id": "mWJdV91_WXiiTM_H9",
+					"name": "Good Entities",
+					"reference": "DFA65",
+					"cost": -10,
 					"cost_type": "points"
+				},
+				{
+					"id": "mcW__KUC0IjXlAY5f",
+					"name": "Nature",
+					"reference": "DFA66",
+					"cost": -15,
+					"cost_type": "points",
+					"disabled": true
 				}
 			],
 			"calc": {
-				"points": 0
+				"points": -10
 			}
 		}
 	],
@@ -3869,22 +3850,6 @@
 			"equipped": true,
 			"children": [
 				{
-					"id": "ePhx-0EzwYioTzrzp",
-					"description": "Gold Coin (Halved)",
-					"reference": "DFA95",
-					"tags": [
-						"Money"
-					],
-					"value": 200,
-					"weight": "0.01 lb",
-					"quantity": 1,
-					"equipped": true,
-					"calc": {
-						"extended_value": 200,
-						"extended_weight": "0.01 lb"
-					}
-				},
-				{
 					"id": "eMVFXzgGhbNzaQ9Bl",
 					"description": "Silver Coin",
 					"reference": "DFX73",
@@ -3893,11 +3858,11 @@
 					],
 					"value": 20,
 					"weight": "0.02 lb",
-					"quantity": 3,
+					"quantity": 13,
 					"equipped": true,
 					"calc": {
-						"extended_value": 60,
-						"extended_weight": "0.06 lb"
+						"extended_value": 260,
+						"extended_weight": "0.26 lb"
 					}
 				},
 				{
@@ -3909,22 +3874,22 @@
 					],
 					"value": 1,
 					"weight": "0.02 lb",
-					"quantity": 2,
+					"quantity": 15,
 					"equipped": true,
 					"calc": {
-						"extended_value": 2,
-						"extended_weight": "0.04 lb"
+						"extended_value": 15,
+						"extended_weight": "0.3 lb"
 					}
 				}
 			],
 			"calc": {
-				"extended_value": 272,
-				"extended_weight": "0.31 lb"
+				"extended_value": 285,
+				"extended_weight": "0.76 lb"
 			}
 		}
 	],
 	"created_date": "2023-05-26T16:21:14-03:00",
-	"modified_date": "2024-11-20T14:10:52-03:00",
+	"modified_date": "2024-11-20T14:56:27-03:00",
 	"calc": {
 		"swing": "1d+2",
 		"thrust": "1d-1",
