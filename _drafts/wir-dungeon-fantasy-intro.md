@@ -46,12 +46,12 @@ initiative, and was released in 2017 after a successful Kickstarter
 campaign. Powered by GURPS titles are fully standalone games that use the GURPS
 rule set as a base, and modify it to suit their purposes.
 
-I can confidently say it's the _chunkiest_ Powered By GURPS game, because all
-the others were single-book affairs, and this one is a large boxed set. It
-removes everything from GURPS that's not immediately relevant to the dungeon
-fantasy genre, but what remains is both plentiful and very close to the level of
-detail in base GURPS. It's about as crunchy as either edition of Pathfinder, if
-you want a d20-based benchmark.
+I can confidently say it's the _chunkiest_ Powered By GURPS game, because the
+ones that came before were single-book affairs, and this one is a large boxed
+set. It removes everything from GURPS that's not immediately relevant to the
+dungeon fantasy genre, but what remains is both plentiful and very close to the
+level of detail in base GURPS. It's about as crunchy as either edition of
+Pathfinder, if you want a d20-based benchmark.
 
 Part of the reason for this wealth of material is that the DFRPG is a second
 edition of sorts. Much of it had been released as a line of supplements for

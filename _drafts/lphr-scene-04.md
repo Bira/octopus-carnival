@@ -193,4 +193,55 @@ excrement.
 - GM: It's two lemures. We also have three rats waiting in the wings for an
   extra surprise. These would have been a separate, previous fight in the
   original adventure. I'm throwing them in here, to bring the fight's challenge
-  closer to the PC's power level.
+  closer to the PC's power level. Anyway, this is where we enter combat mode.
+
+**Round 1**
+
+- Arcturus steps forward and Readies his knife. He also spots the rats.
+- Giant Rat 3 Moves and Attacks to bite Art, and misses.
+- Urist moves to stand beside Art.
+- Rat 1 Moves and Attacks to bite Jade, misses.
+- Lemure 1 Moves south and reaches the pool's edge.
+- Jania Steps and casts Ice Dagger, loading it with 1 point for free.
+- Lemure 2 moves south and engages with Art.
+- Rosalia Moves to the east.
+- Rat 2 Moves east and engages Urist.
+- Jade Steps and Attacks Rat 1 with a sword thrust, hitting for 4 injury.
+
+**Round 2**
+
+- Lemure 2 tries to grab Art, Art parries with Wrestling.
+- Art attacks with a knife slash, Lemure 2 dodges.
+- Rat 1 tries to bite Jade, she parries and automatically slashes its face,
+  dealing 7 injury and defeating it.
+  - I had forgotten the bites were Reach C up to this point.
+- Rosalia moves up 2 hexes.
+- Rat 2 Attacks Rosalia, who retreats but fails to parry, and is hit for 1
+  injury.
+- Jania throws her Ice Dagger at Lemure 2 and misses!
+- Lemure 1 uses a Move and Attack to grab Jade, but misses.
+- Jade Steps back and Attacks Lemure 1 twice (swing, Rapid, Deceptive -1). She
+  hits both times for a total of 16 injury, killing the devil.
+- Rat 3 advances and tries to bite Acrturus, who once again parries with
+  Wrestling.
+- Urist attacks Rat 2 with his axe and kills it.
+
+**Round 3**
+
+- Rat 3 again tries to bite Arcturus, who parries with Wrestling.
+- Arcturus flurries a grab and a knife thrust on Rat 3, who dodges the first and
+  tanks the second due to a bad damage roll.
+- Lemure 2 advances on Urist and tries to grab him, Urist retreats and Blocks.
+- Jade advances and thrusts at Rat 3, killing it.
+- Rosalia moves to flank Lemure 2.
+- Jania advances and thwacks Lemure 2 for 2 injury.
+- Urist swings his axe at Lemure 2, critically missing. The weapon turns in his
+  hand and he has to spend a Ready maneuver on it to attack again.
+
+
+**Round 4**
+
+- Lemure 2 advances on Jania, as she was the last one to injure it, and grabs
+  her for 8 control!
+- Arcturus tries to stab Lemure 2! Hits for 4 injury.
+- Jania tries to escape the grapple but fails.

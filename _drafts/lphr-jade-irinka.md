@@ -64,7 +64,7 @@ future, as they'd make her even better at fighting demons.
 
 **ST** 11 {10}; **DX** 15 {100}; **IQ** 12 {40}; **HT** 12 {20};
 
-Damage 1d-1/1d+1; Basic Lift 12.1kg; Will 12; Per 12; FP 12; Basic Speed 7;
+Damage 1d-1/1d+1; Basic Lift 12.1kg; HP 11; Will 12; Per 12; FP 12; Basic Speed 7;
 Basic Move 7;
 
 **Advantages**
@@ -81,7 +81,7 @@ Basic Move 7;
 **Disadvantages**
 
 - Code of Honor (Soldier's) {-10}
-- Enemies (Monster of the Week) (9-) {-15}
+- [Enemies (Monster of the Week)][1] (9-) {-15}
 - Pacifism: Cannot Harm Innocents {-10}
 - Sense of Duty (Adventuring Companions) {-5}
 - Vow (Never refuse a challenge to combat) {-10}
@@ -141,4 +141,5 @@ If you use GURPS Character Sheet to manage PCs, you can download Jade's file
 [^2]: +3 from Born War Leader
 [^3]: +2 from Charisma
 
+[1]: {{ "/2024/08/30/lphr-player-characters.html" | relative_url }}
 [2]: {{ "/assets/Urist.gcs" | relative_url }}
