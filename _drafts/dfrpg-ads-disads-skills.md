@@ -26,26 +26,27 @@ text. Some advantages have levels, and those will list a cost per level and
 provide increasing benefits.
 
 Generally speaking, most advantages give you bonuses in certain narrow
-situations (on tests against fear, on combat defenses), or give you capabilities
-you can't get in other ways (like a photographic memory, a danger sense, or good
+situations (on tests against fear, for example), or give you capabilities you
+can't get in other ways (like a photographic memory, a danger sense, or good
 luck). Many of them also give bonuses to Reaction Rolls, and take the place of
 the generic Charisma attribute from D&D.
 
 Dungeon Fantasy is by default pretty strict about niche protection in
-templates. When spending character points to improve your character, you can buy
-any advantage listed on their template directly, even if it's not yet on your
-sheet. If you want to get something that's not listed there, you and the GM need
-to make sure you won't be stepping on anyone's toes.
+templates. When spending earned character points to improve your character, you
+can buy any advantage listed on their template directly, even if it's not yet on
+your sheet. If you want to get something that's not listed there, you and the GM
+need to make sure you won't be stepping on anyone's toes.
 
-The list in this chapter is mainly for stuff that appears on multiple templates,
-or that could be acquired by any character. The templates themselves also have
-mini-lists of exclusive advantages.
+The list in this chapter is mainly for stuff that could be acquired by any
+character. The templates themselves also have mini-lists of exclusive
+advantages that cannot be acquired by delvers of other professions.
 
 ## Disadvantages
 
 Disadvantages have _negative_ point costs, so they give you more points to spend
 elsewhere. For Dungeon Fantasy, the default disadvantage limit is -50. That's
-the maximum amount of problems your PC can start with.
+the maximum amount of problems your PC can start with. Lowered secondary
+characteristics count against this limit.
 
 Many disadvantages can be "bought off" in play with earned character
 points. They can also be acquired in play, usually due to the kind of misfortune
@@ -65,7 +66,7 @@ pull, you can make a success roll against that self control number.
 
 The default is self-control number is 12. You can choose 15 instead and only get
 half the listed points for the disadvantage (since it's less severe), or you can
-choose 9 or 6 and get more (and then you have to live with the
+choose 9 or 6 to get more (and then you have to live with the
 consequences). Nothing else modifies this number. It doesn't matter what your
 Will score is, or how many other mental defenses you have. And of course, you
 can always choose to succumb to your disadvantage without rolling, if it would
@@ -76,7 +77,7 @@ desirable to engage in the behavior implied by the disadvantage: when it comes
 into play, it gives you a -1 penalty per -5 points of its cost for whatever it
 is you're trying to do. So the player of your typical horny bard isn't forced to
 make a pass at every attractive person they meet, but they might occasionally
-need to weather a -3 penalty to their actions because they can't help but being
+need to weather a -3 penalty to their actions because they can't avoid being
 distracted by that attractiveness.
 
 Finally, we have some disadvantages here that aren't recommended for any
@@ -141,20 +142,20 @@ the Exploits book, but here's a preview so you can understand how defenses work.
 When someone attacks in combat, they make a success roll against the relevant
 weapon skill (plus modifiers). If they succeed, they threaten a hit, and the
 target must do something to avoid that. A target who is completely unaware of
-the attack or otherwise helpless automatically gets hit and takes
+the attack or otherwise helpless has no choice but to get hit and take
 damage. Everyone else gets the chance to make an active defense roll.
 
 There are three possible defenses: you can **Parry** with your melee weapon or
 hands, you can **Block** with a shield, or you can **Dodge**. Parries are based
-on your own weapon skill, and can handle most melee attacks. Blocks can stop
-ranged attacks as well, but require a shield. Dodging is good against everything
-and can be done multiple times in a turn without penalty, but it's going to have
-a smaller score than the others because it's based on your Basic Speed and
-penalized by your encumbrance.
+on your own weapon skill, and can handle most melee attacks. Blocks are based on
+the Shield skill and can stop ranged attacks as well, but obviously require a
+shield. Dodging is good against everything and can be done multiple times in a
+turn without penalty, but it's going to have a smaller score than the others
+because it's based on your Basic Speed and penalized by your encumbrance.
 
 Succeeding at your defense roll means you completely avoid the attack! This is
 not a contest - simple success is enough to protect you. This means anyone with
-defenses of 11 or higher due to high skill of specialized advantages is very
+defenses of 11 or higher due to high skill or specialized advantages is very
 annoying to fight. There are also several strategies attackers can adopt to try
 to reduce or nullify an opponent's defense score, but we'll get to them when we
 get to them.

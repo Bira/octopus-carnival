@@ -43,6 +43,9 @@ The chapter begins with a list of the available professions in this book:
 
 - **Wizards** are masters of weird lore, and have access to many many spells.
 
+A lot of these are familiar to people coming from D&D, and the individual
+articles about each will explain the differences.
+
 ## Anatomy of a Professional Template
 
 In this section we'll go over how templates are described, and mention some
@@ -59,7 +62,7 @@ attributes and if any secondary characteristics are modified from that baseline.
 _None_ of the templates have stats below 10, the human average. Adventuring is a
 dangerous profession and adventurers need to be very good at what they do. While
 you should still let the wizard decipher magic formulae and the barbarian lift
-heavy things, the wizard is not frail and the barbarian is not stupid. For the
+heavy things, the wizard is not weak and the barbarian is not stupid. For the
 same reason, Perception and Will cannot be lowered by more than 4 levels (and
 you shouldn't lower it at all if your IQ is 10 to begin with, in my opinion).
 
@@ -125,16 +128,16 @@ This is divided into three subsections. The first one is for your character's
 main weapon skills, and lets you chose between two or three "packages"
 representing the most iconic equipment for the profession.
 
-Next you have a list of always-present skills related to your character's core
+Next you have a list of primary skills related to your character's core
 competency. Barbarians and scouts are good at outdoor survival, for example,
 thieves are sneaky, and clerics have to know all about their religion and its
-enemies.
+enemies. New characters always have all the skills from this list.
 
-And next you have a list of optional secondary skills that represent the kind of
-stuff every adventurer picks up over the course of their career. If they aren't
-in the previous section this is where you'll find stuff like Stealth, First Aid,
-Gesture, Knot-Tying... There might also be stuff that's related to your specific
-profession but not considered as iconic or important.
+And next you have a list of optional secondary skills. All templates have 7
+points to spend here, 1 per skill. These are usually the sort of thing every
+delver learns to do at least a bit, like stealth, first aid, communicating via
+gestures, tying good knots, and so on. They also include things related to the
+template's profession, but which are a bit more niche.
 
 ### Spells
 
