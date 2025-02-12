@@ -7,6 +7,16 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-cover.jpg" | absolute_url }}"/>
+  <figcaption>
+    The book's cover, depicting several monsters including the Dragon of Tyr. Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 As I write this, RPGnet forum user zedturtle is just starting a Let's Read of
 the Dark Sun Campaign Setting for 4e, and I thought I'd join in on the fun by
 doing a parallel Let's Read of the Creature Catalog.
@@ -61,12 +71,12 @@ preferred tactics:
 
 In addition to this "primary" role, there are some extra roles a monster might
 have. An Elite monster is worth two regular monsters, with double the HP and
-some ability that lest them perform two attacks per turn. A Solo monster is
-worth five regulars, has four times the HP, attacks that affect a large number
-of PCs at the same time, and usually some resistance to being "stun-locked" by
-PC controllers. Minions are weak monsters that deal half the damage for their
-level and always have 1 HP (but cannot be damaged by missed attacks). Four to
-six minions are worth one regular monster.
+some ability to perform multiple attacks per turn. A Solo monster is worth five
+regulars, has four times the HP, attacks that affect a large number of PCs at
+the same time, and usually some resistance to being "stun-locked". Minions are
+weak monsters that deal half the damage for their level and always have 1 HP
+(but cannot be damaged by missed attacks). Four to six minions are worth one
+regular monster.
 
 Finally, a monster tagged as a Leader will have abilities that enhance their
 buddies somehow.
@@ -95,7 +105,9 @@ fey humanoid, a shield guardian is a natural animate, a zombie is a shadow
 animate.
 
 Humanoid doesn't even mean "two arms and two legs": centaurs are fey humanoids!
-I love this system.
+I love this system. In previous readings, I tended to go with Int scores and the
+like to guess if a monster was sapient or not, but in this one I'm going mostly
+from the classification.
 
 
 ### Encounter Design
@@ -114,12 +126,11 @@ the full combat rules. Level+4 or Level+5 are scary nightmare battles where
 victory is no longer assured, suitable for final boss fights. Anything harder
 than that will dramatically increase the chances of a TPK.
 
-Don't believe what the edition warriors tell you: encounters don't _have_ to be
-perfectly balanced, not anymore than they do in any other edition. What this
-system does is deliver _consistent_ encounters. If you want them to be easy,
-they'll be easy. If you want them to be hard, they'll be hard. The number of
-times where the opposite of what you want happens is kept to a minimum. And
-that's why I love these rules to bits.
+Encounters don't _have_ to be "perfectly balanced", not anymore than they do in
+any other edition. What this system does is deliver _consistent_ encounters. If
+you want them to be easy, they'll be easy. If you want them to be hard, they'll
+be hard. The number of times where the opposite of what you want happens is kept
+to a minimum. And that's why I love these rules to bits.
 
 
 ## Coming up Next
