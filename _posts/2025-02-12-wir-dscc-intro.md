@@ -40,7 +40,7 @@ I'll do so again this time, since it's been a while.
 
 ### Level and Role
 
-Unlike 3e and 4e, Fourth Edition D&D doesn't have the concept of a "Challenge
+Unlike 3e and 5e, Fourth Edition D&D doesn't have the concept of a "Challenge
 Rating". Monsters instead have levels ranging from 1 to 30, just like PCs. A
 monster's base attack bonus, damage, defenses, and HP are all based on its
 level, with adjustments for its combat role.

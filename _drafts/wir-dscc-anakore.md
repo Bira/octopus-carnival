@@ -26,7 +26,7 @@ below. Then they will fight with their powerful digging claws and their
 paralytic bites.
 
 While on the move, the creatures subsist on plant roots, including certain
-poisonous species that help the formation of their venom. Rootless vegetation is
+poisonous species that help the formation of their venom. Rootless vegetation
 spread around an area is a possible signt of anakore presence, though they're
 often intelligent enough to clean this up if they intend to stay in place for a
 while.
@@ -91,10 +91,10 @@ venom.
 
 ### Anakore Dune King
 
-Often the leaders of a pack, Dune Kings signal the start of an attack by bursting
-up from the ground in the middle of their targets and distracting them so their
-fellows can attack the victims more safely. They're Level 9 Skirmishers with 94
-HP and the Leader tag.
+Often the leaders of a pack, Dune Kings signal the start of an attack by
+bursting up from the ground in the middle of their targets and distracting them
+so their fellows can attack the victims more safely. They're Level 9 Skirmishers
+with 94 HP and the Leader tag.
 
 Their **claws** damage and apply anakore poison on a hit, but the real threat
 here is the **Sand Eruption** ability (recharge 5+). The dune king must be

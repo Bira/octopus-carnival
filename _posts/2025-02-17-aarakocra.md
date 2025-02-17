@@ -7,18 +7,29 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-aarakocra.jpg" | absolute_url }}"/>
+  <figcaption>
+    An aarakocra warrior holding a spear with their feet. Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 As far as I know Aarakocra first show up on the 1e Fiend Folio as relatively
 peaceful and good-natured bird people. They're like that in most of their
-appearances, but just like with all the other people in the game the Dark Sun
-version of them is a little more hardcore.
+appearances, but just like with all everything else about this setting the
+Athasian version is Darker and Sunnier(TM).
 
 ## The Lore
 
 Here, Aarakocra are vulture-people, who band together in insular tribes for
-survival in the harsh wastelands of Athas. Each tribe claims a territory, and
-fiercely defends it. Their settlements are built atop desert mesas and other
-high places, and they use these vantage points to survey their territory for
-food and intruders.
+survival in the harsh wastelands of Athas. They just want to be left alone to do
+their own thing, but are understandably mistrustful of outsiders in a setting
+full of slavers and sorcerer-kings. Each tribe claims a territory, and fiercely
+defends it. Their settlements are built atop desert mesas and other high places,
+and they use these vantage points to survey their territory for food and
+intruders.
 
 Foreigners traveling through a tribe's territory will be approached by the
 aarakocra, who demand tribute in exchange for safe passage. Those who pay are
@@ -28,10 +39,9 @@ merchant houses make deals with the more powerful tribes, paying protection fees
 in advance to avoid harassment from both the paid off tribe and any weaker ones
 that might lie along the route.
 
-Despite their reputation as scavengers and bandits, they're still a deeply
-spiritual people, with a long tradition of reverence for primal spirits of the
-wind and sun. Many of them display the ability to cast primal spells, and they
-know rituals to summon air elementals and other spirits.
+Aarakocra have a long tradition of reverence for primal spirits of the wind and
+sun. Many of them display the ability to cast primal spells, and they know
+rituals to summon air elementals and other spirits.
 
 ## The Numbers
 
@@ -42,9 +52,10 @@ squares. It's very useful for disengaging from melee.
 
 ### Aarakocra Diver
 
-Braver than most of their kin, like to fly high and dive at their targets from
-an angle that leaves the sun at their backs, making it difficult for the victim
-to spot them until it's too late. They're Level 6 Skirmishers with 66 HP.
+Braver than most of their kin, these warriors like to fly high and dive at their
+targets from an angle that leaves the sun at their backs, making it difficult
+for the victim to spot them until it's too late. They're Level 6 Skirmishers
+with 66 HP.
 
 Divers fight in the traditional aarakocra style, gripping a Reach 2
 **longspear** in their prehensile feet while flying. "Brave" doesn't mean
@@ -100,18 +111,18 @@ squares.
 ## Encounters
 
 Aarakocra rarely work with other sapients, except maybe for the occasional
-cooperation with kenku. They will however follow or lure large predators who
+cooperation with kenku. They will however follow or lure dangerous predators who
 live in their territory towards groups of intruders they want to kill, and then
 swoop down to deal with the survivors.
 
-Additionally, their traditional ability to summon air elementals is still here,
-now as an off-screen ritual instead of something that takes six aarakocra and
-has to happen mid-fight. So it's entirely possible for encounters to include
-these air elementals or other primal spirits.
+Additionally, their traditional ability to summon elementals is still here, now
+as an off-screen ritual instead of something that has to happen mid-fight. So
+it's entirely possible for encounters to include elementals or other primal
+spirits.
 
-Finally, the vulture-folk have reason to distrust other humanoids. Slavers from
-the city-states like to kidnap their young or even their eggs, which end up in
-the service of the many despots of Athas as enslaved scouts and soldiers.
+And as with any kind of sapient person in this hellish wasteland, they might be
+found in the service of the many despots of Athas as enslaved scouts and
+soldiers.
 
 ## Final Impressions
 
