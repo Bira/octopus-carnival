@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-aarakocra.jpg" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-aarakocra.png" | absolute_url }}"/>
   <figcaption>
     An aarakocra warrior holding a spear with their feet. Copyright 2010 Wizards of the Coast.
   </figcaption>
