@@ -35,8 +35,8 @@ to skip everything but the kyton fight.
 With the Temple Hill Slasher quest happening early, the only one left here is
 the **Poison Pen of Kintargo**. The rescue happens as written, for the same
 romantic reasons, but I want to make Captain Sargaeta into a less morally
-ambiguous figure. Instead of being a Chelish patriot, he's Andoren and keeps no
-slaves. He otherwise remains just as useful to the PCs as originally
+ambiguous figure. Instead of being a Chelish patriot, he's an Andoren
+abolitionist. He otherwise remains just as useful to the PCs as originally
 written. This is both more palatable to me and ensures good PCs will accept his
 help, which makes a lot of things easier in the rest of the adventure path.
 
