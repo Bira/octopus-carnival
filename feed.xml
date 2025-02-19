@@ -6,9 +6,157 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Feb 2025 16:09:38 +0000</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2025 16:09:38 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Feb 2025 12:51:30 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Feb 2025 12:51:30 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Anakore</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-anakore.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    An typical anakore specimen, looking like a gray spiky armadillo man with
+    large claws. Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I have no idea if anakores appeared before. This is the first time I’ve read
+about them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Little is known about the origins of these creatures. Ancient tales speak of a
+terror from beyond the sky that touched their humanoid ancestors, causing them
+to recoil from the sun and seek shelter underground. Over time, these ancestors
+became today’s anakores.&lt;/p&gt;
+
+&lt;p&gt;Anakores live in small hunter-gatherer bands led by their most accomplished
+tracker. They burrow beneath the desert sands during the day, and from there
+they can feel the vibrations of prey passing overhead, and smell blood spilled
+on the ground. When anakores detect prey, they can follow it all day by
+tunneling through the sands, waiting until nightfall to spring their ambush from
+below. Then they will fight with their powerful digging claws and their
+paralytic bites.&lt;/p&gt;
+
+&lt;p&gt;While on the move, the creatures subsist on plant roots, including certain
+poisonous species that help the formation of their venom. Rootless vegetation
+spread around an area is a possible signt of anakore presence, though they’re
+smart enough to clean this up if they intend to stay in place for a while.&lt;/p&gt;
+
+&lt;p&gt;Different band members specialize in different parts of an attack - some lead
+the ambush, others strike to hurt and incapacitate victims, and yet others drag
+those victims underground.&lt;/p&gt;
+
+&lt;p&gt;I guess a lot of the time they prey on the local fauna, but anakores don’t mind
+attacking sapient travellers, and judging from what the book says seem to prefer
+it. They don’t have any visible sexual dimorphism, and rumor has it that they
+reproduce by dragging some of their sapient victims to weird cocoons under the
+sands. There, the victims are transformed into more anakores. No one knows what
+criteria they use to select new candidates.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Anakores are Medium Aberrant Humanoids, which means they’re sapient. They have
+low-light vision and Tremorsense 5, plus a ground speed of 5 with Earth Walk and
+a burrow speed of 6 on loose earth only. They communicate in Deep Speech.&lt;/p&gt;
+
+&lt;p&gt;Their signature traits are &lt;strong&gt;Dune Diver&lt;/strong&gt;, which lets them charge while
+burrowing, and &lt;strong&gt;Sensitive to Light&lt;/strong&gt;, which gives them a -2 penalty to attacks
+for a turn when they’re exposed to direct sunlight or take radiant damage.&lt;/p&gt;
+
+&lt;p&gt;Their poison is a rider on a different attack on every stat block, but the
+effect is always the same: the target is slowed on a hit (save ends), worsening
+to immobilized (save ends) after the first failed save.&lt;/p&gt;
+
+&lt;h3 id=&quot;anakore-hunter&quot;&gt;Anakore Hunter&lt;/h3&gt;
+
+&lt;p&gt;These are the ones who drag people under. They’re Level 5 Lurkers with 48
+HP. Their basic &lt;strong&gt;claw&lt;/strong&gt; attacks grab the target on a hit, and on their next
+turn they can choose to either bite the victim or drag them under.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;bite&lt;/strong&gt; targets a grabbed creature and deals a bit less damage than the
+claws, but applies the poison described above. &lt;strong&gt;Drag Under&lt;/strong&gt; (melee 1
+vs. Fortitude) can target either immobilized or grabbed creatures. It deals more
+damage than the claw, inflicts 5 ongoing damage and removes the target from play
+(save ends both). When the effect ends the target reappears at its previous
+position or on the closest unoccupied square. And even them they’re still
+immobilized (save ends), so the hunter can try to drag them under again right
+away instead of having to bite.&lt;/p&gt;
+
+&lt;p&gt;Presumably, victims who drop to 0 HP by this attack would be dragged further
+down and not come back up. Don’t let that happen!&lt;/p&gt;
+
+&lt;h3 id=&quot;anakore-render&quot;&gt;Anakore Render&lt;/h3&gt;
+
+&lt;p&gt;This is the one that hurts the prey and makes it more vulnerable to the
+others. Renders are Level 7 Brutes with 96 HP and a ground speed of 7 instead
+of the usual 5.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; do heavy damage on a hit, pushing the target 2 squares and
+knocking it prone. Their &lt;strong&gt;blood frenzy&lt;/strong&gt; ablity (recharge 5+) lets them perform
+two of these attacks in one action.&lt;/p&gt;
+
+&lt;p&gt;As a move action, they can use &lt;strong&gt;Blood Hunger&lt;/strong&gt; to shift 3 squares closer to a
+bloodied creature. As a minor action, they can use a &lt;strong&gt;rending bite&lt;/strong&gt; against a
+prone or bloodied creature, which does light physical damage and applies anakore
+venom.&lt;/p&gt;
+
+&lt;h3 id=&quot;anakore-dune-king&quot;&gt;Anakore Dune King&lt;/h3&gt;
+
+&lt;p&gt;Often the leaders of a pack, Dune Kings signal the start of an attack by
+bursting up from the ground in the middle of their targets and distracting them
+so their fellows can attack the victims more safely. They’re Level 9 Skirmishers
+with 94 HP and the Leader tag.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; damage and apply anakore poison on a hit, but the real threat
+here is the &lt;strong&gt;Sand Eruption&lt;/strong&gt; ability (recharge 5+). The dune king must be
+underground to start this, and the action lets him move 4 squares to a square
+that’s not underground. The first time they enter such a square, they can
+perform a Close Burst 2 attack that targets enemies and deals very heavy
+physical damage on a hit, sliding the targets 2 squares. Additionally, each
+anakore in the burst can shift 3 squares as a free action, and the area of the
+burst becomes difficult terrain until the end of the encounter.&lt;/p&gt;
+
+&lt;p&gt;Finally, Dune Kings can shift 1 square as a minor action using &lt;strong&gt;Sand Slide&lt;/strong&gt;,
+which makes them as slippery as kobolds despite their size.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Anakore bands only hunt in places where they can burrow, which means the terrain
+on the map will mostly be soft earth, sand, or silt. An anakore-only encounter
+is the most common one, I think, but they can also appear with other burrowing
+predators that they either trained, or which happen to be opportunistically
+hanging around.&lt;/p&gt;
+
+&lt;p&gt;They can also work with other sapients that pay them in food and trinkets for
+doing what they were already going to do anyway, and you might also find them
+in bizarre aberrant ruins on or under the surface, drawn there by strange dreams
+and performing unspeakable rituals.&lt;/p&gt;
+
+&lt;p&gt;Anakores are smart enough to recognize when they’re in a poor situation, and
+when they should negotiate instead of fighting. But if they think they should
+fight, their underground ambushes can be pretty terrifying, as all of their
+powers synergize very well and make the tactics described in the lore section
+very effective.&lt;/p&gt;
+
+&lt;p&gt;Their burrow speed lets them go back underground at will, meaning each Dune King
+might be able to perform more than one Sand Eruption in a fight, and the Hunters
+can move with relative impunity among the party to harass and grab the
+PCs. Renders stay up top once they emerge, and all of them are immune to the
+difficult terrain created by the Kings due to Earth Walk.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/02/19/anakore.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/19/anakore.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Aarakocra</title>
@@ -1894,101 +2042,6 @@ place.&lt;/p&gt;
         <category>lets-play</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Adjusting Setting Assumptions</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;It’s time for me to put on my GM hat and begin preparing my solo Hell’s Rebels
-campaign. As mentioned in the &lt;a href=&quot;/octopus-carnival/2023/07/08/lets-play-hells-rebels.html&quot;&gt;previous post&lt;/a&gt;, I want to play this using the
-GURPS Dungeon Fantasy rule set instead of the campaign’s native Pathfinder
-1e. Let’s take a look at what this means.&lt;/p&gt;
-
-&lt;p&gt;But wait a minute! Wasn’t that previous most published more than a year ago?
-Well, turns out I started writing this one shortly after publishing it, but one
-thing and another got in the way and I’m only getting around to publishing it
-now. I’m actually a fair bit along in campaign preparation and even started
-playing, I’m just behind on documenting the process. Anyway, let’s keep going.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-setting&quot;&gt;The Setting&lt;/h2&gt;
-
-&lt;p&gt;As we all know by now, Hell’s Rebels takes place in Golarion, Pathfinder’s
-setting. Golarion was built from the ground up to support dungeon fantasy
-campaigns so we don’t have any fundamental friction between it and the Dungeon
-Fantasy rules. Despite the many D&amp;amp;D-isms of Pathfinder’s first edition we
-already know the setting can easily be used with other systems, since it has an
-official Savage Worlds port and Paizo itself is in the process of removing those
-D&amp;amp;D-isms from the latest iteration of their house system.&lt;/p&gt;
-
-&lt;p&gt;That being said, I do want to make a few changes to the version I’m going to
-use. The most obvious one is I’m going to drop the many different fiend
-classifications from D&amp;amp;D and Pathfinder in favor of Dungeon Fantasy’s
-simplified “it’s all demons from Hell”. Any of the demons from DF will be fair
-game as opposition here.&lt;/p&gt;
-
-&lt;p&gt;And since I’m talking about setting changes, any mention I find of Cheliax’s
-fascists and diabolists being in any way “disciplined” or “organized” despite
-their evil will be altered because incompetence, corruption, and a disregard for
-any rules lies at the heart of fascism. These fucks do not make the trains run
-on time and never have. You do not, at any point, gotta hand it to them.&lt;/p&gt;
-
-&lt;p&gt;I also want to lean on the similarities between this campaign and Assassin’s
-Creed Brotherhood, so we’ll be at a Renaissance tech level with early guns
-widely available to guards and rebels. Make ready your blessed bullets, o devil
-hunters.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-mechanics&quot;&gt;The Mechanics&lt;/h2&gt;
-
-&lt;p&gt;I think this will mostly be pretty simple, because this won’t be the first time
-I’m converting between Pathfinder and DF. I did already run the first two
-volumes of Hell’s Rebels and the first three volumes of Iron Gods to different
-player groups. During those times two issues jumped at me as being the most
-difficult to handle.&lt;/p&gt;
-
-&lt;p&gt;The first one was treasure conversions, but I think I’ve arrived at a satisfying
-process for that &lt;a href=&quot;/octopus-carnival/2023/06/25/dungeon-fantasy-wealth.html&quot;&gt;in this post&lt;/a&gt;. Our delvers will eventually end up very
-wealthy, but I imagine the rebellion will prove to be a great money sink.&lt;/p&gt;
-
-&lt;p&gt;The other difficulty concerns the only somewhat common part of the dungeon
-delving experience that’s harder to do in Dungeon Fantasy than in D&amp;amp;D:
-underwater adventures. There’s a couple of extended underwater segments in the
-middle of the adventure path, and Pathfinder’s default items and spells for it
-are a lot more accessible than Dungeon Fantasy’s.&lt;/p&gt;
-
-&lt;p&gt;But hey, it turns out I already solved that too! &lt;a href=&quot;/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html&quot;&gt;This post&lt;/a&gt; collects the
-underwater rules I’ll be using, and &lt;a href=&quot;/octopus-carnival/2023/11/13/underwater-items.html&quot;&gt;this one&lt;/a&gt; has a nice set of more
-accessible items to let our PCs go for a swim and live to tell the tale. The
-truth is that I started writing this post before I wrote the underwater ones, so
-they were actually part of my effort to figure this campaign out.&lt;/p&gt;
-
-&lt;p&gt;Monster conversions used to be a big problem back when I started the Let’s Read,
-but now I have enough DF monster books that I can swipe appropriate stat blocks
-for nearly every one of them. If I need to create new ones for specific foes,
-you can be sure I’ll post them here.&lt;/p&gt;
-
-&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next&lt;/h2&gt;
-
-&lt;p&gt;Character themes! Everybody loves character themes!&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 26 Aug 2024 14:50:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/08/26/lphr-setting-assumptions.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/08/26/lphr-setting-assumptions.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>gm-hat</category>
         
         
       </item>
