@@ -16,6 +16,8 @@ tags:
 </figure>
 {:/nomarkdown}
 
+This post is part of a series! Click [here][1] to see the rest.
+
 As far as I know Aarakocra first show up on the 1e Fiend Folio as relatively
 peaceful and good-natured bird people. They're like that in most of their
 appearances, but just like with all everything else about this setting the
@@ -130,3 +132,5 @@ Mechanically I think these are mostly equivalent to traditional aarakocra in
 terms of capabilities, but I like that their lore makes them a group PCs are
 likely to deal with at some point, instead of putting them atop isolated
 mountain ranges.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

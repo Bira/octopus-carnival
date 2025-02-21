@@ -46,6 +46,10 @@ In which I read a book or series of books and commentate on their content.
   a Let's Read of the Neverwinter Campaign setting, the last "proper" setting
   for 4e and one that has quite a few interesting traits.
 
+- [Let's Read the Dark Sun Creature Catalog][11]: Another RPG.net user started
+  reading the Dark Sun Campaign Setting, and I decided to do a parallel reading
+  of the Creature Catalog.
+
 ## Ready-to-Play Characters
 
 - [Pathfinder Iconics in Dungeon Fantasy][2]: A group of Pathfinder's Iconics
@@ -67,3 +71,4 @@ posts in order. Enjoy!
 [8]: {{ "/projects/mm3-4e/" | relative_url }}
 [9]: {{ "/projects/tnv/" | relative_url }}
 [10]: {{ "/projects/neverwinter/" | relative_url }}
+[11]: {{ "/projects/dscc/" | relative_url }}
