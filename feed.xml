@@ -6,9 +6,160 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Feb 2025 10:50:00 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Feb 2025 10:50:00 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2025 01:34:55 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2025 01:34:55 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Belgoi</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-belgoi.jpeg&quot;/&gt;
+  &lt;figcaption&gt;
+    A Belgoi atop a rock, ringing its bell. Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;What do fey look like in a world whose environment as deeply fucked up as
+Athas’? Let’s check it out.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Belgoi (singular and plural are the same) lived in the Feywild before it was
+destroyed in ancient Athasian history, and they weren’t the most pleasant of fey
+back them. They took refuge in the world, but eventually came to hate it and all
+its residents. Now they live to despoil everything they touch.&lt;/p&gt;
+
+&lt;p&gt;Belgoi organize into small nomadic tribes led by the strongest member. They’ll
+stop at a location and live there for a while, moving on when everything around
+them is ruined, consumed, or polluted. They often go out hunting, and will eat
+anything and anyone they can catch. They prefer sapient victims because they
+think meat tastes better when seasoned with terror, and that eating someone lets
+them absorb the victim’s power. That’s why they also eat their own dead.&lt;/p&gt;
+
+&lt;p&gt;Eladrin are their preferred victims, since the belgoi blame them for the
+destruction of their homelands.&lt;/p&gt;
+
+&lt;p&gt;Belgoi wear leather or hide armor, which I guess is true of most fighters on
+Athas. They fight with claw or spear, and wield small bells which they use to
+channel their magic. Ringing the bell allows them to lure targets closer for the
+kill, isolating them from their peers and breaking their formations.&lt;/p&gt;
+
+&lt;p&gt;This makes me think their name is a horrible pun (belgoi == “bell guy”).&lt;/p&gt;
+
+&lt;p&gt;Some of them have the ability to drain a victim’s life force through the wounds
+they inflict. You can see it seeping out and flowing into the creature.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Belgois are Medium Fey Humanoids with Speed 6 and Low-Light Vision. They speak
+Common, and all of the stat blocks here are Chaotic Evil. Their signature trait
+is that they’re &lt;strong&gt;Hungry For Blood&lt;/strong&gt;, which makes all their attacks deal extra
+damage against bloodied targets. All of them also have a bell-related power,
+which is a little different for each variant.&lt;/p&gt;
+
+&lt;h3 id=&quot;belgoi-craven&quot;&gt;Belgoi Craven&lt;/h3&gt;
+
+&lt;p&gt;The weakest and most cowardly of their number, hiding behind more powerful
+warriors and waiting for the chance to pounce upon weak or isolated enemies.&lt;/p&gt;
+
+&lt;p&gt;These are Level 7 Minion Skirmishers, whose &lt;strong&gt;Craven Slink&lt;/strong&gt; gives them a +2
+bonus to all defenses when adjacent to an ally (even another craven). Their
+&lt;strong&gt;claw&lt;/strong&gt; is a standard minion basic attack, and their &lt;strong&gt;Compelling Ring&lt;/strong&gt;
+(ranged 10 vs. Will, Encounter) can slide the target 5 squares to a square
+adjacent to the craven or one of their allies. Dangerous when the more powerful
+variants are around!&lt;/p&gt;
+
+&lt;h3 id=&quot;belgoi-stalker&quot;&gt;Belgoi Stalker&lt;/h3&gt;
+
+&lt;p&gt;Not every belgoi belongs to a tribe. Stalkers usually travel alone, but can
+sometimes join up with mixed humanoid bands that have similar inclinations. They
+will also opportunistically insert themselves into ongoing fights, trying to
+lure a victim out while they’re busy with other enemies. And you can also just
+say a given stalker is with a tribe too, of course. They’re Level 7 Lurkers with
+63 HP.&lt;/p&gt;
+
+&lt;p&gt;Stalkers will star the fight at a distance, and use the &lt;strong&gt;Enticing Ring&lt;/strong&gt;
+(Ranged 10 vs. Will) of their bells to lure a target. On a hit the target is
+pulled 5 squares and dazed for a turn. The stalker then moves up and uses its
+basic &lt;strong&gt;Claw&lt;/strong&gt; attack, which deals light physical damage and ongoing 5 damage
+(save ends). If the target is dazed, like they would be in this scenario, the
+ongoing damage is increased to 15 and the &lt;em&gt;Stalker&lt;/em&gt; takes a -5 penalty to its
+defenses until the start of its next turn, giving it an incentive to stay
+away.&lt;/p&gt;
+
+&lt;h3 id=&quot;belgoi-hunter&quot;&gt;Belgoi Hunter&lt;/h3&gt;
+
+&lt;p&gt;Hunters are the main frontline units of a Belgoi attack, engaging enemies
+directly with their spears and trying to make them vulnerable to the attacks of
+their sneakier fellows. They’re Level 8 Soldiers with 89 HP.&lt;/p&gt;
+
+&lt;p&gt;Hunters fight with their &lt;strong&gt;spears&lt;/strong&gt;, but instead of charging into the fray
+they’ll try to draw enemies to them with the &lt;strong&gt;Ringing Attraction&lt;/strong&gt; of their
+bells. This minor action power attacks the Will of all enemies in a Close
+Burst 5. On a hit, the hunter pulls the target 3 squares and marks it.&lt;/p&gt;
+
+&lt;p&gt;The hunter can then use its &lt;strong&gt;Stakeout&lt;/strong&gt; attack against an enemy it has marked,
+which deals the same damage as the basic spear strike and immobilizes the target
+for a turn.&lt;/p&gt;
+
+&lt;p&gt;This set of powers is perfect for a tactic where hunters get the party’s
+defenders out of position so a large horde of cravens or a stalker can slip
+through.&lt;/p&gt;
+
+&lt;h3 id=&quot;belgoi-caller&quot;&gt;Belgoi Caller&lt;/h3&gt;
+
+&lt;p&gt;Callers usually lead belgoi tribes and hunting bands. They’re visibly more
+powerful than their followers, and have access to stronger magic and psychic
+powers that help their allies and hinder their foes. Not every hunting band will
+have a caller in it, but when they show up they’re bad news. Callers are Level 8
+Elite Controllers with the Leader tag and 178 HP.&lt;/p&gt;
+
+&lt;p&gt;They can fight with &lt;strong&gt;Claws&lt;/strong&gt; that damage and inflict ongoing 5 damage (save
+ends), but their actions are better spent on their &lt;strong&gt;Ennui Lash&lt;/strong&gt; power (minor
+action, melee 3 vs. Will), which does equivalent psychic damage and inflicts a
+-2 penalty to Will for a turn. That opens the enemy up to their bigger powers,
+and to the psychic attacks of their buddies.&lt;/p&gt;
+
+&lt;p&gt;The first big power is &lt;strong&gt;Command of the Bell&lt;/strong&gt; (Ranged 10 vs. Will, recharge
+4+), which deals psychic damage, slides the target 3 squares, and forces them to
+make an at-will attack against an ally of the caller’s choice. Not a basic
+attack, an &lt;em&gt;at-will&lt;/em&gt; attack.&lt;/p&gt;
+
+&lt;p&gt;The other big power is &lt;strong&gt;Distant Ringing&lt;/strong&gt; (area burst 3 within 10 vs. Will,
+recharge when first bloodied), which deals psychic damage to enemies caught
+inside and pulls them towards the center of the burst. Allies caught inside can
+shift 1 square and roll a save.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Encounters with groups of belgoi are pretty similar to the ones described for
+the lone stalker above. They creep around the party trying to stay undetected
+until their targets are vulnerable or engaged in another fight, try to lure and
+kill as many victims as they can.&lt;/p&gt;
+
+&lt;p&gt;They’ll use clever ambush tactics and take advantage of terrain as much as
+possible, but don’t seem to like surrendering or talking. They always begin with
+the ambush, and run away if things don’t go their way, possibly to return later
+for revenge.&lt;/p&gt;
+
+&lt;p&gt;I like their mechanics, but I’ll admit I can’t get over the pun. Bell
+guys. Sigh.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/02/23/wir-dscc-belgoi.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/23/wir-dscc-belgoi.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Baazrag</title>
@@ -1792,140 +1943,6 @@ plan” joke work. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&
         <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</guid>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Abandoning Weapon Master</title>
-        <description>&lt;p&gt;A while back I made a post about &lt;a href=&quot;/octopus-carnival/2021/05/27/masterful-combat.html&quot;&gt;combining Weapon Master and Trained by a
-Master&lt;/a&gt; into a single advantage. After thinking about it for a while, I think
-I might have changed my mind about it. I not sure the two traits are really
-meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.&lt;/p&gt;
-
-&lt;p&gt;Dungeon Fantasy character creation rules are all about replicating a lot of
-D&amp;amp;D’s conventions in GURPS. And one of the D&amp;amp;D-isms it tries to replicate is
-that a combat centric character can be either strong or fast, but not both.&lt;/p&gt;
-
-&lt;h2 id=&quot;dd-combat-conventions&quot;&gt;D&amp;amp;D Combat Conventions&lt;/h2&gt;
-
-&lt;p&gt;In recent editions of D&amp;amp;D, that happens because characters have a very limited
-number of points to distribute at creation, and every class is meant to have
-only 1 or 2 attributes that are important to its abilities. Physical combatants
-end up having either STR or DEX as their main attribute, and the rules are
-usually set up so that the other member of the pair can be safely dumped.&lt;/p&gt;
-
-&lt;p&gt;STR-based combatants use the heaviest armor and weapons they can get. The vast
-majority are melee specialists. Some buy a single thrown weapon at creation and
-then promptly forget about it. All of these options are designed to make
-Dexterity not matter to them.&lt;/p&gt;
-
-&lt;p&gt;DEX-based combatants are the opposite: they wear light or no armor, and are
-evenly split between archers and melee skirmishers who rely on “finesse weapons”
-that use DEX instead of STR. Therefore Strength doesn’t matter to them.&lt;/p&gt;
-
-&lt;p&gt;Every physical combatant&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; in the last three editions of D&amp;amp;D is going to lean
-heavily towards one of these archetypes. A few classes incentivise players to
-try and be a bit of both, but for most of them that’s going to lead to a weaker
-character.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-about-gurps&quot;&gt;What about GURPS?&lt;/h2&gt;
-
-&lt;p&gt;Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;amp;D, so
-it ends up bringing this particular trope wholesale into GURPS. You have your
-Strong Delvers, and your Fast Delvers&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But we run into some issues because
-GURPS is much less abstract than D&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;Both in real life and in GURPS, combatants want to be &lt;em&gt;both strong and
-fast&lt;/em&gt;. You need speed and precision to hit, and you need to put some force
-behind your blows for them to be effective. Sure, an individual character might
-have ST or DX that’s a bit higher than the other, but they’ll never be 10+
-points apart like they are in their D&amp;amp;D equivalents.&lt;/p&gt;
-
-&lt;p&gt;Still, DF tries, and Weapon Master is a significant component of this
-attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
-other fast delvers. It more or less takes the place of D&amp;amp;D’s Weapon Finesse,
-since it allows these characters to do improved melee damage without investing
-many points into ST.&lt;/p&gt;
-
-&lt;p&gt;But it’s also an optional Knight trait. And it’s quite easy to take a starting
-Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
-weapon skill of 20. Such a character literally combines the best of both
-worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
-their strikes to a massive amount of damage when they land, due to the higher
-base number of damage dice and the per-die damage bonus.&lt;/p&gt;
-
-&lt;p&gt;As a player, this damage bonus seems so good to me that I’d feel bad about
-“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
-any enemy that can withstand a hit from the Knight will be impervious to attacks
-from the other PCs.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-to-do-about-it&quot;&gt;What to do about it?&lt;/h2&gt;
-
-&lt;p&gt;The first option is of course to do nothing. This is admitedly a very niche
-concern and you might be okay with it in your game. But if you are having Weapon
-Master Problems at your table you might try one of these other possible
-solutions.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-1-flat-damage-bonus&quot;&gt;Solution 1: Flat Damage Bonus&lt;/h3&gt;
-
-&lt;p&gt;A “minimally invasive” solution is to change the damage bonus from +1 or +2 &lt;em&gt;per
-die&lt;/em&gt; to a flat +1 or +2. All advantage costs remain the same, as do all
-templates.&lt;/p&gt;
-
-&lt;p&gt;This means that the skinny swashbuckler who rolls a single die for damage still
-gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
-damage gets a much smaller relative benefit.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-2-no-more-weapon-master&quot;&gt;Solution 2: No More Weapon Master!&lt;/h3&gt;
-
-&lt;p&gt;Weapon Master no longer exists and Trained By a Master comes in categories
-similar to the removed advantage:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;20 points makes you trained in One Weapon. This gives you improved parries,
-improved Rapid Strikes, and access to the same limited set of Chi Skills as
-Weapon Master did. No damage bonus, though!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;25 points gives you the same benefits for Two Related Weapons or all weapons
-covered by One Skill.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;30 points works as printed, giving you the full set of Trained By a Master
-benefits for all muscle-powered weapons and unarmed attacks.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;“All knives” counts as a single weapon for these purposes, like in the books. So
-do “all unarmed attacks”.&lt;/p&gt;
-
-&lt;p&gt;Everyone who had Weapon Master as an optional advantage gets the corresponding
-version of Trained by a Master instead, and has the option to upgrade to the
-full version.&lt;/p&gt;
-
-&lt;p&gt;This is a more drastic and slightly more complicated solution. No one gets a
-damage bonus any more, but no one overpays for the full Weapon Master package
-either.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And then you have spellcasters, who choose to be slow and weak so they can
-be good at magic. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And Smart Delvers, for which see Footnote 1. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 03 Sep 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/09/03/no-weapon-master.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/09/03/no-weapon-master.html</guid>
         
         <category>gurps</category>
         
