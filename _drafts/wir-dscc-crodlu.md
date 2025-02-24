@@ -34,7 +34,7 @@ Crodlus are Large Natural Beasts with the Reptile tag and a ground speed of 8.
 
 ### Crodlu
 
-This could represent a typical wild specimen, or perhaps one treated as an
+This could represent a typical wild specimen, or perhaps one trained as an
 attack animal instead of a mount. It's a Level 3 Brute with 55 HP.
 
 The crodlu can attack with its **beak** or with **claws** that do a little less
@@ -51,4 +51,16 @@ The War Crodlu has the same three abilities described for the normal version,
 and one more: **Pouncing Mount**. If the war crodlu charges a target while
 mounted, its rider can make a melee basic attack as a free action against that
 same target. The Pounce ability does _not_ count as a charge, but this makes the
-charge of a mounted war crodlu a bit more dangerous than a standard Pounce.
+charge of a mounted war crodlu a bit more dangerous than a standard Pounce,
+depending on who the rider is.
+
+## Encounters and Final Impressions
+
+Crodlus don't strike me as the type of animal who'd attack wandering PCs without
+provocation, so they'll mostly likely be found serving as mounts for bad guys or
+for the PCs themselves. Fighting wild ones would be something that happens when
+the PCs decide to play hunter and steal hatchlings to sell or domesticate.
+
+Mechanically they're very simple, about on par with horses really. I've been too
+desensitized by FF chocobos to see terror bird mounts as a mind-blowing
+innovation, but they're still kinda cool.

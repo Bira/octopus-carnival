@@ -7,6 +7,17 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-belgoi.jpeg" | absolute_url }}"/>
+  <figcaption>
+    A Belgoi atop a rock, ringing its bell. Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 What do fey look like in a world whose environment as deeply fucked up as
 Athas'? Let's check it out.
 
@@ -14,15 +25,15 @@ Athas'? Let's check it out.
 
 The Belgoi (singular and plural are the same) lived in the Feywild before it was
 destroyed in ancient Athasian history, and they weren't the most pleasant of fey
-back them. They came to hate the world and all its residents, and now live to
-despoil everything they touch.
+back them. They took refuge in the world, but eventually came to hate it and all
+its residents. Now they live to despoil everything they touch.
 
 Belgoi organize into small nomadic tribes led by the strongest member. They'll
 stop at a location and live there for a while, moving on when everything around
 them is ruined, consumed, or polluted. They often go out hunting, and will eat
-anything and anyone they can catch. In fact they prefer sapient victims because
-they think meat tastes better when seasoned with terror, and that eating someone
-lets them absorb the victim's power. That's why they also eat their own dead.
+anything and anyone they can catch. They prefer sapient victims because they
+think meat tastes better when seasoned with terror, and that eating someone lets
+them absorb the victim's power. That's why they also eat their own dead.
 
 Eladrin are their preferred victims, since the belgoi blame them for the
 destruction of their homelands.
@@ -102,11 +113,11 @@ powers that help their allies and hinder their foes. Not every hunting band will
 have a caller in it, but when they show up they're bad news. Callers are Level 8
 Elite Controllers with the Leader tag and 178 HP.
 
-They can fight with **Claws** that inflict ongoing 5 damage (save ends), but
-their actions are better spent on their **Ennui Lash** power (minor action,
-melee 3 vs. Will), which does equivalent psychic damage and inflicts a -2
-penalty to Will for a turn. That opens the enemy up to their bigger powers, and
-to the psychic attacks of their buddies.
+They can fight with **Claws** that damage and inflict ongoing 5 damage (save
+ends), but their actions are better spent on their **Ennui Lash** power (minor
+action, melee 3 vs. Will), which does equivalent psychic damage and inflicts a
+-2 penalty to Will for a turn. That opens the enemy up to their bigger powers,
+and to the psychic attacks of their buddies.
 
 The first big power is **Command of the Bell** (Ranged 10 vs. Will, recharge
 4+), which deals psychic damage, slides the target 3 squares, and forces them to
@@ -132,3 +143,5 @@ for revenge.
 
 I like their mechanics, but I'll admit I can't get over the pun. Bell
 guys. Sigh.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

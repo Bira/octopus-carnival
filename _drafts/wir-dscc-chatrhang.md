@@ -8,17 +8,17 @@ tags:
 ---
 
 Chathrangs are big carnivorous tortoises with built-in anti-air artillery. The
-many reed-like protusions on their shells are tubes that can spit out sticky
+many spiny protusions on their shells are tubes that can spit out sticky
 envenomed quills, with or without a tether that lets them reel in their
 catch. Their usual hunting method is to hide in an oasis amid natural reeds or
 other plants, wait for small birds or large insects to fly overhead, and shoot
 them.
 
 If no suitable flying critters are present, they'll go for land-based prey. They
-tend to too enthusiastic or desperate at these times, and might try to reel in
-something they can't handle.
+tend to become too enthusiastic or desperate at these times, and might try to
+reel in something they can't handle.
 
-Chatrhangs usually live and travel in groups of about three, and don't have a
+Chatrhangs usually live and travel in groups of about three. They don't have a
 lot of combat ability outside of their one neat trick, so it's common for them
 to enter symbiotic relationships with other creatures to share prey in exchange
 for a bit more protection. When hurt, they behave like other tortoises and hide

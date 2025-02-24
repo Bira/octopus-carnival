@@ -245,3 +245,56 @@ excrement.
   her for 8 control!
 - Arcturus tries to stab Lemure 2! Hits for 4 injury.
 - Jania tries to escape the grapple but fails.
+- Jade stabs Lemure 2 twice in the vitals... but fails to penetrate its DR.
+- Urist spends a Ready maneuver correcting his grip on the axe.
+- Rosalia steps forward to try and hit Lemure 2. Critical failure! Her saber
+  flies from her hand, hitting the southern wall of the underground space with a
+  clang. No one is hurt.
+
+**Round 5**
+
+- Lemure 2 uses Claw on Jania, who fails to dodge because she's grappled. 6
+  injury after armor.
+- Rosalia runs to where her saber is.
+- Arcturus steps behind the Lemure and slashes with his knife in an
+  All-Out-Attack (Strong), since it's focused on tearing Jania apart. He hits
+  for 10 injury after DR, finally putting the vile fiend down.
+
+
+Witht he fight ended, Jania is both in pain from the demons' claw wounds and
+faintly horrified that the thing got its stink all over her. Urist can at least
+solve the first problem with a Major Healing spell, but the second will have to
+wait until they're done with this place.
+
+The cleric also identifies the evil runes scribbled on the walls as a failed
+attempt to open a portal to Hell. They might have worked briefly in the past,
+which is how these two lemures got here, but they've been inert and useless for
+a long time now.
+
+The party resumes exploration of the underground street, finding that it leads
+north. Mechanically, we're going with [this procedure][1], and I think it's fair
+to say this includes Urist's Detect Evil rolls. I'd argue for that if I was his
+player!
+
+### The Old Hideout
+
+The party arrives here on their second exploration turn, take in the ruined
+ambience, and decide to spend another exploration turn searching the place. This
+is a no-brainer, really. So we get to make some Perception rolls for them.
+
+- Jania spots the nest in the corner, and notes it seems to have been recently
+  used by a tiny humanoid creature.
+
+- Rosalia notices the three boxes of Stuff.
+
+- Urist's Detect Evil power finds that there's a demon in the area, but none of
+  the others can find anything with their mundane senses.
+
+Blosodriette is invisible and trying to be sneaky. I'm giving her Stealth 15,
+and no one could beat that with their Hearing rolls. I do think all of this
+would make Jania cast See Invisible, and I want to say that'd let them spot her
+because she'd be relying on her invisibility to stay hidden.
+
+
+
+[1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
