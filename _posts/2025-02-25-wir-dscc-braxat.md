@@ -127,3 +127,5 @@ I think the encounter examples are pretty well described above. As for my
 impressions, braxats seem to be some of the worst people in Athas, and that's
 saying something. They feel like Darker and Sunnier evil ogres or giants. The
 three variants slot neatly into the ogre/giant/titan role, respectively.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
