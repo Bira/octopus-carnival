@@ -6,9 +6,142 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Feb 2025 01:34:55 +0000</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2025 01:34:55 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Feb 2025 00:19:33 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Feb 2025 00:19:33 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Braxat</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-braxat.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A braxat looming menacingly. The illustration doesn&apos;t convey how big it is.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Braxats used to be natural beasts long ago, but according to the book were
+uplifted by a “grim magical influence” over centuries of exposure to become the
+huge and extremely antisocial insectile/reptilian humanoids they are today.&lt;/p&gt;
+
+&lt;p&gt;Braxats view all relationships, including those with other braxats, in terms of
+dominance and coercion. They treat anyone weaker than them with contempt at
+best, viciously hate anyone they see as equals, and only grudginly submit to
+those they perceive as stronger. Each group is smaller than the one before, of
+course. They have a particularly hate for half-giants for some reason.&lt;/p&gt;
+
+&lt;p&gt;Sometimes one of Athas’ many shady organizations manages to convince young
+braxats to work for them as muscle through either bribery or intimidation. This
+never lasts long, as the creatures are incapable of forming true loyalties and
+either leave or betray their bosses if they survive and grow strong enough.&lt;/p&gt;
+
+&lt;p&gt;That same emphasis on coercion also applies to braxat reproduction
+(yikes!). Braxats reproduce when there’s enough surplus food to go around, and
+lay their eggs in secluded caves and other similar shelters.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Braxats are Natural Humanoids, with young specimens starting at Large and adults
+reaching Huge size. They have Speed 8, acid resistance that increases with tier,
+low-light vision, and the &lt;strong&gt;Threatening Reach&lt;/strong&gt; trait, which means they can make
+opportunity attacks against anyone inside their full melee reach, not just
+adjacent enemies. They rely on their carapace for protection and use their fists
+or heavy clubs as weapons. They can also spit acid and use psychic powers,
+though the exact mechanics vary on each stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;braxat-juvenile&quot;&gt;Braxat Juvenile&lt;/h3&gt;
+
+&lt;p&gt;A still-young individual that’s nevertheless old and large enough to strike out
+on its own. As mentioned above, some juveniles are conditioned from an early age
+to view another creature as its superior, but that only lasts until the braxat
+grows large and smart enough to see it’s stronger. Mercenary arrangements tend
+to last a bit more. Many juveniles never grow to see adulthood, dying during
+their work as muscle for Athas’ various villainous organizations.&lt;/p&gt;
+
+&lt;p&gt;Juveniles are Level 9 Soldiers with 96 HP. They’re “merely” size Large, and have
+Acid Resistance 10. Their melee attacks are reach 2 and consist of either a
+basic &lt;strong&gt;Slam&lt;/strong&gt; that marks for a turn on a hit, or a &lt;strong&gt;Thrash&lt;/strong&gt; ability that does
+the same damage and knocks prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;At range, they can use their &lt;strong&gt;Caustic Spit&lt;/strong&gt; (ranged 5 vs. Reflex) to deal
+immediate and ongoing acid damage, also slowing the target (save ends
+both). When a marked enemy within 3 squares tries to move away from the
+juvenile, they can use a &lt;strong&gt;Telekinetic Barrier&lt;/strong&gt; as an interrupt to slide the
+enemy back towards a square adjacent to the braxat.&lt;/p&gt;
+
+&lt;h3 id=&quot;braxat-raider&quot;&gt;Braxat Raider&lt;/h3&gt;
+
+&lt;p&gt;A typical adult specimen, now grown to Huge size. It wanders the wastes alone or
+with a small band of followers, setting up camp near caravan routes or villages
+that they periodically raid for livestock and people to eat.&lt;/p&gt;
+
+&lt;p&gt;Raiders are Level 14 Elite Soldiers with 280 HP. Their melee reach is 3, and
+their acid resistance is 15. They fight with &lt;strong&gt;greatclubs&lt;/strong&gt; whose basic attacks
+damage and slide 1 square on a hit, and mark for a turn as an effect. They can
+also be used for &lt;strong&gt;Greatclub Sweeps&lt;/strong&gt; (recharge 5+) that target a Close Burst 2
+and knock prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;The raider’s acid spit is a &lt;strong&gt;Scathing Spray&lt;/strong&gt; (Close Blast 5 vs. Reflex,
+recharges when first bloodied) that has similar effects to the juvenile’s spit
+on anyone it hits, and does half damage on a miss. Its TK barrier evolves to
+&lt;strong&gt;Telekinetic Harness&lt;/strong&gt; (immediate reaction), letting it pull marked enemies
+that end their turns not adjacen to the raider up to 6 squares.&lt;/p&gt;
+
+&lt;p&gt;They also get an entirely new psychic power: &lt;strong&gt;Agonize&lt;/strong&gt; (ranged 10 vs. will)
+deals psychic damage and slows for a turn, and doesn’t provoke opportunity
+attacks when used.&lt;/p&gt;
+
+&lt;h3 id=&quot;braxat-lord&quot;&gt;Braxat Lord&lt;/h3&gt;
+
+&lt;p&gt;Braxats who live to reach the peak of their power are strong enough to set
+themselves up as regional despots, as only the most powerful creatures in Athas
+can hope to win against them. They view pretty much anyone else as either
+potential slaves, or potential meals.&lt;/p&gt;
+
+&lt;p&gt;The Braxat Lord is a Level 23 Elite Soldier with 428 HP and 20 acid
+resistance. Like the Raider, it’s Huge and its melee reach is 3. It fights with
+a &lt;strong&gt;Maul&lt;/strong&gt; that damages and slides 2 squares on a hit, and marks for a turn as
+an effect. It can attack at range with the &lt;strong&gt;Crushing Pain&lt;/strong&gt; (ranged 10
+vs. Fort) psychic power, which deals psychic damage, immobilizes for a turn, and
+slows for another turn as an aftereffect. The &lt;strong&gt;Attack Flurry&lt;/strong&gt; power lets it
+use the maul twice and Crushing Pain once in the same standard action, against 2
+or 3 targets.&lt;/p&gt;
+
+&lt;p&gt;Its acid spit power is &lt;strong&gt;Vitriolic Spew&lt;/strong&gt;, a Close Blast 5 vs. Reflex that deals
+immediate and ongoing acid damage. It also turns the blast area into lightly
+obscured difficult terrain that deals acid damage to anyone ending their turn
+inside, and lasts until the end of the lord’s next turn.&lt;/p&gt;
+
+&lt;p&gt;The psychic powers don’t end there either! &lt;strong&gt;Overawe&lt;/strong&gt; (recharge 5+) is a minor
+action Close Burst 10 that targets all creatures marked by the lord, deals
+psychic damage, makes them grant combat advantage, and forbids them from using
+opportunity or immediate actions (save ends both). And its &lt;strong&gt;Telekinetic
+Harness&lt;/strong&gt; works like the raider’s but also restrains those pulled by it and
+deals ongoing psychic damage (save ends both).&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think the encounter examples are pretty well described above. As for my
+impressions, braxats seem to be some of the worst people in Athas, and that’s
+saying something. They feel like Darker and Sunnier evil ogres or giants. The
+three variants slot neatly into the ogre/giant/titan role, respectively.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/02/25/wir-dscc-braxat.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/25/wir-dscc-braxat.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Belgoi</title>
@@ -1759,192 +1892,6 @@ the Temple of Asmodeus, which unlike these short raids is a huge grinding slog.&
         <category>gurps</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/long-lines-building.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    The Long Lines Building in New York
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A common complaint I hear about people who tried GURPS for the first time coming
-in from other systems is that the “flow” of combat feels odd. Mainly that those
-1-second turns are too short and don’t let you do enough. Sometimes also that
-these short turns lead to fights that end too quickly to be dramatic&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I think this comes from a mismatch between the player’s learned expectations and
-the way GURPS actually does things. In this post I’ll try to describe this
-difference, and give a few suggestions on how to reduce the friction.&lt;/p&gt;
-
-&lt;h2 id=&quot;describing-the-difference&quot;&gt;Describing the Difference&lt;/h2&gt;
-
-&lt;p&gt;Let’s start with an example. You’re in a typical dungeon fantasy combat against
-a bunch of zombies, playing an archer character. You make an attack, and
-describe it like this:&lt;/p&gt;
-
-&lt;p&gt;“I draw and nock an arrow, then I take aim at the closest zombie and shoot! As
-soon as the arrow flies, I’m already drawing another one from my quiver!”&lt;/p&gt;
-
-&lt;p&gt;How do other systems&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; usually handle this, and what does GURPS do that’s so
-different?&lt;/p&gt;
-
-&lt;h3 id=&quot;abstract-action-economies&quot;&gt;Abstract Action Economies&lt;/h3&gt;
-
-&lt;p&gt;Most tabletop RPG systems are fairly abstract when it comes to combat. To the
-rules, it doesn’t matter what motions your PC is actually going through when
-they perform an action, nor does it matter how long a turn lasts. It is enough
-to know what the action is, and that a turn is long enough for you to do it.&lt;/p&gt;
-
-&lt;p&gt;In systems that work this way, our archer’s narration is just a cool
-embellishment that adds some fun detail to a standard ranged attack roll. All
-the rules need to know is that it’s a ranged attack.&lt;/p&gt;
-
-&lt;p&gt;However, the choice of which actions perform in your turn matters a lot. You get
-a certain number of them, all of which have an immediate effect in the current
-turn but don’t influence future ones. Therefore the system’s incentives gently
-push you to be maximally efficient on a turn-by-turn basis&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Attacks are good
-because they bring the fight closer to an end. If you use your main action for
-something else, it better bring as much benefit to you as attacking would, or
-you have just “wasted” your turn. This set of mechanics and incentives is
-usually called an “action economy”.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-gurps-way&quot;&gt;The GURPS Way&lt;/h3&gt;
-
-&lt;p&gt;Where other systems are abstract, GURPS is so concrete it’s practically
-brutalist. Turns last one second and its combat maneuvers are a lot more
-fine-grained than combat actions in other games.&lt;/p&gt;
-
-&lt;p&gt;In the Union of Generic Universal Republics our example description is not just
-a bit of flavor: it’s a five-turn plan. Ready (draw arrow), Ready (nock arrow),
-Aim, Attack, Ready (draw arrow)&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Only the actual blow from your weapon, press of the trigger, or release of the
-bowstring counts as an Attack. The other stuff in the plan above are maneuvers
-that make your Attack possible and set it up for success. In GURPS, you want to
-increase the &lt;em&gt;quality&lt;/em&gt; of your attacks, not necessarily their &lt;em&gt;quantity&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;For the same reason GURPS is a bit less amenable to “needless embellishment”
-than more abstract games. Combat goes much more smoothly when you keep your
-action declarations to short sentences that map to a single maneuver. The
-structure you build out of these simple blocks can end up looking every bit as
-beautiful as the freeform narrative, though. This too, is brutalism.&lt;/p&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/barbican-conservatory.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    The Barbican Conservatory in London
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;proposed-solutions&quot;&gt;Proposed Solutions&lt;/h2&gt;
-
-&lt;p&gt;“The GURPS way” is neither better nor worse than the action economies of other
-systems. It’s just different. But it’s different enough that it can trip up
-people coming in from other games.&lt;/p&gt;
-
-&lt;p&gt;If the description above helped you smooth the friction between the rules and
-your expectations, then great! But it’s likely that it didn’t, and you still
-having trouble with it. In that case, here are a couple of suggestions on how to
-make your experience smoother.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-1-its-a-character-skill-issue&quot;&gt;Solution 1: It’s a (Character) Skill Issue&lt;/h3&gt;
-
-&lt;p&gt;One of the big reasons to use “setup” maneuvers like Evaluate, Feint, and Aim is
-that your character’s skill level might not be high enough to give you a decent
-chance of success. Without those maneuvers, you’ll end up missing more often, or
-will have trouble getting past your enemy’s defenses. This is common at the core
-books’ default 150 points.&lt;/p&gt;
-
-&lt;p&gt;One way to make attacking every turn more feasible and fun is to raise the power
-level of your characters. This is the approach taken by Dungeon Fantasy and
-Action: not only do they use 250 point templates, they optimize them a fair bit.&lt;/p&gt;
-
-&lt;p&gt;All the physical combatant templates in DF start with 16 in their main combat
-skill &lt;em&gt;at the very least&lt;/em&gt;. Many have a 18, and a couple either start with a 20
-or can get there with a bit of point shuffling.&lt;/p&gt;
-
-&lt;p&gt;This might sound excessive at first glance. Your base chance of success doesn’t
-increase past 16, and it’s unlikely anyone had more than a 18 in all of human
-history. Why allow PCs to &lt;em&gt;start&lt;/em&gt; there, and possibly go even higher with earned
-points? Because this is what you need to be able to reliably attack every second
-without taking the time to perform setup maneuvers.&lt;/p&gt;
-
-&lt;p&gt;With these “overpowered” skill levels you can absorb more penalties without
-having to Evaluate or Aim to offset them, and you can use Deceptive Attacks
-instead of Feints without affecting your chances of success. If you still have
-enough spare skill levels left, you can even thrown in a Rapid Strike to make
-two attacks in that second.&lt;/p&gt;
-
-&lt;h2 id=&quot;solution-2-mandatory-dramatic-pauses&quot;&gt;Solution 2: Mandatory Dramatic Pauses&lt;/h2&gt;
-
-&lt;p&gt;Fighters in real-world combat sports and action movies don’t spend every second
-of their fights furiously attacking each other. They’ll circle while looking for
-openings, stop to catch their breaths, and only go in for an exchange of actual
-blows every once in a while.&lt;/p&gt;
-
-&lt;p&gt;The use of setup maneuvers helps stretch fights out to be more similar to these
-examples, but if you’re reading this it’s because you don’t think they’re a good
-solution. And even if you do, you might want to go further.&lt;/p&gt;
-
-&lt;p&gt;One way to do this is to crib from the rules for tournament fights in GURPS
-Martial Arts. Under those rules, fights are composed of &lt;em&gt;lulls&lt;/em&gt; and
-&lt;em&gt;flurries&lt;/em&gt;. Combatants can only use the Attack maneuver&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; during a
-flurry. During a lull, they cannot attack but can still use maneuvers like
-Change Posture, Evaluate, Move, Ready, Aim, or even just Do Nothing while
-waiting for an opening. In fantasy settings it would be a good time to cast
-those healing spells.&lt;/p&gt;
-
-&lt;p&gt;GURPS Martial Arts has flurries last for 2d seconds and lulls for 4d seconds,
-rolled at the start of the corresponding period. You can tweak these durations
-to best suit your campaign. If the combatants’ actions look like they’re going
-to force an early change, you can end the current “period” early.&lt;/p&gt;
-
-&lt;p&gt;The main purpose of introducing lulls is to extend a fight’s in-character
-duration to something like that of a real-world boxing or MMA round. They can
-also help change the mental “efficiency” calculation of someone who’s used to
-action economies. If there’s a part of the fight where you can’t attack,
-performing setup actions for when you can becomes the most efficient thing to
-do.&lt;/p&gt;
-
-&lt;p&gt;Lulls work both in melee and ranged combat (when everyone might hunker down
-behind cover for a while), but they might get a bit hard to manage or look a bit
-silly when you have a large number of combatants in a fight.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;10 minutes to beat the bad guy and disarm the bomb is not a problem at all
-if you beat the bad guy in 5 seconds. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;“Other Systems” here means the last three editions of D&amp;amp;D, Pathfinder 2E,
-most editions of Shadowrun, and any others that might be similar in outlook
-but which I’m not too familiar with. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And if there are any obsessive optimizers in your group, they’ll push you
-much less gently. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I admit I tacked that extra Ready at the end to make the “five-second
-plan” joke work. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And its cousin All-Out-Attack. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
