@@ -8,7 +8,7 @@ No interrupt checks today, because I don't wanna.
 
 This scene will cover the entirety of the Livery delve.
 
-## Mythic Bookkeeping
+# Mythic Bookkeeping
 
 The Chaos Factor for the last scene was 5, and I want to keep it at 5 even
 though the last scene was peaceful.
@@ -272,9 +272,40 @@ which is how these two lemures got here, but they've been inert and useless for
 a long time now.
 
 The party resumes exploration of the underground street, finding that it leads
-north. Mechanically, we're going with [this procedure][1], and I think it's fair
-to say this includes Urist's Detect Evil rolls. I'd argue for that if I was his
-player!
+north. They move that way.
+
+## GM Note
+
+Even though we're not through the dungeon yet, I'm going to introduce a scene
+break here, because I'm going to need some significant GM work for the next
+bit. It was also something like 3 months between the start of round 4 and end of
+round 5 in the fight, so I need to refocus on this campaign too.
+
+### GM Interlude
+
+I think it took
+
+Mechanically, we're going with [this procedure][1] for the exploration, and I
+think it's fair to say this includes Urist's Detect Evil rolls. I'd argue for
+that if I was his player!
+
+Time to plan what's ahead. First of all: do I even _want_ to include
+Blosodriette here?
+
+She's CR 4, and appears at a time when Pathfinder 1e PCs would be level 1. She
+has unreasonably high Stealth, at-will Invisibility, and her contract is
+disguised with an illusion spell the PCs can't pierce at this level. She also
+has a wand of Acid Arrow with 9 charges, which could make short work of a level
+1 party.
+
+So clearly the book means for her to stay hidden, follow the PCs to their new
+hideout, and engage in sabotage during the back half of the adventure. The PCs
+are only meant to find hortly before the end of the adventure, when they've
+leveled up a bit and fighting her becomes a more reasonable proposition.
+
+However, her sabotage is _super annoying_ to deal with when playing solo. And
+our PCs are already powerful enough to take her on, and even to detect her
+presence right here. So I think I'll let that happen, and run the fight here.
 
 ### The Old Hideout
 

@@ -13,8 +13,8 @@ get a 10, so that's actually what happens, since our chaos factor is 5.
 After the riot started, Thrune's officials used communication magic to call a
 larger force of dottari to the region around Aria Park. They're coordinating to
 "contain" the protesters in the area and prevent them from escaping, so that the
-guards can properly beat/arrest the whole lot. A small host of CCG thugs and
-other opportunists have arrived along with them, intent on getting their
+guards can properly brutalize/arrest the whole lot. A small host of CCG thugs
+and other opportunists have arrived along with them, intent on getting their
 violence on. The guards let them into the cordon because they think it's funny.
 
 Most of the group ran into these opportunists, but Arthur and Jania ran into the

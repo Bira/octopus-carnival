@@ -7,9 +7,24 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-braxat.jpg" | absolute_url }}"/>
+  <figcaption>
+    A braxat looming menacingly. The illustration doesn't convey how big it is.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
+
+## The Lore
+
 Braxats used to be natural beasts long ago, but according to the book were
 uplifted by a "grim magical influence" over centuries of exposure to become the
-extremely antisocial insectile/reptilian humanoids they are today.
+huge and extremely antisocial insectile/reptilian humanoids they are today.
 
 Braxats view all relationships, including those with other braxats, in terms of
 dominance and coercion. They treat anyone weaker than them with contempt at
@@ -23,8 +38,8 @@ never lasts long, as the creatures are incapable of forming true loyalties and
 either leave or betray their bosses if they survive and grow strong enough.
 
 That same emphasis on coercion also applies to braxat reproduction
-(yikes!). Braxats lay their eggs in caves and other secure shelters when there's
-enough surplus food to go around.
+(yikes!). Braxats reproduce when there's enough surplus food to go around, and
+lay their eggs in secluded caves and other similar shelters.
 
 ## The Numbers
 
@@ -33,8 +48,8 @@ reaching Huge size. They have Speed 8, acid resistance that increases with tier,
 low-light vision, and the **Threatening Reach** trait, which means they can make
 opportunity attacks against anyone inside their full melee reach, not just
 adjacent enemies. They rely on their carapace for protection and use their fists
-or heavy clubs as weapons. They can also spit acid have psychic powers, though
-the exact mechanics vary on each stat block.
+or heavy clubs as weapons. They can also spit acid and use psychic powers,
+though the exact mechanics vary on each stat block.
 
 ### Braxat Juvenile
 
@@ -52,9 +67,9 @@ the same damage and knocks prone on a hit.
 
 At range, they can use their **Caustic Spit** (ranged 5 vs. Reflex) to deal
 immediate and ongoing acid damage, also slowing the target (save ends
-both). When a marked enemy within 3 squares tries to move away from it, they can
-use a **Telekinetic Barrier** as an interrupt to slide the enemy back towards a
-square adjacent to the braxat.
+both). When a marked enemy within 3 squares tries to move away from the
+juvenile, they can use a **Telekinetic Barrier** as an interrupt to slide the
+enemy back towards a square adjacent to the braxat.
 
 ### Braxat Raider
 
@@ -110,4 +125,5 @@ deals ongoing psychic damage (save ends both).
 
 I think the encounter examples are pretty well described above. As for my
 impressions, braxats seem to be some of the worst people in Athas, and that's
-saying something. They feel like Darker and Sunnier evil ogres or giants.
+saying something. They feel like Darker and Sunnier evil ogres or giants. The
+three variants slot neatly into the ogre/giant/titan role, respectively.
