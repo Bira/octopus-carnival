@@ -25,6 +25,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Baazrag][4]
   - [Belgoi][5]
   - [Braxat][6]
+  - [Brohg][7]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -32,3 +33,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [4]: {{ "/2025/02/21/baazrag.html" | relative_url }}
 [5]: {{ "/2025/02/23/wir-dscc-belgoi.html" | relative_url }}
 [6]: {{ "/2025/02/25/wir-dscc-braxat.html" | relative_url }}
+[7]: {{ "/2025/02/27/wir-dscc-brohg.html" | relative_url }}
