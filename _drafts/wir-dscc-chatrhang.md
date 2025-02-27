@@ -59,7 +59,7 @@ frontline. Multiple charthrangs can stick their tethers to the same PC and
 alternate their use of Reel In to bring the victim closer that much faster, too.
 
 That is, of course, if the GM plays them smart. This is absolutely not required,
-as these are simple animals with a reputation for trying to catch things too big
-for them to handle.
+as these are simple animals with a reputation for trying to catch things too
+dangerous for them to handle.
 
-Still... machine gun tortoises. What a world.
+Still... anti-air tortoises. What a world.

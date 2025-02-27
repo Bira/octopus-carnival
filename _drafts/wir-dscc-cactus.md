@@ -29,9 +29,9 @@ killed while under the cactus' influence immediately raise as zombie cactus
 thralls.
 
 All of this is way too evil to be a coincidence. Sages believe zombie cacti are
-an engineered bioweapon, the work of slavers aided by psychic powers and
-defiling magic. The creatures proved too uncontrollable, and enough escaped
-their creators to take root in the wild.
+an engineered bioweapon, the work of slavers employing psychic powers and
+defiling magic. The creatures proved too uncontrollable to be used as tools, and
+enough escaped their creators to take root in the wild.
 
 ### The Numbers
 
@@ -47,9 +47,9 @@ Regeneration 5. Wearing the disguise again takes a standard action.
 
 A disguised cactus is still dangerous because of its **Poison Fruit**, described
 as a passive trait. It will have between four and eight of these, which can be
-eaten as a minor action. Anyone who eats them is dominated by the cactus as
-described below (save ends). Note there's no attack roll here - eat the fruit,
-get dominated, period.
+eaten by another character as a minor action. Anyone who eats them is dominated
+by the cactus as described below (save ends). Note there's no attack roll here -
+eat the fruit, get dominated, period.
 
 Once the jig is up, the cactus uncoils and releases a cloud of **Dominating
 Spores** (close burst 3 vs. will), which dominates on a hit (save ends). Targets
@@ -106,7 +106,7 @@ share the spoils. Sometimes other people will coerce a zombie cactus into
 service, a fate it will always try to escape.
 
 Hunter cacti are more amenable to cooperation with humanoids, who can easily
-train them to attack only designated targets in exchange for being regularly fed
-when out of combat. In these cases they will be found alongside other guardians.
+train them to attack only designated targets in exchange for a regular supply of
+food. In these cases they will be found alongside other guardians.
 
 These are neat, and very nasty. Cactus drinks you indeed.

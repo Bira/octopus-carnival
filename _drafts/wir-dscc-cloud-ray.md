@@ -35,9 +35,9 @@ reverse of what the book does.
 
 ### Cloud Ray Pup
 
-This young individual has is Large, translucent, and relatively delicate for its
+This young individual is Large, translucent, and relatively delicate for its
 size. It's a Level 21 Minion Skirmisher. Pups fly around in clusters near other
-creatures that can provide them with food - most commonly cloud ray eldersbut
+creatures that can provide them with food - most commonly cloud ray elders, but
 sometimes other aerial predators that tend to leave lots of left-overs. If their
 intended prey is still moving, they sting it until it stops, and then set down
 to eat.
@@ -58,8 +58,8 @@ creature a good whack to get it to bother someone else.
 
 Adults cruise the skies continuously, only descending to rest or to attack
 land-bound prey. Sure, it eats little for its size, but for a Huge creature that
-can still mean its meals consist of a whole person or similarly sized animal
-every few days. Adults are Level 23 Elite Skirmishers with 424 HP.
+can still mean its meals consist of a whole person or similarly sized
+animal. Adults are Level 23 Elite Skirmishers with 424 HP.
 
 The adult has a much stronger version of the pup's **Sting**, with Reach 4. It
 can also use a Reach 1 **bite** that deals more damage and grabs the

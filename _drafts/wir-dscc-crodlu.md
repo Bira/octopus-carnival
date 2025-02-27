@@ -34,13 +34,13 @@ Crodlus are Large Natural Beasts with the Reptile tag and a ground speed of 8.
 
 ### Crodlu
 
-This could represent a typical wild specimen, or perhaps one trained as an
-attack animal instead of a mount. It's a Level 3 Brute with 55 HP.
+This could represent a typical wild specimen, or perhaps a domesticated one that
+wasn't trained as a mount. It's a Level 3 Brute with 55 HP.
 
 The crodlu can attack with its **beak** or with **claws** that do a little less
-damage. Whenever it can it will instead use a **Pounce**, which lets it move up
-to its speed, and use both Beak and Claws against the same target even if it
-stands still. If both attacks hit, the target falls prone.
+damage. Whenever it can it will use a **Pounce**, which lets it move up to its
+speed, and use both Beak and Claws against the same target even if it stands
+still. If both attacks hit, the target falls prone.
 
 ### War Crodlu
 
