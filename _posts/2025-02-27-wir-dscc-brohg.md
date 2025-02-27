@@ -7,6 +7,20 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-brohg.jpg" | absolute_url }}"/>
+  <figcaption>
+    A brohg holding two boulders ready to throw.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
+## The Lore
+
 This entry goes on and on about how stupid brohgs are, but I think that's
 terribly unfair to them. They're some of the nicest people we've met in this
 reading so far.
