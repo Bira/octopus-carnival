@@ -145,3 +145,5 @@ simple-minded, and how it manages to make them superstitious despite living in a
 D&D world and having their own working magical tradition. Distrusting arcane
 magic in Dark Sun is sensible, but having the brohgs do it because they falsely
 believe it's a curse from evil spirits is a step too far in my opinion.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
