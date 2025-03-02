@@ -27,6 +27,9 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Braxat][6]
   - [Brohg][7]
 
+- C
+  - [Cactus][8]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -34,3 +37,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [5]: {{ "/2025/02/23/wir-dscc-belgoi.html" | relative_url }}
 [6]: {{ "/2025/02/25/wir-dscc-braxat.html" | relative_url }}
 [7]: {{ "/2025/02/27/wir-dscc-brohg.html" | relative_url }}
+[8]: {{ "/2025/03/01/wir-dscc-cactus.html" | relative_url }}

@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-cactus.jpg" | absolute_url }}"/>
+  <figcaption>
+    A menacing purple cactus with huge spines.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 Cacti are an important part of the Athasian ecosystem, and their natural water
 collection mechanisms are often vital to allow people to survive in its
 deserts. But in Dark Sun, sometimes the cactus drinks you.
@@ -48,15 +60,16 @@ Regeneration 5. Wearing the disguise again takes a standard action.
 A disguised cactus is still dangerous because of its **Poison Fruit**, described
 as a passive trait. It will have between four and eight of these, which can be
 eaten by another character as a minor action. Anyone who eats them is dominated
-by the cactus as described below (save ends). Note there's no attack roll here -
-eat the fruit, get dominated, period.
+by the cactus (save ends). A dominated victim who is reduced to 0 HP can no
+longer save against this. Note there's no attack roll here - eat the fruit, get
+dominated, period.
 
 Once the jig is up, the cactus uncoils and releases a cloud of **Dominating
-Spores** (close burst 3 vs. will), which dominates on a hit (save ends). Targets
-who are at 0 HP or lower can no longer save against this, and the burst also
-creates a spore-filled zone that inflicts -5 to saves against the domination for
-a turn. This power recharges when the cactus uses Innocuous Form, giving us our
-"lurker loop" (breathe out, breathe in).
+Spores** (close burst 3 vs. will), which has the same effect as the fruit on a
+hit. The burst also creates a spore-filled zone that inflicts -5 to saves
+against zombie cactus domination for a turn. This power recharges when the
+cactus uses Innocuous Form, giving us our "lurker loop" (breathe out, breathe
+in).
 
 Once enough people are dominated, the cactus will use its **Tendrils**, which do
 standard damage and an additional ongoing 10 necrotic (save ends) if the target
@@ -110,3 +123,5 @@ train them to attack only designated targets in exchange for a regular supply of
 food. In these cases they will be found alongside other guardians.
 
 These are neat, and very nasty. Cactus drinks you indeed.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
