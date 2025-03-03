@@ -1,11 +1,25 @@
 ---
 layout: post
-title: "Let's Read the Dark Sun Creature Catalog: Chatrhang"
+title: "Let's Read the Dark Sun Creature Catalog: Chathrang"
 tags:
     - dnd4
     - lets-read
     - dark-sun
 ---
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-chathrang.jpg" | absolute_url }}"/>
+  <figcaption>
+    A chathrang reeling in a small mammal it just caught.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
+## The Lore
 
 Chathrangs are big carnivorous tortoises with built-in anti-air artillery. The
 many spiny protusions on their shells are tubes that can spit out sticky
@@ -16,9 +30,9 @@ them.
 
 If no suitable flying critters are present, they'll go for land-based prey. They
 tend to become too enthusiastic or desperate at these times, and might try to
-reel in something they can't handle.
+reel in something they can't handle. Like a PC, for example.
 
-Chatrhangs usually live and travel in groups of about three. They don't have a
+Chathrangs usually live and travel in groups of about three. They don't have a
 lot of combat ability outside of their one neat trick, so it's common for them
 to enter symbiotic relationships with other creatures to share prey in exchange
 for a bit more protection. When hurt, they behave like other tortoises and hide
@@ -52,14 +66,24 @@ to AC, and doubles the damage done by its aura.
 
 ## Encounters and Final Impressions
 
-Range 20 is a lot! A cluster of three of these machine-gun tortoises can sit
-very far back behind a line of 2-4 soldiers or brutes and wreak havoc on the PCs
-by directly targeting their squishies, and reeling them towards Team Monster's
-frontline. Multiple charthrangs can stick their tethers to the same PC and
-alternate their use of Reel In to bring the victim closer that much faster, too.
+Aside from the standard encounter disposition mentioned in the lore, chatharangs
+are also very amenable to reskinning. If you read the Cactus entry and felt that
+you needed cactus artillery to complement the lurkers, you can just replace
+Reptile with Plant on the chathrang stat block and call it a day. Describe them
+as big spherical cacti that move by rolling around and otherwise behave the
+same.
+
+The mechanics are interesting. Range 20 is a lot! A cluster of three of these
+machine-gun tortoises can sit very far back behind a line of 2-4 soldiers or
+brutes and wreak havoc on the PCs by directly targeting their squishies, and
+reeling them towards Team Monster's frontline. Multiple charthrangs can stick
+their tethers to the same PC and alternate their use of Reel In to bring the
+victim closer that much faster, too.
 
 That is, of course, if the GM plays them smart. This is absolutely not required,
 as these are simple animals with a reputation for trying to catch things too
 dangerous for them to handle.
 
 Still... anti-air tortoises. What a world.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
