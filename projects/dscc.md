@@ -30,6 +30,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 - C
   - [Cactus][8]
   - [Chathrang][9]
+  - [Cilops][10]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -40,3 +41,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [7]: {{ "/2025/02/27/wir-dscc-brohg.html" | relative_url }}
 [8]: {{ "/2025/03/01/wir-dscc-cactus.html" | relative_url }}
 [9]: {{ "/2025/03/03/wir-dscc-chathrang.html" | relative_url }}
+[10]: {{ "/2025/03/09/wir-dscc-cilops.html" | relative_url }}

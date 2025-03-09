@@ -7,20 +7,29 @@ tags:
     - lets-read
 ---
 
-Cilopses (not to be confused with cyclopes) first appeared in the Monstrous
-Compendiums for 2e Dark Sun.
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-cilops.jpg" | absolute_url }}"/>
+  <figcaption>
+    A chathrang reeling in a small mammal it just caught.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
 
 ## The Lore
 
-The cilops is the Darker and Sunnier version of Ye Olde Giante Centipede. That
-means it's larger, spikier, and has psychic powers. Their name comes from the
-huge single mammal-like eye they have instead of the more usual compound eyes
-you find in arthropods.
+The cilops (not to be confused with the cyclops) is the Darker and Sunnier
+version of Ye Olde Giante Centipede. That means it's larger, spikier, and has
+psychic powers. Their name comes from the huge single mammal-like eye they have
+instead of the more usual compound eyes you find in arthropods.
 
 Unlike other monstrous centipedes, the bite of the cilops is not venomous. The
 touch of its antennae, however, can psychically paralyze victims or muddle their
-minds. They can also psychically track victims - it's very hard to hide from
-these things once they caught your scent.
+minds. They can also psychically track victims over short distances - it's very
+hard to hide from these things once they caught your scent.
 
 In the wild, cilopses gather in the same places you can find mundane
 centipedes - any area where there's a reasonable amount of shade and
@@ -74,8 +83,9 @@ space during this shift. Whenever it does so, it makes a melee attack vs. the
 enemy's Reflex, dealing heavy damage and knocking prone on a hit.
 
 It can still only **Follow Psychic Trail** once per encounter, but unlike the
-Creeper it can use its Reach 2 **Dazing Antennae** once per round. This does
-lightning damage equivalent to the bite on a hit, and dazes for a turn.
+Creeper it can use its Reach 2 **Dazing Antennae** once per round with no
+targeting restrictions. This does lightning damage equivalent to the bite on a
+hit, and dazes for a turn.
 
 The Stalker also wants to track and focus on one target, and Sudden Rush lets it
 reach that target even through the party's defender front line.
@@ -85,8 +95,11 @@ reach that target even through the party's defender front line.
 
 As mentioned above, you're much more likely to encounter these things being used
 as trackers and attack animals by templars than to meet them in their natural
-habitats.
+habitats. If you do meet them in the wild, they're likely to be accompanied by
+other varieties of giant bug, or by swarms of smaller ones.
 
 Mechanically, they're giant centipedes with a bit more character, and I imagine
 they can get pretty annoying when paired with other teammates that specialize in
 tying PCs down and preventing them from helping the cilops' chosen victim.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

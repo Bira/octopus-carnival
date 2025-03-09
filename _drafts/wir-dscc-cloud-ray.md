@@ -51,14 +51,14 @@ As a minion, a single hit will take the pup down, but it can use **Dream
 Resurgence** once per encounter to remove itself from play when it reaches 0 HP
 and reappear at the start of its next turn within 10 squares, with its 1 HP
 restored. It will probably use this opportunity to run away if nothing is
-forcing it to stay, so the PCs don't need to feel bad about giving this majestic
-creature a good whack to get it to bother someone else.
+forcing it to stay, so the PCs don't need to feel bad about giving this
+beautiful creature a good whack to get it to bother someone else.
 
 ### Cloud Ray Adult
 
 Adults cruise the skies continuously, only descending to rest or to attack
 land-bound prey. Sure, it eats little for its size, but for a Huge creature that
-can still mean its meals consist of a whole person or similarly sized
+can still mean its infrequent meals consist of a whole person or similarly sized
 animal. Adults are Level 23 Elite Skirmishers with 424 HP.
 
 The adult has a much stronger version of the pup's **Sting**, with Reach 4. It
@@ -67,7 +67,7 @@ target. Targets grabbed by the bite have a -4 to their escape rolls, which have
 escape DCs of 34 for Athletics and 36 for Acrobatics. The ray can grab at most
 one target like this. The **Unhindered** trait lets the cloud ray pull the
 victim along when it moves. Either of these attacks can be used as part of
-**GLiding Attack**, which lets it attack twice during the movement and otherwise
+**Gliding Attack**, which lets it attack twice during the movement and otherwise
 works like the pup's version.
 
 A ray that finds itself surrounded can use **Wing Storm** (Close Burst 3
@@ -79,7 +79,7 @@ Once per encounter, while bloodied, the ray can use **Dream Flight** to teleport
 15 squares, carrying its grabbed victim with it if it has one. It makes Close
 Burst 2 attack vs. Fortitude on arrival, dazing an slowing those it hits.
 
-A grabbed victim can be attacked with further bite attacks or with **Crush**, a
+A grabbed victim can be attacked with further bite attacks and with **Crush**, a
 minor action attack vs. Fortitude that deals as much damage as the bite.
 
 An adult on the hunt will try to grab its chosen prey and fly away, biting and
@@ -100,7 +100,7 @@ space - they're standing on top of the ray! This means it's equal parts enemy
 and terrain during a fight. If it took flight because you tried to camp on its
 back, it will be the _only_ terrain for the fight.
 
-Obviously if you're on top of the day, you're also inside its aura, so it will
+Obviously if you're on top of the ray, you're also inside its aura, so it will
 try to slide you off its back. This follows the rules for forced movement into
 hazardous terrain, so you get a save to grab on before you tumble to the
 ground. If you pass, you end up prone at the ray's edge.
