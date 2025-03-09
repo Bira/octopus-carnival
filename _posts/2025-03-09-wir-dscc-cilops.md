@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-cilops.jpg" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-cilops.jpeg" | absolute_url }}"/>
   <figcaption>
     A chathrang reeling in a small mammal it just caught.
     Copyright 2010 Wizards of the Coast.
