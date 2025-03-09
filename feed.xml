@@ -6,9 +6,117 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Mar 2025 15:09:55 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Mar 2025 15:09:55 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Mar 2025 03:27:16 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Mar 2025 03:27:16 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Cilops</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-cilops.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A chathrang reeling in a small mammal it just caught.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The cilops (not to be confused with the cyclops) is the Darker and Sunnier
+version of Ye Olde Giante Centipede. That means it’s larger, spikier, and has
+psychic powers. Their name comes from the huge single mammal-like eye they have
+instead of the more usual compound eyes you find in arthropods.&lt;/p&gt;
+
+&lt;p&gt;Unlike other monstrous centipedes, the bite of the cilops is not venomous. The
+touch of its antennae, however, can psychically paralyze victims or muddle their
+minds. They can also psychically track victims over short distances - it’s very
+hard to hide from these things once they caught your scent.&lt;/p&gt;
+
+&lt;p&gt;In the wild, cilopses gather in the same places you can find mundane
+centipedes - any area where there’s a reasonable amount of shade and
+water. You’re more likely to find them &lt;em&gt;outside&lt;/em&gt; of the wild, however, as
+Templar patrols from every city love to use trained cilopses as both trackers
+and attack animals.&lt;/p&gt;
+
+&lt;p&gt;Some templars or sorcerer-kings are also fond of raising particularly large and
+vicious specimens and letting them loose on the city to wreak some havoc and
+terrorize the population into compliance.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Cilopses are Large Natural Beasts. They have Darkvision, some sort of antenna
+power that varies with the stat block, and the signature power &lt;strong&gt;Follow Psychic
+Trail&lt;/strong&gt;. This is a minor-action encounter power that lets them choose a creature
+they can see. Until the end of the encounter that creature grants combat
+advantage to the cilops, and cannot hide from it.&lt;/p&gt;
+
+&lt;p&gt;The combat advantage is pretty useful during a fight, but remember that a skill
+challenge to run away from a cilops-equipped patrol is also an encounter. Don’t
+let they catch your scent!&lt;/p&gt;
+
+&lt;h3 id=&quot;cilops-creeper&quot;&gt;Cilops Creeper&lt;/h3&gt;
+
+&lt;p&gt;A typical specimen such as one might find in the wild, or accompanying a templar
+strike force. It’s a Level 5 Skirmisher with 60 HP. It has ground and climb
+speeds of 7, and Resist 5 Psychic.&lt;/p&gt;
+
+&lt;p&gt;All of the creeper’s attacks deal 1d6 extra damage if it has &lt;strong&gt;Combat
+Advantage&lt;/strong&gt;, which is yet another reason for not letting it track you. Its basic
+&lt;strong&gt;bite&lt;/strong&gt; damages on a hit and lets the creeper shift 2 squares as an
+effect. Once per encounter it can use its &lt;strong&gt;Paralyzing Antennae&lt;/strong&gt; against a
+creature granting combat advantage to it, targetting Fortitude. On a hit this
+damages, dazes, and immobilizes the target for a turn.&lt;/p&gt;
+
+&lt;p&gt;Creepers really want to start tracking a specific PC as soon as the fight
+starts, and then focus fire on their chosen victim starting with an antennae
+attack and then proceeding to spam the bite.&lt;/p&gt;
+
+&lt;h3 id=&quot;cilops-stalker&quot;&gt;Cilops Stalker&lt;/h3&gt;
+
+&lt;p&gt;A chunky terror weapon, the Stalker is a Level 7 Elite Skirmisher with 154
+HP. It’s slower and less agile than the Creeper, with a ground speed of only 6
+and no climb speed or psychic resistance. However, it makes up for that in bulk.&lt;/p&gt;
+
+&lt;p&gt;The Stalker’s &lt;strong&gt;pincers&lt;/strong&gt; have the same bonus against targets granting CA, and
+its &lt;strong&gt;Sudden Rush&lt;/strong&gt; maneuver (recharge 5+) is excellent against tight
+formations. It allows the Stalker to shift its speed and move through enemies
+space during this shift. Whenever it does so, it makes a melee attack vs. the
+enemy’s Reflex, dealing heavy damage and knocking prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;It can still only &lt;strong&gt;Follow Psychic Trail&lt;/strong&gt; once per encounter, but unlike the
+Creeper it can use its Reach 2 &lt;strong&gt;Dazing Antennae&lt;/strong&gt; once per round with no
+targeting restrictions. This does lightning damage equivalent to the bite on a
+hit, and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;The Stalker also wants to track and focus on one target, and Sudden Rush lets it
+reach that target even through the party’s defender front line.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;As mentioned above, you’re much more likely to encounter these things being used
+as trackers and attack animals by templars than to meet them in their natural
+habitats. If you do meet them in the wild, they’re likely to be accompanied by
+other varieties of giant bug, or by swarms of smaller ones.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, they’re giant centipedes with a bit more character, and I imagine
+they can get pretty annoying when paired with other teammates that specialize in
+tying PCs down and preventing them from helping the cilops’ chosen victim.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/03/09/wir-dscc-cilops.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/03/09/wir-dscc-cilops.html</guid>
+        
+        <category>dark-sun</category>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Chathrang</title>
@@ -1273,259 +1381,6 @@ to a minimum. And that’s why I love these rules to bits.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Como Obter e Instalar um e-CPF ou e-CNPJ A3 no Ubuntu Linux em 2025</title>
-        <description>&lt;p&gt;Este post é completamente diferente do conteúdo usual do Octopus Carnival, mas
-obter a informação aqui foi tão complicado que eu me sinto compelido a deixar
-instruções para as gerações futuras (e para mim mesmo, caso eu esqueça). Ele
-está em português porque estas instruções são relevantes para quem está no
-Brasil.&lt;/p&gt;
-
-&lt;p&gt;Neste artigo, eu vou explicar todos os passos necessários para emitir e instalar
-um certificado digital A3 (e-CPF ou e-CNPJ) em uma máquina rodando Ubuntu 22.04
-ou 24.04.&lt;/p&gt;
-
-&lt;p&gt;O post foi originalmente escrito no meio de 2024, mas até onde eu sei suas
-instruções ainda são válidas.&lt;/p&gt;
-
-&lt;h2 id=&quot;background-e-introdução&quot;&gt;Background e Introdução&lt;/h2&gt;
-
-&lt;p&gt;Pode pular essa sessão inteira se você só quer as instruções. Vá direto aos
-Pré-Requisitos.&lt;/p&gt;
-
-&lt;p&gt;Apenas uma raríssima minoria das certificadoras brasileiras sequer apresenta
-instruções para emitir um utilizar um certificado A3 em Linux, e essas
-instruções são invariavelmente para uma versão mais antiga do Ubuntu, como a
-18.04 ou a 20.04. Se você tem uma versão mais recente, como provavelmente é o
-caso, você está por conta própria. O propósito deste artigo é remediar isso. Ele
-reúne informações de diversas fontes separadas.&lt;/p&gt;
-
-&lt;p&gt;Minha inspiração para escrever este post foi &lt;a href=&quot;https://linuxuniverse.com.br/linux/token-a3&quot;&gt;este outro excelente artigo&lt;/a&gt;
-que explica muitas das mesmas coisas. A diferença aqui é que ele usa uma versão
-um pouco mais antiga de alguns softwares, com instalação mais complicada.&lt;/p&gt;
-
-&lt;h2 id=&quot;pré-requisitos&quot;&gt;Pré-requisitos&lt;/h2&gt;
-
-&lt;p&gt;Você precisa de um computador rodando a versão mais atualizada do Ubuntu 22.04
-ou 24.04, ou um de seus derivados (como o Pop OS). Os passos a seguir em geral
-são válidos para as duas versões, com uma única excessão:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;O Assinador SERPRO só pode ser instalado no Ubuntu 22.04 ou derivados!&lt;/strong&gt; A
-versão mais recente quando da autoria deste post é a 4.2.1, que depende da
-biblioteca &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;libappindicator1&lt;/code&gt;, que por sua vez foi removida do Ubuntu 24.04.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-1-adquira-o-token&quot;&gt;Passo 1: Adquira o Token&lt;/h2&gt;
-
-&lt;p&gt;Escolher um dispositivo físico com bom suporte a Linux costumava ser uma dor de
-cabeça sem tamanho, mas isso agora está bem mais fácil: usaremos um token USB do
-modelo Safenet eToken 5110.&lt;/p&gt;
-
-&lt;p&gt;Se você conhecer uma certificadora que venda certificados A3 em tokens com esse
-modelo, pode pular este passo, o passo 3, e o passo 6. Caso contrário,
-precisamos de um token vazio para cada certificado que queremos obter. Cada
-token guarda apenas um único certificado. A &lt;a href=&quot;https://loja.digitalsecurity.com.br/&quot;&gt;Digital Security do Brasil&lt;/a&gt;
-vende tokens vazios, e ela não é a única. Se tiver outra loja de sua confiança,
-pode encomendar por lá.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-2-instale-o-driver-do-token&quot;&gt;Passo 2: Instale o Driver do Token&lt;/h2&gt;
-
-&lt;p&gt;Mesmo um token USB ainda precisa de um driver especializado para ser lido. O
-eToken 5110 utiliza o Safenet Authentication Client, e foi por isso que eu o
-escolhi - ele roda em ambas as versões do Ubuntu visadas por este artigo e tem
-uma interface um pouco mais agradável e completa.&lt;/p&gt;
-
-&lt;p&gt;Precisamos da versão 10.8 do cliente. A maioria dos lugares só tem até a 10.7
-para download, mas a GlobalSign tem a 10.8 &lt;a href=&quot;https://www.globalsign.com/en/safenet-drivers/USB/10.8/GlobalSign-SAC-Ubuntu-2204.zip&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Faça o download (é gratuito e não requer registro), extraia o arquivo zip, e
-ache o arquivo chamado &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;safenetauthenticationclient_10.8.1050_amd64.deb&lt;/code&gt; dentro
-da estrutura. Instale-o em seu sistema usando os seguintes comandos:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;dpkg &lt;span class=&quot;nt&quot;&gt;-i&lt;/span&gt; safenetauthenticationclient_10.8.1050_amd64.deb
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;--fix-broken&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;O primeiro comando acima instala o pacote; o segundo instala quaisquer
-dependências dele que estejam faltando. Todas essas dependências existem nos
-repositórios padrão do Ubuntu 22.04 e 24.04.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-3-inicialize-o-token&quot;&gt;Passo 3: Inicialize o Token&lt;/h2&gt;
-
-&lt;p&gt;Cada token deve ter duas senhas associadas a ele. Uma senha “de usuário” (PIN)
-que é usada para acessar o conteúdo do token, e uma senha de administração (PUK)
-que é usada para modificar as informações dele. Neste passo vamos definir as
-duas para o(s) token(s) que você adquiriu no primeiro passo.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.locasuporte.com.br/suporte_manuais/safenet/manual_etoken5110.pdf&quot;&gt;Este manual&lt;/a&gt; explica como inicializar um eToken 5110 vazio usando o Safenet
-Authentication Client que instalamos no passo anterior. As instruções relevantes
-começam na página 11. Lembre-se de anotar as senhas em um local seguro, como um
-gerenciador de senhas. Elas não podem ser recuperadas de outra maneira depois de
-definidas.&lt;/p&gt;
-
-&lt;p&gt;O processo basicamente consiste em mudar as senhas de um valor pré-defindo “de
-fábrica” para os valores que você deseja. Se você adquiriu o seu token de outra
-loja que não a Digital Security, pode ser que a senha default seja outra -
-cheque o manual que vier com ele. &lt;strong&gt;Jamais mantenha a senha de fábrica do
-token!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-4-compre-seu-certificado-a3&quot;&gt;Passo 4: Compre Seu Certificado A3&lt;/h2&gt;
-
-&lt;p&gt;Aqui eu tive uma boa experiência com a &lt;a href=&quot;https://www.soluti.com.br/&quot;&gt;Soluti&lt;/a&gt; e o &lt;a href=&quot;https://www.mafragrupo.com.br/&quot;&gt;Grupo Mafra&lt;/a&gt;. Em
-ambos os casos foi necessário falar com o canal de vendas por WhatsApp deles
-para especificar que eu precisava de um certificado digital A3 sem mídia. A
-Soluti vende e-CPF e e-CNPJ - eles têm loja virtual mas para adquirir sem mídia
-ainda é necessário falar com um representante. O Grupo Mafra vende direto por
-WhatsApp e representa a certificadora ABS, que no final das contas também emite
-certificado pela Soluti - mas o preço deles é bem menor.&lt;/p&gt;
-
-&lt;p&gt;Em ambos os casos o procedimento foi o mesmo. Após pagar o certificado, marquei
-uma videoconferência pelo sistema deles, na qual foi verificada minha identidade
-e obti uma &lt;em&gt;senha de emissão e revogação&lt;/em&gt;. No caso da Mafra/ABS, fui direcionado
-a uma página onde eu mesmo gerei a senha. No caso da Soluti, eles me passaram a
-senha durante a chamada de vídeo.&lt;/p&gt;
-
-&lt;p&gt;Após o sucesso da chamada, recebi um e-mail com um assunto parecido com
-“Solicitação de Certificado Digital aprovada”. No corpo desse e-mail, há um
-número de solicitação e um “Usuário de Emissão”. Esse é o nome de usuário que
-faz par com a senha obtida na chamada. Precisamos dos dois para os próximos
-passos.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-5-instale-o-java-8&quot;&gt;Passo 5: Instale o Java 8&lt;/h2&gt;
-
-&lt;p&gt;Sim, é o Java. Sim, é o oito. Vamos precisar dele para rodar o programa que
-realiza a emissão dos certificados. Felizmente, não precisa ser o java da
-Oracle. Use o seguinte comando:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install &lt;/span&gt;openjdk-8-jdk icedtea-netx
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Isso instala a mais recente versão do OpenJDK 8, que tem paridade com o da
-Oracle para os nossos propósitos. O &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;icedtea-netx&lt;/code&gt; nos dá a funcionalidade do
-Java Web Start porque sim, também precisamos disso.&lt;/p&gt;
-
-&lt;p&gt;Após instalar o JDK, configure seu sistema para que ele seja o
-padrão. Precisamos fazer isto de duas maneiras diferentes. A primeira é:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;update-alternatives &lt;span class=&quot;nt&quot;&gt;--config&lt;/span&gt; java
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Isso vai mostrar um menu com os diferentes executáveis Java no seu
-sistema. Mesmo que você não tenha instalado nenhum antes do 8, pode ser que o
-sistema tenha instalado o 11 junto. Pressione o número correspondente ao &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;java&lt;/code&gt;
-to JDK 8 e depois &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;enter&amp;gt;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Depois, use esta sequência de comandos para fazer o Java Web Start entender que
-queremos executá-lo com Java 8:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;cd&lt;/span&gt; /usr/lib/jvm/
-&lt;span class=&quot;nb&quot;&gt;sudo rm &lt;/span&gt;default-java
-&lt;span class=&quot;nb&quot;&gt;sudo ln&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-s&lt;/span&gt; java-8-openjdk-amd64 default-java
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;passo-6-prepare-para-a-emissão&quot;&gt;Passo 6: Prepare para a Emissão&lt;/h2&gt;
-
-&lt;p&gt;Com o Safenet Authentication Client rodando, plugue o seu token vazio no
-computador. Tenha à mão a senha PIN gerada no passo 3, e também o usuário e
-senha obtidos no passo 4.&lt;/p&gt;
-
-&lt;p&gt;A Soluti possui um manual de emissão bem completo &lt;a href=&quot;https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf&quot;&gt;aqui&lt;/a&gt;. Note que já fizemos
-muito do que está lá: temos o driver certo do nosso token, e a versão correta do
-Java.&lt;/p&gt;
-
-&lt;p&gt;Seguindo o manual, o próximo passo é baixar o aplicativo emissor &lt;a href=&quot;https://emissor.ca.inf.br/prod/Emissor.jnlp&quot;&gt;aqui&lt;/a&gt;. Você
-vai notar que isso é um arquivo de extensão &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jnlp&lt;/code&gt;. É por isso que precisamos do
-Java Web Start.&lt;/p&gt;
-
-&lt;p&gt;Em um terminal, vá ao diretório onde você baixou o arquivo &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Emissor.jnlp&lt;/code&gt; e
-execute o seguinte commando:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;javaws Emissor.jnlp
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Você pode a partir daqui seguir o &lt;a href=&quot;https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf&quot;&gt;manual da Soluti&lt;/a&gt;. Como já disse, vai
-precisar do nome de usuário e senha do Passo 4 para iniciar a emissão, e a senha
-do passo 3 para abrir seu token para a gravação das chaves e certificados.&lt;/p&gt;
-
-&lt;p&gt;Ao final deste passo, você já tem seu certificado digital emitido! Os próximos
-passos deixam seu sistema pronto para &lt;em&gt;usar&lt;/em&gt; o certificado.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-7-certifique-se-de-que-o-firefox-é-um-pacote-deb&quot;&gt;Passo 7: Certifique-se de que o Firefox é um pacote .deb&lt;/h2&gt;
-
-&lt;p&gt;Conforme é dito no &lt;a href=&quot;https://linuxuniverse.com.br/linux/token-a3&quot;&gt;post que me inspirou a inscrever este artigo&lt;/a&gt;, a versão
-Snap do Firefox, que vem com o Ubuntu, não reconhece o token, porque não tem
-acesso às portas USB. Precisamos instalar o browser como um pacote .deb
-tradicional.&lt;/p&gt;
-
-&lt;p&gt;É possível que você já tenha feito isso por algum outro motivo, ou esteja usando
-uma variante que já faz isso como o Pop_OS. Se esse for o caso, pode pular este
-passo.&lt;/p&gt;
-
-&lt;p&gt;Caso contrário, adicione o PPA da equipe Mozilla às suas fontes de software:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;add-apt-repository ppa:mozillateam/ppa
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt update
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Em seguida, crie um arquivo chamado &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/etc/preferences.d/mozilla-firefox&lt;/code&gt; com os
-seguintes conteúdos:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Package: firefox&lt;span class=&quot;k&quot;&gt;*&lt;/span&gt;
-Pin: release &lt;span class=&quot;nv&quot;&gt;o&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;LP-PPA-mozillateam
-Pin-Priority: 1001
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Isso guarante que a versão do PPA tenha precedência sobre o Snap. A seguir,
-remova o Snap e instale a versão do PPA:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;snap remove firefox
-
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt remove firefox
-
-&lt;span class=&quot;nb&quot;&gt;sudo &lt;/span&gt;apt &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-t&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;o=LP-PPA-mozillateam&apos;&lt;/span&gt; firefox
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;passo-8-adicione-suporte-ao-token-ao-firefox&quot;&gt;Passo 8: Adicione Suporte ao Token ao Firefox&lt;/h2&gt;
-
-&lt;p&gt;Vá em “Edit” -&amp;gt; “Settings” e procure por “Security Devices”. Clique o botão que
-aparece nos resultados.&lt;/p&gt;
-
-&lt;p&gt;Na janela que vai aparecer, clique em “NSS Internal PKCS #11 Module”, depois em
-“Load” no canto direito da tela. No diálogo que aparecer, dê o nome que quiser
-ao módulo e em “Module filename” entre &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/lib/libeToken.so&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;O módulo vai carregar e aparecer na lista do canto esquerdo desta mesma
-janela. A partir daí você pode plugar seu token, escolher “Log In”, e entrar com
-a senha PIN dele para ter acesso ao certificado.&lt;/p&gt;
-
-&lt;p&gt;Com isso, você já pode usar seu certificado para realizar login em serviços que
-o exijam. Ele também permite que procurações sejam assinadas pelo serviço e-CAC
-do Ministério da Fazenda.&lt;/p&gt;
-
-&lt;h2 id=&quot;passo-9-assinador-serpro&quot;&gt;Passo 9: Assinador SERPRO&lt;/h2&gt;
-
-&lt;p&gt;Conforme dito na introdução, &lt;strong&gt;o Assinador SERPRO só pode ser instalado em
-Ubuntu 22.04 ou derivados&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se o seu sistema se encaixa nessa categoria, basta seguir o &lt;a href=&quot;https://tutorial.assinadorserpro.estaleiro.serpro.gov.br/html/demo_4.html&quot;&gt;tutorial&lt;/a&gt; da
-própria SERPRO. Isso vai instalar a versão 4.2.1 do assinador, que é a mais
-recente quando da autoria deste post. O Assinador SERPRO é usado para assinar
-documentos em PDF ou XML em sua máquina local.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/01/07/certificado-digital.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/01/07/certificado-digital.html</guid>
-        
-        <category>computering</category>
-        
-        <category>linux</category>
-        
-        <category>pt-br</category>
         
         
       </item>
