@@ -11,7 +11,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-cilops.jpeg" | absolute_url }}"/>
   <figcaption>
-    A chathrang reeling in a small mammal it just caught.
+    A cilops, which is a giant centipede with one big angry eye on its head.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>
