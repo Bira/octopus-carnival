@@ -173,6 +173,81 @@ because she'd be relying on her invisibility to stay hidden. Call it a +10
 modifier to Jania's Perception because the imp is now in plain sight for
 her. With the bonus, Jania succeeds by 14 while B only succeeds by 7.
 
+Jania spots the imp and calls it out. Blosodriette freaks out, startled and
+angry at life, and begins to fight. Let's say she recognizes Jade, since she was
+definitely around when the Ravens were active!
+
+No surprise, but only Jania can see the imp currently.
+
+**Round 1**
+
+- Blosodriette launches a fireball from her wand at the party. Misses, causing
+  it to hit a nearby wall and explode. No one is damaged, everyone is startled.
+
+- Jania casts See Invisible again, on Urist this time. Succeeds, but has only 4
+  fatigue remaining after the second casting.
+
+- Urist casts a 1-point Sunbolt, holding it.
+
+- Arthur and Jade advance closer to where their friends say the demon is.
+
+- Rosalia advances too and figures the demon can hear her just fine, so she uses
+  the Song of Humiliation. She can't see Blosodriette but she knows enough to
+  try for an insult at -2 to skill. She still wins the contest and stuns the
+  imp!
+
+**Round 2**
+
+- B has to Do Nothing. She fails the IQ roll to recover and remains stunned.
+
+- Jania steps forward and casts a 1-point Ice Dagger. It costs nothing due to
+  her high skill.
+
+- Urist steps forward and Aims.
+
+- Arthur and Jade advance further, Rosalia stays put.
+
+**Round 3**
+
+- B Does Nothing but recovers at the end of her turn.
+
+- Jania steps and Aims.
+
+- Urist steps and throws his Sunbolt, hitting the demon for 2 injury.
+
+- Jade swings blindly at the spot she knows Blosodriette is at, but the imp
+  dodges.
+
+- Arthur grabs at the flapping sounds and B critically fails her dodge roll!
+  Though he cannot see the imp, he grabs her for 7 control points, putting her
+  at a -6 DX penalty.
+
+
+
+I'm calling this now. Blosodriette cannot possibly escape Arthur's grasp, so she
+just shouts for them to kill her already so she can go back home after a century
+trapped in this cesspit. Before anyone can reason whether this is really a good
+idea or not, Arthur wrings her like a wet rag and that's that. She disappears in
+a puff of sulfur, leaving her gear behind.
+
+The imp will pop up back in Hell, and though she's in for a bad time down there
+she will still inform some higher-powered fiends about how the Sixth Raven is
+back, thus giving us a reason for more exciting Monsters of the Day.
+
+Our heroes get to loot B's gear and the three boxes described above now. Jania
+has no problem opening the locked box. She identifies that the stylish suit of
+leather armor inside one of the boxes is magical, and while she can't feel any
+magic from the silvered mace next to it she figures there must be something
+special about it. And the pearls, oh the pearls. Jania and Rosalia get little
+gold pieces in their eyes as they realize how much these must be worth.
+
+The silver raven figurines also ping as magical, and bear further
+analysis. There's some magic mixed in with the big pile of documents too, but
+they're not gonna sift through that right now. After Urist confirms none of this
+stuff is evil, they decide to carry everything out in its boxes and distribute
+later. B's gear goes into the iron box for later sorting as well.
+
+They also get 1 character point each for retrieving the documents.
 
 
 [1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
