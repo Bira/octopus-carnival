@@ -249,5 +249,20 @@ later. B's gear goes into the iron box for later sorting as well.
 
 They also get 1 character point each for retrieving the documents.
 
+## Victory Celebration
+
+When the party emerges from the old hideout, they're hailed as heroes by the
+grimples. A few of them bring out tiny improvised musical instruments for a
+celebration, which fascinates Rosalia enough that the decides to gift them the
+tiny pipes. They do get a bit scared when that summons a swarm of mundane rats
+who start dancing to the tune, but in the end the grimples are even more
+grateful for the party's generosity.
+
+Their leader pledges to help the party in the future, should they need it, and
+explains how to leave a letter at a place on the surface where they will check
+for it.
+
+With that done, they set out on the long walk to the Long Roads Coffee House.
+
 
 [1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
