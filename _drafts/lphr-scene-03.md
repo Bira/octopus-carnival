@@ -48,8 +48,8 @@ sit there. Some bits of conversation reach Rosalia's ears - people complaining
 about Thrune and wondering what the racket is near the park.
 
 The group pushes a couple of tables together away from the other customers,
-orders some quick drinks, and begins to talk. This is where Rexus explains his
-story and makes his impassoned plea for the party to join him in rebellion.
+orders some drinks, and begins to talk. This is where Rexus explains his story
+and makes his impassoned plea for the party to join him in rebellion.
 
 Jade is _immediately_ all in on this, as are Rosalia and Urist. Arthur likes the
 idea, but is open about being in town to find a missing friend, and that he
@@ -58,7 +58,7 @@ she figures she can't tell these people about the not-thieve's-guild right
 away. She just says her circumstances are similar to Arthur's instead.
 
 In my head this kinda starts a trend of Arthur thinking the two of them are much
-more alike than they are in reality. He gets even happier when the other tree
+more alike than they are in reality. He gets even happier when the other three
 promise to help if at all possible. What a brave band of souls this is! Fighting
 for justice! "Like some kind of league!", adds Rosalia. She probably realizes
 Jania is a little more selfish than the others but hey, but she won't pass an
@@ -125,9 +125,9 @@ attempt, and Prisoners of Salt later on.
 ### Conversion Notes: Treasure
 
 I imagine Pathfinder wants this to be the reward associated with the Aria Park
-riot and his rescue scene. The money and signed ring are fine, following the
-wealth conversion guidelines I wrote, but the knife and the Bracers of Armor are
-a bit weirder.
+riot and his rescue scene. The money and signet ring are fine, following the
+wealth conversion guidelines I wrote, but the knife and the Bracers of Armor
+from the original treasure are a bit weirder.
 
 All devils in Pathfinder 1 have a degree of supernatural resistance that can be
 bypassed with silver weapons. The dagger in the original reward is mean to be

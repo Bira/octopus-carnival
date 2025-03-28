@@ -9,7 +9,7 @@ They accessed a section of old buried city streets, and fought two lemures and
 some giant rats who made their homes there. Then they resumed exploring the
 underground area in search of the Silver Raven hideout.
 
-# Mythic Bookkeeping
+# GM Hat: Mythic Bookkeeping
 
 The fight was actually a bit more chaotic than I anticipated. The opposition was
 kinda weak but that last lemure took a lot of killing and managed to inflict
@@ -43,7 +43,7 @@ dungeon.
 I roll a d10 and come up with a 7, which means there are no surprise alterations
 here.
 
-# Preparation Work
+# GM Hat: Preparation Work
 
 Time to plan what's ahead. First of all: do I even _want_ to include
 Blosodriette here?
@@ -146,7 +146,7 @@ and have it carry a letter there, waiting for a specified amount of time and
 allowing the letter to be removed during that wait. Then it returns, possibly
 bearing a response.
 
-# Actual Play
+# Player Hat: Actual Play
 
 ## The Old Hideout
 
@@ -247,8 +247,6 @@ they're not gonna sift through that right now. After Urist confirms none of this
 stuff is evil, they decide to carry everything out in its boxes and distribute
 later. B's gear goes into the iron box for later sorting as well.
 
-They also get 1 character point each for retrieving the documents.
-
 ## Victory Celebration
 
 When the party emerges from the old hideout, they're hailed as heroes by the
@@ -262,7 +260,23 @@ Their leader pledges to help the party in the future, should they need it, and
 explains how to leave a letter at a place on the surface where they will check
 for it.
 
-With that done, they set out on the long walk to the Long Roads Coffee House.
+With that done, they set out on the long walk to the Long Roads Coffee House. It
+takes about 90 minutes.
+
+# GM Hat: Rewards
+
+The party gets a total of 3 character points:
+
+- 1 for fully clearing the Livery.
+- 1 total for the battles inside.
+- 1 for retrieving a "quest item" (the documents).
+
+For treasure, they get the $2500 platinum ring found in scene 4, and everything
+listed in this file except for the Pipes of the Sewers. Rosalia gave that away
+to the grimples. Yes, it's really expensive, I know.
+
+We'll distribute the treasure in the next scene, after the party arrives at the
+Long Roads Coffee House.
 
 
 [1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}

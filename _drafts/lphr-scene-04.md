@@ -6,7 +6,7 @@ under the Fair Fortune Livery. In this scene, we'll see how that goes.
 
 No interrupt checks today, because I don't wanna.
 
-This scene will cover the entirety of the Livery delve.
+This scene will cover the first half of the Livery delve.
 
 # Mythic Bookkeeping
 
@@ -283,8 +283,6 @@ round 5 in the fight, so I need to refocus on this campaign too.
 
 ### GM Interlude
 
-I think it took
-
 Mechanically, we're going with [this procedure][1] for the exploration, and I
 think it's fair to say this includes Urist's Detect Evil rolls. I'd argue for
 that if I was his player!
@@ -300,7 +298,7 @@ has a wand of Acid Arrow with 9 charges, which could make short work of a level
 
 So clearly the book means for her to stay hidden, follow the PCs to their new
 hideout, and engage in sabotage during the back half of the adventure. The PCs
-are only meant to find hortly before the end of the adventure, when they've
+are only meant to find her shortly before the end of the adventure, when they've
 leveled up a bit and fighting her becomes a more reasonable proposition.
 
 However, her sabotage is _super annoying_ to deal with when playing solo. And

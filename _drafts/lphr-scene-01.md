@@ -1,3 +1,5 @@
+# Intro
+
 The background for the adventure here is mostly the same, though I imagine
 mainland Cheliax is going to be worse than the writers envisioned at handling
 the Glorious Reclamation.
@@ -26,7 +28,11 @@ Anyway, our heroes are all at the protest for their varied motives:
   how the current political climate might affect her school. Her disposition
   also makes her inclined to try some pickpocketing here.
 
-# Actions
+# Player Hat: The Aria Park Protest
+
+We're following the kind-of-skill-challenge laid out in the protest description,
+so there are these defined actions PCs can take during the initial part of the
+protest.
 
 Everyone is going to spend their first couple of hours on Watch the Crowd and
 Listen for Rumors actions. Watching the crowd is a roll on the better of

@@ -181,7 +181,7 @@ him vulnerable to other enemies. Fortunately he manages to slam the grappled
 dottari to the ground and deal enough damage to take him out, allowing him to
 turn to the others and get ready to defend himself. I played this as a Rapid
 Strike with another Wrestling grab to increase control points, and then spending
-all of those points on a single attack I resolves as a punch. That was 5d6
+all of those points on a single attack I resolved as a punch. That was 5d
 crushing!
 
 Jania finds her cane does little to the guards through their armor, and Arcturus
