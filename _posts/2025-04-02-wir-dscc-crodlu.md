@@ -7,6 +7,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-crodlu.jpeg" | absolute_url }}"/>
+  <figcaption>
+    A cilops, which is a giant centipede with one big angry eye on its head.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 Crodlus are what Athas has instead of horses. Fans of Final Fantasy might
 compare them do Darker and Sunnier chocobos.
 
@@ -25,8 +37,8 @@ predators. They're also frequently beset by human raiders trying to capture
 their young for training as mounts.
 
 This means that crodlu are a common sight among groups of sapient
-humanoids. They make for unpredictable and aggressive mounts, but those are good
-traits to have in something you want to ride into battle.
+humanoids. They make for ornery mounts, but that's a good trait to have in
+something you want to ride into battle.
 
 ## The Numbers
 
@@ -64,3 +76,6 @@ the PCs decide to play hunter and steal hatchlings to sell or domesticate.
 Mechanically they're very simple, about on par with horses really. I've been too
 desensitized by FF chocobos to see terror bird mounts as a mind-blowing
 innovation, but they're still kinda cool.
+
+
+[1]: {{ "/projects/dscc/" | relative_url }}
