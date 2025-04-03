@@ -6,9 +6,117 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Apr 2025 21:08:36 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Apr 2025 21:08:36 +0000</lastBuildDate>
+    <pubDate>Thu, 03 Apr 2025 22:59:03 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Apr 2025 22:59:03 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dagorran</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dagorran.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A cilops, which is a giant centipede with one big angry eye on its head.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Dagorrans are carnivorous reptilian quadrupeds the size of large dogs. They can
+track prey by its “psychic scent”, which they can memorize either through direct
+contact or by stumbling into a creature’s psychic trail (i.e. through
+psychometry). Once a dagorran has its chosen prey’s scent, they will chase it
+relentlessly, across great distances, until they catch it.&lt;/p&gt;
+
+&lt;p&gt;In the wild, these creatures live in wide-ranging packs. Dagorran packs sleep
+for a handful of hours every couple of days, and spend the rest of their time on
+the hunt. They only stay at a single place for a while when they have to rear
+their young, but as soon as the pups can run with the pack they’re on the move
+again. Unlike some of the other magical beasts in the book, dagorran packs don’t
+cooperate with other predators.&lt;/p&gt;
+
+&lt;p&gt;Young dagorrans are sometimes captured and trained by templars, who prize them
+as peerless trackers and use them to track fugitives or wanted
+dissidents. They’re much better at this job than cilopses, who must lay eyes on
+the prey to start tracking and can only follow the trail for a short time.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Dagorrans share some similarities with baazrags (dog-like pack hunters) and with
+cilopses (favored templar pets), but they’re a lot more dangerous with levels in
+the mid-Paragon tier. They’re Natural Magical Beasts so we can consider them
+sapient, though I guess their thought processes are pretty alien. The creatures
+can understand Common, and they can communicate telepathically with other
+dagorrans but not with anyone else.&lt;/p&gt;
+
+&lt;p&gt;They have a ground speed of 8, low-light vision, and the &lt;strong&gt;Psychic Scent&lt;/strong&gt;
+signature trait. This is a minor-action power that lets them choose a living
+creature &lt;em&gt;or its tracks&lt;/em&gt; within 10 squares of the dagorran. The dagorran can
+ignore any level of concealment or invisibility on its chosen target, and knows
+the creature’s location until it either dies or the dagorran uses the power
+again. No wonder templars like them.&lt;/p&gt;
+
+&lt;h3 id=&quot;dagorran-mindhound&quot;&gt;Dagorran Mindhound&lt;/h3&gt;
+
+&lt;p&gt;These robust specimens charge in packs to surround and distract their chosen
+prey, opening them up for attack by their sneakier relatives (below). They’re
+Level 16 Brutes with 194 HP.&lt;/p&gt;
+
+&lt;p&gt;Their only attack is a &lt;strong&gt;bite&lt;/strong&gt; that does respectable brute-tier damage, but
+that and Psychic Scent are enough to make them a threat.&lt;/p&gt;
+
+&lt;h3 id=&quot;dagorran-ambusher&quot;&gt;Dagorran Ambusher&lt;/h3&gt;
+
+&lt;p&gt;These sneaky specimens move a bit ahead of the pack and position themselves for
+an ambush, striking once their beefier relatives (above) begin their own part of
+the attack. They’re Level 17 Lurkers with 132 HP.&lt;/p&gt;
+
+&lt;p&gt;Ambushers deal extra psychic damage against any creature that cannot see
+it. This trait is somewhat confusingly named &lt;strong&gt;Combat Advantage&lt;/strong&gt;. I mean, if
+you cannot see the ambusher you will most likely be granting it CA, but if you
+can see it you won’t take bonus damage even if you’re granting it CA for other
+reasons.&lt;/p&gt;
+
+&lt;p&gt;That difference will soon cease to matter, however, because their &lt;strong&gt;bite&lt;/strong&gt; makes
+them invisble to the target for a turn on a hit. If they’re too far away to
+bite, they can use their standard action to &lt;strong&gt;Fade to Nothingness&lt;/strong&gt; and become
+invisible either until they attack, or until the end of their next turn.&lt;/p&gt;
+
+&lt;p&gt;It’s a classical lurker setup, but the rider on their bite attack means that
+they can keep biting you with bonus damage for as long as they keep hitting.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Dagorran encounters are simple. A wild pack is an all-dagorran encounter. You
+can also find one or two of them as part of a Paragon-tier templar encounter.&lt;/p&gt;
+
+&lt;p&gt;Dagorrans feel a lot more “dog-like” than baazrags lore-wise, but not
+mechanics-wise as they lack the ability to knock people prone or any Pack
+Tactics style power. I think they work better as pets brought in by mixed
+humanoid encounter groups, since those can be more varied than a wild pack. A
+chase scene or skill challenge involving dagorrans is a much more drawn-out
+affair than one involving cilopses, as the PCs will likely have to kill or
+discourage the dagorrans before they can attempt to lose their pursuers.&lt;/p&gt;
+
+&lt;p&gt;I did find a bit surprising that they’re mid-Paragon monsters, but their stat
+blocks are simple enough that you could reduce their level by 10 or so and still
+have them work just fine as Heroic threats.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/04/03/wir-dscc-dagorran.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/03/wir-dscc-dagorran.html</guid>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        <category>dnd4</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Crodlu</title>
@@ -1176,157 +1284,6 @@ war animals, just like the beasts they replace.&lt;/p&gt;
         <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/02/21/baazrag.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/21/baazrag.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Anakore</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-anakore.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    An typical anakore specimen, looking like a gray spiky armadillo man with
-    large claws. Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;I have no idea if anakores appeared before. This is the first time I’ve read
-about them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Little is known about the origins of these creatures. Ancient tales speak of a
-terror from beyond the sky that touched their humanoid ancestors, causing them
-to recoil from the sun and seek shelter underground. Over time, these ancestors
-became today’s anakores.&lt;/p&gt;
-
-&lt;p&gt;Anakores live in small hunter-gatherer bands led by their most accomplished
-tracker. They burrow beneath the desert sands during the day, and from there
-they can feel the vibrations of prey passing overhead, and smell blood spilled
-on the ground. When anakores detect prey, they can follow it all day by
-tunneling through the sands, waiting until nightfall to spring their ambush from
-below. Then they will fight with their powerful digging claws and their
-paralytic bites.&lt;/p&gt;
-
-&lt;p&gt;While on the move, the creatures subsist on plant roots, including certain
-poisonous species that help the formation of their venom. Rootless vegetation
-spread around an area is a possible signt of anakore presence, though they’re
-smart enough to clean this up if they intend to stay in place for a while.&lt;/p&gt;
-
-&lt;p&gt;Different band members specialize in different parts of an attack - some lead
-the ambush, others strike to hurt and incapacitate victims, and yet others drag
-those victims underground.&lt;/p&gt;
-
-&lt;p&gt;I guess a lot of the time they prey on the local fauna, but anakores don’t mind
-attacking sapient travellers, and judging from what the book says seem to prefer
-it. They don’t have any visible sexual dimorphism, and rumor has it that they
-reproduce by dragging some of their sapient victims to weird cocoons under the
-sands. There, the victims are transformed into more anakores. No one knows what
-criteria they use to select new candidates.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Anakores are Medium Aberrant Humanoids, which means they’re sapient. They have
-low-light vision and Tremorsense 5, plus a ground speed of 5 with Earth Walk and
-a burrow speed of 6 on loose earth only. They communicate in Deep Speech.&lt;/p&gt;
-
-&lt;p&gt;Their signature traits are &lt;strong&gt;Dune Diver&lt;/strong&gt;, which lets them charge while
-burrowing, and &lt;strong&gt;Sensitive to Light&lt;/strong&gt;, which gives them a -2 penalty to attacks
-for a turn when they’re exposed to direct sunlight or take radiant damage.&lt;/p&gt;
-
-&lt;p&gt;Their poison is a rider on a different attack on every stat block, but the
-effect is always the same: the target is slowed on a hit (save ends), worsening
-to immobilized (save ends) after the first failed save.&lt;/p&gt;
-
-&lt;h3 id=&quot;anakore-hunter&quot;&gt;Anakore Hunter&lt;/h3&gt;
-
-&lt;p&gt;These are the ones who drag people under. They’re Level 5 Lurkers with 48
-HP. Their basic &lt;strong&gt;claw&lt;/strong&gt; attacks grab the target on a hit, and on their next
-turn they can choose to either bite the victim or drag them under.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;bite&lt;/strong&gt; targets a grabbed creature and deals a bit less damage than the
-claws, but applies the poison described above. &lt;strong&gt;Drag Under&lt;/strong&gt; (melee 1
-vs. Fortitude) can target either immobilized or grabbed creatures. It deals more
-damage than the claw, inflicts 5 ongoing damage and removes the target from play
-(save ends both). When the effect ends the target reappears at its previous
-position or on the closest unoccupied square. And even them they’re still
-immobilized (save ends), so the hunter can try to drag them under again right
-away instead of having to bite.&lt;/p&gt;
-
-&lt;p&gt;Presumably, victims who drop to 0 HP by this attack would be dragged further
-down and not come back up. Don’t let that happen!&lt;/p&gt;
-
-&lt;h3 id=&quot;anakore-render&quot;&gt;Anakore Render&lt;/h3&gt;
-
-&lt;p&gt;This is the one that hurts the prey and makes it more vulnerable to the
-others. Renders are Level 7 Brutes with 96 HP and a ground speed of 7 instead
-of the usual 5.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; do heavy damage on a hit, pushing the target 2 squares and
-knocking it prone. Their &lt;strong&gt;blood frenzy&lt;/strong&gt; ablity (recharge 5+) lets them perform
-two of these attacks in one action.&lt;/p&gt;
-
-&lt;p&gt;As a move action, they can use &lt;strong&gt;Blood Hunger&lt;/strong&gt; to shift 3 squares closer to a
-bloodied creature. As a minor action, they can use a &lt;strong&gt;rending bite&lt;/strong&gt; against a
-prone or bloodied creature, which does light physical damage and applies anakore
-venom.&lt;/p&gt;
-
-&lt;h3 id=&quot;anakore-dune-king&quot;&gt;Anakore Dune King&lt;/h3&gt;
-
-&lt;p&gt;Often the leaders of a pack, Dune Kings signal the start of an attack by
-bursting up from the ground in the middle of their targets and distracting them
-so their fellows can attack the victims more safely. They’re Level 9 Skirmishers
-with 94 HP and the Leader tag.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; damage and apply anakore poison on a hit, but the real threat
-here is the &lt;strong&gt;Sand Eruption&lt;/strong&gt; ability (recharge 5+). The dune king must be
-underground to start this, and the action lets him move 4 squares to a square
-that’s not underground. The first time they enter such a square, they can
-perform a Close Burst 2 attack that targets enemies and deals very heavy
-physical damage on a hit, sliding the targets 2 squares. Additionally, each
-anakore in the burst can shift 3 squares as a free action, and the area of the
-burst becomes difficult terrain until the end of the encounter.&lt;/p&gt;
-
-&lt;p&gt;Finally, Dune Kings can shift 1 square as a minor action using &lt;strong&gt;Sand Slide&lt;/strong&gt;,
-which makes them as slippery as kobolds despite their size.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Anakore bands only hunt in places where they can burrow, which means the terrain
-on the map will mostly be soft earth, sand, or silt. An anakore-only encounter
-is the most common one, I think, but they can also appear with other burrowing
-predators that they either trained, or which happen to be opportunistically
-hanging around.&lt;/p&gt;
-
-&lt;p&gt;They can also work with other sapients that pay them in food and trinkets for
-doing what they were already going to do anyway, and you might also find them
-in bizarre aberrant ruins on or under the surface, drawn there by strange dreams
-and performing unspeakable rituals.&lt;/p&gt;
-
-&lt;p&gt;Anakores are smart enough to recognize when they’re in a poor situation, and
-when they should negotiate instead of fighting. But if they think they should
-fight, their underground ambushes can be pretty terrifying, as all of their
-powers synergize very well and make the tactics described in the lore section
-very effective.&lt;/p&gt;
-
-&lt;p&gt;Their burrow speed lets them go back underground at will, meaning each Dune King
-might be able to perform more than one Sand Eruption in a fight, and the Hunters
-can move with relative impunity among the party to harass and grab the
-PCs. Renders stay up top once they emerge, and all of them are immune to the
-difficult terrain created by the Kings due to Earth Walk.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/02/19/anakore.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/19/anakore.html</guid>
         
         <category>dnd4</category>
         
