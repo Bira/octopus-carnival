@@ -34,6 +34,9 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Cloud Ray][11]
   - [Crodlu][12]
 
+- D
+  - [Dagorran][13]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -46,3 +49,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [10]: {{ "/2025/03/09/wir-dscc-cilops.html" | relative_url }}
 [11]: {{ "/2025/03/13/cloud-ray.html" | relative_url }}
 [12]: {{ "/2025/04/02/wir-dscc-crodlu.html" | relative_url }}
+[13]: {{ "/2025/04/03/wir-dscc-dagorran.html" | relative_url }}
