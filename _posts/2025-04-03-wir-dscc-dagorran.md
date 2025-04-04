@@ -11,7 +11,8 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-dagorran.jpg" | absolute_url }}"/>
   <figcaption>
-    A cilops, which is a giant centipede with one big angry eye on its head.
+    A dagorran, which is a cross between a lizard and a large dog with wicked
+    sharp teeth.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>
