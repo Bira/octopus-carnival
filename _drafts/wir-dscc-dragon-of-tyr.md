@@ -27,9 +27,8 @@ Rajaat the Sorcerer.
 You see, arcane magic on Athas is a truly unnatural phenomenon, a flaw that
 slipped into the world when the primordials defeated the gods way back when
 Athas was still green. Rajaat was the first mortal to discover and master arcane
-magic. He was also the first to learn that you could pull a little more power
-from the surrounding world to cast bigger spells - in other words, the first
-defiler.
+magic. He was also the first to learn that you could pull more power from the
+life around you to cast bigger spells - in other words, the first defiler.
 
 Rajaat taught dozens of pupils, but he only taught the secret of defiling to his
 inner circle of fifteen secret apprentices. For Rajaat was a major asshole, and
@@ -39,11 +38,11 @@ much defiling magic was flung around in those wars that Athas' previously green
 ecosystem was completely destroyed, starting the world's transformation into the
 desert it is today.
 
-Eventually Champions became convinced that all of this was a bit too much, so
-they returned to Rajaat and, led by Borys, managed to rebel against him and
-imprison him in a pocket dimension outside of time and space. The former
-Champions quickly conquered or built city-states in one of the last habitable
-regions of Athas, setting themselves up as the Sorcerer-Kings.
+In time, even the Champions became convinced that all of this was a bit too
+much. Led by Borys, they turned on their master and managed to imprison him in a
+pocket dimension outside of time and space. Once Rajaat was out of the picture,
+the former Champions quickly conquered or built city-states in one of the last
+habitable regions of Athas, setting themselves up as the Sorcerer-Kings.
 
 By then, they knew that attaining the pinnacle of power as a defiler would lead
 to transformation into a dragon. Borys, who had taken it upon himself to guard
@@ -53,7 +52,7 @@ former master forever. And so they did.
 
 The ritual for the final transformation required the sacrifice of every citizen
 of Ebe, the island city Borys ruled. Borys renamed the resulting hellish
-wasteland to Ur Draxa, the City of Doom. The Dragon dwells in the ruins of Ur
+wasteland Ur Draxa, the City of Doom. The Dragon dwells in the ruins of Ur
 Draxa's palace to this day, leaving the city only to collect his tributes.
 
 The city itself is inhabited by a very large number of undead, and by the living
