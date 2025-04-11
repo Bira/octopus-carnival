@@ -6,9 +6,163 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Apr 2025 17:15:59 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Apr 2025 17:15:59 +0000</lastBuildDate>
+    <pubDate>Fri, 11 Apr 2025 12:19:39 +0000</pubDate>
+    <lastBuildDate>Fri, 11 Apr 2025 12:19:39 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dragonborn (Dray)</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dragonborn.jpg&quot;/&gt;
+  &lt;figcaption&gt;
+    A dragonborn sorcerer in the Athasian desert.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Despite the title of their entry, these Dragonborn are &lt;em&gt;not&lt;/em&gt; a new
+addition. Dark Sun is one of two 2e settings (that I know of) that had draconic
+humanoids in it since its initial publication.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Despite using dragonborn stats for the PC version, these are not the same
+dragonborn as the ones from the standard Points of Light setting. Athasian
+dragonborn are known as Dray, are lankier than the standard variety, and have a
+completely different origin.&lt;/p&gt;
+
+&lt;p&gt;The Dray species was created by the sorcerer-king Dregoth to be his perfect
+servants and minions, but he was dissatisfied with the result and cast most
+of them out of his city-state of Giustenal. Those he allowed to stay kept
+serving him until the other sorcerer-kings banded together to destroy Dregoth
+and his city.&lt;/p&gt;
+
+&lt;p&gt;Today’s Dray are descended both from the outcasts and from the survivors of
+Giustenal’s destruction. Their total population is relatively small and few
+people know of their existence. Their communities are either small scattered
+tribes in the wastes or the rare enclave embedded in a larger settlement.&lt;/p&gt;
+
+&lt;p&gt;Their reputation among those who know about them is as slavers and
+sorcerers. Not All Dray (TM) deserve this reputation… but a significant
+majority of them do. They practice defiling magic and slavery, and frequently
+act as mercenaries for other groups who are okay with this. In this, they
+continue the cycle of abuse, inflicting on others what their creator inflicted
+on them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Dray, like standard dragonborn, are Medium Natural Humanoids with a Speed
+of 6. They can use a &lt;strong&gt;Dragon Breath&lt;/strong&gt; once per encounter, a Close Blast 3
+vs. Reflex that deals some sort of elemental damage and whose details vary with
+the stat block.&lt;/p&gt;
+
+&lt;p&gt;You can easily use standard dragonborn stat blocks from the other monster books
+as more dray varieties if you need to.&lt;/p&gt;
+
+&lt;h3 id=&quot;dragonborn-slaver&quot;&gt;Dragonborn Slaver&lt;/h3&gt;
+
+&lt;p&gt;These assholes roam the desert looking for easily taken captives that they can
+sell to the sorcerer-kings in exchange for money and prestige. They’re
+frequently found in mixed-species slaver parties as their rank-and-file muscle.&lt;/p&gt;
+
+&lt;p&gt;Slavers are Level 16 Minion Soldiers that fight with &lt;strong&gt;Bastard Swords&lt;/strong&gt; which
+damage and mark for a turn on a hit. Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; deals lightning
+damage and marks (save ends).&lt;/p&gt;
+
+&lt;p&gt;They’re tougher than your average minion too - the first time they drop to 0 HP,
+their &lt;strong&gt;Determined Defender&lt;/strong&gt; trait lets them recover, clear any effects on
+them, and get back on at the start of their next turn. This makes them more
+willing to risk harm when surrounding the PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;dragonborn-scorned-champion&quot;&gt;Dragonborn Scorned Champion&lt;/h3&gt;
+
+&lt;p&gt;A few dray take pride in being scorned by their creator, making that part of
+their identity. I’m guessing these are the nicer ones, since it would make sense
+for them to reject the ways of the sorcerer-kings. The Scorned Champion is an
+example of someone who might rise to lead a community of these Dray. Still, he’s
+sensitive to anything he perceives as a challenge to his position, and is quick
+to strike down the source of that challenge.&lt;/p&gt;
+
+&lt;p&gt;The Scorned Champion is a Level 16 Skirmisher with 151 HP. This cocky fighter’s
+&lt;strong&gt;Bravura Poise&lt;/strong&gt; acts as an aura (1) that forces enemies inside to grant combat
+advantage. He fights with a &lt;strong&gt;scimitar&lt;/strong&gt; that damages the target and lets him
+shift 1 square on a hit. The &lt;strong&gt;Dray Fury&lt;/strong&gt; special attack (recharge 4+) lets him
+shift his speed and strike twice with the scimitar at any point during this
+movement. His &lt;strong&gt;DragonBreath&lt;/strong&gt; can exclude one creature of his choice from the
+blast, and deals fire-and-lightning damage. Finally, his &lt;strong&gt;Unstoppable Force&lt;/strong&gt;
+power lets him immediately end any Slow or Immobilize effect on him once per
+round.&lt;/p&gt;
+
+&lt;h3 id=&quot;dragonborn-defiler&quot;&gt;Dragonborn Defiler&lt;/h3&gt;
+
+&lt;p&gt;Drays like this one go in the other direction - they look fondly upon the past
+when they could walk the streets unchallenged, openly displaying their arcane
+might. They want the power to do that again, and see defiling as the quickest
+way to get there.&lt;/p&gt;
+
+&lt;p&gt;The Defiler is Level 18 Artillery with 129 HP. They use &lt;strong&gt;daggers&lt;/strong&gt; as weapons
+and implements, and the damage roll on this attack has a funky format that mixes
+physical and cold damage. Their basic ranged attack is a &lt;strong&gt;Dragonfear Ray&lt;/strong&gt;
+(ranged 10 vs. Will) that deals psychic damage and causes the target to take 5
+damage each time they damage the defiler or one of its allies, until the end of
+the target’s next turn.&lt;/p&gt;
+
+&lt;p&gt;Their dragon breath has been corrupted into a &lt;strong&gt;Defiling Breath&lt;/strong&gt; (close blast 5
+vs. Reflex) that deals immediate and ongoing cold-and-necrotic damage (save
+ends). While at least one target is taking this ongoing damage, the defiler has
++2 to all attacks and +5 to all damage rolls. This recharges if the defiler
+misses every target with the power, so it will keep doing it until it hits
+someone.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter the defiler can cast &lt;strong&gt;Flight of Dragons&lt;/strong&gt; as a move action,
+allowing every ally within 5 squares to fly 5 squares, and flying 10 squares
+itself. It doesn’t provoke opportunity attacks when it leaves its starting
+square, but obeys the rules normally from that point on.&lt;/p&gt;
+
+&lt;p&gt;As a minor action it can also use &lt;strong&gt;Hurled Dragon Breath&lt;/strong&gt; (recharge 5+) to do
+just that with a less corrupt form of its breath. This is either a Close Blast 5
+or an Area 2 Within 10, both targetting Reflex. It deals cold damage on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;dragonborn-atavist&quot;&gt;Dragonborn Atavist&lt;/h3&gt;
+
+&lt;p&gt;Dray like this one prefer to focus on the bestial nature of their dragon
+heritage, using ritual techniques to tap into that inner beast and bring it
+forth during combat. Why use weapons when you have the power of a dragon at your
+disposal? This one’s a Level 19 Brute with 220 HP and Resist 10 Acid.&lt;/p&gt;
+
+&lt;p&gt;Their basic attacks are a strong &lt;strong&gt;Bite&lt;/strong&gt; and a slightly less strong &lt;strong&gt;claw&lt;/strong&gt;,
+both of which deal ongoing acid damage on a hit (save ends). &lt;strong&gt;Draconic Fury&lt;/strong&gt;
+(recharge 5+) lets them use both attacks with one action, or even engage in a
+classic claw/claw/bite routine if they’re bloodied.&lt;/p&gt;
+
+&lt;p&gt;Their dragon breath, as you might expect, does acid damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;It seems the only stat block here that’s actively Evil is the Defiler - everyone
+else is unaligned, even the slavers. I’m not sure I agree with that last part,
+but I suppose you can use the slaver stat block for a more conventional non-evil
+warrior.&lt;/p&gt;
+
+&lt;p&gt;I’m glad the game gives us some tools to stat up a non-evil group of Dray. PCs
+have to come from somewhere, and it’d get a little samey if all of them were
+nonconformist rebels fleeing their evil upbringing.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/04/11/wir-dscc-dragonborn.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/11/wir-dscc-dragonborn.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read The Dark Sun Creature Catalog: (Not) The Dragon of Tyr</title>
@@ -1005,157 +1159,6 @@ three variants slot neatly into the ogre/giant/titan role, respectively.&lt;/p&g
         <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/02/25/wir-dscc-braxat.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/25/wir-dscc-braxat.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Belgoi</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-belgoi.jpeg&quot;/&gt;
-  &lt;figcaption&gt;
-    A Belgoi atop a rock, ringing its bell. Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;What do fey look like in a world whose environment as deeply fucked up as
-Athas’? Let’s check it out.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The Belgoi (singular and plural are the same) lived in the Feywild before it was
-destroyed in ancient Athasian history, and they weren’t the most pleasant of fey
-back them. They took refuge in the world, but eventually came to hate it and all
-its residents. Now they live to despoil everything they touch.&lt;/p&gt;
-
-&lt;p&gt;Belgoi organize into small nomadic tribes led by the strongest member. They’ll
-stop at a location and live there for a while, moving on when everything around
-them is ruined, consumed, or polluted. They often go out hunting, and will eat
-anything and anyone they can catch. They prefer sapient victims because they
-think meat tastes better when seasoned with terror, and that eating someone lets
-them absorb the victim’s power. That’s why they also eat their own dead.&lt;/p&gt;
-
-&lt;p&gt;Eladrin are their preferred victims, since the belgoi blame them for the
-destruction of their homelands.&lt;/p&gt;
-
-&lt;p&gt;Belgoi wear leather or hide armor, which I guess is true of most fighters on
-Athas. They fight with claw or spear, and wield small bells which they use to
-channel their magic. Ringing the bell allows them to lure targets closer for the
-kill, isolating them from their peers and breaking their formations.&lt;/p&gt;
-
-&lt;p&gt;This makes me think their name is a horrible pun (belgoi == “bell guy”).&lt;/p&gt;
-
-&lt;p&gt;Some of them have the ability to drain a victim’s life force through the wounds
-they inflict. You can see it seeping out and flowing into the creature.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Belgois are Medium Fey Humanoids with Speed 6 and Low-Light Vision. They speak
-Common, and all of the stat blocks here are Chaotic Evil. Their signature trait
-is that they’re &lt;strong&gt;Hungry For Blood&lt;/strong&gt;, which makes all their attacks deal extra
-damage against bloodied targets. All of them also have a bell-related power,
-which is a little different for each variant.&lt;/p&gt;
-
-&lt;h3 id=&quot;belgoi-craven&quot;&gt;Belgoi Craven&lt;/h3&gt;
-
-&lt;p&gt;The weakest and most cowardly of their number, hiding behind more powerful
-warriors and waiting for the chance to pounce upon weak or isolated enemies.&lt;/p&gt;
-
-&lt;p&gt;These are Level 7 Minion Skirmishers, whose &lt;strong&gt;Craven Slink&lt;/strong&gt; gives them a +2
-bonus to all defenses when adjacent to an ally (even another craven). Their
-&lt;strong&gt;claw&lt;/strong&gt; is a standard minion basic attack, and their &lt;strong&gt;Compelling Ring&lt;/strong&gt;
-(ranged 10 vs. Will, Encounter) can slide the target 5 squares to a square
-adjacent to the craven or one of their allies. Dangerous when the more powerful
-variants are around!&lt;/p&gt;
-
-&lt;h3 id=&quot;belgoi-stalker&quot;&gt;Belgoi Stalker&lt;/h3&gt;
-
-&lt;p&gt;Not every belgoi belongs to a tribe. Stalkers usually travel alone, but can
-sometimes join up with mixed humanoid bands that have similar inclinations. They
-will also opportunistically insert themselves into ongoing fights, trying to
-lure a victim out while they’re busy with other enemies. And you can also just
-say a given stalker is with a tribe too, of course. They’re Level 7 Lurkers with
-63 HP.&lt;/p&gt;
-
-&lt;p&gt;Stalkers will star the fight at a distance, and use the &lt;strong&gt;Enticing Ring&lt;/strong&gt;
-(Ranged 10 vs. Will) of their bells to lure a target. On a hit the target is
-pulled 5 squares and dazed for a turn. The stalker then moves up and uses its
-basic &lt;strong&gt;Claw&lt;/strong&gt; attack, which deals light physical damage and ongoing 5 damage
-(save ends). If the target is dazed, like they would be in this scenario, the
-ongoing damage is increased to 15 and the &lt;em&gt;Stalker&lt;/em&gt; takes a -5 penalty to its
-defenses until the start of its next turn, giving it an incentive to stay
-away.&lt;/p&gt;
-
-&lt;h3 id=&quot;belgoi-hunter&quot;&gt;Belgoi Hunter&lt;/h3&gt;
-
-&lt;p&gt;Hunters are the main frontline units of a Belgoi attack, engaging enemies
-directly with their spears and trying to make them vulnerable to the attacks of
-their sneakier fellows. They’re Level 8 Soldiers with 89 HP.&lt;/p&gt;
-
-&lt;p&gt;Hunters fight with their &lt;strong&gt;spears&lt;/strong&gt;, but instead of charging into the fray
-they’ll try to draw enemies to them with the &lt;strong&gt;Ringing Attraction&lt;/strong&gt; of their
-bells. This minor action power attacks the Will of all enemies in a Close
-Burst 5. On a hit, the hunter pulls the target 3 squares and marks it.&lt;/p&gt;
-
-&lt;p&gt;The hunter can then use its &lt;strong&gt;Stakeout&lt;/strong&gt; attack against an enemy it has marked,
-which deals the same damage as the basic spear strike and immobilizes the target
-for a turn.&lt;/p&gt;
-
-&lt;p&gt;This set of powers is perfect for a tactic where hunters get the party’s
-defenders out of position so a large horde of cravens or a stalker can slip
-through.&lt;/p&gt;
-
-&lt;h3 id=&quot;belgoi-caller&quot;&gt;Belgoi Caller&lt;/h3&gt;
-
-&lt;p&gt;Callers usually lead belgoi tribes and hunting bands. They’re visibly more
-powerful than their followers, and have access to stronger magic and psychic
-powers that help their allies and hinder their foes. Not every hunting band will
-have a caller in it, but when they show up they’re bad news. Callers are Level 8
-Elite Controllers with the Leader tag and 178 HP.&lt;/p&gt;
-
-&lt;p&gt;They can fight with &lt;strong&gt;Claws&lt;/strong&gt; that damage and inflict ongoing 5 damage (save
-ends), but their actions are better spent on their &lt;strong&gt;Ennui Lash&lt;/strong&gt; power (minor
-action, melee 3 vs. Will), which does equivalent psychic damage and inflicts a
--2 penalty to Will for a turn. That opens the enemy up to their bigger powers,
-and to the psychic attacks of their buddies.&lt;/p&gt;
-
-&lt;p&gt;The first big power is &lt;strong&gt;Command of the Bell&lt;/strong&gt; (Ranged 10 vs. Will, recharge
-4+), which deals psychic damage, slides the target 3 squares, and forces them to
-make an at-will attack against an ally of the caller’s choice. Not a basic
-attack, an &lt;em&gt;at-will&lt;/em&gt; attack.&lt;/p&gt;
-
-&lt;p&gt;The other big power is &lt;strong&gt;Distant Ringing&lt;/strong&gt; (area burst 3 within 10 vs. Will,
-recharge when first bloodied), which deals psychic damage to enemies caught
-inside and pulls them towards the center of the burst. Allies caught inside can
-shift 1 square and roll a save.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Encounters with groups of belgoi are pretty similar to the ones described for
-the lone stalker above. They creep around the party trying to stay undetected
-until their targets are vulnerable or engaged in another fight, try to lure and
-kill as many victims as they can.&lt;/p&gt;
-
-&lt;p&gt;They’ll use clever ambush tactics and take advantage of terrain as much as
-possible, but don’t seem to like surrendering or talking. They always begin with
-the ambush, and run away if things don’t go their way, possibly to return later
-for revenge.&lt;/p&gt;
-
-&lt;p&gt;I like their mechanics, but I’ll admit I can’t get over the pun. Bell
-guys. Sigh.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/02/23/wir-dscc-belgoi.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/23/wir-dscc-belgoi.html</guid>
         
         <category>dnd4</category>
         
