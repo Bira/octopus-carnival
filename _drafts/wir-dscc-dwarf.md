@@ -23,8 +23,8 @@ in their ruins, no one alive knows how to read them.
 
 The book kinda conflates this with dwarves not knowing how to read at all, and
 therefore not knowing any magic, but that's a giant leap that I think is
-incorrect. Written Dwarven is a lost language, but Common and a lot of others
-still have written forms and magic lore doesn't have to be encoded in
+incorrect. Dwarven writing is a lost art, but Common and a lot of other
+languages still have written forms and magic lore doesn't have to be encoded in
 Dwarven. I'd say dwarves are as likely to be literate and to know magic rituals
 as any other person in this setting.
 

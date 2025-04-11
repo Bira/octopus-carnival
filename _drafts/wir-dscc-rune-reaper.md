@@ -127,8 +127,8 @@ warrior, though you could say the PCs found more than one pack together if you
 want there to be more of them.
 
 Reapers are impossible to train, but sapient humanoids still capture them for
-use as arena beasts, and as a source of leather, organic armor plates, and
-blades.
+use as arena beasts, and hunt them as a source of leather, organic armor plates,
+and blades.
 
 These seem to me like yet another pack-based predator, the third or fourth we
 saw in this reading. I do like the ominous aberrant touches in both their lore

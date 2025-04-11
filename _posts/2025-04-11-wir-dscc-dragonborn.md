@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-dragonborn.jpg" | absolute_url }}"/>
+  <figcaption>
+    A dragonborn sorcerer in the Athasian desert.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 Despite the title of their entry, these Dragonborn are _not_ a new
 addition. Dark Sun is one of two 2e settings (that I know of) that had draconic
 humanoids in it since its initial publication.
@@ -24,16 +36,17 @@ of them out of his city-state of Giustenal. Those he allowed to stay kept
 serving him until the other sorcerer-kings banded together to destroy Dregoth
 and his city.
 
-Today's Dray are descended both from the outcasts, and from the survivors of
+Today's Dray are descended both from the outcasts and from the survivors of
 Giustenal's destruction. Their total population is relatively small and few
 people know of their existence. Their communities are either small scattered
-tribes in the wastes or the rare enclave embedded in a larger community.
+tribes in the wastes or the rare enclave embedded in a larger settlement.
 
 Their reputation among those who know about them is as slavers and
-sorcerers. #NotAllDray deserve this reputation... but a significant majority of
-them do. They practice defiling magic and slavery, and frequently act as
-mercenaries for other groups who are okay with this. In this, they continue the
-cycle of abuse, inflicting on others what their creator inflicted on them.
+sorcerers. Not All Dray (TM) deserve this reputation... but a significant
+majority of them do. They practice defiling magic and slavery, and frequently
+act as mercenaries for other groups who are okay with this. In this, they
+continue the cycle of abuse, inflicting on others what their creator inflicted
+on them.
 
 ## The Numbers
 
@@ -48,7 +61,7 @@ as more dray varieties if you need to.
 ### Dragonborn Slaver
 
 These assholes roam the desert looking for easily taken captives that they can
-sell to the sorcerer-kings in exchange for their money and favor. They're
+sell to the sorcerer-kings in exchange for money and prestige. They're
 frequently found in mixed-species slaver parties as their rank-and-file muscle.
 
 Slavers are Level 16 Minion Soldiers that fight with **Bastard Swords** which
@@ -64,8 +77,8 @@ willing to risk harm when surrounding the PCs.
 
 A few dray take pride in being scorned by their creator, making that part of
 their identity. I'm guessing these are the nicer ones, since it would make sense
-for them to reject the ways of that creator. The Scorned Champion is an example
-of someone who might rise to lead a community of these Dray. Still, he's
+for them to reject the ways of the sorcerer-kings. The Scorned Champion is an
+example of someone who might rise to lead a community of these Dray. Still, he's
 sensitive to anything he perceives as a challenge to his position, and is quick
 to strike down the source of that challenge.
 
@@ -126,10 +139,13 @@ Their dragon breath, as you might expect, does acid damage.
 
 ## Encounters and Final Impressions
 
-It seems the only stat block here that's actuall evil is the Defiler - everyone
-else is unaligned, even the slavers. I'm not sure I agree with that part, but I
-suppose you can use their stat block for a more conventional non-evil warrior.
+It seems the only stat block here that's actively Evil is the Defiler - everyone
+else is unaligned, even the slavers. I'm not sure I agree with that last part,
+but I suppose you can use the slaver stat block for a more conventional non-evil
+warrior.
 
 I'm glad the game gives us some tools to stat up a non-evil group of Dray. PCs
 have to come from somewhere, and it'd get a little samey if all of them were
 nonconformist rebels fleeing their evil upbringing.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

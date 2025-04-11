@@ -19,10 +19,10 @@ come in.
 
 Standard 4e drakes are relatively small natural reptiles that are often
 domesticated to perform the same jobs as dogs. Athas has a lot of things that
-would be called drakes in standard 4e. Here, they're just normal animals, each
-with their own name.
+would be called drakes in standard 4e, though here they get their own entries
+instead of being grouped under a single one.
 
-The things Athasiana call "Drakes" are, essentially, nonsapient dragons. They
+The things Athasians call "Drakes" are, essentially, nonsapient dragons. They
 fulfill most of the narrative functions of a dragon from a standard
 setting. They're big and tough enemies that make splendid boss fights for
 high-Paragon or low-Epic parties. There are several types associated with
@@ -102,7 +102,8 @@ spent powers when it uses this power, the copy's powers will also start out
 spent.
 
 The water drake's **Bloodied Response** recharges _both_ the Orb and Psionic
-Clone, letting the drake use both as a free action right then and there.
+Clone, letting the drake use both as a free action right then and
+there.
 
 ### Fire Drake
 
@@ -188,3 +189,16 @@ attacks is immobilized.
 When someone damages the drake it can use **Immovable Stone** as a reaction,
 ignoring up to 4 squares of forced movement and using its bite against the
 attacker.
+
+## Encounter and Final Impressions
+
+Since Athasian Drakes lack sapience, it's harder to justify them being
+accompanied by minions. However, all but the Water Drake are elites, which means
+it's very easy to set up an encounter against a mated pair of them. It might
+also be possible to add elementals of an appropriate level to any drake
+encounter as extra minions or regulars. The beasts wouldn't be interested in
+eating them.
+
+Overall I like their mechanics. Taking one of these drakes and turning them into
+a sapient dragon for outside of Dark Sun is as easy as taking a foreign dragon
+and turning it into an Athasian Drake.
