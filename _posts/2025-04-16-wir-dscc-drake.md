@@ -7,6 +7,8 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Athas only has one dragon: The Dragon of Tyr. He's the setting's main bad guy,
@@ -17,14 +19,10 @@ However, you might not want to wait until your PCs are level 30 demigods before
 they can fight a nasty giant lizard with elemental powers. That's where Drakes
 come in.
 
-Standard 4e drakes are relatively small natural reptiles that are often
-domesticated to perform the same jobs as dogs. Athas has a lot of things that
-would be called drakes in standard 4e, though here they get their own entries
-instead of being grouped under a single one.
-
-The things Athasians call "Drakes" are, essentially, nonsapient dragons. They
-fulfill most of the narrative functions of a dragon from a standard
-setting. They're big and tough enemies that make splendid boss fights for
+Athas has a lot of things that would be called drakes in standard 4e, but here
+the name refers to something else entirely. The things Athasians call "Drakes"
+are, essentially, nonsapient dragons. They fulfill many of a dragon's narrative
+functions. They're big and tough enemies that make splendid boss fights for
 high-Paragon or low-Epic parties. There are several types associated with
 different elements. They lair in areas dominated by their associated element and
 possess psychic powers that let them summon and control orbs of that element
@@ -36,8 +34,7 @@ dragon to be. They're animals, not people. A text box informs us drakes were
 written this way because the Dark Sun setting is very geographically limited,
 and has a relatively small number of movers-and-shakers who are all accounted
 for. Adding an arbitrary number of traditional sapient epic dragons to this mix
-would wreck the setting's delicate equilibrium. That's something you want the
-PCs to do, not a bunch of NPC dragons.
+would wreck the setting's delicate equilibrium, and that's a job for the PCs.
 
 Another consequence of drakes not being sapient is that there's no guarantee
 their hoards will be _valuable_. There might be some good loot there, but it's
@@ -52,9 +49,10 @@ tag corresponding to their associated element. They all have a **Bite** and a
 that lets them spend a single action to use two Claws against one target and a
 Bite against a different target.
 
-They have elemental powers that vary per stat block, but always have a
-**Bloodied Response** reaction that lets them immediately rechage and use some
-of these powers when first bloodied.
+Their elemental orb powers are area attacks that create a hazardous zone in the
+affected area, but their exact powers vary with each stat block. They always
+have a **Bloodied Response** reaction that lets them immediately rechage and use
+an elemental power when first bloodied.
 
 The same text box that discusses why drakes are nonsapient tells us we can take
 any dragon from other books and add them as drakes in Athas by declaring them
@@ -64,6 +62,16 @@ the catastrophic dragons. You might want to change the appearance of the
 metallics too, since their default coloration stands out too much.
 
 ### Water Drake
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-drake-water.jpg" | absolute_url }}"/>
+  <figcaption>
+    A water drake ready to ambush you from its oasis hideout.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Water drakes like to lair in oases. A possible sign of their presence is the
 total _absence_ of the small animals that usually live in such an
@@ -81,7 +89,7 @@ in two versions:
 
 - The **boiling** orb deals fire damage despite being made of water, and creates
   a damaging zone that lasts for the rest of the encounter or until the drake
-  uses anotner boiling orb.
+  uses another boiling orb.
 
 - The **ice** orb deals no immediate damage, but inflicts ongoing 20 cold damage
   and restrains (save ends both). It creates a zone that repeats the orb's
@@ -90,7 +98,7 @@ in two versions:
   drake uses another ice orb.
 
 Yes, this means the drake can have both a boiling and a frozen zone in place
-simultaneously.
+simultaneously, though I'd rule they can't overlap.
 
 The drake's other power is **Psionic Clone** (minor action, recharge 4+), which
 lets it create a duplicate of itself on a solid or liquid adjacent space in the
@@ -103,9 +111,19 @@ spent.
 
 The water drake's **Bloodied Response** recharges _both_ the Orb and Psionic
 Clone, letting the drake use both as a free action right then and
-there.
+there. Double the orbs, double the fun.
 
 ### Fire Drake
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-drake-fire.png" | absolute_url }}"/>
+  <figcaption>
+    A fire drake roaring atop a patch of flaming ground.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 The flavor text here has a fire drake living inside an active volcano and
 worshipped as a god by a halfling tribe, who try to sacrifice a human to it only
@@ -118,12 +136,12 @@ Fire.
 The drake's **bite** does standard damage for its level. The **claw** is a
 little weaker but grabs on a hit. **Drake's Fury** works as normal.
 
-The creature's **Orb of Elemental Fire** (recharge 5+) is an Area Burst 1 that
-deals fire damage and creates a damaging fire zone that lasts until the end of
-the encounter or until the drake casts another orb. While it waits for the power
-to recharge, it can use minor actions to move the existing magma zone 4
-squares. The drake's **Bloodied Response** recharges this orb and lets the beast
-use it immediately.
+The creature's **Orb of Elemental Fire** (recharge 5+) is an Area Burst 1 within
+10 that deals fire damage and creates a damaging fire zone that lasts until the
+end of the encounter or until the drake casts another orb. While it waits for
+the power to recharge, it can use minor actions to move the existing magma zone
+4 squares. The drake's **Bloodied Response** recharges this orb and lets the
+beast use it immediately.
 
 The fire drake's last power is not elemental: it's **Living Shield**, an
 opportunity action that lets the beast use a grabbed victim as a shield if
@@ -135,13 +153,24 @@ mobile zone, you could have made it a controller instead.
 
 ### Air Drake
 
-Air drakes live in tall mountains and canions. They love to hunt animals and
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-drake-air.png" | absolute_url }}"/>
+  <figcaption>
+    An air drake in a menacing stance.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+Air drakes live in tall mountains and canyons. They love to hunt animals and
 people who try to walk the precarious passes of these places, knocking them down
-with its wind powers and devouring the tenderized remains. They're Level 22
+with their wind powers and devouring the tenderized remains. They're Level 22
 Elite Skirmishers with 404 HP, a ground speed of 8, and a flight speed of 10.
 
 These creatures deal extra damage when they have CA on an enemy, and this bonus
-increases when they're bloodied. Their physical attacks are pretty standard.
+increases when they're bloodied. Their physical attacks are otherwise pretty
+standard for a drake.
 
 Their **Orb of Elemental Air** has a wider radius than usual (area burst 3
 within 10), and deals untyped damage on a hit. On a hit it also slides the
@@ -166,6 +195,17 @@ still allow the usual save vs. hazardous terrain to let the victim cling to an
 edge before being tossed.
 
 ### Earth Drake
+
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-drake-earth.jpeg" | absolute_url }}"/>
+  <figcaption>
+    An earth drake.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 A spicy bullette with earth control powers. Earth Drakes are Level 24 Elite
 Controllers with 456 HP, a ground speed of 8, and a burrow speed of 6.
@@ -202,3 +242,5 @@ eating them.
 Overall I like their mechanics. Taking one of these drakes and turning them into
 a sapient dragon for outside of Dark Sun is as easy as taking a foreign dragon
 and turning it into an Athasian Drake.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
