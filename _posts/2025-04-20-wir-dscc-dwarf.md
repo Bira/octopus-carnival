@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-dwarf.jpeg" | absolute_url }}"/>
+  <figcaption>
+    A Dark Sun dwarf. This world is too hot for big beards.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 It's customary for Fourth Edition monster books to include entries for playable
 species. After all, they may show up as enemies or allies. In this book, they
 also serve to flesh out some of the Dark Sun-specific story of each species. As
@@ -17,9 +29,9 @@ you can see from the illustration, dwarves here are a little different.
 Dwarves probably had a pretty typical culture in Athas' distant past, as the
 book says they ruled "great mountain kingdoms". However, the genocidal wars of
 the Red Age pretty much destroyed their civilization. While modern-day dwarves
-are still extremely resilient and dedicated workers, the secret of reading and
-writing the Dwarven language has been lost. While you can still find Davek runes
-in their ruins, no one alive knows how to read them.
+are still extremely resilient and dedicated workers, the knowledge of reading
+and writing the Dwarven language has been lost. While you can still find Davek
+runes in their ruins, no one alive knows how to read them.
 
 The book kinda conflates this with dwarves not knowing how to read at all, and
 therefore not knowing any magic, but that's a giant leap that I think is
@@ -90,7 +102,7 @@ attack is a **Bright Ray** (ranged 10) that deals radiant damage and inflicts a
 Once per encounter they can apply a **Sun Blessing** to an ally within 5
 squares. That ally regains 10 HP, deals 5 extra fire damage with their attacks
 for a turn, and any enemy that hits them in the same time span takes 5 fire
-damage.
+damage. Praise the sun!
 
 ### Dwarf War Chief
 
@@ -123,3 +135,5 @@ fight.
 I like these stat blocks! They're low-level but each has some very interesting
 tricks they can use. The "focus" powers ended up being more useful than I
 thought at first.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
