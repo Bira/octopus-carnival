@@ -6,9 +6,152 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Apr 2025 19:28:22 +0000</pubDate>
-    <lastBuildDate>Wed, 16 Apr 2025 19:28:22 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Apr 2025 19:50:11 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Apr 2025 19:50:11 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dwarf</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dwarf.jpeg&quot;/&gt;
+  &lt;figcaption&gt;
+    A Dark Sun dwarf. This world is too hot for big beards.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;It’s customary for Fourth Edition monster books to include entries for playable
+species. After all, they may show up as enemies or allies. In this book, they
+also serve to flesh out some of the Dark Sun-specific story of each species. As
+you can see from the illustration, dwarves here are a little different.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Dwarves probably had a pretty typical culture in Athas’ distant past, as the
+book says they ruled “great mountain kingdoms”. However, the genocidal wars of
+the Red Age pretty much destroyed their civilization. While modern-day dwarves
+are still extremely resilient and dedicated workers, the knowledge of reading
+and writing the Dwarven language has been lost. While you can still find Davek
+runes in their ruins, no one alive knows how to read them.&lt;/p&gt;
+
+&lt;p&gt;The book kinda conflates this with dwarves not knowing how to read at all, and
+therefore not knowing any magic, but that’s a giant leap that I think is
+incorrect. Dwarven writing is a lost art, but Common and a lot of other
+languages still have written forms and magic lore doesn’t have to be encoded in
+Dwarven. I’d say dwarves are as likely to be literate and to know magic rituals
+as any other person in this setting.&lt;/p&gt;
+
+&lt;p&gt;True, when you’re talking about typical civilians that’s still not very likely,
+but Dwarven PCs and major NPCs will still be literate. And it does sound
+flavorful for modern dwarven culture to include an element of pride about not
+needing magic to do their work.&lt;/p&gt;
+
+&lt;p&gt;Dwarves are a fairly common people. Every city state has hundreds or thousands
+of dwarven laborers and artisans, both free and enslaved. They also live in
+small communities in the wastes, some of which are also mining camps. Whether
+your interaction with them is peaceful or violent depends entirely on the
+behavior of the PCs and on the objectives of that specific group.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Despite the differences, Athasian dwarves are still Medium Natural Humanoids
+with a ground speed of 5 and Low-Light Vision, just like the ones from the
+PHB. They retain the PC traits that make them hard to move: &lt;strong&gt;Stand the Ground&lt;/strong&gt;
+and &lt;strong&gt;Steady-Footed&lt;/strong&gt;, which reduce forced movement by 1 and let them roll a
+save against being knocked prone, respectively. They also have +5 to saves
+against poison.&lt;/p&gt;
+
+&lt;p&gt;Earlier editions spent a lot of time describing how each dwarf had an obsessive
+focus on one kind of task, to the point where it restricted their actions. That
+makes an appearance here but it’s not as dominant as before.&lt;/p&gt;
+
+&lt;h3 id=&quot;dwarf-conscript&quot;&gt;Dwarf Conscript&lt;/h3&gt;
+
+&lt;p&gt;Technically a civilian, the conscript still has a body hardened by countless
+hours of heavy labor, and will not hesitate to pick up weapons in defense of
+their mine or their home. This is a Level 2 Brute with 47 HP, wearing hide armor
+and wielding a Dark Sun polearm known as a “gouge”, which is basically a
+sharpened shovel.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;gouge&lt;/strong&gt; is a standard brute attack, but if it scores a critical hit it
+also pushes the target 1 square and knocks it prone.&lt;/p&gt;
+
+&lt;p&gt;The conscript also has a &lt;strong&gt;Singular Focus&lt;/strong&gt; minor action that’s the last vestige
+of the 2e rules. This lets the conscript choose an enemy as the target of their
+focus, and gain +5 damage against that enemy while they remain the conscript’s
+focus.&lt;/p&gt;
+
+&lt;p&gt;The power recharges when the chosen enemy drops to 0 HP, and it lasts until the
+end of the encounter or until the conscript uses it again. It makes the
+conscript punch &lt;em&gt;way&lt;/em&gt; above their weight class when attacking their chosen
+enemy, and is a very nice incentive to behave obsessively in a fight. Since they
+can only switch focus when the previous enemy dies, targeted enemies should keep
+away to make the conscript waste actions chasing them.&lt;/p&gt;
+
+&lt;h3 id=&quot;dwarf-sunpriest&quot;&gt;Dwarf Sunpriest&lt;/h3&gt;
+
+&lt;p&gt;Modern dwarven religion venerates primal spirits and elementals, particularly
+those associated with the sun. Sun priests are venerated spiritual and political
+leaders among them, and often lead other dwarves into battle when necessary.&lt;/p&gt;
+
+&lt;p&gt;The Sunpriest is Level 5 Artillery with 52 HP and the Leader tag. They wear hide
+armor and wield a mace in one hand and a totem in the other. Their basic melee
+attack is a &lt;strong&gt;Burning Mace&lt;/strong&gt; that deals fire damage, and their main ranged
+attack is a &lt;strong&gt;Bright Ray&lt;/strong&gt; (ranged 10) that deals radiant damage and inflicts a
+-2 attack penalty on the target for a turn.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can apply a &lt;strong&gt;Sun Blessing&lt;/strong&gt; to an ally within 5
+squares. That ally regains 10 HP, deals 5 extra fire damage with their attacks
+for a turn, and any enemy that hits them in the same time span takes 5 fire
+damage. Praise the sun!&lt;/p&gt;
+
+&lt;h3 id=&quot;dwarf-war-chief&quot;&gt;Dwarf War Chief&lt;/h3&gt;
+
+&lt;p&gt;Despite the name, not all war chiefs are commanders, but they’re all renowned
+champions. They’re Level 6 Elite Soldiers with 144 HP.&lt;/p&gt;
+
+&lt;p&gt;The war chief fights with a &lt;strong&gt;Greatclub&lt;/strong&gt; made from giant bone, and its basic
+attacks grant them 5 temporary HP. Their &lt;strong&gt;Spinning Club&lt;/strong&gt; maneuver (recharge
+5+) attacks enemies in a Close Burst 1. If it hits an enemy marked by the war
+chief, that enemy is immobilized until the start of the warchief’s next turn.&lt;/p&gt;
+
+&lt;p&gt;And how do they mark enemies? Via &lt;strong&gt;Battlefield Focus&lt;/strong&gt;, a minor action that
+lets them automatically mark up to 2 enemies within 10 squares. It recharges
+when one of these enemies drops to 0 HP.&lt;/p&gt;
+
+&lt;p&gt;If a marked enemy adjacent to the war chief moves, shifts, or makes an attack,
+&lt;strong&gt;Brutal Club&lt;/strong&gt; gives the dwarf a basic attack against them as an interrupt,
+which also immobilizes for a turn on a hit. This triggers &lt;em&gt;even if the enemy
+attacks the war chief&lt;/em&gt;, and even if the enemy makes one of those moves that
+doesn’t provoke opportunity attacks. This means it’s more powerful than a PC
+fighter’s Combat Challenge.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Dwarves can be part of any encounter group whose theme is “a bunch of people”,
+be they villainous, allied, or bystanders. Dwarven communities, like everyone
+else, also domesticate a number of Athasian beasts that might see use in a
+fight.&lt;/p&gt;
+
+&lt;p&gt;I like these stat blocks! They’re low-level but each has some very interesting
+tricks they can use. The “focus” powers ended up being more useful than I
+thought at first.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Apr 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/04/20/wir-dscc-dwarf.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/20/wir-dscc-dwarf.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Drake</title>
@@ -1115,164 +1258,6 @@ food. In these cases they will be found alongside other guardians.&lt;/p&gt;
         <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/03/01/wir-dscc-cactus.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/03/01/wir-dscc-cactus.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Brohg</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-brohg.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A brohg holding two boulders ready to throw.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;This entry goes on and on about how stupid brohgs are, but I think that’s
-terribly unfair to them. They’re some of the nicest people we’ve met in this
-reading so far.&lt;/p&gt;
-
-&lt;p&gt;These four-armed giant-kin wander the wastes in small nomadic bands that
-occasionally cross paths to trade gossip and partners. They’re extremely skilled
-at surviving the environment in Athas, taking only what they need and leaving
-little trace of their passage. Their strong primal magic tradition helps them
-with this.&lt;/p&gt;
-
-&lt;p&gt;Of course, being both big and relatively peaceful makes them frequent targets
-for the many odious slaver organizations in this setting, so they often end up
-captured and put to work as heavy laborers, muscle, or gladiators. Enslaved
-brohg who manage to break free often seek employment as mercenaries.&lt;/p&gt;
-
-&lt;p&gt;Brohgs have both an innate ability to sense arcane magic, and an intense
-cultural distrust of it, as they associate all arcane magic with defiling and
-believe it to be cursed. Very rarely, a brohg will be born with innate arcane
-potential (like a PC sorcerer). These individuals end up exiled from their
-communities, as they’re believed to be hosts to “evil spirits” and destined to
-bring disaster. Left to fend for themselves with no support, they often end up
-creating a self-fulfilling prophecy scenario and becoming cruel defilers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Brohgs are Large Natural Humanoids with the Giant tag. They move at a relatively
-slow speed of 6, and have low-light vision. They have four arms and are
-ambidexterous, but that doesn’t translate into a specific trait in their stat
-blocks - each one has different abilities related to training.&lt;/p&gt;
-
-&lt;h3 id=&quot;brohg-hurler&quot;&gt;Brohg Hurler&lt;/h3&gt;
-
-&lt;p&gt;Hurlers are civilians without a lot of combat training, but they get by just
-fine by throwing stuff really far away, be that stuff boulders or
-enemies. They’re Level 10 Artillery with 82 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic Reach 2 &lt;strong&gt;Slam&lt;/strong&gt; attack lets them grab the target on a hit, which is
-hilarious because they can then use &lt;strong&gt;Hurl Away&lt;/strong&gt; to throw them 10 squares at
-another creature, further damaging the “ammunition” as an effect and making a
-ranged attack against the second target. For rules purposes, this counts as a
-push that leaves the hurled creature adjacent to the second target.&lt;/p&gt;
-
-&lt;p&gt;If no one’s stupid enough to get within arm’s reach of a hurler, they can hurl a
-&lt;strong&gt;rock&lt;/strong&gt; instead, which does similar damage, pushes the target 2 squares, and
-knocks it prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;brohg-warrior&quot;&gt;Brohg Warrior&lt;/h3&gt;
-
-&lt;p&gt;This is what a trained brohg combatant looks like. When a brohg community is
-under attack, warriors step up to cover their retreat. This could also represent
-an enslaved or mercenary brohg working for someone else. Warriors are armed with
-2 spears, a shield, and a hand kept free to throw rocks. They’re Level 10 Elite
-Soldiers with 212 HP.&lt;/p&gt;
-
-&lt;p&gt;They can attack with a &lt;strong&gt;spear&lt;/strong&gt; that marks for a turn or a thrown &lt;strong&gt;rock&lt;/strong&gt; that
-knocks prone, and &lt;strong&gt;Double Attack&lt;/strong&gt; lets them do that twice in an action in any
-combination.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Brohg Taunt&lt;/strong&gt; ability is a minor action that lets them mark everyone in
-a Close Burst 2, and recharges when they’re bloodied. If a marked enemy within 2
-squares moves, the brohg can use &lt;strong&gt;Battle Alacrity&lt;/strong&gt; to get a free attack on
-them that does light damage and lets then shift 1 square.&lt;/p&gt;
-
-&lt;h3 id=&quot;brohg-renegade&quot;&gt;Brohg Renegade&lt;/h3&gt;
-
-&lt;p&gt;One of those banished sorcerers who went all in on defiling magic, and now
-wanders alone or at the head of a villainous band, plotting to increase his
-power. The Renegade is a Level 13 Solo Controller with 512 HP.&lt;/p&gt;
-
-&lt;p&gt;This defiler knows an &lt;strong&gt;Arcane Secret&lt;/strong&gt; that lets them roll saves against daze
-or stun effects both at the start and end of its turn, even if that effect
-doesn’t allow a save (i.e., by having a fixed duration instead). Its &lt;strong&gt;dagger&lt;/strong&gt;
-basic attack is a &lt;em&gt;minor&lt;/em&gt; action that does normal damage, and a little bit of
-extra force damage if the target doesn’t end their next turn at least two
-squares away from the renegade.&lt;/p&gt;
-
-&lt;p&gt;Its standard actions are all spells.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Entropy Belt&lt;/strong&gt; (ranged 10 vs. will) targets one to three creatures, dealing
-psychic damage and pushing 3 squares on a hit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Defiling Vortex&lt;/strong&gt; (close burst 3 vs. Fort, recharges when bloodied) deals no
-damage on a hit, but instead knocks targets prone and weakens then (save
-ends). Missed enemies take necrotic damage. At the end of all this, the
-renegade gains 5 temp HP for every target it hit with the power.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Defiling Blast&lt;/strong&gt; (close blast 5 vs. Ref, recharge 5+) does necrotic damage
-and dazes (save ends). The renegade gains a +4 to all damage while any target
-remains dazed by this power.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And as it suits a solo, we also get a ton of triggered actions. The renegade has
-the same &lt;strong&gt;Variable Resistance&lt;/strong&gt; as a demon, usable 2 times per encounter. To
-refresh our memories: the value of this resistance is 10, and when the renegade
-takes elemental damage it can switch the resistance to resist that damage type
-as a free action, up to the encounter limit, when the resistance retains its
-final type.&lt;/p&gt;
-
-&lt;p&gt;If an enemy hits the renegade while granting combat advantage to it, the
-renegade can cast a &lt;strong&gt;Wrath Sphere&lt;/strong&gt; (close burst 1 vs. Fort) against that
-enemy, dealing force damage and pushing it 2 squares on a hit. And when the
-renegade is first bloodied, &lt;strong&gt;Bloodied Defiling&lt;/strong&gt; triggers to let it immediately
-recharge and use Defiling Blast again.&lt;/p&gt;
-
-&lt;p&gt;That’s a lot of stuff, but that’s a solo for you. Almost dragon-like, this one.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Free broghs have no reason to quarrel with PCs unless provoked, and if that
-happens the warriors will cover the retreat of the rest of the group while
-hurlers help from further away. They might also keep several of the hardy beasts
-described in this book, and they might help in a fight too.&lt;/p&gt;
-
-&lt;p&gt;Enslaved or mercenary individuals might be found in mixed sapient encounter
-groups. Renegade defilers will often be &lt;em&gt;leading&lt;/em&gt; such a villain group. A single
-renegade is a nice “welcome to paragon tier” boss fight. One plus some
-lieutenants makes for a nice set piece battle for mid-paragon heroes.&lt;/p&gt;
-
-&lt;p&gt;I like their mechanics and I like parts of their lore, but as I already
-mentioned I don’t like the way the book keeps saying how brohgs are stupid and
-simple-minded, and how it manages to make them superstitious despite living in a
-D&amp;amp;D world and having their own working magical tradition. Distrusting arcane
-magic in Dark Sun is sensible, but having the brohgs do it because they falsely
-believe it’s a curse from evil spirits is a step too far in my opinion.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/02/27/wir-dscc-brohg.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/02/27/wir-dscc-brohg.html</guid>
         
         <category>dnd4</category>
         
