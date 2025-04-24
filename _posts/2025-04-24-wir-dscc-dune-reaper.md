@@ -7,12 +7,25 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-drake-dune-reaper.jpg" | absolute_url }}"/>
+  <figcaption>
+    A dune reaper. This image is mirrored from the one in the book.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 
 ## The Lore
 
 Like a lot of other Athasian fauna, dune reapers are predatory
 insectile/reptilian pack hunters. However, they lean a lot more towards the
-"insectile" side, and their origins are clearly unnatural.
+"insectile" side, and their origins are clearly unnatural even to contemporary
+inhabitants of Athas.
 
 The book says they "came to existence through defiling magic", though it doesn't
 specify whether they were an artificially engineered species or whether some
@@ -42,7 +55,8 @@ inside the bodies of living creatures, you see. When the eggs hatch, the newborn
 reapers eat their host, and then set upon each other. Only the strongest
 hatchlings survive this process. After about two months they're already as
 dangerous as a fully grown adult. At this time, they're driven from their birth
-hive and must either join another pride or form a new one.
+hive and must either join another pride or form a new one with other young
+reapers.
 
 ## The Numbers
 
@@ -134,3 +148,5 @@ These seem to me like yet another pack-based predator, the third or fourth we
 saw in this reading. I do like the ominous aberrant touches in both their lore
 and mechanics, though. The shriek in particular reminds me a lot of a Hound of
 Tindalos.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
