@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-drake-dune-reaper.jpg" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-dune-reaper.jpg" | absolute_url }}"/>
   <figcaption>
     A dune reaper. This image is mirrored from the one in the book.
     Copyright 2010 Wizards of the Coast.

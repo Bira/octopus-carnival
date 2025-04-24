@@ -93,3 +93,32 @@ have 20 necrotic resistance. They're also insubstantial, but lack Phasing.
 A shadow giant projects an aura (5) of **Shadow Malaise** that halves any
 healing that takes place inside. Whenever they take radiant damage, they're
 **Revealed by Radiance** and become substantial for a turn.
+
+Their basic attack is a **Necrotic Touch**, which targets Reflex, deals necrotic
+damage, and marks on a hit (save ends). They also have a non-basic **Death
+Touch** that is similar, but exchanges some of its direct damage for an
+additional ongoing 10 necrotic damage rider (save ends both this and the mark).
+
+If a marked enemy makes an attack that doesn't include the giant, they are
+**Cast Into Shadow** as a reaction. This is a melee attack that targets
+Reflex. A hit does no damage, but removes the target from play for a turn! This
+means they're stunned and removed from the map, reappearing at their previous
+position when the effect ends.
+
+The giant's ability to possibly mark multiple PCs makes it a very effective
+"defender". Cast Into Shadow is a very potent "save or suck" attack, so PCs will
+have an extra incentive to focus on the giant and not on its other buddies. And
+if they don't, the giant has just removed a whole PC from consideration for the
+next round.
+
+## Encounters and Final Impressions
+
+Athas is prime giant country and plenty of core giants would be happy as clams
+living here, but I guess it makes sense to have some setting-specific ones to
+signal that we're not in Kansas any more.
+
+Beast giants and titans feel a bit redundant, but their appearance is certainly
+striking. Shadow Giants have intriguing mechanics, but you probably don't want
+to have more than one of these in play at any given encounter. They can also be
+used in other settings without a lot of modification, as "undead giant with a
+grudge" is a pretty universal concept.
