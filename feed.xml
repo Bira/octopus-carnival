@@ -6,9 +6,151 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 24 Apr 2025 18:20:38 +0000</pubDate>
-    <lastBuildDate>Thu, 24 Apr 2025 18:20:38 +0000</lastBuildDate>
+    <pubDate>Tue, 03 Jun 2025 16:38:43 +0000</pubDate>
+    <lastBuildDate>Tue, 03 Jun 2025 16:38:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Eladrin</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-eladrin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    An Eladrin Veiled Warrior stepping out of a mirage.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Physically, Athasian eladrin are very similar to those of the core setting, but
+the near-total loss of their home plane has done a number on their psychology
+and culture.&lt;/p&gt;
+
+&lt;p&gt;Defiling magic didn’t just destroy Athasian ecosystems - they also dissolved its
+Feywild. Now only a few rare pocket dimensions remain, scattered like oases
+through the wastes. The fate of the Lands Within the Wind is still tied to that
+of Athas, which means they’re slowly dying just like the world is.&lt;/p&gt;
+
+&lt;p&gt;Similarly, Athasian Eladrin are a traumatized and dying people. Most of the ones
+that remain live in remote castles and settlements in the desert or inside
+surviving pockets of Feywild, guarding the entrance to their realms with psychic
+illusions and only venturing out when they must.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Eladrin have the same common stats as always: they’re Medium Fey Humanoids with
+a Speed of 6, Low-light vision and a +5 on saves vs. charm effects. They retain
+their signature &lt;strong&gt;Fey Step&lt;/strong&gt; power, which lets them teleport 5 squares as a move
+action once per encounter.&lt;/p&gt;
+
+&lt;p&gt;These stat blocks occupies what would be the lower range of eladrin power levels
+from the Monster Manuals and Monster Vault. There are no more epic-level ghaeles
+and bralanis in Athas… probably.&lt;/p&gt;
+
+&lt;h3 id=&quot;eladrin-veiled-warriors&quot;&gt;Eladrin Veiled Warriors&lt;/h3&gt;
+
+&lt;p&gt;Veiled Warriors are spies and scouts that range far away from Eladrin
+settlements to gather information and locate resources, thought hey can also be
+found as part of their homes’ defense force. This is a great origin for PCs!&lt;/p&gt;
+
+&lt;p&gt;NPC Veiled Warriors are Level 5 Soldiers with 60 HP. They fight with
+Reach 2 &lt;strong&gt;Longspears&lt;/strong&gt; that damage and mark for a turn on a hit. Once per
+encounter they can use a &lt;strong&gt;Veiling Dart&lt;/strong&gt; (ranged 5 vs. Will) which deals
+psychic damage, blinds for a turn and slows (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;eladrin-mirage-adept&quot;&gt;Eladrin Mirage Adept&lt;/h3&gt;
+
+&lt;p&gt;These are the psions responsible for hiding Eladrin settlements. They’re Level 7
+Controllers with 80 HP and a focus on illusion powers.&lt;/p&gt;
+
+&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Dagger&lt;/strong&gt; that deals psychic damage and slows for
+a turn. They can attack at range with &lt;strong&gt;Deluding Whispers&lt;/strong&gt; (ranged 10
+vs. Will), a charm power that deals psychic damage, slides 3 squares and
+prevents the target from seeing creatures not adjacent to it for a turn.&lt;/p&gt;
+
+&lt;p&gt;Occasionally they’ll strike with the &lt;strong&gt;Phantom Foes&lt;/strong&gt; power (recharge 6, area 2
+within 20 vs. Will), which I guess projects the illusion that many additional
+foes are attacking the targets. This “psychic fireball” deals psychic damage and
+confuses (save ends). Confused characters roll a d20 whenever they’re about to
+make a melee or ranged attack and an ally is also in reach of that attack. On a
+10 or higher, they attack the ally instead of the intended target.&lt;/p&gt;
+
+&lt;p&gt;Mirage adepts are very effective when combined with veiled warriors, because the
+warriors use reach weapons and so don’t need to be adjacent to a target blinded
+by Deluding Whispers in order to attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;eladrin-windwalker&quot;&gt;Eladrin Windwalker&lt;/h3&gt;
+
+&lt;p&gt;Some eladrin indiscriminately blame all people of the natural world for the fate
+of their homeland, and feel such overwhelming hatred towards them that they
+offer themselves in ritual sacrifice. This causes their life essence to slowly
+leak into the Feywild and be replaced with the raw magic of that plane. This
+gives them great power for as long as their diminishing life lasts. They use
+their remaining time to go out into the world and slay every humanoid they see.&lt;/p&gt;
+
+&lt;p&gt;Windwalkers are Level 8 Lurkers with 69 HP. They fight with &lt;strong&gt;sabers&lt;/strong&gt; and
+&lt;strong&gt;blowguns&lt;/strong&gt; that ignore armor and target Reflex. Their damage is average, but
+&lt;strong&gt;Unseen Advantage&lt;/strong&gt; lets the windwalker deal extra damage against targets that
+can’t see it, and slow them for a turn on any hit.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Between the Winds&lt;/strong&gt; trait lets a windwalker become invisible and gain
+phasing whenever it either spends a turn without attacking or uses its &lt;em&gt;fey
+step&lt;/em&gt;. These conditions last for a turn or until the windwalker attacks. This
+does mean they can stay continuously invisible if they don’t attack.&lt;/p&gt;
+
+&lt;p&gt;Windwalkers will usually try to attack every other turn like most lurkers to
+benefit from Unseen Advantage, but the presence of an ally who can make them
+invisible or blind PCs (like a Mirage Adept) can let them strike every turn with
+bonus damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;eladrin-windwalker-mirage&quot;&gt;Eladrin Windwalker Mirage&lt;/h3&gt;
+
+&lt;p&gt;Windwalkers in the final stages of the process are little more than ghosts. They
+become Level 8 Minion Lurkers with a ground speed of &lt;em&gt;zero&lt;/em&gt;, a flight speed of 6
+(hover, altitude limit 2), always-on phasing, and Resist 10 All. Despite
+appearances they are &lt;em&gt;not&lt;/em&gt; undead, and are not especially vulnerable to radiant
+damage and anti-undead powers.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Wisp on the Wind&lt;/strong&gt; trait gives them partial concealment vs. enemies that
+are 2 or 3 squares away, and total concealment against enemies 4 or more squares
+away. Their melee attack is a &lt;strong&gt;Razor Wind&lt;/strong&gt; that does minion-tier damage. When
+they hit 0 HP, their &lt;strong&gt;Dispersing Essence&lt;/strong&gt; attacks a Close Burst 3 and does the
+same damage as Razor Wind to those it hits.&lt;/p&gt;
+
+&lt;p&gt;The mirage’s damage resistance means you can only get it to that point by
+dealing 11 or more damage with a single attack - they’ll resist anything
+weaker. On the bright side, this means Dispersing Essence cannot provoke a chain
+reaction as it only deals 8 damage.&lt;/p&gt;
+
+&lt;p&gt;Mirages love large battle maps that let them invisibly fly past the party’s
+defenders and gang up on isolated squishies. PCs can counter this tactic by
+sticking together, but Dispersing Essence makes that decision a bit tougher than
+it would seem at first. Cruel GMs can make it even harder by including other
+monsters capable of area attacks in the encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The Windwalker variants are evil, having succumbed to genocidal rage, but
+everyone else is unaligned. And they’re all super tragic.&lt;/p&gt;
+
+&lt;p&gt;I don’t think windwalkers would mix with other eladrin, though it’s easy
+enough to reskin a standard Mirage Adept as another windwalker variant if you
+want to mix them up. As noted above, this makes for a potent combination.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/03/wir-dscc-eladrin.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/03/wir-dscc-eladrin.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Dune Reaper</title>
@@ -1195,99 +1337,6 @@ tying PCs down and preventing them from helping the cilops’ chosen victim.&lt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Chathrang</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-chathrang.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A chathrang reeling in a small mammal it just caught.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Chathrangs are big carnivorous tortoises with built-in anti-air artillery. The
-many spiny protusions on their shells are tubes that can spit out sticky
-envenomed quills, with or without a tether that lets them reel in their
-catch. Their usual hunting method is to hide in an oasis amid natural reeds or
-other plants, wait for small birds or large insects to fly overhead, and shoot
-them.&lt;/p&gt;
-
-&lt;p&gt;If no suitable flying critters are present, they’ll go for land-based prey. They
-tend to become too enthusiastic or desperate at these times, and might try to
-reel in something they can’t handle. Like a PC, for example.&lt;/p&gt;
-
-&lt;p&gt;Chathrangs usually live and travel in groups of about three. They don’t have a
-lot of combat ability outside of their one neat trick, so it’s common for them
-to enter symbiotic relationships with other creatures to share prey in exchange
-for a bit more protection. When hurt, they behave like other tortoises and hide
-inside their shells.&lt;/p&gt;
-
-&lt;p&gt;Charthrangs are impossible to train, but some people keep them around to “milk”
-their venom. If a battle against their keepers ends up bursting into the
-charthrang enclosure, the creatures will follow their instincts.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;These critters are Medium Natural Beasts with the Reptile tag and a stately
-ground speed of 4. They’re Level 9 Artillery with 81 HP, so I guess even a
-monster described as “relatively weak” rates high-Heroic stats in this world.&lt;/p&gt;
-
-&lt;p&gt;The creature’s &lt;strong&gt;Spiny Shell&lt;/strong&gt; acts as an aura (1) that deals 5 damage to anyone
-who starts their turn inside, but they charthrang doesn’t really want PCs to get
-that close. Instead, it wants to stay far away and shoot its Range 20 &lt;strong&gt;spine
-shots&lt;/strong&gt;, which do poison damage on a hit. The beast can increase its rate of
-fire and use a &lt;strong&gt;Spine Volley&lt;/strong&gt; instead, attacking two targets with one action.&lt;/p&gt;
-
-&lt;p&gt;Attaching a sticky strand to a spine turns it into the &lt;strong&gt;Poisoned Tether&lt;/strong&gt;
-attack, which does the same damage and immobilizes the target. While immobilized
-by this attack, the target cannot be pushed, pulled, or slid by anything other
-than the &lt;strong&gt;Reel In&lt;/strong&gt; minor action, which pulls it 5 squares. Escape requires
-either passing a save as normal, or teleporting.&lt;/p&gt;
-
-&lt;p&gt;If the charthrang is damaged by an attack, it can &lt;strong&gt;retreat into its shell&lt;/strong&gt; as
-a reaction. Until the end of its next turn it’s slowed, can’t attack, gains a +5
-to AC, and doubles the damage done by its aura.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Aside from the standard encounter disposition mentioned in the lore, chatharangs
-are also very amenable to reskinning. If you read the Cactus entry and felt that
-you needed cactus artillery to complement the lurkers, you can just replace
-Reptile with Plant on the chathrang stat block and call it a day. Describe them
-as big spherical cacti that move by rolling around and otherwise behave the
-same.&lt;/p&gt;
-
-&lt;p&gt;The mechanics are interesting. Range 20 is a lot! A cluster of three of these
-machine-gun tortoises can sit very far back behind a line of 2-4 soldiers or
-brutes and wreak havoc on the PCs by directly targeting their squishies, and
-reeling them towards Team Monster’s frontline. Multiple charthrangs can stick
-their tethers to the same PC and alternate their use of Reel In to bring the
-victim closer that much faster, too.&lt;/p&gt;
-
-&lt;p&gt;That is, of course, if the GM plays them smart. This is absolutely not required,
-as these are simple animals with a reputation for trying to catch things too
-dangerous for them to handle.&lt;/p&gt;
-
-&lt;p&gt;Still… anti-air tortoises. What a world.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/03/03/wir-dscc-chathrang.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/03/03/wir-dscc-chathrang.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
