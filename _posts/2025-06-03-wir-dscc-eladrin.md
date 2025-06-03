@@ -7,11 +7,23 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-eladrin.png" | absolute_url }}"/>
+  <figcaption>
+    An Eladrin Veiled Warrior stepping out of a mirage.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
-Physically, Athasian eladrin are very similar to the standard variety, but the
-near-total loss of their home plane has done a number on their psychology and
-culture.
+Physically, Athasian eladrin are very similar to those of the core setting, but
+the near-total loss of their home plane has done a number on their psychology
+and culture.
 
 Defiling magic didn't just destroy Athasian ecosystems - they also dissolved its
 Feywild. Now only a few rare pocket dimensions remain, scattered like oases
@@ -32,7 +44,7 @@ action once per encounter.
 
 These stat blocks occupies what would be the lower range of eladrin power levels
 from the Monster Manuals and Monster Vault. There are no more epic-level ghaeles
-and bralanis in Athas, probably.
+and bralanis in Athas... probably.
 
 ### Eladrin Veiled Warriors
 

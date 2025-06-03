@@ -51,6 +51,10 @@ when I'm wearing the GM hat. The others are each PC's individual goals. Some can
 be solved in a fairly short time, others are more medium-or-long term unless we
 run into some amazing twists.
 
+I'm going to add an asterisk to a thread whenever it's advanced but not
+removed. The Path is going to get a lot of them, but it will be nice to remind
+ourselves of the progress we make in the others too.
+
 Our list of characters is:
 
 - The Dottari
@@ -267,7 +271,7 @@ Factor goes back down to 5.
 We can consider Urist's "Find Rexus" goal complete, of course. The original
 adventure gives XP for saving him, so the whole group gets 1 point. We can
 replace it with a "Reunite" thread - it's not necessarily a goal of the
-_characters_, but it's a goal of mine.
+_characters_, but it's a goal of mine. Rescuing Rexus also advances The Path.
 
 Our list of characters remains more or less the same. It's just enemies for now,
 as anyone who could be an ally is laying low at the moment.
@@ -276,7 +280,7 @@ as anyone who could be an ally is laying low at the moment.
 
 ## Threads
 
-- The Path
+- The Path *
 - Find the Missing Elves (Arcturus)
 - Find Shensen (Rosalia)
 - Contacting Ms. Docur (Jania)

@@ -25,7 +25,7 @@ So here are our lists.
 
 **Threads**
 
-- The Path
+- The Path **
 - Find the Missing Elves (Arcturus)
 - Find Shensen (Rosalia)
 - Contacting Ms. Docur (Jania)

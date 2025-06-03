@@ -41,6 +41,9 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Dune Reaper][17]
   - [Dwarf][16]
 
+- E
+  - [Eladrin][18]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -58,3 +61,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [15]: {{ "/2025/04/16/wir-dscc-drake.html" | relative_url }}
 [16]: {{ "/2025/04/20/wir-dscc-dwarf.html" | relative_url }}
 [17]: {{ "/2025/04/24/wir-dscc-dune-reaper.html" | relative_url }}
+[18]: {{ "/2025/06/03/wir-dscc-eladrin.html" | relative_url }}
