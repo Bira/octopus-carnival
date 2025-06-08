@@ -6,9 +6,168 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jun 2025 16:49:24 +0000</pubDate>
-    <lastBuildDate>Tue, 03 Jun 2025 16:49:24 +0000</lastBuildDate>
+    <pubDate>Sun, 08 Jun 2025 14:05:42 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Jun 2025 14:05:42 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Elf</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-elf.png&quot;/&gt;
+  &lt;figcaption&gt;
+    An Eladrin Veiled Warrior stepping out of a mirage.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Athasian elves are tall and long-legged, and their culture is almost entirely
+nomadic. Elven communities roam the deserts of Athas accompanied by swift beasts
+of burden and war, but none of those are mounts. An elf will only accept being
+carried by a beast if they’re too sick or wounded to stand. Otherwise, they
+prefer to run. And they’re very good at it.&lt;/p&gt;
+
+&lt;p&gt;Unlike some of the other nomads we saw so far, such as brohgs, elves have
+frequent interactions with Athasian settled peoples and city states. Their
+overall reputation is not very good. They’re known as itinerant traders who
+bring a lot of cool stuff to sell in the Elven Markets many towns have, but
+they’re also known as swindlers, thieves, raiders, and occasionally
+murderers. The cool stuff they sell you was probably stolen from someone else,
+according to rumor.&lt;/p&gt;
+
+&lt;p&gt;This sort of reputation has a number of unplasant parallels with real-world
+prejudices, so I find it off-putting that the book spends a lot of effort trying
+to convince me it’s true. Even the PCs have “desert raider” and “market thief”
+as their new custom background options.&lt;/p&gt;
+
+&lt;p&gt;I’d prefer to portray elves as having a lot of solidarity for each other and not
+a lot of sympathy for the outsiders who hate them so much. They drive hard
+bargains at the Market and skip town en masse if it looks like someone’s going
+to accuse one of them of a crime. The accusation is likely to be false most of
+the time, as I interpret it. Some individuals might resemble the negative
+stereotype, but then again that’s also true of city-dwellers, whose negative
+stereotype is “servant to a slaving despot” or “slaver”.&lt;/p&gt;
+
+&lt;p&gt;Elves who are found guilty of crimes in their own communities are cast out, and
+will often end up joining groups of actual raiders and bandits.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Despite their taller build elves remain Medium Fey Humanoids with a ground speed
+of 7. The stat blocks here &lt;em&gt;don’t&lt;/em&gt; have low-light vision, though I think that’s
+still a feature of PC elves. They do all have &lt;strong&gt;Wild Step&lt;/strong&gt; and &lt;strong&gt;Elven
+Accuracy&lt;/strong&gt;, which work like their PC versions too.&lt;/p&gt;
+
+&lt;p&gt;The level range here is roughly comparable to that of standard elves from other
+books, so you can mix-and-match a bit. All of the stat blocks here are Unaligned.&lt;/p&gt;
+
+&lt;h3 id=&quot;elf-peddler&quot;&gt;Elf Peddler&lt;/h3&gt;
+
+&lt;p&gt;A typical denizen of the Elven Markets. This could both represent a more or less
+honest trader who knows how to defend themselves, or a cutthroat who looks for
+particularly vulnerable customers to ambush after a sale. It’s a Level 2
+Skirmisher with the Leader tag and 34 HP.&lt;/p&gt;
+
+&lt;p&gt;A typical peddler’s goal in a fight will be to live to fight another day, so
+they always hang around places with convenient escape routes and obstacles that
+might deter pursuers, such as twisty alleys or clustered stalls.&lt;/p&gt;
+
+&lt;p&gt;The peddler is armed with a &lt;strong&gt;bone longsword&lt;/strong&gt;, which does standard damage for
+its level. It can use the &lt;strong&gt;Double Dealing&lt;/strong&gt; maneuver at will: this lets it make
+a sword attack, shift half their speed, and then make another sword attack
+against a different target if they end the shift flanking that target.&lt;/p&gt;
+
+&lt;p&gt;As a minor action they can also use &lt;strong&gt;Peddler’s Command&lt;/strong&gt;, which lets an ally
+within 20 squares move half their speed as a free action. If that ally is
+another elf, the move is instead a shift. This is useful to set up the flank for
+that second Double Dealing attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;elf-sniper&quot;&gt;Elf Sniper&lt;/h3&gt;
+
+&lt;p&gt;Another typical denizen of the markets, Snipers work security from shadowy
+corners and rooftop perches. If trouble starts, they help cover their allies’
+retreat with their thrown weapons.&lt;/p&gt;
+
+&lt;p&gt;Snipers are Level 3 Minion Lurkers armed with &lt;strong&gt;Bone Daggers&lt;/strong&gt; and a brace of 10
+&lt;strong&gt;Chatkchas&lt;/strong&gt;, which are three-pronged sharpened boomerangs. Both of these
+attacks deal a bit of extra damage if the sniper is hidden from the target when
+they start the attack.&lt;/p&gt;
+
+&lt;p&gt;As an at-will Move action, the sniper can use &lt;strong&gt;Elven Misdirection&lt;/strong&gt; to move 2
+squares and make a free Stealth check to become hidden if they end the movement
+with cover or concealment. This check has an automatic result of 25, which means
+they “take 15” on the roll.&lt;/p&gt;
+
+&lt;p&gt;In combat, they’ll try to pop out from cover, make a ranged attack, and hide
+again. If someone tries to get close to them they will run. Like the peddler,
+their goal in a “market fight” situation is to delay and distract pursuers
+enough for their allies to flee, and then flee themselves.&lt;/p&gt;
+
+&lt;h3 id=&quot;elf-dune-strider&quot;&gt;Elf Dune Strider&lt;/h3&gt;
+
+&lt;p&gt;This nomadic warrior is used to running through the wastes. This stat block can
+represent a raider, or someone who’s just protecting their wandering band. It’s
+a Level 4 Skirmisher with 52 HP.&lt;/p&gt;
+
+&lt;p&gt;The Dune Strider can &lt;strong&gt;Move Like the Wind&lt;/strong&gt;, gaining +5 to all defenses against
+opportunity attacks provoked by movement. They’re armed with a &lt;strong&gt;Bone
+Longsword&lt;/strong&gt; that does extra damage on a charge, and a &lt;strong&gt;Obsidian Shortsword&lt;/strong&gt;
+that’s slightly better for static attacks. The &lt;strong&gt;Rushing Dervish&lt;/strong&gt; maneuver lets
+them move their Speed + 2 and make one attack with each sword against a
+different target during the movement. This recharges when they’re bloodied.&lt;/p&gt;
+
+&lt;p&gt;Striders acting as raiders will keep mobile and try to spread out their attacks
+in an attempt to intimidate their targets into giving up their possessions. They
+will flee if the fight turns against them. Their traits and abilities make it
+easy for them to bounce around the battlefield like pinballs, making charge
+attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;elf-raid-leader&quot;&gt;Elf Raid Leader&lt;/h3&gt;
+
+&lt;p&gt;The sort of veteran commander you might find leading a larger raid against a
+settlement, either as revenge for mistreatment or as a plain old resource
+grab. It’s level 6 Artillery with the Leader tag.&lt;/p&gt;
+
+&lt;p&gt;The leader has a &lt;strong&gt;obsidian shortsword&lt;/strong&gt; for emergencies, whose strikes let it
+shift 1 square on a hit. It will mostly fight with its &lt;strong&gt;Bone Bow&lt;/strong&gt;, which is
+both more accurate and more damaging. It can fire &lt;strong&gt;Harrying Shots&lt;/strong&gt; that do the
+same damage as a basic ranged attack, but also make the target grant combat
+advantage to adjacent allies of the leader for a turn.&lt;/p&gt;
+
+&lt;p&gt;Its leaderly action is a command to &lt;strong&gt;Focus on the Pain&lt;/strong&gt; (minor action,
+recharge 6+) which deals 5 damage to an ally within 20 squares and allows that
+ally to immediately roll a save with a +2 bonus.&lt;/p&gt;
+
+&lt;p&gt;Raid leaders obviously lead from the back, providing ranged support to their
+skirmisher and lurker allies. It might be good to add a brute or soldier war
+beast to help protect them.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I’ve already mentioned my opinion about the elven stereotypes here: I don’t like
+them, and would probably change them a bit were I to run a campaign in this
+setting. They would be less true than depicted in the book, and depending on the
+tone I was going for might or might not be less prevalent in the setting.&lt;/p&gt;
+
+&lt;p&gt;The stat blocks are good, and can make for an extremely mobile encounter group
+when used together. As mentioned above, any brutes and soldiers who are part of
+an all-elven group will likely be trained war beasts instead of more elves.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Eladrin</title>
@@ -1229,114 +1388,6 @@ be smart enough to distinguish the PCs from the hunters if a fight broke out.&lt
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Cilops</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-cilops.jpeg&quot;/&gt;
-  &lt;figcaption&gt;
-    A cilops, which is a giant centipede with one big angry eye on its head.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The cilops (not to be confused with the cyclops) is the Darker and Sunnier
-version of Ye Olde Giante Centipede. That means it’s larger, spikier, and has
-psychic powers. Their name comes from the huge single mammal-like eye they have
-instead of the more usual compound eyes you find in arthropods.&lt;/p&gt;
-
-&lt;p&gt;Unlike other monstrous centipedes, the bite of the cilops is not venomous. The
-touch of its antennae, however, can psychically paralyze victims or muddle their
-minds. They can also psychically track victims over short distances - it’s very
-hard to hide from these things once they caught your scent.&lt;/p&gt;
-
-&lt;p&gt;In the wild, cilopses gather in the same places you can find mundane
-centipedes - any area where there’s a reasonable amount of shade and
-water. You’re more likely to find them &lt;em&gt;outside&lt;/em&gt; of the wild, however, as
-Templar patrols from every city love to use trained cilopses as both trackers
-and attack animals.&lt;/p&gt;
-
-&lt;p&gt;Some templars or sorcerer-kings are also fond of raising particularly large and
-vicious specimens and letting them loose on the city to wreak some havoc and
-terrorize the population into compliance.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Cilopses are Large Natural Beasts. They have Darkvision, some sort of antenna
-power that varies with the stat block, and the signature power &lt;strong&gt;Follow Psychic
-Trail&lt;/strong&gt;. This is a minor-action encounter power that lets them choose a creature
-they can see. Until the end of the encounter that creature grants combat
-advantage to the cilops, and cannot hide from it.&lt;/p&gt;
-
-&lt;p&gt;The combat advantage is pretty useful during a fight, but remember that a skill
-challenge to run away from a cilops-equipped patrol is also an encounter. Don’t
-let they catch your scent!&lt;/p&gt;
-
-&lt;h3 id=&quot;cilops-creeper&quot;&gt;Cilops Creeper&lt;/h3&gt;
-
-&lt;p&gt;A typical specimen such as one might find in the wild, or accompanying a templar
-strike force. It’s a Level 5 Skirmisher with 60 HP. It has ground and climb
-speeds of 7, and Resist 5 Psychic.&lt;/p&gt;
-
-&lt;p&gt;All of the creeper’s attacks deal 1d6 extra damage if it has &lt;strong&gt;Combat
-Advantage&lt;/strong&gt;, which is yet another reason for not letting it track you. Its basic
-&lt;strong&gt;bite&lt;/strong&gt; damages on a hit and lets the creeper shift 2 squares as an
-effect. Once per encounter it can use its &lt;strong&gt;Paralyzing Antennae&lt;/strong&gt; against a
-creature granting combat advantage to it, targetting Fortitude. On a hit this
-damages, dazes, and immobilizes the target for a turn.&lt;/p&gt;
-
-&lt;p&gt;Creepers really want to start tracking a specific PC as soon as the fight
-starts, and then focus fire on their chosen victim starting with an antennae
-attack and then proceeding to spam the bite.&lt;/p&gt;
-
-&lt;h3 id=&quot;cilops-stalker&quot;&gt;Cilops Stalker&lt;/h3&gt;
-
-&lt;p&gt;A chunky terror weapon, the Stalker is a Level 7 Elite Skirmisher with 154
-HP. It’s slower and less agile than the Creeper, with a ground speed of only 6
-and no climb speed or psychic resistance. However, it makes up for that in bulk.&lt;/p&gt;
-
-&lt;p&gt;The Stalker’s &lt;strong&gt;pincers&lt;/strong&gt; have the same bonus against targets granting CA, and
-its &lt;strong&gt;Sudden Rush&lt;/strong&gt; maneuver (recharge 5+) is excellent against tight
-formations. It allows the Stalker to shift its speed and move through enemies
-space during this shift. Whenever it does so, it makes a melee attack vs. the
-enemy’s Reflex, dealing heavy damage and knocking prone on a hit.&lt;/p&gt;
-
-&lt;p&gt;It can still only &lt;strong&gt;Follow Psychic Trail&lt;/strong&gt; once per encounter, but unlike the
-Creeper it can use its Reach 2 &lt;strong&gt;Dazing Antennae&lt;/strong&gt; once per round with no
-targeting restrictions. This does lightning damage equivalent to the bite on a
-hit, and dazes for a turn.&lt;/p&gt;
-
-&lt;p&gt;The Stalker also wants to track and focus on one target, and Sudden Rush lets it
-reach that target even through the party’s defender front line.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;As mentioned above, you’re much more likely to encounter these things being used
-as trackers and attack animals by templars than to meet them in their natural
-habitats. If you do meet them in the wild, they’re likely to be accompanied by
-other varieties of giant bug, or by swarms of smaller ones.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, they’re giant centipedes with a bit more character, and I imagine
-they can get pretty annoying when paired with other teammates that specialize in
-tying PCs down and preventing them from helping the cilops’ chosen victim.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/03/09/wir-dscc-cilops.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/03/09/wir-dscc-cilops.html</guid>
-        
-        <category>dark-sun</category>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
