@@ -43,6 +43,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 
 - E
   - [Eladrin][18]
+  - [Elf][19]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -62,3 +63,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [16]: {{ "/2025/04/20/wir-dscc-dwarf.html" | relative_url }}
 [17]: {{ "/2025/04/24/wir-dscc-dune-reaper.html" | relative_url }}
 [18]: {{ "/2025/06/03/wir-dscc-eladrin.html" | relative_url }}
+[19]: {{ "/2025/06/08/wir-dscc-elf.html" | relative_url }}

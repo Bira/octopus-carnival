@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-elf.png" | absolute_url }}"/>
+  <figcaption>
+    An Eladrin Veiled Warrior stepping out of a mirage.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Athasian elves are tall and long-legged, and their culture is almost entirely
@@ -30,14 +42,14 @@ as their new custom background options.
 
 I'd prefer to portray elves as having a lot of solidarity for each other and not
 a lot of sympathy for the outsiders who hate them so much. They drive hard
-bargains at the Market and if it looks like the townsfolk is about to blame them
-for some crime, they'll all sneak away in the middle of the night. Some
-individuals might resemble the negative stereotype, but then again that's also
-true of city-dwellers, whose negative stereotype is "servant to a slaving
-despot".
+bargains at the Market and skip town en masse if it looks like someone's going
+to accuse one of them of a crime. The accusation is likely to be false most of
+the time, as I interpret it. Some individuals might resemble the negative
+stereotype, but then again that's also true of city-dwellers, whose negative
+stereotype is "servant to a slaving despot" or "slaver".
 
 Elves who are found guilty of crimes in their own communities are cast out, and
-will often end up joining groups of raiders and bandits.
+will often end up joining groups of actual raiders and bandits.
 
 ## The Numbers
 
@@ -56,9 +68,9 @@ honest trader who knows how to defend themselves, or a cutthroat who looks for
 particularly vulnerable customers to ambush after a sale. It's a Level 2
 Skirmisher with the Leader tag and 34 HP.
 
-A peddler's goal in a fight will be to live to fight another day, so they always
-hang around places with convenient escape routes such as twisty alleys or
-clustered stalls.
+A typical peddler's goal in a fight will be to live to fight another day, so
+they always hang around places with convenient escape routes and obstacles that
+might deter pursuers, such as twisty alleys or clustered stalls.
 
 The peddler is armed with a **bone longsword**, which does standard damage for
 its level. It can use the **Double Dealing** maneuver at will: this lets it make
@@ -77,9 +89,9 @@ corners and rooftop perches. If trouble starts, they help cover their allies'
 retreat with their thrown weapons.
 
 Snipers are Level 3 Minion Lurkers armed with **Bone Daggers** and a brace of 10
-**Chatkchas**, three-pronged sharpened boomerangs originally invented by
-thri-kreen. Both of these attacks deal a bit of extra damage if the sniper is
-hidden from the target when they start the attack.
+**Chatkchas**, which are three-pronged sharpened boomerangs. Both of these
+attacks deal a bit of extra damage if the sniper is hidden from the target when
+they start the attack.
 
 As an at-will Move action, the sniper can use **Elven Misdirection** to move 2
 squares and make a free Stealth check to become hidden if they end the movement
@@ -119,7 +131,7 @@ grab. It's level 6 Artillery with the Leader tag.
 The leader has a **obsidian shortsword** for emergencies, whose strikes let it
 shift 1 square on a hit. It will mostly fight with its **Bone Bow**, which is
 both more accurate and more damaging. It can fire **Harrying Shots** that do the
-same damage as a basic ranged attack, but also makes the target grant combat
+same damage as a basic ranged attack, but also make the target grant combat
 advantage to adjacent allies of the leader for a turn.
 
 Its leaderly action is a command to **Focus on the Pain** (minor action,
@@ -133,9 +145,10 @@ beast to help protect them.
 
 ## Encounters and Final Impressions
 
-I've already mentioned my opinion about the reputation elves have here: I don't
-like it, and would probably change it a bit were I to run a campaign in this
-setting.
+I've already mentioned my opinion about the elven stereotypes here: I don't like
+them, and would probably change them a bit were I to run a campaign in this
+setting. They would be less true than depicted in the book, and depending on the
+tone I was going for might or might not be less prevalent in the setting.
 
 The stat blocks are good, and can make for an extremely mobile encounter group
 when used together. As mentioned above, any brutes and soldiers who are part of
