@@ -6,16 +6,171 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Jun 2025 14:05:42 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 14:05:42 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 20:59:43 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 20:59:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Floating Mantle</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-floating-mantle.png&quot;/&gt;
+  &lt;figcaption&gt;
+    An red floating mantle.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Silt Sea makes up the eastern border of the known regions of Athas. No one
+knows what’s on the other side of it, and they have only the barest idea of
+what’s under the dust. Sometimes, weird creatures will drift in from those
+far and deep regions. One of these weirdoes is the floating mantle.&lt;/p&gt;
+
+&lt;p&gt;Floating mantles are giant flying jellyfish, though no one in Athas calls them
+that because they don’t know what a fish is. Despite their strong psionic
+powers, their flight is entirely mundane. Their bodies secrete a lighter than
+air gas into internal cavities to keep them aloft, and they expel small
+quantities of this gas to propel themselves.&lt;/p&gt;
+
+&lt;p&gt;These creatures live in small groups called colonies, which are psychically
+linked to form a collective consciousness. They have some fairly obvious sexual
+dimorphism: males are a pale red in color, while females are a pale yellow. Both
+grow much more vivid in coloration when they feel agitated or threatened.&lt;/p&gt;
+
+&lt;p&gt;During their reproductive cycle, the female will carry a large litter of
+“polyps” to term. This causes her to become larger, bluish in color and much
+more irritable, as the pregnancy is highly uncomfortable for her. When in this
+state, she’s known as a “bluesting”. When threatened, a bluesting might
+prematurely release some of its polyps, which can fight ferociously but don’t
+last long. Even when they’re properly birthed at the right time, polyps are
+still fragile and only a small fraction of them will grow up to join the colony.&lt;/p&gt;
+
+&lt;p&gt;The book describes floating mantles as “quiet and inoffensive”, which I guess
+means they only attack sapients if they feel threatened, or to defend their
+young. They probably feed on small animals, and mainly hunt on the Silt
+Sea. When they do fight, they use the same natural weapons they use for hunting:
+sting-covered tendrils that deliver a paralytic poison, and the ability to drain
+the life force of a helpless victims.&lt;/p&gt;
+
+&lt;p&gt;When hurt, a floating mantle emits a psychic scream that stuns attackers and
+warns their fellows of danger. Finally, the gas that they use is probably
+hydrogen, because it gives them an unfortunate tendency to explode when exposed
+to fire or electricity.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Floating Mantles are Aberrant Magical Beasts with the Blind tag, which makes
+them immune to blinding effects and gaze attacks. They perceive their
+surroundings with Blindsight 20. Mantles have a flight speed of 6, with an
+altitude limit of 3 and the ability to hover.&lt;/p&gt;
+
+&lt;p&gt;Adult mantles are vulnerable 10 to fire and lightning. Polyps have too little
+stored hydrogen for this.&lt;/p&gt;
+
+&lt;p&gt;Flying mantles are also immune to the effects of their Psychic Scream powers,
+whether used by themselves or by another mantle.&lt;/p&gt;
+
+&lt;h3 id=&quot;floating-mantle&quot;&gt;Floating Mantle&lt;/h3&gt;
+
+&lt;p&gt;This typical specimen is Small in size, and a Level 13 Controller with 126
+HP. Its basic attack is a &lt;strong&gt;Tentacle Rake&lt;/strong&gt; (melee 2 vs. reflex) that deals
+poison damage and slows for a turn. If they have combat advantage against a
+target, they can use &lt;strong&gt;Life Leech&lt;/strong&gt; (melee 2 vs. Fortitude) as a minor
+action. This deals poison damage, dazes and immobilizes (save ends both) and
+gives 10 temporary HP to the mantle. Of course, a target who’s hit by this once
+becomes susceptible to it until they save against that daze, since dazed
+characters grant CA.&lt;/p&gt;
+
+&lt;p&gt;Also as a minor action, the mantle can squeeze out a &lt;strong&gt;Jet&lt;/strong&gt; to shift its
+speed.&lt;/p&gt;
+
+&lt;p&gt;When the mantle is first bloodied, a lot of stuff happens. First, &lt;strong&gt;Jet&lt;/strong&gt;
+recharges. Then it lets out a &lt;strong&gt;Psychic Scream&lt;/strong&gt;! The scream is a free action
+attack vs. Will in a Close Burst 2. On a hit, it deals psychic damage, and makes
+it so the affected targets take 10 psychic damage whenever they make an attack
+against the creature (save ends). As an effect, the floating mantle becomes
+invisible until the end of its next turn.&lt;/p&gt;
+
+&lt;p&gt;If the mantle is reduced to 0 HP by fire or lightning, it &lt;strong&gt;suddenly explodes&lt;/strong&gt;!
+This is another Close Burst 2, vs. Reflex this time, dealing high fire damage
+and pushing targets 1d4 squares. On a miss, it does half damage. This is
+probably the only variable push I ever saw.&lt;/p&gt;
+
+&lt;h3 id=&quot;floating-mantle-bluesting&quot;&gt;Floating Mantle Bluesting&lt;/h3&gt;
+
+&lt;p&gt;Bluestings grow to Medium size. They’re Level 15 Artillery with 111 HP, and a
+greater blindsight range of 25.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Tentacle Rake&lt;/strong&gt; Attack has reach 3 and does more damage than the common
+mantle’s, and they also gain the ability to fling their tiny stingers at distant
+targets. This &lt;strong&gt;Flinging Nettles&lt;/strong&gt; attack targets Fortitude and deals poison
+damage out to range 20.&lt;/p&gt;
+
+&lt;p&gt;If enemies manage to get close, the bluesting can let out a &lt;strong&gt;Toxic Burst&lt;/strong&gt;,
+which targets creatures in a Close Burst 1 and deals poison damage on a hit. If
+the bluesting has less than four accompanying polyps, one appears in an adjacent
+square, acting right after the bluesting in initiative order.&lt;/p&gt;
+
+&lt;p&gt;They have the same &lt;strong&gt;Jet&lt;/strong&gt; ability as the common specimen, and can also perform
+a &lt;strong&gt;Sudden Birth&lt;/strong&gt; (recharge 4+) as a minor when pressed. This is more or less
+the same as the secondary effect of the Toxic Burst above: it puts a new polyp
+in play within 3 squares if there are less than four accompanying the bluesting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Psychic Scream&lt;/strong&gt; and &lt;strong&gt;Sudden Explosion&lt;/strong&gt; work the same as in the common
+specimen, but do more damage since bluestings are higher level.&lt;/p&gt;
+
+&lt;h3 id=&quot;floating-mantle-polyp&quot;&gt;Floating Mantle Polyp&lt;/h3&gt;
+
+&lt;p&gt;These Tiny youngsters can either be pre-placed in an encounter, or be produced
+by bluestings (in which case they’re not worth XP). A previously-placed polyp is
+one that reached term and was birthed normally, and adults will fiercely defend
+it. One produced during combat is considered premature and will die a few
+minutes after the fighting stops. Adults are less attached to those. In either
+case it’s not yet hooked up to the hive mind and it’s recklessly hangry.&lt;/p&gt;
+
+&lt;p&gt;Polyps are Level 15 Minion Brutes. Their &lt;strong&gt;Tentacle Rakes&lt;/strong&gt; do poison damage,
+and when they die they let loose a &lt;strong&gt;Psychic Scream&lt;/strong&gt; in a close burst 2, which
+deals psychic damage and dazes for a turn on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These are likely the most peaceful and sympathetic aberrant creatures you’re
+likely to find anywhere. They’ll most likely be found just chilling and minding
+their business, and will only become dangerous if the PCs strike the first
+blow. The capybaras of the Far Realm.&lt;/p&gt;
+
+&lt;p&gt;Their lore is both disturbingly biological and a breath of fresh air. The first
+part is obvious (poor premature polyps!), and the second one is because here we
+have an example of powerful Athasian wildlife that &lt;em&gt;isn’t&lt;/em&gt; so mindlessly
+aggressive it thinks armed adventurers are a good meal.&lt;/p&gt;
+
+&lt;p&gt;Standard flying mantles need to either appear in pairs or have some other
+opportunistic flanking buddy that will help them get their initial combat
+advantage on a target. Other than that all of them have some interesting ways to
+punish PCs that do &lt;em&gt;too&lt;/em&gt; well against them.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/10/wir-dscc-floating-mantle.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/10/wir-dscc-floating-mantle.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Elf</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-elf.png&quot;/&gt;
   &lt;figcaption&gt;
-    An Eladrin Veiled Warrior stepping out of a mirage.
+    An elf running through the desert.
     Copyright 2010 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1230,164 +1385,6 @@ innovation, but they’re still kinda cool.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Cloud Ray</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-cloud-ray.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A cilops, which is a giant centipede with one big angry eye on its head.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Cloud rays look like gigantic flying stingrays, and are among some of the rarest
-and most majestic specimens of Athasian fauna. They float in from the Sea of
-Silt to feed or rest, and despite their prodigious size they’re rarely dangerous
-unless bothered.&lt;/p&gt;
-
-&lt;p&gt;These creatures subsist mostly on psychic, entropic, and magical energy, so they
-only need a comparatively tiny amount of physical food to keep going. They land
-on the ground to sleep, covering themselves in sand and debris for
-camouflage. There are many stories about travelers who pitched their tents on a
-nice spot of high ground only to later find themselves desperately clinging to
-the back of a cloud ray when the creature took flight.&lt;/p&gt;
-
-&lt;p&gt;Cloud rays dream of distant places when they sleep, and sometimes they disappear
-to those places instead of taking flight the usual way. When threatened, the
-creature can consciously tap into this ability to teleport short distances.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Cloud Rays are Elemental Beasts, whose size varies depending on their age. They
-can crawl on the ground at speed 4 and fly at Speed 12 with Hover
-capability. They have an affinity for storms, with Resist 15 Lightning and
-Thunder.&lt;/p&gt;
-
-&lt;p&gt;We’re going through the entries here in increasing order of level, which is the
-reverse of what the book does.&lt;/p&gt;
-
-&lt;h3 id=&quot;cloud-ray-pup&quot;&gt;Cloud Ray Pup&lt;/h3&gt;
-
-&lt;p&gt;This young individual is Large, translucent, and relatively delicate for its
-size. It’s a Level 21 Minion Skirmisher. Pups fly around in clusters near other
-creatures that can provide them with food - most commonly cloud ray elders, but
-sometimes other aerial predators that tend to leave lots of left-overs. If their
-intended prey is still moving, they sting it until it stops, and then set down
-to eat.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;sting&lt;/strong&gt; is Reach 3 and deals thunder damage. They can employ it as part
-of a &lt;strong&gt;Gliding Attack&lt;/strong&gt; that lets them move their speed and make the attack at
-any point along the way. They don’t provoke opportunity attacks when moving away
-from the target of their sting.&lt;/p&gt;
-
-&lt;p&gt;As a minion, a single hit will take the pup down, but it can use &lt;strong&gt;Dream
-Resurgence&lt;/strong&gt; once per encounter to remove itself from play when it reaches 0 HP
-and reappear at the start of its next turn within 10 squares, with its 1 HP
-restored. It will probably use this opportunity to run away if nothing is
-forcing it to stay, so the PCs don’t need to feel bad about giving this
-beautiful creature a good whack to get it to bother someone else.&lt;/p&gt;
-
-&lt;h3 id=&quot;cloud-ray-adult&quot;&gt;Cloud Ray Adult&lt;/h3&gt;
-
-&lt;p&gt;Adults cruise the skies continuously, only descending to rest or to attack
-land-bound prey. Sure, it eats little for its size, but for a Huge creature that
-can still mean its infrequent meals consist of a whole person or similarly sized
-animal. Adults are Level 23 Elite Skirmishers with 424 HP.&lt;/p&gt;
-
-&lt;p&gt;The adult has a much stronger version of the pup’s &lt;strong&gt;Sting&lt;/strong&gt;, with Reach 4. It
-can also use a Reach 1 &lt;strong&gt;bite&lt;/strong&gt; that deals more damage and grabs the
-target. Targets grabbed by the bite have a -4 to their escape rolls, which have
-escape DCs of 34 for Athletics and 36 for Acrobatics. The ray can grab at most
-one target like this. The &lt;strong&gt;Unhindered&lt;/strong&gt; trait lets the cloud ray pull the
-victim along when it moves. Either of these attacks can be used as part of
-&lt;strong&gt;Gliding Attack&lt;/strong&gt;, which lets it attack twice during the movement and otherwise
-works like the pup’s version.&lt;/p&gt;
-
-&lt;p&gt;A ray that finds itself surrounded can use &lt;strong&gt;Wing Storm&lt;/strong&gt; (Close Burst 3
-vs. Fort, recharge 5+) to deal thunder damage and push targets 3 squares on a
-hit, also knocking them prone. This creates a lightly obscured zone that lasts
-for a turn, from all the dust it kicks up.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter, while bloodied, the ray can use &lt;strong&gt;Dream Flight&lt;/strong&gt; to teleport
-15 squares, carrying its grabbed victim with it if it has one. It makes Close
-Burst 2 attack vs. Fortitude on arrival, dazing an slowing those it hits.&lt;/p&gt;
-
-&lt;p&gt;A grabbed victim can be attacked with further bite attacks and with &lt;strong&gt;Crush&lt;/strong&gt;, a
-minor action attack vs. Fortitude that deals as much damage as the bite.&lt;/p&gt;
-
-&lt;p&gt;An adult on the hunt will try to grab its chosen prey and fly away, biting and
-crushing the victim until it’s dead. If their prey proves too feisty, they’ll
-drop it from a great height to soften it up, and then grab it again. Repeat
-until done.&lt;/p&gt;
-
-&lt;h3 id=&quot;cloud-ray-elder&quot;&gt;Cloud Ray Elder&lt;/h3&gt;
-
-&lt;p&gt;This majestic Gargantuan beast is a Level 25 Solo Controller, on par with elder
-dragons from other worlds. Its control over storms lets it project an aura (3)
-of &lt;strong&gt;Undulating Winds&lt;/strong&gt;, which deals 15 thunder damage to enemies that start
-their turns inside and lets the elder slide them 3 squares to another square
-within the aura.&lt;/p&gt;
-
-&lt;p&gt;Also, its &lt;strong&gt;Flat Body&lt;/strong&gt; lets other creatures enter and occupy the elder’s
-space - they’re standing on top of the ray! This means it’s equal parts enemy
-and terrain during a fight. If it took flight because you tried to camp on its
-back, it will be the &lt;em&gt;only&lt;/em&gt; terrain for the fight.&lt;/p&gt;
-
-&lt;p&gt;Obviously if you’re on top of the ray, you’re also inside its aura, so it will
-try to slide you off its back. This follows the rules for forced movement into
-hazardous terrain, so you get a save to grab on before you tumble to the
-ground. If you pass, you end up prone at the ray’s edge.&lt;/p&gt;
-
-&lt;p&gt;The elder’s is Reach 5 &lt;strong&gt;Sting&lt;/strong&gt; deals immediate and ongoing thunder damage
-(save ends). Its favorite attack enhances the sting with magic for a &lt;strong&gt;Thunder
-Lash&lt;/strong&gt;, which deals physical damage to its primary target and triggers a
-secondary close burst 5 centered on that target that deals thunder damage to all
-enemies it hits and pushes then 3 squares. On a miss it deals half damage.&lt;/p&gt;
-
-&lt;p&gt;It’s also large enough that its bite upgrades to &lt;strong&gt;Scooping Bite&lt;/strong&gt;: this is a
-Close Blast 5 instead of a melee attack, and it can grab up to three targets it
-hits. &lt;strong&gt;Unhindered&lt;/strong&gt; is here and lets the elder fly away with its mouthful of
-victims. &lt;strong&gt;Gliding Menace&lt;/strong&gt; works like Gliding Attack, but lets the elder
-specifically use Thunder Lash and Scooping Bite as its two flyby attacks.&lt;/p&gt;
-
-&lt;p&gt;Like the adult, the elder can &lt;strong&gt;Crush&lt;/strong&gt; its grabbed victims with a minor
-action. Fortunately they don’t have penalties on their escape rolls, but the
-base DCs are higher since the elder is higher level.&lt;/p&gt;
-
-&lt;p&gt;If bloodied, the elder uses &lt;strong&gt;Dream Flight&lt;/strong&gt; to teleport away. It works just
-like the adult’s version, but the daze upgrades to Stunned on the first failed
-save and Unconscious on the second.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Cloud Rays are almost always only found together with other cloud rays, with a
-flock of pups following a group of adults or a single elder around. They’re not
-sapient but I think they’re smart enough not to attack heavily armed PCs without
-provocation. Encounters are more likely to start when a PC runs into a ray at
-rest, and even then a fight is not certain.&lt;/p&gt;
-
-&lt;p&gt;I imagine you can have a good adventure about PCs trying to prevent another
-armed group from killing cloud rays, and in this case the creatures would &lt;em&gt;not&lt;/em&gt;
-be smart enough to distinguish the PCs from the hunters if a fight broke out.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/03/13/cloud-ray.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/03/13/cloud-ray.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
