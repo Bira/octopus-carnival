@@ -11,7 +11,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-elf.png" | absolute_url }}"/>
   <figcaption>
-    An Eladrin Veiled Warrior stepping out of a mirage.
+    An elf running through the desert.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>

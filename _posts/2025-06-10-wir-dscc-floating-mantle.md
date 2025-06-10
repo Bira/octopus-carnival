@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-floating-mantle.png" | absolute_url }}"/>
+  <figcaption>
+    An red floating mantle.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 The Silt Sea makes up the eastern border of the known regions of Athas. No one
@@ -55,7 +67,7 @@ altitude limit of 3 and the ability to hover.
 Adult mantles are vulnerable 10 to fire and lightning. Polyps have too little
 stored hydrogen for this.
 
-Flying mantles are also immune to the effects of  Psychic Scream powers,
+Flying mantles are also immune to the effects of their Psychic Scream powers,
 whether used by themselves or by another mantle.
 
 ### Floating Mantle
@@ -66,7 +78,7 @@ poison damage and slows for a turn. If they have combat advantage against a
 target, they can use **Life Leech** (melee 2 vs. Fortitude) as a minor
 action. This deals poison damage, dazes and immobilizes (save ends both) and
 gives 10 temporary HP to the mantle. Of course, a target who's hit by this once
-becomes succeptible to it until they save against that daze, since dazed
+becomes susceptible to it until they save against that daze, since dazed
 characters grant CA.
 
 Also as a minor action, the mantle can squeeze out a **Jet** to shift its
@@ -131,7 +143,7 @@ blow. The capybaras of the Far Realm.
 
 Their lore is both disturbingly biological and a breath of fresh air. The first
 part is obvious (poor premature polyps!), and the second one is because here we
-have an example of powerful Athasian wilflife that _isn't_ so mindlessly
+have an example of powerful Athasian wildlife that _isn't_ so mindlessly
 aggressive it thinks armed adventurers are a good meal.
 
 Standard flying mantles need to either appear in pairs or have some other
