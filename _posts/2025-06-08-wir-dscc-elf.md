@@ -153,3 +153,5 @@ tone I was going for might or might not be less prevalent in the setting.
 The stat blocks are good, and can make for an extremely mobile encounter group
 when used together. As mentioned above, any brutes and soldiers who are part of
 an all-elven group will likely be trained war beasts instead of more elves.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

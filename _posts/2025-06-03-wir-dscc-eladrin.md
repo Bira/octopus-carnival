@@ -135,3 +135,5 @@ everyone else is unaligned. And they're all super tragic.
 I don't think windwalkers would mix with other eladrin, though it's easy
 enough to reskin a standard Mirage Adept as another windwalker variant if you
 want to mix them up. As noted above, this makes for a potent combination.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

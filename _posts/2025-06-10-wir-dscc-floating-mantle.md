@@ -150,3 +150,5 @@ Standard flying mantles need to either appear in pairs or have some other
 opportunistic flanking buddy that will help them get their initial combat
 advantage on a target. Other than that all of them have some interesting ways to
 punish PCs that do _too_ well against them.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
