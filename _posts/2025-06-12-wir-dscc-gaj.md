@@ -7,6 +7,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-floating-mantle.png" | absolute_url }}"/>
+  <figcaption>
+    A gaj perched on a desert rock.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 The book opens this entry by that the wastelands of Athas "sometimes spawn
 monsters so terrible not even the merciful can permit them to live". Cheery.
 
@@ -110,3 +122,5 @@ slightly lower level than their boss. Enslaved humanoids can round out the
 group. And you can also find mindhunters being used as arena fighters.
 
 These seem to be very tricky to fight.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
