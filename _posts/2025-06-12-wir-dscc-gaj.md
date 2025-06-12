@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-floating-mantle.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-gaj.png" | absolute_url }}"/>
   <figcaption>
     A gaj perched on a desert rock.
     Copyright 2010 Wizards of the Coast.
