@@ -6,9 +6,139 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jun 2025 21:04:11 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 21:04:11 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 16:45:22 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 16:45:22 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Gaj</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-floating-mantle.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A gaj perched on a desert rock.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;The book opens this entry by that the wastelands of Athas “sometimes spawn
+monsters so terrible not even the merciful can permit them to live”. Cheery.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The illustration makes me think a gaj is what you get when you mix a mind flayer
+with a beetle. These aberrations have human-level intelligence, strong
+telepathic powers, and a taste for the flesh and fear of sapient
+creatures. They’re too anti-social to practice infiltration like mind flayers
+sometimes do, but there’s still a lot about them that’s familiar.&lt;/p&gt;
+
+&lt;p&gt;Gaj dwell in extensive burrow networks that technically form a community, but
+they rarely interact with each other. They’ll band together to defend their
+home, but they mostly hunt alone or in mated pairs. They attack their prey with
+their claws and mandibles, and with invasive telepathy focused through their
+feathery antennae. Once a gaj has a firm grip on a victim, the touch of those
+antennae will rapidly disassemble the creature’s mind and use it to fuel further
+psychic assault.&lt;/p&gt;
+
+&lt;p&gt;Certain specimens mutate to assume a sort of leadership role in a gaj
+community. Their powers specialize on inflicting pain, and they take upon
+themselves the job of keeping victims captive in the burrow as dominated slaves
+and/or reserve rations for lean times. These Pain Tyrants are one of the few
+things that can get a whole burrow together for a bigger hunt or a raid against
+a settlement.&lt;/p&gt;
+
+&lt;p&gt;In &lt;em&gt;really&lt;/em&gt; lean times, when gaj cannot find new victims and have already
+devoured all of their captives, they’ll turn on each other - even their own
+mates.&lt;/p&gt;
+
+&lt;p&gt;Ironically, just as gaj like to hunt other sapients, so are they hunted in
+return. They’re very popular in the arena, so those ubuquitous slavers often
+mount expeditions to find and capture them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Gaj are Medium Aberrant Magical Beasts with a ground speed of 6, a burrow speed
+of 3, Darkvision, and Tremorsense 5. Their signature trait is &lt;strong&gt;Warding Shell&lt;/strong&gt;,
+which gives them +2 to defenses against any creature marking them.&lt;/p&gt;
+
+&lt;p&gt;All of the stat blocks here are Chaotic Evil.&lt;/p&gt;
+
+&lt;h3 id=&quot;gaj-mindhunter&quot;&gt;Gaj Mindhunter&lt;/h3&gt;
+
+&lt;p&gt;This is the typical specimen, so named to distinguish it from the Pain
+Tyrant. Mindhunters are Level 8 Elite Controllers with 172 HP. Their basic
+attack is a bite with their &lt;strong&gt;Mandibles&lt;/strong&gt;, which grab on a hit. Once the
+mindhunter has a victim in its jaws, it can only use this attack against it, and
+not against others.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Invasive Presence&lt;/strong&gt; has no such restrictions. It’s targets one or two
+creatures within Range 10, deals psychic damage on a hit, and pushes 1
+square. There’s also &lt;strong&gt;Mind Wrench&lt;/strong&gt; (recharge 5+), which targets a creature
+within a Close Burst 3 and dominates on a hit (save ends). Each time the target
+fails the save, the mindhunter’s grabbed victim takes 2d6 psychic damage.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, once per round, the mindhunter can use its &lt;strong&gt;Feathery Probe&lt;/strong&gt;
+on the grabbed victim. On a hit this deals light psychic damage, 5 ongoing
+psychic damage, and dazes (save ends). If the target is already taking ongoing
+psychic damage, that damage increases by 5. Yes, repeated hits with this attack
+will result in more and more ongoing damage.&lt;/p&gt;
+
+&lt;p&gt;All of this paints us a picture of the mindhunter’s preferred tactics: choose a
+victim to bite and grab, get away from the PCs, and keep using Invasive Presence
+and Mind Wrench to keep them busy while they nom on the victim with Feathery
+Probe.&lt;/p&gt;
+
+&lt;h3 id=&quot;gaj-pain-tyrant&quot;&gt;Gaj Pain Tyrant&lt;/h3&gt;
+
+&lt;p&gt;Pain Tyrants are considerably stronger than mindhunters, being Level 13 Elite
+Artillery with the Leader tag and 200 HP. Its &lt;strong&gt;Mandibles&lt;/strong&gt; have no special
+effects other than damage. Its ranged basic attack is a &lt;strong&gt;Mind Shriek&lt;/strong&gt; with
+range 20, that targets 1-2 creatures, and on a hit deals psychic damage and
+dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;Less often they can use &lt;strong&gt;Agonizing Insight&lt;/strong&gt;, an Area Burst 2 Within 20 with a
+lot of complicated effects. This weaponized anxiety attack inflicts 20 psychic
+damage on a hit (save ends). Whenever the target takes this ongoing damage, each
+of its allies within 3 squares also takes 5 psychic damage. So, if it hits 3
+PCs, in the next round each of them is going to take a total of 30 psychic
+damage if they stay together: 20 from the main effect, 10 from splash damage. It
+recharges when the tyrant scores a critical hit with Phrenic Probe (see below).&lt;/p&gt;
+
+&lt;p&gt;As an &lt;em&gt;effect&lt;/em&gt; the attack also makes each enemy inside the burst grant combat
+advantage for a turn even if they weren’t hit by the main attack. It also lets
+allies in the burst use a free action to either shift 1 square or move half
+their speed.&lt;/p&gt;
+
+&lt;p&gt;Against a dazed target, the Pain Tyrant can use &lt;strong&gt;Phrenic Probe&lt;/strong&gt; as a 1/round
+minor action. This is a version of the mindhunter’s Feathery Probe that has
+range 20! Finally, &lt;strong&gt;Vicious Goad&lt;/strong&gt; lets an ally within 20 squares move its
+speed and make a basic attack against an enemy of the tyrant’s choice as a free
+action. The ally is then dazed for a turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Looks like the most common gaj encounter in the wilderness is a pair of
+mindhunters. A Pain Tyrant leading a larger group is also possible, but in this
+case I’d recommend making the accompanying mindhunters into regulars of a
+slightly lower level than their boss. Enslaved humanoids can round out the
+group. And you can also find mindhunters being used as arena fighters.&lt;/p&gt;
+
+&lt;p&gt;These seem to be very tricky to fight.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/12/wir-dscc-gaj.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/12/wir-dscc-gaj.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Floating Mantle</title>
@@ -1304,90 +1434,6 @@ have them work just fine as Heroic threats.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dnd4</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Crodlu</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-crodlu.jpeg&quot;/&gt;
-  &lt;figcaption&gt;
-    A cilops, which is a giant centipede with one big angry eye on its head.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Crodlus are what Athas has instead of horses. Fans of Final Fantasy might
-compare them do Darker and Sunnier chocobos.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;In the wild, crodlus roam the wastes in small herds of about a dozen members,
-led by a dominant female. Females make up most of the other members of the herd,
-and are all related to the leader. One of the males will be the leader’s mate,
-with the others being mostly younger individuals who have not yet reached
-adulthood. When that happens, the newly adult males set out to seek mates in
-other herds.&lt;/p&gt;
-
-&lt;p&gt;The creatures are omnivores, with herds cooperating to hunt those creatures they
-judge to be weaker or smaller than themselves, and running away from stronger
-predators. They’re also frequently beset by human raiders trying to capture
-their young for training as mounts.&lt;/p&gt;
-
-&lt;p&gt;This means that crodlu are a common sight among groups of sapient
-humanoids. They make for ornery mounts, but that’s a good trait to have in
-something you want to ride into battle.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Crodlus are Large Natural Beasts with the Reptile tag and a ground speed of 8.&lt;/p&gt;
-
-&lt;h3 id=&quot;crodlu&quot;&gt;Crodlu&lt;/h3&gt;
-
-&lt;p&gt;This could represent a typical wild specimen, or perhaps a domesticated one that
-wasn’t trained as a mount. It’s a Level 3 Brute with 55 HP.&lt;/p&gt;
-
-&lt;p&gt;The crodlu can attack with its &lt;strong&gt;beak&lt;/strong&gt; or with &lt;strong&gt;claws&lt;/strong&gt; that do a little less
-damage. Whenever it can it will use a &lt;strong&gt;Pounce&lt;/strong&gt;, which lets it move up to its
-speed, and use both Beak and Claws against the same target even if it stands
-still. If both attacks hit, the target falls prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;war-crodlu&quot;&gt;War Crodlu&lt;/h3&gt;
-
-&lt;p&gt;This one was trained as a mount, and compares to the normal crodlu in the same
-way a war horse compares to a draft animal. It’s a Level 5 Brute with 76 HP.&lt;/p&gt;
-
-&lt;p&gt;The War Crodlu has the same three abilities described for the normal version,
-and one more: &lt;strong&gt;Pouncing Mount&lt;/strong&gt;. If the war crodlu charges a target while
-mounted, its rider can make a melee basic attack as a free action against that
-same target. The Pounce ability does &lt;em&gt;not&lt;/em&gt; count as a charge, but this makes the
-charge of a mounted war crodlu a bit more dangerous than a standard Pounce,
-depending on who the rider is.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Crodlus don’t strike me as the type of animal who’d attack wandering PCs without
-provocation, so they’ll mostly likely be found serving as mounts for bad guys or
-for the PCs themselves. Fighting wild ones would be something that happens when
-the PCs decide to play hunter and steal hatchlings to sell or domesticate.&lt;/p&gt;
-
-&lt;p&gt;Mechanically they’re very simple, about on par with horses really. I’ve been too
-desensitized by FF chocobos to see terror bird mounts as a mind-blowing
-innovation, but they’re still kinda cool.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/04/02/wir-dscc-crodlu.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/02/wir-dscc-crodlu.html</guid>
-        
-        <category>dark-sun</category>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
         
         
       </item>
