@@ -78,12 +78,13 @@ spot a device's charging port or battery, its control surfaces (be they
 switches, triggers, or touchpads), its information displays, and its business
 end even if you don't know what the thing actually _does_. You can identify the
 high-tech civilization's writing even though you can't read it, and you can
-identify its iconography for "danger".
+identify its iconography for "danger". You can also recognize hazards like
+exposed live wires, recognize which type of power cell goes into a device, and
+plug it in.
 
 This is a form of Unusual Background that makes you immune to the sort of
-amusing accident which plagues low-tech unfortunates confronted with high-tech
-devices. You can also recognize hazards like exposed live wires, recognize which
-type of power cell goes into a device, and plug it in.
+amusing accident which plagues other low-tech explorers confronted with
+high-tech devices.
 
 More importantly, Tech Familiarity is a pre-requisite for learning high-tech
 skills, and the language of the high-tech civilization (if any). With this
