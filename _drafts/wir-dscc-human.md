@@ -49,8 +49,8 @@ PCs.
 ### Human Wasteland Raider
 
 This is a typical member of those hostile Mixed Groups of People who attack you
-while you're traveling the wastes, intent on either killing you and taking your
-stuff. They're Level 2 Soldiers with 40 HP.
+while you're traveling the wastes, intent on either killing you, taking your
+stuff, or both. They're Level 2 Soldiers with 40 HP.
 
 The most striking thing about this stat block is the big editing error right in
 the middle, a **barbed spear** attack that has no listed damage and should be
@@ -209,7 +209,7 @@ turn.
 ### Human Blade Noble
 
 The most powerful human in this entry is not a wizard or a psychic, but someone
-who is Just that Good with a sword. Or in other words: Hello, Ms. Malenia! Fancy
+who is Just That Good with a sword. Or in other words: Hello, Ms. Malenia! Fancy
 meeting you here. This is a Level 17 Controller with 163 HP.
 
 The blade noble has a trait named **Unpredictable Flank** that gives them combat

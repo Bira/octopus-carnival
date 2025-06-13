@@ -8,7 +8,7 @@ tags:
 ---
 
 Dark Sun always had "half-giants" ever since its 2e days. They were very large,
-very strong, and had this funky random alignment rule. Here in Fourth edition,
+very strong, and had this funky random alignment rule. Here in Fourth Edition,
 they've been syncretized with goliaths.
 
 ## The Lore
@@ -27,8 +27,8 @@ treated as menial servants but also permitted to take part in raiding.
 
 ## The Number
 
-As usual, goliaths are Natural Humanoids and occupy the very high end of
-Medium size. Their speed is 6, and their signature power is **Stone's Endurance**, a
+As usual, goliaths are Natural Humanoids and occupy the very high end of Medium
+size. Their speed is 6, and their signature power is **Stone's Endurance**, a
 minor action encounter power that gives them some amount of damage resistance
 for a turn. Here, the specifics vary per stat block.
 
@@ -54,8 +54,8 @@ tier, who have far surpassed it in skill. It's a Level 16 Minion Brute. It has
 the same Greatclub and Vengeful Clout attacks as the regular level 8 version,
 but dealing appropriate damage for its level and minion-ness. Its Stone's
 Endurance makes it take no damage from the next attack that hits it before the
-end of its next turn, which sounds powerful but is the only version of the power
-that would make any difference on a minion.
+end of its next turn, which sounds powerful but is the only version of the
+ability that would make any difference on a minion.
 
 It's interesting to note that both the Enforcer and the Legbreaker are worth 350
 XP, so XP total ends up being an interesting guideline for when to upgrade or

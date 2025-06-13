@@ -58,8 +58,8 @@ target is bloodied it the conditions become (save ends both) instead.
 
 ### Dune Golem
 
-This is a construct made out of loose sand bound by air magic. It can hold a
-humanoid shape, but it's diffuse instead of solid, making it particularly
+This is a construct made out of loose sand bound together by air magic. It can
+hold a humanoid shape, but it's diffuse instead of solid, making it particularly
 resistant to conventional attacks.
 
 A dune construct is a Level 13 Elite Soldier with 184 HP. It has a ground speed
@@ -75,7 +75,8 @@ trait here, which lets the construct pull grabbed victims along when it moves.
 
 The construct's **Slams** deal the usual damage, and grab on a hit. It can have
 up to two grabbed victims, and can sustain the grabs for free. It has **Double
-Attack**, so it could two victims in the same action if it hits with both slams.
+Attack**, so it could grab two victims in the same action if it hits with both
+slams.
 
 Grabbed victims are susceptible to **Engulf**, a minor action attack that deals
 light damage but starts inflicting ongoing 15 damage until the grab ends!  And

@@ -170,7 +170,9 @@ shops, the Thieves' Guild which is a crime syndicate, and the Wizard's Guild who
 deals in magic items and "forbidden" spells. Temples worship "The Gods", and
 will bless and heal you if you pay their fees-disguised-as-donations. The
 overall ruler of all towns is "The King", and he has the "King's Men" to
-intervene in situations where the Town Watch isn't enough.
+intervene in situations where the Town Watch isn't enough. Despite containing
+all this, town is fundamentally _safe_. Adventure happens out there, not in
+here.
 
 There's no alignment but you do have opposing forces of supernatural,
 capital-letter Good and Evil. The latter are ruled by a being known as "The
@@ -185,6 +187,10 @@ detailed stuff, either of your own creation or from a third party. Any setting
 that keeps to the list of genre assumptions from the introduction can be slotted
 into DFRPG almost without effort, and there are a ton of those (included, but
 not limited to, every D&D setting ever released plus Pathfinder's Golarion).
+
+I think the game kinda expects you to replace its setting when you run a longer
+and more elaborate campaign, but if you're only planning a one-shot dungeon
+romp, the default one is enough.
 
 Next: Chapter 1, with the **Basics** of character creation.
 

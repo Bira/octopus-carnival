@@ -65,4 +65,4 @@ the fiend will likely free the thralls.
 
 It's an interesting monster, I think. Effectively a low-level dragon that
 breathes fear. You can level it up a bit to make it more challenging for
-mid-Heroic PCs, but I'd probably stop at that point.
+mid-Heroic PCs, but I'd probably set that as the upper bound of their power.

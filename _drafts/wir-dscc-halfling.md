@@ -9,11 +9,11 @@ tags:
 
 ## The Lore
 
-Athasian halflings are physically identical to their standard counterparts, but
-their culture is very different. If you have ever heard of Dark Sun in any
+Athasian halflings are physically identical to their standard 4e counterparts,
+but their culture is very different. If you have ever heard of Dark Sun in any
 detail, you'll likely also have heard that it has cannibal halflings.
 
-This is true, I feel it's lost a bit of its impact here, halfway down the
+This is true, but I feel it's lost a bit of its impact here, halfway down the
 critter list for the book. Halflings are the fourth cannibal humanoids we met so
 far, after belgois, braxats, and gith. I'm not even counting all the magical
 beasts that eat sapients, or we'd be here all day reciting names.

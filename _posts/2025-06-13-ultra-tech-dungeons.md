@@ -6,9 +6,11 @@ tags:
     - dungeon-fantasy
 ---
 
-I've recently been thinking about dungeon fantasy campaigns which feature
-tech-level mashups instead of the usual "medievalish" setup. Could be it's
-because I'm GMing one. Let's talk about it for a bit.
+I started writing this post a few years ago when I was GMing the Iron Gods
+adventure path for Pathfinder using the Dungeon Fantasy RPG rules. My approach
+to that campaign was pretty slap-dash, and after I stopped I began thinking of a
+more structured way to do it. Since a recent comment here on the blog asked for
+specifics, I though I'd dust the post off and publish it.
 
 Let's say you have a Dungeon Fantasy game where you want your characters to get
 into contact with more advanced technology. How would you go about it?
@@ -19,7 +21,7 @@ Steve Jackson games did a little foray into this area in Pyramid #3/60, in an
 article entitled "High-Tech Dungeon Crawl", which focused on bringing modern-day
 characters with guns into fantasy dungeons to mow down orcs with autofire and
 take their stuff. This raises the inherent level of colonalism in the genre from
-"faintly concerning" to "yikes!"[^1].
+"concerning" to "yikes!"[^1].
 
 What I want to focus on here is in an older variation on the theme: fantasy
 characters exploring "dungeons" filled with elements you might be more used to
@@ -61,9 +63,9 @@ these vague numbers in mind, we can ditch the concept of Tech Levels completely
 for our treatment!
 
 Default GURPS Tech Level rules are only useful for giving us a starting set of
-ultra-tech gadgets to work with. In actual play, the only thing that matters is
-if a given thing is "low-tech" and thus familiar to everyone, or "high-tech" and
-thus a mystery to the uninitiated. How to differentiate both? With the following
+gadgets to work with. In actual play, the only thing that matters is if a given
+thing is "low-tech" and thus familiar to everyone, or "high-tech" and thus a
+mystery to the uninitiated. How to differentiate both? With the following
 advantage:
 
 ### Tech Familiarity (10 points)
@@ -156,6 +158,12 @@ were from magic, it would still cost only $25,600. However, the superfine blade
 will lose none of its functionality in a low- or no-mana zone, and it could be
 enchanted with the same magic as the low-tech sword to become even better.
 
+If you _do_ think that this is too much, you could say that the value of
+ultra-tech gear is capped by the value of magic items with similar
+properties. The sword from the example would be worth $17,000 then. Gear that
+has no magical equivalent might still use the "uncapped" price.
+
+
 #### Timeworn Gear
 
 One concept from Pathfinder that's useful to borrow is that of timeworn
@@ -176,36 +184,60 @@ Weapons and armor deserve special mention because Dungeon Fantasy is a
 combat-heavy genre, and this combat has a very specific "feel" to it. Therefore,
 high-tech combat gear will have an outsize impact on it.
 
-Introducing ultra-tech armor in the game likely means you've decided to ignore
-Dungeon Fantasy's suggestion to cap DR at about 15. Even non-combat safety gear
-at these tech levels has as much DR as low-tech plate, while being much
-lighter. Proper combat armor is much tougher. Most of the published DF enemies
-will have trouble getting past the DR of a PC in full ultra-tech armor with
-their physical attacks.
+Baseline Dungeon Fantasy suggests that PCs should have a maximum total DR of
+about 15, as anything more than that will make them invulnerable to too many
+monster attacks.
+
+PC damage also has some upper bounds. Spellcasters with missile spells and a
+spellcasting talent of 6 can do a maximum of 18d damage, though that requires
+enough setup to only be possible about once per fight, and not on all fights.
+
+A ST 20 Knight with Weapon Master and a halberd can easily attack twice every
+turn and do 3d+13 per attack. This is theoretically possible right out of
+character creation if your knight is a half-ogre.
+
+A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once per
+turn and do about 4d+10 per shot. This particular boundary is hard to reach, so
+your highest "at-will" ranged damage will probably be less than that.
+
+Introducing ultra-tech armor into the game almost certainly means you're going
+to exceed the DR cap. Even non-combat safety gear at these tech levels has as
+much DR as low-tech plate, while being much lighter. Proper combat armor is much
+tougher. Most of the published DF enemies will have trouble getting past the DR
+of a PC in full ultra-tech armor with their physical attacks.
 
 Similarly, high-tech weapons can change the shape of combat in your
 campaign. Dungeon Fantasy usually considers melee to be the main event and
 ranged combat to be a specialist niche, but if guns and beam weapons are common
-these two are going to swap places. Monster DR becomes much less of an obstacle
-when every weapon the PCs wield has an armor divisor.
+these two are going to swap places.
+
+Ultra-tech melee and ranged weapons can also allow PCs to approach or exceed the
+upper damage bounds described above much more easily. Both "boundaries" are
+roughly equivalent to rolling 7d of damage per attack. A force sword does 8d; a
+laser rifle does 6d, and can can fire many more shots per turn than a bow with
+no penalty. Both of those have armor divisors too, which make enemy DR become
+much less of an obstacle.
 
 The first step when addressing these issues is to carefully consider which items
 are available. What do you want your campaign's new DR cap to be? What is the
 highest armor divisor you're comfortable with? What sort of maximum damage do
-you want your PCs to do with a ranged attack they can use every second? And, to
-quote Mister Torgue from Borderlands 2: EXPLOSIONS?
+you want your PCs to do with a melee or ranged attack they can use every second?
+And, to quote Mister Torgue from Borderlands 2: EXPLOSIONS?
 
-That leads to some thinking about who the previous owners of this tech
-were. What was their civilization like, in general terms? This will inform the
-purpose of most of the facilities they left behind. The loot from a civilian
-medical lab going to be very different from that of a military base.
+The second step is to consider the same thing from the side of the opposition:
+what's the highest DR and damage you estimate _they_ will be able to routunely
+bring to the table? The gear available to the PCs should give them a chance to
+match those figures.
 
-The passage of time will also influence this. Sure, this ruin might have been a
-military base, but it turns out their best hardware was never intended to last
-for three thousand years without maintenance and is mostly useless now.
-
-What was the purpose of the crashed spaceship or ancient facility the PCs are
-delving?
+You can then safely remove anything that exceeds your new planned limits. That
+will end up giving you a pretty good set of guidelines for what the ultra-tech
+culture and their ruins look like. A civilian medical lab infested with
+non-sapient monsters and low-tech looters might have plenty of medkits and
+wonder drugs, but no weapon heavier than a couple of timeworn electrolasers and
+some scalpels the thief can use as superfine daggers. For a military base filled
+with killer robots and with a tank at the end as a boss fight, the sky is the
+limit, though those anti-tank weapons might all be timeworn if you don't want
+the PCs using them outside.
 
 
 [^1]: The article itself includes a section titled "The Sociological

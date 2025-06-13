@@ -28,6 +28,10 @@ delvers in our lineup. Due to a rule we'll see in the Campaigns book, that 22 HP
 also means any healing applied to the barbarian counts double. They're not just
 hard to kill, they're also easy to heal.
 
+High HP should never be your only defense, and the Barbarian does have
+others. However, there are things out there that can bypass everything else, so
+it's still nice to have.
+
 ## Advantages
 
 All barbarians have High Pain Threshold {10} and Outdoorsman 2 {20}. The first
@@ -52,8 +56,8 @@ categories:
 
 - Stuff that makes them even better at outdoor survival. Of note is further
   increasing Outdoorsman up to the maximum level of 6, letting them improve
-  survival skills as if they had IQ 18, Per 20, or DX 21. Improving this talent
-  during character advancement is always a better deal than improving the
+  survival skills as if they had IQ 16, Per 18, or DX 19. Improving this talent
+  during is always a better deal in terms of points than improving the
   individual skills.
 
 ## Disadvantages
@@ -75,7 +79,7 @@ those who want to have gigantic melancholies and gigantic mirth.
 Barbarians start with either skill 18 in a two-handed weapon, or skill 16 in a
 one-handed weapon and in shields. This is pretty high by core GURPS standards,
 and it's what you need if you want to attack every turn with little in the way
-of setup.
+of setup. It also gives you a pretty decent Parry defense in melee.
 
 They also get one ranged weapon skill, which could be the ability to throw their
 melee weapon depending on that choice. Like every delver, they also get some
@@ -104,7 +108,7 @@ Barbarians can buy strength up to 25 and HP up until 1/2 of their ST (not just
 - **Tough Skin**: Adds to your damage resistance as if it was armor! It's still
   flesh, though, so it doesn't protect the eyes and doesn't work against attacks
   that just require skin contact or a small scratch to take effect. Barbarians
-  can have up to 3 levels. Note that it _is_ compatible with armor.
+  can have up to 3 levels. It _does_ stack with worn armor.
 
 ## Customization Notes
 
