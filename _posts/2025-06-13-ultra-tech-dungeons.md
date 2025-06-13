@@ -191,15 +191,9 @@ monster attacks.
 
 PC damage also has some upper bounds. Spellcasters with missile spells and a
 spellcasting talent of 6 can do a maximum of 18d damage, though that requires
-enough setup to only be possible about once per fight, and not on all fights.
-
-A ST 20 Knight with Weapon Master and a halberd can easily attack twice every
-turn and do 3d+13 per attack. This is theoretically possible right out of
-character creation if your knight is a half-ogre.
-
-A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once per
-turn and do about 4d+10 per shot. This particular boundary is hard to reach, so
-your highest "at-will" ranged damage will probably be less than that.
+enough setup to only be possible about once per fight, and not on all
+fights. The maximum amount of "at-will" melee and ranged damage a PC can do is
+equivalent to about 7d per attack[^2][^3].
 
 Introducing ultra-tech armor into the game almost certainly means you're going
 to exceed the DR cap. Even non-combat safety gear at these tech levels has as
@@ -243,3 +237,12 @@ the PCs using them outside.
 
 [^1]: The article itself includes a section titled "The Sociological
     Ramifications are Appalling".
+
+[^2]: A ST 20 Knight with Weapon Master and a halberd can easily attack twice
+    every turn and do 3d+13 per attack. This is theoretically possible right out
+    of character creation if your knight is a half-ogre.
+
+[^3]: A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once
+    per turn and do about 4d+10 per shot. This particular boundary is hard to
+    reach, so your highest "at-will" ranged damage will probably be less than
+    that.
