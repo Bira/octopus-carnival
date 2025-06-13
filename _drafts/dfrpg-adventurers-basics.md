@@ -27,7 +27,7 @@ problems. There's no special "XP" here like you might find in other games - the
 points you gain from adventuring and 2use to advance are the same kind as the
 ones you spent during character creation, and all trait costs remain the same.
 
-The concept of "level one" does not apply here: templates are tuned to be
+The concept of "zero to hero" does not apply here: templates are tuned to be
 seriously good at their main jobs from the start. I'd say they have roughly the
 same power as level 7 or 8 D&D 3.x characters, though there are some important
 differences in how they play that I'll get into when we discuss chapter 2.

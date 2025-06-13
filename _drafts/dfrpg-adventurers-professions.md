@@ -91,15 +91,15 @@ present. They also have a set of discretionary advantages to choose from, with a
 budget limit detailed in the template.
 
 These discretionary advantages always include a set choices that amount to
-improved basic stats, and the first two levels of Luck. You can activate your
-Luck when you roll a test and don't like the result. You then reroll it three
-times and pick the best result among those. The more levels you have, the more
-often you can do this in a session. As you might imagine, it's vital to every
-adventurer who wants to survive a long time!
+improved basic or secondary stats, and the first two levels of Luck. You can
+activate your Luck when you roll a test and don't like the result. You then
+reroll it three times and pick the best result among those. The more levels you
+have, the more often you can do this in a session. As you might imagine, it's
+important to every adventurer who wants to survive a long time!
 
 The other discretionary advantages are specific to your profession and can take
 you into one of several different directions within its definition. Kinda like
-D&D subclasses, but you end up assembling your class features.
+D&D subclasses, but you end up assembling your starting class features.
 
 An advantage type that turns up quite often is the Talent. A Talent is a leveled
 advantage that adds its level to a specific set of skills, and usually gives
@@ -172,7 +172,6 @@ Many characters might want to instead spend their quirk points on extra starting
 money - each point spent this way gives you extra money equal to half your
 starting amount (which varies depending on your Wealth). This helps you start
 out with decent armor and other bits of expensive but important gear.
-
 
 ## Text Box: Team-Building
 

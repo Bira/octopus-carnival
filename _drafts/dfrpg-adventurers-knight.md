@@ -123,7 +123,7 @@ As a personal note, I'm going to say Weapon Master is so good it feels almost
 mandatory. Few things are more dangerous in the battlefield than a ST 17+ Weapon
 Master Knight who focuses on a single big swingy weapon like a polearm or
 two-handed sword. By the time the wizard finishes charging that fireball, all
-enemies will already be dead.
+enemies in the field will already be dead.
 
 No matter your specific build, you definitely want to spend quirk points on
 extra money for an armor upgrade.

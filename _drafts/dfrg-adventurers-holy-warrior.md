@@ -11,8 +11,9 @@ As the book says, Holy Warriors are on a quest to bury evil six feet deep. Like
 the Cleric, they receive blessings from the gods, but they prefer stabbing to
 casting. Those Other Games call them "Paladins" or "Champions".
 
-A Holy Warrior is a bit worse at _general_ combat than a Knight, but
-they're much better at fighting specific types of foes like demons and undead.
+A Holy Warrior is a bit worse at _general_ combat than a Knight, but they're
+potentially much better at fighting specific types of foes like demons and
+undead.
 
 ## Basic Stats
 
@@ -110,7 +111,7 @@ any required rolls.
   a drag. I wrote an alternate set of rules for this [a long time ago][1]. The
   TLDR on that is that I use a fixed +4 per level, and have the blessing last 10
   seconds. That lets you pre-calculate all the changed stats from your increased
-  attributes.
+  attributes when you "transform".
 
 - **Resist Evil** (1 point/level): Adds its level to rolls to resist the innate
   supernatural powers of Truly Evil creatures. Holiness doesn't increase this

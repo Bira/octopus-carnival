@@ -30,12 +30,12 @@ descriptions: that of Ordinary Townsfolk(TM).
 
 Ordinary Townsfolk are those people who live in Town under the rule of the
 King. They're human, they very rarely leave Town, and they don't have good
-opinions about things outside of their daily experience. That paints a picture
-that's almost the opposite of "open-minded" and "cosmopolitan". Ordinary
-Townsfolk recognize adventuring as a profession, but not a very respectable
-one. I guess that's in part because delvers will accept "just about anyone", as
-PCs are not affected by Social Stigmas. Still, they're happy to sell stuff to
-adventurers, who always have plenty of money to spend.
+opinions about things outside of their daily experience. In other words, they're
+the opposite of "open-minded" and "cosmopolitan". Ordinary Townsfolk recognize
+adventuring as a profession, but not a very respectable one. I guess that's in
+part because delvers will accept "just about anyone", as PCs are not affected by
+Social Stigmas. Still, they're happy to sell stuff to adventurers, who always
+have plenty of money to spend.
 
 The very first sentence in the actual text of the chapter does state that "race"
 means "species", so let's use that term from now on in this post. It goes on to
@@ -51,11 +51,11 @@ Next, the chapter introduces the concept of **racial templates** (henceforth
 
 Each template has a fixed cost, which must be paid using the discretionary
 points from your delver's professional template. Every professional template, as
-we already saw, has a listed amount for buying advantages and powers. They also
-have 7 points for secondary skills, and can gain an extra 5 from quirks. This is
-how much you can spend on a species template, which does mean you'll be spending
-less points on stuff related to your profession. Someone without a species
-template is assumed to be (mostly) human.
+we already saw, has a listed point amount for buying advantages and powers. They
+also have 7 points for secondary skills, and can gain an extra 5 from
+quirks. You can use these to pay for a species template, which does mean you'll
+be spending less points on stuff related to your profession. Someone without a
+species template is assumed to be (mostly) human.
 
 The cost of a template is the total cost of all of its components.
 
@@ -70,17 +70,17 @@ and not just 20.
 Advantages and disadvantages are shared by all members of that species, whether
 because they're part of its biology, because they're part of its dominant
 culture or because they model the prejudices of Ordinary Townsfolk. Features are
-cosmetic details that don't cost any points. That's my second problem with his
-chapter, and it flows right from the first.
+cosmetic details that don't cost any points.
 
-I'm not really a fan of having "cultural" or personality traits be a mandatory
-part of a species template. As I mentioned in [this old post of mine][1], I
-don't want a bigoted asshole who says "all dwarves are greedy, hard-headed
-bastards" to be _right_. Plus players just love playing exceptional or
-rebellious members of a species that don't conform to the cliche, and I'd like
-that to be easy. The templates I tend to write for my own campaigns tend to be
-far more minimalist than these, without most attribute adjustments and with no
-mandatory mental traits.
+This is my second problem with this chapter, flowing right from the first: I'm
+not really a fan of having "cultural" or personality traits be a mandatory part
+of a species template. As I mentioned in [this old post of mine][1], I don't
+want a bigoted asshole who says "all dwarves are greedy, stubborn bastards" to
+be _right_. Plus players just love playing exceptional or rebellious members of
+a species that don't conform to the cliche, and I'd like that to be easy. The
+templates I tend to write for my own campaigns tend to be far more minimalist
+than these, without most attribute adjustments and with no mandatory mental
+traits.
 
 You write the components of your species template down in the appropriate
 sections, together with the ones from your profession, which I think it's a big
@@ -139,9 +139,10 @@ the topic. I had something similar back when I GMed, a gnome cult who went
 around doing evil stuff and saying "Rawr, I'm a monster!".
 
 **Half-Ogre**: The progeny of an ogre and an orc or human, half-ogres are
-smaller than their ogre parents and able to live in society. They're _very_
-strong, tough, and fearless, but have an IQ penalty, are considered ugly, and
-bear a social stigma as "savages" due to their parentage.
+smaller than their ogre parents and are just on this side of what Ordinary
+Townsfolk consider "people". They're _very_ strong, tough, and fearless, but
+have an IQ penalty, are considered ugly, and bear a social stigma as "savages"
+due to their parentage.
 
 **Half-Orcs**: You can't talk about half-orcs without talking about orcs, and
 the orcs in this game are subject to all of the old cliches. There's a group of

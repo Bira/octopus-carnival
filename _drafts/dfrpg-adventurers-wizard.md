@@ -18,7 +18,7 @@ not specifically part of the cleric's or druid's central niches. But don't
 expect them to instantly end fights in one turn with a snap of their
 fingers. The Knight and Barbarian will have already won the battle by the time
 that fireball is ready. The wise wizard keeps an open mind regarding their spell
-selection, and plans their explosions in advance.
+selection, and plans explosions in advance.
 
 Wizards become delvers more to find buried arcane secrets than to find money
 (though the later always helps). Because of this, they're often the delvers with
@@ -64,18 +64,18 @@ professor with a heart of gold, or a fantasy mad scientist?
 Of note here is **Weirdness Magnet**, which gives the GM carte blanche to come
 up with _extra weird_ things during adventures that feel inexplicably drawn to
 you and generally make your life harder. If you need -15 points to reach your
-limit, take that and have fun!
+limit, take that and let your GM have some fun!
 
 ## Skills
 
 Wizard melee weapon packages are the classic "staff" and the somewhat novel
-"wand and shield", which is such a good idea I have to wonder about the
-curricula of these magic schools from other books. Wands in this game are a
+"wand and shield", which is such a good idea I have to wonder about the quality
+of the curricula of magic schools in other games. Wands in this game are a
 little heftier too, and can be used as light sticks with the Smallsword skill.
 
 For ranged combat, they can choose to go old-school and throw darts, wield a
-sling, or learn Innate Attack, which is what you use to aim missile spells. Most
-wizards who have those spells will want the latter.
+sling, or learn Innate Attack, which is what you use to attack with missile
+spells. Most wizards who have those spells will want the latter.
 
 Their primary skills are all about lore. They can teach, compose well-written
 texts, speed read, make proper use of research libraries, work with alchemy,
@@ -110,8 +110,8 @@ colleges. Wizards obviously have access to all of wizardly magic.
 
 
 This is where you get the official description of **Magery**, which I gave you
-above. This is why you even play a wizard in the first place, but they do have a
-few other special tricks available to them.
+above. Magery is the whole reason to even play a wizard in the first place, but
+they do have a few other special tricks available to them.
 
 - **Gizmos** (5 points/level): Like the thief version, but for wizard-themed
   minor gadgets instead of thief-themed ones.
@@ -129,10 +129,10 @@ few other special tricks available to them.
 ## Customization
 
 It's all about spell selection! There are so many to choose from the sample
-builds mention whole colleges instead of individual spells. Artillery mages with
-area damaging spells, controllers with a large collection of save-or-suck
-effects, or thaumathologists that specialize in meta-spells and magic knowledge
-skills.
+builds mention whole colleges instead of individual spells. Examples given are
+artillery mages with area damaging spells, controllers with a large collection
+of save-or-suck effects, or thaumathologists that specialize in meta-spells and
+magic knowledge skills.
 
 Every mage wants extra Energy Reserves, and those quirk points can be used
 either for an expensive and high-capacity Power Item, or for more spells.

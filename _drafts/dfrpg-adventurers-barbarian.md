@@ -41,11 +41,7 @@ skills.
 
 They can also spend 40 points on buying more advantages from a list displayed
 here. I won't go over them one by one, but they fall into a few
-categories:
-
-- Further increases to attributes and secondary stats. Everyone has this in
-  their advantage table, and it essentially means spending these points there
-  instead of buying advantages.
+categories beyond the standard "increased stats plus Luck":
 
 - Stuff that makes you tougher, both against HP damage and against the sort of
   Bad Stuff that demands resistance rolls.

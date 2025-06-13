@@ -80,23 +80,23 @@ grenades.
 
 Your standard non-combat skill package includes a _lot_ of social skills, plus
 singing, one musical instrument skill of your choice, and musical
-composition. Then you pick six skills from a table that includes some rogue
-stuff and more situational social and adventuring skills.
+composition. Your optional background skills include some rogue stuff and more
+situational social and adventuring skills.
 
 
 ## Spells
 
 You get to pick 15 wizardly spells from the Communication and Empathy, Mind
-Control, or Sound colleges. Your "power talent" is Bardic Talent, and its
-default level means your spells will start out at level 14 or 13 depending on
-their difficulty.
+Control, or Sound colleges. Your Power Talent is Bardic Talent, and its default
+level means your spells will start out at level 14 or 13 depending on their
+difficulty.
 
-Your level of Bardic Talent acts as the Power Talent these spells, and you learn
-them as if you were a wizard. This means you must respect prerequisite chains,
-and your spellcasting is sensitive to local mana levels. If one of the prereq
-spells is outside of these colleges, you must learn it but can't cast it. As an
-additional requirement, you must be able to _sing_ to cast spells with Bardic
-Talent. Don't let then silence you!
+Your bard spells are considered wizardly, and you learn them as if you were a
+wizard. This means you must respect prerequisite chains, and your spellcasting
+is sensitive to local mana levels. If one of the prereq spells is outside of
+these colleges, you must learn it but can't cast it. As an additional
+requirement, you must be able to _sing_ to cast spells with Bardic Talent. Don't
+let then silence you!
 
 
 ## Special Bard Traits
@@ -106,12 +106,14 @@ and adds its level to any rolls required by those powers. It also boosts your
 Musical Composition, Singing, and Musical Instrument skills.
 
 Bard-Song abilities have the same limitations as wizard magic: they require mana
-to work, they're affected by Magic Resistance, and they can be
-dispelled. However unlike spells they don't cost Fatigue Points, so you can use
+to work, they're affected by Magic Resistance, and they can be dispelled. You
+also must be able to sing or play an instrument to use them, like for your
+spells. However unlike spells they don't cost Fatigue Points, so you can use
 them as often as you like.
 
 - **Song of Command** (35 points): Win a contest of your IQ vs. your target's
-  Will, and you can control their mind for as long as you play.
+  Will, and you can control their mind for as long as you keep singing or
+  playing an instrument.
 
 - **Song of Echoes** (14 points): It's an active sonar! Use your Hearing roll to
   perceive your surroundings through darkness or fog, or to spot invisible

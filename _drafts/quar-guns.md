@@ -1,0 +1,207 @@
+---
+layout: post
+title: "Quar and Their Guns in GURPS"
+tags:
+    - gurps
+    - quar
+---
+
+Recently, I became aware of the Quar. Aren't they neat?
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/quar-unit.png" | absolute_url }}"/>
+  <figcaption>
+  A squad of Quar soldiers, with officers, standard-bearer, and messenger
+  squirrel handler. Source: https://rhyfler.com
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+These funny anteater people are the stars of a couple of miniature wargames, the
+28mm-scale **Clash of Rhyfles** and the 15mm-scale **This Quar's War**. Both of
+these have their rulebooks freely available [here][1], which is also where the
+image above comes from.
+
+An individual Quar is a funny little person who just wants to chill with a hot
+cup of tea and a plate of moth cakes. Quar _societies_ however are very, er,
+quarrelsome, so most of their history is an endless procession of wars.
+
+The wargames cover a particularly turbulent period of worldwide trench warfare
+between two coalitions, one made up of monarchists and the other of
+republicans. The tech level is somewhere between WWI and WWII, and this is
+pretty much the war that introduced industrial warfare to their world.
+
+If the idea of these adorable creatures being fed into one of the worst
+meat-grinders imaginable is horrifying to you, then you get the setting's main
+idea. I've heard it described as "grimsical". It replaces the "dark" vibe from
+"grimdark" with "whimsical", but it's still grim. The cuter the miniatures for
+their soldiers and tanks get, the stronger the dissonance becomes.
+
+I was motivated to write this article both because I think the setting is neat,
+and because the technical information about Quar weapons in the Clash of Rhyfles
+game made me think I can stat them up in GURPS.
+
+## Very Short Setting Summary
+
+The Clash or Rhyfles quickstart book centers on the two main factions of the
+war. The Crusade is a coalition of nations who successfully toppled their
+traditional monarchies and became republics. They're led by the now-Republic of
+Tok. Coftyr leads an alliance of the world's remaining monarchies to stamp out
+this revolution. Free add-ons provide details for factions allied to either
+side.
+
+As usual for wargames, both sides are morally ambiguous. Opposing monarchy is a
+good thing in my book, but the Crusade is also the side that introduced
+industrial warfare to the world. Coftyr flavor text is all about honor and
+chivalry and heroism, but they adopted industrial warfare just as readily and at
+the end of the day are still defenders of absolute monarchy.
+
+I get the impression that the world of Alwyn could settle into a more or less
+stable configuration if everyone just stopped and signed a status quo peace
+treaty, but they've all been fighting for 20 years by now and none of their
+leaders show any sign of wanting to stop.
+
+As usual for wargames, you pick the side you think looks neater, paint them up,
+and pit them against other factions in battles that would fit somewhere in those
+many years of war. Most of these battles focus on infantry with the occasional
+tanks thrown in. There seem to be airships, but I don't know if they have
+airplanes yet.
+
+## Quar in GURPS
+
+The typical Quar is about 1.5 meters tall and weights around 60kg. They follow a
+largely humanoid body plan. Their skins can take on any of a large number of
+hues, from yellows and greens to blues and purples and oranges. Often, they're a
+little mottled. Their diet tends to include lots of bugs, though those are often
+prepared as ingredients in dishes that we would otherwise recognize.
+
+Stat-wise, I'd say they are absolutely identical to humans. If you insist on
+being strict, make them about a foot shorter than their ST would indicate, but
+do not adjust their stats in any other way. Being a Quar costs 0 points.
+
+Because that's the thing, you see? Quar are just people. The horrors inflicted
+on them are horrible because _war_ is horrible, not because Quar are adorable.
+
+## Quar Guns in GURPS
+
+The Clash of Rhyfles includes enough fluff about the infantry weapons of the
+Crusade that I kinda want to try statting them up in GURPS. If I ever get the
+same information for the Coftyri ones, I'll stat them up too.
+
+The book mentiones the muzzle velocity and caliber of a couple of the weapons,
+and if I make a guess about the weight of the bullet I can plug those three
+things in the simplest possible version of the [unofficial official GURPS
+ballistics equation][2] to get a damage figure.
+
+That link also contains a complete spreadsheet that demands things like chamber
+pressure, which I have no chance of figuring out. So stuff like Accuracy and
+range will be derived by the older method of eyeballing existing guns, as will
+bullet weight.
+
+The numbers in the original material are just there for color, of course. None
+of them affect the rules of the miniature wargame itself. But if we take them as
+true, we see that Quar are very fond guns with big bullets and powerful
+propellant charges, fired out of guns with short barrels and very light
+construction. The recoil on those is gonna be ridiculous.
+
+### The Bogen Rifle
+
+The signature weapon of the Crusade rhyfler, the Bogen semi-automatic rifle is
+said to fire a 12mm bullet at 580m/s. It uses a 5 or 10 round magazine and
+weights 2.4kg "fully loaded". Its effective range is 150-250 meters.
+
+The closest real-world bullet to this one in GURPS High-Tech is the
+.45-something family of rifle rounds, which are 11.43mm in diameter and weight
+31 grams. After some fiddling, I decide to go with a slightly lower 27 grams for
+the Quar bullet, which gives us exactly 7d damage. This is pi+ because of the
+caliber.
+
+This gives us a gun that packs about the same punch as a real-world M1 Garand
+rifle while having almost exactly half its weight and about the length of an M16
+assault rifle. That's going to have a significant kick, to say the least.
+
+| TL | Weapon | Damage | Acc | Range    | Weight       | RoF | Shots | ST  | Bulk | Rcl |
+|:--:|:------:|:------:|:---:|:--------:|:------------:|:---:|:-----:|:---:|:----:|:----|
+| 7  | Bogen  | 7d pi+ | 3   | 900/3500 | 2.4kg/0.36kg | 3   | 5(3)  | 11† | -5   | 4   |
+
+If you decide to double the weight of the rifle to get something a bit more
+realistic and easier to handle, use the following stats: Acc 5, Weight
+5kg/0.36kg, ST 10†, Rcl 3.
+
+
+### The Rhyshi (R4) Heavy Rifle
+
+Only slightly longer than the Bogen, the Rhyshi fires a huge 20mm round with a
+720m/s muzzle velocity. Its magazine carries seven of those, and it's said to
+require a solid stance and firm support to shoot with any kind of accuracy. A
+squad mate's shoulder will do for support, according to the book, but I'm
+guessing rhyflers will also want to fit bipods to their guns if they can. If
+conditions are met, the R4 has greater range than the Bogen, and can penetrate
+up to "medium" vehicular armor.
+
+The closest thing to this I can find on High-Tech is the Mauser Tank-Gewehr 18,
+the WWI German anti-tank rifle. Its caliber is "only" 13mm, but it's the largest
+anti-tank rifle in that table that is even removely Quar-portable. Plugging its
+bullet mass, caliber and printed velocity in our magic spreadsheet, we get 10d+3
+damage, which following High-Tech convention can be rounded and written as
+5dx2. Let's also give it an armor-piercing round, because I see the WWI tank
+examples in the book have DR 45.
+
+5dx2 is the same damage as the T-Gew18, but the Rhyshi again weights less than
+half of what the real gun does. It's not that much longer than the Bogen either,
+so it's gonna be a beast to handle unless it's properly braced. As the book
+says, Quar Crusaders frequently attach a bayonet to the Rhyshi because there's
+no way it can be fired in close quarters.
+
+| TL | Weapon | Damage      | Acc | Range     | Weight    | RoF | Shots | ST   | Bulk | Rcl |
+|:--:|:------:|:-----------:|:---:|:---------:|:---------:|:---:|:-----:|:----:|:----:|:----|
+| 7  | Rhyshi | 5dx2(2) pi+ | 4   | 1100/4400 | 7.5kg/1kg | 3   | 7(3)  | 18B† | -6   | 7   |
+
+If you decide to double the listed weight for a more "realistic" gun, use the
+following stats: Acc 5, Weight 15kg/1kg, ST 16B†, Bulk -6, Rcl 5. This version
+of the Rhyshi would probably be too unwieldy to for bayonet fighting, so it's
+more firmly in the "sniper weapon" category.
+
+
+### Grifkis Shotgun
+
+This is a 10-gauge, six-kilo trench gun firing buckshot ammo. The only Crusade
+gun to still be largely hand-made, it's carried by officers as a badge of honor
+and a symbol of courage. The illustration shows its barrel is fairly short, but
+it still has a shoulder stock.
+
+No need to fiddle with spreadsheets this time, we have a 10G double-barrel
+shotgun in High Tech. Let's borrow its stats and adjust for the shortened
+"whippet" barrels:
+
+| TL | Weapon  | Damage  | Acc | Range  | Weight     | RoF  | Shots | ST  | Bulk | Rcl |
+|:--:|:-------:|:-------:|:---:|:------:|:----------:|:----:|:-----:|:---:|:----:|:----|
+| 6  | Grifkis | 2d-1 pi | 3   | 40/800 | 6kg/0.15kg | 2x13 | 2(3i) | 12† | -4   | 1   |
+
+The short barrels give this gun a more pronounced muzzle blast (+1 to Hearing
+and Vision to locate when fired in the dark). I'm using the listed weight for it
+here, which makes it about 50% heavier than the real world example from
+High-Tech. Big caliber, two barrels, extra chonky? This is basically the Doom
+Super Shotgun.
+
+### H-11a Light Machine Gun
+
+According to the book, this LMG fires the same round as the Bogen rifle, and the
+Crusade likes to use it as an offensive squad support weapon. It appears longer
+than the rifle, and can also be used in vehicular mounts when the force can't
+find heavier MGs to put in there.
+
+I think I'm just going to crib from High-Tech again, and blend some of the
+Bogen's stats with those of the MG34.
+
+| TL | Weapon | Damage | Acc | Range    | Weight     | RoF | Shots | ST   | Bulk | Rcl |
+|:--:|:------:|:------:|:---:|:--------:|:----------:|:---:|:-----:|:----:|:----:|:----|
+| 7  | H-11a  | 7d pi+ | 5   | 900/3500 | 15kg/2.5kg | 15  | 50(5) | 12B† | -7   | 2   |
+
+This gives us a gun that's actually heavier than the Rhyshi rifle, and whose
+recoil is manageable enough that it's worth firing more than one bullet per
+turn. It fires rounds from a non-disintegrating cloth belt.
+
+
+[1]: https://rhyfler.com

@@ -33,7 +33,7 @@ Swashbuckler's, but emphasize IQ more since this is our official skill monkey.
 
 All thieves start out with **Flexibility**, **High Manual Dexterity**, and
 **Perfect Balance**, all of which are excellent boosts to anything involving
-tricky movement and most phisically-oriented "thief skills".
+tricky movement and most physically-oriented "thief skills".
 
 They get 30 extra points for discretionary advantages, and their selection is
 actually a bit low on stat boosts: just DX and IQ instead of all four, and just
@@ -59,14 +59,15 @@ jobs.
 A thief's melee weapon skill choices are the same as the swashbuckler's, though
 their skill level will be a comparatively paltry 15 or 14 and they lack most
 melee support abilities. The most recommended option here seems to be "weapon
-and shield", instead of the swashbuckler's single blade. You're not a parry god,
-so having a shield or cloak in your off hand is a big help.
+and shield", instead of the swashbuckler's single blade. You're not a god of
+parrying, so having a shield or cloak in your off hand is a big help.
 
 You do get a _lot_ of mundane non-combat skills. All that sneaking and
 exploration stuff that's secondary and optional for everyone else is part of
-your starting spread, at better levels. You're particularly good at the stuff
-that maps to D&D's traditional thief skills: stealth, climbing, lockpicking,
-trap detection and disarming, etc. Also acrobatics and escaping from bonds.
+your starting spread, at much better levels. You're particularly good at the
+stuff that maps to D&D's traditional thief skills: stealth, climbing,
+lockpicking, trap detection and disarming, etc. Also acrobatics and escaping
+from bonds.
 
 Your secondary skill choices are mostly more "niche" areas of spying and crime
 like forgery, poisons and lip-reading, and also include a selection of social
@@ -83,9 +84,9 @@ mundane skills and a few special traits:
   your ST for _melee_ attacks that allow _no_ active defense because the victim
   couldn't see you coming. That means you start your turn behind them, or are
   invisible, or you're in a social situation where they didn't expect you to
-  attack. This goes beyond just stuff that would count as "combat advantage" in
-  D&D, and is much closer to the restrictions placed on the AD&D thief's
-  backstabs. You might get one of these per fight if you work for it, but the
+  attack. This is much closer to the restrictions placed on the AD&D thief's
+  backstabs than the conditions for getting combat advantage in modern D&D. You
+  need to put in the work to get one of these maybe once per fight, but the
   extra damage will be worth it.
 
 - **Gizmos** (5 points/each): Each Gizmo lets you pull one small item out of
@@ -111,11 +112,12 @@ The book recommends three example skill and advantage selections that can take a
 generic thief and turn them into a sneaky _burglar_, a stabby _assassin_, or a
 smart and silver-tongued _mastermind_.
 
-Generally speaking, it's all about the your mundane skills here. Unlike in D&D,
+Generally speaking, it's all about your mundane skills here. Unlike in D&D,
 thieves _never_ stop being relevant, even when there are utility spellcasters in
-the party. Those casters won't be casting spells on themselves to make the thief
-obsolete - they will casting spells _on the thief_ to make them even better at
-their jobs.
+the party. Utility spells usually don't let you skip skill rolls
+entirely. Therefore, those casters won't be casting spells on themselves to make
+the thief obsolete - they will casting spells _on the thief_ to make them even
+better at their job.
 
 Your thief's quirk points should be spent on more skills! There's some sweet
 high-tier thief gear out there but it's outside a starting character's price

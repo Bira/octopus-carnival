@@ -45,8 +45,8 @@ advantages that cannot be acquired by delvers of other professions.
 
 Disadvantages have _negative_ point costs, so they give you more points to spend
 elsewhere. For Dungeon Fantasy, the default disadvantage limit is -50. That's
-the maximum amount of problems your PC can start with. Lowered secondary
-characteristics count against this limit.
+the maximum amount of problems your PC can start with. Lowered attributes and
+secondary characteristics count against this limit.
 
 Many disadvantages can be "bought off" in play with earned character
 points. They can also be acquired in play, usually due to the kind of misfortune

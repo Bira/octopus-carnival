@@ -68,7 +68,7 @@ Ritual, Public Speaking, Theology, and a few others. They also know how to
 diagnose health problems and apply first aid, and a bit of lore about one type
 of traditional foe (demons, spirits, or undead). Optional skills include all the
 standard Adventurer stuff, plus some things like Research for the religious
-scholars and Panhandling for the mendicants.
+scholars, Panhandling for the mendicants, and additional enemy lores.
 
 ## Spells
 
@@ -77,9 +77,8 @@ player, with 1 point spent on each. More on how that works below.
 
 ## Special Cleric Traits
 
-Clerics can raise their Will all the to 25 instead of just 20. Clerical
-Investment is described in this section too, along with two esoteric skills that
-require it:
+Clerics can raise their Will to 25 instead of just 20. Clerical Investment is
+described in this section too, along with two esoteric skills that require it:
 
 - **Esoteric Medicine (Holy)**: A hard skill to learn, but it can replace
   mundane First Aid and Surgery in places with any level of sanctity above
@@ -88,12 +87,11 @@ require it:
 - **Exorcism**: Rituals for cleansing cursed areas and treating posession
   victims.
 
-
 The bulk of our special traits are supernatural powers, though. Cleric powers
-fall into two categories, both of which are granted by one or more patron
-deities. The powers of _Holy Might_ come from the "divine within" and cost no
-Fatigue to use. _Clerical Spellcasting_ draws from the surrounding sanctity, and
-does cost Fatigue.
+fall into two categories, both of which are granted by those campaign-specific
+Powers of Good. _Holy Might_ comes from the "divine within" and costs no Fatigue
+to use. _Clerical Spellcasting_ draws from the ambient sanctity, and does cost
+Fatigue.
 
 The cleric's Power Investiture acts as the "power talent" for both of them. The
 character needs at least one level in this talent to buy the related abilities.
@@ -105,7 +103,7 @@ simpler. The only prerequisite for learning a given spell is a minimum level of
 Power Investiture.
 
 Another advantage clerical spellcasting has over the wizardly variety is
-exclusive access to types of magic - most notably healing spells.
+exclusive access to certain types of magic - most notably healing spells.
 
 Cleric spells cost FP as normal, but depend on _ambient sanctity_ instead of
 mana. Sanctity is a measure of how much influence the cleric's deities have over
@@ -114,9 +112,9 @@ independent from it. Most places are normal sanctity. Higher sanctity can be
 found in temples or other places holy to the deity. Lower sanctity usually means
 you're in a place that's holy to the deity's enemies.
 
-So even if a cleric has some spell overlap with their wizard buddy, that can
-still be useful if they find themselves no a no-mana zone that's still normal
-sanctity.
+It's okay for the clerid to have some spell overlap with their wizard buddy, as
+they will still be able to cast if they find themselves no a no-mana zone that's
+still normal sanctity.
 
 ### Holy Might
 
@@ -143,9 +141,9 @@ This section contains a list of holy powers typical of clerics:
 
 - **Detect Evil** (18 points): With a second of concentration, you can roll to
   detect nearby sources of evil, by either focusing on a specific object or the
-  general are around you. You also get a hint as to the power of anything you
-  detect, and a vague clue about its nature. Critical success in the
-  identification roll provides details.
+  general are around you. You also get a hint as to the power level of anything
+  you detect, and a vague clue about its nature. Critical success in the
+  identification roll provides more details.
 
 - **Divine Guidance** (14 points): This works like the Intuition
   advantage. Given a bunch of options to choose, you can roll to figure out the
@@ -160,8 +158,8 @@ This section contains a list of holy powers typical of clerics:
 - **Faith Healing** (33 points): Non-spell divine healing! Unlike the other
   powers, this one does cost FP proportional to how much you heal, but it's not
   dependent on sanctity like a spell. You can also try to restore crippled limbs
-  or cure diseases. Cumulative uses of the same type of healing on the same
-  target give -3 per extra attempt.
+  or cure diseases. Cumulative uses of the same type of healing (spell or power)
+  on the same target give -3 per extra attempt. This resets daily.
 
 - **Turning** (24 points): The classic power to turn undead. It works on any
   undead that's also labeled "truly evil", or who's animated by magic described

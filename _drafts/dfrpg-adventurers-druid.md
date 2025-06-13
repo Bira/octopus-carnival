@@ -48,7 +48,8 @@ machinery. Mix and match as desired.
 
 These vows notably _don't_ include avoiding equipment made out of metal, which
 would be a very bad idea in this game. But you can choose to have a vow to
-follow a vegetarian diet or never sleep indoors.
+follow a vegetarian diet (which raises your cost of living) or never sleep
+indoors.
 
 ## Skills
 

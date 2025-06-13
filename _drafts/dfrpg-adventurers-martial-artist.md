@@ -18,7 +18,7 @@ _This_ Martial Artist however, is the kind who's freshly graduated from an
 ascetic monastery in a faraway land or perhaps from a local mystical
 sect. They've learned a form of unarmed combat that's better than what the other
 professions learn, and they wield weapons that can seem pretty exotic to those
-other delvers. Most importantly, they learned how to harness their inner
+other delvers. Most importantly, they learned how to cultivate their inner
 strength through special exercises and meditation, and they can use that to
 manifest supernatural powers.
 
@@ -51,7 +51,8 @@ They have 40 points to distribute between optional advantages, which include the
 usual stat boosts, stuff useful for combat, and some advantages representing
 great mental resilience. Weapon Master also makes an appearance here, in its
 20-point version that covers any one single weapon. The book says "one exotic
-weapon", but the extra qualifier is only there to keep things in-theme.
+weapon", but the extra qualifier is only there for "flavor". It's not an
+official equipment classification.
 
 ## Disadvantages
 
@@ -67,21 +68,21 @@ fight unarmed.
 
 Yes, Social Stigma (Minority Group) is optional for Martial Artists. Not all of
 them come from a mysterious faraway land. I remember seeing one who was a local
-dwarf who worn plate mail and fought using twin battleaxes as weapons.
+dwarf who wore plate armor and fought using twin battleaxes as weapons.
 
 ## Skills
 
 You always know the "good" unarmed combat skills, named Judo (for grappling) and
 Karate (for striking). Everyone else has to make do with less "advanced"
-versions that are easier to learn, like Wrestling and Brawling. This is the
-largest bit of legacy gunk we haven't yet managed to shed.
+versions that are easier to learn, like Wrestling and Brawling. These names are
+the largest bit of legacy gunk we haven't yet managed to shed.
 
 The choice of combat skill package determines if you know these unarmed skills
 at 15 plus two weapons at 17, unarmed at 16 and one weapon at 17, or one unarmed
 skill at 17 and the other at 16. These are pretty good starting levels, but are
-still behind what other dedicated combatants get to start. The weapon list
-includes stuff we've seen already, but also some "signature" skills like Tonfa,
-Jitte/Sai, and Kusari.
+still behind what other dedicated combatants get. The weapon list includes stuff
+we've seen already, but also some "signature" skills like Tonfa, Jitte/Sai, and
+Kusari.
 
 For ranged combat, you probably use thrown weapons. Your list of default
 non-combat skills is sparse, but very focused on mobility. Optional skills are
@@ -142,9 +143,9 @@ not affected by anti-magic measures.
 
 - **Unarmed Master** (25 points): An absolute necessity if you want to
   specialize in unarmed combat. This eliminates the chance of hurting yourself
-  when striking hard surfaces, and doesn't let enemies automatically shift their
-  target to your limbs if you fail a parry. It also grants a +1 per die bonus to
-  your unarmed damage, which does stack with Seven Secret Kicks.
+  when striking hard surfaces, and of giving enemies free attacks on your limbs
+  when they parry your strikes. It also grants a +1 per die bonus to your
+  unarmed damage, which does stack with Seven Secret Kicks.
 
 - **Uninterrupted Flurry** (20 points): Once per battle, you can speed up and
   take 2 actions per turn instead of just one, for the next 1d turns. Ora ora
@@ -188,6 +189,6 @@ money unless you choose a sword as your main weapon. The other options are
 pretty cheap, and leave them with enough change to buy some decent hand and foot
 armor for when they need to fight unarmed.
 
-Yes, that does mean that in a funny enough campaign you might be able to spot a
+Yes, that does mean that in a humorous campaign you might be able to spot a
 martial artist by their tattered robes and immaculately maintained heavy boots
 and gauntlets.

@@ -8,9 +8,9 @@ tags:
 ---
 
 While everyone else was... doing whatever it is they do, the Swashbuckler
-mastered the blade. This is the template for people who like precision, speed
-and elegance in their fighting style, but unlike the Martial Artist prefer to
-bring an actual sword to a swordfight.
+studied the blade. This is the template for people who like precision, speed and
+elegance in their fighting style, but unlike the Martial Artist prefer to bring
+an actual sword to a swordfight.
 
 The two templates share some of the same ethics, you could say. They emphasize
 the role of skill attained through countless hours of practice, and how that
@@ -26,7 +26,7 @@ secondary stats, but their natural speed is already at 7.
 
 ## Advantages
 
-We get quite a bit to start with! **Combat Reflexes**, one level **Enhanced
+We get quite a bit to start with! **Combat Reflexes**, one level of **Enhanced
 Parry** with a specific weapon skill, **Luck**, **Weapon Bond**, and **Weapon
 Master** (One Weapon).
 
@@ -74,7 +74,7 @@ chose.
 Your fixed skill list includes basic mobility and unarmed combat, throwing, and
 some social and mobility skills. The list of optional skills has the usual
 "delver lore" ones and lets you go deeper into mobility or socialization. Or
-perhaps you could take a more exotic backup weapon like a whip or lasso.
+perhaps you could take a more unusual backup weapon like a whip or lasso.
 
 ## Special Swashbuckler Traits
 

@@ -10,7 +10,8 @@ tags:
 The Scout resembles the D&D Ranger, but not just any ranger. It's specifically
 the D&D 4th Edition Archer Ranger. This profession has nothing to do with magic,
 but is very skilled at sneaking, tracking, and surviving in the wild. And they
-love to reach out over great distances and touch people's hearts (with arrows).
+love to reach out across the distance between people and touch their hearts
+(with arrows).
 
 This is ultimately a very simple template, but it also does its job extremely
 well, and it's likely to be your main point of engagement with the DFRPG's
@@ -95,6 +96,7 @@ Reflexes and focuses heavily on the ability to travel and protect the
 wilderness. And the _sharpshooter_ is an assassin who min-maxes their shooting
 capabilities.
 
-Note that there is no "dual-wielding ranger" build here - that's very much a
+Note that there is no "dual-wielding scout" build here - that's very much a
 D&D-ism you can blame squarely on Drizz't. The Scout is first and foremost an
-archer. The wilderness-focused melee specialist is the Barbarian.
+archer. The wilderness-focused melee specialist is the Barbarian, and the one
+most likely to dual-wield is the Swashbuckler.
