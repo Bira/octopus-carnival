@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jun 2025 14:45:16 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 14:45:16 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 14:57:04 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 14:57:04 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -195,15 +195,9 @@ monster attacks.&lt;/p&gt;
 
 &lt;p&gt;PC damage also has some upper bounds. Spellcasters with missile spells and a
 spellcasting talent of 6 can do a maximum of 18d damage, though that requires
-enough setup to only be possible about once per fight, and not on all fights.&lt;/p&gt;
-
-&lt;p&gt;A ST 20 Knight with Weapon Master and a halberd can easily attack twice every
-turn and do 3d+13 per attack. This is theoretically possible right out of
-character creation if your knight is a half-ogre.&lt;/p&gt;
-
-&lt;p&gt;A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once per
-turn and do about 4d+10 per shot. This particular boundary is hard to reach, so
-your highest “at-will” ranged damage will probably be less than that.&lt;/p&gt;
+enough setup to only be possible about once per fight, and not on all
+fights. The maximum amount of “at-will” melee and ranged damage a PC can do is
+equivalent to about 7d per attack&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;p&gt;Introducing ultra-tech armor into the game almost certainly means you’re going
 to exceed the DR cap. Even non-combat safety gear at these tech levels has as
@@ -249,6 +243,17 @@ the PCs using them outside.&lt;/p&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;The article itself includes a section titled “The Sociological
 Ramifications are Appalling”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A ST 20 Knight with Weapon Master and a halberd can easily attack twice
+every turn and do 3d+13 per attack. This is theoretically possible right out
+of character creation if your knight is a half-ogre. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once
+per turn and do about 4d+10 per shot. This particular boundary is hard to
+reach, so your highest “at-will” ranged damage will probably be less than
+that. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
