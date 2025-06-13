@@ -5,9 +5,263 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jun 2025 16:52:49 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 16:52:49 +0000</lastBuildDate>
+    <pubDate>Fri, 13 Jun 2025 14:42:56 +0000</pubDate>
+    <lastBuildDate>Fri, 13 Jun 2025 14:42:56 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Ultra-Tech Dungeon Delving in GURPS</title>
+        <description>&lt;p&gt;I started writing this post a few years ago when I was GMing the Iron Gods
+adventure path for Pathfinder using the Dungeon Fantasy RPG rules. My approach
+to that campaign was pretty slap-dash, and after I stopped I began thinking of a
+more structured way to do it. Since a recent comment here on the blog asked for
+specifics, I though I’d dust the post off and publish it.&lt;/p&gt;
+
+&lt;p&gt;Let’s say you have a Dungeon Fantasy game where you want your characters to get
+into contact with more advanced technology. How would you go about it?&lt;/p&gt;
+
+&lt;h2 id=&quot;ultra-tech-delving-a-survey&quot;&gt;Ultra-Tech Delving: A Survey&lt;/h2&gt;
+
+&lt;p&gt;Steve Jackson games did a little foray into this area in Pyramid #3/60, in an
+article entitled “High-Tech Dungeon Crawl”, which focused on bringing modern-day
+characters with guns into fantasy dungeons to mow down orcs with autofire and
+take their stuff. This raises the inherent level of colonalism in the genre from
+“concerning” to “yikes!”&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;What I want to focus on here is in an older variation on the theme: fantasy
+characters exploring “dungeons” filled with elements you might be more used to
+seeing in science fiction stories. When I say “older”, I mean it’s &lt;em&gt;older than
+D&amp;amp;D&lt;/em&gt;: Dave Arneson’s Blackmoor campaign featured a whole ultra-tech city-state
+descended from the crew of a crashed spaceship, and it was played for several
+years before what became the OD&amp;amp;D rules were finalized and officially
+published. D&amp;amp;D proper would explore the same territory with its famous
+“Expedition to the Barrier Peaks” module.&lt;/p&gt;
+
+&lt;p&gt;Pathfinder dedicates a whole kingdom in its setting to the idea: the land of
+Numeria is a barbarian kingdom where a giant spaceship crashed millenia ago,
+breaking up during atmospheric entry and scattering its many modules all over
+the region. And, of course, in Gamma World and other post-apocalyptic games
+&lt;em&gt;all&lt;/em&gt; “dungeons” are ultra-tech because they’re the ruins of the futuristic
+civilization that preceded the apocalypse.&lt;/p&gt;
+
+&lt;h2 id=&quot;ultra-tech-delving-in-gurps&quot;&gt;Ultra-Tech Delving in GURPS&lt;/h2&gt;
+
+&lt;p&gt;GURPS is of course a uniquely well-suited system for this kind of thing. Its
+rules already support a wide range of genres and technology levels from the
+corebook onwards. We only need a few adjustments depending on the sort of
+campaign we want.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;After The End&lt;/em&gt; already deals with the post-apocalyptic angle and offers a set
+of detailed rules. What I want, however, is something simpler and more suited to
+a Barrier Peaks/Numeria scenario. The ultra-tech stuff is alien, but characters
+can gain an understanding of it with some investment, and the gap between their
+usual medievalish milieu and the lofty heights of alien tech isn’t completely
+impossible to cross. How would I do it?&lt;/p&gt;
+
+&lt;h3 id=&quot;tech-level-or-the-lack-thereof&quot;&gt;Tech Level, or the Lack Thereof.&lt;/h3&gt;
+
+&lt;p&gt;So on one side we have the usual “medievalish” dungeon fantasy setting. In
+GURPS, that’s roughtly TL 4, but without gunpowder. On the other side we have a
+space-opera intrusion, which corresponds very roughly to a TL9-10 selection with
+a few outliers (personal shields are TL11-12, but they fit the flavor). With
+these vague numbers in mind, we can ditch the concept of Tech Levels completely
+for our treatment!&lt;/p&gt;
+
+&lt;p&gt;Default GURPS Tech Level rules are only useful for giving us a starting set of
+gadgets to work with. In actual play, the only thing that matters is if a given
+thing is “low-tech” and thus familiar to everyone, or “high-tech” and thus a
+mystery to the uninitiated. How to differentiate both? With the following
+advantage:&lt;/p&gt;
+
+&lt;h3 id=&quot;tech-familiarity-10-points&quot;&gt;Tech Familiarity (10 points)&lt;/h3&gt;
+
+&lt;p&gt;You have a layman’s knowledge of the basic principles behind the advanced
+technology scattered through your otherwise medieval fantasy world. You
+understand why it isn’t magic. You know about electricity and how it powers
+high-tech devices. You grasp enough of the high-tech design aesthetic to easily
+spot a device’s charging port or battery, its control surfaces (be they
+switches, triggers, or touchpads), its information displays, and its business
+end even if you don’t know what the thing actually &lt;em&gt;does&lt;/em&gt;. You can identify the
+high-tech civilization’s writing even though you can’t read it, and you can
+identify its iconography for “danger”.&lt;/p&gt;
+
+&lt;p&gt;This is a form of Unusual Background that makes you immune to the sort of
+amusing accident which plagues low-tech unfortunates confronted with high-tech
+devices. You can also recognize hazards like exposed live wires, recognize which
+type of power cell goes into a device, and plug it in.&lt;/p&gt;
+
+&lt;p&gt;More importantly, Tech Familiarity is a pre-requisite for learning high-tech
+skills, and the language of the high-tech civilization (if any). With this
+advantage, you can spend points on those things normally.&lt;/p&gt;
+
+&lt;p&gt;Yes, this is quite similar to High TL from the core book, but much cheaper. The
+reason is that paying 30-35 points in High TL to get the same benefits is way
+too expensive for a campaign in this mold. This advantage doesn’t give you any
+familiarity with deeper aspects of the high-tech civilization, just what’s in
+the first paragraph.&lt;/p&gt;
+
+&lt;h3 id=&quot;tech-skills&quot;&gt;Tech Skills&lt;/h3&gt;
+
+&lt;p&gt;Skills that would require a /TL specialization in standard GURPS rules have only
+two versions here: standard (no suffix) and “/Tech”. That way, you don’t need to
+change anything about how you write down a standard “medievalish” character.&lt;/p&gt;
+
+&lt;p&gt;The two specialties don’t overlap at all: they don’t default to each other, and
+can’t be used at all across the “tech divide”. If you only have standard
+Lockpicking, you can’t open a high-tech door with a magnetic lock. If you only
+have Lockpicking/Tech, you can’t open low-tech mechanical locks with
+old-fashioned picks, tough you might be able to operate a machine that does it
+for you.&lt;/p&gt;
+
+&lt;p&gt;High-tech weapons are usually firearms of beam weapons - the skills to operate
+them properly are always “/Tech” skills. High-Tech &lt;em&gt;melee&lt;/em&gt; weapons are a
+possible exception to the “no defaults” rule above, though the GM would need to
+rule on each case:&lt;/p&gt;
+
+&lt;p&gt;Weapons that use the same skill as their low-tech counterparts can be used
+normally by anyone if the only difference is in their construction (such as a
+superfine or hyperdense blade). If they have some additional feature that
+requires power (such as a vibroblade or shock baton) then the character has a -2
+penalty to use that feature unless they have Tech Familiarity. If they require
+an exclusive skill to operate (like a force sword or monowire whip) then that
+skill has the “/Tech” suffix. You might be able to get away with a default to a
+low-tech skill here, but the only way to improve on that is to buy Tech
+Familiarity and the high-tech skill.&lt;/p&gt;
+
+&lt;h3 id=&quot;ultra-tech-gear&quot;&gt;Ultra-Tech Gear&lt;/h3&gt;
+
+&lt;p&gt;With the character stuff out of the way, we can talk about the goodies! As I
+mentioned above, one advantage of GURPS is that it has entire books of high- and
+ultra-tech gadgets that can be plugged straight into your fantasy
+campaigns. Therefore, we don’t need to talk about how to stat this stuff up at
+all! What we &lt;em&gt;do&lt;/em&gt; need is talk about the effects it’s going to have on your
+campaign, which in turn will aid you in selecting which items to include.&lt;/p&gt;
+
+&lt;h4 id=&quot;how-much-is-this-stuff-worth&quot;&gt;How much is this stuff worth?&lt;/h4&gt;
+
+&lt;p&gt;A vital question in the dungeon fantasy genre! Going more or less by the book,
+high-tech items should be worth roughly 30 times their list price in a dungeon
+fantasy setting. That makes even a relatively innocuous gadget into a major
+piece of loot!&lt;/p&gt;
+
+&lt;p&gt;This might seem a bit too much for a dungeon fantasy setting where magic and
+magic items are relatively common, but I think it kinda makes sense. Ultra-tech
+items are going to be a lot rarer than magic items, particularly in settings
+where they come from that single crashed spaceship. They work regardless of the
+local mana and sanctitiy levels. And they can be enchanted! These are exactly
+the same reasons why a suit of fine plate armor costs more than a standard suit
+enchanted with Lighten 1.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A superfine broadword would cost $3600 in its native ultra-tech
+society. Recovered from a crashed spaceship in a dungeon fantasy setting, it’s
+worth $108,000!&lt;/p&gt;
+
+&lt;p&gt;That sword gives a +2 bonus to damage and a (2) armor divisor. The closest
+“low-tech” equivalent would be a very fine sword with a Penetrating Weapon
+enchantment, worth $17,000, almost ten times cheaper. Even if all the bonuses
+were from magic, it would still cost only $25,600. However, the superfine blade
+will lose none of its functionality in a low- or no-mana zone, and it could be
+enchanted with the same magic as the low-tech sword to become even better.&lt;/p&gt;
+
+&lt;p&gt;If you &lt;em&gt;do&lt;/em&gt; think that this is too much, you could say that the value of
+ultra-tech gear is capped by the value of magic items with similar
+properties. The sword from the example would be worth $17,000 then. Gear that
+has no magical equivalent might still use the “uncapped” price.&lt;/p&gt;
+
+&lt;h4 id=&quot;timeworn-gear&quot;&gt;Timeworn Gear&lt;/h4&gt;
+
+&lt;p&gt;One concept from Pathfinder that’s useful to borrow is that of timeworn
+items. In Barrier Peaks-style setups, most of the high-tech stuff the PCs come
+across has been sitting around in derelict ruins for a very long time; even if
+it was very well-built, it might not have withstood the passage of the ages
+intact. To model that, we introduce the following equipment modifier:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Timeworn&lt;/strong&gt;: This can be applied to any high-tech armor, weapon, or device that
+requires power or ammunition to function. These items can’t be recharged. After
+whatever reserves they contain when found are used up, they’ll break down and
+become useless. They may also have other quirks arising from their almost-broken
+state at the GM’s discretion. Divide final price by 10.&lt;/p&gt;
+
+&lt;h4 id=&quot;weapons-and-armor&quot;&gt;Weapons and Armor&lt;/h4&gt;
+
+&lt;p&gt;Weapons and armor deserve special mention because Dungeon Fantasy is a
+combat-heavy genre, and this combat has a very specific “feel” to it. Therefore,
+high-tech combat gear will have an outsize impact on it.&lt;/p&gt;
+
+&lt;p&gt;Baseline Dungeon Fantasy suggests that PCs should have a maximum total DR of
+about 15, as anything more than that will make them invulnerable to too many
+monster attacks.&lt;/p&gt;
+
+&lt;p&gt;PC damage also has some upper bounds. Spellcasters with missile spells and a
+spellcasting talent of 6 can do a maximum of 18d damage, though that requires
+enough setup to only be possible about once per fight, and not on all fights.&lt;/p&gt;
+
+&lt;p&gt;A ST 20 Knight with Weapon Master and a halberd can easily attack twice every
+turn and do 3d+13 per attack. This is theoretically possible right out of
+character creation if your knight is a half-ogre.&lt;/p&gt;
+
+&lt;p&gt;A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once per
+turn and do about 4d+10 per shot. This particular boundary is hard to reach, so
+your highest “at-will” ranged damage will probably be less than that.&lt;/p&gt;
+
+&lt;p&gt;Introducing ultra-tech armor into the game almost certainly means you’re going
+to exceed the DR cap. Even non-combat safety gear at these tech levels has as
+much DR as low-tech plate, while being much lighter. Proper combat armor is much
+tougher. Most of the published DF enemies will have trouble getting past the DR
+of a PC in full ultra-tech armor with their physical attacks.&lt;/p&gt;
+
+&lt;p&gt;Similarly, high-tech weapons can change the shape of combat in your
+campaign. Dungeon Fantasy usually considers melee to be the main event and
+ranged combat to be a specialist niche, but if guns and beam weapons are common
+these two are going to swap places.&lt;/p&gt;
+
+&lt;p&gt;Ultra-tech melee and ranged weapons can also allow PCs to approach or exceed the
+upper damage bounds described above much more easily. Both “boundaries” are
+roughly equivalent to rolling 7d of damage per attack. A force sword does 8d; a
+laser rifle does 6d, and can can fire many more shots per turn than a bow with
+no penalty. Both of those have armor divisors too, which make enemy DR become
+much less of an obstacle.&lt;/p&gt;
+
+&lt;p&gt;The first step when addressing these issues is to carefully consider which items
+are available. What do you want your campaign’s new DR cap to be? What is the
+highest armor divisor you’re comfortable with? What sort of maximum damage do
+you want your PCs to do with a melee or ranged attack they can use every second?
+And, to quote Mister Torgue from Borderlands 2: EXPLOSIONS?&lt;/p&gt;
+
+&lt;p&gt;The second step is to consider the same thing from the side of the opposition:
+what’s the highest DR and damage you estimate &lt;em&gt;they&lt;/em&gt; will be able to routunely
+bring to the table? The gear available to the PCs should give them a chance to
+match those figures.&lt;/p&gt;
+
+&lt;p&gt;You can then safely remove anything that exceeds your new planned limits. That
+will end up giving you a pretty good set of guidelines for what the ultra-tech
+culture and their ruins look like. A civilian medical lab infested with
+non-sapient monsters and low-tech looters might have plenty of medkits and
+wonder drugs, but no weapon heavier than a couple of timeworn electrolasers and
+some scalpels the thief can use as superfine daggers. For a military base filled
+with killer robots and with a tank at the end as a boss fight, the sky is the
+limit, though those anti-tank weapons might all be timeworn if you don’t want
+the PCs using them outside.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;The article itself includes a section titled “The Sociological
+Ramifications are Appalling”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Hell&apos;s Rebels: Adventure 04, Part 3</title>
@@ -1811,253 +2065,6 @@ brief.&lt;/p&gt;
         <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2024/01/28/hackaton-hwi.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/01/28/hackaton-hwi.html</guid>
-        
-        <category>shadowrun</category>
-        
-        <category>cyberpunk-red</category>
-        
-        <category>gurps</category>
-        
-        <category>cyberpunk</category>
-        
-        <category>hard-wired-island</category>
-        
-        <category>neon-city-overdrive</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Great Tabletop Hackathon: Neon City Overdrive</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/nco-cover.png&quot;/&gt;
-   &lt;figcaption&gt;
-     Neon City Overdrive&apos;s cover.
-   &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Neon City Overdrive is a game written by Nathan Russel and published by Peril
-Planet Game Studio in 2020. This is the smallest core book of all the ones we’ve
-seen so far at 72 pages.&lt;/p&gt;
-
-&lt;p&gt;We’ll also be looking at a supplement named The Grid, which focuses on hacking
-and has another 60 pages.&lt;/p&gt;
-
-&lt;h2 id=&quot;setting-overview&quot;&gt;Setting Overview&lt;/h2&gt;
-
-&lt;p&gt;Most of those 132 pages are dedicated to the setting and to a set of adventure
-seeds, both of which are largely based on &lt;em&gt;vibes&lt;/em&gt; instead of relying on
-laboriously crafted timelines or detailed maps. This is the game of stylish
-cyberpunks running dangerous jobs in a neon-lit sprawl. The reader is expected
-to take it from there to add details as needed.&lt;/p&gt;
-
-&lt;p&gt;The setting as provided is just a basic sketch. The game takes place in The
-City, which is divided into dense residential and commercial zones called
-Metroplexes, equally dense hellish industrial blocks named Grinders, and the
-Streets that flow in between. The City and the world it’s in are covered by the
-Grid, a global computer network where nearly every device that can be described
-as “electronic” or “computerized” has a presence.&lt;/p&gt;
-
-&lt;p&gt;The Grid gets a somewhat more detailed description because I’m using material
-from the supplement here. Like the physical world it has several components. The
-Signal lets all those devices connect to the Grid. It’s maintained by an army of
-antennas, and repeater drones. The devices attuned to the Signal generate The
-Overlay, which is projected into the physical world as a combination of
-holograms and augmented reality. Most devices have an augmented reality
-interface instead of physical controls, and most signage exists in the Overlay
-only. Hubs are big static computers. Some of them help route and maintain the
-Signal and the Overlay, or host public virtual environments, but others are
-private servers used by the sort of organization your cyberpunks need to hack.&lt;/p&gt;
-
-&lt;p&gt;You can use the grid through an interface that resembles a real-world smartphone
-or desktop browser, but it’s also possible to go into full immersion VR. This
-works as you’d expect if you’re familiar with the genre (and if you’ve read the
-other entries in this series, you are). We have our Gibsonian matrix here, with
-wireframe or low-poly graphics by default, but with specific hubs represented as
-more realistic environments. The more powerful the owner, the more realistic
-their hubs’ presentation.&lt;/p&gt;
-
-&lt;p&gt;A lot of social events happen entirely in the Grid’s virtual reality, from
-important business conferences to sport tournaments and nightclub
-gatherings. Virtual reality ensures they feel mostly like physical events. That
-sure would have been handy during our real world pandemic.&lt;/p&gt;
-
-&lt;p&gt;The downside is that “common” grid users are constantly monitored and
-tracked. Player characters and other dirty criminals have their ways of evading
-this, and despite the efforts of law enforcement agencies and corporate
-security, grid crime is very common and not going away any time soon.&lt;/p&gt;
-
-&lt;p&gt;When you go into VR, you emerge at the Local Area Zone corresponding to your
-physical location but can move to any other LAZ you can access with a
-thought. Movement within a LAZ is restricted to the sort of thing a real person
-would be able to do in the physical world, and the landscape reflects this. Want
-to go to a site in your LAZ? You need to walk. The book recognizes this is
-inconvenient. Some area zones are private, either disconnected from the public
-Grid entirely or separated from it by virtual gates that admit only those with
-the proper credentials. A skilled enough hacker might be able to break through a
-gate. Totally isolated networks can only be accessed by physically jacking into
-their hubs.&lt;/p&gt;
-
-&lt;p&gt;People can access the grid using wearable computers, which are cheap and widely
-available. Serious hackers (called &lt;em&gt;codeslingers&lt;/em&gt; here) have an implanted
-interface chip that has all the same functions and allows diving into VR as
-well. Those who can’t or won’t use implants can make do with a “Grid-box”, a VR
-helmet that also covers the mouth and nose. And both can further benefit from a
-sensory deprivation chamber if they’re &lt;em&gt;really&lt;/em&gt; serious.&lt;/p&gt;
-
-&lt;p&gt;This default presentation is subject to change, as GMs are encouraged to tweak
-the arrangement to get the right vibe they want. By tweaking the list of
-available technologies and how common they are you could get anything from
-mainframes-and-telephones with a chrome veneer to a Ghost in the Shell-like
-ubiquitous net where everyone has implanted computers.&lt;/p&gt;
-
-&lt;h2 id=&quot;mechanics-overview&quot;&gt;Mechanics Overview&lt;/h2&gt;
-
-&lt;p&gt;From what I understand the rules of Neon City Overdrive belong to the lineage of
-Forged in the Dark games. There are &lt;em&gt;no&lt;/em&gt; specific mechanics for the Grid here,
-not even if you use the supplement. Hacking uses the exact same mechanics as
-everything else.&lt;/p&gt;
-
-&lt;p&gt;Tests use six-sided dice. You start with one Action Die, and gain more for each
-factor in your character sheet or the story that helps you succeed, and a Danger
-Die for each factor that gets in the way. Then you roll the resulting pool. Each
-Danger Die cancels an Action Die that rolled the same value. You take the
-highest value rolled in the remaining Action Dice, and use it to determine the
-result. A 3 or less is a failure, a 4 or 5 is a partial success with a cost
-attached, and a 6 is a complete success. The book goes into a bit more detail
-than this, but we don’t need it for this article.&lt;/p&gt;
-
-&lt;p&gt;Narration and the fiction it creates are &lt;em&gt;supremely&lt;/em&gt; important because they’ll
-set the stakes for the roll and inform you of which positive and negative
-factors are in play to build your die pool. Players are the only ones who roll
-dice. Enemies and obstacles are a source of Danger Dice but the GM never needs
-to roll for them.&lt;/p&gt;
-
-&lt;p&gt;Hacking also uses those rules. The additional rules material in the Grid
-supplement is just a clarification that purely physical traits and tags don’t
-apply to tests made in the Grid, and Grid-specific ones don’t apply to the meat
-world. Can´t use your muscle grafts to hack the Gibson, can’t use your fancy
-programs to lift a car. Mental traits might apply to either “reality”, though.
-The book encourages focusing on the imagery of the simulation and making it as
-close to the physical world as possible, to make it easier for the group to
-describe actions without needing to know a lot about computers.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-parameters&quot;&gt;Run Parameters&lt;/h2&gt;
-
-&lt;p&gt;We’re supposed to set the exact shape of our Grid when we play, so let’s say
-it’s more or less the same as Shadowrun 4th Edition’s. It’s not a pure mesh
-network, there’s cell tower hubs and such, but it’s close enough for our
-purposes.&lt;/p&gt;
-
-&lt;p&gt;Our hacker will be going along with the physical team. The target office’s Grid
-layout is the same as in the SR4 version. The physical location surely has its
-own set of tags but the one that affects us is that our good disguises give us
-the &lt;em&gt;element of surprise&lt;/em&gt;. Losing this might be one of the consequences for a
-hacking complication here. In a real game that’d affect the rest of the team
-too.&lt;/p&gt;
-
-&lt;h3 id=&quot;target-systems&quot;&gt;Target Systems&lt;/h3&gt;
-
-&lt;p&gt;We have an office intranet that’s connected to the general Grid through a
-firewall, which we bypass by being inside the office. Its security from the
-inside is &lt;em&gt;nothing special&lt;/em&gt; except that access to the bank accounts is
-&lt;em&gt;well-guarded&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The internal security wireless network covers the office but not connected to
-the outside. It’s &lt;em&gt;hardened against intrusion&lt;/em&gt; and has a piece of Blue ICE
-that will trigger at the first complication.&lt;/p&gt;
-
-&lt;p&gt;Our secret server in the records room with no wireless network at all. Our
-hacker must physically jack into it. It’s also &lt;em&gt;hardened&lt;/em&gt;, and has Black ICE
-constantly watching over it.&lt;/p&gt;
-
-&lt;h3 id=&quot;our-hacker&quot;&gt;Our Hacker&lt;/h3&gt;
-
-&lt;h4 id=&quot;pixie-non-binary-human&quot;&gt;Pixie (non-binary human)&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Trademarks and Edges&lt;/strong&gt;: Metroplexer, Codeslinger (Hacking, Cyber Combat),
-Infiltrator (Alarms, Locks)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Flaws&lt;/strong&gt;: Greedy, Socially Awkward&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Interface Chip (Fast, Advanced), Icebreaker (Silent, Deadly), Stealth
-Program Suite (Mimetic, Subtle), something else non-hacking related.&lt;/p&gt;
-
-&lt;p&gt;Pixie is kinda min-maxed to fit our scenario, to be honest, with lots of traits
-that would apply to hacking. They’re a passable sneak in the physical world but
-not very good at physical combat and bad at social interaction. That’s what the
-rest of the team is for.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-summary&quot;&gt;Run Summary&lt;/h2&gt;
-
-&lt;p&gt;Our team gets into the office as usual - we always assume this part works
-out. Pixie hides in the bathroom to find the security network and hack into it
-via VR.&lt;/p&gt;
-
-&lt;p&gt;I decide to roll the security server hack as an extended task, since those
-require three successes and we have three goals in here. Pixie decides to use
-Infiltrator instead of Codeslinger for this, since it is an infiltration of
-sorts and that’s where they put put their Alarms and Locks edges. I’m being
-lenient towards my player (who is also me) here. Those traits plus all other
-relevant tags give Pixie a total of seven action dice.&lt;/p&gt;
-
-&lt;p&gt;Pixie is opposed by a single danger die, from the server being Hardened, but
-that die rolls a six and eats the one I rolled on the action dice. They’re left
-with a 5 and a 4, which count as successes towards our goal but apply
-consequences as well. So I rule we lost our Element of Surprise and that the
-Blue ICE on the server activated.&lt;/p&gt;
-
-&lt;p&gt;I rule that the ICE hasn’t found Pixie yet, but it does get to add its relevant
-tags as danger dice on the next roll as it looks for them. Fortunately none of
-those roll a six and the action dice do, allowing Pixie to unlock the final door
-ahead of time. Tests from this point on are made using Codeslinger as expected,
-since they deal purely with stuff that lives in the computer.&lt;/p&gt;
-
-&lt;p&gt;We get to the secret server and I rule that the Black Ice in there is already
-active but will only spot Pixie as a consequence - they start out stealthy. The
-ICE however does get to add its Counter-Intrusion and Scary tags as danger dice
-even so. Fortunately its rolls are crap and Pixie gets a 6, finding and
-downloading the evidence.&lt;/p&gt;
-
-&lt;p&gt;Finally, let’s go for the money! This means the office network’s Well-Guarded
-tag becomes a danger die, but as before the ice only comes online as a
-consequence. We roll a 5 here, so it does come online, but not before we
-transfer the money.&lt;/p&gt;
-
-&lt;p&gt;The physical team proceeds to try to leave the office, but as usual we stop our
-simulation here since the main hacking bits are done.&lt;/p&gt;
-
-&lt;p&gt;Total elapsed time: 15 minutes.&lt;/p&gt;
-
-&lt;h2 id=&quot;run-analysis&quot;&gt;Run Analysis&lt;/h2&gt;
-
-&lt;p&gt;I love engaging with crunchy mechanics but narrative systems do have their
-advantages! 15 minutes is the fastest time we have so far, beating the “silent
-run” from SR 4th Edition by 2 minutes. And this only took so long because I have
-absolutely no experience with Neon City Overdrive and had to keep looking at the
-books.&lt;/p&gt;
-
-&lt;p&gt;It’s possible this run was too easy, but it’s okay because it’s inserted into
-the larger context of the physical break-in. Pixie would have plenty to do in
-that part of the run. I might have made a mistake here in simply having
-“unaware” ICE add some of its tags to the hacking roll. The system is abstract
-enough that I could have ruled slipping past the ICE undetected would require
-“fighting” it and filling its Harm boxes while describing it as a sneaking
-attempt. Whatever form it took in the narrative, combat would have made things
-take longer, but not by much.&lt;/p&gt;
-
-&lt;p&gt;The mechanical bits of the run would probably be much faster than the 50/90
-minutes I’ve been assuming here, but this would be offset in all cases by the
-extended narration and roleplaying the game demands to frame those mechanics and
-establish all the influencing factors for each roll.&lt;/p&gt;
-
-&lt;p&gt;Our experiment however does allow us to conclude the obvious: when you use the
-exact same simple resolution mechanic for everything, everyone has more or less
-the same spotlight time and the classic “Decker problem” won’t manifest.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2023/11/16/hackaton-nco.html</guid>
         
         <category>shadowrun</category>
         
