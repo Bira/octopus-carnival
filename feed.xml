@@ -6,9 +6,142 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Jun 2025 20:50:09 +0000</pubDate>
-    <lastBuildDate>Fri, 13 Jun 2025 20:50:09 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 14:38:15 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 14:38:15 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Ghost, Raaig</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-ghost-raaig.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A half-humanoid, half-skeleton, all spiky ghost.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Athas is a world with plenty of horrible death in it, so of course it has plenty
+of ghosts.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The ghosts we’re talking about in this entry are also called “raaigs”, so you
+can use that word when nomenclature is important and you want to distinguish
+them from wraiths, specters, or the specific D&amp;amp;D monster actually called a
+Ghost.&lt;/p&gt;
+
+&lt;p&gt;They are specifically the ghosts of priests and holy warriors that served the
+now-dead gods of Athas, and who met their demise while charged with protecting
+their holy sites and relics.&lt;/p&gt;
+
+&lt;p&gt;The typical encounter with a raaig will happen when the PCs enter the ruins of
+such a place. The ghost, still fulfilling its mission, will manifest and
+challenge the intruders to check whether they’re devout pilgrims or dastardly
+thieves. Since no one alive remembers the proper prayers and passwords to
+appease these spirits, they are likely to attack.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Raaigs have the full ghost package: ground and flight speeds of 6, Darkvision,
+phasing, insubstantial, immune to disease and poison. The book mentions they
+become corporeal for a moment when they attack, but this moment doesn’t last
+long enough to influence their stat blocks, which considers them to be
+insubstantial at all times.&lt;/p&gt;
+
+&lt;p&gt;They don’t have any weaknesses that let them become partially corporeal
+either, so the only way to deal full damage to a raaig is if you’re using the
+rules update that makes force damage fully affect all insubstantial creatures.&lt;/p&gt;
+
+&lt;h3 id=&quot;raaig-tomb-spirit&quot;&gt;Raaig Tomb Spirit&lt;/h3&gt;
+
+&lt;p&gt;Your common specimen as far as these very specific ghosts go. The Tomb Spirit is
+a Level 9 Soldier with 66 HP, which looks like a small number until you remember
+it will be taking half damage from everything.&lt;/p&gt;
+
+&lt;p&gt;The tomb spirit projects an aura (1) of &lt;strong&gt;Gripping Dread&lt;/strong&gt;, which forbids
+enemies inside from shifting and deals 5 cold damage to enemies marked by the
+spirit who make an attack that doesn’t target it. This is a spooky version of
+the Paladin’s mark mechanic.&lt;/p&gt;
+
+&lt;p&gt;Its main attack is a &lt;strong&gt;chilling blade&lt;/strong&gt; that deals cold damage. As a minor
+action once per round it can issue the &lt;strong&gt;Raaig’s Challenge&lt;/strong&gt;, which targets
+Will, and pulls 2 squares and marks for a turn on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;raaig-crypt-lord&quot;&gt;Raaig Crypt Lord&lt;/h3&gt;
+
+&lt;p&gt;A higher-ranking guardian in life, the Crypt Lord is a Level 14 Soldier with the
+Leader tag and 96 HP. It’s mostly a Tomb Spirit with bigger numbers and improved
+abilities:&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Chilling Blade&lt;/strong&gt; deals more damage and marks on a hit; its &lt;strong&gt;Gripping
+Dread&lt;/strong&gt; has a radius of 2; ts &lt;strong&gt;Challenge&lt;/strong&gt; pulls 4 squares instead of 2.&lt;/p&gt;
+
+&lt;p&gt;The one new ability here is &lt;strong&gt;Ghostly Command&lt;/strong&gt; (recharge 6+) which lets each
+undead ally within 5 squares of the lord shift 2 squares and make a basic
+attack. As this takes a standard action, it will probably be used to open the
+fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;raaig-souflame&quot;&gt;Raaig Souflame&lt;/h3&gt;
+
+&lt;p&gt;This is the ghost of someone who was so favored by the gods in life that they
+retained a small spark of divine power after death. Their hold on this spark is
+tenuous, however, and it might leave them if they’re too damaged. In this case,
+they will be turned into desperate beasts full of grief and rage. This is a
+Level 21 Skirmisher with 138 HP and all raaig traits.&lt;/p&gt;
+
+&lt;p&gt;The idea here is that they lose the divine spark when bloodied, and so they
+effectively have two sets of abilities and movement speeds - one for when they
+have the spark, and one for when they don’t.&lt;/p&gt;
+
+&lt;p&gt;When “healthy”, the soulflame has a ground speed of 8 and a teleport speed
+of 3. It attacks with a &lt;strong&gt;Divine Blade&lt;/strong&gt; that deals a mix of untyped and radiant
+damage and lets the ghost teleport 3 squares on a hit. It can get fancy with
+this and use it to perform a &lt;strong&gt;Flickering Phantom&lt;/strong&gt; maneuver (recharge 5+): the
+souflame teleports 4 squares, makes a stronger than usual sword attack, then
+teleports another 4 squares and makes another, weaker attack. The teleports are
+effects, so they happen even if the attacks miss.&lt;/p&gt;
+
+&lt;p&gt;When bloodied, it loses the ability to teleport and gains a flight speed of 8
+instead. Its main attack becomes a &lt;strong&gt;Deathly Blade&lt;/strong&gt; whose added damage is
+necrotic instead of radiant, and which makes the target only regain half HP from
+healing for a turn. Its Flickering Phantom ability is replaced with &lt;strong&gt;Hollow
+Rage&lt;/strong&gt;, an encounter power that deals heavy damage and prevents the target from
+regaining HP entirely (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The book says raaigs are intelligent and strong-willed enough to take command of
+most other undead that haunt their temples, such as skeletons, mummies, and
+other ghosts, so these will make up their allies in an encounter. It also
+reminds us that not all gods were good - protectors of evil temples might still
+have command of the devils or demons that also served its patron god. Souflames
+in particular are likely to attract surviving angels that served the same deity,
+as they are drawn to that faint spark.&lt;/p&gt;
+
+&lt;p&gt;This makes me think that a non-hostile raaig makes an excellent mentor and
+teached for the super-rare divine PCs of Athas. Maybe your cleric or paladin was
+trained by the soulflame who is the Last Priest of Pelor and who was aware
+enough to take the PC under their wing instead of treating them as an intruder.&lt;/p&gt;
+
+&lt;p&gt;And if angels and devils arrive to serve such ghosts, that’d be a big draw to
+someone who is researching a way into the Astral Sea, as I think that plane is
+not normally accessible from Athas.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/14/ghost-raaig.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/14/ghost-raaig.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Ultra-Tech Dungeon Delving in GURPS</title>
@@ -1555,36 +1688,6 @@ nonconformist rebels fleeing their evil upbringing.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read The Dark Sun Creature Catalog: (Not) The Dragon of Tyr</title>
-        <description>&lt;p&gt;At this point in our &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;read-through of the Dark Sun Creature Catalog&lt;/a&gt;, it the
-next entry in the book would be the Dragon of Tyr. As I mentioned in the
-&lt;a href=&quot;https://forum.rpg.net/index.php?threads/the-4e-dark-sun-creature-catalog.925701/post-25475185&quot;&gt;corresponding RPG.net thread&lt;/a&gt;, however, the Dragon’s touches upon the
-setting’s deepest secrets. These only appear at the very end of the Dark Sun
-Campaign Setting book, which forum user zedturtle is reading in another
-thread. I don’t want to spoil him ahead of time.&lt;/p&gt;
-
-&lt;p&gt;The other reason for this is that the Dragon of Tyr is a singular character and
-a very important one in the setting, so he should really be over on the
-Personages section of the book.&lt;/p&gt;
-
-&lt;p&gt;For both of these reasons, I’m discussing the Dragon at the end of this Let’s
-Read.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 08 Apr 2025 17:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/04/08/wir-dscc-dragon-of-tyr-notice.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/08/wir-dscc-dragon-of-tyr-notice.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
