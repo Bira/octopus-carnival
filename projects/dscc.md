@@ -50,6 +50,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 
 - G
   - [Gaj][21]
+  - [Ghost, Raaig][22]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -72,3 +73,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [19]: {{ "/2025/06/08/wir-dscc-elf.html" | relative_url }}
 [20]: {{ "/2025/06/10/wir-dscc-floating-mantle.html" | relative_url }}
 [21]: {{ "/2025/06/12/wir-dscc-gaj.html" | relative_url }}
+[22]: {{ "/2025/06/14/wir-dscc-ghost-raaig.html" | relative_url }}

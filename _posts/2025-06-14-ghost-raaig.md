@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-ghost-raaig.png" | absolute_url }}"/>
+  <figcaption>
+    A half-humanoid, half-skeleton, all spiky ghost.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 Athas is a world with plenty of horrible death in it, so of course it has plenty
 of ghosts.
 
@@ -113,3 +125,5 @@ enough to take the PC under their wing instead of treating them as an intruder.
 And if angels and devils arrive to serve such ghosts, that'd be a big draw to
 someone who is researching a way into the Astral Sea, as I think that plane is
 not normally accessible from Athas.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

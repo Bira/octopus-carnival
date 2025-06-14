@@ -148,14 +148,13 @@ due to their parentage.
 the orcs in this game are subject to all of the old cliches. There's a group of
 related species known as "Goblin-kin" whom Ordinary Townsfolk view as savage
 brutes, and who discriminate among themselves on the basis of size and blood
-purity. Orcs are a part of this group: the medium-sized, not-too-stupid ones who
-bully the others.
+purity. Orcs are a part of this group: the medium-sized, "not-too-stupid" ones
+who bully the others.
 
 Half-orcs are "the product of generations of inbreeding among the offspring of
-orc rapine". Yikes! While that's not as bad as the 3e situation (where people
-thought every half-orc was the direct product of rape), it still didn't
-completely remove that from their backstory. This is why it's a good idea to
-modify or discard the implied setting.
+orc rapine". Yikes! I can't actually decide whether this is better or worse than
+the D&D 3e cliches. This is why it's a good idea to modify or discard the
+implied setting.
 
 Anyway, half-orcs are as smart as humans but tougher, with better hearing and
 night vision. Some half-orcs are accepted by orcs and can be found among
