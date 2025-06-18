@@ -7,6 +7,7 @@ tags:
     - lets-read
 ---
 
+This post is part of a series! Click [here][1] to see the rest.
 
 Athas has a lot of the same giants we can see in the Monster Manuals and Monster
 Vault. Athasian giants are less militarily aggressive than their counterparts in
@@ -20,6 +21,16 @@ In this entry we'll take a look at two Athas-specific giants, whose descriptions
 will help explain why they don't like the small ones very much.
 
 ## Beast Giants
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-giant-beast.png" | absolute_url }}"/>
+  <figcaption>
+    A snake-headed beast giant.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 Beast Giants are the product of psionic experimentation by ancient masters of
 the Way, who have stabilized into their own species. They have bodies similar to
@@ -75,6 +86,16 @@ end.
 
 ## Shadow Giant
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-giant-shadow.png" | absolute_url }}"/>
+  <figcaption>
+    A human adventurer cowering from a shadow giant.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 Unlike the Death Giants of the monster manual, who are merely death-_themed_,
 Shadow Giants are actual undead. They're vengeful spirits who seek retribution
 from an ancient slaughter, likely from the Red Age. They look like shadows cast
@@ -122,3 +143,5 @@ striking. Shadow Giants have intriguing mechanics, but you probably don't want
 to have more than one of these in play at any given encounter. They can also be
 used in other settings without a lot of modification, as "undead giant with a
 grudge" is a pretty universal concept.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
