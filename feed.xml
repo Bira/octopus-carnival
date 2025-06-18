@@ -6,9 +6,158 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jun 2025 14:38:26 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 14:38:26 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Jun 2025 13:57:45 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Jun 2025 13:57:45 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Giant</title>
+        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;Athas has a lot of the same giants we can see in the Monster Manuals and Monster
+Vault. Athasian giants are less militarily aggressive than their counterparts in
+other worlds, but they still don’t like interacting with the “small folk”. They
+prefer to make their homes in isolated islands on the Silt Sea. A giant who
+wants to visit the mainland can often just &lt;em&gt;wade through&lt;/em&gt; what to them is
+chest-high silt. PCs might be able to negotiate a ride with such a giant, if
+they’re diplomatic enough.&lt;/p&gt;
+
+&lt;p&gt;In this entry we’ll take a look at two Athas-specific giants, whose descriptions
+will help explain why they don’t like the small ones very much.&lt;/p&gt;
+
+&lt;h2 id=&quot;beast-giants&quot;&gt;Beast Giants&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-giant-beast.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A snake-headed beast giant.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Beast Giants are the product of psionic experimentation by ancient masters of
+the Way, who have stabilized into their own species. They have bodies similar to
+that of hill giants, but the heads of beasts.&lt;/p&gt;
+
+&lt;p&gt;Each giant’s head is different, and can be similar to that of any Athasian
+beast, whether currently living or extinct. So PCs might be faced with something
+familiar like a Cilops or Baazrag-headed giant, or with some exotic ancient
+cryptid like a lion, tiger or bear. Oh my! Their skill at mind-reading is such
+that they can copy most techniques used against them on the fly during a fight.&lt;/p&gt;
+
+&lt;p&gt;Beast Giants are fairly cosmopolitan sorts and frequently associate with other
+types of giant and giant-kin who share their islands: hill giants, firbolgs,
+brohgs, and others.&lt;/p&gt;
+
+&lt;h3 id=&quot;beast-giant&quot;&gt;Beast Giant&lt;/h3&gt;
+
+&lt;p&gt;The typical beast giant is Large Natural Humanoid (Giant) and a Level 15 Brute
+with 180 HP and a ground speed of 7 and Low-light Vision.&lt;/p&gt;
+
+&lt;p&gt;No matter what their head looks like, it gives them a &lt;strong&gt;Rending Bite&lt;/strong&gt; that
+deals heavy immediate damage and ongoing 5 damage (save ends). Once per
+encounter they can use the &lt;strong&gt;Red of Tooth&lt;/strong&gt; power to make three bite attacks on
+the same action, each against a different target.&lt;/p&gt;
+
+&lt;p&gt;When someone attacks a beast giant, they can use &lt;strong&gt;Psionic Retention&lt;/strong&gt; as a
+reaction. They still suffer the damage and any riders normally, but they also
+“retain” that result, so keep a note of it. They can then use this to power
+their &lt;strong&gt;Psionic Release&lt;/strong&gt; attack (melee 2 vs. Fortitude). A hit deals the exact
+same amount and type of damage, and the exact same riders, as the giant’s
+“retained” attack. Psionic Release recharges when the giant uses Psionic
+Retention again, so it effectively “spends” the retained attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;beast-titan&quot;&gt;Beast Titan&lt;/h3&gt;
+
+&lt;p&gt;The oldest Beast Giants have grown enough in power and size to qualify as Beast
+Titans. They’re a lot more aggressive than their younger counterparts and love
+displaying the skulls of their enemies as trophies.&lt;/p&gt;
+
+&lt;p&gt;These are Huge instead of Large, and they’re Level 20 Elite Brutes with 466
+HP. Their ground speed is an 8, and their &lt;strong&gt;Beast Reflexes&lt;/strong&gt; let them roll a
+save to avoid falling prone.&lt;/p&gt;
+
+&lt;p&gt;Their Psionic Retention and Release powers work the same as the giant’s, with
+the greater range and numbers from their larger size and level. Their &lt;strong&gt;Gnashing
+Bite&lt;/strong&gt; is also upgraded.&lt;/p&gt;
+
+&lt;p&gt;As a minor action the titan can use &lt;strong&gt;Titan’s Embrace&lt;/strong&gt; (melee 3 vs. reflex) to
+do some light damage and grab on a hit. And once it has a grabbed victim, it can
+use &lt;strong&gt;Head Rip&lt;/strong&gt; to deal massive damage, plus the same ongoing damage as the
+bite. The giant also throws the victim 10 squares and knocks it prone at the
+end.&lt;/p&gt;
+
+&lt;h2 id=&quot;shadow-giant&quot;&gt;Shadow Giant&lt;/h2&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-giant-shadow.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A human adventurer cowering from a shadow giant.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Unlike the Death Giants of the monster manual, who are merely death-_themed_,
+Shadow Giants are actual undead. They’re vengeful spirits who seek retribution
+from an ancient slaughter, likely from the Red Age. They look like shadows cast
+on a wall.&lt;/p&gt;
+
+&lt;p&gt;They tend to be loners, or to ally with those giants that still retain a strong
+elemental connection (like fire and stone giants). Sometimes, a brohg renegade
+will seek them out to learn the ancient arcane secrets the shadow still
+rememebers.&lt;/p&gt;
+
+&lt;p&gt;Shadow Giants are Large Shadow Humanoids with the Undead and Giant tags, and
+Level 18 Soldiers with 185 HP. They have darkvision, a ground speed of 7, and a
+flight speed of 3. Like most undead, they are immune to disease and poison and
+have 20 necrotic resistance. They’re also insubstantial, but lack Phasing.&lt;/p&gt;
+
+&lt;p&gt;A shadow giant projects an aura (5) of &lt;strong&gt;Shadow Malaise&lt;/strong&gt; that halves any
+healing that takes place inside. Whenever they take radiant damage, they’re
+&lt;strong&gt;Revealed by Radiance&lt;/strong&gt; and become substantial for a turn.&lt;/p&gt;
+
+&lt;p&gt;Their basic attack is a &lt;strong&gt;Necrotic Touch&lt;/strong&gt;, which targets Reflex, deals necrotic
+damage, and marks on a hit (save ends). They also have a non-basic &lt;strong&gt;Death
+Touch&lt;/strong&gt; that is similar, but exchanges some of its direct damage for an
+additional ongoing 10 necrotic damage rider (save ends both this and the mark).&lt;/p&gt;
+
+&lt;p&gt;If a marked enemy makes an attack that doesn’t include the giant, they are
+&lt;strong&gt;Cast Into Shadow&lt;/strong&gt; as a reaction. This is a melee attack that targets
+Reflex. A hit does no damage, but removes the target from play for a turn! This
+means they’re stunned and removed from the map, reappearing at their previous
+position when the effect ends.&lt;/p&gt;
+
+&lt;p&gt;The giant’s ability to possibly mark multiple PCs makes it a very effective
+“defender”. Cast Into Shadow is a very potent “save or suck” attack, so PCs will
+have an extra incentive to focus on the giant and not on its other buddies. And
+if they don’t, the giant has just removed a whole PC from consideration for the
+next round.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Athas is prime giant country and plenty of core giants would be happy as clams
+living here, but I guess it makes sense to have some setting-specific ones to
+signal that we’re not in Kansas any more.&lt;/p&gt;
+
+&lt;p&gt;Beast giants and titans feel a bit redundant, but their appearance is certainly
+striking. Shadow Giants have intriguing mechanics, but you probably don’t want
+to have more than one of these in play at any given encounter. They can also be
+used in other settings without a lot of modification, as “undead giant with a
+grudge” is a pretty universal concept.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/18/wir-dscc-giant.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/18/wir-dscc-giant.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Ghost, Raaig</title>
@@ -1534,160 +1683,6 @@ and turning it into an Athasian Drake.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dragonborn (Dray)</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dragonborn.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A dragonborn sorcerer in the Athasian desert.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Despite the title of their entry, these Dragonborn are &lt;em&gt;not&lt;/em&gt; a new
-addition. Dark Sun is one of two 2e settings (that I know of) that had draconic
-humanoids in it since its initial publication.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Despite using dragonborn stats for the PC version, these are not the same
-dragonborn as the ones from the standard Points of Light setting. Athasian
-dragonborn are known as Dray, are lankier than the standard variety, and have a
-completely different origin.&lt;/p&gt;
-
-&lt;p&gt;The Dray species was created by the sorcerer-king Dregoth to be his perfect
-servants and minions, but he was dissatisfied with the result and cast most
-of them out of his city-state of Giustenal. Those he allowed to stay kept
-serving him until the other sorcerer-kings banded together to destroy Dregoth
-and his city.&lt;/p&gt;
-
-&lt;p&gt;Today’s Dray are descended both from the outcasts and from the survivors of
-Giustenal’s destruction. Their total population is relatively small and few
-people know of their existence. Their communities are either small scattered
-tribes in the wastes or the rare enclave embedded in a larger settlement.&lt;/p&gt;
-
-&lt;p&gt;Their reputation among those who know about them is as slavers and
-sorcerers. Not All Dray (TM) deserve this reputation… but a significant
-majority of them do. They practice defiling magic and slavery, and frequently
-act as mercenaries for other groups who are okay with this. In this, they
-continue the cycle of abuse, inflicting on others what their creator inflicted
-on them.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Dray, like standard dragonborn, are Medium Natural Humanoids with a Speed
-of 6. They can use a &lt;strong&gt;Dragon Breath&lt;/strong&gt; once per encounter, a Close Blast 3
-vs. Reflex that deals some sort of elemental damage and whose details vary with
-the stat block.&lt;/p&gt;
-
-&lt;p&gt;You can easily use standard dragonborn stat blocks from the other monster books
-as more dray varieties if you need to.&lt;/p&gt;
-
-&lt;h3 id=&quot;dragonborn-slaver&quot;&gt;Dragonborn Slaver&lt;/h3&gt;
-
-&lt;p&gt;These assholes roam the desert looking for easily taken captives that they can
-sell to the sorcerer-kings in exchange for money and prestige. They’re
-frequently found in mixed-species slaver parties as their rank-and-file muscle.&lt;/p&gt;
-
-&lt;p&gt;Slavers are Level 16 Minion Soldiers that fight with &lt;strong&gt;Bastard Swords&lt;/strong&gt; which
-damage and mark for a turn on a hit. Their &lt;strong&gt;Dragon Breath&lt;/strong&gt; deals lightning
-damage and marks (save ends).&lt;/p&gt;
-
-&lt;p&gt;They’re tougher than your average minion too - the first time they drop to 0 HP,
-their &lt;strong&gt;Determined Defender&lt;/strong&gt; trait lets them recover, clear any effects on
-them, and get back on at the start of their next turn. This makes them more
-willing to risk harm when surrounding the PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;dragonborn-scorned-champion&quot;&gt;Dragonborn Scorned Champion&lt;/h3&gt;
-
-&lt;p&gt;A few dray take pride in being scorned by their creator, making that part of
-their identity. I’m guessing these are the nicer ones, since it would make sense
-for them to reject the ways of the sorcerer-kings. The Scorned Champion is an
-example of someone who might rise to lead a community of these Dray. Still, he’s
-sensitive to anything he perceives as a challenge to his position, and is quick
-to strike down the source of that challenge.&lt;/p&gt;
-
-&lt;p&gt;The Scorned Champion is a Level 16 Skirmisher with 151 HP. This cocky fighter’s
-&lt;strong&gt;Bravura Poise&lt;/strong&gt; acts as an aura (1) that forces enemies inside to grant combat
-advantage. He fights with a &lt;strong&gt;scimitar&lt;/strong&gt; that damages the target and lets him
-shift 1 square on a hit. The &lt;strong&gt;Dray Fury&lt;/strong&gt; special attack (recharge 4+) lets him
-shift his speed and strike twice with the scimitar at any point during this
-movement. His &lt;strong&gt;DragonBreath&lt;/strong&gt; can exclude one creature of his choice from the
-blast, and deals fire-and-lightning damage. Finally, his &lt;strong&gt;Unstoppable Force&lt;/strong&gt;
-power lets him immediately end any Slow or Immobilize effect on him once per
-round.&lt;/p&gt;
-
-&lt;h3 id=&quot;dragonborn-defiler&quot;&gt;Dragonborn Defiler&lt;/h3&gt;
-
-&lt;p&gt;Drays like this one go in the other direction - they look fondly upon the past
-when they could walk the streets unchallenged, openly displaying their arcane
-might. They want the power to do that again, and see defiling as the quickest
-way to get there.&lt;/p&gt;
-
-&lt;p&gt;The Defiler is Level 18 Artillery with 129 HP. They use &lt;strong&gt;daggers&lt;/strong&gt; as weapons
-and implements, and the damage roll on this attack has a funky format that mixes
-physical and cold damage. Their basic ranged attack is a &lt;strong&gt;Dragonfear Ray&lt;/strong&gt;
-(ranged 10 vs. Will) that deals psychic damage and causes the target to take 5
-damage each time they damage the defiler or one of its allies, until the end of
-the target’s next turn.&lt;/p&gt;
-
-&lt;p&gt;Their dragon breath has been corrupted into a &lt;strong&gt;Defiling Breath&lt;/strong&gt; (close blast 5
-vs. Reflex) that deals immediate and ongoing cold-and-necrotic damage (save
-ends). While at least one target is taking this ongoing damage, the defiler has
-+2 to all attacks and +5 to all damage rolls. This recharges if the defiler
-misses every target with the power, so it will keep doing it until it hits
-someone.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter the defiler can cast &lt;strong&gt;Flight of Dragons&lt;/strong&gt; as a move action,
-allowing every ally within 5 squares to fly 5 squares, and flying 10 squares
-itself. It doesn’t provoke opportunity attacks when it leaves its starting
-square, but obeys the rules normally from that point on.&lt;/p&gt;
-
-&lt;p&gt;As a minor action it can also use &lt;strong&gt;Hurled Dragon Breath&lt;/strong&gt; (recharge 5+) to do
-just that with a less corrupt form of its breath. This is either a Close Blast 5
-or an Area 2 Within 10, both targetting Reflex. It deals cold damage on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;dragonborn-atavist&quot;&gt;Dragonborn Atavist&lt;/h3&gt;
-
-&lt;p&gt;Dray like this one prefer to focus on the bestial nature of their dragon
-heritage, using ritual techniques to tap into that inner beast and bring it
-forth during combat. Why use weapons when you have the power of a dragon at your
-disposal? This one’s a Level 19 Brute with 220 HP and Resist 10 Acid.&lt;/p&gt;
-
-&lt;p&gt;Their basic attacks are a strong &lt;strong&gt;Bite&lt;/strong&gt; and a slightly less strong &lt;strong&gt;claw&lt;/strong&gt;,
-both of which deal ongoing acid damage on a hit (save ends). &lt;strong&gt;Draconic Fury&lt;/strong&gt;
-(recharge 5+) lets them use both attacks with one action, or even engage in a
-classic claw/claw/bite routine if they’re bloodied.&lt;/p&gt;
-
-&lt;p&gt;Their dragon breath, as you might expect, does acid damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;It seems the only stat block here that’s actively Evil is the Defiler - everyone
-else is unaligned, even the slavers. I’m not sure I agree with that last part,
-but I suppose you can use the slaver stat block for a more conventional non-evil
-warrior.&lt;/p&gt;
-
-&lt;p&gt;I’m glad the game gives us some tools to stat up a non-evil group of Dray. PCs
-have to come from somewhere, and it’d get a little samey if all of them were
-nonconformist rebels fleeing their evil upbringing.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/04/11/wir-dscc-dragonborn.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/11/wir-dscc-dragonborn.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
