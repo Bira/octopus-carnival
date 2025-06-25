@@ -28,8 +28,9 @@ large groups, commanded by officers in gray uniforms or directly by big-name
 villains like Darth Vader.
 
 The first Star Wars movie, A New Hope, describes them as having a fearsome
-reputation. In practice, though, they're classic mooks, and the most they
-accomplish against the film's heroes is making those heroes look badass.
+reputation. In practice, though, they're classic mooks, only dangerous in very
+large numbers. Usually, the most they accomplish against the film's heroes is
+making those heroes look badass.
 
 Though they're not the first Space Mooks, they're one of the classics and likely
 the first ones most of us were exposed to. The dissonance between their
@@ -56,29 +57,87 @@ stormtroopers/brownshirts. Then suddenly the brownshirts aren't "it" anymore,
 and the real inner circle is the SS. And I think there were a few other
 iterations like that before they were all stomped flat in WW2. It's worth
 nothing that the members of such "inner circles" weren't necessarily more
-_competent_ than their pleb colleagues, just more loyal to the regime.
+_competent_ than their pleb colleagues, just more loyal to the regime and more
+willing to commit atrocities in its name.
 
-Imperial stormtrooopers are the same! I can easily see them being the "inner
-circle" to the regular armed forces, their ranks swelling with the sort of crass
-bully who truly believed in the Empire's new ideals until they were the entirety
-of the Imperial armed forces[^3]. Imperial Officers seem to belong to a whole
-other hierarchy that gets to order troopers around, so they could have been the
-next layer on the onion.
+The "history" of stormtroopers differs a bit from that of the real world, of
+course. The bits of Star Wars history we're concerned about here are the three
+"eras" defined by the three main movie trilogies. Episodes 1 to 3 are the
+"prequel" trilogy, 4 to 6[^3] are the "main" trilogy, and 7 to 9 are the
+"sequel". "Eras" is a bit pompous - each one is only 20 years apart from the
+next and lasts a lot less than that.
+
+We'll look at that history below, but it's worth clarifying right now: all of
+the stormtrooper forces described below are _mechanically equivalent_. Any
+differences in their gear seem to be mostly cosmetic. Relevant variations will
+be noted in each force's entry.
+
+### The Prequels
+
+The Star Wars prequel trilogy tells us about the fall of the Galactic Republic,
+and the rise of the Empire. This sneaky asshole senator named Palpatine
+manufactured a war against a coalition of separatist planets and then handed the
+Republic a clone army on a platter so that they could fight it. He'd later use
+secret implanted instructions to have the Clones perform a violent takeover of
+the Republic.
+
+The Clones, then, are our first layer of the onion, supplanting those disparate
+planetary forces. Clones are mass-produced by a planet of biotech specialists,
+and quickly reach physical maturity while undergoing an intense regimen of
+training and indoctrination. After this, they're immediately deployed to the war
+with a vague promise of being given "freedom" after it ends.
+
+The Republic's acceptance of this "gift" was the first step on their road to
+fascism. Both because they decided to overlook the obvious ethical problems with
+the setup described above, and because they decided to not look too closely into
+that indoctrination. When Order 66 is given, the vast majority of clones
+instantly switch from being "our guys" to murdering all the Jedi and everyone
+else who could oppose Palpatine's power grab.
+
+### The Main Trilogy
+
+Imperial Stormtroopers are our second layer of the onion, supplanting clones and
+eventually replacing them entirely between the end of the prequels and the start
+of the main trilogy. They rely on traditional recruiting to build their numbers,
+their ranks swelling with the sort of crass bully who truly believed in the
+Empire's new ideals. Imperial Officers seem to belong to a whole other hierarchy
+that gets to order troopers around, descended from the one that commanded
+clones. They're the next layer of the onion.
 
 After that you get a succession of more specialized groups that vary with the
 specific piece of media you're watching. Some sort of black-armored elite
 trooper is almost traditional by now. There's also a number of sinister
 organizations that vary with the specific work you're watching, such as the
-creepy investigators of the Imperial Intelligence Bureau or even an actual
+creepy investigators of the Imperial Security Bureau or even an actual
 Inquisition full of Dark Side Force users. The franchise usually seems to buy
 into the statement that the people in these innermost circles really are more
 competent, so when they appear they tend to be named villains.
 
-The First Order of the "sequel" trilogy is pretty much the Empire with a
-different name, and everything I said about the Empire applies there. It might
-be at an earlier stage of the nazi onion since they still have powerful officers
-among the troopers (like Commander Phasma), but the SS-like officer corps with
-their Hugo Boss uniforms is already there and growing.
+Darth Vader and all of the people who directly reported to him feel like they'd
+be the core of this particular onion... after all, he was the Emperor's personal
+disciple. But even in at the start of the main trilogy, you see that there's a
+group of high-ranking Imperial officers who are competing wit him for that
+spot. So you definitely have room to have multiple organizations all of which
+claim to be the top dogs of the Imperial forces in your campaigns.
+
+### The Sequel Trilogy
+
+If the Galactic Empire are Nazis, the First Order are neo-Nazis. An organization
+full of people who idolize the Empire and what it stood for, and try to imitate
+its visuals, command structure, and penchant for oppression and atrocity.
+
+Everything I said about the Empire applies there. It's at a comparatively
+earlier stage of the nazi onion since they still have powerful officers among
+the troopers (like Commander Phasma), but the SS-like officer corps with their
+Hugo Boss uniforms is already there and growing. Kylo Ren is our wannabe Vader
+here, and he's also already clashing with the officer corps to see who deserves
+to be at the top.
+
+First order stormtroopers supplement their traditional recruiting with forcibly
+kidnapped children that undergo similar indoctrination and training to the
+clones of yesteryear. There are no "special units" of extra-badass troopers with
+different armor, but you get more instances of random troopers who turn out to
+not be mooks, and who give our heroes some more trouble all by themselves.
 
 ## Trooper Gear
 
@@ -101,19 +160,19 @@ armor and weapon.
 ### Armor
 
 Trooper armor is composed of a black undersuit over which are attached white
-armor plates. Due to its extremely distinctive design, non-troopers are usually
-only going to wear it when impersonating a trooper. The suit has split DR - the
-higher value is for the body, the lower one for the limbs. It's excellent
-protection against shrapnel and environmental hazards, and decent against direct
-hits from blaster pistols.
+armor plates. The suit has split DR - the higher value is for the body, the
+lower one for the limbs. It's decent against direct hits from blaster pistols,
+and excellent against any weapon less advanced than that, as well as shrapnel
+and environmental hazards.
 
-This suit of armor is usually paired with an equally distinctive TL 11 Combat
-Infantry Helmet (p. UT180). The helmet attaches to the rest of the
-armor and forms an airtight seal, and it counts as Sealed if an air tank is
-attached to the suit.
+This suit of armor is usually paired with a TL 11 Combat Infantry Helmet
+(p. UT180). The helmet attaches to the rest of the armor and forms an airtight
+seal, and it counts as Sealed if an air tank is attached to the suit.
 
-Similar armor suits from non-Imperial manufacturers might be available to
-PCs. Its stats are based on those of Hardshell Armor, published in **Pyramid
+The specific design used by stormtroopers (of whatever era) is so distinctive
+that PCs will probably only want to wear those suits when trying to impersonate
+one. Suits with similar stats from non-Imperial manufacturers might be available
+to PCs. Its stats are based on those of Hardshell Armor, published in **Pyramid
 #3/12: Tech and Toys**.
 
 | TL | Type               | Location       | DR    | Cost  | Weight | LC |
@@ -217,7 +276,6 @@ again.
 [^2]: According to Hannah Arendt's _On the Origins of Totalitarianism_, which I
     bet you didn't expect me to reference in an article about Star Wars.
 
-[^3]: And before you had the Empire, you had the clone army replacing the
-    regular Republic armed forces in a move orchestrated by the future Emperor.
+[^3]: Which actually came out first.
 
 [1]: {{ "/2020/10/27/stormtrooper-armor.html" | relative_url }}
