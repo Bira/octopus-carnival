@@ -6,9 +6,350 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jun 2025 13:57:45 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Jun 2025 13:57:45 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 19:12:31 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 19:12:31 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Quar and Their Guns in GURPS</title>
+        <description>&lt;p&gt;Recently, I became aware of the Quar. Aren’t they neat?&lt;/p&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/quar-unit.png&quot;/&gt;
+  &lt;figcaption&gt;
+  A squad of Quar soldiers, with officers, standard-bearer, and messenger
+  squirrel handler. Source: https://rhyfler.com
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;These funny anteater people are the stars of a couple of miniature wargames, the
+28mm-scale &lt;strong&gt;Clash of Rhyfles&lt;/strong&gt; and the 15mm-scale &lt;strong&gt;This Quar’s War&lt;/strong&gt;. Both of
+these have their rulebooks freely available &lt;a href=&quot;https://rhyfler.com&quot;&gt;here&lt;/a&gt;, which is also where the
+image above comes from.&lt;/p&gt;
+
+&lt;p&gt;An individual Quar is a funny little person who just wants to chill with a hot
+cup of tea and a plate of moth cakes. Quar &lt;em&gt;societies&lt;/em&gt; however are very, er,
+quarrelsome, so most of their history is an endless procession of wars.&lt;/p&gt;
+
+&lt;p&gt;I was motivated to write this article both because I think the setting is neat,
+and because the technical information about Quar weapons in the Clash of Rhyfles
+game made me think I can stat them up in GURPS.&lt;/p&gt;
+
+&lt;h2 id=&quot;very-short-setting-summary&quot;&gt;Very Short Setting Summary&lt;/h2&gt;
+
+&lt;p&gt;The wargames cover a particularly turbulent period in the history of Aldwyn, the
+Quar home world. It’s marked by at least twenty years of worldwide trench
+warfare between two large multinational coalitions. The tech level is somewhere
+between WW1 and WW2, and this is pretty much the war that introduced industrial
+warfare to their world.&lt;/p&gt;
+
+&lt;p&gt;If the idea of these adorable creatures being fed into one of the worst
+meat-grinders imaginable is horrifying to you, then you get the setting’s main
+idea. I’ve heard it described as “grimsical”. It replaces the “dark” vibe from
+“grimdark” with “whimsical”, but it’s still grim. The cuter the miniatures for
+their soldiers and tanks get, the stronger the dissonance becomes.&lt;/p&gt;
+
+&lt;p&gt;The Clash or Rhyfles quickstart book centers on the two main factions of the
+war. The Crusade is a coalition of former monarchies who successfully toppled
+their old regimes and became republics. They’re led by the Republic of Tok, and
+made up of many smaller nations that follow the same standards for equipment and
+tactics. The rules here could be used for quar from any of those places.&lt;/p&gt;
+
+&lt;p&gt;On the other side, the Kingdom of Coftyr leads an alliance of the world’s
+remaining monarchies to stamp out this revolution. Each kingdom here tends to be
+visually distinct, as their whole thing is adherence to ancient traditions and
+heraldry. Therefore, the book only covers Coftyr itself.&lt;/p&gt;
+
+&lt;p&gt;Free add-ons provide details for “sub-factions” allied to either side. These are
+Crusader or monarchist nations who do their own thing on the battlefield.&lt;/p&gt;
+
+&lt;p&gt;As usual for wargames, both sides are morally ambiguous. Opposing monarchy is a
+good thing in my book, but the Crusade is also the side that introduced
+industrial warfare to the world. Coftyr flavor text is all about honor and
+chivalry and heroism, but they adopted industrial warfare just as readily and at
+the end of the day are still defenders of absolute monarchy.&lt;/p&gt;
+
+&lt;p&gt;I get the impression that the world of Alwyn could settle into a more or less
+stable configuration if everyone just stopped and signed a status quo peace
+treaty, but they’ve all been fighting for 20 years by now and none of their
+leaders show any sign of wanting to stop.&lt;/p&gt;
+
+&lt;p&gt;As usual for wargames, you pick the side you think looks neater, paint them up,
+and pit them against other factions in battles that would fit somewhere in those
+decades of war. Most of these battles focus on infantry with the occasional
+tanks thrown in. There seem to be airships, but I don’t know if they have
+airplanes yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;quar-in-gurps&quot;&gt;Quar in GURPS&lt;/h2&gt;
+
+&lt;p&gt;The typical Quar is about 1.5 meters tall and weights around 60kg. They follow a
+largely humanoid body plan. Their skins can take on any of a large number of
+hues, from yellows and greens to blues and purples and oranges. Often, they’re a
+little mottled. Their diet tends to include lots of bugs, though those are often
+prepared as ingredients in dishes that we would otherwise recognize.&lt;/p&gt;
+
+&lt;p&gt;Stat-wise, I’d say they are absolutely identical to humans. If you insist on
+being strict, make them about a foot shorter than their ST would indicate, but
+do not adjust their stats in any other way. Being a Quar costs 0 points.&lt;/p&gt;
+
+&lt;p&gt;Because that’s the thing, you see? Quar are just people. The horrors inflicted
+on them are horrible because &lt;em&gt;war&lt;/em&gt; is horrible, not because Quar are adorable.&lt;/p&gt;
+
+&lt;h2 id=&quot;quar-guns-in-gurps&quot;&gt;Quar Guns in GURPS&lt;/h2&gt;
+
+&lt;p&gt;Guns in Clash or Rhyfles don’t actually have damage ratings, just range and
+optional traits. The results of a ranged attack roll depend entirely on the
+degree of success for your skill roll. They might leave a target unaffected,
+Gobsmacked (stunned) or Taken Out, which is different from “dead”: they might
+still be rescued during or after the battle.&lt;/p&gt;
+
+&lt;p&gt;However, the skirmish game rules include enough fluff about the infantry weapons
+of the Crusade that I kinda want to try statting them up in GURPS. If I ever get
+the same information for the Coftyri ones, I’ll stat them up too.&lt;/p&gt;
+
+&lt;p&gt;The book mentiones the muzzle velocity and caliber of a couple of the weapons,
+and if I make a guess about the weight of the bullet I can plug those three
+things in the simplest possible version of the [unofficial official GURPS
+ballistics equation][2] to get a damage figure.&lt;/p&gt;
+
+&lt;p&gt;That link also contains a complete spreadsheet that demands things like chamber
+pressure, which I have no chance of figuring out. So stuff like Accuracy and
+range will be derived by the older method of eyeballing existing guns, as will
+bullet weight.&lt;/p&gt;
+
+&lt;p&gt;The numbers in the original material are just there for color, of course. None
+of them affect the rules of the miniature wargame itself. But if we take them as
+true, we see that Quar are very fond guns with big bullets and powerful
+propellant charges, fired out of guns with short barrels and very light
+construction. The recoil on those is gonna be ridiculous.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-bogen-rifle&quot;&gt;The Bogen Rifle&lt;/h3&gt;
+
+&lt;p&gt;The signature weapon of the Crusade rhyfler, the Bogen semi-automatic rifle is
+said to fire a 12mm bullet at 580m/s. It uses a 5 or 10 round magazine and
+weights 2.4kg “fully loaded”. Its effective range is 150-250 meters.&lt;/p&gt;
+
+&lt;p&gt;The closest real-world bullet to this one in GURPS High-Tech is the
+.45-something family of rifle rounds, which are 11.43mm in diameter and weight
+31 grams. After some fiddling, I decide to go with a slightly lower 27 grams for
+the Quar bullet, which gives us exactly 7d damage. This is pi+ because of the
+caliber. Picture them as being broader, shorter and rounder than Earth rifle
+cartridges, which is in theme for all things Quar.&lt;/p&gt;
+
+&lt;p&gt;This gives us a gun that packs about the same punch as a real-world M1 Garand
+rifle while having almost exactly half its weight and about the length of an M16
+assault rifle. That’s going to have a significant kick, to say the least.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Bogen&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7d pi+&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900/3500&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2.4kg/0.36kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;the-rhyshi-r4-heavy-rifle&quot;&gt;The Rhyshi (R4) Heavy Rifle&lt;/h3&gt;
+
+&lt;p&gt;Only slightly longer than the Bogen, the Rhyshi fires a huge 20mm round with a
+720m/s muzzle velocity. Its magazine carries seven of those, and it’s said to
+require a solid stance and firm support to shoot with any kind of accuracy. A
+squad mate’s shoulder will do for support, according to the book, but I’m going
+to give this rifle an integral folding bipod because I’m not a monster. A
+properly braced R4 has greater range than the Bogen, and can penetrate up to
+“medium” vehicular armor.&lt;/p&gt;
+
+&lt;p&gt;The closest thing to this I can find on High-Tech is the Mauser Tank-Gewehr 18,
+the WW1 German anti-tank rifle. Its caliber is “only” 13mm, but it’s the largest
+anti-tank rifle in that table that is even removely Quar-portable. Plugging its
+bullet mass, caliber and printed velocity in our magic spreadsheet, we get 10d+3
+damage, which following High-Tech convention can be rounded and written as
+5dx2. Let’s also give it an armor-piercing round, because I see the WW1 tank
+examples in the book have DR 45.&lt;/p&gt;
+
+&lt;p&gt;5dx2 is the same damage as the T-Gew18, but the Rhyshi again weights less than
+half of what the real gun does. It’s not that much longer than the Bogen either,
+so it’s gonna be a beast to handle unless it’s properly braced. As the book
+says, Quar Crusaders frequently attach a bayonet to the Rhyshi because there’s
+no way it can be fired in close quarters.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Rhyshi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5dx2(2) pi+&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1100/4400&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7.5kg/1kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18B†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-6&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;7&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;grifkis-shotgun&quot;&gt;Grifkis Shotgun&lt;/h3&gt;
+
+&lt;p&gt;This is a 10-gauge, six-kilo trench gun firing buckshot ammo. The only Crusade
+gun to still be largely hand-made, it’s carried by officers as a badge of honor
+and a symbol of courage. The illustration shows its barrel is fairly short, but
+it still has a shoulder stock.&lt;/p&gt;
+
+&lt;p&gt;No need to fiddle with spreadsheets this time, we have a 10G double-barrel
+shotgun in High Tech. Let’s borrow its stats and adjust for the shortened
+“whippet” barrels:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Grifkis&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2d-1 pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6kg/0.15kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2x13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2(3i)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1/7&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The short barrels give this gun a more pronounced muzzle blast (+1 to Hearing
+and Vision to locate when fired in the dark). I’m using the listed weight for it
+here, which makes it about 50% heavier than the real world example from
+High-Tech. Big caliber, two barrels, extra chonky? This is basically the Doom
+Super Shotgun.&lt;/p&gt;
+
+&lt;h3 id=&quot;h-11a-light-machine-gun&quot;&gt;H-11a Light Machine Gun&lt;/h3&gt;
+
+&lt;p&gt;According to the book, this LMG fires the same round as the Bogen rifle, and the
+Crusade likes to use it as an offensive squad support weapon. It appears longer
+than the rifle, and can also be used in vehicular mounts when the force can’t
+find heavier MGs to put in there.&lt;/p&gt;
+
+&lt;p&gt;I think I’m just going to crib from High-Tech again, and blend some of the
+Bogen’s stats with those of the MG34.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;H-11a&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7d pi+&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;900/3500&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15kg/2.5kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50(5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12B†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-7&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;This gives us a gun that’s actually heavier than the Rhyshi rifle, and whose
+recoil is manageable enough that it’s worth firing more than one bullet per
+turn. It fires rounds from a non-disintegrating cloth belt.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Look at those things. Just look at them. Their damage values combined with the
+light weight and short barrel means they have &lt;em&gt;powerful&lt;/em&gt; powder charges. Quar
+like big booms and they cannot lie.&lt;/p&gt;
+
+&lt;p&gt;The recoil on these things means the act of firing them is somewhere between
+“comical” and “painful for the shooter”. I’m guessing that a Taken Out result in
+the wargame very often means the target got spooked and decided to play dead,
+instead of actually being hit. This also explains why a quar can take
+&lt;em&gt;themselves&lt;/em&gt; out on a bad skill roll.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/06/25/quar-guns.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/25/quar-guns.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>quar</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Giant</title>
@@ -1435,254 +1776,6 @@ thought at first.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Drake</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Athas only has one dragon: The Dragon of Tyr. He’s the setting’s main bad guy,
-over and above the Sorcerer-Kings. As such, he’s immensely powerful,
-intelligent, and evil. Prime Final Boss material!&lt;/p&gt;
-
-&lt;p&gt;However, you might not want to wait until your PCs are level 30 demigods before
-they can fight a nasty giant lizard with elemental powers. That’s where Drakes
-come in.&lt;/p&gt;
-
-&lt;p&gt;Athas has a lot of things that would be called drakes in standard 4e, but here
-the name refers to something else entirely. The things Athasians call “Drakes”
-are, essentially, nonsapient dragons. They fulfill many of a dragon’s narrative
-functions. They’re big and tough enemies that make splendid boss fights for
-high-Paragon or low-Epic parties. There are several types associated with
-different elements. They lair in areas dominated by their associated element and
-possess psychic powers that let them summon and control orbs of that element
-from the Elemental Chaos. They even have a hoarding instinct!&lt;/p&gt;
-
-&lt;p&gt;The roles they &lt;em&gt;don’t&lt;/em&gt; fulfill are those of being a Machiavellian plotter or a
-big player in regional politics, which are things you’d expect a powerful enough
-dragon to be. They’re animals, not people. A text box informs us drakes were
-written this way because the Dark Sun setting is very geographically limited,
-and has a relatively small number of movers-and-shakers who are all accounted
-for. Adding an arbitrary number of traditional sapient epic dragons to this mix
-would wreck the setting’s delicate equilibrium, and that’s a job for the PCs.&lt;/p&gt;
-
-&lt;p&gt;Another consequence of drakes not being sapient is that there’s no guarantee
-their hoards will be &lt;em&gt;valuable&lt;/em&gt;. There might be some good loot there, but it’s
-going to be mixed with a mountain of trinkets and souvenirs that are merely
-shiny or pretty.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;All drakes presented here are Huge Elemental Beasts with the Reptile tag, and a
-tag corresponding to their associated element. They all have a &lt;strong&gt;Bite&lt;/strong&gt; and a
-&lt;strong&gt;Claw&lt;/strong&gt; that act as basic attacks, and the signature &lt;strong&gt;Drake’s Fury&lt;/strong&gt; power
-that lets them spend a single action to use two Claws against one target and a
-Bite against a different target.&lt;/p&gt;
-
-&lt;p&gt;Their elemental orb powers are area attacks that create a hazardous zone in the
-affected area, but their exact powers vary with each stat block. They always
-have a &lt;strong&gt;Bloodied Response&lt;/strong&gt; reaction that lets them immediately rechage and use
-an elemental power when first bloodied.&lt;/p&gt;
-
-&lt;p&gt;The same text box that discusses why drakes are nonsapient tells us we can take
-any dragon from other books and add them as drakes in Athas by declaring them
-nonsapient. Good candidates include brown, gray and red dragons from the
-chromatics; adamantine, iron, and orium dragons from the metallics; and any of
-the catastrophic dragons. You might want to change the appearance of the
-metallics too, since their default coloration stands out too much.&lt;/p&gt;
-
-&lt;h3 id=&quot;water-drake&quot;&gt;Water Drake&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-drake-water.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A water drake ready to ambush you from its oasis hideout.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Water drakes like to lair in oases. A possible sign of their presence is the
-total &lt;em&gt;absence&lt;/em&gt; of the small animals that usually live in such an
-environment. If you find such a place, you should either keep moving or be very,
-very sneaky when filling your waterskin.&lt;/p&gt;
-
-&lt;p&gt;This crocodile-looking beast is a Level 18 Solo Controller with 680 HP. It has
-Resist 10 Cold, a ground speed of 8, and a swim speed of 12. It’s &lt;strong&gt;Aquatic&lt;/strong&gt;,
-meaning it can breathe underwater and gets +2 to attacks against non-aquatic
-creatures in underwater combat.&lt;/p&gt;
-
-&lt;p&gt;The drake’s elemental attack is an &lt;strong&gt;Orb of Elemental Water&lt;/strong&gt;,
-which is a fireball-sized area attack (area 2 within 10, recharge 5+). It comes
-in two versions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;boiling&lt;/strong&gt; orb deals fire damage despite being made of water, and creates
-a damaging zone that lasts for the rest of the encounter or until the drake
-uses another boiling orb.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;ice&lt;/strong&gt; orb deals no immediate damage, but inflicts ongoing 20 cold damage
-and restrains (save ends both). It creates a zone that repeats the orb’s
-attack against any creatures start their turn in the zone and are not
-restrained. Again, this lasts until the end of the encounter or until the
-drake uses another ice orb.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Yes, this means the drake can have both a boiling and a frozen zone in place
-simultaneously, though I’d rule they can’t overlap.&lt;/p&gt;
-
-&lt;p&gt;The drake’s other power is &lt;strong&gt;Psionic Clone&lt;/strong&gt; (minor action, recharge 4+), which
-lets it create a duplicate of itself on a solid or liquid adjacent space in the
-map. The copy can acts independently and can take a full turn on an initiative
-count 10 lower than the original’s. It has all the original’s stats and powers
-with the following exceptions: it only has 1 HP; and it shares the original’s
-recharge roll for its powers instead of having its own. If the original has any
-spent powers when it uses this power, the copy’s powers will also start out
-spent.&lt;/p&gt;
-
-&lt;p&gt;The water drake’s &lt;strong&gt;Bloodied Response&lt;/strong&gt; recharges &lt;em&gt;both&lt;/em&gt; the Orb and Psionic
-Clone, letting the drake use both as a free action right then and
-there. Double the orbs, double the fun.&lt;/p&gt;
-
-&lt;h3 id=&quot;fire-drake&quot;&gt;Fire Drake&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-drake-fire.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A fire drake roaring atop a patch of flaming ground.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The flavor text here has a fire drake living inside an active volcano and
-worshipped as a god by a halfling tribe, who try to sacrifice a human to it only
-to be eaten along with the intended victim. Cliches aside, this shows us you can
-find fire drakes in volcanos and other such places.&lt;/p&gt;
-
-&lt;p&gt;Fire drakes are Level 20 Elite Lurkers with 298 HP, a Speed of 9, and Resist 15
-Fire.&lt;/p&gt;
-
-&lt;p&gt;The drake’s &lt;strong&gt;bite&lt;/strong&gt; does standard damage for its level. The &lt;strong&gt;claw&lt;/strong&gt; is a
-little weaker but grabs on a hit. &lt;strong&gt;Drake’s Fury&lt;/strong&gt; works as normal.&lt;/p&gt;
-
-&lt;p&gt;The creature’s &lt;strong&gt;Orb of Elemental Fire&lt;/strong&gt; (recharge 5+) is an Area Burst 1 within
-10 that deals fire damage and creates a damaging fire zone that lasts until the
-end of the encounter or until the drake casts another orb. While it waits for
-the power to recharge, it can use minor actions to move the existing magma zone
-4 squares. The drake’s &lt;strong&gt;Bloodied Response&lt;/strong&gt; recharges this orb and lets the
-beast use it immediately.&lt;/p&gt;
-
-&lt;p&gt;The fire drake’s last power is not elemental: it’s &lt;strong&gt;Living Shield&lt;/strong&gt;, an
-opportunity action that lets the beast use a grabbed victim as a shield if
-anyone other than that victim damages it. This makes the victim take half of the
-attack’s damage, with the other half still affecting the drake.&lt;/p&gt;
-
-&lt;p&gt;There’s nothing terribly lurkery about the fire drake. With that grab and the
-mobile zone, you could have made it a controller instead.&lt;/p&gt;
-
-&lt;h3 id=&quot;air-drake&quot;&gt;Air Drake&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-drake-air.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An air drake in a menacing stance.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Air drakes live in tall mountains and canyons. They love to hunt animals and
-people who try to walk the precarious passes of these places, knocking them down
-with their wind powers and devouring the tenderized remains. They’re Level 22
-Elite Skirmishers with 404 HP, a ground speed of 8, and a flight speed of 10.&lt;/p&gt;
-
-&lt;p&gt;These creatures deal extra damage when they have CA on an enemy, and this bonus
-increases when they’re bloodied. Their physical attacks are otherwise pretty
-standard for a drake.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Orb of Elemental Air&lt;/strong&gt; has a wider radius than usual (area burst 3
-within 10), and deals untyped damage on a hit. On a hit it also slides the
-targets 5 squares, and creates the usual damaging zone. The zone cannot be
-moved, but slides targets 3 squares when it damages them. This recharges when
-the drake is first bloodied, but it has to be used during the drake’s actions
-after this.&lt;/p&gt;
-
-&lt;p&gt;When pressured, the drake can use &lt;strong&gt;Wind Veil&lt;/strong&gt; as a minor action (recharge
-4+). This lets it shift its speed and gain concealment against non-adjacent
-enemies until the end of its next turn. &lt;strong&gt;Bloodied Response&lt;/strong&gt; recharges this,
-and lets the creature use it immediately.&lt;/p&gt;
-
-&lt;p&gt;It felt odd for Bloodied Response to be such a defensive power here… but then
-I saw that it’s because the drake can use &lt;strong&gt;Control the Wind&lt;/strong&gt; as a reaction
-when damaged. This is a Close Burst 5 vs. AC that deals the same damage as the
-bite to the triggering enemy, and lets the monster slide the target 3
-squares. Exceptionally, this slide can be &lt;em&gt;vertical&lt;/em&gt;, which means the target
-will take a bit of fall damage when it falls back to the ground… or a lot of
-fall damage if tossed diagonally into a chasm. A merciful GM could probably
-still allow the usual save vs. hazardous terrain to let the victim cling to an
-edge before being tossed.&lt;/p&gt;
-
-&lt;h3 id=&quot;earth-drake&quot;&gt;Earth Drake&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-drake-earth.jpeg&quot;/&gt;
-  &lt;figcaption&gt;
-    An earth drake.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A spicy bullette with earth control powers. Earth Drakes are Level 24 Elite
-Controllers with 456 HP, a ground speed of 8, and a burrow speed of 6.&lt;/p&gt;
-
-&lt;p&gt;Their physical attaks work as usual. Their &lt;strong&gt;Orb of Elemental Earth&lt;/strong&gt; is an Area
-1 within 10 attack vs. Fortitude. It damages and restrains (save ends) on a hit,
-deals half damage on a miss.&lt;/p&gt;
-
-&lt;p&gt;The resulting zone is difficult terrain, and the drake can use minor actions to
-make secondary attacks against anyone inside. This deals a tiny bit of physical
-damage and knocks the target prone. This is what &lt;strong&gt;Bloodied Response&lt;/strong&gt;
-recharges, but it’s not the only thing that happens when the earth drake is
-bloodied.&lt;/p&gt;
-
-&lt;p&gt;You see, when that happens the drake &lt;strong&gt;Expands&lt;/strong&gt;. It goes from Huge to
-Gargantuan, pushing any targets that were adjacent to it out of its new occupied
-space. While this lasts (until the end of the drake’s next turn), the drake’s
-melee reach improves from 3 to 4, it gains +2 to AC, and anyone hit by its
-attacks is immobilized.&lt;/p&gt;
-
-&lt;p&gt;When someone damages the drake it can use &lt;strong&gt;Immovable Stone&lt;/strong&gt; as a reaction,
-ignoring up to 4 squares of forced movement and using its bite against the
-attacker.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounter-and-final-impressions&quot;&gt;Encounter and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Since Athasian Drakes lack sapience, it’s harder to justify them being
-accompanied by minions. However, all but the Water Drake are elites, which means
-it’s very easy to set up an encounter against a mated pair of them. It might
-also be possible to add elementals of an appropriate level to any drake
-encounter as extra minions or regulars. The beasts wouldn’t be interested in
-eating them.&lt;/p&gt;
-
-&lt;p&gt;Overall I like their mechanics. Taking one of these drakes and turning them into
-a sapient dragon for outside of Dark Sun is as easy as taking a foreign dragon
-and turning it into an Athasian Drake.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/04/16/wir-dscc-drake.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/16/wir-dscc-drake.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
