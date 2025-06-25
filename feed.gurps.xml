@@ -5,8 +5,8 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Jun 2025 19:12:31 +0000</pubDate>
-    <lastBuildDate>Wed, 25 Jun 2025 19:12:31 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Jun 2025 19:42:45 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Jun 2025 19:42:45 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -17,7 +17,7 @@
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/quar-unit.png&quot;/&gt;
   &lt;figcaption&gt;
   A squad of Quar soldiers, with officers, standard-bearer, and messenger
-  squirrel handler. Source: https://rhyfler.com
+  squirrel handler. Source: &lt;a href=&quot;https://rhyfler.com&quot;&gt;https://rhyfler.com&lt;/a&gt;
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -108,8 +108,8 @@ the same information for the Coftyri ones, I’ll stat them up too.&lt;/p&gt;
 
 &lt;p&gt;The book mentiones the muzzle velocity and caliber of a couple of the weapons,
 and if I make a guess about the weight of the bullet I can plug those three
-things in the simplest possible version of the [unofficial official GURPS
-ballistics equation][2] to get a damage figure.&lt;/p&gt;
+things in the simplest possible version of the &lt;a href=&quot;https://gamingballistic.com/2022/04/11/old-ballistics-spreadsheet-a-repost/&quot;&gt;unofficial official GURPS
+ballistics equation&lt;/a&gt; to get a damage figure.&lt;/p&gt;
 
 &lt;p&gt;That link also contains a complete spreadsheet that demands things like chamber
 pressure, which I have no chance of figuring out. So stuff like Accuracy and
