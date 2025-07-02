@@ -75,6 +75,41 @@ mode (RoF 3).
 |:--:|:-----------:|:-------:|:---:|:--------:|:-----------:|:---:|:-------:|:--:|:----:|:----|
 | 8  | Pistol 1960 | 2d+2 pi | 2   | 160/1800 | 1.4kg/0.5kg | 9   | 20+1(3) | 10 | -2   | 2   |
 
-####
+### Longarms
+
+#### American Submachine Gun
+
+This is pretty much a historical **Thompson M1A1**, described in p. HT122. The
+Allies mostly didn't have access to superscience in this timeline and were
+limited to historical equipment.
+
+Allied soldiers are armed with this during the 1946 assault on Deathshead's
+compound, and Fergus urges them to grab an enemy gun as soon as possible.
+
+#### Assault Rifle Model 1960
+
+An evolution of the 1946 model, it's lighter and uses a double-stacked 45 round
+magazine, but still fires the same round. The biggest change here is an
+underbarrel mount that can take a mini-rocket launcher, which appears as an
+upgrade midway through the game.
+
+#### Marksman Rifle 1960
+
+This semi-automatic rifle is about the same length as the AR, but fires a
+heftier round (likely 7.92x57mm) from a 10-round clip. It has an integral
+scope. It's a relatively rare find both in the hands of enemies and as
+loot. Clearly the Nazis are bigger fans of the spray-and-pray approach to
+marksmanship.
+
+#### Laser Carbine
+
+Carried by the enemies at the moonbase level, this is gun is very similar to a
+Marksman Rifle, but lacks a scope and fires lasers powered by an integral
+battery.
+
+| TL | Weapon             | Damage   | Acc | Range    | Weight      | RoF | Shots   | ST  | Bulk | Rcl |
+|:--:|:------------------:|:--------:|:---:|:--------:|:-----------:|:---:|:-------:|:---:|:----:|:----|
+| 7  | Thompson M1A1      | 2d+1 pi+ | 3   | 170/1900 | 6.1kg/0.8kg | 11  | 30+1(3) | 10† | -5   | 2   |
+| 7  | Assault Rifle 60-T | 5d pi    | 5   | 500/3100 | 5.5kg/1kg   | 12  | 45+1(3) | 9†  | -5   | 2   |
 
 [1]:
