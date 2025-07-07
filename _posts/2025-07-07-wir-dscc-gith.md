@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-gith.png" | absolute_url }}"/>
+  <figcaption>
+    A gith warrior with a spear.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 One of the things we learned about the cosmology of Athas early in the Campaign
@@ -105,3 +117,5 @@ expected, and there are no rules for gith PCs in the Campaign Setting.
 Gith are commonly found in all-gith hunting parties, perhaps accompanied by
 domesticated baazrags or other trained beasties. They can also be found in mixed
 parties of People, whether as willing members or as slaves commanded to fight.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
