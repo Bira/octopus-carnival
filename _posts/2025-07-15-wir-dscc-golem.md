@@ -15,19 +15,19 @@ monster names since it's a bit appropriative.
 As as far as D&D goes, these are our "top-tier" constructs, usually placed in
 guardian roles but sometimes found following their creator around and responding
 to direct commands from them. They're made by binding an elemental into a
-physicall shell made out of some material, as we saw in the Monster Manual/Vault
+physical shell made out of some material, as we saw in the Monster Manual/Vault
 reading.
 
 Bone, clay, flesh and stone constructs are as common here as they are in other
 settings, but not even the wealthiest and most wasteful of Sorcerer Kings would
 make a construct out of iron, let alone other metals. Instead, Athasian wizards
 have developed other models made of more commonly available materials. This
-doesn't mean they're common, as most of the rituals to make them have been lost,
-and even those who still know them don't necessarily know the theory behind the
-recipe.
+doesn't mean the constructs themselves are common, as most of the rituals to
+make them are jealously guarded secrets, and even those who still know them
+don't necessarily know the theory behind the recipe.
 
 Mind you, metal constructs might still be found in the depths of some Green Age
-or Red Age ruins, and they're exceedingly dangerous.
+or Red Age ruins, and they remain exceedingly dangerous.
 
 ## The Numbers
 
@@ -40,10 +40,10 @@ stat block.
 This is a construct made out of rock salt, which has some different properties
 from common stone. The most relevant here is that it's surrounded by a haze of
 salt particles shed from its main body, which it can control. Salt is highly
-toxic at these concentrations and it can send it right into your bloodstream if
-you have any open wounds.
+toxic at these concentrations and the creature can send it right into your
+bloodstream if you have any open wounds.
 
-Salt constructs are Level 11 Elite Brute with 278 HP, a ground speed of 5
+Salt constructs are Level 11 Elite Brutes with 278 HP, a ground speed of 5
 (cannot shift), and Darkvision. They're surrounded by a haze of **Toxic Salt**
 that acts as an aura (2), which inflicts -2 to the defenses of any enemy
 inside. If the enemy is bloodied, it also takes 5 poison damage when it starts
@@ -104,14 +104,15 @@ Instead of Double Attack, obsidian constructs have **Inexorable Action**, which
 lets them roll initiative twice and take two whole turns per round at those
 counts.
 
-The constructs **Slams** deal the usual brute-tier damage, push 1 square, knock
+The construct's **Slams** deal the usual brute-tier damage, push 1 square, knock
 prone, and inflict ongoing 5 damage (save ends) from the bits of obsidian that
 break off and get stuck in the wound. It can also use a **Stunning Handclap**
 (recharge 6+) which attacks all enemies in a Close Burst 5. On a hit it deals
 thunder damage and stuns for a turn!
 
-A lucky recharge roll might let the creature use this twice in a round, which is
-a very bad thing for the PCs.
+A rechargeable multi-target stun is a terrifying prospect. A lucky recharge roll
+might let the creature use this twice in a round, which is a very bad thing for
+the PCs.
 
 ## Encounters and Final Impressions
 

@@ -88,10 +88,10 @@ This is likely a version of the **Mauser Kar98K** (p. HT111). Unlike the real
 weapon, this one's magazine is inserted from the side, which means the gun can
 still be fired from a prone position.
 
-There are two obtainable upgrades. The first is an extended magazine adds -1 to
-Bulk and weights 0.44kg loaded. The other is a scope on a tacticool folding
-mount. It adds 0.5kg to weight and changes Acc to 5+2. It can be folded in or
-out of position with a Ready maneuver.
+There are two obtainable upgrades. The first is a 10-round extended magazine
+that adds -1 to Bulk and weights 0.44kg loaded. The other is a scope on a
+tacticool folding mount. It adds 0.5kg to weight and changes Acc to 5+2. It can
+be folded in or out of position with a Ready maneuver.
 
 ### Weapon Table
 
@@ -101,17 +101,14 @@ out of position with a Ready maneuver.
 | 7  | Bombenschluss      | 7d pi  | 5   | 1000/4300 | 4.5kg/0.25kg | 1   | 5+1(3) | 10† | -4   | 4   |
 
 
-
 ### Shotguns
 
 #### Double Barreled Shotgun
 
 This 10-gauge classic makes two appearances: at the start of the game with a
 full length barrel, and at the end with the barrel sawn off to "whippet"
-length. The stats below are inspired by the **Lefevre Automatic Hammerless**
-from High Tech.
-
-Sawing off the barrel changes Bulk to -4 and Weight to 4.15/0.15kg.
+length. The full-length gun uses the same stats as the **Lefevre Automatic
+Hammerless** from High Tech. The sawn-off one uses the stats below.
 
 #### Shockhammer
 
@@ -127,7 +124,7 @@ and Weight to 8.2/2.1kg.
 
 | TL  | Weapon                  | Damage  | Acc | Range  | Weight      | RoF  | Shots | ST  | Bulk | Rcl |
 |:---:|:-----------------------:|:-------:|:---:|:------:|:-----------:|:----:|:-----:|:---:|:----:|:----|
-| 6   | Double-Barreled Shotgun | 2d-1 pi | 3   | 40/800 | 5.15/0.15kg | 2x13 | 2(3i) | 12† | -6   | 1/7 |
+| 6   | Double-Barreled Shotgun | 2d-1 pi | 3   | 40/800 | 4.15/0.15kg | 2x13 | 2(3i) | 12† | -4   | 1/7 |
 | 7+1 | Shockhammer             | 1d+1 pi | 3   | 40/800 | 7.1/1.05kg  | 3x9  | 10(5) | 11† | -5   | 1/3 |
 
 
@@ -141,13 +138,13 @@ filled with TNT, as mentioned in p. HT190: Damage 7d cr ex, weight
 0.7kg. They're not shy about throwing them at you if you stay for more than a
 few seconds behind cover.
 
-#### Flare Gun
+#### Kampfpistole ("war pistol")
 
-You can also find the **Kampfpistole** hidden in some levels. This is a version
-of a historical flare gun used in WW2 that could also fire grenades. Given the
-name ("war pistol") I think this one only fires grenades. Its extremely limited
-ammo is the best choice for taking out the tankiest enemies in the game, so I
-think it fires the HEAT round described in High Tech.
+This is a version of a historical flare gun used in WW2 that could also fire
+grenades. Given the name ("war pistol") I think this one only fires
+grenades. Its extremely limited ammo is the best choice for taking out the
+tankiest enemies in the game, so I think it fires the HEAT round described in
+High Tech.
 
 | TL | Weapon       | Damage            | Acc | Range  | Weight    | RoF | Shots | ST | Bulk | Rcl |
 |:--:|:------------:|:-----------------:|:---:|:------:|:---------:|:---:|:-----:|:--:|:----:|:----|
@@ -162,8 +159,6 @@ post on Wolfenstein guns][1]. It's found in the hands of early-model
 supersoldiers, and has 250 round belts weighting 10kg. Even a beefy guy like
 B. J. has trouble carrying it around. It's excellent to mow down human soldiers
 and zombies, but doesn't actually do much to the supersoldiers that carry it.
-
-0.59 0.8
 
 
 
