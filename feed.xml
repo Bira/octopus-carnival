@@ -6,9 +6,265 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jul 2025 20:07:11 +0000</pubDate>
-    <lastBuildDate>Mon, 07 Jul 2025 20:07:11 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Jul 2025 22:08:32 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Jul 2025 22:08:32 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Goliath</title>
+        <description>&lt;p&gt;Dark Sun always had “half-giants” ever since its 2e days. They were very large,
+very strong, and had this funky random alignment rule. Here in Fourth Edition,
+they’ve been syncretized with goliaths.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Athasian goliaths are also known as half-giants. They’re not a natural species,
+but a product of sorcerer-king experimentation blending human and giant
+DNA. Nowadays, most goliaths live in the city-states, but there are communities
+of them out in the mountains of the Tyr Region.&lt;/p&gt;
+
+&lt;p&gt;I think it’s official: The Dark Sun Creature Catalog has nothing nice to say
+about &lt;em&gt;anyone&lt;/em&gt;. Here, it says city-dwelling goliaths are brutal enforcers for
+the templars and the Sorcerer-Kings, and that mountain-dwelling ones are
+“barbaric raiders” who have little use for companions who are not “pets or
+slaves”. Some of them dwell among the giants of the Sea of Silt, where they are
+treated as menial servants but also permitted to take part in raiding.&lt;/p&gt;
+
+&lt;p&gt;2e lore about half-giants said they were so lolrandom that you actually rolled
+on a table every day to see what half your alignment would be. This is gone from
+their 4e incarnation.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-number&quot;&gt;The Number&lt;/h2&gt;
+
+&lt;p&gt;As usual, goliaths are Natural Humanoids and occupy the very high end of Medium
+size. Their speed is 6, and their signature power is &lt;strong&gt;Stone’s Endurance&lt;/strong&gt;, a
+minor action encounter power that gives them some amount of damage resistance
+for a turn. Here, the specifics vary per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;goliath-enforcer&quot;&gt;Goliath Enforcer&lt;/h3&gt;
+
+&lt;p&gt;Representing your typical goliath thug, raider, or mercenary, this is a Level 8
+Brute with 105 HP. It’s armed with a &lt;strong&gt;Greatclub&lt;/strong&gt;, and if surrounded by PCs it
+can &lt;strong&gt;Push Through&lt;/strong&gt; as a minor action. This is an attack vs. Fortitude that
+deals no damage, pushes 1 square, knocks prone, and lets the goliath shift into
+the vacated square. It recharges once it’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Stone’s Endurance here gives Resist All 5 for a turn.&lt;/p&gt;
+
+&lt;p&gt;When the enforcer is reduced to 0 HP, &lt;strong&gt;Vengeful Clout&lt;/strong&gt; lets it make one last
+attack with &lt;strong&gt;Vengeful Clout&lt;/strong&gt;, targetting Fortitude, dealing greatclub damage,
+and knocking prone on a hit. Despite the name, the enforcer doesn’t have to
+target the person who defeated it.&lt;/p&gt;
+
+&lt;h3 id=&quot;goliath-enforcer-legbreaker&quot;&gt;Goliath Enforcer Legbreaker&lt;/h3&gt;
+
+&lt;p&gt;This is the same Goliath Enforcer from before as seen by PCs in the mid-Paragon
+tier, who have far surpassed it in skill. It’s a Level 16 Minion Brute. It has
+the same Greatclub and Vengeful Clout attacks as the regular level 8 version,
+but dealing appropriate damage for its level and minion-ness. Its Stone’s
+Endurance makes it take no damage from the next attack that hits it before the
+end of its next turn, which sounds powerful but is the only version of the
+ability that would make any difference on a minion.&lt;/p&gt;
+
+&lt;p&gt;It’s interesting to note that both the Enforcer and the Legbreaker are worth 350
+XP, so XP total ends up being an interesting guideline for when to upgrade or
+downgrade a monster’s quality as it goes down or up in level.&lt;/p&gt;
+
+&lt;h3 id=&quot;goliath-gladiator&quot;&gt;Goliath Gladiator&lt;/h3&gt;
+
+&lt;p&gt;A better-trained goliath fighter usually met in the arena, with a big bone
+greataxe and an arsenal of fancy tricks. It’s a Level 11 Soldier with 114 HP and
+the Leader tag.&lt;/p&gt;
+
+&lt;p&gt;The attacks of the &lt;strong&gt;Bone Greataxe&lt;/strong&gt; deal standard damage and immediately end
+the target’s marks on the gladiator. It can also use the weapon in a &lt;strong&gt;Leg
+Strike&lt;/strong&gt; that targets Fortitude, deals the same amount of damage, slows and
+prevents the target from shifting for a turn. And finally, it can be used in a
+&lt;strong&gt;Skull Cleaver&lt;/strong&gt; maneuver that also targets Fortitude, deals heavy damage,
+daze, and impose a -2 penalty to saves (save ends both). This recharges when the
+goliath misses with the power, so it will keep trying until it hits.&lt;/p&gt;
+
+&lt;p&gt;It looks to me like the gladiator really wants to get past the party’s defenders
+with the help of its basic attacks, and then use the special maneuvers on the
+party’s squishies that are likely to have a worse Fortitide defense.&lt;/p&gt;
+
+&lt;p&gt;The goliath’s leaderly abilities are all Minor Actions: &lt;strong&gt;Get Up!&lt;/strong&gt; (recharge
+5+) lets an adjacent ally either stand up as a free action, or make a save
+against a dazing, immobilizing or restraining effect. &lt;strong&gt;Offensive Form&lt;/strong&gt; lets it
+mark every adjacent enemy for a turn. Its Stone’s Endurance gives Resist 10 All
+for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;goliath-kings-guard&quot;&gt;Goliath King’s Guard&lt;/h3&gt;
+
+&lt;p&gt;When you finally go meet that crime boss or petty warlord who has an army of
+goliath legbreakers at his service, these are the dudes who will be standing
+next to him as his elite bodyguards. They’re Level 16 Soldiers with 154 HP,
+wielding halberds and wearing scale armor. Their weapons give them &lt;strong&gt;Threatening
+Reach&lt;/strong&gt; 2.&lt;/p&gt;
+
+&lt;p&gt;They might also have metal blades, because their basic attack is described as a
+&lt;strong&gt;Halberd&lt;/strong&gt; without any material qualifiers as “bone” or “obsidian”. They do
+standard damage, slide the target one square and mark it for a turn. The
+&lt;strong&gt;Mighty Clout&lt;/strong&gt; technique (recharge 5+) deals heavy damage, slides 1 square,
+and knocks prone. Their Stone’s Endurance gives them Resist 10 All for a turn.&lt;/p&gt;
+
+&lt;p&gt;A relatively simple stat block, but it’s good at its job of preventing PCs from
+getting close to the boss. As mentioned above, it goes well with a small
+army of legbreaker minions in addition to the boss.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Despite the vitriol heaped upon them by the book, ultimately Goliaths also fit
+the category of People, so you might find them in the usual Mixed People
+Encounters as well. They can be allies or enemies, free or not.&lt;/p&gt;
+
+&lt;p&gt;The stat blocks are pretty simple. Big fighters with big weapons. I thought the
+gladiator was the standout here, lots of interesting martial tricks on that one.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/07/20/wir-dscc-goliath.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/20/wir-dscc-goliath.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Golem</title>
+        <description>&lt;p&gt;That’s the title of the entry, but I’ll try to not to use it outside of the
+monster names since it’s a bit appropriative.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;As as far as D&amp;amp;D goes, these are our “top-tier” constructs, usually placed in
+guardian roles but sometimes found following their creator around and responding
+to direct commands from them. They’re made by binding an elemental into a
+physical shell made out of some material, as we saw in the Monster Manual/Vault
+reading.&lt;/p&gt;
+
+&lt;p&gt;Bone, clay, flesh and stone constructs are as common here as they are in other
+settings, but not even the wealthiest and most wasteful of Sorcerer Kings would
+make a construct out of iron, let alone other metals. Instead, Athasian wizards
+have developed other models made of more commonly available materials. This
+doesn’t mean the constructs themselves are common, as most of the rituals to
+make them are jealously guarded secrets, and even those who still know them
+don’t necessarily know the theory behind the recipe.&lt;/p&gt;
+
+&lt;p&gt;Mind you, metal constructs might still be found in the depths of some Green Age
+or Red Age ruins, and they remain exceedingly dangerous.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;All of our specimens here are Large Natural Animates with the Construct
+tag. They’re immune to disease, poison, and sleep. Everything else varies per
+stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;salt-golem&quot;&gt;Salt Golem&lt;/h3&gt;
+
+&lt;p&gt;This is a construct made out of rock salt, which has some different properties
+from common stone. The most relevant here is that it’s surrounded by a haze of
+salt particles shed from its main body, which it can control. Salt is highly
+toxic at these concentrations and the creature can send it right into your
+bloodstream if you have any open wounds.&lt;/p&gt;
+
+&lt;p&gt;Salt constructs are Level 11 Elite Brutes with 278 HP, a ground speed of 5
+(cannot shift), and Darkvision. They’re surrounded by a haze of &lt;strong&gt;Toxic Salt&lt;/strong&gt;
+that acts as an aura (2), which inflicts -2 to the defenses of any enemy
+inside. If the enemy is bloodied, it also takes 5 poison damage when it starts
+its turn in the aura.&lt;/p&gt;
+
+&lt;p&gt;The creature attacks with the now-traditional &lt;strong&gt;Slam&lt;/strong&gt;, which deals heavy damage
+and on a hit inflicts 5 ongoing poison damage and -2 to attacks (save ends
+both). &lt;strong&gt;Double Attack&lt;/strong&gt; lets it slam twice in one action. Its special attack
+controls that salt cloud to cause &lt;strong&gt;Horrid Dehydration&lt;/strong&gt; (close burst 3, enemies
+only, recharge 4+), which damages then weakens and slows for a turn. If the
+target is bloodied it the conditions become (save ends both) instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;dune-golem&quot;&gt;Dune Golem&lt;/h3&gt;
+
+&lt;p&gt;This is a construct made out of loose sand bound together by air magic. It can
+hold a humanoid shape, but it’s diffuse instead of solid, making it particularly
+resistant to conventional attacks.&lt;/p&gt;
+
+&lt;p&gt;A dune construct is a Level 13 Elite Soldier with 184 HP. It has a ground speed
+of 5, and a burrow speed of 5 on loose earth. In addition to the standard
+immunities to disease, sleep, and poison, it also takes half damage from melee
+and ranged attacks. Unlike its solid cousins from this entry, it can shift.&lt;/p&gt;
+
+&lt;p&gt;The creature is surrounded by an aura (2) of &lt;strong&gt;Gusting Sands&lt;/strong&gt;, which counts as
+difficult terrain for enemies inside. Whenever such an enemy tries to stand up
+from prone inside the aura, they must roll a save. If they fail, they stay prone
+and waste the action they spent trying to get up. We also see the &lt;strong&gt;Unhindered&lt;/strong&gt;
+trait here, which lets the construct pull grabbed victims along when it moves.&lt;/p&gt;
+
+&lt;p&gt;The construct’s &lt;strong&gt;Slams&lt;/strong&gt; deal the usual damage, and grab on a hit. It can have
+up to two grabbed victims, and can sustain the grabs for free. It has &lt;strong&gt;Double
+Attack&lt;/strong&gt;, so it could grab two victims in the same action if it hits with both
+slams.&lt;/p&gt;
+
+&lt;p&gt;Grabbed victims are susceptible to &lt;strong&gt;Engulf&lt;/strong&gt;, a minor action attack that deals
+light damage but starts inflicting ongoing 15 damage until the grab ends!  And
+then you have &lt;strong&gt;Shifting Sands&lt;/strong&gt; a move action power that lets the construct
+either shift its speed, or to shift half its speed and gain phasing during this
+movement. While shifting, it ignores difficult terrain and can move through
+enemy spaces, so this is a good escape hatch in addition to being a way to play
+keep-away with the suffocating grabbed victims and their allies. One special
+condition with the phasing here is that it only works if the surface in question
+has a hole wide enough to let a grain of sand through, which shouldn’t be a
+problem in most cases.&lt;/p&gt;
+
+&lt;h3 id=&quot;obsidian-golem&quot;&gt;Obsidian Golem&lt;/h3&gt;
+
+&lt;p&gt;Another construct made from a type of stone with specific properties. In this
+case, obsidian is more or less natural volcanic glass. Like the stone they’re
+made from, these constructs are very very sharp. They’re also deceptively fast.&lt;/p&gt;
+
+&lt;p&gt;They are Level 19 Elite Soldiers with 358 HP. Their speed is merely 4 and they
+cannot shift, but they’re &lt;strong&gt;Razor Sharp&lt;/strong&gt;. This property is modeled as an aura
+(1). Any enemy inside the aura that moves to another square inside the aura
+takes 10 damage.&lt;/p&gt;
+
+&lt;p&gt;Instead of Double Attack, obsidian constructs have &lt;strong&gt;Inexorable Action&lt;/strong&gt;, which
+lets them roll initiative twice and take two whole turns per round at those
+counts.&lt;/p&gt;
+
+&lt;p&gt;The construct’s &lt;strong&gt;Slams&lt;/strong&gt; deal the usual brute-tier damage, push 1 square, knock
+prone, and inflict ongoing 5 damage (save ends) from the bits of obsidian that
+break off and get stuck in the wound. It can also use a &lt;strong&gt;Stunning Handclap&lt;/strong&gt;
+(recharge 6+) which attacks all enemies in a Close Burst 5. On a hit it deals
+thunder damage and stuns for a turn!&lt;/p&gt;
+
+&lt;p&gt;A rechargeable multi-target stun is a terrifying prospect. A lucky recharge roll
+might let the creature use this twice in a round, which is a very bad thing for
+the PCs.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;You’re gonna run into some of these things eventually in any D&amp;amp;D campaign that
+goes on for long enough, and these ones are reasonably interesting.&lt;/p&gt;
+
+&lt;p&gt;If guarding a site, they’ll either be accompanied by more constructs or by other
+long-lasting guardians such as undead, devils, or demons. If found as
+bodyguards, they’ll be accompanied by their masters and any other goons you care
+to add to the group.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/07/15/wir-dscc-golem.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/15/wir-dscc-golem.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Gith</title>
@@ -1454,304 +1710,6 @@ an all-elven group will likely be trained war beasts instead of more elves.&lt;/
         <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Eladrin</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-eladrin.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An Eladrin Veiled Warrior stepping out of a mirage.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Physically, Athasian eladrin are very similar to those of the core setting, but
-the near-total loss of their home plane has done a number on their psychology
-and culture.&lt;/p&gt;
-
-&lt;p&gt;Defiling magic didn’t just destroy Athasian ecosystems - they also dissolved its
-Feywild. Now only a few rare pocket dimensions remain, scattered like oases
-through the wastes. The fate of the Lands Within the Wind is still tied to that
-of Athas, which means they’re slowly dying just like the world is.&lt;/p&gt;
-
-&lt;p&gt;Similarly, Athasian Eladrin are a traumatized and dying people. Most of the ones
-that remain live in remote castles and settlements in the desert or inside
-surviving pockets of Feywild, guarding the entrance to their realms with psychic
-illusions and only venturing out when they must.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Eladrin have the same common stats as always: they’re Medium Fey Humanoids with
-a Speed of 6, Low-light vision and a +5 on saves vs. charm effects. They retain
-their signature &lt;strong&gt;Fey Step&lt;/strong&gt; power, which lets them teleport 5 squares as a move
-action once per encounter.&lt;/p&gt;
-
-&lt;p&gt;These stat blocks occupies what would be the lower range of eladrin power levels
-from the Monster Manuals and Monster Vault. There are no more epic-level ghaeles
-and bralanis in Athas… probably.&lt;/p&gt;
-
-&lt;h3 id=&quot;eladrin-veiled-warriors&quot;&gt;Eladrin Veiled Warriors&lt;/h3&gt;
-
-&lt;p&gt;Veiled Warriors are spies and scouts that range far away from Eladrin
-settlements to gather information and locate resources, thought hey can also be
-found as part of their homes’ defense force. This is a great origin for PCs!&lt;/p&gt;
-
-&lt;p&gt;NPC Veiled Warriors are Level 5 Soldiers with 60 HP. They fight with
-Reach 2 &lt;strong&gt;Longspears&lt;/strong&gt; that damage and mark for a turn on a hit. Once per
-encounter they can use a &lt;strong&gt;Veiling Dart&lt;/strong&gt; (ranged 5 vs. Will) which deals
-psychic damage, blinds for a turn and slows (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;eladrin-mirage-adept&quot;&gt;Eladrin Mirage Adept&lt;/h3&gt;
-
-&lt;p&gt;These are the psions responsible for hiding Eladrin settlements. They’re Level 7
-Controllers with 80 HP and a focus on illusion powers.&lt;/p&gt;
-
-&lt;p&gt;Their basic melee attack is a &lt;strong&gt;Dagger&lt;/strong&gt; that deals psychic damage and slows for
-a turn. They can attack at range with &lt;strong&gt;Deluding Whispers&lt;/strong&gt; (ranged 10
-vs. Will), a charm power that deals psychic damage, slides 3 squares and
-prevents the target from seeing creatures not adjacent to it for a turn.&lt;/p&gt;
-
-&lt;p&gt;Occasionally they’ll strike with the &lt;strong&gt;Phantom Foes&lt;/strong&gt; power (recharge 6, area 2
-within 20 vs. Will), which I guess projects the illusion that many additional
-foes are attacking the targets. This “psychic fireball” deals psychic damage and
-confuses (save ends). Confused characters roll a d20 whenever they’re about to
-make a melee or ranged attack and an ally is also in reach of that attack. On a
-10 or higher, they attack the ally instead of the intended target.&lt;/p&gt;
-
-&lt;p&gt;Mirage adepts are very effective when combined with veiled warriors, because the
-warriors use reach weapons and so don’t need to be adjacent to a target blinded
-by Deluding Whispers in order to attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;eladrin-windwalker&quot;&gt;Eladrin Windwalker&lt;/h3&gt;
-
-&lt;p&gt;Some eladrin indiscriminately blame all people of the natural world for the fate
-of their homeland, and feel such overwhelming hatred towards them that they
-offer themselves in ritual sacrifice. This causes their life essence to slowly
-leak into the Feywild and be replaced with the raw magic of that plane. This
-gives them great power for as long as their diminishing life lasts. They use
-their remaining time to go out into the world and slay every humanoid they see.&lt;/p&gt;
-
-&lt;p&gt;Windwalkers are Level 8 Lurkers with 69 HP. They fight with &lt;strong&gt;sabers&lt;/strong&gt; and
-&lt;strong&gt;blowguns&lt;/strong&gt; that ignore armor and target Reflex. Their damage is average, but
-&lt;strong&gt;Unseen Advantage&lt;/strong&gt; lets the windwalker deal extra damage against targets that
-can’t see it, and slow them for a turn on any hit.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Between the Winds&lt;/strong&gt; trait lets a windwalker become invisible and gain
-phasing whenever it either spends a turn without attacking or uses its &lt;em&gt;fey
-step&lt;/em&gt;. These conditions last for a turn or until the windwalker attacks. This
-does mean they can stay continuously invisible if they don’t attack.&lt;/p&gt;
-
-&lt;p&gt;Windwalkers will usually try to attack every other turn like most lurkers to
-benefit from Unseen Advantage, but the presence of an ally who can make them
-invisible or blind PCs (like a Mirage Adept) can let them strike every turn with
-bonus damage.&lt;/p&gt;
-
-&lt;h3 id=&quot;eladrin-windwalker-mirage&quot;&gt;Eladrin Windwalker Mirage&lt;/h3&gt;
-
-&lt;p&gt;Windwalkers in the final stages of the process are little more than ghosts. They
-become Level 8 Minion Lurkers with a ground speed of &lt;em&gt;zero&lt;/em&gt;, a flight speed of 6
-(hover, altitude limit 2), always-on phasing, and Resist 10 All. Despite
-appearances they are &lt;em&gt;not&lt;/em&gt; undead, and are not especially vulnerable to radiant
-damage and anti-undead powers.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Wisp on the Wind&lt;/strong&gt; trait gives them partial concealment vs. enemies that
-are 2 or 3 squares away, and total concealment against enemies 4 or more squares
-away. Their melee attack is a &lt;strong&gt;Razor Wind&lt;/strong&gt; that does minion-tier damage. When
-they hit 0 HP, their &lt;strong&gt;Dispersing Essence&lt;/strong&gt; attacks a Close Burst 3 and does the
-same damage as Razor Wind to those it hits.&lt;/p&gt;
-
-&lt;p&gt;The mirage’s damage resistance means you can only get it to that point by
-dealing 11 or more damage with a single attack - they’ll resist anything
-weaker. On the bright side, this means Dispersing Essence cannot provoke a chain
-reaction as it only deals 8 damage.&lt;/p&gt;
-
-&lt;p&gt;Mirages love large battle maps that let them invisibly fly past the party’s
-defenders and gang up on isolated squishies. PCs can counter this tactic by
-sticking together, but Dispersing Essence makes that decision a bit tougher than
-it would seem at first. Cruel GMs can make it even harder by including other
-monsters capable of area attacks in the encounter.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The Windwalker variants are evil, having succumbed to genocidal rage, but
-everyone else is unaligned. And they’re all super tragic.&lt;/p&gt;
-
-&lt;p&gt;I don’t think windwalkers would mix with other eladrin, though it’s easy
-enough to reskin a standard Mirage Adept as another windwalker variant if you
-want to mix them up. As noted above, this makes for a potent combination.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/03/wir-dscc-eladrin.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/03/wir-dscc-eladrin.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dune Reaper</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dune-reaper.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    A dune reaper. This image is mirrored from the one in the book.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Like a lot of other Athasian fauna, dune reapers are predatory
-insectile/reptilian pack hunters. However, they lean a lot more towards the
-“insectile” side, and their origins are clearly unnatural even to contemporary
-inhabitants of Athas.&lt;/p&gt;
-
-&lt;p&gt;The book says they “came to existence through defiling magic”, though it doesn’t
-specify whether they were an artificially engineered species or whether some
-side effect of defiling brought them to the world. Their Aberrant origin kinda
-hints at the latter.&lt;/p&gt;
-
-&lt;p&gt;These creatures have a complex social structure. They organize into large
-familial groups known as prides, who build large hives from sand, rocks, and
-organic secretions near a water source that becomes the center of their
-territory. The pride then splits up into smaller packs, which roam that
-territory looking for food. A pack is composed of a large female “warrior”,
-accompanied by smaller male “drones” and “shrieks” who are her mates. The
-pride’s dominant female is known as its “matron”, and it’s her who makes
-decisions that affect the whole pack, like where to build the hive or when to
-seek new territory. A matron rules the pride until her death, which is usually
-in a duel with an up-and-coming warrior who challenges her for the position.&lt;/p&gt;
-
-&lt;p&gt;Dune reapers are a scourge on the local ecology. Their menu includes just about
-everything they can reach: humanoids, animals, plants, wagons, buildings… they
-even eat rocks to store in their gizzards and aid in the digestion of tougher
-food. A humanoid settlement in dune reaper territory is only safe if they can
-provide the creatures with an ample alternate source of food.&lt;/p&gt;
-
-&lt;p&gt;Dune reaper reproduction happens on an annual cycle, and they’re even more
-dangerous during mating season. The pride’s females need to lay their eggs
-inside the bodies of living creatures, you see. When the eggs hatch, the newborn
-reapers eat their host, and then set upon each other. Only the strongest
-hatchlings survive this process. After about two months they’re already as
-dangerous as a fully grown adult. At this time, they’re driven from their birth
-hive and must either join another pride or form a new one with other young
-reapers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Dune Reapers are Aberrant Beasts with Darkvision. Their basic melee attack
-always uses their &lt;strong&gt;Arm Blades&lt;/strong&gt;, which do standard damage for their level and
-might have other effects depending on the stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;dune-reaper-drone&quot;&gt;Dune Reaper Drone&lt;/h3&gt;
-
-&lt;p&gt;These relatively small males are Medium and make up the dune reaper worker
-caste. They build the hive and carry food back to it, but as Level 12
-Skirmishers with 120 HP and Speed 8 they’re certainly strong enough to take part
-in the hunt as well.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;arm blade&lt;/strong&gt; attack also lets them shift 1 square on a hit. They
-can perform a &lt;strong&gt;Leaping Slash&lt;/strong&gt; that lets them jump 4 squares without provoking
-opportunity attacks and use Arm Blade at the end of the movement. This recharges
-when they’re first bloodied.&lt;/p&gt;
-
-&lt;p&gt;If an enemy grants Combat Advantage to the drone, it can use a minor action to
-&lt;strong&gt;bite&lt;/strong&gt;, dealing light physical damage on a hit. If an enemy makes a melee
-attack against the drone, it can &lt;strong&gt;Leap Away&lt;/strong&gt;, jumping 4 squares without
-drawing OAs, as an immediate reaction.&lt;/p&gt;
-
-&lt;p&gt;Drones want to leap into melee at the start of the fight, and seek positions
-where their chosen target grants them CA. They’ll leap away when attacked and
-come back from an unexpected angle. When fighting drones, shoot them or surround
-them. Don’t let them surround you.&lt;/p&gt;
-
-&lt;h3 id=&quot;dune-reaper-shriek&quot;&gt;Dune Reaper Shriek&lt;/h3&gt;
-
-&lt;p&gt;That’s not a role you usuall find among mundane insects. The book considers them
-specialized drones that can leap not just through the air, but through time and
-space. When they do this, they emit an ear-splitting scream that gives them
-their name. They’re Level 14 Lurkers with 106 HP and Speed 7.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;arm blades&lt;/strong&gt; are standard attacks with no riders, and are a lot more
-dangerous when used in conjunction with the shriek’s freaky powers. A
-&lt;strong&gt;Shrieking Reap&lt;/strong&gt; lets them make two arm blade attacks against the same
-target. If one hits, it teleports the target 2 squares and inflicts 10 ongoing
-damage (save ends). If both hit, the teleport distance increases to 5, and the
-ongoing damage to 15. A &lt;strong&gt;Shrieking Warp&lt;/strong&gt; removes the shriek from play until
-the start of its next turn, when it appears at a spot within 10 squares of its
-previous position and makes a Close Burst 2 attack that deals thunder damage and
-pushes 2 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;Shrieking Warp is an at-will ability, but it’s disabled for a turn when the
-shriek takes force damage because of its &lt;strong&gt;Forceful Silence&lt;/strong&gt; trait. Shrieking
-Reap recharges whenever the creature uses Shrieking Warp. Our lurker loop here
-is Shrieking Reap -&amp;gt; Shrieking Warp -&amp;gt; Repeat.&lt;/p&gt;
-
-&lt;p&gt;The book reminds us that forced movement is always voluntary for the attacker,
-so shrieks arriving from a Warp will often choose to push all but one of the
-enemies they hit with the attack, to isolate it from its allies. Clever!&lt;/p&gt;
-
-&lt;h3 id=&quot;dune-reaper-warrior&quot;&gt;Dune Reaper Warrior&lt;/h3&gt;
-
-&lt;p&gt;This Large female will lead a pack of drones and shrieks when hunting. She’s a
-Level 15 Brute with 180 HP, Speed 7, and the Leader tag.&lt;/p&gt;
-
-&lt;p&gt;She exudes an aura (3) of &lt;strong&gt;Inciting Pheromones&lt;/strong&gt; that grants all dune reapers
-inside a +2 bonus to Will, and makes them immune to the Dazed condition. She
-also has the &lt;strong&gt;Unhindered&lt;/strong&gt; trait we saw before, which lets her drag grabbed
-characters around when she moves.&lt;/p&gt;
-
-&lt;p&gt;Her &lt;strong&gt;arm blade&lt;/strong&gt; is Reach 2 and extra-strong. She can perform a &lt;strong&gt;Leaping
-Slash&lt;/strong&gt; similar to the drone’s, which also inflicts 10 ongoing damage if either
-attack hits.&lt;/p&gt;
-
-&lt;p&gt;Her triggered actions make her even more dangerous. &lt;strong&gt;Snapping Mandibles&lt;/strong&gt;
-triggers when someone hits the warrior with a melee attack. As a reaction, she
-attacks their Fortitude and grabs them on a hit. Grabbed targets take 10 damage
-when they fail an escape attempt. Her &lt;strong&gt;Compelling Musk&lt;/strong&gt; (recharge 5+) is
-triggered when she misses with an Arm Blade attack, and lets another dune reaper
-within 3 squares make a melee basic attack as an opportunity action. I’m not
-going to make a joke about that power name, it’s too easy.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Dune reaper packs number between 5 and 12 (!) individuals. Only one will be a
-warrior, though you could say the PCs found more than one pack together if you
-want there to be more of them.&lt;/p&gt;
-
-&lt;p&gt;Reapers are impossible to train, but sapient humanoids still capture them for
-use as arena beasts, and hunt them as a source of leather, organic armor plates,
-and blades.&lt;/p&gt;
-
-&lt;p&gt;These seem to me like yet another pack-based predator, the third or fourth we
-saw in this reading. I do like the ominous aberrant touches in both their lore
-and mechanics, though. The shriek in particular reminds me a lot of a Hound of
-Tindalos.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/04/24/wir-dscc-dune-reaper.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/04/24/wir-dscc-dune-reaper.html</guid>
         
         <category>dnd4</category>
         
