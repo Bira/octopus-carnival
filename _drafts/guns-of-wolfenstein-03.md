@@ -187,6 +187,9 @@ marksmanship.
 An extended 30-round magazine is available: Shots 30+1(3), Weight becomes
 6.2/1.05kg. The gun can also fire APHC rounds: Dam 6d+2(2) pi-.
 
+In The New Colossus, you turned the Assault Rifle into this when you installed a
+scope on it, but I think it makes more sense to keep it as a separate weapon.
+
 #### Shockhammer Model 1960
 
 Another descendant of the gun from The Old Blood, this one uses a "snail drum"
@@ -231,7 +234,7 @@ Gunner (Machine Gun) depending on whether it's mounted or not.
 | 7   | Thompson M1A1      | 2d+1 pi+ | 3   | 170/1900 | 6.1kg/0.8kg  | 11   | 30+1(3) | 10† | -5   | 2   |
 | 8   | Assault Rifle 60-T | 5d pi    | 5   | 500/3100 | 5.5kg/1kg    | 12   | 45+1(3) | 9†  | -5   | 2   |
 | 8   | Marksman Rifle     | 6d+2 pi  | 5   | 850/3750 | 5.5kg/0.35kg | 3    | 10+1(3) | 10† | -5   | 2   |
-| 8   | Shockhammer 1960   | 1d+1 pi  | 3   | 40/800   | 8.2kg/2.1kg  | 6x9  | 20(5)   | 11† | -5   | 1/7 |
+| 8   | Shockhammer 1960   | 1d+1 pi  | 3   | 40/800   | 7.1kg/1.05kg | 6x9  | 20(5)   | 11† | -5   | 1/7 |
 | 8+1 | Heavy Shotgun      | 1d+1 pi  | 3   | 40/800   | 25kg/10kg    | 12x9 | 200(10) | 15M | -8   | 1   |
 
 
@@ -243,11 +246,11 @@ Beam Weapons (Rifle) unless noted otherwise.
 Laser weapons in this setting draw power from internal batteries that can't be
 removed without disassembling the weapon. The usual method of reloading them is
 by using one of the highly dangerous industrial power outlets that seem to be
-everywhere in Nazi facilities and cities.
+everywhere in Nazi-dominated cities and facilities.
 
 In The New Order, these use short-ranged wireless power transfer. In The New
-Colossus, these use a thick cable that must be plugged into the weapon. I
-suggest picking an aesthethic and sticking to it.
+Colossus, they use a thick cable that must be plugged into the weapon. I suggest
+picking an aesthethic and sticking to it.
 
 **Wireless Charging**: The wielder must stay within 2 meters of the outlet
 during the process, which causes lightning to arc between the outlet and the
@@ -268,7 +271,7 @@ In some places you can also find portable batteries that can be used to top up a
 weapon through a similar process. The GM will say how many shots from a weapon
 an individual battery can recharge.
 
-#### Marksman Rifle (Laser)
+#### Lunar Laser Rifle
 
 On the Moonbase level of The New Order, everyone carries a laser weapon with the
 same external appearance as the Marksman Rifle. It lacks a scope, and can fire
@@ -316,14 +319,13 @@ it to fire more often or to fire a more powerful "charged" shot that's better at
 dealing with large and heavily armored opponents.
 
 In the Weapon Table below, you get stats both for the baseline version and the
-fully-powered one.
+fully-upgraded one.
 
 Industrial outlets recharge the weapon at a rate of 1 shot per second with the
 standard battery, or 2 shots per second with the expanded one. The final upgrade
-in The New Order is an "even more superscience" portable reactor that recharges
-the weapon at a rate of 1 shot per 2 seconds whenever it's not being fired,
-regardless of its battery size. This one's from an undiscovered Da'at Yichud
-vault.
+in The New Order is an "even more superscience" Da'at Yichud portable reactor
+that recharges the weapon at a rate of 1 shot per 2 seconds whenever it's not
+being fired, regardless of its battery size.
 
 #### Laser Machine Gun
 
