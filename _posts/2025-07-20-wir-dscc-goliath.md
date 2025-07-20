@@ -25,6 +25,10 @@ the templars and the Sorcerer-Kings, and that mountain-dwelling ones are
 slaves". Some of them dwell among the giants of the Sea of Silt, where they are
 treated as menial servants but also permitted to take part in raiding.
 
+2e lore about half-giants said they were so lolrandom that you actually rolled
+on a table every day to see what half your alignment would be. This is gone from
+their 4e incarnation.
+
 ## The Number
 
 As usual, goliaths are Natural Humanoids and occupy the very high end of Medium
