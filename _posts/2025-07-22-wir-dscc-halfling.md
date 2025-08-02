@@ -11,7 +11,8 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-halfling.png" | absolute_url }}"/>
   <figcaption>
-    A halfling.
+    A halfling wielding a spear and wearing bone armor, sneaking through a
+    forest.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>
