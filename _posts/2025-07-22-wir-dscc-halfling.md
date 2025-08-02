@@ -7,6 +7,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-halfling.png" | absolute_url }}"/>
+  <figcaption>
+    A gith warrior with a spear.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Athasian halflings are physically identical to their standard 4e counterparts,

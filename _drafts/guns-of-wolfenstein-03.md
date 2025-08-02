@@ -13,9 +13,9 @@ was Wolfenstein-1.
 ## The New Order Plot Overview (Contains Spoilers)
 
 Though this game was launched a year earlier, its story starts off right after
-The Old Blood ends. After B. J. Blaskowicz returns to the Allies with the
-location of General Deathshead's secret hideout, they mount a massive attack on
-that island fortress.
+The Old Blood ends, in 1946. After B. J. Blaskowicz returns to the Allies with
+the location of General Deathshead's secret hideout, they mount a massive attack
+on that island fortress.
 
 The attack is a disaster. Blazko is among the soldiers that make it to the
 shore, and his unit makes significant progress into the fortress before they end
@@ -24,21 +24,22 @@ capture them.
 
 After a few very unpleasant scenes, the survivors manage to escape just as the
 room they're in explodes. Blazko gets hit in the head by a large piece of
-shrapnel. He washes ashore somewhere in Poland, and since no one knows who he
-is, gets sent to an asylum. He spends the next 14 years there slowly recovering,
-with nearly no motor function, slipping in and out of comas.
+shrapnel. He washes ashore somewhere in Poland, catatonic, and since no one
+knows who he is, gets sent to an asylum. He spends the next 14 years there
+slowly recovering, with nearly no motor function, slipping in and out of comas.
 
 A Nazi attack on the asylum in 1960 gives him the impulse he needs to complete
 his recovery, and the first actual level of the game is escaping that situation
-with Anna, the other survivor of the place. They reach Anna's grandparents,
-where Blazko learns that the Nazis won the war in 1948, and that as far as
-everyone knows the last members of the resistance had been captured and sent to
-an "inescapable" prison in Berlin.
+with a nurse named Anna, the other survivor of the place. They reach Anna's
+grandparents, where Blazko learns that the Nazis won the war in 1948, and that
+as far as everyone knows the last members of the resistance had been captured
+and sent to an "inescapable" prison in Berlin.
 
-The rest of the game is about freeing these prisoners, and rebuilding the
-resistance through a series of daring heists. These culminate in the capture of
-a super-submarine, the recovery of its nuclear launch codes from a Nazi base on
-the Moon, and finally an attack on Deathshead's fortress.
+The rest of the game is about freeing these prisoners, rebuilding the
+resistance, and striking back at Deathshead through a series of daring
+heists. These culminate in the capture of a super-submarine, the recovery of its
+nuclear launch codes from a Nazi base on the Moon, and finally an attack on
+Deathshead's fortress.
 
 During this process, the resistance discovers the origin of all that
 supertech. There was this millenia-old secret society of engineers named Da'at
@@ -53,10 +54,10 @@ bit of super-science as well. Though Seth is Jewish, I'm not sure if all of the
 Da'at Yichud also was. Their portrayal is well-meaning, but from what I hear it
 didn't land quite right.
 
-In the second attack, Blazko manages to kill Deathshead, though the asshole
-manages to detonate a grenade as he dies. The game ends as B. J., too wounded to
-evacuate, gives his allies the all-clear to launch the nuke that will destroy
-this fortress for good.
+Blazko manages to kill Deathshead during the second attack on his fortress,
+though the asshole manages to detonate a grenade as he dies. The game ends as
+B. J., too wounded to evacuate, gives his allies the all-clear to launch the
+nuke that will destroy this fortress for good.
 
 ## The New Colossus Plot Overview (Contains Spoilers)
 
@@ -72,10 +73,10 @@ awakens fully in the middle of a nazi attack.
 Frau Engel, who was a secondary antagonist in the previous game, has been
 promoted to replace Deathshead. What she lacks in technical skill, she makes up
 in petty cruelty. She commands a flying fortress that is currently attacking the
-rebel sub. The first level has the player fighting off this attack while bound
-to a wheelchair. He's aided by resistance leader Caroline and her suit of
-powered armor, but they end up getting captured and Caroline gets executed
-before B. J. manages to wear her armor and escape with the survivors.
+rebel sub. The first level has BJ fighting off this attack while bound to a
+wheelchair. He's aided by resistance leader Caroline and her suit of powered
+armor, but they end up getting captured and Caroline gets executed before
+B. J. manages to wear her armor and escape with the survivors.
 
 After a brief detour to clear a secret deck on the sub of the Nazis that had
 been hiding there and sending transmissions to their bosses, the resistance
@@ -102,8 +103,9 @@ as a piece of foreshadowing).
 
 The missions continue after this: rescuing another resistance group from New
 Orleans, flying all the way to Venus to recover the password for the flying
-fortress, and taking control of it in a spectacular and daring raid. Killing
-Frau Engel live on nation-wide TV is just a victory lap after that.
+fortress' security system, and taking control of it in a spectacular and daring
+raid. Killing Frau Engel live on nation-wide TV is just a victory lap after
+that.
 
 The speech from the resistance leaders that immediately precedes the end credits
 was very topical for 2017, and I never thought I'd see it becoming _more_
@@ -141,7 +143,8 @@ mode, and Guns (SMG) to fire bursts. If using the optional skills from Pyramid
 
 The _Pistol Model 1961_ is almost identical, but a little heavier: Weight
 1.5kg/0.5kg. The extra weight is due to its sturdier receiver and barrel, which
-can safely fire "magnum" rounds: Dam 3d pi, Rcl 3.
+can safely fire "magnum" rounds: Dam 3d pi, Rcl 3. It can also fire the same
+standard 9mm rounds as the Model 1960.
 
 | TL | Weapon      | Damage  | Acc | Range    | Weight      | RoF | Shots   | ST | Bulk | Rcl |
 |:--:|:-----------:|:-------:|:---:|:--------:|:-----------:|:---:|:-------:|:--:|:----:|:----|
@@ -164,9 +167,22 @@ Allies mostly didn't have access to superscience in this timeline and were
 limited to historical equipment.
 
 Allied soldiers are armed with this during the 1946 assault on Deathshead's
-compound, and Fergus urges them to grab an enemy gun as soon as possible.
+compound, and the game expects you to use them for the handful of minutes
+between the start of gameplay and the moment when you first grab an enemy
+weapon.
 
-This is the only gun in this section that's fired with Guns (SMG).
+#### Machine Pistol Model 1961
+
+Used extensively by enemies in The New Colossus, this SMG fires a low-caliber
+round from a 45-round magazine. It has a retractable wire stock and a
+distinctive barrel jacket. If fired one-handed with the stock folded: ST 11, Rcl
+3.
+
+The _MP-61S_ has an integral cinematic suppressor that works like the pistol's,
+but only RoF 8.
+
+Both models can take a 90-round drum: -1 to Bulk, Shots 90+1(3), weight becomes
+3.55/0.85kg. Both can also fire API ammo: Dam 3d(2) pi- inc.
 
 #### Assault Rifle Model 1960
 
@@ -211,7 +227,7 @@ suitable surfaces nearby.
 At the GM's discretion, any special shells listed in High Tech and Ultra-Tech
 might also be available for this shotgun.
 
-#### Heavy Shotgun
+#### Rotary Shotgun
 
 Found in fixed mounts and occasionally wielded by cyborg supersoldiers, this
 heavy weapon has 4 rotary barrels and fires 12G shotgun shells at an alarming
@@ -228,14 +244,17 @@ use whatever it comes loaded with, and then throw it away.
 If using the standard skill system, the weapon is used with either Guns (LMG) or
 Gunner (Machine Gun) depending on whether it's mounted or not.
 
+#### Long Arms Table
 
-| TL  | Weapon             | Damage   | Acc | Range    | Weight       | RoF  | Shots   | ST  | Bulk | Rcl |
-|:---:|:------------------:|:--------:|:---:|:--------:|:------------:|:----:|:-------:|:---:|:----:|:----|
-| 7   | Thompson M1A1      | 2d+1 pi+ | 3   | 170/1900 | 6.1kg/0.8kg  | 11   | 30+1(3) | 10† | -5   | 2   |
-| 8   | Assault Rifle 60-T | 5d pi    | 5   | 500/3100 | 5.5kg/1kg    | 12   | 45+1(3) | 9†  | -5   | 2   |
-| 8   | Marksman Rifle     | 6d+2 pi  | 5   | 850/3750 | 5.5kg/0.35kg | 3    | 10+1(3) | 10† | -5   | 2   |
-| 8   | Shockhammer 1960   | 1d+1 pi  | 3   | 40/800   | 7.1kg/1.05kg | 6x9  | 20(5)   | 11† | -5   | 1/7 |
-| 8+1 | Heavy Shotgun      | 1d+1 pi  | 3   | 40/800   | 25kg/10kg    | 12x9 | 200(10) | 15M | -8   | 1   |
+
+| TL  | Weapon         | Damage   | Acc | Range    | Weight       | RoF  | Shots   | ST  | Bulk | Rcl |
+|:---:|:--------------:|:--------:|:---:|:--------:|:------------:|:----:|:-------:|:---:|:----:|:----|
+| 7   | Thompson M1A1  | 2d+1 pi+ | 3   | 170/1900 | 6.1kg/0.8kg  | 11   | 30+1(3) | 10† | -5   | 2   |
+| 7   | MP-61          | 4d pi-   | 4   | 170/1900 | 3.1kg/0.4kg  | 13   | 45+1(3) | 8†  | -4*  | 2   |
+| 8   | Assault Rifle  | 5d pi    | 5   | 500/3100 | 5.5kg/1kg    | 12   | 45+1(3) | 9†  | -5   | 2   |
+| 8   | Marksman Rifle | 6d+2 pi  | 5   | 850/3750 | 5.5kg/0.35kg | 3    | 10+1(3) | 10† | -5   | 2   |
+| 8   | Shockhammer    | 1d+1 pi  | 3   | 40/800   | 7.1kg/1.05kg | 6x9  | 20(5)   | 11† | -5   | 1/7 |
+| 8+1 | Rotary Shotgun | 1d+1 pi  | 3   | 40/800   | 25kg/10kg    | 12x9 | 200(10) | 15M | -8   | 1   |
 
 
 ### Energy Weapons
@@ -249,7 +268,7 @@ by using one of the highly dangerous industrial power outlets that seem to be
 everywhere in Nazi-dominated cities and facilities.
 
 In The New Order, these use short-ranged wireless power transfer. In The New
-Colossus, they use a thick cable that must be plugged into the weapon. I suggest
+Colossus, they use a thick with a plug that resembles a gas station pump. I suggest
 picking an aesthethic and sticking to it.
 
 **Wireless Charging**: The wielder must stay within 2 meters of the outlet
@@ -343,13 +362,14 @@ industrial outlet while not being fired.
 
 This uses Gunner (Beams) whether mounted or carried.
 
+#### Energy Weapon Table
 
 | TL   | Weapon                 | Damage           | Acc  | Range    | Weight | RoF | Shots | ST  | Bulk | Rcl |
 |:----:|:----------------------:|:----------------:|:----:|:--------:|:------:|:---:|:-----:|:---:|:----:|:----|
-| 8+2^ | Marskman Rifle (Laser) | 5d(2) burn       | 12   | 500/1500 | 5.5kg  | 10  | 28*   | 7†  | -5   | 1   |
-| 8+2^ | LKW (baseline)         | 6d(2) burn       | 12   | 700/2100 | 4.5kg  | 1   | 10*   | 7†  | -4   | 1   |
-| 8+2^ | LKW (fully upgraded)   | 6d(2) burn sur   | 12+2 | 700/2100 | 5.5kg  | 3   | 20*   | 7†  | -4   | 1   |
-|      | _charged shot_         | 6dx3(3) burn sur |      |          |        |     | **    |     |      |     |
+| 8+2^ | Marskman Rifle (Laser) | 5d(2) burn       | 12   | 500/1500 | 5.5kg  | 5   | 28*   | 7†  | -5   | 1   |
+| 8+2^ | LKW (baseline)         | 6d(2) burn       | 12   | 700/2100 | 4.5kg  | 3   | 10*   | 7†  | -4   | 1   |
+| 8+2^ | LKW (fully upgraded)   | 6d(2) burn sur   | 12+2 | 700/2100 | 5.5kg  | 5   | 20*   | 7†  | -4   | 1   |
+|      | _charged shot_         | 6dx3(3) burn sur |      |          |        | 1   | **    |     |      |     |
 | 8+2^ | Laser MG               | 6d(2) burn       | 12   | 700/2100 | 25kg   | 10  | 200*  | 15M | -8   | 1   |
 
 
@@ -357,6 +377,68 @@ This uses Gunner (Beams) whether mounted or carried.
 
 **: Drains power equivalent to 5 shots from the battery.
 
-### Launchers
+### Grenades and Launchers
+
+Enemy soldiers are enthusiastic about using hand grenades in the The New Order,
+and only a little less so in The New Colossus. Launcher weapons are much rarer.
+
+The Tesla Grenade (below) is the only one used in The New Order. In the New
+Colossus, most enemies use a standard explosive grenade, with a rare few using
+the incendiary one.
+
+#### Explosive Grenade
+
+A standard high-explosive warhead with limited fragmentation in a compact
+egg-shaped package. This is the most common grenade as of The New Colossus.
+
+#### Incendiary Grenade
+
+Shaped similarly to the high-explosive variant, this one sprays burning fuel
+around the epicenter of its detonation, likely causing fires.
+
+#### Tesla Grenade
+
+This one looks like a modernized version of the Stick Hand Grenade used back
+in 1946. Its explosive power is equivalent, but also releases an electromagnetic
+pulse that can "stun" robotic and cybernetic enemies in a 4-meter radius from
+the epicenter of the explosion. They must make a HT-8(2) roll or be knocked out
+of action for seconds equal to their marging of failure. That (2) means that any
+electromagnetic shielding that would provide a bonus to this roll only works at
+half effectiveness.
+
+This _also_ applies to laser weapons of any kind, which usually have HT 12.
+
+#### Kampfpistole 1960
+
+This one is quite similar to the 1946 model, but takes larger cylinders with a
+6-round capacity. It fires a newer model of rocket with a more powerful charge
+and a less safe arming distance.
+
+This is only issued to certain high-ranking elite officers, more as a symbol of
+status than something they're expected to use in combat. It can be "procured" at
+any facilities where such officers are posted, either from their bodies or from
+storage lockers.
+
+#### Underbarrel Rocket Launcher
+
+An accessory compatible with the 1960 Assault Rifle, this launcher fires a
+larger rocket than the Kampfpistole from a cylinder with a 4-round
+capacity. It's issued to soldiers that are expected to go against
+heavily-armored opposition, and who are usually heavily-armored themselves.
+
+#### Hand Grenade Table
+
+| TL  | Weapon             | Damage       | Weight | Fuse | Bulk |
+|-----|--------------------|--------------|--------|------|------|
+| 8   | Explosive Grenade  | 8d[2d] cr ex | 0.5kg  | 4-5  | -2   |
+| 8   | Incendiary Grenade | 8d burn ex   | 0.7kg  | 4-5  | -2   |
+| 8+1 | Tesla Grenade      | 7d cr ex     | 0.7kg  | 4-5  | -3   |
+|     | _linked_           | HT-8(2) aff  |        |      |      |
+
+#### Rocket Launcher Table
+
+| TL | Weapon | Damage | Weight | Fuse | Bulk |
+|----|--------|--------|--------|------|------|
+|    |        |        |        |      |      |
 
 [1]:
