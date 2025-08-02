@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Aug 2025 00:53:48 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 00:53:48 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 00:55:42 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:55:42 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -15,7 +15,7 @@
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-hejkin.png&quot;/&gt;
   &lt;figcaption&gt;
-    A gith warrior with a spear.
+    A hejkin.
     Copyright 2010 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -135,12 +135,12 @@ and Ankhegs are favorites.&lt;/p&gt;
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-halfling.png&quot;/&gt;
   &lt;figcaption&gt;
-    A gith warrior with a spear.
+    A halfling.
     Copyright 2010 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
 
@@ -254,6 +254,7 @@ simple enough that you can adjust their level directly without having to make
 big changes to their abilities. Monster Manual halfling stats work well in
 conjunction with these, though I’d replace any slings with poison darts or the
 equivalent to keep the flavor.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/07/22/wir-dscc-halfling.html</link>
