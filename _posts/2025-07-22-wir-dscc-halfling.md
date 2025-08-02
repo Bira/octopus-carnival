@@ -132,3 +132,5 @@ simple enough that you can adjust their level directly without having to make
 big changes to their abilities. Monster Manual halfling stats work well in
 conjunction with these, though I'd replace any slings with poison darts or the
 equivalent to keep the flavor.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
