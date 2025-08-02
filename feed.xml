@@ -6,9 +6,267 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Jul 2025 22:08:32 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Jul 2025 22:08:32 +0000</lastBuildDate>
+    <pubDate>Sat, 02 Aug 2025 00:49:38 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Aug 2025 00:49:38 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Hejkin</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-hejkin.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A gith warrior with a spear.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Hejkin are abominations created by the “rampant use of arcane magic” according
+to the book, though it doesn’t specify whether they the product of accident or
+deliberate experimentation.&lt;/p&gt;
+
+&lt;p&gt;These small and twisted humanoids can see beyond the world and into a “heaving,
+squirming space filled with nightmares”. Their powers are tied to this place,
+and to the nastier primal spirits of Athas. The easy answer here would be that
+they have a direct mental connection to the Far Realm, but maybe this is another
+nightmare dimension more appropriate to your game.&lt;/p&gt;
+
+&lt;p&gt;Anyway, hejkin venerate the spirits of earth and stone as cold and callous
+masters that nevertheless provide life. Their culture forbids shaping or carving
+into the earth. This means that people who do strike the earth are seen as
+horrible heretics to be eliminated. They also reserve the same hatred for those
+who “misuse” arcane magic, which probably means those who use it at all.&lt;/p&gt;
+
+&lt;p&gt;Hejkin live in natural caves that contain natural water sources. They don’t
+shape these in any way, but they do use magic to lay various sigil-based traps
+on the walls. They venture out to find food, or they might be driven to a frenzy
+by some astrological event or another that holds special meaning in that Other
+Place.&lt;/p&gt;
+
+&lt;p&gt;Hejkin tend to target spellcasters, miners, and anyone working on other similar
+occupations that they can reach by traveling from their homes. They gleefully
+steal food and supplies from their victims and then finally murder them, turning
+them into yet more food. No one is safe from their cookpots, not even other
+hejkins. This makes them our fifth humanoid cannibals.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Hejkins are Small Aberrant Humanoids with ground and burrow speeds of 6, plus
+Darkvision, Earth Walk and Resist Lightning 5. They often have access to some
+sort of lightning magic, though the specifics vary per stat block.&lt;/p&gt;
+
+&lt;h3 id=&quot;hejkin-sparker&quot;&gt;Hejkin Sparker&lt;/h3&gt;
+
+&lt;p&gt;This one’s particularly infused with lightning. It’s a Level 1 Soldier with 31
+HP. Its &lt;strong&gt;Arcing Defense&lt;/strong&gt; gives it +2 to AC and Will while adjacent to another
+hejkin.&lt;/p&gt;
+
+&lt;p&gt;The sparker’s &lt;strong&gt;Claws&lt;/strong&gt; do physical damage and mark for a turn. If the target is
+bloodied, they mark even on a miss. Their &lt;strong&gt;Grounded Current&lt;/strong&gt; power (recharge
+5+) attacks enemies in a Close Burst 2, deals lightning damage, and pulls 2
+squares.&lt;/p&gt;
+
+&lt;p&gt;When a marked enemy decides to move away or ignore the mark, the hejkin can use
+a &lt;strong&gt;Telluric Arc&lt;/strong&gt; as an interrupt. This attacks the triggering enemy’s Reflex
+and deals 10 lightning damage on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;hejkin-chanter&quot;&gt;Hejkin Chanter&lt;/h3&gt;
+
+&lt;p&gt;The chanter’s song is mostly unintelligible, but sometimes you can discern a
+horrible phrase or two. The song gives it power over earth and lightning, and I
+guess shaping the earth doesn’t count as heresy if a chanter does it. They’re
+Level 2 Controllers with 37 HP.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;claws&lt;/strong&gt; to physical damage and slow for a turn. If the target is
+bloodied or already slowed, it’s immobilized for a turn instead. &lt;strong&gt;Earth’s
+Voice&lt;/strong&gt; (recharge when first bloodied) is a close blast 5 that targets enemies,
+deals thunder damage, pushes 3 squares and knocks prone. &lt;strong&gt;Static Song&lt;/strong&gt;
+(encounter) is a close burst 3 that deals lightning damage and dazes (save
+ends). On a miss it deals half damage and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;Finally we get a little trick: &lt;strong&gt;Twisted Earth&lt;/strong&gt; is a minor action melee attack
+against Fortitude that teleports the target on a hit, making it swap places
+either with the chanter or with one of the chanter’s allies that’s within 5
+squares. Say, why does Team Monster have a brute in the back line?&lt;/p&gt;
+
+&lt;h3 id=&quot;hejkin-raver&quot;&gt;Hejkin Raver&lt;/h3&gt;
+
+&lt;p&gt;This one’s even more feral than usual, and has no thoughts in their head other
+than a craving for blood. It’s a Level 2 Brute with 45 HP. Its &lt;strong&gt;Claws&lt;/strong&gt; do
+physical damage and heal it for 3 HP if the target is bloodied.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blood Marker&lt;/strong&gt; lets the raver use Claw against an adjacent enemy as a reaction
+when it is first bloodied. &lt;strong&gt;Blood Shakes&lt;/strong&gt; is a minor action that targets an
+adjacent bloodied enemy and knocks it prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;This seems like the brute that would be stationed at the back row waiting for a
+sparker to teleport it into the PCs’ backline.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Hejkin being right next to halflings and sharing some common traits (like their
+size and ground speed) makes me think that they might be corrupted
+halflings. Mechanically, they appear to be what you use instead of goblins and
+kobolds to challenge beginning adventurers.&lt;/p&gt;
+
+&lt;p&gt;Hejkin don’t collaborate with other humanoids, but they do train and keep all
+sorts of insectoid beasts, with a preference for those who can burrow. Kruthiks
+and Ankhegs are favorites.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/01/hejkin.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/01/hejkin.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Halfling</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-halfling.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A gith warrior with a spear.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click [here][1] to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Athasian halflings are physically identical to their standard 4e counterparts,
+but their culture is very different. If you have ever heard of Dark Sun in any
+detail, you’ll likely also have heard that it has cannibal halflings.&lt;/p&gt;
+
+&lt;p&gt;This is true, but I feel it’s lost a bit of its impact here, halfway down the
+critter list for the book. Halflings are the fourth cannibal humanoids we met so
+far, after belgois, braxats, and gith. I’m not even counting all the magical
+beasts that eat sapients, or we’d be here all day reciting names.&lt;/p&gt;
+
+&lt;p&gt;They still have the disctinction of being our first &lt;em&gt;playable&lt;/em&gt; cannibals. Most
+Dark Sun halflings belong to the tribal cultures that inhabit the Forest Ridge,
+one of the last remaining green regions of Athas. They’re very territorial and
+distrustful of other species, violently defending their homes from any
+invasion. Their cannibalism is mostly ritualistic, though the book also says
+they eat captured intruders.&lt;/p&gt;
+
+&lt;p&gt;Individuals or small groups often leave the Forest Ridge to explore the Seven
+Cities and the deserts between them. Some stick around and find employment as
+guides, scouts and trackers. The worst among them might become slavers or
+raiders.&lt;/p&gt;
+
+&lt;p&gt;Halfling tribes will deal honorably with those that are honorable to them in
+turn, but anyone who breaks an oath to a halfling tribe will be declared their
+eternal enemy.&lt;/p&gt;
+
+&lt;p&gt;The other distinction halflings have is that they’re some of the oldest sapient
+peoples of Athas.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Athasian halflings have the exact same stats as standard ones. They’re Small
+Natural Humanoids with a ground speed of 6 and the &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait
+that gives them +2 to AC against opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;All of the stat blocks here are enthusiastic users of poison, which is a good
+survival strategy in a world where everyone is larger than you.&lt;/p&gt;
+
+&lt;h3 id=&quot;halfling-forest-runner&quot;&gt;Halfling Forest Runner&lt;/h3&gt;
+
+&lt;p&gt;Your typical sneaky halfling scout-type, this is a Level 2 Skirmisher with 37
+HP. They fight with a &lt;strong&gt;poisoned spear&lt;/strong&gt; that does a mix of physical and poison
+damage, and have a special technique named &lt;strong&gt;Strike and Slip Away&lt;/strong&gt; (recharge
+4+) that lets them make a stronger spear attack that deals ongoing poison damage
+(save ends). As an effect they can then shift 5 squares and make a Stealth test
+to hide if they have any cover or concealment at the end of this shift.&lt;/p&gt;
+
+&lt;h3 id=&quot;halfling-wilder&quot;&gt;Halfling Wilder&lt;/h3&gt;
+
+&lt;p&gt;A halfling psion trained in their ancient traditions. This one is Level 3
+Artillery with 38 HP. Their main ranged attack is a &lt;strong&gt;Mind Thrust&lt;/strong&gt; (ranged 10)
+that deals psychic damage and makes the target grant combat advantage for a
+turn. They have a simple &lt;strong&gt;club&lt;/strong&gt; for melee emergencies. All of their attacks
+dels extra damage when the target grants combat advantage, making them good at
+focused fire tactics.&lt;/p&gt;
+
+&lt;h3 id=&quot;halfling-forest-keeper&quot;&gt;Halfling Forest Keeper&lt;/h3&gt;
+
+&lt;p&gt;This is a pretty traditional druid of the sort that loves summoning and
+controlling vines and plants… which makes it a very exotic and mysterious
+spellcaster by Athasian standards, where everyone else has sand and sun
+powers. Forest Keepers are respected leaders of their people, responsible for
+preserving their oral traditions and lore.&lt;/p&gt;
+
+&lt;p&gt;Our stat block here is for a Level 6 Controller with the Leader tag and 72
+HP. Its melee basic attack is a &lt;strong&gt;Distracting Staff&lt;/strong&gt; that does standard damage
+on a hit and lets an ally of the keeper within 5 squares shift 1 square. At
+range if fires &lt;strong&gt;Thorn Darts&lt;/strong&gt; that deal poison damage and make the target
+vulnerable 5 to poison for a turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spirit Creepers&lt;/strong&gt; (recharge 5+) is our “vines” spell, an Area Burst 2 within
+10 that affects only enemies, targets Reflex, deals physical damage, and
+restrains on a hit (save ends). Allies caught in the burst recover 5 HP instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Constricting Creepers&lt;/strong&gt; (encounter) is a stronger version that deals physical
+damage in a Close Burst 3 around the keeper, and knocks prone on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;halfling-headhunter&quot;&gt;Halfling Headhunter&lt;/h3&gt;
+
+&lt;p&gt;An elite champion whose mission is to stalk and eliminate the tribe’s worst
+enemies… and to bring their heads as proof. It’s a Level 11 Skirmisher with
+114 HP.&lt;/p&gt;
+
+&lt;p&gt;The headhunter’s attacks all do extra damage when it has &lt;strong&gt;combat
+advantage&lt;/strong&gt;. Its main weapon is a &lt;strong&gt;kukri&lt;/strong&gt; that does a blend of physical and
+poison damage, and it can also throw equally poisoned &lt;strong&gt;Javelins&lt;/strong&gt; that also
+slow on a hit. &lt;strong&gt;Harrying Attack&lt;/strong&gt; (recharge 5+) lets the headhunter make a
+dagger attack, shift 3 squares, and then make another dagger attack all as part
+of the same action.&lt;/p&gt;
+
+&lt;p&gt;They use these tools to stay at the edges of a fight and harry the
+squishies. Add some leveled-up wilders to make them even stronger by making the
+PCs vulnerable to poison.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;In their Forest Ridge homes, halflings are very unlikely to be accompanied by
+humanoids of other species, but they do domesticate a lot of the local wildlife
+for use in battle. In another twist that seems extremely exotic to Athasians and
+very familiar to us, most of this wildlife consists of mammals and birds,
+instead of reptiles and insects. Panthers, kirres (which we’ll see soon),
+griffons, and so on.&lt;/p&gt;
+
+&lt;p&gt;When met in the general Seven Cities area, they join the pool of species you can
+draw from to assemble Mixed Parties of People.&lt;/p&gt;
+
+&lt;p&gt;Halflings are very skirmisher-y here, and it looks like all stat blocks are
+simple enough that you can adjust their level directly without having to make
+big changes to their abilities. Monster Manual halfling stats work well in
+conjunction with these, though I’d replace any slings with poison darts or the
+equivalent to keep the flavor.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/07/22/wir-dscc-halfling.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/22/wir-dscc-halfling.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Goliath</title>
@@ -1400,322 +1658,6 @@ group. And you can also find mindhunters being used as arena fighters.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Floating Mantle</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-floating-mantle.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An red floating mantle.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The Silt Sea makes up the eastern border of the known regions of Athas. No one
-knows what’s on the other side of it, and they have only the barest idea of
-what’s under the dust. Sometimes, weird creatures will drift in from those
-far and deep regions. One of these weirdoes is the floating mantle.&lt;/p&gt;
-
-&lt;p&gt;Floating mantles are giant flying jellyfish, though no one in Athas calls them
-that because they don’t know what a fish is. Despite their strong psionic
-powers, their flight is entirely mundane. Their bodies secrete a lighter than
-air gas into internal cavities to keep them aloft, and they expel small
-quantities of this gas to propel themselves.&lt;/p&gt;
-
-&lt;p&gt;These creatures live in small groups called colonies, which are psychically
-linked to form a collective consciousness. They have some fairly obvious sexual
-dimorphism: males are a pale red in color, while females are a pale yellow. Both
-grow much more vivid in coloration when they feel agitated or threatened.&lt;/p&gt;
-
-&lt;p&gt;During their reproductive cycle, the female will carry a large litter of
-“polyps” to term. This causes her to become larger, bluish in color and much
-more irritable, as the pregnancy is highly uncomfortable for her. When in this
-state, she’s known as a “bluesting”. When threatened, a bluesting might
-prematurely release some of its polyps, which can fight ferociously but don’t
-last long. Even when they’re properly birthed at the right time, polyps are
-still fragile and only a small fraction of them will grow up to join the colony.&lt;/p&gt;
-
-&lt;p&gt;The book describes floating mantles as “quiet and inoffensive”, which I guess
-means they only attack sapients if they feel threatened, or to defend their
-young. They probably feed on small animals, and mainly hunt on the Silt
-Sea. When they do fight, they use the same natural weapons they use for hunting:
-sting-covered tendrils that deliver a paralytic poison, and the ability to drain
-the life force of a helpless victims.&lt;/p&gt;
-
-&lt;p&gt;When hurt, a floating mantle emits a psychic scream that stuns attackers and
-warns their fellows of danger. Finally, the gas that they use is probably
-hydrogen, because it gives them an unfortunate tendency to explode when exposed
-to fire or electricity.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Floating Mantles are Aberrant Magical Beasts with the Blind tag, which makes
-them immune to blinding effects and gaze attacks. They perceive their
-surroundings with Blindsight 20. Mantles have a flight speed of 6, with an
-altitude limit of 3 and the ability to hover.&lt;/p&gt;
-
-&lt;p&gt;Adult mantles are vulnerable 10 to fire and lightning. Polyps have too little
-stored hydrogen for this.&lt;/p&gt;
-
-&lt;p&gt;Flying mantles are also immune to the effects of their Psychic Scream powers,
-whether used by themselves or by another mantle.&lt;/p&gt;
-
-&lt;h3 id=&quot;floating-mantle&quot;&gt;Floating Mantle&lt;/h3&gt;
-
-&lt;p&gt;This typical specimen is Small in size, and a Level 13 Controller with 126
-HP. Its basic attack is a &lt;strong&gt;Tentacle Rake&lt;/strong&gt; (melee 2 vs. reflex) that deals
-poison damage and slows for a turn. If they have combat advantage against a
-target, they can use &lt;strong&gt;Life Leech&lt;/strong&gt; (melee 2 vs. Fortitude) as a minor
-action. This deals poison damage, dazes and immobilizes (save ends both) and
-gives 10 temporary HP to the mantle. Of course, a target who’s hit by this once
-becomes susceptible to it until they save against that daze, since dazed
-characters grant CA.&lt;/p&gt;
-
-&lt;p&gt;Also as a minor action, the mantle can squeeze out a &lt;strong&gt;Jet&lt;/strong&gt; to shift its
-speed.&lt;/p&gt;
-
-&lt;p&gt;When the mantle is first bloodied, a lot of stuff happens. First, &lt;strong&gt;Jet&lt;/strong&gt;
-recharges. Then it lets out a &lt;strong&gt;Psychic Scream&lt;/strong&gt;! The scream is a free action
-attack vs. Will in a Close Burst 2. On a hit, it deals psychic damage, and makes
-it so the affected targets take 10 psychic damage whenever they make an attack
-against the creature (save ends). As an effect, the floating mantle becomes
-invisible until the end of its next turn.&lt;/p&gt;
-
-&lt;p&gt;If the mantle is reduced to 0 HP by fire or lightning, it &lt;strong&gt;suddenly explodes&lt;/strong&gt;!
-This is another Close Burst 2, vs. Reflex this time, dealing high fire damage
-and pushing targets 1d4 squares. On a miss, it does half damage. This is
-probably the only variable push I ever saw.&lt;/p&gt;
-
-&lt;h3 id=&quot;floating-mantle-bluesting&quot;&gt;Floating Mantle Bluesting&lt;/h3&gt;
-
-&lt;p&gt;Bluestings grow to Medium size. They’re Level 15 Artillery with 111 HP, and a
-greater blindsight range of 25.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Tentacle Rake&lt;/strong&gt; Attack has reach 3 and does more damage than the common
-mantle’s, and they also gain the ability to fling their tiny stingers at distant
-targets. This &lt;strong&gt;Flinging Nettles&lt;/strong&gt; attack targets Fortitude and deals poison
-damage out to range 20.&lt;/p&gt;
-
-&lt;p&gt;If enemies manage to get close, the bluesting can let out a &lt;strong&gt;Toxic Burst&lt;/strong&gt;,
-which targets creatures in a Close Burst 1 and deals poison damage on a hit. If
-the bluesting has less than four accompanying polyps, one appears in an adjacent
-square, acting right after the bluesting in initiative order.&lt;/p&gt;
-
-&lt;p&gt;They have the same &lt;strong&gt;Jet&lt;/strong&gt; ability as the common specimen, and can also perform
-a &lt;strong&gt;Sudden Birth&lt;/strong&gt; (recharge 4+) as a minor when pressed. This is more or less
-the same as the secondary effect of the Toxic Burst above: it puts a new polyp
-in play within 3 squares if there are less than four accompanying the bluesting.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Psychic Scream&lt;/strong&gt; and &lt;strong&gt;Sudden Explosion&lt;/strong&gt; work the same as in the common
-specimen, but do more damage since bluestings are higher level.&lt;/p&gt;
-
-&lt;h3 id=&quot;floating-mantle-polyp&quot;&gt;Floating Mantle Polyp&lt;/h3&gt;
-
-&lt;p&gt;These Tiny youngsters can either be pre-placed in an encounter, or be produced
-by bluestings (in which case they’re not worth XP). A previously-placed polyp is
-one that reached term and was birthed normally, and adults will fiercely defend
-it. One produced during combat is considered premature and will die a few
-minutes after the fighting stops. Adults are less attached to those. In either
-case it’s not yet hooked up to the hive mind and it’s recklessly hangry.&lt;/p&gt;
-
-&lt;p&gt;Polyps are Level 15 Minion Brutes. Their &lt;strong&gt;Tentacle Rakes&lt;/strong&gt; do poison damage,
-and when they die they let loose a &lt;strong&gt;Psychic Scream&lt;/strong&gt; in a close burst 2, which
-deals psychic damage and dazes for a turn on a hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These are likely the most peaceful and sympathetic aberrant creatures you’re
-likely to find anywhere. They’ll most likely be found just chilling and minding
-their business, and will only become dangerous if the PCs strike the first
-blow. The capybaras of the Far Realm.&lt;/p&gt;
-
-&lt;p&gt;Their lore is both disturbingly biological and a breath of fresh air. The first
-part is obvious (poor premature polyps!), and the second one is because here we
-have an example of powerful Athasian wildlife that &lt;em&gt;isn’t&lt;/em&gt; so mindlessly
-aggressive it thinks armed adventurers are a good meal.&lt;/p&gt;
-
-&lt;p&gt;Standard flying mantles need to either appear in pairs or have some other
-opportunistic flanking buddy that will help them get their initial combat
-advantage on a target. Other than that all of them have some interesting ways to
-punish PCs that do &lt;em&gt;too&lt;/em&gt; well against them.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/10/wir-dscc-floating-mantle.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/10/wir-dscc-floating-mantle.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Elf</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-elf.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An elf running through the desert.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Athasian elves are tall and long-legged, and their culture is almost entirely
-nomadic. Elven communities roam the deserts of Athas accompanied by swift beasts
-of burden and war, but none of those are mounts. An elf will only accept being
-carried by a beast if they’re too sick or wounded to stand. Otherwise, they
-prefer to run. And they’re very good at it.&lt;/p&gt;
-
-&lt;p&gt;Unlike some of the other nomads we saw so far, such as brohgs, elves have
-frequent interactions with Athasian settled peoples and city states. Their
-overall reputation is not very good. They’re known as itinerant traders who
-bring a lot of cool stuff to sell in the Elven Markets many towns have, but
-they’re also known as swindlers, thieves, raiders, and occasionally
-murderers. The cool stuff they sell you was probably stolen from someone else,
-according to rumor.&lt;/p&gt;
-
-&lt;p&gt;This sort of reputation has a number of unplasant parallels with real-world
-prejudices, so I find it off-putting that the book spends a lot of effort trying
-to convince me it’s true. Even the PCs have “desert raider” and “market thief”
-as their new custom background options.&lt;/p&gt;
-
-&lt;p&gt;I’d prefer to portray elves as having a lot of solidarity for each other and not
-a lot of sympathy for the outsiders who hate them so much. They drive hard
-bargains at the Market and skip town en masse if it looks like someone’s going
-to accuse one of them of a crime. The accusation is likely to be false most of
-the time, as I interpret it. Some individuals might resemble the negative
-stereotype, but then again that’s also true of city-dwellers, whose negative
-stereotype is “servant to a slaving despot” or “slaver”.&lt;/p&gt;
-
-&lt;p&gt;Elves who are found guilty of crimes in their own communities are cast out, and
-will often end up joining groups of actual raiders and bandits.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Despite their taller build elves remain Medium Fey Humanoids with a ground speed
-of 7. The stat blocks here &lt;em&gt;don’t&lt;/em&gt; have low-light vision, though I think that’s
-still a feature of PC elves. They do all have &lt;strong&gt;Wild Step&lt;/strong&gt; and &lt;strong&gt;Elven
-Accuracy&lt;/strong&gt;, which work like their PC versions too.&lt;/p&gt;
-
-&lt;p&gt;The level range here is roughly comparable to that of standard elves from other
-books, so you can mix-and-match a bit. All of the stat blocks here are Unaligned.&lt;/p&gt;
-
-&lt;h3 id=&quot;elf-peddler&quot;&gt;Elf Peddler&lt;/h3&gt;
-
-&lt;p&gt;A typical denizen of the Elven Markets. This could both represent a more or less
-honest trader who knows how to defend themselves, or a cutthroat who looks for
-particularly vulnerable customers to ambush after a sale. It’s a Level 2
-Skirmisher with the Leader tag and 34 HP.&lt;/p&gt;
-
-&lt;p&gt;A typical peddler’s goal in a fight will be to live to fight another day, so
-they always hang around places with convenient escape routes and obstacles that
-might deter pursuers, such as twisty alleys or clustered stalls.&lt;/p&gt;
-
-&lt;p&gt;The peddler is armed with a &lt;strong&gt;bone longsword&lt;/strong&gt;, which does standard damage for
-its level. It can use the &lt;strong&gt;Double Dealing&lt;/strong&gt; maneuver at will: this lets it make
-a sword attack, shift half their speed, and then make another sword attack
-against a different target if they end the shift flanking that target.&lt;/p&gt;
-
-&lt;p&gt;As a minor action they can also use &lt;strong&gt;Peddler’s Command&lt;/strong&gt;, which lets an ally
-within 20 squares move half their speed as a free action. If that ally is
-another elf, the move is instead a shift. This is useful to set up the flank for
-that second Double Dealing attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;elf-sniper&quot;&gt;Elf Sniper&lt;/h3&gt;
-
-&lt;p&gt;Another typical denizen of the markets, Snipers work security from shadowy
-corners and rooftop perches. If trouble starts, they help cover their allies’
-retreat with their thrown weapons.&lt;/p&gt;
-
-&lt;p&gt;Snipers are Level 3 Minion Lurkers armed with &lt;strong&gt;Bone Daggers&lt;/strong&gt; and a brace of 10
-&lt;strong&gt;Chatkchas&lt;/strong&gt;, which are three-pronged sharpened boomerangs. Both of these
-attacks deal a bit of extra damage if the sniper is hidden from the target when
-they start the attack.&lt;/p&gt;
-
-&lt;p&gt;As an at-will Move action, the sniper can use &lt;strong&gt;Elven Misdirection&lt;/strong&gt; to move 2
-squares and make a free Stealth check to become hidden if they end the movement
-with cover or concealment. This check has an automatic result of 25, which means
-they “take 15” on the roll.&lt;/p&gt;
-
-&lt;p&gt;In combat, they’ll try to pop out from cover, make a ranged attack, and hide
-again. If someone tries to get close to them they will run. Like the peddler,
-their goal in a “market fight” situation is to delay and distract pursuers
-enough for their allies to flee, and then flee themselves.&lt;/p&gt;
-
-&lt;h3 id=&quot;elf-dune-strider&quot;&gt;Elf Dune Strider&lt;/h3&gt;
-
-&lt;p&gt;This nomadic warrior is used to running through the wastes. This stat block can
-represent a raider, or someone who’s just protecting their wandering band. It’s
-a Level 4 Skirmisher with 52 HP.&lt;/p&gt;
-
-&lt;p&gt;The Dune Strider can &lt;strong&gt;Move Like the Wind&lt;/strong&gt;, gaining +5 to all defenses against
-opportunity attacks provoked by movement. They’re armed with a &lt;strong&gt;Bone
-Longsword&lt;/strong&gt; that does extra damage on a charge, and a &lt;strong&gt;Obsidian Shortsword&lt;/strong&gt;
-that’s slightly better for static attacks. The &lt;strong&gt;Rushing Dervish&lt;/strong&gt; maneuver lets
-them move their Speed + 2 and make one attack with each sword against a
-different target during the movement. This recharges when they’re bloodied.&lt;/p&gt;
-
-&lt;p&gt;Striders acting as raiders will keep mobile and try to spread out their attacks
-in an attempt to intimidate their targets into giving up their possessions. They
-will flee if the fight turns against them. Their traits and abilities make it
-easy for them to bounce around the battlefield like pinballs, making charge
-attacks.&lt;/p&gt;
-
-&lt;h3 id=&quot;elf-raid-leader&quot;&gt;Elf Raid Leader&lt;/h3&gt;
-
-&lt;p&gt;The sort of veteran commander you might find leading a larger raid against a
-settlement, either as revenge for mistreatment or as a plain old resource
-grab. It’s level 6 Artillery with the Leader tag.&lt;/p&gt;
-
-&lt;p&gt;The leader has a &lt;strong&gt;obsidian shortsword&lt;/strong&gt; for emergencies, whose strikes let it
-shift 1 square on a hit. It will mostly fight with its &lt;strong&gt;Bone Bow&lt;/strong&gt;, which is
-both more accurate and more damaging. It can fire &lt;strong&gt;Harrying Shots&lt;/strong&gt; that do the
-same damage as a basic ranged attack, but also make the target grant combat
-advantage to adjacent allies of the leader for a turn.&lt;/p&gt;
-
-&lt;p&gt;Its leaderly action is a command to &lt;strong&gt;Focus on the Pain&lt;/strong&gt; (minor action,
-recharge 6+) which deals 5 damage to an ally within 20 squares and allows that
-ally to immediately roll a save with a +2 bonus.&lt;/p&gt;
-
-&lt;p&gt;Raid leaders obviously lead from the back, providing ranged support to their
-skirmisher and lurker allies. It might be good to add a brute or soldier war
-beast to help protect them.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I’ve already mentioned my opinion about the elven stereotypes here: I don’t like
-them, and would probably change them a bit were I to run a campaign in this
-setting. They would be less true than depicted in the book, and depending on the
-tone I was going for might or might not be less prevalent in the setting.&lt;/p&gt;
-
-&lt;p&gt;The stat blocks are good, and can make for an extremely mobile encounter group
-when used together. As mentioned above, any brutes and soldiers who are part of
-an all-elven group will likely be trained war beasts instead of more elves.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/08/wir-dscc-elf.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
