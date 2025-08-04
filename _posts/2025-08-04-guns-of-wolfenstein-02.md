@@ -163,4 +163,4 @@ it. Therefore we can assume it fires regular ammo instead of armor-piercing: Dam
 
 
 
-[1]: {{ "/2022/11/04/guns-of-wolfenstein.md" | relative_url }}
+[1]: {{ "/2022/11/04/guns-of-wolfenstein.html" | relative_url }}

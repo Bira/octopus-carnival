@@ -15,7 +15,9 @@ was Wolfenstein-1.
 Though this game was launched a year earlier, its story starts off right after
 The Old Blood ends, in 1946. After B. J. Blaskowicz returns to the Allies with
 the location of General Deathshead's secret hideout, they mount a massive attack
-on that island fortress.
+on that island fortress. This is a higher-budget version of the final chapters
+of the 2001 game, which ended with Deathshead's defeat, but things don't that
+well here.
 
 The attack is a disaster. Blazko is among the soldiers that make it to the
 shore, and his unit makes significant progress into the fortress before they end
@@ -37,79 +39,15 @@ and sent to an "inescapable" prison in Berlin.
 
 The rest of the game is about freeing these prisoners, rebuilding the
 resistance, and striking back at Deathshead through a series of daring
-heists. These culminate in the capture of a super-submarine, the recovery of its
+heists. These start with the rescue of good-guy super-scientist Seth Roth, and
+proceed with the the capture of a giant enemy submarine, the recovery of its
 nuclear launch codes from a Nazi base on the Moon, and finally an attack on
 Deathshead's fortress.
-
-During this process, the resistance discovers the origin of all that
-supertech. There was this millenia-old secret society of engineers named Da'at
-Yichud, who were building superscience devices as a form of worship since before
-the rest of the world had adopted organized religion. They stored these in
-secret vaults, because the worship was in the building, not the
-using. Deathshead happened to stumble onto a minor cache.
-
-B.J. rescues the last survivor of the order, one Seth Roth, from a concentration
-camp, and he provides the protagonists with plenty of vital support and a little
-bit of super-science as well. Though Seth is Jewish, I'm not sure if all of the
-Da'at Yichud also was. Their portrayal is well-meaning, but from what I hear it
-didn't land quite right.
 
 Blazko manages to kill Deathshead during the second attack on his fortress,
 though the asshole manages to detonate a grenade as he dies. The game ends as
 B. J., too wounded to evacuate, gives his allies the all-clear to launch the
 nuke that will destroy this fortress for good.
-
-## The New Colossus Plot Overview (Contains Spoilers)
-
-The next game would come out in 2017, and its plot picks up right where the
-previous one left off, though the actual visual elements of the story and the
-gameplay mechanics feel significantly different.
-
-B.J.'s allies manage to come back for him, and to take him to their super-sub
-before nuking the island. He undergoes extensive surgery, and spends the next
-five months slipping in and out of consciousness. As in the previous game, he
-awakens fully in the middle of a nazi attack.
-
-Frau Engel, who was a secondary antagonist in the previous game, has been
-promoted to replace Deathshead. What she lacks in technical skill, she makes up
-in petty cruelty. She commands a flying fortress that is currently attacking the
-rebel sub. The first level has BJ fighting off this attack while bound to a
-wheelchair. He's aided by resistance leader Caroline and her suit of powered
-armor, but they end up getting captured and Caroline gets executed before
-B. J. manages to wear her armor and escape with the survivors.
-
-After a brief detour to clear a secret deck on the sub of the Nazis that had
-been hiding there and sending transmissions to their bosses, the resistance
-decides to follow Caroline's original plan and join together with any surviving
-American resistance groups to take the US back and use it as a staging ground to
-defeat the Nazis in the rest of the world.
-
-Now wearing the powered armor suit, B.J. helps contact and rescue a resistance
-group from radioactive New York. Its leader, Grace, ends up filling Caroline's
-spot in the group's leadership. He then blows up a Nazi command center built
-next to a Da'at Yichud vault under Roswell (yes, there are flying saucers).
-
-As he's leaving, B. J. decides to drive to his childhood home in Mesquite,
-Texas, because his mother left a heirloom wedding ring in there and he wants to
-propose to Anna (they've been a couple since the last game and she's expecting
-twins). His racist and abusive father sells him out to Frau Engel, who arrives
-in the flying fortress and captures him.
-
-After a lot of extremely unpleasant scenes, B.J. becomes one of the few heroic
-protagonists to survive a beheading, as he's publicly executed and his head is
-immediately rescued by a daring rebel plan. Seth joins the head with a spare
-supersoldier body (which could be seen in the sub since the start of the game,
-as a piece of foreshadowing).
-
-The missions continue after this: rescuing another resistance group from New
-Orleans, flying all the way to Venus to recover the password for the flying
-fortress' security system, and taking control of it in a spectacular and daring
-raid. Killing Frau Engel live on nation-wide TV is just a victory lap after
-that.
-
-The speech from the resistance leaders that immediately precedes the end credits
-was very topical for 2017, and I never thought I'd see it becoming _more_
-topical in 2025, but here we are.
 
 ## The Guns
 
