@@ -17,8 +17,7 @@ That's exactly the kind of description you get for humans in this entry. They
 are the most numerous humanoid species on Athas, they are infinitely varied and
 adaptable, and all the other stuff you have read about them a thousand times in
 other places. What this tells me is that those Mixed Groups of People will be
-mostly made up of humans, with the others being more of an extra spice you
-sprinkle on top.
+mostly made up of humans.
 
 ## The Numbers
 
@@ -62,7 +61,8 @@ Maybe the spear was supposed to be the attack that grabbed the target? As it is,
 the raider has to use the default rules and perform a Grab action to do
 it. My suggestion here would be to replace the **dagger** basic attack with a
 **Barbed Spear** that does the same damage, grabs on a hit, and cannot be used
-against other targets while the raider has a target grabbed.
+against other targets while the raider has a target grabbed. Gutting Dagger
+would then turn into Gutting Spear, with the same effects.
 
 ### Human Dune Trader
 
@@ -161,7 +161,8 @@ In Athas, despoiling an already ravaged ecosystem is a big taboo that's sure to
 draw the ire of those who see you do it... unless you're a sorcerer-king or a
 templar, I guess. The defilers represented by this stat block are neither, but
 they really want to be and think the scorn of the ignorant masses is a light
-price to pay for Ultimate Cosmic Power.
+price to pay for Ultimate Cosmic Power. You could also uses these stats for a
+higher-ranking templar.
 
 The Human Defiler is Level 14 Artillery with 108 HP (and also Evil). It has the
 **Defiling** passive trait, which deals 5 necrotic damage to all enemies within
@@ -207,6 +208,16 @@ Burst 1. This targets enemies and on a hit deals psychic damage and stuns for a
 turn.
 
 ### Human Blade Noble
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-blade-noble.png" | absolute_url }}"/>
+  <figcaption>
+    A red-haired woman human wearing leather armor and holding a sheathed sword.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 The most powerful human in this entry is not a wizard or a psychic, but someone
 who is Just That Good with a sword. Or in other words: Hello, Ms. Malenia! Fancy
