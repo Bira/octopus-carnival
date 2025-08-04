@@ -5,9 +5,324 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 02 Aug 2025 00:59:40 +0000</pubDate>
-    <lastBuildDate>Sat, 02 Aug 2025 00:59:40 +0000</lastBuildDate>
+    <pubDate>Mon, 04 Aug 2025 17:36:23 +0000</pubDate>
+    <lastBuildDate>Mon, 04 Aug 2025 17:36:23 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>The Guns of Wolfenstein, Part 02: The Old Blood</title>
+        <description>&lt;p&gt;In &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.md&quot;&gt;our previous article&lt;/a&gt;, we took a look at the guns that appear on Return
+to Castle Wolfenstein (2001), whose timeline I named “Wolfenstein-1” for ease of
+reference. In this one, we’ll take a look at the timeline I called
+“Wolfenstein-2”.&lt;/p&gt;
+
+&lt;p&gt;The Wolfenstein-2 setting is the chronology used by the trilogy of games made up
+of Wolfenstein: The New Order (2014), Wolfenstein: The Old Blood (2015) and
+Wolfenstein II: The New Colossus (2017). The Old Blood is a prequel to The New
+Order, so it happens first even though it’s the second game. We’ll talk about it
+in this post.&lt;/p&gt;
+
+&lt;h2 id=&quot;plot-overview-contains-spoilers&quot;&gt;Plot Overview (Contains Spoilers)&lt;/h2&gt;
+
+&lt;p&gt;The Old Blood is a retelling of the “escape from Castle Wolfenstein” story that
+made up the first two chapters of the 2001 game. Where the Wolfenstein-1 version
+was just a pulpier version of WW2, this one goes all in on the alternate history
+approach.&lt;/p&gt;
+
+&lt;p&gt;It looks like World War 2 in the Wolfenstein-2 timeline starts off more or less
+like it did in our world, but things go off the rails somewhere along the
+way. Deathshead, the same mad scientist from the 2001 game, is wildly more
+successful at coming up with absurd weapons and getting them mass-produced. As a
+result the war streches for longer than it did in our world. The game happens in
+&lt;em&gt;1946&lt;/em&gt;, with the war still raging on and the Allies on the losing side.&lt;/p&gt;
+
+&lt;p&gt;Like in the 2001 game, B.J. Blazkowicz and Agent One infiltrate Castle
+Wolfenstein. Their goal here is more well-defined - among the documents stored
+in the castle, there’s a folder that details the location of Deathshead’s secret
+fortress, where he’s been developing all these superweapons.&lt;/p&gt;
+
+&lt;p&gt;The Castle here is much larger than it was in the first game, and has been
+upgraded from its medieval roots into a giant concrete fortress full of
+superscience security measures, including prototype supersoldiers tethered to
+power lines. Its owner is still an occult-obsessed Nazi officer named Helga, who
+now works under Deathshead.&lt;/p&gt;
+
+&lt;p&gt;The broad outline of events is the same - the two get captured, Agent One dies
+under torture, Blazko escapes the castle. He heads to the nearby village of
+Wolfburg, where Helga leads an archaeological dig in search of buried occult
+secrets. Whatever she does triggers a sort of zombie apocalypse. Helga releases
+a giant zombie and dies failing to control it. B. J. escapes with the secret
+document folder after killing said zombie, completing his mission.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-guns&quot;&gt;The Guns&lt;/h2&gt;
+
+&lt;p&gt;All of the usable guns in this game are captured Nazi hardware, since you start
+the game proper unarmed save for a (surprisingly effective) sharpened metal
+pipe. This “early” in the timeline, a lot of the weapons presented here still
+have real-world equivalents.&lt;/p&gt;
+
+&lt;h3 id=&quot;pistols&quot;&gt;Pistols&lt;/h3&gt;
+
+&lt;h4 id=&quot;pistol-model-1946&quot;&gt;Pistol Model 1946&lt;/h4&gt;
+
+&lt;p&gt;This is still mostly a &lt;strong&gt;Luger P08&lt;/strong&gt; (p. HT98), with the only difference being
+that it has a 10-round magazine instead of an 8-round one.&lt;/p&gt;
+
+&lt;p&gt;It accepts a suppressor, which is available to you from the start. It weights
+0.25kg, adds -1 to Bulk and makes the gun &lt;em&gt;cinematically silent&lt;/em&gt;. This means
+enemies won’t notice the gun firing unless a bullet impacts the environment near
+them, or if they survive being shot by it.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pistol 1946&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2d+2 pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;160/1800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1.2kg/0.3kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10+1(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;rifles&quot;&gt;Rifles&lt;/h3&gt;
+
+&lt;h4 id=&quot;assault-rifle-model-46-t&quot;&gt;Assault Rifle Model 46-T&lt;/h4&gt;
+
+&lt;p&gt;This is still pretty much a &lt;strong&gt;StG-44&lt;/strong&gt; (p. HT115). It has a folding foregrip not
+present in the real weapon, but that doesn’t affect its stats in any way either
+in the computer game or in GURPS.&lt;/p&gt;
+
+&lt;h4 id=&quot;marksman-rifle-bombenschluss&quot;&gt;Marksman Rifle (Bombenschluss)&lt;/h4&gt;
+
+&lt;p&gt;This is likely a version of the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; (p. HT111). Unlike the real
+weapon, this one’s magazine is inserted from the side, which means the gun can
+still be fired from a prone position.&lt;/p&gt;
+
+&lt;p&gt;There are two obtainable upgrades. The first is a 10-round extended magazine
+that adds -1 to Bulk and weights 0.44kg loaded. The other is a scope on a
+tacticool folding mount. It adds 0.5kg to weight and changes Acc to 5+2. It can
+be folded in or out of position with a Ready maneuver.&lt;/p&gt;
+
+&lt;h3 id=&quot;weapon-table&quot;&gt;Weapon Table&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Assault Rifle 46-T&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5d pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;500/1300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6.6kg/1kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;30(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;9†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Bombenschluss&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7d pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1000/4300&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.5kg/0.25kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5+1(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;shotguns&quot;&gt;Shotguns&lt;/h3&gt;
+
+&lt;h4 id=&quot;double-barreled-shotgun&quot;&gt;Double Barreled Shotgun&lt;/h4&gt;
+
+&lt;p&gt;This 10-gauge classic makes two appearances: at the start of the game with a
+full length barrel, and at the end with the barrel sawn off to “whippet”
+length. The full-length gun uses the same stats as the &lt;strong&gt;Lefevre Automatic
+Hammerless&lt;/strong&gt; from High Tech. The sawn-off one uses the stats below.&lt;/p&gt;
+
+&lt;h4 id=&quot;shockhammer&quot;&gt;Shockhammer&lt;/h4&gt;
+
+&lt;p&gt;This is a semi-automatic 12-gauge shotgun with a Rube Goldberg action. The gun
+takes shells from a revolving cylinder that alternates between its twin barrels
+with every cycle, which is supposed to allow for a higher rate of fire. The
+stats below are somewhat inspired by the &lt;strong&gt;Daewoo USAS-12&lt;/strong&gt; from High Tech, but
+there are enough differences to warrant its own stat block.&lt;/p&gt;
+
+&lt;p&gt;A possible upgrade here is a 20-round cylinder that changes Shots to 20(5) and
+Weight to 8.2/2.1kg.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Double-Barreled Shotgun&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2d-1 pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4.15/0.15kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2x13&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;2(3i)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1/7&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7+1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Shockhammer&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1d+1 pi&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7.1/1.05kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3x9&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10(5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11†&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;1/3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;grenades-and-launchers&quot;&gt;Grenades and Launchers&lt;/h3&gt;
+
+&lt;h4 id=&quot;hand-grenade&quot;&gt;Hand Grenade&lt;/h4&gt;
+
+&lt;p&gt;Enemy soldiers use a version of the historical &lt;strong&gt;“stick hand grenade 24”&lt;/strong&gt;
+filled with TNT, as mentioned in p. HT190: Damage 7d cr ex, weight 0.7kg, Fuse
+4-5. They’re not shy about throwing them at you if you stay for more than a few
+seconds behind cover.&lt;/p&gt;
+
+&lt;h4 id=&quot;kampfpistole-war-pistol&quot;&gt;Kampfpistole (“war pistol”)&lt;/h4&gt;
+
+&lt;p&gt;This is a version of a historical flare gun used in WW2 that could also fire
+grenades. Its extremely limited ammo is the best choice for taking out the
+tankiest enemies in the game, so I think it fires the HEAT round described in
+High Tech.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Kampfpistole&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;4d(10) cr ex&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10/330&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1kg/0.1kg&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1(3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;+ 3d cr ex linked&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;heavy-weapons&quot;&gt;Heavy Weapons&lt;/h3&gt;
+
+&lt;p&gt;We see another familiar face here: the &lt;strong&gt;Venom Heavy Machine Gun&lt;/strong&gt;, which loses
+its edgy name but is basically the same weapon I already covered in my &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.md&quot;&gt;previous
+post on Wolfenstein guns&lt;/a&gt;. It’s found in the hands of early-model
+supersoldiers, and has 250 round belts weighting 10kg. Even a beefy guy like
+B. J. has trouble carrying it around.&lt;/p&gt;
+
+&lt;p&gt;This incarnation of the Venom is excellent to mow down human soldiers and
+zombies, but doesn’t actually do much to the supersoldiers that carry
+it. Therefore we can assume it fires regular ammo instead of armor-piercing: Dam
+6d+2 pi.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Quar and Their Guns in GURPS</title>
@@ -2049,180 +2364,6 @@ you can be sure I’ll post them here.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gm-hat</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Denizens of the Sea</title>
-        <description>&lt;p&gt;I’ve published an article about &lt;a href=&quot;/octopus-carnival/2023/07/11/underwater-dungeon-fantasy.html&quot;&gt;underwater adventuring&lt;/a&gt; in the past, in
-which I mentioned that “fish-people” had several advantages over “land-lubbers”
-when it came to mobility and fighting in an underwater environment. A later post
-included &lt;a href=&quot;/octopus-carnival/2023/11/13/underwater-items.html&quot;&gt;a few items&lt;/a&gt; that could help those land-lubbers close the
-gap… so how about we take a look at those fish-people now? As a bonus, you get
-a nice little bundle of setting info you can drop on your campaign if you want.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-fate-of-atlantis&quot;&gt;The Fate of Atlantis&lt;/h2&gt;
-
-&lt;p&gt;The name “Atlantis” figures in the myths and legends of many more places than it
-should. Cultures that have never heard of each other have stories about an
-empire that ruled the waves in ancient times but no longer exists. The stories
-might differ but the name is always the same.&lt;/p&gt;
-
-&lt;p&gt;That’s because ancient Atlantis was the largest and most powerful underwater
-civilization to ever exist. They discovered a means of traveling to other worlds
-and exploited it with gusto.&lt;/p&gt;
-
-&lt;p&gt;Despite its power Atlantis eventually fell, as all empires do. The exact
-sequence of events is more or less impossible to piece together, and mostly
-irrelevant in the present day. The important bit is that their inter-world
-travel network was the first thing to go, instantly fragmenting the
-empire. That’s why each of them has a different story about how Atlantis fell -
-those stories talk only about the bits of it they knew about. In some, it
-happened overnight due to a cataclysm. In others, they eventually morphed into
-successor cultures that might still be extant in the present day.&lt;/p&gt;
-
-&lt;p&gt;Aside from giving rise to a whole bunch of legends and to fueling the occasional
-would-be despot’s ambitions, the most enduring legacy of Atlantis was its
-underwater engineering. They pioneered a lot of the techniques that used to make
-sturdy weapons and tools out of implausible aquatic materials like bone, shell,
-coral, and mother-of-pearl. They were also the first civilization to
-successfully make and work orichalcum.&lt;/p&gt;
-
-&lt;p&gt;But we’re not here to talk about &lt;em&gt;stuff&lt;/em&gt;, we’re here to talk about &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;so-lets-talk-about-people&quot;&gt;So Let’s Talk About People&lt;/h2&gt;
-
-&lt;p&gt;Opinions differ on whether Atlantis was a Golden Age utopia or a despotic empire
-whose downfall was a blessing to the world, but everyone agrees it was pretty
-diverse. Unlike most typical dungeon fantasy kingdoms, its citizens belonged to
-many different species with none of them making up an overwhelming majority of
-the population.&lt;/p&gt;
-
-&lt;p&gt;Many of Atlantis’ citizens can be described using already-published stats. Sea
-Elves and Water-Infused from GURPS DF 3: The Next Level fit very well, as do the
-Argonians from &lt;a href=&quot;/octopus-carnival/2018/10/10/elder-scrolls-others.html&quot;&gt;this post&lt;/a&gt;. The octopus- and shark-folk from GURPS Banestorm
-are also good fits, though they’re a bit more complex and costly than the
-standard for DF racial templates.&lt;/p&gt;
-
-&lt;p&gt;Below are a few new templates, with the overall goal of allowing a diverse
-all-underwater party if the group wants to play that type of campaign. A couple
-of the new ancestries I present here might have equivalent official templates
-already, but since I don’t have those I’m writing new ones for my own use.&lt;/p&gt;
-
-&lt;p&gt;These templates assume that being Amphibious also makes you able to see and hear
-unimpeded while submerged, and the ability to breathe underwater also makes you
-able to speak there. I feel this is in line with the simpler feel of Dungeon
-Fantasy. If you want to follow Banestorm’s assumptions instead, give all
-templates here one level of Nictitating Membrane {1} and Speak Underwater {5},
-increasing their costs by 6 points each.&lt;/p&gt;
-
-&lt;h3 id=&quot;atlantean-20-points&quot;&gt;Atlantean (20 points)&lt;/h3&gt;
-
-&lt;p&gt;This template describes people who are a product of successive generations of
-intermarriage between the other species that made up the population of Atlantis,
-and possibly some surfacers too. They are known as “Atlanteans” because their
-general look became associated with that empire. Surprisingly, they look a lot
-like humans even when they have no humans among their ancestors.&lt;/p&gt;
-
-&lt;p&gt;Atlanteans are warm-blooded, have legs, and can breathe both water and
-air. Their human-looking bits exhibit the same ethnic variety as
-humans. Individuals can also have a variable number of “fishy” traits like
-visible gills, fins, blue or gray skin, and so on. These might be visually
-striking but are never significant enough to count as more than 0-point
-features.&lt;/p&gt;
-
-&lt;p&gt;Atlanteans can appear in worlds that had an Atlantis, or those whose underwater
-peoples are generally friendly with each other. The base stats could also be
-used as they are or modified a bit to represent any species of underwater
-humanoid.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Amphibious {10}, Gills {10}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other Traits&lt;/strong&gt;: Those fishy bits might count as varying levels of Unnatural
-Features in a setting where almost everyone is human and the character is the
-only known Atlantean, but in all other situations they’re 0-point traits. If the
-character has something like rigid fins or a prominent tail growing out of their
-lower back, they might need adapted body armor. This doesn’t cost extra, but
-might restrict their usage of looted armor.&lt;/p&gt;
-
-&lt;h3 id=&quot;crab-folk-40-points&quot;&gt;Crab-Folk (40 points)&lt;/h3&gt;
-
-&lt;p&gt;Crab-folk are sapient humanoid crustaceans easily distinguished by their heavy
-segmented carapaces. Like crabs, they lack distinct heads and their eyes are
-located at the end of a pair of flexible, retractable stalks. Unlike crabs, they
-only have the usual complement of humanoid limbs, though these are still
-armored.&lt;/p&gt;
-
-&lt;p&gt;Crab-folk can operate normally on the surface, but their gills begin to dry out
-if they go more than a day without being immersed in sea water. This means they
-tend to stick close to the coast. Their voices sound strange and “bubbly”
-outside the water, which most surfacers find off-putting.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: 360-degree Vision {25}; Amphibious {10}; Gills {10}; Damage
-Resistance 5 (Cannot Wear Armor) {15}; No Neck {5};&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Cold-Blooded {-5}; Disturbing Voice (In Air, -50%) {-5},
-Dependency (Sea water, Daily) {-15}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: If your campaign takes place far from a coastal area, the
-Dependency disadvantage is worth -30 points, and the template therefore costs
-only 25. Your local alchemist can prepare a solution close enough to seawater to
-satisfy the requirement, but it’s still not free.&lt;/p&gt;
-
-&lt;h3 id=&quot;deep-ones-50-points&quot;&gt;Deep Ones (50 points)&lt;/h3&gt;
-
-&lt;p&gt;These humanoids are much more obviously “fishy” than Atlanteans, with an anatomy
-closer to that of an abyssal fish than a human’s. They’re adapted to the
-lightless depths of the ocean and that’s where they prefer to make their
-homes. Deep Ones can swim up to the shallows without suffering ill effects, but
-can’t breathe air.&lt;/p&gt;
-
-&lt;p&gt;After Atlantis fell, it was not uncommon for its Deep One settlements to become
-more isolated and break contact with shallower or surface communities. This some
-times gave rise to sinister legends and rumors about what they got up to down
-there. These are mostly bunk: they are no more prone to worshiping Elder Things
-than any other species.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Amphibious {10}, Dark Vision {25}, Fangs {2}, Gills {0},
-Pressure Support 3 {15}, Tough Skin 1 {3}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: Cold-Blooded {-5}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: A variant that can operate on the surface would be closer
-to several classic D&amp;amp;D fish-people. They have the 10-point version of Gills and
-so cost that much more.&lt;/p&gt;
-
-&lt;h3 id=&quot;merfolk-20-points&quot;&gt;Merfolk (20 points)&lt;/h3&gt;
-
-&lt;p&gt;Merfolk are humanoid from the waist up and have fish bodies from the waist
-down. They can breathe both air and water and have naturally melodious voices in
-both mediums, but they require magic or assistive devices like wheelchairs to
-operate on land. Their human halves display the same variance as Atlanteans, and
-their fish halves can resemble a variety of species of fish, shark, or cetacean.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;: Gills {10}, Voice {10}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;: No Legs (Aquatic) {0}.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;: The “Leg” and “Foot” hit locations on merfolk refer to their tail
-and lower fins instead. Armor for those locations must be specially
-constructed. As usual this doesn’t cost extra but limits which looted armor they
-can use.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Optional Traits&lt;/strong&gt;: If your character’s fish half mimics a particularly speedy
-species, they might have Enhanced Move 1 (Water) for an extra 20 points. At the
-GM’s option, this might be a matter of training instead of biology, which means
-any merfolk character can buy this with earned points as a power-up.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 28 Apr 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/04/28/atlantis.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/04/28/atlantis.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
