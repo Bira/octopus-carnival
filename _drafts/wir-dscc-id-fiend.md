@@ -16,7 +16,7 @@ As reasonably smart magical beasts, they are capable of making alliances with
 other creatures, though these tend to be strained at best. More often, an id
 fiend might craft fearful illusions to manipulate those creatures into helping
 it attack others. When that happens, the best tactic is to focus on the id
-fiend - when it does, its control ends.
+fiend - when it dies, its control ends.
 
 Id fiends are a major threat to civilians, but a favorite target of seasoned
 monster hunters. The House of the Mind in Draj pays generously for live
