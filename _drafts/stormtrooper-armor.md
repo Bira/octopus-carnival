@@ -9,16 +9,17 @@ tags:
 
 Do you know what is the second hardest thing to convert when adapting Star Wars
 to the tabletop? Stormtroopers[^1]. From an in-character perspective, facing
-down a squad of stormtroopers is a terrifying perspective. Of course, we _are_
-in a heroic action story, so what actually happens is that troopers almost never
-hit a shot and always get taken out in one hit from even the most primitive of
-weapons.
+down a squad of stormtroopers is a terrifying perspective, due to their "elite
+training" and heavy ultra-tech armor. Of course, we _are_ in a heroic action
+story, so what actually happens is that troopers almost never hit a shot and
+always get taken out in one hit from even the most primitive of weapons.
 
 Their poor aim has actually made it into GURPS as an optional cinematic rule
-named "Imperial Stormtrooper Marksmanship Academy", which reduces the deadliness
-of enemy shooters. But what about their armor?. Why does it do nothing? Armor
-effectiveness is usually framed as a matter of pure physics, so it feels like
-you can't just explain its ineffectiveness here as a skill issue.
+named "Imperial Stormtrooper Marksmanship Academy" and later renamed to "Mook
+Marksmanship", which reduces the deadliness of enemy shooters. But what about
+their armor? Why does it do nothing? Armor effectiveness is usually framed as a
+matter of pure physics, so it feels like you can't just explain its
+ineffectiveness here as a skill issue.
 
 There are almost as many attempted solutions to this as there are Star Wars
 adaptations. Me, I think I hit on a solution that allows me to keep those fun
