@@ -211,7 +211,7 @@ turn.
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-blade-noble.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-human-blade-noble.png" | absolute_url }}"/>
   <figcaption>
     A red-haired woman human wearing leather armor and holding a sheathed sword.
     Copyright 2010 Wizards of the Coast.
