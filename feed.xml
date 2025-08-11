@@ -6,9 +6,271 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Aug 2025 19:53:12 +0000</pubDate>
-    <lastBuildDate>Mon, 04 Aug 2025 19:53:12 +0000</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2025 21:15:04 +0000</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2025 21:15:04 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Human</title>
+        <description>&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Remember how I keep mentioning Mixed Groups of People as possible encounter
+groups? How they can be anything, allied or hostile, made up of free or enslaved
+individuals, working for any one of the setting’s factions or none at all?&lt;/p&gt;
+
+&lt;p&gt;That’s exactly the kind of description you get for humans in this entry. They
+are the most numerous humanoid species on Athas, they are infinitely varied and
+adaptable, and all the other stuff you have read about them a thousand times in
+other places. What this tells me is that those Mixed Groups of People will be
+mostly made up of humans.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Humans in Athas are mechanically identical to humans elsewhere. Medium Natural
+Humanoids with Speed 6, and with absolutely everything else determined by
+training in each specific stat block.&lt;/p&gt;
+
+&lt;p&gt;Any of these stat blocks can easily be adjusted to represent a member of another
+species by adding that species’ signature traits o it.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-slave&quot;&gt;Human Slave&lt;/h3&gt;
+
+&lt;p&gt;If humans make up the bulk of those Mixed Groups of People, then it’s logical to
+assume they also make up the bulk of Athas’ enslaved population. You’ll see them
+in large numbers while walking down the street of any of the sorcerer-kings’
+city states.&lt;/p&gt;
+
+&lt;p&gt;The Human Slave is a Level 1 Minion Brute, armed with a &lt;strong&gt;club&lt;/strong&gt; that’s likely
+improvised. They gain +1 bonus damage for each ally adjacent to their target,
+and &lt;strong&gt;Laborer’s Resilience&lt;/strong&gt; make them stay up for an additional turn after
+being reduced to 0 HP.&lt;/p&gt;
+
+&lt;p&gt;As you can see, they’re quite bad at fighting, and will likely only do so if
+they have no other choice. Only their large numbers make them a threat to
+PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-wasteland-raider&quot;&gt;Human Wasteland Raider&lt;/h3&gt;
+
+&lt;p&gt;This is a typical member of those hostile Mixed Groups of People who attack you
+while you’re traveling the wastes, intent on either killing you, taking your
+stuff, or both. They’re Level 2 Soldiers with 40 HP.&lt;/p&gt;
+
+&lt;p&gt;The most striking thing about this stat block is the big editing error right in
+the middle, a &lt;strong&gt;barbed spear&lt;/strong&gt; attack that has no listed damage and should be
+ignored. The raider’s actual weapon is a &lt;strong&gt;Dagger&lt;/strong&gt; that does standard physical
+damage and can be used in a stronger &lt;strong&gt;Gutting Dagger&lt;/strong&gt; attack against someone
+grabbed by the raider.&lt;/p&gt;
+
+&lt;p&gt;Maybe the spear was supposed to be the attack that grabbed the target? As it is,
+the raider has to use the default rules and perform a Grab action to do
+it. My suggestion here would be to replace the &lt;strong&gt;dagger&lt;/strong&gt; basic attack with a
+&lt;strong&gt;Barbed Spear&lt;/strong&gt; that does the same damage, grabs on a hit, and cannot be used
+against other targets while the raider has a target grabbed. Gutting Dagger
+would then turn into Gutting Spear, with the same effects.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-dune-trader&quot;&gt;Human Dune Trader&lt;/h3&gt;
+
+&lt;p&gt;I remember disliking the emphasis the book put on elven traders being unreliable
+and dishonest, but it looks like it doesn’t have much better to say about the
+human ones. This one is described as being flanked by burly bodyguards as he
+cheerfully lies about the price and quality of his goods.&lt;/p&gt;
+
+&lt;p&gt;Dune Traders are Level 4 Controllers with the Leader tag and 55 HP. They’re
+armed with &lt;strong&gt;hatchets&lt;/strong&gt; that do physical damage and cause the target to grant
+Combat Advantage for a turn.&lt;/p&gt;
+
+&lt;p&gt;While unbloodied, they can spend minor actions on &lt;strong&gt;Goading Commands&lt;/strong&gt; that let
+one ally within 6 squares move their speed as a free action. While bloodied,
+this changes to a &lt;strong&gt;Furious Glare&lt;/strong&gt;, a standard action that attacks the Will of
+enemies in a Close Blast 3. It does no damage, but immobilizes and makes the
+targets grant combat advantage on a hit (save ends both).&lt;/p&gt;
+
+&lt;h3 id=&quot;human-gladiator-novice&quot;&gt;Human Gladiator Novice&lt;/h3&gt;
+
+&lt;p&gt;Those gladiators who managed to survive their first few fights can go on to
+achieve fame and greatness… but this one is still figuring out the surviving
+part. There are many like him on every arena. He’s a level 4 Soldier with 55 HP.&lt;/p&gt;
+
+&lt;p&gt;The gladiator novice fights with a &lt;strong&gt;short sword&lt;/strong&gt; that damages and marks on a
+hit, and can performa a &lt;strong&gt;hamstring cut&lt;/strong&gt; that does the same damage, knocks
+prone, and slows (save ends). If an adjacent enemy stands up, the novice can
+use &lt;strong&gt;Stay Down!&lt;/strong&gt; as a reaction to attack their Reflex and knock them back down
+on a hit.&lt;/p&gt;
+
+&lt;p&gt;The book remarks that gladiators are one of the opponent types that have
+in-character reasons for picking less than optimal combat options during a
+fight, as long as they make for a better show.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-overseer&quot;&gt;Human Overseer&lt;/h3&gt;
+
+&lt;p&gt;Our first explicitly Evil stat block in this entry. The things they oversee are
+the sale, transport, and daily (mis)treatment of slaves. Whether they display
+malicious glee or banal apathy towards the cruelty that surrounds them, it
+remains true that their job is to perpetuate it. They’re Level 9 Controllers
+with the Leader tag and 96 HP.&lt;/p&gt;
+
+&lt;p&gt;Overseers are armed with &lt;strong&gt;Obsidian Swords&lt;/strong&gt;, and they have extensive training
+in psychic powers that assault and dominate the mind because of course they
+do. They project a &lt;strong&gt;Mental Mire&lt;/strong&gt; around themselves (aura 2) that slows enemies
+who starts their turns inside. &lt;strong&gt;Not So Fast!&lt;/strong&gt; is a ranged attack that deals
+psychic damage and pulls 3 squares. And &lt;strong&gt;Do My Bidding&lt;/strong&gt; targets one slowed
+creature within 2 squares and dominates it for a turn on a hit. This one is
+thankfully not at-will - it recharges when the overseer is bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-slavehunter&quot;&gt;Human Slavehunter&lt;/h3&gt;
+
+&lt;p&gt;Another Evil entry. Slavehunters do what it says on the tin, roaming both the
+wilds and the streets looking for new people to enslave. Anyone who looks like
+they’d fetch a good price and won’t put up much of a fight is fair game. They’re
+Level 10 Skirmishers with 103 HP.&lt;/p&gt;
+
+&lt;p&gt;This villain is armed with a &lt;strong&gt;Mace&lt;/strong&gt; and a &lt;strong&gt;Obsidian-toothed Whip&lt;/strong&gt;. A hit
+with the mace lets them shift 1 square. A hit with the whip pulls the target 1
+square and knocks it prone. As minor actions, they can use &lt;strong&gt;Swift Pursuit&lt;/strong&gt; to
+shift 3 squares (recharges when bloodied) or &lt;strong&gt;Cutting Lash&lt;/strong&gt; to inflict ongoing
+10 damage (save ends) on a prone creature as an encounter power.&lt;/p&gt;
+
+&lt;p&gt;The book mentions a power named “Face Smash”, but this isn’t present on the stat
+block. I guess there were some editing hiccups, and it was replaced by Cutting
+Lash without any changes to the surrounding text.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-templar-of-tyr&quot;&gt;Human Templar of Tyr&lt;/h3&gt;
+
+&lt;p&gt;Fourth Edition Dark Sun is set right after the sorcerer-king of Tyr was deposed
+and killed in a violent revolution, and this book describes the city’s templars
+as being “cast adrift” and only relying on “themselves and each other” to impose
+their will.&lt;/p&gt;
+
+&lt;p&gt;This seems to me like a fancy way to say they immediately pivoted to being a
+crime syndicate after losing their official authority, though I remember
+something in the older 2e books about Tyr still having some templars in its
+government. This stat block is Evil, so I’m guessing it represents a “loyalist”
+templar who is now a mobster.&lt;/p&gt;
+
+&lt;p&gt;This templar is a Level 10 Controller with 106 HP. It fights exclusively with
+Force magic. Its basic melee attack is an &lt;strong&gt;Eldritch Spear&lt;/strong&gt; that does force
+damage and slides targets 1 square on a hit. The basic ranged attack is an
+&lt;strong&gt;Eldritch Bolt&lt;/strong&gt; that does the same amount of force damage and pushes 2
+squares. &lt;strong&gt;Eldritch Cage&lt;/strong&gt; (recharge 5+) is an Area Burst 2 spell that attacks
+all creatures in the area. On a hit it restrains and deals 10 ongoing force
+damage (save ends). The book says the templar is not shy about including some of
+its own allies in the area if it will help them get more PCs.&lt;/p&gt;
+
+&lt;p&gt;None of the templar’s powers explicitly mention defiling, but you could give
+them a version of the next stat block’s passive trait if you wish.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-defiler&quot;&gt;Human Defiler&lt;/h3&gt;
+
+&lt;p&gt;In Athas, despoiling an already ravaged ecosystem is a big taboo that’s sure to
+draw the ire of those who see you do it… unless you’re a sorcerer-king or a
+templar, I guess. The defilers represented by this stat block are neither, but
+they really want to be and think the scorn of the ignorant masses is a light
+price to pay for Ultimate Cosmic Power. You could also uses these stats for a
+higher-ranking templar.&lt;/p&gt;
+
+&lt;p&gt;The Human Defiler is Level 14 Artillery with 108 HP (and also Evil). It has the
+&lt;strong&gt;Defiling&lt;/strong&gt; passive trait, which deals 5 necrotic damage to all enemies within
+3 squares whenever the defiler uses an implement power.&lt;/p&gt;
+
+&lt;p&gt;Its only non-implement power is a &lt;strong&gt;staff&lt;/strong&gt; bonk that causes a mix of physical
+and necrotic damage. The templar prefers to fight from a distance with lightning
+spells. &lt;strong&gt;Lightning Lance&lt;/strong&gt; is a basic ranged attack that does lightning damage,
+and &lt;strong&gt;Lightning Serpent&lt;/strong&gt;, an encounter power that does a bit less lightning
+damage but also inflicts ongoing 10 poison damage (save ends). Once per
+encounter, the Defiler can use &lt;strong&gt;Dimension Door&lt;/strong&gt; to teleport 10 squares,
+something it will probably use as an emergency escape measure.&lt;/p&gt;
+
+&lt;p&gt;When an enemy within 10 squares of the defiler spends a healing surge, it can
+use &lt;strong&gt;Defiling Serpent&lt;/strong&gt; as a free action to regain HP equal to half the value
+of the triggering surge and recharge Lightning Serpent.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-mind-adept&quot;&gt;Human Mind Adept&lt;/h3&gt;
+
+&lt;p&gt;We’re out of the Evil Zone again. This is a powerful human telepath that can be
+cast in any role, friendly or not: a Level 15 Controller with 145 HP.&lt;/p&gt;
+
+&lt;p&gt;Mind adepts rely solely on their powers (and on their teammates, of course) for
+defense. We start with an aura (2) of &lt;strong&gt;Overwhelming Thoughts&lt;/strong&gt; that makes it so
+any enemy that ends their turn inside cannot target the adept with an attack
+until the end of their next turn. This means melee-based PCs will only be
+attacking them every other turn.&lt;/p&gt;
+
+&lt;p&gt;Pretty much all of the adept’s attacks are psychic powers that target Will. For
+melee, we have the &lt;strong&gt;Mind-Wracking Touch&lt;/strong&gt; dealing psychic damage and making the
+target grant combat advantage for a turn. For greater ranges we have the at-will
+&lt;strong&gt;Paralyzing Blast&lt;/strong&gt; (close blast 5) which targets enemies, deals light psychic
+damage, and immobilizes for a turn on a hit.&lt;/p&gt;
+
+&lt;p&gt;The adept’s ultimate technique is &lt;strong&gt;Will of the Master&lt;/strong&gt;, a ranged attack that
+deals no damage and dominates (save ends). While the target is dominated, it
+emits harmful psychic waves: any enemy that starts their turn within 2 squares
+of the target takes 5 psychic damage and is immobilized for a turn. This is an
+encounter power that recharges whenever it misses.&lt;/p&gt;
+
+&lt;p&gt;When the adept is reduced to 0 HP, it causes &lt;strong&gt;Mental Overload&lt;/strong&gt; in a Close
+Burst 1. This targets enemies and on a hit deals psychic damage and stuns for a
+turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;human-blade-noble&quot;&gt;Human Blade Noble&lt;/h3&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-blade-noble.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A red-haired woman human wearing leather armor and holding a sheathed sword.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The most powerful human in this entry is not a wizard or a psychic, but someone
+who is Just That Good with a sword. Or in other words: Hello, Ms. Malenia! Fancy
+meeting you here. This is a Level 17 Controller with 163 HP.&lt;/p&gt;
+
+&lt;p&gt;The blade noble has a trait named &lt;strong&gt;Unpredictable Flank&lt;/strong&gt; that gives them combat
+advantage against any enemy adjacent to one of their allies. No need to setup a
+by-the-book flanking position.&lt;/p&gt;
+
+&lt;p&gt;They fight with a &lt;strong&gt;Duelist’s Blade&lt;/strong&gt;, which given the context is probably one
+of the few magical steel swords that still survive in Athas. Its basic attacks
+do physical damage and slide the target 1 square.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dance of Blades&lt;/strong&gt; (recharge 6+) is the &lt;a href=&quot;https://www.youtube.com/watch?v=rlnv_DCBEa8&quot;&gt;technique&lt;/a&gt; that reminded me of
+Malenia: it attacks enemies in a Close Burst 2, deals the same damage as a basic
+attack, immobilizes, and inflicts ongoing 5 damage (save ends). On a miss it
+still does half damage, which is a rarity on a rechargeable attack. The noble
+can shift 2 squares as an effect as well.&lt;/p&gt;
+
+&lt;p&gt;For triggered actions we have &lt;strong&gt;Whirling Parry&lt;/strong&gt;, an encounter power that
+triggers when an ally of the noble’s within 2 squares is hit by a melee or
+ranged attack. As an interrupt, the noble shifts 2 squares to be adjacent to the
+ally and rolls an attack using its standard bonus vs. AC. If that’s higher than
+the triggering attack roll, the triggering attack misses.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The individual stat blocks are pretty cool, but the lore is your standard Humans
+Are The Most Generic thing. In the end this ends up being a very ecletic set of
+People that you can reskin as any species and any narrative role that best fits
+your specific campaign.&lt;/p&gt;
+
+&lt;p&gt;I know some more recent games have explicitly gone this route for pretty much
+every humanoid NPC, giving us stat blocks based on narrative or mechanical role
+(“Bandit”, “Guard”, “Brute”, “Wizard”) and then letting us assign any species as
+necessary. D&amp;amp;D 4e wasn’t quite there yet, but ended up doing it by accident on
+this entry.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/11/wir-dscc-human.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/11/wir-dscc-human.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>The Guns of Wolfenstein, Part 02: The Old Blood</title>
@@ -1585,266 +1847,6 @@ not normally accessible from Athas.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Ultra-Tech Dungeon Delving in GURPS</title>
-        <description>&lt;p&gt;I started writing this post a few years ago when I was GMing the Iron Gods
-adventure path for Pathfinder using the Dungeon Fantasy RPG rules. My approach
-to that campaign was pretty slap-dash, and after I stopped I began thinking of a
-more structured way to do it. Since a recent comment here on the blog asked for
-specifics, I though I’d dust the post off and publish it.&lt;/p&gt;
-
-&lt;p&gt;Let’s say you have a Dungeon Fantasy game where you want your characters to get
-into contact with more advanced technology. How would you go about it?&lt;/p&gt;
-
-&lt;h2 id=&quot;ultra-tech-delving-a-survey&quot;&gt;Ultra-Tech Delving: A Survey&lt;/h2&gt;
-
-&lt;p&gt;Steve Jackson games did a little foray into this area in Pyramid #3/60, in an
-article entitled “High-Tech Dungeon Crawl”, which focused on bringing modern-day
-characters with guns into fantasy dungeons to mow down orcs with autofire and
-take their stuff. This raises the inherent level of colonalism in the genre from
-“concerning” to “yikes!”&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;What I want to focus on here is in an older variation on the theme: fantasy
-characters exploring “dungeons” filled with elements you might be more used to
-seeing in science fiction stories. When I say “older”, I mean it’s &lt;em&gt;older than
-D&amp;amp;D&lt;/em&gt;: Dave Arneson’s Blackmoor campaign featured a whole ultra-tech city-state
-descended from the crew of a crashed spaceship, and it was played for several
-years before what became the OD&amp;amp;D rules were finalized and officially
-published. D&amp;amp;D proper would explore the same territory with its famous
-“Expedition to the Barrier Peaks” module.&lt;/p&gt;
-
-&lt;p&gt;Pathfinder dedicates a whole kingdom in its setting to the idea: the land of
-Numeria is a barbarian kingdom where a giant spaceship crashed millenia ago,
-breaking up during atmospheric entry and scattering its many modules all over
-the region. And, of course, in Gamma World and other post-apocalyptic games
-&lt;em&gt;all&lt;/em&gt; “dungeons” are ultra-tech because they’re the ruins of the futuristic
-civilization that preceded the apocalypse.&lt;/p&gt;
-
-&lt;h2 id=&quot;ultra-tech-delving-in-gurps&quot;&gt;Ultra-Tech Delving in GURPS&lt;/h2&gt;
-
-&lt;p&gt;GURPS is of course a uniquely well-suited system for this kind of thing. Its
-rules already support a wide range of genres and technology levels from the
-corebook onwards. We only need a few adjustments depending on the sort of
-campaign we want.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;After The End&lt;/em&gt; already deals with the post-apocalyptic angle and offers a set
-of detailed rules. What I want, however, is something simpler and more suited to
-a Barrier Peaks/Numeria scenario. The ultra-tech stuff is alien, but characters
-can gain an understanding of it with some investment, and the gap between their
-usual medievalish milieu and the lofty heights of alien tech isn’t completely
-impossible to cross. How would I do it?&lt;/p&gt;
-
-&lt;h3 id=&quot;tech-level-or-the-lack-thereof&quot;&gt;Tech Level, or the Lack Thereof.&lt;/h3&gt;
-
-&lt;p&gt;So on one side we have the usual “medievalish” dungeon fantasy setting. In
-GURPS, that’s roughtly TL 4, but without gunpowder. On the other side we have a
-space-opera intrusion, which corresponds very roughly to a TL9-10 selection with
-a few outliers (personal shields are TL11-12, but they fit the flavor). With
-these vague numbers in mind, we can ditch the concept of Tech Levels completely
-for our treatment!&lt;/p&gt;
-
-&lt;p&gt;Default GURPS Tech Level rules are only useful for giving us a starting set of
-gadgets to work with. In actual play, the only thing that matters is if a given
-thing is “low-tech” and thus familiar to everyone, or “high-tech” and thus a
-mystery to the uninitiated. How to differentiate both? With the following
-advantage:&lt;/p&gt;
-
-&lt;h3 id=&quot;tech-familiarity-10-points&quot;&gt;Tech Familiarity (10 points)&lt;/h3&gt;
-
-&lt;p&gt;You have a layman’s knowledge of the basic principles behind the advanced
-technology scattered through your otherwise medieval fantasy world. You
-understand why it isn’t magic. You know about electricity and how it powers
-high-tech devices. You grasp enough of the high-tech design aesthetic to easily
-spot a device’s charging port or battery, its control surfaces (be they
-switches, triggers, or touchpads), its information displays, and its business
-end even if you don’t know what the thing actually &lt;em&gt;does&lt;/em&gt;. You can identify the
-high-tech civilization’s writing even though you can’t read it, and you can
-identify its iconography for “danger”. You can also recognize hazards like
-exposed live wires, recognize which type of power cell goes into a device, and
-plug it in.&lt;/p&gt;
-
-&lt;p&gt;This is a form of Unusual Background that makes you immune to the sort of
-amusing accident which plagues other low-tech explorers confronted with
-high-tech devices.&lt;/p&gt;
-
-&lt;p&gt;More importantly, Tech Familiarity is a pre-requisite for learning high-tech
-skills, and the language of the high-tech civilization (if any). With this
-advantage, you can spend points on those things normally.&lt;/p&gt;
-
-&lt;p&gt;Yes, this is quite similar to High TL from the core book, but much cheaper. The
-reason is that paying 30-35 points in High TL to get the same benefits is way
-too expensive for a campaign in this mold. This advantage doesn’t give you any
-familiarity with deeper aspects of the high-tech civilization, just what’s in
-the first paragraph.&lt;/p&gt;
-
-&lt;h3 id=&quot;tech-skills&quot;&gt;Tech Skills&lt;/h3&gt;
-
-&lt;p&gt;Skills that would require a /TL specialization in standard GURPS rules have only
-two versions here: standard (no suffix) and “/Tech”. That way, you don’t need to
-change anything about how you write down a standard “medievalish” character.&lt;/p&gt;
-
-&lt;p&gt;The two specialties don’t overlap at all: they don’t default to each other, and
-can’t be used at all across the “tech divide”. If you only have standard
-Lockpicking, you can’t open a high-tech door with a magnetic lock. If you only
-have Lockpicking/Tech, you can’t open low-tech mechanical locks with
-old-fashioned picks, tough you might be able to operate a machine that does it
-for you.&lt;/p&gt;
-
-&lt;p&gt;High-tech weapons are usually firearms of beam weapons - the skills to operate
-them properly are always “/Tech” skills. High-Tech &lt;em&gt;melee&lt;/em&gt; weapons are a
-possible exception to the “no defaults” rule above, though the GM would need to
-rule on each case:&lt;/p&gt;
-
-&lt;p&gt;Weapons that use the same skill as their low-tech counterparts can be used
-normally by anyone if the only difference is in their construction (such as a
-superfine or hyperdense blade). If they have some additional feature that
-requires power (such as a vibroblade or shock baton) then the character has a -2
-penalty to use that feature unless they have Tech Familiarity. If they require
-an exclusive skill to operate (like a force sword or monowire whip) then that
-skill has the “/Tech” suffix. You might be able to get away with a default to a
-low-tech skill here, but the only way to improve on that is to buy Tech
-Familiarity and the high-tech skill.&lt;/p&gt;
-
-&lt;h3 id=&quot;ultra-tech-gear&quot;&gt;Ultra-Tech Gear&lt;/h3&gt;
-
-&lt;p&gt;With the character stuff out of the way, we can talk about the goodies! As I
-mentioned above, one advantage of GURPS is that it has entire books of high- and
-ultra-tech gadgets that can be plugged straight into your fantasy
-campaigns. Therefore, we don’t need to talk about how to stat this stuff up at
-all! What we &lt;em&gt;do&lt;/em&gt; need is talk about the effects it’s going to have on your
-campaign, which in turn will aid you in selecting which items to include.&lt;/p&gt;
-
-&lt;h4 id=&quot;how-much-is-this-stuff-worth&quot;&gt;How much is this stuff worth?&lt;/h4&gt;
-
-&lt;p&gt;A vital question in the dungeon fantasy genre! Going more or less by the book,
-high-tech items should be worth roughly 30 times their list price in a dungeon
-fantasy setting. That makes even a relatively innocuous gadget into a major
-piece of loot!&lt;/p&gt;
-
-&lt;p&gt;This might seem a bit too much for a dungeon fantasy setting where magic and
-magic items are relatively common, but I think it kinda makes sense. Ultra-tech
-items are going to be a lot rarer than magic items, particularly in settings
-where they come from that single crashed spaceship. They work regardless of the
-local mana and sanctitiy levels. And they can be enchanted! These are exactly
-the same reasons why a suit of fine plate armor costs more than a standard suit
-enchanted with Lighten 1.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;: A superfine broadword would cost $3600 in its native ultra-tech
-society. Recovered from a crashed spaceship in a dungeon fantasy setting, it’s
-worth $108,000!&lt;/p&gt;
-
-&lt;p&gt;That sword gives a +2 bonus to damage and a (2) armor divisor. The closest
-“low-tech” equivalent would be a very fine sword with a Penetrating Weapon
-enchantment, worth $17,000, almost ten times cheaper. Even if all the bonuses
-were from magic, it would still cost only $25,600. However, the superfine blade
-will lose none of its functionality in a low- or no-mana zone, and it could be
-enchanted with the same magic as the low-tech sword to become even better.&lt;/p&gt;
-
-&lt;p&gt;If you &lt;em&gt;do&lt;/em&gt; think that this is too much, you could say that the value of
-ultra-tech gear is capped by the value of magic items with similar
-properties. The sword from the example would be worth $17,000 then. Gear that
-has no magical equivalent might still use the “uncapped” price.&lt;/p&gt;
-
-&lt;h4 id=&quot;timeworn-gear&quot;&gt;Timeworn Gear&lt;/h4&gt;
-
-&lt;p&gt;One concept from Pathfinder that’s useful to borrow is that of timeworn
-items. In Barrier Peaks-style setups, most of the high-tech stuff the PCs come
-across has been sitting around in derelict ruins for a very long time; even if
-it was very well-built, it might not have withstood the passage of the ages
-intact. To model that, we introduce the following equipment modifier:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Timeworn&lt;/strong&gt;: This can be applied to any high-tech armor, weapon, or device that
-requires power or ammunition to function. These items can’t be recharged. After
-whatever reserves they contain when found are used up, they’ll break down and
-become useless. They may also have other quirks arising from their almost-broken
-state at the GM’s discretion. Divide final price by 10.&lt;/p&gt;
-
-&lt;h4 id=&quot;weapons-and-armor&quot;&gt;Weapons and Armor&lt;/h4&gt;
-
-&lt;p&gt;Weapons and armor deserve special mention because Dungeon Fantasy is a
-combat-heavy genre, and this combat has a very specific “feel” to it. Therefore,
-high-tech combat gear will have an outsize impact on it.&lt;/p&gt;
-
-&lt;p&gt;Baseline Dungeon Fantasy suggests that PCs should have a maximum total DR of
-about 15, as anything more than that will make them invulnerable to too many
-monster attacks.&lt;/p&gt;
-
-&lt;p&gt;PC damage also has some upper bounds. Spellcasters with missile spells and a
-spellcasting talent of 6 can do a maximum of 18d damage, though that requires
-enough setup to only be possible about once per fight, and not on all
-fights. The maximum amount of “at-will” melee and ranged damage a PC can do is
-equivalent to about 7d per attack&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Introducing ultra-tech armor into the game almost certainly means you’re going
-to exceed the DR cap. Even non-combat safety gear at these tech levels has as
-much DR as low-tech plate, while being much lighter. Proper combat armor is much
-tougher. Most of the published DF enemies will have trouble getting past the DR
-of a PC in full ultra-tech armor with their physical attacks.&lt;/p&gt;
-
-&lt;p&gt;Similarly, high-tech weapons can change the shape of combat in your
-campaign. Dungeon Fantasy usually considers melee to be the main event and
-ranged combat to be a specialist niche, but if guns and beam weapons are common
-these two are going to swap places.&lt;/p&gt;
-
-&lt;p&gt;Ultra-tech melee and ranged weapons can also allow PCs to approach or exceed the
-upper damage bounds described above much more easily. Both “boundaries” are
-roughly equivalent to rolling 7d of damage per attack. A force sword does 8d; a
-laser rifle does 6d, and can can fire many more shots per turn than a bow with
-no penalty. Both of those have armor divisors too, which make enemy DR become
-much less of an obstacle.&lt;/p&gt;
-
-&lt;p&gt;The first step when addressing these issues is to carefully consider which items
-are available. What do you want your campaign’s new DR cap to be? What is the
-highest armor divisor you’re comfortable with? What sort of maximum damage do
-you want your PCs to do with a melee or ranged attack they can use every second?
-And, to quote Mister Torgue from Borderlands 2: EXPLOSIONS?&lt;/p&gt;
-
-&lt;p&gt;The second step is to consider the same thing from the side of the opposition:
-what’s the highest DR and damage you estimate &lt;em&gt;they&lt;/em&gt; will be able to routunely
-bring to the table? The gear available to the PCs should give them a chance to
-match those figures.&lt;/p&gt;
-
-&lt;p&gt;You can then safely remove anything that exceeds your new planned limits. That
-will end up giving you a pretty good set of guidelines for what the ultra-tech
-culture and their ruins look like. A civilian medical lab infested with
-non-sapient monsters and low-tech looters might have plenty of medkits and
-wonder drugs, but no weapon heavier than a couple of timeworn electrolasers and
-some scalpels the thief can use as superfine daggers. For a military base filled
-with killer robots and with a tank at the end as a boss fight, the sky is the
-limit, though those anti-tank weapons might all be timeworn if you don’t want
-the PCs using them outside.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;The article itself includes a section titled “The Sociological
-Ramifications are Appalling”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;A ST 20 Knight with Weapon Master and a halberd can easily attack twice
-every turn and do 3d+13 per attack. This is theoretically possible right out
-of character creation if your knight is a half-ogre. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;A ST 20 Scout with Weapon Master and Strongbow might be able to shoot once
-per turn and do about 4d+10 per shot. This particular boundary is hard to
-reach, so your highest “at-will” ranged damage will probably be less than
-that. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
