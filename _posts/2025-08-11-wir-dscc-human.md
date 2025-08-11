@@ -88,7 +88,7 @@ achieve fame and greatness... but this one is still figuring out the surviving
 part. There are many like him on every arena. He's a level 4 Soldier with 55 HP.
 
 The gladiator novice fights with a **short sword** that damages and marks on a
-hit, and can performa a **hamstring cut** that does the same damage, knocks
+hit, and can perform a **hamstring cut** that does the same damage, knocks
 prone, and slows (save ends). If an adjacent enemy stands up, the novice can
 use **Stay Down!** as a reaction to attack their Reflex and knock them back down
 on a hit.
