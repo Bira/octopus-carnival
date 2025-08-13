@@ -6,9 +6,95 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 11 Aug 2025 21:20:30 +0000</pubDate>
-    <lastBuildDate>Mon, 11 Aug 2025 21:20:30 +0000</lastBuildDate>
+    <pubDate>Wed, 13 Aug 2025 11:46:37 +0000</pubDate>
+    <lastBuildDate>Wed, 13 Aug 2025 11:46:37 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Id Fiend</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-id-fiend.png&quot;/&gt;
+  &lt;figcaption&gt;
+    An id fiend, a big toothy lizard, hanging out on a rock outcropping.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Id fiends are big toothy lizards with psionic powers of fear manipulation,
+which they use to hunt their preferred prey. Which is, of course, people.&lt;/p&gt;
+
+&lt;p&gt;As reasonably smart magical beasts, they are capable of making alliances with
+other creatures, though these tend to be strained at best. More often, an id
+fiend might craft fearful illusions to manipulate those creatures into helping
+it attack others. When that happens, the best tactic is to focus on the id
+fiend - when it dies, its control ends.&lt;/p&gt;
+
+&lt;p&gt;Id fiends are a major threat to civilians, but a favorite target of seasoned
+monster hunters. The House of the Mind in Draj pays generously for live
+specimens, whose fresh organs and fluids go into making alchemical potions meant
+to awaken someone’s psychic potential. Many of those are dubious at best, but at
+least some of them have real effects. The book mentions “terror ichor” by name -
+this is a consumable reagent that can be used to enhance fear-based powers.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;If Fiends are Large Aberrant Magical Beasts with the Reptile tag. This probably
+makes them the most mundane-looking aberrants we saw so far. Just a big lizard,
+not a tentacle in sight.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, they end up filling the empty niche left by absence of low-level
+dragons in Athas. They’re Level 1 Solo Controllers with 120 HP, Darkvision, a
+Speed of 6, an immunity to Fear and Resist 5 Psychic.&lt;/p&gt;
+
+&lt;p&gt;A fiend can attack with a &lt;strong&gt;quick slash&lt;/strong&gt; of its claws, which deals light
+physical damage and lets it shift 1 square; with a bite of its &lt;strong&gt;Snapping Jaws&lt;/strong&gt;
+that deals more damage and slides the target 1 square; or with a &lt;strong&gt;Double
+Attack&lt;/strong&gt; that uses both.&lt;/p&gt;
+
+&lt;p&gt;Instead of a breath weapon, it has the &lt;strong&gt;Manifest Fear&lt;/strong&gt; power (recharge 4+),
+which affects enemies in a Close Burst 5. Those hit by it are dazed for a turn
+as they see a vision of their worst fears becoming reality.&lt;/p&gt;
+
+&lt;p&gt;Once the fiend dazes a few enemies, it will use the &lt;strong&gt;Fearful Torment&lt;/strong&gt; power, a
+minor-action ranged attack that targets one or two tazed creatures. A hit deals
+psychic damage, immobilizes, and inflicts a -2 penalty to attacks for a turn. I
+guess this means it makes the vision of fear worse.&lt;/p&gt;
+
+&lt;p&gt;Once the fiend is first bloodied, Manifest Fear recharges and it can use the
+power immediately as a free action.&lt;/p&gt;
+
+&lt;p&gt;Looks like id fiends prefer to use their fear powers to kill their victims if
+possible, though they’re also perfectly capable of physical fighting as seen
+above.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;A single id fiend makes a fine boss battle for beginner PCs. Once they gain a
+level or two, you can begin to add thralls enraptured by visions of fear, and
+fooled into thinking the PCs are monsters to be slain. As the book says, killing
+the fiend will likely free the thralls.&lt;/p&gt;
+
+&lt;p&gt;It’s an interesting monster, I think. Effectively a low-level dragon that
+breathes fear. You can level it up a bit to make it more challenging for
+mid-Heroic PCs, but I’d probably set that as the upper bound of their power.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Human</title>
@@ -92,7 +178,7 @@ achieve fame and greatness… but this one is still figuring out the surviving
 part. There are many like him on every arena. He’s a level 4 Soldier with 55 HP.&lt;/p&gt;
 
 &lt;p&gt;The gladiator novice fights with a &lt;strong&gt;short sword&lt;/strong&gt; that damages and marks on a
-hit, and can performa a &lt;strong&gt;hamstring cut&lt;/strong&gt; that does the same damage, knocks
+hit, and can perform a &lt;strong&gt;hamstring cut&lt;/strong&gt; that does the same damage, knocks
 prone, and slows (save ends). If an adjacent enemy stands up, the novice can
 use &lt;strong&gt;Stay Down!&lt;/strong&gt; as a reaction to attack their Reflex and knock them back down
 on a hit.&lt;/p&gt;
@@ -1714,139 +1800,6 @@ grudge” is a pretty universal concept.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Ghost, Raaig</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-ghost-raaig.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A half-humanoid, half-skeleton, all spiky ghost.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Athas is a world with plenty of horrible death in it, so of course it has plenty
-of ghosts.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;The ghosts we’re talking about in this entry are also called “raaigs”, so you
-can use that word when nomenclature is important and you want to distinguish
-them from wraiths, specters, or the specific D&amp;amp;D monster actually called a
-Ghost.&lt;/p&gt;
-
-&lt;p&gt;They are specifically the ghosts of priests and holy warriors that served the
-now-dead gods of Athas, and who met their demise while charged with protecting
-their holy sites and relics.&lt;/p&gt;
-
-&lt;p&gt;The typical encounter with a raaig will happen when the PCs enter the ruins of
-such a place. The ghost, still fulfilling its mission, will manifest and
-challenge the intruders to check whether they’re devout pilgrims or dastardly
-thieves. Since no one alive remembers the proper prayers and passwords to
-appease these spirits, they are likely to attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Raaigs have the full ghost package: ground and flight speeds of 6, Darkvision,
-phasing, insubstantial, immune to disease and poison. The book mentions they
-become corporeal for a moment when they attack, but this moment doesn’t last
-long enough to influence their stat blocks, which considers them to be
-insubstantial at all times.&lt;/p&gt;
-
-&lt;p&gt;They don’t have any weaknesses that let them become partially corporeal
-either, so the only way to deal full damage to a raaig is if you’re using the
-rules update that makes force damage fully affect all insubstantial creatures.&lt;/p&gt;
-
-&lt;h3 id=&quot;raaig-tomb-spirit&quot;&gt;Raaig Tomb Spirit&lt;/h3&gt;
-
-&lt;p&gt;Your common specimen as far as these very specific ghosts go. The Tomb Spirit is
-a Level 9 Soldier with 66 HP, which looks like a small number until you remember
-it will be taking half damage from everything.&lt;/p&gt;
-
-&lt;p&gt;The tomb spirit projects an aura (1) of &lt;strong&gt;Gripping Dread&lt;/strong&gt;, which forbids
-enemies inside from shifting and deals 5 cold damage to enemies marked by the
-spirit who make an attack that doesn’t target it. This is a spooky version of
-the Paladin’s mark mechanic.&lt;/p&gt;
-
-&lt;p&gt;Its main attack is a &lt;strong&gt;chilling blade&lt;/strong&gt; that deals cold damage. As a minor
-action once per round it can issue the &lt;strong&gt;Raaig’s Challenge&lt;/strong&gt;, which targets
-Will, and pulls 2 squares and marks for a turn on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;raaig-crypt-lord&quot;&gt;Raaig Crypt Lord&lt;/h3&gt;
-
-&lt;p&gt;A higher-ranking guardian in life, the Crypt Lord is a Level 14 Soldier with the
-Leader tag and 96 HP. It’s mostly a Tomb Spirit with bigger numbers and improved
-abilities:&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Chilling Blade&lt;/strong&gt; deals more damage and marks on a hit; its &lt;strong&gt;Gripping
-Dread&lt;/strong&gt; has a radius of 2; ts &lt;strong&gt;Challenge&lt;/strong&gt; pulls 4 squares instead of 2.&lt;/p&gt;
-
-&lt;p&gt;The one new ability here is &lt;strong&gt;Ghostly Command&lt;/strong&gt; (recharge 6+) which lets each
-undead ally within 5 squares of the lord shift 2 squares and make a basic
-attack. As this takes a standard action, it will probably be used to open the
-fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;raaig-souflame&quot;&gt;Raaig Souflame&lt;/h3&gt;
-
-&lt;p&gt;This is the ghost of someone who was so favored by the gods in life that they
-retained a small spark of divine power after death. Their hold on this spark is
-tenuous, however, and it might leave them if they’re too damaged. In this case,
-they will be turned into desperate beasts full of grief and rage. This is a
-Level 21 Skirmisher with 138 HP and all raaig traits.&lt;/p&gt;
-
-&lt;p&gt;The idea here is that they lose the divine spark when bloodied, and so they
-effectively have two sets of abilities and movement speeds - one for when they
-have the spark, and one for when they don’t.&lt;/p&gt;
-
-&lt;p&gt;When “healthy”, the soulflame has a ground speed of 8 and a teleport speed
-of 3. It attacks with a &lt;strong&gt;Divine Blade&lt;/strong&gt; that deals a mix of untyped and radiant
-damage and lets the ghost teleport 3 squares on a hit. It can get fancy with
-this and use it to perform a &lt;strong&gt;Flickering Phantom&lt;/strong&gt; maneuver (recharge 5+): the
-souflame teleports 4 squares, makes a stronger than usual sword attack, then
-teleports another 4 squares and makes another, weaker attack. The teleports are
-effects, so they happen even if the attacks miss.&lt;/p&gt;
-
-&lt;p&gt;When bloodied, it loses the ability to teleport and gains a flight speed of 8
-instead. Its main attack becomes a &lt;strong&gt;Deathly Blade&lt;/strong&gt; whose added damage is
-necrotic instead of radiant, and which makes the target only regain half HP from
-healing for a turn. Its Flickering Phantom ability is replaced with &lt;strong&gt;Hollow
-Rage&lt;/strong&gt;, an encounter power that deals heavy damage and prevents the target from
-regaining HP entirely (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The book says raaigs are intelligent and strong-willed enough to take command of
-most other undead that haunt their temples, such as skeletons, mummies, and
-other ghosts, so these will make up their allies in an encounter. It also
-reminds us that not all gods were good - protectors of evil temples might still
-have command of the devils or demons that also served its patron god. Souflames
-in particular are likely to attract surviving angels that served the same deity,
-as they are drawn to that faint spark.&lt;/p&gt;
-
-&lt;p&gt;This makes me think that a non-hostile raaig makes an excellent mentor and
-teached for the super-rare divine PCs of Athas. Maybe your cleric or paladin was
-trained by the soulflame who is the Last Priest of Pelor and who was aware
-enough to take the PC under their wing instead of treating them as an intruder.&lt;/p&gt;
-
-&lt;p&gt;And if angels and devils arrive to serve such ghosts, that’d be a big draw to
-someone who is researching a way into the Astral Sea, as I think that plane is
-not normally accessible from Athas.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/14/ghost-raaig.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/14/ghost-raaig.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
