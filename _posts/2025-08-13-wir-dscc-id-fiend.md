@@ -7,6 +7,19 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-id-fiend.png" | absolute_url }}"/>
+  <figcaption>
+    An id fiend, a big toothy lizard, hanging out on a rock outcropping.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
+
 ## The Lore
 
 Id fiends are big toothy lizards with psionic powers of fear manipulation,
@@ -66,3 +79,5 @@ the fiend will likely free the thralls.
 It's an interesting monster, I think. Effectively a low-level dragon that
 breathes fear. You can level it up a bit to make it more challenging for
 mid-Heroic PCs, but I'd probably set that as the upper bound of their power.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
