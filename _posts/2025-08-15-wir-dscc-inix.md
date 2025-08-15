@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-inix.png" | absolute_url }}"/>
+  <figcaption>
+    An inix, a yellowish giant lizard with a brown beak and carapace.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Unlike most of the Athasian fauna we saw so far, these giant lizards are fairly
@@ -64,3 +76,5 @@ with wild ones, as they can feature more varied encounter groups. As mentioned
 above, adults are awesome mounts for artillery and controller riders. They're
 also fun to have as the draft animal for a "runaway wagon" scenario, as they
 tend to be much harder to physically stop than horses.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

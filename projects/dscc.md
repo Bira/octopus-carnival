@@ -62,6 +62,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 
 - I
   - [Id Fiend][29]
+  - [Inix][30]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -92,3 +93,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [27]: {{ "/2025/08/01/wir-dscc-hejkin.html" | relative_url }}
 [28]: {{ "/2025/08/11/wir-dscc-human.html" | relative_url }}
 [29]: {{ "/2026/08/13/wir-dscc-id-fiend.html" | relative_url }}
+[30]: {{ "/2025/08/15/wir-dscc-inix.html" | relative_url }}

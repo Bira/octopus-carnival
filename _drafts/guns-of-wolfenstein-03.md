@@ -173,8 +173,8 @@ by using one of the highly dangerous industrial power outlets that seem to be
 everywhere in Nazi-dominated cities and facilities.
 
 In The New Order, these use short-ranged wireless power transfer. In The New
-Colossus, they use a thick with a plug that resembles a gas station pump. I
-suggest picking an aesthethic and sticking to it.
+Colossus, they use a thick cable with a plug that resembles a gas station
+pump. I suggest picking an aesthethic and sticking to it.
 
 **Wireless Charging**: The wielder must stay within 2 meters of the outlet
 during the process, which causes lightning to arc between the outlet and the
@@ -209,7 +209,7 @@ Despite being a laser weapon based on the Marksman Rifle, Nazi soldiers don't
 usually use Aim maneuvers with it, so they are not more accurate than usual when
 wielding it.
 
-It doesn't exist in The New Colossus, not even in Venus. Maybe it was a pet
+It doesn't exist in The New Colossus, not even on Venus. Maybe it was a pet
 project of Deathshead's for the moon base, and got phased out when he died.
 
 #### Marksman Rifle (Combined)
@@ -333,7 +333,7 @@ when empty.
 Industrial outlets reload it at a rate of 20 shots per second. When attached to
 a fixed mount, the weapon's Acc improves to 18, and it's recharged as if
 connected to an outlet when not firing. Attaching or detaching it takes 2 Ready
-maneuvers.
+maneuvers. The weapon uses the Gunner (Beams) skill even when detached.
 
 #### Heavy Weapon Table
 
@@ -348,6 +348,6 @@ maneuvers.
 [^1]: Seth belongs to the Da'at Yichud, an ancient society of engineers that had
     been building superscience devices as a form of worship since before the
     rest of humanity had organized religion. Deathshead's inventions are all
-    copied from one of their vaults, which he found in the 40s. I've seen them
-    described as kinda problematic despite the designers' best intentions, so I
-    won't talk about them much here.
+    copied from one of their vaults, which he found in the 40s. I've seen the
+    concept described as kinda problematic despite the designers' best
+    intentions.
