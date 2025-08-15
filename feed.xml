@@ -6,9 +6,92 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Aug 2025 11:46:37 +0000</pubDate>
-    <lastBuildDate>Wed, 13 Aug 2025 11:46:37 +0000</lastBuildDate>
+    <pubDate>Fri, 15 Aug 2025 07:57:44 +0000</pubDate>
+    <lastBuildDate>Fri, 15 Aug 2025 07:57:44 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Inix</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-inix.png&quot;/&gt;
+  &lt;figcaption&gt;
+    An inix, a yellowish giant lizard with a brown beak and carapace.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Unlike most of the Athasian fauna we saw so far, these giant lizards are fairly
+docile omnivores. They mostly eat plants and roots, though they’ll also feed on
+carrion and small animals. They only attack people if directly
+threatened.&lt;/p&gt;
+
+&lt;p&gt;Inixes are widely domesticated for use as mounts, draft animals, and
+livestock. Some people like to keep juveniles as pets. In the wild, they roam in
+small bands. Inix females lay eggs once a year, and are capable of producing
+viable eggs even without a male.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Inixes are Natural Beasts, with the Reptile tag. When forced to fight they
+attack with bites and with swipes of their large and powerful tails.&lt;/p&gt;
+
+&lt;h3 id=&quot;inix-juvenile&quot;&gt;Inix Juvenile&lt;/h3&gt;
+
+&lt;p&gt;Inix juveniles are only about half the size of adults, which means they’re
+Medium. This slighter build makes them faster than adults. Juveniles also have
+venom in their bites, which they lose as they grow up. They’re Level 4
+Skirmishers with 57 HP and a speed of 8.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, their &lt;strong&gt;bite&lt;/strong&gt; is venomous, dealing a mix of physical and
+poison damage. As a minor action they can attempt a &lt;strong&gt;Tail Trip&lt;/strong&gt;, which attacks
+Fortitude. On a hit, the inix knocks the target prone and can shift 1 square.&lt;/p&gt;
+
+&lt;h3 id=&quot;inix-adult&quot;&gt;Inix Adult&lt;/h3&gt;
+
+&lt;p&gt;Adults are size Large, and Level 9 Brutes with 120 HP and a Speed of 6. They’ll
+probably open the fight with a &lt;strong&gt;Tail Slap&lt;/strong&gt; that attacks the Fortitude of
+enemies in a Close Blast 2. On a hit it deals standard physical damage and
+knocks the targets prone.&lt;/p&gt;
+
+&lt;p&gt;Next, it’s time for the &lt;strong&gt;bite&lt;/strong&gt;, which deals standard physical damage. When it
+hits a prone target, the bite deals extra damage and grabs that target. The
+victim can only try to stand up after the grab ends, and the inix can keep
+making bite attacks against it (but not against others while the victim remains
+grabbed).&lt;/p&gt;
+
+&lt;p&gt;If the inix is serving as a mount, it can use the &lt;strong&gt;Warding Tail&lt;/strong&gt; ability. This
+triggers when the rider is hit by an opportunity attack provoked by making a
+ranged or area attack, and lets the inix use Tail Slap against the triggering
+creature as a free action. This makes them a fine mount for artillery monsters!&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;A short and sweet entry. It’s always good to see another member of the club of
+Athasian creatures that are not suicidally aggressive predators.&lt;/p&gt;
+
+&lt;p&gt;Encounters with domesticated inixes tend to be much more interesting than those
+with wild ones, as they can feature more varied encounter groups. As mentioned
+above, adults are awesome mounts for artillery and controller riders. They’re
+also fun to have as the draft animal for a “runaway wagon” scenario, as they
+tend to be much harder to physically stop than horses.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Id Fiend</title>
@@ -1651,155 +1734,6 @@ instead of actually being hit. This also explains why a quar can take
         <category>gurps</category>
         
         <category>quar</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Giant</title>
-        <description>&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;Athas has a lot of the same giants we can see in the Monster Manuals and Monster
-Vault. Athasian giants are less militarily aggressive than their counterparts in
-other worlds, but they still don’t like interacting with the “small folk”. They
-prefer to make their homes in isolated islands on the Silt Sea. A giant who
-wants to visit the mainland can often just &lt;em&gt;wade through&lt;/em&gt; what to them is
-chest-high silt. PCs might be able to negotiate a ride with such a giant, if
-they’re diplomatic enough.&lt;/p&gt;
-
-&lt;p&gt;In this entry we’ll take a look at two Athas-specific giants, whose descriptions
-will help explain why they don’t like the small ones very much.&lt;/p&gt;
-
-&lt;h2 id=&quot;beast-giants&quot;&gt;Beast Giants&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-giant-beast.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A snake-headed beast giant.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Beast Giants are the product of psionic experimentation by ancient masters of
-the Way, who have stabilized into their own species. They have bodies similar to
-that of hill giants, but the heads of beasts.&lt;/p&gt;
-
-&lt;p&gt;Each giant’s head is different, and can be similar to that of any Athasian
-beast, whether currently living or extinct. So PCs might be faced with something
-familiar like a Cilops or Baazrag-headed giant, or with some exotic ancient
-cryptid like a lion, tiger or bear. Oh my! Their skill at mind-reading is such
-that they can copy most techniques used against them on the fly during a fight.&lt;/p&gt;
-
-&lt;p&gt;Beast Giants are fairly cosmopolitan sorts and frequently associate with other
-types of giant and giant-kin who share their islands: hill giants, firbolgs,
-brohgs, and others.&lt;/p&gt;
-
-&lt;h3 id=&quot;beast-giant&quot;&gt;Beast Giant&lt;/h3&gt;
-
-&lt;p&gt;The typical beast giant is Large Natural Humanoid (Giant) and a Level 15 Brute
-with 180 HP and a ground speed of 7 and Low-light Vision.&lt;/p&gt;
-
-&lt;p&gt;No matter what their head looks like, it gives them a &lt;strong&gt;Rending Bite&lt;/strong&gt; that
-deals heavy immediate damage and ongoing 5 damage (save ends). Once per
-encounter they can use the &lt;strong&gt;Red of Tooth&lt;/strong&gt; power to make three bite attacks on
-the same action, each against a different target.&lt;/p&gt;
-
-&lt;p&gt;When someone attacks a beast giant, they can use &lt;strong&gt;Psionic Retention&lt;/strong&gt; as a
-reaction. They still suffer the damage and any riders normally, but they also
-“retain” that result, so keep a note of it. They can then use this to power
-their &lt;strong&gt;Psionic Release&lt;/strong&gt; attack (melee 2 vs. Fortitude). A hit deals the exact
-same amount and type of damage, and the exact same riders, as the giant’s
-“retained” attack. Psionic Release recharges when the giant uses Psionic
-Retention again, so it effectively “spends” the retained attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;beast-titan&quot;&gt;Beast Titan&lt;/h3&gt;
-
-&lt;p&gt;The oldest Beast Giants have grown enough in power and size to qualify as Beast
-Titans. They’re a lot more aggressive than their younger counterparts and love
-displaying the skulls of their enemies as trophies.&lt;/p&gt;
-
-&lt;p&gt;These are Huge instead of Large, and they’re Level 20 Elite Brutes with 466
-HP. Their ground speed is an 8, and their &lt;strong&gt;Beast Reflexes&lt;/strong&gt; let them roll a
-save to avoid falling prone.&lt;/p&gt;
-
-&lt;p&gt;Their Psionic Retention and Release powers work the same as the giant’s, with
-the greater range and numbers from their larger size and level. Their &lt;strong&gt;Gnashing
-Bite&lt;/strong&gt; is also upgraded.&lt;/p&gt;
-
-&lt;p&gt;As a minor action the titan can use &lt;strong&gt;Titan’s Embrace&lt;/strong&gt; (melee 3 vs. reflex) to
-do some light damage and grab on a hit. And once it has a grabbed victim, it can
-use &lt;strong&gt;Head Rip&lt;/strong&gt; to deal massive damage, plus the same ongoing damage as the
-bite. The giant also throws the victim 10 squares and knocks it prone at the
-end.&lt;/p&gt;
-
-&lt;h2 id=&quot;shadow-giant&quot;&gt;Shadow Giant&lt;/h2&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-giant-shadow.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A human adventurer cowering from a shadow giant.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Unlike the Death Giants of the monster manual, who are merely death-_themed_,
-Shadow Giants are actual undead. They’re vengeful spirits who seek retribution
-from an ancient slaughter, likely from the Red Age. They look like shadows cast
-on a wall.&lt;/p&gt;
-
-&lt;p&gt;They tend to be loners, or to ally with those giants that still retain a strong
-elemental connection (like fire and stone giants). Sometimes, a brohg renegade
-will seek them out to learn the ancient arcane secrets the shadow still
-rememebers.&lt;/p&gt;
-
-&lt;p&gt;Shadow Giants are Large Shadow Humanoids with the Undead and Giant tags, and
-Level 18 Soldiers with 185 HP. They have darkvision, a ground speed of 7, and a
-flight speed of 3. Like most undead, they are immune to disease and poison and
-have 20 necrotic resistance. They’re also insubstantial, but lack Phasing.&lt;/p&gt;
-
-&lt;p&gt;A shadow giant projects an aura (5) of &lt;strong&gt;Shadow Malaise&lt;/strong&gt; that halves any
-healing that takes place inside. Whenever they take radiant damage, they’re
-&lt;strong&gt;Revealed by Radiance&lt;/strong&gt; and become substantial for a turn.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a &lt;strong&gt;Necrotic Touch&lt;/strong&gt;, which targets Reflex, deals necrotic
-damage, and marks on a hit (save ends). They also have a non-basic &lt;strong&gt;Death
-Touch&lt;/strong&gt; that is similar, but exchanges some of its direct damage for an
-additional ongoing 10 necrotic damage rider (save ends both this and the mark).&lt;/p&gt;
-
-&lt;p&gt;If a marked enemy makes an attack that doesn’t include the giant, they are
-&lt;strong&gt;Cast Into Shadow&lt;/strong&gt; as a reaction. This is a melee attack that targets
-Reflex. A hit does no damage, but removes the target from play for a turn! This
-means they’re stunned and removed from the map, reappearing at their previous
-position when the effect ends.&lt;/p&gt;
-
-&lt;p&gt;The giant’s ability to possibly mark multiple PCs makes it a very effective
-“defender”. Cast Into Shadow is a very potent “save or suck” attack, so PCs will
-have an extra incentive to focus on the giant and not on its other buddies. And
-if they don’t, the giant has just removed a whole PC from consideration for the
-next round.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Athas is prime giant country and plenty of core giants would be happy as clams
-living here, but I guess it makes sense to have some setting-specific ones to
-signal that we’re not in Kansas any more.&lt;/p&gt;
-
-&lt;p&gt;Beast giants and titans feel a bit redundant, but their appearance is certainly
-striking. Shadow Giants have intriguing mechanics, but you probably don’t want
-to have more than one of these in play at any given encounter. They can also be
-used in other settings without a lot of modification, as “undead giant with a
-grudge” is a pretty universal concept.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/06/18/wir-dscc-giant.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/18/wir-dscc-giant.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
