@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-kank.png" | absolute_url }}"/>
+  <figcaption>
+    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Kanks are giant, beetle-like hive insects. A wild hive will viciously attack
@@ -66,3 +78,5 @@ I keep hearing about kanks in other Dark Sun Let's Reads, so it's nice to
 finally put a (bug) face to the name, so to speak. They feel more interesting to
 me than crodlus, both because they're beetles and because they have a use other
 than "war mount" to their humanoid caretakers.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
