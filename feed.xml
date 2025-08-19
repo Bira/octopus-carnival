@@ -6,9 +6,95 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 17 Aug 2025 12:52:08 +0000</pubDate>
-    <lastBuildDate>Sun, 17 Aug 2025 12:52:08 +0000</lastBuildDate>
+    <pubDate>Tue, 19 Aug 2025 21:25:04 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2025 21:25:04 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kank</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kank.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Kanks are giant, beetle-like hive insects. A wild hive will viciously attack
+strangers and intruders, but they’re actually relatively easy to domesticate:
+just start feeding them. After a while, the kanks will start seeing those who
+bring them food as members of the hive.&lt;/p&gt;
+
+&lt;p&gt;Each hive has a queen that does little more than continuously lay eggs. The
+larvae that hatch from these eggs can specialize in one of two ways:&lt;/p&gt;
+
+&lt;p&gt;Kank spitters are the hive’s workers. Their duty is to forage for any sort of
+organic matter and process it into a nutritive nectar that is used to feed the
+hive (and extracted to feed people). They can store the noxious byproducts of
+this processing and spit them at intruders as a form of defense, hence their
+name.&lt;/p&gt;
+
+&lt;p&gt;Kank soldiers are very straightforward: they’re big, they’re strong, they have
+huge mandibles. Their duty is to protect spitters from threats. When properly
+trained, they’re also extremely popular war mounts.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Kank queens are too immobile to get combat stats, but we do get stats for the
+other two types. Both are Natural Beasts with a ground speed of 8 and Resist 5
+Acid and Poison.&lt;/p&gt;
+
+&lt;h3 id=&quot;kank-spitter&quot;&gt;Kank Spitter&lt;/h3&gt;
+
+&lt;p&gt;Spitters are Small but not defenseless. They’re Level 2 Artillery with 30
+HP. Their &lt;strong&gt;bites&lt;/strong&gt; do a mix of untyped and acid damage. Their &lt;strong&gt;Kank Spit&lt;/strong&gt; has
+range 10. On a hit it does a little bit of physical damage, inflicts ongoing 5
+acid damage, and slows (save ends). If the target was already slowed, it is
+immobilized instead.&lt;/p&gt;
+
+&lt;h3 id=&quot;kank-soldier&quot;&gt;Kank Soldier&lt;/h3&gt;
+
+&lt;p&gt;These Large kanks are Level 4 Soldiers with 54 HP and the Mount tag. Their
+&lt;strong&gt;bite&lt;/strong&gt; is rather weak to start with, but it grabs on a hit. Once the soldier
+has a grabbed victim, it can only bite that victim, but its bite attack gains +2
+to attack and +10 to damage.&lt;/p&gt;
+
+&lt;p&gt;The soldier can instead choose to inject the victim with &lt;strong&gt;Kank Venom&lt;/strong&gt;
+(recharge 5+), an attack that targets Fortitude, slows, and deals ongoing 10
+poison damage (save ends both). After the first saved throw, this worsens to
+immobilized.&lt;/p&gt;
+
+&lt;p&gt;If serving as a mount, their benefit is &lt;strong&gt;Grabbed Advantage&lt;/strong&gt;: this gives their
+rider combat advantage against the kank’s grabbed victim.&lt;/p&gt;
+
+&lt;p&gt;Kank soldiers don’t have marking mechanics, but they don’t need them. They’ll
+focus on a victim and try to keep it grabbed by their mandibles, using the venom
+as a parting shot if they have reason to release the grab.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I keep hearing about kanks in other Dark Sun Let’s Reads, so it’s nice to
+finally put a (bug) face to the name, so to speak. They feel more interesting to
+me than crodlus, both because they’re beetles and because they have a use other
+than “war mount” to their humanoid caretakers.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/19/wir-dscc-kank.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/19/wir-dscc-kank.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Jhakar</title>
@@ -1364,131 +1450,6 @@ to add to the group.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Gith</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-gith.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A gith warrior with a spear.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;One of the things we learned about the cosmology of Athas early in the Campaign
-Setting reading is that its Shadowfell is locally known as the Gray, and it’s
-suspected to block access to the Astral Sea and any other worlds beyond.&lt;/p&gt;
-
-&lt;p&gt;This becomes relevant here, because the people known as the Gith are said to
-have arrived on Athas long ago, sailing from beyond the Gray in silvery
-ships. Once here, however, they found out they couldn’t go back. To make matters
-worse, these alien visitors found out that they were particularly susceptible to
-the corruptive influences of Athasian arcane magic, which turned them Darker and
-Sunnier over the generations.&lt;/p&gt;
-
-&lt;p&gt;Present-day gith are more monstrous in appearance than the ones you’re used
-to. Their mindset is also more monstrous, which is saying something considering
-these were probably githyanki invaders to start with. Despite the mutations
-they’ve undergone, they retain their psychic abilities.&lt;/p&gt;
-
-&lt;p&gt;Gith organize in nomadic hunter communities, wandering through the moutains and
-the Tablelands region. They make no particular distinction between standard
-animals and sapient outsiders when it comes to chosing their prey, and think
-both make fine eating. Some Gith groups are dedicated to gathering the scattered
-parts of their original ships, hoping to reassemble them so they can get off
-this rock.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Gith are Medium Natural Humanoids with Speed 6. Their signature power is the
-same as that of standard githyanki: &lt;strong&gt;Telekinetic Leap&lt;/strong&gt;, an encounter power
-that lets them fly 5 squares as a move action. Other attacks and abilities vary
-with training.&lt;/p&gt;
-
-&lt;h3 id=&quot;gith-savage&quot;&gt;Gith Savage&lt;/h3&gt;
-
-&lt;p&gt;The rank-and-file of any large gith raiding force, the book describes their
-lives as nasty, brutish, and short. These Level 4 Minion Skirmishers fight with
-obsidian-tipped spears.&lt;/p&gt;
-
-&lt;p&gt;The gith’s basic &lt;strong&gt;Spear&lt;/strong&gt; attack damages and lets it shift 1 square. Once per
-encounter they can enhance one attack into a &lt;strong&gt;Telekinetic Pierce&lt;/strong&gt;, which
-targets Fortitude, deals the same damage and pushes the target 1 square. I think
-this above might be the first psychic power I’ve seen that &lt;em&gt;doesn’t&lt;/em&gt; target
-Will. There are a few others in this entry.&lt;/p&gt;
-
-&lt;h3 id=&quot;gith-hobbler&quot;&gt;Gith Hobbler&lt;/h3&gt;
-
-&lt;p&gt;These hunters are level 4 Artillery with 46 HP. They prefer to stay far away
-throwing Range 20 &lt;strong&gt;Javelins&lt;/strong&gt;. Once per encounter they can throw a particularly
-well-aimed &lt;strong&gt;Pinning Javelin&lt;/strong&gt;, that does a bit more damage and immobilizes
-(save ends).&lt;/p&gt;
-
-&lt;p&gt;If someone gets too close, they’re subject to the hobbler’s aura (1) of &lt;strong&gt;Brain
-Fog&lt;/strong&gt;, which inflicts a -2 penalty to attacks and damage to enemies inside. I
-wonder if there’s one of these near me these days. Someone who insists on
-attacking them in melee might force the hobbler to use its &lt;strong&gt;bone dagger&lt;/strong&gt;,
-which does light damage and lets them shift 1 square on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;gith-spearhead&quot;&gt;Gith Spearhead&lt;/h3&gt;
-
-&lt;p&gt;A front-line fighter wielding a barbed obsidian-headed spear. It’s a Level 5
-Brute with 76 HP. The &lt;strong&gt;Vicious Spear&lt;/strong&gt; is pretty strong, as expected of a
-brute, and can be used in a &lt;strong&gt;Focused Stab&lt;/strong&gt; (recharge 4+) that deals more
-damage and knocks prone. If the target is bloodied, the attack deals &lt;em&gt;even more&lt;/em&gt;
-damage and dazes (save ends).&lt;/p&gt;
-
-&lt;p&gt;If the spearhead is reduced to 0 HP, it lets out an &lt;strong&gt;Ancestor’s Appeal&lt;/strong&gt;, a
-Close Burst 1 that targets Fortitude and deals psychic damage. In addition to
-the damage, a hit also inflicts ongoing 5 psychic damage, and a further 5
-psychic damage whenever the target uses a daily or encounter power (save ends
-both).&lt;/p&gt;
-
-&lt;h3 id=&quot;git-drone&quot;&gt;Git Drone&lt;/h3&gt;
-
-&lt;p&gt;Drones are gith that show increased psychic aptitude as children, and are
-subject to a torturous training regimen to further develop their powers. They’re
-Level 5 Controllers with 62 HP.&lt;/p&gt;
-
-&lt;p&gt;Drones emit a &lt;strong&gt;Brain Fog&lt;/strong&gt; aura that works like the hobbler’s, but is much
-wider in radius (3). They fight with &lt;strong&gt;Bone Daggers&lt;/strong&gt; in melee and with
-&lt;strong&gt;Telekinetic Thrusts&lt;/strong&gt; at up to range 5. These deal force damage, and slide 2
-squares.&lt;/p&gt;
-
-&lt;p&gt;Every so often they can use a &lt;strong&gt;Psychic Nova&lt;/strong&gt; (recharge 5+). This is an Area
-Burst 1 Within 5 that targets Reflex, deals untyped damage, and makes the target
-suffer 5 psychic damage whenever they use a daily or encounter power (save
-ends). If the target is bloodied, it instead deals ongoing 5 damage (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The one time I briefly played a Dark Sun game, one of the PCs was a “standard”
-gith fighter, so I had thought the gith of Athas were both unchanged from their
-astral relatives and playable. Turns out I was wrong! Mechanically they’re still
-similar to githyanki, but their look and feel is pretty different than what I
-expected, and there are no rules for gith PCs in the Campaign Setting.&lt;/p&gt;
-
-&lt;p&gt;Gith are commonly found in all-gith hunting parties, perhaps accompanied by
-domesticated baazrags or other trained beasties. They can also be found in mixed
-parties of People, whether as willing members or as slaves commanded to fight.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/07/07/wir-dscc-gith.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/07/wir-dscc-gith.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
