@@ -69,6 +69,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 
 - K
   - [Kank][32]
+  - [Kestrekel][33]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -102,3 +103,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [30]: {{ "/2025/08/15/wir-dscc-inix.html" | relative_url }}
 [31]: {{ "/2025/08/17/wir-dscc-jhakar.html" | relative_url }}
 [32]: {{ "/2025/08/19/wir-dscc-kank.html" | relative_url }}
+[33]: {{ "/2025/08/22/wir-dscc-kestrekel.html" | relative_url }}

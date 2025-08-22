@@ -7,6 +7,18 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-kestrekel.png" | absolute_url }}"/>
+  <figcaption>
+    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Kestrekels are not to be confused with kestrels, which might not even exist in
@@ -65,3 +77,5 @@ on eating the combatants.
 
 These things don't exactly spark joy in me, but it feels like they're an
 interesting addition to any battlefield, where they'd be a constant hazard.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
