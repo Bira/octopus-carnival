@@ -6,9 +6,94 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Aug 2025 21:25:04 +0000</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2025 21:25:04 +0000</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2025 12:47:14 +0000</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2025 12:47:14 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kestrekel</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kestrekel.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Kestrekels are not to be confused with kestrels, which might not even exist in
+Athas. They’re basically Darker and Sunnier vultures, with a habit of gathering
+around creatures that are about to die in the wastes. They’re a lot more
+enthusiastic about hurrying the process along than their mundane counterpart,
+and while a single kestrekel isn’t much of a threat a whole flock of them can be
+very dangerous.&lt;/p&gt;
+
+&lt;p&gt;Those who want to turn the tables and hunt the birds instead might be able to
+draw them closer by feigning injury, but this rarely works - they’re a bit too
+clever for that tactic.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Kestrekels are Tiny Natural Beasts with a ground speed of 2 and a flight speed
+of 6. We get two stat blocks here.&lt;/p&gt;
+
+&lt;h3 id=&quot;kestrekel-carrion-eater&quot;&gt;Kestrekel Carrion Eater&lt;/h3&gt;
+
+&lt;p&gt;This one represents a single individual. It’s drawn to movement, so even a
+traveller who isn’t wounded or dying might find one or three of these staring at
+them from a distance, and following them for a while.&lt;/p&gt;
+
+&lt;p&gt;The kestrekel is a Level 1 Minion Skirmisher. Its &lt;strong&gt;claw&lt;/strong&gt; attack is stronger
+against bloodied targets, and its &lt;strong&gt;Darting Rake&lt;/strong&gt; at-will ability lets it shift
+3 squares and make a claw attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;kestrekel-blood-flock&quot;&gt;Kestrekel Blood Flock&lt;/h3&gt;
+
+&lt;p&gt;You might get a whole flock like this one on battlefields and similar places,
+where carrion abounds and its smell carries great distances. This is a Medium
+swarm of kestrekels, counting as a Level 2 Controller with 35 HP.&lt;/p&gt;
+
+&lt;p&gt;The flock has all standard swarm traits: half damage from melee and ranged
+attacks, vulnerable 5 to close and area attacks, can occupy enemy spaces, can
+squeeze past any opening large enough for a Tiny creature.&lt;/p&gt;
+
+&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals a bit of physical damage to enemies caught
+inside, and also slows them for a turn when that happens. Its basic attack is a
+swarm of &lt;strong&gt;Scrabbling Claws&lt;/strong&gt;, which does standard physical damage with a small
+bonus against bloodied targets.&lt;/p&gt;
+
+&lt;p&gt;The flock’s sheer bloodlust is also a weapon: the &lt;strong&gt;Loathsome Feast&lt;/strong&gt; ability is
+a psychic attack that can be used if the flock is adjacent to a bloodied
+enemy. It attacks enemy Will in a close burst 3, deals psychic damage, and
+pushes each target hit a number of squares equal to their speed.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Whether you’re dealing with a few individuals or a whole flock, kestrekels are
+very opportunistic. They’ll stay away and watch until they see their victim is
+injured, sick, or dying. Then they dive in. Spilled blood also drives them into
+a frenzy, so they’re sure to join in on any fight that they see starting, intent
+on eating the combatants.&lt;/p&gt;
+
+&lt;p&gt;These things don’t exactly spark joy in me, but it feels like they’re an
+interesting addition to any battlefield, where they’d be a constant hazard.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/22/wir-dscc-kestrekel.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/22/wir-dscc-kestrekel.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kank</title>
@@ -1318,138 +1403,6 @@ gladiator was the standout here, lots of interesting martial tricks on that one.
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Golem</title>
-        <description>&lt;p&gt;That’s the title of the entry, but I’ll try to not to use it outside of the
-monster names since it’s a bit appropriative.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As as far as D&amp;amp;D goes, these are our “top-tier” constructs, usually placed in
-guardian roles but sometimes found following their creator around and responding
-to direct commands from them. They’re made by binding an elemental into a
-physical shell made out of some material, as we saw in the Monster Manual/Vault
-reading.&lt;/p&gt;
-
-&lt;p&gt;Bone, clay, flesh and stone constructs are as common here as they are in other
-settings, but not even the wealthiest and most wasteful of Sorcerer Kings would
-make a construct out of iron, let alone other metals. Instead, Athasian wizards
-have developed other models made of more commonly available materials. This
-doesn’t mean the constructs themselves are common, as most of the rituals to
-make them are jealously guarded secrets, and even those who still know them
-don’t necessarily know the theory behind the recipe.&lt;/p&gt;
-
-&lt;p&gt;Mind you, metal constructs might still be found in the depths of some Green Age
-or Red Age ruins, and they remain exceedingly dangerous.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;All of our specimens here are Large Natural Animates with the Construct
-tag. They’re immune to disease, poison, and sleep. Everything else varies per
-stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;salt-golem&quot;&gt;Salt Golem&lt;/h3&gt;
-
-&lt;p&gt;This is a construct made out of rock salt, which has some different properties
-from common stone. The most relevant here is that it’s surrounded by a haze of
-salt particles shed from its main body, which it can control. Salt is highly
-toxic at these concentrations and the creature can send it right into your
-bloodstream if you have any open wounds.&lt;/p&gt;
-
-&lt;p&gt;Salt constructs are Level 11 Elite Brutes with 278 HP, a ground speed of 5
-(cannot shift), and Darkvision. They’re surrounded by a haze of &lt;strong&gt;Toxic Salt&lt;/strong&gt;
-that acts as an aura (2), which inflicts -2 to the defenses of any enemy
-inside. If the enemy is bloodied, it also takes 5 poison damage when it starts
-its turn in the aura.&lt;/p&gt;
-
-&lt;p&gt;The creature attacks with the now-traditional &lt;strong&gt;Slam&lt;/strong&gt;, which deals heavy damage
-and on a hit inflicts 5 ongoing poison damage and -2 to attacks (save ends
-both). &lt;strong&gt;Double Attack&lt;/strong&gt; lets it slam twice in one action. Its special attack
-controls that salt cloud to cause &lt;strong&gt;Horrid Dehydration&lt;/strong&gt; (close burst 3, enemies
-only, recharge 4+), which damages then weakens and slows for a turn. If the
-target is bloodied it the conditions become (save ends both) instead.&lt;/p&gt;
-
-&lt;h3 id=&quot;dune-golem&quot;&gt;Dune Golem&lt;/h3&gt;
-
-&lt;p&gt;This is a construct made out of loose sand bound together by air magic. It can
-hold a humanoid shape, but it’s diffuse instead of solid, making it particularly
-resistant to conventional attacks.&lt;/p&gt;
-
-&lt;p&gt;A dune construct is a Level 13 Elite Soldier with 184 HP. It has a ground speed
-of 5, and a burrow speed of 5 on loose earth. In addition to the standard
-immunities to disease, sleep, and poison, it also takes half damage from melee
-and ranged attacks. Unlike its solid cousins from this entry, it can shift.&lt;/p&gt;
-
-&lt;p&gt;The creature is surrounded by an aura (2) of &lt;strong&gt;Gusting Sands&lt;/strong&gt;, which counts as
-difficult terrain for enemies inside. Whenever such an enemy tries to stand up
-from prone inside the aura, they must roll a save. If they fail, they stay prone
-and waste the action they spent trying to get up. We also see the &lt;strong&gt;Unhindered&lt;/strong&gt;
-trait here, which lets the construct pull grabbed victims along when it moves.&lt;/p&gt;
-
-&lt;p&gt;The construct’s &lt;strong&gt;Slams&lt;/strong&gt; deal the usual damage, and grab on a hit. It can have
-up to two grabbed victims, and can sustain the grabs for free. It has &lt;strong&gt;Double
-Attack&lt;/strong&gt;, so it could grab two victims in the same action if it hits with both
-slams.&lt;/p&gt;
-
-&lt;p&gt;Grabbed victims are susceptible to &lt;strong&gt;Engulf&lt;/strong&gt;, a minor action attack that deals
-light damage but starts inflicting ongoing 15 damage until the grab ends!  And
-then you have &lt;strong&gt;Shifting Sands&lt;/strong&gt; a move action power that lets the construct
-either shift its speed, or to shift half its speed and gain phasing during this
-movement. While shifting, it ignores difficult terrain and can move through
-enemy spaces, so this is a good escape hatch in addition to being a way to play
-keep-away with the suffocating grabbed victims and their allies. One special
-condition with the phasing here is that it only works if the surface in question
-has a hole wide enough to let a grain of sand through, which shouldn’t be a
-problem in most cases.&lt;/p&gt;
-
-&lt;h3 id=&quot;obsidian-golem&quot;&gt;Obsidian Golem&lt;/h3&gt;
-
-&lt;p&gt;Another construct made from a type of stone with specific properties. In this
-case, obsidian is more or less natural volcanic glass. Like the stone they’re
-made from, these constructs are very very sharp. They’re also deceptively fast.&lt;/p&gt;
-
-&lt;p&gt;They are Level 19 Elite Soldiers with 358 HP. Their speed is merely 4 and they
-cannot shift, but they’re &lt;strong&gt;Razor Sharp&lt;/strong&gt;. This property is modeled as an aura
-(1). Any enemy inside the aura that moves to another square inside the aura
-takes 10 damage.&lt;/p&gt;
-
-&lt;p&gt;Instead of Double Attack, obsidian constructs have &lt;strong&gt;Inexorable Action&lt;/strong&gt;, which
-lets them roll initiative twice and take two whole turns per round at those
-counts.&lt;/p&gt;
-
-&lt;p&gt;The construct’s &lt;strong&gt;Slams&lt;/strong&gt; deal the usual brute-tier damage, push 1 square, knock
-prone, and inflict ongoing 5 damage (save ends) from the bits of obsidian that
-break off and get stuck in the wound. It can also use a &lt;strong&gt;Stunning Handclap&lt;/strong&gt;
-(recharge 6+) which attacks all enemies in a Close Burst 5. On a hit it deals
-thunder damage and stuns for a turn!&lt;/p&gt;
-
-&lt;p&gt;A rechargeable multi-target stun is a terrifying prospect. A lucky recharge roll
-might let the creature use this twice in a round, which is a very bad thing for
-the PCs.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;You’re gonna run into some of these things eventually in any D&amp;amp;D campaign that
-goes on for long enough, and these ones are reasonably interesting.&lt;/p&gt;
-
-&lt;p&gt;If guarding a site, they’ll either be accompanied by more constructs or by other
-long-lasting guardians such as undead, devils, or demons. If found as
-bodyguards, they’ll be accompanied by their masters and any other goons you care
-to add to the group.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/07/15/wir-dscc-golem.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/15/wir-dscc-golem.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
