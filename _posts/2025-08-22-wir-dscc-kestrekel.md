@@ -11,7 +11,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-kestrekel.png" | absolute_url }}"/>
   <figcaption>
-    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    A flock of kestrekels, who look like vultures with oversized serrated beaks.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>

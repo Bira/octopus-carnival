@@ -7,6 +7,18 @@ tags:
     - dnd4e
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-kirre.png" | absolute_url }}"/>
+  <figcaption>
+    A kirre, looking like a horned green tiger with six legs.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Kirres manage to feel like exotic alien creatures both to us in the real world
@@ -67,3 +79,5 @@ and giths that live in greener areas are also known to ally with kirres.
 They're regular monsters, but their spread of abilities means they fight like
 elites! An encounter featuring a pair of kirres and a handful of humanoid allies
 will give PCs quite a fight.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
