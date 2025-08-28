@@ -11,7 +11,7 @@ tags:
 <figure class="center">
   <img src="{{ "/assets/wir-dscc-kirre.png" | absolute_url }}"/>
   <figcaption>
-    A kirre, looking like a horned green tiger with six legs.
+    A kirre, looking like a horned green tiger with eight legs.
     Copyright 2010 Wizards of the Coast.
   </figcaption>
 </figure>
