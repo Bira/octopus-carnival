@@ -6,16 +6,103 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 Aug 2025 12:47:14 +0000</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2025 12:47:14 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Aug 2025 11:19:15 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Aug 2025 11:19:15 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kirre</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kirre.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A kirre, looking like a horned green tiger with six legs.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Kirres manage to feel like exotic alien creatures both to us in the real world
+and to characters in Athas. To us, it’s because they have eight legs and a pair
+of horns. To Athasians, it’s because they’re fur-covered mammals.&lt;/p&gt;
+
+&lt;p&gt;These felines live in Athas’ rare forests and jungles, such as the Crescent
+Forest and the same Forest Ridge where halflings live. They gather in small
+prides, and are clever and cautious hunters.&lt;/p&gt;
+
+&lt;p&gt;Instead of simply charging in, a kirre who isn’t desperately hungry will stalk
+its prey for hours to evaluate its capabilities and behavior, and will adapt its
+tactics to ensure their success. With some, they might be extra-sneaky and
+attack when the prey’s guard is down. With others, they might harass and make
+noises to scare the prey into making a foolish mistake.&lt;/p&gt;
+
+&lt;p&gt;The book entry mentions that kirres are only one of several species descended
+from ancient great cats. Other names mentioned are tigones and “the reptilian
+lirr”, though these two aren’t present in the book.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We only have one stat block here.&lt;/p&gt;
+
+&lt;h3 id=&quot;kirre&quot;&gt;Kirre&lt;/h3&gt;
+
+&lt;p&gt;The kirre is a Large Natural Magical Beast, and a Level 13 Skirmisher with 131
+HP. It has a Speed of 8.&lt;/p&gt;
+
+&lt;p&gt;It has two basic attacks: a &lt;strong&gt;bite&lt;/strong&gt; and a slightly weaker &lt;strong&gt;claw&lt;/strong&gt; that slows
+for a turn on a hit. The &lt;strong&gt;Double Attack&lt;/strong&gt; at-will ability lets it make two claw
+attacks in one action.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Springing Pounce&lt;/strong&gt; lets the kirre bite, shift 4 squares, and bite again. This
+becomes a nice fight opener when combined with the &lt;strong&gt;Scattering Leap&lt;/strong&gt;
+move-action encounter power, which lets the beast jump 6 squares, push adjacent
+enemies at the destination 2 squares, and then shift 2 squares to follow one of
+those enemies. The Pounce recharges when the creature is bloodied, which also
+makes it useful for escaping a dicey situation.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter it can also use a &lt;strong&gt;Forceful Roar&lt;/strong&gt; that attacks the
+Fortitude of enemies in a Close Blast 3. On a hit it deals force damage, pushes
+2 squares, and knocks prone.&lt;/p&gt;
+
+&lt;p&gt;When an enemy moves to a square where it flanks the kirre, it can use its
+&lt;strong&gt;Barbed Tail&lt;/strong&gt; to fend then off, making a Reach 2 melee attack that knocks
+prone and inflicts 10 ongoing damage (save ends) on a hit.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Kirres are smart enough to ally with creatures of other species, though they
+demand that their allies be at least as smart as themselves. Those who aren’t
+will be treated as prey instead. This is a low bar for other sapient creatures
+to clear, which means they will sometimes even accept humanoids as pack
+mates. They can be most often found in the company of halflings, though goliaths
+and giths that live in greener areas are also known to ally with kirres.&lt;/p&gt;
+
+&lt;p&gt;They’re regular monsters, but their spread of abilities means they fight like
+elites! An encounter featuring a pair of kirres and a handful of humanoid allies
+will give PCs quite a fight.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/08/28/wir-dscc-kirre.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/28/wir-dscc-kirre.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        <category>dnd4e</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kestrekel</title>
         <description>&lt;figure class=&quot;center&quot;&gt;
   &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kestrekel.png&quot;/&gt;
   &lt;figcaption&gt;
-    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
+    A flock of kestrekels, who look like vultures with oversized serrated beaks.
     Copyright 2010 Wizards of the Coast.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -1279,130 +1366,6 @@ equivalent to keep the flavor.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Goliath</title>
-        <description>&lt;p&gt;Dark Sun always had “half-giants” ever since its 2e days. They were very large,
-very strong, and had this funky random alignment rule. Here in Fourth Edition,
-they’ve been syncretized with goliaths.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Athasian goliaths are also known as half-giants. They’re not a natural species,
-but a product of sorcerer-king experimentation blending human and giant
-DNA. Nowadays, most goliaths live in the city-states, but there are communities
-of them out in the mountains of the Tyr Region.&lt;/p&gt;
-
-&lt;p&gt;I think it’s official: The Dark Sun Creature Catalog has nothing nice to say
-about &lt;em&gt;anyone&lt;/em&gt;. Here, it says city-dwelling goliaths are brutal enforcers for
-the templars and the Sorcerer-Kings, and that mountain-dwelling ones are
-“barbaric raiders” who have little use for companions who are not “pets or
-slaves”. Some of them dwell among the giants of the Sea of Silt, where they are
-treated as menial servants but also permitted to take part in raiding.&lt;/p&gt;
-
-&lt;p&gt;2e lore about half-giants said they were so lolrandom that you actually rolled
-on a table every day to see what half your alignment would be. This is gone from
-their 4e incarnation.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-number&quot;&gt;The Number&lt;/h2&gt;
-
-&lt;p&gt;As usual, goliaths are Natural Humanoids and occupy the very high end of Medium
-size. Their speed is 6, and their signature power is &lt;strong&gt;Stone’s Endurance&lt;/strong&gt;, a
-minor action encounter power that gives them some amount of damage resistance
-for a turn. Here, the specifics vary per stat block.&lt;/p&gt;
-
-&lt;h3 id=&quot;goliath-enforcer&quot;&gt;Goliath Enforcer&lt;/h3&gt;
-
-&lt;p&gt;Representing your typical goliath thug, raider, or mercenary, this is a Level 8
-Brute with 105 HP. It’s armed with a &lt;strong&gt;Greatclub&lt;/strong&gt;, and if surrounded by PCs it
-can &lt;strong&gt;Push Through&lt;/strong&gt; as a minor action. This is an attack vs. Fortitude that
-deals no damage, pushes 1 square, knocks prone, and lets the goliath shift into
-the vacated square. It recharges once it’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Stone’s Endurance here gives Resist All 5 for a turn.&lt;/p&gt;
-
-&lt;p&gt;When the enforcer is reduced to 0 HP, &lt;strong&gt;Vengeful Clout&lt;/strong&gt; lets it make one last
-attack with &lt;strong&gt;Vengeful Clout&lt;/strong&gt;, targetting Fortitude, dealing greatclub damage,
-and knocking prone on a hit. Despite the name, the enforcer doesn’t have to
-target the person who defeated it.&lt;/p&gt;
-
-&lt;h3 id=&quot;goliath-enforcer-legbreaker&quot;&gt;Goliath Enforcer Legbreaker&lt;/h3&gt;
-
-&lt;p&gt;This is the same Goliath Enforcer from before as seen by PCs in the mid-Paragon
-tier, who have far surpassed it in skill. It’s a Level 16 Minion Brute. It has
-the same Greatclub and Vengeful Clout attacks as the regular level 8 version,
-but dealing appropriate damage for its level and minion-ness. Its Stone’s
-Endurance makes it take no damage from the next attack that hits it before the
-end of its next turn, which sounds powerful but is the only version of the
-ability that would make any difference on a minion.&lt;/p&gt;
-
-&lt;p&gt;It’s interesting to note that both the Enforcer and the Legbreaker are worth 350
-XP, so XP total ends up being an interesting guideline for when to upgrade or
-downgrade a monster’s quality as it goes down or up in level.&lt;/p&gt;
-
-&lt;h3 id=&quot;goliath-gladiator&quot;&gt;Goliath Gladiator&lt;/h3&gt;
-
-&lt;p&gt;A better-trained goliath fighter usually met in the arena, with a big bone
-greataxe and an arsenal of fancy tricks. It’s a Level 11 Soldier with 114 HP and
-the Leader tag.&lt;/p&gt;
-
-&lt;p&gt;The attacks of the &lt;strong&gt;Bone Greataxe&lt;/strong&gt; deal standard damage and immediately end
-the target’s marks on the gladiator. It can also use the weapon in a &lt;strong&gt;Leg
-Strike&lt;/strong&gt; that targets Fortitude, deals the same amount of damage, slows and
-prevents the target from shifting for a turn. And finally, it can be used in a
-&lt;strong&gt;Skull Cleaver&lt;/strong&gt; maneuver that also targets Fortitude, deals heavy damage,
-daze, and impose a -2 penalty to saves (save ends both). This recharges when the
-goliath misses with the power, so it will keep trying until it hits.&lt;/p&gt;
-
-&lt;p&gt;It looks to me like the gladiator really wants to get past the party’s defenders
-with the help of its basic attacks, and then use the special maneuvers on the
-party’s squishies that are likely to have a worse Fortitide defense.&lt;/p&gt;
-
-&lt;p&gt;The goliath’s leaderly abilities are all Minor Actions: &lt;strong&gt;Get Up!&lt;/strong&gt; (recharge
-5+) lets an adjacent ally either stand up as a free action, or make a save
-against a dazing, immobilizing or restraining effect. &lt;strong&gt;Offensive Form&lt;/strong&gt; lets it
-mark every adjacent enemy for a turn. Its Stone’s Endurance gives Resist 10 All
-for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;goliath-kings-guard&quot;&gt;Goliath King’s Guard&lt;/h3&gt;
-
-&lt;p&gt;When you finally go meet that crime boss or petty warlord who has an army of
-goliath legbreakers at his service, these are the dudes who will be standing
-next to him as his elite bodyguards. They’re Level 16 Soldiers with 154 HP,
-wielding halberds and wearing scale armor. Their weapons give them &lt;strong&gt;Threatening
-Reach&lt;/strong&gt; 2.&lt;/p&gt;
-
-&lt;p&gt;They might also have metal blades, because their basic attack is described as a
-&lt;strong&gt;Halberd&lt;/strong&gt; without any material qualifiers as “bone” or “obsidian”. They do
-standard damage, slide the target one square and mark it for a turn. The
-&lt;strong&gt;Mighty Clout&lt;/strong&gt; technique (recharge 5+) deals heavy damage, slides 1 square,
-and knocks prone. Their Stone’s Endurance gives them Resist 10 All for a turn.&lt;/p&gt;
-
-&lt;p&gt;A relatively simple stat block, but it’s good at its job of preventing PCs from
-getting close to the boss. As mentioned above, it goes well with a small
-army of legbreaker minions in addition to the boss.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Despite the vitriol heaped upon them by the book, ultimately Goliaths also fit
-the category of People, so you might find them in the usual Mixed People
-Encounters as well. They can be allies or enemies, free or not.&lt;/p&gt;
-
-&lt;p&gt;The stat blocks are pretty simple. Big fighters with big weapons. I thought the
-gladiator was the standout here, lots of interesting martial tricks on that one.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/07/20/wir-dscc-goliath.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/20/wir-dscc-goliath.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
