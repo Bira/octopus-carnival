@@ -6,9 +6,89 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Aug 2025 15:52:20 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Aug 2025 15:52:20 +0000</lastBuildDate>
+    <pubDate>Mon, 08 Sep 2025 23:53:26 +0000</pubDate>
+    <lastBuildDate>Mon, 08 Sep 2025 23:53:26 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Megapede</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-megapede.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A megapede, an enormous purple centipede with neon green highlights.
+    Copyright 2010 Wizards of the Coast.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The Lore of the Megapede is fairly uncomplicated. They’re the logical endpoint
+of the Giant Centipede Arms Race. The largest, strongest, Darkest and Sunniest
+giant centipedes on Athas. And they’re also psychic, because of course they are.&lt;/p&gt;
+
+&lt;p&gt;Megapedes lair underground, in burrows or natural caves where they lay their
+eggs. They hunt by tunneling through the sand, erupting from beneath their
+prey, and fighting a battle of attrition they will likely win with their
+venomous bite, hundreds of flailing legs, and corrosive psionics. Sometimes
+unlucky travelers taking shelter in a cave might find it’s already occupied by a
+megapede when it drops down from the ceiling on top of them.&lt;/p&gt;
+
+&lt;p&gt;Sometimes, they’ll share their lair with a couple of wild cilopses, who are
+their distant cousins, but they tend to just eat anything else, and no one has
+ever managed to tame them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Megapedes are Huge Natural Beasts and Level 15 Elite Brutes with 368 HP. They
+have Darkvision, a ground speed of 8, a burrow speed of 6 in loose earth, and a
+climb speed of 8. Their overall power level is on par with that of an Athasian
+drake.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;bite&lt;/strong&gt; attack has Reach 2 and does a potent blend of physical and
+poison damage. Their most common at-will attack will be &lt;strong&gt;Legs of the
+Megapede&lt;/strong&gt;, which attacks all enemies in a Close Burst 2 for similar damage
+&lt;em&gt;and&lt;/em&gt; lets the megapede bite someone for free as an effect. Its &lt;strong&gt;Lashing Body&lt;/strong&gt;
+(recharge 5+) works as a minor-action melee attack that does a little less
+damage than the Legs.&lt;/p&gt;
+
+&lt;p&gt;As mentioned above, the monster is also psychic! Once per encounter it can use
+&lt;strong&gt;Psionic Erosion&lt;/strong&gt; to attack the Fortitude of enemies in a Close Blast 5. On a
+hit, this deals immediate and ongoing psychic damage, which starts at 10 and
+decreases to 5 after the first successful save. On a miss, it deals half
+damage. Slightly more often, it can cause a &lt;strong&gt;Psionic Detonation&lt;/strong&gt; on an Area 1
+Burst Within 5, which deals “psychic and force” damage and slides targets 3
+squares. This recharges when it’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Finally, when it hits with either of its single-target physical attacks, the
+megapede can use &lt;strong&gt;Psionic Augmentation&lt;/strong&gt; to deal extra psychic damage on the
+attack. This also recharges when it’s first bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;As mentioned above, the most likely megapede encounters are against a mated pair
+or against one of them plus 2-3 leveled-up cilopses.&lt;/p&gt;
+
+&lt;p&gt;Lore-wise this is basically a Giant-er Centipede, so I’m not all that excited
+about them. If that’s your bag, tough, they’re awesome. Mechanically, you can
+use a megapede anywhere you’d use an Athasian Drake - they’re about as powerful
+and arguably a lot more common. You could also reskin their stat block as a
+drake or other suitable giant creature.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/09/08/wir-dscc-megapede.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/08/wir-dscc-megapede.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kirre</title>
@@ -1226,146 +1306,6 @@ and Ankhegs are favorites.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Halfling</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-halfling.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A halfling wielding a spear and wearing bone armor, sneaking through a
-    forest.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Athasian halflings are physically identical to their standard 4e counterparts,
-but their culture is very different. If you have ever heard of Dark Sun in any
-detail, you’ll likely also have heard that it has cannibal halflings.&lt;/p&gt;
-
-&lt;p&gt;This is true, but I feel it’s lost a bit of its impact here, halfway down the
-critter list for the book. Halflings are the fourth cannibal humanoids we met so
-far, after belgois, braxats, and gith. I’m not even counting all the magical
-beasts that eat sapients, or we’d be here all day reciting names.&lt;/p&gt;
-
-&lt;p&gt;They still have the disctinction of being our first &lt;em&gt;playable&lt;/em&gt; cannibals. Most
-Dark Sun halflings belong to the tribal cultures that inhabit the Forest Ridge,
-one of the last remaining green regions of Athas. They’re very territorial and
-distrustful of other species, violently defending their homes from any
-invasion. Their cannibalism is mostly ritualistic, though the book also says
-they eat captured intruders.&lt;/p&gt;
-
-&lt;p&gt;Individuals or small groups often leave the Forest Ridge to explore the Seven
-Cities and the deserts between them. Some stick around and find employment as
-guides, scouts and trackers. The worst among them might become slavers or
-raiders.&lt;/p&gt;
-
-&lt;p&gt;Halfling tribes will deal honorably with those that are honorable to them in
-turn, but anyone who breaks an oath to a halfling tribe will be declared their
-eternal enemy.&lt;/p&gt;
-
-&lt;p&gt;The other distinction halflings have is that they’re some of the oldest sapient
-peoples of Athas.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Athasian halflings have the exact same stats as standard ones. They’re Small
-Natural Humanoids with a ground speed of 6 and the &lt;strong&gt;Nimble Reaction&lt;/strong&gt; trait
-that gives them +2 to AC against opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;All of the stat blocks here are enthusiastic users of poison, which is a good
-survival strategy in a world where everyone is larger than you.&lt;/p&gt;
-
-&lt;h3 id=&quot;halfling-forest-runner&quot;&gt;Halfling Forest Runner&lt;/h3&gt;
-
-&lt;p&gt;Your typical sneaky halfling scout-type, this is a Level 2 Skirmisher with 37
-HP. They fight with a &lt;strong&gt;poisoned spear&lt;/strong&gt; that does a mix of physical and poison
-damage, and have a special technique named &lt;strong&gt;Strike and Slip Away&lt;/strong&gt; (recharge
-4+) that lets them make a stronger spear attack that deals ongoing poison damage
-(save ends). As an effect they can then shift 5 squares and make a Stealth test
-to hide if they have any cover or concealment at the end of this shift.&lt;/p&gt;
-
-&lt;h3 id=&quot;halfling-wilder&quot;&gt;Halfling Wilder&lt;/h3&gt;
-
-&lt;p&gt;A halfling psion trained in their ancient traditions. This one is Level 3
-Artillery with 38 HP. Their main ranged attack is a &lt;strong&gt;Mind Thrust&lt;/strong&gt; (ranged 10)
-that deals psychic damage and makes the target grant combat advantage for a
-turn. They have a simple &lt;strong&gt;club&lt;/strong&gt; for melee emergencies. All of their attacks
-dels extra damage when the target grants combat advantage, making them good at
-focused fire tactics.&lt;/p&gt;
-
-&lt;h3 id=&quot;halfling-forest-keeper&quot;&gt;Halfling Forest Keeper&lt;/h3&gt;
-
-&lt;p&gt;This is a pretty traditional druid of the sort that loves summoning and
-controlling vines and plants… which makes it a very exotic and mysterious
-spellcaster by Athasian standards, where everyone else has sand and sun
-powers. Forest Keepers are respected leaders of their people, responsible for
-preserving their oral traditions and lore.&lt;/p&gt;
-
-&lt;p&gt;Our stat block here is for a Level 6 Controller with the Leader tag and 72
-HP. Its melee basic attack is a &lt;strong&gt;Distracting Staff&lt;/strong&gt; that does standard damage
-on a hit and lets an ally of the keeper within 5 squares shift 1 square. At
-range if fires &lt;strong&gt;Thorn Darts&lt;/strong&gt; that deal poison damage and make the target
-vulnerable 5 to poison for a turn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Spirit Creepers&lt;/strong&gt; (recharge 5+) is our “vines” spell, an Area Burst 2 within
-10 that affects only enemies, targets Reflex, deals physical damage, and
-restrains on a hit (save ends). Allies caught in the burst recover 5 HP instead.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Constricting Creepers&lt;/strong&gt; (encounter) is a stronger version that deals physical
-damage in a Close Burst 3 around the keeper, and knocks prone on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;halfling-headhunter&quot;&gt;Halfling Headhunter&lt;/h3&gt;
-
-&lt;p&gt;An elite champion whose mission is to stalk and eliminate the tribe’s worst
-enemies… and to bring their heads as proof. It’s a Level 11 Skirmisher with
-114 HP.&lt;/p&gt;
-
-&lt;p&gt;The headhunter’s attacks all do extra damage when it has &lt;strong&gt;combat
-advantage&lt;/strong&gt;. Its main weapon is a &lt;strong&gt;kukri&lt;/strong&gt; that does a blend of physical and
-poison damage, and it can also throw equally poisoned &lt;strong&gt;Javelins&lt;/strong&gt; that also
-slow on a hit. &lt;strong&gt;Harrying Attack&lt;/strong&gt; (recharge 5+) lets the headhunter make a
-dagger attack, shift 3 squares, and then make another dagger attack all as part
-of the same action.&lt;/p&gt;
-
-&lt;p&gt;They use these tools to stay at the edges of a fight and harry the
-squishies. Add some leveled-up wilders to make them even stronger by making the
-PCs vulnerable to poison.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;In their Forest Ridge homes, halflings are very unlikely to be accompanied by
-humanoids of other species, but they do domesticate a lot of the local wildlife
-for use in battle. In another twist that seems extremely exotic to Athasians and
-very familiar to us, most of this wildlife consists of mammals and birds,
-instead of reptiles and insects. Panthers, kirres (which we’ll see soon),
-griffons, and so on.&lt;/p&gt;
-
-&lt;p&gt;When met in the general Seven Cities area, they join the pool of species you can
-draw from to assemble Mixed Parties of People.&lt;/p&gt;
-
-&lt;p&gt;Halflings are very skirmisher-y here, and it looks like all stat blocks are
-simple enough that you can adjust their level directly without having to make
-big changes to their abilities. Monster Manual halfling stats work well in
-conjunction with these, though I’d replace any slings with poison darts or the
-equivalent to keep the flavor.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/07/22/wir-dscc-halfling.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/07/22/wir-dscc-halfling.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
