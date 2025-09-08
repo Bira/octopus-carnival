@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-megapede.png" | absolute_url }}"/>
+  <figcaption>
+    A megapede, an enormous purple centipede with neon green highlights.
+    Copyright 2010 Wizards of the Coast.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 The Lore of the Megapede is fairly uncomplicated. They're the logical endpoint
@@ -60,3 +72,6 @@ about them. If that's your bag, tough, they're awesome. Mechanically, you can
 use a megapede anywhere you'd use an Athasian Drake - they're about as powerful
 and arguably a lot more common. You could also reskin their stat block as a
 drake or other suitable giant creature.
+
+
+[1]: {{ "/projects/dscc/" | relative_url }}
