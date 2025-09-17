@@ -83,7 +83,7 @@ mode (RoF 3).
 
 If using standard GURPS skills, you need Guns (Pistol) to fire in semi-auto
 mode, and Guns (SMG) to fire bursts. If using the optional skills from Pyramid
-#3/65, you need Guns (Pistol), with the Burst-Fire technique for full-auto mode.
+#3/65, you need Guns (Pistol), with the Burst-Fire technique for firing bursts.
 
 | TL | Weapon      | Damage  | Acc | Range    | Weight      | RoF | Shots   | ST | Bulk | Rcl |
 |:--:|:-----------:|:-------:|:---:|:--------:|:-----------:|:---:|:-------:|:--:|:----:|:----|
@@ -206,7 +206,7 @@ rifle, though it is a lot better at dealing with heavily-armored
 enemies. Industrial outlets recharge it at 3 shots per second.
 
 Despite being a laser weapon based on the Marksman Rifle, Nazi soldiers don't
-usually use Aim maneuvers with it, so they are not more accurate than usual when
+usually use Aim maneuvers with it, so they are no more accurate than usual when
 wielding it.
 
 It doesn't exist in The New Colossus, not even on Venus. Maybe it was a pet
@@ -240,7 +240,7 @@ does 2d(2) burn and can run continuously for half an hour on a full battery, if
 it matters.
 
 Over the course of the game, the player can find several upgrades for the LKW,
-including a scope, an higher-capacity battery, and new internal parts that allow
+including a scope, a double-capacity battery, and new internal parts that allow
 it to fire more often or to fire a more powerful "charged" shot that's better at
 dealing with large and heavily armored opponents.
 
@@ -276,7 +276,6 @@ and only a little less so in The New Colossus. Launcher weapons are much rarer.
 In The New Order, enemies use the same **Hand Grenade** from the previous post
 in the 1946 prologue. By 1960 they've switched to using Tesla grenades
 exclusively.
-
 #### Tesla Grenade
 
 This looks like a modernized version of the Stick Hand Grenade used back
@@ -302,6 +301,9 @@ that's the assault rifle, which has the rails to receive it, but players might
 decide to get creative with their jury-rigging. It adds its weight to the
 overall weight of the other weapon and worsens its Bulk by -1.
 
+In the standard skill system, this uses the Guns (LAW) skill. In the alternate
+one, it's Guns (Long Arm) aided by the Payload Warhead technique.
+
 #### Hand Grenade Table
 
 | TL  | Weapon             | Damage       | Weight | Fuse | Bulk |
@@ -324,10 +326,11 @@ overall weight of the other weapon and worsens its Bulk by -1.
 The old Venom machine gun from the war has been replaced with this energy weapon
 in the Sixties. Like its predecessor, the Laser MG is found in fixed mounts, in
 the hands of cybernetic supersoldiers, and mounted on the many models of giant
-robot stomping around. It can fire a full-auto laser barrage for quite a bit
-before running dry. Enemies don't like to aim with it either, improving the
-players' chances of survival when facing it. It's heavy and bulky enough to be
-only a "sometimes" gun for the player, used when found and quickly discarded
+robot stomping around. It can fire for quite a bit before running dry. This can
+look like either a sequence of rapid pulses or a continuous beam, but either
+version uses the same stats. Enemies don't like to aim with it either, improving
+the players' chances of survival when facing it. It's heavy and bulky enough to
+be only a "sometimes" gun for the player, used when found and quickly discarded
 when empty.
 
 Industrial outlets reload it at a rate of 20 shots per second. When attached to
@@ -343,7 +346,7 @@ maneuvers. The weapon uses the Gunner (Beams) skill even when detached.
 
 *: See description for recharge time.
 
-[1]:
+[1]: {{ "/2025/08/04/guns-of-wolfenstein-02.html" | relative_url }}
 
 [^1]: Seth belongs to the Da'at Yichud, an ancient society of engineers that had
     been building superscience devices as a form of worship since before the
