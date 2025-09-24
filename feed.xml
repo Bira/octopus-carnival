@@ -6,9 +6,111 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Sep 2025 20:29:16 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Sep 2025 20:29:16 +0000</lastBuildDate>
+    <pubDate>Wed, 24 Sep 2025 14:05:37 +0000</pubDate>
+    <lastBuildDate>Wed, 24 Sep 2025 14:05:37 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mekillot</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-mekillot.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A mekillot, which looks like a hill-sized lizard/pillbug hybrid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;These hill-sized cutie pies are a kind of drake, but they differ enough from
+their elementally aligned relatives that they deserve their own entry. In the
+wild, these giant armored beasts roam the wastes in small herds, eating plants
+and the occasional small animal and laying their eggs near oases.&lt;/p&gt;
+
+&lt;p&gt;Mekillots are not voracious predators other drakes, but they’re still aggressive
+and stubborn in the same way a real-life large herbivore like a rhino or hippo
+can be. While their size and armor makes them prime beasts of burden and war,
+they need to either be trained for these roles from birth or be kept under tight
+psychic control at all times.&lt;/p&gt;
+
+&lt;p&gt;Some sorcerer-kings and other defilers think the mekillot’s natural size and
+aggressiveness isn’t lethal enough, and perform bioengineering rituals on their
+unhatched eggs to make the resulting creature even bigger and stronger.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Mekillots are Natural Beasts with the Reptile and Mount tags. They have no
+special senses or vulnerabilities. Everything else varies per stat block, and we
+get two here.&lt;/p&gt;
+
+&lt;h3 id=&quot;mekillot&quot;&gt;Mekillot&lt;/h3&gt;
+
+&lt;p&gt;The typical member of the species is Huge, and has a ground speed of 7. It’s a
+Level 10 Soldier with 108 HP. Its basic attack is a Reach 1 &lt;strong&gt;bite&lt;/strong&gt; that deals
+extra damage to grabbed targets. It can grab them with a Reach 3 &lt;strong&gt;Tongue
+Lash&lt;/strong&gt;, which attacks Fortitude. On a hit it pulls the target 2 squares, damages
+and grabs them. The mekillot can only have one target grabbed like this, but it
+can keep biting them for increased damage as described above while the grab
+lasts.&lt;/p&gt;
+
+&lt;p&gt;Mekillots used as mounts are trained to perform a &lt;strong&gt;Checking Charge&lt;/strong&gt;. This
+lets them perform a charge that can go through enemy spaces, and each time they
+do so they automatically push the enemy 1 square and knock them prone. At the
+end of the charge, in addition to the usual attack from the mekillot, its rider
+can also make a melee basic attack as a free action. This is an excellent fight
+opener, since the push-and-knock-prone effect doesn’t require an attack. It lets
+the mekillot and its rider go straight to the PC squishies in the back line.&lt;/p&gt;
+
+&lt;h3 id=&quot;mekillot-dirk&quot;&gt;Mekillot Dirk&lt;/h3&gt;
+
+&lt;p&gt;This is probably a mekillot mutated by defiling magic to be even bigger. It’s
+Gargantuan in size, a little slower at Speed 6, and a Level 22 Elite Soldier
+with 418 HP.&lt;/p&gt;
+
+&lt;p&gt;The dirk is big enough to have &lt;strong&gt;Threatening Reach 2&lt;/strong&gt;, as well as a &lt;strong&gt;Wide
+Body&lt;/strong&gt; that lets other creatures enter and end their move in its space. This
+means they’re standing on its back – and that the slope is gentle enough to not
+require climbing checks.&lt;/p&gt;
+
+&lt;p&gt;The dirk’s &lt;strong&gt;bite&lt;/strong&gt; works just like that of the standard mekillot, though its
+numbers are of course bigger. It can also attack with Reach 2 &lt;strong&gt;Claws&lt;/strong&gt;, which
+target 1 or 2 creatures. On a hit they deal damage, pull the target 1 square,
+and knock it prone. Its Tongue Lash has been upgraded to a Reach 4 &lt;strong&gt;Tongue
+Chomp&lt;/strong&gt;, which works identically but also allows the creature to make a free
+bite attack against the target after pulling it to an adjacent square. This
+effectively makes this maneuver a double attack. The text says the tongue only
+pulls the victim 1 square, but I think that’s an error: it should be 3.&lt;/p&gt;
+
+&lt;p&gt;Checking Charge upgrades to &lt;strong&gt;Trample&lt;/strong&gt;, which doesn’t require a rider. This
+lets the mekillot shift twice its speed, enter enemy spaces during the move, and
+make free claw attacks against any enemy whose space it enters in this way. So
+it’s not &lt;em&gt;guaranteed&lt;/em&gt; to knock the whole PC party prone any more, but those it
+does knock prone will be worse off.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;You’re either going to meet a small herd of wild mekillot, 2-3 of them being
+used as war mounts by humanoid soliers or brutes, or a mekillot dirk being used
+as an armored personal carrier by epic-level artillery and controller villains.&lt;/p&gt;
+
+&lt;p&gt;Their mechanics are workable enough, but what really endears mekillots to me is
+this illustration. They look like marketable plushies even though they’re likely
+to trample you to death.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/09/24/mekillot.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/24/mekillot.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>The Guns of Wolfenstein, Part 03: The New Order</title>
@@ -1497,321 +1599,6 @@ this entry.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Guns of Wolfenstein, Part 02: The Old Blood</title>
-        <description>&lt;p&gt;In &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.html&quot;&gt;our previous article&lt;/a&gt;, we took a look at the guns that appear on Return
-to Castle Wolfenstein (2001), whose timeline I named “Wolfenstein-1” for ease of
-reference. In this one, we’ll take a look at the timeline I called
-“Wolfenstein-2”.&lt;/p&gt;
-
-&lt;p&gt;The Wolfenstein-2 setting is the chronology used by the trilogy of games made up
-of Wolfenstein: The New Order (2014), Wolfenstein: The Old Blood (2015) and
-Wolfenstein II: The New Colossus (2017). The Old Blood is a prequel to The New
-Order, so it happens first even though it’s the second game. We’ll talk about it
-in this post.&lt;/p&gt;
-
-&lt;h2 id=&quot;plot-overview-contains-spoilers&quot;&gt;Plot Overview (Contains Spoilers)&lt;/h2&gt;
-
-&lt;p&gt;The Old Blood is a retelling of the “escape from Castle Wolfenstein” story that
-made up the first two chapters of the 2001 game. Where the Wolfenstein-1 version
-was just a pulpier version of WW2, this one goes all in on the alternate history
-approach.&lt;/p&gt;
-
-&lt;p&gt;It looks like World War 2 in the Wolfenstein-2 timeline starts off more or less
-like it did in our world, but things go off the rails somewhere along the
-way. Deathshead, the same mad scientist from the 2001 game, is wildly more
-successful at coming up with absurd weapons and getting them mass-produced. As a
-result the war streches for longer than it did in our world. The game happens in
-&lt;em&gt;1946&lt;/em&gt;, with the war still raging on and the Allies on the losing side.&lt;/p&gt;
-
-&lt;p&gt;Like in the 2001 game, B.J. Blazkowicz and Agent One infiltrate Castle
-Wolfenstein. Their goal here is more well-defined - among the documents stored
-in the castle, there’s a folder that details the location of Deathshead’s secret
-fortress, where he’s been developing all these superweapons.&lt;/p&gt;
-
-&lt;p&gt;The Castle here is much larger than it was in the first game, and has been
-upgraded from its medieval roots into a giant concrete fortress full of
-superscience security measures, including prototype supersoldiers tethered to
-power lines. Its owner is still an occult-obsessed Nazi officer named Helga, who
-now works under Deathshead.&lt;/p&gt;
-
-&lt;p&gt;The broad outline of events is the same - the two get captured, Agent One dies
-under torture, Blazko escapes the castle. He heads to the nearby village of
-Wolfburg, where Helga leads an archaeological dig in search of buried occult
-secrets. Whatever she does triggers a sort of zombie apocalypse. Helga releases
-a giant zombie and dies failing to control it. B. J. escapes with the secret
-document folder after killing said zombie, completing his mission.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-guns&quot;&gt;The Guns&lt;/h2&gt;
-
-&lt;p&gt;All of the usable guns in this game are captured Nazi hardware, since you start
-the game proper unarmed save for a (surprisingly effective) sharpened metal
-pipe. This “early” in the timeline, a lot of the weapons presented here still
-have real-world equivalents.&lt;/p&gt;
-
-&lt;h3 id=&quot;pistols&quot;&gt;Pistols&lt;/h3&gt;
-
-&lt;h4 id=&quot;pistol-model-1946&quot;&gt;Pistol Model 1946&lt;/h4&gt;
-
-&lt;p&gt;This is still mostly a &lt;strong&gt;Luger P08&lt;/strong&gt; (p. HT98), with the only difference being
-that it has a 10-round magazine instead of an 8-round one.&lt;/p&gt;
-
-&lt;p&gt;It accepts a suppressor, which is available to you from the start. It weights
-0.25kg, adds -1 to Bulk and makes the gun &lt;em&gt;cinematically silent&lt;/em&gt;. This means
-enemies won’t notice the gun firing unless a bullet impacts the environment near
-them, or if they survive being shot by it.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Pistol 1946&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2d+2 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;160/1800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.2kg/0.3kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10+1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;rifles&quot;&gt;Rifles&lt;/h3&gt;
-
-&lt;h4 id=&quot;assault-rifle-model-46-t&quot;&gt;Assault Rifle Model 46-T&lt;/h4&gt;
-
-&lt;p&gt;This is still pretty much a &lt;strong&gt;StG-44&lt;/strong&gt; (p. HT115). It has a folding foregrip not
-present in the real weapon, but that doesn’t affect its stats in any way either
-in the computer game or in GURPS.&lt;/p&gt;
-
-&lt;h4 id=&quot;marksman-rifle-bombenschluss&quot;&gt;Marksman Rifle (Bombenschluss)&lt;/h4&gt;
-
-&lt;p&gt;This is likely a version of the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; (p. HT111). Unlike the real
-weapon, this one’s magazine is inserted from the side, which means the gun can
-still be fired from a prone position.&lt;/p&gt;
-
-&lt;p&gt;There are two obtainable upgrades. The first is a 10-round extended magazine
-that adds -1 to Bulk and weights 0.44kg loaded. The other is a scope on a
-tacticool folding mount. It adds 0.5kg to weight and changes Acc to 5+2. It can
-be folded in or out of position with a Ready maneuver.&lt;/p&gt;
-
-&lt;h3 id=&quot;weapon-table&quot;&gt;Weapon Table&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Assault Rifle 46-T&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5d pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;500/1300&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6.6kg/1kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;30(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Bombenschluss&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7d pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1000/4300&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.5kg/0.25kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5+1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;shotguns&quot;&gt;Shotguns&lt;/h3&gt;
-
-&lt;h4 id=&quot;double-barreled-shotgun&quot;&gt;Double Barreled Shotgun&lt;/h4&gt;
-
-&lt;p&gt;This 10-gauge classic makes two appearances: at the start of the game with a
-full length barrel, and at the end with the barrel sawn off to “whippet”
-length. The full-length gun uses the same stats as the &lt;strong&gt;Lefevre Automatic
-Hammerless&lt;/strong&gt; from High Tech. The sawn-off one uses the stats below.&lt;/p&gt;
-
-&lt;h4 id=&quot;shockhammer&quot;&gt;Shockhammer&lt;/h4&gt;
-
-&lt;p&gt;This is a semi-automatic 12-gauge shotgun with a Rube Goldberg action. The gun
-takes shells from a revolving cylinder that alternates between its twin barrels
-with every cycle, which is supposed to allow for a higher rate of fire. The
-stats below are somewhat inspired by the &lt;strong&gt;Daewoo USAS-12&lt;/strong&gt; from High Tech, but
-there are enough differences to warrant its own stat block.&lt;/p&gt;
-
-&lt;p&gt;A possible upgrade here is a 20-round cylinder that changes Shots to 20(5) and
-Weight to 8.2/2.1kg.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Double-Barreled Shotgun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2d-1 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.15/0.15kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2x13&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2(3i)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1/7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Shockhammer&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1d+1 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7.1/1.05kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3x9&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10(5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;11†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1/3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;grenades-and-launchers&quot;&gt;Grenades and Launchers&lt;/h3&gt;
-
-&lt;h4 id=&quot;hand-grenade&quot;&gt;Hand Grenade&lt;/h4&gt;
-
-&lt;p&gt;Enemy soldiers use a version of the historical &lt;strong&gt;“stick hand grenade 24”&lt;/strong&gt;
-filled with TNT, as mentioned in p. HT190: Damage 7d cr ex, weight 0.7kg, Fuse
-4-5. They’re not shy about throwing them at you if you stay for more than a few
-seconds behind cover.&lt;/p&gt;
-
-&lt;h4 id=&quot;kampfpistole-war-pistol&quot;&gt;Kampfpistole (“war pistol”)&lt;/h4&gt;
-
-&lt;p&gt;This is a version of a historical flare gun used in WW2 that could also fire
-grenades. Its extremely limited ammo is the best choice for taking out the
-tankiest enemies in the game, so I think it fires the HEAT round described in
-High Tech.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Kampfpistole&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4d(10) cr ex&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10/330&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1kg/0.1kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;+ 3d cr ex linked&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;heavy-weapons&quot;&gt;Heavy Weapons&lt;/h3&gt;
-
-&lt;p&gt;We see another familiar face here: the &lt;strong&gt;Venom Heavy Machine Gun&lt;/strong&gt;, which loses
-its edgy name but is basically the same weapon I already covered in my &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.html&quot;&gt;previous
-post on Wolfenstein guns&lt;/a&gt;. It’s found in the hands of early-model
-supersoldiers, and has 250 round belts weighting 10kg. Even a beefy guy like
-B. J. has trouble carrying it around.&lt;/p&gt;
-
-&lt;p&gt;This incarnation of the Venom is excellent to mow down human soldiers and
-zombies, but doesn’t actually do much to the supersoldiers that carry
-it. Therefore we can assume it fires regular ammo instead of armor-piercing: Dam
-6d+2 pi.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
