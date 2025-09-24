@@ -111,4 +111,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [33]: {{ "/2025/08/22/wir-dscc-kestrekel.html" | relative_url }}
 [34]: {{ "/2025/08/28/wir-dscc-kirre.html" | relative_url }}
 [35]: {{ "/2025/09/08/wir-dscc-megapede.html" | relative_url }}
-[36]: {{ "/2025/09/24/wir-dscc-mekillot.html" | relative_url }}
+[36]: {{ "/2025/09/24/mekillot.html" | relative_url }}
