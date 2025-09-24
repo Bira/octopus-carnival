@@ -7,6 +7,18 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-nightmare-beast.png" | absolute_url }}"/>
+  <figcaption>
+    A rampaging nightmare beast with a doomed human spearman for scale. The
+    spearman looks tiny.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 ## The Lore
 
 Nightmare Beasts are among the most feared horrors to walk the surface of Athas,
@@ -52,7 +64,7 @@ squares in radius.
 
 As mentioned above, "spawn" is a misleading name. This Large creature was
 formerly a more mundane Athasian predator who is currently in the process of
-mutating into a nightmare bease. It will kinda resemble the animal it once was,
+mutating into a nightmare beast. It will kinda resemble the animal it once was,
 but is already clearly unnatural. Spawn are Level 16 Elite Artillery with 244
 HP. Their ground speed is 8 and they also have Burrow and Climb speeds
 of 4. Maybe this was a megapede?
@@ -123,3 +135,5 @@ aren't living creatures.
 Spawn could be found in groups, either with each other or still hanging around
 their packs as the transformation proceeds. Eventually the day comes when they
 complete the transformation and slay their packmates.
+
+[1]: {{ "/projects/dscc/" | relative_url }}

@@ -7,6 +7,17 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-mul.png" | absolute_url }}"/>
+  <figcaption>
+    A mul rebel about to bash some slaver's skull in with a rock.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+This post is part of a series! Click [here][1] to see the rest.
+
 
 The text for this entry sounds really fucking racist. It can't decide whether to
 talk about muls as if they were non-sapient animals or whether to stick to the
@@ -19,7 +30,7 @@ much more even-handed text in the Campaign Guide.
 Muls are half-dwarves, born from the union of a human and a dwarf. They're
 taller than humans on average, and combine dwarven strength and endurance with
 human physical and mental agility. Most muls are born into slavery, as they were
-originally a sorcerer-king eugenics project to build better slaves.
+originally a sorcerer-king eugenics project.
 
 Muls resent slavery just as much as anyone else, and their strong wills and
 bodies usually often put them in a position to do something about it. They often
@@ -27,9 +38,10 @@ rebel and turn on their oppressors, and you can find communities of free muls
 making a life out in the wastes and organizing to strike back at the
 sorcerer-kings.
 
-Despite their aptitude for resistance, muls remain a common sight at the
-arena. Free individuals often still work as mercenaries or enforcers, and most
-muls the PCs are likely to encounter will have some form of combat training.
+Despite their aptitude for resistance, muls are popular as gladiators, which
+means a lot of them receive combat training from their enslavers. Most muls the
+PCs encounter will have some degree of skill at fighting, and free individuals
+often go on to work as mercenaries and bodyguards because of this.
 
 ## The Numbers
 
@@ -112,3 +124,5 @@ in Mixed Groups of People as bodyguards, enforcers, and so on.
 
 I liked the stat blocks because they're relatively simple and each has One Neat
 Trick. Shame about the fluff, but as you saw it's relatively easy to fix.
+
+[1]: {{ "/projects/dscc/" | relative_url }}
