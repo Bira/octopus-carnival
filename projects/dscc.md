@@ -74,6 +74,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 
 - M
   - [Megapede][35]
+  - [Mekillot][36]
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -110,3 +111,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [33]: {{ "/2025/08/22/wir-dscc-kestrekel.html" | relative_url }}
 [34]: {{ "/2025/08/28/wir-dscc-kirre.html" | relative_url }}
 [35]: {{ "/2025/09/08/wir-dscc-megapede.html" | relative_url }}
+[36]: {{ "/2025/09/24/wir-dscc-mekillot.html" | relative_url }}
