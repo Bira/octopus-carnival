@@ -6,9 +6,140 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Sep 2025 17:14:29 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Sep 2025 17:14:29 +0000</lastBuildDate>
+    <pubDate>Thu, 25 Sep 2025 14:31:32 +0000</pubDate>
+    <lastBuildDate>Thu, 25 Sep 2025 14:31:32 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mul</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-mul.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A mul rebel about to bash some slaver&apos;s skull in with a rock.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;The text for this entry sounds really fucking racist. It can’t decide whether to
+talk about muls as if they were non-sapient animals or whether to stick to the
+old “stupid and brutal savage” cliches. Therefore, I’ll paraphrase and summarize
+it more aggressively than I do most other entries, and also pull stuff from the
+much more even-handed text in the Campaign Guide.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Muls are half-dwarves, born from the union of a human and a dwarf. They’re
+taller than humans on average, and combine dwarven strength and endurance with
+human physical and mental agility. Most muls are born into slavery, as they were
+originally a sorcerer-king eugenics project.&lt;/p&gt;
+
+&lt;p&gt;Muls resent slavery just as much as anyone else, and their strong wills and
+bodies usually often put them in a position to do something about it. They often
+rebel and turn on their oppressors, and you can find communities of free muls
+making a life out in the wastes and organizing to strike back at the
+sorcerer-kings.&lt;/p&gt;
+
+&lt;p&gt;Despite their aptitude for resistance, muls are popular as gladiators, which
+means a lot of them receive combat training from their enslavers. Most muls the
+PCs encounter will have some degree of skill at fighting, and free individuals
+often go on to work as mercenaries and bodyguards because of this.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Muls are Medium Natural Humanoids with a ground speed of 6. Their signature
+trait is the same &lt;strong&gt;Incredible Toughness&lt;/strong&gt; mul PCs get. Once per encounter, at
+the start of their turns, they can automatically end a ongoing damage effect or
+the dazed, slowed, stunned, or weakened conditions. This applies both to (save
+ends) effects, and to those that would last until the end of the turn, which
+makes this ability really useful.&lt;/p&gt;
+
+&lt;h3 id=&quot;mul-gladiator&quot;&gt;Mul Gladiator&lt;/h3&gt;
+
+&lt;p&gt;Trained and forced to fight in the arena, the mul gladiator is head and
+shoulders above his human rivals both literally and in terms of skill. He’s a
+Level 4 Elite Soldier with 112 HP. He wields a &lt;strong&gt;warhammer&lt;/strong&gt; and can use a
+&lt;strong&gt;Double Sweep&lt;/strong&gt; maneuver to attack twice in the same action, knocking the
+target prone if both attacks hit. If an adjacent prone enemy stands up, the
+gladiator can use a &lt;strong&gt;Pursuing Shove&lt;/strong&gt; to attack their Fortitude. On a hit, he
+pushes the target 3 squares and shifts 3 squares to follow.&lt;/p&gt;
+
+&lt;h3 id=&quot;mul-chainfighter&quot;&gt;Mul Chainfighter&lt;/h3&gt;
+
+&lt;p&gt;This could represent a more experienced gladiator or bodyguard, or a free
+agent like a mercenary. It’s a Level 8 Brute with 106 HP.&lt;/p&gt;
+
+&lt;p&gt;The chainfighter wields a &lt;strong&gt;Cahulaks&lt;/strong&gt; as their main weapon. This is a Dark Sun
+weapon introduced in the Campaign Guide: a length of chain with barbed
+grappling hooks on either end. Its attacks have Reach 2, or Reach 1 if the
+chainfighter has a creature grabbed.&lt;/p&gt;
+
+&lt;p&gt;Grabs happen via the &lt;strong&gt;Ensnaring Tines&lt;/strong&gt; maneuver, a Reach 2 attack that pulls
+the target 1 square and grabs them if they end up adjacent to the mul, who can
+grab at most one victim at a time in this way.&lt;/p&gt;
+
+&lt;p&gt;If the grabbed victim attempts to escape and fails, the chainfighter can use
+&lt;strong&gt;Wicked Ensnarement&lt;/strong&gt; (vs. Fortitude) as a reaction. On a hit, this deals a bit
+of damage and knocks the target prone.&lt;/p&gt;
+
+&lt;h3 id=&quot;mul-savage&quot;&gt;Mul Savage&lt;/h3&gt;
+
+&lt;p&gt;This unfortunately-named stat block is meant to represent a free mul that is
+used to surviving in the wastes. It’s a Level 9 Brute with 120 HP and the Leader
+tag.&lt;/p&gt;
+
+&lt;p&gt;The tag is justified by the &lt;strong&gt;Furious Inspiration&lt;/strong&gt; aura (5) projected by the
+mul. Whenever an ally inside the aura becomes bloodied they can make a melee
+basic attack as a free action.&lt;/p&gt;
+
+&lt;p&gt;This warrior fights with a &lt;strong&gt;Bone-Studded Greatclub&lt;/strong&gt;, whose attacks damage and
+knock prone on a hit. When first bloodied, his &lt;strong&gt;Bloodied Fury&lt;/strong&gt; lets him make
+the same attack against every enemy in a Close Burst 1, additionally pushing
+them 2 squares on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;mul-champion&quot;&gt;Mul Champion&lt;/h3&gt;
+
+&lt;p&gt;A prominent figure in the rebel movements against the sorcerer-king, champions
+inspire others to take up the fight through their deeds. Like the chainfighter,
+the champion wields cahulaks, but they’re a lot more skilled with the
+weapon. Champions are Level 17 Soldiers with 167 HP.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;Cahulaks&lt;/strong&gt; attack works exactly like the chainfighter’s, with
+better numbers. Their &lt;strong&gt;Snagging Tines&lt;/strong&gt; maneuver is Reach 2 and grabs on a hit,
+but it &lt;em&gt;doesn’t&lt;/em&gt; pull: the champion can maintain a grab at up to
+Reach 2. &lt;strong&gt;Swinging Hook&lt;/strong&gt; (Encounter) lets them slide a grabbed target 4
+squares as an effect, maintaining the grab if the target is within 2 squares of
+the champion at the end of the movement. At the end of the movement the champion
+makes an attack both against the grabbed target and an enemy adjacent to that
+target, damaging and knocking them prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;As a minor action, the &lt;strong&gt;Champion’s Gaze&lt;/strong&gt; marks every enemy in a Close Burst 2
+for a turn. If a marked enemy makes an attack that doesn’t target the champion,
+they open themselves to a &lt;strong&gt;Wicked Parry&lt;/strong&gt;, a reach 2 interrupt that damages and
+inflicts a -2 penalty to the triggering attack.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The book completes its collection of fantasy racism cliches by stating that
+neither humans nor dwarves like muls very much. Nevertheless, they can be found
+in Mixed Groups of People as bodyguards, enforcers, and so on.&lt;/p&gt;
+
+&lt;p&gt;I liked the stat blocks because they’re relatively simple and each has One Neat
+Trick. Shame about the fluff, but as you saw it’s relatively easy to fix.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/09/25/wir-dscc-mul.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/25/wir-dscc-mul.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mekillot</title>
@@ -1331,268 +1462,6 @@ mid-Heroic PCs, but I’d probably set that as the upper bound of their power.&l
         <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Human</title>
-        <description>&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Remember how I keep mentioning Mixed Groups of People as possible encounter
-groups? How they can be anything, allied or hostile, made up of free or enslaved
-individuals, working for any one of the setting’s factions or none at all?&lt;/p&gt;
-
-&lt;p&gt;That’s exactly the kind of description you get for humans in this entry. They
-are the most numerous humanoid species on Athas, they are infinitely varied and
-adaptable, and all the other stuff you have read about them a thousand times in
-other places. What this tells me is that those Mixed Groups of People will be
-mostly made up of humans.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Humans in Athas are mechanically identical to humans elsewhere. Medium Natural
-Humanoids with Speed 6, and with absolutely everything else determined by
-training in each specific stat block.&lt;/p&gt;
-
-&lt;p&gt;Any of these stat blocks can easily be adjusted to represent a member of another
-species by adding that species’ signature traits o it.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-slave&quot;&gt;Human Slave&lt;/h3&gt;
-
-&lt;p&gt;If humans make up the bulk of those Mixed Groups of People, then it’s logical to
-assume they also make up the bulk of Athas’ enslaved population. You’ll see them
-in large numbers while walking down the street of any of the sorcerer-kings’
-city states.&lt;/p&gt;
-
-&lt;p&gt;The Human Slave is a Level 1 Minion Brute, armed with a &lt;strong&gt;club&lt;/strong&gt; that’s likely
-improvised. They gain +1 bonus damage for each ally adjacent to their target,
-and &lt;strong&gt;Laborer’s Resilience&lt;/strong&gt; make them stay up for an additional turn after
-being reduced to 0 HP.&lt;/p&gt;
-
-&lt;p&gt;As you can see, they’re quite bad at fighting, and will likely only do so if
-they have no other choice. Only their large numbers make them a threat to
-PCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-wasteland-raider&quot;&gt;Human Wasteland Raider&lt;/h3&gt;
-
-&lt;p&gt;This is a typical member of those hostile Mixed Groups of People who attack you
-while you’re traveling the wastes, intent on either killing you, taking your
-stuff, or both. They’re Level 2 Soldiers with 40 HP.&lt;/p&gt;
-
-&lt;p&gt;The most striking thing about this stat block is the big editing error right in
-the middle, a &lt;strong&gt;barbed spear&lt;/strong&gt; attack that has no listed damage and should be
-ignored. The raider’s actual weapon is a &lt;strong&gt;Dagger&lt;/strong&gt; that does standard physical
-damage and can be used in a stronger &lt;strong&gt;Gutting Dagger&lt;/strong&gt; attack against someone
-grabbed by the raider.&lt;/p&gt;
-
-&lt;p&gt;Maybe the spear was supposed to be the attack that grabbed the target? As it is,
-the raider has to use the default rules and perform a Grab action to do
-it. My suggestion here would be to replace the &lt;strong&gt;dagger&lt;/strong&gt; basic attack with a
-&lt;strong&gt;Barbed Spear&lt;/strong&gt; that does the same damage, grabs on a hit, and cannot be used
-against other targets while the raider has a target grabbed. Gutting Dagger
-would then turn into Gutting Spear, with the same effects.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-dune-trader&quot;&gt;Human Dune Trader&lt;/h3&gt;
-
-&lt;p&gt;I remember disliking the emphasis the book put on elven traders being unreliable
-and dishonest, but it looks like it doesn’t have much better to say about the
-human ones. This one is described as being flanked by burly bodyguards as he
-cheerfully lies about the price and quality of his goods.&lt;/p&gt;
-
-&lt;p&gt;Dune Traders are Level 4 Controllers with the Leader tag and 55 HP. They’re
-armed with &lt;strong&gt;hatchets&lt;/strong&gt; that do physical damage and cause the target to grant
-Combat Advantage for a turn.&lt;/p&gt;
-
-&lt;p&gt;While unbloodied, they can spend minor actions on &lt;strong&gt;Goading Commands&lt;/strong&gt; that let
-one ally within 6 squares move their speed as a free action. While bloodied,
-this changes to a &lt;strong&gt;Furious Glare&lt;/strong&gt;, a standard action that attacks the Will of
-enemies in a Close Blast 3. It does no damage, but immobilizes and makes the
-targets grant combat advantage on a hit (save ends both).&lt;/p&gt;
-
-&lt;h3 id=&quot;human-gladiator-novice&quot;&gt;Human Gladiator Novice&lt;/h3&gt;
-
-&lt;p&gt;Those gladiators who managed to survive their first few fights can go on to
-achieve fame and greatness… but this one is still figuring out the surviving
-part. There are many like him on every arena. He’s a level 4 Soldier with 55 HP.&lt;/p&gt;
-
-&lt;p&gt;The gladiator novice fights with a &lt;strong&gt;short sword&lt;/strong&gt; that damages and marks on a
-hit, and can perform a &lt;strong&gt;hamstring cut&lt;/strong&gt; that does the same damage, knocks
-prone, and slows (save ends). If an adjacent enemy stands up, the novice can
-use &lt;strong&gt;Stay Down!&lt;/strong&gt; as a reaction to attack their Reflex and knock them back down
-on a hit.&lt;/p&gt;
-
-&lt;p&gt;The book remarks that gladiators are one of the opponent types that have
-in-character reasons for picking less than optimal combat options during a
-fight, as long as they make for a better show.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-overseer&quot;&gt;Human Overseer&lt;/h3&gt;
-
-&lt;p&gt;Our first explicitly Evil stat block in this entry. The things they oversee are
-the sale, transport, and daily (mis)treatment of slaves. Whether they display
-malicious glee or banal apathy towards the cruelty that surrounds them, it
-remains true that their job is to perpetuate it. They’re Level 9 Controllers
-with the Leader tag and 96 HP.&lt;/p&gt;
-
-&lt;p&gt;Overseers are armed with &lt;strong&gt;Obsidian Swords&lt;/strong&gt;, and they have extensive training
-in psychic powers that assault and dominate the mind because of course they
-do. They project a &lt;strong&gt;Mental Mire&lt;/strong&gt; around themselves (aura 2) that slows enemies
-who starts their turns inside. &lt;strong&gt;Not So Fast!&lt;/strong&gt; is a ranged attack that deals
-psychic damage and pulls 3 squares. And &lt;strong&gt;Do My Bidding&lt;/strong&gt; targets one slowed
-creature within 2 squares and dominates it for a turn on a hit. This one is
-thankfully not at-will - it recharges when the overseer is bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-slavehunter&quot;&gt;Human Slavehunter&lt;/h3&gt;
-
-&lt;p&gt;Another Evil entry. Slavehunters do what it says on the tin, roaming both the
-wilds and the streets looking for new people to enslave. Anyone who looks like
-they’d fetch a good price and won’t put up much of a fight is fair game. They’re
-Level 10 Skirmishers with 103 HP.&lt;/p&gt;
-
-&lt;p&gt;This villain is armed with a &lt;strong&gt;Mace&lt;/strong&gt; and a &lt;strong&gt;Obsidian-toothed Whip&lt;/strong&gt;. A hit
-with the mace lets them shift 1 square. A hit with the whip pulls the target 1
-square and knocks it prone. As minor actions, they can use &lt;strong&gt;Swift Pursuit&lt;/strong&gt; to
-shift 3 squares (recharges when bloodied) or &lt;strong&gt;Cutting Lash&lt;/strong&gt; to inflict ongoing
-10 damage (save ends) on a prone creature as an encounter power.&lt;/p&gt;
-
-&lt;p&gt;The book mentions a power named “Face Smash”, but this isn’t present on the stat
-block. I guess there were some editing hiccups, and it was replaced by Cutting
-Lash without any changes to the surrounding text.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-templar-of-tyr&quot;&gt;Human Templar of Tyr&lt;/h3&gt;
-
-&lt;p&gt;Fourth Edition Dark Sun is set right after the sorcerer-king of Tyr was deposed
-and killed in a violent revolution, and this book describes the city’s templars
-as being “cast adrift” and only relying on “themselves and each other” to impose
-their will.&lt;/p&gt;
-
-&lt;p&gt;This seems to me like a fancy way to say they immediately pivoted to being a
-crime syndicate after losing their official authority, though I remember
-something in the older 2e books about Tyr still having some templars in its
-government. This stat block is Evil, so I’m guessing it represents a “loyalist”
-templar who is now a mobster.&lt;/p&gt;
-
-&lt;p&gt;This templar is a Level 10 Controller with 106 HP. It fights exclusively with
-Force magic. Its basic melee attack is an &lt;strong&gt;Eldritch Spear&lt;/strong&gt; that does force
-damage and slides targets 1 square on a hit. The basic ranged attack is an
-&lt;strong&gt;Eldritch Bolt&lt;/strong&gt; that does the same amount of force damage and pushes 2
-squares. &lt;strong&gt;Eldritch Cage&lt;/strong&gt; (recharge 5+) is an Area Burst 2 spell that attacks
-all creatures in the area. On a hit it restrains and deals 10 ongoing force
-damage (save ends). The book says the templar is not shy about including some of
-its own allies in the area if it will help them get more PCs.&lt;/p&gt;
-
-&lt;p&gt;None of the templar’s powers explicitly mention defiling, but you could give
-them a version of the next stat block’s passive trait if you wish.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-defiler&quot;&gt;Human Defiler&lt;/h3&gt;
-
-&lt;p&gt;In Athas, despoiling an already ravaged ecosystem is a big taboo that’s sure to
-draw the ire of those who see you do it… unless you’re a sorcerer-king or a
-templar, I guess. The defilers represented by this stat block are neither, but
-they really want to be and think the scorn of the ignorant masses is a light
-price to pay for Ultimate Cosmic Power. You could also uses these stats for a
-higher-ranking templar.&lt;/p&gt;
-
-&lt;p&gt;The Human Defiler is Level 14 Artillery with 108 HP (and also Evil). It has the
-&lt;strong&gt;Defiling&lt;/strong&gt; passive trait, which deals 5 necrotic damage to all enemies within
-3 squares whenever the defiler uses an implement power.&lt;/p&gt;
-
-&lt;p&gt;Its only non-implement power is a &lt;strong&gt;staff&lt;/strong&gt; bonk that causes a mix of physical
-and necrotic damage. The templar prefers to fight from a distance with lightning
-spells. &lt;strong&gt;Lightning Lance&lt;/strong&gt; is a basic ranged attack that does lightning damage,
-and &lt;strong&gt;Lightning Serpent&lt;/strong&gt;, an encounter power that does a bit less lightning
-damage but also inflicts ongoing 10 poison damage (save ends). Once per
-encounter, the Defiler can use &lt;strong&gt;Dimension Door&lt;/strong&gt; to teleport 10 squares,
-something it will probably use as an emergency escape measure.&lt;/p&gt;
-
-&lt;p&gt;When an enemy within 10 squares of the defiler spends a healing surge, it can
-use &lt;strong&gt;Defiling Serpent&lt;/strong&gt; as a free action to regain HP equal to half the value
-of the triggering surge and recharge Lightning Serpent.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-mind-adept&quot;&gt;Human Mind Adept&lt;/h3&gt;
-
-&lt;p&gt;We’re out of the Evil Zone again. This is a powerful human telepath that can be
-cast in any role, friendly or not: a Level 15 Controller with 145 HP.&lt;/p&gt;
-
-&lt;p&gt;Mind adepts rely solely on their powers (and on their teammates, of course) for
-defense. We start with an aura (2) of &lt;strong&gt;Overwhelming Thoughts&lt;/strong&gt; that makes it so
-any enemy that ends their turn inside cannot target the adept with an attack
-until the end of their next turn. This means melee-based PCs will only be
-attacking them every other turn.&lt;/p&gt;
-
-&lt;p&gt;Pretty much all of the adept’s attacks are psychic powers that target Will. For
-melee, we have the &lt;strong&gt;Mind-Wracking Touch&lt;/strong&gt; dealing psychic damage and making the
-target grant combat advantage for a turn. For greater ranges we have the at-will
-&lt;strong&gt;Paralyzing Blast&lt;/strong&gt; (close blast 5) which targets enemies, deals light psychic
-damage, and immobilizes for a turn on a hit.&lt;/p&gt;
-
-&lt;p&gt;The adept’s ultimate technique is &lt;strong&gt;Will of the Master&lt;/strong&gt;, a ranged attack that
-deals no damage and dominates (save ends). While the target is dominated, it
-emits harmful psychic waves: any enemy that starts their turn within 2 squares
-of the target takes 5 psychic damage and is immobilized for a turn. This is an
-encounter power that recharges whenever it misses.&lt;/p&gt;
-
-&lt;p&gt;When the adept is reduced to 0 HP, it causes &lt;strong&gt;Mental Overload&lt;/strong&gt; in a Close
-Burst 1. This targets enemies and on a hit deals psychic damage and stuns for a
-turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;human-blade-noble&quot;&gt;Human Blade Noble&lt;/h3&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-human-blade-noble.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A red-haired woman human wearing leather armor and holding a sheathed sword.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The most powerful human in this entry is not a wizard or a psychic, but someone
-who is Just That Good with a sword. Or in other words: Hello, Ms. Malenia! Fancy
-meeting you here. This is a Level 17 Controller with 163 HP.&lt;/p&gt;
-
-&lt;p&gt;The blade noble has a trait named &lt;strong&gt;Unpredictable Flank&lt;/strong&gt; that gives them combat
-advantage against any enemy adjacent to one of their allies. No need to setup a
-by-the-book flanking position.&lt;/p&gt;
-
-&lt;p&gt;They fight with a &lt;strong&gt;Duelist’s Blade&lt;/strong&gt;, which given the context is probably one
-of the few magical steel swords that still survive in Athas. Its basic attacks
-do physical damage and slide the target 1 square.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dance of Blades&lt;/strong&gt; (recharge 6+) is the &lt;a href=&quot;https://www.youtube.com/watch?v=rlnv_DCBEa8&quot;&gt;technique&lt;/a&gt; that reminded me of
-Malenia: it attacks enemies in a Close Burst 2, deals the same damage as a basic
-attack, immobilizes, and inflicts ongoing 5 damage (save ends). On a miss it
-still does half damage, which is a rarity on a rechargeable attack. The noble
-can shift 2 squares as an effect as well.&lt;/p&gt;
-
-&lt;p&gt;For triggered actions we have &lt;strong&gt;Whirling Parry&lt;/strong&gt;, an encounter power that
-triggers when an ally of the noble’s within 2 squares is hit by a melee or
-ranged attack. As an interrupt, the noble shifts 2 squares to be adjacent to the
-ally and rolls an attack using its standard bonus vs. AC. If that’s higher than
-the triggering attack roll, the triggering attack misses.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The individual stat blocks are pretty cool, but the lore is your standard Humans
-Are The Most Generic thing. In the end this ends up being a very ecletic set of
-People that you can reskin as any species and any narrative role that best fits
-your specific campaign.&lt;/p&gt;
-
-&lt;p&gt;I know some more recent games have explicitly gone this route for pretty much
-every humanoid NPC, giving us stat blocks based on narrative or mechanical role
-(“Bandit”, “Guard”, “Brute”, “Wizard”) and then letting us assign any species as
-necessary. D&amp;amp;D 4e wasn’t quite there yet, but ended up doing it by accident on
-this entry.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/11/wir-dscc-human.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/11/wir-dscc-human.html</guid>
         
         <category>dnd4</category>
         
