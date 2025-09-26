@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Sep 2025 12:58:37 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 12:58:37 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 13:02:58 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 13:02:58 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -116,7 +116,7 @@ target.&lt;/p&gt;
 a hit inflicts ongoing &lt;em&gt;30&lt;/em&gt; lightning and necrotic damage (save ends). Each
 creature adjacent to one of the targets takes 20 lightning and necrotic damage
 when the target is hit, as well. The targets fall unconscious right on the first
-saving throw.&lt;/p&gt;
+failed saving throw.&lt;/p&gt;
 
 &lt;p&gt;If the beast misses a target while using Black Lightning, it can use its
 &lt;strong&gt;Hideous Defiling&lt;/strong&gt; to attack every enemy in a Close Burst 2, dealing a chunk
