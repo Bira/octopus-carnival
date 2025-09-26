@@ -6,9 +6,152 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Sep 2025 14:31:32 +0000</pubDate>
-    <lastBuildDate>Thu, 25 Sep 2025 14:31:32 +0000</lastBuildDate>
+    <pubDate>Fri, 26 Sep 2025 12:58:37 +0000</pubDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:58:37 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Nightmare Beast</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-nightmare-beast.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A rampaging nightmare beast with a doomed human spearman for scale. The
+    spearman looks tiny.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Nightmare Beasts are among the most feared horrors to walk the surface of Athas,
+second only to the Dragon of Tyr itself. The mere presence of a nightmare beast
+poisons the surrounding land and contaminates its water. This seems to be a
+continuous defiling effect - and the beasts can defile further to fuel their
+powers. The description also makes me think they might be &lt;em&gt;radioactive&lt;/em&gt;, if you
+want to inject some science fantasy into your campaign.&lt;/p&gt;
+
+&lt;p&gt;Sages can only speculate as to their origin. The leading theory is that they
+were summoned from the Gray by powerful defilers during an age in the distant
+past where war raged all over the world. Fully grown beasts are solitary, but
+smaller versions can be seen hanging out in packs with each other or with other
+predatory animals. Those same sages theorize these are young beasts, born
+through natural reproduction.&lt;/p&gt;
+
+&lt;p&gt;Everything about the preceding paragraph is wrong, however. Nightmare beasts
+form when one of the many natural predators of Athas consumes too much prey from
+areas tainted by the Gray or marked by heavy defiling. The creature begins to
+slowly mutate. It acquires intelligence, power, and a hatred for all living
+things, becoming a nightmare beast when the metamorphosis is complete. The
+“spawn” are merely beasts whose transformation is still ongoing. Fully
+transformed beasts are solitary. Partially-mutated spawn still display behaviors
+reminiscent of their previous form, which is why they can be found in packs.&lt;/p&gt;
+
+&lt;p&gt;Nightmare beast lairs tend to be pretty obvious and imposing landmarks at the
+center of a horribly corrupted region.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Nightmare Beasts are Shadow Magical Beasts with Darkvision. We get stat blocks
+for both spawn and fully transformed specimens. Both can invade people’s dreams
+and use magical black lightning as a weapon, in addition to having very large
+and sharp tusks, but the effects of all of these vary per stat block. We’ll see
+them from weaker to stronger.&lt;/p&gt;
+
+&lt;p&gt;At the GM’s option, beasts poison the area around them when they die. The area
+within 10 squares of a full beast’s corpse become Defiled Terrain (a hazard
+described at the end of the book). Spawn also do this, but the area is only 5
+squares in radius.&lt;/p&gt;
+
+&lt;h3 id=&quot;nightmare-beast-spawn&quot;&gt;Nightmare Beast Spawn&lt;/h3&gt;
+
+&lt;p&gt;As mentioned above, “spawn” is a misleading name. This Large creature was
+formerly a more mundane Athasian predator who is currently in the process of
+mutating into a nightmare beast. It will kinda resemble the animal it once was,
+but is already clearly unnatural. Spawn are Level 16 Elite Artillery with 244
+HP. Their ground speed is 8 and they also have Burrow and Climb speeds
+of 4. Maybe this was a megapede?&lt;/p&gt;
+
+&lt;p&gt;The creature’s basic melee attack uses its &lt;strong&gt;Tusks&lt;/strong&gt; (Melee 2), which damage and
+slide the target 2 squares on a hit. Its favorite tactic, however, is to hang
+back and rain &lt;strong&gt;Black Lightning&lt;/strong&gt; (Ranged 20) upon its foes. This attack
+vs. Reflex targets one or two victims. On a hit it deals “lightning and
+necrotic” damage, and ongoing 5 necrotic damage (save ends). This worsens to 10
+ongoing on the first failed save, and to &lt;em&gt;unconsciousness&lt;/em&gt; (save ends) on the
+second.&lt;/p&gt;
+
+&lt;p&gt;The spawn can further torment its unconscious victims with &lt;strong&gt;Horrid Nightmares&lt;/strong&gt;
+(minor action, recharge 6+, Ranged 10), which deal psychic damage and prevent
+the target from rolling saves for a turn on a hit. Yeah the spawn can
+potentially lock a PC down once they’re unconscious from Black Lightning. This
+also works if they manage to sneak up on their victims while they sleep, though
+the spawn might not yet be clever enough to think of this.&lt;/p&gt;
+
+&lt;p&gt;If a target steps into the spawn’s melee reach, it can use its &lt;strong&gt;Barbed Tongue&lt;/strong&gt;
+(Melee 3) as a reaction. This attack vs Fortitude deals necrotic damage on a hit
+and prevents the target from regaining HP for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;nightmare-beast&quot;&gt;Nightmare Beast&lt;/h3&gt;
+
+&lt;p&gt;The fully mutated beast is size Huge, and a Level 25 Solo Controller with 928
+HP. In other words, it’s a kaiju. This specimen is stronger than the spawn in
+every way, from physical weapons all the way to psychic and magical powers. Its
+ground speed is just 6, though, with no other movement modes. It likes to use
+its magic to torment its victims, but once it gets injured it will drop the mind
+games and get physical.&lt;/p&gt;
+
+&lt;p&gt;The beast has no less than &lt;em&gt;three&lt;/em&gt; basic attacks, all Melee 3 and each with a
+different rider: &lt;strong&gt;Claws&lt;/strong&gt; that slide 3 squares, &lt;strong&gt;Tusks&lt;/strong&gt; that knock prone, and
+a &lt;strong&gt;Bite&lt;/strong&gt; that grabs the target if the beast hasn’t grabbed anyone yet. Each of
+those of course also does respectable damage. &lt;strong&gt;Double Attack&lt;/strong&gt; lets the beast
+pick any two of those to use on the same action.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bloodied Fury&lt;/strong&gt; (recharge 4+) becomes available while the beast is
+bloodied. It lets the creature move its speed and use a claw/claw/tusk/bite
+combo at any point along the movement, using up to two attacks against each
+target.&lt;/p&gt;
+
+&lt;p&gt;While the beast is &lt;em&gt;not&lt;/em&gt; bloodied, it can instead use its &lt;strong&gt;Black Lightning&lt;/strong&gt;
+(recharge 4+). This version targets 1 or 2 creatures in a Close Burst 5, and on
+a hit inflicts ongoing &lt;em&gt;30&lt;/em&gt; lightning and necrotic damage (save ends). Each
+creature adjacent to one of the targets takes 20 lightning and necrotic damage
+when the target is hit, as well. The targets fall unconscious right on the first
+saving throw.&lt;/p&gt;
+
+&lt;p&gt;If the beast misses a target while using Black Lightning, it can use its
+&lt;strong&gt;Hideous Defiling&lt;/strong&gt; to attack every enemy in a Close Burst 2, dealing a chunk
+of necrotic damage on a hit. A hit also allows it to reroll the missed Black
+Lightning attacks.&lt;/p&gt;
+
+&lt;p&gt;Whether bloodied or not, the beast can inflict &lt;strong&gt;Horrid Nightmares&lt;/strong&gt; on
+unsconscious targets just like its less-developed counterpart, with better
+damage. It can also use &lt;strong&gt;Dream Step&lt;/strong&gt; at will, teleporting 15 squares to a
+space adjacent to an unconscious creature!&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Full beasts will usually be found alone, as they kill anything else they can
+perceive. A GM who wishes to add more spice to this solo encounter could add
+powerful undead minions. The beast might tolerate their presence since they
+aren’t living creatures.&lt;/p&gt;
+
+&lt;p&gt;Spawn could be found in groups, either with each other or still hanging around
+their packs as the transformation proceeds. Eventually the day comes when they
+complete the transformation and slay their packmates.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/09/26/wir-dscc-nightmare-beast.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/26/wir-dscc-nightmare-beast.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mul</title>
@@ -1376,92 +1519,6 @@ tend to be much harder to physically stop than horses.&lt;/p&gt;
         <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Id Fiend</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-id-fiend.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An id fiend, a big toothy lizard, hanging out on a rock outcropping.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Id fiends are big toothy lizards with psionic powers of fear manipulation,
-which they use to hunt their preferred prey. Which is, of course, people.&lt;/p&gt;
-
-&lt;p&gt;As reasonably smart magical beasts, they are capable of making alliances with
-other creatures, though these tend to be strained at best. More often, an id
-fiend might craft fearful illusions to manipulate those creatures into helping
-it attack others. When that happens, the best tactic is to focus on the id
-fiend - when it dies, its control ends.&lt;/p&gt;
-
-&lt;p&gt;Id fiends are a major threat to civilians, but a favorite target of seasoned
-monster hunters. The House of the Mind in Draj pays generously for live
-specimens, whose fresh organs and fluids go into making alchemical potions meant
-to awaken someone’s psychic potential. Many of those are dubious at best, but at
-least some of them have real effects. The book mentions “terror ichor” by name -
-this is a consumable reagent that can be used to enhance fear-based powers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;If Fiends are Large Aberrant Magical Beasts with the Reptile tag. This probably
-makes them the most mundane-looking aberrants we saw so far. Just a big lizard,
-not a tentacle in sight.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, they end up filling the empty niche left by absence of low-level
-dragons in Athas. They’re Level 1 Solo Controllers with 120 HP, Darkvision, a
-Speed of 6, an immunity to Fear and Resist 5 Psychic.&lt;/p&gt;
-
-&lt;p&gt;A fiend can attack with a &lt;strong&gt;quick slash&lt;/strong&gt; of its claws, which deals light
-physical damage and lets it shift 1 square; with a bite of its &lt;strong&gt;Snapping Jaws&lt;/strong&gt;
-that deals more damage and slides the target 1 square; or with a &lt;strong&gt;Double
-Attack&lt;/strong&gt; that uses both.&lt;/p&gt;
-
-&lt;p&gt;Instead of a breath weapon, it has the &lt;strong&gt;Manifest Fear&lt;/strong&gt; power (recharge 4+),
-which affects enemies in a Close Burst 5. Those hit by it are dazed for a turn
-as they see a vision of their worst fears becoming reality.&lt;/p&gt;
-
-&lt;p&gt;Once the fiend dazes a few enemies, it will use the &lt;strong&gt;Fearful Torment&lt;/strong&gt; power, a
-minor-action ranged attack that targets one or two tazed creatures. A hit deals
-psychic damage, immobilizes, and inflicts a -2 penalty to attacks for a turn. I
-guess this means it makes the vision of fear worse.&lt;/p&gt;
-
-&lt;p&gt;Once the fiend is first bloodied, Manifest Fear recharges and it can use the
-power immediately as a free action.&lt;/p&gt;
-
-&lt;p&gt;Looks like id fiends prefer to use their fear powers to kill their victims if
-possible, though they’re also perfectly capable of physical fighting as seen
-above.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;A single id fiend makes a fine boss battle for beginner PCs. Once they gain a
-level or two, you can begin to add thralls enraptured by visions of fear, and
-fooled into thinking the PCs are monsters to be slain. As the book says, killing
-the fiend will likely free the thralls.&lt;/p&gt;
-
-&lt;p&gt;It’s an interesting monster, I think. Effectively a low-level dragon that
-breathes fear. You can level it up a bit to make it more challenging for
-mid-Heroic PCs, but I’d probably set that as the upper bound of their power.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/13/wir-dscc-id-fiend.html</guid>
         
         <category>dnd4</category>
         
