@@ -113,7 +113,7 @@ While the beast is _not_ bloodied, it can instead use its **Black Lightning**
 a hit inflicts ongoing _30_ lightning and necrotic damage (save ends). Each
 creature adjacent to one of the targets takes 20 lightning and necrotic damage
 when the target is hit, as well. The targets fall unconscious right on the first
-saving throw.
+failed saving throw.
 
 If the beast misses a target while using Black Lightning, it can use its
 **Hideous Defiling** to attack every enemy in a Close Burst 2, dealing a chunk
