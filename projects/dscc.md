@@ -77,6 +77,9 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Mekillot][36]
   - [Mul][37]
 
+- N
+  - [Nightmare Beast][38]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -114,3 +117,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [35]: {{ "/2025/09/08/wir-dscc-megapede.html" | relative_url }}
 [36]: {{ "/2025/09/24/mekillot.html" | relative_url }}
 [37]: {{ "/2025/09/25/wir-dscc-mul.html" | relative_url }}
+[38]: {{ "/2025/09/26/wir-dscc-nightmare-beast.html" | relative_url }}
