@@ -6,9 +6,149 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Sep 2025 13:56:19 +0000</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 13:56:19 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Sep 2025 17:56:59 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Sep 2025 17:56:59 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Psurlon</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-psurlon.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A psurlon, which look like a gray-skinned centipede centaur with scythe-like
+    forearms and a xenomorh-style head.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;A long time ago, in a world far, far away, there was a civilization whose
+mastery of psionics was so complete they decided to merge their entire
+population into a single collective god-mind. They failed, and the backlash
+destroyed their planet.&lt;/p&gt;
+
+&lt;p&gt;The survivors managed to escape to the Astral Sea, but only as disembodied
+consciences. There, they came upon another world that radiated vast amounts of
+psychic energy, comparable to their old home. The survivors were drawn to it
+like moths to a flame, piercing the barriers that surrounded this new world and
+taking over a species of worm that turned out to be particularly receptive to
+their minds.&lt;/p&gt;
+
+&lt;p&gt;Over the following generations, these planar refugees would shape their hosts to
+be more useful to their mysterious purposes, and would come to prefer their new
+bodies over their old humanoid forms. And this is how the psurlons came to be,
+though no one in Athas really knows the whole story.&lt;/p&gt;
+
+&lt;p&gt;Some psurlons reside in the Gray, amid the graves of the gods. Many others live
+in Athas itself, where they often take human form to infiltrate and spy on the
+city-states of the sorcerer-kings, working towards some mysterious goal of their
+own. Psurlons are an old people with long memories and extremely advanced
+psionic skills, so sometimes they’ll be sought out by powerful psychics,
+spellcasters, and historians willing to risk their lives to bargain for
+knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Psurlons are Medium Aberrant Magical Beasts. They have resistance to psychic
+damage, a burrow speed, and Tremorsense, though the exact values on these traits
+vary per stat block. Their signature ability is &lt;strong&gt;Armored Mind&lt;/strong&gt;, a passive
+trait that lets them roll saves against domination both at the start and end of
+their turns, even if the condition doesn’t normally end with a save.&lt;/p&gt;
+
+&lt;h3 id=&quot;psurlon-dustworm&quot;&gt;Psurlon Dustworm&lt;/h3&gt;
+
+&lt;p&gt;Dustworms are specialized infiltrators, disguising themselves as humanoids to
+spy on the city-states and on the comings and goings of the
+sorcerer-kings. They’re Level 17 Skirmishers with 164 HP. Their ground and
+burrow speeds are 8, and they have 5 psychic resistance and Tremorsense 10.&lt;/p&gt;
+
+&lt;p&gt;The dustworm can &lt;strong&gt;Change Shape&lt;/strong&gt; as a minor action to appear as a
+humanoid. Others need to pass a DC 36 Insight check to detect the
+deception. Most dustworms encountered by PCs will start out disguised, and will
+do their best to maintain cover until there is no other alternative. Then, they
+take their natural shapes and fight, likely attempting to escape.&lt;/p&gt;
+
+&lt;p&gt;In addition to Armored Mind, they also project a &lt;strong&gt;Psychic Deadpool&lt;/strong&gt; (aura 5),
+which inflicts -2 on enemy saves against ongoing psychic damage. They can attack
+in melee with their &lt;strong&gt;Claws&lt;/strong&gt;, which damage and deal ongoing 5 psychic damage
+(save ends). At range, they fling &lt;strong&gt;Mindknives&lt;/strong&gt; which deal psychic damage and
+forbid the target from making opportunity attacks for a turn.&lt;/p&gt;
+
+&lt;p&gt;Both of these attacks can be boosted by &lt;strong&gt;Psionic Augment&lt;/strong&gt;, which triggers
+after one of them hits and lets them deal an extra 2d6 psychic damage. This
+recharges when the dustworm takes psychic damage.&lt;/p&gt;
+
+&lt;p&gt;They can use a &lt;strong&gt;Burrowing Attack&lt;/strong&gt; to burrow half their speed, attack someone
+with a claw, and then burrow the other half of their speed. This is strangely
+precise phrasing compared to the other “moving attack” skills we have seen so
+far.&lt;/p&gt;
+
+&lt;h3 id=&quot;psurlon-warworm&quot;&gt;Psurlon Warworm&lt;/h3&gt;
+
+&lt;p&gt;Warworms cannot change shape, possibly because they’re Huge instead of
+Medium. They defend psurlon settlements and stay hidden underground near
+infiltrators, waiting to burst out when things go pear-shaped. They’re Level 18
+Elite Brutes with 424 HP. Their ground and burrow speeds are 6, their
+Tremorsense is 20, and their psychic resistance is 15.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bite&lt;/strong&gt; deals heavy damage and inflicts ongoing 5 psychic damage (save
+ends), and &lt;strong&gt;Double Attack&lt;/strong&gt; lets them bite twice per action. Once per
+encounter, they can let out a &lt;strong&gt;Mind Scream&lt;/strong&gt; that attacks enemies in a Close
+Burst 2. A hit deals heavy psychic damage and stuns for a turn. Nasty! A miss
+deals half damage.&lt;/p&gt;
+
+&lt;h3 id=&quot;psurlon-mindworm&quot;&gt;Psurlon Mindworm&lt;/h3&gt;
+
+&lt;p&gt;Mindworms are powerful seers, able to see many futures at once. They guide their
+fellow psurlons to the ones most favorable to their secret objectives. Mindworms
+are Level 19 Controllers with 181 HP. Their movement speed is 6, they have 10
+Psychic resistance, and Tremorsense 10.&lt;/p&gt;
+
+&lt;p&gt;Their additional passive is a &lt;strong&gt;Whispering Meme&lt;/strong&gt; aura (5) that lets the
+mindworm slide enemies that start their turns within 1 square. I guess the
+mysterious whispers of “this is fine” and “always has been” drive enemies to
+distraction.&lt;/p&gt;
+
+&lt;p&gt;A mindworm will probably start the fight at range and attempt to use &lt;strong&gt;Ego
+Control&lt;/strong&gt; (recharge 5+) on a PC. This deals a sizable chunk of psychic damage
+and dominates on a hit (save ends). Then they’ll close in to melee range and
+alternate between &lt;strong&gt;Referred Pain&lt;/strong&gt; and their &lt;strong&gt;Psychic Claws&lt;/strong&gt;. The first power
+is a Close Burst 2 that deals psychic damage and slows for a turn; the other is
+a basic attack that deals a mix of psychic and physical damage and inflicts -2
+to AC for a turn.&lt;/p&gt;
+
+&lt;p&gt;Mindworms can also &lt;strong&gt;Change Shape&lt;/strong&gt; and use &lt;strong&gt;Psionic Augment&lt;/strong&gt;, both of which
+work just like the dustworm’s, but with higher numbers.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;There’s a lot here that reminds me of mind flayers, but I think I actually like
+psurlons better. With mind flayers, you know they want to eat your brain, and
+most PCs will start drawing their weapons as soon as they spot one.&lt;/p&gt;
+
+&lt;p&gt;Psurlons have a much more mysterious goal, so they can more easily fill the
+“mysterious but dangerous stranger” role instead of always being overtly
+hostile. Heck, PCs might want to ally with them against a sorcerer-king.&lt;/p&gt;
+
+&lt;p&gt;That said, they do employ a lot of the same tactics as flayers, including
+keeping large groups of dominated thralls around to help compose mixed encounter
+groups.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/09/28/wir-dscc-psurlon.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/28/wir-dscc-psurlon.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Nightmare Beast</title>
@@ -1436,89 +1576,6 @@ that role.&lt;/p&gt;
         <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/08/17/wir-dscc-jhakar.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/17/wir-dscc-jhakar.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Inix</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-inix.png&quot;/&gt;
-  &lt;figcaption&gt;
-    An inix, a yellowish giant lizard with a brown beak and carapace.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Unlike most of the Athasian fauna we saw so far, these giant lizards are fairly
-docile omnivores. They mostly eat plants and roots, though they’ll also feed on
-carrion and small animals. They only attack people if directly
-threatened.&lt;/p&gt;
-
-&lt;p&gt;Inixes are widely domesticated for use as mounts, draft animals, and
-livestock. Some people like to keep juveniles as pets. In the wild, they roam in
-small bands. Inix females lay eggs once a year, and are capable of producing
-viable eggs even without a male.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Inixes are Natural Beasts, with the Reptile tag. When forced to fight they
-attack with bites and with swipes of their large and powerful tails.&lt;/p&gt;
-
-&lt;h3 id=&quot;inix-juvenile&quot;&gt;Inix Juvenile&lt;/h3&gt;
-
-&lt;p&gt;Inix juveniles are only about half the size of adults, which means they’re
-Medium. This slighter build makes them faster than adults. Juveniles also have
-venom in their bites, which they lose as they grow up. They’re Level 4
-Skirmishers with 57 HP and a speed of 8.&lt;/p&gt;
-
-&lt;p&gt;As mentioned above, their &lt;strong&gt;bite&lt;/strong&gt; is venomous, dealing a mix of physical and
-poison damage. As a minor action they can attempt a &lt;strong&gt;Tail Trip&lt;/strong&gt;, which attacks
-Fortitude. On a hit, the inix knocks the target prone and can shift 1 square.&lt;/p&gt;
-
-&lt;h3 id=&quot;inix-adult&quot;&gt;Inix Adult&lt;/h3&gt;
-
-&lt;p&gt;Adults are size Large, and Level 9 Brutes with 120 HP and a Speed of 6. They’ll
-probably open the fight with a &lt;strong&gt;Tail Slap&lt;/strong&gt; that attacks the Fortitude of
-enemies in a Close Blast 2. On a hit it deals standard physical damage and
-knocks the targets prone.&lt;/p&gt;
-
-&lt;p&gt;Next, it’s time for the &lt;strong&gt;bite&lt;/strong&gt;, which deals standard physical damage. When it
-hits a prone target, the bite deals extra damage and grabs that target. The
-victim can only try to stand up after the grab ends, and the inix can keep
-making bite attacks against it (but not against others while the victim remains
-grabbed).&lt;/p&gt;
-
-&lt;p&gt;If the inix is serving as a mount, it can use the &lt;strong&gt;Warding Tail&lt;/strong&gt; ability. This
-triggers when the rider is hit by an opportunity attack provoked by making a
-ranged or area attack, and lets the inix use Tail Slap against the triggering
-creature as a free action. This makes them a fine mount for artillery monsters!&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;A short and sweet entry. It’s always good to see another member of the club of
-Athasian creatures that are not suicidally aggressive predators.&lt;/p&gt;
-
-&lt;p&gt;Encounters with domesticated inixes tend to be much more interesting than those
-with wild ones, as they can feature more varied encounter groups. As mentioned
-above, adults are awesome mounts for artillery and controller riders. They’re
-also fun to have as the draft animal for a “runaway wagon” scenario, as they
-tend to be much harder to physically stop than horses.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/15/wir-dscc-inix.html</guid>
         
         <category>dnd4</category>
         
