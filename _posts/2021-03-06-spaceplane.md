@@ -42,9 +42,9 @@ technology"), giving us access to TL7 and 8 items from the book. I'll
 arbitrarily assign it SM +8, making it a 1000 ton craft.
 
 Therefore, our craft is SM +8, TL8, streamlined, and winged. It must take off
-from the ground on Earth and reach orbital velocity using without the aid of
-external boosters or detachable stages, while carrying a multi-ton payload in
-its cargo hold.
+from the ground on Earth and reach orbital velocity without the aid of external
+boosters or detachable stages, while carrying a multi-ton payload in its cargo
+hold.
 
 This means it must have a total delta-V exceeding 5.6 miles per second after all
 the calculations are done[^1]. We get a bonus 0.3 mps if we launch eastwards
