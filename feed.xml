@@ -6,9 +6,97 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Sep 2025 18:14:31 +0000</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 18:14:31 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Oct 2025 14:56:43 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Oct 2025 14:56:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Creature Catalog: Sand Bride</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-sand-bride.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A sand bride, which looks like a pretty lady lounging in an illusory oasis
+    that hides a sandstorm.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;This wouldn’t be a proper D&amp;amp;D monster book without at least one vile seductress
+that tries to lure in unsuspecting adventurers with her womanly wiles.&lt;/p&gt;
+
+&lt;p&gt;Sand Brides are basically Darker and Sunnier Nymphs. More specifically, they are
+the things this world’s surviving nymphs turned into when the ecosystem went to
+shit and the Feywild was mostly destroyed. Like a lot of other Athasian fey,
+they blame all intelligent natural creatures for their corrupted state, and try
+to victimize them as an act of vengeance.&lt;/p&gt;
+
+&lt;p&gt;Their preferred tactic is to build traps and ambush spots out in the desert and
+use their illusion powers to disguise them as safe places like oases, sheltering
+ruins, or caravan rest stops. Then they disguise themselves as harmless
+humanoids and try to lure their targets to the ambush. The illustration and some
+of the descriptions imply these “harmless humanoids” are pretty ladies, but they
+don’t have to be.&lt;/p&gt;
+
+&lt;p&gt;Once the victims are at the intended spot, the ambush is sprung, and the sand
+bride will use her sand-bending powers and dehydrating touch to kill the
+victims, leaving only dried husks behind.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Sand Brides are Medium Fey Humanoids and Level 10 Elite Controllers with an even
+200 HP. Despite being living beings they have Darkvision and are immune to
+disease and poison, traits commonly found in undead. Their ground speed is 8,
+and they have a burrow speed of 6. This &lt;em&gt;doesn’t&lt;/em&gt; say it’s for loose earth only,
+so they could theoretically tunnel through rock.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Sandform Body&lt;/strong&gt; lets them ignore all difficult terrain, tough they’re
+less diffuse than the dune constructs we saw previously. They attack in melee
+with a &lt;strong&gt;Dehydrating Touch&lt;/strong&gt; that deals necrotic damage and inflicts -2 to all
+defenses for a turn on a hit. At range, they use &lt;strong&gt;Sand Blasts&lt;/strong&gt; that deal
+physical damage and push 4 squares. &lt;strong&gt;Double Attack&lt;/strong&gt; lets them make two melee
+attacks per action.&lt;/p&gt;
+
+&lt;p&gt;They can also employ a &lt;strong&gt;Sand Drown&lt;/strong&gt; power (recharge 5+) if the PCs bunch up
+too much. This is an Area 1 Within 10 attack, dealing heavy physical damage and
+restraining on a hit.&lt;/p&gt;
+
+&lt;p&gt;Its ability to create illusory terrain is weaponized as an &lt;strong&gt;Insidious Mirage&lt;/strong&gt;
+(Encounter), which lets the Sand Bride create a zone 4 squares on a side that
+lasts until the end of the encounter. This counts as difficult terrain for
+enemies, lets the bride slide enemies who end their turns inside by up to 2
+squares as a free action, and can be moved by up to 4 squares as minor action.&lt;/p&gt;
+
+&lt;p&gt;And finally they have &lt;strong&gt;Deceptive Veil&lt;/strong&gt;, allowing them to appear as a humanoid
+of any species. Piercing the illusion requires an Insight contest against the
+bride’s Bluff skill of +15. This doesn’t &lt;em&gt;have&lt;/em&gt; to be a pretty lady, but it’s
+apparently traditional. The bride’s stats remain the same while disguised, and
+she can attack without dropping the illusion.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Sand brides target groups of travelers The creatures are fairly social with each
+other and will organize in groups. They can probably ally with other fey too, or
+have some Athasian beasts under their control ready to attack.&lt;/p&gt;
+
+&lt;p&gt;I’m not overly fond of vile seductress monsters but sand brides seem easy to
+reskin into something less cliche while keeping the same tactics.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/10/02/wir-dscc-sand-bride.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/02/wir-dscc-sand-bride.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Rampager</title>
@@ -1503,92 +1591,6 @@ interesting addition to any battlefield, where they’d be a constant hazard.&lt
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kank</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kank.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A jhakar, a stocky dog-lizard hybrid with a pug-like face.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Kanks are giant, beetle-like hive insects. A wild hive will viciously attack
-strangers and intruders, but they’re actually relatively easy to domesticate:
-just start feeding them. After a while, the kanks will start seeing those who
-bring them food as members of the hive.&lt;/p&gt;
-
-&lt;p&gt;Each hive has a queen that does little more than continuously lay eggs. The
-larvae that hatch from these eggs can specialize in one of two ways:&lt;/p&gt;
-
-&lt;p&gt;Kank spitters are the hive’s workers. Their duty is to forage for any sort of
-organic matter and process it into a nutritive nectar that is used to feed the
-hive (and extracted to feed people). They can store the noxious byproducts of
-this processing and spit them at intruders as a form of defense, hence their
-name.&lt;/p&gt;
-
-&lt;p&gt;Kank soldiers are very straightforward: they’re big, they’re strong, they have
-huge mandibles. Their duty is to protect spitters from threats. When properly
-trained, they’re also extremely popular war mounts.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Kank queens are too immobile to get combat stats, but we do get stats for the
-other two types. Both are Natural Beasts with a ground speed of 8 and Resist 5
-Acid and Poison.&lt;/p&gt;
-
-&lt;h3 id=&quot;kank-spitter&quot;&gt;Kank Spitter&lt;/h3&gt;
-
-&lt;p&gt;Spitters are Small but not defenseless. They’re Level 2 Artillery with 30
-HP. Their &lt;strong&gt;bites&lt;/strong&gt; do a mix of untyped and acid damage. Their &lt;strong&gt;Kank Spit&lt;/strong&gt; has
-range 10. On a hit it does a little bit of physical damage, inflicts ongoing 5
-acid damage, and slows (save ends). If the target was already slowed, it is
-immobilized instead.&lt;/p&gt;
-
-&lt;h3 id=&quot;kank-soldier&quot;&gt;Kank Soldier&lt;/h3&gt;
-
-&lt;p&gt;These Large kanks are Level 4 Soldiers with 54 HP and the Mount tag. Their
-&lt;strong&gt;bite&lt;/strong&gt; is rather weak to start with, but it grabs on a hit. Once the soldier
-has a grabbed victim, it can only bite that victim, but its bite attack gains +2
-to attack and +10 to damage.&lt;/p&gt;
-
-&lt;p&gt;The soldier can instead choose to inject the victim with &lt;strong&gt;Kank Venom&lt;/strong&gt;
-(recharge 5+), an attack that targets Fortitude, slows, and deals ongoing 10
-poison damage (save ends both). After the first saved throw, this worsens to
-immobilized.&lt;/p&gt;
-
-&lt;p&gt;If serving as a mount, their benefit is &lt;strong&gt;Grabbed Advantage&lt;/strong&gt;: this gives their
-rider combat advantage against the kank’s grabbed victim.&lt;/p&gt;
-
-&lt;p&gt;Kank soldiers don’t have marking mechanics, but they don’t need them. They’ll
-focus on a victim and try to keep it grabbed by their mandibles, using the venom
-as a parting shot if they have reason to release the grab.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I keep hearing about kanks in other Dark Sun Let’s Reads, so it’s nice to
-finally put a (bug) face to the name, so to speak. They feel more interesting to
-me than crodlus, both because they’re beetles and because they have a use other
-than “war mount” to their humanoid caretakers.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/19/wir-dscc-kank.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/19/wir-dscc-kank.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
