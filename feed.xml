@@ -6,9 +6,168 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Oct 2025 14:56:43 +0000</pubDate>
-    <lastBuildDate>Thu, 02 Oct 2025 14:56:43 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Oct 2025 21:26:58 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Oct 2025 21:26:58 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Silk Wyrm</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-silk-wyrm.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A silk wyrm, which looks like a very large snake covered in a segmented
+    green carapace, and whose grinning mouth is about three times as wide as its
+    head.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Silk Wyrms are snakelike monsters covered in chitinous carapaces. They’re gifted
+with many natural weapons: bites laced with paralytic venom and the psionic
+powers of flight, camouflage, and mesmerism.&lt;/p&gt;
+
+&lt;p&gt;Though incapable of communicating in humanoid languages they’re tenacious
+endurance predators who employ clever hunting strategies.&lt;/p&gt;
+
+&lt;p&gt;Silk Wyrms will shadow their intended prey for days, looking for a time when its
+guard is down. The book is not too specific about the nature of this prey. It
+could be an adventuring party, a traveling caravan with humanoids and several
+kinds of pack animal, or something like a pack of baazrags or other wild
+animals. What matters is that the prey is easy to hunt and can be eaten “fresh”,
+because silk wyrms apparently only eat their victims while they’re alive, and
+abandon them when they die.&lt;/p&gt;
+
+&lt;p&gt;When their intended targets are vulnerable, the silk wyrm will sneak in,
+paralyze a chosen victim, and devour them on the spot. If it manages to
+incapacitate more than one victim it will drag one of them to its nest, where it
+will trap them in silk strands and eat them over the course of the next few days
+while they’re still alive.&lt;/p&gt;
+
+&lt;p&gt;Silk wyrms band together as hatchlings, but as soon as they reach the adult
+stage their deeply antisocial instincts take over and they set off on their own
+to become lone hunters. Only after many years do they become wise enough to
+overcome this instinct and start allying with other creatures. Some manage to
+lead bands of their own younger kin, while others can ally with those creatures
+whose telepathy allows them to communicate with the wyrms and buy their service
+with easy food.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Silk Wyrms are Natural Magical Beasts with the Reptile tag and Low-Light
+Vision. All silk wyrms have a flight speed, but their flight is Clumsy, which
+means they have a -4 penalty to attacks and defenses while on the air. This
+means silk wyrms only fly to travel, but they prefer to fight on the ground.&lt;/p&gt;
+
+&lt;p&gt;We’ll look at their other traits in each stat block below.&lt;/p&gt;
+
+&lt;h3 id=&quot;silk-wyrm-hatchling&quot;&gt;Silk Wyrm Hatchling&lt;/h3&gt;
+
+&lt;p&gt;Too frail to set out on their own, hatchlings roam the wastes in bands,
+spreading out to scout for prey and emitting a loud chirping noise when they
+find it to call their clutch-mates. They’re Medium-sized Level 3 Minion
+Skirmishers, with ground and flight speeds of 6.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;Blood Scent&lt;/strong&gt; trait means their attacks against bloodied creatures
+ignore concealment. These will mostly be &lt;strong&gt;bites&lt;/strong&gt; that deal poison damage and
+slow for a turn. When the hatchling hits 0 HP, they release &lt;strong&gt;Silk Strands&lt;/strong&gt; as
+a last attack, which deal a bit of acid damage and restrain (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;silk-wyrm-adult&quot;&gt;Silk Wyrm Adult&lt;/h3&gt;
+
+&lt;p&gt;In their “lone hunter” phase, adults are Large-sized Level 3 Solo Skirmishers
+with 174 HP. Their flight speed increases to 8, but remains clumsy.&lt;/p&gt;
+
+&lt;p&gt;Adults retain &lt;strong&gt;Blood Scent&lt;/strong&gt;, which works exactly the same way. They will
+likely start the encounter in &lt;strong&gt;Shadow Form&lt;/strong&gt; (minor, recharges when first
+bloodied), which makes Insubstantial with Phasing and gives them +5 to Stealth
+while stopping it from attacking. It can get out of this with a free action, and
+will do so shortly after springing its ambush.&lt;/p&gt;
+
+&lt;p&gt;Once the wyrm appears in the middle of its targets, and again whenever the power
+is charged, it will use &lt;strong&gt;Mesmerizing Dread&lt;/strong&gt; (minor, recharge 4+), which deals
+psychic damage to enemies in a Close Burst 5, slides them 3 squares, and
+inflicts a -2 penalty to all defenses for a turn. Then it’s bite time.&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; deal more poison damage, since they’re not minions, and their
+venom becomes stronger. The target is slowed (save ends), which worsens to
+immobilized (save ends) on the first save and to helpless (save ends) on the
+second failure. &lt;strong&gt;Wyrm Strike&lt;/strong&gt; lets it bite two different targets with one
+action.&lt;/p&gt;
+
+&lt;p&gt;Helpless is a funny and very worrying condition. It’s funny because going
+strictly by the book, you can move and act normally while Helpless. However
+you’re never &lt;em&gt;just&lt;/em&gt; Helpless. The most common way to get this condition is to be
+unconscious. In this case, even on a strict reading you’ll still be Restrained
+when you fail your second save and become Helpless.&lt;/p&gt;
+
+&lt;p&gt;Being Helpless is worrying because it makes the victim grant combat advantage,
+and opens them up to the Coup de Grace action, which is an attack with any
+applicable power that auto-crits and kills the target outright if it deals more
+than their bloodied value in damage.&lt;/p&gt;
+
+&lt;p&gt;If the Silk Wyrm manages to get someone immobilized, restrained, or helpless, it
+will &lt;strong&gt;Feed&lt;/strong&gt; on them, attacking their Fortitide eating one of their healing
+surges, and healing 10 HP. There’s no damage other than this, apparently, which
+makes this attack a lot more forgiving in a fight than it would otherwise seem.&lt;/p&gt;
+
+&lt;p&gt;It someone hits the adult wyrm with a melee or close attack, it can respond with
+&lt;strong&gt;Silk Strands&lt;/strong&gt; as a reaction. This is a melee 3 attack vs. Reflex, dealing
+acid damage and restraining on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;silk-worm-elder&quot;&gt;Silk Worm Elder&lt;/h3&gt;
+
+&lt;p&gt;Elders have lived long enough to learn the value of teamwork despite or perhaps
+&lt;em&gt;because&lt;/em&gt; of the loss of their ability to project silk strands in combat. They
+band together with one another or with other powerful allies in order to survive
+and keep eating. They’re Level 14 Skirmishers with 125 HP. Not being solos, they
+don’t have a blanked +5 on all saves, but they still have that bonus on saves
+against Immobilized or Slowed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shadow Form&lt;/strong&gt; and &lt;strong&gt;Mesmerizing Dread&lt;/strong&gt; work exactly the same, with Shadow
+Form just making the wyrm Weakened instead of preventing attacks entirely. They
+can only &lt;strong&gt;bite&lt;/strong&gt; once per turn but their venom remains as potent as the
+adult’s.&lt;/p&gt;
+
+&lt;p&gt;The problem here is the damage: both Mesmerizing Dread and the basic bite do
+exactly the same damage as the adult’s, which is way, way below what it should
+be for a level 14 monster.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Feed&lt;/strong&gt;, on the other hand, does a huge chunk of physical damage (5d10+6) in
+addition to deleting a healing surge. It recharges when first bloodied instead
+of being at-will, but it no longer has any target restictions. They still really
+want to use this in a helpless target if they can, because it’s going to kill
+any helpless target with 112 maximum HP or less.&lt;/p&gt;
+
+&lt;p&gt;Still, outside of their one or two uses of Feed, elders are significantly less
+scary. The venom is still a concern, particularly if they have heavy hitters
+with them, but barring errata it seems to me elders were made to rush in, use
+Feed once or twice, and escape the fight using Shadow Form and &lt;strong&gt;Serpent
+Strike&lt;/strong&gt;, which they still have.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think the Lore section outlines possible silk wyrm encounters pretty well.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, the first two seem okay to me, but the elder is weird. The damage
+of their bites and Mesmerizing stare needs a buff. It’d make them more
+consistently dangerous despite making their Feed attack a little less impressive
+in comparison (as its 28 average damage is not a lot higher than the 22 their
+bites would need).&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/10/04/wir-dscc-silk-wyrm.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/04/wir-dscc-silk-wyrm.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Creature Catalog: Sand Bride</title>
@@ -1506,91 +1665,6 @@ will give PCs quite a fight.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>dnd4e</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kestrekel</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kestrekel.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A flock of kestrekels, who look like vultures with oversized serrated beaks.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Kestrekels are not to be confused with kestrels, which might not even exist in
-Athas. They’re basically Darker and Sunnier vultures, with a habit of gathering
-around creatures that are about to die in the wastes. They’re a lot more
-enthusiastic about hurrying the process along than their mundane counterpart,
-and while a single kestrekel isn’t much of a threat a whole flock of them can be
-very dangerous.&lt;/p&gt;
-
-&lt;p&gt;Those who want to turn the tables and hunt the birds instead might be able to
-draw them closer by feigning injury, but this rarely works - they’re a bit too
-clever for that tactic.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Kestrekels are Tiny Natural Beasts with a ground speed of 2 and a flight speed
-of 6. We get two stat blocks here.&lt;/p&gt;
-
-&lt;h3 id=&quot;kestrekel-carrion-eater&quot;&gt;Kestrekel Carrion Eater&lt;/h3&gt;
-
-&lt;p&gt;This one represents a single individual. It’s drawn to movement, so even a
-traveller who isn’t wounded or dying might find one or three of these staring at
-them from a distance, and following them for a while.&lt;/p&gt;
-
-&lt;p&gt;The kestrekel is a Level 1 Minion Skirmisher. Its &lt;strong&gt;claw&lt;/strong&gt; attack is stronger
-against bloodied targets, and its &lt;strong&gt;Darting Rake&lt;/strong&gt; at-will ability lets it shift
-3 squares and make a claw attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;kestrekel-blood-flock&quot;&gt;Kestrekel Blood Flock&lt;/h3&gt;
-
-&lt;p&gt;You might get a whole flock like this one on battlefields and similar places,
-where carrion abounds and its smell carries great distances. This is a Medium
-swarm of kestrekels, counting as a Level 2 Controller with 35 HP.&lt;/p&gt;
-
-&lt;p&gt;The flock has all standard swarm traits: half damage from melee and ranged
-attacks, vulnerable 5 to close and area attacks, can occupy enemy spaces, can
-squeeze past any opening large enough for a Tiny creature.&lt;/p&gt;
-
-&lt;p&gt;Its &lt;strong&gt;Swarm Attack&lt;/strong&gt; aura (1) deals a bit of physical damage to enemies caught
-inside, and also slows them for a turn when that happens. Its basic attack is a
-swarm of &lt;strong&gt;Scrabbling Claws&lt;/strong&gt;, which does standard physical damage with a small
-bonus against bloodied targets.&lt;/p&gt;
-
-&lt;p&gt;The flock’s sheer bloodlust is also a weapon: the &lt;strong&gt;Loathsome Feast&lt;/strong&gt; ability is
-a psychic attack that can be used if the flock is adjacent to a bloodied
-enemy. It attacks enemy Will in a close burst 3, deals psychic damage, and
-pushes each target hit a number of squares equal to their speed.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Whether you’re dealing with a few individuals or a whole flock, kestrekels are
-very opportunistic. They’ll stay away and watch until they see their victim is
-injured, sick, or dying. Then they dive in. Spilled blood also drives them into
-a frenzy, so they’re sure to join in on any fight that they see starting, intent
-on eating the combatants.&lt;/p&gt;
-
-&lt;p&gt;These things don’t exactly spark joy in me, but it feels like they’re an
-interesting addition to any battlefield, where they’d be a constant hazard.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/22/wir-dscc-kestrekel.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/22/wir-dscc-kestrekel.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
