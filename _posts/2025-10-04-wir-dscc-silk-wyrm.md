@@ -95,8 +95,8 @@ action.
 Helpless is a funny and very worrying condition. It's funny because going
 strictly by the book, you can move and act normally while Helpless. However
 you're never _just_ Helpless. The most common way to get this condition is to be
-unconscious. In this case, you'll still be Restrained when you fail your second
-save and become Helpless.
+unconscious. In this case, even on a strict reading you'll still be Restrained
+when you fail your second save and become Helpless.
 
 Being Helpless is worrying because it makes the victim grant combat advantage,
 and opens them up to the Coup de Grace action, which is an attack with any
