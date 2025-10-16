@@ -6,9 +6,145 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Oct 2025 21:26:58 +0000</pubDate>
-    <lastBuildDate>Sat, 04 Oct 2025 21:26:58 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Oct 2025 22:52:18 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Oct 2025 22:52:18 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Silt Horror</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-silt-horror.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A silt horror devouring a group of adventurers.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;As mentioned before, the only sea most Athasians know is the Sea of Silt. The
+name here is pretty descriptive - an endless expanse of silvery dust that makes
+up the eastern “border” of the Tyr Region. You can sail on it using special
+vessels, and its depths conceal many ruins of extinct civilizations, as well as
+an extensive ecosystem that’s a mystery to most surfacers.&lt;/p&gt;
+
+&lt;p&gt;Those who have more experience with the Sea of Silt might know of the &lt;a href=&quot;/octopus-carnival/2025/06/10/wir-dscc-floating-mantle.html&quot;&gt;Floating
+Mantles&lt;/a&gt; who sometimes wander into land, but the thing they fear the most is
+the aptly named Silt Horror. These enormous beasts are more or less Darker and
+Sunnier krakens, emerging from the deep to wrestle entire ships with their
+grasping tentacles and devour them with their bottomless maws.&lt;/p&gt;
+
+&lt;p&gt;And that’s for the “basic” version that appears close to shore, the one with
+white tentacles. Silt sailors who have ventured further away from shore come
+back with stories about horrors with brown or gray tentacles who are even
+larger - some of them larger than entire city-states. Are these tales true? Who
+knows? It’s not like it’s easy to fact-check them.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We only get the “basic” white-tentacled silt horror here. The bigger versions,
+if they exist, are left as an exercise for the GM. Unlike a standard D&amp;amp;D Kraken,
+the silt horror is not sapient, but that doesn’t make it less dangerous.&lt;/p&gt;
+
+&lt;p&gt;The creature is so large that we get a stat block for the main body and a couple
+of different stat blocks for its tentacles, which act like minions and
+regenerate fast enough to keep coming back in the same fight after being
+“slain”.&lt;/p&gt;
+
+&lt;h3 id=&quot;silt-horror&quot;&gt;Silt Horror&lt;/h3&gt;
+
+&lt;p&gt;The main body of the creature is a Huge Aberrant Beast and a Level 12 Solo
+Lurker with 496 HP. It has a ground speed of 2 and a burrow speed of 6 on soft
+earth, which is like a swim speed on the Sea of Silt. It’s Blind, and therefore
+immune to the blinded conditions and to all gaze attacks. It perceives the world
+via Termorsense 20.&lt;/p&gt;
+
+&lt;p&gt;The horror’s main trait covers its &lt;strong&gt;Regenerating Tentacles&lt;/strong&gt;. Any time when the
+horror has less than 4 tentacles within 20 squares of itself, a number of new
+tentacles appear until it has 4. The horror chooses which types they are from
+the three available (constricting, raking, sweeping). They appear above ground
+even if the main body is burrowing, and act on their own initiative, rolled when
+they appear.&lt;/p&gt;
+
+&lt;p&gt;The main body itself has a fairly basic &lt;strong&gt;Bite&lt;/strong&gt; attack, but the star of the
+show here is the &lt;strong&gt;Chomping Maw&lt;/strong&gt; maneuver, which deals almost double the damage
+and can target up to two creatures. The restriction here is that the main body
+must be entirely underground to attack, and the targets must be grabbed by
+tentacles.&lt;/p&gt;
+
+&lt;p&gt;As a move action, it can &lt;strong&gt;Submerge&lt;/strong&gt;, burrowing its way to a space that’s
+entirely underground. This recharges whenever it’s on the surface, so it’s more
+or less at will. And when one of its tentacles is reduced to 0 HP with a melee
+attack, it can make a free melee attack of its own before disappearing, dealing
+10 extra damage and pushing the triggering PC 5 squares instead of grabbing
+them.&lt;/p&gt;
+
+&lt;h3 id=&quot;silt-horror-tentacles&quot;&gt;Silt Horror Tentacles&lt;/h3&gt;
+
+&lt;p&gt;All three tentacle types are very similar to each other, so we’ll cover them
+in the same entry.&lt;/p&gt;
+
+&lt;p&gt;First, the common traits: all three are Level 12 Minions. They have ground and
+burrow speeds of 6, and act as sensory organs with the same Tremorsense 20 as
+the main body. They’re obviously &lt;strong&gt;Attached&lt;/strong&gt; to the silt horror and cannot be
+more than 20 squares from the main body. They’re also &lt;strong&gt;Unhindered&lt;/strong&gt;, which as
+we know means they can pull any grabbed victims along with them when they move.&lt;/p&gt;
+
+&lt;p&gt;All three tentacles have a basic &lt;strong&gt;Seize&lt;/strong&gt; attack, which deals physical damage
+and grabs the victim. The stats that vary between the three types are their
+creature roles, and what they can do with a grabbed victim using their second
+attack.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Constricting&lt;/strong&gt; tentacles are Soldiers and their &lt;strong&gt;Constricting Grab&lt;/strong&gt;
+damages and dazes the victim for a turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Raking&lt;/strong&gt; tentacles are Skirmishers and their &lt;strong&gt;Sweeping Grab&lt;/strong&gt; damages and
+slides the victim 3 squares to a space adjacent to the tentacle.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sweeping&lt;/strong&gt; tentacles are Brutes and their &lt;strong&gt;Suffocating Grab&lt;/strong&gt; damages and
+knocks prone.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Even after the special attacks, the victims remain grabbed - use the standard
+rules to try to get away.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Silt Horrors will most likely be found alone. They’re not sapient so they don’t
+form alliances, and they’re impossible to tame. At most you might find them
+already fighting another victim, such as a different ship, or a giant who was
+wading through the Sea. These fellow targets might be friendly to the PCs, or
+they might not.&lt;/p&gt;
+
+&lt;p&gt;Another possibility is an horror intruding upon an already ongoing fight against
+those other ships or giants…&lt;/p&gt;
+
+&lt;p&gt;The mechanics here are very interesting. The tentacles want to grab as many
+victims as possible and do nasty things to them while bringing them closer to
+the main body’s location. The main body wants to stay underground until two
+victims are in reach, use Chomping Maw on them, and then use Submerge to get
+away again. As long as at least one PC remains grabbed, the horror could do this
+every turn.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/10/16/wir-dscc-silt-horror.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/16/wir-dscc-silt-horror.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Silk Wyrm</title>
@@ -1578,93 +1714,6 @@ drake or other suitable giant creature.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Kirre</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-kirre.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A kirre, looking like a horned green tiger with eight legs.
-    Copyright 2010 Wizards of the Coast.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Kirres manage to feel like exotic alien creatures both to us in the real world
-and to characters in Athas. To us, it’s because they have eight legs and a pair
-of horns. To Athasians, it’s because they’re fur-covered mammals.&lt;/p&gt;
-
-&lt;p&gt;These felines live in Athas’ rare forests and jungles, such as the Crescent
-Forest and the same Forest Ridge where halflings live. They gather in small
-prides, and are clever and cautious hunters.&lt;/p&gt;
-
-&lt;p&gt;Instead of simply charging in, a kirre who isn’t desperately hungry will stalk
-its prey for hours to evaluate its capabilities and behavior, and will adapt its
-tactics to ensure their success. With some, they might be extra-sneaky and
-attack when the prey’s guard is down. With others, they might harass and make
-noises to scare the prey into making a foolish mistake.&lt;/p&gt;
-
-&lt;p&gt;The book entry mentions that kirres are only one of several species descended
-from ancient great cats. Other names mentioned are tigones and “the reptilian
-lirr”, though these two aren’t present in the book.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We only have one stat block here.&lt;/p&gt;
-
-&lt;h3 id=&quot;kirre&quot;&gt;Kirre&lt;/h3&gt;
-
-&lt;p&gt;The kirre is a Large Natural Magical Beast, and a Level 13 Skirmisher with 131
-HP. It has a Speed of 8.&lt;/p&gt;
-
-&lt;p&gt;It has two basic attacks: a &lt;strong&gt;bite&lt;/strong&gt; and a slightly weaker &lt;strong&gt;claw&lt;/strong&gt; that slows
-for a turn on a hit. The &lt;strong&gt;Double Attack&lt;/strong&gt; at-will ability lets it make two claw
-attacks in one action.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Springing Pounce&lt;/strong&gt; lets the kirre bite, shift 4 squares, and bite again. This
-becomes a nice fight opener when combined with the &lt;strong&gt;Scattering Leap&lt;/strong&gt;
-move-action encounter power, which lets the beast jump 6 squares, push adjacent
-enemies at the destination 2 squares, and then shift 2 squares to follow one of
-those enemies. The Pounce recharges when the creature is bloodied, which also
-makes it useful for escaping a dicey situation.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter it can also use a &lt;strong&gt;Forceful Roar&lt;/strong&gt; that attacks the
-Fortitude of enemies in a Close Blast 3. On a hit it deals force damage, pushes
-2 squares, and knocks prone.&lt;/p&gt;
-
-&lt;p&gt;When an enemy moves to a square where it flanks the kirre, it can use its
-&lt;strong&gt;Barbed Tail&lt;/strong&gt; to fend then off, making a Reach 2 melee attack that knocks
-prone and inflicts 10 ongoing damage (save ends) on a hit.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Kirres are smart enough to ally with creatures of other species, though they
-demand that their allies be at least as smart as themselves. Those who aren’t
-will be treated as prey instead. This is a low bar for other sapient creatures
-to clear, which means they will sometimes even accept humanoids as pack
-mates. They can be most often found in the company of halflings, though goliaths
-and giths that live in greener areas are also known to ally with kirres.&lt;/p&gt;
-
-&lt;p&gt;They’re regular monsters, but their spread of abilities means they fight like
-elites! An encounter featuring a pair of kirres and a handful of humanoid allies
-will give PCs quite a fight.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/28/wir-dscc-kirre.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/28/wir-dscc-kirre.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        <category>dnd4e</category>
         
         
       </item>
