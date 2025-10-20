@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Oct 2025 00:09:24 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Oct 2025 00:09:24 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Oct 2025 00:28:14 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:28:14 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -35,6 +35,10 @@ and other damp and dark places, like many dungeons.&lt;/p&gt;
 &lt;p&gt;At least one investigator on the surface is known to carry a potted recap around
 in a specially built cage, using it for its original purpose when questioning
 suspects.&lt;/p&gt;
+
+&lt;p&gt;Even if the victim manages to resist the mind reading attempt, the recap
+will still speak a bunch of unconnected nonsense words for a minute or so. Those
+who are mainly concerned about noise should refrain from touching them at all.&lt;/p&gt;
 
 &lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
 
@@ -66,18 +70,18 @@ cluster harmless for as long as it lasts.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Save&lt;/em&gt;: Quick Contest of &lt;strong&gt;Will&lt;/strong&gt; against skill 16 to avoid having your mind
 read. &lt;strong&gt;Magic Resistance&lt;/strong&gt; helps.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Effect&lt;/em&gt;: If the target won the contest of Will, this will be a string of
-nonsense words. If they lost, the recap will summarize the previous week of
-their lives as if it was the last episode of a radio serial, potentially airing
-some dirty laundry.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Effect&lt;/em&gt;: About a minute of loud noises. If the target won the contest of Will,
+this will be a string of nonsense words. If they lost, the recap will summarize
+the previous week of their lives as if it was the last episode of a radio
+serial, potentially airing some dirty laundry.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Shots&lt;/em&gt;: Constant.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Rearm&lt;/em&gt;: No.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Steal&lt;/em&gt;: Roll against &lt;strong&gt;Naturalist&lt;/strong&gt; to harvest one large, healthy recap
-specimen per hex. This is worth $1000 if delivered intact to the right people
-back in town.&lt;/p&gt;
+specimen per hex. This weights 1 lb. and is worth $1000 if delivered intact to
+the right people back in town.&lt;/p&gt;
 
 &lt;h3 id=&quot;recap-inquisitor&quot;&gt;Recap Inquisitor&lt;/h3&gt;
 
