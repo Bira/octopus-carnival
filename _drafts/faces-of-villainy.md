@@ -52,17 +52,17 @@ tangible in the fiction, but it's an excellent out-of-character adventure design
 tool. So let's use it that way!
 
 When you pick a megacorp or other big org as your antagonist for this adventure,
-its face is whoever is directly responsible for the PC's predicament in that
-adventure. They're the ones calling the shots on today's sinister scheme, the
-ones who stand to benefit the most from it, and the ones who will suffer the
-consequences of whatever the PCs do to thwart it. This _might_ be the person in
-charge of the whole corp at high enough levels of play, but it will be someone
-lower at the hierarchy in most scenarios.
+its Face is whoever is directly responsible for the PC's predicament in that
+adventure. This individual is the one calling the shots on today's sinister
+scheme, the one who stands to benefit the most from it, and the one who will
+suffer the consequences of whatever the PCs do to thwart them. This _might_ be the
+person in charge of the whole corp at high enough levels of play, but it will be
+someone lower at the hierarchy in most scenarios.
 
 A "local Face" helps bring things into sharper focus. They have a specific
 personality, they have character flaws, they have imperfect knowledge, and a
 constrained set of resources to call upon. Maybe your street rats have no chance
-of taking down the entire Arasaka corporation, but the lecherous local manager
+of taking on the entire Arasaka corporation, but the lecherous local manager
 who's trying to demolish that orphanage and has a few paid-off gangers and a
 small team of bodyguards at his disposal is another story.
 
@@ -70,9 +70,9 @@ Cyberpunk corporations and equivalent orgs are full of viciously feuding
 factions who spend more time tearing each other apart than doing their actual
 jobs. That means that when you defeat the Face, the immediate problem does go
 away. Even if the villain survives the party, their rivals capitalize on the
-defeat and get the Face framed, demoted, fired, killed, or worse. The resources
-at their command get re-allocated to the rivals, who go on to annoy someone
-else.
+defeat and get the Face transferred, framed, demoted, fired, killed, or
+worse. The resources at their command get re-allocated to the rivals, who go on
+to annoy someone else.
 
 The orphanage stays safe, at least for now. And no one's going to send death
 squads to enact revenge on the PCs. Heck, the Face's rivals are probably even a
