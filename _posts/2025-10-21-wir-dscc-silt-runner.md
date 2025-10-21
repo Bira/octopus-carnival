@@ -25,7 +25,7 @@ This post is part of a series! Click [here][1] to see the rest.
 Silt Runners are basically Athasian Kobolds. While they're not described as
 "savage", all of the usual kobold slander is also present here. They're small
 reptilian humanoids who are intensely xenophobic and whose entire society is
-based on raiding other humanoid settlements. They wield stolen weapons, and wear
+based on raiding other humanoid settlements. They wield stolen weapons and wear
 bits of clothing and body parts from their victims as trophies, eating the rest.
 
 The main differences here seem to be that Silt Runners are more related to
