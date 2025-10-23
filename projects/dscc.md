@@ -91,6 +91,8 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Silk Wyrm][42]
   - [Silt Horror][43]
   - [Silt Runner][44]
+  - [Spider][45]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -136,3 +138,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [42]: {{ "/2025/10/04/wir-dscc-silk-wyrm.html" | relative_url }}
 [43]: {{ "/2025/10/16/wir-dscc-silt-horror.html" | relative_url }}
 [44]: {{ "/2025/10/21/wir-dscc-silt-runner.html" | relative_url }}
+[45]: {{ "/2025/10/23/wir-dscc-spider.html" | relative_url }}

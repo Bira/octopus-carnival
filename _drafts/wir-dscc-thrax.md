@@ -59,7 +59,8 @@ The thrax shown here is Medium Natural Humanoid (undead) and a Level 11 Lurker
 with 88 HP, putting it about on par with the traditional vampires from the
 Monster Vault. It has darkvision, Resist 10 Necrotic, and Vulnerable 5
 Radiant. Unlike a lot of other undead, it has no special resistance against
-poison and disease.
+poison and disease. And unlike a traditional vampire, it is not vulnerable to
+natural sunlight.
 
 Thraxes are surrounded by **Roiling Shadows** which give them +2 to defenses
 against ranged attacks, and their **Clinging Grasp** makes them insubstantial
@@ -88,7 +89,7 @@ in the heat from all those layers they tend to wear.
 
 Thraxes will probably only join up with other thraxes, and a fight against five
 of them will be nightmarish for the party. You could also mix it up with other
-undead types. Maybe angry ghosts, or the animated corpses of their dried-out
-victims.
+relatively "dry" undead types. Maybe angry ghosts, or the animated corpses of
+their dried-out victims.
 
 [1]: {{ "/projects/dscc/" | relative_url }}
