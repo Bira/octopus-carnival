@@ -6,9 +6,104 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Oct 2025 20:05:35 +0000</pubDate>
-    <lastBuildDate>Thu, 23 Oct 2025 20:05:35 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Nov 2025 19:09:21 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Nov 2025 19:09:21 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Ssurran</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-ssurran.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A ssurran, which looks like a lizard persion with tan scales, standing
+    on a desert ridge and armed with a bone pick.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
+
+&lt;p&gt;I believe this entry confirms that different monster entries in the Catalog are
+written by different authors, because its description of Athasian lizardfolk is
+as even-handed and respectful as the one for muls was racist, and they’re not
+even playable by default!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;As mentioned above, ssurrans are Athasian lizardfolk. They’re as adapted to the
+desert wastes as their relatives from other worlds are to swamps. Like all other
+humanoids in Athas, their daily goal is survival.&lt;/p&gt;
+
+&lt;p&gt;Ssurrans (also known as “sandscale lizardfolk”) organize in nomadic tribes made
+up of several family groups and a number of reptilian beasts that serve the
+usual purposes from hauling cargo to helping in fights. They hunt, forage, and
+sometimes raid while on the move.&lt;/p&gt;
+
+&lt;p&gt;Ssurran raids on settled communities are downright merciful when compared to
+most others described so far. They allow the inhabitants to flee and only kill
+those who try to fight back. Then they steal every usable good they can carry
+and move away, taking care to erase their tracks and lay some false trails to
+deter pursuers.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Ssurrans are Medium Natural Humanoids with the Reptile and Lizardfolk tags. They
+have a ground speed of 6 with Earth Walk, and speak Draconic. While this entry
+only has two stat blocks, it does outright say that you can take any standard
+lizardfolk from other books and replace Swamp Walk with Earth Walk to get a
+sandscale version. You can also apply one of the monster themes found in the
+back half of the book (and which we’ll see eventually).&lt;/p&gt;
+
+&lt;h3 id=&quot;ssurran-shaman&quot;&gt;Ssurran Shaman&lt;/h3&gt;
+
+&lt;p&gt;Sandscales have a long tradition of worshipping the sun and related primal
+spirits. A shaman’s duties also include preserving their tribe’s oral history
+and culture.&lt;/p&gt;
+
+&lt;p&gt;Your typical ssurran shaman is a Level 3 Controller with 47 HP. They fight with
+a Spear that damages and pushes 1 square on a hit, and can cast at-will &lt;strong&gt;Sun
+Curses&lt;/strong&gt; (ranged 5 vs. Reflex) that deal fire damage and daze for a turn. Their
+&lt;strong&gt;Treacherous Spirit&lt;/strong&gt; spell (ranged 5 vs. Will, recharge on a miss) dominates
+the target (save ends).&lt;/p&gt;
+
+&lt;p&gt;Despite their low-level, ssurran shamans are pretty dangerous and are likely to
+be an unfortunate PC party’s first introduction to the Dazed and Dominated
+conditions.&lt;/p&gt;
+
+&lt;h3 id=&quot;ssurran-hunter&quot;&gt;Ssurran Hunter&lt;/h3&gt;
+
+&lt;p&gt;These make up the bulk of any ssurran scout, hunting, or raiding party. They’re
+Level 4 Minion Skirmishers that fight with &lt;strong&gt;picks&lt;/strong&gt; that deal a little extra
+damage to enemies granting Combat Advantage. If an enemy hits one of their
+adjacent allies, the hunter can use &lt;strong&gt;Sidestep&lt;/strong&gt; as a reaction to shift 1
+square.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Ssurran tribes tend to stick together. Lone lizardfolk will either be outcasts,
+or the last survivors of their tribes. Sometimes, slavers kidnap their young for
+sale as “exotic merchandise”, so they might be found among enslaved guards or
+gladiators.&lt;/p&gt;
+
+&lt;p&gt;I really like the way they were described in the book - my text here is barely
+paraphrased. Simply by describing these lizardfolk as &lt;em&gt;people&lt;/em&gt;, it already
+allows me to imagine a bunch of situations where they’re potential oposition but
+where things can still be solved by means other than murder. They also make
+great potential allies in many other scenarios, because even when a group of
+ssurrans is not nice there will likely be someone much worse nearby.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Spider</title>
@@ -1127,137 +1222,6 @@ complete the transformation and slay their packmates.&lt;/p&gt;
         <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/09/26/wir-dscc-nightmare-beast.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/26/wir-dscc-nightmare-beast.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mul</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-mul.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A mul rebel about to bash some slaver&apos;s skull in with a rock.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;The text for this entry sounds really fucking racist. It can’t decide whether to
-talk about muls as if they were non-sapient animals or whether to stick to the
-old “stupid and brutal savage” cliches. Therefore, I’ll paraphrase and summarize
-it more aggressively than I do most other entries, and also pull stuff from the
-much more even-handed text in the Campaign Guide.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Muls are half-dwarves, born from the union of a human and a dwarf. They’re
-taller than humans on average, and combine dwarven strength and endurance with
-human physical and mental agility. Most muls are born into slavery, as they were
-originally a sorcerer-king eugenics project.&lt;/p&gt;
-
-&lt;p&gt;Muls resent slavery just as much as anyone else, and their strong wills and
-bodies usually often put them in a position to do something about it. They often
-rebel and turn on their oppressors, and you can find communities of free muls
-making a life out in the wastes and organizing to strike back at the
-sorcerer-kings.&lt;/p&gt;
-
-&lt;p&gt;Despite their aptitude for resistance, muls are popular as gladiators, which
-means a lot of them receive combat training from their enslavers. Most muls the
-PCs encounter will have some degree of skill at fighting, and free individuals
-often go on to work as mercenaries and bodyguards because of this.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Muls are Medium Natural Humanoids with a ground speed of 6. Their signature
-trait is the same &lt;strong&gt;Incredible Toughness&lt;/strong&gt; mul PCs get. Once per encounter, at
-the start of their turns, they can automatically end a ongoing damage effect or
-the dazed, slowed, stunned, or weakened conditions. This applies both to (save
-ends) effects, and to those that would last until the end of the turn, which
-makes this ability really useful.&lt;/p&gt;
-
-&lt;h3 id=&quot;mul-gladiator&quot;&gt;Mul Gladiator&lt;/h3&gt;
-
-&lt;p&gt;Trained and forced to fight in the arena, the mul gladiator is head and
-shoulders above his human rivals both literally and in terms of skill. He’s a
-Level 4 Elite Soldier with 112 HP. He wields a &lt;strong&gt;warhammer&lt;/strong&gt; and can use a
-&lt;strong&gt;Double Sweep&lt;/strong&gt; maneuver to attack twice in the same action, knocking the
-target prone if both attacks hit. If an adjacent prone enemy stands up, the
-gladiator can use a &lt;strong&gt;Pursuing Shove&lt;/strong&gt; to attack their Fortitude. On a hit, he
-pushes the target 3 squares and shifts 3 squares to follow.&lt;/p&gt;
-
-&lt;h3 id=&quot;mul-chainfighter&quot;&gt;Mul Chainfighter&lt;/h3&gt;
-
-&lt;p&gt;This could represent a more experienced gladiator or bodyguard, or a free
-agent like a mercenary. It’s a Level 8 Brute with 106 HP.&lt;/p&gt;
-
-&lt;p&gt;The chainfighter wields a &lt;strong&gt;Cahulaks&lt;/strong&gt; as their main weapon. This is a Dark Sun
-weapon introduced in the Campaign Guide: a length of chain with barbed
-grappling hooks on either end. Its attacks have Reach 2, or Reach 1 if the
-chainfighter has a creature grabbed.&lt;/p&gt;
-
-&lt;p&gt;Grabs happen via the &lt;strong&gt;Ensnaring Tines&lt;/strong&gt; maneuver, a Reach 2 attack that pulls
-the target 1 square and grabs them if they end up adjacent to the mul, who can
-grab at most one victim at a time in this way.&lt;/p&gt;
-
-&lt;p&gt;If the grabbed victim attempts to escape and fails, the chainfighter can use
-&lt;strong&gt;Wicked Ensnarement&lt;/strong&gt; (vs. Fortitude) as a reaction. On a hit, this deals a bit
-of damage and knocks the target prone.&lt;/p&gt;
-
-&lt;h3 id=&quot;mul-savage&quot;&gt;Mul Savage&lt;/h3&gt;
-
-&lt;p&gt;This unfortunately-named stat block is meant to represent a free mul that is
-used to surviving in the wastes. It’s a Level 9 Brute with 120 HP and the Leader
-tag.&lt;/p&gt;
-
-&lt;p&gt;The tag is justified by the &lt;strong&gt;Furious Inspiration&lt;/strong&gt; aura (5) projected by the
-mul. Whenever an ally inside the aura becomes bloodied they can make a melee
-basic attack as a free action.&lt;/p&gt;
-
-&lt;p&gt;This warrior fights with a &lt;strong&gt;Bone-Studded Greatclub&lt;/strong&gt;, whose attacks damage and
-knock prone on a hit. When first bloodied, his &lt;strong&gt;Bloodied Fury&lt;/strong&gt; lets him make
-the same attack against every enemy in a Close Burst 1, additionally pushing
-them 2 squares on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;mul-champion&quot;&gt;Mul Champion&lt;/h3&gt;
-
-&lt;p&gt;A prominent figure in the rebel movements against the sorcerer-king, champions
-inspire others to take up the fight through their deeds. Like the chainfighter,
-the champion wields cahulaks, but they’re a lot more skilled with the
-weapon. Champions are Level 17 Soldiers with 167 HP.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;Cahulaks&lt;/strong&gt; attack works exactly like the chainfighter’s, with
-better numbers. Their &lt;strong&gt;Snagging Tines&lt;/strong&gt; maneuver is Reach 2 and grabs on a hit,
-but it &lt;em&gt;doesn’t&lt;/em&gt; pull: the champion can maintain a grab at up to
-Reach 2. &lt;strong&gt;Swinging Hook&lt;/strong&gt; (Encounter) lets them slide a grabbed target 4
-squares as an effect, maintaining the grab if the target is within 2 squares of
-the champion at the end of the movement. At the end of the movement the champion
-makes an attack both against the grabbed target and an enemy adjacent to that
-target, damaging and knocking them prone on a hit.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, the &lt;strong&gt;Champion’s Gaze&lt;/strong&gt; marks every enemy in a Close Burst 2
-for a turn. If a marked enemy makes an attack that doesn’t target the champion,
-they open themselves to a &lt;strong&gt;Wicked Parry&lt;/strong&gt;, a reach 2 interrupt that damages and
-inflicts a -2 penalty to the triggering attack.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The book completes its collection of fantasy racism cliches by stating that
-neither humans nor dwarves like muls very much. Nevertheless, they can be found
-in Mixed Groups of People as bodyguards, enforcers, and so on.&lt;/p&gt;
-
-&lt;p&gt;I liked the stat blocks because they’re relatively simple and each has One Neat
-Trick. Shame about the fluff, but as you saw it’s relatively easy to fix.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/09/25/wir-dscc-mul.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/25/wir-dscc-mul.html</guid>
         
         <category>dnd4</category>
         
