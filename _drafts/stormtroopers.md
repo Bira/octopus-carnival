@@ -28,9 +28,9 @@ large groups, commanded by officers in gray uniforms or directly by big-name
 villains like Darth Vader.
 
 The first Star Wars movie, A New Hope, describes them as having a fearsome
-reputation. In practice, though, they're classic mooks, only dangerous in very
-large numbers. Usually, the most they accomplish against the film's heroes is
-making those heroes look badass.
+reputation. Against player characters, though, they're classic mooks, only
+dangerous in very large numbers. Usually, the most they accomplish against the
+film's heroes is making those heroes look badass.
 
 Though they're not the first Space Mooks, they're one of the classics and likely
 the first ones most of us were exposed to. The dissonance between their
@@ -48,9 +48,11 @@ look[^1].
 
 The way the historical Nazis worked[^2] was by by creating parallel
 organizations that would serve as the "inner circle" that held the real power
-and influence in an area. And after a while, when that circle got too influent,
-they'd create another one and spread that _this_ was there the real chosen ones
-were.
+and influence in an area. The initial motivation for this was often that the
+original institutions would refuse to "play ball" and commit the atrocities
+their new bosses wanted. And after a while, when that inner circle became too
+influent, they'd create another one and spread that _this_ was there the real
+chosen ones were.
 
 The regular army's no good, all the really loyal badasses join the
 stormtroopers/brownshirts. Then suddenly the brownshirts aren't "it" anymore,
@@ -58,7 +60,9 @@ and the real inner circle is the SS. And I think there were a few other
 iterations like that before they were all stomped flat in WW2. It's worth
 nothing that the members of such "inner circles" weren't necessarily more
 _competent_ than their pleb colleagues, just more loyal to the regime and more
-willing to commit atrocities in its name.
+willing to commit atrocities in its name. If you live in the US in 2025, you
+might have noticed this pattern beginning to repeat itself with some different
+details.
 
 The "history" of stormtroopers differs a bit from that of the real world, of
 course. The bits of Star Wars history we're concerned about here are the three
@@ -77,9 +81,10 @@ be noted in each force's entry.
 The Star Wars prequel trilogy tells us about the fall of the Galactic Republic,
 and the rise of the Empire. This sneaky asshole senator named Palpatine
 manufactured a war against a coalition of separatist planets and then handed the
-Republic a clone army on a platter so that they could fight it. He'd later use
-secret implanted instructions to have the Clones perform a violent takeover of
-the Republic.
+Republic a clone army on a platter so that they could fight it. The
+justification for their existence is that they're needed to fight the massive
+droid armies of the separatists, but the real reason is that they're programmed
+to help with Palpatine's hostile takeover of the Republic when the time comes.
 
 The Clones, then, are our first layer of the onion, supplanting those disparate
 planetary forces. Clones are mass-produced by a planet of biotech specialists,
@@ -93,6 +98,12 @@ the setup described above, and because they decided to not look too closely into
 that indoctrination. When Order 66 is given, the vast majority of clones
 instantly switch from being "our guys" to murdering all the Jedi and everyone
 else who could oppose Palpatine's power grab.
+
+The separatist droid army is also a textbook mook force, of course. Possibly an
+even more ideal one than the clones, as you don't have to hide the fact that
+they're programmed to commit war crimes. I'm guessing Palpatine set them up as
+the opposing force here to exploit existing anti-droid prejudice in the
+Republic.
 
 ### The Main Trilogy
 
@@ -116,7 +127,7 @@ competent, so when they appear they tend to be named villains.
 Darth Vader and all of the people who directly reported to him feel like they'd
 be the core of this particular onion... after all, he was the Emperor's personal
 disciple. But even in at the start of the main trilogy, you see that there's a
-group of high-ranking Imperial officers who are competing wit him for that
+group of high-ranking Imperial officers who are competing with him for that
 spot. So you definitely have room to have multiple organizations all of which
 claim to be the top dogs of the Imperial forces in your campaigns.
 
@@ -133,11 +144,12 @@ Hugo Boss uniforms is already there and growing. Kylo Ren is our wannabe Vader
 here, and he's also already clashing with the officer corps to see who deserves
 to be at the top.
 
-First order stormtroopers supplement their traditional recruiting with forcibly
+First Order stormtroopers supplement their traditional recruiting with forcibly
 kidnapped children that undergo similar indoctrination and training to the
-clones of yesteryear. There are no "special units" of extra-badass troopers with
-different armor, but you get more instances of random troopers who turn out to
-not be mooks, and who give our heroes some more trouble all by themselves.
+clones of yesteryear. The only "special unit" with different armor seem to be
+the guards at the throne room for their supreme leader Snoke, but you also get
+more instances of troopers who turn out to not be mooks, and to take a little
+more work to defeat.
 
 ## Trooper Gear
 
@@ -206,8 +218,8 @@ probably use the stats for HEC (p. UT154) or Plasma ( p. UT158) hand grenades.
 Melee weapons are pretty much non-existent in most of the movies, but when they
 are present they usually resemble staffs, batons or tonfas with a Neurolash
 add-on (p. UT165) tuned for paralysis or pain. The power field these weapons
-generate lets them parry light-sabers, making them dangerous in the hands of
-skilled wielders.
+generate lets them parry light-sabers, making them dangerous to Jedi in the
+hands of skilled wielders.
 
 ## Trooper Training and Tactics
 
@@ -231,7 +243,9 @@ battles against large forces of them quite dangerous despite their individual
 weakness! The preferred way to deal with an army of troopers is to get around
 them and only fight as many as you must. If a pitched battle does happen, you
 need to take out enough of them for their commanders to give up, because they're
-not going to decide to run away on their own.
+not going to decide to run away on their own. Aiming for the commanders
+themselves is also an option, though the commanders tend to know this and take
+measures to protect themselves.
 
 ## Specials and Elites
 
@@ -261,7 +275,7 @@ tends to be a different color or have some other obvious visual marker
 separating them from the riff-raff. Their weapons and armor might be better:
 hardsuits instead of the basic armor, rifles instead of carbines, polearms
 instead of clubs. They also tend to have additional equipment that makes a
-difference in a fight, like grenades.
+difference in a fight, like grenades. Their skills might be as high as 15.
 
 When one (or a unit) of these shows up, it's usually as the honor guard for a
 villainous NPC, or as the security detail for a major adventure

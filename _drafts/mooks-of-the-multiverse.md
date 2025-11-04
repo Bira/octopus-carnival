@@ -35,10 +35,17 @@ a large mob is a danger that needs to be managed. "Small" and "large" are
 relative - the more mult-target attacks the PCs have, the more minions they can
 handle safely.
 
-Minions only fight using the most basic maneuvers to both attack and protect
-themselves. They can make active defense rolls, but a single solid hit will take
-them out of the fight. Whether that means they're dead, injured, or even running
-away depends on the specific context, but they're out.
+Narratively, their role is to serve as _obstacles_. Defeating mooks is never a
+goal in itself - they're a symptom of the threat or evil the PCs are facing,
+never the cause. Sure, they must be defeated in specific combat scenes because
+they're trying to kill the PCs, but their demise will not slow the villain's
+plans. No matter how many the PCs take out there will be more to replace them,
+until the root cause of the problem is addressed.
+
+Mechanically, minions only fight using the most basic maneuvers to both attack
+and protect themselves. They can make active defense rolls, but a single solid
+hit will take them out of the fight. Whether that means they're dead, injured,
+or even running away depends on the specific context, but they're out.
 
 In the original article I interpret "a solid hit" to mean any hit that does at
 least 1 point of injury after armor. Depending on the setting we're talking
