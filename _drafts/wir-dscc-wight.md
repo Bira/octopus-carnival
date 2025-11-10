@@ -7,6 +7,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-wight.png" | absolute_url }}"/>
+  <figcaption>
+    A wight posing in a threatening manner.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Athasian wights are, at their root, pretty much the same as standard ones:

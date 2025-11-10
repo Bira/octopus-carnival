@@ -7,17 +7,28 @@ tags:
     - dark-sun
 ---
 
-In a monster book for some other D&D world, we'd be seeing dragons right about
-now. In Dark Sun, there's just the one. I honestly thought we'd see this guy in
-the Important NPCs half of the book, yet here he is.
+This entry appeared among the monsters, right where you'd find standard dragons
+in another monster book. I thought this was odd, because he's the only dragon in
+Athas and also one of its more important "personages", so why isn't he in that
+section?
+
+The answer, I suspect, is because to be in the Personages section the character
+has to be someone who could be a potential ally to the PCs, and the Dragon of
+Tyr is not someone any party of PCs should be allying with. Instead, he's the
+final boss of Dark Sun.
+
+Nevertheless I'm talking about him here, because he _is_ an important personage
+and knowing his story gives a lot of context for the sorcerer-kings you'll also
+find in this section.
 
 ## The Lore
 
 Everyone in Athas knows and fears the Dragon of Tyr. This great and terrible
-monster comes in from the deep desert every once in a while, and demands a huge
-tribute of treasure and slaves. Even the sorcerer-kings fear him, and so they
-scramble to meet his demands. Once that's done, the Dragon flies home with his
-loot, leaving the region alone until his next appearance.
+monster comes in from somewhere on the other side of the Sea of Silt every once
+in a while, and demands a huge tribute of treasure and slaves. Even the
+sorcerer-kings fear him, and so they scramble to meet his demands. Once that's
+done, the Dragon flies home with his loot, leaving the region alone until his
+next appearance.
 
 All of this is common knowledge. Only the sorcerer-kings themselves know the
 full story: the Dragon was once one of them. His original name was Borys the
@@ -32,7 +43,7 @@ life around you to cast bigger spells - in other words, the first defiler.
 
 Rajaat taught dozens of pupils, but he only taught the secret of defiling to his
 inner circle of fifteen secret apprentices. For Rajaat was a major asshole, and
-when he felt his champions were ready, he ordered them to go out on a worldwide
+when he felt his Champions were ready, he ordered them to go out on a worldwide
 genocidal rampage to cleanse Athas of all the species he deemed "impure". So
 much defiling magic was flung around in those wars that Athas' previously green
 ecosystem was completely destroyed, starting the world's transformation into the
@@ -123,7 +134,8 @@ Pulse recharges and he can use it immediately as a free action.
 
 The physical attacks all target AC, the necrotic and tekekinetic ones all target
 Fortitude, and the sand breath targets Reflex. As the most powerful arcane
-caster in the whole world, you can say he knows pretty much every ritual.
+caster in the whole world, you can say he knows pretty much every ritual in the
+game for use outside of combat.
 
 ### The Lord Vizier
 
@@ -143,7 +155,7 @@ vessel.
 He wields the **Dead Lord's Scepter**, and his basic attack is to bonk someone
 with it, dealing lightning-and-necrotic damage. His basic ranged attack is the
 **Grasp of the Dead** spell (range 20 vs. Fortitude), which deals necrotic
-damage and leats one undead creature adjacent to the target make a free melee
+damage and lets one undead creature adjacent to the target make a free melee
 basic attack. If the attack hits, the creature marks the target for a turn.
 
 He can also cast a **Plume of Death** (area 2 within 10 vs. Fortitude, recharge

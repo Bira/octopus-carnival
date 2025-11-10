@@ -22,8 +22,8 @@ This post is part of a series! Click [here][1] to see the rest.
 
 If our previous entry was kind of vague about whether tareks were a product of
 the genocidal "Cleansing Wars" in Athas' distant past, this one is pretty
-categorical. Tembos are bioengineered terror weapons, created using the magic
-most foul for the purposes of facilitating genocide.
+categorical. Tembos are bioengineered terror weapons, created using magic most
+foul for the purposes of facilitating genocide.
 
 The "Champions" of that time (which unknown to most are the sorcerer-kings of
 today) created them to sneak upon the homes of their opponents, and take from
@@ -34,12 +34,13 @@ finding new ways of fulfilling their purpose in crueler ways.
 
 They have survived as a species to this day, roaming mainly through the western
 wastelands of the Tyr region, but they have been sighted elsewhere too. There's
-no one to give them specific targets any more, so they choose their victims for
+no one to give them specific targets any more, so they choose their victims
 themselves, for food and fun.
 
 Confirmation that a tembo is targetting a settlement is one of the only things
 that will immediately end any infighting and other disagreements and make its
-whole population unite against the threat. Everyone hates these things.
+whole population unite against the threat. Everyone hates these things more than
+they hate each other, which is saying something in Athas.
 
 How exactly these attacks happen vary with the creature's whims, as well as with
 what it judges to be the most effective tactic for a given situation. Sometimes
@@ -82,8 +83,9 @@ instead rely on mundane stealth for this. Then it will charge in, use as many
 Raking Assault flurries as it can, and combine Shadow Evasion with Blending to
 escape from sight, only coming back to attack when its enemies' guards are
 down. Its ability to delete healing surges makes such long-term harassment
-tactics even more effective. Fighting the creature to the finish will require
-preventing its escape somehow.
+tactics even more effective, since it will obviously attack you in your sleep
+and stop you from taking a long rest. Fighting the creature to the finish
+in a single encounter will require preventing its escape somehow.
 
 ## Encounters and Final Impressions
 
