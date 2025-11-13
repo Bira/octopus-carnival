@@ -97,6 +97,7 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 - T
   - [Tarek][47]
   - [Tembo][48]
+  - [Thrax][49]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -147,3 +148,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [46]: {{ "/2025/11/04/wir-dscc-ssurran.html" | relative_url }}
 [47]: {{ "/2025/11/07/wir-dscc-tarek.html" | relative_url }}
 [48]: {{ "/2025/11/10/wir-dscc-tembo.html" | relative_url }}
+[49]: {{ "/2025/11/13/wir-dscc-thrax.html" | relative_url }}

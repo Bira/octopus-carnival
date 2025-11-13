@@ -64,14 +64,15 @@ natural sunlight.
 
 Thraxes are surrounded by **Roiling Shadows** which give them +2 to defenses
 against ranged attacks, and their **Clinging Grasp** makes them insubstantial
-and immune to forced movement while they have a creature grabbed.
+and immune to forced movement while they have a creature grabbed. This takes
+away the PC's easiest tactic for making them let go.
 
 Their basic attack is the **Grasp of the Dead**, which deals necrotic damage. If
 the thrax has combat advantage, a hit also grabs the victim, which has a -5
 penalty to escape rolls.
 
 Once it has a creature grabbed, the thrax can proceed to **Drain Fluids**, which
-deals heavy necrotic damage heals the thrax for 10 HP, and ends the grab. If the
+deals heavy necrotic damage, heals the thrax for 10 HP, and ends the grab. If the
 attack bloodies the target, they also fall unconscious (save ends).
 
 The thrax can also attack with **Flesh Bloat**, the "trick" mentioned
