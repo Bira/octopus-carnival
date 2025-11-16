@@ -6,9 +6,154 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Nov 2025 16:56:11 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Nov 2025 16:56:11 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Nov 2025 13:20:30 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Nov 2025 13:20:30 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Thri-Kreen</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-thri-kreen.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A thri-kreen mantis warrior with a green carapace.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Thri-kreen are the famous mantis-people of Athas. A slightly more generic
+version of them appeared in the Monster Manual 3, and now we get more NPC stat
+blocks here and a playable version in the Campaign Guide. Unlike what happened
+to muls a few pages back, thri-kreen in the Creature Catalog are given a
+description that’s about as positive as the one for the playable version.&lt;/p&gt;
+
+&lt;p&gt;Thri-kreen have deep instinctual bonds of loyalty to their “clutch” and their
+“pack”. As the Campaign Guide explains, a clutch is a small group of at most six
+individuals to whom the thri-kreen feels closest, and a pack is an extended
+family composed of multiple clutches.&lt;/p&gt;
+
+&lt;p&gt;Traditionally a clutch is formed by individuals who hatched from their eggs at
+around the same time, but kreen can “adopt” other clutches over time if
+circumstances demand. For PCs, this means their adventuring party is their
+clutch. NPC kreen away from their homes will have similar arrangements with
+their ally groups.&lt;/p&gt;
+
+&lt;p&gt;Those ubiquitous asshole slavers like to steal Thri-kreen eggs so that their can
+exploit their bonding instinct, making them extremely loyal to their new
+masters.&lt;/p&gt;
+
+&lt;p&gt;Thri-kreen packs prefer to hunt non-sapient creatures for food, but they will
+make exceptions in truly desperate times. They will fight with all their
+strenght to protect themselves from attacks by other people, but will almost
+never be the aggressors in such fights. Their spiritual leaders are known as
+desert talkers, and are responsible for maintaining their connection to the
+primal spirits of the desert and those of their ancestors. This gives them a
+very long genetic memory, stretching back to an ancient age where they had their
+own great empire.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;These NPC thri-kreen are Medium Natural Humanoids with Low-Light Vision. The
+ones here have ground speeds between 6 and 7, slightly slower than the MM3
+ones. Their signature ability remains &lt;strong&gt;Mantis Jump&lt;/strong&gt;, an move-action encounter
+power that lets them jump their speed without provoking opportunity
+attacks. This is indeed different from the power PCs get.&lt;/p&gt;
+
+&lt;p&gt;We get three new stat blocks here, which can be mixed in with the ones from the
+MM3 without any extra work.&lt;/p&gt;
+
+&lt;h3 id=&quot;thri-kreen-bounder&quot;&gt;Thri-Kreen Bounder&lt;/h3&gt;
+
+&lt;p&gt;These are less experienced hunters who are still learning the tricks of the
+trade by observing the pack’s veterans at work. They tend to be a little more
+skittish than those veterans. They’re Level 6 Minion Skirmishers with a ground
+speed of 6.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Deft Dodger&lt;/strong&gt; trait gives them +2 to defenses against ranged attacks,
+which helps them survive longer in a fight. They attack in melee with &lt;strong&gt;claws&lt;/strong&gt;
+and at range with thrown &lt;strong&gt;Chatkchas&lt;/strong&gt;, which are three-pointed throwing blades
+with Range 6/12.&lt;/p&gt;
+
+&lt;p&gt;Instead of Mantis Jump they have &lt;strong&gt;Mantis Bound&lt;/strong&gt;, which lets them jump 3
+squares without provoking opportunity attacks as a reaction to being missed by
+an attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;thri-kreen-mauler&quot;&gt;Thri-Kreen Mauler&lt;/h3&gt;
+
+&lt;p&gt;These are the veteran hunters, big and beefy thri-kreen who single out a quarry,
+jump on top of it, and tear it apart. They’re Level 8 Brutes with 105 HP and a
+speed of 6.&lt;/p&gt;
+
+&lt;p&gt;Their basic &lt;strong&gt;Claw&lt;/strong&gt; attack is way too weak for a level 8 brute (average damage
+9), but &lt;strong&gt;Mauler Frenzy&lt;/strong&gt; (recharge 4+) lets them make two of those, three when
+bloodied. &lt;strong&gt;Mauler Leap&lt;/strong&gt; lets them jump 6 squares and make two claw attacks
+with a +1 to attack and a +4 to damage, which definitely matches the
+formula. This recharges when they’re first bloodied.&lt;/p&gt;
+
+&lt;p&gt;If the mauler hits a bloodied target with their claws, they can use &lt;strong&gt;Pain
+Amplification&lt;/strong&gt; against that rarget with a minor action, attacking their
+Fortitude. A hit causes the target to take ongoing 5 psychic damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;If multiple claw attacks aren’t on the cards this turn, the mauler can use its
+&lt;strong&gt;Chatkchas&lt;/strong&gt; at range, which do level-appropriate physical damage. Mantis Jump
+rounds out their arsenal.&lt;/p&gt;
+
+&lt;p&gt;While Maulers will try to avoid getting killed like any opponent, they don’t
+mind getting bloodied since it makes them stronger. They probably should try to
+open the fight with a Leap, get stuck in for a Frenzy or two, and then jump away
+for that second use of Mauler Leap once bloodied.&lt;/p&gt;
+
+&lt;h3 id=&quot;thri-kreen-mantis-warrior&quot;&gt;Thri-Kreen Mantis Warrior&lt;/h3&gt;
+
+&lt;p&gt;Mantis Warriors are hunt leaders, highly skilled with both weapons and psychic
+powers. They’re Level 10 Elite Soldiers with 208 HP and a ground speed of 7.&lt;/p&gt;
+
+&lt;p&gt;They still have their &lt;strong&gt;Claws&lt;/strong&gt;, and also carry a &lt;strong&gt;Gythka&lt;/strong&gt;, a light polearm
+with a trident-like head on either end. Both do equivalent damage, but the
+gythka marks for a turn on a hit and does a blend of physical and psychic damage
+instead of just physical. They can also throw &lt;strong&gt;Chatkchas&lt;/strong&gt;, though these are a
+bit weaker.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Mantis Flurry&lt;/strong&gt; ability allows the warrior to make a claw and a gythka
+attack, or to throw two chatkchas, with a single action.&lt;/p&gt;
+
+&lt;p&gt;Occasionally they can pull off a &lt;strong&gt;Springing Assault&lt;/strong&gt; (recharge 5+): this lets
+them jump 4 squares, make a gythka attack, then jump another 3 and make another
+gythka attack. None of this movement provokes opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;Once per encounter they can perform a &lt;strong&gt;Mind Wrench&lt;/strong&gt;, attacking the Will of all
+enemies in a Close Burst 2. On a hit this deals psychic damage and marks for a
+turn.&lt;/p&gt;
+
+&lt;p&gt;When an adjacent marked enemy moves, shifts, or makes an attack that doesn’t
+target the warrior, it can cause a &lt;strong&gt;Spasm&lt;/strong&gt; as an interrupt. This is an attack
+against Will that does psychic damage on a hit, knocks the target prone, and
+slows them until the end of the warrior’s next turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These three stat blocks combined with the Ambusher, Scout, and Sand Talker from
+the MM3 will let you build a large variety of thri-kreen encounters. They can
+also be part of “found clutches”, AKA Mixed Groups of Humanoids, voluntarily or
+not.&lt;/p&gt;
+
+&lt;p&gt;I note that the MM3 Thri-Kreen are described as using “spears” and “shuriken”,
+which clearly correspond to the gythkas and chatkchas used by these ones. A
+simple find-and-replace of the names should work, as there is no mechanical
+difference between them in the stat blocks themselves.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Thrax</title>
@@ -1050,94 +1195,6 @@ bites would need).&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Creature Catalog: Sand Bride</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-sand-bride.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A sand bride, which looks like a pretty lady lounging in an illusory oasis
-    that hides a sandstorm.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;This wouldn’t be a proper D&amp;amp;D monster book without at least one vile seductress
-that tries to lure in unsuspecting adventurers with her womanly wiles.&lt;/p&gt;
-
-&lt;p&gt;Sand Brides are basically Darker and Sunnier Nymphs. More specifically, they are
-the things this world’s surviving nymphs turned into when the ecosystem went to
-shit and the Feywild was mostly destroyed. Like a lot of other Athasian fey,
-they blame all intelligent natural creatures for their corrupted state, and try
-to victimize them as an act of vengeance.&lt;/p&gt;
-
-&lt;p&gt;Their preferred tactic is to build traps and ambush spots out in the desert and
-use their illusion powers to disguise them as safe places like oases, sheltering
-ruins, or caravan rest stops. Then they disguise themselves as harmless
-humanoids and try to lure their targets to the ambush. The illustration and some
-of the descriptions imply these “harmless humanoids” are pretty ladies, but they
-don’t have to be.&lt;/p&gt;
-
-&lt;p&gt;Once the victims are at the intended spot, the ambush is sprung, and the sand
-bride will use her sand-bending powers and dehydrating touch to kill the
-victims, leaving only dried husks behind.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Sand Brides are Medium Fey Humanoids and Level 10 Elite Controllers with an even
-200 HP. Despite being living beings they have Darkvision and are immune to
-disease and poison, traits commonly found in undead. Their ground speed is 8,
-and they have a burrow speed of 6. This &lt;em&gt;doesn’t&lt;/em&gt; say it’s for loose earth only,
-so they could theoretically tunnel through rock.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Sandform Body&lt;/strong&gt; lets them ignore all difficult terrain, tough they’re
-less diffuse than the dune constructs we saw previously. They attack in melee
-with a &lt;strong&gt;Dehydrating Touch&lt;/strong&gt; that deals necrotic damage and inflicts -2 to all
-defenses for a turn on a hit. At range, they use &lt;strong&gt;Sand Blasts&lt;/strong&gt; that deal
-physical damage and push 4 squares. &lt;strong&gt;Double Attack&lt;/strong&gt; lets them make two melee
-attacks per action.&lt;/p&gt;
-
-&lt;p&gt;They can also employ a &lt;strong&gt;Sand Drown&lt;/strong&gt; power (recharge 5+) if the PCs bunch up
-too much. This is an Area 1 Within 10 attack, dealing heavy physical damage and
-restraining on a hit.&lt;/p&gt;
-
-&lt;p&gt;Its ability to create illusory terrain is weaponized as an &lt;strong&gt;Insidious Mirage&lt;/strong&gt;
-(Encounter), which lets the Sand Bride create a zone 4 squares on a side that
-lasts until the end of the encounter. This counts as difficult terrain for
-enemies, lets the bride slide enemies who end their turns inside by up to 2
-squares as a free action, and can be moved by up to 4 squares as minor action.&lt;/p&gt;
-
-&lt;p&gt;And finally they have &lt;strong&gt;Deceptive Veil&lt;/strong&gt;, allowing them to appear as a humanoid
-of any species. Piercing the illusion requires an Insight contest against the
-bride’s Bluff skill of +15. This doesn’t &lt;em&gt;have&lt;/em&gt; to be a pretty lady, but it’s
-apparently traditional. The bride’s stats remain the same while disguised, and
-she can attack without dropping the illusion.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Sand brides target groups of travelers The creatures are fairly social with each
-other and will organize in groups. They can probably ally with other fey too, or
-have some Athasian beasts under their control ready to attack.&lt;/p&gt;
-
-&lt;p&gt;I’m not overly fond of vile seductress monsters but sand brides seem easy to
-reskin into something less cliche while keeping the same tactics.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/10/02/wir-dscc-sand-bride.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/02/wir-dscc-sand-bride.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
