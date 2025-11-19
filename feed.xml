@@ -6,9 +6,141 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 16 Nov 2025 13:20:30 +0000</pubDate>
-    <lastBuildDate>Sun, 16 Nov 2025 13:20:30 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Nov 2025 08:51:42 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Nov 2025 08:51:42 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Wight</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-wight.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A wight posing in a threatening manner.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Athasian wights are, at their root, pretty much the same as standard ones:
+undead whose soulless bodies are animated by a scrap of animus (or will) the
+dead person left behind. However, their description here goes on to say that
+wights were driven to complete some kind of mission or achieve an important goal
+when they died, and the “will” that animates them is an obsession with
+fulfilling that task. It also gives them an eternal hunger for life force, and
+robs them of the capacity to feel anything but hatred, grief, and frustration.&lt;/p&gt;
+
+&lt;p&gt;You can technically exorcize a wight by fulfilling its task. This is extremely
+difficult &lt;em&gt;at best&lt;/em&gt;, and it’s often impossible. Wights are not exactly willing
+to give detailed interviews about the circumstances of their death. Even if the
+PCs can discover those many of the creatures have been dead for so long that all
+people and places involved are simply gone. This will probably force the PCs to
+resort to the second most effective anti-wight strategy: extreme violence.&lt;/p&gt;
+
+&lt;p&gt;For a wight to be truly destroyed, its body must be obliterated. A popular
+tactic is to dismember and then burn their corpses. Not doing this means the
+creature will restore itself and return eventually.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;The Wights presented here are Medium Natural Humanoids with the Undead keyword,
+and a bunch of traditional undead traits: Darkvision, immunity to disease and
+poison, 10 resistance to necrotic damage, and and 5 or 10 vulnerability to
+Radiant.&lt;/p&gt;
+
+&lt;p&gt;These wights tend to lack the default ability to eat your healing surges, but
+they gain other individualized tricks in its place.&lt;/p&gt;
+
+&lt;h3 id=&quot;wight-thrall&quot;&gt;Wight Thrall&lt;/h3&gt;
+
+&lt;p&gt;These are the exception to the wight lore I described above because they’re
+&lt;em&gt;already&lt;/em&gt; living their best unlife. Their obsession was to serve their beloved
+master for all eternity, and that’s exactly what they’re doing.&lt;/p&gt;
+
+&lt;p&gt;Wight thralls have about as much initiative as your typical zombie, but they’re
+&lt;em&gt;much&lt;/em&gt; better at following their master’s commands. If you find these, their
+master is likely nearby, either as a more powerful wight or as some other
+monster.&lt;/p&gt;
+
+&lt;p&gt;These creatures are Level 12 Minion Brutes with a speed of 7 and the standard
+traits mentioned above (except radiant vulnerability). Their &lt;strong&gt;Claws&lt;/strong&gt; damage
+and have a life drain effect that’s modeled slightly differently: targets hit by
+the attack cannot gain temporary HP at all and recover 5 less HP from healing
+effects (save ends).&lt;/p&gt;
+
+&lt;p&gt;When destroyed by non-radiant damage, their &lt;strong&gt;Dark Passing&lt;/strong&gt; ability restores 5
+HP to a nearby undead ally.&lt;/p&gt;
+
+&lt;h3 id=&quot;dune-runner-wight&quot;&gt;Dune Runner Wight&lt;/h3&gt;
+
+&lt;p&gt;This was an elf who died trying to deliver an important message or warning to
+their community. Every night they arise and try to complete the impossible run,
+only to appear back at the starting point when the sun rises. During the day,
+they terrorize nearby creatures to vent their frustration and slake their
+thirst.&lt;/p&gt;
+
+&lt;p&gt;Dune Runner Wights are level 12 Minion Skirmishers with 124 HP and the common
+traits mentioned above. Their &lt;strong&gt;claws&lt;/strong&gt; have no effect beyond their decent
+damage, but they deal extra damage if the runner moved at least 4 squares before
+attacking, and can be used as part of a &lt;strong&gt;Mobile Melee Attack&lt;/strong&gt; maneuver that
+lets the runner move its speed without and attack at any point during the move
+without provoking an opportunity attack from the target.&lt;/p&gt;
+
+&lt;p&gt;As a 1/round minor action, they can try to afflict someone with a &lt;strong&gt;Running
+Curse&lt;/strong&gt; (ranged 5 vs. Will), which forces at target to move at least 4 squares
+on their turn or take a bit of psychic damage (save ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;oath-wight&quot;&gt;Oath Wight&lt;/h3&gt;
+
+&lt;p&gt;These used to be inhabitants of one of Athas’ many ancient ruins, who were on
+the verge of completing an important task when their entire city was leveled by
+a sorcerous WMD of some kind. Maybe they were scholars nearing a research
+breakthrough, maybe they were thieves about to pull that big score… or maybe
+they were mothers undergoing childbirth. So there’s some nightmare fuel for
+ya. They’re Level 14 Elite Controllers with 140 HP and a speed of 6.&lt;/p&gt;
+
+&lt;p&gt;Their frustration with the futility of their task is so potent it leaks out, and
+can be used as a weapon. This aura of &lt;strong&gt;Inevitable Failure&lt;/strong&gt; inflicts a -2
+penalty to attacks, skill checks, and defenses to any non-dominated enemies
+inside.&lt;/p&gt;
+
+&lt;p&gt;The wight can dominate enemies with its &lt;strong&gt;Accursed Gaze&lt;/strong&gt; (minor action, ranged
+5 vs. Will), which dominates for a turn on a hit. It can also use the
+&lt;strong&gt;Frustration’s Fury&lt;/strong&gt; encounter power, which attacks the Will of 2 nearby
+targets. On a hit, it reals psychic damage and forces the target to make a free
+melee basic attack (or a charge!)  against another target of the wight’s
+choice. If this secondary attack &lt;em&gt;misses&lt;/em&gt;, the target is dominated (save
+ends). A miss with the power deals half damage and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;When Frustration’s Fury is unavailable, the wight uses its basic &lt;strong&gt;Rotting
+Touch&lt;/strong&gt;, which does necrotic damage and prevents HP recovery for a turn.&lt;/p&gt;
+
+&lt;p&gt;If you were wondering why the wight has so little HP for an elite, it’s because
+reaching 0 HP triggers its &lt;strong&gt;Promised Return&lt;/strong&gt; power, causing it to reappear
+with full HP near its last position at the start of its next turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;The description of wights as the products of obsession that lingers beyond death
+is so cool that I’m tempted to make this the default description of wights in
+any game I run. The mechanics of the ones presented here are interesting and
+help bring them into the paragon tier.&lt;/p&gt;
+
+&lt;p&gt;Wights might very rarely work with the living if they can convince the creature
+they have similar goals, but they mostly hang out with other undead or with
+predatory beasts who don’t see them as food.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/19/wir-dscc-wight.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/19/wir-dscc-wight.html</guid>
+        
+        <category>dark-sun</category>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Thri-Kreen</title>
@@ -1036,165 +1168,6 @@ every turn.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Silk Wyrm</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-silk-wyrm.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A silk wyrm, which looks like a very large snake covered in a segmented
-    green carapace, and whose grinning mouth is about three times as wide as its
-    head.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Silk Wyrms are snakelike monsters covered in chitinous carapaces. They’re gifted
-with many natural weapons: bites laced with paralytic venom and the psionic
-powers of flight, camouflage, and mesmerism.&lt;/p&gt;
-
-&lt;p&gt;Though incapable of communicating in humanoid languages they’re tenacious
-endurance predators who employ clever hunting strategies.&lt;/p&gt;
-
-&lt;p&gt;Silk Wyrms will shadow their intended prey for days, looking for a time when its
-guard is down. The book is not too specific about the nature of this prey. It
-could be an adventuring party, a traveling caravan with humanoids and several
-kinds of pack animal, or something like a pack of baazrags or other wild
-animals. What matters is that the prey is easy to hunt and can be eaten “fresh”,
-because silk wyrms apparently only eat their victims while they’re alive, and
-abandon them when they die.&lt;/p&gt;
-
-&lt;p&gt;When their intended targets are vulnerable, the silk wyrm will sneak in,
-paralyze a chosen victim, and devour them on the spot. If it manages to
-incapacitate more than one victim it will drag one of them to its nest, where it
-will trap them in silk strands and eat them over the course of the next few days
-while they’re still alive.&lt;/p&gt;
-
-&lt;p&gt;Silk wyrms band together as hatchlings, but as soon as they reach the adult
-stage their deeply antisocial instincts take over and they set off on their own
-to become lone hunters. Only after many years do they become wise enough to
-overcome this instinct and start allying with other creatures. Some manage to
-lead bands of their own younger kin, while others can ally with those creatures
-whose telepathy allows them to communicate with the wyrms and buy their service
-with easy food.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Silk Wyrms are Natural Magical Beasts with the Reptile tag and Low-Light
-Vision. All silk wyrms have a flight speed, but their flight is Clumsy, which
-means they have a -4 penalty to attacks and defenses while on the air. This
-means silk wyrms only fly to travel, but they prefer to fight on the ground.&lt;/p&gt;
-
-&lt;p&gt;We’ll look at their other traits in each stat block below.&lt;/p&gt;
-
-&lt;h3 id=&quot;silk-wyrm-hatchling&quot;&gt;Silk Wyrm Hatchling&lt;/h3&gt;
-
-&lt;p&gt;Too frail to set out on their own, hatchlings roam the wastes in bands,
-spreading out to scout for prey and emitting a loud chirping noise when they
-find it to call their clutch-mates. They’re Medium-sized Level 3 Minion
-Skirmishers, with ground and flight speeds of 6.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;Blood Scent&lt;/strong&gt; trait means their attacks against bloodied creatures
-ignore concealment. These will mostly be &lt;strong&gt;bites&lt;/strong&gt; that deal poison damage and
-slow for a turn. When the hatchling hits 0 HP, they release &lt;strong&gt;Silk Strands&lt;/strong&gt; as
-a last attack, which deal a bit of acid damage and restrain (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;silk-wyrm-adult&quot;&gt;Silk Wyrm Adult&lt;/h3&gt;
-
-&lt;p&gt;In their “lone hunter” phase, adults are Large-sized Level 3 Solo Skirmishers
-with 174 HP. Their flight speed increases to 8, but remains clumsy.&lt;/p&gt;
-
-&lt;p&gt;Adults retain &lt;strong&gt;Blood Scent&lt;/strong&gt;, which works exactly the same way. They will
-likely start the encounter in &lt;strong&gt;Shadow Form&lt;/strong&gt; (minor, recharges when first
-bloodied), which makes Insubstantial with Phasing and gives them +5 to Stealth
-while stopping it from attacking. It can get out of this with a free action, and
-will do so shortly after springing its ambush.&lt;/p&gt;
-
-&lt;p&gt;Once the wyrm appears in the middle of its targets, and again whenever the power
-is charged, it will use &lt;strong&gt;Mesmerizing Dread&lt;/strong&gt; (minor, recharge 4+), which deals
-psychic damage to enemies in a Close Burst 5, slides them 3 squares, and
-inflicts a -2 penalty to all defenses for a turn. Then it’s bite time.&lt;/p&gt;
-
-&lt;p&gt;Their &lt;strong&gt;bites&lt;/strong&gt; deal more poison damage, since they’re not minions, and their
-venom becomes stronger. The target is slowed (save ends), which worsens to
-immobilized (save ends) on the first save and to helpless (save ends) on the
-second failure. &lt;strong&gt;Wyrm Strike&lt;/strong&gt; lets it bite two different targets with one
-action.&lt;/p&gt;
-
-&lt;p&gt;Helpless is a funny and very worrying condition. It’s funny because going
-strictly by the book, you can move and act normally while Helpless. However
-you’re never &lt;em&gt;just&lt;/em&gt; Helpless. The most common way to get this condition is to be
-unconscious. In this case, even on a strict reading you’ll still be Restrained
-when you fail your second save and become Helpless.&lt;/p&gt;
-
-&lt;p&gt;Being Helpless is worrying because it makes the victim grant combat advantage,
-and opens them up to the Coup de Grace action, which is an attack with any
-applicable power that auto-crits and kills the target outright if it deals more
-than their bloodied value in damage.&lt;/p&gt;
-
-&lt;p&gt;If the Silk Wyrm manages to get someone immobilized, restrained, or helpless, it
-will &lt;strong&gt;Feed&lt;/strong&gt; on them, attacking their Fortitide eating one of their healing
-surges, and healing 10 HP. There’s no damage other than this, apparently, which
-makes this attack a lot more forgiving in a fight than it would otherwise seem.&lt;/p&gt;
-
-&lt;p&gt;It someone hits the adult wyrm with a melee or close attack, it can respond with
-&lt;strong&gt;Silk Strands&lt;/strong&gt; as a reaction. This is a melee 3 attack vs. Reflex, dealing
-acid damage and restraining on a hit.&lt;/p&gt;
-
-&lt;h3 id=&quot;silk-worm-elder&quot;&gt;Silk Worm Elder&lt;/h3&gt;
-
-&lt;p&gt;Elders have lived long enough to learn the value of teamwork despite or perhaps
-&lt;em&gt;because&lt;/em&gt; of the loss of their ability to project silk strands in combat. They
-band together with one another or with other powerful allies in order to survive
-and keep eating. They’re Level 14 Skirmishers with 125 HP. Not being solos, they
-don’t have a blanked +5 on all saves, but they still have that bonus on saves
-against Immobilized or Slowed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Shadow Form&lt;/strong&gt; and &lt;strong&gt;Mesmerizing Dread&lt;/strong&gt; work exactly the same, with Shadow
-Form just making the wyrm Weakened instead of preventing attacks entirely. They
-can only &lt;strong&gt;bite&lt;/strong&gt; once per turn but their venom remains as potent as the
-adult’s.&lt;/p&gt;
-
-&lt;p&gt;The problem here is the damage: both Mesmerizing Dread and the basic bite do
-exactly the same damage as the adult’s, which is way, way below what it should
-be for a level 14 monster.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Feed&lt;/strong&gt;, on the other hand, does a huge chunk of physical damage (5d10+6) in
-addition to deleting a healing surge. It recharges when first bloodied instead
-of being at-will, but it no longer has any target restictions. They still really
-want to use this in a helpless target if they can, because it’s going to kill
-any helpless target with 112 maximum HP or less.&lt;/p&gt;
-
-&lt;p&gt;Still, outside of their one or two uses of Feed, elders are significantly less
-scary. The venom is still a concern, particularly if they have heavy hitters
-with them, but barring errata it seems to me elders were made to rush in, use
-Feed once or twice, and escape the fight using Shadow Form and &lt;strong&gt;Serpent
-Strike&lt;/strong&gt;, which they still have.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I think the Lore section outlines possible silk wyrm encounters pretty well.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, the first two seem okay to me, but the elder is weird. The damage
-of their bites and Mesmerizing stare needs a buff. It’d make them more
-consistently dangerous despite making their Feed attack a little less impressive
-in comparison (as its 28 average damage is not a lot higher than the 22 their
-bites would need).&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/10/04/wir-dscc-silk-wyrm.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/04/wir-dscc-silk-wyrm.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
