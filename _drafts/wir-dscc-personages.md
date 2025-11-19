@@ -27,8 +27,9 @@ I think this is why the Dragon of Tyr was in the monster section. He is a
 specific individual, but he's also the "final boss" of Dark Sun. No PC party who
 isn't completely rotten to the core would think of allying with him for real.
 
-The Sorcerer-Kings, however, _are_ in the Personages section, as are a bunch of
-much lower level randos.
+The Sorcerer-Kings, however, _are_ in the Personages section, because I imagine
+PCs might want to form temporary alliances with some of them against the
+others. We'll also see a bunch of much lower level randos.
 
 As I stated in an earlier post, I decided to move the Dragon's description to
 this section as I consider him to be more of a Personage than a monster. So

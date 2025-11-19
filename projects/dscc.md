@@ -100,6 +100,9 @@ This is the list of monsters from A to Z, which will grow as the book is read:
   - [Thrax][49]
   - [Thri-Kreen][50]
 
+- W
+  - [Wight][51]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -151,3 +154,4 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [48]: {{ "/2025/11/10/wir-dscc-tembo.html" | relative_url }}
 [49]: {{ "/2025/11/13/wir-dscc-thrax.html" | relative_url }}
 [50]: {{ "/2025/11/16/wir-dscc-thri-kreen.html" | relative_url }}
+[51]: {{ "/2025/11/19/wir-dscc-wight.html" | relative_url }}

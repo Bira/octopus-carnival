@@ -19,19 +19,19 @@ tags:
 ## The Lore
 
 Athasian wights are, at their root, pretty much the same as standard ones:
-undead whose soulless bodies are animated by the left-over animus (or will) the
-person left behind. However, their description here goes on to say that wights
-were driven to complete some kind of mission or achieve an important goal when
-they died, and the "will" that animates them is an obsession with fulfilling
-that task. It also gives them an eternal hunger for life force, and robs them of
-the capacity to feel anything but hatred, grief, and frustration.
+undead whose soulless bodies are animated by a scrap of animus (or will) the
+dead person left behind. However, their description here goes on to say that
+wights were driven to complete some kind of mission or achieve an important goal
+when they died, and the "will" that animates them is an obsession with
+fulfilling that task. It also gives them an eternal hunger for life force, and
+robs them of the capacity to feel anything but hatred, grief, and frustration.
 
 You can technically exorcize a wight by fulfilling its task. This is extremely
 difficult _at best_, and it's often impossible. Wights are not exactly willing
-to give detailed interviews about the circumstances of their death, and even if
-the PCs can discover those many of the creatures have been dead for so long that
-all people and places involved are simply gone. This will probably force the PCs
-to resort to the second most effective anti-wight strategy: extreme violence.
+to give detailed interviews about the circumstances of their death. Even if the
+PCs can discover those many of the creatures have been dead for so long that all
+people and places involved are simply gone. This will probably force the PCs to
+resort to the second most effective anti-wight strategy: extreme violence.
 
 For a wight to be truly destroyed, its body must be obliterated. A popular
 tactic is to dismember and then burn their corpses. Not doing this means the

@@ -7,6 +7,15 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-thri-dragon-of-tyr.png" | absolute_url }}"/>
+  <figcaption>
+    The Dragon of Tyr, making a dapper pose for the camera.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 This entry appeared among the monsters, right where you'd find standard dragons
 in another monster book. I thought this was odd, because he's the only dragon in
 Athas and also one of its more important "personages", so why isn't he in that

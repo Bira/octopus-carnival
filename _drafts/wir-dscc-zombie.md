@@ -20,7 +20,7 @@ tags:
 ## The Lore
 
 Zombies in Athas have the same origin as zombies in every other D&D world:
-they're either intentionally created by necromancy, or accidentally from dead
+they're created either intentionally by necromancy, or accidentally from dead
 bodies left for long enough in areas exposed to strong necrotic energies.
 
 In Athas that means areas touched by the Gray, the Darker and Sunnier version of
@@ -30,7 +30,7 @@ harsh as well, they can do interesting thing to these bodies before they rise.
 
 The most common of those is that by the time the body rises its flesh is long
 gone due to the actions of predators and scouring winds, so you get a skeleton
-instead. But some places like the two named below can preserve the flesh of a
+instead. But some places like the ones named below can preserve the flesh of a
 corpse, giving enough time to rise as a Darker and Sunnier Zombie with extra
 powers.
 
@@ -133,6 +133,6 @@ Athas. I think I like the cinder zombies the most, as they have an interesting
 Defender Aura-like setup and fire zombies make sense in non-Athas settings too.
 
 While three of the four zombies presented here are strongly associated with
-their specific regions, there's nothing preventing an enterprising villain from
-importing them to wherever their lair is, or to somehow replicate the process of
-their creation in a lab.
+their specific home regions, there's nothing preventing an enterprising villain
+from importing them to wherever their lair is, or to somehow replicate the
+process of their creation in a lab.
