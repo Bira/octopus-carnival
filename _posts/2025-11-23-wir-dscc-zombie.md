@@ -26,7 +26,7 @@ bodies left for long enough in areas exposed to strong necrotic energies.
 In Athas that means areas touched by the Gray, the Darker and Sunnier version of
 the Shadowfell. Any bodies left in these places have a high chance of rising as
 zombies. As the natural environment in these areas tends to be particularly
-harsh as well, they can do interesting thing to these bodies before they rise.
+harsh as well, they can do interesting things to these bodies before they rise.
 
 The most common of those is that by the time the body rises its flesh is long
 gone due to the actions of predators and scouring winds, so you get a skeleton
@@ -46,7 +46,7 @@ to necrotic damage. They also tend to be faster than standard zombie varieties
 
 These are created from the big necrotic zone in the Salt Meres. They tend to lie
 beneath the salt flats, erupting out of the ground when they sense living beings
-walking the surface. They probably look dried out, and almost mummified.
+walking the surface. They probably look dried out and mummified.
 
 Salt Zombies are Level 1 Soldiers with 28 HP and a ground speed of 6. Their
 necrotic resistance is 5 and they have Vulnerable 5 to Radiant damage. Their
@@ -134,5 +134,5 @@ Defender Aura-like setup and fire zombies make sense in non-Athas settings too.
 
 While three of the four zombies presented here are strongly associated with
 their specific home regions, there's nothing preventing an enterprising villain
-from importing them to wherever their lair is, or to somehow replicate the
+from importing them to wherever their lair is, or from somehow replicating the
 process of their creation in a lab.
