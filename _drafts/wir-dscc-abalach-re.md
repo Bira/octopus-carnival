@@ -7,6 +7,16 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-abalach-re.png" | absolute_url }}"/>
+  <figcaption>
+    Abalach-Re, who seems beautiful from a distance, but whose body-horror
+    mutations become obvious when you get closer.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Abalach-Re is a Sorcerer-Queen who rules the city of Raam as its Grand Vizier, a

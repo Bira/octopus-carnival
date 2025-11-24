@@ -24,7 +24,8 @@ be potential allies. While one of these things is also often true about the
 monster entries, both should be true for everyone in this section.
 
 I think this is why the Dragon of Tyr was in the monster section. He is a
-specific individual, but he's also the "final boss" of Dark Sun. No PC party who
+specific individual, but he's also the "final boss" of Dark Sun. By default,
+he's not particularly interested in making new alliances and no PC party who
 isn't completely rotten to the core would think of allying with him for real.
 
 The Sorcerer-Kings, however, _are_ in the Personages section, because I imagine
