@@ -106,6 +106,11 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 - Z
   - [Zombie][52]
 
+Next comes a session on the Personages of Athas, important or interesting
+individuals that might be enemies or allies.
+
+[Intro][53]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -158,4 +163,5 @@ This is the list of monsters from A to Z, which will grow as the book is read:
 [49]: {{ "/2025/11/13/wir-dscc-thrax.html" | relative_url }}
 [50]: {{ "/2025/11/16/wir-dscc-thri-kreen.html" | relative_url }}
 [51]: {{ "/2025/11/19/wir-dscc-wight.html" | relative_url }}
-[52]: {{ "/2021/11/23/wir-dscc-zombie.html" | relative_url }}
+[52]: {{ "/2025/11/23/wir-dscc-zombie.html" | relative_url }}
+[53]: {{ "/2025/11/24/wir-dscc-personages.html" | relative_url }}
