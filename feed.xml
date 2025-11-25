@@ -6,9 +6,259 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 23 Nov 2025 10:27:44 +0000</pubDate>
-    <lastBuildDate>Sun, 23 Nov 2025 10:27:44 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Nov 2025 14:27:12 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Nov 2025 14:27:12 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dragon of Tyr</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-thri-dragon-of-tyr.png&quot;/&gt;
+  &lt;figcaption&gt;
+    The Dragon of Tyr, making a dapper pose for the camera.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This entry appeared among the monsters, right where you’d find standard dragons
+in another monster book. I thought this was odd, because he’s the only dragon in
+Athas and also one of its more important “personages”, so why isn’t he in that
+section?&lt;/p&gt;
+
+&lt;p&gt;The answer, I suspect, is because to be in the Personages section the character
+has to be someone who could be a potential ally to the PCs, and the Dragon of
+Tyr is not someone any party of PCs should be allying with. Instead, he’s the
+final boss of Dark Sun.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless I’m talking about him here, because he &lt;em&gt;is&lt;/em&gt; an important personage
+and knowing his story gives a lot of context for the sorcerer-kings you’ll also
+find in this section.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Everyone in Athas knows and fears the Dragon of Tyr. This great and terrible
+monster comes in from somewhere on the other side of the Sea of Silt every once
+in a while, and demands a huge tribute of treasure and slaves. Even the
+sorcerer-kings fear him, and so they scramble to meet his demands. Once that’s
+done, the Dragon flies home with his loot, leaving the region alone until his
+next appearance.&lt;/p&gt;
+
+&lt;p&gt;All of this is common knowledge. Only the sorcerer-kings themselves know the
+full story: the Dragon was once one of them. His original name was Borys the
+Butcher, and like his colleagues he was one of the fifteen secret apprentices of
+Rajaat the Sorcerer.&lt;/p&gt;
+
+&lt;p&gt;You see, arcane magic on Athas is a truly unnatural phenomenon, a flaw that
+slipped into the world when the primordials defeated the gods way back when
+Athas was still green. Rajaat was the first mortal to discover and master arcane
+magic. He was also the first to learn that you could pull more power from the
+life around you to cast bigger spells - in other words, the first defiler.&lt;/p&gt;
+
+&lt;p&gt;Rajaat taught dozens of pupils, but he only taught the secret of defiling to his
+inner circle of fifteen secret apprentices. For Rajaat was a major asshole, and
+when he felt his Champions were ready, he ordered them to go out on a worldwide
+genocidal rampage to cleanse Athas of all the species he deemed “impure”. So
+much defiling magic was flung around in those wars that Athas’ previously green
+ecosystem was completely destroyed, starting the world’s transformation into the
+desert it is today.&lt;/p&gt;
+
+&lt;p&gt;In time, even the Champions became convinced that all of this was a bit too
+much. Led by Borys, they turned on their master and managed to imprison him in a
+pocket dimension outside of time and space. Once Rajaat was out of the picture,
+the former Champions quickly conquered or built city-states in one of the last
+habitable regions of Athas, setting themselves up as the Sorcerer-Kings.&lt;/p&gt;
+
+&lt;p&gt;By then, they knew that attaining the pinnacle of power as a defiler would lead
+to transformation into a dragon. Borys, who had taken it upon himself to guard
+Rajaat’s prison, successfully argued that the other Sorcerer-Kings should help
+him speedrun the transformation, since he’d need the power to contain their
+former master forever. And so they did.&lt;/p&gt;
+
+&lt;p&gt;The ritual for the final transformation required the sacrifice of every citizen
+of Ebe, the island city Borys ruled. Borys renamed the resulting hellish
+wasteland Ur Draxa, the City of Doom. The Dragon dwells in the ruins of Ur
+Draxa’s palace to this day, leaving the city only to collect his tributes.&lt;/p&gt;
+
+&lt;p&gt;The city itself is inhabited by a very large number of undead, and by the living
+slaves brought in as tribute. The city’s day to day operation is in the hands of
+the Dead Lords, a council of liches who serve the Dragon.&lt;/p&gt;
+
+&lt;p&gt;The Dragon keeps their soul vessels (the book uses the p-word here) hidden deep
+within his palace to ensure compliance. He is wise to do this, for the Lord
+Vizier who leads the council has his own agenda. He’s secretly researching a way
+to cross into the Astral Sea and escape Athas altogether, and often sends his
+personal minions out on missions to recover any bit of planar lore he hears
+about.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get stats for the Dragon of Tyr and for the Lord Vizier in this entry. The
+two are completely different, of course, so we’ll cover all their traits in
+their respective entries.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-dragon-of-tyr&quot;&gt;The Dragon of Tyr&lt;/h3&gt;
+
+&lt;p&gt;The only dragon in Athas is a Gargantuan Natural Magical Beast with the Dragon
+tag (obviously). He’s also a Level 33 Solo Controller with 1216 HP, Darkvision,
+ground and flight speeds of 10, and a teleport speed of 5. He can hover,
+too. His alignment is Chaotic Evil.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Dragon’s Actions&lt;/strong&gt; trait means old Borys doesn’t roll initiative at
+all. He has three whole turns per round at initiative counts 40, 30, and 20. He
+cannot delay or ready actions.&lt;/p&gt;
+
+&lt;p&gt;His basic attack is a massive Reach 4 &lt;strong&gt;Claw&lt;/strong&gt; that damages and strips all
+necrotic and psychic resistance on a hit (save ends). His &lt;strong&gt;bite&lt;/strong&gt; deals more or
+less the same damage and immobilizes (save ends), with a Slow aftereffect (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;He can also use wider swipes to perform the &lt;strong&gt;Raking Claws&lt;/strong&gt; attack, attacking
+all enemies in a Close Blast 4 for slightly less damage than the single-target
+version and also sliding them 2 squares on a hit.&lt;/p&gt;
+
+&lt;p&gt;That’s it for physical attacks. Now for the spells and psychic powers, because
+of course he has both!&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Dragon’s Defiling&lt;/strong&gt; is a hazard all on its own, targetting all creatures
+in a Close Burst 5 and dealing necrotic damage on a hit. He can use the energy
+gathered with this to cast &lt;strong&gt;Defiling Death&lt;/strong&gt; (ranged 10), dealing heavy
+necrotic damage and ongoing 20 necrotic damage to the target (save ends). After
+the first failed save, the ongoing damage increases to 30!&lt;/p&gt;
+
+&lt;p&gt;The Dragon of Tyr starts the fight with Defiling Death charged, and once it’s
+cast he must hit with Dragon’s Defiling to recharge the attack.&lt;/p&gt;
+
+&lt;p&gt;Once the Dragon is bloodied, he can use his &lt;strong&gt;Breath of Shredding Sand&lt;/strong&gt;,
+attacking all creatures in a &lt;em&gt;Close Blast 20&lt;/em&gt; and dealing the same amount of
+damage as the bite on a hit, half on a miss. Fortunately this is an encounter
+power and doesn’t recharge.&lt;/p&gt;
+
+&lt;p&gt;Finally, if the PCs manage to surround Borys, he can use a &lt;strong&gt;Telekinetic Pulse&lt;/strong&gt;
+(encounter), a Close Burst 5 that deals the same damage as the bite, pushes its
+targets 5 squares, and knocks them prone. On a miss, it deals half damage and
+pushes 3 squares.&lt;/p&gt;
+
+&lt;p&gt;The Dragon can use his move action on a &lt;strong&gt;Psionic Uplift&lt;/strong&gt;, automatically
+pushing every adjacent enemy 2 squares and flying his Speed + 2 (i.e, 12
+squares). If an enemy ends its movement within 4 squares of the Dragon, he can
+hit them with his &lt;strong&gt;Lashing Tail&lt;/strong&gt; as a reaction, dealing the same damage as the
+claw and knocking them prone. And when the dragon is first bloodied, Telekinetic
+Pulse recharges and he can use it immediately as a free action.&lt;/p&gt;
+
+&lt;p&gt;The physical attacks all target AC, the necrotic and tekekinetic ones all target
+Fortitude, and the sand breath targets Reflex. As the most powerful arcane
+caster in the whole world, you can say he knows pretty much every ritual in the
+game for use outside of combat.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-lord-vizier&quot;&gt;The Lord Vizier&lt;/h3&gt;
+
+&lt;p&gt;This is the oldest and most powerful lich among the council of Dead Lords, which
+makes him their leader. Ostensibly, he un-lives to serve his master the Dragon,
+but as we saw he’s also privately looking for a way off this dying rock. He is a
+Medium Natural Humanoid with the Undead tag, and Level 26 Elite Artillery. He
+has Speed 6, and Darkvision. He’s immune to diseases like all undead, and has
+Resist 15 Necrotic and Resist 10 Poison. His alignment is Evil.&lt;/p&gt;
+
+&lt;p&gt;The Lord Vizier has a &lt;strong&gt;Necrotic Aura&lt;/strong&gt; (5) that deals 10 necrotic damage to
+anyone who enters it or starts their turn inside. Like all liches, he’s
+&lt;strong&gt;Indestructible&lt;/strong&gt; while his soul vessel remains intact: when reduced to 0 HP,
+his body and possessions become dust and reform within 1d10 days near the
+vessel.&lt;/p&gt;
+
+&lt;p&gt;He wields the &lt;strong&gt;Dead Lord’s Scepter&lt;/strong&gt;, and his basic attack is to bonk someone
+with it, dealing lightning-and-necrotic damage. His basic ranged attack is the
+&lt;strong&gt;Grasp of the Dead&lt;/strong&gt; spell (range 20 vs. Fortitude), which deals necrotic
+damage and lets one undead creature adjacent to the target make a free melee
+basic attack. If the attack hits, the creature marks the target for a turn.&lt;/p&gt;
+
+&lt;p&gt;He can also cast a &lt;strong&gt;Plume of Death&lt;/strong&gt; (area 2 within 10 vs. Fortitude, recharge
+5+), a fireball-sized spell that deals acid-and-necrotic damage and summons a
+Vizier’s Skeleton on a square within the burst.&lt;/p&gt;
+
+&lt;p&gt;As a move action, the Lord can draw on his secret knowledge and perform a brief
+&lt;strong&gt;Planar Displacement&lt;/strong&gt;, teleporting 15 squares and leaving a brand-new Vizier’s
+Skeleton in the origin square.&lt;/p&gt;
+
+&lt;h3 id=&quot;viziers-skeleton&quot;&gt;Vizier’s Skeleton&lt;/h3&gt;
+
+&lt;p&gt;These sophisticated undead minions are constantly produced by the Lord Vizier’s
+special attacks, and he will probably have a whole bunch of them on hand when
+the fight starts in addition to some powerful non-minion undead. They’re Medium
+Natural Animates (undead) and Level 26 Minion Brutes who fight with &lt;strong&gt;Deadflame
+Swords&lt;/strong&gt; that do fire-and-necrotic damage, and can shoot &lt;strong&gt;Chill Shards&lt;/strong&gt;
+(Ranged 10) to do cold-and-necrotic damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;When met outside his city, the Dragon is always alone and on a specific
+mission. He will usually completely ignore most people who have nothing to do
+with his goal, believing they are beneath his notice. Of course, if those people
+are stupid enough to pick a fight with him, he is only too glad to oblige,
+completely confident of his victory and with good reason.&lt;/p&gt;
+
+&lt;p&gt;If he is attacked &lt;em&gt;in Ur Draxa&lt;/em&gt;, I imagine the Dead Lords would join the fight
+too. Better bring an army or ten.&lt;/p&gt;
+
+&lt;p&gt;The Lord Vizier generally obeys the Dragon’s every order and kills whoever he
+wants dead. I wonder if he can be met in friendlier terms when following his own
+agenda. Epic PCs would make perfect agents for recovering that lost lore without
+the Dragon noticing.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/25/wir-dscc-dragon-of-tyr.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/25/wir-dscc-dragon-of-tyr.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Personages of Athas</title>
+        <description>&lt;p&gt;You’d normally expect a monster book to end right after the “Zombie” entry, but
+we’re only at the two-third mark on this one. We’re now entering the section on
+the “Personages of Athas”.&lt;/p&gt;
+
+&lt;p&gt;The book has a really short intro for it, explaining that it takes a lot of
+skill and luck to survive for long in this world, and that this is a sample of
+people who managed to do exactly that and are therefore remarkable.&lt;/p&gt;
+
+&lt;p&gt;The difference between the entries in this section and the ones in the monster
+section are not mechanical. As far as I can understand, every entry in this
+section concerns one or more specific individuals. And while I haven’t read
+every entry yet, I also suspect the book doesn’t expect them to automatically be
+your enemies. They could be entirely neutral to your goals, or they might even
+be potential allies. While one of these things is also often true about the
+monster entries, both should be true for everyone in this section.&lt;/p&gt;
+
+&lt;p&gt;I think this is why the Dragon of Tyr was in the monster section. He is a
+specific individual, but he’s also the “final boss” of Dark Sun. By default,
+he’s not particularly interested in making new alliances and no PC party who
+isn’t completely rotten to the core would think of allying with him for real.&lt;/p&gt;
+
+&lt;p&gt;The Sorcerer-Kings, however, &lt;em&gt;are&lt;/em&gt; in the Personages section, because I imagine
+PCs might want to form temporary alliances with some of them against the
+others. We’ll also see a bunch of much lower level randos.&lt;/p&gt;
+
+&lt;p&gt;As I stated in an earlier post, I decided to move the Dragon’s description to
+this section as I consider him to be more of a Personage than a monster. So
+we’ll start with him on the next post.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/24/wir-dscc-personages.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/24/wir-dscc-personages.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Creature Catalog: Zombie</title>
@@ -954,226 +1204,6 @@ which also exist in Athas because why wouldn’t they?&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Silt Runner</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-silt-runner.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A silt-runner, which looks like a little purple lizard dude running very
-    fast while carrying a spear.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Silt Runners are basically Athasian Kobolds. While they’re not described as
-“savage”, all of the usual kobold slander is also present here. They’re small
-reptilian humanoids who are intensely xenophobic and whose entire society is
-based on raiding other humanoid settlements. They wield stolen weapons and wear
-bits of clothing and body parts from their victims as trophies, eating the rest.&lt;/p&gt;
-
-&lt;p&gt;The main differences here seem to be that Silt Runners are more related to
-ssurrans (Athasian lizardfolk) than to dragons, and that they’re much more
-nomadic and aggressive. They gather in warrens linked by tunnels and located
-near their prospective raid targets, but are quick to abandon those hideouts
-when their targets attempt a retaliatory strike.&lt;/p&gt;
-
-&lt;p&gt;For some reason, silt runners hate the fey, and have been known to ignore far
-more vulnerable targets in favor of attacking well-protected elves and eladrin.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Silt Runners are low-level and fit right alongside kobolds as Small Natural
-Humanoids with the Reptile tag. But while standard kobolds have the Shifty
-trait, Silt Runners have &lt;strong&gt;Silt Runner Swarm&lt;/strong&gt;, which causes any enemy adjacent
-to 2 or more silt runners to take 2 damage at the start of their turn. They also
-have low-light vision and a surprisingly zippy ground speed of 7.&lt;/p&gt;
-
-&lt;h3 id=&quot;silt-runner-darter&quot;&gt;Silt Runner Darter&lt;/h3&gt;
-
-&lt;p&gt;These Level 1 Artillery menaces have 25 HP and wield blowguns with an assortment
-of darts. They keep to the edges of the battle and shoot whoever they can.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Blowgun&lt;/strong&gt; deals standard damage and has Range 12, so they can keep a fair
-distance away from the scrum. Some of their shots will be with &lt;strong&gt;Poisoned
-Darts&lt;/strong&gt; (recharge 5+), which deal heavy poison damage and immobilize (save
-ends). As an aftereffect, the target is slowed (save ends). A miss deals half
-damage and slows for a turn, which is very strong for a rechargeable attack.&lt;/p&gt;
-
-&lt;p&gt;If engaged in melee, they can defend themselves with &lt;strong&gt;Wooden Daggers&lt;/strong&gt;, but
-those are nothing to write home about.&lt;/p&gt;
-
-&lt;h3 id=&quot;silt-runner-rager&quot;&gt;Silt Runner Rager&lt;/h3&gt;
-
-&lt;p&gt;Ragers are Level 1 Brutes with 34 HP. The &lt;strong&gt;Bone Spears&lt;/strong&gt; they wield look
-comically large, but have Reach 2 and are very effective. In addition to
-standard attacks, they can use them in &lt;strong&gt;Brutal Spear&lt;/strong&gt; maneuvers that deal
-increased damage and recharge when first bloodied, or in a &lt;strong&gt;Penetrating Spear&lt;/strong&gt;
-maneuver that also deals increased damage and makes the target Vulnerable 5 to
-all damage for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;silt-runner-inciter&quot;&gt;Silt Runner Inciter&lt;/h3&gt;
-
-&lt;p&gt;This one is a Level 2 Controller with the Leader tag and 38 HP. If they had a PC
-class, they would be Ardents, as they have psionic powers capable of causing
-strong emotions on their allies - fury, in this case.&lt;/p&gt;
-
-&lt;p&gt;Inciters can make a decent show of themselves in melee with their &lt;strong&gt;Bone
-Swords&lt;/strong&gt;, and they can attack at range with a &lt;strong&gt;Psionic Detonation&lt;/strong&gt; (area 1
-within 10, recharge 6+) that deals force damage and creates a zone that lasts
-for a turn and is difficult terrain for enemies.&lt;/p&gt;
-
-&lt;p&gt;They can also &lt;strong&gt;Incite Fury&lt;/strong&gt; in a close blast 5, causing each ally within the
-blast to shift 1 square and make a free basic attack either before or after the
-shift. When first bloodied, they can do that again as a free action, &lt;em&gt;and&lt;/em&gt;
-Incite Fury recharges, which means they could use this power a total of three
-times per encounter.&lt;/p&gt;
-
-&lt;p&gt;Inciters want to drop that difficult terrain zone as soon as possible and then
-have their allies swarm the PCs caught inside so that Incite Fury is maximally
-effective.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Silt Runners mostly stick together, but will sometimes cooperate with other
-reptilian humanoids, and keep reptilian beasts as pets.&lt;/p&gt;
-
-&lt;p&gt;So yeah, they’re Athasian Kobolds. You can easily take standard kobold stat
-blocks, increase their speed to 7, and replace Shifty with Silt Runner Swarm to
-increase your collection of silt runner stat blocks.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/10/21/wir-dscc-silt-runner.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/21/wir-dscc-silt-runner.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dungeon Fantasy &quot;Monster&quot;: Recap</title>
-        <description>&lt;p&gt;I’m going to write this in the same format I use for my Monster Manual Let’s
-Reads, even though it’s not really a “monster”.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;These plump mushrooms are a about a foot tall when fully grown, and have purple
-caps. They’re very distantly related to shriekers, but their abilities are much
-more specialized.&lt;/p&gt;
-
-&lt;p&gt;When someone disturbs a recap, the mushroom scans the person’s memories and
-loudly summarizes the most important events of the last week or so of their
-lives.&lt;/p&gt;
-
-&lt;p&gt;“Most important” here is defined by what’s foremost in the target’s minds. Yes,
-they do have a tendency to spill closely held secrets that are big sources of
-anxiety or regret for the victim. Some believe recaps they were originally
-developed by an underground civilization with a strong tradition in psionics to
-act as interrogation tools. Nowadays you can find them in the wild inside caves
-and other damp and dark places, like many dungeons.&lt;/p&gt;
-
-&lt;p&gt;At least one investigator on the surface is known to carry a potted recap around
-in a specially built cage, using it for its original purpose when questioning
-suspects.&lt;/p&gt;
-
-&lt;p&gt;Even if the victim manages to resist the mind reading attempt, the recap
-will still speak a bunch of unconnected nonsense words for a minute or so. Those
-who are mainly concerned about noise should refrain from touching them at all.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Recaps aren’t “monsters” in a literal sense. Despite their radio-announcer
-voices, they’re nonsapient and immobile. A good whack with any weapon will
-destroy your typical recap. In GURPS, it has SM -5, DR 0, and 1 HP.&lt;/p&gt;
-
-&lt;h3 id=&quot;wild-recap-cluster&quot;&gt;Wild Recap Cluster&lt;/h3&gt;
-
-&lt;p&gt;In the wild, recaps grow in clusters and work like traps. Clusters are usually
-on the ground, but might also grow on walls or ceilings. If one mushroom in the
-cluster is disturbed by a touch at least strong enough to jostle it, the whole
-cluster “activates” and performs its narration as one big speaker. Actual damage
-also counts, of course - if a damaging attack leaves at least one recap
-standing, it will activate on the next turn.&lt;/p&gt;
-
-&lt;p&gt;A recap cluster takes up 1 hex and has the following stats.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Detect&lt;/em&gt;: Clusters are usually big enough to be plainly visible. Roll
-&lt;strong&gt;Naturalist&lt;/strong&gt; at -2 to identify the mushrooms as recaps.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Disarm&lt;/em&gt;: No. Attacks that deal at least 6 damage to the whole hex at once will
-completely destroy all the recaps before they can activate. Anything less will
-trigger them.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Avoid&lt;/em&gt;: &lt;strong&gt;DX&lt;/strong&gt; at -5 or &lt;strong&gt;Light Walk&lt;/strong&gt;. The &lt;strong&gt;Silence&lt;/strong&gt; spell will render the
-cluster harmless for as long as it lasts.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Save&lt;/em&gt;: Quick Contest of &lt;strong&gt;Will&lt;/strong&gt; against skill 16 to avoid having your mind
-read. &lt;strong&gt;Magic Resistance&lt;/strong&gt; helps.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Effect&lt;/em&gt;: About a minute of loud noises. If the target won the contest of Will,
-this will be a string of nonsense words. If they lost, the recap will summarize
-the previous week of their lives as if it was the last episode of a radio
-serial, potentially airing some dirty laundry.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Shots&lt;/em&gt;: Constant.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Rearm&lt;/em&gt;: No.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Steal&lt;/em&gt;: Roll against &lt;strong&gt;Naturalist&lt;/strong&gt; to harvest one large, healthy recap
-specimen per hex. This weights 1 lb. and is worth $1000 if delivered intact to
-the right people back in town.&lt;/p&gt;
-
-&lt;h3 id=&quot;recap-inquisitor&quot;&gt;Recap Inquisitor&lt;/h3&gt;
-
-&lt;p&gt;This consists of a large, healthy recap specimen planted on good soil in a clay
-pot, surrounded by small but sturdy iron cage with large gaps between the
-bars. It’s used by the “right people” back in town or by unscrupulous villains
-in interrogations. They just need to ask (or force) the subject to poke the
-mushroom.&lt;/p&gt;
-
-&lt;p&gt;The subject must win a quick contest of &lt;strong&gt;Will&lt;/strong&gt; against a skill of 16 to
-prevent the ‘shroom from narrating all their dirty laundry from the past seven
-days. It will speak a string of nonsense words if the subject resists, and
-experienced handlers will know what that means. The cage offers DR 7 against
-swinging attacks and other impacts (such as dropping the device), but the large
-gaps mean it doesn’t protect against thrusting ones.&lt;/p&gt;
-
-&lt;p&gt;Recap Inquisitors cost $2000 and weight 10 lbs. Monthly maintenance requires
-$100 in supplies and success in a &lt;strong&gt;Naturalist&lt;/strong&gt; roll to keep the ‘shroom alive.&lt;/p&gt;
-
-&lt;h2 id=&quot;additional-notes&quot;&gt;Additional Notes&lt;/h2&gt;
-
-&lt;p&gt;I put in the same resistance mechanics for the two entries but I think they’re
-mostly relevant for an interrogation scenario. When you step onto a recap patch
-in the wild it’s probably funnier if they just succeed and narrate your last
-week. It might even be fun to have the PC’s player do the narration if they’re
-so inclined.&lt;/p&gt;
-
-&lt;p&gt;I say this because in my experience PCs rarely have something to hide from each
-other, so there wouldn’t be really any dirty laundry that they didn’t want
-aired. Of course, if you your group &lt;em&gt;is&lt;/em&gt; a party of sneaky gits who do keep
-important secrets from each other, then you should probably keep the resistance
-test in place.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/10/19/recap.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/19/recap.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
