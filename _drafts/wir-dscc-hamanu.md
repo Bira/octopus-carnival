@@ -128,8 +128,8 @@ As a character, Hamanu seems to be what you get when you leave most of your
 settings at default, the very first picture that comes into your mind when you
 read the general description of what a Sorcerer-King is. The surprises only
 start when it's time to actually fight him, because "muscle wizard" is probably
-not the very first thing that comes to your mind, and "lion-dragon monster"
-definitely isn't either.
+not the very first thing that comes to your mind, and neither is "lion-dragon
+monster".
 
 In a fight, Hamanu will likely want to alpha strike as soon as possible, using
 Hamanu's Whisper and Sulfuric Bolts as soon as enough targets are in range and

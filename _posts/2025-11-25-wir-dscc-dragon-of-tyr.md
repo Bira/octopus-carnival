@@ -9,7 +9,7 @@ tags:
 
 {::nomarkdown}
 <figure class="center">
-  <img src="{{ "/assets/wir-dscc-thri-dragon-of-tyr.png" | absolute_url }}"/>
+  <img src="{{ "/assets/wir-dscc-dragon-of-tyr.png" | absolute_url }}"/>
   <figcaption>
     The Dragon of Tyr, making a dapper pose for the camera.
   </figcaption>

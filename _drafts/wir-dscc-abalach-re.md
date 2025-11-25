@@ -26,7 +26,7 @@ lets her nobles make war on each other while her police forces oppress a
 starving population and numerous rebellions grow right under her nose.
 
 In reality, she's a lot more aware of what goes on in her domain. It's just that
-the enjoys the cruelty on display, and likes to see those nascent rebellions
+she enjoys the cruelty on display, and likes to see those nascent rebellions
 crushed. She _is_ decadent and debauched, but even that is a fruit of her
 explorations on the limits of her own physical form. This research has granted
 her prodigious body manipulation abilities, which she teaches to her closest

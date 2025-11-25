@@ -22,7 +22,7 @@ defiling magic.
 
 Dregoth completed his draconic transformation ahead of everyone else except
 Borys (who had help!). He created a whole new species in his image (the dray),
-and was in the process of perfecting ther design and teaching them to worship
+and was in the process of perfecting their design and teaching them to worship
 him when Abalach-Re decided to see what he was up to and became terrified.
 
 She warned the others, and they banded together to eliminate the threat because
@@ -39,16 +39,16 @@ transformation into a dray, if they weren't one already.
 The plan remains the same: gather enough worshippers to undergo apotheosis and
 become a real god. By now, centuries after his death, Dregoth has a sizable army
 of dray, undead, and other creatures under his command. Real Soon Now (TM), he's
-going to invade the surface to get revenger on his former "buddies" and gather
-all the worship he needs to finally complete the project.
+going to invade the surface to get revenge on his former "buddies" and gather
+all the worship he needs to finally complete his unlife's work.
 
 Dregoth's undeath works like that of a lich. His soul is hidden in an artifact
 somewhere in New Giustenal, and if he's killed he will reform next to that
 artifact within three days. The only other person who knows this is Absalom, his
 high priest. Absalom used to be human, and was one of the first of Dregoth's
 subjects to be transformed into a dray after Giustenal's fall. Dregoth then
-killed him and raised him as an undead being, which explains why he's still
-around.
+killed him and raised him as a unique undead being, which explains why he's
+still around.
 
 Absalom is a competent high priest, but his true loyalty is to the dragonborn of
 New Giustenal. Should he ever have to choose, that's whom he'll pick. Canny
@@ -95,7 +95,7 @@ lower if he turns into a specific individual without changing out of his robes.
 Absalom is a strong melee combatant, but he's much better as a ranged
 nuisance. Mark someone at the limit of his Oath's range and then stay away from
 them while attacking with Soul Siphon. When someone gets close, use Slicing
-Maneuvers to stab them, teleport to a distant squishy and stab _them_ too.
+Maneuvers to stab them, and teleport to a distant squishy to stab _them_ too.
 
 ### Dregoth, Sorcerer-King
 
@@ -135,8 +135,8 @@ is knocked prone.
 So many encounter powers, that means he becomes a lot less dangerous once
 they're all used up, right? No, because he can use **Spellmaster** (recharge 5+)
 as a minor action to recover any of them. He can also **Change Shape** to appear
-as a Medium dragonborn, or as a specific individual with. The DC for seeing
-through such a disguise is 47.
+as a Medium dragonborn, or as a specific individual he's seen before. The DC for
+seeing through such a disguise is 47.
 
 When Dregoth is hit by an attacker within 4 squares he can use a **Tail
 Riposte** as a reaction. This does some damage, inflicts 15 fire+necrotic
@@ -154,7 +154,7 @@ stay close.
 
 I like that Absalom is a unique undead being that you can't easily slot into any
 classification. Dregoth is technically one too, though the individual components
-of his schtick are more familiar. He is a dragon who is a lich, but not a
+of his schtick are more familiar. He is a dragon who is a lich, but he's not a
 dracolich. Savvy?
 
 In any case, he feels to me like better villain material than the Dragon of
@@ -171,5 +171,5 @@ Themes later).
 
 Absalom is dangerous, but his level is so much lower than Dregoth's you're not
 likely to meet both of them at once. He's either the guy you convince to ally
-with you against Dregoth, or the guy you defeat on the way of enlisting
-Dregoth's army to fight the Dragon.
+with you against Dregoth, or the guy you defeat on the way to enlisting
+Dregoth's army to fight the Dragon of Tyr.
