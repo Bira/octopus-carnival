@@ -22,10 +22,10 @@ Sorcerer-Kings as well. The price for his "love" is constant supervision and
 total submission.
 
 Despite being a very classically-trained wizard, Hamanu loves physical combat
-and is quite good at punching people to death. He's managing his slow draconic
-transformation so that the signs remain subtle for as long as possible, so most
-of the time they consist of golden eyes and slightly long teeth. When wounded in
-combat, however, be transforms into a big lion-dragon-thing.
+and is quite good at punching people to death. He's managing his gradual
+draconic transformation so that the signs remain subtle for as long as possible,
+so most of the time they consist of golden eyes and slightly long teeth. When
+wounded in combat, however, be transforms into a big lion-dragon-thing.
 
 Urik templars live spartan lives, but do get to enjoy the perks of their
 station, chief among which is the right to push the common people around.

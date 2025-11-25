@@ -111,6 +111,8 @@ individuals that might be enemies or allies.
 
 [Intro][53]
 
+- [The Dragon of Tyr, For Real This Time][54]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -165,3 +167,4 @@ individuals that might be enemies or allies.
 [51]: {{ "/2025/11/19/wir-dscc-wight.html" | relative_url }}
 [52]: {{ "/2025/11/23/wir-dscc-zombie.html" | relative_url }}
 [53]: {{ "/2025/11/24/wir-dscc-personages.html" | relative_url }}
+[54]: {{ "/2025/11/25/wir-dscc-dragon-of-tyr.html" | relative_url }}
