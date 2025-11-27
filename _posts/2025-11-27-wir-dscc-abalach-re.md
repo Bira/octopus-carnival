@@ -95,11 +95,11 @@ automatic damage to the victim.
 
 All other traits here depend on the kuotagha having one or more grabbed
 victims. The ~~creature~~ agent of the law can inflict criticals on its grabbed
-victims on a 18-20 (which is _incredibly_ generous in 4e), has a +4 to all
-defenses while it has a grabbed victim, and when someone attacks it while it's
-grabbing someone it can shift 1 square and slide any grabbed victims 1 square to
-a square adjacent to it as in interrupt. This will only happen once per round,
-but it's gonna be _so annyoing_.
+victims on a 18-20 (which is very generous in 4e), has a +4 to all defenses
+while it has a grabbed victim, and when someone attacks it while it's grabbing
+someone it can shift 1 square and slide any grabbed victims 1 square to a square
+adjacent to it as in interrupt. This will only happen once per round, but it's
+gonna be _so annyoing_.
 
 And this is a regular monster, meaning you could potentiall fight a whole team
 of them at once.
@@ -142,9 +142,9 @@ recharges when she's first bloodied.
 
 In addition to all of the above, when Abalach-Re is hit with any attack she can
 use **Vengeance of Adaptive Flesh** as a reaction. This is a Ranged 10 attack
-that targets Will, and deals ongoing damage of the same type she just took (save
-ends). Like all of her other ranged attacks, this doesn't provoke opportunity
-attacks.
+that targets Will, and deals 15 ongoing damage of the same type she just took
+(save ends). Like all of her other ranged attacks, this doesn't provoke
+opportunity attacks.
 
 It looks to me like she wants to stay mostly away from the PCs, using her powers
 to slide them into the defiling field so she can further damage them with more
