@@ -7,6 +7,16 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-andropinis.png" | absolute_url }}"/>
+  <figcaption>
+    Andropinis, who looks like a regal old wizard when he's not trying to kill
+    you.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Andropinis is the Sorcerer-King who rules the city of Balic. His official title
