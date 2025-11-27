@@ -6,9 +6,172 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Nov 2025 18:57:32 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Nov 2025 18:57:32 +0000</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 14:00:56 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 14:00:56 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Abalach-Re</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-abalach-re.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Abalach-Re, who seems beautiful from a distance, but whose body-horror
+    mutations become obvious when you get closer.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Abalach-Re is a Sorcerer-Queen who rules the city of Raam as its Grand Vizier, a
+title she chose because she claims to rule on behalf of a (fictional) deity
+named Badna. Outwardly, she seems like a lazy, decadent and debauched ruler, who
+lets her nobles make war on each other while her police forces oppress a
+starving population and numerous rebellions grow right under her nose.&lt;/p&gt;
+
+&lt;p&gt;In reality, she’s a lot more aware of what goes on in her domain. It’s just that
+she enjoys the cruelty on display, and likes to see those nascent rebellions
+crushed. She &lt;em&gt;is&lt;/em&gt; decadent and debauched, but even that is a fruit of her
+explorations on the limits of her own physical form. This research has granted
+her prodigious body manipulation abilities, which she teaches to her closest
+agents and favored children.&lt;/p&gt;
+
+&lt;p&gt;Abalach-Re keeps a close eye on her peers and was the one who alerted them when
+Dregoth got a bit too uppity. She makes sure to keep her own self-modification
+experiments a secret from the other sorcerer-kings, as these are her chosen path
+to ascension as a god-like being.&lt;/p&gt;
+
+&lt;p&gt;Raam’s day-to-day administration is in the hands of several noble houses, each
+of which controls a different district. They’re more like organized crime
+syndicates than anything else, constantly at each other’s throats and united
+only in their desire to exploit the people under their charge. They’re aided in
+this by the city’s police force. Its officers, the Mansabdars, theoretically
+answer directly to the Queen, but in practice are all in the pockets of whatever
+noble house oversees their beat, and are no more than brutal thugs.&lt;/p&gt;
+
+&lt;p&gt;Abalach-Re lets them all do it because, as stated above, she likes the
+cruelty. Instead of reining it in, she created an elite secret police force, the
+High Kuotaghas, who actually enforce her will in the city and act to smack down
+any noble who gets a little &lt;em&gt;too&lt;/em&gt; confident. Kuotaghas often receive their
+queen’s “gifts” and as such have access to some body horror powers.&lt;/p&gt;
+
+&lt;p&gt;Most of the Queen’s children are part of her court or members of the Kuotaghas,
+but some have turned against her. She lets them, because all of ther children
+have unknowingly been implanted with magical locator beacons. Even the
+rebellious ones are useful tools to detect other rebels.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three entries here and as usual I’m going to talk about them in order of
+ascending level.&lt;/p&gt;
+
+&lt;h3 id=&quot;street-mansabdar&quot;&gt;Street Mansabdar&lt;/h3&gt;
+
+&lt;p&gt;A typical member of the force that should be enforcing the city’s laws but is
+instead enforcing the will of some local warlord in exchange for fat
+bribes. It’s a Level 7 Soldier with 76 HP and a speed of 6. Clad in hide armor,
+it’s armed with a mace and a scourge.&lt;/p&gt;
+
+&lt;p&gt;The &lt;strong&gt;Mace&lt;/strong&gt; is our basic attack, which damages and marks on a hit. If a marked
+target ignores the mark, the mansabdar can use its &lt;strong&gt;scourge&lt;/strong&gt; against them as
+an interrupt. It does the same damage as the mace, and knocks prone on a hit.&lt;/p&gt;
+
+&lt;p&gt;Then the mansabdar can use &lt;strong&gt;Beat Down&lt;/strong&gt; against the prone target, which deals
+the same damage as a basic mace strike and slows for a turn. If the target
+stands up before the end of its next turn, it also takes ongoing 5 damage (save
+ends).&lt;/p&gt;
+
+&lt;h3 id=&quot;high-kuotagha&quot;&gt;High Kuotagha&lt;/h3&gt;
+
+&lt;p&gt;A trusted agent of Abalach-Re, member of the group actually responsible for
+enforcing her will in the city. While still tagged as a human in its stat block,
+this kuotagha was &lt;em&gt;extensively&lt;/em&gt; mutated by his boss, which I’m sure will be a
+nice surprise to the PCs. It’s a level 21 Lurker with 150 HP, a ground speed of
+7, and a Spider Climb speed of 6. It also has low-light vision.&lt;/p&gt;
+
+&lt;p&gt;The kuotagha fights with &lt;strong&gt;Claws&lt;/strong&gt;, which target Reflex instead of AC, meaning
+they’re the “shreds armor like paper” kind. It can also extrude a &lt;strong&gt;Flesh
+Garrote&lt;/strong&gt; that does the same damage and grabs on a hit. This grab inflicts a -4
+penalty to escape attempts, and there is no limit to the number of victims the
+kuotagha can grab in this way. I’ll let you imagine how that works. All grabs
+can be sustained at once with a single standard action, which also does some
+automatic damage to the victim.&lt;/p&gt;
+
+&lt;p&gt;All other traits here depend on the kuotagha having one or more grabbed
+victims. The &lt;del&gt;creature&lt;/del&gt; agent of the law can inflict criticals on its grabbed
+victims on a 18-20 (which is very generous in 4e), has a +4 to all defenses
+while it has a grabbed victim, and when someone attacks it while it’s grabbing
+someone it can shift 1 square and slide any grabbed victims 1 square to a square
+adjacent to it as in interrupt. This will only happen once per round, but it’s
+gonna be &lt;em&gt;so annyoing&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this is a regular monster, meaning you could potentiall fight a whole team
+of them at once.&lt;/p&gt;
+
+&lt;h3 id=&quot;abalach-re-sorcerer-queen&quot;&gt;Abalach-Re, Sorcerer-Queen&lt;/h3&gt;
+
+&lt;p&gt;Abalach-Re is a Level 23 Solo Controller with the Leader tag and 856 HP. Like
+her henchthing above, she’s technically human, but “technically” is doing even
+more heavy lifting in her case. As mentioned above, she’s seeking a custom path
+to immorality that involves lot of self-bioengineering, and the fruits of this
+are evident in this stat block.&lt;/p&gt;
+
+&lt;p&gt;Abalach-Re has low-light vision, a ground speed of 8, and a flight speed of 5
+with hover and an altitude limit of 2. The &lt;strong&gt;Spirit Flight&lt;/strong&gt; trait gives her
+insubstantial and phasing while she moves.&lt;/p&gt;
+
+&lt;p&gt;Two of her three basic attacks can be either melee 1 or ranged 10: &lt;strong&gt;Telekinetic
+Thrust&lt;/strong&gt; targets Fortitude, deals physical damage, slides 5 squares and
+immobilizes (save ends); &lt;strong&gt;Instinct Overload&lt;/strong&gt; targets Will, deals psychic
+damage and lets Abalach-Re dictate the next move or standard action the target
+will take on their turn, though she cannot force a victim to use a power.&lt;/p&gt;
+
+&lt;p&gt;The third basic attack is &lt;strong&gt;Disrupting Touch&lt;/strong&gt;, which targets Reflex and can be
+either Melee 3 or Ranged 10. On a hit it deals physical damage and ongoing 10
+force damage (save ends). Unlike the others, which are obviously psychic powers,
+I think this one might be a touch spell where she stretches her arms really far.&lt;/p&gt;
+
+&lt;p&gt;Anyway, &lt;strong&gt;Morphing Power Splice&lt;/strong&gt; lets Abalach-Re make three attacks with one
+action without provoking opportunity attacks, so she could use any combination
+of the above on the same turn.&lt;/p&gt;
+
+&lt;p&gt;She can also lay down a &lt;strong&gt;Defiling Field&lt;/strong&gt;, creating a zone in a Close Burst 3
+that lasts until the end of the encounter. Any enemy that takes damage within
+the zone also takes ongoing 15 necrotic damage (save ends). Thankfully this is
+an encounter power, but it recharges when she’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Her movement power is &lt;strong&gt;Allocation&lt;/strong&gt;, which lets her teleport 10 squares and
+then slide any enemy adjacent to her at the arrival point 5 squares. This also
+recharges when she’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;In addition to all of the above, when Abalach-Re is hit with any attack she can
+use &lt;strong&gt;Vengeance of Adaptive Flesh&lt;/strong&gt; as a reaction. This is a Ranged 10 attack
+that targets Will, and deals 15 ongoing damage of the same type she just took
+(save ends). Like all of her other ranged attacks, this doesn’t provoke
+opportunity attacks.&lt;/p&gt;
+
+&lt;p&gt;It looks to me like she wants to stay mostly away from the PCs, using her powers
+to slide them into the defiling field so she can further damage them with more
+attacks and ongoing damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;This is a pretty strong opening for this section, and a brief look tells me
+Abalach-Re is likely the weakest of the Sorcerer Kings. She doesn’t seem to have
+any particular resistance against being stunlocked by PC powers, so even though
+she’s a solo you might want to add some high kuotagha bodyguards to her fight.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the Dark Sun Creature Catalog: Dragon of Tyr</title>
@@ -1060,144 +1223,6 @@ ssurrans is not nice there will likely be someone much worse nearby.&lt;/p&gt;
         <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Spider</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-crystal-spider.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A large spider made of translucent crystal.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Dark Sun is still a D&amp;amp;D setting. Therefore it needs giant spiders.&lt;/p&gt;
-
-&lt;p&gt;Athasian giant spiders behave much like their kin from other worlds. They prefer
-locations that afford them plenty of hiding and ambush spots like caves, deep
-valleys, and so on. While neither of the varieties presented here can spin webs
-fast enought to do so during combat, they still might cover entire chasms or
-large passages in them as they wait for more prey to wander by.&lt;/p&gt;
-
-&lt;h2 id=&quot;crystal-spider&quot;&gt;Crystal Spider&lt;/h2&gt;
-
-&lt;p&gt;One of the prettiest monsters in the Tablelands, its carapace is made of actual
-crystal. Aside from the usual venomous bite and their razor-sharp appendages,
-crystal spiders also have smome power over light and are capable of radiant
-attacks.&lt;/p&gt;
-
-&lt;p&gt;Crystal Spiders are Large Natural Beasts and Level 4 Lurkers with 39 HP. Their
-ground and Spider Climb speeds are both 8, and they have Tremorsense 10 to
-detect people touching their webs. Their carapace makes gives them Resist 5
-Radiant, but also Vulnerable 5 Thunder.&lt;/p&gt;
-
-&lt;p&gt;It also gives them the &lt;strong&gt;Gleaming Carapace&lt;/strong&gt; trait, which gives them concealment
-until the end of their next turn any time they move more than 5 squares in the
-same action. I guess glare is a major problem with fighting crystal spiders on
-their home turf.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is a decently damaging &lt;strong&gt;Razor Leg&lt;/strong&gt; (melee 2), and they can
-use a &lt;strong&gt;bite&lt;/strong&gt; (melee 1 vs. Fort) against a target that cannot see them, dealing
-both immediate and 10 ongoing poison damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;Crystal spiders could achieve that unseen state by moving more than 5 squares
-and hiding, but they have a couple of shortcuts in the form of their
-light-bending powers. &lt;strong&gt;Radiant Agony&lt;/strong&gt; (close burst 2 vs. Fort) pushes its
-targets 3 squares and blinds them for a turn, recharging whenever no one is
-blinded or when the spider hits with its bite. &lt;strong&gt;Brilliant Ray&lt;/strong&gt; (ranged 10
-vs. Ref, recharge 5+) does a good chunk of radiant damage and blinds for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;crystalline-web&quot;&gt;Crystalline Web&lt;/h3&gt;
-
-&lt;p&gt;Any place where crystal spiders hunt will be filled with these razor sharp
-traps. They’re statted up as Level 4 Obstacles, each consisting of a patch of
-webbing 4x4 squares in size, stretched between two surfaces. They’re
-semi-transparent and require a DC 14 Perception check to notice in bright light,
-or 19 in dim light.&lt;/p&gt;
-
-&lt;p&gt;When a character enters a web square, the web attacks their Reflex, doing
-immediate and ongoing 5 physical damage on a hit (save ends). Hit or miss, the
-target’s movement ends and it gets pushed back to the last square it occupied.&lt;/p&gt;
-
-&lt;p&gt;A character can use Acrobatics (DC 14) to move through a webbed square, or they
-can attack the web and deplete its 25 HP to destroy it.&lt;/p&gt;
-
-&lt;p&gt;An elite version of this trap has 50 HP instead, and deals increased damage when
-it catches someone. In either case, good luck dodging these in dim light or
-while blinded by the crystal spiders who made them!&lt;/p&gt;
-
-&lt;p&gt;The book doesn’t explicily state it, but I would say crystal spiders should be
-immune to the effects of their own webs.&lt;/p&gt;
-
-&lt;h2 id=&quot;white-widow&quot;&gt;White Widow&lt;/h2&gt;
-
-&lt;p&gt;White Widows are a bigger, stronger, and &lt;em&gt;stealthier&lt;/em&gt; relative of the crystal
-spider. While they lack the ability to fire lasers, they still have some control
-over light and like to blind their prey. They’re Huge Natural Beasts and Level
-15 Lurkers with 110 HP, resist 10 poison and radiant, and Vulnerable 10
-thunder. Their speed and senses are the same as a crystal spider.&lt;/p&gt;
-
-&lt;p&gt;The reason white widows like to blind their prey is that they deal 15 ongoing
-“poison and radiant” damage (save ends) when they hit blinded targets with any
-attack. Yes, this means their venom is deadly even to things that are normally
-resistant or immune to poison. This trait is named &lt;strong&gt;Combat Advantage&lt;/strong&gt; but
-that name is misleading, as it only grants its benefit against &lt;em&gt;blinded&lt;/em&gt;
-targets.&lt;/p&gt;
-
-&lt;p&gt;The spider’s &lt;strong&gt;bite&lt;/strong&gt; is a basic attack that also deals “poison and radiant”
-damage, but it’s not going to be used on its own unless conditions are
-right.&lt;/p&gt;
-
-&lt;p&gt;Instead of biting it can turtle up and use its &lt;strong&gt;Reflective Defense&lt;/strong&gt;, which
-gives it a +5 bonus to all defenses for a turn and blinds anyone who misses them
-with an attack during that time. The &lt;strong&gt;Scuttling Attack&lt;/strong&gt; maneuver (recharge 5+)
-lets it shift half its speed, bite someone, and shift the other half.&lt;/p&gt;
-
-&lt;p&gt;When hit by a fire, radiant or lightning attack (in other words, anything shiny)
-the spider can react with the &lt;strong&gt;Venomous Dawn&lt;/strong&gt; attack, enhancing and reflecting
-that light back at its attackers. This is a Close Burst 5 vs. Reflex, deals
-radiant damage, and blinds (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;widows-web&quot;&gt;Widow’s Web&lt;/h3&gt;
-
-&lt;p&gt;Any battle against white widows will happen in a place filled with
-these. They’re not sharp like a crystal spider’s, but they’re still quite
-dangerous as Level 15 Obstacle traps.&lt;/p&gt;
-
-&lt;p&gt;White widow web patches are 10x10 squares in size and require a DC 22 Perception
-check to notice in dim light, but are automatically visible in bright
-light. The web attacks the Reflex of anyone who enters one of its squares, and
-restrains on a hit (save ends). Webbed squares are also difficult terrain to
-anyone without the Spider Climb ability.&lt;/p&gt;
-
-&lt;p&gt;Characters can avoid the trap by leaping over webbed terrain, or destroy the web
-by dealing 40 HP of damage to it. An elite version has double the HP and can
-take two opportunity attacks per turn, which is useful in case two or more
-targets get pushed into it in the same action.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;You’ll mostly commonly be meeting these spiders singly or in pairs, with the
-rest of the encounter balance being made up of web patches. They can appear
-anywhere you would expect to find the standard varieties of D&amp;amp;D giant spider,
-which also exist in Athas because why wouldn’t they?&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/10/23/wir-dscc-spider.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/10/23/wir-dscc-spider.html</guid>
         
         <category>dnd4</category>
         
