@@ -115,6 +115,7 @@ individuals that might be enemies or allies.
 
 - A
   - [Abalach-re][55]
+  - [Andropinis][56]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -172,3 +173,4 @@ individuals that might be enemies or allies.
 [53]: {{ "/2025/11/24/wir-dscc-personages.html" | relative_url }}
 [54]: {{ "/2025/11/25/wir-dscc-dragon-of-tyr.html" | relative_url }}
 [55]: {{ "/2025/11/27/wir-dscc-abalach-re.html" | relative_url }}
+[56]: {{ "/2025/11/30/wir-dscc-andropinis.html" | relative_url }}
