@@ -6,9 +6,155 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 27 Nov 2025 14:05:58 +0000</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2025 14:05:58 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Nov 2025 03:46:09 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 03:46:09 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Andropinis</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-andropinis.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Andropinis, who looks like a regal old wizard when he&apos;s not trying to kill
+    you.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Andropinis is the Sorcerer-King who rules the city of Balic. His official title
+is Dictator, and his city has a lot of Greek and Roman elements as we saw in the
+other thread.&lt;/p&gt;
+
+&lt;p&gt;Here, the book says that Balic is clean, orderly, and mostly run along
+democratic lines. Its templars, called praetors here, are elected to their
+posts. Andropinis himself has an excellent reputation among his population, and
+encourages the region’s tradition of ancestral worship and primal magic,
+resulting in a remarkably fertile kingdom by Athasian standards.&lt;/p&gt;
+
+&lt;p&gt;Of course, the reasons for all of this are quite selfish. Andropinis has
+mystically tied himself to the land and its ancestral spirits, and he teaches
+his disciples to do the same. He encourages his people to love the land and tend
+to it using primal magic because it increases his own power and makes the area
+ripe for defiling. And obviously there’s never going to be elections for
+Dictator if he has anything to say about it.&lt;/p&gt;
+
+&lt;p&gt;His magical ties to the land form the basis of Andropinis’ power, and he also
+seems to be pursuing a more traditional draconic ascension path as a
+defiler. While he normally looks like a strong human in late middle age, when
+angry his features take on a reptilian cast, with golden scales appearing here
+and there.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Here we get stats for the man himself and some of the allies he is likely to
+surround himself with. We’ll look at them in order of level.&lt;/p&gt;
+
+&lt;h3 id=&quot;legionnaire-vestige&quot;&gt;Legionnaire Vestige&lt;/h3&gt;
+
+&lt;p&gt;This is one of those spirits venerated as Balic’s civic heroes. Andropinis can
+summon them and order them around. It’s a Medium Shadow Animate and a Level 21
+Minion Soldier with a ground speed of 6, a Flight speed of 5, Darkvision, and
+immunity to immobilization. Them being Animates instead of Humanoids makes me
+think the average Balic citizen is being misled about their true nature.&lt;/p&gt;
+
+&lt;p&gt;Anyway, every vestige has a &lt;strong&gt;Guarded Creature&lt;/strong&gt; chosen when they enter the
+fight, usually their summoner or creator. They fight with &lt;strong&gt;Shade Spears&lt;/strong&gt; that
+deal a bit of damage and mark the target until the vestige is defeated or the
+encounter ends, whichever comes first. Yes, they can have multiple marked
+targets if they last long enough.&lt;/p&gt;
+
+&lt;p&gt;If a marked enemy attacks the vestige’s guarded creature, the vestige teleports
+to space adjacent to their guarded creature as an interrupt, and grants the
+guarded creature +4 to all defenses against the attack. If the attack misses,
+the vestige drops to 0 HP. They’re jumping in front of the attack, essentially,
+so they’ll want to mark as many enemies as possible to better defend their
+charge.&lt;/p&gt;
+
+&lt;h3 id=&quot;high-praetor&quot;&gt;High Praetor&lt;/h3&gt;
+
+&lt;p&gt;An example of the highest-ranking templars of Balic, those chosen to stand by
+their Dictator’s side. It’s a Level 22 Soldier with the Leader tag and 211
+HP. Their ground speed is 7, and they have a teleport speed of 5.&lt;/p&gt;
+
+&lt;p&gt;They’re equipped like cliche Roman legionnaires, and their basic attack is a
+&lt;strong&gt;short sword&lt;/strong&gt; that deals increased damage on opportunity attacks. They can use
+it in a &lt;strong&gt;Face Cut&lt;/strong&gt; attack, which deals standard damage and dazes for a turn.&lt;/p&gt;
+
+&lt;p&gt;They attack at range with &lt;strong&gt;eldritch javelins&lt;/strong&gt; that deal force damage and slow
+(save ends). Once per encounter they can upgrade this to an &lt;strong&gt;Entrapping
+Javelin&lt;/strong&gt;, which deals extra force damage and immobilizes (save ends).&lt;/p&gt;
+
+&lt;p&gt;Their &lt;strong&gt;High Praetor Assault&lt;/strong&gt; maneuver lets them throw an Eldritch Javelin and
+then charge. This also summons a legionnaire vestige, and lets the praetor
+determine its guarded creature.&lt;/p&gt;
+
+&lt;p&gt;The praetor’s soldierly skill is &lt;strong&gt;Prateor’s Mark&lt;/strong&gt;, which lets them mark an
+enemy within 20 squares for a turn with a minor action. Marked enemies grant
+combat advantage when not adjacent to the praeto, and take 15 psychic damage if
+they make an attack that doesn’t target the praetor. So unlike most soldier
+monsters, high prateors want to be far away from enemies they mark.&lt;/p&gt;
+
+&lt;h3 id=&quot;andropinis-sorcerer-king&quot;&gt;Andropinis, Sorcerer-King&lt;/h3&gt;
+
+&lt;p&gt;The Dictator of Balic is a Level 25 Elite Controller (Leader) with 468 HP, a
+ground speed of 8, a flight speed of 5, darkvision, and blindsight 2. The fact
+that he’s an Elite instead of a Solo means he will have a &lt;em&gt;sizable&lt;/em&gt; honor guard
+made up of high praetors and epic-level mages when you fight him. The more
+allies he has, the more dangerous he is, even beyond the usual encounter maths.&lt;/p&gt;
+
+&lt;p&gt;Andropinis’ ties to his city and the surrounding region manifest in several
+ways. One of them is the &lt;strong&gt;Dictator’s Concord&lt;/strong&gt;, an aura (10) that gives a +2
+bonus to saves for all allies inside, and allows them to save against charm,
+fear, and stunning effects even if they would not normally allow saves.&lt;/p&gt;
+
+&lt;p&gt;His &lt;strong&gt;Wound Pact&lt;/strong&gt; lets him automatically deal psychic damage to anyone who
+damages him while he is already bloodied.&lt;/p&gt;
+
+&lt;p&gt;His basic melee attack is with a &lt;strong&gt;Pact Dagger&lt;/strong&gt;, which damages and knocks prone
+on a hit. The first time Andropinis takes damage before the end of his next
+turn, the target takes 10 damage and is slowed (save ends).&lt;/p&gt;
+
+&lt;p&gt;At range, he can use psychic powers to inflict &lt;strong&gt;Overwhelming Memories&lt;/strong&gt; on a
+target, dealing psychic damage and sliding them 3 squares.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aggression Pact&lt;/strong&gt; lets him use one of the two basic attacks above &lt;em&gt;and&lt;/em&gt; let
+one ally he can see make a free basic attack. &lt;strong&gt;Land Pact&lt;/strong&gt; attacks enemies in a
+Close Burst 3, deals untyped damage, and slows (save ends). While any target is
+slowed by the power, Andropinis has Regeneration 15. Land Pact also causes 4
+Legionnaire Vestiges to appear in the area, with Andropinis as their guarded
+creature. It recharges when he is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Andropinis can also use &lt;strong&gt;Transposition&lt;/strong&gt; (move) to switch places with an
+ally within 10 squares, and &lt;strong&gt;Dictator’s Authority&lt;/strong&gt; (minor) to let an ally take
+a whole standard action right then and there. This, fortunately, only recharges
+when he’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Finally, if Andropinis ever starts his turn without any allies within 10
+squares, a legionnaire vestige automatically appears within 10 squares, with him
+as the guarded creature.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Andropinis might outwardly seem to be one of the least bad sorcerer-kings, and a
+good propspect for an alliance against his peers. Of course, Balic being
+inspired by Greece and Rome means that it’s an enthusiastic practitioner of
+slavery. Those nifty civil rights are for citizens, and then only if Andropinis
+isn’t angry at them. And when the chips are down Andropinis would not hesitate
+to drain his whole kingdom of life in order to protect himself.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/11/30/wir-dscc-andropinis.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/30/wir-dscc-andropinis.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Abalach-Re</title>
@@ -1128,101 +1274,6 @@ moving on to the next.&lt;/p&gt;
         <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/11/07/wir-dscc-tarek.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/07/wir-dscc-tarek.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Ssurran</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-ssurran.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A ssurran, which looks like a lizard persion with tan scales, standing
-    on a desert ridge and armed with a bone pick.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;p&gt;I believe this entry confirms that different monster entries in the Catalog are
-written by different authors, because its description of Athasian lizardfolk is
-as even-handed and respectful as the one for muls was racist, and they’re not
-even playable by default!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;As mentioned above, ssurrans are Athasian lizardfolk. They’re as adapted to the
-desert wastes as their relatives from other worlds are to swamps. Like all other
-humanoids in Athas, their daily goal is survival.&lt;/p&gt;
-
-&lt;p&gt;Ssurrans (also known as “sandscale lizardfolk”) organize in nomadic tribes made
-up of several family groups and a number of reptilian beasts that serve the
-usual purposes from hauling cargo to helping in fights. They hunt, forage, and
-sometimes raid while on the move.&lt;/p&gt;
-
-&lt;p&gt;Ssurran raids on settled communities are downright merciful when compared to
-most others described so far. They allow the inhabitants to flee and only kill
-those who try to fight back. Then they steal every usable good they can carry
-and move away, taking care to erase their tracks and lay some false trails to
-deter pursuers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Ssurrans are Medium Natural Humanoids with the Reptile and Lizardfolk tags. They
-have a ground speed of 6 with Earth Walk, and speak Draconic. While this entry
-only has two stat blocks, it does outright say that you can take any standard
-lizardfolk from other books and replace Swamp Walk with Earth Walk to get a
-sandscale version. You can also apply one of the monster themes found in the
-back half of the book (and which we’ll see eventually).&lt;/p&gt;
-
-&lt;h3 id=&quot;ssurran-shaman&quot;&gt;Ssurran Shaman&lt;/h3&gt;
-
-&lt;p&gt;Sandscales have a long tradition of worshipping the sun and related primal
-spirits. A shaman’s duties also include preserving their tribe’s oral history
-and culture.&lt;/p&gt;
-
-&lt;p&gt;Your typical ssurran shaman is a Level 3 Controller with 47 HP. They fight with
-a Spear that damages and pushes 1 square on a hit, and can cast at-will &lt;strong&gt;Sun
-Curses&lt;/strong&gt; (ranged 5 vs. Reflex) that deal fire damage and daze for a turn. Their
-&lt;strong&gt;Treacherous Spirit&lt;/strong&gt; spell (ranged 5 vs. Will, recharge on a miss) dominates
-the target (save ends).&lt;/p&gt;
-
-&lt;p&gt;Despite their low-level, ssurran shamans are pretty dangerous and are likely to
-be an unfortunate PC party’s first introduction to the Dazed and Dominated
-conditions.&lt;/p&gt;
-
-&lt;h3 id=&quot;ssurran-hunter&quot;&gt;Ssurran Hunter&lt;/h3&gt;
-
-&lt;p&gt;These make up the bulk of any ssurran scout, hunting, or raiding party. They’re
-Level 4 Minion Skirmishers that fight with &lt;strong&gt;picks&lt;/strong&gt; that deal a little extra
-damage to enemies granting Combat Advantage. If an enemy hits one of their
-adjacent allies, the hunter can use &lt;strong&gt;Sidestep&lt;/strong&gt; as a reaction to shift 1
-square.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Ssurran tribes tend to stick together. Lone lizardfolk will either be outcasts,
-or the last survivors of their tribes. Sometimes, slavers kidnap their young for
-sale as “exotic merchandise”, so they might be found among enslaved guards or
-gladiators.&lt;/p&gt;
-
-&lt;p&gt;I really like the way they were described in the book - my text here is barely
-paraphrased. Simply by describing these lizardfolk as &lt;em&gt;people&lt;/em&gt;, it already
-allows me to imagine a bunch of situations where they’re potential oposition but
-where things can still be solved by means other than murder. They also make
-great potential allies in many other scenarios, because even when a group of
-ssurrans is not nice there will likely be someone much worse nearby.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/04/wir-dscc-ssurran.html</guid>
         
         <category>dnd4</category>
         
