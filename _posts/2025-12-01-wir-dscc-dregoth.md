@@ -7,6 +7,16 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-dregoth.png" | absolute_url }}"/>
+  <figcaption>
+    Dregoth on his throne, looking very stately and about to deliver a
+    villainous speech.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 In our narrative present, everyone in Athas believes the Dragon of Tyr is the
 only dragon on the planet. Even the Dragon himself.
 
@@ -172,4 +182,4 @@ Themes later).
 Absalom is dangerous, but his level is so much lower than Dregoth's you're not
 likely to meet both of them at once. He's either the guy you convince to ally
 with you against Dregoth, or the guy you defeat on the way to enlisting
-Dregoth's army to fight the Dragon of Tyr.
+Dregoth's aid to fight the Dragon of Tyr.
