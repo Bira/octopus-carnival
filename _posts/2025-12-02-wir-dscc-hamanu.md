@@ -7,6 +7,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-hamanu.png" | absolute_url }}"/>
+  <figcaption>
+    Hamanu posing for the cover of a business magazine.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Hamanu is the Sorcerer-King of Urik. He looks like a big strong man, and is

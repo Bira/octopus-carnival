@@ -120,6 +120,9 @@ individuals that might be enemies or allies.
 - D
   - [Dregoth][57]
 
+- H
+  - [Hamanu][58]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -177,3 +180,4 @@ individuals that might be enemies or allies.
 [55]: {{ "/2025/11/27/wir-dscc-abalach-re.html" | relative_url }}
 [56]: {{ "/2025/11/30/wir-dscc-andropinis.html" | relative_url }}
 [57]: {{ "/2025/12/01/wir-dscc-dregoth.html" | relative_url }}
+[58]: {{ "/2025/12/02/wir-dscc-hamanu.html" | relative_url }}
