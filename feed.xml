@@ -6,9 +6,93 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Dec 2025 20:56:11 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Dec 2025 20:56:11 +0000</lastBuildDate>
+    <pubDate>Thu, 04 Dec 2025 18:06:06 +0000</pubDate>
+    <lastBuildDate>Thu, 04 Dec 2025 18:06:06 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Haneth Tsalaxa</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-haneth-tsalaxa.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Haneth Tsalaxa
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;If you’re following the RPG.net thread with the Campaign Guide reading, you will
+already have seen a description of House Tsalaxa on &lt;a href=&quot;https://forum.rpg.net/index.php?threads/wir-4e-dark-sun-campaign-guide.925494/post-25647852&quot;&gt;this post&lt;/a&gt;. They’re one
+of the dodgier merchant houses with a presence in Tyr.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;House Tsalaxa: Based in Draj and known for blackmail and spycraft, trades in
+rope, grain, and previously owned cargo. Emblem: two glaring, bestial eyes.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Haneth Tsalaxa is the head of their Tyr branch, and he has a very unpleasant
+reputation amongst his neighbors. He apparently has tons of dirt on everyone in
+the city. Most of his fortune comes from blackmail and information brokering. If
+you see him darkening your doorstep, prepare for an unpleasant conversation.&lt;/p&gt;
+
+&lt;p&gt;The secret of his success, which no one but him knows, is that he has a natural
+ability to change his shape. He has no idea &lt;em&gt;why&lt;/em&gt;: changelings are apparently
+unheard-of in Athas, making him possibly the only one. He does exploit this
+power as much as he can, disguising himself to better infiltrate private places
+and overhear all sorts of interesting gossip. In addition to blackmail, he’s
+also willing to do espionage and assassination for hire, though his prices are
+ridiculously high.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Haneth is either a 4e changeling or mechanically indistinguishable from one:
+he’s a Medium Natural Humanoid with the Shapechanger and Changeling tags, and a
+Level 9 Elite Lurker with 154 HP.&lt;/p&gt;
+
+&lt;p&gt;He fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; that deals standard physical damage and
+inflicts ongoing 5 poison damage (save ends) if he has combat advantage, and can
+also throw &lt;strong&gt;Daggers&lt;/strong&gt; that target Reflex and deal decent damage. His &lt;strong&gt;Slick
+Swordplay&lt;/strong&gt; lets him make 2 sword attacks and shift 3 squares before, between,
+or after them.&lt;/p&gt;
+
+&lt;p&gt;He’s improved upon the classic “pocket sand” technique and can throw a &lt;strong&gt;Handful
+of Poison&lt;/strong&gt; (recharge 5+) in a close blast 3, dealing poison damage and blinding
+on a hit (save ends).&lt;/p&gt;
+
+&lt;p&gt;He also has a couple of classic changeling minor actions: &lt;strong&gt;Changeling
+Disguise&lt;/strong&gt; lets him change chape to appear like any Medium humanoid. His
+clothing and equipment remain the same, so it might be a bit hard to use in
+combat, but it does help a lot when assembling a disguise. He can copy specific
+individuals, but only if he’s seen them before. &lt;strong&gt;Haneth’s Trick&lt;/strong&gt; (recharge 6+)
+can make one enemy automatically grant combat advantage to him for a turn.&lt;/p&gt;
+
+&lt;p&gt;There is no DC to pierce the Changeling Disguise. Presumably you can use the
+default rules and roll a contest of his Bluff of +12 against the Insight of any
+investigators.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Haneth’s ability spread makes him more of a skirmisher with reduced AC and HP
+than a proper lurker. The ongoing poison damage from combat advantage is better
+than nothing, but be lacks something like a Sneak Attack or a really strong
+ambush power.&lt;/p&gt;
+
+&lt;p&gt;Good thing he always has plenty of bodyguards around whenever he’s not in
+disguise. He’s a major employer of unscrupulous Mixed Groups of People. Gotta
+spend money to make money.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/04/wir-dscc-haneth-tsalaxa.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/04/wir-dscc-haneth-tsalaxa.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Creature Catalog: Hamanu</title>
@@ -1334,106 +1418,6 @@ difference between them in the stat blocks themselves.&lt;/p&gt;
         <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Thrax</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-thrax.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A thrax holding what remains of his latest victim.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/dscc/&quot;&gt;here&lt;/a&gt; to see the rest.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Once upon a time there was a town named Gerot at the foot of a mountain near the
-city-state of Raam. Its people were great warriors, but also haugthy. When the
-Sorcerer Queen Abalach-Re sent them an offer of alliance in exchange for them
-joining Raam’s legions, they signaled their refusal by killing the envoys.&lt;/p&gt;
-
-&lt;p&gt;Abalach-Re was obviously very angry at this, so she double-cursed the people of
-Gerot: they would be afflicted with an unquenchable thirst &lt;em&gt;and&lt;/em&gt; pure water
-would become like a poison to them. In short order, the entire town was
-dead. The bit the queen hadn’t predicted was that the dead of Gerot would rise
-again, as the first thraxes.&lt;/p&gt;
-
-&lt;p&gt;A thrax is a water vampire. Still afflicted by the sorcerous curse, it suffers
-from constant, unquenchable thirst, which it tries to satisfy by draining the
-fluids from the flesh of the living. Thrax victims become desiccated husks, and
-it’s said to be an agonizing death.&lt;/p&gt;
-
-&lt;p&gt;Unlike a standard D&amp;amp;D vampire, a thrax seems to retain the mind and personality
-it had in life. This means they’re even more miserable, tormented not just by
-their cursed thirst but also by their regret at having to feed. Prime personal
-horror material there.&lt;/p&gt;
-
-&lt;p&gt;Unless, of course, we’re talking about the thraxes that seek revenge on
-Abalach-Re by haunting Raam and drinking her supporters dry. I imagine those are
-a fair bit less conflicted than the others.&lt;/p&gt;
-
-&lt;p&gt;Thraxes can drain fluids through skin contact, and they also have this trick
-where they can cause a victim’s fluids to all move close to the skin, making the
-victim bloated and easier to drain.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We only get a single stat block here, so let’s get right to it.&lt;/p&gt;
-
-&lt;h3 id=&quot;thrax&quot;&gt;Thrax&lt;/h3&gt;
-
-&lt;p&gt;The thrax shown here is Medium Natural Humanoid (undead) and a Level 11 Lurker
-with 88 HP, putting it about on par with the traditional vampires from the
-Monster Vault. It has darkvision, Resist 10 Necrotic, and Vulnerable 5
-Radiant. Unlike a lot of other undead, it has no special resistance against
-poison and disease. And unlike a traditional vampire, it is not vulnerable to
-natural sunlight.&lt;/p&gt;
-
-&lt;p&gt;Thraxes are surrounded by &lt;strong&gt;Roiling Shadows&lt;/strong&gt; which give them +2 to defenses
-against ranged attacks, and their &lt;strong&gt;Clinging Grasp&lt;/strong&gt; makes them insubstantial
-and immune to forced movement while they have a creature grabbed. This takes
-away the PC’s easiest tactic for making them let go.&lt;/p&gt;
-
-&lt;p&gt;Their basic attack is the &lt;strong&gt;Grasp of the Dead&lt;/strong&gt;, which deals necrotic damage. If
-the thrax has combat advantage, a hit also grabs the victim, which has a -5
-penalty to escape rolls.&lt;/p&gt;
-
-&lt;p&gt;Once it has a creature grabbed, the thrax can proceed to &lt;strong&gt;Drain Fluids&lt;/strong&gt;, which
-deals heavy necrotic damage, heals the thrax for 10 HP, and ends the grab. If the
-attack bloodies the target, they also fall unconscious (save ends).&lt;/p&gt;
-
-&lt;p&gt;The thrax can also attack with &lt;strong&gt;Flesh Bloat&lt;/strong&gt;, the “trick” mentioned
-above. This is an at-will melee attack that deals a bit more necrotic damage
-than the Grasp, and also dazes and slows the target (save ends both).&lt;/p&gt;
-
-&lt;p&gt;Standard tactics for a thrax will likely be to bloat their intended victim, grab
-them with Grasp of the Dead, and then Drain Fluids, repeating as necessary.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Water vampires feel much more appropriate for Dark Sun than the traditional
-blood kind. I’m guessing all the traditional vampires in Athas must have melted
-in the heat from all those layers they tend to wear.&lt;/p&gt;
-
-&lt;p&gt;Thraxes will probably only join up with other thraxes, and a fight against five
-of them will be nightmarish for the party. You could also mix it up with other
-relatively “dry” undead types. Maybe angry ghosts, or the animated corpses of
-their dried-out victims.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/13/wir-dscc-thrax.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/13/wir-dscc-thrax.html</guid>
         
         <category>dnd4</category>
         
