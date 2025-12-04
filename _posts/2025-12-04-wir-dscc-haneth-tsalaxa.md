@@ -7,6 +7,15 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-haneth-tsalaxa.png" | absolute_url }}"/>
+  <figcaption>
+    Haneth Tsalaxa
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 If you're following the RPG.net thread with the Campaign Guide reading, you will
