@@ -7,6 +7,15 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-jossi.png" | absolute_url }}"/>
+  <figcaption>
+    Jossi the Juggler, juggling
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Jossi gets a mention in the description of the city of Tyr in the Campaign

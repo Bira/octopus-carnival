@@ -124,6 +124,9 @@ individuals that might be enemies or allies.
   - [Hamanu][58]
   - [Haneth Tsalaxa][59]
 
+- J
+  - [Jossi the Juggler][60]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -183,3 +186,4 @@ individuals that might be enemies or allies.
 [57]: {{ "/2025/12/01/wir-dscc-dregoth.html" | relative_url }}
 [58]: {{ "/2025/12/02/wir-dscc-hamanu.html" | relative_url }}
 [59]: {{ "/2025/12/04/wir-dscc-haneth-tsalaxa.html" | relative_url }}
+[60]: {{ "/2025/12/05/wir-dscc-jossi.html" | relative_url }}
