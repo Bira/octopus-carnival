@@ -6,9 +6,78 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 04 Dec 2025 18:06:06 +0000</pubDate>
-    <lastBuildDate>Thu, 04 Dec 2025 18:06:06 +0000</lastBuildDate>
+    <pubDate>Fri, 05 Dec 2025 13:08:23 +0000</pubDate>
+    <lastBuildDate>Fri, 05 Dec 2025 13:08:23 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Jossi the Juggler</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-jossi.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Jossi the Juggler, juggling
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Jossi gets a mention in the description of the city of Tyr in the Campaign
+Setting book, and a full writeup here. She’s a member of Tyr’s Eyes, which was
+originally a group of beggars, street performers and thieves who banded together
+for mutual support. Nowadays they also act as a kind of freelance spy agency,
+keeping an eye on what goes on in the city both to improve their own chances of
+survival and to sell the juiciest gossip to whoever has the money to pay for it.&lt;/p&gt;
+
+&lt;p&gt;Jossi is known as a street performer, doing a pretty impressive routine on the
+markets of Tyr. She supplements her income with theft and information
+broketing. I think both books’ emphasis on her might mean they intend Jossi to
+be the PC’s first point of contact with Tyr’s Eyes during your typical campaign.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Jossi is an elf, though her speed is only 6 and they forgot to add her low-light
+vision. After so many sorcerer-kings, it’s interesting to find a plain old Level
+4 Skirmisher with 55 HP in the Personages of Athas section.&lt;/p&gt;
+
+&lt;p&gt;She fights with the same &lt;strong&gt;Daggers&lt;/strong&gt; she uses in her juggling act, and her
+&lt;strong&gt;Juggling Slash&lt;/strong&gt; technique lets her target Reflex instead of AC, deal the same
+damage as a basic attack, slide the target 2 squares, and shift 2 squares. This
+is &lt;em&gt;at-will&lt;/em&gt;, making her very annoying to fight. On any turn where Jossi shifts
+as a move action, she also gains a bit of bonus damage courtesy of her &lt;strong&gt;Fancy
+Footwork&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As soon as she realizes the odds are against her, Jossi will try to
+escape. &lt;strong&gt;Distracting Toss&lt;/strong&gt; helps with this: when someone makes a melee attack
+against her, the can shift her speed as a reaction to reach any square on the
+map that has any amount of cover or concealment, and then make a Stealth test
+with a +5 bonus (total +16) to become hidden.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Mildly interesting, I guess. Jossi is clearly more on the “possible ally” than
+on the “enemy” side of the balance, so unless the PCs go out of their way to be
+assholes or to antagonize Tyr’s Eyes, they won’t be fighting her. If that ends
+up happening, though, Jossi will not be alone. You should assemble a team of the
+many “low-Heroic street scum” stat blocks available here and in other books to
+act as the fellow Eyes members who come to her aid.&lt;/p&gt;
+
+&lt;p&gt;It could be interesting to have Jossi as an active ally in one or more fights,
+using these stats. Juggling Slash has hilarious synergy with what PC rogues can
+do, and Distracting Toss is a good way to quickly leave the fight in case her HP
+starts to run low.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/05/wir-dscc-jossi.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/05/wir-dscc-jossi.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Haneth Tsalaxa</title>
@@ -1279,151 +1348,6 @@ predatory beasts who don’t see them as food.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Thri-Kreen</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-thri-kreen.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A thri-kreen mantis warrior with a green carapace.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Thri-kreen are the famous mantis-people of Athas. A slightly more generic
-version of them appeared in the Monster Manual 3, and now we get more NPC stat
-blocks here and a playable version in the Campaign Guide. Unlike what happened
-to muls a few pages back, thri-kreen in the Creature Catalog are given a
-description that’s about as positive as the one for the playable version.&lt;/p&gt;
-
-&lt;p&gt;Thri-kreen have deep instinctual bonds of loyalty to their “clutch” and their
-“pack”. As the Campaign Guide explains, a clutch is a small group of at most six
-individuals to whom the thri-kreen feels closest, and a pack is an extended
-family composed of multiple clutches.&lt;/p&gt;
-
-&lt;p&gt;Traditionally a clutch is formed by individuals who hatched from their eggs at
-around the same time, but kreen can “adopt” other clutches over time if
-circumstances demand. For PCs, this means their adventuring party is their
-clutch. NPC kreen away from their homes will have similar arrangements with
-their ally groups.&lt;/p&gt;
-
-&lt;p&gt;Those ubiquitous asshole slavers like to steal Thri-kreen eggs so that their can
-exploit their bonding instinct, making them extremely loyal to their new
-masters.&lt;/p&gt;
-
-&lt;p&gt;Thri-kreen packs prefer to hunt non-sapient creatures for food, but they will
-make exceptions in truly desperate times. They will fight with all their
-strenght to protect themselves from attacks by other people, but will almost
-never be the aggressors in such fights. Their spiritual leaders are known as
-desert talkers, and are responsible for maintaining their connection to the
-primal spirits of the desert and those of their ancestors. This gives them a
-very long genetic memory, stretching back to an ancient age where they had their
-own great empire.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;These NPC thri-kreen are Medium Natural Humanoids with Low-Light Vision. The
-ones here have ground speeds between 6 and 7, slightly slower than the MM3
-ones. Their signature ability remains &lt;strong&gt;Mantis Jump&lt;/strong&gt;, an move-action encounter
-power that lets them jump their speed without provoking opportunity
-attacks. This is indeed different from the power PCs get.&lt;/p&gt;
-
-&lt;p&gt;We get three new stat blocks here, which can be mixed in with the ones from the
-MM3 without any extra work.&lt;/p&gt;
-
-&lt;h3 id=&quot;thri-kreen-bounder&quot;&gt;Thri-Kreen Bounder&lt;/h3&gt;
-
-&lt;p&gt;These are less experienced hunters who are still learning the tricks of the
-trade by observing the pack’s veterans at work. They tend to be a little more
-skittish than those veterans. They’re Level 6 Minion Skirmishers with a ground
-speed of 6.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Deft Dodger&lt;/strong&gt; trait gives them +2 to defenses against ranged attacks,
-which helps them survive longer in a fight. They attack in melee with &lt;strong&gt;claws&lt;/strong&gt;
-and at range with thrown &lt;strong&gt;Chatkchas&lt;/strong&gt;, which are three-pointed throwing blades
-with Range 6/12.&lt;/p&gt;
-
-&lt;p&gt;Instead of Mantis Jump they have &lt;strong&gt;Mantis Bound&lt;/strong&gt;, which lets them jump 3
-squares without provoking opportunity attacks as a reaction to being missed by
-an attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;thri-kreen-mauler&quot;&gt;Thri-Kreen Mauler&lt;/h3&gt;
-
-&lt;p&gt;These are the veteran hunters, big and beefy thri-kreen who single out a quarry,
-jump on top of it, and tear it apart. They’re Level 8 Brutes with 105 HP and a
-speed of 6.&lt;/p&gt;
-
-&lt;p&gt;Their basic &lt;strong&gt;Claw&lt;/strong&gt; attack is way too weak for a level 8 brute (average damage
-9), but &lt;strong&gt;Mauler Frenzy&lt;/strong&gt; (recharge 4+) lets them make two of those, three when
-bloodied. &lt;strong&gt;Mauler Leap&lt;/strong&gt; lets them jump 6 squares and make two claw attacks
-with a +1 to attack and a +4 to damage, which definitely matches the
-formula. This recharges when they’re first bloodied.&lt;/p&gt;
-
-&lt;p&gt;If the mauler hits a bloodied target with their claws, they can use &lt;strong&gt;Pain
-Amplification&lt;/strong&gt; against that rarget with a minor action, attacking their
-Fortitude. A hit causes the target to take ongoing 5 psychic damage (save ends).&lt;/p&gt;
-
-&lt;p&gt;If multiple claw attacks aren’t on the cards this turn, the mauler can use its
-&lt;strong&gt;Chatkchas&lt;/strong&gt; at range, which do level-appropriate physical damage. Mantis Jump
-rounds out their arsenal.&lt;/p&gt;
-
-&lt;p&gt;While Maulers will try to avoid getting killed like any opponent, they don’t
-mind getting bloodied since it makes them stronger. They probably should try to
-open the fight with a Leap, get stuck in for a Frenzy or two, and then jump away
-for that second use of Mauler Leap once bloodied.&lt;/p&gt;
-
-&lt;h3 id=&quot;thri-kreen-mantis-warrior&quot;&gt;Thri-Kreen Mantis Warrior&lt;/h3&gt;
-
-&lt;p&gt;Mantis Warriors are hunt leaders, highly skilled with both weapons and psychic
-powers. They’re Level 10 Elite Soldiers with 208 HP and a ground speed of 7.&lt;/p&gt;
-
-&lt;p&gt;They still have their &lt;strong&gt;Claws&lt;/strong&gt;, and also carry a &lt;strong&gt;Gythka&lt;/strong&gt;, a light polearm
-with a trident-like head on either end. Both do equivalent damage, but the
-gythka marks for a turn on a hit and does a blend of physical and psychic damage
-instead of just physical. They can also throw &lt;strong&gt;Chatkchas&lt;/strong&gt;, though these are a
-bit weaker.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Mantis Flurry&lt;/strong&gt; ability allows the warrior to make a claw and a gythka
-attack, or to throw two chatkchas, with a single action.&lt;/p&gt;
-
-&lt;p&gt;Occasionally they can pull off a &lt;strong&gt;Springing Assault&lt;/strong&gt; (recharge 5+): this lets
-them jump 4 squares, make a gythka attack, then jump another 3 and make another
-gythka attack. None of this movement provokes opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;Once per encounter they can perform a &lt;strong&gt;Mind Wrench&lt;/strong&gt;, attacking the Will of all
-enemies in a Close Burst 2. On a hit this deals psychic damage and marks for a
-turn.&lt;/p&gt;
-
-&lt;p&gt;When an adjacent marked enemy moves, shifts, or makes an attack that doesn’t
-target the warrior, it can cause a &lt;strong&gt;Spasm&lt;/strong&gt; as an interrupt. This is an attack
-against Will that does psychic damage on a hit, knocks the target prone, and
-slows them until the end of the warrior’s next turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;These three stat blocks combined with the Ambusher, Scout, and Sand Talker from
-the MM3 will let you build a large variety of thri-kreen encounters. They can
-also be part of “found clutches”, AKA Mixed Groups of Humanoids, voluntarily or
-not.&lt;/p&gt;
-
-&lt;p&gt;I note that the MM3 Thri-Kreen are described as using “spears” and “shuriken”,
-which clearly correspond to the gythkas and chatkchas used by these ones. A
-simple find-and-replace of the names should work, as there is no mechanical
-difference between them in the stat blocks themselves.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/16/wir-dscc-thri-kreen.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
