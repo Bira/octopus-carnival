@@ -6,9 +6,173 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Dec 2025 13:08:23 +0000</pubDate>
-    <lastBuildDate>Fri, 05 Dec 2025 13:08:23 +0000</lastBuildDate>
+    <pubDate>Sun, 07 Dec 2025 16:43:59 +0000</pubDate>
+    <lastBuildDate>Sun, 07 Dec 2025 16:43:59 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Lalali-Puy</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-lalali-puy.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Lalali-Puy in full regalia proudly standing in front of a vista of
+    her kingdom.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Lalali-Puy is the Sorcerer-Queen of Gulg, which is possibly the greenest
+city-state in Athas. Out of all the Sorcerer-Kings, she’s also the most
+personally beloved by her subjects, who call her Oba or Forest Goddess.&lt;/p&gt;
+
+&lt;p&gt;She uses her magic to bring rain to Gulg, and to protect it from threats both
+external and internal. She also owns everything in Gulg, and is responsible for
+seeing to its even distribution among the dagadas (communities) in which its
+people live. If you’re a citizen of Gulg, everything you wear and eat, all the
+livestock you tend and the land it grazes on, all belongs to Oba, who graciously
+allows you to use it.&lt;/p&gt;
+
+&lt;p&gt;Of course, being a Sorcerer-Queen, Lalali-Puy has further dark secrets unknown
+to common citizens. The description of her capabilities above might read as
+“epic druid” to someone familiar with standard D&amp;amp;D, but that’s a lie. The reason
+she has so much power over her kingdom is because she keeps its primal spirits
+enslaved through arcane magic. And the spirits hate her for it. Given the
+smallest opportunity, they’d devastate Gulg’s dagadas in revenge.&lt;/p&gt;
+
+&lt;p&gt;Despite her villainy, Lalali-Puy is described as the most accomplished ritualist
+on Athas. Many of the arcane and primal rituals on her extensive library are
+unknown to even the other Sorcerer-Kings. PCs might find themselves having to
+ally with her in exchange for a specific ritual… or plotting a heist to steal
+it from her vaults.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We’ll take a look at some of Lalali-Puy’s servants here, and then at the
+Sorcerer Queen herself.&lt;/p&gt;
+
+&lt;h3 id=&quot;nganga&quot;&gt;Nganga&lt;/h3&gt;
+
+&lt;p&gt;This is one of Lalali-Puy’s templars, known as ngangas (witch doctors). When a
+citizen is selected for nganga training, they’re completely removed and isolated
+from society. From that point on, they only appear in public wearing scary
+demonic masks enchanted with fear powers.&lt;/p&gt;
+
+&lt;p&gt;The nganga we have here is clearly some sort of human warlock pacted to their
+Queen. They’re Level 11 Artillery with 90 HP and Speed 6. They fight in melee by
+bonking people with a &lt;strong&gt;spirit rattle&lt;/strong&gt; that also serves as their
+implement. Their basic ranged attack is a &lt;strong&gt;Ghost Lance&lt;/strong&gt; (ranged 20
+vs. Fortitude) that deals necrotic damage. They can also use &lt;strong&gt;Spectral Jaws&lt;/strong&gt;
+(Range 12 vs. AC) that deal force damage and immobilize (save ends).&lt;/p&gt;
+
+&lt;p&gt;The fear enchantment on the &lt;strong&gt;Devil Mask&lt;/strong&gt; serves as a good keep-away power:
+Close Blast 3 vs. Will, deals psychic damage and pushes 3 squares. At the start
+of the target’s subsequent turns, the nganga can choose to push them 3 squares
+(save ends).&lt;/p&gt;
+
+&lt;p&gt;Finally, they can curse someone with a minor action with &lt;strong&gt;Curse of the
+Oba&lt;/strong&gt;. The curse lasts until the end of the encounter, and they can keep cursing
+multiple people. They also really want to do that, because when the nganga deals
+damage to someone other than the cursed victim, the victim takes the same amount
+of damage. If the PCs aren’t quick to deal with the nganga, they’ll soon find
+their whole party being “focus-fired” at once.&lt;/p&gt;
+
+&lt;h3 id=&quot;judaga&quot;&gt;Judaga&lt;/h3&gt;
+
+&lt;p&gt;Judagas are the most elite warriors in Gulg. Like ngangas, they’re mostly
+isolated from society, though instead of masks they wear special enchanted
+leopard pelts preserved from the Green Age. Lalali-Puy has a honor guard of
+judagas with her at all times, and they can also be seen moving among the
+populace when she or the ngangas feel physical threats entering Gulg.&lt;/p&gt;
+
+&lt;p&gt;The example judaga here is a human, and a Level 25 Skirmisher with 231 HP. Their
+speed is the usual 6, but they also have Forest Walk and a +2 to saves against
+Charm and Fear effects.&lt;/p&gt;
+
+&lt;p&gt;Judagas fight with &lt;strong&gt;scimitars&lt;/strong&gt; that do level-appropriate damage, and their
+&lt;strong&gt;Leopard’s Fury&lt;/strong&gt; maneuver lets them shift 6 squares and perform a special
+attack at any point along the movement. This does a bit less damage than the
+basic strike but also inflicts 15 ongoing damage (save ends) and pushes 2
+squares.&lt;/p&gt;
+
+&lt;p&gt;Lastly, if the judaga happens to be within 6 squares of Lalali-Puy herself
+(meaning they’re acting as a bodyguard) they can shift as a minor action.&lt;/p&gt;
+
+&lt;p&gt;The book explicitly calls judagas out as willing to perform a coup-de-grace on a
+downed PC in the middle of a fight, which makes them a lot more dangerous than
+their short list of abilities indicates.&lt;/p&gt;
+
+&lt;h3 id=&quot;lalali-puy-sorcerer-queen&quot;&gt;Lalali-Puy, Sorcerer-Queen&lt;/h3&gt;
+
+&lt;p&gt;The Oba herself is a human, and a Level 28 Solo Controller with 1032 HP and the
+Leader tag. She has a ground speed of 6 and a teleport speed of 3.&lt;/p&gt;
+
+&lt;p&gt;Lalali-Puy is surrounded by &lt;strong&gt;Ravenous Ghosts&lt;/strong&gt; (aura 5) that give a damage
+boost to the melee attacks of any allies within the aura. Her &lt;strong&gt;Oba’s Ambition&lt;/strong&gt;
+makes her regain one of her 2 solo action points whenever an enemy cursed by her
+drops to 0 HP.&lt;/p&gt;
+
+&lt;p&gt;As that description indicates, Lalali-Puy fights like a warlock. In a way, she’s
+a “role model” for an epic-level warlock - someone who has long surpassed
+whatever entity taught her magic in the first place, and who now makes pacts
+with others to teach &lt;em&gt;them&lt;/em&gt; magic in exchange for service.&lt;/p&gt;
+
+&lt;p&gt;Let’s begin with the curse-related powers, because those are the core of her
+tactics. She can use &lt;strong&gt;Oba’s Curse&lt;/strong&gt; once per turn as a minor action. This is
+exactly the same curse the ngangas can use, the one that mirrors melee or ranged
+damage inflicted on other enemies to the cursed victims. However, it’s (save
+ends) instead of lasting the whole encounter, because Lalali-Puy’s attacks are
+much stronger. Still, a string of bad save rolls could still have her “focusing
+down” the whole party a once.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oba’s Vengeance&lt;/strong&gt; makes that a scenario a certainty when the PCs manage to
+bloody her: this is a Close Burst &lt;em&gt;15&lt;/em&gt; attack that affects enemies, deals
+necrotic+psychic damage, and stuns for a turn on a hit. It also curses every
+target &lt;em&gt;as an effect&lt;/em&gt; (save ends).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Oba’s Blessing&lt;/strong&gt; is a free action power that lets Lalali-Puy remove her curse
+from a victim to end an effect on her or on an ally within 20 squares, so here’s
+her stunlock protection.&lt;/p&gt;
+
+&lt;p&gt;Keep that damage mirroring effect in mind as we look at her “normal”
+attacks. All of them have additional things they do to curse victims.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repelling Touch&lt;/strong&gt; is the melee basic attack. It deals force damage, pushes the
+target 5 squares, and then pushes all other enemies cursed by her 2 squares as
+an effect. &lt;strong&gt;Spirit Maw&lt;/strong&gt; is the ranged basic attack. It deals force damage,
+slides 4 squares, and slides every other cursed enemy 2 squares as an effect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Spirit Gale&lt;/strong&gt; is a fireball-like attack (Area Burst 2 within 15). It targets
+Will, deals necrotic+psychic damage, and immobilizes (save ends). This
+downgrades to “half damage and slowed for a turn” on a hit, but as an &lt;em&gt;effect&lt;/em&gt;,
+it lets her slow one cursed enemy she can see (save ends). The first failed save
+from that enemy makes them &lt;em&gt;stunned&lt;/em&gt; (save ends).&lt;/p&gt;
+
+&lt;p&gt;Her one power without any curse bonuses is &lt;strong&gt;Oba’s Punishment&lt;/strong&gt; a reaction that
+triggers when she’s hit by an attack from an enemy within 15 squares. It’s a
+counterattack that deals psychic damage and teleports the target 10 squares on a
+hit. Since this is written as a Close Burst, it doesn’t benefit from damage
+mirroring, but it will still trigger pretty often.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I love Lalali-Puy’s mechanics. If the PCs end up fighting her, she will have an
+honor guard of judagas with her to use as distractions, all of which probably
+benefit from Ravenous Ghosts. And then she’ll curse as many people as she can
+and focus her single-target attacks on the weakest of them.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/07/wir-dscc-lalali-puy.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/07/wir-dscc-lalali-puy.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Jossi the Juggler</title>
@@ -1214,138 +1378,6 @@ process of their creation in a lab.&lt;/p&gt;
         <category>dnd4</category>
         
         <category>dark-sun</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Wight</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-wight.png&quot;/&gt;
-  &lt;figcaption&gt;
-    A wight posing in a threatening manner.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Athasian wights are, at their root, pretty much the same as standard ones:
-undead whose soulless bodies are animated by a scrap of animus (or will) the
-dead person left behind. However, their description here goes on to say that
-wights were driven to complete some kind of mission or achieve an important goal
-when they died, and the “will” that animates them is an obsession with
-fulfilling that task. It also gives them an eternal hunger for life force, and
-robs them of the capacity to feel anything but hatred, grief, and frustration.&lt;/p&gt;
-
-&lt;p&gt;You can technically exorcize a wight by fulfilling its task. This is extremely
-difficult &lt;em&gt;at best&lt;/em&gt;, and it’s often impossible. Wights are not exactly willing
-to give detailed interviews about the circumstances of their death. Even if the
-PCs can discover those many of the creatures have been dead for so long that all
-people and places involved are simply gone. This will probably force the PCs to
-resort to the second most effective anti-wight strategy: extreme violence.&lt;/p&gt;
-
-&lt;p&gt;For a wight to be truly destroyed, its body must be obliterated. A popular
-tactic is to dismember and then burn their corpses. Not doing this means the
-creature will restore itself and return eventually.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The Wights presented here are Medium Natural Humanoids with the Undead keyword,
-and a bunch of traditional undead traits: Darkvision, immunity to disease and
-poison, 10 resistance to necrotic damage, and and 5 or 10 vulnerability to
-Radiant.&lt;/p&gt;
-
-&lt;p&gt;These wights tend to lack the default ability to eat your healing surges, but
-they gain other individualized tricks in its place.&lt;/p&gt;
-
-&lt;h3 id=&quot;wight-thrall&quot;&gt;Wight Thrall&lt;/h3&gt;
-
-&lt;p&gt;These are the exception to the wight lore I described above because they’re
-&lt;em&gt;already&lt;/em&gt; living their best unlife. Their obsession was to serve their beloved
-master for all eternity, and that’s exactly what they’re doing.&lt;/p&gt;
-
-&lt;p&gt;Wight thralls have about as much initiative as your typical zombie, but they’re
-&lt;em&gt;much&lt;/em&gt; better at following their master’s commands. If you find these, their
-master is likely nearby, either as a more powerful wight or as some other
-monster.&lt;/p&gt;
-
-&lt;p&gt;These creatures are Level 12 Minion Brutes with a speed of 7 and the standard
-traits mentioned above (except radiant vulnerability). Their &lt;strong&gt;Claws&lt;/strong&gt; damage
-and have a life drain effect that’s modeled slightly differently: targets hit by
-the attack cannot gain temporary HP at all and recover 5 less HP from healing
-effects (save ends).&lt;/p&gt;
-
-&lt;p&gt;When destroyed by non-radiant damage, their &lt;strong&gt;Dark Passing&lt;/strong&gt; ability restores 5
-HP to a nearby undead ally.&lt;/p&gt;
-
-&lt;h3 id=&quot;dune-runner-wight&quot;&gt;Dune Runner Wight&lt;/h3&gt;
-
-&lt;p&gt;This was an elf who died trying to deliver an important message or warning to
-their community. Every night they arise and try to complete the impossible run,
-only to appear back at the starting point when the sun rises. During the day,
-they terrorize nearby creatures to vent their frustration and slake their
-thirst.&lt;/p&gt;
-
-&lt;p&gt;Dune Runner Wights are level 12 Minion Skirmishers with 124 HP and the common
-traits mentioned above. Their &lt;strong&gt;claws&lt;/strong&gt; have no effect beyond their decent
-damage, but they deal extra damage if the runner moved at least 4 squares before
-attacking, and can be used as part of a &lt;strong&gt;Mobile Melee Attack&lt;/strong&gt; maneuver that
-lets the runner move its speed without and attack at any point during the move
-without provoking an opportunity attack from the target.&lt;/p&gt;
-
-&lt;p&gt;As a 1/round minor action, they can try to afflict someone with a &lt;strong&gt;Running
-Curse&lt;/strong&gt; (ranged 5 vs. Will), which forces at target to move at least 4 squares
-on their turn or take a bit of psychic damage (save ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;oath-wight&quot;&gt;Oath Wight&lt;/h3&gt;
-
-&lt;p&gt;These used to be inhabitants of one of Athas’ many ancient ruins, who were on
-the verge of completing an important task when their entire city was leveled by
-a sorcerous WMD of some kind. Maybe they were scholars nearing a research
-breakthrough, maybe they were thieves about to pull that big score… or maybe
-they were mothers undergoing childbirth. So there’s some nightmare fuel for
-ya. They’re Level 14 Elite Controllers with 140 HP and a speed of 6.&lt;/p&gt;
-
-&lt;p&gt;Their frustration with the futility of their task is so potent it leaks out, and
-can be used as a weapon. This aura of &lt;strong&gt;Inevitable Failure&lt;/strong&gt; inflicts a -2
-penalty to attacks, skill checks, and defenses to any non-dominated enemies
-inside.&lt;/p&gt;
-
-&lt;p&gt;The wight can dominate enemies with its &lt;strong&gt;Accursed Gaze&lt;/strong&gt; (minor action, ranged
-5 vs. Will), which dominates for a turn on a hit. It can also use the
-&lt;strong&gt;Frustration’s Fury&lt;/strong&gt; encounter power, which attacks the Will of 2 nearby
-targets. On a hit, it reals psychic damage and forces the target to make a free
-melee basic attack (or a charge!)  against another target of the wight’s
-choice. If this secondary attack &lt;em&gt;misses&lt;/em&gt;, the target is dominated (save
-ends). A miss with the power deals half damage and dazes for a turn.&lt;/p&gt;
-
-&lt;p&gt;When Frustration’s Fury is unavailable, the wight uses its basic &lt;strong&gt;Rotting
-Touch&lt;/strong&gt;, which does necrotic damage and prevents HP recovery for a turn.&lt;/p&gt;
-
-&lt;p&gt;If you were wondering why the wight has so little HP for an elite, it’s because
-reaching 0 HP triggers its &lt;strong&gt;Promised Return&lt;/strong&gt; power, causing it to reappear
-with full HP near its last position at the start of its next turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;The description of wights as the products of obsession that lingers beyond death
-is so cool that I’m tempted to make this the default description of wights in
-any game I run. The mechanics of the ones presented here are interesting and
-help bring them into the paragon tier.&lt;/p&gt;
-
-&lt;p&gt;Wights might very rarely work with the living if they can convince the creature
-they have similar goals, but they mostly hang out with other undead or with
-predatory beasts who don’t see them as food.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/19/wir-dscc-wight.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/19/wir-dscc-wight.html</guid>
-        
-        <category>dark-sun</category>
-        
-        <category>dnd4</category>
         
         <category>lets-read</category>
         
