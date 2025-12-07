@@ -7,6 +7,17 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-lalali-puy.png" | absolute_url }}"/>
+  <figcaption>
+    Lalali-Puy in full regalia proudly standing in front of a vista of
+    her kingdom.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 ## The Lore
 
 Lalali-Puy is the Sorcerer-Queen of Gulg, which is possibly the greenest
