@@ -7,6 +7,15 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-mearedes.png" | absolute_url }}"/>
+  <figcaption>
+    Mearedes in her jungle home.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Mearedes is a goliath druid, the self-appointed Sentinel of Shault. Shault, in
@@ -16,7 +25,7 @@ disciples.
 
 Those disciples are the giants Shakka and Shola, and the dwarf Hippolexes. They,
 their master, and a few volunteers from the local stone and beast giant
-communities intercept any strangers making landfall on Shault, and demand thei
+communities intercept any strangers making landfall on Shault, and demand they
 subject themselves to a ritual that prevents them from ever speaking about the
 island to others. Those who refuse are killed. As you might imagine, very few
 people ever return from Shault, and those who do aren't saying anything about
@@ -29,7 +38,7 @@ her to be a stalwart ally.
 
 ## The Numbers
 
-Mearedes, as mentioned is a Goliath. She's also a Level 18 Controller with 176
+Mearedes, as mentioned, is a Goliath. She's also a Level 18 Controller with 176
 HP, Speed 6, and a lot of Classic Druid Powers, which might look very exotic to
 typical Athasian characters.
 
