@@ -6,9 +6,91 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Dec 2025 16:43:59 +0000</pubDate>
-    <lastBuildDate>Sun, 07 Dec 2025 16:43:59 +0000</lastBuildDate>
+    <pubDate>Tue, 09 Dec 2025 01:23:12 +0000</pubDate>
+    <lastBuildDate>Tue, 09 Dec 2025 01:23:12 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Maetan of House Lubar</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-maetan-lubar.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Maetan Lubar, posing for the cover of a business magazine.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Maetan is the current head of House Lubar, one of Urik’s wealthiest noble
+houses. He’s been prepared for leadership since childhood, though his time came
+much sooner than expected due to the untimely death of his parents.&lt;/p&gt;
+
+&lt;p&gt;The house makes its fortunes through commerce and through the ownership of many
+profitable fields outside of Urik’s walls. The work on those is performed by
+slaves, and their administration by junior house members. Senior leadership like
+Maetan has loftier concerns.&lt;/p&gt;
+
+&lt;p&gt;Maetan, for example, is busy petitioning Hamanu for the opportunity to lead a
+large army against the recently freed city of Tyr, as he has a story of success
+against Urik’s smaller enemies and wishes to attain new heights of glory and
+favor with the sorcerer-king.&lt;/p&gt;
+
+&lt;p&gt;This probably relates to the 2e Prism Pentad adventures, which saw the PCs take
+part in a battle against Urik’s forces. If this happens in your 4e campaign,
+Maetan will likely be at the head of those forces.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Maetan Lubar is a human, and a Level 16 Elite Controller with 302 HP. He fights
+using a combination of the fencing skills and psychic powers taught to him from
+a tender age.&lt;/p&gt;
+
+&lt;p&gt;The fencing is distinctly second fiddle here: just a basic &lt;strong&gt;Longsword&lt;/strong&gt; attack
+that does level-appropriate damage with no riders. Maetan wants to stay a bit
+outside of melee range and use his many psychic abilities instead. He’s a
+telepath, so all of his powers target Will.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Serpent’s Kiss&lt;/strong&gt; is a range 20 basic attack that targets up to 2 creatures,
+deals psychic damage and makes the target grant combat advantage for a
+turn. &lt;strong&gt;Insidious Worm&lt;/strong&gt; is an at-will range 10 attack that can only be used
+against targets granting him combat advantage; it deals psychic damage and
+forces the target to make a melee basic attack against another target of
+Maetan’s choice. His usual routine would involve alternating these two.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coils of Lubar&lt;/strong&gt; is an area 1 within 10 attack that deals psychic damage and
+restrains (save ends). It deals 10 psychic damage as an aftereffect of the
+save. It recharges when he uses &lt;strong&gt;Psionic Augment&lt;/strong&gt;, a power that triggers when
+Maetan hits with one of his two ranged at-wills and further boosts their
+damage. And this, in turn, recharges when he’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;His two final powers are &lt;strong&gt;Psionic Intrusion&lt;/strong&gt;, a minor action ranged attack
+that dominates on a hit (save ends). This recharges when he’s first
+bloodied. And the &lt;strong&gt;Mind Fog&lt;/strong&gt; encounter power, which triggers when he’s hit by
+a melee attack, affects a Close Burst 3, deals psychic damage on a hit, and
+forces the targets to treat him as invisible (save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I guess this might be a typical example of an evil noble type. The book says
+Maetan will always be accompanied by a sizable honor guard, and in a fight he
+will try to use his powers to make things easier for those guards (all of them
+are selective, so he has no risk of hitting his allies). It also says that
+despite all of his psionic might, Maetan is still very proud and overconfident
+of his sword skills, so he might end up letting a PC get too close to him
+because of this.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/08/wir-dscc-maetan-lubar.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/08/wir-dscc-maetan-lubar.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Lalali-Puy</title>
@@ -1238,148 +1320,6 @@ we’ll start with him on the next post.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Creature Catalog: Zombie</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-zombie.png&quot;/&gt;
-  &lt;figcaption&gt;
-    This is similar to a zombie, but it seems to be a repurposed
-    picture of another creature.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Zombies in Athas have the same origin as zombies in every other D&amp;amp;D world:
-they’re created either intentionally by necromancy, or accidentally from dead
-bodies left for long enough in areas exposed to strong necrotic energies.&lt;/p&gt;
-
-&lt;p&gt;In Athas that means areas touched by the Gray, the Darker and Sunnier version of
-the Shadowfell. Any bodies left in these places have a high chance of rising as
-zombies. As the natural environment in these areas tends to be particularly
-harsh as well, they can do interesting things to these bodies before they rise.&lt;/p&gt;
-
-&lt;p&gt;The most common of those is that by the time the body rises its flesh is long
-gone due to the actions of predators and scouring winds, so you get a skeleton
-instead. But some places like the ones named below can preserve the flesh of a
-corpse, giving enough time to rise as a Darker and Sunnier Zombie with extra
-powers.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;The zombies described in this entry are Natural Humanoids, which I think
-is an error because every other zombie is a Natural Animate. In any case, they
-have the Undead tag and the usual immunity to poison and disease and resistance
-to necrotic damage. They also tend to be faster than standard zombie varieties
-(which still exist in Athas!).&lt;/p&gt;
-
-&lt;h3 id=&quot;salt-zombie&quot;&gt;Salt Zombie&lt;/h3&gt;
-
-&lt;p&gt;These are created from the big necrotic zone in the Salt Meres. They tend to lie
-beneath the salt flats, erupting out of the ground when they sense living beings
-walking the surface. They probably look dried out and mummified.&lt;/p&gt;
-
-&lt;p&gt;Salt Zombies are Level 1 Soldiers with 28 HP and a ground speed of 6. Their
-necrotic resistance is 5 and they have Vulnerable 5 to Radiant damage. Their
-basic &lt;strong&gt;claws&lt;/strong&gt; damage and grab on a hit, but their &lt;strong&gt;Salt Feast&lt;/strong&gt; attack is
-usually more effective: it does the same damage and also grabs, but the target
-has a -4 penalty to escape the grab and takes another 5 damage every time they
-fail. And of course, the zombie can also keep attacking the grabbed target
-either way.&lt;/p&gt;
-
-&lt;p&gt;They also suffer from the &lt;strong&gt;Zombie Weakness&lt;/strong&gt; that afflicts a lot of standard
-zombies, and so are instantly destroyed when someone scores a critical hit on
-them.&lt;/p&gt;
-
-&lt;h3 id=&quot;black-reaver-zombies&quot;&gt;Black Reaver Zombies&lt;/h3&gt;
-
-&lt;p&gt;There originate from the Black Sands region. Legend has it that an ancient act
-of defiling magic summoned these sands into the region, and that they drained
-the souls of everyone they touched. There’s a creepy deserted city at its
-center, which was presumably the target of this magical WMD. Modern Athasians
-tend to give it a wide berth, and anyone who dies here will probably rise as one
-of these zombies.&lt;/p&gt;
-
-&lt;p&gt;Black Reavers are Level 5 Lurkers with 51 HP and a zippy ground speed
-of 7. They’re blind, and so have the corresponding tag and are immune to
-blinding and gaze attacks, perceiving the world through their
-Blindsight 10. Their necrotic resistant is 10, and while they don’t take extra
-damage from radiant damage it does prevent them from using their Shadow Burst
-power for a turn, basically defanging them for that time.&lt;/p&gt;
-
-&lt;p&gt;You see, their basic &lt;strong&gt;bite&lt;/strong&gt; does a relatively weak mix of physical and
-necrotic damage, so they really need the extra necrotic damage from attacking a
-target that couldn’t see them at the start of their turn in order to be a threat
-to equivalent-level PCs. And the most likely way for them to get that bonus is
-&lt;strong&gt;Shadow Burst&lt;/strong&gt; (recharge 4+), a move action that lets them teleport 5 squares
-and create a Burst 1 zone that blinds everyone inside around their arrival
-point. This zone lasts for a turn.&lt;/p&gt;
-
-&lt;p&gt;When using these in an encounter, you might want to add plenty of
-vision-blocking terrain to the battle map, like ruined buildings or big rocks. A
-zombie without Shadow Burst could still get that damage bonus if it was behind
-such terrain before charging out and attacking, something its high Speed would
-help with. Darkness also helps, but not as much since PCs are likely to have
-many options for lighting up the place.&lt;/p&gt;
-
-&lt;h3 id=&quot;feasting-zombie&quot;&gt;Feasting Zombie&lt;/h3&gt;
-
-&lt;p&gt;This one appears in the Forest Ridge where halflings live. Halflings who catch
-terminal diseases are not eaten when they die, for obvious reasons. Instead,
-they’re buried, which is believed to return them to nature’s embrace. This
-alternate funerary practice is less effective at preventing them from rising as
-zombies when conditions are right.&lt;/p&gt;
-
-&lt;p&gt;Feasting zombies are Small, since they originate from halflings, and they’re
-Level 6 Minion Brutes with Speed 5. They &lt;strong&gt;bite&lt;/strong&gt;, and when they die they
-perform a &lt;strong&gt;Clamping Bite Death Chomp&lt;/strong&gt;, which does the same damage as the bite
-attack and also slows (save ends) because the dead zombie doesn’t let go until
-you pry it off.&lt;/p&gt;
-
-&lt;h3 id=&quot;cinder-zombies&quot;&gt;Cinder Zombies&lt;/h3&gt;
-
-&lt;p&gt;These were killed and preserved by fire. This could be because they lived in
-some of the volcanic islands in the Sea of Silt, of because their village was
-torched by raiders. They’re charred instead of rotten, and therefore smell of
-burned meat. They’re also quite strong.&lt;/p&gt;
-
-&lt;p&gt;Cinder Zombies are Level 12 Soldiers with 121 HP and Speed 5. They have Resist
-Necrotic 15, Resist Fire 10, and Vulnerable Radiant 5. They project an aura of
-&lt;strong&gt;Burning Embers&lt;/strong&gt; that deal 10 fire damage to any enemy who leaves the aura,
-giving them an incentive to remain close. They pummel enemies with their &lt;strong&gt;Fists
-of Cinder&lt;/strong&gt; that do a mix of physical and fire damage. If an enemy within their
-aura makes an attack that doesn’t target them, the zombie uses &lt;strong&gt;Punishing
-Sparks&lt;/strong&gt; on them to deal a bit of fire damage on a hit. When the creature is
-first bloodied, it releases a &lt;strong&gt;Choking Cloud&lt;/strong&gt; that attacks the Fortitude of
-enemies in a Close Burst 3. On a hit it deals poison damage and prevents them
-from spending healing surges (save ends). On a miss it deals half damage and
-prevents surge expenditure for a turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;While the four zombie types presented here are new, they’re still zombies. You
-use them in the same way you use standard zombies which, again, exist on
-Athas. I think I like the cinder zombies the most, as they have an interesting
-Defender Aura-like setup and fire zombies make sense in non-Athas settings too.&lt;/p&gt;
-
-&lt;p&gt;While three of the four zombies presented here are strongly associated with
-their specific home regions, there’s nothing preventing an enterprising villain
-from importing them to wherever their lair is, or from somehow replicating the
-process of their creation in a lab.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/23/wir-dscc-zombie.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/23/wir-dscc-zombie.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>dark-sun</category>
-        
-        <category>lets-read</category>
         
         
       </item>
