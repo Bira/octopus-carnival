@@ -24,10 +24,10 @@ his vices.
 Nibebay's highest ranking templars are known as the High Consorts. There are
 five of them, each in charge of one of the city-state's temples. The Shadow
 King's inner circle is composed of these five, plus his personal arcane
-assistants, and a group of elite goliath warriors. Only they can enter
-Naggaramakam and interact directly with their king. And only they know what
-Nibenay's true draconic form looks like - he disguises himself as a human in his
-rare public appearances.
+assistants, his half-monster son Dhojakt, and a group of elite goliath
+warriors. Only they can enter Naggaramakam and interact directly with their
+king. And only they know what Nibenay's true draconic form looks like - he
+disguises himself as a human in his rare public appearances.
 
 Things might have continued this way forever if it wasn't for Kalak's
 assassination and the liberation of Tyr. This kind of lit a fire under Nibenay,
@@ -39,7 +39,9 @@ care about. There's a lot of unpleasant purges in the city's immediate future.
 
 Still, Nibenay hasn't completely abandoned his research. He seems to be
 particularly interested in Athas' distant past, and is rumored to be looking for
-a way to bring about a new Age.
+a way to "bring about a new Age". That probably involves some sort of
+large-scale environmental engineering, though it's unlikely to be beneficial to
+the inhabitants.
 
 ## The Numbers
 

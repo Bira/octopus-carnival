@@ -1,0 +1,11 @@
+- Sakura
+  - Dates back to the initial war against Thrune.
+- Eileen the Merciful (Mixes Thief with Weapon Master and Demon Slayer things)
+  - Milani/Good Hunter
+- The Great and Powerful Trixie (illusionist wizard)
+- Ser Alexa of the Flame (sun cleric)
+  - Relative of Rexus
+  - Sun Domain
+    - 1: Bright Vision
+    - 2:
+- Grom Ironfist
