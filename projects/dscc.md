@@ -130,6 +130,9 @@ individuals that might be enemies or allies.
 - L
   - [Lalali-Puy][61]
 
+- M
+  - [Maetan Lubar][62]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -191,3 +194,4 @@ individuals that might be enemies or allies.
 [59]: {{ "/2025/12/04/wir-dscc-haneth-tsalaxa.html" | relative_url }}
 [60]: {{ "/2025/12/05/wir-dscc-jossi.html" | relative_url }}
 [61]: {{ "/2025/12/07/wir-dscc-lalali-puy.html" | relative_url }}
+[62]: {{ "/2025/12/08/wir-dscc-maetan-lubar.html" | relative_url }}

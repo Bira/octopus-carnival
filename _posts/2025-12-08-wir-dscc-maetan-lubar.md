@@ -7,6 +7,16 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-maetan-lubar.png" | absolute_url }}"/>
+  <figcaption>
+    Maetan Lubar, posing for the cover of a business magazine.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+
 ## The Lore
 
 Maetan is the current head of House Lubar, one of Urik's wealthiest noble
