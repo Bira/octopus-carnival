@@ -10,8 +10,8 @@ tags:
 ## The Lore
 
 Tectuktitlay is the king of Dradj, and while he is not the only sorcerer-king to
-claim to be a god, but he's apparently the only one who truly believes it. Or at
-least the one who's most vehement about the claim.
+claim to be a god, but he's apparently the one most willing to enforce that
+claim.
 
 His priests tell the story of how he's the son of the moons Ral and Guthay, who
 descended into the mortal realm already a god. This divine family gave Draj the
@@ -25,11 +25,11 @@ gaze is etched on structures all through Draj. It's hard to tell whether his
 subjects believe he's really a god - they have gotten extremely good at going
 through through the motions of worshipping him in the name of self-preservation.
 
-Not only is Tectuktitlay not a god, he's also the weakest of the
-Sorcerer-Kings. Maybe the two things are related. Why work towards ascension
-when you're already a god? In any case he knows his peers are stronger, which
-fuels a bit of an inferiority complex and compels him to make his domain
-stronger militarily to compensate.
+I honestly couldn't tell from the book's description if Tectuktitlay really
+believes in his own divinity. Whether he does or not, he also knows he's the
+weakest of the Sorcerer Kings, and probably has something of an inferiority
+complex about it. He tries to compensate for his personal weakness by making his
+realm military strong instead.
 
 ## The Numbers
 
@@ -80,9 +80,8 @@ bloodied in the fight.
 
 ### Tectuktitlay, Sorcerer-King
 
-Tectuktitlay is Level 22 Elite Artillery (Leader), which is definitely weaker
-than any other of the sorcerer-kings we saw so far in this book. He has 316 HP
-and a speed of 6.
+Tectuktitlay is Level 22 Elite Artillery (Leader), lower level than any other of
+the sorcerer-kings we saw so far in this book. He has 316 HP and a speed of 6.
 
 Tectuktitlay projects a large aura of **Imposed Zealotry** (4) that gives a +2
 attack bonus to allies inside, and another one of **Bloody Vigor** over the same
