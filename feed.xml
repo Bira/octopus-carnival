@@ -6,9 +6,172 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 10 Dec 2025 02:35:48 +0000</pubDate>
-    <lastBuildDate>Wed, 10 Dec 2025 02:35:48 +0000</lastBuildDate>
+    <pubDate>Fri, 12 Dec 2025 18:13:22 +0000</pubDate>
+    <lastBuildDate>Fri, 12 Dec 2025 18:13:22 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Nibenay</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-nibenay.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Nibenay, in his true half-draconic form, lounging on his throne.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Yes, he named his city after himself.&lt;/p&gt;
+
+&lt;p&gt;Nibenay seems to be a very academically-minded Sorcerer-King, which is evident
+in how his transformation seems to be the furthest along among the living ones,
+but he’s also kinda lazy. For about two thousand years now, he’s been holed up
+in his palace-temple complex of Naggaramakam enjoying a life of luxury and study
+while his priesthood took care of all those boring “running the kingdom” tasks.&lt;/p&gt;
+
+&lt;p&gt;His priesthood are also his templars, which are all women and all his wives. So
+this might explain why Dregoth outpaced him 1700 years ago - Nibenay still has
+his vices.&lt;/p&gt;
+
+&lt;p&gt;Nibebay’s highest ranking templars are known as the High Consorts. There are
+five of them, each in charge of one of the city-state’s temples. The Shadow
+King’s inner circle is composed of these five, plus his personal arcane
+assistants, his half-monster son Dhojakt, and a group of elite goliath
+warriors. Only they can enter Naggaramakam and interact directly with their
+king. And only they know what Nibenay’s true draconic form looks like - he
+disguises himself as a human in his rare public appearances.&lt;/p&gt;
+
+&lt;p&gt;Things might have continued this way forever if it wasn’t for Kalak’s
+assassination and the liberation of Tyr. This kind of lit a fire under Nibenay,
+and he decided to end his isolation and take a more active hand in the ruling of
+his domain. This has nearly all Nibenese nobles and a large number of
+lower-ranking templars in a panic because they’ve been up to a lot of
+self-enriching shenanigans that they were sure their king would never notice or
+care about. There’s a lot of unpleasant purges in the city’s immediate future.&lt;/p&gt;
+
+&lt;p&gt;Still, Nibenay hasn’t completely abandoned his research. He seems to be
+particularly interested in Athas’ distant past, and is rumored to be looking for
+a way to “bring about a new Age”. That probably involves some sort of
+large-scale environmental engineering, though it’s unlikely to be beneficial to
+the inhabitants.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three different stat blocks here, which we’ll see in order of level.&lt;/p&gt;
+
+&lt;h3 id=&quot;shadow-bride&quot;&gt;Shadow Bride&lt;/h3&gt;
+
+&lt;p&gt;This is one of Nibenay’s lower-ranking templars. The city’s nobles tend to look
+down on them and use them as pawns in their own schemes - the name “Shadow
+Bride” is something of an insult. The brides resent them for this, and do
+whatever dirty deeds they need in order to claw some wealth and influence for
+themselves and climb the ranks of their organization.&lt;/p&gt;
+
+&lt;p&gt;This Shadow Bride is a Level 13 Soldier with 130 HP and Speed 6. She fights with
+an &lt;strong&gt;Obsidian Short Sword&lt;/strong&gt; in melee, and with &lt;strong&gt;Shadow Bolts&lt;/strong&gt; at range that do
+light cold+necrotic damage. She can inflict the &lt;strong&gt;Curse of the Shadow King&lt;/strong&gt; an
+adjacent enemy with a minor action. This marks the enemy until the end of the
+encounter and makes it grant combat advantage for a turn.&lt;/p&gt;
+
+&lt;p&gt;Marked enemies within 6 squares who decide to ignore the mark can be targeted
+with &lt;strong&gt;Nibenay’s Retribution&lt;/strong&gt; as an interrupt - the bride teleports to a square
+adjacent to the enemy and makes a very accurate attack vs. their Fortitude,
+dealing fire+necrotic damage on a hit.&lt;/p&gt;
+
+&lt;p&gt;In her own turns the bride can also &lt;strong&gt;Demand Penitence&lt;/strong&gt; (recharge 5+),
+targetting up to two marked enemies in a Close Burst 5, dealing psychic damage,
+pulling them 4 squares, and knocking them prone.&lt;/p&gt;
+
+&lt;p&gt;Yup, this is a Soldier Warlock. Not a combination you see every day. The
+“eldritch blast” equivalent here is distinctly secondary. She wants to bring
+enemies into melee range and keep them there.&lt;/p&gt;
+
+&lt;h3 id=&quot;high-consort&quot;&gt;High Consort&lt;/h3&gt;
+
+&lt;p&gt;One of the five highest ranked priestess-wives of Nibenay, part of his inner
+circle. Just like the city’s nobles, they jockey for position amongst
+themselves, constantly engaging in backstabbing and intrigue, though they &lt;em&gt;are&lt;/em&gt;
+loyal to their hubby and will fight at his side against meddling PCs who manage
+to get that far. They will also fight to the end to protect their own
+temples. In any other situation, they run away when the fight turns against
+them.&lt;/p&gt;
+
+&lt;p&gt;High Consorts are Level 27 Artillery with 192 HP, Speed 6 and Low-Light
+Vision. They fight with &lt;strong&gt;Obsidian Spears&lt;/strong&gt; in melee and with &lt;strong&gt;Shadow Blasts&lt;/strong&gt;
+at range 20. These deal cold+necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;Their special spell is &lt;strong&gt;Cage of Shadows&lt;/strong&gt; (ranged 10), which deals heavy force
+damage and immobilizes (save ends). It recharges when they’re bloodied. They can
+also practice &lt;strong&gt;Arcane Defiling&lt;/strong&gt; whenever they miss with this power or with a
+Shadow Blast while allies are present within 2 squares of them. This is a free
+action that inflicts 10 necrotic damage on each such ally, and lets the consort
+reroll the attack.&lt;/p&gt;
+
+&lt;p&gt;If they get surrounded, consorts can use &lt;strong&gt;Nibenay’s Gift&lt;/strong&gt; (recharge 5+) as a
+minor action, dealing 15 cold+necrotic damage to each adjacent enemy,
+teleporting 6 squares, and gaining concealment for a turn.&lt;/p&gt;
+
+&lt;h3 id=&quot;nibenay-sorcerer-king&quot;&gt;Nibenay, Sorcerer-King&lt;/h3&gt;
+
+&lt;p&gt;Nibenay in his true form is a Large Natural Humanoid, and a Level 29 Elite
+Controller with 532 HP. He has ground and teleport speeds of 6 and Darkvision.&lt;/p&gt;
+
+&lt;p&gt;His &lt;strong&gt;Sorcerer King’s Guile&lt;/strong&gt; is going to ruin the day of many a PC fighter, as
+it makes him not provoke opportunity attacks from making ranged and area
+attacks.&lt;/p&gt;
+
+&lt;p&gt;In melee, he fights with Reach 2 &lt;strong&gt;Dragon’s Talons&lt;/strong&gt;, which damage and restrain
+(save ends). At range, he uses the classic &lt;strong&gt;Ego Whip&lt;/strong&gt; (range 10), which deals
+psychic damage and dazes (save ends). Yes, it’s at-will, and &lt;strong&gt;Ego Storm&lt;/strong&gt; lets
+him use it twice in the same action.&lt;/p&gt;
+
+&lt;p&gt;Less often, he can use &lt;strong&gt;Defiling Burst&lt;/strong&gt; (recharge 5+), which automatically
+deals 15 necrotic damage to each adjacent enemy and lets Nibenay attack an Area
+Burst 2 within 10 to deal necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;The text is a bit strange here, as it says Nibenay gains +1 to the burst’s
+attack roll for each enemy damaged by it. I guess you roll once, count the hits,
+add the bonus, and keep repeating the last two steps until he either runs out of
+targets or misses someone.&lt;/p&gt;
+
+&lt;p&gt;As a minor action he can creaze a &lt;strong&gt;Zone of Shadows&lt;/strong&gt; that lasts for a turn and
+blocks line of sight for everyone except himself. Enemies inside are
+blinded. The power recharges when the zone vanishes.&lt;/p&gt;
+
+&lt;p&gt;His version of &lt;strong&gt;Arcane Defiling&lt;/strong&gt; triggers when he hits and deals damage with
+either of his basic attacks. It inflicts 10 necrotic damage on each enemy within
+2 squares and weakens the target of the triggering attack for a turn. It’s a
+&lt;em&gt;free action&lt;/em&gt;, not a reaction or interrupt, so this happens every single time he
+hits with Dragon Talon or Ego Whip.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nibenay’s Demand&lt;/strong&gt; is his anti-stunlock power, a reaction that lets him
+inflict 10 necrotic damage on an enemy within 5 squares and roll a save whenever
+he’s subject to an effect a save can end.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Nibenay being an Elite instead of a Solo is not necessarily a sign that he’s
+weak, but that the final fight against him will be a crowded affair. Any
+surviving high consorts will surely be here, as will any other epic level
+assistants and guards the GM wants to add to make the battle a worthy challenge.&lt;/p&gt;
+
+&lt;p&gt;Unlike Andropinis, Nibenay doesn’t have powers that boost or benefit from his
+allies, but at least he doesn’t get in their way either - his area attack is
+selective. The High Consorts, however, &lt;em&gt;are&lt;/em&gt; likely to step on each others’ toes
+because their version of Arcane Defiling targets allies instead of enemies.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mearedes</title>
@@ -1139,212 +1302,6 @@ she’s a solo you might want to add some high kuotagha bodyguards to her fight.
         <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dark Sun Creature Catalog: Dragon of Tyr</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-dragon-of-tyr.png&quot;/&gt;
-  &lt;figcaption&gt;
-    The Dragon of Tyr, making a dapper pose for the camera.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This entry appeared among the monsters, right where you’d find standard dragons
-in another monster book. I thought this was odd, because he’s the only dragon in
-Athas and also one of its more important “personages”, so why isn’t he in that
-section?&lt;/p&gt;
-
-&lt;p&gt;The answer, I suspect, is because to be in the Personages section the character
-has to be someone who could be a potential ally to the PCs, and the Dragon of
-Tyr is not someone any party of PCs should be allying with. Instead, he’s the
-final boss of Dark Sun.&lt;/p&gt;
-
-&lt;p&gt;Nevertheless I’m talking about him here, because he &lt;em&gt;is&lt;/em&gt; an important personage
-and knowing his story gives a lot of context for the sorcerer-kings you’ll also
-find in this section.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Everyone in Athas knows and fears the Dragon of Tyr. This great and terrible
-monster comes in from somewhere on the other side of the Sea of Silt every once
-in a while, and demands a huge tribute of treasure and slaves. Even the
-sorcerer-kings fear him, and so they scramble to meet his demands. Once that’s
-done, the Dragon flies home with his loot, leaving the region alone until his
-next appearance.&lt;/p&gt;
-
-&lt;p&gt;All of this is common knowledge. Only the sorcerer-kings themselves know the
-full story: the Dragon was once one of them. His original name was Borys the
-Butcher, and like his colleagues he was one of the fifteen secret apprentices of
-Rajaat the Sorcerer.&lt;/p&gt;
-
-&lt;p&gt;You see, arcane magic on Athas is a truly unnatural phenomenon, a flaw that
-slipped into the world when the primordials defeated the gods way back when
-Athas was still green. Rajaat was the first mortal to discover and master arcane
-magic. He was also the first to learn that you could pull more power from the
-life around you to cast bigger spells - in other words, the first defiler.&lt;/p&gt;
-
-&lt;p&gt;Rajaat taught dozens of pupils, but he only taught the secret of defiling to his
-inner circle of fifteen secret apprentices. For Rajaat was a major asshole, and
-when he felt his Champions were ready, he ordered them to go out on a worldwide
-genocidal rampage to cleanse Athas of all the species he deemed “impure”. So
-much defiling magic was flung around in those wars that Athas’ previously green
-ecosystem was completely destroyed, starting the world’s transformation into the
-desert it is today.&lt;/p&gt;
-
-&lt;p&gt;In time, even the Champions became convinced that all of this was a bit too
-much. Led by Borys, they turned on their master and managed to imprison him in a
-pocket dimension outside of time and space. Once Rajaat was out of the picture,
-the former Champions quickly conquered or built city-states in one of the last
-habitable regions of Athas, setting themselves up as the Sorcerer-Kings.&lt;/p&gt;
-
-&lt;p&gt;By then, they knew that attaining the pinnacle of power as a defiler would lead
-to transformation into a dragon. Borys, who had taken it upon himself to guard
-Rajaat’s prison, successfully argued that the other Sorcerer-Kings should help
-him speedrun the transformation, since he’d need the power to contain their
-former master forever. And so they did.&lt;/p&gt;
-
-&lt;p&gt;The ritual for the final transformation required the sacrifice of every citizen
-of Ebe, the island city Borys ruled. Borys renamed the resulting hellish
-wasteland Ur Draxa, the City of Doom. The Dragon dwells in the ruins of Ur
-Draxa’s palace to this day, leaving the city only to collect his tributes.&lt;/p&gt;
-
-&lt;p&gt;The city itself is inhabited by a very large number of undead, and by the living
-slaves brought in as tribute. The city’s day to day operation is in the hands of
-the Dead Lords, a council of liches who serve the Dragon.&lt;/p&gt;
-
-&lt;p&gt;The Dragon keeps their soul vessels (the book uses the p-word here) hidden deep
-within his palace to ensure compliance. He is wise to do this, for the Lord
-Vizier who leads the council has his own agenda. He’s secretly researching a way
-to cross into the Astral Sea and escape Athas altogether, and often sends his
-personal minions out on missions to recover any bit of planar lore he hears
-about.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get stats for the Dragon of Tyr and for the Lord Vizier in this entry. The
-two are completely different, of course, so we’ll cover all their traits in
-their respective entries.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-dragon-of-tyr&quot;&gt;The Dragon of Tyr&lt;/h3&gt;
-
-&lt;p&gt;The only dragon in Athas is a Gargantuan Natural Magical Beast with the Dragon
-tag (obviously). He’s also a Level 33 Solo Controller with 1216 HP, Darkvision,
-ground and flight speeds of 10, and a teleport speed of 5. He can hover,
-too. His alignment is Chaotic Evil.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Dragon’s Actions&lt;/strong&gt; trait means old Borys doesn’t roll initiative at
-all. He has three whole turns per round at initiative counts 40, 30, and 20. He
-cannot delay or ready actions.&lt;/p&gt;
-
-&lt;p&gt;His basic attack is a massive Reach 4 &lt;strong&gt;Claw&lt;/strong&gt; that damages and strips all
-necrotic and psychic resistance on a hit (save ends). His &lt;strong&gt;bite&lt;/strong&gt; deals more or
-less the same damage and immobilizes (save ends), with a Slow aftereffect (save
-ends).&lt;/p&gt;
-
-&lt;p&gt;He can also use wider swipes to perform the &lt;strong&gt;Raking Claws&lt;/strong&gt; attack, attacking
-all enemies in a Close Blast 4 for slightly less damage than the single-target
-version and also sliding them 2 squares on a hit.&lt;/p&gt;
-
-&lt;p&gt;That’s it for physical attacks. Now for the spells and psychic powers, because
-of course he has both!&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Dragon’s Defiling&lt;/strong&gt; is a hazard all on its own, targetting all creatures
-in a Close Burst 5 and dealing necrotic damage on a hit. He can use the energy
-gathered with this to cast &lt;strong&gt;Defiling Death&lt;/strong&gt; (ranged 10), dealing heavy
-necrotic damage and ongoing 20 necrotic damage to the target (save ends). After
-the first failed save, the ongoing damage increases to 30!&lt;/p&gt;
-
-&lt;p&gt;The Dragon of Tyr starts the fight with Defiling Death charged, and once it’s
-cast he must hit with Dragon’s Defiling to recharge the attack.&lt;/p&gt;
-
-&lt;p&gt;Once the Dragon is bloodied, he can use his &lt;strong&gt;Breath of Shredding Sand&lt;/strong&gt;,
-attacking all creatures in a &lt;em&gt;Close Blast 20&lt;/em&gt; and dealing the same amount of
-damage as the bite on a hit, half on a miss. Fortunately this is an encounter
-power and doesn’t recharge.&lt;/p&gt;
-
-&lt;p&gt;Finally, if the PCs manage to surround Borys, he can use a &lt;strong&gt;Telekinetic Pulse&lt;/strong&gt;
-(encounter), a Close Burst 5 that deals the same damage as the bite, pushes its
-targets 5 squares, and knocks them prone. On a miss, it deals half damage and
-pushes 3 squares.&lt;/p&gt;
-
-&lt;p&gt;The Dragon can use his move action on a &lt;strong&gt;Psionic Uplift&lt;/strong&gt;, automatically
-pushing every adjacent enemy 2 squares and flying his Speed + 2 (i.e, 12
-squares). If an enemy ends its movement within 4 squares of the Dragon, he can
-hit them with his &lt;strong&gt;Lashing Tail&lt;/strong&gt; as a reaction, dealing the same damage as the
-claw and knocking them prone. And when the dragon is first bloodied, Telekinetic
-Pulse recharges and he can use it immediately as a free action.&lt;/p&gt;
-
-&lt;p&gt;The physical attacks all target AC, the necrotic and tekekinetic ones all target
-Fortitude, and the sand breath targets Reflex. As the most powerful arcane
-caster in the whole world, you can say he knows pretty much every ritual in the
-game for use outside of combat.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-lord-vizier&quot;&gt;The Lord Vizier&lt;/h3&gt;
-
-&lt;p&gt;This is the oldest and most powerful lich among the council of Dead Lords, which
-makes him their leader. Ostensibly, he un-lives to serve his master the Dragon,
-but as we saw he’s also privately looking for a way off this dying rock. He is a
-Medium Natural Humanoid with the Undead tag, and Level 26 Elite Artillery. He
-has Speed 6, and Darkvision. He’s immune to diseases like all undead, and has
-Resist 15 Necrotic and Resist 10 Poison. His alignment is Evil.&lt;/p&gt;
-
-&lt;p&gt;The Lord Vizier has a &lt;strong&gt;Necrotic Aura&lt;/strong&gt; (5) that deals 10 necrotic damage to
-anyone who enters it or starts their turn inside. Like all liches, he’s
-&lt;strong&gt;Indestructible&lt;/strong&gt; while his soul vessel remains intact: when reduced to 0 HP,
-his body and possessions become dust and reform within 1d10 days near the
-vessel.&lt;/p&gt;
-
-&lt;p&gt;He wields the &lt;strong&gt;Dead Lord’s Scepter&lt;/strong&gt;, and his basic attack is to bonk someone
-with it, dealing lightning-and-necrotic damage. His basic ranged attack is the
-&lt;strong&gt;Grasp of the Dead&lt;/strong&gt; spell (range 20 vs. Fortitude), which deals necrotic
-damage and lets one undead creature adjacent to the target make a free melee
-basic attack. If the attack hits, the creature marks the target for a turn.&lt;/p&gt;
-
-&lt;p&gt;He can also cast a &lt;strong&gt;Plume of Death&lt;/strong&gt; (area 2 within 10 vs. Fortitude, recharge
-5+), a fireball-sized spell that deals acid-and-necrotic damage and summons a
-Vizier’s Skeleton on a square within the burst.&lt;/p&gt;
-
-&lt;p&gt;As a move action, the Lord can draw on his secret knowledge and perform a brief
-&lt;strong&gt;Planar Displacement&lt;/strong&gt;, teleporting 15 squares and leaving a brand-new Vizier’s
-Skeleton in the origin square.&lt;/p&gt;
-
-&lt;h3 id=&quot;viziers-skeleton&quot;&gt;Vizier’s Skeleton&lt;/h3&gt;
-
-&lt;p&gt;These sophisticated undead minions are constantly produced by the Lord Vizier’s
-special attacks, and he will probably have a whole bunch of them on hand when
-the fight starts in addition to some powerful non-minion undead. They’re Medium
-Natural Animates (undead) and Level 26 Minion Brutes who fight with &lt;strong&gt;Deadflame
-Swords&lt;/strong&gt; that do fire-and-necrotic damage, and can shoot &lt;strong&gt;Chill Shards&lt;/strong&gt;
-(Ranged 10) to do cold-and-necrotic damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;When met outside his city, the Dragon is always alone and on a specific
-mission. He will usually completely ignore most people who have nothing to do
-with his goal, believing they are beneath his notice. Of course, if those people
-are stupid enough to pick a fight with him, he is only too glad to oblige,
-completely confident of his victory and with good reason.&lt;/p&gt;
-
-&lt;p&gt;If he is attacked &lt;em&gt;in Ur Draxa&lt;/em&gt;, I imagine the Dead Lords would join the fight
-too. Better bring an army or ten.&lt;/p&gt;
-
-&lt;p&gt;The Lord Vizier generally obeys the Dragon’s every order and kills whoever he
-wants dead. I wonder if he can be met in friendlier terms when following his own
-agenda. Epic PCs would make perfect agents for recovering that lost lore without
-the Dragon noticing.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/25/wir-dscc-dragon-of-tyr.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/25/wir-dscc-dragon-of-tyr.html</guid>
         
         <category>dnd4</category>
         
