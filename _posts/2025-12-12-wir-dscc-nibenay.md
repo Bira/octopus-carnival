@@ -7,6 +7,15 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-nibenay.png" | absolute_url }}"/>
+  <figcaption>
+    Nibenay, in his true half-draconic form, lounging on his throne.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
 Yes, he named his city after himself.
