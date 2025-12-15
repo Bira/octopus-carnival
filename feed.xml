@@ -6,9 +6,151 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Dec 2025 18:13:36 +0000</pubDate>
-    <lastBuildDate>Fri, 12 Dec 2025 18:13:36 +0000</lastBuildDate>
+    <pubDate>Mon, 15 Dec 2025 18:40:49 +0000</pubDate>
+    <lastBuildDate>Mon, 15 Dec 2025 18:40:49 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Tectuktitlay</title>
+        <description>&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-tectuktitlay.png&quot;/&gt;
+  &lt;figcaption&gt;
+    Tectuktitlay, dressed in extravagant regalia and holding a human heart.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;Tectuktitlay is the king of Draj, and while he is not the only sorcerer-king to
+claim to be a god, he’s apparently the one most willing to enforce that claim.&lt;/p&gt;
+
+&lt;p&gt;His priests tell the story of how he’s the son of the moons Ral and Guthay, who
+descended into the mortal realm already a god. This divine family gave Draj the
+gifts of bountiful harvests and prowess in battle, and can easily revoke them
+if they’re not properly worshiped.&lt;/p&gt;
+
+&lt;p&gt;Disagreeing with Tectuktitlay about any of this is a particularly painful form
+of suicide. He constantly appears to his people at the top of his
+stepped-pyramid palace (the “Temple of the Father and Master”), and his vigilant
+gaze is etched on structures all through Draj. It’s hard to tell whether his
+subjects believe he’s really a god - they have gotten extremely good at going
+through the motions of worshiping him in the name of self-preservation.&lt;/p&gt;
+
+&lt;p&gt;I honestly couldn’t tell from the book’s description if Tectuktitlay really
+believes in his own divinity. Whether he does or not, he also knows he’s the
+weakest of the Sorcerer Kings, and probably has something of an inferiority
+complex about it. He tries to compensate for his personal weakness by making his
+realm military strong instead.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;We get three stat blocks here. Draj is the Aztec-themed domain, so everyone here
+just loves to rip out people’s hearts.&lt;/p&gt;
+
+&lt;h3 id=&quot;moon-priest&quot;&gt;Moon Priest&lt;/h3&gt;
+
+&lt;p&gt;This is a typical templar of Draj, equal parts bureaucrat and enforcer of his
+god’s creed. They’re always on the lookout for heresy, and ready to violently
+punish it.&lt;/p&gt;
+
+&lt;p&gt;Moon Priests are Level 11 Controllers with the Leader tag and 110 HP. Their
+leaderly qualities come from their aura of &lt;strong&gt;Enforced Zeal&lt;/strong&gt; (1) which gives
+allies inside a +2 damage bonus; and from &lt;strong&gt;Blood Demands Blood&lt;/strong&gt; an encounter
+power that gives allies within 5 squares a +2 attack bonus as a reaction when
+the priest is first bloodied.&lt;/p&gt;
+
+&lt;p&gt;They fight with a &lt;strong&gt;Scourge&lt;/strong&gt; that damages and inflicts a -2 attack penalty for
+a turn. They also have a dagger in hand that has a scarier purpose: the &lt;strong&gt;Worthy
+Sacrifice&lt;/strong&gt; maneuver (melee 1 vs. Reflex), which knocks a target prone on a hit
+and lets them make a secondary attack against the same target. If &lt;em&gt;that&lt;/em&gt; hits,
+it deals heavy physical damage, dazes (save ends), and gives 10 temporary HP to
+each nonminion ally the priest can see. They try to rip your heart out! And this
+is at-will.&lt;/p&gt;
+
+&lt;p&gt;They can use a minor action to charm an enemy with a &lt;strong&gt;Sacrificial
+Summons&lt;/strong&gt; (ranged 15 vs. Will) which pulls 5 squares and makes the target grant
+combat advantage for a turn. If this ends up with the target in melee reach,
+it’s that much easier to hit them with the big sacrifice attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;jasuan-temple-guard&quot;&gt;Jasuan Temple Guard&lt;/h3&gt;
+
+&lt;p&gt;These are elite bodyguards hand-picked from Draj’s knightly orders for their
+unquestioning devotion to their god. They protect the Father and Master Temple,
+and Tectuktitlay himself. They’re Level 21 Soldiers with 200 HP.&lt;/p&gt;
+
+&lt;p&gt;They fight with &lt;strong&gt;Obsidian Broadswords&lt;/strong&gt; that deal immediate and ongoing
+physical damage, and also mark (save ends both). And they can throw &lt;strong&gt;Bone
+Harpoons&lt;/strong&gt; that deal physical damage and immobilize (save ends). Once a target
+has been immobilized, they can be targeted by &lt;strong&gt;Reel In&lt;/strong&gt; (minor, ranged 10
+vs. Fort), which pulls them 5 squares or knocks them prone on a hit. If they end
+up adjacent to the guard, the guard can hit them with his sword again.&lt;/p&gt;
+
+&lt;p&gt;Finally, their &lt;strong&gt;Wicked Cruelty&lt;/strong&gt; gives them 10 temporary HP whenever they
+bloody an enemy for the first time, and it’s the first time that enemy has been
+bloodied in the fight.&lt;/p&gt;
+
+&lt;h3 id=&quot;tectuktitlay-sorcerer-king&quot;&gt;Tectuktitlay, Sorcerer-King&lt;/h3&gt;
+
+&lt;p&gt;Tectuktitlay is Level 22 Elite Artillery (Leader), lower level than any other of
+the sorcerer-kings we saw so far in this book. He has 316 HP and a speed of 6.&lt;/p&gt;
+
+&lt;p&gt;Tectuktitlay projects a large aura of &lt;strong&gt;Imposed Zealotry&lt;/strong&gt; (4) that gives a +2
+attack bonus to allies inside, and another one of &lt;strong&gt;Bloody Vigor&lt;/strong&gt; over the same
+area that heals 10 HP to any bloodied ally that starts their turn inside.&lt;/p&gt;
+
+&lt;p&gt;He has a &lt;strong&gt;dagger&lt;/strong&gt; for melee, but the real star of the show here are his
+spells, all of which have a maximum range of 20. &lt;strong&gt;Arrows of the Two Moons&lt;/strong&gt;
+deals necrotic + radiant damage, the most unexpected combination I’ve ever
+seen. &lt;strong&gt;Spear of the Sky&lt;/strong&gt; is a selective area attack that deals fire +
+lightning damage, and &lt;strong&gt;Double Attack&lt;/strong&gt; lets him use both spells in the same
+action.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kiss of the Two Moons&lt;/strong&gt; is his limited-use special, firing off two separate
+bolts at different targets. The first does necrotic damage and weakens (save
+ends); the second does radiant damage and blinds (save ends). A miss on either
+attack deals half damage and inflicts the associated condition for a turn. This
+recharges when he’s first bloodied.&lt;/p&gt;
+
+&lt;p&gt;Last but not least there’s &lt;strong&gt;Thief of Hearts&lt;/strong&gt; (vs. Fort, recharge 5+), in which
+he attempts to teleport someone’s heart to his hand. A hit deals damage equal to
+the target’s healing surge value, and hit or miss the target is dazed (save
+ends).&lt;/p&gt;
+
+&lt;p&gt;If Tectuktitlay is hit with a melee or ranged attack, he can order an
+&lt;strong&gt;Involuntary Sacrifice&lt;/strong&gt; as an interrupt, choosing an ally within 4
+squares. That ally shifts to be adjacent to his master, and is hit by the attack
+instead of him.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;Tectuktitlay wants to stay 20 squares away from the PCs and bombard them with
+spells. His at-wills are annoying enough, but what will really light a fire
+under the PCs to end him as soon as possible is when Thief of Hearts lands for
+the first time. I initially read it as dealing damage equal to the target’s
+&lt;em&gt;bloodied&lt;/em&gt; value, but even if the actual damage is just half that, the
+psychological impact is still high.&lt;/p&gt;
+
+&lt;p&gt;The party will want to get into melee with him as soon as possible, as he has no
+protection against opportunity attacks, but that will be made harder by the
+small army of jasuan guards and maybe up-leveled priests that will also be
+there. They’ll get in the way, and their king can pull them in to take hits in
+his stead.&lt;/p&gt;
+
+&lt;p&gt;The next best thing is to inflict dazes or stuns on him, since he lacks
+protection against those aside from the usual elite save bonus.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Nibenay</title>
@@ -1139,169 +1281,6 @@ to drain his whole kingdom of life in order to protect himself.&lt;/p&gt;
         <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/11/30/wir-dscc-andropinis.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/30/wir-dscc-andropinis.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Abalach-Re</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-abalach-re.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Abalach-Re, who seems beautiful from a distance, but whose body-horror
-    mutations become obvious when you get closer.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Abalach-Re is a Sorcerer-Queen who rules the city of Raam as its Grand Vizier, a
-title she chose because she claims to rule on behalf of a (fictional) deity
-named Badna. Outwardly, she seems like a lazy, decadent and debauched ruler, who
-lets her nobles make war on each other while her police forces oppress a
-starving population and numerous rebellions grow right under her nose.&lt;/p&gt;
-
-&lt;p&gt;In reality, she’s a lot more aware of what goes on in her domain. It’s just that
-she enjoys the cruelty on display, and likes to see those nascent rebellions
-crushed. She &lt;em&gt;is&lt;/em&gt; decadent and debauched, but even that is a fruit of her
-explorations on the limits of her own physical form. This research has granted
-her prodigious body manipulation abilities, which she teaches to her closest
-agents and favored children.&lt;/p&gt;
-
-&lt;p&gt;Abalach-Re keeps a close eye on her peers and was the one who alerted them when
-Dregoth got a bit too uppity. She makes sure to keep her own self-modification
-experiments a secret from the other sorcerer-kings, as these are her chosen path
-to ascension as a god-like being.&lt;/p&gt;
-
-&lt;p&gt;Raam’s day-to-day administration is in the hands of several noble houses, each
-of which controls a different district. They’re more like organized crime
-syndicates than anything else, constantly at each other’s throats and united
-only in their desire to exploit the people under their charge. They’re aided in
-this by the city’s police force. Its officers, the Mansabdars, theoretically
-answer directly to the Queen, but in practice are all in the pockets of whatever
-noble house oversees their beat, and are no more than brutal thugs.&lt;/p&gt;
-
-&lt;p&gt;Abalach-Re lets them all do it because, as stated above, she likes the
-cruelty. Instead of reining it in, she created an elite secret police force, the
-High Kuotaghas, who actually enforce her will in the city and act to smack down
-any noble who gets a little &lt;em&gt;too&lt;/em&gt; confident. Kuotaghas often receive their
-queen’s “gifts” and as such have access to some body horror powers.&lt;/p&gt;
-
-&lt;p&gt;Most of the Queen’s children are part of her court or members of the Kuotaghas,
-but some have turned against her. She lets them, because all of ther children
-have unknowingly been implanted with magical locator beacons. Even the
-rebellious ones are useful tools to detect other rebels.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three entries here and as usual I’m going to talk about them in order of
-ascending level.&lt;/p&gt;
-
-&lt;h3 id=&quot;street-mansabdar&quot;&gt;Street Mansabdar&lt;/h3&gt;
-
-&lt;p&gt;A typical member of the force that should be enforcing the city’s laws but is
-instead enforcing the will of some local warlord in exchange for fat
-bribes. It’s a Level 7 Soldier with 76 HP and a speed of 6. Clad in hide armor,
-it’s armed with a mace and a scourge.&lt;/p&gt;
-
-&lt;p&gt;The &lt;strong&gt;Mace&lt;/strong&gt; is our basic attack, which damages and marks on a hit. If a marked
-target ignores the mark, the mansabdar can use its &lt;strong&gt;scourge&lt;/strong&gt; against them as
-an interrupt. It does the same damage as the mace, and knocks prone on a hit.&lt;/p&gt;
-
-&lt;p&gt;Then the mansabdar can use &lt;strong&gt;Beat Down&lt;/strong&gt; against the prone target, which deals
-the same damage as a basic mace strike and slows for a turn. If the target
-stands up before the end of its next turn, it also takes ongoing 5 damage (save
-ends).&lt;/p&gt;
-
-&lt;h3 id=&quot;high-kuotagha&quot;&gt;High Kuotagha&lt;/h3&gt;
-
-&lt;p&gt;A trusted agent of Abalach-Re, member of the group actually responsible for
-enforcing her will in the city. While still tagged as a human in its stat block,
-this kuotagha was &lt;em&gt;extensively&lt;/em&gt; mutated by his boss, which I’m sure will be a
-nice surprise to the PCs. It’s a level 21 Lurker with 150 HP, a ground speed of
-7, and a Spider Climb speed of 6. It also has low-light vision.&lt;/p&gt;
-
-&lt;p&gt;The kuotagha fights with &lt;strong&gt;Claws&lt;/strong&gt;, which target Reflex instead of AC, meaning
-they’re the “shreds armor like paper” kind. It can also extrude a &lt;strong&gt;Flesh
-Garrote&lt;/strong&gt; that does the same damage and grabs on a hit. This grab inflicts a -4
-penalty to escape attempts, and there is no limit to the number of victims the
-kuotagha can grab in this way. I’ll let you imagine how that works. All grabs
-can be sustained at once with a single standard action, which also does some
-automatic damage to the victim.&lt;/p&gt;
-
-&lt;p&gt;All other traits here depend on the kuotagha having one or more grabbed
-victims. The &lt;del&gt;creature&lt;/del&gt; agent of the law can inflict criticals on its grabbed
-victims on a 18-20 (which is very generous in 4e), has a +4 to all defenses
-while it has a grabbed victim, and when someone attacks it while it’s grabbing
-someone it can shift 1 square and slide any grabbed victims 1 square to a square
-adjacent to it as in interrupt. This will only happen once per round, but it’s
-gonna be &lt;em&gt;so annyoing&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;And this is a regular monster, meaning you could potentiall fight a whole team
-of them at once.&lt;/p&gt;
-
-&lt;h3 id=&quot;abalach-re-sorcerer-queen&quot;&gt;Abalach-Re, Sorcerer-Queen&lt;/h3&gt;
-
-&lt;p&gt;Abalach-Re is a Level 23 Solo Controller with the Leader tag and 856 HP. Like
-her henchthing above, she’s technically human, but “technically” is doing even
-more heavy lifting in her case. As mentioned above, she’s seeking a custom path
-to immorality that involves lot of self-bioengineering, and the fruits of this
-are evident in this stat block.&lt;/p&gt;
-
-&lt;p&gt;Abalach-Re has low-light vision, a ground speed of 8, and a flight speed of 5
-with hover and an altitude limit of 2. The &lt;strong&gt;Spirit Flight&lt;/strong&gt; trait gives her
-insubstantial and phasing while she moves.&lt;/p&gt;
-
-&lt;p&gt;Two of her three basic attacks can be either melee 1 or ranged 10: &lt;strong&gt;Telekinetic
-Thrust&lt;/strong&gt; targets Fortitude, deals physical damage, slides 5 squares and
-immobilizes (save ends); &lt;strong&gt;Instinct Overload&lt;/strong&gt; targets Will, deals psychic
-damage and lets Abalach-Re dictate the next move or standard action the target
-will take on their turn, though she cannot force a victim to use a power.&lt;/p&gt;
-
-&lt;p&gt;The third basic attack is &lt;strong&gt;Disrupting Touch&lt;/strong&gt;, which targets Reflex and can be
-either Melee 3 or Ranged 10. On a hit it deals physical damage and ongoing 10
-force damage (save ends). Unlike the others, which are obviously psychic powers,
-I think this one might be a touch spell where she stretches her arms really far.&lt;/p&gt;
-
-&lt;p&gt;Anyway, &lt;strong&gt;Morphing Power Splice&lt;/strong&gt; lets Abalach-Re make three attacks with one
-action without provoking opportunity attacks, so she could use any combination
-of the above on the same turn.&lt;/p&gt;
-
-&lt;p&gt;She can also lay down a &lt;strong&gt;Defiling Field&lt;/strong&gt;, creating a zone in a Close Burst 3
-that lasts until the end of the encounter. Any enemy that takes damage within
-the zone also takes ongoing 15 necrotic damage (save ends). Thankfully this is
-an encounter power, but it recharges when she’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Her movement power is &lt;strong&gt;Allocation&lt;/strong&gt;, which lets her teleport 10 squares and
-then slide any enemy adjacent to her at the arrival point 5 squares. This also
-recharges when she’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;In addition to all of the above, when Abalach-Re is hit with any attack she can
-use &lt;strong&gt;Vengeance of Adaptive Flesh&lt;/strong&gt; as a reaction. This is a Ranged 10 attack
-that targets Will, and deals 15 ongoing damage of the same type she just took
-(save ends). Like all of her other ranged attacks, this doesn’t provoke
-opportunity attacks.&lt;/p&gt;
-
-&lt;p&gt;It looks to me like she wants to stay mostly away from the PCs, using her powers
-to slide them into the defiling field so she can further damage them with more
-attacks and ongoing damage.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;This is a pretty strong opening for this section, and a brief look tells me
-Abalach-Re is likely the weakest of the Sorcerer Kings. She doesn’t seem to have
-any particular resistance against being stunlocked by PC powers, so even though
-she’s a solo you might want to add some high kuotagha bodyguards to her fight.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/11/27/wir-dscc-abalach-re.html</guid>
         
         <category>dnd4</category>
         
