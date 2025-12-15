@@ -7,23 +7,31 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-tectuktitlay.png" | absolute_url }}"/>
+  <figcaption>
+    Tectuktitlay, dressed in extravagant regalia and holding a human heart.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
-Tectuktitlay is the king of Dradj, and while he is not the only sorcerer-king to
-claim to be a god, but he's apparently the one most willing to enforce that
-claim.
+Tectuktitlay is the king of Draj, and while he is not the only sorcerer-king to
+claim to be a god, he's apparently the one most willing to enforce that claim.
 
 His priests tell the story of how he's the son of the moons Ral and Guthay, who
 descended into the mortal realm already a god. This divine family gave Draj the
-gifts of bountiful harvests and prowess in battle, and can easily revoked them
-if they're not properly worshipped.
+gifts of bountiful harvests and prowess in battle, and can easily revoke them
+if they're not properly worshiped.
 
 Disagreeing with Tectuktitlay about any of this is a particularly painful form
 of suicide. He constantly appears to his people at the top of his
 stepped-pyramid palace (the "Temple of the Father and Master"), and his vigilant
 gaze is etched on structures all through Draj. It's hard to tell whether his
 subjects believe he's really a god - they have gotten extremely good at going
-through through the motions of worshipping him in the name of self-preservation.
+through the motions of worshiping him in the name of self-preservation.
 
 I honestly couldn't tell from the book's description if Tectuktitlay really
 believes in his own divinity. Whether he does or not, he also knows he's the
@@ -48,13 +56,13 @@ allies inside a +2 damage bonus; and from **Blood Demands Blood** an encounter
 power that gives allies within 5 squares a +2 attack bonus as a reaction when
 the priest is first bloodied.
 
-They fight in melee with a **Scourge** that damages and inflicts a -2 attack
-penalty for a turn. They also have a dagger in hand that has a scarier purpose:
-the **Worthy Sacrifice** maneuver (melee 1 vs. Reflex), which knocks a target
-prone on a hit and lets them make a secondary attack against the same target. If
-_that_ hits, it deals heavy physical damage, dazes (save ends), and gives 10
-temporary HP to each nonminion ally the priest can see. They try to rip your
-heart out! And this is at-will.
+They fight with a **Scourge** that damages and inflicts a -2 attack penalty for
+a turn. They also have a dagger in hand that has a scarier purpose: the **Worthy
+Sacrifice** maneuver (melee 1 vs. Reflex), which knocks a target prone on a hit
+and lets them make a secondary attack against the same target. If _that_ hits,
+it deals heavy physical damage, dazes (save ends), and gives 10 temporary HP to
+each nonminion ally the priest can see. They try to rip your heart out! And this
+is at-will.
 
 They can use a minor action to charm an enemy with a **Sacrificial
 Summons** (ranged 15 vs. Will) which pulls 5 squares and makes the target grant
@@ -105,7 +113,7 @@ he attempts to teleport someone's heart to his hand. A hit deals damage equal to
 the target's healing surge value, and hit or miss the target is dazed (save
 ends).
 
-If Tectuktitlay is hit wth a melee or ranged attack, he can order an
+If Tectuktitlay is hit with a melee or ranged attack, he can order an
 **Involuntary Sacrifice** as an interrupt, choosing an ally within 4
 squares. That ally shifts to be adjacent to his master, and is hit by the attack
 instead of him.
@@ -122,7 +130,8 @@ psychological impact is still high.
 The party will want to get into melee with him as soon as possible, as he has no
 protection against opportunity attacks, but that will be made harder by the
 small army of jasuan guards and maybe up-leveled priests that will also be
-there.
+there. They'll get in the way, and their king can pull them in to take hits in
+his stead.
 
 The next best thing is to inflict dazes or stuns on him, since he lacks
 protection against those aside from the usual elite save bonus.
