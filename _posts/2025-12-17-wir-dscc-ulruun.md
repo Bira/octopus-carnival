@@ -7,6 +7,16 @@ tags:
     - dnd4e
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-ulruun.png" | absolute_url }}"/>
+  <figcaption>
+    Ulruun, a bald and beardless dwarf in a fancy tunic. He's smiling
+    repugnantly.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 We're fresh out of Sorcerer-Kings, but there are still a couple of randos to
 read through.
 
@@ -56,5 +66,5 @@ if there are any innocents on the map when a fight breaks out, he'll use them as
 cover as well.
 
 Ulruun is, well, repugnant, though other than being a dwarf there's probably not
-much that's unique about him.. I think he's meant to be a typical example of a
+much that's unique about him. I think he's meant to be a typical example of a
 sleazy slave trader.
