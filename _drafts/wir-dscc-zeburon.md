@@ -14,10 +14,10 @@ bandit gang that hides out in the Black Sands. According to rumor they always
 number a hundred, and ride war-trained kanks to assault caravans and settlements
 around the Black Sands.
 
-Zeburon himself has this name because of his signature fully-enclosed metal
-helmet, which has narrow slits, some decorative runic etching, and a pair of
-prominent horns. Not even most of the Raiders have ever seen his face - only his
-most trusted lieutenants (such as the defiler Fevik) know what he looks like.
+Zeburon himself has this name because of his signature metal helmet, which has a
+pair of prominent horns and completely conceals his face. Not even most of the
+Raiders have ever seen it - only his most trusted lieutenants (such as the
+defiler Fevik) know what he looks like.
 
 And this is because Zeburon's big secret is that he's a tiefling. The book lists
 reasons why no one has figured it out yet, and they're actually a little
@@ -29,8 +29,8 @@ they're poking through a pair of holes in it.
 Zeburon hides his true nature from the rank and file of his gang because he's
 afraid of how they'd react if they found out. Given bigotry is never in short
 supply around Athas, I'm guessing the answer is "not well". And being a fearsome
-individual warrior is not very helpful if ninety guys on war kanks decide they
-want you dead and charge you all at once.
+individual warrior is not very helpful if about ninety guys on war kanks decide
+they want you dead and charge you all at once.
 
 ## The Numbers
 
@@ -54,8 +54,10 @@ of his last turn. This lasts for a turn or until he hits an enemy.
 
 A fight against Zeburon will also include a sizable contingent of Black Sands
 Raiders, as well as his best buddy and top lieutenant Fevik the Defiler. Plus
-any amount of kank mounts you deem necessary.
+any amount of kank mounts you deem necessary. It will likely come after the PCs
+have fought multiple encounters against the raiders, too.
 
 I'm pretty sure I've seen someone a lot like Zeburon in one of the many Brom
 illustrations for DS: muscles, leather straps, face-concealing horned helmet.
-However, he appears to be new.
+I haven't read any older DS material to know whether he's someone from the old
+days, or if he's new and just likes following local fashions.
