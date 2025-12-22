@@ -241,6 +241,11 @@ Sneaks. That's an unpenalized Secrecy roll, and it gets +2 from Laria, and a
 total of +4 from Jania (one of her complimentary rolls was a crit). We get a
 crit here too, but I don't think that has an effect.
 
+(2025-12-22)
+
+The other action is **Gather Information**, using the Crow Sisters as the acting
+team.
+
 ## The Silver Ravens (End of Turn 2)
 
 Includes Sentinel bonuses.
