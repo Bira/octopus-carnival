@@ -1,4 +1,21 @@
-# Intro
+---
+layout: post
+title: "Let's Play Hell's Rebels! Scene 01"
+tags:
+    - gurps
+    - dungeon-fantasy
+    - character
+    - lets-play
+    - hells-rebels
+---
+
+This is the first scene I did for the adventure. Initially I wrote stuff into
+this file as it happened, alternating betweeen Player and GM roles as
+appropriate. Then I did an editing pass to properly format it for publication,
+also applying the slight retcons resulting from the [change][2] to Arcturus'
+background.
+
+# [GM] Introduction
 
 The background for the adventure here is mostly the same, though I imagine
 mainland Cheliax is going to be worse than the writers envisioned at handling
@@ -15,7 +32,7 @@ Anyway, our heroes are all at the protest for their varied motives:
   what to do from here.
 
 - Arcturus is here for pretty much the same reason, though in this case he's
-  looking for news about the missing sea elves.
+  looking for news about Shensen.
 
 - Rosalia is here due to rumors that the missing bard Shensen would be present,
   though they'd probably show up even if she hadn't gone missing.
@@ -28,7 +45,7 @@ Anyway, our heroes are all at the protest for their varied motives:
   how the current political climate might affect her school. Her disposition
   also makes her inclined to try some pickpocketing here.
 
-# Player Hat: The Aria Park Protest
+# [Player] The Aria Park Protest
 
 We're following the kind-of-skill-challenge laid out in the protest description,
 so there are these defined actions PCs can take during the initial part of the
@@ -75,7 +92,7 @@ Everyone uses Perception except for Rosalia, who rolls Current Affairs.
 - Jania uses Stealth as a complimentary skill and makes her roll by 3. She gets
   two rolls on the rumor table and hears that a) Shensen is missing, and might
   have been imprisoned and b) something is killing tieflings in the Devil's
-  Nursery. Could it be the Temple Hill Slasher?
+  Nursery. Could it be the Temple Hill Slasher returned from the dead?
 
 - Urist succeeds by 1. He gets a roll on the rumor table and hears speculation
   about Mayor Bailinus' fate. Some say she ran away when Thrune rolled into
@@ -137,7 +154,7 @@ Each time the characters gain a quest XP reward in the original, I'm giving
 them 1 character point each. Here, they all gain the maximum of 4, for 4
 successful actions.
 
-# The Riot
+# [Player] The Riot
 
 Things happen more or less as described in the book at this point. Barzilai
 appears, makes his eighth proclamation forbidding foreign ship captains from
@@ -160,7 +177,15 @@ convenient.
 
 I'm not most people.
 
-(insert aria-park.png here)
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/aria-park.png" | absolute_url }}"/>
+  <figcaption>
+    A map of the Aria Park riot filled with protesters represented by individual
+    tokens.
+  </figcaption>
+</figure>
+{:/nomarkdown}
 
 
 We're using the variant of Popcorn Initiative used in Lancer. The first
@@ -280,3 +305,6 @@ this a victory. I give them 1 point for it.
 
 This scene was definitely chaotic and though the characters acquitted themselves
 well, the Chaos Factor rises to 6.
+
+
+[2]: {{ "/2025/12/22/lphr-background-change.md" | relative_url }}

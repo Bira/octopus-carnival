@@ -143,6 +143,9 @@ individuals that might be enemies or allies.
 - U
   - [Ulruun the Repugnant][66]
 
+- Z
+  - [Zeburon the Iron Rider][67]
+
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
 [3]: {{ "/2025/02/19/anakore.html" | relative_url }}
@@ -209,3 +212,4 @@ individuals that might be enemies or allies.
 [64]: {{ "/2025/12/12/wir-dscc-nibenay.html" | relative_url }}
 [65]: {{ "/2025/12/15/wir-dscc-tectuktitlay.html" | relative_url }}
 [66]: {{ "/2025/12/17/wir-dscc-ulruun.html" | relative_url }}
+[67]: {{ "/2025/12/24/wir-dscc-zeburon.html" | relative_url }}

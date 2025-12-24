@@ -7,14 +7,23 @@ tags:
     - dark-sun
 ---
 
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/wir-dscc-zeburon.png" | absolute_url }}"/>
+  <figcaption>
+  Zeburon
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
 ## The Lore
 
-Zeburon is the fearsome leader of the Black Sands Raiders, a brutal and feared
-bandit gang that hides out in the Black Sands. According to rumor they always
-number a hundred, and ride war-trained kanks to assault caravans and settlements
-around the Black Sands.
+Zeburon is the leader of the Black Sands Raiders, a brutal and feared bandit
+gang that hides out in the Black Sands. According to rumor they always number a
+hundred, and ride war-trained kanks to assault caravans and settlements around
+the Black Sands.
 
-Zeburon himself has this name because of his signature metal helmet, which has a
+The Iron Rider got this title because of his signature metal helmet, which has a
 pair of prominent horns and completely conceals his face. Not even most of the
 Raiders have ever seen it - only his most trusted lieutenants (such as the
 defiler Fevik) know what he looks like.
@@ -58,6 +67,7 @@ any amount of kank mounts you deem necessary. It will likely come after the PCs
 have fought multiple encounters against the raiders, too.
 
 I'm pretty sure I've seen someone a lot like Zeburon in one of the many Brom
-illustrations for DS: muscles, leather straps, face-concealing horned helmet.
-I haven't read any older DS material to know whether he's someone from the old
-days, or if he's new and just likes following local fashions.
+illustrations for DS: muscles, leather straps, face-concealing horned helmet,
+menacing pose.  I haven't read any older DS material to know whether he's
+someone from the old days, or if he's new and just likes following local
+fashions.

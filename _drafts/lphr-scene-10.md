@@ -19,8 +19,7 @@ anothero ne for the step.
 **Threads**
 
 - The Path ****
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia) *
+- Find Shensen (Rosalia, Arcturus) *
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade) **
 
@@ -244,7 +243,41 @@ crit here too, but I don't think that has an effect.
 (2025-12-22)
 
 The other action is **Gather Information**, using the Crow Sisters as the acting
-team.
+team. It's Secrecy -2, but all the bonuses from team tier and Jania's
+complimentary skills bump this to an effective 17. We want to know about
+Shensen.
+
+And we roll a 18!
+
+Not only was this a failure, but it also increases our notoriety by 1d6
+== 4. Now I see why these jokers were run out of their former town, they draw a
+lot of unwanted attention.
+
+We'll use our bonus action to Recruit Supporters. Loyalty, +2 because Laria is
+here, +1 from Rexus' Administration. A normal success, meaning we recruit 2d6+4
+supporters (rank 2, 2 recruiters). That's 14, taking us to 25!
+
+## Event Phase
+
+Okay, we're now in the Event Phase. Our base chance of an event is 24%, but it's
+doubled to 48% because we had no events last turn. We roll a 13, so we get an
+event. The Danger Rating for the city is 20, so we need to roll 1d100+20 on the
+provided table.
+
+That's the **Rivalry** event. Two of our teams develop a rivalry and neither of
+them can be used in the next Activity phase. It makes sense for these to be the
+Crow Sisters and our newly-hired Sneaks. And this is actually super bad for our
+rebellion!
+
+One of our Officers can make a
+social skill test to mitigate this and end the rivalry before it can do damage
+to our operations. I'll say it's a **Leadership** issue, and that **Diplomacy**
+or **Intimidation** can act as complimentary skills here. This is an event, so
+our sentinel Jade is going to handle it.
+
+I'm going to say the check is at -2, but Jade has Leadership-17 so we're still
+doing pretty well here. We succeed, the event is mitigated, and the doubling of
+the chance goes away for next turn.
 
 ## The Silver Ravens (End of Turn 2)
 
@@ -253,14 +286,14 @@ Includes Sentinel bonuses.
 - Rank: 1/5
 - Focus: Secrecy
 - Members: 16
-- Supporters: 11
+- Supporters: 25
 - Population: 11900
 - Treasury: $9650
 - Min. Treasury: $100
-- Notoriety: 0
+- Notoriety: 4
 - Org Skills:
   - Loyalty: 11
-  - Secrecy: 14
+  - Secrecy: 13
   - Security: 11
 - Actions: 1
 - Max Teams: 2+1
@@ -309,3 +342,22 @@ Includes Sentinel bonuses.
     - Occupying this position grants a bonus action. May use its complimentary
       skills on the bonus action.
     - Skills: Strategy, Tactics, Administration.
+
+# [GM] This Week's Mission
+
+What should I throw at myself this time? Let's take a look at what's available.
+
+- Mission 1, Decoding the Documents: Ongoing, we're at week 2/7.
+
+- Mission 2, Investigating the Fires: We did this one on Week 1.
+
+- Mission 3, Prisoners of Salt: We did this one on Week _0_.
+
+- Mission 4, Murders in the Nursery: This might be a good candidate, but I would
+  not run it as written.
+
+  We have a total of three instances of "Did the Temple Hill Slasher somehow
+  return from the dead?" missions. This one, another one in Adventure 2 where
+  it's a copycat, and one way into Adventure 5 where he really does return. I
+  don't believe we need to tease this return quite so many times, so instead I'm
+  pulling the adventure 2 mission here.
