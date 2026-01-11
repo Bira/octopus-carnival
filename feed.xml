@@ -6,9 +6,128 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Dec 2025 15:35:26 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Dec 2025 15:35:26 +0000</lastBuildDate>
+    <pubDate>Sun, 11 Jan 2026 16:15:31 +0000</pubDate>
+    <lastBuildDate>Sun, 11 Jan 2026 16:15:31 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Customizing Monsters</title>
+        <description>&lt;p&gt;We’re past the monster lists, but there’s still a fair amount of book to
+cover. Its final third is dedicated to Encounter Options, and the first
+subsection of that is a small lesson on Customizing Monsters.&lt;/p&gt;
+
+&lt;p&gt;The gist of it is that when you want to bring a “generic” D&amp;amp;D monster to Athas,
+you should change them a little to make them fit the more brutal and desperate
+tone of the setting. In other words, you should make them Darker and Sunnier.&lt;/p&gt;
+
+&lt;p&gt;The next page has a few tips on how to do that. First, you should keep the
+monster recognizable, since it both keeps things a little familiar and makes
+the differences stand out that much more. And then you can apply one or more of
+the customization guidelines they suggest, each with an example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;No change&lt;/strong&gt;: Some monsters already fit the aesthetic and could just be
+dropped in where you need them. Gnolls and bullettes, for example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Altered Appearance&lt;/strong&gt;: Some monsters need a little extra make-up to fit the
+visual style of Athas. You’ll rarely find traditional mammals here for
+example, but you could have equivalent creatures that have carapaces, scales,
+and bony plates instead of soft fur. Hill giants might look more rocky, with
+skin matching the colors of the surrounding terrain.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Altered Environment&lt;/strong&gt;: Creatures that live in frozen or aquatic biomes in
+their original forms could be changed to live in the desert wastelands of
+Athas instead. Sure, the aquatic ones could live in oases, but turning them
+into sand-burrowers can be a “nice” surprise for the players.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Alternative Lore&lt;/strong&gt;: This most important for creatures whose lore has
+extensive ties to the Astral Sea and divine magic, both of which are mostly
+inaccessible in Athas. Eidolons are one example, and they’d need to be changed
+to be tied to arcane or primal magic instead unless they’re relics from when
+the gods were still around. Angels and the like should also be reskinned
+unless your entire game revolves around the mystery of why they appeared.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;New Powers&lt;/strong&gt;: New mechanical abilities might be just the thing to make a
+given creature Darker and Sunnier. This should mostly be handled through
+Monster Themes, which are discussed in the next page.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sample-converted-monsters&quot;&gt;Sample Converted Monsters&lt;/h2&gt;
+
+&lt;p&gt;These two are given as examples, and in some cases are also stealth updates to
+the originals, using the new Monster Manual 3 math.&lt;/p&gt;
+
+&lt;h3 id=&quot;silt-shark&quot;&gt;Silt Shark&lt;/h3&gt;
+
+&lt;p&gt;Based on the Fleshtearer Shark from the Monster Manual 2, this creature occupies
+a similar niche to the bullette, with slightly different abilities. Its
+water-based traits were replaced with sand-themed equivalents, and it’s been
+given training in Athletics to make higher jumps. It “swims” through sand and
+loose soil.&lt;/p&gt;
+
+&lt;p&gt;The Silt Shark is a Large Natural Beast and a Level 10 Brute with 128 HP. It has
+a ground speed of 5, and a burrow speed of 8, with low-light vision and
+Tremorsense 10.&lt;/p&gt;
+
+&lt;p&gt;The original shark’s Aquatic trait has been replaced with &lt;strong&gt;Silt Swimmer&lt;/strong&gt;,
+which lets the shark shift and charge while burrowing, and gives it a +2 damage
+bonus while burrowing against any creature without a burrow speed. It cannot
+burrow through solid stone, however.&lt;/p&gt;
+
+&lt;p&gt;The shark has a basic &lt;strong&gt;Bite&lt;/strong&gt;, and a &lt;strong&gt;Lockjaw Charge&lt;/strong&gt; maneuver that deals the
+same damage and grabs on a hit. While the shark has a grabbed victim, it can
+automatically deal damage to them with &lt;strong&gt;Shredding Teeth&lt;/strong&gt;. And once the grab
+ends, the victim takes ongoing 5 damage (save ends).&lt;/p&gt;
+
+&lt;p&gt;If the shark starts its turn within 5 squares of a bloodied creature, it enters
+a &lt;strong&gt;Feeding Frenzy&lt;/strong&gt;, and makes a free attack against a creature adjacent to
+it. If it was grabbing someone, it releases them first.&lt;/p&gt;
+
+&lt;h3 id=&quot;ssurran-dune-mystic&quot;&gt;Ssurran Dune Mystic&lt;/h3&gt;
+
+&lt;p&gt;This is a Greenscale Marsh Mystic from the Monster Manual, modified into a
+Ssurran version. The swamp theme of the original’s abilities has been switched
+to a sand and desert theme, its Constitution was increased a little, and its
+basic attack has been given a push rider to match the Ssurran Shaman from that
+entry.&lt;/p&gt;
+
+&lt;p&gt;We end up with a Level 6 Controller (Leader) with 72 HP and a ground speed of 6
+with Earth Walk. It has a &lt;strong&gt;Sun Blessing&lt;/strong&gt; aura (5) that heals 3 HP to any ally
+that stats their turn inside, and fights with a &lt;strong&gt;spear&lt;/strong&gt; that damages and
+pushes 2 squares on a hit.&lt;/p&gt;
+
+&lt;p&gt;The mystic also has a couple of fireball-style combat spells: &lt;strong&gt;Salt Cloud&lt;/strong&gt;
+(recharge 5+) deals poison damage and dazes for a turn; &lt;strong&gt;Sand’s Grasp&lt;/strong&gt;
+(encounter) is non-damaging, but it immobilizes (save ends) and creates a zone
+of difficult terrain that lasts for the rest of the encounter.&lt;/p&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;It’s quite likely that anyone who still actively plays D&amp;amp;D 4th Edition is
+experienced enough at reskinning monsters that they don’t really need this
+advice. Nevertheless, it’s still good to see it printed, and with worked
+examples to boot.&lt;/p&gt;
+
+&lt;p&gt;Next up: Monster Themes!&lt;/p&gt;
+</description>
+        <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/01/11/wir-dscc-customizing-monsters.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/11/wir-dscc-customizing-monsters.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        <category>dnd4</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Creature Catalog: Zeburon, the Iron Rider</title>
@@ -971,90 +1090,6 @@ starts to run low.&lt;/p&gt;
         <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/12/05/wir-dscc-jossi.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/05/wir-dscc-jossi.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Haneth Tsalaxa</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-haneth-tsalaxa.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Haneth Tsalaxa
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;If you’re following the RPG.net thread with the Campaign Guide reading, you will
-already have seen a description of House Tsalaxa on &lt;a href=&quot;https://forum.rpg.net/index.php?threads/wir-4e-dark-sun-campaign-guide.925494/post-25647852&quot;&gt;this post&lt;/a&gt;. They’re one
-of the dodgier merchant houses with a presence in Tyr.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;House Tsalaxa: Based in Draj and known for blackmail and spycraft, trades in
-rope, grain, and previously owned cargo. Emblem: two glaring, bestial eyes.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Haneth Tsalaxa is the head of their Tyr branch, and he has a very unpleasant
-reputation amongst his neighbors. He apparently has tons of dirt on everyone in
-the city. Most of his fortune comes from blackmail and information brokering. If
-you see him darkening your doorstep, prepare for an unpleasant conversation.&lt;/p&gt;
-
-&lt;p&gt;The secret of his success, which no one but him knows, is that he has a natural
-ability to change his shape. He has no idea &lt;em&gt;why&lt;/em&gt;: changelings are apparently
-unheard-of in Athas, making him possibly the only one. He does exploit this
-power as much as he can, disguising himself to better infiltrate private places
-and overhear all sorts of interesting gossip. In addition to blackmail, he’s
-also willing to do espionage and assassination for hire, though his prices are
-ridiculously high.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Haneth is either a 4e changeling or mechanically indistinguishable from one:
-he’s a Medium Natural Humanoid with the Shapechanger and Changeling tags, and a
-Level 9 Elite Lurker with 154 HP.&lt;/p&gt;
-
-&lt;p&gt;He fights with a &lt;strong&gt;Short Sword&lt;/strong&gt; that deals standard physical damage and
-inflicts ongoing 5 poison damage (save ends) if he has combat advantage, and can
-also throw &lt;strong&gt;Daggers&lt;/strong&gt; that target Reflex and deal decent damage. His &lt;strong&gt;Slick
-Swordplay&lt;/strong&gt; lets him make 2 sword attacks and shift 3 squares before, between,
-or after them.&lt;/p&gt;
-
-&lt;p&gt;He’s improved upon the classic “pocket sand” technique and can throw a &lt;strong&gt;Handful
-of Poison&lt;/strong&gt; (recharge 5+) in a close blast 3, dealing poison damage and blinding
-on a hit (save ends).&lt;/p&gt;
-
-&lt;p&gt;He also has a couple of classic changeling minor actions: &lt;strong&gt;Changeling
-Disguise&lt;/strong&gt; lets him change chape to appear like any Medium humanoid. His
-clothing and equipment remain the same, so it might be a bit hard to use in
-combat, but it does help a lot when assembling a disguise. He can copy specific
-individuals, but only if he’s seen them before. &lt;strong&gt;Haneth’s Trick&lt;/strong&gt; (recharge 6+)
-can make one enemy automatically grant combat advantage to him for a turn.&lt;/p&gt;
-
-&lt;p&gt;There is no DC to pierce the Changeling Disguise. Presumably you can use the
-default rules and roll a contest of his Bluff of +12 against the Insight of any
-investigators.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Haneth’s ability spread makes him more of a skirmisher with reduced AC and HP
-than a proper lurker. The ongoing poison damage from combat advantage is better
-than nothing, but be lacks something like a Sneak Attack or a really strong
-ambush power.&lt;/p&gt;
-
-&lt;p&gt;Good thing he always has plenty of bodyguards around whenever he’s not in
-disguise. He’s a major employer of unscrupulous Mixed Groups of People. Gotta
-spend money to make money.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/04/wir-dscc-haneth-tsalaxa.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/04/wir-dscc-haneth-tsalaxa.html</guid>
         
         <category>dnd4</category>
         
