@@ -80,3 +80,20 @@ These heal of buff the creature itself.
   itself says that while you'd expect to see this only for bite attacks, you can
   add it to any attack and come up with a suitably freaky explanation for why it
   works.
+
+- **Misshapen Body** means the creature's important anatomical bits are not
+  where you'd expect them to be, so it can roll a d20 when it takes a critical
+  hit, downgrading it to a normal hit on a result of 10+. These are the same
+  mechanics of a normal save, but since they're written out in full I guess it
+  means it doesn't _count_ as a save, so wouldn't get general save bonuses such
+  as those of an elite or solo.
+
+- You can also make such misshapen creatures **Steady-Footed**, letting them
+  also roll actual saves against falling prone because their weird shape ends up
+  being more stable.
+
+## Impressions
+
+I get a very strong "atomic horror" vibe from this theme, except it's happening
+in a setting where people don't know about radiation, and so the mutations get
+blamed on other causes.

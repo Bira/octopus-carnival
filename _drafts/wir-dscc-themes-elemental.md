@@ -34,7 +34,7 @@ All of these powers deal damage of the type you chose above.
 
 - There are two **Elemental Auras**, one that triggers when the monster is
   bloodied and damages enemies inside, and one that is always active and makes
-  enemies vulnerable 5 to your chosen element.
+  enemies vulnerable to your chosen element.
 
 - **Elemental Eruption** causes an explosion when the monster is first bloodied,
   a close burst 2 that targets Reflex and deals elemental damage equal to the

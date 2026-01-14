@@ -147,9 +147,14 @@ individuals that might be enemies or allies.
   - [Zeburon the Iron Rider][67]
 
 The last third of the book is dedicated to advice and extra rules for
-customizing monsters.
+customizing monsters, monster themes, and rules for terrain and hazards.
 
 - [Customizing Monsters][68]
+
+Monster Themes:
+
+- [Arena-Bred Monster][69]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -219,3 +224,4 @@ customizing monsters.
 [66]: {{ "/2025/12/17/wir-dscc-ulruun.html" | relative_url }}
 [67]: {{ "/2025/12/24/wir-dscc-zeburon.html" | relative_url }}
 [68]: {{ "/2026/01/11/wir-dscc-customizing-monsters.html" | relative_url }}
+[69]: {{ "/2026/11/14/wir-dscc-themes-arena-bred.html" | relative_url }}
