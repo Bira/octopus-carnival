@@ -154,6 +154,7 @@ customizing monsters, monster themes, and rules for terrain and hazards.
 Monster Themes:
 
 - [Arena-Bred Monster][69]
+- [Elementally-Infused Monster][70]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -225,3 +226,4 @@ Monster Themes:
 [67]: {{ "/2025/12/24/wir-dscc-zeburon.html" | relative_url }}
 [68]: {{ "/2026/01/11/wir-dscc-customizing-monsters.html" | relative_url }}
 [69]: {{ "/2026/11/14/wir-dscc-themes-arena-bred.html" | relative_url }}
+[70]: {{ "/2026/11/20/wir-dscc-themes-elemental.hml" | relative_url }}

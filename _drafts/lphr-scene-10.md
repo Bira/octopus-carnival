@@ -360,4 +360,4 @@ What should I throw at myself this time? Let's take a look at what's available.
   return from the dead?" missions. This one, another one in Adventure 2 where
   it's a copycat, and one way into Adventure 5 where he really does return. I
   don't believe we need to tease this return quite so many times, so instead I'm
-  pulling the adventure 2 mission here.
+  pulling the adventure 2 mission here and blending it to this one.
