@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page 21 of 156 for Octopus Carnival | A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.</title>
+<title>Page 21 of 157 for Octopus Carnival | A repository of my English language RPG-related writings. Mostly GURPS with a smattering of other systems.</title>
 <meta name="generator" content="Jekyll v3.10.0" />
 <meta property="og:title" content="Octopus Carnival" />
 <meta property="og:locale" content="en_US" />
@@ -52,6 +52,470 @@
   <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
+    
+      <li>
+        <span class="post-meta">Oct 30, 2023</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2023/10/30/hackaton-sr4-1.html">The Great Tabletop Hackathon: Shadowrun 4th Edition</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure class="center">
+   <img src="https://bira.github.io/octopus-carnival/assets/sr4-cover.jpg"/>
+   <figcaption>
+     Shadowrun 20th Anniversary's cover.
+   </figcaption>
+</figure>
+
+<p>For this post we’ll be using Shadowrun 4th Edition, published in 2005. More
+specifically, we’ll be using the 20th Anniversary core book published in 2009,
+which uses the same base rules as 4th Edition but incorporates errata and some
+material that was previously published in supplements.</p>
+
+<h2 id="setting-overview">Setting Overview</h2>
+
+<p>If Shadowrun 1e’s Matrix was inspired by 80s mainframes, then 4th edition’s is
+inspired by the Internet as it was in 2005, plus some reasonable extrapolations
+of things that were in fashion among futurists then but didn’t necessarily pan
+out in the following decades. It does end up looking a lot like what we actually
+have here in 2023, with a few important differences.</p>
+
+<p>Instead of being built around high-speed cell towers, the mobile Matrix is a
+ubiquitous wireless mesh network. Individual devices in a mesh cooperate to
+route its network traffic without the need for central coordination.</p>
+
+<p>The Internet of Things was also in fashion, so every object that could possibly
+have a use for built-in computing and network capability has that
+capability. Most of those devices are fairly limited, but computer hardware is
+apparently so cheap and standardized that many of them have unused capacity that
+could be repurposed by a clever hacker. One example is someone converting cheap
+appliances into mesh routers to to bring connectivity to a “dead zone”. It’s
+also easy to turn off a device’s wireless capability with a simple command or in
+some cases a physical switch.</p>
+
+<p>Almost everyone carries a <em>commlink</em>, a device that’s equivalent to a real-world
+smartphone in form factor and usage. They often connect to a variety of
+<em>peripherals</em>, more limited devices that are built to talk to commlinks and not
+to the wider Matrix. These range from augmented-reality glasses to that
+smartlinked gun your character owns. A big server of the sort that’s the target
+of a hacking run is called a <em>nexus</em>. I will just say “server” instead.</p>
+
+<p>Augmented Reality is a big deal here, with most things connected to a mesh
+having some sort of AR presence, and general interaction with your commlink and
+the Matrix happening through AR interfaces. If you can use AR to help with your
+current task you gain a bonus to the roll. Examples include finding your way
+around town with that handy videogame-style minimap, overlaying a blueprint and
+instructions over the thing you’re fixing, firing a smarlinked gun, finding
+someone in a crowd when you have a face-recognition database, and so on. One can
+also choose to go “full VR”, which more useful for certain applications (mainly
+hacking).</p>
+
+<p>Secure facilities of the sort shadowrunners are hired to break into have
+internal mesh networks. They use tactics like limited signal ranges and
+radio-blocking paint to keep their signal contained to the physical space they
+service, and might not be connected to the wider Matrix at all. In some the
+paydata is going to be in a server that’s only accessible via wired connection
+or even via its own terminal. While sometimes it’s still possible for a hacker
+to work from home, they will most often have to hoof it alongside the rest of
+the team and take on devices and intranets as they come.</p>
+
+<p>Just like it happens with Shadowrun 1e, a lot of criticism of this model comes
+from a mismatch between the person’s understanding of the modern (2023) Internet
+and the model they used to build the Matrix in the books. It’s a bit worse here
+both because of the usual edition warrior shenanigans, and because the
+differences are more obscure. On the bright side it’s a lot easier to change the
+explanation behind the Matrix to a 2023-current one here than it would be to do
+the same to Shadowrun 1e’s 80s extravaganza.</p>
+
+<h2 id="mechanics-overview">Mechanics Overview</h2>
+
+<p>Hacker characters are called, well, hackers. They use powerful commlinks and a
+suite of specialized software to hack mesh-connected devices. Most often this
+means some peripheral or commlink-level device like a camera, alarm, door or
+handy pieces of scenery like unattended cars and other things that can be used
+to ruin an enemy’s day. It can also mean hacking into a big nexus to steal data
+and generally do the same things you could do back in SR 1. All devices are
+described by the same set of attributes, and use the same types of programs.</p>
+
+<p>Stuff like memory, storage, file sizes, and download speeds are still
+considerations in the fiction, but they don’t get detailed rules. Unless the GM
+judges a given chunk of data is too large, you can download it in one turn and
+store it in your commlink. Some really huge files might take multiple turns to
+download or might not fit your storage at all, and the GM decides when that’s
+the case based on common sense. You don’t need to worry about storing your run’s
+paydata, but you also can’t try to get cute and download the entire public
+Matrix into a talking teddy bear.</p>
+
+<p>Hacking a device means obtaining illicit access to a user account inside it. If
+you have set of legitimate credentials for your target account then you don’t
+need to roll anything. Otherwise you can gain access by either <em>probing</em> the
+device over a period of hours or days, or by <em>hacking on the fly</em>. The latter is
+an aggressive approach that happens in combat time and carries a much higher
+risk of detection.</p>
+
+<p>Hacking can be done in AR or VR. There are several advantages to doing it in VR,
+and even more for doing it with the safety limiters turned off (a condition
+known as “hot sim”). Hot sim is the preferred way to hack important nodes, but
+it also leaves you vulnerable to lethal damage from Black Ice.</p>
+
+<p>There are three types of user account. Standard accounts can view and mess with
+their own data and perform basic functions of the device. Security accounts have
+access to more sensitive functions and thus are more protected. And
+administrator accounts are the most protected and have full control of
+everything. Individual nodes in adventure descriptions should also include a
+description of which account tiers they support and what those let users do.</p>
+
+<p>It’s also possible to use a technique called “spoofing” to send single commands
+to nearby devices by pretending to be someone who’s authorized to do so. This is
+probably what you’re going to use for one-off environmental fuckery.</p>
+
+<p>There is no Hacking Pool here, but all characters can spend Edge to boost any
+roll by doing things like rerolling failed dice.</p>
+
+<h2 id="run-parameters">Run Parameters</h2>
+
+<p>For the first time in this series our Hacker will be joining the physical team
+on-site. In this game, it’s common for a site to have more than one server, and
+for the really important ones to be isolated from the outside Matrix. This means
+the servers containing our main mission objectives can’t be hacked remotely.</p>
+
+<p>As usual the core book provides us with a very handy sample Hacker which we can
+use for our run. This one’s an ork dude with an implanted commlink with all
+attributes at 5 and a full set of programs whose ratings vary between 2
+and 5. His skills vary between 4 and 5 too. He’s better at sneaking around than
+at cybercombat, so we should take care not to trigger any alerts.</p>
+
+<p>I don’t have a ready-made target site for him to hack, but I found this <a href="https://pavao.org/shadowrun/miscellany/example_matrix.pdf">free
+document</a> with some example sites and I’m going to take inspiration from
+this, from the SR1 mainframe, and from what little I know of real life to design
+a target network. Here it goes:</p>
+
+<p>This company has a public site but that doesn’t get stats here because it’s
+hosted in some cloud provider elsewhere. It has an internal office network for
+its day to day business, separated from the Matrix by a beefy firewall. The
+firewall node is also not relevant to us because we’re hacking the site from the
+inside.</p>
+
+<p>We’ll treat the entire office network as a single node: System 4, Response 4,
+Firewall 3, Analyze 2. User-level accounts allow each user to perform their
+daily work. The company’s accountant has a Security account that can access and
+manipulate the company’s money, and we need to breach it in order to steal that
+money. The network’s standard ice has Pilot 3, Analyze 3, Attack 3, Armor 3, and
+triggers when the node detects any unauthorized access. There’s another piece of
+ice here (Pilot 4, Analyze 4, Stealth 4, Track 4) that gets activated if the
+system detects unauthorized access to the security-tier account. It tries to
+trace the intruder’s connection and notifies the authorities when it succeeds.</p>
+
+<p>Separate from the internal network, there is a security server in charge of
+alarms, cameras, badges and lockable doors. User accounts in this server let
+employee badges open some doors, but not the one that leads to the record
+room. Security accounts let their user operate alarms and cameras. The security
+server has its own wireless signal that covers the entire office, but it doesn’t
+connect to any other server and accounts on other hosts aren’t valid here. We
+want at least a Security account to perform most of our objectives. If the
+hacker is on site they might also try to spoof the individual devices.</p>
+
+<p>The security server has System 4, Response 4, Firewall 4, Analyze 4. Its ice,
+which activates when an intruder is detected, has Pilot 4, Blackout 4,
+Armor 4. Any guards currently connected might also be alerted to the
+intruder. The server operates in hidden mode, so our hacker needs to find it
+before trying to hack it.</p>
+
+<p>Cameras, alarms and doors attached to the security server all have Device
+Ratings of 3 and can be individually hacked or spoofed. Employee badges have
+Device Ratings of 2. All are subscribed to the security server.</p>
+
+<p>The secret file server containing the evidence is located in the records
+room. It has no wireless interface at all, only a cable jack and a physical
+terminal. It has the same stats as the Security server: all stats at 4 plus
+Analyze 4. Its ice has Pilot 4, Black Hammer 4, and Armor 4, and is of course
+illegal for the target to possess. It has only security and admin accounts.</p>
+
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
+        <span class="post-meta">Oct 28, 2023</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2023/10/28/hackaton-cp2020.html">The Great Tabletop Hackaton: Cyberpunk 2020</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <figure class="center">
+   <img src="https://bira.github.io/octopus-carnival/assets/cp2020-cover.jpg"
+        alt="The cover of Cyberpunk 2020"/>
+   <figcaption>
+     I used to think this guy on the cover was so cool.
+   </figcaption>
+</figure>
+
+<p>For this post, we’ll be using Cyberpunk 2020 Version 2.01, published in 1993 if
+I understood the copyright notice correctly. The original edition of Cyberpunk
+was from 1988. Cyberpunk 2020 came out in 1990, and this version only adds minor
+corrections on top of that. I’m given to understand the rules themselves didn’t
+change much from the original edition.</p>
+
+<p>I used to own a physical copy of this corebook back when I was a teenager, so I
+also get a bit of cozy nostalgia for looking at the PDF of it now, but I would
+definitely not play it as written today.</p>
+
+<h2 id="setting-overview">Setting Overview</h2>
+
+<p>The setting’s global network is called the Net, or sometimes the NET in all
+caps. I’ve heard claims that it doesn’t take inspiration from Neuromancer, but
+the description I’m reading here leans as much into Neuromancer imagery as
+Shadowrun’s.</p>
+
+<p>Hacker characters are called Netrunners, and they use devices called cyberdecks
+that range from the size of a desktop workstation to the size of a paperback
+book, with a lot of plugs for neural interfaces and data lines but no built-in
+keyboard or monitor. Decks all have the same starting stats, but smaller and
+more portable models are more expensive. The most expensive deck is the only one
+that has a built-in cellular modem. All the others need to jack into landlines
+or directly into target devices.</p>
+
+<p>The most expensive decks are cheaper than a subcompact car, and they get much
+more affordable if you give up that cellular modem. However netrunners are still
+a specialized niche because Cyberpunk 2020 is a class-based system. Netrunner is
+a specific class (or “Role”), and only they get the Interface skill that’s used
+for hacking.</p>
+
+<p>While Shadowrun’s Matrix uses mainframes as the “backing” for its sci-fi chrome
+flash, behind CP 2020’s flash is yet more flash with a dash of space magic. The
+overall Net still works kinda like a phone grid, but the book works very hard to
+make the reader see it as, effectively, a parallel dimension. Back in 2014 some
+researchers effectively cast a spell over the telecom grid and turned it into a
+“conceptual space” where each phone line and connected device is located in a
+point analogous to its physical location. When you connect to the Net you form
+an “ICON” (all caps) representing yourself at the point of entry, and accessing
+other servers means making that ICON actually travel the distance between its
+entry point and the destination. If you’re in Night City and your destination is
+in Japan, there’s no way to reach it except hopping into a Long Distance Link
+and flying over the entire Pacific Ocean.</p>
+
+<p>There are serious musings about how the “empty space” you fly over while
+traversing these links is teeming with unindentified greeblies because every
+computer is on the Net by simply being turned on. If it doesn’t have a
+connection, it’s still on the Net, it’s just unreachable from the telecom
+grid. Adding new connected systems “physically increases” the size of the Net,
+and you could extend it to space by launching a server in a spaceship.</p>
+
+<h2 id="mechanics-overview">Mechanics Overview</h2>
+
+<p>There is a lot of talk about local and regional telecom grids, much like in
+Shadowrun, and a big emphasis on paying your phone bill for your home landline
+or cellular modem, because CP 2020 never loses an opportunity to joke about
+militarized debt collection squads.</p>
+
+<p>The main reasons to run the Net are to provide support to a physical team, and
+to recover data from a target server. We can surprisingly already see the image
+of the netrunner who stays together with their team here and hacks a series of
+remotely controlled devices, doing stuff like controlling robot cars or opening
+doors without having to do a full run. However only some PCs will be able to do
+this out of the gate, since they might not have the cash for that cellular
+portable deck. Oh, and this is an 80s cell, so moving too fast will break your
+link. No 5G for you!</p>
+
+<p>For those who can, there’s a series of control programs designed for different
+types of device. Anything that can be described as “computer controlled” can be
+hacked this way if the PC has the appropriate program, since due to SPACE MAGIC,
+everything computerized is automatically in the Net. There are also programs for
+remaining hidden, getting past barriers, and attacking both other programs and
+other people. Everyone is going to want these even if they’re using a desktop.</p>
+
+<p>The netrunner’s Interface class skill is required to run the Net at all, but is
+not used for all netrunning tasks. Its main use is in combat against security
+programs (IC, “ice”) or other netrunners. Due to the way the character creation
+system works it also determines your starting money.</p>
+
+<p>The kind of server you expect a netrunner to hack is called a Data Fortress. It
+vaguely resembles a mainframe, but as the name implies it goes all in on the VR
+Dungeon aesthetic, even harder than Shadowrun did. You’re not moving through an
+abstract representation of a mainframe, you’re crawling an actual dungeon-like
+structure drawn on a 10x10 square grid. It has walls, gates, and security
+programs acting like wandering monsters, and memory banks that work like
+treasure chests. They have CPUs that act like brains, and give them an INT score
+and possibly skills that are useful both in its day-to-day operations and when
+fighting netrunners.  A Fortress with an INT of 12 or higher (which requires 4
+CPUs) is a sapient AI and has a personality.</p>
+
+<p>Security programs are drawn from the same master list as netrunner
+programs. You place them like monsters in the dungeon.</p>
+
+<h2 id="run-parameters">Run Parameters</h2>
+
+<p>Sadly CP 2020 does not include sample characters, so we have to create
+one. We’ll also need to create our target system, because the example there is a
+bit too high level for us.</p>
+
+<h3 id="our-netrunner-g0blin">Our Netrunner: G0blin</h3>
+
+<p>So called because of his looks, he prefers to work from home.</p>
+
+<p>I’m using <a href="/octopus-carnival/2023/10/23/on-cyberpsychosis.html">my Cyberware Capacity rules</a> instead of Humanity, but that’s the only
+tweak I did here. I lucked out on the starting stat and cash rolls and decided
+to optimize my money by getting a desktop with expanded memory instead of a
+portable deck.</p>
+
+<p><strong>INT</strong> 10 <strong>REF</strong> 9 <strong>TECH</strong> 7 <strong>LUCK</strong> 6
+<strong>EMP</strong> 6  <strong>MA</strong> 5  <strong>COOL</strong> 4 <strong>BODY</strong> 4
+<strong>ATTR</strong> 3</p>
+
+<p><strong>Cyberware Capacity</strong>: 11/40.</p>
+
+<h4 id="career-skills">Career Skills</h4>
+
+<ul>
+  <li>Interface - 8</li>
+  <li>Awareness/Notice - 5</li>
+  <li>Basic Tech - 4</li>
+  <li>Education - 3</li>
+  <li>System Knowledge - 4</li>
+  <li>CyberTech - 2</li>
+  <li>Cyberdeck Design - 4</li>
+  <li>Composition - 1</li>
+  <li>Electronics - 4</li>
+  <li>Programming - 5</li>
+</ul>
+
+<h3 id="pickup-skills">Pickup Skills</h3>
+
+<p>Handguns 6, Stealth 6, Persuasion 1</p>
+
+<h4 id="cyberware">Cyberware</h4>
+
+<ul>
+  <li>Neural Processor (1k, CC 6),</li>
+  <li>Cybermodem Link (100, CC 1),</li>
+  <li>Interface Plugs (200, CC 4)</li>
+</ul>
+
+<h4 id="equipment">Equipment</h4>
+
+<ul>
+  <li>Desktop deck (20 MU, Speed 0, Data Wall 2, 6k)
+    <ul>
+      <li>Killer 6 (STR 6, 5 MU, 1480 eb),</li>
+      <li>Stealth (STR 4, 3 MU, 480)</li>
+      <li>Wizard’s Book (STR 6, 2 MU, 400 eb)</li>
+      <li>Crystal Ball (STR 4, 1 MU, 140 eb)</li>
+      <li>Genie (STR 5, 1 MU, 150 eb)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="our-system">Our System</h2>
+
+<figure class="center">
+   <img src="https://bira.github.io/octopus-carnival/assets/hackaton-cp2020-system.png"/>
+   <figcaption>
+     Our target system
+   </figcaption>
+</figure>
+
+<p>By following the rules in the CP2020 core book, and with a little help from its
+random generation system, I came up with the Data Fortress depicted above.</p>
+
+<p>Here’s the key to the numbers and symbols in the file:</p>
+
+<ul>
+  <li>1: Watchdog</li>
+  <li>2: Bloodhound</li>
+  <li>3: Stun</li>
+  <li>4: Knockout</li>
+  <li>M*: Financial File, where the money is.</li>
+  <li>M**: Grey Ops file, where the evidence is.</li>
+</ul>
+
+<p>That Knockout was a originally a Hellhound, but I thought that might be a bit
+excessive since the book keeps describing it as the scariest thing ever, only
+employed by the richest and nastiest corporations. Still, there’s not much
+difference for us, as one hit from the Knockout will still ensure a mission
+failure.</p>
+
+<h2 id="run-summary">Run Summary</h2>
+
+<p>G0blin arrived from the left side of the screen. The Watchdog next to the gate
+spotted him when he got close despite the running Stealth program. He destroyed
+it with one attack, and then proceeded to crack the gate. Inside, he first went
+right to the remotes and got spotted by another Watchdog. As before, he won
+initiative and destroyed it with one attack.</p>
+
+<p>Then he moved down, clipping through the CPU. He managed to stay hidden from
+both the Bloodhound and the much more dangerous Stun, bushwhacking them with
+sneak attacks. He examined the data stores there and drained the company’s
+accounts.</p>
+
+<p>Then he went into the little corner room for the final leg of the mission. The
+Knockout program didn’t spot him at first, but also didn’t go down with the
+sneak attack. They went to initiative, G0blin won, and finished the program
+off. This left him free to finish the mission, as both the door and evidence
+were right there.</p>
+
+<p>The run succeeded and took a total of around 21 game turns and 32 minutes of
+real time.</p>
+
+<h2 id="run-analysis-and-impressions">Run Analysis and Impressions</h2>
+
+<p>I found this less enjoyable than Shadowrun’s system, I guess, but it’s mostly
+because of me. I’m not a big fan of how this game views the Net, or of how much
+a net run resembles a roguelike dungeon crawl. Nevertheless it <em>was</em> faster.</p>
+
+<p>I do wonder if the quick runtime might have been because this host was too
+easy. How would it have gone if I used the Militech regional office that comes
+as an example as my system for this run? Or maybe I got something wrong when
+designing the fortress or running the session?</p>
+
+<p>Let’s assume I got things right and the physical team takes the same amount of
+time from the SR1 post to do their part (50 minutes for a perfectly stealthy run
+or 90 for one with a firefight). This means the hacker takes up anywhere from a
+third to half the session. That’s still more than the theoretic “ideal” ratio of
+25%, but perhaps it could be alleviated with a bit of proper scene management.</p>
+
+<p>As far as VR dungeon crawls go, CP 2020’s are much more like brutal raids than
+Shadowrun’s careful sneaking missions. Non-combat programs add only their
+Strength to the d10 roll, while attacks and defenses use the netrunner’s INT and
+Interface skill as well. Attacks are also much more devastating, since most
+programs have a Strength of less than 6, and that 1d6 damage Killer programs do
+reduces Strength directly. Even if the target survives, it’s greatly weakened.</p>
+
+<p>On the other hand, if any of those anti-personnel programs had managed to act
+and hit our runner, they’d instantly be put out of commission and the mission
+would fail. That’s another way in which it resembles a roguelike: the key to
+victory is to bump the monster before the monster bumps you.</p>
+
+<p>There were several things that were unclear to me here:</p>
+
+<p>Do detection rolls happen only once, or do they happen every turn? I went with
+“every turn”, and this ended up making things more violent. Most ICE that
+initially missed G0blin ended up spotting him on the second roll and forcing him
+to enter combat.</p>
+
+<p>Do you need control programs to operate those remote icons from a data fortress?
+I went with “no” despite buying a couple of those for G0blin, because the
+examples were all about netrunners controlling physical objects close to them
+from meatspace. If I had went with “yes”, it would only have increased the
+amount of turns the run took by a bit, since G0blin only tried to control these
+remotes when all neighboring ICE had been killed.</p>
+
+<p>I also didn’t know what happened when a Watchdog spotted G0blin. Text said it
+“alerts its owner”, but does that happen immediately or does the dog have to run
+to where the owner is? I judged the program had to travel to the owner since the
+setting places so much emphasis on the “physicality” of the Net. That would be
+the terminal icon here in our map, but no dog ever made it there. If any had, we
+might have seen an enemy netrunner here and the run would have perhaps been
+harder.</p>
+
+
+          </div>
+        </article>
+      </li>
     
       <li>
         <span class="post-meta">Oct 27, 2023</span>
@@ -680,466 +1144,6 @@ report the results in the article.</p>
         </article>
       </li>
     
-      <li>
-        <span class="post-meta">Oct 25, 2023</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2023/10/25/neverwinter-evernight-02.html">Let&#39;s Read Neverwinter: Evernight, part 02</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>This post concerns itself with specific landmarks in Evernight. A lot of them
-are “coterminous” with Neverwinter landmarks, occupying the corresponding
-location in space and having the exact same boundaries.</p>
-
-<h2 id="black-mound">Black Mound</h2>
-
-<p>The district of <strong>Black Mound</strong> is named that because of the hill that dominates
-it. It’s coterminous with the Protector’s Enclave in Neverwinter. The houses and
-manors here are larger than in the rest of Evernight, but just as
-dilapidated. Undead are not known for their tidiness.</p>
-
-<p>Most of the city’s relevant landmarks are here.</p>
-
-<h3 id="house-of-screams">House of Screams</h3>
-
-<p>Located in the same spot as Neverwinter’s Hall of Justice, the House of Screams
-is the oldest manor in the city and the closest thing Evernight has to a
-courthouse or city hall.</p>
-
-<p>The Tribunal holds court in the upper levels. When it’s time to adjudicate a
-dispute, they slam iron portcullises over all exits until the session is done,
-because as mentioned in the previous post the ghouls eat the losers. They do
-find vampires to be a particular pain in the neck to deal with, as they can
-transform into mist and fly through the grates.</p>
-
-<p>The House’s wide open cellar works as an arena where citizens can work out their
-problems without getting the Tribunal involved. There’s usually some bored
-ghouls, wights and vampires hanging around hoping to watch a fight or three, and
-they will gladly act as witnesses to confirm that the few rules of engagement
-were obeyed by both parties.</p>
-
-<h3 id="temple-of-filth">Temple of Filth</h3>
-
-<p>Coterminous with the House of Knowledge in Neverweinter, the Temple of Filth
-used to be dedicated to Bhaal and Myrkul, ancient gods of murder and death who
-died during the switch-over from AD&amp;D 1e to AD&amp;D 2e. Now it’s dedicated to Orcus
-and Dorensain.</p>
-
-<p>All of the temple’s decorations, including its altar and holy symbols, are built
-from corpses and corpse bits. No special care is taken to <em>preserve</em> these
-bits. They’re just replaced with new ones when they rot away. Ewwww.</p>
-
-<p>The undead of Evernight sometimes ask the priests here to resolve their
-disputes, because they tend to demand services from both parties instead of
-eating one of them like the Tribunal does. The temple’s chief priest is
-Ursuntos, whose stats are those of an Adept of Orcus (Level 6 Controller, from
-the MM3). He has a bunch of ghoul and vampire underlings, and his political
-power in the city is second only to the Tribunal’s.</p>
-
-<p>The grounds of the Temple are considered both defiled and necrotic ground as per
-the DMG2. Very cursed, but surprisingly not <em>quite</em> as cursed as the Dread Ring,
-which has additional effects on top of that.</p>
-
-<h4 id="pool-of-daylight">Pool of Daylight</h4>
-
-<p>Deep within the temple, behind a bunch of locked doors, traps and magical
-darkness areas, is a literal pool of radiance (is this a name drop?) that shines
-as bright as the world’s mid-day sun. Any undead entering its chamber suffers
-terrible pain, and touching the pool can actually destroy the weaker among
-them. This is here as the ultimate security measure, for the pool is said to
-hide an artifact at its bottom that works as a weapon of mass destruction
-against undead. The Temple doesn’t want anyone else getting a hold of this.</p>
-
-<p>Good thing living PCs don’t need to fear the light, huh? This could be just the
-thing to use against those pesky Thayans and Shadovar.</p>
-
-<h3 id="the-graveyard">The Graveyard</h3>
-
-<p>Evernight’s Graveyard occupies the same area as the pauper section of
-Neverwinter’s own graveyard. Despite the name, and despite being absolutely
-filled with crypts and tombs and graves, from the point of view of the city’s
-ghouls this place is a <em>restaurant</em>.</p>
-
-<p>You see, when an Evernight ghoul catches a living “tourist”, they don’t eat
-right away. Instead, they take the paralyzed victim to a place called Lamantha’s
-Mortuary, where the resident necromancer will inject them with longer-term
-paralytics. Then the ghoul arranges for a “funeral procession” for the
-still-living victim, who is buried alive in the Graveyard. Only after the victim
-has died and “ripened” a bit does the ghoul crack open the coffin and eat.</p>
-
-<h3 id="corpse-market">Corpse Market</h3>
-
-<p>Coterminous with the “rich” section of Neverdeath in the world, this is exactly
-what it says on the tin. A market where undead merchants sell meals to undead
-customers who are too busy to catch their own. From preserved blood for vampires
-to assorted corpse bits for ghouls to necromantic supplies, you can find all of
-that here for affordable prices.</p>
-
-<p>This is also the place to go if you want to hire undead labor. Renting a zombie
-laborer costs 10gp per day and requires leaving a chunk of your flesh as
-collateral. The chunk is alchemically preserved, so it stays fresh and can be
-reattached later. While it’s missing, you lose a healing surge.</p>
-
-<p>You might also be able to hire undead guides for about 100gp per day. Some of
-these guides might be able to smell specific “flavors” of death from a long
-distance away, so they might be useful to an Uthgardt Barbarian who wants to
-find their tribe’s missing thunderbeast skeleton, or to PCs looking for
-Gauntlgrym. Undead guides charge a premium for going into particularly dangerous
-places, refuse to fight for their clients and might in fact run away if a fight
-breaks out. Other than that, though, they’re reliable as long as they’re getting
-paid.</p>
-
-<p>A creepy old man known as the Resurrectionist wanders the Market every day,
-looking for a piece of someone specific he wishes to bring back to life. He
-never finds the right one, so he keeps coming back to continue searching. He’s
-been at this long enough that most standard resurrection magic wouldn’t work any
-more, but the man guarantees he can bring anyone back no matter how long it’s
-been.</p>
-
-<p>There’s a fenced off area here that contains warehouses and some of the
-merchant’s residences. While anyone can walk through the market, unauthorized
-people caught in this area are assumed to be prowling thieves and are killed on
-sight.</p>
-
-<h3 id="dark-creeper-enclave">Dark Creeper Enclave</h3>
-
-<p>This large manor close to the Graveyard is the Netherese consulate on
-Evernight. The Netherese pay a family of Dark Ones, the Glumguts, to mind the
-place. They don’t have any official authority - their job is to maintain the
-house, serve any actual dignitaries in the rare occasions they stay here, and
-receive any packages dropped off at the embassy.</p>
-
-<p>Family members like to supplement their income with the occasional spot of
-burglary or robbery, though they are careful to restrict their activities to
-the living (who can do less about it). They also only target Thayans if they can
-get one of them alone, to avoid reprisals.</p>
-
-<p>This is a proper gothic family too: their patriarch Blackclaw, a dark stalker
-(level 10 lurker), rules them through fear. The only ones who have the courage
-to defy him are his young cousins Thrax and Vinnia, and his son Blackcut. The
-trio believes they’re protected by Blackcut’s relation to his father, and free
-to do whatever they want. The truth is Blackclaw simply doesn’t know most of
-what they’ve been up to, and will be livid when he finds out. Their shenanigans
-have actually been quite detrimental to the family’s duties.</p>
-
-<h3 id="thayan-outpost">Thayan Outpost</h3>
-
-<p>The Thayans are based out of a warehouse near one of the city’s haunted piers in
-the Black Mound. They have a permanent garrison here commanded by Katrice Ansar
-(stats as a human hexer from the MM2, Level 7 Controller). She’s convinced they
-are being watched by Shadovar spies besides the obvious dark creepers, but has
-yet to find them.</p>
-
-<p>Near the warehouse, in an abandoned neighborhood, is an iron gate that acts as a
-“dusk crevice” linked to Neverdeath cemetery. It’s guarded around the clock by a
-unit that includes undead loyal to the Thayans.</p>
-
-<h2 id="locations-outside-black-mound">Locations Outside Black Mound</h2>
-
-<p>There are only three of these described here.</p>
-
-<h3 id="lamanthas-mortuary">Lamantha’s Mortuary</h3>
-
-<p>Mentioned above in the Graveyard description, this is run by a living human
-necromancer named Lamantha who works as a mortician and taxidermist.</p>
-
-<p>One of her main jobs is preparing mortal victims for burial in the Graveyard,
-which she does by injecting them with long-term paralytic drugs and dressing
-them up. She can also disguise undead so they look like living people through
-wardrobe and makeup adjustments, and she can turn bodies or bits of bodies into
-trophies and tools (or <em>sporting equipment</em>, as the book makes sure to mention).</p>
-
-<p>Since she provides valuable services, the rulers of Evernight gave Lamantha
-citizenship and allow her conduct her research in peace. Only the necromancer
-herself knows its precise nature - it’s something to do with observing the
-nature of growth and change among undead. Maybe she’s a necro-sociologist?</p>
-
-<p>Despite being completely amoral and quite unhinged, Lamantha is happy to receive
-living visitors and get the latest gossip from the middle world. PCs who are
-polite to her might be able to use the mortuary as a safe place to rest for a
-couple of days, though she will become impatient with them if they overstay
-their welcome.</p>
-
-<h3 id="the-demon-pit">The Demon Pit</h3>
-
-<p>Coterminous with Neverwinter’s Chasm, this opened up at the same time, though it
-did not disrupt “life” in the cursed undead city nearly as much as it did on the
-living one. Like in Neverwinter, the average civilian does not know why this
-rift opened up, nor what’s down there.</p>
-
-<p>Evernight’s inhabitants call their rift the Demon Pit because rumor has it that
-it goes all the way down to Dorensain’s kingdom in the Abyss. No one tried to
-explore it, but they sometimes throw living mortals into the Pit as sacrifices
-to Orcus and Dorensain. That’s more of a folk ritual than established Temple
-practice, mind you.</p>
-
-<p>Like the Temple of Filth, this area counts as both defiled and necrotic ground,
-and is still not as cursed as the Dread Ring.</p>
-
-<h3 id="castle-nowhere">Castle Nowhere</h3>
-
-<p>Coterminous with Castle Never. It looks much more intact and much creepier than
-its worldly counterpart, and not even the most ancient of Evernight’s undead
-citizens can tell when it was built. Like a few other places we’ve seen in
-previous posts, Castle Nowhere only exists <em>sometimes</em>, vanishing and appearing
-in a ten-day cycle.</p>
-
-<p>No one in Evernight knows much about what goes on inside the castle. They avoid
-going in because, get this, they think it’s haunted. This is hilarious, but it
-also makes you wonder what kind of haunting would scare an undead city.</p>
-
-<p>Some of the legends about the place say that if you’re inside the castle when it
-vanishes, you don’t come back when it does. Others say that the ghosts inside it
-feed on <em>the hunger of others</em>. This means they can cause the living to starve
-to death, but they can also cause a ghoul or vampire to become trapped in a
-state of eternal starvation and use them as permanent food sources. A fate worse
-than a second death!</p>
-
-<p>There’s a box here with a power you can add to any incorporeal undead creature
-to make it into a ghost of Castle Nowhere. <strong>Consume</strong> is a melee attack vs. AC
-that removes the target from play and inflicts 10 ongoing damage (save
-ends both). The target reappears adjacent to the monster when they make their
-save.</p>
-
-<p>Living creatures reduced to 0 HP by this reappear normally and become immune to
-the power for the rest of the encounter. They make death saves and can be healed
-as normal. Undead reduced to 0 HP do not die, and remain trapped until willingly
-released by the ghost, or until the ghost is destroyed.</p>
-
-<h2 id="impressions">Impressions</h2>
-
-<p>That’s a proper creepy city, yes indeed. There’s more than enough material to
-fuel a whole horror-themed campaign, though I suspect most typical groups who
-are focused on other stories wouldn’t want to linger here too long.</p>
-
-<p>Still, there are good reasons to visit the place. That artifact hidden in the
-Pool of Radiance would be extremely useful to wreck the Thayans, for example,
-and if the PCs want to follow the Shadowfell Road to their home base they would
-also need to start at the Thayan outpost in Evernight.</p>
-
-<p>Castle Nowhere would make an awesome dungeon, but as written there’s barely any
-reason for PCs to enter the place. Perhaps they could use it to lure and trap a
-powerful undead foe like Valindra, or maybe the quickest way to access the Tomb
-of the Nine is by entering Castle Nowhere and crossing to the world through a
-dusk crevice.</p>
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Oct 23, 2023</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2023/10/23/on-cyberpsychosis.html">On Cyberpsychosis</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>There are a number of tropes that are specific to Cyberpunk-the-game<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, but
-which many people end up thinking are integral to cyberpunk-the-genre. And
-“cyberpsychosis” is the one that annoys me the most by far.</p>
-
-<p>Cyberpsychosis is Cyberpunk’s term for the general concept that cybernetic
-implants make you less human. This concept made the way into the game because
-its author Mike Pondsmith used the AD Police anime as one of his sources of
-inspiration, and the anime goes heavily into it.</p>
-
-<p>You probably already know how it works in the game, but here’s a refresher:
-characters have an Empathy stat that determines how well they relate to other
-people. This gives them a Humanity score that’s equal to Empathy x 10. Each
-implant has a “Humanity cost” that gets deducted from that score when installed,
-and for every 10 points of Humanity you lose you also lose 1 Empathy. This makes
-it harder to succeed at social tasks. When both Humanity and Empathy reach 0,
-you become a “cyberpsycho” and an NPC.</p>
-
-<p>I agree with the <em>mechanical</em> purpose of these rules, which is to limit how much
-cyberware a character can have. But this is heavily entangled with the “this
-stuff makes you less human” story concept, from the terms used to the in-fiction
-justification to the setting elements built around it.</p>
-
-<p>Cyberpunk 2020 was particularly bad about this. Cyberpunk RED is much better
-about it due to thirty years of progress in popular thinking about mental
-health, but I still have issues with it.</p>
-
-<h2 id="in-which-i-talk-about-my-issues">In Which I Talk About My Issues</h2>
-
-<p>In CP RED, Humanity loss is more or less equated with psychological trauma. You
-can lose Humanity by experiencing traumatic events, and modifications that are
-purely cosmetic or therapeutic in nature don’t cost Humanity. Therapy helps you
-recover and restores your Humanity. And I’m happy to report it’s “merely”
-difficult and expensive instead of the sinister tracker-injecting conspiracy it
-was in CP 2020.</p>
-
-<p>However, the mechanics remain exactly the same as before for cyberware that has
-game benefits. The explanation given is that the act of “going beyond the human
-baseline” is traumatic. Cyberpsychosis is the dissociative disorder you get when
-you do it too much, and makes you start seeing yourself and others as
-collections of replaceable parts instead of living, thinking beings. You can use
-therapy to partially recover the Humanity lost to cyberware, but to recover
-those final points, you need to get rid of the implants.</p>
-
-<p>The concept of “human baseline” isn’t examined very deeply here. You know it
-when you see it, and your Empathy reduces when you move away from it. It’s the
-act of implantation that causes harm.</p>
-
-<p>This feels really backward to me, because a theme I often see in literature or
-media I like is that cybernetic implants are more like the <em>scars</em> of trauma
-than its <em>cause</em>.</p>
-
-<p>Molly Millions from Neuromancer has implanted mirrorshades because her traumatic
-past made her wary of opening herself up emotionally. The windows to her soul
-are shuttered.</p>
-
-<p>Burton and his ex-Haptic Recon buddies from The Peripheral have a number of
-twitchy combat implants that mostly serve as symbols for the PTSD they got from
-their time at war. Flynne, one of the main protagonists, has similar
-psychological scars from her time playing realistic military simulations for
-money, but she has no implants because her trauma comes through in her viewpoint
-narration.</p>
-
-<p>David Martinez from Edgerunners was already a reckless putz with a hero
-complex<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> before getting his first implant. Each one he has installed is
-either a reminder of someone he feels he failed to protect, or a reflection of
-his desire to be strong enough to protect those who are left.</p>
-
-<p>I’ve heard it said that someone who gets an implanted gun or blade is declaring
-themselves the kind of person who needs to be ready to kill someone at all
-times, and that erodes their humanity. But isn’t “feels the need to be ready to
-fight and kill at all times” a common trait to all Cyberpunk PCs, chromed or
-not? It’s a lot easier to find a PC with no implants than one with no weapons,
-armor, or combat skills.</p>
-
-<p>It doesn’t really matter whether your gun is inside your coat or inside your
-arm. And since I don’t think a Cyberpunk character should lose Humanity for
-carrying a conventional gun, they also shouldn’t lose it for carrying an
-implanted one<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>.</p>
-
-<h2 id="what-id-do-instead">What I’d Do Instead</h2>
-
-<p>Like I said above, I still agree that there must be some sort of rule limiting
-the amount of cyberware Cyberpunk PCs can get. A lot of it gives powerful
-abilities and you don’t want them to be able to install the whole catalog at
-once. That would make the game less fun in a variety of ways.</p>
-
-<p>I want to base it on some stat other than Empathy, though, and I’m going to pick
-Body for that. I find it much easier to imagine that cyberware has concrete
-impacts on your body than on your mind.</p>
-
-<p>Under this new rule, your maximum Cyberware Capacity (CC) is your natural Body
-x 10. “Natural” here means the base stat value before any modifications from
-cyberware. Cyberware’s “humanity loss” stat now represents its “capacity cost”
-instead. Your current Cyberware Capacity is the cost of all your implants added
-together. This represents both minor health issues caused by the implant’s
-presence and the increased need for maintenance.</p>
-
-<p>If you exceed your maximum Cyberware Capacity, you die. The good news is there
-are no other game penalties until you get to that point. Note that medical exams
-to measure your CC values are standard pre-op procedures even at mall clinics.
-No ethical ripperdoc will ever agree to perform an operation that would kill the
-patient. Not all of them are ethical, though.</p>
-
-<p>Body-scultping (including full gender transition), medical-grade replacements,
-and cosmetic mods continue to have zero cost<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>. The implants involved in all
-of these processes are designed to be minimally invasive and to require
-near-zero maintenance.</p>
-
-<h3 id="cyberware-maintenance-optional">Cyberware Maintenance (Optional)</h3>
-
-<p>GMs who wish to make a commentary on the cruelty of capitalism might institute
-this optional rule.</p>
-
-<p>When it’s in effect, you need to pay a monthly cyberware maintenance cost equal
-to your current CC x 10eb. This represents anything from periodic check-ups and
-implant cleaning to a regime of targeted immunosuppressors at the high end.</p>
-
-<p>If you skip a month, your current CC increases by 1d6. If you’re also living
-under harsh and unsanitary conditions during that time, such as from being lost
-in the desert or having to sleep in the gutter, it increases by 2d6 instead. If
-it goes over your maximum, you die as above. And yeah, this extra CC also
-increases your maintenance costs next month. Field-expedient maintenance and a
-Medicine roll might reduce the increase from 2d6 to 1d6, at the GM’s discretion,
-but there’s no reducing it to zero without making that monthly payment.</p>
-
-<p>Excess CC from neglected maintenance can be removed through treatments that cost
-and work the same as the psychological therapies from page 229 of the core book:
-500eb (or 100eb and a DV15 Medicine roll) to restore 2d6, and 1000eb (or 500eb
-and a DV17 Medicine roll) to restore 4d6. These consist of extensive drug
-courses, therapeutic surgery, and physical rehabilitation.</p>
-
-<p>As a further optional rule, the GM could also use these stats for “tune-up”
-treatments to reduce Cyberware Capacity to the minimum values described in the
-book: 2 per piece of cyberware, 4 per piece of borgware. Gotta spend money to
-save money.</p>
-
-<h2 id="what-about-humanity">What About Humanity?</h2>
-
-<p>Empathy and Humanity continue to exist in a game where Cyberware Capacity rules
-are in play. Since we’re renaming things anyway, let’s rename Humanity to
-Stability because suffering from mental trauma doesn’t make you less human
-either.</p>
-
-<p>You can still suffer Stability and Empathy loss when you suffer actual mental
-trauma, as described in the CP RED core book. The same therapy options are still
-available and they can help you as described there. Reaching 0 EMP will cause a
-breakdown that will leave the character unplayable until they can recover, but
-this will not necessarily be violent.</p>
-
-<p>The one case where cyberware still causes Stability loss is when a victim is
-<em>forcibly implanted</em>. The Maelstrom gang in CP 2077 loves doing that to random
-civilians, and it definitely qualifies as a traumatic experience. In that case,
-recovering from the trauma follows all standard core book rules, including the
-one where you need to remove the offending implants for a complete recovery.</p>
-
-<h2 id="what-about-cyberpsychosis">What About Cyberpsychosis?</h2>
-
-<p>Again we follow CP 2077’s example here. Cyberpsychosis is a myth, a label
-without any science behind it that gets thrown around by corps and media as an
-easy explanation for a number of tragedies. Corporate strike team shoots an
-activist, well, that was a cyberpsycho who had it coming.</p>
-
-<p>People can have real mental breakdowns, and these can get ugly when the victim
-has a predisposition towards violence and a few combat implants and/or some
-weapons on hand.</p>
-
-<p>However, violent breakdowns are never <em>caused</em> by implants. They’re always a
-consequence of the inherently traumatic nature of life in the shit future of
-Cyberpunk. I bet a lot of “cyberpsychos” turn out to have very few or even no
-implants. Just easy access to guns and no access to mental healthcare.</p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>The original edition was named “Cyberpunk”, and it was followed by
-Cyberpunk 2020 and Cyberpunk RED, with a couple of extra editions that were
-considered “non-canon” between those last two. If I capitalize the word I’m
-talking about this game line. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>A condition also known as “Shonen Protagonist Syndrome”. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>A game where owning a weapon brings you closer to becoming a monster is a
-perfectly valid concept, but if that’s what you want to play you’re better
-off moving away from action-oriented systems like Cyberpunk RED. I suggest
-Wanderhome, which does implement that very concept in one of its archetypes
-and is otherwise a non-violent game. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:4" role="doc-endnote">
-      <p>This also applies to stuff that has no <em>tangible</em> game benefits but still
-causes Humanity Loss in the core book, like the “sex booster” implants or
-the color shift cybereye option (which is purely cosmetic like shift-tacts
-but costs Humanity in the book). <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-
-          </div>
-        </article>
-      </li>
-    
   </ul>
 
 <!-- Pagination links -->
@@ -1147,7 +1151,7 @@ but costs Humanity in the book). <a href="#fnref:4" class="reversefootnote" rol
   
     <a href="/octopus-carnival/page20" class="previous">Previous</a>
   
-  | <span class="page_number ">Page: 21 of 156</span> |
+  | <span class="page_number ">Page: 21 of 157</span> |
   
     <a href="/octopus-carnival/page22" class="next">Next</a>
   
