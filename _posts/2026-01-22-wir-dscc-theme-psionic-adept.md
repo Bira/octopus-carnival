@@ -23,7 +23,7 @@ Following the usual design strategy of adding new abilities that work "around"
 established attacks, we get a collection of powers that hinder and debuff
 enemies. All of the ones that require attack rolls target Will.
 
-- **Bling the Mind's Eye** (recharge 5+) is a ranged attack that makes the
+- **Blind the Mind's Eye** (recharge 5+) is a ranged attack that makes the
   creature invisible to the target (save ends). This ends when the creature
   attacks the target. Lurkers can use this to enable their big attacks, while
   others can use it as a way to ease pressure on themselves.
