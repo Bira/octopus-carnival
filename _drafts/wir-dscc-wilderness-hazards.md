@@ -207,3 +207,12 @@ healing surges to destroy the hazard, which I guess means they can restore some
 of the place's lost life. The book says those healing surges can only be
 regained through an extended rest, which feels redundant but I guess means no
 other trick that would normally allow an early recovery can do so.
+
+## Final Impressions
+
+These hazards are generally scarier versions of the terrain we saw earlier, so
+they're certainly appropriate for inclusion in battles taking place in that
+terrain.
+
+And that's it for the book! I hope you enjoyed the reading. I'm trying to think
+of what to do next, so any suggestions are welcome.
