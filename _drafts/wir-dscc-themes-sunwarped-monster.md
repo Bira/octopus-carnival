@@ -9,7 +9,7 @@ tags:
 
 This is your one stop shop for generating horribly mutated varieties of standard
 monsters. The name "Sunwarped" comes from the belief that these mutations are
-caused by Athas' burning sun, but there are many different causes. These
+caused by Athas' scorching sun, but there are many different causes. These
 creatures might have been exposed to concentrated psionic energy, lived for too
 long in defiled areas, or been victims of terrible experiments.
 
@@ -46,7 +46,8 @@ apply debuffs to others.
 
 - **Breath of the Blazing Sun** probably has this name because almost no one in
   Athas would know what radiation is. It's a Close Blast 4 vs. Fortitude that
-  makes its targets vulnerabilities to radiant and fire damage (save ends).
+  blinds its targets and makes them vulnerable to radiant and fire damage (save
+  ends both).
 
 - **Burning Blood** will make xenomorph fans happy, as it represents a
   high-pressure jet of hazardous blood spraying out when the creature is
@@ -61,9 +62,9 @@ apply debuffs to others.
 - **Sticky Hide** makes the monster be constantly covered in goo. Any enemy that
   hits the creature with a melee attack is subject to an attack vs. their
   Reflex, and if that hits the weapon used on the attack gets yanked out of
-  their and and stuck on the monster's sticky coating. Recover it requires
-  staying adjacent to the monster and spending a standard action, but at least
-  it's automatic.
+  their hands and and sticks to the monster's slimy coating. Recovery is
+  automatic but requires staying adjacent to the monster and spending a standard
+  action.
 
 
 ## Utility Powers

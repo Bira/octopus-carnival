@@ -238,7 +238,7 @@ We have two standard actions and one bonus action from having a Strategist.
 Let's start with the **Recruit Team** action, to recruit a team of
 Sneaks. That's an unpenalized Secrecy roll, and it gets +2 from Laria, and a
 total of +4 from Jania (one of her complimentary rolls was a crit). We get a
-crit here too, but I don't think that has an effect.
+crit here too, but I don't think that has any additional effect.
 
 (2025-12-22)
 
@@ -361,3 +361,7 @@ What should I throw at myself this time? Let's take a look at what's available.
   it's a copycat, and one way into Adventure 5 where he really does return. I
   don't believe we need to tease this return quite so many times, so instead I'm
   pulling the adventure 2 mission here and blending it to this one.
+
+- Mission 5, Crackdown at Clenchjaw: I want this to occur as written and since
+  it's far simpler than the Temple Hill Slasher caper, we can have it happen
+  now.
