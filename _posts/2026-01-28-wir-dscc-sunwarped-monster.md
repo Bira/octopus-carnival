@@ -66,7 +66,6 @@ apply debuffs to others.
   automatic but requires staying adjacent to the monster and spending a standard
   action.
 
-
 ## Utility Powers
 
 These heal of buff the creature itself.
