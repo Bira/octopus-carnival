@@ -156,6 +156,7 @@ Monster Themes:
 - [Arena-Bred Monster][69]
 - [Elementally-Infused Monster][70]
 - [Psionic Adept][71]
+- [Sunwarped Monster][72]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -226,6 +227,7 @@ Monster Themes:
 [66]: {{ "/2025/12/17/wir-dscc-ulruun.html" | relative_url }}
 [67]: {{ "/2025/12/24/wir-dscc-zeburon.html" | relative_url }}
 [68]: {{ "/2026/01/11/wir-dscc-customizing-monsters.html" | relative_url }}
-[69]: {{ "/2026/11/14/wir-dscc-themes-arena-bred.html" | relative_url }}
-[70]: {{ "/2026/11/20/wir-dscc-themes-elemental.hml" | relative_url }}
-[71]: {{ "/2026/11/22/wir-dscc-themes-psionic-adept.html" | relative_url }}
+[69]: {{ "/2026/01/14/wir-dscc-themes-arena-bred.html" | relative_url }}
+[70]: {{ "/2026/01/20/wir-dscc-themes-elemental.hml" | relative_url }}
+[71]: {{ "/2026/01/22/wir-dscc-themes-psionic-adept.html" | relative_url }}
+[72]: {{ "/2026/01/28/wir-dscc-themes-sunwarped-monster.html" | relative_url }}
