@@ -6,9 +6,129 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Jan 2026 16:29:53 +0000</pubDate>
-    <lastBuildDate>Thu, 22 Jan 2026 16:29:53 +0000</lastBuildDate>
+    <pubDate>Wed, 28 Jan 2026 15:05:21 +0000</pubDate>
+    <lastBuildDate>Wed, 28 Jan 2026 15:05:21 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Sunwarped Monster</title>
+        <description>&lt;p&gt;This is your one stop shop for generating horribly mutated varieties of standard
+monsters. The name “Sunwarped” comes from the belief that these mutations are
+caused by Athas’ scorching sun, but there are many different causes. These
+creatures might have been exposed to concentrated psionic energy, lived for too
+long in defiled areas, or been victims of terrible experiments.&lt;/p&gt;
+
+&lt;p&gt;The Pristine Tower is also a prime source of mutated monstrosities, altering any
+who linger near it for too long. To hear people talk about it, it was the &lt;em&gt;only&lt;/em&gt;
+such source in previous editions, but now it’s just one more among many.&lt;/p&gt;
+
+&lt;p&gt;Sunwarped creatures are obviously misshapen when compared to typical
+specimens. They might be exceedingly assymetrical, have extra limbs or eyes, and
+so on. These descriptors give me a kind of “science fantasy” vibe, because they
+match what you would expect radiation to do in 50s-style atomic horror tales.&lt;/p&gt;
+
+&lt;p&gt;Anyway, sunwarped creatures get a +2 to Endurance, and might also get one or two
+&lt;strong&gt;Sunwarped Traits&lt;/strong&gt; in addition to their extra theme powers. These traits
+usually give it an extra bonus in one area and a small penalty in another. There
+is a table here with some examples, but the GM is free to come up with others.&lt;/p&gt;
+
+&lt;p&gt;So a creature might get digging claws that give it climb and burrow speeds equal
+to its base speed, but also reduce that base speed by 1. Or uneven eyes that
+give it all-around vision but inflict a -3 penalty to ranged and area
+attacks. Or something that gives +1 to one defense and -1 to another.&lt;/p&gt;
+
+&lt;p&gt;All of these changes are situational, and their effectiveness depends entirely
+on the monster they get applied to. A Brute with no ranged attacks will find
+those uneven eyes to be a pure bonus, while an extra limb that aids in grappling
+would be wasted on an artillery monster. While you can min-max and only give
+monsters traits that increase their power, you can also do the opposite to show
+how random these mutations can be.&lt;/p&gt;
+
+&lt;h2 id=&quot;attack-powers&quot;&gt;Attack Powers&lt;/h2&gt;
+
+&lt;p&gt;The split is pretty clear in this theme - attack powers either deal damage or
+apply debuffs to others.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Breath of the Blazing Sun&lt;/strong&gt; probably has this name because almost no one in
+Athas would know what radiation is. It’s a Close Blast 4 vs. Fortitude that
+blinds its targets and makes them vulnerable to radiant and fire damage (save
+ends both).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Burning Blood&lt;/strong&gt; will make xenomorph fans happy, as it represents a
+high-pressure jet of hazardous blood spraying out when the creature is
+hit. This is a reaction that makes a Close Blast 3 attack vs. Reflex, and
+inflicts ongoing acid + fire damage (save ends).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ravaging Fury&lt;/strong&gt; is a free action encounter power, meaning it can be used in
+the creature’s own turn without spending actions. Once this is used, if the
+creature hits with its next attack it will immediately gain an action point
+that it can use before the end of its next turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sticky Hide&lt;/strong&gt; makes the monster be constantly covered in goo. Any enemy that
+hits the creature with a melee attack is subject to an attack vs. their
+Reflex, and if that hits the weapon used on the attack gets yanked out of
+their hands and and sticks to the monster’s slimy coating. Recovery is
+automatic but requires staying adjacent to the monster and spending a standard
+action.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;utility-powers&quot;&gt;Utility Powers&lt;/h2&gt;
+
+&lt;p&gt;These heal of buff the creature itself.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Enraged Growth&lt;/strong&gt; makes the monster grow one size category when first
+bloodied! It pushes anyone adjacent to make room, and gains 10 temporary
+HP/tier. This gets more awesome when you apply it to a monster that is already
+big.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Feast on Flesh&lt;/strong&gt; causes the creature’s melee basic attack to give it 5/tier
+temporary HP on a hit as it consumes some of the target’s flesh. The book
+itself says that while you’d expect to see this only for bite attacks, you can
+add it to any attack and come up with a suitably freaky explanation for why it
+works.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Misshapen Body&lt;/strong&gt; means the creature’s important anatomical bits are not
+where you’d expect them to be, so it can roll a d20 when it takes a critical
+hit, downgrading it to a normal hit on a result of 10+. These are the same
+mechanics of a normal save, but since they’re written out in full I guess it
+means it doesn’t &lt;em&gt;count&lt;/em&gt; as a save, so wouldn’t get general save bonuses such
+as those of an elite or solo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You can also make such misshapen creatures &lt;strong&gt;Steady-Footed&lt;/strong&gt;, letting them
+also roll actual saves against falling prone because their weird shape ends up
+being more stable.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
+
+&lt;p&gt;I get a very strong “atomic horror” vibe from this theme, except it’s happening
+in a setting where people don’t know about radiation, and so the mutations get
+blamed on other causes.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/01/28/wir-dscc-sunwarped-monster.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/28/wir-dscc-sunwarped-monster.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Psionic Adept</title>
@@ -199,6 +319,149 @@ attacks, and it works particularly well here.&lt;/p&gt;
         <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Arena Bred Monster</title>
+        <description>&lt;p&gt;What’s a Monster Theme? The concept was first introduced in Dungeon Master’s
+Guide 2, and it’s a way to give a set of monsters a shared look and feel. This
+involves changes to their mechanics and lore, but unlike monster &lt;em&gt;templates&lt;/em&gt;
+from the DMG 1, it doesn’t change their “quality”. Regulars remain regulars,
+elites remain elites, and so on.&lt;/p&gt;
+
+&lt;p&gt;Monster themes end up being more flexible than templates, since the monster
+creation rules are good enough to handle any level or quality changes by
+themselves.&lt;/p&gt;
+
+&lt;h2 id=&quot;anatomy-of-a-monster-theme&quot;&gt;Anatomy of a Monster Theme&lt;/h2&gt;
+
+&lt;p&gt;Each theme has a fairly involved presentation. You get some explanation for the
+lore attached to that theme and how it might modify a monster. Then a line about
+skill changes that might apply, and finally a big list of powers.&lt;/p&gt;
+
+&lt;p&gt;Those powers are divided between Attack Powers and Utility Powers - you pick one
+of each category to add to the monster’s stat block. Nothing else about its
+basic stats changes, unlike with a template. If you want those to change, you
+can use the standard monster creation and “editing” rules to change the
+monster’s level or quality.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-first-theme-arena-bred-monster&quot;&gt;Our First Theme: Arena Bred Monster&lt;/h2&gt;
+
+&lt;p&gt;Blood sport arenas are the most popular entertainment in all city states, and
+monster fighting is one of its most popular modalities. It’s common to throw
+recently captured wild animals into the ring, but a monster that was
+specifically prepared for the spectacle is a much bigger draw. Animals are
+specifically bred for the role; people receive special training. And both might
+be further modified by magic or psionics, all in the service of providing a more
+brutal and spectacular fight.&lt;/p&gt;
+
+&lt;p&gt;Monsters with this theme get a +2 to Intimidate and a +2 to either Athletics or
+Acrobatics.&lt;/p&gt;
+
+&lt;h3 id=&quot;attack-powers&quot;&gt;Attack Powers&lt;/h3&gt;
+
+&lt;p&gt;Despite the name of this category, the powers here tend to avoid having specific
+attack or damage figures, to better enable them to apply to monsters of any
+level.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Berserk Passage&lt;/strong&gt; (recharge 5+) lets a monster make two basic attacks and
+shift half its speed at any moment in this sequence, passing through enemy
+spaces. It usually goes on monsters that have been made mad with hunger and
+pain before being dropped into the arena, though I supposed it could also be
+used to represent an agile duelist humanoid.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bleeding Attack&lt;/strong&gt; is a triggered power that inficst 5/tier ongoing damage
+(save ends) when the monster bloodies a target. It might represent serrated
+weapons or claws. The book recommends making it (recharge 5+) for elites or
+solos; by default, it’s at-will.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Brutal Flourish&lt;/strong&gt; lets the monster make a free melee basic attack whenever
+it bloodies or defeats an enemy.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Death Burst&lt;/strong&gt; means the monster has been rigged to explode! This is visible
+to the PCs and should be described appropriately. This power is common for
+monsters that have received some sort of combat implant, but could be applied
+even without that. By default this happens when the monster hits 0 HP, but for
+elites and solos it could also happen when the monster is first bloodied,
+where it might be combined with some other change in its stats as those
+implanted bits fall off. The explosion is a Close Burst 2 with attack and
+damage figures appropriate to the monster’s level.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Retaliating Stride&lt;/strong&gt; (recharge 5+) is a move action that lets the monster
+move its speed and deal damage to any creature that hits it with an
+opportunity attack during this move. It can represent showy counterstrikes, or
+maybe something like implanted spikes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Attached Weapons&lt;/strong&gt; are not written up like a power, but discussed in general
+terms inside a text box. Many arena monster handlers like to implant extra
+weapons on their charges through magic. This is an excuse for your to add
+extra attack powers that monsters of that type don’t normally have. For
+example, an artillery monster could receive implanted melee weapons that give
+it a stronger than usual melee attack, or a brute could get an unusually
+accurate ranged weapon. It’s common for these weapons to break or fall off
+when the monster is bloodied - and this can also be combined with Death Burst
+variants.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;utility-powers&quot;&gt;Utility Powers&lt;/h3&gt;
+
+&lt;p&gt;These are generally the fruit of long experience in the arena, representing
+cunning, resilience, and luck.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Intervening Armor&lt;/strong&gt; represents an ability to leverage the normally useless
+piecemeal armor that covers gladiators by shifting so enemy attacks hit the
+tiny plates. It’s an Interrupt that gives +2 to AC or Reflex when the monster
+is hit by an attack targetting one of these defenses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Necessary Betrayal&lt;/strong&gt; is for treacherous gits who developed the habit of
+abusing their teammates’ trust. If the monster is hit by a melee or ranged
+attack while adjacent to an ally, it can swap places with the ally as an
+interrupt, and have the ally take damage from the attack instead. You don’t
+compare the attack roll against the ally’s defenses - just apply the damage
+directly. This power cannot be nice even by accident.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shake it Off&lt;/strong&gt; represents the ability to quickly recover one’s wits in a
+bout. Whenever subject to an effect that a save could possibly end, the
+monster can roll a save to end it as a reaction, even if this specific
+application cannot be ended with a save. (So it works against “dazed until the
+end of the next turn”, but not against “dead”).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Turn the Tables&lt;/strong&gt; is a defense against forced movement. If pushed, pulled,
+slid, or knocked prone, the creature can trigger this reaction to stand up (if
+prone) and shift 2 squares.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;I think it’s interesting how many of the powers here can be either applied to a
+berserk beast of a flashy humanoid fighter that uses finesse and agility, with
+the final mechanical result being the same.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/01/14/wir-dscc-themes-arena-bred.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/14/wir-dscc-themes-arena-bred.html</guid>
         
         <category>dnd4</category>
         
@@ -899,163 +1162,6 @@ because their version of Arcane Defiling targets allies instead of enemies.&lt;/
         <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Mearedes</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-mearedes.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Mearedes in her jungle home.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Mearedes is a goliath druid, the self-appointed Sentinel of Shault. Shault, in
-turn, is a hidden island paradise in the Sea of Silt, one of the greenest areas
-remaining in the Tyr Region, largely thanks to the efforts of Mearedes and her
-disciples.&lt;/p&gt;
-
-&lt;p&gt;Those disciples are the giants Shakka and Shola, and the dwarf Hippolexes. They,
-their master, and a few volunteers from the local stone and beast giant
-communities intercept any strangers making landfall on Shault, and demand they
-subject themselves to a ritual that prevents them from ever speaking about the
-island to others. Those who refuse are killed. As you might imagine, very few
-people ever return from Shault, and those who do aren’t saying anything about
-it.&lt;/p&gt;
-
-&lt;p&gt;Though Mearedes has an age-lined face, she’s still as spry as a young goliath,
-and has received the respectful title of “Little Grandmother” from the local
-giants. Those who help her and her friends fight off threats to Shault will find
-her to be a stalwart ally.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Mearedes, as mentioned, is a Goliath. She’s also a Level 18 Controller with 176
-HP, Speed 6, and a lot of Classic Druid Powers, which might look very exotic to
-typical Athasian characters.&lt;/p&gt;
-
-&lt;p&gt;She fights in melee with a &lt;strong&gt;Thorny Staff&lt;/strong&gt; that damages and slows for a turn;
-and at range with &lt;strong&gt;Flame Seeds&lt;/strong&gt; that deal fire damage, and inflict 5 fire
-damage on any enemy that enters one of the squares adjacent to the target or
-starts their turn there before the end of her next turn. This means &lt;em&gt;the target&lt;/em&gt;
-can take this additional damage if they try to move.&lt;/p&gt;
-
-&lt;p&gt;And then there’s the expected &lt;strong&gt;Lashing Vines&lt;/strong&gt; (recharge 6+), a fireball-sized
-area attack that damages and then creates a zone of hazardous difficult terrain
-that lasts for the rest of the encounter. It damages and slows those caught
-inside. Yes, this is a recharge power, so the battlemap will become rougher and
-rougher as time goes on.&lt;/p&gt;
-
-&lt;p&gt;As a minor action, Mearedes can assume the &lt;strong&gt;Form of the Ghost Panther&lt;/strong&gt; for a
-turn and shift 3 squares. In this form, she cannot attack but gains +4 Speed,
-insubstantial, and phasing. She can end this as a free action or sustain it for
-another turn as a minor action. And she also has the Goliath &lt;strong&gt;Stone’s
-Endurance&lt;/strong&gt; encounter power, which lets her gain Resistance 10 to all damage for
-a turn.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Mearedes will almost always be accompanied by her three apprentices (whose stats
-are left as an exercise for the reader) and by as many stone and beast giants
-you need to make the fight interesting. She’s also clearly meant to be more of
-an ally than an enemy here, so she or some of her apprentices could also tag
-along with the group for a short while.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/09/wir-dscc-mearedes.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/09/wir-dscc-mearedes.html</guid>
-        
-        <category>dark-sun</category>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Maetan of House Lubar</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-maetan-lubar.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Maetan Lubar, posing for the cover of a business magazine.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Maetan is the current head of House Lubar, one of Urik’s wealthiest noble
-houses. He’s been prepared for leadership since childhood, though his time came
-much sooner than expected due to the untimely death of his parents.&lt;/p&gt;
-
-&lt;p&gt;The house makes its fortunes through commerce and through the ownership of many
-profitable fields outside of Urik’s walls. The work on those is performed by
-slaves, and their administration by junior house members. Senior leadership like
-Maetan has loftier concerns.&lt;/p&gt;
-
-&lt;p&gt;Maetan, for example, is busy petitioning Hamanu for the opportunity to lead a
-large army against the recently freed city of Tyr, as he has a story of success
-against Urik’s smaller enemies and wishes to attain new heights of glory and
-favor with the sorcerer-king.&lt;/p&gt;
-
-&lt;p&gt;This probably relates to the 2e Prism Pentad adventures, which saw the PCs take
-part in a battle against Urik’s forces. If this happens in your 4e campaign,
-Maetan will likely be at the head of those forces.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Maetan Lubar is a human, and a Level 16 Elite Controller with 302 HP. He fights
-using a combination of the fencing skills and psychic powers taught to him from
-a tender age.&lt;/p&gt;
-
-&lt;p&gt;The fencing is distinctly second fiddle here: just a basic &lt;strong&gt;Longsword&lt;/strong&gt; attack
-that does level-appropriate damage with no riders. Maetan wants to stay a bit
-outside of melee range and use his many psychic abilities instead. He’s a
-telepath, so all of his powers target Will.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Serpent’s Kiss&lt;/strong&gt; is a range 20 basic attack that targets up to 2 creatures,
-deals psychic damage and makes the target grant combat advantage for a
-turn. &lt;strong&gt;Insidious Worm&lt;/strong&gt; is an at-will range 10 attack that can only be used
-against targets granting him combat advantage; it deals psychic damage and
-forces the target to make a melee basic attack against another target of
-Maetan’s choice. His usual routine would involve alternating these two.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Coils of Lubar&lt;/strong&gt; is an area 1 within 10 attack that deals psychic damage and
-restrains (save ends). It deals 10 psychic damage as an aftereffect of the
-save. It recharges when he uses &lt;strong&gt;Psionic Augment&lt;/strong&gt;, a power that triggers when
-Maetan hits with one of his two ranged at-wills and further boosts their
-damage. And this, in turn, recharges when he’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;His two final powers are &lt;strong&gt;Psionic Intrusion&lt;/strong&gt;, a minor action ranged attack
-that dominates on a hit (save ends). This recharges when he’s first
-bloodied. And the &lt;strong&gt;Mind Fog&lt;/strong&gt; encounter power, which triggers when he’s hit by
-a melee attack, affects a Close Burst 3, deals psychic damage on a hit, and
-forces the targets to treat him as invisible (save ends).&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I guess this might be a typical example of an evil noble type. The book says
-Maetan will always be accompanied by a sizable honor guard, and in a fight he
-will try to use his powers to make things easier for those guards (all of them
-are selective, so he has no risk of hitting his allies). It also says that
-despite all of his psionic might, Maetan is still very proud and overconfident
-of his sword skills, so he might end up letting a PC get too close to him
-because of this.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/08/wir-dscc-maetan-lubar.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/08/wir-dscc-maetan-lubar.html</guid>
         
         <category>dnd4</category>
         
