@@ -158,6 +158,10 @@ Monster Themes:
 - [Psionic Adept][71]
 - [Sunwarped Monster][72]
 
+Terrain and Hazards:
+
+- [Athasian Terrain][73]
+
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
 [2]: {{ "/2025/02/17/aarakocra.html" | relative_url }}
@@ -231,3 +235,4 @@ Monster Themes:
 [70]: {{ "/2026/01/20/wir-dscc-themes-elemental.hml" | relative_url }}
 [71]: {{ "/2026/01/22/wir-dscc-themes-psionic-adept.html" | relative_url }}
 [72]: {{ "/2026/01/28/wir-dscc-themes-sunwarped-monster.html" | relative_url }}
+[73]: {{ "/2026/02/09/wir-dscc-athasian-terrain.html" | relative_url }}
