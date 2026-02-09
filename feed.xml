@@ -6,9 +6,212 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Jan 2026 15:05:21 +0000</pubDate>
-    <lastBuildDate>Wed, 28 Jan 2026 15:05:21 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Feb 2026 23:48:42 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:48:42 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Athasian Terrain</title>
+        <description>&lt;p&gt;We’re done with monsters for now, and we’re getting into a section about
+terrain.&lt;/p&gt;
+
+&lt;p&gt;Terrain is as important a building block for a fun encounters as the monsters
+that make it up, and this section has some uniquely Dark and Sunny examples for
+you to add to your battlemaps.&lt;/p&gt;
+
+&lt;h2 id=&quot;barbed-cacti&quot;&gt;Barbed Cacti&lt;/h2&gt;
+
+&lt;p&gt;Even when they don’t uproot themselves to hunt you down, Athasian cacti can
+still be dangerous. These specimens have sharp spines that break off and stay
+stuck to you. Lines of barbed cactus squares can be used to cordon off some
+areas of the battlefield, and provide an excellent barrier for artillery
+monsters to hide behind.&lt;/p&gt;
+
+&lt;p&gt;Entering a square of barbed cacti deals 3 damage and inflices -2 to attack rolls
+(save ends).&lt;/p&gt;
+
+&lt;h2 id=&quot;brambleweed&quot;&gt;Brambleweed&lt;/h2&gt;
+
+&lt;p&gt;Like barbed cacti, but worse. Brambleweed grows in sprawling thickets that can
+thrive even in defiled areas, because they can use the blood or corpses of
+captured creatures as nourishment. Some defilers plant them intentionally as
+defensive measures in their lairs.&lt;/p&gt;
+
+&lt;p&gt;A creature that ends their turn in a brambleweed square is restrained until the
+end of their next turn. A creature that &lt;em&gt;starts&lt;/em&gt; their turn there (which they
+will if they were restrained) takes 5/tier damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;defiled-terrain&quot;&gt;Defiled Terrain&lt;/h2&gt;
+
+&lt;p&gt;This is a more varied category describing several possibilities for what might
+remain behind after a major act of defiling. It can be used as pre-existing
+terrain in an area what was subject to defiling in the past, or you can place it
+in the middle of the fight after someone uses Arcane Defiling or an equivalent
+power.&lt;/p&gt;
+
+&lt;h3 id=&quot;ash-field&quot;&gt;Ash Field&lt;/h3&gt;
+
+&lt;p&gt;These are the remains of plant life caught in a defiling field. Sometimes the
+wind causes them to pool in terrain depressions to form areas of Settled Ash,
+which can act as a terrain feature.&lt;/p&gt;
+
+&lt;p&gt;Someone who’s adjacent to a square of settled ash can make an Athletics test to
+raise a cloud of it, which functions as a blast attack vs. Fortitude that blinds
+for a turn on a hit.&lt;/p&gt;
+
+&lt;h3 id=&quot;black-sand&quot;&gt;Black Sand&lt;/h3&gt;
+
+&lt;p&gt;The residue of defiling mixed in with the local soil. People standing on black
+sand only regain half the normal amount of HP from healing effects. Wasn’t there
+an entire geographical region covered in the stuff?&lt;/p&gt;
+
+&lt;h3 id=&quot;dead-magic&quot;&gt;Dead Magic&lt;/h3&gt;
+
+&lt;p&gt;Areas that have lost so much to defiling that they have nothing left to
+give. Anyone standing on dead magic squares takes a -5 penalty to attack with
+arcane or primal powers, and is barred from using Arcane Defiling.&lt;/p&gt;
+
+&lt;p&gt;The book recommends being careful with dead magic areas, particularly if there
+are a lot of arcane and primal PCs in the party. Usually only very powerful
+defilers are capable of creating them.&lt;/p&gt;
+
+&lt;h3 id=&quot;sickening-heat&quot;&gt;Sickening Heat&lt;/h3&gt;
+
+&lt;p&gt;This is either a mystical side effect of defiling, or it could just be a natural
+consequence of killing all that plant cover. Creatures ending their turn on
+these squares are weakened for a turn.&lt;/p&gt;
+
+&lt;p&gt;This terrain can do a number on your party’s strikers, and monsters who have the
+ability to inflict forced movement simply love it.&lt;/p&gt;
+
+&lt;h2 id=&quot;glimmering-mirage&quot;&gt;Glimmering Mirage&lt;/h2&gt;
+
+&lt;p&gt;Mundane mirages are the effect of heat haze in the distance. These ones are more
+than that: they’re illusions crafted by malicious primal spirits. In addition to
+luring travelers, they persist once they get closer, and can conceal all kinds
+of danger behinds their alluring façades.&lt;/p&gt;
+
+&lt;p&gt;Glimmering mirages form walls 4 or more squares long. They block line of sight,
+and give concealment against ranged attacks to anyone standing adjacent to
+them. At the end of every turn, you roll a d6 for each mirage. A 1 means it’s
+gone, a 6 means it moves 5 squares, and other results mean it stays put.&lt;/p&gt;
+
+&lt;h2 id=&quot;lightning-pillar&quot;&gt;Lightning Pillar&lt;/h2&gt;
+
+&lt;p&gt;Literally a pillar of congealed lightning, probably created due to the area’s
+proximity to an “electric” region of the Elemental Chaos. PCs and enemies might
+be able to use their Arcana, Nature, or Religion skills to “hack” such a pillar
+and make it deliver a lightning strike to a chosen target.&lt;/p&gt;
+
+&lt;h2 id=&quot;mudflats&quot;&gt;Mudflats&lt;/h2&gt;
+
+&lt;p&gt;These are natural areas where underground water surfaces a bit and mixes with
+the soil, creating an area that is both dusty and sludgy at the same
+time. Inland mudflats are the next best thing to oases, and draw many animals
+and people who learn to extract water from them.&lt;/p&gt;
+
+&lt;p&gt;Particularly thick mud flats are difficult terrain, and can contain &lt;strong&gt;mud sink&lt;/strong&gt;
+squares representing deeper areas. Creatures standing adjacent to those can be
+pushed into them, which will immobilize them (save ends), with a slow
+after-effect due to the clinging mud (also save ends). Voluntarily or
+accidentally stepping into one would have the same effect.&lt;/p&gt;
+
+&lt;h2 id=&quot;psychic-reservoirs&quot;&gt;Psychic Reservoirs&lt;/h2&gt;
+
+&lt;p&gt;Fragile purple crystals that grow in psychically charged areas sheltered from
+the winds, these can be tapped by psionic characters to boost their attacks. It
+takes a minor action to tap into an adjacent crystal, which makes it crumble to
+dust. If the character uses power points, they gain 1 bonus point that lasts
+until the end of the encounter. Otherwise they gain +5 to their next damage roll
+from a psionic power.&lt;/p&gt;
+
+&lt;h2 id=&quot;rocky-badlands&quot;&gt;Rocky Badlands&lt;/h2&gt;
+
+&lt;p&gt;These regions are too rough to support permanent settlements, so they’ll mostly
+feature as ambush sites. They’re filled with &lt;strong&gt;teetering stone pillars&lt;/strong&gt; that
+can be pushed onto enemies.&lt;/p&gt;
+
+&lt;h2 id=&quot;salt-flats&quot;&gt;Salt Flats&lt;/h2&gt;
+
+&lt;p&gt;These bone-dry regions are a hassle to fight in, as salt will inevitably get in
+the wounds and make them sting like hell. They’re also filled with loose &lt;strong&gt;salt
+piles&lt;/strong&gt; that work a lot like the Settled Ash hazard above, except that they also
+slow the target if it was bloodied.&lt;/p&gt;
+
+&lt;h2 id=&quot;sandy-wastes&quot;&gt;Sandy Wastes&lt;/h2&gt;
+
+&lt;p&gt;What most people think of when they hear “desert”. They can contain 3x3-square
+&lt;strong&gt;Small Dunes&lt;/strong&gt; that anyone might use as a hiding or ambush spot, even if they
+can’t normally burrow.&lt;/p&gt;
+
+&lt;h2 id=&quot;silt-pools&quot;&gt;Silt Pools&lt;/h2&gt;
+
+&lt;p&gt;They work a lot like mud flats, except there’s no water, just very fine
+dust. Usually filled with difficult terrain, and with &lt;strong&gt;deep silt spots&lt;/strong&gt; that
+restrain (save ends) anyone who falls or gets pushed into them.&lt;/p&gt;
+
+&lt;h2 id=&quot;slipsand&quot;&gt;Slipsand&lt;/h2&gt;
+
+&lt;p&gt;Sandy areas where some magical or psionic effect caused a significant amount of
+tiny glass crystals to be mixed in with the sand. They’re slippery &lt;em&gt;and&lt;/em&gt; sharp,
+requiring an Athletics check from any who enters them to avoid falling prone and
+taking damage.&lt;/p&gt;
+
+&lt;h2 id=&quot;tree-of-life&quot;&gt;Tree of Life&lt;/h2&gt;
+
+&lt;p&gt;These extremely rare plants are imbued with a much greater than usual amount of
+vital energy, which enables them to resist and even recover from defiling
+attempts given enough time. Ironically, this makes them extremely valued by
+sorcerer-kings and other powerful and rich defilers, which cultivate them for
+use as batteries.&lt;/p&gt;
+
+&lt;p&gt;I think earlier editions kept a more or less precise list of the remaining trees
+of life in Athas - they were &lt;em&gt;that&lt;/em&gt; rare. In this edition, I believe their
+number is less restricted, but the most likely place you’re going to find one is
+still in the “boss room” for these defilers.&lt;/p&gt;
+
+&lt;p&gt;Trees of life emit a 5-square aura. Creatures within always regain the maximum
+possible HP from variable healing effects, and have a +5 to perform divination
+rituals.&lt;/p&gt;
+
+&lt;p&gt;Whenever someone performs Arcane Defiling inside the aura, or use some other
+necrotic power that damages one of their allies, the tree takes the damage
+instead. Trees have 500 HP and Vulnerable 10 Necrotic, and die when they
+hit 0. They regenerate 5 HP per hour.&lt;/p&gt;
+
+&lt;h2 id=&quot;ztal-horde&quot;&gt;Z’Tal Horde&lt;/h2&gt;
+
+&lt;p&gt;A much funnier and more mundane piece of terrain! Z’tals are tiny, slimy, stinky
+lizard-bug-things that gather in very large swarms. They’re relatively harmless,
+but still a bother.&lt;/p&gt;
+
+&lt;p&gt;A z’tall horde fills one or more squares, which are difficult terrain. Someone
+who ends their movement in such a square takes 5/tier poison damage from the
+stink. Someone who starts their turn in a horde square must roll a save before
+taking any other actions. A failure means they fall prone because of the
+slippery slime. A close or area attack that deals at least 1 point of damage
+will automatically disperse a horde square with no roll required.&lt;/p&gt;
+
+&lt;p&gt;They’re sometimes bred as living security measures, but a horde of these
+annoying scavengers might naturally form around the corpse of any large
+creature.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-up&quot;&gt;Next Up&lt;/h2&gt;
+
+&lt;p&gt;Hazards! What, you thought these were the hazards?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/09/wir-dscc-athasian-terrain.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/09/wir-dscc-athasian-terrain.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>dark-sun</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Sunwarped Monster</title>
@@ -999,169 +1202,6 @@ protection against those aside from the usual elite save bonus.&lt;/p&gt;
         <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Nibenay</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-nibenay.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Nibenay, in his true half-draconic form, lounging on his throne.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Yes, he named his city after himself.&lt;/p&gt;
-
-&lt;p&gt;Nibenay seems to be a very academically-minded Sorcerer-King, which is evident
-in how his transformation seems to be the furthest along among the living ones,
-but he’s also kinda lazy. For about two thousand years now, he’s been holed up
-in his palace-temple complex of Naggaramakam enjoying a life of luxury and study
-while his priesthood took care of all those boring “running the kingdom” tasks.&lt;/p&gt;
-
-&lt;p&gt;His priesthood are also his templars, which are all women and all his wives. So
-this might explain why Dregoth outpaced him 1700 years ago - Nibenay still has
-his vices.&lt;/p&gt;
-
-&lt;p&gt;Nibebay’s highest ranking templars are known as the High Consorts. There are
-five of them, each in charge of one of the city-state’s temples. The Shadow
-King’s inner circle is composed of these five, plus his personal arcane
-assistants, his half-monster son Dhojakt, and a group of elite goliath
-warriors. Only they can enter Naggaramakam and interact directly with their
-king. And only they know what Nibenay’s true draconic form looks like - he
-disguises himself as a human in his rare public appearances.&lt;/p&gt;
-
-&lt;p&gt;Things might have continued this way forever if it wasn’t for Kalak’s
-assassination and the liberation of Tyr. This kind of lit a fire under Nibenay,
-and he decided to end his isolation and take a more active hand in the ruling of
-his domain. This has nearly all Nibenese nobles and a large number of
-lower-ranking templars in a panic because they’ve been up to a lot of
-self-enriching shenanigans that they were sure their king would never notice or
-care about. There’s a lot of unpleasant purges in the city’s immediate future.&lt;/p&gt;
-
-&lt;p&gt;Still, Nibenay hasn’t completely abandoned his research. He seems to be
-particularly interested in Athas’ distant past, and is rumored to be looking for
-a way to “bring about a new Age”. That probably involves some sort of
-large-scale environmental engineering, though it’s unlikely to be beneficial to
-the inhabitants.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three different stat blocks here, which we’ll see in order of level.&lt;/p&gt;
-
-&lt;h3 id=&quot;shadow-bride&quot;&gt;Shadow Bride&lt;/h3&gt;
-
-&lt;p&gt;This is one of Nibenay’s lower-ranking templars. The city’s nobles tend to look
-down on them and use them as pawns in their own schemes - the name “Shadow
-Bride” is something of an insult. The brides resent them for this, and do
-whatever dirty deeds they need in order to claw some wealth and influence for
-themselves and climb the ranks of their organization.&lt;/p&gt;
-
-&lt;p&gt;This Shadow Bride is a Level 13 Soldier with 130 HP and Speed 6. She fights with
-an &lt;strong&gt;Obsidian Short Sword&lt;/strong&gt; in melee, and with &lt;strong&gt;Shadow Bolts&lt;/strong&gt; at range that do
-light cold+necrotic damage. She can inflict the &lt;strong&gt;Curse of the Shadow King&lt;/strong&gt; an
-adjacent enemy with a minor action. This marks the enemy until the end of the
-encounter and makes it grant combat advantage for a turn.&lt;/p&gt;
-
-&lt;p&gt;Marked enemies within 6 squares who decide to ignore the mark can be targeted
-with &lt;strong&gt;Nibenay’s Retribution&lt;/strong&gt; as an interrupt - the bride teleports to a square
-adjacent to the enemy and makes a very accurate attack vs. their Fortitude,
-dealing fire+necrotic damage on a hit.&lt;/p&gt;
-
-&lt;p&gt;In her own turns the bride can also &lt;strong&gt;Demand Penitence&lt;/strong&gt; (recharge 5+),
-targetting up to two marked enemies in a Close Burst 5, dealing psychic damage,
-pulling them 4 squares, and knocking them prone.&lt;/p&gt;
-
-&lt;p&gt;Yup, this is a Soldier Warlock. Not a combination you see every day. The
-“eldritch blast” equivalent here is distinctly secondary. She wants to bring
-enemies into melee range and keep them there.&lt;/p&gt;
-
-&lt;h3 id=&quot;high-consort&quot;&gt;High Consort&lt;/h3&gt;
-
-&lt;p&gt;One of the five highest ranked priestess-wives of Nibenay, part of his inner
-circle. Just like the city’s nobles, they jockey for position amongst
-themselves, constantly engaging in backstabbing and intrigue, though they &lt;em&gt;are&lt;/em&gt;
-loyal to their hubby and will fight at his side against meddling PCs who manage
-to get that far. They will also fight to the end to protect their own
-temples. In any other situation, they run away when the fight turns against
-them.&lt;/p&gt;
-
-&lt;p&gt;High Consorts are Level 27 Artillery with 192 HP, Speed 6 and Low-Light
-Vision. They fight with &lt;strong&gt;Obsidian Spears&lt;/strong&gt; in melee and with &lt;strong&gt;Shadow Blasts&lt;/strong&gt;
-at range 20. These deal cold+necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;Their special spell is &lt;strong&gt;Cage of Shadows&lt;/strong&gt; (ranged 10), which deals heavy force
-damage and immobilizes (save ends). It recharges when they’re bloodied. They can
-also practice &lt;strong&gt;Arcane Defiling&lt;/strong&gt; whenever they miss with this power or with a
-Shadow Blast while allies are present within 2 squares of them. This is a free
-action that inflicts 10 necrotic damage on each such ally, and lets the consort
-reroll the attack.&lt;/p&gt;
-
-&lt;p&gt;If they get surrounded, consorts can use &lt;strong&gt;Nibenay’s Gift&lt;/strong&gt; (recharge 5+) as a
-minor action, dealing 15 cold+necrotic damage to each adjacent enemy,
-teleporting 6 squares, and gaining concealment for a turn.&lt;/p&gt;
-
-&lt;h3 id=&quot;nibenay-sorcerer-king&quot;&gt;Nibenay, Sorcerer-King&lt;/h3&gt;
-
-&lt;p&gt;Nibenay in his true form is a Large Natural Humanoid, and a Level 29 Elite
-Controller with 532 HP. He has ground and teleport speeds of 6 and Darkvision.&lt;/p&gt;
-
-&lt;p&gt;His &lt;strong&gt;Sorcerer King’s Guile&lt;/strong&gt; is going to ruin the day of many a PC fighter, as
-it makes him not provoke opportunity attacks from making ranged and area
-attacks.&lt;/p&gt;
-
-&lt;p&gt;In melee, he fights with Reach 2 &lt;strong&gt;Dragon’s Talons&lt;/strong&gt;, which damage and restrain
-(save ends). At range, he uses the classic &lt;strong&gt;Ego Whip&lt;/strong&gt; (range 10), which deals
-psychic damage and dazes (save ends). Yes, it’s at-will, and &lt;strong&gt;Ego Storm&lt;/strong&gt; lets
-him use it twice in the same action.&lt;/p&gt;
-
-&lt;p&gt;Less often, he can use &lt;strong&gt;Defiling Burst&lt;/strong&gt; (recharge 5+), which automatically
-deals 15 necrotic damage to each adjacent enemy and lets Nibenay attack an Area
-Burst 2 within 10 to deal necrotic damage.&lt;/p&gt;
-
-&lt;p&gt;The text is a bit strange here, as it says Nibenay gains +1 to the burst’s
-attack roll for each enemy damaged by it. I guess you roll once, count the hits,
-add the bonus, and keep repeating the last two steps until he either runs out of
-targets or misses someone.&lt;/p&gt;
-
-&lt;p&gt;As a minor action he can creaze a &lt;strong&gt;Zone of Shadows&lt;/strong&gt; that lasts for a turn and
-blocks line of sight for everyone except himself. Enemies inside are
-blinded. The power recharges when the zone vanishes.&lt;/p&gt;
-
-&lt;p&gt;His version of &lt;strong&gt;Arcane Defiling&lt;/strong&gt; triggers when he hits and deals damage with
-either of his basic attacks. It inflicts 10 necrotic damage on each enemy within
-2 squares and weakens the target of the triggering attack for a turn. It’s a
-&lt;em&gt;free action&lt;/em&gt;, not a reaction or interrupt, so this happens every single time he
-hits with Dragon Talon or Ego Whip.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nibenay’s Demand&lt;/strong&gt; is his anti-stunlock power, a reaction that lets him
-inflict 10 necrotic damage on an enemy within 5 squares and roll a save whenever
-he’s subject to an effect a save can end.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Nibenay being an Elite instead of a Solo is not necessarily a sign that he’s
-weak, but that the final fight against him will be a crowded affair. Any
-surviving high consorts will surely be here, as will any other epic level
-assistants and guards the GM wants to add to make the battle a worthy challenge.&lt;/p&gt;
-
-&lt;p&gt;Unlike Andropinis, Nibenay doesn’t have powers that boost or benefit from his
-allies, but at least he doesn’t get in their way either - his area attack is
-selective. The High Consorts, however, &lt;em&gt;are&lt;/em&gt; likely to step on each others’ toes
-because their version of Arcane Defiling targets allies instead of enemies.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/12/wir-dscc-nibenay.html</guid>
         
         <category>dnd4</category>
         
