@@ -6,9 +6,141 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Feb 2026 23:48:42 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Feb 2026 23:48:42 +0000</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 19:27:37 +0000</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 19:27:37 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Hazards</title>
+        <description>&lt;p&gt;Even if the stuff we saw on our previous post was pretty hazardous, none of it
+counts as a “hazard” in mechanical terms.&lt;/p&gt;
+
+&lt;p&gt;The main difference is that Terrain is entirely passive. It might do something
+when you step on it, or it might allow a character to perform some special
+action when next to it, but it never &lt;em&gt;initiates&lt;/em&gt; any interaction.&lt;/p&gt;
+
+&lt;p&gt;Hazards, on the other hand, have enough “agency” to count as a monster for
+encounter building purposes. They can make attacks, and can also be disabled by
+the methods outlined in its description. Traps are the most popular example of
+hazards, but these rules can also model dangerous terrain features that weren’t
+built to do harm on purpose. Obviously, unlike real monsters, traps and hazards
+don’t use tactics. They just follow their “programming”.&lt;/p&gt;
+
+&lt;p&gt;Traps and hazards have their own set of roles:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Blasters&lt;/strong&gt; make ranged or area attacks. A crossbow trap is the most popular
+example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lurkers&lt;/strong&gt; can disappear for a while after making their attacks, so dealing
+with them is harder. A blade trap that retracts into the wall is a good
+example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Obstacles&lt;/strong&gt; impede movement, both by their presence and with attacks that
+slow the target down. They might block passage entirely or require characters
+to make tricky movement or puzzle-solving skill checks to pass.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Warders&lt;/strong&gt; are alarm systems. They can have damaging attacks too, and will
+make them as soon as they detect intruders, but their main function is to warn
+others about the presence of those intruders. The alarm might only sound once,
+or keep sounding while the hazard persists. In truth, this seems to be kind of
+a catch-all category. If the hazard can’t conceal itself after attacking and
+doesn’t really impede movement, it’s a warder. A shrieker mushroom is a
+non-damaging example.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the summarized descriptions below, I always start with a description of the
+hazard’s nature and appearance, what it does when triggered, and how to avoid or
+disable it.&lt;/p&gt;
+
+&lt;h2 id=&quot;arena-hazards&quot;&gt;Arena Hazards&lt;/h2&gt;
+
+&lt;p&gt;This subsection details hazards that might be found in the many gladiatorial
+arenas of Athas. They’re placed on purpose to make things more “interesting”,
+but they’re not really &lt;em&gt;traps&lt;/em&gt; per se.&lt;/p&gt;
+
+&lt;h3 id=&quot;worthy-sacrifices-of-draj&quot;&gt;Worthy Sacrifices of Draj&lt;/h3&gt;
+
+&lt;p&gt;This is a 3-by-6 square pile or corpses with their hearts torn out. &lt;em&gt;Animated&lt;/em&gt;
+corpses, that will try to grab, pull, and gnaw on anyone they sense nearby. It’s
+a Level 8 Obstacle.&lt;/p&gt;
+
+&lt;p&gt;PCs can notice the corpses are animated with Perception or Religion. The pile
+makes opportunity attacks that damage and grab against any character who steps
+adjacent to it. Roll Initiative for it after the first such attack. On its
+turn, it will try to pull any grabbed victims into itself, dealing the same
+damage as the initial attack and inflicting ongoing 10 necrotic damage while the
+victims remain inside.&lt;/p&gt;
+
+&lt;p&gt;A PC can choose to make an Acrobatics test when they step adjacent to the pile
+to avoid the opportunity attack. They can disable it either by good old
+fashioned violence (70 HP, resist necrotic, vulnerable radiant), or by
+improvising an exorcism with Nature and Religion. This is a complexiy 1 skill
+challenge where each failure deals 5 necrotic damage to the PCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;blood-trees-of-gulg&quot;&gt;Blood Trees of Gulg&lt;/h3&gt;
+
+&lt;p&gt;These are large trees with red leaves. The main arena in Gulg has about a dozen
+of these planted in a semi-random arrangement. Their trunks completely fill a
+square and count as blocking terrain. Their branches stretch 3 squares in every
+direction from the trunk.&lt;/p&gt;
+
+&lt;p&gt;The rumor that these trees have red leaves because they feed on blood is
+false. The leaves are naturally red, and the trees are mostly harmless. They
+only turn carnivorous when they’re about to bloom, you see.&lt;/p&gt;
+
+&lt;p&gt;There’s no fixed blooming season - the timing for that is rather random. For
+this specific arena, at most 3 trees might be dangerous at a time. The rest are
+still blocking terrain, of course.&lt;/p&gt;
+
+&lt;p&gt;Blood Trees are level 9 Warders. Their presence is obvious, and a Nature or
+Perception check can allow a PC to notice that a given tree is “primed” and what
+its reach is (it’s 3).&lt;/p&gt;
+
+&lt;p&gt;When someone steps into that reach, the tree makes an opportunity attack that
+damages and knocks prone on a hit. On its turn, it apparently uses another set
+of branches to make attacks against Fortitude to damage, poison and fling away
+anyone it hits with those. That’s ongoing 5 poison (save ends), plus a secondary
+attack that makes a 5-square push on a hit.&lt;/p&gt;
+
+&lt;p&gt;Blood trees can be destroyed by violence (100 HP, resist 10 poison); and a PC
+can succeed at a Nature check when stepping into their reach to avoid the
+opportunity attack and be ignored by the tree for the rest of the encounter.&lt;/p&gt;
+
+&lt;h3 id=&quot;obsidian-façades-of-urik&quot;&gt;Obsidian Façades of Urik&lt;/h3&gt;
+
+&lt;p&gt;The arena in Urik is a former pit from an obsidian mine. Its walls are wickedly
+sharp and good enough at absorbing heat that by noon the arena resembles a huge
+natural air fryer. Guess when fights take place.&lt;/p&gt;
+
+&lt;p&gt;Characters inside the arena are exposed to Sun Sickness, a disease detailed in
+the Dark Sun Campaign Setting that probably represents heat stroke and
+dehydration. The walls are a variable level Obstacle, and moving adjacent to
+them subjects the character to an attack that deals mixed physical and fire
+damage that rises with tier. Characters doing so on purpose can attempt an
+Acrobatics check to avoid this.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-up&quot;&gt;Next up&lt;/h2&gt;
+
+&lt;p&gt;Wilderness hazards! Because the world itself is also out to get you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/10/wir-dscc-hazards.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/10/wir-dscc-hazards.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Athasian Terrain</title>
@@ -1066,148 +1198,6 @@ sleazy slave trader.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>dnd4e</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Tectuktitlay</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-tectuktitlay.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Tectuktitlay, dressed in extravagant regalia and holding a human heart.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Tectuktitlay is the king of Draj, and while he is not the only sorcerer-king to
-claim to be a god, he’s apparently the one most willing to enforce that claim.&lt;/p&gt;
-
-&lt;p&gt;His priests tell the story of how he’s the son of the moons Ral and Guthay, who
-descended into the mortal realm already a god. This divine family gave Draj the
-gifts of bountiful harvests and prowess in battle, and can easily revoke them
-if they’re not properly worshiped.&lt;/p&gt;
-
-&lt;p&gt;Disagreeing with Tectuktitlay about any of this is a particularly painful form
-of suicide. He constantly appears to his people at the top of his
-stepped-pyramid palace (the “Temple of the Father and Master”), and his vigilant
-gaze is etched on structures all through Draj. It’s hard to tell whether his
-subjects believe he’s really a god - they have gotten extremely good at going
-through the motions of worshiping him in the name of self-preservation.&lt;/p&gt;
-
-&lt;p&gt;I honestly couldn’t tell from the book’s description if Tectuktitlay really
-believes in his own divinity. Whether he does or not, he also knows he’s the
-weakest of the Sorcerer Kings, and probably has something of an inferiority
-complex about it. He tries to compensate for his personal weakness by making his
-realm military strong instead.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;We get three stat blocks here. Draj is the Aztec-themed domain, so everyone here
-just loves to rip out people’s hearts.&lt;/p&gt;
-
-&lt;h3 id=&quot;moon-priest&quot;&gt;Moon Priest&lt;/h3&gt;
-
-&lt;p&gt;This is a typical templar of Draj, equal parts bureaucrat and enforcer of his
-god’s creed. They’re always on the lookout for heresy, and ready to violently
-punish it.&lt;/p&gt;
-
-&lt;p&gt;Moon Priests are Level 11 Controllers with the Leader tag and 110 HP. Their
-leaderly qualities come from their aura of &lt;strong&gt;Enforced Zeal&lt;/strong&gt; (1) which gives
-allies inside a +2 damage bonus; and from &lt;strong&gt;Blood Demands Blood&lt;/strong&gt; an encounter
-power that gives allies within 5 squares a +2 attack bonus as a reaction when
-the priest is first bloodied.&lt;/p&gt;
-
-&lt;p&gt;They fight with a &lt;strong&gt;Scourge&lt;/strong&gt; that damages and inflicts a -2 attack penalty for
-a turn. They also have a dagger in hand that has a scarier purpose: the &lt;strong&gt;Worthy
-Sacrifice&lt;/strong&gt; maneuver (melee 1 vs. Reflex), which knocks a target prone on a hit
-and lets them make a secondary attack against the same target. If &lt;em&gt;that&lt;/em&gt; hits,
-it deals heavy physical damage, dazes (save ends), and gives 10 temporary HP to
-each nonminion ally the priest can see. They try to rip your heart out! And this
-is at-will.&lt;/p&gt;
-
-&lt;p&gt;They can use a minor action to charm an enemy with a &lt;strong&gt;Sacrificial
-Summons&lt;/strong&gt; (ranged 15 vs. Will) which pulls 5 squares and makes the target grant
-combat advantage for a turn. If this ends up with the target in melee reach,
-it’s that much easier to hit them with the big sacrifice attack.&lt;/p&gt;
-
-&lt;h3 id=&quot;jasuan-temple-guard&quot;&gt;Jasuan Temple Guard&lt;/h3&gt;
-
-&lt;p&gt;These are elite bodyguards hand-picked from Draj’s knightly orders for their
-unquestioning devotion to their god. They protect the Father and Master Temple,
-and Tectuktitlay himself. They’re Level 21 Soldiers with 200 HP.&lt;/p&gt;
-
-&lt;p&gt;They fight with &lt;strong&gt;Obsidian Broadswords&lt;/strong&gt; that deal immediate and ongoing
-physical damage, and also mark (save ends both). And they can throw &lt;strong&gt;Bone
-Harpoons&lt;/strong&gt; that deal physical damage and immobilize (save ends). Once a target
-has been immobilized, they can be targeted by &lt;strong&gt;Reel In&lt;/strong&gt; (minor, ranged 10
-vs. Fort), which pulls them 5 squares or knocks them prone on a hit. If they end
-up adjacent to the guard, the guard can hit them with his sword again.&lt;/p&gt;
-
-&lt;p&gt;Finally, their &lt;strong&gt;Wicked Cruelty&lt;/strong&gt; gives them 10 temporary HP whenever they
-bloody an enemy for the first time, and it’s the first time that enemy has been
-bloodied in the fight.&lt;/p&gt;
-
-&lt;h3 id=&quot;tectuktitlay-sorcerer-king&quot;&gt;Tectuktitlay, Sorcerer-King&lt;/h3&gt;
-
-&lt;p&gt;Tectuktitlay is Level 22 Elite Artillery (Leader), lower level than any other of
-the sorcerer-kings we saw so far in this book. He has 316 HP and a speed of 6.&lt;/p&gt;
-
-&lt;p&gt;Tectuktitlay projects a large aura of &lt;strong&gt;Imposed Zealotry&lt;/strong&gt; (4) that gives a +2
-attack bonus to allies inside, and another one of &lt;strong&gt;Bloody Vigor&lt;/strong&gt; over the same
-area that heals 10 HP to any bloodied ally that starts their turn inside.&lt;/p&gt;
-
-&lt;p&gt;He has a &lt;strong&gt;dagger&lt;/strong&gt; for melee, but the real star of the show here are his
-spells, all of which have a maximum range of 20. &lt;strong&gt;Arrows of the Two Moons&lt;/strong&gt;
-deals necrotic + radiant damage, the most unexpected combination I’ve ever
-seen. &lt;strong&gt;Spear of the Sky&lt;/strong&gt; is a selective area attack that deals fire +
-lightning damage, and &lt;strong&gt;Double Attack&lt;/strong&gt; lets him use both spells in the same
-action.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kiss of the Two Moons&lt;/strong&gt; is his limited-use special, firing off two separate
-bolts at different targets. The first does necrotic damage and weakens (save
-ends); the second does radiant damage and blinds (save ends). A miss on either
-attack deals half damage and inflicts the associated condition for a turn. This
-recharges when he’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;Last but not least there’s &lt;strong&gt;Thief of Hearts&lt;/strong&gt; (vs. Fort, recharge 5+), in which
-he attempts to teleport someone’s heart to his hand. A hit deals damage equal to
-the target’s healing surge value, and hit or miss the target is dazed (save
-ends).&lt;/p&gt;
-
-&lt;p&gt;If Tectuktitlay is hit with a melee or ranged attack, he can order an
-&lt;strong&gt;Involuntary Sacrifice&lt;/strong&gt; as an interrupt, choosing an ally within 4
-squares. That ally shifts to be adjacent to his master, and is hit by the attack
-instead of him.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;Tectuktitlay wants to stay 20 squares away from the PCs and bombard them with
-spells. His at-wills are annoying enough, but what will really light a fire
-under the PCs to end him as soon as possible is when Thief of Hearts lands for
-the first time. I initially read it as dealing damage equal to the target’s
-&lt;em&gt;bloodied&lt;/em&gt; value, but even if the actual damage is just half that, the
-psychological impact is still high.&lt;/p&gt;
-
-&lt;p&gt;The party will want to get into melee with him as soon as possible, as he has no
-protection against opportunity attacks, but that will be made harder by the
-small army of jasuan guards and maybe up-leveled priests that will also be
-there. They’ll get in the way, and their king can pull them in to take hits in
-his stead.&lt;/p&gt;
-
-&lt;p&gt;The next best thing is to inflict dazes or stuns on him, since he lacks
-protection against those aside from the usual elite save bonus.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/15/wir-dscc-tectuktitlay.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
