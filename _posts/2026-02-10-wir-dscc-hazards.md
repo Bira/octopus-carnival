@@ -15,7 +15,7 @@ when you step on it, or it might allow a character to perform some special
 action when next to it, but it never _initiates_ any interaction.
 
 Hazards, on the other hand, have enough "agency" to count as a monster for
-encounter building purposes. It can make attacks, and can also be disabled by
+encounter building purposes. They can make attacks, and can also be disabled by
 the methods outlined in its description. Traps are the most popular example of
 hazards, but these rules can also model dangerous terrain features that weren't
 built to do harm on purpose. Obviously, unlike real monsters, traps and hazards
@@ -30,9 +30,9 @@ Traps and hazards have their own set of roles:
   with them is harder. A blade trap that retracts into the wall is a good
   example.
 
-- **Obstacles** impede movement, both by their presence and with attacks whose
-  riders slow the target down. They might block passage entirely or require
-  characters to make tricky movement or puzzle-solving skill checks to pass.
+- **Obstacles** impede movement, both by their presence and with attacks that
+  slow the target down. They might block passage entirely or require characters
+  to make tricky movement or puzzle-solving skill checks to pass.
 
 - **Warders** are alarm systems. They can have damaging attacks too, and will
   make them as soon as they detect intruders, but their main function is to warn
@@ -61,10 +61,11 @@ corpses, that will try to grab, pull, and gnaw on anyone they sense nearby. It's
 a Level 8 Obstacle.
 
 PCs can notice the corpses are animated with Perception or Religion. The pile
-makes opportunity attacks against any character who steps adjacent to it - roll
-Initiative for it after the first such attack. On its turn, it will try to pull
-any grabbed victims into itself, dealing the same damage as the initial attack
-and inflicting ongoing 10 necrotic damage while the victims remain inside.
+makes opportunity attacks that damage and grab against any character who steps
+adjacent to it. Roll Initiative for it after the first such attack. On its
+turn, it will try to pull any grabbed victims into itself, dealing the same
+damage as the initial attack and inflicting ongoing 10 necrotic damage while the
+victims remain inside.
 
 A PC can choose to make an Acrobatics test when they step adjacent to the pile
 to avoid the opportunity attack. They can disable it either by good old
@@ -94,8 +95,8 @@ its reach is (it's 3).
 When someone steps into that reach, the tree makes an opportunity attack that
 damages and knocks prone on a hit. On its turn, it apparently uses another set
 of branches to make attacks against Fortitude to damage, poison and fling away
-anyone it hits with those. That's ongoing 5 poison (save ends), and a 5-square
-push.
+anyone it hits with those. That's ongoing 5 poison (save ends), plus a secondary
+attack that makes a 5-square push on a hit.
 
 Blood trees can be destroyed by violence (100 HP, resist 10 poison); and a PC
 can succeed at a Nature check when stepping into their reach to avoid the
@@ -107,7 +108,7 @@ The arena in Urik is a former pit from an obsidian mine. Its walls are wickedly
 sharp and good enough at absorbing heat that by noon the arena resembles a huge
 natural air fryer. Guess when fights take place.
 
-Characters inside the arena are subject to Sun Sickness, a disease detailed in
+Characters inside the arena are exposed to Sun Sickness, a disease detailed in
 the Dark Sun Campaign Setting that probably represents heat stroke and
 dehydration. The walls are a variable level Obstacle, and moving adjacent to
 them subjects the character to an attack that deals mixed physical and fire

@@ -161,6 +161,7 @@ Monster Themes:
 Terrain and Hazards:
 
 - [Athasian Terrain][73]
+- [Athasian Arena Hazards][74]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -236,3 +237,4 @@ Terrain and Hazards:
 [71]: {{ "/2026/01/22/wir-dscc-themes-psionic-adept.html" | relative_url }}
 [72]: {{ "/2026/01/28/wir-dscc-themes-sunwarped-monster.html" | relative_url }}
 [73]: {{ "/2026/02/09/wir-dscc-athasian-terrain.html" | relative_url }}
+[74]: {{ "/2026/02/10/wir-dscc-hazards.html" | relative_url }}
