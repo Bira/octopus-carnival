@@ -5,9 +5,57 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Feb 2026 19:27:37 +0000</pubDate>
-    <lastBuildDate>Tue, 10 Feb 2026 19:27:37 +0000</lastBuildDate>
+    <pubDate>Wed, 11 Feb 2026 21:14:05 +0000</pubDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:14:05 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: A Decision</title>
+        <description>&lt;p&gt;As I mentioned in a &lt;a href=&quot;/octopus-carnival/2025/12/22/lphr-background-change.html&quot;&gt;post back in December&lt;/a&gt;, I’ve been actually playing this
+solo game in a sporadic fashion for years. And as I said back when I started, I
+planned to post it here. So why didn’t I?&lt;/p&gt;
+
+&lt;p&gt;Basically, it was anxiety over art.&lt;/p&gt;
+
+&lt;p&gt;The first thing I was going to do was to post the stats for my player
+characters, and since these were going to be “proper blog posts”, I decided I
+wanted to have illustrations for them just like I have for all the other
+characters I posted before.&lt;/p&gt;
+
+&lt;p&gt;My method of procuring them was going to be the same. I’d use search indexes and
+trawl some specific art sites for published images I could add to the post, with
+proper credit and a link to the original.&lt;/p&gt;
+
+&lt;p&gt;For certain characters, that’s dead easy. But for a couple of others I ended up
+never finding an image that &lt;em&gt;exactly&lt;/em&gt; matched what I wanted. Or when I did find
+one that had the right vibe, it turned out the artist explicitly forbade this
+kind of usage, even with proper credit. Also one of my sources was Pinterest and
+I had just learned that one site had a serious “proper credit” issue. Whoops!
+What to do?&lt;/p&gt;
+
+&lt;p&gt;I know exactly what suggestion is already forming in a lot of your brains right
+now, and I’m gonna stop y’all right there and say “no”. I’m not using AI for
+this, or anything else. Not now, not ever.&lt;/p&gt;
+
+&lt;p&gt;So after way too long you’ll get those posts without illustrations at all. I
+can’t draw, but I can write, so you’re getting verbal descriptions. And maybe
+then I can finally proceed with publishing this.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/11/lets-play-hells-rebels-announcement.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/11/lets-play-hells-rebels-announcement.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Origin Corrections</title>
@@ -2535,192 +2583,6 @@ the Temple of Asmodeus, which unlike these short raids is a huge grinding slog.&
         <category>gurps</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>GURPS is Brutalist, or Tweaking The Flow of Combat in GURPS</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/long-lines-building.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    The Long Lines Building in New York
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;A common complaint I hear about people who tried GURPS for the first time coming
-in from other systems is that the “flow” of combat feels odd. Mainly that those
-1-second turns are too short and don’t let you do enough. Sometimes also that
-these short turns lead to fights that end too quickly to be dramatic&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;I think this comes from a mismatch between the player’s learned expectations and
-the way GURPS actually does things. In this post I’ll try to describe this
-difference, and give a few suggestions on how to reduce the friction.&lt;/p&gt;
-
-&lt;h2 id=&quot;describing-the-difference&quot;&gt;Describing the Difference&lt;/h2&gt;
-
-&lt;p&gt;Let’s start with an example. You’re in a typical dungeon fantasy combat against
-a bunch of zombies, playing an archer character. You make an attack, and
-describe it like this:&lt;/p&gt;
-
-&lt;p&gt;“I draw and nock an arrow, then I take aim at the closest zombie and shoot! As
-soon as the arrow flies, I’m already drawing another one from my quiver!”&lt;/p&gt;
-
-&lt;p&gt;How do other systems&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; usually handle this, and what does GURPS do that’s so
-different?&lt;/p&gt;
-
-&lt;h3 id=&quot;abstract-action-economies&quot;&gt;Abstract Action Economies&lt;/h3&gt;
-
-&lt;p&gt;Most tabletop RPG systems are fairly abstract when it comes to combat. To the
-rules, it doesn’t matter what motions your PC is actually going through when
-they perform an action, nor does it matter how long a turn lasts. It is enough
-to know what the action is, and that a turn is long enough for you to do it.&lt;/p&gt;
-
-&lt;p&gt;In systems that work this way, our archer’s narration is just a cool
-embellishment that adds some fun detail to a standard ranged attack roll. All
-the rules need to know is that it’s a ranged attack.&lt;/p&gt;
-
-&lt;p&gt;However, the choice of which actions perform in your turn matters a lot. You get
-a certain number of them, all of which have an immediate effect in the current
-turn but don’t influence future ones. Therefore the system’s incentives gently
-push you to be maximally efficient on a turn-by-turn basis&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;. Attacks are good
-because they bring the fight closer to an end. If you use your main action for
-something else, it better bring as much benefit to you as attacking would, or
-you have just “wasted” your turn. This set of mechanics and incentives is
-usually called an “action economy”.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-gurps-way&quot;&gt;The GURPS Way&lt;/h3&gt;
-
-&lt;p&gt;Where other systems are abstract, GURPS is so concrete it’s practically
-brutalist. Turns last one second and its combat maneuvers are a lot more
-fine-grained than combat actions in other games.&lt;/p&gt;
-
-&lt;p&gt;In the Union of Generic Universal Republics our example description is not just
-a bit of flavor: it’s a five-turn plan. Ready (draw arrow), Ready (nock arrow),
-Aim, Attack, Ready (draw arrow)&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Only the actual blow from your weapon, press of the trigger, or release of the
-bowstring counts as an Attack. The other stuff in the plan above are maneuvers
-that make your Attack possible and set it up for success. In GURPS, you want to
-increase the &lt;em&gt;quality&lt;/em&gt; of your attacks, not necessarily their &lt;em&gt;quantity&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;For the same reason GURPS is a bit less amenable to “needless embellishment”
-than more abstract games. Combat goes much more smoothly when you keep your
-action declarations to short sentences that map to a single maneuver. The
-structure you build out of these simple blocks can end up looking every bit as
-beautiful as the freeform narrative, though. This too, is brutalism.&lt;/p&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/barbican-conservatory.jpg&quot;/&gt;
-  &lt;figcaption&gt;
-    The Barbican Conservatory in London
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;proposed-solutions&quot;&gt;Proposed Solutions&lt;/h2&gt;
-
-&lt;p&gt;“The GURPS way” is neither better nor worse than the action economies of other
-systems. It’s just different. But it’s different enough that it can trip up
-people coming in from other games.&lt;/p&gt;
-
-&lt;p&gt;If the description above helped you smooth the friction between the rules and
-your expectations, then great! But it’s likely that it didn’t, and you still
-having trouble with it. In that case, here are a couple of suggestions on how to
-make your experience smoother.&lt;/p&gt;
-
-&lt;h3 id=&quot;solution-1-its-a-character-skill-issue&quot;&gt;Solution 1: It’s a (Character) Skill Issue&lt;/h3&gt;
-
-&lt;p&gt;One of the big reasons to use “setup” maneuvers like Evaluate, Feint, and Aim is
-that your character’s skill level might not be high enough to give you a decent
-chance of success. Without those maneuvers, you’ll end up missing more often, or
-will have trouble getting past your enemy’s defenses. This is common at the core
-books’ default 150 points.&lt;/p&gt;
-
-&lt;p&gt;One way to make attacking every turn more feasible and fun is to raise the power
-level of your characters. This is the approach taken by Dungeon Fantasy and
-Action: not only do they use 250 point templates, they optimize them a fair bit.&lt;/p&gt;
-
-&lt;p&gt;All the physical combatant templates in DF start with 16 in their main combat
-skill &lt;em&gt;at the very least&lt;/em&gt;. Many have a 18, and a couple either start with a 20
-or can get there with a bit of point shuffling.&lt;/p&gt;
-
-&lt;p&gt;This might sound excessive at first glance. Your base chance of success doesn’t
-increase past 16, and it’s unlikely anyone had more than a 18 in all of human
-history. Why allow PCs to &lt;em&gt;start&lt;/em&gt; there, and possibly go even higher with earned
-points? Because this is what you need to be able to reliably attack every second
-without taking the time to perform setup maneuvers.&lt;/p&gt;
-
-&lt;p&gt;With these “overpowered” skill levels you can absorb more penalties without
-having to Evaluate or Aim to offset them, and you can use Deceptive Attacks
-instead of Feints without affecting your chances of success. If you still have
-enough spare skill levels left, you can even thrown in a Rapid Strike to make
-two attacks in that second.&lt;/p&gt;
-
-&lt;h2 id=&quot;solution-2-mandatory-dramatic-pauses&quot;&gt;Solution 2: Mandatory Dramatic Pauses&lt;/h2&gt;
-
-&lt;p&gt;Fighters in real-world combat sports and action movies don’t spend every second
-of their fights furiously attacking each other. They’ll circle while looking for
-openings, stop to catch their breaths, and only go in for an exchange of actual
-blows every once in a while.&lt;/p&gt;
-
-&lt;p&gt;The use of setup maneuvers helps stretch fights out to be more similar to these
-examples, but if you’re reading this it’s because you don’t think they’re a good
-solution. And even if you do, you might want to go further.&lt;/p&gt;
-
-&lt;p&gt;One way to do this is to crib from the rules for tournament fights in GURPS
-Martial Arts. Under those rules, fights are composed of &lt;em&gt;lulls&lt;/em&gt; and
-&lt;em&gt;flurries&lt;/em&gt;. Combatants can only use the Attack maneuver&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; during a
-flurry. During a lull, they cannot attack but can still use maneuvers like
-Change Posture, Evaluate, Move, Ready, Aim, or even just Do Nothing while
-waiting for an opening. In fantasy settings it would be a good time to cast
-those healing spells.&lt;/p&gt;
-
-&lt;p&gt;GURPS Martial Arts has flurries last for 2d seconds and lulls for 4d seconds,
-rolled at the start of the corresponding period. You can tweak these durations
-to best suit your campaign. If the combatants’ actions look like they’re going
-to force an early change, you can end the current “period” early.&lt;/p&gt;
-
-&lt;p&gt;The main purpose of introducing lulls is to extend a fight’s in-character
-duration to something like that of a real-world boxing or MMA round. They can
-also help change the mental “efficiency” calculation of someone who’s used to
-action economies. If there’s a part of the fight where you can’t attack,
-performing setup actions for when you can becomes the most efficient thing to
-do.&lt;/p&gt;
-
-&lt;p&gt;Lulls work both in melee and ranged combat (when everyone might hunker down
-behind cover for a while), but they might get a bit hard to manage or look a bit
-silly when you have a large number of combatants in a fight.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;10 minutes to beat the bad guy and disarm the bomb is not a problem at all
-if you beat the bad guy in 5 seconds. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;“Other Systems” here means the last three editions of D&amp;amp;D, Pathfinder 2E,
-most editions of Shadowrun, and any others that might be similar in outlook
-but which I’m not too familiar with. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And if there are any obsessive optimizers in your group, they’ll push you
-much less gently. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I admit I tacked that extra Ready at the end to make the “five-second
-plan” joke work. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;And its cousin All-Out-Attack. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/09/17/turn-length.html</guid>
-        
-        <category>gurps</category>
         
         
       </item>
