@@ -162,6 +162,7 @@ Terrain and Hazards:
 
 - [Athasian Terrain][73]
 - [Athasian Arena Hazards][74]
+- [Athasian Natural Hazards][75]
 
 
 [1]: {{ "/2025/02/12/wir-dscc-intro.html" | relative_url }}
@@ -238,3 +239,4 @@ Terrain and Hazards:
 [72]: {{ "/2026/01/28/wir-dscc-themes-sunwarped-monster.html" | relative_url }}
 [73]: {{ "/2026/02/09/wir-dscc-athasian-terrain.html" | relative_url }}
 [74]: {{ "/2026/02/10/wir-dscc-hazards.html" | relative_url }}
+[75]: {{ "/2026/02/12/wir-dscc-wilderness-hazards.html" | relative_url }}

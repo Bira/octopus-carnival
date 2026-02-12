@@ -99,9 +99,9 @@ your Reflex.
 ### False Oasis (Level 13 Elite Lurker)
 
 This 6-by-6 square area looks like an oasis, but it's actually an
-illusion. Behind it is a 2-by-2 filled with blood-sucking creeper plants, which
-counts as blocking terrain. Sounds like just the kind of thing a group of sand
-brides would set up.
+illusion. Behind it is a 2-by-2 area filled with blood-sucking creeper plants,
+which counts as blocking terrain. Sounds like just the kind of thing a group of
+sand brides would set up.
 
 An Insight check might let someone recognize the oasis as an illusion, but not
 identify what it hides. A harder Arcana test can do both.
@@ -123,7 +123,7 @@ destroy the false oasis with violence (105 HP, vulnerable 15 radiant).
 
 ### Dust Funnel (Level 15 Blaster)
 
-A tornado, more or less..
+A tornado, more or less.
 
 Roll Initiative for the hazard when combat starts, and choose a square on the
 battle map. On its first turn, the dust funnel manifests in a Close Burst 2
@@ -132,11 +132,11 @@ around that square, and takes up that much space.
 A Perception or an easier Nature test can identify this spot as the forces build
 up, before the funnel manifests.
 
-On its turns, the funnel moves 1d10 squares and makes a Close Burst 2 attack
-against anyone who happens to be in that area. On a hit, it damages, knocks
-prone, and immobilizes its targets (save ends). Until the target passes a save,
-they get dragged along with the funnel whenever it moves. Of course, targets who
-get dragged along will suffer the attack again next turn, since they will be in
+On its turns, the funnel moves 1d10 squares and makes an attack against anyone
+who happens to be in its area. On a hit, it damages, knocks prone, and
+immobilizes its targets (save ends). Until the target passes a save, they get
+dragged along with the funnel whenever it moves. Of course, targets who get
+dragged along will suffer the attack again next turn, since they will be in
 reach of it.
 
 Imagine if this thing manages to grab _every other combatant_, monsters and PCs
