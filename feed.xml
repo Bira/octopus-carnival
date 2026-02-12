@@ -6,9 +6,233 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Feb 2026 21:14:05 +0000</pubDate>
-    <lastBuildDate>Wed, 11 Feb 2026 21:14:05 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Feb 2026 12:57:21 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Feb 2026 12:57:21 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Wilderness Hazards</title>
+        <description>&lt;p&gt;Continuing our read of the Hazards section, we’ll now see a few Wilderness
+hazards. These are all naturally occurring, and most are extra-dangerous
+versions of the terrain we saw earlier.&lt;/p&gt;
+
+&lt;h2 id=&quot;wilderness-hazards&quot;&gt;Wilderness Hazards&lt;/h2&gt;
+
+&lt;h3 id=&quot;chokedust-cloud-level-2-lurker&quot;&gt;Chokedust Cloud (Level 2 Lurker)&lt;/h3&gt;
+
+&lt;p&gt;A more dangerous version of the stuff you might find in ash wastes, silt pools,
+and deserts with particularly fine sand. This is a 3-by-3 area of particularly
+fine and powdery stuff, and the slightest disturbance will cause it to form a
+cloud.&lt;/p&gt;
+
+&lt;p&gt;Characters can roll Perception to notice the area is different, and if they pass
+that first test they can roll an easier Nature one to learn exactly why.&lt;/p&gt;
+
+&lt;p&gt;The hazard triggers when someone steps into the area, or when a portion of it is
+included in a blast or burst attack. The entire area erupts into a choking cloud
+that attacks the Fortitude of those standing on it. On a hit it blinds and
+inflicts ongoing 5 damage (save ends). The cloud stays around after this -
+victims cannot save against its effects while they remain inside. I imagine it
+also attacks anyone who steps into it after this.&lt;/p&gt;
+
+&lt;p&gt;Characters can roll Acrobatics when moving into the area to avoid disturbing it,
+and they can roll Endurance to steel themselves and gain a +2 to Fortitude
+against the cloud’s next attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;badlands-tremor-level-5-lurker&quot;&gt;Badlands Tremor (Level 5 Lurker)&lt;/h3&gt;
+
+&lt;p&gt;A small localized earthquake. It has four epicenter squares scattered through
+the encounter area. The GM can either roll randomly or place them for maximum
+inconvenience.&lt;/p&gt;
+
+&lt;p&gt;Characters can roll Perception to listen for the groaning noise that precedes
+the tremor, and then Nature to identify it as an incoming earthquake and (with a
+good enough roll) where the epicenters are.&lt;/p&gt;
+
+&lt;p&gt;The tremor starts when the encounter does - roll initiative for it. On its
+initiative count, a random epicenter makes a Close Burst 5 attack vs. Reflex
+that damages and knocks prone on a hit, half on a miss, and makes its area
+difficult terrain.&lt;/p&gt;
+
+&lt;p&gt;The only countermeasure is an Acrobatics check on your turn to brace yourself
+for the next tremor. Staying away from the tremor areas also works, but it might
+not be feasible depending on the map’s layout.&lt;/p&gt;
+
+&lt;h3 id=&quot;silt-sink-level-8-lurker&quot;&gt;Silt Sink (Level 8 Lurker)&lt;/h3&gt;
+
+&lt;p&gt;A much more dangerous version of the Silt Pool terrain from before. This is a
+4-by-4 squares wide, 30-foot deep hole filled with silt.&lt;/p&gt;
+
+&lt;p&gt;It takes a Perception roll to notice the ground is different, and then a Nature
+check to realize this is a deep pit that could bury someone.&lt;/p&gt;
+
+&lt;p&gt;If someone steps onto the pit’s area, they suffer an attack against their
+Reflex. On a hit they take fall damage (3d10, as if the pit was empty), and then
+get immobilized and begin to take ongoing 5 damage until they escape.&lt;/p&gt;
+
+&lt;p&gt;An escape attempt requires a series of Athletics or Acrobatics check against the
+pit’s escape DC. Each success causes the victm to rise 10 feet towards the
+surface. If they’re still in the pit at the end of their turn, they remain
+immobilized however. So it takes 3 successes for someone to fully escape.&lt;/p&gt;
+
+&lt;p&gt;Another character can try to help the victim if they can find a way to reach
+them (such as with a long branch or pole), using a move action to automatically
+pull them up by 10 feet.&lt;/p&gt;
+
+&lt;h3 id=&quot;devil-dune-level-9-obstacle&quot;&gt;Devil Dune (Level 9 Obstacle)&lt;/h3&gt;
+
+&lt;p&gt;A huge pile of loose sand that is currently being pushed by the winds and moving
+at a surprisingly high speed. This could be a natural phenomenon, or it could be
+the work of an angry spirit.&lt;/p&gt;
+
+&lt;p&gt;It can be automatically noticed, and there’s a Nature check to realize it’s
+dangerous. The dune rolls Initiative, and on its turn it shifts 4 square towards
+the nearest creature. When it enters a creature’s space, it can attack their
+Reflex to try to engulf them. This damages, slows, inflicts ongoing 5 damage,
+and obscures vision beyond 2 squares (save ends all). On a miss, it just slows
+for a turn.&lt;/p&gt;
+
+&lt;p&gt;Someone who starts their turn entirely inside the dune takes an attack against
+their Fortitude, which deals heavy damage and restrains. It takes an escape
+roll, not a save, to get out of the sand.&lt;/p&gt;
+
+&lt;p&gt;The only countermeasure, other than staying the heck away, is the option to roll
+Acrobatics as an interrupt before the dune attacks your Reflex. The result of
+the roll becomes your new defense against that attack, even if it was lower than
+your Reflex.&lt;/p&gt;
+
+&lt;h3 id=&quot;false-oasis-level-13-elite-lurker&quot;&gt;False Oasis (Level 13 Elite Lurker)&lt;/h3&gt;
+
+&lt;p&gt;This 6-by-6 square area looks like an oasis, but it’s actually an
+illusion. Behind it is a 2-by-2 area filled with blood-sucking creeper plants,
+which counts as blocking terrain. Sounds like just the kind of thing a group of
+sand brides would set up.&lt;/p&gt;
+
+&lt;p&gt;An Insight check might let someone recognize the oasis as an illusion, but not
+identify what it hides. A harder Arcana test can do both.&lt;/p&gt;
+
+&lt;p&gt;If someone gets to within 3 squares of the illusion’s borders, the hazard rolls
+initiative. On its turn, the creepers reach out and try to pull the victim, an
+attack against AC that deals no damage and pulls the target 2 squares. This can
+target up to three creatures, so it not being an opportunity attack is actually
+an advantage. There’s enough time for multiple victims to approach the sweet,
+sweet illusion.&lt;/p&gt;
+
+&lt;p&gt;If a character starts their turn adjacent to the actual creeper squares, they’re
+targetted by an opportunity action that attacks their Fortitude and, on a hit,
+weakens and inflicts ongoing 10 necrotic damage (save ends). On a miss, it deals
+5 necrotic damage.&lt;/p&gt;
+
+&lt;p&gt;If you can’t pierce the illusion or staying away is not an option, you can
+destroy the false oasis with violence (105 HP, vulnerable 15 radiant).&lt;/p&gt;
+
+&lt;h3 id=&quot;dust-funnel-level-15-blaster&quot;&gt;Dust Funnel (Level 15 Blaster)&lt;/h3&gt;
+
+&lt;p&gt;A tornado, more or less.&lt;/p&gt;
+
+&lt;p&gt;Roll Initiative for the hazard when combat starts, and choose a square on the
+battle map. On its first turn, the dust funnel manifests in a Close Burst 2
+around that square, and takes up that much space.&lt;/p&gt;
+
+&lt;p&gt;A Perception or an easier Nature test can identify this spot as the forces build
+up, before the funnel manifests.&lt;/p&gt;
+
+&lt;p&gt;On its turns, the funnel moves 1d10 squares and makes an attack against anyone
+who happens to be in its area. On a hit, it damages, knocks prone, and
+immobilizes its targets (save ends). Until the target passes a save, they get
+dragged along with the funnel whenever it moves. Of course, targets who get
+dragged along will suffer the attack again next turn, since they will be in
+reach of it.&lt;/p&gt;
+
+&lt;p&gt;Imagine if this thing manages to grab &lt;em&gt;every other combatant&lt;/em&gt;, monsters and PCs
+alike. That’d be hilarious.&lt;/p&gt;
+
+&lt;p&gt;Characters can make a hard Nature check to figure out where the funnel will move
+in its next turn, and if they can’t escape its path they can spend a standard
+action to grab onto something and get +4 to all defenses against its next
+attack.&lt;/p&gt;
+
+&lt;h3 id=&quot;desert-glass-level-17-obstacle&quot;&gt;Desert Glass (Level 17 Obstacle)&lt;/h3&gt;
+
+&lt;p&gt;We already saw what an even mix of sand and powdered glass can do. This is a
+stretch of ground that’s mostly pure glass, in much bigger chunks. It’s super
+slippery and cuts you to ribbons if you fall.&lt;/p&gt;
+
+&lt;p&gt;The hazard covers 20 contiguous squares, in any configuration the GM wants. All
+of them are difficult terrain. If they’re not obvious, such as if there’s a
+thin layer of sand over them, they can be identified with a Perception test.&lt;/p&gt;
+
+&lt;p&gt;Anyone who enters, starts their turn, or stands up from prone on one of these
+squares takes an attack against Reflex that damages, knocks prone, and inflicts
+ongoing 10 damage (save ends). It the target was already prone, they are dazed
+for a turn instead.&lt;/p&gt;
+
+&lt;p&gt;If one or more squares of the glass are included in an area attack that has the
+cold, thunder, or force keywords, the affected squares make a Close Burst 1
+attack that deals the same amount of immediate and ongoing damage as the other
+one, and then disappear. They got shattered and blew up.&lt;/p&gt;
+
+&lt;h3 id=&quot;venomous-spines-level-21-blaster&quot;&gt;Venomous Spines (Level 21 Blaster)&lt;/h3&gt;
+
+&lt;p&gt;These are from a species of tree that grows on some of the rare jungle biomes of
+Athas. When someone gets near, the tree forcibly ejects an omni-directional
+cloud of venomous spines.&lt;/p&gt;
+
+&lt;p&gt;A Perception check can notice there’s something funny about that tree. A Nature
+check can identify it before the PCs enter its range.&lt;/p&gt;
+
+&lt;p&gt;The attack hits a Close Burst 5 around the tree, dealing heavy poison damage and
+making a secondary attack that on a hit blinds and inflicts ongoing 5 poison
+damage (save ends). On a miss, it deals half damage.&lt;/p&gt;
+
+&lt;p&gt;Someone who knows the tree is dangerous can close in without triggering it with
+an Acrobatics or Stealth check. They can then use hard Nature checks to reduce
+the size of the burst by 2 per successful check, entirely “disarming” the tree
+with the third success. I’m guessing they’re plucking the spines.&lt;/p&gt;
+
+&lt;h3 id=&quot;defiled-plain-level-24-obstacle&quot;&gt;Defiled Plain (Level 24 Obstacle)&lt;/h3&gt;
+
+&lt;p&gt;A patch of ground so thoroughly defiled it’s not just dead, it’s
+“undead”. Anyone stepping on it will have their life force drained.&lt;/p&gt;
+
+&lt;p&gt;A Perception check can tell the ground is unnatural, and an Arcana check can
+identify its danger.&lt;/p&gt;
+
+&lt;p&gt;The attack deals heavy necrotic damage and inflicts vulnerable 10 to all damage
+(save ends). The first failed save causes the target to lose a healing surge,
+and the second one makes the vulnerability &lt;em&gt;permanent&lt;/em&gt; until cured by a ritual
+like Remove Affliction. A miss deals half damage.&lt;/p&gt;
+
+&lt;p&gt;A character near or on the affected area can make a hard Arcana check to
+neutralize it for a turn. Characters without Arcane Defiling powers or abilities
+have a +2 on this test. Those who have these take a -2 instead. A preserver
+(which I assume means someone without those abilities) can choose to spend 2
+healing surges to destroy the hazard, which I guess means they can restore some
+of the place’s lost life. The book says those healing surges can only be
+regained through an extended rest, which feels redundant but I guess means no
+other trick that would normally allow an early recovery can do so.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;These hazards are generally scarier versions of the terrain we saw earlier, so
+they’re certainly appropriate for inclusion in battles taking place in that
+terrain.&lt;/p&gt;
+
+&lt;p&gt;And that’s it for the book! I hope you enjoyed the reading. I’m trying to think
+of what to do next, so any suggestions are welcome.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/12/wir-dscc-wilderness-hazards.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/12/wir-dscc-wilderness-hazards.html</guid>
+        
+        <category>dnd4</category>
+        
+        <category>lets-read</category>
+        
+        <category>dark-sun</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: A Decision</title>
@@ -1048,129 +1272,6 @@ fashions.&lt;/p&gt;
         <category>lets-read</category>
         
         <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Origin Corrections</title>
-        <description>&lt;p&gt;“Wait,” you might ask, “are you still doing this?”. Yes, I am! I have been doing
-it since shortly after the last time I talked about it, off and on, but I
-haven’t posted anything else here in the blog for entirely personal reasons that
-I should overcome any day now.&lt;/p&gt;
-
-&lt;p&gt;And we’re going to start with a little correction here, because over the course
-of my play, I’ve looked at the timelines a bit closer and the details for the
-Knight of the Deep &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;origin&lt;/a&gt; don’t make sense as written.&lt;/p&gt;
-
-&lt;p&gt;The PC arrives at Kintargo at the start of Adventure 01, which is supposed to
-last at least eight weeks or so given the pace at which the “strategic”
-rebellion turns move.&lt;/p&gt;
-
-&lt;p&gt;However, the aquatic elves that origin is concerned with rescuing are only
-captured in the final stretch of Adventure 02. Here’s the timeline as written in
-the adventure:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The elves arrive in town maybe a week or two before the day of their
-capture. This would be in the middle of Adventure 02.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They are seeking Shensen’s help with their problems back home. When they fail
-to find her, they spend some time exploring the waters around Kintargo before
-being captured by the aboleth’s minions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The day of their capture is “fuzzy” - it’s the day before the PCs first enter
-the adventure’s final dungeon. Once they do, the GM is supposed to track their
-condition over time.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The elves might starve before being rescued, and if they’re still alive after
-two weeks they’re taken back home to be dominated by the aboleth.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If we take the Knight’s current background as written, it would mean the elves
-have been captured &lt;em&gt;before Adventure 01&lt;/em&gt;. If we want the PC to have any chance
-at all to rescue the elven scouts, we either have to make the Lucky Bones delve
-the &lt;em&gt;very first thing&lt;/em&gt; the PCs do after the riot, or we have to change the
-background.&lt;/p&gt;
-
-&lt;p&gt;Doing the former is actually no trouble in Dungeon Fantasy. Starting delvers are
-already strong enough to tackle the place, you just might need to put some magic
-weapons within easy reach in the first level. If that’s what you want, just have
-Laria Longroad point them to the place directly instead of the Wasp Nest.&lt;/p&gt;
-
-&lt;p&gt;Since I have already played through the Wasp Nest storyline on my own and I
-don’t want to restart the game all the way from the beginning, though, I’m going
-to change the background.&lt;/p&gt;
-
-&lt;p&gt;Instead of being sent to rescue the scouts, the Knight will be sent in to seek
-Shensen’s aid. This gives them a stronger reason to stick with the rebellion,
-and a better clue of which path to follow in pursuit of their goals.&lt;/p&gt;
-
-&lt;p&gt;The scouts still go to Kintargo in Adventure 02, but this time they do so to
-find the Knight, who has been taking much longer than anticipated to return with
-Shensen.&lt;/p&gt;
-
-&lt;p&gt;Rules-wise, the only thing that changes is that the optional Obsession to find
-Aava becomes an Obsession to find Shensen, worth the same number of points.&lt;/p&gt;
-
-&lt;p&gt;I’ve also changed the description of the theme in the &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;original post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;pc-origin-knight-of-the-deep&quot;&gt;PC Origin: Knight of the Deep&lt;/h2&gt;
-
-&lt;p&gt;You come from one of the subaquatic communities off the coast of Ravounel, where
-you enjoy an heroic reputation. You recently went to visit your friend Aava in
-the coastal village of Acisazi, only to find the village suffering under a
-strange malaise. The village’s elder told you this was caused by a curse that
-was beyond her power to break, and begged you to seek the aid of Shensen, a
-powerful bard and priest of Sarenrae who lived in the city of Kintargo. You
-accepted.&lt;/p&gt;
-
-&lt;p&gt;You arrive at this land-lubber town to find it embroiled in a lot more trouble
-than you thought possible. Shensen is nowhere to be found. You suspect she
-vanished into the prisons of the despotic Barzilai Thrune, and your queries have
-led you to the Aria Park protest. You suspect you might need to bloody this
-human despot’s nose to fulfill your mission, and that’s just fine with you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: You must belong to a species capable of breathing underwater!
-Dungeon Fantasy 3: The Next Level contains two possible choices here: the Sea
-Elf and the Water-Infused. From this blog, you might also pick the [Argonian][2]
-or perhaps a &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;Warforged&lt;/a&gt; who has been modified to be hydrodynamic and
-Amphibious. And of course we also have a whole article about the [Denizens of
-the Sea][5] that also contains a few usable ancestries.&lt;/p&gt;
-
-&lt;p&gt;This theme is open to any profession, but martial types should probably keep in
-mind the rules for [underwater combat for fish-people][3].&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: The people of Acisazi know and trust you, and Aava is your good
-friend (or even a relative if you’re also a sea elf).&lt;/p&gt;
-
-&lt;p&gt;You can add Swimming, Aquabatics and Survival (Undersea) to your template as
-optional skills, and should probably put some points in them during character
-creation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Add Obsession (find Shensen) (12) {-5} to your template as an
-optional disadvantage. It’s what you already want to do anyway, but like the
-Last Archivist’s Obsession it might drive you to unwise actions.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/22/lphr-background-change.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/22/lphr-background-change.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>character</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
         
         
       </item>
