@@ -9,15 +9,6 @@ tags:
     - hells-rebels
 ---
 
-{::nomarkdown}
-<figure class="center">
-  <img src="{{ "/assets/zheng-qu-knight-level-up.jpg" | relative_url }}"/>
-  <figcaption>Source: <a
-  href="https://www.artstation.com/artwork/4bn5Z2">Royal Guard by Zheng Qu</a>
-  </figcaption>
-</figure>
-{:/nomarkdown}
-
 Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
 a sort of mascot by the original Silver Ravens during their early exploits. She
 was too young to go out with the Ravens on their missions, but she witnessed
@@ -38,20 +29,34 @@ to prepare herself for this. As the campaign starts, she has just caught up on
 the events and rumors of the last few days and decides to attend the Aria Park
 protest to learn more.
 
+## Description
+
+As you might have guessed from her name, Jade is inspired by Jasper Irinka, the
+Child of the Sun, one of the iconic characters from Chuubo's Marvelous Wish
+Granting Engine. I'm using Jade instead of Jasper as the name because I like it
+more - it's the name of Jasper's Mother, the Angel of the Sun.
+
+So Jade looks almost exactly like Jasper. Dark brown skin, voluminous and fiery
+red hair, green or blue eyes depending on the light. She has an athlethic build
+from all her adventuring, though her equipment is somewhat less than elegant
+at the moment. Unlike Jasper, she has only two arms at present and is unlikely
+to grow more.
+
+This name might also give you a hint about who her ancestors are in the
+Pathfinder setting.
+
 ## Build notes
 
 Jade's stats below are based on the Aristocrat archetype from GURPS Dungeon
 Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
-skills, though I removed some of the template's more classist traits. Her name
-is taken from Chuubo's Marverlous Wish-Granting Engine, where it belonged to the
-Angel of the Sun.
+skills, though I removed some of the template's more classist traits.
 
 Her being a long-lived half-spirit is mostly a story thing for now, as I didn't
 take an official template. You can use these stats for a charismatic human
 swashbuckler in some other campaign without changing any numbers. If you do want
-to emphasize her supernatural side, you can let her take the Half-Spirit traits
-with earned character points.
-
+to emphasize her supernatural side, you can let her gradually take on
+Half-Spirit traits with earned character points. That's what I intend to do
+eventually.
 
 Jade already has a +5 reaction bonus from almost everyone and an extra +3 from
 professional fighters. I'm hoping to use earned points to increase that even

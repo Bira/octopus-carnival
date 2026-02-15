@@ -14,17 +14,20 @@ underwater peoples that make their home near Ravounel. Landlubbers have no idea
 who he is, which is somewhat unfortunate for him because that's where he's
 headed for the foreseeable future.
 
-His newest quest is to search for a team of sea elf scouts from the village of
-Acisazi that made their way to the surface city of Kintargo, and then vanished
-without a trace. Their commander, Aava, was a relative of the village's leader,
-who called to him for help. Arcturus (Art to his friends) was more than happy to
-accept. It's what a hero does!
+His newest quest was given to him by the leader of the sea elf village of
+Acisazi: he is to seek the help of Shensen, the renowned bard and priestess of
+Sarenrae who lives in Kintargo. The village has been plagued by a horrible
+curse, and since Shensen is an old friend of theirs she would have both the
+willingness and the power to help them out. However, she has not answered their
+magical messages, so something might have happened to her. Time to send in an
+actual envoy to find out what happened and help Shensen out if needed. An
+excellent job for a hero of his caliber!
 
-Unfortunately his wallet was considerably leaner than his muscles, so he's more
-or less completely broke when he arrives at Kintargo. The information he manages
-to gather about the city's situation isn't all that encouraging either, with
-this new human dictator causing a pall of anger and sorrow to hang over the
-city.
+Unfortunately Arcturus' wallet was considerably leaner than his muscles, so he's
+more or less completely broke when he arrives at Kintargo. The information he
+manages to gather about the city's situation isn't all that encouraging either,
+with Shensen missing and this new human dictator causing a pall of anger and
+sorrow to hang over the city.
 
 The Atlantean wrestler isn't exactly a genius detective. His method of
 investigation can be summed by the word "vibes". Therefore, Arcturus is
@@ -32,19 +35,26 @@ absolutely sure that the shortest path to completing his quest lies in opposing
 this land-monster, which is why he's at the big protest against him at the start
 of the campaign.
 
+## Description
+
+Arcturus is an obvious expy of Aquaman from Batman: The Brave and the Bold, and
+that's exactly what he looks like. You can make his hair brown instead of blond
+if you won't want a 100% exact match, but you should still take all your
+roleplaying cues from that version of Aquaman.
+
 ## Build Notes
 
-Arcturus is an obvious expy of Aquaman from Batman: The Brave and the Bold. He's
-a mix of the Wrestler and Martial Artist archetypes. The Wrestler first appeared
-in Pyramid #3/111. Art makes extensive use of the Fantastic Dungeon Grappling
-rules, as does the campaign he's in.
+Arcturus is a mix of the Wrestler and Martial Artist archetypes. The Wrestler
+first appeared in Pyramid #3/111. Art makes extensive use of the Fantastic
+Dungeon Grappling rules, as does the campaign he's in.
 
 He's an [Atlantean][1], which means he has no problem operating underwater. His
 fighting style works well both in and out of water: grab'em, and stab'em. That
 is, inflict a reasonable bunch of Control Points onto an enemy using Wrestling,
 and then stab them with his knife while spending as many CP as possible to boost
 the knife's damage dice. If there's no time to draw the knife, the damage dice
-from CP alone should let Art twist almost any opponent like a pretzel anyway.
+from CP alone should let Art inflict some involuntary yoga on almost any
+opponent anyway.
 
 Character advancement is simple. More ST, more DR, higher combat skills, more
 attacks! Those can come from either straight up increases or Martial Artist and

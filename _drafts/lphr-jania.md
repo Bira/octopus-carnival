@@ -33,11 +33,18 @@ which she was only too happy to provide. Jania feels a genuine need to repay the
 school for her excellent education, and she also sincerely hopes that hag
 Hei-Fen dies of old age before Jania has to return to Vyre.
 
-## Notes
+## Description
 
-I had found a picture that worked very well for how I imagined Jania to look,
-but it turns out its author doesn't want their images reposted elsewhere, so
-there's no illustration here. Imagine her how you like.
+Jania's inspirations are Sucy Mondavarian from Little Witch Acacemia for the
+creepy bits, and the Great and Powerful Trixie for everything else. I imagine
+her as a blue-skinned elf with white hair and a penchant for black dresses and
+witch hats. Despite her skin tone, she's not a _sea_ elf. She's just blue. If
+your GM is strict about those things, chalk it up to an unfortunate accident
+with silver-based alchemical compounds during her school years.
+
+Yes, her entire skin is blue. That was a heck of an accident!
+
+## Notes
 
 Jania's personality has a lot of The Great and Powerful Trixie in it, with a
 dash of Lupin III and a tiny bit of Sucy thrown in. She puts up a flamboyantly
@@ -64,7 +71,7 @@ here. She should also get something expensive to act as a Power Item.
 
 **ST** 10 {0}; **DX** 14 {80}; **IQ** 14 {80}; **HT** 11 {10};
 
-Damage 1d/1d-2; Basic Lift 20 lbs.; Will 14; Per 14; HP 10 FP 11; Basic Speed
+Damage 1d/1d-2; Basic Lift 10kg.; Will 14; Per 14; HP 10 FP 11; Basic Speed
 6.25; Basic Move 6.
 
 
@@ -150,23 +157,23 @@ Damage 1d/1d-2; Basic Lift 20 lbs.; Will 14; Per 14; HP 10 FP 11; Basic Speed
 
 **Loadout**
 
-$1000, 15.765 lbs. No Encumbrance.
+$1000, 7.883kg. No Encumbrance.
 
-- Clothing; $0, 2 lb.
-- Ninja Slippers: +1 to Stealth. $100, 0.5 lb.
-- Fine Short Staff: Enchanted with Staff;  $90, 1 lb.
-- Backpack, Small; $60, 3 lb.
-  - Personal Basics; $5, 1 lb.
-  - Trap-Finder's Kit, Good; $250, 2 lb.
-  - Spy's Horn; $100, 2 lb.
-  - Canteen; $10, 1 lb.
-    - Water (1 Quart); $0, 2 lb.
-- Pouch; $10, 0.2 lb.
-  - Lockpicks; $50, 0.1 lb.
-  - 2 x Nageteppo, Flash; $80, 0.4 lb.
-  - 2 x Nageteppo, Smoke; $80, 0.4 lb.
+- Clothing; $0, 1kg.
+- Ninja Slippers: +1 to Stealth. $100, 0.25kg.
+- Fine Short Staff: Enchanted with Staff;  $90, 0.5kg.
+- Backpack, Small; $60, 1.5kg.
+  - Personal Basics; $5, 0.5kg.
+  - Trap-Finder's Kit, Good; $250, 1kg.
+  - Spy's Horn; $100, 1kg.
+  - Canteen; $10, 0.5kg.
+    - Water (1 Quart); $0, 1kg.
+- Pouch; $10, 0.1kg.
+  - Lockpicks; $50, 0.05kg.
+  - 2 x Nageteppo, Flash; $80, 0.2kg.
+  - 2 x Nageteppo, Smoke; $80, 0.2kg.
   - Coins: a quarter gold piece, 3 silvers, and 5 coppers. $165,
-    0.205 lb.
+    0.103kg.
 
 **Combat**
 
