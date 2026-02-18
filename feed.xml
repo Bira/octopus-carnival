@@ -6,9 +6,25 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Feb 2026 01:13:14 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Feb 2026 01:13:14 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Feb 2026 15:26:10 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Feb 2026 15:26:10 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels has a project page!</title>
+        <description>&lt;p&gt;It’s &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;right here&lt;/a&gt;, and you can also access it via the Projects link on the
+site’s header. Turns out I’ve already published a lot of stuff about this
+project over the years.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/18/lphr-project-page.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/18/lphr-project-page.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Wilderness Hazards</title>
@@ -1194,84 +1210,6 @@ examples to boot.&lt;/p&gt;
         <category>dark-sun</category>
         
         <category>dnd4</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Creature Catalog: Zeburon, the Iron Rider</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/wir-dscc-zeburon.png&quot;/&gt;
-  &lt;figcaption&gt;
-  Zeburon
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
-
-&lt;p&gt;Zeburon is the leader of the Black Sands Raiders, a brutal and feared bandit
-gang that hides out in the Black Sands. According to rumor they always number a
-hundred, and ride war-trained kanks to assault caravans and settlements around
-the Black Sands.&lt;/p&gt;
-
-&lt;p&gt;The Iron Rider got this title because of his signature metal helmet, which has a
-pair of prominent horns and completely conceals his face. Not even most of the
-Raiders have ever seen it - only his most trusted lieutenants (such as the
-defiler Fevik) know what he looks like.&lt;/p&gt;
-
-&lt;p&gt;And this is because Zeburon’s big secret is that he’s a tiefling. The book lists
-reasons why no one has figured it out yet, and they’re actually a little
-funny. He lacks a tail because he cut it off himself years ago. People tend to
-mistake the reddish tone of his skin for sunburns instead of natural
-pigmentation. And they think the horns are part of the helmet, when in fact
-they’re poking through a pair of holes in it.&lt;/p&gt;
-
-&lt;p&gt;Zeburon hides his true nature from the rank and file of his gang because he’s
-afraid of how they’d react if they found out. Given bigotry is never in short
-supply around Athas, I’m guessing the answer is “not well”. And being a fearsome
-individual warrior is not very helpful if about ninety guys on war kanks decide
-they want you dead and charge you all at once.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;Zeburon is a Level 12 Elite Soldier with 246 HP. He has a ground speed of 6,
-low-light vision, and Resist Fire 10.&lt;/p&gt;
-
-&lt;p&gt;All of his attacks deal bonus damage against bloodied targets due to his
-&lt;strong&gt;Bloody Violence&lt;/strong&gt; trait. He fights with a &lt;strong&gt;Bastard Sword&lt;/strong&gt; that can make
-standard basic attacks and be used in a &lt;strong&gt;Wild Bloodletting&lt;/strong&gt; maneuver,
-attacking a Close Burst 1. A hit deals damage, slows the target, and inflicts
-ongoing 10 damage (save ends both). This recharges when he’s first bloodied.&lt;/p&gt;
-
-&lt;p&gt;As a minor action he can use his &lt;strong&gt;Iron Fist&lt;/strong&gt; (metal gauntlet!) to make another
-attack, which does the same damage as the sword, and immobilizes for a turn.&lt;/p&gt;
-
-&lt;p&gt;Finally, he has the tiefling &lt;strong&gt;Infernal Wrath&lt;/strong&gt; power which, when used, gives
-him a bonus to attacks and damage against any enemy that hit him since the end
-of his last turn. This lasts for a turn or until he hits an enemy.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-final-impressions&quot;&gt;Encounters and Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;A fight against Zeburon will also include a sizable contingent of Black Sands
-Raiders, as well as his best buddy and top lieutenant Fevik the Defiler. Plus
-any amount of kank mounts you deem necessary. It will likely come after the PCs
-have fought multiple encounters against the raiders, too.&lt;/p&gt;
-
-&lt;p&gt;I’m pretty sure I’ve seen someone a lot like Zeburon in one of the many Brom
-illustrations for DS: muscles, leather straps, face-concealing horned helmet,
-menacing pose.  I haven’t read any older DS material to know whether he’s
-someone from the old days, or if he’s new and just likes following local
-fashions.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/24/wir-dscc-zeburon.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/24/wir-dscc-zeburon.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
         
         
       </item>
