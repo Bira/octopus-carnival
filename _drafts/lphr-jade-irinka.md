@@ -137,14 +137,8 @@ Assumes no encumbrance.
   - Backsword (20): 1d+4 cut or 1d+2 imp, Reach 1.
   - Hilt Punch (15): 1d-1 cr, Reach C.
 
-## Character Sheet
-
-If you use GURPS Character Sheet to manage PCs, you can download Jade's file
-[here][2].
-
 [^1]: +1 from Combat Reflexes
 [^2]: +3 from Born War Leader
 [^3]: +2 from Charisma
 
 [1]: {{ "/2024/08/30/lphr-player-characters.html" | relative_url }}
-[2]: {{ "/assets/Urist.gcs" | relative_url }}

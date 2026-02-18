@@ -50,6 +50,12 @@ In which I read a book or series of books and commentate on their content.
   reading the Dark Sun Campaign Setting, and I decided to do a parallel reading
   of the Creature Catalog.
 
+## Let's Play!
+
+In which I play games and tell you about it.
+
+- [Let's Play Hell's Rebels!][12]: A solo campaign, using GURPS.
+
 ## Ready-to-Play Characters
 
 - [Pathfinder Iconics in Dungeon Fantasy][2]: A group of Pathfinder's Iconics
@@ -72,3 +78,4 @@ posts in order. Enjoy!
 [9]: {{ "/projects/tnv/" | relative_url }}
 [10]: {{ "/projects/neverwinter/" | relative_url }}
 [11]: {{ "/projects/dscc/" | relative_url }}
+[12]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
