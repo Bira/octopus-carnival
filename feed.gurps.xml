@@ -5,9 +5,100 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Feb 2026 15:26:10 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Feb 2026 15:26:10 +0000</lastBuildDate>
+    <pubDate>Fri, 20 Feb 2026 16:23:12 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Feb 2026 16:23:12 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Review: GURPS Gun Stats</title>
+        <description>&lt;p&gt;Imagine the following situation: you want to feature a certain gun in your
+campaign, but you want to do it “properly”. You’re not the kind of GM who would
+feel good about just tossing some random numbers in there.&lt;/p&gt;
+
+&lt;p&gt;The weapon in question is not in any of your books, and it’s different enough
+from the ones that are that you can’t just reskin an existing gun. That’d be the
+same as using random numbers.&lt;/p&gt;
+
+&lt;p&gt;If the story above resonated with you, then you’ll love GURPS Gun Stats. It
+gives you an official system to write up GURPS 4th Edition stats for guns
+starting from their real world data. If the lack of these rules stopped you
+before, you’ll love this book.&lt;/p&gt;
+
+&lt;p&gt;Sure, players who were really into statting up guns might already have been
+doing this for years by either building them using the rules from GURPS Vehicles
+for 3rd edition, or by using a &lt;a href=&quot;https://gamingballistic.com/2022/04/11/old-ballistics-spreadsheet-a-repost/&quot;&gt;very scary unofficial spreadsheet&lt;/a&gt; cooked up
+by Douglas Cole for his own use. Gun Stats is still useful for them, as it’s
+much simpler than the spreadsheet.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;/h2&gt;
+
+&lt;p&gt;One thing I found nifty about the book is that it’s more than a collection of
+formulas. It has some instruction on how to actually do the research to get that
+real-life gun data, and a little checklist. You’ll need things like the empty
+weight, barrel length and overall length of the gun itself; the weight and
+dimensions of its projectile and of the whole cartridge; and how much propellant
+it uses per shot.&lt;/p&gt;
+
+&lt;p&gt;Some of those stats (like the weights and costs) can be written straight into
+the stat sheet, while others are used in relatively simple equations to derive
+stuff like damage, Accuracy, and range.&lt;/p&gt;
+
+&lt;p&gt;And that’s it. While those simple calculations can still be a little intense
+they’ll get you the results you want.&lt;/p&gt;
+
+&lt;p&gt;At the end of the book you have a printable checklist for your own research, and
+three example weapons: a French anti-material rifle, a 19th-century 6-pounder
+cannon, and the gun on the M1A2 Abrams tank.&lt;/p&gt;
+
+&lt;h2 id=&quot;caveats-and-annoyances&quot;&gt;Caveats and Annoyances&lt;/h2&gt;
+
+&lt;p&gt;The book works best when dealing with historical or modern guns that have ample
+information available to the public, whether in Wikipedia, more specialized
+sites, or even sales brochures. The less information is available for a specific
+weapon, the more you’ll have to guesstimate when filling your checklist.&lt;/p&gt;
+
+&lt;p&gt;You can already see this with the Abrams tank gun here. Recent data about it and
+its ammunition is classified, so they either use Gulf War-era information or
+just make educated guesses about some of its measurements.&lt;/p&gt;
+
+&lt;p&gt;Fictional guns will often be harder, because they very often lack a lot of
+measurements entirely, as those weren’t necessary to tell the story. You’ll have
+to come up with those yourself, or maybe go looking for the work of other fans
+who have already spent a ton of time doing exactly that.&lt;/p&gt;
+
+&lt;p&gt;This is all perfectly doable, but presumably you wanted this book because you
+didn’t want to guess all the numbers. On the other hand, doing this will give
+you a pretty good ideas of the ways in which this or that fictional weapon is
+unrealistic.&lt;/p&gt;
+
+&lt;p&gt;A final annoyance for me specifically: like all other GURPS books, this one uses
+Imperial measurements exclusively for its calculations. Yes, even though modern
+gun data is often presented in metric. You gotta convert all of that to feet,
+pounds, and inches before doing the work, which is doubly annoying to me because
+I’m going to convert a lot of that right back for the final writeups.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
+
+&lt;p&gt;GURPS Gun Stats gives me the same impression as a classical UNIX or Linux
+command line tool. It’s designed to do one job, it does that job pretty well
+despite some usability issues, and it has a lot of options that can be difficult
+to remember without looking at the documentation.&lt;/p&gt;
+
+&lt;p&gt;If you need to do that job, this is the tool for you, and the learning curve is
+worth it. If you’re happy to just toss some eyeballed stats onto a table and
+call it a day, then you can skip it.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/20/review-gurps-gun-stats.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/20/review-gurps-gun-stats.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>review</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels has a project page!</title>
@@ -2022,302 +2113,6 @@ of the last adventure in the campaign.&lt;/p&gt;
         <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2024/11/06/hells-rebels-04-part-03.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/11/06/hells-rebels-04-part-03.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>pathfinder</category>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Hell&apos;s Rebels: Adventure 04, Part 02</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/hells-rebels&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;Before I launch into a description of the big dungeon raid in this adventure, I
-think it’s useful to go over some background information.&lt;/p&gt;
-
-&lt;h2 id=&quot;barzilais-desperation-move&quot;&gt;Barzilai’s Desperation Move&lt;/h2&gt;
-
-&lt;p&gt;As we say back in the background for Adventure 01, Barzilai’s scheme to become a
-genius loci will only work exactly as planned if he dies a natural death from
-old age. So he very much wants to keep on living.&lt;/p&gt;
-
-&lt;p&gt;As soon as he sees he’s lost the upper hand in the rebellion (at Authority 0),
-the dictator will turtle up in the Temple of Asmodeus, and will order its high
-priest to enact a ritual to contact Mephistopheles directly. The ritual takes
-three days and a lot of sacrifices to complete, and when it does Mephistopheles
-answers by sending &lt;em&gt;six pit fiends&lt;/em&gt; to serve Barzilai and by giving him and all
-his underlings a major boost in stats that’s going to last for a whole month. So
-you can see why the PCs should be very interested in stopping this. This is why
-the final part of this adventure is an assault on the temple.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-song-of-silver&quot;&gt;The Song of Silver&lt;/h2&gt;
-
-&lt;p&gt;Fortunately, after completing all the missions in Part 01 of this adventure, the
-PCs should have eliminated some of Barzilai’s main goons and acquired everything
-they need to perform the Song of Silver: the score, the lyrics, and control of
-the Opera House.&lt;/p&gt;
-
-&lt;p&gt;The Song of Silver is a ritual developed by the original Silver Ravens. It must
-be performed on stage at the Kintargo Opera House, though it doesn’t really
-require an audience beyond the PCs and maybe some of their main allies. It’s
-short, taking only one minute to sing, and requires a skill test that should by
-now be trivial for any bard in the party. Shensen can also sing it if there are
-no PCs trained in Performance.&lt;/p&gt;
-
-&lt;p&gt;As soon as it completes, the dome of the opera house shines with a bright light
-and the whole city is enveloped in a protective field that lasts for seven
-days. While it’s active, all weapons in the city count as being made of silver,
-and all evil outsiders must succeed at a moderately difficult caster level check
-to teleport or use similar abilities. The performer, every other PC, and up to
-four additional allies also gain a major bonus on saves against charm and
-compulsion effects, and become completely immune to fear. They can choose to end
-this blessing to automatically pass a save, or to gain the effects of the
-&lt;em&gt;breath of life&lt;/em&gt; spell (which yes, can return them to life if they die).&lt;/p&gt;
-
-&lt;p&gt;The song can only be performed once a month - the PCs should ideally only need
-to perform it once in this adventure. When it’s performed for the first time,
-Barzilai’s Authority is reduced by 15 if that’s still an issue. It would be
-optimal if the PCs went into the Temple while under the effects of the Song, as
-it makes the assault much easier.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-temple-of-asmodeus&quot;&gt;The Temple of Asmodeus&lt;/h2&gt;
-
-&lt;p&gt;The temple is a very large round building. It used to be dedicated to Aroden but
-was converted to the worship of Asmodeus when House Thrune took over
-Kintargo. The Asmodeans sacrificed all the remaining priests of the dead god
-back then, turning them into undead that hang around the temple and help defend
-it. In addition to this atrocious contingent, the place is as heavily fortified
-as its current occupants could make it.&lt;/p&gt;
-
-&lt;p&gt;As mentioned earlier, when Thrune’s forces retreat to the temple its Asmodean
-priests will begin a summoning ritual that will mean Game Over for the
-rebellion. This takes 3 days to complete, so that’s the window of time the PCs
-have to stop it. You should definitely inform them of this.&lt;/p&gt;
-
-&lt;p&gt;PCs can use rebellion actions to make their assault on the temple easier. These
-require DC 30 Secrecy checks, so if you haven’t been tracking the Rebellion
-rules so far, that’s where the PCs should put their +15. Their actions during
-the previous missions will gain them allies that will further help with
-this. One of the actions gives them a nearly complete map of the temple. The
-other sabotages the ritual, making it take 6 days instead of 3, penalizing its
-divine spellcasters (they’re demoralized!) and even reducing the frequency with
-which the temple bells ring (see below).&lt;/p&gt;
-
-&lt;h3 id=&quot;raiding-the-temple&quot;&gt;Raiding the Temple&lt;/h3&gt;
-
-&lt;p&gt;The Temple of Asmodeus is a huuuge dungeon, and detailing every one of its rooms
-would be a bigger slog than raiding the place in play. So let’s take a more
-concise approach.&lt;/p&gt;
-
-&lt;p&gt;The party has two main goals when raiding the temple: disrupt the infernal
-ritual, and disable the cursed bells that are the temple’s main defense. This
-will break the remaining morale of the Thrune leadership, and cause them to flee
-the city.&lt;/p&gt;
-
-&lt;p&gt;The first thing is to get inside. There are three double doors on the temple’s
-ground floor and a balcony with another double door on the second floor. All
-four are protected by a magical trap that can teleport a PC straight to Hell
-unless it’s disarmed or dispelled first by the usual means.&lt;/p&gt;
-
-&lt;p&gt;The ground floor doors lead to empty foyer areas from which the PCs can either
-go to the central nave or through doors into a series of small side rooms. The
-balcony door leads directly into the rooms in the second floor loft.&lt;/p&gt;
-
-&lt;p&gt;As soon as the PCs enter, they must contend with some temple-wide magical
-defenses. There’s an effect similar to the Unhallow spell which is powered by a
-pair of “infernal engines”. These engines also maintain a series of more
-localized magical hazards inside the temple.&lt;/p&gt;
-
-&lt;p&gt;After every fight in here, the bells gather 1d6 power points (1d4 if the ritual
-was disrupted). When they reach 10 they ring, which inflicts a random bad effect
-on the PCs. The Song of Silver can help resist some of them, but the only way to
-stop the bells is to reach the belfry and exorcise them.&lt;/p&gt;
-
-&lt;p&gt;The ritual is happening in the nave on the center of the ground floor, but going
-there directly is suicidal. The enemies at that location are not only a hard
-encounter, they can also issue a general alert that will draw many of the
-temple’s other defenders there.&lt;/p&gt;
-
-&lt;p&gt;The optimal route would be to enter through the balcony, which puts the PCs on
-the second floor loft where they can head more or less directly to the infernal
-engines. This is something they should be able to figure out if they get the
-full map through a covert action.&lt;/p&gt;
-
-&lt;p&gt;Each engine is a magic circle carved on the stone floor with an imprisoned
-outsider inside. The circle slowly drains the outsider’s life force and uses it
-to power the temple’s security system. Disabling them requires either expert use
-of Thief skills, damaging the (very tough) floor carving, or killing the “fuel
-source”. One holds a rakshasa, the other a lillend azata. Both have a high
-number of negative levels and will gladly join in as temporary allies if those
-are restored, despite their opposite alignments.&lt;/p&gt;
-
-&lt;p&gt;With the engines disabled, it’s time to take care of the reinforcements. The
-dragon Rivozair has most likely been defeated before the PCs make it into the
-temple, but if that didn’t happen for some reason she will be in her lair here
-on the second floor. She will join in to defend the ritual unless she’s defeated
-first. In either case her hoard will be here, which is something to keep in mind
-for after the dungeon is cleared.&lt;/p&gt;
-
-&lt;p&gt;The rest of the reinforcements are in the side rooms on the ground floor. Most
-of these rooms are used in the temple’s day to day activities and populated
-either by the people and monsters responsible for those activities, or by
-assigned defenders. Many of these would respond to a general alarm, but none of
-them can raise one. Individually, each room is a medium-to-easy encounter, made
-a bit easier by the fact that the engines are already off.&lt;/p&gt;
-
-&lt;p&gt;With the reinforcements neutralized and the engines disabled, it’s finally time
-to assault the ritual. The team performing it can stop for long enough to put up
-a fight: that’s High Priest Grivenner, five lower-ranking clerics, and five
-summoned devils. Also in the room is a vampire high priestess of Zon-Kuthon (the
-shadow-and-torture god) acting as a bodyguard, and a fiendish-shadow-snake thing
-that will become a lot weaker with the infernal engines disabled.&lt;/p&gt;
-
-&lt;p&gt;It’s still a tough fight, but much more manageable without additional enemy
-waves or magic hazards. Theoretically there are several ways to disrupt the
-ritual, but “killing everyone involved” is probably the best one.&lt;/p&gt;
-
-&lt;h3 id=&quot;optional-goal-kill-thrune&quot;&gt;Optional Goal: Kill Thrune&lt;/h3&gt;
-
-&lt;p&gt;This is the first time in the whole adventure path where the books recognize the
-PCs might be able to fight Thrune and win. He’s holed up in his inner sanctum on
-the second floor, though exceptionally stealthy PCs might be able to catch him
-sleeping in his room. He’s a tough fight on par with the other boss battles in
-this dungeon, but he’s definitely defeatable.&lt;/p&gt;
-
-&lt;p&gt;The problem is he’s nearly &lt;em&gt;unkillable&lt;/em&gt;. The same infernal pact that lets him
-survive without a heart also make him supernaturally resilient to HP damage. He
-can keep operating normally until reduced from 206 all the way to -24 HP, after
-which he becomes stunned. The stun only clears if he’s healed to above -24 HP,
-but he does have access to a class ability that gives him fast healing and he
-uses that at the start of every fight.&lt;/p&gt;
-
-&lt;p&gt;There are two ways to kill him for real: total bodily destruction, or a certain
-set of insta-death or soul-trapping spells.&lt;/p&gt;
-
-&lt;p&gt;The first happens “naturally” if you get him to -191 HP (!) via standard damage
-sources, basically turning his body into hamburger. It also happens if you hit
-him with Destruction or Disintegrate spells when he’s below -24.&lt;/p&gt;
-
-&lt;p&gt;The second consists of spells like &lt;em&gt;flesh to stone&lt;/em&gt;, &lt;em&gt;soul jar&lt;/em&gt;, and other such
-magic that bypasses damage reduction. This triggers a clause in his infernal
-contract that kills him instantly to prevent capture.&lt;/p&gt;
-
-&lt;p&gt;Killing Barzilai here will prevent a later battle with him and will give the PCs
-early access to a vital plot coupon, but it’s perfectly possible to bypass the
-guy entirely. Given what awaits the PCs in the belfry, avoiding Thrune to
-preserve resources is an equally valid choice as killing him early.&lt;/p&gt;
-
-&lt;h3 id=&quot;raiding-the-profane-belfry&quot;&gt;Raiding the Profane Belfry&lt;/h3&gt;
-
-&lt;p&gt;The dungeon is set up so that this is the last thing you do regardless of the
-path you took through the Temple. It’s not an optional goal, and it’s no simple
-victory lap either - it’s the &lt;em&gt;real&lt;/em&gt; final boss fight for the Temple of
-Asmodeus.&lt;/p&gt;
-
-&lt;p&gt;The belfry can only be accessed via the hole on the roof of the nave, which only
-“unlocks” once both infernal engines have been deactivated. There are no
-stairs - you need flight or teleport magic to get there. A couple of magical
-traps lie in wait just past the lip of the hole. And then there are the
-guardians: four powerful undead with an even stronger leader, all former priests
-of Aroden.&lt;/p&gt;
-
-&lt;p&gt;The leader can and will ring one of the bells with his mind as a free action
-every round, causing an effect much more powerful than the ones the party has
-been experiencing so far. A Silence spell will prevent this, but will also
-prevent the PCs from casting most spells too.&lt;/p&gt;
-
-&lt;h3 id=&quot;hells-bells&quot;&gt;Hell’s Bells&lt;/h3&gt;
-
-&lt;p&gt;Once all guardians are destroyed, it’s time to exorcise the bells. The procedure
-for this is quite elaborate and it’s definitely something I’d allow the PCs to
-easily find out via prior research, because if they find themselves unprepared
-here the whole raid was for nothing. They’re going to need to at least one
-scroll of Hallow and five of Dispel Evil, though I’d also recommend multiple
-spares for each one. Preparing these spells also works, of course, but it eats
-into the number of slots they have available for the fights in the temple.&lt;/p&gt;
-
-&lt;p&gt;Steps 1 and 2 are disabling the infernal engines and killing the guardians. Done
-and done.&lt;/p&gt;
-
-&lt;p&gt;Step 3 is casting a Hallow spell on the belfry, or a Consecrate spell on each
-of the five bells.&lt;/p&gt;
-
-&lt;p&gt;Step 4 is drumming the chorus to the Song of Silver on one of the bells, which
-requires a trivial Performance check.&lt;/p&gt;
-
-&lt;p&gt;Step 5 is casting Dispel Evil on the same bell within a minute of drumming the
-chorus on it. This causes the bell to begin glowing. A PC must then touch the
-bell within 3 rounds (18 seconds). This will plunge the PC into a semi-real
-vision related to the bell’s nature, and if the PC can endure and overcome the
-vision, the bell is exorcised.&lt;/p&gt;
-
-&lt;p&gt;Failure to perform the song’s chorus, to enter the vision in time, or to
-overcome the vision causes the bell to ring a discordant note that dispels the
-Hallow effect and possibly summons a devil. The PCs must fight the monster and
-begin the process anew from step 3.&lt;/p&gt;
-
-&lt;p&gt;For each vision, the GM describes the scene, lets the player describe their PCs
-reaction to it, and then asks for a roll to overcome the ordeal. Good
-roleplaying on the part of the PC can give a +5 on the roll. Success exorcises
-the bell, failure deals ability drain and resets the procedure as above. The GM
-should tailor the vision to the PC. Here’s a summary of the visions and their
-tests:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bell of Torments&lt;/strong&gt;: The PC is being tormented in Hell by an enemy that
-particularly vexed them in the past. After a while they realize they are holding
-their favorite weapon, and can strike at their tormentor. &lt;em&gt;Test&lt;/em&gt;: Attack roll
-vs. AC 28.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bell of Slaves&lt;/strong&gt;: The PC is enslaved to a cruel master (someone who lorded
-over them in the past), working on a grueling task. They must either tough it
-out, escape their bonds, or stand up to their overlord. &lt;em&gt;Test&lt;/em&gt;: Player’s choice
-of Fort, Ref, or Will vs. DC 21.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bell of Pride&lt;/strong&gt;: The PC is called before one of the gods to display their
-skill or craft. Failing the test turns the vision into one of
-humiliation. &lt;em&gt;Test&lt;/em&gt;: A Craft, Perform, or Knowledge skill test vs. DC 30.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bell of Tyrants&lt;/strong&gt;: The PC is the defendant in a trial where Barzilai is the
-judge, and the PC’s friends and allies jeer at them from the crowd. The PC must
-mound a successful defense. At the end of the trial, the crowd riots; on a
-success, they tear the judge apart, on a failure they do it to the PC. &lt;em&gt;Test&lt;/em&gt;:
-A social skill vs. DC 30.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Bell of Infernal Darkness&lt;/strong&gt;: The PC is sharing a happy moment with a loved
-one, when suddenly the &lt;em&gt;entire world&lt;/em&gt; becomes a giant Barzilai Thrune with a
-black hole where his heart should be. The PC must lead the loved one away from
-danger through a shifting surreal landscape. &lt;em&gt;Test&lt;/em&gt;: A movement skill
-vs. DC 30.&lt;/p&gt;
-
-&lt;p&gt;These tests seem to be calibrated so that only the PC most specialized in that
-skill has a decent chance of success, so unless the GM is very cruel I’d
-recommend giving advance warning that a different PC must touch each bell and
-throwing the PC in question straight into the vision they are most likely to
-overcome.&lt;/p&gt;
-
-&lt;h3 id=&quot;concluding-the-raid&quot;&gt;Concluding the Raid&lt;/h3&gt;
-
-&lt;p&gt;Once all bells have been properly exorcised, the temple can be considered
-cleared. Any remaining defenders, including Barzilai himself, either flee or get
-banished back to hell if they were summoned creatures. The party has some time
-to finish looting the temple as well.&lt;/p&gt;
-
-&lt;p&gt;We’ll look at what happens after they leave in the next post.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/10/22/hells-rebels-04-part-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/10/22/hells-rebels-04-part-02.html</guid>
         
         <category>lets-read</category>
         
