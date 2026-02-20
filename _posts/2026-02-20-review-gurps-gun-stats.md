@@ -29,9 +29,9 @@ much simpler than the spreadsheet.
 
 This is a typical Warehouse 23 PDF. All black and white, with the by now
 classical GURPS two-column layout combined with the usual excellent table of
-contents and index. Its written by David Pulver with additional
-material by S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of
-quality in itself when it comes to gun-nut material in GURPS.
+contents and index. Its written by David Pulver with additional material by
+S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of quality in
+itself when it comes to gun-nut material in GURPS.
 
 The interior art is mostly a mix of illustrations clearly based on photos or 3D
 models with a weird "acid etching" surface filter applied to them to unify the
