@@ -15,7 +15,7 @@ who he is, which is somewhat unfortunate for him because that's where he's
 headed for the foreseeable future.
 
 His newest quest was given to him by the leader of the sea elf village of
-Acisazi: he is to seek the help of Shensen, the renowned bard and priestess of
+Acisazi: he is to seek the help of Shensen, the famous singer and priestess of
 Sarenrae who lives in Kintargo. The village has been plagued by a horrible
 curse, and since Shensen is an old friend of theirs she would have both the
 willingness and the power to help them out. However, she has not answered their
