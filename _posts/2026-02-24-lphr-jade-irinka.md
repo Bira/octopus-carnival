@@ -9,6 +9,8 @@ tags:
     - hells-rebels
 ---
 
+One of the player characters for my [solo Hell's Rebels campaign][2].
+
 Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
 a sort of mascot by the original Silver Ravens during their early exploits. She
 was too young to go out with the Ravens on their missions, but she witnessed
@@ -142,3 +144,4 @@ Assumes no encumbrance.
 [^3]: +2 from Charisma
 
 [1]: {{ "/2024/08/30/lphr-player-characters.html" | relative_url }}
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
