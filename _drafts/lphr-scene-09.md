@@ -60,6 +60,8 @@ the Pathfinder rules. I'll read those and make changes later.
   - As usual, multiply all gp amounts by 5 for the amount in GURPS dollars.
   - XP awards gift a flat 15 character points.
   - Training awards let you put 4 character points towards any skill.
+  - Each title grants one level of Reputation (all the time, everyone but Thrune
+    supporters) at 3 points/level.
 
 - Officers:
   - Officers can use some of their skills as Complementary Skills for

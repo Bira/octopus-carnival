@@ -14,7 +14,7 @@ We mark a step on Get Organized, and will consider that done once we have moved
 to a permanent base. And let's give 1 CP to everyone for it. Rosalia gets a step
 in her Find Shensen quest, because last mission advanced this a bit. I know they
 already got another CP out of the associated challenge, but let's give them
-anothero ne for the step.
+another one for the step.
 
 **Threads**
 
@@ -269,11 +269,11 @@ them can be used in the next Activity phase. It makes sense for these to be the
 Crow Sisters and our newly-hired Sneaks. And this is actually super bad for our
 rebellion!
 
-One of our Officers can make a
-social skill test to mitigate this and end the rivalry before it can do damage
-to our operations. I'll say it's a **Leadership** issue, and that **Diplomacy**
-or **Intimidation** can act as complimentary skills here. This is an event, so
-our sentinel Jade is going to handle it.
+One of our Officers can make a social skill test to mitigate this and end the
+rivalry before it can do damage to our operations. I'll say it's a
+**Leadership** issue, and that **Diplomacy** or **Intimidation** can act as
+complimentary skills here. This is an event, so our sentinel Jade is going to
+handle it.
 
 I'm going to say the check is at -2, but Jade has Leadership-17 so we're still
 doing pretty well here. We succeed, the event is mitigated, and the doubling of
