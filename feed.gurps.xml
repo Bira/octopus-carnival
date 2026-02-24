@@ -5,9 +5,190 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2026 16:36:35 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 16:36:35 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 15:46:24 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 15:46:24 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Jade Irinka, the Sixth Raven</title>
+        <description>&lt;p&gt;Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
+a sort of mascot by the original Silver Ravens during their early exploits. She
+was too young to go out with the Ravens on their missions, but she witnessed
+their results and listened to their stories with rapt attention. Jackdaw,
+knowing victory would be uncertain in the final Thrune invasion, sent her away
+from the city with other non-combatant friends, hoping they would be able to
+come back once the fighting was over.&lt;/p&gt;
+
+&lt;p&gt;Things didn’t turn out well, and Jade never got the chance to return. She aged
+slowly but eventually reached maturity and set out to follow on the footsteps of
+her heroes. Her natural charisma and skill with the sword let her achieve some
+small measure of renown around the Inner Sea as an heroic adventurer.&lt;/p&gt;
+
+&lt;p&gt;Recent news from Cheliax convinced Jade it’s finally time to return home and
+take up the Ravens’ fight. She doesn’t remember many details about those days,
+but she’s confident she will find a way. Everything she’s done so far has been
+to prepare herself for this. As the campaign starts, she has just caught up on
+the events and rumors of the last few days and decides to attend the Aria Park
+protest to learn more.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;As you might have guessed from her name, Jade is inspired by Jasper Irinka, the
+Child of the Sun, one of the iconic characters from Chuubo’s Marvelous Wish
+Granting Engine. I’m using Jade instead of Jasper as the name because I like it
+more - it’s the name of Jasper’s Mother, the Angel of the Sun.&lt;/p&gt;
+
+&lt;p&gt;So Jade looks almost exactly like Jasper. Dark brown skin, voluminous and fiery
+red hair, green or blue eyes depending on the light. She has an athlethic build
+from all her adventuring, though her equipment is somewhat less than elegant
+at the moment. Unlike Jasper, she has only two arms at present and is unlikely
+to grow more.&lt;/p&gt;
+
+&lt;p&gt;This name might also give you a hint about who her ancestors are in the
+Pathfinder setting.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-notes&quot;&gt;Build notes&lt;/h2&gt;
+
+&lt;p&gt;Jade’s stats below are based on the Aristocrat archetype from GURPS Dungeon
+Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
+skills, though I removed some of the template’s more classist traits.&lt;/p&gt;
+
+&lt;p&gt;Her being a long-lived half-spirit is mostly a story thing for now, as I didn’t
+take an official template. You can use these stats for a charismatic human
+swashbuckler in some other campaign without changing any numbers. If you do want
+to emphasize her supernatural side, you can let her gradually take on
+Half-Spirit traits with earned character points. That’s what I intend to do
+eventually.&lt;/p&gt;
+
+&lt;p&gt;Jade already has a +5 reaction bonus from almost everyone and an extra +3 from
+professional fighters. I’m hoping to use earned points to increase that even
+further, maxing out her Charisma, Born War-Leader talent, and perhaps even
+Appearance. She’s going to be the public face of the rebellion, after
+all. Holiness and its attendant powers are also not out of the question in the
+future, as they’d make her even better at fighting demons.&lt;/p&gt;
+
+&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 11 {10}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d-1/1d+1; Basic Lift 12.1kg; HP 11; Will 12; Per 12; FP 12; Basic Speed 7;
+Basic Move 7;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ambidexterity {5}&lt;/li&gt;
+  &lt;li&gt;Appearance (Impressive) {12}&lt;/li&gt;
+  &lt;li&gt;Born War Leader 3 {15}&lt;/li&gt;
+  &lt;li&gt;Charisma 2 {10}&lt;/li&gt;
+  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
+  &lt;li&gt;Luck {15}&lt;/li&gt;
+  &lt;li&gt;Weapon Master (Backsword) {-20}&lt;/li&gt;
+  &lt;li&gt;Weapon Adaptation (Broadsword to Saber) {1}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code of Honor (Soldier’s) {-10}&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.html&quot;&gt;Enemies (Monster of the Week)&lt;/a&gt; (9-) {-15}&lt;/li&gt;
+  &lt;li&gt;Pacifism: Cannot Harm Innocents {-10}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+  &lt;li&gt;Vow (Never refuse a challenge to combat) {-10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acrobatics (H) DX-1 {2} - 14&lt;/li&gt;
+  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) (E) DX+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Gesture (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Guns (Pistol) (E) DX+1 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Jumping (E) DX {1} - 15&lt;/li&gt;
+  &lt;li&gt;Leadership (A) IQ+4 {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Public Speaking (A) IQ+1 {1}&lt;sup id=&quot;fnref:3:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
+  &lt;li&gt;Saber (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Strategy (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Tactics (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Wrestling (A) DX-1 {1} - 14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;$1000, 11.41kg. No encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ordinary Clothing: Free; 1kg.&lt;/li&gt;
+  &lt;li&gt;Backsword: Basket hilt gives DR 4 to the hand and allows a Hilt Punch. $550,
+1.5kg.&lt;/li&gt;
+  &lt;li&gt;Pouch: Fits 1.5kg of small items. $10, 0.1kg.
+    &lt;ul&gt;
+      &lt;li&gt;Coins: 8 silvers, 23 coppers. $183, 0.31kg.&lt;/li&gt;
+      &lt;li&gt;Minor Healing Potion: Heals 1d HP. $120, 0.25kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Light Cloth Armor Suit: DR 1 to all locations except the head. $137, 8.25kg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assumes no encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 11&lt;/li&gt;
+      &lt;li&gt;Parry: 14F (sword), 11 (Unarmed, DX)&lt;/li&gt;
+      &lt;li&gt;DR: 2 on skull, 0 on eyes, 5 in sword hand, 1 everywhere else.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Backsword (20): 1d+4 cut or 1d+2 imp, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Hilt Punch (15): 1d-1 cr, Reach C.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+1 from Combat Reflexes &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+3 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+2 from Charisma &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Review: GURPS Gun Stats</title>
@@ -34,9 +215,9 @@ much simpler than the spreadsheet.&lt;/p&gt;
 
 &lt;p&gt;This is a typical Warehouse 23 PDF. All black and white, with the by now
 classical GURPS two-column layout combined with the usual excellent table of
-contents and index. Its written by David Pulver with additional
-material by S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of
-quality in itself when it comes to gun-nut material in GURPS.&lt;/p&gt;
+contents and index. Its written by David Pulver with additional material by
+S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of quality in
+itself when it comes to gun-nut material in GURPS.&lt;/p&gt;
 
 &lt;p&gt;The interior art is mostly a mix of illustrations clearly based on photos or 3D
 models with a weird “acid etching” surface filter applied to them to unify the
@@ -1957,186 +2138,6 @@ that. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&q
         <pubDate>Fri, 13 Jun 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/06/13/ultra-tech-dungeons.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Hell&apos;s Rebels: Adventure 04, Part 3</title>
-        <description>&lt;figure class=&quot;center&quot;&gt;
-  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/350px-Hell&apos;s_Rebels_Logo.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This article is part of a series! Click &lt;a href=&quot;/octopus-carnival/projects/hells-rebels&quot;&gt;here&lt;/a&gt; to see the other entries.&lt;/p&gt;
-
-&lt;p&gt;We’re firmly in the wrap-up stage now. If you’re here, the PCs have succeeded at
-dismantling the powerful magical defenses of the Temple of Asmodeus and
-disrupted a dire summoning ritual that was Barzilai Thrune’s last attempt at
-squashing the Silver Raven rebellion. They made it out with a literal dragon’s
-hoard worth of loot and if they were particularly skilled they might even have
-managed to kill Thrune himself during the raid! In this post, we’ll see what all
-of that means for the rebellion.&lt;/p&gt;
-
-&lt;h2 id=&quot;strategic-and-campaign-implications&quot;&gt;Strategic and Campaign Implications&lt;/h2&gt;
-
-&lt;p&gt;As far as the rebellion is concerned, it has achieved its major goal. All of the
-Thrune leadership has been neutralized one way or the other, ceding control of
-not just Kintargo but the entire province of Ravounel.&lt;/p&gt;
-
-&lt;p&gt;The next few days immediately after the PC’s victory at the temple are a flurry
-of activity as the former rebel organization sets itself up as the new
-government. If Jilia Bailinus has been rescued and revived (a likely outcome),
-then she’s immediately reinstated as Lord Mayor. Otherwise the job goes to a
-sympatethic noble or priestly NPC - the players should have some input on who
-gets the job.&lt;/p&gt;
-
-&lt;p&gt;The new mayor will have several difficult issues to solve in the medium term,
-but for now it’s time to celebrate!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-silver-span-celebration&quot;&gt;The Silver Span Celebration&lt;/h2&gt;
-
-&lt;p&gt;All of the PC’s heroics quickly become common knowledge, now that there is no
-more need for secrecy on their part. Soon after they recover from the temple
-raid, they and their allies are invited to a huge party in their honor. It takes
-place on Bleakbridge - the same spot where the PCs busted a blockade in Part 01
-of the adventure.&lt;/p&gt;
-
-&lt;p&gt;The place is quite crowded now. A wooden stage has been erected right in the
-middle of the bridge, where a whole bunch of statues are covered with cloth
-awaiting for their unveiling. The PCs, every single member of the Silver Ravens,
-and anyone else whom they had positive interactions with will be at the party.&lt;/p&gt;
-
-&lt;p&gt;Some time after the party gets going, the mayor calls the PCs up to the stage,
-makes a speech renaming the bridge from Bleakbridge to the Silver Span, and
-unveils the statues. These represent all the PCs, plus any NPCs who were
-especially important to the rebellion’s success at the group’s discretion. These
-are going to be installed along the Silver Span, as an eternal reminder of their
-heroic deeds.&lt;/p&gt;
-
-&lt;p&gt;The PCs themselves are then presented with silver Keys to the City! The keys are
-worth quite a bit of money, but the real prize here is the major reputation
-boost that comes with being recognized as an official hero. That’s a hefty bonus
-to gather information or perform for money in the city, as well as a permanent
-10% discount on all Kintargan shops that don’t have reason to actively hate the
-characters.&lt;/p&gt;
-
-&lt;p&gt;Before we can close the curtains on this adventure, however, there is the small
-matter of the retributive strike.&lt;/p&gt;
-
-&lt;h2 id=&quot;from-hells-heart&quot;&gt;From Hell’s Heart&lt;/h2&gt;
-
-&lt;p&gt;… I stab at thee! That’s a particularly appropriate quote here.&lt;/p&gt;
-
-&lt;p&gt;You see, right after the PCs receive those keys, the remnants of the Thrune
-faction teleport in and try to kill the PCs. I don’t think they can take the
-province back at this point - this is simply done out of spite.&lt;/p&gt;
-
-&lt;p&gt;Who the attackers are depend on what exactly happened so far. From the worst
-case to the best one, we have:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Barzilai on a Fucking Dragon&lt;/strong&gt;: If both Thrune and the dragon Rivozair are
-still alive, they both show up, with Thrune riding the dragon. This happens
-even if Rivozair fled the city after being defeated by the PCs in their
-previous confrontation.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Barzilai OR a Fucking Dragon&lt;/strong&gt;: if either one of the pair is dead, the other
-still attacks. Rivozair shows up alone; Thrune appears accompanied by four
-bone devils.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;The Dregs&lt;/strong&gt;: If both main baddies are dead, the GM should build a CR 13
-encounter with any secondary villains who managed to escape death over the
-course of the adventure, focusing on those the players loved to hate the
-most. If there are not enough to hit CR 13 on their own, fill the encounter
-with appropriate minions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;No One!&lt;/strong&gt;: Particularly thorough groups might have not left anyone alive to
-attempt revenge! The chance of this happening is quite low, as there are a lot
-of named villains here and many of them will make an effort to escape when
-first fought. But if this does happen, just skip this battle altogether.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If anyone shows up at all, they fight to the death this time around regardless
-of their previous cowardice. This encounter is the “main event”, and it’s
-accompanied by a “sideshow” in the form of a bunch of loyalist dottari and minor
-devils who arrive more conventionally and try to slaughter the crowd. These keep
-the rest of the NPC Silver Ravens occupied, and are handled as series of
-Security checks to prevent civilian deaths.&lt;/p&gt;
-
-&lt;p&gt;Thrune remains as hard to kill as ever, but this time the PCs are fully rested
-and have no other encounters to worry about. And with all those NPCs present,
-someone is bound to have a handy spell to finish him off if the PCs don’t have
-one of their own.&lt;/p&gt;
-
-&lt;h3 id=&quot;victory-tally&quot;&gt;Victory Tally&lt;/h3&gt;
-
-&lt;p&gt;After this fight is over, we finally get to tally the party’s XP award for
-liberating Kintargo. This depends entirely on how many inhabitants have survived
-the whole ordeal.&lt;/p&gt;
-
-&lt;p&gt;The city starts the game with 11900 inhabitants, according to its stat sheet in
-the Player’s Guide. The GM is supposed to keep track of this number from the
-start of the campaign until now. There are several events in the strategic layer
-(Thrune reprisals, mostly) that kill a number of innocents and reduce this
-number. Deaths of innocents during the “tactical adventuring” portions also
-reduce the number - for example, the Ruby Masquerade trap, or if the PCs fail to
-rescue a sacrifice victim.&lt;/p&gt;
-
-&lt;p&gt;If the city has at least 9000 surviving inhabitants at the end of this last
-party, the game considers the rebellion an Unmitigated Success. 7500 or more
-survivors makes for a Grim Success, and less than that is a pyrrhic victory
-marked by Tragic Loss. I think it’s quite hard to end up with less than 9000
-citizens unless the group completely fails to prevent the Ruby Masquerade
-massacre and really slacks off during the “hot war” portion of this adventure.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-chelish-crux&quot;&gt;The Chelish Crux&lt;/h2&gt;
-
-&lt;p&gt;This device, apparently a Hellraiser-style puzzle box, is also the plot coupon I
-mentioned earlier. It sits inside Barzilai Thrune’s chest cavity - he replaced
-his heart with it back during adventure 2. The book mentions that retrieving
-this thing from Thrune’s corpse and opening it up are vital steps to proceed
-with the remaining two adventures in the campaign.&lt;/p&gt;
-
-&lt;h2 id=&quot;concluding-the-adventure-and-what-happens-next&quot;&gt;Concluding the Adventure, and What Happens Next&lt;/h2&gt;
-
-&lt;p&gt;First of all, nothing &lt;em&gt;has&lt;/em&gt; to happen from this point on. This is an excellent
-stopping point for the campaign if the GM doesn’t feel like spending money on
-the last two volumes. Just remove the Crux, and say that Barzilai has lost his
-chance to become a genius loci by dying. He’s in Hell forever. Campaign
-complete, mission accomplished, let’s leave nation-building to the government
-and retire as glorious heroes.&lt;/p&gt;
-
-&lt;p&gt;If you do want to continue playing Hell’s Rebels, though, then the Crux still
-exists and the situation is the following:&lt;/p&gt;
-
-&lt;p&gt;Kintargo is free for now, and Cheliax is busy fighting the Glorious Reclamation
-in its heartland, but that situation won’t last much longer. Cheliax will
-eventually send an army to retake the city, which won’t be able to hold against
-an all-out military assault. The key to solving that problem happens to be
-inside the Chelish Crux, and we’ll deal with that in the next adventure.&lt;/p&gt;
-
-&lt;p&gt;Barzilai himself isn’t exactly out of the picture either. Even dead, he’s still
-on track to become a genius loci, and solving the Cheliax issue will actually
-make that process much faster. Dealing with him once and for all is the subject
-of the last adventure in the campaign.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2024/11/06/hells-rebels-04-part-03.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2024/11/06/hells-rebels-04-part-03.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>pathfinder</category>
         
         <category>gurps</category>
         

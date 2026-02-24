@@ -6,9 +6,190 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Feb 2026 16:36:35 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Feb 2026 16:36:35 +0000</lastBuildDate>
+    <pubDate>Tue, 24 Feb 2026 15:46:24 +0000</pubDate>
+    <lastBuildDate>Tue, 24 Feb 2026 15:46:24 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Jade Irinka, the Sixth Raven</title>
+        <description>&lt;p&gt;Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
+a sort of mascot by the original Silver Ravens during their early exploits. She
+was too young to go out with the Ravens on their missions, but she witnessed
+their results and listened to their stories with rapt attention. Jackdaw,
+knowing victory would be uncertain in the final Thrune invasion, sent her away
+from the city with other non-combatant friends, hoping they would be able to
+come back once the fighting was over.&lt;/p&gt;
+
+&lt;p&gt;Things didn’t turn out well, and Jade never got the chance to return. She aged
+slowly but eventually reached maturity and set out to follow on the footsteps of
+her heroes. Her natural charisma and skill with the sword let her achieve some
+small measure of renown around the Inner Sea as an heroic adventurer.&lt;/p&gt;
+
+&lt;p&gt;Recent news from Cheliax convinced Jade it’s finally time to return home and
+take up the Ravens’ fight. She doesn’t remember many details about those days,
+but she’s confident she will find a way. Everything she’s done so far has been
+to prepare herself for this. As the campaign starts, she has just caught up on
+the events and rumors of the last few days and decides to attend the Aria Park
+protest to learn more.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;As you might have guessed from her name, Jade is inspired by Jasper Irinka, the
+Child of the Sun, one of the iconic characters from Chuubo’s Marvelous Wish
+Granting Engine. I’m using Jade instead of Jasper as the name because I like it
+more - it’s the name of Jasper’s Mother, the Angel of the Sun.&lt;/p&gt;
+
+&lt;p&gt;So Jade looks almost exactly like Jasper. Dark brown skin, voluminous and fiery
+red hair, green or blue eyes depending on the light. She has an athlethic build
+from all her adventuring, though her equipment is somewhat less than elegant
+at the moment. Unlike Jasper, she has only two arms at present and is unlikely
+to grow more.&lt;/p&gt;
+
+&lt;p&gt;This name might also give you a hint about who her ancestors are in the
+Pathfinder setting.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-notes&quot;&gt;Build notes&lt;/h2&gt;
+
+&lt;p&gt;Jade’s stats below are based on the Aristocrat archetype from GURPS Dungeon
+Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
+skills, though I removed some of the template’s more classist traits.&lt;/p&gt;
+
+&lt;p&gt;Her being a long-lived half-spirit is mostly a story thing for now, as I didn’t
+take an official template. You can use these stats for a charismatic human
+swashbuckler in some other campaign without changing any numbers. If you do want
+to emphasize her supernatural side, you can let her gradually take on
+Half-Spirit traits with earned character points. That’s what I intend to do
+eventually.&lt;/p&gt;
+
+&lt;p&gt;Jade already has a +5 reaction bonus from almost everyone and an extra +3 from
+professional fighters. I’m hoping to use earned points to increase that even
+further, maxing out her Charisma, Born War-Leader talent, and perhaps even
+Appearance. She’s going to be the public face of the rebellion, after
+all. Holiness and its attendant powers are also not out of the question in the
+future, as they’d make her even better at fighting demons.&lt;/p&gt;
+
+&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 11 {10}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d-1/1d+1; Basic Lift 12.1kg; HP 11; Will 12; Per 12; FP 12; Basic Speed 7;
+Basic Move 7;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ambidexterity {5}&lt;/li&gt;
+  &lt;li&gt;Appearance (Impressive) {12}&lt;/li&gt;
+  &lt;li&gt;Born War Leader 3 {15}&lt;/li&gt;
+  &lt;li&gt;Charisma 2 {10}&lt;/li&gt;
+  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
+  &lt;li&gt;Luck {15}&lt;/li&gt;
+  &lt;li&gt;Weapon Master (Backsword) {-20}&lt;/li&gt;
+  &lt;li&gt;Weapon Adaptation (Broadsword to Saber) {1}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code of Honor (Soldier’s) {-10}&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.html&quot;&gt;Enemies (Monster of the Week)&lt;/a&gt; (9-) {-15}&lt;/li&gt;
+  &lt;li&gt;Pacifism: Cannot Harm Innocents {-10}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+  &lt;li&gt;Vow (Never refuse a challenge to combat) {-10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acrobatics (H) DX-1 {2} - 14&lt;/li&gt;
+  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) (E) DX+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Gesture (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Guns (Pistol) (E) DX+1 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Jumping (E) DX {1} - 15&lt;/li&gt;
+  &lt;li&gt;Leadership (A) IQ+4 {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Public Speaking (A) IQ+1 {1}&lt;sup id=&quot;fnref:3:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
+  &lt;li&gt;Saber (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Strategy (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Tactics (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Wrestling (A) DX-1 {1} - 14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;$1000, 11.41kg. No encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ordinary Clothing: Free; 1kg.&lt;/li&gt;
+  &lt;li&gt;Backsword: Basket hilt gives DR 4 to the hand and allows a Hilt Punch. $550,
+1.5kg.&lt;/li&gt;
+  &lt;li&gt;Pouch: Fits 1.5kg of small items. $10, 0.1kg.
+    &lt;ul&gt;
+      &lt;li&gt;Coins: 8 silvers, 23 coppers. $183, 0.31kg.&lt;/li&gt;
+      &lt;li&gt;Minor Healing Potion: Heals 1d HP. $120, 0.25kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Light Cloth Armor Suit: DR 1 to all locations except the head. $137, 8.25kg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assumes no encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 11&lt;/li&gt;
+      &lt;li&gt;Parry: 14F (sword), 11 (Unarmed, DX)&lt;/li&gt;
+      &lt;li&gt;DR: 2 on skull, 0 on eyes, 5 in sword hand, 1 everywhere else.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Backsword (20): 1d+4 cut or 1d+2 imp, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Hilt Punch (15): 1d-1 cr, Reach C.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+1 from Combat Reflexes &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+3 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+2 from Charisma &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Review: GURPS Gun Stats</title>
@@ -35,9 +216,9 @@ much simpler than the spreadsheet.&lt;/p&gt;
 
 &lt;p&gt;This is a typical Warehouse 23 PDF. All black and white, with the by now
 classical GURPS two-column layout combined with the usual excellent table of
-contents and index. Its written by David Pulver with additional
-material by S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of
-quality in itself when it comes to gun-nut material in GURPS.&lt;/p&gt;
+contents and index. Its written by David Pulver with additional material by
+S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of quality in
+itself when it comes to gun-nut material in GURPS.&lt;/p&gt;
 
 &lt;p&gt;The interior art is mostly a mix of illustrations clearly based on photos or 3D
 models with a weird “acid etching” surface filter applied to them to unify the
@@ -1053,149 +1234,6 @@ attacks, and it works particularly well here.&lt;/p&gt;
         <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Arena Bred Monster</title>
-        <description>&lt;p&gt;What’s a Monster Theme? The concept was first introduced in Dungeon Master’s
-Guide 2, and it’s a way to give a set of monsters a shared look and feel. This
-involves changes to their mechanics and lore, but unlike monster &lt;em&gt;templates&lt;/em&gt;
-from the DMG 1, it doesn’t change their “quality”. Regulars remain regulars,
-elites remain elites, and so on.&lt;/p&gt;
-
-&lt;p&gt;Monster themes end up being more flexible than templates, since the monster
-creation rules are good enough to handle any level or quality changes by
-themselves.&lt;/p&gt;
-
-&lt;h2 id=&quot;anatomy-of-a-monster-theme&quot;&gt;Anatomy of a Monster Theme&lt;/h2&gt;
-
-&lt;p&gt;Each theme has a fairly involved presentation. You get some explanation for the
-lore attached to that theme and how it might modify a monster. Then a line about
-skill changes that might apply, and finally a big list of powers.&lt;/p&gt;
-
-&lt;p&gt;Those powers are divided between Attack Powers and Utility Powers - you pick one
-of each category to add to the monster’s stat block. Nothing else about its
-basic stats changes, unlike with a template. If you want those to change, you
-can use the standard monster creation and “editing” rules to change the
-monster’s level or quality.&lt;/p&gt;
-
-&lt;h2 id=&quot;our-first-theme-arena-bred-monster&quot;&gt;Our First Theme: Arena Bred Monster&lt;/h2&gt;
-
-&lt;p&gt;Blood sport arenas are the most popular entertainment in all city states, and
-monster fighting is one of its most popular modalities. It’s common to throw
-recently captured wild animals into the ring, but a monster that was
-specifically prepared for the spectacle is a much bigger draw. Animals are
-specifically bred for the role; people receive special training. And both might
-be further modified by magic or psionics, all in the service of providing a more
-brutal and spectacular fight.&lt;/p&gt;
-
-&lt;p&gt;Monsters with this theme get a +2 to Intimidate and a +2 to either Athletics or
-Acrobatics.&lt;/p&gt;
-
-&lt;h3 id=&quot;attack-powers&quot;&gt;Attack Powers&lt;/h3&gt;
-
-&lt;p&gt;Despite the name of this category, the powers here tend to avoid having specific
-attack or damage figures, to better enable them to apply to monsters of any
-level.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Berserk Passage&lt;/strong&gt; (recharge 5+) lets a monster make two basic attacks and
-shift half its speed at any moment in this sequence, passing through enemy
-spaces. It usually goes on monsters that have been made mad with hunger and
-pain before being dropped into the arena, though I supposed it could also be
-used to represent an agile duelist humanoid.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bleeding Attack&lt;/strong&gt; is a triggered power that inficst 5/tier ongoing damage
-(save ends) when the monster bloodies a target. It might represent serrated
-weapons or claws. The book recommends making it (recharge 5+) for elites or
-solos; by default, it’s at-will.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Brutal Flourish&lt;/strong&gt; lets the monster make a free melee basic attack whenever
-it bloodies or defeats an enemy.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Death Burst&lt;/strong&gt; means the monster has been rigged to explode! This is visible
-to the PCs and should be described appropriately. This power is common for
-monsters that have received some sort of combat implant, but could be applied
-even without that. By default this happens when the monster hits 0 HP, but for
-elites and solos it could also happen when the monster is first bloodied,
-where it might be combined with some other change in its stats as those
-implanted bits fall off. The explosion is a Close Burst 2 with attack and
-damage figures appropriate to the monster’s level.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Retaliating Stride&lt;/strong&gt; (recharge 5+) is a move action that lets the monster
-move its speed and deal damage to any creature that hits it with an
-opportunity attack during this move. It can represent showy counterstrikes, or
-maybe something like implanted spikes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Attached Weapons&lt;/strong&gt; are not written up like a power, but discussed in general
-terms inside a text box. Many arena monster handlers like to implant extra
-weapons on their charges through magic. This is an excuse for your to add
-extra attack powers that monsters of that type don’t normally have. For
-example, an artillery monster could receive implanted melee weapons that give
-it a stronger than usual melee attack, or a brute could get an unusually
-accurate ranged weapon. It’s common for these weapons to break or fall off
-when the monster is bloodied - and this can also be combined with Death Burst
-variants.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;utility-powers&quot;&gt;Utility Powers&lt;/h3&gt;
-
-&lt;p&gt;These are generally the fruit of long experience in the arena, representing
-cunning, resilience, and luck.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Intervening Armor&lt;/strong&gt; represents an ability to leverage the normally useless
-piecemeal armor that covers gladiators by shifting so enemy attacks hit the
-tiny plates. It’s an Interrupt that gives +2 to AC or Reflex when the monster
-is hit by an attack targetting one of these defenses.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Necessary Betrayal&lt;/strong&gt; is for treacherous gits who developed the habit of
-abusing their teammates’ trust. If the monster is hit by a melee or ranged
-attack while adjacent to an ally, it can swap places with the ally as an
-interrupt, and have the ally take damage from the attack instead. You don’t
-compare the attack roll against the ally’s defenses - just apply the damage
-directly. This power cannot be nice even by accident.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Shake it Off&lt;/strong&gt; represents the ability to quickly recover one’s wits in a
-bout. Whenever subject to an effect that a save could possibly end, the
-monster can roll a save to end it as a reaction, even if this specific
-application cannot be ended with a save. (So it works against “dazed until the
-end of the next turn”, but not against “dead”).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Turn the Tables&lt;/strong&gt; is a defense against forced movement. If pushed, pulled,
-slid, or knocked prone, the creature can trigger this reaction to stand up (if
-prone) and shift 2 squares.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;I think it’s interesting how many of the powers here can be either applied to a
-berserk beast of a flashy humanoid fighter that uses finesse and agility, with
-the final mechanical result being the same.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/01/14/wir-dscc-themes-arena-bred.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/14/wir-dscc-themes-arena-bred.html</guid>
         
         <category>dnd4</category>
         
