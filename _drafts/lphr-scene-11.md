@@ -262,3 +262,37 @@ Art grapples the wounded dottari, who fails to escape.
 
 Jania and Rosalia run out of the cage and into the right-side bridge. Rosalia
 insults one of the dottari engaging Jania, stunning him again!
+
+### Turns 5-8
+
+Things actually take a bit longer to resolve here than I'd like. Seems like
+these dottari aren't very good at offense when compared to the characters, but
+their defenses are high enough to require some special handling.
+
+Anyway, atfer a lot of back and forth, Arcturus folds a guard's mail with him
+still inside, then holds the other so Urist can axe him a few questions. Jade
+fences and then stabs the non-stunned guard, and then kills one of the stunned
+ones while Jania impales the other with a large-ish Ice Dagger.
+
+### After the Fight
+
+All guards are down. The party quickly retrieves Rosalia's and Jania's weapons
+and then leaves the square. On their way out they hear a high-pitched voice
+calling to them from the a nearby barrel. "You guys are fun! Good thing the bad
+men didn't get you!"
+
+It's the little dragon, who looks less frightened now. Rosalia steps forward to
+talk to him, because she's just delighted to see it up close. His name is
+Vendalfek. He explains he lived in the tavern, which used to be a fun place
+until the bad men started hanging around and then it wasn't any more. He had
+been trying to spice things up again, you see.
+
+Rosalia invites him to come live with them and put his magic to work pranking
+the bad men, and that's that. They all go home.
+
+## [GM] Ending the Scene
+
+The party didn't manage to handle the situation without getting into a fight,
+but they did recruit Vendalfek, so that's 1 point to each PC. They do get
+another point for winning the fight, though. Their notoriety also increases
+by (1d4 -> 2).

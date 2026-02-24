@@ -93,7 +93,7 @@ Basic Move 7;
 
 **Quirks**
 
-- Define your own! {-5}
+- Pick your own! {-5}
 
 **Skills**
 

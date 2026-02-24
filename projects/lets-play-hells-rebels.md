@@ -22,6 +22,11 @@ first announced I'd do it.
 - [LPHR: Devils and Other Fiends][3]: Where I decide what I will do about devil
   stats for the game.
 
+- [LPHR: Adjusting Setting Assumptions][9]: Where I talk about the overal
+  setting adjustments I'm going to make to fit this campaign to Dungeon Fantasy,
+  and link to several other rules posts which you can also find in the next
+  session.
+
 - [Player Character Origins][5]: A list of possible player character origins for
   the game. It's somewhat depeer than the cursory treatment given to it in the
   Hell's Rebels Player's Guide, and inspired by the excellent character themes
@@ -45,12 +50,26 @@ chronological order.
 - [Underwater Dungeon Fantasy][2]: Adventure 02 and 03 feature significant
   underwater bits.
 
+- [Wealth in D&D and Dungeon Fantasy][10]: In which I figure out a nice and easy
+  conversion rate between Pathfinder 1e/D&D 3.5 coinage and Dungeon Fantasy
+  money.
+
 - [Underwater Dungeon Fantasy 2: Items and Artifacts][8]: Contains items useful
   for underwater adventuring.
 
 - [Denizens of the Sea][4]: Contains some aquatic species that can be used in
   the game. Not explicitly connected to the game, as the setting information is
   generic, but one of the PCs is an Atlantean.
+
+## Player Characters
+
+Our heroes! I like making parties of five ever since I started GMing D&D 4th
+Edition.
+
+The character sheets here depict how the characters are at the start of the
+campaign. I might add updated versions as the opportunity presents itself.
+
+- [Jade Irinka][11]: The Sixth Raven.
 
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
@@ -60,3 +79,6 @@ chronological order.
 [6]: {{ "/2025/12/22/lphr-background-change.html" | relative_url }}
 [7]: {{ "/2026/02/11/lets-play-hells-rebels-announcement.html" | relative_url }}
 [8]: {{ "/2023/11/13/underwater-items.html" | relative_url }}
+[9]: {{ "/2024/08/26/lphr-setting-assumptions.html" | relative_url }}
+[10]: {{ "/2023/06/25/dungeon-fantasy-wealth.html" | relative_url }}
+[11]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}

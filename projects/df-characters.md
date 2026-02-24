@@ -33,6 +33,17 @@ elements.
 - [Broken Jar, Catfolk Martial Artist][5]
 - [Ser Alexa of the Flame, Human Mystic Knight][6]
 
+## The Silver Ravens
+
+For my [solo playthrough of Hell's Rebels using the Dungeon Fantasy
+rules][7]. You can also find links and explanations to them from that project's
+page.
+
+The character sheets here depict how the characters are at the start of the
+campaign. I might add updated versions as the opportunity presents itself.
+
+- [Jade Irinka][8]: The Sixth Raven.
+
 
 
 [1]: {{ "/projects/pathfinder-iconics/" | relative_url }}
@@ -41,3 +52,5 @@ elements.
 [4]: {{ "/2019/09/10/argle.html" | relative_url }}
 [5]: {{ "/2019/10/19/broken-jar.html" | relative_url }}
 [6]: {{ "/2020/01/27/alexa.html" | relative_url }}
+[7]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
+[8]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}

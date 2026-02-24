@@ -90,9 +90,11 @@ Damage 1d/1d-2; Basic Lift 10kg.; Will 14; Per 14; HP 10 FP 11; Basic Speed
 - Laziness {-10}
 - Overconfidence (12) {-5}
 - Sense of Duty (Adventuring Companions) {-5}
-- Undefined Quirks {-5}
 - Weirdness Magnet {-15}
 
+**Quirks**
+
+- Pick your Own! {-5}
 
 **Skills**
 
