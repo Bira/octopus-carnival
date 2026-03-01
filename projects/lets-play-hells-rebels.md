@@ -69,6 +69,8 @@ Edition.
 The character sheets here depict how the characters are at the start of the
 campaign. I might add updated versions as the opportunity presents itself.
 
+- [Arcturus Pankrator][12]: The Knight of the Deep.
+
 - [Jade Irinka][11]: The Sixth Raven.
 
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
@@ -82,3 +84,4 @@ campaign. I might add updated versions as the opportunity presents itself.
 [9]: {{ "/2024/08/26/lphr-setting-assumptions.html" | relative_url }}
 [10]: {{ "/2023/06/25/dungeon-fantasy-wealth.html" | relative_url }}
 [11]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}
+[12]: {{ "/2026/03/01/lphr-arcturus.md" | relative_url }}

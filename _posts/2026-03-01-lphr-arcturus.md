@@ -9,6 +9,8 @@ tags:
     - hells-rebels
 ---
 
+One of the player characters for my [solo Hell's Rebels campaign][2].
+
 Arcturus Pankrator is a renowned hero and slayer of monsters among the
 underwater peoples that make their home near Ravounel. Landlubbers have no idea
 who he is, which is somewhat unfortunate for him because that's where he's
@@ -93,6 +95,10 @@ Damage 1d/2d; Basic Lift 19.6kg; HP 14; Will 10; Per 10; FP 12; Basic Speed 7
 - Sense of Duty {-5}
 - Wealth: Struggling {-10}
 
+**Quirks**
+
+- Pick your own! {-5}
+
 **Skills**
 
 - Carousing (E) HT {1} - 12
@@ -131,3 +137,6 @@ Damage 1d/2d; Basic Lift 19.6kg; HP 14; Will 10; Per 10; FP 12; Basic Speed 7
 - **Attacks**
   - Large Knife (16): 2d-2 cut (Reach C, 1) or 1d imp (Reach C).
   - Wrestling Grab (20): 1d+3 control, Reach C.
+
+[1]: {{ "/2024/04/28/atlantis.html" | relative_url }}
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
