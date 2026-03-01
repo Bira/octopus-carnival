@@ -6,9 +6,178 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Feb 2026 21:27:32 +0000</pubDate>
-    <lastBuildDate>Tue, 24 Feb 2026 21:27:32 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Mar 2026 13:38:42 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Mar 2026 13:38:42 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Arcturus Pankrator, The Knight of the Deep</title>
+        <description>&lt;p&gt;One of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Arcturus Pankrator is a renowned hero and slayer of monsters among the
+underwater peoples that make their home near Ravounel. Landlubbers have no idea
+who he is, which is somewhat unfortunate for him because that’s where he’s
+headed for the foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;His newest quest was given to him by the leader of the sea elf village of
+Acisazi: he is to seek the help of Shensen, the famous singer and priestess of
+Sarenrae who lives in Kintargo. The village has been plagued by a horrible
+curse, and since Shensen is an old friend of theirs she would have both the
+willingness and the power to help them out. However, she has not answered their
+magical messages, so something might have happened to her. Time to send in an
+actual envoy to find out what happened and help Shensen out if needed. An
+excellent job for a hero of his caliber!&lt;/p&gt;
+
+&lt;p&gt;Unfortunately Arcturus’ wallet was considerably leaner than his muscles, so he’s
+more or less completely broke when he arrives at Kintargo. The information he
+manages to gather about the city’s situation isn’t all that encouraging either,
+with Shensen missing and this new human dictator causing a pall of anger and
+sorrow to hang over the city.&lt;/p&gt;
+
+&lt;p&gt;The Atlantean wrestler isn’t exactly a genius detective. His method of
+investigation can be summed by the word “vibes”. Therefore, Arcturus is
+absolutely sure that the shortest path to completing his quest lies in opposing
+this land-monster, which is why he’s at the big protest against him at the start
+of the campaign.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Arcturus is an obvious expy of Aquaman from Batman: The Brave and the Bold, and
+that’s exactly what he looks like. You can make his hair brown instead of blond
+if you won’t want a 100% exact match, but you should still take all your
+roleplaying cues from that version of Aquaman.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-notes&quot;&gt;Build Notes&lt;/h2&gt;
+
+&lt;p&gt;Arcturus is a mix of the Wrestler and Martial Artist archetypes. The Wrestler
+first appeared in Pyramid #3/111. Art makes extensive use of the Fantastic
+Dungeon Grappling rules, as does the campaign he’s in.&lt;/p&gt;
+
+&lt;p&gt;He’s an &lt;a href=&quot;/octopus-carnival/2024/04/28/atlantis.html&quot;&gt;Atlantean&lt;/a&gt;, which means he has no problem operating underwater. His
+fighting style works well both in and out of water: grab’em, and stab’em. That
+is, inflict a reasonable bunch of Control Points onto an enemy using Wrestling,
+and then stab them with his knife while spending as many CP as possible to boost
+the knife’s damage dice. If there’s no time to draw the knife, the damage dice
+from CP alone should let Art inflict some involuntary yoga on almost any
+opponent anyway.&lt;/p&gt;
+
+&lt;p&gt;Character advancement is simple. More ST, more DR, higher combat skills, more
+attacks! Those can come from either straight up increases or Martial Artist and
+Wrestler powers (or better armor in the case of DR). He can also make excellent
+use of Extra Attacks and Fast-Draw, which let the grab-and-stab loop happen much
+faster. Any branching out will mostly be towards the addition of more acrobatic
+and movement skills. Let everyone else do the talking and investigating,
+Arcturus Pankrator is here to punch things and tie them in knots. Point him at
+any nazis, sea monsters, or nazi sea monsters and watch the spectacle.&lt;/p&gt;
+
+&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Attributes&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 14 {40}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 10 {0}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d/2d; Basic Lift 19.6kg; HP 14; Will 10; Per 10; FP 12; Basic Speed 7
+{5}; Basic Move 8 {5};&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Amphibious {10}&lt;/li&gt;
+  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
+  &lt;li&gt;Doesn’t Breathe (Gills) {10}&lt;/li&gt;
+  &lt;li&gt;Enhanced Parry (Bare Hands) {15}&lt;/li&gt;
+  &lt;li&gt;Trained by a Master {30}&lt;/li&gt;
+  &lt;li&gt;Wrestling Master {10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code of Honor (Chivalry) {-15}&lt;/li&gt;
+  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
+  &lt;li&gt;Obsession (Find the missing sea elves) {-5}&lt;/li&gt;
+  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty {-5}&lt;/li&gt;
+  &lt;li&gt;Wealth: Struggling {-10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Carousing (E) HT {1} - 12&lt;/li&gt;
+  &lt;li&gt;Hiking (A) HT-1 {1} - 11&lt;/li&gt;
+  &lt;li&gt;Judo (H) DX {4} - 15&lt;/li&gt;
+  &lt;li&gt;Karate (H) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Knife (E) DX+1 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Knot-Tying (E) DX {1} - 15&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Swimming (E) HT {1} - 12&lt;/li&gt;
+  &lt;li&gt;Wrestling (A) DX+5 {20} - 20&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Chi Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Immovable Stance (H) DX {4} - 15&lt;/li&gt;
+  &lt;li&gt;Push (H) DX {4} - 15&lt;/li&gt;
+  &lt;li&gt;Throwing Art (E) DX {4} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Large Knife: $40, 0.5kg.&lt;/li&gt;
+  &lt;li&gt;Clothing: Free, 1kg.&lt;/li&gt;
+  &lt;li&gt;Armor: Nothing on head, light scale on body, light cloth/leather everywhere
+else. $336, 8.4kg.&lt;/li&gt;
+  &lt;li&gt;Pouch: Stores 1.5kg of small objects. $10, 0.1kg.
+    &lt;ul&gt;
+      &lt;li&gt;Coins: 1 silver, 10 copper. $30, 0.11kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 11&lt;/li&gt;
+      &lt;li&gt;Parry: 17 (Wrestling), 14F (Judo), 11 (Knife).&lt;/li&gt;
+      &lt;li&gt;DR: 2 on skull, 0 on head, 3 (2 vs Crushing) on body, 1 everywhere else.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Large Knife (16): 2d-2 cut (Reach C, 1) or 1d imp (Reach C).&lt;/li&gt;
+      &lt;li&gt;Wrestling Grab (20): 1d+3 control, Reach C.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/01/lphr-arcturus.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/01/lphr-arcturus.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>pathfinder</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Jade Irinka, the Sixth Raven</title>
@@ -1132,110 +1301,6 @@ surprise.&lt;/p&gt;
         <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/01/22/wir-dscc-theme-psionic-adept.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/22/wir-dscc-theme-psionic-adept.html</guid>
-        
-        <category>dnd4</category>
-        
-        <category>lets-read</category>
-        
-        <category>dark-sun</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the 4e Dark Sun Creature Catalog: Elementally-Infused Monster</title>
-        <description>&lt;p&gt;Athas is a world particularly close to the Elemental Chaos, and so there are
-lots of places in it that are soaked in elemental energies of some kind. The
-creatures that inhabit these areas often end up elementally-infused.&lt;/p&gt;
-
-&lt;p&gt;The book suggests changing the creature’s origin to elemental if its mutations
-end up being inheritable, though that just affects the lore and so it’s just
-necessary if it will affect the game’s stories in some way.&lt;/p&gt;
-
-&lt;p&gt;The main mechanical thing you must decided about an elementally-infused creature
-is its element. All of its powers that deal damage have it written as “[damage
-type]” in the book, and you’re meant to replace that lacuna with a type
-corresponding to the creature’s associated elements: one of fire, acid, cold,
-thunder, or lightning (very very frightening!).&lt;/p&gt;
-
-&lt;p&gt;Not all of its attacks need to do the same type of damage. Multi-element
-elementals are a thing now, after all. And you might decide to make one or more
-of these attacks untyped, which would be common for an earth elemental whose
-rock-based attacks deal physical damage for example.&lt;/p&gt;
-
-&lt;p&gt;Elementally-infused creatures get +2 to Intimidate and Athletics.&lt;/p&gt;
-
-&lt;h2 id=&quot;attack-powers&quot;&gt;Attack Powers&lt;/h2&gt;
-
-&lt;p&gt;All of these powers deal damage of the type you chose above.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;There are two &lt;strong&gt;Elemental Auras&lt;/strong&gt;, one that triggers when the monster is
-bloodied and damages enemies inside, and one that is always active and makes
-enemies vulnerable to your chosen element.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Eruption&lt;/strong&gt; causes an explosion when the monster is first bloodied,
-a close burst 2 that targets Reflex and deals elemental damage equal to the
-monster’s best basic attack.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Manifestation&lt;/strong&gt; converts the damage of all of the monster’s
-attacks to your chosen element.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Persistence&lt;/strong&gt; is recharge 5+ and inflicts 5/tier ongoing damage of
-the chosen type when the monster hits with a melee attack. It’s said to
-increase “damage output and entertainment value”.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;utility-powers&quot;&gt;Utility Powers&lt;/h2&gt;
-
-&lt;p&gt;The most obvious here is &lt;strong&gt;Elemental Damage Resistance&lt;/strong&gt;, which should be high
-enough for the monster to resist its own attacks (or I guess 5/tier if you don’t
-want to do math). If a monster’s attacks are untyped, you could give it
-variable resistance instead.&lt;/p&gt;
-
-&lt;p&gt;Nearly all of the others deal damage, proving that the “attack”/”utility” split
-is more of a guideline here.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Dissipation&lt;/strong&gt; lets the monster vanish from play for a turn and
-reform next to an enemy, dealing a bit of damage and making them grant combat
-advantage for another turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Ground&lt;/strong&gt; is a third aura variant, this time meant to keep enemies
-close. The aura’s radius becomes difficult terrain and enemies take damage
-when they leave it, instead of when they enter it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Step&lt;/strong&gt; deals elemental damage to anyone who hits the monster with
-an opportunity attack while it moves.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elemental Transport&lt;/strong&gt; lets the monster teleport between patches of hazardous
-terrain that deal damage of the chosen type. Clever!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mutable Body&lt;/strong&gt; is appropriate for water-based or otherwise gooey monsters,
-and lets the creature count as one size smaller when squeezing through narrow
-openings.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;You want elemental damage? We got elemental damage! I like the design strategy
-of additional attack powers that modify and work around the monster’s usual
-attacks, and it works particularly well here.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/01/20/wir-dscc-themes-elemental.html</guid>
         
         <category>dnd4</category>
         
