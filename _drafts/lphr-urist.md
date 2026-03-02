@@ -181,7 +181,8 @@ Assumes Light encumbrance. Defenses include shield DB.
 - **Attacks**
   - Silver-Coated Axe (14): 1d+4 cut, Reach 1.
   - Shield Bash (14): 1d-1 cr, Reach 1.
-  - Sunbolt(14): 1-9d burn, Acc 2, Range 75/150, costs 0-8 FP. See DF Spells p. 48.
+  - Sunbolt(14): 1d burn per energy point, Acc 2, Range 75/150, costs 0-8
+    FP. See DF Spells p. 48.
 
 
 [2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}

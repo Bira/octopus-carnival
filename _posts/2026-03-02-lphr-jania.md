@@ -11,8 +11,7 @@ tags:
 
 Jania is a distinguished alumna of Lady Docur's School for Girls. She moved to
 Vyre to seek her fortune after graduation, and took to the city's fashions
-("goth") and customs ("creepy") quite readily. Both made it very easy for a
-skilled thief to ply her trade.
+("goth") and customs ("creepy") quite readily.
 
 Jania soon acquired a certain propensity for grandstanding. She built an
 above-board reputation as a powerful wizard and an "openly secret" one as a
@@ -30,19 +29,17 @@ a while. She regrettably had to leave most of her ill-gotten gains behind.
 When she returned to her old hometown of Kintargo, she found it in quite a
 state. Lady Docur filled her in on the local situation and asked for some help,
 which she was only too happy to provide. Jania feels a genuine need to repay the
-school for her excellent education, and she also sincerely hopes that hag
-Hei-Fen dies of old age before Jania has to return to Vyre.
+school for her excellent education. Jania also sincerely hopes that hag Hei-Fen
+dies of old age before she has to return to Vyre.
 
 ## Description
 
 Jania's inspirations are Sucy Mondavarian from Little Witch Acacemia for the
 creepy bits, and the Great and Powerful Trixie for everything else. I imagine
 her as a blue-skinned elf with white hair and a penchant for black dresses and
-witch hats. Despite her skin tone, she's not a _sea_ elf. She's just blue. If
-your GM is strict about those things, chalk it up to an unfortunate accident
-with silver-based alchemical compounds during her school years.
-
-Yes, her entire skin is blue. That was a heck of an accident!
+witch hats. Despite her skin tone, she's not a sea elf. She's just blue. If your
+GM is strict about those things, chalk it up to an unfortunate accident with
+silver-based alchemical compounds during her school years.
 
 ## Notes
 
@@ -188,5 +185,7 @@ Assumes No Encumbrance.
 
 - **Attacks**
   - Short Staff (17): 1d+1 cr (swing) or 1d-1 cr (thrust). Reach 1.
-  - Ice Dagger (15): 1d-1 imp/point, Acc 3, Range 30/60. -1 to final cost.
-  - Ice Sphere (15): 1d cr/point, Acc 2, Range 40/80.
+  - Ice Dagger (15): 1d-1 imp per energy point, Acc 3, Range 30/60. Costs 0-5
+    FP. See DF Spells p. 69.
+  - Ice Sphere (15): 1d cr per energy point, Acc 2, Range 40/80. Costs 0-5
+    FP. See DF Spells p. 69.
