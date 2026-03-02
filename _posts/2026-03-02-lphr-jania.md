@@ -9,6 +9,8 @@ tags:
     - hells-rebels
 ---
 
+One of the player characters for my [solo Hell's Rebels campaign][2].
+
 Jania is a distinguished alumna of Lady Docur's School for Girls. She moved to
 Vyre to seek her fortune after graduation, and took to the city's fashions
 ("goth") and customs ("creepy") quite readily.
@@ -189,3 +191,5 @@ Assumes No Encumbrance.
     FP. See DF Spells p. 69.
   - Ice Sphere (15): 1d cr per energy point, Acc 2, Range 40/80. Costs 0-5
     FP. See DF Spells p. 69.
+
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}

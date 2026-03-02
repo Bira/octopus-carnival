@@ -1,4 +1,4 @@
-# Long time no see!
+# [GM] Long time no see!
 
 It's been a year! There are a lot of reasons for my large delay in updating
 this. For the first little while after I finished writing the Aria Park scene, I
@@ -30,7 +30,7 @@ Edition to see if I get any more.
 Turns out I don't quite need Mythic yet, there's a cool thing I want to do. But
 let's get the Mythic part over with anyway.
 
-# Mythic Bookkeeping
+# [GM] Mythic Bookkeeping
 
 We can consider the whole Aria Park protest and riot to be our first
 scene. Chaos Factor started at 5, as standard, but there was pretty much no way
@@ -40,8 +40,7 @@ the start of this scene.
 Our current list of threads is:
 
 - The Path
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Find Rexus (Urist)
 - Get Organized (Jade)
@@ -111,9 +110,9 @@ Tavern map.
 ## Our Opposition
 
 Urist is getting 5 CCG thugs as opposition. They're pretty weak individually but
-so is Rexus and there's a lot of them. That's per The Path, and it's fixed. I'm
-rolling to see which of the remaining entries on the Characters list faces each
-of the other groups.
+so is Rexus and there's a lot of them. That's the same situation as in the
+book. I'm rolling to see which of the remaining entries on the Characters list
+faces each of the other groups.
 
 (roll roll)
 
@@ -223,13 +222,13 @@ dottari are less dangerous than tar devils.
 This one starts with Rexus cornered in the alley's dead end, Urist at the mouth
 of the alley to the west, and 5 CCG thugs between them. I don't have a character
 sheet for Rexus, as I don't intend to make him a player character. He's got a
-cane, Smallsword-14, damage 1d crushing, HP 10, and a couple hundred points in
-scholarly skills not useful for combat.
+cane, Smallsword-14, damage 1d crushing, Parry 10F, Dodge 8, HP 10, and a couple
+hundred points in scholarly skills not useful for combat.
 
 The thugs are still minions, and go down to any blow that deals at least 1
 injury. Rexus can hold his own against them for a few turns if he focuses on
 defense, but Urist has no crowd control spells. He decides to spend a second
-casting Armor 3 on himself before charging into melee. This would save his life.
+casting Armor 3 on himself before charging into melee. This will save his life.
 
 Two of the thugs keep focusing on Rexus, while the other three run to engage the
 new threat. Despite the enemy's relative weakness, this turns out to be the
@@ -246,11 +245,11 @@ times. Thankfully, the damage rolls are low and he loses only 4HP total.
 Urist also fails some defense rolls, but his Armor spell means he only suffers a
 couple of points of injury even with the enemies rolling super well. Then he
 rolls a critical failure and drops his shield! Convinced he has enough armor to
-withstand the assault, the dwarf moves to making double AoAs with his axe, but
-even so it takes around three more turns until he finally manages to hit all the
-enemies surrounding him and finish the fight. By the time he does, Rexus has
-finished his side of it as well, aided by some timely critical failures on the
-part of the thugs.
+withstand the assault, the dwarf moves to making All-Out-Attacks (Double) with
+his axe, but even so it takes around three more turns until he finally manages
+to hit all the enemies surrounding him and finish the fight. By the time he
+does, Rexus has finished his side of it as well, aided by some timely critical
+failures on the part of the thugs.
 
 
 ### Analysis

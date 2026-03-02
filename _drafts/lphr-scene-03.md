@@ -6,7 +6,7 @@ to just say they weren't all that far away from each other, so they could all
 meet up shortly after the fights. Then Rexus would talk to them as written.
 
 But let's first say if Mythic something funny to say about this. I roll 1d10 and
-get a 10, so that's actually what happens, since our chaos factor is 5.
+get a 10, so nothing unexpected happens, since our chaos factor is 5.
 
 # Scene 03: A New Friend in Need
 

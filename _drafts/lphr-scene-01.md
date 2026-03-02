@@ -9,11 +9,11 @@ tags:
     - hells-rebels
 ---
 
-This is the first scene I did for the adventure. Initially I wrote stuff into
-this file as it happened, alternating betweeen Player and GM roles as
-appropriate. Then I did an editing pass to properly format it for publication,
-also applying the slight retcons resulting from the [change][2] to Arcturus'
-background.
+This is the first scene I did for my [solo Hell's Rebels campaign][1]. Initially
+I wrote stuff into this file as it happened, alternating betweeen Player and GM
+roles as appropriate. Then I did several editing passes to properly format it
+for publication, add the correct links, and apply slight retcons resulting from
+the [change][2] to Arcturus' background.
 
 # [GM] Introduction
 
@@ -32,10 +32,10 @@ Anyway, our heroes are all at the protest for their varied motives:
   what to do from here.
 
 - Arcturus is here for pretty much the same reason, though in this case he's
-  looking for news about Shensen.
+  looking for news about Shensen, the missing diva.
 
-- Rosalia is here due to rumors that the missing bard Shensen would be present,
-  though they'd probably show up even if she hadn't gone missing.
+- Rosalia is here due to rumors that her missing friend Shensen would be
+  present, though they'd probably show up even if that wasn't the case.
 
 - Urist is here to find Rexus Victocora. He was tipped off by Laria Longroad
   that the man would be here. He is the last surviving family member of some of
@@ -120,7 +120,7 @@ it. She makes her **Pickpocketing** roll by 3 and thus earns 3 silvers... which
 is actually a mistake on my part (3 silvers is $60, she earned $15). But I'm
 letting that stand.
 
-This is where it might get fun. Jade will attempt to Rable-Rouse, and organize
+This is where it might get fun. Jade will attempt to Rabble-Rouse, and organize
 the crowd so that they can protest with one voice. Rosalia on the other hand
 will silence the lulzers and fascists.
 
@@ -198,8 +198,8 @@ acts first in round 2, and vice-versa.
 
 We also have a "neutral" side here: the bystanders. I rule they move 4 hexes on
 their turn, and they all activate together at the end of each round. Bystanders
-have a Dodge score of 8, and they go down (disabled or dead) upon taking any
-hits.
+have a Move of 5 and a Dodge score of 8, and they go down (disabled or dead)
+upon taking any hits.
 
 The bystanders, obviously, will attempt to run away by moving towards the left
 or right edges of the map. If they get there, they manage to escape and I remove
@@ -307,4 +307,5 @@ This scene was definitely chaotic and though the characters acquitted themselves
 well, the Chaos Factor rises to 6.
 
 
+[1]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
 [2]: {{ "/2025/12/22/lphr-background-change.md" | relative_url }}
