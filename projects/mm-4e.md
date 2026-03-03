@@ -200,6 +200,7 @@ After this, we get right on the monsters:
   - [Ogre][140]
   - [Oni][141]
   - [Ooze][142]
+  - [Orc][190]
   - [Orcus][143]
   - [Otyugh][144]
   - [Owlbear][145]
@@ -458,3 +459,4 @@ Appendix][188] in the Monster Manual.
 [187]: {{ "/2021/02/28/zombie.html" | relative_url }}
 [188]: {{ "/2021/03/01/traits-appendix.html"  | relative_url }}
 [189]: {{ "/2021/04/22/wraith.html" | relative_url }}
+[190]: {{ "/2020/09/04/orc.html" | relative_url }}
