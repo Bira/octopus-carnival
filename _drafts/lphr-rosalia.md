@@ -8,6 +8,8 @@ tags:
     - hells-rebels
 ---
 
+One of the player characters for my [solo Hell's Rebels campaign][2].
+
 Rosalia Savory used to work at the Kintargo Opera House in a role that, in
 modern times, might have been called "production assistant". She did what needed
 doing backstage, helped the actors out, sang in the background chorus from
@@ -38,9 +40,9 @@ easy-going and fun-loving personality and a tendency to make jokes and maintain
 forced cheer to cope with stressful and sad situations, so it feels like she
 never stops smiling these days.
 
-Her looks and general demeanor are inspired by Pinkie Pie. I've used her in a
-couple of games before, so there's a "yes, her again" note next to her name in
-the character sheet.
+Her looks and general demeanor are inspired by Pinkie Pie. I've used Rosalia in
+a couple of games before, so there's a "yes, her again" note next to her name in
+my personal version of her character sheet.
 
 ## Build Notes
 
@@ -162,3 +164,4 @@ Basic Move 6;
 
 
 [1]: {{ "/2024/08/30/lphr-player-characters.html" | relative_url }}
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
