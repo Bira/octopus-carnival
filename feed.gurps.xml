@@ -5,9 +5,272 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Mar 2026 23:02:32 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2026 23:02:32 +0000</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 01:53:56 +0000</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 01:53:56 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Rosalia Savory, the Mysterious Satirist</title>
+        <description>&lt;p&gt;One of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Rosalia Savory used to work at the Kintargo Opera House in a role that, in
+modern times, might have been called “production assistant”. She did what needed
+doing backstage, helped the actors out, sang in the background chorus from
+offstage, and so on. It was a living, and she liked doing it.&lt;/p&gt;
+
+&lt;p&gt;She was also secretly one of Kintargo’s several “mysterious satirists” who
+published stuff criticizing the more Thrune-loving segments of the city’s
+nobility and government, as well as the church of Asmodeus. In her case it was
+little absurdist play scripts, which she signed as “Little Lamp”.&lt;/p&gt;
+
+&lt;p&gt;So when Barzilai Thrune waltzed in, disappeared a lot of people, burned down
+their homes, and then took over the Opera House as his personal residence, she
+suddenly had a lot of inspiration for new material, and a lot more time in
+which to write it since she was out of a job. Her scripts got a lot more
+accusative, without losing their comedic edge, and there’s a warrant out for her
+arrest as soon as someone finds out who she is.&lt;/p&gt;
+
+&lt;p&gt;Her future plans include going from production assistant to community
+organizer. She’s at the protest at the start of adventure 1 because of course
+she’d be.&lt;/p&gt;
+
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+
+&lt;p&gt;Rosalia has pale freckled skin, brown eyes, and unruly curly brown hair down to
+her shoulders. She usually wears “working stiff” clothes when out and about, and
+likes to carry and play a guitar when she’s not on the job. She has a fairly
+easy-going and fun-loving personality and a tendency to make jokes and maintain
+forced cheer to cope with stressful and sad situations, so it feels like she
+never stops smiling these days.&lt;/p&gt;
+
+&lt;p&gt;Her looks and general demeanor are inspired by Pinkie Pie. I’ve used Rosalia in
+a couple of games before, so there’s a “yes, her again” note next to her name in
+my personal version of her character sheet.&lt;/p&gt;
+
+&lt;h2 id=&quot;build-notes&quot;&gt;Build Notes&lt;/h2&gt;
+
+&lt;p&gt;Rosalia is mostly a standard DF Bard with the usual wide distribution of
+points. She has a couple of bard powers, a small set of mind-affecting spells,
+and a little fencing ability. The biggest deviation here is that she’s naturally
+talented at shooting pistols, which is kinda funny because she doesn’t start in
+possession of a gun. Getting her one, and the corresponding ammo, should be a
+priority once play starts.&lt;/p&gt;
+
+&lt;p&gt;In a fight she’s mostly going to rely on Song of Humiliation to aid her physical
+attacks, and cast spells if she has the time and space to do so.&lt;/p&gt;
+
+&lt;p&gt;Dungeon Fantasy being the way it is, by virtue of being a Bard Rosalia starts
+with by far the most social skills in the group, and only loses out on reaction
+bonuses to Jade, so she’s going to be one of the party’s “faces”.&lt;/p&gt;
+
+&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 10 {0}; &lt;strong&gt;DX&lt;/strong&gt; 13 {60}; &lt;strong&gt;IQ&lt;/strong&gt; 14 {80}; &lt;strong&gt;HT&lt;/strong&gt; 11 {10}&lt;/p&gt;
+
+&lt;p&gt;Damage 1d-2/1d; BL 10kg; HP 10; Will 14; Per 14; FP 13 {6}; Basic Speed 6.00;
+Basic Move 6;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bardic Talent 3 {30}&lt;/li&gt;
+  &lt;li&gt;Charisma 2 {10}&lt;/li&gt;
+  &lt;li&gt;Danger Sense {15}&lt;/li&gt;
+  &lt;li&gt;Gunslinger (One-Handed Guns) {15}&lt;/li&gt;
+  &lt;li&gt;Song of Echoes {14}&lt;/li&gt;
+  &lt;li&gt;Song of Humiliation {4}&lt;/li&gt;
+  &lt;li&gt;Voice {10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Chummy {-5}&lt;/li&gt;
+  &lt;li&gt;Code of Honor (Outlaw’s) {-5}&lt;/li&gt;
+  &lt;li&gt;Compulsive Carousing (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Curious (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Gluttony (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.html&quot;&gt;Secret (Mysterious Satirist)&lt;/a&gt; {-10}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acrobatics (H) DX-2 {1} - 11&lt;/li&gt;
+  &lt;li&gt;Acting (A) IQ {2} - 14&lt;/li&gt;
+  &lt;li&gt;Carousing (E) HT+1 {2} - 12&lt;/li&gt;
+  &lt;li&gt;Connoisseur (Art) (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Current Affairs (E) IQ {1} - 14&lt;/li&gt;
+  &lt;li&gt;Dancing (A) DX-1 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Detect Lies (H) Per-2 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Diplomacy (H) IQ {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Disguise (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) (E) DX {1} - 13&lt;/li&gt;
+  &lt;li&gt;Fast-Talk (A) IQ+1 {1}&lt;sup id=&quot;fnref:1:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 15&lt;/li&gt;
+  &lt;li&gt;Guns (Pistol) (E) DX+1 {2} - 14&lt;/li&gt;
+  &lt;li&gt;Heraldry (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Interrogation (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Intimidation (A) Will-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Merchant (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Musical Composition (H) IQ+1 {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 15&lt;/li&gt;
+  &lt;li&gt;Musical Instrument (Guitar) (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Performance (A) IQ+1 {1}&lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.html&quot;&gt;1&lt;/a&gt; - 15&lt;/li&gt;
+  &lt;li&gt;Poetry (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Propaganda (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Public Speaking (A) IQ+3 {1}&lt;sup id=&quot;fnref:1:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 17&lt;/li&gt;
+  &lt;li&gt;Saber (A) DX+2 {8} - 15&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (E) IQ {1} - 14&lt;/li&gt;
+  &lt;li&gt;Singing (E) HT+5 {1}&lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;1&lt;/a&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Sleight of Hand (H) DX-2 {1} - 11&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Streetwise (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Writing (A) IQ-1 {1} - 13&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bravery (p. 53) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Fear (p. 54) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Foolishness (p. 54) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Hush (p.56) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Loyalty (p. 55) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sense Emotion (p. 26) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sense Evil (p. 26) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sense Foes (p. 26) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Silence (p. 67) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sound (p. 67) (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Voices (p. 68) (H) IQ+1 {1} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Clothing:&lt;/td&gt;
+          &lt;td&gt;$0, 1kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Pouch: Holds 1.5kg.&lt;/td&gt;
+          &lt;td&gt;$10, 0.1kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Guitar: Two-handed instrument.&lt;/td&gt;
+          &lt;td&gt;$150, 2.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Armor:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Light Cloth Body Armor:&lt;/td&gt;
+              &lt;td&gt;$53, 3.15kg&lt;/td&gt;
+              &lt;td&gt;.&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Light Cloth Sleeves:&lt;/td&gt;
+              &lt;td&gt;$25, 1.5kg&lt;/td&gt;
+              &lt;td&gt;.&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Saber:&lt;/td&gt;
+          &lt;td&gt;$700, 1kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 9&lt;/li&gt;
+      &lt;li&gt;Parry (Saber): 10F&lt;/li&gt;
+      &lt;li&gt;DR: 1 (torso and arms), 2 (skull)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Saber (15): 1d-1 cut or imp, Reach 1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+2 from Voice &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+3 from Bardic Talent &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+2 from Charisma &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/03/lphr-rosalia.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/03/lphr-rosalia.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Jania Moonshadow, The Phantom Thief</title>
@@ -1624,321 +1887,6 @@ intentions. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; r
         <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2025/09/17/guns-of-wolfenstein-03.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/09/17/guns-of-wolfenstein-03.html</guid>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Guns of Wolfenstein, Part 02: The Old Blood</title>
-        <description>&lt;p&gt;In &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.html&quot;&gt;our previous article&lt;/a&gt;, we took a look at the guns that appear on Return
-to Castle Wolfenstein (2001), whose timeline I named “Wolfenstein-1” for ease of
-reference. In this one, we’ll take a look at the timeline I called
-“Wolfenstein-2”.&lt;/p&gt;
-
-&lt;p&gt;The Wolfenstein-2 setting is the chronology used by the trilogy of games made up
-of Wolfenstein: The New Order (2014), Wolfenstein: The Old Blood (2015) and
-Wolfenstein II: The New Colossus (2017). The Old Blood is a prequel to The New
-Order, so it happens first even though it’s the second game. We’ll talk about it
-in this post.&lt;/p&gt;
-
-&lt;h2 id=&quot;plot-overview-contains-spoilers&quot;&gt;Plot Overview (Contains Spoilers)&lt;/h2&gt;
-
-&lt;p&gt;The Old Blood is a retelling of the “escape from Castle Wolfenstein” story that
-made up the first two chapters of the 2001 game. Where the Wolfenstein-1 version
-was just a pulpier version of WW2, this one goes all in on the alternate history
-approach.&lt;/p&gt;
-
-&lt;p&gt;It looks like World War 2 in the Wolfenstein-2 timeline starts off more or less
-like it did in our world, but things go off the rails somewhere along the
-way. Deathshead, the same mad scientist from the 2001 game, is wildly more
-successful at coming up with absurd weapons and getting them mass-produced. As a
-result the war streches for longer than it did in our world. The game happens in
-&lt;em&gt;1946&lt;/em&gt;, with the war still raging on and the Allies on the losing side.&lt;/p&gt;
-
-&lt;p&gt;Like in the 2001 game, B.J. Blazkowicz and Agent One infiltrate Castle
-Wolfenstein. Their goal here is more well-defined - among the documents stored
-in the castle, there’s a folder that details the location of Deathshead’s secret
-fortress, where he’s been developing all these superweapons.&lt;/p&gt;
-
-&lt;p&gt;The Castle here is much larger than it was in the first game, and has been
-upgraded from its medieval roots into a giant concrete fortress full of
-superscience security measures, including prototype supersoldiers tethered to
-power lines. Its owner is still an occult-obsessed Nazi officer named Helga, who
-now works under Deathshead.&lt;/p&gt;
-
-&lt;p&gt;The broad outline of events is the same - the two get captured, Agent One dies
-under torture, Blazko escapes the castle. He heads to the nearby village of
-Wolfburg, where Helga leads an archaeological dig in search of buried occult
-secrets. Whatever she does triggers a sort of zombie apocalypse. Helga releases
-a giant zombie and dies failing to control it. B. J. escapes with the secret
-document folder after killing said zombie, completing his mission.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-guns&quot;&gt;The Guns&lt;/h2&gt;
-
-&lt;p&gt;All of the usable guns in this game are captured Nazi hardware, since you start
-the game proper unarmed save for a (surprisingly effective) sharpened metal
-pipe. This “early” in the timeline, a lot of the weapons presented here still
-have real-world equivalents.&lt;/p&gt;
-
-&lt;h3 id=&quot;pistols&quot;&gt;Pistols&lt;/h3&gt;
-
-&lt;h4 id=&quot;pistol-model-1946&quot;&gt;Pistol Model 1946&lt;/h4&gt;
-
-&lt;p&gt;This is still mostly a &lt;strong&gt;Luger P08&lt;/strong&gt; (p. HT98), with the only difference being
-that it has a 10-round magazine instead of an 8-round one.&lt;/p&gt;
-
-&lt;p&gt;It accepts a suppressor, which is available to you from the start. It weights
-0.25kg, adds -1 to Bulk and makes the gun &lt;em&gt;cinematically silent&lt;/em&gt;. This means
-enemies won’t notice the gun firing unless a bullet impacts the environment near
-them, or if they survive being shot by it.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Pistol 1946&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2d+2 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;160/1800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1.2kg/0.3kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10+1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;rifles&quot;&gt;Rifles&lt;/h3&gt;
-
-&lt;h4 id=&quot;assault-rifle-model-46-t&quot;&gt;Assault Rifle Model 46-T&lt;/h4&gt;
-
-&lt;p&gt;This is still pretty much a &lt;strong&gt;StG-44&lt;/strong&gt; (p. HT115). It has a folding foregrip not
-present in the real weapon, but that doesn’t affect its stats in any way either
-in the computer game or in GURPS.&lt;/p&gt;
-
-&lt;h4 id=&quot;marksman-rifle-bombenschluss&quot;&gt;Marksman Rifle (Bombenschluss)&lt;/h4&gt;
-
-&lt;p&gt;This is likely a version of the &lt;strong&gt;Mauser Kar98K&lt;/strong&gt; (p. HT111). Unlike the real
-weapon, this one’s magazine is inserted from the side, which means the gun can
-still be fired from a prone position.&lt;/p&gt;
-
-&lt;p&gt;There are two obtainable upgrades. The first is a 10-round extended magazine
-that adds -1 to Bulk and weights 0.44kg loaded. The other is a scope on a
-tacticool folding mount. It adds 0.5kg to weight and changes Acc to 5+2. It can
-be folded in or out of position with a Ready maneuver.&lt;/p&gt;
-
-&lt;h3 id=&quot;weapon-table&quot;&gt;Weapon Table&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Assault Rifle 46-T&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5d pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;500/1300&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6.6kg/1kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;30(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;9†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Bombenschluss&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7d pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1000/4300&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.5kg/0.25kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;5+1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;4&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;shotguns&quot;&gt;Shotguns&lt;/h3&gt;
-
-&lt;h4 id=&quot;double-barreled-shotgun&quot;&gt;Double Barreled Shotgun&lt;/h4&gt;
-
-&lt;p&gt;This 10-gauge classic makes two appearances: at the start of the game with a
-full length barrel, and at the end with the barrel sawn off to “whippet”
-length. The full-length gun uses the same stats as the &lt;strong&gt;Lefevre Automatic
-Hammerless&lt;/strong&gt; from High Tech. The sawn-off one uses the stats below.&lt;/p&gt;
-
-&lt;h4 id=&quot;shockhammer&quot;&gt;Shockhammer&lt;/h4&gt;
-
-&lt;p&gt;This is a semi-automatic 12-gauge shotgun with a Rube Goldberg action. The gun
-takes shells from a revolving cylinder that alternates between its twin barrels
-with every cycle, which is supposed to allow for a higher rate of fire. The
-stats below are somewhat inspired by the &lt;strong&gt;Daewoo USAS-12&lt;/strong&gt; from High Tech, but
-there are enough differences to warrant its own stat block.&lt;/p&gt;
-
-&lt;p&gt;A possible upgrade here is a 20-round cylinder that changes Shots to 20(5) and
-Weight to 8.2/2.1kg.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;6&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Double-Barreled Shotgun&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2d-1 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4.15/0.15kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2x13&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;2(3i)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;12†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-4&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1/7&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7+1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Shockhammer&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1d+1 pi&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40/800&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7.1/1.05kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3x9&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10(5)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;11†&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-5&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;1/3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;grenades-and-launchers&quot;&gt;Grenades and Launchers&lt;/h3&gt;
-
-&lt;h4 id=&quot;hand-grenade&quot;&gt;Hand Grenade&lt;/h4&gt;
-
-&lt;p&gt;Enemy soldiers use a version of the historical &lt;strong&gt;“stick hand grenade 24”&lt;/strong&gt;
-filled with TNT, as mentioned in p. HT190: Damage 7d cr ex, weight 0.7kg, Fuse
-4-5. They’re not shy about throwing them at you if you stay for more than a few
-seconds behind cover.&lt;/p&gt;
-
-&lt;h4 id=&quot;kampfpistole-war-pistol&quot;&gt;Kampfpistole (“war pistol”)&lt;/h4&gt;
-
-&lt;p&gt;This is a version of a historical flare gun used in WW2 that could also fire
-grenades. Its extremely limited ammo is the best choice for taking out the
-tankiest enemies in the game, so I think it fires the HEAT round described in
-High Tech.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;TL&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weapon&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Damage&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Acc&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Range&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Weight&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;RoF&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Shots&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;ST&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Bulk&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Rcl&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;7&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Kampfpistole&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;4d(10) cr ex&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10/330&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1kg/0.1kg&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1(3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;8&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-2&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;+ 3d cr ex linked&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;heavy-weapons&quot;&gt;Heavy Weapons&lt;/h3&gt;
-
-&lt;p&gt;We see another familiar face here: the &lt;strong&gt;Venom Heavy Machine Gun&lt;/strong&gt;, which loses
-its edgy name but is basically the same weapon I already covered in my &lt;a href=&quot;/octopus-carnival/2022/11/04/guns-of-wolfenstein.html&quot;&gt;previous
-post on Wolfenstein guns&lt;/a&gt;. It’s found in the hands of early-model
-supersoldiers, and has 250 round belts weighting 10kg. Even a beefy guy like
-B. J. has trouble carrying it around.&lt;/p&gt;
-
-&lt;p&gt;This incarnation of the Venom is excellent to mow down human soldiers and
-zombies, but doesn’t actually do much to the supersoldiers that carry
-it. Therefore we can assume it fires regular ammo instead of armor-piercing: Dam
-6d+2 pi.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/08/04/guns-of-wolfenstein-02.html</guid>
         
         <category>gurps</category>
         
