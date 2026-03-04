@@ -75,6 +75,8 @@ campaign. I might add updated versions as the opportunity presents itself.
 
 - [Jania Moonshadow][13]: The Phantom Thief.
 
+- [Rosalia Savory][14]: The Mysterious Satirist.
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -88,3 +90,4 @@ campaign. I might add updated versions as the opportunity presents itself.
 [11]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}
 [12]: {{ "/2026/03/01/lphr-arcturus.md" | relative_url }}
 [13]: {{ "/2026/03/02/lphr-jania.md" | relative_url }}
+[14]: {{ "/2026/03/03/lphr-rosalia.md" | relative_url }}
