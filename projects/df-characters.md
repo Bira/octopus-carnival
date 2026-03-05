@@ -61,7 +61,7 @@ campaign. I might add updated versions as the opportunity presents itself.
 [6]: {{ "/2020/01/27/alexa.html" | relative_url }}
 [7]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
 [8]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}
-[9]: {{ "/2026/03/01/lphr-arcturus.md" | relative_url }}
-[10]: {{ "/2026/03/02/lphr-jania.md" | relative_url }}
-[11]: {{ "/2026/03/03/lphr-rosalia.md" | relative_url }}
-[12]: {{ "/2026/03/05/lphr-urist.md" | relative_url }}
+[9]: {{ "/2026/03/01/lphr-arcturus.html" | relative_url }}
+[10]: {{ "/2026/03/02/lphr-jania.html" | relative_url }}
+[11]: {{ "/2026/03/03/lphr-rosalia.html" | relative_url }}
+[12]: {{ "/2026/03/05/lphr-urist.html" | relative_url }}
