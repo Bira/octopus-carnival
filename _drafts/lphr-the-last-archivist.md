@@ -9,6 +9,8 @@ tags:
     - hells-rebels
 ---
 
+One of the player characters for my [solo Hell's Rebels campaign][2].
+
 Urist Stortebeker is a somewhat unorthodox dwarven priest because he honors gods
 of freedom and knowledge such as Caiden Caylean, Avandra, and Ioun. This
 naturally drew him to the Honored Society of Archivists in Kintargo a few years
@@ -45,8 +47,8 @@ with the weapons. Unlike the typical dwarf character, he tends to act jolly a
 lot of the time, even in the face of adversity and grief.
 
 "Stortebeker" is an epithet that was applied to a historical Dutch pirate. It
-means roughly "someone who upturns cups", which in turn means someone who drinks
-a lot. Appropriate for a priest of the drunk god.
+means roughly "upturner of cups", which in turn means someone who drinks
+a lot. Appropriate for a priest who honors the drunk god.
 
 ## Build Notes
 
@@ -174,3 +176,5 @@ Assumes Light Encumbrance and a DB 1 shield.
   - Sunbolt (14): 1d-9d burn, Acc 2, Range 75/150, costs 0-8 FP.
 
 [^1]: Defaults from Esoteric Medicine (Holy)
+
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}

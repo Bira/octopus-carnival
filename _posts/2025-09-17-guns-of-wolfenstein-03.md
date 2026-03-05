@@ -22,7 +22,7 @@ Though this game was launched a year earlier, its story starts off right after
 The Old Blood ends, in 1946. After B. J. Blaskowicz returns to the Allies with
 the location of General Deathshead's secret hideout, they mount a massive attack
 on that island fortress. This is a higher-budget version of the final chapters
-of the 2001 game, which ended with Deathshead's defeat, but things don't that
+of the 2001 game, which ended with Deathshead's defeat, but things don't go that
 well here.
 
 The attack is a disaster. Deathshead kills most of B.J.'s unit and leaves the
@@ -347,6 +347,7 @@ maneuvers. The weapon uses the Gunner (Beams) skill even when detached.
 *: See description for recharge time.
 
 [1]: {{ "/2025/08/04/guns-of-wolfenstein-02.html" | relative_url }}
+[2]: {{ "/2022/11/04/guns-of-wolfenstein.html" | relative_url }}
 
 [^1]: Seth belongs to the Da'at Yichud, an ancient society of engineers that had
     been building superscience devices as a form of worship since before the
