@@ -77,6 +77,8 @@ campaign. I might add updated versions as the opportunity presents itself.
 
 - [Rosalia Savory][14]: The Mysterious Satirist.
 
+- [Urist Stortebeker][15]: The Last Archivist.
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -91,3 +93,4 @@ campaign. I might add updated versions as the opportunity presents itself.
 [12]: {{ "/2026/03/01/lphr-arcturus.md" | relative_url }}
 [13]: {{ "/2026/03/02/lphr-jania.md" | relative_url }}
 [14]: {{ "/2026/03/03/lphr-rosalia.md" | relative_url }}
+[15]: {{ "/2026/03/05/lphr-urist.md" | relative_url }}

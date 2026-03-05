@@ -42,8 +42,15 @@ page.
 The character sheets here depict how the characters are at the start of the
 campaign. I might add updated versions as the opportunity presents itself.
 
+- [Arcturus Pankrator][9]: The Knight of the Deep.
+
 - [Jade Irinka][8]: The Sixth Raven.
 
+- [Jania Moonshadow][10]: The Phantom Thief.
+
+- [Rosalia Savory][11]: The Mysterious Satirist.
+
+- [Urist Stortebeker][12]: The Last Archivist.
 
 
 [1]: {{ "/projects/pathfinder-iconics/" | relative_url }}
@@ -54,3 +61,7 @@ campaign. I might add updated versions as the opportunity presents itself.
 [6]: {{ "/2020/01/27/alexa.html" | relative_url }}
 [7]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
 [8]: {{ "/2026/02/24/lphr-jade-irinka.html" | relative_url }}
+[9]: {{ "/2026/03/01/lphr-arcturus.md" | relative_url }}
+[10]: {{ "/2026/03/02/lphr-jania.md" | relative_url }}
+[11]: {{ "/2026/03/03/lphr-rosalia.md" | relative_url }}
+[12]: {{ "/2026/03/05/lphr-urist.md" | relative_url }}
