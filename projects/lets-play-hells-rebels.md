@@ -79,6 +79,15 @@ campaign. I might add updated versions as the opportunity presents itself.
 
 - [Urist Stortebeker][15]: The Last Archivist.
 
+## Actual Play
+
+This is where our actual play reports go. They're usually split up by Mythic
+scenes.
+
+### Adventure 01
+
+- [Scene 01][16]: The Aria Park Protest.
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -94,3 +103,4 @@ campaign. I might add updated versions as the opportunity presents itself.
 [13]: {{ "/2026/03/02/lphr-jania.html" | relative_url }}
 [14]: {{ "/2026/03/03/lphr-rosalia.html" | relative_url }}
 [15]: {{ "/2026/03/05/lphr-urist.html" | relative_url }}
+[16]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}
