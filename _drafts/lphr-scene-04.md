@@ -26,8 +26,7 @@ So here are our lists.
 **Threads**
 
 - The Path **
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade)
 
@@ -93,7 +92,7 @@ from rags and carry small and crude weapons, putting up a spirited but
 ultimately doomed defense.
 
 The party advances to help! As soon as the dogs see a bunch of people larger
-than they are appeared, they run away, passing through smaller gaps in the
+than they are approaching, they run away, passing through smaller gaps in the
 walls.
 
 The possums look warily at the newcomers, not yet knowing what to make of
@@ -141,9 +140,9 @@ this, Jania spots something shiny near the ceiling and proceeds to levitate
 towards it. It's a signet ring hanging from a nail! She doesn't recognize the
 heraldry on it, but it's made of platinum and worth a pretty penny.
 
-- GM: $2500, to be exact. Jania succeeded at the Perception roll to spot the
-  ring and the Merchant -4 roll to assess its value. She's also down 1 FP from
-  the levitation spell.
+    [GM] $2500, to be exact. Jania succeeded at the Perception roll to spot the
+    ring and the Merchant -4 roll to assess its value. She's also down 1 FP from
+    the levitation spell.
 
 ### Down Below
 
@@ -171,8 +170,8 @@ tallfolk, their hearts are as honorable as any grimple's!"
 
 After that, he opens the gate using the same key as before, and the delve is on.
 
-- GM: So far we've neatly skipped a lot of the filler fights, but now we got to
-  the main event of this delve.
+    [GM] So far we've neatly skipped a lot of the filler fights, but now we got to
+    the main event of this delve.
 
 ### Polluted Cistern
 
@@ -185,7 +184,7 @@ the old streets became a mix of sewers and other underground tunnels.
 The party finishes going down the stairs and opens a pair of double doors to
 find a huge pool of stinky brown sludge. The few patches of wall and ceiling
 near it that still retain their plaster are covered in evil-looking writing, and
-the two demons splashing around near the marging only make it all look more
+the two demons splashing around near the margin only make it all look more
 sinister. They don't look the talkative type - as soon as they spot the PC's
 lights, they turn and growl, looking like very angry human-sized balls of
 excrement.

@@ -140,13 +140,13 @@ Basic Move 6;
 
 **Loadout**
 
-- Clothing: |$0, 1kg|.
-- Pouch: Holds 1.5kg. |$10, 0.1kg|.
-- Guitar: Two-handed instrument. |$150, 2.5kg|.
+- Clothing: $0, 1kg.
+- Pouch: Holds 1.5kg. $10, 0.1kg.
+- Guitar: Two-handed instrument. $150, 2.5kg.
 - Armor:
-  - Light Cloth Body Armor: |$53, 3.15kg|.
-  - Light Cloth Sleeves: |$25, 1.5kg|.
-- Saber: |$700, 1kg|.
+  - Light Cloth Body Armor: $53, 3.15kg.
+  - Light Cloth Sleeves: $25, 1.5kg.
+- Saber: $700, 1kg.
 
 **Combat**
 

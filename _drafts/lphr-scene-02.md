@@ -8,9 +8,14 @@ tags:
     - hells-rebels
 ---
 
+This is the second scene in my [solo Hell's Rebels campaign][1]. A long time
+passed between me completing the [previous scene][2] and writing up this one,
+but you're seeing it published right after it since all the scenes were written
+long before their publication.
+
 # [GM] Long time no see!
 
-I'm writing this post a full year after finishing the one for Scene 01[^1]!
+I'm writing this post a full year after finishing the one for [Scene 01][2]!
 There are a lot of reasons for this large delay. For the first little while
 after I finished writing the Aria Park scene, I was just so dang satisfied with
 myself I didn't feel the need to play more just yet. You don't know how long I
@@ -104,7 +109,7 @@ Whoever ends up alone will also find Rexus in the map.
 My expectation would be that Jade and Rosalia are together because Jade followed
 Rosalia out. Jania and Arcturus are together by pure chance, and then Urist is
 alone and finds Rexus. That's his goal, and he would have seen him from far away
-in the riot. Mythic, is that how things shake out[^2]? I get an Exceptional Yes,
+in the riot. Mythic, is that how things shake out[^1]? I get an Exceptional Yes,
 which in this case isn't any different from a normal Yes.
 
 - Group 1: Jade & Rosalia.
@@ -330,8 +335,7 @@ as anyone who could be an ally is laying low at the moment.
 ## Threads
 
 - The Path *
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Reunite!
 - Get Organized (Jade)
@@ -342,8 +346,11 @@ as anyone who could be an ally is laying low at the moment.
 - The Chelish Citizens Group
 - The Red Jills
 - The Asmodeans
+- Rexus Victocora
 
 
 
-[^1]: All of these posts were written long before they were published.
-[^2]: Odds are 50/50 at Chaos 6, so actual chances are 13/65/94. I roll a 10.
+[^1]: Odds are 50/50 at Chaos 6, so actual chances are 13/65/94. I roll a 10.
+
+[1]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
+[1]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}

@@ -1,7 +1,7 @@
 # Intro
 
 Our last scene was the first half of a small dungeon delve. The party arrived at
-the Fair Fortune Livery after some shopping, negotiated with the small grimble
+the Fair Fortune Livery after some shopping, negotiated with the small grimple
 community living in its ruined basement, and learned of "foul demons" inhabiting
 a "cursed land" next door to them.
 
@@ -15,7 +15,7 @@ The fight was actually a bit more chaotic than I anticipated. The opposition was
 kinda weak but that last lemure took a lot of killing and managed to inflict
 some damage before it was taken down. Let's increase the Chaos Factor to 6.
 
-Let's also add the Livery Grimbles as "characters". In the default campaign they
+Let's also add the Livery Grimples as "characters". In the default campaign they
 were enemies to be exterminated, but here they're peaceful and might come up
 again.
 
@@ -166,7 +166,7 @@ is a no-brainer, really. So we get to make some Perception rolls for them.
 - Urist's Detect Evil power finds that there's a demon in the area, but none of
   the others can find anything with their mundane senses.
 
-Blosodriette is invisible and trying to be sneaky. I'm giving her Stealth 15,
+Blosodriette is invisible and trying to be silent. I'm giving her Stealth 15,
 and no one could beat that with their Hearing rolls. I do think all of this
 would make Jania cast See Invisible, and I want to say that'd let them spot her
 because she'd be relying on her invisibility to stay hidden. Call it a +10

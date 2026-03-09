@@ -16,8 +16,7 @@ foes, and were killed on the same scenes where they were introduced.
 **Threads**
 
 - The Path ***
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade)
 
