@@ -5,12 +5,12 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Mar 2026 17:00:56 +0000</pubDate>
-    <lastBuildDate>Sun, 08 Mar 2026 17:00:56 +0000</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2026 16:05:50 +0000</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2026 16:05:50 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels! Scene 01</title>
+        <title>Let&apos;s Play Hell&apos;s Rebels! Adventure 01, Scene 01</title>
         <description>&lt;p&gt;This is the first scene I did for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;. Initially
 I wrote stuff into this file as it happened, alternating betweeen Player and GM
 roles as appropriate. Then I did several editing passes to properly format it
@@ -337,8 +337,6 @@ well, the Chaos Factor rises to 6.&lt;/p&gt;
         <category>gurps</category>
         
         <category>dungeon-fantasy</category>
-        
-        <category>character</category>
         
         <category>lets-play</category>
         
@@ -712,76 +710,16 @@ Basic Move 6;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Clothing:&lt;/td&gt;
-          &lt;td&gt;$0, 1kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Pouch: Holds 1.5kg.&lt;/td&gt;
-          &lt;td&gt;$10, 0.1kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Guitar: Two-handed instrument.&lt;/td&gt;
-          &lt;td&gt;$150, 2.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Clothing: $0, 1kg.&lt;/li&gt;
+  &lt;li&gt;Pouch: Holds 1.5kg. $10, 0.1kg.&lt;/li&gt;
+  &lt;li&gt;Guitar: Two-handed instrument. $150, 2.5kg.&lt;/li&gt;
   &lt;li&gt;Armor:
     &lt;ul&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;Light Cloth Body Armor:&lt;/td&gt;
-              &lt;td&gt;$53, 3.15kg&lt;/td&gt;
-              &lt;td&gt;.&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;Light Cloth Sleeves:&lt;/td&gt;
-              &lt;td&gt;$25, 1.5kg&lt;/td&gt;
-              &lt;td&gt;.&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
+      &lt;li&gt;Light Cloth Body Armor: $53, 3.15kg.&lt;/li&gt;
+      &lt;li&gt;Light Cloth Sleeves: $25, 1.5kg.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Saber:&lt;/td&gt;
-          &lt;td&gt;$700, 1kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Saber: $700, 1kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
