@@ -296,3 +296,11 @@ The party didn't manage to handle the situation without getting into a fight,
 but they did recruit Vendalfek, so that's 1 point to each PC. They do get
 another point for winning the fight, though. Their notoriety also increases
 by (1d4 -> 2).
+
+## [Both] Analysis
+
+Dottari are really annoying to fight, because while their offensive skill is
+relatively modest, their defenses are high enough to succeed a lot of the
+time. And I think I might have forgotten the -4 to defenses for stunned
+characters several times in this fight, to boot, so it got turned into a bit of
+a slog at the end.

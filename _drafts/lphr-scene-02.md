@@ -1,10 +1,20 @@
+---
+layout: post
+title: "Let's Play Hell's Rebels! Adventure 01, Scene 02"
+tags:
+    - gurps
+    - dungeon-fantasy
+    - lets-play
+    - hells-rebels
+---
+
 # [GM] Long time no see!
 
-It's been a year! There are a lot of reasons for my large delay in updating
-this. For the first little while after I finished writing the Aria Park scene, I
-was just so dang satisfied with myself I didn't feel the need to play more just
-yet. You don't know how long I had that scene stuck in my head, and it was so
-nice to finally game it out.
+I'm writing this post a full year after finishing the one for Scene 01[^1]!
+There are a lot of reasons for this large delay. For the first little while
+after I finished writing the Aria Park scene, I was just so dang satisfied with
+myself I didn't feel the need to play more just yet. You don't know how long I
+had that scene stuck in my head, and it was so nice to finally game it out.
 
 After I started thinking about what to do next, I pretty soon ran into a major
 creative block stemming from a lack of battle maps. It kinda affected me when I
@@ -64,7 +74,7 @@ Our list of characters is:
 There are a lot more people who might appear in the adventure but these are the
 groups who are in the original random encounter tables. They'll do for now.
 
-# Scene 02: Fights in Tight Spaces
+# [GM] Scene 02: Fights in Tight Spaces
 
 The original adventure transitioned PCs directly from the riot to another combat
 scene where they fought some CCG thugs and rescued Rexus. I'm going do something
@@ -94,7 +104,7 @@ Whoever ends up alone will also find Rexus in the map.
 My expectation would be that Jade and Rosalia are together because Jade followed
 Rosalia out. Jania and Arcturus are together by pure chance, and then Urist is
 alone and finds Rexus. That's his goal, and he would have seen him from far away
-in the riot. Mythic, is that how things shake out[^1]? I get an Exceptional Yes,
+in the riot. Mythic, is that how things shake out[^2]? I get an Exceptional Yes,
 which in this case isn't any different from a normal Yes.
 
 - Group 1: Jade & Rosalia.
@@ -124,7 +134,22 @@ encounter table has a group composed of a cultist (Cleric 3), and a Redactor
 Threats ot the Nentir Vale, and use a couple of Tar Devils from the same place
 instead of the monk. Can't make it too easy for one of our best fighters.
 
-## Group 1: Jade & Rosalia, Crossing, vs. Asmodeans
+# [PC] Group 1: Jade & Rosalia, Crossing, vs. Asmodeans
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/lphr-scene-02-group-1.png" | absolute_url }}"/>
+  <figcaption>
+     An urban intersection where someone abandoned a cart full of produce in a
+     hurry, causing some of its cargo to spill out.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+Our scene is set in an urban crossroad with an abandoned cart and a big box of
+produce taking up space in the center. Rosalia and Jade are also in the center,
+separated by the clutter and surrounded by enemies. A tar devil approaches from
+the north, another one from the south, and a hooded cultist from the west.
 
 The PCs still have their weapons in hand, having just left the scene of the
 riot. The enemies are all ready too, since they were hunting "heretics" in this
@@ -149,27 +174,41 @@ The two PCs have little trouble dispatching the remaining devil after that, with
 Rosalia stunning him and Jade finishing the job with a decapitating slash. Now
 stained by tarry ichor, the two continue their escape.
 
-### Analysis
+## Analysis
 
 The fight took 4 rounds overall and the "tight spaces" effect was keenly
 felt.
 
 
-**Player Hat**: The PCs were positioned such that an enemy facing one of them
+**Player**: The PCs were positioned such that an enemy facing one of them
 risked exposing their back to the other, which was pretty good! However, Rosalia
 could have made better use of her Song of Humiliation, instead of trying to stab
 the adept while Jade dealt with the tar devils alone. Still, stunning the dark
 adept for that first turn deactivated a major threat early on, as neither PC had
 great defenses against his Dark Tendrils spell.
 
-**GM Hat**: It was pretty hard dealing with the PC's positioning. The Dark Adept
+**GM**: It was pretty hard dealing with the PC's positioning. The Dark Adept
 should probably have kept trying to cast Dark Tendrils after he recovered from
 the initial stun. I was a bit too lenient here. The Tar Devils were also not a
 huge threat without their net attack from TNV, but I think this was okay because
 this is not supposed to be a deadly fight for the PCs. I'll add that in the
 future.
 
-## Group 2: Arcturus & Jania, Tavern, vs. Dottari
+# [Player] Group 2: Arcturus & Jania, Tavern, vs. Dottari
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/lphr-scene-02-group-2.png" | absolute_url }}"/>
+  <figcaption>
+    A tavern that was busy before the riot started a few streets over, causing
+    the staff and patrons to run away.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+In the picture above we see a narrow street in front of a tavern, cluttered by
+tables and chairs. Jania and Art are in the center, back to back, with a
+dottario coming in from the west and two others from the east.
 
 Arcturus does not have his knife in hand, but Jania has her cane. The dottari
 begin armed. This map is considerably more open than the Crossing, and this time
@@ -204,7 +243,7 @@ as she steps behind the restrained dottario and uses her cane for a "backstab"
 expenditure for extra damage). That causes a whopping 32 injury to the guard,
 more than enough to finish him off.
 
-### Analysis
+## Analysis
 
 This time the PCs had the positioning disadvantage. They took out the left flank
 of the pincer early, but the two remaining dottari were still effective at
@@ -217,7 +256,19 @@ factor even for a PC that has combat skills as high as he does.
 Altogether whis was a much more harrowing fight for our heroes even though
 dottari are less dangerous than tar devils.
 
-## Group 3: Urist & Rexus, Alley, vs. CCG Thugs
+# [Player] Group 3: Urist & Rexus, Alley, vs. CCG Thugs
+
+{::nomarkdown}
+<figure class="center">
+  <img src="{{ "/assets/lphr-scene-02-group-3.png" | absolute_url }}"/>
+  <figcaption>
+    A dirty dead end alley at the end of a side street.
+  </figcaption>
+</figure>
+{:/nomarkdown}
+
+I didn't take a VTT screenshot for this one, so here's the base map
+instead. We're in a dead end alley at the end of a narrow street.
 
 This one starts with Rexus cornered in the alley's dead end, Urist at the mouth
 of the alley to the west, and 5 CCG thugs between them. I don't have a character
@@ -251,18 +302,17 @@ to hit all the enemies surrounding him and finish the fight. By the time he
 does, Rexus has finished his side of it as well, aided by some timely critical
 failures on the part of the thugs.
 
+## Analysis
 
-### Analysis
+I had an inkling this would be a challenging fight but even so it
+ended up being a lot more eventful than I expected. It taught me that buffing
+spells matter, and that even minions can be a bother when they stick around long
+enough (thanks to a streak of good defense rolls). That left us with a 2.5:1
+ration of enemy to PC actions for most of the fight. Individually Urist was
+quite a bit better than a thug, but if it wasn't for the Armor spell he'd have
+been worn down by their numbers.
 
-I had an inkling this would be a challenging fight but even so it ended up being
-a lot more eventful than I expected. It taught me that buffing spells matter,
-and that even minions can be a bother when they stick around long enough (thanks
-to a streak of good defense rolls). That left us with a 2.5:1 ration of enemy to
-PC actions for most of the fight. Individually Urist was quite a bit better than
-a thug, but if it wasn't for the Armor spell he'd have been worn down by their
-numbers.
-
-# More Mythic Bokkeeping
+# [GM] More Mythic Bokkeeping
 
 Despite a few surprising rolls, the group did well in these fights, so Chaos
 Factor goes back down to 5.
@@ -295,5 +345,5 @@ as anyone who could be an ally is laying low at the moment.
 
 
 
-
-[^1]: Odds are 50/50 at Chaos 6, so actual chances are 13/65/94. I roll a 10.
+[^1]: All of these posts were written long before they were published.
+[^2]: Odds are 50/50 at Chaos 6, so actual chances are 13/65/94. I roll a 10.
