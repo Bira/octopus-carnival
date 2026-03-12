@@ -79,6 +79,10 @@ campaign. I might add updated versions as the opportunity presents itself.
 
 - [Urist Stortebeker][15]: The Last Archivist.
 
+## Monsters and NPCs
+
+These get their own page: [The Hell's Rebels Bestiary][17]!
+
 ## Actual Play
 
 This is where our actual play reports go. They're usually split up by Mythic
@@ -104,3 +108,4 @@ scenes.
 [14]: {{ "/2026/03/03/lphr-rosalia.html" | relative_url }}
 [15]: {{ "/2026/03/05/lphr-urist.html" | relative_url }}
 [16]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}
+[17]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
