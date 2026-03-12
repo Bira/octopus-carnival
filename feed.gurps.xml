@@ -5,9 +5,124 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Mar 2026 16:05:50 +0000</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2026 16:05:50 +0000</lastBuildDate>
+    <pubDate>Thu, 12 Mar 2026 18:33:07 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:33:07 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: CCG Thug</title>
+        <description>&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
+
+&lt;p&gt;CCG stands for “Chelish Citizen’s Group”. Basically, if we consider the
+government of Cheliax to be facist (and I do), these are your brownshirts. They
+were so happy with Barzilai’s ascension to power they formed an unofficial
+voluntary organization about it.&lt;/p&gt;
+
+&lt;p&gt;The CCG believes they have tacit permission from the big boss to hurt people
+just like they’ve always wanted to… and, in this, they’re right. Barzilai
+loves giving them privileged access to situations where they can help the
+dottari crush “seditious rebels”, or to hire them as contractors for tasks he
+can’t spare the manpower for. And when they spontaneously decide to do a cheeky
+bit of assault &amp;amp; battery or public torture, he turns a blind eye.&lt;/p&gt;
+
+&lt;p&gt;CCG thugs have the bare minimum of combat training and pretty much no tactical
+awareness unless directed by a more skilled leader. They’ll try to surround and
+repeatedly club the nearest victim until that victim stops moving. Their morale
+crumbles pretty fast once they see those victims are capable of fighting back.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
+
+&lt;h2 id=&quot;ccg-thug&quot;&gt;CCG Thug&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 10; &lt;strong&gt;DX&lt;/strong&gt; 10; &lt;strong&gt;IQ&lt;/strong&gt; 9; &lt;strong&gt;HT&lt;/strong&gt; 10;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 10; &lt;strong&gt;Will&lt;/strong&gt; 9; &lt;strong&gt;Per&lt;/strong&gt; 9; &lt;strong&gt;FP&lt;/strong&gt; 10;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SM&lt;/strong&gt; 0; &lt;strong&gt;Speed&lt;/strong&gt; 5.00; &lt;strong&gt;Move&lt;/strong&gt; 4;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 8; &lt;strong&gt;Parry&lt;/strong&gt; 9 (club); &lt;strong&gt;DR&lt;/strong&gt; 1 (Torso);&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Club&lt;/strong&gt; (10): 1d cr; Reach 1.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Brawling Punch&lt;/strong&gt; (10): 1d-3 cr; Reach C.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Wrestling Grab&lt;/strong&gt; (10): 1d-2 control (1d-4 one-handed); Reach C.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;: Your pick from Bully, Fanaticism (Thrune), Intolerance (Total) and
+other unpleasantness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Mundane.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipment&lt;/strong&gt;: Padded vest, club, manacles, 2dx$5 in coins. Light Encumbrance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Threat Level&lt;/strong&gt;: Usually Fodder, but can go up to Worthy depending on the
+scenario.&lt;/p&gt;
+
+&lt;h1 id=&quot;impressions-and-design-notes&quot;&gt;Impressions and Design Notes.&lt;/h1&gt;
+
+&lt;p&gt;A schlub with a club. They should pose very little threat to delvers, even as
+Worthies, unless they end up with a very long streak of good rolls. This
+happened a couple of times in my actual play, but that still led more to &lt;em&gt;long&lt;/em&gt;
+fights than &lt;em&gt;dangerous&lt;/em&gt; ones.&lt;/p&gt;
+
+&lt;p&gt;If you have a lot of CCG thugs in play and it feels like the fight is going to
+be a slog, feel free to have them break and run once a significant percentage of
+them (or one of their leaders) is taken down.&lt;/p&gt;
+
+&lt;p&gt;CCG thugs feature prominently in the first half of Adventure 01, but the PCs
+outgrow them after that and they get replaced by dottari guards as the
+rank-and-file human opposition.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2026 18:20:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-ccg-thug.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-ccg-thug.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>monster</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: Introduction</title>
+        <description>&lt;p&gt;If you’ve been reading my recent posts here you know I’ve been playing a &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo
+game of Hell’s Rebels&lt;/a&gt; using GURPS Dungeon Fantasy. And a big part of my
+preparation for actually playing that game involves converting monsters when
+necessary. So I thought, why not post them here? After all, monster-posting has
+come to be a big part of my brand here at Octopus Carnival.&lt;/p&gt;
+
+&lt;p&gt;Here’s how we’ll do it: I’ll post the converted enemies and NPCs here in the
+blog as they appear in our published session logs. I’ll add a project page for
+them where they will be ordered both in order of appearance, and in alphabetical
+order. You’ll get a brief description, GURPS stats, and my impressions on the
+monster, both from looking at the stats and actually facing the thing in
+play.&lt;/p&gt;
+
+&lt;p&gt;I’ll convert, and therefore post, only the monsters I actually use in
+play. Hell’s Rebels books usually have enormous random encounter tables and new
+monsters at at the end, but I gather most people ignore the former and the later
+never appear on the adventure itself. I’ll leave those alone unless I actually
+have a use for them in my game. And of course, if I cook up a new monster for
+use in the game, it will also show up here.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-intro.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-intro.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels! Adventure 01, Scene 01</title>
@@ -1472,177 +1587,6 @@ project over the years.&lt;/p&gt;
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/18/lphr-project-page.html</guid>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: A Decision</title>
-        <description>&lt;p&gt;As I mentioned in a &lt;a href=&quot;/octopus-carnival/2025/12/22/lphr-background-change.html&quot;&gt;post back in December&lt;/a&gt;, I’ve been actually playing this
-solo game in a sporadic fashion for years. And as I said back when I started, I
-planned to post it here. So why didn’t I?&lt;/p&gt;
-
-&lt;p&gt;Basically, it was anxiety over art.&lt;/p&gt;
-
-&lt;p&gt;The first thing I was going to do was to post the stats for my player
-characters, and since these were going to be “proper blog posts”, I decided I
-wanted to have illustrations for them just like I have for all the other
-characters I posted before.&lt;/p&gt;
-
-&lt;p&gt;My method of procuring them was going to be the same. I’d use search indexes and
-trawl some specific art sites for published images I could add to the post, with
-proper credit and a link to the original.&lt;/p&gt;
-
-&lt;p&gt;For certain characters, that’s dead easy. But for a couple of others I ended up
-never finding an image that &lt;em&gt;exactly&lt;/em&gt; matched what I wanted. Or when I did find
-one that had the right vibe, it turned out the artist explicitly forbade this
-kind of usage, even with proper credit. Also one of my sources was Pinterest and
-I had just learned that one site had a serious “proper credit” issue. Whoops!
-What to do?&lt;/p&gt;
-
-&lt;p&gt;I know exactly what suggestion is already forming in a lot of your brains right
-now, and I’m gonna stop y’all right there and say “no”. I’m not using AI for
-this, or anything else. Not now, not ever.&lt;/p&gt;
-
-&lt;p&gt;So after way too long you’ll get those posts without illustrations at all. I
-can’t draw, but I can write, so you’re getting verbal descriptions. And maybe
-then I can finally proceed with publishing this.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/02/11/lets-play-hells-rebels-announcement.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/11/lets-play-hells-rebels-announcement.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Origin Corrections</title>
-        <description>&lt;p&gt;“Wait,” you might ask, “are you still doing this?”. Yes, I am! I have been doing
-it since shortly after the last time I talked about it, off and on, but I
-haven’t posted anything else here in the blog for entirely personal reasons that
-I should overcome any day now.&lt;/p&gt;
-
-&lt;p&gt;And we’re going to start with a little correction here, because over the course
-of my play, I’ve looked at the timelines a bit closer and the details for the
-Knight of the Deep &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;origin&lt;/a&gt; don’t make sense as written.&lt;/p&gt;
-
-&lt;p&gt;The PC arrives at Kintargo at the start of Adventure 01, which is supposed to
-last at least eight weeks or so given the pace at which the “strategic”
-rebellion turns move.&lt;/p&gt;
-
-&lt;p&gt;However, the aquatic elves that origin is concerned with rescuing are only
-captured in the final stretch of Adventure 02. Here’s the timeline as written in
-the adventure:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The elves arrive in town maybe a week or two before the day of their
-capture. This would be in the middle of Adventure 02.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;They are seeking Shensen’s help with their problems back home. When they fail
-to find her, they spend some time exploring the waters around Kintargo before
-being captured by the aboleth’s minions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The day of their capture is “fuzzy” - it’s the day before the PCs first enter
-the adventure’s final dungeon. Once they do, the GM is supposed to track their
-condition over time.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The elves might starve before being rescued, and if they’re still alive after
-two weeks they’re taken back home to be dominated by the aboleth.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If we take the Knight’s current background as written, it would mean the elves
-have been captured &lt;em&gt;before Adventure 01&lt;/em&gt;. If we want the PC to have any chance
-at all to rescue the elven scouts, we either have to make the Lucky Bones delve
-the &lt;em&gt;very first thing&lt;/em&gt; the PCs do after the riot, or we have to change the
-background.&lt;/p&gt;
-
-&lt;p&gt;Doing the former is actually no trouble in Dungeon Fantasy. Starting delvers are
-already strong enough to tackle the place, you just might need to put some magic
-weapons within easy reach in the first level. If that’s what you want, just have
-Laria Longroad point them to the place directly instead of the Wasp Nest.&lt;/p&gt;
-
-&lt;p&gt;Since I have already played through the Wasp Nest storyline on my own and I
-don’t want to restart the game all the way from the beginning, though, I’m going
-to change the background.&lt;/p&gt;
-
-&lt;p&gt;Instead of being sent to rescue the scouts, the Knight will be sent in to seek
-Shensen’s aid. This gives them a stronger reason to stick with the rebellion,
-and a better clue of which path to follow in pursuit of their goals.&lt;/p&gt;
-
-&lt;p&gt;The scouts still go to Kintargo in Adventure 02, but this time they do so to
-find the Knight, who has been taking much longer than anticipated to return with
-Shensen.&lt;/p&gt;
-
-&lt;p&gt;Rules-wise, the only thing that changes is that the optional Obsession to find
-Aava becomes an Obsession to find Shensen, worth the same number of points.&lt;/p&gt;
-
-&lt;p&gt;I’ve also changed the description of the theme in the &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;original post&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;pc-origin-knight-of-the-deep&quot;&gt;PC Origin: Knight of the Deep&lt;/h2&gt;
-
-&lt;p&gt;You come from one of the subaquatic communities off the coast of Ravounel, where
-you enjoy an heroic reputation. You recently went to visit your friend Aava in
-the coastal village of Acisazi, only to find the village suffering under a
-strange malaise. The village’s elder told you this was caused by a curse that
-was beyond her power to break, and begged you to seek the aid of Shensen, a
-powerful bard and priest of Sarenrae who lived in the city of Kintargo. You
-accepted.&lt;/p&gt;
-
-&lt;p&gt;You arrive at this land-lubber town to find it embroiled in a lot more trouble
-than you thought possible. Shensen is nowhere to be found. You suspect she
-vanished into the prisons of the despotic Barzilai Thrune, and your queries have
-led you to the Aria Park protest. You suspect you might need to bloody this
-human despot’s nose to fulfill your mission, and that’s just fine with you.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: You must belong to a species capable of breathing underwater!
-Dungeon Fantasy 3: The Next Level contains two possible choices here: the Sea
-Elf and the Water-Infused. From this blog, you might also pick the [Argonian][2]
-or perhaps a &lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.htlm&quot;&gt;Warforged&lt;/a&gt; who has been modified to be hydrodynamic and
-Amphibious. And of course we also have a whole article about the [Denizens of
-the Sea][5] that also contains a few usable ancestries.&lt;/p&gt;
-
-&lt;p&gt;This theme is open to any profession, but martial types should probably keep in
-mind the rules for [underwater combat for fish-people][3].&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Benefits&lt;/strong&gt;: The people of Acisazi know and trust you, and Aava is your good
-friend (or even a relative if you’re also a sea elf).&lt;/p&gt;
-
-&lt;p&gt;You can add Swimming, Aquabatics and Survival (Undersea) to your template as
-optional skills, and should probably put some points in them during character
-creation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drawbacks&lt;/strong&gt;: Add Obsession (find Shensen) (12) {-5} to your template as an
-optional disadvantage. It’s what you already want to do anyway, but like the
-Last Archivist’s Obsession it might drive you to unwise actions.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2025/12/22/lphr-background-change.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2025/12/22/lphr-background-change.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>character</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
         
         
       </item>
