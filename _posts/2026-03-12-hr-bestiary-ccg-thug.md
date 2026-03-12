@@ -9,6 +9,8 @@ tags:
     - monster
 ---
 
+Part of the [Bestiary][1] for my [solo Hell's Rebels game][2].
+
 # The Lore
 
 CCG stands for "Chelish Citizen's Group". Basically, if we consider the
@@ -68,3 +70,6 @@ them (or one of their leaders) is taken down.
 CCG thugs feature prominently in the first half of Adventure 01, but the PCs
 outgrow them after that and they get replaced by dottari guards as the
 rank-and-file human opposition.
+
+[1]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
