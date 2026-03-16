@@ -5,9 +5,142 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Mar 2026 02:04:00 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 02:04:00 +0000</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2026 14:43:07 +0000</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2026 14:43:07 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: Nox and Mephiry</title>
+        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nox is technically the “final boss” for adventure 01, but she appears right in
+Scene 01 as a scary threat to run away from, and it’s conceivable Dungeon
+Fantasy Delvers might try to fight her here.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lore&quot;&gt;The Lore&lt;/h2&gt;
+
+&lt;p&gt;The original adventure has more detail about her biography, but all we really
+need to know is that Nox is one of Barzilai Thrune’s loyal lieutenants, serving
+him voluntarily and gleefully. She can be found either acting as a bodyguard to
+him, or in command of a detachment of dottari or other minions on an “away
+mission”.&lt;/p&gt;
+
+&lt;p&gt;Barzilai has “rewarded” Nox by binding her soul to a bearded devil, giving her
+powerful regeneration and powers resembling the devil’s. In exchange, once she
+does die her soul will go straight to Hell.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Nox’s pet hell hound Mephiry is always close to her, so you get stats for both.&lt;/p&gt;
+
+&lt;h2 id=&quot;nox&quot;&gt;Nox&lt;/h2&gt;
+
+&lt;p&gt;Nox is about as beefy as a starting Knight, with her infernal powers added on
+top. She’s obviously a boss monster, and follows all the usual rules as the
+PCs. She will employ all the fancy moves allowed by her high skill and Weapon
+Master advantage, will go for the most vulnerable targets, and will make the
+same HT rolls as a PC would when her hit points go into the negatives.&lt;/p&gt;
+
+&lt;p&gt;Her monster class is still Mundane despite the devil possession. Her
+regeneration can be neutralized by Holy attacks, overpowered by sufficiently
+extensive dismemberment (like a beheading), or bypassed by creative murder
+methods like suffocation or drowning.&lt;/p&gt;
+
+&lt;p&gt;If Nox realizes she’s going to lose the fight she will attempt to teleport away,
+which follows the normal rules for casting (and interrupting!) a spell, except
+that it requires no skill roll on her part.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 15; &lt;strong&gt;DX&lt;/strong&gt; 14; &lt;strong&gt;IQ&lt;/strong&gt; 10; &lt;strong&gt;HT&lt;/strong&gt; 13;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 10; &lt;strong&gt;Parry&lt;/strong&gt; 14 (glaive);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 0 (head); 7 (front body); 4/2 (everywhere else).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 15; &lt;strong&gt;Will&lt;/strong&gt; 10; &lt;strong&gt;Per&lt;/strong&gt; 10; &lt;strong&gt;FP&lt;/strong&gt; 13;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 6.25; &lt;strong&gt;Move&lt;/strong&gt; 6; &lt;strong&gt;SM&lt;/strong&gt; 0;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dwarven Dueling Glaive&lt;/strong&gt; (20): 2d+7 cut or 1d+6 imp; Reach 1,2*.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Emergency Infernal Teleport&lt;/strong&gt;: Casting time 3 seconds, costs 5 FP; teleports
+her to a point about 150m from the starting position, and then she runs away
+on foot.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Combat Reflexes; High Pain Threshold; DR 15 (vs. fire);
+Regeneration 1 HP/second (but not against Holy attacks); Vulnerable to Holy
+attacks (1.5x damage); Weapon Master (dueling glaive);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Mundane.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipment&lt;/strong&gt;: Balanced dwarven glaive, Custom suit of armor (see below),
+mithral key, monetary loot (see below).&lt;/p&gt;
+
+&lt;h2 id=&quot;mephiry-the-hell-hound&quot;&gt;Mephiry the Hell Hound&lt;/h2&gt;
+
+&lt;p&gt;Hell hounds are statted up in DF: Monsters, but here I’m making my own slightly
+beefier version based on that one, plus the Hound ally from DF5, plus my
+guidelines from &lt;a href=&quot;/octopus-carnival/gurps/2016/12/17/wolves.html&quot;&gt;this post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I still haven’t decided if this will apply to every hell hound in the adventure
+or just to Mephiry. Treat her either as a Worthy or as a mini-Boss depending on
+how cruel you’re feeling towards your players, since she will likely fight
+alongside Nox. If on the other hand you’re feeling a bit more merciful, just use
+the hellhound stat block from DF: Monsters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 13; &lt;strong&gt;DX&lt;/strong&gt; 14; &lt;strong&gt;IQ&lt;/strong&gt; 6; &lt;strong&gt;HT&lt;/strong&gt; 14;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 11; &lt;strong&gt;DR&lt;/strong&gt; 5 (15 vs. Fire); &lt;strong&gt;SM&lt;/strong&gt; 0;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 13; &lt;strong&gt;Will&lt;/strong&gt; 11; &lt;strong&gt;Per&lt;/strong&gt; 11; &lt;strong&gt;FP&lt;/strong&gt; 14;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 7; &lt;strong&gt;Move&lt;/strong&gt; 8/12;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Bite&lt;/strong&gt; (16): 1d+1 cutting plus linked 1d+1 control; 1d burning follow-up;
+Reach C.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Claw&lt;/strong&gt; (16): 1d+1 crushing; Reach C.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fire Breath&lt;/strong&gt; (14): Costs 1 FP to use; 2d burning; Range 5/10, but treat as
+a melee attack similar to a jet spell.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Dependency (Mana); Immunity to Metabolic Hazards;
+Quadruped;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Demon.&lt;/p&gt;
+
+&lt;h1 id=&quot;loot&quot;&gt;Loot!&lt;/h1&gt;
+
+&lt;p&gt;Nox’s loot is elaborate enough that I think it needs a section on its own.&lt;/p&gt;
+
+&lt;p&gt;Her suit of armor has a Plate breastplate covering all of her “body” hit
+locations from the front, and light mail covering the limbs and the back of the
+body. It has no helmet, but the whole thing is enchanted with Fortify 1 and
+Lighten 1. As mentioned in the stat block, it gives DR 7 to the front of the
+body and DR 4/2 to all other locations. It’s worth $5425 and weights 13.95kg.&lt;/p&gt;
+
+&lt;p&gt;She has a belt pouch with 20 gold coins ($8000, 0.20kg) in it. In the original
+this was split up between miscellaneous coinage and diamond dust, but I think
+it’s worth simplifying.&lt;/p&gt;
+
+&lt;p&gt;After all this, the dwarven dueling glaive she wields is probably her cheapest
+possession ($400, 3kg).&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/16/hr-bestiary-nox.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/16/hr-bestiary-nox.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>bestiary</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Bestiary: Dottari Guard</title>
@@ -1559,117 +1692,6 @@ Basic Move 7;&lt;/p&gt;
         <category>lets-play</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Review: GURPS Gun Stats</title>
-        <description>&lt;p&gt;Imagine the following situation: you want to feature a certain gun in your
-campaign, but you want to do it “properly”. You’re not the kind of GM who would
-feel good about just tossing some random numbers in there.&lt;/p&gt;
-
-&lt;p&gt;The weapon in question is not in any of your books, and it’s different enough
-from the ones that are that you can’t just reskin an existing gun. That’d be the
-same as using random numbers.&lt;/p&gt;
-
-&lt;p&gt;If the story above resonated with you, then you’ll love GURPS Gun Stats. It
-gives you an official system to write up GURPS 4th Edition stats for guns
-starting from their real world data. If the lack of these rules stopped you
-before, you’ll love this book.&lt;/p&gt;
-
-&lt;p&gt;Sure, players who were really into statting up guns might already have been
-doing this for years by either building them using the rules from GURPS Vehicles
-for 3rd edition, or by using a &lt;a href=&quot;https://gamingballistic.com/2022/04/11/old-ballistics-spreadsheet-a-repost/&quot;&gt;very scary unofficial spreadsheet&lt;/a&gt; cooked up
-by Douglas Cole for his own use. Gun Stats is still useful for them, as it’s
-much simpler than the spreadsheet.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-it-looks&quot;&gt;How It Looks&lt;/h2&gt;
-
-&lt;p&gt;This is a typical Warehouse 23 PDF. All black and white, with the by now
-classical GURPS two-column layout combined with the usual excellent table of
-contents and index. Its written by David Pulver with additional material by
-S.A. Fisher Hans-Christian Vortisch, which is kind of a seal of quality in
-itself when it comes to gun-nut material in GURPS.&lt;/p&gt;
-
-&lt;p&gt;The interior art is mostly a mix of illustrations clearly based on photos or 3D
-models with a weird “acid etching” surface filter applied to them to unify the
-look. You also have a few hand-drawn illustrations. The art credits are fairly
-long, listing several photo repositories and 3D studios in addition to a couple
-of individual artists. I admit the “acid etching” filter made me take a closer
-look, but I believe all the art in this book is either drawn or edited by human
-hands.&lt;/p&gt;
-
-&lt;p&gt;The Totally-Not-From-Assassin’s Creed lady on page 9 has a bit of an awkward
-pose, but it’s organic awkwardness. The rest of the pieces are fine, and look
-good without getting in the way of the text.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-it-works&quot;&gt;How It Works&lt;/h2&gt;
-
-&lt;p&gt;One thing I found nifty about the book is that it’s more than a collection of
-formulas. It has some instruction on how to actually do the research to get that
-real-life gun data, and a little checklist. You’ll need things like the empty
-weight, barrel length and overall length of the gun itself; the weight and
-dimensions of its projectile and of the whole cartridge; and how much propellant
-it uses per shot.&lt;/p&gt;
-
-&lt;p&gt;Some of those stats (like the weights and costs) can be written straight into
-the stat sheet, while others are used in relatively simple equations to derive
-stuff like damage, Accuracy, and range.&lt;/p&gt;
-
-&lt;p&gt;And that’s it. While those simple calculations can still be a little intense
-they’ll get you the results you want.&lt;/p&gt;
-
-&lt;p&gt;At the end of the book you have a printable checklist for your own research, and
-three example weapons: a French anti-material rifle, a 19th-century 6-pounder
-cannon, and the gun on the M1A2 Abrams tank.&lt;/p&gt;
-
-&lt;h2 id=&quot;caveats-and-annoyances&quot;&gt;Caveats and Annoyances&lt;/h2&gt;
-
-&lt;p&gt;The book works best when dealing with historical or modern guns that have ample
-information available to the public, whether in Wikipedia, more specialized
-sites, or even sales brochures. The less information is available for a specific
-weapon, the more you’ll have to guesstimate when filling your checklist.&lt;/p&gt;
-
-&lt;p&gt;You can already see this with the Abrams tank gun here. Recent data about it and
-its ammunition is classified, so they either use Gulf War-era information or
-just make educated guesses about some of its measurements.&lt;/p&gt;
-
-&lt;p&gt;Fictional guns will often be harder, because they very often lack a lot of
-measurements entirely, as those weren’t necessary to tell the story. You’ll have
-to come up with those yourself, or maybe go looking for the work of other fans
-who have already spent a ton of time doing exactly that.&lt;/p&gt;
-
-&lt;p&gt;This is all perfectly doable, but presumably you wanted this book because you
-didn’t want to guess all the numbers. On the other hand, doing this will give
-you a pretty good ideas of the ways in which this or that fictional weapon is
-unrealistic.&lt;/p&gt;
-
-&lt;p&gt;A final annoyance for me specifically: like all other GURPS books, this one uses
-Imperial measurements exclusively for its calculations. Yes, even though modern
-gun data is often presented in metric. You gotta convert all of that to feet,
-pounds, and inches before doing the work, which is doubly annoying to me because
-I’m going to convert a lot of that right back for the final writeups.&lt;/p&gt;
-
-&lt;h2 id=&quot;final-impressions&quot;&gt;Final Impressions&lt;/h2&gt;
-
-&lt;p&gt;GURPS Gun Stats gives me the same impression as a classical UNIX or Linux
-command line tool. It’s designed to do one job, it does that job pretty well
-despite some usability issues, and it has a lot of options that can be difficult
-to remember without looking at the documentation.&lt;/p&gt;
-
-&lt;p&gt;If you need to do that job, this is the tool for you, and the learning curve is
-worth it. If you’re happy to just toss some eyeballed stats onto a table and
-call it a day, then you can skip it.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/02/20/review-gurps-gun-stats.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/20/review-gurps-gun-stats.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>review</category>
         
         
       </item>
