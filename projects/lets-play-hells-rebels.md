@@ -92,6 +92,8 @@ scenes.
 
 - [Scene 01][16]: The Aria Park Protest.
 
+- [Scene 02][18]: Fights in Tight Spaces
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -109,3 +111,4 @@ scenes.
 [15]: {{ "/2026/03/05/lphr-urist.html" | relative_url }}
 [16]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}
 [17]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
+[18]: {{ "/2026/03/17/lphr-scene-02.html" | relative_url }}
