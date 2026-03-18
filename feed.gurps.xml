@@ -5,9 +5,377 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 16 Mar 2026 14:45:11 +0000</pubDate>
-    <lastBuildDate>Mon, 16 Mar 2026 14:45:11 +0000</lastBuildDate>
+    <pubDate>Wed, 18 Mar 2026 01:05:02 +0000</pubDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:05:02 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels! Adventure 01, Scene 02</title>
+        <description>&lt;p&gt;This is the second scene in my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;. A long time
+passed between me completing the &lt;a href=&quot;/octopus-carnival/2026/03/08/lphr-scene-01.html&quot;&gt;previous scene&lt;/a&gt; and writing up this one,
+but you’re seeing it published right after it since all the scenes were written
+long before their publication.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-long-time-no-see&quot;&gt;[GM] Long time no see!&lt;/h1&gt;
+
+&lt;p&gt;I’m writing this post a full year after finishing the one for &lt;a href=&quot;/octopus-carnival/2026/03/08/lphr-scene-01.html&quot;&gt;Scene 01&lt;/a&gt;!
+There are a lot of reasons for this large delay. For the first little while
+after I finished writing the Aria Park scene, I was just so dang satisfied with
+myself I didn’t feel the need to play more just yet. You don’t know how long I
+had that scene stuck in my head, and it was so nice to finally game it out.&lt;/p&gt;
+
+&lt;p&gt;After I started thinking about what to do next, I pretty soon ran into a major
+creative block stemming from a lack of battle maps. It kinda affected me when I
+was running stuff for other people over Roll20 too.&lt;/p&gt;
+
+&lt;p&gt;I can make lines on a blank canvas, but I’m not an artist, and stacking up my
+squiggles against the ready-made maps I also used made me very self-conscious. I
+finally broke through that by finding a tool that would let me draw
+decent-looking maps.&lt;/p&gt;
+
+&lt;p&gt;No, it’s not AI, and if you thought it was I’m disappointed in you. I just
+decided to spend some money on a copy of Dungeondraft once I found out it runs
+just fine on Linux. It has a huge library of textures and placeables that let me
+make pretty spiffy maps by hand. Sure, they’ll end up a bit standardized, but
+that’s still way better than my squiggles. It only uses square grids but I can
+export the images without a grid and let Foundry handle the hexes.&lt;/p&gt;
+
+&lt;p&gt;That gave me lots of ideas right away, but it was a relatively recent
+development. About two weeks ago as of this writing, I guess? I’ve been using
+some of my leisure time to implement those ideas, and to read Mythic Second
+Edition to see if I get any more.&lt;/p&gt;
+
+&lt;p&gt;Turns out I don’t quite need Mythic yet, there’s a cool thing I want to do. But
+let’s get the Mythic part over with anyway.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
+
+&lt;p&gt;We can consider the whole Aria Park protest and riot to be our first
+scene. Chaos Factor started at 5, as standard, but there was pretty much no way
+it wasn’t going up to 6 here, no matter how the scene played out. So it’s 6 at
+the start of this scene.&lt;/p&gt;
+
+&lt;p&gt;Our current list of threads is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia, Arcturus)&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Find Rexus (Urist)&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Path is our “main story quest” as written in the books and modified by me
+when I’m wearing the GM hat. The others are each PC’s individual goals. Some can
+be solved in a fairly short time, others are more medium-or-long term unless we
+run into some amazing twists.&lt;/p&gt;
+
+&lt;p&gt;I’m going to add an asterisk to a thread whenever it’s advanced but not
+removed. The Path is going to get a lot of them, but it will be nice to remind
+ourselves of the progress we make in the others too.&lt;/p&gt;
+
+&lt;p&gt;Our list of characters is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a lot more people who might appear in the adventure but these are the
+groups who are in the original random encounter tables. They’ll do for now.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-scene-02-fights-in-tight-spaces&quot;&gt;[GM] Scene 02: Fights in Tight Spaces&lt;/h1&gt;
+
+&lt;p&gt;The original adventure transitioned PCs directly from the riot to another combat
+scene where they fought some CCG thugs and rescued Rexus. I’m going do something
+a little different. Let’s say I decided to alter the scene on my own, in Mythic
+terms.&lt;/p&gt;
+
+&lt;p&gt;Our group didn’t stick together as they escaped - they got out at different
+times and split up in the generalized chaos! The riot is dispersed but there’s
+still some confusion in the surrounding area. Bystanders who weren’t near the
+park find themselves having to flee alongside those who were, as opportunists
+roam around looking for people to rob and fascists roam around looking for
+people to arrest. Our heroes have to fight a bit more before they’re
+100% clear.&lt;/p&gt;
+
+&lt;p&gt;I’ve prepared three different maps, all of them fairly “tight”, with a total
+size of 8 x 8 spaces and several obstructions that render them even more
+restricted. I’ll split our heroes into three distinct groups (2/2/1) and put
+them into each map alongside a randomly rolled encounter group that should
+contain between 1.5x-2x the number of “actions” available to them. At this stage
+the enemies are likely to be fairly weak but their numeric advantage will pose a
+challenge.&lt;/p&gt;
+
+&lt;p&gt;Whoever ends up alone will also find Rexus in the map.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-groups&quot;&gt;Our Groups&lt;/h2&gt;
+
+&lt;p&gt;My expectation would be that Jade and Rosalia are together because Jade followed
+Rosalia out. Jania and Arcturus are together by pure chance, and then Urist is
+alone and finds Rexus. That’s his goal, and he would have seen him from far away
+in the riot. Mythic, is that how things shake out&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;? I get an Exceptional Yes,
+which in this case isn’t any different from a normal Yes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Group 1: Jade &amp;amp; Rosalia.&lt;/li&gt;
+  &lt;li&gt;Group 2: Arcturus &amp;amp; Jania&lt;/li&gt;
+  &lt;li&gt;Group 3: Urist (and Rexus!)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;our-maps&quot;&gt;Our Maps&lt;/h2&gt;
+
+&lt;p&gt;Group 3 is getting the Alley map, because it makes sense that Rexus would be
+cornered there. Group 1 gets (roll roll) the Crossing map, and Group 3 the
+Tavern map.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-opposition&quot;&gt;Our Opposition&lt;/h2&gt;
+
+&lt;p&gt;Urist is getting 5 CCG thugs as opposition. They’re pretty weak individually but
+so is Rexus and there’s a lot of them. That’s the same situation as in the
+book. I’m rolling to see which of the remaining entries on the Characters list
+faces each of the other groups.&lt;/p&gt;
+
+&lt;p&gt;(roll roll)&lt;/p&gt;
+
+&lt;p&gt;Group 2 is getting dottari. Three should do it.&lt;/p&gt;
+
+&lt;p&gt;Group 1 is getting Asmodeans. The entry for them in the Adventure One random
+encounter table has a group composed of a cultist (Cleric 3), and a Redactor
+(Monk 1). I’ll use a spellcaster inspired by the Iron Circle Dark Adept from
+Threats ot the Nentir Vale, and use a couple of Tar Devils from the same place
+instead of the monk. Can’t make it too easy for one of our best fighters.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-group-1-jade--rosalia-crossing-vs-asmodeans&quot;&gt;[Player] Group 1: Jade &amp;amp; Rosalia, Crossing, vs. Asmodeans&lt;/h1&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-scene-02-group-1.png&quot;/&gt;
+  &lt;figcaption&gt;
+     An urban intersection where someone abandoned a cart full of produce in a
+     hurry, causing some of its cargo to spill out.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Our scene is set in an urban crossroad with an abandoned cart and a big box of
+produce taking up space in the center. Rosalia and Jade are also in the center,
+separated by the clutter and surrounded by enemies. A tar devil approaches from
+the north, another one from the south, and a hooded cultist from the west.&lt;/p&gt;
+
+&lt;p&gt;The PCs still have their weapons in hand, having just left the scene of the
+riot. The enemies are all ready too, since they were hunting “heretics” in this
+area.&lt;/p&gt;
+
+&lt;p&gt;Rosalia goes first and uses her Song of Humiliation to stun the Dark Adept,
+saving the day right there by preventing him from casting his Dartk Tendrils
+spell. Jade engages the Tar Devil closest to her and wounds his leg, though not
+quite enough to cripple it.&lt;/p&gt;
+
+&lt;p&gt;The adept soon recovers and begins fencing with Rosalia, and the other tar devil
+decides to go deal with the bigger threat and converges on Jade. The bard
+manages to poke the adept for a bit of damage, and he decides to step back and
+finally cast his big spell on her. Rosalia is grappled by shadow tendrils that
+erupt from the ground!&lt;/p&gt;
+
+&lt;p&gt;Fortunately, the adept’s careless movement puts him close to Jade, who has just
+finished dispatching the first tar devil and is within stepping distance of the
+adept’s back. She stabs him, and that’s that. Adept down, Rosalia released.&lt;/p&gt;
+
+&lt;p&gt;The two PCs have little trouble dispatching the remaining devil after that, with
+Rosalia stunning him and Jade finishing the job with a decapitating slash. Now
+stained by tarry ichor, the two continue their escape.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;The fight took 4 rounds overall and the “tight spaces” effect was keenly
+felt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Player&lt;/strong&gt;: The PCs were positioned such that an enemy facing one of them
+risked exposing their back to the other, which was pretty good! However, Rosalia
+could have made better use of her Song of Humiliation, instead of trying to stab
+the adept while Jade dealt with the tar devils alone. Still, stunning the dark
+adept for that first turn deactivated a major threat early on, as neither PC had
+great defenses against his Dark Tendrils spell.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GM&lt;/strong&gt;: It was pretty hard dealing with the PC’s positioning. The Dark Adept
+should probably have kept trying to cast Dark Tendrils after he recovered from
+the initial stun. I was a bit too lenient here. The Tar Devils were also not a
+huge threat without their net attack from TNV, but I think this was okay because
+this is not supposed to be a deadly fight for the PCs. I’ll add that in the
+future.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-group-2-arcturus--jania-tavern-vs-dottari&quot;&gt;[Player] Group 2: Arcturus &amp;amp; Jania, Tavern, vs. Dottari&lt;/h1&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-scene-02-group-2.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A tavern that was busy before the riot started a few streets over, causing
+    the staff and patrons to run away.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In the picture above we see a narrow street in front of a tavern, cluttered by
+tables and chairs. Jania and Art are in the center, back to back, with a
+dottario coming in from the west and two others from the east.&lt;/p&gt;
+
+&lt;p&gt;Arcturus does not have his knife in hand, but Jania has her cane. The dottari
+begin armed. This map is considerably more open than the Crossing, and this time
+it’s the dottari who have the advantage of positioning.&lt;/p&gt;
+
+&lt;p&gt;Arcturus starts the proceedings by performing a Heroic Charge on the single
+dottari to the left. He grabs him good. The other two close in on Jania, who
+tries but fails to feint one of them.&lt;/p&gt;
+
+&lt;p&gt;Arcturus is pretty deadly against a single opponent he can grab, but that leaves
+him vulnerable to other enemies. Fortunately he manages to slam the grappled
+dottari to the ground and deal enough damage to take him out, allowing him to
+turn to the others and get ready to defend himself. I played this as a Rapid
+Strike with another Wrestling grab to increase control points, and then spending
+all of those points on a single attack I resolved as a punch. That was 5d
+crushing!&lt;/p&gt;
+
+&lt;p&gt;Jania finds her cane does little to the guards through their armor, and Arcturus
+has some trouble grabbing the next one. He critically fails while defending
+against one of them, which lets him get bonked for 6 injury and makes him lose
+his balance until his next turn. Jania also gets bonked, and even a minimal
+damage roll takes half her HP away.&lt;/p&gt;
+
+&lt;p&gt;The tide turns on the next round, however, as Arcturus critically &lt;em&gt;succeeds&lt;/em&gt; on
+a defense and causes the attacking guard to drop his mace! He then proceeds to
+grab him and carry him away from his buddy, finishing him off in the next couple
+of turns with a control-enhanced stab while Jania keeps the last guard busy.&lt;/p&gt;
+
+&lt;p&gt;Then Arcturus grabs the last guard and it’s time for Jania to have her revenge,
+as she steps behind the restrained dottario and uses her cane for a “backstab”
+(a Telegraphic and Determined All-Out-Attack to the skull with a Mighty Blows FP
+expenditure for extra damage). That causes a whopping 32 injury to the guard,
+more than enough to finish him off.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis-1&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;This time the PCs had the positioning disadvantage. They took out the left flank
+of the pincer early, but the two remaining dottari were still effective at
+achieving superior positions here. Luckily for Arcturus, a character is only
+defenseless against attackers who &lt;em&gt;start&lt;/em&gt; their turns on the character’s back
+hex. As it was, he had to defend against several “flanking” attacks from
+dottari, but luckily he managed them all. He also shows how luck is still a
+factor even for a PC that has combat skills as high as he does.&lt;/p&gt;
+
+&lt;p&gt;Altogether whis was a much more harrowing fight for our heroes even though
+dottari are less dangerous than tar devils.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-group-3-urist--rexus-alley-vs-ccg-thugs&quot;&gt;[Player] Group 3: Urist &amp;amp; Rexus, Alley, vs. CCG Thugs&lt;/h1&gt;
+
+&lt;figure class=&quot;center&quot;&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-scene-02-group-3.png&quot;/&gt;
+  &lt;figcaption&gt;
+    A dirty dead end alley at the end of a side street.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I didn’t take a VTT screenshot for this one, so here’s the base map
+instead. We’re in a dead end alley at the end of a narrow street.&lt;/p&gt;
+
+&lt;p&gt;This one starts with Rexus cornered in the alley’s dead end, Urist at the mouth
+of the alley to the west, and 5 CCG thugs between them. I don’t have a character
+sheet for Rexus, as I don’t intend to make him a player character. He’s got a
+cane, Smallsword-14, damage 1d crushing, Parry 10F, Dodge 8, HP 10, and a couple
+hundred points in scholarly skills not useful for combat.&lt;/p&gt;
+
+&lt;p&gt;The thugs are still minions, and go down to any blow that deals at least 1
+injury. Rexus can hold his own against them for a few turns if he focuses on
+defense, but Urist has no crowd control spells. He decides to spend a second
+casting Armor 3 on himself before charging into melee. This will save his life.&lt;/p&gt;
+
+&lt;p&gt;Two of the thugs keep focusing on Rexus, while the other three run to engage the
+new threat. Despite the enemy’s relative weakness, this turns out to be the
+longest fight of the three! The thugs roll terribly to hit with only skill-10,
+but they roll really well for their active defenses throughout most of the
+fight. So Urist has some real trouble hitting them with his axe swings or shield
+bashes.&lt;/p&gt;
+
+&lt;p&gt;At some point I switch to attacking with Rexus, but the again the minions
+suddenly turn into geniuses when it’s time to make a defense roll. Rexus’
+defenses, on the other hand, are now unboosted, which means he gets hit a few
+times. Thankfully, the damage rolls are low and he loses only 4HP total.&lt;/p&gt;
+
+&lt;p&gt;Urist also fails some defense rolls, but his Armor spell means he only suffers a
+couple of points of injury even with the enemies rolling super well. Then he
+rolls a critical failure and drops his shield! Convinced he has enough armor to
+withstand the assault, the dwarf moves to making All-Out-Attacks (Double) with
+his axe, but even so it takes around three more turns until he finally manages
+to hit all the enemies surrounding him and finish the fight. By the time he
+does, Rexus has finished his side of it as well, aided by some timely critical
+failures on the part of the thugs.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis-2&quot;&gt;Analysis&lt;/h2&gt;
+
+&lt;p&gt;I had an inkling this would be a challenging fight but even so it
+ended up being a lot more eventful than I expected. It taught me that buffing
+spells matter, and that even minions can be a bother when they stick around long
+enough (thanks to a streak of good defense rolls). That left us with a 2.5:1
+ration of enemy to PC actions for most of the fight. Individually Urist was
+quite a bit better than a thug, but if it wasn’t for the Armor spell he’d have
+been worn down by their numbers.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-more-mythic-bokkeeping&quot;&gt;[GM] More Mythic Bokkeeping&lt;/h1&gt;
+
+&lt;p&gt;Despite a few surprising rolls, the group did well in these fights, so Chaos
+Factor goes back down to 5.&lt;/p&gt;
+
+&lt;p&gt;We can consider Urist’s “Find Rexus” goal complete, of course. The original
+adventure gives XP for saving him, so the whole group gets 1 point. We can
+replace it with a “Reunite” thread - it’s not necessarily a goal of the
+&lt;em&gt;characters&lt;/em&gt;, but it’s a goal of mine. Rescuing Rexus also advances The Path.&lt;/p&gt;
+
+&lt;p&gt;Our list of characters remains more or less the same. It’s just enemies for now,
+as anyone who could be an ally is laying low at the moment.&lt;/p&gt;
+
+&lt;h2 id=&quot;chaos-factor-5&quot;&gt;Chaos Factor: 5&lt;/h2&gt;
+
+&lt;h2 id=&quot;threads&quot;&gt;Threads&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path *&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia, Arcturus)&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Reunite!&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;character&quot;&gt;Character&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+  &lt;li&gt;Rexus Victocora&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Odds are 50/50 at Chaos 6, so actual chances are 13/65/94. I roll a 10. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/17/lphr-scene-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/17/lphr-scene-02.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Bestiary: Nox and Mephiry</title>
@@ -1503,189 +1871,6 @@ else. $336, 8.4kg.&lt;/li&gt;
         <category>gurps</category>
         
         <category>pathfinder</category>
-        
-        <category>character</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Jade Irinka, the Sixth Raven</title>
-        <description>&lt;p&gt;One of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Jade Irinka was an orphan of uncertain but numinous parentage who was adopted as
-a sort of mascot by the original Silver Ravens during their early exploits. She
-was too young to go out with the Ravens on their missions, but she witnessed
-their results and listened to their stories with rapt attention. Jackdaw,
-knowing victory would be uncertain in the final Thrune invasion, sent her away
-from the city with other non-combatant friends, hoping they would be able to
-come back once the fighting was over.&lt;/p&gt;
-
-&lt;p&gt;Things didn’t turn out well, and Jade never got the chance to return. She aged
-slowly but eventually reached maturity and set out to follow on the footsteps of
-her heroes. Her natural charisma and skill with the sword let her achieve some
-small measure of renown around the Inner Sea as an heroic adventurer.&lt;/p&gt;
-
-&lt;p&gt;Recent news from Cheliax convinced Jade it’s finally time to return home and
-take up the Ravens’ fight. She doesn’t remember many details about those days,
-but she’s confident she will find a way. Everything she’s done so far has been
-to prepare herself for this. As the campaign starts, she has just caught up on
-the events and rumors of the last few days and decides to attend the Aria Park
-protest to learn more.&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;As you might have guessed from her name, Jade is inspired by Jasper Irinka, the
-Child of the Sun, one of the iconic characters from Chuubo’s Marvelous Wish
-Granting Engine. I’m using Jade instead of Jasper as the name because I like it
-more - it’s the name of Jasper’s Mother, the Angel of the Sun.&lt;/p&gt;
-
-&lt;p&gt;So Jade looks almost exactly like Jasper. Dark brown skin, voluminous and fiery
-red hair, green or blue eyes depending on the light. She has an athlethic build
-from all her adventuring, though her equipment is somewhat less than elegant
-at the moment. Unlike Jasper, she has only two arms at present and is unlikely
-to grow more.&lt;/p&gt;
-
-&lt;p&gt;This name might also give you a hint about who her ancestors are in the
-Pathfinder setting.&lt;/p&gt;
-
-&lt;h2 id=&quot;build-notes&quot;&gt;Build notes&lt;/h2&gt;
-
-&lt;p&gt;Jade’s stats below are based on the Aristocrat archetype from GURPS Dungeon
-Fantasy Denizens: Swashbucklers. This gives her amazing sword and leadership
-skills, though I removed some of the template’s more classist traits.&lt;/p&gt;
-
-&lt;p&gt;Her being a long-lived half-spirit is mostly a story thing for now, as I didn’t
-take an official template. You can use these stats for a charismatic human
-swashbuckler in some other campaign without changing any numbers. If you do want
-to emphasize her supernatural side, you can let her gradually take on
-Half-Spirit traits with earned character points. That’s what I intend to do
-eventually.&lt;/p&gt;
-
-&lt;p&gt;Jade already has a +5 reaction bonus from almost everyone and an extra +3 from
-professional fighters. I’m hoping to use earned points to increase that even
-further, maxing out her Charisma, Born War-Leader talent, and perhaps even
-Appearance. She’s going to be the public face of the rebellion, after
-all. Holiness and its attendant powers are also not out of the question in the
-future, as they’d make her even better at fighting demons.&lt;/p&gt;
-
-&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 11 {10}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
-
-&lt;p&gt;Damage 1d-1/1d+1; Basic Lift 12.1kg; HP 11; Will 12; Per 12; FP 12; Basic Speed 7;
-Basic Move 7;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ambidexterity {5}&lt;/li&gt;
-  &lt;li&gt;Appearance (Impressive) {12}&lt;/li&gt;
-  &lt;li&gt;Born War Leader 3 {15}&lt;/li&gt;
-  &lt;li&gt;Charisma 2 {10}&lt;/li&gt;
-  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
-  &lt;li&gt;Luck {15}&lt;/li&gt;
-  &lt;li&gt;Weapon Master (Backsword) {-20}&lt;/li&gt;
-  &lt;li&gt;Weapon Adaptation (Broadsword to Saber) {1}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Code of Honor (Soldier’s) {-10}&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2024/08/30/lphr-player-characters.html&quot;&gt;Enemies (Monster of the Week)&lt;/a&gt; (9-) {-15}&lt;/li&gt;
-  &lt;li&gt;Pacifism: Cannot Harm Innocents {-10}&lt;/li&gt;
-  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
-  &lt;li&gt;Vow (Never refuse a challenge to combat) {-10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Acrobatics (H) DX-1 {2} - 14&lt;/li&gt;
-  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
-  &lt;li&gt;Fast-Draw (Sword) (E) DX+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
-  &lt;li&gt;Gesture (E) IQ {1} - 12&lt;/li&gt;
-  &lt;li&gt;Guns (Pistol) (E) DX+1 {2} - 16&lt;/li&gt;
-  &lt;li&gt;Jumping (E) DX {1} - 15&lt;/li&gt;
-  &lt;li&gt;Leadership (A) IQ+4 {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
-  &lt;li&gt;Public Speaking (A) IQ+1 {1}&lt;sup id=&quot;fnref:3:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
-  &lt;li&gt;Saber (A) DX+5 {20} - 20&lt;/li&gt;
-  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
-  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
-  &lt;li&gt;Strategy (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
-  &lt;li&gt;Tactics (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
-  &lt;li&gt;Wrestling (A) DX-1 {1} - 14&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;$1000, 11.41kg. No encumbrance.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ordinary Clothing: Free; 1kg.&lt;/li&gt;
-  &lt;li&gt;Backsword: Basket hilt gives DR 4 to the hand and allows a Hilt Punch. $550,
-1.5kg.&lt;/li&gt;
-  &lt;li&gt;Pouch: Fits 1.5kg of small items. $10, 0.1kg.
-    &lt;ul&gt;
-      &lt;li&gt;Coins: 8 silvers, 23 coppers. $183, 0.31kg.&lt;/li&gt;
-      &lt;li&gt;Minor Healing Potion: Heals 1d HP. $120, 0.25kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Light Cloth Armor Suit: DR 1 to all locations except the head. $137, 8.25kg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Assumes no encumbrance.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dodge: 11&lt;/li&gt;
-      &lt;li&gt;Parry: 14F (sword), 11 (Unarmed, DX)&lt;/li&gt;
-      &lt;li&gt;DR: 2 on skull, 0 on eyes, 5 in sword hand, 1 everywhere else.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Backsword (20): 1d+4 cut or 1d+2 imp, Reach 1.&lt;/li&gt;
-      &lt;li&gt;Hilt Punch (15): 1d-1 cr, Reach C.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;+1 from Combat Reflexes &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;+3 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;+2 from Charisma &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/02/24/lphr-jade-irinka.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         <category>character</category>
         
