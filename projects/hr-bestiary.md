@@ -20,6 +20,7 @@ There's a more detailed [Intro][1] post here.
 
 - Scene 02
   - [Asmodean Dark Adept][5]
+  - [Tar Devil Guard][6]
 
 # Alphabetical Order
 
@@ -35,8 +36,12 @@ There's a more detailed [Intro][1] post here.
 - N
   - [Nox and Mephiry][4]
 
+- T
+  - [Tar Devil Guard][6]
+
 [1]: {{ "/2026/03/12/hr-bestiary-intro.html" | relative_url }}
 [2]: {{ "/2026/03/12/hr-bestiary-ccg-thug.html" | relative_url }}
 [3]: {{ "/2026/03/13/hr-bestiary-dottari-guard.html" | relative_url }}
 [4]: {{ "/2026/03/16/hr-bestiary-nox.html" | relative_url }}
 [5]: {{ "/2026/03/18/hr-bestiary-dark-adept.html" | relative_url }}
+[6]: {{ "/2026/03/19/hr-bestiary-tar-devil-guard.html" | relative_url }}
