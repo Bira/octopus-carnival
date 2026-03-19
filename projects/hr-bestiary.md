@@ -18,7 +18,13 @@ There's a more detailed [Intro][1] post here.
   - [CCG Thug][2]
   - [Dottari Guard][3]
 
+- Scene 02
+  - [Asmodean Dark Adept][5]
+
 # Alphabetical Order
+
+- A
+  - [Asmodean Dark Adept][5]
 
 - C
   - [CCG Thug][2]
@@ -33,3 +39,4 @@ There's a more detailed [Intro][1] post here.
 [2]: {{ "/2026/03/12/hr-bestiary-ccg-thug.html" | relative_url }}
 [3]: {{ "/2026/03/13/hr-bestiary-dottari-guard.html" | relative_url }}
 [4]: {{ "/2026/03/16/hr-bestiary-nox.html" | relative_url }}
+[5]: {{ "/2026/03/18/hr-bestiary-dark-adept.html" | relative_url }}

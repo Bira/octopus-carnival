@@ -85,7 +85,7 @@ themes: a) fire, b) causing pain or c) depriving others of freedom. More lavish
 power items also let them keep casting for longer, and double as extra loot for
 the PCs.
 
-[1]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}
+[1]: {{ "/2026/03/17/lphr-scene-02.html" | relative_url }}
 [2]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
 [3]: {{ "/2026/03/13/hr-bestiary-dottari-guard.html" | relative_url }}
 [4]: {{ "/gurps/2016/10/20/characters-mystic-knight.html" | absolute_url }}
