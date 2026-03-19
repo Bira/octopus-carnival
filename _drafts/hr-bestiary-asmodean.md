@@ -9,6 +9,8 @@ tags:
     - bestiary
 ---
 
+Part of the [Bestiary][5] for my [solo Hell's Rebels game][6].
+
 In [Scene 02][1] of the adventure, I decided to introduce a few new
 monsters. The party split up, and the encounter tables dictated one of the
 sub-groups was going to have to face "Asmodeans". Instead of looking towards the
@@ -82,3 +84,10 @@ can give them additional spells or custom magical attacks that follow the same
 themes: a) fire, b) causing pain or c) depriving others of freedom. More lavish
 power items also let them keep casting for longer, and double as extra loot for
 the PCs.
+
+[1]: {{ "/2026/03/08/lphr-scene-01.html" | relative_url }}
+[2]: {{ "/2023/02/01/iron-circle.html" | relative_url }}
+[3]: {{ "/2026/03/13/hr-bestiary-dottari-guard.html" | relative_url }}
+[4]: {{ "/gurps/2016/10/20/characters-mystic-knight.html" | absolute_url }}
+[5]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
+[6]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}

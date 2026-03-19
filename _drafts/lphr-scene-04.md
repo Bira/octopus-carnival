@@ -1,4 +1,16 @@
-# Intro
+---
+layout: post
+title: "Let's Play Hell's Rebels!: Adventure 1, Scene 04"
+tags:
+    - gurps
+    - dungeon-fantasy
+    - lets-play
+    - hells-rebels
+---
+
+Another scene in my [solo Hell's Rebels campaign][1].
+
+# [GM] Intro
 
 In our last scene, our heroes officially decided to reform the Silver Ravens,
 and decided their first mission is to check out the abandoned Raven hideout
@@ -8,7 +20,7 @@ No interrupt checks today, because I don't wanna.
 
 This scene will cover the first half of the Livery delve.
 
-# Mythic Bookkeeping
+# [GM] Mythic Bookkeeping
 
 The Chaos Factor for the last scene was 5, and I want to keep it at 5 even
 though the last scene was peaceful.
@@ -21,7 +33,6 @@ with it.
 We can also close the "Reunite!" thread, as that happened last scene.
 
 So here are our lists.
-
 
 **Threads**
 
@@ -40,7 +51,7 @@ So here are our lists.
 
 Delving the Livery counts as following The Path.
 
-## Shopping!
+# [Player] Shopping!
 
 The livery is clear across town, so our heroes agree to stop on the way to do
 some shopping. I'm not going to roleplay the shopkeeper here. Let's keep it
@@ -64,13 +75,12 @@ $1050 budget.
 They agree to split the remaining $110 equally, getting $22 each (1 silver, 2
 coppers). Jade also gets the blessed papers.
 
-## GM Interlude
+    [GM] I'm not gonna make the shopping into a separate Mythic scene. The
+    following scene will be different from what's in the book, and I think
+    we can count that as an "altered" scene even though I planned the
+    differences myself.
 
-I'm not gonna make the shopping into a separate Mythic scene. The following
-scene will be different from what's in the book, and I think we can count that
-as an "altered" scene even though I planned the differences myself.
-
-## The Fair Fortune Livery
+# [Player] The Fair Fortune Livery
 
 It's mid-afternoon when the party arrives at the Fair Fortune livery. Jade
 remembers the original Ravens talking about how it used to be a slaughterhouse,
@@ -83,8 +93,8 @@ frontal double doors are ajar despite being chained, and there's a significant
 gap that could allow the PCs to squeeze through. That's exactly what they do,
 for as soon as they get close to the building they hear the sounds of fighting!
 
-- I determine that squeezing past the front doors requires an unmodified DX
-  roll, and all of the party succeeds.
+    [GM] I determine that squeezing past the front doors requires an unmodified
+    DX roll, and all of the party succeeds.
 
 Inside, the group finds a small pack of dogs viciously attacking a band of small
 creatures that look like upright possums. The "possums" wear clothing stitched
@@ -101,12 +111,13 @@ and the remaining three are quite tense. She sheathes her sword and raises her
 hand, proclaiming they come in peace. The rest of the group follows her lead on
 this.
 
-- GM: Reaction roll time! I want the grimples to be peaceful, but let's make
-  things a bit more random.
+    [GM] Reaction roll time! I want the grimples to be peaceful, but let's make
+    things a bit more random.
 
-  Let's say the possums react at -2 due to their stress. That's barely an
-  obstacle to Jade, who still has a net +7 reaction bonus. The grimples' leader
-  does consider himself a knight of sorts. The result is 15, a Good reaction.
+    Let's say the possums react at -2 due to their stress. That's barely an
+    obstacle to Jade, who still has a net +7 reaction bonus. The grimples'
+    leader does consider himself a knight of sorts. The result is 15, a Good
+    reaction.
 
 The ... possum-people?... seem reasonably convinced that the party means no
 harm. The one who seems to be their leader steps forward, sheating his makeshift
@@ -144,7 +155,7 @@ heraldry on it, but it's made of platinum and worth a pretty penny.
     ring and the Merchant -4 roll to assess its value. She's also down 1 FP from
     the levitation spell.
 
-### Down Below
+## [Player] Down Below
 
 Guided by the grimples, the party makes their way to the basement of the ruin,
 through a trapdoor on what used to be a workroom. They descend to a former
@@ -170,10 +181,10 @@ tallfolk, their hearts are as honorable as any grimple's!"
 
 After that, he opens the gate using the same key as before, and the delve is on.
 
-    [GM] So far we've neatly skipped a lot of the filler fights, but now we got to
-    the main event of this delve.
+    [GM] So far we've neatly skipped a lot of the filler fights, but now we got
+    to the main event of this delve.
 
-### Polluted Cistern
+## [Player] Polluted Cistern
 
 
 Beyond the gate, there is a set of stairs leading down. The environment here
@@ -282,7 +293,7 @@ round 5 in the fight, so I need to refocus on this campaign too.
 
 ### GM Interlude
 
-Mechanically, we're going with [this procedure][1] for the exploration, and I
+Mechanically, we're going with [this procedure][2] for the exploration, and I
 think it's fair to say this includes Urist's Detect Evil rolls. I'd argue for
 that if I was his player!
 
@@ -324,5 +335,6 @@ would make Jania cast See Invisible, and I want to say that'd let them spot her
 because she'd be relying on her invisibility to stay hidden.
 
 
+[1]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
 
-[1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
+[2]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
