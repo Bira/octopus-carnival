@@ -5,9 +5,107 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Mar 2026 21:13:57 +0000</pubDate>
-    <lastBuildDate>Wed, 18 Mar 2026 21:13:57 +0000</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2026 00:50:09 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2026 00:50:09 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: Asmodean Dark Adept</title>
+        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;/octopus-carnival/2026/03/17/lphr-scene-02.html&quot;&gt;Scene 02&lt;/a&gt; of the adventure, I decided to introduce a few new
+monsters. The party split up, and the encounter tables dictated one of the
+sub-groups was going to have to face “Asmodeans”. Instead of looking towards the
+Pathfinder stats the adventure gave this, I decided to be a little weirder and
+import a couple of interesting opponents from Threats to the Nentir Vale. More
+specifically, those from the &lt;a href=&quot;/octopus-carnival/2023/02/01/iron-circle.html&quot;&gt;Iron Circle&lt;/a&gt; entry.&lt;/p&gt;
+
+&lt;p&gt;It makes sense: the Iron Circle are a bunch of fascist mercenaries, and Iron
+Circle Guards would look nearly identical to &lt;a href=&quot;/octopus-carnival/2026/03/13/hr-bestiary-dottari-guard.html&quot;&gt;dottari&lt;/a&gt; when converted to
+GURPS, so why not use the other stat blocks there as inspiration?&lt;/p&gt;
+
+&lt;p&gt;The first of the entries I swiped is the Iron Circle Dark Adept, which appears
+below. The other one is the Tar Devil Guard, which will appear in the next post.&lt;/p&gt;
+
+&lt;h1 id=&quot;asmodean-dark-adept&quot;&gt;Asmodean Dark Adept&lt;/h1&gt;
+
+&lt;p&gt;A cultist of Asmodeus specializing in magic that restrains and burns. Some are
+attached to the Church of Asmodeus itself, while others might be employed by
+the dottari as magical support or even be independents out to do some evil on
+their own, like the guy from &lt;a href=&quot;/octopus-carnival/2026/03/17/lphr-scene-02.html&quot;&gt;Scene 02&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Adepts are usually Worthies.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 11; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 13; &lt;strong&gt;HT&lt;/strong&gt; 12;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 9; &lt;strong&gt;Parry&lt;/strong&gt; 10 (shortsword);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 1 (body);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 11; &lt;strong&gt;Will&lt;/strong&gt; 13; &lt;strong&gt;Per&lt;/strong&gt; 13; &lt;strong&gt;FP&lt;/strong&gt; 12+5;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 6.00; &lt;strong&gt;Move&lt;/strong&gt; 6; &lt;strong&gt;SM&lt;/strong&gt; 0.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Shortsword&lt;/strong&gt; (14): 1d+1 cut or 1d imp; Reach 1.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dark Tendrils&lt;/strong&gt; (15): Regular vs. ST; Concentration; Cost 5; 1d+4 control;
+See Fantastic Dungeon Grappling p. 6.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flaming Weapon&lt;/strong&gt; (15): Regular; 1 minute; Cost 3/1; +2 burning follow-up to
+target melee weapon. DF: Spells p. 31.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Mundane.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Weapon Channeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Equipment&lt;/strong&gt;: Padded vest (light cloth, DR 1, covers torso); Short sword (works
+as a wand, 5 FP power item); unholy symbol.&lt;/p&gt;
+
+&lt;h2 id=&quot;encounters-and-tactics&quot;&gt;Encounters and Tactics&lt;/h2&gt;
+
+&lt;p&gt;Dark Adepts are support casters found alongside whoever it is that hired them,
+and/or whatever demons they managed to call up. They’ll buff their allied muscle
+with Flaming Weapon, and then cast Dark Tentrils to hold a PC down for a
+beating. When forced to fight, they’ll try to cast Flaming Weapon on their own
+sword before engaging.&lt;/p&gt;
+
+&lt;h1 id=&quot;notes-and-impressions&quot;&gt;Notes and Impressions&lt;/h1&gt;
+
+&lt;p&gt;Instead of using the full Dungeon Fantasy magic system here, I wrote down the
+adept’s magical abilities in the same format as its attacks, and only added
+stuff that would be immediately relevant to the fight.&lt;/p&gt;
+
+&lt;p&gt;The adept’s magical “power trait” is left unspecified. It could be either Magery
+or Power Investiture (Unholy). Both types of adept exist and are out there.&lt;/p&gt;
+
+&lt;p&gt;Weapon Channeling is a perk I detailed waaaay back when in my post about the
+Dragon’s Dogma &lt;a href=&quot;https://bira.github.io/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html&quot;&gt;Mystic Knight&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To make them stronger, aside from the obvious “make number bigger” measures, you
+can give them additional spells or custom magical attacks that follow the same
+themes: a) fire, b) causing pain or c) depriving others of freedom. More lavish
+power items also let them keep casting for longer, and double as extra loot for
+the PCs.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/18/hr-bestiary-dark-adept.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/18/hr-bestiary-dark-adept.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>bestiary</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels! Adventure 01, Scene 02</title>
@@ -1698,175 +1796,6 @@ FP. See DF Spells p. 69.&lt;/li&gt;
         <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/03/02/lphr-jania.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/02/lphr-jania.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>pathfinder</category>
-        
-        <category>character</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Arcturus Pankrator, The Knight of the Deep</title>
-        <description>&lt;p&gt;One of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Arcturus Pankrator is a renowned hero and slayer of monsters among the
-underwater peoples that make their home near Ravounel. Landlubbers have no idea
-who he is, which is somewhat unfortunate for him because that’s where he’s
-headed for the foreseeable future.&lt;/p&gt;
-
-&lt;p&gt;His newest quest was given to him by the leader of the sea elf village of
-Acisazi: he is to seek the help of Shensen, the famous singer and priestess of
-Sarenrae who lives in Kintargo. The village has been plagued by a horrible
-curse, and since Shensen is an old friend of theirs she would have both the
-willingness and the power to help them out. However, she has not answered their
-magical messages, so something might have happened to her. Time to send in an
-actual envoy to find out what happened and help Shensen out if needed. An
-excellent job for a hero of his caliber!&lt;/p&gt;
-
-&lt;p&gt;Unfortunately Arcturus’ wallet was considerably leaner than his muscles, so he’s
-more or less completely broke when he arrives at Kintargo. The information he
-manages to gather about the city’s situation isn’t all that encouraging either,
-with Shensen missing and this new human dictator causing a pall of anger and
-sorrow to hang over the city.&lt;/p&gt;
-
-&lt;p&gt;The Atlantean wrestler isn’t exactly a genius detective. His method of
-investigation can be summed by the word “vibes”. Therefore, Arcturus is
-absolutely sure that the shortest path to completing his quest lies in opposing
-this land-monster, which is why he’s at the big protest against him at the start
-of the campaign.&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Arcturus is an obvious expy of Aquaman from Batman: The Brave and the Bold, and
-that’s exactly what he looks like. You can make his hair brown instead of blond
-if you won’t want a 100% exact match, but you should still take all your
-roleplaying cues from that version of Aquaman.&lt;/p&gt;
-
-&lt;h2 id=&quot;build-notes&quot;&gt;Build Notes&lt;/h2&gt;
-
-&lt;p&gt;Arcturus is a mix of the Wrestler and Martial Artist archetypes. The Wrestler
-first appeared in Pyramid #3/111. Art makes extensive use of the Fantastic
-Dungeon Grappling rules, as does the campaign he’s in.&lt;/p&gt;
-
-&lt;p&gt;He’s an &lt;a href=&quot;/octopus-carnival/2024/04/28/atlantis.html&quot;&gt;Atlantean&lt;/a&gt;, which means he has no problem operating underwater. His
-fighting style works well both in and out of water: grab’em, and stab’em. That
-is, inflict a reasonable bunch of Control Points onto an enemy using Wrestling,
-and then stab them with his knife while spending as many CP as possible to boost
-the knife’s damage dice. If there’s no time to draw the knife, the damage dice
-from CP alone should let Art inflict some involuntary yoga on almost any
-opponent anyway.&lt;/p&gt;
-
-&lt;p&gt;Character advancement is simple. More ST, more DR, higher combat skills, more
-attacks! Those can come from either straight up increases or Martial Artist and
-Wrestler powers (or better armor in the case of DR). He can also make excellent
-use of Extra Attacks and Fast-Draw, which let the grab-and-stab loop happen much
-faster. Any branching out will mostly be towards the addition of more acrobatic
-and movement skills. Let everyone else do the talking and investigating,
-Arcturus Pankrator is here to punch things and tie them in knots. Point him at
-any nazis, sea monsters, or nazi sea monsters and watch the spectacle.&lt;/p&gt;
-
-&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Attributes&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 14 {40}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 10 {0}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
-
-&lt;p&gt;Damage 1d/2d; Basic Lift 19.6kg; HP 14; Will 10; Per 10; FP 12; Basic Speed 7
-{5}; Basic Move 8 {5};&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Amphibious {10}&lt;/li&gt;
-  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
-  &lt;li&gt;Doesn’t Breathe (Gills) {10}&lt;/li&gt;
-  &lt;li&gt;Enhanced Parry (Bare Hands) {15}&lt;/li&gt;
-  &lt;li&gt;Trained by a Master {30}&lt;/li&gt;
-  &lt;li&gt;Wrestling Master {10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Code of Honor (Chivalry) {-15}&lt;/li&gt;
-  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
-  &lt;li&gt;Obsession (Find the missing sea elves) {-5}&lt;/li&gt;
-  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Sense of Duty {-5}&lt;/li&gt;
-  &lt;li&gt;Wealth: Struggling {-10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pick your own! {-5}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Carousing (E) HT {1} - 12&lt;/li&gt;
-  &lt;li&gt;Hiking (A) HT-1 {1} - 11&lt;/li&gt;
-  &lt;li&gt;Judo (H) DX {4} - 15&lt;/li&gt;
-  &lt;li&gt;Karate (H) DX-1 {1} - 14&lt;/li&gt;
-  &lt;li&gt;Knife (E) DX+1 {2} - 16&lt;/li&gt;
-  &lt;li&gt;Knot-Tying (E) DX {1} - 15&lt;/li&gt;
-  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
-  &lt;li&gt;Swimming (E) HT {1} - 12&lt;/li&gt;
-  &lt;li&gt;Wrestling (A) DX+5 {20} - 20&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Chi Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Immovable Stance (H) DX {4} - 15&lt;/li&gt;
-  &lt;li&gt;Push (H) DX {4} - 15&lt;/li&gt;
-  &lt;li&gt;Throwing Art (E) DX {4} - 15&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Large Knife: $40, 0.5kg.&lt;/li&gt;
-  &lt;li&gt;Clothing: Free, 1kg.&lt;/li&gt;
-  &lt;li&gt;Armor: Nothing on head, light scale on body, light cloth/leather everywhere
-else. $336, 8.4kg.&lt;/li&gt;
-  &lt;li&gt;Pouch: Stores 1.5kg of small objects. $10, 0.1kg.
-    &lt;ul&gt;
-      &lt;li&gt;Coins: 1 silver, 10 copper. $30, 0.11kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dodge: 11&lt;/li&gt;
-      &lt;li&gt;Parry: 17 (Wrestling), 14F (Judo), 11 (Knife).&lt;/li&gt;
-      &lt;li&gt;DR: 2 on skull, 0 on head, 3 (2 vs Crushing) on body, 1 everywhere else.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Large Knife (16): 2d-2 cut (Reach C, 1) or 1d imp (Reach C).&lt;/li&gt;
-      &lt;li&gt;Wrestling Grab (20): 1d+3 control, Reach C.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/03/01/lphr-arcturus.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/01/lphr-arcturus.html</guid>
         
         <category>gurps</category>
         
