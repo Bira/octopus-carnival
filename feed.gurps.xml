@@ -5,9 +5,282 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Mar 2026 02:24:05 +0000</pubDate>
-    <lastBuildDate>Sun, 22 Mar 2026 02:24:05 +0000</lastBuildDate>
+    <pubDate>Wed, 25 Mar 2026 10:22:50 +0000</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:22:50 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels!: Adventure 1, Scene 04</title>
+        <description>&lt;p&gt;Another scene in my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-intro&quot;&gt;[GM] Intro&lt;/h1&gt;
+
+&lt;p&gt;In our last scene, our heroes officially decided to reform the Silver Ravens,
+and decided their first mission is to check out the abandoned Raven hideout
+under the Fair Fortune Livery. In this scene, we’ll see how that goes.&lt;/p&gt;
+
+&lt;p&gt;No interrupt checks today, because I don’t wanna.&lt;/p&gt;
+
+&lt;p&gt;This scene will cover the first half of the Livery delve.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
+
+&lt;p&gt;The Chaos Factor for the last scene was 5, and I want to keep it at 5 even
+though the last scene was peaceful.&lt;/p&gt;
+
+&lt;p&gt;Let’s add the Three-Legged Devil tavern as a “character”. I don’t think it ever
+comes up again in the default campaign, but it might here! If it comes up on a
+roll, it could either about the location itself or about the people associated
+with it.&lt;/p&gt;
+
+&lt;p&gt;We can also close the “Reunite!” thread, as that happened last scene.&lt;/p&gt;
+
+&lt;p&gt;So here are our lists.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chaos Factor&lt;/strong&gt;: 5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path **&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia, Arcturus)&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+  &lt;li&gt;The Three-Legged Devil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Delving the Livery counts as following The Path.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-shopping&quot;&gt;[Player] Shopping!&lt;/h1&gt;
+
+&lt;p&gt;The livery is clear across town, so our heroes agree to stop on the way to do
+some shopping. I’m not going to roleplay the shopkeeper here. Let’s keep it
+abstract. They agree to use the money they just got from Rexus to buy extra gear
+for the Livery expedition. That’s $750 in coins (1 gold, 17 silver, 10
+copper), plus a ring worth $750.&lt;/p&gt;
+
+&lt;p&gt;First of all, Jania will try to sell the ring. Like everyone else in the party
+she’s of Average wealth, so she can sell it for 40% of its value. Haggling is a
+Quick Contest of her Merchant vs. 15, which ends up a tie! This means the price
+doesn’t change, and the ring is sold for $300. That leaves the party with a
+$1050 budget.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 glow vials: $90, neg. Carried by Arthur, Rosalia, and Jade.&lt;/li&gt;
+  &lt;li&gt;Hand mirror: $15, 0.5kg. Carried by Jania.&lt;/li&gt;
+  &lt;li&gt;2 doses of visibility dust: $100 total, 0.5kg. each. Carried by Rosalia and
+Arthur.&lt;/li&gt;
+  &lt;li&gt;5 minor healing potions, 1 for each $600 total, 0.25kg each.&lt;/li&gt;
+  &lt;li&gt;1 paut, for Urist. $135, 0.25kg&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;They agree to split the remaining $110 equally, getting $22 each (1 silver, 2
+coppers). Jade also gets the blessed papers.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] I&apos;m not gonna make the shopping into a separate Mythic scene. The
+following scene will be different from what&apos;s in the book, and I think
+we can count that as an &quot;altered&quot; scene even though I planned the
+differences myself.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h1 id=&quot;player-the-fair-fortune-livery&quot;&gt;[Player] The Fair Fortune Livery&lt;/h1&gt;
+
+&lt;p&gt;It’s mid-afternoon when the party arrives at the Fair Fortune livery. Jade
+remembers the original Ravens talking about how it used to be a slaughterhouse,
+but was rebuilt under new direction. She remembers thinking that was nice, but
+the place is abandoned and in disrepair now. They never brought her to this
+particular hideout. It was fairly minor and probably not kid-friendly.&lt;/p&gt;
+
+&lt;p&gt;The livery is now a ruined stable, precariously leaning to the right. Its
+frontal double doors are ajar despite being chained, and there’s a significant
+gap that could allow the PCs to squeeze through. That’s exactly what they do,
+for as soon as they get close to the building they hear the sounds of fighting!&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] I determine that squeezing past the front doors requires an unmodified
+DX roll, and all of the party succeeds.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Inside, the group finds a small pack of dogs viciously attacking a band of small
+creatures that look like upright possums. The “possums” wear clothing stitched
+from rags and carry small and crude weapons, putting up a spirited but
+ultimately doomed defense.&lt;/p&gt;
+
+&lt;p&gt;The party advances to help! As soon as the dogs see a bunch of people larger
+than they are approaching, they run away, passing through smaller gaps in the
+walls.&lt;/p&gt;
+
+&lt;p&gt;The possums look warily at the newcomers, not yet knowing what to make of
+them. Jade can see the fight was hard on them, as two lie dead on the ground,
+and the remaining three are quite tense. She sheathes her sword and raises her
+hand, proclaiming they come in peace. The rest of the group follows her lead on
+this.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Reaction roll time! I want the grimples to be peaceful, but let&apos;s make
+things a bit more random.
+
+Let&apos;s say the possums react at -2 due to their stress. That&apos;s barely an
+obstacle to Jade, who still has a net +7 reaction bonus. The grimples&apos;
+leader does consider himself a knight of sorts. The result is 15, a Good
+reaction.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The … possum-people?… seem reasonably convinced that the party means no
+harm. The one who seems to be their leader steps forward, sheating his makeshift
+sword. He introduces himself as King Godric, leader of a small community of
+grimples who has recently arrived at this “land” to try and make a home here. He
+speaks as though the crumbling livery is a bounteous kingdom, causing Rosalia to
+remark that one man’s trash is another man’s treasure. Godric enthusiastically
+agrees with this and says he’s glad to meet a kindred spirit.&lt;/p&gt;
+
+&lt;p&gt;Godric apologizes for being so bold, but he would like to know if the group is
+interested in helping his people one more time. The dogs were not the only
+threat they had been facing. There is a region of his underground kingdom from
+which only a single explorer has managed to return, half-dead and half-mad,
+describing terrible demons of enormous size! Ever since then, mobs of terrible
+monsters have emerged to raid his capital, and he fears they might not last much
+longer. The dogs were yet another disaster heaped on top of his unlucky people.&lt;/p&gt;
+
+&lt;p&gt;The group has a little private discussion. It seems that this “underground
+kingdom” might be the old hideout, and they would have to deal with whatever is
+down there regardless. So, Jade thinks, they might as well agree to help.&lt;/p&gt;
+
+&lt;p&gt;Jade returns to “negotiations”, and mentions they came here looking for ancient
+documents. The grimples never found anything like that in the part of the
+“kingdom” they inhabit, but Godric hastily adds that the group is free to keep
+any treasure they find from the “cursed lands”, should they agree to help. Not
+seeing a reason to refuse, they agree.&lt;/p&gt;
+
+&lt;p&gt;Godric produces a key and goes to unlock the gate to the old killing floor,
+saying the entrance to his territory is through a trapdoor beyond. While he does
+this, Jania spots something shiny near the ceiling and proceeds to levitate
+towards it. It’s a signet ring hanging from a nail! She doesn’t recognize the
+heraldry on it, but it’s made of platinum and worth a pretty penny.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] $2500, to be exact. Jania succeeded at the Perception roll to spot the
+ring and the Merchant -4 roll to assess its value. She&apos;s also down 1 FP from
+the levitation spell.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;player-down-below&quot;&gt;[Player] Down Below&lt;/h2&gt;
+
+&lt;p&gt;Guided by the grimples, the party makes their way to the basement of the ruin,
+through a trapdoor on what used to be a workroom. They descend to a former
+equipment storage agrea, which is now a moldy, rusty, stinky mess. Godric and
+his fellow grimples appear to not notice the smell, though the party certainly
+does.&lt;/p&gt;
+
+&lt;p&gt;It’s here that the PCs activate their light vials. Jade, Rosalia, and Arcturus
+tie one each to their wrists using the string that comes with the vials, holding
+them aloft like torches.&lt;/p&gt;
+
+&lt;p&gt;From the storage cubicle they cross a doorway to a larger hall that seems to
+have been used to butcher recently slain animals. It’s a small village, with
+many tiny tents pitched over the sawdust floor. There are about twenty grimples
+in here all told, though Godric’s party seem to be the only combatants. The
+smell is not much better.&lt;/p&gt;
+
+&lt;p&gt;To the east there’s a large, rusty grate, with a hallway visible beyond
+it’s. Godric describes that as the “threshold” to the “cursed land”. Before he
+lets the party through, the village has a short impromptu ceremony to pay homage
+to the brave heroes who have agreed to help them. “Though they are of the
+tallfolk, their hearts are as honorable as any grimple’s!”&lt;/p&gt;
+
+&lt;p&gt;After that, he opens the gate using the same key as before, and the delve is on.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] So far we&apos;ve neatly skipped a lot of the filler fights, but now we got
+to the main event of this delve.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;player-polluted-cistern&quot;&gt;[Player] Polluted Cistern&lt;/h2&gt;
+
+&lt;p&gt;Beyond the gate, there is a set of stairs leading down. The environment here
+looks much more like a street than a basement. Rosalia remembers that some
+decades ago the city’s “street level” was raised to help control flooding, and
+the old streets became a mix of sewers and other underground tunnels.&lt;/p&gt;
+
+&lt;p&gt;The party finishes going down the stairs and opens a pair of double doors to
+find a huge pool of stinky brown sludge. The few patches of wall and ceiling
+near it that still retain their plaster are covered in evil-looking writing, and
+the two demons splashing around near the margin only make it all look more
+sinister. They don’t look the talkative type - as soon as they spot the PC’s
+lights, they turn and growl, looking like very angry human-sized balls of
+excrement.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;GM: It&apos;s two lemures. We also have three rats waiting in the wings for an
+extra surprise. These would have been a separate, previous fight in the
+original adventure. I&apos;m throwing them in here, to bring the fight&apos;s
+challenge closer to the PC&apos;s power level. Anyway, this is where we enter
+combat mode.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The party steps forward to the edge of the pool to wait for the lemures to close
+in, and they spot the rats nearby right away. The animals are used to being
+ignored by the lemures and they’re eager to bite into some fresh meat, so they
+charge in and try to bite the heroes, to little effect.&lt;/p&gt;
+
+&lt;p&gt;The battle takes 5 rounds total. In the first two, Jade shows how useful her
+sword skills are by slaying one of the lemures and two of the rats, and one of
+those with a parry instead of an attack. The rules for parrying unarmed attack
+with weapons can be nasty. Urist kills a rat too. The rest of the party manages
+to stay mostly untouched, save for a small rat bite on Rosalia, but they have
+trouble bypassing enemy defenses. That’s some rotten luck on the part of
+Arcturus, as he should definitely have the skills to do that.&lt;/p&gt;
+
+&lt;p&gt;For the last three rounds we only have a single lemure left, but the fight
+becomes a slog as the entire party proceeds to roll badly. Urist suffers a
+critical failure that unreadies his weapon. Rosalia suffers one that sends her
+saber flying off. And to cap it off the lemure manages to grab Jania and
+grievously injure her with a bite before Arctururs can finally dispatch it.&lt;/p&gt;
+
+&lt;p&gt;Witht he fight ended, Jania is both in pain from the demons’ claw wounds and
+faintly horrified that the thing got its stink all over her. Urist can at least
+solve the first problem with a Major Healing spell, but the second will have to
+wait until they’re done with this place.&lt;/p&gt;
+
+&lt;p&gt;The cleric also identifies the evil runes scribbled on the walls as a failed
+attempt to open a portal to Hell. They might have worked briefly in the past,
+which is how these two lemures got here, but they’ve been inert and useless for
+a long time now.&lt;/p&gt;
+
+&lt;p&gt;The party resumes exploration of the underground street, finding that it leads
+north. They move that way.&lt;/p&gt;
+
+&lt;h2 id=&quot;gm-session-notes&quot;&gt;[GM] Session Notes&lt;/h2&gt;
+
+&lt;p&gt;Even though we’re not through the dungeon yet, I’m going to introduce a scene
+break here, because I’m going to need some significant GM work for the next
+bit.&lt;/p&gt;
+
+&lt;p&gt;I actually took a three-month break between round 4 and 5. I stopped because I
+was out of time, but between other distractions and a slighty feeling of
+annoyance at my PCs’ performance it took me that long to return to it.&lt;/p&gt;
+
+&lt;p&gt;In Scene 05, we should finish this delve.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/25/lphr-scene-04.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/25/lphr-scene-04.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels! Adventure 01, Scene 03</title>
@@ -1449,226 +1722,6 @@ well, the Chaos Factor rises to 6.&lt;/p&gt;
         <category>gurps</category>
         
         <category>dungeon-fantasy</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Urist Stortebeker, the Last Archivist</title>
-        <description>&lt;p&gt;One of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Urist Stortebeker is a somewhat unorthodox dwarven priest because he honors gods
-of freedom and knowledge such as Caiden Caylean, Avandra, and Ioun. This
-naturally drew him to the Honored Society of Archivists in Kintargo a few years
-ago. This was a secret organization dedicated to preserving the true history of
-the Ravounel region and of wider Cheliax from the revisionist depredations of
-its fascist government.&lt;/p&gt;
-
-&lt;p&gt;He was just walking the first steps to mastering their deep scholarship, but his
-previous adventuring career made him very good at retrieving lost documents of
-historical and cultural value, so that’s what he mostly focused on.&lt;/p&gt;
-
-&lt;p&gt;He had been out on a mission to retrieve one of those documents when the Night
-of Ashes happened. The agents of Barzilai Thrune, the newly appointed Lord Mayor
-of Kintargo, swept through the city killing anyone who they thought might be
-able to oppose his plans, and burning down their homes. This included the
-members of the Society, most of whose identities Barzilai had figured out.&lt;/p&gt;
-
-&lt;p&gt;This makes Urist the last surviving Archivist, and you can be he’s extremely
-angry and sad about that. However, just before he left on that last mission,
-some of his Archivist friends asked him to look after their son if anything
-happened to them. They weren’t sure anything &lt;em&gt;was&lt;/em&gt; going to happen, but things
-weren’t looking good in general.&lt;/p&gt;
-
-&lt;p&gt;So now Urist’s top priority is finding this son, Rexus Victocora, and making
-sure that he’s safe. And then he’s going to make those damned nazis pay. His
-demeanor might be jolly but he’s still a dwarf. He knows how to hold a grudge.&lt;/p&gt;
-
-&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
-
-&lt;p&gt;Urist has a very typical appearance to go with his very typical name. Stocky,
-bald, pale skin, white beard, brown eyes. He always carries his clan dagger in
-his belt, and his axe too. In combat he likes heavy armor and a shield to go
-with the weapons. Unlike the typical dwarf character, he tends to act jolly a
-lot of the time, even in the face of adversity and grief.&lt;/p&gt;
-
-&lt;p&gt;“Stortebeker” is an epithet that was applied to a historical Dutch pirate. It
-means roughly “upturner of cups”, which in turn means someone who drinks
-a lot. Appropriate for a priest who honors the drunk god.&lt;/p&gt;
-
-&lt;h2 id=&quot;build-notes&quot;&gt;Build Notes&lt;/h2&gt;
-
-&lt;p&gt;Urist is a pretty typical Dungeon Fantasy Cleric, though he’s more on the fighty
-side of that archetype than on the “staff and robe” one. So in addition to more
-spells, his progression plan is going to include better combat skills and
-possibly some Holy Warrior abilities to make him better at directly fighting
-demons.&lt;/p&gt;
-
-&lt;p&gt;As mentioned above, he’s a dwarf, and his species traits have been included in
-his character sheet below.&lt;/p&gt;
-
-&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 12 {20}; &lt;strong&gt;DX&lt;/strong&gt; 12 {40}; &lt;strong&gt;IQ&lt;/strong&gt; 14 {80}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
-
-&lt;p&gt;Damage 1d-1/1d+2; Basic Lift 14.4kg; HP 12; Will 14; Per 14; FP 14 {6}; Basic
-Speed 6; Basic Move 5 {-5};&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Clerical Investment {5}&lt;/li&gt;
-  &lt;li&gt;Detect Evil {18}&lt;/li&gt;
-  &lt;li&gt;Night Vision 5 {5}&lt;/li&gt;
-  &lt;li&gt;Power Investiture 3 {30}&lt;/li&gt;
-  &lt;li&gt;Resistant to Poison 6 {6}&lt;/li&gt;
-  &lt;li&gt;Unfazeable {15}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Armor not interchangeable with that of humans&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Charitable (12) {-15}&lt;/li&gt;
-  &lt;li&gt;Compulsive Carousing (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Compulsive Generosity (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Intolerance (Evil Religions) {-5}&lt;/li&gt;
-  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Sense of Duty (Good Entities) {-10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Define your own! {-5}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Axe/Mace (A) DX+2 {8} - 14&lt;/li&gt;
-  &lt;li&gt;Diagnosis (H) IQ-2 {1} - 12&lt;/li&gt;
-  &lt;li&gt;Esoteric Medicine (Holy) (H) Per {4} - 14&lt;/li&gt;
-  &lt;li&gt;Exorcism (H) Will {4} - 14&lt;/li&gt;
-  &lt;li&gt;First Aid (E) IQ+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 15&lt;/li&gt;
-  &lt;li&gt;Gesture (E) IQ {1} - 14&lt;/li&gt;
-  &lt;li&gt;Hidden Lore (Demons) (A) IQ-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Hiking (A) HT-1 {1} - 11&lt;/li&gt;
-  &lt;li&gt;Innate Attack (Projectile) (E) DX+2 {4} - 14&lt;/li&gt;
-  &lt;li&gt;Meditation (H) Will-2 {1} - 12&lt;/li&gt;
-  &lt;li&gt;Observation (A) Per-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Occultism (A) IQ-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Public Speaking (A) IQ-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Religious Ritual (H) IQ-2 {1} - 12&lt;/li&gt;
-  &lt;li&gt;Research (A) IQ-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Savoir-Faire (E) IQ {1} - 14&lt;/li&gt;
-  &lt;li&gt;Shield (E) DX+2 {4} - 14&lt;/li&gt;
-  &lt;li&gt;Surgery (H) IQ-2 {2} - 12&lt;/li&gt;
-  &lt;li&gt;Teaching (A) IQ-1 {1} - 13&lt;/li&gt;
-  &lt;li&gt;Theology (H) IQ-2 {1} - 12&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;All get +3 from Power Investiture&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Affect Spirits (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Armor (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Breathe Water (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Cleansing (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Continual Light (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Cure Disease (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Glow (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Lend Energy (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Light (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Major Healing (VH) IQ {1} - 14&lt;/li&gt;
-  &lt;li&gt;Minor Healing (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Recover Energy (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Recover Energy (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Resist Disease (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Resist Fire (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Resist Lightning (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Resist Poison (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;See Secrets (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Shield (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Sunbolt (H) IQ+1 {1} - 15&lt;/li&gt;
-  &lt;li&gt;Sunlight (H) IQ+1 {1} - 15&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;$1000, 22.18kg, Light Encumbrance.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Clothing: $0, 1kg.&lt;/li&gt;
-  &lt;li&gt;Silver-Coated Axe: Reach 1, sw+2 cut; $150, 2kg.&lt;/li&gt;
-  &lt;li&gt;Small Shield: DB 1; $40, 4kg.&lt;/li&gt;
-  &lt;li&gt;Small Knife: Clan dagger; $30, 0.25kg.&lt;/li&gt;
-  &lt;li&gt;Light Cloth Armor: All locations, includes face protection; DR 1; $155, 9.4kg.&lt;/li&gt;
-  &lt;li&gt;Small Backback: Holds 20kg of gear. $60, 1.5kg.
-    &lt;ul&gt;
-      &lt;li&gt;First Aid kit: +1 to First Aid. $50, 1kg.&lt;/li&gt;
-      &lt;li&gt;Holy Symbol: $50, 0.5kg.&lt;/li&gt;
-      &lt;li&gt;Holy Water: “Grenade” bottle; $15, 0.5kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pouch: Holds 1.5kg; $10, 0.1kg.
-    &lt;ul&gt;
-      &lt;li&gt;Minor Healing Potion: heals 1d HP; $120, 0.25kg.&lt;/li&gt;
-      &lt;li&gt;13 x Silver Coin: $260, 0.13kg.&lt;/li&gt;
-      &lt;li&gt;15 x Copper Coin: $15, 0.15kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Assumes Light Encumbrance and a DB 1 shield.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dodge: 9&lt;/li&gt;
-      &lt;li&gt;Parry: 11U&lt;/li&gt;
-      &lt;li&gt;DR: 3 on skull, 0 on eyes, 1 everywhere else.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Axe (14): 1d+4 cut, Reach 1.&lt;/li&gt;
-      &lt;li&gt;Shield Bash (14): 1d-1 cr, Reach 1.&lt;/li&gt;
-      &lt;li&gt;Sunbolt (14): 1d-9d burn, Acc 2, Range 75/150, costs 0-8 FP.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Defaults from Esoteric Medicine (Holy) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/03/05/lphr-urist.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/05/lphr-urist.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>character</category>
         
         <category>lets-play</category>
         
