@@ -34,6 +34,8 @@ We can also close the "Reunite!" thread, as that happened last scene.
 
 So here are our lists.
 
+**Chaos Factor**: 5
+
 **Threads**
 
 - The Path **
@@ -200,76 +202,30 @@ sinister. They don't look the talkative type - as soon as they spot the PC's
 lights, they turn and growl, looking like very angry human-sized balls of
 excrement.
 
-- GM: It's two lemures. We also have three rats waiting in the wings for an
-  extra surprise. These would have been a separate, previous fight in the
-  original adventure. I'm throwing them in here, to bring the fight's challenge
-  closer to the PC's power level. Anyway, this is where we enter combat mode.
+    GM: It's two lemures. We also have three rats waiting in the wings for an
+    extra surprise. These would have been a separate, previous fight in the
+    original adventure. I'm throwing them in here, to bring the fight's
+    challenge closer to the PC's power level. Anyway, this is where we enter
+    combat mode.
 
-**Round 1**
+The party steps forward to the edge of the pool to wait for the lemures to close
+in, and they spot the rats nearby right away. The animals are used to being
+ignored by the lemures and they're eager to bite into some fresh meat, so they
+charge in and try to bite the heroes, to little effect.
 
-- Arcturus steps forward and Readies his knife. He also spots the rats.
-- Giant Rat 3 Moves and Attacks to bite Art, and misses.
-- Urist moves to stand beside Art.
-- Rat 1 Moves and Attacks to bite Jade, misses.
-- Lemure 1 Moves south and reaches the pool's edge.
-- Jania Steps and casts Ice Dagger, loading it with 1 point for free.
-- Lemure 2 moves south and engages with Art.
-- Rosalia Moves to the east.
-- Rat 2 Moves east and engages Urist.
-- Jade Steps and Attacks Rat 1 with a sword thrust, hitting for 4 injury.
+The battle takes 5 rounds total. In the first two, Jade shows how useful her
+sword skills are by slaying one of the lemures and two of the rats, and one of
+those with a parry instead of an attack. The rules for parrying unarmed attack
+with weapons can be nasty. Urist kills a rat too. The rest of the party manages
+to stay mostly untouched, save for a small rat bite on Rosalia, but they have
+trouble bypassing enemy defenses. That's some rotten luck on the part of
+Arcturus, as he should definitely have the skills to do that.
 
-**Round 2**
-
-- Lemure 2 tries to grab Art, Art parries with Wrestling.
-- Art attacks with a knife slash, Lemure 2 dodges.
-- Rat 1 tries to bite Jade, she parries and automatically slashes its face,
-  dealing 7 injury and defeating it.
-  - I had forgotten the bites were Reach C up to this point.
-- Rosalia moves up 2 hexes.
-- Rat 2 Attacks Rosalia, who retreats but fails to parry, and is hit for 1
-  injury.
-- Jania throws her Ice Dagger at Lemure 2 and misses!
-- Lemure 1 uses a Move and Attack to grab Jade, but misses.
-- Jade Steps back and Attacks Lemure 1 twice (swing, Rapid, Deceptive -1). She
-  hits both times for a total of 16 injury, killing the devil.
-- Rat 3 advances and tries to bite Acrturus, who once again parries with
-  Wrestling.
-- Urist attacks Rat 2 with his axe and kills it.
-
-**Round 3**
-
-- Rat 3 again tries to bite Arcturus, who parries with Wrestling.
-- Arcturus flurries a grab and a knife thrust on Rat 3, who dodges the first and
-  tanks the second due to a bad damage roll.
-- Lemure 2 advances on Urist and tries to grab him, Urist retreats and Blocks.
-- Jade advances and thrusts at Rat 3, killing it.
-- Rosalia moves to flank Lemure 2.
-- Jania advances and thwacks Lemure 2 for 2 injury.
-- Urist swings his axe at Lemure 2, critically missing. The weapon turns in his
-  hand and he has to spend a Ready maneuver on it to attack again.
-
-
-**Round 4**
-
-- Lemure 2 advances on Jania, as she was the last one to injure it, and grabs
-  her for 8 control!
-- Arcturus tries to stab Lemure 2! Hits for 4 injury.
-- Jania tries to escape the grapple but fails.
-- Jade stabs Lemure 2 twice in the vitals... but fails to penetrate its DR.
-- Urist spends a Ready maneuver correcting his grip on the axe.
-- Rosalia steps forward to try and hit Lemure 2. Critical failure! Her saber
-  flies from her hand, hitting the southern wall of the underground space with a
-  clang. No one is hurt.
-
-**Round 5**
-
-- Lemure 2 uses Claw on Jania, who fails to dodge because she's grappled. 6
-  injury after armor.
-- Rosalia runs to where her saber is.
-- Arcturus steps behind the Lemure and slashes with his knife in an
-  All-Out-Attack (Strong), since it's focused on tearing Jania apart. He hits
-  for 10 injury after DR, finally putting the vile fiend down.
-
+For the last three rounds we only have a single lemure left, but the fight
+becomes a slog as the entire party proceeds to roll badly. Urist suffers a
+critical failure that unreadies his weapon. Rosalia suffers one that sends her
+saber flying off. And to cap it off the lemure manages to grab Jania and
+grievously injure her with a bite before Arctururs can finally dispatch it.
 
 Witht he fight ended, Jania is both in pain from the demons' claw wounds and
 faintly horrified that the thing got its stink all over her. Urist can at least
@@ -284,57 +240,16 @@ a long time now.
 The party resumes exploration of the underground street, finding that it leads
 north. They move that way.
 
-## GM Note
+## [GM] Session Notes
 
 Even though we're not through the dungeon yet, I'm going to introduce a scene
 break here, because I'm going to need some significant GM work for the next
-bit. It was also something like 3 months between the start of round 4 and end of
-round 5 in the fight, so I need to refocus on this campaign too.
+bit.
 
-### GM Interlude
+I actually took a three-month break between round 4 and 5. I stopped because I
+was out of time, but between other distractions and a slighty feeling of
+annoyance at my PCs' performance it took me that long to return to it.
 
-Mechanically, we're going with [this procedure][2] for the exploration, and I
-think it's fair to say this includes Urist's Detect Evil rolls. I'd argue for
-that if I was his player!
-
-Time to plan what's ahead. First of all: do I even _want_ to include
-Blosodriette here?
-
-She's CR 4, and appears at a time when Pathfinder 1e PCs would be level 1. She
-has unreasonably high Stealth, at-will Invisibility, and her contract is
-disguised with an illusion spell the PCs can't pierce at this level. She also
-has a wand of Acid Arrow with 9 charges, which could make short work of a level
-1 party.
-
-So clearly the book means for her to stay hidden, follow the PCs to their new
-hideout, and engage in sabotage during the back half of the adventure. The PCs
-are only meant to find her shortly before the end of the adventure, when they've
-leveled up a bit and fighting her becomes a more reasonable proposition.
-
-However, her sabotage is _super annoying_ to deal with when playing solo. And
-our PCs are already powerful enough to take her on, and even to detect her
-presence right here. So I think I'll let that happen, and run the fight here.
-
-### The Old Hideout
-
-The party arrives here on their second exploration turn, take in the ruined
-ambience, and decide to spend another exploration turn searching the place. This
-is a no-brainer, really. So we get to make some Perception rolls for them.
-
-- Jania spots the nest in the corner, and notes it seems to have been recently
-  used by a tiny humanoid creature.
-
-- Rosalia notices the three boxes of Stuff.
-
-- Urist's Detect Evil power finds that there's a demon in the area, but none of
-  the others can find anything with their mundane senses.
-
-Blosodriette is invisible and trying to be sneaky. I'm giving her Stealth 15,
-and no one could beat that with their Hearing rolls. I do think all of this
-would make Jania cast See Invisible, and I want to say that'd let them spot her
-because she'd be relying on her invisibility to stay hidden.
-
+In Scene 05, we should finish this delve.
 
 [1]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
-
-[2]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
