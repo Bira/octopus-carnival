@@ -47,9 +47,9 @@ cross that they can head West until they're at the Coffee House. Let's say
 there's a dottari patrol, four of them, near the bridge crossing. They're
 ostensibly looking for people who took part on the riot, but what they're really
 looking for is excuses to harass passers-by. They don't recognize our party has
-rioters, but since they're carrying boxes and look a bit frazzled from all that
-delving, they will be stopped and briefly questioned. So this is a social
-encounter.
+rioters, but since they're carrying boxes and look a bit frazzled and dirty from
+all that delving, they will be stopped and briefly questioned. So this is a
+social encounter.
 
 These guards are Intolerant and react at -3 to anyone who isn't
 obviously a devil-worshipping fascist. It seems Kintargo doesn't actually have a
@@ -64,9 +64,10 @@ does as those require more interaction. The final result here is a 7, a Poor
 reaction.
 
 So there our heroes are, walking along the street and trying not to stand
-out. There are some other people about but not too many. Arthur is carrying two
-boxes, Urist is carrying one. The guards have just finished harassins some other
-pedestrian for a bribe. They spot our heroes and decide to harass them next.
+out. There are some other people about but not too many. Arcturus is carrying
+two boxes, Urist is carrying one. The guards have just finished harassing some
+other pedestrian for a bribe. They spot our heroes and decide to harass them
+next.
 
 They're very cocky, thiking that these strangers look like troublemakers and
 that they're either going to be a nice bust or they'll pay handsomely to go on
@@ -98,15 +99,16 @@ find Rexus talking to its proprietor, a plump halfling lady. When they notice
 the PCs have arrived, the halfing goes to greet them as old friends and invites
 everyone to her office in the back so they can "catch up on old times". Most of
 the party understands immediately that this is an excuse to go somehwere
-private, and Arthur goes along because he sees the lady prepping a huge tray of
-pastries to take with her.
+private, and Arcturus goes along because he sees the lady prepping a huge tray
+of pastries to take with her.
 
 Once in the office, Rexus introduces her as Laria Longroad, the owner of the
 coffee house and also one of the most well-connected Bellflower Network
 operatives in Kintargo. Laria and Urist alread knew each other and share a nod
-of recognition. Jade and Arthur can see that the "plump cook" exterior hides the
-kind of muscle that only comes from a life of hard fighting. Jania can see this
-is a canny person with a lot of experience on the shady side of the street...
+of recognition. Jade and Arcturus can see that the "plump cook" exterior hides
+the kind of muscle that only comes from a life of hard fighting. Jania can see
+this is a canny person with a lot of experience on the shady side of the
+street...
 
 Laria is generally happy that the PCs came along and saved Rexus. Her past
 interactions with him and Urist predispose her to trusting the party, and every
@@ -131,7 +133,7 @@ down (Rosalia makes a pained face at that). Of the cult of Milani, goddess of
 righteous rebellion, there is no sign. They operated under the name "Rose of
 Kintargo", but have gone completely silent.
 
-So yeah, things are pretty bad. It will be up to the Ravens to round up the
+So yeah, things are pretty bad. It will be up to the Ravens to rally the
 survivors here, as any who are still intact are too afraid to take the
 initiative. Laria is more than willing to help them with that, and she'll start
 by letting the PCs stay in the bunkroom on the second floor of the building, and
@@ -158,11 +160,11 @@ sisters. This was a few days ago.
 The sisters want to look for him, and so does Laria, as he's a friend. However,
 the PCs are in a much better position to do it. They know the city a lot better
 than Korva, and they can move about without drawing suspicion a lot better than
-Laria.  The sooner Comerivos is back and safe, the sooner they can stop sharing
+Laria. The sooner Comerivos is back and safe, the sooner they can stop sharing
 the space with the tengu refugees...
 
 Before any more "practical" reasons can be stated for them to take this job,
-Arthur effusively agrees. But of course we'll look for your friend! It's the
+Arcturus effusively agrees. But of course we'll look for your friend! It's the
 heroic thing to do! The others either feel the same or agree those more
 practical reasons are worth it (Jania).
 
@@ -201,11 +203,11 @@ on them, if any. Full stats are in the previous file.
 - A Suit of Light Leather Armor enchanted with Fortity 1.
 
 Rosalia gets the pistol, and makes a note to buy ammo as soon as
-possible.. Urist gets the mace, which is better than the axe he's currently
+possible. Urist gets the mace, which is better than the axe he's currently
 using. Jade gets the armor, which I'm going to say is black with raven
 motifs. She's our least-armored front-liner, so she needs it.
 
-Finally, the scrolls. I guess they decide to leave those stashed at the bunkroom
-for now.
+Finally, the fireball wand and scrolls. I guess they decide to leave those
+stashed at the bunkroom for now.
 
 This ends our scene.

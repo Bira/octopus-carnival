@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Let's Play Hell's Rebels: Adventure 1, Scene 05"
+tags:
+    - dungeon-fantasy
+    - gurps
+    - hells-rebels
+    - lets-play
+---
+
 # Intro
 
 Our last scene was the first half of a small dungeon delve. The party arrived at
@@ -9,7 +19,7 @@ They accessed a section of old buried city streets, and fought two lemures and
 some giant rats who made their homes there. Then they resumed exploring the
 underground area in search of the Silver Raven hideout.
 
-# GM Hat: Mythic Bookkeeping
+# [GM] Mythic Bookkeeping
 
 The fight was actually a bit more chaotic than I anticipated. The opposition was
 kinda weak but that last lemure took a lot of killing and managed to inflict
@@ -43,7 +53,7 @@ dungeon.
 I roll a d10 and come up with a 7, which means there are no surprise alterations
 here.
 
-# GM Hat: Preparation Work
+# [GM] Preparation Work
 
 Time to plan what's ahead. First of all: do I even _want_ to include
 Blosodriette here?
@@ -146,17 +156,16 @@ and have it carry a letter there, waiting for a specified amount of time and
 allowing the letter to be removed during that wait. Then it returns, possibly
 bearing a response.
 
-# Player Hat: Actual Play
-
-## The Old Hideout
+# [Player] The Old Hideout
 
 Mechanically, we're going with [this procedure][1] for the exploration, and I
-think it's fair to say this includes Urist's Detect Evil rolls. I'd argue for
-that if I was his player!
+think it's fair to say this includes Urist's Detect Evil rolls. Me-The-Player
+would definitely argue for that with Me-The-GM.
 
-The party arrives here on their second exploration turn, take in the ruined
-ambience, and decide to spend another exploration turn searching the place. This
-is a no-brainer, really. So we get to make some Perception rolls for them.
+The party arrives at the old hideout on their second exploration turn, take in
+the ruined ambience, and decide to spend another exploration turn searching the
+place. This is a no-brainer, really. So we get to make some Perception rolls for
+them.
 
 - Jania spots the nest in the corner, and notes it seems to have been recently
   used by a tiny humanoid creature.
@@ -167,68 +176,46 @@ is a no-brainer, really. So we get to make some Perception rolls for them.
   the others can find anything with their mundane senses.
 
 Blosodriette is invisible and trying to be silent. I'm giving her Stealth 15,
-and no one could beat that with their Hearing rolls. I do think all of this
-would make Jania cast See Invisible, and I want to say that'd let them spot her
-because she'd be relying on her invisibility to stay hidden. Call it a +10
-modifier to Jania's Perception because the imp is now in plain sight for
-her. With the bonus, Jania succeeds by 14 while B only succeeds by 7.
+and no one could beat that with their Hearing rolls. However I do think the
+clues the party did find would make Jania cast See Invisible, and I want to say
+that'd let them spot her because she'd be relying on her invisibility to stay
+hidden.
+
+    [GM] Call it a +10 modifier to Jania's Perception because the imp is now in
+    plain sight for her. With the bonus, Jania succeeds by 14 while B only
+    succeeds by 7.
 
 Jania spots the imp and calls it out. Blosodriette freaks out, startled and
 angry at life, and begins to fight. Let's say she recognizes Jade, since she was
 definitely around when the Ravens were active!
 
-No surprise, but only Jania can see the imp currently.
+No surprise, but only Jania can see the imp currently. The creature opens by
+launching a fireball from her wand at the party, but she misses, causing the
+projectile to hit a nearby wall and explode. Everyone is startled but no one is
+hurt.
 
-**Round 1**
+Jania casts another See Invisible spell on Urist, which leaves her low on
+fatigue. The priest begins charging a Sunbolt spell.
 
-- Blosodriette launches a fireball from her wand at the party. Misses, causing
-  it to hit a nearby wall and explode. No one is damaged, everyone is startled.
+Rosalia, meanwhile, figures that even though she can't see Blosodriette the imp
+should be able to hear her just fine, so she begins her own string of insults as
+a Song of Humiliation, and manages to stun her target!
 
-- Jania casts See Invisible again, on Urist this time. Succeeds, but has only 4
-  fatigue remaining after the second casting.
+    [GM] There is a penalty for not being able to see the target, but Rosalia
+    won the Quick Contest anyway.
 
-- Urist casts a 1-point Sunbolt, holding it.
+The party's melee fighters have a rough idea of where Blosodrtiette is and begin
+closing in on her position while she struggles and fails to recover from her
+mental stun. Urist lets his Sunbolt fly and slightly singes the imp, and then
+Arcturus ends the fight by grabbing at the flapping and cursing sounds and
+getting a good hold on the creature.
 
-- Arthur and Jade advance closer to where their friends say the demon is.
-
-- Rosalia advances too and figures the demon can hear her just fine, so she uses
-  the Song of Humiliation. She can't see Blosodriette but she knows enough to
-  try for an insult at -2 to skill. She still wins the contest and stuns the
-  imp!
-
-**Round 2**
-
-- B has to Do Nothing. She fails the IQ roll to recover and remains stunned.
-
-- Jania steps forward and casts a 1-point Ice Dagger. It costs nothing due to
-  her high skill.
-
-- Urist steps forward and Aims.
-
-- Arthur and Jade advance further, Rosalia stays put.
-
-**Round 3**
-
-- B Does Nothing but recovers at the end of her turn.
-
-- Jania steps and Aims.
-
-- Urist steps and throws his Sunbolt, hitting the demon for 2 injury.
-
-- Jade swings blindly at the spot she knows Blosodriette is at, but the imp
-  dodges.
-
-- Arthur grabs at the flapping sounds and B critically fails her dodge roll!
-  Though he cannot see the imp, he grabs her for 7 control points, putting her
-  at a -6 DX penalty.
-
-
-
-I'm calling this now. Blosodriette cannot possibly escape Arthur's grasp, so she
-just shouts for them to kill her already so she can go back home after a century
-trapped in this cesspit. Before anyone can reason whether this is really a good
-idea or not, Arthur wrings her like a wet rag and that's that. She disappears in
-a puff of sulfur, leaving her gear behind.
+Blosodriette cannot possibly escape Arthur's grasp, so this is when I go out of
+combat time. Frustrated, the imp just shouts for them to kill her already so she
+can go back home after a century trapped in this cesspit. Before anyone can
+reason whether this is really a good idea or not, Arthur wrings her like a wet
+rag and that's that. She disappears in a puff of sulfur, leaving her gear
+behind.
 
 The imp will pop up back in Hell, and though she's in for a bad time down there
 she will still inform some higher-powered fiends about how the Sixth Raven is
@@ -263,7 +250,7 @@ for it.
 With that done, they set out on the long walk to the Long Roads Coffee House. It
 takes about 90 minutes.
 
-# GM Hat: Rewards
+# [GM] Rewards
 
 The party gets a total of 3 character points:
 
@@ -272,7 +259,7 @@ The party gets a total of 3 character points:
 - 1 for retrieving a "quest item" (the documents).
 
 For treasure, they get the $2500 platinum ring found in scene 4, and everything
-listed in this file except for the Pipes of the Sewers. Rosalia gave that away
+listed in this post except for the Pipes of the Sewers. Rosalia gave that away
 to the grimples. Yes, it's really expensive, I know.
 
 We'll distribute the treasure in the next scene, after the party arrives at the

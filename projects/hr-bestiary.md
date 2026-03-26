@@ -22,6 +22,13 @@ There's a more detailed [Intro][1] post here.
   - [Asmodean Dark Adept][5]
   - [Tar Devil Guard][6]
 
+- Scene 03
+  - No combats!
+
+- Scene 04
+  - Giant Rat: see **DF Monsters** p. 30
+  - [Lemure][7]
+
 # Alphabetical Order
 
 - A
@@ -32,6 +39,12 @@ There's a more detailed [Intro][1] post here.
 
 - D
   - [Dottari Guard][3]
+
+- G
+  - Giant Rat: see **DF Monsters** p. 30
+
+- L
+  - [Lemure][7]
 
 - N
   - [Nox and Mephiry][4]
@@ -45,3 +58,4 @@ There's a more detailed [Intro][1] post here.
 [4]: {{ "/2026/03/16/hr-bestiary-nox.html" | relative_url }}
 [5]: {{ "/2026/03/18/hr-bestiary-dark-adept.html" | relative_url }}
 [6]: {{ "/2026/03/19/hr-bestiary-tar-devil-guard.html" | relative_url }}
+[7]: {{ "/2026/03/26/hr-bestiary-lemure.html" | relative_url }}
