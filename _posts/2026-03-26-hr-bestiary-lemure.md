@@ -47,6 +47,6 @@ different set of abilities. Other than that, there's not much to see here.
 
 
 
-[1]: {{  }}
+[1]: {{ "/2026/03/25/lphr-scene-04.html" | relative_url  }}
 [2]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
 [3]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
