@@ -5,9 +5,321 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Mar 2026 17:21:29 +0000</pubDate>
-    <lastBuildDate>Thu, 26 Mar 2026 17:21:29 +0000</lastBuildDate>
+    <pubDate>Fri, 27 Mar 2026 13:41:05 +0000</pubDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:41:05 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 05</title>
+        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;Our last scene was the first half of a small dungeon delve. The party arrived at
+the Fair Fortune Livery after some shopping, negotiated with the small grimple
+community living in its ruined basement, and learned of “foul demons” inhabiting
+a “cursed land” next door to them.&lt;/p&gt;
+
+&lt;p&gt;They accessed a section of old buried city streets, and fought two lemures and
+some giant rats who made their homes there. Then they resumed exploring the
+underground area in search of the Silver Raven hideout.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
+
+&lt;p&gt;The fight was actually a bit more chaotic than I anticipated. The opposition was
+kinda weak but that last lemure took a lot of killing and managed to inflict
+some damage before it was taken down. Let’s increase the Chaos Factor to 6.&lt;/p&gt;
+
+&lt;p&gt;Let’s also add the Livery Grimples as “characters”. In the default campaign they
+were enemies to be exterminated, but here they’re peaceful and might come up
+again.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path ***&lt;/li&gt;
+  &lt;li&gt;Find the Missing Elves (Arcturus)&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia)&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+  &lt;li&gt;The Three-Legged Devil&lt;/li&gt;
+  &lt;li&gt;The Livery Grimples&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our PCs are progressing along The Path by continuing to delve the livery. This
+next scene is meant to cover the rest of the delve, ending when they leave the
+dungeon.&lt;/p&gt;
+
+&lt;p&gt;I roll a d10 and come up with a 7, which means there are no surprise alterations
+here.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-preparation-work&quot;&gt;[GM] Preparation Work&lt;/h1&gt;
+
+&lt;p&gt;Time to plan what’s ahead. First of all: do I even &lt;em&gt;want&lt;/em&gt; to include
+Blosodriette here?&lt;/p&gt;
+
+&lt;p&gt;She’s CR 4, and appears at a time when Pathfinder 1e PCs would be level 1. She
+has unreasonably high Stealth, at-will Invisibility, and her contract is
+disguised with an illusion spell the PCs can’t pierce at this level. She also
+has a wand of Acid Arrow with 9 charges, which could make short work of a level
+1 party.&lt;/p&gt;
+
+&lt;p&gt;So clearly the book means for her to stay hidden, follow the PCs to their new
+hideout, and engage in sabotage during the back half of the adventure. The PCs
+are only meant to find her shortly before the end of the adventure, when their
+higher level and better gear makes fighting her a more reasonable proposition.&lt;/p&gt;
+
+&lt;p&gt;However, her sabotage is &lt;em&gt;super annoying&lt;/em&gt; to deal with when playing solo. And
+our PCs are already powerful enough to take her on, and even to detect her
+presence right here. So I think I’ll let that happen, and run the fight here.&lt;/p&gt;
+
+&lt;h2 id=&quot;blosodriette&quot;&gt;Blosodriette&lt;/h2&gt;
+
+&lt;p&gt;We start with the stats for a Hrogn from the Nordlond Bestiary, which is
+equivalent to the D&amp;amp;D imp. We then replace the claw attack with a Stinger (a
+piercing Striker). And we add some rogue stuff and items on top of that.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[Author] I&apos;m going to post a Bestiary entry for her too, as usual.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 6; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 12; &lt;strong&gt;HT&lt;/strong&gt; 11;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 11; &lt;strong&gt;SM&lt;/strong&gt; -3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 2;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 6; &lt;strong&gt;Will&lt;/strong&gt; 12; &lt;strong&gt;Per&lt;/strong&gt; 12; &lt;strong&gt;FP&lt;/strong&gt; –;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 8.00; &lt;strong&gt;Move&lt;/strong&gt; 8 (Flight Move 5).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Stinger&lt;/strong&gt; (12): 1d-3 pi + 1d toxic follow-up. Roll HT-2 or become nauseated
+for 1d minutes. Reach C.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Stinger Backstab&lt;/strong&gt; (12): 1d+2 pi + 1d toxic follow-up. Roll HT-2 or become
+nauseated for 1d minutes. Reach C. Only on unaware targets who don’t get a
+defense roll.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tiny Blowpipe&lt;/strong&gt; (12): Acc 1, Range 6. 1 pi + 1d toxic follow-up. Roll HT-2
+or become nauseated for 1d minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lesser Wand of Explosive Fireball&lt;/strong&gt; (12): Acc 1, Range 25/50, 1d burn ex.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Invisibility (selective), Injury Reduction 2 (non-magic
+damage), No Blood, No Neck, No Vitals, Backstabber 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Tiny blowpipe, 10 envenomed darts, Pipes of the Sewers, Lesser Wand of
+Explosive Fireball with 10 charges (worth $1600).&lt;/p&gt;
+
+&lt;h2 id=&quot;blosodriettes-loot&quot;&gt;Blosodriette’s Loot&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The “Tiny Blowpipe” is like the blowpipe on Adventurers, but with a max range
+of ST instead of STx4. It’s worthless and not suitable for PC use.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Lesser Wand of Explosive Fireball replaces the Wand of Acid Arrow from the
+book. Per DF Magic Items 1, it’d be worth $9600 with the full 60 charges, so
+it’s only worth $1600 with 10. It’s a short baton. $1600, 0.25kg.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pipes of the Sewers: A set of pipes ($40, 0.5kg) enchanted with Beast
+Summoning (Rats) ($8000) and Rat Control ($4000). I’m using the price for
+Vermin Control here because it’s only a single animal type instead of the more
+general categories. Playing the pipes summons a rat swarm and casts Rat
+Control on it (two separate spellcasting rolls at power 15 each). It works
+once per day (+$680). This is a &lt;em&gt;bardic&lt;/em&gt; item, and Bardic Talent applies to
+the rolls instead of Power Investiture (Druidic). It requires the appropriate
+Musical Instrument skill. The spells only last for as long as the song
+continues. $12720, 0.5kg.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gold-and-platinum signet ring worn as an armband ($1500), embroidered silk
+scarf worn as a wrap ($400).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;additional-loot-in-the-room&quot;&gt;Additional Loot In The Room&lt;/h2&gt;
+
+&lt;p&gt;First Crate:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A pouch with a dozen pearls worth $1000 each. (total $12000)&lt;/li&gt;
+  &lt;li&gt;A Balanced Pistol, from Pyramid #3/36: Acc 2, Range 75/450, Weight 1.5/0.005,
+RoF 1, Shots 1(20), damage 2d-1 pi+. $1000, 1.5kg.&lt;/li&gt;
+  &lt;li&gt;A Balanced Silver-Coated Dwarven Mace: +1 to skill, sw+3 cr, reach 1,
+Parry 0. $550, 2.5kg.&lt;/li&gt;
+  &lt;li&gt;A suit of Light Leather armor with a Fortify +1 enchantment. $1150, 9kg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The second crate has a locked iron box. DR 6, HP 18, unmodified Lockpicking test
+to open. Inside is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Charged Universal Scroll of Hide Emotions (1 hour duration): $200, neg.&lt;/li&gt;
+  &lt;li&gt;Charged Universal Scroll of Hide Thoughts (30 mins duration): $500, neg.&lt;/li&gt;
+  &lt;li&gt;Charged Universal Scroll of Scryguard (10 hour duration): $300, neg.&lt;/li&gt;
+  &lt;li&gt;Charged Universal Scroll of Light Thread (10 minute duration): $200, neg.&lt;/li&gt;
+  &lt;li&gt;The documents which are the goal of this whole delve.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The third crate has six Silver Raven Figurines of Wondrous Power. These can turn
+to life-sized mechanical ravens on command. The user can then use it like a D&amp;amp;D
+Animal Messenger. This means they can mentally imprint a location on the raven
+and have it carry a letter there, waiting for a specified amount of time and
+allowing the letter to be removed during that wait. Then it returns, possibly
+bearing a response.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-the-old-hideout&quot;&gt;[Player] The Old Hideout&lt;/h1&gt;
+
+&lt;p&gt;Mechanically, we’re going with &lt;a href=&quot;/octopus-carnival/2020/01/24/old-school-movement.html&quot;&gt;this procedure&lt;/a&gt; for the exploration, and I
+think it’s fair to say this includes Urist’s Detect Evil rolls. Me-The-Player
+would definitely argue for that with Me-The-GM.&lt;/p&gt;
+
+&lt;p&gt;The party arrives at the old hideout on their second exploration turn, take in
+the ruined ambience, and decide to spend another exploration turn searching the
+place. This is a no-brainer, really. So we get to make some Perception rolls for
+them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Jania spots the nest in the corner, and notes it seems to have been recently
+used by a tiny humanoid creature.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rosalia notices the three boxes of Stuff.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Urist’s Detect Evil power finds that there’s a demon in the area, but none of
+the others can find anything with their mundane senses.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Blosodriette is invisible and trying to be silent. I’m giving her Stealth 15,
+and no one could beat that with their Hearing rolls. However I do think the
+clues the party did find would make Jania cast See Invisible, and I want to say
+that’d let them spot her because she’d be relying on her invisibility to stay
+hidden.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Call it a +10 modifier to Jania&apos;s Perception because the imp is now in
+plain sight for her. With the bonus, Jania succeeds by 14 while B only
+succeeds by 7.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Jania spots the imp and calls it out. Blosodriette freaks out, startled and
+angry at life, and begins to fight. Let’s say she recognizes Jade, since she was
+definitely around when the Ravens were active!&lt;/p&gt;
+
+&lt;p&gt;No surprise, but only Jania can see the imp currently. The creature opens by
+launching a fireball from her wand at the party, but she misses, causing the
+projectile to hit a nearby wall and explode. Everyone is startled but no one is
+hurt.&lt;/p&gt;
+
+&lt;p&gt;Jania casts another See Invisible spell on Urist, which leaves her low on
+fatigue. The priest begins charging a Sunbolt spell.&lt;/p&gt;
+
+&lt;p&gt;Rosalia, meanwhile, figures that even though she can’t see Blosodriette the imp
+should be able to hear her just fine, so she begins her own string of insults as
+a Song of Humiliation, and manages to stun her target!&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] There is a penalty for not being able to see the target, but Rosalia
+won the Quick Contest anyway.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The party’s melee fighters have a rough idea of where Blosodrtiette is and begin
+closing in on her position while she struggles and fails to recover from her
+mental stun. Urist lets his Sunbolt fly and slightly singes the imp, and then
+Arcturus ends the fight by grabbing at the flapping and cursing sounds and
+getting a good hold on the creature.&lt;/p&gt;
+
+&lt;p&gt;Blosodriette cannot possibly escape Arthur’s grasp, so this is when I go out of
+combat time. Frustrated, the imp just shouts for them to kill her already so she
+can go back home after a century trapped in this cesspit. Before anyone can
+reason whether this is really a good idea or not, Arthur wrings her like a wet
+rag and that’s that. She disappears in a puff of sulfur, leaving her gear
+behind.&lt;/p&gt;
+
+&lt;p&gt;The imp will pop up back in Hell, and though she’s in for a bad time down there
+for her “failure” she will still inform some higher-powered fiends about how the
+Sixth Raven is back, thus giving us a reason for more exciting Monsters of the
+Day.&lt;/p&gt;
+
+&lt;p&gt;Our heroes get to loot B’s gear and the three boxes described above now. Jania
+has no problem opening the locked box. She identifies that the stylish suit of
+leather armor inside one of the boxes is magical, and while she can’t feel any
+magic from the silvered mace next to it she figures there must be something
+special about it. And the pearls, oh the pearls. Jania and Rosalia get little
+gold pieces in their eyes as they realize how much these must be worth.&lt;/p&gt;
+
+&lt;p&gt;The silver raven figurines also ping as magical, and bear further
+analysis. There’s some magic mixed in with the big pile of documents too, but
+they’re not gonna sift through that right now. After Urist confirms none of this
+stuff is evil, they decide to carry everything out in its boxes and distribute
+later. B’s gear goes into the iron box for later sorting as well.&lt;/p&gt;
+
+&lt;h2 id=&quot;victory-celebration&quot;&gt;Victory Celebration&lt;/h2&gt;
+
+&lt;p&gt;When the party emerges from the old hideout, they’re hailed as heroes by the
+grimples. A few of them bring out tiny improvised musical instruments for a
+celebration, which fascinates Rosalia enough that the decides to gift them the
+tiny pipes. They do get a bit scared when that summons a swarm of mundane rats
+who start dancing to the tune, but in the end the grimples are even more
+grateful for the party’s generosity.&lt;/p&gt;
+
+&lt;p&gt;Their leader pledges to help the party in the future, should they need it, and
+explains how to leave a letter at a place on the surface where they will check
+for it.&lt;/p&gt;
+
+&lt;p&gt;With that done, they set out on the long walk to the Long Roads Coffee House. It
+takes about 90 minutes.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-rewards&quot;&gt;[GM] Rewards&lt;/h1&gt;
+
+&lt;p&gt;The party gets a total of 3 character points:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 for fully clearing the Livery.&lt;/li&gt;
+  &lt;li&gt;1 total for the battles inside.&lt;/li&gt;
+  &lt;li&gt;1 for retrieving a “quest item” (the documents).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For treasure, they get the $2500 platinum ring found in scene 4, and everything
+listed in this post except for the Pipes of the Sewers. Rosalia gave that away
+to the grimples. Yes, it’s really expensive, I know.&lt;/p&gt;
+
+&lt;p&gt;We’ll distribute the treasure in the next scene, after the party arrives at the
+Long Roads Coffee House.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/27/lphr-scene-05.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/27/lphr-scene-05.html</guid>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>lets-play</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Bestiary: Lemure</title>
@@ -1410,42 +1722,6 @@ rank-and-file human opposition.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>monster</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hell&apos;s Rebels Bestiary: Introduction</title>
-        <description>&lt;p&gt;If you’ve been reading my recent posts here you know I’ve been playing a &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo
-game of Hell’s Rebels&lt;/a&gt; using GURPS Dungeon Fantasy. And a big part of my
-preparation for actually playing that game involves converting monsters when
-necessary. So I thought, why not post them here? After all, monster-posting has
-come to be a big part of my brand here at Octopus Carnival.&lt;/p&gt;
-
-&lt;p&gt;Here’s how we’ll do it: I’ll post the converted enemies and NPCs here in the
-blog as they appear in our published session logs. I’ll add a project page for
-them where they will be ordered both in order of appearance, and in alphabetical
-order. You’ll get a brief description, GURPS stats, and my impressions on the
-monster, both from looking at the stats and actually facing the thing in
-play.&lt;/p&gt;
-
-&lt;p&gt;I’ll convert, and therefore post, only the monsters I actually use in
-play. Hell’s Rebels books usually have enormous random encounter tables and new
-monsters at at the end, but I gather most people ignore the former and the later
-never appear on the adventure itself. I’ll leave those alone unless I actually
-have a use for them in my game. And of course, if I cook up a new monster for
-use in the game, it will also show up here.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/12/hr-bestiary-intro.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>hells-rebels</category>
         
         
       </item>
