@@ -98,6 +98,8 @@ scenes.
 
 - [Scene 04][20]: The Fair Fortune Livery, Part 1
 
+- [Scene 05][21]: The Fair Fortune Livery, Part 2
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -118,3 +120,4 @@ scenes.
 [18]: {{ "/2026/03/17/lphr-scene-02.html" | relative_url }}
 [19]: {{ "/2026/03/21/lphr-scene-03.html" | relative_url }}
 [20]: {{ "/2026/03/25/lphr-scene-04.html" | relative_url }}
+[21]: {{ "/2026/03/27/lphr-scene-05.html" | relative_url }}
