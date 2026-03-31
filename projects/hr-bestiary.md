@@ -29,10 +29,16 @@ There's a more detailed [Intro][1] post here.
   - Giant Rat: see **DF Monsters** p. 30
   - [Lemure][7]
 
+- Scene 05
+  - [Blosodriette][8]
+
 # Alphabetical Order
 
 - A
   - [Asmodean Dark Adept][5]
+
+- B
+  - [Blosodriette][8]
 
 - C
   - [CCG Thug][2]
@@ -59,3 +65,4 @@ There's a more detailed [Intro][1] post here.
 [5]: {{ "/2026/03/18/hr-bestiary-dark-adept.html" | relative_url }}
 [6]: {{ "/2026/03/19/hr-bestiary-tar-devil-guard.html" | relative_url }}
 [7]: {{ "/2026/03/26/hr-bestiary-lemure.html" | relative_url }}
+[8]: {{ "/2026/03/31/hr-bestiary-blosodriette.html" | relative_url }}

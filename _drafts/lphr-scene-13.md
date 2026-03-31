@@ -66,10 +66,158 @@ the delve.
 
 # [GM] Dungeon Preparation
 
-And so as the GM in this story, I must also prepare my dungeon.
+And so as the GM in this story, I must also prepare my dungeon. This dungeon
+is... quite extensive. It's the capstone delve of the module, so it has two
+distinct levels with several rooms each.
+
+While I think I am getting better at it I'm not sure I really _enjoy_ the
+process of preparing a Foundry delve. Not unless there's something else in there
+to hold my interest other than just trying to copy the book. There was a pause
+of a few weeks between me writing the first sentence in this section and the
+rest of it, and I procrastrinated by publishing everything up to scene 05 of the
+adventure to the blog.
+
+Before that pause, I managed to extract a proper map of the first level from an
+old and obsolete Hell's Rebels Foundry module that doesn't even open on my local
+install. I drew walls, and I think I did a decent job of adding proper lighting
+on it. Nothing fancy, just a slightly dimmed global light level. If that turns
+out to be a problem, I can just disable that and rely on pure imagination to
+handle lighting and walls. My player, who is also me, is very understanding
+about these things.
+
+Were I running this for other people, the correct thing to do would be to adapt
+the whole level at once, statting up every trap, every hidden treasure, and
+every monster in GURPS. After all, there's no telling where the PCs would choose
+to go and they're supposed to take at most a couple of all-afternoon sessions to
+go through each level. I can't exactly stop the world to "compile" the dungeon
+room by room.
+
+But I'm running this for myself. I can do _exactly that_. My "sessions" are
+whenever I have 30 minutes to a couple of hours to spare and "prep work" has the
+same importance and fun value as "planning", or at least it's supposed to. Let's
+take that approach. It's everything going into the same file, but ideally each
+"session" would involve choosing the next room the PCs visit, preparing it, and
+then playing through it.
+
+That would met me have more frequent sessions and maybe actually get through
+this faster, because the thought of preparing a whole level at once terrifies me
+into inaction, as previously demonstrated.
+
+# [Player] Delver Preparation
+
+## Equipment Acquisition
+
+The PCs actually have very little in the way of personal funds, since they
+dumped most of what they had into the organization. So our shopping spree here
+is very anticlimatic.
+
+- Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so
+  she can finally use her Gunslinger trait with the pistol we found a while
+  back. That costs her $16.
+
+Next, I will distribute some of the potions they have stashed in the Wasp Nest
+here.
+
+- Rosalia leaves the guitar home for this one, and gets the Healing Gem.
+
+- Urist and Jania each get 1 vial of Paut.
+
+- Jade gets 1 minor healing potion and Art gets 3.
+
+- Urist will carry the 2 vials of Universal Antidote.
+
+## Point Expenditure
+
+So far I've spent some of our team's earned character points to make them better
+at directing the rebellion, but now I feel the need to spend what we have
+stashed in making them better delvers, following the wishlists from their
+published starter sheets.
+
+- Urist has 8 points. Let's spend 1 to improve Hidden Lore (Demons) to 14, 2 to
+  buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
+  Demons) 1.
+
+- Art has 8 points. He improves his Lifting ST to 2 for 6 points, and his Knife
+  to 17 for 2.
+
+- Jade has 6 points. I want to save until I can get an extra point of ST for
+  her, so she won't spend any here. That'd be 4 more points.
+
+- Jania has 5 points. Let's save for a third level of Spell-Thief Expertise,
+  which would be 6 more points.
+
+- Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
+  it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
+  one on Off-Hand Weapon Training (Pistol).
+
+## Supplementary Actions
+
+If we had managed to acquire one team of Spies or Saboteurs at this point we
+could have used a Covert Action to get a basic layout for the Phantasmagorium,
+or a Sabotage action to rig a trap on the main door to catch fleeing enemies.
+
+We slacked a bit on that front, so no covert actions.
+
+However, I am going to "cash in" the biggest story benefit from Urist's origin
+as the Last Archivist here. He's been here before, though not since before the
+place was raided. So he knows and can share the entire layout of both the
+Phantasmagorium and Monastery levels, but he has no idea about the number and
+disposition of the enemies inside.
+
+# [GM] Dungeon Overview
+
+We have two levels here. Level 1 on the surface is Hocus' Fantasmagorium, which
+was abandoned 70 years ago during the Chelish Civil War. The place had been
+stealthily maintained by the Archivists, so despite the ruined state of its
+exhibits the building is not actually a ruin.
+
+It's secured by a few reanimated skeletal exhibits, by zombies created from the
+corpses of victims of the Night of Ashes (including Rexus' parents), and one
+asshole priest. There was another but he died of greed.
+
+There's some treasure scattered around this level, most of it in the form of
+loot from the two priests' bodies.
+
+The Aroden statue at the center of the level is a secret door to the underground
+level, the Many Steps monastery. Urist knows how to open this. The party could
+go right to the second level and skip all the opposition here if they wanted to.
+
+    [Player] They don't want to. We're going in there to clear the monastery of
+    Asmodeans.
+
+The second level is the Many-Steps Monastery itself. It's secured by a summoned
+scrivinite, a large group of Asmodean redactors, a big ogre brute, plus Mephiry
+and Nox. The layout is effectively a gauntlet that funnels the party through the
+bulk of these forces and into a confrontation with Nox.
+
+Aside from Nox's loot, most of the treasure in this level consists of recovered
+Archivist documents that can be sold to collectors.
+
+# [Player] The Delve
+
+With Rexus' mithril key in hand, the Ravens can finally raid the monastery. And
+a raid it will be, as they don't just want to look for survivors, they want to
+send an even stronger message than the one from the Salt Works rescue
+operation. The Night of Ashes will not go unpunished.
+
+Mechanically, we'll still be using the mechanics from my [Old School
+Movement][1] post, but they will be moving at five times the default pace since
+there will be no mapping. The mithril key will be used to open any locked doors,
+as Urist assures the others it fits every lock in the hideout. It will also be
+used to lock any doors they go through as they leave cleared rooms.
+
+There are two doors into the Fantasmagorium, the front entrance and the gift
+shop exit to the side. Which one will they use to enter?
+
+    [Player] d2 roll, 1 is front entrance 2 is gift shop. I get a 2. Gift shop
+    it is.
 
 
-## The Silver Ravens (End of Adventure)
+
+
+
+
+# The Silver Ravens (End of Adventure)
 
 Includes Sentinel bonuses.
 
@@ -141,3 +289,5 @@ Includes Sentinel bonuses.
     - Occupying this position grants a bonus action. May use its complimentary
       skills on the bonus action.
     - Skills: Strategy, Tactics, Administration.
+
+[1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
