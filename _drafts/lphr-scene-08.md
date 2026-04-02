@@ -1,4 +1,4 @@
-# Intro
+# [Author] Intro
 
 Our last scene was an investigation where the party managed to track down the
 whereabouts of Nan Comerivos, the half-elf smuggler they need to rescue. They
@@ -21,7 +21,7 @@ and just imported the manually extracted map image from the old module into the
 one I'm using to play. Total time to do the thing I had been dreading for
 months: 5 minutes.
 
-# GM Hat: Mythic Bookkeeping
+# [GM] Mythic Bookkeeping
 
 While some unpredicted things happened last scene, the PCs also managed to
 shorcut a long investigation, so I'm going to keep the chaos factor the same: 5.
@@ -33,10 +33,8 @@ Kossrani & Friends. These are the prisoners and their guards, respectively.
 
 I roll a 2 on the d10. This would normally signal an Interrupt Scene that was
 completely different from our expectations, but let's be real here, I don't
-wanna. I spent months procrastrinating on this one because Foundry was being
-cantakerous, only to sit find out that the Foundry things I needed to do only
-took like 5 minutes with a bit of creativity. And now I want to do the thing I
-prepared for.
+wanna. After all that time being anxious about preparation, I want to do the
+thing I prepared for.
 
 Let's try to divine what an _altered_ scene would look like here, however. If
 it's something cool I'll add it in.
@@ -58,8 +56,7 @@ this point, but I don't care.
 **Threads**
 
 - The Path ****
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade) *
 - Prisoners of Salt*
@@ -76,7 +73,7 @@ this point, but I don't care.
 - Nan Comerivos & Friends
 - Kossrani & Friends
 
-# GM Hat: Preparation
+# [GM] Preparation
 
 Aside from the extra magic item, here is our disposition. [add map] I might need
 to change the distribution of characters in there.
@@ -109,13 +106,13 @@ deliveries in a few hours after the early morning salt delivery and a couple of
 hours before the evening pickup. These are delivered by a dottari patrol, and
 consist of decent food for the guards and crappy rations for the prisoners.
 
-The prisoners work with the salt during the day and sleep in the northern room
-at night. There's always at least one guard keeping an eye on them. Kossrani and
+The prisoners work with the salt during the day and sleep in the front office at
+night. There's always at least one guard keeping an eye on them. Kossrani and
 four thugs keep watch by day while three thugs sleep. Those three keep watch at
 night while the others sleep. Kossrani wakes up at night to deliver his
 clandestine salt, then goes back to sleep.
 
-# Player Hat: Planning
+# [Player] Planning
 
 I think it's fair to assume that the PCs would have a planning meeting in the
 Wasp Nest now that they know where Comerivos is.
@@ -161,7 +158,7 @@ the guards while the rest of them get the prisoners out.
 That's it for the plan. No time for anything more elaborate, no time for
 shopping expeditions. They move tonight.
 
-# GM Hat: Reacting to the Plan
+# [GM] Reacting to the Plan
 
 If the party is going to break in at night, I need to change the position of the
 enemies on the map. Kossrani will be in the sleeping quarters, and a mook guard
@@ -178,7 +175,7 @@ illumination (zero penalty out to 3m, -3 out to 6m). We can assume the building
 has small windows for lighting and ventilation, so at night the penalty for
 unlit interiors is also a -6.
 
-# Player Hat: The Raid
+# [Player] The Raid
 
 The party travels to the salt works, and approaches the side gate. Jania
 conjures a **Light** and gets to work opening the lock. It readily clicks open
@@ -191,7 +188,7 @@ easily.
 
     For both doors, Open Locks gives her +4, this being a basic lock gives
     another +5, and she decides to rush a bit and get it done in half the time
-    for -5. Our effective skill is 20! We succeed at both tries.
+    for -5. Our effective skill is still 20! We succeed at both tries.
 
     Stealth is a group check, made with the highest skill (Jania's at 15) at a
     -1 penalty for each PC who doesn't have that skill (Urist). She succeeds,
@@ -273,112 +270,55 @@ building are almost closing in on the courtyard door.
 
 ## Round 5
 
-Our first attack of the combat!
+Our first attacks in this combat!
 
-- CCG Thug 6 (out of 7) tries to whack Urist with his club but the dwarf blocks.
+Urist blocks a club swing from one of the thugs and retorts with his mace,
+knocking the enemy down and stunning him. Kossrani steps over the fallen guard
+and engages both Urist and Rosalia in melee. Jania casts a Grease spell under
+him, and while the dwarf manages to retain his footing he's now standing on
+difficult terrain. Rosalia attacks Kossrani with both her words and her blade,
+but he resists both.
 
-- Urist retorts with his mace, hitting the thug's torso for 5 injury, knocking
-  him down and stunning him.
+Meanwhile, Arthur runs and tackles another thug, while Jade stands ready to stab
+the first fool who enters her reach.
 
-- Kossrani steps around the fallen guard and stands engaged with Rosalia and
-  Urist in melee.
-
-- Jania casts Grease right underneath Kossrani, who retains his footing but is
-  now standing on difficult terrain.
-
-- Thug 7 moves out of the dormitory and engages Urist.
-
-- Rosalia uses Song of Humiliation on Kossrani, but he resists (both fail by 1,
-  ties go to the defender). She thrusts with her saber but he blocks.
-
-- Arthur runs and tackles Thug 7, grappling him for 8 control points!
-
-- Jade Waits to stab the first enemy to enter her reach.
-
-- The guards from the main building are almost at the door. All but two
-  prisoners have escaped.
+The guards from inside the main building are almost at the courtyard door now,
+but they'll be late: all but two of the prisoners have already escaped.
 
 ## Round 6
 
-- Thug 6 manages to recover from Stun.
+Arthur uses his leverage to strike the enemy he's grappling, and Jania
+approaches to help by hitting the thug with her cane. Another guard manages to
+run out of the main building, right into Jade's waiting blade. He's dead.
 
-- Arthur strikes Thug 7 spending 6 CP to improve damage. Even so, he deals only
-  4 injury.
+Another guard tries to charge her but she slashes at his legs and knocks him
+down. More exit the main building into the courtyard, to engage the impenetrable
+"wall of sword" that is Jade.
 
-- Thug 7
-
-- Jania steps up to Thug 7 and hits him with her cane for another 5
-  injury. Still up!
-
-- Thug 5 finally runs out of the building, right into Jade's Wait. She stabs him
-  in the vitals and kills him outright with 21 injury.
-
-- Urist tries to bash Kossrani again, but he parries.
-
-- Kossrani tries to return the favor, but Urist blocks and retreats 1 step.
-
-- Rosalia steps to Kossrani's side and stabs him for 6 injury.
-
-- Thug 1 tries to charge Jade but misses.
-
-- Jade swings twice at Thug 1's legs, hits once for 6 injury, crippling the leg
-  and knocking the thug down. Still in the fight, though.
-
-- The last bystander escapes.
-
-- Remaining thugs keep running up to die against Jade's blade.
-
-I interrupted the game right about then and when I restarted Thug 7 seemed to
-actually have taken enough damage to be knocked out of the fight, so I went with
-that. Arthur released him on the ground.
+Meanwhile, Urist keeps Kossrani occupied while Rosalia steps to his flank and
+stabs him. The remaining prisoners escape, and now it's just the party against
+the guards.
 
 ## Round 7
 
-- Thug 6 kneels from prone...
+Arcturus dispatches the thug that was stunned back in round 5 with a suplex just
+as he manages to recover, and Jade kills two more guards with her blade. The
+last surviving guard moves to flank her. Kossrani continues to fight vigorously
+against Urist and Rosalia.
 
-- ... only to be grappled and violently tossed right on top of his already
-  unconscious buddy, losing consciousness in the process. Arthur smiles
-  gallantly and points at Kossrani: you're next!
-
-- Kossrani attempts to bash Rosalia with his shield, since she's the only one
-  who actually wounded him so far. She dodges and retreats.
-
-- Urist steps forward and attacks Kossrani with his mace. Kossrani blocks.
-
-- Jade Irinka beheads Thug 1, who had just sat up, and stabs Thug 5 through the
-  heart!
-
-- Rosalia tries to stab Kossrani again but he parries.
-
-- Thug 4, the final surviving guard who wasn't yet engaged, flanks Jade!
-
-- Jania casts Ice Dagger with a critical success, charging it with 2 energy
-  points at no cost to herself.
-
+Jania begins casting an Ice Dagger spell, and a critical success lets her charge
+a bigger missile at no cost to herself.
 
 ## Round 8
 
-- Thug 4 tries to attack Jade but misses.
-
-- Jania fires off her Ice Dagger but kossrani dodges.
-
-- Kossrani tries to bash Arthur, who performs a Grabbing Parry and moves in to
-  strenghten his grapple. Kossrani manages to fend him off with his shield, but
-  his mace arm is still grappled.
-
-- Urist and Rosalia try to strike Kossrani but even grappled he's awfully dodgy.
-
-- Jade steps back and cuts Thug 4 for 7 injury.
+The flanking thug tries to attack Jade and gets cut for his trouble, while
+Kossrani continues to stand his ground against Urist, Rosalia, _and_ Arcturus,
+who manages to grab his weapon but cannot further increase his leverage yet.
 
 ## Round 9
 
-- The wounded thug misses Jade.
-- Art fails to strenghten his grapple.
-- Kossrani escapes his grapple, but is still in close combat.
-- Rosalia tries to attack him and drops her weapon!
-- Jania steps forward with her cane and finally lands a hit on Kossrani for 6
-  injury.
-- Urist critically hits Kossrani with is mace and finally takes him out.
+The three PCs engaging Kossrani finally manage to distract him enough for Urist
+and Jania to get good hits in, defeating him. This effectively ends our fight.
 
 ## Post-Combat
 

@@ -1,4 +1,14 @@
-# Intro
+---
+layout: post
+title: "Let's Play Hell's Rebels: Adventure 1, Scene 06"
+tags:
+    - dungeon-fantasy
+    - gurps
+    - hells-rebels
+    - lets-play
+---
+
+# [Author] Intro
 
 Our last scene saw the PCs go to the Long Roads Coffee House, meet up with
 Laria, and officially start their effort to rebuild the Silver Ravens. They met
@@ -9,7 +19,7 @@ town.
 In this scene, they'll do exactly that. The intention is that this will be a
 sort of investigation montage that will end when they find the guy.
 
-# GM Hat: Mythic Bookkeeping
+# [GM] Mythic Bookkeeping
 
 The last scene was pretty chill, but it did mostly consist of the PCs being
 exposited to, so let's keep the Chaos Factor at 5.
@@ -21,8 +31,7 @@ The Path and Get Organized, but there have been no changes to the list.
 **Threads**
 
 - The Path ****
-- Find the Missing Elves (Arcturus)
-- Find Shensen (Rosalia)
+- Find Shensen (Rosalia, Arcturus)
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade) *
 
@@ -40,7 +49,7 @@ The Path and Get Organized, but there have been no changes to the list.
 I roll an 8 on the d10 here, so we have no surprises and the scene will indeed
 be an investigation montage.
 
-# GM Hat: Prepping the Scene
+# [GM] Prepping the Scene
 
 Dungeon Fantasy doesn't really have rules for extended investigative scenes, as
 all your generic delver wants is to find vague rumors about their next
@@ -70,7 +79,7 @@ mean a Holmes-like deductive leap, perhaps based on information the PC happened
 to overhear... but Rosalia doesn't trust her chances with a base skill level of
 14, so let's investigate until we reduce that penalty.
 
-# Player Hat: Finding the Guy
+# [Player] Finding the Guy
 
 Jania suggests they follow in Nan's footsteps in the most literal way, by
 grabbing another bolt of cloth herself and trying to find a buyer for the
@@ -78,30 +87,18 @@ shipment. In the process, they will keep an ear out for rumors about the
 situation of Kintargo's black market and about what might have happened to Nan
 specifically.
 
-## GM Interjection
-
-Of course the player would send me right back to the source material with the
-very first thing he says.
-
-Finding a buyer for contraband cloth in a dictatorship is definitely an illegal
-activity, and therefore requires a Streetwise roll. Jania will roll her skill of
-14, aided by Rosalia's skill of 13.
-
-Rosalia succeeds at her roll, giving Jania a +1 to hers. Jania also
-succeeds. They know where to sell this stuff.
-
-I have them roll again to discover any information about their actual
-goal. Rosalia once again succeeds and Jania rolls a critical success thanks to
-her help!
-
-This gives us a total of +3 towards our final roll.
-
-## Back to Playing
+    [GM] Of course the "player" would send me right back to look up rules
+    with the very first thing he says.
 
 Jania and Rosalia make a series of discreet inquiries about where to sell this
 shipment of very high quality cloth that hasn't exactly gone through
 customs. They learn that the best place to find a buyer would be Redroof Market,
 since that's where all the cloth merchants and tailors are.
+
+    [GM] That's a Streetwise roll. Jania leads the effort with her skill level
+    of 14, and Rosalia makes complementary rolls to help with her 13.
+
+    Rosalia succeeds at her roll, giving Jania a +1 to hers.
 
 However, the same shady stranger at a bar that tells them this information also
 cautions that the dottari have been cracking down on contraband at that
@@ -111,9 +108,16 @@ do is declare someone looks suspicious and take them away. Happened to this
 kinda nondescript half-elf dude just the other day. He was carrying around a
 bolt of cloth very similar to that one you have on you.
 
-Now is the time for our heroes to remember that session 1 rumor: low-profile and
-low-threat prisoners are being taken to the Salix Salt Works to perform hard
-labor. Nan seems like it would fit the profile, but is he really there?
+    [GM] It takes another Streewwise roll to discover information about their
+    actual goal. Rosalia once again succeeds in her complimentary roll and Jania
+    rolls a critical success thanks to her help!
+
+    This gives us a total of +3 towards our final deduction roll.
+
+So Nan was caught by the dottari, huh? Now is the time for our heroes to
+remember that session 1 rumor: low-profile and low-threat prisoners are being
+taken to the Salix Salt Works to perform hard labor. Nan seems like it would fit
+the profile, but is he really there?
 
 Well, turns out verifying this hypothesis is quite easy. Jania knows the Seeker
 spell, she knows Nan's name, and many of his personal effects are still back at
@@ -124,12 +128,12 @@ They receive the message and Jade decides she will go. While she's making the
 trip, which should take about 20 minutes, the pair decides to try to sell that
 looted jewelry here at the market.
 
-    Rosalia takes the lead, with Jania helping, both using their
+    [GM] Rosalia takes the lead, with Jania helping, both using their
     Merchant-13. Jania succeeds, and Rosalia wins with her effective skill of 14
     against the "generic 15" described in the rules.
 
     This means they'll get 60% of the goods' real value, which they already
-    know. That means the two signet rings, the embroidered scarf will be sold
+    know. That means the two signet rings and the embroidered scarf will be sold
     for $2640. 6 golds, 12 silvers.
 
     I decide to add a little more color here.
@@ -151,8 +155,8 @@ up. Jania and Rosalia split the money amongst themselves for added
 security. Rosalia then goes around the market selling the bag of pearls
 piecemeal to various merchants.
 
-    We use the same rolls here, so $7200 for the lot. 18 gold for simplicity,
-    again split between the two.
+    [GM] We use the same rolls here, so $7200 for the lot. 18 gold for
+    simplicity, again split between the two.
 
 Once Jade meets them, they set off to an area just outside the Salt Gate. It's
 close enough to the Salt Works that it's unlikely to fail if Nan is there, and
@@ -160,8 +164,8 @@ will be fairly unambiguous. Sure enough, the spell points Jania towards the Salt
 Works, and not to the Holding House or to Kintargo Castle, the other two primary
 holding areas of the city. Case solved!
 
-    Way to shortcut the investigation process! Then again, that's exactly why I
-    made sure to get Seeker for Jania.
+    [GM] Way to shortcut the investigation process! Then again, that's exactly
+    why I made sure Jania had Seeker.
 
 Now that they know where their target is, it's time to plan a raid. That ends
 our scene.

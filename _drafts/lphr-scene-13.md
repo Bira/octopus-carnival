@@ -64,7 +64,7 @@ should go there in force, but he doesn't think they'll find the place intact.
 This ends their meeting in a kind of somber note, and they get to preparing for
 the delve.
 
-# [GM] Dungeon Preparation
+# [GM] Thinking About Dungeon Preparation
 
 And so as the GM in this story, I must also prepare my dungeon. This dungeon
 is... quite extensive. It's the capstone delve of the module, so it has two
@@ -77,13 +77,12 @@ of a few weeks between me writing the first sentence in this section and the
 rest of it, and I procrastrinated by publishing everything up to scene 05 of the
 adventure to the blog.
 
-Before that pause, I managed to extract a proper map of the first level from an
-old and obsolete Hell's Rebels Foundry module that doesn't even open on my local
-install. I drew walls, and I think I did a decent job of adding proper lighting
-on it. Nothing fancy, just a slightly dimmed global light level. If that turns
-out to be a problem, I can just disable that and rely on pure imagination to
-handle lighting and walls. My player, who is also me, is very understanding
-about these things.
+Before that pause, I managed to extract a proper map of the first level from the
+same old module that gave me the Livery map from Scene 05. I drew walls, and I
+think I did a decent job of adding proper lighting on it. Nothing fancy, just a
+slightly dimmed global light level. If that turns out to be a problem, I can
+just disable that and rely on pure imagination to handle lighting and walls. My
+player, who is also me, is very understanding about these things.
 
 Were I running this for other people, the correct thing to do would be to adapt
 the whole level at once, statting up every trap, every hidden treasure, and
@@ -111,9 +110,12 @@ The PCs actually have very little in the way of personal funds, since they
 dumped most of what they had into the organization. So our shopping spree here
 is very anticlimatic.
 
-- Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so
-  she can finally use her Gunslinger trait with the pistol we found a while
-  back. That costs her $16.
+Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so she
+can finally use her Gunslinger trait with the pistol we found a while back. That
+costs her $16.
+
+    [Author] You might remember she made a note to do this "as soon as possible"
+    back in Scene 06.
 
 Next, I will distribute some of the potions they have stashed in the Wasp Nest
 here.
@@ -164,6 +166,49 @@ place was raided. So he knows and can share the entire layout of both the
 Phantasmagorium and Monastery levels, but he has no idea about the number and
 disposition of the enemies inside.
 
+## Tactical Planning
+
+Let's do this the same way we did back in Scene 08, by looking at the
+characters' personality traits and figuring out what approach they would prefer
+and how they would argue for that with the others.
+
+As mentioned above, they know the detailed layout of both dungeon levels, and
+they have a magic key that opens every locked door in the dungeon. Rexus gave
+them that, along with a request to go in there and look for Archivist
+survivors. But this planning session is being held without him.
+
+You see, Urist believes that if any other Archivists remain, they wouldn't be
+there. There were secret danger signs posted around the place, which caused him
+to turn back when he went there alone. This means that someone else might have
+escaped, but it also means that the hideout isn't empty. The place is likely
+full of Thrune lackeys of some description.
+
+The dwarf thinks that if any Archivists remain inside after all these weeks,
+they're prisoners and very much not in a good condition. As he lays all of this
+out to the rest of the group, he proposes a new "main" goal: get those fascists
+out of there, with maximum force. Even if all other Archivists are dead, there
+are things in there that should not fall into their hands.
+
+
+- **Arcturus**, who is Impulsive and Overconfident, obviously thinks they should
+  kick in the front door and fight the whole enemy force head on. It's a perfect
+  plan! Nothing can go wrong with it!
+
+- **Jade** advises a little more caution. She thinks this is likely to devolve
+  into a big fight anyway, but there's no reason to give up the element of
+  surprise so early. A quick, decisive, and _stealthy_ raid is the way to go
+  here, trying to catch at least some of the enemies unaware.
+
+- **Jania** doesn't think any forces remaining there would pose too much of a
+  problem to a group like theirs, but she also backs Jade's plan to be stealthy
+  because she's the Phantom Thief, and because there's no sense in making things
+  harder than they need to be.
+
+- **Rosalia** just wants to pick a door and go in, and says they'll adapt as
+  they go along. She knows the opposition might be strong, but she's not big on
+  memorizing complex plans.
+
+
 # [GM] Dungeon Overview
 
 We have two levels here. Level 1 on the surface is Hocus' Fantasmagorium, which
@@ -211,6 +256,7 @@ shop exit to the side. Which one will they use to enter?
 
     [Player] d2 roll, 1 is front entrance 2 is gift shop. I get a 2. Gift shop
     it is.
+
 
 
 
