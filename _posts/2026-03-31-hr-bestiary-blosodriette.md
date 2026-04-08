@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hell's Rebels Bestiary: Blosodriette
+title: "Hell's Rebels Bestiary: Blosodriette"
 tags:
     - hells-rebels
     - bestiary
