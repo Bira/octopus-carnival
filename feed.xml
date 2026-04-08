@@ -6,126 +6,9 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 08 Apr 2026 16:58:22 +0000</pubDate>
-    <lastBuildDate>Wed, 08 Apr 2026 16:58:22 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Apr 2026 17:18:45 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:18:45 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Blosodriette first appeared during &lt;a href=&quot;/octopus-carnival/2026/03/27/lphr-scene-05.html&quot;&gt;Adventure 01, Scene 05&lt;/a&gt;. Her stats also
-appear on that post, and they are reproduced here for ease of reference.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
-
-&lt;p&gt;Blosodriette’s background contains a bit of foreshadowing about the Soul Anchor
-beneath Kintargo. This is a static artifact that messes with the natural
-trajectory departed souls. Instead of going to Pharasma’s court to be judged,
-affected souls are sent directly to an afterlife plane suited to their
-disposition and turned into an inhabitant of that plane directly, instead of
-becoming a “generic” soul without memories.&lt;/p&gt;
-
-&lt;p&gt;This usually only happens with people who intentionally bind themselves to the
-Anchor, but sometimes the anchor will “snag” a soul within its area of
-effect. Such was the case with this imp, who used to be an enslaved halfling in
-life, and who became as cruel as her bosses. When she died, she became an imp,
-and spent some centuries in Hell doing imp things. Eventually she was summoned
-back to Kintargo during the Chelish Civil War.&lt;/p&gt;
-
-&lt;p&gt;When the Ravens killed her summoner and took the important documents he was
-carrying, they didn’t know her infernal contract was among them. As the contract
-was what actually kept her on the plane, she was forced to follow it, staying
-hidden with her invisibility and subtly sabotaging them. When the Ravens
-abandoned the Livery hideout, she stayed behind until the PCs found and slayed
-her.&lt;/p&gt;
-
-&lt;p&gt;In the original adventure, she was expected to stay hidden and follow the PCs to
-their own hideout when they inadvertently took her contract with them, where she
-would resume her sabotage, using invisibility and mind control magic to make
-their lives hellish until found and dealt with. I didn’t want to deal with that,
-so I kinda gave my PCs the tools to spot her from the start.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
-
-&lt;p&gt;We start with the stats for a Hrogn from the Nordlond Bestiary, which is
-equivalent to the D&amp;amp;D imp. We then replace the claw attack with a Stinger (a
-piercing Striker). And we add some rogue stuff and items on top of that.&lt;/p&gt;
-
-&lt;h2 id=&quot;blosodriette&quot;&gt;Blosodriette&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 6; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 12; &lt;strong&gt;HT&lt;/strong&gt; 11;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 11; &lt;strong&gt;SM&lt;/strong&gt; -3&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 2;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 6; &lt;strong&gt;Will&lt;/strong&gt; 12; &lt;strong&gt;Per&lt;/strong&gt; 12; &lt;strong&gt;FP&lt;/strong&gt; –;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 8.00; &lt;strong&gt;Move&lt;/strong&gt; 8 (Flight Move 5).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Stinger&lt;/strong&gt; (12): 1d-3 pi + 1d toxic follow-up. Roll HT-2 or become nauseated
-for 1d minutes. Reach C.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Stinger Backstab&lt;/strong&gt; (12): 1d+2 pi + 1d toxic follow-up. Roll HT-2 or become
-nauseated for 1d minutes. Reach C. Only on unaware targets who don’t get a
-defense roll.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tiny Blowpipe&lt;/strong&gt; (12): Acc 1, Range 6. 1 pi + 1d toxic follow-up. Roll HT-2
-or become nauseated for 1d minutes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Lesser Wand of Explosive Fireball&lt;/strong&gt; (12): Acc 1, Range 25/50, 1d burn ex.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Invisibility (selective), Injury Reduction 2 (non-magic
-damage), No Blood, No Neck, No Vitals, Backstabber 10.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Tiny blowpipe, 10 envenomed darts, Pipes of the Sewers, Lesser Wand of
-Explosive Fireball with 10 charges (worth $1600).&lt;/p&gt;
-
-&lt;h2 id=&quot;blosodriettes-loot&quot;&gt;Blosodriette’s Loot&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The “Tiny Blowpipe” is like the blowpipe on Adventurers, but with a max range
-of ST instead of STx4. It’s worthless and not suitable for PC use.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The Lesser Wand of Explosive Fireball replaces the Wand of Acid Arrow from the
-book. Per DF Magic Items 1, it’d be worth $9600 with the full 60 charges, so
-it’s only worth $1600 with 10. It’s a short baton. $1600, 0.25kg.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pipes of the Sewers: A set of pipes ($40, 0.5kg) enchanted with Beast
-Summoning (Rats) ($8000) and Rat Control ($4000). I’m using the price for
-Vermin Control here because it’s only a single animal type instead of the more
-general categories. Playing the pipes summons a rat swarm and casts Rat
-Control on it (two separate spellcasting rolls at power 15 each). It works
-once per day (+$680). This is a &lt;em&gt;bardic&lt;/em&gt; item, and Bardic Talent applies to
-the rolls instead of Power Investiture (Druidic). It requires the appropriate
-Musical Instrument skill. The spells only last for as long as the song
-continues. $12720, 0.5kg.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Gold-and-platinum signet ring worn as an armband ($1500), embroidered silk
-scarf worn as a wrap ($400).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 08 Apr 2026 16:58:22 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/04/08/2026-03-31-hr-bestiary-blosodriette.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/08/2026-03-31-hr-bestiary-blosodriette.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 07</title>
@@ -563,6 +446,131 @@ stashed at the bunkroom for now.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>lets-play</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: Blosodriette</title>
+        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Blosodriette first appeared during &lt;a href=&quot;/octopus-carnival/2026/03/27/lphr-scene-05.html&quot;&gt;Adventure 01, Scene 05&lt;/a&gt;. Her stats also
+appear on that post, and they are reproduced here for ease of reference.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
+
+&lt;p&gt;Blosodriette’s background contains a bit of foreshadowing about the Soul Anchor
+beneath Kintargo. This is a static artifact that messes with the natural
+trajectory departed souls. Instead of going to Pharasma’s court to be judged,
+affected souls are sent directly to an afterlife plane suited to their
+disposition and turned into an inhabitant of that plane directly, instead of
+becoming a “generic” soul without memories.&lt;/p&gt;
+
+&lt;p&gt;This usually only happens with people who intentionally bind themselves to the
+Anchor, but sometimes the anchor will “snag” a soul within its area of
+effect. Such was the case with this imp, who used to be an enslaved halfling in
+life, and who became as cruel as her bosses. When she died, she became an imp,
+and spent some centuries in Hell doing imp things. Eventually she was summoned
+back to Kintargo during the Chelish Civil War.&lt;/p&gt;
+
+&lt;p&gt;When the Ravens killed her summoner and took the important documents he was
+carrying, they didn’t know her infernal contract was among them. As the contract
+was what actually kept her on the plane, she was forced to follow it, staying
+hidden with her invisibility and subtly sabotaging them. When the Ravens
+abandoned the Livery hideout, she stayed behind until the PCs found and slayed
+her.&lt;/p&gt;
+
+&lt;p&gt;In the original adventure, she was expected to stay hidden and follow the PCs to
+their own hideout when they inadvertently took her contract with them, where she
+would resume her sabotage, using invisibility and mind control magic to make
+their lives hellish until found and dealt with. I didn’t want to deal with that,
+so I kinda gave my PCs the tools to spot her from the start.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
+
+&lt;p&gt;We start with the stats for a Hrogn from the Nordlond Bestiary, which is
+equivalent to the D&amp;amp;D imp. We then replace the claw attack with a Stinger (a
+piercing Striker). And we add some rogue stuff and items on top of that.&lt;/p&gt;
+
+&lt;h2 id=&quot;blosodriette&quot;&gt;Blosodriette&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 6; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 12; &lt;strong&gt;HT&lt;/strong&gt; 11;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 11; &lt;strong&gt;SM&lt;/strong&gt; -3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 2;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 6; &lt;strong&gt;Will&lt;/strong&gt; 12; &lt;strong&gt;Per&lt;/strong&gt; 12; &lt;strong&gt;FP&lt;/strong&gt; –;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 8.00; &lt;strong&gt;Move&lt;/strong&gt; 8 (Flight Move 5).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Stinger&lt;/strong&gt; (12): 1d-3 pi + 1d toxic follow-up. Roll HT-2 or become nauseated
+for 1d minutes. Reach C.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Stinger Backstab&lt;/strong&gt; (12): 1d+2 pi + 1d toxic follow-up. Roll HT-2 or become
+nauseated for 1d minutes. Reach C. Only on unaware targets who don’t get a
+defense roll.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tiny Blowpipe&lt;/strong&gt; (12): Acc 1, Range 6. 1 pi + 1d toxic follow-up. Roll HT-2
+or become nauseated for 1d minutes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lesser Wand of Explosive Fireball&lt;/strong&gt; (12): Acc 1, Range 25/50, 1d burn ex.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Invisibility (selective), Injury Reduction 2 (non-magic
+damage), No Blood, No Neck, No Vitals, Backstabber 10.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Tiny blowpipe, 10 envenomed darts, Pipes of the Sewers, Lesser Wand of
+Explosive Fireball with 10 charges (worth $1600).&lt;/p&gt;
+
+&lt;h2 id=&quot;blosodriettes-loot&quot;&gt;Blosodriette’s Loot&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The “Tiny Blowpipe” is like the blowpipe on Adventurers, but with a max range
+of ST instead of STx4. It’s worthless and not suitable for PC use.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Lesser Wand of Explosive Fireball replaces the Wand of Acid Arrow from the
+book. Per DF Magic Items 1, it’d be worth $9600 with the full 60 charges, so
+it’s only worth $1600 with 10. It’s a short baton. $1600, 0.25kg.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Pipes of the Sewers: A set of pipes ($40, 0.5kg) enchanted with Beast
+Summoning (Rats) ($8000) and Rat Control ($4000). I’m using the price for
+Vermin Control here because it’s only a single animal type instead of the more
+general categories. Playing the pipes summons a rat swarm and casts Rat
+Control on it (two separate spellcasting rolls at power 15 each). It works
+once per day (+$680). This is a &lt;em&gt;bardic&lt;/em&gt; item, and Bardic Talent applies to
+the rolls instead of Power Investiture (Druidic). It requires the appropriate
+Musical Instrument skill. The spells only last for as long as the song
+continues. $12720, 0.5kg.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gold-and-platinum signet ring worn as an armband ($1500), embroidered silk
+scarf worn as a wrap ($400).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/03/31/hr-bestiary-blosodriette.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/31/hr-bestiary-blosodriette.html</guid>
+        
+        <category>hells-rebels</category>
+        
+        <category>bestiary</category>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
         
         
       </item>
