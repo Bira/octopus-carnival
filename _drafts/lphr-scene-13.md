@@ -104,61 +104,13 @@ into inaction, as previously demonstrated.
 
 # [Player] Delver Preparation
 
-## Equipment Acquisition
-
-The PCs actually have very little in the way of personal funds, since they
-dumped most of what they had into the organization. So our shopping spree here
-is very anticlimatic.
-
-Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so she
-can finally use her Gunslinger trait with the pistol we found a while back. That
-costs her $16.
-
-    [Author] You might remember she made a note to do this "as soon as possible"
-    back in Scene 06.
-
-Next, I will distribute some of the potions they have stashed in the Wasp Nest
-here.
-
-- Rosalia leaves the guitar home for this one, and gets the Healing Gem.
-
-- Urist and Jania each get 1 vial of Paut.
-
-- Jade gets 1 minor healing potion and Art gets 3.
-
-- Urist will carry the 2 vials of Universal Antidote.
-
-## Point Expenditure
-
-So far I've spent some of our team's earned character points to make them better
-at directing the rebellion, but now I feel the need to spend what we have
-stashed in making them better delvers, following the wishlists from their
-published starter sheets.
-
-- Urist has 8 points. Let's spend 1 to improve Hidden Lore (Demons) to 14, 2 to
-  buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
-  Demons) 1.
-
-- Art has 8 points. He improves his Lifting ST to 2 for 6 points, and his Knife
-  to 17 for 2.
-
-- Jade has 6 points. I want to save until I can get an extra point of ST for
-  her, so she won't spend any here. That'd be 4 more points.
-
-- Jania has 5 points. Let's save for a third level of Spell-Thief Expertise,
-  which would be 6 more points.
-
-- Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
-  it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
-  one on Off-Hand Weapon Training (Pistol).
-
 ## Supplementary Actions
 
 If we had managed to acquire one team of Spies or Saboteurs at this point we
-could have used a Covert Action to get a basic layout for the Phantasmagorium,
+could have used a Covert Action to get a basic layout for the Fantasmagorium,
 or a Sabotage action to rig a trap on the main door to catch fleeing enemies.
 
-We slacked a bit on that front, so no covert actions.
+We slacked a bit on the team upgrade front, so we can't do either of those.
 
 However, I am going to "cash in" the biggest story benefit from Urist's origin
 as the Last Archivist here. He's been here before, though not since before the
@@ -183,12 +135,10 @@ to turn back when he went there alone. This means that someone else might have
 escaped, but it also means that the hideout isn't empty. The place is likely
 full of Thrune lackeys of some description.
 
-The dwarf thinks that if any Archivists remain inside after all these weeks,
-they're prisoners and very much not in a good condition. As he lays all of this
-out to the rest of the group, he proposes a new "main" goal: get those fascists
-out of there, with maximum force. Even if all other Archivists are dead, there
-are things in there that should not fall into their hands.
-
+As he lays all of this out to the rest of the group, he proposes a new "main"
+goal: get those fascists out of there, with maximum force. Even if all other
+Archivists are dead, there are things in there that should not fall into their
+hands.
 
 - **Arcturus**, who is Impulsive and Overconfident, obviously thinks they should
   kick in the front door and fight the whole enemy force head on. It's a perfect
@@ -200,25 +150,96 @@ are things in there that should not fall into their hands.
   here, trying to catch at least some of the enemies unaware.
 
 - **Jania** doesn't think any forces remaining there would pose too much of a
-  problem to a group like theirs, but she also backs Jade's plan to be stealthy
-  because she's the Phantom Thief, and because there's no sense in making things
-  harder than they need to be.
+  problem to a group like theirs, but she believes being clever and sneaky is
+  part of what makes them so strong. And that she provides that cleverness and
+  sneakyness, of course. There's no reason to make things harder than they need
+  to be, so she thinks they should maintain surprise for as long as possible.
 
-- **Rosalia** just wants to pick a door and go in, and says they'll adapt as
-  they go along. She knows the opposition might be strong, but she's not big on
-  memorizing complex plans.
+- **Rosalia** just wants the rest to pick a door and go in, and says they'll
+  adapt as they go along. She knows the opposition might be strong, but she's
+  not big on memorizing complex plans.
 
+- **Urist**, on balance, agrees with Jania. He's confident in the group's
+  ability to handle the opposition but he's spent a long time with an
+  organization that values wisdom and prudence.
+
+In the end, they end up agreeing on the stealthy plan. Scout out the best
+entrance, try to stay sneaky for as long as possible, go loud once the fighting
+starts in earnest.
+
+## Equipment Acquisition
+
+The PCs actually have very little in the way of personal funds, since they
+dumped most of what they had into the organization. So our shopping spree here
+is very anticlimatic.
+
+Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so she
+can finally use her Gunslinger trait with the pistol we found a while back. That
+costs her $16.
+
+    [Author] You might remember she made a note to do this "as soon as possible"
+    back in Scene 06.
+
+Urist and Jade spend three silvers ($60) to buy a couple of light vials.
+
+Next, I will distribute some of the potions they have stashed in the Wasp Nest
+here.
+
+- Rosalia leaves the guitar home for this one, and gets the Healing Gem.
+
+- Urist and Jania each get 1 vial of Paut.
+
+- Jade gets 1 minor healing potion and Art gets 3.
+
+- Urist will carry the 2 vials of Universal Antidote.
+
+## Point Expenditure
+
+So far I've spent some of our team's earned character points to make them better
+at directing the rebellion, but now I feel the need to spend what we have
+stashed in making them better delvers, following the wishlists from their
+published starter sheets and their current delving plans.
+
+- Urist has 8 points. Let's spend 1 to improve Hidden Lore (Demons) to 14, 2 to
+  buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
+  Demons) 1.
+
+- Art has 8 points. He improves his Lifting ST to 2 for 6 points, and his Knife
+  to 17 for 2.
+
+- Jade has 6 points. I want to save until I can get an extra point of ST for
+  her, so she won't spend any here. That'd be 4 more points.
+
+- Jania has 5 points. While I really want to save for another level of
+  Spell-Thief Expertise, I think we must acquire Trace and Glass Wall for this
+  delve, so we spend 2 of those points.
+
+- Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
+  it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
+  one on Off-Hand Weapon Training (Pistol).
 
 # [GM] Dungeon Overview
 
-We have two levels here. Level 1 on the surface is Hocus' Fantasmagorium, which
-was abandoned 70 years ago during the Chelish Civil War. The place had been
-stealthily maintained by the Archivists, so despite the ruined state of its
-exhibits the building is not actually a ruin.
+We have two levels here with distinct traits.
+
+Level 1 on the surface is Hocus' Fantasmagorium, which was abandoned 70 years
+ago during the Chelish Civil War. The place had been stealthily maintained by
+the Archivists, so despite the ruined state of its exhibits the building is not
+actually a ruin.
 
 It's secured by a few reanimated skeletal exhibits, by zombies created from the
-corpses of victims of the Night of Ashes (including Rexus' parents), and one
-asshole priest. There was another but he died of greed.
+corpses of victims of the Night of Ashes (including Rexus' parents), four
+redactor monks, and one asshole priest. There was another but he died of greed.
+
+Exterior walls and doors are heavy wood (DR 3, HP 33). Interior walls and the
+boards covering the windows are average wood (DR 3, HP 29). Door locks and
+hinges are heavy and high-quality (DR 9, HP 18, -5 to Lockpicking) but the
+mithril key can open all of them.
+
+During the day, the Fantasmagorium is dimly lit by sunshine filtered through the
+boarded-up windows (-3 Darkness penalty). At night, it's pitch-black. Areas
+where human enemies are working are brightly lit (+0) by scattered Continual
+Light lanterns.
 
 There's some treasure scattered around this level, most of it in the form of
 loot from the two priests' bodies.
@@ -235,6 +256,10 @@ scrivinite, a large group of Asmodean redactors, a big ogre brute, plus Mephiry
 and Nox. The layout is effectively a gauntlet that funnels the party through the
 bulk of these forces and into a confrontation with Nox.
 
+Interior walls are 6-inch thick stone (ablative DR 78, HP 75). Doors are
+identical to the ones up top, and the mithril key also opens them all. The
+entire level is brightly lit by Continual Light spells.
+
 Aside from Nox's loot, most of the treasure in this level consists of recovered
 Archivist documents that can be sold to collectors.
 
@@ -247,9 +272,14 @@ operation. The Night of Ashes will not go unpunished.
 
 Mechanically, we'll still be using the mechanics from my [Old School
 Movement][1] post, but they will be moving at five times the default pace since
-there will be no mapping. The mithril key will be used to open any locked doors,
-as Urist assures the others it fits every lock in the hideout. It will also be
-used to lock any doors they go through as they leave cleared rooms.
+there will be no mapping. This means our exploration turns will be 2 minutes
+long, and they can spend a turn to either search a room or to move up to 40
+meters. They automatically roll to detect traps, secrets, treasures and enemies
+during their movement.
+
+The mithril key will be used to open any locked doors, as Urist assures the
+others it fits every lock in the hideout. It will also be used to lock any doors
+they go through as they leave cleared rooms.
 
 There are two doors into the Fantasmagorium, the front entrance and the gift
 shop exit to the side. Which one will they use to enter?
@@ -257,11 +287,82 @@ shop exit to the side. Which one will they use to enter?
     [Player] d2 roll, 1 is front entrance 2 is gift shop. I get a 2. Gift shop
     it is.
 
+    [GM] That's Area E9 on the book's map.
+
+We'll assume the party managed to get here without incident, as I want to get
+the main event started. They sneak up to the door and Jania casts Glass Wall on
+it (all related tests succeed). She immediately sees that the door is boarded
+up, and though the boards block her vision, she can see there are people milling
+about in there.
+
+Still riding on their Stealth success, the party instead goes around to the
+front door, where Jania drinks a vial of Paut and tries Glass Wall again. This
+door is unblocked and there seems to be no one on the other side, so they
+quietly unlock it and enter. And now we're really on.
+
+## Turn 1
+
+The door leads to a small empty anteroom with an open door to the left and a
+grand passage to the front, leading to a hall full of exhibits. Daylight spills
+in from the opened front door, but further in the interior is dim. Jade and Art
+activate and begin wearing their previously purchased light vials.
+
+The party enters and Jania and Art quickly check the small side room. Art of all
+people immediately spots a few coins and a ring half-buried by the dust on the
+floor, and Jania scoops them up. She can sense the ring is magical but will
+await until they're out before doing any further analysis.
+
+## Turn 2
+
+The whole group proceeds to the big round room (E3 on the map). It's full of
+skeletons and crumbling taxidermied animals posed in menacing ways, and a
+midling quality fresco full of monsters adorns one of the walls. Before they can
+examine the place further, two of those skeletons, which look like they belonged
+to very large apes, animate and attack!
+
+Jania quickly hides behind Arcturus as the two large skeletons charge the group,
+flailing their clubs and limbs around. One engages Urist, but the two prove
+unable to hit each other for the moment. The other engages Arthur, who parries
+the skeletal arm swinging the club.
+
+The wrestler holds fast and uses the leverage to deliver a devastating kick to
+the monster's rib cage, all but shattering it. Jade finishes it off by
+decapitation.
+
+Urist continues to defend himself against the remaining skeleton as every other
+PC closes in on it. Rosalia steps to its flank and hits its left leg with her
+saber, causing the creature to wheel around to attempt to hit her and lose its
+balance, making it easy prey for the rest of the party.
+
+They take a moment to breathe and decide on their next move.
+
+## Turn 3
+
+There are three doors leaving this room, aside from the one they came in, and
+only the "map west" door is open. Our want to clear the place of Asmodeans and
+so they decide to move through the open door and lock it behind them, going
+through every room in the complex.
+
+This leads them to a large exhibit of marine animals. It's full of skeletons
+both mounted and accidental, as it used to contain several aquariums with live
+specimens that dried out decades ago. There doesn't appear to be anyone here, so
+the group takes the open passage to "map north" (to area E5).
+
+    [GM] They wouldn't have met the undead ningyos here since they only rise at
+    night, but I decided to remove them anyway.
+
+## Turn 4
+
+    I interrupted my session here, just as the PCs are about to enter area E5 of
+    the dungeon.
 
 
+# [Player] Loot Tally
 
-
-
+- Money:
+  - 3 silvers ($60)
+  - 1 copper ($1)
+- Ring of Swimming (+5 to Swim when worn, $2600, neg.)
 
 # The Silver Ravens (End of Adventure)
 
