@@ -32,6 +32,9 @@ There's a more detailed [Intro][1] post here.
 - Scene 05
   - [Blosodriette][8]
 
+- Scene 08
+  - [Kossrani][9]
+
 # Alphabetical Order
 
 - A
@@ -48,6 +51,9 @@ There's a more detailed [Intro][1] post here.
 
 - G
   - Giant Rat: see **DF Monsters** p. 30
+
+- K
+  [Kossrani][9]
 
 - L
   - [Lemure][7]
@@ -66,3 +72,4 @@ There's a more detailed [Intro][1] post here.
 [6]: {{ "/2026/03/19/hr-bestiary-tar-devil-guard.html" | relative_url }}
 [7]: {{ "/2026/03/26/hr-bestiary-lemure.html" | relative_url }}
 [8]: {{ "/2026/03/31/hr-bestiary-blosodriette.html" | relative_url }}
+[9]: {{ "/2026/04/17/hr-bestiary-kossrani.html" | relative_url }}
