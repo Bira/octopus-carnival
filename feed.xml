@@ -6,19 +6,692 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Apr 2026 17:56:53 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Apr 2026 17:56:53 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Apr 2026 11:21:46 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2026 11:21:46 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 09</title>
+        <description>&lt;h1 id=&quot;gm-intro&quot;&gt;[GM] Intro&lt;/h1&gt;
+
+&lt;p&gt;In our last scene of our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt;, our heroes freed the
+Prisoners of Salt. Normally, this would be something they did &lt;em&gt;after&lt;/em&gt; organizing
+the beginnings of the Silver Raven resistance, but since we mixed things up in
+this campaign the first public act of the Silver Ravens happens before there are
+any &lt;em&gt;actual&lt;/em&gt; Silver Ravens!&lt;/p&gt;
+
+&lt;p&gt;We’re going to actually get this rebellion up and running now, beginning with
+our PCs’ returning to their base and dealing with the Tengu Sisters, and them
+going to a higher level of abstraction as we begin dealing with our strategic
+layer.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
+
+&lt;p&gt;There will be enough bookkeeping in this scene for me to worry about
+Mythic. Chaos factor stays at 5 because I say so. There are no alterations
+because I say so.&lt;/p&gt;
+
+&lt;p&gt;We resolved Prisoners of Salt, and removed Kossrani &amp;amp; Friends from the board.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path &lt;em&gt;**&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Find the Missing Elves (Arcturus)&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia)&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade) *&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+  &lt;li&gt;The Three-Legged Devil (location)&lt;/li&gt;
+  &lt;li&gt;The Livery Grimples&lt;/li&gt;
+  &lt;li&gt;The Tengu Sisters&lt;/li&gt;
+  &lt;li&gt;Nan Comerivos &amp;amp; Friends&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;gm-preparation&quot;&gt;[GM] Preparation&lt;/h1&gt;
+
+&lt;p&gt;Before we start, here’s our quick-and-dirty rules conversion.&lt;/p&gt;
+
+&lt;h2 id=&quot;quick-and-dirty-rebellion-rules-conversion&quot;&gt;Quick and Dirty Rebellion Rules Conversion&lt;/h2&gt;
+
+&lt;p&gt;I’m gonna skip the GURPS books on organizations for now, and base myself only on
+the Pathfinder rules. I’ll read those and make changes later.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Security, Loyalty, and Secrety all start at 10. For now let’s add the focsued
+and unfocused skill bonuses on p. 22 of the Player’s Guide to each skill. So
+the focused one starts at 12 and goes to 22, and the unfocused one starts at
+10 and goes to 16. I might change this later on.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check Difficulties: DC 10 checks translate into unmodified skill tests. Each
++5 DC over 10 translates into a -2 penalty. So a DC 30 check, the hardest
+possible for end-game actions, would be at -8. Complementary bonuses are
+important, particularly to unfocused tests.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Level-up awards:
+    &lt;ul&gt;
+      &lt;li&gt;As usual, multiply all gp amounts by 5 for the amount in GURPS dollars.&lt;/li&gt;
+      &lt;li&gt;XP awards gift a flat 15 character points.&lt;/li&gt;
+      &lt;li&gt;Training awards let you put 4 character points towards any skill.&lt;/li&gt;
+      &lt;li&gt;Each title grants one level of Reputation (all the time, everyone but Thrune
+supporters) valued at 3 points/level.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;p&gt;Officers can use some of their skills as Complementary Skills for
+organization tests. If you have more than one of the listed skills you can
+test them all.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;Multiple people can occupy the same post, but only one gets to roll their
+skills for a given action.&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Demagogue:
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan:
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiter:
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Diplomacy.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel:
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster:
+        &lt;ul&gt;
+          &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist:
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategy Turn:
+        &lt;ul&gt;
+          &lt;li&gt;Each turn represents a week of game time. The phases are as described in
+the books.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Actions:
+        &lt;ul&gt;
+          &lt;li&gt;Actions are performed by teams. Each team can perform the actions in its
+description, using the appropriate Org Skill for it. Teams give a bonus to
+the Org Skill equal to their tier (this replaces the Team Manager
+mechanic).&lt;/li&gt;
+          &lt;li&gt;Action List:
+            &lt;ul&gt;
+              &lt;li&gt;Recruit Supporters: Roll Loyalty. Success recruits 2d6 + Recruiter
+Bonuses supporters. Critical failure raises notoriety by 1d6.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;pc-building-the-rebellion&quot;&gt;[PC] Building the Rebellion&lt;/h1&gt;
+
+&lt;p&gt;As a reminder, last scene’s raid means the rebellion will start with an extra 2
+Notoriety. Quieting the lulzers and fascists all the way back at the &lt;a href=&quot;/octopus-carnival/2026/03/08/lphr-scene-01.html&quot;&gt;Scene
+01&lt;/a&gt; riot also means they start with 6 supporters.&lt;/p&gt;
+
+&lt;p&gt;Let’s just say they manage to recruit the sisters, since I want to know how that
+plays out. They’re a bonus Tier 1 team. We also get Rexus and Laria as allies.&lt;/p&gt;
+
+&lt;p&gt;Officer job time!&lt;/p&gt;
+
+&lt;p&gt;Rosalia will be our Demagogue, as that’s right in her wheelhouse. She has 2
+unspent points, so let’s put 1 each towards Propaganda and Leadership to prepare
+her for the role.&lt;/p&gt;
+
+&lt;p&gt;Let’s put Laria to work as our Partisan. Her Leadership-12 will have to do for
+now.&lt;/p&gt;
+
+&lt;p&gt;Arthur unfortunately can’t do much in this layer of the game yet, but he can
+work as a Recruiter just fine as long as someone else also takes on this
+role. And that someone else will be Urist with his Public Speaking-13.&lt;/p&gt;
+
+&lt;p&gt;Jade will be our Sentinel. Just having her there gives us a bonus, and she has
+skills that are widely applicable to a variety of situations. We’ll spend 2 of
+her 3 banked points to get her Administration and round her out even more.&lt;/p&gt;
+
+&lt;p&gt;Jania is our Spymaster, obviously. She has 5 unspent points so we’ll spend 4 of
+those to get her Intelligence Analysis, and 1 to get Leadership.&lt;/p&gt;
+
+&lt;p&gt;Finally, Rexus will be our Strategist. Just having him there gives us an extra
+strategic action, and he can help with Administration. Jade can still use her
+Strategy here as the Sentinel.&lt;/p&gt;
+
+&lt;p&gt;To top it off, Jania and Rosalia decide do dedicate the gold they’re carrying to
+the rebellion’s coffers, as they got it while tracking down Nan Comerivos in the
+first place. That’s 24 gold coins, or $9600, which should last them a while!&lt;/p&gt;
+
+&lt;h3 id=&quot;initial-rebellion-sheet&quot;&gt;Initial Rebellion Sheet&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank: 1/5&lt;/li&gt;
+  &lt;li&gt;Focus: Secrecy&lt;/li&gt;
+  &lt;li&gt;Members: 10&lt;/li&gt;
+  &lt;li&gt;Supporters: 6&lt;/li&gt;
+  &lt;li&gt;Population: 11900&lt;/li&gt;
+  &lt;li&gt;Treasury: $9650&lt;/li&gt;
+  &lt;li&gt;Min. Treasury: $50&lt;/li&gt;
+  &lt;li&gt;Notoriety: 2&lt;/li&gt;
+  &lt;li&gt;Org Skills:
+    &lt;ul&gt;
+      &lt;li&gt;Loyalty: 10&lt;/li&gt;
+      &lt;li&gt;Secrecy: 12&lt;/li&gt;
+      &lt;li&gt;Security: 10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Actions: 1&lt;/li&gt;
+  &lt;li&gt;Max Teams: 2+1&lt;/li&gt;
+  &lt;li&gt;Danger Rating: 20&lt;/li&gt;
+  &lt;li&gt;Active Events:&lt;/li&gt;
+  &lt;li&gt;Teams:
+    &lt;ul&gt;
+      &lt;li&gt;Crow Sisters (bonus team)
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Earn Money, Gather Information&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Allies:
+    &lt;ul&gt;
+      &lt;li&gt;Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;+2 to Recruit Supporters as long as she’s a member.&lt;/li&gt;
+          &lt;li&gt;Leadership-12, Streetwise-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rexus Victocora
+        &lt;ul&gt;
+          &lt;li&gt;-1 Notoriety per Upkeep phase as long as he’s a member.&lt;/li&gt;
+          &lt;li&gt;Administration-12, Public Speaking-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;Demagogue: Rosalia
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan: Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiters: Urist; Arthur
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Savoir-Faire.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel: Jade
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster: Jania
+        &lt;ul&gt;
+          &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist: Rexus
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;pc-strategy-layer-week-1&quot;&gt;[PC] Strategy Layer, Week 1&lt;/h1&gt;
+
+&lt;p&gt;As our PCs get settled on the Rat’s Nest and begin their operations as a formal
+rebel movement, we zoom out a bit to our strategy layer. Let’s run the first
+week to get a feel for the rules.&lt;/p&gt;
+
+&lt;h2 id=&quot;upkeep-phase&quot;&gt;Upkeep Phase&lt;/h2&gt;
+
+&lt;p&gt;The very first thing that happens is that we gain 1d6 supporters from our
+successful completion of Prisoners of Salt. The roll is 2, so we’re at 8
+now. Not quite enough to level up. Dang it.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] I decide there&apos;s no need to roll for supporter attrition in our very
+first strategic turn.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Rexus reduces our Notoriety by 1, to 1. We can also say that initial deposit of
+$9600 to the org’s treasury happens here.&lt;/p&gt;
+
+&lt;p&gt;Stat changes: +2 supporters, -1 Notoriety.&lt;/p&gt;
+
+&lt;h2 id=&quot;activity-phase&quot;&gt;Activity Phase&lt;/h2&gt;
+
+&lt;p&gt;We get 1 action from our rank, and 1 bonus action from having a Strategist.&lt;/p&gt;
+
+&lt;p&gt;Our first action has to be Recruit Team, since we’re going to get an automatic
+success to recruit the people we rescued in Prisoners of Salt as a freedom
+fighter team:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Freedom Fighters
+    &lt;ul&gt;
+      &lt;li&gt;Tier: 1&lt;/li&gt;
+      &lt;li&gt;Members: 6&lt;/li&gt;
+      &lt;li&gt;Actions: Reduce Danger&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our bonus action is going to be Recruit Supporters. This is a Loyalty
+Check. Laria gives +2 from her very presence. Urist, out chief recruiter, will
+use Public Speaking and Savoir-Faire to boost it, and Rexus will use
+Administration. With 2 successes and 1 failure, our final bonus is +3. Our roll
+is a success.&lt;/p&gt;
+
+&lt;p&gt;This lets us recruit 2d6+2 supporters because Arcturus is also there. The roll
+comes up 6. We might be able to level up next week!&lt;/p&gt;
+
+&lt;p&gt;Stat changes: +1 team, +6 members, +6 supporters.&lt;/p&gt;
+
+&lt;h2 id=&quot;event-phase&quot;&gt;Event Phase&lt;/h2&gt;
+
+&lt;p&gt;Now we roll a percentage chance based on Kintargo’s current danger rating + our
+Notoriety: 21%. No event this week! However, the chance will double during the
+next week.&lt;/p&gt;
+
+&lt;h2 id=&quot;turn-end&quot;&gt;Turn End!&lt;/h2&gt;
+
+&lt;p&gt;Well, that was quick. Here’s our new rebellion sheet:&lt;/p&gt;
+
+&lt;h3 id=&quot;the-silver-ravens&quot;&gt;The Silver Ravens&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank: 1/5&lt;/li&gt;
+  &lt;li&gt;Focus: Secrecy&lt;/li&gt;
+  &lt;li&gt;Members: 16&lt;/li&gt;
+  &lt;li&gt;Supporters: 14&lt;/li&gt;
+  &lt;li&gt;Population: 11900&lt;/li&gt;
+  &lt;li&gt;Treasury: $9650&lt;/li&gt;
+  &lt;li&gt;Min. Treasury: $50&lt;/li&gt;
+  &lt;li&gt;Notoriety: 1&lt;/li&gt;
+  &lt;li&gt;Org Skills:
+    &lt;ul&gt;
+      &lt;li&gt;Loyalty: 10&lt;/li&gt;
+      &lt;li&gt;Secrecy: 12&lt;/li&gt;
+      &lt;li&gt;Security: 10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Actions: 1&lt;/li&gt;
+  &lt;li&gt;Max Teams: 2+1&lt;/li&gt;
+  &lt;li&gt;Danger Rating: 20&lt;/li&gt;
+  &lt;li&gt;Active Events:&lt;/li&gt;
+  &lt;li&gt;Teams:
+    &lt;ul&gt;
+      &lt;li&gt;Crow Sisters (bonus team)
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Earn Money, Gather Information&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Freedom Fighters
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 6&lt;/li&gt;
+          &lt;li&gt;Actions: Reduce Danger&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Allies:
+    &lt;ul&gt;
+      &lt;li&gt;Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;+2 to Recruit Supporters as long as she’s a member.&lt;/li&gt;
+          &lt;li&gt;Leadership-12, Streetwise-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rexus Victocora
+        &lt;ul&gt;
+          &lt;li&gt;-1 Notoriety per Upkeep phase as long as he’s a member.&lt;/li&gt;
+          &lt;li&gt;Administration-12, Public Speaking-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;Demagogue: Rosalia
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan: Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiters: Urist; Arthur
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Savoir-Faire.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel: Jade
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster: Jania
+        &lt;ul&gt;
+          &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist: Rexus
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;gm-how-did-that-feel&quot;&gt;[GM] How did that feel?&lt;/h1&gt;
+
+&lt;p&gt;Good enough for now, I think. I might rethink these rules as the need arises. I
+initially wanted to play through more than one turn at a time, since this one
+took relatively little time to play through, but I think I’m going to do
+something different.&lt;/p&gt;
+
+&lt;p&gt;We do one strategy turn, as above, and then one “tactical” mission, and that’s a
+week in game. “Tactical” here means it happens at a more granular level than the
+strategic stuff. It does not necessarily require a map.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-mission-time&quot;&gt;[Player] Mission Time!&lt;/h1&gt;
+
+&lt;p&gt;We currently have two missions before us, provided by the book. There’s decoding
+the documents retrieved from the Livery stash, and there’s investigating the
+fires from the so-called Night of Ashes.&lt;/p&gt;
+
+&lt;p&gt;Rexus is working with the documents, and he will take seven weeks to decode them
+by himself. None of the PCs really have the skills necessary to help him out.&lt;/p&gt;
+
+&lt;p&gt;He does however really want the PCs to investigate the fires from the Night of
+Ashes. As of the start of this turn it’s only been a little over a week since
+the fires, so there might still be clues in there somewhere… they should look
+into this earlier rather than later.&lt;/p&gt;
+
+&lt;p&gt;We have three locations to check:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Victocora estate, where Rexus’ family lived. As we already know they were
+members of the Sacred Order of Archivists.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A music store called The Silver Star, which was owned by the missing Shensen
+and hid a shrine to Sarenrae in its basement.&lt;/p&gt;
+
+    &lt;p&gt;(GM: Rosalia succeeded at her Current Affairs test here)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;And a pub known as the Thrashing Badger. No idea why this one burned but there
+must have been something.&lt;/p&gt;
+
+    &lt;p&gt;(GM: And she failed this one.)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The PCs spend a day quickly scouting each location. They’re all free of
+patrolling dottari, since those left after the first few days. The pub has
+burned down to its foundations, there’s nothing there. Rexus says he spent
+several nights searching the estate ruins, and an additional night spent by the
+PCs confirms there’s nothing of interest there.&lt;/p&gt;
+
+&lt;p&gt;Which leaves us the music shop, which has turned into a huge rubble-filled
+sinkhole as the shop collapsed into the hidden basement shrine.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] There&apos;s a box of scrolls and potions here that can be found with a
+successful Perception or Observation roll at -4. Each PC can make one
+roll. This represents an hour of searching.
+
+After one hour, a random PC triggers a shift in the rubble and must make a
+Dodge roll or take 3d cr damage (wide area). There is also a 30% chance to
+trigger an encounter from the book.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;I make our rolls, and both Rosalia and Urist get a success. They find the box!&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Let&apos;s roll 1d to see who needs to dodge ruble. It&apos;s Jania!
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Unfortunately, as Jania was searching her assigned area, the rubble around her
+shifts and falls on top of her! She fails to dodge, unfortunately, and so is hit
+for 13 crushing damage! This is Large Area Injury, which means she has an
+effective DR 0 against it. Ouch! Jania is now at -3 HP.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Let&apos;s just say she&apos;s unconscious from this, which is reasonable.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The party spends a few minutes digging the unconscious wizard out of the
+rubble. Jade administers 3 minor healing potions to her - one from Jania’s own
+pouch, one from hers, and one from Art’s. This gets her back to top form.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Do we get an encounter? 63, nope.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Deciding they had enough and there is nothing more to be found here, the group
+departs back to base.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-treasure-time&quot;&gt;[GM] Treasure Time!&lt;/h1&gt;
+
+&lt;p&gt;According to the original adventure we have the following scrolls:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cure Moderate Wounds&lt;/li&gt;
+  &lt;li&gt;Daylight&lt;/li&gt;
+  &lt;li&gt;Remove Blindness/Deafness&lt;/li&gt;
+  &lt;li&gt;Remove Disease&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the following potions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;3 x Lesser Restoration&lt;/li&gt;
+  &lt;li&gt;4 x Cure Light Wounds&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As of this writing it’s getting a bit late, so I’ll convert these next time.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;It’s next time. Onbly one day has passed, which is kind of a record for me. I
+figure it’s better to a bit of this every day than to spend months idle.&lt;/p&gt;
+
+&lt;p&gt;The potions of Cure Light Wounds are easy: Minor Healing potions.&lt;/p&gt;
+
+&lt;p&gt;In Pathfinder, the Lesser Restoration spell cures effects that reduce ability
+scores, partially heals temporary ability damage, and either removes the
+fatigued condition or improves exhausted to fatigued.&lt;/p&gt;
+
+&lt;p&gt;Since most of that stuff at low levels will come from poisons, I think we can
+replace this with 2 Universal Antidote potions and 2 vials of Paut.&lt;/p&gt;
+
+&lt;p&gt;Just the scrolls left!&lt;/p&gt;
+
+&lt;p&gt;Daylight is easy. It’s a Sunlight spell with a 3-meter radius. Divine charged
+scroll.&lt;/p&gt;
+
+&lt;p&gt;Remove Blindness/Deafness becomes Restoration, which does the same thing.&lt;/p&gt;
+
+&lt;p&gt;Remove Disease = Cure Disease.&lt;/p&gt;
+
+&lt;p&gt;The Scroll of CMW becomes a healing stone.&lt;/p&gt;
+
+&lt;p&gt;Additionally, the group gains 1 Character Point for surviving this challenge.&lt;/p&gt;
+
+&lt;h2 id=&quot;final-treasure-pile&quot;&gt;Final Treasure Pile&lt;/h2&gt;
+
+&lt;p&gt;I already transferred this to the PCs file.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;4 x Healing Potion, Minor: Heals 1d HP.&lt;/td&gt;
+          &lt;td&gt;$120, 0.25kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;2 x Universal Antidote: Instantly cures all poisons.&lt;/td&gt;
+          &lt;td&gt;$750, 0.25kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;2 x Paut: Restores 4 FP lost to magic.&lt;/td&gt;
+          &lt;td&gt;$135, 0.25kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Sunlight: Divine, charged, 3m radius.&lt;/td&gt;
+          &lt;td&gt;$300, 0kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Restoration: Universal, Charged.&lt;/td&gt;
+          &lt;td&gt;$1500, 0kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Cure Disease: Universal, Charged.&lt;/td&gt;
+          &lt;td&gt;$400, 0kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Healing Gem: heals 8 HP when crushed.&lt;/td&gt;
+          &lt;td&gt;$400, 0kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/04/19/lphr-scene-09.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/19/lphr-scene-09.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 08</title>
         <description>&lt;h1 id=&quot;author-intro&quot;&gt;[Author] Intro&lt;/h1&gt;
 
-&lt;p&gt;Our last scene was an investigation where the party managed to track down the
-whereabouts of Nan Comerivos, the half-elf smuggler they need to rescue. They
-found out he’s being held prisoner at the Salix Salt Works, which was taken over
-by mercenaries in service of Thrune and is being used to hold “low-threat”
-prisoners.&lt;/p&gt;
+&lt;p&gt;Our last scene in our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt; was an investigation
+where the party managed to track down the whereabouts of Nan Comerivos, the
+half-elf smuggler they need to rescue. They found out he’s being held prisoner
+at the Salix Salt Works, which was taken over by mercenaries in service of
+Thrune and is being used to hold “low-threat” prisoners.&lt;/p&gt;
 
 &lt;p&gt;This scene will then be about planning and executing the rescue mission.&lt;/p&gt;
 
@@ -380,6 +1053,7 @@ the place was emptied out.&lt;/p&gt;
 
 &lt;p&gt;We haven’t started dealing with rebellion rules yet, due to the different order
 in which we’re running these scenes, but we will do so on the next chapter.&lt;/p&gt;
+
 </description>
         <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/04/13/lphr-scene-08.html</link>
@@ -400,11 +1074,11 @@ in which we’re running these scenes, but we will do so on the next chapter.&lt
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 07</title>
         <description>&lt;h1 id=&quot;author-intro&quot;&gt;[Author] Intro&lt;/h1&gt;
 
-&lt;p&gt;Our last scene saw the PCs go to the Long Roads Coffee House, meet up with
-Laria, and officially start their effort to rebuild the Silver Ravens. They met
-up with the tengu family currently occupying the place’s secret basement and
-agreed to help look for the missing Bellflower agent that would take them out of
-town.&lt;/p&gt;
+&lt;p&gt;Our last scene in our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt; saw the PCs go to the
+Long Roads Coffee House, meet up with Laria, and officially start their effort
+to rebuild the Silver Ravens. They met up with the tengu family currently
+occupying the place’s secret basement and agreed to help look for the missing
+Bellflower agent that would take them out of town.&lt;/p&gt;
 
 &lt;p&gt;In this scene, they’ll do exactly that. The intention is that this will be a
 sort of investigation montage that will end when they find the guy.&lt;/p&gt;
@@ -574,6 +1248,7 @@ why I made sure Jania had Seeker.
 
 &lt;p&gt;Now that they know where their target is, it’s time to plan a raid. That ends
 our scene.&lt;/p&gt;
+
 </description>
         <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/04/08/lphr-scene-07.html</link>
@@ -594,9 +1269,9 @@ our scene.&lt;/p&gt;
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 06</title>
         <description>&lt;h1 id=&quot;author-intro&quot;&gt;[Author] Intro&lt;/h1&gt;
 
-&lt;p&gt;Our last scene saw the PCs complete the Livery delve and make for the Long Roads
-Coffee House as previously arranged with Rexus. Now we’ll find out what happens
-there.&lt;/p&gt;
+&lt;p&gt;Our last scene in this &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt; saw the PCs complete the
+Livery delve and make for the Long Roads Coffee House as previously arranged
+with Rexus. Now we’ll find out what happens there.&lt;/p&gt;
 
 &lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
 
@@ -820,6 +1495,7 @@ least-armored front-liner, so she needs it.&lt;/p&gt;
 stashed at the bunkroom for now.&lt;/p&gt;
 
 &lt;p&gt;This ends our scene.&lt;/p&gt;
+
 </description>
         <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/04/02/lphr-scene-06.html</link>
@@ -963,7 +1639,9 @@ scarf worn as a wrap ($400).&lt;/p&gt;
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 05</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+        <description>&lt;p&gt;Another scene continuing my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels Solo Campaign&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
 
 &lt;p&gt;Our last scene was the first half of a small dungeon delve. The party arrived at
 the Fair Fortune Livery after some shopping, negotiated with the small grimple
@@ -1897,104 +2575,6 @@ than they look.&lt;/p&gt;
         <category>bestiary</category>
         
         <category>lets-play</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hell&apos;s Rebels Bestiary: Asmodean Dark Adept</title>
-        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;In &lt;a href=&quot;/octopus-carnival/2026/03/17/lphr-scene-02.html&quot;&gt;Scene 02&lt;/a&gt; of the adventure, I decided to introduce a few new
-monsters. The party split up, and the encounter tables dictated one of the
-sub-groups was going to have to face “Asmodeans”. Instead of looking towards the
-Pathfinder stats the adventure gave this, I decided to be a little weirder and
-import a couple of interesting opponents from Threats to the Nentir Vale. More
-specifically, those from the &lt;a href=&quot;/octopus-carnival/2023/02/01/iron-circle.html&quot;&gt;Iron Circle&lt;/a&gt; entry.&lt;/p&gt;
-
-&lt;p&gt;It makes sense: the Iron Circle are a bunch of fascist mercenaries, and Iron
-Circle Guards would look nearly identical to &lt;a href=&quot;/octopus-carnival/2026/03/13/hr-bestiary-dottari-guard.html&quot;&gt;dottari&lt;/a&gt; when converted to
-GURPS, so why not use the other stat blocks there as inspiration?&lt;/p&gt;
-
-&lt;p&gt;The first of the entries I swiped is the Iron Circle Dark Adept, which appears
-below. The other one is the Tar Devil Guard, which will appear in the next post.&lt;/p&gt;
-
-&lt;h1 id=&quot;asmodean-dark-adept&quot;&gt;Asmodean Dark Adept&lt;/h1&gt;
-
-&lt;p&gt;A cultist of Asmodeus specializing in magic that restrains and burns. Some are
-attached to the Church of Asmodeus itself, while others might be employed by
-the dottari as magical support or even be independents out to do some evil on
-their own, like the guy from &lt;a href=&quot;/octopus-carnival/2026/03/17/lphr-scene-02.html&quot;&gt;Scene 02&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Adepts are usually Worthies.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 11; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 13; &lt;strong&gt;HT&lt;/strong&gt; 12;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 9; &lt;strong&gt;Parry&lt;/strong&gt; 10 (shortsword);&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 1 (body);&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 11; &lt;strong&gt;Will&lt;/strong&gt; 13; &lt;strong&gt;Per&lt;/strong&gt; 13; &lt;strong&gt;FP&lt;/strong&gt; 12+5;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 6.00; &lt;strong&gt;Move&lt;/strong&gt; 6; &lt;strong&gt;SM&lt;/strong&gt; 0.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Shortsword&lt;/strong&gt; (14): 1d+1 cut or 1d imp; Reach 1.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dark Tendrils&lt;/strong&gt; (15): Regular vs. ST; Concentration; Cost 5; 1d+4 control;
-See Fantastic Dungeon Grappling p. 6.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Flaming Weapon&lt;/strong&gt; (15): Regular; 1 minute; Cost 3/1; +2 burning follow-up to
-target melee weapon. DF: Spells p. 31.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Mundane.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Weapon Channeling.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Equipment&lt;/strong&gt;: Padded vest (light cloth, DR 1, covers torso); Short sword (works
-as a wand, 5 FP power item); unholy symbol.&lt;/p&gt;
-
-&lt;h2 id=&quot;encounters-and-tactics&quot;&gt;Encounters and Tactics&lt;/h2&gt;
-
-&lt;p&gt;Dark Adepts are support casters found alongside whoever it is that hired them,
-and/or whatever demons they managed to call up. They’ll buff their allied muscle
-with Flaming Weapon, and then cast Dark Tentrils to hold a PC down for a
-beating. When forced to fight, they’ll try to cast Flaming Weapon on their own
-sword before engaging.&lt;/p&gt;
-
-&lt;h1 id=&quot;notes-and-impressions&quot;&gt;Notes and Impressions&lt;/h1&gt;
-
-&lt;p&gt;Instead of using the full Dungeon Fantasy magic system here, I wrote down the
-adept’s magical abilities in the same format as its attacks, and only added
-stuff that would be immediately relevant to the fight.&lt;/p&gt;
-
-&lt;p&gt;The adept’s magical “power trait” is left unspecified. It could be either Magery
-or Power Investiture (Unholy). Both types of adept exist and are out there.&lt;/p&gt;
-
-&lt;p&gt;Weapon Channeling is a perk I detailed waaaay back when in my post about the
-Dragon’s Dogma &lt;a href=&quot;https://bira.github.io/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html&quot;&gt;Mystic Knight&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To make them stronger, aside from the obvious “make number bigger” measures, you
-can give them additional spells or custom magical attacks that follow the same
-themes: a) fire, b) causing pain or c) depriving others of freedom. More lavish
-power items also let them keep casting for longer, and double as extra loot for
-the PCs.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/03/18/hr-bestiary-dark-adept.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/18/hr-bestiary-dark-adept.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>bestiary</category>
         
         
       </item>
