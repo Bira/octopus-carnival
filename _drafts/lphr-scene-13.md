@@ -353,8 +353,24 @@ the group takes the open passage to "map north" (to area E5).
 
 ## Turn 4
 
-    I interrupted my session here, just as the PCs are about to enter area E5 of
-    the dungeon.
+The party moves into Area E5, the Insect Exhibit. There are many terrariums here
+filled with ruined environments and the shells of dead bugs.
+
+There's also a bunch of taxidermied giant insects mounted around the place,
+including a giant spider that reaches almost to the ceiling. And a dead body
+wearing Asmodean armor with its skin full of red welts fallen by a broken
+terrarium on the north wall.
+
+The party doesn't have time to speculate any more before the eight juvenile
+giant spiders responsible for his death scuttle from under the furniture and
+move to attack them.
+
+    [GM] The original call these Scarlet Spiders. Mechanically, they're Big
+    Spiders from DF Monsters p.32. They're actualy quite a bit more dangerous
+    than the originals, but I feel this might be a better challenge for our DF
+    delvers.
+
+
 
 
 # [Player] Loot Tally

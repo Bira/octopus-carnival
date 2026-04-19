@@ -106,6 +106,8 @@ scenes.
 
 - [Scene 08][24]: Prisoners of Salt
 
+- [Scene 09][25]: Our "Geoscape" comes online.
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -130,3 +132,4 @@ scenes.
 [22]: {{ "/2026/04/02/lphr-scene-06.html" | relative_url }}
 [23]: {{ "/2026/04/08/lphr-scene-07.html" | relative_url }}
 [24]: {{ "/2026/04/13/lphr-scene-08.html" | relative_url }}
+[25]: {{ "/2026/04/19/lphr-scene-09.html" | relative_url }}
