@@ -357,9 +357,9 @@ The party moves into Area E5, the Insect Exhibit. There are many terrariums here
 filled with ruined environments and the shells of dead bugs.
 
 There's also a bunch of taxidermied giant insects mounted around the place,
-including a giant spider that reaches almost to the ceiling. And a dead body
-wearing Asmodean armor with its skin full of red welts fallen by a broken
-terrarium on the north wall.
+including a giant spider that reaches almost to the ceiling. And a dessicated
+dead body wearing Asmodean armor with its skin full of red welts fallen by a
+broken terrarium on the north wall.
 
 The party doesn't have time to speculate any more before the eight juvenile
 giant spiders responsible for his death scuttle from under the furniture and
@@ -370,15 +370,88 @@ move to attack them.
     than the originals, but I feel this might be a better challenge for our DF
     delvers.
 
+The spiders are quite large, and reddish in color. Starving, they charge the
+party right away, attempting to bite them, though the PCs largely fend off this
+initial clumsy assault. Jade kills a spider with her sword, while Arcturus
+squeezes another to death, but the creature prove too agile for the rest of the
+party to hit just yet.
 
+With the spiders stuck in, their attacks become more careful and precise,
+forcing our heroes to retreat to avoid their bites. There isn't a lot of room
+amid the terrarium displays, so they cannot keep doing this for long. One of the
+remaining spiders manages to briefly jump on Arcturus' back and bite him, but
+its fangs fail to penetrate his scale armor. Whew! Before any of the others can
+get lucky, however, the party manages to kill them all. Most of the work is done
+by Jade's sword and Art's stompy boots.
+
+## Turn 5
+
+The party spends the next two minutes searching the room. Jania finds out that
+the spiders likely came from the shattered terrarium to the north. There are
+traces of a long-term stasis effect on it, something so expensive to set up the
+wonders if it wasn't the reason the Fantasmagorium went bankrupt. It held a very
+large amount of giant spider eggs, which have all hatched.
+
+The newborn spiderlings were probably responsible for killing the Asmodean
+cleric on the floor. And then they spent a while eating each other until only
+the eight survivors were left, having reached a larger size. She doesn't know,
+and doesn't particularly care, why the Asmodeans in the building chose to leave
+their dead buddy lying there. All she cares is he has plenty of loot.
+
+A comemorative Fantasmagorium gold medal clutched in his hand, a money purse, a
+scroll belt with several magical scrolls, and a suit of armor that pings her
+magic sense. She takes the scrolls, and makes a mental note to come back later
+and take the armor.
+
+    [GM] After conversion, the souvenir medal is worth $250, and and the money
+    is 19 silver coins ($380). The scroll belt is the one from Adventurers: $60,
+    0.5kg holds 10 scrolls. The scrolls are all universal and charged: Panic
+    (Spells p. 55, 1-hex radius, $400); Bravery (Spells p. 53, 2-hex radius,
+    $400); Curse (1 point, Spells p. 51, $300); Deathtouch (2d, DF spells. p 20,
+    $200).
+
+## Turn 6
+
+The party resumes exploration, heading east through Area E6. Urist knows the
+entrance to the Many Steps Monastery is below the statue of Aroden prominently
+displayed here, but the PCs decide to leave this for later. They know there's a
+large group of Asmodeans on this level and they want to clear it before going
+down.
+
+They proceed to area E7, a wax museum with statues of varying quality. One of
+them is of Professor Mangvuhne, the infamous Temple Hill Slasher who was found
+out and executed 116 years ago. They can only tell because of the name plate, as
+the statue's face was mostly disfigured.
+
+They notice some movement in the rooms ahead, so they stop for a while to
+prepare.
+
+## Turn 7
+
+Jania takes the opportunity to search the room and notices that the remaining
+eye on Mangvuhne's face seems to be some kind of worked semiprecious stone, so
+she spends a bit of time removing it. It's a work of art, and worth a pretty
+penny.
+
+She then decides to spend her newly acquired Deathtouch scroll here, casting it
+on her cane to save time in the fight ahead. The rest of the party all prepares
+their weapons, and they begin the process of sneaking to area E8.
 
 
 # [Player] Loot Tally
 
 - Money:
-  - 3 silvers ($60)
+  - 22 silvers ($440)
   - 1 copper ($1)
 - Ring of Swimming (+5 to Swim when worn, $2600, neg.)
+- Golden medal ($250)
+- Scroll Belt ($60, 0.5kg)
+- Charged universal scrolls:
+  - Bravery, 2m radius ($400)
+  - Curse, 1 point ($300)
+  - Deathtouch, 2d ($200)
+  - Panic, 1m radius ($400)
+- Alabaster Snake Eye ($1500)
 
 # The Silver Ravens (End of Adventure)
 
