@@ -29,7 +29,7 @@ Our threads remain the same.
 
 **Threads**
 
-- The Path ****
+- The Path xxxx
 - Find Shensen (Rosalia, Arcturus) *
 - Contacting Ms. Docur (Jania)
 - Get Organized (Jade) **
@@ -118,19 +118,18 @@ Includes Sentinel bonuses.
     - Skills: Strategy, Tactics, Administration.
 
 
-It said "Rank 1" before, but we were actually rank 2, so I fixed that here. I
-also added the +2 to Notoriety from the tactical missions, and Vendalfek as an
+I also added the +2 to Notoriety from the tactical missions, and Vendalfek as an
 ally.
 
 ## Upkeep Phase
 
 At the start of this phase, Rexus reduces our Notoriety by 1 to 5.
 
-Step 1, Supporter Attrition - Unmodified **Loyalty** check. Rosalia will attempt
-all of her three complimentary skills here. She succeeds at all three, and the
-final roll succeeds by 2. We lose only 1d6 -> 4 supporters.
+Step 1, Supporter Attrition - Unmodified **Loyalty** check, aided by
+Rosalia. The final modified roll succeeds by 2. We lose only 1d6 -> 4
+supporters.
 
-Step 2 - Notoriety Maximum: We're just a 5, nothing to do here.
+Step 2 - Notoriety Maximum: We're just at 5, nothing to do here.
 
 Step 3 - Treasury Shortage: We remain fine.
 
@@ -197,7 +196,7 @@ Includes Sentinel bonuses.
   - Loyalty: 12
   - Secrecy: 15
   - Security: 12
-- Actions: 1
+- Actions: 2
 - Max Teams: 3+1
 - Danger Rating: 20
 - Active Events:
@@ -253,3 +252,8 @@ Includes Sentinel bonuses.
     - Occupying this position grants a bonus action. May use its complimentary
       skills on the bonus action.
     - Skills: Strategy, Tactics, Administration.
+
+# [GM] What's next?
+
+The next "tactical" scene is going to be loooong, so I'm going to cut this one
+off here.

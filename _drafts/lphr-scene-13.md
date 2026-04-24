@@ -1,4 +1,14 @@
-# [GM] Intro
+---
+layout: post
+title: "Let's Play Hell's Rebels: Adventure 1, Scene 13"
+tags:
+    - dungeon-fantasy
+    - gurps
+    - hells-rebels
+    - lets-play
+---
+
+# Intro
 
 In the original book, Rexus was going to take seven weeks to translate the
 documents from the Livery trove, giving the party a chance to run that many
@@ -92,11 +102,11 @@ go through each level. I can't exactly stop the world to "compile" the dungeon
 room by room.
 
 But I'm running this for myself. I can do _exactly that_. My "sessions" are
-whenever I have 30 minutes to a couple of hours to spare and "prep work" has the
-same importance and fun value as "planning", or at least it's supposed to. Let's
-take that approach. It's everything going into the same file, but ideally each
-"session" would involve choosing the next room the PCs visit, preparing it, and
-then playing through it.
+whenever I have 30 minutes to a couple of hours to spare and "prep work" is
+supposed to have the same importance and fun value as "planning", or at least
+it's supposed to. Let's take that approach. Everything is going into the same
+file, but ideally each "session" would involve choosing the next room the PCs
+visit, preparing it, and then playing through it.
 
 That would met me have more frequent sessions and maybe actually get through
 this faster, because the thought of preparing a whole level at once terrifies me
@@ -141,27 +151,27 @@ Archivists are dead, there are things in there that should not fall into their
 hands.
 
 - **Arcturus**, who is Impulsive and Overconfident, obviously thinks they should
-  kick in the front door and fight the whole enemy force head on. It's a perfect
-  plan! Nothing can go wrong with it!
+kick in the front door and fight the whole enemy force head on. It's a perfect
+plan! Nothing can go wrong with it!
 
 - **Jade** advises a little more caution. She thinks this is likely to devolve
-  into a big fight anyway, but there's no reason to give up the element of
-  surprise so early. A quick, decisive, and _stealthy_ raid is the way to go
-  here, trying to catch at least some of the enemies unaware.
+into a big fight anyway, but there's no reason to give up the element of
+surprise so early. A quick, decisive, and _stealthy_ raid is the way to go
+here, trying to catch at least some of the enemies unaware.
 
 - **Jania** doesn't think any forces remaining there would pose too much of a
-  problem to a group like theirs, but she believes being clever and sneaky is
-  part of what makes them so strong. And that she provides that cleverness and
-  sneakyness, of course. There's no reason to make things harder than they need
-  to be, so she thinks they should maintain surprise for as long as possible.
+problem to a group like theirs, but she believes being clever and sneaky is
+part of what makes them so strong. And that she provides that cleverness and
+sneakyness, of course. There's no reason to make things harder than they need
+to be, so she thinks they should maintain surprise for as long as possible.
 
 - **Rosalia** just wants the rest to pick a door and go in, and says they'll
-  adapt as they go along. She knows the opposition might be strong, but she's
-  not big on memorizing complex plans.
+adapt as they go along. She knows the opposition might be strong, but she's
+not big on memorizing complex plans.
 
 - **Urist**, on balance, agrees with Jania. He's confident in the group's
-  ability to handle the opposition but he's spent a long time with an
-  organization that values wisdom and prudence.
+ability to handle the opposition but he's spent a long time with an
+organization that values wisdom and prudence.
 
 In the end, they end up agreeing on the stealthy plan. Scout out the best
 entrance, try to stay sneaky for as long as possible, go loud once the fighting
@@ -175,10 +185,8 @@ is very anticlimatic.
 
 Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so she
 can finally use her Gunslinger trait with the pistol we found a while back. That
-costs her $16.
-
-    [Author] You might remember she made a note to do this "as soon as possible"
-    back in Scene 06.
+costs her $16. You might remember she made a note to do this "as soon as
+possible" back in Scene 06.
 
 Urist and Jade spend three silvers ($60) to buy a couple of light vials.
 
@@ -201,22 +209,22 @@ stashed in making them better delvers, following the wishlists from their
 published starter sheets and their current delving plans.
 
 - Urist has 8 points. Let's spend 1 to improve Hidden Lore (Demons) to 14, 2 to
-  buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
-  Demons) 1.
+buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
+Demons) 1.
 
 - Art has 8 points. He improves his Lifting ST to 2 for 6 points, and his Knife
-  to 17 for 2.
+skill to 17 for 2.
 
 - Jade has 6 points. I want to save until I can get an extra point of ST for
-  her, so she won't spend any here. That'd be 4 more points.
+her, so she won't spend any here. That'd be 4 more points.
 
 - Jania has 5 points. While I really want to save for another level of
-  Spell-Thief Expertise, I think we must acquire Trace and Glass Wall for this
-  delve, so we spend 2 of those points.
+Spell-Thief Expertise, I think we must acquire Trace and Glass Wall for this
+delve, so we spend 2 of those points.
 
 - Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
-  it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
-  one on Off-Hand Weapon Training (Pistol).
+it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
+one on Off-Hand Weapon Training (Pistol).
 
 # [GM] Dungeon Overview
 
@@ -248,8 +256,8 @@ The Aroden statue at the center of the level is a secret door to the underground
 level, the Many Steps monastery. Urist knows how to open this. The party could
 go right to the second level and skip all the opposition here if they wanted to.
 
-    [Player] They don't want to. We're going in there to clear the monastery of
-    Asmodeans.
+(**Player**: They don't want to. We're going in there to clear the monastery of
+Asmodeans.)
 
 The second level is the Many-Steps Monastery itself. It's secured by a summoned
 scrivinite, a large group of Asmodean redactors, a big ogre brute, plus Mephiry
@@ -282,12 +290,9 @@ others it fits every lock in the hideout. It will also be used to lock any doors
 they go through as they leave cleared rooms.
 
 There are two doors into the Fantasmagorium, the front entrance and the gift
-shop exit to the side. Which one will they use to enter?
-
-    [Player] d2 roll, 1 is front entrance 2 is gift shop. I get a 2. Gift shop
-    it is.
-
-    [GM] That's Area E9 on the book's map.
+shop exit to the side. Which one will they use to enter? I make a d2 roll, 1 is
+front entrance 2 is gift shop. I get a 2. Gift shop it is. That's Area E9 on the
+book's map.
 
 We'll assume the party managed to get here without incident, as I want to get
 the main event started. They sneak up to the door and Jania casts Glass Wall on
@@ -321,9 +326,9 @@ examine the place further, two of those skeletons, which look like they belonged
 to very large apes, animate and attack!
 
 Jania quickly hides behind Arcturus as the two large skeletons charge the group,
-flailing their clubs and limbs around. One engages Urist, but the two prove
-unable to hit each other for the moment. The other engages Arthur, who parries
-the skeletal arm swinging the club.
+flailing their clubs and limbs around. One engages Urist, and the two become
+locked in combat. The other engages Arthur, who parries the skeletal arm
+swinging the club.
 
 The wrestler holds fast and uses the leverage to deliver a devastating kick to
 the monster's rib cage, all but shattering it. Jade finishes it off by
@@ -348,8 +353,8 @@ both mounted and accidental, as it used to contain several aquariums with live
 specimens that dried out decades ago. There doesn't appear to be anyone here, so
 the group takes the open passage to "map north" (to area E5).
 
-    [GM] They wouldn't have met the undead ningyos here since they only rise at
-    night, but I decided to remove them anyway.
+(**GM**: They wouldn't have met the undead ningyos here since they only rise at
+night, but I decided to remove them anyway.)
 
 ## Turn 4
 
@@ -365,15 +370,14 @@ The party doesn't have time to speculate any more before the eight juvenile
 giant spiders responsible for his death scuttle from under the furniture and
 move to attack them.
 
-    [GM] The original call these Scarlet Spiders. Mechanically, they're Big
-    Spiders from DF Monsters p.32. They're actualy quite a bit more dangerous
-    than the originals, but I feel this might be a better challenge for our DF
-    delvers.
+(**GM**: The book calls these Scarlet Spiders. Here, they're Big Spiders from DF
+Monsters p.32. They're actualy quite a bit more dangerous than the originals,
+but I feel this might be a better challenge for our DF delvers.)
 
 The spiders are quite large, and reddish in color. Starving, they charge the
 party right away, attempting to bite them, though the PCs largely fend off this
 initial clumsy assault. Jade kills a spider with her sword, while Arcturus
-squeezes another to death, but the creature prove too agile for the rest of the
+squeezes another to death, but the creatures prove too agile for the rest of the
 party to hit just yet.
 
 With the spiders stuck in, their attacks become more careful and precise,
@@ -403,12 +407,12 @@ scroll belt with several magical scrolls, and a suit of armor that pings her
 magic sense. She takes the scrolls, and makes a mental note to come back later
 and take the armor.
 
-    [GM] After conversion, the souvenir medal is worth $250, and and the money
-    is 19 silver coins ($380). The scroll belt is the one from Adventurers: $60,
-    0.5kg holds 10 scrolls. The scrolls are all universal and charged: Panic
-    (Spells p. 55, 1-hex radius, $400); Bravery (Spells p. 53, 2-hex radius,
-    $400); Curse (1 point, Spells p. 51, $300); Deathtouch (2d, DF spells. p 20,
-    $200).
+(**GM** After conversion, the souvenir medal is worth $250, and and the money
+is 19 silver coins ($380). The scroll belt is the one from Adventurers: $60,
+0.5kg holds 10 scrolls. The scrolls are all universal and charged: Panic
+(Spells p. 55, 1-hex radius, $400); Bravery (Spells p. 53, 2-hex radius,
+$400); Curse (1 point, Spells p. 51, $300); Deathtouch (2d, DF spells. p 20,
+$200).)
 
 ## Turn 6
 
@@ -437,21 +441,26 @@ She then decides to spend her newly acquired Deathtouch scroll here, casting it
 on her cane to save time in the fight ahead. The rest of the party all prepares
 their weapons, and they begin the process of sneaking to area E8.
 
+(**GM**: At this point I prepared the enemies for areas E8 to E10 because this
+is going to turn into a major slugfest with all of them if combat breaks out at
+any of those areas.)
+
+## Turn 8
+
 
 # [Player] Loot Tally
 
 - Money:
-  - 22 silvers ($440)
-  - 1 copper ($1)
+- 22 silvers ($440, 0.22kg)
+- 1 copper ($1, 0.01kg)
 - Ring of Swimming (+5 to Swim when worn, $2600, neg.)
-- Golden medal ($250)
+- Golden medal ($250, neg.)
 - Scroll Belt ($60, 0.5kg)
 - Charged universal scrolls:
   - Bravery, 2m radius ($400)
   - Curse, 1 point ($300)
-  - Deathtouch, 2d ($200)
   - Panic, 1m radius ($400)
-- Alabaster Snake Eye ($1500)
+- Alabaster Snake Eye ($1500, neg.)
 
 # The Silver Ravens (End of Adventure)
 
@@ -469,7 +478,7 @@ Includes Sentinel bonuses.
   - Loyalty: 14
   - Secrecy: 17
   - Security: 14
-- Actions: 1
+- Actions: 2
 - Max Teams: 3+1
 - Danger Rating: 20
 - Active Events:
@@ -519,7 +528,7 @@ Includes Sentinel bonuses.
     - May use complimentary skills on any check used to resolve an Event.
     - Skills: any of the ones listed for the appropriate category.
   - Spymaster: Jania
-    - Spymaster: May use complimentary skills on Secrecy checks.
+    - May use complimentary skills on Secrecy checks.
     - Skills: Intelligence Analysis, Streetwise, Administration.
   - Strategist: Rexus
     - Occupying this position grants a bonus action. May use its complimentary

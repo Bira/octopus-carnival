@@ -6,14 +6,18 @@ As mentioned last scene, I'm doing this week's tactical mission on a separate
 file from the strategic turn, since that one ran long. Today, we'll be running
 through "Crackdown at Clenchjaw's", which should be a nice and breezy affair.
 
+I played this in January 2026, over a couple of days.
+
+# [GM] Mythic Bookkeeping
+
 We'll keep the Chaos Factor at 6 and all the Mythic stuff just as it was:
 
 **Threads**
 
-- The Path ****
-- Find Shensen (Rosalia, Arcturus) *
+- The Path xxxx
+- Find Shensen (Rosalia, Arcturus) x
 - Contacting Ms. Docur (Jania)
-- Get Organized (Jade) **
+- Get Organized (Jade) xx
 
 **Characters**
 
@@ -62,7 +66,7 @@ Clenchjaw's being a place where "dissidents" hang out and have fights, which
 gives them a perfect excuse to hand out beatings.
 
 So there's 6 dottari hanging out near the bar and as soon as anything resembling
-a fight starts, they'll burst inside and try to bust some heads.
+a fight starts, they'll kick down the door and try to bust some heads.
 
 The trip itself is uneventful, as the excitement is at the end.
 
@@ -74,31 +78,24 @@ getting more lively.
 
 Rosalia actually... kinda loves this? It's been a while since she's had the
 opportunity to party a little. She has Compulsive Carousing and I'm making her
-fail this on purpose. This is a -5 point disadvantage, so she will be a bit
-tipsy and have -1 to all rolls this scene. Urist will soon end up joining her,
-and will suffer from the same penalty.
+fail the resistance test on purpose. This is a -5 point disadvantage, so she
+will be a bit tipsy and have -1 to all rolls this scene. Urist will soon end up
+joining her, and will suffer from the same penalty.
 
 The rest of the PCs will pace themselves a little better.
 
 They spend their first hour at the tavern, looking around, talking to patrons,
 eating, and drinking.
 
-    [GM] There's a 30% chance for a brawl to break out in the first hour as
-    Vendalfek begins messing with people using his magic. Every PC gets to
-    contest their Perception against the dragon's Stealth 14.
-
-    Ironically, it's the two tipsy PCs who manage to spot the dragon.
-
-(2026-01-26)
-
-By the end of the hour Rosalia is leading a few people in a tavern song,
-her awesome bard voice accompanied by a lot of tuneless revelry, including from
+By the end of that hour Rosalia is leading a few people in a tavern song, her
+awesome bard voice accompanied by a lot of tuneless revelry, including from
 Urist.
 
 "... and the cow jumped over the -- wait, is that a dragon?"
 
 The dragon in question is about the size of a cat, with green scales and
-colorful butterfly wings, and is sneaking around the tavern's rafters. It
+colorful butterfly wings, and is sneaking around the tavern's rafters. Both of
+our tipsy delvers spotted it before anyone else, which was funny. The creature
 squeaks in panic and immediately begins to fade away as the other PCs and quite
 a few patrons look at it.
 
@@ -121,34 +118,31 @@ reassure them no braws are happening here, mister officer, no sir. Meanwhile,
 the other PCs hang back a bit and prepare to "defuse" the guards should worse
 come to worst.
 
-    Time for Influence skills! These are garden-variety dottari guards with Will
-    score of 10. Let's give their commanding officer Will 11, as he's the one
-    they're interacting with.
-
 Rosalia takes the lead in talking, with Jania supplying the occasional "helpful"
 statement to further muddy the issue. With the drunkenness penalty, her reaction
 bonuses and the +1 from Jania's successful aid attempt, we're looking at an
-effective skill of 19, which is awesome because the rule of 16 is only for
-_supernatural_ effects.
+effective Fast-Talk skill of 19, which is awesome because the rule of 16 is only
+for _supernatural_ effects. This should be a trivial victory over the dottari
+sargeant's unimpressive Will of 11.
 
 ... and then she goes and rolls a 18, which is always a critical failure.
 
 So what happens is that the sargeant becomes convinced he's in front of someone
 he can pass off as a genuine rebel. He grabs Rosalia by the arm and drags her
-outside the tavern. Jania follows, making now useless attempts to calm the
-situation. The rest of the PCs see this unfold and soon follow. No one else
-does.
+outside the tavern. Jania desperately keeps talking to defuse the situation, but
+the guards grab her too. The rest of the PCs see this unfold and soon follow
+them out. No one else does.
 
-## [GM] I Just Had The Most Wonderful Idea
+# [GM] I Just Had The Most Wonderful Idea
 
 These dice sure gave me some surprises. I expected this to be a mostly mapless
 social and investigative challenge, and here we are gearing up for a right
 against six dottari.
 
-I actually made a map for this, but though there are some interesting terrain
-quirks in there this is mostly just another boring street map, of the area just
-outside the tavern. It was boring to make, and I feel that as a player it'd be
-mostly boring to play through.
+I actually made a map of the tavern's exterior for this, but though there are
+some interesting terrain quirks in there this is mostly just another boring
+street map. It was boring to make, and I feel that as a player it'd be mostly
+boring to play through.
 
 So let's spice things up a little, because I have a downloaded map here that
 slots right into Foundry. It's the one for the Unsanctioned Excruciation
@@ -179,7 +173,7 @@ are already inside, and the process of starving them to make them mad is well
 underway. They chuck Rosalia and Jania in there after relieving them of their
 weapons, and stand around to watch for the rest of their shift.
 
-## [Player] Unsanctioned Excruciation
+# [Player] Unsanctioned Excruciation
 
 We start off in the Unsanctioned Excruciation map for the book. There's a small
 park with a lily pont and a pagoda-gazebo in the middle. Dottari and CCG
@@ -203,76 +197,48 @@ and Jade by herself on the other. The guards have not noticed them yet, and this
 gives Urist time to charge up a three dice Sunbolt to blast one of them with as
 an opener.
 
-
-### Turn 1
+## Turns 1-4
 
 After the opener I rule the guards are surprised, because fuck 'em. They're
 mentally stunned and will need to succeed at an IQ roll before they can do
 anything, as usual.
 
-Jade does this "by the book", stepping forward and verbally challenging a
-guard. Art runs in stabbing, though his knife ends up deflected.
+Jade begins this "by the book", stepping forward and verbally challenging a
+guard. Art runs in stabbing, though his knife ends up deflected. Urist draws his
+axe and begins closing in, though he's considerably slower to get within melee
+range.
 
-After some moments of fright anteceding the fight, Jania and Rosalia realize
-_they_ are not chained, and edge away from the dogs and towards the gate closest
-to Rosalia.
+After some moments of fright preceding the fight, Jania and Rosalia realize that
+unlike the dogs _they_ are not chained. They edge away from the dogs and towards
+the gate closest to Rosalia (and Jade). The dogs' chains prevent them from
+reaching the prisoners.
 
-The dogs pursue them to the limit of their 2-meter chains, which are not long
-enough to reach the doghouse, let alone the prisoners' new positions. A single
-guard passes their save this turn, meaning he can act in the next one.
+While the fighting rages on outside, Jania decides to push her magical
+lock-opening trick to its limit. by taking a -10 skill penalty to open the
+nearest lock instantly. That's a 50/50 chance for her, and she does it. The two
+prisoners just manage to squeak through the gate while barely keeping away from
+a dog's jaws.
 
-### Turn 2
+Outside some of the guards recover from the mental stun inflicted by surprise,
+forcing our PCs to engage them first. Arcturus manages to incapacitate a guard
+with his signature grab-and-stab move, while Urist covers his flank. Jade has no
+problem keeping her three assailants at bay but has some bad luck on her attack
+rolls.
 
-Urist draws his axe and approaches the fight, though he's stil a ways a way
-(this park is annoyingly large). The non-stunned dottarius tries to bonk Art
-with his mace, only to drop it due to a critical failure. Arcturus grapples him
-in return.
+The escaped PCs have no weapons, Rosalia is able to help Jade a bit by
+re-stunning a guard with her Song of Humiliation, while Jania begins charging up
+an Ice Dagger spell.
 
-The guard who got hit with the sunbolt earlier passes his save, but will only be
-able to act next turn.
+## Turns 5-8
 
-Jania decides to push her magical lock-opening trick to its limit, by taking a
--10 skill penalty to open the nearest lock instantly. That's a 50/50 chance for
-her, and she does it. Rosalia arrives next to her now.
+Things are taking a bit longer to resolve here than I'd like. Seems like these
+dottari aren't very good at offense when compared to the characters, but their
+defenses are high enough to require some special handling.
 
-### Turn 3
-
-Arcturus stabs the guard he grappled earlier, spending his Control Points to
-increase damage, and puts him out of commission. The other wounded guard tries
-to retaliate, but misses.
-
-Urist gets into position to defend Art's right flank, and the remaining guard on
-their side engages him.
-
-The guards on the right side begin recovering. Jade approaches one who is still
-surprised and slashes him good with her backsword, but the weapon turns on her
-hand on the counterstroke.
-
-Jania opens the door and Rosalia runs through, barely remaining outside the
-dog's reach.
-
-### Turn 4
-
-Jade re-readies her sword and braces for the incoming attacks from her three
-opponents, but the first of those is thankfully very innacurate.
-
-Urist and his "dance partner" exchange attacks, both hitting shields.
-
-Art grapples the wounded dottari, who fails to escape.
-
-Jania and Rosalia run out of the cage and into the right-side bridge. Rosalia
-insults one of the dottari engaging Jania, stunning him again!
-
-### Turns 5-8
-
-Things actually take a bit longer to resolve here than I'd like. Seems like
-these dottari aren't very good at offense when compared to the characters, but
-their defenses are high enough to require some special handling.
-
-Anyway, atfer a lot of back and forth, Arcturus folds a guard's mail with him
-still inside, then holds the other so Urist can axe him a few questions. Jade
-fences and then stabs the non-stunned guard, and then kills one of the stunned
-ones while Jania impales the other with a large-ish Ice Dagger.
+Anyway, atfer a lot of back and forth, Arcturus folds a guard's clothes with the
+guard still inside, then holds the other so Urist can axe him a few
+questions. Jade fences and then stabs the non-stunned guard, and then kills one
+of the stunned ones while Jania impales the other with a large-ish Ice Dagger.
 
 ### After the Fight
 
@@ -297,7 +263,7 @@ but they did recruit Vendalfek, so that's 1 point to each PC. They do get
 another point for winning the fight, though. Their notoriety also increases
 by (1d4 -> 2).
 
-## [Both] Analysis
+## [GM] Analysis
 
 Dottari are really annoying to fight, because while their offensive skill is
 relatively modest, their defenses are high enough to succeed a lot of the

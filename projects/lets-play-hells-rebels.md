@@ -106,7 +106,9 @@ scenes.
 
 - [Scene 08][24]: Prisoners of Salt
 
-- [Scene 09][25]: Our "Geoscape" comes online.
+- [Scene 09][25]: Our "Geoscape" comes online, and we investigate some ruins.
+
+- [Scene 10][26]: Our second strategic turn gets a scene of its own.
 
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
@@ -133,3 +135,4 @@ scenes.
 [23]: {{ "/2026/04/08/lphr-scene-07.html" | relative_url }}
 [24]: {{ "/2026/04/13/lphr-scene-08.html" | relative_url }}
 [25]: {{ "/2026/04/19/lphr-scene-09.html" | relative_url }}
+[26]: {{ "/2026/04/24/lphr-scene-10.html" | relative_url }}
