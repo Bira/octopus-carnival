@@ -1,6 +1,16 @@
-(2026-02-24)
+---
+layout: post
+title: "Let's Play Hell's Rebels A01S12: Strategic Turn 3"
+tags:
+    - dungeon-fantasy
+    - gurps
+    - lets-play
+    - hells-rebels
+---
 
-# [GM] Intro
+# Intro
+
+We continue our [Hell's Rebels Solo Adventure][2]!
 
 This is our third strategic turn for Hell's Rebels Adventure 01. In the last
 turn, the PCs:
@@ -257,3 +267,5 @@ Includes Sentinel bonuses.
 
 The next "tactical" scene is going to be loooong, so I'm going to cut this one
 off here.
+
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}

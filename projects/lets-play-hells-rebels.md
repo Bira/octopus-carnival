@@ -110,6 +110,8 @@ scenes.
 
 - [Scene 10][26]: Our second strategic turn gets a scene of its own.
 
+- [Scene 11][27]: Crackdown at Clenchjaw's, and a surprise.
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -136,3 +138,4 @@ scenes.
 [24]: {{ "/2026/04/13/lphr-scene-08.html" | relative_url }}
 [25]: {{ "/2026/04/19/lphr-scene-09.html" | relative_url }}
 [26]: {{ "/2026/04/24/lphr-scene-10.html" | relative_url }}
+[27]: {{ "/2026/04/25/lphr-scene-11.htlm" | relative_url }}
