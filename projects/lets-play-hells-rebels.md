@@ -138,4 +138,4 @@ scenes.
 [24]: {{ "/2026/04/13/lphr-scene-08.html" | relative_url }}
 [25]: {{ "/2026/04/19/lphr-scene-09.html" | relative_url }}
 [26]: {{ "/2026/04/24/lphr-scene-10.html" | relative_url }}
-[27]: {{ "/2026/04/25/lphr-scene-11.htlm" | relative_url }}
+[27]: {{ "/2026/04/28/lphr-scene-11.htlm" | relative_url }}

@@ -44,9 +44,9 @@ away.
 
 The documents also say their main headquarters was under the Opera House (which
 Barzilai is currently using as his home), and that their main tool in defending
-the city was something called "The Song of Silver". Jade remembers it's an
-actual song with magical powers, but again she was too young to remember more
-than that. Rexus believes the score and lyrics for the song might still be out
+the city was something called "The Song of Silver". Jade remembers this is an
+actual song with magical powers, but again she was too young to grasp more
+details. Rexus believes the score and lyrics for the song might still be out
 there - finding them would be a major boon to the revolution.
 
 Last but not least, all the operational advice in the papers gives the new
@@ -446,6 +446,44 @@ is going to turn into a major slugfest with all of them if combat breaks out at
 any of those areas.)
 
 ## Turn 8
+
+Jania sneaks ahead, and manages to spot two of the zombies in area E8 without
+being noticed. She doesn't spot the others because they're off in the little
+side room to the left, on the other side of the wall she's hiding behind. Still,
+she signals the rest of the party that there are enemies ahead.
+
+They also know there are _more_ enemies on the room after that, so Jade guesses
+it's time to go loud. Urist casts Armor, giving himself an extra +2 DR, and they
+march forward. The zombies see them coming, but don't seem interested in leaving
+their assigned room. The fight starts as soon as our heroes enter, and the PCs
+spot the extra three zombies as soon as that happens too. No one is surprised.
+
+### Rounds 1-3
+
+The party begins fighting the zombies, who try to grapple and bite them in
+return, with little success. The sounds of the fighting alert the redactors next
+door, who quickly spot the battle through the open passage from their room and
+begin shouting to warn their boss about the intruders.
+
+Raul, the cleric in charge of the redactors on this level, exits his office and
+yells at the monks to go kill the intruders already. They draw their knives and
+run towards the PCs, arriving within melee range after the party has destroyed
+four of the five zombies.
+
+One of the redactors tries hitting Jade with a fancy kick, and gets his leg
+crippled for the trouble. She finishes him off right after this. Meanwhile, Raul
+struggles to catch up as he was both more heavily armored and farther away.
+
+### Rounds 4-6
+
+The remaining three redactors do only a little better than the zombies. They're
+more agile, but also more fragile. Jade quickly wounds one and kills another,
+with Urist finishing off the first one. The third manages to stab Jania and
+wound her, prompting Jade to do a Heroic Charge across the room and kill
+him. Raul has time to arrive and cast a Deathtouch spell on his mace, but Art
+begins grappling with him before he can swing it. He is now the only enemy left
+standing.
+
 
 
 # [Player] Loot Tally
