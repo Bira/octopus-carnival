@@ -40,9 +40,9 @@ Our threads remain the same.
 **Threads**
 
 - The Path xxxx
-- Find Shensen (Rosalia, Arcturus) *
+- Find Shensen (Rosalia, Arcturus) x
 - Contacting Ms. Docur (Jania)
-- Get Organized (Jade) **
+- Get Organized (Jade) xx
 
 **Characters**
 
@@ -187,7 +187,7 @@ gives us 7 new supporters. We'll still be in rank 4 next turn.
 
 Base chance for an event is the city's Danger (20) + our Notoriery (5), without
 doubling since we did have an event last turn. We roll a 96, so nothing bad
-happens!
+happens! However, the chance of an event will double next turn.
 
 
 ## The Silver Ravens (End of Turn 3)
