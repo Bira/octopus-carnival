@@ -484,6 +484,36 @@ him. Raul has time to arrive and cast a Deathtouch spell on his mace, but Art
 begins grappling with him before he can swing it. He is now the only enemy left
 standing.
 
+I could continue the fight here. Raul has a full energy pool and might be able
+to do some damage before the PCs take him down. But the original adventure
+emphasizes that he's a coward. In Pathfinder he has 21 HP and surrenders
+unconditionally when he reaches 5. In GURPS, where he might be taken down with a
+single turn's worth of lucky attacks, I think it makes sense for him to
+surrender right now. Plus there's plenty more dungeon below and I want to get to
+that. So we can call the fight right away.
+
+## Turn 9
+
+Raul surrenders and begs for his life. After some discussion, they end up
+accepting it. None of them like Asmodeans very much but they also don't like
+killing surrendered opponents. The party strips him of his gear and possessions:
+
+- A Balanced Dwarven Mace with Puissance 1.
+- A suit of brigandine armor with light cloth limb coverings, enchanged with
+  Fortify 1 and Lighten 1.
+- An unholy symbol worth $1000 as jewelry.
+- 8 onyxes, each worth $250, for a total of $2000 worth of gems.
+- A rare sacred text for the dead god Aroden, worth $1000, in the museum offices
+  where he was working when the alarm was raised.
+
+The party ends up locking Raul in the office, after checking that he can't
+escape through the boarded-up window. His gear and treasure they store behind
+the counter here, to take home later.
+
+No one picks up his armor or weapons right now, as they don't want to use gear
+festooned with Asmodean marks. They're going to "clean" it later.
+
+
 
 
 # [Player] Loot Tally
@@ -499,6 +529,13 @@ standing.
   - Curse, 1 point ($300)
   - Panic, 1m radius ($400)
 - Alabaster Snake Eye ($1500, neg.)
+- A Balanced Dwarven Mace with Puissance 1 ($5450, 2.5kg)
+- Magic Armor (brigandine chest, light cloth limbs, no helmet, Fortity 1
+and Lighten 1; $4674, 11.7kg)
+- An unholy symbol worth $1000 as jewelry.
+- 8 onyxes, each worth $250, for a total of $2000 worth of gems.
+- A rare sacred text for the dead god Aroden, worth $1000, in the museum offices
+  where he was working when the alarm was raised.
 
 # The Silver Ravens (End of Adventure)
 
