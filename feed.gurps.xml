@@ -5,9 +5,394 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Apr 2026 15:12:00 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 15:12:00 +0000</lastBuildDate>
+    <pubDate>Sun, 10 May 2026 20:02:29 +0000</pubDate>
+    <lastBuildDate>Sun, 10 May 2026 20:02:29 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels A01S12: Strategic Turn 3</title>
+        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;We continue our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels Solo Adventure&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;This is our third strategic turn for Hell’s Rebels Adventure 01. In the last
+turn, the PCs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Increased their “management” skills to do a better job as officers.&lt;/li&gt;
+  &lt;li&gt;Recruited a team of Sneaks.&lt;/li&gt;
+  &lt;li&gt;Got their number of supporters up to 25.&lt;/li&gt;
+  &lt;li&gt;Got a critical failure when trying to gather information, increasing their
+Notoriety by 4.&lt;/li&gt;
+  &lt;li&gt;Handled an unhealthy rivalry between their new Sneak team and the Crow
+Sisters.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the “tactical” phase, they resolved both the Crackdown at Clenchjaw’s and An
+Unsanctioned Excruciation events. This gave them 2 character poins total, plus
+Vendalfek as a special ally. It also increased Notoriety by a further 2 points.&lt;/p&gt;
+
+&lt;p&gt;I also realize I’ve been very lax about properly leveling up my rebellion, so
+let’s do that here as well.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
+
+&lt;p&gt;Let’s keep the Chaos Factor at 6. I didn’t use the random tables at all, but
+things haven’t really gotten any less dangerous.&lt;/p&gt;
+
+&lt;p&gt;Our threads remain the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Path xxxx&lt;/li&gt;
+  &lt;li&gt;Find Shensen (Rosalia, Arcturus) x&lt;/li&gt;
+  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
+  &lt;li&gt;Get Organized (Jade) xx&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Dottari&lt;/li&gt;
+  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
+  &lt;li&gt;The Red Jills&lt;/li&gt;
+  &lt;li&gt;The Asmodeans&lt;/li&gt;
+  &lt;li&gt;The Three-Legged Devil (location)&lt;/li&gt;
+  &lt;li&gt;The Livery Grimples&lt;/li&gt;
+  &lt;li&gt;The Tengu Sisters&lt;/li&gt;
+  &lt;li&gt;Nan Comerivos &amp;amp; Friends&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;player-proper-leveling&quot;&gt;[Player] Proper Leveling&lt;/h1&gt;
+
+&lt;p&gt;This was our rebellion sheet at the end of turn 2:&lt;/p&gt;
+
+&lt;h2 id=&quot;the-silver-ravens-end-of-turn-2&quot;&gt;The Silver Ravens (End of Turn 2)&lt;/h2&gt;
+
+&lt;p&gt;Includes Sentinel bonuses.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank: 2/5&lt;/li&gt;
+  &lt;li&gt;Focus: Secrecy&lt;/li&gt;
+  &lt;li&gt;Members: 16&lt;/li&gt;
+  &lt;li&gt;Supporters: 25&lt;/li&gt;
+  &lt;li&gt;Population: 11900&lt;/li&gt;
+  &lt;li&gt;Treasury: $9650&lt;/li&gt;
+  &lt;li&gt;Min. Treasury: $100&lt;/li&gt;
+  &lt;li&gt;Notoriety: 6&lt;/li&gt;
+  &lt;li&gt;Org Skills:
+    &lt;ul&gt;
+      &lt;li&gt;Loyalty: 11&lt;/li&gt;
+      &lt;li&gt;Secrecy: 13&lt;/li&gt;
+      &lt;li&gt;Security: 11&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Actions: 1&lt;/li&gt;
+  &lt;li&gt;Max Teams: 2+1&lt;/li&gt;
+  &lt;li&gt;Danger Rating: 20&lt;/li&gt;
+  &lt;li&gt;Active Events:&lt;/li&gt;
+  &lt;li&gt;Teams:
+    &lt;ul&gt;
+      &lt;li&gt;Crow Sisters (bonus team)
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Earn Money, Gather Information&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Freedom Fighters
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 6&lt;/li&gt;
+          &lt;li&gt;Actions: Reduce Danger&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sneaks
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Secure Cache.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Allies:
+    &lt;ul&gt;
+      &lt;li&gt;Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;+2 to Recruit Supporters as long as she’s a member.&lt;/li&gt;
+          &lt;li&gt;Leadership-12, Streetwise-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rexus Victocora
+        &lt;ul&gt;
+          &lt;li&gt;-1 Notoriety per Upkeep phase as long as he’s a member.&lt;/li&gt;
+          &lt;li&gt;Administration-12, Public Speaking-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Vendalfek
+        &lt;ul&gt;
+          &lt;li&gt;Grants use of the Spread Disinformation action even if no other team does
+the same.&lt;/li&gt;
+          &lt;li&gt;If a team does grant the action, gives a +2 bonus to its skill rolls.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;Demagogue: Rosalia
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan: Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiters: Urist; Arthur
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Savoir-Faire.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel: Jade
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster: Jania
+        &lt;ul&gt;
+          &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist: Rexus
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also added the +2 to Notoriety from the tactical missions, and Vendalfek as an
+ally.&lt;/p&gt;
+
+&lt;h2 id=&quot;upkeep-phase&quot;&gt;Upkeep Phase&lt;/h2&gt;
+
+&lt;p&gt;At the start of this phase, Rexus reduces our Notoriety by 1 to 5.&lt;/p&gt;
+
+&lt;p&gt;Step 1, Supporter Attrition - Unmodified &lt;strong&gt;Loyalty&lt;/strong&gt; check, aided by
+Rosalia. The final modified roll succeeds by 2. We lose only 1d6 -&amp;gt; 4
+supporters.&lt;/p&gt;
+
+&lt;p&gt;Step 2 - Notoriety Maximum: We’re just at 5, nothing to do here.&lt;/p&gt;
+
+&lt;p&gt;Step 3 - Treasury Shortage: We remain fine.&lt;/p&gt;
+
+&lt;p&gt;Step 4 - Increase Rank: We’re still above the minimum for rank 4, so we rank up
+twice!&lt;/p&gt;
+
+&lt;p&gt;That means all of our three traits increase by +1. Our maximum teams increase by
++1. Our minimum treasury increases to $200 (pfft, easy). Our PCs each get two
+boons from ranks 3 and 4: a potion worth $1500 or less, and the title of
+Guardian.&lt;/p&gt;
+
+&lt;p&gt;Looking back at the quick and dirty rules I established on Scene 09, I don’t
+have rules for titles yet. In the original, those would come with bonus feats
+that seem to be of the “math tax” variety. Skill bonuses at rank 4, save bonuses
+at 9, and stuff like increased speed, initiative or HP at 14, and any feat they
+qualify for at 19.&lt;/p&gt;
+
+&lt;p&gt;Let’s instead give them a +1 Reputation with all who oppose Thrune at each of
+these levels, ending up at +4 at Rank 19. Let’s say it applies all the time to
+everyone except a large class (Thrune Supporters). That’s a x2/3 modifier, so
+let’s make it worth 3 points/level. The PCs don’t need to pay for it but it does
+increase their point value.&lt;/p&gt;
+
+&lt;p&gt;I’ve ammended the quick and dirty rules on scene 09 to account for this.&lt;/p&gt;
+
+&lt;h2 id=&quot;activity-phase&quot;&gt;Activity Phase&lt;/h2&gt;
+
+&lt;p&gt;We’re still at two actions here, with a bonus action for having a Strategist.&lt;/p&gt;
+
+&lt;p&gt;We can have another team, so I think it’s a good idea to &lt;strong&gt;recruit&lt;/strong&gt; one. Let’s
+go with a team of Street Performers. This is an unpenalized Secrecy roll with a
++2 from Laria and a +1 from Jania (2 successes, 1 failure). It’s a success, so
+we have a team.&lt;/p&gt;
+
+&lt;p&gt;Next I think we’ll spend our second action to &lt;strong&gt;upgrade&lt;/strong&gt; our brand new Street
+Performers to Rumormongers, since the’ll benefit from our little fairy dragon’s
+help. That costs $250 from our treasury and requires no rolls.&lt;/p&gt;
+
+&lt;p&gt;And finally we will again use our bonus action to &lt;strong&gt;Recruit Supporters&lt;/strong&gt;,
+because we still have room to grow. Unmodified Loyalty, plus +2 from Laria, +1
+from Rexus’ Administration. A normal success and a somewhat poor effect roll
+gives us 7 new supporters. We’ll still be in rank 4 next turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;event-phase&quot;&gt;Event Phase&lt;/h2&gt;
+
+&lt;p&gt;Base chance for an event is the city’s Danger (20) + our Notoriery (5), without
+doubling since we did have an event last turn. We roll a 96, so nothing bad
+happens! However, the chance of an event will double next turn.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-silver-ravens-end-of-turn-3&quot;&gt;The Silver Ravens (End of Turn 3)&lt;/h2&gt;
+
+&lt;p&gt;Includes Sentinel bonuses.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank: 4/5&lt;/li&gt;
+  &lt;li&gt;Focus: Secrecy&lt;/li&gt;
+  &lt;li&gt;Members: 22&lt;/li&gt;
+  &lt;li&gt;Supporters: 28&lt;/li&gt;
+  &lt;li&gt;Population: 11900&lt;/li&gt;
+  &lt;li&gt;Treasury: $9400&lt;/li&gt;
+  &lt;li&gt;Min. Treasury: $200&lt;/li&gt;
+  &lt;li&gt;Notoriety: 5&lt;/li&gt;
+  &lt;li&gt;Org Skills:
+    &lt;ul&gt;
+      &lt;li&gt;Loyalty: 12&lt;/li&gt;
+      &lt;li&gt;Secrecy: 15&lt;/li&gt;
+      &lt;li&gt;Security: 12&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Actions: 2&lt;/li&gt;
+  &lt;li&gt;Max Teams: 3+1&lt;/li&gt;
+  &lt;li&gt;Danger Rating: 20&lt;/li&gt;
+  &lt;li&gt;Active Events:&lt;/li&gt;
+  &lt;li&gt;Teams:
+    &lt;ul&gt;
+      &lt;li&gt;Crow Sisters (bonus team)
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Earn Money, Gather Information&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Freedom Fighters
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 6&lt;/li&gt;
+          &lt;li&gt;Actions: Reduce Danger&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sneaks
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Secure Cache.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rumormongers
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 2&lt;/li&gt;
+          &lt;li&gt;Members 6&lt;/li&gt;
+          &lt;li&gt;Actions: Gather Information, Spread Disinformation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Allies:
+    &lt;ul&gt;
+      &lt;li&gt;Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;+2 to Recruit Supporters as long as she’s a member.&lt;/li&gt;
+          &lt;li&gt;Leadership-12, Streetwise-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rexus Victocora
+        &lt;ul&gt;
+          &lt;li&gt;-1 Notoriety per Upkeep phase as long as he’s a member.&lt;/li&gt;
+          &lt;li&gt;Administration-12, Public Speaking-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Vendalfek
+        &lt;ul&gt;
+          &lt;li&gt;Grants use of the Spread Disinformation action even if no other team does
+the same.&lt;/li&gt;
+          &lt;li&gt;If a team does grant the action, gives a +2 bonus to the skill roll for
+the action.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;Demagogue: Rosalia
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan: Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiters: Urist; Arthur
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Savoir-Faire.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel: Jade
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster: Jania
+        &lt;ul&gt;
+          &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist: Rexus
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;gm-whats-next&quot;&gt;[GM] What’s next?&lt;/h1&gt;
+
+&lt;p&gt;The next “tactical” scene is going to be loooong, so I’m going to cut this one
+off here.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/05/10/lphr-scene-12.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/05/10/lphr-scene-12.html</guid>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels A01S11: Crackdown at Clenchjaw&apos;s</title>
@@ -15,9 +400,10 @@
 
 &lt;p&gt;We continue our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels Solo Adventure&lt;/a&gt;!&lt;/p&gt;
 
-&lt;p&gt;As mentioned &lt;a href=&quot;/octopus-carnival/2026/04/24/lphr-scene-10.html&quot;&gt;last scene&lt;/a&gt;, I’m doing this week’s tactical mission on a separate
-file from the strategic turn, since that one ran long. Today, we’ll be running
-through “Crackdown at Clenchjaw’s”, which should be a nice and breezy affair.&lt;/p&gt;
+&lt;p&gt;As mentioned &lt;a href=&quot;/octopus-carnival/2026/04/24/lphr-scene-10.html&quot;&gt;last scene&lt;/a&gt;, I’m doing this week’s tactical mission on a
+separate file from the strategic turn, since that one ran long. Today, we’ll be
+running through “Crackdown at Clenchjaw’s”, which should be a nice and breezy
+affair.&lt;/p&gt;
 
 &lt;p&gt;I played this in January 2026, over a couple of days.&lt;/p&gt;
 
@@ -2811,62 +3197,6 @@ Long Roads Coffee House.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>lets-play</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hell&apos;s Rebels Bestiary: Lemure</title>
-        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lemures first appear in the big fight during &lt;a href=&quot;/octopus-carnival/2026/03/25/lphr-scene-04.html&quot;&gt;Adventure 01, Scene 04&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
-
-&lt;p&gt;Sometimes also known as “orts”, these things look like vaguely humanoid clumps
-of fetid slime. They’re the demonic equivalent of zombies, about as smart and
-even filthier. Lemures are used as cheap labor by stronger demons, which they
-are compelled to obey. Lacking orders, they tend to mill around aimlessly and
-attack any living creatures they can sense, fighting to the death.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 13; &lt;strong&gt;DX&lt;/strong&gt; 12; &lt;strong&gt;IQ&lt;/strong&gt; 8; &lt;strong&gt;HT&lt;/strong&gt; 12;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt; 9; &lt;strong&gt;Parry&lt;/strong&gt; 10 (Unarmed)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 3 (13 vs. Fire); &lt;strong&gt;Control Resistance&lt;/strong&gt; 1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 6.00; &lt;strong&gt;Move&lt;/strong&gt; 5;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Slimy Claw Or Bite&lt;/strong&gt; (15): 1d+1 cutting; Reach C.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Slimy Grab&lt;/strong&gt; (14): 1d+1 control; Reach C.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Class&lt;/strong&gt;: Demon.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Foulness (GURPS DF Monsters 5, p. 14); No Brain; No Vitals;
-Doesn’t Sleep; Doesn’t Eat or Drink; Immunity to Metabolic Hazards; Automaton.&lt;/p&gt;
-
-&lt;h1 id=&quot;notes-and-impressions&quot;&gt;Notes and Impressions&lt;/h1&gt;
-
-&lt;p&gt;Lemures fulfill the exact same monster niche as zombies but they’re a bit
-tougher and are demons instead of undead, so they’re vulnerable to a slightly
-different set of abilities. Other than that, there’s not much to see here.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/03/26/hr-bestiary-lemure.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/03/26/hr-bestiary-lemure.html</guid>
-        
-        <category>hells-rebels</category>
-        
-        <category>bestiary</category>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
         
         
       </item>
