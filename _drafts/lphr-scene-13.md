@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Play Hell's Rebels: Adventure 1, Scene 13"
+title: "Let's Play Hell's Rebels A01S13: Hocum's Fantasmagorium"
 tags:
     - dungeon-fantasy
     - gurps
@@ -54,11 +54,11 @@ Silver Ravens a permanent +2 to all three organization traits. I'm copying the
 org sheet from the last post and adding it to the end of this one with the right
 modifications.
 
-# [Player] Hocus' Fantasmagorium
+# [Player] Hocum's Fantasmagorium
 
 Rexus tells the group that translating the documents has left him with a strong
 conviction that his parents might still be alive. He knows the Archivists kept a
-hideout under an abandoned museum named Hocus' Fantasmagorium, and that among
+hideout under an abandoned museum named Hocum's Fantasmagorium, and that among
 the things his mother had Urist deliver him was a small mithril key that he
 knows will open the way to the hideout.
 
@@ -76,9 +76,9 @@ the delve.
 
 # [GM] Thinking About Dungeon Preparation
 
-And so as the GM in this story, I must also prepare my dungeon. This dungeon
-is... quite extensive. It's the capstone delve of the module, so it has two
-distinct levels with several rooms each.
+And so as the GM in this story, I must also prepare my dungeon. This dungeon is
+the capstone delve of the module, so it's quite extensive compared to everything
+else we've seen so far. It has two distinct levels with several rooms each.
 
 While I think I am getting better at it I'm not sure I really _enjoy_ the
 process of preparing a Foundry delve. Not unless there's something else in there
@@ -230,14 +230,15 @@ one on Off-Hand Weapon Training (Pistol).
 
 We have two levels here with distinct traits.
 
-Level 1 on the surface is Hocus' Fantasmagorium, which was abandoned 70 years
+Level 1 on the surface is Hocum's Fantasmagorium, which was abandoned 70 years
 ago during the Chelish Civil War. The place had been stealthily maintained by
-the Archivists, so despite the ruined state of its exhibits the building is not
-actually a ruin.
+the Archivists, so despite the ruined state of its exhibits the building is
+structurary sound.
 
-It's secured by a few reanimated skeletal exhibits, by zombies created from the
-corpses of victims of the Night of Ashes (including Rexus' parents), four
-redactor monks, and one asshole priest. There was another but he died of greed.
+This level is currently secured by a few reanimated skeletal exhibits, by
+zombies created from the corpses of victims of the Night of Ashes (including
+Rexus' parents), four redactor monks, and one asshole priest. There was another
+but he died of greed.
 
 Exterior walls and doors are heavy wood (DR 3, HP 33). Interior walls and the
 boards covering the windows are average wood (DR 3, HP 29). Door locks and
@@ -271,7 +272,17 @@ entire level is brightly lit by Continual Light spells.
 Aside from Nox's loot, most of the treasure in this level consists of recovered
 Archivist documents that can be sold to collectors.
 
-# [Player] The Delve
+# [Player] Delving Hocum's Fantasmagorium
+
+{::nomarkdown}
+<figure class="center">
+  <img alt="A dungeon map of a building with wooden floors and walls. There's a
+  big circular room in the middle and several rectancular rooms all around it,
+  with different museum exhibits in each one. Rooms are labeled E1 to E10."
+       src="{{ "/assets/lphr-hocums-fantasmagorium.png" | absolute_url }}"/>
+</figure>
+{:/nomarkdown}
+
 
 With Rexus' mithril key in hand, the Ravens can finally raid the monastery. And
 a raid it will be, as they don't just want to look for survivors, they want to
@@ -492,26 +503,21 @@ single turn's worth of lucky attacks, I think it makes sense for him to
 surrender right now. Plus there's plenty more dungeon below and I want to get to
 that. So we can call the fight right away.
 
-## Turn 9
+## Turns 9-10
 
 Raul surrenders and begs for his life. After some discussion, they end up
 accepting it. None of them like Asmodeans very much but they also don't like
-killing surrendered opponents. The party strips him of his gear and possessions:
-
-- A Balanced Dwarven Mace with Puissance 1.
-- A suit of brigandine armor with light cloth limb coverings, enchanged with
-  Fortify 1 and Lighten 1.
-- An unholy symbol worth $1000 as jewelry.
-- 8 onyxes, each worth $250, for a total of $2000 worth of gems.
-- A rare sacred text for the dead god Aroden, worth $1000, in the museum offices
-  where he was working when the alarm was raised.
+killing surrendered opponents. The party strips him of his gear and possessions,
+which include a magic mace and a magical suit of armor, a gold unholy symbol, a
+bag of gems, and the ancient book he was studying in his office at Area E10.
 
 The party ends up locking Raul in the office, after checking that he can't
 escape through the boarded-up window. His gear and treasure they store behind
 the counter here, to take home later.
 
 No one picks up his armor or weapons right now, as they don't want to use gear
-festooned with Asmodean marks. They're going to "clean" it later.
+festooned with Asmodean marks. They're going to stash them in Area E9 for now
+and "clean" them later, after they're done with this place.
 
 
 
@@ -536,78 +542,5 @@ and Lighten 1; $4674, 11.7kg)
 - 8 onyxes, each worth $250, for a total of $2000 worth of gems.
 - A rare sacred text for the dead god Aroden, worth $1000, in the museum offices
   where he was working when the alarm was raised.
-
-# The Silver Ravens (End of Adventure)
-
-Includes Sentinel bonuses.
-
-- Rank: 4/5
-- Focus: Secrecy
-- Members: 22
-- Supporters: 28
-- Population: 11900
-- Treasury: $9400
-- Min. Treasury: $200
-- Notoriety: 5
-- Org Skills:
-  - Loyalty: 14
-  - Secrecy: 17
-  - Security: 14
-- Actions: 2
-- Max Teams: 3+1
-- Danger Rating: 20
-- Active Events:
-- Teams:
-  - Crow Sisters (bonus team)
-    - Tier: 1
-    - Members: 3
-    - Actions: Earn Money, Gather Information
-  - Freedom Fighters
-    - Tier: 1
-    - Members: 6
-    - Actions: Reduce Danger
-  - Sneaks
-    - Tier: 1
-    - Members: 3
-    - Actions: Secure Cache.
-  - Rumormongers
-    - Tier: 2
-    - Members 6
-    - Actions: Gather Information, Spread Disinformation
-- Allies:
-  - Laria Longroad
-    - +2 to Recruit Supporters as long as she's a member.
-    - Leadership-12, Streetwise-12
-  - Rexus Victocora
-    - -1 Notoriety per Upkeep phase as long as he's a member.
-    - Administration-12, Public Speaking-12
-  - Vendalfek
-    - Grants use of the Spread Disinformation action even if no other team does
-      the same.
-    - If a team does grant the action, gives a +2 bonus to the skill roll for
-      the action.
-- Officers:
-  - Demagogue: Rosalia
-    - May use complimentary skills on Loyalty checks.
-    - Skills: Propaganda, Public Speaking, Leadership.
-  - Partisan: Laria Longroad
-    - May use complimentary skills on Security checks.
-    - Skills: Strategy, Leadership, Tactics.
-  - Recruiters: Urist; Arthur
-    - May use complimentary skills on checks for recruiting supporters.
-    - Adds rebellion rank to the number of recruited supporters, and this stacks
-      with multiple recruiters.
-    - Skills: Public Speaking, Streetwise, Savoir-Faire.
-  - Sentinel: Jade
-    - Occupying this post gives a +1 to the rebellion's non-focused skills.
-    - May use complimentary skills on any check used to resolve an Event.
-    - Skills: any of the ones listed for the appropriate category.
-  - Spymaster: Jania
-    - May use complimentary skills on Secrecy checks.
-    - Skills: Intelligence Analysis, Streetwise, Administration.
-  - Strategist: Rexus
-    - Occupying this position grants a bonus action. May use its complimentary
-      skills on the bonus action.
-    - Skills: Strategy, Tactics, Administration.
 
 [1]: {{ "/2020/01/24/old-school-movement.html" | relative_url }}
