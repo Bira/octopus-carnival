@@ -21,58 +21,7 @@ filler missions I cared about, and our revolution is now pretty close to the
 maximum level it can reach in this adventure.
 
 So I think we can move on to our finale earlier. We just say Rexus finishes his
-translations now.
-
-# [Player] The Documents
-
-Rexus is done with his translation, so the Ravens spend some time going over the
-documents. Some of what's in there is ironically already known to our PCs, as
-Jade personally knew the Ravens and could tell the others about the basics of
-who they were.
-
-But she was too young to actually take part in operations, so there's still new
-stuff to be had here. The Ravens were successful in preventing the conquest of
-Kintargo and Ravounel nearly a dozen times during the Chelish Civil War: five
-attempts by various power-hungry noble families, four attempts by House Thrune
-specificially, once by vampire priests from Nidal, and one by the dragon
-Rivozair.
-
-The fifth attempt by Thrune was the one they felt they couldn't fight, at least
-not without destroying the land and city they were trying to protect. So the
-group decided to surrender. Jade remembers this one - it's when she was sent
-away.
-
-The documents also say their main headquarters was under the Opera House (which
-Barzilai is currently using as his home), and that their main tool in defending
-the city was something called "The Song of Silver". Jade remembers this is an
-actual song with magical powers, but again she was too young to grasp more
-details. Rexus believes the score and lyrics for the song might still be out
-there - finding them would be a major boon to the revolution.
-
-Last but not least, all the operational advice in the papers gives the new
-Silver Ravens a permanent +2 to all three organization traits. I'm copying the
-org sheet from the last post and adding it to the end of this one with the right
-modifications.
-
-# [Player] Hocum's Fantasmagorium
-
-Rexus tells the group that translating the documents has left him with a strong
-conviction that his parents might still be alive. He knows the Archivists kept a
-hideout under an abandoned museum named Hocum's Fantasmagorium, and that among
-the things his mother had Urist deliver him was a small mithril key that he
-knows will open the way to the hideout.
-
-He thinks his parents and other survivors from the order might still be hiding
-under there, and are in need of help.
-
-Urist... kind of agrees, but he's not as optimistic. When he returned to
-Kintargo from his away mission, he approached the Fantasmagorium but noticed
-that all of the pre-arranged telltale signs on and near the surface building
-were flipped to "danger", so he never tried to get in. He still thinks the group
-should go there in force, but he doesn't think they'll find the place intact.
-
-This ends their meeting in a kind of somber note, and they get to preparing for
-the delve.
+translations now, allowing us to move to the finale.
 
 # [GM] Thinking About Dungeon Preparation
 
@@ -81,11 +30,11 @@ the capstone delve of the module, so it's quite extensive compared to everything
 else we've seen so far. It has two distinct levels with several rooms each.
 
 While I think I am getting better at it I'm not sure I really _enjoy_ the
-process of preparing a Foundry delve. Not unless there's something else in there
-to hold my interest other than just trying to copy the book. There was a pause
-of a few weeks between me writing the first sentence in this section and the
-rest of it, and I procrastrinated by publishing everything up to scene 05 of the
-adventure to the blog.
+process of preparing a dungeon delve in Foundry. Not unless there's something
+else in there to hold my interest other than just trying to copy the book. There
+was a pause of a few weeks between me writing the first sentence in this section
+and the rest of it, and I procrastrinated by publishing everything up to scene
+05 of the adventure to the blog.
 
 Before that pause, I managed to extract a proper map of the first level from the
 same old module that gave me the Livery map from Scene 05. I drew walls, and I
@@ -108,9 +57,102 @@ it's supposed to. Let's take that approach. Everything is going into the same
 file, but ideally each "session" would involve choosing the next room the PCs
 visit, preparing it, and then playing through it.
 
-That would met me have more frequent sessions and maybe actually get through
+That would mean we have more frequent sessions and maybe actually get through
 this faster, because the thought of preparing a whole level at once terrifies me
 into inaction, as previously demonstrated.
+
+# [GM] Dungeon Overview
+
+We have two levels here with distinct traits.
+
+Level 1 on the surface is Hocum's Fantasmagorium, which was abandoned 70 years
+ago during the Chelish Civil War. The place had been stealthily maintained by
+the Archivists, so despite the ruined state of its exhibits the building is
+structurary sound.
+
+This level is currently secured by a few reanimated skeletal exhibits, by
+zombies created from the corpses of victims of the Night of Ashes (including
+Rexus' parents), four redactor monks, and one asshole priest. There was another
+but he died of greed.
+
+Exterior walls and doors are heavy wood (DR 3, HP 33). Interior walls and the
+boards covering the windows are average wood (DR 3, HP 29). Door locks and
+hinges are heavy and high-quality (DR 9, HP 18, -5 to Lockpicking) but the
+mithril key can open all of them.
+
+During the day, the Fantasmagorium is dimly lit by sunshine filtered through the
+boarded-up windows (-3 Darkness penalty). At night, it's pitch-black. Areas
+where human enemies are working are brightly lit (+0) by scattered Continual
+Light lanterns.
+
+There's some treasure scattered around this level, most of it in the form of
+loot from the two priests' bodies.
+
+The Aroden statue in the center-north part of this level is a secret door to the
+Archivists' underground base, the Many-Steps Monastery.
+
+The Many-Steps Monastery is secured by a summoned scrivinite, a large group of
+Asmodean redactors, a big ogre brute, plus Mephiry and Nox. The layout is
+effectively a gauntlet that funnels the party through the bulk of these forces
+and into a confrontation with Nox.
+
+Interior walls are 6-inch thick stone (ablative DR 78, HP 75). Doors are
+identical to the ones up top, and the mithril key also opens them all. The
+entire level is brightly lit by Continual Light spells.
+
+Aside from Nox's loot, most of the treasure in this level consists of recovered
+Archivist documents that can be sold to collectors.
+
+# [Player] The Silver Raven Documents
+
+Rexus is done with his decryption of the document cache retrieved from the
+Livery, so the Ravens spend some time going over the documents. Some of what's
+in there is ironically already known to our PCs, as Jade personally knew the
+Ravens and could tell the others about the basics of who they were.
+
+But she was too young to actually take part in operations, so there's still new
+stuff to be had here. The Ravens were successful in preventing the conquest of
+Kintargo and Ravounel nearly a dozen times during the Chelish Civil War: five
+attempts by various power-hungry noble families, four attempts by House Thrune
+specificially, once by vampire priests from Nidal, and one by the dragon
+Rivozair.
+
+The fifth attempt by Thrune was the one they felt they couldn't fight, at least
+not without destroying the land and city they were trying to protect. So the
+group decided to surrender. Jade remembers this one - it's when she was sent
+away.
+
+The documents also say their main headquarters was under the Opera House (which
+Barzilai is currently using as his home), and that their main tool in defending
+the city was something called "The Song of Silver". Jade remembers this is an
+actual song with magical powers, but again she was too young to grasp more
+details. Rexus believes the score and lyrics for the song might still be out
+there - finding them would be a major boon to the revolution.
+
+Last but not least, all the operational advice in the papers gives the new
+Silver Ravens a permanent +2 to all three organization traits. I'm keeping track
+of it in the org sheet, and will post the updated version on our next strategic
+turn.
+
+# [Player] Hocum's Fantasmagorium
+
+Rexus tells the group that translating the documents has left him with a strong
+conviction that his parents might still be alive. He knows the Archivists kept a
+hideout under an abandoned museum named Hocum's Fantasmagorium, and that among
+the things his mother had Urist deliver him was a small mithril key that he
+knows will open the way to the hideout.
+
+He thinks his parents and other survivors from the order might still be hiding
+under there, and are in need of help.
+
+Urist... kind of agrees, but he's not as optimistic. When he returned to
+Kintargo from his away mission, he approached the Fantasmagorium but noticed
+that all of the pre-arranged telltale signs on and near the surface building
+were flipped to "danger", so he never tried to get in. He still thinks the group
+should go there in force, but he doesn't think they'll find the place intact.
+
+This ends their meeting in a kind of somber note, and they get to preparing for
+the delve.
 
 # [Player] Delver Preparation
 
@@ -125,8 +167,15 @@ We slacked a bit on the team upgrade front, so we can't do either of those.
 However, I am going to "cash in" the biggest story benefit from Urist's origin
 as the Last Archivist here. He's been here before, though not since before the
 place was raided. So he knows and can share the entire layout of both the
-Phantasmagorium and Monastery levels, but he has no idea about the number and
-disposition of the enemies inside.
+Phantasmagorium and Monastery levels, retrieved from the but he has no idea
+about the number and disposition of the enemies inside.
+
+This means he does know how to open the secret passage to the Monastery. The
+party could go right to the second level and skip all the opposition here if
+they wanted to.
+
+However, They don't want to. We're going in there to clear the monastery of
+Asmodeans.
 
 ## Tactical Planning
 
@@ -135,8 +184,8 @@ characters' personality traits and figuring out what approach they would prefer
 and how they would argue for that with the others.
 
 As mentioned above, they know the detailed layout of both dungeon levels, and
-they have a magic key that opens every locked door in the dungeon. Rexus gave
-them that, along with a request to go in there and look for Archivist
+they have a magic key that opens (or locks!) every door in the dungeon. Rexus
+gave them that, along with a request to go in there and look for Archivist
 survivors. But this planning session is being held without him.
 
 You see, Urist believes that if any other Archivists remain, they wouldn't be
@@ -225,52 +274,6 @@ delve, so we spend 2 of those points.
 - Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
 it, which we have now, so let's spend 4 of those points on Guns (Pistol), and
 one on Off-Hand Weapon Training (Pistol).
-
-# [GM] Dungeon Overview
-
-We have two levels here with distinct traits.
-
-Level 1 on the surface is Hocum's Fantasmagorium, which was abandoned 70 years
-ago during the Chelish Civil War. The place had been stealthily maintained by
-the Archivists, so despite the ruined state of its exhibits the building is
-structurary sound.
-
-This level is currently secured by a few reanimated skeletal exhibits, by
-zombies created from the corpses of victims of the Night of Ashes (including
-Rexus' parents), four redactor monks, and one asshole priest. There was another
-but he died of greed.
-
-Exterior walls and doors are heavy wood (DR 3, HP 33). Interior walls and the
-boards covering the windows are average wood (DR 3, HP 29). Door locks and
-hinges are heavy and high-quality (DR 9, HP 18, -5 to Lockpicking) but the
-mithril key can open all of them.
-
-During the day, the Fantasmagorium is dimly lit by sunshine filtered through the
-boarded-up windows (-3 Darkness penalty). At night, it's pitch-black. Areas
-where human enemies are working are brightly lit (+0) by scattered Continual
-Light lanterns.
-
-There's some treasure scattered around this level, most of it in the form of
-loot from the two priests' bodies.
-
-The Aroden statue at the center of the level is a secret door to the underground
-level, the Many Steps monastery. Urist knows how to open this. The party could
-go right to the second level and skip all the opposition here if they wanted to.
-
-(**Player**: They don't want to. We're going in there to clear the monastery of
-Asmodeans.)
-
-The second level is the Many-Steps Monastery itself. It's secured by a summoned
-scrivinite, a large group of Asmodean redactors, a big ogre brute, plus Mephiry
-and Nox. The layout is effectively a gauntlet that funnels the party through the
-bulk of these forces and into a confrontation with Nox.
-
-Interior walls are 6-inch thick stone (ablative DR 78, HP 75). Doors are
-identical to the ones up top, and the mithril key also opens them all. The
-entire level is brightly lit by Continual Light spells.
-
-Aside from Nox's loot, most of the treasure in this level consists of recovered
-Archivist documents that can be sold to collectors.
 
 # [Player] Delving Hocum's Fantasmagorium
 
@@ -365,7 +368,8 @@ specimens that dried out decades ago. There doesn't appear to be anyone here, so
 the group takes the open passage to "map north" (to area E5).
 
 (**GM**: They wouldn't have met the undead ningyos here since they only rise at
-night, but I decided to remove them anyway.)
+night, but I decided to remove them anyway. This filler figth is an awkard fit
+for GURPS.)
 
 ## Turn 4
 
@@ -413,10 +417,10 @@ the eight survivors were left, having reached a larger size. She doesn't know,
 and doesn't particularly care, why the Asmodeans in the building chose to leave
 their dead buddy lying there. All she cares is he has plenty of loot.
 
-A comemorative Fantasmagorium gold medal clutched in his hand, a money purse, a
-scroll belt with several magical scrolls, and a suit of armor that pings her
-magic sense. She takes the scrolls, and makes a mental note to come back later
-and take the armor.
+A comemorative Fantasmagorium gold-plated medal clutched in his hand, a money
+purse, a scroll belt with several magical scrolls, and a suit of armor that
+pings her magic sense. She takes the scrolls, and makes a mental note to come
+back later and take the armor.
 
 (**GM** After conversion, the souvenir medal is worth $250, and and the money
 is 19 silver coins ($380). The scroll belt is the one from Adventurers: $60,
@@ -505,21 +509,29 @@ that. So we can call the fight right away.
 
 ## Turns 9-10
 
-Raul surrenders and begs for his life. After some discussion, they end up
-accepting it. None of them like Asmodeans very much but they also don't like
-killing surrendered opponents. The party strips him of his gear and possessions,
-which include a magic mace and a magical suit of armor, a gold unholy symbol, a
-bag of gems, and the ancient book he was studying in his office at Area E10.
+Raul surrenders and begs for his life. After some discussion, during which
+Rosalia uses her Healing Gem on Jania, they end up accepting the surrender. None
+of them like Asmodeans very much but they also don't like killing surrendered
+opponents. The party strips him of his gear and possessions, which include a
+magic mace and a magical suit of armor, a gold unholy symbol, a bag of gems, and
+the ancient book he was studying in his office at Area E10.
 
 The party ends up locking Raul in the office, after checking that he can't
 escape through the boarded-up window. His gear and treasure they store behind
 the counter here, to take home later.
 
 No one picks up his armor or weapons right now, as they don't want to use gear
-festooned with Asmodean marks. They're going to stash them in Area E9 for now
-and "clean" them later, after they're done with this place.
+festooned with Asmodean marks. They're going to stash them in Area E9 for
+retrieval and "cleaning" after they're done with this place.
 
+## Turn 11
 
+Once again ready to proceed, the party returns to Area E6, where Urist uses the
+secret combination on the mechanism disguised by Aroden's statue and opens up
+the stairs to the Many Steps Monastery.
+
+This concludes this level of the dungeon, and this scene of the adventure. We'll
+make a new one in our next post.
 
 
 # [Player] Loot Tally
