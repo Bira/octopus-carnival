@@ -34,6 +34,21 @@ There's a more detailed [Intro][1] post here.
 
 - Scene 08
   - [Kossrani][9]
+  - [CCG Thug][2]
+
+- Scene 09
+  - No combat!
+
+- Scene 10
+  - No combat!
+
+- Scene 11
+  - [Dottari Guard][3]
+  - Mastiffs: As Large Guard Dog, **Basic Set: Campaigns** p. 457.
+
+- Scene 12
+  - No Combat!
+
 
 # Alphabetical Order
 
@@ -53,10 +68,13 @@ There's a more detailed [Intro][1] post here.
   - Giant Rat: see **DF Monsters** p. 30
 
 - K
-  [Kossrani][9]
+  - [Kossrani][9]
 
 - L
   - [Lemure][7]
+
+- M
+  - Mastiff: As Large Guard Dog, **Basic Set: Campaigns**, p. 457.
 
 - N
   - [Nox and Mephiry][4]
