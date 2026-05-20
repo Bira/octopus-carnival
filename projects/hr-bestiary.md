@@ -99,4 +99,4 @@ There's a more detailed [Intro][1] post here.
 [7]: {{ "/2026/03/26/hr-bestiary-lemure.html" | relative_url }}
 [8]: {{ "/2026/03/31/hr-bestiary-blosodriette.html" | relative_url }}
 [9]: {{ "/2026/04/23/hr-bestiary-kossrani.html" | relative_url }}
-[10]: {{ "/2026/05/20/hr-bestiary-redactod.html" | relative_url }}
+[10]: {{ "/2026/05/20/hr-bestiary-redactor.html" | relative_url }}
