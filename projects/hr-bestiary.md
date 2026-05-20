@@ -49,11 +49,16 @@ There's a more detailed [Intro][1] post here.
 - Scene 12
   - No Combat!
 
+- Scene 13
+  - Skunk Ape Skeletons: As Skeleton, **DF: Monsters** p. 47, with +4 ST.
+  - [Asmodean Redactor][10]
+
 
 # Alphabetical Order
 
 - A
   - [Asmodean Dark Adept][5]
+  - [Asmodean Redactor][10]
 
 - B
   - [Blosodriette][8]
@@ -79,6 +84,9 @@ There's a more detailed [Intro][1] post here.
 - N
   - [Nox and Mephiry][4]
 
+- S
+  - Skunk Ape Skeletons: As Skeleton, **DF: Monsters** p. 47, with +4 ST.
+
 - T
   - [Tar Devil Guard][6]
 
@@ -91,3 +99,4 @@ There's a more detailed [Intro][1] post here.
 [7]: {{ "/2026/03/26/hr-bestiary-lemure.html" | relative_url }}
 [8]: {{ "/2026/03/31/hr-bestiary-blosodriette.html" | relative_url }}
 [9]: {{ "/2026/04/23/hr-bestiary-kossrani.html" | relative_url }}
+[10]: {{ "/2026/05/20/hr-bestiary-redactod.html" | relative_url }}
