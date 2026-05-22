@@ -38,7 +38,7 @@ the previous post. As far as I know the "style over substance" maxim originates
 in this game, not in the books that inspired it. You don't play CP2020 because
 you want to meditate on what the bleak future depicted there says about your
 present. You play it because you want to be a cybered-up badass with an armored
-leather jacket and computerized mirrorshades.
+leather jacket, computerized mirrorshades, and jacked-up reflexes.
 
 From CP2020 on, the word "cyberpunk" began to refer to, well, cybered-up punks
 in the minds of roleplayers[^2]. Now they had a specific look they had to copy
@@ -56,7 +56,7 @@ Edition was published in 2005. They tried to modernize the look of the game
 somewhat, with the introduction of powerful mobile devices and ubiquitous
 wireless networking. The cries of "this is not Shadowrun/this is not cyberpunk"
 from traditionalist fans could be heard around the world, even though the
-technology imagined in that edition was quite prescient.
+technology imagined in that edition was quite prescient in some ways.
 
 ### Cyberware Makes You Less Human
 
@@ -91,7 +91,7 @@ abomination; yes, that nose piercing also costs you a bit of your soul.
 This particular barnacle became so associated with the cyberpunk genre as a
 whole that it seems to have ended up as one of the foundational grievances of
 transhumanism, which reacted to it by basically agreeing that augmentations make
-you less human, but then saying that being human wasn't all that to begin
+you less human, but then saying that being human wasn't all that great to begin
 with. In real life, of course, you have plenty of stories of people who felt
 _more_ human after acquiring prosthetic limbs or other therapeutic implants.
 
@@ -102,10 +102,10 @@ that own them with a favorable eye. William Gibson spells it out right there on
 the pages of Count Zero: "the very rich are no longer remotely human." It's not
 implants that make you less human in cyberpunk, it's _capital_.
 
-However, these are games written in the late-80s/early-90s US, right around when
-Francis Fukuyama made his "end of history" speech. Their authors probably
-figured they wouldn't sell a lot of copies if their corebooks said "capital is
-evil". And that's how megacorporations were born.
+However, these are games written in and for the late-80s/early-90s US, right
+around when Francis Fukuyama made his "end of history" speech. Their authors
+probably figured they wouldn't sell a lot of copies if their corebooks said
+"capital is evil". And that's how megacorporations were born.
 
 In 90's cyberpunk RPGs, it's not capitalism that's the source of injustice or
 oppression, it's a small set of very large corporations that perverted
@@ -116,8 +116,9 @@ company and get sued. And their schemes are over-the-top to emphasize that
 they're worse than upstanding real-world corporate citizens like Enron or
 Haliburton, because who could imagine them doing any real evil?
 
-You can guess why this particular trope has been getting less and less
-believable as time goes by.
+The unbelievable bit isn't having evil megacorps, it's making those evil
+megacorps the sole entities responsible for all the evils inherent to late-stage
+capitalism.
 
 ### Cataclysms Galore!
 

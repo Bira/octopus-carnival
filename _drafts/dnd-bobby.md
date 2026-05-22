@@ -18,12 +18,12 @@ finds themselves in front of an actual portal. He's 8 years old when the show
 starts.
 
 Our version of Bobby is a 62-point character using the Apprentice _Fast_ Delver
-template as a base. He's a Strong delver at heart, but he's also tiny. The
-Barbarian package would make him an expert at wilderness survival but that's out
-of character for him. So instead of taking that template we're picking two
-upgrade modules: Fifth Level Fighter and Veteran, which do a good job of
-portraying Bobby's reckless bravery and his willingness to hit things lots and
-lots of times.
+template as a base. He's a Strong delver at heart, and strong for his size, but
+he's also tiny. The Barbarian package would make him an expert at wilderness
+survival but that's out of character for him. So instead of taking that template
+we're picking two upgrade modules: Fifth Level Fighter and Veteran, which do a
+good job of portraying Bobby's reckless bravery and his willingness to hit
+things lots and lots of times.
 
 Bobby is a perfect fit for the Fortune's Fool disadvantage module, and I made
 custom picks for the other half.

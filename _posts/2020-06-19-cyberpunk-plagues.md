@@ -52,4 +52,4 @@ growing. THS has far too much faith in its Very Smart Neoliberals to suggest
 such a thing, and it sounds too bleak even for a 90's-style dystopia.
 
 [^1]: If you're a Fifth Wave eloi.
-[1]: {{ "/2019/11/16/on-transhuman-space.html" | relative_url }}
+[1]: {{ "/2019/11/06/on-transhuman-space.html" | relative_url }}
