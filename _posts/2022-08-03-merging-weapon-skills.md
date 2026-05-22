@@ -73,8 +73,8 @@ so they can just drop a point in this one instead.
 
 The Jutte and the Sai get both a +2 for disarm attempts and fencing parries
 without any special stance switches required. They are rare enough in my games
-that I don't believe it will be a problem. And by "rare" I mean no one has taken
-these weapons and no one has tried a disarm yet.
+that I don't believe it will be a problem. And by "rare" I mean no one has
+taken these weapons and no one has tried a disarm yet.
 
 ### One-Handed Sword (DX/Average)
 

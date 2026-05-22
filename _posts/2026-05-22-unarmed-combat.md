@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GURPS Unarmed Combat Explained"
+title: "GURPS Unarmed Combat Streamlined"
 tags:
     - gurps
 ---
