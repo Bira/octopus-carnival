@@ -5,9 +5,110 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 May 2026 18:30:54 +0000</pubDate>
-    <lastBuildDate>Wed, 20 May 2026 18:30:54 +0000</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 12:29:06 +0000</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 12:29:06 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>GURPS Unarmed Combat Explained</title>
+        <description>&lt;p&gt;Back in 2022 I wrote about &lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;merging weapon skills&lt;/a&gt;, but I was thinking about
+merging unarmed combat ones even before that. The reasons are the same: to
+remove redundancies and simplify skill selection, particularly in games where
+unarmed combat is not a big focus.&lt;/p&gt;
+
+&lt;p&gt;There’s also another “philosophical” reason for me as well: the current spread
+of unarmed skills is perhaps GURPS’ last vestige of a very Nineties view of
+martial arts styles. Karate is better than Boxing is better than Brawling, and
+knowing one of them does not help with learning another one at all. The same
+goes for the grappling skills.&lt;/p&gt;
+
+&lt;p&gt;GURPS 4th Edition tried to move away from this a bit by having more defined
+niches for each skill, but I think that’s kind of the opposite of what I want to
+do. Let’s have styles be represented by the actual style rules, and let’s make
+the skills into a simple set of building blocks whose names are free of baggage.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-skills&quot;&gt;The Skills&lt;/h2&gt;
+
+&lt;p&gt;In campaigns where the rules of this post are in effect, I want to use the
+following list of unarmed combat skills.&lt;/p&gt;
+
+&lt;p&gt;None of the skills have a default, but you can still take part in unarmed combat
+using your unmodified DX. In this case, you have a -3 penalty to parry
+non-thrusting melee attacks.&lt;/p&gt;
+
+&lt;h3 id=&quot;unarmed-striking-dxaverage&quot;&gt;Unarmed Striking (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;This skill combines &lt;strong&gt;Brawling&lt;/strong&gt;, &lt;strong&gt;Boxing&lt;/strong&gt;, and &lt;strong&gt;Karate&lt;/strong&gt;. It represents
+training in forcefully hitting people with your appendages. Roll against skill
+to hit, or against skill -2 for a kick.&lt;/p&gt;
+
+&lt;p&gt;If you know this skill at DX level or higher, you can parry up to two attacks
+per turn without penalty, one per free hand. There is no penalty to parry
+non-thrusting attacks, and you gain a +3 bonus if you retreat instead of a +1.&lt;/p&gt;
+
+&lt;p&gt;If you know this skill at DX+1 level, you get +1 per die to the damage of your
+unarmed strikes. This increases to +2 per die at DX+2 level or higher.&lt;/p&gt;
+
+&lt;p&gt;Any techniques that defaulted to one of the original skills now default to
+Unarmed Strike instead, using the most favorable among the listed defaults.&lt;/p&gt;
+
+&lt;h3 id=&quot;grappling-dxaverage&quot;&gt;Grappling (DX/Average)&lt;/h3&gt;
+
+&lt;p&gt;This skill combines &lt;strong&gt;Judo&lt;/strong&gt;, &lt;strong&gt;Wrestling&lt;/strong&gt;, and the grappling parts of &lt;strong&gt;Sumo
+Wrestling&lt;/strong&gt;. It’s training in performing holds, locks, throws and takedowns, and
+on avoiding the same.&lt;/p&gt;
+
+&lt;p&gt;If you know this skill at DX level or higher, you can parry up to two attacks
+per turn, one per free hand. There is no penalty to parry non-thrusting attacks,
+and you gain a +3 bonus if you retreat instead of a +1.&lt;/p&gt;
+
+&lt;p&gt;If you know this skill at DX+1 level, you get +1 to your ST for all
+grappling-related rolls. This increases to +2 at DX+2 or higher.&lt;/p&gt;
+
+&lt;p&gt;If you use Fantastic Dungeon Grappling, you get a +1 per die bonus to your
+Control Point rolls at skill level DX+1, and +2 per die at DX+4 or higher.&lt;/p&gt;
+
+&lt;p&gt;Any techniques that defaulted to one of the original skills now default to
+Grappling, using the most favorable among the listed defaults.&lt;/p&gt;
+
+&lt;h3 id=&quot;shove-dxeasy&quot;&gt;Shove (DX/Easy)&lt;/h3&gt;
+
+&lt;p&gt;This skill is just the “shoves and slams” bits of &lt;strong&gt;Sumo Wrestling&lt;/strong&gt;. Use it
+instead of DX when performing or resisting these maneuvers.&lt;/p&gt;
+
+&lt;p&gt;If you know the skill at DX+1, you get +1 to any related ST rolls, and +1 per
+die of damage on slams. These bonuses increase to +2 at DX+2 or better.&lt;/p&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+
+&lt;p&gt;Yes, I an essentially taking the best parts of each skill and mashing them
+together. Yes, this does make unarmed combat skills both cheaper and more
+appealing. No, I don’t think it makes them better than armed combat.&lt;/p&gt;
+
+&lt;p&gt;Unarmed Striking gives you a lot despite being Average, but so does any weapon
+skill, including the new-and-improved Knife from our &lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;post on weapon
+skills&lt;/a&gt;. We’re still in a place where you need to invest plenty of points in
+support abilities if you want to catch up to weapon users. Without them, you
+still deal way less damage and have a chance a chance to wreck your limbs by
+striking someone in armor or failing to parry an armed attack.&lt;/p&gt;
+
+&lt;p&gt;The damage bonus progression in Unarmed Striking is slightly nerfed compared to
+the one from Karate, but that’s balanced by the skill being easier. To get that
++2 per die for this skill you end up spending the same amount of points you
+would for Karate.&lt;/p&gt;
+
+&lt;p&gt;Grappling &lt;em&gt;does&lt;/em&gt; allow you to perform defensive Judo Throws for a price that’s 4
+points cheaper. I don’t see this as a problem.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/05/22/unarmed-combat.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/05/22/unarmed-combat.html</guid>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Bestiary: Asmodean Redactor</title>
@@ -3169,253 +3270,6 @@ our scene.&lt;/p&gt;
         <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/04/08/lphr-scene-07.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/08/lphr-scene-07.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 06</title>
-        <description>&lt;h1 id=&quot;author-intro&quot;&gt;[Author] Intro&lt;/h1&gt;
-
-&lt;p&gt;Our last scene in this &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt; saw the PCs complete the
-Livery delve and make for the Long Roads Coffee House as previously arranged
-with Rexus. Now we’ll find out what happens there.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
-
-&lt;p&gt;PCs were largely in control of the previous scene and dominated the fight
-against Blosodriette, so we can reduce the Chaos Factor back down to 5.&lt;/p&gt;
-
-&lt;p&gt;There were no changes to our lists of threads and characters. The Livery delve
-advanced The Path, but did not eliminate it. All new characters were monsters or
-foes, and were killed on the same scenes where they were introduced.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Path ***&lt;/li&gt;
-  &lt;li&gt;Find Shensen (Rosalia, Arcturus)&lt;/li&gt;
-  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
-  &lt;li&gt;Get Organized (Jade)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Dottari&lt;/li&gt;
-  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
-  &lt;li&gt;The Red Jills&lt;/li&gt;
-  &lt;li&gt;The Asmodeans&lt;/li&gt;
-  &lt;li&gt;The Three-Legged Devil (location)&lt;/li&gt;
-  &lt;li&gt;The Livery Grimples&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I roll a d10 here and get a 2. That’s an Interrupt Scene, which means something
-happens on the way to the coffee house. I have a pretty good idea of what it
-could be, but let’s consult the Meaning Table for Actions in Mythic v2 just to
-for kicks. Result: “Punish Freedom”. Yeah, there’s plenty of that going around
-these days.&lt;/p&gt;
-
-&lt;p&gt;My first instinct is to use the Unsanctioned Excruciation encounter, but we’re
-still on day one of the adventure here, so that might be too early. Let’s do
-something a bit different from another combat.&lt;/p&gt;
-
-&lt;p&gt;From the Livery site it’s a straight shot north to Bleakbridge, and once they
-cross that they can head West until they’re at the Coffee House. Let’s say
-there’s a dottari patrol, four of them, near the bridge crossing. They’re
-ostensibly looking for people who took part on the riot, but what they’re really
-looking for is excuses to harass passers-by. They don’t recognize our party from
-the riot, but since they’re carrying boxes and look a bit frazzled and dirty
-from all that delving, they will be stopped and briefly questioned. So this is a
-social encounter.&lt;/p&gt;
-
-&lt;p&gt;These guards are Intolerant and react at -3 to anyone who isn’t
-obviously a devil-worshipping fascist. It seems Kintargo doesn’t actually have a
-lot of laws preventing citizens from carrying weapons, but I’m still gonna rule
-the party is well-armed enough that these particular guards react at a further
--2 to them. Gotta give our socialites a workout.&lt;/p&gt;
-
-&lt;p&gt;I’ll make a reaction roll for their initial impression upon seeing the PCs in
-the distance, and another one once interaction begins. Jade’s Impressive looks
-help offset the negative modifiers for the first roll, but no other modifier
-does as those require more interaction. The final result here is a 7, a Poor
-reaction.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-dottari-bullies&quot;&gt;[Player] Dottari Bullies&lt;/h1&gt;
-
-&lt;p&gt;So there our heroes are, walking along the street and trying not to stand
-out. There are some other people about but not too many. Arcturus is carrying
-two boxes, Urist is carrying one. The guards have just finished harassing some
-other pedestrian for a bribe. They spot our heroes and decide to harass them
-next.&lt;/p&gt;
-
-&lt;p&gt;They’re very cocky, thiking that these strangers look like troublemakers and
-that they’re either going to be a nice bust or they’ll pay handsomely to go on
-their way. Y’know, “Look what we have here!” “Where do you think you’re going
-with that box?” and so on.&lt;/p&gt;
-
-&lt;p&gt;Before anyone else can mount a reaction, Rosalia walks up to them and begins
-talking. And talking. And talking. She doesn’t quite know where she’s going when
-she starts, but it turns into a complicated yarn about a delivery to a boss who
-will be very mad if they’re late because he wants to sell this stuff to an
-Asmodean big shot and you know how they get when they don’t get what they want
-and…&lt;/p&gt;
-
-&lt;p&gt;This is obviously Fast-Talk, and since it’s an Influence roll it will take the
-place of that second reaction roll I mentioned earlier. Combining Rosalia’s
-usual bonuses to the reaction penalty mentioned above, that means she rolls at
--1. The dottari have a Will of 10, as per their stat block. She wins by 4, which
-means the slightly stunned guards motion then past. Rosalia keeps talking for a
-while until Jania tells her the guards can no longer hear them.&lt;/p&gt;
-
-&lt;p&gt;Though we technically ended a scene I don’t feel like doing any explicit
-bookkeeping for it. Nothing changed.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-the-long-roads-coffee-house&quot;&gt;[Player] The Long Roads Coffee House&lt;/h1&gt;
-
-&lt;p&gt;The rest of the walk goes without incident. They arrive at the coffee house to
-find Rexus talking to its proprietor, a plump halfling lady. When they notice
-the PCs have arrived, the halfing goes to greet them as old friends and invites
-everyone to her office in the back so they can “catch up on old times”. Most of
-the party understands immediately that this is an excuse to go somehwere
-private, and Arcturus goes along because he sees the lady prepping a huge tray
-of pastries to take with her.&lt;/p&gt;
-
-&lt;p&gt;Once in the office, Rexus introduces her as Laria Longroad, the owner of the
-coffee house and also one of the most well-connected Bellflower Network
-operatives in Kintargo. Laria and Urist alread knew each other and share a nod
-of recognition. Jade and Arcturus can see that the “plump cook” exterior hides
-the kind of muscle that only comes from a life of hard fighting. Jania can see
-this is a canny person with a lot of experience on the shady side of the
-street…&lt;/p&gt;
-
-&lt;p&gt;Laria is generally happy that the PCs came along and saved Rexus. Her past
-interactions with him and Urist predispose her to trusting the party, and every
-PCs sees a reason to befriend her now, so I imagine that part goes well. They
-discuss their reasons for wanting to restart the Silver Ravens, and Rosalia
-regales Laria with the dale of their daring delve under the Livery.&lt;/p&gt;
-
-&lt;p&gt;The halfling tells them about the general state of the city’s resistance
-elements. Lord Mayor Jilia Bailinus is missing. Laria doesn’t believe she would
-flee the city as the Thrune rumor mill says, so she fears for Jilia’s
-safety. Every other resistance-oriented group in the city seems to have gone
-silent since the Night of Ashes, either lying low or destroyed.&lt;/p&gt;
-
-&lt;p&gt;Her own Bellflower Network decided to pull out of town for the time being, as
-the risk of their secret routes being discovered was considered too great. Laria
-chose to stay to keep an eye on things and to help them return in time.&lt;/p&gt;
-
-&lt;p&gt;She knows the Sacred Order of Archivists was destroyed, a fact of which Urist is
-only too aware. Of the other “illegal” religions in town, she guesses the cult
-of Sarenrae took a major blow when Shensen was disappeared and her house burned
-down (Rosalia makes a pained face at that). Of the cult of Milani, goddess of
-righteous rebellion, there is no sign. They operated under the name “Rose of
-Kintargo”, but have gone completely silent.&lt;/p&gt;
-
-&lt;p&gt;So yeah, things are pretty bad. It will be up to the Ravens to rally the
-survivors here, as any who are still intact are too afraid to take the
-initiative. Laria is more than willing to help them with that, and she’ll start
-by letting the PCs stay in the bunkroom on the second floor of the building, and
-allowing them to use the secret basement as a base. It was normally used for
-Bellflower ops as a temporary place to store refugees and “harmless contraband”
-before they were shipped out of town. There is just one issue she’d like the PCs
-to look into before they can use the place though… though it’s best if the
-current occupants explain it.&lt;/p&gt;
-
-&lt;p&gt;Laria takes the PCs downstairs after they’ve left their stuff in the bunkroom,
-and calls out to the current occupants she mentioned: a group of three tengu
-women, who come out warily. Jade steps forward to greet them.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Reaction roll time! 3d6+6 gives us a 14, which is Good.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Jade is soon able to dispel their initial mistrust, and after brief
-introductions she knows the trio are sisters, traveling away from Riddleport for
-reasons that aren’t relevant right now. The eldest, who speaks for the group, is
-named Korva. They were being ferried by one Nan Comerivos, another Bellflower
-Network agent. He went out to find a buyer for the small shipment of Varisian
-cloth he was also smuggling, hoping to use the money to leave town with the
-sisters. This was a few days ago.&lt;/p&gt;
-
-&lt;p&gt;The sisters want to look for him, and so does Laria, as he’s a friend. However,
-the PCs are in a much better position to do it. They know the city a lot better
-than Korva, and they can move about without drawing suspicion a lot better than
-Laria. The sooner Comerivos is back and safe, the sooner they can stop sharing
-the space with the tengu refugees…&lt;/p&gt;
-
-&lt;p&gt;Before any more “practical” reasons can be stated for them to take this job,
-Arcturus effusively agrees. But of course we’ll look for your friend! It’s the
-heroic thing to do! The others either feel the same or agree those more
-practical reasons are worth it (Jania).&lt;/p&gt;
-
-&lt;p&gt;Before they can do anything about the underground, though, the party really
-feels they should go up to the bunkroom and finally distribute the loot! It’s
-getting dark, so the party decides begin their search in the morning when
-everyone involved is hopefully well-rested.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-loot-loot-loot&quot;&gt;[Player] Loot Loot Loot&lt;/h1&gt;
-
-&lt;p&gt;First off, we have the stuff that’s worth money. I kinda want to move along
-quicky so let’s say Rosalia and Jania can accurately evaluate its value over the
-time they spend sorting it.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A platinum signet ring worth $2500, found a the livery’s ground level.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A gold signet ring worth $1500, from Blosodriette.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;An embroidered silk scarf worth $400, also from the imp.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A pouch with a dozen pearls worth $1000 each, from the boxes.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;That’s a lot of money even taking into account the fact that this stuff needs to
-be sold for coin. They decide that Jania will try to sell the jewelry tomorrow,
-and Rosalia will try to sell the pearls.&lt;/p&gt;
-
-&lt;p&gt;Now we have the permanent items. Laria would have the skills necessary to evalue
-the weapons’ mundane properties, and Rexus can help with identifying the magic
-on them, if any. Full stats are in the previous file.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;A Balanced Silver Coated Dwarven Mace.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A Balanced Pistol (from Pyramid #3/36).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A Suit of Light Leather Armor enchanted with Fortity 1.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Rosalia gets the pistol, and makes a note to buy ammo as soon as possible. Urist
-gets the mace, which is better than the axe he’s currently using. Jade gets the
-armor, which I’m going to say is black with raven motifs. She’s our
-least-armored front-liner, so she needs it.&lt;/p&gt;
-
-&lt;p&gt;Finally, the fireball wand and scrolls. I guess they decide to leave those
-stashed at the bunkroom for now.&lt;/p&gt;
-
-&lt;p&gt;This ends our scene.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/04/02/lphr-scene-06.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/02/lphr-scene-06.html</guid>
         
         <category>dungeon-fantasy</category>
         
