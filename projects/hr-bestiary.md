@@ -52,6 +52,7 @@ There's a more detailed [Intro][1] post here.
 - Scene 13
   - Skunk Ape Skeletons: As Skeleton, **DF: Monsters** p. 47, with +4 ST.
   - [Asmodean Redactor][10]
+  - [Raul Azvernathy][11]
 
 
 # Alphabetical Order
@@ -84,6 +85,9 @@ There's a more detailed [Intro][1] post here.
 - N
   - [Nox and Mephiry][4]
 
+- R
+  - [Raul Azvernathy][11]
+
 - S
   - Skunk Ape Skeletons: As Skeleton, **DF: Monsters** p. 47, with +4 ST.
 
@@ -100,3 +104,4 @@ There's a more detailed [Intro][1] post here.
 [8]: {{ "/2026/03/31/hr-bestiary-blosodriette.html" | relative_url }}
 [9]: {{ "/2026/04/23/hr-bestiary-kossrani.html" | relative_url }}
 [10]: {{ "/2026/05/20/hr-bestiary-redactor.html" | relative_url }}
+[11]: {{ "/2026/05/28/hr-bestiary-raul.html" | relative_url }}
