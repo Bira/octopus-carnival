@@ -5,9 +5,139 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 May 2026 15:03:06 +0000</pubDate>
-    <lastBuildDate>Thu, 28 May 2026 15:03:06 +0000</lastBuildDate>
+    <pubDate>Sun, 31 May 2026 18:29:47 +0000</pubDate>
+    <lastBuildDate>Sun, 31 May 2026 18:29:47 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Applying my house rules for combat skills to our Hell&apos;s Rebels PCs</title>
+        <description>&lt;p&gt;A few years back I made a post about &lt;a href=&quot;/octopus-carnival/2026/05/22/unarmed-combat.html&quot;&gt;merging armed combat skills&lt;/a&gt; in
+GURPS. Much more recently I made another one about &lt;a href=&quot;/octopus-carnival/2026/05/22/unarmed-combat.html&quot;&gt;merging unarmed combat
+skills&lt;/a&gt;. That one sat on my drafts folder for a long time, but I finally
+decided to publish it as it was.&lt;/p&gt;
+
+&lt;p&gt;If you’re following my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels Solo Campaign&lt;/a&gt; reports, you might have
+noticed I’m not using either of these house rules in the game. That’s because I
+started out using GURPS Character Sheet to make my PCs and I found that program
+to not be very receptive to house rules that aren’t already coded in.&lt;/p&gt;
+
+&lt;p&gt;But if I was going to use these rules, how would they have changed my PCs? Let’s
+take a look at the starter version of their charater sheets and try to figure
+out the changes.&lt;/p&gt;
+
+&lt;h1 id=&quot;rosalia-savory-the-mysterious-satirist&quot;&gt;Rosalia Savory, the Mysterious Satirist&lt;/h1&gt;
+
+&lt;p&gt;Rosalia basically doesn’t change. &lt;strong&gt;Saber&lt;/strong&gt; becomes &lt;strong&gt;Fencing&lt;/strong&gt; at the same
+level, and she can use other fencing weapons if needed. She has no other
+physical combat skills, so we’re done here.&lt;/p&gt;
+
+&lt;p&gt;Her new skill line would then be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fencing (A) DX+2 {8} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;jania-moonshadow-the-phantom-thief&quot;&gt;Jania Moonshadow, The Phantom Thief&lt;/h1&gt;
+
+&lt;p&gt;Jania is in the exact same situation. Her &lt;strong&gt;Smallsword&lt;/strong&gt; becomes &lt;strong&gt;Fencing&lt;/strong&gt;,
+and her possible weapon selection broadens a little, and that’s it.&lt;/p&gt;
+
+&lt;p&gt;Her new skill is:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fencing (A) DX+3 {12} - 17&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;urist-stortebeker-the-last-archivist&quot;&gt;Urist Stortebeker, The Last Archivist&lt;/h1&gt;
+
+&lt;p&gt;Urist enjoys the benefits of the new &lt;strong&gt;Axe/Mace&lt;/strong&gt; skill, so he would be able to
+use flails with that same skill at a small penalty, but his character sheet
+would not even need to change since the new skill has the same name. However,
+this would definitely make me buy him a flail and the associated technique as
+soon as I could, as the benefits over a standard mace are clear.&lt;/p&gt;
+
+&lt;h1 id=&quot;jade-irinka-the-sixth-raven&quot;&gt;Jade Irinka, the Sixth Raven&lt;/h1&gt;
+
+&lt;p&gt;Jade has a “sword and pistol” kind of build but her focus is indubitably on the
+sword, with a very high &lt;strong&gt;Saber&lt;/strong&gt; skill. She also has minimal training in
+&lt;strong&gt;Wrestling&lt;/strong&gt; for emergencies. This is a typical DF Swashbuckler setup - she’s
+deadly when using her chosen weapon, and her greatest weakness is losing that
+weapon.&lt;/p&gt;
+
+&lt;p&gt;As a result, she’s one of the characters who changes the least. Her &lt;strong&gt;Saber&lt;/strong&gt;
+skill becomes &lt;strong&gt;Fencing&lt;/strong&gt;, her &lt;strong&gt;Wrestling&lt;/strong&gt; becomes &lt;strong&gt;Grappling&lt;/strong&gt;, and there is
+zero need to shuffle points around as she still needs the Weapon Adaptation perk
+to use a backsword with Fencing.&lt;/p&gt;
+
+&lt;p&gt;She does gain a few advantages with the skill merge, though. She can now pick up
+an fencing weapon and be effective with it even if her Weapon Master doesn’t
+apply to the weapon. And she gains access to Judo parries when unarmed, or with
+an empty off-hand.&lt;/p&gt;
+
+&lt;p&gt;Her new skills are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fencing (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Grappling (A) DX-1 {1} - 14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;arcturus-pankrator-the-knight-of-the-deep&quot;&gt;Arcturus Pankrator, the Knight of the Deep&lt;/h1&gt;
+
+&lt;p&gt;Our pal Art changes the most! He has &lt;strong&gt;Judo&lt;/strong&gt;, &lt;strong&gt;Karate&lt;/strong&gt;, &lt;strong&gt;Wrestling&lt;/strong&gt; and
+&lt;strong&gt;Knife&lt;/strong&gt;, all of which were deeply affected by our house rules. We’re going to
+have to do some point shuffling.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wrestling&lt;/strong&gt; and &lt;strong&gt;Judo&lt;/strong&gt; merge into &lt;strong&gt;Grappling&lt;/strong&gt;, which is DX/Average. We
+could lump their points together and give Art Grappling-21, but I think 20 is
+good enough as a starting skill level. So we get 4 free points here, and Art
+gets excellent Judo parries and throws from his new skill in addition to
+everything he could already do with it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Knife&lt;/strong&gt; becomes… &lt;strong&gt;Knife&lt;/strong&gt;. It’s the new and improved DX/Average version,
+which means his skill level goes down to 15. He does gain access to those sweet
+Main-Gauche fencing parries though.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Karate&lt;/strong&gt; becomes &lt;strong&gt;Unarmed Striking&lt;/strong&gt;, which is DX/Average wth pretty much the
+same capabilities. I notice the points spent in his original post are wrong,
+though. He should have either Karate-13 or have spent 2 points on it. But hey,
+once we replace it with Unarmed Striking the level and cose become correct!&lt;/p&gt;
+
+&lt;p&gt;What to do with those 4 points we freed up? How about we put 2 points in Knife
+to bring it up to its former level of 16, 1 in Unarmed Striking to bring it up
+to 15, and 1 in Swimming so we don’t have any “hanging” points in the starter
+character sheet?&lt;/p&gt;
+
+&lt;p&gt;Note that increasing Unarmed Striking here doesn’t give him increased damage
+just yet, as the new breakpoints are DX+1 and DX+2.&lt;/p&gt;
+
+&lt;p&gt;So his new skills become:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Grappling (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Knife (A) DX+1 {4} - 16&lt;/li&gt;
+  &lt;li&gt;Unarmed Striking (A) DX {2} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Arcturus would definitely benefit the most from this merge, though all of the
+others would also get some benefit in the form of slightly increased
+capabilities. I’m tempted to eventually enact this change in the game, if I can
+find a way to program them into CGS.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/05/31/hells-rebels-pcs-house-style.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/05/31/hells-rebels-pcs-house-style.html</guid>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Bestiary: Raul Azvernathy, Asmodean Cleric</title>
@@ -2761,393 +2891,6 @@ scroll.&lt;/p&gt;
         <category>lets-play</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 1, Scene 08</title>
-        <description>&lt;h1 id=&quot;author-intro&quot;&gt;[Author] Intro&lt;/h1&gt;
-
-&lt;p&gt;Our last scene in our &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Hell’s Rebels solo campaign&lt;/a&gt; was an investigation
-where the party managed to track down the whereabouts of Nan Comerivos, the
-half-elf smuggler they need to rescue. They found out he’s being held prisoner
-at the Salix Salt Works, which was taken over by mercenaries in service of
-Thrune and is being used to hold “low-threat” prisoners.&lt;/p&gt;
-
-&lt;p&gt;This scene will then be about planning and executing the rescue mission.&lt;/p&gt;
-
-&lt;p&gt;It has been some months since I last played, and a lot of that was due to
-Foundry being cantakerous last time. I was trying to find some ready made maps
-for Hell’s Rebels, because I didn’t want to keep redrawing them in
-Dungeondraft. I found a whole module with lots of bells and whistles covering
-all of Adventure 01, but it had been done for a much older version of Foundry. I
-remember spending like half a day trying to get the two to play together, but in
-the end I gave up in frustration.&lt;/p&gt;
-
-&lt;p&gt;And now I sat town in front of it again, updated to the latest stable version,
-and just imported the manually extracted map image from the old module into the
-one I’m using to play. Total time to do the thing I had been dreading for
-months: 5 minutes.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-mythic-bookkeeping&quot;&gt;[GM] Mythic Bookkeeping&lt;/h1&gt;
-
-&lt;p&gt;While some unpredicted things happened last scene, the PCs also managed to
-shorcut a long investigation, so I’m going to keep the chaos factor the same: 5.&lt;/p&gt;
-
-&lt;p&gt;We add “Prisoners of Salt” to our threads, as we should have done already last
-scene. We advanced this thread then, and we expect to complete it in this
-file. Let’s add Nan Comerivos &amp;amp; Friends to the list of characters, as well as
-Kossrani &amp;amp; Friends. These are the prisoners and their guards, respectively.&lt;/p&gt;
-
-&lt;p&gt;I roll a 2 on the d10. This would normally signal an Interrupt Scene that was
-completely different from our expectations, but let’s be real here, I don’t
-wanna. After all that time being anxious about preparation, I want to do the
-thing I prepared for.&lt;/p&gt;
-
-&lt;p&gt;Let’s try to divine what an &lt;em&gt;altered&lt;/em&gt; scene would look like here, however. If
-it’s something cool I’ll add it in.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;1d10: 6 =&amp;gt; Add an Object&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;2x1d100 on the Descriptions table: 83 &amp;amp; 54 = Positively Less&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;1d100 on the Object Elements table: Protection&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Let’s add a small magic item with protective qualities to the loot
-available. It’s probably being worn by Kossrani, and it’s not armor. Let’s make
-it a Moly Amulet from DF Magic Items p. 9. +5 Magic Resistance when worn,
-$23.600, 0.12kg.&lt;/p&gt;
-
-&lt;p&gt;Kinda expensive compared to what Pathfinder 1 characters should be getting at
-this point, but I don’t care.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Threads&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Path &lt;em&gt;**&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Find Shensen (Rosalia, Arcturus)&lt;/li&gt;
-  &lt;li&gt;Contacting Ms. Docur (Jania)&lt;/li&gt;
-  &lt;li&gt;Get Organized (Jade) *&lt;/li&gt;
-  &lt;li&gt;Prisoners of Salt*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Characters&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Dottari&lt;/li&gt;
-  &lt;li&gt;The Chelish Citizens Group&lt;/li&gt;
-  &lt;li&gt;The Red Jills&lt;/li&gt;
-  &lt;li&gt;The Asmodeans&lt;/li&gt;
-  &lt;li&gt;The Three-Legged Devil (location)&lt;/li&gt;
-  &lt;li&gt;The Livery Grimples&lt;/li&gt;
-  &lt;li&gt;The Tengu Sisters&lt;/li&gt;
-  &lt;li&gt;Nan Comerivos &amp;amp; Friends&lt;/li&gt;
-  &lt;li&gt;Kossrani &amp;amp; Friends&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;gm-preparation&quot;&gt;[GM] Preparation&lt;/h1&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img alt=&quot;A map of the Salix Salt Works, with labeled rooms&quot; src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-prisoners-of-salt.png&quot;/&gt;
-  &lt;figcaption&gt;
-    Here&apos;s our arena for tonight.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;I extracted this map from the original book, it should give us an idea of how
-things are arranted. I had a screenshot that included the tokens but I lost it
-somewhere within the folds of my computer.&lt;/p&gt;
-
-&lt;p&gt;The front entrance is the big gate on the “map north” edge of the courtyard at
-D6. The small outbuilding at D7 is a dormitory for the night shift guards.&lt;/p&gt;
-
-&lt;p&gt;The rooms in the main building are, from top to bottom: Front office (D3), break
-room (D5), supply closet (D4), and a big loading dock/work area (D1) that opens
-into the circular oven (D2). Wet salt is brought in and dry salt is shipped out
-from the big double gate on the southern wall of area D1.&lt;/p&gt;
-
-&lt;p&gt;All external gates and all external doors on the western building are locked,
-but the locks are Basic (+5 to Lockpicking) because this is a commercial
-building and the mercs were too lazy to change the locks. The front office has
-been cleared out to act as a prisoner dormitory (they sleep on rags spread over
-the floor).&lt;/p&gt;
-
-&lt;p&gt;The CCG Thugs present here are not minions, but they still use their standard
-stats. Kossrani is based on the Brute template and is fairly well-equipped.&lt;/p&gt;
-
-&lt;p&gt;Early in the morning, the salt works gets a big delivery of wet salt on a
-cart. Early in the evening, another cart comes to pick up the dried salt. Late
-at night, a smaller cart comes in to pick up the salt Kossrani is skimming off
-the top to sell on the black market. All of this happens on the southern loading
-gate.&lt;/p&gt;
-
-&lt;p&gt;There are also no kitchens or anything in the place, so they take meal
-deliveries in a few hours after the early morning salt delivery and a couple of
-hours before the evening pickup. These are delivered by a dottari patrol, and
-consist of decent food for the guards and crappy rations for the prisoners.&lt;/p&gt;
-
-&lt;p&gt;The prisoners work with the salt during the day and sleep in the front office at
-night. There’s always at least one guard keeping an eye on them. Kossrani and
-four thugs keep watch by day while three thugs sleep. Those three keep watch at
-night while the others sleep. Kossrani wakes up at night to deliver his
-clandestine salt, then goes back to sleep.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-planning&quot;&gt;[Player] Planning&lt;/h1&gt;
-
-&lt;p&gt;I think it’s fair to assume that the PCs would have a planning meeting in the
-Wasp Nest now that they know where Comerivos is.&lt;/p&gt;
-
-&lt;p&gt;My impulse as the player who has read the adventure is to have them watch the
-place for a day to see who comes and goes, which would let them figure out the
-salt delivery schedule, and use a delivery to storm the place. But I don’t want
-to go straight that way, as in a more “traditional” game the players wouldn’t
-know all this beforehand. Plus the PC’s personalities might incline them towards
-alternate approaches. How about we try to simulate these discussions using
-Mythic and GURPS?&lt;/p&gt;
-
-&lt;p&gt;First, let’s look at our PCs, and what their personalities and traits suggest
-they’d prefer.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Arcturus&lt;/strong&gt; is Impulsive, so obviously he wants to charge in right now, beat
-everyone up, and heroically rescue the prisoners!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jade&lt;/strong&gt; is concerned with doing this without risking harm to the prisoners,
-and a Tactics roll tells her it’s best to watch the place for a while to spot
-openings in their security, and &lt;em&gt;then&lt;/em&gt; exploit those to charge in and rescue
-the prisoners.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jania&lt;/strong&gt; is lazy and overconfident, so she’s in favor of doing what has
-worked for her in the past: sneak in at night, pick the locks, and spring the
-prisoners quietly.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Rosalia&lt;/strong&gt; is also Impulsive, and is with Arcturus all the way.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Urist&lt;/strong&gt; is with Jade, as he’s concerned about potential harm to the
-prisoners.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I roll &lt;strong&gt;Diplomacy&lt;/strong&gt; for Jade with some aid from Urist’s &lt;strong&gt;Public Speaking&lt;/strong&gt;,
-but I fail! Let’s say they arrive at a compromise here. They’ll forgo lengthy
-scouting but they’ll do a night-time raid because that’s when the guards are
-likely to be less alert.&lt;/p&gt;
-
-&lt;p&gt;They’ll get in through the side gate and then the small side door towards the
-back of the building, letting Jania open both and staying quiet for as long as
-possible. Once inside, Arcturus and Jade will focus on fighting and distracting
-the guards while the rest of them get the prisoners out.&lt;/p&gt;
-
-&lt;p&gt;That’s it for the plan. No time for anything more elaborate, no time for
-shopping expeditions. They move tonight.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-reacting-to-the-plan&quot;&gt;[GM] Reacting to the Plan&lt;/h1&gt;
-
-&lt;p&gt;If the party is going to break in at night, I need to change the position of the
-enemies on the map. Kossrani will be in the sleeping quarters, and a mook guard
-will take his place.&lt;/p&gt;
-
-&lt;p&gt;Sleeping defenders don’t have their armor on, but can fetch their weapons with a
-single Ready maneuver after getting out of bed.&lt;/p&gt;
-
-&lt;p&gt;It’s a bright starry night, so our Darkness modifier is -6 outside. There are
-some lanterns inside the perimeter and buildings that provide torch-equivalent
-illumination (zero penalty out to 3m, -3 out to 6m). We can assume the building
-has small windows for lighting and ventilation, so at night the penalty for
-unlit interiors is also a -6.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-the-raid&quot;&gt;[Player] The Raid&lt;/h1&gt;
-
-&lt;p&gt;The party travels to the salt works, and approaches the side gate near the
-outbuilding. Jania conjures a &lt;strong&gt;Light&lt;/strong&gt; and gets to work opening the lock. It
-readily clicks open after a few seconds. Pleasantly surprised with how easy this
-has been so far, the group sneaks across the courtyard, where she opens the
-other door just as easily.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Success on the spell, which costs her 1 Fatigue.
-
-For both doors, Open Locks gives her +4, this being a basic lock gives
-another +5, and she decides to rush a bit and get it done in half the time
-for -5. Our effective skill is still 20! We succeed at both tries.
-
-Stealth is a group check, made with the highest skill (Jania&apos;s at 15) at a
--1 penalty for each PC who doesn&apos;t have that skill (Urist). She succeeds,
-and the guards don&apos;t because there are several walls between them
-and the the PCs.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Opening the second door reveals a large but messy room where seven disheveled
-people sleep on raggedy blankets. Rosalia and jade move forward to quietly wake
-them up, figuring they have the best chance of doing so quietly. This is exactly
-what happens, as they wake up each prisoner with soft words and and are readily
-believed when they say they’re here for a rescue. One of them even asks Jade if
-she’s an angel, which embarrasses her because she’s not sure herself!&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] Mythic, are these exhausted, stressed-out and malnourished
-prisoners going to make loud noises when suddenly woken up on the middle of
-the night (Likely)? Answer: No.
-
-Okay, so they&apos;re going to be able to see and react to our PCs before they
-make a noise. Let&apos;s say 4 of them see Rosalia, and 3 see Jade. They all
-react pretty well, as expected, with the lowest roll being a 15.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;While the party was able to pretty much ghost into the building, they can hear
-the sounds of people playing cards just beyond a corridor, and the prisoners are
-unlikely to be able to sneak as well as they are, in their state. Jade decides
-to take the rearguard here, and fight any guards that come in from the
-south. Urist will stay just outside the door, while the rest attempt to sneak
-out with the prisoners.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] That&apos;s another group test, but a much harder one. Let&apos;s consider Nan
-Comerivos has Stealth, since he&apos;s a smuggler, but none of the other
-prisoners do. So Jania&apos;s Stealth-15 has a -6 penalty here, and the guards
-have no penalty to their Hearing rolls.
-
-This is a tie! However, ties go to the &quot;defender&quot;, which here means the
-guards.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Despite Jania’s attempts to get this lot out safely, their shuffling attracts
-the attention of one of the CCG thugs in the front room, which decides the
-prisoners are being too noisy and goes over to rough them up a bit…&lt;/p&gt;
-
-&lt;p&gt;The PCs hear him coming, and decide to hurry up, abandoning stealth and
-following their original plan. Jade and Art stay behind to tie up the guards
-while the rest of the group books it.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[GM] It&apos;s a fight! Let&apos;s say the PCs and prisoners get to make one move action
-before we enter combat order. Prisoners move with the PC side.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;round-1&quot;&gt;Round 1:&lt;/h2&gt;
-
-&lt;p&gt;The rescuer team and the prisoners begin running out of the building, intending
-to go back through the courtyard and out the already open side gate. The guards
-in the front room begin running towards the source of the noise, while the ones
-in the dormitory (including Kossrani) begin waking up.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-2&quot;&gt;Round 2:&lt;/h2&gt;
-
-&lt;p&gt;More running, as the sleepyheads begin getting up from their beds and the other
-guards keep running to reach the back room. The prisoners and their escort are
-halfway to crossing the courtyard. Jade and Art begin backing out of the room,
-since it’s very dark now.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-3&quot;&gt;Round 3:&lt;/h2&gt;
-
-&lt;p&gt;The sleepyheads gather their weapons, but have no time to put on any armor. The
-prisoners are almost out of the courtyard. Rosalia, Jania, and Urist decide to
-lag behind a bit because they heard the shouts from inside the dormitory. Jade
-and Art hang by the exit door.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-4&quot;&gt;Round 4:&lt;/h2&gt;
-
-&lt;p&gt;Kossrani finally begins moving, and opens the dormitory door to find a bunch of
-people running away throught the courtyard! Urist closes in to engage the new
-threat, as another CCG thug emerges from the dormitory to approach him.&lt;/p&gt;
-
-&lt;p&gt;Most prisoners are out of the gate, but still on the map. The CCG thugs from the
-building are almost closing in on the courtyard door.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-5&quot;&gt;Round 5&lt;/h2&gt;
-
-&lt;p&gt;Our first attacks in this combat!&lt;/p&gt;
-
-&lt;p&gt;Urist blocks a club swing from one of the thugs and retorts with his mace,
-knocking the enemy down and stunning him. Kossrani steps over the fallen guard
-and engages both Urist and Rosalia in melee. Jania casts a Grease spell under
-him, and while the dwarf manages to retain his footing he’s now standing on
-difficult terrain. Rosalia attacks Kossrani with both her words and her blade,
-but he resists both.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, Arthur runs and tackles another thug, while Jade stands ready to stab
-the first fool who enters her reach.&lt;/p&gt;
-
-&lt;p&gt;The guards from inside the main building are almost at the courtyard door now,
-but they’ll be late: all but two of the prisoners have already escaped.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-6&quot;&gt;Round 6&lt;/h2&gt;
-
-&lt;p&gt;Arthur uses his leverage to strike the enemy he’s grappling, and Jania
-approaches to help by hitting the thug with her cane. Another guard manages to
-run out of the main building, right into Jade’s waiting blade. He’s dead.&lt;/p&gt;
-
-&lt;p&gt;Another guard tries to charge her but she slashes at his legs and knocks him
-down. More exit the main building into the courtyard, to engage the impenetrable
-“wall of sword” that is Jade.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, Urist keeps Kossrani occupied while Rosalia steps to his flank and
-stabs him. The remaining prisoners escape, and now it’s just the party against
-the guards.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-7&quot;&gt;Round 7&lt;/h2&gt;
-
-&lt;p&gt;Arcturus dispatches the thug that was stunned back in round 5 with a suplex just
-as he manages to recover, and Jade kills two more guards with her blade. The
-last surviving guard moves to flank her. Kossrani continues to fight vigorously
-against Urist and Rosalia.&lt;/p&gt;
-
-&lt;p&gt;Jania begins casting an Ice Dagger spell, and a critical success lets her charge
-a bigger missile at no cost to herself.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-8&quot;&gt;Round 8&lt;/h2&gt;
-
-&lt;p&gt;The flanking thug tries to attack Jade and gets cut for his trouble, while
-Kossrani continues to stand his ground against Urist, Rosalia, &lt;em&gt;and&lt;/em&gt; Arcturus,
-who manages to grab his weapon but cannot further increase his leverage yet.&lt;/p&gt;
-
-&lt;h2 id=&quot;round-9&quot;&gt;Round 9&lt;/h2&gt;
-
-&lt;p&gt;The three PCs engaging Kossrani finally manage to distract him enough for Urist
-and Jania to get good hits in, defeating him. This effectively ends our fight.&lt;/p&gt;
-
-&lt;h2 id=&quot;post-combat&quot;&gt;Post-Combat&lt;/h2&gt;
-
-&lt;p&gt;With Kossrani down, the remaining guards immediately turn tail and run back
-inside the building, intent on running away. Jade lets them, as she recognizes
-they are defeated and sees no honor or utility in chasing them.&lt;/p&gt;
-
-&lt;p&gt;The prisoners have all escaped, and now it’s time for the group to escape with
-them… after a quick spot of looting where they take Kossrani’s
-amulet. Everyone meets up soon after, as the prisoners didn’t have enough energy
-to run very far. Together the group re-enters the walls and finds a spot to rest
-away from patrols, and then they all make their way back to the Long Roads
-Coffee House without further incident.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-consequences&quot;&gt;[GM] Consequences&lt;/h1&gt;
-
-&lt;p&gt;As stated in the book, each attempted raid on the salt works increases notoriety
-by 1d4. This one increased it by 2. There will be no others, at least for now,
-the place was emptied out.&lt;/p&gt;
-
-&lt;p&gt;We haven’t started dealing with rebellion rules yet, due to the different order
-in which we’re running these scenes, but we will do so on the next chapter.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/04/13/lphr-scene-08.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/13/lphr-scene-08.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
         
         
       </item>
