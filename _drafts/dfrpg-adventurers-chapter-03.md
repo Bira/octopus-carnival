@@ -98,14 +98,14 @@ introductory paragraphs).
 Anyway, here are the species:
 
 **Cat-Folk** refer to themselves as cat-boys or cat-girls depending on
-gender. They have human-shaped bodies covered in short fur, feline features, and
-prominent cat ears and tail. That gives us a look closer to that of the Khajit
-from Elder Scrolls than to the Mi'quote from Final Fantasy 14.
+gender. They have human-shaped bodies covered in short fur, feline facial
+features, and prominent cat ears and tail. That gives us a look closer to that
+of the Khajit from Elder Scrolls than to the Mi'quote from Final Fantasy 14.
 
-Their claws and teeth are effective, they can see really well in the dark, they
-have Catfall, and a bit of Temperature Tolerance from fur. Their disadvantages
-are also cliche cat traits: impulsive, lazy, and with a mild phobia about
-entering water.
+Their claws and teeth are natural weapons, they can see really well in the dark,
+they have Catfall, and a bit of Temperature Tolerance from fur. Their
+disadvantages are also cliche cat traits: impulsive, lazy, and with a mild
+phobia of entering water.
 
 They're compatible with human armor (the tail can be safely tucked in), and they
 can buy gauntlets and boots that expose their claws but still protect their

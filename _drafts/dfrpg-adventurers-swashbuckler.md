@@ -71,10 +71,10 @@ wield two of them if your swashbuckler is more Miyamoto Musashi than
 D'Artagnan. In any case you also get the Fast-Draw skills for the weapons you
 chose.
 
-Your fixed skill list includes basic mobility and unarmed combat, throwing, and
-some social and mobility skills. The list of optional skills has the usual
-"delver lore" ones and lets you go deeper into mobility or socialization. Or
-perhaps you could take a more unusual backup weapon like a whip or lasso.
+Your fixed skill list includes basic unarmed combat, throwing, and some social
+and mobility skills. The list of optional skills has the usual "delver lore"
+ones and lets you go deeper into mobility or socialization. Or perhaps you could
+take a more unusual backup weapon like a whip or lasso.
 
 ## Special Swashbuckler Traits
 
@@ -84,20 +84,21 @@ all of which are on their discretionary list.
 
 - **Armor Familiarity** (1 point/level): Fencing skills depend on mobility, and
   take penalties to attack and parry equal to your encumbrance level. Each level
-  of this advantage lets you ignore one level of that penalty.
+  of this advantage lets you ignore one level of that penalty, which means you
+  can wear heavier armor.
 
-- **Daredevil** (15 points): When you take a _real_ and _unecessary_ risk, you
-  get a +1 to all success rolls, and may reroll critical failures, taking the
-  second result instead. This is a mixed blessing, because it also incentivizes
-  you to take those stupid risks for the bonus. The example in the book is
-  calling out a challenge to the sleeping dragon instead of sneaking around
-  it. Can't parry a fire breath!
+- **Daredevil** (15 points): When you take a _real_ and _unecessary_ risk while
+  attempting something, you get a +1 to all related success rolls, and may
+  reroll critical failures, taking the second result instead. This is a mixed
+  blessing, because it also incentivizes you to take those stupid risks for the
+  bonus. The example in the book is calling out a challenge to the sleeping
+  dragon instead of sneaking around it. Can't parry a fire breath!
 
 - **Enhanced Time Sense** (45 points): You're so fast you can see the world in
   bullet time. You always go before everyone else in combat, and you're too fast
   to trigger delayed actions from people who don't have this trait. If someone
   else in the fight has this trait, you figure out initiative order amongst
-  yourselves, but you still act before everyone who doesn't have the trait.
+  yourselves, but you both still act before everyone who doesn't have the trait.
 
   This is an upgrade to Combat Reflexes, and includes its benefits. You pay only
   the 30-point difference to get it if you already have Combat Reflexes.

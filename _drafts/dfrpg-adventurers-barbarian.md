@@ -36,8 +36,8 @@ it's still nice to have.
 
 All barbarians have High Pain Threshold {10} and Outdoorsman 2 {20}. The first
 helps a lot with reducing pain-based penalties, particularly when you take
-damage. The other is a Talent that enhances outdoorsy survival
-skills.
+damage. The other is a Talent, an advantage that directly increases the level of
+a set of skills; in this case, outdoorsy survival ones.
 
 They can also spend 40 points on buying more advantages from a list displayed
 here. I won't go over them one by one, but they fall into a few
@@ -53,8 +53,8 @@ categories beyond the standard "increased stats plus Luck":
 - Stuff that makes them even better at outdoor survival. Of note is further
   increasing Outdoorsman up to the maximum level of 6, letting them improve
   survival skills as if they had IQ 16, Per 18, or DX 19. Improving this talent
-  during is always a better deal in terms of points than improving the
-  individual skills.
+  is always a better deal in terms of points than improving the individual
+  skills.
 
 ## Disadvantages
 
@@ -113,10 +113,10 @@ which traits to pick from the template.
 
 The _angry one_ might pair Berserk and Bloodlust with the traits that make them
 tougher. Note that Berserk is a major disadvantage, not a superpower. A
-_survivalist_ has more Per and Outdoorsman, traits like Discriminatory Smell,
-and disadvantages like reduced Wealth and illiteracy. A _wilderness guardian_
-might be Fearless and an Animal Friend, but also Overconfident and burdened with
-a Sense of Duty to Nature.
+_survivalist_ has more Perception and Outdoorsman, traits like Discriminatory
+Smell, and disadvantages like reduced Wealth and illiteracy. A _wilderness
+guardian_ might be Fearless and an Animal Friend, but also Overconfident and
+burdened with a Sense of Duty to Nature.
 
 Weapon and survival skills should match the feel of barbarian's origin
 culture. A viking could have Spear and Shield, plus Survival (Arctic),

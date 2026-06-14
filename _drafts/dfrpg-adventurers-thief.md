@@ -57,10 +57,10 @@ jobs.
 ## Skills
 
 A thief's melee weapon skill choices are the same as the swashbuckler's, though
-their skill level will be a comparatively paltry 15 or 14 and they lack most
-melee support abilities. The most recommended option here seems to be "weapon
-and shield", instead of the swashbuckler's single blade. You're not a god of
-parrying, so having a shield or cloak in your off hand is a big help.
+their skill level will be "only" 15 or 14 and they lack most melee support
+abilities. The most recommended option here seems to be "weapon and shield",
+instead of the swashbuckler's single blade. You're not a god of parrying, so
+having a shield or cloak in your off hand is a big help.
 
 You do get a _lot_ of mundane non-combat skills. All that sneaking and
 exploration stuff that's secondary and optional for everyone else is part of

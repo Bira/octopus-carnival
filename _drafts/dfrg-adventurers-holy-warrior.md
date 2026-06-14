@@ -92,7 +92,8 @@ buy these powers if they want. Their respective power talents give bonuses to
 any required rolls.
 
 - **Detect Good** (9 points): Like Detect Evil, but for supernaturally Good
-  artifacts, locations, or beings. Very useful for rescue missions.
+  artifacts, locations, or beings. Very useful for rescue and retrieval
+  missions.
 
 - **Heroic Feats** (9 points/level): By the Honor of Greyskull! You call upon
   the powers of the gods to grant you a temporary boost in your physical
@@ -135,4 +136,4 @@ but you won't have enough points to pick everything up at character
 creation.
 
 As front-liners, Holy Warriors would definitely benefit from spending those
-quirk points on extra money.
+quirk points on extra money for better armor and weapons.

@@ -21,26 +21,33 @@ instead.
 
 Clerics start out with ST 12, DX 12, IQ 14, and HT 12. This is pretty good and
 could be taken in several directions with earned points, though it still leans
-in the castery direction.
+towards a caster-type.
 
 ## Advantages
 
 All clerics have Clerical Investment and Power Investiture 3. The former makes
-the character count as a properly ordained priest. This gives a positive
-reaction bonus to people who share their religion, lets them perform exorcisms
-without penalty and is a pre-requisite for Power Investiture, their spellcasting
-talent. It's quite possible your players will care more about the latter two in
-a Dungeon Fantasy game.
+the character count as a properly ordained priest whenever that matters. This
+gives a positive reaction bonus to people who share their religion, lets them
+perform exorcisms without penalty and is a pre-requisite for Power Investiture,
+their spellcasting talent. It's quite possible your players will care more about
+the latter two in a Dungeon Fantasy game.
 
 Power Investiture does for clerics what Magery does for wizards: it lets them
-cast spells and acts as a bonus to their skill level with those spells. We'll
-talk about that below.
+cast spells and acts as a bonus to their skill level with those spells. It also
+gives a bonus to rolls for Holy Might powers. We'll talk about both below.
 
 In addition to these advantages, we get 45 points to distribute among a set of
-choices. Aside from the usual enhanced attributes and Luck entries, we get a set
-of castery advantages like extra Investiture and an Energy Reserve. We can also
-choose to be Fearless or Unfazeable, Resistant to Disease, and have Spirit
-Empathy.
+choices. Aside from the usual enhanced attributes and Luck entries, we get a
+few categories here:
+
+- Be a better caster! This includes more Investiture and Energy Reserve.
+
+- Guard yourself from evil! This includes advantages that give bonuses against
+  fear, disease, and harmful mental influence.
+
+- Be better at your actual job! This includes things that make you better at
+  interacting with spirits, healing people without relying on magic, and
+  speaking extra languages.
 
 But that's not all! We can also choose to spend these points on Holy abilities,
 which we'll see below.
@@ -58,10 +65,11 @@ vows and ritual behavior that can work with either.
 
 ## Skills
 
-For weapon skills, can pick the traditional "mace and shield" package, or follow
-Friar Tuck's example and just take Staff. Your one-handed weapon could also be
-an axe, flail, or sword too - you don't have to imitate D&D on this particular
-detail.
+For weapon skills, you can pick the traditional "mace and shield" package, or
+follow Friar Tuck's example and just take Staff. Your one-handed weapon could
+also be an axe, flail, or sword too - you don't have to imitate D&D on this
+particular detail. Your skill will end up as either 15 or 14, which means combat
+isn't necessarily your strong suit compared to the other delvers.
 
 All clerics know the basic skills required of their trade, like Religious
 Ritual, Public Speaking, Theology, and a few others. They also know how to
@@ -112,7 +120,7 @@ independent from it. Most places are normal sanctity. Higher sanctity can be
 found in temples or other places holy to the deity. Lower sanctity usually means
 you're in a place that's holy to the deity's enemies.
 
-It's okay for the clerid to have some spell overlap with their wizard buddy, as
+It's okay for the cleric to have some spell overlap with their wizard buddy, as
 they will still be able to cast if they find themselves no a no-mana zone that's
 still normal sanctity.
 

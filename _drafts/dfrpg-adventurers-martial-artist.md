@@ -190,5 +190,5 @@ pretty cheap, and leave them with enough change to buy some decent hand and foot
 armor for when they need to fight unarmed.
 
 Yes, that does mean that in a humorous campaign you might be able to spot a
-martial artist by their tattered robes and immaculately maintained heavy boots
-and gauntlets.
+martial artist by their tattered robes and incredibly expensive heavy boots and
+gauntlets.

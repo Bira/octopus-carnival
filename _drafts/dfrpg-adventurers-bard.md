@@ -20,7 +20,7 @@ they can still pull their weight against enemies with minds vulnerable to their
 magic, and they help immensely when selling loot back in town.
 
 I feel this template lets bards be a little more distinct from each other than
-they are in D&D. You can still play a fop with poofy sleeves, poofy feathered
+they are in D&D. You can still play a fop with poofy sleeves, a fancy feathered
 hat, a smallsword, and a lute, but it takes relatively few changes to move away
 from that.
 

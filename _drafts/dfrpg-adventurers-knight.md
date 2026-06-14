@@ -23,7 +23,8 @@ might already be able to tell, they're my favorite template.
 The Knight's starting statline is ST 14, DX 14, IQ 10, HT 13. Their speed is
 reduced from 6.75 to 6.00.
 
-They have the second highest base ST, losing only to the Barbarian.
+They have the second highest base ST, losing only to the Barbarian. Their high
+DX also makes them excellent physical generalists.
 
 ## Advantages
 
@@ -83,8 +84,8 @@ Knights can buy extra HP up to 1/2 their ST, instead of just 1/3. Also, they can
 buy new weapon skills or improve existing ones with earned character points
 _instantly_ at any time - even mid battle!
 
-They also have exclusive traits. They're not magic - the Knight is just that
-good.
+They also have some exclusive traits. As you might expect, these are not magic,
+and instead represent you being Just That Good.
 
 - **Armor Mastery** (5 points): When you wear any armor with DR 2+, increase its
   DR by 1. This reflects your skill at actively using the armor, turning your
@@ -99,7 +100,8 @@ good.
   attempt these defenses on behalf of someone else who is in reach. The Block
   works for allies who are behind you, the Parry for allies who are beside
   you. Roll as if you were defending yourself, and if you succeed your ally is
-  protected as if they had succeeded.
+  protected as if they had succeeded. They're "sacrificial" because they count
+  against your own defense limit for that round.
 
 - **Shield Mastery** (15 points): Any shield you use gains +1 to its Defense
   Bonus, and you gain an extra DR 2 against cone and area attacks if you can

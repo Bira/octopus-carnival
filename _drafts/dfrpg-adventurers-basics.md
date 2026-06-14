@@ -115,7 +115,8 @@ lists of them.
 ## Language, Please!
 
 Language gets a bit of boxed text here. While language is an acquired skill in
-real life, it's treated as an advantage here.
+real life, it's treated as a "binary" advantage here. You either know a language
+or you don't.
 
 As is usual in the dungeon fantasy genre, most sapient beings can speak and
 write a language called by the very original name of Common. All PCs get this
