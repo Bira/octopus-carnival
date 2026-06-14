@@ -6,6 +6,7 @@ description: Adapting Cyberpunk RED / 2077 to GURPS in one post
 tags:
     - gurps
     - cyberpunk-red
+    - adaptation
 ---
 
 {::nomarkdown}
