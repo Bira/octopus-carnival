@@ -54,3 +54,7 @@ Shield; Suit of armor (brigandine chest, light cloth limbs, no helmet, Fortity 1
 and Lighten 1; $4674, 11.7kg)
 
 **Traits**: Callous, Coward, Bully.
+
+[1]: {{ "/2026/05/18/lphr-scene-13.html" | relative_url }}
+[2]: {{ "/projects/hells-rebels-bestiary" | relative_url }}
+[3]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
