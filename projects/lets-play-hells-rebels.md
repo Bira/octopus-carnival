@@ -40,6 +40,9 @@ first announced I'd do it.
   even though I had been doing them in the background, and why I decided to
   start.
 
+- [Some idle thoughts][31] on how the PCs would change if I applied my combat
+  skill house rules to this campaign.
+
 ## Supplementary Rules Material
 
 These are posts that might not have been tagged as part of the project to start
@@ -116,6 +119,9 @@ scenes.
 
 - [Scene 13][29]: Dungeon Delve: Hocum's Fantasmagorium!
 
+- Scene 14: Dungeon Delve: The Many-Steps Monastery!
+  - [Part 1][30]
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -145,3 +151,5 @@ scenes.
 [27]: {{ "/2026/04/28/lphr-scene-11.html" | relative_url }}
 [28]: {{ "/2026/05/10/lphr-scene-12.html" | relative_url }}
 [29]: {{ "/2026/05/18/lphr-scene-13.html" | relative_url }}
+[30]: {{ "/2026/06/14/lphr-scene-14.html" | relative_url }}
+[31]: {{ "/2026/05/31/hells-rebels-pcs-house-style.md" | relative_url }}
