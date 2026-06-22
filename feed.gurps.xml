@@ -5,9 +5,123 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Jun 2026 01:40:36 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 01:40:36 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 07:39:43 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 07:39:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Hell&apos;s Rebels Bestiary: Scrivenite</title>
+        <description>&lt;p&gt;These monsters were detailed in the mini-bestiary that comes with Hell’s Rebels
+Adventure 01. A single one of them, Yiliv, appears in the entire campaign, in
+the first dungeon room of Scene 14.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
+
+&lt;p&gt;Scrivenites are chronicler spirits that, in Pathfinder, hail from the outer
+planes of absolute law. They have perfect memories and an obsession with
+chronicling and preserving history. When they appear on the physical world,
+they’re usually performing some sort of field research or hunting down an
+obscure text. They can also be summoned and bound by people with the knowledge
+of the appropriate rituals.&lt;/p&gt;
+
+&lt;p&gt;A scrivenite looks like a book! Its cover has a pattern that kinda looks like a
+face or helmet in it, and they can open up to project a diffuse “body” made out
+of swirling pages and long, undulating bookmark ribbons. They fight by slashing
+at people with those pages and ribbons. The paper cuts aren’t that bad by
+themselves, but they also deliver a magical curse that extracts some of the
+target’s memories and creates a magic book out of them. This is known as a “soul
+tome”. Subsequent cuts steal more memories and make the soul tome more elaborate
+and complete.&lt;/p&gt;
+
+&lt;h2 id=&quot;soul-tomes-how-do-they-work&quot;&gt;Soul Tomes: How do they work?&lt;/h2&gt;
+
+&lt;p&gt;Each hit from a Scrivenite inflicts a cumulative -1 penalty to all IQ-based
+tests for the victim (Per and Will are unaffected). Someone who accumulates a
+penalty equal to their IQ has all of their memories drained goes into a
+coma. The penalty persists until the memories are restored. Any level of Magic
+Resistance prevents the effect.&lt;/p&gt;
+
+&lt;p&gt;Victims can restore their memories by reading their own soul tomes (which takes
+30 minutes per point), or via the Dispel Magic, Remove Curse, or Restore Memory
+spells, which are resisted with skill 15. Either of these methods cause the book
+to crumble to dust if successful.&lt;/p&gt;
+
+&lt;p&gt;Soul tomes aren’t any tougher than mundane books and can be destroyed in the
+same ways. If a book is destroyed before the victim regains their memories,
+magic can still restore them. If it’s the victim who dies first, the book
+remains, and becomes entirely mundane. The original adventure makes sure to
+emphasize that the soul of the departed regains its memories and goes on to its
+usual destination.&lt;/p&gt;
+
+&lt;h2 id=&quot;fighting-a-scrivenite&quot;&gt;Fighting A Scrivenite&lt;/h2&gt;
+
+&lt;p&gt;When fighting a scrivenite, the most important thing is to not get cut. The
+Diffuse nature of their bodies makes them nearly impervious to physical
+weapons. Their book-cover heads are still solid, though, despite being armored,
+and might be better targets. If you don’t have the skill to consistently hit
+their Skull or Face hit locations, though, you should use fire.&lt;/p&gt;
+
+&lt;p&gt;Restoring memories lost to their curse is not particularly hard, but it’s kind
+of annoying and time-consuming unless you have ready access to one of the three
+spells mentioned above in the field. So you might end up having to endure that
+penalty for a while until you can spare a few hours for reading your biography.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 10; &lt;strong&gt;DX&lt;/strong&gt; 14; &lt;strong&gt;IQ&lt;/strong&gt; 14; &lt;strong&gt;HT&lt;/strong&gt; 10;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 10: &lt;strong&gt;Will&lt;/strong&gt; 14; &lt;strong&gt;Per&lt;/strong&gt; 14; &lt;strong&gt;FP&lt;/strong&gt; 10;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SM&lt;/strong&gt; 0 (-5 in book form); &lt;strong&gt;Speed&lt;/strong&gt; 6; &lt;strong&gt;Move&lt;/strong&gt; 6 (flight with Hovering);&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 5 (head); 0 (elsewhere);&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bookmark Slash&lt;/strong&gt; (15): 1d-2 (2) cut plus linked Soul Tome.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Soul Tome&lt;/strong&gt;: See above for how this works.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Turtle Up&lt;/strong&gt;: The scrivenite retracts its “body” into its head, becoming a
+sturdy SM -5 book with DR 5, and gaining a +2 to Camouflage to pass as a
+mundane tome.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Traits&lt;/strong&gt;: Fragile (Unnatural), Injury Tolerance (Diffuse, not
+vs. fire, not against head hits), Photographic Memory, Vulnerable (x2, Fire).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant Skills&lt;/strong&gt;: History-18, Camouflage-14, Stealth-14.&lt;/p&gt;
+
+&lt;h2 id=&quot;tweaking-the-numbers&quot;&gt;Tweaking The Numbers&lt;/h2&gt;
+
+&lt;p&gt;Scrivenite are relatively weak melee combatants compared to most delvers, which
+is why I decided to make their Soul Tome curse take effect automatically on any
+hit. The greatest danger here isn’t that it will kill you, but that it will
+saddle you with a long-term mental penalty that will get in the way as you delve
+the rest of the dungeon.&lt;/p&gt;
+
+&lt;p&gt;If you want to make them stronger, you can increase the skill level and damage
+of their attacks, perhaps even to Sword Spirit (Monsters, p. 55) levels. To make
+the curse weaker, you can make it resistable (15 vs. Will). Combining both makes
+it a primarily physical combat threat despite its brainy lore.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/06/22/hr-bestiary-scrivenite.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/06/22/hr-bestiary-scrivenite.html</guid>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>bestiary</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Session 1</title>
@@ -2397,80 +2511,6 @@ now.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>lets-play</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hell&apos;s Rebels Bestiary: Kossrani</title>
-        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Kossrani appeared during &lt;a href=&quot;/octopus-carnival/2026/04/13/lphr-scene-08.html&quot;&gt;Adventure 01, Scene 08&lt;/a&gt;, and was killed in the same
-scene.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
-
-&lt;p&gt;Our Villain of the Day is a dwarven devotee of Asmodeus who failed to join his
-clergy because he didn’t have the brains for it. When Thrune took over he and a
-bunch of like-minded buddies from the Chelish Citizen’s Group got a job as
-mercenaries working for the new government. They got put in charge of running
-the recently seized Salix Salt Works as a forced labor camp for low-priority
-prisoners.&lt;/p&gt;
-
-&lt;p&gt;The profits from the operation are all meant to go to Thrune, but Kossrani has
-been skimming some salt off the top and selling it on the black market late at
-night. He thinks he’s in the clear, but his bosses are aware of this and he’s on
-thin ice with them.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
-
-&lt;p&gt;Kossrani is based on the Brute template from &lt;strong&gt;GURPS Dungeon Fantasy 15:
-Henchmen&lt;/strong&gt;. He’s supposed to be a mini-boss for the Prisoners of Salt encounter,
-commanding a small squad of CCG Thugs who use the rules for worthy opponents
-instead of fodder.&lt;/p&gt;
-
-&lt;p&gt;His equipment is somewhat similar to that of the original Pathfinder version,
-and his very nice anti-magic amulet was added by the luck of the dice during my
-own sessions. Since the players broke into the salt works at night, Kossrani
-didn’t have his armor on, and only had access to the amulet and his weapons. He
-was still a bit of a tough nut to crack.&lt;/p&gt;
-
-&lt;h2 id=&quot;kossrani&quot;&gt;Kossrani&lt;/h2&gt;
-
-&lt;p&gt;ST 14; DX 14; IQ 10; HT 12;&lt;/p&gt;
-
-&lt;p&gt;Dodge: 9; SM 0&lt;/p&gt;
-
-&lt;p&gt;DR 4/2 (all except face);&lt;/p&gt;
-
-&lt;p&gt;HP 14; Will 10; Per 10; FP 12;&lt;/p&gt;
-
-&lt;p&gt;Speed 6.00; Move 4;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dwarven Mace (17): 2d+3 cr; Reach 1; Parry 13.&lt;/li&gt;
-  &lt;li&gt;Medium Shield (16): 1d+1 cr; Reach 1; Block 13.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Relevant Traits: High Pain Threshold, Bully, Greed.&lt;/p&gt;
-
-&lt;p&gt;Equipment: Mail Suit, Medium Shield (DB 2), Dwarven Mace, 2 x Glue Grenade, 2 x
-Healing Potion, Moly Amulet ($23.600, 0.125kg). Light Encumbrance.&lt;/p&gt;
-
-&lt;p&gt;Active defenses already factor Encumbrance and Shield Bonus.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/04/23/hr-bestiary-kossrani.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/04/23/hr-bestiary-kossrani.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>bestiary</category>
         
         
       </item>
