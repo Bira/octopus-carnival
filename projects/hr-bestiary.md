@@ -54,6 +54,9 @@ There's a more detailed [Intro][1] post here.
   - [Asmodean Redactor][10]
   - [Raul Azvernathy][11]
 
+- Scene 14
+  - [Scrivenite][12]
+
 
 # Alphabetical Order
 
@@ -89,6 +92,7 @@ There's a more detailed [Intro][1] post here.
   - [Raul Azvernathy][11]
 
 - S
+  - [Scrivenite][12]
   - Skunk Ape Skeletons: As Skeleton, **DF: Monsters** p. 47, with +4 ST.
 
 - T
@@ -105,3 +109,4 @@ There's a more detailed [Intro][1] post here.
 [9]: {{ "/2026/04/23/hr-bestiary-kossrani.html" | relative_url }}
 [10]: {{ "/2026/05/20/hr-bestiary-redactor.html" | relative_url }}
 [11]: {{ "/2026/05/28/hr-bestiary-raul.html" | relative_url }}
+[12]: {{ "/2026/06/22/hr-bestiary-scrivenite.html" | relative_url }}
