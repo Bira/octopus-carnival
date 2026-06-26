@@ -64,7 +64,8 @@ that it requires no skill roll on her part.
 
 **Relevant Traits**: Combat Reflexes; High Pain Threshold; DR 15 (vs. fire);
 Regeneration 1 HP/second (but not against Holy attacks); Vulnerable to Holy
-attacks (1.5x damage); Weapon Master (dueling glaive);
+attacks (1.5x damage); Weapon Master (dueling glaive); Unkillable (Achilles
+Heel: Holy Attacks or Oxygen Deprivation).
 
 **Class**: Mundane.
 

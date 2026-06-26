@@ -120,7 +120,8 @@ scenes.
 - [Scene 13][29]: Dungeon Delve: Hocum's Fantasmagorium!
 
 - Scene 14: Dungeon Delve: The Many-Steps Monastery!
-  - [Part 1][30]
+  - [Part 1][30]: Raiding the first half of the level.
+  - [Part 2][32]: Prepping the second half.
 
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
@@ -153,3 +154,4 @@ scenes.
 [29]: {{ "/2026/05/18/lphr-scene-13.html" | relative_url }}
 [30]: {{ "/2026/06/14/lphr-scene-14.html" | relative_url }}
 [31]: {{ "/2026/05/31/hells-rebels-pcs-house-style.md" | relative_url }}
+[32]: {{ "/2026/06/26/lphr-scene-14-2.html" | relative_url }}

@@ -26,7 +26,7 @@ There's a more detailed [Intro][1] post here.
   - No combats!
 
 - Scene 04
-  - Giant Rat: see **DF Monsters** p. 30
+  - Giant Rat: see **DF: Monsters** p. 30
   - [Lemure][7]
 
 - Scene 05
@@ -74,7 +74,7 @@ There's a more detailed [Intro][1] post here.
   - [Dottari Guard][3]
 
 - G
-  - Giant Rat: see **DF Monsters** p. 30
+  - Giant Rat: see **DF: Monsters** p. 30
 
 - K
   - [Kossrani][9]
