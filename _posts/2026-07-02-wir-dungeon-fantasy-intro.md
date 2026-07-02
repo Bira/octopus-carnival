@@ -9,14 +9,15 @@ tags:
 ---
 
 I began writing this article shortly after finishing my reading of the
-Neverwinter Campaign Setting. After thinking about it for a bit, and agonizing
-over the actual text for a long time, I've decided to do one for the Dungeon
-Fantasy RPG!
+Neverwinter Campaign Setting, so it's been in storage for a long, long time. But
+now that my blog posts about that [solo Hell's Rebels campaign][3] have caught
+up to "real time", I started thinking I needed someone else to post during the
+longer lulls in play. So why not this?
 
-This is going both here in the blog and on the RPG.net forums, as usual, and one
-of the reasons I'm doing it is because I feel lots of people over at RPG.net
-would benefit from knowing more about this game. It's also nice to get a regular
-GURPS-focused series in here.
+This new series of Let's Read posts is going both here in the blog and on the
+RPG.net forums, as usual, and one of the reasons I'm doing it is because I feel
+lots of people over at RPG.net would benefit from knowing more about this
+game. It's also nice to get another regular GURPS-focused series in here.
 
 ## What is Dungeon Fantasy?
 
@@ -24,7 +25,7 @@ GURPS-focused series in here.
 fantasy arguably pioneered by D&D: fantasy stories that are about a bunch of
 player characters going into dungeons, killing monsters, and looting
 treasure. Most of the works that fall within this genre are games, either
-tabletop or electronic. D&D is the most famous but by no means the only
+tabletop or electronic games. D&D is the most famous but by no means the only
 one. Most of the fiction entries in the genre are based on games as well, with
 Amazon's Vox Machina being a particularly famous entry based on an actual
 tabletop campaign.
@@ -37,7 +38,7 @@ And sure, you can use dungeon fantasy games to tell varied stories of intrigue,
 drama, and wonder, but their core gameplay loop remains dungeons, monsters,
 treasure. If you are using your dungeon fantasy game in its intended manner at
 all, these things will feature in your campaign at some point, and they're
-likely to be important
+likely to be important.
 
 ## What is the Dungeon Fantasy RPG?
 
@@ -96,3 +97,4 @@ give you a good idea of what this game is all about.
     talking about them in this particular series.
 
 [2]: {{ "/2017/08/25/dfrpg-review.html" | relative_url }}
+[3]: {{ "/projects/lets-play-hells-rebels.html" | relative_url }}
