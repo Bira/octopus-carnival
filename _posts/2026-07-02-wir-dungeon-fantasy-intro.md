@@ -8,15 +8,15 @@ tags:
     - dfrpg
 ---
 
-I began writing this article shortly after finishing my reading of the
-Neverwinter Campaign Setting, so it's been in storage for a long, long time. But
-now that my blog posts about that [solo Hell's Rebels campaign][3] have caught
-up to "real time", I started thinking I needed someone else to post during the
-longer lulls in play. So why not this?
+I began writing this article shortly after finishing [my reading of the
+Neverwinter Campaign Setting][1], so it's been in storage for a long, long
+time. But now that my blog posts about that [solo Hell's Rebels campaign][3]
+have caught up to "real time", I started thinking I needed someone else to post
+during the longer lulls in play. So why not this?
 
 This new series of Let's Read posts is going both here in the blog and on the
-RPG.net forums, as usual, and one of the reasons I'm doing it is because I feel
-lots of people over at RPG.net would benefit from knowing more about this
+[RPG.net forums][4], as usual, and one of the reasons I'm doing it is because I
+feel lots of people over at RPG.net would benefit from knowing more about this
 game. It's also nice to get another regular GURPS-focused series in here.
 
 ## What is Dungeon Fantasy?
@@ -93,8 +93,10 @@ or these books, but will necessarily be less detailed than those for the D&D
 Monster Manuals since there's so much stuff to cover. Still, I hope it serves to
 give you a good idea of what this game is all about.
 
-[^1]: There "non-dungeon" fantasy games out there, of course, but we won't be
+[^1]: There are "non-dungeon" fantasy games out there, of course, but we won't be
     talking about them in this particular series.
 
+[1]: {{ "/projects/neverwinter/" | relative_url }}
 [2]: {{ "/2017/08/25/dfrpg-review.html" | relative_url }}
 [3]: {{ "/projects/lets-play-hells-rebels.html" | relative_url }}
+[4]: https://forum.rpg.net/index.php?threads/lets-read-the-dungeon-fantasy-rpg.936813/

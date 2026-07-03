@@ -15,7 +15,7 @@ shopping lists presented in that template. This tends to be a lot faster than
 creating a character from scratch in core GURPS, particularly for people who are
 new to the system. We'll talk more about the templates when we cover chapter 2.
 
-## Character Points
+# Character Points
 
 Each ability listed in those templates has a cost in **Character Points**, and
 each professional template has a total of 300 points worth of abilities. Their
@@ -24,7 +24,7 @@ of "problems" that have negative costs and inconvenience the character in
 various ways. We'll see later that you gain more character points as you play,
 and those can be used to either improve your abilities or get rid of those
 problems. There's no special "XP" here like you might find in other games - the
-points you gain from adventuring and 2use to advance are the same kind as the
+points you gain from adventuring and use to advance are the same kind as the
 ones you spent during character creation, and all trait costs remain the same.
 
 The concept of "zero to hero" does not apply here: templates are tuned to be
@@ -41,7 +41,7 @@ So what do these points get you? A character sheet is made up of several
 different types of traits. This chapter describes the two most basic types in
 detail, and mentions the others (which get their own chapters).
 
-## Basic Attributes and Secondary Characteristics
+# Basic Attributes and Secondary Characteristics
 
 Basic Attributes, henceforth known as simply "attributes", measure how strong,
 quick, and smart your character is and influence everything they do. Each one
@@ -89,7 +89,7 @@ to a typical human. The vast majority of delvers are more or less human-sized
 and -shaped, and so have a 0 here and don't need to think about it any
 further. Monsters, of course, have much more varied scores.
 
-## Other Traits
+# Other Traits
 
 Each of these gets their own chapter later on, mainly because there are huge
 lists of them.
@@ -112,7 +112,7 @@ lists of them.
   spend. These can be spent on extra traits, or to get extra starting cash to
   buy better equipment.
 
-## Language, Please!
+# Language, Please!
 
 Language gets a bit of boxed text here. While language is an acquired skill in
 real life, it's treated as a "binary" advantage here. You either know a language
@@ -129,7 +129,7 @@ speak Common. Spoken proficiency and literacy in a language cost 3 points each
 (i.e, it costs 6 points to know how to speak and write in a language).
 
 
-## Cosmetic Details
+# Cosmetic Details
 
 There are some traits that have less mechanical impact and mostly serve to flesh
 out your character. Age, ethnicity, handedness, gender, hair and eye color,
@@ -146,4 +146,17 @@ certain other tasks with your off-hand, but being right- or left-handed is a
 purely cosmetic choice. And you can buy the Ambidexterity advantage to ignore it
 altogether.
 
-Next up: Professions! I'll need multiple posts to cover this one.
+# Impressions
+
+GURPS is one of my favorite systems so I think it's not surprise that I'm pretty
+fond of these basics. The use of templates is the big change over core GURPS
+here, and as I mentioned above I like them so much I wouldn't try to start a
+game without them.
+
+While I don't have a problem with the concept of disadvantages and the way GURPS
+handles them, you might! Several criticisms of it have popped up over the years,
+after all. In that case, you can easily ignore them by discarding that section
+of the templates and giving your characters 300 points to play with from the
+start.
+
+Next up: A deeper look into advantages, disadvantages, and skills.

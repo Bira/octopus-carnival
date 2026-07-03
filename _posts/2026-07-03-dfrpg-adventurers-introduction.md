@@ -6,6 +6,17 @@ tags:
     - lets-read
 ---
 
+{::nomarkdown}
+<figure style="text-align: center;">
+  <img
+    src="{{ "/assets/adventurers-cover-full-size-240x300.png" | absolute_url }}"
+    style="display: inline-block;"/>
+  <img src="{{ "/assets/exploits-cover-full-240x300.png" | absolute_url }}"
+       style="display: inline-block;"/>
+  <figcaption>Some of the covers fit together!</figcaption>
+</figure>
+{:/nomarkdown}
+
 Dungeon Fantasy: Adventurers is the first book in the boxed set, and is likely
 to be the most perused one since it contains all the information on how to
 create characters. It's 128 pages long, and in its physical edition it's a
@@ -14,10 +25,10 @@ everything that appears before Chapter One.
 
 ## Cover
 
-The cover which can be seen above, is drawn by Brandon Moore, as are all the
-interior illustrations in the book. One neat thing about this particular
-illustration is that it's one of a matched pair: the cover for Exploits will
-show us what's on the other side of that door.
+The cover which can be seen to the left above, is drawn by Brandon Moore, as are
+all the interior illustrations in the book. One neat thing about this particular
+illustration is that it's one of a matched pair: the cover for Exploits can be
+seen on the right and shows what's on the other side of the door.
 
 ## Quick Rules Reference
 
@@ -34,7 +45,7 @@ I'll combine their descriptions below.
 
 We then get the front matter page with the credits and copyright notices. The
 book was written by Sean Punch, with additional material contributed by most of
-the regular GURPS writers.
+the regular GURPS writers and freelancers.
 
 ## The Actual Introduction
 
@@ -80,13 +91,19 @@ There are a few types of rolls here, described in the glossary:
 
 A **success roll** is made on 3d. You want to roll a total that's equal to or
 lower than your "effective skill level", which is your skill level after
-situational modifiers. These apply directly to your skill level, which means
+situational modifiers. Modifiers apply directly to your skill level, which means
 positive modifiers are bonuses and negative ones are penalties. The difference
 between your roll and your effective skill level is your margin of success (or
-failure). Lower rolls are better, and a really low roll might generate a
-critical success. The reference sheet has a table with the probabilities of
-success for each skill level. It's the expected bell curve, with 10 being 50%
-and changing quickly for every point higher or lower than that.
+failure). Lower rolls are better. The reference sheet has a table with the
+probabilities of success for each skill level. It's the expected bell curve,
+with 10 being 50% and changing quickly for every point higher or lower than
+that.
+
+A roll of 3 or 4 is a **critical success**, and a roll of 5 or 6 might be too if
+your skill level is high enough. A roll of 18 is a **critical failure**, and a
+roll of 17 can be either a critical or normal failure depending on your skill
+level. This means that skill levels over 16 don't increase your chances of
+success, but they do make you better able to ignore penalties.
 
 A **Quick Contest** is when two people in opposition make a success roll and the
 one with the largest margin of success wins.
@@ -142,7 +159,7 @@ games.
 There are two special units here, the **hex** (from a battle map) and the
 **turn** (an interval of action in combat time). Hexes are 1 yard wide from edge
 to edge, and are also used as units of area. Turns are 1 second long, and [I had
-something to say about that recently][3].
+something to say about that a while ago][3].
 
 ### The Implied Setting
 
@@ -194,5 +211,5 @@ romp, the default one is enough.
 
 Next: Chapter 1, with the **Basics** of character creation.
 
-[2]: {{ "/xxxx/xx/xx/lets-read-dungeon-fantasy.html" | relative_url }}
+[2]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [3]: {{ "/2024/09/17/turn-length.html" | relative_url }}

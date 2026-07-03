@@ -50,6 +50,9 @@ In which I read a book or series of books and commentate on their content.
   reading the Dark Sun Campaign Setting, and I decided to do a parallel reading
   of the Creature Catalog.
 
+- [Let's Read the Dungeon Fantasy RPG][13]: My first non-D&D Let's Read, and a
+  big one too.
+
 ## Let's Play!
 
 In which I play games and tell you about it.
@@ -79,3 +82,4 @@ posts in order. Enjoy!
 [10]: {{ "/projects/neverwinter/" | relative_url }}
 [11]: {{ "/projects/dscc/" | relative_url }}
 [12]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
+[13]: {{ "/projects/lets-read-dfrpg/" | relative_url }}
