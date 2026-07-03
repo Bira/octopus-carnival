@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: folder setup
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: setup ruby
-        uses: ruby/setup-ruby@v1.175.1
+        uses: ruby/setup-ruby@v1.316.0
         with:
-          ruby-version: 3.3
+          ruby-version: 3.4
 
       - name: install dependencies & build site
         uses: limjh16/jekyll-action-ts@v2
@@ -23,7 +23,7 @@ jobs:
           enable_cache: true
 
       - name: deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
