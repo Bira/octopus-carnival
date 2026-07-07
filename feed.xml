@@ -6,9 +6,185 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 03 Jul 2026 13:04:02 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 13:04:02 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 14:16:18 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:16:18 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DF Adventurers, Chapter 1: Basics</title>
+        <description>&lt;p&gt;This chapter talks about the basics of character creation, and explains what the
+game’s most fundamental stats mean.&lt;/p&gt;
+
+&lt;p&gt;The basic process of creating a character in DFRPG is simple: you go to chapter
+2, pick a professional template, and select your final traits from several
+shopping lists presented in that template. This tends to be a lot faster than
+creating a character from scratch in core GURPS, particularly for people who are
+new to the system. We’ll talk more about the templates when we cover chapter 2.&lt;/p&gt;
+
+&lt;h1 id=&quot;character-points&quot;&gt;Character Points&lt;/h1&gt;
+
+&lt;p&gt;Each ability listed in those templates has a cost in &lt;strong&gt;Character Points&lt;/strong&gt;, and
+each professional template has a total of 300 points worth of abilities. Their
+point total adds up to only 250, however, since they also have 50 points worth
+of “problems” that have negative costs and inconvenience the character in
+various ways. We’ll see later that you gain more character points as you play,
+and those can be used to either improve your abilities or get rid of those
+problems. There’s no special “XP” here like you might find in other games - the
+points you gain from adventuring and use to advance are the same kind as the
+ones you spent during character creation, and all trait costs remain the same.&lt;/p&gt;
+
+&lt;p&gt;The concept of “zero to hero” does not apply here: templates are tuned to be
+seriously good at their main jobs from the start. I’d say they have roughly the
+same power as level 7 or 8 D&amp;amp;D 3.x characters, though there are some important
+differences in how they play that I’ll get into when we discuss chapter 2.&lt;/p&gt;
+
+&lt;p&gt;Experienced GURPS players can try their hand at making freeform characters
+starting with the same 250/-50 total, though even in this case I’d recommend
+starting from a template and changing to taste - they’re just that
+useful.&lt;/p&gt;
+
+&lt;p&gt;So what do these points get you? A character sheet is made up of several
+different types of traits. This chapter describes the two most basic types in
+detail, and mentions the others (which get their own chapters).&lt;/p&gt;
+
+&lt;h1 id=&quot;basic-attributes-and-secondary-characteristics&quot;&gt;Basic Attributes and Secondary Characteristics&lt;/h1&gt;
+
+&lt;p&gt;Basic Attributes, henceforth known as simply “attributes”, measure how strong,
+quick, and smart your character is and influence everything they do. Each one
+also helps determine one or more Secondary Characteristics, derived values that
+are just as important to your character. These characteristics can also be “fine
+tuned” and increased or decreased directly, again costing points or giving them
+back depending on the direction of change.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Strength (ST)&lt;/strong&gt; determines your capacity for dealing physical &lt;strong&gt;damage&lt;/strong&gt;, your
+&lt;strong&gt;Basic Lift&lt;/strong&gt; that measures how much you can lift and carry, and your &lt;strong&gt;hit
+points&lt;/strong&gt;. GURPS HP does not have the abstract fuzziness of its D&amp;amp;D counterpart -
+its hit points are “meat points”. The meatier you are, the more HP you have. You
+can increase HP separately with points, but there are limits to this, so it
+remains fundamentally anchored to your beefiness.&lt;/p&gt;
+
+&lt;p&gt;The sole mental attribute, &lt;strong&gt;Intelligence (IQ)&lt;/strong&gt; is the basis for every mental
+skill in the game. It also determines your &lt;strong&gt;Perception&lt;/strong&gt; and &lt;strong&gt;Will&lt;/strong&gt;, which as
+you would expect are used for noticing things and resisting mental Bad
+Stuff.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dexterity (DX)&lt;/strong&gt; is your overall agility and coordination. It’s the basis for
+nearly every physical skill in the game.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Health (HT)&lt;/strong&gt; is a measure of your stamina and your resistance to Bad Stuff of
+a physical nature, including unconsciousness and death when your HP goes below
+zero. A few physical skills that are more dependent on stamina than coordination
+are tied to HT. It also determines your &lt;strong&gt;Fatigue Points&lt;/strong&gt;, which you spend in
+order to perform exhausting tasks or fuel special powers, including
+spells. Wizards need good cardio in this game!&lt;/p&gt;
+
+&lt;p&gt;DX and HT together determine your &lt;strong&gt;Basic Speed&lt;/strong&gt;, a number that can be
+fractional. This is how fast you can react, particularly in combat. Rounded
+down, this score becomes your &lt;strong&gt;Basic Move&lt;/strong&gt;, which is how far you run in a
+combat turn. Both can be tuned separately, with Basic Move being much cheaper.&lt;/p&gt;
+
+&lt;p&gt;Your Basic Move can be reduced if you’re carrying too much weight. How much is
+too much depends on your Basic Lift.&lt;/p&gt;
+
+&lt;p&gt;You might notice that the functions of each attribute are a
+little… unbalanced. ST and HT have a few things they do, and are useful to
+characters who want to do those things well. DX and IQ are the basis for 95% of
+the game’s skills and &lt;em&gt;everyone&lt;/em&gt; wants to have good levels in those. And this is
+why they cost 20 points per level to raise, while ST and HT cost 10.&lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;Size Modifier&lt;/strong&gt; is a number representing how big you are in relation
+to a typical human. The vast majority of delvers are more or less human-sized
+and -shaped, and so have a 0 here and don’t need to think about it any
+further. Monsters, of course, have much more varied scores.&lt;/p&gt;
+
+&lt;h1 id=&quot;other-traits&quot;&gt;Other Traits&lt;/h1&gt;
+
+&lt;p&gt;Each of these gets their own chapter later on, mainly because there are huge
+lists of them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt; are special abilities or social edges your character
+possesses. Their chapter lists the stuff anybody might get, but each
+professional template also has access to a few exclusive ones.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt; are the “problems” mentioned earlier. They inconvenience you
+in several ways but give you more points to spend.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; let you do stuff in the game. They have levels relative to their
+associated attribute. As mentioned above, most are based on DX or IQ, though
+some use HT, Perception, or Will. Spells are also skills, available to
+characters with the proper advantages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt; are small foibles or personality traits that are too “light” to
+cause a mechanical impact, but can help flesh out your character. Anyone can
+pick up to 5 quirks, each of which gives you a single extra character point to
+spend. These can be spent on extra traits, or to get extra starting cash to
+buy better equipment.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;language-please&quot;&gt;Language, Please!&lt;/h1&gt;
+
+&lt;p&gt;Language gets a bit of boxed text here. While language is an acquired skill in
+real life, it’s treated as a “binary” advantage here. You either know a language
+or you don’t.&lt;/p&gt;
+
+&lt;p&gt;As is usual in the dungeon fantasy genre, most sapient beings can speak and
+write a language called by the very original name of Common. All PCs get this
+one for free. Being illiterate in Common is a disadvantage worth -3 points.&lt;/p&gt;
+
+&lt;p&gt;Other languages also exist. Most of them feature in ancient grimoires, magical
+scrolls, and enigmatic dungeon writings. Certain isolated cultures might also
+have their own languages, and their members might be unable or unwilling to
+speak Common. Spoken proficiency and literacy in a language cost 3 points each
+(i.e, it costs 6 points to know how to speak and write in a language).&lt;/p&gt;
+
+&lt;h1 id=&quot;cosmetic-details&quot;&gt;Cosmetic Details&lt;/h1&gt;
+
+&lt;p&gt;There are some traits that have less mechanical impact and mostly serve to flesh
+out your character. Age, ethnicity, handedness, gender, hair and eye color,
+height and weight, all of these things are purely cosmetic and do not affect
+your stats in any way.&lt;/p&gt;
+
+&lt;p&gt;Age being entirely cosmetic is a big departure from core GURPS, which had a
+series of advantages and disadvantages about being young or old, as well as
+long- or short-lived. None of that costs anything here. As the joke goes, the
+lifespan of a delver is measured in months regardless of their biology.&lt;/p&gt;
+
+&lt;p&gt;Handedness matters in that you get a penalty for wielding weapons and doing
+certain other tasks with your off-hand, but being right- or left-handed is a
+purely cosmetic choice. And you can buy the Ambidexterity advantage to ignore it
+altogether.&lt;/p&gt;
+
+&lt;h1 id=&quot;impressions&quot;&gt;Impressions&lt;/h1&gt;
+
+&lt;p&gt;GURPS is one of my favorite systems so I think it’s not surprise that I’m pretty
+fond of these basics. The use of templates is the big change over core GURPS
+here, and as I mentioned above I like them so much I wouldn’t try to start a
+game without them.&lt;/p&gt;
+
+&lt;p&gt;While I don’t have a problem with the concept of disadvantages and the way GURPS
+handles them, you might! Several criticisms of it have popped up over the years,
+after all. In that case, you can easily ignore them by discarding that section
+of the templates and giving your characters 300 points to play with from the
+start.&lt;/p&gt;
+
+&lt;p&gt;Next up: A deeper look into advantages, disadvantages, and skills.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/07/07/dfrpg-adventurers-basics.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/07/dfrpg-adventurers-basics.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Introduction</title>
@@ -1190,597 +1366,6 @@ strips of black ink to paper containing banned words.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>bestiary</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels A01S13: Hocum&apos;s Fantasmagorium</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
-
-&lt;p&gt;In the original book, Rexus was going to take seven weeks to translate the
-documents from the Livery trove, giving the party a chance to run that many
-strategic turns, run the original set of filler missions, and deal with
-Blosodriette’s shenanigans.&lt;/p&gt;
-
-&lt;p&gt;Here, me-the-player took care of the imp more or less immediately (with a little
-nudge from me-the-GM). And three game weeks in, I feel I’ve run through all the
-filler missions I cared about, and our revolution is now pretty close to the
-maximum level it can reach in this adventure.&lt;/p&gt;
-
-&lt;p&gt;So I think we can move on to our finale earlier. We just say Rexus finishes his
-translations now, allowing us to move to the finale.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-thinking-about-dungeon-preparation&quot;&gt;[GM] Thinking About Dungeon Preparation&lt;/h1&gt;
-
-&lt;p&gt;And so as the GM in this story, I must also prepare my dungeon. This dungeon is
-the capstone delve of the module, so it’s quite extensive compared to everything
-else we’ve seen so far. It has two distinct levels with several rooms each.&lt;/p&gt;
-
-&lt;p&gt;While I think I am getting better at it I’m not sure I really &lt;em&gt;enjoy&lt;/em&gt; the
-process of preparing a dungeon delve in Foundry. Not unless there’s something
-else in there to hold my interest other than just trying to copy the book. There
-was a pause of a few weeks between me writing the first sentence in this section
-and the rest of it, and I procrastrinated by publishing everything up to scene
-05 of the adventure to the blog.&lt;/p&gt;
-
-&lt;p&gt;Before that pause, I managed to extract a proper map of the first level from the
-same old module that gave me the Livery map from Scene 05. I drew walls, and I
-think I did a decent job of adding proper lighting on it. Nothing fancy, just a
-slightly dimmed global light level. If that turns out to be a problem, I can
-just disable that and rely on pure imagination to handle lighting and walls. My
-player, who is also me, is very understanding about these things.&lt;/p&gt;
-
-&lt;p&gt;Were I running this for other people, the correct thing to do would be to adapt
-the whole level at once, statting up every trap, every hidden treasure, and
-every monster in GURPS. After all, there’s no telling where the PCs would choose
-to go and they’re supposed to take at most a couple of all-afternoon sessions to
-go through each level. I can’t exactly stop the world to “compile” the dungeon
-room by room.&lt;/p&gt;
-
-&lt;p&gt;But I’m running this for myself. I can do &lt;em&gt;exactly that&lt;/em&gt;. My “sessions” are
-whenever I have 30 minutes to a couple of hours to spare and “prep work” is
-supposed to have the same importance and fun value as “planning”, or at least
-it’s supposed to. Let’s take that approach. Everything is going into the same
-file, but ideally each “session” would involve choosing the next room the PCs
-visit, preparing it, and then playing through it.&lt;/p&gt;
-
-&lt;p&gt;That would mean we have more frequent sessions and maybe actually get through
-this faster, because the thought of preparing a whole level at once terrifies me
-into inaction, as previously demonstrated.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-dungeon-overview&quot;&gt;[GM] Dungeon Overview&lt;/h1&gt;
-
-&lt;p&gt;We have two levels here with distinct traits.&lt;/p&gt;
-
-&lt;p&gt;Level 1 on the surface is Hocum’s Fantasmagorium, which was abandoned 70 years
-ago during the Chelish Civil War. The place had been stealthily maintained by
-the Archivists, so despite the ruined state of its exhibits the building is
-structurary sound.&lt;/p&gt;
-
-&lt;p&gt;This level is currently secured by a few reanimated skeletal exhibits, by
-zombies created from the corpses of victims of the Night of Ashes (including
-Rexus’ parents), four redactor monks, and one asshole priest. There was another
-but he died of greed.&lt;/p&gt;
-
-&lt;p&gt;Exterior walls and doors are heavy wood (DR 3, HP 33). Interior walls and the
-boards covering the windows are average wood (DR 3, HP 29). Door locks and
-hinges are heavy and high-quality (DR 9, HP 18, -5 to Lockpicking) but the
-mithril key can open all of them.&lt;/p&gt;
-
-&lt;p&gt;During the day, the Fantasmagorium is dimly lit by sunshine filtered through the
-boarded-up windows (-3 Darkness penalty). At night, it’s pitch-black. Areas
-where human enemies are working are brightly lit (+0) by scattered Continual
-Light lanterns.&lt;/p&gt;
-
-&lt;p&gt;There’s some treasure scattered around this level, most of it in the form of
-loot from the two priests’ bodies.&lt;/p&gt;
-
-&lt;p&gt;The Aroden statue in the center-north part of this level is a secret door to the
-Archivists’ underground base, the Many-Steps Monastery.&lt;/p&gt;
-
-&lt;p&gt;The Many-Steps Monastery is secured by a summoned scrivinite, a large group of
-Asmodean redactors, a big ogre brute, plus Mephiry and Nox. The layout is
-effectively a gauntlet that funnels the party through the bulk of these forces
-and into a confrontation with Nox.&lt;/p&gt;
-
-&lt;p&gt;Interior walls are 6-inch thick stone (ablative DR 78, HP 75). Doors are
-identical to the ones up top, and the mithril key also opens them all. The
-entire level is brightly lit by Continual Light spells.&lt;/p&gt;
-
-&lt;p&gt;Aside from Nox’s loot, most of the treasure in this level consists of recovered
-Archivist documents that can be sold to collectors.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-the-silver-raven-documents&quot;&gt;[Player] The Silver Raven Documents&lt;/h1&gt;
-
-&lt;p&gt;Rexus is done with his decryption of the document cache retrieved from the
-Livery, so the Ravens spend some time going over the documents. Some of what’s
-in there is ironically already known to our PCs, as Jade personally knew the
-Ravens and could tell the others about the basics of who they were.&lt;/p&gt;
-
-&lt;p&gt;But she was too young to actually take part in operations, so there’s still new
-stuff to be had here. The Ravens were successful in preventing the conquest of
-Kintargo and Ravounel nearly a dozen times during the Chelish Civil War: five
-attempts by various power-hungry noble families, four attempts by House Thrune
-specificially, once by vampire priests from Nidal, and one by the dragon
-Rivozair.&lt;/p&gt;
-
-&lt;p&gt;The fifth attempt by Thrune was the one they felt they couldn’t fight, at least
-not without destroying the land and city they were trying to protect. So the
-group decided to surrender. Jade remembers this one - it’s when she was sent
-away.&lt;/p&gt;
-
-&lt;p&gt;The documents also say their main headquarters was under the Opera House (which
-Barzilai is currently using as his home), and that their main tool in defending
-the city was something called “The Song of Silver”. Jade remembers this is an
-actual song with magical powers, but again she was too young to grasp more
-details. Rexus believes the score and lyrics for the song might still be out
-there - finding them would be a major boon to the revolution.&lt;/p&gt;
-
-&lt;p&gt;Last but not least, all the operational advice in the papers gives the new
-Silver Ravens a permanent +2 to all three organization traits. I’m keeping track
-of it in the org sheet, and will post the updated version on our next strategic
-turn.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-hocums-fantasmagorium&quot;&gt;[Player] Hocum’s Fantasmagorium&lt;/h1&gt;
-
-&lt;p&gt;Rexus tells the group that translating the documents has left him with a strong
-conviction that his parents might still be alive. He knows the Archivists kept a
-hideout under an abandoned museum named Hocum’s Fantasmagorium, and that among
-the things his mother had Urist deliver him was a small mithril key that he
-knows will open the way to the hideout.&lt;/p&gt;
-
-&lt;p&gt;He thinks his parents and other survivors from the order might still be hiding
-under there, and are in need of help.&lt;/p&gt;
-
-&lt;p&gt;Urist… kind of agrees, but he’s not as optimistic. When he returned to
-Kintargo from his away mission, he approached the Fantasmagorium but noticed
-that all of the pre-arranged telltale signs on and near the surface building
-were flipped to “danger”, so he never tried to get in. He still thinks the group
-should go there in force, but he doesn’t think they’ll find the place intact.&lt;/p&gt;
-
-&lt;p&gt;This ends their meeting in a kind of somber note, and they get to preparing for
-the delve.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-delver-preparation&quot;&gt;[Player] Delver Preparation&lt;/h1&gt;
-
-&lt;h2 id=&quot;supplementary-actions&quot;&gt;Supplementary Actions&lt;/h2&gt;
-
-&lt;p&gt;If we had managed to acquire one team of Spies or Saboteurs at this point we
-could have used a Covert Action to get a basic layout for the Fantasmagorium,
-or a Sabotage action to rig a trap on the main door to catch fleeing enemies.&lt;/p&gt;
-
-&lt;p&gt;We slacked a bit on the team upgrade front, so we can’t do either of those.&lt;/p&gt;
-
-&lt;p&gt;However, I am going to “cash in” the biggest story benefit from Urist’s origin
-as the Last Archivist here. He’s been here before, though not since before the
-place was raided. So he knows and can share the entire layout of both the
-Phantasmagorium and Monastery levels, retrieved from the but he has no idea
-about the number and disposition of the enemies inside.&lt;/p&gt;
-
-&lt;p&gt;This means he does know how to open the secret passage to the Monastery. The
-party could go right to the second level and skip all the opposition here if
-they wanted to.&lt;/p&gt;
-
-&lt;p&gt;However, They don’t want to. We’re going in there to clear the monastery of
-Asmodeans.&lt;/p&gt;
-
-&lt;h2 id=&quot;tactical-planning&quot;&gt;Tactical Planning&lt;/h2&gt;
-
-&lt;p&gt;Let’s do this the same way we did back in Scene 08, by looking at the
-characters’ personality traits and figuring out what approach they would prefer
-and how they would argue for that with the others.&lt;/p&gt;
-
-&lt;p&gt;As mentioned above, they know the detailed layout of both dungeon levels, and
-they have a magic key that opens (or locks!) every door in the dungeon. Rexus
-gave them that, along with a request to go in there and look for Archivist
-survivors. But this planning session is being held without him.&lt;/p&gt;
-
-&lt;p&gt;You see, Urist believes that if any other Archivists remain, they wouldn’t be
-there. There were secret danger signs posted around the place, which caused him
-to turn back when he went there alone. This means that someone else might have
-escaped, but it also means that the hideout isn’t empty. The place is likely
-full of Thrune lackeys of some description.&lt;/p&gt;
-
-&lt;p&gt;As he lays all of this out to the rest of the group, he proposes a new “main”
-goal: get those fascists out of there, with maximum force. Even if all other
-Archivists are dead, there are things in there that should not fall into their
-hands.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Arcturus&lt;/strong&gt;, who is Impulsive and Overconfident, obviously thinks they should
-kick in the front door and fight the whole enemy force head on. It’s a perfect
-plan! Nothing can go wrong with it!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jade&lt;/strong&gt; advises a little more caution. She thinks this is likely to devolve
-into a big fight anyway, but there’s no reason to give up the element of
-surprise so early. A quick, decisive, and &lt;em&gt;stealthy&lt;/em&gt; raid is the way to go
-here, trying to catch at least some of the enemies unaware.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Jania&lt;/strong&gt; doesn’t think any forces remaining there would pose too much of a
-problem to a group like theirs, but she believes being clever and sneaky is
-part of what makes them so strong. And that she provides that cleverness and
-sneakyness, of course. There’s no reason to make things harder than they need
-to be, so she thinks they should maintain surprise for as long as possible.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Rosalia&lt;/strong&gt; just wants the rest to pick a door and go in, and says they’ll
-adapt as they go along. She knows the opposition might be strong, but she’s
-not big on memorizing complex plans.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Urist&lt;/strong&gt;, on balance, agrees with Jania. He’s confident in the group’s
-ability to handle the opposition but he’s spent a long time with an
-organization that values wisdom and prudence.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the end, they end up agreeing on the stealthy plan. Scout out the best
-entrance, try to stay sneaky for as long as possible, go loud once the fighting
-starts in earnest.&lt;/p&gt;
-
-&lt;h2 id=&quot;equipment-acquisition&quot;&gt;Equipment Acquisition&lt;/h2&gt;
-
-&lt;p&gt;The PCs actually have very little in the way of personal funds, since they
-dumped most of what they had into the organization. So our shopping spree here
-is very anticlimatic.&lt;/p&gt;
-
-&lt;p&gt;Rosalia buys a second pouch and 12 paper cartridges of pistol ammunition so she
-can finally use her Gunslinger trait with the pistol we found a while back. That
-costs her $16. You might remember she made a note to do this “as soon as
-possible” back in Scene 06.&lt;/p&gt;
-
-&lt;p&gt;Urist and Jade spend three silvers ($60) to buy a couple of light vials.&lt;/p&gt;
-
-&lt;p&gt;Next, I will distribute some of the potions they have stashed in the Wasp Nest
-here.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rosalia leaves the guitar home for this one, and gets the Healing Gem.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Urist and Jania each get 1 vial of Paut.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Jade gets 1 minor healing potion and Art gets 3.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Urist will carry the 2 vials of Universal Antidote.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;point-expenditure&quot;&gt;Point Expenditure&lt;/h2&gt;
-
-&lt;p&gt;So far I’ve spent some of our team’s earned character points to make them better
-at directing the rebellion, but now I feel the need to spend what we have
-stashed in making them better delvers, following the wishlists from their
-published starter sheets and their current delving plans.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Urist has 8 points. Let’s spend 1 to improve Hidden Lore (Demons) to 14, 2 to
-buy Physiology (Demons) at 13, and the remaining 5 to get Higher Purpose (Slay
-Demons) 1.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Art has 8 points. He improves his Lifting ST to 2 for 6 points, and his Knife
-skill to 17 for 2.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Jade has 6 points. I want to save until I can get an extra point of ST for
-her, so she won’t spend any here. That’d be 4 more points.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Jania has 5 points. While I really want to save for another level of
-Spell-Thief Expertise, I think we must acquire Trace and Glass Wall for this
-delve, so we spend 2 of those points.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Rosalia has 5 points. Her primary wishlist item was getting a gun and ammo for
-it, which we have now, so let’s spend 4 of those points on Guns (Pistol), and
-one on Off-Hand Weapon Training (Pistol).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;player-delving-hocums-fantasmagorium&quot;&gt;[Player] Delving Hocum’s Fantasmagorium&lt;/h1&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img alt=&quot;A dungeon map of a building with wooden floors and walls. There&apos;s a
-  big circular room in the middle and several rectancular rooms all around it,
-  with different museum exhibits in each one. Rooms are labeled E1 to E10.&quot;
-       src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-hocums-fantasmagorium.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;With Rexus’ mithril key in hand, the Ravens can finally raid the monastery. And
-a raid it will be, as they don’t just want to look for survivors, they want to
-send an even stronger message than the one from the Salt Works rescue
-operation. The Night of Ashes will not go unpunished.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, we’ll still be using the mechanics from my &lt;a href=&quot;/octopus-carnival/2020/01/24/old-school-movement.html&quot;&gt;Old School
-Movement&lt;/a&gt; post, but they will be moving at five times the default pace since
-there will be no mapping. This means our exploration turns will be 2 minutes
-long, and they can spend a turn to either search a room or to move up to 40
-meters. They automatically roll to detect traps, secrets, treasures and enemies
-during their movement.&lt;/p&gt;
-
-&lt;p&gt;The mithril key will be used to open any locked doors, as Urist assures the
-others it fits every lock in the hideout. It will also be used to lock any doors
-they go through as they leave cleared rooms.&lt;/p&gt;
-
-&lt;p&gt;There are two doors into the Fantasmagorium, the front entrance and the gift
-shop exit to the side. Which one will they use to enter? I make a d2 roll, 1 is
-front entrance 2 is gift shop. I get a 2. Gift shop it is. That’s Area E9 on the
-book’s map.&lt;/p&gt;
-
-&lt;p&gt;We’ll assume the party managed to get here without incident, as I want to get
-the main event started. They sneak up to the door and Jania casts Glass Wall on
-it (all related tests succeed). She immediately sees that the door is boarded
-up, and though the boards block her vision, she can see there are people milling
-about in there.&lt;/p&gt;
-
-&lt;p&gt;Still riding on their Stealth success, the party instead goes around to the
-front door, where Jania drinks a vial of Paut and tries Glass Wall again. This
-door is unblocked and there seems to be no one on the other side, so they
-quietly unlock it and enter. And now we’re really on.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-1&quot;&gt;Turn 1&lt;/h2&gt;
-
-&lt;p&gt;The door leads to a small empty anteroom with an open door to the left and a
-grand passage to the front, leading to a hall full of exhibits. Daylight spills
-in from the opened front door, but further in the interior is dim. Jade and Art
-activate and begin wearing their previously purchased light vials.&lt;/p&gt;
-
-&lt;p&gt;The party enters and Jania and Art quickly check the small side room. Art of all
-people immediately spots a few coins and a ring half-buried by the dust on the
-floor, and Jania scoops them up. She can sense the ring is magical but will
-await until they’re out before doing any further analysis.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-2&quot;&gt;Turn 2&lt;/h2&gt;
-
-&lt;p&gt;The whole group proceeds to the big round room (E3 on the map). It’s full of
-skeletons and crumbling taxidermied animals posed in menacing ways, and a
-midling quality fresco full of monsters adorns one of the walls. Before they can
-examine the place further, two of those skeletons, which look like they belonged
-to very large apes, animate and attack!&lt;/p&gt;
-
-&lt;p&gt;Jania quickly hides behind Arcturus as the two large skeletons charge the group,
-flailing their clubs and limbs around. One engages Urist, and the two become
-locked in combat. The other engages Arthur, who parries the skeletal arm
-swinging the club.&lt;/p&gt;
-
-&lt;p&gt;The wrestler holds fast and uses the leverage to deliver a devastating kick to
-the monster’s rib cage, all but shattering it. Jade finishes it off by
-decapitation.&lt;/p&gt;
-
-&lt;p&gt;Urist continues to defend himself against the remaining skeleton as every other
-PC closes in on it. Rosalia steps to its flank and hits its left leg with her
-saber, causing the creature to wheel around to attempt to hit her and lose its
-balance, making it easy prey for the rest of the party.&lt;/p&gt;
-
-&lt;p&gt;They take a moment to breathe and decide on their next move.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-3&quot;&gt;Turn 3&lt;/h2&gt;
-
-&lt;p&gt;There are three doors leaving this room, aside from the one they came in, and
-only the “map west” door is open. Our want to clear the place of Asmodeans and
-so they decide to move through the open door and lock it behind them, going
-through every room in the complex.&lt;/p&gt;
-
-&lt;p&gt;This leads them to a large exhibit of marine animals. It’s full of skeletons
-both mounted and accidental, as it used to contain several aquariums with live
-specimens that dried out decades ago. There doesn’t appear to be anyone here, so
-the group takes the open passage to “map north” (to area E5).&lt;/p&gt;
-
-&lt;p&gt;(&lt;strong&gt;GM&lt;/strong&gt;: They wouldn’t have met the undead ningyos here since they only rise at
-night, but I decided to remove them anyway. This filler figth is an awkard fit
-for GURPS.)&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-4&quot;&gt;Turn 4&lt;/h2&gt;
-
-&lt;p&gt;The party moves into Area E5, the Insect Exhibit. There are many terrariums here
-filled with ruined environments and the shells of dead bugs.&lt;/p&gt;
-
-&lt;p&gt;There’s also a bunch of taxidermied giant insects mounted around the place,
-including a giant spider that reaches almost to the ceiling. And a dessicated
-dead body wearing Asmodean armor with its skin full of red welts fallen by a
-broken terrarium on the north wall.&lt;/p&gt;
-
-&lt;p&gt;The party doesn’t have time to speculate any more before the eight juvenile
-giant spiders responsible for his death scuttle from under the furniture and
-move to attack them.&lt;/p&gt;
-
-&lt;p&gt;(&lt;strong&gt;GM&lt;/strong&gt;: The book calls these Scarlet Spiders. Here, they’re Big Spiders from DF
-Monsters p.32. They’re actualy quite a bit more dangerous than the originals,
-but I feel this might be a better challenge for our DF delvers.)&lt;/p&gt;
-
-&lt;p&gt;The spiders are quite large, and reddish in color. Starving, they charge the
-party right away, attempting to bite them, though the PCs largely fend off this
-initial clumsy assault. Jade kills a spider with her sword, while Arcturus
-squeezes another to death, but the creatures prove too agile for the rest of the
-party to hit just yet.&lt;/p&gt;
-
-&lt;p&gt;With the spiders stuck in, their attacks become more careful and precise,
-forcing our heroes to retreat to avoid their bites. There isn’t a lot of room
-amid the terrarium displays, so they cannot keep doing this for long. One of the
-remaining spiders manages to briefly jump on Arcturus’ back and bite him, but
-its fangs fail to penetrate his scale armor. Whew! Before any of the others can
-get lucky, however, the party manages to kill them all. Most of the work is done
-by Jade’s sword and Art’s stompy boots.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-5&quot;&gt;Turn 5&lt;/h2&gt;
-
-&lt;p&gt;The party spends the next two minutes searching the room. Jania finds out that
-the spiders likely came from the shattered terrarium to the north. There are
-traces of a long-term stasis effect on it, something so expensive to set up the
-wonders if it wasn’t the reason the Fantasmagorium went bankrupt. It held a very
-large amount of giant spider eggs, which have all hatched.&lt;/p&gt;
-
-&lt;p&gt;The newborn spiderlings were probably responsible for killing the Asmodean
-cleric on the floor. And then they spent a while eating each other until only
-the eight survivors were left, having reached a larger size. She doesn’t know,
-and doesn’t particularly care, why the Asmodeans in the building chose to leave
-their dead buddy lying there. All she cares is he has plenty of loot.&lt;/p&gt;
-
-&lt;p&gt;A comemorative Fantasmagorium gold-plated medal clutched in his hand, a money
-purse, a scroll belt with several magical scrolls, and a suit of armor that
-pings her magic sense. She takes the scrolls, and makes a mental note to come
-back later and take the armor.&lt;/p&gt;
-
-&lt;p&gt;(&lt;strong&gt;GM&lt;/strong&gt; After conversion, the souvenir medal is worth $250, and and the money
-is 19 silver coins ($380). The scroll belt is the one from Adventurers: $60,
-0.5kg holds 10 scrolls. The scrolls are all universal and charged: Panic
-(Spells p. 55, 1-hex radius, $400); Bravery (Spells p. 53, 2-hex radius,
-$400); Curse (1 point, Spells p. 51, $300); Deathtouch (2d, DF spells. p 20,
-$200).)&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-6&quot;&gt;Turn 6&lt;/h2&gt;
-
-&lt;p&gt;The party resumes exploration, heading east through Area E6. Urist knows the
-entrance to the Many Steps Monastery is below the statue of Aroden prominently
-displayed here, but the PCs decide to leave this for later. They know there’s a
-large group of Asmodeans on this level and they want to clear it before going
-down.&lt;/p&gt;
-
-&lt;p&gt;They proceed to area E7, a wax museum with statues of varying quality. One of
-them is of Professor Mangvuhne, the infamous Temple Hill Slasher who was found
-out and executed 116 years ago. They can only tell because of the name plate, as
-the statue’s face was mostly disfigured.&lt;/p&gt;
-
-&lt;p&gt;They notice some movement in the rooms ahead, so they stop for a while to
-prepare.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-7&quot;&gt;Turn 7&lt;/h2&gt;
-
-&lt;p&gt;Jania takes the opportunity to search the room and notices that the remaining
-eye on Mangvuhne’s face seems to be some kind of worked semiprecious stone, so
-she spends a bit of time removing it. It’s a work of art, and worth a pretty
-penny.&lt;/p&gt;
-
-&lt;p&gt;She then decides to spend her newly acquired Deathtouch scroll here, casting it
-on her cane to save time in the fight ahead. The rest of the party all prepares
-their weapons, and they begin the process of sneaking to area E8.&lt;/p&gt;
-
-&lt;p&gt;(&lt;strong&gt;GM&lt;/strong&gt;: At this point I prepared the enemies for areas E8 to E10 because this
-is going to turn into a major slugfest with all of them if combat breaks out at
-any of those areas.)&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-8&quot;&gt;Turn 8&lt;/h2&gt;
-
-&lt;p&gt;Jania sneaks ahead, and manages to spot two of the zombies in area E8 without
-being noticed. She doesn’t spot the others because they’re off in the little
-side room to the left, on the other side of the wall she’s hiding behind. Still,
-she signals the rest of the party that there are enemies ahead.&lt;/p&gt;
-
-&lt;p&gt;They also know there are &lt;em&gt;more&lt;/em&gt; enemies on the room after that, so Jade guesses
-it’s time to go loud. Urist casts Armor, giving himself an extra +2 DR, and they
-march forward. The zombies see them coming, but don’t seem interested in leaving
-their assigned room. The fight starts as soon as our heroes enter, and the PCs
-spot the extra three zombies as soon as that happens too. No one is surprised.&lt;/p&gt;
-
-&lt;h3 id=&quot;rounds-1-3&quot;&gt;Rounds 1-3&lt;/h3&gt;
-
-&lt;p&gt;The party begins fighting the zombies, who try to grapple and bite them in
-return, with little success. The sounds of the fighting alert the redactors next
-door, who quickly spot the battle through the open passage from their room and
-begin shouting to warn their boss about the intruders.&lt;/p&gt;
-
-&lt;p&gt;Raul, the cleric in charge of the redactors on this level, exits his office and
-yells at the monks to go kill the intruders already. They draw their knives and
-run towards the PCs, arriving within melee range after the party has destroyed
-four of the five zombies.&lt;/p&gt;
-
-&lt;p&gt;One of the redactors tries hitting Jade with a fancy kick, and gets his leg
-crippled for the trouble. She finishes him off right after this. Meanwhile, Raul
-struggles to catch up as he was both more heavily armored and farther away.&lt;/p&gt;
-
-&lt;h3 id=&quot;rounds-4-6&quot;&gt;Rounds 4-6&lt;/h3&gt;
-
-&lt;p&gt;The remaining three redactors do only a little better than the zombies. They’re
-more agile, but also more fragile. Jade quickly wounds one and kills another,
-with Urist finishing off the first one. The third manages to stab Jania and
-wound her, prompting Jade to do a Heroic Charge across the room and kill
-him. Raul has time to arrive and cast a Deathtouch spell on his mace, but Art
-begins grappling with him before he can swing it. He is now the only enemy left
-standing.&lt;/p&gt;
-
-&lt;p&gt;I could continue the fight here. Raul has a full energy pool and might be able
-to do some damage before the PCs take him down. But the original adventure
-emphasizes that he’s a coward. In Pathfinder he has 21 HP and surrenders
-unconditionally when he reaches 5. In GURPS, where he might be taken down with a
-single turn’s worth of lucky attacks, I think it makes sense for him to
-surrender right now. Plus there’s plenty more dungeon below and I want to get to
-that. So we can call the fight right away.&lt;/p&gt;
-
-&lt;h2 id=&quot;turns-9-10&quot;&gt;Turns 9-10&lt;/h2&gt;
-
-&lt;p&gt;Raul surrenders and begs for his life. After some discussion, during which
-Rosalia uses her Healing Gem on Jania, they end up accepting the surrender. None
-of them like Asmodeans very much but they also don’t like killing surrendered
-opponents. The party strips him of his gear and possessions, which include a
-magic mace and a magical suit of armor, a gold unholy symbol, a bag of gems, and
-the ancient book he was studying in his office at Area E10.&lt;/p&gt;
-
-&lt;p&gt;The party ends up locking Raul in the office, after checking that he can’t
-escape through the boarded-up window. His gear and treasure they store behind
-the counter here, to take home later.&lt;/p&gt;
-
-&lt;p&gt;No one picks up his armor or weapons right now, as they don’t want to use gear
-festooned with Asmodean marks. They’re going to stash them in Area E9 for
-retrieval and “cleaning” after they’re done with this place.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-11&quot;&gt;Turn 11&lt;/h2&gt;
-
-&lt;p&gt;Once again ready to proceed, the party returns to Area E6, where Urist uses the
-secret combination on the mechanism disguised by Aroden’s statue and opens up
-the stairs to the Many Steps Monastery.&lt;/p&gt;
-
-&lt;p&gt;This concludes this level of the dungeon, and this scene of the adventure. We’ll
-make a new one in our next post.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-loot-tally&quot;&gt;[Player] Loot Tally&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Money:&lt;/li&gt;
-  &lt;li&gt;22 silvers ($440, 0.22kg)&lt;/li&gt;
-  &lt;li&gt;1 copper ($1, 0.01kg)&lt;/li&gt;
-  &lt;li&gt;Ring of Swimming (+5 to Swim when worn, $2600, neg.)&lt;/li&gt;
-  &lt;li&gt;Golden medal ($250, neg.)&lt;/li&gt;
-  &lt;li&gt;Scroll Belt ($60, 0.5kg)&lt;/li&gt;
-  &lt;li&gt;Charged universal scrolls:
-    &lt;ul&gt;
-      &lt;li&gt;Bravery, 2m radius ($400)&lt;/li&gt;
-      &lt;li&gt;Curse, 1 point ($300)&lt;/li&gt;
-      &lt;li&gt;Panic, 1m radius ($400)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Alabaster Snake Eye ($1500, neg.)&lt;/li&gt;
-  &lt;li&gt;A Balanced Dwarven Mace with Puissance 1 ($5450, 2.5kg)&lt;/li&gt;
-  &lt;li&gt;Magic Armor (brigandine chest, light cloth limbs, no helmet, Fortity 1
-and Lighten 1; $4674, 11.7kg)&lt;/li&gt;
-  &lt;li&gt;An unholy symbol worth $1000 as jewelry.&lt;/li&gt;
-  &lt;li&gt;8 onyxes, each worth $250, for a total of $2000 worth of gems.&lt;/li&gt;
-  &lt;li&gt;A rare sacred text for the dead god Aroden, worth $1000, in the museum offices
-where Raul was working when the alarm was raised.&lt;/li&gt;
-  &lt;li&gt;2 Victocora signet rings ($750 each) on the fingers of two of the
-zombies. Yup, Rexus’ parents.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/05/18/lphr-scene-13.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/05/18/lphr-scene-13.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
         
         
       </item>
