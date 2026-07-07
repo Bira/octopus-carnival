@@ -53,8 +53,9 @@ back depending on the direction of change.
 **Strength (ST)** determines your capacity for dealing physical **damage**, your
 **Basic Lift** that measures how much you can lift and carry, and your **hit
 points**. GURPS HP does not have the abstract fuzziness of its D&D counterpart -
-its hit points are "meat points". The meatier you are, the more HP you have, and
-this total does not increase in any other way.
+its hit points are "meat points". The meatier you are, the more HP you have. You
+can increase HP separately with points, but there are limits to this, so it
+remains fundamentally anchored to your beefiness.
 
 The sole mental attribute, **Intelligence (IQ)** is the basis for every mental
 skill in the game. It also determines your **Perception** and **Will**, which as
@@ -68,7 +69,8 @@ nearly every physical skill in the game.
 a physical nature, including unconsciousness and death when your HP goes below
 zero. A few physical skills that are more dependent on stamina than coordination
 are tied to HT. It also determines your **Fatigue Points**, which you spend in
-order to perform exhausting tasks or fuel special powers.
+order to perform exhausting tasks or fuel special powers, including
+spells. Wizards need good cardio in this game!
 
 DX and HT together determine your **Basic Speed**, a number that can be
 fractional. This is how fast you can react, particularly in combat. Rounded
