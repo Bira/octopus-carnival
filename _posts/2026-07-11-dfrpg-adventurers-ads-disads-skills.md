@@ -188,4 +188,4 @@ structure in your games, or that you really want to run the full Iron Gods
 adventure path, then GURPS might be of help.
 
 
-[2]: {{ "/xxxx/xx/xx/dfrpf-adventurers-introduction.md" | relative_url }}
+[2]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
