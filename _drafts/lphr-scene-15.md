@@ -60,14 +60,89 @@ They immediately a pair of burly devils with swords ready to fight among a group
 of tables and chairs filled with books and other documents. Just behind them are
 three hooded weirdoes. It's a fight!
 
+## Turn 1
+
 Art charges right away, aiming to slam into one of the devil guards, but as soon
 as he crosses into the room an additional hooded weirdo who had been hidden just
 out of sight springs his Readied ambush, stepping forward and attempting to stab
 him in the kidneys. His angle is awkward, however, and the knife slides
 harmlessly over Art's scale armor as he continues to rush past undeterred.
 
+Jade runs in to help, and passes close enough to the _other_ redactor waiting in
+ambush that he decides to have a go, though she manages to parry his attacks
+without much trouble.
 
+The tar devils step forward and... secrete tar nets into their free hands,
+tossing them at Art and Jade in an attempt to ensnare them. Art dodges the net
+meant for him, but Jade is struck and restrained. Oh no!
 
+Rosalia runs forward and uses the Song of Humiliation to stun the redactor that
+was about to stab Art. Urist runs forward to join the fray, Jania begins casting
+a big Ice Dagger spell, and the remaining hooded weirdoes move closer to the
+action.
+
+## Turn 2
+
+A PC goes first this turn, but I stop to deliberate a bit since the
+positions here are all tricky. No matter who goes, it will leave an enemy in a
+position to do something bad to someone else...
+
+... and then I realize Arcturus would not wait around like this, so he goes
+first and immediately attempts a Heroic Charge aimed at the devil that tried to
+ensare him. The monster dodges the grapple attempt, and the two are now in close
+combat. The tar devil tries to grapple him right back, with no success either.
+
+Urist bashes the redactor menacing Jade, and the heavily wounded monk retreats
+in a bit of a panic. Rosalia gives chase and stuns him with her voice. Instead
+of trying to free herself from the tar net, Jade chooses to stab the stunned
+redactor adjacent to her from behind, and kills him. The tar devil tugs on the
+tether connecting him to Jade's net, and tightens it around her further.
+
+One of the hooded weirdoes proves casts a Dark Tendrils spell at Art, but rolls
+a critical failure and produces only intangible tendril-shaped wisps. The other
+two keep getting closer to Urist and Rosalia.
+
+## Turn 3
+
+Art begins taking damage from the tar devil's aura, but persists in trying to
+grapple it. This time he manages to establish a firm hold, and the creature
+fails to slip out of his grasp.
+
+Jania steps forward and begins aiming her spell at the south-most adept, who
+tries to ensnare Rosalia in shadow tendrils but also fails to cast his
+spell. Rosalia, rather than engaging the two hooded weirdoes near her, steps
+back and tries to cut the net restraining Jade. The sticky strands prove too
+resistant at first, though.
+
+    [GM] I rule this is an "armed grappling" attack to remove control points
+    from the target. Questions of if and how the devil could defend from this
+    become moot as she misses the initial attack.
+
+The creature pulls at the tether to tighten the net, but fortunately Jade
+manages to become further entangled. Urist interposes herself between the
+"southern weirdoes" and his friends, and blocks a stab from the advancing
+redactor.
+
+## Turn 4
+
+Rosalia stuns the tar devil that had ensnared Jade, and steps to engage the
+stunned redactor. Urist finishes him off before turning his attention to the
+intact specimen engaged with him. This one keeps failing to find an way around
+the dwarf's shield.
+
+Jania finally releases her Ice Dagger and impales the south-most adept through
+the chest, ending his life. The other one finally manages to get a spell right
+and entangles Rosalia in shadowy tendrils!
+
+Art lifts the devil he's grappling and slams him onto the floor for massive
+damage, knocking the creature unconscious and finally allowing the Atlantean
+wrestler to step away from the stinky thing.
+
+The remaining devil remains stunned; Jade remains as entangled as before.
+
+## Turn 5
+
+An enemy acts first on this one.
 
 # The Silver Ravens (End of Adventure)
 

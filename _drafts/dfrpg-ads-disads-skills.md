@@ -18,7 +18,7 @@ describing every trait in these chapters in detail. I'll describe their general
 workings here, and talk about specific examples when they become relevant in the
 templates.
 
-## Advantages
+# Advantages
 
 Advantages have fairly straightforward basic mechanics. You pay character points
 equal to an advantage's cost and you get the capabilities described in its
@@ -31,17 +31,18 @@ can't get in other ways (like a photographic memory, a danger sense, or good
 luck). Many of them also give bonuses to Reaction Rolls, and take the place of
 the generic Charisma attribute from D&D.
 
-Dungeon Fantasy is by default pretty strict about niche protection in
-templates. When spending earned character points to improve your character, you
-can buy any advantage listed on their template directly, even if it's not yet on
-your sheet. If you want to get something that's not listed there, you and the GM
-need to make sure you won't be stepping on anyone's toes.
+Dungeon Fantasy is by default pretty strict about niche protection in templates,
+much more so than core GURPS. When spending earned character points to improve
+your character, you can buy any advantage listed on their template directly,
+even if it's not yet on your sheet. If you want to get something that's not
+listed there, you and the GM need to make sure you won't be stepping on anyone's
+toes.
 
 The list in this chapter is mainly for stuff that could be acquired by any
 character. The templates themselves also have mini-lists of exclusive
 advantages that cannot be acquired by delvers of other professions.
 
-## Disadvantages
+# Disadvantages
 
 Disadvantages have _negative_ point costs, so they give you more points to spend
 elsewhere. For Dungeon Fantasy, the default disadvantage limit is -50. That's
@@ -70,14 +71,14 @@ half the listed points for the disadvantage (since it's less severe), or you can
 choose 9 or 6 to get more (and then you have to live with the
 consequences). Nothing else modifies this number. It doesn't matter what your
 Will score is, or how many other mental defenses you have. And of course, you
-can always choose to succumb to your disadvantage without rolling, if it would
-make for a good roleplaying scene.
+can always choose to succumb to your disadvantage without rolling, if you think
+it'd be fun or make for a good roleplaying scene.
 
 The book offers a neat solution for those cases where it isn't clear or
 desirable to engage in the behavior implied by the disadvantage: when it comes
 into play, it gives you a -1 penalty per -5 points of its cost for whatever it
 is you're trying to do. So the player of your typical horny bard isn't forced to
-make a pass at every attractive person they meet, but they might occasionally
+make a sleazy pass at every attractive person they meet, but they might occasionally
 need to weather a -3 penalty to their actions because they got distracted by
 that attractiveness.
 
@@ -88,7 +89,7 @@ so on. There are ways to fix them with magic, but you will suffer their effects
 until that happens.
 
 
-## Skills
+# Skills
 
 Advantages and disadvantages get a lot of attention, but skills are just as
 important a part of the system's core. Most actions you perform regularly in an
@@ -119,9 +120,10 @@ does every skill associated with it.
 
 Skills also have a difficulty, which determines what their starting level is
 when you spend your first point in them. It can be one of Easy, Average, Hard,
-and Very Hard. The point cost progression is the same, but the different
-starting positions mean you need to spend more on harder skills to get the same
-level.
+and Very Hard. The costs are always the same: 1 point for the starting level, 2
+for the next one, and 4 points for every level thereafter. The different
+"starting positions" for the various difficulties ensure that a harder skill
+ends up costing more for the same skill level.
 
 Skills also have defaults, which are the numbers you roll against when you have
 no training in a skill. It's always a much worse number than the one you'd get
@@ -133,7 +135,7 @@ Some skills might have additional pre-requisites. The most common of those are
 spells, which can only be learned and used by someone with the appropriate
 magical aptitude advantages.
 
-### Active Defenses
+## Active Defenses
 
 These get their own entry because they're a little special. They're a big part
 of a character's ability to survive combat, and might be more important than
@@ -148,11 +150,12 @@ damage. Everyone else gets the chance to make an active defense roll.
 
 There are three possible defenses: you can **Parry** with your melee weapon or
 hands, you can **Block** with a shield, or you can **Dodge**. Parries are based
-on your own weapon skill, and can handle most melee attacks. Blocks are based on
-the Shield skill and can stop ranged attacks as well, but obviously require a
-shield. Dodging is good against everything and can be done multiple times in a
-turn without penalty, but it's going to have a smaller score than the others
-because it's based on your Basic Speed and penalized by your encumbrance.
+on your skill with the parried weapon, and can handle most melee attacks. Blocks
+are based on the Shield skill and can stop ranged attacks as well, but obviously
+require a shield. These defenses have scores equal to (Skill/2) + 3. Dodging is
+good against everything and can be done multiple times in a turn without
+penalty, but it's going to have a smaller score than the others because it's
+equal to your Basic Speed + 3 and penalized by your encumbrance.
 
 Succeeding at your defense roll means you completely avoid the attack! This is
 not a contest - simple success is enough to protect you. This means anyone with
@@ -160,5 +163,29 @@ defenses of 11 or higher due to high skill or specialized advantages is very
 annoying to fight. There are also several strategies attackers can adopt to try
 to reduce or nullify an opponent's defense score, but we'll get to them when we
 get to them.
+
+# Differences from GURPS
+
+If you're familiar with GURPS, then you'll notice several differences in this
+more specialized version of it. It's not trying to be fully generic, for
+starters: this means that every advantage, disadvantage, and skill that didn't
+apply directly to the dungeon fantasy genre was removed.
+
+For skills, that mostly means anything that was too "high-tech" or out of
+genre. Your typical fantasy delver will never drive a truck or do a
+scientifically-accurate spacewalk.
+
+Advantages and disadvantages got the same treatment. Also gone are those traits
+you only see in monsters (like extra limbs and eyes) and all the social traits
+that could mess too much with the basic Dungeon/Town mechanic or otherwise
+interfere with your delving. You and your GM probably aren't interested in all
+the mechanic and story complications that Rank and Status and Allies and Patrons
+and Enemies and Dependents can bring to a game.
+
+You can still have those things in the story, but the specific structure
+enforced by those traits doesn't bind you. If you find that you really need that
+structure in your games, or that you really want to run the full Iron Gods
+adventure path, then GURPS might be of help.
+
 
 [2]: {{ "/xxxx/xx/xx/dfrpf-adventurers-introduction.md" | relative_url }}
