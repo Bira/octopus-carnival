@@ -19,5 +19,13 @@ number of people have heard about it.
 
 - [DFRPG Adventurers Introduction][2]
 
+- [Chapter 1: Basics][3]
+
+- [Advantages, Disadvantages, and Skills][4]: Technically these are chapters 4,
+  5 and 6 but I felt it was better to go over them before talking about
+  templates.
+
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
+[3]: {{ "/2026/07/07/dfrpg-adventurers-basics.html" | relative_url }}
+[4]: {{ "/2026/07/11/dfrpg-adventurers-ads-disads-skills.html" | relative_url }}
