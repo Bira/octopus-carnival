@@ -178,10 +178,10 @@ out with decent armor and other bits of expensive but important gear.
 This is some useful advice for making a Dungeon Fantasy adventuring
 party. Players should consult both with each other and with the GM when picking
 their templates. The typical campaign throws diverse challenges at the players,
-and these demand a diverse party. A group needs enough fighty types to survive,
-with a mix of ranged and melee attacks. They also need enough specialized
-problem-solvers like thieves and spellcasters to handle any weirder challenges
-that might pop up.
+and these demand a diverse party. A group needs enough fighty types to survive
+combat, with a mix of ranged and melee attacks. They also need enough
+specialized problem-solvers like thieves and spellcasters to handle any weirder
+challenges that might pop up.
 
 That being said, the GM should advise the players about what types of challenge
 they can expect in the campaign, and which professions are more or less likely

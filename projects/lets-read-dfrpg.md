@@ -25,7 +25,10 @@ number of people have heard about it.
   5 and 6 but I felt it was better to go over them before talking about
   templates.
 
+- [Chapter 2: Professions][5]: One of the most important parts of the book.
+
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
 [3]: {{ "/2026/07/07/dfrpg-adventurers-basics.html" | relative_url }}
 [4]: {{ "/2026/07/11/dfrpg-adventurers-ads-disads-skills.html" | relative_url }}
+[5]: {{ "/2026/07/19/dfrpg-adventurers-professions-intro.html" | relative_url }}
