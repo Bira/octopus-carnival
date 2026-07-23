@@ -6,9 +6,167 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Jul 2026 14:02:55 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 14:02:55 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 15:55:43 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:55:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Dungeon Fantasy Adventurers: The Barbarian</title>
+        <description>&lt;p&gt;The Barbarian is our first template because they’re listed in alphabetical
+order. Like the D&amp;amp;D Barbarian, this one is a beefy raider from some far-off
+region whose culture the campaign’s dominant society finds a bit strange. Unlike
+that other barbarian, however the Dungeon Fantasy Barbarian is &lt;em&gt;not&lt;/em&gt; necessarily
+“the angry one”.&lt;/p&gt;
+
+&lt;p&gt;Barbarians are big beefy fighters with big personalities, and have wilderness
+survival skills compatible with their home region. These skills make them very
+valuable party members in wilderness-focused adventures and campaigns, and their
+combat skills are useful everywhere.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
+
+&lt;p&gt;Barbarians start with ST 17, DX 13, IQ 10, and HT 13. They also start with HP
+increased to 22, Perception increased to 12, and Basic Speed decreased to 6.00.&lt;/p&gt;
+
+&lt;p&gt;Their starting strength and HP makes them by far the strongest and toughest
+delvers in our lineup. Due to a rule we’ll see in the Campaigns book, that 22 HP
+also means any healing applied to the barbarian counts double. They’re not just
+hard to kill, they’re also easy to heal.&lt;/p&gt;
+
+&lt;p&gt;High HP should never be your only defense, and the Barbarian does have
+others. However, there are things out there that can bypass everything else, so
+it’s still nice to have.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;All barbarians have High Pain Threshold {10} and Outdoorsman 2 {20}. The first
+helps a lot with reducing pain-based penalties, particularly when you take
+damage. The other is a Talent, an advantage that directly increases the level of
+a set of skills; in this case, outdoorsy survival ones.&lt;/p&gt;
+
+&lt;p&gt;They can also spend 40 points on buying more advantages from a list displayed
+here. I won’t go over them one by one, but they fall into a few
+categories beyond the standard “increased stats plus Luck”:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stuff that makes you tougher, both against HP damage and against the sort of
+Bad Stuff that demands resistance rolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stuff that lets you fight better, an ironically small category for
+barbarians. Most of their combat effectiveness comes from their raw strength
+and high weapon skill, not from special powers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Stuff that makes them even better at outdoor survival. Of note is further
+increasing Outdoorsman up to the maximum level of 6, letting them improve
+survival skills as if they had IQ 16, Per 18, or DX 19. Improving this talent
+is always a better deal in terms of points than improving the individual
+skills.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;All barbarians have Social Stigma (Minority Group) {-10}. This gives them a
+penalty to reactions from others in social situations and is due to the
+differences between the barbarian’s culture and the one where the campaign takes
+place. If the campaign is in the Barbarian’s homeland, of course, you can remove
+this and replace it with -10 points in other disadvantages from the template’s
+customization tables.&lt;/p&gt;
+
+&lt;p&gt;There are two here: a small one with further traits for more accentuated
+cultural differences (such as Gullible, a fear of machinery, or reduced starting
+wealth). And a large one of stereotypical barbarian personality traits, for
+those who want to have gigantic melancholies and gigantic mirth.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Barbarians start with either skill 18 in a two-handed weapon, or skill 16 in a
+one-handed weapon and in shields. This is pretty high by core GURPS standards,
+and it’s what you need if you want to attack every turn with little in the way
+of setup. It also gives you a pretty decent Parry defense in melee.&lt;/p&gt;
+
+&lt;p&gt;They also get one ranged weapon skill, which could be the ability to throw their
+melee weapon depending on that choice. Like every delver, they also get some
+emergency unarmed combat skills.&lt;/p&gt;
+
+&lt;p&gt;After that you have a selection of outdoor survival skills, many of which are
+covered by the Outdoorsman talent.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-barbarian-traits&quot;&gt;Special Barbarian Traits&lt;/h2&gt;
+
+&lt;p&gt;Barbarians can buy strength up to 25 and HP up until 1/2 of their ST (not just
+1/3). Other Barbarian-only traits include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Discriminatory Smell&lt;/strong&gt; lets you have Wolverine’s nose. You can memorize
+scents and recognize them later, get a big bonus to both smell-based
+Perception rolls and the Tracking skill.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Lifting ST&lt;/strong&gt;: You can lift even more than your already impressive strength
+indicates. Add this to ST to determine your Basic Lift and general feats of
+strength, but not your damage or HP.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Temperature Tolerance&lt;/strong&gt;: In Cold and Heat versions, this gives a bonus to
+resist temperature related effects. This is how Conan can walk shirtless in
+the snow. You can have up to three levels of both.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tough Skin&lt;/strong&gt;: Adds to your damage resistance as if it was armor! It’s still
+flesh, though, so it doesn’t protect the eyes and doesn’t work against attacks
+that just require skin contact or a small scratch to take effect. Barbarians
+can have up to 3 levels. It &lt;em&gt;does&lt;/em&gt; stack with worn armor.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
+
+&lt;p&gt;The book has some example archetypes here to guide players who don’t quite know
+which traits to pick from the template.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;angry one&lt;/em&gt; might pair Berserk and Bloodlust with the traits that make them
+tougher. Note that Berserk is a major disadvantage, not a superpower. A
+&lt;em&gt;survivalist&lt;/em&gt; has more Perception and Outdoorsman, traits like Discriminatory
+Smell, and disadvantages like reduced Wealth and illiteracy. A &lt;em&gt;wilderness
+guardian&lt;/em&gt; might be Fearless and an Animal Friend, but also Overconfident and
+burdened with a Sense of Duty to Nature.&lt;/p&gt;
+
+&lt;p&gt;Weapon and survival skills should match the feel of barbarian’s origin
+culture. A viking could have Spear and Shield, plus Survival (Arctic),
+Seamanship, and Skiing, for example.&lt;/p&gt;
+
+&lt;p&gt;ST 17 or more means any weapon is effective in the hands of a barbarian, so they
+can save some money by taking something big and relatively cheap like a spear,
+axe or mace. Swords are expensive!&lt;/p&gt;
+
+&lt;h2 id=&quot;example-barbarian&quot;&gt;Example Barbarian&lt;/h2&gt;
+
+&lt;p&gt;Way back in 2017 when the DFRPG had just come out, I wrote up most of the
+Pathfinder iconics as DFRPG starting characters. You can look at Amiri the
+Barbarian &lt;a href=&quot;/octopus-carnival/2017/09/25/pathfinder-dfrpg-barbarian.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next&lt;/h2&gt;
+
+&lt;p&gt;Bards!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/07/23/dfrpg-adventurers-barbarian.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/23/dfrpg-adventurers-barbarian.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Dungeon Fantasy: Professions!</title>
@@ -1560,72 +1718,6 @@ find a way to program them into CGS.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hell&apos;s Rebels Bestiary: Raul Azvernathy, Asmodean Cleric</title>
-        <description>&lt;p&gt;Part of the &lt;a href=&quot;/octopus-carnival/projects/hells-rebels-bestiary&quot;&gt;Bestiary&lt;/a&gt; for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels game&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Raul is a “named miniboss” for Adventure 1’s capstone dungeon, and appeared in
-&lt;a href=&quot;/octopus-carnival/2026/05/18/lphr-scene-13.html&quot;&gt;Scene 13&lt;/a&gt; of my playthrough. He survived his first appearance, but was still
-soundly defeated and is unlikely to show up again.&lt;/p&gt;
-
-&lt;p&gt;The original book flips the order of his name and surname, but I undid that
-because it’s silly.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-lore&quot;&gt;The Lore&lt;/h1&gt;
-
-&lt;p&gt;All Asmodeans are assholes, of course, but Raul Azvernathy is &lt;em&gt;such&lt;/em&gt; an asshole
-not even his fellow priests tolerate him. He manages to both have an oversized
-ego and be a cowardly, conniving sycophant. High Priest Grivener was happy at
-the chance to send him to a dead-end posting far away from the main temple.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-numbers&quot;&gt;The Numbers&lt;/h1&gt;
-
-&lt;p&gt;Raul looks a bit like a PC cleric, and wears the heavy armor plus
-mace-and-shield combination you would expect from a D&amp;amp;D cleric. This makes him a
-bit slow, which meant he arrived late at the fight. Had this not happened, he
-would have been an interesting threat with a small squad of redactors to
-distract the party from his spellcasting.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 13; &lt;strong&gt;DX&lt;/strong&gt; 11; &lt;strong&gt;IQ&lt;/strong&gt; 14; &lt;strong&gt;HT&lt;/strong&gt; 12;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HP&lt;/strong&gt; 13; &lt;strong&gt;Will&lt;/strong&gt; 14; &lt;strong&gt;Per&lt;/strong&gt; 12; &lt;strong&gt;FP&lt;/strong&gt; 12; &lt;strong&gt;ER&lt;/strong&gt; 10.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;SM&lt;/strong&gt; 0; &lt;strong&gt;Speed&lt;/strong&gt; 6.00; &lt;strong&gt;Move&lt;/strong&gt; 4.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dodge&lt;/strong&gt;: 8; &lt;strong&gt;Parry&lt;/strong&gt; 10 (12); &lt;strong&gt;Block&lt;/strong&gt; 10 (12)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;DR&lt;/strong&gt; 0 (head); 6 (Body); 2 (limbs).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dwarven Mace&lt;/strong&gt; (15): 2d+4 cr; Reach 1.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Shield Bash&lt;/strong&gt; (14): 1d cr; Reach 1.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;: Flaming Weapon-14; Paralyze Limb-15; Total Paralysis-15;
-Invisibility-15; Minor Healing-15; Major Healing-15; Command-15; Deathtouch-15&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gear&lt;/strong&gt;: Balanced Dwarven Mace enchanced with Puissance 1 ($5450; 2.5kg); Medium
-Shield; Suit of armor (brigandine chest, light cloth limbs, no helmet, Fortity 1
-and Lighten 1; $4674, 11.7kg)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Traits&lt;/strong&gt;: Callous, Coward, Bully.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/05/28/hr-bestiary-raul.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/05/28/hr-bestiary-raul.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>bestiary</category>
         
         
       </item>
