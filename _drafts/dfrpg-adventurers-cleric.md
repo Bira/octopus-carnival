@@ -69,7 +69,7 @@ For weapon skills, you can pick the traditional "mace and shield" package, or
 follow Friar Tuck's example and just take Staff. Your one-handed weapon could
 also be an axe, flail, or sword too - you don't have to imitate D&D on this
 particular detail. Your skill will end up as either 15 or 14, which means combat
-isn't necessarily your strong suit compared to the other delvers.
+isn't necessarily your strong suit compared to some of the other delvers.
 
 All clerics know the basic skills required of their trade, like Religious
 Ritual, Public Speaking, Theology, and a few others. They also know how to
@@ -90,7 +90,7 @@ described in this section too, along with two esoteric skills that require it:
 
 - **Esoteric Medicine (Holy)**: A hard skill to learn, but it can replace
   mundane First Aid and Surgery in places with any level of sanctity above
-  "none"
+  "none".
 
 - **Exorcism**: Rituals for cleansing cursed areas and treating posession
   victims.

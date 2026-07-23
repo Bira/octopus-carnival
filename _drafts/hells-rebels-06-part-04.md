@@ -147,8 +147,8 @@ adventure expects PCs to see visions of Barzilai torturing people, beating
 servants to death or vivisecting small animals for the lulz and think "this is
 understandable and forgivable".
 
-This asshole doesn't need understanding or forgiveness. All he needs is to be
-_stopped_. If he's anything like the people he's named after, any sort of
+This asshole doesn't need understanding or forgiveness. All he needs is _to be
+stopped_. If he's anything like the people he's named after, any sort of
 compassion you show him will be interpreted as weakness and increase his
 resolve.
 
@@ -189,12 +189,12 @@ to kill the PCs when they try to leave, instead of attacking on sight.
 This is not a torture chamber, but a nicely appointed and perfumed
 bathhouse. It's meant to torture Thrune himself, who has a pathological
 obsession with his estranged sister. There's a statue of her holding a lyre,
-which every so often animates and plays the score to the Song of Silver. In here
-is also a nereid named Sondilisa, who was kidnapped from her home in the Plane
-of Water by one of Mephistopheles' lackeys. She looks almost exactly like the
-lost sister, by pure coincidence. Her captor instructed her to sing the lyrics
-to the Song when the statue begins playing. Barzilai is hooked up to a scrying
-sensor that activates whenever the song starts.
+which every so often animates and plays the melody to the Song of Silver. In
+here is also a nereid named Sondilisa, who was kidnapped from her home in the
+Plane of Water by one of Mephistopheles' lackeys. She looks almost exactly like
+the lost sister, by pure coincidence. Her captor instructed her to sing the
+lyrics to the Song when the statue begins playing. Barzilai is hooked up to a
+scrying sensor that activates whenever the song starts.
 
 Sondilisa is one of the innocents trapped here. She will fight if attacked, but
 she's not hostile at first. She'ĺl tell the PCs all she knows about her

@@ -94,9 +94,9 @@ whirlpools, a giant carnivorous aquatic bug called a "charybdis" (har har).
 ## Ravounel Forest
 
 This is the hardest signature to get by far. Common knowledge about Ravounel
-Forest says it's a dangerous wilderness full of monsters, which of course means
-there's at least two significant native settlements in here. The leader of
-either one is qualified to sign the treaty.
+Forest says it's a dangerous and unpopulated wilderness full of monsters, which
+of course means there's at least two significant native settlements in here. The
+leader of either one is qualified to sign the treaty.
 
 The forest is frequently assailed by storms, giving rise to rumors that a cult
 of Rovagug hides there. Rovagug is the most Chaotic Evil deity in the whole

@@ -35,9 +35,8 @@ retain their memories (and powers!) after Pharasma judges them, which doesn't
 normally happen. This can let them become powerful outsiders right from the
 start instead of spending some eons as a blank-slate petitioner first.
 
-The goddess itself doesn't seem to mind this one way or the other, but her
-divine and mortal servants hate Soul Anchors and destroy every one they can
-find.
+Pharasma actually doesn't seem to mind this one way or the other, but her divine
+and mortal servants hate Soul Anchors and destroy every one they can find.
 
 This one is located in the Underdark under Kintargo, in the middle of a shrine
 called the Soulbound Fane. It used to be guarded by a powerful cult of
@@ -124,8 +123,8 @@ After the fight, the PCs can take the heart by simply reaching into the Anchor
 and pulling it out. This will expose the PC in question to the Anchor. The only
 way to avoid this is to have a summoned creature take the Heart, as it only
 responds to the touch of living flesh. Tools or TK spells won't work. Of course,
-since exposure causes the PCs to retain their memories after they die, you might
-get the whole party trying to touch the thing.
+since exposure causes the PCs to retain their memories after they die, the whole
+party decide they want to touch the thing anyway.
 
 Nasperiah, if she's still around, probably doesn't mind them doing that, and
 will of course gladly let the PCs leave with the Heart. In addition to the

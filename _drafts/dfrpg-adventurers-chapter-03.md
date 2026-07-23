@@ -33,8 +33,8 @@ King. They're human, they very rarely leave Town, and they don't have good
 opinions about things outside of their daily experience. In other words, they're
 the opposite of "open-minded" and "cosmopolitan". Ordinary Townsfolk recognize
 adventuring as a profession, but not a very respectable one. I guess that's in
-part because delvers will accept "just about anyone", as PCs are not affected by
-Social Stigmas. Still, they're happy to sell stuff to adventurers, who always
+part because delvers will accept "just about anyone", since Social Stigmas don't
+apply between PCs. Still, they're happy to sell stuff to adventurers, who always
 have plenty of money to spend.
 
 The very first sentence in the actual text of the chapter does state that "race"
@@ -111,8 +111,8 @@ They're compatible with human armor (the tail can be safely tucked in), and they
 can buy gauntlets and boots that expose their claws but still protect their
 hands and feet at no extra cost.
 
-**Dwarves** are pretty much what you'd expect. Short, sturdy, really good at
-mining and at killing people with axes, excellent night vision. Also greedy and
+**Dwarves** are pretty much what you'd expect. Short, sturdy, excellent night
+vision, really good at mining and at killing people with axes. Also greedy and
 stubborn.
 
 **Elves** represent "green" or "wood" elves with a hands-on approach to

@@ -10,7 +10,13 @@ tags:
 Chapter 2 of Adventurers is all about Professions, and contains the templates
 nearly all players will use to build their characters. Your profession is
 roughly equivalent to a D&D character's class. It determines the things you are
-good at and "how" you're good at them. The ones in this book are:
+good at and "how" you're good at them.
+
+I will be looking at each template in its own post, since there's enough
+material about them to justify this. This post is mostly an introduction to the
+chapter, telling you what templates we have and how to read them.
+
+The templates in this book are:
 
 - **Barbarians** are strong and tough warriors who are adept at wilderness
   survival.

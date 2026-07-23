@@ -159,14 +159,14 @@ not need permission to send armies into Ravounel. The Board hasn't met in about
 70 years, and its existence is unknown to the general public. Therefore, neither
 Barzilai nor Jilia count as officially appointed.
 
-If Cheliax marches armies into the region after being denied permission, _the
-entire Cheliax Covenant_ is voided. Hell removes its backing, making Cheliax an
-easy target for its many antifascist neighbors, resentful protectorates, and
-home-grown rebels.
+**Termination Clause**: If Cheliax marches armies into the region the officially
+appointed governor denies them permission, _the entire Cheliax Covenant_ is
+voided. Hell removes its backing, making Cheliax an easy target for its many
+antifascist neighbors, resentful protectorates, and home-grown rebels.
 
-**Termination Clause**: The contract cannot be terminated while the Cheliax
-Covenant is active, but is immediately voided when the Covenant is
-terminated. No canceling just this contract in order to invade!
+This individual contract cannot be terminated while the Cheliax Covenant is
+active, but is immediately voided when the Covenant is terminated. So Cheliax
+can't decide to cancel just this contract in order to invade.
 
 ### Deciphering the Contracts
 
@@ -279,8 +279,10 @@ independence for all of Ravounel.
 
 With the information in hand, the party now needs to find a way back into their
 home plane. They might be able to cast Plane Shift on their own, but that
-deposits them in a random spot on Golarion, so it's not ideal. Oddie has a
-solution, though! Do you want to sign a contract?
+deposits them in a random spot on Golarion, so it's not ideal. Of course they
+can fix that with a quick Teleport too if they have that. But if neither
+solution is avalable (like they won't be for DF delvers) Oddie has a solution!
+Do you want to sign a contract?
 
 His contract is awfully straightforward. The party gets to use the worm tunnel
 to go back and appear on the main stage of the Opera House, in exchange for the
@@ -293,7 +295,8 @@ into ratifying a governor if he thinks they're taking too long.
 
 If they _kill_ Oddie in the course of breaking into his office, they should
 still be able to retrieve the names from his notes, but returning home becomes
-harder. It's Plane Shift or nothing.
+harder. You either Plane Shift or end the session right there to give your GM
+time to come up with an Escape From Hell adventure.
 
 ## Next Time On "Let's Read Hell's Rebels!"
 

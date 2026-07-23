@@ -126,6 +126,14 @@ ST 17 or more means any weapon is effective in the hands of a barbarian, so they
 can save some money by taking something big and relatively cheap like a spear,
 axe or mace. Swords are expensive!
 
+## Example Barbarian
+
+Way back in 2017 when the DFRPG had just come out, I wrote up most of the
+Pathfinder iconics as DFRPG starting characters. You can look at Amiri the
+Barbarian [here][1].
+
 ## Coming up Next
 
 Bards!
+
+[1]: {{ "/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}

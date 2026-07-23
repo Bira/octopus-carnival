@@ -40,7 +40,7 @@ enhance social skills and give them reaction bonuses in most instances of
 personal interaction.
 
 They also have two levels of Bardic Talent, the bard spellcasting trait. That
-lets them use a subset of wizard spells (from the Communication and Empaty, Mind
+lets them use a subset of wizard spells (from the Communication/Empathy, Mind
 Control, and Sound colleges). It's also a prerequisite for Bard-Song powers.
 
 They have a further 60 points to spend on customizable advantages, which include
@@ -50,8 +50,8 @@ the usual stat increases plus stuff in the following categories:
   them power spells. This point pool can also be spend on any Bard-Song powers
   listed with the template.
 
-- More social power! There are more social buffs than just Charisma and Voice,
-  and many of them are in this list.
+- More social power! There are more social buffs beyond Charisma and Voice, and
+  many of them are in this list. Including, yes, a prettier physical appearance.
 
 - More music power! A small set of advantages that make you a better musician or
   performer. This makes you better at using some Bard-Song powers and can also

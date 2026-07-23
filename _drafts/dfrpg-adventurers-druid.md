@@ -56,7 +56,8 @@ indoors.
 Your melee skill choices are Spear, Staff, or a weapon-and-shield setup similar
 to the cleric's. Ranged choices are throwing your melee weapon, or using
 something quirkier like a blowpipe or a set of bolas. The druid chooses to leave
-archery to the Scout.
+archery to the Scout. Your skill will end up being 15 or 14 like the Cleric's
+and the other professions for whom combat is secondary.
 
 Druids also get a lot of skills for handling animals and plants and surviving in
 the wilderness, knowing the hidden lore of spirits, fairies or elementals. They

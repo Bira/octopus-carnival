@@ -93,8 +93,8 @@ read the full contract. And Adventure Six retcons all this and tells us he stays
 in Hell "until Ravounel becomes a free nation".
 
 That could potentially be _much longer_ than Barzilai's natural life... but hey,
-guess what the just did in the previous volume? They made Ravounel into a free
-nation!
+guess what the PCs just did in the previous volume? They made Ravounel into a
+free nation!
 
 So as Adventure Six starts, Barzilai has begun his transformation, and the only
 way to stop it is to trigger the termination clause of his mephistophelic
