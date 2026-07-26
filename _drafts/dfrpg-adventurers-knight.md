@@ -119,7 +119,7 @@ about weapon and disadvantage choice. The book also says it's important to
 decide if you want to completely master a single weapon be decently skilled in a
 wide variety of them. High skill is definitely powerful, but there's value in
 keeping your options open in campaigns where the GM is enthusiastic about
-random loot tables.
+random loot.
 
 As a personal note, I'm going to say Weapon Master is so good it feels almost
 mandatory. Few things are more dangerous in the battlefield than a ST 17+ Weapon
