@@ -181,6 +181,14 @@ of the Holy abilities listed on the Holy Warrior's section and vice-versa.
 
 ## Customization Notes
 
+Making a heavily armored D&D cleric with a mace and shield is a possibility
+here, but note that while ST 12 is above average it can still mean your
+character might be substantially slowed down by heavier armor. There are several
+ways to remedy that, of course: higher ST is one, and it also helps you do more
+damage with that mace. Magic armor is also a good alternative, both for reducing
+weight and increasing the protection of lighter pieces. But you'll need to
+adventure under heavy encumbrance for a bit before you gain access to that.
+
 Disadvantage-wise, "intolerant inquisitor" and "compassionate saint" are the two
 big choices here. Most of the section is spent on spell list recommendations,
 with one example centered on buffs, one on healing, and another on supernatural

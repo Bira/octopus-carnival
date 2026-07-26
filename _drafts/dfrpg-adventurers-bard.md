@@ -122,7 +122,8 @@ them as often as you like.
 - **Song of Humiliation** (4 points): This game's equivalent of Vicious
   Mockery. Roll a contest of your Singing vs. the target's Will, and if you win
   they're mentally stunned! That makes it _a lot_ easier for you or someone else
-  to land a hit on them. Even better, this is a free action!
+  to land a hit on them, and prevents them from taking action until they
+  recover. Even better, this is a free action!
 
   This power only works in people who are "vulnerable to insults", i.e, who are
   sapient, can understand the bard, and are not immune to mental effects. It
