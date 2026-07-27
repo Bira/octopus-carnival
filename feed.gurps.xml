@@ -5,9 +5,194 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Jul 2026 14:03:04 +0000</pubDate>
-    <lastBuildDate>Sun, 26 Jul 2026 14:03:04 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 10:48:28 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:48:28 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Bard</title>
+        <description>&lt;p&gt;Dungeon Fantasy Bards have a little of that “jack of all trades” vibe from
+certain editions of D&amp;amp;D. They have a bit of the thief’s sneakiness, the wizard’s
+magic, and the swashbuckler’s fencing. However their real strength lies
+elsewhere. They have special insight into a mystery that eludes most other
+delvers. In other words, they have &lt;em&gt;social skills&lt;/em&gt;. And more seriously, they
+also have access to the powers of Bard-Song.&lt;/p&gt;
+
+&lt;p&gt;Bards excel in campaigns that involve heavy doses of social interaction, whether
+it happens in the city or inside the dungeon. In more combat-centered campaigns,
+they can still pull their weight against enemies with minds vulnerable to their
+magic, and they help immensely when selling loot back in town.&lt;/p&gt;
+
+&lt;p&gt;I feel this template lets bards be a little more distinct from each other than
+they are in D&amp;amp;D. You can still play a fop with poofy sleeves, a fancy feathered
+hat, a smallsword, and a lute, but it takes relatively few changes to move away
+from that.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
+
+&lt;p&gt;The default statline for bards is ST 11, DX 12, IQ 14, HT 11, which clearly
+marks them as brainy sorts. Their Basic Speed is increased to 6.00 but the
+secondary stats are otherwise untouched.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;Charisma is not a stat in Dungeon Fantasy, but rather just one of a large set of
+advantages and disadvantages that affect your social reaction modifiers. All
+bards start with one level of Charisma and the Voice advantage, both of which
+enhance social skills and give them reaction bonuses in most instances of
+personal interaction.&lt;/p&gt;
+
+&lt;p&gt;They also have two levels of Bardic Talent, the bard spellcasting trait. That
+lets them use a subset of wizard spells (from the Communication/Empathy, Mind
+Control, and Sound colleges). It’s also a prerequisite for Bard-Song powers.&lt;/p&gt;
+
+&lt;p&gt;They have a further 60 points to spend on customizable advantages, which include
+the usual stat increases plus stuff in the following categories:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;More magic power! This means extra Bardic Talent and an Energy Reserve to help
+them power spells. This point pool can also be spend on any Bard-Song powers
+listed with the template.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More social power! There are more social buffs beyond Charisma and Voice, and
+many of them are in this list. Including, yes, a prettier physical appearance.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;More music power! A small set of advantages that make you a better musician or
+performer. This makes you better at using some Bard-Song powers and can also
+help in social situations.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;There are two separate lists to choose from. The first demands you choose -15
+points and contains traits that represent being some sort of extreme
+extrovert. You’re not just good at social interaction, you &lt;em&gt;crave
+it&lt;/em&gt;. Lecherousness is in this list, for those who think bards need to be horny.&lt;/p&gt;
+
+&lt;p&gt;The second list asks you to choose -35 points of traits that make you a flighty
+and capricious creature. Are you a compulsive teller of tall tales? Do you have
+an actual addiction to tricking enemies in amusing ways? Or are you the sort of
+person whose plans are never more complex than “chaaaarge!!!”?&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;You favor fencing when you fight. Skill packages let you have Skill 15 with a
+fencing sword, or Skill 14 with that weapon and then skill 14 with either a
+shield, an off-hand dagger, or a cloak.&lt;/p&gt;
+
+&lt;p&gt;You get one ranged skill as well, either Bow or something for throwing knives or
+grenades.&lt;/p&gt;
+
+&lt;p&gt;Your standard non-combat skill package includes a &lt;em&gt;lot&lt;/em&gt; of social skills, plus
+singing, one musical instrument skill of your choice, and musical
+composition. Your optional background skills include some rogue stuff and more
+situational social and adventuring skills.&lt;/p&gt;
+
+&lt;h2 id=&quot;spells&quot;&gt;Spells&lt;/h2&gt;
+
+&lt;p&gt;You get to pick 15 wizardly spells from the Communication and Empathy, Mind
+Control, or Sound colleges. Your Power Talent is Bardic Talent, and its default
+level means your spells will start out at level 14 or 13 depending on their
+difficulty.&lt;/p&gt;
+
+&lt;p&gt;Your bard spells are considered wizardly, and you learn them as if you were a
+wizard. This means you must respect prerequisite chains, and your spellcasting
+is sensitive to local mana levels. If one of the prereq spells is outside of
+these colleges, you must learn it but can’t cast it. As an additional
+requirement, you must be able to &lt;em&gt;sing&lt;/em&gt; to cast spells with Bardic Talent. Don’t
+let then silence you!&lt;/p&gt;
+
+&lt;h2 id=&quot;special-bard-traits&quot;&gt;Special Bard Traits&lt;/h2&gt;
+
+&lt;p&gt;The same Bardic Talent advantage acts as pre-requisite for Bard-Song abilities,
+and adds its level to any rolls required by those powers. It also boosts your
+Musical Composition, Singing, and Musical Instrument skills.&lt;/p&gt;
+
+&lt;p&gt;Bard-Song abilities have the same limitations as wizard magic: they require mana
+to work, they’re affected by Magic Resistance, and they can be dispelled. You
+also must be able to sing or play an instrument to use them, like for your
+spells. However unlike spells they don’t cost Fatigue Points, so you can use
+them as often as you like.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of Command&lt;/strong&gt; (35 points): Win a contest of your IQ vs. your target’s
+Will, and you can control their mind for as long as you keep singing or
+playing an instrument.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of Echoes&lt;/strong&gt; (14 points): It’s an active sonar! Use your Hearing roll to
+perceive your surroundings through darkness or fog, or to spot invisible
+enemies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of Humiliation&lt;/strong&gt; (4 points): This game’s equivalent of Vicious
+Mockery. Roll a contest of your Singing vs. the target’s Will, and if you win
+they’re mentally stunned! That makes it &lt;em&gt;a lot&lt;/em&gt; easier for you or someone else
+to land a hit on them, and prevents them from taking action until they
+recover. Even better, this is a free action!&lt;/p&gt;
+
+    &lt;p&gt;This power only works in people who are “vulnerable to insults”, i.e, who are
+sapient, can understand the bard, and are not immune to mental effects. It
+also can only be attempted once per victim per combat. When it works it’s
+wonderful, however, and it’s so cheap most bards should take it.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of Sending&lt;/strong&gt; (21 points): Lets you transmit messages over extremely
+long distances as if you were whispering into your recipient’s ear.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of Terror&lt;/strong&gt; (21 points): &lt;em&gt;Everyone&lt;/em&gt; who hears this (in combat, everyone
+within 16 yards) must make a Fright Check. This is the game’s “fear”
+roll. Failing causes mental stunning and might have nastier consequences for
+those who fail really badly. Note that it’s not selective, so your buddies
+who are not immune to fear should plug their ears.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Song of the Wild&lt;/strong&gt; (18 points): The Disney Princess song. While you play it,
+you can communicate with animals, who answer you back in song as well. A good
+investment for bards heading into the wilderness, or for canny spymasters who
+know pigeons and rats and spiders have a lot to say.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
+
+&lt;p&gt;Despite the “jack of all trades” vibe, the book recommends picking a specialty
+and focusing on it. The suggested ones are Bard-Song powers, spellcasting, or
+mundane social skills. Bards are not completely useless at physical combat or
+stealth, but they still work best as supporting cast for those activities.&lt;/p&gt;
+
+&lt;p&gt;Bards are one of the classes who might have a use for spending quirk points on
+extra starting cash, as their chosen weapon is a sword and they might also want
+a nice musical instrument. However, this isn’t mandatory, as there are some
+cheaper alternatives for both types of item. A thrifty bard can fence with a
+cane and use their voice as their instrument, casting spells a capella.&lt;/p&gt;
+
+&lt;h2 id=&quot;example-bard&quot;&gt;Example Bard&lt;/h2&gt;
+
+&lt;p&gt;Back in 2017 I statted up Lem iconic Pathfinder Bard for the DFRPG
+&lt;a href=&quot;/octopus-carnival/2017/09/25/pathfinder-dfrpg-barbarian.html&quot;&gt;here&lt;/a&gt;. My inexperience shows a bit in that I &lt;em&gt;didn’t&lt;/em&gt; take Song of
+Humiliation for him. You’re also getting a preview of the Halfling stats in his
+character sheet.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/07/27/dfrpg-adventurers-bard.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/27/dfrpg-adventurers-bard.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Session 3</title>
@@ -1457,258 +1642,6 @@ it a primarily physical combat threat despite its brainy lore.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>bestiary</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Session 1</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
-
-&lt;p&gt;If you’re reading this, it means we’re officially caught up with my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;solo Hell’s
-Rebels campaign&lt;/a&gt;. This means future updates will be spaced further apart, but
-they will still happen.&lt;/p&gt;
-
-&lt;p&gt;Anyway, in the &lt;a href=&quot;/octopus-carnival/2026/05/18/lphr-scene-13.html&quot;&gt;previous scene&lt;/a&gt;, our heroes completed the first level of
-Adventure 01’s capstone dungeon. In this one, we’ll begin to tackle the second
-level.&lt;/p&gt;
-
-&lt;p&gt;The entire level will be Scene 14 by the standard of Mythic, though I’ll break
-it apart into multiple posts so as to not keep y’all waiting for new
-updates. I’ll play my “sessions” as time and whim permit, and post an update
-once I have a good chunk of text.&lt;/p&gt;
-
-&lt;p&gt;To recap, this is the former hideout of the Secret Order of Archivists, which
-used the abandoned Hocum’s Fantasmagorium on the surface as a cover for the
-underground Many Steps Monastery. The whole place has been raided by Thrune’s
-forces in the Night of Ashes several weeks ago, and is currently being occupied
-by a force of Asmodean redactor-priests who are mopping up the last vestiges of
-the raid before abandoning the site. Nox is also here, and our PCs will
-hopefully get to deal with her in this scene.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-procedure-review&quot;&gt;[GM] Procedure Review&lt;/h1&gt;
-
-&lt;p&gt;As in the &lt;a href=&quot;/octopus-carnival/2026/05/18/lphr-scene-13.html&quot;&gt;previous scene&lt;/a&gt;, I’m preparing each room as the PCs get into
-it. You can also refer to this link for an overview of the walls and doors in
-this level, and of the procedure I’m using to conduct the delve.&lt;/p&gt;
-
-&lt;p&gt;This is a single delve, so we start counting our turns from where we left off in
-the previous scene.&lt;/p&gt;
-
-&lt;p&gt;There is a minor update here that I forgot to note in the previous scene: Jania
-got stabbed by one of the redactors in the final fight of the level, and was
-healed back to full by the expenditure of the healing gem Rosalia was carrying.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-delving-the-many-steps-monastery&quot;&gt;[Player] Delving the Many-Steps Monastery&lt;/h1&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img alt=&quot;A dungeon map of an underground hideoud. Rooms are labeled F1 to F7.&quot;
-       src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-many-steps-monastery.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;turn-12&quot;&gt;Turn 12&lt;/h2&gt;
-
-&lt;p&gt;The party descends the spiral staircase that links the levels. It’s quite long!
-Urist fondly reminisces that this is the reason why they named their hideout the
-“Many-Steps Monastery”. Most of the party silently groans at the pun, while
-Rosalia spends the rest of the descent quietly chuckling to herself.&lt;/p&gt;
-
-&lt;h2 id=&quot;turns-13-15&quot;&gt;Turns 13-15&lt;/h2&gt;
-
-&lt;p&gt;The heroes descend from the stairs into a huge, well-lit library that sadly lies
-mostly ruined (F1 on the map). The floor is decorated with a rune Urist says is
-sacred to the god Irori, but it’s also marred by dried bloodstains. Most of the
-shelves have been cleaned out, with the few remaining tomes piled carelessly in
-a corner.&lt;/p&gt;
-
-&lt;p&gt;Before they can further explore this place, one of the books in the pile opens
-on its own and rises to the air, letting out a noisy cloud of fluttering pages
-that begins swarming in the rough shape of a humanoid body, with the book covers
-as the head.&lt;/p&gt;
-
-&lt;p&gt;The group begins to ready their weapons, but the creature raises its arms in a
-conciliatory gesture.&lt;/p&gt;
-
-&lt;p&gt;“Greetings, intruders. I am Yiliv,” it says. “I am bound against my will to stop
-any intruders such as yourselves from getting through that door,” and then it
-points to the closed door in the west map-west wall. “However, the one who
-commands me has neglected to provide any instructions on what to do to those who
-remain on this room. Would you like to talk for a while?”&lt;/p&gt;
-
-&lt;p&gt;They catch on to the spirit’s meaning almost immediately, and then fill Arcturus
-in. The next little while is spent interrogating Yiliv about his history and
-what he knows of the complex.&lt;/p&gt;
-
-&lt;p&gt;Yiliv is a type of spirit known as a scrivenite. They’re all about gathering and
-preserving knowledge. They also are not averse to sharing that knowledge
-(“unlike certain other entities”). He was summoned and bound for a limited time
-by someone whose identity he is forbidden from disclosing. This person bribed
-him into accepting the binding with the opportunity to read a rare tome, but his
-tasks up until now have been mostly contrary to his own nature and
-disposition.&lt;/p&gt;
-
-&lt;p&gt;The spirit aided in the raid against the Monastery (“a ghastly affair”), and
-used his abilities to produce soul tomes on several captives as a form of
-interrogation. With the main portion of that work done, he is now tasked with
-guarding the passage into the next room until his binding expires in a a little
-under two months.&lt;/p&gt;
-
-&lt;p&gt;He can tell the complex currently houses four Asmodean redactors in the artifact
-recovery room, “playing with a defective dimensional gate”. Five more plus a
-summoned devil are in the common room, redacting documents. Nox and her pet
-hellhound are also somewhere in the complex, probably at the meditation
-garden. Yiliv is bound to raise a telepathic alarm as soon as anyone tries to
-cross the forbidden threshold, but the PCs have free rein of the room until they
-try to do so. Should he be destroyed in the material world, he will reform in
-his home dimension, free of the contract.&lt;/p&gt;
-
-&lt;p&gt;Most of the party listen pretty closely to what he has to say, though Rosalia
-wanders off to look around and spots what seems to be a still-locked secret
-panel. She makes a note of it for future looting, seeing as they’re kinda busy
-with an upcoming raid at the moment.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-16&quot;&gt;Turn 16&lt;/h2&gt;
-
-&lt;p&gt;When it seems like the heroes and Yyiliv have exhausted all the possible topics
-of friendly conversation, the spirit again warns that he will have to fight them
-should they move to cross the threshold, and that his orders force him to
-telepathically warn the Asmodeans in the rest of the complex about the party’s
-coming.&lt;/p&gt;
-
-&lt;p&gt;With nothing else to say, the party draws their weapons, Jade makes a dueling
-salute, and the fight is on.&lt;/p&gt;
-
-&lt;p&gt;It’s not much of a fight, really. Jade immediately steps forward and slashes at
-Yiliv’s book-cover “face”, damaging the spirit. He fails the ensuing stunning
-and knockdown roll, and then Jania runs in with a somewhat uncharacteristic
-Heroic Charge and whacks the pile of pages with her stick, which was &lt;em&gt;still&lt;/em&gt;
-charged with that Deathtouch scroll from the previous floor. The direct injury
-from that is enough to destroy Yiliv’s material form and banish him back home.&lt;/p&gt;
-
-&lt;p&gt;The spirit did fully intend to fight to the best of his ability, but the dice
-were not with him this time. Even if he had survived turn 1, he wouldn’t have
-much chance by himself against the whole party, though he might have inflicted
-some difficult-to-remove penalties on them.&lt;/p&gt;
-
-&lt;p&gt;Jania is glad to be rid of the active spell. That thing was unsafe! She’s also
-itching to check out that hidden panel which is surely full of goodies, but that
-will have to wait. Despite not lasting even a second against the party, Yiliv
-did raise the alarm, so everyone in this level knows they’re coming. Time to go
-loud.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-17&quot;&gt;Turn 17&lt;/h2&gt;
-
-&lt;p&gt;The party proceeds through the door Yiliv was guarding, going down a long flight
-of stairs and turning to the left. They keep going down a wide hallway and stop
-when it branches to their left. The branch is a narrow corridor with three
-doors, which Urist knows that leads to a couple of closets and one of the
-sleeping chambers for the higher-ranking archivists (F3a), and he goes down and
-opens the doors to confirm that the corresponding rooms are empty.&lt;/p&gt;
-
-&lt;p&gt;Rosalia does the same with another door on the main corridor (F2), which leads
-to a smaller bedroom that shows signs of recent use but is currently empty.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-18&quot;&gt;Turn 18&lt;/h2&gt;
-
-&lt;p&gt;The party proceeds down the wide hallway, and turns left again to what Urist
-tells them is an artifact vault where the Order kept dangerous and cursed items
-(F4). The scene here is quite grisly. Most of the shelves are empty and smashed,
-and the room is dominated by a massive web of chains and shadows that emerges
-from a metal cube at the center of the room. Impaled on some of the chains is a
-corpse wearing redactor robes, and which is smelling quite ripe.&lt;/p&gt;
-
-&lt;p&gt;It looks as though the chains exploded outwards from the artifact, and that this
-happened quite some time ago given the victim’s advanced state of decomposition.&lt;/p&gt;
-
-&lt;p&gt;Jania believes the artifact is a &lt;em&gt;cubic gate&lt;/em&gt;, which opened to some chain-themed
-area of the outer planes - there are several of those. The thing is probably
-broken now, but even in this state it would be &lt;em&gt;quite&lt;/em&gt; valuable to the right
-collector. Urist confirms it’s a gate.&lt;/p&gt;
-
-&lt;p&gt;Carefully, Jania approaches the cube at the center of this mess and by twiddling
-with the runes on its surface manages to deactivate it. The chains disappear
-with a poof, causing both the body and the gate to fall to the floor, the
-artifact’s magic now completley burned out.&lt;/p&gt;
-
-&lt;p&gt;And then, suddenly, ninjas!&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-preparing-the-ninjas&quot;&gt;[GM] Preparing the ninjas&lt;/h1&gt;
-
-&lt;p&gt;The original adventure places four asmodean redactors hiding around this room,
-despite their stat blocks having no stealth skills. They wanted to see what the
-PCs would do with the gate, and they attack once it’s disabled.&lt;/p&gt;
-
-&lt;p&gt;I want to spice things up a bit, since standard redactors don’t feel like they’d
-be a challenge to this group. Let’s replace one of them with an Asmodean Dark
-Adept that I first used back in Scene 2.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-back-to-the-delve&quot;&gt;[Player] Back to the Delve&lt;/h1&gt;
-
-&lt;h2 id=&quot;turn-19&quot;&gt;Turn 19&lt;/h2&gt;
-
-&lt;p&gt;The heroes hear a loud finger snap and suddenly find themselves surrounded by
-redactor monks! One of them has more elaborate robes, and is the one who snapped
-his fingers to dispel the invisibility that concealed the enemies. “Get them!”
-he shouts, and battle is joined!&lt;/p&gt;
-
-&lt;p&gt;This lot manages to make a better showing than the ones from the upper level,
-mostly because they start out surrounding our heroes. The Dark Adept ensnares
-Urist with his Dark Tendrils spell early on, and most of the other PCs have to
-turn to engage the redactor closest to them. Art is free, however, and since he
-has the Move for hit he decides to run all the way across the room and slam into
-the adept, disrupting his concentration and his spell as well as injuring him.&lt;/p&gt;
-
-&lt;p&gt;The rest of the fight is marked by a series of backstab maneuvers of varying
-effectiveness. A redactor tries it on Art but fails to penetrate his
-armor. Rosalia stuns a redactor and then Jania kills him with a knock to the
-skull from behind. Rosalia then runs down and backstabs the Dark Adept, who as a
-final act of defiance runs to flank her and then backstabs the bard. Urist kills
-the adept with a Sunbolt spell, and then Jade, having dealt with her initial
-opponent, approaches the grappled redactor and backstabs him.&lt;/p&gt;
-
-&lt;p&gt;This happened over the course of about four rounds in total, and it really
-underscores the importance of positioning, particularly when we’re doing
-Lancer-style initiative. If someone walks up behind a character, and then
-manages to activate again before that character, they’re going to get that free
-attack from starting their turn behind the opponent. Everyone here was pretty
-mobile, and the redactors got to use that for once instead of getting bogged
-down against a solid defense formation.&lt;/p&gt;
-
-&lt;p&gt;Urist heals Rosalia back to full health with a Major Healing spell. There’s
-probably loot to be had here (the ruined gate is still very valuable), but the
-party presses onward for now.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-intermission&quot;&gt;[GM] Intermission&lt;/h1&gt;
-
-&lt;p&gt;Our group went through rooms F1 through F4 in this post, and it took me about 8
-hours to do everything from drawing the dungeon map to statting up Yiliv to
-running the combats on Foundry, with a good hour or so of that being dealing
-with Foundry updates. There’s an incompatibility between the Lancer Initiative
-module and GURPS Game Aid that forces me to dive into the later’s code and
-make some hacky edits whenever it’s updated.&lt;/p&gt;
-
-&lt;p&gt;We have a couple more big fights coming up on F6 and F7. The F6 fight was
-against yet more redactors and an ogre, but I thik I’ll spice it up a bit with
-variant stat blocks. F7 is Nox and her hell hound, and there’s a big chance both
-fights might blur together as the F6 folks retreat into F7 or Nox comes out to
-help. I’ll need to “compile” both before I run them.&lt;/p&gt;
-
-&lt;p&gt;Our PCs are in raid mode right now so they’re just marking found loot for later
-retrieval. After we deal with Nox we’ll have a whole scene about collecting and
-tallying the loot.&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/06/14/lphr-scene-14.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/06/14/lphr-scene-14.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
         
         
       </item>
