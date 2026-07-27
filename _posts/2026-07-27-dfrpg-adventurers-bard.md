@@ -164,4 +164,4 @@ Back in 2017 I statted up Lem iconic Pathfinder Bard for the DFRPG
 Humiliation for him. You're also getting a preview of the Halfling stats in his
 character sheet.
 
-[1]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}
+[1]: {{"/2017/09/27/pathfinder-dfrpg-bard.html" | relative_url }}
