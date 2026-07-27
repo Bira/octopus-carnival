@@ -156,3 +156,12 @@ extra starting cash, as their chosen weapon is a sword and they might also want
 a nice musical instrument. However, this isn't mandatory, as there are some
 cheaper alternatives for both types of item. A thrifty bard can fence with a
 cane and use their voice as their instrument, casting spells a capella.
+
+## Example Bard
+
+Back in 2017 I statted up Lem iconic Pathfinder Bard for the DFRPG
+[here][1]. My inexperience shows a bit in that I _didn't_ take Song of
+Humiliation for him. You're also getting a preview of the Halfling stats in his
+character sheet.
+
+[1]: {{"/2017/09/25/pathfinder-dfrpg-barbarian.html" | relative_url }}
