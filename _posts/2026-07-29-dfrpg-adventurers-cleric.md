@@ -59,6 +59,12 @@ Sense of Duty to all correligionists, or a Vow to never use edged weapons. It's
 part of the "divine power" package, and represents the core vows the cleric has
 made to access them.
 
+A Sense of Duty means you _must_ help the specified group when they need it, and
+can't voluntarily abandon them; a Vow is exactly what it sounds like. Neither
+have self-control rolls, so there is no circumstance where it's okay to ignore
+them. Honesty does have a self-control number, though "resisting your honesty"
+too often probably counts as breaking your divine vows.
+
 The rest of these disadvantages are mostly split between "compassionate holy
 man" and "intolerant inquisitor" personality traits, with a side order of extra
 vows and ritual behavior that can work with either.
@@ -106,19 +112,19 @@ character needs at least one level in this talent to buy the related abilities.
 
 ### Clerical Spellcasting
 
-The cleric's spell list is smaller than the wizard's, but also much
-simpler. The only prerequisite for learning a given spell is a minimum level of
-Power Investiture.
-
-Another advantage clerical spellcasting has over the wizardly variety is
-exclusive access to certain types of magic - most notably healing spells.
+The cleric's spell list is smaller than the wizard's, but also much simpler. The
+only prerequisite for learning a given spell is a minimum level of Power
+Investiture. Another advantage clerical spellcasting has over the wizardly
+variety is exclusive access to certain types of magic - most notably healing
+spells.
 
 Cleric spells cost FP as normal, but depend on _ambient sanctity_ instead of
 mana. Sanctity is a measure of how much influence the cleric's deities have over
 a given place. It has the same named levels and rules as mana, but is completely
-independent from it. Most places are normal sanctity. Higher sanctity can be
-found in temples or other places holy to the deity. Lower sanctity usually means
-you're in a place that's holy to the deity's enemies.
+independent from it. Most places are "normal" sanctity. Higher sanctity can be
+found in temples or other places holy to the deity, and makes casting
+easier. Lower sanctity usually means you're in a place that's holy to the
+deity's enemies, and makes casting harder or even impossible.
 
 It's okay for the cleric to have some spell overlap with their wizard buddy, as
 they will still be able to cast if they find themselves no a no-mana zone that's
@@ -132,7 +138,10 @@ restricts their behavior, as we saw above. A player who doesn't like the three
 choices can work with the GM to choose some other appropriate disadvantage.
 
 You must obey your chosen principles - failing to do so means losing access to
-your holy abilities until you make some _significant_ penance.
+your holy abilities until you make some _significant_ penance. The GM is free to
+come up with an appropriate one. A generous donation to the temple in town
+combined with some kind of dangerous quest feel to me like they'd be an
+appropriate starting point.
 
 The upside to this is that holy abilities are, well, divine powers. They don't
 count as "magic", and so cannot be Dispelled and are not affected by Magic
@@ -170,11 +179,10 @@ This section contains a list of holy powers typical of clerics:
   on the same target give -3 per extra attempt. This resets daily.
 
 - **Turning** (24 points): The classic power to turn undead. It works on any
-  undead that's also labeled "truly evil", or who's animated by magic described
-  as such. If you win the Quick Contest of Will against the target creatures,
-  you keep them at bay for as long as you concentrate on this power, and for 1d
-  seconds afterwards. No mass undead destruction here - that's why you have
-  companions.
+  undead labeled as "truly evil" or animated by magic described as such. If you
+  win the Quick Contest of Will against the target creatures, you keep them at
+  bay for as long as you concentrate on this power, and for 1d seconds
+  afterwards. No mass undead destruction here - that's why you have companions.
 
 Note that Holy Warriors also use Holy Might, so a Cleric could also acquire any
 of the Holy abilities listed on the Holy Warrior's section and vice-versa.
@@ -190,9 +198,10 @@ weight and increasing the protection of lighter pieces. But you'll need to
 adventure under heavy encumbrance for a bit before you gain access to that.
 
 Disadvantage-wise, "intolerant inquisitor" and "compassionate saint" are the two
-big choices here. Most of the section is spent on spell list recommendations,
-with one example centered on buffs, one on healing, and another on supernatural
-warfare with spells effective against creatures like demons and undead.
+big choices here. The rest of this section is mostly spent on spell list
+recommendations, with one example centered on buffs, one on healing, and another
+on supernatural warfare with spells effective against creatures like demons and
+undead.
 
 Even if GMs don't allow "multiclassing" (i.e., picking special powers from other
 templates), clerics still have access to the Holy Might powers listed under the
@@ -200,6 +209,17 @@ Holy Warrior template. So if you want to go in a more paladin-y direction with
 your Cleric, you can focus on increasing combat skills and buying appropriate
 Holy Warrior powers with earned points.
 
+## Example Clerics
+
+Rescued from the distant past of 2017, here's [Kyra][1] from the Pathfinder
+iconic lineup! I don't think I'd do anything differently if I was building her
+today.
+
+There's also [Urist][2], the dwarf cleric I built for my solo Hell's Rebels campaign.
+
 ## Next Up
 
 The Druid!
+
+[1]: {{ "/2017/10/03/pathfinder-dfrpg-cleric.html" | relative_url }}
+[2]: {{ "/2026/03/05/lphr-urist.html" | relative_url }}

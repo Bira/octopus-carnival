@@ -30,6 +30,7 @@ number of people have heard about it.
     necessarily angry.
   - [Bards][7] look like jacks of all trades but they have a unique power among
     all delvers: social skills.
+  - [Clerics][8] are good at healing and battling supernatural evil with magic.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -38,3 +39,4 @@ number of people have heard about it.
 [5]: {{ "/2026/07/19/dfrpg-adventurers-professions-intro.html" | relative_url }}
 [6]: {{ "/2026/07/23/dfrpg-adventurers-barbarian.html" | relative_url }}
 [7]: {{ "/2026/07/28/dfrpg-adventurers-bard.html" | relative_url }}
+[8]: {{ "/2026/07/29/dfrpg-adventurers-cleric.html" | relative_url }}
