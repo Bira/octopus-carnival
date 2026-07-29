@@ -38,5 +38,5 @@ number of people have heard about it.
 [4]: {{ "/2026/07/11/dfrpg-adventurers-ads-disads-skills.html" | relative_url }}
 [5]: {{ "/2026/07/19/dfrpg-adventurers-professions-intro.html" | relative_url }}
 [6]: {{ "/2026/07/23/dfrpg-adventurers-barbarian.html" | relative_url }}
-[7]: {{ "/2026/07/28/dfrpg-adventurers-bard.html" | relative_url }}
+[7]: {{ "/2026/07/27/dfrpg-adventurers-bard.html" | relative_url }}
 [8]: {{ "/2026/07/29/dfrpg-adventurers-cleric.html" | relative_url }}
