@@ -67,7 +67,7 @@ on their diplomacy, first aid... or poisons.
 ## Spells
 
 Druids start with 20 druidic spells. Druidic spellcasting works similarly to the
-clerical version. There's a druid-exclusive spell list where the only
+clerical version. There's a druid-specific spell list where the only
 prerequisites are a minimum level of Power Investiture (Druidic). Spells cost
 FP, and druids get exclusive access to a lot of animal-, plant- and
 weather-affecting spells. When a spell also exists in other power sources,
@@ -107,11 +107,11 @@ dungeon is the Underdark, the reverse applies!
 
 ### Druidic Arts
 
-Despite being influenced by Nature's Strenght, Druidic Arts cost no FP and are
-not considered magic. This means stuff like Dispel Magic and Magic Resistance
-doesn't affect them!
+Despite being influenced by Nature's Strength and your level of Power
+Investiture, Druidic Arts cost no FP and are not considered magic. This means
+stuff like Dispel Magic and Magic Resistance doesn't affect them.
 
-- **Beast Flight** (14 points): turn into a small bird of bat to fly at twice
+- **Beast Flight** (14 points): turn into a small bird or bat to fly at twice
   your Move. It takes 10 seconds of concentration to switch between forms, and
   your beast form is both tiny and weak, with Size Modifier -7, ST 1, and 1
   HP. Injury is proportional, so taking 1 HP of damage in beast form means
