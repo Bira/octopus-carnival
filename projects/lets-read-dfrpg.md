@@ -31,6 +31,7 @@ number of people have heard about it.
   - [Bards][7] look like jacks of all trades but they have a unique power among
     all delvers: social skills.
   - [Clerics][8] are good at healing and battling supernatural evil with magic.
+  - [Druids][9] are your go-to delvers for nature and weather magic.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -40,3 +41,4 @@ number of people have heard about it.
 [6]: {{ "/2026/07/23/dfrpg-adventurers-barbarian.html" | relative_url }}
 [7]: {{ "/2026/07/27/dfrpg-adventurers-bard.html" | relative_url }}
 [8]: {{ "/2026/07/29/dfrpg-adventurers-cleric.html" | relative_url }}
+[9]: {{ "/2026/08/03/dfrpg-adventurers-druid.html" | relative_url }}
