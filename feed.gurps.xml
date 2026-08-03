@@ -5,9 +5,170 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jul 2026 10:04:26 +0000</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 10:04:26 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 21:33:43 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 21:33:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Druid</title>
+        <description>&lt;p&gt;A lot of people call druids “nature priests”, and their mechanics sorta resemble
+the cleric’s, but they’re something else entirely. Druids don’t usually deal
+with gods - they worship Nature directly, and the gifts it grants spring from
+the Earth itself. DFRPG can’t use these terms, apparently, but I can: clerics
+are Divine, druids are Primal.&lt;/p&gt;
+
+&lt;p&gt;Druids cast druidic spells and have access to a power set named Druidic
+Arts. Their powers are less effective inside most dungeons, but they make the
+trek &lt;em&gt;to&lt;/em&gt; the dungeon a lot easier and more survivable.&lt;/p&gt;
+
+&lt;p&gt;Personally, I never played druids in this game, as I tend to favor urban or
+dungeon-based campaigns. I don’t have too many personal impressions to share
+about them other than what I got from reading the entry as I wrote this post.&lt;/p&gt;
+
+&lt;h3 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h3&gt;
+
+&lt;p&gt;Druids start out with ST 11, DX 12, IQ 14, HT 13, and Speed 6. A little less ST
+and a bit more HT than the cleric, but otherwise pretty similar.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;All druids have Green Thumb 1 and Power Investiture (Druidic) 3. The first one
+is a Talent boosting skills that involve dealing with plants. It’s also a
+prerequisite for their version of Power Investiture.&lt;/p&gt;
+
+&lt;p&gt;The discretionary list has the usual stat boosts, some of the same wilderness
+survival boosts the Barbarian gets, and advantages that can enhance your
+interactions with animals, plants, or spirits.&lt;/p&gt;
+
+&lt;p&gt;You can also spend these points on Druidic Arts powers (see below).&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;Two separate discretionary lists here, one dealing with your mystical vows as a
+defender of the wilderness, and the other dealing with being looked upon by
+“urbanites” as an unwashed hippy with an unreasonable fear of fire and
+machinery. Mix and match as desired.&lt;/p&gt;
+
+&lt;p&gt;These vows notably &lt;em&gt;don’t&lt;/em&gt; include avoiding equipment made out of metal, which
+would be a very bad idea in this game. But you can choose to have a vow to
+follow a vegetarian diet (which raises your cost of living) or never sleep
+indoors.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Your melee skill choices are Spear, Staff, or a weapon-and-shield setup similar
+to the cleric’s. Ranged choices are throwing your melee weapon, or using
+something quirkier like a blowpipe or a set of bolas. The druid chooses to leave
+archery to the Scout. Your skill will end up being 15 or 14 like the Cleric’s
+and the other professions for whom combat is secondary.&lt;/p&gt;
+
+&lt;p&gt;Druids also get a lot of skills for handling animals and plants and surviving in
+the wilderness, knowing the hidden lore of spirits, fairies or elementals. They
+also know the two druid-only skills (see below) and can also choose to brush up
+on their diplomacy, first aid… or poisons.&lt;/p&gt;
+
+&lt;h2 id=&quot;spells&quot;&gt;Spells&lt;/h2&gt;
+
+&lt;p&gt;Druids start with 20 druidic spells. Druidic spellcasting works similarly to the
+clerical version. There’s a druid-specific spell list where the only
+prerequisites are a minimum level of Power Investiture (Druidic). Spells cost
+FP, and druids get exclusive access to a lot of animal-, plant- and
+weather-affecting spells. When a spell also exists in other power sources,
+druids might get earlier access to it as well. Spells are dependent on Nature’s
+Strength (see below).&lt;/p&gt;
+
+&lt;h2 id=&quot;special-druidic-traits&quot;&gt;Special Druidic Traits&lt;/h2&gt;
+
+&lt;p&gt;Druids can improve FP by 1/2 of their HT instead of 1/3. So a Druid with HT 14
+can have up to 7 extra FP. They also get exclusive access to two skills:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Esoteric Medicine (Druidic)&lt;/strong&gt; is a lot like the Holy version, but doesn’t
+depend on environmental factors. As long as you have access to its special
+healer’s kit, you can use this in place of First Aid or Surgery.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Herb Lore&lt;/strong&gt; lets you make magical concoctions using using herbs found in
+nature. You normally need to pay for raw materials, but between adventures you
+can make a subset of the available options (including healing potions) for
+free by finding the herbs yourself. You can also use this instead of Alchemy
+to identify and deal with herbal concoctions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to the esoteric skills and druidic spellcasting (see above), Power
+Investiture (Druidic) also lets you learn the Druidic Arts. These are intrinsinc
+powers that don’t cost FP. PI (Druidic) gives a bonus to any rolls associated
+with them.&lt;/p&gt;
+
+&lt;p&gt;However, both these powers and druidic spells draw their power from
+Nature. Nature is stronger in areas of unspoiled wilderness, and gets weaker the
+more “built-up” or polluted the surrounding environment is. And the weaker it
+gets, the harder it is to use these powers.&lt;/p&gt;
+
+&lt;p&gt;Zones like a rural area or a road through light woods aren’t “bad” enough to
+give a penalty, but any dungeon that isn’t a natural cave will give you a -3. If
+you’re spending a lot of time in those and glossing over the trek, you won’t be
+happy playing a druid. If, on the other hand, the journey is the point or your
+dungeon is the Underdark, the reverse applies!&lt;/p&gt;
+
+&lt;h3 id=&quot;druidic-arts&quot;&gt;Druidic Arts&lt;/h3&gt;
+
+&lt;p&gt;Despite being influenced by Nature’s Strength and your level of Power
+Investiture, Druidic Arts cost no FP and are not considered magic. This means
+stuff like Dispel Magic and Magic Resistance doesn’t affect them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Beast Flight&lt;/strong&gt; (14 points): turn into a small bird or bat to fly at twice
+your Move. It takes 10 seconds of concentration to switch between forms, and
+your beast form is both tiny and weak, with Size Modifier -7, ST 1, and 1
+HP. Injury is proportional, so taking 1 HP of damage in beast form means
+you’ll be at 0 HP when you return to your natural form!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Control Animal&lt;/strong&gt; (33 points): Roll a Quick Contest of your IQ vs. the target
+animal’s Will. Victory means you can order them around like they were a
+trained animal.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Nature’s Shield&lt;/strong&gt; (7 or 14 points): gives 1 or 2 DR against “elemental”
+damage, whether it’s from the environment or from spells.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Plant Empathy&lt;/strong&gt; (5 points): You can intuit the general state of plants. If
+they’re sentient enough to communicate, they will react well to you and you
+can use your social skills on them as if they were people.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Speak with Animals&lt;/strong&gt; (23 points) and &lt;strong&gt;Speak With Plants&lt;/strong&gt; (14 points): Like
+it says on the tin. Unlike the bard version, you don’t need to sing.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
+
+&lt;p&gt;This section is mainly about spell choices, with sample “beastmaster”,
+“elementalist” and “green druid” sets. Druids rarely spend their quirk points on
+extra gear, and instead go for more spells or abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-up&quot;&gt;Next up&lt;/h2&gt;
+
+&lt;p&gt;Holy Warriors!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/08/03/dfrpg-adventurers-druid.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/03/dfrpg-adventurers-druid.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Dungeon Fantasy Adventurers: Cleric</title>
@@ -1675,108 +1836,6 @@ talking about them in this particular series. &lt;a href=&quot;#fnref:1&quot; c
         <category>dungeon-fantasy</category>
         
         <category>dfrpg</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Session 2</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img alt=&quot;A dungeon map of an underground hideoud. Rooms are labeled F1 to F7.&quot;
-       src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-many-steps-monastery.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;my solo Hell’s Rebels campaign&lt;/a&gt;, and will probably be
-mostly GM-focused. Now that I’ve decided to break the “1 scene, 1 post” rule, I
-thought maybe I could do one where I just post the planning for the stuff I
-intend to play through next.&lt;/p&gt;
-
-&lt;p&gt;In our &lt;a href=&quot;/octopus-carnival/2026/06/14/lphr-scene-14.html&quot;&gt;last post covering this delve&lt;/a&gt;, our heroes managed to progress
-through roughly half of the Monastery dungeon level. This is mostly because
-they’re using what they learned about the layout of the place and disposition of
-enemy forces to make a beeline towards where those forces are. They’re also just
-marking loot caches for later retrieval instead of stopping to count coins,
-which speeds up the proceedings by a lot.&lt;/p&gt;
-
-&lt;p&gt;Their progress, and the fact that the alarm is raised, means we have two
-encounters left in the delve. There’s a possibility they will merge to become a
-single one, but we’ll see how that shakes out in actual play.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-preparation-the-common-room-f6&quot;&gt;[GM] Preparation: The Common Room (F6)&lt;/h1&gt;
-
-&lt;p&gt;The original adventure places five more Asmodean Redactors here along with the
-Lout, an enslaved half-ogre whose brain has more or less turned into tapioca
-from many years of torture, brainwashing and mind control magic. The redactors
-attack at once. The Lout interprets his orders in a very literal manner so he
-does nothing until the PCs actually try to cross the door to the gardens that
-he’s been told to guard.&lt;/p&gt;
-
-&lt;p&gt;I don’t like this. As I had the opportunity to see during this delve, Asmodean
-Redactors are kinda boring opponents for our PCs on their own. And for a variety
-of reasons I’m not going to get into here Pathfinder 1e ogres are icky,
-half-ogres are super icky, and the Lout is super-duper-icky.&lt;/p&gt;
-
-&lt;p&gt;So let’s change things up a bit, shall we?&lt;/p&gt;
-
-&lt;p&gt;We’ll leave three of the &lt;a href=&quot;/octopus-carnival/2026/05/20/hr-bestiary-redactor.html&quot;&gt;redactors&lt;/a&gt; in place. The other two will be replaced
-with &lt;a href=&quot;/octopus-carnival/2026/03/18/hr-bestiary-dark-adept.html&quot;&gt;Asmodean Dark Adepts&lt;/a&gt;, which as we already saw make perfect stand-ins
-for more senior redactors. And instead of the Lout, we’ll have two hastily
-summoned &lt;a href=&quot;/octopus-carnival/2026/03/19/hr-bestiary-tar-devil-guard.html&quot;&gt;Tar Devil Guards&lt;/a&gt;, because we know that adepts are good at
-summoning tar devils. Unlike the ones we faced back in &lt;a href=&quot;/octopus-carnival/2026/03/17/lphr-scene-02.html&quot;&gt;Scene 02&lt;/a&gt;, these do
-have access to their tar net attacks.&lt;/p&gt;
-
-&lt;p&gt;I can also say that this is an activation of Jade’s Monster of the Week
-disadvantage that she gets from being The Sixth Raven. The adepts worked
-together to summon one devil, but got two because one of them is the same guy
-our heroes fought back in Scene 02. After being defeated and therefore banished
-back to Hell, he started spreading the news that the “Raven brat” was back in
-town. So when he got summoned again he pulled in a buddy to show him it was
-true.&lt;/p&gt;
-
-&lt;p&gt;So here is our new encounter: 3 Asmodean Redactors, 2 Dark Adepts, 2 Tar Devil
-Guards. Both the adepts and the devils are very “grabby” opponents, so we’ll
-likely use plenty of Fantastic Dungeon Grappling attacks. This will let the
-plain redactors do some backstabbing too. And there are enough opponents here
-that the party starts out slightly outnumbered and might have some trouble
-shutting down the grabbiness before it can start.&lt;/p&gt;
-
-&lt;p&gt;No loot conversions yet. There will be an entire session just for that.&lt;/p&gt;
-
-&lt;h1 id=&quot;gm-preparation-meditation-gardens-f7&quot;&gt;[GM] Preparation: Meditation Gardens (F7)&lt;/h1&gt;
-
-&lt;p&gt;This is easy. It’s just &lt;a href=&quot;/octopus-carnival/2026/03/16/hr-bestiary-nox.html&quot;&gt;Nox and her pet hell-hound&lt;/a&gt;. Nox is pretty menacing
-by herself and that regeneration can make her a tough nut to crack, but our
-delvers do have access to some Holy damage and as the original book notes
-there’s a stream right there that can be used to drown her. She also lacks much
-in the way of mental defenses, so there’s a chance our PCs will be able to shut
-her down with “control” abilities.&lt;/p&gt;
-
-&lt;p&gt;So let’s add a little emergency measure to her. A “contingency scroll” affixed
-to her armor with a wax seal that activates when she gets stunned and summons a
-pair of &lt;a href=&quot;/octopus-carnival/2026/03/26/hr-bestiary-lemure.html&quot;&gt;Lemures&lt;/a&gt; to act as a distraction. Not the most spectacular trap in
-the world, but it’s what they could do on short notice.&lt;/p&gt;
-
-&lt;p&gt;Nox will pay attention to what happens in Room F6. She and Mephiry will move
-from their spot to join the fight there if it seems the PCs are having too easy
-a time dealing with the guard detail on the other room. Otherwise they’ll stay
-here and wait for the wounded and weakened party to make their way to her, to
-better savor their despair when they see who’s waiting at the end (she doesn’t
-know they know).&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/06/26/lphr-scene-14-2.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/06/26/lphr-scene-14-2.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
         
         
       </item>
