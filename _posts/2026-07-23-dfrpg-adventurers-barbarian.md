@@ -126,6 +126,31 @@ ST 17 or more means any weapon is effective in the hands of a barbarian, so they
 can save some money by taking something big and relatively cheap like a spear,
 axe or mace. Swords are expensive!
 
+## The "This ain't D&D" section
+
+How does the Dungeon Fantasy Barbarian differ from the one you probably know
+from D&D? The main thing, as mentioned a couple of times above, is the lack of
+"rage as a power". As a Barbarian, you don't need to get angry to get strong -
+you're strong all the time.
+
+The same applies to many of the traits recent editions of D&D tend to associate
+with a state of "rage", like enhanced scent or extra toughness and so on. If you
+buy those advantages, you always have them.
+
+The closest thing to "rage" you'll find in the core book is the Berserk
+disadvantage, which is something I personally _wouldn't_ take for any
+character. When it activates in combat, it closes off most options and forces
+you to fight in a way that's pretty much suicidal, as you _can't use active
+defenses_. And when there aren't any more enemies to fight you'll run the risk
+of attacking your allies.
+
+On the other hand you also have a lot of real skill in traversing and surviving
+the wilderness, more so than a typical D&D barbarian who usually runs out of
+points after they buy Athletics and Intimidation. And there's no such thing as
+armor proficiencies in DFRPG: you can wear anything you can afford to buy and
+manage to carry, and you have a lot more room in your encumbrance limits to wear
+heavy armor than most other delvers.
+
 ## Example Barbarian
 
 Way back in 2017 when the DFRPG had just come out, I wrote up most of the

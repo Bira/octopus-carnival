@@ -209,6 +209,24 @@ Holy Warrior template. So if you want to go in a more paladin-y direction with
 your Cleric, you can focus on increasing combat skills and buying appropriate
 Holy Warrior powers with earned points.
 
+## The "This ain't D&D" section
+
+The main difference between DFRPG Clerics and D&D ones is that they're far less
+"fighty" when compared to the other professions. They're not _bad_ at it in
+absolute terms, no delver is, but they're definitely not in the same league as
+the Knight or the Swashbuckler. In a way, they resemble the Pathfinder
+"Cloistered Cleric" more than the armored "Battle Cleric" that's the standard in
+most D&D-alikes.
+
+There's nothing preventing you from trying to make them good combatants anyway,
+but you will have a longer way to go here than if you focus on your magic.
+
+Their spell list is pretty simimilar in feel, as seen above, but note that
+Turning is _optional_, and more similar to the old-school version of the D&D
+power than the more recent ones that do damage instead of scaring the monsters
+away.
+
+
 ## Example Clerics
 
 Rescued from the distant past of 2017, here's [Kyra][1] from the Pathfinder

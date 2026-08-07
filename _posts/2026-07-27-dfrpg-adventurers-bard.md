@@ -157,6 +157,19 @@ a nice musical instrument. However, this isn't mandatory, as there are some
 cheaper alternatives for both types of item. A thrifty bard can fence with a
 cane and use their voice as their instrument, casting spells a capella.
 
+## The "This ain't D&D" section
+
+How does a DFRPG Bard differ from its D&D counterpart? Surprisingly little, it
+turns out! But there are still some important differences.
+
+Bards from recent D&D editions are known for being able to cast healing spells
+and use their song to boost their allies' rolls in combat. DFRPG bards can do
+neither of those things.
+
+Instead, they're good at debuffing and controlling enemies, and at facilitating
+communication out of combat. Their spell list does have some buffs, but they're
+more indirect than "+1 to attacks and damage".
+
 ## Example Bard
 
 Back in 2017 I statted up Lem iconic Pathfinder Bard for the DFRPG

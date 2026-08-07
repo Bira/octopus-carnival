@@ -137,6 +137,21 @@ This section is mainly about spell choices, with sample "beastmaster",
 "elementalist" and "green druid" sets. Druids rarely spend their quirk points on
 extra gear, and instead go for more spells or abilities.
 
+## The "This Ain't D&D" section
+
+DFRPG druids, as written in the core book, cannot cast healing spells and cannot
+shapeshift into big animal bruisers like tigers and bears. The spells and
+advantages that would let them do this in GURPS are pretty finicky and
+high-maintenance for the GM and players, and so were omitted.
+
+You can approach these abilities from a different angle, though. Your spell list
+includes Beast Possesion, Beast Summoning, and even Create Animal, so you can
+call or conjure up a bear and then possess it. Someone will need to look after
+your original body, though. You're more Granny Weatherwax than Sun Wukong.
+
+And while the cleric has all the healing spells, your Esoteric Healing works
+anywhere, and you have a much easier (and cheaper) time making healing potions.
+
 ## Next up
 
 Holy Warriors!
