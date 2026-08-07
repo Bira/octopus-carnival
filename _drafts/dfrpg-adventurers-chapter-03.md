@@ -14,8 +14,8 @@ follow the cliches presented in older editions of D&D. I imagine they chose this
 because it provided a good and familiar baseline in 2016-2017, but it does mean
 we have to deal with some of the annoying fantasy racism that later games made
 an effort to remove. The text actually does acknowledge some of that racism,
-though this is kinda disguised in the general tongue-in-cheek tone in which the
-super generic implied setting is presented.
+though that acknoledgment is a bit impaired by the general tongue-in-cheek tone
+in which the super generic implied setting is presented.
 
 You see, many social traits in GURPS like Appearance and Social Stigma are
 relative. _Who_ thinks the bard is hot, and _who_ looks down on the barbarian's

@@ -50,75 +50,54 @@ new enemies as well.
 There's little in the way of banter. Nox says "I'm not surrendering." Jade says
 "That's fine by me." And then the battle is joined.
 
-## Round 1
+Nox positions herself at the far side of the bridge from the PCs, waiting for
+them to get within reach. Mephiry, the hellhound, moves to stand alongside its
+master. Arcturus moves along the southeastern part of the chamber and then jumps
+into the stream. He's a bit disappointed that it's only about half a meter deep,
+but still it won't impede his movements as he fords it.
 
-Nox takes up position just on the end of the bridge, her hellhound moves to
-stand beside her. Jade, Rosalia and Urist approach the bridge. Art wades right
-into the brook and actually becomes a bit disappointed that it's only about 60cm
-deep. Jania approaches the brook as well, keeping a healthy distance from that
-polearm.
+Jania also moves to the margin near Art, while Jade, Rosalia and Urist decide to
+use the bridge. As they approach, Nox nails Rosalia with her throwing axe,
+gravely wounding the bard and nearly causing her to pass out. Urist halts his
+advance and runs towards Rosalia to render magical aid, while Jade charges
+across the bridge and engages the enemy.
 
-## Round 2
+Nox proves to be an adept fighter and avoids Jade's blade while she readies her
+own weapon. Urist heals Rosalia with a spell, but her and Jania's attempts to
+hit Nox with ranged attackes either miss or fizzle.
 
-Nox nails Rosalia with thrown hatchet for 10 injury, though the bard barely
-manages to remain standing.
-
-Jade does a heroic charge over the bridge and tries to end the fight right there
-by trying to slice Nox's head clean off, but that turns out to be a bit too
-ambitious even for her and she misses.
-
-Art decides to do a heroic charge himself, and tackle-grapples Mephiry for 13
-control, restraining the hell hound pretty firmly.
-
-Urist approaches Rosalia and tags her with Major Healing, getting her back to 8
-HP from exactly 0.
-
-Rosalia, now recovered, tries to stun and shoot Nox, but fails at both. Nox is
-immune to Song of Humiliation for the rest of the fight.
-
-Jania begins casting Ice Dagger but fails! I guess she's too nervous because
-this fight is looking harder than the rest.
-
-## Round 3
-
-Nox readies her polearm for Reach 1, becoming much more dangerous.
-
-Art breaks Mephiry over his knee, leaving Nox quite angry and even more
-outnumbered.
-
-Jania, Rosalia, and Urist begin crossing the stream, though it slows them down
-more than it did the Atlantean.
-
-Jade directs two cuts at Nox's arms attempting to cripple them. The first hits
-but pings off the heavy mail worn by the villain. The second is a critical hit
-and does manage to penetrate, dealing 3 injury from the cut and another 3 from
-the Holy follow-up - which won't regenerate!
-
-That's not enough to cripple the arm, but the critical effect I roll is that any
-amount of injury should be treated as a major wound. I roll Nox's HT to resist
-that, and she rolls a 18.
-
-Critical failure on a major wound roll means the victim falls unconscious!
-Huh. That's Nox out of the fight, as Jade has ample time to finish her off with
-her (temporarily) holy blade before she has any chance of waking up.
-
-We're all done with the clearing of the Monastery! Next post will be all about
-the looting.
+With Jade taking up most of Nox's attention, however, Arcturus manages to run up
+to the hellhound, grapple it, and more or less break it over his knee. Before
+Nox can retaliate, Jade's sword finally manages to find a gap in her heavy armor
+and wound her in the arm. The touch of the blessed blade proves to be the
+demon-possessed warrior's undoing, causing her to momentarily burst into flame
+and fall down writhing before losing consciousness. A quick thrust by the same
+blessed sword quickly finishes her off, granting our heroes their victory on
+this day.
 
 # [GM] Fight Analysis
+
+This fight took a surprisingly short three rounds, and went a lot better for the
+PCs than I imagined due to my luck in rolling for Jade's last attack. That was a
+critical hit, and the crit table told me that any injury it caused should be
+treated as a major wound.
+
+Nox suffered 3 injury from the penetrating cutting damage, and another 3 as a
+follow-up since the sword was (temporarily) Holy. And then she rolled a 18 on
+the HT test to resist knockdown and stunning, immediately falling unconscious.
 
 I looked up the rules for major wounds and unconsciousness as the attack
 happened. It turns out unconsciousness is nasty business in GURPS. Recovery from
 it is much more complicated than the simple HT rolls for Stun.
 
 Nox can recover automatically if she heals back up to full HP, and normally her
-diabolical Regeneration would take care of that, but the wound was from a
-(temporarily) Holy weapon so those last 3 HP of holy damage will not heal this
-way.
+diabolical Regeneration would take care of that in seconds. However, she can't
+use it to heal those last 3 HP of Holy damage.
 
 As there is no one around to help her, Nox will have to recover naturally. Since
-she's at 9 HP we use the best-case scenario for that. It means she wakes up
-automatically after _15 minutes_.
+she has more than 1 HP we use the best-case scenario for that. It means she
+wakes up automatically after _15 minutes_. There's nothing she can do to wake up
+before that.
 
 Now, I gave her a contingency back in [part 2][2] of this delve that would
 summon a pair of lemures when she got stunned. I could certainly activate it
@@ -126,9 +105,9 @@ here, but that would lead to our full party against a pair of lemures and we
 already know how that's going to end. And lemures don't have the smarts or the
 resources needed to wake Nox up. The PCs won the day!
 
-I guess the moral of the story is: Welcome to GURPS, where a pair of lucky rolls
-can end any fight!
-
+This is why I love GURPS. You can end up with an awesome story like "the villain
+was so unholy she was vanquished by the mere touch of a blessed blade" just by
+following the rules.
 
 [1]: {{ "/projects/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2026/06/26/lphr-scene-14-2.html | relative_url }}

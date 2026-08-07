@@ -7,20 +7,18 @@ tags:
     - dungeon-fantasy
 ---
 
-Strictly speaking, every delver is a martial artist - the amount of points they
-put into weapon skills could easily earn them black belts or the equivalent in
-real life. A little less strictly, the Knight and Swashbuckler are still
-definitely martial artists, because they dedicate a large part of their lives to
-studying a formal system of fighting and being good at that is their main
-function.
+Generally speaking, every delver is a martial artist. The amount of points even
+a wizard puts into weapon skills would easily make them black belts or the
+equivalent in real life. If you want to narrow things down a bit, the Knight and
+Swashbuckler are still definitely martial artists, because they dedicate a large
+part of their lives to studying a formal system of fighting, and their skill at
+it would make them legendary if they were real people.
 
-_This_ Martial Artist however, is the kind who's freshly graduated from an
-ascetic monastery in a faraway land or perhaps from a local mystical
-sect. They've learned a form of unarmed combat that's better than what the other
-professions learn, and they wield weapons that can seem pretty exotic to those
-other delvers. Most importantly, they learned how to cultivate their inner
-strength through special exercises and meditation, and they can use that to
-manifest supernatural powers.
+_This_ Martial Artist however, is the kind who graduated from an ascetic
+monastery in a faraway land or perhaps from a local mystical sect. Sure, they're
+better at unarmed combat than the other delvers, but the important thing is that
+they learned how to cultivate their inner strength through special exercises and
+meditation, and they can use that to manifest supernatural powers.
 
 If this description sounds a bit orientalist, well, that's how you know this is
 a version of the D&D Monk. The description can be stripped away easily enough,
@@ -43,16 +41,16 @@ gives them Speed 7.0 exactly. Their Will is increased to 11, and their Move to
 
 Every Martial Artist starts with two levels of **Chi Talent** and the **Trained
 by a Master** advantage. The former is their Power Talent, and the latter is
-similar to the Knight's Weapon Master. The difference is that it doesn't give a
-damage bonus, but it gives access to many more special skills and works for all
-unarmed attacks and muscle-powered weapons.
+similar to the Knight's Weapon Master. It doesn't grant a damage bonus, but the
+other ones work for all unarmed attacks and muscle-powered weapons, and it
+allows the character to learn many more special skills.
 
 They have 40 points to distribute between optional advantages, which include the
 usual stat boosts, stuff useful for combat, and some advantages representing
 great mental resilience. Weapon Master also makes an appearance here, in its
 20-point version that covers any one single weapon. The book says "one exotic
-weapon", but the extra qualifier is only there for "flavor". It's not an
-official equipment classification.
+weapon", but since "exotic" is not a weapon qualifier in the rules, I guess this
+is here only for "flavor". You can pick any one you want.
 
 ## Disadvantages
 
@@ -77,12 +75,21 @@ Karate (for striking). Everyone else has to make do with less "advanced"
 versions that are easier to learn, like Wrestling and Brawling. These names are
 the largest bit of legacy gunk we haven't yet managed to shed.
 
+The reason most other delvers avoid investing too much in unarmed combat is that
+it's pretty crappy compared to hitting people with weapons. Punches and kicks do
+less damage than most weapons. Failing to parry an enemy's weapon or having your
+strikes parried by it can give the enemy a free shot at your limbs. And even if
+you hit, you can end up hurting yourself if the target surface is too hard
+(like, say, enemy armor, or monster scales). Your own unarmed skills mitigate
+some of this, and your powers can mitigate the rest.
+
 The choice of combat skill package determines if you know these unarmed skills
 at 15 plus two weapons at 17, unarmed at 16 and one weapon at 17, or one unarmed
 skill at 17 and the other at 16. These are pretty good starting levels, but are
 still behind what other dedicated combatants get. The weapon list includes stuff
 we've seen already, but also some "signature" skills like Tonfa, Jitte/Sai, and
-Kusari.
+Kusari. These three have especially "tricksy" uses that are possibly more
+valuable than their raw damage.
 
 For ranged combat, you probably use thrown weapons. Your list of default
 non-combat skills is sparse, but very focused on mobility. Optional skills are
@@ -143,9 +150,10 @@ not affected by anti-magic measures.
 
 - **Unarmed Master** (25 points): An absolute necessity if you want to
   specialize in unarmed combat. This eliminates the chance of hurting yourself
-  when striking hard surfaces, and of giving enemies free attacks on your limbs
-  when they parry your strikes. It also grants a +1 per die bonus to your
-  unarmed damage, which does stack with Seven Secret Kicks.
+  when striking hard surfaces, and the danger to your limbs when parrying or
+  being parried. It also grants a +1 per die bonus to your unarmed damage, which
+  does stack with Seven Secret Kicks and with the bonus you're already getting
+  from your high unarmed skills.
 
 - **Uninterrupted Flurry** (20 points): Once per battle, you can speed up and
   take 2 actions per turn instead of just one, for the next 1d turns. Ora ora
@@ -183,8 +191,8 @@ as they can spread their points around more.
 
 The book states this represents an Martial Artist fresh off the monastery, so it
 is indeed lacking in non-combat mundane skills. A few points from quirks can
-make a huge difference either in shoring up those differences... or getting more
-powers and better combat skills. As a Martial Artist you're not hurting for
+make a huge difference either in shoring up those deficiencies... or getting
+more powers and better combat skills. As a Martial Artist you're not hurting for
 money unless you choose a sword as your main weapon. The other options are
 pretty cheap, and leave them with enough change to buy some decent hand and foot
 armor for when they need to fight unarmed.

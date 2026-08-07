@@ -137,3 +137,23 @@ creation.
 
 As front-liners, Holy Warriors would definitely benefit from spending those
 quirk points on extra money for better armor and weapons.
+
+## The "This Ain't D&D" Section
+
+Holy warriors are pretty similar to D&D paladins. As mentioned above, you can
+even pick from the lists of advantages and Holy Might powers and assemble the
+same set of abilities D&D paladins get. Immunity to fear, improved "saving
+throws" against Bad Stuff, faith healing, evil detection...
+
+The one thing missing is Smite Evil _as modeled by D&D_. Instead of a
+limited-use big damage attack that works against your sworn enemies, you can get
+a constant always-on bonus to fight them via Higher Purpose, and make yourself
+more badass in general for a limited time with Heroic Feats.
+
+The other important thing to notice is that the DFRPG is far less obsessed with
+"paladin codes" than D&D. The only thing you really need to respect in order to
+keep access to your powers is a single well-defined -10 point disadvantage. You
+can have other disadvantages to better model your PC's personality of course,
+but they work just like the disadvantages of other profession templates, and are
+enforced in the same way. The kind of broad and vague code of conduct that many
+GMs love to exploit to make palaind PCs fall is completely absent here.
