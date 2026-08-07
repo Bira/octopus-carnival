@@ -32,6 +32,8 @@ number of people have heard about it.
     all delvers: social skills.
   - [Clerics][8] are good at healing and battling supernatural evil with magic.
   - [Druids][9] are your go-to delvers for nature and weather magic.
+  - [Holy Warriors][10] are also good at battling supernatural evil, by stabbing
+    it.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -42,3 +44,4 @@ number of people have heard about it.
 [7]: {{ "/2026/07/27/dfrpg-adventurers-bard.html" | relative_url }}
 [8]: {{ "/2026/07/29/dfrpg-adventurers-cleric.html" | relative_url }}
 [9]: {{ "/2026/08/03/dfrpg-adventurers-druid.html" | relative_url }}
+[10]: {{ "/2026/08/08/dfrpg-adventurers-holy-warrior.html" | relative_url }}
