@@ -6,9 +6,188 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Aug 2026 21:33:43 +0000</pubDate>
-    <lastBuildDate>Mon, 03 Aug 2026 21:33:43 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 07:49:19 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:49:19 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Holy Warrior</title>
+        <description>&lt;p&gt;As the book says, Holy Warriors are on a quest to bury evil six feet deep. Like
+the Cleric, they receive blessings from the gods, but they prefer stabbing to
+casting. Those Other Games call them “Paladins” or “Champions”.&lt;/p&gt;
+
+&lt;p&gt;A Holy Warrior is a bit worse at &lt;em&gt;general&lt;/em&gt; combat than a Knight, but they’re
+potentially much better at fighting specific types of foes like demons and
+undead.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
+
+&lt;p&gt;The Holy Warrior’s statline is ST 13, DX 13, IQ 12, HT 13. Their Will is
+increased to 14 and their Basic Speed reduced to 6.&lt;/p&gt;
+
+&lt;p&gt;At a glance, that seems like it’d make them excellent generalists, but as the
+intro says their other traits make them more specialized.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;All Holy Warriors start with these advantages:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;One level of &lt;strong&gt;Born War Leader&lt;/strong&gt;: This is a Talent, a leveled advantage that
+boosts certain skills. In this case, it boosts skills used in tactical
+planning and leadership, and gives a positive reaction bonus from professional
+soldiers and fighters.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;One level of &lt;strong&gt;Higher Purpose (Slay Demons or Slay Undead)&lt;/strong&gt;: Pick one of the
+two when you create your character. Each level of this gives a +1 bonus to
+basically every roll you make while trying to fulfill the purpose. This does
+include attack and damage rolls! While you’re not obligated to attack your
+chosen nemeses on sight, you cannot back down from a fight with them once it
+does start.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Two levels of &lt;strong&gt;Holiness&lt;/strong&gt;: This is an alternate “Power Talent” for Holy
+Might. It gives bonuses to power rolls but unlike the Cleric’s Power
+Investiture doesn’t let you cast spells.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Rest in Pieces&lt;/strong&gt;: A 1-point advantage that guarantees that any living foes
+you slay cannot return as undead.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You have 50 more points to distribute among discretionary advantages and Holy
+Might abilities. The advantages have the usual stat boosts, including extra
+levels of Higher Purpose and Holiness, plus stuff that makes you better at
+fighting in general or that gives you the usual “paladin resistances” to
+poisons, diseases, and fear.&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;Once again you’re required to take a -10 disadvantage representing the oaths you
+took to gain your Holy Might. Typical holy warrior choices here are Honesty, a
+Sense of Duty towards all Good entities (like angels and such), and a Vow to own
+no more than a horse can carry. That last one is a delver-friendly vow of
+poverty. You can still have a very nice suit of armor and a bag full of powerful
+weapons, but not own land or ships or other big-ticket symbols of wealth.&lt;/p&gt;
+
+&lt;p&gt;The rest of the suggested disadvantages once again take you into one of the
+“virtuous saint” or “intolerant inquisitor” modes of thinking.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;You start with either skill 18 in a two-handed weapon, or skill 16 in a
+one-handed weapon and a shield. Suggested holy warrior weapons are polearms,
+spears, and swords.&lt;/p&gt;
+
+&lt;p&gt;For ranged combat, you learn either Crossbow or a thrown weapon skill.&lt;/p&gt;
+
+&lt;p&gt;Other mandatory skills include remedial unarmed combat lessons, all the stuff
+enhanced by Born War Leader, and more in depth knowledge about your chosen
+nemeses in the form of Hidden Lore, Psychology and Physiology specializing in
+either demons or undead.&lt;/p&gt;
+
+&lt;p&gt;Optional skills cover the usual generic delver set, plus extra monster knowledge
+skills for the &lt;em&gt;other&lt;/em&gt; enemy monster type.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-holy-warrior-traits&quot;&gt;Special Holy Warrior Traits&lt;/h2&gt;
+
+&lt;p&gt;Higher Purpose, Holiness, and Rest in Pieces are exclusive holy warrior
+traits. They can also increase their will to a maximum of 25 instead of just 20.&lt;/p&gt;
+
+&lt;p&gt;And then it’s Holy Might time again! Holy Warriors cannot cast spells, but they
+can buy any of the powers and esoteric skills from the Cleric entry, and also
+have another list of stuff here that might be useful for them. Clerics can also
+buy these powers if they want. Their respective power talents give bonuses to
+any required rolls.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Detect Good&lt;/strong&gt; (9 points): Like Detect Evil, but for supernaturally Good
+artifacts, locations, or beings. Very useful for rescue and retrieval
+missions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Heroic Feats&lt;/strong&gt; (9 points/level): By the Honor of Greyskull! You call upon
+the powers of the gods to grant you a temporary boost in your physical
+abilities once per game session.&lt;/p&gt;
+
+    &lt;p&gt;There’s a version of this power for each physical attribute, and each of those
+has two levels. Each level gives you +1d to the targeted attribute, and once
+active the bonuses last for 3d seconds. Holiness does not give bonuses to
+these rolls.&lt;/p&gt;
+
+    &lt;p&gt;Buying 2 levels of all three heroic blessings costs a total of 54 points. A
+single 1-second Concentrate maneuver lets you activate all your blessings at
+once, or as many of them as you like if you want to save some for later.&lt;/p&gt;
+
+    &lt;p&gt;I think this power is awesome, but the random bonuses and random duration are
+a drag. I wrote an alternate set of rules for this [a long time ago][1]. The
+TLDR on that is that I use a fixed +4 per level, and have the blessing last 10
+seconds. That lets you pre-calculate all the changed stats from your increased
+attributes when you “transform”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Resist Evil&lt;/strong&gt; (1 point/level): Adds its level to rolls to resist the innate
+supernatural powers of Truly Evil creatures. Holiness doesn’t increase this
+bonus.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
+
+&lt;p&gt;The point of playing a Holy Warrior is to have wide access to Holy abilities and
+be very good at smiting supernatural evil, so the book recommends going all in
+on that. If you just want to fight well in general, pick a Knight or
+Swashbuckler.&lt;/p&gt;
+
+&lt;p&gt;It’s harder for a Holy Warrior to “multiclass” into a Cleric than it is for the
+Cleric to do the reverse - your GM would have to allow them to turn Holiness
+into Power Investiture and pay the difference. If all want are the Cleric’s Holy
+Might powers, though, you don’t need to do anything extra. You already have
+access to them!&lt;/p&gt;
+
+&lt;p&gt;Between both lists, you can assemble the entire set of classic paladin powers,
+but you won’t have enough points to pick everything up at character
+creation.&lt;/p&gt;
+
+&lt;p&gt;As front-liners, Holy Warriors would definitely benefit from spending those
+quirk points on extra money for better armor and weapons.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” Section&lt;/h2&gt;
+
+&lt;p&gt;Holy warriors are pretty similar to D&amp;amp;D paladins. As mentioned above, you can
+even pick from the lists of advantages and Holy Might powers and assemble the
+same set of abilities D&amp;amp;D paladins get. Immunity to fear, improved “saving
+throws” against Bad Stuff, faith healing, evil detection…&lt;/p&gt;
+
+&lt;p&gt;The one thing missing is Smite Evil &lt;em&gt;as modeled by D&amp;amp;D&lt;/em&gt;. Instead of a
+limited-use big damage attack that works against your sworn enemies, you can get
+a constant always-on bonus to fight them via Higher Purpose, and make yourself
+more badass in general for a limited time with Heroic Feats.&lt;/p&gt;
+
+&lt;p&gt;The other important thing to notice is that the DFRPG is far less obsessed with
+“paladin codes” than D&amp;amp;D. The only thing you really need to respect in order to
+keep access to your powers is a single well-defined -10 point disadvantage. You
+can have other disadvantages to better model your PC’s personality of course,
+but they work just like the disadvantages of other profession templates, and are
+enforced in the same way. The kind of broad and vague code of conduct that many
+GMs love to exploit to make palaind PCs fall is completely absent here.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/08/07/dfrpg-adventurers-holy-warrior.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/07/dfrpg-adventurers-holy-warrior.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Dungeon Fantasy Adventurers: Druid</title>
@@ -153,6 +332,21 @@ it says on the tin. Unlike the bard version, you don’t need to sing.&lt;/p&gt;
 &lt;p&gt;This section is mainly about spell choices, with sample “beastmaster”,
 “elementalist” and “green druid” sets. Druids rarely spend their quirk points on
 extra gear, and instead go for more spells or abilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;DFRPG druids, as written in the core book, cannot cast healing spells and cannot
+shapeshift into big animal bruisers like tigers and bears. The spells and
+advantages that would let them do this in GURPS are pretty finicky and
+high-maintenance for the GM and players, and so were omitted.&lt;/p&gt;
+
+&lt;p&gt;You can approach these abilities from a different angle, though. Your spell list
+includes Beast Possesion, Beast Summoning, and even Create Animal, so you can
+call or conjure up a bear and then possess it. Someone will need to look after
+your original body, though. You’re more Granny Weatherwax than Sun Wukong.&lt;/p&gt;
+
+&lt;p&gt;And while the cleric has all the healing spells, your Esoteric Healing works
+anywhere, and you have a much easier (and cheaper) time making healing potions.&lt;/p&gt;
 
 &lt;h2 id=&quot;next-up&quot;&gt;Next up&lt;/h2&gt;
 
@@ -394,6 +588,23 @@ Holy Warrior template. So if you want to go in a more paladin-y direction with
 your Cleric, you can focus on increasing combat skills and buying appropriate
 Holy Warrior powers with earned points.&lt;/p&gt;
 
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;The main difference between DFRPG Clerics and D&amp;amp;D ones is that they’re far less
+“fighty” when compared to the other professions. They’re not &lt;em&gt;bad&lt;/em&gt; at it in
+absolute terms, no delver is, but they’re definitely not in the same league as
+the Knight or the Swashbuckler. In a way, they resemble the Pathfinder
+“Cloistered Cleric” more than the armored “Battle Cleric” that’s the standard in
+most D&amp;amp;D-alikes.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing preventing you from trying to make them good combatants anyway,
+but you will have a longer way to go here than if you focus on your magic.&lt;/p&gt;
+
+&lt;p&gt;Their spell list is pretty simimilar in feel, as seen above, but note that
+Turning is &lt;em&gt;optional&lt;/em&gt;, and more similar to the old-school version of the D&amp;amp;D
+power than the more recent ones that do damage instead of scaring the monsters
+away.&lt;/p&gt;
+
 &lt;h2 id=&quot;example-clerics&quot;&gt;Example Clerics&lt;/h2&gt;
 
 &lt;p&gt;Rescued from the distant past of 2017, here’s &lt;a href=&quot;/octopus-carnival/2017/10/03/pathfinder-dfrpg-cleric.html&quot;&gt;Kyra&lt;/a&gt; from the Pathfinder
@@ -583,6 +794,19 @@ extra starting cash, as their chosen weapon is a sword and they might also want
 a nice musical instrument. However, this isn’t mandatory, as there are some
 cheaper alternatives for both types of item. A thrifty bard can fence with a
 cane and use their voice as their instrument, casting spells a capella.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;How does a DFRPG Bard differ from its D&amp;amp;D counterpart? Surprisingly little, it
+turns out! But there are still some important differences.&lt;/p&gt;
+
+&lt;p&gt;Bards from recent D&amp;amp;D editions are known for being able to cast healing spells
+and use their song to boost their allies’ rolls in combat. DFRPG bards can do
+neither of those things.&lt;/p&gt;
+
+&lt;p&gt;Instead, they’re good at debuffing and controlling enemies, and at facilitating
+communication out of combat. Their spell list does have some buffs, but they’re
+more indirect than “+1 to attacks and damage”.&lt;/p&gt;
 
 &lt;h2 id=&quot;example-bard&quot;&gt;Example Bard&lt;/h2&gt;
 
@@ -860,6 +1084,31 @@ Seamanship, and Skiing, for example.&lt;/p&gt;
 &lt;p&gt;ST 17 or more means any weapon is effective in the hands of a barbarian, so they
 can save some money by taking something big and relatively cheap like a spear,
 axe or mace. Swords are expensive!&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;How does the Dungeon Fantasy Barbarian differ from the one you probably know
+from D&amp;amp;D? The main thing, as mentioned a couple of times above, is the lack of
+“rage as a power”. As a Barbarian, you don’t need to get angry to get strong -
+you’re strong all the time.&lt;/p&gt;
+
+&lt;p&gt;The same applies to many of the traits recent editions of D&amp;amp;D tend to associate
+with a state of “rage”, like enhanced scent or extra toughness and so on. If you
+buy those advantages, you always have them.&lt;/p&gt;
+
+&lt;p&gt;The closest thing to “rage” you’ll find in the core book is the Berserk
+disadvantage, which is something I personally &lt;em&gt;wouldn’t&lt;/em&gt; take for any
+character. When it activates in combat, it closes off most options and forces
+you to fight in a way that’s pretty much suicidal, as you &lt;em&gt;can’t use active
+defenses&lt;/em&gt;. And when there aren’t any more enemies to fight you’ll run the risk
+of attacking your allies.&lt;/p&gt;
+
+&lt;p&gt;On the other hand you also have a lot of real skill in traversing and surviving
+the wilderness, more so than a typical D&amp;amp;D barbarian who usually runs out of
+points after they buy Athletics and Intimidation. And there’s no such thing as
+armor proficiencies in DFRPG: you can wear anything you can afford to buy and
+manage to carry, and you have a lot more room in your encumbrance limits to wear
+heavy armor than most other delvers.&lt;/p&gt;
 
 &lt;h2 id=&quot;example-barbarian&quot;&gt;Example Barbarian&lt;/h2&gt;
 
@@ -1718,125 +1967,6 @@ romp, the default one is enough.&lt;/p&gt;
         <category>gurps</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read the Dugeon Fantasy RPG!</title>
-        <description>&lt;p&gt;I began writing this article shortly after finishing &lt;a href=&quot;/octopus-carnival/projects/neverwinter/&quot;&gt;my reading of the
-Neverwinter Campaign Setting&lt;/a&gt;, so it’s been in storage for a long, long
-time. But now that my blog posts about that &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;
-have caught up to “real time”, I started thinking I needed someone else to post
-during the longer lulls in play. So why not this?&lt;/p&gt;
-
-&lt;p&gt;This new series of Let’s Read posts is going both here in the blog and on the
-&lt;a href=&quot;https://forum.rpg.net/index.php?threads/lets-read-the-dungeon-fantasy-rpg.936813/&quot;&gt;RPG.net forums&lt;/a&gt;, as usual, and one of the reasons I’m doing it is because I
-feel lots of people over at RPG.net would benefit from knowing more about this
-game. It’s also nice to get another regular GURPS-focused series in here.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-dungeon-fantasy&quot;&gt;What is Dungeon Fantasy?&lt;/h2&gt;
-
-&lt;p&gt;“Dungeon Fantasy” is the name Steve Jackson Games invented for the genre of
-fantasy arguably pioneered by D&amp;amp;D: fantasy stories that are about a bunch of
-player characters going into dungeons, killing monsters, and looting
-treasure. Most of the works that fall within this genre are games, either
-tabletop or electronic games. D&amp;amp;D is the most famous but by no means the only
-one. Most of the fiction entries in the genre are based on games as well, with
-Amazon’s Vox Machina being a particularly famous entry based on an actual
-tabletop campaign.&lt;/p&gt;
-
-&lt;p&gt;Among gamers the genre is often referred to as just “fantasy” or “medieval
-fantasy”, because the “dungeon” aspect is so ubiquitous that it ends up becoming
-invisible&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;And sure, you can use dungeon fantasy games to tell varied stories of intrigue,
-drama, and wonder, but their core gameplay loop remains dungeons, monsters,
-treasure. If you are using your dungeon fantasy game in its intended manner at
-all, these things will feature in your campaign at some point, and they’re
-likely to be important.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-the-dungeon-fantasy-rpg&quot;&gt;What is the Dungeon Fantasy RPG?&lt;/h2&gt;
-
-&lt;p&gt;The Dungeon Fantasy RPG is part of Steve Jackson Games’ “Powered By GURPS”
-initiative, and was released in 2017 after a successful Kickstarter
-campaign. Powered by GURPS titles are fully standalone games that use the GURPS
-rule set as a base, and modify it to suit their purposes.&lt;/p&gt;
-
-&lt;p&gt;I can confidently say it’s the &lt;em&gt;chunkiest&lt;/em&gt; Powered By GURPS game, because the
-ones that came before were single-book affairs, and this one is a large boxed
-set. It removes everything from GURPS that’s not immediately relevant to the
-dungeon fantasy genre, but what remains is both plentiful and very close to the
-level of detail in base GURPS. It’s about as crunchy as either edition of
-Pathfinder, if you want a d20-based benchmark.&lt;/p&gt;
-
-&lt;p&gt;Part of the reason for this wealth of material is that the DFRPG is a second
-edition of sorts. Much of it had been released as a line of supplements for
-GURPS, named “GURPS Dungeon Fantasy”. There’s dozens of them, and it’s possible
-we might get more. The boxed set takes a good chunk of that material, revises
-it, and packages it with the GURPS core rules you need. The two lines remain
-mostly compatible, but there are some important differences between them.&lt;/p&gt;
-
-&lt;p&gt;If you’re interested in buying the game and are wondering which version to get,
-my recommendation in most cases is to get the DFRPG boxed set. The digital
-version is cheaper than a single D&amp;amp;D core book. The physical box is about double
-that, which still makes it half the price of a D&amp;amp;D core set. I reviewed it
-&lt;a href=&quot;/octopus-carnival/2017/08/25/dfrpg-review.html&quot;&gt;here&lt;/a&gt; when it came out, and in this series we’ll be taking a closer look at
-its contents.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-will-we-do-this&quot;&gt;How will we do this?&lt;/h2&gt;
-
-&lt;p&gt;The boxed set contains five books:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Adventurers&lt;/strong&gt;, which is your Player’s Handbook with nearly everything you
-need to make a character.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt; contains the magic system and all the spells used in the game. You
-need this if you’re playing a caster.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Exploits&lt;/strong&gt;, which is your Game Master’s Guide with everything you need to
-run the game.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Monsters&lt;/strong&gt;, which is your Monster Manual. We’ll certainly be in familiar
-territory when we get here!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;I Smell A Rat&lt;/strong&gt; is an introductory adventure for starting delvers, with some
-twists since “starting delvers” means something quite different here than it
-does in D&amp;amp;D.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My reading here will assume you know what RPGs are, but know nothing about GURPS
-or these books, but will necessarily be less detailed than those for the D&amp;amp;D
-Monster Manuals since there’s so much stuff to cover. Still, I hope it serves to
-give you a good idea of what this game is all about.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;There are “non-dungeon” fantasy games out there, of course, but we won’t be
-talking about them in this particular series. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/02/wir-dungeon-fantasy-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/02/wir-dungeon-fantasy-intro.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>dfrpg</category>
         
         
       </item>
