@@ -123,6 +123,7 @@ scenes.
   - [Part 1][30]: Raiding the first half of the level.
   - [Part 2][32]: Prepping the second half.
   - [Part 3][33]: Big fight in Nox's antechamber.
+  - [Part 4][34]: Boss fight! Boss fight!
 
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
@@ -157,3 +158,4 @@ scenes.
 [31]: {{ "/2026/05/31/hells-rebels-pcs-house-style.md" | relative_url }}
 [32]: {{ "/2026/06/26/lphr-scene-14-2.html" | relative_url }}
 [33]: {{ "/2026/07/26/lphr-scene-14-3.html" | relative_url }}
+[34]: {{ "/2026/08/09/lphr-scene-14-4.html" | relative_url }}
