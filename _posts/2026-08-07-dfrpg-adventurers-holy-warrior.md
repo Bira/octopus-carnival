@@ -157,3 +157,5 @@ can have other disadvantages to better model your PC's personality of course,
 but they work just like the disadvantages of other profession templates, and are
 enforced in the same way. The kind of broad and vague code of conduct that many
 GMs love to exploit to make palaind PCs fall is completely absent here.
+
+[1]: {{ "/2018/04/16/deterministic-heroic-feats.html" | relative_url }}
