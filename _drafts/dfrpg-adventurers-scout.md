@@ -100,3 +100,16 @@ Note that there is no "dual-wielding scout" build here - that's very much a
 D&D-ism you can blame squarely on Drizz't. The Scout is first and foremost an
 archer. The wilderness-focused melee specialist is the Barbarian, and the one
 most likely to dual-wield is the Swashbuckler.
+
+## The "This Ain't D&D" section
+
+D&D Rangers are kind of a big conceptual mashup that started out as "I want to
+play Aragorn" and got other things tacked onto them over the years. DFRPG Scouts
+pare that down to the essentials: they're archers who are good at wilderness
+survival.
+
+If you want nature magic, you play a Druid. If you want to dual-wield in melee,
+you take one of the melee specialist archetypes and buy the Ambidexterity
+advantage. But if what you want is to turn enemies into pincushions anywhere
+from near-melee range out to the horizon, no one's going to do it better than
+the Scout.

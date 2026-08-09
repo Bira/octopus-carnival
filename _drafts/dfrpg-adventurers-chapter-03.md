@@ -52,7 +52,7 @@ Next, the chapter introduces the concept of **racial templates** (henceforth
 Each template has a fixed cost, which must be paid using the discretionary
 points from your delver's professional template. Every professional template, as
 we already saw, has a listed point amount for buying advantages and powers. They
-also have 7 points for secondary skills, and can gain an extra 5 from
+also have 7 points for optional secondary skills, and can gain an extra 5 from
 quirks. You can use these to pay for a species template, which does mean you'll
 be spending less points on stuff related to your profession. Someone without a
 species template is assumed to be (mostly) human.
@@ -153,8 +153,8 @@ who bully the others.
 
 Half-orcs are "the product of generations of inbreeding among the offspring of
 orc rapine". Yikes! I can't actually decide whether this is better or worse than
-the D&D 3e cliches. This is why it's a good idea to modify or discard the
-implied setting.
+the D&D 3e cliches which state half-orcs are always the direct product of such
+rapine. This is why it's a good idea to modify or discard the implied setting.
 
 Anyway, half-orcs are as smart as humans but tougher, with better hearing and
 night vision. Some half-orcs are accepted by orcs and can be found among

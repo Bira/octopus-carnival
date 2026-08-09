@@ -37,16 +37,17 @@ Born War Leader means Knights are much better at their profession's main mental
 and social skills than their average IQ 10 would indicate.
 
 They have a whopping 60 points to put into further discretionary traits, all of
-which make them better at either fighting or leadership.
+which make them better at either fighting (like Extra Attacks and Enhanced
+Parry) or leadership (like extra levels of Born War Leader).
 
 Of note here is **Weapon Master**, which boosts their skill at arms from merely
 "unrealistically good" to "superhuman". This advantage reduces penalties for
 multiple attacks and defenses, gives access to some special skills, and gives
 them a major damage boost with the weapons covered by the advantage. Knights are
-not the only profession that has access to this: Martial Artists, Scouts, and
-Thieves also have it. But Knights are the only profession with access to the
-version that covers _all weapons_, if they're willing to pay the 45 points it
-costs.
+not the only profession that has access to this: Martial Artists, Swashbucklers,
+Scouts and Thieves also have it. But Knights are the only profession with access
+to the version that covers _all weapons_, if they're willing to pay the 45
+points it costs.
 
 ## Disadvantages
 
@@ -129,3 +130,17 @@ enemies in the field will already be dead.
 
 No matter your specific build, you definitely want to spend quirk points on
 extra money for an armor upgrade.
+
+## The "This Ain't D&D" Section
+
+For once there isn't much to this section. DFRPG Knights are pretty similar to
+D&D Fighters in terms of visual style and intended function.
+
+The main difference here is, well, truth in advertising. Both games say the
+archetype is the among the best at fighting, but here this is actually
+true.
+
+It helps that GURPS melee combat goes far beyond the "I hit it with my
+weapon" level of detail supported by D&D mechanics, and that you actually become
+more effective if you use those options. With such a high skill level, you can
+afford to do that without reducing your chances of success.

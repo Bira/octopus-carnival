@@ -36,8 +36,8 @@ Proper Shields come in Small, Medium, and Large varieties. They let you block
 and bash as described above, make shield rushes, and are of course a lot
 sturdier than a piece of cloth with delusions of grandeur. DFRPG doesn't really
 deal with shield breakage, so the biggest game effect of this sturdiness is that
-shields can all of the modifiers we'll list below, while cloaks can only take
-Ornate.
+shields can take all of the modifiers we'll list below, while cloaks can only
+take Ornate.
 
 Light and Medium shields are available as either traditional shields or
 bucklers. A buckler is held by a handle instead of strapped to your arm, so you
@@ -86,9 +86,9 @@ Fine Orichalcum one is half the weight of the standard wooden version.
 In DFRPG, armor provides you with Damage Resistance, which directly subtracts
 from rolled damage. This means it enters into play after you've failed your
 active defense rolls, as the last line of defense before your HP. There are no
-such things as armor skills or armor proficiencies here. PCs of archetype can
-wear any armor. The barriers here are cost and weight: armor is both _heavy_ and
-_expensive_.
+such things as armor skills or armor proficiencies here. PCs of any profession
+can wear any armor. The barriers here are cost and weight: armor is both _heavy_
+and _expensive_.
 
 Money will be much less of a problem once your delver has a few adventures under
 their belt, but the weight requires either a lot of ST or magic to mitigate. I
@@ -113,9 +113,9 @@ and also for smaller pieces covering the head, arms, legs, hands, feet, and body
 (everything from groin to neck).
 
 If you're looking for simplicity you can just look at the "Full Suit" column and
-call it a day. Min-maxers can shop for piecewise armor cut some corners for the
-parts they don't think will be hit often. One-sleeved jackets are all the rage
-these days and who needs helmets anyway, amirite?
+call it a day. Min-maxers can shop for piecewise armor and cut some corners for
+the parts they don't think will be hit often. One-sleeved jackets are all the
+rage these days and who needs helmets anyway, amirite?
 
 Here's a brief summary of the armor table:
 
@@ -126,10 +126,10 @@ Here's a brief summary of the armor table:
 - **Mail** armor comes in Light, "standard" and Heavy varieties (DR 3/1, 4/2 or
   5/3). Since it's flexible, it uses the lower value against crushing attacks.
 
-- **Scale** is cheaper and less flexible than mail, but considerably heavier. It
-  also comes in Light, Standard, and Heavy (DR 3/2, 4/3, and 5). The lighter
-  varieties use the lower number against crushing attacks, but I guess the heavy
-  one is too sturdy for that.
+- **Scale** is cheaper and less vulnerable to crushing attacks than mail, but
+  considerably heavier. It also comes in Light, Standard, and Heavy (DR 3/2,
+  4/3, and 5). The lighter varieties use the lower number against crushing
+  attacks, but I guess the heavy one is too sturdy for that.
 
 - **Segmented Plate** (DR 3, 4, or 5) includes "lamellar" armor and sits between
   mail and scale in terms of cost and weight, and doesn't have the vulnerability
@@ -144,13 +144,13 @@ Here's a brief summary of the armor table:
   for the amount of protection it provides. Comes in Standard, Heavy,
   Extra-Heavy and Epic (DR 6 to 9).
 
-You probably won't be affording anything heavier than light mail out of
+You probably won't be affording anything heavier than light mail or scale out of
 character creation, and even then you can't afford a full suit of it without
 expending some character points on starting money.
 
 You can layer armor, with some restrictions on type. Their DR more or less adds
-together, but layered armor at anywhere other than your head imposes a -1
-penalty to DX.
+together, but layered armor anywhere other than your head imposes a -1 penalty
+to DX.
 
 Whether you decide to go for the fiddly rules or not, you have pretty much total
 freedom to describe your armor as anything you can imagine, as long as it has
@@ -158,7 +158,8 @@ the right stats.
 
 ## Armor Modifiers
 
-They're also here, and as usual don't count as enchantments. Since the price of
+These have the same base rules as weapon modifiers, adding a Cost Factor to the
+item's final price and not counting as magic enchantments. Since the price of
 armor is so high, a lot of the modifiers that increase DR or reduce weight often
 end up _more expensive_ than an enchantment that does the same. But the modifier
 works even without mana, and it _stacks_ with the enchantment, so there's that.

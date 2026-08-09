@@ -156,8 +156,8 @@ not affected by anti-magic measures.
   from your high unarmed skills.
 
 - **Uninterrupted Flurry** (20 points): Once per battle, you can speed up and
-  take 2 actions per turn instead of just one, for the next 1d turns. Ora ora
-  ora!
+  take 2 entire actions per turn instead of just one, for the next 1d turns. Ora
+  ora ora!
 
 ### Special Skills
 
@@ -167,11 +167,11 @@ level is also enhanced by your Chi Talent level. You can use the skills even if
 your abilites are burned out, though in that case you don't get the Talent bonus
 to them.
 
-There's a lot of skills here, and you get to pick seven from your
-template. This is where the "walk on water, run up walls, perform giant flying
-leaps, and paralyze people by poking them" magic happens. This is also where
-your actual ranged combat skill lives if you have any interest in it at all, as
-it lets you throw anything and gives a damage bonus to those attacks.
+There's a lot of skills here, and you get to pick seven from your template. This
+is where the "walk on water, shatter walls, perform giant flying leaps, and
+paralyze people by poking them" magic happens. This is also where your actual
+ranged combat skill lives if you have any interest in it at all, as it lets you
+throw anything and gives a damage bonus to those attacks.
 
 ## Customization
 
@@ -200,3 +200,12 @@ armor for when they need to fight unarmed.
 Yes, that does mean that in a humorous campaign you might be able to spot a
 martial artist by their tattered robes and incredibly expensive heavy boots and
 gauntlets.
+
+## The "This Ain't D&D" section
+
+DFRPG Martial Artists are pretty similar to D&D monks in concept, with the main
+differences being in their specific capabilities. Monks have this weird grab-bag
+of powers that are mostly taken from those awful Destroyer novels from the 70s
+and 80s, while the Martial Artist selection here tends to be a bit more
+focused. And you can also get them in any order you want, this being a
+point-based game and all.

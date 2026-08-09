@@ -17,7 +17,7 @@ subsections, and we'll cover all three here.
 
 Some pieces of gear in this chapter are described as "basic equipment" for a
 certain skill. This means you need them to use that skill normally, and if
-you're force to improvise or go without you'll face a daunting -5 or -10
+you're forced to improvise or go without you'll face a daunting -5 or -10
 penalty. Items that are high-quality might give a +1 or +2 instead.
 
 Unlike weapons and armor, each item here gets at most one or two lines about its

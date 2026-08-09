@@ -137,3 +137,21 @@ of them are about fighting better, but you're already so good to start with you
 could instead branch into being the party's backup socialite. And even if you
 take lots of combat powers, you still get the choice between favoring defense or
 offense.
+
+## The "This Ain't D&D Section"
+
+The simple fact of the Swashbuckler being here is already a big difference!
+This class doesn't feature on any core book for any edition of D&D, though it's
+often present in supplements. Often the Rogue class ends up taking many aspects
+of it in core books, in more recent D&D editions.
+
+Stylistically, the two games are very similar here, since they draw from many of
+the same sources. DFRPG's more granular melee combat rules again come in handy,
+as you can differentiate a Knight and a Swashbuckler very easily without having
+to introduce new abstract concepts like Pathfinder's "Panache"
+rules.
+
+Swashbucklers are incentivized to use their very high skill to seek out and
+exploit enemy weak points, so _this_ is the profession you take if you want to
+be a sassy git with a rapier and replicate the effects of "new-school" Sneak
+Attack.

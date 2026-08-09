@@ -136,3 +136,26 @@ magic knowledge skills.
 
 Every mage wants extra Energy Reserves, and those quirk points can be used
 either for an expensive and high-capacity Power Item, or for more spells.
+
+## The "This Ain't D&D Section"
+
+The hardest thing for habitual D&D players to get used to here is the fact that
+you won't be able to win an entire battle by snapping their fingers.
+
+Yes, DFRPG wizards have access to plenty of strong damage-dealing spells. And
+yes, they also have access to plenty of control spells that can stop a monster
+on its tracks. But casting spells takes time and energy.
+
+To cast that explosive fireball, you need to spend one turn casting the spell
+and from 0 to 3 additional turns growing it to the desired size and aiming it
+before you can attack. If the party is readying for an ambush, that's a great
+opening move. If you start doing that during a fight, it's likely the Knight and
+the Barbarian will have killed all enemies by the time you're ready.
+
+The upside here is that you don't have to worry about "spell slots" or any of
+that nonsense. You always have access to all the spells you know, and when your
+energy runs out you can recover it entirely by resting for a few minutes.
+
+DFRPG wizards really shine in the "utility magic" department. That's where
+you'll find most spells that both relatively cheap and quick to cast, and do
+stuff that no other profession can replicate.

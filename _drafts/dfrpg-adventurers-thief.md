@@ -122,3 +122,16 @@ better at their job.
 Your thief's quirk points should be spent on more skills! There's some sweet
 high-tier thief gear out there but it's outside a starting character's price
 range.
+
+## The "This Ain't D&D" section
+
+There's little to say here that I haven't said above. The DFRPG Thief is
+equivalent to the old school Thief class in terms of intended function and
+combat ability. The difference here is that their starting success chance in
+those traditional thief duties is much higher.
+
+You _can_ get better at fighting with knives, and you do get access to something
+that's a lot like the old AD&D Backstab ability in terms of relative benefit and
+difficulty to use. But if you want to be a sassy git with a rapier who is good
+at poking people in vulnerable places under a broad array of circumstances, you
+want to play a Swashbuckler.
