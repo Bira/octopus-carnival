@@ -24,6 +24,9 @@ heroes have enough time to gather and tally all the loot, though I guess they
 might need to call in a couple of Silver Raven teams to help haul it all back to
 base.
 
+I'm labeling this "Scene 15" because it's technically part of the first
+adventure, but we're not doing any Mythic stuff here this time around.
+
 # [GM] Delver: The Lootening
 
 Unfortunately, the very fact that Thrune's minions know where the Monastery is
@@ -96,11 +99,12 @@ as the GM I confirm it). She's going to talk to Lady Mialari Docur in the space
 between adventures, and I she will handle the rest.
 
 Our loot pile in this category totals a whopping $51250 and weights 43kg. The
-process of carting it around and selling it probably takes a couple of weeks,
-but we can sum up the results here. Per the standard rules, that amount up there
-is the loot's nominal worth. Our heroes will be able to fence it for 40% of that
-value, or 50% if one of them can win a contest of Merchant vs. 15. Jania does
-win, so we're looking at $25625 for the lot. 84 gold, 1 silver, 5 copper.
+process of carting it around to various fences and selling it probably takes a
+couple of weeks, but we can sum up the results here. Per the standard rules,
+that amount up there is the loot's nominal worth. Our heroes will be able to
+fence it for 40% of that value, or 50% if one of them can win a contest of
+Merchant vs. 15. Jania does win, so we're looking at $25625 for the lot. 64
+gold, 1 silver, 5 copper.
 
 Next we have our "tools", items which have a game effect but are not what I'd
 consider "equipment". This includes consumables like potions and scrolls, as
@@ -168,14 +172,15 @@ Jania.
 The party isn't going to sell these rings, but I'm listing their value for
 completeness' sake.
 
-- 2 x Victocora Signet Ring: |$750, 0.1kg|.
+- 2 x Victocora Signet Ring: |$750, 0.1kg|. (total $1500, 0.2kg)
 
 ## Room E9
 
-Perception -1 to search the room for left-over valuables. The PCs pass this one.
+Perception -1 to search the room for left-over valuables. The PCs pass this the
+test, and so find everything.
 
 - 1 x Bottle of lead-based ink: |$500, 0.25kg|.
-- 5 x Miniature ivory doors: |$50, 0.01kg|. (total $500, 0.05kg)
+- 5 x Miniature ivory doors: |$50, 0.01kg|. (total $250, 0.05kg)
 - 1 x Roll of copper Wire: |$250, 4kg|.
 - 12 x Silver Coin: |$20, 0.01kg|. (total $240, 0.12kg)
 - 1 x Diamond: |$1000, 0kg|.
@@ -195,8 +200,7 @@ treasure on his person as the Freedom Fighters escort him away.
 The book listed below also contained a clue to opening the way to the Monastery,
 but we didn't need it because Urist already knew the trick.
 
-- 1 x Book: This is a decorated tome sacred to the dead god Aroden. |$1000,
-  6kg|.
+- 1 x Book: This is an ornate tome sacred to the dead god Aroden. |$1000, 6kg|.
 
 ## Room F1: The Sacred Archive
 
