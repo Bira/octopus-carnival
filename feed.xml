@@ -6,9 +6,169 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 10 Aug 2026 14:10:16 +0000</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2026 14:10:16 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 18:41:08 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:41:08 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Knight</title>
+        <description>&lt;p&gt;Knights specialize in &lt;em&gt;fighting&lt;/em&gt;, and are better at it than nearly anyone
+else. They favor heavy armor and, well, “knightly” melee weapons. Their name
+refers more to this than to their social status, which is as highly variable as
+that of any other delver. In the book’s own words: “… Knight sounds better
+than Fighter (so generic!) or Thug (offensive!).”&lt;/p&gt;
+
+&lt;p&gt;So yeah, this is the equivalent of D&amp;amp;D’s Fighter class, but it’s a lot more
+honest about representing a specific type of combatant, and also about their
+capabilities: when they say the knight is good at combat, they &lt;em&gt;mean&lt;/em&gt; it. As you
+might already be able to tell, they’re my favorite template.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
+
+&lt;p&gt;The Knight’s starting statline is ST 14, DX 14, IQ 10, HT 13. Their speed is
+reduced from 6.75 to 6.00.&lt;/p&gt;
+
+&lt;p&gt;They have the second highest base ST, losing only to the Barbarian. Their high
+DX also makes them excellent physical generalists.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;Knights start with 2 levels of the &lt;strong&gt;Born War Leader&lt;/strong&gt; talent, plus &lt;strong&gt;Combat
+Reflexes&lt;/strong&gt; and &lt;strong&gt;High Pain Threshold&lt;/strong&gt;. None of these are exclusive traits, but
+the last two are major boons to anyone who plans to engage in combat and Knights
+are the only profession that always starts with both.&lt;/p&gt;
+
+&lt;p&gt;Born War Leader means Knights are much better at their profession’s main mental
+and social skills than their average IQ 10 would indicate.&lt;/p&gt;
+
+&lt;p&gt;They have a whopping 60 points to put into further discretionary traits, all of
+which make them better at either fighting (like Extra Attacks and Enhanced
+Parry) or leadership (like extra levels of Born War Leader).&lt;/p&gt;
+
+&lt;p&gt;Of note here is &lt;strong&gt;Weapon Master&lt;/strong&gt;, which boosts their skill at arms from merely
+“unrealistically good” to “superhuman”. This advantage reduces penalties for
+multiple attacks and defenses, gives access to some special skills, and gives
+them a major damage boost with the weapons covered by the advantage. Knights are
+not the only profession that has access to this: Martial Artists, Swashbucklers,
+Scouts and Thieves also have it. But Knights are the only profession with access
+to the version that covers &lt;em&gt;all weapons&lt;/em&gt;, if they’re willing to pay the 45
+points it costs.&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;Knights need only choose -35 points of disadvantages here, as their reduced
+Speed makes up for the rest. The available choices of personality problems here
+let you make anything from a callous and unpleasant thug to a crusty veteran
+soldier to a chivalrous hero. You also have a small selection of physical
+disadvantages representing old battle wounds.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;All Knights have the skills to use a shield and any one ranged weapon of their
+choice, as well as some unarmed combat training. The melee skill packages offer
+the choice between skill 20 at any one weapon, skill 17 at two, or skill 16 at
+three. Do you want to master your chosen weapon, or do you want to be able to
+use anything that can show up on a random loot table?&lt;/p&gt;
+
+&lt;p&gt;I’ve seen people not take the Shield skill and instead move its points to a
+weapon skill, increasing it by 1. That would indeed let them start with skill 21
+in a weapon.&lt;/p&gt;
+
+&lt;p&gt;Other skills include the tactical and leadership stuff boosted by Born War
+Leader, and they can pick a few from the full gamut of universal delver lore
+plus Intimidation.&lt;/p&gt;
+
+&lt;p&gt;A Knight is likely to start with fewer skills than many other professions, but
+there’s nothing preventing them from learning more with earned points. And they
+can start out very, very good at their main job, so they can start branching out
+earlier.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-knight-traits&quot;&gt;Special Knight Traits&lt;/h2&gt;
+
+&lt;p&gt;Knights can buy extra HP up to 1/2 their ST, instead of just 1/3. Also, they can
+buy new weapon skills or improve existing ones with earned character points
+&lt;em&gt;instantly&lt;/em&gt; at any time - even mid battle!&lt;/p&gt;
+
+&lt;p&gt;They also have some exclusive traits. As you might expect, these are not magic,
+and instead represent you being Just That Good.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Armor Mastery&lt;/strong&gt; (5 points): When you wear any armor with DR 2+, increase its
+DR by 1. This reflects your skill at actively using the armor, turning your
+body so blows always strike the strongest parts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Rallying Cry&lt;/strong&gt; (5 points): Unleash the Warlord in you! This lets nearby
+allies who are mentally stunned (from surprise or enemy powers) immediately
+make a Will roll to recover. If they succeed they immediately lose the defense
+penalties from being stunned and can act normally on their next turn.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Sacrificial Block&lt;/strong&gt; and &lt;strong&gt;Sacrificial Parry&lt;/strong&gt; (1 point each): These let you
+attempt these defenses on behalf of someone else who is in reach. The Block
+works for allies who are behind you, the Parry for allies who are beside
+you. Roll as if you were defending yourself, and if you succeed your ally is
+protected as if they had succeeded. They’re “sacrificial” because they count
+against your own defense limit for that round.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shield Mastery&lt;/strong&gt; (15 points): Any shield you use gains +1 to its Defense
+Bonus, and you gain an extra DR 2 against cone and area attacks if you can
+interpose your shield. Captain America probably has this.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Shield Wall Training&lt;/strong&gt; (1 points): This lets you use your shield to block
+attacks on behalf of an ally who is beside you, and eliminates the penalty for
+attacking while holding a large shield.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
+
+&lt;p&gt;You can use this template to make any “heavy fighter” archetype, from an
+European-style knight to a samurai to an Amazon to Guts from Berserk. It’s all
+about weapon and disadvantage choice. The book also says it’s important to
+decide if you want to completely master a single weapon be decently skilled in a
+wide variety of them. High skill is definitely powerful, but there’s value in
+keeping your options open in campaigns where the GM is enthusiastic about random
+loot.&lt;/p&gt;
+
+&lt;p&gt;As a personal note, I’m going to say Weapon Master is so good it feels almost
+mandatory. Few things are more dangerous in the battlefield than a ST 17+ Weapon
+Master Knight who focuses on a single big swingy weapon like a polearm or
+two-handed sword. By the time the wizard finishes charging that fireball, all
+enemies in the field will already be dead.&lt;/p&gt;
+
+&lt;p&gt;No matter your specific build, you definitely want to spend quirk points on
+extra money for an armor upgrade.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” Section&lt;/h2&gt;
+
+&lt;p&gt;For once there isn’t much to this section. DFRPG Knights are pretty similar to
+D&amp;amp;D Fighters in terms of visual style and intended function.&lt;/p&gt;
+
+&lt;p&gt;The main difference here is, well, truth in advertising. Both games say the
+archetype is the among the best at fighting, but here this is actually
+true.&lt;/p&gt;
+
+&lt;p&gt;It helps that GURPS melee combat goes far beyond the “I hit it with my weapon”
+level of detail supported by D&amp;amp;D mechanics, and that you actually become more
+effective if you use those options. With such a high skill level you can afford
+to do that without reducing your chances of success.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/08/13/dfrpg-adventurers-knight.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/13/dfrpg-adventurers-knight.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Part 4</title>
@@ -1681,182 +1841,6 @@ adventure path, then GURPS might be of help.&lt;/p&gt;
         <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/07/11/dfrpg-adventurers-ads-disads-skills.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/11/dfrpg-adventurers-ads-disads-skills.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DF Adventurers, Chapter 1: Basics</title>
-        <description>&lt;p&gt;This chapter talks about the basics of character creation, and explains what the
-game’s most fundamental stats mean.&lt;/p&gt;
-
-&lt;p&gt;The basic process of creating a character in DFRPG is simple: you go to chapter
-2, pick a professional template, and select your final traits from several
-shopping lists presented in that template. This tends to be a lot faster than
-creating a character from scratch in core GURPS, particularly for people who are
-new to the system. We’ll talk more about the templates when we cover chapter 2.&lt;/p&gt;
-
-&lt;h1 id=&quot;character-points&quot;&gt;Character Points&lt;/h1&gt;
-
-&lt;p&gt;Each ability listed in those templates has a cost in &lt;strong&gt;Character Points&lt;/strong&gt;, and
-each professional template has a total of 300 points worth of abilities. Their
-point total adds up to only 250, however, since they also have 50 points worth
-of “problems” that have negative costs and inconvenience the character in
-various ways. We’ll see later that you gain more character points as you play,
-and those can be used to either improve your abilities or get rid of those
-problems. There’s no special “XP” here like you might find in other games - the
-points you gain from adventuring and use to advance are the same kind as the
-ones you spent during character creation, and all trait costs remain the same.&lt;/p&gt;
-
-&lt;p&gt;The concept of “zero to hero” does not apply here: templates are tuned to be
-seriously good at their main jobs from the start. I’d say they have roughly the
-same power as level 7 or 8 D&amp;amp;D 3.x characters, though there are some important
-differences in how they play that I’ll get into when we discuss chapter 2.&lt;/p&gt;
-
-&lt;p&gt;Experienced GURPS players can try their hand at making freeform characters
-starting with the same 250/-50 total, though even in this case I’d recommend
-starting from a template and changing to taste - they’re just that
-useful.&lt;/p&gt;
-
-&lt;p&gt;So what do these points get you? A character sheet is made up of several
-different types of traits. This chapter describes the two most basic types in
-detail, and mentions the others (which get their own chapters).&lt;/p&gt;
-
-&lt;h1 id=&quot;basic-attributes-and-secondary-characteristics&quot;&gt;Basic Attributes and Secondary Characteristics&lt;/h1&gt;
-
-&lt;p&gt;Basic Attributes, henceforth known as simply “attributes”, measure how strong,
-quick, and smart your character is and influence everything they do. Each one
-also helps determine one or more Secondary Characteristics, derived values that
-are just as important to your character. These characteristics can also be “fine
-tuned” and increased or decreased directly, again costing points or giving them
-back depending on the direction of change.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Strength (ST)&lt;/strong&gt; determines your capacity for dealing physical &lt;strong&gt;damage&lt;/strong&gt;, your
-&lt;strong&gt;Basic Lift&lt;/strong&gt; that measures how much you can lift and carry, and your &lt;strong&gt;hit
-points&lt;/strong&gt;. GURPS HP does not have the abstract fuzziness of its D&amp;amp;D counterpart -
-its hit points are “meat points”. The meatier you are, the more HP you have. You
-can increase HP separately with points, but there are limits to this, so it
-remains fundamentally anchored to your beefiness.&lt;/p&gt;
-
-&lt;p&gt;The sole mental attribute, &lt;strong&gt;Intelligence (IQ)&lt;/strong&gt; is the basis for every mental
-skill in the game. It also determines your &lt;strong&gt;Perception&lt;/strong&gt; and &lt;strong&gt;Will&lt;/strong&gt;, which as
-you would expect are used for noticing things and resisting mental Bad
-Stuff.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dexterity (DX)&lt;/strong&gt; is your overall agility and coordination. It’s the basis for
-nearly every physical skill in the game.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Health (HT)&lt;/strong&gt; is a measure of your stamina and your resistance to Bad Stuff of
-a physical nature, including unconsciousness and death when your HP goes below
-zero. A few physical skills that are more dependent on stamina than coordination
-are tied to HT. It also determines your &lt;strong&gt;Fatigue Points&lt;/strong&gt;, which you spend in
-order to perform exhausting tasks or fuel special powers, including
-spells. Wizards need good cardio in this game!&lt;/p&gt;
-
-&lt;p&gt;DX and HT together determine your &lt;strong&gt;Basic Speed&lt;/strong&gt;, a number that can be
-fractional. This is how fast you can react, particularly in combat. Rounded
-down, this score becomes your &lt;strong&gt;Basic Move&lt;/strong&gt;, which is how far you run in a
-combat turn. Both can be tuned separately, with Basic Move being much cheaper.&lt;/p&gt;
-
-&lt;p&gt;Your Basic Move can be reduced if you’re carrying too much weight. How much is
-too much depends on your Basic Lift.&lt;/p&gt;
-
-&lt;p&gt;You might notice that the functions of each attribute are a
-little… unbalanced. ST and HT have a few things they do, and are useful to
-characters who want to do those things well. DX and IQ are the basis for 95% of
-the game’s skills and &lt;em&gt;everyone&lt;/em&gt; wants to have good levels in those. And this is
-why they cost 20 points per level to raise, while ST and HT cost 10.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;Size Modifier&lt;/strong&gt; is a number representing how big you are in relation
-to a typical human. The vast majority of delvers are more or less human-sized
-and -shaped, and so have a 0 here and don’t need to think about it any
-further. Monsters, of course, have much more varied scores.&lt;/p&gt;
-
-&lt;h1 id=&quot;other-traits&quot;&gt;Other Traits&lt;/h1&gt;
-
-&lt;p&gt;Each of these gets their own chapter later on, mainly because there are huge
-lists of them.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt; are special abilities or social edges your character
-possesses. Their chapter lists the stuff anybody might get, but each
-professional template also has access to a few exclusive ones.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt; are the “problems” mentioned earlier. They inconvenience you
-in several ways but give you more points to spend.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; let you do stuff in the game. They have levels relative to their
-associated attribute. As mentioned above, most are based on DX or IQ, though
-some use HT, Perception, or Will. Spells are also skills, available to
-characters with the proper advantages.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Quirks&lt;/strong&gt; are small foibles or personality traits that are too “light” to
-cause a mechanical impact, but can help flesh out your character. Anyone can
-pick up to 5 quirks, each of which gives you a single extra character point to
-spend. These can be spent on extra traits, or to get extra starting cash to
-buy better equipment.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;language-please&quot;&gt;Language, Please!&lt;/h1&gt;
-
-&lt;p&gt;Language gets a bit of boxed text here. While language is an acquired skill in
-real life, it’s treated as a “binary” advantage here. You either know a language
-or you don’t.&lt;/p&gt;
-
-&lt;p&gt;As is usual in the dungeon fantasy genre, most sapient beings can speak and
-write a language called by the very original name of Common. All PCs get this
-one for free. Being illiterate in Common is a disadvantage worth -3 points.&lt;/p&gt;
-
-&lt;p&gt;Other languages also exist. Most of them feature in ancient grimoires, magical
-scrolls, and enigmatic dungeon writings. Certain isolated cultures might also
-have their own languages, and their members might be unable or unwilling to
-speak Common. Spoken proficiency and literacy in a language cost 3 points each
-(i.e, it costs 6 points to know how to speak and write in a language).&lt;/p&gt;
-
-&lt;h1 id=&quot;cosmetic-details&quot;&gt;Cosmetic Details&lt;/h1&gt;
-
-&lt;p&gt;There are some traits that have less mechanical impact and mostly serve to flesh
-out your character. Age, ethnicity, handedness, gender, hair and eye color,
-height and weight, all of these things are purely cosmetic and do not affect
-your stats in any way.&lt;/p&gt;
-
-&lt;p&gt;Age being entirely cosmetic is a big departure from core GURPS, which had a
-series of advantages and disadvantages about being young or old, as well as
-long- or short-lived. None of that costs anything here. As the joke goes, the
-lifespan of a delver is measured in months regardless of their biology.&lt;/p&gt;
-
-&lt;p&gt;Handedness matters in that you get a penalty for wielding weapons and doing
-certain other tasks with your off-hand, but being right- or left-handed is a
-purely cosmetic choice. And you can buy the Ambidexterity advantage to ignore it
-altogether.&lt;/p&gt;
-
-&lt;h1 id=&quot;impressions&quot;&gt;Impressions&lt;/h1&gt;
-
-&lt;p&gt;GURPS is one of my favorite systems so I think it’s not surprise that I’m pretty
-fond of these basics. The use of templates is the big change over core GURPS
-here, and as I mentioned above I like them so much I wouldn’t try to start a
-game without them.&lt;/p&gt;
-
-&lt;p&gt;While I don’t have a problem with the concept of disadvantages and the way GURPS
-handles them, you might! Several criticisms of it have popped up over the years,
-after all. In that case, you can easily ignore them by discarding that section
-of the templates and giving your characters 300 points to play with from the
-start.&lt;/p&gt;
-
-&lt;p&gt;Next up: A deeper look into advantages, disadvantages, and skills.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/07/dfrpg-adventurers-basics.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/07/dfrpg-adventurers-basics.html</guid>
         
         <category>gurps</category>
         
