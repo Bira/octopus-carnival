@@ -140,7 +140,7 @@ The main difference here is, well, truth in advertising. Both games say the
 archetype is the among the best at fighting, but here this is actually
 true.
 
-It helps that GURPS melee combat goes far beyond the "I hit it with my
-weapon" level of detail supported by D&D mechanics, and that you actually become
-more effective if you use those options. With such a high skill level, you can
-afford to do that without reducing your chances of success.
+It helps that GURPS melee combat goes far beyond the "I hit it with my weapon"
+level of detail supported by D&D mechanics, and that you actually become more
+effective if you use those options. With such a high skill level you can afford
+to do that without reducing your chances of success.
