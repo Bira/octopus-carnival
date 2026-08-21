@@ -5,9 +5,254 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Aug 2026 18:41:08 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2026 18:41:08 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 14:55:56 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:55:56 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Adventurers: Martial Artist</title>
+        <description>&lt;p&gt;Generally speaking, every delver is a martial artist. The amount of points even
+a wizard puts into weapon skills would easily make them black belts or the
+equivalent in real life. If you want to narrow things down a bit, the Knight and
+Swashbuckler are still definitely martial artists, because they dedicate a large
+part of their lives to studying a formal system of fighting, and their skill at
+it would make them legendary if they were real people.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This&lt;/em&gt; Martial Artist however, is the kind who graduated from an ascetic
+monastery in a faraway land or perhaps from a local mystical sect. Sure, they’re
+better at unarmed combat than the other delvers, but the important thing is that
+they learned how to cultivate their inner strength through special exercises and
+meditation, and they can use that to manifest supernatural powers.&lt;/p&gt;
+
+&lt;p&gt;The book calls their power source “Chi”, and if this sounds a bit orientalist,
+well, that’s how you know this is a version of the D&amp;amp;D Monk. The term can be
+stripped away easily enough, though then you still have to put up with some
+legacy skill and power names that were imported straight from the GURPS core and
+show up in this template.&lt;/p&gt;
+
+&lt;p&gt;Mechanically, the draw of the Martial Artist are those special powers. If you
+just want to hit things really well and deal lots of damage, you might be better
+served by one of the other fighty professions. But if you want to walk on water,
+run up walls, perform giant flying leaps, and paralyze people by hitting their
+pressure points, then this is the profession for you.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
+
+&lt;p&gt;The basic stat line for the Martial Artist is ST 11, DX 16, IQ 10, HT 12. That
+gives them Speed 7.0 exactly. Their Will is increased to 11, and their Move to
+8, making them the fastest-running profession at character creation.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;Every Martial Artist starts with two levels of &lt;strong&gt;Chi Talent&lt;/strong&gt; and the &lt;strong&gt;Trained
+by a Master&lt;/strong&gt; advantage. The former is their Power Talent, and the latter is
+similar to the Knight’s Weapon Master. It doesn’t grant a damage bonus, but the
+other ones work for all unarmed attacks and muscle-powered weapons, and it
+allows the character to learn many more special skills.&lt;/p&gt;
+
+&lt;p&gt;They have 40 points to distribute between optional advantages, which include the
+usual stat boosts, stuff useful for combat, and some advantages representing
+great mental resilience. Weapon Master also makes an appearance here, in its
+20-point version that covers any one single weapon. The book says “one exotic
+weapon”, but since “exotic” is not a weapon qualifier in the rules, I guess this
+is here only for “flavor”. You can pick any one you want.&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;The mandatory disadvantage here is &lt;strong&gt;Disciplines of Faith&lt;/strong&gt; (Chi Rituals). This
+represents the special exercises you must perform daily to keep your inner
+strength up and access your special powers. They eat into your free time, but if
+you skip even one day you can’t use your powers for a while.&lt;/p&gt;
+
+&lt;p&gt;Discretionary advantages include stuff that represents being a foreigner or
+having a strict code of conduct, monastic vows you might have taken, lower
+starting Wealth, and even stuff for reckless braggarts like a vow to always
+fight unarmed.&lt;/p&gt;
+
+&lt;p&gt;Yes, Social Stigma (Minority Group) is optional for Martial Artists. Not all of
+them come from a mysterious faraway land. I remember seeing one who was a local
+dwarf who wore plate armor and fought using twin battleaxes as weapons.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Both core GURPS and the DFRPG have a set of “tiered” unarmed combat skills. You
+can always use your raw DX to strike or grapple someone if you don’t know any of
+them. That’s always your worst option. Then you have a series of skills that
+provide increasing benefits but are also increasingly harder to learn. The
+benefits are things like increased damage and more options during combat.&lt;/p&gt;
+
+&lt;p&gt;For strinking, the progression is Brawling, Boxing and Karate. For grappling,
+it’s Wrestling and Judo.&lt;/p&gt;
+
+&lt;p&gt;I feel that both the tier system and the fact that the best skills are the ones
+with Japanese names is another bit of left-over 90s orientalist gunk we should
+get rid of. Sadly it did not happen here yet, and the Martial Artist leans into
+this.&lt;/p&gt;
+
+&lt;p&gt;As a Martial Artist you get access to Judo and Karate, and always start out with
+a lot more points invested into them than the other professions put into their
+“remedial unarmed training” package that consists of Brawling and Wrestling as
+secondary or optional skills.&lt;/p&gt;
+
+&lt;p&gt;The reason most other delvers avoid investing too much in unarmed combat is that
+it’s pretty crappy compared to hitting people with weapons. Punches and kicks do
+less damage than most weapons. Failing to parry an enemy’s weapon or having your
+strikes parried by one can give the enemy a free shot at your limbs. And even if
+you hit, you can end up hurting yourself if the target surface is too hard
+(like, say, enemy armor, or monster scales). The martial artist’s better skills
+mitigate some of that, and their powers can help mitigate the rest.&lt;/p&gt;
+
+&lt;p&gt;The choice of combat skill package determines if you know these unarmed skills
+at 15 plus two weapons at 17, unarmed at 16 and one weapon at 17, or one unarmed
+skill at 17 and the other at 16. These are pretty good starting levels, but are
+still behind what other dedicated combatants get. The weapon list includes stuff
+we’ve seen already like Knife and Staff and a couple of sword skills, but also
+some “signature” skills like Tonfa, Jitte/Sai, and Kusari. These three have
+especially “tricksy” uses that are possibly more valuable than their raw damage.&lt;/p&gt;
+
+&lt;p&gt;For ranged combat, you probably use thrown weapons. Your list of default
+non-combat skills is sparse, but very focused on mobility. Optional skills are
+the usual delver package.&lt;/p&gt;
+
+&lt;p&gt;You then get to choose seven special skills from quite a large list. These are
+basically low-key superpowers of the sort you would expect to see in a D&amp;amp;D
+monk. Some are DX-based, others based on IQ or Will, and all get a bonus equal
+to your level of Chi Talent. More on them below.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-martial-artist-traits&quot;&gt;Special Martial Artist Traits&lt;/h2&gt;
+
+&lt;p&gt;If we don’t count spell descriptions for the casters, since they live in a
+separate book, then Martial Artists have the largest special traits section
+among the professions. It consists of &lt;em&gt;Chi Mastery&lt;/em&gt; powers, and the many
+&lt;em&gt;special skills&lt;/em&gt; tied to Training by a Master.&lt;/p&gt;
+
+&lt;p&gt;In both cases, &lt;em&gt;Chi Talent&lt;/em&gt; gives its level as a bonus to any tests associated
+with the power, or to the skill level directly. It’s more expensive than any
+other talent we have seen so far, because it enhances a lot of stuff. The name
+of this talent is also the last bit of legacy scuff we have to deal with.&lt;/p&gt;
+
+&lt;h3 id=&quot;chi-abilities&quot;&gt;Chi Abilities&lt;/h3&gt;
+
+&lt;p&gt;These powers have Disciplines of Faith (Chi Rituals) as a prerequisite. These
+rituals consume 1d hours of your free time each day, and their special dietary
+requirements mean your rations cost double. If you skip a day, you must spend
+a full day rebalancing your chi, or your powers will burn out for a while when
+you next call upon them.&lt;/p&gt;
+
+&lt;p&gt;Like Holy Might or Nature’s Power, these abilities don’t count as magic and are
+not affected by anti-magic measures.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Dragon Skin&lt;/strong&gt; (5 points): Gives you DR 2 and generally works like the
+Barbarian’s Tough Skin, but cheaper because it’s part of a power.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Mantis Strike&lt;/strong&gt; (9 points): This is two levels of Striking ST, again cheaper
+because it’s part of a power.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Regeneration&lt;/strong&gt; (23 points): You automatically heal 1 HP per hour no matter
+what you’re doing, and you roll for natural healing twice as often. Your HT
+rolls for natural healing benefit from your Chi Talent.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Seven Secret Kicks&lt;/strong&gt; (7 points): You don’t have the usual -2 penalty for
+attacking with a kick, and your kicks do +1 bonus damage per die. You still
+need to roll to avoid falling down if you miss, but Chi Talent benefits those
+rolls.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Spider Climb&lt;/strong&gt; (18 points): You can crawl or walk on walls and ceilings, and
+can stop at any point there without fear of falling. If you’re falling a long
+distance and are near a wall, you can grip it to try and stop the fall or at
+least reduce its damage. Chi Talent aids the rolls for this.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Tiger Sprint&lt;/strong&gt; (9 or 18 points): You can run at 1.5 or 2 times your normal
+Move when out of combat, and sprinting in combat gives you the same
+multiplier. Chi Talent benefits any rolls to aid your movement while running
+(including stuff like Jumping and Acrobatics for parkour).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Unarmed Master&lt;/strong&gt; (25 points): An absolute necessity if you want to
+specialize in unarmed combat. This eliminates the chance of hurting yourself
+when striking hard surfaces, and the danger to your limbs when parrying or
+being parried. It also grants a +1 per die bonus to your unarmed damage, which
+does stack with Seven Secret Kicks and with the bonus you’re already getting
+from your high unarmed skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Uninterrupted Flurry&lt;/strong&gt; (20 points): Once per battle, you can speed up and
+take 2 entire actions per turn instead of just one, for the next 1d turns. Ora
+ora ora!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;special-skills&quot;&gt;Special Skills&lt;/h3&gt;
+
+&lt;p&gt;The Trained By a Master advantage halves your penalty for multiple attacks and
+defenses in a turn, and gives you access to all of these skills. Their skill
+level is also enhanced by your Chi Talent level. You can use the skills even if
+your abilites are burned out, though in that case you don’t get the Talent bonus
+to them.&lt;/p&gt;
+
+&lt;p&gt;There’s a lot of skills here, and you get to pick seven from your template. This
+is where the “walk on water, shatter walls, perform giant flying leaps, and
+paralyze people by poking them” magic happens. This is also where your actual
+ranged combat skill lives if you have any interest in it at all, as it lets you
+throw anything and gives a damage bonus to those attacks.&lt;/p&gt;
+
+&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
+
+&lt;p&gt;Martial Artists suffer from a problem similar to the D&amp;amp;D Monk in that their
+set of abilities pulls them in several different, sometimes competing,
+directions. Standard advantages, Chi powers, combat skills, esoteric
+skills… There’s some real nice out-of-combat utility spread through here, but
+choosing it does mean accepting you’ll be less effective at punching people for
+a while.&lt;/p&gt;
+
+&lt;p&gt;Unarmed specialists cannot afford to wait that long. They need Unarmed Master
+right away to make up the damage deficit and to keep their limbs
+intact. Breaking Blow, the special skill that lets you bypass DR, is also
+important, and requires a lot of points to be reliable mid-fight. Those who rely
+on weapons, “exotic” or otherwise, end up being more versatile out of the gate,
+as they can spread their points around more.&lt;/p&gt;
+
+&lt;p&gt;The book states this represents an Martial Artist fresh off the monastery, so it
+is indeed lacking in non-combat mundane skills. A few points from quirks can
+make a huge difference either in shoring up those deficiencies… or getting
+more powers and better combat skills. As a Martial Artist you’re not hurting for
+money unless you choose a sword as your main weapon. The other options are
+pretty cheap, and leave them with enough change to buy some decent hand and foot
+armor for when they need to fight unarmed. Not only do those protect their
+extremities, they also give another +1 to punch and kick damage.&lt;/p&gt;
+
+&lt;p&gt;Yes, that does mean that in a humorous campaign you might be able to spot a
+martial artist by their tattered robes and incredibly expensive heavy boots and
+gauntlets.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;DFRPG Martial Artists are pretty similar to D&amp;amp;D monks in concept, with the main
+differences being in their specific capabilities. Monks have this weird grab-bag
+of powers that are mostly taken from those awful Destroyer novels from the 70s
+and 80s, while the Martial Artist selection here tends to be a bit more
+focused on fighting and mobility. And you can also get them in any order you want, this being a
+point-based game and all.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/08/21/dfrpg-adventurers-martial-artist.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/21/dfrpg-adventurers-martial-artist.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read Dungeon Fantasy Adventurers: Knight</title>
@@ -1648,200 +1893,6 @@ idea to start from a template and then change it to suit your tastes.&lt;/p&gt;
         <category>gurps</category>
         
         <category>dungeon-fantasy</category>
-        
-        <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Advantages, Disadvantages, and Skills</title>
-        <description>&lt;p&gt;I’m going to do something non-standard for me and read things out of order
-here. We just covered Chapter 1 of the book, but I’m going to skip Chapters 2
-and 3 for now to talk about the three chapters that come after them: Advantages,
-Disadvantages, and Skills.&lt;/p&gt;
-
-&lt;p&gt;I’m doing this because I feel knowing a bit about how these traits work will
-help understand the contents of Chapter 2 and 3, which are the real “meat” of
-the book as far as this Let’s Read is concerned. What I’m &lt;em&gt;not&lt;/em&gt; doing is
-describing every trait in these chapters in detail. I’ll describe their general
-workings here, and talk about specific examples when they become relevant in the
-templates.&lt;/p&gt;
-
-&lt;h1 id=&quot;advantages&quot;&gt;Advantages&lt;/h1&gt;
-
-&lt;p&gt;Advantages have fairly straightforward basic mechanics. You pay character points
-equal to an advantage’s cost and you get the capabilities described in its
-text. Some advantages have levels, and those will list a cost per level and
-provide increasing benefits.&lt;/p&gt;
-
-&lt;p&gt;Generally speaking, most advantages give you bonuses in certain narrow
-situations (on tests against fear, for example), or give you capabilities you
-can’t get in other ways (like a photographic memory, a danger sense, or good
-luck). Many of them also give bonuses to Reaction Rolls, and take the place of
-the generic Charisma attribute from D&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;Dungeon Fantasy is by default pretty strict about niche protection in templates,
-much more so than core GURPS. When spending earned character points to improve
-your character, you can buy any advantage listed on their template directly,
-even if it’s not yet on your sheet. If you want to get something that’s not
-listed there, you and the GM need to make sure you won’t be stepping on anyone’s
-toes.&lt;/p&gt;
-
-&lt;p&gt;The list in this chapter is mainly for stuff that could be acquired by any
-character. The templates themselves also have mini-lists of exclusive
-advantages that cannot be acquired by delvers of other professions.&lt;/p&gt;
-
-&lt;h1 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h1&gt;
-
-&lt;p&gt;Disadvantages have &lt;em&gt;negative&lt;/em&gt; point costs, so they give you more points to spend
-elsewhere. For Dungeon Fantasy, the default disadvantage limit is -50. That’s
-the maximum amount of problems your PC can start with. Attributes lower than 10,
-and secondary characteristics lowered from their default calculated value both
-count against this limit.&lt;/p&gt;
-
-&lt;p&gt;Many disadvantages can be “bought off” in play with earned character
-points. They can also be acquired in play, usually due to the kind of misfortune
-that can befall dungeon delvers. In this case, the disadvantage merely reduces
-your point total instead of giving you more points to spend.&lt;/p&gt;
-
-&lt;p&gt;I like disadvantages because they’re great for defining a character’s
-personality. Some of them are even considered positive traits in real life, like
-Honesty and Selflessness, but are classed as disadvantages because they
-constrain the PC’s behavior.&lt;/p&gt;
-
-&lt;p&gt;Many disadvantages are personality traits that have an attached Self-Control
-Number, which you choose when you acquire the trait. They’re usually the kind of
-trait that compels you to behave in a certain way that can be detrimental to
-you, like being Curious, Greedy, or Gullible. When you want to resist their
-pull, you can make a success roll against that self control number.&lt;/p&gt;
-
-&lt;p&gt;The default is self-control number is 12. You can choose 15 instead and only get
-half the listed points for the disadvantage (since it’s less severe), or you can
-choose 9 or 6 to get more (and then you have to live with the
-consequences). Nothing else modifies this number. It doesn’t matter what your
-Will score is, or how many other mental defenses you have. And of course, you
-can always choose to succumb to your disadvantage without rolling, if you think
-it’d be fun or make for a good roleplaying scene.&lt;/p&gt;
-
-&lt;p&gt;The book offers a neat solution for those cases where it isn’t clear or
-desirable to engage in the behavior implied by the disadvantage: when it comes
-into play, it gives you a -1 penalty per -5 points of its cost for whatever it
-is you’re trying to do. So the player of your typical horny bard isn’t forced to
-make a sleazy pass at every attractive person they meet, but they might occasionally
-need to weather a -3 penalty to their actions because they got distracted by
-that attractiveness.&lt;/p&gt;
-
-&lt;p&gt;Finally, we have some disadvantages here that aren’t recommended for any
-starting character, but were included because they might be acquired in
-play. These are things like missing limbs, missing eyes, hearing impairment, and
-so on. There are ways to fix them with magic, but you will suffer their effects
-until that happens.&lt;/p&gt;
-
-&lt;h1 id=&quot;skills&quot;&gt;Skills&lt;/h1&gt;
-
-&lt;p&gt;Advantages and disadvantages get a lot of attention, but skills are just as
-important a part of the system’s core. Most actions you perform regularly in an
-adventure are covered by skills.&lt;/p&gt;
-
-&lt;p&gt;Skills have an associated level, which has no upper limit but is usually between
-8 and 13 for your typical civilian. A skill level of 8 or 9 represents a hobby
-or a sideline, and a level of 12 or 13 probably applies to the skills a person
-uses to earn a living. As we mentioned in the &lt;a href=&quot;/octopus-carnival/2026/07/02/wir-dungeon-fantasy-intro.html&quot;&gt;introduction to Adventurers&lt;/a&gt;,
-that +4 modifier for routine tasks ensures a professional with a skill level of
-12 will rarely fail to do their job.&lt;/p&gt;
-
-&lt;p&gt;Delvers (and some monsters!) tend to have lots of skills at high levels. Our
-templates are usually calibrated to have their main skills at around a level of
-16-20, several secondary ones at the 13-14 mark, and a few minor background
-skills at 9-10.&lt;/p&gt;
-
-&lt;p&gt;A skill of 16 means you almost never fail under pressure, though any extra
-penalties that might apply for difficult tasks will reduce your chances. After
-16 your basic chance of success stops increasing, since rolls of 17 or 18 are
-always failures - but you get better and better at absorbing those extra
-penalties.&lt;/p&gt;
-
-&lt;p&gt;Each skill has a controlling attribute, which is either DX or IQ for 95% of
-them, and might be HT, Perception, or Will for the remainder. The skill’s level
-is always relative to that controlling attribute. If an attribute goes up, so
-does every skill associated with it.&lt;/p&gt;
-
-&lt;p&gt;Skills also have a difficulty, which determines what their starting level is
-when you spend your first point in them. It can be one of Easy, Average, Hard,
-and Very Hard. The costs are always the same: 1 point for the starting level, 2
-for the next one, and 4 points for every level thereafter. The different
-“starting positions” for the various difficulties ensure that a harder skill
-ends up costing more for the same skill level.&lt;/p&gt;
-
-&lt;p&gt;Skills also have defaults, which are the numbers you roll against when you have
-no training in a skill. It’s always a much worse number than the one you’d get
-with even a point in the skill, and the harder the skill is, the worse its
-default. Really complicated skills might not have a default at all, and cannot
-be attempted without training.&lt;/p&gt;
-
-&lt;p&gt;Some skills might have additional pre-requisites. The most common of those are
-spells, which can only be learned and used by someone with the appropriate
-magical aptitude advantages.&lt;/p&gt;
-
-&lt;h2 id=&quot;active-defenses&quot;&gt;Active Defenses&lt;/h2&gt;
-
-&lt;p&gt;These get their own entry because they’re a little special. They’re a big part
-of a character’s ability to survive combat, and might be more important than
-HP. We’ll likely get into more detail about combat rules when we look at them in
-the Exploits book, but here’s a preview so you can understand how defenses work.&lt;/p&gt;
-
-&lt;p&gt;When someone attacks in combat, they make a success roll against the relevant
-weapon skill (plus modifiers). If they succeed, they threaten a hit, and the
-target must do something to avoid that. A target who is completely unaware of
-the attack or otherwise helpless has no choice but to get hit and take
-damage. Everyone else gets the chance to make an active defense roll.&lt;/p&gt;
-
-&lt;p&gt;There are three possible defenses: you can &lt;strong&gt;Parry&lt;/strong&gt; with your melee weapon or
-hands, you can &lt;strong&gt;Block&lt;/strong&gt; with a shield, or you can &lt;strong&gt;Dodge&lt;/strong&gt;. Parries are based
-on your skill with the parried weapon, and can handle most melee attacks. Blocks
-are based on the Shield skill and can stop ranged attacks as well, but obviously
-require a shield. These defenses have scores equal to (Skill/2) + 3. Dodging is
-good against everything and can be done multiple times in a turn without
-penalty, but it’s going to have a smaller score than the others because it’s
-equal to your Basic Speed + 3 and penalized by your encumbrance.&lt;/p&gt;
-
-&lt;p&gt;Succeeding at your defense roll means you completely avoid the attack! This is
-not a contest - simple success is enough to protect you. This means anyone with
-defenses of 11 or higher due to high skill or specialized advantages is very
-annoying to fight. There are also several strategies attackers can adopt to try
-to reduce or nullify an opponent’s defense score, but we’ll get to them when we
-get to them.&lt;/p&gt;
-
-&lt;h1 id=&quot;differences-from-gurps&quot;&gt;Differences from GURPS&lt;/h1&gt;
-
-&lt;p&gt;If you’re familiar with GURPS, then you’ll notice several differences in this
-more specialized version of it. It’s not trying to be fully generic, for
-starters: this means that every advantage, disadvantage, and skill that didn’t
-apply directly to the dungeon fantasy genre was removed.&lt;/p&gt;
-
-&lt;p&gt;For skills, that mostly means anything that was too “high-tech” or out of
-genre. Your typical fantasy delver will never drive a truck or do a
-scientifically-accurate spacewalk.&lt;/p&gt;
-
-&lt;p&gt;Advantages and disadvantages got the same treatment. Also gone are those traits
-you only see in monsters (like extra limbs and eyes) and all the social traits
-that could mess too much with the basic Dungeon/Town mechanic or otherwise
-interfere with your delving. You and your GM probably aren’t interested in all
-the mechanic and story complications that Rank and Status and Allies and Patrons
-and Enemies and Dependents can bring to a game.&lt;/p&gt;
-
-&lt;p&gt;You can still have those things in the story, but the specific structure
-enforced by those traits doesn’t bind you. If you find that you really need that
-structure in your games, or that you really want to run the full Iron Gods
-adventure path, then GURPS might be of help.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/11/dfrpg-adventurers-ads-disads-skills.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/11/dfrpg-adventurers-ads-disads-skills.html</guid>
-        
-        <category>gurps</category>
         
         <category>lets-read</category>
         
