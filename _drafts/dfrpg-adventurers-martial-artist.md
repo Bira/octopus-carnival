@@ -20,10 +20,11 @@ better at unarmed combat than the other delvers, but the important thing is that
 they learned how to cultivate their inner strength through special exercises and
 meditation, and they can use that to manifest supernatural powers.
 
-If this description sounds a bit orientalist, well, that's how you know this is
-a version of the D&D Monk. The description can be stripped away easily enough,
-though then you still have to put up with some legacy skill and power names that
-were imported straight from the GURPS core and show up in this template.
+The book calls their power source "Chi", and if this sounds a bit orientalist,
+well, that's how you know this is a version of the D&D Monk. The term can be
+stripped away easily enough, though then you still have to put up with some
+legacy skill and power names that were imported straight from the GURPS core and
+show up in this template.
 
 Mechanically, the draw of the Martial Artist are those special powers. If you
 just want to hit things really well and deal lots of damage, you might be better
@@ -70,26 +71,40 @@ dwarf who wore plate armor and fought using twin battleaxes as weapons.
 
 ## Skills
 
-You always know the "good" unarmed combat skills, named Judo (for grappling) and
-Karate (for striking). Everyone else has to make do with less "advanced"
-versions that are easier to learn, like Wrestling and Brawling. These names are
-the largest bit of legacy gunk we haven't yet managed to shed.
+Both core GURPS and the DFRPG have a set of "tiered" unarmed combat skills. You
+can always use your raw DX to strike or grapple someone if you don't know any of
+them. That's always your worst option. Then you have a series of skills that
+provide increasing benefits but are also increasingly harder to learn. The
+benefits are things like increased damage and more options during combat.
+
+For strinking, the progression is Brawling, Boxing and Karate. For grappling,
+it's Wrestling and Judo.
+
+I feel that both the tier system and the fact that the best skills are the ones
+with Japanese names is another bit of left-over 90s orientalist gunk we should
+get rid of. Sadly it did not happen here yet, and the Martial Artist leans into
+this.
+
+As a Martial Artist you get access to Judo and Karate, and always start out with
+a lot more points invested into them than the other professions put into their
+"remedial unarmed training" package that consists of Brawling and Wrestling as
+secondary or optional skills.
 
 The reason most other delvers avoid investing too much in unarmed combat is that
 it's pretty crappy compared to hitting people with weapons. Punches and kicks do
 less damage than most weapons. Failing to parry an enemy's weapon or having your
-strikes parried by it can give the enemy a free shot at your limbs. And even if
+strikes parried by one can give the enemy a free shot at your limbs. And even if
 you hit, you can end up hurting yourself if the target surface is too hard
-(like, say, enemy armor, or monster scales). Your own unarmed skills mitigate
-some of this, and your powers can mitigate the rest.
+(like, say, enemy armor, or monster scales). The martial artist's better skills
+mitigate some of that, and their powers can help mitigate the rest.
 
 The choice of combat skill package determines if you know these unarmed skills
 at 15 plus two weapons at 17, unarmed at 16 and one weapon at 17, or one unarmed
 skill at 17 and the other at 16. These are pretty good starting levels, but are
 still behind what other dedicated combatants get. The weapon list includes stuff
-we've seen already, but also some "signature" skills like Tonfa, Jitte/Sai, and
-Kusari. These three have especially "tricksy" uses that are possibly more
-valuable than their raw damage.
+we've seen already like Knife and Staff and a couple of sword skills, but also
+some "signature" skills like Tonfa, Jitte/Sai, and Kusari. These three have
+especially "tricksy" uses that are possibly more valuable than their raw damage.
 
 For ranged combat, you probably use thrown weapons. Your list of default
 non-combat skills is sparse, but very focused on mobility. Optional skills are
@@ -195,7 +210,8 @@ make a huge difference either in shoring up those deficiencies... or getting
 more powers and better combat skills. As a Martial Artist you're not hurting for
 money unless you choose a sword as your main weapon. The other options are
 pretty cheap, and leave them with enough change to buy some decent hand and foot
-armor for when they need to fight unarmed.
+armor for when they need to fight unarmed. Not only do those protect their
+extremities, they also give another +1 to punch and kick damage.
 
 Yes, that does mean that in a humorous campaign you might be able to spot a
 martial artist by their tattered robes and incredibly expensive heavy boots and
@@ -207,5 +223,5 @@ DFRPG Martial Artists are pretty similar to D&D monks in concept, with the main
 differences being in their specific capabilities. Monks have this weird grab-bag
 of powers that are mostly taken from those awful Destroyer novels from the 70s
 and 80s, while the Martial Artist selection here tends to be a bit more
-focused. And you can also get them in any order you want, this being a
+focused on fighting and mobility. And you can also get them in any order you want, this being a
 point-based game and all.

@@ -134,14 +134,15 @@ happen to take a non-fencing sword or if you get Armor Familiarity.
 
 Speaking of that, your possible choice of advantages is extremely broad. A lot
 of them are about fighting better, but you're already so good to start with you
-could instead branch into being the party's backup socialite. And even if you
-take lots of combat powers, you still get the choice between favoring defense or
-offense.
+could instead branch into being the party's backup socialite with Charisma and a
+positive Appearance. And once you get tired of improving your sword skills to
+new and more ridiculous heights, you have enough DX to become a good understudy
+to the Thief, or even "multiclass" into that archetype if your GM lets you.
 
 ## The "This Ain't D&D Section"
 
-The simple fact of the Swashbuckler being here is already a big difference!
-This class doesn't feature on any core book for any edition of D&D, though it's
+The simple fact of the Swashbuckler being here is already a big difference!  The
+archetype doesn't feature on any core book for any edition of D&D, though it's
 often present in supplements. Often the Rogue class ends up taking many aspects
 of it in core books, in more recent D&D editions.
 

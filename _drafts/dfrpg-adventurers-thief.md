@@ -11,15 +11,7 @@ Dungeon Fantasy thieves are much closer to the D&D Thief of editions past than
 to the more modern D&D Rogue. Their main job is not to fight monsters, but to
 help the party get past all the non-monster things that stand between them and
 the treasure. Locks, traps, deranged obstacle courses, you name it. Thus, they
-shine before and after fights, but not during them.
-
-You _can_ take them in a fightier direction if you want, including by getting
-something that sounds a lot like the classic Backstab ability, but if your main
-desire is to deftly weave through a fight while stabbing enemies in sensitive
-spots, you want a swashbuckler.
-
-That said, in games that allow "multiclassing" the Thief does have an easier
-time becoming a swashbuckler than almost everyone else.
+usually shine before and after fights rather than during them.
 
 ## Stats
 
@@ -76,18 +68,18 @@ skills.
 ## Special Thief Traits
 
 You get no enhanced advancement limits, but you do get a lot of exclusive
-mundane skills and a few special traits:
+mundane skills in your template and a few special traits:
 
 - **Catfall** (10 points): you suffer much less damage from falls.
 
 - **Expert Backstabbing** (2 points/level): Adds its level (which has no cap) to
-  your ST for _melee_ attacks that allow _no_ active defense because the victim
-  couldn't see you coming. That means you start your turn behind them, or are
-  invisible, or you're in a social situation where they didn't expect you to
-  attack. This is much closer to the restrictions placed on the AD&D thief's
-  backstabs than the conditions for getting combat advantage in modern D&D. You
-  need to put in the work to get one of these maybe once per fight, but the
-  extra damage will be worth it.
+  your ST for _melee_ attacks that allow _no_ active defense. That means they
+  can't see you coming: they're unconscious, or you start your turn behind them,
+  or you're invisible, or you're in a social situation where they didn't expect
+  you to attack. This is much closer to the restrictions placed on the AD&D
+  thief's backstabs than the conditions for getting combat advantage in modern
+  D&D. You need to put in the work to get one of these maybe once per fight, but
+  the extra damage will be worth it.
 
 - **Gizmos** (5 points/each): Each Gizmo lets you pull one small item out of
   thin air per session. This can be either something you have on your sheet but
@@ -125,13 +117,14 @@ range.
 
 ## The "This Ain't D&D" section
 
-There's little to say here that I haven't said above. The DFRPG Thief is
-equivalent to the old school Thief class in terms of intended function and
-combat ability. The difference here is that their starting success chance in
-those traditional thief duties is much higher.
+The DFRPG Thief is equivalent to the old school Thief class in terms of intended
+function and combat ability. The difference here is that their starting success
+chance in those traditional thief duties is much higher.
 
-You _can_ get better at fighting with knives, and you do get access to something
-that's a lot like the old AD&D Backstab ability in terms of relative benefit and
-difficulty to use. But if you want to be a sassy git with a rapier who is good
-at poking people in vulnerable places under a broad array of circumstances, you
-want to play a Swashbuckler.
+You _can_ take them in a fightier direction if you want, including by getting
+something that sounds a lot like the classic AD&D Backstab ability, but if your
+main desire is to deftly weave through a fight while stabbing enemies in
+sensitive spots more or less at will, you want a Swashbuckler.
+
+That said, in games that allow "multiclassing" the Thief does have an easier
+time becoming a Swashbuckler than almost everyone else.

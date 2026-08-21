@@ -11,14 +11,11 @@ The descriptive text on the book paints a picture of the wizard as someone who's
 very smug about being smart and about wielding magic that doesn't rely on fickle
 supernatural entities. So at least on the fiction front, it's business as usual.
 
-They do have plenty to be smug about, though this isn't _exactly_ the same set
-of things that makes D&D Wizards smug. There are many situations that can only
-be solved with a wizard's help, and their spell list includes everything that's
-not specifically part of the cleric's or druid's central niches. But don't
-expect them to instantly end fights in one turn with a snap of their
-fingers. The Knight and Barbarian will have already won the battle by the time
-that fireball is ready. The wise wizard keeps an open mind regarding their spell
-selection, and plans explosions in advance.
+They do have plenty to be smug about. Their spell list includes everything
+that's not specifically part of the cleric's or druid's central niches, and
+there are many situations that can only be solved with the help of a
+wizard. However, "an entire fight" usually isn't one of them, as we'll see
+below.
 
 Wizards become delvers more to find buried arcane secrets than to find money
 (though the later always helps). Because of this, they're often the delvers with
@@ -44,9 +41,9 @@ levels do.
 Energy Reserve acts as a "parallel" pool of Fatigue Points that can only be used
 to power spells and arcane powers. It costs the same as Fatigue, and the main
 advantage is that it recovers concurrently with Fatigue. The other casters all
-have it as part of their optional advantages, but it's factory-standard for
-wizards. It fits their theme to have vast reserves of magical power but to get
-winded easily from physical exertion...
+have their own variants of ER as part of their optional advantages, but it's
+factory-standard for wizards. It fits their theme to have vast reserves of
+magical power but to get winded easily from physical exertion...
 
 Discretionary advantages include mental stat boosts, more Magery or ER, stuff
 that makes you smarter than your IQ indicates (like Intuition and Language
@@ -139,23 +136,27 @@ either for an expensive and high-capacity Power Item, or for more spells.
 
 ## The "This Ain't D&D Section"
 
-The hardest thing for habitual D&D players to get used to here is the fact that
-you won't be able to win an entire battle by snapping their fingers.
+As said above, wizards have plenty to be smug about, but this isn't the same set
+of things that makes D&D wizards feel smug. The hardest thing for habitual D&D
+players to get used to here is the fact that they won't be able to win an entire
+battle by snapping their fingers.
 
 Yes, DFRPG wizards have access to plenty of strong damage-dealing spells. And
 yes, they also have access to plenty of control spells that can stop a monster
 on its tracks. But casting spells takes time and energy.
 
-To cast that explosive fireball, you need to spend one turn casting the spell
-and from 0 to 3 additional turns growing it to the desired size and aiming it
-before you can attack. If the party is readying for an ambush, that's a great
-opening move. If you start doing that during a fight, it's likely the Knight and
-the Barbarian will have killed all enemies by the time you're ready.
+To cast that classic explosive fireball, a wizard need to spend one turn casting
+the spell and from 0 to 3 additional turns growing it to the desired size and
+aiming it before they can attack. If the party is readying for an ambush, that's
+a great opening move. If you start doing that during a fight, it's likely the
+Knight and the Barbarian will have killed all enemies by the time you're ready.
+
+DFRPG wizards really shine in the "utility magic" department. That's where
+you'll find most spells that are both relatively cheap and quick to cast, and do
+stuff that no other profession can replicate. The wise wizard keeps an open mind
+regarding their spell selection, and plans explosions in advance.
 
 The upside here is that you don't have to worry about "spell slots" or any of
 that nonsense. You always have access to all the spells you know, and when your
-energy runs out you can recover it entirely by resting for a few minutes.
-
-DFRPG wizards really shine in the "utility magic" department. That's where
-you'll find most spells that both relatively cheap and quick to cast, and do
-stuff that no other profession can replicate.
+energy runs out you can recover it entirely by resting for a few minutes instead
+of forcing your party to stick to a fifteen-minute workday.
