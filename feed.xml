@@ -6,9 +6,133 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Aug 2026 14:55:56 +0000</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2026 14:55:56 +0000</lastBuildDate>
+    <pubDate>Sat, 05 Sep 2026 01:44:15 +0000</pubDate>
+    <lastBuildDate>Sat, 05 Sep 2026 01:44:15 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Adventurers: Scout</title>
+        <description>&lt;p&gt;Scouts are very skilled at sneaking and tracking, and are as good or better than
+Barbarians at surviving in the wild. But instead of getting stuck in melee like
+Barbarians, they love to reach out across the distance between people and touch
+their hearts (with arrows).&lt;/p&gt;
+
+&lt;p&gt;This is ultimately a very simple template, but it also does its job extremely
+well, and it’s likely to be your main point of engagement with the DFRPG’s
+ranged combat rules.&lt;/p&gt;
+
+&lt;h2 id=&quot;base-stats&quot;&gt;Base Stats&lt;/h2&gt;
+
+&lt;p&gt;Scouts start out with ST 11, DX 14, IQ 11, HT 12. Their Perception is increased
+all the way to 14, and their Basic Speed to 7.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;All Scouts have &lt;strong&gt;Heroic Archer&lt;/strong&gt; and two levels of &lt;strong&gt;Outdoorsman&lt;/strong&gt;. The former
+cements them as the profession most focused on ranged combat, as it makes their
+archery attacks much more accurate and lets them shoot more often. The second is
+the same Talent the Barbarian gets, and boosts outdoorsy survival skills.&lt;/p&gt;
+
+&lt;p&gt;They have a further 40 points to distribute among the usual stat boosts and
+combat-enhancing advantages, many of which are focused on ranged combat. Among
+then is Weapon Master (Bow), which further enhances their damage and rate of
+fire with bows.&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;The Scout’s disadvantages mostly involve traits that make them antisocial
+loners, though a subset here makes them devoted guardians of the wild
+instead. None are mandatory - build your own dysfunctional personality.&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;Scout melee skill packages give you an option to use a sword or a spear with or
+without a shield, or a staff. Very Robin-Hoody. Your ranged combat skill, which
+is the one you’re using most of the time, is Bow at a starting level of 18.&lt;/p&gt;
+
+&lt;p&gt;A lot of the mobility and perception skills that are optional for everyone else
+are part of the basic Scout package. Unarmed combat gets moved to the optional
+section, which also contains a bunch of niche exploration skills no one else
+gets, except perhaps for the Barbarian.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-scout-traits&quot;&gt;Special Scout Traits&lt;/h2&gt;
+
+&lt;p&gt;Scouts can raise their Perception to 25, and their Basic Move by up to 6 above
+its base value. They also get access to these special advantages listed
+below. Like the Knight’s special traits, these aren’t magic: the Scout is just
+that good.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Heroic Archer&lt;/strong&gt; (20 points): A normal archer can shoot one arrow every three
+seconds or so, if they don’t stop to aim. An Heroic one can shoot every turn
+if they make the skill rolls listed in this advantage’s description, and those
+rolls are much easier for Heroic Archers who are also Weapon Masters of the
+bow. They also get the benefits of aiming for a turn without having to do so,
+and can ignore penalties from crazy positions or acrobatics while shooting.&lt;/p&gt;
+
+    &lt;p&gt;This is so necessary for being a badass archer in GURPS that every Scout gets
+it automatically.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Multi-Aim&lt;/strong&gt; (6 points/level): Every level lets you aim at an extra target
+simultaneously, both for the purposes of gaining accuracy bonuses and for
+setting up “overwatch” with Wait maneuvers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Silence&lt;/strong&gt; (5 points/level): You can move and breathe noiselessly. Each level
+gives +1 to stealth while moving, and +2 while standing still.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Strongbow&lt;/strong&gt; (1 point): Every bow has a “rated ST” - you need to be at least
+that strong to use it, but you don’t get benefits from being any
+stronger. This perk raises your ST by up to 2 for the purposes of shooting
+bows, letting you use “stronger” weapons and deal more damage than your muscle
+mass would indicate. It does stack with other similar enhancements - for
+example, if you have ST 11 plus this perk and an elven bow, you shoot as if
+your ST was 15.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Telescopic Vision&lt;/strong&gt; (5 points/level): You can “zoom in” with your naked
+eyes! Each level increase magnification, helping observe distant targets and
+also shoot them.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
+
+&lt;p&gt;The book offers three sample skill and disadvantage sets here: a &lt;em&gt;bounty hunter&lt;/em&gt;
+loads up on antisocial disads, tracking skills, and even a bit more melee
+prowess because not every hunt ends with a bow shot. A &lt;em&gt;ranger&lt;/em&gt; has Combat
+Reflexes and focuses heavily on the ability to travel and protect the
+wilderness, with disadvantages reflecting this devotion. And the &lt;em&gt;sharpshooter&lt;/em&gt;
+is an assassin who min-maxes their shooting capabilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
+
+&lt;p&gt;People familiar with D&amp;amp;D rangers will notice that there is no “dual-wielding
+scout” build here - that’s very much a D&amp;amp;D-ism. The Scout is first and foremost
+an archer. This and the absence of magic in their templates makes them a close
+conceptual match to the Archer Ranger from D&amp;amp;D 4e.&lt;/p&gt;
+
+&lt;p&gt;If you want nature magic, you play a Druid. If you want to dual-wield in melee,
+you take one of the melee specialist archetypes and buy the Ambidexterity
+advantage. But if what you want is to turn enemies into pincushions anywhere
+from near-melee range out to the horizon, no one’s going to do it better than
+the Scout.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/09/04/dfrpg-adventurers-scout.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/04/dfrpg-adventurers-scout.html</guid>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Martial Artist</title>
@@ -1654,248 +1778,6 @@ Barbarian &lt;a href=&quot;/octopus-carnival/2017/09/25/pathfinder-dfrpg-barbari
         <category>dungeon-fantasy</category>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Dungeon Fantasy: Professions!</title>
-        <description>&lt;p&gt;“Core GURPS” has entirely free-form, point-based character creation, but we do
-things a little differently in Dungeon Fantasy. The first step to creating a
-character is picking a &lt;strong&gt;profession&lt;/strong&gt;, which is more or less the equivalent of a
-class in D&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;The chapter begins with a list of the available professions in this book:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Barbarians&lt;/strong&gt; are strong “heavy” warriors skilled at outdoor survival.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Bards&lt;/strong&gt; are the most “social” delvers, and complement their mundane social
-skills with mind-affecting songs and magic.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Clerics&lt;/strong&gt; can use divine magic to heal and bless, and can exorcise spirits
-and curses.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Druids&lt;/strong&gt; use nature magic to affect plants, animals, and the weather, and
-can also brew herbal concoctions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Holy Warriors&lt;/strong&gt; specialize in fighting Evil monsters with skill at arms and
-divine powers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Knights&lt;/strong&gt; are armored and exceptionally skilled “heavy” warriors trained in
-personal and group tactics.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Martial Artists&lt;/strong&gt; cultivate inner power to fight and perform impossible
-feats.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Scouts&lt;/strong&gt; are skilled survivalists and master archers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Swashbucklers&lt;/strong&gt; are daring skirmishers as fast as a Knight is strong.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Thieves&lt;/strong&gt; open locks, disarm traps, stab backs, and get into places they
-shouldn’t.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Wizards&lt;/strong&gt; are masters of weird lore, and have access to many many spells.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A lot of these are familiar to people coming from D&amp;amp;D, and the individual
-articles about each will explain the differences.&lt;/p&gt;
-
-&lt;h2 id=&quot;anatomy-of-a-professional-template&quot;&gt;Anatomy of a Professional Template&lt;/h2&gt;
-
-&lt;p&gt;In this section we’ll go over how templates are described, and mention some
-things that are true for all of them.&lt;/p&gt;
-
-&lt;p&gt;We always start with a general description of the profession, and then jump into
-the numbers.&lt;/p&gt;
-
-&lt;h3 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h3&gt;
-
-&lt;p&gt;The starting stat line for the template. I’ll mention the values of the
-attributes and if any secondary characteristics are modified from that baseline.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;None&lt;/em&gt; of the templates have stats below 10, the human average. Adventuring is a
-dangerous profession and adventurers need to be very good at what they do. While
-you should still let the wizard decipher magic formulae and the barbarian lift
-heavy things, the wizard is not weak and the barbarian is not stupid. For the
-same reason, Perception and Will cannot be lowered by more than 4 levels (and
-you shouldn’t lower it at all if your IQ is 10 to begin with, in my opinion).&lt;/p&gt;
-
-&lt;p&gt;Basic Speed is the stat that’s tweaked the most often, for min-maxing
-reasons. Professions that are meant to be particularly quick on the uptake have
-it at 7, others have it at 6, and if the natural calculation ends up at a
-fracional number it’s adjusted up or down to the appropriate level. Don’t lower
-it below 6, or you’ll have a hard time in combat.&lt;/p&gt;
-
-&lt;p&gt;Characters of all professions can raise their stats up to 20, using either
-discretionary points at character creation or points earned in play. Will and
-Perception also have a maximum of 20, if raised separately from IQ.&lt;/p&gt;
-
-&lt;p&gt;All professions can also raise HP and FP by an extra 1/3 above their base
-score. For example, a character with ST 15 could buy 5 extra HP for a total of
-20.&lt;/p&gt;
-
-&lt;p&gt;Each profession also has improved limits for the stats that make up their core
-competency, which we’ll see as we review each one.&lt;/p&gt;
-
-&lt;h3 id=&quot;advantages&quot;&gt;Advantages&lt;/h3&gt;
-
-&lt;p&gt;Every profession has a small set of advantages that are core to it and always
-present. They also have a set of discretionary advantages to choose from, with a
-budget limit detailed in the template.&lt;/p&gt;
-
-&lt;p&gt;These discretionary advantages always include a set choices that amount to
-improved basic or secondary stats, and the first two levels of Luck. You can
-activate your Luck when you roll a test and don’t like the result. You then
-reroll it three times and pick the best result among those. The more levels you
-have, the more often you can do this in a session. As you might imagine, it’s
-important to every adventurer who wants to survive a long time!&lt;/p&gt;
-
-&lt;p&gt;The other discretionary advantages are specific to your profession and can take
-you into one of several different directions within its definition. Kinda like
-D&amp;amp;D subclasses, but you end up assembling your starting class features.&lt;/p&gt;
-
-&lt;p&gt;An advantage type that turns up quite often is the Talent. A Talent is a leveled
-advantage that adds its level to a specific set of skills, and usually gives
-another small boost related to its theme. This also includes what I call “Power
-Talents”, which enhance spells and rolls you use for certain powers, in addition
-to letting you learn those in the first place.&lt;/p&gt;
-
-&lt;h3 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h3&gt;
-
-&lt;p&gt;The default scheme here is the same. Every profession has one or more
-stereotypical disadvantages that are always chosen, and then you pick more from
-a discretionary set until you hit the limit of -50 points. Reduced stats do
-count towards the limit, so if a professional template has those, it will have
-less miscellaneous problems.&lt;/p&gt;
-
-&lt;p&gt;Discretionary disadvantages can also lead your character to a different kind of
-stereotype. Is your cleric an intolerant inquisitor, or a compassionate martyr?
-However, they’re also fuzzier. If you don’t like the stereotypical choices
-presented here, you are free to choose from any other disadvantage in the book
-as long as their total value doesn’t go over the limit. Want to have a
-chivalrous thief? Go right ahead!&lt;/p&gt;
-
-&lt;h3 id=&quot;skills&quot;&gt;Skills&lt;/h3&gt;
-
-&lt;p&gt;This is divided into three subsections. The first one is for your character’s
-main weapon skills, and lets you chose between two or three “packages”
-representing the most iconic equipment for the profession.&lt;/p&gt;
-
-&lt;p&gt;Next you have a list of primary skills related to your character’s core
-competency. Barbarians and scouts are good at outdoor survival, for example,
-thieves are sneaky, and clerics have to know all about their religion and its
-enemies. New characters always have all the skills from this list.&lt;/p&gt;
-
-&lt;p&gt;And next you have a list of optional secondary skills. All templates have 7
-points to spend here, 1 per skill. These are usually the sort of thing every
-delver learns to do at least a bit, like stealth, first aid, communicating via
-gestures, tying good knots, and so on. They also include things related to the
-template’s profession, but which are a bit more niche.&lt;/p&gt;
-
-&lt;h3 id=&quot;spells&quot;&gt;Spells&lt;/h3&gt;
-
-&lt;p&gt;This last section is a bit fuzzier, as spells get a whole book all to
-themselves. Instead of having a definite list, this usually defines which spells
-you can learn, how many of them you start with, and what’s your starting skill
-level when you spent a single point on a spell. This closes out the template
-proper.&lt;/p&gt;
-
-&lt;h3 id=&quot;special-professional-traits&quot;&gt;Special Professional Traits&lt;/h3&gt;
-
-&lt;p&gt;This is where those increased stat limits are listed, and also where you find
-advantages and powers exclusive to that profession. These are also listed in the
-template under Advantages or Skills - here is where you find their detailed
-descriptions.&lt;/p&gt;
-
-&lt;p&gt;Stuff that’s available to everyone is described in other chapters.&lt;/p&gt;
-
-&lt;h3 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h3&gt;
-
-&lt;p&gt;This is where you get some tips as to what you pick depending on how you imagine
-your character. For spellcasters, this is also where you find example spell
-loadouts.&lt;/p&gt;
-
-&lt;p&gt;This is also more or less where you’d start picking your &lt;strong&gt;Quirks&lt;/strong&gt;. They’re not
-listed on the templates, but each character can choose up to five. These are
-little foibles and personality traits that don’t have any mechanical impact, but
-can help fleshing out your character’s personality. Each gives you an extra
-point to spend on stuff from your template, too!&lt;/p&gt;
-
-&lt;p&gt;Many characters might want to instead spend their quirk points on extra starting
-money - each point spent this way gives you extra money equal to half your
-starting amount (which varies depending on your Wealth). This helps you start
-out with decent armor and other bits of expensive but important gear.&lt;/p&gt;
-
-&lt;h2 id=&quot;text-box-team-building&quot;&gt;Text Box: Team-Building&lt;/h2&gt;
-
-&lt;p&gt;This is some useful advice for making a Dungeon Fantasy adventuring
-party. Players should consult both with each other and with the GM when picking
-their templates. The typical campaign throws diverse challenges at the players,
-and these demand a diverse party. A group needs enough fighty types to survive
-combat, with a mix of ranged and melee attacks. They also need enough
-specialized problem-solvers like thieves and spellcasters to handle any weirder
-challenges that might pop up.&lt;/p&gt;
-
-&lt;p&gt;That being said, the GM should advise the players about what types of challenge
-they can expect in the campaign, and which professions are more or less likely
-to be useful. A campaign that’s all about trekking through the wilderness will
-benefit more from barbarians, scouts and druids than from bards, thieves and
-knights. A campaign that takes place mostly in cities and underground ruins will
-be the reverse.&lt;/p&gt;
-
-&lt;h2 id=&quot;text-box-membership-hath-privileges&quot;&gt;Text Box: Membership Hath Privileges&lt;/h2&gt;
-
-&lt;p&gt;This box discusses why Dungeon Fantasy uses templates. It guarantees that each
-character has something unique to offer, makes essential adventuring
-capabilities harder to overlook, and lets each player focus on one “niche” and
-get good enough at it to tackle the game’s challenges.&lt;/p&gt;
-
-&lt;p&gt;That’s also why every template has some built-in niche protection. For example,
-only clerics can cast healing spells, and while everyone can fight in melee the
-Knight is the best at it.&lt;/p&gt;
-
-&lt;p&gt;That said, every trait does have a point cost, and the GM can allow any PC to
-buy it if it suits the campaign. While that might make the niches a bit fuzzier,
-it can also be a good way to cover for a “missing” template. At the most extreme
-end, you could just hand a point budget to your players and let them make
-whatever they want. In that case, the only thing you need to keep in mind are
-the pre-requisite traits for the various spell types.&lt;/p&gt;
-
-&lt;p&gt;Any character can raise their basic stats to a maximum of 20 with earned points,
-and buy extra HP or Fatigue up to 1/3 of their ST or HT stat respectively. Each
-template has better limits for certain traits, and we’ll look at those in the
-template descriptions.&lt;/p&gt;
-
-&lt;p&gt;I’ll add that the templates make character creation &lt;em&gt;much&lt;/em&gt; faster than the
-free-form method, so even if you’re not using them as written it might be a good
-idea to start from a template and then change it to suit your tastes.&lt;/p&gt;
-
-&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next&lt;/h2&gt;
-
-&lt;p&gt;A look at our first professional template: The Barbarian.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/19/dfrpg-adventurers-professions-intro.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/19/dfrpg-adventurers-professions-intro.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>lets-read</category>
         
         
       </item>
