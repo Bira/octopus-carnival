@@ -7,11 +7,10 @@ tags:
     - lets-read
 ---
 
-The Scout resembles the D&D Ranger, but not just any ranger. The closest point
-of comparison is the D&D 4th Edition Archer Ranger. This profession has nothing
-to do with magic, but is very skilled at sneaking, tracking, and surviving in
-the wild. And they love to reach out across the distance between people and
-touch their hearts (with arrows).
+Scouts are very skilled at sneaking and tracking, and are as good or better than
+Barbarians at surviving in the wild. But instead of getting stuck in melee like
+Barbarians, they love to reach out across the distance between people and touch
+their hearts (with arrows).
 
 This is ultimately a very simple template, but it also does its job extremely
 well, and it's likely to be your main point of engagement with the DFRPG's
@@ -100,8 +99,9 @@ is an assassin who min-maxes their shooting capabilities.
 ## The "This Ain't D&D" section
 
 People familiar with D&D rangers will notice that there is no "dual-wielding
-scout" build here - that's very much a D&D-ism you can blame squarely on
-Drizz't. The Scout is first and foremost an archer.
+scout" build here - that's very much a D&D-ism. The Scout is first and foremost
+an archer. This and the absence of magic in their templates makes them a close
+conceptual match to the Archer Ranger from D&D 4e.
 
 If you want nature magic, you play a Druid. If you want to dual-wield in melee,
 you take one of the melee specialist archetypes and buy the Ambidexterity

@@ -60,7 +60,7 @@ Every time the PCs complete a significant quest, they get 5 character points. If
 we have a capital-P part in a Hell's Rebels book that has one single linear
 goal, that's a significant quest. If we have something that's labeled as a
 Mission, usually in the middle part of a book, that's also a significant
-quest. So, for example, the Aria Park Riot was one such quest, then we had thew
+quest. So, for example, the Aria Park Riot was one such quest, then we had the
 various missions I played, and then the capstone delve was another quest.
 
 Additionally, every time the book specifically calls out a story-based XP award
@@ -225,8 +225,8 @@ but we didn't need it because Urist already knew the trick.
 
 ## Room F4: Artifact Recovery
 
-Dust of Emulation interacts with Used Magic Device and we don't use that here,
-so let's replace it with a dose of Paut.
+Dust of Emulation interacts with Use Magic Device and we don't use that here, so
+let's replace it with a dose of Paut.
 
 The PCs do find the secret panel, so they take everything in the list below.
 
@@ -287,8 +287,6 @@ home-grown tallying scripts:
 Nox actually used a different suit of armor during the fight with DR 6/4 all
 over, as the stats I had for her were an earlier version. But let's use the
 published one as loot.
-
-
 
 
 # The Silver Ravens (End of Adventure)

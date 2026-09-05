@@ -39,6 +39,8 @@ number of people have heard about it.
   - [Martial Artists][12] are the victims of some annoying legacy naming
     conventions but they're here to fill all of your monk and/or cultivator
     needs.
+  - [Scouts][13] love to reach out and touch people's hearts. From a
+    distance. With arrows.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -51,4 +53,5 @@ number of people have heard about it.
 [9]: {{ "/2026/08/03/dfrpg-adventurers-druid.html" | relative_url }}
 [10]: {{ "/2026/08/07/dfrpg-adventurers-holy-warrior.html" | relative_url }}
 [11]: {{ "/2026/08/13/dfrpg-adventurers-knight.html" | relative_url }}
-[12]: {{ "2026/08/21/dfrpg-adventurers-martial-artist.html" | relative_url }}
+[12]: {{ "/2026/08/21/dfrpg-adventurers-martial-artist.html" | relative_url }}
+[13]: {{ "/2026/09/04/dfrpg-adventurers-scout.html" | relative_url }}
