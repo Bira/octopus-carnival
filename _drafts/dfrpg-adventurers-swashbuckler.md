@@ -67,9 +67,8 @@ dagger, cloak, or shield by spreading your points a little thinner. The sword
 will usually be a fencing weapon, but it doesn't have to be.
 
 You could also take the "one sword" package and the Ambidexterity advantage to
-wield two of them if your swashbuckler is more Miyamoto Musashi than
-D'Artagnan. In any case you also get the Fast-Draw skills for the weapons you
-chose.
+wield two of them if your swashbuckler is more Miyamoto Musashi than Zorro. In
+any case you also get the Fast-Draw skills for the weapons you chose.
 
 Your fixed skill list includes basic unarmed combat, throwing, and some social
 and mobility skills. The list of optional skills has the usual "delver lore"
@@ -92,7 +91,8 @@ all of which are on their discretionary list.
   reroll critical failures, taking the second result instead. This is a mixed
   blessing, because it also incentivizes you to take those stupid risks for the
   bonus. The example in the book is calling out a challenge to the sleeping
-  dragon instead of sneaking around it. Can't parry a fire breath!
+  dragon instead of sneaking around it. Not the best idea in the world but hey,
+  you'll get a +1 to all rolls in that fight!
 
 - **Enhanced Time Sense** (45 points): You're so fast you can see the world in
   bullet time. You always go before everyone else in combat, and you're too fast
@@ -149,10 +149,9 @@ of it in core books, in more recent D&D editions.
 Stylistically, the two games are very similar here, since they draw from many of
 the same sources. DFRPG's more granular melee combat rules again come in handy,
 as you can differentiate a Knight and a Swashbuckler very easily without having
-to introduce new abstract concepts like Pathfinder's "Panache"
-rules.
+to introduce new abstract concepts like Pathfinder's "Panache" rules.
 
-Swashbucklers are incentivized to use their very high skill to seek out and
-exploit enemy weak points, so _this_ is the profession you take if you want to
-be a sassy git with a rapier and replicate the effects of "new-school" Sneak
-Attack.
+Swashbucklers are incentivized to use their very high skill and relatively low
+strength to seek out and exploit enemy weak points, so _this_ is the profession
+you take if you want to be a sassy git with a rapier and replicate the effects
+of "new-school" Sneak Attack.
