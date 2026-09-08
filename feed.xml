@@ -6,9 +6,183 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 05 Sep 2026 01:44:15 +0000</pubDate>
-    <lastBuildDate>Sat, 05 Sep 2026 01:44:15 +0000</lastBuildDate>
+    <pubDate>Tue, 08 Sep 2026 16:18:01 +0000</pubDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:18:01 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Adventurers: Swashbuckler</title>
+        <description>&lt;p&gt;While everyone else was… doing whatever it is they do, the Swashbuckler
+studied the blade. This is the template for people who like precision, speed and
+elegance in their fighting style, but unlike the Martial Artist prefer to bring
+an actual sword to a swordfight.&lt;/p&gt;
+
+&lt;p&gt;The two templates share some of the same ethics, you could say. They emphasize
+the role of skill attained through countless hours of practice, and how that
+lets you transcend mortal limits. The Swashbuckler is less mystical about it,
+though, and its abilities are not tied to a specific power source or a set of
+rituals. After all, some of the most iconic swashbucklers of fiction live a life
+filled with booze and partying without losing any of their edge.&lt;/p&gt;
+
+&lt;h2 id=&quot;base-stats&quot;&gt;Base Stats&lt;/h2&gt;
+
+&lt;p&gt;Swashbucklers start out with ST 11, DX 15, IQ 10, HT 13. They don’t modify any
+secondary stats, but their natural speed is already at 7.&lt;/p&gt;
+
+&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
+
+&lt;p&gt;We get quite a bit to start with! &lt;strong&gt;Combat Reflexes&lt;/strong&gt;, one level of &lt;strong&gt;Enhanced
+Parry&lt;/strong&gt; with a specific weapon skill, &lt;strong&gt;Luck&lt;/strong&gt;, &lt;strong&gt;Weapon Bond&lt;/strong&gt;, and &lt;strong&gt;Weapon
+Master&lt;/strong&gt; (One Weapon).&lt;/p&gt;
+
+&lt;p&gt;We already saw a lot of those, and it’s notable that the swashbuckler starts out
+with Combat Reflexes, Luck, and Weapon Master. Enhanced Parry and Weapon Bond
+are easy picks for someone who intends to focus on one specific weapon from the
+start, boosting defense rolls and general skill level for a relatively cheap
+price.&lt;/p&gt;
+
+&lt;p&gt;The table of discretionary advantages lets you choose 60 points worth and has
+the usual stat boosts, some social advantages and a lot of combat advantages
+oriented towards being really fast. They also let you expand Weapon Master to
+“Two Weapons”, “All Fencing Weapons”, or “All Swords”, though you mostly don’t
+need this unless the GM is really merciless about taking PC weapons away.&lt;/p&gt;
+
+&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
+
+&lt;p&gt;The Swashbuckler shares a lot of disadvantage choices with the Bard, as the two
+often take inspiration from the same sources. Both could fit easily in the
+setting of the Three Musketeers or Cyrano de Bergerac.&lt;/p&gt;
+
+&lt;p&gt;The main difference here is a set of choices that indicate your Swashbuckler’s
+motivation for becoming so good with a sword. Do they follow the Gentleman’s
+Code of Honor and thus are always ready to avenge an insult? Do they have an
+obsession with becoming the world’s best swordfighter?&lt;/p&gt;
+
+&lt;p&gt;Have they taken a personal vow related to how they fight? That last one can be
+anything from the relatively harmless “I will only use my weapon of choice” to
+the more serious “I will never refuse a challenge to combat” or the nearly
+suicidal “I will never wear armor”. If you take that last one, be sure to boost
+your Parry and Dodge!&lt;/p&gt;
+
+&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
+
+&lt;p&gt;The offered melee skill packages are all the classic fencer loadouts. You either
+wield a single one-handed sword, or you can complement it with an off-hand
+dagger, cloak, or shield by spreading your points a little thinner. The sword
+will usually be a fencing weapon, but it doesn’t have to be.&lt;/p&gt;
+
+&lt;p&gt;You could also take the “one sword” package and the Ambidexterity advantage to
+wield two of them if your swashbuckler is more Miyamoto Musashi than Zorro. In
+any case you also get the Fast-Draw skills for the weapons you chose.&lt;/p&gt;
+
+&lt;p&gt;Your fixed skill list includes basic unarmed combat, throwing, and some social
+and mobility skills. The list of optional skills has the usual “delver lore”
+ones and lets you go deeper into mobility or socialization. Or perhaps you could
+take a more unusual backup weapon like a whip or lasso.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-swashbuckler-traits&quot;&gt;Special Swashbuckler Traits&lt;/h2&gt;
+
+&lt;p&gt;Swashbucklers can improve Basic Speed by four levels over its base value,
+instead of just two. They also get access to a bunch of exclusive advantages,
+all of which are on their discretionary list.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Armor Familiarity&lt;/strong&gt; (1 point/level): Fencing skills depend on mobility, and
+take penalties to attack and parry equal to your encumbrance level. Each level
+of this advantage lets you ignore one level of that penalty, which means you
+can wear heavier armor.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Daredevil&lt;/strong&gt; (15 points): When you take a &lt;em&gt;real&lt;/em&gt; and &lt;em&gt;unecessary&lt;/em&gt; risk while
+attempting something, you get a +1 to all related success rolls, and may
+reroll critical failures, taking the second result instead. This is a mixed
+blessing, because it also incentivizes you to take those stupid risks for the
+bonus. The example in the book is calling out a challenge to the sleeping
+dragon instead of sneaking around it. Not the best idea in the world but hey,
+you’ll get a +1 to all rolls in that fight!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Enhanced Time Sense&lt;/strong&gt; (45 points): You’re so fast you can see the world in
+bullet time. You always go before everyone else in combat, and you’re too fast
+to trigger delayed actions from people who don’t have this trait. If someone
+else in the fight has this trait, you figure out initiative order amongst
+yourselves, but you both still act before everyone who doesn’t have the trait.&lt;/p&gt;
+
+    &lt;p&gt;This is an upgrade to Combat Reflexes, and includes its benefits. You pay only
+the 30-point difference to get it if you already have Combat Reflexes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Every One’s a Critical&lt;/strong&gt; (15 points): You have an expanded critical range
+for your attack rolls, and if you don’t like the result rolled on the critical
+hits table you can reroll it and take the second result.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Great Void&lt;/strong&gt; (10 points): When you retreat in combat, you can step an extra
+yard away from your foe. The defense bonus for retreating remains the same,
+but you can cover more ground.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Rapier Wit&lt;/strong&gt; (5 points): This works exactly like the Bard’s Song of
+Humiliation, but it’s not magic and you don’t need to sing. You can use the
+highest of Intimidation or IQ for it, instead of Singing.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Springing Attack&lt;/strong&gt; (10 points): If you can Concentrate for a turn to brace
+yourself, your next attack will do more damage, and you can spend 1 FP to take
+an extra step during the attack, either advancing 2 yards or stepping forward
+and then retreating.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
+
+&lt;p&gt;Swashbucklers are all about being very good with one weapon or a pair of related
+weapons. Therefore, weapon choice is probably one of your most important
+decisions when making one. It’s sure to be a sword, and for a lot of characters
+it’s going to be a fencing weapon. Those are super expensive, so you want to use
+your quirk points to get the best sword you can.&lt;/p&gt;
+
+&lt;p&gt;Armor is usually a secondary consideration, as you don’t want to get too much
+and suffer encumbrance penalties when fighting. That concern goes away if you
+happen to take a non-fencing sword or if you get Armor Familiarity.&lt;/p&gt;
+
+&lt;p&gt;Speaking of that, your possible choice of advantages is extremely broad. A lot
+of them are about fighting better, but you’re already so good to start with you
+could instead branch into being the party’s backup socialite with Charisma and a
+positive Appearance. And once you get tired of improving your sword skills to
+new and more ridiculous heights, you have enough DX to become a good understudy
+to the Thief, or even “multiclass” into that archetype if your GM lets you.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D Section”&lt;/h2&gt;
+
+&lt;p&gt;The simple fact of the Swashbuckler being here is already a big difference!  The
+archetype doesn’t feature on any core book for any edition of D&amp;amp;D, though it’s
+often present in supplements. Often the Rogue class ends up taking many aspects
+of it in core books, in more recent D&amp;amp;D editions.&lt;/p&gt;
+
+&lt;p&gt;Stylistically, the two games are very similar here, since they draw from many of
+the same sources. DFRPG’s more granular melee combat rules again come in handy,
+as you can differentiate a Knight and a Swashbuckler very easily without having
+to introduce new abstract concepts like Pathfinder’s “Panache” rules.&lt;/p&gt;
+
+&lt;p&gt;Swashbucklers are incentivized to use their very high skill and relatively low
+strength to seek out and exploit enemy weak points, so &lt;em&gt;this&lt;/em&gt; is the profession
+you take if you want to be a sassy git with a rapier and replicate the effects
+of “new-school” Sneak Attack.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/09/08/dfrpg-adventurers-swashbuckler.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/08/dfrpg-adventurers-swashbuckler.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Scout</title>
@@ -1595,189 +1769,6 @@ for the forces of evil.&lt;/p&gt;
         <category>hells-rebels</category>
         
         <category>lets-play</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Dungeon Fantasy Adventurers: The Barbarian</title>
-        <description>&lt;p&gt;The Barbarian is our first template because they’re listed in alphabetical
-order. Like the D&amp;amp;D Barbarian, this one is a beefy raider from some far-off
-region whose culture the campaign’s dominant society finds a bit strange. Unlike
-that other barbarian, however the Dungeon Fantasy Barbarian is &lt;em&gt;not&lt;/em&gt; necessarily
-“the angry one”.&lt;/p&gt;
-
-&lt;p&gt;Barbarians are big beefy fighters with big personalities, and have wilderness
-survival skills compatible with their home region. These skills make them very
-valuable party members in wilderness-focused adventures and campaigns, and their
-combat skills are useful everywhere.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
-
-&lt;p&gt;Barbarians start with ST 17, DX 13, IQ 10, and HT 13. They also start with HP
-increased to 22, Perception increased to 12, and Basic Speed decreased to 6.00.&lt;/p&gt;
-
-&lt;p&gt;Their starting strength and HP makes them by far the strongest and toughest
-delvers in our lineup. Due to a rule we’ll see in the Campaigns book, that 22 HP
-also means any healing applied to the barbarian counts double. They’re not just
-hard to kill, they’re also easy to heal.&lt;/p&gt;
-
-&lt;p&gt;High HP should never be your only defense, and the Barbarian does have
-others. However, there are things out there that can bypass everything else, so
-it’s still nice to have.&lt;/p&gt;
-
-&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
-
-&lt;p&gt;All barbarians have High Pain Threshold {10} and Outdoorsman 2 {20}. The first
-helps a lot with reducing pain-based penalties, particularly when you take
-damage. The other is a Talent, an advantage that directly increases the level of
-a set of skills; in this case, outdoorsy survival ones.&lt;/p&gt;
-
-&lt;p&gt;They can also spend 40 points on buying more advantages from a list displayed
-here. I won’t go over them one by one, but they fall into a few
-categories beyond the standard “increased stats plus Luck”:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stuff that makes you tougher, both against HP damage and against the sort of
-Bad Stuff that demands resistance rolls.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stuff that lets you fight better, an ironically small category for
-barbarians. Most of their combat effectiveness comes from their raw strength
-and high weapon skill, not from special powers.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Stuff that makes them even better at outdoor survival. Of note is further
-increasing Outdoorsman up to the maximum level of 6, letting them improve
-survival skills as if they had IQ 16, Per 18, or DX 19. Improving this talent
-is always a better deal in terms of points than improving the individual
-skills.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;All barbarians have Social Stigma (Minority Group) {-10}. This gives them a
-penalty to reactions from others in social situations and is due to the
-differences between the barbarian’s culture and the one where the campaign takes
-place. If the campaign is in the Barbarian’s homeland, of course, you can remove
-this and replace it with -10 points in other disadvantages from the template’s
-customization tables.&lt;/p&gt;
-
-&lt;p&gt;There are two here: a small one with further traits for more accentuated
-cultural differences (such as Gullible, a fear of machinery, or reduced starting
-wealth). And a large one of stereotypical barbarian personality traits, for
-those who want to have gigantic melancholies and gigantic mirth.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;Barbarians start with either skill 18 in a two-handed weapon, or skill 16 in a
-one-handed weapon and in shields. This is pretty high by core GURPS standards,
-and it’s what you need if you want to attack every turn with little in the way
-of setup. It also gives you a pretty decent Parry defense in melee.&lt;/p&gt;
-
-&lt;p&gt;They also get one ranged weapon skill, which could be the ability to throw their
-melee weapon depending on that choice. Like every delver, they also get some
-emergency unarmed combat skills.&lt;/p&gt;
-
-&lt;p&gt;After that you have a selection of outdoor survival skills, many of which are
-covered by the Outdoorsman talent.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-barbarian-traits&quot;&gt;Special Barbarian Traits&lt;/h2&gt;
-
-&lt;p&gt;Barbarians can buy strength up to 25 and HP up until 1/2 of their ST (not just
-1/3). Other Barbarian-only traits include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Discriminatory Smell&lt;/strong&gt; lets you have Wolverine’s nose. You can memorize
-scents and recognize them later, get a big bonus to both smell-based
-Perception rolls and the Tracking skill.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Lifting ST&lt;/strong&gt;: You can lift even more than your already impressive strength
-indicates. Add this to ST to determine your Basic Lift and general feats of
-strength, but not your damage or HP.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Temperature Tolerance&lt;/strong&gt;: In Cold and Heat versions, this gives a bonus to
-resist temperature related effects. This is how Conan can walk shirtless in
-the snow. You can have up to three levels of both.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tough Skin&lt;/strong&gt;: Adds to your damage resistance as if it was armor! It’s still
-flesh, though, so it doesn’t protect the eyes and doesn’t work against attacks
-that just require skin contact or a small scratch to take effect. Barbarians
-can have up to 3 levels. It &lt;em&gt;does&lt;/em&gt; stack with worn armor.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
-
-&lt;p&gt;The book has some example archetypes here to guide players who don’t quite know
-which traits to pick from the template.&lt;/p&gt;
-
-&lt;p&gt;The &lt;em&gt;angry one&lt;/em&gt; might pair Berserk and Bloodlust with the traits that make them
-tougher. Note that Berserk is a major disadvantage, not a superpower. A
-&lt;em&gt;survivalist&lt;/em&gt; has more Perception and Outdoorsman, traits like Discriminatory
-Smell, and disadvantages like reduced Wealth and illiteracy. A &lt;em&gt;wilderness
-guardian&lt;/em&gt; might be Fearless and an Animal Friend, but also Overconfident and
-burdened with a Sense of Duty to Nature.&lt;/p&gt;
-
-&lt;p&gt;Weapon and survival skills should match the feel of barbarian’s origin
-culture. A viking could have Spear and Shield, plus Survival (Arctic),
-Seamanship, and Skiing, for example.&lt;/p&gt;
-
-&lt;p&gt;ST 17 or more means any weapon is effective in the hands of a barbarian, so they
-can save some money by taking something big and relatively cheap like a spear,
-axe or mace. Swords are expensive!&lt;/p&gt;
-
-&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This ain’t D&amp;amp;D” section&lt;/h2&gt;
-
-&lt;p&gt;How does the Dungeon Fantasy Barbarian differ from the one you probably know
-from D&amp;amp;D? The main thing, as mentioned a couple of times above, is the lack of
-“rage as a power”. As a Barbarian, you don’t need to get angry to get strong -
-you’re strong all the time.&lt;/p&gt;
-
-&lt;p&gt;The same applies to many of the traits recent editions of D&amp;amp;D tend to associate
-with a state of “rage”, like enhanced scent or extra toughness and so on. If you
-buy those advantages, you always have them.&lt;/p&gt;
-
-&lt;p&gt;The closest thing to “rage” you’ll find in the core book is the Berserk
-disadvantage, which is something I personally &lt;em&gt;wouldn’t&lt;/em&gt; take for any
-character. When it activates in combat, it closes off most options and forces
-you to fight in a way that’s pretty much suicidal, as you &lt;em&gt;can’t use active
-defenses&lt;/em&gt;. And when there aren’t any more enemies to fight you’ll run the risk
-of attacking your allies.&lt;/p&gt;
-
-&lt;p&gt;On the other hand you also have a lot of real skill in traversing and surviving
-the wilderness, more so than a typical D&amp;amp;D barbarian who usually runs out of
-points after they buy Athletics and Intimidation. And there’s no such thing as
-armor proficiencies in DFRPG: you can wear anything you can afford to buy and
-manage to carry, and you have a lot more room in your encumbrance limits to wear
-heavy armor than most other delvers.&lt;/p&gt;
-
-&lt;h2 id=&quot;example-barbarian&quot;&gt;Example Barbarian&lt;/h2&gt;
-
-&lt;p&gt;Way back in 2017 when the DFRPG had just come out, I wrote up most of the
-Pathfinder iconics as DFRPG starting characters. You can look at Amiri the
-Barbarian &lt;a href=&quot;/octopus-carnival/2017/09/25/pathfinder-dfrpg-barbarian.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next&lt;/h2&gt;
-
-&lt;p&gt;Bards!&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/23/dfrpg-adventurers-barbarian.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/23/dfrpg-adventurers-barbarian.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
         
         
       </item>
