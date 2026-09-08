@@ -41,6 +41,9 @@ number of people have heard about it.
     needs.
   - [Scouts][13] love to reach out and touch people's hearts. From a
     distance. With arrows.
+  - [Swashbucklers][14] share the same devotion to excellence as Martial
+    Artists, but replace the mysticism with a penchant for parties and actually
+    remember to bring a sword to a swordfight.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -55,3 +58,4 @@ number of people have heard about it.
 [11]: {{ "/2026/08/13/dfrpg-adventurers-knight.html" | relative_url }}
 [12]: {{ "/2026/08/21/dfrpg-adventurers-martial-artist.html" | relative_url }}
 [13]: {{ "/2026/09/04/dfrpg-adventurers-scout.html" | relative_url }}
+[14]: {{ "/2026/09/08/dfrpg-adventurers-swashbuckler.html" | relative_url }}
