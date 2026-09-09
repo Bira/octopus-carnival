@@ -7,11 +7,10 @@ tags:
     - gurps
 ---
 
-Dungeon Fantasy thieves are much closer to the D&D Thief of editions past than
-to the more modern D&D Rogue. Their main job is not to fight monsters, but to
-help the party get past all the non-monster things that stand between them and
-the treasure. Locks, traps, deranged obstacle courses, you name it. Thus, they
-usually shine before and after fights rather than during them.
+Contrary to popular belief, Dungeon Fantasy isn't all about fighting monsters:
+there's also exploring the dungeon, looting the dungeon, and selling the loot
+back in town (sorry, couldn't resist). The Bard takes care of the last of these
+very important activities, but for the others you want a Thief.
 
 ## Stats
 
@@ -36,6 +35,10 @@ that can start out with above-average Wealth, which gives them extra starting
 money and helps with selling loot in town. And they can pick Weapon Master
 (Knives) if they want to go in a fightier direction.
 
+Yes, "all knives" count as a single weapon here because their base stats are
+worse. If you take this, you probably want to wield them with the Main-Gauche
+skill instead of Knife.
+
 ## Disadvantages
 
 The thief's mandatory disadvantage is one of **Greed**, **Kleptomania** or
@@ -48,11 +51,11 @@ jobs.
 
 ## Skills
 
-A thief's melee weapon skill choices are the same as the swashbuckler's, though
-their skill level will be "only" 15 or 14 and they lack most melee support
-abilities. The most recommended option here seems to be "weapon and shield",
-instead of the swashbuckler's single blade. You're not a god of parrying, so
-having a shield or cloak in your off hand is a big help.
+A thief's melee weapon skill choices are the same as the swashbuckler's plus
+Knife, though their skill level will be "only" 15 or 14 and they lack most melee
+support abilities. The most recommended option here seems to be "weapon and
+shield", instead of the swashbuckler's single blade. You're not a god of
+parrying, so having a shield or cloak in your off hand is a big help.
 
 You do get a _lot_ of mundane non-combat skills. All that sneaking and
 exploration stuff that's secondary and optional for everyone else is part of
@@ -76,10 +79,8 @@ mundane skills in your template and a few special traits:
   your ST for _melee_ attacks that allow _no_ active defense. That means they
   can't see you coming: they're unconscious, or you start your turn behind them,
   or you're invisible, or you're in a social situation where they didn't expect
-  you to attack. This is much closer to the restrictions placed on the AD&D
-  thief's backstabs than the conditions for getting combat advantage in modern
-  D&D. You need to put in the work to get one of these maybe once per fight, but
-  the extra damage will be worth it.
+  you to attack. You need to put in the work to get into one of these situations
+  maybe once per fight, but the extra damage will be worth it.
 
 - **Gizmos** (5 points/each): Each Gizmo lets you pull one small item out of
   thin air per session. This can be either something you have on your sheet but
@@ -113,7 +114,7 @@ better at their job.
 
 Your thief's quirk points should be spent on more skills! There's some sweet
 high-tier thief gear out there but it's outside a starting character's price
-range.
+range. But it with your ill-gotten gains after you start adventuring.
 
 ## The "This Ain't D&D" section
 
@@ -121,10 +122,11 @@ The DFRPG Thief is equivalent to the old school Thief class in terms of intended
 function and combat ability. The difference here is that their starting success
 chance in those traditional thief duties is much higher.
 
-You _can_ take them in a fightier direction if you want, including by getting
-something that sounds a lot like the classic AD&D Backstab ability, but if your
-main desire is to deftly weave through a fight while stabbing enemies in
-sensitive spots more or less at will, you want a Swashbuckler.
+You _can_ take them in a fightier direction if you want, with access to Weapon
+Master (Knives) and to something that works a lot like the classic AD&D Backstab
+ability. But if your main desire is to have a cool sword and deftly weave
+through a fight while stabbing enemies in sensitive spots more or less at will,
+you want a Swashbuckler.
 
 That said, in games that allow "multiclassing" the Thief does have an easier
 time becoming a Swashbuckler than almost everyone else.

@@ -125,6 +125,8 @@ scenes.
   - [Part 3][33]: Big fight in Nox's antechamber.
   - [Part 4][34]: Boss fight! Boss fight!
 
+- [Scene 15][35]: Looting the dungeon!
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -159,3 +161,4 @@ scenes.
 [32]: {{ "/2026/06/26/lphr-scene-14-2.html" | relative_url }}
 [33]: {{ "/2026/07/26/lphr-scene-14-3.html" | relative_url }}
 [34]: {{ "/2026/08/09/lphr-scene-14-4.html" | relative_url }}
+[35]: {{ "/2026/09/09/lphr-scene-15.html" | relative_url }}
