@@ -5,9 +5,774 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 Sep 2026 16:18:01 +0000</pubDate>
-    <lastBuildDate>Tue, 08 Sep 2026 16:18:01 +0000</lastBuildDate>
+    <pubDate>Wed, 09 Sep 2026 12:25:43 +0000</pubDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:25:43 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 01, Scene 15</title>
+        <description>&lt;p&gt;This post is part of &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;my solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;If we were simply reading the book, we would already be done with
+adventure 01. But we’re playing, and there is a vital part of the adventure’s
+capstone dungeon delve that I’ve been putting off until now: the looting!&lt;/p&gt;
+
+&lt;p&gt;I’ve ran this delve as a “brutal raid”, so our PCs were mainly interested in
+clearing the cultists infesting the place as fast as possible, and whenever they
+found some loot they just made a mental note to get to it later.&lt;/p&gt;
+
+&lt;p&gt;Well, Nox has been defeated, and it’s “Later” now. The book doesn’t really
+mention how often the diabolists here checked back with Thrune, but I figure our
+heroes have enough time to gather and tally all the loot, though I guess they
+might need to call in a couple of Silver Raven teams to help haul it all back to
+base.&lt;/p&gt;
+
+&lt;p&gt;I’m labeling this “Scene 15” because it’s technically part of the first
+adventure, but we’re not doing any Mythic stuff here this time around.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-delver-the-lootening&quot;&gt;[GM] Delver: The Lootening&lt;/h1&gt;
+
+&lt;p&gt;Unfortunately, the very fact that Thrune’s minions know where the Monastery is
+and have successfully raided it in the past means that they cannot use it as a
+base, so they have to stay in the somewhat cramped Wasp Nest for now. But they
+can still loot the place!&lt;/p&gt;
+
+&lt;p&gt;I think we can abstract our actual procedure here. The PCs use a Silver Raven
+figurine to call their Freedom Fighters and Sneaks teams and strip this place
+bare. I’ll roll Perception for the PCs when stuff is hidden, but we can assume
+the teams take care of carting the loot out, and dropping Azvernathy somewhere
+beyond city walls with instructions to never show his face in this town again.&lt;/p&gt;
+
+&lt;p&gt;The next section gives talks about the XP they gained from this delve. Then we
+get a high-level overview of what the PCs found, and what they did it with it
+after bringing it to the Wasp Nest.&lt;/p&gt;
+
+&lt;p&gt;And finally, for the completionists, you get a full tally of the loot found in
+the dungeon, complete with costs and weights in the format I use for my
+home-brewed gear tallying script.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-xp-rewards&quot;&gt;[GM] XP Rewards&lt;/h1&gt;
+
+&lt;p&gt;I’m not sure I specified how I’m handling XP here. That’s in part because I
+hadn’t 100% settled on a system yet. I went with the one suggested in Exploits
+for a while but I think I’m going to go with something considerably more
+generous given the slow pace of play in this campaign and the lack of proper
+“sessions”.&lt;/p&gt;
+
+&lt;p&gt;Every time the PCs complete a significant quest, they get 5 character points. If
+we have a capital-P part in a Hell’s Rebels book that has one single linear
+goal, that’s a significant quest. If we have something that’s labeled as a
+Mission, usually in the middle part of a book, that’s also a significant
+quest. So, for example, the Aria Park Riot was one such quest, then we had the
+various missions I played, and then the capstone delve was another quest.&lt;/p&gt;
+
+&lt;p&gt;Additionally, every time the book specifically calls out a story-based XP award
+for something, they gain 1 character point if they achieve that goal.&lt;/p&gt;
+
+&lt;p&gt;And finally, they get another 5 character points at the end of the adventure.&lt;/p&gt;
+
+&lt;p&gt;We’re using this new system starting from the capstone delve in adventure 1. So
+at the end of this delve, they got:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1 point for gaining access to level 2 of the dungeon.&lt;/li&gt;
+  &lt;li&gt;1 point for deactivating the Cubic Gate.&lt;/li&gt;
+  &lt;li&gt;1 point for recovering the soul tomes.&lt;/li&gt;
+  &lt;li&gt;1 point for discovering the clue within (see below).&lt;/li&gt;
+  &lt;li&gt;5 points for clearing the dungeon.&lt;/li&gt;
+  &lt;li&gt;5 points for finishing the adventure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s 14 points each, making all of them into 289-point characters (they were
+at 275 when they started the delve).&lt;/p&gt;
+
+&lt;p&gt;We’ll deal with character advancement in a later post.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-loot-disposition&quot;&gt;[Player] Loot Disposition&lt;/h1&gt;
+
+&lt;p&gt;Obviously we’re taking the money right away and taking it into the common party
+stash. I want to use this to upgrade the PC’s gear, and most of what’s left when
+I’m done will go into the Raven treasury. Already that’s $8700 right there.&lt;/p&gt;
+
+&lt;p&gt;Next we have our “art objects”, mundane but valuable items with no associated
+game benefits. We’re keeping the Victocora signet rings to hand off to Rexus,
+but everything else should be fenced. The rest consists mainly of books, with
+some miscellaneous fancy writing and reading tools thrown in. Urist will only
+part with the books if he’s sure they can go to someone who will make good use
+of them &lt;em&gt;outside&lt;/em&gt; of Cheliax, but Jania assures him she can make it happen (and
+as the GM I confirm it). She’s going to talk to Lady Mialari Docur in the space
+between adventures, and I she will handle the rest.&lt;/p&gt;
+
+&lt;p&gt;Our loot pile in this category totals a whopping $51250 and weights 43kg. The
+process of carting it around to various fences and selling it probably takes a
+couple of weeks, but we can sum up the results here. Per the standard rules,
+that amount up there is the loot’s nominal worth. Our heroes will be able to
+fence it for 40% of that value, or 50% if one of them can win a contest of
+Merchant vs. 15. Jania does win, so we’re looking at $25625 for the lot. 64
+gold, 1 silver, 5 copper.&lt;/p&gt;
+
+&lt;p&gt;Next we have our “tools”, items which have a game effect but are not what I’d
+consider “equipment”. This includes consumables like potions and scrolls, as
+well as the useful tomes we found and the Bookplate of Recall. I think we’re
+keeping everything here except for the Bookplate. I roll another Merchant roll
+for it, and it gets sold off for $5000 (12 gold, 10 silver).&lt;/p&gt;
+
+&lt;p&gt;And finally we have our “Equipment”. Armor and weapons and things that can be
+worn and wielded for continuous effect. Here we have Nox’s and Azvernathy’s
+armor and weapons, the Headband of Will +1, the Ring of Swimming, a scroll belt,
+and a humble belt pouch. Total value $61134, total weight around 39kg.&lt;/p&gt;
+
+&lt;p&gt;Our heroes are keeping everything but Nox’s glaive, which no one specializes in,
+and Raul’s shield which is redundant. That’s $240 (12 silvers) added to our
+party treasury. Art will take Nox’s Armor, Urist will take Raul’s mace and
+armor. Jade takes the Headband and Ring of Swimming, Jania the scroll belt.&lt;/p&gt;
+
+&lt;p&gt;I’ll charge the group a $500 “refit” fee for the two suits of armor and the
+mace, which is roughly 10% of their value. They have to be cleansed of all that
+Asmodean iconography and Raul’s armor has to be adjusted to fit Urist’s dwarven
+frame. Total fee: $1500 (3 gold, 15 silver).&lt;/p&gt;
+
+&lt;h1 id=&quot;player--gm-detailed-loot-ledger&quot;&gt;[Player &amp;amp; GM] Detailed Loot Ledger&lt;/h1&gt;
+
+&lt;p&gt;This goes over each room in the dungeon that has treasure in it, and lists the
+treasure in detail. The list is formatted for both human readability and for
+consumption by a simple script I hand-coded to tally costs and weights, which is
+why you can see those big numbers in the previous section.&lt;/p&gt;
+
+&lt;p&gt;We start from the entrance to the Phantasmagorium level (rooms E1 to E10), and
+then go through the Monastery level (rooms F1 to F7.&lt;/p&gt;
+
+&lt;h2 id=&quot;room-e2&quot;&gt;Room E2:&lt;/h2&gt;
+
+&lt;p&gt;They looted this one on the way in during the delve. The Ring of Swimming used
+to be weaker than this, but I thought hey, why not go all in?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;4 x Silver Coin:&lt;/td&gt;
+          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Ring of Swimming: Grants Amphibious but &lt;em&gt;not&lt;/em&gt; Gills while worn.&lt;/td&gt;
+          &lt;td&gt;$25000, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-e4&quot;&gt;Room E4&lt;/h2&gt;
+
+&lt;p&gt;We already searched this room on the way in, so this list is a reprise. The
+scrolls have already been looted, the rest is being taken now.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Gilded souvenir medal:&lt;/td&gt;
+          &lt;td&gt;$250, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;19 x Silver Coin:&lt;/td&gt;
+          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
+          &lt;td&gt;. (total $380, 0.19kg)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll Belt: 10 waterproof compartments for scrolls.&lt;/td&gt;
+          &lt;td&gt;$60, 0.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The scrolls are all universal and charged:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Panic: 1m radius. Universal, charged.&lt;/td&gt;
+          &lt;td&gt;$400, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Bravery: 2m radius. Universal, charged.&lt;/td&gt;
+          &lt;td&gt;$400, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Scroll of Curse: 1 point. Universal, charged.&lt;/td&gt;
+          &lt;td&gt;$300, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There was also a scroll of Deathtouch (2d, $200) but it has already been used by
+Jania.&lt;/p&gt;
+
+&lt;h2 id=&quot;room-e7&quot;&gt;Room E7&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Alabaster Snake Eye:&lt;/td&gt;
+          &lt;td&gt;$1500, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-e8&quot;&gt;Room E8&lt;/h2&gt;
+
+&lt;p&gt;The party isn’t going to sell these rings, but I’m listing their value for
+completeness’ sake.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;2 x Victocora Signet Ring:&lt;/td&gt;
+          &lt;td&gt;$750, 0.1kg&lt;/td&gt;
+          &lt;td&gt;. (total $1500, 0.2kg)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-e9&quot;&gt;Room E9&lt;/h2&gt;
+
+&lt;p&gt;Perception -1 to search the room for left-over valuables. The PCs pass this the
+test, and so find everything.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Bottle of lead-based ink:&lt;/td&gt;
+          &lt;td&gt;$500, 0.25kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;5 x Miniature ivory doors:&lt;/td&gt;
+          &lt;td&gt;$50, 0.01kg&lt;/td&gt;
+          &lt;td&gt;. (total $250, 0.05kg)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Roll of copper Wire:&lt;/td&gt;
+          &lt;td&gt;$250, 4kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;12 x Silver Coin:&lt;/td&gt;
+          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
+          &lt;td&gt;. (total $240, 0.12kg)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Diamond:&lt;/td&gt;
+          &lt;td&gt;$1000, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Azvernathy’s belongings were also left here when he was imprisoned on E10.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Balanced Dwarven Mace: enchanted with Puissance 1.&lt;/td&gt;
+          &lt;td&gt;$5450, 2.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Medium Shield:&lt;/td&gt;
+          &lt;td&gt;$80, 7.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1 x Suit of Armor: DR 6 on body, DR 2 on limbs and extremities, no
+helmet. Lighten 1 and Fortify 1. |$4674, 11.7kg|.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-e10&quot;&gt;Room E10&lt;/h2&gt;
+
+&lt;p&gt;This is where Azvernathy was imprisoned, but he won’t be able to sneak any
+treasure on his person as the Freedom Fighters escort him away.&lt;/p&gt;
+
+&lt;p&gt;The book listed below also contained a clue to opening the way to the Monastery,
+but we didn’t need it because Urist already knew the trick.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Book: This is an ornate tome sacred to the dead god Aroden.&lt;/td&gt;
+          &lt;td&gt;$1000, 6kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-f1-the-sacred-archive&quot;&gt;Room F1: The Sacred Archive&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Miscellaneous Books:&lt;/td&gt;
+          &lt;td&gt;$2000, 30kg.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Bookplate of Recall: Metal plate with space to write the owner’s name. When
+glued to the inside cover of a book it allows the owner to summon it to their
+hand once a day. |$10000, 0.01kg|.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Elixir of Water Breathing. Breathe water for 1d hours.&lt;/td&gt;
+          &lt;td&gt;$600, 0.25kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Paut: Recovers 4 FP lost to magic.&lt;/td&gt;
+          &lt;td&gt;$135, 0.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2 x Scroll of Analyze Magic: Universal, charged. |$800, 0kg|. (total $1600,
+0kg)&lt;/li&gt;
+  &lt;li&gt;1 x Scroll Silence: Affects a 3m-wide area for 1 minute. Universal,
+charged. |$600, 0kg|.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Silver Magnifying Glass:&lt;/td&gt;
+          &lt;td&gt;$1500, 0.25kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Owl-shaped Platinum Letter Opener:&lt;/td&gt;
+          &lt;td&gt;$800, 0.01kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Ivory and Gold Bookmark:&lt;/td&gt;
+          &lt;td&gt;$200, 0kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;10 x Gilded Page:&lt;/td&gt;
+          &lt;td&gt;$100, 0kg&lt;/td&gt;
+          &lt;td&gt;. (total $1000, 0.0kg)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-f4-artifact-recovery&quot;&gt;Room F4: Artifact Recovery&lt;/h2&gt;
+
+&lt;p&gt;Dust of Emulation interacts with Use Magic Device and we don’t use that here, so
+let’s replace it with a dose of Paut.&lt;/p&gt;
+
+&lt;p&gt;The PCs do find the secret panel, so they take everything in the list below.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ruined Cubic Gate: Lost its magic but still worth money as a
+collectible. |$30000, 1kg|.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Tome: +1 to Hidden Lore (Magic Items).&lt;/td&gt;
+          &lt;td&gt;$500, 6kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Silver and mother-of-pearl ink pen:&lt;/td&gt;
+          &lt;td&gt;$2000, 0.01kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Platinum disc depicting a leering angel:&lt;/td&gt;
+          &lt;td&gt;$1000, 0.01kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;1 x Paut: Recovers 4 FP lost to magic.&lt;/td&gt;
+          &lt;td&gt;$135, 0.5kg&lt;/td&gt;
+          &lt;td&gt;.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Headband of Strengthening Will +1 : Bronze circlet that grants +1 Will when
+worn |$20035, 0.25kg|.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-f6-common-room&quot;&gt;Room F6: Common Room&lt;/h2&gt;
+
+&lt;p&gt;These books are a pile of mostly unredacted historical documents which can be
+worth selling to an interested foreign collector. The dead redactors don’t have
+anything of value.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;History books:&lt;/td&gt;
+          &lt;td&gt;$9000, 7.5kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;room-f7-meditation-garden&quot;&gt;Room F7: Meditation Garden&lt;/h2&gt;
+
+&lt;p&gt;The books Nox was perusing here are soul tomes created by Yiliv the
+Scrivenite. They became mundane books when the original owners of their memories
+died, but remain valuable for the knowledge they contain.&lt;/p&gt;
+
+&lt;p&gt;In addition to that knowlegde, they also contain stories about how the archive
+used to contain a copy of a section of the &lt;em&gt;Broken-Winged Crane&lt;/em&gt;, a terrible
+eldritch tome about demons of all kinds. They also make mention of a scholar
+named “Trailbrazer Huni” who visited the place and convinced the archivists to
+let him study the book for a single hour. The PCs have not read this one yet,
+but when they do they should have no problem decoding the anagram and figuring
+out this was Thrune in disguise.&lt;/p&gt;
+
+&lt;p&gt;We also have Nox’s possessions, originally described &lt;a href=&quot;/octopus-carnival/2026/03/16/hr-bestiary-nox.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So we get this list, with prices and weights formatted for the use of my
+home-grown tallying scripts:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Soul Tomes: +4 to History or Area Knowledge rolls about Kintargo and Ravounel
+if consulted. |$16000, 10kg|.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Nox’s Armor: DR 7 to the front of the body, 4/2 everywhere else except the
+head. |$5425, 13.5kg|.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;Belt pouch.&lt;/td&gt;
+          &lt;td&gt;$10, 0.1kg&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;table&gt;
+          &lt;tbody&gt;
+            &lt;tr&gt;
+              &lt;td&gt;20 x gold coin.&lt;/td&gt;
+              &lt;td&gt;$400, 0.01kg&lt;/td&gt;
+              &lt;td&gt;(total $8000, 0.20kg)&lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/tbody&gt;
+        &lt;/table&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dwarven Dueling Glaive: Damage sw+2 cut (Reach 1,2) or thr+3 imp (Reach
+1,2). |$400, 3kg|.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nox actually used a different suit of armor during the fight with DR 6/4 all
+over, as the stats I had for her were an earlier version. But let’s use the
+published one as loot.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-silver-ravens-end-of-adventure&quot;&gt;The Silver Ravens (End of Adventure)&lt;/h1&gt;
+
+&lt;p&gt;Includes Sentinel bonuses.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rank: 4/5&lt;/li&gt;
+  &lt;li&gt;Focus: Secrecy&lt;/li&gt;
+  &lt;li&gt;Members: 22&lt;/li&gt;
+  &lt;li&gt;Supporters: 28&lt;/li&gt;
+  &lt;li&gt;Population: 11900&lt;/li&gt;
+  &lt;li&gt;Treasury: $9400&lt;/li&gt;
+  &lt;li&gt;Min. Treasury: $200&lt;/li&gt;
+  &lt;li&gt;Notoriety: 5&lt;/li&gt;
+  &lt;li&gt;Org Skills:
+    &lt;ul&gt;
+      &lt;li&gt;Loyalty: 14&lt;/li&gt;
+      &lt;li&gt;Secrecy: 17&lt;/li&gt;
+      &lt;li&gt;Security: 14&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Actions: 2&lt;/li&gt;
+  &lt;li&gt;Max Teams: 3+1&lt;/li&gt;
+  &lt;li&gt;Danger Rating: 20&lt;/li&gt;
+  &lt;li&gt;Active Events:&lt;/li&gt;
+  &lt;li&gt;Teams:
+    &lt;ul&gt;
+      &lt;li&gt;Crow Sisters (bonus team)
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Earn Money, Gather Information&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Freedom Fighters
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 6&lt;/li&gt;
+          &lt;li&gt;Actions: Reduce Danger&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sneaks
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 1&lt;/li&gt;
+          &lt;li&gt;Members: 3&lt;/li&gt;
+          &lt;li&gt;Actions: Secure Cache.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rumormongers
+        &lt;ul&gt;
+          &lt;li&gt;Tier: 2&lt;/li&gt;
+          &lt;li&gt;Members 6&lt;/li&gt;
+          &lt;li&gt;Actions: Gather Information, Spread Disinformation&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Allies:
+    &lt;ul&gt;
+      &lt;li&gt;Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;+2 to Recruit Supporters as long as she’s a member.&lt;/li&gt;
+          &lt;li&gt;Leadership-12, Streetwise-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Rexus Victocora
+        &lt;ul&gt;
+          &lt;li&gt;-1 Notoriety per Upkeep phase as long as he’s a member.&lt;/li&gt;
+          &lt;li&gt;Administration-12, Public Speaking-12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Vendalfek
+        &lt;ul&gt;
+          &lt;li&gt;Grants use of the Spread Disinformation action even if no other team does
+the same.&lt;/li&gt;
+          &lt;li&gt;If a team does grant the action, gives a +2 bonus to the skill roll for
+the action.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Officers:
+    &lt;ul&gt;
+      &lt;li&gt;Demagogue: Rosalia
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Partisan: Laria Longroad
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Recruiters: Urist; Arthur
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+          &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+          &lt;li&gt;Skills: Public Speaking, Streetwise, Savoir-Faire.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Sentinel: Jade
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+          &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+          &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Spymaster: Jania
+        &lt;ul&gt;
+          &lt;li&gt;May use complimentary skills on Secrecy checks.&lt;/li&gt;
+          &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Strategist: Rexus
+        &lt;ul&gt;
+          &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+          &lt;li&gt;Skills: Strategy, Tactics, Administration&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/09/09/lphr-scene-15.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/09/lphr-scene-15.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Swashbuckler</title>
@@ -1646,128 +2411,6 @@ character sheet.&lt;/p&gt;
         <category>dungeon-fantasy</category>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: The Many Steps Monastery, Session 3</title>
-        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
-
-&lt;figure class=&quot;center&quot;&gt;
-  &lt;img alt=&quot;A dungeon map of an underground hideoud. Rooms are labeled F1 to F7.&quot;
-       src=&quot;https://bira.github.io/octopus-carnival/assets/lphr-many-steps-monastery.png&quot;/&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;This post is part of &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;my solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Our intrepid rebels continue their raid of the Many Steps Monastery, aiming to
-clear it of its devil-worshiping occupants and score a blow against the fascist
-rule of Barzilai Thrune and his bosses who watch from both central Cheliax and
-Hell.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href=&quot;/octopus-carnival/2026/06/26/lphr-scene-14-2.html&quot;&gt;previous post&lt;/a&gt; was entirely dedicated to preparing the remaining two
-fights in this adventure. In this one we’ll hopefully get through at least one
-of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;player-continuing-the-delve&quot;&gt;[Player] Continuing the Delve&lt;/h1&gt;
-
-&lt;p&gt;Our last position was room F4, and our last turn number was 19.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-20&quot;&gt;Turn 20&lt;/h2&gt;
-
-&lt;p&gt;The heroes take a passage to map-east, entering a short corridor that has one
-door in a wall to their right, and one at the very end, both closed. Urist knows
-the side door leads to a lecture hall, and the end door to the common room.&lt;/p&gt;
-
-&lt;p&gt;They open the lecture hall door and see that the place is a mess that smells
-strongly of sulphur and dog shit. It’s probably where Nox’s hellhound sleeps,
-though it’s not here right now. Surely it will be ahead.&lt;/p&gt;
-
-&lt;p&gt;They lock this door and proceed to the common room one.&lt;/p&gt;
-
-&lt;h2 id=&quot;turn-21-combat&quot;&gt;Turn 21: Combat!&lt;/h2&gt;
-
-&lt;p&gt;The party still remembers their conversation with Yiliv back at the start of the
-raid, so they know there are still a bunch of redactors in here and that they’re
-all aware the group is coming. There’s two chambers left before they clear the
-whole place, so they’re in for some heavy fighting right about now…&lt;/p&gt;
-
-&lt;p&gt;Urist casts a 3-point Armor spell on himself, and the party forms up with Urist
-and Arcturus in front and the other three as a second line. Then Art kicks the
-door in!&lt;/p&gt;
-
-&lt;p&gt;They immediately a pair of burly devils with swords ready to fight among a group
-of tables and chairs filled with books and other documents. Just behind them are
-three hooded weirdoes. It’s a fight!&lt;/p&gt;
-
-&lt;p&gt;The party charges in, aiming to engage, but two additional hooded weirdoes who
-had been waiting just out of sight ambush them as they run past! Jade manages to
-parry the stab directed at her, while Art takes the hit on his armor, escaping
-unharmed.&lt;/p&gt;
-
-&lt;p&gt;Things devolve into a somewhat complicated scrum after this, as two of the
-hooded weirdoes prove to be spellcasting diabolists instead of rank and file
-redactors, and the devils this time are able to … secrete tar nets into their
-hands to toss at our heroes. Jade spends the first few turns of the fight
-entangled by one such net, though the devil it’s tethered to can’t get close to
-her first because Urist is in the way, and then because Rosalia stuns it with
-her Song of Humiliation.&lt;/p&gt;
-
-&lt;p&gt;Art dodges the net thrown at him and proceeds to heroically charge at the devil
-responsible for it, taking damage from its aura of hot stinky tar but eventually
-managing to wrestle it to death. A nearby adept keeps trying to ensnare him in a
-Dark Tendrils spell, but the Atlantean is far too beefy to let that stop him.&lt;/p&gt;
-
-&lt;p&gt;The regular redactors once again show themselves to be annoyingly nimble, as one
-manages to slip past Rosalia and try to stab Jade. Jade however, is still able
-to act at a penalty (since we’re using Fantastic Dungeon Grappling) and stabs
-him to death after he gets stunned by Rosalia. Urist downs another one, and
-Rosalia the last despite some close calls attempting to parry their knives.&lt;/p&gt;
-
-&lt;p&gt;Jania eliminates one of the spellcasters with a well-aimed and very large Ice
-Dagger to the chest, and Art choke-slams the other into oblivion after dealing
-with his first opponent. Rosalia and Jade then stab the remaining devil to death
-just as he recovers from his bardic stun.&lt;/p&gt;
-
-&lt;p&gt;With this batch of enemies dealt with, our heroes turn to the passage leading to
-the underground garden, the final chamber here in the monastery. Nox awaits.&lt;/p&gt;
-
-&lt;h2 id=&quot;player--gm-analysis&quot;&gt;[Player + GM] Analysis&lt;/h2&gt;
-
-&lt;p&gt;This fight took me about three sessions to run, each taking between 1 and 2
-hours. They were spaced over about a month as I got distracted by video games
-and dedicated much of my free time to them.&lt;/p&gt;
-
-&lt;p&gt;It does sometimes get a bit annoying to do things the Foundry way, since I’m the
-only player. When I attack I need to mark the target, select the attacker, roll
-the attack, select the defender, roll the defense, select the attacker again to
-apply damage, and so on. I imagine it must flow a lot better with more several
-different people playing. Maybe I can find a way to make a dual head setup here
-with one instance of Foundry running as GM and another as the player? Though
-that just might exchange one type of context switching for another.&lt;/p&gt;
-
-&lt;p&gt;The fight itself was fine. Nox did not intervene but I think the players sweated
-enough that she didn’t feel the need to. Also it was over in seven seconds, so
-there wasn’t really time for her to arrive even when it did start going badly
-for the forces of evil.&lt;/p&gt;
-
-&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next!&lt;/h2&gt;
-
-&lt;p&gt;Boss fight! Boss Fight!&lt;/p&gt;
-
-</description>
-        <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/07/26/lphr-scene-14-3.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/07/26/lphr-scene-14-3.html</guid>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        <category>hells-rebels</category>
-        
-        <category>lets-play</category>
         
         
       </item>
