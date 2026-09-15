@@ -22,7 +22,7 @@ tables, so this section focuses on the rest of their stats. Compared to the
 stuff on the melee weapons table, shields are pretty cheap but extremely heavy.
 
 The most important stat here is the Defense Bonus, which goes from 1 to 3
-depending on the size of the item. This gets added directly to all of your
+depending on the size of the shield. This gets added directly to all of your
 active defense scores, including Block. Then come the usual price and weight.
 
 The table starts with _cloaks_, which are popular with fencers. To use a cloak
@@ -30,7 +30,7 @@ in combat, you hold it in your hand instead of wearing it around your neck. You
 can feint and block with it, and even grapple since it's flexible. For the same
 reason, though, you can't bash people with a cloak and a failed block endangers
 your arm. A light cloak reaches your waist when worn, a heavy one reaches your
-ankles. Even the heavy cloak is lighter than a light shield.
+ankles. Even the heavy cloak is lighter than a small shield.
 
 Proper Shields come in Small, Medium, and Large varieties. They let you block
 and bash as described above, make shield rushes, and are of course a lot
@@ -106,7 +106,7 @@ added more hit locations than there were in core GURPS and restrictions of the
 
 DFRPG takes that and re-simplifies it a bit. The combat rules still have the
 same hit locations as core GURPS, but you don't have to buy a separate piece of
-armor for every one, and the list of different mateirals has been pared down
+armor for every one, and the list of different materials has been pared down
 considerably. Every line on the table is a different material with a specific
 DR, and the columns have the price and weight for a full suit of that material
 and also for smaller pieces covering the head, arms, legs, hands, feet, and body

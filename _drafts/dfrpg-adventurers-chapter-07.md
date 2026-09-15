@@ -36,10 +36,10 @@ DFRPG, it means "one copper coin".
 Dungeon Fantasy coins are, not coincidentally, identical to the ones used by D&D
 and Pathfinder. There are 50 of these chonky disks to the pound no matter what
 they're made of. Unlike D&D of PF coins however, their values here increase by a
-factor of 20. So if a copper coin is $1, a silver coin is $20, and a gold coin
-is $400. Gold coins are also valuable and soft enough that they're commonly cut
-into halves, quarters or eights. Gold packs a lot more value into the same
-weight, which is why delvers love it so much.
+factor of 20 as you climb up the hierarchy. So if a copper coin is $1, a silver
+coin is $20, and a gold coin is $400. Gold coins are also valuable and soft
+enough that they're commonly cut into halves, quarters or eights. Gold packs a
+lot more value into the same weight, which is why delvers love it so much.
 
 There are coins made of weirder metals with in-between values, but those are not
 in this book. You might find them as treasure, though.
@@ -53,8 +53,8 @@ at $500 per point - a common use for those 5 points obtained from quirks.
 
 Item prices assume the most typical conditions possible - a typical sale by an
 ordinary merchant at a time and place where there's neither a surplus not a
-shortage. Everything costs list price at character creation, and campaign events
-might change that.
+shortage. Everything costs list price at character creation, but world events
+might change that during play.
 
 This does mean we're not assuming "Gold Rush" prices as the default like D&D
 does, but you'll still find some items here are ridiculously expensive
@@ -85,9 +85,9 @@ of 15 will add 10% to that value (so from 40% to 50%, for example).
 
 ## Weapons
 
-Every single PC is going to need at least one weapon. Which one depends on their
-combat skills, and what they can both carry, wield, and afford. This section
-goes on to explain weapon stats, and then gives us the big weapon tables.
+Every single PC is going to need at least one weapon. Which one depends on what
+they can carry, wield, and afford. This section goes on to explain weapon stats,
+and then gives us the big weapon tables.
 
 This is where the character's Damage stat comes into play. It's derived from
 Strength and includes two different dice expressions, Thrust and Swing, which is
@@ -96,11 +96,11 @@ but Swing increases much faster as you get stronger, to represent the benefits
 of the lever effect. A weapon's damage stat is expressed in terms of the
 wielder's Thrust (thr) and Swing (sw) values, combined with a damage type.
 
-For example, a sword might do sw+1 cut ot thr+1 imp damage, and when wielded by
-a ST 13 character (sw 2d-1 / thr 1d+1) that would become 2d cut or 1d+2
-imp. We'll learn more about damage types when we talk about combat.
+For example, a sword might do sw+1 cutting ot thr+1 impaling damage, and when
+wielded by a ST 13 character (sw 2d-1 / thr 1d+1) that would become 2d cut or
+1d+2 imp. We'll learn more about damage types when we talk about combat.
 
-Weapons also have a ST rating which tells you how strong somoeone must be to use
+Weapons also have a ST rating which tells you how strong someone must be to use
 the weapon. This will only be a problem for human delvers when it comes to the
 heaviest of weapons, but halflings likely have to be more watchful here.
 
@@ -108,7 +108,8 @@ For bows and crossbows, you read their ST stat as their _rated strength_. The
 value on the table is the weakest possible rated strength for that weapon. They
 can be built "stronger" at no extra cost. A character still needs to be at least
 that strong to handle the weapon, but any ST they have above that score is
-"wasted" and doesn't go into figuring damage or range.
+"wasted" and doesn't go into figuring damage or range. Being "stronger" than
+your bow doesn't let you pull it back any further than its own physical limit.
 
 The Melee Weapons Table gives us everything you'd expect out of a dungeon
 fantasy game.
@@ -116,8 +117,8 @@ fantasy game.
 - Axes and Maces are cheap and have decent damage but tend to be unbalanced -
   you can attack _or_ parry with them in a given turn, but not both. The
   two-handed varieties have high damage but are more expensive, heavier, and so
-  unbalanced you might need to spend a whole turn readying the weapon after
-  attacking with it.
+  unbalanced you might need to spend a whole turn getting the weapon ready again
+  after attacking with it.
 
 - Swords of all kinds are balanced and versatile, with both swinging and
   thrusting attacks. However, they are very expensive. If you don't have the
@@ -193,7 +194,7 @@ the weapon's base price.
 - **Balanced** weapons are more accurate, generally giving a +1 to skill for
   melee weapons and a +1 to Accuracy for ranged ones.
 
-- **Bow-Harps** are heavier than mormal bnows but can be used as either bows or
+- **Bow-Harps** are heavier than mormal bows but can be used as either bows or
   harps in any given turn (but not both at the same time!). The perfect gift for
   your ranged bard.
 

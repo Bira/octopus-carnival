@@ -55,7 +55,7 @@ which you could use to collect samples of corrosive goo and the like.
 lanterns and torches. Detailed rules for lighting are in Exploits.
 
 **Medical Gear** has bandages which are basic equipment for First Aid, a proper
-first-aid kit which gives +1, a litter for carrying the wounded, and surgical
+first-aid kit which gives +1, a liter for carrying the wounded, and surgical
 equipment that can be used for field Surgery or to remove valuable dead monster
 bits without ruining them.
 
@@ -90,11 +90,10 @@ artificer, smuggler, etc.).
 fashion, like the Delver's Webbing that works like a modern tactical harness
 full of pouches and pockets, or helmet lamps, and potion and scroll belts.
 
-**Camping Gear** has alchemical matches, a compass, and a timed candle that
-burns at a precise fixed rate, and special rations. Elven rations are very
-expensive but three times lighter. Dwarven ones weight twice as much as the
-standard human stuff but give you poison resistance after eating them for a
-month or more.
+**Camping Gear** has alchemical matches, a compass, a timed candle that burns at
+a precise fixed rate, and special rations. Elven rations are very expensive but
+three times lighter. Dwarven ones weight twice as much as the standard human
+stuff but give you poison resistance after eating them for a month or more.
 
 **Combat Accessories** here cover bandoleers for those people who absolutely
 must carry 24 throwing daggers on them, a variety of crossbow accessories, and

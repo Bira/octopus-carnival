@@ -44,6 +44,8 @@ number of people have heard about it.
   - [Swashbucklers][14] share the same devotion to excellence as Martial
     Artists, but replace the mysticism with a penchant for parties and actually
     remember to bring a sword to a swordfight.
+  - [Thieves][15] are experts at dungeon parkour and at handling locks and
+    traps.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -59,3 +61,4 @@ number of people have heard about it.
 [12]: {{ "/2026/08/21/dfrpg-adventurers-martial-artist.html" | relative_url }}
 [13]: {{ "/2026/09/04/dfrpg-adventurers-scout.html" | relative_url }}
 [14]: {{ "/2026/09/08/dfrpg-adventurers-swashbuckler.html" | relative_url }}
+[15]: {{ "/2026/09/15/dfrpg-adventurers-thief.html" | relative_url }}

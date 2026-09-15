@@ -25,7 +25,7 @@ dominant culture in the areas where the vast majority of the campaign takes
 place.
 
 This chapter does not describe this concept, but it does introduce us to a
-reference culture by repeatedly referencing it in the text and template
+reference culture by repeatedly mentioning it in the text and template
 descriptions: that of Ordinary Townsfolk(TM).
 
 Ordinary Townsfolk are those people who live in Town under the rule of the
@@ -119,9 +119,9 @@ stubborn.
 defending nature. They're far more approachable than Those Other Elves, which
 are haughty, isolationist, and not statted up for PC use. Elves are a bit taller
 than humans, have the classical pointy ears, and these wood elves have bright
-green hair. Nothing unexpected in their traits here: they're fast, pretty, have
-innate Magery, are good at sneaking and shooting bows, and have a sense of duty
-to Nature.
+green hair. Nothing unexpected in their traits here: they're graceful, pretty,
+have innate Magery, are good at sneaking and shooting bows, and have a sense of
+duty to Nature.
 
 **Half-Elves** inherit elven grace, magical aptitude, and bright hair colors,
 but are a bit more robust thanks to their human parents. They have no duty to
@@ -152,9 +152,8 @@ purity. Orcs are a part of this group: the medium-sized, "not-too-stupid" ones
 who bully the others.
 
 Half-orcs are "the product of generations of inbreeding among the offspring of
-orc rapine". Yikes! I can't actually decide whether this is better or worse than
-the D&D 3e cliches which state half-orcs are always the direct product of such
-rapine. This is why it's a good idea to modify or discard the implied setting.
+orc rapine". Yikes! This is about as bad as it was back in AD&D or D&D 3e, and
+it's why it's a good idea to modify or discard the implied setting.
 
 Anyway, half-orcs are as smart as humans but tougher, with better hearing and
 night vision. Some half-orcs are accepted by orcs and can be found among

@@ -7,7 +7,7 @@ tags:
     - lets-read
 ---
 
-This is what everyone's been waiting for, right? In the assumed setting of
+This is what everyone's been waiting for, right? In the implied setting of
 DFRPG, "low-level" magic items are common enough that they can often be found in
 "magic shops" in cities or larger towns. The selection presented here represents
 those. There are many more, and more powerful items, but those are not for sale
