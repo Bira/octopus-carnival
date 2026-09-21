@@ -79,8 +79,8 @@ spells hit that magic skill level of 15. The one exception is Great Haste, which
 remains at 14, but we can remedy that by spending 1 extra point.
 
 4 of the remaining 5 points to go buying Observation at 15, and the last one
-goes to buying the Weapon Channeling perk (first presented in this blog [way back
-in 2016][1]). This lets her use weapons enchanted with Staff, which is good
+goes to buying the Weapon Channeling perk (first presented in this blog [way
+back in 2016][1]). This lets her use weapons enchanted with Staff, which is good
 because we want to replace her cane with a proper sword in the next post.
 
 # Rosalia Savory, the Mysterious Satirist

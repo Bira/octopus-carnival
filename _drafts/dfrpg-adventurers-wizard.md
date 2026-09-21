@@ -145,11 +145,13 @@ Yes, DFRPG wizards have access to plenty of strong damage-dealing spells. And
 yes, they also have access to plenty of control spells that can stop a monster
 on its tracks. But casting spells takes time and energy.
 
-To cast that classic explosive fireball, a wizard need to spend one turn casting
-the spell and from 0 to 3 additional turns growing it to the desired size and
-aiming it before they can attack. If the party is readying for an ambush, that's
-a great opening move. If you start doing that during a fight, it's likely the
-Knight and the Barbarian will have killed all enemies by the time you're ready.
+To cast that classic explosive fireball, a wizard needs to spend one turn
+casting the spell and from 0 to 3 additional turns growing it to the desired
+size and aiming it before they can attack. If the party is readying for an
+ambush, that big firebal is a great opening move. But if you start casting it
+during a fight, it's likely the Knight and the Barbarian will have killed all
+enemies by the time you're ready to throw it. Big area-effect control spells
+take a similar amount of time and even more energy to cast.
 
 DFRPG wizards really shine in the "utility magic" department. That's where
 you'll find most spells that are both relatively cheap and quick to cast, and do
@@ -157,6 +159,6 @@ stuff that no other profession can replicate. The wise wizard keeps an open mind
 regarding their spell selection, and plans explosions in advance.
 
 The upside here is that you don't have to worry about "spell slots" or any of
-that nonsense. You always have access to all the spells you know, and when your
-energy runs out you can recover it entirely by resting for a few minutes instead
-of forcing your party to stick to a fifteen-minute workday.
+that nonsense. You always have access to all the spells you know, and recovering
+your energy when it runs out results in "fifteen-minute rests" instead of
+"fifteen-minute workdays".
