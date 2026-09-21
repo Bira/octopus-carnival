@@ -46,6 +46,7 @@ number of people have heard about it.
     remember to bring a sword to a swordfight.
   - [Thieves][15] are experts at dungeon parkour and at handling locks and
     traps.
+  - [Wizards][16] are still smug in this system, but for different reasons.
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -62,3 +63,4 @@ number of people have heard about it.
 [13]: {{ "/2026/09/04/dfrpg-adventurers-scout.html" | relative_url }}
 [14]: {{ "/2026/09/08/dfrpg-adventurers-swashbuckler.html" | relative_url }}
 [15]: {{ "/2026/09/15/dfrpg-adventurers-thief.html" | relative_url }}
+[16]: {{ "/2026/09/21/dfrpg-adventurers-wizard.html" | relative_url }}
