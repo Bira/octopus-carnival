@@ -81,5 +81,31 @@ from being made magically unbreakable. Armor and shields can have their weight
 reduced, and anything can be made glowy so that it illuminates like a torch on
 command.
 
-That's it for purchasable magic. Want something more powerful? Go delve a
+That's it for purchasable magic gear. Want something more powerful? Go delve a
 dungeon and find something from the expanded GM-only list from Exploits.
+
+# Magic As a Service
+
+The typical delver party arrives in town after a delve carrying a cartload of
+precious loot, and also a bevy of wounds, curses, severed limbs or even the dead
+bodies of their companions who didn't make it. Fortunately, they can "generously
+donate" some of that treasure to the local temple in order to solve their other
+problems.
+
+HP is super cheap to recover at $2/point. Mundane and supernatural afflictions
+cost $50 and $100 respectively, which is also pretty cheap assuming you managed
+to find any loot at all. Things get more expensive when it comes to repairing
+permanent crippled body parts ($750) or outright dismemberment ($1600). And
+bringing someone back from the dead costs $15000.
+
+PC clerics who know the right spells can do almost all of these in the field,
+but the possibility of paying to have it done automatically in town is still
+nice. Presumably restoring or regrowing limbs and eyes can still be done this
+way even if the PC cleric tried and failed, which is nice.
+
+The one exception here is resurrecting the dead, which only the town priest can
+do. I bet that's why it costs so much more. No competition from PCs!
+
+This is actually present as a very small text box in the character sheet at the
+very end of the book, and I couldn't find it anywhere else. It's quite possible
+I'll run into the official explanation in some other book as I go through them.

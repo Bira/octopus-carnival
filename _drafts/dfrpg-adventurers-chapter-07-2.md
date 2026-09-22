@@ -16,28 +16,31 @@ wearing, but DFRPG shields are _weapons_ that have a few extra defensive rules
 specific to them.
 
 You can feint with a shield, bash people's faces in with it, and use it to block
-incoming attacks - even ranged ones. Just holding a shield also makes it easier
-to defend yourself in other ways, too. Shield bashes are back on the weapon
-tables, so this section focuses on the rest of their stats. Compared to the
-stuff on the melee weapons table, shields are pretty cheap but extremely heavy.
+incoming melee or ranged attacks. Just holding a shield also makes it easier to
+defend yourself in other ways, too. Shield bashes are back on the weapon tables,
+so this section focuses on the rest of their stats.
 
 The most important stat here is the Defense Bonus, which goes from 1 to 3
 depending on the size of the shield. This gets added directly to all of your
-active defense scores, including Block. Then come the usual price and weight.
+active defense scores, including Block. Then come the usual price and
+weight. Compared to the stuff on the melee weapons table, shields are pretty
+cheap but extremely heavy.
 
 The table starts with _cloaks_, which are popular with fencers. To use a cloak
 in combat, you hold it in your hand instead of wearing it around your neck. You
-can feint and block with it, and even grapple since it's flexible. For the same
-reason, though, you can't bash people with a cloak and a failed block endangers
-your arm. A light cloak reaches your waist when worn, a heavy one reaches your
-ankles. Even the heavy cloak is lighter than a small shield.
+can feint and block with it, and even grapple by entangling foes since it's
+flexible. For the same reason, though, you can't bash people with a cloak and a
+failed block endangers your arm. A light cloak reaches your waist when worn, a
+heavy one reaches your ankles. Even the heavy cloak is lighter than a small
+shield.
 
-Proper Shields come in Small, Medium, and Large varieties. They let you block
-and bash as described above, make shield rushes, and are of course a lot
-sturdier than a piece of cloth with delusions of grandeur. DFRPG doesn't really
-deal with shield breakage, so the biggest game effect of this sturdiness is that
-shields can take all of the modifiers we'll list below, while cloaks can only
-take Ornate.
+Proper Shields come in Small, Medium, and Large varieties. All of them are made
+from wood with a few metal bits and possibly a leather covering on the
+outside. They let you block and bash as described above, make shield rushes, and
+are of course a lot sturdier than a piece of cloth with delusions of
+grandeur. DFRPG doesn't really deal with shield breakage, so the biggest game
+effect of this sturdiness is that shields can take all of the modifiers we'll
+list below, while cloaks can only take Ornate.
 
 Light and Medium shields are available as either traditional shields or
 bucklers. A buckler is held by a handle instead of strapped to your arm, so you
@@ -136,9 +139,10 @@ Here's a brief summary of the armor table:
   to crushing damage.
 
 - **Brigandine** (DR 5) is the thing that confused Gygax into inventing studded
-  leather, because the plates are under a light leather or cloth covering and
-  only the rivets are peeking out. About the same price of heavy mail, at half
-  the weight. It counts as plate for modifier purposes.
+  leather, because it's metal plates sandwiched between two leather or cloth
+  layers, with the rivets that keep them in place peeking out. About the same
+  price of heavy mail, at half the weight. It counts as plate for modifier
+  purposes.
 
 - **Plate** armor is the high-end stuff, very expensive and surprisingly light
   for the amount of protection it provides. Comes in Standard, Heavy,
@@ -195,6 +199,6 @@ works even without mana, and it _stacks_ with the enchantment, so there's that.
   noise. Its weight doesn't count as encumbrance for "thiefy" and parkour
   skills.
 
-Thieves' armor cannot also be Ornate, of course, and the material modifiers
+Thieves' armor cannot also be Ornate, of course, and the two material modifiers
 are mutually exclusive. They do stack with everything else, though, and the
 weights are multiplied together as with shields.

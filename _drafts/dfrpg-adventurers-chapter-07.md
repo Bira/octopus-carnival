@@ -27,7 +27,7 @@ If that sounds fun to you, you're in the right game! If it didn't, well, at
 least you've been warned. Our first section is about buying and selling gear, so
 we're going in order of importance here.
 
-## Money Money Money!
+# Money Money Money
 
 The symbol used for money here is the "$". In standard GURPS they call this the
 "GURPS dollar", and explain it means different things in each setting. In the
@@ -49,7 +49,7 @@ PC's Wealth. PCs who have that as an advantage get more, those who have it as a
 disadvantage get less. They can also exchange character points for extra money
 at $500 per point - a common use for those 5 points obtained from quirks.
 
-### Buying
+## Buying
 
 Item prices assume the most typical conditions possible - a typical sale by an
 ordinary merchant at a time and place where there's neither a surplus not a
@@ -68,7 +68,7 @@ $500 of the item's value.
 Delvers usually live out of inns and such, so it costs $150 a week to live in
 town. Again there are tricks to reduce this in Exploits.
 
-### Selling
+## Selling
 
 You don't need to sell coins, of course - they're already money. Ingots or
 unshaped lumps of precious metal are also money, they just make the merchants
@@ -83,7 +83,7 @@ perfectly acceptable for the party to ask their richest member to handle all the
 selling. Winning a Quick Contest of the Merchant skill versus a "generic" value
 of 15 will add 10% to that value (so from 40% to 50%, for example).
 
-## Weapons
+# Weapons
 
 Every single PC is going to need at least one weapon. Which one depends on what
 they can carry, wield, and afford. This section goes on to explain weapon stats,

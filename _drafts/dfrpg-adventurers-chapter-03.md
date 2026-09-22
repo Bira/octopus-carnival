@@ -59,7 +59,7 @@ species template is assumed to be (mostly) human.
 
 The cost of a template is the total cost of all of its components.
 
-## Template Components
+# Template Components
 
 Every species template has stat modifiers, advantages, disadvantages, and might
 have features. The stat modifiers apply after you've adjusted your PC's stats
@@ -87,7 +87,7 @@ sections, together with the ones from your profession, which I think it's a big
 improvement over the way core GURPS does it ("just write the template and its
 total cost with your Advantages and remember its components with your brain").
 
-## PC Species
+# PC Species
 
 These are our species templates. All of them cost 20 points except for Cat-Folk,
 which cost 40. As mentioned above, most of their descriptions are well-trod and
@@ -146,10 +146,10 @@ due to their parentage.
 
 **Half-Orcs**: You can't talk about half-orcs without talking about orcs, and
 the orcs in this game are subject to all of the old cliches. There's a group of
-related species known as "Goblin-kin" whom Ordinary Townsfolk view as savage
-brutes, and who discriminate among themselves on the basis of size and blood
-purity. Orcs are a part of this group: the medium-sized, "not-too-stupid" ones
-who bully the others.
+related species known as "Goblin-kin" whom Ordinary Townsfolk view as
+"borderline-civilized" brutes, and who discriminate among themselves on the
+basis of size and blood purity. Orcs are a part of this group: the medium-sized,
+"not-too-stupid" ones who bully the others.
 
 Half-orcs are "the product of generations of inbreeding among the offspring of
 orc rapine". Yikes! This is about as bad as it was back in AD&D or D&D 3e, and
@@ -164,9 +164,27 @@ delvers.
 **Halflings** are so called because they have half the height of a human. This
 makes them tiny (SM -2) and weak compared to a human, but they're very agile and
 very sneaky, in addition to being crack shots with a bow or sling. They're also
-universally gluttonous and kleptomaniac. Unlike kender from Dragonlance, though,
-these halflings know what they're doing when they steal from others. The cliche
-halfling community here is not an idyllic pastoral village, but an organized
-crime family.
+gluttonous and kleptomaniac. Unlike kender from Dragonlance, though, these
+halflings know what they're naturally adept at thievery. The cliche halfling
+community here is not an idyllic pastoral village, but an organized crime
+family.
+
+# Personal Impressions
+
+I don't use most of this chapter in my games at all. I tend to go with versions
+of the species presented here that are free of mandatory psychological
+advantages and IQ penalties. My reference culture is also usually more
+cosmopolitan than the one here, which also removes Social Stigmas and the like.
+
+This does tend to increase template cost. I counteract that by also eliminating
+"small" attribute adjustments like a +1 to ST or DX. You can still say that the
+average member of this species is stronger or more agile than a human, of
+course, but PC delvers are the furthest thing from average. A starting barbarian
+is going to have ST 17 or a wizard IQ 15 no matter what species they are. If
+some of that is from a nonhuman physiology, the final effect and point cost is
+still the same.
+
+
+
 
 [1]: {{ "/2018/10/18/peoples-of-tamriel.html" | absolute_url }}

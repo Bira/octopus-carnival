@@ -63,13 +63,13 @@ bits without ruining them.
 miscellanea. Various ropes, chains, a ladder, and poles in both six- and
 ten-foot varieties.
 
-**Musical Instruments** are mostly for bards, and for anyone else who wants to
-make noise, which requires no skill. There's a "generic" two-handed stringed
+**Musical Instruments** are for bards and for anyone else who wants to make
+noise, which requires no skill. There's a "baseline" two-handed stringed
 instrument which can be anything from an ancient lyre to a modern acoustic
-guitar that's your baseline. Woodwinds are lighter but you can't speak while
-using them. A harp or zither is more expensive but can be played quietly enough
-to not be heard through a door. And if you're more of a bard-barian type horns,
-drums, and bagpipes can be heard for miles!
+guitar. Woodwinds are lighter but you can't speak while using them. A harp or
+zither is more expensive but can be played quietly enough to not be heard
+through a door. And if you're more of a bard-barian type horns, drums, and
+bagpipes can be heard for miles!
 
 **Tools** is a large category that has your crowbars, hammers, saws, pickaxes
 and shovels. It also has a utility machete that's crappy as a weapon but useful
@@ -88,7 +88,7 @@ artificer, smuggler, etc.).
 
 **Adventure-Wear** covers a large set of specialized and somewhat anachronistic
 fashion, like the Delver's Webbing that works like a modern tactical harness
-full of pouches and pockets, or helmet lamps, and potion and scroll belts.
+full of pouches and pockets, or helmet lamps.
 
 **Camping Gear** has alchemical matches, a compass, a timed candle that burns at
 a precise fixed rate, and special rations. Elven rations are very expensive but
@@ -100,7 +100,7 @@ must carry 24 throwing daggers on them, a variety of crossbow accessories, and
 even lamps and lecterns that you can bolt onto your shield.
 
 **Covert Ops and Security** is known as "thief gear" in other games. A very
-large section that includes from your classic set of lockpicks and
+large section that includes everything from your classic set of lockpicks and
 trap-disarming tools to dungeon camouflage and both smoke and flash bombs for
 those who love a good ninja vanish move. It's also where you find stats for
 padlocks, which again are something you will run into in the dungeon more than
