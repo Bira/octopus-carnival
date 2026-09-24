@@ -127,6 +127,8 @@ scenes.
 
 - [Scene 15][35]: Looting the dungeon!
 
+- [Scene 16][36]: Spending our XP!
+
 [1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
@@ -162,3 +164,4 @@ scenes.
 [33]: {{ "/2026/07/26/lphr-scene-14-3.html" | relative_url }}
 [34]: {{ "/2026/08/09/lphr-scene-14-4.html" | relative_url }}
 [35]: {{ "/2026/09/09/lphr-scene-15.html" | relative_url }}
+[36]: {{ "/2026/09/22/lphr-scene-16.html" | relative_url }}
