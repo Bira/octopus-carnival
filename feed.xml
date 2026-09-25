@@ -6,9 +6,202 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 21 Sep 2026 17:44:43 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Sep 2026 17:44:43 +0000</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2026 10:09:44 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:09:44 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Adventurers: Chapter 3, Races</title>
+        <description>&lt;p&gt;Yes, this book still uses the term “Races”, having been written a few years
+before other games finally started getting rid of it. That brings a symptom of
+the main problem I have with this chapter: the options presented here mostly
+follow the cliches presented in older editions of D&amp;amp;D. I imagine they chose this
+because it provided a good and familiar baseline in 2016-2017, but it does mean
+we have to deal with some of the annoying fantasy racism that later games made
+an effort to remove. The text actually does acknowledge some of that racism,
+though that acknoledgment is a bit impaired by the general tongue-in-cheek tone
+in which the super generic implied setting is presented.&lt;/p&gt;
+
+&lt;p&gt;You see, many social traits in GURPS like Appearance and Social Stigma are
+relative. &lt;em&gt;Who&lt;/em&gt; thinks the bard is hot, and &lt;em&gt;who&lt;/em&gt; looks down on the barbarian’s
+foreign ways? When a GURPS GM builds a campaign setting from scratch, they’re
+asked to answer that question by providing a &lt;strong&gt;reference culture&lt;/strong&gt;. That’s the
+dominant culture in the areas where the vast majority of the campaign takes
+place.&lt;/p&gt;
+
+&lt;p&gt;This chapter does not describe this concept, but it does introduce us to a
+reference culture by repeatedly mentioning it in the text and template
+descriptions: that of Ordinary Townsfolk(TM).&lt;/p&gt;
+
+&lt;p&gt;Ordinary Townsfolk are those people who live in Town under the rule of the
+King. They’re human, they very rarely leave Town, and they don’t have good
+opinions about things outside of their daily experience. In other words, they’re
+the opposite of “open-minded” and “cosmopolitan”. Ordinary Townsfolk recognize
+adventuring as a profession, but not a very respectable one. I guess that’s in
+part because delvers will accept “just about anyone”, since Social Stigmas don’t
+apply between PCs. Still, they’re happy to sell stuff to adventurers, who always
+have plenty of money to spend.&lt;/p&gt;
+
+&lt;p&gt;The very first sentence in the actual text of the chapter does state that “race”
+means “species”, so let’s use that term from now on in this post. It goes on to
+say that many nonhuman intelligent species can be found in the world. A lot of
+them show up as the opposition, inhabiting dungeons and other dangerous places:
+orcs, ogres, trolls, and so on. Ordinary Townsfolk consider those
+monsters. There are other species they consider “people”, and whom monsters
+consider enemies. These you can find living in Town, and available as options
+for delver PCs.&lt;/p&gt;
+
+&lt;p&gt;Next, the chapter introduces the concept of &lt;strong&gt;racial templates&lt;/strong&gt; (henceforth
+&lt;strong&gt;species templates&lt;/strong&gt;), which work a bit differently than the professional ones.&lt;/p&gt;
+
+&lt;p&gt;Each template has a fixed cost, which must be paid using the discretionary
+points from your delver’s professional template. Every professional template, as
+we already saw, has a listed point amount for buying advantages and powers. They
+also have 7 points for optional secondary skills, and can gain an extra 5 from
+quirks. You can use these to pay for a species template, which does mean you’ll
+be spending less points on stuff related to your profession. Someone without a
+species template is assumed to be (mostly) human.&lt;/p&gt;
+
+&lt;p&gt;The cost of a template is the total cost of all of its components.&lt;/p&gt;
+
+&lt;h1 id=&quot;template-components&quot;&gt;Template Components&lt;/h1&gt;
+
+&lt;p&gt;Every species template has stat modifiers, advantages, disadvantages, and might
+have features. The stat modifiers apply after you’ve adjusted your PC’s stats
+from their professional template, and modify both the current score and the
+usual maximums. For example, if you have ST+2, you can also buy your ST up to 22
+and not just 20.&lt;/p&gt;
+
+&lt;p&gt;Advantages and disadvantages are shared by all members of that species, whether
+because they’re part of its biology, because they’re part of its dominant
+culture or because they model the prejudices of Ordinary Townsfolk. Features are
+cosmetic details that don’t cost any points.&lt;/p&gt;
+
+&lt;p&gt;This is my second problem with this chapter, flowing right from the first: I’m
+not really a fan of having “cultural” or personality traits be a mandatory part
+of a species template. As I mentioned in &lt;a href=&quot;https://bira.github.io/octopus-carnival/2018/10/18/peoples-of-tamriel.html&quot;&gt;this old post of mine&lt;/a&gt;, I don’t
+want a bigoted asshole who says “all dwarves are greedy, stubborn bastards” to
+be &lt;em&gt;right&lt;/em&gt;. Plus players just love playing exceptional or rebellious members of
+a species that don’t conform to the cliche, and I’d like that to be easy. The
+templates I tend to write for my own campaigns tend to be far more minimalist
+than these, without most attribute adjustments and with no mandatory mental
+traits.&lt;/p&gt;
+
+&lt;p&gt;You write the components of your species template down in the appropriate
+sections, together with the ones from your profession, which I think it’s a big
+improvement over the way core GURPS does it (“just write the template and its
+total cost with your Advantages and remember its components with your brain”).&lt;/p&gt;
+
+&lt;h1 id=&quot;pc-species&quot;&gt;PC Species&lt;/h1&gt;
+
+&lt;p&gt;These are our species templates. All of them cost 20 points except for Cat-Folk,
+which cost 40. As mentioned above, most of their descriptions are well-trod and
+sometimes unfortunate cliches, so please note that I’m paraphrasing the book
+here and not stating my own opinion (which you can find way up there in the
+introductory paragraphs).&lt;/p&gt;
+
+&lt;p&gt;Anyway, here are the species:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cat-Folk&lt;/strong&gt; refer to themselves as cat-boys or cat-girls depending on
+gender. They have human-shaped bodies covered in short fur, feline facial
+features, and prominent cat ears and tail. That gives us a look closer to that
+of the Khajit from Elder Scrolls than to the Mi’quote from Final Fantasy 14.&lt;/p&gt;
+
+&lt;p&gt;Their claws and teeth are natural weapons, they can see really well in the dark,
+they have Catfall, and a bit of Temperature Tolerance from fur. Their
+disadvantages are also cliche cat traits: impulsive, lazy, and with a mild
+phobia of entering water.&lt;/p&gt;
+
+&lt;p&gt;They’re compatible with human armor (the tail can be safely tucked in), and they
+can buy gauntlets and boots that expose their claws but still protect their
+hands and feet at no extra cost.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dwarves&lt;/strong&gt; are pretty much what you’d expect. Short, sturdy, excellent night
+vision, really good at mining and at killing people with axes. Also greedy and
+stubborn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Elves&lt;/strong&gt; represent “green” or “wood” elves with a hands-on approach to
+defending nature. They’re far more approachable than Those Other Elves, which
+are haughty, isolationist, and not statted up for PC use. Elves are a bit taller
+than humans, have the classical pointy ears, and these wood elves have bright
+green hair. Nothing unexpected in their traits here: they’re graceful, pretty,
+have innate Magery, are good at sneaking and shooting bows, and have a sense of
+duty to Nature.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Half-Elves&lt;/strong&gt; inherit elven grace, magical aptitude, and bright hair colors,
+but are a bit more robust thanks to their human parents. They have no duty to
+Nature, but suffer under the cliche where neither humans nor elves like them
+very much.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gnomes&lt;/strong&gt; tend to follow the “tinker gnome” archetype in that they’re very good
+at mechanical skills in addition to being almost as sturdy and cave-adapted as
+dwarves. They’re also extremely curious, and are our first “small” species at SM
+-1.&lt;/p&gt;
+
+&lt;p&gt;A bit of lore: there are rumors of “Hell Gnomes”, a tribe that went bad. Other
+Gnomes claim this term refers to actual demons, but don’t seem comfortable with
+the topic. I had something similar back when I GMed, a gnome cult who went
+around doing evil stuff and saying “Rawr, I’m a monster!”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Half-Ogre&lt;/strong&gt;: The progeny of an ogre and an orc or human, half-ogres are
+smaller than their ogre parents and are just on this side of what Ordinary
+Townsfolk consider “people”. They’re &lt;em&gt;very&lt;/em&gt; strong, tough, and fearless, but
+have an IQ penalty, are considered ugly, and bear a social stigma as “savages”
+due to their parentage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Half-Orcs&lt;/strong&gt;: You can’t talk about half-orcs without talking about orcs, and
+the orcs in this game are subject to all of the old cliches. There’s a group of
+related species known as “Goblin-kin” whom Ordinary Townsfolk view as
+“borderline-civilized” brutes, and who discriminate among themselves on the
+basis of size and blood purity. Orcs are a part of this group: the medium-sized,
+“not-too-stupid” ones who bully the others.&lt;/p&gt;
+
+&lt;p&gt;Half-orcs are “the product of generations of inbreeding among the offspring of
+orc rapine”. Yikes! This is about as bad as it was back in AD&amp;amp;D or D&amp;amp;D 3e, and
+it’s why it’s a good idea to modify or discard the implied setting.&lt;/p&gt;
+
+&lt;p&gt;Anyway, half-orcs are as smart as humans but tougher, with better hearing and
+night vision. Some half-orcs are accepted by orcs and can be found among
+them. The ones who are rejected drift towards human settlements, where they
+suffer the same prejudices as half-ogres and often can only make a living as
+delvers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Halflings&lt;/strong&gt; are so called because they have half the height of a human. This
+makes them tiny (SM -2) and weak compared to a human, but they’re very agile and
+very sneaky, in addition to being crack shots with a bow or sling. They’re also
+gluttonous and kleptomaniac. Unlike kender from Dragonlance, though, these
+halflings know what they’re naturally adept at thievery. The cliche halfling
+community here is not an idyllic pastoral village, but an organized crime
+family.&lt;/p&gt;
+
+&lt;h1 id=&quot;personal-impressions&quot;&gt;Personal Impressions&lt;/h1&gt;
+
+&lt;p&gt;I don’t use most of this chapter in my games at all. I tend to go with versions
+of the species presented here that are free of mandatory psychological
+advantages and IQ penalties. My reference culture is also usually more
+cosmopolitan than the one here, which also removes Social Stigmas and the like.&lt;/p&gt;
+
+&lt;p&gt;This does tend to increase template cost. I counteract that by also eliminating
+“small” attribute adjustments like a +1 to ST or DX. You can still say that the
+average member of this species is stronger or more agile than a human, of
+course, but PC delvers are the furthest thing from average. A starting barbarian
+is going to have ST 17 or a wizard IQ 15 no matter what species they are. If
+some of that is from a nonhuman physiology, the final effect and point cost is
+still the same.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/09/23/dfrpg-adventurers-chapter-03.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/23/dfrpg-adventurers-chapter-03.html</guid>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>gurps</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Wizard</title>
@@ -2089,182 +2282,6 @@ GMs love to exploit to make palaind PCs fall is completely absent here.&lt;/p&gt
         <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/08/07/dfrpg-adventurers-holy-warrior.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/07/dfrpg-adventurers-holy-warrior.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Druid</title>
-        <description>&lt;p&gt;A lot of people call druids “nature priests”, and their mechanics sorta resemble
-the cleric’s, but they’re something else entirely. Druids don’t usually deal
-with gods - they worship Nature directly, and the gifts it grants spring from
-the Earth itself. DFRPG can’t use these terms, apparently, but I can: clerics
-are Divine, druids are Primal.&lt;/p&gt;
-
-&lt;p&gt;Druids cast druidic spells and have access to a power set named Druidic
-Arts. Their powers are less effective inside most dungeons, but they make the
-trek &lt;em&gt;to&lt;/em&gt; the dungeon a lot easier and more survivable.&lt;/p&gt;
-
-&lt;p&gt;Personally, I never played druids in this game, as I tend to favor urban or
-dungeon-based campaigns. I don’t have too many personal impressions to share
-about them other than what I got from reading the entry as I wrote this post.&lt;/p&gt;
-
-&lt;h3 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h3&gt;
-
-&lt;p&gt;Druids start out with ST 11, DX 12, IQ 14, HT 13, and Speed 6. A little less ST
-and a bit more HT than the cleric, but otherwise pretty similar.&lt;/p&gt;
-
-&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
-
-&lt;p&gt;All druids have Green Thumb 1 and Power Investiture (Druidic) 3. The first one
-is a Talent boosting skills that involve dealing with plants. It’s also a
-prerequisite for their version of Power Investiture.&lt;/p&gt;
-
-&lt;p&gt;The discretionary list has the usual stat boosts, some of the same wilderness
-survival boosts the Barbarian gets, and advantages that can enhance your
-interactions with animals, plants, or spirits.&lt;/p&gt;
-
-&lt;p&gt;You can also spend these points on Druidic Arts powers (see below).&lt;/p&gt;
-
-&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;Two separate discretionary lists here, one dealing with your mystical vows as a
-defender of the wilderness, and the other dealing with being looked upon by
-“urbanites” as an unwashed hippy with an unreasonable fear of fire and
-machinery. Mix and match as desired.&lt;/p&gt;
-
-&lt;p&gt;These vows notably &lt;em&gt;don’t&lt;/em&gt; include avoiding equipment made out of metal, which
-would be a very bad idea in this game. But you can choose to have a vow to
-follow a vegetarian diet (which raises your cost of living) or never sleep
-indoors.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;Your melee skill choices are Spear, Staff, or a weapon-and-shield setup similar
-to the cleric’s. Ranged choices are throwing your melee weapon, or using
-something quirkier like a blowpipe or a set of bolas. The druid chooses to leave
-archery to the Scout. Your skill will end up being 15 or 14 like the Cleric’s
-and the other professions for whom combat is secondary.&lt;/p&gt;
-
-&lt;p&gt;Druids also get a lot of skills for handling animals and plants and surviving in
-the wilderness, knowing the hidden lore of spirits, fairies or elementals. They
-also know the two druid-only skills (see below) and can also choose to brush up
-on their diplomacy, first aid… or poisons.&lt;/p&gt;
-
-&lt;h2 id=&quot;spells&quot;&gt;Spells&lt;/h2&gt;
-
-&lt;p&gt;Druids start with 20 druidic spells. Druidic spellcasting works similarly to the
-clerical version. There’s a druid-specific spell list where the only
-prerequisites are a minimum level of Power Investiture (Druidic). Spells cost
-FP, and druids get exclusive access to a lot of animal-, plant- and
-weather-affecting spells. When a spell also exists in other power sources,
-druids might get earlier access to it as well. Spells are dependent on Nature’s
-Strength (see below).&lt;/p&gt;
-
-&lt;h2 id=&quot;special-druidic-traits&quot;&gt;Special Druidic Traits&lt;/h2&gt;
-
-&lt;p&gt;Druids can improve FP by 1/2 of their HT instead of 1/3. So a Druid with HT 14
-can have up to 7 extra FP. They also get exclusive access to two skills:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Esoteric Medicine (Druidic)&lt;/strong&gt; is a lot like the Holy version, but doesn’t
-depend on environmental factors. As long as you have access to its special
-healer’s kit, you can use this in place of First Aid or Surgery.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Herb Lore&lt;/strong&gt; lets you make magical concoctions using using herbs found in
-nature. You normally need to pay for raw materials, but between adventures you
-can make a subset of the available options (including healing potions) for
-free by finding the herbs yourself. You can also use this instead of Alchemy
-to identify and deal with herbal concoctions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In addition to the esoteric skills and druidic spellcasting (see above), Power
-Investiture (Druidic) also lets you learn the Druidic Arts. These are intrinsinc
-powers that don’t cost FP. PI (Druidic) gives a bonus to any rolls associated
-with them.&lt;/p&gt;
-
-&lt;p&gt;However, both these powers and druidic spells draw their power from
-Nature. Nature is stronger in areas of unspoiled wilderness, and gets weaker the
-more “built-up” or polluted the surrounding environment is. And the weaker it
-gets, the harder it is to use these powers.&lt;/p&gt;
-
-&lt;p&gt;Zones like a rural area or a road through light woods aren’t “bad” enough to
-give a penalty, but any dungeon that isn’t a natural cave will give you a -3. If
-you’re spending a lot of time in those and glossing over the trek, you won’t be
-happy playing a druid. If, on the other hand, the journey is the point or your
-dungeon is the Underdark, the reverse applies!&lt;/p&gt;
-
-&lt;h3 id=&quot;druidic-arts&quot;&gt;Druidic Arts&lt;/h3&gt;
-
-&lt;p&gt;Despite being influenced by Nature’s Strength and your level of Power
-Investiture, Druidic Arts cost no FP and are not considered magic. This means
-stuff like Dispel Magic and Magic Resistance doesn’t affect them.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Beast Flight&lt;/strong&gt; (14 points): turn into a small bird or bat to fly at twice
-your Move. It takes 10 seconds of concentration to switch between forms, and
-your beast form is both tiny and weak, with Size Modifier -7, ST 1, and 1
-HP. Injury is proportional, so taking 1 HP of damage in beast form means
-you’ll be at 0 HP when you return to your natural form!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Control Animal&lt;/strong&gt; (33 points): Roll a Quick Contest of your IQ vs. the target
-animal’s Will. Victory means you can order them around like they were a
-trained animal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Nature’s Shield&lt;/strong&gt; (7 or 14 points): gives 1 or 2 DR against “elemental”
-damage, whether it’s from the environment or from spells.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Plant Empathy&lt;/strong&gt; (5 points): You can intuit the general state of plants. If
-they’re sentient enough to communicate, they will react well to you and you
-can use your social skills on them as if they were people.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Speak with Animals&lt;/strong&gt; (23 points) and &lt;strong&gt;Speak With Plants&lt;/strong&gt; (14 points): Like
-it says on the tin. Unlike the bard version, you don’t need to sing.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
-
-&lt;p&gt;This section is mainly about spell choices, with sample “beastmaster”,
-“elementalist” and “green druid” sets. Druids rarely spend their quirk points on
-extra gear, and instead go for more spells or abilities.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
-
-&lt;p&gt;DFRPG druids, as written in the core book, cannot cast healing spells and cannot
-shapeshift into big animal bruisers like tigers and bears. The spells and
-advantages that would let them do this in GURPS are pretty finicky and
-high-maintenance for the GM and players, and so were omitted.&lt;/p&gt;
-
-&lt;p&gt;You can approach these abilities from a different angle, though. Your spell list
-includes Beast Possesion, Beast Summoning, and even Create Animal, so you can
-call or conjure up a bear and then possess it. Someone will need to look after
-your original body, though. You’re more Granny Weatherwax than Sun Wukong.&lt;/p&gt;
-
-&lt;p&gt;And while the cleric has all the healing spells, your Esoteric Healing works
-anywhere, and you have a much easier (and cheaper) time making healing potions.&lt;/p&gt;
-
-&lt;h2 id=&quot;next-up&quot;&gt;Next up&lt;/h2&gt;
-
-&lt;p&gt;Holy Warriors!&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/08/03/dfrpg-adventurers-druid.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/03/dfrpg-adventurers-druid.html</guid>
         
         <category>lets-read</category>
         
