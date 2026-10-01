@@ -38,8 +38,8 @@ and Pathfinder. There are 50 of these chonky disks to the pound no matter what
 they're made of. Unlike D&D of PF coins however, their values here increase by a
 factor of 20 as you climb up the hierarchy. So if a copper coin is $1, a silver
 coin is $20, and a gold coin is $400. Gold coins are also valuable and soft
-enough that they're commonly cut into halves, quarters or eights. Gold packs a
-lot more value into the same weight, which is why delvers love it so much.
+enough that they're commonly cut into halves, quarters or eights. Delvers love
+gold because it packs the most value into the least weight.
 
 There are coins made of weirder metals with in-between values, but those are not
 in this book. You might find them as treasure, though.
@@ -91,7 +91,7 @@ and then gives us the big weapon tables.
 
 This is where the character's Damage stat comes into play. It's derived from
 Strength and includes two different dice expressions, Thrust and Swing, which is
-also the mane of what kind of attack they're for. The two start out pretty close
+also the name of what kind of attack they're for. The two start out pretty close
 but Swing increases much faster as you get stronger, to represent the benefits
 of the lever effect. A weapon's damage stat is expressed in terms of the
 wielder's Thrust (thr) and Swing (sw) values, combined with a damage type.
@@ -160,12 +160,14 @@ The Ranged Weapon Table has everything you expect and some things you don't.
   longer to reload.
 
 - Slings are hard to use but they do damage based on the character's Swing
-  instead of Thrust.
+  instead of Thrust. Their ammo is pretty cheap.
 
 - We have many types of thrown weapon: spears, axes, knives, shuriken, darts,
   even boomerangs. Some of these can also be used in melee and appear on those
   tables as well. They tend to have shorter ranges than the dedicated ranged
-  stuff.
+  stuff, and their "ammo" is really expensive since each "shot" is a whole new
+  weapon. But their damage can be pretty good, since some of them use Swing to
+  determine damage.
 
 - Spear-throwers are devices that extend the range of thrown darts and spears
   and let their damage use the PC's Swing value instead of their Thrust.
@@ -175,7 +177,7 @@ The Ranged Weapon Table has everything you expect and some things you don't.
 There's a box-out ammunition table here too, containing blowpipe darts, arrows,
 crossbow bolts, and several options for slings: unshaped rocks (free, crappy),
 shaped rocks, and lead pellets (more expensive, better). There's a type of
-crossbow called a Prodd that can also fire lead pellets instead of bolts.
+crossbow called a Prodd that fires lead pellets instead of bolts.
 
 ## Weapon Modifiers
 
@@ -199,7 +201,7 @@ the weapon's base price.
   your ranged bard.
 
 - **Climber's** weapons have a design that let you climb with the weapon ready,
-  and give +1 to Climber's skills. Applies to hatchets and other similar
+  and give +1 to climbing rolls. Applies to hatchets and other similar
   weapons. I never used this, but Lara Croft swears by them.
 
 - **Dwarven**: Remember those unbalanced weapons that don't let you attack and
@@ -207,7 +209,7 @@ the weapon's base price.
   solves this problem and makes them just as nimble as a sword. Big weapons that
   become unready after an attack still do that, though.
 
-- **Elven**: Applies to bows (not crossbows, the ugly things). Lets you treat
+- **Elven**: Applies to bows (not crossbows, those ugly things). Lets you treat
   the bow's rated ST as 2 points higher for calculating damage and range. This
   means a ST 11 character could use a ST 13 elven bow normally. Expensive, but
   your scouts will love it.
@@ -225,7 +227,7 @@ the weapon's base price.
   rules come into effect.
 
 - **Ornate** weapons are blinged out, and can improve reactions from buyers and
-  other people who are impressed by the ostentation.
+  other people who are impressed by ostentation.
 
 - **Silver** weapons are useful for exploiting certain monster
   vulnerabilities. Solid silver is best for that, but also results in a fragile

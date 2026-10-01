@@ -52,6 +52,10 @@ number of people have heard about it.
   issues with, starting with the use of the word "race". It's not egregiously
   bad but its cliches didn't age very well between 2017 and today.
 
+- Chapter 7: Equipment is next because we do a whirlwind tour of 4, 5 and 6
+  above.
+  - [Part 1: Money and Weapons][18]
+
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
 [3]: {{ "/2026/07/07/dfrpg-adventurers-basics.html" | relative_url }}
@@ -69,3 +73,4 @@ number of people have heard about it.
 [15]: {{ "/2026/09/15/dfrpg-adventurers-thief.html" | relative_url }}
 [16]: {{ "/2026/09/21/dfrpg-adventurers-wizard.html" | relative_url }}
 [17]: {{ "/2026/09/23/dfrpg-adventurers-chapter-03.html" | relative_url }}
+[18]: {{ "/2026/10/01/dfrpg-adventurers-chapter-07.html" | relative_url }}
