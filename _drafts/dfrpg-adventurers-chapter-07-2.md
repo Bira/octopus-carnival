@@ -117,8 +117,8 @@ and also for smaller pieces covering the head, arms, legs, hands, feet, and body
 
 If you're looking for simplicity you can just look at the "Full Suit" column and
 call it a day. Min-maxers can shop for piecewise armor and cut some corners for
-the parts they don't think will be hit often. One-sleeved jackets are all the
-rage these days and who needs helmets anyway, amirite?
+the parts they don't think will be hit often. One-sleeved jackets and backless
+breastplates are all the rage these days! And who needs helmets anyway, amirite?
 
 Here's a brief summary of the armor table:
 
@@ -202,3 +202,8 @@ works even without mana, and it _stacks_ with the enchantment, so there's that.
 Thieves' armor cannot also be Ornate, of course, and the two material modifiers
 are mutually exclusive. They do stack with everything else, though, and the
 weights are multiplied together as with shields.
+
+##  Impressions
+
+These armor rules fall right into my "Goldilocks" zone. The Basic Set ones are
+too simple, the Low-Tech ones too complicated, these are Just Right.
