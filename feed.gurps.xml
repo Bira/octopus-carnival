@@ -5,9 +5,45 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Oct 2026 11:20:18 +0000</pubDate>
-    <lastBuildDate>Mon, 05 Oct 2026 11:20:18 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Oct 2026 17:07:30 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:07:30 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Some error fixes for past posts</title>
+        <description>&lt;p&gt;It has come to my attention that I’ve been less than fastidious about proper
+linking and formatting of my posts. Or, in other words, I’ve been mostly moving
+them from my “drafts” folder to the “public posts” one and then forgetting all
+about them without checking for bugs.&lt;/p&gt;
+
+&lt;p&gt;This post here is a notice that a bunch of these bugs have been fixed.&lt;/p&gt;
+
+&lt;p&gt;Every post in both my &lt;a href=&quot;/octopus-carnival/projects/hells-rebels/&quot;&gt;Let’s Read&lt;/a&gt; and &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Let’s Play&lt;/a&gt; of Hell’s Rebels
+that contained a broken link to their respective project page now has the
+correct link.&lt;/p&gt;
+
+&lt;p&gt;The very long loot ledger from &lt;a href=&quot;/octopus-carnival/2026/09/09/lphr-scene-15.html&quot;&gt;Adventure 01, Scene 15&lt;/a&gt; contained some
+characters that Markdown interpreted as a table, and as a result looked all
+wonky. These characters have been removed.&lt;/p&gt;
+
+&lt;p&gt;The post for &lt;a href=&quot;/octopus-carnival/2026/09/22/lphr-scene-16.html&quot;&gt;Adventure 01, Scene 16&lt;/a&gt; wasn’t showing up at all because its
+filename was incorrect. This has been fixed.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/10/06/fix-notifications.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/06/fix-notifications.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>lets-play</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Time for shopping!</title>
@@ -49,18 +85,8 @@ arrows. $6010, 0.25kg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Allegretto: Balanced Elven Short Bow-Harp. thr imp, Acc 2, Range x10/x15. ST
-10 but user fires as ST 12. 9 FP as a power item. |$1300, 1.5kg|.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Fine Cornucopia Quiver: Produces Fine arrows.&lt;/td&gt;
-          &lt;td&gt;$6010, 0.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+10 but user fires as ST 12. 9 FP as a power item. $1300, 1.5kg.&lt;/li&gt;
+  &lt;li&gt;Fine Cornucopia Quiver: Produces Fine arrows. $6010, 0.5kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;janias-new-equipment&quot;&gt;Jania’s new Equipment&lt;/h1&gt;
@@ -73,7 +99,7 @@ Penetrating Weapon enchantment to this one, for $5000.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;The Needle: Fine, Balanced smallsword enchanted with Puissance 1. 14 FP as a
-Power Item. |$8200, 0.75kg|.&lt;/li&gt;
+Power Item. $8200, 0.75kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;urists-new-equipment&quot;&gt;Urist’s new Equipment&lt;/h1&gt;
@@ -83,7 +109,7 @@ for him to act as a Power Item.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;High Holy Symbol: +2 to Exorcism, Turning, and other appropriate rolls. 8 FP
-as a Power Item. |$1000, 0.5kg|.&lt;/li&gt;
+as a Power Item. $1000, 0.5kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;total-expenditure&quot;&gt;Total Expenditure&lt;/h1&gt;
@@ -600,6 +626,133 @@ still the same.&lt;/p&gt;
       </item>
     
       <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Post-Adventure 01 Character Advancement</title>
+        <description>&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+
+&lt;p&gt;We’re officially done with Adventure 01. Its capstone dungeon is cleared and
+looted, and Barzilai has lost a large number of his loyal followers, including
+an important lieutenant. He also definitely knows &lt;em&gt;someone&lt;/em&gt; out there is
+engaging in organized resistance against him.&lt;/p&gt;
+
+&lt;p&gt;But for now, our heroes can sit back and spend the hard-earned points they got
+at the end of the last adventure. Everyone got 14 points, and some of them had
+been saving up even before. Everyone might be able to afford some big-ticket
+advancements!&lt;/p&gt;
+
+&lt;p&gt;And not just that, between adventures is a very good time for our player (me) to
+stop and reassess our character builds, and “refactor” them if they aren’t
+working well or aren’t fun. And it’s also a very good time for our GM (also me)
+to maybe introduce some house rules that would have been potentially disruptive
+to implement mid-adventure.&lt;/p&gt;
+
+&lt;h1 id=&quot;gm-new-house-rule-time&quot;&gt;[GM] New House Rule Time!&lt;/h1&gt;
+
+&lt;p&gt;There’s a few rules I’d really like to try here. I’ve made posts about them all
+before, so I’m going to link them here.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2022/08/03/merging-weapon-skills.html&quot;&gt;Merging Weapon Skills&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2022/08/20/merging-shield-skills.html&quot;&gt;Merging Shield Skills&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/octopus-carnival/2026/05/22/unarmed-combat.html&quot;&gt;Merging Unarmed Combat Skills&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These is going to change our PC’s character sheets, and I even already planned
+out how this would happen &lt;a href=&quot;/octopus-carnival/2026/05/31/hells-rebels-pcs-house-style.md&quot;&gt;recently&lt;/a&gt;, so what’s left to do here is apply
+those changes. Any points saved by the changes go into the unspent pile.&lt;/p&gt;
+
+&lt;h1 id=&quot;player-advancing-our-heroes&quot;&gt;[Player] Advancing our heroes&lt;/h1&gt;
+
+&lt;p&gt;We’ll go over them one by one in alphabetical order, and detailing both the
+refactorings and the advancement for each of them.&lt;/p&gt;
+
+&lt;h2 id=&quot;arcturus-pankrator-knight-of-the-deep&quot;&gt;Arcturus Pankrator, Knight of the Deep&lt;/h2&gt;
+
+&lt;p&gt;Our boy Art ends up with the following new combat skills from the new house
+rule:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Grappling (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Knife (A) DX+1 {4} - 16&lt;/li&gt;
+  &lt;li&gt;Unarmed Striking (A) DX+2 {8} - 17&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This frees up 4 points for him, meaning he has a total of 18 to spend. That’s
+not enough for Extra Attack or Unarmed Master, which are the big ticket items
+I’m after. He just got a pretty cool suit of armor so I’m betting that he won’t
+need any more DR from Tough Skin or other powers, either.&lt;/p&gt;
+
+&lt;p&gt;So I think I’m just going to hold until I do get those 25 points, and then I’m
+getting Extra Attack 1.&lt;/p&gt;
+
+&lt;h1 id=&quot;jade-irinka-the-sixth-raven&quot;&gt;Jade Irinka, The Sixth Raven&lt;/h1&gt;
+
+&lt;p&gt;Jade’s Saber skill changes its name to Fencing and becomes a little more
+conceptually broad, but otherwise remains the same, as does her number of
+unspent points. However, she has 20 of those!&lt;/p&gt;
+
+&lt;p&gt;There’s a lot of things I could do with this, but I think I’m going to
+be straightforward and get her 2 points of ST, bringing it up to 13. That lets
+her do a lot more damage with her backsword swings, potentially wear heavier
+armor, and gives her a tiny bit more HP.&lt;/p&gt;
+
+&lt;h1 id=&quot;jania-moonshadow-the-phantom-thief&quot;&gt;Jania Moonshadow, the Phantom Thief&lt;/h1&gt;
+
+&lt;p&gt;Jania has 17 points, and I think we’re way overdue for that third level of
+Spell-Thief Expertise for her. That’s 11 points, and it will make most of her
+spells hit that magic skill level of 15. The one exception is Great Haste, which
+remains at 14, but we can remedy that by spending 1 extra point.&lt;/p&gt;
+
+&lt;p&gt;4 of the remaining 5 points to go buying Observation at 15, and the last one
+goes to buying the Weapon Channeling perk (first presented in this blog &lt;a href=&quot;/octopus-carnival/gurps/2016/10/20/characters-mystic-knight.html&quot;&gt;way
+back in 2016&lt;/a&gt;). This lets her use weapons enchanted with Staff, which is good
+because we want to replace her cane with a proper sword in the next post.&lt;/p&gt;
+
+&lt;h1 id=&quot;rosalia-savory-the-mysterious-satirist&quot;&gt;Rosalia Savory, the Mysterious Satirist&lt;/h1&gt;
+
+&lt;p&gt;Rosalia’s Saber skill changes its name to Fencing, and before I spend her 14
+free points I’d like to refactor her a little.&lt;/p&gt;
+
+&lt;p&gt;Right now I’m setting her up to be good with guns because that’s what I had done
+in a previous solo game, but I don’t think I want to do that here after
+all. In the last delve she could only fire that gun once, and she missed. While
+there are several solutions to the rate-of-fire problem, I think I’m going to
+reserve that for Jade, and go in a different direction with Rosalia. I’m going
+to make her an archer instead.&lt;/p&gt;
+
+&lt;p&gt;So if we remove her Off-Hand Weapon Training perk and her Gunslinger (One-Handed
+Guns) advantage, we free up 16 points. Her Guns (Pistol) skill at 16 becomes Bow
+at 15. We’re left with 30 free points. 20 of those go towards Heroic Archer, 4
+go to bringing Bow back to 16. 3 of the remaining 6 points go to increasing
+Singing to 18. We’ll keep the other 3 in reserve for now.&lt;/p&gt;
+
+&lt;h1 id=&quot;urist-stortebeker-the-last-archivist&quot;&gt;Urist Stortebeker, The Last Archivist&lt;/h1&gt;
+
+&lt;p&gt;The skill changes don’t affect Urist’s skills in any way that needs renaming or
+rewriting. I’ll spend 4 points to increase his Axe/Mace to 15, and another 4 to
+increase Shield. The remaining 6 go to buy 2 points of Energy Reserve.&lt;/p&gt;
+
+&lt;h1 id=&quot;coming-up-next&quot;&gt;Coming up next!&lt;/h1&gt;
+
+&lt;p&gt;We have $38K in our party’s treasury, so I think they deserve some equipment
+upgrades.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/09/22/lphr-scene-16.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/22/lphr-scene-16.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-play</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Let&apos;s Read DFRPG Adventurers: Wizard</title>
         <description>&lt;p&gt;The descriptive text on the book paints a picture of the wizard as someone who’s
 very smug about being smart and about wielding magic that doesn’t rely on fickle
@@ -924,7 +1077,7 @@ time becoming a Swashbuckler than almost everyone else.&lt;/p&gt;
     
       <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Adventure 01, Scene 15</title>
-        <description>&lt;p&gt;This post is part of &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels.html&quot;&gt;my solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;This post is part of &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;my solo Hell’s Rebels campaign&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
 
@@ -1050,9 +1203,10 @@ frame. Total fee: $1500 (3 gold, 15 silver).&lt;/p&gt;
 &lt;h1 id=&quot;player--gm-detailed-loot-ledger&quot;&gt;[Player &amp;amp; GM] Detailed Loot Ledger&lt;/h1&gt;
 
 &lt;p&gt;This goes over each room in the dungeon that has treasure in it, and lists the
-treasure in detail. The list is formatted for both human readability and for
-consumption by a simple script I hand-coded to tally costs and weights, which is
-why you can see those big numbers in the previous section.&lt;/p&gt;
+treasure in detail. The list is formatted for human readability. I had some
+extra characters here that also made it readable to a script I wrote for
+tallying up costs and weights, but my blog software turned those into
+hard-to-read tables so I removed them.&lt;/p&gt;
 
 &lt;p&gt;We start from the entrance to the Phantasmagorium level (rooms E1 to E10), and
 then go through the Monastery level (rooms F1 to F7.&lt;/p&gt;
@@ -1063,28 +1217,8 @@ then go through the Monastery level (rooms F1 to F7.&lt;/p&gt;
 to be weaker than this, but I thought hey, why not go all in?&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;4 x Silver Coin:&lt;/td&gt;
-          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Ring of Swimming: Grants Amphibious but &lt;em&gt;not&lt;/em&gt; Gills while worn.&lt;/td&gt;
-          &lt;td&gt;$25000, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;4 x Silver Coin: $20, 0.01kg.&lt;/li&gt;
+  &lt;li&gt;Ring of Swimming: Grants Amphibious but &lt;em&gt;not&lt;/em&gt; Gills while worn. $25000, 0kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-e4&quot;&gt;Room E4&lt;/h2&gt;
@@ -1093,77 +1227,17 @@ to be weaker than this, but I thought hey, why not go all in?&lt;/p&gt;
 scrolls have already been looted, the rest is being taken now.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Gilded souvenir medal:&lt;/td&gt;
-          &lt;td&gt;$250, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;19 x Silver Coin:&lt;/td&gt;
-          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
-          &lt;td&gt;. (total $380, 0.19kg)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Scroll Belt: 10 waterproof compartments for scrolls.&lt;/td&gt;
-          &lt;td&gt;$60, 0.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Gilded souvenir medal: $250, 0kg.&lt;/li&gt;
+  &lt;li&gt;19 x Silver Coin: $20, 0.01kg. (total $380, 0.19kg)&lt;/li&gt;
+  &lt;li&gt;1 x Scroll Belt: 10 waterproof compartments for scrolls. $60, 0.5kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;The scrolls are all universal and charged:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Scroll of Panic: 1m radius. Universal, charged.&lt;/td&gt;
-          &lt;td&gt;$400, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Scroll of Bravery: 2m radius. Universal, charged.&lt;/td&gt;
-          &lt;td&gt;$400, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Scroll of Curse: 1 point. Universal, charged.&lt;/td&gt;
-          &lt;td&gt;$300, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Scroll of Panic: 1m radius. Universal, charged. $400, 0kg.&lt;/li&gt;
+  &lt;li&gt;1 x Scroll of Bravery: 2m radius. Universal, charged. $400, 0kg.&lt;/li&gt;
+  &lt;li&gt;1 x Scroll of Curse: 1 point. Universal, charged. $300, 0kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;There was also a scroll of Deathtouch (2d, $200) but it has already been used by
@@ -1172,17 +1246,7 @@ Jania.&lt;/p&gt;
 &lt;h2 id=&quot;room-e7&quot;&gt;Room E7&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Alabaster Snake Eye:&lt;/td&gt;
-          &lt;td&gt;$1500, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Alabaster Snake Eye: $1500, 0kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-e8&quot;&gt;Room E8&lt;/h2&gt;
@@ -1191,17 +1255,7 @@ Jania.&lt;/p&gt;
 completeness’ sake.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;2 x Victocora Signet Ring:&lt;/td&gt;
-          &lt;td&gt;$750, 0.1kg&lt;/td&gt;
-          &lt;td&gt;. (total $1500, 0.2kg)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;2 x Victocora Signet Ring: $750, 0.1kg. (total $1500, 0.2kg)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-e9&quot;&gt;Room E9&lt;/h2&gt;
@@ -1210,90 +1264,20 @@ completeness’ sake.&lt;/p&gt;
 test, and so find everything.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Bottle of lead-based ink:&lt;/td&gt;
-          &lt;td&gt;$500, 0.25kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;5 x Miniature ivory doors:&lt;/td&gt;
-          &lt;td&gt;$50, 0.01kg&lt;/td&gt;
-          &lt;td&gt;. (total $250, 0.05kg)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Roll of copper Wire:&lt;/td&gt;
-          &lt;td&gt;$250, 4kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;12 x Silver Coin:&lt;/td&gt;
-          &lt;td&gt;$20, 0.01kg&lt;/td&gt;
-          &lt;td&gt;. (total $240, 0.12kg)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Diamond:&lt;/td&gt;
-          &lt;td&gt;$1000, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Bottle of lead-based ink: $500, 0.25kg.&lt;/li&gt;
+  &lt;li&gt;5 x Miniature ivory doors: $50, 0.01kg. (total $250, 0.05kg)&lt;/li&gt;
+  &lt;li&gt;1 x Roll of copper Wire: $250, 4kg.&lt;/li&gt;
+  &lt;li&gt;12 x Silver Coin: $20, 0.01kg. (total $240, 0.12kg)&lt;/li&gt;
+  &lt;li&gt;1 x Diamond: $1000, 0kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Azvernathy’s belongings were also left here when he was imprisoned on E10.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Balanced Dwarven Mace: enchanted with Puissance 1.&lt;/td&gt;
-          &lt;td&gt;$5450, 2.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Medium Shield:&lt;/td&gt;
-          &lt;td&gt;$80, 7.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Balanced Dwarven Mace: enchanted with Puissance 1. $5450, 2.5kg.&lt;/li&gt;
+  &lt;li&gt;1 x Medium Shield: $80, 7.5kg.&lt;/li&gt;
   &lt;li&gt;1 x Suit of Armor: DR 6 on body, DR 2 on limbs and extremities, no
-helmet. Lighten 1 and Fortify 1. |$4674, 11.7kg|.&lt;/li&gt;
+helmet. Lighten 1 and Fortify 1. $4674, 11.7kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-e10&quot;&gt;Room E10&lt;/h2&gt;
@@ -1305,106 +1289,34 @@ treasure on his person as the Freedom Fighters escort him away.&lt;/p&gt;
 but we didn’t need it because Urist already knew the trick.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Book: This is an ornate tome sacred to the dead god Aroden.&lt;/td&gt;
-          &lt;td&gt;$1000, 6kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;1 x Book: This is an ornate tome sacred to the dead god Aroden. $1000, 6kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-f1-the-sacred-archive&quot;&gt;Room F1: The Sacred Archive&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Miscellaneous Books:&lt;/td&gt;
-          &lt;td&gt;$2000, 30kg.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;Miscellaneous Books: $2000, 30kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Bookplate of Recall: Metal plate with space to write the owner’s name. When
 glued to the inside cover of a book it allows the owner to summon it to their
-hand once a day. |$10000, 0.01kg|.&lt;/p&gt;
+hand once a day. $10000, 0.01kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Elixir of Water Breathing. Breathe water for 1d hours.&lt;/td&gt;
-          &lt;td&gt;$600, 0.25kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;1 x Elixir of Water Breathing. Breathe water for 1d hours. $600, 0.25kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Paut: Recovers 4 FP lost to magic.&lt;/td&gt;
-          &lt;td&gt;$135, 0.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;1 x Paut: Recovers 4 FP lost to magic. $135, 0.5kg.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;2 x Scroll of Analyze Magic: Universal, charged. |$800, 0kg|. (total $1600,
+  &lt;li&gt;2 x Scroll of Analyze Magic: Universal, charged. $800, 0kg. (total $1600,
 0kg)&lt;/li&gt;
   &lt;li&gt;1 x Scroll Silence: Affects a 3m-wide area for 1 minute. Universal,
-charged. |$600, 0kg|.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Silver Magnifying Glass:&lt;/td&gt;
-          &lt;td&gt;$1500, 0.25kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Owl-shaped Platinum Letter Opener:&lt;/td&gt;
-          &lt;td&gt;$800, 0.01kg&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Ivory and Gold Bookmark:&lt;/td&gt;
-          &lt;td&gt;$200, 0kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;10 x Gilded Page:&lt;/td&gt;
-          &lt;td&gt;$100, 0kg&lt;/td&gt;
-          &lt;td&gt;. (total $1000, 0.0kg)&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+charged. $600, 0kg.&lt;/li&gt;
+  &lt;li&gt;1 x Silver Magnifying Glass: $1500, 0.25kg.&lt;/li&gt;
+  &lt;li&gt;1 x Owl-shaped Platinum Letter Opener: $800, 0.01kg&lt;/li&gt;
+  &lt;li&gt;1 x Ivory and Gold Bookmark: $200, 0kg.&lt;/li&gt;
+  &lt;li&gt;10 x Gilded Page: $100, 0kg. (total $1000, 0.0kg)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-f4-artifact-recovery&quot;&gt;Room F4: Artifact Recovery&lt;/h2&gt;
@@ -1417,54 +1329,24 @@ let’s replace it with a dose of Paut.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Ruined Cubic Gate: Lost its magic but still worth money as a
-collectible. |$30000, 1kg|.&lt;/p&gt;
+collectible. $30000, 1kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Tome: +1 to Hidden Lore (Magic Items).&lt;/td&gt;
-          &lt;td&gt;$500, 6kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;Tome: +1 to Hidden Lore (Magic Items). $500, 6kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Silver and mother-of-pearl ink pen:&lt;/td&gt;
-          &lt;td&gt;$2000, 0.01kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;Silver and mother-of-pearl ink pen: $2000, 0.01kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Platinum disc depicting a leering angel:&lt;/td&gt;
-          &lt;td&gt;$1000, 0.01kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;Platinum disc depicting a leering angel: $1000, 0.01kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;1 x Paut: Recovers 4 FP lost to magic.&lt;/td&gt;
-          &lt;td&gt;$135, 0.5kg&lt;/td&gt;
-          &lt;td&gt;.&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+    &lt;p&gt;1 x Paut: Recovers 4 FP lost to magic. $135, 0.5kg.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Headband of Strengthening Will +1 : Bronze circlet that grants +1 Will when
-worn |$20035, 0.25kg|.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Headband of Strengthening Will +1 : Bronze circlet that grants +1 Will when
+worn $20035, 0.25kg.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-f6-common-room&quot;&gt;Room F6: Common Room&lt;/h2&gt;
@@ -1474,16 +1356,7 @@ worth selling to an interested foreign collector. The dead redactors don’t hav
 anything of value.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;History books:&lt;/td&gt;
-          &lt;td&gt;$9000, 7.5kg&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
-  &lt;/li&gt;
+  &lt;li&gt;History books: $9000, 7.5kg&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;room-f7-meditation-garden&quot;&gt;Room F7: Meditation Garden&lt;/h2&gt;
@@ -1508,37 +1381,19 @@ home-grown tallying scripts:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Soul Tomes: +4 to History or Area Knowledge rolls about Kintargo and Ravounel
-if consulted. |$16000, 10kg|.&lt;/p&gt;
+if consulted. $16000, 10kg.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Nox’s Armor: DR 7 to the front of the body, 4/2 everywhere else except the
-head. |$5425, 13.5kg|.&lt;/p&gt;
+head. $5425, 13.5kg.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;table&gt;
-      &lt;tbody&gt;
-        &lt;tr&gt;
-          &lt;td&gt;Belt pouch.&lt;/td&gt;
-          &lt;td&gt;$10, 0.1kg&lt;/td&gt;
-        &lt;/tr&gt;
-      &lt;/tbody&gt;
-    &lt;/table&gt;
+  &lt;li&gt;Belt pouch. $10, 0.1kg
     &lt;ul&gt;
-      &lt;li&gt;
-        &lt;table&gt;
-          &lt;tbody&gt;
-            &lt;tr&gt;
-              &lt;td&gt;20 x gold coin.&lt;/td&gt;
-              &lt;td&gt;$400, 0.01kg&lt;/td&gt;
-              &lt;td&gt;(total $8000, 0.20kg)&lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/tbody&gt;
-        &lt;/table&gt;
-      &lt;/li&gt;
+      &lt;li&gt;20 x gold coin. $400, 0.01kg (total $8000, 0.20kg)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Dwarven Dueling Glaive: Damage sw+2 cut (Reach 1,2) or thr+3 imp (Reach
-1,2). |$400, 3kg|.&lt;/li&gt;
+1,2). $400, 3kg.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Nox actually used a different suit of armor during the fight with DR 6/4 all
@@ -1981,411 +1836,6 @@ the Scout.&lt;/p&gt;
         <category>gurps</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DFRPG Adventurers: Martial Artist</title>
-        <description>&lt;p&gt;Generally speaking, every delver is a martial artist. The amount of points even
-a wizard puts into weapon skills would easily make them black belts or the
-equivalent in real life. If you want to narrow things down a bit, the Knight and
-Swashbuckler are still definitely martial artists, because they dedicate a large
-part of their lives to studying a formal system of fighting, and their skill at
-it would make them legendary if they were real people.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This&lt;/em&gt; Martial Artist however, is the kind who graduated from an ascetic
-monastery in a faraway land or perhaps from a local mystical sect. Sure, they’re
-better at unarmed combat than the other delvers, but the important thing is that
-they learned how to cultivate their inner strength through special exercises and
-meditation, and they can use that to manifest supernatural powers.&lt;/p&gt;
-
-&lt;p&gt;The book calls their power source “Chi”, and if this sounds a bit orientalist,
-well, that’s how you know this is a version of the D&amp;amp;D Monk. The term can be
-stripped away easily enough, though then you still have to put up with some
-legacy skill and power names that were imported straight from the GURPS core and
-show up in this template.&lt;/p&gt;
-
-&lt;p&gt;Mechanically, the draw of the Martial Artist are those special powers. If you
-just want to hit things really well and deal lots of damage, you might be better
-served by one of the other fighty professions. But if you want to walk on water,
-run up walls, perform giant flying leaps, and paralyze people by hitting their
-pressure points, then this is the profession for you.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
-
-&lt;p&gt;The basic stat line for the Martial Artist is ST 11, DX 16, IQ 10, HT 12. That
-gives them Speed 7.0 exactly. Their Will is increased to 11, and their Move to
-8, making them the fastest-running profession at character creation.&lt;/p&gt;
-
-&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
-
-&lt;p&gt;Every Martial Artist starts with two levels of &lt;strong&gt;Chi Talent&lt;/strong&gt; and the &lt;strong&gt;Trained
-by a Master&lt;/strong&gt; advantage. The former is their Power Talent, and the latter is
-similar to the Knight’s Weapon Master. It doesn’t grant a damage bonus, but the
-other ones work for all unarmed attacks and muscle-powered weapons, and it
-allows the character to learn many more special skills.&lt;/p&gt;
-
-&lt;p&gt;They have 40 points to distribute between optional advantages, which include the
-usual stat boosts, stuff useful for combat, and some advantages representing
-great mental resilience. Weapon Master also makes an appearance here, in its
-20-point version that covers any one single weapon. The book says “one exotic
-weapon”, but since “exotic” is not a weapon qualifier in the rules, I guess this
-is here only for “flavor”. You can pick any one you want.&lt;/p&gt;
-
-&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;The mandatory disadvantage here is &lt;strong&gt;Disciplines of Faith&lt;/strong&gt; (Chi Rituals). This
-represents the special exercises you must perform daily to keep your inner
-strength up and access your special powers. They eat into your free time, but if
-you skip even one day you can’t use your powers for a while.&lt;/p&gt;
-
-&lt;p&gt;Discretionary advantages include stuff that represents being a foreigner or
-having a strict code of conduct, monastic vows you might have taken, lower
-starting Wealth, and even stuff for reckless braggarts like a vow to always
-fight unarmed.&lt;/p&gt;
-
-&lt;p&gt;Yes, Social Stigma (Minority Group) is optional for Martial Artists. Not all of
-them come from a mysterious faraway land. I remember seeing one who was a local
-dwarf who wore plate armor and fought using twin battleaxes as weapons.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;Both core GURPS and the DFRPG have a set of “tiered” unarmed combat skills. You
-can always use your raw DX to strike or grapple someone if you don’t know any of
-them. That’s always your worst option. Then you have a series of skills that
-provide increasing benefits but are also increasingly harder to learn. The
-benefits are things like increased damage and more options during combat.&lt;/p&gt;
-
-&lt;p&gt;For strinking, the progression is Brawling, Boxing and Karate. For grappling,
-it’s Wrestling and Judo.&lt;/p&gt;
-
-&lt;p&gt;I feel that both the tier system and the fact that the best skills are the ones
-with Japanese names is another bit of left-over 90s orientalist gunk we should
-get rid of. Sadly it did not happen here yet, and the Martial Artist leans into
-this.&lt;/p&gt;
-
-&lt;p&gt;As a Martial Artist you get access to Judo and Karate, and always start out with
-a lot more points invested into them than the other professions put into their
-“remedial unarmed training” package that consists of Brawling and Wrestling as
-secondary or optional skills.&lt;/p&gt;
-
-&lt;p&gt;The reason most other delvers avoid investing too much in unarmed combat is that
-it’s pretty crappy compared to hitting people with weapons. Punches and kicks do
-less damage than most weapons. Failing to parry an enemy’s weapon or having your
-strikes parried by one can give the enemy a free shot at your limbs. And even if
-you hit, you can end up hurting yourself if the target surface is too hard
-(like, say, enemy armor, or monster scales). The martial artist’s better skills
-mitigate some of that, and their powers can help mitigate the rest.&lt;/p&gt;
-
-&lt;p&gt;The choice of combat skill package determines if you know these unarmed skills
-at 15 plus two weapons at 17, unarmed at 16 and one weapon at 17, or one unarmed
-skill at 17 and the other at 16. These are pretty good starting levels, but are
-still behind what other dedicated combatants get. The weapon list includes stuff
-we’ve seen already like Knife and Staff and a couple of sword skills, but also
-some “signature” skills like Tonfa, Jitte/Sai, and Kusari. These three have
-especially “tricksy” uses that are possibly more valuable than their raw damage.&lt;/p&gt;
-
-&lt;p&gt;For ranged combat, you probably use thrown weapons. Your list of default
-non-combat skills is sparse, but very focused on mobility. Optional skills are
-the usual delver package.&lt;/p&gt;
-
-&lt;p&gt;You then get to choose seven special skills from quite a large list. These are
-basically low-key superpowers of the sort you would expect to see in a D&amp;amp;D
-monk. Some are DX-based, others based on IQ or Will, and all get a bonus equal
-to your level of Chi Talent. More on them below.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-martial-artist-traits&quot;&gt;Special Martial Artist Traits&lt;/h2&gt;
-
-&lt;p&gt;If we don’t count spell descriptions for the casters, since they live in a
-separate book, then Martial Artists have the largest special traits section
-among the professions. It consists of &lt;em&gt;Chi Mastery&lt;/em&gt; powers, and the many
-&lt;em&gt;special skills&lt;/em&gt; tied to Training by a Master.&lt;/p&gt;
-
-&lt;p&gt;In both cases, &lt;em&gt;Chi Talent&lt;/em&gt; gives its level as a bonus to any tests associated
-with the power, or to the skill level directly. It’s more expensive than any
-other talent we have seen so far, because it enhances a lot of stuff. The name
-of this talent is also the last bit of legacy scuff we have to deal with.&lt;/p&gt;
-
-&lt;h3 id=&quot;chi-abilities&quot;&gt;Chi Abilities&lt;/h3&gt;
-
-&lt;p&gt;These powers have Disciplines of Faith (Chi Rituals) as a prerequisite. These
-rituals consume 1d hours of your free time each day, and their special dietary
-requirements mean your rations cost double. If you skip a day, you must spend
-a full day rebalancing your chi, or your powers will burn out for a while when
-you next call upon them.&lt;/p&gt;
-
-&lt;p&gt;Like Holy Might or Nature’s Power, these abilities don’t count as magic and are
-not affected by anti-magic measures.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dragon Skin&lt;/strong&gt; (5 points): Gives you DR 2 and generally works like the
-Barbarian’s Tough Skin, but cheaper because it’s part of a power.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mantis Strike&lt;/strong&gt; (9 points): This is two levels of Striking ST, again cheaper
-because it’s part of a power.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Regeneration&lt;/strong&gt; (23 points): You automatically heal 1 HP per hour no matter
-what you’re doing, and you roll for natural healing twice as often. Your HT
-rolls for natural healing benefit from your Chi Talent.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Seven Secret Kicks&lt;/strong&gt; (7 points): You don’t have the usual -2 penalty for
-attacking with a kick, and your kicks do +1 bonus damage per die. You still
-need to roll to avoid falling down if you miss, but Chi Talent benefits those
-rolls.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Spider Climb&lt;/strong&gt; (18 points): You can crawl or walk on walls and ceilings, and
-can stop at any point there without fear of falling. If you’re falling a long
-distance and are near a wall, you can grip it to try and stop the fall or at
-least reduce its damage. Chi Talent aids the rolls for this.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Tiger Sprint&lt;/strong&gt; (9 or 18 points): You can run at 1.5 or 2 times your normal
-Move when out of combat, and sprinting in combat gives you the same
-multiplier. Chi Talent benefits any rolls to aid your movement while running
-(including stuff like Jumping and Acrobatics for parkour).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Unarmed Master&lt;/strong&gt; (25 points): An absolute necessity if you want to
-specialize in unarmed combat. This eliminates the chance of hurting yourself
-when striking hard surfaces, and the danger to your limbs when parrying or
-being parried. It also grants a +1 per die bonus to your unarmed damage, which
-does stack with Seven Secret Kicks and with the bonus you’re already getting
-from your high unarmed skills.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Uninterrupted Flurry&lt;/strong&gt; (20 points): Once per battle, you can speed up and
-take 2 entire actions per turn instead of just one, for the next 1d turns. Ora
-ora ora!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;special-skills&quot;&gt;Special Skills&lt;/h3&gt;
-
-&lt;p&gt;The Trained By a Master advantage halves your penalty for multiple attacks and
-defenses in a turn, and gives you access to all of these skills. Their skill
-level is also enhanced by your Chi Talent level. You can use the skills even if
-your abilites are burned out, though in that case you don’t get the Talent bonus
-to them.&lt;/p&gt;
-
-&lt;p&gt;There’s a lot of skills here, and you get to pick seven from your template. This
-is where the “walk on water, shatter walls, perform giant flying leaps, and
-paralyze people by poking them” magic happens. This is also where your actual
-ranged combat skill lives if you have any interest in it at all, as it lets you
-throw anything and gives a damage bonus to those attacks.&lt;/p&gt;
-
-&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
-
-&lt;p&gt;Martial Artists suffer from a problem similar to the D&amp;amp;D Monk in that their
-set of abilities pulls them in several different, sometimes competing,
-directions. Standard advantages, Chi powers, combat skills, esoteric
-skills… There’s some real nice out-of-combat utility spread through here, but
-choosing it does mean accepting you’ll be less effective at punching people for
-a while.&lt;/p&gt;
-
-&lt;p&gt;Unarmed specialists cannot afford to wait that long. They need Unarmed Master
-right away to make up the damage deficit and to keep their limbs
-intact. Breaking Blow, the special skill that lets you bypass DR, is also
-important, and requires a lot of points to be reliable mid-fight. Those who rely
-on weapons, “exotic” or otherwise, end up being more versatile out of the gate,
-as they can spread their points around more.&lt;/p&gt;
-
-&lt;p&gt;The book states this represents an Martial Artist fresh off the monastery, so it
-is indeed lacking in non-combat mundane skills. A few points from quirks can
-make a huge difference either in shoring up those deficiencies… or getting
-more powers and better combat skills. As a Martial Artist you’re not hurting for
-money unless you choose a sword as your main weapon. The other options are
-pretty cheap, and leave them with enough change to buy some decent hand and foot
-armor for when they need to fight unarmed. Not only do those protect their
-extremities, they also give another +1 to punch and kick damage.&lt;/p&gt;
-
-&lt;p&gt;Yes, that does mean that in a humorous campaign you might be able to spot a
-martial artist by their tattered robes and incredibly expensive heavy boots and
-gauntlets.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
-
-&lt;p&gt;DFRPG Martial Artists are pretty similar to D&amp;amp;D monks in concept, with the main
-differences being in their specific capabilities. Monks have this weird grab-bag
-of powers that are mostly taken from those awful Destroyer novels from the 70s
-and 80s, while the Martial Artist selection here tends to be a bit more
-focused on fighting and mobility. And you can also get them in any order you want, this being a
-point-based game and all.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/08/21/dfrpg-adventurers-martial-artist.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/21/dfrpg-adventurers-martial-artist.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read Dungeon Fantasy Adventurers: Knight</title>
-        <description>&lt;p&gt;Knights specialize in &lt;em&gt;fighting&lt;/em&gt;, and are better at it than nearly anyone
-else. They favor heavy armor and, well, “knightly” melee weapons. Their name
-refers more to this than to their social status, which is as highly variable as
-that of any other delver. In the book’s own words: “… Knight sounds better
-than Fighter (so generic!) or Thug (offensive!).”&lt;/p&gt;
-
-&lt;p&gt;So yeah, this is the equivalent of D&amp;amp;D’s Fighter class, but it’s a lot more
-honest about representing a specific type of combatant, and also about their
-capabilities: when they say the knight is good at combat, they &lt;em&gt;mean&lt;/em&gt; it. As you
-might already be able to tell, they’re my favorite template.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-stats&quot;&gt;Basic Stats&lt;/h2&gt;
-
-&lt;p&gt;The Knight’s starting statline is ST 14, DX 14, IQ 10, HT 13. Their speed is
-reduced from 6.75 to 6.00.&lt;/p&gt;
-
-&lt;p&gt;They have the second highest base ST, losing only to the Barbarian. Their high
-DX also makes them excellent physical generalists.&lt;/p&gt;
-
-&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
-
-&lt;p&gt;Knights start with 2 levels of the &lt;strong&gt;Born War Leader&lt;/strong&gt; talent, plus &lt;strong&gt;Combat
-Reflexes&lt;/strong&gt; and &lt;strong&gt;High Pain Threshold&lt;/strong&gt;. None of these are exclusive traits, but
-the last two are major boons to anyone who plans to engage in combat and Knights
-are the only profession that always starts with both.&lt;/p&gt;
-
-&lt;p&gt;Born War Leader means Knights are much better at their profession’s main mental
-and social skills than their average IQ 10 would indicate.&lt;/p&gt;
-
-&lt;p&gt;They have a whopping 60 points to put into further discretionary traits, all of
-which make them better at either fighting (like Extra Attacks and Enhanced
-Parry) or leadership (like extra levels of Born War Leader).&lt;/p&gt;
-
-&lt;p&gt;Of note here is &lt;strong&gt;Weapon Master&lt;/strong&gt;, which boosts their skill at arms from merely
-“unrealistically good” to “superhuman”. This advantage reduces penalties for
-multiple attacks and defenses, gives access to some special skills, and gives
-them a major damage boost with the weapons covered by the advantage. Knights are
-not the only profession that has access to this: Martial Artists, Swashbucklers,
-Scouts and Thieves also have it. But Knights are the only profession with access
-to the version that covers &lt;em&gt;all weapons&lt;/em&gt;, if they’re willing to pay the 45
-points it costs.&lt;/p&gt;
-
-&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;Knights need only choose -35 points of disadvantages here, as their reduced
-Speed makes up for the rest. The available choices of personality problems here
-let you make anything from a callous and unpleasant thug to a crusty veteran
-soldier to a chivalrous hero. You also have a small selection of physical
-disadvantages representing old battle wounds.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;All Knights have the skills to use a shield and any one ranged weapon of their
-choice, as well as some unarmed combat training. The melee skill packages offer
-the choice between skill 20 at any one weapon, skill 17 at two, or skill 16 at
-three. Do you want to master your chosen weapon, or do you want to be able to
-use anything that can show up on a random loot table?&lt;/p&gt;
-
-&lt;p&gt;I’ve seen people not take the Shield skill and instead move its points to a
-weapon skill, increasing it by 1. That would indeed let them start with skill 21
-in a weapon.&lt;/p&gt;
-
-&lt;p&gt;Other skills include the tactical and leadership stuff boosted by Born War
-Leader, and they can pick a few from the full gamut of universal delver lore
-plus Intimidation.&lt;/p&gt;
-
-&lt;p&gt;A Knight is likely to start with fewer skills than many other professions, but
-there’s nothing preventing them from learning more with earned points. And they
-can start out very, very good at their main job, so they can start branching out
-earlier.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-knight-traits&quot;&gt;Special Knight Traits&lt;/h2&gt;
-
-&lt;p&gt;Knights can buy extra HP up to 1/2 their ST, instead of just 1/3. Also, they can
-buy new weapon skills or improve existing ones with earned character points
-&lt;em&gt;instantly&lt;/em&gt; at any time - even mid battle!&lt;/p&gt;
-
-&lt;p&gt;They also have some exclusive traits. As you might expect, these are not magic,
-and instead represent you being Just That Good.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Armor Mastery&lt;/strong&gt; (5 points): When you wear any armor with DR 2+, increase its
-DR by 1. This reflects your skill at actively using the armor, turning your
-body so blows always strike the strongest parts.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Rallying Cry&lt;/strong&gt; (5 points): Unleash the Warlord in you! This lets nearby
-allies who are mentally stunned (from surprise or enemy powers) immediately
-make a Will roll to recover. If they succeed they immediately lose the defense
-penalties from being stunned and can act normally on their next turn.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Sacrificial Block&lt;/strong&gt; and &lt;strong&gt;Sacrificial Parry&lt;/strong&gt; (1 point each): These let you
-attempt these defenses on behalf of someone else who is in reach. The Block
-works for allies who are behind you, the Parry for allies who are beside
-you. Roll as if you were defending yourself, and if you succeed your ally is
-protected as if they had succeeded. They’re “sacrificial” because they count
-against your own defense limit for that round.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Shield Mastery&lt;/strong&gt; (15 points): Any shield you use gains +1 to its Defense
-Bonus, and you gain an extra DR 2 against cone and area attacks if you can
-interpose your shield. Captain America probably has this.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Shield Wall Training&lt;/strong&gt; (1 points): This lets you use your shield to block
-attacks on behalf of an ally who is beside you, and eliminates the penalty for
-attacking while holding a large shield.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;customization-notes&quot;&gt;Customization Notes&lt;/h2&gt;
-
-&lt;p&gt;You can use this template to make any “heavy fighter” archetype, from an
-European-style knight to a samurai to an Amazon to Guts from Berserk. It’s all
-about weapon and disadvantage choice. The book also says it’s important to
-decide if you want to completely master a single weapon be decently skilled in a
-wide variety of them. High skill is definitely powerful, but there’s value in
-keeping your options open in campaigns where the GM is enthusiastic about random
-loot.&lt;/p&gt;
-
-&lt;p&gt;As a personal note, I’m going to say Weapon Master is so good it feels almost
-mandatory. Few things are more dangerous in the battlefield than a ST 17+ Weapon
-Master Knight who focuses on a single big swingy weapon like a polearm or
-two-handed sword. By the time the wizard finishes charging that fireball, all
-enemies in the field will already be dead.&lt;/p&gt;
-
-&lt;p&gt;No matter your specific build, you definitely want to spend quirk points on
-extra money for an armor upgrade.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” Section&lt;/h2&gt;
-
-&lt;p&gt;For once there isn’t much to this section. DFRPG Knights are pretty similar to
-D&amp;amp;D Fighters in terms of visual style and intended function.&lt;/p&gt;
-
-&lt;p&gt;The main difference here is, well, truth in advertising. Both games say the
-archetype is the among the best at fighting, but here this is actually
-true.&lt;/p&gt;
-
-&lt;p&gt;It helps that GURPS melee combat goes far beyond the “I hit it with my weapon”
-level of detail supported by D&amp;amp;D mechanics, and that you actually become more
-effective if you use those options. With such a high skill level you can afford
-to do that without reducing your chances of success.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/08/13/dfrpg-adventurers-knight.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/08/13/dfrpg-adventurers-knight.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
         
         
       </item>
