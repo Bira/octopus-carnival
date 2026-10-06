@@ -55,5 +55,5 @@ can't say I'm not happy with the result.
 Tune in next time to learn how Ravenloft claimed yet another party of unwary
 adventurers.
 
-[1]: {{ "/projects/hells-rebels.html" | relative_url }}
+[1]: {{ "/projects/hells-rebels/" | relative_url }}
 [2]: {{ "/projects/pathfinder-iconics.html" | relative_url }}

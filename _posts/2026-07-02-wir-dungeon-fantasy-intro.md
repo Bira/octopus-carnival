@@ -98,5 +98,5 @@ give you a good idea of what this game is all about.
 
 [1]: {{ "/projects/neverwinter/" | relative_url }}
 [2]: {{ "/2017/08/25/dfrpg-review.html" | relative_url }}
-[3]: {{ "/projects/lets-play-hells-rebels.html" | relative_url }}
+[3]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
 [4]: https://forum.rpg.net/index.php?threads/lets-read-the-dungeon-fantasy-rpg.936813/

@@ -129,7 +129,7 @@ scenes.
 
 - [Scene 16][36]: Spending our XP!
 
-[1]: {{ "/2023/07/08/lets-play-hells-rebels.html" | relative_url }}
+[1]: {{ "/2023/07/08/lets-play-hells-rebels/" | relative_url }}
 [2]: {{ "/2023/07/11/underwater-dungeon-fantasy.html" | relative_url }}
 [3]: {{ "/2023/07/22/lphr-fiends.html" | relative_url }}
 [4]: {{ "/2024/04/28/atlantis.html" | relative_url }}

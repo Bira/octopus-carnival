@@ -41,4 +41,4 @@ to post as well.
 
 
 [1]: {{ "/2017/04/19/dark-judas.html" | relative_url }}
-[2]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
+[2]: {{ "/2017/04/24/hells-rebels/" | relative_url }}

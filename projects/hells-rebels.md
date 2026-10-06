@@ -62,7 +62,7 @@ This is an ongoing project. These are the posts that comprise it:
   - [Part 2][17]: This volume's big dungeon, the Temple of Asmodeus.
   - [Part 3][18]: The finale!
 
-[1]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
+[1]: {{ "/2017/04/24/hells-rebels/" | relative_url }}
 [2]: {{ "/2017/05/01/hells-rebels-player-guide.html" | relative_url }}
 [3]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
 [4]: {{ "/2017/05/18/hells-rebels-npcs.html" | relative_url }}
@@ -70,10 +70,10 @@ This is an ongoing project. These are the posts that comprise it:
 [6]: {{ "/2017/06/21/hells-rebels-adventure-1-part-3.html" | relative_url }}
 [7]: {{ "/2018/10/07/hells-rebels-2-part-1.html" | relative_url }}
 [8]: {{ "/2018/11/07/hells-rebels-2-part-2.html" | relative_url }}
-[9]: {{ "/2019/03/27/hells-rebels.html" | relative_url }}
+[9]: {{ "/2019/03/27/hells-rebels/" | relative_url }}
 [10]: {{ "/2019/01/28/hells-rebels-2-part-3-part-1.html" | relative_url }}
-[11]: {{ "/2019/06/05/hells-rebels.html" | relative_url }}
-[12]: {{ "/2019/08/01/hells-rebels.html" | relative_url }}
+[11]: {{ "/2019/06/05/hells-rebels/" | relative_url }}
+[12]: {{ "/2019/08/01/hells-rebels/" | relative_url }}
 [13]: {{ "/2022/08/25/hells-rebels-3-part-1.html" | relative_url }}
 [14]: {{ "/2023/06/10/hells-rebels-3-part-2.html" | relative_url }}
 [15]: {{ "/2023/06/24/hells-rebels-3-part-3.html" | relative_url }}

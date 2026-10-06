@@ -190,5 +190,5 @@ her and her retinue here at the protest, though, so her stats are included here.
 
 
 [1]: {{ "/2017/05/10/hells-rebels-adventure-1.html" | relative_url }}
-[2]: {{ "/projects/hells-rebels.html" | relative_url }}
+[2]: {{ "/projects/hells-rebels/" | relative_url }}
 [3]: {{ "/gurps/2016/12/17/wolves.html" | relative_url }}

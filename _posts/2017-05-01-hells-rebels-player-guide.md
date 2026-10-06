@@ -199,7 +199,7 @@ minds_) and Kyra can See Secrets in addition to the usual sun-cleric tricks of
 healing allies and burning enemies. In the next post, we'll begin going through
 the first adventure in the path, the absurdly named "In Hell's Bright Shadow".
 
-[0]: {{ "/2017/04/24/hells-rebels.html" | relative_url }}
+[0]: {{ "/2017/04/24/hells-rebels/" | relative_url }}
 [1]: {{ "/gurps/2016/11/27/pathfinder-df-knight.html" | relative_url }}
 [2]: {{ "/gurps/2016/10/08/pathfinder-df-bard.html" | relative_url }}
 [3]: {{ "/gurps/2016/12/30/pathfinder-df-rogue.html" | relative_url }}
