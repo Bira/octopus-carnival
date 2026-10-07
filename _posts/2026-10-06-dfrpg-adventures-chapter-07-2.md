@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2026-10-06 21:00 -03:00
 title: "Let's Read DFRPG Adventurers: Armor and Shields"
 tags:
     - lets-read
@@ -7,7 +8,7 @@ tags:
     - gurps
 ---
 
-Continuing our read through of Chapter 7, we now go through weapons and shields.
+Continuing our read through of Chapter 7, we now go through shields and armor.
 
 # Shields
 
@@ -15,10 +16,10 @@ D&D shields are just an extra bit of armor you can tack onto the one you're
 wearing, but DFRPG shields are _weapons_ that have a few extra defensive rules
 specific to them.
 
-You can feint with a shield, bash people's faces in with it, and use it to block
-incoming melee or ranged attacks. Just holding a shield also makes it easier to
-defend yourself in other ways, too. Shield bashes are back on the weapon tables,
-so this section focuses on the rest of their stats.
+With the Shield skill you can use a shield to feint, bash people's faces in, and
+block incoming melee or ranged attacks. Just holding a shield also makes it
+easier to defend yourself in other ways, too. Shield bashes are back on the
+weapon tables, so this section focuses on the rest of their stats.
 
 The most important stat here is the Defense Bonus, which goes from 1 to 3
 depending on the size of the shield. This gets added directly to all of your
@@ -34,7 +35,7 @@ failed block endangers your arm. A light cloak reaches your waist when worn, a
 heavy one reaches your ankles. Even the heavy cloak is lighter than a small
 shield.
 
-Proper Shields come in Small, Medium, and Large varieties. All of them are made
+Proper shields come in Small, Medium, and Large varieties. All of them are made
 from wood with a few metal bits and possibly a leather covering on the
 outside. They let you block and bash as described above, make shield rushes, and
 are of course a lot sturdier than a piece of cloth with delusions of
@@ -120,7 +121,7 @@ call it a day. Min-maxers can shop for piecewise armor and cut some corners for
 the parts they don't think will be hit often. One-sleeved jackets and backless
 breastplates are all the rage these days! And who needs helmets anyway, amirite?
 
-Here's a brief summary of the armor table:
+The detailed items on the armor table can be divided into these general types:
 
 - **Cloth or Leather** armor comes in both Light and Heavy varieties (DR 1 or
   2). It's the only type of armor that doesn't count as being made of metal,
@@ -170,9 +171,9 @@ works even without mana, and it _stacks_ with the enchantment, so there's that.
 
 - **Dragonhide** is for heavy leather, and can add from +1 to +4 DR depending on
   the dragon "donor". This bonus is doubled against fire, and the larger it is
-  the heavier the armor becomes. Even sturdier dragonhide suits exist,
-  as well as ones that give a bonus to different elements, but those aren't for
-  sale and aren't detailed here.
+  the heavier the armor becomes. Even sturdier dragonhide suits exist, as well
+  as ones that resist different elements, but those aren't for sale and aren't
+  detailed here.
 
 - **Dwarven** material science lets DR 6-9 plate armor become sturdier (+1 DR)
   at no increase in weight.

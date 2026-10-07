@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2026-10-06 10:00 -03:00
 title: "Some error fixes for past posts"
 tags:
     - gurps
