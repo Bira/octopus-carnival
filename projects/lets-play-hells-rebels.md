@@ -72,7 +72,9 @@ Edition.
 The character sheets here depict how the characters are at the start of the
 campaign. I might add updated versions as the opportunity presents itself.
 
-- [Arcturus Pankrator][12]: The Knight of the Deep.
+- **Arcturus Pankrator**: The Knight of the Deep.
+  - [Starting character][12]
+  - [After Adventure 01][38]
 
 - [Jade Irinka][11]: The Sixth Raven.
 
@@ -166,3 +168,4 @@ scenes.
 [35]: {{ "/2026/09/09/lphr-scene-15.html" | relative_url }}
 [36]: {{ "/2026/09/22/lphr-scene-16.html" | relative_url }}
 [37]: {{ "/2026/10/05/lphr-scene-17.html" | relative_url }}
+[38]: {{ "/2026/10/08/lphr-arcturus-02.html" | relative_url }}
