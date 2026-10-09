@@ -135,3 +135,10 @@ some amount of damage at once when the victim fails a resistance roll. They're
 too fast for anti-toxins, which only help against stuff with ongoing
 effects. Some are utility compounds that you spread on your bladed weapons,
 others are grenades. They range from the very weak to the terrifyingly deadly.
+
+# Impressions
+
+I ended up reading this section more closely than I had in years, which is a
+good thing! A lot of the basic items here are stuff that remains useful
+throughout a whole campaign, as they can't easily be replaced with spells or
+magic items.
