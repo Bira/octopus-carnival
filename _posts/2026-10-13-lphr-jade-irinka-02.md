@@ -89,25 +89,25 @@ Damage 1d/2d-1; Basic Lift 16.9kg; HP 13; Will 12; Per 12; FP 12; Basic Speed 7
 $47482.00, 12.4412kg. No Encumbrance.
 
 - Backsword: sw+1 cut or thr+1 imp. Basket hilt gives DR4 to the hand and allows
-  a Hilt Punch. |$550, 1.5kg|
-- Pouch: Carries 1.5kg of small items. |$10, 0.1kg|.
+  a Hilt Punch. $550, 1.5kg
+- Pouch: Carries 1.5kg of small items. $10, 0.1kg.
   - Coins:
-    - 1 x Piece of Eight |$50, 0.0012kg|.
-    - 2 x Silver Coin |$20, 0.01kg|.
-    - 7 x Copper Coin |$1, 0.01kg|.
-  - 1 x Blessed Paper |$400, 0kg|.
-  - 2 x Healing Potion, Minor: Heals 1d HP. |$120, 0.25kg|
-- Clothing: |$0, 1kg|.
+    - 1 x Piece of Eight $50, 0.0012kg.
+    - 2 x Silver Coin $20, 0.01kg.
+    - 7 x Copper Coin $1, 0.01kg.
+  - 1 x Blessed Paper $400, 0kg.
+  - 2 x Healing Potion, Minor: Heals 1d HP. $120, 0.25kg
+- Clothing: $0, 1kg.
 - Armor: Suit of armor enchanted with Fortify 1.
-  - Head : Light Leather, DR 2. |$113, 0.75kg|.
-  - Body: Light Leather, DR 2. |$403, 3.15kg|.
-  - Arms: Light Leather, DR 2. |$175, 1.5kg|.
-  - Hands: Light Leather, DR 2. |$55, 0.3kg|.
-  - Legs: Light Cloth, DR 2. |$287, 2.25kg|.
-  - Feet: Light Leather, DR 2. |$117, 1.05kg|.
+  - Head : Light Leather, DR 2. $113, 0.75kg.
+  - Body: Light Leather, DR 2. $403, 3.15kg.
+  - Arms: Light Leather, DR 2. $175, 1.5kg.
+  - Hands: Light Leather, DR 2. $55, 0.3kg.
+  - Legs: Light Cloth, DR 2. $287, 2.25kg.
+  - Feet: Light Leather, DR 2. $117, 1.05kg.
 - Headband of Strengthening Will +1 : Bronze circlet that grants +1 Will when
-  worn |$20035, 0.25kg|.
-- Ring of Swimming: Grants Amphibious but _not_ Gills while worn. |$25000, 0kg|.
+  worn $20035, 0.25kg.
+- Ring of Swimming: Grants Amphibious but _not_ Gills while worn. $25000, 0kg.
 
 **Combat**
 
