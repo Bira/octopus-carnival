@@ -6,9 +6,194 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Oct 2026 13:58:36 +0000</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 13:58:36 +0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 18:48:29 +0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:48:29 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Jade Irinka update 1</title>
+        <description>&lt;p&gt;An update to one of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels
+campaign&lt;/a&gt;. This is Jade after the end of Adventure 01, with all advancements
+in stats and gear factored in.&lt;/p&gt;
+
+&lt;p&gt;Her description and backstory remain the same and can be see in the post for her
+&lt;a href=&quot;/octopus-carnival/2026/02/24/lphr-jade-irinka.html&quot;&gt;starting version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Jade is more or less the backbone of the party’s combat capability, and her
+fencing prowes so far could only be matched by Adventure 01’s final boss, which
+went down to a lucky critical anyway. She’s also one of the PCs most motivated
+by an ideological opposition to fascism, tied perhaps with Rosalia. That’s not
+to say she doesn’t have personal reasons to oppose Thrune. They did a number on
+her found family back in the days of the original Ravens.&lt;/p&gt;
+
+&lt;p&gt;Her knowledge as the Sixth Raven has come in handy in a couple of spots in
+Adventure 1, but her Monster of the Week disadvantage hasn’t really come up
+yet. I’ll roll for it and prepare a suitable opponent during the early
+preparation stages for Adventure 02.&lt;/p&gt;
+
+&lt;p&gt;She started with the standard 250 points, and here at the end of Adventure 01,
+stands at 289. Yes, my point distribution policy is somewhat generous. I removed
+the “pick your own” quirk entries as I’ve never ended up using them. We’re also
+using some new house rules for skills, which are listed &lt;a href=&quot;/octopus-carnival/2026/09/22/lphr-scene-16.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Over the course of the adventure she found a slightly upgraded suit of armor and
+a couple of expensive utility items, but her weapon and general approach to
+adventuring stay mostly the same.&lt;/p&gt;
+
+&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 13 {30}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 12 {40}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d/2d-1; Basic Lift 16.9kg; HP 13; Will 12; Per 12; FP 12; Basic Speed 7
+{5}; Basic Move 7;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ambidexterity {5}&lt;/li&gt;
+  &lt;li&gt;Appearance (Impressive) {12}&lt;/li&gt;
+  &lt;li&gt;Born War Leader 3 {15}&lt;/li&gt;
+  &lt;li&gt;Charisma 3 {15}&lt;/li&gt;
+  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
+  &lt;li&gt;Luck {15}&lt;/li&gt;
+  &lt;li&gt;Reputation (All the time, everyone but Thrune supporters): +1 {3}&lt;/li&gt;
+  &lt;li&gt;Weapon Adaptation (Broadsword to Fencing) {1}&lt;/li&gt;
+  &lt;li&gt;Weapon Master (Backsword) {20}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Code of Honor (Soldier’s) {-10}&lt;/li&gt;
+  &lt;li&gt;Compulsive Generosity (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Enemy (Monster of the Week, 9 or less) {-15}&lt;/li&gt;
+  &lt;li&gt;Pacifism (Cannot Harm Innocents) {-10}&lt;/li&gt;
+  &lt;li&gt;Selfless {-5}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acrobatics (H) DX-1 {2} - 14&lt;/li&gt;
+  &lt;li&gt;Administration (A) IQ {2} - 12&lt;/li&gt;
+  &lt;li&gt;Diplomacy (H) IQ-2 {1} - 10&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) (E) DX+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 16&lt;/li&gt;
+  &lt;li&gt;Fencing (A) DX+5 {20} - 20&lt;/li&gt;
+  &lt;li&gt;Gesture (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Grappling (A) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Guns (Pistol) (E) DX+1 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Intelligence Analysis (H) IQ+3 {4}&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 15&lt;/li&gt;
+  &lt;li&gt;Jumping (E) DX {1} - 15&lt;/li&gt;
+  &lt;li&gt;Leadership (A) IQ+5 {2}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 17&lt;/li&gt;
+  &lt;li&gt;Public Speaking (A) IQ+1 {1}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 13&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (High Society) (E) IQ {1} - 12&lt;/li&gt;
+  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
+  &lt;li&gt;Strategy (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Tactics (H) IQ+2 {2}&lt;sup id=&quot;fnref:2:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;$47482.00, 12.4412kg. No Encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Backsword: sw+1 cut or thr+1 imp. Basket hilt gives DR4 to the hand and allows
+a Hilt Punch. $550, 1.5kg&lt;/li&gt;
+  &lt;li&gt;Pouch: Carries 1.5kg of small items. $10, 0.1kg.
+    &lt;ul&gt;
+      &lt;li&gt;Coins:
+        &lt;ul&gt;
+          &lt;li&gt;1 x Piece of Eight $50, 0.0012kg.&lt;/li&gt;
+          &lt;li&gt;2 x Silver Coin $20, 0.01kg.&lt;/li&gt;
+          &lt;li&gt;7 x Copper Coin $1, 0.01kg.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;1 x Blessed Paper $400, 0kg.&lt;/li&gt;
+      &lt;li&gt;2 x Healing Potion, Minor: Heals 1d HP. $120, 0.25kg&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Clothing: $0, 1kg.&lt;/li&gt;
+  &lt;li&gt;Armor: Suit of armor enchanted with Fortify 1.
+    &lt;ul&gt;
+      &lt;li&gt;Head : Light Leather, DR 2. $113, 0.75kg.&lt;/li&gt;
+      &lt;li&gt;Body: Light Leather, DR 2. $403, 3.15kg.&lt;/li&gt;
+      &lt;li&gt;Arms: Light Leather, DR 2. $175, 1.5kg.&lt;/li&gt;
+      &lt;li&gt;Hands: Light Leather, DR 2. $55, 0.3kg.&lt;/li&gt;
+      &lt;li&gt;Legs: Light Cloth, DR 2. $287, 2.25kg.&lt;/li&gt;
+      &lt;li&gt;Feet: Light Leather, DR 2. $117, 1.05kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Headband of Strengthening Will +1 : Bronze circlet that grants +1 Will when
+worn $20035, 0.25kg.&lt;/li&gt;
+  &lt;li&gt;Ring of Swimming: Grants Amphibious but &lt;em&gt;not&lt;/em&gt; Gills while worn. $25000, 0kg.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assumes no encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 11&lt;/li&gt;
+      &lt;li&gt;Parry (Backsword): 14F&lt;/li&gt;
+      &lt;li&gt;Parry (Grappling): 11F&lt;/li&gt;
+      &lt;li&gt;DR: 4 on skull, 0 on eyes, 6 in sword hand, 2 everywhere else.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Control Maximum: 13
+    &lt;ul&gt;
+      &lt;li&gt;1 to 6: -2&lt;/li&gt;
+      &lt;li&gt;7 to 12: -4&lt;/li&gt;
+      &lt;li&gt;13 to 18: -6&lt;/li&gt;
+      &lt;li&gt;19 to 25: -8&lt;/li&gt;
+      &lt;li&gt;26 or more: -12&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Backsword (20): 2d+5 cut or 1d+3 imp, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Hilt Punch (15): 1d cr, Reach C.&lt;/li&gt;
+      &lt;li&gt;Grappling (14): 1d ctrl, Reach C.
+        &lt;ul&gt;
+          &lt;li&gt;One-handed grab (14): 1d-2 ctrl, Reach C.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+1 from Combat Reflexes &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+2 from Charisma &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+3 from Born War Leader &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/10/13/lphr-jade-irinka-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/13/lphr-jade-irinka-02.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Misc. Gear</title>
@@ -1493,153 +1678,6 @@ your energy when it runs out results in “fifteen-minute rests” instead of
         <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/09/21/dfrpg-adventurers-wizard.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/21/dfrpg-adventurers-wizard.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DFRPG Adventurers: Thief</title>
-        <description>&lt;p&gt;Contrary to popular belief, Dungeon Fantasy isn’t all about fighting monsters:
-there’s also exploring the dungeon, looting the dungeon, and selling the loot
-back in town (sorry, couldn’t resist). The Bard takes care of the last of these
-very important activities, but for the others you want a Thief.&lt;/p&gt;
-
-&lt;h2 id=&quot;stats&quot;&gt;Stats&lt;/h2&gt;
-
-&lt;p&gt;Thieves start out with ST 11, DX 15, IQ 13, HT 11. They bump their Perception to
-14, decrease their Speed from 6.5 to 6, and increase their Move to 7.&lt;/p&gt;
-
-&lt;p&gt;The four stats are pretty similar to the Martial Artist’s and the
-Swashbuckler’s, but emphasize IQ more since this is our official skill monkey.&lt;/p&gt;
-
-&lt;h2 id=&quot;advantages&quot;&gt;Advantages&lt;/h2&gt;
-
-&lt;p&gt;All thieves start out with &lt;strong&gt;Flexibility&lt;/strong&gt;, &lt;strong&gt;High Manual Dexterity&lt;/strong&gt;, and
-&lt;strong&gt;Perfect Balance&lt;/strong&gt;, all of which are excellent boosts to anything involving
-tricky movement and most physically-oriented “thief skills”.&lt;/p&gt;
-
-&lt;p&gt;They get 30 extra points for discretionary advantages, and their selection is
-actually a bit low on stat boosts: just DX and IQ instead of all four, and just
-Per, Basic Speed, and Basic Move instead of all secondaries. The rest of the
-choices are all stuff that offers further specialized bonuses to the same areas
-enhanced by the standard advantages. Thieves are one of the only professions
-that can start out with above-average Wealth, which gives them extra starting
-money and helps with selling loot in town. And they can pick Weapon Master
-(Knives) if they want to go in a fightier direction.&lt;/p&gt;
-
-&lt;p&gt;Yes, “all knives” count as a single weapon here because their base stats are
-worse. If you take this, you probably want to wield them with the Main-Gauche
-skill instead of Knife.&lt;/p&gt;
-
-&lt;h2 id=&quot;disadvantages&quot;&gt;Disadvantages&lt;/h2&gt;
-
-&lt;p&gt;The thief’s mandatory disadvantage is one of &lt;strong&gt;Greed&lt;/strong&gt;, &lt;strong&gt;Kleptomania&lt;/strong&gt; or
-&lt;strong&gt;Trickster&lt;/strong&gt;, explaining why they chose the profession in the first
-place. Discretionary choices can make them either someone who needs money &lt;em&gt;fast&lt;/em&gt;
-and &lt;em&gt;constantly&lt;/em&gt; to fuel a gambling or partying addiction, or someone whose
-anti-social personality and criminal record has locked out of getting legitimate
-jobs.&lt;/p&gt;
-
-&lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
-
-&lt;p&gt;A thief’s melee weapon skill choices are the same as the swashbuckler’s plus
-Knife, though their skill level will be “only” 15 or 14 and they lack most melee
-support abilities. The most recommended option here seems to be “weapon and
-shield”, instead of the swashbuckler’s single blade. You’re not a god of
-parrying, so having a shield or cloak in your off hand is a big help.&lt;/p&gt;
-
-&lt;p&gt;You do get a &lt;em&gt;lot&lt;/em&gt; of mundane non-combat skills. All that sneaking and
-exploration stuff that’s secondary and optional for everyone else is part of
-your starting spread, at much better levels. You’re particularly good at the
-stuff that maps to D&amp;amp;D’s traditional thief skills: stealth, climbing,
-lockpicking, trap detection and disarming, etc. Also acrobatics and escaping
-from bonds.&lt;/p&gt;
-
-&lt;p&gt;Your secondary skill choices are mostly more “niche” areas of spying and crime
-like forgery, poisons and lip-reading, and also include a selection of social
-skills.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-thief-traits&quot;&gt;Special Thief Traits&lt;/h2&gt;
-
-&lt;p&gt;You get no enhanced advancement limits, but you do get a lot of exclusive
-mundane skills in your template and a few special traits:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Catfall&lt;/strong&gt; (10 points): you suffer much less damage from falls.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Expert Backstabbing&lt;/strong&gt; (2 points/level): Adds its level (which has no cap) to
-your ST for &lt;em&gt;melee&lt;/em&gt; attacks that allow &lt;em&gt;no&lt;/em&gt; active defense. That means they
-can’t see you coming: they’re unconscious, or you start your turn behind them,
-or you’re invisible, or you’re in a social situation where they didn’t expect
-you to attack. You need to put in the work to get into one of these situations
-maybe once per fight, but the extra damage will be worth it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Gizmos&lt;/strong&gt; (5 points/each): Each Gizmo lets you pull one small item out of
-thin air per session. This can be either something you have on your sheet but
-didn’t specify you were carrying, or an item you &lt;em&gt;didn’t&lt;/em&gt; have subject to
-certain price limits (which are more generous if the thing is
-thief-themed). This isn’t magic, it’s advance planning combined with a little
-bit of cinematic trickery.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;High Manual Dexterity&lt;/strong&gt; (5 points/level): This is a Talent that gives
-bonuses to a bunch of common DX-based thief tasks.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Sensitive Touch&lt;/strong&gt; (10 points): Gives a large bonus to perception rolls
-involving mainly your sense of touch, and to rolls where being good at
-“working by feel” is an advantage, like searching bodies, lockpicking and
-disarming some traps.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Silence&lt;/strong&gt; (5 points/level): Like the Scout ability.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;customization&quot;&gt;Customization&lt;/h2&gt;
-
-&lt;p&gt;The book recommends three example skill and advantage selections that can take a
-generic thief and turn them into a sneaky &lt;em&gt;burglar&lt;/em&gt;, a stabby &lt;em&gt;assassin&lt;/em&gt;, or a
-smart and silver-tongued &lt;em&gt;mastermind&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Generally speaking, it’s all about your mundane skills here. Unlike in D&amp;amp;D,
-thieves &lt;em&gt;never&lt;/em&gt; stop being relevant, even when there are utility spellcasters in
-the party. Utility spells usually don’t let you skip skill rolls
-entirely. Therefore, those casters won’t be casting spells on themselves to make
-the thief obsolete - they will casting spells &lt;em&gt;on the thief&lt;/em&gt; to make them even
-better at their job.&lt;/p&gt;
-
-&lt;p&gt;Your thief’s quirk points should be spent on more skills! There’s some sweet
-high-tier thief gear out there but it’s outside a starting character’s price
-range. But it with your ill-gotten gains after you start adventuring.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-this-aint-dd-section&quot;&gt;The “This Ain’t D&amp;amp;D” section&lt;/h2&gt;
-
-&lt;p&gt;The DFRPG Thief is equivalent to the old school Thief class in terms of intended
-function and combat ability. The difference here is that their starting success
-chance in those traditional thief duties is much higher.&lt;/p&gt;
-
-&lt;p&gt;You &lt;em&gt;can&lt;/em&gt; take them in a fightier direction if you want, with access to Weapon
-Master (Knives) and to something that works a lot like the classic AD&amp;amp;D Backstab
-ability. But if your main desire is to have a cool sword and deftly weave
-through a fight while stabbing enemies in sensitive spots more or less at will,
-you want a Swashbuckler.&lt;/p&gt;
-
-&lt;p&gt;That said, in games that allow “multiclassing” the Thief does have an easier
-time becoming a Swashbuckler than almost everyone else.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/09/15/dfrpg-adventurers-thief.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/15/dfrpg-adventurers-thief.html</guid>
         
         <category>lets-read</category>
         
