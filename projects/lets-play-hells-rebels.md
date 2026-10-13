@@ -76,7 +76,9 @@ campaign. I might add updated versions as the opportunity presents itself.
   - [Starting character][12]
   - [After Adventure 01][38]
 
-- [Jade Irinka][11]: The Sixth Raven.
+- **Jade Irinka**: The Sixth Raven.
+  - [Starting character][11]
+  - [After Adventure 01][39]
 
 - [Jania Moonshadow][13]: The Phantom Thief.
 
@@ -169,3 +171,4 @@ scenes.
 [36]: {{ "/2026/09/22/lphr-scene-16.html" | relative_url }}
 [37]: {{ "/2026/10/05/lphr-scene-17.html" | relative_url }}
 [38]: {{ "/2026/10/08/lphr-arcturus-02.html" | relative_url }}
+[39]: {{ "/2026/10/13/lphr-jade-irinka-02.html" | relative_url }}
