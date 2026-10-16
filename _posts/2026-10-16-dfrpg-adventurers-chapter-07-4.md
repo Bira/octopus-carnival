@@ -72,8 +72,8 @@ return to Town from adventuring.
 
 The most noticeable class of enchantments here are your standard "plusses":
 to-hit, damage and Parry for weapons, Defense Bonus and Block for shields,
-Defense Bonus and DR for armor. One or two levels are available for each,
-depending on the enchantment.
+Defense Bonus and DR for armor. Each of these is a separate enchantment and has
+one or two levels available in the table.
 
 Weapons can also benefit from one of a set of elemental damage adders (flaming,
 lightning, freezing), from a Penetrating enchantment that helps get past DR, and
@@ -81,8 +81,9 @@ from being made magically unbreakable. Armor and shields can have their weight
 reduced, and anything can be made glowy so that it illuminates like a torch on
 command.
 
-That's it for purchasable magic gear. Want something more powerful? Go delve a
-dungeon and find something from the expanded GM-only list from Exploits.
+That's it for purchasable magic gear. Want something more powerful or with a
+different effect? Go delve a dungeon and find something from the expanded
+GM-only list from Exploits.
 
 # Magic As a Service
 
@@ -109,3 +110,7 @@ do. I bet that's why it costs so much more. No competition from PCs!
 This is actually present as a very small text box in the character sheet at the
 very end of the book, and I couldn't find it anywhere else. It's quite possible
 I'll run into the official explanation in some other book as I go through them.
+
+# Coming up Next
+
+Sample characters!

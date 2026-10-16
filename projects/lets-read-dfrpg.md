@@ -57,6 +57,7 @@ number of people have heard about it.
   - [Part 1: Money and Weapons][18]
   - [Part 2: Shields and Armor][19]
   - [Part 3: Miscellaneous Gear][20]
+  - [Part 4: Magic Items][21]
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -78,3 +79,4 @@ number of people have heard about it.
 [18]: {{ "/2026/10/01/dfrpg-adventurers-chapter-07.html" | relative_url }}
 [19]: {{ "/2026/10/06/dfrpg-adventures-chapter-07-02.html" | relative_url }}
 [20]: {{ "/2026/10/09/dfrpg-adventurers-chapter-07-3.html" | relative_url }}
+[21]: {{ "/2026/10/16/dfrpg-adventurers-chapter-07-4.html" | relative_url }}
