@@ -59,6 +59,9 @@ number of people have heard about it.
   - [Part 3: Miscellaneous Gear][20]
   - [Part 4: Magic Items][21]
 
+- The [Appendix][22] contains a couple of sample characters to close out the
+  book.
+
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
 [3]: {{ "/2026/07/07/dfrpg-adventurers-basics.html" | relative_url }}
@@ -80,3 +83,4 @@ number of people have heard about it.
 [19]: {{ "/2026/10/06/dfrpg-adventures-chapter-07-02.html" | relative_url }}
 [20]: {{ "/2026/10/09/dfrpg-adventurers-chapter-07-3.html" | relative_url }}
 [21]: {{ "/2026/10/16/dfrpg-adventurers-chapter-07-4.html" | relative_url }}
+[22]: {{ "/2026/10/20/dfrpg-adventurers-appendix.html" | relative_url }}
