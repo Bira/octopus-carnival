@@ -80,7 +80,9 @@ campaign. I might add updated versions as the opportunity presents itself.
   - [Starting character][11]
   - [After Adventure 01][39]
 
-- [Jania Moonshadow][13]: The Phantom Thief.
+- **Jania Moonshadow**: The Phantom Thief.
+  - [Starting character][13]
+  - [After Adventure 1][40]
 
 - [Rosalia Savory][14]: The Mysterious Satirist.
 
@@ -172,3 +174,4 @@ scenes.
 [37]: {{ "/2026/10/05/lphr-scene-17.html" | relative_url }}
 [38]: {{ "/2026/10/08/lphr-arcturus-02.html" | relative_url }}
 [39]: {{ "/2026/10/13/lphr-jade-irinka-02.html" | relative_url }}
+[40]: {{ "/2026/10/21/lphr-jania-moonshadow-2.html" | relative_url }}
