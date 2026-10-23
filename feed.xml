@@ -6,9 +6,232 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2026 20:02:35 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2026 20:02:35 +0000</lastBuildDate>
+    <pubDate>Fri, 23 Oct 2026 20:38:25 +0000</pubDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:38:25 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Play Hell&apos;s Rebels: Jania Moonshadow update 1</title>
+        <description>&lt;p&gt;I’ve been stressing out about real-life fascists these past few days, so I
+thought I’d destress a bit by publishing another post about people fighting
+fantasy fascists in my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels campaign&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an update to Jania. Her description and backstory remain the same and
+can be see in the post for her &lt;a href=&quot;/octopus-carnival/2026/03/02/lphr-jania.html&quot;&gt;starting version&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After playing through Adventure 1 I can say Jania has been working pretty much
+as expected. A thiefy wizard, and a wizard thief. She has handled all the
+trap-finding and lock-opening that she needed to, and her spells have been
+occasionally useful as well. The standout here were the repeated uses of Glass
+Wall to help with the breaching-and-clearing of Hocum’s Phantasmagorium at the
+end of the adventure.&lt;/p&gt;
+
+&lt;p&gt;I didn’t expect a lot out of her in combat since she’s a Thief-type, but she was
+surprisingly useful when she got to hit people in the skull with her cane while
+Art held them down. She’s switching to a smallsword now, so I wonder how that
+will change things. Her ranged combat on the other hand has been as
+disappointing as expected, since it takes a while to charge up an Ice Dagger and
+it often misses or gets dodged.&lt;/p&gt;
+
+&lt;p&gt;Her advancement has been focusing more on utility spells and skills,
+particularly the ones needed to help run the rebellion. Like the rest of her
+companions, she started out with 250 points and currently sits at 289 with 0
+unspent points. The biggest expenditure here was a much-needed improvement of
+Spell-Thief Expertise from 2 to 3.&lt;/p&gt;
+
+&lt;h1 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 10 {0}; &lt;strong&gt;DX&lt;/strong&gt; 14 {80}; &lt;strong&gt;IQ&lt;/strong&gt; 14 {80}; &lt;strong&gt;HT&lt;/strong&gt; 11 {10};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d/1d-2; Basic Lift 10kg.; Will 14; Per 14; HP 10 FP 11; Basic Speed
+6.25; Basic Move 6.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flexibility {5}&lt;/li&gt;
+  &lt;li&gt;High Manual Dexterity 1 {5}&lt;/li&gt;
+  &lt;li&gt;Open Locks 2 {5}&lt;/li&gt;
+  &lt;li&gt;Reputation (All the time, everyone but Thrune supporters): +1 {3}&lt;/li&gt;
+  &lt;li&gt;Spell-Thief Experdise 3 {38}&lt;/li&gt;
+  &lt;li&gt;Unusual Background (Spell-Thief) {5}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bad Temper {-10}&lt;/li&gt;
+  &lt;li&gt;Code of Honor (Outlaw’s) {-5}&lt;/li&gt;
+  &lt;li&gt;Laziness {-10}&lt;/li&gt;
+  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Adventuring Companions) {-5}&lt;/li&gt;
+  &lt;li&gt;Weirdness Magnet {-15}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Acrobatics DX-2 {1}-12&lt;/li&gt;
+  &lt;li&gt;Admininstration (A) IQ+1 {4} - 15&lt;/li&gt;
+  &lt;li&gt;Alchemy IQ-3 {1}-11&lt;/li&gt;
+  &lt;li&gt;Brawling DX+0 {1}-14&lt;/li&gt;
+  &lt;li&gt;Carousing HT+0 {1}-11&lt;/li&gt;
+  &lt;li&gt;Climbing DX+2 {1}-16&lt;/li&gt;
+  &lt;li&gt;Disguise IQ-1 {1}-13&lt;/li&gt;
+  &lt;li&gt;Escape DX+3 {4}-17&lt;/li&gt;
+  &lt;li&gt;Fast-Draw (Sword) DX+0 {1}-14&lt;/li&gt;
+  &lt;li&gt;Fast-Talk IQ+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Fencing DX+3 {12}-17&lt;/li&gt;
+  &lt;li&gt;Filch DX+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Hazardous Materials IQ-1 {1}-13&lt;/li&gt;
+  &lt;li&gt;Hidden Lore (Magic Items) IQ+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Holdout IQ+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Innate Attack (Projectile) DX+1 {2}-15&lt;/li&gt;
+  &lt;li&gt;Intelligence Analysis IQ+0 {4} - 14&lt;/li&gt;
+  &lt;li&gt;Leadership IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Lockpicking DX+2 {4}-16&lt;/li&gt;
+  &lt;li&gt;Merchant (A) IQ-1 {1}-13&lt;/li&gt;
+  &lt;li&gt;Observation (A) Per+1 {4} - 15&lt;/li&gt;
+  &lt;li&gt;Occultism IQ+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Pickpocket DX+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire IQ+0 {1}-14&lt;/li&gt;
+  &lt;li&gt;Sleight of Hand DX-1 {1}-13&lt;/li&gt;
+  &lt;li&gt;Stealth DX+1 {4}-15&lt;/li&gt;
+  &lt;li&gt;Streetwise IQ+0 {2}-14&lt;/li&gt;
+  &lt;li&gt;Thaumatology IQ-1 {1}-13&lt;/li&gt;
+  &lt;li&gt;Traps IQ+1 {4}-15&lt;/li&gt;
+  &lt;li&gt;Urban Survival Per+0 {2}-14&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Apportation IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Aura IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Blur IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Climbing IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Continual Light IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Create Water IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Darkness IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Detect Magic IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Freeze IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Glass Wall IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Grease IQ+2 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Great Haste IQ {2} - 15&lt;/li&gt;
+  &lt;li&gt;Haste IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Ice Dagger IQ+2 {2} - 16&lt;/li&gt;
+  &lt;li&gt;Ice Sphere IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Icy Weapon IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Infravision IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Invisibility IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Levitation IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Light IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Lockmaster IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Locksmith IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Magelock IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Mage Sight IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Night Vision IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Purify Water IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;See Invisible IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Seeker IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Seek Food IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Seek Water IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;See Secrets IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Shape Water IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Trace IQ+1 {1} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Total: $9984.00, 9.5825kg. No Encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clothing; $0, 1kg.&lt;/li&gt;
+  &lt;li&gt;Armor:
+    &lt;ul&gt;
+      &lt;li&gt;Body: Enchanted Silk Undershirt. Forfity 1, DR 1. $470, 0.2kg.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ninja Slippers: +1 to Stealth. $100, 0.25 kg.&lt;/li&gt;
+  &lt;li&gt;The Needle: Fine, Balanced smallsword enchanted with Puissance 1. 14 FP as a
+Power Item. $8200, 0.75kg.&lt;/li&gt;
+  &lt;li&gt;Backpack, Small; $60, 1.5 kg.
+    &lt;ul&gt;
+      &lt;li&gt;Personal Basics; $5, 0.5 kg.&lt;/li&gt;
+      &lt;li&gt;Trap-Finder’s Kit, Good; $250, 1 kg.&lt;/li&gt;
+      &lt;li&gt;Spy’s Horn; $100, 1 kg.&lt;/li&gt;
+      &lt;li&gt;Canteen; $10, 0.5kg.
+        &lt;ul&gt;
+          &lt;li&gt;Water (1 Quart); $0, 1 kg.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Scroll Belt: 10 waterproof compartments for scrolls. $60, 0.5kg.&lt;/li&gt;
+  &lt;li&gt;Pouch; $10, 0.1 kg.
+    &lt;ul&gt;
+      &lt;li&gt;Hand Mirror: $15, 0.5kg.&lt;/li&gt;
+      &lt;li&gt;Lockpicks; $50, 0.05 kg.&lt;/li&gt;
+      &lt;li&gt;2 x Nageteppo, Flash; $40, 0.1 kg.&lt;/li&gt;
+      &lt;li&gt;2 x Nageteppo, Smoke; $40, 0.1 kg.&lt;/li&gt;
+      &lt;li&gt;Coins:
+        &lt;ul&gt;
+          &lt;li&gt;1 x Gold Coin, Quartered. $100, 0.0025kg.&lt;/li&gt;
+          &lt;li&gt;19 x silver coin: $20, 0.01kg.&lt;/li&gt;
+          &lt;li&gt;14 x copper coin: $1, 0.01kg.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 9&lt;/li&gt;
+      &lt;li&gt;Parry: 11F&lt;/li&gt;
+      &lt;li&gt;DR: 1 (torso), 0 (elsewhere)&lt;/li&gt;
+      &lt;li&gt;Control Maximum: 10
+        &lt;ul&gt;
+          &lt;li&gt;1 to 5: -2&lt;/li&gt;
+          &lt;li&gt;6 to 10: -4&lt;/li&gt;
+          &lt;li&gt;11 to 15: -6&lt;/li&gt;
+          &lt;li&gt;16 to 20: -8&lt;/li&gt;
+          &lt;li&gt;21 or more: -12&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;FP: 7/11&lt;/li&gt;
+      &lt;li&gt;HP: 10/10&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;The Needle (17): 1d+1 imp (thrust). Reach 1.&lt;/li&gt;
+      &lt;li&gt;Ice Dagger (15): 1d-1 imp/point, Acc 3, Range 30/60. -1 to final cost.&lt;/li&gt;
+      &lt;li&gt;Ice Sphere (15): 1d cr/point, Acc 2, Range 40/80.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/10/23/lphr-jania-moonshadow-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/23/lphr-jania-moonshadow-2.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Adventurers: Appendices</title>
@@ -1349,199 +1572,6 @@ pays for a standard-issue edged rapier.&lt;/p&gt;
         <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
         <link>https://bira.github.io/octopus-carnival/2026/10/01/dfrpg-adventurers-chapter-07.html</link>
         <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/01/dfrpg-adventurers-chapter-07.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DFRPG Adventurers: Chapter 3, Races</title>
-        <description>&lt;p&gt;Yes, this book still uses the term “Races”, having been written a few years
-before other games finally started getting rid of it. That brings a symptom of
-the main problem I have with this chapter: the options presented here mostly
-follow the cliches presented in older editions of D&amp;amp;D. I imagine they chose this
-because it provided a good and familiar baseline in 2016-2017, but it does mean
-we have to deal with some of the annoying fantasy racism that later games made
-an effort to remove. The text actually does acknowledge some of that racism,
-though that acknoledgment is a bit impaired by the general tongue-in-cheek tone
-in which the super generic implied setting is presented.&lt;/p&gt;
-
-&lt;p&gt;You see, many social traits in GURPS like Appearance and Social Stigma are
-relative. &lt;em&gt;Who&lt;/em&gt; thinks the bard is hot, and &lt;em&gt;who&lt;/em&gt; looks down on the barbarian’s
-foreign ways? When a GURPS GM builds a campaign setting from scratch, they’re
-asked to answer that question by providing a &lt;strong&gt;reference culture&lt;/strong&gt;. That’s the
-dominant culture in the areas where the vast majority of the campaign takes
-place.&lt;/p&gt;
-
-&lt;p&gt;This chapter does not describe this concept, but it does introduce us to a
-reference culture by repeatedly mentioning it in the text and template
-descriptions: that of Ordinary Townsfolk(TM).&lt;/p&gt;
-
-&lt;p&gt;Ordinary Townsfolk are those people who live in Town under the rule of the
-King. They’re human, they very rarely leave Town, and they don’t have good
-opinions about things outside of their daily experience. In other words, they’re
-the opposite of “open-minded” and “cosmopolitan”. Ordinary Townsfolk recognize
-adventuring as a profession, but not a very respectable one. I guess that’s in
-part because delvers will accept “just about anyone”, since Social Stigmas don’t
-apply between PCs. Still, they’re happy to sell stuff to adventurers, who always
-have plenty of money to spend.&lt;/p&gt;
-
-&lt;p&gt;The very first sentence in the actual text of the chapter does state that “race”
-means “species”, so let’s use that term from now on in this post. It goes on to
-say that many nonhuman intelligent species can be found in the world. A lot of
-them show up as the opposition, inhabiting dungeons and other dangerous places:
-orcs, ogres, trolls, and so on. Ordinary Townsfolk consider those
-monsters. There are other species they consider “people”, and whom monsters
-consider enemies. These you can find living in Town, and available as options
-for delver PCs.&lt;/p&gt;
-
-&lt;p&gt;Next, the chapter introduces the concept of &lt;strong&gt;racial templates&lt;/strong&gt; (henceforth
-&lt;strong&gt;species templates&lt;/strong&gt;), which work a bit differently than the professional ones.&lt;/p&gt;
-
-&lt;p&gt;Each template has a fixed cost, which must be paid using the discretionary
-points from your delver’s professional template. Every professional template, as
-we already saw, has a listed point amount for buying advantages and powers. They
-also have 7 points for optional secondary skills, and can gain an extra 5 from
-quirks. You can use these to pay for a species template, which does mean you’ll
-be spending less points on stuff related to your profession. Someone without a
-species template is assumed to be (mostly) human.&lt;/p&gt;
-
-&lt;p&gt;The cost of a template is the total cost of all of its components.&lt;/p&gt;
-
-&lt;h1 id=&quot;template-components&quot;&gt;Template Components&lt;/h1&gt;
-
-&lt;p&gt;Every species template has stat modifiers, advantages, disadvantages, and might
-have features. The stat modifiers apply after you’ve adjusted your PC’s stats
-from their professional template, and modify both the current score and the
-usual maximums. For example, if you have ST+2, you can also buy your ST up to 22
-and not just 20.&lt;/p&gt;
-
-&lt;p&gt;Advantages and disadvantages are shared by all members of that species, whether
-because they’re part of its biology, because they’re part of its dominant
-culture or because they model the prejudices of Ordinary Townsfolk. Features are
-cosmetic details that don’t cost any points.&lt;/p&gt;
-
-&lt;p&gt;This is my second problem with this chapter, flowing right from the first: I’m
-not really a fan of having “cultural” or personality traits be a mandatory part
-of a species template. As I mentioned in &lt;a href=&quot;https://bira.github.io/octopus-carnival/2018/10/18/peoples-of-tamriel.html&quot;&gt;this old post of mine&lt;/a&gt;, I don’t
-want a bigoted asshole who says “all dwarves are greedy, stubborn bastards” to
-be &lt;em&gt;right&lt;/em&gt;. Plus players just love playing exceptional or rebellious members of
-a species that don’t conform to the cliche, and I’d like that to be easy. The
-templates I tend to write for my own campaigns tend to be far more minimalist
-than these, without most attribute adjustments and with no mandatory mental
-traits.&lt;/p&gt;
-
-&lt;p&gt;You write the components of your species template down in the appropriate
-sections, together with the ones from your profession, which I think it’s a big
-improvement over the way core GURPS does it (“just write the template and its
-total cost with your Advantages and remember its components with your brain”).&lt;/p&gt;
-
-&lt;h1 id=&quot;pc-species&quot;&gt;PC Species&lt;/h1&gt;
-
-&lt;p&gt;These are our species templates. All of them cost 20 points except for Cat-Folk,
-which cost 40. As mentioned above, most of their descriptions are well-trod and
-sometimes unfortunate cliches, so please note that I’m paraphrasing the book
-here and not stating my own opinion (which you can find way up there in the
-introductory paragraphs).&lt;/p&gt;
-
-&lt;p&gt;Anyway, here are the species:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cat-Folk&lt;/strong&gt; refer to themselves as cat-boys or cat-girls depending on
-gender. They have human-shaped bodies covered in short fur, feline facial
-features, and prominent cat ears and tail. That gives us a look closer to that
-of the Khajit from Elder Scrolls than to the Mi’quote from Final Fantasy 14.&lt;/p&gt;
-
-&lt;p&gt;Their claws and teeth are natural weapons, they can see really well in the dark,
-they have Catfall, and a bit of Temperature Tolerance from fur. Their
-disadvantages are also cliche cat traits: impulsive, lazy, and with a mild
-phobia of entering water.&lt;/p&gt;
-
-&lt;p&gt;They’re compatible with human armor (the tail can be safely tucked in), and they
-can buy gauntlets and boots that expose their claws but still protect their
-hands and feet at no extra cost.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dwarves&lt;/strong&gt; are pretty much what you’d expect. Short, sturdy, excellent night
-vision, really good at mining and at killing people with axes. Also greedy and
-stubborn.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Elves&lt;/strong&gt; represent “green” or “wood” elves with a hands-on approach to
-defending nature. They’re far more approachable than Those Other Elves, which
-are haughty, isolationist, and not statted up for PC use. Elves are a bit taller
-than humans, have the classical pointy ears, and these wood elves have bright
-green hair. Nothing unexpected in their traits here: they’re graceful, pretty,
-have innate Magery, are good at sneaking and shooting bows, and have a sense of
-duty to Nature.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Half-Elves&lt;/strong&gt; inherit elven grace, magical aptitude, and bright hair colors,
-but are a bit more robust thanks to their human parents. They have no duty to
-Nature, but suffer under the cliche where neither humans nor elves like them
-very much.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gnomes&lt;/strong&gt; tend to follow the “tinker gnome” archetype in that they’re very good
-at mechanical skills in addition to being almost as sturdy and cave-adapted as
-dwarves. They’re also extremely curious, and are our first “small” species at SM
--1.&lt;/p&gt;
-
-&lt;p&gt;A bit of lore: there are rumors of “Hell Gnomes”, a tribe that went bad. Other
-Gnomes claim this term refers to actual demons, but don’t seem comfortable with
-the topic. I had something similar back when I GMed, a gnome cult who went
-around doing evil stuff and saying “Rawr, I’m a monster!”.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Half-Ogre&lt;/strong&gt;: The progeny of an ogre and an orc or human, half-ogres are
-smaller than their ogre parents and are just on this side of what Ordinary
-Townsfolk consider “people”. They’re &lt;em&gt;very&lt;/em&gt; strong, tough, and fearless, but
-have an IQ penalty, are considered ugly, and bear a social stigma as “savages”
-due to their parentage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Half-Orcs&lt;/strong&gt;: You can’t talk about half-orcs without talking about orcs, and
-the orcs in this game are subject to all of the old cliches. There’s a group of
-related species known as “Goblin-kin” whom Ordinary Townsfolk view as
-“borderline-civilized” brutes, and who discriminate among themselves on the
-basis of size and blood purity. Orcs are a part of this group: the medium-sized,
-“not-too-stupid” ones who bully the others.&lt;/p&gt;
-
-&lt;p&gt;Half-orcs are “the product of generations of inbreeding among the offspring of
-orc rapine”. Yikes! This is about as bad as it was back in AD&amp;amp;D or D&amp;amp;D 3e, and
-it’s why it’s a good idea to modify or discard the implied setting.&lt;/p&gt;
-
-&lt;p&gt;Anyway, half-orcs are as smart as humans but tougher, with better hearing and
-night vision. Some half-orcs are accepted by orcs and can be found among
-them. The ones who are rejected drift towards human settlements, where they
-suffer the same prejudices as half-ogres and often can only make a living as
-delvers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Halflings&lt;/strong&gt; are so called because they have half the height of a human. This
-makes them tiny (SM -2) and weak compared to a human, but they’re very agile and
-very sneaky, in addition to being crack shots with a bow or sling. They’re also
-gluttonous and kleptomaniac. Unlike kender from Dragonlance, though, these
-halflings know what they’re naturally adept at thievery. The cliche halfling
-community here is not an idyllic pastoral village, but an organized crime
-family.&lt;/p&gt;
-
-&lt;h1 id=&quot;personal-impressions&quot;&gt;Personal Impressions&lt;/h1&gt;
-
-&lt;p&gt;I don’t use most of this chapter in my games at all. I tend to go with versions
-of the species presented here that are free of mandatory psychological
-advantages and IQ penalties. My reference culture is also usually more
-cosmopolitan than the one here, which also removes Social Stigmas and the like.&lt;/p&gt;
-
-&lt;p&gt;This does tend to increase template cost. I counteract that by also eliminating
-“small” attribute adjustments like a +1 to ST or DX. You can still say that the
-average member of this species is stronger or more agile than a human, of
-course, but PC delvers are the furthest thing from average. A starting barbarian
-is going to have ST 17 or a wizard IQ 15 no matter what species they are. If
-some of that is from a nonhuman physiology, the final effect and point cost is
-still the same.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/09/23/dfrpg-adventurers-chapter-03.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/09/23/dfrpg-adventurers-chapter-03.html</guid>
         
         <category>lets-read</category>
         
