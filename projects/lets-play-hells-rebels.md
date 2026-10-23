@@ -174,4 +174,4 @@ scenes.
 [37]: {{ "/2026/10/05/lphr-scene-17.html" | relative_url }}
 [38]: {{ "/2026/10/08/lphr-arcturus-02.html" | relative_url }}
 [39]: {{ "/2026/10/13/lphr-jade-irinka-02.html" | relative_url }}
-[40]: {{ "/2026/10/21/lphr-jania-moonshadow-2.html" | relative_url }}
+[40]: {{ "/2026/10/23/lphr-jania-moonshadow-2.html" | relative_url }}

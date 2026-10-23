@@ -9,10 +9,12 @@ tags:
     - hells-rebels
 ---
 
+I've been stressing out about real-life fascists these past few days, so I
+thought I'd destress a bit by publishing another post about people fighting
+fantasy fascists in my [solo Hell's Rebels campaign][2]
 
-An update to Jania, one of the player characters for my [solo Hell's Rebels
-campaign][2]. Her description and backstory remain the same and can be see in
-the post for her [starting version][1].
+This is an update to Jania. Her description and backstory remain the same and
+can be see in the post for her [starting version][1].
 
 After playing through Adventure 1 I can say Jania has been working pretty much
 as expected. A thiefy wizard, and a wizard thief. She has handled all the
