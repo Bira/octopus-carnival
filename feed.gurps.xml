@@ -5,15 +5,93 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 Oct 2026 16:25:53 +0000</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 16:25:53 +0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 15:47:47 +0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:47:47 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
+        <title>Let&apos;s Read DFRPG Exploits: Introduction</title>
+        <description>&lt;figure style=&quot;text-align: center;&quot;&gt;
+  &lt;img
+    src=&quot;https://bira.github.io/octopus-carnival/assets/adventurers-cover-full-size-240x300.png&quot;
+    style=&quot;display: inline-block;&quot;/&gt;
+  &lt;img src=&quot;https://bira.github.io/octopus-carnival/assets/exploits-cover-full-240x300.png&quot;
+       style=&quot;display: inline-block;&quot;/&gt;
+  &lt;figcaption&gt;Some of the covers fit together!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;If &lt;em&gt;DFRPG: Adventurers&lt;/em&gt; was our “Player’s Handbook” with everything you need to
+create a character, then &lt;em&gt;Expoits&lt;/em&gt; is our “Dungeon Master’s Guide” with
+everything you need to actually play the game, and everything your GM
+needs to challenge and reward you. Or, well, almost. There’s a separate book for
+spells and another one for monsters, and we’ll get to them in due time.&lt;/p&gt;
+
+&lt;h1 id=&quot;cover&quot;&gt;Cover&lt;/h1&gt;
+
+&lt;p&gt;Its cover is the image to the right, above. I’m putting both of them here again
+because I like the effect they have when put side by side.&lt;/p&gt;
+
+&lt;h1 id=&quot;quick-rules-reference&quot;&gt;Quick Rules Reference&lt;/h1&gt;
+
+&lt;p&gt;This sheet here can probably be printed to become a second panel in your GM’s
+screen. It has stuff that’s handy for GMs this time around. We start with a
+reference on Light and Vision, listing what penalties you get to see in various
+levels of illumination. Daylight is a 0, total darkness is a -10, and every
+number in-between is possible.&lt;/p&gt;
+
+&lt;p&gt;Next is a list of light sources PCs are likely to carry into a dungeon, along
+with their areas of effect, which can either be a circular radius or a tight
+beam. They elimiate darkness penalties in this area, and reduce the penalty to
+-3 up to 3x that distance.&lt;/p&gt;
+
+&lt;p&gt;Then you get quick tables to figure out falling damage based on how far you
+fall, how far you can throw heavy stuff based on your Basic Lift, and a complete
+table listing the damage modifiers for every damage type, hit location, and
+enemy “constitution” (Living, Unliving, or Homogenous). This will all make sense
+when we get to the combat chapters.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-actual-introduction&quot;&gt;The Actual Introduction&lt;/h1&gt;
+
+&lt;p&gt;Despite the comparison above, players are encouraged to read some of Exploits
+too, mainly the parts containing the basic rules of the game that explain how
+they can &lt;em&gt;do stuff&lt;/em&gt;. The rest of the book is more useful to the GM when planning
+campaigns and adventures, but there’s no iron-clad Gygaxian prohibition against
+players reading that too.&lt;/p&gt;
+
+&lt;p&gt;The page finishes with recommendations on where to get more material. There are
+several supplements for DFRPG specifically that came out after the core box, but
+even at the time of its release you could choose to branch out to “mainline
+GURPS” if you wished, and to the “sister line” of GURPS Dungeon Fantasy
+supplements.&lt;/p&gt;
+
+&lt;h1 id=&quot;impressions&quot;&gt;Impressions&lt;/h1&gt;
+
+&lt;p&gt;Not a lot to have impressions about, though I do like that the illumination
+rules get a bit of spotlight here. Those tend to be very important for any game
+that features lots of dungeon delving.&lt;/p&gt;
+
+&lt;p&gt;We’ll, er, delve deeper into damage types in the Combat chapter, but I’ll say
+that having them here for &lt;em&gt;several types of enemy physiology&lt;/em&gt; is a great help as
+well. Few genres feature more enemies with bizarre anatomies than dungeon fantasy.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/11/01/dfrpg-exploits-introduction.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/11/01/dfrpg-exploits-introduction.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        
+      </item>
+    
+      <item>
         <title>Let&apos;s Play Hell&apos;s Rebels: Rosalia Savory update 1</title>
-        <description>&lt;p&gt;An update to Rosalia, one of the player characters for my [solo Hell’s Rebels
-game][2]. Her description and backstory remains the same as her [starting
-version][1], and we discuss what changed here.&lt;/p&gt;
+        <description>&lt;p&gt;An update to Rosalia, one of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels
+game&lt;/a&gt;. Her description and backstory remains the same as her &lt;a href=&quot;/octopus-carnival/2026/03/03/lphr-rosalia.html&quot;&gt;starting
+version&lt;/a&gt;, and we discuss what changed here.&lt;/p&gt;
 
 &lt;p&gt;I’ve played Rosalia in three different occasions so far. Once in another solo
 game, once in a D&amp;amp;D 4 Zeitgeist play-by-post, and now. In the first one she was
@@ -1400,99 +1478,6 @@ filename was incorrect. This has been fixed.&lt;/p&gt;
         <category>lets-play</category>
         
         <category>dungeon-fantasy</category>
-        
-        <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Time for shopping!</title>
-        <description>&lt;p&gt;As I said in the &lt;a href=&quot;/octopus-carnival/2026/09/22/lphr-scene-16.html&quot;&gt;previous post&lt;/a&gt;, it’s time to buy some new gear for our
-heroes. We have $38045 in our communal treasure for this purpose. I don’t want
-to spend it all, but some upgrades are still needed.&lt;/p&gt;
-
-&lt;p&gt;Arcturus got a cool suit of armor, Urist got the same plus a better weapon, and
-Jade got out of that with a couple of fairly powerful utility items. So we’ll
-focus on Jania and Rosalia here for the most part.&lt;/p&gt;
-
-&lt;p&gt;I’m also going to abstract things here. Weapons and armor are bought through
-this tengu weapons dealer Laria introduces, a guy named Chuko. He owns an
-above-board weapon shop but is also very interested in selling to resistance
-movements. Arcane and thiefy gear comes from Lady Docur’s school. The PCs pay
-list price for everything.&lt;/p&gt;
-
-&lt;p&gt;Chuko is an important NPC in the later part of the campaign, but I think I
-actually missed his introduction in my original read-through.&lt;/p&gt;
-
-&lt;p&gt;Some of this stuff will certainly consist of special orders, but we can say
-there’s, uh, three weeks between this adventure and the start of the next
-one. Nox was supposed to be one of Barzilai’s top lieutenants so I’m sure he’s
-going to spend some time reorganizing.&lt;/p&gt;
-
-&lt;h1 id=&quot;rosalias-new-equipment&quot;&gt;Rosalia’s New Equipment&lt;/h1&gt;
-
-&lt;p&gt;I gave her Heroic Archer with XP, so now we need a proper bow. And since she’s a
-bard it’s gotta be a Bow-Harp.&lt;/p&gt;
-
-&lt;p&gt;Let’s splurge a bit and make it a Balanced Elven Short Bow-Harp for a total of
-+25 CF. That’s $1300, 1.5kg. She’s gonna name it Allegretto and use it as her
-Power Item.&lt;/p&gt;
-
-&lt;p&gt;We’ll also spend the money for a Cornucopia Quiver that produces Fine
-arrows. $6010, 0.25kg.&lt;/p&gt;
-
-&lt;p&gt;Here’s a formatted list of her new stuff:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Allegretto: Balanced Elven Short Bow-Harp. thr imp, Acc 2, Range x10/x15. ST
-10 but user fires as ST 12. 9 FP as a power item. $1300, 1.5kg.&lt;/li&gt;
-  &lt;li&gt;Fine Cornucopia Quiver: Produces Fine arrows. $6010, 0.5kg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;janias-new-equipment&quot;&gt;Jania’s new Equipment&lt;/h1&gt;
-
-&lt;p&gt;We’ll replace Jania’s cane with a real smallsword. It’s going to be Fine and
-Balanced for +7 CF, which means it’s going to be $3200, 0.75kg. This also makes
-it an excellent power item. Since Jania has Weapon Channeling, we can pay an
-extra $30 to add the Staff enchantment to this sword. We then also add a
-Penetrating Weapon enchantment to this one, for $5000.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The Needle: Fine, Balanced smallsword enchanted with Puissance 1. 14 FP as a
-Power Item. $8200, 0.75kg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;urists-new-equipment&quot;&gt;Urist’s new Equipment&lt;/h1&gt;
-
-&lt;p&gt;Yes, Urist got plenty of new fighty gear, but let’s also get a High Holy Symbol
-for him to act as a Power Item.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;High Holy Symbol: +2 to Exorcism, Turning, and other appropriate rolls. 8 FP
-as a Power Item. $1000, 0.5kg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;total-expenditure&quot;&gt;Total Expenditure&lt;/h1&gt;
-
-&lt;p&gt;With this, we spent $16510 on new gear for our PCs, which I think it’s
-enough. That’s 41 gold coins, 5 silvers, and 10 coppers. It leaves us with
-$21535 left, or 53 gold, 16 silver, 15 copper. Our previous number of coins
-didn’t make this a clean subtraction, but we can assume the merchants gave some
-change back.&lt;/p&gt;
-
-&lt;p&gt;And that’s it for our organizational bits between adventures 1 and 2.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/10/05/lphr-scene-17.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/05/lphr-scene-17.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>lets-play</category>
         
         <category>hells-rebels</category>
         
