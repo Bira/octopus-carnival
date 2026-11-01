@@ -62,6 +62,11 @@ number of people have heard about it.
 - The [Appendix][22] contains a couple of sample characters to close out the
   book.
 
+# DFRPG: Exploits
+
+- [DFRPG Exploits Introduction][23]
+
+
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
 [3]: {{ "/2026/07/07/dfrpg-adventurers-basics.html" | relative_url }}
@@ -84,3 +89,4 @@ number of people have heard about it.
 [20]: {{ "/2026/10/09/dfrpg-adventurers-chapter-07-3.html" | relative_url }}
 [21]: {{ "/2026/10/16/dfrpg-adventurers-chapter-07-4.html" | relative_url }}
 [22]: {{ "/2026/10/20/dfrpg-adventurers-appendix.html" | relative_url }}
+[23]: {{ "/2026/11/01/dfrpg-exploits-introduction.html" | relative_url }}

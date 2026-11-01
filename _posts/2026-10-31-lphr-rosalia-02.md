@@ -162,3 +162,7 @@ Stored back at base.
 [^1]: +2 for Voice
 [^2]: +3 for Bardic Talent
 [^3]: +2 from Charisma
+
+
+[1]:{{ "/2026/03/03/lphr-rosalia.html" | relative_url }}
+[2]: {{ "/projects/lets-play-hells-rebels/" | relative_url }}
