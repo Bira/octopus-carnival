@@ -6,9 +6,208 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 Nov 2026 15:47:47 +0000</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2026 15:47:47 +0000</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 14:16:28 +0000</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:16:28 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Urist Stortebeker, the Last Archivist</title>
+        <description>&lt;p&gt;An update to Urist Stortebeker, one of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s
+Rebels campaign&lt;/a&gt;. His description and backstory remain the same as his
+&lt;a href=&quot;/octopus-carnival/2026/03/05/lphr-urist.html&quot;&gt;starting version&lt;/a&gt;, and we discuss what changed here.&lt;/p&gt;
+
+&lt;p&gt;I tried leading Urist in a “fightier” direction, as befits an axe-wielding
+dwarf, but my success was mixed here. He’s generally hard to hurt and his new
+armor should make him even more so, but he hasn’t been the most successful at
+hurting enemies. That said, his healing spells have been literal life-savers
+here, and his buff and utility magic has pulled its weight.&lt;/p&gt;
+
+&lt;p&gt;He started at 250 points and is now at 294, with zero unspent points. This is a
+higher total than the others because I noticed I had too many disadvantages on
+his starting sheet and removed one. I don’t believe it will cause any imbalance.&lt;/p&gt;
+
+&lt;p&gt;That said I did try to make him fightier. One level each in Axe/Mace, Shield,
+ST, and Higher Purpose (Slay Demons) make him hit better and harder, doubly so
+against demons. He can also wear heavier armor.&lt;/p&gt;
+
+&lt;p&gt;He also improved or acquired several skills that help run the rebellion’s
+strategic layer. Magic-wise, we have a couple of levels of Energy Reserve to
+help with the casting, which is slightly better for that purpose than more
+Fatigue because it recovers in parallel.&lt;/p&gt;
+
+&lt;h1 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 13 {30}; &lt;strong&gt;DX&lt;/strong&gt; 12 {40}; &lt;strong&gt;IQ&lt;/strong&gt; 14 {80}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
+
+&lt;p&gt;Damage 1d/2d-1; Basic Lift 16.9kg; HP 13; Will 14; Per 14; FP 14 {6}; Basic
+Speed 6; Basic Move 5 {-5};&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clerical Investment {5}&lt;/li&gt;
+  &lt;li&gt;Detect Evil {18}&lt;/li&gt;
+  &lt;li&gt;Energy Reserve (Divine) 2 {6}&lt;/li&gt;
+  &lt;li&gt;Higher Purpose (Slay Demons) 1 {5}&lt;/li&gt;
+  &lt;li&gt;Night Vision 5 {5}&lt;/li&gt;
+  &lt;li&gt;Power Investiture 3 {30}&lt;/li&gt;
+  &lt;li&gt;Reputation (All the time, everyone but Thrune supporters): +1 {3}&lt;/li&gt;
+  &lt;li&gt;Resistant to Poison 6 {6}&lt;/li&gt;
+  &lt;li&gt;Unfazeable {15}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Features&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Armor not interchangeable with that of humans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Charitable (12) {-15}&lt;/li&gt;
+  &lt;li&gt;Compulsive Carousing (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Compulsive Generosity (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Feature: Armor not compatible with human armor {0}&lt;/li&gt;
+  &lt;li&gt;Intolerance (Evil Religions) {-5}&lt;/li&gt;
+  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
+  &lt;li&gt;Sense of Duty (Good Entities) {-10}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Administration (A) IQ {2} - 14&lt;/li&gt;
+  &lt;li&gt;Axe/Mace (A) DX+2 {12} - 15&lt;/li&gt;
+  &lt;li&gt;Diagnosis (H) IQ-2 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Esoteric Medicine (Holy) (H) Per {4} - 14&lt;/li&gt;
+  &lt;li&gt;Exorcism (H) Will {4} - 14&lt;/li&gt;
+  &lt;li&gt;First Aid (E) IQ+1 {1}&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; - 15&lt;/li&gt;
+  &lt;li&gt;Gesture (E) IQ {1} - 14&lt;/li&gt;
+  &lt;li&gt;Hidden Lore (Demons) (A) IQ {1}&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Hiking (A) HT-1 {1} - 11&lt;/li&gt;
+  &lt;li&gt;Innate Attack (Projectile) (E) DX+2 {4} - 14&lt;/li&gt;
+  &lt;li&gt;Meditation (H) Will-2 {1} - 12&lt;/li&gt;
+  &lt;li&gt;Observation (A) Per {2} - 14&lt;/li&gt;
+  &lt;li&gt;Occultism (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Physiology (Demons) (H) IQ {2}&lt;sup id=&quot;fnref:2:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; - 14&lt;/li&gt;
+  &lt;li&gt;Public Speaking (A) IQ {2} - 14&lt;/li&gt;
+  &lt;li&gt;Religious Ritual (H) IQ-1 {2} - 13&lt;/li&gt;
+  &lt;li&gt;Research (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Savoir-Faire (E) IQ {1} - 14&lt;/li&gt;
+  &lt;li&gt;Shield (E) DX+2 {8} - 15&lt;/li&gt;
+  &lt;li&gt;Surgery (VH) IQ-2 {2} - 12&lt;/li&gt;
+  &lt;li&gt;Teaching (A) IQ-1 {1} - 13&lt;/li&gt;
+  &lt;li&gt;Theology (H) IQ-2 {1} - 12&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Spells&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All get +3 from Power Investiture&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Affect Spirits (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Armor (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Breathe Water (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Cleansing (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Continual Light (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Cure Disease (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Glow (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Lend Energy (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Light (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Major Healing (VH) IQ {1} - 14&lt;/li&gt;
+  &lt;li&gt;Minor Healing (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Recover Energy (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Resist Disease (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Resist Fire (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Resist Lightning (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Resist Poison (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;See Secrets (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Shield (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sunbolt (H) IQ+1 {1} - 15&lt;/li&gt;
+  &lt;li&gt;Sunlight (H) IQ+1 {1} - 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;$13258.00, 25.615kg, Light Encumbrance.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clothing: $0, 1kg&lt;/li&gt;
+  &lt;li&gt;High Holy Symbol: +2 to Exorcism, Turning, and other appropriate rolls. 8 FP
+as a Power Item. $1000, 0.5kg.&lt;/li&gt;
+  &lt;li&gt;Balanced Dwarven Mace: enchanted with Puissance 1. +1 to Skill, +1 to
+Damage. sw+4 cr,  Reach 1, Parry 0. $5450, 2.5kg.&lt;/li&gt;
+  &lt;li&gt;Small Shield: $40, 4kg&lt;/li&gt;
+  &lt;li&gt;Small Knife [$30; 0.25 kg]&lt;/li&gt;
+  &lt;li&gt;Suit of Armor: DR 6 on body, DR 2 on limbs and extremities, no
+helmet. Lighten 1 and Fortify 1. $4674, 11.7kg.&lt;/li&gt;
+  &lt;li&gt;Backpack, small: Holds 20kg. $60, 1.5kg
+    &lt;ul&gt;
+      &lt;li&gt;First Aid Kit $50, 1kg;&lt;/li&gt;
+      &lt;li&gt;Holy Symbol $50, 0.5kg;&lt;/li&gt;
+      &lt;li&gt;4 x Holy Water $15, 0.5kg;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pouch $10; 0.1 kg;
+    &lt;ul&gt;
+      &lt;li&gt;Healing Potion, Minor: Heals 1d HP. $120, 0.25kg.&lt;/li&gt;
+      &lt;li&gt;2 x Universal Antidote: Instantly cures all poisons. $750, 0.25kg&lt;/li&gt;
+      &lt;li&gt;Gold Coin (Halved) $200; 0.005 kg;&lt;/li&gt;
+      &lt;li&gt;2 x Silver Coin $20; 0.01 kg;&lt;/li&gt;
+      &lt;li&gt;4 x Copper Coin $1; 0.01 kg;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Assumes Light Encumbrance and a DB 1 shield.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dodge: 9&lt;/li&gt;
+      &lt;li&gt;Parry: 11&lt;/li&gt;
+      &lt;li&gt;DR: 2 on skull, 0 on eyes, 6 on body, 2 on limbs and extremities.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Attacks&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Mace (15): 2d+3 cr, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Shield Bash (15): 1d cr, Reach 1.&lt;/li&gt;
+      &lt;li&gt;Sunbolt (14): 1d to 9d burn, Acc 2, Range 75/150, costs 0 to 8 FP.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Defaults from Esoteric Medicine (Holy) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;+1 from Higher Purpose (Slay Demons) &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/11/02/lphr-urist-02.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/11/02/lphr-urist-02.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>character</category>
+        
+        <category>lets-play</category>
+        
+        <category>hells-rebels</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Exploits: Introduction</title>
@@ -1445,42 +1644,6 @@ too simple, the Low-Tech ones too complicated, these are Just Right.&lt;/p&gt;
         <category>dungeon-fantasy</category>
         
         <category>gurps</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Some error fixes for past posts</title>
-        <description>&lt;p&gt;It has come to my attention that I’ve been less than fastidious about proper
-linking and formatting of my posts. Or, in other words, I’ve been mostly moving
-them from my “drafts” folder to the “public posts” one and then forgetting all
-about them without checking for bugs.&lt;/p&gt;
-
-&lt;p&gt;This post here is a notice that a bunch of these bugs have been fixed.&lt;/p&gt;
-
-&lt;p&gt;Every post in both my &lt;a href=&quot;/octopus-carnival/projects/hells-rebels/&quot;&gt;Let’s Read&lt;/a&gt; and &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;Let’s Play&lt;/a&gt; of Hell’s Rebels
-that contained a broken link to their respective project page now has the
-correct link.&lt;/p&gt;
-
-&lt;p&gt;The very long loot ledger from &lt;a href=&quot;/octopus-carnival/2026/09/09/lphr-scene-15.html&quot;&gt;Adventure 01, Scene 15&lt;/a&gt; contained some
-characters that Markdown interpreted as a table, and as a result looked all
-wonky. These characters have been removed.&lt;/p&gt;
-
-&lt;p&gt;The post for &lt;a href=&quot;/octopus-carnival/2026/09/22/lphr-scene-16.html&quot;&gt;Adventure 01, Scene 16&lt;/a&gt; wasn’t showing up at all because its
-filename was incorrect. This has been fixed.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/10/06/fix-notifications.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/06/fix-notifications.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>lets-play</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>hells-rebels</category>
         
         
       </item>
