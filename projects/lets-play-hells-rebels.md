@@ -74,11 +74,11 @@ campaign. I might add updated versions as the opportunity presents itself.
 
 - **Arcturus Pankrator**: The Knight of the Deep.
   - [Starting character][12]
-  - [After Adventure 01][38]
+  - [After Adventure 1][38]
 
 - **Jade Irinka**: The Sixth Raven.
   - [Starting character][11]
-  - [After Adventure 01][39]
+  - [After Adventure 1][39]
 
 - **Jania Moonshadow**: The Phantom Thief.
   - [Starting character][13]
@@ -88,7 +88,9 @@ campaign. I might add updated versions as the opportunity presents itself.
   - [Starting character][14]
   - [After Adventure 1][41]
 
-- [Urist Stortebeker][15]: The Last Archivist.
+- **Urist Stortebeker**: The Last Archivist.
+  - [Starting character][15]
+  - [After Adventure 1][42]
 
 ## Monsters and NPCs
 
@@ -178,3 +180,4 @@ scenes.
 [39]: {{ "/2026/10/13/lphr-jade-irinka-02.html" | relative_url }}
 [40]: {{ "/2026/10/23/lphr-jania-moonshadow-2.html" | relative_url }}
 [41]: {{ "/2026/10/31/lphr-rosalia-02.html" | relative_url }}
+[42]: {{ "/2026/11/02/lphr-urist-02.html" | relative_url }}
