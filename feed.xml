@@ -6,9 +6,161 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Nov 2026 14:16:28 +0000</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2026 14:16:28 +0000</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 18:49:12 +0000</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:49:12 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Exploits: Chapter 1, Rolling the Dice</title>
+        <description>&lt;h1 id=&quot;chapter-1-rolling-the-dice&quot;&gt;Chapter 1: Rolling the Dice&lt;/h1&gt;
+
+&lt;p&gt;A lot of this is stuff we already saw in my &lt;a href=&quot;/octopus-carnival/2026/07/03/dfrpg-adventurers-introduction.html&quot;&gt;introduction post to
+Adventurers&lt;/a&gt;, but we go into more detail here. Check that post for the dice
+notation, the definition of success, reaction, and damage rolls, and Quick
+Contests.&lt;/p&gt;
+
+&lt;h2 id=&quot;success-rolls&quot;&gt;Success Rolls&lt;/h2&gt;
+
+&lt;p&gt;As mentioned &lt;a href=&quot;/octopus-carnival/2026/07/03/dfrpg-adventurers-introduction.html&quot;&gt;earlier&lt;/a&gt;, success rolls are done using three dice with the aim
+of rolling a number equal to or less than your effective skill level for a given
+task. Your margin of success or failure is the difference between that skill
+level and what you rolled.&lt;/p&gt;
+
+&lt;p&gt;Effective skill level means your base level in the relevant skill or attribute
+adjusted by any bonuses or penalties that apply in the present situation. A roll
+of 3 or 4 is always a critical success, a 18 always a critical failure. 5 or 6
+can be critical successes if your effective skill level is 15 or 16
+respectively. A 17 is a critical failure if your ESL is 15 or less, and a normal
+failure if it’s 16 or more.&lt;/p&gt;
+
+&lt;p&gt;The first bit of new material here is a box about who rolls and how. Players
+roll for their PC’s actions, of course, and they always roll in the open. GMs
+roll for everyone else in the world, and should also roll in the open &lt;em&gt;unless&lt;/em&gt;
+the action in question is happening entirely outside the knowledge of the PCs,
+or when the outcome isn’t something they’d know right away.&lt;/p&gt;
+
+&lt;p&gt;We also get two rules for teamwork: Complimentary Skills and Group
+Tests. Complimentary skills let a PC make a roll for the same or a related skill
+to help another’s attempt. A success grants a +1 bonus, a failure a -1 penalty,
+and criticals in either direction double that. A group test is for when all the
+PCs are trying to do the same thing as a team, such as sneak past a monster or
+survive in the wilderness. The PC with the highest skill rolls, with a -1
+penalty for each other PC who &lt;em&gt;doesn’t&lt;/em&gt; have the skill. Everyone shares in the
+result.&lt;/p&gt;
+
+&lt;p&gt;We also get rules for Time Spent: when you’re attempting something that takes a
+certain amount of time by default, each doubling of that time gives you a +1 to
+your roll. On the other hand, if you’re hurrying, each 10% reduction of the
+standard time gives you a -1. Yes, you can roll to pick that lock instantly at
+-10.&lt;/p&gt;
+
+&lt;p&gt;Repeated attempts get their on subsection. Stuff where repeated attempts are the
+norm (like attacking in combat) get no penalty. If failure injures you, you can
+try again after a short time without penalty other than risking more injury. If
+it doesn’t injure you, you instead get a cumulative -1 penalty per repeated
+attempt. And finally, if failure kills you, you obviously don’t get to try
+again…&lt;/p&gt;
+
+&lt;h2 id=&quot;contests&quot;&gt;Contests&lt;/h2&gt;
+
+&lt;p&gt;As seen &lt;a href=&quot;/octopus-carnival/2026/07/03/dfrpg-adventurers-introduction.html&quot;&gt;earlier&lt;/a&gt;, a Quick Contest is when both opponents roll once and
+compare their margins of success. The one with the greatest marging wins. The
+roll doesn’t have to be against the same skill for both participants. For
+example, a wizard can roll against their spell skill and the spell’s target can
+roll against their Will or HT to resist, and that’s still a Quick Contest.&lt;/p&gt;
+
+&lt;p&gt;One new thing that will come up a lot here is the Rule of 16, and it applies
+mostly in situations like the example above. In spellcasting or magical attacks,
+the attacker’s skill level is usually &lt;em&gt;much&lt;/em&gt; higher than the defender’s HT or
+Will, which can be a bit unfair. This rule caps the caster’s effective skill at
+16 or the defender’s resisting attribute, whichever is higher, to make it less
+of a foregone conclusion. So a wizard casting a sleep spell with skill 20 at a
+Will 9 orc will roll a contest of 16 vs. 9. If it was a Will-18 greater demon
+instead, it would be 18 vs. 18.&lt;/p&gt;
+
+&lt;p&gt;We also have Regular Contests, which are the boring version of Quick Contests
+where both sides roll until one succeeds and the other fails. It’s theoretically
+meant to model prolonged disputes, but I never ran into an occasion where using
+this rule would make things more fun.&lt;/p&gt;
+
+&lt;h2 id=&quot;sense-rolls&quot;&gt;Sense Rolls&lt;/h2&gt;
+
+&lt;p&gt;This takes up a whole page, and explains GURPS’ take on the classic adventurer
+activity of “rolling to notice stuff”. You always roll Perception for this, as
+expected, but the GM decides which of the character’s senses is most relevant to
+the roll, and applies relevant modifiers. This starts with the proper Acute
+(Sense) advantage, and then goes through several penalties relevant to that
+sense. Vision cares a lot about illumination, Hearing about volume and
+intervening obstacles, and so on.&lt;/p&gt;
+
+&lt;p&gt;If more than one sense matters, I imagine you make separate rolls for
+each. These are usually entirely handled by the GM because a PC wouldn’t know if
+they “failed to notice” something in the fiction.&lt;/p&gt;
+
+&lt;h2 id=&quot;influence-rolls&quot;&gt;Influence Rolls&lt;/h2&gt;
+
+&lt;p&gt;These represent deliberate attempts to influence someone’s opinion, as opposed
+to just letting your good looks and melodious voice do the work for you. Instead
+of making a reaction roll, roll a Quick Contest between your most applicable
+social skill and the other person’s Will. The same modifiers that would apply to
+the other person’s reaction roll now modify your skill. A success means a Good
+reaction, and a failure generates a Bad one. If you’re a skilled talker, this
+can be slightly safer than relying on reaction rolls, which can get you both
+much better and much worse results.&lt;/p&gt;
+
+&lt;p&gt;By default you can only try to influence &lt;em&gt;people&lt;/em&gt;, but there are advantages that
+let you do it to nonsapient animals, spirits with alien mentalities, or even
+plants.&lt;/p&gt;
+
+&lt;h2 id=&quot;fright-checks&quot;&gt;Fright Checks&lt;/h2&gt;
+
+&lt;p&gt;These are Will rolls to resist fear, but they’re also a bit of a special
+case. Your Will is modified by a host of courage-related advantages and
+disadvantages, then by how scary the thing causing the fear is, and then capped
+at 13. Failing leaves you mentally stunned for seconds equal to the margin of
+failure, which is potentially lethal in combat.&lt;/p&gt;
+
+&lt;p&gt;Failing also forces you to roll on a table to see if you develop long-term
+trauma in the form of new mental disadvantages. These reduce your point value,
+but can be bought off with earned points.&lt;/p&gt;
+
+&lt;p&gt;The Unfazeable advantage lets you ignore all this, as is traditional for GURPS.&lt;/p&gt;
+
+&lt;h2 id=&quot;reaction-rolls&quot;&gt;Reaction Rolls&lt;/h2&gt;
+
+&lt;p&gt;We already explained these back in the Adventurers introduction: roll 3d with
+modifiers applying directly to the rolled result, higher is better.&lt;/p&gt;
+
+&lt;p&gt;There are some new notes about how &lt;em&gt;monsters&lt;/em&gt; react to PC delvers. As with NPCs,
+logic is sovereign; if you’re sure a monster would attack on sight, or behave in
+some other way, do that. If you’re not sure, you roll. However, monsters have
+some heavy reaction penalties if the PCs are invading their territory, if
+they’re supernaturally compelled to guard an area, or if they’re particularly
+alien or evil in nature. They all stack, and in your typical dungeon delve at
+least one will apply to most denizens the PCs encounter.&lt;/p&gt;
+
+&lt;p&gt;As mentioned earlier, reaction rolls can be replaced by Influence rolls if
+appropriate.&lt;/p&gt;
+
+&lt;h2 id=&quot;coming-up-next&quot;&gt;Coming up Next&lt;/h2&gt;
+
+&lt;p&gt;Dungeon Delving!&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/11/05/dfrpg-exploits-chapter-1.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/11/05/dfrpg-exploits-chapter-1.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>lets-read</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>exploits</category>
+        
+        
+      </item>
     
       <item>
         <title>Urist Stortebeker, the Last Archivist</title>
@@ -1396,254 +1548,6 @@ head. $5425, 13.5kg.&lt;/li&gt;
         <category>lets-play</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DFRPG Adventurers: Armor and Shields</title>
-        <description>&lt;p&gt;Continuing our read through of Chapter 7, we now go through shields and armor.&lt;/p&gt;
-
-&lt;h1 id=&quot;shields&quot;&gt;Shields&lt;/h1&gt;
-
-&lt;p&gt;D&amp;amp;D shields are just an extra bit of armor you can tack onto the one you’re
-wearing, but DFRPG shields are &lt;em&gt;weapons&lt;/em&gt; that have a few extra defensive rules
-specific to them.&lt;/p&gt;
-
-&lt;p&gt;With the Shield skill you can use a shield to feint, bash people’s faces in, and
-block incoming melee or ranged attacks. Just holding a shield also makes it
-easier to defend yourself in other ways, too. Shield bashes are back on the
-weapon tables, so this section focuses on the rest of their stats.&lt;/p&gt;
-
-&lt;p&gt;The most important stat here is the Defense Bonus, which goes from 1 to 3
-depending on the size of the shield. This gets added directly to all of your
-active defense scores, including Block. Then come the usual price and
-weight. Compared to the stuff on the melee weapons table, shields are pretty
-cheap but extremely heavy.&lt;/p&gt;
-
-&lt;p&gt;The table starts with &lt;em&gt;cloaks&lt;/em&gt;, which are popular with fencers. To use a cloak
-in combat, you hold it in your hand instead of wearing it around your neck. You
-can feint and block with it, and even grapple by entangling foes since it’s
-flexible. For the same reason, though, you can’t bash people with a cloak and a
-failed block endangers your arm. A light cloak reaches your waist when worn, a
-heavy one reaches your ankles. Even the heavy cloak is lighter than a small
-shield.&lt;/p&gt;
-
-&lt;p&gt;Proper shields come in Small, Medium, and Large varieties. All of them are made
-from wood with a few metal bits and possibly a leather covering on the
-outside. They let you block and bash as described above, make shield rushes, and
-are of course a lot sturdier than a piece of cloth with delusions of
-grandeur. DFRPG doesn’t really deal with shield breakage, so the biggest game
-effect of this sturdiness is that shields can take all of the modifiers we’ll
-list below, while cloaks can only take Ornate.&lt;/p&gt;
-
-&lt;p&gt;Light and Medium shields are available as either traditional shields or
-bucklers. A buckler is held by a handle instead of strapped to your arm, so you
-can’t use that hand to hold anything else but can drop the buckler as a free
-action if you need it. DFRPG makes you use different skills for shields and
-bucklers, but I tend to collapse them into a single skill instead.&lt;/p&gt;
-
-&lt;p&gt;Large shields offer excellent DB but get in the way of your attacks unless you
-have the Shield-Wall Training advantage (available only to Knights).&lt;/p&gt;
-
-&lt;h2 id=&quot;shield-modifiers&quot;&gt;Shield Modifiers&lt;/h2&gt;
-
-&lt;p&gt;Like with weapons, these relate to how the shield is constructed and are
-independent from magic enchantments.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Balanced&lt;/strong&gt; gives +1 to Shield skill.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dwarven&lt;/strong&gt; shields are 100% metal! They do more damage with bashes and
-rushes, are fireproof, and have double the weight.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Fine&lt;/strong&gt; shields do more with less material, and weight only 3/4 the usual
-amount.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Meteoric&lt;/strong&gt; shields are also 100% metal, so they have the same bonuses as
-Dwarven ones &lt;em&gt;and&lt;/em&gt; are impervious to magic like meteoric weapons. Super
-expensive, though.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mirrored&lt;/strong&gt; shields can reflect gaze attacks to someone else on a successful
-block. Perseus loves them, Mumm-Ra hates them. It’s cheaper to apply the
-treatment to a shield that’s already made of metal.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Orichalcum&lt;/strong&gt; shields are 100% made of that metal. They’re only 2/3 the
-weight, fireproof, and have an easier time breaking other weapons, though they
-don’t do increased damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ornate&lt;/strong&gt; lets you impress the gullible as per the weapon modifier, and is
-the only one on the list that can also be applied to cloaks.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The three “material” modifiers (Dwarven, Meteoric, Orichalcum) are mutually
-exclusive, but they &lt;em&gt;do&lt;/em&gt; stack with Fine, and the weight modifiers multiply
-together. A Fine Dwarven or Meteoric shield is only 1.5 times as heavy, and a
-Fine Orichalcum one is half the weight of the standard wooden version.&lt;/p&gt;
-
-&lt;h1 id=&quot;armor&quot;&gt;Armor&lt;/h1&gt;
-
-&lt;p&gt;In DFRPG, armor provides you with Damage Resistance, which directly subtracts
-from rolled damage. This means it enters into play after you’ve failed your
-active defense rolls, as the last line of defense before your HP. There are no
-such things as armor skills or armor proficiencies here. PCs of any profession
-can wear any armor. The barriers here are cost and weight: armor is both &lt;em&gt;heavy&lt;/em&gt;
-and &lt;em&gt;expensive&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Money will be much less of a problem once your delver has a few adventures under
-their belt, but the weight requires either a lot of ST or magic to mitigate. I
-&lt;em&gt;have&lt;/em&gt; seen a wizard who went around in full plate and used constant levitation
-for locomotion, though, so even that is not an insurmountable obstacle.&lt;/p&gt;
-
-&lt;p&gt;The armor list on the DFRPG is the final step on a long evolutionary road. You
-see, core GURPS had a low-tech armor list that was simple but kind of
-unrealistic. Stuff like leather and cloth was too light and too expensive, mail
-was way too cheap, and plate armor was both too cheap and too heavy.&lt;/p&gt;
-
-&lt;p&gt;Then came GURPS Low-Tech, which had an extremely detailed armor system that
-added more hit locations than there were in core GURPS and restrictions of the
-“you can’t put rigid armor on your waist because it needs to bend” kind.&lt;/p&gt;
-
-&lt;p&gt;DFRPG takes that and re-simplifies it a bit. The combat rules still have the
-same hit locations as core GURPS, but you don’t have to buy a separate piece of
-armor for every one, and the list of different materials has been pared down
-considerably. Every line on the table is a different material with a specific
-DR, and the columns have the price and weight for a full suit of that material
-and also for smaller pieces covering the head, arms, legs, hands, feet, and body
-(everything from groin to neck).&lt;/p&gt;
-
-&lt;p&gt;If you’re looking for simplicity you can just look at the “Full Suit” column and
-call it a day. Min-maxers can shop for piecewise armor and cut some corners for
-the parts they don’t think will be hit often. One-sleeved jackets and backless
-breastplates are all the rage these days! And who needs helmets anyway, amirite?&lt;/p&gt;
-
-&lt;p&gt;The detailed items on the armor table can be divided into these general types:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Cloth or Leather&lt;/strong&gt; armor comes in both Light and Heavy varieties (DR 1 or
-2). It’s the only type of armor that doesn’t count as being made of metal,
-which is important for certain environmental hazards.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mail&lt;/strong&gt; armor comes in Light, “standard” and Heavy varieties (DR 3/1, 4/2 or
-5/3). Since it’s flexible, it uses the lower value against crushing attacks.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Scale&lt;/strong&gt; is cheaper and less vulnerable to crushing attacks than mail, but
-considerably heavier. It also comes in Light, Standard, and Heavy (DR 3/2,
-4/3, and 5). The lighter varieties use the lower number against crushing
-attacks, but I guess the heavy one is too sturdy for that.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Segmented Plate&lt;/strong&gt; (DR 3, 4, or 5) includes “lamellar” armor and sits between
-mail and scale in terms of cost and weight, and doesn’t have the vulnerability
-to crushing damage.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Brigandine&lt;/strong&gt; (DR 5) is the thing that confused Gygax into inventing studded
-leather, because it’s metal plates sandwiched between two leather or cloth
-layers, with the rivets that keep them in place peeking out. About the same
-price of heavy mail, at half the weight. It counts as plate for modifier
-purposes.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Plate&lt;/strong&gt; armor is the high-end stuff, very expensive and surprisingly light
-for the amount of protection it provides. Comes in Standard, Heavy,
-Extra-Heavy and Epic (DR 6 to 9).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You probably won’t be affording anything heavier than light mail or scale out of
-character creation, and even then you can’t afford a full suit of it without
-expending some character points on starting money.&lt;/p&gt;
-
-&lt;p&gt;You can layer armor, with some restrictions on type. Their DR more or less adds
-together, but layered armor anywhere other than your head imposes a -1 penalty
-to DX.&lt;/p&gt;
-
-&lt;p&gt;Whether you decide to go for the fiddly rules or not, you have pretty much total
-freedom to describe your armor as anything you can imagine, as long as it has
-the right stats.&lt;/p&gt;
-
-&lt;h2 id=&quot;armor-modifiers&quot;&gt;Armor Modifiers&lt;/h2&gt;
-
-&lt;p&gt;These have the same base rules as weapon modifiers, adding a Cost Factor to the
-item’s final price and not counting as magic enchantments. Since the price of
-armor is so high, a lot of the modifiers that increase DR or reduce weight often
-end up &lt;em&gt;more expensive&lt;/em&gt; than an enchantment that does the same. But the modifier
-works even without mana, and it &lt;em&gt;stacks&lt;/em&gt; with the enchantment, so there’s that.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dragonhide&lt;/strong&gt; is for heavy leather, and can add from +1 to +4 DR depending on
-the dragon “donor”. This bonus is doubled against fire, and the larger it is
-the heavier the armor becomes. Even sturdier dragonhide suits exist, as well
-as ones that resist different elements, but those aren’t for sale and aren’t
-detailed here.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Dwarven&lt;/strong&gt; material science lets DR 6-9 plate armor become sturdier (+1 DR)
-at no increase in weight.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Elven&lt;/strong&gt; mail doesn’t reduce its DR against crushing attacks!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Fine&lt;/strong&gt; armor has 3/4 the usual weight, but only fit wearers with the same
-height and weight as the original owner.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Giant Spider Silk&lt;/strong&gt; improves light cloth armor to DR 2 without a weight
-increase, and can be layered under other armor without a DX penalty.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Meteoric&lt;/strong&gt; metal armor resists magic as per the rules for shields and
-weapons.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Orichalcum&lt;/strong&gt; plate armor gives its usual DR at only 1/3 the weight!&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ornate&lt;/strong&gt; is the same as for weapons and shields, but you’ll be paying a lot
-more to bedazzle your armor.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Spiked&lt;/strong&gt; plate armor makes people who grapple you regret it.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Thieves’&lt;/strong&gt; mail is blackened and woven for maximum flexibility and minimum
-noise. Its weight doesn’t count as encumbrance for “thiefy” and parkour
-skills.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thieves’ armor cannot also be Ornate, of course, and the two material modifiers
-are mutually exclusive. They do stack with everything else, though, and the
-weights are multiplied together as with shields.&lt;/p&gt;
-
-&lt;h2 id=&quot;impressions&quot;&gt;Impressions&lt;/h2&gt;
-
-&lt;p&gt;These armor rules fall right into my “Goldilocks” zone. The Basic Set ones are
-too simple, the Low-Tech ones too complicated, these are Just Right.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/10/07/dfrpg-adventures-chapter-07-2.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/07/dfrpg-adventures-chapter-07-2.html</guid>
-        
-        <category>lets-read</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>gurps</category>
         
         
       </item>

@@ -54,6 +54,257 @@
   <ul class="post-list">
     
       <li>
+        <span class="post-meta">Jan 7, 2025</span>
+
+        <h1 class="post-title" itemprop="name headline">
+          <a href="/octopus-carnival/2025/01/07/certificado-digital.html">Como Obter e Instalar um e-CPF ou e-CNPJ A3 no Ubuntu Linux em 2025</a>
+        </h1>
+
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+          <div class="post-content" itemprop="articleBody">
+            <p>Este post é completamente diferente do conteúdo usual do Octopus Carnival, mas
+obter a informação aqui foi tão complicado que eu me sinto compelido a deixar
+instruções para as gerações futuras (e para mim mesmo, caso eu esqueça). Ele
+está em português porque estas instruções são relevantes para quem está no
+Brasil.</p>
+
+<p>Neste artigo, eu vou explicar todos os passos necessários para emitir e instalar
+um certificado digital A3 (e-CPF ou e-CNPJ) em uma máquina rodando Ubuntu 22.04
+ou 24.04.</p>
+
+<p>O post foi originalmente escrito no meio de 2024, mas até onde eu sei suas
+instruções ainda são válidas.</p>
+
+<h2 id="background-e-introdução">Background e Introdução</h2>
+
+<p>Pode pular essa sessão inteira se você só quer as instruções. Vá direto aos
+Pré-Requisitos.</p>
+
+<p>Apenas uma raríssima minoria das certificadoras brasileiras sequer apresenta
+instruções para emitir um utilizar um certificado A3 em Linux, e essas
+instruções são invariavelmente para uma versão mais antiga do Ubuntu, como a
+18.04 ou a 20.04. Se você tem uma versão mais recente, como provavelmente é o
+caso, você está por conta própria. O propósito deste artigo é remediar isso. Ele
+reúne informações de diversas fontes separadas.</p>
+
+<p>Minha inspiração para escrever este post foi <a href="https://linuxuniverse.com.br/linux/token-a3">este outro excelente artigo</a>
+que explica muitas das mesmas coisas. A diferença aqui é que ele usa uma versão
+um pouco mais antiga de alguns softwares, com instalação mais complicada.</p>
+
+<h2 id="pré-requisitos">Pré-requisitos</h2>
+
+<p>Você precisa de um computador rodando a versão mais atualizada do Ubuntu 22.04
+ou 24.04, ou um de seus derivados (como o Pop OS). Os passos a seguir em geral
+são válidos para as duas versões, com uma única excessão:</p>
+
+<p><strong>O Assinador SERPRO só pode ser instalado no Ubuntu 22.04 ou derivados!</strong> A
+versão mais recente quando da autoria deste post é a 4.2.1, que depende da
+biblioteca <code class="language-plaintext highlighter-rouge">libappindicator1</code>, que por sua vez foi removida do Ubuntu 24.04.</p>
+
+<h2 id="passo-1-adquira-o-token">Passo 1: Adquira o Token</h2>
+
+<p>Escolher um dispositivo físico com bom suporte a Linux costumava ser uma dor de
+cabeça sem tamanho, mas isso agora está bem mais fácil: usaremos um token USB do
+modelo Safenet eToken 5110.</p>
+
+<p>Se você conhecer uma certificadora que venda certificados A3 em tokens com esse
+modelo, pode pular este passo, o passo 3, e o passo 6. Caso contrário,
+precisamos de um token vazio para cada certificado que queremos obter. Cada
+token guarda apenas um único certificado. A <a href="https://loja.digitalsecurity.com.br/">Digital Security do Brasil</a>
+vende tokens vazios, e ela não é a única. Se tiver outra loja de sua confiança,
+pode encomendar por lá.</p>
+
+<h2 id="passo-2-instale-o-driver-do-token">Passo 2: Instale o Driver do Token</h2>
+
+<p>Mesmo um token USB ainda precisa de um driver especializado para ser lido. O
+eToken 5110 utiliza o Safenet Authentication Client, e foi por isso que eu o
+escolhi - ele roda em ambas as versões do Ubuntu visadas por este artigo e tem
+uma interface um pouco mais agradável e completa.</p>
+
+<p>Precisamos da versão 10.8 do cliente. A maioria dos lugares só tem até a 10.7
+para download, mas a GlobalSign tem a 10.8 <a href="https://www.globalsign.com/en/safenet-drivers/USB/10.8/GlobalSign-SAC-Ubuntu-2204.zip">aqui</a>.</p>
+
+<p>Faça o download (é gratuito e não requer registro), extraia o arquivo zip, e
+ache o arquivo chamado <code class="language-plaintext highlighter-rouge">safenetauthenticationclient_10.8.1050_amd64.deb</code> dentro
+da estrutura. Instale-o em seu sistema usando os seguintes comandos:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>dpkg <span class="nt">-i</span> safenetauthenticationclient_10.8.1050_amd64.deb
+<span class="nb">sudo </span>apt <span class="nb">install</span> <span class="nt">--fix-broken</span>
+</code></pre></div></div>
+
+<p>O primeiro comando acima instala o pacote; o segundo instala quaisquer
+dependências dele que estejam faltando. Todas essas dependências existem nos
+repositórios padrão do Ubuntu 22.04 e 24.04.</p>
+
+<h2 id="passo-3-inicialize-o-token">Passo 3: Inicialize o Token</h2>
+
+<p>Cada token deve ter duas senhas associadas a ele. Uma senha “de usuário” (PIN)
+que é usada para acessar o conteúdo do token, e uma senha de administração (PUK)
+que é usada para modificar as informações dele. Neste passo vamos definir as
+duas para o(s) token(s) que você adquiriu no primeiro passo.</p>
+
+<p><a href="http://www.locasuporte.com.br/suporte_manuais/safenet/manual_etoken5110.pdf">Este manual</a> explica como inicializar um eToken 5110 vazio usando o Safenet
+Authentication Client que instalamos no passo anterior. As instruções relevantes
+começam na página 11. Lembre-se de anotar as senhas em um local seguro, como um
+gerenciador de senhas. Elas não podem ser recuperadas de outra maneira depois de
+definidas.</p>
+
+<p>O processo basicamente consiste em mudar as senhas de um valor pré-defindo “de
+fábrica” para os valores que você deseja. Se você adquiriu o seu token de outra
+loja que não a Digital Security, pode ser que a senha default seja outra -
+cheque o manual que vier com ele. <strong>Jamais mantenha a senha de fábrica do
+token!</strong></p>
+
+<h2 id="passo-4-compre-seu-certificado-a3">Passo 4: Compre Seu Certificado A3</h2>
+
+<p>Aqui eu tive uma boa experiência com a <a href="https://www.soluti.com.br/">Soluti</a> e o <a href="https://www.mafragrupo.com.br/">Grupo Mafra</a>. Em
+ambos os casos foi necessário falar com o canal de vendas por WhatsApp deles
+para especificar que eu precisava de um certificado digital A3 sem mídia. A
+Soluti vende e-CPF e e-CNPJ - eles têm loja virtual mas para adquirir sem mídia
+ainda é necessário falar com um representante. O Grupo Mafra vende direto por
+WhatsApp e representa a certificadora ABS, que no final das contas também emite
+certificado pela Soluti - mas o preço deles é bem menor.</p>
+
+<p>Em ambos os casos o procedimento foi o mesmo. Após pagar o certificado, marquei
+uma videoconferência pelo sistema deles, na qual foi verificada minha identidade
+e obti uma <em>senha de emissão e revogação</em>. No caso da Mafra/ABS, fui direcionado
+a uma página onde eu mesmo gerei a senha. No caso da Soluti, eles me passaram a
+senha durante a chamada de vídeo.</p>
+
+<p>Após o sucesso da chamada, recebi um e-mail com um assunto parecido com
+“Solicitação de Certificado Digital aprovada”. No corpo desse e-mail, há um
+número de solicitação e um “Usuário de Emissão”. Esse é o nome de usuário que
+faz par com a senha obtida na chamada. Precisamos dos dois para os próximos
+passos.</p>
+
+<h2 id="passo-5-instale-o-java-8">Passo 5: Instale o Java 8</h2>
+
+<p>Sim, é o Java. Sim, é o oito. Vamos precisar dele para rodar o programa que
+realiza a emissão dos certificados. Felizmente, não precisa ser o java da
+Oracle. Use o seguinte comando:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt <span class="nb">install </span>openjdk-8-jdk icedtea-netx
+</code></pre></div></div>
+
+<p>Isso instala a mais recente versão do OpenJDK 8, que tem paridade com o da
+Oracle para os nossos propósitos. O <code class="language-plaintext highlighter-rouge">icedtea-netx</code> nos dá a funcionalidade do
+Java Web Start porque sim, também precisamos disso.</p>
+
+<p>Após instalar o JDK, configure seu sistema para que ele seja o
+padrão. Precisamos fazer isto de duas maneiras diferentes. A primeira é:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>update-alternatives <span class="nt">--config</span> java
+</code></pre></div></div>
+
+<p>Isso vai mostrar um menu com os diferentes executáveis Java no seu
+sistema. Mesmo que você não tenha instalado nenhum antes do 8, pode ser que o
+sistema tenha instalado o 11 junto. Pressione o número correspondente ao <code class="language-plaintext highlighter-rouge">java</code>
+to JDK 8 e depois <code class="language-plaintext highlighter-rouge">&lt;enter&gt;</code>.</p>
+
+<p>Depois, use esta sequência de comandos para fazer o Java Web Start entender que
+queremos executá-lo com Java 8:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd</span> /usr/lib/jvm/
+<span class="nb">sudo rm </span>default-java
+<span class="nb">sudo ln</span> <span class="nt">-s</span> java-8-openjdk-amd64 default-java
+</code></pre></div></div>
+
+<h2 id="passo-6-prepare-para-a-emissão">Passo 6: Prepare para a Emissão</h2>
+
+<p>Com o Safenet Authentication Client rodando, plugue o seu token vazio no
+computador. Tenha à mão a senha PIN gerada no passo 3, e também o usuário e
+senha obtidos no passo 4.</p>
+
+<p>A Soluti possui um manual de emissão bem completo <a href="https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf">aqui</a>. Note que já fizemos
+muito do que está lá: temos o driver certo do nosso token, e a versão correta do
+Java.</p>
+
+<p>Seguindo o manual, o próximo passo é baixar o aplicativo emissor <a href="https://emissor.ca.inf.br/prod/Emissor.jnlp">aqui</a>. Você
+vai notar que isso é um arquivo de extensão <code class="language-plaintext highlighter-rouge">jnlp</code>. É por isso que precisamos do
+Java Web Start.</p>
+
+<p>Em um terminal, vá ao diretório onde você baixou o arquivo <code class="language-plaintext highlighter-rouge">Emissor.jnlp</code> e
+execute o seguinte commando:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>javaws Emissor.jnlp
+</code></pre></div></div>
+
+<p>Você pode a partir daqui seguir o <a href="https://www.soluti.com.br/wp-content/uploads/2023/06/Instalacao-A3.pdf">manual da Soluti</a>. Como já disse, vai
+precisar do nome de usuário e senha do Passo 4 para iniciar a emissão, e a senha
+do passo 3 para abrir seu token para a gravação das chaves e certificados.</p>
+
+<p>Ao final deste passo, você já tem seu certificado digital emitido! Os próximos
+passos deixam seu sistema pronto para <em>usar</em> o certificado.</p>
+
+<h2 id="passo-7-certifique-se-de-que-o-firefox-é-um-pacote-deb">Passo 7: Certifique-se de que o Firefox é um pacote .deb</h2>
+
+<p>Conforme é dito no <a href="https://linuxuniverse.com.br/linux/token-a3">post que me inspirou a inscrever este artigo</a>, a versão
+Snap do Firefox, que vem com o Ubuntu, não reconhece o token, porque não tem
+acesso às portas USB. Precisamos instalar o browser como um pacote .deb
+tradicional.</p>
+
+<p>É possível que você já tenha feito isso por algum outro motivo, ou esteja usando
+uma variante que já faz isso como o Pop_OS. Se esse for o caso, pode pular este
+passo.</p>
+
+<p>Caso contrário, adicione o PPA da equipe Mozilla às suas fontes de software:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>add-apt-repository ppa:mozillateam/ppa
+<span class="nb">sudo </span>apt update
+</code></pre></div></div>
+
+<p>Em seguida, crie um arquivo chamado <code class="language-plaintext highlighter-rouge">/etc/preferences.d/mozilla-firefox</code> com os
+seguintes conteúdos:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Package: firefox<span class="k">*</span>
+Pin: release <span class="nv">o</span><span class="o">=</span>LP-PPA-mozillateam
+Pin-Priority: 1001
+
+</code></pre></div></div>
+
+<p>Isso guarante que a versão do PPA tenha precedência sobre o Snap. A seguir,
+remova o Snap e instale a versão do PPA:</p>
+
+<div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>snap remove firefox
+
+<span class="nb">sudo </span>apt remove firefox
+
+<span class="nb">sudo </span>apt <span class="nb">install</span> <span class="nt">-t</span> <span class="s1">'o=LP-PPA-mozillateam'</span> firefox
+</code></pre></div></div>
+
+<h2 id="passo-8-adicione-suporte-ao-token-ao-firefox">Passo 8: Adicione Suporte ao Token ao Firefox</h2>
+
+<p>Vá em “Edit” -&gt; “Settings” e procure por “Security Devices”. Clique o botão que
+aparece nos resultados.</p>
+
+<p>Na janela que vai aparecer, clique em “NSS Internal PKCS #11 Module”, depois em
+“Load” no canto direito da tela. No diálogo que aparecer, dê o nome que quiser
+ao módulo e em “Module filename” entre <code class="language-plaintext highlighter-rouge">/usr/lib/libeToken.so</code>.</p>
+
+<p>O módulo vai carregar e aparecer na lista do canto esquerdo desta mesma
+janela. A partir daí você pode plugar seu token, escolher “Log In”, e entrar com
+a senha PIN dele para ter acesso ao certificado.</p>
+
+<p>Com isso, você já pode usar seu certificado para realizar login em serviços que
+o exijam. Ele também permite que procurações sejam assinadas pelo serviço e-CAC
+do Ministério da Fazenda.</p>
+
+<h2 id="passo-9-assinador-serpro">Passo 9: Assinador SERPRO</h2>
+
+<p>Conforme dito na introdução, <strong>o Assinador SERPRO só pode ser instalado em
+Ubuntu 22.04 ou derivados</strong>.</p>
+
+<p>Se o seu sistema se encaixa nessa categoria, basta seguir o <a href="https://tutorial.assinadorserpro.estaleiro.serpro.gov.br/html/demo_4.html">tutorial</a> da
+própria SERPRO. Isso vai instalar a versão 4.2.1 do assinador, que é a mais
+recente quando da autoria deste post. O Assinador SERPRO é usado para assinar
+documentos em PDF ou XML em sua máquina local.</p>
+
+
+          </div>
+        </article>
+      </li>
+    
+      <li>
         <span class="post-meta">Nov 6, 2024</span>
 
         <h1 class="post-title" itemprop="name headline">
@@ -970,142 +1221,6 @@ plan” joke work. <a href="#fnref:4" class="reversefootnote" role="doc-backlin
     </li>
     <li id="fn:5" role="doc-endnote">
       <p>And its cousin All-Out-Attack. <a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>
-
-          </div>
-        </article>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 3, 2024</span>
-
-        <h1 class="post-title" itemprop="name headline">
-          <a href="/octopus-carnival/2024/09/03/no-weapon-master.html">Abandoning Weapon Master</a>
-        </h1>
-
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-          <div class="post-content" itemprop="articleBody">
-            <p>A while back I made a post about <a href="/octopus-carnival/2021/05/27/masterful-combat.html">combining Weapon Master and Trained by a
-Master</a> into a single advantage. After thinking about it for a while, I think
-I might have changed my mind about it. I not sure the two traits are really
-meant to coexist in the same campaign, despite what Dungeon Fantasy tries to do.</p>
-
-<p>Dungeon Fantasy character creation rules are all about replicating a lot of
-D&amp;D’s conventions in GURPS. And one of the D&amp;D-isms it tries to replicate is
-that a combat centric character can be either strong or fast, but not both.</p>
-
-<h2 id="dd-combat-conventions">D&amp;D Combat Conventions</h2>
-
-<p>In recent editions of D&amp;D, that happens because characters have a very limited
-number of points to distribute at creation, and every class is meant to have
-only 1 or 2 attributes that are important to its abilities. Physical combatants
-end up having either STR or DEX as their main attribute, and the rules are
-usually set up so that the other member of the pair can be safely dumped.</p>
-
-<p>STR-based combatants use the heaviest armor and weapons they can get. The vast
-majority are melee specialists. Some buy a single thrown weapon at creation and
-then promptly forget about it. All of these options are designed to make
-Dexterity not matter to them.</p>
-
-<p>DEX-based combatants are the opposite: they wear light or no armor, and are
-evenly split between archers and melee skirmishers who rely on “finesse weapons”
-that use DEX instead of STR. Therefore Strength doesn’t matter to them.</p>
-
-<p>Every physical combatant<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> in the last three editions of D&amp;D is going to lean
-heavily towards one of these archetypes. A few classes incentivise players to
-try and be a bit of both, but for most of them that’s going to lead to a weaker
-character.</p>
-
-<h2 id="what-about-gurps">What about GURPS?</h2>
-
-<p>Dungeon Fantasy gives you templates to emulate the classes from recent D&amp;D, so
-it ends up bringing this particular trope wholesale into GURPS. You have your
-Strong Delvers, and your Fast Delvers<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>. But we run into some issues because
-GURPS is much less abstract than D&amp;D.</p>
-
-<p>Both in real life and in GURPS, combatants want to be <em>both strong and
-fast</em>. You need speed and precision to hit, and you need to put some force
-behind your blows for them to be effective. Sure, an individual character might
-have ST or DX that’s a bit higher than the other, but they’ll never be 10+
-points apart like they are in their D&amp;D equivalents.</p>
-
-<p>Still, DF tries, and Weapon Master is a significant component of this
-attempt. It’s a mandatory trait for Swashbucklers, and an optional one for the
-other fast delvers. It more or less takes the place of D&amp;D’s Weapon Finesse,
-since it allows these characters to do improved melee damage without investing
-many points into ST.</p>
-
-<p>But it’s also an optional Knight trait. And it’s quite easy to take a starting
-Knight and give them ST 18, Weapon Master (Dueling Halberd), and a starting
-weapon skill of 20. Such a character literally combines the best of both
-worlds. They can do all the same fancy tricks as the ST 11 Swashbuckler, and
-their strikes to a massive amount of damage when they land, due to the higher
-base number of damage dice and the per-die damage bonus.</p>
-
-<p>As a player, this damage bonus seems so good to me that I’d feel bad about
-“leaving it on the table” and not taking Weapon Master. As a GM, I worry that
-any enemy that can withstand a hit from the Knight will be impervious to attacks
-from the other PCs.</p>
-
-<h2 id="what-to-do-about-it">What to do about it?</h2>
-
-<p>The first option is of course to do nothing. This is admitedly a very niche
-concern and you might be okay with it in your game. But if you are having Weapon
-Master Problems at your table you might try one of these other possible
-solutions.</p>
-
-<h3 id="solution-1-flat-damage-bonus">Solution 1: Flat Damage Bonus</h3>
-
-<p>A “minimally invasive” solution is to change the damage bonus from +1 or +2 <em>per
-die</em> to a flat +1 or +2. All advantage costs remain the same, as do all
-templates.</p>
-
-<p>This means that the skinny swashbuckler who rolls a single die for damage still
-gets the same bonus. Meanwhile Mister Halberd with his three dice of swing
-damage gets a much smaller relative benefit.</p>
-
-<h3 id="solution-2-no-more-weapon-master">Solution 2: No More Weapon Master!</h3>
-
-<p>Weapon Master no longer exists and Trained By a Master comes in categories
-similar to the removed advantage:</p>
-
-<ul>
-  <li>
-    <p>20 points makes you trained in One Weapon. This gives you improved parries,
-improved Rapid Strikes, and access to the same limited set of Chi Skills as
-Weapon Master did. No damage bonus, though!</p>
-  </li>
-  <li>
-    <p>25 points gives you the same benefits for Two Related Weapons or all weapons
-covered by One Skill.</p>
-  </li>
-  <li>
-    <p>30 points works as printed, giving you the full set of Trained By a Master
-benefits for all muscle-powered weapons and unarmed attacks.</p>
-  </li>
-</ul>
-
-<p>“All knives” counts as a single weapon for these purposes, like in the books. So
-do “all unarmed attacks”.</p>
-
-<p>Everyone who had Weapon Master as an optional advantage gets the corresponding
-version of Trained by a Master instead, and has the option to upgrade to the
-full version.</p>
-
-<p>This is a more drastic and slightly more complicated solution. No one gets a
-damage bonus any more, but no one overpays for the full Weapon Master package
-either.</p>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>And then you have spellcasters, who choose to be slow and weak so they can
-be good at magic. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>And Smart Delvers, for which see Footnote 1. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
 </div>
