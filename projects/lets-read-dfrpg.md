@@ -66,6 +66,8 @@ number of people have heard about it.
 
 - [DFRPG Exploits Introduction][23]
 
+- [Chapter 1: Rolling the Dice][24]
+
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -90,3 +92,4 @@ number of people have heard about it.
 [21]: {{ "/2026/10/16/dfrpg-adventurers-chapter-07-4.html" | relative_url }}
 [22]: {{ "/2026/10/20/dfrpg-adventurers-appendix.html" | relative_url }}
 [23]: {{ "/2026/11/01/dfrpg-exploits-introduction.html" | relative_url }}
+[24]: {{ "/2026/11/05/dfrpg-exploits-chapter-1.html" | relative_url }}
