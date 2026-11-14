@@ -6,9 +6,309 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2026 18:49:12 +0000</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2026 18:49:12 +0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 14:35:36 +0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:35:36 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Hell&apos;s Rebels Rebellion Rules for GURPS</title>
+        <description>&lt;p&gt;Back in Adventure 1, Scene 09 of my Let’s Play of Hell’s Rebels, I wrote up a
+quick and dirty rules conversion for the campaign’s rebellion rules. Now I’m
+putting them in their own post to make them easier to find in the future. I’ll
+make some edits, but they’ll likely remain just as quick and dirty as they were
+before.&lt;/p&gt;
+
+&lt;h1 id=&quot;rebellion-rules-intro&quot;&gt;Rebellion Rules Intro&lt;/h1&gt;
+
+&lt;p&gt;These rules require the Hell’s Rebels Player’s Guide for Pathfinder, as the
+writeup just converts the tests. Still, I’ll try to give a brief explanation
+below.&lt;/p&gt;
+
+&lt;p&gt;The general idea is that the Silver Raven rebellion has a “character sheet” with
+three main “skills” named Secrecy, Loyalty, and Security. These progress more or
+less like Pathfinder 1e saves, with the one chosen as the rebellion’s main focus
+using the “good save” progression and the others using the “bad save”
+progression.&lt;/p&gt;
+
+&lt;p&gt;The rebellion also has a number of Supporters which acts as its “XP”. Supporters
+include both actual members and citizens of Kintargo who lend their support in
+more indirect ways. If the rebellion has enough, it “levels up” and its stats
+increase.&lt;/p&gt;
+
+&lt;p&gt;Then you have the officer posts, six of them, which can be filled by PCs or
+allied NPCs. In the original rules officers would get to add their ability
+bonuses to certain rebellion skill tests. Here, they get to make complimentary
+skill tests for those same tasks.&lt;/p&gt;
+
+&lt;p&gt;The rebellion starts with access to a small set of basic tasks, but to get
+access to the rest it must recruit NPC &lt;em&gt;teams&lt;/em&gt;. Each team allows certain actions
+to be taken, and can be upgraded twice to allow more actions. The higher the
+organization’s level, the more teams it can support.&lt;/p&gt;
+
+&lt;p&gt;On each strategic turn, which represents a week of game time, the organization
+can perform a number of actions determined by its level, and each has their own
+rules.&lt;/p&gt;
+
+&lt;h1 id=&quot;da-rules&quot;&gt;Da Rules&lt;/h1&gt;
+
+&lt;h2 id=&quot;basic-stats-and-tests&quot;&gt;Basic Stats and Tests&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;The Security, Loyalty and Secrecy skills all start at 10. Pick one to be the
+focus as usual, and add the corresponding skill bonuses listed on p. 22 of the
+Player’s Guide to determine the actual skill level. So the focused skill
+starts at 12 and goes to 22, and the unfocused ones start at 10 and go to 16.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Check Difficulties: DC 10 checks translate into unmodified skill tests. Each
++5 DC over 10 translates into a -2 penalty. So a DC 30 check, the hardest
+possible for end-game actions, would be at -8. Complementary bonuses are
+important, particularly to unfocused tests.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;By the way I’m thinking of using a slight variation of this for &lt;em&gt;personal&lt;/em&gt;
+tests during delves and such, with each +5 DC over 10 translating into a -1
+penalty. This is more generous, but it applies to skills that might not
+increase as steadily over time and won’t have as many complimentary rolls
+applied to them.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;level-up-awards&quot;&gt;Level-up Awards&lt;/h2&gt;
+
+&lt;p&gt;Each rebellion level-up gives an award to the PCs. Possible awards are Cash, XP,
+Training, and Titles, all of which have their own rules in the original
+version. For GURPS, they are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For Cash awards, multiply all gp amounts by 5 for the amount in GURPS
+dollars as usual.&lt;/li&gt;
+  &lt;li&gt;XP awards gift a flat 15 character points.&lt;/li&gt;
+  &lt;li&gt;Training awards let you put 4 character points towards any skill, or a mix
+of them if they’re at a low enough level.&lt;/li&gt;
+  &lt;li&gt;Each title grants one level of Reputation (all the time, everyone but Thrune
+supporters) valued at 3 points/level.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;officers&quot;&gt;Officers&lt;/h2&gt;
+
+&lt;p&gt;Officers can use some of their skills as Complementary Skills for organization
+tests. If you have more than one of the listed skills you can test them all.&lt;/p&gt;
+
+&lt;p&gt;Multiple people can occupy the same post, but only one gets to roll their skills
+for a given action.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Demagogue:
+    &lt;ul&gt;
+      &lt;li&gt;May use complimentary skills on Loyalty checks.&lt;/li&gt;
+      &lt;li&gt;Skills: Propaganda, Public Speaking, Leadership.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Partisan:
+    &lt;ul&gt;
+      &lt;li&gt;May use complimentary skills on Security checks.&lt;/li&gt;
+      &lt;li&gt;Skills: Strategy, Leadership, Tactics.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Recruiter:
+    &lt;ul&gt;
+      &lt;li&gt;May use complimentary skills on checks for recruiting supporters.&lt;/li&gt;
+      &lt;li&gt;Adds rebellion rank to the number of recruited supporters, and this stacks
+with multiple recruiters.&lt;/li&gt;
+      &lt;li&gt;Skills: Public Speaking, Streetwise, Diplomacy.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sentinel:
+    &lt;ul&gt;
+      &lt;li&gt;Occupying this post gives a +1 to the rebellion’s non-focused skills.&lt;/li&gt;
+      &lt;li&gt;May use complimentary skills on any check used to resolve an Event.&lt;/li&gt;
+      &lt;li&gt;Skills: any of the ones listed for the appropriate category.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Spymaster:
+    &lt;ul&gt;
+      &lt;li&gt;Spymaster: May use complimentary skills on Secrecy checks.&lt;/li&gt;
+      &lt;li&gt;Skills: Intelligence Analysis, Streetwise, Administration.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Strategist:
+    &lt;ul&gt;
+      &lt;li&gt;Occupying this position grants a bonus action. May use its complimentary
+skills on the bonus action.&lt;/li&gt;
+      &lt;li&gt;Skills: Strategy, Tactics, Administration.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;strategic-turns&quot;&gt;Strategic Turns&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Each turn represents a week of game time. The phases are as described in the
+books, run using the conversion notes above.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;actions&quot;&gt;Actions&lt;/h2&gt;
+
+&lt;p&gt;Actions are performed by teams. Each team can perform the actions in its
+description, using the appropriate Org Skill for it. Teams give a bonus to the
+Org Skill equal to their tier (this replaces the Team Manager mechanic).&lt;/p&gt;
+
+&lt;p&gt;If the action has a monetary cost, that cost must be paid from the rebellion’s
+treasury.&lt;/p&gt;
+
+&lt;p&gt;I’m not sure I will use the rules for the city’s magic item market and its
+limits, but the relevant actions are included here anyway.&lt;/p&gt;
+
+&lt;h3 id=&quot;action-list&quot;&gt;Action List:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Activate Black Market (Black Marketeers): Roll Secrecy -4 and spend $250. On
+success, the Ravens set up a black market for 1 week on Kintargo. Availability
+of magic items and special orders increases at the GM’s discretion. Items sold
+to the black market sell for an extra 10% of their base value (stacking with
+the Wealth-based percentage and the add-on for a successful Merchant roll).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Activate Safe House (Saboteurs, Spies, or Thieves): Requires no test. Choose a
+building on any neighborhood except for the Greens or the Castle
+District. That location becomes a safe house for 1 week. Caches placed at safe
+houses can’t be discovered by Thrune. It’s also a good place to stash rescued
+prisoners and to rest without fear of random patrols. Each active safe house
+gives a +1 bonus to Security (+5 max).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Change Officer Role (no team required): One PC can change their role in the
+Ravens.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Covert Action (Spies): Works automatically to aid the next rebellion action,
+granting a +3 to the test and reducing Notoriety gain to the minimum
+possible. Can also be used to place stashes or contacts at “tactical” delve
+sites, which have custom effects depending on the delve and stay around for 1
+week.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Dismiss Team (no team required): Removes a team from the org and frees up
+their slot. Roll Loyalty; on a failure, gain 1d4 notoriety.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Earn Gold (Black Marketeers, Merchant Lords, Merchants, Peddlers): Roll
+Security and add $ equal to (Margin of Success * Team Tier * 10) to the org’s
+treasury. Failures earn no money, critical failures add 1d6 notoriety.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Gather Information (Agitators, Cognoscenti, Rumormongers, Street Performers):
+Roll Secrecy -2 with a bonus equal to team tier to gather a piece of
+information. This can be a rumor or a clue related to a specific
+investigation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Guarantee Event (no team required): Kick a hornet’s nest or two, increase your
+Notoriety by 1d6, and guarantee an event that turn. The GM rolls twice and
+takes the lower result to find out what it is.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Knowledge Check (Cognoscenti): Roll a Secrecy test instead of whatever
+knowledge skill would be required to answer a specific question, using the
+same dificulty penalties. Kinda like a use of Contacts.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Lie Low (no team required): Take no other actions this turn and reduce your
+Notoriety by the number of teams in the org.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manipulate Events (Cabalists): Like Guarantee Event, but better. The GM rolls
+twice and the cabalists get to choose which event happens. Notoriety remains
+unchanged. Add +3 to any rolls to resolve the event.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recruit Supporters (no team required): Roll Loyalty, aided by complimentary
+rolls from Recruiters. Success recruits 2d6 + Recruiter Bonuses
+supporters. Critical failure raises notoriety by 1d6.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recruit Team (no team required): Attempt to recruit a team, rolling the test
+and paying the cost demanded by their description, if any.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Refresh Marketplace (Black Marketeers, Merchant Lords, Merchants): Remove
+currently available magic items and reroll them. If you used a tier 3 team for
+this, you can re-roll one additional item. Not sure if I’m using these rules,
+but here they are.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rescue Character (Cabalists, Infiltrators, Spellcasters): The team attempts to
+rescue one captured character. Roll a Security check with a penalty determined
+by the GM. On a success, the character is rescued and sent to the org’s HQ or
+a safe house. Increase Notoriety by 2d6 on a success or 1d6 on a failure
+(which doesn’t rescue the character). Note that certain rescues must be
+performed by the PCs as a mission and can’t be replaced with this task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Restore Character (Spellcasters): This lets you use services from the Healing
+table on the DFRPG character sheet on a character, for the listed cost, paid
+out of the treasury.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sabotage (Saboteurs): Roll Secrecy -4 to give a +2 bonus to all other org
+checks this week and reduce your notoriety by 2d6. Failure reduces your
+supporters and Kintargo’s population by 2d6. Can also be used for custom
+actions in certain delves.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Secure Cache (Saboteurs, Sneaks, Spies, Thieves): Roll Secrecy to stash a
+number of items at a location in Kintargo. Buy the items if you don’t already
+have them. Penalty, weight, and cost limits depend on the size of the cache:
+Minor (-2, 2.5kg, $4500), Intermediate (-4, 5kg, $12500), or Major (-8, 10kg,
+no limit). Planting a cache deep inside enemy territory might add another -2
+or -4 penalty. Certain custom cache locations might be available with their
+own rules.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Special (no team required): For actions which must be taken to resolve events
+and the like. Each has their own special rules.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Special Order (Merchant Lords): Buy a magic item that’s more expensive than
+the city’s current limit, at a 5% discount and with a 2d6 day wait. You can
+pay an extra $5000 to reduce wait time to 1 day.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Spread Disinformation (Agitators, Cognoscenti, Rumormongers): Roll Secrecy
+-4. On a success, decrease Notoriety by 1d6, and an additional 1d6 for every 2
+MoS. On a failure, increase it by 1d6.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Upgrade Team (no team required): Pay a team’s upgrade cost and upgrade it one
+tier. A single team can only be upgraded once a week, but multiple actions can
+be used to upgrade multiple teams.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;That sure is one huge list of GURPS rules. I’ll keep this updated as I change
+it, and will use it as a reference for running the strategic side of the
+rebellion. With this I have what I need for my next step: running a few
+rebellion turns to get our organization to level 5 before we start Adventure 2.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/11/14/lphr-rebellion-rules.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/11/14/lphr-rebellion-rules.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>hells-rebels</category>
+        
+        <category>lets-play</category>
+        
+        
+      </item>
     
       <item>
         <title>Let&apos;s Read DFRPG Exploits: Chapter 1, Rolling the Dice</title>
@@ -1373,181 +1673,6 @@ magic items.&lt;/p&gt;
         <category>gurps</category>
         
         <category>lets-read</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Play Hell&apos;s Rebels: Arcturus Pankrator after Adventure 1</title>
-        <description>&lt;p&gt;An update to one of the player characters for my &lt;a href=&quot;/octopus-carnival/projects/lets-play-hells-rebels/&quot;&gt;solo Hell’s Rebels
-campaign&lt;/a&gt;. This is Art after the end of Adventure 01, with all advancements
-in stats and gear included.&lt;/p&gt;
-
-&lt;p&gt;His description and backstory remain the same and can be seen in the post for
-his &lt;a href=&quot;/octopus-carnival/2026/03/01/lphr-arcturus.html&quot;&gt;starting version&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Art is our second-best combatant in terms of sheer effectiveness, a small
-distance behind Jade. She can just stab fools, while he usually has to get in
-close and wrestle with them for a bit before doing damage. While doing this he’s
-vulnerable to stuff like damaging auras, poisonous or caustic skin, spiked armor
-and other similar effects. And, of course, to other foes deciding to strike at
-him mid-grapple.&lt;/p&gt;
-
-&lt;p&gt;But he’s also tough enough to take the hits, at least for a while, and he’s been
-extremely &lt;em&gt;fun&lt;/em&gt; to play. When I’m stuck thinking about optimal tactics or
-in-character motivations for choosing this plan over the other, I can always
-count on the little Arcturus in my head to go “forget all this! CHAAAARGE!”. And
-even if he takes a couple more turns to dispatch an opponent, that opponent is
-doing &lt;em&gt;nothing else&lt;/em&gt; but grappling with him during all that time.&lt;/p&gt;
-
-&lt;p&gt;His backstory as the Knight of the Deep hasn’t mattered much yet, but him being
-an Atlantean and thus unhindered by water has come in handy in a couple of spots
-already.&lt;/p&gt;
-
-&lt;p&gt;Arcturus started out with the default 250 points for DFRPG PCs, and at the end
-of Adventure 01 he’s currently at 271 points plus 18 unspent ones for a total
-of 289. He’s saving up for one of Extra Attack or Unarmed Master and should get
-it early in adventure 02.&lt;/p&gt;
-
-&lt;p&gt;Points-wise, he’s the character who benefitted the most from our combat skill
-house rules, and he also boasts increased Lifting ST to make him an even more
-terrifying wrestler.&lt;/p&gt;
-
-&lt;p&gt;Gear-wise, he now has a very nice suit of magic armor that was looted from a
-boss and properly purified, and an amulet that makes him very resistant to
-magic, so some of his biggest weaknesses are now nicely shored up.&lt;/p&gt;
-
-&lt;h2 id=&quot;character-sheet&quot;&gt;Character Sheet&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;ST&lt;/strong&gt; 14 {40}; &lt;strong&gt;DX&lt;/strong&gt; 15 {100}; &lt;strong&gt;IQ&lt;/strong&gt; 10 {0}; &lt;strong&gt;HT&lt;/strong&gt; 12 {20};&lt;/p&gt;
-
-&lt;p&gt;Damage 1d/2d; Basic Lift 28.9kg; HP 14; Will 10; Per 10; FP 12; Basic Speed 7
-{5}; Basic Move 8 {5};&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Advantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Amphibious {10}&lt;/li&gt;
-  &lt;li&gt;Combat Reflexes {15}&lt;/li&gt;
-  &lt;li&gt;Enhanced Parry (Unarmed) 3 {15}&lt;/li&gt;
-  &lt;li&gt;Gills {10}&lt;/li&gt;
-  &lt;li&gt;Lifting ST 3 {9}&lt;/li&gt;
-  &lt;li&gt;Trained by a Master {30}&lt;/li&gt;
-  &lt;li&gt;Wrestling Master {10}&lt;/li&gt;
-  &lt;li&gt;Reputation (All the time, everyone but Thrune supporters): +1 {3}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Disadvantages&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Code of Honor (Chivalry) {-15}&lt;/li&gt;
-  &lt;li&gt;Impulsiveness (12) {-10}&lt;/li&gt;
-  &lt;li&gt;Obsession (Find Shensen) (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Overconfidence (12) {-5}&lt;/li&gt;
-  &lt;li&gt;Sense of Duty (Companions) {-5}&lt;/li&gt;
-  &lt;li&gt;Wealth (Struggling) {-10}&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Carousing (E) HT {1} - 12&lt;/li&gt;
-  &lt;li&gt;Grappling (A) DX+5 {20} - 20&lt;/li&gt;
-  &lt;li&gt;Hiking (A) HT-1 {1} - 11&lt;/li&gt;
-  &lt;li&gt;Knife (A) DX+1 {4} - 16&lt;/li&gt;
-  &lt;li&gt;Knot-Tying (E) DX {1} - 15&lt;/li&gt;
-  &lt;li&gt;Stealth (A) DX-1 {1} - 14&lt;/li&gt;
-  &lt;li&gt;Swimming (E) HT {1} - 12&lt;/li&gt;
-  &lt;li&gt;Unarmed Striking (A) DX+2 {8} - 17&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Chi Skills&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Immovable Stance (H) DX {4} - 15&lt;/li&gt;
-  &lt;li&gt;Push (H) DX {4} - 15&lt;/li&gt;
-  &lt;li&gt;Throwing Art (H) DX {4} - 15&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Loadout&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Large Knife: $40, 0.5kg.&lt;/li&gt;
-  &lt;li&gt;Clothing: $0, 1kg.&lt;/li&gt;
-  &lt;li&gt;Moly Amulet: $23600, 0.25kg.&lt;/li&gt;
-  &lt;li&gt;Pouch: Carries 1.5kg of small items. $10, 0.1kg.
-    &lt;ul&gt;
-      &lt;li&gt;Visibility Dust: $50, 0.5kg.&lt;/li&gt;
-      &lt;li&gt;2 x Silver Coin $20, 0.01kg.&lt;/li&gt;
-      &lt;li&gt;12 x copper coin: $1, 0.01kg&lt;/li&gt;
-      &lt;li&gt;1 x Healing Potion, Minor: Heals 1d HP. $120, 0.25kg.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nox’s Armor: DR 7 to the front of the body, 4/2 everywhere else except the
-head. $5425, 13.5kg.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Defenses&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dodge: 11&lt;/li&gt;
-      &lt;li&gt;Parry (Knife): 12F&lt;/li&gt;
-      &lt;li&gt;Parry (Grappling): 17F&lt;/li&gt;
-      &lt;li&gt;DR:
-        &lt;ul&gt;
-          &lt;li&gt;Body: 7 (front) or 4/2 (back)&lt;/li&gt;
-          &lt;li&gt;Face: 0&lt;/li&gt;
-          &lt;li&gt;Skull: 2&lt;/li&gt;
-          &lt;li&gt;Elsewhere: 4/2&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;HP: 14&lt;/li&gt;
-      &lt;li&gt;FP 12&lt;/li&gt;
-      &lt;li&gt;Control Maximum: 19
-        &lt;ul&gt;
-          &lt;li&gt;1 to 8: -2&lt;/li&gt;
-          &lt;li&gt;9 to 18: -4&lt;/li&gt;
-          &lt;li&gt;19 to 27: -6&lt;/li&gt;
-          &lt;li&gt;28 to 37: -8&lt;/li&gt;
-          &lt;li&gt;38 or more: -12&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Attacks&lt;/strong&gt;&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;Large Knife (16): 2d-2 cut, Reach C-1; or 1d imp, Reach C.&lt;/li&gt;
-      &lt;li&gt;Karate Punch (17): 1d+2 cr, Reach C.&lt;/li&gt;
-      &lt;li&gt;Karate Kick (15): 1d+4 cr, Reach C-1.&lt;/li&gt;
-      &lt;li&gt;Wrestling Grab (20): 2d+3 control, Reach C.
-        &lt;ul&gt;
-          &lt;li&gt;One-handed grab (20): 2d+1 control, Reach C.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Unspent Points&lt;/strong&gt;: 18&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/10/08/lphr-arcturus-02.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/08/lphr-arcturus-02.html</guid>
-        
-        <category>gurps</category>
-        
-        <category>dungeon-fantasy</category>
-        
-        <category>character</category>
-        
-        <category>lets-play</category>
-        
-        <category>hells-rebels</category>
         
         
       </item>
