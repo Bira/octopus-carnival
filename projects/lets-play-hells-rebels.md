@@ -64,6 +64,10 @@ chronological order.
   the game. Not explicitly connected to the game, as the setting information is
   generic, but one of the PCs is an Atlantean.
 
+- [Rebellion Rules][43]: A somewhat messy conversion of the rules for running
+  the rebellion originally found in the Hell's Rebels Player's Guide. You need
+  the guide to fully understand them but hey, it's free.
+
 ## Player Characters
 
 Our heroes! I like making parties of five ever since I started GMing D&D 4th
@@ -181,3 +185,4 @@ scenes.
 [40]: {{ "/2026/10/23/lphr-jania-moonshadow-2.html" | relative_url }}
 [41]: {{ "/2026/10/31/lphr-rosalia-02.html" | relative_url }}
 [42]: {{ "/2026/11/02/lphr-urist-02.html" | relative_url }}
+[43]: {{ "/2026/11/14/lphr-rebellion-rules.html" | relative_url }}

@@ -74,7 +74,8 @@ version. For GURPS, they are:
   - For Cash awards, multiply all gp amounts by 5 for the amount in GURPS
     dollars as usual.
   - XP awards gift a flat 15 character points.
-  - Training awards let you put 4 character points towards any skill.
+  - Training awards let you put 4 character points towards any skill, or a mix
+    of them if they're at a low enough level.
   - Each title grants one level of Reputation (all the time, everyone but Thrune
     supporters) valued at 3 points/level.
 
@@ -157,7 +158,7 @@ limits, but the relevant actions are included here anyway.
   week.
 
 - Dismiss Team (no team required): Removes a team from the org and frees up
-  their slow. Roll Loyalty or gain 1d4 notoriety.
+  their slot. Roll Loyalty; on a failure, gain 1d4 notoriety.
 
 - Earn Gold (Black Marketeers, Merchant Lords, Merchants, Peddlers): Roll
   Security and add $ equal to (Margin of Success * Team Tier * 10) to the org's
@@ -233,3 +234,10 @@ limits, but the relevant actions are included here anyway.
 - Upgrade Team (no team required): Pay a team's upgrade cost and upgrade it one
   tier. A single team can only be upgraded once a week, but multiple actions can
   be used to upgrade multiple teams.
+
+# Conclusion
+
+That sure is one huge list of GURPS rules. I'll keep this updated as I change
+it, and will use it as a reference for running the strategic side of the
+rebellion. With this I have what I need for my next step: running a few
+rebellion turns to get our organization to level 5 before we start Adventure 2.
