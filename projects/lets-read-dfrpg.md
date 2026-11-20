@@ -68,6 +68,9 @@ number of people have heard about it.
 
 - [Chapter 1: Rolling the Dice][24]
 
+- **Chapter 2: Dungeon Delving**:
+  - [Part 1: Things to do in Town][25]
+
 
 [1]: {{ "/2026/07/02/wir-dungeon-fantasy-intro.html" | relative_url }}
 [2]: {{ "/2026/07/03/drfpg-adventurers-introduction.html" | relative_url }}
@@ -93,3 +96,4 @@ number of people have heard about it.
 [22]: {{ "/2026/10/20/dfrpg-adventurers-appendix.html" | relative_url }}
 [23]: {{ "/2026/11/01/dfrpg-exploits-introduction.html" | relative_url }}
 [24]: {{ "/2026/11/05/dfrpg-exploits-chapter-1.html" | relative_url }}
+[25]: {{ "/2026/11/20/dfrpg-exploits-chapter-2.html" | relative_url }}
