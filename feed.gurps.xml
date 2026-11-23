@@ -5,9 +5,237 @@
     <description>Octopus Carnival posts categorized as "GURPS"</description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.gurps.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Nov 2026 14:35:36 +0000</pubDate>
-    <lastBuildDate>Sat, 14 Nov 2026 14:35:36 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 17:49:25 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:49:25 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Let&apos;s Read DFRPG Exploits: Chapter 2, Dungeon Delving</title>
+        <description>&lt;p&gt;This is the chapter that answers the one big question everyone when reading a
+game for the first time: what do we &lt;em&gt;do&lt;/em&gt; here?&lt;/p&gt;
+
+&lt;p&gt;And the answer ends up being quite minimalistic: your delver group starts in
+Town, where they use their free time to find a dungeon to raid and prepare an
+expedition. Then they travel to that dungeon, fight monsters, loot treasure, and
+return to Town to spend it on upgrades and prepare for their next delve.&lt;/p&gt;
+
+&lt;p&gt;This reminds me of old-school D&amp;amp;D campaigns, which were more or less like this
+for a lot of editions of the game. It also reminds me of the first Diablo game,
+which unlike D&amp;amp;D &lt;em&gt;is&lt;/em&gt; mentioned by Sean Punch as one of the overt inspirations
+for DFRPG.&lt;/p&gt;
+
+&lt;p&gt;And yeah, you can hang a meatier narrative on top of these bones, but as in
+those old D&amp;amp;D editions that is entirely up to you. I’m personally fine with
+that, as coming up with this stuff was never a problem for me.&lt;/p&gt;
+
+&lt;h1 id=&quot;in-town&quot;&gt;In Town&lt;/h1&gt;
+
+&lt;p&gt;The first big section starts with a description of the nature and purpose of the
+abstract “Town” used throughout the text. As mentioned in previous posts, “Town”
+is a shorthand for whatever settlement the PCs visit between dungeon
+expeditions. Whether it’s always the same place or a different one every time,
+Town is supposed to be safe and actually kinda “boring”: this isn’t where
+adventure happens, this is where you prepare for adventure.&lt;/p&gt;
+
+&lt;p&gt;Our platonic ideal of a Town has at least one inn where our delvers can live
+between expeditions, a tavern where they can learn rumors, and various places
+that can sell stuff to the PCs and buy their loot. These are mostly abstracted
+as “Guilds” (Merchants’, Wizards’, Thieves’), but you also have the Temple that
+provides healing services and evil artifact disposal. The Town Watch keeps the
+thieves in check and maintains the peace, and the King’s Men swoop in to take
+care of bigger problems if necessary.&lt;/p&gt;
+
+&lt;p&gt;This is all in keeping with the extremely generic and tongue-in-cheek implied
+setting I talked about in the Adventurers reading. Every game report I’ve seen
+had something that was more fleshed out than this, but the books leave it very
+much as an exercise to the reader.&lt;/p&gt;
+
+&lt;p&gt;Anyway, if adventure happens Out There, what can you do In Here?&lt;/p&gt;
+
+&lt;p&gt;The sections that follow list several possibilities, with related skill rolls
+attached to each. These rolls are assumed to be “montages”, representing what
+you spend the whole week doing. Some of them are risky and might even damage
+you! In that case you start the next adventure proper with that harm marked on
+your sheet, and have to deal with it in play.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-stuff-cheap&quot;&gt;Getting Stuff Cheap&lt;/h2&gt;
+
+&lt;p&gt;When you create a character, you just buy stuff from the Equipment chapter in
+Adventurers at list price. This is also the default when you go shopping in
+Town, but you can also use some of the handy tricks described here to try to get
+them at a discount. According to the book, true munchkins will demand the GM
+start the very first adventure in Town so that they can score some extra gear
+this way.&lt;/p&gt;
+
+&lt;p&gt;Possibilities can range from haggling and bargain hunting to making your own
+weapons and concoctions, trying to dodge taxation by buying things in the black
+market, all the way to the good old five finger discount you get from
+shoplifting. All of them come with required skill rolls and suggested modifiers.&lt;/p&gt;
+
+&lt;h2 id=&quot;scoring-extra-cash&quot;&gt;Scoring Extra Cash&lt;/h2&gt;
+
+&lt;p&gt;If you do start out in town like a true munchkin, or if pickings have been slim
+lately, you might find yourself without a lot of money while waiting for your
+next quest. This section has some ways of earning spare change in town. And I do
+mean spare change: none of them pay remotely as well as actual adventuring. You
+do this when you have to get those last few coppers you need to pay for this
+week’s inn bill or for that one extra potion.&lt;/p&gt;
+
+&lt;p&gt;From least to most profitable we have: looking for lost change in the mud;
+begging or performing for coin on the street; gambling; picking people’s
+pockets; and debasing coin. That last bit is a funny historical crime where you
+scrape the precious metal off the sides of real coins and use the shavings to
+make fake ones by mixing them with base metal.&lt;/p&gt;
+
+&lt;p&gt;The money you get is proportional to your margin of success, and failures can
+bring negative consequences. Rummaging through the mud risks
+disease. Performing, gambling and stealing risk beatings, with a critical
+failure on the last one meaning they break your hand as punishment. Getting
+caught counterfeinting the King’s coin means the King’s Men dip your hand in
+molten silver, which is a particularly cruel way of inflicting the One Hand
+disadvantage.&lt;/p&gt;
+
+&lt;p&gt;What’s that? Getting an honest job? No, we don’t do that here.&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-a-quest&quot;&gt;Finding a Quest&lt;/h2&gt;
+
+&lt;p&gt;The GM of course is expected to have one or more possible adventures planned out
+when running a game. That doesn’t mean the PCs will automatically know about
+them. This is how they can find out.&lt;/p&gt;
+
+&lt;p&gt;They can use several different skills to chase down rumors, or to advertise
+their services to prospective quest givers. Once they have a lead, they can hit
+the books or hire sages to research the location in more detail.&lt;/p&gt;
+
+&lt;p&gt;And if all else fails there’s the charmingly named option of &lt;em&gt;starving&lt;/em&gt;, which
+is the first time this book talks about cost of living. The subject actually
+first came up on the equipment section of Adventurers, but I ended up missing it
+because it was in a box off to the side.&lt;/p&gt;
+
+&lt;p&gt;The typical assumption here is that delvers stay at inns when in Town. The total
+cost for their room and board come out to $150 per week. They must pay this for
+every week they stay in town, which means things can get tight if they take too
+long to find a dungeon. PCs might skip this cost if they get free room and board
+for some reason, and outdoorsy types can choose roll either Survival to live off
+the land (or Urban Survival to live off the streets…) each week to avoid
+payments as well. However, failure there meakes you take damage from starvation
+and other hazards, and you’ll start your next adventure missing that much HP.&lt;/p&gt;
+
+&lt;h2 id=&quot;finding-a-sponsor&quot;&gt;Finding a Sponsor&lt;/h2&gt;
+
+&lt;p&gt;Whether you found a dungeon yourself or were handed a quest, you can try to
+negotiate with wealthy investors for extra funding. The party chooses one envoy
+to make the appropriate influence rolls, and on a success they gain a gear
+allowance of $100 x the margin of success. The sponsor will however expect
+payment in the form of looted treasure whose value is &lt;em&gt;triple&lt;/em&gt; that of the gear
+allowance after the party returns. They might settle for a particular item
+instead. Surely giving away that plain gold ring with gibberish written on it is
+a better deal than parting with your coins, right?&lt;/p&gt;
+
+&lt;h1 id=&quot;coming-back-rich&quot;&gt;Coming Back Rich&lt;/h1&gt;
+
+&lt;p&gt;So you’ve been to the dungeon and now you’re back with a big stack of loot
+weighing you down. What do you do with it?&lt;/p&gt;
+
+&lt;h2 id=&quot;keepers&quot;&gt;Keepers&lt;/h2&gt;
+
+&lt;p&gt;You’ll want to keep some of that stuff, particularly if it’s cool gear or useful
+consumables. Several classic approaches are mentioned, which I guess is useful
+for people who are playing a game like this for the first time. Splitting by
+shares, “to each according to their need” (a fine way to maximize party power),
+and even “you get what you manage to grab”, with a snide little aside that
+Thieves often play by this rule regardless of what the party chose.&lt;/p&gt;
+
+&lt;p&gt;A more important note warns us that PCs can’t affect each other with social
+skills - any negotiation here happens between the players themselves. I’d also
+include mind control spells as off-limits here, though I would probably not want
+to play with a group where I needed to make this explicit.&lt;/p&gt;
+
+&lt;p&gt;We end with a paragraph on adjusting armor, since it’s a bit of a special case
+when it comes to loot. Armor made for someone of a different Size Modifier (i.e,
+human armor when you’re a halfling or vice-versa) will never fit no matter what
+you do. A suit made for someone of the same SM can be adjusted to fit you with
+an Armory (Body Armor) skill roll. This is useful for people with different
+builds, for dwarves who want to wear human-made armor (or vice-versa), and for
+anyone who wants to wear a suit of Fine armor made for someone else, which is
+harder to modify than usual.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-a-good-price&quot;&gt;Getting a Good Price&lt;/h2&gt;
+
+&lt;p&gt;Anything you don’t want to keep, you want to sell in order to get money and buy
+better gear. “Perpetual” dungeons that are too vast for anyone to clear or which
+rearrange and restock themselves periodically can have merchant enclaves right
+outside the entrance or even inside the dungeon itself, ready to buy the haul
+from any party who reaches them. If that’s not the case, then the stuff has to
+be hauled back to town to be sold, which can be a logistical challenge.&lt;/p&gt;
+
+&lt;p&gt;Coins are always worth their full value - they’re already money! The same goes
+for bulk precious metals like gold ingots or the like, as they’re more or less
+worth their weight in coins. For everything else you start with the lower of
+actual value or what the seller believes it’s worth, and multiply it by a
+percentage dependent on the seller’s Wealth. Average Wealth, the default, means
+you sell loot at 40% of its base value. Being richer means you get higher
+percentages because you have better connections, and being poorer means the
+opposite.&lt;/p&gt;
+
+&lt;p&gt;You can further adjust this by having a very high reaction bonus, haggling with
+the Merchant skill, or turning to the black market with Streetwise. Success at
+any of these increases your effective Wealth by one level, while failure tends
+to decrease it. The Town’s temple will also take in appropriate goods (like
+relics and incense) at a better price, with no rolls necessary, though it pays
+in equipment or healing credit rather than hard cash. I’d also include “evil
+artifacts for disposal” here.&lt;/p&gt;
+
+&lt;p&gt;There are sections here on how to deal with parties who drag every rusty hinge
+and chipped goblin sword back to town for sale (sell it as scrap by the
+wagon-load for a modest amount), and on how to earn a little extra by composing
+and selling the tale of your exploits. And finally, if you were on a quest, this
+is where you get paid for it.&lt;/p&gt;
+
+&lt;h1 id=&quot;there-and-back-again&quot;&gt;There and Back Again&lt;/h1&gt;
+
+&lt;p&gt;This is the section that covers getting to the dungeon and then back to
+Town. Travel time is usually whatever the GM proclaims. They might arrive at a
+number by calculating distances on a map, rolling randomly, or even just
+shouting “40 days and 40 nights!” whenever someone asks.&lt;/p&gt;
+
+&lt;p&gt;The party must bring or forage 3 meals for every day of travel time per PC, and
+every day also brings a random encounter roll. There are several ways to reduce
+that time from the base figure given by the GM: PCs can roll Navigation to find
+the best path, Weather Sense to avoid bad weather, and one of several travel
+skills like Hiking or Riding to make better time. Each success knocks off 10%
+from the base time or 30% on a crit.&lt;/p&gt;
+
+&lt;p&gt;You also have rules for camping and for night ambushes by monsters: randomly
+determine whose watch they arrive at, and roll Perception or Observation for the
+lookout to figure out if the party is surprised. Against sneaky monsters, this
+is a Quick Contest against their Stealth. There are some things the PCs can do
+to make their camp harder to spot in the wilderness, or harder to approach
+inside a dungeon (traps!).&lt;/p&gt;
+
+&lt;p&gt;Finally, you get a note on how to track someone through the wilderness as you
+travel.&lt;/p&gt;
+
+&lt;h1 id=&quot;coming-up-next&quot;&gt;Coming Up Next&lt;/h1&gt;
+
+&lt;p&gt;Turns out the chapter on how to play the whole dang game is too big to summarize
+in one post. Who’d have thunk it? In the next post we’ll look at rules for
+actually delving the dungeon.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+        <link>https://bira.github.io/octopus-carnival/2026/11/20/dfrpg-exploits-chapter-2.html</link>
+        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/11/20/dfrpg-exploits-chapter-2.html</guid>
+        
+        <category>gurps</category>
+        
+        <category>dungeon-fantasy</category>
+        
+        <category>lets-read</category>
+        
+        <category>exploits</category>
+        
+        
+      </item>
     
       <item>
         <title>Hell&apos;s Rebels Rebellion Rules for GURPS</title>
@@ -1521,157 +1749,6 @@ worn $20035, 0.25kg.&lt;/li&gt;
         <category>lets-play</category>
         
         <category>hells-rebels</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Let&apos;s Read DFRPG Adventurers: Misc. Gear</title>
-        <description>&lt;p&gt;If you’re like me, your eyes tend to sorta skip over the equipment section that
-comes after armor and weapons. Today, I’m going to have to stop and read it with
-more attention, as it’s still fairly important here. As I’ve said before, every
-last pound of gear matters in the DFRPG.&lt;/p&gt;
-
-&lt;p&gt;The section of Chapter 7 that covers Miscellaneous Gear is split into three
-subsections, and we’ll cover all three here.&lt;/p&gt;
-
-&lt;p&gt;Some pieces of gear in this chapter are described as “basic equipment” for a
-certain skill. This means you need them to use that skill normally, and if
-you’re forced to improvise or go without you’ll face a daunting -5 or -10
-penalty. Items that are high-quality might give a +1 or +2 instead.&lt;/p&gt;
-
-&lt;p&gt;Unlike weapons and armor, each item here gets at most one or two lines about its
-function and rules, followed by a cost and weight. They each have their uses,
-though.&lt;/p&gt;
-
-&lt;h1 id=&quot;basics&quot;&gt;Basics&lt;/h1&gt;
-
-&lt;p&gt;This is the kind of stuff that’s relatively inexpensive and available at any
-town worthy of the name. There are many small sections here that I will discuss
-in summary instead of reprinting the contents of the book.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Camping and Survival Gear&lt;/strong&gt; contains tents, canteens, blankets, backpacks, and
-all that good stuff that often gets overlooked. Of note here are the Personal
-and Group Basics items, which are an abstract ball of knicknacks that are basic
-equipment for Survival. The first one is for a single person, containing stuff
-like utensils and some basic fire-making items. The group version has cookpots,
-a rope, a utility hatchet, and other things you need to help set up camp for 3-8
-people. It weights 20 lbs but you can distribute its weight among several
-PCs. These don’t include shelter, so you might also want tents and bedrolls or
-sleeping furs. This is also where you find trail rations.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat Accessories&lt;/strong&gt; has a selection of different quivers, but also a sturdy
-belt that can support 2 or 3 melee weapons hanging from it, lanyards to mitigate
-those pesky “weapon dropped” rolls, and hobnailed boots that let you ignore poor
-footing but make a lot of noise. If you need more than 2-3 weapons ready to draw
-at all times, wear more belts! I think that’s how D&amp;amp;D 3e’s fashion came about.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Containers&lt;/strong&gt; are your chests, barrels and buckets. In my experience you tend
-to find those in dungeons more often than you need to buy them. There are also
-stats for an empty crystal vial of the sort that usually contains potions, and
-which you could use to collect samples of corrosive goo and the like.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Light Sources&lt;/strong&gt; covers expensive beeswax and stinky tallow candles, as well as
-lanterns and torches. Detailed rules for lighting are in Exploits.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Medical Gear&lt;/strong&gt; has bandages which are basic equipment for First Aid, a proper
-first-aid kit which gives +1, a liter for carrying the wounded, and surgical
-equipment that can be used for field Surgery or to remove valuable dead monster
-bits without ruining them.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Miscellaneous Hardware&lt;/strong&gt; is, yes, the miscellanea among the
-miscellanea. Various ropes, chains, a ladder, and poles in both six- and
-ten-foot varieties.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Musical Instruments&lt;/strong&gt; are for bards and for anyone else who wants to make
-noise, which requires no skill. There’s a “baseline” two-handed stringed
-instrument which can be anything from an ancient lyre to a modern acoustic
-guitar. Woodwinds are lighter but you can’t speak while using them. A harp or
-zither is more expensive but can be played quietly enough to not be heard
-through a door. And if you’re more of a bard-barian type horns, drums, and
-bagpipes can be heard for miles!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tools&lt;/strong&gt; is a large category that has your crowbars, hammers, saws, pickaxes
-and shovels. It also has a utility machete that’s crappy as a weapon but useful
-for cutting foliage, and more specialized things like tongs, scales, and even a
-backpack toolkit for field armorers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Writing Equipment&lt;/strong&gt; has somewhat anachronistic sheets of paper in bundles of
-20, a scribe’s kit with quill, inkwell and penknife, and a humble piece of chalk
-for writing on dungeon walls.&lt;/p&gt;
-
-&lt;h1 id=&quot;special-orders&quot;&gt;Special Orders&lt;/h1&gt;
-
-&lt;p&gt;You can start with these when creating a character, but acquiring them in play
-requires finding a specialist vendor that deals with them (alchemist, eccentric
-artificer, smuggler, etc.).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Adventure-Wear&lt;/strong&gt; covers a large set of specialized and somewhat anachronistic
-fashion, like the Delver’s Webbing that works like a modern tactical harness
-full of pouches and pockets, or helmet lamps.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Camping Gear&lt;/strong&gt; has alchemical matches, a compass, a timed candle that burns at
-a precise fixed rate, and special rations. Elven rations are very expensive but
-three times lighter. Dwarven ones weight twice as much as the standard human
-stuff but give you poison resistance after eating them for a month or more.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Combat Accessories&lt;/strong&gt; here cover bandoleers for those people who absolutely
-must carry 24 throwing daggers on them, a variety of crossbow accessories, and
-even lamps and lecterns that you can bolt onto your shield.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Covert Ops and Security&lt;/strong&gt; is known as “thief gear” in other games. A very
-large section that includes everything from your classic set of lockpicks and
-trap-disarming tools to dungeon camouflage and both smoke and flash bombs for
-those who love a good ninja vanish move. It’s also where you find stats for
-padlocks, which again are something you will run into in the dungeon more than
-you’ll need to buy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Esoteric Supplies&lt;/strong&gt; includes the healing kits for the cleric’s and druid’s
-special skills, and your usual selection of holy symbols and holy water.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Optics&lt;/strong&gt; has a bull’s eye lantern that projects a long beam instead of a small
-circular light, periscopes, telescopes, and mirrors.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Scholarly Gear&lt;/strong&gt; includes professional cartography kits, waterproof scroll
-cases, self-righting hourglasses, as well as manuals and tomes that can let you
-roll at default for knowledge skills you don’t have, or give a bonus to those
-you do.&lt;/p&gt;
-
-&lt;h1 id=&quot;concoctions&quot;&gt;Concoctions&lt;/h1&gt;
-
-&lt;p&gt;These aren’t magical, but they follow the same rules as Special Order gear, and
-so might not be easily available after character creation.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Chemicals&lt;/strong&gt; are mostly throwable grenades that burst on impact. They can be
-filled with acid, alchemist’s fire, glue, or visibility dust. There are also
-glow vials which illuminate as much as a torch when activated but don’t use
-fire.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Natural Preparations&lt;/strong&gt; include a selection of drinkable druidic anti-toxins,
-and bundles of garlic and wolfsbane for use against vampires and werewolves.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Poisons&lt;/strong&gt; are fantasy poisons that act fast enough to affect combat, dealing
-some amount of damage at once when the victim fails a resistance roll. They’re
-too fast for anti-toxins, which only help against stuff with ongoing
-effects. Some are utility compounds that you spread on your bladed weapons,
-others are grenades. They range from the very weak to the terrifyingly deadly.&lt;/p&gt;
-
-&lt;h1 id=&quot;impressions&quot;&gt;Impressions&lt;/h1&gt;
-
-&lt;p&gt;I ended up reading this section more closely than I had in years, which is a
-good thing! A lot of the basic items here are stuff that remains useful
-throughout a whole campaign, as they can’t easily be replaced with spells or
-magic items.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-        <link>https://bira.github.io/octopus-carnival/2026/10/09/dfrpg-adventurers-chapter-07-03.html</link>
-        <guid isPermaLink="true">https://bira.github.io/octopus-carnival/2026/10/09/dfrpg-adventurers-chapter-07-03.html</guid>
-        
-        <category>dfrpg</category>
-        
-        <category>gurps</category>
-        
-        <category>lets-read</category>
         
         
       </item>
