@@ -6,8 +6,8 @@
 </description>
     <link>https://bira.github.io/octopus-carnival/</link>
     <atom:link href="https://bira.github.io/octopus-carnival/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Nov 2026 17:49:25 +0000</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 17:49:25 +0000</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 23:21:11 +0000</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 23:21:11 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -474,6 +474,12 @@ by the GM. On a success, the character is rescued and sent to the org’s HQ or
 a safe house. Increase Notoriety by 2d6 on a success or 1d6 on a failure
 (which doesn’t rescue the character). Note that certain rescues must be
 performed by the PCs as a mission and can’t be replaced with this task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Reduce Danger (Freedom Fighters, Infiltrators, Cabalists, Spellcasters): Roll
+Security -2 and reduce the city’s Danger for this week and the next by 5 +
+Margin of Success. Failure instead increases Notoriety by 1d4 and Danger by 5
+for the same amount of time.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Restore Character (Spellcasters): This lets you use services from the Healing
