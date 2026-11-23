@@ -203,6 +203,11 @@ limits, but the relevant actions are included here anyway.
   (which doesn't rescue the character). Note that certain rescues must be
   performed by the PCs as a mission and can't be replaced with this task.
 
+- Reduce Danger (Freedom Fighters, Infiltrators, Cabalists, Spellcasters): Roll
+  Security -2 and reduce the city's Danger for this week and the next by 5 +
+  Margin of Success. Failure instead increases Notoriety by 1d4 and Danger by 5
+  for the same amount of time.
+
 - Restore Character (Spellcasters): This lets you use services from the Healing
   table on the DFRPG character sheet on a character, for the listed cost, paid
   out of the treasury.
